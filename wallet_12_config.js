@@ -1,1 +1,1 @@
-var mnemonic = "rude penalty mad margin judge artist life fabric rug pen urban poet";
+var mnemonic = "thumb odor spoon tiny vast suspect life filter fun crouch during gate";

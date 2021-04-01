@@ -1,1 +1,1 @@
-var mnemonic = "off phrase gallery anxiety bench bar march caught hedgehog major maximum excuse";
+var mnemonic = "ranch balcony absurd verify uncover toilet rely custom fold youth patch risk";

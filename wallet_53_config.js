@@ -1,1 +1,1 @@
-var mnemonic = "sausage muffin woman swallow among worry dynamic delay hidden hour gap census";
+var mnemonic = "guide whip rack century park clever tide hungry shoulder video spawn joke";

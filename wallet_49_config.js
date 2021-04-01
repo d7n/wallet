@@ -1,1 +1,1 @@
-var mnemonic = "win purpose regret like since toilet great candy bomb all net knock";
+var mnemonic = "salt way race version poverty country copy cactus town cake cream leisure";

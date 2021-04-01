@@ -1,1 +1,1 @@
-var mnemonic = "lonely depend follow join other able charge exercise same enroll harbor copper";
+var mnemonic = "economy divide mutual village outer carpet reject weather taste tired author pencil";

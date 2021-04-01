@@ -1,1 +1,1 @@
-var mnemonic = "filter convince congress choose exclude control unfold spike hamster history state raise";
+var mnemonic = "trouble mansion correct glance good lonely ice cute path above young kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "protect remind jewel comfort gain excite cram property fog heart pride smoke";
+var mnemonic = "swallow badge arrow tumble traffic task left deal chimney act arrow ignore";

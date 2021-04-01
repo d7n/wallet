@@ -1,1 +1,1 @@
-var mnemonic = "other only shadow math cream invite hamster lava fox bullet panda sad";
+var mnemonic = "about bright odor autumn gospel equal across tool snack moon ignore ankle";

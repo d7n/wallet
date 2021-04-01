@@ -1,1 +1,1 @@
-var mnemonic = "judge remain chicken girl train vault buyer quick job siege case fatigue";
+var mnemonic = "sign tool home level small course cloud peanut impact erupt try pride";

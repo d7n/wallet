@@ -1,1 +1,1 @@
-var mnemonic = "inside resist cream december tree okay sand crumble depth silk cinnamon lounge";
+var mnemonic = "cushion actor modify organ rather stem crawl bus chief cube mushroom math";

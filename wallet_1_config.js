@@ -1,1 +1,1 @@
-var mnemonic = "crumble actress figure toast music siege foam better burst grace siren model";
+var mnemonic = "race garlic cross dignity rookie follow attract escape pipe future normal page";

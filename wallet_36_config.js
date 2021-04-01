@@ -1,1 +1,1 @@
-var mnemonic = "physical clown stuff manual bitter universe zebra crane basic defy gown wall";
+var mnemonic = "title vehicle now artefact sister inmate tiger swing path betray also found";

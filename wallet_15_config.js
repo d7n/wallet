@@ -1,1 +1,1 @@
-var mnemonic = "forward hero poem thunder project virus young rebuild twist swift edge purity";
+var mnemonic = "coconut leopard mass tennis garment amused misery drift topic left disorder master";

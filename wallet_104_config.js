@@ -1,1 +1,1 @@
-var mnemonic = "chase swing citizen doctor tennis truly acid sea kid supply black visit";
+var mnemonic = "insect thunder arch admit pear bitter film thumb aerobic door boost diet";

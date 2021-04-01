@@ -1,1 +1,1 @@
-var mnemonic = "track wife orchard film party couple cube patch uphold grape shallow clump";
+var mnemonic = "unhappy hen kitten sight kiwi express juice tube domain process bacon fame";

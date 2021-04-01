@@ -1,1 +1,1 @@
-var mnemonic = "keep genius festival harsh safe relax gasp enforce kitten advice carbon climb";
+var mnemonic = "hard million merge neither sad mango accident resemble tobacco drive stuff camp";

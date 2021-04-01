@@ -1,1 +1,1 @@
-var mnemonic = "canal paper honey fun drill doctor rival thank veteran discover coyote mystery";
+var mnemonic = "protect float fish accuse false odor poet come pitch spatial tongue gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "donate escape junior orbit more matter shop ugly imitate clay curtain gauge";
+var mnemonic = "injury reunion turkey major auction impact kite scissors turkey october awkward main";

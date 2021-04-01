@@ -1,1 +1,1 @@
-var mnemonic = "antique loop student arrow round sword quick strategy make rail spread today";
+var mnemonic = "ordinary addict urge river hidden able develop flock dice trick human fossil";

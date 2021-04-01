@@ -1,1 +1,1 @@
-var mnemonic = "record dynamic warrior wall access margin rubber invite mix void breeze pig";
+var mnemonic = "firm street solve require caution usage person length draw much impose zone";

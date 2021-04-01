@@ -1,1 +1,1 @@
-var mnemonic = "grunt company entry mushroom account upgrade near mimic find name wisdom captain";
+var mnemonic = "setup mother tape pioneer skate timber essay smoke lava fox favorite orphan";

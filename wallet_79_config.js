@@ -1,1 +1,1 @@
-var mnemonic = "salmon decide walnut mushroom dawn describe reopen general menu lucky dolphin must";
+var mnemonic = "hint velvet erode uphold oil alcohol program duck recall identify situate feature";

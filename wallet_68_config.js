@@ -1,1 +1,1 @@
-var mnemonic = "nominee west lawsuit vacant coral polar popular siren margin window possible sword";
+var mnemonic = "impose scrap ridge rice skin baby lemon rice direct all lawsuit hard";

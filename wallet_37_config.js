@@ -1,1 +1,1 @@
-var mnemonic = "east rebuild copy decide purpose blind that excite atom shell target flat";
+var mnemonic = "physical excite hotel mandate logic idle zone vendor child stumble okay author";

@@ -1,1 +1,1 @@
-var mnemonic = "lift ensure cool couch save school spot seat pet trophy robust maze";
+var mnemonic = "rescue shoot pottery city remain crouch boil museum assault tortoise rigid ankle";

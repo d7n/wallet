@@ -1,1 +1,1 @@
-var mnemonic = "glad tail original robust song citizen biology fashion more bulk eyebrow govern";
+var mnemonic = "mosquito average scan stadium pool seek enforce ginger rich second improve ready";

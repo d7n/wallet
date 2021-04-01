@@ -1,1 +1,1 @@
-var mnemonic = "museum faculty ahead armor february maid broccoli liar close aisle gate depart";
+var mnemonic = "summer love future record casino world mystery cause victory engine fog ranch";

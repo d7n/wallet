@@ -1,1 +1,1 @@
-var mnemonic = "divert industry seek ridge purity panther cancel detail thing spend update skirt";
+var mnemonic = "jewel clump issue struggle portion manage aware grocery frog maximum depth crime";

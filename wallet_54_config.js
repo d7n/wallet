@@ -1,1 +1,1 @@
-var mnemonic = "lake wisdom february gate beyond copy rely alarm enforce luggage segment moon";
+var mnemonic = "grant glue gravity inch fold ladder hood spin film amused fork giant";

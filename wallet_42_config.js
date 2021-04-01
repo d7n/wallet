@@ -1,1 +1,1 @@
-var mnemonic = "brick dutch butter sting hungry shy tuition bless doctor kitchen harvest gain";
+var mnemonic = "rebel brand service close small pond void sick engage circle scale talk";

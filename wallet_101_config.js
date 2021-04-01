@@ -1,1 +1,1 @@
-var mnemonic = "maze penalty worry dust cigar ghost because stem plunge reason service enjoy";
+var mnemonic = "beach acoustic raven dune six jacket huge ginger system park calm now";

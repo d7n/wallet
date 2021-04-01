@@ -1,1 +1,1 @@
-var mnemonic = "pear sample rose flight burst banner mechanic coffee talent still there brick";
+var mnemonic = "select pull twice toast orange pitch cook cute burger renew card badge";

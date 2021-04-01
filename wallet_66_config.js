@@ -1,1 +1,1 @@
-var mnemonic = "game father fantasy beauty muffin drop claw sunny inflict spoil rail egg";
+var mnemonic = "ethics awful carry mystery office typical skirt light question return dwarf large";

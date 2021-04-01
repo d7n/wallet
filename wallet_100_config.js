@@ -1,1 +1,1 @@
-var mnemonic = "stage release youth civil subject jump field flower immense oyster convince erode";
+var mnemonic = "eyebrow total spread monster gain satoshi blur comic page advance thing master";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire vintage rib brisk boat genre forget owner must flush chuckle catch";
+var mnemonic = "flock remove silk glory smile violin return cube clay buddy silk pole";

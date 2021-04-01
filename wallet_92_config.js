@@ -1,1 +1,1 @@
-var mnemonic = "salon present ball check ladder brass lemon relief sport patrol embark symptom";
+var mnemonic = "anger horn argue link enough topic taxi cargo robot space winter wide";

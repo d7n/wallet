@@ -1,1 +1,1 @@
-var mnemonic = "churn practice angry fortune pulse history much typical female treat rough bottom";
+var mnemonic = "proud finger arm snack certain space song helmet cry clog busy trial";

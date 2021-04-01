@@ -1,1 +1,1 @@
-var mnemonic = "rail spoil report rich old quiz paddle spread chat relax concert large";
+var mnemonic = "spoil debris finish brief crumble forget acid bless toward speed panda pole";

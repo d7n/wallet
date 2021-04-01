@@ -1,1 +1,1 @@
-var mnemonic = "pet ridge dignity exit riot outside spatial edit satisfy people guess bubble";
+var mnemonic = "tent peasant nut describe pottery differ witness good crazy together stadium fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "organ pupil butter major segment roast olive isolate gauge drill comic artefact";
+var mnemonic = "bread impulse always nest hair mistake copper volcano frost police true reward";

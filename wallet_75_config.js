@@ -1,1 +1,1 @@
-var mnemonic = "delay van shift clock noise suggest woman again slice unhappy kingdom second";
+var mnemonic = "increase wine modify stairs story absurd visual interest foster depart topic float";

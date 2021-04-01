@@ -1,1 +1,1 @@
-var mnemonic = "area divorce hurry core tower merit elbow lizard promote laptop rally damp";
+var mnemonic = "shaft nominee area slim lunar glow fog leave hunt decrease siege throw";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin cattle rare crawl barrel home tag frozen hidden lunar surface sting";
+var mnemonic = "worth word electric obscure exist scale acquire casino artefact solution prefer hungry";

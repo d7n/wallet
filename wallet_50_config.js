@@ -1,1 +1,1 @@
-var mnemonic = "kidney impact venture slender source monitor force bounce logic timber protect convince";
+var mnemonic = "enable romance true february vote lava rigid puzzle indicate post defy despair";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose timber paddle invest card mammal mix parrot carbon guess laundry chimney";
+var mnemonic = "random bulb shoulder skate damp social village leave unhappy rice enforce spoon";

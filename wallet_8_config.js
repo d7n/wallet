@@ -1,1 +1,1 @@
-var mnemonic = "tourist ripple damage sibling stumble average regular tell rail lottery modify snap";
+var mnemonic = "pause crash lady grow skin decide say icon moon dilemma since attack";

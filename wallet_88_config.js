@@ -1,1 +1,1 @@
-var mnemonic = "used yellow mechanic misery choice chapter bonus weasel regret person illness crowd";
+var mnemonic = "badge gather saddle present abuse barely member child jar talk prevent target";

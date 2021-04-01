@@ -1,1 +1,1 @@
-var mnemonic = "job ready upper where minimum great siren case grant area moment tuna";
+var mnemonic = "blouse parent into bacon neck reunion ramp leaf off love cause glare";

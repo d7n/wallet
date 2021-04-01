@@ -1,1 +1,1 @@
-var mnemonic = "drift again speed nation already motor pen vast segment victory diet final";
+var mnemonic = "coral hybrid ability fault glass search crouch grace churn pond normal upon";

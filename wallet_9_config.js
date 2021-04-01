@@ -1,1 +1,1 @@
-var mnemonic = "attitude number nose expire bean vendor labor black wedding spell police easy";
+var mnemonic = "always clean armed soon wrong relax grape art arch beyond ordinary famous";

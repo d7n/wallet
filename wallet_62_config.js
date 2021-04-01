@@ -1,1 +1,1 @@
-var mnemonic = "quote parrot giant pluck sphere virus model antenna glance ketchup arrive alien";
+var mnemonic = "defense inquiry stumble cruise toward now bid small submit feel possible gadget";

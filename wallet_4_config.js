@@ -1,1 +1,1 @@
-var mnemonic = "slide hunt merit spike legend quarter else any van diagram speak tray";
+var mnemonic = "nation torch elegant such latin bird glimpse bean glue brass organ chicken";

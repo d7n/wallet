@@ -1,1 +1,1 @@
-var mnemonic = "cricket salad seed lunar wolf infant maid iron salon analyst amateur hunt";
+var mnemonic = "glimpse enough lyrics maze jaguar aerobic curtain deliver cruel blame profit neglect";

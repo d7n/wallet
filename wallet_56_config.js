@@ -1,1 +1,1 @@
-var mnemonic = "ocean animal minor captain snow hip level match pole cake oven stone";
+var mnemonic = "unlock crowd clay pudding word prosper blanket trash evil put bleak forward";

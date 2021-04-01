@@ -1,1 +1,1 @@
-var mnemonic = "choice update prevent agree upgrade pledge loop wasp finish gauge empty wedding";
+var mnemonic = "sting weapon knife potato woman pear syrup fault section sick calm dish";

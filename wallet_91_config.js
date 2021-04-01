@@ -1,1 +1,1 @@
-var mnemonic = "identify belt glide join practice dumb bike muffin jump sphere wet seven";
+var mnemonic = "drill face earth pair degree grab hobby soccer clean loop festival note";

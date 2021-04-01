@@ -1,1 +1,1 @@
-var mnemonic = "relax close heart obtain found taste coral appear tiny board lyrics autumn";
+var mnemonic = "skate cheese aisle mistake make harvest credit arrow high siren ozone reveal";

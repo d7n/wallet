@@ -1,1 +1,1 @@
-var mnemonic = "baby gospel expose alarm since when tattoo broccoli drink banner razor security";
+var mnemonic = "audit dial crunch original short hello tide enjoy fork harsh shoe avoid";

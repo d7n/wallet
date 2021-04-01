@@ -1,1 +1,1 @@
-var mnemonic = "ribbon matrix occur purchase salt tornado project wing treat critic dash salon";
+var mnemonic = "nominee balance donate file fiber spare dinner chief proud science globe blue";

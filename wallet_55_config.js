@@ -1,1 +1,1 @@
-var mnemonic = "govern cruel zero super cupboard laugh behind quick eager domain vivid eyebrow";
+var mnemonic = "mouse immune fan pen lock all say shadow arm chronic tumble what";

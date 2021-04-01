@@ -1,1 +1,1 @@
-var mnemonic = "sport say fuel october wreck borrow effort orient pony icon rug smile";
+var mnemonic = "trend blind country rebuild group atom inmate stage space glow used unveil";

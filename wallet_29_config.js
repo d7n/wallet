@@ -1,1 +1,1 @@
-var mnemonic = "daughter negative creek fame hurry core way there bulk prize seat shine";
+var mnemonic = "omit second energy skate general volcano mail metal begin luxury junior post";

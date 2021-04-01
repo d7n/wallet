@@ -1,1 +1,1 @@
-var mnemonic = "present item puppy toast distance fury mango general rural slender clump orphan";
+var mnemonic = "ozone will hobby tomato mystery december tornado reject addict reflect check swamp";

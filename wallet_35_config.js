@@ -1,1 +1,1 @@
-var mnemonic = "happy peace flag dose dog enlist struggle youth mammal electric surface float";
+var mnemonic = "just round cake source odor empower affair cloth smile swap open kiwi";

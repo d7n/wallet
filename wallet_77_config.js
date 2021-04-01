@@ -1,1 +1,1 @@
-var mnemonic = "broccoli measure catalog buddy ivory gloom circle crash pony know tomato stairs";
+var mnemonic = "practice size bicycle poet welcome thunder rather air snap wait ahead window";

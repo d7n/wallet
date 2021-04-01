@@ -1,1 +1,1 @@
-var mnemonic = "category giggle clock ring duck daughter novel knife endless taste chase shrug";
+var mnemonic = "clutch cake wise smoke wealth hour shuffle submit guess rain junk net";

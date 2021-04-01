@@ -1,1 +1,1 @@
-var mnemonic = "cargo soap network novel earth belt safe spread flame chase dolphin scissors";
+var mnemonic = "differ famous ketchup fee casual proof vibrant famous salute seminar gravity whale";

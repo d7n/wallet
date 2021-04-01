@@ -1,1 +1,1 @@
-var mnemonic = "country awesome jewel bread lake armor tank truck artwork time confirm pig";
+var mnemonic = "unlock sail nerve future shrimp leg private excess disease minute subway gauge";

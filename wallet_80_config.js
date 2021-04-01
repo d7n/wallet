@@ -1,1 +1,1 @@
-var mnemonic = "combine depart range brief faith aunt analyst duck blush lonely gas hazard";
+var mnemonic = "defy scrap neglect marriage snow ethics rifle hungry social kangaroo loop spatial";

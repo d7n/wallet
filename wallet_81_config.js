@@ -1,1 +1,1 @@
-var mnemonic = "depth picture street pen whip desert lobster tray struggle switch can cousin";
+var mnemonic = "cloud bridge galaxy relax future wedding list notable basic aunt dwarf click";

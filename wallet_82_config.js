@@ -1,1 +1,1 @@
-var mnemonic = "jungle thunder mandate style few vessel flavor cupboard clerk coil goat hotel";
+var mnemonic = "drill tree woman tent side measure typical list exotic lazy excite play";

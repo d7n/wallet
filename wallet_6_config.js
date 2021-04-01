@@ -1,1 +1,1 @@
-var mnemonic = "must ecology kite mesh labor reveal sudden useless doctor erupt near asset";
+var mnemonic = "tackle slight must result country gaze wine core shell salute typical winter";

@@ -1,1 +1,1 @@
-var mnemonic = "ski cactus theory elegant often among diesel inhale butter all middle target";
+var mnemonic = "asthma ankle enable dance clock buffalo tiny allow usage olympic gown prosper";

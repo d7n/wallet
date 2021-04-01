@@ -1,1 +1,1 @@
-var mnemonic = "mimic inhale waste recycle crawl melody arrow rug abandon flame reason source";
+var mnemonic = "acoustic express ramp brave orient total analyst zero misery mimic approve kitten";

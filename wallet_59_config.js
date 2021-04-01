@@ -1,1 +1,1 @@
-var mnemonic = "tunnel stumble media horse mail save display two believe identify burst trash";
+var mnemonic = "heavy stem afford expand cotton win decorate age borrow annual visual dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "orient palace garment always fame anchor quit unfold nerve cream goat lake";
+var mnemonic = "claw laugh item cool task process hero tree deal quote century finish";

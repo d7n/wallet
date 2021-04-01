@@ -1,1 +1,1 @@
-var mnemonic = "lumber pepper response infant toe pass latin wire hello more mouse old";
+var mnemonic = "wire initial jeans share coil nominee know fiscal more deny cry unit";

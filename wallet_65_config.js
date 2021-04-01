@@ -1,1 +1,1 @@
-var mnemonic = "awkward tomorrow game better verb economy genre employ hand initial screen already";
+var mnemonic = "rival limit recall fuel welcome tuna absurd fabric moral nose news mesh";

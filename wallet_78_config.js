@@ -1,1 +1,1 @@
-var mnemonic = "beach sorry label case tube nuclear duty exit edge enough farm kiss";
+var mnemonic = "swap bag physical indicate enemy motion share hold achieve color increase result";

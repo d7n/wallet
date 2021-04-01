@@ -1,1 +1,1 @@
-var mnemonic = "wagon rapid jealous mimic vital leg soft clean cricket lecture genuine chef";
+var mnemonic = "gentle best pipe degree foot trophy trim ivory another oxygen proud veteran";

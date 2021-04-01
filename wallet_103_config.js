@@ -1,1 +1,1 @@
-var mnemonic = "retire rail upgrade energy kingdom squirrel render same gate very elephant result";
+var mnemonic = "steak virus energy chronic now age window depth odor sketch tube scrub";

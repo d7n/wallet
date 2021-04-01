@@ -1,1 +1,1 @@
-var mnemonic = "clock frame index idle board oak immense orange rich invite magic brass";
+var mnemonic = "inform caution ladder cactus eyebrow hamster strong cover dizzy arrive alarm arrow";

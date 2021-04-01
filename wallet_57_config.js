@@ -1,1 +1,1 @@
-var mnemonic = "trial echo foam expect ring slender dream little tooth sweet settle fury";
+var mnemonic = "eye share sample select broken trend swear sell crash valve arrow bounce";

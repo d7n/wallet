@@ -1,1 +1,1 @@
-var mnemonic = "slab one lava news neutral phone dust nut accuse immune tell possible";
+var mnemonic = "sun tomorrow adjust disagree input monster fiction start swift illness sibling avocado";

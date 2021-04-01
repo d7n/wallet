@@ -1,1 +1,1 @@
-var mnemonic = "ensure chunk panther discover write behind audit enact manual coast cycle hedgehog";
+var mnemonic = "produce swallow public buddy aunt budget jaguar sauce insect ice security match";

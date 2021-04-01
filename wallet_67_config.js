@@ -1,1 +1,1 @@
-var mnemonic = "loyal pumpkin across video eternal minute field claw blood pen anchor egg";
+var mnemonic = "artwork surface sunset daring deputy plunge aerobic hedgehog aisle margin then ecology";

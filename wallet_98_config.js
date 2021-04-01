@@ -1,1 +1,1 @@
-var mnemonic = "illness syrup surge nominee toss churn finish measure keep sword beef bachelor";
+var mnemonic = "celery orange street turkey banana rose borrow wink cross you potato exclude";

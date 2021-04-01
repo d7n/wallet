@@ -1,1 +1,1 @@
-var mnemonic = "believe toddler cement edge sauce train coach vast alpha hollow journey throw";
+var mnemonic = "pony pass slogan renew gown online diagram lucky old spoil palace tackle";

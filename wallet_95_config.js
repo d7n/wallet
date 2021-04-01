@@ -1,1 +1,1 @@
-var mnemonic = "project post library cry swift solid that define chapter tag culture bicycle";
+var mnemonic = "riot energy access witness language view pill proud combine effort grit lecture";

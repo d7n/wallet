@@ -1,1 +1,1 @@
-var mnemonic = "horse tilt trim monster human snap front bachelor dry target hair below";
+var mnemonic = "version noise receive symptom wave kite idle peasant impact roof vocal castle";

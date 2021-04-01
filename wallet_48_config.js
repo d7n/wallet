@@ -1,1 +1,1 @@
-var mnemonic = "piano category secret quantum adjust biology table tower axis galaxy behind fragile";
+var mnemonic = "bid vacant sleep slow crowd prevent green wide twelve neck chapter salon";
