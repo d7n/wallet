@@ -1,1 +1,1 @@
-var mnemonic = "health tray used sail fault slush slam fresh gaze found scout tomato";
+var mnemonic = "tomorrow hurry process fish elder airport sponsor island glove erupt south armed";

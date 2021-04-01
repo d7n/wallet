@@ -1,1 +1,1 @@
-var mnemonic = "load output okay client nature fold crunch glow flash right boost awful";
+var mnemonic = "song lion coconut ill major wide abuse shadow vacant obscure donate strike";

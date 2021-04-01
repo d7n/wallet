@@ -1,1 +1,1 @@
-var mnemonic = "crush gown chaos pretty since genius gain develop upgrade sauce spoil truth";
+var mnemonic = "route shallow number answer response cricket spawn ice water decline reason limb";

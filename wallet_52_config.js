@@ -1,1 +1,1 @@
-var mnemonic = "cake snack answer invite hero icon visit leaf patch bright fold chair";
+var mnemonic = "exotic learn wood virus trigger double mail motor dismiss bone badge place";

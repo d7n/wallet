@@ -1,1 +1,1 @@
-var mnemonic = "bracket rate swear saddle step scene icon vendor license donor volume split";
+var mnemonic = "bread dream penalty route olive goddess banana general knee story copy exit";

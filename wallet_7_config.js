@@ -1,1 +1,1 @@
-var mnemonic = "extra mother sting mask index icon slim unlock six imitate boil public";
+var mnemonic = "thrive turkey pave canal saddle deny bacon purity short seven keep horn";

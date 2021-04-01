@@ -1,1 +1,1 @@
-var mnemonic = "test rough nominee assume evoke alter endless rose target point radio donate";
+var mnemonic = "exhibit unique grid physical arrange album rival table shuffle pitch ketchup perfect";

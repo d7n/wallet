@@ -1,1 +1,1 @@
-var mnemonic = "amazing scale book ability blouse buzz pretty display spoil collect object stove";
+var mnemonic = "advice total floor coach near theme ozone scorpion faculty hip shift cram";

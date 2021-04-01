@@ -1,1 +1,1 @@
-var mnemonic = "source legal fun answer oil scrub fetch person midnight song shaft farm";
+var mnemonic = "rich autumn inch enable forum kid two burden shaft culture uphold blossom";

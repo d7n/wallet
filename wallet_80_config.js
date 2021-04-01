@@ -1,1 +1,1 @@
-var mnemonic = "census topple hurry nose wrap riot column aerobic punch fossil poverty sudden";
+var mnemonic = "drink work ripple priority crystal shine drip surround frown dinosaur valid discover";

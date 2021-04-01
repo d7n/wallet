@@ -1,1 +1,1 @@
-var mnemonic = "snake monitor garbage loop ring attitude bag settle daughter modify later addict";
+var mnemonic = "lady quarter order lemon expire cage history borrow begin burger suit face";

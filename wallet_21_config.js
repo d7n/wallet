@@ -1,1 +1,1 @@
-var mnemonic = "scissors build clog must ranch slight hero coil give retire dismiss make";
+var mnemonic = "young borrow frown bubble actress common mosquito tree pulp still screen torch";

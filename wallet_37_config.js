@@ -1,1 +1,1 @@
-var mnemonic = "account piece impose gas horse skull size entry economy true lend budget";
+var mnemonic = "target snow plunge manual risk shrimp tiny document prevent buyer power dumb";

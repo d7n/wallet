@@ -1,1 +1,1 @@
-var mnemonic = "glue enable despair head excess problem curious always million sign tuition agent";
+var mnemonic = "round what just place monkey film just ivory chase muffin asthma chaos";

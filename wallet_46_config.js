@@ -1,1 +1,1 @@
-var mnemonic = "budget execute rule common quick illegal rookie utility palace kid demise garment";
+var mnemonic = "fossil panic bulk faculty swarm stay toy liquid kidney acid melt detail";

@@ -1,1 +1,1 @@
-var mnemonic = "vast more digital first bike hour bachelor wise brave myth curve thing";
+var mnemonic = "pizza frame swap rural west betray bright tomato garage enforce icon muffin";

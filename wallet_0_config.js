@@ -1,1 +1,1 @@
-var mnemonic = "skin jealous extend hen club tone wrestle deal purity abandon shallow fashion";
+var mnemonic = "tank brush collect luggage trap option illegal village impose room response wheat";

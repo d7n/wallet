@@ -1,1 +1,1 @@
-var mnemonic = "emotion thunder bind alpha dutch roast door dune kick animal angle rent";
+var mnemonic = "other inform faith biology home comfort insane wreck agent cabbage achieve trip";

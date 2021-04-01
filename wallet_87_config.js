@@ -1,1 +1,1 @@
-var mnemonic = "cabbage camera layer skirt warfare copper estate click smile angry monitor planet";
+var mnemonic = "sense write dismiss alcohol nice remain what example arrest thumb hard nice";

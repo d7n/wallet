@@ -1,1 +1,1 @@
-var mnemonic = "fancy valid capable make lava globe doctor young second slogan outside deal";
+var mnemonic = "fat cheese year cruel art occur where glide peasant web visit train";

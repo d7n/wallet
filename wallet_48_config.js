@@ -1,1 +1,1 @@
-var mnemonic = "payment melody eye girl artefact hammer glass reject pudding guess silly crater";
+var mnemonic = "barrel physical group agree please silver wolf soul game ripple timber survey";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot chair solar mobile grape defense few pole world method era castle";
+var mnemonic = "erosion walnut slam puzzle prison govern sphere donor false rhythm laptop debate";

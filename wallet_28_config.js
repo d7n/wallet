@@ -1,1 +1,1 @@
-var mnemonic = "stool gossip subway tennis page faculty retreat genre angry tennis enjoy energy";
+var mnemonic = "shallow program fit rubber step afraid tower jazz story wage perfect turn";

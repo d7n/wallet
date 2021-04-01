@@ -1,1 +1,1 @@
-var mnemonic = "dawn future say pulse offer rapid buffalo slot pledge problem genre blade";
+var mnemonic = "fun search multiply tape bunker inform venue usual share tag kick find";

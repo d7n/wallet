@@ -1,1 +1,1 @@
-var mnemonic = "track lesson south embark frost prevent adjust space brass spider heavy balcony";
+var mnemonic = "sorry size vacant dismiss habit dutch guilt tribe hammer claim prosper wall";

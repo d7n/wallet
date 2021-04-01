@@ -1,1 +1,1 @@
-var mnemonic = "camera renew cricket breeze lunar tool dish frozen human ocean step lawsuit";
+var mnemonic = "question rail old notice happy friend taxi tube short become food salt";

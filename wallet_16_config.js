@@ -1,1 +1,1 @@
-var mnemonic = "survey kit sausage diary drive can session mail seek forest glove lock";
+var mnemonic = "web tunnel stock holiday hamster violin pear reduce million alter monitor tent";

@@ -1,1 +1,1 @@
-var mnemonic = "gate success sand slow once radar doll screen color draft region bubble";
+var mnemonic = "host broken fence recipe april mad soap country shuffle hobby balance smart";

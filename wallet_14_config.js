@@ -1,1 +1,1 @@
-var mnemonic = "basic legend way web utility fold reform bright promote year offer speak";
+var mnemonic = "mixed struggle drop pepper floor minute nephew armed unaware advice country absorb";

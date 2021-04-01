@@ -1,1 +1,1 @@
-var mnemonic = "sign outside blush van tuna charge initial focus test twice return pluck";
+var mnemonic = "liberty diamond shoe route oak hamster slice cabin sun slim pluck chase";

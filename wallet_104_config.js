@@ -1,1 +1,1 @@
-var mnemonic = "genre toe run cable bag iron crane gap please wool silver wire";
+var mnemonic = "carpet soup broccoli artist shadow minute mask wine romance trade catch rent";

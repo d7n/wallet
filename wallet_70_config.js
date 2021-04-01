@@ -1,1 +1,1 @@
-var mnemonic = "clock simple upgrade ability miracle stereo system potato neither turkey hold hurdle";
+var mnemonic = "put toilet cushion harsh turkey member craft sort heavy catalog farm like";

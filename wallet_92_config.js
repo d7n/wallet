@@ -1,1 +1,1 @@
-var mnemonic = "myself vibrant daring absent switch all muffin fresh process wagon welcome father";
+var mnemonic = "hospital trophy stay surround manual swear pill clip combine elevator lawn boss";

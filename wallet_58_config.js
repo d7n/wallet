@@ -1,1 +1,1 @@
-var mnemonic = "avoid hole sustain merit essay gown pulse dance velvet trim tide tooth";
+var mnemonic = "orbit river oxygen egg market trophy certain cattle news convince feed blue";

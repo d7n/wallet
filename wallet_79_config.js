@@ -1,1 +1,1 @@
-var mnemonic = "brass rice gloom giraffe push prize easy deal palace anchor solution loud";
+var mnemonic = "ocean anchor detect intact soon clay ribbon urban into scan gather prize";

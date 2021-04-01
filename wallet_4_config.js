@@ -1,1 +1,1 @@
-var mnemonic = "dove where hero ski mix welcome upper across vote mind meat repair";
+var mnemonic = "permit party media now million crew fan bench worry age close slight";

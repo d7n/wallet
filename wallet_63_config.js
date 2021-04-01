@@ -1,1 +1,1 @@
-var mnemonic = "general awake almost creek industry news wide magic force element chronic stable";
+var mnemonic = "bird lamp nut loud toilet erupt virtual detail busy hurry obey clap";

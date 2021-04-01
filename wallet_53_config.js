@@ -1,1 +1,1 @@
-var mnemonic = "way example fog corn admit badge pen void kick milk comfort digital";
+var mnemonic = "recipe truly other owner scale piano dwarf token purity mechanic crystal boost";

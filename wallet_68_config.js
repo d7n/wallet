@@ -1,1 +1,1 @@
-var mnemonic = "crush distance faint certain century green umbrella before south horse over lock";
+var mnemonic = "tackle diamond delay impact assault stand actual habit almost immense olympic cinnamon";

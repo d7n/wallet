@@ -1,1 +1,1 @@
-var mnemonic = "shoot grape twenty gas void industry recall kind tomorrow page senior split";
+var mnemonic = "buddy scrub speak panther total elite zero tail flight welcome tip want";

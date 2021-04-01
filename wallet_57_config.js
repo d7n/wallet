@@ -1,1 +1,1 @@
-var mnemonic = "globe morning clock math wink choose topple stem excite auction trash output";
+var mnemonic = "sketch globe attack drift index gold allow razor soft tray elephant ghost";

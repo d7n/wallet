@@ -1,1 +1,1 @@
-var mnemonic = "crumble scale foster awful extend boil time agent exact table task cotton";
+var mnemonic = "include order item decade next flower obvious survey tunnel cable little fury";

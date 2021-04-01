@@ -1,1 +1,1 @@
-var mnemonic = "valley track census finish song stamp busy trim cover that company fold";
+var mnemonic = "face betray rhythm faint trust brave year east hidden above quick immune";

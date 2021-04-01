@@ -1,1 +1,1 @@
-var mnemonic = "defy bargain suffer disease cereal canvas lock brown urban fire panel slam";
+var mnemonic = "rough control steel episode vibrant snake original leader way suggest pilot cube";

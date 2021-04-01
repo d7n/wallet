@@ -1,1 +1,1 @@
-var mnemonic = "again decline solve depend scrap relief ghost regret hedgehog oppose submit town";
+var mnemonic = "display page patient loyal demise raccoon acid squirrel avocado slab drive monitor";

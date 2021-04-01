@@ -1,1 +1,1 @@
-var mnemonic = "innocent night injury cattle coach liberty fortune siren proof satoshi sphere travel";
+var mnemonic = "gown unable neutral squeeze hungry transfer degree camp inflict banner shiver route";

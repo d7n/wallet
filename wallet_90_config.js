@@ -1,1 +1,1 @@
-var mnemonic = "shallow spawn example wonder game total pony dinner dry edge legend neglect";
+var mnemonic = "frown wheel address cinnamon nephew auction often catalog solution globe ignore arrow";

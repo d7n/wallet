@@ -1,1 +1,1 @@
-var mnemonic = "extend actual edit attend gap web butter defy buddy height census fuel";
+var mnemonic = "veteran history card merge wool grape document public tumble yellow never maid";

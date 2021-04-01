@@ -1,1 +1,1 @@
-var mnemonic = "claw tired chef pupil source amount sleep decorate yellow surround major okay";
+var mnemonic = "faint crop there autumn cream measure then mirror early scrap unfair dice";

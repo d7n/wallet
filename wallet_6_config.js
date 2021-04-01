@@ -1,1 +1,1 @@
-var mnemonic = "render despair issue glove dolphin spice rule cabbage cover motion direct banner";
+var mnemonic = "nest depart scare taste peace behave unveil farm vapor village weapon student";

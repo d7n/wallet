@@ -1,1 +1,1 @@
-var mnemonic = "run tell pattern crime either game census learn surge father mechanic melt";
+var mnemonic = "tone machine provide manual gesture rich certain panel sing garden task rubber";

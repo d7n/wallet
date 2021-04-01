@@ -1,1 +1,1 @@
-var mnemonic = "crew romance hurt wagon cost cliff awkward claim figure fall account exhibit";
+var mnemonic = "spray belt elevator prison invest provide cloud flock finger million wolf hip";

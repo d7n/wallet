@@ -1,1 +1,1 @@
-var mnemonic = "sport voice rail rally promote deputy switch stamp item tomorrow toward peace";
+var mnemonic = "exclude share palace theory hunt limit merge absorb arrive acoustic blast club";

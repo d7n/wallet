@@ -1,1 +1,1 @@
-var mnemonic = "step often amateur retire veteran entire normal dinner crop anger cement alter";
+var mnemonic = "exhaust detect female meadow car slender surprise drive shrug elegant muscle olive";

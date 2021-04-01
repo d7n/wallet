@@ -1,1 +1,1 @@
-var mnemonic = "genre ball faith fluid cause turn execute document vessel chicken zero define";
+var mnemonic = "finger mom wink target muffin van actual scatter thing parrot protect certain";

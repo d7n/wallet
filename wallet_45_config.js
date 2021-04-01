@@ -1,1 +1,1 @@
-var mnemonic = "enjoy fetch upgrade rally doctor episode easy tenant pair pattern absurd juice";
+var mnemonic = "worth pair model satisfy soup organ relax layer legend buddy school sad";

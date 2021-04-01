@@ -1,1 +1,1 @@
-var mnemonic = "jealous zoo blue reward stay fantasy exhibit state area mutual brass slam";
+var mnemonic = "decorate pig hood tower sister thrive social purchase flavor crunch laundry ghost";

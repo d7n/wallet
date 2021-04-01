@@ -1,1 +1,1 @@
-var mnemonic = "tiger planet drop robot debate peanut yellow walnut pelican grant clever orphan";
+var mnemonic = "poem unaware appear extend job milk helmet proud remain silent search couch";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding flock endless unfair identify peasant merry into track swallow okay sleep";
+var mnemonic = "tiger away hundred noodle embark dentist remove visit boring purchase stove jazz";

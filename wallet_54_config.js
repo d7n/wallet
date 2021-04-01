@@ -1,1 +1,1 @@
-var mnemonic = "network employ process lobster silver fish mountain suggest toddler display regular clog";
+var mnemonic = "mesh begin broken tumble gauge minimum aware casino sting fence brand okay";

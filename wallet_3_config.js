@@ -1,1 +1,1 @@
-var mnemonic = "little thank funny slam bid glow budget movie mountain inspire dignity monster";
+var mnemonic = "bottom confirm fresh position video crowd congress sorry icon track muffin elegant";

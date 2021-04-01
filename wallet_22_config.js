@@ -1,1 +1,1 @@
-var mnemonic = "town smile elder squeeze armed wreck tourist reject bread flight know tree";
+var mnemonic = "language obscure bag omit cancel adapt garbage horror siege regular soccer memory";

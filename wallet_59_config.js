@@ -1,1 +1,1 @@
-var mnemonic = "original often snake cushion extend chunk afraid cool tent tired inhale tourist";
+var mnemonic = "come subway brick oyster prison power velvet chronic enable learn just length";

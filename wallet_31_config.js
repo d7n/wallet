@@ -1,1 +1,1 @@
-var mnemonic = "ethics idea network fat stone disorder pony capable output sadness pepper dizzy";
+var mnemonic = "swim subway ocean stove pole adapt reject fruit bulb shine act luxury";

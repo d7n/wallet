@@ -1,1 +1,1 @@
-var mnemonic = "update unknown wink element earth flush flash enjoy expire agent foster toilet";
+var mnemonic = "relief team injury aisle cake tribe fly seed destroy wisdom debris country";

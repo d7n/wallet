@@ -1,1 +1,1 @@
-var mnemonic = "nuclear wait upgrade that neutral ladder tide announce uncle pulp patrol topple";
+var mnemonic = "indicate dune meadow left curve fringe either faint purse there letter horn";

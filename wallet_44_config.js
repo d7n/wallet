@@ -1,1 +1,1 @@
-var mnemonic = "salad flush chunk lazy river general toward multiply fuel street swarm meadow";
+var mnemonic = "arena bomb warrior antenna soldier tone loud melt august venture match modify";

@@ -1,1 +1,1 @@
-var mnemonic = "dice noble mimic kingdom maximum devote spring cattle punch charge fan write";
+var mnemonic = "iron steak village amused raven degree plug cabbage that green faint middle";

@@ -1,1 +1,1 @@
-var mnemonic = "position throw object merry abstract year easy front tent impact letter learn";
+var mnemonic = "case ethics debris dirt segment original output divide empty victory chaos renew";

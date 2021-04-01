@@ -1,1 +1,1 @@
-var mnemonic = "raven brain true lonely engage toddler close gossip window chef exhaust hint";
+var mnemonic = "mix snack strong confirm fault horn expire tomato fabric company wink slender";

@@ -1,1 +1,1 @@
-var mnemonic = "music rude target basic expand ladder few real worry mixture guide soft";
+var mnemonic = "eyebrow endorse used penalty bamboo tape people enroll cat priority awesome scorpion";

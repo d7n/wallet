@@ -1,1 +1,1 @@
-var mnemonic = "response milk side distance brush chest bachelor lens melt juice before frame";
+var mnemonic = "profit orphan cinnamon company glance cross alpha harsh real submit tilt upset";

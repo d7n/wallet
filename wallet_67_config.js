@@ -1,1 +1,1 @@
-var mnemonic = "consider banana stumble sheriff april sunset potato amateur olympic wish mango van";
+var mnemonic = "false acoustic list vacuum where family cream second forward champion minor copy";

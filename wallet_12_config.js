@@ -1,1 +1,1 @@
-var mnemonic = "trim frown outside response eyebrow spot jewel wall harvest thing danger wise";
+var mnemonic = "great barrel dilemma ritual moon old fitness night enemy toilet couch viable";

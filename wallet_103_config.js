@@ -1,1 +1,1 @@
-var mnemonic = "wink boring shift clap organ feel divorce acid powder battle any heavy";
+var mnemonic = "purse now inject attract crucial point exhaust fiber minimum shop gossip round";

@@ -1,1 +1,1 @@
-var mnemonic = "huge combine maze critic element orange canvas symbol sort bridge jelly winter";
+var mnemonic = "bargain spider alcohol arrest region boring clown skull lyrics march boost raw";

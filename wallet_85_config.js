@@ -1,1 +1,1 @@
-var mnemonic = "room ignore still desert laundry hobby seminar vital scout size agent garbage";
+var mnemonic = "bachelor then come blind buffalo lamp inquiry nephew mimic saddle left prevent";

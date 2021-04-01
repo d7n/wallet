@@ -1,1 +1,1 @@
-var mnemonic = "chuckle proud gravity rather poverty group surprise ramp embrace morning nature various";
+var mnemonic = "venture curve village omit elephant sponsor reduce coin angry about lend nurse";

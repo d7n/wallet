@@ -1,1 +1,1 @@
-var mnemonic = "wear walk response duck power annual quote aerobic useless scorpion noble power";
+var mnemonic = "luggage dial wing vendor ridge raven twist sustain general foster turn night";

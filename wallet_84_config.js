@@ -1,1 +1,1 @@
-var mnemonic = "guilt donkey sponsor index path mom surge photo shift wet bright ripple";
+var mnemonic = "belt give critic such ancient riot buffalo title hole quality dose typical";

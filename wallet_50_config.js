@@ -1,1 +1,1 @@
-var mnemonic = "grunt sweet banana uncle palace light prison obey survey keen demand arch";
+var mnemonic = "satoshi physical satoshi pupil park doctor teach embark ready ice dumb soda";

@@ -1,1 +1,1 @@
-var mnemonic = "advance please skirt shiver talent mobile fee mixed metal ramp speak glow";
+var mnemonic = "intact tortoise museum rabbit genuine shrimp inside broccoli pear dog element write";

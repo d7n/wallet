@@ -1,1 +1,1 @@
-var mnemonic = "sport turn theme draft escape concert sing number genre letter loyal afraid";
+var mnemonic = "tattoo shell behind rival wrap deal entire enable spread play denial security";

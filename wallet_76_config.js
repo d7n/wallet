@@ -1,1 +1,1 @@
-var mnemonic = "cat sleep wild discover owner fantasy mesh mirror today elevator screen desk";
+var mnemonic = "pony wrong spy girl solve like stone often fiscal decorate argue discover";

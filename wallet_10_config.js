@@ -1,1 +1,1 @@
-var mnemonic = "boy tobacco approve innocent fortune exchange stone notable dinosaur coral motion spare";
+var mnemonic = "sheriff glue slight guilt drive destroy twenty hub gain rough play table";

@@ -1,1 +1,1 @@
-var mnemonic = "produce athlete eager drop scout slim zebra submit empower picture tide inquiry";
+var mnemonic = "search receive silent effort tell clap kiss hole used attract annual stay";

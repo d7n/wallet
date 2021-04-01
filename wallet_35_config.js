@@ -1,1 +1,1 @@
-var mnemonic = "coin normal volume sleep need add cinnamon adapt cabbage choose news quiz";
+var mnemonic = "curve ill lyrics banner spread scissors cruise beauty obscure decorate layer iron";

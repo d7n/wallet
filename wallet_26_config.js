@@ -1,1 +1,1 @@
-var mnemonic = "stuff lock inmate pizza angry replace test illegal table naive cousin ordinary";
+var mnemonic = "very one omit reunion mom erode quarter gas become announce truck warm";
