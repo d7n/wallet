@@ -1,1 +1,1 @@
-var mnemonic = "proud pause disease tiny defy wide polar turkey side language plate erase";
+var mnemonic = "smile rubber occur fantasy basic save insane wish maple virtual moment arch";

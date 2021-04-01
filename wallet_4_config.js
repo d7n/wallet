@@ -1,1 +1,1 @@
-var mnemonic = "weapon ship web naive kit forum job prosper expose auto fold umbrella";
+var mnemonic = "supreme hat lift beef mystery pilot autumn empower essence divide twenty family";

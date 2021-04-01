@@ -1,1 +1,1 @@
-var mnemonic = "near answer sense average surge gas almost recipe winner wasp grunt mobile";
+var mnemonic = "reopen supreme vintage case eight disorder blind suggest grid grass refuse middle";

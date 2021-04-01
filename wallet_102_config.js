@@ -1,1 +1,1 @@
-var mnemonic = "install wedding forum inherit filter garden click fruit easily deal jeans nothing";
+var mnemonic = "garbage garden filter early fetch flush lawn chalk ecology pen place staff";

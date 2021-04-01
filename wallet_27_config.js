@@ -1,1 +1,1 @@
-var mnemonic = "ethics gown merge begin patch old buzz hire series measure enter invite";
+var mnemonic = "high canvas super fabric current this frozen broccoli word syrup idea genuine";

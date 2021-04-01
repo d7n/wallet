@@ -1,1 +1,1 @@
-var mnemonic = "law can rare pilot fork close sausage crumble report pool seat rough";
+var mnemonic = "program castle weekend kitchen teach evoke deputy valid music road oxygen devote";

@@ -1,1 +1,1 @@
-var mnemonic = "friend blast civil own brand panda toward noble narrow recall someone similar";
+var mnemonic = "tomato this habit view view evolve method food thought ride orange fold";

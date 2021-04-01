@@ -1,1 +1,1 @@
-var mnemonic = "olive hill next galaxy pigeon ethics unlock rabbit behind supply leaf typical";
+var mnemonic = "unfold ring green grass zebra furnace armor apology ten cargo post equip";

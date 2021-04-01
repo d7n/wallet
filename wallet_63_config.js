@@ -1,1 +1,1 @@
-var mnemonic = "frequent club cousin effort much visual follow snake pony mesh level report";
+var mnemonic = "oblige illness save remove female plug talk mean onion knife fragile broken";

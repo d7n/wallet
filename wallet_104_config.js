@@ -1,1 +1,1 @@
-var mnemonic = "solution vote fuel journey spy cream tag tenant lunch start spatial educate";
+var mnemonic = "kangaroo coast powder curve pigeon prison boost cabin kite repair today retreat";

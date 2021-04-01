@@ -1,1 +1,1 @@
-var mnemonic = "wave garment blood wheat render power fiscal jewel replace zebra tennis exhibit";
+var mnemonic = "cigar winner artwork faculty short solid dentist science stove loan hope list";

@@ -1,1 +1,1 @@
-var mnemonic = "home hat flame palace random sight reason under wild plunge sketch regret";
+var mnemonic = "fatigue illegal middle harbor wisdom degree cactus trade dove bird hood primary";

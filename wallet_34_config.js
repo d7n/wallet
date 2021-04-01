@@ -1,1 +1,1 @@
-var mnemonic = "theme net large bench better inherit stage dish violin naive stick minute";
+var mnemonic = "pattern supreme drama junk adult sense pizza win focus rebuild blossom future";

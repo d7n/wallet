@@ -1,1 +1,1 @@
-var mnemonic = "scale first faint erupt virtual allow aerobic nest situate oblige cage suggest";
+var mnemonic = "bulk trip help walnut swim describe wedding scene material cricket salon pen";

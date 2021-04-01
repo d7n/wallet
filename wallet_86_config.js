@@ -1,1 +1,1 @@
-var mnemonic = "auto october subway aisle tell vibrant siren marble imitate december antique icon";
+var mnemonic = "provide pepper summer camp lava split disagree sibling later coach between pool";

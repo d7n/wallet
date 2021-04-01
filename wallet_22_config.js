@@ -1,1 +1,1 @@
-var mnemonic = "hazard uniform torch poem creek police success pioneer buyer enhance shift between";
+var mnemonic = "shine account quote subject upper humble crush carbon notice utility hire rack";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper combine fresh brick sweet laugh ability guide welcome butter umbrella express";
+var mnemonic = "city math crawl board eager foil gun danger message assume raven strategy";

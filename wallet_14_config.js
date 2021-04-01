@@ -1,1 +1,1 @@
-var mnemonic = "police universe siren pizza chalk tackle soccer holiday poverty similar duck great";
+var mnemonic = "web obey census comic proof reflect rigid catch exhibit ankle nephew rain";

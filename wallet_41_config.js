@@ -1,1 +1,1 @@
-var mnemonic = "universe myself lady deer lounge page mandate pave force loop narrow force";
+var mnemonic = "tennis asset cage can matter duck shoot minute hire travel cover lady";

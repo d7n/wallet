@@ -1,1 +1,1 @@
-var mnemonic = "photo poverty law fatal injury sudden find timber ostrich journey level private";
+var mnemonic = "sample mother liberty portion mercy false spring ahead state tourist job lake";

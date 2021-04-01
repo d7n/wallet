@@ -1,1 +1,1 @@
-var mnemonic = "thank half orphan wing ranch twin dilemma course home forest train catch";
+var mnemonic = "pole drop act staff mixed gift crush random another add plate pet";

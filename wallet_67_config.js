@@ -1,1 +1,1 @@
-var mnemonic = "jeans allow right artwork enable reflect mandate forest old ice romance disease";
+var mnemonic = "rabbit attack boat embody quantum silent sting banner milk inherit runway jump";

@@ -1,1 +1,1 @@
-var mnemonic = "trust alpha fantasy initial act wrist flip ski winner task rail people";
+var mnemonic = "school stable february deer exhaust truck brick napkin fruit eyebrow soccer symbol";

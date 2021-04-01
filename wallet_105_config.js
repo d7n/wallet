@@ -1,1 +1,1 @@
-var mnemonic = "decide main time employ cook clap glory safe resist approve choose silent";
+var mnemonic = "apple inform visa solid change stereo vital finish burden effort fabric give";

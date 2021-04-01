@@ -1,1 +1,1 @@
-var mnemonic = "cousin design double panic net weekend exist parent napkin blind this federal";
+var mnemonic = "transfer orbit couch fragile treat emerge mention symbol envelope keen shallow super";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet unit calm dad wheat milk midnight engage elbow decide upon toward";
+var mnemonic = "level employ lunar visual arch trick glue lion wonder nasty congress garlic";

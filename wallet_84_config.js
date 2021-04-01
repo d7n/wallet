@@ -1,1 +1,1 @@
-var mnemonic = "adult quantum release crawl cigar sun diet second unaware twelve peasant neither";
+var mnemonic = "trap trap broken deposit burst emotion glove duty climb lyrics arrive spy";

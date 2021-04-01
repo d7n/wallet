@@ -1,1 +1,1 @@
-var mnemonic = "bring insect pattern vivid toss habit track crush wrist kitchen sunset help";
+var mnemonic = "ecology member thing plastic fiction lazy cactus pulp reason happy solve universe";

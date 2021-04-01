@@ -1,1 +1,1 @@
-var mnemonic = "upon scheme pony chaos whisper old iron coral gallery crack hammer improve";
+var mnemonic = "shallow orient mistake venue practice daughter false disagree panther lyrics piece subject";

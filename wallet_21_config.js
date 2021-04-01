@@ -1,1 +1,1 @@
-var mnemonic = "uncle false thank middle flight trade poverty panel chest civil jump tower";
+var mnemonic = "vessel motion cycle dilemma donate outside zoo normal shell essay turkey purity";

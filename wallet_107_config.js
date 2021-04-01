@@ -1,1 +1,1 @@
-var mnemonic = "myth pull smooth notable shop viable huge unknown smoke edit brother become";
+var mnemonic = "blur few region opera clip situate million chronic describe zebra fee almost";

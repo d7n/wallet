@@ -1,1 +1,1 @@
-var mnemonic = "cheese couple impulse cigar shuffle bright cream excess nest believe festival exist";
+var mnemonic = "sight matter innocent twelve rotate combine actor gym tree produce just soft";

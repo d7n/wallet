@@ -1,1 +1,1 @@
-var mnemonic = "play side bird guilt reduce size man frequent very strong author potato";
+var mnemonic = "various kiwi sleep travel pair float mean small embark warm lottery canvas";

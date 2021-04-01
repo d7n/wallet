@@ -1,1 +1,1 @@
-var mnemonic = "eternal maze wrestle beef toss view include collect acquire frequent item globe";
+var mnemonic = "napkin front sauce pulp buzz envelope dwarf fiction gift win sudden wash";

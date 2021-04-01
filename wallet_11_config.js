@@ -1,1 +1,1 @@
-var mnemonic = "scissors anchor make adapt virtual pair frozen monkey armor laundry cereal ball";
+var mnemonic = "pulse tornado dentist vague hip old scorpion same umbrella now repair flock";

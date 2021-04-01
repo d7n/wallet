@@ -1,1 +1,1 @@
-var mnemonic = "fold coral security congress material barely toy ability usual crew change random";
+var mnemonic = "balance purchase speak garlic wing sketch pink beyond expose spike drift explain";

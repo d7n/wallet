@@ -1,1 +1,1 @@
-var mnemonic = "another dwarf opinion size miss range switch length disorder unaware ridge figure";
+var mnemonic = "castle finger mean robust impact board electric exotic myself laptop raccoon pole";

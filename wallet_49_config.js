@@ -1,1 +1,1 @@
-var mnemonic = "under hello salon scrap fiscal warm beauty staff celery goat because diet";
+var mnemonic = "urge pilot major correct scorpion retreat wedding same subject good hill shell";

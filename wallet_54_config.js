@@ -1,1 +1,1 @@
-var mnemonic = "dilemma guilt client firm rough round joke embody able dash dismiss rural";
+var mnemonic = "shallow innocent approve promote fog sand bamboo mean approve flock pigeon private";

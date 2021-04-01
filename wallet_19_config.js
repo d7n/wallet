@@ -1,1 +1,1 @@
-var mnemonic = "tenant penalty fan bar tree sense enough smart stay crew elbow warfare";
+var mnemonic = "point answer sight anxiety any soda fade claim nuclear weird mixed skin";

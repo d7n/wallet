@@ -1,1 +1,1 @@
-var mnemonic = "truck canoe garlic blue fitness rabbit now crush rice blanket enhance auto";
+var mnemonic = "miracle grid will royal arrest swarm miracle shoe clutch cool code round";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow happy choice forest detail gesture oven pilot photo upgrade under clay";
+var mnemonic = "brown scene luggage cabin vacuum rebel funny syrup stove shallow nurse twin";

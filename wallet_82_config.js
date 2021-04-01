@@ -1,1 +1,1 @@
-var mnemonic = "feel melody parade muffin nominee brain cabin depth goat shove engine friend";
+var mnemonic = "shed hungry decrease trick disagree acquire okay aerobic destroy giant praise explain";

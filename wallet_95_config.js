@@ -1,1 +1,1 @@
-var mnemonic = "again parade target response cushion remain foot injury engage police text walk";
+var mnemonic = "gospel speak outside peanut dignity cage say impact job child weasel shallow";

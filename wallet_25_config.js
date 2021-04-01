@@ -1,1 +1,1 @@
-var mnemonic = "spread distance shield practice diamond crush theory enjoy angle joy guess useful";
+var mnemonic = "film adult body spell unaware drama famous black pioneer nest fold artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "answer crack copy owner vital naive choice repair drip shine crop bubble";
+var mnemonic = "amateur combine enable often clown sense concert history noodle invite slot cloth";

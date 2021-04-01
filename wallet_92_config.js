@@ -1,1 +1,1 @@
-var mnemonic = "mention million nuclear intact spy color amused trim index forest tattoo rice";
+var mnemonic = "blind guess clock lend grunt area practice sound drive notable twice above";

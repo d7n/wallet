@@ -1,1 +1,1 @@
-var mnemonic = "boat father scan truck tiny intact keep undo scatter paper aerobic weather";
+var mnemonic = "borrow shine seven man palace amateur tornado mirror pretty sting scrap mesh";

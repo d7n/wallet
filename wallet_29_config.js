@@ -1,1 +1,1 @@
-var mnemonic = "fiscal rare ahead foster monitor track sign false reopen weasel position lizard";
+var mnemonic = "law prosper night mixed bottom put begin conduct suffer inflict tag fluid";

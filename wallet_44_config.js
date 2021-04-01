@@ -1,1 +1,1 @@
-var mnemonic = "glove dignity goat screen joy female space toddler rescue balance fatal two";
+var mnemonic = "cost layer bag sand winner shrimp soccer october host smart present trumpet";

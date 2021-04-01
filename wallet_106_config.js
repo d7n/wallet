@@ -1,1 +1,1 @@
-var mnemonic = "void garlic middle genuine nest secret final arch wage cycle next act";
+var mnemonic = "shift olympic such burst measure quality day reduce fetch strike wife spring";

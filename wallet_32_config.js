@@ -1,1 +1,1 @@
-var mnemonic = "monster busy renew attack bottom fit embrace mean genuine drum wish rescue";
+var mnemonic = "mobile paddle salute novel lava first pioneer heavy renew lake alley dad";

@@ -1,1 +1,1 @@
-var mnemonic = "anchor note blur patrol endorse please source raven bike patrol motion glimpse";
+var mnemonic = "inquiry enjoy you train when document meadow plastic insane fortune enough bag";

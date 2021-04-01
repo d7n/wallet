@@ -1,1 +1,1 @@
-var mnemonic = "cruise faint theme pact corn flavor service shield useless blouse heart jealous";
+var mnemonic = "hint sure grant law baby index toddler solve type friend tunnel knife";

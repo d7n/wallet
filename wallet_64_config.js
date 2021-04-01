@@ -1,1 +1,1 @@
-var mnemonic = "journey normal fashion life liar found curve cigar interest govern phrase increase";
+var mnemonic = "manage valid coach body ignore siren inform spy guess child dilemma clown";

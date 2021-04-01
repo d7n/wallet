@@ -1,1 +1,1 @@
-var mnemonic = "hold layer predict blouse picture solar edge enable shoot argue together shed";
+var mnemonic = "valid include destroy control club oval discover regular tunnel repeat ticket beach";

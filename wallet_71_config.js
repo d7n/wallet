@@ -1,1 +1,1 @@
-var mnemonic = "ketchup lady perfect ripple human settle vital symbol approve hawk alcohol first";
+var mnemonic = "obvious gap another fruit assume dinosaur genuine hawk usage brand romance custom";

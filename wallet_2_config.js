@@ -1,1 +1,1 @@
-var mnemonic = "physical approve network august hotel picnic chuckle fold penalty heavy remain water";
+var mnemonic = "area myth hand demand grape like food ghost media again rice process";

@@ -1,1 +1,1 @@
-var mnemonic = "solar six deputy decide ethics wrap obey ecology picnic world stove term";
+var mnemonic = "blue vendor manual guitar decline glass orchard scissors report village hobby bar";

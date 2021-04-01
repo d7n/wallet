@@ -1,1 +1,1 @@
-var mnemonic = "cloud bamboo young fiction oval ticket vital spread pepper smile family order";
+var mnemonic = "next unveil pole soccer science profit dirt trip addict horn vast cause";

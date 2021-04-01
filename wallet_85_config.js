@@ -1,1 +1,1 @@
-var mnemonic = "quantum fiction grid segment museum average liberty tail inch neither cost security";
+var mnemonic = "coconut twelve blade office chest spare citizen image giant bitter worry glance";

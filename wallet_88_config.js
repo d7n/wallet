@@ -1,1 +1,1 @@
-var mnemonic = "produce father achieve spell return hollow garden wheel install easily club kid";
+var mnemonic = "return offer runway six accident entry episode just occur come seat twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna situate absorb hen kidney abuse butter husband ten slow dress maze";
+var mnemonic = "account lava loud element key beef deer hub rebuild verb often similar";

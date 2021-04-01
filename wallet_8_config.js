@@ -1,1 +1,1 @@
-var mnemonic = "lemon devote recycle volcano question bicycle cage half list gentle obscure stock";
+var mnemonic = "pepper jar sunset taxi cliff embrace fringe silent chair surround purchase sick";

@@ -1,1 +1,1 @@
-var mnemonic = "critic festival observe minor keen lawsuit practice space spawn swamp bar topic";
+var mnemonic = "climb olive fame mass wear bachelor blade banner mountain cash usage mean";

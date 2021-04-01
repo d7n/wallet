@@ -1,1 +1,1 @@
-var mnemonic = "reduce cousin gossip cupboard junior focus know nerve salmon volcano october three";
+var mnemonic = "exact galaxy apart kitchen organ cash country ship burden indoor arrest vault";

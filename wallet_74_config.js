@@ -1,1 +1,1 @@
-var mnemonic = "lumber useless silk toe young collect minute describe medal width burger human";
+var mnemonic = "attend oppose cannon like omit float exclude mammal hockey jealous area winter";

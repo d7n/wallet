@@ -1,1 +1,1 @@
-var mnemonic = "fringe task endorse insane govern civil ice feature ridge piano oblige waste";
+var mnemonic = "rude maid easily cream bicycle tank fancy sudden ticket shell turn empower";

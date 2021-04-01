@@ -1,1 +1,1 @@
-var mnemonic = "argue way snap nephew crowd umbrella master collect frown misery clerk repair";
+var mnemonic = "over save cupboard moral shop double kit monster corn inmate edge upset";

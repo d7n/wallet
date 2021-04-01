@@ -1,1 +1,1 @@
-var mnemonic = "figure flight buffalo wear about foil eager lumber spread group awful logic";
+var mnemonic = "month loyal jaguar belt jar picnic taste antique multiply chunk any defy";

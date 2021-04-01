@@ -1,1 +1,1 @@
-var mnemonic = "vacant require expose ankle crunch crucial worth color axis roof pretty false";
+var mnemonic = "grant depart accuse wing master viable ribbon trial breeze peanut move mule";

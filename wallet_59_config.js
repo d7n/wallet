@@ -1,1 +1,1 @@
-var mnemonic = "stay bless want come mushroom drama vessel rifle upset axis plunge conduct";
+var mnemonic = "that tube gaze try snap sense powder exist hint kangaroo author kit";

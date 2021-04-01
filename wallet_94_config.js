@@ -1,1 +1,1 @@
-var mnemonic = "regular ignore member pupil level find gauge better keep same inspire empty";
+var mnemonic = "pencil judge wedding inherit seven enact name castle differ clock long release";

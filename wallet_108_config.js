@@ -1,1 +1,1 @@
-var mnemonic = "sword area crucial cement prize beach load city spirit speed aware tackle";
+var mnemonic = "pulp blame raven account aunt layer hold share journey wire ribbon next";

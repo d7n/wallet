@@ -1,1 +1,1 @@
-var mnemonic = "fish master practice social affair resemble reform oblige caught tobacco apology denial";
+var mnemonic = "rebuild then juice host amateur million vague evolve merge bitter fancy oxygen";

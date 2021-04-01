@@ -1,1 +1,1 @@
-var mnemonic = "purchase boy certain day puppy gallery aerobic fresh abandon answer remain ethics";
+var mnemonic = "music ticket knee foot weasel tip skull match spice lion oven marine";

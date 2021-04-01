@@ -1,1 +1,1 @@
-var mnemonic = "learn squeeze leopard bar tenant public common stage drastic blade friend later";
+var mnemonic = "gospel dismiss escape sudden jeans possible electric family capital drama merge blast";

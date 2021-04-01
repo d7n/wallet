@@ -1,1 +1,1 @@
-var mnemonic = "ignore virus age awful aerobic engage affair arrow couch desert anchor sunset";
+var mnemonic = "buffalo blame peasant craft decide village spatial skin avocado permit inch dragon";

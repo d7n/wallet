@@ -1,1 +1,1 @@
-var mnemonic = "begin february inject memory welcome define session train spare purse warfare yard";
+var mnemonic = "immense attack skull area wing title glance office cereal glad song same";

@@ -1,1 +1,1 @@
-var mnemonic = "border property helmet neutral section rib hover baby inspire unlock chest sister";
+var mnemonic = "giggle assume blast best credit ignore approve grass coil captain health april";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic style hour episode sock valve parade expose snap mind winner exchange";
+var mnemonic = "almost fragile blood estate embrace topple match rack fiscal session brick ability";

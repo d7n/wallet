@@ -1,1 +1,1 @@
-var mnemonic = "gospel apple oppose seven puzzle mountain magnet destroy history couple bracket page";
+var mnemonic = "spoil bulk mixed beef link degree almost gold skirt faculty much credit";

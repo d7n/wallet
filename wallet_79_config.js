@@ -1,1 +1,1 @@
-var mnemonic = "avocado sunset siren broom bench rail shed harsh perfect hazard flight switch";
+var mnemonic = "cart uniform chief general depend guess side praise aware valid fresh reason";

@@ -1,1 +1,1 @@
-var mnemonic = "creek beef desk keep index tunnel double order identify enroll type merit";
+var mnemonic = "viable heart focus pottery carpet scare garden regular wrong album genius certain";

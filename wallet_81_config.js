@@ -1,1 +1,1 @@
-var mnemonic = "abstract nest creek festival donkey mixed bench creek elite brave switch also";
+var mnemonic = "correct slim inflict reduce dune glue under debris reflect person demise pink";

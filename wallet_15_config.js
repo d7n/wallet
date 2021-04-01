@@ -1,1 +1,1 @@
-var mnemonic = "tuna miracle tell true pattern coach final repeat shock velvet trial cute";
+var mnemonic = "clarify domain echo guide remain cheese video empty humor job purpose hamster";

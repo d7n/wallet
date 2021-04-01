@@ -1,1 +1,1 @@
-var mnemonic = "ball check middle erode balcony neither thank cause today vacuum expose crawl";
+var mnemonic = "exotic vessel play refuse group poem recycle civil garbage toddler plunge fantasy";

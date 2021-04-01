@@ -1,1 +1,1 @@
-var mnemonic = "race short salon seat rent chapter verb category life broken simple kidney";
+var mnemonic = "spot decrease join usage unhappy axis pepper potato soon exist unaware glad";

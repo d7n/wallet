@@ -1,1 +1,1 @@
-var mnemonic = "eight stairs cannon custom screen labor usage letter setup exhibit segment practice";
+var mnemonic = "drink motion physical wet square cruise roast assist rabbit pull rapid wire";

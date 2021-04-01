@@ -1,1 +1,1 @@
-var mnemonic = "pluck knock object punch corn sense slush scout shadow weapon gauge bar";
+var mnemonic = "tide stairs forum one century shuffle retreat glow biology coconut awful concert";
