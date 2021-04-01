@@ -1,1 +1,1 @@
-var mnemonic = "hockey pen solve sock buffalo cry abuse tragic topple venture uncover pig";
+var mnemonic = "habit tell daring soldier dish more cube stage exhibit reduce impose kangaroo";

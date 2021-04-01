@@ -1,1 +1,1 @@
-var mnemonic = "sleep priority mind enact flat anxiety forest talk toe abuse glimpse chimney";
+var mnemonic = "siren ski evidence nasty orphan mesh hand crater open soup address adjust";

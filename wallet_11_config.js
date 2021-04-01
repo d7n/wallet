@@ -1,1 +1,1 @@
-var mnemonic = "dish because issue pony release cover finish vacant noodle chicken snow pencil";
+var mnemonic = "trap lounge garage genuine hint push lunar bonus thumb crop hill random";

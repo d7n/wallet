@@ -1,1 +1,1 @@
-var mnemonic = "visual grid pottery airport gate kit start thumb detect bird attack fold";
+var mnemonic = "useless type solar crawl front face casual number license town quiz merry";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant unusual december current invite rack front denial melody style option guide";
+var mnemonic = "use table collect alter amount rubber olive any search multiply fossil donate";

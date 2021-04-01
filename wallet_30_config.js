@@ -1,1 +1,1 @@
-var mnemonic = "polar allow annual give since slam seek thought chalk pole mad differ";
+var mnemonic = "famous cinnamon anger festival crack brother put want dolphin nice lock shove";

@@ -1,1 +1,1 @@
-var mnemonic = "portion resource august bubble tube sudden element journey stadium dress robot sock";
+var mnemonic = "this random sample click capable sugar sting urban fragile snap design shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly sword bargain cradle century uniform ten upper around lazy define lion";
+var mnemonic = "define emotion ski erode subject domain copy path pumpkin absurd level crew";

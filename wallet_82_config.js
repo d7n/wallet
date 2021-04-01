@@ -1,1 +1,1 @@
-var mnemonic = "renew surround sock awkward zebra twist wide brass cost language federal sea";
+var mnemonic = "axis derive other ill police spawn street salad screen vicious service ribbon";

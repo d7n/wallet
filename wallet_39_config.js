@@ -1,1 +1,1 @@
-var mnemonic = "ignore knife panda amount unknown visual nose awful sorry quit arena dad";
+var mnemonic = "cause shallow real december table claim already riot scene sample spoon guilt";

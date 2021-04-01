@@ -1,1 +1,1 @@
-var mnemonic = "local wisdom shoe local infant congress chimney recycle pluck chronic giraffe maple";
+var mnemonic = "penalty critic bonus weird scissors noise idle fee air hood lion emerge";

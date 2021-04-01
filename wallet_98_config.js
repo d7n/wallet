@@ -1,1 +1,1 @@
-var mnemonic = "slice coyote hole large endorse time life upper exist clog suggest soda";
+var mnemonic = "rocket globe permit abandon regret goat fall embody choice tilt welcome adapt";

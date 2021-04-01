@@ -1,1 +1,1 @@
-var mnemonic = "cheap loyal bless blouse narrow hard script suffer brother used replace tank";
+var mnemonic = "dentist steel erase warm gorilla mail injury margin they hedgehog estate once";

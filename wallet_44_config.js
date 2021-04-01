@@ -1,1 +1,1 @@
-var mnemonic = "sport hat amazing journey element sport symptom behave social check ladder involve";
+var mnemonic = "alter galaxy become swim blanket gun mail century salad smile ridge close";

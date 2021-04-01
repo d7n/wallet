@@ -1,1 +1,1 @@
-var mnemonic = "tide rubber cotton thunder flower client radio quote clip fan move hero";
+var mnemonic = "someone prepare virus foot ramp source recycle jungle series vote myself install";

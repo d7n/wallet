@@ -1,1 +1,1 @@
-var mnemonic = "immense quiz another regular tiny logic noble similar legal risk crouch person";
+var mnemonic = "since fresh wrist latin slice borrow object purity gravity lucky false soon";

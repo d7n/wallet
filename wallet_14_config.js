@@ -1,1 +1,1 @@
-var mnemonic = "erupt six language transfer teach account melody afford elder recycle exile expire";
+var mnemonic = "drastic tortoise ask nothing major mirror dish fence sugar vague original heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich bachelor margin opinion prison inside casino peanut govern key have velvet";
+var mnemonic = "upset desk river frozen okay input skull grief arrive tuition web giant";

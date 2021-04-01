@@ -1,1 +1,1 @@
-var mnemonic = "idea shaft flower mountain awkward ribbon gold clutch logic conduct orbit state";
+var mnemonic = "admit blood bless bubble bachelor banana october wear tube waste fruit cabbage";

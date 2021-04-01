@@ -1,1 +1,1 @@
-var mnemonic = "oblige document essence miss slim hood leaf reduce autumn saddle teach cradle";
+var mnemonic = "zero length outer parade nominee treat daring judge club make tank march";

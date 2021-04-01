@@ -1,1 +1,1 @@
-var mnemonic = "borrow express loop bachelor grass want nose seek clog job first reflect";
+var mnemonic = "crater coil eight please concert jewel prevent never upon cat moon danger";

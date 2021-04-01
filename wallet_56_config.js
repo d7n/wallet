@@ -1,1 +1,1 @@
-var mnemonic = "dose delay size curtain inhale scatter screen diesel slogan position struggle october";
+var mnemonic = "grant fall alpha cause vague someone square glow garbage weather manage favorite";

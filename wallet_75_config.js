@@ -1,1 +1,1 @@
-var mnemonic = "lonely already orange come deer help mask cloud derive orchard category awful";
+var mnemonic = "bone metal item step style group lazy plastic school mirror asset worry";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse order enforce scorpion devote author draw jacket sad pipe pull unique";
+var mnemonic = "kitchen theme keen claim guide humble helmet erase armor sick swamp lazy";

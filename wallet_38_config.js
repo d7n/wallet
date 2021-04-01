@@ -1,1 +1,1 @@
-var mnemonic = "fork rebuild busy spot pear great corn avocado ball swing water gown";
+var mnemonic = "easy globe blast soup light double garment ring tomato error cactus enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "globe minimum carry merit lounge knock lab mansion silly ordinary gas cable";
+var mnemonic = "vendor error ladder tube trophy summer leopard rather layer doll issue prison";

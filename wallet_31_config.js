@@ -1,1 +1,1 @@
-var mnemonic = "initial ocean cute october upon able often pact weasel must garment under";
+var mnemonic = "carbon leopard judge famous rival enforce strike swing replace drive elite license";

@@ -1,1 +1,1 @@
-var mnemonic = "hello thunder draw much note unhappy figure desert cereal elegant trend swallow";
+var mnemonic = "burst profit empower sword pretty ketchup rifle tuna route rice pride juice";

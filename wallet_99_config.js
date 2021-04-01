@@ -1,1 +1,1 @@
-var mnemonic = "office fantasy december asthma turtle damp brick south over midnight avoid emerge";
+var mnemonic = "manual ring heavy carry audit nephew ring prepare diet issue mercy noodle";

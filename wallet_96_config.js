@@ -1,1 +1,1 @@
-var mnemonic = "outside hunt common arctic inner illness business drip silly admit teach wash";
+var mnemonic = "wide rifle garbage catalog decade balance unlock era purchase mom gun volume";

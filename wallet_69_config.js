@@ -1,1 +1,1 @@
-var mnemonic = "photo shield steak arctic limit post turkey concert quality load all friend";
+var mnemonic = "reduce auto puzzle foil flash beach exact save private limb valve art";

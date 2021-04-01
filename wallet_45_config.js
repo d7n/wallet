@@ -1,1 +1,1 @@
-var mnemonic = "cement disorder sad frog slight pill damage cream scale banner maximum off";
+var mnemonic = "shield ecology island first despair tomato select undo wreck raw nephew subway";

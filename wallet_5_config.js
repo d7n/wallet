@@ -1,1 +1,1 @@
-var mnemonic = "knock joy lucky decide ask suit wisdom purse mom reason income bullet";
+var mnemonic = "round dog again wage once mutual power coral remind month square absurd";

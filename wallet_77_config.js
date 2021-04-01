@@ -1,1 +1,1 @@
-var mnemonic = "slim boss melody priority shadow slot deposit enact drive guess supreme divide";
+var mnemonic = "nest close scare then divorce swallow tomato reject candy fork coral miracle";

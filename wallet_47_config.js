@@ -1,1 +1,1 @@
-var mnemonic = "leave success sort ice version device sight meat square salt tonight siege";
+var mnemonic = "tonight diet vital town leopard tube day post banner adult train involve";

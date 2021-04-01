@@ -1,1 +1,1 @@
-var mnemonic = "rabbit analyst fold swing destroy below wait fish tower exchange dice science";
+var mnemonic = "remember wool unfair desk source people total side soccer swing emerge useful";

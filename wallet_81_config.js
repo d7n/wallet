@@ -1,1 +1,1 @@
-var mnemonic = "snack illness record faculty vapor museum smoke abstract ability reform school plate";
+var mnemonic = "grocery spice genre face future artefact march urge jar grab cook manual";

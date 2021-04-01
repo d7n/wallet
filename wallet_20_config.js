@@ -1,1 +1,1 @@
-var mnemonic = "crisp palm drip govern fame clay never asthma term lunar calm bachelor";
+var mnemonic = "furnace online battle comfort sentence empty chair blood park hood fiscal always";

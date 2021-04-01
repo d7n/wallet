@@ -1,1 +1,1 @@
-var mnemonic = "more dog wise emerge oak head fiscal hundred trick balcony family raven";
+var mnemonic = "fortune frog oak shine private giggle leaf dwarf zoo coffee beauty among";

@@ -1,1 +1,1 @@
-var mnemonic = "rough moment debris ignore paper false loop dove twelve banner green twenty";
+var mnemonic = "swim online memory tip inherit item pen wage discover anger tiny next";

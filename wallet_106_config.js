@@ -1,1 +1,1 @@
-var mnemonic = "poet daughter sad dice ginger problem season island hammer love twin rubber";
+var mnemonic = "excite address member bomb enact donate shrimp crash champion local senior pond";

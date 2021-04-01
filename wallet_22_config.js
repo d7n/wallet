@@ -1,1 +1,1 @@
-var mnemonic = "man clock measure angry sample solution fox today mother blind discover define";
+var mnemonic = "ride old farm need husband series movie donor lizard shoot indicate hour";

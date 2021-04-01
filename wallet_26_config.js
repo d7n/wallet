@@ -1,1 +1,1 @@
-var mnemonic = "museum fame purchase donor hip smooth step world reveal stamp model indicate";
+var mnemonic = "tower garment forward science smart cat plug elephant sell ring bind cinnamon";

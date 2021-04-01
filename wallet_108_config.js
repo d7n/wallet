@@ -1,1 +1,1 @@
-var mnemonic = "else then lady increase mansion favorite survey flip describe range maze decrease";
+var mnemonic = "final suspect alley elbow want rule slight flock cannon huge seek accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "simple exile detail smoke account solar increase basket such area couple garbage";
+var mnemonic = "write skirt blade order ridge spot service energy crime patrol sniff hello";

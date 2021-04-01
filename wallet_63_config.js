@@ -1,1 +1,1 @@
-var mnemonic = "welcome galaxy near install excite invite shrug sing pond potato mobile labor";
+var mnemonic = "interest example orbit expect denial crazy glass tuna picture liquid measure busy";

@@ -1,1 +1,1 @@
-var mnemonic = "heart monster clever goddess large unfold green cupboard rich weapon note live";
+var mnemonic = "magic tail idle exhaust regret flip assist clip divert digital defy north";

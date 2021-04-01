@@ -1,1 +1,1 @@
-var mnemonic = "calm saddle debris bridge thunder chat taxi photo transfer betray light eyebrow";
+var mnemonic = "wink disease hunt wisdom sudden decorate tunnel solar response aisle marriage give";

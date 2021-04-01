@@ -1,1 +1,1 @@
-var mnemonic = "vague exhibit they unlock peanut clock lecture try body use know wish";
+var mnemonic = "chicken slender top ribbon okay vote stuff rain divide clog habit sustain";

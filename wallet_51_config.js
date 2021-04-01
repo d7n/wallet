@@ -1,1 +1,1 @@
-var mnemonic = "glad concert judge secret dream note onion stock six nation lesson million";
+var mnemonic = "fire rule silk radar orient normal question degree ceiling artist aerobic never";

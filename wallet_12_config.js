@@ -1,1 +1,1 @@
-var mnemonic = "credit achieve weekend various isolate ethics ceiling manage pioneer pledge amateur twin";
+var mnemonic = "invest rely pear plug lizard idle diagram wreck wink setup walnut decrease";

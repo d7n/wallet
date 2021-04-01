@@ -1,1 +1,1 @@
-var mnemonic = "syrup issue ball milk ask drama click vibrant accuse trophy comic yellow";
+var mnemonic = "top coach morning blood spoil engage notice canoe chapter bottom flower vintage";

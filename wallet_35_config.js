@@ -1,1 +1,1 @@
-var mnemonic = "brand source basket develop fruit reject fine orient awful shield disorder transfer";
+var mnemonic = "local crystal cute six owner pull loan main hurdle husband forum decade";

@@ -1,1 +1,1 @@
-var mnemonic = "evil metal burger can west elevator future coffee sausage amateur strategy input";
+var mnemonic = "april hollow major filter lava whale duck say puppy little crisp issue";

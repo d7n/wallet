@@ -1,1 +1,1 @@
-var mnemonic = "biology advice rib trend toddler vague great silver badge neck because protect";
+var mnemonic = "avocado fence gain cycle crisp protect bring forum great tuna sample flat";

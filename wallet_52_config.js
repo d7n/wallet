@@ -1,1 +1,1 @@
-var mnemonic = "amount abandon skate broom card alone end nasty any annual cycle age";
+var mnemonic = "elegant embrace upset must jeans patient wine begin east humble husband phone";

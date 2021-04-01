@@ -1,1 +1,1 @@
-var mnemonic = "gasp furnace drama reveal allow extra fury mask jeans room put vote";
+var mnemonic = "zero hire fiction stick doctor dad size sadness because adapt benefit grace";

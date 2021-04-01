@@ -1,1 +1,1 @@
-var mnemonic = "arrest void rug sense sail raw cable injury bullet exit chronic nephew";
+var mnemonic = "rival catch talent impulse duck brain park oppose area mother breeze brother";

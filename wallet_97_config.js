@@ -1,1 +1,1 @@
-var mnemonic = "left tail wife answer way quantum outer soup clarify state wave draft";
+var mnemonic = "spare survey device gospel fault syrup pizza turn little hotel laundry wedding";

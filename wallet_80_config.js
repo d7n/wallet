@@ -1,1 +1,1 @@
-var mnemonic = "thrive double slow soup era twice budget title input team maze heavy";
+var mnemonic = "glad name drive innocent sniff remain veteran tackle address sample art arm";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck door mention next zebra bicycle tide ketchup gossip visit sibling exit";
+var mnemonic = "water explain multiply valve video brother popular jacket good shock cream diet";

@@ -1,1 +1,1 @@
-var mnemonic = "pride iron hour fuel clog rain sock sibling envelope force service enter";
+var mnemonic = "funny hazard length aspect pelican east undo parrot tattoo frost wheat dance";

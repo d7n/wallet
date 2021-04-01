@@ -1,1 +1,1 @@
-var mnemonic = "decade cruise price isolate jacket quit hollow favorite leave ordinary body jaguar";
+var mnemonic = "ignore pulp axis dragon flag yard assault milk village kidney indicate inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "among spin panel benefit satoshi private wreck spawn wish kid hungry morning";
+var mnemonic = "match swap click swallow potato leaf legal emotion umbrella monster sun couple";

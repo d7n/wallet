@@ -1,1 +1,1 @@
-var mnemonic = "immune program spread coconut village sense ordinary double salon cricket switch item";
+var mnemonic = "master alcohol file switch tiny please coin sword gather rhythm slush hole";

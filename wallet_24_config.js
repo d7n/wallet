@@ -1,1 +1,1 @@
-var mnemonic = "gun funny paper garment vanish lunch usual clerk script surround depend fix";
+var mnemonic = "volume circle enhance express sea slender offer hover marine steak fiction toe";

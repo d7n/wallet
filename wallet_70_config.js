@@ -1,1 +1,1 @@
-var mnemonic = "sweet evolve rigid cave frequent cactus supply minor feature sun vague glory";
+var mnemonic = "share sentence police tape slow angry angle traffic tenant minute scheme ski";

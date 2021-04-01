@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow live hood custom snow auto better pluck such worth bird repair";
+var mnemonic = "fragile decrease daring album spatial friend angry sniff frequent ribbon rebel tortoise";

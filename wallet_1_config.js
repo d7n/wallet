@@ -1,1 +1,1 @@
-var mnemonic = "plug shaft scare latin what coffee divorce heavy case keen fury height";
+var mnemonic = "plunge require hero submit brass tattoo artefact source curve hammer tool honey";

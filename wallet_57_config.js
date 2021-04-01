@@ -1,1 +1,1 @@
-var mnemonic = "gas nerve staff front bunker track pet crash raccoon busy hint front";
+var mnemonic = "bean annual resist toddler riot tree exit swallow common image reward improve";

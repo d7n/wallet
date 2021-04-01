@@ -1,1 +1,1 @@
-var mnemonic = "electric behave sustain drum kitchen shove behave cash palm affair speed mom";
+var mnemonic = "twelve immense proof soap shiver erode key subway remove music mandate silent";

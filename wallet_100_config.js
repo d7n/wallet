@@ -1,1 +1,1 @@
-var mnemonic = "six torch decrease fire frequent area spring patient scene flower fresh liquid";
+var mnemonic = "hair army duty song disease project option sport filter pelican season review";

@@ -1,1 +1,1 @@
-var mnemonic = "situate paddle dress hammer junior park science scissors space join sponsor grant";
+var mnemonic = "okay snow switch dirt celery truly mutual chest myself expand retreat pact";

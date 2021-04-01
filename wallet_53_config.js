@@ -1,1 +1,1 @@
-var mnemonic = "check opera minor find crater timber enhance record appear pear copy reflect";
+var mnemonic = "round nut dad scatter soccer measure fitness blur ozone fine melody transfer";

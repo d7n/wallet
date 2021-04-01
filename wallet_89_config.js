@@ -1,1 +1,1 @@
-var mnemonic = "ankle visit feel install toward great picnic people neck stick hungry term";
+var mnemonic = "ginger twelve present agent say brand drip toss dice doctor amateur hollow";

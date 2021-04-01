@@ -1,1 +1,1 @@
-var mnemonic = "series hand recipe jar path churn midnight find stable menu quote spy";
+var mnemonic = "like speed sort mobile enemy inspire bottom man lens portion enhance oven";

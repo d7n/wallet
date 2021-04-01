@@ -1,1 +1,1 @@
-var mnemonic = "skirt custom trip doctor island emotion picture life afford noise wide raise";
+var mnemonic = "already dress arm almost system atom clog dutch luggage ring pumpkin youth";

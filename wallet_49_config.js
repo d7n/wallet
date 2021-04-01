@@ -1,1 +1,1 @@
-var mnemonic = "rice limb crash park asset head knee candy fade path own group";
+var mnemonic = "host better jaguar mimic route general yellow settle anxiety alert wall end";

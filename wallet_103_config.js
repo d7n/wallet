@@ -1,1 +1,1 @@
-var mnemonic = "code fork south manual empty awake lock stone media please seed furnace";
+var mnemonic = "child struggle rotate skin banana balcony swing mask replace cereal fork gain";

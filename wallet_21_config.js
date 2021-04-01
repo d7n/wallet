@@ -1,1 +1,1 @@
-var mnemonic = "identify remain spider raven history install range clean useless human blue stem";
+var mnemonic = "large there flush true wear box check spirit chunk sport civil spray";

@@ -1,1 +1,1 @@
-var mnemonic = "master next bench reduce message because path fly furnace royal elevator demise";
+var mnemonic = "later spare kiss frame manual mandate bike carpet equip gorilla glow neither";

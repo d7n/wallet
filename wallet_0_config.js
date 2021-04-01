@@ -1,1 +1,1 @@
-var mnemonic = "select motion roof comfort razor fun unhappy pond walnut deputy wagon square";
+var mnemonic = "farm student gallery unveil globe celery barrel certain rural eight kidney frost";

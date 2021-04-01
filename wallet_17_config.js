@@ -1,1 +1,1 @@
-var mnemonic = "property core scatter tornado skull thing prefer plastic oak drip rotate flower";
+var mnemonic = "bring mixed throw pipe sorry number track six very cliff steak august";

@@ -1,1 +1,1 @@
-var mnemonic = "image elite census virtual polar blouse letter slim innocent entry awesome card";
+var mnemonic = "rival crew motor setup gadget word zone crew carpet file snow dish";

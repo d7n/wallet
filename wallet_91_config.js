@@ -1,1 +1,1 @@
-var mnemonic = "merge cry exhaust maze length soldier skirt sentence actual brush replace melody";
+var mnemonic = "shoe able evoke awesome theory snap verb cliff morning dignity despair submit";

@@ -1,1 +1,1 @@
-var mnemonic = "sample way feed lab solid depend mandate tissue avocado usage tree antenna";
+var mnemonic = "pepper bag orient cliff depart almost kiwi viable spring broccoli spread music";

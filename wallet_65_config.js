@@ -1,1 +1,1 @@
-var mnemonic = "legal dolphin dawn like parade dinosaur chunk wood glare desk cost expect";
+var mnemonic = "skull march okay museum abandon sand prison shift hunt damage crisp peanut";

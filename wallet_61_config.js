@@ -1,1 +1,1 @@
-var mnemonic = "oven control soft era ceiling describe pass stand guitar farm bicycle always";
+var mnemonic = "luxury guitar donor radar describe stable sick unfold card also input able";

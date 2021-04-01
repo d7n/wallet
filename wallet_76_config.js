@@ -1,1 +1,1 @@
-var mnemonic = "rotate second bounce flag evoke entry arm clinic garlic busy image stomach";
+var mnemonic = "powder misery banana circle race work wish wreck casual dirt ready fortune";

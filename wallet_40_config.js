@@ -1,1 +1,1 @@
-var mnemonic = "pig marble gift nest upon dynamic little eager lens omit plate oven";
+var mnemonic = "exhaust honey system online trumpet essay panda join come federal resemble media";

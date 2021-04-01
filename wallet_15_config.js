@@ -1,1 +1,1 @@
-var mnemonic = "style fever veteran quick screen nut thrive play dutch risk civil credit";
+var mnemonic = "mango lesson reflect witness budget science trade clip guilt buffalo sense similar";

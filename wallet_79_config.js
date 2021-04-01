@@ -1,1 +1,1 @@
-var mnemonic = "promote welcome ride over blur word toddler admit web regular risk decline";
+var mnemonic = "weapon task shallow deny leaf mountain two empower fish cloud cake decline";
