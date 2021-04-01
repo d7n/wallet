@@ -1,1 +1,1 @@
-var mnemonic = "rescue shoot pottery city remain crouch boil museum assault tortoise rigid ankle";
+var mnemonic = "input cycle stamp album stomach elephant leave monitor alert verb guide sun";

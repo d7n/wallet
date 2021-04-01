@@ -1,1 +1,1 @@
-var mnemonic = "parrot symbol ugly embody talk pig tower coconut author perfect move exact";
+var mnemonic = "pride venue keen card gun ask brown supreme matrix vital auto melody";

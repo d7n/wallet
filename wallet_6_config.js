@@ -1,1 +1,1 @@
-var mnemonic = "tackle slight must result country gaze wine core shell salute typical winter";
+var mnemonic = "man such glad normal lucky draw abandon suit intact pioneer stand owner";

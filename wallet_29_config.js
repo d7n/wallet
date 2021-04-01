@@ -1,1 +1,1 @@
-var mnemonic = "omit second energy skate general volcano mail metal begin luxury junior post";
+var mnemonic = "hazard keen ignore disorder blouse drama girl steak inner mountain arctic tree";

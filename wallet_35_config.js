@@ -1,1 +1,1 @@
-var mnemonic = "just round cake source odor empower affair cloth smile swap open kiwi";
+var mnemonic = "skin glimpse picture drum oven tooth water service patient glad jump forest";

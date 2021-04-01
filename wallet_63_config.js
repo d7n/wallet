@@ -1,1 +1,1 @@
-var mnemonic = "asthma ankle enable dance clock buffalo tiny allow usage olympic gown prosper";
+var mnemonic = "lunch sick maple inhale panel walnut speak appear magnet burst fish asset";

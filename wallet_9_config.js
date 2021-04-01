@@ -1,1 +1,1 @@
-var mnemonic = "always clean armed soon wrong relax grape art arch beyond ordinary famous";
+var mnemonic = "enroll cave avoid flight online possible gas merit tomorrow aspect slot cannon";

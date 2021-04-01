@@ -1,1 +1,1 @@
-var mnemonic = "pony pass slogan renew gown online diagram lucky old spoil palace tackle";
+var mnemonic = "hamster power outdoor aspect faith hobby session vendor disease common abuse intact";

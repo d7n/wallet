@@ -1,1 +1,1 @@
-var mnemonic = "unhappy hen kitten sight kiwi express juice tube domain process bacon fame";
+var mnemonic = "bean vapor confirm ladder modify mixed lizard horror jealous tree yellow mirror";

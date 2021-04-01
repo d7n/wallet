@@ -1,1 +1,1 @@
-var mnemonic = "unlock sail nerve future shrimp leg private excess disease minute subway gauge";
+var mnemonic = "below hurt equip suggest swing jump office animal notable busy page coach";

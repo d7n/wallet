@@ -1,1 +1,1 @@
-var mnemonic = "sun tomorrow adjust disagree input monster fiction start swift illness sibling avocado";
+var mnemonic = "heart wreck jeans jeans glass nothing swamp twelve grape employ wealth practice";

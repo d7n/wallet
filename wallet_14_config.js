@@ -1,1 +1,1 @@
-var mnemonic = "inhale cube fitness cat squeeze detail idea anchor insane aunt mention decorate";
+var mnemonic = "mail firm top wheat diagram lucky chest bottom mechanic dance loyal fabric";

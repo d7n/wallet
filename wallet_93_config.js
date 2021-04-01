@@ -1,1 +1,1 @@
-var mnemonic = "taste cook tonight abstract sort chest sunny connect meat flavor trim job";
+var mnemonic = "mad little fit category april wave rigid type lab board glide blouse";

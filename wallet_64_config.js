@@ -1,1 +1,1 @@
-var mnemonic = "flock remove silk glory smile violin return cube clay buddy silk pole";
+var mnemonic = "pupil exit vehicle machine mango rescue parrot mansion potato now reject comic";

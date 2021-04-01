@@ -1,1 +1,1 @@
-var mnemonic = "drill face earth pair degree grab hobby soccer clean loop festival note";
+var mnemonic = "initial grace calm unfold breeze check extend they elegant exchange ceiling replace";

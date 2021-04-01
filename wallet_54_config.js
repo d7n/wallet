@@ -1,1 +1,1 @@
-var mnemonic = "grant glue gravity inch fold ladder hood spin film amused fork giant";
+var mnemonic = "top vacant junior rug busy between denial lemon reveal tobacco expect page";

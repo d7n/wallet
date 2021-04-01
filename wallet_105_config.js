@@ -1,1 +1,1 @@
-var mnemonic = "swallow badge arrow tumble traffic task left deal chimney act arrow ignore";
+var mnemonic = "cabbage want aisle begin liquid pond reject novel strong slot rhythm season";

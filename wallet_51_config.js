@@ -1,1 +1,1 @@
-var mnemonic = "gauge prize combine loan opinion wait behave churn buzz hammer trial another";
+var mnemonic = "humble length area lizard comfort valley royal pottery neglect cushion educate omit";

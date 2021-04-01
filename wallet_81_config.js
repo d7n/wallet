@@ -1,1 +1,1 @@
-var mnemonic = "cloud bridge galaxy relax future wedding list notable basic aunt dwarf click";
+var mnemonic = "illness menu ladder never plastic baby law hybrid horse tell vanish thrive";

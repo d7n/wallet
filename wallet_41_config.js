@@ -1,1 +1,1 @@
-var mnemonic = "sadness satoshi luxury success find honey shoe fit skull crumble assume knee";
+var mnemonic = "romance scatter spike quiz immune rebel humble apology upper salon spirit bracket";

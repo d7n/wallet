@@ -1,1 +1,1 @@
-var mnemonic = "glimpse enough lyrics maze jaguar aerobic curtain deliver cruel blame profit neglect";
+var mnemonic = "leave hint obscure choose include tired chunk attitude assume quick mandate glare";

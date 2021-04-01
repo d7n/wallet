@@ -1,1 +1,1 @@
-var mnemonic = "race garlic cross dignity rookie follow attract escape pipe future normal page";
+var mnemonic = "adult foam lion embark rebuild atom sadness kitchen almost stamp warfare front";

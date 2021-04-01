@@ -1,1 +1,1 @@
-var mnemonic = "impose few rigid duck neutral guitar describe gate impact toilet lobster regular";
+var mnemonic = "vague bomb net suspect know hawk crush indoor acquire photo travel donate";

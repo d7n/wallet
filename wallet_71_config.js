@@ -1,1 +1,1 @@
-var mnemonic = "infant rival boss orchard ensure nerve source bleak trade liberty around trumpet";
+var mnemonic = "original ostrich recipe bundle person crawl mirror hope quality meadow spawn start";

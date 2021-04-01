@@ -1,1 +1,1 @@
-var mnemonic = "occur shoulder maple tunnel provide school target trial boss result depend verify";
+var mnemonic = "season cube detect better flash false fabric chapter kangaroo parrot legal circle";

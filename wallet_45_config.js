@@ -1,1 +1,1 @@
-var mnemonic = "chat sphere goddess person behind beyond worth canyon fall typical conduct taste";
+var mnemonic = "hurry note spider orphan chair draw twenty dismiss pause snow child pool";

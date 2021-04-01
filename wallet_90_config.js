@@ -1,1 +1,1 @@
-var mnemonic = "trouble mansion correct glance good lonely ice cute path above young kiss";
+var mnemonic = "unfold unveil picnic habit bench tissue kind vivid resist pitch drill pride";

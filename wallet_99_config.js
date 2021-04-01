@@ -1,1 +1,1 @@
-var mnemonic = "ozone will hobby tomato mystery december tornado reject addict reflect check swamp";
+var mnemonic = "attitude sudden expire client find dilemma lesson notable violin deputy soul thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "firm street solve require caution usage person length draw much impose zone";
+var mnemonic = "custom menu ghost arrest profit another sketch glance excuse usual repair camp";

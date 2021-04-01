@@ -1,1 +1,1 @@
-var mnemonic = "worth word electric obscure exist scale acquire casino artefact solution prefer hungry";
+var mnemonic = "guilt nuclear oblige media endorse forest ride oppose draft second clarify ignore";

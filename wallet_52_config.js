@@ -1,1 +1,1 @@
-var mnemonic = "coral hybrid ability fault glass search crouch grace churn pond normal upon";
+var mnemonic = "edit fine tomato crisp muscle will super frost want pizza ordinary embody";

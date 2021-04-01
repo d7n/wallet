@@ -1,1 +1,1 @@
-var mnemonic = "skate cheese aisle mistake make harvest credit arrow high siren ozone reveal";
+var mnemonic = "royal script emotion use parrot grief fine kitten obtain van lens nothing";

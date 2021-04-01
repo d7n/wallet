@@ -1,1 +1,1 @@
-var mnemonic = "hard million merge neither sad mango accident resemble tobacco drive stuff camp";
+var mnemonic = "sleep depth depend vapor romance april quote car helmet nose horse chief";

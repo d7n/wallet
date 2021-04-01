@@ -1,1 +1,1 @@
-var mnemonic = "unlock crowd clay pudding word prosper blanket trash evil put bleak forward";
+var mnemonic = "lecture crisp shallow blue chunk aim have avoid kiwi cool vast palace";

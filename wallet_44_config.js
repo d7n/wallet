@@ -1,1 +1,1 @@
-var mnemonic = "version noise receive symptom wave kite idle peasant impact roof vocal castle";
+var mnemonic = "social vapor barely loan style festival blossom creek agree cliff mango topple";

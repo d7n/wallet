@@ -1,1 +1,1 @@
-var mnemonic = "badge gather saddle present abuse barely member child jar talk prevent target";
+var mnemonic = "island retire shove kidney true artwork gun tag afford fossil image naive";

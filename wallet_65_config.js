@@ -1,1 +1,1 @@
-var mnemonic = "rival limit recall fuel welcome tuna absurd fabric moral nose news mesh";
+var mnemonic = "arm mule flee comfort dry kiwi gate rose blue essay vocal correct";

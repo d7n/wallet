@@ -1,1 +1,1 @@
-var mnemonic = "van critic example fantasy lesson answer icon giant screen romance cement attitude";
+var mnemonic = "below thumb code zero oil normal cricket recipe horse amused dog cable";

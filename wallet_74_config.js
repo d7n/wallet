@@ -1,1 +1,1 @@
-var mnemonic = "tent peasant nut describe pottery differ witness good crazy together stadium fabric";
+var mnemonic = "weird excess boil punch bird office advance glare throw sunny upper very";

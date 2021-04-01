@@ -1,1 +1,1 @@
-var mnemonic = "title vehicle now artefact sister inmate tiger swing path betray also found";
+var mnemonic = "answer emotion giggle trust sketch fetch worth that short parade leopard cactus";

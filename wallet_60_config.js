@@ -1,1 +1,1 @@
-var mnemonic = "clutch cake wise smoke wealth hour shuffle submit guess rain junk net";
+var mnemonic = "jungle device catalog kingdom mimic general post setup soldier proof between float";

@@ -1,1 +1,1 @@
-var mnemonic = "bid vacant sleep slow crowd prevent green wide twelve neck chapter salon";
+var mnemonic = "absurd cloth size edge taxi drink join thing oak unable lawn they";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito average scan stadium pool seek enforce ginger rich second improve ready";
+var mnemonic = "admit lyrics follow okay amateur coin bubble control mule burger wink anxiety";

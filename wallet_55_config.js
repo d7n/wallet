@@ -1,1 +1,1 @@
-var mnemonic = "mouse immune fan pen lock all say shadow arm chronic tumble what";
+var mnemonic = "bicycle soul bunker slow satisfy quality magic return bench brother spin wedding";

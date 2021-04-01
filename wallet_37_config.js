@@ -1,1 +1,1 @@
-var mnemonic = "physical excite hotel mandate logic idle zone vendor child stumble okay author";
+var mnemonic = "equal spirit symptom mountain crater decorate sure proof knee stadium tell grow";

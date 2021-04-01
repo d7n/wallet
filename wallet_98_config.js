@@ -1,1 +1,1 @@
-var mnemonic = "celery orange street turkey banana rose borrow wink cross you potato exclude";
+var mnemonic = "sponsor future clap lend wool fox trim few drop erode novel cattle";

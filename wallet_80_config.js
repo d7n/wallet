@@ -1,1 +1,1 @@
-var mnemonic = "defy scrap neglect marriage snow ethics rifle hungry social kangaroo loop spatial";
+var mnemonic = "live bridge romance aim second soon cherry theme family trash venue toast";

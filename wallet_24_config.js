@@ -1,1 +1,1 @@
-var mnemonic = "dove ensure start exact scan logic tourist index art group grow law";
+var mnemonic = "reform faculty steel evolve adjust sponsor unfold lion gravity glad struggle tone";

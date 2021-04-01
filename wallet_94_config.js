@@ -1,1 +1,1 @@
-var mnemonic = "inform caution ladder cactus eyebrow hamster strong cover dizzy arrive alarm arrow";
+var mnemonic = "artwork language deer obvious luxury rice aspect subway cool adjust possible garlic";

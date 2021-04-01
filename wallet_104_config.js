@@ -1,1 +1,1 @@
-var mnemonic = "insect thunder arch admit pear bitter film thumb aerobic door boost diet";
+var mnemonic = "nominee say trust plastic surround install super margin fox wheat supply parade";

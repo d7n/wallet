@@ -1,1 +1,1 @@
-var mnemonic = "produce swallow public buddy aunt budget jaguar sauce insect ice security match";
+var mnemonic = "clump reopen brother junk shy motion magic romance glimpse cheese junk story";

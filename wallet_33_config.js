@@ -1,1 +1,1 @@
-var mnemonic = "trend blind country rebuild group atom inmate stage space glow used unveil";
+var mnemonic = "open gospel antique before beef picnic twice unique indicate message sock powder";

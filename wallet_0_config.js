@@ -1,1 +1,1 @@
-var mnemonic = "proud finger arm snack certain space song helmet cry clog busy trial";
+var mnemonic = "stamp tuna mail team arctic genuine amateur noodle hungry rabbit supreme forest";

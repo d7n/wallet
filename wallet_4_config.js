@@ -1,1 +1,1 @@
-var mnemonic = "nation torch elegant such latin bird glimpse bean glue brass organ chicken";
+var mnemonic = "waste text glimpse junk hire lobster paddle exit nature wrist shine slogan";

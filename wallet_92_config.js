@@ -1,1 +1,1 @@
-var mnemonic = "anger horn argue link enough topic taxi cargo robot space winter wide";
+var mnemonic = "return strike suit confirm luxury boost feed test now husband artist badge";

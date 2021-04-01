@@ -1,1 +1,1 @@
-var mnemonic = "select pull twice toast orange pitch cook cute burger renew card badge";
+var mnemonic = "agent castle more intact grab thumb merry funny crisp wheat absurd tent";

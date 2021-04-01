@@ -1,1 +1,1 @@
-var mnemonic = "swap bag physical indicate enemy motion share hold achieve color increase result";
+var mnemonic = "pupil song silent now patient spot reopen risk various feed exile claim";

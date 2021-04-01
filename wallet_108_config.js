@@ -1,1 +1,1 @@
-var mnemonic = "casino hole note chef live spoon silk pig machine spare excess artefact";
+var mnemonic = "tell mother trophy december goose hole regular name drip lawn nest erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "pause crash lady grow skin decide say icon moon dilemma since attack";
+var mnemonic = "figure tragic volcano dash economy wolf word suggest action lab wrestle intact";

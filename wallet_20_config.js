@@ -1,1 +1,1 @@
-var mnemonic = "blouse parent into bacon neck reunion ramp leaf off love cause glare";
+var mnemonic = "swim filter air loyal present book spray march limit plate uniform banana";

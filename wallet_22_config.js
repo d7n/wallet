@@ -1,1 +1,1 @@
-var mnemonic = "sting weapon knife potato woman pear syrup fault section sick calm dish";
+var mnemonic = "cream joke mask orphan useless odor chat truck dinner jewel problem armor";

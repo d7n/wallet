@@ -1,1 +1,1 @@
-var mnemonic = "spoil debris finish brief crumble forget acid bless toward speed panda pole";
+var mnemonic = "kiss dwarf sand hand drive gain access fiber rigid gown bunker motion";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary addict urge river hidden able develop flock dice trick human fossil";
+var mnemonic = "puzzle bus allow grass fever boil excess guitar bind word bid barely";

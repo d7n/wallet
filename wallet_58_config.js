@@ -1,1 +1,1 @@
-var mnemonic = "cushion actor modify organ rather stem crawl bus chief cube mushroom math";
+var mnemonic = "never broken tip source round crush banner dilemma amused fossil mandate sample";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel brand service close small pond void sick engage circle scale talk";
+var mnemonic = "various disease tooth coconut sound outer bulk reunion fence camera arrange police";

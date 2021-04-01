@@ -1,1 +1,1 @@
-var mnemonic = "heavy stem afford expand cotton win decorate age borrow annual visual dentist";
+var mnemonic = "bean prosper tank myself little action actress rookie pull bus mistake review";

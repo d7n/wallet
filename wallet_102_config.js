@@ -1,1 +1,1 @@
-var mnemonic = "protect float fish accuse false odor poet come pitch spatial tongue gadget";
+var mnemonic = "speak image music lottery below august trim brisk artefact aunt cry burst";

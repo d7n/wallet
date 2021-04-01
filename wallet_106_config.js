@@ -1,1 +1,1 @@
-var mnemonic = "economy divide mutual village outer carpet reject weather taste tired author pencil";
+var mnemonic = "lawn quick alert found skill globe employ motion disagree plug slot orange";

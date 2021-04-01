@@ -1,1 +1,1 @@
-var mnemonic = "summer love future record casino world mystery cause victory engine fog ranch";
+var mnemonic = "crop symptom upper gift hammer moon baby brand acoustic wire labor glue";

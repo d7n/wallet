@@ -1,1 +1,1 @@
-var mnemonic = "twice hospital sponsor guide door auction wide sword mask marine trial vapor";
+var mnemonic = "human hurry horse discover park wrist tray wait icon hero suggest weather";

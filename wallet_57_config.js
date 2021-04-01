@@ -1,1 +1,1 @@
-var mnemonic = "eye share sample select broken trend swear sell crash valve arrow bounce";
+var mnemonic = "whisper gain flat aware ask public silk debate embody equip door join";

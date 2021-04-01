@@ -1,1 +1,1 @@
-var mnemonic = "increase wine modify stairs story absurd visual interest foster depart topic float";
+var mnemonic = "drip never stand prevent loop indicate van refuse help menu vessel once";

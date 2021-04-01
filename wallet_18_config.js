@@ -1,1 +1,1 @@
-var mnemonic = "bread impulse always nest hair mistake copper volcano frost police true reward";
+var mnemonic = "butter core purchase warfare invest dream drip door bone save silent empower";

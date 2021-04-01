@@ -1,1 +1,1 @@
-var mnemonic = "about bright odor autumn gospel equal across tool snack moon ignore ankle";
+var mnemonic = "flock neutral person sort defy swarm element filter hip october dust lens";

@@ -1,1 +1,1 @@
-var mnemonic = "region typical unlock evil liquid question document invite neck raven grid recipe";
+var mnemonic = "someone hat banner today already laugh day palm butter quick drop alcohol";

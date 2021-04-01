@@ -1,1 +1,1 @@
-var mnemonic = "brother battle park inflict fancy frost trade giraffe useful canvas risk use";
+var mnemonic = "garment update dilemma stomach nominee fix menu illegal blur diagram just milk";

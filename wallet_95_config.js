@@ -1,1 +1,1 @@
-var mnemonic = "riot energy access witness language view pill proud combine effort grit lecture";
+var mnemonic = "ocean wire benefit oak impact melt valve rate glimpse clown divorce energy";

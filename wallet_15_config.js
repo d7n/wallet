@@ -1,1 +1,1 @@
-var mnemonic = "coconut leopard mass tennis garment amused misery drift topic left disorder master";
+var mnemonic = "lottery leg shallow arrest excite trial box distance frequent jeans arrest exist";

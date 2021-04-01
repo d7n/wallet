@@ -1,1 +1,1 @@
-var mnemonic = "artwork surface sunset daring deputy plunge aerobic hedgehog aisle margin then ecology";
+var mnemonic = "humble bike ask pony whale powder curious robust upon owner kangaroo evoke";

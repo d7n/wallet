@@ -1,1 +1,1 @@
-var mnemonic = "ranch balcony absurd verify uncover toilet rely custom fold youth patch risk";
+var mnemonic = "afraid black team illness spice crystal find memory reject feed conduct expire";

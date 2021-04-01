@@ -1,1 +1,1 @@
-var mnemonic = "enable romance true february vote lava rigid puzzle indicate post defy despair";
+var mnemonic = "leaf slab exotic recall give stairs later depend cotton square lens visual";

@@ -1,1 +1,1 @@
-var mnemonic = "guide whip rack century park clever tide hungry shoulder video spawn joke";
+var mnemonic = "more abuse paddle embark face shoe spot myth order upgrade ranch process";

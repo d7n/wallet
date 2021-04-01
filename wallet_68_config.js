@@ -1,1 +1,1 @@
-var mnemonic = "impose scrap ridge rice skin baby lemon rice direct all lawsuit hard";
+var mnemonic = "will labor business photo know alpha trash decade disorder help avocado citizen";

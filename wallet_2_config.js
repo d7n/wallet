@@ -1,1 +1,1 @@
-var mnemonic = "gentle best pipe degree foot trophy trim ivory another oxygen proud veteran";
+var mnemonic = "you chat silent ticket code sweet elite drift lunar engine bless scan";

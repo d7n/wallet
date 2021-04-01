@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow total spread monster gain satoshi blur comic page advance thing master";
+var mnemonic = "among broom eagle salad rely sock style rain disagree long child trim";

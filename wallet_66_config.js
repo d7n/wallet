@@ -1,1 +1,1 @@
-var mnemonic = "ethics awful carry mystery office typical skirt light question return dwarf large";
+var mnemonic = "glimpse gun slender genre dolphin language reunion enroll addict trouble uniform puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "steak virus energy chronic now age window depth odor sketch tube scrub";
+var mnemonic = "draw reason federal neutral cradle victory nominee solid twin truck achieve razor";
