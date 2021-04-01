@@ -1,1 +1,1 @@
-var mnemonic = "sweet future half dream option absorb forum lonely weapon fragile call bronze";
+var mnemonic = "invite cable glory mirror beyond donkey trust leisure slab shallow work gap";

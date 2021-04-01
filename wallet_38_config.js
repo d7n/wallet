@@ -1,1 +1,1 @@
-var mnemonic = "that around level obtain occur burden scan nothing peasant debris peanut giant";
+var mnemonic = "reason remain hen jeans trial delay pyramid virtual person physical frog relax";

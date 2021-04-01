@@ -1,1 +1,1 @@
-var mnemonic = "merit resource donkey twist rely soap trust island market cherry razor kick";
+var mnemonic = "near advance roast uniform gun illness cannon accident habit ankle brick kiss";

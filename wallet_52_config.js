@@ -1,1 +1,1 @@
-var mnemonic = "turtle poverty wool disease laundry champion stage shoe armed airport steel shield";
+var mnemonic = "priority match tourist movie swamp panic supply robot urban custom gather census";

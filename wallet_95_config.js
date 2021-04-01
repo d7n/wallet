@@ -1,1 +1,1 @@
-var mnemonic = "uniform act december double dish nuclear patient hurry boy roast pioneer mimic";
+var mnemonic = "blame false weapon olympic unlock urge learn label cream seek myself explain";

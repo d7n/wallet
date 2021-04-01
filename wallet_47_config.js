@@ -1,1 +1,1 @@
-var mnemonic = "silent kitchen brass scrub deliver exotic you around auto icon give detail";
+var mnemonic = "roast hammer sheriff divorce local rude rug swift eight cabbage admit car";

@@ -1,1 +1,1 @@
-var mnemonic = "arena cereal ladder token mail concert garlic oil try increase swift marine";
+var mnemonic = "math midnight people afford peace vague palm fan tool pencil hidden pitch";

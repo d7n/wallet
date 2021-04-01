@@ -1,1 +1,1 @@
-var mnemonic = "dust actress recycle combine need blouse inmate hold supply favorite bright ceiling";
+var mnemonic = "pioneer achieve garden coach brave rose arm annual abandon local traffic security";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion coil diamond choose erode enact know guard recall around child fantasy";
+var mnemonic = "tower security two visual coin ethics barrel card during goose salute canyon";

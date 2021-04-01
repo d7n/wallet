@@ -1,1 +1,1 @@
-var mnemonic = "laundry west below outside drastic always loyal destroy arena home transfer equip";
+var mnemonic = "unknown kitchen clog borrow exhaust tunnel lesson fit velvet ribbon caught wall";

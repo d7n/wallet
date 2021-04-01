@@ -1,1 +1,1 @@
-var mnemonic = "rabbit sustain rocket cage join bid approve crush current depart arrow question";
+var mnemonic = "engine quote gold disagree rally craft abandon square shiver sunny glove high";

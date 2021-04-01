@@ -1,1 +1,1 @@
-var mnemonic = "battle you skull throw balcony damage tunnel expose frame dash rent rent";
+var mnemonic = "payment couch machine need damage odor link jelly blame cube large winter";

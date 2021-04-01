@@ -1,1 +1,1 @@
-var mnemonic = "noise target welcome armed swallow release grab chunk nature rug ankle picture";
+var mnemonic = "cherry bargain envelope abandon blind announce unusual traffic cake police make rare";

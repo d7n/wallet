@@ -1,1 +1,1 @@
-var mnemonic = "purpose dragon purse aunt olive embrace annual burger father napkin hard behave";
+var mnemonic = "impact churn breeze pig hundred expose mammal pride tent reflect art fish";

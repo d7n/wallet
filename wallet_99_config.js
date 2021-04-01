@@ -1,1 +1,1 @@
-var mnemonic = "dust cute dolphin faith arrange worth rule much pilot tip able zebra";
+var mnemonic = "crystal road seminar expand renew double slender extra atom canyon final throw";

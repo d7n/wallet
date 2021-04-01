@@ -1,1 +1,1 @@
-var mnemonic = "melody oyster weird sing position hope zone hamster scissors hammer auction estate";
+var mnemonic = "mask output icon swing glove tornado submit portion slush during annual phone";

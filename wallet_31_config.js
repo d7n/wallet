@@ -1,1 +1,1 @@
-var mnemonic = "track critic mention try library base alcohol outdoor comic game system learn";
+var mnemonic = "hazard problem pizza maple sentence food inherit switch boost snap aerobic suit";

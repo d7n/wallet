@@ -1,1 +1,1 @@
-var mnemonic = "lumber daring aspect raise bless eight saddle rotate size actress leave swarm";
+var mnemonic = "general script ostrich garage force practice balance ahead unusual spirit empower saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown basic oven lazy inject piano poem congress lion hawk settle cycle";
+var mnemonic = "armor ability ecology parent husband direct subway plate sword bamboo simple stick";

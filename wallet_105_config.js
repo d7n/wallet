@@ -1,1 +1,1 @@
-var mnemonic = "upgrade coconut vapor scissors crawl sure random peanut portion citizen stadium wagon";
+var mnemonic = "baby uphold organ goat dose elephant tuition phone frequent honey worry topic";

@@ -1,1 +1,1 @@
-var mnemonic = "play artefact harbor because danger legend share moment pelican before undo velvet";
+var mnemonic = "pitch scan pact toy cannon family cereal define absent castle cute ribbon";

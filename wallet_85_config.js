@@ -1,1 +1,1 @@
-var mnemonic = "ride wet program sustain position paper donkey wing aware settle captain police";
+var mnemonic = "they picture educate crash blanket basket cycle ivory steak volcano occur scrub";

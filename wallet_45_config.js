@@ -1,1 +1,1 @@
-var mnemonic = "hair axis fortune blade lesson habit rescue merit rally isolate actor detect";
+var mnemonic = "chief fog clap curious casino vote banana junk smoke more almost lottery";

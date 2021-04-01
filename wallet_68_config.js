@@ -1,1 +1,1 @@
-var mnemonic = "lunar carpet win hobby make abuse stomach engage leader jelly issue twelve";
+var mnemonic = "disease victory poet credit minor climb maid cactus chat fade album blue";

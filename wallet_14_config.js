@@ -1,1 +1,1 @@
-var mnemonic = "under plug crush dilemma act left clap segment busy loud ticket razor";
+var mnemonic = "ball squeeze shoot ghost title original gap intact glass spin project brisk";

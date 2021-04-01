@@ -1,1 +1,1 @@
-var mnemonic = "grant cattle actual movie license dismiss pet misery team slush media march";
+var mnemonic = "spring kid hospital powder wheat only oven diamond laundry sell spy loyal";

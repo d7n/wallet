@@ -1,1 +1,1 @@
-var mnemonic = "again unusual chapter human screen plastic casino inflict slush doll lecture east";
+var mnemonic = "pumpkin year crush happy choice caught urge vendor exile horse portion empty";

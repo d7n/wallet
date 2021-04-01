@@ -1,1 +1,1 @@
-var mnemonic = "blouse rich leg quit loyal solve find bulb surge tube acquire town";
+var mnemonic = "comic frog boost family certain category unhappy make open zebra step shock";

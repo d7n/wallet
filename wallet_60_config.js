@@ -1,1 +1,1 @@
-var mnemonic = "crumble hood tuition sniff crush angle anchor layer brain glue dignity base";
+var mnemonic = "defy morning opinion sick food phone lucky state umbrella frost perfect category";

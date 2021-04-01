@@ -1,1 +1,1 @@
-var mnemonic = "speed slogan pluck health win airport impact meadow oppose airport squeeze real";
+var mnemonic = "differ wreck purchase fury few circle sound program bind detail dream deny";

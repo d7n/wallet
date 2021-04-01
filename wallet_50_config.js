@@ -1,1 +1,1 @@
-var mnemonic = "alter taste hill laugh virus grant rice addict sorry guard awkward mixed";
+var mnemonic = "sock task victory minimum charge blood clean icon drop news hurt vital";

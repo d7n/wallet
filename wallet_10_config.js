@@ -1,1 +1,1 @@
-var mnemonic = "bounce agent define gift voyage gauge coil vendor peanut stereo toward trim";
+var mnemonic = "solution dice ocean project occur teach popular husband book rural venue crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel ostrich bargain antique then cool nose there rapid hospital farm wagon";
+var mnemonic = "guitar club spell cousin kitchen aunt narrow street spoil blame pill scheme";

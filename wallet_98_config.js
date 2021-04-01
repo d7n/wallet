@@ -1,1 +1,1 @@
-var mnemonic = "coconut section account danger very tissue empower fringe endorse main tank floor";
+var mnemonic = "wood rally science admit addict spend cage ball sister lonely puppy endorse";

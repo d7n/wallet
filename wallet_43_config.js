@@ -1,1 +1,1 @@
-var mnemonic = "birth moral leave tilt guitar expand lonely coin cream chief update today";
+var mnemonic = "believe can celery depend lunch target rebel cup era gossip exhibit network";

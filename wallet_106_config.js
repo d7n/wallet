@@ -1,1 +1,1 @@
-var mnemonic = "electric buddy poverty damage burger usual tourist bus tomorrow update toward tone";
+var mnemonic = "nuclear game flower follow fatal decade then only tower boy soul wrestle";

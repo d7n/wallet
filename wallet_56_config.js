@@ -1,1 +1,1 @@
-var mnemonic = "borrow elbow trophy fiction thank practice leopard upgrade evidence lesson run dream";
+var mnemonic = "post ship atom uphold rebuild crucial smooth mobile expose repair crush tortoise";

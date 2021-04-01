@@ -1,1 +1,1 @@
-var mnemonic = "canvas rubber pass empower pen accident pizza scene what knock cook lazy";
+var mnemonic = "foam tribe sign devote kite bridge sting allow bulk blanket together column";

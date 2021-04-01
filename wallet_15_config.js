@@ -1,1 +1,1 @@
-var mnemonic = "mountain clever short grace coconut decade alien select axis suspect modify vehicle";
+var mnemonic = "original misery moon design gun judge eye obscure achieve nerve dolphin sudden";

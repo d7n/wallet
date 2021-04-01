@@ -1,1 +1,1 @@
-var mnemonic = "soul shift alpha pause illness october come health sunset kangaroo maple over";
+var mnemonic = "purse number female crawl tissue acoustic robot donate clock nature jelly sibling";

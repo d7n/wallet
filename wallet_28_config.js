@@ -1,1 +1,1 @@
-var mnemonic = "require trim juice source mutual help chicken stamp spatial rubber mom fragile";
+var mnemonic = "film floor real hire security company finger hole best lawsuit auto evil";

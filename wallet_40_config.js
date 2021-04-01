@@ -1,1 +1,1 @@
-var mnemonic = "setup bench trash wasp dynamic lift heart illegal vacant crucial boat ripple";
+var mnemonic = "brain rail bitter letter lecture doll between family seven oblige huge couch";

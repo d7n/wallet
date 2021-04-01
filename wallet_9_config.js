@@ -1,1 +1,1 @@
-var mnemonic = "blush always miss small seminar address turtle october visual credit cool suspect";
+var mnemonic = "wet bubble swear devote library split lend lend round leopard trophy deal";

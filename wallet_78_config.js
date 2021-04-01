@@ -1,1 +1,1 @@
-var mnemonic = "age need price dry release salt option exact injury victory arch scan";
+var mnemonic = "exhaust desert burger mushroom cause slogan hawk together salute breeze own broccoli";

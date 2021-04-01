@@ -1,1 +1,1 @@
-var mnemonic = "bus tape major depth thank resist flag token ancient dwarf course census";
+var mnemonic = "buffalo badge fit dress confirm what when process gorilla trick gossip nasty";

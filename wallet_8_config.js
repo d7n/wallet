@@ -1,1 +1,1 @@
-var mnemonic = "valid sunset version equal diary approve laptop puppy path screen cloth hurdle";
+var mnemonic = "steel boost key bleak ski shock hat undo shoot effort sugar state";

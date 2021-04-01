@@ -1,1 +1,1 @@
-var mnemonic = "gadget snow bread birth train oven toss space arm allow great mutual";
+var mnemonic = "sweet destroy science survey aisle island true history safe emotion copper connect";

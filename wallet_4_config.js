@@ -1,1 +1,1 @@
-var mnemonic = "blast bullet spice pet antique inform place choice unhappy bracket tonight error";
+var mnemonic = "food wet else spend custom distance luxury hidden tank melt stool inspire";

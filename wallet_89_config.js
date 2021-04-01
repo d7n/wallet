@@ -1,1 +1,1 @@
-var mnemonic = "fury fly horror cross calm pepper disorder bike cheap beyond much fee";
+var mnemonic = "love enforce olympic depend circle oxygen quit lyrics quarter behave hunt riot";

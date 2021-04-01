@@ -1,1 +1,1 @@
-var mnemonic = "alone stumble moon dizzy access liberty excess state cigar grid coyote parade";
+var mnemonic = "admit destroy lift render dragon portion august fade robust pelican brief verify";

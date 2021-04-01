@@ -1,1 +1,1 @@
-var mnemonic = "rescue fish message more fit pioneer common energy prevent fox fetch puzzle";
+var mnemonic = "suggest mention velvet tape evoke elbow youth seminar main milk subject vicious";

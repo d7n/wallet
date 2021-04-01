@@ -1,1 +1,1 @@
-var mnemonic = "cake good essence aspect gasp give decline venue enter bring tribe glimpse";
+var mnemonic = "nation inquiry segment sun robust adult garlic cherry diesel fun battle peanut";

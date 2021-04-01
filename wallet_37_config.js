@@ -1,1 +1,1 @@
-var mnemonic = "discover view later cotton hurt flat swamp endorse mutual moment fitness minute";
+var mnemonic = "rely obtain garlic setup purpose student add obscure galaxy magnet garment fragile";

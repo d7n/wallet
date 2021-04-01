@@ -1,1 +1,1 @@
-var mnemonic = "exchange tackle room easy tongue joke radio expose teach urge alley range";
+var mnemonic = "solar naive banner yellow connect now repeat kiwi artist rebel wash bag";

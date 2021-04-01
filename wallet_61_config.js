@@ -1,1 +1,1 @@
-var mnemonic = "moon diamond raccoon ecology task spot exact input wrestle maximum brown public";
+var mnemonic = "rebel ancient robust bronze tongue romance lottery isolate repair other human scare";

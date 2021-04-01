@@ -1,1 +1,1 @@
-var mnemonic = "axis imitate sing zero ostrich bronze female assist pulse point jelly vocal";
+var mnemonic = "cargo mystery divide vast slender rib runway actress sand soda tank pony";

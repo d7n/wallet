@@ -1,1 +1,1 @@
-var mnemonic = "solar cousin tomorrow reunion civil height picnic museum margin enjoy animal hen";
+var mnemonic = "way choice permit pulse okay life camp double attract wink renew excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "skate firm general gossip bachelor bench aerobic yellow sun route harbor clog";
+var mnemonic = "era try tape broccoli powder marine mom make private bargain heart leopard";

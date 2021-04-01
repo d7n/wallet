@@ -1,1 +1,1 @@
-var mnemonic = "extend upset enrich tiny hybrid one region over crumble solar staff talk";
+var mnemonic = "tiny hover engine discover custom sign example moon bottom pink naive wedding";

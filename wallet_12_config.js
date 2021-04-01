@@ -1,1 +1,1 @@
-var mnemonic = "badge orange crime infant belt jar club deal alpha life yellow rib";
+var mnemonic = "gym memory phone picture laptop gossip float jacket gaze saddle dinner minute";

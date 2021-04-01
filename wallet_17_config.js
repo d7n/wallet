@@ -1,1 +1,1 @@
-var mnemonic = "range time hurdle marine again small insane finger iron believe egg snack";
+var mnemonic = "drop swap control stuff play sorry pigeon reject worry park outside raven";

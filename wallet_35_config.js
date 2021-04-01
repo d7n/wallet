@@ -1,1 +1,1 @@
-var mnemonic = "name planet purchase forget shadow run another one impulse welcome cheap dove";
+var mnemonic = "sunset train exhaust arrow swarm sister gossip govern rescue mystery enemy ensure";

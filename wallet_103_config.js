@@ -1,1 +1,1 @@
-var mnemonic = "point tobacco wine satoshi apple genuine arrange hood number flag surge couple";
+var mnemonic = "assume flight illegal neither wave knee elbow deputy lend mesh chronic use";

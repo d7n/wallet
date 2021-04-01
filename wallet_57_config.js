@@ -1,1 +1,1 @@
-var mnemonic = "clip student session future stick trim afraid join orchard badge blast rose";
+var mnemonic = "close tragic busy buddy surge cabbage index saddle regular judge own ramp";

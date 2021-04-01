@@ -1,1 +1,1 @@
-var mnemonic = "easily ice wheel general discover good bulk north finish concert modify minute";
+var mnemonic = "need fringe rate crazy before embark add work birth bean axis shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "gym flower suffer cake timber magnet deposit two author merge dirt strong";
+var mnemonic = "pill explain illness turtle announce invite casual observe orient flower amazing access";

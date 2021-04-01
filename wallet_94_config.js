@@ -1,1 +1,1 @@
-var mnemonic = "lend base estate ordinary focus move depart program cluster great tide badge";
+var mnemonic = "cup model arrange thank asset pigeon cream dish render march decide cotton";

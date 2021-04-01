@@ -1,1 +1,1 @@
-var mnemonic = "slice argue sauce pitch robot security witness cricket venue good marriage spike";
+var mnemonic = "piano above into image settle novel toy oblige crack demise begin boost";

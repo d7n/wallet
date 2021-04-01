@@ -1,1 +1,1 @@
-var mnemonic = "glimpse trick primary gentle helmet force coach tuition stick blush home clutch";
+var mnemonic = "actress service attitude devote false hundred limb jaguar toast step predict mango";

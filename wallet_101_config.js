@@ -1,1 +1,1 @@
-var mnemonic = "plug sort melt fog emerge minute sound gaze two accuse decade helmet";
+var mnemonic = "dust random combine wage praise regular stable feel cable carbon identify hope";

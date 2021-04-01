@@ -1,1 +1,1 @@
-var mnemonic = "guitar eyebrow sustain gravity trumpet scale liquid story luxury apple lunch together";
+var mnemonic = "animal subject season jar blast giggle tonight book steel brown exclude weekend";

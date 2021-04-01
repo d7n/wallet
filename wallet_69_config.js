@@ -1,1 +1,1 @@
-var mnemonic = "fitness divorce club crane decide raise ugly child evil spare crush jelly";
+var mnemonic = "peanut favorite poverty move repeat raccoon course face enjoy elephant area couple";

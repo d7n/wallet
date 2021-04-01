@@ -1,1 +1,1 @@
-var mnemonic = "crouch shy lake bracket power seed certain organ wood differ prison sentence";
+var mnemonic = "fault myth first bottom book assist flush shrug festival mimic firm ask";

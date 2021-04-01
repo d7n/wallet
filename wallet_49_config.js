@@ -1,1 +1,1 @@
-var mnemonic = "salute flat foil one catalog base garlic lawsuit wrestle dad permit bundle";
+var mnemonic = "leisure success pumpkin vivid become daughter fly suffer tomorrow nut cheap angle";

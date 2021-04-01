@@ -1,1 +1,1 @@
-var mnemonic = "enter fury staff fork radar pottery used border deny early club stamp";
+var mnemonic = "wish real cricket blue alpha champion romance float leader virus mirror swarm";

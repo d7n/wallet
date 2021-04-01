@@ -1,1 +1,1 @@
-var mnemonic = "veteran hood trumpet vapor cable agent dolphin simple jealous afraid seat yard";
+var mnemonic = "rough fly pond abstract swallow club mad aware thrive disorder scatter hospital";

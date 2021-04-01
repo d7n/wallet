@@ -1,1 +1,1 @@
-var mnemonic = "ketchup glory spot tent dragon clock weekend cannon garbage match inform bench";
+var mnemonic = "setup rotate fossil exercise destroy find breeze hub language enroll salad mixture";

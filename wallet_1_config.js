@@ -1,1 +1,1 @@
-var mnemonic = "coast muffin remember pledge bunker inject skate tool siege upset little carpet";
+var mnemonic = "road zero actual magic surface hour round salt hollow thunder stove nose";

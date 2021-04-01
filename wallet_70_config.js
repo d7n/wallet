@@ -1,1 +1,1 @@
-var mnemonic = "august warm ensure already sadness crash occur battle tuna slam version maximum";
+var mnemonic = "acquire phrase travel razor predict plastic add fox race galaxy only divorce";

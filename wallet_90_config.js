@@ -1,1 +1,1 @@
-var mnemonic = "credit warfare timber twin valley pole emotion interest adjust height athlete lucky";
+var mnemonic = "strike pledge satoshi correct choice nothing permit foam either empower yellow slow";

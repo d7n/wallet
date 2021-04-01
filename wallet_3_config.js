@@ -1,1 +1,1 @@
-var mnemonic = "farm ranch size hedgehog maid deer saddle assume boss phone panda manage";
+var mnemonic = "often remain assault tragic private easy mimic orphan aim shell cliff neither";

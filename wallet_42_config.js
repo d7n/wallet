@@ -1,1 +1,1 @@
-var mnemonic = "window belt forest opera kick flock process stove phone impulse actress armor";
+var mnemonic = "extend six kingdom right entire rally onion allow unveil tilt blame lecture";

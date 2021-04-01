@@ -1,1 +1,1 @@
-var mnemonic = "awkward welcome consider fine print vast weird armor round trigger toss desk";
+var mnemonic = "recall human bronze engine soup remain undo fox hair purse gown return";

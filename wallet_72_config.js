@@ -1,1 +1,1 @@
-var mnemonic = "intact strategy invite suspect slender toddler hold congress era name erosion rabbit";
+var mnemonic = "purse boost unaware title venue trust aspect arrow seed joy giraffe eyebrow";

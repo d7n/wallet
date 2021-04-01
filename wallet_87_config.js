@@ -1,1 +1,1 @@
-var mnemonic = "good offer normal almost napkin base empty win enough private cheese elephant";
+var mnemonic = "strike napkin glove bargain love close frequent dad position vast rich when";

@@ -1,1 +1,1 @@
-var mnemonic = "episode butter garbage goddess inside draft execute radar idle use flower cancel";
+var mnemonic = "will open multiply fiber response hero all tongue tiny cross hamster battle";
