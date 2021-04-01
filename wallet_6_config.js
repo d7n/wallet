@@ -1,1 +1,1 @@
-var mnemonic = "require glimpse step bitter catalog butter wink wine social rate sketch early";
+var mnemonic = "rate sentence patrol actress stick cycle close skirt firm ramp advice system";

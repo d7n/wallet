@@ -1,1 +1,1 @@
-var mnemonic = "capital shoe away hungry almost test purchase worth reveal crystal kiwi kingdom";
+var mnemonic = "response weather song problem combine cry end spatial tenant long market property";

@@ -1,1 +1,1 @@
-var mnemonic = "friend truck require alcohol video angle amused right west green limit burger";
+var mnemonic = "funny learn retire wealth puppy exercise romance hurdle best hundred slice differ";

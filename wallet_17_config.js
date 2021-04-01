@@ -1,1 +1,1 @@
-var mnemonic = "peasant loyal action tower happy reason era aisle base promote virtual good";
+var mnemonic = "build tilt head purchase mutual sniff any skin broom knee learn lawn";

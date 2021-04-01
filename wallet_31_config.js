@@ -1,1 +1,1 @@
-var mnemonic = "cupboard equal gesture absurd total fossil illegal mix lonely force perfect siren";
+var mnemonic = "settle panic come friend bar evolve furnace token sunny hockey table already";

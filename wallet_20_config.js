@@ -1,1 +1,1 @@
-var mnemonic = "tourist close grief dilemma bitter crowd media fruit atom logic junk virtual";
+var mnemonic = "note exact august uncle blush cousin maximum dilemma donkey minute speed genius";

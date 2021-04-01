@@ -1,1 +1,1 @@
-var mnemonic = "armed wet army waste episode dust object pole curtain wedding kick page";
+var mnemonic = "athlete glad advance height hole joy fatigue puppy balance category island caution";

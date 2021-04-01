@@ -1,1 +1,1 @@
-var mnemonic = "immense brand evoke spoil crack helmet gravity learn prize rather ring sport";
+var mnemonic = "divide loud girl target shock naive model galaxy alarm glove loan shine";

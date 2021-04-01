@@ -1,1 +1,1 @@
-var mnemonic = "fossil try monitor quantum explain pipe october key knee birth domain between";
+var mnemonic = "keep kick fruit bottom fortune strike output credit visual journey answer library";

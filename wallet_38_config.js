@@ -1,1 +1,1 @@
-var mnemonic = "banana earth recycle wolf gate jacket mix apology answer nose city peanut";
+var mnemonic = "champion frog circle injury emotion shallow cable concert width illness card vacant";

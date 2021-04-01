@@ -1,1 +1,1 @@
-var mnemonic = "exact include lesson buzz candy hub ancient mail birth mandate caught use";
+var mnemonic = "toe grief cover hour panic favorite throw tattoo ability slender luggage then";

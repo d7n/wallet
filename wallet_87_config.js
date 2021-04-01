@@ -1,1 +1,1 @@
-var mnemonic = "benefit bomb scheme true rescue blush differ design amateur chalk opinion civil";
+var mnemonic = "forest lunar lift marble kiss post survey popular aerobic used dial chuckle";

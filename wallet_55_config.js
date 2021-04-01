@@ -1,1 +1,1 @@
-var mnemonic = "cash mountain congress tip enact diet sudden garbage desk pill nephew ordinary";
+var mnemonic = "sight spin rapid around congress fatigue useful ask science snap nephew enable";

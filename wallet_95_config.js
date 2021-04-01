@@ -1,1 +1,1 @@
-var mnemonic = "double castle goose document all length dutch stumble usual wrist badge urban";
+var mnemonic = "cargo busy sign rural early nuclear dinner scheme quantum group endorse hand";

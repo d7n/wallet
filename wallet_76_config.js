@@ -1,1 +1,1 @@
-var mnemonic = "pattern champion daughter clever million buddy digital cattle only kangaroo uniform pulp";
+var mnemonic = "fabric era color crack false use attitude angry priority because power inch";

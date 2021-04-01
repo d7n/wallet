@@ -1,1 +1,1 @@
-var mnemonic = "entry say biology hidden sad coffee video notable dumb split ignore enjoy";
+var mnemonic = "genre elbow snap welcome rug culture yard pyramid talent core dwarf emotion";

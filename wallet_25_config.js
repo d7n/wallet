@@ -1,1 +1,1 @@
-var mnemonic = "illness case avoid radar primary renew must note major raw edit number";
+var mnemonic = "market shift better blind negative economy galaxy fiber gold capable cake horror";

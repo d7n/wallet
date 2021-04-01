@@ -1,1 +1,1 @@
-var mnemonic = "allow energy bubble annual cart pool cycle endless insect boy cheese program";
+var mnemonic = "mosquito health stomach kid unlock cat orchard frown reveal law vintage junior";

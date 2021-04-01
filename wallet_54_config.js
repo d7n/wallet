@@ -1,1 +1,1 @@
-var mnemonic = "spin major stomach stone belt tennis action animal early miracle stand modify";
+var mnemonic = "level antenna paddle uncover dish autumn basket hunt visual stick cigar match";

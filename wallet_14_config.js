@@ -1,1 +1,1 @@
-var mnemonic = "barely hill strong between seek country differ twin opinion flag diesel insect";
+var mnemonic = "empty october cradle normal law hair spider hurdle chest neutral guilt balcony";

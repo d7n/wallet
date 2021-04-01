@@ -1,1 +1,1 @@
-var mnemonic = "sun trust foster right earth agree scene venue into charge situate either";
+var mnemonic = "come initial yard own oil add ugly elephant dash neck mountain result";

@@ -1,1 +1,1 @@
-var mnemonic = "become room will memory worry vote cruel execute lake alien cattle strike";
+var mnemonic = "finish stand effort wash term scrub dilemma nominee fantasy average idea process";

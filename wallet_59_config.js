@@ -1,1 +1,1 @@
-var mnemonic = "affair lecture flat emotion amount police oven trade ten diamond height puppy";
+var mnemonic = "derive novel shield depart caution praise floor crane visa estate false apology";

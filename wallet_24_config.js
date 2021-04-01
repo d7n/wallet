@@ -1,1 +1,1 @@
-var mnemonic = "razor relief age pelican erosion tribe olympic such peasant hope elite image";
+var mnemonic = "absurd science vicious dutch measure quote narrow media flush chronic sweet tribe";

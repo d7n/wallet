@@ -1,1 +1,1 @@
-var mnemonic = "wait sense trade sort raven legend style collect prosper few weather urge";
+var mnemonic = "soldier artefact derive expose dutch favorite attitude pear couch canyon dune exit";

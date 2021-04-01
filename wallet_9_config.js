@@ -1,1 +1,1 @@
-var mnemonic = "crush layer recipe sight debate corn capable chef fly quarter depth fiber";
+var mnemonic = "dawn off aspect kiss bleak brave income airport fold venture express during";

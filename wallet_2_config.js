@@ -1,1 +1,1 @@
-var mnemonic = "brown provide grab nose cage speak mom cube enroll coach digital rib";
+var mnemonic = "clap genuine march achieve person tribe mobile route doctor digital neutral kick";

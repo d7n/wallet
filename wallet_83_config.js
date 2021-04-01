@@ -1,1 +1,1 @@
-var mnemonic = "dizzy ankle skate ahead define genuine truly monster obscure path lonely place";
+var mnemonic = "punch lamp web gun bracket end tail crucial enlist scene exhaust finish";

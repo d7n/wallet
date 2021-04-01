@@ -1,1 +1,1 @@
-var mnemonic = "stock monitor roast chat distance donkey another evidence arch discover stem story";
+var mnemonic = "monitor home pizza improve upon history tennis thank damp dignity guide laptop";

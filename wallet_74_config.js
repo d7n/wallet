@@ -1,1 +1,1 @@
-var mnemonic = "hover slight tank among fame rare robot fish airport direct narrow indicate";
+var mnemonic = "atom car super share mule essence connect kitchen anger minimum income divide";

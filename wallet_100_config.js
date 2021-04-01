@@ -1,1 +1,1 @@
-var mnemonic = "lift series census fee shiver dwarf biology venture tool fluid practice exclude";
+var mnemonic = "tongue tell tourist insane kick nut nephew muscle whip tonight safe embark";

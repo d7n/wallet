@@ -1,1 +1,1 @@
-var mnemonic = "strong flag round jungle frozen seminar setup express allow kangaroo three alert";
+var mnemonic = "wrong phone share abandon garden six fault puzzle web consider giggle already";

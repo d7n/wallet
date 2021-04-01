@@ -1,1 +1,1 @@
-var mnemonic = "journey pitch strike harsh faculty explain casino crop dinner find garbage fluid";
+var mnemonic = "vivid tell brother symbol broom dizzy imitate ring penalty cinnamon circle olive";

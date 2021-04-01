@@ -1,1 +1,1 @@
-var mnemonic = "truck physical wasp easy lava brass rotate right badge window logic sleep";
+var mnemonic = "scheme drastic remain matter absent cloud warfare weasel news resemble mail sorry";

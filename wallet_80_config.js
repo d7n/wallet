@@ -1,1 +1,1 @@
-var mnemonic = "salute time winter office faint onion dirt toss coral blood spider foil";
+var mnemonic = "vehicle favorite grant rigid vote write initial pond cereal industry route drive";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid wagon animal link chuckle novel crowd duck clown live opera vital";
+var mnemonic = "promote praise shoe balance risk inside old stable side patrol smile hen";

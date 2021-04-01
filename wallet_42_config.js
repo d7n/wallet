@@ -1,1 +1,1 @@
-var mnemonic = "illegal mind garment purpose exclude into exclude camera nut bird absurd oven";
+var mnemonic = "engage effort suffer tide planet choose clay mirror modify marine agent comic";

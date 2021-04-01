@@ -1,1 +1,1 @@
-var mnemonic = "acoustic pelican friend theme route leg youth left paper midnight saddle multiply";
+var mnemonic = "render office fringe control friend warrior educate illness advance nature almost scout";

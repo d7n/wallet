@@ -1,1 +1,1 @@
-var mnemonic = "ticket keep tribe boy curtain section joke shoot grocery iron monkey air";
+var mnemonic = "thought beyond slab comfort insane view jaguar february air upset script mistake";

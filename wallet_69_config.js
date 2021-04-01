@@ -1,1 +1,1 @@
-var mnemonic = "luggage venture because hedgehog account lottery spot glare wait expand coconut february";
+var mnemonic = "glass upper naive reduce purpose sorry quit cause below style motion stadium";

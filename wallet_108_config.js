@@ -1,1 +1,1 @@
-var mnemonic = "evidence boy gun race paddle entry maple small grid crew cage artwork";
+var mnemonic = "angle catch chef always slender twice despair romance true outside vague result";

@@ -1,1 +1,1 @@
-var mnemonic = "witness stone arctic gift crash cream shine cotton crisp isolate chef shock";
+var mnemonic = "demand valley six enroll chunk carbon clog mail sure outside zero motion";

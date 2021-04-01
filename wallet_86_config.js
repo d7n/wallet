@@ -1,1 +1,1 @@
-var mnemonic = "step mass forward better fish rookie soap mixed erode wink buyer hold";
+var mnemonic = "toddler unfold ocean useless history worth illness oak skin shiver sing goose";

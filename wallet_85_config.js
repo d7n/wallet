@@ -1,1 +1,1 @@
-var mnemonic = "mule crazy usual ride meadow sad wheat echo step account sister right";
+var mnemonic = "spare planet okay core inform tool cotton suffer useful service alien admit";

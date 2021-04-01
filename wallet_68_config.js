@@ -1,1 +1,1 @@
-var mnemonic = "document wheat abandon plug kick host rigid agree elbow pink quality vendor";
+var mnemonic = "sense butter volcano install carpet auto sugar defy age when step atom";

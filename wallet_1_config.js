@@ -1,1 +1,1 @@
-var mnemonic = "coast depth pig much regular tilt decide dog kangaroo egg run retreat";
+var mnemonic = "math trial item wet alone reduce find resource hidden horn notable fame";

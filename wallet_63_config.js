@@ -1,1 +1,1 @@
-var mnemonic = "goose syrup ceiling side dentist shift brick beyond buzz impose present sun";
+var mnemonic = "delay later begin host cheap stick faint dignity split lady elevator shallow";

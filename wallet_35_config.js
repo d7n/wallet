@@ -1,1 +1,1 @@
-var mnemonic = "fish muffin cattle usual addict remain property salmon alert disorder proud dutch";
+var mnemonic = "apology design erupt frame vessel forest leisure jacket lucky scrap slow lawn";

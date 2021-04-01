@@ -1,1 +1,1 @@
-var mnemonic = "uniform nominee loan bar click used price certain fringe shift record wife";
+var mnemonic = "people silver speed animal isolate prepare deputy property scheme orchard token pink";

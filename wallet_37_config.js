@@ -1,1 +1,1 @@
-var mnemonic = "vintage useless original home iron thunder fire health violin latin update victory";
+var mnemonic = "gather rebel sense scatter segment buzz brass pass alpha rude fun loyal";

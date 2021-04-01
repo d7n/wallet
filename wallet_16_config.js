@@ -1,1 +1,1 @@
-var mnemonic = "cabin salmon hidden business clay escape valid lend barely milk glow convince";
+var mnemonic = "melody detect patrol arrive dune grunt shift cement exact decrease coach fee";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase frequent coffee wonder install seed sound tiny board hope just receive";
+var mnemonic = "short couch palace ahead fix cool token page split drift dirt glove";

@@ -1,1 +1,1 @@
-var mnemonic = "among under over example chuckle evoke pretty luxury frame suffer glance about";
+var mnemonic = "chicken bitter fantasy fame rack biology before voice rug garbage artist scan";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna physical nature retreat cross despair slot own subway text sniff sting";
+var mnemonic = "mystery feed file burden syrup blur oxygen man gold twist pitch bird";

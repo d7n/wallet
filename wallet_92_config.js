@@ -1,1 +1,1 @@
-var mnemonic = "pluck knee minor hockey blossom zone laptop style response fabric garage welcome";
+var mnemonic = "snake island envelope turn plug clip setup tray pyramid output very trick";

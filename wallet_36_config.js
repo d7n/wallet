@@ -1,1 +1,1 @@
-var mnemonic = "around enemy diagram pact fantasy jacket enemy churn carpet panther spare trip";
+var mnemonic = "cruise donate outdoor observe rich rough van gadget cable verify bomb salon";

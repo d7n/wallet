@@ -1,1 +1,1 @@
-var mnemonic = "series aunt impose protect useless body desert shine jar inhale garment wink";
+var mnemonic = "barely winter organ twice nose inmate trouble move air short park month";

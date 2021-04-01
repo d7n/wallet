@@ -1,1 +1,1 @@
-var mnemonic = "puppy void cannon coin scrap stairs detail hockey gain century design alien";
+var mnemonic = "pipe unhappy few dance solar craft sauce lift result skin pilot apart";

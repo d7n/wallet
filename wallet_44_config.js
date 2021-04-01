@@ -1,1 +1,1 @@
-var mnemonic = "normal render shield west version rhythm unit ancient grant acoustic clean predict";
+var mnemonic = "where skull dial search image alone time cake boat crime age capital";

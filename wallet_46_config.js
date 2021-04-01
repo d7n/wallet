@@ -1,1 +1,1 @@
-var mnemonic = "affair program reason reopen chase season shift electric grief cloud elegant frost";
+var mnemonic = "legal office neglect fluid click chunk warrior network retire must library assault";

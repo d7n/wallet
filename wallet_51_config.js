@@ -1,1 +1,1 @@
-var mnemonic = "miss chalk common soldier fine enough pride peasant luggage void snack genius";
+var mnemonic = "unveil stage fault age lift news forest define approve nerve type fish";

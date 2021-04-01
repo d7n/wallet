@@ -1,1 +1,1 @@
-var mnemonic = "mask puppy camera primary park jaguar absurd citizen close sign maid royal";
+var mnemonic = "gas dismiss foot dial business antenna ivory hurdle buyer earth fire confirm";

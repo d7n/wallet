@@ -1,1 +1,1 @@
-var mnemonic = "exhaust assist garden salmon tooth swamp imitate hospital year then tissue good";
+var mnemonic = "license pretty post nothing leave will fiber guilt carry banner stick mail";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh gravity stumble detail bundle lesson fuel sphere fee invest diagram ceiling";
+var mnemonic = "spray excite reason affair giant stairs trouble before bind old become bamboo";

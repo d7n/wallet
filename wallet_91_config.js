@@ -1,1 +1,1 @@
-var mnemonic = "balance satoshi resemble pitch planet supreme fog pipe juice myself toe labor";
+var mnemonic = "good ocean exhibit vague chicken drill polar defense cook scissors message rebel";

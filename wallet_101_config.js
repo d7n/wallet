@@ -1,1 +1,1 @@
-var mnemonic = "design exact chair mind soup hood borrow fiscal again glory decrease system";
+var mnemonic = "monkey squeeze slide hundred mystery beef chapter shield broccoli area blush kind";

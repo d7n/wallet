@@ -1,1 +1,1 @@
-var mnemonic = "camp random legend you gravity cake flat trigger picnic tiny have certain";
+var mnemonic = "digital pattern weapon drama drift useless dial unfold quality carpet rotate blue";

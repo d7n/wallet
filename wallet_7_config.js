@@ -1,1 +1,1 @@
-var mnemonic = "slab target truck recall since mad jaguar because mom slender visa begin";
+var mnemonic = "siege issue weird panther trash endless fat camp frost fantasy problem trip";

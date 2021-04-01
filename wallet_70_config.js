@@ -1,1 +1,1 @@
-var mnemonic = "trial actual hint inquiry luxury lawsuit gap fiscal wonder goat chronic patrol";
+var mnemonic = "submit slim barely task fragile eagle flag whip able rookie during sketch";

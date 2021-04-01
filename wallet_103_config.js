@@ -1,1 +1,1 @@
-var mnemonic = "disease stereo clean wrestle main alert life voice october round index where";
+var mnemonic = "assume treat fog vibrant host autumn client pudding balance switch more shed";

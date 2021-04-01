@@ -1,1 +1,1 @@
-var mnemonic = "define network together consider island cactus diary outdoor ketchup evoke crucial danger";
+var mnemonic = "future solid script matter squirrel ski debris detail toss trade feed grief";

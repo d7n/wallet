@@ -1,1 +1,1 @@
-var mnemonic = "multiply grace vicious room green average visual feed hamster need faculty edit";
+var mnemonic = "sting father fat stairs analyst road favorite sword result reopen punch distance";

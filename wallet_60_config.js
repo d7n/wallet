@@ -1,1 +1,1 @@
-var mnemonic = "midnight client desk sunny solid require space price rural insect now kick";
+var mnemonic = "grocery next private fetch glare oil decide endless tilt stock six doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "exit tool region remind correct supreme jacket twice speak pledge utility front";
+var mnemonic = "alien raise earn change soccer before roof snow alone aim language beauty";

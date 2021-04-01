@@ -1,1 +1,1 @@
-var mnemonic = "quit analyst music fit pact typical tennis helmet shoot hidden satisfy rocket";
+var mnemonic = "drive dream thought panel net juice salute diet ability bicycle borrow advice";

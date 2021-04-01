@@ -1,1 +1,1 @@
-var mnemonic = "receive nose inch window fold panther record retire obey midnight often outer";
+var mnemonic = "verify fluid essence bunker vapor dune squirrel casual victory drum lyrics long";

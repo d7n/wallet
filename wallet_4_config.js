@@ -1,1 +1,1 @@
-var mnemonic = "emotion genre winner nurse wet plug snack anchor census eager trip adult";
+var mnemonic = "myself laugh engine mutual jeans jaguar tonight liar nose only discover update";

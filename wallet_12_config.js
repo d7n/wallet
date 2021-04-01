@@ -1,1 +1,1 @@
-var mnemonic = "element inner spatial duck learn vehicle snack minor coin feel brief grow";
+var mnemonic = "party usual spread walnut poverty area street drink prepare loop globe awesome";

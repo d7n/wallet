@@ -1,1 +1,1 @@
-var mnemonic = "response card shuffle faint asthma bachelor knife party actual unlock decline air";
+var mnemonic = "trust cheese nation utility indoor case tooth tank void carbon fat wool";

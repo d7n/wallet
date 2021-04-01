@@ -1,1 +1,1 @@
-var mnemonic = "try then trade destroy tenant demise index giant affair actor library differ";
+var mnemonic = "cannon hello leopard aunt table about silly anxiety cost grape orphan parent";

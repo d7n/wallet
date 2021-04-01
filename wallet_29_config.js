@@ -1,1 +1,1 @@
-var mnemonic = "upon wrap festival horse harbor inner truck arch quantum govern normal stem";
+var mnemonic = "token tooth biology glow spike wisdom merge market cotton whale feature bounce";

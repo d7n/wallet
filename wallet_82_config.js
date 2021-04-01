@@ -1,1 +1,1 @@
-var mnemonic = "cruel hour disorder potato rack more real crush divide okay laugh crash";
+var mnemonic = "swear envelope jaguar insane alert dog action protect disorder ripple ceiling else";

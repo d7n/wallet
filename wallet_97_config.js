@@ -1,1 +1,1 @@
-var mnemonic = "glory junior side wink have awesome taste apology report direct arch wild";
+var mnemonic = "type market shop soon hunt huge shuffle best deer tent celery huge";

@@ -1,1 +1,1 @@
-var mnemonic = "sound culture pig away movie pink funny salad clever frost door young";
+var mnemonic = "feature birth enhance rotate innocent find logic safe lecture virtual october craft";

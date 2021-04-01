@@ -1,1 +1,1 @@
-var mnemonic = "ivory hen table category way region build right side flat donkey hair";
+var mnemonic = "unusual limit spring below shrimp armor chief pet trust slow pledge little";

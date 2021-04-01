@@ -1,1 +1,1 @@
-var mnemonic = "mail virus grief update family crater team hedgehog million wealth web forest";
+var mnemonic = "laundry piece electric tragic seat tone february alien vacuum jazz food any";
