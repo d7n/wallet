@@ -1,1 +1,1 @@
-var mnemonic = "identify spy fortune depart sphere account carry put resource burden radio thing";
+var mnemonic = "festival brief tobacco always push round cliff lunar once grab wrap ladder";

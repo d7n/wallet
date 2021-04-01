@@ -1,1 +1,1 @@
-var mnemonic = "brother advance aisle eager impulse six excess hawk doctor wrestle enjoy trick";
+var mnemonic = "reunion envelope short slice race fever during lift dismiss reason frog annual";

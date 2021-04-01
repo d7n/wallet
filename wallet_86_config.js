@@ -1,1 +1,1 @@
-var mnemonic = "frequent north inmate mean want boost dwarf annual update carpet feature tilt";
+var mnemonic = "that festival voice sorry reveal candy sustain ghost window piece ability minimum";

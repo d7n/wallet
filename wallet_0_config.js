@@ -1,1 +1,1 @@
-var mnemonic = "leisure success post bomb embody fiction renew gorilla bundle guard pumpkin leisure";
+var mnemonic = "boil december frequent clog agree column slab multiply coin taxi smoke city";

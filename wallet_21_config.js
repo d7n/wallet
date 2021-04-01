@@ -1,1 +1,1 @@
-var mnemonic = "cherry hour gravity core huge gentle uncle ask orange quote inject enlist";
+var mnemonic = "anxiety where second faint clay romance decline hint calm famous soldier shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "blue toe total magnet give tourist wheat ugly stereo tennis health volume";
+var mnemonic = "claw wheat source mammal frown awful wet icon direct seek merry demand";

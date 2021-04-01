@@ -1,1 +1,1 @@
-var mnemonic = "kite adult spray steak about borrow boost horn acoustic cotton chunk solid";
+var mnemonic = "remember also room flag anxiety pelican pledge bless exhibit nature ripple polar";

@@ -1,1 +1,1 @@
-var mnemonic = "industry scout puppy clean emotion govern tool undo doll either march float";
+var mnemonic = "silk drive chest sphere mobile reunion differ total diamond photo face plug";

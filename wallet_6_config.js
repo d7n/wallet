@@ -1,1 +1,1 @@
-var mnemonic = "sniff blossom bleak law receive heavy shadow will frozen twenty divert stick";
+var mnemonic = "guilt keen grit sheriff glass dwarf pudding vocal truck world notable advance";

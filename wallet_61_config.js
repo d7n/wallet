@@ -1,1 +1,1 @@
-var mnemonic = "subject invest royal exchange brain tree taste casino chaos peace know vehicle";
+var mnemonic = "turn warm dilemma fossil camera job reform wasp seed prize spin angry";

@@ -1,1 +1,1 @@
-var mnemonic = "coach marble divorce tuition toilet core device author custom bubble loud isolate";
+var mnemonic = "team rose receive ridge neck parade interest country suit copy immense powder";

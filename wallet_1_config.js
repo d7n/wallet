@@ -1,1 +1,1 @@
-var mnemonic = "have asset tower tired reform accident salute wire act hollow clock modify";
+var mnemonic = "mixed road walnut virtual pottery essence loop pact crumble material fiscal broken";

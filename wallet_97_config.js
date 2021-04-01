@@ -1,1 +1,1 @@
-var mnemonic = "jacket away plate essence grid scrap doll shock feel badge office vapor";
+var mnemonic = "polar absorb neutral whisper pupil flavor staff nut enforce indoor crater eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "wife climb fitness useful fine festival october review usage vapor merge patrol";
+var mnemonic = "chaos sure assault pave crouch machine mimic deputy bag diet mango identify";

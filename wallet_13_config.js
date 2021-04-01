@@ -1,1 +1,1 @@
-var mnemonic = "shell toe dream shed pitch talk friend inform brain float cushion weasel";
+var mnemonic = "jar sadness planet upper coach exit sport nature antique version junior gaze";

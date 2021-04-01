@@ -1,1 +1,1 @@
-var mnemonic = "front actress enlist easy notable remain tongue few asset tip keen rhythm";
+var mnemonic = "curve oval coyote fashion tumble include glow glow embody depend bench young";

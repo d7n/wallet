@@ -1,1 +1,1 @@
-var mnemonic = "off depart cigar light marble area reason slow version lecture orbit tourist";
+var mnemonic = "list floor match monster success spread remember inside kiss whisper crew acoustic";

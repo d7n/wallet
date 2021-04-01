@@ -1,1 +1,1 @@
-var mnemonic = "great pioneer topple wood tilt bind blur vanish session surge cruise hockey";
+var mnemonic = "length gauge police piano horror antique coral address around six deputy weird";

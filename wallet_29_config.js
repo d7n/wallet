@@ -1,1 +1,1 @@
-var mnemonic = "idea topple laugh train language rate pause rent avoid visit quiz must";
+var mnemonic = "hidden daring deny kite magic maid lens leisure squeeze treat power consider";

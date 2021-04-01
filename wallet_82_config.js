@@ -1,1 +1,1 @@
-var mnemonic = "stamp segment duty honey guilt pool lift prosper federal world lottery negative";
+var mnemonic = "special basket family waste shiver dad lumber mule door tiny hidden olympic";

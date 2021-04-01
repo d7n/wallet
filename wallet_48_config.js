@@ -1,1 +1,1 @@
-var mnemonic = "bus disagree harbor work dragon palace bike chuckle ridge fee lunch hard";
+var mnemonic = "chase client family ethics lawn broccoli tissue reveal sauce open else forest";

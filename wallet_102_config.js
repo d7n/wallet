@@ -1,1 +1,1 @@
-var mnemonic = "electric kick century pause pen girl olympic unaware orange drama duck rely";
+var mnemonic = "rocket alarm rival slab clown then only truck feel scene scrap memory";

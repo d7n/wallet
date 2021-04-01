@@ -1,1 +1,1 @@
-var mnemonic = "agent unit area bullet lawsuit affair wasp year deposit income weird romance";
+var mnemonic = "loop museum often silly problem visual push sentence twenty echo island leaf";

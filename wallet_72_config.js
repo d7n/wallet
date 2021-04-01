@@ -1,1 +1,1 @@
-var mnemonic = "bullet confirm depend project inherit above action combine final card near eagle";
+var mnemonic = "acoustic entire use taxi tomorrow debate rule chunk suspect despair vague wedding";

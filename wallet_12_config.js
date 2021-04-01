@@ -1,1 +1,1 @@
-var mnemonic = "plastic engine spin february guard energy gather category airport duty light original";
+var mnemonic = "menu allow weather corn egg dad warrior civil correct charge cave because";

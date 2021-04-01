@@ -1,1 +1,1 @@
-var mnemonic = "regret blood basic reveal fantasy video afford thunder coral car differ lawn";
+var mnemonic = "chuckle scout great smoke volcano certain awful lecture erosion urban benefit silly";

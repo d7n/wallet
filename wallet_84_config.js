@@ -1,1 +1,1 @@
-var mnemonic = "brief cigar earn poem metal torch sail immense tragic walnut razor phrase";
+var mnemonic = "right aisle crane rail daughter beach wheel skirt pride enable dog step";

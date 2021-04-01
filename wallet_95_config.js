@@ -1,1 +1,1 @@
-var mnemonic = "sunny reopen bike hole clinic afford another trust romance success lazy process";
+var mnemonic = "puppy kitten moral axis ghost runway notable genuine refuse tuna enhance honey";

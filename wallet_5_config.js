@@ -1,1 +1,1 @@
-var mnemonic = "song quality boost furnace ocean offer claw crouch lake crawl only planet";
+var mnemonic = "hen voyage change panel endorse wide exclude news inspire frog dirt recall";

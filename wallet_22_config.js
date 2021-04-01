@@ -1,1 +1,1 @@
-var mnemonic = "pull reflect donor client month snap bullet eight that glass bracket depend";
+var mnemonic = "digital pigeon range quit raccoon boss lounge bamboo carry matrix capable tide";

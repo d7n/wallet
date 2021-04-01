@@ -1,1 +1,1 @@
-var mnemonic = "cupboard keep uphold cup brief aisle salmon move chaos crater purse evoke";
+var mnemonic = "able crouch quality car stock popular version electric frown initial direct erode";

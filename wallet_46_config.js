@@ -1,1 +1,1 @@
-var mnemonic = "habit glimpse area upon peanut destroy absurd shove wet ribbon smart wide";
+var mnemonic = "mystery divorce swear pool frequent inspire humor wire panther effort supply bar";

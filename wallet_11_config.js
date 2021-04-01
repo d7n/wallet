@@ -1,1 +1,1 @@
-var mnemonic = "extra music giant dove sad unusual balance galaxy sport six concert boss";
+var mnemonic = "model income scheme praise chunk swim lumber edit squirrel broken middle vessel";

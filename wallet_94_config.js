@@ -1,1 +1,1 @@
-var mnemonic = "castle crucial stay unfair reflect diamond setup neither recall fox final plug";
+var mnemonic = "camp subject debris need hero thought actor club aerobic iron champion solve";

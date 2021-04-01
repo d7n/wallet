@@ -1,1 +1,1 @@
-var mnemonic = "casual image month topple ahead roast service machine night funny come observe";
+var mnemonic = "parent buyer prosper champion embrace clap diary ensure emotion quiz hundred coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "pride home glide talent style slide powder machine require raise design taste";
+var mnemonic = "car nice tide loyal infant idea lend apart spare salmon river margin";

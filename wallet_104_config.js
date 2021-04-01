@@ -1,1 +1,1 @@
-var mnemonic = "baby wing tent edit finger coil broom crop lamp seat audit six";
+var mnemonic = "subject behave reflect face burst bacon ordinary load evil path pride host";

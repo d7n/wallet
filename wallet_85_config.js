@@ -1,1 +1,1 @@
-var mnemonic = "air organ danger forum author off treat minor rigid satisfy brass garage";
+var mnemonic = "merry assist census stumble salon brother worry oppose buyer rose poet cliff";

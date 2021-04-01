@@ -1,1 +1,1 @@
-var mnemonic = "puzzle never cliff regret fitness hollow easy wedding lonely bean submit arena";
+var mnemonic = "organ swallow soccer gallery wide space crack lend detail album monitor easy";

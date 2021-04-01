@@ -1,1 +1,1 @@
-var mnemonic = "must decrease wild actual secret trust pupil fashion rocket enable canal rent";
+var mnemonic = "vintage priority auto lecture physical door runway village glory alarm depth hip";

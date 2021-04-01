@@ -1,1 +1,1 @@
-var mnemonic = "lecture almost off corn amused army private list love attack soldier nerve";
+var mnemonic = "tilt brain brave model place yard asthma glory nest defense bachelor same";

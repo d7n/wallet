@@ -1,1 +1,1 @@
-var mnemonic = "traffic bleak ice actual near chapter taste wish choice deputy attract vote";
+var mnemonic = "brief note immune furnace reason major green spider patch scatter disorder vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "donate drastic spice camera choice custom grow divert analyst pudding humor weekend";
+var mnemonic = "radio bachelor island today orphan holiday lounge bone biology victory hover donate";

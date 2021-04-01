@@ -1,1 +1,1 @@
-var mnemonic = "repair betray fluid enrich laugh liquid lens steak layer boost airport spatial";
+var mnemonic = "quit assume fashion anchor panel document atom detail genre become viable give";

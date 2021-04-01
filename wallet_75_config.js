@@ -1,1 +1,1 @@
-var mnemonic = "correct appear found picnic palm owner vault unveil fork stick save sword";
+var mnemonic = "humble remain august owner high chicken news fun arch legal forget spring";

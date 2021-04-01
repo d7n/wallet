@@ -1,1 +1,1 @@
-var mnemonic = "lumber profit duty jump recycle inject gas spare sign occur setup caught";
+var mnemonic = "salmon razor depth frequent wire beyond fog vast myself clean chicken turkey";

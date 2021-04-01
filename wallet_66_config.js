@@ -1,1 +1,1 @@
-var mnemonic = "nasty art nurse more crack shuffle thrive soccer solve market grape confirm";
+var mnemonic = "item valid soccer dinner board fossil screen grab split old parrot plunge";

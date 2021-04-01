@@ -1,1 +1,1 @@
-var mnemonic = "wrist choose apart birth frog because pelican palm food slight harvest swamp";
+var mnemonic = "inner pair raw genre warrior often steel meadow judge wild series sadness";

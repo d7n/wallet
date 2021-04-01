@@ -1,1 +1,1 @@
-var mnemonic = "turkey execute course dog just fiscal forget soccer pottery road water add";
+var mnemonic = "pet devote dove grain ten ginger voyage peace town senior derive spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "slight state plastic sadness easily cloud exotic glass very horn creek course";
+var mnemonic = "wall kitten elegant misery reject vessel outer wine census endless street glide";

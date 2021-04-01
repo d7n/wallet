@@ -1,1 +1,1 @@
-var mnemonic = "chronic cake skirt globe glimpse crisp critic wall regret private volume genius";
+var mnemonic = "iron exhaust slab expire census program alone jungle alone witness awake size";

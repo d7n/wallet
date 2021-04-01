@@ -1,1 +1,1 @@
-var mnemonic = "humble angry unfair parent arch often usual width crouch off habit glove";
+var mnemonic = "farm enter foster admit mistake absurd erase visa virus hockey one wagon";

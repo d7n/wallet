@@ -1,1 +1,1 @@
-var mnemonic = "actress mention library wise shop buddy fury blade holiday cable peasant family";
+var mnemonic = "anchor canvas arm fluid spirit angle pony vital fragile remember concert garment";

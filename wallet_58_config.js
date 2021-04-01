@@ -1,1 +1,1 @@
-var mnemonic = "shed stem jaguar chest play recycle tooth museum stage rice define cover";
+var mnemonic = "cake anger client sleep chief figure approve comfort pull borrow wrap involve";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen science breeze cover solid sponsor cause tomato unusual mansion jump mobile";
+var mnemonic = "truck congress teach farm volcano history buddy mail state release business shoulder";

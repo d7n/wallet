@@ -1,1 +1,1 @@
-var mnemonic = "convince property someone seat source bamboo recipe exile sniff slow feature rifle";
+var mnemonic = "ocean bullet sea loop float aim roof focus long crystal same feel";

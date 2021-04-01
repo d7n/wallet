@@ -1,1 +1,1 @@
-var mnemonic = "palm wisdom tuition carpet bulk better accuse invite point swap park finish";
+var mnemonic = "sorry table say reject miss busy dish once bulk million pink meadow";

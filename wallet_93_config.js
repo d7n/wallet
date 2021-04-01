@@ -1,1 +1,1 @@
-var mnemonic = "uncover laundry robust direct artefact perfect million service milk permit work gorilla";
+var mnemonic = "eager sudden brown deputy crucial kingdom vacuum describe mosquito toss toddler whale";

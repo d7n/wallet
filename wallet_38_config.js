@@ -1,1 +1,1 @@
-var mnemonic = "paper absent pottery fatal glad cliff lawn brave exhibit toward derive jaguar";
+var mnemonic = "unhappy surge body pumpkin praise allow south injury rug identify truck afford";

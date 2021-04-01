@@ -1,1 +1,1 @@
-var mnemonic = "inside enroll horn swamp say guilt story green artist math reveal lounge";
+var mnemonic = "spin country oval scissors color affair peasant stool nurse zero wash gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "spell bright attitude mix local first garlic observe endorse lock spike depth";
+var mnemonic = "catalog perfect level praise client match guitar dash gown witness cool situate";

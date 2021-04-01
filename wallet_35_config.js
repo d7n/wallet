@@ -1,1 +1,1 @@
-var mnemonic = "sport pretty voice situate element alert assume theme captain position rude into";
+var mnemonic = "eternal artwork blur gossip rain dawn indicate crater join orange inhale trouble";

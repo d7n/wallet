@@ -1,1 +1,1 @@
-var mnemonic = "ring weather pony energy cargo human armed sport zebra slow month mushroom";
+var mnemonic = "place body dash hockey oxygen math cube tell motor symbol ceiling option";

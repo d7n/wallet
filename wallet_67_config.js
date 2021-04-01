@@ -1,1 +1,1 @@
-var mnemonic = "bottom daring will seminar curious arctic garlic hunt twice comic endorse sun";
+var mnemonic = "business cliff menu crime royal receive stage prosper shield enact stock zero";

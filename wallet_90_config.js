@@ -1,1 +1,1 @@
-var mnemonic = "job fiber cloth document jungle ecology amazing cruise tackle emerge seat voice";
+var mnemonic = "nephew book betray pluck boil tobacco around uphold fringe lucky situate upgrade";

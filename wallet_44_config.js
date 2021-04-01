@@ -1,1 +1,1 @@
-var mnemonic = "label eternal afford stumble census amateur forward velvet vocal coyote winner nut";
+var mnemonic = "pole oyster void suggest ripple learn cinnamon harvest immune vast day siren";

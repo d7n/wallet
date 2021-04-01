@@ -1,1 +1,1 @@
-var mnemonic = "cable typical trust barrel member captain slogan park broccoli jazz clarify federal";
+var mnemonic = "barely act vicious super rule visa remind vibrant area maximum come fuel";

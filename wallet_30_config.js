@@ -1,1 +1,1 @@
-var mnemonic = "cheap pluck debris truth furnace lyrics brother wine divorce spawn embody lawsuit";
+var mnemonic = "legend faculty airport already near globe next title repeat vocal post flame";

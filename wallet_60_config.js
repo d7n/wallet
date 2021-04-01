@@ -1,1 +1,1 @@
-var mnemonic = "slab private business behind genre maze skull genuine that husband monkey list";
+var mnemonic = "hair catch leg clinic clever marine panel kick voice wise trouble blouse";

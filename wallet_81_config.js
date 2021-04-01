@@ -1,1 +1,1 @@
-var mnemonic = "bottom knee vapor turtle empty blouse bid wear lazy neutral grace yard";
+var mnemonic = "frost term pattern edit elite decade salute sudden surge street crunch basic";

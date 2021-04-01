@@ -1,1 +1,1 @@
-var mnemonic = "best diet nominee you afraid tag enhance stable reveal excuse jealous indicate";
+var mnemonic = "verify impulse panel dog web salmon proud become naive insane fix funny";

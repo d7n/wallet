@@ -1,1 +1,1 @@
-var mnemonic = "series cross excuse educate immense chunk find glass reveal again emotion machine";
+var mnemonic = "truly blast tail enemy absent dragon fish culture matter embody notable manage";

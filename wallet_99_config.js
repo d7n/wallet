@@ -1,1 +1,1 @@
-var mnemonic = "science hen rapid ball hood soup reject icon crumble stand increase version";
+var mnemonic = "kangaroo poet dizzy jaguar turtle smooth twenty word choice avocado kid dirt";

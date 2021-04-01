@@ -1,1 +1,1 @@
-var mnemonic = "decline focus pipe sketch depth mask uphold oppose anger february shallow tobacco";
+var mnemonic = "inch nature firm panda acquire jelly sound video brush daring season crew";

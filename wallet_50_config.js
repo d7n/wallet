@@ -1,1 +1,1 @@
-var mnemonic = "velvet knock circle slot split scorpion mercy usage left brother object will";
+var mnemonic = "dawn habit rigid hill gather easily arrange muscle agent biology luxury latin";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom budget split upon movie large kit play great frequent slight possible";
+var mnemonic = "swing front together item damage slam brain pluck pole lazy struggle segment";

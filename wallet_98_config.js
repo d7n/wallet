@@ -1,1 +1,1 @@
-var mnemonic = "senior betray skill vast table fitness credit squirrel soap adapt exile used";
+var mnemonic = "spin author imitate measure tuition admit foster goose chronic buddy fee clever";

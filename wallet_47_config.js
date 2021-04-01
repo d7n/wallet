@@ -1,1 +1,1 @@
-var mnemonic = "purse evoke danger castle wise demise illegal virus inhale trend donate salute";
+var mnemonic = "approve fruit faculty mosquito doctor unknown kid front attitude service dumb auction";

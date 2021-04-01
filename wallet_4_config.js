@@ -1,1 +1,1 @@
-var mnemonic = "intact ball vault better nest rose example snack boost reveal embrace fit";
+var mnemonic = "cart panic assault isolate grain high culture before other route amused deposit";

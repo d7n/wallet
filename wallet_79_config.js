@@ -1,1 +1,1 @@
-var mnemonic = "moon digital small domain bachelor leaf face saddle scare fix hello coconut";
+var mnemonic = "net fuel differ pill tag ocean globe clinic bright fee harvest scout";

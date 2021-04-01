@@ -1,1 +1,1 @@
-var mnemonic = "bracket future alter float ring quality stuff awesome ice rug swing runway";
+var mnemonic = "polar window ski license mercy action fatal wrap prosper fluid media note";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse tilt warfare student model rapid aunt dinner raccoon track joy warfare";
+var mnemonic = "fog among above have increase another surprise wave remove video mosquito load";

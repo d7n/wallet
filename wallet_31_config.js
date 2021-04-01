@@ -1,1 +1,1 @@
-var mnemonic = "arch enough kid sing fire claim ordinary winter surprise measure body ecology";
+var mnemonic = "caution kidney among absorb mad display claw math cradle meadow spider scare";

@@ -1,1 +1,1 @@
-var mnemonic = "cube artefact illegal gap icon bread kid ramp trust only exhibit black";
+var mnemonic = "slush wait staff jeans pretty amazing wall actual example mind despair liberty";

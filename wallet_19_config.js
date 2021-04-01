@@ -1,1 +1,1 @@
-var mnemonic = "nurse oven shift hockey snow evoke bulk matrix smoke happy gain cradle";
+var mnemonic = "hazard prosper strategy outside hen trip wait flock virtual hammer south hurt";

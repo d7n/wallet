@@ -1,1 +1,1 @@
-var mnemonic = "assist assist slide alter kit clock spare web thrive tiger praise brush";
+var mnemonic = "upper length endless leisure hotel excite enforce flush minimum analyst letter scatter";
