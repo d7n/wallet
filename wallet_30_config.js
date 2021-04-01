@@ -1,1 +1,1 @@
-var mnemonic = "agent gadget ticket frame dial poet seven fly farm tissue muffin surface";
+var mnemonic = "ticket emotion ocean infant gate legal bitter forum major hurt leopard judge";

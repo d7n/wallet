@@ -1,1 +1,1 @@
-var mnemonic = "idea answer include fiber help cargo desert soldier sense before mix olympic";
+var mnemonic = "undo ancient together ribbon poet hold bean digital asthma repeat approve company";

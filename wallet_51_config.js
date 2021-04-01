@@ -1,1 +1,1 @@
-var mnemonic = "frost snow develop legend tired goose test wisdom wheat city conduct order";
+var mnemonic = "dwarf pave rather field chimney guilt teach twenty fiscal snap between pass";

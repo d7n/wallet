@@ -1,1 +1,1 @@
-var mnemonic = "dinner system address game update type twelve adjust spawn breeze immune just";
+var mnemonic = "crumble margin label pigeon property struggle drive sphere nice road please rally";

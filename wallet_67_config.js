@@ -1,1 +1,1 @@
-var mnemonic = "loop business stuff unfair nuclear fringe turtle omit fury stone industry agree";
+var mnemonic = "cactus staff build artwork jeans fragile capable deny token frown dune custom";

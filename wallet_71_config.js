@@ -1,1 +1,1 @@
-var mnemonic = "coffee resource success recycle thought list wait modify victory joy various produce";
+var mnemonic = "only sign true duck delay exile melody jeans dash hard claim mule";

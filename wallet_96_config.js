@@ -1,1 +1,1 @@
-var mnemonic = "myself excite spirit icon busy place syrup convince universe sport brown craft";
+var mnemonic = "cave force garage upon distance obey swift bachelor labor pottery duty resource";

@@ -1,1 +1,1 @@
-var mnemonic = "neither super bid zero bright appear pause shoot cushion once twenty violin";
+var mnemonic = "describe nurse tuition under bitter basic language meadow trash genre acquire barely";

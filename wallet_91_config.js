@@ -1,1 +1,1 @@
-var mnemonic = "light furnace option scheme ensure artwork shoe much chase weekend caution patch";
+var mnemonic = "case few barely battle unlock calm spoon gentle purchase mobile hard screen";

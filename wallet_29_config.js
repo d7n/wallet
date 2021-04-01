@@ -1,1 +1,1 @@
-var mnemonic = "snake stable deliver globe short type interest cushion motion error ecology want";
+var mnemonic = "grow pull movie intact wrist cool bulb inner ice prefer lake tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "student tomorrow bunker dog maid plastic topic soul truly custom brown fruit";
+var mnemonic = "laptop metal maid federal evolve language this music segment salute memory profit";

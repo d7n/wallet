@@ -1,1 +1,1 @@
-var mnemonic = "before acoustic tool nominee curve hedgehog produce legal wasp various letter huge";
+var mnemonic = "beyond engine couple pitch safe crisp weird exhaust grit harvest choice humor";

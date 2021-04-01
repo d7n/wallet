@@ -1,1 +1,1 @@
-var mnemonic = "badge bind excess joy title early wash sad expire into chat battle";
+var mnemonic = "egg wait fat invite fly cloud unknown luggage cheese evoke spawn spike";

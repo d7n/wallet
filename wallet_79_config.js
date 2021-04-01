@@ -1,1 +1,1 @@
-var mnemonic = "add bus clever found clump garment damp under small heavy slender split";
+var mnemonic = "capable gloom pole illegal mosquito method brown mechanic ride midnight tooth catch";

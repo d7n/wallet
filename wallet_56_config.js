@@ -1,1 +1,1 @@
-var mnemonic = "afford venue because used curtain castle curve interest rookie kangaroo guard seven";
+var mnemonic = "balcony music govern divorce armor dragon extend venture deal tape arrest tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "fork toddler rapid mask gloom tonight seminar century rival vote stomach inmate";
+var mnemonic = "tooth piece track core about result sauce consider mechanic olive scale track";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion toilet cart tilt weather alley entry excuse piano life pulse spoon";
+var mnemonic = "inch trouble audit stock gather accuse tennis soda repair egg outside rug";

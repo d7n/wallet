@@ -1,1 +1,1 @@
-var mnemonic = "excess goddess brother tennis hammer force mirror sting ceiling bottom nerve symptom";
+var mnemonic = "toast argue jump boat sword success please meadow service jelly rather coral";

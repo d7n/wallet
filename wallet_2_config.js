@@ -1,1 +1,1 @@
-var mnemonic = "hospital heavy welcome rice anger behave subway moon relief pole village series";
+var mnemonic = "near tiger egg tree arm talent damp size coin pottery negative term";

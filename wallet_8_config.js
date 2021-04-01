@@ -1,1 +1,1 @@
-var mnemonic = "churn ready barrel race stay govern prevent eternal one change veteran salt";
+var mnemonic = "oppose brain soup book inspire tooth ignore coffee orchard lecture exercise street";

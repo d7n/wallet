@@ -1,1 +1,1 @@
-var mnemonic = "script umbrella basic benefit ten achieve smooth pudding drink father prison cover";
+var mnemonic = "arrest add inmate panther skin diamond off despair cabin grocery youth party";

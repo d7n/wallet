@@ -1,1 +1,1 @@
-var mnemonic = "dolphin evolve grocery asthma runway evidence visa present faith before night canyon";
+var mnemonic = "breeze erupt velvet list onion blush interest hint visa indicate pitch quick";

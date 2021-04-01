@@ -1,1 +1,1 @@
-var mnemonic = "remain coconut sorry garlic wire inherit water hole girl dove index goat";
+var mnemonic = "please inspire year chapter rough spring exotic recall sell expect lawn race";

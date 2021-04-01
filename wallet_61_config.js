@@ -1,1 +1,1 @@
-var mnemonic = "detect village usage embark curtain predict scorpion ozone genre silent diary enhance";
+var mnemonic = "gospel more rough blue depart screen collect fury drive provide buddy aerobic";

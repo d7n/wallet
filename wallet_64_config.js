@@ -1,1 +1,1 @@
-var mnemonic = "zone soap peanut syrup hope during bonus quantum great dumb wasp test";
+var mnemonic = "laundry sustain tilt ramp payment version lyrics sphere frozen suspect easy course";

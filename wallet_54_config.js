@@ -1,1 +1,1 @@
-var mnemonic = "purity pluck owner dutch ensure cute rapid rely now reunion hard scatter";
+var mnemonic = "satisfy danger truly sorry diamond tired top proud supreme rude decline fog";

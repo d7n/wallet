@@ -1,1 +1,1 @@
-var mnemonic = "domain boss pretty lesson protect dutch trap turkey pair joy stairs educate";
+var mnemonic = "lizard mercy vivid bright life excess burger potato bitter fresh wheel nut";

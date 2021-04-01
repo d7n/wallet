@@ -1,1 +1,1 @@
-var mnemonic = "option clinic act sign fatigue seat solar moment cram stomach blur panther";
+var mnemonic = "sketch stumble fatal better deliver napkin cereal small welcome hint elegant elevator";

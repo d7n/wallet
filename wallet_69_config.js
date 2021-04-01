@@ -1,1 +1,1 @@
-var mnemonic = "shine party slam magic cute convince shock glimpse hazard true scout coach";
+var mnemonic = "kid inner gym kite draw thought denial situate outer joy obtain model";

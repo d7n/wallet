@@ -1,1 +1,1 @@
-var mnemonic = "pilot wrestle arena hunt acid interest path topic rally energy reveal ask";
+var mnemonic = "ramp innocent school mad satisfy hill unaware pig maid height husband steel";

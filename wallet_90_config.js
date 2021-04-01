@@ -1,1 +1,1 @@
-var mnemonic = "cereal cushion salt report carry depend tourist kit say cinnamon foster luxury";
+var mnemonic = "click fame surge network drop deputy tooth degree web begin evil appear";

@@ -1,1 +1,1 @@
-var mnemonic = "custom dumb menu wealth snow fox diamond wide amazing allow public mountain";
+var mnemonic = "promote call rule during theory margin impose among beauty scrub they other";

@@ -1,1 +1,1 @@
-var mnemonic = "gas carry elegant candy sound inject bring marble wine identify focus egg";
+var mnemonic = "deliver practice thumb best web jar debris slide hurdle leader vapor tomato";

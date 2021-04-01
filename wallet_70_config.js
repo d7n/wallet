@@ -1,1 +1,1 @@
-var mnemonic = "present enhance rail thunder moral donor spell galaxy beyond loud sting fashion";
+var mnemonic = "fortune radar business during post weather cricket cheese leaf double caution cruise";

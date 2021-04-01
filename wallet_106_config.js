@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur tilt sketch claim quick record husband theory analyst metal weather diamond";
+var mnemonic = "stay artefact canoe boost foot top cute cloth unlock gasp eager stage";

@@ -1,1 +1,1 @@
-var mnemonic = "special idle notice top reveal surround hidden issue surface next slot drastic";
+var mnemonic = "conduct apart grow sport gate extra enough device bitter legend universe open";

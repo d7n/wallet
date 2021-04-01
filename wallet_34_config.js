@@ -1,1 +1,1 @@
-var mnemonic = "uniform wise love peasant cupboard history seminar faint demand brain pigeon cube";
+var mnemonic = "direct tourist ice sad copy whisper pigeon problem cost used exhibit maple";

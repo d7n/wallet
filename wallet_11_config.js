@@ -1,1 +1,1 @@
-var mnemonic = "debris knock pelican fantasy glue vendor wait wise fashion cute absent confirm";
+var mnemonic = "task inside devote wasp broken choice toilet solve plunge profit kit hybrid";

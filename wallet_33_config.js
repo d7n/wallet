@@ -1,1 +1,1 @@
-var mnemonic = "crystal arena glow magnet bar warrior know remove wasp trouble test cabin";
+var mnemonic = "hill reflect eagle turkey flower hurt diet usage one skull reunion eight";

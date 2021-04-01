@@ -1,1 +1,1 @@
-var mnemonic = "wait account obscure sight cycle blanket unaware solar eager sorry village nephew";
+var mnemonic = "display rule mask jeans learn stick please penalty kangaroo rice cage potato";

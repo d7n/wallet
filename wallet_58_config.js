@@ -1,1 +1,1 @@
-var mnemonic = "giant magnet escape suffer thank demise acoustic genuine glow kangaroo employ shoe";
+var mnemonic = "between dragon train else find noodle sign suspect flame just vivid vibrant";

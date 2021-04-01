@@ -1,1 +1,1 @@
-var mnemonic = "judge diary record cake swear media amateur poverty mango moral lend nasty";
+var mnemonic = "increase lens review latin anger casual envelope piano armed away hammer final";

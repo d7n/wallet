@@ -1,1 +1,1 @@
-var mnemonic = "section blast acid scorpion skull soccer salon swamp connect before hammer opinion";
+var mnemonic = "shuffle crisp ship client text lend bench armed crane choose luggage whale";

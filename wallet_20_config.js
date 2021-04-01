@@ -1,1 +1,1 @@
-var mnemonic = "oppose mushroom six cheese ladder pulse reduce scatter language rural country process";
+var mnemonic = "number eyebrow wash puzzle clay nest decorate turkey broken destroy flag find";

@@ -1,1 +1,1 @@
-var mnemonic = "certain rather install mushroom happy token retreat network eager faint prison effort";
+var mnemonic = "tide when food manage boring elder alpha brick search panda snow april";

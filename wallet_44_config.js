@@ -1,1 +1,1 @@
-var mnemonic = "raw elegant turkey exchange tube admit gold boat blade equal clever gap";
+var mnemonic = "monkey still second execute summer during project name bind loud coffee road";

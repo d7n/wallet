@@ -1,1 +1,1 @@
-var mnemonic = "vacant ring lava nurse setup door real dirt pledge volcano charge creek";
+var mnemonic = "bean increase fire people patch jungle palace breeze lemon company nurse artwork";

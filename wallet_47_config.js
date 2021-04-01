@@ -1,1 +1,1 @@
-var mnemonic = "nut letter allow enrich update stamp nerve safe stem olive typical pause";
+var mnemonic = "mother acoustic public much fury inner pulse such home poem possible hurdle";

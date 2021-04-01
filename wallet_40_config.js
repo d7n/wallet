@@ -1,1 +1,1 @@
-var mnemonic = "crumble loud trial planet resource stem atom reflect visit erosion text version";
+var mnemonic = "joy element scene frog escape sugar crouch gun shrimp siege depend lounge";

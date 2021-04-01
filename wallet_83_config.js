@@ -1,1 +1,1 @@
-var mnemonic = "holiday tobacco transfer struggle maple today squeeze feel wild vicious donor pool";
+var mnemonic = "unusual nose enable merge gaze mutual chaos parade december fall embody anger";

@@ -1,1 +1,1 @@
-var mnemonic = "moon truck north basic office blood muffin heart income refuse left boy";
+var mnemonic = "enhance wisdom water mass hungry round bamboo rescue shoot option road march";

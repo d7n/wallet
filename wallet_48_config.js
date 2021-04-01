@@ -1,1 +1,1 @@
-var mnemonic = "orphan stereo cute rubber mule tube deposit shed day impact swing naive";
+var mnemonic = "picnic remind scatter elephant empower rude unfair hidden invest finger repair actress";

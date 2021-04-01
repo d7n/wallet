@@ -1,1 +1,1 @@
-var mnemonic = "note alien loan blue pulse park pill trial rude suggest water share";
+var mnemonic = "wrestle lunar truly wheel reason swamp fold time angry youth matrix evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "forward fish check submit omit boil tide trip seminar raven giant vanish";
+var mnemonic = "base member eager giggle buyer idea write mother baby few lesson quantum";

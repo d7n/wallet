@@ -1,1 +1,1 @@
-var mnemonic = "cliff reward alert buyer pill hint sort desk small forget chase never";
+var mnemonic = "below voyage hospital advance resource deer gown plate hole meat phone shell";

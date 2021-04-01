@@ -1,1 +1,1 @@
-var mnemonic = "adapt bounce between diary panda drum kit green cat spawn panic bird";
+var mnemonic = "fix march other settle heart jazz casual analyst ski grant pluck slot";

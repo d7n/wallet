@@ -1,1 +1,1 @@
-var mnemonic = "often labor kick tip sustain squeeze neck win ranch option swallow entry";
+var mnemonic = "split retreat tissue chapter slight mean retreat episode cabin narrow prosper shock";

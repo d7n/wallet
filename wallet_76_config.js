@@ -1,1 +1,1 @@
-var mnemonic = "barely cry dream tissue grow brain journey stove insect chase tattoo wash";
+var mnemonic = "cactus ship own input mercy rival find almost more crash bicycle reason";

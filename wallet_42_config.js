@@ -1,1 +1,1 @@
-var mnemonic = "paddle people pistol volume arrange gasp spoon unique keep wise script analyst";
+var mnemonic = "tube hollow arm pizza auto toddler adult balcony pole scheme tower motor";

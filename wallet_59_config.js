@@ -1,1 +1,1 @@
-var mnemonic = "often green drum already sibling layer glue happy jeans project impulse any";
+var mnemonic = "high pride ramp glory champion begin gown cereal cabin hole stage victory";

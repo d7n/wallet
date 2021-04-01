@@ -1,1 +1,1 @@
-var mnemonic = "toy rapid step foster inmate first castle journey boat public typical faith";
+var mnemonic = "session collect magnet recycle insect rhythm brush pepper interest setup early cause";

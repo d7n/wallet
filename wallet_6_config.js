@@ -1,1 +1,1 @@
-var mnemonic = "path large chapter thought crazy cluster spend worry bonus speak hip lucky";
+var mnemonic = "prison long six caught away busy pluck erupt tenant grow habit young";

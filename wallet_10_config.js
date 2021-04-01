@@ -1,1 +1,1 @@
-var mnemonic = "harvest best party skull vacant major dismiss drip general uncover cage chief";
+var mnemonic = "cliff turtle apple stone reform display melt feed engage horse powder umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist bracket stock yellow submit coyote potato chair toss fury panda public";
+var mnemonic = "oxygen nothing message pole mean alert afraid beauty taxi what rotate sauce";

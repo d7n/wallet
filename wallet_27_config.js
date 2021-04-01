@@ -1,1 +1,1 @@
-var mnemonic = "fly original vehicle night advance slot march sick control certain melody drip";
+var mnemonic = "kid middle rate feed breeze close train maid buyer silk put upon";

@@ -1,1 +1,1 @@
-var mnemonic = "palm throw case lift forget latin jazz test pizza bounce hungry erupt";
+var mnemonic = "muffin ankle random found message wonder original swamp buyer mirror combine situate";

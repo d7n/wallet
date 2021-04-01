@@ -1,1 +1,1 @@
-var mnemonic = "sister same copper begin defense bulb tattoo rubber airport write certain honey";
+var mnemonic = "hidden grit citizen organ science hurt blast pudding wash spice around fork";

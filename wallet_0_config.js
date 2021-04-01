@@ -1,1 +1,1 @@
-var mnemonic = "memory guard salute urge tell shaft can juice craft soup ghost lonely";
+var mnemonic = "measure outdoor unit service rough install recycle palm eyebrow glimpse dignity develop";

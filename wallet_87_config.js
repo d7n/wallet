@@ -1,1 +1,1 @@
-var mnemonic = "weekend infant poet stereo amateur favorite fresh young original parade noble upgrade";
+var mnemonic = "power awkward girl poet catalog advance strike modify fault twenty issue useless";

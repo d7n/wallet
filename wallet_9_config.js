@@ -1,1 +1,1 @@
-var mnemonic = "tissue young body limb unfold robust cradle claim wife leader young pipe";
+var mnemonic = "decorate sentence reject ceiling discover mutual tip oven chapter once various excess";

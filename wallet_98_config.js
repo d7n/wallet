@@ -1,1 +1,1 @@
-var mnemonic = "resist bottom cannon attack position labor orange lecture metal crime stock obscure";
+var mnemonic = "badge park release dove fun sponsor wave weekend process park noble fee";

@@ -1,1 +1,1 @@
-var mnemonic = "actor abuse regular asset faith tribe evoke choice kingdom maze develop eight";
+var mnemonic = "mirror napkin demise inch leaf cotton knife inform smart either little welcome";

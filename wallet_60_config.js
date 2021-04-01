@@ -1,1 +1,1 @@
-var mnemonic = "size involve upon text symptom taste sword gallery endorse piece ocean aspect";
+var mnemonic = "arch short bicycle dynamic march crack female shock bonus supply spy invite";

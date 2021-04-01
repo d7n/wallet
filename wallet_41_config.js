@@ -1,1 +1,1 @@
-var mnemonic = "appear bulb knife list force student okay obvious journey gain attend summer";
+var mnemonic = "sleep ramp lock tattoo goose fortune sense turtle purchase season grab card";

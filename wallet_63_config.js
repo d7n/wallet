@@ -1,1 +1,1 @@
-var mnemonic = "picture tuna bubble trouble cook fold airport version clean belt trust carpet";
+var mnemonic = "home grunt tribe wave rural proof fame left unknown elder visual void";

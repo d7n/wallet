@@ -1,1 +1,1 @@
-var mnemonic = "since ship tomato sleep away useless lounge metal innocent pupil frown nuclear";
+var mnemonic = "castle unveil salon because vacuum marble wide extend peasant weekend interest mistake";

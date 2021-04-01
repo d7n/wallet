@@ -1,1 +1,1 @@
-var mnemonic = "window throw festival spray tired assume hire search school improve raven husband";
+var mnemonic = "green attitude rate round thumb task unknown frequent lounge nothing document fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "banana ill measure apple amused lizard sad pull reopen team combine swim";
+var mnemonic = "table sign will cigar exclude group promote drama couple unlock kangaroo once";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage scheme exile happy usual merge grunt usual attack again virus room";
+var mnemonic = "resource absurd valid speed copper loan unknown youth swing town hint old";

@@ -1,1 +1,1 @@
-var mnemonic = "risk faculty slow fire bullet problem delay mass lion initial steel reflect";
+var mnemonic = "hockey still super month strong amateur royal vibrant nerve field casual entire";

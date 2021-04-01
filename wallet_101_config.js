@@ -1,1 +1,1 @@
-var mnemonic = "mistake transfer place fragile when game skirt industry secret power escape claim";
+var mnemonic = "token better debris object ocean garage salt use mail grocery spatial sight";

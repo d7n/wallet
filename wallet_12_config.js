@@ -1,1 +1,1 @@
-var mnemonic = "original into apart senior pudding tunnel also escape industry robot faint gate";
+var mnemonic = "play become install above visual test ignore garment blur pulp talk palace";

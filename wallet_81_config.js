@@ -1,1 +1,1 @@
-var mnemonic = "side click captain leave sort spirit wrong good scissors equal south north";
+var mnemonic = "essay tomorrow seminar master regular citizen monitor castle win major setup inflict";

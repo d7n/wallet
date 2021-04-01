@@ -1,1 +1,1 @@
-var mnemonic = "close rib faculty saddle found barrel electric sing street emotion finish lamp";
+var mnemonic = "carry awesome goddess scissors muffin elephant garbage noble produce swear destroy stage";

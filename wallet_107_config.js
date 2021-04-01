@@ -1,1 +1,1 @@
-var mnemonic = "vapor album nominee budget cabin twist material festival actual good grief health";
+var mnemonic = "motion print include trick fault eternal rule heavy fancy clever gravity express";

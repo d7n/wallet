@@ -1,1 +1,1 @@
-var mnemonic = "keen enhance gentle cage color picture hazard rib beyond tobacco gravity pattern";
+var mnemonic = "random know trick emerge mountain price pond lunch clip coyote witness custom";

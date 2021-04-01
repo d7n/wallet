@@ -1,1 +1,1 @@
-var mnemonic = "art puppy tennis seminar convince battle congress museum similar scatter daughter gather";
+var mnemonic = "sting evil jar unveil pause audit anchor grain all spoil drip course";

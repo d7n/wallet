@@ -1,1 +1,1 @@
-var mnemonic = "you merry method survey narrow crash blue edit inject artist sense polar";
+var mnemonic = "have tornado icon under elevator ignore grass essence moon provide alter thunder";

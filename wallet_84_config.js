@@ -1,1 +1,1 @@
-var mnemonic = "beef lawsuit pipe debate drill spend ugly few behind zebra subject shine";
+var mnemonic = "game economy mistake sweet will there soon feed into divorce this dice";
