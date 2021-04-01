@@ -1,1 +1,1 @@
-var mnemonic = "regret board spring south virus mom scrap spray dinosaur account dumb august";
+var mnemonic = "faculty luggage cargo idea muscle mother option magic raccoon wrong rare answer";

@@ -1,1 +1,1 @@
-var mnemonic = "merge income wage dinosaur mistake afford keen leave smart train vital kid";
+var mnemonic = "modify hint type pond unlock kit pattern pelican trick leader easily design";

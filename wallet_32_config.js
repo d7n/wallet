@@ -1,1 +1,1 @@
-var mnemonic = "present hole kitchen lonely random panther social zero fox wisdom topic brief";
+var mnemonic = "shy owner yard benefit among exercise friend gospel slide scrub hood ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe torch bracket short combine course mammal just unable cable antenna spare";
+var mnemonic = "cup snow wasp second acid awake wash usage donate oppose oxygen topic";

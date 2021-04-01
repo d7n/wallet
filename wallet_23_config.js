@@ -1,1 +1,1 @@
-var mnemonic = "quit will clip depart cost glow lake write inflict truly knock fetch";
+var mnemonic = "pulse coffee grape jewel narrow grace hurdle there memory tiny jazz fall";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic laundry educate achieve supply enlist term this smoke brain sting vibrant";
+var mnemonic = "afraid jacket symbol shock flip injury lend maze valve kid student unfold";

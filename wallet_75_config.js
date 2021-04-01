@@ -1,1 +1,1 @@
-var mnemonic = "atom adult worry prevent away flower practice course raise leg excuse expire";
+var mnemonic = "river canvas empower coconut antenna tail fold orchard assist unveil chapter salon";

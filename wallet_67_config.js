@@ -1,1 +1,1 @@
-var mnemonic = "high kiwi ring link come opera canal visual sing payment sudden never";
+var mnemonic = "garage expire mercy coach rescue often penalty kid private payment solution total";

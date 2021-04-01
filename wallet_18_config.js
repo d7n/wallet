@@ -1,1 +1,1 @@
-var mnemonic = "universe giggle aim embody park perfect online absent bargain raw punch build";
+var mnemonic = "avoid beach seminar post refuse stable interest quantum pledge side basket volume";

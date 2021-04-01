@@ -1,1 +1,1 @@
-var mnemonic = "cry envelope retreat still turkey attend render toast gravity reason rubber sock";
+var mnemonic = "zone dance always member poet shop decade beauty forward shine armed large";

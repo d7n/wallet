@@ -1,1 +1,1 @@
-var mnemonic = "payment tooth cousin clean click smoke kite depend daring there notable pretty";
+var mnemonic = "canal mango promote puppy hurt project label phrase swap spot excuse salute";

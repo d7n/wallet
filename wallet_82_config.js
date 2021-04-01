@@ -1,1 +1,1 @@
-var mnemonic = "execute execute photo decade expand exclude potato curve peasant dress use know";
+var mnemonic = "eternal pigeon carry nice illness radar minute olive radio spin favorite latin";

@@ -1,1 +1,1 @@
-var mnemonic = "tent cinnamon midnight normal champion leg aerobic dawn urban spin wing double";
+var mnemonic = "tower express wife opinion profit matrix evolve tired pupil antenna rural elder";

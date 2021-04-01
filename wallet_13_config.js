@@ -1,1 +1,1 @@
-var mnemonic = "ship layer version roast jacket defy sign trap digital leopard very way";
+var mnemonic = "text also above mixture empty fragile exchange expire rival library nothing notable";

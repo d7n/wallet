@@ -1,1 +1,1 @@
-var mnemonic = "cook toddler one trash garment feature oxygen obey turtle tube engine cluster";
+var mnemonic = "staff nose easily trust law mixture buyer company mobile spoil chest liar";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue vacant memory differ reward prefer then vicious rubber alter barrel skirt";
+var mnemonic = "coffee smart rude reward toast cave example lens reform weird canyon excite";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter crowd another acid case steel opera input permit strong night lecture";
+var mnemonic = "limb loop throw afford sunny type hunt cash giraffe asthma portion situate";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy view elevator lawsuit river various angry bundle uncle because hamster side";
+var mnemonic = "execute between now apology maid assist regular pottery please praise machine fire";

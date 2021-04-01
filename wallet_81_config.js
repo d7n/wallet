@@ -1,1 +1,1 @@
-var mnemonic = "achieve cook dress illegal climb verb apart night old venture alley track";
+var mnemonic = "weather kidney scatter latin young certain spell else ball steel prevent quarter";

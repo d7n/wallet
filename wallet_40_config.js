@@ -1,1 +1,1 @@
-var mnemonic = "slab hockey swim bonus burden chapter armed warrior lock genius antenna next";
+var mnemonic = "siege couch original heart file erupt similar cheese twice catalog window pair";

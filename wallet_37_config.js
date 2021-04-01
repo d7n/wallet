@@ -1,1 +1,1 @@
-var mnemonic = "bike amount awake fuel uphold used also indoor crack grit genius sting";
+var mnemonic = "vital fence artist ice vanish fit sibling proof december patch flock budget";

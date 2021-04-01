@@ -1,1 +1,1 @@
-var mnemonic = "tilt series hill burger suit carpet obscure shop enter family arctic shock";
+var mnemonic = "open vibrant truly loyal segment correct balance glare ordinary survey dentist trial";

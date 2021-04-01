@@ -1,1 +1,1 @@
-var mnemonic = "cable mechanic ticket ostrich oven scrap clump balance engine claim harsh walk";
+var mnemonic = "rabbit romance fetch over action interest sleep rural chair rhythm snow art";

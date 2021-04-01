@@ -1,1 +1,1 @@
-var mnemonic = "jaguar butter acquire opera faculty celery dirt nerve margin fault outside kangaroo";
+var mnemonic = "pottery fancy saddle please able live long left dry math vivid attack";

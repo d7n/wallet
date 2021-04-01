@@ -1,1 +1,1 @@
-var mnemonic = "nominee argue advice people ahead verb noble double skate garlic eye track";
+var mnemonic = "eyebrow scrap almost venue practice moral muscle address sorry loud head banner";

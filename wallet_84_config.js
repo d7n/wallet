@@ -1,1 +1,1 @@
-var mnemonic = "miracle slide fame fox venue recall divert now knock afford fence opinion";
+var mnemonic = "fabric age poet exchange ocean stand heart rack amount transfer toward payment";

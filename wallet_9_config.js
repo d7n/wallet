@@ -1,1 +1,1 @@
-var mnemonic = "champion used novel truly excess feed shift subway bachelor butter fame across";
+var mnemonic = "buyer laundry below win rely beyond outside topic analyst athlete estate uphold";

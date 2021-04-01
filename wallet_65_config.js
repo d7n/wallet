@@ -1,1 +1,1 @@
-var mnemonic = "design help gorilla snack crop section race fabric switch legend arch pitch";
+var mnemonic = "flat cost luggage hour kitten similar hawk six upper peanut chalk fame";

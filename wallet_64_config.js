@@ -1,1 +1,1 @@
-var mnemonic = "same remember transfer comfort pet axis eternal swim twist another bar slam";
+var mnemonic = "before margin citizen dial issue reduce assume decorate say six place kiwi";

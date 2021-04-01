@@ -1,1 +1,1 @@
-var mnemonic = "enroll isolate buyer install attend level impulse toward gather hold lizard riot";
+var mnemonic = "argue affair health hour tomorrow swim avoid mango mad year vacuum small";

@@ -1,1 +1,1 @@
-var mnemonic = "useless virtual assist apple sand mandate cluster wash digital baby fault avoid";
+var mnemonic = "caught stage enjoy achieve weird during time planet length clown penalty jewel";

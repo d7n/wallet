@@ -1,1 +1,1 @@
-var mnemonic = "garbage shallow slim spirit fashion drip zebra interest people pole inch artefact";
+var mnemonic = "ladder viable gate gown client stone canoe gas wine brave museum clog";

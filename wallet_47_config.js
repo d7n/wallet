@@ -1,1 +1,1 @@
-var mnemonic = "brief decide buyer walnut perfect exit dumb obtain session brown march auto";
+var mnemonic = "essence also plate stumble attitude recipe maid lawn festival uncle deny dutch";

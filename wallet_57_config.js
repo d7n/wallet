@@ -1,1 +1,1 @@
-var mnemonic = "test easy season shallow wood foil confirm owner someone budget coffee unveil";
+var mnemonic = "when stem amount cushion wonder educate raven assist attack doctor assault hurdle";

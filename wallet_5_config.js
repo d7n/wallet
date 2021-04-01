@@ -1,1 +1,1 @@
-var mnemonic = "prepare scissors envelope around crystal twenty office pumpkin fence sword until senior";
+var mnemonic = "fiction winter stove neither option olympic fitness boil blossom ski churn blame";

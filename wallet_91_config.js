@@ -1,1 +1,1 @@
-var mnemonic = "syrup offer what height erase warm unfair manage sauce trade right spring";
+var mnemonic = "confirm tag brick clerk artist turn green law finger produce release poverty";

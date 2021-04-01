@@ -1,1 +1,1 @@
-var mnemonic = "wear nephew filter vault cost open ranch path bunker tonight marine lab";
+var mnemonic = "tonight cute shoot flower rail hurt ghost brother prison stereo badge chef";

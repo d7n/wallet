@@ -1,1 +1,1 @@
-var mnemonic = "club patient cherry shift basic ice way toilet hill fold tip winter";
+var mnemonic = "van abuse lava access eagle spot okay crawl seed office expect verb";

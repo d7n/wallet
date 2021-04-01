@@ -1,1 +1,1 @@
-var mnemonic = "vacuum faint year exile maze assist shop solid parrot swim helmet clock";
+var mnemonic = "image seed trouble tomato trim champion finish grief rack elegant claw plug";

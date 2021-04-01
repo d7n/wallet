@@ -1,1 +1,1 @@
-var mnemonic = "panther initial panther wealth wave rare mask service offer custom steak cabbage";
+var mnemonic = "trigger fine clog topple never place nerve bar eye someone power destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "crack peanut hospital wool utility crush thing pipe essence teach bamboo around";
+var mnemonic = "rent kiss vacant mention fever fashion infant weasel wheel major yard vibrant";

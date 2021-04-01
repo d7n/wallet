@@ -1,1 +1,1 @@
-var mnemonic = "sting exchange world repair cigar toward fuel cook busy knee leopard float";
+var mnemonic = "coyote brisk infant slush copper climb toss put race recycle person price";

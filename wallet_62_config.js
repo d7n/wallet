@@ -1,1 +1,1 @@
-var mnemonic = "tunnel nut sausage sunset average favorite attract major flavor oblige arrest snack";
+var mnemonic = "resemble mercy plastic disease mansion want beyond sad comfort draw close shine";

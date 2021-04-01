@@ -1,1 +1,1 @@
-var mnemonic = "master expect path salad excite business sudden quote beef weapon scale unfair";
+var mnemonic = "fiction gasp play almost artefact such flavor auto govern talk chair glue";

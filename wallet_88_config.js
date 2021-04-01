@@ -1,1 +1,1 @@
-var mnemonic = "eternal tone true mosquito question evidence tide nuclear harsh chunk client crazy";
+var mnemonic = "yellow sibling spike ramp material hurry tent antenna hollow click special tennis";

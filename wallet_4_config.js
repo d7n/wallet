@@ -1,1 +1,1 @@
-var mnemonic = "define soup pattern dash chaos recipe office unveil entry cart major wild";
+var mnemonic = "update cute lens laugh fine season hollow clown glory onion umbrella virus";

@@ -1,1 +1,1 @@
-var mnemonic = "glad adapt visual become number warrior truck solar hour program approve warm";
+var mnemonic = "catch cabin alcohol minute found swap aim metal cable settle poet crush";

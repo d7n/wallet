@@ -1,1 +1,1 @@
-var mnemonic = "series feed monitor tank struggle sure market pilot gadget hip child dumb";
+var mnemonic = "glory found raccoon fiber swarm degree race mimic park remind same display";

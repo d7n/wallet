@@ -1,1 +1,1 @@
-var mnemonic = "twelve banana goat deer token jewel century agree liberty lonely piano elegant";
+var mnemonic = "language point regular flame toss someone always satisfy rival estate abuse violin";

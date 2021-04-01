@@ -1,1 +1,1 @@
-var mnemonic = "song flush humor mad vibrant struggle orbit document marine disagree spread kiss";
+var mnemonic = "over industry thank solution dune melody science nuclear link snap myself sister";

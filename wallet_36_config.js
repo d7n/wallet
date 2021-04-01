@@ -1,1 +1,1 @@
-var mnemonic = "brisk betray ten among mushroom congress swing general young plug regret dust";
+var mnemonic = "have abandon sausage recipe winter once valid message explain dynamic confirm donate";

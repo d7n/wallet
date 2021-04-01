@@ -1,1 +1,1 @@
-var mnemonic = "confirm ghost paddle affair sleep patient spare aware butter awesome interest magnet";
+var mnemonic = "glory april palm tip resource leave early bird acid essence arctic sight";

@@ -1,1 +1,1 @@
-var mnemonic = "smile scale glue vague garbage auto hope major skin room infant keep";
+var mnemonic = "oppose survey worry picture music curtain envelope couch chunk coil quick axis";

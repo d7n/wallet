@@ -1,1 +1,1 @@
-var mnemonic = "copper west unusual fork federal ceiling body abandon inform apart spike vapor";
+var mnemonic = "keep share tourist seed matrix display program drip blouse wrap carpet ridge";

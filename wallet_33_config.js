@@ -1,1 +1,1 @@
-var mnemonic = "add plug rule surprise broom elegant dolphin spend have glory nice symbol";
+var mnemonic = "nose wine wink curious lazy poet banner pencil tornado festival saddle pencil";

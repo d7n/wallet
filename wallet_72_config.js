@@ -1,1 +1,1 @@
-var mnemonic = "float skill oblige lonely armed dose fragile shallow copper useful move wise";
+var mnemonic = "chat derive ugly limit planet edge task search staff sad tide twist";

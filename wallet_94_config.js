@@ -1,1 +1,1 @@
-var mnemonic = "innocent album crack spread spoil unit oil arena reveal stamp bar entire";
+var mnemonic = "legal ten perfect access capable retire topic skin medal horse decide leader";

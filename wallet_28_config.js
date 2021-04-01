@@ -1,1 +1,1 @@
-var mnemonic = "cliff dice fox unhappy butter scene offer mirror cereal speed parent stumble";
+var mnemonic = "alone hurdle winter daring update shiver pioneer ball weird public salmon collect";

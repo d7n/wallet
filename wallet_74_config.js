@@ -1,1 +1,1 @@
-var mnemonic = "stamp slab track auction nominee bounce mutual spider beauty prison deliver bronze";
+var mnemonic = "siren meadow you various ill fox long parent dirt camera report huge";

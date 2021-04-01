@@ -1,1 +1,1 @@
-var mnemonic = "confirm gather develop sudden antenna elephant venture cinnamon sauce rice myth fiber";
+var mnemonic = "picnic nation umbrella stuff same struggle garage corn island adjust street neglect";

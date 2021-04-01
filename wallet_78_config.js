@@ -1,1 +1,1 @@
-var mnemonic = "local circle crane equal raven trick flee relax utility noise resemble fat";
+var mnemonic = "hen laugh clap path flock pass donor course fragile sad gun bless";

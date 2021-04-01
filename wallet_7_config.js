@@ -1,1 +1,1 @@
-var mnemonic = "clinic since motion author pet whip garbage baby fancy tape shine symbol";
+var mnemonic = "index tennis defy where promote hour horror mention carpet fame pottery profit";

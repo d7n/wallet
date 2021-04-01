@@ -1,1 +1,1 @@
-var mnemonic = "client street kit october misery stone broom kite shiver goat unknown attitude";
+var mnemonic = "shrimp stadium penalty two ability decrease bless dial blush payment lecture ocean";

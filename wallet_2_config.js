@@ -1,1 +1,1 @@
-var mnemonic = "orbit yard nest remove mail glad debris furnace birth what profit artwork";
+var mnemonic = "approve project abstract umbrella mushroom poverty debris damp alarm during connect razor";

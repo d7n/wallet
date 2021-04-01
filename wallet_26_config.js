@@ -1,1 +1,1 @@
-var mnemonic = "width leave birth resource clown kit essence employ exhaust arrow seat token";
+var mnemonic = "breeze bundle release original gloom suit hungry between original benefit wrestle space";

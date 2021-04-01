@@ -1,1 +1,1 @@
-var mnemonic = "embrace good begin grape invite rose ridge deer cage day stereo father";
+var mnemonic = "result virtual salt then bleak pride blind behave surface wool ring tobacco";

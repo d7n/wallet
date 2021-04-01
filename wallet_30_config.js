@@ -1,1 +1,1 @@
-var mnemonic = "basket farm neither month monster episode cluster miracle manage fatal quiz wet";
+var mnemonic = "eye inhale idea ritual shove naive economy auction that stage spy extend";

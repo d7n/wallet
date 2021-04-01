@@ -1,1 +1,1 @@
-var mnemonic = "resemble onion armor sweet year van song choose lava soup hair photo";
+var mnemonic = "scene similar sort rely amount guitar super ketchup essence they help burden";

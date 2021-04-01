@@ -1,1 +1,1 @@
-var mnemonic = "enhance umbrella obtain keen husband youth stage pepper summer tiger student about";
+var mnemonic = "uniform alarm lumber surface able thing universe blame test curious derive dove";

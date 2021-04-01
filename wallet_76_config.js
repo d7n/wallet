@@ -1,1 +1,1 @@
-var mnemonic = "almost double burger input artefact renew caution quick zoo carbon tank lab";
+var mnemonic = "double tomato better kite forget syrup kangaroo assault flavor suit uphold gate";

@@ -1,1 +1,1 @@
-var mnemonic = "disease kite steak burst oblige length small swallow cake expose civil unique";
+var mnemonic = "chat margin fame stem urge item patient bike common news artefact angle";

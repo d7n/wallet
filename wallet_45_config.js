@@ -1,1 +1,1 @@
-var mnemonic = "fence fluid van squirrel prison theme bread gloom gorilla come ordinary craft";
+var mnemonic = "dolphin wait ill fiber rare sausage double scheme narrow flight piece broccoli";

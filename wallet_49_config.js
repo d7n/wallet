@@ -1,1 +1,1 @@
-var mnemonic = "walnut reason salt profit reveal modify pattern noodle slide mixture setup tooth";
+var mnemonic = "aunt basket rug engage pilot drift scrap conduct brain symptom spare explain";

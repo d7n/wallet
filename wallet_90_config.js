@@ -1,1 +1,1 @@
-var mnemonic = "outer trick fun light ladder dog city another tree chronic cabin useful";
+var mnemonic = "omit before farm orphan cloud trip pulp wrap vacant type century script";

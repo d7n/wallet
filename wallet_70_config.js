@@ -1,1 +1,1 @@
-var mnemonic = "stem output auction invest security glide ability drink promote spoil enact liar";
+var mnemonic = "step speak track special silly leader excite jewel since original motion wait";

@@ -1,1 +1,1 @@
-var mnemonic = "cram parade gasp language claim earn soap novel bless gesture cupboard main";
+var mnemonic = "shoulder jaguar demise settle develop sugar nurse cute length catch salon twin";

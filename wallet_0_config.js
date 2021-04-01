@@ -1,1 +1,1 @@
-var mnemonic = "rich border kingdom soap pink common lottery come vast castle stable march";
+var mnemonic = "bamboo can rose rate fence below lecture vibrant ordinary foot water ability";

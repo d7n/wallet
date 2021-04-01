@@ -1,1 +1,1 @@
-var mnemonic = "elephant palm run balance robust humor else merit biology favorite return salad";
+var mnemonic = "empower narrow fence require attend lawn income tumble smile dawn prison guard";

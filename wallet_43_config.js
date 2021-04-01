@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo eight gadget crime tuition mixture buzz trend horror snack arch brisk";
+var mnemonic = "dignity mango pluck jacket antique close witness second weather snake canoe mango";

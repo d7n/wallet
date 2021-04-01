@@ -1,1 +1,1 @@
-var mnemonic = "brain seek muffin woman mention echo icon athlete hill live dove warfare";
+var mnemonic = "since grain digital obscure ivory mixed lava infant stadium salute champion nephew";

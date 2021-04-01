@@ -1,1 +1,1 @@
-var mnemonic = "coach thank cabin jealous print hill clever truth total fire afraid laptop";
+var mnemonic = "peanut reflect flight credit tooth walnut struggle awesome dynamic nature loyal midnight";

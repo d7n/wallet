@@ -1,1 +1,1 @@
-var mnemonic = "belt move suspect aim huge dawn doll six artwork base tourist roof";
+var mnemonic = "oblige now dentist cushion drop hint muscle imitate base ostrich crime panel";

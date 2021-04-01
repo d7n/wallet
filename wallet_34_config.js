@@ -1,1 +1,1 @@
-var mnemonic = "army spider fluid slogan punch turtle pig month sister walnut clerk harvest";
+var mnemonic = "paper badge tide muscle page amateur spy crew daughter surface lottery garbage";
