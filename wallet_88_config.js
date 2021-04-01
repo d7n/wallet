@@ -1,1 +1,1 @@
-var mnemonic = "wrist glass inch toe immune shine rent notable sail entry boost maximum";
+var mnemonic = "kiss play measure wrong solve alien era any average raise current trick";

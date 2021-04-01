@@ -1,1 +1,1 @@
-var mnemonic = "carry this plug across often wall stay two just palm culture maple";
+var mnemonic = "skirt system scout lyrics bracket announce reform cable reason typical misery able";

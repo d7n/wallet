@@ -1,1 +1,1 @@
-var mnemonic = "sure jump jar cliff tube dream vessel cancel marriage issue garage refuse";
+var mnemonic = "current express report peace version help enroll duty link dismiss firm skin";

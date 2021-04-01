@@ -1,1 +1,1 @@
-var mnemonic = "quote wrist jewel act gate choice write chaos cargo relief treat dismiss";
+var mnemonic = "guilt obscure velvet twelve parent giggle tribe maximum warm damp wrist front";

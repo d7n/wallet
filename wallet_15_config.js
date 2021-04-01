@@ -1,1 +1,1 @@
-var mnemonic = "oyster gain detail live three exhaust catalog brisk ghost bus carbon damage";
+var mnemonic = "gasp frequent laptop turkey move margin sing weather region forward bargain oil";

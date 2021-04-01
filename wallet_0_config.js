@@ -1,1 +1,1 @@
-var mnemonic = "actress clean beef economy road oven nerve pill sport dad tip unknown";
+var mnemonic = "amazing hospital involve speed region unable olympic chat embrace vague food method";

@@ -1,1 +1,1 @@
-var mnemonic = "airport toy joy pulp find damage seven nation garbage leisure cube hint";
+var mnemonic = "force absorb desert globe elbow six badge neutral drink provide sign tenant";

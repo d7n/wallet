@@ -1,1 +1,1 @@
-var mnemonic = "soup thank blood easily powder trick usage sadness giant anchor clinic govern";
+var mnemonic = "shrimp sauce track window hobby exercise pattern consider chief radio left tide";

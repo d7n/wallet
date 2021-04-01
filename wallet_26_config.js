@@ -1,1 +1,1 @@
-var mnemonic = "please rail rhythm vague marine coil story pattern ahead bullet wide leaf";
+var mnemonic = "oxygen armed reunion system long faculty mistake render jelly during equip suit";

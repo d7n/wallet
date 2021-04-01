@@ -1,1 +1,1 @@
-var mnemonic = "jealous punch peasant south shoulder joke inch keep young bag guess limit";
+var mnemonic = "tackle twice desk east inmate woman increase surge laugh extra rural side";

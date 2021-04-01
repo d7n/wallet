@@ -1,1 +1,1 @@
-var mnemonic = "cream light place robust flower error already analyst scare whip bench grape";
+var mnemonic = "oval rebel dog kiss bless shuffle defense wine woman burden refuse tired";

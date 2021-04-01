@@ -1,1 +1,1 @@
-var mnemonic = "hobby license void ordinary ramp that move minor flower scatter hollow light";
+var mnemonic = "disease radio raise shuffle step seat scout strong cigar dial upper cement";

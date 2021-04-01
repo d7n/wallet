@@ -1,1 +1,1 @@
-var mnemonic = "arrow inch quantum matrix enhance boy dust dress catch friend lawsuit now";
+var mnemonic = "flame cruise horn canal agree oxygen loud table endorse museum entire spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle rival estate sustain hill core skirt struggle stem spin hood budget";
+var mnemonic = "citizen giant nominee wrap pledge prison peanut target wet bachelor lounge return";

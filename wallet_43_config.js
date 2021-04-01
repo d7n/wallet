@@ -1,1 +1,1 @@
-var mnemonic = "peace blade else brief amused lend silk sand large elbow morning own";
+var mnemonic = "flight civil spike husband swarm pull radio keen ability private utility price";

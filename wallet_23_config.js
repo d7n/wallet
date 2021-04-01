@@ -1,1 +1,1 @@
-var mnemonic = "piano record cupboard brick exercise sock okay frame jaguar night cupboard cannon";
+var mnemonic = "extend matter donor actor legal fiber excess success maze text claw harvest";

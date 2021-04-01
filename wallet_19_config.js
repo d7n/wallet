@@ -1,1 +1,1 @@
-var mnemonic = "repeat wisdom fire devote maximum goat retreat verb action dynamic proud spring";
+var mnemonic = "sentence valid dice ugly spell canvas cabin flip plug find begin much";

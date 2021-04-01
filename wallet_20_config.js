@@ -1,1 +1,1 @@
-var mnemonic = "drive foot regular train sheriff crisp ritual pumpkin flock mandate awesome glad";
+var mnemonic = "tortoise accident cash model there confirm gauge rebuild curious marine subway chapter";

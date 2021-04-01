@@ -1,1 +1,1 @@
-var mnemonic = "chapter fiber brother scatter trophy author glory wonder clerk sing snow combine";
+var mnemonic = "quote suit train recipe sure emotion drink believe time alien mother polar";

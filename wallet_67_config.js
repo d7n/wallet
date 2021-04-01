@@ -1,1 +1,1 @@
-var mnemonic = "brass ecology soda punch used idle doll pistol hub clever okay split";
+var mnemonic = "sauce train sick humble round antique duck logic demand over pact anxiety";

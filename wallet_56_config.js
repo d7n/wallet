@@ -1,1 +1,1 @@
-var mnemonic = "bitter off bar crater decrease cash debris during crystal fame clump pupil";
+var mnemonic = "chaos economy error delay grain call narrow coffee leave circle grant nice";

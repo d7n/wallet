@@ -1,1 +1,1 @@
-var mnemonic = "despair choose consider accident neglect stadium exhibit bid buyer bench hedgehog sail";
+var mnemonic = "shoot cattle remember country tunnel year agent power normal remain ketchup seven";

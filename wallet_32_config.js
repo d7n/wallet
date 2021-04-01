@@ -1,1 +1,1 @@
-var mnemonic = "congress social cluster cruise recall rule merry monster mobile siren grocery shop";
+var mnemonic = "shift reward multiply body mule provide smooth dust toast chat diesel ankle";

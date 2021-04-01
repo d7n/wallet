@@ -1,1 +1,1 @@
-var mnemonic = "worth wealth detect cute rigid bright demise oval neglect august cricket anger";
+var mnemonic = "final kite price proof raw matrix silent distance project aim wagon split";

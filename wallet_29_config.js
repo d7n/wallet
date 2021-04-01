@@ -1,1 +1,1 @@
-var mnemonic = "about must tent regular pioneer shed enable actual chair merge basket hedgehog";
+var mnemonic = "talk crowd deny there truly ill ceiling mail decide can what need";

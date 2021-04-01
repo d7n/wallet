@@ -1,1 +1,1 @@
-var mnemonic = "inhale sorry dog funny mesh fee jeans mountain dwarf blood general light";
+var mnemonic = "firm output chuckle wheel sight buffalo glad flock rule churn fresh fluid";

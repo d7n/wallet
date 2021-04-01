@@ -1,1 +1,1 @@
-var mnemonic = "reopen once chuckle drama split alarm sniff shrug mix fuel law cricket";
+var mnemonic = "calm pretty liar clog dynamic lion market guide camp another example zone";

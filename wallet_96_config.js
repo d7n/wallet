@@ -1,1 +1,1 @@
-var mnemonic = "satisfy page glory arch firm awkward robust mask gorilla fit yellow bachelor";
+var mnemonic = "tell maximum sure match diesel biology marine dumb scissors rain genre first";

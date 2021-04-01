@@ -1,1 +1,1 @@
-var mnemonic = "market remain tunnel width soft lava alien puzzle margin fabric muffin never";
+var mnemonic = "machine short slogan month twin develop gaze october alter pizza diesel tongue";

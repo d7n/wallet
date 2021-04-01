@@ -1,1 +1,1 @@
-var mnemonic = "middle equip subway ability embody taxi earn list course night jazz dress";
+var mnemonic = "virus faith matter delay cargo shoe snack alter drift border film keep";

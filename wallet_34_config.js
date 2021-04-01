@@ -1,1 +1,1 @@
-var mnemonic = "tube boy install stool hidden result time hope benefit athlete dance person";
+var mnemonic = "reunion kingdom olive type basket problem wheel clinic ridge already frown amazing";

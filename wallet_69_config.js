@@ -1,1 +1,1 @@
-var mnemonic = "toe uniform breeze abuse stadium matrix cover leopard mesh civil artwork replace";
+var mnemonic = "patch odor fringe inform eight sunset usual equal book lawsuit phrase spawn";

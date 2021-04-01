@@ -1,1 +1,1 @@
-var mnemonic = "congress egg hybrid purpose review boring thank tennis moral topple punch any";
+var mnemonic = "symptom luxury poet august thumb thought poverty whale wild horse immune luggage";

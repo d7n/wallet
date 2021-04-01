@@ -1,1 +1,1 @@
-var mnemonic = "harbor two omit swap expose mirror arm bike bacon warrior child then";
+var mnemonic = "trash upon element digital wheat guitar reward ginger select knife exit short";

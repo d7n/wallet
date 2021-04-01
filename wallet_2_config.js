@@ -1,1 +1,1 @@
-var mnemonic = "state online original core cluster skate food treat allow expire huge credit";
+var mnemonic = "remind dish universe borrow domain cliff enjoy mule glare quiz primary width";

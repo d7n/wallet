@@ -1,1 +1,1 @@
-var mnemonic = "trim wave hazard diagram grant spoil deputy wear brave wisdom hamster favorite";
+var mnemonic = "unveil chair rebel square goose soul badge rather security census miss young";

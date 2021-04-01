@@ -1,1 +1,1 @@
-var mnemonic = "snow rhythm clock donkey peanut color sudden dirt desk return system oppose";
+var mnemonic = "renew arrest garlic stove rent diagram truly trend person arrow city drive";

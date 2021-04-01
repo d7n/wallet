@@ -1,1 +1,1 @@
-var mnemonic = "long belt hammer ridge project stone thank daughter silent apology gasp bike";
+var mnemonic = "blood push struggle verify direct razor easy give pulp shuffle humble street";

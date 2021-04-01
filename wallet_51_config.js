@@ -1,1 +1,1 @@
-var mnemonic = "birth apple federal danger virus control short man liquid age perfect dutch";
+var mnemonic = "push gun dash burst heavy uncle pitch yellow grain express category life";

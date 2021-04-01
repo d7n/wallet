@@ -1,1 +1,1 @@
-var mnemonic = "early slide lift add leader blanket clutch glory walnut absurd absent wheat";
+var mnemonic = "symbol despair artist unit stomach sugar split rural invite cube two hood";

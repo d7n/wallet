@@ -1,1 +1,1 @@
-var mnemonic = "maximum fashion pig inner attack buddy admit fault use visit stick insect";
+var mnemonic = "cup next ceiling chunk appear ready lizard happy symptom upper mention sight";

@@ -1,1 +1,1 @@
-var mnemonic = "exit popular account amateur gorilla choice regular this opera bonus notice flee";
+var mnemonic = "pepper local pink cushion business between describe hard dose loyal screen moment";

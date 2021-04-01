@@ -1,1 +1,1 @@
-var mnemonic = "immune thrive bless degree tumble mention toss kite thank ride wasp debris";
+var mnemonic = "chicken concert blanket author flock reveal patrol soup quit office lab usual";

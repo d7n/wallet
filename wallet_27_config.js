@@ -1,1 +1,1 @@
-var mnemonic = "kitten gather dentist exchange outside deny tribe taxi exact helmet mix brush";
+var mnemonic = "version shrimp sign love agent artwork clutch ranch gallery silk twelve enable";

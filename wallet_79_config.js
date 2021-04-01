@@ -1,1 +1,1 @@
-var mnemonic = "zebra cat romance play assist crew force cheap deliver twist snap glass";
+var mnemonic = "include major there salt coral luxury wall wear envelope naive turtle paddle";

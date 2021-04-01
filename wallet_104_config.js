@@ -1,1 +1,1 @@
-var mnemonic = "fit total frequent track paddle chest group reason alarm audit midnight pizza";
+var mnemonic = "hazard record rocket scare erupt kitchen identify special bachelor aspect skull better";

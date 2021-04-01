@@ -1,1 +1,1 @@
-var mnemonic = "bring favorite lunar chicken humor print blouse wire swamp stool popular pilot";
+var mnemonic = "paper tiger legend valley pumpkin short scheme suit hope infant stuff brain";

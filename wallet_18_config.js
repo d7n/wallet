@@ -1,1 +1,1 @@
-var mnemonic = "ribbon argue present scene disagree chimney chuckle voice reunion average group connect";
+var mnemonic = "flat gentle kite shy license people cruise abuse fever sadness leopard true";

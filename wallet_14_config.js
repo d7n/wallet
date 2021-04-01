@@ -1,1 +1,1 @@
-var mnemonic = "problem cigar good original also opinion crouch panic float vanish pulp news";
+var mnemonic = "price option powder poverty clown message near chimney note despair hobby bronze";

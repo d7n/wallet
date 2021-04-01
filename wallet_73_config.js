@@ -1,1 +1,1 @@
-var mnemonic = "crowd gun gun endless wheel bid indicate exclude reopen tube bomb mesh";
+var mnemonic = "stairs cactus isolate trust clean stereo peasant alert pact slab unknown gloom";

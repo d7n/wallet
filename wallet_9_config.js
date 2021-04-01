@@ -1,1 +1,1 @@
-var mnemonic = "mixture cactus link material gauge bread screen educate cry enforce devote behave";
+var mnemonic = "ability able art way whisper disorder audit citizen mutual ship input custom";

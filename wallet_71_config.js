@@ -1,1 +1,1 @@
-var mnemonic = "soft enemy obtain elevator hammer twenty kitchen leopard token match ankle pony";
+var mnemonic = "ice monkey rebuild name immune slender that smooth picnic rough rally high";

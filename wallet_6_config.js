@@ -1,1 +1,1 @@
-var mnemonic = "hen expose fault undo crunch trumpet strike way green boy always loan";
+var mnemonic = "filter table debris tonight fatal try upon that zone grape suffer cliff";

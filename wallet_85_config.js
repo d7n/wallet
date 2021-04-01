@@ -1,1 +1,1 @@
-var mnemonic = "near wedding motion vital mammal winner waste wood sugar tube tuition brother";
+var mnemonic = "clarify auto hub gas cushion squeeze upset attack secret dilemma puppy destroy";

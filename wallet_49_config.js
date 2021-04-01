@@ -1,1 +1,1 @@
-var mnemonic = "emotion mix sick strike top regular tray vivid chat clump morning fault";
+var mnemonic = "pig copper blood easy vicious army hammer dilemma zone damp tissue spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "report radio fringe pond dust current sunset erase surprise pattern wagon please";
+var mnemonic = "quiz autumn sing subway symptom obtain twist lamp can armed tape soft";

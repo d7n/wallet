@@ -1,1 +1,1 @@
-var mnemonic = "toddler shine luggage team pluck soccer advance wrist height accident shoulder lunar";
+var mnemonic = "razor eagle armed eye latin old indicate dinosaur cargo menu gain favorite";

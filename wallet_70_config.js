@@ -1,1 +1,1 @@
-var mnemonic = "gun fantasy before fresh decide chat cable social spare mean slight join";
+var mnemonic = "will flight reopen sight calm country proof organ choose choose brain know";

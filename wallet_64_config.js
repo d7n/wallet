@@ -1,1 +1,1 @@
-var mnemonic = "plug pull dentist crane bargain brick often call useful pyramid federal hurdle";
+var mnemonic = "program million park rally family fall prevent cancel evoke coast will genius";

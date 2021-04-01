@@ -1,1 +1,1 @@
-var mnemonic = "dirt inquiry squeeze biology breeze wheel tree dentist snow ranch stuff hammer";
+var mnemonic = "pluck market rich brush asthma actual virtual weasel own sea casino denial";

@@ -1,1 +1,1 @@
-var mnemonic = "silly stone blanket sea onion rural imitate great aspect chef neglect catch";
+var mnemonic = "note clever dinosaur elevator siren royal law destroy dash draft hello gain";

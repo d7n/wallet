@@ -1,1 +1,1 @@
-var mnemonic = "satoshi city dawn chief lawsuit opinion cheap boost acoustic swim denial spend";
+var mnemonic = "develop ribbon brown glove attitude draft horse coast mad payment afford episode";

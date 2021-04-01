@@ -1,1 +1,1 @@
-var mnemonic = "jazz marine dust select often foam project dawn melody harvest require concert";
+var mnemonic = "three lesson future voyage slot arrive tube satoshi clinic fun rain regret";

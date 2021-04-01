@@ -1,1 +1,1 @@
-var mnemonic = "hawk tilt pet build small chat team earth awesome produce soup better";
+var mnemonic = "dinosaur horn school replace erosion squeeze fun cup output festival museum enact";

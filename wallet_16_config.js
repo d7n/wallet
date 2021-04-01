@@ -1,1 +1,1 @@
-var mnemonic = "soul lava there thumb waste lava illegal sibling know goose arrow layer";
+var mnemonic = "voyage entire hour card mind brass kiss verify cherry science dutch inject";

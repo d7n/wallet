@@ -1,1 +1,1 @@
-var mnemonic = "trim olive credit float bubble fiscal category sample throw govern explain dust";
+var mnemonic = "prevent foot super chef patient gloom tattoo hungry consider pigeon ill flat";

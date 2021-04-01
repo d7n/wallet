@@ -1,1 +1,1 @@
-var mnemonic = "neglect slender jacket truly maze drill twist smile human eye require ostrich";
+var mnemonic = "kind together situate marine fitness apple forward donkey cry corn couple sausage";

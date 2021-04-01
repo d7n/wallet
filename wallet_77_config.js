@@ -1,1 +1,1 @@
-var mnemonic = "water friend tilt moon awkward blouse filter marine exact spice ridge season";
+var mnemonic = "rug celery galaxy fuel armor air sausage pulse cruise holiday rude flush";

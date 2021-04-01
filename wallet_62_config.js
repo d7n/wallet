@@ -1,1 +1,1 @@
-var mnemonic = "prepare name ceiling final wall tobacco stay tomorrow just faith base swim";
+var mnemonic = "exact airport update panda torch car way car cute matter general dragon";

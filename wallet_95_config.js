@@ -1,1 +1,1 @@
-var mnemonic = "sign purity panel affair focus clutch allow aunt pill junk cancel equip";
+var mnemonic = "library upgrade file anxiety slim hair walk announce infant turtle digital acquire";

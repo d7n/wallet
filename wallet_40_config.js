@@ -1,1 +1,1 @@
-var mnemonic = "wrestle program regular nothing season parrot slam genuine assault physical render sort";
+var mnemonic = "load pause spare rich good draft wagon off ball excuse rib explain";

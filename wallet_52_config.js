@@ -1,1 +1,1 @@
-var mnemonic = "island jump custom push vivid helmet magnet trend glance build slight fury";
+var mnemonic = "blade suit library speak snack hidden escape know identify dinosaur siren snap";

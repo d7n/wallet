@@ -1,1 +1,1 @@
-var mnemonic = "trial peanut door vessel know sign dinner harsh surface pig fix attitude";
+var mnemonic = "cream woman engage away zoo plastic annual ginger badge tomorrow need lyrics";

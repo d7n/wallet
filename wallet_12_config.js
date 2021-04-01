@@ -1,1 +1,1 @@
-var mnemonic = "process sunset memory name rough burst path cross hockey electric picture clog";
+var mnemonic = "shrimp valve magnet knife solar sorry fetch comfort shrug tank junk voyage";

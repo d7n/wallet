@@ -1,1 +1,1 @@
-var mnemonic = "hold sunset mango clever chunk cruise print among gain door input ahead";
+var mnemonic = "sibling velvet swamp permit tomato tortoise neck steak water network annual donkey";

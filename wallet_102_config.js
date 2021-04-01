@@ -1,1 +1,1 @@
-var mnemonic = "furnace pipe famous garden diesel beef near shadow will promote insane daring";
+var mnemonic = "choose brief leg steak train october clutch response cute resource success nothing";

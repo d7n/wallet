@@ -1,1 +1,1 @@
-var mnemonic = "draft bring rigid reduce inner bunker seat baby gold cupboard section lunch";
+var mnemonic = "humble snap huge primary gravity hungry bone maid wood jacket summer announce";

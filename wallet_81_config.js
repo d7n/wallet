@@ -1,1 +1,1 @@
-var mnemonic = "glare rent finish accident rather real marriage muscle design sail crystal unique";
+var mnemonic = "bonus stay body call innocent soap clean car buzz hood gown olympic";

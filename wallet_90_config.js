@@ -1,1 +1,1 @@
-var mnemonic = "era relax unaware guitar spell rescue tissue view search siren soap grief";
+var mnemonic = "coin attitude maximum kitchen quiz garbage manual usage clump trim auction travel";

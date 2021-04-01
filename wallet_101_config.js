@@ -1,1 +1,1 @@
-var mnemonic = "ostrich soccer tribe vendor option raw parent fancy grass best reduce market";
+var mnemonic = "assist run alone wear clerk away spend settle slot velvet shrug cycle";

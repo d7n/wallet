@@ -1,1 +1,1 @@
-var mnemonic = "common net clean gasp once maple clog inside injury basket awful pistol";
+var mnemonic = "title junk hazard rookie lock fiscal account animal wet rule endless trim";

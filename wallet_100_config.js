@@ -1,1 +1,1 @@
-var mnemonic = "run rug all seek december height junk young material guess job welcome";
+var mnemonic = "upper fame struggle above zero private faculty melt fog joy original color";

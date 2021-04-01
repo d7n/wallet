@@ -1,1 +1,1 @@
-var mnemonic = "robust tribe student normal fit loan tree sentence abstract faculty nurse supply";
+var mnemonic = "midnight refuse access trial improve gap police step private jelly three gloom";

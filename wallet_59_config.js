@@ -1,1 +1,1 @@
-var mnemonic = "smart wasp stamp rapid neither vacant cancel allow student risk sibling dice";
+var mnemonic = "mass valley farm elbow program okay spice three dog bounce switch animal";

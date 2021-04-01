@@ -1,1 +1,1 @@
-var mnemonic = "father audit average jar turkey tennis reopen animal wife target funny rebuild";
+var mnemonic = "water scene spare guess civil boss patch hurt knee people near fall";

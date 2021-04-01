@@ -1,1 +1,1 @@
-var mnemonic = "dynamic october rain bike fabric legend blossom defense quote puppy vehicle ranch";
+var mnemonic = "dutch grain island write mandate burden cute snack keep test scout intact";

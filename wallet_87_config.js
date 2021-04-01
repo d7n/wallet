@@ -1,1 +1,1 @@
-var mnemonic = "enroll when moment clock habit place warm total leader weasel journey between";
+var mnemonic = "brain distance kind link fun kid dynamic valid tenant memory solution oyster";

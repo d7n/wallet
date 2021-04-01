@@ -1,1 +1,1 @@
-var mnemonic = "sense wrap already level area quit zero matrix scene turn melody eye";
+var mnemonic = "envelope alter rough supreme example short family mad clock stuff wedding mom";

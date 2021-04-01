@@ -1,1 +1,1 @@
-var mnemonic = "design like silver evidence panda miss cash phone glue cloud vote expand";
+var mnemonic = "young exit easy discover adjust expose lesson actual vibrant defense fever raise";

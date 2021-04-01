@@ -1,1 +1,1 @@
-var mnemonic = "become method abandon tuna peace vital exhibit bracket odor wire cactus script";
+var mnemonic = "rack exist equip hungry math proof announce smart pyramid street sausage thing";

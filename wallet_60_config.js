@@ -1,1 +1,1 @@
-var mnemonic = "trip govern bottom ginger retreat nerve domain reopen aisle board scatter rapid";
+var mnemonic = "arrange cloud melody chalk fitness tomato moon flee egg oppose siege wall";
