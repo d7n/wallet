@@ -1,1 +1,1 @@
-var mnemonic = "aunt resource fat usage deposit wise buyer sustain public warrior ozone history";
+var mnemonic = "april know uncover network island usage desert aerobic remember fat find say";

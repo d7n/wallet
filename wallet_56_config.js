@@ -1,1 +1,1 @@
-var mnemonic = "fatigue token old wide boat flat identify muffin come tool strong elder";
+var mnemonic = "inch junior alone notice swarm seven fix trade unlock wealth peace purpose";

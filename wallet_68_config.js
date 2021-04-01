@@ -1,1 +1,1 @@
-var mnemonic = "slush total lift leg lift wear pigeon maid output fresh topple alcohol";
+var mnemonic = "steel glance immense rebel hard prison cattle actor now resemble then inspire";

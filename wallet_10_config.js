@@ -1,1 +1,1 @@
-var mnemonic = "gloom bicycle repair walnut chronic budget question device trial few mention steel";
+var mnemonic = "chaos vessel bring grant bone any edge evolve because inside broccoli car";

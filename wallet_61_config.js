@@ -1,1 +1,1 @@
-var mnemonic = "south account laptop world know torch shoe cactus used extend piano pole";
+var mnemonic = "unhappy consider size seed sudden remind valve can opera glad index return";

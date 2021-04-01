@@ -1,1 +1,1 @@
-var mnemonic = "frozen initial genre opinion tobacco eternal vessel key affair knock remind will";
+var mnemonic = "breeze salon hard dentist save plunge kiss split fan frost party celery";

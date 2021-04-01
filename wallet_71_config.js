@@ -1,1 +1,1 @@
-var mnemonic = "erupt inhale blanket intact uniform senior local three plastic curtain shift sponsor";
+var mnemonic = "couple enroll badge nothing lock pigeon stand reflect soccer six arctic dog";

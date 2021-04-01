@@ -1,1 +1,1 @@
-var mnemonic = "mom voyage stool mirror raccoon sort inquiry valve bulb merit hint rabbit";
+var mnemonic = "post develop staff tongue east camera price during across inside cream social";

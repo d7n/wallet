@@ -1,1 +1,1 @@
-var mnemonic = "solar basket mask famous palace soap maid clock shaft protect veteran cream";
+var mnemonic = "siege post truly fetch fan arrange junk canyon seminar report crane glimpse";

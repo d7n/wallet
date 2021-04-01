@@ -1,1 +1,1 @@
-var mnemonic = "timber mountain amateur ethics insane ethics cat pass morning trim dream kick";
+var mnemonic = "turtle raw venture tiger blush lesson veteran have evolve muffin fix sing";

@@ -1,1 +1,1 @@
-var mnemonic = "radio advice crater keep ski draft blanket index album vapor submit choice";
+var mnemonic = "jeans slim vague bulb cotton shrug sibling chronic breeze disagree detect song";

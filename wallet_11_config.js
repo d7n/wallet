@@ -1,1 +1,1 @@
-var mnemonic = "only remain piano film such display panda ability entire cross into elite";
+var mnemonic = "spell vendor curious rack final ramp soon normal cloth bulb chronic price";

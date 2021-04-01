@@ -1,1 +1,1 @@
-var mnemonic = "speed shadow mammal fault comic boil nominee annual garlic plate series ship";
+var mnemonic = "behind silly popular average check wait tennis edit hollow easily tool session";

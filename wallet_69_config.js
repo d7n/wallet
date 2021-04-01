@@ -1,1 +1,1 @@
-var mnemonic = "gas bottom acoustic protect seven tornado camp bullet select enact tragic purpose";
+var mnemonic = "crowd globe glare taxi spare goddess company pudding artist beef swarm dice";

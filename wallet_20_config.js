@@ -1,1 +1,1 @@
-var mnemonic = "potato punch topple bring crop scale sport sad quantum equip organ blossom";
+var mnemonic = "hill ignore remain mystery index lab melody glow first boil barely buyer";

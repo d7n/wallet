@@ -1,1 +1,1 @@
-var mnemonic = "hazard reopen lion regret gentle dinosaur moment then slice trip purpose awful";
+var mnemonic = "spell tomato bridge beyond border bunker auction nephew alter guitar rapid staff";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry coconut hazard toilet few month cannon across flag devote blanket patch";
+var mnemonic = "prize emotion person become cliff submit lion fork imitate equal symbol code";

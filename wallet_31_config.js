@@ -1,1 +1,1 @@
-var mnemonic = "renew decline life nice maple jaguar south alien consider pupil knife vintage";
+var mnemonic = "cream warrior soul make like much between basket scale glue jaguar identify";

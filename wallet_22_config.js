@@ -1,1 +1,1 @@
-var mnemonic = "fall area unlock machine office knock piano pelican hat stadium suspect creek";
+var mnemonic = "jungle carry cup wrap confirm rain photo pilot join obey slender clean";

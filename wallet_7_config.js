@@ -1,1 +1,1 @@
-var mnemonic = "lumber still level noble noise govern pole couch advance display crucial fluid";
+var mnemonic = "sock tent plug interest lend spice gentle toy audit faculty wrong ecology";

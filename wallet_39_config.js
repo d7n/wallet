@@ -1,1 +1,1 @@
-var mnemonic = "flip corn gold seed vessel wrong feel basic amused loud spring game";
+var mnemonic = "cash join school harsh task bottom habit term surface dish increase coin";

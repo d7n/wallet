@@ -1,1 +1,1 @@
-var mnemonic = "design habit lemon school lake expose hawk knock step peanut concert battle";
+var mnemonic = "rain wet anxiety evil involve battle useful drip pattern crawl version spray";

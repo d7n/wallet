@@ -1,1 +1,1 @@
-var mnemonic = "loud ski wolf hospital receive alien return visit moral pioneer panda close";
+var mnemonic = "soul wave verify orange error bread rare awful double ticket castle movie";

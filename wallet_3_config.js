@@ -1,1 +1,1 @@
-var mnemonic = "skull quick innocent coin gold future lawn divert brisk elephant thumb seminar";
+var mnemonic = "spin skill soccer only mistake prevent farm meat canvas tragic duck kiss";

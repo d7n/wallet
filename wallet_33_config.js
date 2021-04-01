@@ -1,1 +1,1 @@
-var mnemonic = "reject insect danger furnace decrease wear blind forest flame base detect frog";
+var mnemonic = "erase federal flower lucky upset medal arrive swap jar gallery panic alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "drum marine grief panic double hole hammer wink trash material shed tomorrow";
+var mnemonic = "section tool mosquito axis twice supply gasp notice cargo fantasy enjoy joke";

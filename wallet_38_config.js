@@ -1,1 +1,1 @@
-var mnemonic = "agent age sand select build fiction myself blur smart fruit certain fit";
+var mnemonic = "aim repeat mandate example truth update scorpion rose face coach screen prevent";

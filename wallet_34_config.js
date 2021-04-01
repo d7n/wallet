@@ -1,1 +1,1 @@
-var mnemonic = "gentle actor usual husband mansion spirit wrestle antique mesh laptop day rose";
+var mnemonic = "cement focus picture hedgehog labor antenna jeans yellow clever expose intact anxiety";

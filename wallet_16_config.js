@@ -1,1 +1,1 @@
-var mnemonic = "aim injury cloth pear shield gorilla kangaroo bulb high ten echo armor";
+var mnemonic = "vehicle galaxy game become jacket suspect opinion wheat elder omit diamond bone";

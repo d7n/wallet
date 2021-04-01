@@ -1,1 +1,1 @@
-var mnemonic = "cream eyebrow minimum explain priority gentle earn evidence label virtual position desk";
+var mnemonic = "turtle fancy upgrade nice viable attend agree path wool random stone junior";

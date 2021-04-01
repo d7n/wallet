@@ -1,1 +1,1 @@
-var mnemonic = "hope pilot film rocket fine neck crystal father neutral sniff despair purse";
+var mnemonic = "label stairs truth lobster purity awful group sketch garbage surge photo wheel";

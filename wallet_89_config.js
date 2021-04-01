@@ -1,1 +1,1 @@
-var mnemonic = "just winter novel clap creek define junk guitar there wheat aunt illegal";
+var mnemonic = "hamster diesel symptom gold easy teach choose mixed enroll ice print rigid";

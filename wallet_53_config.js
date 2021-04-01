@@ -1,1 +1,1 @@
-var mnemonic = "silk grape pair youth sword write sample museum blouse rhythm demand picture";
+var mnemonic = "tooth moral ball chief square rescue culture laptop debris pave garlic bachelor";

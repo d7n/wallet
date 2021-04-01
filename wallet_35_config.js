@@ -1,1 +1,1 @@
-var mnemonic = "clap above punch muscle mountain fringe food dress coach clown pledge dinosaur";
+var mnemonic = "aerobic denial hunt air test crunch sketch risk sentence travel dust juice";

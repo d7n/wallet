@@ -1,1 +1,1 @@
-var mnemonic = "firm always auction inject dash stone cabin letter coast tortoise whale odor";
+var mnemonic = "thrive rhythm explain cruise brass cabin banana throw someone cup sign purse";

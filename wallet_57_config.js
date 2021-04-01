@@ -1,1 +1,1 @@
-var mnemonic = "price coach visual glide scissors steel volume next sort orient filter credit";
+var mnemonic = "degree arrow picnic sorry space bullet inhale runway reveal start crash crunch";

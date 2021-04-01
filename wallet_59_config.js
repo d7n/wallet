@@ -1,1 +1,1 @@
-var mnemonic = "bright receive lend fog road friend affair knife process rule work caught";
+var mnemonic = "avocado box unit forum brave essay dice solution pluck boss gym social";

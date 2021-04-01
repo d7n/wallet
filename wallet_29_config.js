@@ -1,1 +1,1 @@
-var mnemonic = "when reveal vault initial decade debris family wing into boy knee object";
+var mnemonic = "danger sadness transfer liberty glow suffer lecture stick omit base focus script";

@@ -1,1 +1,1 @@
-var mnemonic = "trade skirt chalk pull behave open pudding minor such debate pitch amateur";
+var mnemonic = "initial couple flower drill edge salad skirt injury ahead address agent gauge";

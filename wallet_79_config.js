@@ -1,1 +1,1 @@
-var mnemonic = "float airport arrest rude armor ski question okay old can genius cousin";
+var mnemonic = "flash toss blush erosion fever rigid bundle wolf area focus edit head";

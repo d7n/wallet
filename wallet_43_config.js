@@ -1,1 +1,1 @@
-var mnemonic = "sustain emotion about shuffle lemon romance phrase country equal loop drill flee";
+var mnemonic = "champion expose buffalo link label gown deputy dolphin clump curve dune group";

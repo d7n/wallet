@@ -1,1 +1,1 @@
-var mnemonic = "enlist album cup topic verb nerve annual tomato bus conduct cross rival";
+var mnemonic = "bonus scale treat obscure either fly list wrong sister fortune express elegant";

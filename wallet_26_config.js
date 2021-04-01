@@ -1,1 +1,1 @@
-var mnemonic = "autumn open tennis biology ghost idea art guilt rotate crack fever stairs";
+var mnemonic = "crowd robust foil camera nut sad rival famous bitter scout student bottom";

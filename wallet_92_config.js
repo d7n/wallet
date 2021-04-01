@@ -1,1 +1,1 @@
-var mnemonic = "tiger topple gossip father raven shield mansion one curtain diet protect true";
+var mnemonic = "twin dolphin supreme unusual myth program thing collect lonely crater session chuckle";

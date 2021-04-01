@@ -1,1 +1,1 @@
-var mnemonic = "vintage piece spawn baby coyote follow adjust sorry pattern recycle canoe friend";
+var mnemonic = "trust chuckle weasel possible stay crowd hole bounce slab diesel differ believe";

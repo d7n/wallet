@@ -1,1 +1,1 @@
-var mnemonic = "opera small wave boss spoon intact mercy absurd final drill shoulder shoulder";
+var mnemonic = "someone hurry rain unfair ticket dice sadness actual home machine clump valve";

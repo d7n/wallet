@@ -1,1 +1,1 @@
-var mnemonic = "side rich height shoe couch token empty wedding invite maid buzz spend";
+var mnemonic = "typical party brave price symptom base breeze secret material shallow input clean";

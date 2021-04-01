@@ -1,1 +1,1 @@
-var mnemonic = "milk whisper invite useful gift faint pistol float scrub police today speak";
+var mnemonic = "pink rely tube benefit eyebrow reform atom riot motion layer dose whale";

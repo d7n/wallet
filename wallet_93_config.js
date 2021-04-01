@@ -1,1 +1,1 @@
-var mnemonic = "act beef peanut climb grit way upon post crush emerge inherit grape";
+var mnemonic = "dwarf fantasy federal display attack flip shallow kitchen sword disease choose fold";

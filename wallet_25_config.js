@@ -1,1 +1,1 @@
-var mnemonic = "sign glad social industry math motor water arrow adjust vendor robot cable";
+var mnemonic = "chicken uncle fork south sort unveil abandon depart bread girl cool dash";

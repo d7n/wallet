@@ -1,1 +1,1 @@
-var mnemonic = "maze dragon foster hand whip inmate crucial stomach once auto practice twist";
+var mnemonic = "flame future flee kitten matrix penalty matter budget depth best since heart";

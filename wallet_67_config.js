@@ -1,1 +1,1 @@
-var mnemonic = "kingdom draw daring party hello buyer garage position stove family salmon erode";
+var mnemonic = "basket best kidney blouse flame manual latin about figure gather claim wage";

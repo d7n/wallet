@@ -1,1 +1,1 @@
-var mnemonic = "illness senior render success crash hand laundry topple twin aisle fruit leave";
+var mnemonic = "obtain heavy reward access sort wreck voyage slim blouse order theory kiss";

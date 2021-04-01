@@ -1,1 +1,1 @@
-var mnemonic = "tooth immune stick evolve glide genius online toe useful course slush alter";
+var mnemonic = "bitter daughter renew wool toilet screen album cushion another repeat expect list";

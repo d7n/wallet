@@ -1,1 +1,1 @@
-var mnemonic = "much remain mosquito invest useful involve garden vibrant galaxy sell hamster portion";
+var mnemonic = "infant easy provide duck wedding unknown cannon noodle orbit wedding phrase damp";

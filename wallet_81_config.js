@@ -1,1 +1,1 @@
-var mnemonic = "proof ginger goose step kiss water puzzle demise boring blossom sniff wall";
+var mnemonic = "shrimp safe riot dragon either daughter deal note output cry morning solution";

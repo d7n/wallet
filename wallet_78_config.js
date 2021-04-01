@@ -1,1 +1,1 @@
-var mnemonic = "potato team safe wine aspect weekend tennis fire reward insect apology outside";
+var mnemonic = "crowd lizard impact lawsuit modify chat melt method isolate poet echo furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "risk install stuff margin trap regular multiply royal enrich assault conduct spare";
+var mnemonic = "attitude animal shove broom pumpkin party over powder okay harvest bright erase";

@@ -1,1 +1,1 @@
-var mnemonic = "advance vessel depend response arena possible expose witness intact immense mention tomato";
+var mnemonic = "happy ritual equip tumble private silent match tumble velvet pair innocent frown";

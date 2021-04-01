@@ -1,1 +1,1 @@
-var mnemonic = "flush fancy ladder viable drop banana various clutch trust ignore undo grab";
+var mnemonic = "spy achieve wedding road brain banana rain element loop learn connect aunt";

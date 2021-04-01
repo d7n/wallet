@@ -1,1 +1,1 @@
-var mnemonic = "jazz cigar clog option brand empower chat evil dinner urban mouse eager";
+var mnemonic = "quarter clog elegant custom laugh shock explain better electric egg parent promote";

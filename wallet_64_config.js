@@ -1,1 +1,1 @@
-var mnemonic = "smoke panda flush theory position roast north mandate crater quality churn found";
+var mnemonic = "concert chef day endless elite steel weird inform deny rely midnight science";

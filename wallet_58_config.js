@@ -1,1 +1,1 @@
-var mnemonic = "predict divert usage seek horse carry flat source invest throw pudding stem";
+var mnemonic = "mixture club cross twelve recycle opera asthma until corn pear chronic mechanic";

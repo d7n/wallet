@@ -1,1 +1,1 @@
-var mnemonic = "about mango text play response once side solar bicycle peace conduct sleep";
+var mnemonic = "amused moral kitten magic few distance wasp toast margin demise govern coach";

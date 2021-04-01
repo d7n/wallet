@@ -1,1 +1,1 @@
-var mnemonic = "spell brief mimic borrow place ripple happy stage embrace right one improve";
+var mnemonic = "exit hungry latin control guitar swear shy banana amount grape barrel jewel";

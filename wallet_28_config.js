@@ -1,1 +1,1 @@
-var mnemonic = "risk twenty exclude feel empower review boil protect canvas gather nephew glow";
+var mnemonic = "run profit key exist giant adjust camera ready infant opinion hazard fold";

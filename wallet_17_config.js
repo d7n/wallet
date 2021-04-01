@@ -1,1 +1,1 @@
-var mnemonic = "goat toilet wet barrel mind afford unveil chapter seven title donate unique";
+var mnemonic = "impulse pause explain system alley shaft upper seat usage arena tower quarter";

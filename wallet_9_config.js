@@ -1,1 +1,1 @@
-var mnemonic = "toilet foam silk maple regret visit pumpkin child ivory strong squeeze trim";
+var mnemonic = "begin idle angle tumble tank undo surprise gold thing fade salt lend";

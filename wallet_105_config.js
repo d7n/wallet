@@ -1,1 +1,1 @@
-var mnemonic = "dolphin fatal visual save embark palm child case mix chalk enjoy birth";
+var mnemonic = "act release alone unveil half pencil soap town solution useful only glove";

@@ -1,1 +1,1 @@
-var mnemonic = "alter donor shed donor eye stable glad catch include town brain aspect";
+var mnemonic = "garment debris crystal search kitchen loyal vacuum buyer burden private inside waste";

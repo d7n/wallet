@@ -1,1 +1,1 @@
-var mnemonic = "gym dry occur grain decorate spell toddler roast fold flip usage virus";
+var mnemonic = "beach echo immense improve naive crater spray mean describe hint angry rule";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon helmet car robot similar damp vocal brisk hurt human essence tray";
+var mnemonic = "typical away boy into apology logic trim decline pool drastic phone super";

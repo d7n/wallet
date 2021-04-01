@@ -1,1 +1,1 @@
-var mnemonic = "goddess cover flower remain dragon bid final chuckle act collect online trust";
+var mnemonic = "napkin custom mobile caught village city cricket swear private lottery butter piece";

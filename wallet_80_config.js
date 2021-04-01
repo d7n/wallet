@@ -1,1 +1,1 @@
-var mnemonic = "runway short lion fault spoil best depart coin dizzy slight any gauge";
+var mnemonic = "group auction helmet steel hand phrase actress popular miracle glue cute author";

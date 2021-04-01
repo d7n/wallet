@@ -1,1 +1,1 @@
-var mnemonic = "embody hammer detail test photo boy enemy enable ready knee regret car";
+var mnemonic = "lizard head joy wage hungry ring patient tiger all tumble prize boring";

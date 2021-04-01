@@ -1,1 +1,1 @@
-var mnemonic = "sadness live panic sure congress side hazard lock coast club naive guitar";
+var mnemonic = "liar eight fury seek job away boring patient satoshi egg motion mechanic";

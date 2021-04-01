@@ -1,1 +1,1 @@
-var mnemonic = "merge prepare alert almost share naive abstract into trade bright size mosquito";
+var mnemonic = "pony talent topic spike shop nice squeeze sun system interest identify rude";

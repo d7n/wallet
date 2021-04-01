@@ -1,1 +1,1 @@
-var mnemonic = "swallow biology february square supply distance party glare local cargo credit foil";
+var mnemonic = "father prison catch solid brief initial clip win close melody unique street";

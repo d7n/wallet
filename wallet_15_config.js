@@ -1,1 +1,1 @@
-var mnemonic = "certain tiny real essence great chest home fan blue boat silk nation";
+var mnemonic = "stock cousin green advance tell twin dizzy hour peanut play saddle voice";

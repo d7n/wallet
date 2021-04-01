@@ -1,1 +1,1 @@
-var mnemonic = "hip labor hood cluster history update similar protect lawsuit crash call enroll";
+var mnemonic = "all blanket nut inspire scout comic badge avocado evolve cotton enroll ranch";

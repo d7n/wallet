@@ -1,1 +1,1 @@
-var mnemonic = "fame engine pride public friend view choice already merit diesel spy lumber";
+var mnemonic = "essence wedding strike test sketch blouse wheat harbor peanut wire buddy vault";

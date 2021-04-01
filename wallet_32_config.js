@@ -1,1 +1,1 @@
-var mnemonic = "nothing garlic limb license hedgehog lend elephant liar sugar main ability neutral";
+var mnemonic = "gate shy seminar ill affair rose kingdom zoo toward crop other auto";

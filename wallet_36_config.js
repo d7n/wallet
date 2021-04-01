@@ -1,1 +1,1 @@
-var mnemonic = "dizzy admit item judge lumber equip produce human option vacuum canvas naive";
+var mnemonic = "online blouse repair stool flavor tooth dish renew echo gather famous globe";

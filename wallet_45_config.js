@@ -1,1 +1,1 @@
-var mnemonic = "joy client bike series student what trophy praise congress anger abandon culture";
+var mnemonic = "topic future wide forum bronze dizzy weird evolve nature brisk across second";

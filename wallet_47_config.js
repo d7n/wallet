@@ -1,1 +1,1 @@
-var mnemonic = "inside obtain whale mask occur long squeeze scare onion earth olympic ball";
+var mnemonic = "civil thumb pair step lemon wagon horse vanish leave make elephant useless";

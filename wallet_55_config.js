@@ -1,1 +1,1 @@
-var mnemonic = "man stove must puzzle shallow best return trim envelope voice interest gift";
+var mnemonic = "south noodle brain fat leopard latin author trigger final guide good purity";

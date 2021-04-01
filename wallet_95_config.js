@@ -1,1 +1,1 @@
-var mnemonic = "excess disagree level market exercise oppose toe material oven before produce saddle";
+var mnemonic = "common blame bless police will hobby blur drink boring civil search river";

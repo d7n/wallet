@@ -1,1 +1,1 @@
-var mnemonic = "run ability moral sad wealth cloth width curtain panda girl brush peanut";
+var mnemonic = "rice cancel photo they accident brand proud property forward proud material town";

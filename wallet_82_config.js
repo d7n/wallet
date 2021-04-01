@@ -1,1 +1,1 @@
-var mnemonic = "useless roast govern auction pilot behind tortoise devote bitter mixed purse pelican";
+var mnemonic = "payment airport load later ivory civil address cradle omit behind bleak chimney";

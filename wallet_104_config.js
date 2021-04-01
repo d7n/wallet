@@ -1,1 +1,1 @@
-var mnemonic = "enable gown invest scene decrease phone oyster depth effort couch beef ozone";
+var mnemonic = "use fine rate save fortune myself kite shield pulp text evolve assist";
