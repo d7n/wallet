@@ -1,1 +1,1 @@
-var mnemonic = "chicken gather jacket obtain real leisure drastic matter brush copy iron various";
+var mnemonic = "pull reflect donor client month snap bullet eight that glass bracket depend";

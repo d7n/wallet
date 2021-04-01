@@ -1,1 +1,1 @@
-var mnemonic = "close regular goose green tell adapt scorpion bargain use mom green repair";
+var mnemonic = "excuse tilt warfare student model rapid aunt dinner raccoon track joy warfare";

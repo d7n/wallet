@@ -1,1 +1,1 @@
-var mnemonic = "blame chronic ocean library empower atom affair chest armed ability cloth twist";
+var mnemonic = "section motion hip pond hawk cherry sad fee oppose steel shallow beef";

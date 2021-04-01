@@ -1,1 +1,1 @@
-var mnemonic = "cloud rely fury accident obvious jeans forest rare cat target father push";
+var mnemonic = "velvet knock circle slot split scorpion mercy usage left brother object will";

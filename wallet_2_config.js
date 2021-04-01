@@ -1,1 +1,1 @@
-var mnemonic = "tumble pencil expire element spare occur fatigue stumble pupil two donate farm";
+var mnemonic = "climb supply stone fox carry gown travel mask base juice defy use";

@@ -1,1 +1,1 @@
-var mnemonic = "space sketch target pizza pig task increase dilemma zero shove escape amused";
+var mnemonic = "science hen rapid ball hood soup reject icon crumble stand increase version";

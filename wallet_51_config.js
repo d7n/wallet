@@ -1,1 +1,1 @@
-var mnemonic = "fever cube rose blind organ wreck keep ivory mention print forum scatter";
+var mnemonic = "slush egg tissue weather curtain medal movie innocent spy scheme shine party";

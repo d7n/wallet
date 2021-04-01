@@ -1,1 +1,1 @@
-var mnemonic = "mean laugh inch slender trend flat where act tail buzz voice aware";
+var mnemonic = "arch enough kid sing fire claim ordinary winter surprise measure body ecology";

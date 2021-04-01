@@ -1,1 +1,1 @@
-var mnemonic = "runway lumber rare history enrich capable agree crash obey course veteran upgrade";
+var mnemonic = "agent unit area bullet lawsuit affair wasp year deposit income weird romance";

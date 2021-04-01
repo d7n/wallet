@@ -1,1 +1,1 @@
-var mnemonic = "open use aware develop project valley outer never fly city canoe enter";
+var mnemonic = "ring weather pony energy cargo human armed sport zebra slow month mushroom";

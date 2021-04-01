@@ -1,1 +1,1 @@
-var mnemonic = "combine mind first budget pear team forest hill degree spice aim donor";
+var mnemonic = "identify spy fortune depart sphere account carry put resource burden radio thing";

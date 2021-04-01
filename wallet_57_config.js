@@ -1,1 +1,1 @@
-var mnemonic = "candy polar talk talent smoke illegal response abstract jazz pride calm flush";
+var mnemonic = "humble angry unfair parent arch often usual width crouch off habit glove";

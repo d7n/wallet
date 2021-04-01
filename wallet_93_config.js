@@ -1,1 +1,1 @@
-var mnemonic = "sight excite gorilla shed vocal disagree sun always boss giant spy drastic";
+var mnemonic = "uncover laundry robust direct artefact perfect million service milk permit work gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "climb order choice giant method tilt couch shiver miss skirt mansion ketchup";
+var mnemonic = "slight nominee hurry pretty once table pet decline patient dance pull material";

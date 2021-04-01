@@ -1,1 +1,1 @@
-var mnemonic = "lunar spy tag embark cereal sting practice crazy switch butter code gadget";
+var mnemonic = "song quality boost furnace ocean offer claw crouch lake crawl only planet";

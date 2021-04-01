@@ -1,1 +1,1 @@
-var mnemonic = "gasp three easy famous cloud food float drastic vital child beauty crumble";
+var mnemonic = "label eternal afford stumble census amateur forward velvet vocal coyote winner nut";

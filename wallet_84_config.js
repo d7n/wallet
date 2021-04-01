@@ -1,1 +1,1 @@
-var mnemonic = "gorilla cinnamon purse forum worry latin obey torch ritual shock chuckle return";
+var mnemonic = "brief cigar earn poem metal torch sail immense tragic walnut razor phrase";

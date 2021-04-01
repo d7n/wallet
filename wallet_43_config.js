@@ -1,1 +1,1 @@
-var mnemonic = "floor valid torch ice bachelor mule envelope account unable zoo empty pledge";
+var mnemonic = "front actress enlist easy notable remain tongue few asset tip keen rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp feed job office adult fresh news diesel capital peanut candy bronze";
+var mnemonic = "bracket future alter float ring quality stuff awesome ice rug swing runway";

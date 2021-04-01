@@ -1,1 +1,1 @@
-var mnemonic = "lock weird disease glide scatter way bring practice ginger protect body depth";
+var mnemonic = "wrist choose apart birth frog because pelican palm food slight harvest swamp";

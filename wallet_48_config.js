@@ -1,1 +1,1 @@
-var mnemonic = "captain tiger prison silver dog meadow define ketchup track winner unique super";
+var mnemonic = "bus disagree harbor work dragon palace bike chuckle ridge fee lunch hard";

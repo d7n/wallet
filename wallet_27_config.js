@@ -1,1 +1,1 @@
-var mnemonic = "panther again provide possible assault asset child tube broom excess sheriff drastic";
+var mnemonic = "best diet nominee you afraid tag enhance stable reveal excuse jealous indicate";

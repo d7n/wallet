@@ -1,1 +1,1 @@
-var mnemonic = "wage verify scale shrimp since core twin price meat exotic combine until";
+var mnemonic = "cherry hour gravity core huge gentle uncle ask orange quote inject enlist";

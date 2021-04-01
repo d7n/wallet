@@ -1,1 +1,1 @@
-var mnemonic = "hard obey width hurry stamp return real member under client member blanket";
+var mnemonic = "cube artefact illegal gap icon bread kid ramp trust only exhibit black";

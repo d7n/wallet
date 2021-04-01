@@ -1,1 +1,1 @@
-var mnemonic = "tissue into frost soda ecology mirror chalk brave credit sphere guitar cost";
+var mnemonic = "castle crucial stay unfair reflect diamond setup neither recall fox final plug";

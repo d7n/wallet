@@ -1,1 +1,1 @@
-var mnemonic = "alter sad lab traffic warfare snack barrel afford lava nasty job robust";
+var mnemonic = "donate drastic spice camera choice custom grow divert analyst pudding humor weekend";

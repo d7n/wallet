@@ -1,1 +1,1 @@
-var mnemonic = "smile effort trip frost prison prefer ladder gorilla effort word amused crucial";
+var mnemonic = "brother advance aisle eager impulse six excess hawk doctor wrestle enjoy trick";

@@ -1,1 +1,1 @@
-var mnemonic = "nice rug couple dragon kiss coin lift exclude lab move later cage";
+var mnemonic = "basic vapor identify south feel menu airport mind illness second moral feature";

@@ -1,1 +1,1 @@
-var mnemonic = "entry connect seek catch jacket squirrel kiwi cruel pet tiny shine unit";
+var mnemonic = "blue toe total magnet give tourist wheat ugly stereo tennis health volume";

@@ -1,1 +1,1 @@
-var mnemonic = "day all grace color climb glass entire copy police whisper version suit";
+var mnemonic = "actress mention library wise shop buddy fury blade holiday cable peasant family";

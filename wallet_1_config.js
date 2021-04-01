@@ -1,1 +1,1 @@
-var mnemonic = "subway creek write banner guide rabbit dream law wink divorce smooth heavy";
+var mnemonic = "have asset tower tired reform accident salute wire act hollow clock modify";

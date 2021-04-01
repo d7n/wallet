@@ -1,1 +1,1 @@
-var mnemonic = "pledge erupt erode salad sadness major badge dash theory income case tree";
+var mnemonic = "baby wing tent edit finger coil broom crop lamp seat audit six";

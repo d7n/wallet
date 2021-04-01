@@ -1,1 +1,1 @@
-var mnemonic = "maximum stumble economy brother sudden mushroom garbage hero impose harsh time broom";
+var mnemonic = "pride home glide talent style slide powder machine require raise design taste";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch plastic spray habit old weasel slice ethics practice obey water harbor";
+var mnemonic = "bottom knee vapor turtle empty blouse bid wear lazy neutral grace yard";

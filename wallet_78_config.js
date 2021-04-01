@@ -1,1 +1,1 @@
-var mnemonic = "broccoli earth reduce essence toe claim bubble toddler impact riot lawn gate";
+var mnemonic = "better curtain omit absent knife gloom gloom loan cluster auction pizza stock";

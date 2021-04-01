@@ -1,1 +1,1 @@
-var mnemonic = "merge notable tank embrace liquid error music cabin clap alley phone transfer";
+var mnemonic = "frequent north inmate mean want boost dwarf annual update carpet feature tilt";

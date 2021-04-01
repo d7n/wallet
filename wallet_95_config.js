@@ -1,1 +1,1 @@
-var mnemonic = "path matrix purpose garment link carbon fun reflect insect process slide comfort";
+var mnemonic = "sunny reopen bike hole clinic afford another trust romance success lazy process";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra bean cruise captain abstract car saddle year elegant album remove occur";
+var mnemonic = "cheap pluck debris truth furnace lyrics brother wine divorce spawn embody lawsuit";

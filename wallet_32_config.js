@@ -1,1 +1,1 @@
-var mnemonic = "chalk people void tuna belt gravity report bread super actual pumpkin state";
+var mnemonic = "assist assist slide alter kit clock spare web thrive tiger praise brush";

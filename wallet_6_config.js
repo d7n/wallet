@@ -1,1 +1,1 @@
-var mnemonic = "twenty pelican keep oval guide prison six ski usage pony october trip";
+var mnemonic = "sniff blossom bleak law receive heavy shadow will frozen twenty divert stick";

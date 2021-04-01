@@ -1,1 +1,1 @@
-var mnemonic = "broom thumb join finish tent divide develop increase receive spend viable neglect";
+var mnemonic = "lecture almost off corn amused army private list love attack soldier nerve";

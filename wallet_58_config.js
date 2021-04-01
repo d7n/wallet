@@ -1,1 +1,1 @@
-var mnemonic = "retreat among fiscal wolf soup scan agent bind zone just dial uphold";
+var mnemonic = "shed stem jaguar chest play recycle tooth museum stage rice define cover";

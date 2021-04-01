@@ -1,1 +1,1 @@
-var mnemonic = "version paper list system speak merit flame regular excite city follow list";
+var mnemonic = "intact ball vault better nest rose example snack boost reveal embrace fit";

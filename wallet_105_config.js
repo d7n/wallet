@@ -1,1 +1,1 @@
-var mnemonic = "balcony cheap observe click worry badge easily vocal flee stadium lady labor";
+var mnemonic = "cable typical trust barrel member captain slogan park broccoli jazz clarify federal";

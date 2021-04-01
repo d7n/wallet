@@ -1,1 +1,1 @@
-var mnemonic = "skill deal one unique chase chef invest bulk rigid sponsor grain awful";
+var mnemonic = "leisure success post bomb embody fiction renew gorilla bundle guard pumpkin leisure";

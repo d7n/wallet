@@ -1,1 +1,1 @@
-var mnemonic = "shiver aspect order cycle width clean bomb goose rescue wise record cross";
+var mnemonic = "river idle symptom spider able august crater estate quit chronic during collect";

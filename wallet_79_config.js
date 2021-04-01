@@ -1,1 +1,1 @@
-var mnemonic = "foster spice aisle brave doctor century clump duty rent crush critic consider";
+var mnemonic = "moon digital small domain bachelor leaf face saddle scare fix hello coconut";

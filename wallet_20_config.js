@@ -1,1 +1,1 @@
-var mnemonic = "arena century very tornado matrix worry acoustic baby fish soap ignore scare";
+var mnemonic = "wife climb fitness useful fine festival october review usage vapor merge patrol";

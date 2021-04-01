@@ -1,1 +1,1 @@
-var mnemonic = "measure witness behave end heart evoke aisle popular ceiling quote because trim";
+var mnemonic = "virtual flame chuckle swap lava thing poet squirrel hip admit satisfy bicycle";

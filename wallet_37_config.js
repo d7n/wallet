@@ -1,1 +1,1 @@
-var mnemonic = "put table goat police winter claim hero news body laptop mimic desk";
+var mnemonic = "coach marble divorce tuition toilet core device author custom bubble loud isolate";

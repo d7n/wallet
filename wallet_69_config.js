@@ -1,1 +1,1 @@
-var mnemonic = "phrase fury document carry tide fame reflect capable shop memory chimney wide";
+var mnemonic = "add hazard suggest wild coffee speak auction slice praise nature fruit town";

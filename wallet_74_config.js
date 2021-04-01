@@ -1,1 +1,1 @@
-var mnemonic = "become prison toilet paper solution finish entire wear speak viable hungry vehicle";
+var mnemonic = "chronic cake skirt globe glimpse crisp critic wall regret private volume genius";

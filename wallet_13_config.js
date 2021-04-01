@@ -1,1 +1,1 @@
-var mnemonic = "label multiply tank glass bread relief display kite vehicle gasp bounce misery";
+var mnemonic = "shell toe dream shed pitch talk friend inform brain float cushion weasel";

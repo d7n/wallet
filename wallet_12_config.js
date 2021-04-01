@@ -1,1 +1,1 @@
-var mnemonic = "brown region husband found chuckle ankle umbrella below valley green flower noble";
+var mnemonic = "plastic engine spin february guard energy gather category airport duty light original";

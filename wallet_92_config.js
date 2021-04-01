@@ -1,1 +1,1 @@
-var mnemonic = "right scout ritual olive display few shoulder fetch convince fruit kiss talk";
+var mnemonic = "inside enroll horn swamp say guilt story green artist math reveal lounge";

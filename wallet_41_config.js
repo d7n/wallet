@@ -1,1 +1,1 @@
-var mnemonic = "cream fault grant estate split swarm engine drama season lucky final tobacco";
+var mnemonic = "spell bright attitude mix local first garlic observe endorse lock spike depth";

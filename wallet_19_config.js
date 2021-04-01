@@ -1,1 +1,1 @@
-var mnemonic = "bicycle balance ritual resist blanket source secret manual autumn punch lizard equal";
+var mnemonic = "nurse oven shift hockey snow evoke bulk matrix smoke happy gain cradle";

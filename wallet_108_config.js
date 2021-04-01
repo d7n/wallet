@@ -1,1 +1,1 @@
-var mnemonic = "cement flame diagram syrup faint funny secret desert front parent wash sugar";
+var mnemonic = "plastic nation coin spy half oxygen nation chaos suffer useless brass exhaust";

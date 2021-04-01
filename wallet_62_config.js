@@ -1,1 +1,1 @@
-var mnemonic = "fruit mixture deposit asthma board topple lens thumb hurry sad climb convince";
+var mnemonic = "lumber profit duty jump recycle inject gas spare sign occur setup caught";

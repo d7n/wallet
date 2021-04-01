@@ -1,1 +1,1 @@
-var mnemonic = "easy say flat supreme razor rifle repair gasp anxiety turn large slogan";
+var mnemonic = "correct appear found picnic palm owner vault unveil fork stick save sword";

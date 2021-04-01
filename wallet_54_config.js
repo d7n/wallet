@@ -1,1 +1,1 @@
-var mnemonic = "present permit joke enemy beauty kiss raise hire powder tower valid foil";
+var mnemonic = "crater senior train present online attend sweet gallery dial student woman praise";

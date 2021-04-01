@@ -1,1 +1,1 @@
-var mnemonic = "crazy tackle entire memory truck naive satisfy ahead swap silly cherry lens";
+var mnemonic = "must decrease wild actual secret trust pupil fashion rocket enable canal rent";

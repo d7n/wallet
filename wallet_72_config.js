@@ -1,1 +1,1 @@
-var mnemonic = "depend excess fabric finger retreat habit tribe same universe where decorate cushion";
+var mnemonic = "bullet confirm depend project inherit above action combine final card near eagle";

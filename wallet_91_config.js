@@ -1,1 +1,1 @@
-var mnemonic = "need under enable enemy ice farm step maple ring yard jeans member";
+var mnemonic = "great pioneer topple wood tilt bind blur vanish session surge cruise hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "neither denial canyon crumble engine magic image potato pole across tenant version";
+var mnemonic = "subject invest royal exchange brain tree taste casino chaos peace know vehicle";

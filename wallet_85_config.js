@@ -1,1 +1,1 @@
-var mnemonic = "shiver car track outdoor loud drastic cupboard ankle grass large fresh salon";
+var mnemonic = "air organ danger forum author off treat minor rigid satisfy brass garage";

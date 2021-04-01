@@ -1,1 +1,1 @@
-var mnemonic = "control inject page hair reform trigger place roof amazing lens cram bless";
+var mnemonic = "oxygen science breeze cover solid sponsor cause tomato unusual mansion jump mobile";

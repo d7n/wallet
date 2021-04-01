@@ -1,1 +1,1 @@
-var mnemonic = "verb lava false corn husband flame method degree guide notable switch fun";
+var mnemonic = "electric kick century pause pen girl olympic unaware orange drama duck rely";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent gown taste mushroom famous muscle squeeze ability original ignore situate unknown";
+var mnemonic = "senior betray skill vast table fitness credit squirrel soap adapt exile used";

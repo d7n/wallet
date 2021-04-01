@@ -1,1 +1,1 @@
-var mnemonic = "gather corn cloth enjoy blade insect miss floor employ craft asthma topple";
+var mnemonic = "repair betray fluid enrich laugh liquid lens steak layer boost airport spatial";

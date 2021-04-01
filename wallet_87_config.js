@@ -1,1 +1,1 @@
-var mnemonic = "cotton hotel squirrel guilt volume detect top swarm recipe arrange bus eternal";
+var mnemonic = "series cross excuse educate immense chunk find glass reveal again emotion machine";

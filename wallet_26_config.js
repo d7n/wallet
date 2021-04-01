@@ -1,1 +1,1 @@
-var mnemonic = "absent junior drama rain company exist siege circle fortune flavor favorite orphan";
+var mnemonic = "blossom budget split upon movie large kit play great frequent slight possible";

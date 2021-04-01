@@ -1,1 +1,1 @@
-var mnemonic = "trend drip area test venture moral home sphere title avoid glass dune";
+var mnemonic = "palm wisdom tuition carpet bulk better accuse invite point swap park finish";

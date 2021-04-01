@@ -1,1 +1,1 @@
-var mnemonic = "among sleep vehicle ceiling situate throw staff father start warfare pepper remove";
+var mnemonic = "cupboard keep uphold cup brief aisle salmon move chaos crater purse evoke";

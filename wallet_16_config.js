@@ -1,1 +1,1 @@
-var mnemonic = "select buzz check eyebrow brown vapor fatal produce night trick crawl dolphin";
+var mnemonic = "excess debris carry powder youth huge medal trip purse arrange drop kidney";

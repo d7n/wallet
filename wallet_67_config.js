@@ -1,1 +1,1 @@
-var mnemonic = "polar distance fly finger suggest nut try sleep smile earth innocent wrist";
+var mnemonic = "bottom daring will seminar curious arctic garlic hunt twice comic endorse sun";

@@ -1,1 +1,1 @@
-var mnemonic = "term buzz crater crane produce supply rough female mother mask fox put";
+var mnemonic = "kite adult spray steak about borrow boost horn acoustic cotton chunk solid";

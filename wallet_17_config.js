@@ -1,1 +1,1 @@
-var mnemonic = "gadget feature grief carbon gown castle sell garment rubber warfare dish month";
+var mnemonic = "tourist vehicle basket goose field squeeze update barely like infant hurt sugar";

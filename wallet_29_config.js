@@ -1,1 +1,1 @@
-var mnemonic = "rather noise under farm shrug remind smoke zoo patch lava add settle";
+var mnemonic = "idea topple laugh train language rate pause rent avoid visit quiz must";

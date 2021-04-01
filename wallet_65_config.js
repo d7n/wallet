@@ -1,1 +1,1 @@
-var mnemonic = "follow swap excite guess quarter cupboard dignity find toy party moon never";
+var mnemonic = "concert anxiety dad fault trouble collect reject balcony convince oil claim electric";

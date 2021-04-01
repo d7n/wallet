@@ -1,1 +1,1 @@
-var mnemonic = "duck toast category scrub race gospel remember more click aunt dwarf cave";
+var mnemonic = "purse evoke danger castle wise demise illegal virus inhale trend donate salute";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon alarm senior crunch swarm path cube betray north bulk abandon speed";
+var mnemonic = "round practice drink oppose wood sock ticket good spin echo evil jungle";

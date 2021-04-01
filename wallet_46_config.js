@@ -1,1 +1,1 @@
-var mnemonic = "soda equip inside unable weapon hill army scorpion candy mushroom obey entire";
+var mnemonic = "habit glimpse area upon peanut destroy absurd shove wet ribbon smart wide";

@@ -1,1 +1,1 @@
-var mnemonic = "salon run stone universe obey kangaroo tent maple napkin capable mouse goat";
+var mnemonic = "hover feed design record essence length leader mammal rug zoo pottery girl";

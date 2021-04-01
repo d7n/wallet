@@ -1,1 +1,1 @@
-var mnemonic = "truth woman dirt timber friend group page twelve craft atom embark lucky";
+var mnemonic = "nasty art nurse more crack shuffle thrive soccer solve market grape confirm";

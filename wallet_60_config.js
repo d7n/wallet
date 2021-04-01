@@ -1,1 +1,1 @@
-var mnemonic = "wage noodle robust wagon glad trigger soccer moment slab torch bronze net";
+var mnemonic = "slab private business behind genre maze skull genuine that husband monkey list";

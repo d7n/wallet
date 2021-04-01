@@ -1,1 +1,1 @@
-var mnemonic = "card retreat exhibit nasty yellow please hub scheme call clock network luxury";
+var mnemonic = "decline focus pipe sketch depth mask uphold oppose anger february shallow tobacco";

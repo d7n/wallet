@@ -1,1 +1,1 @@
-var mnemonic = "height rhythm sail annual region regret vague old label cup check put";
+var mnemonic = "convince property someone seat source bamboo recipe exile sniff slow feature rifle";

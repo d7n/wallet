@@ -1,1 +1,1 @@
-var mnemonic = "olive hurry rebuild mention skirt rug guess govern van diagram odor man";
+var mnemonic = "morning brave clip model advice rural novel industry father edit float area";

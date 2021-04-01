@@ -1,1 +1,1 @@
-var mnemonic = "what magnet snow nothing bottom keep stairs neglect royal picnic join sell";
+var mnemonic = "turkey execute course dog just fiscal forget soccer pottery road water add";
