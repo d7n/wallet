@@ -1,1 +1,1 @@
-var mnemonic = "gentle alert alcohol spin idle loud admit wall license crucial damage bag";
+var mnemonic = "obey mention frost outdoor claim kid exercise state copy harbor tell profit";

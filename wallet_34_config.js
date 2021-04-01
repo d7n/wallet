@@ -1,1 +1,1 @@
-var mnemonic = "fossil quarter velvet chicken dove dice wood vanish display struggle mesh view";
+var mnemonic = "mercy then labor giggle dust ceiling hill wool wall soap print guess";

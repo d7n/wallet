@@ -1,1 +1,1 @@
-var mnemonic = "wink property business ride income panic caution donkey knee media joy describe";
+var mnemonic = "item maximum solar rapid toward blast immune blossom brown video exact small";

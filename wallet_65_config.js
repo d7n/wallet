@@ -1,1 +1,1 @@
-var mnemonic = "detect milk maple clutch frost drill wall hunt nice beauty exchange hole";
+var mnemonic = "fee subway used survey street angle sphere enjoy curious obtain buyer unique";

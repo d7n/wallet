@@ -1,1 +1,1 @@
-var mnemonic = "approve island nature sell hockey faculty announce canoe true focus burst mask";
+var mnemonic = "goddess space shift damp flip obey child frequent blind forward garlic version";

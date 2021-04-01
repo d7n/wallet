@@ -1,1 +1,1 @@
-var mnemonic = "truth gun picnic foam notable program surprise nephew orange level merit lecture";
+var mnemonic = "candy lady evil stone such carbon legend tag scare wife subject tube";

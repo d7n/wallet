@@ -1,1 +1,1 @@
-var mnemonic = "sign matrix horn off kind repair club actual kitten famous bag tree";
+var mnemonic = "kidney distance afford prevent armed cruise sea bread tunnel cigar stock time";

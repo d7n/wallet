@@ -1,1 +1,1 @@
-var mnemonic = "sad subject student broken torch elevator gloom ride enemy math announce auto";
+var mnemonic = "charge near rib silent tide vast seven buddy nasty chuckle night vital";

@@ -1,1 +1,1 @@
-var mnemonic = "code enjoy ball nice brain solar reveal wash fashion noise success jump";
+var mnemonic = "balcony spoil pluck sort side blade cream pumpkin forget cloth arena belt";

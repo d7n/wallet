@@ -1,1 +1,1 @@
-var mnemonic = "chapter rifle scrub sick private civil cactus found nice lab boat office";
+var mnemonic = "chicken couch cave famous deer inner rescue robust pottery habit country section";

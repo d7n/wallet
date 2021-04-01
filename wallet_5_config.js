@@ -1,1 +1,1 @@
-var mnemonic = "victory border payment sunny limit cry poem repeat field bid kidney useful";
+var mnemonic = "endorse diamond pistol bulk inject bus sort speak lamp engage swift coach";

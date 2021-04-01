@@ -1,1 +1,1 @@
-var mnemonic = "uncle alpha switch degree evoke bus ignore club gauge electric boss coral";
+var mnemonic = "chronic wash volume sibling reform ten nothing harsh also welcome frown enrich";

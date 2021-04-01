@@ -1,1 +1,1 @@
-var mnemonic = "law tonight magic expose wisdom lazy subway debris tower army clock raccoon";
+var mnemonic = "copy search bicycle cupboard grit over scatter giraffe used once student hello";

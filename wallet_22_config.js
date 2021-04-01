@@ -1,1 +1,1 @@
-var mnemonic = "net manual electric innocent service engine shrimp finish south guitar scene inflict";
+var mnemonic = "talent vacuum keep imitate glimpse quiz chuckle remain unique seat radio movie";

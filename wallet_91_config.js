@@ -1,1 +1,1 @@
-var mnemonic = "roast profit fluid organ state exhaust spoon vague shove hospital deal fossil";
+var mnemonic = "dress broken tattoo hello gadget stamp real beauty ahead cash state orphan";

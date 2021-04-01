@@ -1,1 +1,1 @@
-var mnemonic = "disagree pottery bomb brave frame inspire hub hour input armor hungry hammer";
+var mnemonic = "sister neutral ensure plastic assist penalty forum undo quiz pretty danger secret";

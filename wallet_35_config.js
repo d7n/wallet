@@ -1,1 +1,1 @@
-var mnemonic = "fiber shock medal recycle divide balance obvious disease brother inject jungle market";
+var mnemonic = "history jelly tank match spot smooth chaos parrot speak pattern radio south";

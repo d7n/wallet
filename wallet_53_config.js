@@ -1,1 +1,1 @@
-var mnemonic = "divert trend service lesson six crystal hidden banana liberty cake offer remain";
+var mnemonic = "cat rubber inhale clay chat hover decade insect parent abuse digital parent";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny fog couple coin remember proof legend angle behave negative pair female";
+var mnemonic = "oppose beef casual odor accuse humble nice turn grow oyster harsh senior";

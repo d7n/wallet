@@ -1,1 +1,1 @@
-var mnemonic = "night sight joy object mandate piece eternal pupil faint noodle mix typical";
+var mnemonic = "gym asset solution carpet recall note shadow analyst foot observe name cherry";

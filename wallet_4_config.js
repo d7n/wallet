@@ -1,1 +1,1 @@
-var mnemonic = "must mix wave skill regret fatal enable impact quiz piece napkin velvet";
+var mnemonic = "basic nuclear sister shuffle guess quick craft execute diagram rose praise know";

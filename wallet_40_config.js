@@ -1,1 +1,1 @@
-var mnemonic = "print lobster jazz guess assault begin suspect audit economy tuna veteran gate";
+var mnemonic = "sweet school viable wheat regret seek purse blood beauty arrive table rich";

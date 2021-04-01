@@ -1,1 +1,1 @@
-var mnemonic = "sick history next hood pet habit piece best slice dignity rhythm dad";
+var mnemonic = "hello normal educate private meat army fury test symbol journey unveil brave";

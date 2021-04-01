@@ -1,1 +1,1 @@
-var mnemonic = "body smooth convince unhappy little board park reflect element sock father limb";
+var mnemonic = "engine sweet burger mix civil woman rival prefer consider wet own item";

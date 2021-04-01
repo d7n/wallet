@@ -1,1 +1,1 @@
-var mnemonic = "decline occur ahead tobacco recycle inhale aim female green steak chef goose";
+var mnemonic = "hip ski helmet cook tape soldier earn chat match maze romance night";

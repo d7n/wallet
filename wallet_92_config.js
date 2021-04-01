@@ -1,1 +1,1 @@
-var mnemonic = "hero gaze away left deliver picture lobster unit lobster robot provide thunder";
+var mnemonic = "panda gasp ask hungry island supply apology bag sport arena flat dawn";

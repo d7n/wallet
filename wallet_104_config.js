@@ -1,1 +1,1 @@
-var mnemonic = "power voice grain foil donate dumb announce when embark absent ripple myself";
+var mnemonic = "broken vote valley spray hybrid ordinary aunt supply aware any shield ancient";

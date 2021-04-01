@@ -1,1 +1,1 @@
-var mnemonic = "horror female region syrup plug sign protect hold coach adjust exclude snack";
+var mnemonic = "cherry promote rice brave pear canoe clutch series tank cloth carpet cream";

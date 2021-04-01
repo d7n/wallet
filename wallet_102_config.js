@@ -1,1 +1,1 @@
-var mnemonic = "couch boost fan daring copy leave sister wall one sun position ticket";
+var mnemonic = "custom basket skull winner jacket sign test whale dentist flame celery tone";

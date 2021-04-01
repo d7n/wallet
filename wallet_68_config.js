@@ -1,1 +1,1 @@
-var mnemonic = "capital verify day abandon brick rival version ordinary session traffic forward task";
+var mnemonic = "item high smart female injury lab isolate scale valid vibrant pluck topple";

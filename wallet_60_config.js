@@ -1,1 +1,1 @@
-var mnemonic = "butter uphold piano viable word bench about ivory solar task bubble gospel";
+var mnemonic = "choose note chase crane deer various sing develop summer object tomorrow margin";

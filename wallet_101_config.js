@@ -1,1 +1,1 @@
-var mnemonic = "industry laugh solve tail swing rice vast under cotton pass distance occur";
+var mnemonic = "marriage perfect paddle obey embark large humor usage hope soup harbor shell";

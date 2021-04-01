@@ -1,1 +1,1 @@
-var mnemonic = "position lemon remove hazard bulk giggle can fan fiscal alert despair actual";
+var mnemonic = "exit toss arrive relax stamp artwork fire ghost special retire bleak muffin";

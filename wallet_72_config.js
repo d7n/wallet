@@ -1,1 +1,1 @@
-var mnemonic = "gate thought twist behind panel vacant crawl organ body explain edge tool";
+var mnemonic = "find sound puzzle mango shuffle chest tree situate universe broken left goat";

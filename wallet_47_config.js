@@ -1,1 +1,1 @@
-var mnemonic = "saddle frog pulse impose spoil oak pizza birth broom nice steak craft";
+var mnemonic = "cause ancient soon volcano kiss use issue supreme spin pair excuse all";

@@ -1,1 +1,1 @@
-var mnemonic = "pause lunch human paper trial future tourist mutual front calm medal guitar";
+var mnemonic = "reward total praise captain genuine degree warfare aim know climb spirit era";

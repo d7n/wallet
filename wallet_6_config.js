@@ -1,1 +1,1 @@
-var mnemonic = "staff away crew mother ticket broken biology inmate grocery bid glimpse film";
+var mnemonic = "actual undo cannon worth outdoor service brown physical dove ivory grain word";

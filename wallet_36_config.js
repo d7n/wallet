@@ -1,1 +1,1 @@
-var mnemonic = "immense vote hair garbage cigar light soap little verb hobby direct impose";
+var mnemonic = "parrot foot awkward miracle alarm suffer adult type route dynamic saddle brown";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond furnace height much tide fine ocean anxiety charge clutch arm hill";
+var mnemonic = "galaxy lawn globe write crystal render lyrics swallow swarm time head talent";

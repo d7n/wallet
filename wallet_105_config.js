@@ -1,1 +1,1 @@
-var mnemonic = "check lonely eyebrow boy party seek deal salad parrot say spread pony";
+var mnemonic = "sentence frozen cement cheap suspect tissue hidden invite gaze cherry barely hazard";

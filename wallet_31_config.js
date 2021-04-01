@@ -1,1 +1,1 @@
-var mnemonic = "apart dish measure economy multiply until correct extend wealth champion pill column";
+var mnemonic = "betray runway visual oval news purity planet tide elevator across embark picture";

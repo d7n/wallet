@@ -1,1 +1,1 @@
-var mnemonic = "mercy secret hope all one rigid during tell volume cart whisper border";
+var mnemonic = "album hamster fruit innocent claim shop reduce curious march number kind kitchen";

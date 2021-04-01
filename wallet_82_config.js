@@ -1,1 +1,1 @@
-var mnemonic = "guitar carbon topple cable park clown camp hunt develop essence receive wait";
+var mnemonic = "depth wisdom grass raccoon major crumble bicycle embody gate owner catalog problem";

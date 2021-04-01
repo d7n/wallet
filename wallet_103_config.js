@@ -1,1 +1,1 @@
-var mnemonic = "melody mushroom enforce border ostrich since robust impose brief decrease enable thought";
+var mnemonic = "error black stand pluck pulp train announce this metal model nurse neither";

@@ -1,1 +1,1 @@
-var mnemonic = "remember opinion install fence fox great tomorrow badge end crawl jewel collect";
+var mnemonic = "gift book elbow keen nerve vacuum board leisure mass pilot escape unknown";

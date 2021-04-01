@@ -1,1 +1,1 @@
-var mnemonic = "garbage nephew feel jump ancient volcano behave muscle bundle diamond load soda";
+var mnemonic = "crush rubber pioneer enact ancient rich kid frame awkward wrestle twist mesh";

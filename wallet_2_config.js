@@ -1,1 +1,1 @@
-var mnemonic = "inhale extra finger female corn spawn sponsor crisp seek final album begin";
+var mnemonic = "flip say seat energy manage maze pave version march boil dice pen";

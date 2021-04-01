@@ -1,1 +1,1 @@
-var mnemonic = "balance fade vanish unfair permit observe flash foot key among make essay";
+var mnemonic = "oxygen draw nuclear crisp wool bulk expect bomb disorder brown noise rough";

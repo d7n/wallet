@@ -1,1 +1,1 @@
-var mnemonic = "food dress march frozen dune walk baby nest dice knife tortoise cart";
+var mnemonic = "picture laugh noodle output index speak tone fiscal question firm clown erosion";

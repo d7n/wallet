@@ -1,1 +1,1 @@
-var mnemonic = "smoke pumpkin cute relax income orange vintage country image sponsor good cushion";
+var mnemonic = "loud shove follow harvest have ketchup harbor mystery renew orchard song used";

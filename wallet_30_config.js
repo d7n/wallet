@@ -1,1 +1,1 @@
-var mnemonic = "degree around dove divorce margin much book napkin snow list ecology inspire";
+var mnemonic = "street vacuum device priority second cloud dove swamp oil hundred nice legend";

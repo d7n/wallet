@@ -1,1 +1,1 @@
-var mnemonic = "joke uphold margin night wink process because pizza among urban alone law";
+var mnemonic = "rely deal inject novel blame walk profit accuse enforce grab humor test";

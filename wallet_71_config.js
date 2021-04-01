@@ -1,1 +1,1 @@
-var mnemonic = "friend great half brick uphold shaft barely beyond foam board extend mercy";
+var mnemonic = "shrug amount weather upper average volume hub inspire swift pattern lunch zero";

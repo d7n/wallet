@@ -1,1 +1,1 @@
-var mnemonic = "trip novel kite wrestle gather picnic city chuckle sniff blind artefact era";
+var mnemonic = "wife disagree car call giant diagram hill banner either menu sibling purse";

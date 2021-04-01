@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin brand delay primary lyrics once connect alarm until travel flag device";
+var mnemonic = "weapon extend mean time list above ozone subway brown rabbit unfair frog";

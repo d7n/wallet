@@ -1,1 +1,1 @@
-var mnemonic = "truth buddy document miracle increase earth ensure rate cause day hurt diet";
+var mnemonic = "muscle nation comic wash gold monitor food wire coyote awful update cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "plate balcony wild bid country little logic chapter table weasel snow quantum";
+var mnemonic = "protect mobile medal smile decline then surprise carpet lecture rent notable glance";

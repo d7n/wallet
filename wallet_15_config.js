@@ -1,1 +1,1 @@
-var mnemonic = "shine endorse couch stove young extend theory foster entire moment flip dice";
+var mnemonic = "humble citizen elite harvest chat business debate lazy nation shallow you divide";

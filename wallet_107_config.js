@@ -1,1 +1,1 @@
-var mnemonic = "always paper tongue public hold sauce amount proof tuition finger metal word";
+var mnemonic = "visual want tomato panic laundry hero pattern tower cool job doctor later";

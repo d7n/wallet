@@ -1,1 +1,1 @@
-var mnemonic = "awful expose kitten valve protect ridge mutual cheap brand motor speed swear";
+var mnemonic = "anchor analyst diary hold ankle hill hedgehog express old space velvet super";

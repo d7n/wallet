@@ -1,1 +1,1 @@
-var mnemonic = "panel trumpet robot regular volcano crane very little cancel review seven hand";
+var mnemonic = "crisp project crisp word light solar accuse latin rigid surround garbage can";

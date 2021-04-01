@@ -1,1 +1,1 @@
-var mnemonic = "nut inherit stock night artist jealous avoid toast pepper oak powder casino";
+var mnemonic = "question mutual can escape turn circle dwarf must unaware seven frog garment";

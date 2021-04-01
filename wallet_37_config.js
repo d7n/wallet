@@ -1,1 +1,1 @@
-var mnemonic = "drip metal expand oblige fortune kitten neutral real fork claw soft organ";
+var mnemonic = "antique record adult glide know tissue priority glove twelve alley boy arm";

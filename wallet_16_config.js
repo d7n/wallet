@@ -1,1 +1,1 @@
-var mnemonic = "barrel glare woman oil chronic hover family around slab someone alert true";
+var mnemonic = "spray crater step speed zebra buddy scrap laptop rack dinner night health";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan radio come either ceiling captain cruel resist elevator rotate file shallow";
+var mnemonic = "bus fatigue eight throw cup best shy rose soda alpha soon primary";

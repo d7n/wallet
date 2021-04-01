@@ -1,1 +1,1 @@
-var mnemonic = "success night canal dash hurdle custom limit blush lab sting text ghost";
+var mnemonic = "civil inject divide deny winner joke dose phone federal umbrella spike sheriff";

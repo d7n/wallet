@@ -1,1 +1,1 @@
-var mnemonic = "era hidden pride antenna visual chalk mix knee sausage loop will cover";
+var mnemonic = "position trend enable pelican betray pear tail obscure weird buzz anchor enemy";

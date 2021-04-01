@@ -1,1 +1,1 @@
-var mnemonic = "demand habit snack avocado speak crime issue derive recall name useful short";
+var mnemonic = "exit strike mystery sand mask jelly august mixed month receive odor major";

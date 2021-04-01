@@ -1,1 +1,1 @@
-var mnemonic = "patch crisp follow reopen three ghost lift inspire cup urge need wing";
+var mnemonic = "hospital view parrot either motor warm tenant robust kingdom velvet luggage paper";

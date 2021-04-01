@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur supreme nest reason acid casino ankle surround bus someone pact awkward";
+var mnemonic = "squirrel reason right surge below rural exhaust term swap elbow lens stool";

@@ -1,1 +1,1 @@
-var mnemonic = "undo mammal suffer receive edit fold service beyond river oyster hire basic";
+var mnemonic = "weather muffin replace arch shift march cancel neck arctic width shell garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "arm champion edit shell shuffle aware ship expect episode mesh liar judge";
+var mnemonic = "search glow key scatter diet season pole gaze history tortoise muscle expose";

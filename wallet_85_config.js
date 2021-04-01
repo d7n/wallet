@@ -1,1 +1,1 @@
-var mnemonic = "raccoon list arena tuition pumpkin pass dumb update butter blue chat company";
+var mnemonic = "border hamster rookie area squirrel town antique ugly patch thank pill kiwi";

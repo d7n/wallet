@@ -1,1 +1,1 @@
-var mnemonic = "shaft indoor brave heavy occur broccoli illness artwork remain wine dentist fancy";
+var mnemonic = "dad arrow bunker into main say pulse antique athlete guide news noodle";

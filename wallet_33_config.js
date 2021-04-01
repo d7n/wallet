@@ -1,1 +1,1 @@
-var mnemonic = "arm climb obey duty social wheat skill engine light clarify village hockey";
+var mnemonic = "scissors melody pair lesson need dirt solution finish warfare allow purity sorry";

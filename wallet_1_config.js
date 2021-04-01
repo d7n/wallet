@@ -1,1 +1,1 @@
-var mnemonic = "sheriff observe surprise echo advice load surge warm blossom birth test long";
+var mnemonic = "decorate unlock allow resist source spot scatter inhale coil average differ middle";

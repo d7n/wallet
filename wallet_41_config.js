@@ -1,1 +1,1 @@
-var mnemonic = "top mystery october inflict evil mercy phone pony antenna mom oval one";
+var mnemonic = "theme define hub toy fan seven junk swap sugar casual author huge";

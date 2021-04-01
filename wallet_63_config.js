@@ -1,1 +1,1 @@
-var mnemonic = "frost crunch into scale kidney stage file kick river slow differ actor";
+var mnemonic = "rabbit nurse vendor convince actress any asthma point august spider legend junior";

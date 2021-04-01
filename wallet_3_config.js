@@ -1,1 +1,1 @@
-var mnemonic = "guess wheat squirrel oxygen valve surround address horn design cereal enter pass";
+var mnemonic = "swamp secret sort lounge cash announce month holiday letter face give disease";

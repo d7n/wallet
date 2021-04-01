@@ -1,1 +1,1 @@
-var mnemonic = "hold bronze blanket rail throw two frozen fitness gadget confirm lecture maximum";
+var mnemonic = "buzz flavor rice flag arrow great attitude mandate unusual fence trade scene";

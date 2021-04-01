@@ -1,1 +1,1 @@
-var mnemonic = "health tree base vessel canoe combine change nice heart become weekend charge";
+var mnemonic = "truth nice fame glare damage pulp betray reward glow cry clerk suspect";

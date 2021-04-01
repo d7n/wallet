@@ -1,1 +1,1 @@
-var mnemonic = "battle current mystery venue regret foot depend resist stairs cereal funny tent";
+var mnemonic = "fiction public august column output meadow thunder egg carpet cereal filter ice";

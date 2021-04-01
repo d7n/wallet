@@ -1,1 +1,1 @@
-var mnemonic = "draft income bird average pyramid sword unhappy naive mesh rather mutual just";
+var mnemonic = "stuff alert salad diagram tissue day castle fame bonus giraffe agree exchange";

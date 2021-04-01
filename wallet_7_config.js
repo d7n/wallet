@@ -1,1 +1,1 @@
-var mnemonic = "speed wait poverty train asset sleep exile pelican edge course stamp robust";
+var mnemonic = "mention arctic scrap usual gain point crisp eyebrow again castle fiber identify";

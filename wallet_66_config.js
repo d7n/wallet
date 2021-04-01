@@ -1,1 +1,1 @@
-var mnemonic = "box inform shock disorder economy behave cause orbit such soldier reflect cube";
+var mnemonic = "federal section crumble uncle leopard small ordinary coral fine loud wolf oven";

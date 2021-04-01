@@ -1,1 +1,1 @@
-var mnemonic = "tower spring trim core kite vocal genre hold autumn marble satoshi west";
+var mnemonic = "safe liar patch chase behind abuse clock define remember exhaust maximum unlock";

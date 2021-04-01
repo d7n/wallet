@@ -1,1 +1,1 @@
-var mnemonic = "strike couch perfect scissors smoke fault toast gravity weird lift trumpet thing";
+var mnemonic = "panel gown arrange crush weasel armor cluster blood page rate common dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "grape cream festival old only artefact foam tip biology toy property dream";
+var mnemonic = "decorate hire infant inform office typical hollow zone spot one you account";

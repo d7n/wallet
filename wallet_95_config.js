@@ -1,1 +1,1 @@
-var mnemonic = "manage harvest ugly box flame congress math foil coil vast mask museum";
+var mnemonic = "marriage blur carpet near save great tennis ecology put piece side weather";

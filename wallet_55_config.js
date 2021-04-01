@@ -1,1 +1,1 @@
-var mnemonic = "amused double mention super daring inner injury glide soul industry remember young";
+var mnemonic = "sleep erosion traffic december helmet nuclear tissue orphan fragile spawn inherit pizza";

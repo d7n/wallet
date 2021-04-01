@@ -1,1 +1,1 @@
-var mnemonic = "meat egg frame victory bottom involve helmet venture cook track random sort";
+var mnemonic = "skull pilot snap civil axis stadium like flock ticket plastic anchor train";

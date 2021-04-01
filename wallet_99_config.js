@@ -1,1 +1,1 @@
-var mnemonic = "render script slogan aerobic desk little rib tongue crystal opera light jeans";
+var mnemonic = "uniform leopard level old helmet angry grab bubble nature wool dolphin jelly";
