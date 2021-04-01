@@ -1,1 +1,1 @@
-var mnemonic = "skin crumble way invest smoke into aisle category merge outside jazz poverty";
+var mnemonic = "price coach visual glide scissors steel volume next sort orient filter credit";

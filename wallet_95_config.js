@@ -1,1 +1,1 @@
-var mnemonic = "upon bundle salt now soccer release buddy act burden chat alien famous";
+var mnemonic = "excess disagree level market exercise oppose toe material oven before produce saddle";

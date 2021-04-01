@@ -1,1 +1,1 @@
-var mnemonic = "bind change primary draw better dinner idle orbit walk aspect badge trash";
+var mnemonic = "bullet rent sing pistol earn citizen boss prepare crime control spread plate";

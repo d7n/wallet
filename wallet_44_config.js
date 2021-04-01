@@ -1,1 +1,1 @@
-var mnemonic = "travel profit library canyon unknown trust nut engage egg caught drama group";
+var mnemonic = "enlist album cup topic verb nerve annual tomato bus conduct cross rival";

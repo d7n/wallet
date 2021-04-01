@@ -1,1 +1,1 @@
-var mnemonic = "motor ugly young decade peace short gorilla exhibit repeat long boring message";
+var mnemonic = "advance vessel depend response arena possible expose witness intact immense mention tomato";

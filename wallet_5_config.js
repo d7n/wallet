@@ -1,1 +1,1 @@
-var mnemonic = "girl critic border fiber raise umbrella stone vague enough model survey present";
+var mnemonic = "drum marine grief panic double hole hammer wink trash material shed tomorrow";

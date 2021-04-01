@@ -1,1 +1,1 @@
-var mnemonic = "never fitness lazy travel fortune card trial actual sight public onion venture";
+var mnemonic = "nothing garlic limb license hedgehog lend elephant liar sugar main ability neutral";

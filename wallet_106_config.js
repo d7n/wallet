@@ -1,1 +1,1 @@
-var mnemonic = "able own deer beach host release riot stumble aunt loyal battle sausage";
+var mnemonic = "age level cluster client join smile fence pole method account season danger";

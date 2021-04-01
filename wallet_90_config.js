@@ -1,1 +1,1 @@
-var mnemonic = "motor session clarify plate danger now jaguar critic ketchup wisdom design ritual";
+var mnemonic = "milk whisper invite useful gift faint pistol float scrub police today speak";

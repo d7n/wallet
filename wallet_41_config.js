@@ -1,1 +1,1 @@
-var mnemonic = "spice recall refuse alley analyst motion blur attack lion witness liquid detail";
+var mnemonic = "cream eyebrow minimum explain priority gentle earn evidence label virtual position desk";

@@ -1,1 +1,1 @@
-var mnemonic = "circle warrior spend lawsuit world order flavor inside brick wagon offer notice";
+var mnemonic = "hip labor hood cluster history update similar protect lawsuit crash call enroll";

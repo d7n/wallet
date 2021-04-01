@@ -1,1 +1,1 @@
-var mnemonic = "vehicle carbon giant know outside calm rigid ethics visual bamboo smooth diet";
+var mnemonic = "spell brief mimic borrow place ripple happy stage embrace right one improve";

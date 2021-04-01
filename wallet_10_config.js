@@ -1,1 +1,1 @@
-var mnemonic = "mushroom noodle feel claim reflect wash cradle waste state waste half trumpet";
+var mnemonic = "gloom bicycle repair walnut chronic budget question device trial few mention steel";

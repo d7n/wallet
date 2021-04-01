@@ -1,1 +1,1 @@
-var mnemonic = "ketchup blast damp bag sell edge enrich assault garlic crop move clown";
+var mnemonic = "fatigue token old wide boat flat identify muffin come tool strong elder";

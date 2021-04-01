@@ -1,1 +1,1 @@
-var mnemonic = "faculty spatial protect arena title clown alcohol carpet change main icon brown";
+var mnemonic = "tooth immune stick evolve glide genius online toe useful course slush alter";

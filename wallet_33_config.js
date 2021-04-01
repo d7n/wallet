@@ -1,1 +1,1 @@
-var mnemonic = "habit profit idea patient day vibrant glue mix pencil sustain eager silver";
+var mnemonic = "reject insect danger furnace decrease wear blind forest flame base detect frog";

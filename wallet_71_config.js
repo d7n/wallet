@@ -1,1 +1,1 @@
-var mnemonic = "rose habit flight disagree pen farm cash master rent meadow engage razor";
+var mnemonic = "erupt inhale blanket intact uniform senior local three plastic curtain shift sponsor";

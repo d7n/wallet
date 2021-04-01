@@ -1,1 +1,1 @@
-var mnemonic = "settle hen wagon broccoli atom skill shove dumb ceiling expand exclude zebra";
+var mnemonic = "absurd verify ozone ability heart crazy middle august lottery crack august decrease";

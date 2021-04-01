@@ -1,1 +1,1 @@
-var mnemonic = "breeze shallow van cotton film stumble same blouse almost island spot friend";
+var mnemonic = "goddess cover flower remain dragon bid final chuckle act collect online trust";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant garlic rain jealous square cheap skull lend skirt eagle file lesson";
+var mnemonic = "run ability moral sad wealth cloth width curtain panda girl brush peanut";

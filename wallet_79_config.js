@@ -1,1 +1,1 @@
-var mnemonic = "electric weather chair coast divorce lava vehicle canal pen arctic stomach stadium";
+var mnemonic = "float airport arrest rude armor ski question okay old can genius cousin";

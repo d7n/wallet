@@ -1,1 +1,1 @@
-var mnemonic = "canal fitness laundry guide kingdom club spoon supreme mix key useless alone";
+var mnemonic = "risk install stuff margin trap regular multiply royal enrich assault conduct spare";

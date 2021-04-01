@@ -1,1 +1,1 @@
-var mnemonic = "flavor glimpse argue dose guitar track slender crucial deer flock spice property";
+var mnemonic = "toilet foam silk maple regret visit pumpkin child ivory strong squeeze trim";

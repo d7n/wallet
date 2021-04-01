@@ -1,1 +1,1 @@
-var mnemonic = "join nasty behind arrive machine cousin pole expose afford night left situate";
+var mnemonic = "predict divert usage seek horse carry flat source invest throw pudding stem";

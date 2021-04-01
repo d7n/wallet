@@ -1,1 +1,1 @@
-var mnemonic = "uncle hungry embody over catch rocket affair clump rifle invest weekend defense";
+var mnemonic = "solar basket mask famous palace soap maid clock shaft protect veteran cream";

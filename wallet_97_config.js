@@ -1,1 +1,1 @@
-var mnemonic = "inform just expect bomb pilot shove wide denial advice mixed quote exhaust";
+var mnemonic = "firm always auction inject dash stone cabin letter coast tortoise whale odor";

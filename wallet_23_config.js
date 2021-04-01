@@ -1,1 +1,1 @@
-var mnemonic = "hole snap shy sorry area spawn already mom gravity horror heavy permit";
+var mnemonic = "radio advice crater keep ski draft blanket index album vapor submit choice";

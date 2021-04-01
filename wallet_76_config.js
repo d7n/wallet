@@ -1,1 +1,1 @@
-var mnemonic = "giraffe safe crew unique useless raven onion orient cook sniff soda wolf";
+var mnemonic = "maze dragon foster hand whip inmate crucial stomach once auto practice twist";

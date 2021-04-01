@@ -1,1 +1,1 @@
-var mnemonic = "pass divide fortune live tree clay deposit travel grit opinion march gaze";
+var mnemonic = "joy client bike series student what trophy praise congress anger abandon culture";

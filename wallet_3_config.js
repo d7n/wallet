@@ -1,1 +1,1 @@
-var mnemonic = "there secret goat shrug clerk seminar network genre clean green equip buffalo";
+var mnemonic = "skull quick innocent coin gold future lawn divert brisk elephant thumb seminar";

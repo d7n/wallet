@@ -1,1 +1,1 @@
-var mnemonic = "screen bone trend foil conduct rhythm cousin one crime loan train knee";
+var mnemonic = "rigid ankle alien person forget wrong hedgehog velvet glass reward stuff innocent";

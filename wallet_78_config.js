@@ -1,1 +1,1 @@
-var mnemonic = "share blast label stool fashion hurt aunt fat begin tray skate spice";
+var mnemonic = "potato team safe wine aspect weekend tennis fire reward insect apology outside";

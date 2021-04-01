@@ -1,1 +1,1 @@
-var mnemonic = "noise health inch consider doctor detail chimney undo live cheap powder fabric";
+var mnemonic = "unhappy audit evidence case work winter medal salon gather below together all";

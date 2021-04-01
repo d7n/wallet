@@ -1,1 +1,1 @@
-var mnemonic = "adapt any host own advance parade company enlist renew rebuild ridge undo";
+var mnemonic = "useless roast govern auction pilot behind tortoise devote bitter mixed purse pelican";

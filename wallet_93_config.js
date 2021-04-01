@@ -1,1 +1,1 @@
-var mnemonic = "extra knife neck suffer outer add eight crowd fence park salute mom";
+var mnemonic = "act beef peanut climb grit way upon post crush emerge inherit grape";

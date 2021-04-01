@@ -1,1 +1,1 @@
-var mnemonic = "neither satisfy border suit combine pair shrug ladder call atom census exile";
+var mnemonic = "inside obtain whale mask occur long squeeze scare onion earth olympic ball";

@@ -1,1 +1,1 @@
-var mnemonic = "drive soon pond ill mistake shallow swallow history peace load gap animal";
+var mnemonic = "clap above punch muscle mountain fringe food dress coach clown pledge dinosaur";

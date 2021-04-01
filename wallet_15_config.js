@@ -1,1 +1,1 @@
-var mnemonic = "east slight polar snack math fluid belt bone unlock capital blur motion";
+var mnemonic = "certain tiny real essence great chest home fan blue boat silk nation";

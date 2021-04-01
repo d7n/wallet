@@ -1,1 +1,1 @@
-var mnemonic = "tongue rather asthma acoustic hello alone regret demand breeze galaxy journey thumb";
+var mnemonic = "runway short lion fault spoil best depart coin dizzy slight any gauge";

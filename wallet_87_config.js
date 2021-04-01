@@ -1,1 +1,1 @@
-var mnemonic = "gallery media shy mass avoid display corn ring harsh whisper joke divide";
+var mnemonic = "frozen initial genre opinion tobacco eternal vessel key affair knock remind will";

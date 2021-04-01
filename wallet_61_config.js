@@ -1,1 +1,1 @@
-var mnemonic = "stadium bargain inmate unusual flame kangaroo wheat pass damage card dance skull";
+var mnemonic = "south account laptop world know torch shoe cactus used extend piano pole";

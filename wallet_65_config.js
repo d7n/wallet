@@ -1,1 +1,1 @@
-var mnemonic = "boss velvet middle wild arctic toast claim century polar army shallow song";
+var mnemonic = "vintage piece spawn baby coyote follow adjust sorry pattern recycle canoe friend";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey trip angry team promote become trade atom they organ banner margin";
+var mnemonic = "gym dry occur grain decorate spell toddler roast fold flip usage virus";

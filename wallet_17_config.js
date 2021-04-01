@@ -1,1 +1,1 @@
-var mnemonic = "adapt multiply deal above seven depend argue speak blind general arrow hotel";
+var mnemonic = "goat toilet wet barrel mind afford unveil chapter seven title donate unique";

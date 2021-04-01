@@ -1,1 +1,1 @@
-var mnemonic = "sudden repeat next stool flower bean ready memory joke ability movie galaxy";
+var mnemonic = "illness senior render success crash hand laundry topple twin aisle fruit leave";

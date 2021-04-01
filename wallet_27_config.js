@@ -1,1 +1,1 @@
-var mnemonic = "glue exercise submit result aspect update juice pink wear edge acid width";
+var mnemonic = "opera small wave boss spoon intact mercy absurd final drill shoulder shoulder";

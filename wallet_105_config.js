@@ -1,1 +1,1 @@
-var mnemonic = "escape misery ocean fee soul clip social possible rug have frost child";
+var mnemonic = "dolphin fatal visual save embark palm child case mix chalk enjoy birth";

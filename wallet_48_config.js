@@ -1,1 +1,1 @@
-var mnemonic = "refuse lottery collect cost upon bridge essence spice plate melody peanut assault";
+var mnemonic = "prize evoke dentist member pony relax double leave cotton luggage lazy mistake";

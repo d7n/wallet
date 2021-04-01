@@ -1,1 +1,1 @@
-var mnemonic = "case file empty erase travel false license fossil item feature salmon armor";
+var mnemonic = "when reveal vault initial decade debris family wing into boy knee object";

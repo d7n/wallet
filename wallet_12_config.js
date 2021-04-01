@@ -1,1 +1,1 @@
-var mnemonic = "device lazy burger obscure disorder bomb despair jelly output push elephant tumble";
+var mnemonic = "cherry coconut hazard toilet few month cannon across flag devote blanket patch";

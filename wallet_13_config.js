@@ -1,1 +1,1 @@
-var mnemonic = "tool buddy arrow unique have local scene senior jungle away eight census";
+var mnemonic = "alter donor shed donor eye stable glad catch include town brain aspect";

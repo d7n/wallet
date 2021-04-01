@@ -1,1 +1,1 @@
-var mnemonic = "praise toast release chest shrug outer large sell fence above actual video";
+var mnemonic = "kingdom draw daring party hello buyer garage position stove family salmon erode";

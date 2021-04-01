@@ -1,1 +1,1 @@
-var mnemonic = "problem pitch meadow venture mix will solar spin isolate ozone segment salt";
+var mnemonic = "enable gown invest scene decrease phone oyster depth effort couch beef ozone";

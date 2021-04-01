@@ -1,1 +1,1 @@
-var mnemonic = "any sign find copper lemon broccoli laundry hip era kitten length board";
+var mnemonic = "flip corn gold seed vessel wrong feel basic amused loud spring game";

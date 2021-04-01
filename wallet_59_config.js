@@ -1,1 +1,1 @@
-var mnemonic = "candy tomato insane oil two dust edge retire arctic solution slab wide";
+var mnemonic = "bright receive lend fog road friend affair knife process rule work caught";

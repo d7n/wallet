@@ -1,1 +1,1 @@
-var mnemonic = "burger diet ostrich rookie senior scorpion speed exhaust obvious improve border enhance";
+var mnemonic = "hazard reopen lion regret gentle dinosaur moment then slice trip purpose awful";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon media ask march gas various tiny mixture shine shift grit track";
+var mnemonic = "chair any require aisle upset live suspect pull joy tongue almost fortune";

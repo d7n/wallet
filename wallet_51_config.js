@@ -1,1 +1,1 @@
-var mnemonic = "around radar obtain whip relax finish away cruel very merry around secret";
+var mnemonic = "much remain mosquito invest useful involve garden vibrant galaxy sell hamster portion";

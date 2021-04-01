@@ -1,1 +1,1 @@
-var mnemonic = "loud draw bless critic doctor jeans useful journey wise science puppy ancient";
+var mnemonic = "trade skirt chalk pull behave open pudding minor such debate pitch amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "flame grass canvas little sun sign oyster adjust caught lazy job movie";
+var mnemonic = "smoke panda flush theory position roast north mandate crater quality churn found";

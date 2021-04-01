@@ -1,1 +1,1 @@
-var mnemonic = "still nothing mimic great path silent file truck electric super affair error";
+var mnemonic = "proof ginger goose step kiss water puzzle demise boring blossom sniff wall";

@@ -1,1 +1,1 @@
-var mnemonic = "age safe topple clinic one tell grocery metal join outer anchor black";
+var mnemonic = "sadness live panic sure congress side hazard lock coast club naive guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "mass vocal ketchup marble same promote dinner naive unfold across crouch maple";
+var mnemonic = "scout beef swamp drastic buyer chunk seven ranch buzz repair document ancient";

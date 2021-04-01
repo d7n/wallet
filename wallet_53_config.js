@@ -1,1 +1,1 @@
-var mnemonic = "churn artwork goddess chuckle tomorrow material offer parade chronic void dog school";
+var mnemonic = "silk grape pair youth sword write sample museum blouse rhythm demand picture";

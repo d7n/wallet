@@ -1,1 +1,1 @@
-var mnemonic = "exchange business crash flame episode tower ankle chat tray always sausage enough";
+var mnemonic = "bacon helmet car robot similar damp vocal brisk hurt human essence tray";

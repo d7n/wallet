@@ -1,1 +1,1 @@
-var mnemonic = "will curve stone jar shell design dolphin pilot hungry parrot transfer version";
+var mnemonic = "autumn open tennis biology ghost idea art guilt rotate crack fever stairs";

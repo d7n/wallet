@@ -1,1 +1,1 @@
-var mnemonic = "alcohol swift paddle awful remind ordinary diary average sunset eagle admit increase";
+var mnemonic = "lumber still level noble noise govern pole couch advance display crucial fluid";

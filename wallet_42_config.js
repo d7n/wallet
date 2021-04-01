@@ -1,1 +1,1 @@
-var mnemonic = "quick weekend dog worth frequent baby hole veteran boost vivid reveal crazy";
+var mnemonic = "scale air seminar zone soccer damp forget surprise call talent vibrant eye";

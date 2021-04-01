@@ -1,1 +1,1 @@
-var mnemonic = "rhythm course guitar pact bottom west fox hedgehog hard enable thumb furnace";
+var mnemonic = "timber mountain amateur ethics insane ethics cat pass morning trim dream kick";

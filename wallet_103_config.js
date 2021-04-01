@@ -1,1 +1,1 @@
-var mnemonic = "audit clown input breeze combine hint awkward beauty fatal surge mandate myth";
+var mnemonic = "side rich height shoe couch token empty wedding invite maid buzz spend";

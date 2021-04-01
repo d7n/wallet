@@ -1,1 +1,1 @@
-var mnemonic = "tonight supreme pulp goose nurse marble deer warm robot rib chunk essence";
+var mnemonic = "aim injury cloth pear shield gorilla kangaroo bulb high ten echo armor";

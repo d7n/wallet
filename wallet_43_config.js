@@ -1,1 +1,1 @@
-var mnemonic = "thank make loan slab situate visit stairs hospital shaft false share bird";
+var mnemonic = "sustain emotion about shuffle lemon romance phrase country equal loop drill flee";

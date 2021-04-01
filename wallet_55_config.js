@@ -1,1 +1,1 @@
-var mnemonic = "silent rose maximum inherit never magnet smoke category pool deliver dynamic attack";
+var mnemonic = "man stove must puzzle shallow best return trim envelope voice interest gift";

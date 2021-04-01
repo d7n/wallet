@@ -1,1 +1,1 @@
-var mnemonic = "velvet hunt elephant olive course orbit glow verb appear taste myself visual";
+var mnemonic = "hope pilot film rocket fine neck crystal father neutral sniff despair purse";

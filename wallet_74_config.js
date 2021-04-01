@@ -1,1 +1,1 @@
-var mnemonic = "sunset bamboo width tissue divorce silly object design deposit rude rhythm blood";
+var mnemonic = "lab ghost dragon describe blanket wrist daughter farm song price drive palm";

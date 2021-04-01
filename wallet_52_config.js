@@ -1,1 +1,1 @@
-var mnemonic = "funny wolf company perfect goat file lumber hybrid pool sudden gesture fit";
+var mnemonic = "loud ski wolf hospital receive alien return visit moral pioneer panda close";

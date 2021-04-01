@@ -1,1 +1,1 @@
-var mnemonic = "rich acoustic royal alley divide gentle proud gadget benefit radar model high";
+var mnemonic = "poem imitate wish shift thank aware episode social general robot practice arm";

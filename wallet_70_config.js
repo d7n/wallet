@@ -1,1 +1,1 @@
-var mnemonic = "rate sad swing scale coconut spare multiply eye evidence habit carpet kidney";
+var mnemonic = "fame engine pride public friend view choice already merit diesel spy lumber";

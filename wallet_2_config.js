@@ -1,1 +1,1 @@
-var mnemonic = "craft bomb grocery truth video scatter have cry royal rigid pond creek";
+var mnemonic = "enable anchor sustain salmon race rebel blur affair poet spider laugh culture";

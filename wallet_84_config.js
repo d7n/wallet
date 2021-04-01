@@ -1,1 +1,1 @@
-var mnemonic = "strong autumn hamster wrong gorilla nest minor improve lemon task notable zoo";
+var mnemonic = "design habit lemon school lake expose hawk knock step peanut concert battle";

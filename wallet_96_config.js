@@ -1,1 +1,1 @@
-var mnemonic = "crisp pattern remind student symbol first one praise moon vivid smile duty";
+var mnemonic = "few inside sort betray tool join drink grass fresh report buyer violin";

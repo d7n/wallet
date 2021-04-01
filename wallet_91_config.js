@@ -1,1 +1,1 @@
-var mnemonic = "valley broken give audit wrist ostrich grass trip enrich marriage notice zero";
+var mnemonic = "immense major multiply chuckle square bleak fire embody pudding silent olympic prevent";

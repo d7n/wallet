@@ -1,1 +1,1 @@
-var mnemonic = "remove share stomach rookie merit bike toward sand tuition devote slogan scrub";
+var mnemonic = "prepare learn arrive income frost youth atom industry effort assume filter maid";

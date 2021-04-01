@@ -1,1 +1,1 @@
-var mnemonic = "jelly caught gate crucial case grid ketchup noble infant similar still script";
+var mnemonic = "tiger topple gossip father raven shield mansion one curtain diet protect true";

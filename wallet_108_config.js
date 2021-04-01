@@ -1,1 +1,1 @@
-var mnemonic = "large conduct corn busy craft crawl sorry roast rookie birth trigger virus";
+var mnemonic = "about mango text play response once side solar bicycle peace conduct sleep";

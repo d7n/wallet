@@ -1,1 +1,1 @@
-var mnemonic = "useless rebuild grant oyster critic slim rely crystal liquid discover omit desk";
+var mnemonic = "gentle actor usual husband mansion spirit wrestle antique mesh laptop day rose";

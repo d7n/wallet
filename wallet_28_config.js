@@ -1,1 +1,1 @@
-var mnemonic = "cluster amazing spray twenty twin ordinary help catalog panda trend kind pepper";
+var mnemonic = "risk twenty exclude feel empower review boil protect canvas gather nephew glow";

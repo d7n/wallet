@@ -1,1 +1,1 @@
-var mnemonic = "ritual piano drop total hurt enter gold produce negative inch cactus shift";
+var mnemonic = "switch solve result choice hunt vocal wink focus kit bacon talent fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "phone accuse pipe glance furnace okay battle view heart fuel sunny route";
+var mnemonic = "dizzy admit item judge lumber equip produce human option vacuum canvas naive";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel into kangaroo evidence share toss cart perfect frequent flat bicycle base";
+var mnemonic = "speed shadow mammal fault comic boil nominee annual garlic plate series ship";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder begin jump under choose oxygen great adjust bunker drama panda staff";
+var mnemonic = "swallow biology february square supply distance party glare local cargo credit foil";

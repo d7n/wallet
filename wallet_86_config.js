@@ -1,1 +1,1 @@
-var mnemonic = "pass message merge sword frequent own capital hope village lounge run proud";
+var mnemonic = "merge prepare alert almost share naive abstract into trade bright size mosquito";
