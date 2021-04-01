@@ -1,1 +1,1 @@
-var mnemonic = "gym robust dry small noble walnut acoustic ability ignore occur wide lava";
+var mnemonic = "ocean animal minor captain snow hip level match pole cake oven stone";

@@ -1,1 +1,1 @@
-var mnemonic = "pink during camera hero nothing balance machine cinnamon salt prepare animal nose";
+var mnemonic = "filter convince congress choose exclude control unfold spike hamster history state raise";

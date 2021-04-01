@@ -1,1 +1,1 @@
-var mnemonic = "fragile river snap crazy scan client submit chat friend drive riot misery";
+var mnemonic = "museum faculty ahead armor february maid broccoli liar close aisle gate depart";

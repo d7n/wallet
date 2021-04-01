@@ -1,1 +1,1 @@
-var mnemonic = "vote sleep practice skate dismiss mixed shell across creek advance poverty midnight";
+var mnemonic = "rail spoil report rich old quiz paddle spread chat relax concert large";

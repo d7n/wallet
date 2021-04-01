@@ -1,1 +1,1 @@
-var mnemonic = "lucky toilet winter suspect victory frost valley dentist double onion much poverty";
+var mnemonic = "pear sample rose flight burst banner mechanic coffee talent still there brick";

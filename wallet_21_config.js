@@ -1,1 +1,1 @@
-var mnemonic = "circle away prepare stereo pitch cannon believe brave sing start trumpet adult";
+var mnemonic = "area divorce hurry core tower merit elbow lizard promote laptop rally damp";

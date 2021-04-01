@@ -1,1 +1,1 @@
-var mnemonic = "crash spring slide solution clutch miss glad victory invest hope breeze wine";
+var mnemonic = "gas option bid comfort soon axis fit night lamp age wall pluck";

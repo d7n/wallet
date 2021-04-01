@@ -1,1 +1,1 @@
-var mnemonic = "soap carry island crime peasant enforce sister cry act bring dawn finger";
+var mnemonic = "salmon decide walnut mushroom dawn describe reopen general menu lucky dolphin must";

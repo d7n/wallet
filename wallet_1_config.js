@@ -1,1 +1,1 @@
-var mnemonic = "hood decorate thank jar person abandon female border chat human predict lucky";
+var mnemonic = "crumble actress figure toast music siege foam better burst grace siren model";

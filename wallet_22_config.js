@@ -1,1 +1,1 @@
-var mnemonic = "design window always liar physical detect mesh cash film discover human senior";
+var mnemonic = "choice update prevent agree upgrade pledge loop wasp finish gauge empty wedding";

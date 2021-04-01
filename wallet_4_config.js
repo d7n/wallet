@@ -1,1 +1,1 @@
-var mnemonic = "deliver wave lift certain chat poem super chase repair waste assume mimic";
+var mnemonic = "slide hunt merit spike legend quarter else any van diagram speak tray";

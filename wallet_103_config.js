@@ -1,1 +1,1 @@
-var mnemonic = "lumber secret robot scheme urge carbon crystal swarm series else nose glad";
+var mnemonic = "retire rail upgrade energy kingdom squirrel render same gate very elephant result";

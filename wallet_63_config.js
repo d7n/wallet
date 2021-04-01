@@ -1,1 +1,1 @@
-var mnemonic = "phrase cousin code sad paddle avoid floor doll alien nest rail shield";
+var mnemonic = "ski cactus theory elegant often among diesel inhale butter all middle target";

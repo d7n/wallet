@@ -1,1 +1,1 @@
-var mnemonic = "gesture glue dog cluster ensure prepare party welcome solution crack tool eyebrow";
+var mnemonic = "antique loop student arrow round sword quick strategy make rail spread today";

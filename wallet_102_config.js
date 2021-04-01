@@ -1,1 +1,1 @@
-var mnemonic = "enter argue income expand tobacco donate foster thought dawn august cube pupil";
+var mnemonic = "canal paper honey fun drill doctor rival thank veteran discover coyote mystery";

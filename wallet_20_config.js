@@ -1,1 +1,1 @@
-var mnemonic = "produce ginger duty thought umbrella outside staff potato penalty animal sustain same";
+var mnemonic = "job ready upper where minimum great siren case grant area moment tuna";

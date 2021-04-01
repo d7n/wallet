@@ -1,1 +1,1 @@
-var mnemonic = "aunt drop welcome book annual awake humor tiny awake stable desert middle";
+var mnemonic = "mimic inhale waste recycle crawl melody arrow rug abandon flame reason source";

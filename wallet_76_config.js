@@ -1,1 +1,1 @@
-var mnemonic = "wish annual trigger ten still alpha write broom salmon inquiry holiday adult";
+var mnemonic = "coconut false return gravity learn nose start charge dose snow earth sail";

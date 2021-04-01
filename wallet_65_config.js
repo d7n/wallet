@@ -1,1 +1,1 @@
-var mnemonic = "festival nerve blur guilt picture siren capable laugh surface patient arena flag";
+var mnemonic = "awkward tomorrow game better verb economy genre employ hand initial screen already";

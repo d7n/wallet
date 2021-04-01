@@ -1,1 +1,1 @@
-var mnemonic = "what marine arrow kiwi this cradle sphere fabric style used loan hole";
+var mnemonic = "relax close heart obtain found taste coral appear tiny board lyrics autumn";

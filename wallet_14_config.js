@@ -1,1 +1,1 @@
-var mnemonic = "vicious item boy fall online ill vote can night rate boy special";
+var mnemonic = "stool rebuild produce level payment they stuff chunk enforce hazard vague panther";

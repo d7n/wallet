@@ -1,1 +1,1 @@
-var mnemonic = "enemy century spy theme foster shuffle pear name double flower farm unable";
+var mnemonic = "hello together share nothing damage castle mother hope wire grass myself transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor kid dice void flower stock actress keen visual security cry uncle";
+var mnemonic = "loyal pumpkin across video eternal minute field claw blood pen anchor egg";

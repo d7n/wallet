@@ -1,1 +1,1 @@
-var mnemonic = "chimney furnace result smooth slow level joy banner list glare latin motor";
+var mnemonic = "ribbon matrix occur purchase salt tornado project wing treat critic dash salon";

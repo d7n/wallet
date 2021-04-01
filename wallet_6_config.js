@@ -1,1 +1,1 @@
-var mnemonic = "wing grief piano step music spoon gauge stove truth worth sibling please";
+var mnemonic = "must ecology kite mesh labor reveal sudden useless doctor erupt near asset";

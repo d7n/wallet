@@ -1,1 +1,1 @@
-var mnemonic = "confirm bridge favorite pass wrap rapid ancient mystery burger timber around fly";
+var mnemonic = "scene cereal spot first another science vanish sick joke erupt cream receive";

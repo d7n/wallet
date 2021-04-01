@@ -1,1 +1,1 @@
-var mnemonic = "duty large mixed kit defense bright silent music sight always all snake";
+var mnemonic = "used yellow mechanic misery choice chapter bonus weasel regret person illness crowd";

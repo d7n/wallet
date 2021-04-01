@@ -1,1 +1,1 @@
-var mnemonic = "grass narrow bronze lawn orchard shadow meadow art morning spider column kingdom";
+var mnemonic = "govern cruel zero super cupboard laugh behind quick eager domain vivid eyebrow";

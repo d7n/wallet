@@ -1,1 +1,1 @@
-var mnemonic = "vendor cement spot output quiz bone mammal table island memory bless maximum";
+var mnemonic = "churn practice angry fortune pulse history much typical female treat rough bottom";

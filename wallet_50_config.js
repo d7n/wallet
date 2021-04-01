@@ -1,1 +1,1 @@
-var mnemonic = "stage ivory depth easy scare snap oyster slice shield earn truth merit";
+var mnemonic = "kidney impact venture slender source monitor force bounce logic timber protect convince";

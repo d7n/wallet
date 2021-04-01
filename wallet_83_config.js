@@ -1,1 +1,1 @@
-var mnemonic = "render rule hen tissue fold original erosion onion usage still boost lawsuit";
+var mnemonic = "judge remain chicken girl train vault buyer quick job siege case fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge easily over unaware vanish swear divide such parrot permit miracle black";
+var mnemonic = "baby gospel expose alarm since when tattoo broccoli drink banner razor security";

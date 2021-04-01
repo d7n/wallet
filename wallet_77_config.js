@@ -1,1 +1,1 @@
-var mnemonic = "come tank improve warrior metal patrol warfare cute erosion average twin vital";
+var mnemonic = "broccoli measure catalog buddy ivory gloom circle crash pony know tomato stairs";

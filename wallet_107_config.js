@@ -1,1 +1,1 @@
-var mnemonic = "renew agree casual ladder slice educate false sport buyer fatigue scrub goddess";
+var mnemonic = "orient palace garment always fame anchor quit unfold nerve cream goat lake";

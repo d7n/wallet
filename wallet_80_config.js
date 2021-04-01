@@ -1,1 +1,1 @@
-var mnemonic = "sketch civil aisle blood plastic bounce early bag hint biology good pattern";
+var mnemonic = "combine depart range brief faith aunt analyst duck blush lonely gas hazard";

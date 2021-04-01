@@ -1,1 +1,1 @@
-var mnemonic = "ice choice task action today grace skull you female logic ability annual";
+var mnemonic = "nominee west lawsuit vacant coral polar popular siren margin window possible sword";

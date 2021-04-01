@@ -1,1 +1,1 @@
-var mnemonic = "shield float cave agree dismiss cradle affair essence turtle bright attack scale";
+var mnemonic = "inspire vintage rib brisk boat genre forget owner must flush chuckle catch";

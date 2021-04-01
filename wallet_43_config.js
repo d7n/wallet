@@ -1,1 +1,1 @@
-var mnemonic = "coffee average book sauce advice fold rebuild outside clock fashion hurt theory";
+var mnemonic = "lumber pepper response infant toe pass latin wire hello more mouse old";

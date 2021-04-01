@@ -1,1 +1,1 @@
-var mnemonic = "leisure must first much rival inject maze refuse squirrel champion twice labor";
+var mnemonic = "protect remind jewel comfort gain excite cram property fog heart pride smoke";

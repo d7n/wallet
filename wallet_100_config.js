@@ -1,1 +1,1 @@
-var mnemonic = "include police major holiday fiscal aisle black wrist route tomorrow add because";
+var mnemonic = "stage release youth civil subject jump field flower immense oyster convince erode";

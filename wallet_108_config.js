@@ -1,1 +1,1 @@
-var mnemonic = "unveil lady fold actress weasel despair answer away toddler poverty surge infant";
+var mnemonic = "topic step cruel turtle snow scare grunt link danger admit confirm entire";

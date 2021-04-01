@@ -1,1 +1,1 @@
-var mnemonic = "near recipe dune liquid certain person decrease rude tonight verify picture crowd";
+var mnemonic = "cricket salad seed lunar wolf infant maid iron salon analyst amateur hunt";

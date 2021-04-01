@@ -1,1 +1,1 @@
-var mnemonic = "doctor floor urge lend use million burden group easily size jazz bunker";
+var mnemonic = "hollow success satisfy language avoid rally metal first neither roof couple stand";

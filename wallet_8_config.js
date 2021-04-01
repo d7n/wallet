@@ -1,1 +1,1 @@
-var mnemonic = "hat call six sort field uniform arrive scene devote cereal copy glide";
+var mnemonic = "tourist ripple damage sibling stumble average regular tell rail lottery modify snap";

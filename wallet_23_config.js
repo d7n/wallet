@@ -1,1 +1,1 @@
-var mnemonic = "mixture palm scare mouse move polar host network oak slice visa jazz";
+var mnemonic = "cargo soap network novel earth belt safe spread flame chase dolphin scissors";

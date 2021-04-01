@@ -1,1 +1,1 @@
-var mnemonic = "carbon glow wrist reunion civil glue escape melody aspect walk half eight";
+var mnemonic = "trial echo foam expect ring slender dream little tooth sweet settle fury";

@@ -1,1 +1,1 @@
-var mnemonic = "arm leisure spirit forum clutch mouse stock illness zebra grocery give seat";
+var mnemonic = "other only shadow math cream invite hamster lava fox bullet panda sad";

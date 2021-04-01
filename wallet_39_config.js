@@ -1,1 +1,1 @@
-var mnemonic = "shield lemon butter police doll army clock brave grit setup lab raccoon";
+var mnemonic = "off phrase gallery anxiety bench bar march caught hedgehog major maximum excuse";

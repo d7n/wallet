@@ -1,1 +1,1 @@
-var mnemonic = "calm screen attitude fossil donkey group nerve cake follow giggle soup usage";
+var mnemonic = "forward hero poem thunder project virus young rebuild twist swift edge purity";

@@ -1,1 +1,1 @@
-var mnemonic = "come castle law photo describe invest rival husband picnic walnut mesh sketch";
+var mnemonic = "next spell wide confirm lawn wise kite zero example unaware cube board";

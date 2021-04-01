@@ -1,1 +1,1 @@
-var mnemonic = "meat taste float choice chief battle okay health auto anger salmon phone";
+var mnemonic = "depth picture street pen whip desert lobster tray struggle switch can cousin";

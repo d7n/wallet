@@ -1,1 +1,1 @@
-var mnemonic = "snack treat reveal defense mansion bread orphan entry lunch vocal gossip biology";
+var mnemonic = "chase swing citizen doctor tennis truly acid sea kid supply black visit";

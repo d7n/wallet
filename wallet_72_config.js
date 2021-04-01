@@ -1,1 +1,1 @@
-var mnemonic = "fury runway poem enforce type outer expose novel box match body effort";
+var mnemonic = "keep genius festival harsh safe relax gasp enforce kitten advice carbon climb";

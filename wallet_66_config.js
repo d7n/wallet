@@ -1,1 +1,1 @@
-var mnemonic = "stage upon fix jump decline empty high glad bleak dwarf clog kitchen";
+var mnemonic = "game father fantasy beauty muffin drop claw sunny inflict spoil rail egg";

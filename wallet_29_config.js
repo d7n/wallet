@@ -1,1 +1,1 @@
-var mnemonic = "essay trash today dumb syrup palm enforce blanket area endorse ride people";
+var mnemonic = "daughter negative creek fame hurry core way there bulk prize seat shine";

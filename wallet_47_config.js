@@ -1,1 +1,1 @@
-var mnemonic = "find sea fancy twenty antenna chef churn nation artefact frog tobacco wolf";
+var mnemonic = "lift ensure cool couch save school spot seat pet trophy robust maze";

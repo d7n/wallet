@@ -1,1 +1,1 @@
-var mnemonic = "chapter awkward physical away leaf vault resource review essence save finger left";
+var mnemonic = "please urge awkward group endorse fortune laundry shift alley elevator truth peanut";

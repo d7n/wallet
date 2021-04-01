@@ -1,1 +1,1 @@
-var mnemonic = "spot grief later mother athlete defense chapter onion dawn talent enforce nominee";
+var mnemonic = "organ pupil butter major segment roast olive isolate gauge drill comic artefact";

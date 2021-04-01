@@ -1,1 +1,1 @@
-var mnemonic = "crash monster tag lesson gossip release immune clarify gather garment jump brother";
+var mnemonic = "attitude number nose expire bean vendor labor black wedding spell police easy";

@@ -1,1 +1,1 @@
-var mnemonic = "primary list test decade glare merry museum adjust goddess sad consider pride";
+var mnemonic = "salon present ball check ladder brass lemon relief sport patrol embark symptom";

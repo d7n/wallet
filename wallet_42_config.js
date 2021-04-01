@@ -1,1 +1,1 @@
-var mnemonic = "holiday poverty will opera sure immense maple shaft curious assist more climb";
+var mnemonic = "brick dutch butter sting hungry shy tuition bless doctor kitchen harvest gain";

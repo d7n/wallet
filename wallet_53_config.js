@@ -1,1 +1,1 @@
-var mnemonic = "steak atom void eager gold surprise normal december figure snap horn surge";
+var mnemonic = "sausage muffin woman swallow among worry dynamic delay hidden hour gap census";

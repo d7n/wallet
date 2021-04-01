@@ -1,1 +1,1 @@
-var mnemonic = "grape walk burst angle leader tenant page brain undo detail drop assist";
+var mnemonic = "wagon rapid jealous mimic vital leg soft clean cricket lecture genuine chef";

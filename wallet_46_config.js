@@ -1,1 +1,1 @@
-var mnemonic = "replace cake fan asset hollow alley taste caution foster drum theory expose";
+var mnemonic = "face stick poet brave aisle cream quick october lab leave easily clog";

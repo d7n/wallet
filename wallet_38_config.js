@@ -1,1 +1,1 @@
-var mnemonic = "favorite fitness wear menu churn crucial script record sleep valley mansion extend";
+var mnemonic = "pumpkin cattle rare crawl barrel home tag frozen hidden lunar surface sting";

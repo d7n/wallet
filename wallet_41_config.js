@@ -1,1 +1,1 @@
-var mnemonic = "bridge zebra alter now agent peasant stem large sun cruise spike output";
+var mnemonic = "talk round minimum lizard ensure decide three balance toss negative tennis same";

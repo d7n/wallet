@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sleep useless awkward anchor reopen recipe student away unable flavor siege";
+var mnemonic = "sport say fuel october wreck borrow effort orient pony icon rug smile";

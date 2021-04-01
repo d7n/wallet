@@ -1,1 +1,1 @@
-var mnemonic = "rely genuine inhale differ pulp slush meadow answer board jealous spray choose";
+var mnemonic = "lonely depend follow join other able charge exercise same enroll harbor copper";

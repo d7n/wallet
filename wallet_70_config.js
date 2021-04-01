@@ -1,1 +1,1 @@
-var mnemonic = "tired divorce submit bamboo example shield nation distance tattoo edge answer december";
+var mnemonic = "glad tail original robust song citizen biology fashion more bulk eyebrow govern";

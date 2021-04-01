@@ -1,1 +1,1 @@
-var mnemonic = "peanut aunt deliver husband climb amazing subject truly ozone still valve grocery";
+var mnemonic = "beach sorry label case tube nuclear duty exit edge enough farm kiss";

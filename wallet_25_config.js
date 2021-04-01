@@ -1,1 +1,1 @@
-var mnemonic = "utility giggle index hamster payment primary wink west romance argue fever flight";
+var mnemonic = "divert industry seek ridge purity panther cancel detail thing spend update skirt";

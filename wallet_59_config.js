@@ -1,1 +1,1 @@
-var mnemonic = "action pretty turkey violin park slim february moon flash absent fence chunk";
+var mnemonic = "tunnel stumble media horse mail save display two believe identify burst trash";

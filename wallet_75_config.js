@@ -1,1 +1,1 @@
-var mnemonic = "ladder rebel speed twist candy slam bracket sort legend aisle jump rigid";
+var mnemonic = "delay van shift clock noise suggest woman again slice unhappy kingdom second";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow fence orient inmate gap private dentist upon arrow style maple whip";
+var mnemonic = "until slogan tumble clean weasel grocery senior pill until client legal pudding";

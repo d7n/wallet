@@ -1,1 +1,1 @@
-var mnemonic = "card main dawn reject update walnut tone vehicle oblige humor winner govern";
+var mnemonic = "happy peace flag dose dog enlist struggle youth mammal electric surface float";

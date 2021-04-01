@@ -1,1 +1,1 @@
-var mnemonic = "mobile lava volcano mimic uncover sport torch layer lunch sunset mango throw";
+var mnemonic = "about scrap exchange cage oval uniform island sibling shuffle pigeon cannon forest";

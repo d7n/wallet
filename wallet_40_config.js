@@ -1,1 +1,1 @@
-var mnemonic = "traffic level topple stem east quote express vendor gaze agree refuse trash";
+var mnemonic = "oppose timber paddle invest card mammal mix parrot carbon guess laundry chimney";

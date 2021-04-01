@@ -1,1 +1,1 @@
-var mnemonic = "prevent strategy question spice delay swamp certain harbor will jealous license rail";
+var mnemonic = "inside resist cream december tree okay sand crumble depth silk cinnamon lounge";

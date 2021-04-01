@@ -1,1 +1,1 @@
-var mnemonic = "place fox ready type lazy feed grief speed wide together rose pyramid";
+var mnemonic = "kitten grit relief hard drama taxi someone sort congress permit sight waste";

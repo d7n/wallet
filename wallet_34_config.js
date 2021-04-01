@@ -1,1 +1,1 @@
-var mnemonic = "practice visa height advice castle warm off observe evidence olive match sponsor";
+var mnemonic = "country awesome jewel bread lake armor tank truck artwork time confirm pig";

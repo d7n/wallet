@@ -1,1 +1,1 @@
-var mnemonic = "mouse trigger siren emerge kid age oak now ahead ginger language soccer";
+var mnemonic = "slab one lava news neutral phone dust nut accuse immune tell possible";

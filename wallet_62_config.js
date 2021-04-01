@@ -1,1 +1,1 @@
-var mnemonic = "purse mimic please urban hammer torch burst comfort seek piano sorry ethics";
+var mnemonic = "quote parrot giant pluck sphere virus model antenna glance ketchup arrive alien";

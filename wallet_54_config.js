@@ -1,1 +1,1 @@
-var mnemonic = "energy ship skull cash unfair sheriff battle thought rail fragile type pause";
+var mnemonic = "lake wisdom february gate beyond copy rely alarm enforce luggage segment moon";

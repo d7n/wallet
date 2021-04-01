@@ -1,1 +1,1 @@
-var mnemonic = "dash disagree skirt clay tip put antique spatial dentist energy armed tag";
+var mnemonic = "east rebuild copy decide purpose blind that excite atom shell target flat";

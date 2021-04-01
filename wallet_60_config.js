@@ -1,1 +1,1 @@
-var mnemonic = "rescue noodle destroy habit pitch fade prevent gate setup diary over danger";
+var mnemonic = "category giggle clock ring duck daughter novel knife endless taste chase shrug";

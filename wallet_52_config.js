@@ -1,1 +1,1 @@
-var mnemonic = "census prefer bonus oven nominee grief oven liberty protect sad coast any";
+var mnemonic = "drift again speed nation already motor pen vast segment victory diet final";

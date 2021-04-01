@@ -1,1 +1,1 @@
-var mnemonic = "february settle giraffe smile pave frown regular bubble shrimp verify couple goat";
+var mnemonic = "believe toddler cement edge sauce train coach vast alpha hollow journey throw";
