@@ -1,1 +1,1 @@
-var mnemonic = "orange timber upset auto capital echo armor hint dizzy enough web spell";
+var mnemonic = "syrup issue ball milk ask drama click vibrant accuse trophy comic yellow";

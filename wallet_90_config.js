@@ -1,1 +1,1 @@
-var mnemonic = "practice foil thing radar position shoe riot axis beef limit uncover predict";
+var mnemonic = "portion resource august bubble tube sudden element journey stadium dress robot sock";

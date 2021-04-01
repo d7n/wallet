@@ -1,1 +1,1 @@
-var mnemonic = "truck ancient group labor kidney enlist message utility april spoil benefit fit";
+var mnemonic = "poet daughter sad dice ginger problem season island hammer love twin rubber";

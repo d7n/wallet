@@ -1,1 +1,1 @@
-var mnemonic = "cradle call choose rhythm plug fabric circle glad scissors pipe away burst";
+var mnemonic = "check opera minor find crater timber enhance record appear pear copy reflect";

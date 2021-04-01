@@ -1,1 +1,1 @@
-var mnemonic = "tobacco naive merry imitate clog crystal undo protect lake hour much disagree";
+var mnemonic = "tomorrow live hood custom snow auto better pluck such worth bird repair";

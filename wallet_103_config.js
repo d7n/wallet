@@ -1,1 +1,1 @@
-var mnemonic = "grit size hole country visual member attitude soon toy impose grid exclude";
+var mnemonic = "code fork south manual empty awake lock stone media please seed furnace";

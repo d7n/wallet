@@ -1,1 +1,1 @@
-var mnemonic = "filter train final aisle drum cushion alert scatter penalty dwarf inhale maximum";
+var mnemonic = "gas nerve staff front bunker track pet crash raccoon busy hint front";

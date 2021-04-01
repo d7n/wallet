@@ -1,1 +1,1 @@
-var mnemonic = "wealth learn pole unlock neither deliver balance bone pyramid reveal blue hold";
+var mnemonic = "visual grid pottery airport gate kit start thumb detect bird attack fold";

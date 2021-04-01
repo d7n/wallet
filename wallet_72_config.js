@@ -1,1 +1,1 @@
-var mnemonic = "alpha remain expand room throw awkward whisper type fence scatter genre math";
+var mnemonic = "cheap loyal bless blouse narrow hard script suffer brother used replace tank";

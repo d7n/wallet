@@ -1,1 +1,1 @@
-var mnemonic = "enough couple scale extend pupil source surprise access shiver across rose slam";
+var mnemonic = "differ velvet space outer convince hidden dry front square cactus decide reform";

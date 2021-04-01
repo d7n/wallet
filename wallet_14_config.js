@@ -1,1 +1,1 @@
-var mnemonic = "loud spring base resource dinosaur spike ladder genre later flat front aspect";
+var mnemonic = "erupt six language transfer teach account melody afford elder recycle exile expire";

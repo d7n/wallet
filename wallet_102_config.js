@@ -1,1 +1,1 @@
-var mnemonic = "tone powder sudden submit faculty fire approve glad reunion blur present bounce";
+var mnemonic = "master next bench reduce message because path fly furnace royal elevator demise";

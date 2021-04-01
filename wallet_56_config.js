@@ -1,1 +1,1 @@
-var mnemonic = "photo panther sock palace satisfy original door series receive jazz quantum system";
+var mnemonic = "dose delay size curtain inhale scatter screen diesel slogan position struggle october";

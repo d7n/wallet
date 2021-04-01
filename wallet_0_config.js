@@ -1,1 +1,1 @@
-var mnemonic = "fluid cage lecture shift system throw fashion aunt want sweet busy brass";
+var mnemonic = "select motion roof comfort razor fun unhappy pond walnut deputy wagon square";

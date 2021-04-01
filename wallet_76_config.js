@@ -1,1 +1,1 @@
-var mnemonic = "expand eye sound bitter caught flag rescue misery bachelor pause able squirrel";
+var mnemonic = "rotate second bounce flag evoke entry arm clinic garlic busy image stomach";

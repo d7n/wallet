@@ -1,1 +1,1 @@
-var mnemonic = "license equal online trash quality capital smile arm census lens else velvet";
+var mnemonic = "pride iron hour fuel clog rain sock sibling envelope force service enter";

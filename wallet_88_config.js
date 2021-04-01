@@ -1,1 +1,1 @@
-var mnemonic = "stool other camera trophy kidney capable excite flat meat manual behind input";
+var mnemonic = "rabbit analyst fold swing destroy below wait fish tower exchange dice science";

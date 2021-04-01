@@ -1,1 +1,1 @@
-var mnemonic = "correct increase retire public depth notice decide forum winner lecture seminar drop";
+var mnemonic = "elephant grunt busy myth advice section ensure there notable vacant later swift";

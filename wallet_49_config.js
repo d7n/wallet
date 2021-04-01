@@ -1,1 +1,1 @@
-var mnemonic = "beyond scene best twin wild weekend awkward illness lunar motor trophy first";
+var mnemonic = "rice limb crash park asset head knee candy fade path own group";

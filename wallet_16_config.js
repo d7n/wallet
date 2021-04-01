@@ -1,1 +1,1 @@
-var mnemonic = "seek glass pink better wrong state indicate hello drip ready play cotton";
+var mnemonic = "series hand recipe jar path churn midnight find stable menu quote spy";

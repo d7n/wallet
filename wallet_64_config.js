@@ -1,1 +1,1 @@
-var mnemonic = "path decide enter donor more rebuild spawn receive secret hundred naive bird";
+var mnemonic = "among spin panel benefit satoshi private wreck spawn wish kid hungry morning";

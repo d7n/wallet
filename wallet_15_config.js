@@ -1,1 +1,1 @@
-var mnemonic = "twin useful lunar insect over solution infant clinic torch acid broom guide";
+var mnemonic = "style fever veteran quick screen nut thrive play dutch risk civil credit";

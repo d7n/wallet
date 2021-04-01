@@ -1,1 +1,1 @@
-var mnemonic = "ecology purity nut current task embark jazz north bubble click mammal forward";
+var mnemonic = "chunk month stuff banner parrot icon receive hint vicious social that omit";

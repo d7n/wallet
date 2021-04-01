@@ -1,1 +1,1 @@
-var mnemonic = "sample eyebrow expose search daughter unfold scan often cradle canal poem assume";
+var mnemonic = "more dog wise emerge oak head fiscal hundred trick balcony family raven";

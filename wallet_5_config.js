@@ -1,1 +1,1 @@
-var mnemonic = "agent front runway wage report outdoor glance abandon become industry rocket dove";
+var mnemonic = "knock joy lucky decide ask suit wisdom purse mom reason income bullet";

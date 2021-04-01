@@ -1,1 +1,1 @@
-var mnemonic = "race crime bind dawn force month antique crime eyebrow wire rail foster";
+var mnemonic = "rough moment debris ignore paper false loop dove twelve banner green twenty";

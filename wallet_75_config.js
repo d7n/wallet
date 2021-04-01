@@ -1,1 +1,1 @@
-var mnemonic = "remind destroy flower winter chest dune knee forward ice sentence tail dose";
+var mnemonic = "lonely already orange come deer help mask cloud derive orchard category awful";

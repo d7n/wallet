@@ -1,1 +1,1 @@
-var mnemonic = "hurt polar scheme federal bubble promote stuff control diesel vapor mountain link";
+var mnemonic = "welcome galaxy near install excite invite shrug sing pond potato mobile labor";

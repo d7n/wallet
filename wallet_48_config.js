@@ -1,1 +1,1 @@
-var mnemonic = "major skirt rifle vault client language merry layer offer dry citizen mask";
+var mnemonic = "system moment walnut worry puppy appear where final bird gadget dismiss tank";

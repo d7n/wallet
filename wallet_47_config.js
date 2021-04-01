@@ -1,1 +1,1 @@
-var mnemonic = "mother bronze depend end setup casual priority helmet brush glance lesson atom";
+var mnemonic = "leave success sort ice version device sight meat square salt tonight siege";

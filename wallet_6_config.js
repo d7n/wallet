@@ -1,1 +1,1 @@
-var mnemonic = "lucky chaos attend magnet unable deal vapor surprise three result exile symptom";
+var mnemonic = "idea shaft flower mountain awkward ribbon gold clutch logic conduct orbit state";

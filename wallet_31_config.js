@@ -1,1 +1,1 @@
-var mnemonic = "hen increase monitor crack shrug penalty sunny virtual oval wonder puzzle cart";
+var mnemonic = "initial ocean cute october upon able often pact weasel must garment under";

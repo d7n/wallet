@@ -1,1 +1,1 @@
-var mnemonic = "alter couch antique system reject among actor transfer fiscal chimney galaxy destroy";
+var mnemonic = "cave prepare solid shine tide any sentence grain office rib photo three";

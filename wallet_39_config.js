@@ -1,1 +1,1 @@
-var mnemonic = "ordinary ring neck feel garment end devote found chase guess soup limit";
+var mnemonic = "ignore knife panda amount unknown visual nose awful sorry quit arena dad";

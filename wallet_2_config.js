@@ -1,1 +1,1 @@
-var mnemonic = "donate tiny congress sketch judge ribbon enlist fix diesel stamp garlic actor";
+var mnemonic = "skirt custom trip doctor island emotion picture life afford noise wide raise";

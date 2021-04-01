@@ -1,1 +1,1 @@
-var mnemonic = "slender legal destroy blush dentist vacant problem harvest afford labor whale gift";
+var mnemonic = "photo shield steak arctic limit post turkey concert quality load all friend";

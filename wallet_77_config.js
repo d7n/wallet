@@ -1,1 +1,1 @@
-var mnemonic = "lottery enroll fiction position segment purpose flower mask crunch cancel food royal";
+var mnemonic = "slim boss melody priority shadow slot deposit enact drive guess supreme divide";

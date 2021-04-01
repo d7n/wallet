@@ -1,1 +1,1 @@
-var mnemonic = "stick erupt eternal across fee engage neck monkey select token width version";
+var mnemonic = "cement disorder sad frog slight pill damage cream scale banner maximum off";

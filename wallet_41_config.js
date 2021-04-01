@@ -1,1 +1,1 @@
-var mnemonic = "rug special memory rhythm situate dirt medal bench bone fatal song genuine";
+var mnemonic = "elegant unusual december current invite rack front denial melody style option guide";

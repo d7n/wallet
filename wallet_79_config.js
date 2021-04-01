@@ -1,1 +1,1 @@
-var mnemonic = "chair expose machine panel pelican rent deal scrap glass emerge solve slot";
+var mnemonic = "promote welcome ride over blur word toddler admit web regular risk decline";

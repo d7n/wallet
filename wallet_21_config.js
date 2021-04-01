@@ -1,1 +1,1 @@
-var mnemonic = "escape nerve core copper cruel often improve board cake flock insect obtain";
+var mnemonic = "identify remain spider raven history install range clean useless human blue stem";

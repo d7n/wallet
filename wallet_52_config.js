@@ -1,1 +1,1 @@
-var mnemonic = "grit venture benefit domain hour cruel attack mushroom neutral history start cradle";
+var mnemonic = "amount abandon skate broom card alone end nasty any annual cycle age";

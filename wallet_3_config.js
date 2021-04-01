@@ -1,1 +1,1 @@
-var mnemonic = "glance cupboard enough diamond area chunk matter either goddess gain blush auction";
+var mnemonic = "sample way feed lab solid depend mandate tissue avocado usage tree antenna";

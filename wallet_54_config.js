@@ -1,1 +1,1 @@
-var mnemonic = "next stuff orbit nurse need ketchup mule clump relax spoil joy gate";
+var mnemonic = "arrest void rug sense sail raw cable injury bullet exit chronic nephew";

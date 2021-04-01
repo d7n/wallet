@@ -1,1 +1,1 @@
-var mnemonic = "team predict debris detail photo that cloth raccoon obtain bleak general van";
+var mnemonic = "simple exile detail smoke account solar increase basket such area couple garbage";

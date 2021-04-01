@@ -1,1 +1,1 @@
-var mnemonic = "public clog truck gloom lava rough canoe version reason size during miracle";
+var mnemonic = "electric behave sustain drum kitchen shove behave cash palm affair speed mom";

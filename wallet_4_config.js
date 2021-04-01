@@ -1,1 +1,1 @@
-var mnemonic = "february drama answer twenty priority copy three joke vicious jeans drift balcony";
+var mnemonic = "obvious defy random tide double cluster mobile quarter scare child melody praise";

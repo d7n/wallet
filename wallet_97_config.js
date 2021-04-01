@@ -1,1 +1,1 @@
-var mnemonic = "there asthma alley typical mask rifle sun grief isolate scorpion walk say";
+var mnemonic = "left tail wife answer way quantum outer soup clarify state wave draft";

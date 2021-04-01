@@ -1,1 +1,1 @@
-var mnemonic = "maid lab resource spray doctor elevator helmet yellow label force review clay";
+var mnemonic = "office fantasy december asthma turtle damp brick south over midnight avoid emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "winter black forum jazz admit south devote state receive pilot promote fire";
+var mnemonic = "renew surround sock awkward zebra twist wide brass cost language federal sea";

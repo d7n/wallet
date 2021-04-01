@@ -1,1 +1,1 @@
-var mnemonic = "sock lend raw dragon bronze claw veteran all stay bar moon october";
+var mnemonic = "gasp furnace drama reveal allow extra fury mask jeans room put vote";

@@ -1,1 +1,1 @@
-var mnemonic = "kid violin person rule erase vocal picture forest cave leg together river";
+var mnemonic = "ankle visit feel install toward great picnic people neck stick hungry term";

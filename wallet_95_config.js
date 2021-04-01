@@ -1,1 +1,1 @@
-var mnemonic = "sustain drip keen turn meat museum perfect mention bronze boil flee peanut";
+var mnemonic = "ordinary globe citizen unveil that clutch kind venture life auction craft early";

@@ -1,1 +1,1 @@
-var mnemonic = "design board huge gap jeans yellow document slush spawn ostrich cruise gun";
+var mnemonic = "dish because issue pony release cover finish vacant noodle chicken snow pencil";

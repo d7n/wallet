@@ -1,1 +1,1 @@
-var mnemonic = "debris area draw adult grunt unaware phone fee anchor say zoo nothing";
+var mnemonic = "slice coyote hole large endorse time life upper exist clog suggest soda";

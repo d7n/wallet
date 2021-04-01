@@ -1,1 +1,1 @@
-var mnemonic = "tool price hospital marriage people until left multiply swarm scene spoil enlist";
+var mnemonic = "snack illness record faculty vapor museum smoke abstract ability reform school plate";

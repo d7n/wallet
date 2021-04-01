@@ -1,1 +1,1 @@
-var mnemonic = "creek family exhibit mango sustain squirrel country same upper wife tiny shy";
+var mnemonic = "borrow express loop bachelor grass want nose seek clog job first reflect";

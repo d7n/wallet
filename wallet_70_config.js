@@ -1,1 +1,1 @@
-var mnemonic = "prefer better logic close lab palm world mix lake wealth treat gorilla";
+var mnemonic = "sweet evolve rigid cave frequent cactus supply minor feature sun vague glory";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle attract lawsuit device burst effort stumble snack exhaust essence abandon stadium";
+var mnemonic = "thrive double slow soup era twice budget title input team maze heavy";

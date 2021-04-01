@@ -1,1 +1,1 @@
-var mnemonic = "cherry nephew parade armor margin horror paper shrug install idea february lounge";
+var mnemonic = "sleep priority mind enact flat anxiety forest talk toe abuse glimpse chimney";

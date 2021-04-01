@@ -1,1 +1,1 @@
-var mnemonic = "huge belt stadium law scorpion super adjust will awkward choose frost zoo";
+var mnemonic = "vague exhibit they unlock peanut clock lecture try body use know wish";

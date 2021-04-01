@@ -1,1 +1,1 @@
-var mnemonic = "antique pair antenna evidence gossip differ jump pilot strategy immune faith betray";
+var mnemonic = "jelly sword bargain cradle century uniform ten upper around lazy define lion";

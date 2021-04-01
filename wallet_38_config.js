@@ -1,1 +1,1 @@
-var mnemonic = "fix trophy shove jazz kind crumble total behind cube pistol exchange veteran";
+var mnemonic = "fork rebuild busy spot pear great corn avocado ball swing water gown";

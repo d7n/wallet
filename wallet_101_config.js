@@ -1,1 +1,1 @@
-var mnemonic = "deer cargo woman apart raccoon reopen asset club sausage cat kind cost";
+var mnemonic = "biology advice rib trend toddler vague great silver badge neck because protect";

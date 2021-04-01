@@ -1,1 +1,1 @@
-var mnemonic = "budget much ugly sample major gossip fresh gallery noodle cannon purchase peasant";
+var mnemonic = "sport hat amazing journey element sport symptom behave social check ladder involve";

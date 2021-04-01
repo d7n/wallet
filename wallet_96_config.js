@@ -1,1 +1,1 @@
-var mnemonic = "finger item parrot library raven blouse control example word regret flame torch";
+var mnemonic = "outside hunt common arctic inner illness business drip silly admit teach wash";

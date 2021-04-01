@@ -1,1 +1,1 @@
-var mnemonic = "ability only bridge young wrist torch similar vibrant already boss silly celery";
+var mnemonic = "gun funny paper garment vanish lunch usual clerk script surround depend fix";

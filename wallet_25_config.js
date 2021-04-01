@@ -1,1 +1,1 @@
-var mnemonic = "agent supreme tortoise wasp isolate bridge mechanic media south utility vendor window";
+var mnemonic = "oblige document essence miss slim hood leaf reduce autumn saddle teach cradle";

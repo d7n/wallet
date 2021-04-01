@@ -1,1 +1,1 @@
-var mnemonic = "cheese impose mimic erosion flush know license hobby lawn pottery gorilla palace";
+var mnemonic = "hockey pen solve sock buffalo cry abuse tragic topple venture uncover pig";

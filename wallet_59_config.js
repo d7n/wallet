@@ -1,1 +1,1 @@
-var mnemonic = "oxygen dish front luggage dish region cool grid clay deputy report marine";
+var mnemonic = "decade cruise price isolate jacket quit hollow favorite leave ordinary body jaguar";

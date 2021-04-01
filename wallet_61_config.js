@@ -1,1 +1,1 @@
-var mnemonic = "casual follow slight flush stereo become replace drink artist about retreat space";
+var mnemonic = "oven control soft era ceiling describe pass stand guitar farm bicycle always";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma letter siren away enhance audit ancient laundry zone because great buddy";
+var mnemonic = "crisp palm drip govern fame clay never asthma term lunar calm bachelor";

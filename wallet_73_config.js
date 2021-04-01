@@ -1,1 +1,1 @@
-var mnemonic = "achieve stem police prepare hard fox naive tuition reflect arrange pair omit";
+var mnemonic = "calm saddle debris bridge thunder chat taxi photo transfer betray light eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "lion amused assist use round royal build silk bunker pet second reunion";
+var mnemonic = "merge cry exhaust maze length soldier skirt sentence actual brush replace melody";

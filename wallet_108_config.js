@@ -1,1 +1,1 @@
-var mnemonic = "horn stone install gasp exist huge brush betray isolate scrub spray capital";
+var mnemonic = "else then lady increase mansion favorite survey flip describe range maze decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "lend detect appear net select bus say inform almost ocean rubber year";
+var mnemonic = "local wisdom shoe local infant congress chimney recycle pluck chronic giraffe maple";

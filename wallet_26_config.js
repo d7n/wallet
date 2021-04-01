@@ -1,1 +1,1 @@
-var mnemonic = "muffin donkey resemble slim dad have mesh hub old pond hello visit";
+var mnemonic = "museum fame purchase donor hip smooth step world reveal stamp model indicate";

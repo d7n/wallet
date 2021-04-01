@@ -1,1 +1,1 @@
-var mnemonic = "ahead spy hybrid range world fine dismiss swing vague purpose demand knee";
+var mnemonic = "glad concert judge secret dream note onion stock six nation lesson million";

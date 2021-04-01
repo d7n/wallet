@@ -1,1 +1,1 @@
-var mnemonic = "round team whisper defense grit sibling ball trade tilt limb portion grain";
+var mnemonic = "tide rubber cotton thunder flower client radio quote clip fan move hero";

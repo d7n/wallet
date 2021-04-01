@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur chunk turn nose hole slogan sound pupil drip cave flip goose";
+var mnemonic = "plug shaft scare latin what coffee divorce heavy case keen fury height";

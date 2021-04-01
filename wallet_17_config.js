@@ -1,1 +1,1 @@
-var mnemonic = "direct elephant entry rice jazz ten sing among animal service hold faint";
+var mnemonic = "property core scatter tornado skull thing prefer plastic oak drip rotate flower";

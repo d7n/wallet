@@ -1,1 +1,1 @@
-var mnemonic = "hole spot taxi total size chaos vehicle snack much mask roast donkey";
+var mnemonic = "pig marble gift nest upon dynamic little eager lens omit plate oven";

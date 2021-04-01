@@ -1,1 +1,1 @@
-var mnemonic = "segment march visual toy pupil beach over siege glory duck pull end";
+var mnemonic = "moment endless repeat pigeon bargain north report alter crumble lucky sheriff stem";

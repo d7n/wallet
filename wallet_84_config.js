@@ -1,1 +1,1 @@
-var mnemonic = "when train tank fun problem journey race ball vague voyage gravity skill";
+var mnemonic = "globe minimum carry merit lounge knock lab mansion silly ordinary gas cable";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant promote february only mushroom distance able fat trade ensure myself brand";
+var mnemonic = "envelope obvious blush foster trophy impose sausage icon wink below shell panther";

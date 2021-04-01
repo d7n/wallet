@@ -1,1 +1,1 @@
-var mnemonic = "corn pigeon define salmon globe coral rigid work parade lake wide enforce";
+var mnemonic = "six torch decrease fire frequent area spring patient scene flower fresh liquid";

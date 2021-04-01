@@ -1,1 +1,1 @@
-var mnemonic = "math wise special live gap area gather govern blouse vague forget toe";
+var mnemonic = "brand source basket develop fruit reject fine orient awful shield disorder transfer";

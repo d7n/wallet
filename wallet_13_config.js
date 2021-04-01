@@ -1,1 +1,1 @@
-var mnemonic = "vital column hover rib embark best pill estate cannon leg approve grief";
+var mnemonic = "heart monster clever goddess large unfold green cupboard rich weapon note live";

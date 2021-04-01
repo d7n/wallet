@@ -1,1 +1,1 @@
-var mnemonic = "drip clock purity help explain mean parrot segment survey awkward magnet blood";
+var mnemonic = "twenty actress card grant today maximum company drum holiday dentist space situate";

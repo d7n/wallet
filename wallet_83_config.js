@@ -1,1 +1,1 @@
-var mnemonic = "tree attack mixed uniform assist yard climb hidden airport swamp ethics old";
+var mnemonic = "play supreme palace post canal deputy rookie anchor until gold unfair pull";

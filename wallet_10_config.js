@@ -1,1 +1,1 @@
-var mnemonic = "stay charge fossil fence connect radio helmet impose annual follow industry use";
+var mnemonic = "immune program spread coconut village sense ordinary double salon cricket switch item";

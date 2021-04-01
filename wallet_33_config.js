@@ -1,1 +1,1 @@
-var mnemonic = "load fall craft horn since letter secret tattoo master sibling kiwi verb";
+var mnemonic = "immense quiz another regular tiny logic noble similar legal risk crouch person";

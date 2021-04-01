@@ -1,1 +1,1 @@
-var mnemonic = "kit issue language undo fault flame benefit since goddess blast rubber estate";
+var mnemonic = "utility web check surprise donor resource push relax spider pigeon used firm";

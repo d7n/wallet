@@ -1,1 +1,1 @@
-var mnemonic = "junior utility repair punch range refuse bounce park reduce purse people design";
+var mnemonic = "thought olympic announce jacket remember tumble eagle improve abstract seminar noise local";

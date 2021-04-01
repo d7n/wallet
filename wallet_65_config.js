@@ -1,1 +1,1 @@
-var mnemonic = "child truly cute bunker fatal trip update steak harbor jaguar scheme ride";
+var mnemonic = "legal dolphin dawn like parade dinosaur chunk wood glare desk cost expect";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous human exist surprise adjust balcony month monkey middle require model equal";
+var mnemonic = "situate paddle dress hammer junior park science scissors space join sponsor grant";
