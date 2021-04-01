@@ -1,1 +1,1 @@
-var mnemonic = "forget slogan taxi situate borrow noise gold input kick retreat curve liquid";
+var mnemonic = "century renew boost garment sauce pole notable arena hill dolphin tank general";

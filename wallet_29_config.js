@@ -1,1 +1,1 @@
-var mnemonic = "tree ride earth teach nice crouch roast album top west east blanket";
+var mnemonic = "coconut whip ring pill tiny sentence behave glance swing liquid spread globe";

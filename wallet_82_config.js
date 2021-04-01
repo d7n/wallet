@@ -1,1 +1,1 @@
-var mnemonic = "noodle stomach figure satoshi veteran empty pencil deposit oven person theory dilemma";
+var mnemonic = "wreck sphere swap rent slush unfair gentle wave flame stable elevator smart";

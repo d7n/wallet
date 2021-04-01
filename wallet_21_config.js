@@ -1,1 +1,1 @@
-var mnemonic = "tumble alcohol all buddy control range slide foot celery barely glance bomb";
+var mnemonic = "security metal liberty speak turn carry can snow winter sunset wide bubble";

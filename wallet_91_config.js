@@ -1,1 +1,1 @@
-var mnemonic = "supreme update vendor actual upon slam mixed guess bean jazz sketch sign";
+var mnemonic = "dress liquid gadget juice mushroom become ready viable age symbol melody exclude";

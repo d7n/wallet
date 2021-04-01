@@ -1,1 +1,1 @@
-var mnemonic = "such begin clean motor runway amazing food wrist vast entry photo glare";
+var mnemonic = "family envelope tail proof throw glass dilemma bone vibrant lake absurd boss";

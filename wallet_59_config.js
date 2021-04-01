@@ -1,1 +1,1 @@
-var mnemonic = "mobile day model nation twist ecology left inside abuse hidden blush tell";
+var mnemonic = "receive mystery alpha crouch cushion three spray speed desk artist chest together";

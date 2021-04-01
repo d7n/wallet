@@ -1,1 +1,1 @@
-var mnemonic = "pledge interest drive angry indoor pull juice artefact razor nest jeans hover";
+var mnemonic = "cat outdoor screen weekend hockey real knife stand peasant fold bulk message";

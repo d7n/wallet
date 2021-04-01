@@ -1,1 +1,1 @@
-var mnemonic = "accuse health midnight they mean cannon sight comfort beauty program three twice";
+var mnemonic = "robust grow bottom dizzy kiss whip author bicycle dolphin update burst bag";

@@ -1,1 +1,1 @@
-var mnemonic = "disease warm around skirt term visit sight sponsor street oppose hurdle decade";
+var mnemonic = "eye violin rate obtain margin light furnace online timber atom club penalty";

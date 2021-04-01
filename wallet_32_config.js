@@ -1,1 +1,1 @@
-var mnemonic = "notice help buzz version mass great fragile acid steak bread concert horror";
+var mnemonic = "orbit diagram below pool neck slim require slogan wheel harsh wealth museum";

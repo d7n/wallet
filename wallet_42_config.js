@@ -1,1 +1,1 @@
-var mnemonic = "city gentle afford height woman rug wood pattern skirt together point try";
+var mnemonic = "travel print ketchup obtain air person remind solar believe easily screen anger";

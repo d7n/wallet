@@ -1,1 +1,1 @@
-var mnemonic = "crash truck gap report demise person depth thumb spice gather soldier help";
+var mnemonic = "nothing wonder fancy news door raccoon keen sample brush refuse speed pride";

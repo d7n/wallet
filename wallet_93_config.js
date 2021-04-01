@@ -1,1 +1,1 @@
-var mnemonic = "wrestle film culture unfold marriage napkin still rug surround decorate office injury";
+var mnemonic = "climb better cactus ivory buddy mixture appear before sunny opera remain reveal";

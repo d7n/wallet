@@ -1,1 +1,1 @@
-var mnemonic = "protect quit midnight bomb alpha chronic artist base copy hedgehog alert forum";
+var mnemonic = "case tube polar merry gloom reunion ready very october biology jazz hammer";

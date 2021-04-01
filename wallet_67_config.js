@@ -1,1 +1,1 @@
-var mnemonic = "design debate disease unique service obvious program know morning hire okay blade";
+var mnemonic = "visit toward annual chapter grunt season reward congress canal island rate indicate";

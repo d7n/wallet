@@ -1,1 +1,1 @@
-var mnemonic = "steak auction taxi chalk clean issue firm banana pluck reward entry high";
+var mnemonic = "peasant scheme bullet brand together hard rhythm solid pig bounce foot mandate";

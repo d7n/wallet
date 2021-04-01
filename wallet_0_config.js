@@ -1,1 +1,1 @@
-var mnemonic = "toilet blue mobile around impose planet call empower evoke cable title before";
+var mnemonic = "exist wonder drama better length shine exchange soda aware candy fiction perfect";

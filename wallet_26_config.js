@@ -1,1 +1,1 @@
-var mnemonic = "olive lamp mobile monster tornado jealous illegal hobby cover calm merge creek";
+var mnemonic = "letter crystal gasp run stem hollow blade siege merit hire trap skull";

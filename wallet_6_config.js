@@ -1,1 +1,1 @@
-var mnemonic = "version kidney margin mention rescue lady eagle execute nasty result random impact";
+var mnemonic = "curious avocado vague equal diagram winner dose inform age laundry into cupboard";

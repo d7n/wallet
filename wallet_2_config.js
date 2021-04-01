@@ -1,1 +1,1 @@
-var mnemonic = "among egg joy notice evidence usage eternal sure inflict retire candy also";
+var mnemonic = "draw intact vendor frog soul seven ring pioneer pretty crime glide cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "under coach doctor walnut adjust rural lawn distance fruit crack canvas neither";
+var mnemonic = "long hard stuff rural broom misery sketch number trick frequent reveal rail";

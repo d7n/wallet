@@ -1,1 +1,1 @@
-var mnemonic = "bracket box lion choice antenna boil inquiry arctic release puzzle effort window";
+var mnemonic = "huge seed pink novel buffalo chapter little index census vivid student story";

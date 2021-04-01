@@ -1,1 +1,1 @@
-var mnemonic = "quantum iron ladder toe forest mosquito deer spread street slight fix forget";
+var mnemonic = "miracle custom warfare vivid shell verify awkward hungry rhythm mention dance limit";

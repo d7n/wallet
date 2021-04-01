@@ -1,1 +1,1 @@
-var mnemonic = "easy mother into churn possible taxi pair exact raw initial climb space";
+var mnemonic = "pole magnet sauce doll stool mountain enact curious recipe walk animal moral";

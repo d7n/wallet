@@ -1,1 +1,1 @@
-var mnemonic = "gaze dragon ring armor path patient toe bread bitter position romance brother";
+var mnemonic = "disorder carry favorite despair shine drastic hill juice patient machine salad neck";

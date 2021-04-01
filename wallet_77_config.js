@@ -1,1 +1,1 @@
-var mnemonic = "ivory unlock jacket method giggle what addict fashion menu knee rib yellow";
+var mnemonic = "valve public permit similar cargo hunt flush flush spring march access save";

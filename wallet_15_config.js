@@ -1,1 +1,1 @@
-var mnemonic = "aunt faint snack lawn sphere giggle liar fresh recycle purse agent city";
+var mnemonic = "hungry toast dolphin vapor romance pool tuition require floor athlete stand often";

@@ -1,1 +1,1 @@
-var mnemonic = "pull inner slice announce story rough number bitter immune ice achieve elephant";
+var mnemonic = "ethics explain unique harbor banana unique mango industry search glance refuse program";

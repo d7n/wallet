@@ -1,1 +1,1 @@
-var mnemonic = "step chair domain planet raw regular cream frozen slide fossil stone aunt";
+var mnemonic = "blossom volcano wife ranch comfort void nuclear approve daring vast found skate";

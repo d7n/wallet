@@ -1,1 +1,1 @@
-var mnemonic = "moral child warrior address rude thought bar brass guilt option electric enhance";
+var mnemonic = "banner profit install trend monkey differ until domain skirt bracket apart guide";

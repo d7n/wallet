@@ -1,1 +1,1 @@
-var mnemonic = "crack raven industry canal move amateur poet title village soldier neutral among";
+var mnemonic = "artefact arrest sugar imitate reason between rather drive secret return gauge seat";

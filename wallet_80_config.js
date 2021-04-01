@@ -1,1 +1,1 @@
-var mnemonic = "resource space check century distance adapt race special lobster intact warm once";
+var mnemonic = "poem absent august nut same category brief crew decline climb toe embrace";

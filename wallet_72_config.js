@@ -1,1 +1,1 @@
-var mnemonic = "police rose paddle blade taxi list mystery diary multiply vast false mistake";
+var mnemonic = "praise vapor evolve urge amazing fashion orphan list noise exit garment olive";

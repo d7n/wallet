@@ -1,1 +1,1 @@
-var mnemonic = "upset memory before step sport wrong permit busy obey diesel ramp daughter";
+var mnemonic = "client purchase miss nothing manage bounce exist risk endorse similar correct also";

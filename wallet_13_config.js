@@ -1,1 +1,1 @@
-var mnemonic = "protect fiber toe shine never dutch target voyage purpose become cheese swing";
+var mnemonic = "fancy jungle fury thing coyote cigar vibrant turkey deal sell october horse";

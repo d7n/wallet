@@ -1,1 +1,1 @@
-var mnemonic = "panic anxiety message father fuel else slogan typical two myself vanish script";
+var mnemonic = "maze melody wisdom fruit extra humble farm private borrow bone retire helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk verb among exclude delay orbit leg mass more govern gallery spring";
+var mnemonic = "december route hen concert raccoon exile kid gauge success crew earn sketch";

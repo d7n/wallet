@@ -1,1 +1,1 @@
-var mnemonic = "velvet try noise problem asthma nose soup slender sample breeze mouse return";
+var mnemonic = "glance drum nurse acoustic destroy must feel wisdom winner access click extend";

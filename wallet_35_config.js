@@ -1,1 +1,1 @@
-var mnemonic = "foot engine winner script result gallery youth veteran annual end arch machine";
+var mnemonic = "lunar job diesel inject credit fire blush enter salmon leg second regret";

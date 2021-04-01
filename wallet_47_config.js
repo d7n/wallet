@@ -1,1 +1,1 @@
-var mnemonic = "effort thought index civil swallow accuse pitch main toss tired elder lyrics";
+var mnemonic = "category execute area hawk giant cluster rail axis ecology parent noodle ripple";

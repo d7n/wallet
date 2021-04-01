@@ -1,1 +1,1 @@
-var mnemonic = "magnet suffer profit version vicious scissors gym tent nuclear olive general mother";
+var mnemonic = "coast subway nominee raise manual name hockey key family gravity across over";

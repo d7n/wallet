@@ -1,1 +1,1 @@
-var mnemonic = "board page wedding lazy scene audit broken grain party pudding side divert";
+var mnemonic = "naive lady afraid cake borrow miss attend divorce aspect blast indoor educate";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon satisfy pig quit believe rare help sketch bridge magic inflict slush";
+var mnemonic = "asset bachelor soup pipe atom also ridge gym timber devote squeeze fiscal";

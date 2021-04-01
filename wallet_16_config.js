@@ -1,1 +1,1 @@
-var mnemonic = "sauce token funny tilt pen help worth blue trap tiger include shell";
+var mnemonic = "pelican elephant bird hospital dance immense blast artefact like since sunset size";

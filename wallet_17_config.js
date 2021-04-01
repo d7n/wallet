@@ -1,1 +1,1 @@
-var mnemonic = "panther offer clown connect arrange lava cute price marine define digital enable";
+var mnemonic = "ability client evoke rice sorry fiber globe ready put actress planet stool";

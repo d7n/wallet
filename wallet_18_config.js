@@ -1,1 +1,1 @@
-var mnemonic = "fault minor garlic stomach bachelor carbon mention fee dwarf gym alien skate";
+var mnemonic = "rescue family valid tell scene find pattern imitate syrup afraid basic ridge";

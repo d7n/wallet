@@ -1,1 +1,1 @@
-var mnemonic = "advance cost pelican cement luggage faint garment foil bus pepper earth razor";
+var mnemonic = "receive crumble lion shine burst brief start pet silk width into judge";

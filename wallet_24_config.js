@@ -1,1 +1,1 @@
-var mnemonic = "planet rifle tape scout paddle scare amused echo chronic umbrella pen wink";
+var mnemonic = "maze service face like convince hour laptop estate ramp praise file click";

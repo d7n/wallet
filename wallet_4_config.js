@@ -1,1 +1,1 @@
-var mnemonic = "siren remember merit gain home renew beauty hover thumb will foil dizzy";
+var mnemonic = "chief best pistol unable pupil powder frequent noodle waste scout habit predict";

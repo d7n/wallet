@@ -1,1 +1,1 @@
-var mnemonic = "stone baby ritual ensure sting visual butter finger fee away property addict";
+var mnemonic = "affair rally decide apology inside unknown member manage danger magic opinion gaze";

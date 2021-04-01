@@ -1,1 +1,1 @@
-var mnemonic = "image calm kiwi tonight palace modify client inquiry toe illegal attitude success";
+var mnemonic = "hard bullet lizard wrap fancy baby civil mask marble fish snake kite";

@@ -1,1 +1,1 @@
-var mnemonic = "bone baby tornado tourist shrug approve spy office blossom run wash artefact";
+var mnemonic = "emotion trial prefer degree disagree bitter banana use holiday bachelor chuckle only";

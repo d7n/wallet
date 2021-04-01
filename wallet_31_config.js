@@ -1,1 +1,1 @@
-var mnemonic = "logic enact crane awesome able learn poem final lizard excite museum sweet";
+var mnemonic = "erosion elite brush outdoor business machine offer chaos syrup pill include wish";

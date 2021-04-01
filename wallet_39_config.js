@@ -1,1 +1,1 @@
-var mnemonic = "clutch scheme seek hill bright high custom long negative job gift pretty";
+var mnemonic = "normal senior gift cushion problem foil glare deposit anchor engine palm void";

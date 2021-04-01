@@ -1,1 +1,1 @@
-var mnemonic = "photo sell uncover envelope goose skate believe horse border maze certain about";
+var mnemonic = "exit crush clean kidney hard bacon demise face clarify lock dry century";

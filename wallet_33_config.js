@@ -1,1 +1,1 @@
-var mnemonic = "suspect deny cereal uncle fruit story crazy adjust eight game divert chuckle";
+var mnemonic = "response east foam away artefact cargo sketch deliver lab female monster use";

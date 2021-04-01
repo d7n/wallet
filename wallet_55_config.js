@@ -1,1 +1,1 @@
-var mnemonic = "hobby field version bind good letter goddess law dilemma elephant arm cart";
+var mnemonic = "beef nurse body carbon harvest punch gossip supply violin dignity click fruit";

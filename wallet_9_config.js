@@ -1,1 +1,1 @@
-var mnemonic = "file sock garlic oyster note wrap green reopen income matter spy music";
+var mnemonic = "ramp acid ramp tattoo arm filter aspect seven pet cover promote atom";

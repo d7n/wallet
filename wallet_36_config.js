@@ -1,1 +1,1 @@
-var mnemonic = "catch lizard speed mistake churn cube series unable key upon nut work";
+var mnemonic = "ecology eagle tuition usual indicate place distance gym tiny solution enhance reunion";

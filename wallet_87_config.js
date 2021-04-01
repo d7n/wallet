@@ -1,1 +1,1 @@
-var mnemonic = "foam holiday urban boring miracle marriage clip witness index tiny novel possible";
+var mnemonic = "flag match addict parrot proof bottom rich embrace alpha citizen neglect august";

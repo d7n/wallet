@@ -1,1 +1,1 @@
-var mnemonic = "very bamboo squeeze modify opera dry waste mean victory allow scatter three";
+var mnemonic = "friend solution tonight anger kid pond vacuum crew cigar rebuild army biology";

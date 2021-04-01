@@ -1,1 +1,1 @@
-var mnemonic = "enhance search cliff plate flower member since wonder soap visa inmate actress";
+var mnemonic = "anger image obscure resist begin input roof hospital initial speak run task";

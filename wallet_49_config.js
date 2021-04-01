@@ -1,1 +1,1 @@
-var mnemonic = "leopard add quit mean choose barrel pyramid merry version relief ball cross";
+var mnemonic = "noise family put sing coconut extra churn fashion deal shove prison slim";

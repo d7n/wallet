@@ -1,1 +1,1 @@
-var mnemonic = "word wisdom fault disorder junk orange emotion member marriage material swallow physical";
+var mnemonic = "similar citizen test result nerve rookie barely picnic island useful virus level";

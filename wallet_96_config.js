@@ -1,1 +1,1 @@
-var mnemonic = "diesel plunge very wide sibling delay palace oppose day exercise teach guide";
+var mnemonic = "pretty bullet grief lend pond fame empower rice artwork stable never inquiry";

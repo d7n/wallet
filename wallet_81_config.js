@@ -1,1 +1,1 @@
-var mnemonic = "pepper guitar acoustic energy marriage elbow lemon absurd truly orchard team flight";
+var mnemonic = "detail sign equip potato about solve canoe ripple tide detect truly nuclear";

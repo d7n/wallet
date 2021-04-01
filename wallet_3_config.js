@@ -1,1 +1,1 @@
-var mnemonic = "nurse file life express cruel rug sort fashion chief typical green curve";
+var mnemonic = "win risk act mystery bounce drip make usage name unknown diary trash";

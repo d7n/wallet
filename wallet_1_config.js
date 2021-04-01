@@ -1,1 +1,1 @@
-var mnemonic = "produce fee prosper scrap alter present keen laptop cycle vicious rigid stereo";
+var mnemonic = "coral december embrace shallow despair defense picture theme arctic wonder minor valid";

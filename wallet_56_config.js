@@ -1,1 +1,1 @@
-var mnemonic = "mix balance buzz scene survey armed pistol problem general radio anger vicious";
+var mnemonic = "board fury ceiling drum message wrong doll prize parade hope vicious talk";

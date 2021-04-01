@@ -1,1 +1,1 @@
-var mnemonic = "grain unable jazz impulse pole fan soda fox media dice hobby nature";
+var mnemonic = "spring radar woman burst laptop long bread earn add enable flower insect";

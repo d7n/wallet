@@ -1,1 +1,1 @@
-var mnemonic = "traffic hand they lobster chronic oval giraffe bundle scorpion solar scissors chicken";
+var mnemonic = "stamp error capital harbor park now sure situate attract february language mountain";

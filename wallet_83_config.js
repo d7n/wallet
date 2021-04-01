@@ -1,1 +1,1 @@
-var mnemonic = "unfair elevator this drift patrol motion burst rapid above motor tourist senior";
+var mnemonic = "cake tragic nice daring demand must general organ gallery lab upset major";

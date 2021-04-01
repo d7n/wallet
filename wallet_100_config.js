@@ -1,1 +1,1 @@
-var mnemonic = "curve project bless office husband brass virtual race scrub edge end clever";
+var mnemonic = "fetch spider own demise detail gym impulse thrive tonight perfect comic eye";

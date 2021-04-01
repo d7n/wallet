@@ -1,1 +1,1 @@
-var mnemonic = "prize peasant myth economy miss traffic trick output auto juice use immune";
+var mnemonic = "wolf love intact engage camp pulse accuse olympic update security attend fresh";

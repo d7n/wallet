@@ -1,1 +1,1 @@
-var mnemonic = "apple laptop swap snack inspire tissue scheme fruit cave ripple brand wrong";
+var mnemonic = "behave fever tongue toilet that female tackle donor swarm promote clay spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "style fit captain cloth prosper finger kick pyramid tip hawk strong session";
+var mnemonic = "pistol sock hero situate series ethics scan law life rebel joke december";

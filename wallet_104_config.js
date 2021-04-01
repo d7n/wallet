@@ -1,1 +1,1 @@
-var mnemonic = "december color minimum coral legal hair balcony paper chase manage insect bounce";
+var mnemonic = "first tank olive vacant abstract vast ice woman under rich grace blossom";

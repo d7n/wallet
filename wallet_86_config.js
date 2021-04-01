@@ -1,1 +1,1 @@
-var mnemonic = "actual main idle magic rebuild attract deliver endorse memory fun inherit cave";
+var mnemonic = "deal smoke bridge interest snow this accident metal unable borrow pink more";

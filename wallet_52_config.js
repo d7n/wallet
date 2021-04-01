@@ -1,1 +1,1 @@
-var mnemonic = "office reopen glance age light rapid two illness huge noodle traffic original";
+var mnemonic = "famous diamond orbit adapt they swarm april clutch version inquiry truck fly";

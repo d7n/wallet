@@ -1,1 +1,1 @@
-var mnemonic = "swap divert spoil clinic response express fog entire error print banana excuse";
+var mnemonic = "adult unusual force album clarify alert original question broom giggle woman enemy";

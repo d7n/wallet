@@ -1,1 +1,1 @@
-var mnemonic = "jar ordinary ramp rich wasp erupt fade barely fresh uphold lazy lucky";
+var mnemonic = "hedgehog rural winter cool tiny lottery judge scorpion salt busy typical asthma";

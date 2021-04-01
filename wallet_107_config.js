@@ -1,1 +1,1 @@
-var mnemonic = "favorite afford search leopard fault damage hard amateur coconut soda offer wealth";
+var mnemonic = "abandon left frost evolve reform tail fence wall void biology print earth";

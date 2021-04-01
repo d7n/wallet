@@ -1,1 +1,1 @@
-var mnemonic = "spare option return exotic brisk analyst woman coffee extra annual galaxy okay";
+var mnemonic = "reopen talk gadget faculty lottery similar claw process black viable toddler mystery";

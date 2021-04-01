@@ -1,1 +1,1 @@
-var mnemonic = "cheap task wrestle festival green convince asset delay heavy hazard brick connect";
+var mnemonic = "forest farm kitten rose sleep kitten fade match system arrange off kit";

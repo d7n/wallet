@@ -1,1 +1,1 @@
-var mnemonic = "mask street sleep banana argue clap slam airport step common candy young";
+var mnemonic = "globe alone flee share shock swim universe nation point live alley defy";

@@ -1,1 +1,1 @@
-var mnemonic = "know hotel similar glory canyon urban skin march gain december expose stadium";
+var mnemonic = "mesh shuffle earn shrug minute oppose outside gather electric vacant endless sudden";

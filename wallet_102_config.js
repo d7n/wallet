@@ -1,1 +1,1 @@
-var mnemonic = "sauce merit season glue remain radio auction roast indoor cargo sing side";
+var mnemonic = "online middle basic update summer destroy wheel donor cradle obtain oak pilot";

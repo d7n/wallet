@@ -1,1 +1,1 @@
-var mnemonic = "sell account prevent stove rent hub lecture change audit trick multiply mom";
+var mnemonic = "wood member squeeze better ride kidney unveil visa axis random afford success";

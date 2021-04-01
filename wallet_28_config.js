@@ -1,1 +1,1 @@
-var mnemonic = "front sheriff steel vacant tag inner vague fall memory success envelope vicious";
+var mnemonic = "budget wing ice flash arm virtual bargain strong boat chicken tray kingdom";
