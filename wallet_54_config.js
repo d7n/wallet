@@ -1,1 +1,1 @@
-var mnemonic = "match reward crime daring dove hen clever island coconut voice craft slam";
+var mnemonic = "elite toddler vivid pair fog enlist online flat hour soda reward interest";

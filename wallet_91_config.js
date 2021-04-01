@@ -1,1 +1,1 @@
-var mnemonic = "advance lift jaguar silk curve stuff dragon saddle wrestle uncle drama ugly";
+var mnemonic = "dune auto stamp spirit dawn dust blind hill mirror salon bag output";

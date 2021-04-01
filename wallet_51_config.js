@@ -1,1 +1,1 @@
-var mnemonic = "dentist mammal process rib neck step visit laundry turkey sniff undo drink";
+var mnemonic = "flip quit pull split quality collect fluid material tobacco across solve clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "champion drop lonely claw person body expand pretty lumber grace cube gym";
+var mnemonic = "film worth treat noise topic slim law squirrel reunion thrive rural unveil";

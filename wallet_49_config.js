@@ -1,1 +1,1 @@
-var mnemonic = "solid digital obvious quote suit era answer soccer obtain swift write salon";
+var mnemonic = "ozone enable crystal enforce hungry virus famous benefit jeans garlic liar dinner";

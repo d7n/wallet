@@ -1,1 +1,1 @@
-var mnemonic = "cage step tag action trade record gas limb anchor tragic poem egg";
+var mnemonic = "upset color all polar result spell miss garbage pigeon goddess soccer consider";

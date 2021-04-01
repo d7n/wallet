@@ -1,1 +1,1 @@
-var mnemonic = "tackle squirrel sorry current pottery man salt stage erupt scan nominee work";
+var mnemonic = "finger debris enrich bracket people fault north consider trade aware fuel beach";

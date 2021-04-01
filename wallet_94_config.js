@@ -1,1 +1,1 @@
-var mnemonic = "ivory define then chicken runway copy spider since tent buddy cactus attend";
+var mnemonic = "grab weasel word boat room fit legend coyote fiction recycle approve increase";

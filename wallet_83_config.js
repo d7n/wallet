@@ -1,1 +1,1 @@
-var mnemonic = "photo unit sudden ribbon access spray immune stairs measure multiply idle police";
+var mnemonic = "arrow pigeon proof trouble expire spike trip spin cost turn file void";

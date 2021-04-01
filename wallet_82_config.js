@@ -1,1 +1,1 @@
-var mnemonic = "cheese typical attend burger file stamp clay coyote tumble laptop finish vintage";
+var mnemonic = "exact false expand hotel fitness spirit maid alley glance rug lunch slush";

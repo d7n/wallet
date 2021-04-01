@@ -1,1 +1,1 @@
-var mnemonic = "forget smile grunt seek purity horse settle blur quick horror supreme crouch";
+var mnemonic = "nothing congress engage fitness clever prize run pony swarm wave ketchup hidden";

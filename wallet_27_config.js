@@ -1,1 +1,1 @@
-var mnemonic = "grocery rebuild offer book item adjust cream blouse act catalog wasp couple";
+var mnemonic = "foster question upset you whip anger arm chat tent start able warm";

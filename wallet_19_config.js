@@ -1,1 +1,1 @@
-var mnemonic = "light left harvest candy planet cool card impact clap asthma cluster sun";
+var mnemonic = "candy flag eager angle crouch hard success beyond fire vote case rely";

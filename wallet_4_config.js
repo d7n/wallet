@@ -1,1 +1,1 @@
-var mnemonic = "punch lonely victory host survey nurse soul pulp fatigue gaze engage route";
+var mnemonic = "piano client supply hungry scout lab offer annual bar section clever orbit";

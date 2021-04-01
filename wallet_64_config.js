@@ -1,1 +1,1 @@
-var mnemonic = "crush media lion siren slogan angry blur wise tool champion system exit";
+var mnemonic = "curve cream acoustic sheriff segment shadow garment winner improve stadium rice width";

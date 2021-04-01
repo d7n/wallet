@@ -1,1 +1,1 @@
-var mnemonic = "custom drastic pave beach census little marriage stool balance mom library flip";
+var mnemonic = "arrange piece patrol wasp ladder grain region where session flock blouse dragon";

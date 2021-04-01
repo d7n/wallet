@@ -1,1 +1,1 @@
-var mnemonic = "purse cradle mammal paper will between skirt afford adapt glide concert cushion";
+var mnemonic = "shadow echo garment lazy regular desk draft fly response embrace december prevent";

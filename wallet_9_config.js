@@ -1,1 +1,1 @@
-var mnemonic = "key surprise ignore dance question region athlete oxygen resemble sad renew away";
+var mnemonic = "deer judge group hawk nerve permit defense industry monkey recycle wheel gallery";

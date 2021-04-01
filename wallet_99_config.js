@@ -1,1 +1,1 @@
-var mnemonic = "ribbon token palace permit actress close human buddy slight estate mushroom banner";
+var mnemonic = "sniff spirit fruit ankle start physical switch budget juice slight custom ridge";

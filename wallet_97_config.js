@@ -1,1 +1,1 @@
-var mnemonic = "public exile soft bronze control among stumble orange drive raw forum frame";
+var mnemonic = "veteran nasty miracle across talk erosion project soon error ice absent engage";

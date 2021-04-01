@@ -1,1 +1,1 @@
-var mnemonic = "blouse good laptop exist direct timber post income assist force peasant there";
+var mnemonic = "chicken quiz because question luggage all gossip juice rabbit dial lottery first";

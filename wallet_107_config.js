@@ -1,1 +1,1 @@
-var mnemonic = "choose skate wish three master near cave original win film account rural";
+var mnemonic = "consider uphold slab slender elbow neglect pattern scrap pumpkin cotton pave sibling";

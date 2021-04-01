@@ -1,1 +1,1 @@
-var mnemonic = "sing shaft script critic depend decide bean saddle east copy place rival";
+var mnemonic = "doll alert sorry iron pink unhappy summer model problem nuclear knife sugar";

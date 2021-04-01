@@ -1,1 +1,1 @@
-var mnemonic = "clean pole chat pepper toy weekend unknown basic calm crawl receive game";
+var mnemonic = "unveil flat thrive battle nature opinion belt matrix orchard morning absurd august";

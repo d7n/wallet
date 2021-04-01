@@ -1,1 +1,1 @@
-var mnemonic = "flee symbol amused dawn execute grant insane also duty rare frame when";
+var mnemonic = "dirt eagle swing inquiry choice swift lunch purpose local stone verify milk";

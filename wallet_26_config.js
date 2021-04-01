@@ -1,1 +1,1 @@
-var mnemonic = "worry drip lumber disease decrease tell april hedgehog network want muffin game";
+var mnemonic = "cave sphere power can concert fee brother dragon index visit thank used";

@@ -1,1 +1,1 @@
-var mnemonic = "glad west practice february foil virus crane popular useless retire balance erode";
+var mnemonic = "stomach wire ridge visa buzz beef share myself mask frown adjust sheriff";

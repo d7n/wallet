@@ -1,1 +1,1 @@
-var mnemonic = "move doctor affair catalog guitar during juice entire century finger ranch jar";
+var mnemonic = "couple risk vocal put scatter cushion pink bronze walk march sunset sort";

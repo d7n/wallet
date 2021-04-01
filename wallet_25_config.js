@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur seat wish entire admit height cat shrug sheriff sun interest across";
+var mnemonic = "forward swim devote blossom kind sad online sentence example abandon crumble grid";

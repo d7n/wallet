@@ -1,1 +1,1 @@
-var mnemonic = "seminar impulse more range apology identify lizard refuse hundred accuse owner demand";
+var mnemonic = "prosper debate harvest bring bitter usage silly hand similar carry gym trust";

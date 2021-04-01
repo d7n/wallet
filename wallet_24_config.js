@@ -1,1 +1,1 @@
-var mnemonic = "seminar nerve pumpkin artefact skate beauty deposit outdoor spend hen anxiety wasp";
+var mnemonic = "broken sheriff cabin expect midnight nurse toast erase rate hazard olympic chunk";

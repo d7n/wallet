@@ -1,1 +1,1 @@
-var mnemonic = "essay hawk bone insect toe ski tone fee harsh tourist reopen name";
+var mnemonic = "force slight people mass scout milk worry rule regular unknown faith valve";

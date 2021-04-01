@@ -1,1 +1,1 @@
-var mnemonic = "price sand butter push buffalo size calm tape replace pear upper plate";
+var mnemonic = "awake weird crew rug result game hip coconut excess margin glad birth";

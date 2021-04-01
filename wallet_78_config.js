@@ -1,1 +1,1 @@
-var mnemonic = "initial mistake idle betray exclude circle bring vibrant oval science donor general";
+var mnemonic = "mammal olympic settle nation shoe hunt border purity ball gauge elegant mechanic";

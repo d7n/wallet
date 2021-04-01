@@ -1,1 +1,1 @@
-var mnemonic = "hour hunt island gesture neutral uncle connect curtain elder dwarf brother clip";
+var mnemonic = "liar insane almost chief transfer theme violin gold brain dream velvet skin";

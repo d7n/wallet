@@ -1,1 +1,1 @@
-var mnemonic = "six sting journey grape cupboard fish satoshi huge reason hybrid final badge";
+var mnemonic = "win comic survey affair guitar rack deliver nominee diamond upon indicate merit";

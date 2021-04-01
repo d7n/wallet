@@ -1,1 +1,1 @@
-var mnemonic = "metal orange donkey wing brain once smoke dry melody country gasp enter";
+var mnemonic = "annual mystery prize grass hunt market gauge update reward unit label butter";

@@ -1,1 +1,1 @@
-var mnemonic = "quote river kitchen identify nephew pig dust diary lava coyote own jaguar";
+var mnemonic = "clarify what plate utility nation stairs dash own blur oval win empty";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace fruit scan suffer grit caution reward artwork alarm easy club piece";
+var mnemonic = "empower wonder book square hobby cactus mystery hole surge song neglect novel";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy empty baby ivory rack glimpse swap horror salmon illegal dash rule";
+var mnemonic = "category wage cradle armor cram brass dance wrap furnace coil nature enhance";

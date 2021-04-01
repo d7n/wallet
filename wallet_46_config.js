@@ -1,1 +1,1 @@
-var mnemonic = "muscle furnace mystery matrix vehicle feature filter base undo edit solution guilt";
+var mnemonic = "verb mixed huge pulse total review curious cat cactus essence bus steak";

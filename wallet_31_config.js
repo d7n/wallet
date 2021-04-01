@@ -1,1 +1,1 @@
-var mnemonic = "wine reduce diagram require century panther junior snake custom addict nuclear matter";
+var mnemonic = "convince verb wise tomorrow come illegal sugar rude forget exile tone benefit";

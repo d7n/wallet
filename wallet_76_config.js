@@ -1,1 +1,1 @@
-var mnemonic = "assist apple approve accuse toilet present uphold victory zebra edit family artist";
+var mnemonic = "stable film alone bleak youth evoke pond evoke crew still slush small";

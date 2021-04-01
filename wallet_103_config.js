@@ -1,1 +1,1 @@
-var mnemonic = "live card black scan wasp menu pencil tonight track affair purse october";
+var mnemonic = "summer choose empower fabric miracle trial human echo enroll code buyer absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle odor lens pupil wrong grief isolate allow turtle use until lunar";
+var mnemonic = "crawl satoshi yellow final ostrich crack angry truly eyebrow charge bomb reunion";

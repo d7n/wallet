@@ -1,1 +1,1 @@
-var mnemonic = "renew layer mosquito carpet symptom birth chuckle corn minimum you hip drive";
+var mnemonic = "lesson hybrid answer mean elephant hill fish ring rent dad fatal audit";

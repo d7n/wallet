@@ -1,1 +1,1 @@
-var mnemonic = "liar error evoke ribbon width loop hope gallery catalog dignity dune pill";
+var mnemonic = "trap used pride various angry timber weekend cage accident company deer cradle";

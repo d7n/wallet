@@ -1,1 +1,1 @@
-var mnemonic = "front script click daring then sphere legend park provide sock viable just";
+var mnemonic = "humble brown despair forget bracket vast always cloud road found ball marble";

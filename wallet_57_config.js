@@ -1,1 +1,1 @@
-var mnemonic = "height milk mesh burger observe route bitter job crush priority hood cup";
+var mnemonic = "antique flush novel belt lava blur celery april wire shell crack gown";

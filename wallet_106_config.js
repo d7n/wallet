@@ -1,1 +1,1 @@
-var mnemonic = "equal load success game rocket manual wild pig safe lion always ghost";
+var mnemonic = "chest idle bomb later side exchange text motor shield tiny end judge";

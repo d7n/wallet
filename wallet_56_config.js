@@ -1,1 +1,1 @@
-var mnemonic = "quantum garment loan minimum junior local expand media alone arrow pony sketch";
+var mnemonic = "miss portion gap swamp place various practice firm dilemma tuna often lawn";

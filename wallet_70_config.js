@@ -1,1 +1,1 @@
-var mnemonic = "accident exclude tenant whisper gather resist cannon hurdle owner loyal aisle hundred";
+var mnemonic = "kit satisfy regular either slice dawn error three magic poem swim useless";

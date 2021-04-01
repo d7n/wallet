@@ -1,1 +1,1 @@
-var mnemonic = "steel enact zero sustain shrimp where salmon thing sleep whip debate weekend";
+var mnemonic = "floor domain confirm announce mobile north neutral abuse lion defense hand poverty";

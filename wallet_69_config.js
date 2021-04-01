@@ -1,1 +1,1 @@
-var mnemonic = "alcohol place jacket denial brain produce educate minor blood rail double anger";
+var mnemonic = "secret orchard never also razor album push thrive excite light iron soon";

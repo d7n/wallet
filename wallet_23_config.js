@@ -1,1 +1,1 @@
-var mnemonic = "tattoo shift slide gloom rebel foot work puppy tornado silly weird dwarf";
+var mnemonic = "ready hurt whale excite what organ blast focus leave doctor mandate only";

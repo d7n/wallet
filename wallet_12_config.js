@@ -1,1 +1,1 @@
-var mnemonic = "pool sport nice muffin nice okay garage crew bench company example salute";
+var mnemonic = "prize hotel fish evoke tail veteran light caught stock sugar ensure degree";

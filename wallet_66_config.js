@@ -1,1 +1,1 @@
-var mnemonic = "mouse more pumpkin powder merit atom flower print acquire fatal first cancel";
+var mnemonic = "robust target cake odor amateur wheel prevent soon hour desert idle stable";

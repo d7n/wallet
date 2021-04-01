@@ -1,1 +1,1 @@
-var mnemonic = "season evolve ticket affair legend pond point ordinary south prize inhale deposit";
+var mnemonic = "bean steak lava legal toddler resist arm cram master unveil flower drink";

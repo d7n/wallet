@@ -1,1 +1,1 @@
-var mnemonic = "ridge crane final gadget dolphin blame crumble quit filter run erupt ribbon";
+var mnemonic = "sting dawn miracle churn nephew version cliff palm labor toilet recall trick";

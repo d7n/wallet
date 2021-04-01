@@ -1,1 +1,1 @@
-var mnemonic = "day taxi media later letter chef thing arctic ankle skill similar depth";
+var mnemonic = "train other wear rabbit planet crystal stadium assume essence clutch great age";

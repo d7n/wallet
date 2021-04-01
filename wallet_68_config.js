@@ -1,1 +1,1 @@
-var mnemonic = "buffalo drastic dutch damage pattern casual kiss blush smart among puzzle truck";
+var mnemonic = "audit puppy become glue measure two sing auto note strategy surprise whale";

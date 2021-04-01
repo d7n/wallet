@@ -1,1 +1,1 @@
-var mnemonic = "write fetch thrive inject cactus next lecture result middle pulp deliver pupil";
+var mnemonic = "cannon ranch cry bamboo dragon margin gift afford bargain language session level";

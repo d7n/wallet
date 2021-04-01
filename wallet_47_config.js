@@ -1,1 +1,1 @@
-var mnemonic = "law bamboo blouse bonus token round bulk time exile security toward eight";
+var mnemonic = "inform lady rare safe fox inside hen misery wing shield jaguar online";

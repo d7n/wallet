@@ -1,1 +1,1 @@
-var mnemonic = "control post sell opera spot cage charge room merry mention cradle uncle";
+var mnemonic = "tribe music stove act air crater rent arrest grit wisdom account apart";

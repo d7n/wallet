@@ -1,1 +1,1 @@
-var mnemonic = "reward author shove find quiz protect property little enhance melody evidence grit";
+var mnemonic = "swear panther tower song opera helmet tiger among exchange drip rotate color";

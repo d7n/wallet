@@ -1,1 +1,1 @@
-var mnemonic = "job dinner glad scene round crucial style aim dune address north word";
+var mnemonic = "away once height ocean mask about embody hat ignore loop exact ill";

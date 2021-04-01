@@ -1,1 +1,1 @@
-var mnemonic = "excuse ivory food judge test void impose hospital artwork gym notable seminar";
+var mnemonic = "volume sure air net age gorilla car wing that debris dirt distance";

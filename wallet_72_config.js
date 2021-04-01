@@ -1,1 +1,1 @@
-var mnemonic = "inhale emotion all penalty abandon wasp avoid vanish series excess pretty model";
+var mnemonic = "income exile expect hat solution impulse proud hold dose trip axis amused";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic gun cinnamon prepare cliff fiber deputy save fetch isolate talent quit";
+var mnemonic = "nature possible describe route crack wealth fashion other flight air toward mention";

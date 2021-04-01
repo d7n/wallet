@@ -1,1 +1,1 @@
-var mnemonic = "scare ball wedding profit hunt color spoil city aim crane palm naive";
+var mnemonic = "type nest build tomato range pattern giggle tube panel thought worry fruit";

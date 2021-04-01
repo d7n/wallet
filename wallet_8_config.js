@@ -1,1 +1,1 @@
-var mnemonic = "arrange toilet loud boss mesh dawn romance august piano discover sorry seed";
+var mnemonic = "ostrich sight minimum song diary visa unhappy hybrid below thrive runway similar";

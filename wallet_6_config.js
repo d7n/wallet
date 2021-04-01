@@ -1,1 +1,1 @@
-var mnemonic = "young milk scrap december rally vault dutch normal number document hunt unfair";
+var mnemonic = "voice file mechanic bless slight dilemma stage rotate juice either doctor width";

@@ -1,1 +1,1 @@
-var mnemonic = "depart settle oak trial lecture leg royal initial round polar duty nature";
+var mnemonic = "cupboard measure wash captain sunset fury hurry because oblige winner final carry";

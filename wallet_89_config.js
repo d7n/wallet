@@ -1,1 +1,1 @@
-var mnemonic = "topic action three corn double throw skirt canoe nephew join swift cruise";
+var mnemonic = "frown powder reunion win fish coral inquiry reject winter job hammer badge";

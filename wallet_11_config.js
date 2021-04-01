@@ -1,1 +1,1 @@
-var mnemonic = "sad fall naive solid jaguar bean menu ball energy twice fine divorce";
+var mnemonic = "collect spring tissue recycle future already kiss foot zone muffin champion major";

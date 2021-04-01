@@ -1,1 +1,1 @@
-var mnemonic = "seed execute hair physical crumble program inform slight demise expand weasel hundred";
+var mnemonic = "glance confirm road trophy lawsuit relax where pretty shiver utility surprise powder";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust topic retreat barrel unaware swap health north away renew mother runway";
+var mnemonic = "grain win cram dry grass forward chuckle name misery buffalo humble river";

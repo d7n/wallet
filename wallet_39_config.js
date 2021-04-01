@@ -1,1 +1,1 @@
-var mnemonic = "now village mosquito use afraid annual embrace entire material velvet popular globe";
+var mnemonic = "weather will birth enroll derive acquire soap arrive win biology butter defense";

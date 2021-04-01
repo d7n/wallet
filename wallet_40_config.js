@@ -1,1 +1,1 @@
-var mnemonic = "usage truly strike sign kiwi mass click sketch fantasy mobile giant wild";
+var mnemonic = "skirt romance hobby wire mean alien wasp fetch arm holiday impact cliff";

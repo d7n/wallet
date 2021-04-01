@@ -1,1 +1,1 @@
-var mnemonic = "cradle more degree useless reduce twenty trumpet upgrade angle usual style ladder";
+var mnemonic = "toast lecture only diamond ritual resist tennis payment boy charge bracket accuse";

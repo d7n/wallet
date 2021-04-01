@@ -1,1 +1,1 @@
-var mnemonic = "market six rocket rich dance sea begin own harbor path release thank";
+var mnemonic = "since portion prison couple cycle cigar creek middle video major suit afford";

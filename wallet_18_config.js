@@ -1,1 +1,1 @@
-var mnemonic = "combine mesh solid stomach economy super danger note sunny rubber evidence lawsuit";
+var mnemonic = "unfold year return oblige rough use skin park cattle depth toe aspect";

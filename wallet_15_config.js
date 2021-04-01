@@ -1,1 +1,1 @@
-var mnemonic = "village light buffalo border shop ceiling hole ski mistake junk vital jealous";
+var mnemonic = "blame system wisdom profit shaft link power aerobic autumn century garbage gym";

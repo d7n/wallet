@@ -1,1 +1,1 @@
-var mnemonic = "couple oyster cushion kiwi keen menu caught ready riot merry grass wall";
+var mnemonic = "flame gas tumble team south slim idea elbow weasel name claw pledge";

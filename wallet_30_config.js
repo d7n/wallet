@@ -1,1 +1,1 @@
-var mnemonic = "kick unit share stool normal omit wheel moon cream animal wash mean";
+var mnemonic = "keep net mask elite bicycle around like common dirt dentist industry ketchup";

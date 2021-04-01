@@ -1,1 +1,1 @@
-var mnemonic = "truly blade merry detect film symptom jungle amazing matrix athlete always prosper";
+var mnemonic = "offer flame february fatal begin barrel reflect deposit define steel scorpion blue";

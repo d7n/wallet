@@ -1,1 +1,1 @@
-var mnemonic = "frame chase wheat warrior cry flush carry absorb chest identify arena patch";
+var mnemonic = "because dance picnic weasel define garden keep coach flight trial bus twenty";

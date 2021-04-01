@@ -1,1 +1,1 @@
-var mnemonic = "erase pig alert doll insect crumble hire course below banana couch spot";
+var mnemonic = "setup fetch lawsuit actor aerobic until glimpse panther shoe climb real proof";

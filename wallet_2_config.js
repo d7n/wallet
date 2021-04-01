@@ -1,1 +1,1 @@
-var mnemonic = "amount change embark fan youth chest grocery crawl imitate pass local island";
+var mnemonic = "typical swarm flag garment outdoor brother protect mother check pen accident tissue";

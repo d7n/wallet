@@ -1,1 +1,1 @@
-var mnemonic = "caution play mixture toilet monitor dentist marine turn rack present buffalo reduce";
+var mnemonic = "beyond rug public cycle leg mule black mystery disagree drip aim banner";

@@ -1,1 +1,1 @@
-var mnemonic = "build there clap vessel review enemy story devote hero hospital believe snap";
+var mnemonic = "gospel grit roast torch ranch trap item midnight sweet around spoon clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "leave lava siege gadget electric frog better drift ivory hockey soap ribbon";
+var mnemonic = "debris birth pear soda coil peanut enhance hospital prepare survey caught feel";
