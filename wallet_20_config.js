@@ -1,1 +1,1 @@
-var mnemonic = "hill ignore remain mystery index lab melody glow first boil barely buyer";
+var mnemonic = "oppose mushroom six cheese ladder pulse reduce scatter language rural country process";

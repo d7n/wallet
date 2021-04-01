@@ -1,1 +1,1 @@
-var mnemonic = "breeze salon hard dentist save plunge kiss split fan frost party celery";
+var mnemonic = "weekend infant poet stereo amateur favorite fresh young original parade noble upgrade";

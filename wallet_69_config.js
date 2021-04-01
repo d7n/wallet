@@ -1,1 +1,1 @@
-var mnemonic = "crowd globe glare taxi spare goddess company pudding artist beef swarm dice";
+var mnemonic = "shine party slam magic cute convince shock glimpse hazard true scout coach";

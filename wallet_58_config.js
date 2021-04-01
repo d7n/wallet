@@ -1,1 +1,1 @@
-var mnemonic = "mixture club cross twelve recycle opera asthma until corn pear chronic mechanic";
+var mnemonic = "giant magnet escape suffer thank demise acoustic genuine glow kangaroo employ shoe";

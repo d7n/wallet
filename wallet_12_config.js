@@ -1,1 +1,1 @@
-var mnemonic = "prize emotion person become cliff submit lion fork imitate equal symbol code";
+var mnemonic = "original into apart senior pudding tunnel also escape industry robot faint gate";

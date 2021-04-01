@@ -1,1 +1,1 @@
-var mnemonic = "napkin custom mobile caught village city cricket swear private lottery butter piece";
+var mnemonic = "rate weather phrase wink loop lunar confirm monkey machine occur primary govern";

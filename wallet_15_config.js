@@ -1,1 +1,1 @@
-var mnemonic = "stock cousin green advance tell twin dizzy hour peanut play saddle voice";
+var mnemonic = "option clinic act sign fatigue seat solar moment cram stomach blur panther";

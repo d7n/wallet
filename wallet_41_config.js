@@ -1,1 +1,1 @@
-var mnemonic = "turtle fancy upgrade nice viable attend agree path wool random stone junior";
+var mnemonic = "appear bulb knife list force student okay obvious journey gain attend summer";

@@ -1,1 +1,1 @@
-var mnemonic = "wool relax stage phone lamp corn convince alarm month toy barrel shoulder";
+var mnemonic = "student tomorrow bunker dog maid plastic topic soul truly custom brown fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "steel glance immense rebel hard prison cattle actor now resemble then inspire";
+var mnemonic = "excess goddess brother tennis hammer force mirror sting ceiling bottom nerve symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "liar eight fury seek job away boring patient satoshi egg motion mechanic";
+var mnemonic = "custom dumb menu wealth snow fox diamond wide amazing allow public mountain";

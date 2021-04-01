@@ -1,1 +1,1 @@
-var mnemonic = "dwarf fantasy federal display attack flip shallow kitchen sword disease choose fold";
+var mnemonic = "judge diary record cake swear media amateur poverty mango moral lend nasty";

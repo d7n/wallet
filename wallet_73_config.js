@@ -1,1 +1,1 @@
-var mnemonic = "obtain release churn hero waste divide obvious opinion olympic bunker once empower";
+var mnemonic = "float blossom height number stock defense public fence try soon radar betray";

@@ -1,1 +1,1 @@
-var mnemonic = "maid attend cement pact spy luggage midnight picture risk guess medal chest";
+var mnemonic = "paddle people pistol volume arrange gasp spoon unique keep wise script analyst";

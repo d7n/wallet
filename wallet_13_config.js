@@ -1,1 +1,1 @@
-var mnemonic = "garment debris crystal search kitchen loyal vacuum buyer burden private inside waste";
+var mnemonic = "badge bind excess joy title early wash sad expire into chat battle";

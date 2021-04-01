@@ -1,1 +1,1 @@
-var mnemonic = "group auction helmet steel hand phrase actress popular miracle glue cute author";
+var mnemonic = "risk faculty slow fire bullet problem delay mass lion initial steel reflect";

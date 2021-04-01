@@ -1,1 +1,1 @@
-var mnemonic = "erase federal flower lucky upset medal arrive swap jar gallery panic alpha";
+var mnemonic = "crystal arena glow magnet bar warrior know remove wasp trouble test cabin";

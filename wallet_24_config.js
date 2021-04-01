@@ -1,1 +1,1 @@
-var mnemonic = "climb tissue topple beach whip awkward category tuition pond chalk spoil october";
+var mnemonic = "magic play shine loyal wisdom source resist sheriff elevator sail range inflict";

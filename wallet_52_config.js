@@ -1,1 +1,1 @@
-var mnemonic = "soul wave verify orange error bread rare awful double ticket castle movie";
+var mnemonic = "spike neutral record cattle plate alley taste online resource assist crawl bind";

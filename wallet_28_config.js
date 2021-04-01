@@ -1,1 +1,1 @@
-var mnemonic = "run profit key exist giant adjust camera ready infant opinion hazard fold";
+var mnemonic = "gas carry elegant candy sound inject bring marble wine identify focus egg";

@@ -1,1 +1,1 @@
-var mnemonic = "trust chuckle weasel possible stay crowd hole bounce slab diesel differ believe";
+var mnemonic = "clock photo oval salt obey little sure level sea issue wire roof";

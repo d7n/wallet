@@ -1,1 +1,1 @@
-var mnemonic = "all blanket nut inspire scout comic badge avocado evolve cotton enroll ranch";
+var mnemonic = "purity pluck owner dutch ensure cute rapid rely now reunion hard scatter";

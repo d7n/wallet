@@ -1,1 +1,1 @@
-var mnemonic = "voyage mystery radio pizza spoil disease glimpse return pony people hour demand";
+var mnemonic = "light furnace option scheme ensure artwork shoe much chase weekend caution patch";

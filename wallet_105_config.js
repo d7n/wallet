@@ -1,1 +1,1 @@
-var mnemonic = "act release alone unveil half pencil soap town solution useful only glove";
+var mnemonic = "anger strategy install execute duty apology cradle ride gather shoot either sudden";

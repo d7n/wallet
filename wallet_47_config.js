@@ -1,1 +1,1 @@
-var mnemonic = "civil thumb pair step lemon wagon horse vanish leave make elephant useless";
+var mnemonic = "nut letter allow enrich update stamp nerve safe stem olive typical pause";

@@ -1,1 +1,1 @@
-var mnemonic = "danger sadness transfer liberty glow suffer lecture stick omit base focus script";
+var mnemonic = "snake stable deliver globe short type interest cushion motion error ecology want";

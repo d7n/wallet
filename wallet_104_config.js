@@ -1,1 +1,1 @@
-var mnemonic = "use fine rate save fortune myself kite shield pulp text evolve assist";
+var mnemonic = "fever buzz electric magnet bread exotic tourist account quiz penalty patrol combine";

@@ -1,1 +1,1 @@
-var mnemonic = "common blame bless police will hobby blur drink boring civil search river";
+var mnemonic = "script umbrella basic benefit ten achieve smooth pudding drink father prison cover";

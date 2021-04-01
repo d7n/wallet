@@ -1,1 +1,1 @@
-var mnemonic = "happy ritual equip tumble private silent match tumble velvet pair innocent frown";
+var mnemonic = "forward fish check submit omit boil tide trip seminar raven giant vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "cream warrior soul make like much between basket scale glue jaguar identify";
+var mnemonic = "scorpion toilet cart tilt weather alley entry excuse piano life pulse spoon";

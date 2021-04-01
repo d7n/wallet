@@ -1,1 +1,1 @@
-var mnemonic = "pony talent topic spike shop nice squeeze sun system interest identify rude";
+var mnemonic = "gadget wave excess concert bamboo music exact habit involve cost tragic hero";

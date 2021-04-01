@@ -1,1 +1,1 @@
-var mnemonic = "typical party brave price symptom base breeze secret material shallow input clean";
+var mnemonic = "hurdle strong remain waste embark thank enact glove follow pudding cherry prepare";

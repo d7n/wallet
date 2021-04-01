@@ -1,1 +1,1 @@
-var mnemonic = "filter innocent victory crumble world donor girl govern also company owner lemon";
+var mnemonic = "orphan stereo cute rubber mule tube deposit shed day impact swing naive";

@@ -1,1 +1,1 @@
-var mnemonic = "concert chef day endless elite steel weird inform deny rely midnight science";
+var mnemonic = "zone soap peanut syrup hope during bonus quantum great dumb wasp test";

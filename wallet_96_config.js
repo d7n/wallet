@@ -1,1 +1,1 @@
-var mnemonic = "trap cloud dragon pepper solve suffer dry priority flash panic ride north";
+var mnemonic = "myself excite spirit icon busy place syrup convince universe sport brown craft";

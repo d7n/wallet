@@ -1,1 +1,1 @@
-var mnemonic = "champion expose buffalo link label gown deputy dolphin clump curve dune group";
+var mnemonic = "section blast acid scorpion skull soccer salon swamp connect before hammer opinion";

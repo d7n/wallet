@@ -1,1 +1,1 @@
-var mnemonic = "crowd robust foil camera nut sad rival famous bitter scout student bottom";
+var mnemonic = "dinner system address game update type twelve adjust spawn breeze immune just";

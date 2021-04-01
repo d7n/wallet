@@ -1,1 +1,1 @@
-var mnemonic = "avocado box unit forum brave essay dice solution pluck boss gym social";
+var mnemonic = "often green drum already sibling layer glue happy jeans project impulse any";

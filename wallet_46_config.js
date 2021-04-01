@@ -1,1 +1,1 @@
-var mnemonic = "axis wolf gap rib machine control crash axis during safe want luggage";
+var mnemonic = "cliff reward alert buyer pill hint sort desk small forget chase never";

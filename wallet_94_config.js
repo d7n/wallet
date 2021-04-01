@@ -1,1 +1,1 @@
-var mnemonic = "april know uncover network island usage desert aerobic remember fat find say";
+var mnemonic = "note alien loan blue pulse park pill trial rude suggest water share";

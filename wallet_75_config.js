@@ -1,1 +1,1 @@
-var mnemonic = "genius brief lazy liar stem close amused sail grit air actor sock";
+var mnemonic = "pilot wrestle arena hunt acid interest path topic rally energy reveal ask";

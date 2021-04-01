@@ -1,1 +1,1 @@
-var mnemonic = "cash join school harsh task bottom habit term surface dish increase coin";
+var mnemonic = "domain boss pretty lesson protect dutch trap turkey pair joy stairs educate";

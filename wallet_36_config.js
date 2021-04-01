@@ -1,1 +1,1 @@
-var mnemonic = "online blouse repair stool flavor tooth dish renew echo gather famous globe";
+var mnemonic = "adapt bounce between diary panda drum kit green cat spawn panic bird";

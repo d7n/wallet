@@ -1,1 +1,1 @@
-var mnemonic = "aerobic denial hunt air test crunch sketch risk sentence travel dust juice";
+var mnemonic = "actor abuse regular asset faith tribe evoke choice kingdom maze develop eight";

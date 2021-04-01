@@ -1,1 +1,1 @@
-var mnemonic = "jungle carry cup wrap confirm rain photo pilot join obey slender clean";
+var mnemonic = "before acoustic tool nominee curve hedgehog produce legal wasp various letter huge";

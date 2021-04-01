@@ -1,1 +1,1 @@
-var mnemonic = "jeans slim vague bulb cotton shrug sibling chronic breeze disagree detect song";
+var mnemonic = "special idle notice top reveal surround hidden issue surface next slot drastic";

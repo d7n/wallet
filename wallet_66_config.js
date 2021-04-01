@@ -1,1 +1,1 @@
-var mnemonic = "obtain heavy reward access sort wreck voyage slim blouse order theory kiss";
+var mnemonic = "wrist bracket stock yellow submit coyote potato chair toss fury panda public";

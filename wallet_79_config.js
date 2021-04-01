@@ -1,1 +1,1 @@
-var mnemonic = "flash toss blush erosion fever rigid bundle wolf area focus edit head";
+var mnemonic = "add bus clever found clump garment damp under small heavy slender split";

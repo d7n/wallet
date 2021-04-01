@@ -1,1 +1,1 @@
-var mnemonic = "impulse pause explain system alley shaft upper seat usage arena tower quarter";
+var mnemonic = "cabbage scheme exile happy usual merge grunt usual attack again virus room";

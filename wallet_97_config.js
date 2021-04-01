@@ -1,1 +1,1 @@
-var mnemonic = "thrive rhythm explain cruise brass cabin banana throw someone cup sign purse";
+var mnemonic = "since ship tomato sleep away useless lounge metal innocent pupil frown nuclear";

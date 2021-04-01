@@ -1,1 +1,1 @@
-var mnemonic = "unhappy consider size seed sudden remind valve can opera glad index return";
+var mnemonic = "detect village usage embark curtain predict scorpion ozone genre silent diary enhance";

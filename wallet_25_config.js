@@ -1,1 +1,1 @@
-var mnemonic = "chicken uncle fork south sort unveil abandon depart bread girl cool dash";
+var mnemonic = "vacant ring lava nurse setup door real dirt pledge volcano charge creek";

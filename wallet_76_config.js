@@ -1,1 +1,1 @@
-var mnemonic = "flame future flee kitten matrix penalty matter budget depth best since heart";
+var mnemonic = "barely cry dream tissue grow brain journey stove insect chase tattoo wash";

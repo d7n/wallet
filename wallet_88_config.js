@@ -1,1 +1,1 @@
-var mnemonic = "quarter clog elegant custom laugh shock explain better electric egg parent promote";
+var mnemonic = "toy rapid step foster inmate first castle journey boat public typical faith";

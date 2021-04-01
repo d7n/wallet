@@ -1,1 +1,1 @@
-var mnemonic = "labor attack crater boost actress hand boat eye spray mass negative gain";
+var mnemonic = "moon truck north basic office blood muffin heart income refuse left boy";

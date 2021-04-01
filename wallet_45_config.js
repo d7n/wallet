@@ -1,1 +1,1 @@
-var mnemonic = "topic future wide forum bronze dizzy weird evolve nature brisk across second";
+var mnemonic = "art puppy tennis seminar convince battle congress museum similar scatter daughter gather";

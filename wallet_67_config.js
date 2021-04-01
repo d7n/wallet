@@ -1,1 +1,1 @@
-var mnemonic = "basket best kidney blouse flame manual latin about figure gather claim wage";
+var mnemonic = "loop business stuff unfair nuclear fringe turtle omit fury stone industry agree";

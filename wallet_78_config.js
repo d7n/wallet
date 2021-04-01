@@ -1,1 +1,1 @@
-var mnemonic = "crowd lizard impact lawsuit modify chat melt method isolate poet echo furnace";
+var mnemonic = "often labor kick tip sustain squeeze neck win ranch option swallow entry";

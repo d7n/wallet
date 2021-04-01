@@ -1,1 +1,1 @@
-var mnemonic = "label stairs truth lobster purity awful group sketch garbage surge photo wheel";
+var mnemonic = "close rib faculty saddle found barrel electric sing street emotion finish lamp";

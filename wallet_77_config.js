@@ -1,1 +1,1 @@
-var mnemonic = "rice cancel photo they accident brand proud property forward proud material town";
+var mnemonic = "sister same copper begin defense bulb tattoo rubber airport write certain honey";

@@ -1,1 +1,1 @@
-var mnemonic = "sock tent plug interest lend spice gentle toy audit faculty wrong ecology";
+var mnemonic = "keen enhance gentle cage color picture hazard rib beyond tobacco gravity pattern";

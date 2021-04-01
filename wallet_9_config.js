@@ -1,1 +1,1 @@
-var mnemonic = "begin idle angle tumble tank undo surprise gold thing fade salt lend";
+var mnemonic = "tissue young body limb unfold robust cradle claim wife leader young pipe";

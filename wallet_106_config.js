@@ -1,1 +1,1 @@
-var mnemonic = "solar latin illness foster unusual wild purpose casino weather discover deputy resemble";
+var mnemonic = "dinosaur tilt sketch claim quick record husband theory analyst metal weather diamond";

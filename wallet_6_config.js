@@ -1,1 +1,1 @@
-var mnemonic = "bitter daughter renew wool toilet screen album cushion another repeat expect list";
+var mnemonic = "path large chapter thought crazy cluster spend worry bonus speak hip lucky";

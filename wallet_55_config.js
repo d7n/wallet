@@ -1,1 +1,1 @@
-var mnemonic = "south noodle brain fat leopard latin author trigger final guide good purity";
+var mnemonic = "aunt close level dilemma fiber entry response tower artefact allow believe ranch";

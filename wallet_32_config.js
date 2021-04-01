@@ -1,1 +1,1 @@
-var mnemonic = "gate shy seminar ill affair rose kingdom zoo toward crop other auto";
+var mnemonic = "about roof collect trash file awake fruit cannon layer issue flash begin";

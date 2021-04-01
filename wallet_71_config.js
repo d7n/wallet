@@ -1,1 +1,1 @@
-var mnemonic = "couple enroll badge nothing lock pigeon stand reflect soccer six arctic dog";
+var mnemonic = "coffee resource success recycle thought list wait modify victory joy various produce";

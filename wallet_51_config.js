@@ -1,1 +1,1 @@
-var mnemonic = "infant easy provide duck wedding unknown cannon noodle orbit wedding phrase damp";
+var mnemonic = "frost snow develop legend tired goose test wisdom wheat city conduct order";

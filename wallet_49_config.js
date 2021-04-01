@@ -1,1 +1,1 @@
-var mnemonic = "beach echo immense improve naive crater spray mean describe hint angry rule";
+var mnemonic = "you merry method survey narrow crash blue edit inject artist sense polar";

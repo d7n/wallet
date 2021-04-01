@@ -1,1 +1,1 @@
-var mnemonic = "shrimp safe riot dragon either daughter deal note output cry morning solution";
+var mnemonic = "side click captain leave sort spirit wrong good scissors equal south north";

@@ -1,1 +1,1 @@
-var mnemonic = "degree arrow picnic sorry space bullet inhale runway reveal start crash crunch";
+var mnemonic = "wait account obscure sight cycle blanket unaware solar eager sorry village nephew";

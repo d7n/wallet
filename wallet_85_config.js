@@ -1,1 +1,1 @@
-var mnemonic = "trigger leaf rice castle phrase credit crowd reflect provide antenna frog limit";
+var mnemonic = "mule worth light involve nice until vapor uncle script patrol canyon reform";

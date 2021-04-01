@@ -1,1 +1,1 @@
-var mnemonic = "lucky fault place dice lunar coil picture evoke strong lecture power size";
+var mnemonic = "churn ready barrel race stay govern prevent eternal one change veteran salt";

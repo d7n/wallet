@@ -1,1 +1,1 @@
-var mnemonic = "cement focus picture hedgehog labor antenna jeans yellow clever expose intact anxiety";
+var mnemonic = "uniform wise love peasant cupboard history seminar faint demand brain pigeon cube";

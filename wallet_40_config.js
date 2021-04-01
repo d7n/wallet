@@ -1,1 +1,1 @@
-var mnemonic = "spell tomato bridge beyond border bunker auction nephew alter guitar rapid staff";
+var mnemonic = "crumble loud trial planet resource stem atom reflect visit erosion text version";

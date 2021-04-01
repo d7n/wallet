@@ -1,1 +1,1 @@
-var mnemonic = "chaos vessel bring grant bone any edge evolve because inside broccoli car";
+var mnemonic = "harvest best party skull vacant major dismiss drip general uncover cage chief";

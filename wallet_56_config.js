@@ -1,1 +1,1 @@
-var mnemonic = "inch junior alone notice swarm seven fix trade unlock wealth peace purpose";
+var mnemonic = "afford venue because used curtain castle curve interest rookie kangaroo guard seven";

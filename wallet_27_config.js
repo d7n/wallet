@@ -1,1 +1,1 @@
-var mnemonic = "someone hurry rain unfair ticket dice sadness actual home machine clump valve";
+var mnemonic = "fly original vehicle night advance slot march sick control certain melody drip";

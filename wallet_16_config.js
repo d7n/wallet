@@ -1,1 +1,1 @@
-var mnemonic = "vehicle galaxy game become jacket suspect opinion wheat elder omit diamond bone";
+var mnemonic = "dolphin evolve grocery asthma runway evidence visa present faith before night canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "twin dolphin supreme unusual myth program thing collect lonely crater session chuckle";
+var mnemonic = "window throw festival spray tired assume hire search school improve raven husband";

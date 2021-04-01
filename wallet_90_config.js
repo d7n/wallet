@@ -1,1 +1,1 @@
-var mnemonic = "pink rely tube benefit eyebrow reform atom riot motion layer dose whale";
+var mnemonic = "cereal cushion salt report carry depend tourist kit say cinnamon foster luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "aim repeat mandate example truth update scorpion rose face coach screen prevent";
+var mnemonic = "remain coconut sorry garlic wire inherit water hole girl dove index goat";

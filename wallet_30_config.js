@@ -1,1 +1,1 @@
-var mnemonic = "behind silly popular average check wait tennis edit hollow easily tool session";
+var mnemonic = "agent gadget ticket frame dial poet seven fly farm tissue muffin surface";

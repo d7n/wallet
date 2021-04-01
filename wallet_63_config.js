@@ -1,1 +1,1 @@
-var mnemonic = "siege post truly fetch fan arrange junk canyon seminar report crane glimpse";
+var mnemonic = "picture tuna bubble trouble cook fold airport version clean belt trust carpet";

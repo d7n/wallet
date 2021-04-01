@@ -1,1 +1,1 @@
-var mnemonic = "section tool mosquito axis twice supply gasp notice cargo fantasy enjoy joke";
+var mnemonic = "hand box doctor nuclear outside crater wonder honey damage reunion whisper harbor";
