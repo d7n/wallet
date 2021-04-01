@@ -1,1 +1,1 @@
-var mnemonic = "question quantum oil fix divorce column base fancy couch craft gasp earn";
+var mnemonic = "able own deer beach host release riot stumble aunt loyal battle sausage";

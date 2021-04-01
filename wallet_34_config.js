@@ -1,1 +1,1 @@
-var mnemonic = "august lift weekend phrase penalty drink bottom bridge disorder layer panic repair";
+var mnemonic = "useless rebuild grant oyster critic slim rely crystal liquid discover omit desk";

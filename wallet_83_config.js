@@ -1,1 +1,1 @@
-var mnemonic = "person fold maid coffee put lamp suggest invest play rescue pond scale";
+var mnemonic = "canal fitness laundry guide kingdom club spoon supreme mix key useless alone";

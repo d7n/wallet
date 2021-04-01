@@ -1,1 +1,1 @@
-var mnemonic = "frame loop exotic eagle unit bundle allow eternal dinosaur next tumble solar";
+var mnemonic = "mushroom noodle feel claim reflect wash cradle waste state waste half trumpet";

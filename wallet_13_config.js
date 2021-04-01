@@ -1,1 +1,1 @@
-var mnemonic = "thank menu muscle quarter timber fetch matter lake raven deal equal glad";
+var mnemonic = "tool buddy arrow unique have local scene senior jungle away eight census";

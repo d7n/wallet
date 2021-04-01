@@ -1,1 +1,1 @@
-var mnemonic = "sword vote memory ethics crater answer pull nerve jar price region joy";
+var mnemonic = "vehicle carbon giant know outside calm rigid ethics visual bamboo smooth diet";

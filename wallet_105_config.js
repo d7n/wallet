@@ -1,1 +1,1 @@
-var mnemonic = "breeze alter mass round ridge pluck warfare kingdom unveil kid caution embark";
+var mnemonic = "escape misery ocean fee soul clip social possible rug have frost child";

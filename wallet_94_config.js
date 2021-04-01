@@ -1,1 +1,1 @@
-var mnemonic = "orient auction glue purse relax install junior diamond finish vintage devote rack";
+var mnemonic = "vendor moon water that portion truly festival coyote deliver hedgehog fee train";

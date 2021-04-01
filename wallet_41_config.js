@@ -1,1 +1,1 @@
-var mnemonic = "control hunt type kangaroo column film will attitude bright alter spy myth";
+var mnemonic = "spice recall refuse alley analyst motion blur attack lion witness liquid detail";

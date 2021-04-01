@@ -1,1 +1,1 @@
-var mnemonic = "will curious job average trash odor method tip twice ride victory hamster";
+var mnemonic = "gallery media shy mass avoid display corn ring harsh whisper joke divide";

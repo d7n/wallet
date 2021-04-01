@@ -1,1 +1,1 @@
-var mnemonic = "second hockey shove swing army inside dose off pole warfare orphan minimum";
+var mnemonic = "settle hen wagon broccoli atom skill shove dumb ceiling expand exclude zebra";

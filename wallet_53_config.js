@@ -1,1 +1,1 @@
-var mnemonic = "announce private boil beyond equal hedgehog endorse client vivid bounce viable alien";
+var mnemonic = "churn artwork goddess chuckle tomorrow material offer parade chronic void dog school";

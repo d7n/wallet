@@ -1,1 +1,1 @@
-var mnemonic = "puzzle glance start grocery peasant cannon nerve myself leg vendor rural wrestle";
+var mnemonic = "drive soon pond ill mistake shallow swallow history peace load gap animal";

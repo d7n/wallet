@@ -1,1 +1,1 @@
-var mnemonic = "aisle poverty dutch key jeans tenant learn sleep aim thumb silk joy";
+var mnemonic = "flavor glimpse argue dose guitar track slender crucial deer flock spice property";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain festival casual dry vault pepper tree powder oyster resist profit obtain";
+var mnemonic = "more cause jar steel kid lend ten hammer avocado shoulder hood easy";

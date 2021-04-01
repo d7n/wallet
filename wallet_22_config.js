@@ -1,1 +1,1 @@
-var mnemonic = "pepper day come combine acid opinion rain choice palace remain tooth trial";
+var mnemonic = "drill issue jump exercise fork mirror hole sausage assault few topple color";

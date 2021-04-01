@@ -1,1 +1,1 @@
-var mnemonic = "myself same flush endorse heavy allow secret master girl omit leaf patrol";
+var mnemonic = "burger diet ostrich rookie senior scorpion speed exhaust obvious improve border enhance";

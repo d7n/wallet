@@ -1,1 +1,1 @@
-var mnemonic = "west cry jump park tree still rough bean repair solution rail access";
+var mnemonic = "device lazy burger obscure disorder bomb despair jelly output push elephant tumble";

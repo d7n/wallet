@@ -1,1 +1,1 @@
-var mnemonic = "box decide glory noble canyon stumble oblige trigger razor broom rice vehicle";
+var mnemonic = "east slight polar snack math fluid belt bone unlock capital blur motion";

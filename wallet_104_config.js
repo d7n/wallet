@@ -1,1 +1,1 @@
-var mnemonic = "blossom grace icon bike accident share consider ahead father tornado bread century";
+var mnemonic = "problem pitch meadow venture mix will solar spin isolate ozone segment salt";

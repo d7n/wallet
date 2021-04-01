@@ -1,1 +1,1 @@
-var mnemonic = "grace exile critic candy increase letter office stem rain enroll mobile symbol";
+var mnemonic = "turkey trip angry team promote become trade atom they organ banner margin";

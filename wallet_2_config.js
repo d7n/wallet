@@ -1,1 +1,1 @@
-var mnemonic = "devote buddy office snake hidden case sadness junk mixture priority treat bulk";
+var mnemonic = "craft bomb grocery truth video scatter have cry royal rigid pond creek";

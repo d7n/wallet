@@ -1,1 +1,1 @@
-var mnemonic = "coin explain soap nominee oven tiger input faint differ december liar response";
+var mnemonic = "worth gallery recall mechanic thunder opera frost palm gesture all drastic vibrant";

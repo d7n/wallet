@@ -1,1 +1,1 @@
-var mnemonic = "glow large false outer annual pyramid visit word slim human idea spend";
+var mnemonic = "ritual piano drop total hurt enter gold produce negative inch cactus shift";

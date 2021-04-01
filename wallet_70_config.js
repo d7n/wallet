@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit catalog uphold royal mango plastic talk circle middle thought current blush";
+var mnemonic = "rate sad swing scale coconut spare multiply eye evidence habit carpet kidney";

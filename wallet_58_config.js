@@ -1,1 +1,1 @@
-var mnemonic = "claim attract famous bounce anxiety lady pumpkin harbor stick laundry bag spell";
+var mnemonic = "join nasty behind arrive machine cousin pole expose afford night left situate";

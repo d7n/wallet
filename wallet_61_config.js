@@ -1,1 +1,1 @@
-var mnemonic = "wreck inch spatial inch fetch arena nose attend tray detect balance deposit";
+var mnemonic = "stadium bargain inmate unusual flame kangaroo wheat pass damage card dance skull";

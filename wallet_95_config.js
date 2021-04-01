@@ -1,1 +1,1 @@
-var mnemonic = "swamp drama soap spoil bread fragile airport glare horse foam cinnamon hair";
+var mnemonic = "upon bundle salt now soccer release buddy act burden chat alien famous";

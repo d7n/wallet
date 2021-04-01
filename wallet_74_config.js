@@ -1,1 +1,1 @@
-var mnemonic = "melody whip lizard post ensure method swim grant doctor pioneer supreme chimney";
+var mnemonic = "sunset bamboo width tissue divorce silly object design deposit rude rhythm blood";

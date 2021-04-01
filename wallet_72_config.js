@@ -1,1 +1,1 @@
-var mnemonic = "divorce pole taste feature salon toy panda tag honey obey approve amused";
+var mnemonic = "age safe topple clinic one tell grocery metal join outer anchor black";

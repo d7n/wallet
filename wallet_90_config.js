@@ -1,1 +1,1 @@
-var mnemonic = "match lake repeat parade volcano sick energy uncover actress twelve dilemma steel";
+var mnemonic = "motor session clarify plate danger now jaguar critic ketchup wisdom design ritual";

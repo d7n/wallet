@@ -1,1 +1,1 @@
-var mnemonic = "law unfair buddy acoustic marine also spot crouch stove country about sibling";
+var mnemonic = "useful blanket load click truth deputy velvet report box airport happy little";

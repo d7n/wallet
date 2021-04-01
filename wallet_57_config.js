@@ -1,1 +1,1 @@
-var mnemonic = "jealous case blood female high tiny easily jelly energy audit butter excuse";
+var mnemonic = "skin crumble way invest smoke into aisle category merge outside jazz poverty";

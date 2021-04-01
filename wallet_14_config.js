@@ -1,1 +1,1 @@
-var mnemonic = "merit distance grunt anger dignity attack owner subject behave media carbon celery";
+var mnemonic = "hawk increase inch grit tortoise month team mimic uphold maximum brick repeat";

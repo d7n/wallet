@@ -1,1 +1,1 @@
-var mnemonic = "jacket scale code december harsh remind segment matter wheat drum alcohol toe";
+var mnemonic = "mass vocal ketchup marble same promote dinner naive unfold across crouch maple";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual rare account fatigue shrimp render swift draft fragile current solar gap";
+var mnemonic = "flame grass canvas little sun sign oyster adjust caught lazy job movie";

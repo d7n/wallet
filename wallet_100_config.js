@@ -1,1 +1,1 @@
-var mnemonic = "screen act pulp guilt follow refuse tired half note element fence select";
+var mnemonic = "motor ugly young decade peace short gorilla exhibit repeat long boring message";

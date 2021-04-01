@@ -1,1 +1,1 @@
-var mnemonic = "suggest vast between spoon one render secret evolve forum album scorpion noble";
+var mnemonic = "there secret goat shrug clerk seminar network genre clean green equip buffalo";

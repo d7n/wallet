@@ -1,1 +1,1 @@
-var mnemonic = "harsh picture replace crunch bubble mesh jungle lesson evolve wine length fine";
+var mnemonic = "stem galaxy sentence lion rain develop key local purse vague author seed";

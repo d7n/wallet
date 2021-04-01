@@ -1,1 +1,1 @@
-var mnemonic = "require primary goddess party morning essence tobacco valley company fat stable toward";
+var mnemonic = "funny wolf company perfect goat file lumber hybrid pool sudden gesture fit";

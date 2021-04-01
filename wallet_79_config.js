@@ -1,1 +1,1 @@
-var mnemonic = "room magnet logic shock chat gain wheat ordinary describe wire never salon";
+var mnemonic = "electric weather chair coast divorce lava vehicle canal pen arctic stomach stadium";

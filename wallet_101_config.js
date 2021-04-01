@@ -1,1 +1,1 @@
-var mnemonic = "swear sand calm medal waste ahead position neutral inside umbrella again scatter";
+var mnemonic = "exchange business crash flame episode tower ankle chat tray always sausage enough";

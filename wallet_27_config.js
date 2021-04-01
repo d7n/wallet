@@ -1,1 +1,1 @@
-var mnemonic = "tornado buyer food desk team rocket wrong cigar erode tortoise large wet";
+var mnemonic = "glue exercise submit result aspect update juice pink wear edge acid width";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer kid mean crunch pulp flag forward emotion pilot circle safe cycle";
+var mnemonic = "thank make loan slab situate visit stairs hospital shaft false share bird";

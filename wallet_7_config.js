@@ -1,1 +1,1 @@
-var mnemonic = "rely iron famous combine hazard account birth sting jungle wife right obtain";
+var mnemonic = "alcohol swift paddle awful remind ordinary diary average sunset eagle admit increase";

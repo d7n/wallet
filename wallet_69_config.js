@@ -1,1 +1,1 @@
-var mnemonic = "argue fragile enhance drop excuse digital asthma motor farm clump essay impulse";
+var mnemonic = "meadow basket burden bird silver female purity radar chest drink tide post";

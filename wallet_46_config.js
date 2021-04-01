@@ -1,1 +1,1 @@
-var mnemonic = "caught mixed prepare assault asthma clarify snack nature athlete survey abstract input";
+var mnemonic = "rich acoustic royal alley divide gentle proud gadget benefit radar model high";

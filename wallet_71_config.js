@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo raccoon minimum clip spice confirm right win apology boil focus pluck";
+var mnemonic = "rose habit flight disagree pen farm cash master rent meadow engage razor";

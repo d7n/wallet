@@ -1,1 +1,1 @@
-var mnemonic = "top rail fix crisp circle pulp flip moon category noodle stamp soft";
+var mnemonic = "crisp pattern remind student symbol first one praise moon vivid smile duty";

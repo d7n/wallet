@@ -1,1 +1,1 @@
-var mnemonic = "melt unusual canvas inherit suggest rug tumble fashion seminar nature camp crush";
+var mnemonic = "noise health inch consider doctor detail chimney undo live cheap powder fabric";

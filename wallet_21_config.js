@@ -1,1 +1,1 @@
-var mnemonic = "pulse wire usual network jar junk nominee cruise air gallery useful disagree";
+var mnemonic = "loud draw bless critic doctor jeans useful journey wise science puppy ancient";

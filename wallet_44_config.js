@@ -1,1 +1,1 @@
-var mnemonic = "winter want tree feel scatter option coin speed deputy wisdom album squirrel";
+var mnemonic = "travel profit library canyon unknown trust nut engage egg caught drama group";

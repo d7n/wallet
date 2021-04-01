@@ -1,1 +1,1 @@
-var mnemonic = "patient similar roast service deliver license proud belt icon galaxy myth scale";
+var mnemonic = "circle warrior spend lawsuit world order flavor inside brick wagon offer notice";

@@ -1,1 +1,1 @@
-var mnemonic = "choose ramp opera civil sauce park document inside arena input cigar inquiry";
+var mnemonic = "silent rose maximum inherit never magnet smoke category pool deliver dynamic attack";

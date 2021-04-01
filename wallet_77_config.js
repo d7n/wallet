@@ -1,1 +1,1 @@
-var mnemonic = "win above sniff frame crop rather viable unable stock dose voice surface";
+var mnemonic = "elegant garlic rain jealous square cheap skull lend skirt eagle file lesson";

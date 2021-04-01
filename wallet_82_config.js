@@ -1,1 +1,1 @@
-var mnemonic = "monitor worry attitude will aim shoe casino flash pull final gaze core";
+var mnemonic = "adapt any host own advance parade company enlist renew rebuild ridge undo";

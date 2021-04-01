@@ -1,1 +1,1 @@
-var mnemonic = "palace pride teach mix misery bean buddy job love artefact lady nest";
+var mnemonic = "case file empty erase travel false license fossil item feature salmon armor";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn develop stone shuffle axis secret track silent excuse wet move vote";
+var mnemonic = "concert amateur gossip rescue success surprise next card cave power ski into";

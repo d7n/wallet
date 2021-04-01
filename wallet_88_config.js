@@ -1,1 +1,1 @@
-var mnemonic = "cattle danger amount dish horse basic dad pond reject robot young net";
+var mnemonic = "ladder fat bulb poverty width sight glide embark vanish park sure blur";

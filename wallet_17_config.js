@@ -1,1 +1,1 @@
-var mnemonic = "delay autumn trim surface afraid payment boss labor soup tragic buffalo hard";
+var mnemonic = "adapt multiply deal above seven depend argue speak blind general arrow hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn mix rubber erase man hover squirrel tunnel start gadget grace draft";
+var mnemonic = "never fitness lazy travel fortune card trial actual sight public onion venture";

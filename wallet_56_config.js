@@ -1,1 +1,1 @@
-var mnemonic = "join pen social rose avocado one spare idle twin waste detail mention";
+var mnemonic = "ketchup blast damp bag sell edge enrich assault garlic crop move clown";

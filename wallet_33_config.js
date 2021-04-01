@@ -1,1 +1,1 @@
-var mnemonic = "divide human february theory nut tongue market inside ride sniff rude close";
+var mnemonic = "habit profit idea patient day vibrant glue mix pencil sustain eager silver";

@@ -1,1 +1,1 @@
-var mnemonic = "century gather wine dose design camera blast vicious elevator monkey clever impact";
+var mnemonic = "ladder begin jump under choose oxygen great adjust bunker drama panda staff";

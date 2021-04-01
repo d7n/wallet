@@ -1,1 +1,1 @@
-var mnemonic = "bulb water clock screen capital teach quote remind dawn seed mushroom right";
+var mnemonic = "breeze shallow van cotton film stumble same blouse almost island spot friend";

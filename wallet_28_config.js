@@ -1,1 +1,1 @@
-var mnemonic = "shallow beauty fat artefact shoe bulb point suggest found rare march panther";
+var mnemonic = "cluster amazing spray twenty twin ordinary help catalog panda trend kind pepper";

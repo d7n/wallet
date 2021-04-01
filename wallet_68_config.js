@@ -1,1 +1,1 @@
-var mnemonic = "useful blanket drive hill maid act warfare state gospel upon hidden powder";
+var mnemonic = "foot enough trip modify banana develop letter enable local spice dose suggest";

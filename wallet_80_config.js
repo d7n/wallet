@@ -1,1 +1,1 @@
-var mnemonic = "hazard crowd day multiply random raw yard sure picture cushion ring divide";
+var mnemonic = "tongue rather asthma acoustic hello alone regret demand breeze galaxy journey thumb";

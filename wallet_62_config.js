@@ -1,1 +1,1 @@
-var mnemonic = "elbow ripple inhale romance lumber outer mail ramp person peasant payment benefit";
+var mnemonic = "velvet hunt elephant olive course orbit glow verb appear taste myself visual";

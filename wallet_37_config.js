@@ -1,1 +1,1 @@
-var mnemonic = "page rich civil local guilt ensure lamp install caution inhale grape valley";
+var mnemonic = "screen bone trend foil conduct rhythm cousin one crime loan train knee";

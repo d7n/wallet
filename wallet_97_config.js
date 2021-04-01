@@ -1,1 +1,1 @@
-var mnemonic = "force great game neck say goddess awkward mistake soup satoshi vacant forward";
+var mnemonic = "inform just expect bomb pilot shove wide denial advice mixed quote exhaust";

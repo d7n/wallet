@@ -1,1 +1,1 @@
-var mnemonic = "invest involve laugh genre net tide strong version enlist tent derive easily";
+var mnemonic = "pass message merge sword frequent own capital hope village lounge run proud";

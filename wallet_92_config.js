@@ -1,1 +1,1 @@
-var mnemonic = "steak equip tourist unfold liar wrong multiply hidden gain enlist blast trophy";
+var mnemonic = "jelly caught gate crucial case grid ketchup noble infant similar still script";

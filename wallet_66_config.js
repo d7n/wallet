@@ -1,1 +1,1 @@
-var mnemonic = "rebuild gadget alone burst valve shop turkey anxiety front speed tool mercy";
+var mnemonic = "sudden repeat next stool flower bean ready memory joke ability movie galaxy";

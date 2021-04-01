@@ -1,1 +1,1 @@
-var mnemonic = "repeat marriage disease waste another warfare isolate dumb mercy rotate struggle cream";
+var mnemonic = "strong autumn hamster wrong gorilla nest minor improve lemon task notable zoo";

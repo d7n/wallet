@@ -1,1 +1,1 @@
-var mnemonic = "outside begin gorilla staff situate captain gentle throw brief physical sun major";
+var mnemonic = "flame spend define they science dinner drill smoke tool minor often green";

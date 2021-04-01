@@ -1,1 +1,1 @@
-var mnemonic = "uniform nuclear law risk toddler forget exit head add hood typical resource";
+var mnemonic = "phone accuse pipe glance furnace okay battle view heart fuel sunny route";

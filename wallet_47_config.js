@@ -1,1 +1,1 @@
-var mnemonic = "extra nuclear alcohol lucky ozone frequent affair round problem chunk tuna real";
+var mnemonic = "neither satisfy border suit combine pair shrug ladder call atom census exile";

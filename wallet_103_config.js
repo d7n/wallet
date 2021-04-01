@@ -1,1 +1,1 @@
-var mnemonic = "title suggest coil nasty grace own involve issue rain barely garbage save";
+var mnemonic = "audit clown input breeze combine hint awkward beauty fatal surge mandate myth";

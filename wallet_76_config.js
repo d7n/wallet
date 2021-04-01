@@ -1,1 +1,1 @@
-var mnemonic = "beef weather noodle mad play luxury clever exhibit index dolphin audit nothing";
+var mnemonic = "giraffe safe crew unique useless raven onion orient cook sniff soda wolf";

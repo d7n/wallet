@@ -1,1 +1,1 @@
-var mnemonic = "cradle reform evil another guilt mule canyon ketchup bless way diary collect";
+var mnemonic = "tonight supreme pulp goose nurse marble deer warm robot rib chunk essence";

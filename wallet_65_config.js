@@ -1,1 +1,1 @@
-var mnemonic = "shift patch mobile pool city color patch license volume thrive hip minor";
+var mnemonic = "boss velvet middle wild arctic toast claim century polar army shallow song";

@@ -1,1 +1,1 @@
-var mnemonic = "repair puzzle maple position average jewel history midnight huge prefer group outdoor";
+var mnemonic = "gospel into kangaroo evidence share toss cart perfect frequent flat bicycle base";

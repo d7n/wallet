@@ -1,1 +1,1 @@
-var mnemonic = "target garage diamond element refuse river glue faculty pretty opinion practice garage";
+var mnemonic = "dragon media ask march gas various tiny mixture shine shift grit track";

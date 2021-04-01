@@ -1,1 +1,1 @@
-var mnemonic = "wheel unit ceiling another since peanut mule pioneer buyer collect sea anger";
+var mnemonic = "faculty spatial protect arena title clown alcohol carpet change main icon brown";

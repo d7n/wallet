@@ -1,1 +1,1 @@
-var mnemonic = "express promote profit field ranch damage casino ride proud van air army";
+var mnemonic = "refuse lottery collect cost upon bridge essence spice plate melody peanut assault";

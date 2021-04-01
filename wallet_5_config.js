@@ -1,1 +1,1 @@
-var mnemonic = "century fortune sudden run elite lunar draw film doll pet device else";
+var mnemonic = "girl critic border fiber raise umbrella stone vague enough model survey present";

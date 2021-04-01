@@ -1,1 +1,1 @@
-var mnemonic = "life snake idea click game physical radio very dove weird close process";
+var mnemonic = "suspect peasant edit hammer sniff finish master copy siren attend plunge indoor";

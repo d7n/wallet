@@ -1,1 +1,1 @@
-var mnemonic = "robot wealth demise ensure lonely liberty egg crime citizen thumb steak polar";
+var mnemonic = "candy tomato insane oil two dust edge retire arctic solution slab wide";

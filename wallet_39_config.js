@@ -1,1 +1,1 @@
-var mnemonic = "desert picnic find borrow weapon allow trap toss price material coyote economy";
+var mnemonic = "any sign find copper lemon broccoli laundry hip era kitten length board";

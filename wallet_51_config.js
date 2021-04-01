@@ -1,1 +1,1 @@
-var mnemonic = "point perfect pizza uncle wood excite purpose country moment local food grocery";
+var mnemonic = "around radar obtain whip relax finish away cruel very merry around secret";
