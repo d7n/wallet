@@ -1,1 +1,1 @@
-var mnemonic = "barrel chimney aspect aunt small clerk grocery discover pet census logic web";
+var mnemonic = "aisle young luxury smart evidence inspire shift vocal vault fiscal attract category";

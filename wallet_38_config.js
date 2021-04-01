@@ -1,1 +1,1 @@
-var mnemonic = "grab receive useless over slide glad ramp entry bounce surprise know behave";
+var mnemonic = "arm expire kiss home baby wool brown slight wine window pizza recall";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum south honey napkin frequent glue pretty bridge sibling rally sell couple";
+var mnemonic = "flush slide vendor coil divorce word wave swim desk ancient borrow sand";

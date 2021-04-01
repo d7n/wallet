@@ -1,1 +1,1 @@
-var mnemonic = "impact owner episode hawk wait tiny mutual edit work off salt trouble";
+var mnemonic = "maple cricket pave reveal snake odor enlist ready ginger bright mystery invest";

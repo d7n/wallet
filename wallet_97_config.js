@@ -1,1 +1,1 @@
-var mnemonic = "humble taste message strong uncover six room hobby bargain frog burger crawl";
+var mnemonic = "alley prevent off fork wire wink cost achieve analyst anger obey cook";

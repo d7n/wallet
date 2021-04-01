@@ -1,1 +1,1 @@
-var mnemonic = "dinner legal measure shadow develop venture devote actress pony digital when life";
+var mnemonic = "agent crawl will chuckle fall olympic warrior clerk snap post foam bid";

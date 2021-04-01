@@ -1,1 +1,1 @@
-var mnemonic = "jump blossom upon finger whip visa deal alley merge lion similar tower";
+var mnemonic = "hope agent group crime embrace anchor album pudding vanish normal human top";

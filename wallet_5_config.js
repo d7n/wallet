@@ -1,1 +1,1 @@
-var mnemonic = "awful holiday maximum venue hurdle toddler lava cannon beyond deposit cousin lady";
+var mnemonic = "addict slot recipe distance merry cram try buyer decorate slow document where";

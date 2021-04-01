@@ -1,1 +1,1 @@
-var mnemonic = "pottery stable smoke mesh foam oppose bless sand mandate sleep snap faint";
+var mnemonic = "dash toast animal jacket timber damage soap patient try elbow zoo renew";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp meadow what elephant speed attract ignore matter tonight phone dad remove";
+var mnemonic = "smoke patrol once diary flash picture also drop render light cloth like";

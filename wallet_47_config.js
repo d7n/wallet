@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ladder security spirit gospel love narrow usage sick odor axis slide";
+var mnemonic = "prosper exist security mule cave surge enact man brush weasel cancel achieve";

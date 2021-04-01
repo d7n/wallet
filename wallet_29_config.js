@@ -1,1 +1,1 @@
-var mnemonic = "bean pizza picnic mistake delay name arrive popular impose eight treat drastic";
+var mnemonic = "inch boy wage feel chalk capital honey avoid pass key subject horror";

@@ -1,1 +1,1 @@
-var mnemonic = "risk cushion assault okay task long shrug abandon pluck genius isolate clown";
+var mnemonic = "pool gasp lock arrange jaguar dizzy innocent cushion dumb box panda recall";

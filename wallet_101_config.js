@@ -1,1 +1,1 @@
-var mnemonic = "hard symbol select carpet dial moral armed boil hard zone squirrel east";
+var mnemonic = "believe casino room shift appear chef lounge gas point inform sign shift";

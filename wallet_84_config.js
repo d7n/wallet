@@ -1,1 +1,1 @@
-var mnemonic = "fortune clip unusual debate toilet slight odor divide snow become bread birth";
+var mnemonic = "until illness seek work ice mirror final save stuff toast script member";

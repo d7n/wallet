@@ -1,1 +1,1 @@
-var mnemonic = "test oxygen bright question gain armor power merry repair camera live quick";
+var mnemonic = "wasp ketchup cross expose route calm globe before start source fade side";

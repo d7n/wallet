@@ -1,1 +1,1 @@
-var mnemonic = "advice okay galaxy evidence book reveal entire jacket faith adapt arrest skirt";
+var mnemonic = "acid clinic sport goose diary wasp reflect fat slush hole ability cash";

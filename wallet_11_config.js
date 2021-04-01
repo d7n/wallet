@@ -1,1 +1,1 @@
-var mnemonic = "floor tiger faith august indoor spike slice guard siren welcome blossom inch";
+var mnemonic = "fatal cool void please erosion mimic umbrella inside decade long cupboard grab";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery permit owner measure prison net dance series key moon box salute";
+var mnemonic = "afraid meadow catch extend vocal whale wrestle tourist heavy scissors song gain";

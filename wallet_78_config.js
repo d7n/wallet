@@ -1,1 +1,1 @@
-var mnemonic = "derive clean elevator inner acid spot soldier seek crew decline million ask";
+var mnemonic = "give tower cost panel hand speed ball december base usual dilemma enlist";

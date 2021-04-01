@@ -1,1 +1,1 @@
-var mnemonic = "sign steak category sadness milk dress blame disease prosper school bench hire";
+var mnemonic = "agent result clarify icon panda doll define dentist syrup canoe practice eternal";

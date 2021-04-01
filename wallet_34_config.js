@@ -1,1 +1,1 @@
-var mnemonic = "dizzy bunker trial useful flock pigeon pet alcohol fossil vehicle average reform";
+var mnemonic = "theme town render winner guide oak rude decorate habit auto together poem";

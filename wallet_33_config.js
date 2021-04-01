@@ -1,1 +1,1 @@
-var mnemonic = "defy gift version amazing rebuild wild ladder uncle track famous unit cash";
+var mnemonic = "thunder gesture noble stock urban mad expect trumpet never kind gauge enable";

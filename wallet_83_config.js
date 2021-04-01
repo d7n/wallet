@@ -1,1 +1,1 @@
-var mnemonic = "belt enforce jungle toddler govern gauge rather mistake pole ocean web engage";
+var mnemonic = "label crisp leisure erosion rose hunt obtain bright warfare upon radio cannon";

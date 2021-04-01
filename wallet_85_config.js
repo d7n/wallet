@@ -1,1 +1,1 @@
-var mnemonic = "lounge thing deposit blush upset coin broom divide evoke achieve vault desert";
+var mnemonic = "exclude pool avoid soap tornado wasp welcome boil spare dune update satisfy";

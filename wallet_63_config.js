@@ -1,1 +1,1 @@
-var mnemonic = "boy agree oxygen trumpet item cube basket cry walnut minimum vapor engage";
+var mnemonic = "engage bacon nation ignore flee approve kit cause sketch develop gospel resource";

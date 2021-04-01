@@ -1,1 +1,1 @@
-var mnemonic = "area that frog grant alter shove keep input sing inform soon recipe";
+var mnemonic = "winner window govern crop material guess medal february song learn muffin number";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb pigeon home lazy law project glide physical poet diagram enable notice";
+var mnemonic = "elevator easily image penalty nasty sting grunt decline speak summer matrix buffalo";

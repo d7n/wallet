@@ -1,1 +1,1 @@
-var mnemonic = "waste pigeon guess tip army wear video volcano spring way vivid stock";
+var mnemonic = "open average hollow physical round disagree tuition alcohol health remove north exercise";

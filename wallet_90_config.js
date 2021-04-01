@@ -1,1 +1,1 @@
-var mnemonic = "cake opinion invite whale glass gaze print fit pepper luxury supreme crucial";
+var mnemonic = "rough grocery cube coffee practice brand laugh erosion furnace settle canoe nurse";

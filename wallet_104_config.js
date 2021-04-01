@@ -1,1 +1,1 @@
-var mnemonic = "below rocket imitate often square umbrella chair film crack fox impulse like";
+var mnemonic = "vacant jelly piano beef future enjoy craft depend clog success capable stone";

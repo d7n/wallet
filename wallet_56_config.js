@@ -1,1 +1,1 @@
-var mnemonic = "limit stamp tornado limb protect student month loyal swear pledge middle business";
+var mnemonic = "divorce sustain voyage cloth online maze purchase beef mistake slogan ugly best";

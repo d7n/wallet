@@ -1,1 +1,1 @@
-var mnemonic = "make clinic enough hunt edit obscure title voyage outer immune emotion false";
+var mnemonic = "heavy host hybrid profit vessel round wood assist fun behind gas spawn";

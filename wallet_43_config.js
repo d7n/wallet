@@ -1,1 +1,1 @@
-var mnemonic = "squirrel thank skin great hobby clarify inform maximum aisle trigger action clip";
+var mnemonic = "quantum cattle bicycle remember axis mechanic toddler rare fabric squeeze promote urge";

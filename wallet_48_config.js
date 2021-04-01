@@ -1,1 +1,1 @@
-var mnemonic = "lava return venture giant winter industry divorce poverty repeat nice pipe festival";
+var mnemonic = "tent grid host punch nasty inform vehicle pact advance wide garbage salt";

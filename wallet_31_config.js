@@ -1,1 +1,1 @@
-var mnemonic = "neck sign choice shop file satisfy cost drum tooth suit shed suspect";
+var mnemonic = "gospel upset live tiny gallery artist observe thunder great load cousin custom";

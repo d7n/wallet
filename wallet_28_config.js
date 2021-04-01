@@ -1,1 +1,1 @@
-var mnemonic = "reopen youth mention fold reflect sorry toward lamp virus recycle risk initial";
+var mnemonic = "athlete ensure canoe cement help void wedding bomb occur estate name bacon";

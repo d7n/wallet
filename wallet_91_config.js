@@ -1,1 +1,1 @@
-var mnemonic = "check mother price stairs spy jelly rail gun uphold scrap source twin";
+var mnemonic = "oven demand slot inquiry combine assist gentle clarify detect wood doctor gospel";

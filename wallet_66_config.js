@@ -1,1 +1,1 @@
-var mnemonic = "total trust attitude vivid strategy earn salon embody swarm mammal lamp ostrich";
+var mnemonic = "yard moment simple equal own pistol host galaxy around among tennis reopen";

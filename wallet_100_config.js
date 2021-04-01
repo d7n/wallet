@@ -1,1 +1,1 @@
-var mnemonic = "around immense output draw witness fall course exit salmon blame rookie sugar";
+var mnemonic = "acoustic leg boy clean deal today inspire midnight endorse surge box upgrade";

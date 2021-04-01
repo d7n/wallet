@@ -1,1 +1,1 @@
-var mnemonic = "hollow domain bottom cinnamon snow often mixed garden save pepper online cruel";
+var mnemonic = "any artwork hand inner fold device basic shield account eyebrow vague escape";

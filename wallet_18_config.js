@@ -1,1 +1,1 @@
-var mnemonic = "execute approve upgrade sibling right ship usage west hurry scan south bacon";
+var mnemonic = "bacon hospital avoid faculty depth under small warfare blood garment local sauce";

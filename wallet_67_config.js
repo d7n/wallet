@@ -1,1 +1,1 @@
-var mnemonic = "drink melt motion capable fringe diagram fresh polar ramp ski reform gentle";
+var mnemonic = "oak atom van recipe turkey join dune basket cruel voice blood casual";

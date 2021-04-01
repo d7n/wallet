@@ -1,1 +1,1 @@
-var mnemonic = "theme upgrade treat yellow chair boy wear lamp middle wish enhance sustain";
+var mnemonic = "scheme develop uniform guess similar icon win ability power spell option fold";

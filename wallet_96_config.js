@@ -1,1 +1,1 @@
-var mnemonic = "inside evidence come solar eternal frozen cancel october one dial bulk garbage";
+var mnemonic = "assume crash giggle include ripple smile machine three state cheese else pair";

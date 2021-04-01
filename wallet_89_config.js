@@ -1,1 +1,1 @@
-var mnemonic = "dial good spoil bean mimic omit wear strong sport system blur audit";
+var mnemonic = "absent life toilet enemy galaxy dice near scrub light whisper survey provide";

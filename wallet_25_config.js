@@ -1,1 +1,1 @@
-var mnemonic = "light soul summer pumpkin bachelor file draw first catalog way nurse payment";
+var mnemonic = "firm pupil master timber birth pulse matrix screen live wild number chief";

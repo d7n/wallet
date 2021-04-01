@@ -1,1 +1,1 @@
-var mnemonic = "section sad weekend motion claim flip eye whisper exit inspire pause session";
+var mnemonic = "depth raw very bird steak news knife round topple moral print equip";

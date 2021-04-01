@@ -1,1 +1,1 @@
-var mnemonic = "spatial wild milk lend cube flash slice truly rug leg hedgehog method";
+var mnemonic = "knock hungry umbrella cancel toddler spirit junk weather hero vault pigeon clean";

@@ -1,1 +1,1 @@
-var mnemonic = "short assist primary misery brief slogan nose ready require subway fit reform";
+var mnemonic = "column buddy extend kind lens breeze start thought wrestle grid laptop vote";

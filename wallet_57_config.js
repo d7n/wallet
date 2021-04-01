@@ -1,1 +1,1 @@
-var mnemonic = "alter desert grow mystery river dutch pond jungle version student scrap swear";
+var mnemonic = "account scene affair across walnut gate sure achieve pill hour crawl crater";

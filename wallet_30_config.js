@@ -1,1 +1,1 @@
-var mnemonic = "cargo game galaxy deposit trade hedgehog switch churn metal mutual jump basic";
+var mnemonic = "mad symptom turn angry parrot capable rich amazing exhaust tell carry boss";

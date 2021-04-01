@@ -1,1 +1,1 @@
-var mnemonic = "agent alone tail town rabbit brief game guess shallow inside crumble capable";
+var mnemonic = "auto bullet sense excuse agent rice play crystal shrimp device clerk vivid";

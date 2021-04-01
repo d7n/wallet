@@ -1,1 +1,1 @@
-var mnemonic = "stereo head filter question fox tackle fade club cinnamon shallow seek genre";
+var mnemonic = "tank vibrant custom expose damp monkey base kit weekend wrestle theme fat";

@@ -1,1 +1,1 @@
-var mnemonic = "sad key demise muffin sadness ethics staff thrive ahead shadow lecture vacuum";
+var mnemonic = "april child library say round quantum hurdle miss surprise tenant actor coin";

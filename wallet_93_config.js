@@ -1,1 +1,1 @@
-var mnemonic = "wood turtle prize knife chapter prosper view brick success sword stereo urge";
+var mnemonic = "glue useful chair curious priority use popular maple immense panda prison extend";

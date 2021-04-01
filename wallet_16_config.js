@@ -1,1 +1,1 @@
-var mnemonic = "huge grief machine post goat lesson corn spend spawn analyst arrange cage";
+var mnemonic = "smoke leaf forest pen place hungry easy circle stereo unfold entry bundle";

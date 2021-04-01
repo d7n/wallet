@@ -1,1 +1,1 @@
-var mnemonic = "keen utility dismiss crack gentle tool earn misery depend delay coast eager";
+var mnemonic = "balance label glove ball lawsuit elegant angry dawn display sell boring relax";

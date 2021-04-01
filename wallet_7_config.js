@@ -1,1 +1,1 @@
-var mnemonic = "advice inform citizen blind jump upon heart together steak broom ribbon deer";
+var mnemonic = "people creek social grit total cherry stamp season answer knife praise nuclear";

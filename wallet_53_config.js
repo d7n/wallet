@@ -1,1 +1,1 @@
-var mnemonic = "duck connect glove address trash click three spawn divide clump tumble churn";
+var mnemonic = "smart accuse chimney frame mountain odor chest spoon essence armor female tornado";

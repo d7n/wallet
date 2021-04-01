@@ -1,1 +1,1 @@
-var mnemonic = "zone update valley attitude security analyst clip supreme area confirm wife village";
+var mnemonic = "west fragile dose opera poverty label toy sense girl kick mystery face";

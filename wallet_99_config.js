@@ -1,1 +1,1 @@
-var mnemonic = "birth spoon tomato science anchor range town rapid domain abstract skill bonus";
+var mnemonic = "almost school lonely cradle calm intact prefer vivid dinner horn spread spy";

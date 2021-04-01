@@ -1,1 +1,1 @@
-var mnemonic = "vital gadget trend mango wolf since around sign merge crash gaze sea";
+var mnemonic = "stairs pilot gym abstract abuse swamp lend badge host tilt hood impose";

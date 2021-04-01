@@ -1,1 +1,1 @@
-var mnemonic = "physical era you tragic bicycle later ritual today notice piano custom giggle";
+var mnemonic = "history brief beach oxygen gadget train forest cheap guess endless runway special";

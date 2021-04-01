@@ -1,1 +1,1 @@
-var mnemonic = "chase toe shaft light float power gossip crunch surface hat layer spell";
+var mnemonic = "innocent odor upset taxi aerobic retreat field better dog gadget roof fresh";

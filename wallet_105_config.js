@@ -1,1 +1,1 @@
-var mnemonic = "mom humble layer tilt disorder ceiling middle bargain chat now celery element";
+var mnemonic = "noodle fiber country wrist laugh craft sport absorb bronze oven castle fee";

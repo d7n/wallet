@@ -1,1 +1,1 @@
-var mnemonic = "trash fury gospel baby impulse title length bus ripple layer wrestle unique";
+var mnemonic = "people lounge wise congress abstract october country food now family reveal wood";

@@ -1,1 +1,1 @@
-var mnemonic = "spy perfect wire solve twin defense forest wrestle bomb awful worth amazing";
+var mnemonic = "rapid mansion provide inner kid travel movie rose curious soul female piece";

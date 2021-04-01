@@ -1,1 +1,1 @@
-var mnemonic = "elbow angle object afraid nasty rent kingdom corn skirt print card idle";
+var mnemonic = "notice finish unlock pottery hollow chef dawn pluck pause dizzy lobster render";

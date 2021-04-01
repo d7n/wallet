@@ -1,1 +1,1 @@
-var mnemonic = "knee wire adapt good smile sight nest woman spot region include whisper";
+var mnemonic = "industry detect path town wink depend learn need hill bright crane album";

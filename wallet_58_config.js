@@ -1,1 +1,1 @@
-var mnemonic = "asset focus current social sight appear service detail story luggage morning envelope";
+var mnemonic = "victory wrong ugly heavy degree vapor scene size bulb simple glide tuition";

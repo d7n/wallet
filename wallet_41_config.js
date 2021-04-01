@@ -1,1 +1,1 @@
-var mnemonic = "butter volume journey phrase situate lazy enrich organ next uncle woman hello";
+var mnemonic = "bundle victory oak column supply flavor wood lift tent wealth layer report";

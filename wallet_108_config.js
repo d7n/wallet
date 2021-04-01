@@ -1,1 +1,1 @@
-var mnemonic = "blade ill myth myth impulse term split hire crew glue wool fatigue";
+var mnemonic = "grid guilt grab subject outdoor badge act crane spread diesel budget exit";

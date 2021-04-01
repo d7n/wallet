@@ -1,1 +1,1 @@
-var mnemonic = "hour certain market space quality bean balcony entire monitor edit armor lazy";
+var mnemonic = "ill wait brick copy step below approve adult poet whip merit tuna";

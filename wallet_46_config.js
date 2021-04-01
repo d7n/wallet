@@ -1,1 +1,1 @@
-var mnemonic = "calm someone thank average evidence night capable bachelor armor title walnut festival";
+var mnemonic = "relax advance phone hurt deposit salmon school away vapor turn flight toward";

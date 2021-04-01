@@ -1,1 +1,1 @@
-var mnemonic = "citizen night merit model put mask truly name angle two lyrics note";
+var mnemonic = "life worry elite ritual hungry useless exercise frame maple actor focus jaguar";

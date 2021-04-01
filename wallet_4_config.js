@@ -1,1 +1,1 @@
-var mnemonic = "agree shallow keen whale around swamp lunch order mask twice student street";
+var mnemonic = "tragic crane actual board vital oil valve order unit until dial april";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm will excite under wish true pact robot pelican meat artist insane";
+var mnemonic = "chunk can turn pitch host hobby cattle enhance duty transfer physical search";

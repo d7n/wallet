@@ -1,1 +1,1 @@
-var mnemonic = "sell sand dismiss tackle spoil wait soccer party super deliver abuse chaos";
+var mnemonic = "speed magnet before effort around luxury state mix unusual cover utility romance";

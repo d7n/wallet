@@ -1,1 +1,1 @@
-var mnemonic = "debris hill glad number multiply device inquiry royal edit sentence slight suspect";
+var mnemonic = "salmon sign robust sand clever vibrant destroy pool power turn excuse asthma";

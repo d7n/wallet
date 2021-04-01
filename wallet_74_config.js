@@ -1,1 +1,1 @@
-var mnemonic = "method orchard asthma author fall usage nothing sight tennis liberty public print";
+var mnemonic = "trip fashion fruit chase nice wrestle imitate off brown charge crowd clinic";

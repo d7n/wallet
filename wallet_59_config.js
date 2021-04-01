@@ -1,1 +1,1 @@
-var mnemonic = "weekend oyster faculty bicycle onion solution cabbage abstract then fancy permit remember";
+var mnemonic = "day cream ceiling breeze sword blush teach genuine eight fitness solid absorb";

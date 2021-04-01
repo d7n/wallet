@@ -1,1 +1,1 @@
-var mnemonic = "team alien elder exile since tongue hawk member fancy fatigue mouse surface";
+var mnemonic = "spring hen gesture fall jaguar fame next pilot require beach fork capital";

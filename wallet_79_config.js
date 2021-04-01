@@ -1,1 +1,1 @@
-var mnemonic = "open floor sing board cabin dance wide sell spring coyote smooth isolate";
+var mnemonic = "island board coin link kick march source very focus often define barrel";

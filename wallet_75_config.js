@@ -1,1 +1,1 @@
-var mnemonic = "track estate badge axis unable addict own entire hover height bag sure";
+var mnemonic = "season old blade fade flag horror shy artwork flat ugly decrease impact";

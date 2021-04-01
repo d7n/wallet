@@ -1,1 +1,1 @@
-var mnemonic = "fun romance gadget supreme vast run drum enter nut material worry toast";
+var mnemonic = "tunnel inch pause draft easy neck angle style minimum dentist metal farm";

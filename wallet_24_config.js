@@ -1,1 +1,1 @@
-var mnemonic = "battle infant slow square chuckle bread artwork trip choose wear bacon surge";
+var mnemonic = "agree bench gloom screen rapid super pupil carbon wonder focus punch witness";

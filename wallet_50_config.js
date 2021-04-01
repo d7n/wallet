@@ -1,1 +1,1 @@
-var mnemonic = "august bind win ozone enhance unveil vague model boring palace vintage bonus";
+var mnemonic = "hover jeans emerge exchange have pumpkin ritual beef festival sugar season pepper";

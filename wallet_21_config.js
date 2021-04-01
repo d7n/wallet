@@ -1,1 +1,1 @@
-var mnemonic = "flee desk about alien object demise fox spin senior decrease ranch quick";
+var mnemonic = "spend walk burden sunset twin broccoli tobacco tunnel old pluck antenna sound";

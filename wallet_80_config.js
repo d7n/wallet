@@ -1,1 +1,1 @@
-var mnemonic = "badge mango render sudden elevator subject crucial series moon inhale volcano bonus";
+var mnemonic = "reflect squirrel aware seven ugly banner shoulder nerve pupil daughter nephew notice";

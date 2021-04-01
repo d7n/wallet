@@ -1,1 +1,1 @@
-var mnemonic = "edit crop scout swap degree exact sea work lava panic lazy dignity";
+var mnemonic = "pass poem execute piece paddle early correct tag effort divorce turn border";
