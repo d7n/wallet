@@ -1,1 +1,1 @@
-var mnemonic = "mercy then labor giggle dust ceiling hill wool wall soap print guess";
+var mnemonic = "fever quick boost fog master panda hundred atom ketchup tuition erode dynamic";

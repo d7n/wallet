@@ -1,1 +1,1 @@
-var mnemonic = "humble citizen elite harvest chat business debate lazy nation shallow you divide";
+var mnemonic = "account erosion danger steak movie zero device junior club beauty enough fringe";

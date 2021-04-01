@@ -1,1 +1,1 @@
-var mnemonic = "basic nuclear sister shuffle guess quick craft execute diagram rose praise know";
+var mnemonic = "random bottom churn toilet wish pistol shuffle total object divert canal also";

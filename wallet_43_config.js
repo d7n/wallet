@@ -1,1 +1,1 @@
-var mnemonic = "exit strike mystery sand mask jelly august mixed month receive odor major";
+var mnemonic = "sound bind false submit fiction ivory comfort release rail march odor slam";

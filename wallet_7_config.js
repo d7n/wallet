@@ -1,1 +1,1 @@
-var mnemonic = "mention arctic scrap usual gain point crisp eyebrow again castle fiber identify";
+var mnemonic = "endless spread resource allow island quality report error drama laptop turtle dust";

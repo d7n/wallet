@@ -1,1 +1,1 @@
-var mnemonic = "reward total praise captain genuine degree warfare aim know climb spirit era";
+var mnemonic = "annual aerobic silent short replace hurt web rail pride elder attend wish";

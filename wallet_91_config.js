@@ -1,1 +1,1 @@
-var mnemonic = "dress broken tattoo hello gadget stamp real beauty ahead cash state orphan";
+var mnemonic = "recycle benefit text virtual hint cart actual powder genre derive theory acquire";

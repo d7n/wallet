@@ -1,1 +1,1 @@
-var mnemonic = "any chief clay panda pet mean lunch coin grief material arctic rail";
+var mnemonic = "mouse mom correct fiscal shaft south sport planet swim off rescue behind";

@@ -1,1 +1,1 @@
-var mnemonic = "item maximum solar rapid toward blast immune blossom brown video exact small";
+var mnemonic = "execute region borrow upset kitten stumble pilot people alone defense neither cup";

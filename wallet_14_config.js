@@ -1,1 +1,1 @@
-var mnemonic = "engine sweet burger mix civil woman rival prefer consider wet own item";
+var mnemonic = "act choose bid such buffalo long then economy old rescue rate slice";

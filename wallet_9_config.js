@@ -1,1 +1,1 @@
-var mnemonic = "plug organ maple train brown honey globe raven feed shell violin buddy";
+var mnemonic = "hurt notice bird joke minute eye ocean master history crush trumpet royal";

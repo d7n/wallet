@@ -1,1 +1,1 @@
-var mnemonic = "protect mobile medal smile decline then surprise carpet lecture rent notable glance";
+var mnemonic = "scan street hole answer crucial slush arrow lobster kiss lawsuit artefact upset";

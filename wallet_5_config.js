@@ -1,1 +1,1 @@
-var mnemonic = "endorse diamond pistol bulk inject bus sort speak lamp engage swift coach";
+var mnemonic = "twin blast desk rare betray host title chunk enforce provide doctor talent";

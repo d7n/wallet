@@ -1,1 +1,1 @@
-var mnemonic = "plunge mango file horror pigeon rural elder ball trash battle diagram cube";
+var mnemonic = "very happy inner tray refuse valve aspect scare upper essay robot plug";

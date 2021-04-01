@@ -1,1 +1,1 @@
-var mnemonic = "hip ski helmet cook tape soldier earn chat match maze romance night";
+var mnemonic = "worry index ranch runway kidney seed mail theme amount once lake same";

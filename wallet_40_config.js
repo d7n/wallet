@@ -1,1 +1,1 @@
-var mnemonic = "sweet school viable wheat regret seek purse blood beauty arrive table rich";
+var mnemonic = "coyote club mango forest swamp lonely purity mix leader elephant myth issue";

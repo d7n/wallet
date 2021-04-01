@@ -1,1 +1,1 @@
-var mnemonic = "drive rapid thunder student foster shiver sting silk ski jump thunder family";
+var mnemonic = "elite hockey banana beef blade spot uncle someone term imitate balance owner";

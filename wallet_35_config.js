@@ -1,1 +1,1 @@
-var mnemonic = "history jelly tank match spot smooth chaos parrot speak pattern radio south";
+var mnemonic = "race home theory camera ritual invest piano alpha orange zebra weird occur";

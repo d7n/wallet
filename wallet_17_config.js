@@ -1,1 +1,1 @@
-var mnemonic = "picture laugh noodle output index speak tone fiscal question firm clown erosion";
+var mnemonic = "negative false double force rough antique inch vintage wedding wage later wide";

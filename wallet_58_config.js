@@ -1,1 +1,1 @@
-var mnemonic = "search glow key scatter diet season pole gaze history tortoise muscle expose";
+var mnemonic = "enjoy proud cousin crowd work okay palm broccoli resist coconut buzz scare";

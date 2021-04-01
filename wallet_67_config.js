@@ -1,1 +1,1 @@
-var mnemonic = "camera amused banana kiss paddle tissue axis damage father dentist critic invite";
+var mnemonic = "expand erase curve awful double decide nature simple federal arrange stamp unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "skull pilot snap civil axis stadium like flock ticket plastic anchor train";
+var mnemonic = "obey fury rail bring girl message page blame fit between mean distance";

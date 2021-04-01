@@ -1,1 +1,1 @@
-var mnemonic = "custom basket skull winner jacket sign test whale dentist flame celery tone";
+var mnemonic = "wheat oil virtual upgrade onion milk traffic tape renew rotate chair memory";

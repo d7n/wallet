@@ -1,1 +1,1 @@
-var mnemonic = "panda gasp ask hungry island supply apology bag sport arena flat dawn";
+var mnemonic = "flag affair forward skull way leopard vintage blush rally anxiety dream garage";

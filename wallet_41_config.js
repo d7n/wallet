@@ -1,1 +1,1 @@
-var mnemonic = "theme define hub toy fan seven junk swap sugar casual author huge";
+var mnemonic = "gather entry sadness stool knife axis episode nephew arm grape favorite okay";

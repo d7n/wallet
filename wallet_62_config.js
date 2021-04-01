@@ -1,1 +1,1 @@
-var mnemonic = "latin depth remove labor frown dinner barrel aerobic inquiry noise antique parent";
+var mnemonic = "siren struggle lumber age term amused sadness junior alert cattle snake worry";

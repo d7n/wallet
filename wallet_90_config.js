@@ -1,1 +1,1 @@
-var mnemonic = "sister neutral ensure plastic assist penalty forum undo quiz pretty danger secret";
+var mnemonic = "accident write motor blush follow dirt feed sad exit hole assist head";

@@ -1,1 +1,1 @@
-var mnemonic = "betray runway visual oval news purity planet tide elevator across embark picture";
+var mnemonic = "rebuild rapid embrace hire sport lunar drop act grace dove enlist doctor";

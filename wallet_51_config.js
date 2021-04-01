@@ -1,1 +1,1 @@
-var mnemonic = "bus fatigue eight throw cup best shy rose soda alpha soon primary";
+var mnemonic = "tattoo proud photo brain slab useful buddy public hawk little west sniff";

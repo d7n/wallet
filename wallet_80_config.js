@@ -1,1 +1,1 @@
-var mnemonic = "cherry promote rice brave pear canoe clutch series tank cloth carpet cream";
+var mnemonic = "voyage wife boring traffic husband giggle inflict visa seat sunset federal year";

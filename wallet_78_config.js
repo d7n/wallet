@@ -1,1 +1,1 @@
-var mnemonic = "oppose beef casual odor accuse humble nice turn grow oyster harsh senior";
+var mnemonic = "joke bind guitar absurd unit click bullet curtain cliff prepare drink ceiling";

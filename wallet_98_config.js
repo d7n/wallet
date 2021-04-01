@@ -1,1 +1,1 @@
-var mnemonic = "muscle nation comic wash gold monitor food wire coyote awful update cotton";
+var mnemonic = "scare boy luggage pole cruel potato pink risk such flavor manage brain";

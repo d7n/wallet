@@ -1,1 +1,1 @@
-var mnemonic = "uniform leopard level old helmet angry grab bubble nature wool dolphin jelly";
+var mnemonic = "panda rookie random body february enjoy blur joy dune police all color";

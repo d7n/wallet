@@ -1,1 +1,1 @@
-var mnemonic = "goddess space shift damp flip obey child frequent blind forward garlic version";
+var mnemonic = "seed evidence please siege suspect wire believe sibling direct talent shield food";

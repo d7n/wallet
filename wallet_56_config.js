@@ -1,1 +1,1 @@
-var mnemonic = "stuff alert salad diagram tissue day castle fame bonus giraffe agree exchange";
+var mnemonic = "decorate face person error enough lesson arrive limit swift decrease leisure trial";

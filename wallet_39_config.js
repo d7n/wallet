@@ -1,1 +1,1 @@
-var mnemonic = "candy lady evil stone such carbon legend tag scare wife subject tube";
+var mnemonic = "include recipe unhappy finger violin olive produce seven kitten afford similar hero";

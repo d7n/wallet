@@ -1,1 +1,1 @@
-var mnemonic = "balcony spoil pluck sort side blade cream pumpkin forget cloth arena belt";
+var mnemonic = "essence culture settle unlock cost view saddle lake casino anchor hybrid myth";

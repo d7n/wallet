@@ -1,1 +1,1 @@
-var mnemonic = "panel gown arrange crush weasel armor cluster blood page rate common dumb";
+var mnemonic = "someone suggest predict tunnel squeeze prison news retire bulb submit cherry feel";

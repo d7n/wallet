@@ -1,1 +1,1 @@
-var mnemonic = "actual undo cannon worth outdoor service brown physical dove ivory grain word";
+var mnemonic = "advance thunder drive equip funny seminar seminar jealous lizard glance abandon wheel";

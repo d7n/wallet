@@ -1,1 +1,1 @@
-var mnemonic = "fiction public august column output meadow thunder egg carpet cereal filter ice";
+var mnemonic = "video ignore now poem truly hold comic hip true flock van power";

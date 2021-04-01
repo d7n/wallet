@@ -1,1 +1,1 @@
-var mnemonic = "anchor analyst diary hold ankle hill hedgehog express old space velvet super";
+var mnemonic = "decide citizen aunt hammer angry fever narrow pact bomb inside gather mobile";

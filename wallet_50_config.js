@@ -1,1 +1,1 @@
-var mnemonic = "oxygen draw nuclear crisp wool bulk expect bomb disorder brown noise rough";
+var mnemonic = "lake inform buddy thunder elder curtain discover damp steel health frame accident";

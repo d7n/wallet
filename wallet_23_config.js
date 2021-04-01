@@ -1,1 +1,1 @@
-var mnemonic = "weapon extend mean time list above ozone subway brown rabbit unfair frog";
+var mnemonic = "clever brush often leave secret phrase jar tiger tip air decide mind";

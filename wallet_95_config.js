@@ -1,1 +1,1 @@
-var mnemonic = "marriage blur carpet near save great tennis ecology put piece side weather";
+var mnemonic = "camera taste menu oval blush furnace clutch hungry empty image ranch balance";

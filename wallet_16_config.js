@@ -1,1 +1,1 @@
-var mnemonic = "spray crater step speed zebra buddy scrap laptop rack dinner night health";
+var mnemonic = "leisure vintage stairs hard adult guide shine output erode mom catch wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel reason right surge below rural exhaust term swap elbow lens stool";
+var mnemonic = "member sound dad cereal space advice version tower room food margin fox";

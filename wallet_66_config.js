@@ -1,1 +1,1 @@
-var mnemonic = "federal section crumble uncle leopard small ordinary coral fine loud wolf oven";
+var mnemonic = "payment hollow method dumb report style have adult injury acid dice december";

@@ -1,1 +1,1 @@
-var mnemonic = "position trend enable pelican betray pear tail obscure weird buzz anchor enemy";
+var mnemonic = "talk embrace dizzy genuine wasp shell bright endless educate ozone process door";

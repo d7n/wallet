@@ -1,1 +1,1 @@
-var mnemonic = "broken vote valley spray hybrid ordinary aunt supply aware any shield ancient";
+var mnemonic = "mystery basic rebel toast tongue enable mushroom rent you coffee wet gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen person assault shallow need must stem design price prison stage style";
+var mnemonic = "tent recycle lens casual wagon useless kick trust fetch sand oyster gauge";

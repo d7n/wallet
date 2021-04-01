@@ -1,1 +1,1 @@
-var mnemonic = "album hamster fruit innocent claim shop reduce curious march number kind kitchen";
+var mnemonic = "advice supply equal truck gold fee uphold lounge ancient spy camera ordinary";

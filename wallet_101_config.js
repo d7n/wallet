@@ -1,1 +1,1 @@
-var mnemonic = "marriage perfect paddle obey embark large humor usage hope soup harbor shell";
+var mnemonic = "one globe either accident kiwi rookie rubber swim target jar client winner";

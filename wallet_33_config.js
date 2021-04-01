@@ -1,1 +1,1 @@
-var mnemonic = "scissors melody pair lesson need dirt solution finish warfare allow purity sorry";
+var mnemonic = "trend brand book hollow news glow caught thumb betray nature crime check";

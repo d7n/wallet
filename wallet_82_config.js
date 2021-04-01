@@ -1,1 +1,1 @@
-var mnemonic = "depth wisdom grass raccoon major crumble bicycle embody gate owner catalog problem";
+var mnemonic = "column region spatial sample crazy alpha physical prepare shift repair grape tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "antique record adult glide know tissue priority glove twelve alley boy arm";
+var mnemonic = "praise candy crystal job buyer used bulk inject occur forget load inmate";

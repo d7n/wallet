@@ -1,1 +1,1 @@
-var mnemonic = "obey mention frost outdoor claim kid exercise state copy harbor tell profit";
+var mnemonic = "luxury neutral science calm question weird cheap hamster glory sadness woman reunion";

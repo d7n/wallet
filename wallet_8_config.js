@@ -1,1 +1,1 @@
-var mnemonic = "loud shove follow harvest have ketchup harbor mystery renew orchard song used";
+var mnemonic = "below ice short lumber bottom dilemma shiver shed mention crop repair focus";

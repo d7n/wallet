@@ -1,1 +1,1 @@
-var mnemonic = "error black stand pluck pulp train announce this metal model nurse neither";
+var mnemonic = "search melody confirm game another faith edge govern alert zebra crazy grace";

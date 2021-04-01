@@ -1,1 +1,1 @@
-var mnemonic = "weather muffin replace arch shift march cancel neck arctic width shell garlic";
+var mnemonic = "gentle prize place tobacco initial help draw silly hour calm result arrow";

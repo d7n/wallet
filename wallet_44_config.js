@@ -1,1 +1,1 @@
-var mnemonic = "decorate hire infant inform office typical hollow zone spot one you account";
+var mnemonic = "fade behind brain know mosquito april swing job tennis first giraffe distance";

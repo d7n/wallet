@@ -1,1 +1,1 @@
-var mnemonic = "crisp project crisp word light solar accuse latin rigid surround garbage can";
+var mnemonic = "force mother utility omit elder post print weapon hand legend dad matrix";

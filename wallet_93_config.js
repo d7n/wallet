@@ -1,1 +1,1 @@
-var mnemonic = "gift book elbow keen nerve vacuum board leisure mass pilot escape unknown";
+var mnemonic = "film credit nerve capital fine stable supply onion myself tiger select frame";

@@ -1,1 +1,1 @@
-var mnemonic = "rely deal inject novel blame walk profit accuse enforce grab humor test";
+var mnemonic = "route loud ethics artefact honey hammer horror paddle embark author guide cinnamon";

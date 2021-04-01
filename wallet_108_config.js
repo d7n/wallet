@@ -1,1 +1,1 @@
-var mnemonic = "charge near rib silent tide vast seven buddy nasty chuckle night vital";
+var mnemonic = "goddess focus wash plunge victory royal child sniff slush joke title coast";

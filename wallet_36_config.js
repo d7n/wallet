@@ -1,1 +1,1 @@
-var mnemonic = "parrot foot awkward miracle alarm suffer adult type route dynamic saddle brown";
+var mnemonic = "axis myth jump laptop ridge recycle stamp spoon flame settle finger prize";

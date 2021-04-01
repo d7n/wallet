@@ -1,1 +1,1 @@
-var mnemonic = "safe liar patch chase behind abuse clock define remember exhaust maximum unlock";
+var mnemonic = "regret tone moment quick sadness omit caution either border topple urban describe";

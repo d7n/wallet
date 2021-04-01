@@ -1,1 +1,1 @@
-var mnemonic = "flip say seat energy manage maze pave version march boil dice pen";
+var mnemonic = "grain opinion awkward patch siren total menu buddy claw defy gossip october";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic wash volume sibling reform ten nothing harsh also welcome frown enrich";
+var mnemonic = "cancel six pair exchange card canal mother affair mechanic awake diet fine";

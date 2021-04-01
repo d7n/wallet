@@ -1,1 +1,1 @@
-var mnemonic = "civil inject divide deny winner joke dose phone federal umbrella spike sheriff";
+var mnemonic = "fitness drip apple until author mystery mad usual hobby aim logic crash";

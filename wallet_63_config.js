@@ -1,1 +1,1 @@
-var mnemonic = "rabbit nurse vendor convince actress any asthma point august spider legend junior";
+var mnemonic = "mean sibling insect razor village elephant sunny fever grocery middle book giggle";

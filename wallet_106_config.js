@@ -1,1 +1,1 @@
-var mnemonic = "hello normal educate private meat army fury test symbol journey unveil brave";
+var mnemonic = "blood year labor milk apple afraid cloud senior total shiver title then";

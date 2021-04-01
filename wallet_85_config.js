@@ -1,1 +1,1 @@
-var mnemonic = "border hamster rookie area squirrel town antique ugly patch thank pill kiwi";
+var mnemonic = "alley table unlock joke mom urban web chimney purity mixed bulb motion";

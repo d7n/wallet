@@ -1,1 +1,1 @@
-var mnemonic = "cat rubber inhale clay chat hover decade insect parent abuse digital parent";
+var mnemonic = "hobby cargo quote carpet insect sausage review bring board crop beyond pupil";

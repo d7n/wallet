@@ -1,1 +1,1 @@
-var mnemonic = "sentence frozen cement cheap suspect tissue hidden invite gaze cherry barely hazard";
+var mnemonic = "ankle nothing law problem success mushroom pottery knee decade garlic liar swim";

@@ -1,1 +1,1 @@
-var mnemonic = "find sound puzzle mango shuffle chest tree situate universe broken left goat";
+var mnemonic = "genre dentist spatial fee detect absent basket much bind decide erode acid";

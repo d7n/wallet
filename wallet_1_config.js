@@ -1,1 +1,1 @@
-var mnemonic = "decorate unlock allow resist source spot scatter inhale coil average differ middle";
+var mnemonic = "unhappy pulse icon hint report chaos soul canyon knock artwork surface slice";

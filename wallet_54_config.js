@@ -1,1 +1,1 @@
-var mnemonic = "truth nice fame glare damage pulp betray reward glow cry clerk suspect";
+var mnemonic = "genre beyond initial club race post lucky flip brown raw reveal stereo";

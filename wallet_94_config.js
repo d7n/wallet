@@ -1,1 +1,1 @@
-var mnemonic = "dad arrow bunker into main say pulse antique athlete guide news noodle";
+var mnemonic = "adult economy core city snack age add car glue extra fork pumpkin";

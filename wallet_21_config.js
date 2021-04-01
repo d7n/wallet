@@ -1,1 +1,1 @@
-var mnemonic = "copy search bicycle cupboard grit over scatter giraffe used once student hello";
+var mnemonic = "size matrix salon poem identify idea slight special pole seed extend worry";

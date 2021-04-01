@@ -1,1 +1,1 @@
-var mnemonic = "chicken couch cave famous deer inner rescue robust pottery habit country section";
+var mnemonic = "sea prefer idle tuition three help universe cup vanish quote suggest program";

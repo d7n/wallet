@@ -1,1 +1,1 @@
-var mnemonic = "kidney distance afford prevent armed cruise sea bread tunnel cigar stock time";
+var mnemonic = "model bone media swarm gym forum close buddy furnace limit develop crunch";

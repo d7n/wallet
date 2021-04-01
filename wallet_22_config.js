@@ -1,1 +1,1 @@
-var mnemonic = "talent vacuum keep imitate glimpse quiz chuckle remain unique seat radio movie";
+var mnemonic = "defense heavy bean ability poet torch inherit car soup enjoy clever animal";

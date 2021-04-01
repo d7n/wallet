@@ -1,1 +1,1 @@
-var mnemonic = "cause ancient soon volcano kiss use issue supreme spin pair excuse all";
+var mnemonic = "pupil squeeze solar damage parrot license asthma million wing guitar certain humble";

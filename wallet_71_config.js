@@ -1,1 +1,1 @@
-var mnemonic = "shrug amount weather upper average volume hub inspire swift pattern lunch zero";
+var mnemonic = "shoulder course idle home wide bread bomb young often wave winter private";

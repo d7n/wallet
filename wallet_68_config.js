@@ -1,1 +1,1 @@
-var mnemonic = "item high smart female injury lab isolate scale valid vibrant pluck topple";
+var mnemonic = "sting jacket connect token road enlist build coffee twist army shiver curve";

@@ -1,1 +1,1 @@
-var mnemonic = "arm measure major wedding west spirit approve loan lady believe skill clutch";
+var mnemonic = "pen regret benefit much glory mean labor demise box between morning tomorrow";

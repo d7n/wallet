@@ -1,1 +1,1 @@
-var mnemonic = "twenty spread wedding until teach voyage agree crew wrap excess crush carbon";
+var mnemonic = "gesture draw enact owner erode copper equal river valley width marine hospital";

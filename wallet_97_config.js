@@ -1,1 +1,1 @@
-var mnemonic = "ceiling side alien police wall february wall cabbage garlic luggage eager will";
+var mnemonic = "bubble blast subject antenna always inform flip outer jump ridge capital recipe";

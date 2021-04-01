@@ -1,1 +1,1 @@
-var mnemonic = "frame inspire left chef best silk transfer idle mammal shrimp recall glove";
+var mnemonic = "educate sorry flame gauge glare outdoor donor ready hello know result rent";

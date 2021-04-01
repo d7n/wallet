@@ -1,1 +1,1 @@
-var mnemonic = "move piano sword become flavor between drip item exhibit burger gesture depend";
+var mnemonic = "father practice spin staff medal share engage fantasy fresh repeat possible scare";

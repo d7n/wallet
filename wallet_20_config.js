@@ -1,1 +1,1 @@
-var mnemonic = "verify spawn leg innocent hundred village label shove announce obtain torch unusual";
+var mnemonic = "pride stumble sponsor around violin case nominee must impose price energy fragile";

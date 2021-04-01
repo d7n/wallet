@@ -1,1 +1,1 @@
-var mnemonic = "choose note chase crane deer various sing develop summer object tomorrow margin";
+var mnemonic = "science dirt day dragon axis write rigid glove curve minor culture clinic";
