@@ -1,1 +1,1 @@
-var mnemonic = "exhaust wing level topple rent copper citizen sell true purse ocean any";
+var mnemonic = "turtle walk thrive strategy damp bottom thunder midnight bike finish first embrace";

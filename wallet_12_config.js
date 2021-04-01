@@ -1,1 +1,1 @@
-var mnemonic = "kidney skirt lottery course pill address upper until section short prize miracle";
+var mnemonic = "answer crack copy owner vital naive choice repair drip shine crop bubble";

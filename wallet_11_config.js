@@ -1,1 +1,1 @@
-var mnemonic = "dolphin axis able position pig fire human settle catalog collect model produce";
+var mnemonic = "scissors anchor make adapt virtual pair frozen monkey armor laundry cereal ball";

@@ -1,1 +1,1 @@
-var mnemonic = "alert pause merit push avocado glimpse shaft bless shrimp fold mechanic miracle";
+var mnemonic = "fly object goddess voyage try delay wish satisfy shallow warfare fence cover";

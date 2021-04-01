@@ -1,1 +1,1 @@
-var mnemonic = "tube problem rack ancient embark village menu time web point wave order";
+var mnemonic = "near answer sense average surge gas almost recipe winner wasp grunt mobile";

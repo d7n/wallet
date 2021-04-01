@@ -1,1 +1,1 @@
-var mnemonic = "spend duck student pluck jump year chair ghost trumpet also faint worry";
+var mnemonic = "boat father scan truck tiny intact keep undo scatter paper aerobic weather";

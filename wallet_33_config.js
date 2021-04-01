@@ -1,1 +1,1 @@
-var mnemonic = "borrow sight valve pledge eight segment person velvet peace drop enhance tonight";
+var mnemonic = "anchor note blur patrol endorse please source raven bike patrol motion glimpse";

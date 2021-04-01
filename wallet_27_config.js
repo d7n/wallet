@@ -1,1 +1,1 @@
-var mnemonic = "enforce text spice smile lamp affair oblige ignore fantasy umbrella advice three";
+var mnemonic = "ethics gown merge begin patch old buzz hire series measure enter invite";

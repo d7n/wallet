@@ -1,1 +1,1 @@
-var mnemonic = "ethics bottom chicken silent gadget reduce next return exhaust curious wasp aspect";
+var mnemonic = "gospel apple oppose seven puzzle mountain magnet destroy history couple bracket page";

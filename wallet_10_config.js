@@ -1,1 +1,1 @@
-var mnemonic = "tennis cage express expand strong call comic warfare improve festival aim master";
+var mnemonic = "olive hill next galaxy pigeon ethics unlock rabbit behind supply leaf typical";

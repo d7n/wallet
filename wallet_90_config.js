@@ -1,1 +1,1 @@
-var mnemonic = "seek segment parade reason electric easily aim inject february next canoe injury";
+var mnemonic = "photo poverty law fatal injury sudden find timber ostrich journey level private";

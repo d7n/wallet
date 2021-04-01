@@ -1,1 +1,1 @@
-var mnemonic = "code invest bitter together slab narrow act upon beyond kingdom vocal enjoy";
+var mnemonic = "under hello salon scrap fiscal warm beauty staff celery goat because diet";

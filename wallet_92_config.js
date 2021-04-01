@@ -1,1 +1,1 @@
-var mnemonic = "orbit nothing busy middle scorpion deer junior cinnamon february cause daughter unusual";
+var mnemonic = "mention million nuclear intact spy color amused trim index forest tattoo rice";

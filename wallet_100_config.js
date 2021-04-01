@@ -1,1 +1,1 @@
-var mnemonic = "rifle design say vote magnet shrug cute bench cross depart genius good";
+var mnemonic = "purchase boy certain day puppy gallery aerobic fresh abandon answer remain ethics";

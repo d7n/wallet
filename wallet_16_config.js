@@ -1,1 +1,1 @@
-var mnemonic = "magic digital unfair tent humor about waste unfair torch attack skirt dawn";
+var mnemonic = "kiwi wink because ripple tool bullet perfect end struggle delay mention dwarf";

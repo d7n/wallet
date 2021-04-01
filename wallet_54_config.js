@@ -1,1 +1,1 @@
-var mnemonic = "toddler violin special day degree angle poet poverty valley mixture rent case";
+var mnemonic = "dilemma guilt client firm rough round joke embody able dash dismiss rural";

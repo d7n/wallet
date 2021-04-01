@@ -1,1 +1,1 @@
-var mnemonic = "little faith wonder poverty sure inherit laptop cloth grid shoe evil inject";
+var mnemonic = "race short salon seat rent chapter verb category life broken simple kidney";

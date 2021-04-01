@@ -1,1 +1,1 @@
-var mnemonic = "always cancel wedding silver rent rhythm picture sun bleak night small usual";
+var mnemonic = "couple bicycle original embody nose dish bronze door foot cargo doll render";

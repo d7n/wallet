@@ -1,1 +1,1 @@
-var mnemonic = "narrow point base south marble know hood urban author ocean pig load";
+var mnemonic = "universe myself lady deer lounge page mandate pave force loop narrow force";

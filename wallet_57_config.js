@@ -1,1 +1,1 @@
-var mnemonic = "alien device struggle draft tomato wheel soft receive round punch salon service";
+var mnemonic = "truck canoe garlic blue fitness rabbit now crush rice blanket enhance auto";

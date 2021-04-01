@@ -1,1 +1,1 @@
-var mnemonic = "lock battle old lake canal evolve salt arrest force thunder review plug";
+var mnemonic = "avocado sunset siren broom bench rail shed harsh perfect hazard flight switch";

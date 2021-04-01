@@ -1,1 +1,1 @@
-var mnemonic = "toast wheat track point swift cactus about chalk simple purse process sleep";
+var mnemonic = "upon scheme pony chaos whisper old iron coral gallery crack hammer improve";

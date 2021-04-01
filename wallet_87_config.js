@@ -1,1 +1,1 @@
-var mnemonic = "now good desert shine subway pumpkin curious banner primary remind crush heavy";
+var mnemonic = "play side bird guilt reduce size man frequent very strong author potato";

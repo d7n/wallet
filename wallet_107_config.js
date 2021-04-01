@@ -1,1 +1,1 @@
-var mnemonic = "tragic double radio suit debris butter pledge fall harsh glory bright airport";
+var mnemonic = "myth pull smooth notable shop viable huge unknown smoke edit brother become";

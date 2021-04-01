@@ -1,1 +1,1 @@
-var mnemonic = "follow chapter stage victory essence cube crack just name pelican collect square";
+var mnemonic = "jeans allow right artwork enable reflect mandate forest old ice romance disease";

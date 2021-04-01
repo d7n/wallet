@@ -1,1 +1,1 @@
-var mnemonic = "always daughter clerk near blossom rude message enrich hill melt royal room";
+var mnemonic = "feel melody parade muffin nominee brain cabin depth goat shove engine friend";

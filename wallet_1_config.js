@@ -1,1 +1,1 @@
-var mnemonic = "wire doctor spend sound knife fish pave security capital habit quantum sun";
+var mnemonic = "solar six deputy decide ethics wrap obey ecology picnic world stove term";

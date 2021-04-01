@@ -1,1 +1,1 @@
-var mnemonic = "slim kangaroo trial clip hub jaguar surge vehicle bulb borrow giraffe essence";
+var mnemonic = "frequent club cousin effort much visual follow snake pony mesh level report";

@@ -1,1 +1,1 @@
-var mnemonic = "stuff rural retreat culture coin behind couple arena behave fetch provide acid";
+var mnemonic = "exotic style hour episode sock valve parade expose snap mind winner exchange";

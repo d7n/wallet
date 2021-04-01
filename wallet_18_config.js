@@ -1,1 +1,1 @@
-var mnemonic = "park forest better joke flash sister require sand gain shop usage lumber";
+var mnemonic = "inflict spy valve season base squeeze naive rhythm runway category design clip";

@@ -1,1 +1,1 @@
-var mnemonic = "demand chest split vacant ready label penalty mention business once retreat unfair";
+var mnemonic = "hold layer predict blouse picture solar edge enable shoot argue together shed";

@@ -1,1 +1,1 @@
-var mnemonic = "leader vanish coconut fossil tenant salon course toilet brand winner viable version";
+var mnemonic = "please duty roast transfer table blue absorb carry strategy ball bonus people";

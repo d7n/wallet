@@ -1,1 +1,1 @@
-var mnemonic = "creek drum fitness course spray arrive walk time race viable fury choice";
+var mnemonic = "vacant require expose ankle crunch crucial worth color axis roof pretty false";

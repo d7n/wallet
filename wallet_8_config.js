@@ -1,1 +1,1 @@
-var mnemonic = "moral blind ignore vibrant kind side noodle circle private become frown alert";
+var mnemonic = "lemon devote recycle volcano question bicycle cage half list gentle obscure stock";

@@ -1,1 +1,1 @@
-var mnemonic = "mad focus nasty dove imitate bomb betray usual average obscure measure axis";
+var mnemonic = "tuna miracle tell true pattern coach final repeat shock velvet trial cute";

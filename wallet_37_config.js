@@ -1,1 +1,1 @@
-var mnemonic = "shiver cream bench arena rent mountain include first crop silk card tag";
+var mnemonic = "scale first faint erupt virtual allow aerobic nest situate oblige cage suggest";

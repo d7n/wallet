@@ -1,1 +1,1 @@
-var mnemonic = "little pill flat artefact desk retire party craft exercise sell trigger aim";
+var mnemonic = "stove tornado talent brand february grid size island glove two prison usage";

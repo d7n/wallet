@@ -1,1 +1,1 @@
-var mnemonic = "wagon mixed unfold elite bullet slice blue segment earth wheat that large";
+var mnemonic = "swallow happy choice forest detail gesture oven pilot photo upgrade under clay";

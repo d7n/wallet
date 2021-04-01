@@ -1,1 +1,1 @@
-var mnemonic = "ordinary usual manual certain joy plate salmon gift casino iron endless brick";
+var mnemonic = "eternal maze wrestle beef toss view include collect acquire frequent item globe";

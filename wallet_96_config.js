@@ -1,1 +1,1 @@
-var mnemonic = "bus green club answer devote aunt volume lock cable sorry soldier sure";
+var mnemonic = "creek beef desk keep index tunnel double order identify enroll type merit";

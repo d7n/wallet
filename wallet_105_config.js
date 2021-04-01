@@ -1,1 +1,1 @@
-var mnemonic = "food evil work pair curtain easily coil two gorilla tissue various used";
+var mnemonic = "decide main time employ cook clap glory safe resist approve choose silent";

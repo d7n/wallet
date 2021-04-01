@@ -1,1 +1,1 @@
-var mnemonic = "shoulder eight learn enlist often throw neutral cross pink found gather loud";
+var mnemonic = "physical approve network august hotel picnic chuckle fold penalty heavy remain water";

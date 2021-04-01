@@ -1,1 +1,1 @@
-var mnemonic = "master second library welcome satisfy alter trap wrap concert boil grab script";
+var mnemonic = "void garlic middle genuine nest secret final arch wage cycle next act";

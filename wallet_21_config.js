@@ -1,1 +1,1 @@
-var mnemonic = "negative olympic mixture whisper exit until keen matter venue parade report credit";
+var mnemonic = "uncle false thank middle flight trade poverty panel chest civil jump tower";

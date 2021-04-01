@@ -1,1 +1,1 @@
-var mnemonic = "burden frown crack mixed spider client audit update clean unhappy shock region";
+var mnemonic = "sword area crucial cement prize beach load city spirit speed aware tackle";

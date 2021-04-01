@@ -1,1 +1,1 @@
-var mnemonic = "ocean shell evidence exchange minor push film dance output fabric vote cotton";
+var mnemonic = "lumber useless silk toe young collect minute describe medal width burger human";

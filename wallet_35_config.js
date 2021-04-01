@@ -1,1 +1,1 @@
-var mnemonic = "two struggle sorry normal random bounce elevator nothing country enjoy weapon sugar";
+var mnemonic = "ball check middle erode balcony neither thank cause today vacuum expose crawl";

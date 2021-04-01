@@ -1,1 +1,1 @@
-var mnemonic = "alarm luxury wire timber staff make degree toddler rely pave vivid letter";
+var mnemonic = "hazard uniform torch poem creek police success pioneer buyer enhance shift between";

@@ -1,1 +1,1 @@
-var mnemonic = "actress hire doll vibrant husband travel bag brain model pistol digital winter";
+var mnemonic = "figure flight buffalo wear about foil eager lumber spread group awful logic";

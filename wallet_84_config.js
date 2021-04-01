@@ -1,1 +1,1 @@
-var mnemonic = "weekend clog manage dumb wreck style drama random bleak because ride scrap";
+var mnemonic = "adult quantum release crawl cigar sun diet second unaware twelve peasant neither";

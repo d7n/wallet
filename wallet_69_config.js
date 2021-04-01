@@ -1,1 +1,1 @@
-var mnemonic = "board happy chief holiday draft all offer naive broom security parent artwork";
+var mnemonic = "depart open lazy cupboard unusual now huge fetch venue indoor cover robot";

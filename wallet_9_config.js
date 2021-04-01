@@ -1,1 +1,1 @@
-var mnemonic = "crisp uniform opinion drive hub leave ill solid economy twice direct bracket";
+var mnemonic = "friend blast civil own brand panda toward noble narrow recall someone similar";

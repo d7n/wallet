@@ -1,1 +1,1 @@
-var mnemonic = "voyage husband polar violin talent purse spatial peasant usage aisle this december";
+var mnemonic = "eight stairs cannon custom screen labor usage letter setup exhibit segment practice";

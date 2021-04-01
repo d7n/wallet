@@ -1,1 +1,1 @@
-var mnemonic = "wisdom stairs cheese choose brave away door trophy gold mobile grace used";
+var mnemonic = "ignore virus age awful aerobic engage affair arrow couch desert anchor sunset";

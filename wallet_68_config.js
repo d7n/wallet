@@ -1,1 +1,1 @@
-var mnemonic = "apple satoshi typical phrase volume section human eager thumb talk able fine";
+var mnemonic = "law can rare pilot fork close sausage crumble report pool seat rough";

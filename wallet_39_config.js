@@ -1,1 +1,1 @@
-var mnemonic = "dust pioneer aware turn stem decide home finger reopen blade february invest";
+var mnemonic = "reduce cousin gossip cupboard junior focus know nerve salmon volcano october three";

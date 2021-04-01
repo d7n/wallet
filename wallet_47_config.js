@@ -1,1 +1,1 @@
-var mnemonic = "join quarter accuse approve exist pipe ask loud eagle worth suspect heavy";
+var mnemonic = "learn squeeze leopard bar tenant public common stage drastic blade friend later";

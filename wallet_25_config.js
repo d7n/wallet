@@ -1,1 +1,1 @@
-var mnemonic = "draft click token other vivid juice ancient narrow velvet stumble garbage assault";
+var mnemonic = "spread distance shield practice diamond crush theory enjoy angle joy guess useful";

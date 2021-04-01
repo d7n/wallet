@@ -1,1 +1,1 @@
-var mnemonic = "horn kitten fancy federal spend avocado black expect riot fade fancy venture";
+var mnemonic = "phone camp lawsuit hip weasel ozone flight swear outside next embrace age";

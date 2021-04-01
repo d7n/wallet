@@ -1,1 +1,1 @@
-var mnemonic = "cheese decide goose vault gift visa deliver void pole index dentist dish";
+var mnemonic = "quantum fiction grid segment museum average liberty tail inch neither cost security";

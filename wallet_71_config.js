@@ -1,1 +1,1 @@
-var mnemonic = "hope dress disorder bridge soldier certain scare receive ivory eagle fantasy sheriff";
+var mnemonic = "ketchup lady perfect ripple human settle vital symbol approve hawk alcohol first";

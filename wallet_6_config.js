@@ -1,1 +1,1 @@
-var mnemonic = "company reject genius title visual connect romance annual put prize perfect section";
+var mnemonic = "begin february inject memory welcome define session train spare purse warfare yard";

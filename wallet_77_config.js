@@ -1,1 +1,1 @@
-var mnemonic = "island group cotton hurdle head maple occur brain craft skin combine crane";
+var mnemonic = "shuffle economy rack link vague chuckle phone prison soup license minimum portion";

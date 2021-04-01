@@ -1,1 +1,1 @@
-var mnemonic = "used century face panther catch improve carry smooth viable neither banner sudden";
+var mnemonic = "soda between ivory find hero board sure mango sense dash response vote";

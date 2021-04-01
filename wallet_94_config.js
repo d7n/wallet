@@ -1,1 +1,1 @@
-var mnemonic = "cloth garlic welcome nuclear business speak cost stock powder because humble hint";
+var mnemonic = "regular ignore member pupil level find gauge better keep same inspire empty";

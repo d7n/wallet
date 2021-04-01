@@ -1,1 +1,1 @@
-var mnemonic = "scale liar process grab theory junk jaguar allow bamboo gospel rich throw";
+var mnemonic = "border property helmet neutral section rib hover baby inspire unlock chest sister";

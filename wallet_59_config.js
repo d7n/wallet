@@ -1,1 +1,1 @@
-var mnemonic = "urban crack draw grain sight sure sweet attract bike diamond pizza guitar";
+var mnemonic = "stay bless want come mushroom drama vessel rifle upset axis plunge conduct";

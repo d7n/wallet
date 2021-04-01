@@ -1,1 +1,1 @@
-var mnemonic = "focus action comic start few dwarf police crystal file fade local bacon";
+var mnemonic = "wave garment blood wheat render power fiscal jewel replace zebra tennis exhibit";

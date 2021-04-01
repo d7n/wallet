@@ -1,1 +1,1 @@
-var mnemonic = "want equal urban conduct page actress home draft bacon gaze romance endless";
+var mnemonic = "velvet unit calm dad wheat milk midnight engage elbow decide upon toward";

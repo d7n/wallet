@@ -1,1 +1,1 @@
-var mnemonic = "collect evidence dove excite mom resemble shy manage message illness absorb become";
+var mnemonic = "weapon ship web naive kit forum job prosper expose auto fold umbrella";

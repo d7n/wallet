@@ -1,1 +1,1 @@
-var mnemonic = "cherry push another music deposit demise master tell square fat flip athlete";
+var mnemonic = "cheese couple impulse cigar shuffle bright cream excess nest believe festival exist";

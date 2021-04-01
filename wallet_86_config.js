@@ -1,1 +1,1 @@
-var mnemonic = "grace kick wasp coil obtain bleak expand egg program venue robust prevent";
+var mnemonic = "auto october subway aisle tell vibrant siren marble imitate december antique icon";

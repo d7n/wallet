@@ -1,1 +1,1 @@
-var mnemonic = "giggle cook chunk fresh spawn reopen music fashion demand industry hope deer";
+var mnemonic = "fringe task endorse insane govern civil ice feature ridge piano oblige waste";

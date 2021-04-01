@@ -1,1 +1,1 @@
-var mnemonic = "fat fatal pact board reflect delay switch topple fade hero put fault";
+var mnemonic = "cloud bamboo young fiction oval ticket vital spread pepper smile family order";

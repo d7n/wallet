@@ -1,1 +1,1 @@
-var mnemonic = "seminar mule position ball clog average forget satoshi ordinary mistake post amazing";
+var mnemonic = "proud pause disease tiny defy wide polar turkey side language plate erase";

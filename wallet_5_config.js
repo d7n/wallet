@@ -1,1 +1,1 @@
-var mnemonic = "twenty valley carpet opera drift jeans space input receive observe mesh dignity";
+var mnemonic = "cousin design double panic net weekend exist parent napkin blind this federal";

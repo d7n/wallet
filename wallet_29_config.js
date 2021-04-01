@@ -1,1 +1,1 @@
-var mnemonic = "swear pact better already act traffic tired expire stem disease display avocado";
+var mnemonic = "fiscal rare ahead foster monitor track sign false reopen weasel position lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "office yard march order october tiny pave human job cube acquire luggage";
+var mnemonic = "theme net large bench better inherit stage dish violin naive stick minute";

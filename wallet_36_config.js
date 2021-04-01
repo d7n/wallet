@@ -1,1 +1,1 @@
-var mnemonic = "click survey current isolate enroll this flavor pottery clutch quality sail chuckle";
+var mnemonic = "bridge alone light clip monkey pigeon blade soft glove eyebrow merry foil";

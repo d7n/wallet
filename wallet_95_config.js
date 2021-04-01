@@ -1,1 +1,1 @@
-var mnemonic = "relief symbol audit shed during amazing cart bitter main portion pair interest";
+var mnemonic = "again parade target response cushion remain foot injury engage police text walk";

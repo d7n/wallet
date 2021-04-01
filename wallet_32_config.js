@@ -1,1 +1,1 @@
-var mnemonic = "category around civil myth near pyramid hazard chapter alone tunnel equip correct";
+var mnemonic = "monster busy renew attack bottom fit embrace mean genuine drum wish rescue";

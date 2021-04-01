@@ -1,1 +1,1 @@
-var mnemonic = "snap disease vendor dog keen old sad wedding excess blouse spoon sentence";
+var mnemonic = "pepper combine fresh brick sweet laugh ability guide welcome butter umbrella express";

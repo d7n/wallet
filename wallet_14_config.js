@@ -1,1 +1,1 @@
-var mnemonic = "bamboo kite parrot oxygen mix law either wait price limit found garlic";
+var mnemonic = "police universe siren pizza chalk tackle soccer holiday poverty similar duck great";

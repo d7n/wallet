@@ -1,1 +1,1 @@
-var mnemonic = "pig average rack census hotel scale guitar antenna squirrel network clown notable";
+var mnemonic = "actor honey gun dial awkward armor apology where soldier kiwi first shop";

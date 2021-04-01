@@ -1,1 +1,1 @@
-var mnemonic = "puppy jelly lottery crater culture assume color chair stuff melt dismiss isolate";
+var mnemonic = "hen spawn blanket mask merry slow tackle muffin spoil deny step family";

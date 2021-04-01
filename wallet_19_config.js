@@ -1,1 +1,1 @@
-var mnemonic = "odor stereo rare banana cross marble nasty easily genius sunny wheel finish";
+var mnemonic = "tenant penalty fan bar tree sense enough smart stay crew elbow warfare";

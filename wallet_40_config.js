@@ -1,1 +1,1 @@
-var mnemonic = "quarter notice speak mountain shove spice mandate teach keen recipe resource slush";
+var mnemonic = "argue way snap nephew crowd umbrella master collect frown misery clerk repair";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey amateur asthma option december morning sunny novel acquire negative glass sort";
+var mnemonic = "trust alpha fantasy initial act wrist flip ski winner task rail people";

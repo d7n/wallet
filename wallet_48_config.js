@@ -1,1 +1,1 @@
-var mnemonic = "moral unique spare never lizard orient old frost soup gain field trap";
+var mnemonic = "orange brass pigeon immense spray debate patch local idea cook slush bachelor";
