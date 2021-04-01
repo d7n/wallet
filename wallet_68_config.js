@@ -1,1 +1,1 @@
-var mnemonic = "supply assault lift detect final must thank post merry alert prevent fatal";
+var mnemonic = "plunge owner twin saddle panel country act ivory economy resist tree tunnel";

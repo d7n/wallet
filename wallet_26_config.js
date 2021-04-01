@@ -1,1 +1,1 @@
-var mnemonic = "jungle neutral maid include scissors clap close divert pretty dignity autumn program";
+var mnemonic = "joy hospital hair enrich neck custom frozen jaguar swift beyond army alien";

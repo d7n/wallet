@@ -1,1 +1,1 @@
-var mnemonic = "hurt fabric door bitter cousin grid father city only resource brain summer";
+var mnemonic = "destroy host hungry spoil clinic split mixture hurdle ordinary pipe ready rapid";

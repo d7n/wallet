@@ -1,1 +1,1 @@
-var mnemonic = "exile error lizard thunder magic magic ball gold detail pumpkin rib crane";
+var mnemonic = "chronic juice opinion media bundle attack fade smoke tower aim anger nose";

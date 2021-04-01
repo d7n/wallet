@@ -1,1 +1,1 @@
-var mnemonic = "melt long dove predict question female door detect crash chaos major amount";
+var mnemonic = "panda method steel rug skill glue crack innocent satoshi foil tourist walk";

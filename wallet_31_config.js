@@ -1,1 +1,1 @@
-var mnemonic = "panther category nurse butter verb real old screen girl truth ordinary prefer";
+var mnemonic = "broccoli crystal awake vehicle twelve summer identify bone sport quarter fame remove";

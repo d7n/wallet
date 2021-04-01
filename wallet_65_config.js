@@ -1,1 +1,1 @@
-var mnemonic = "measure song broom mean kidney feature crack group want slight gate above";
+var mnemonic = "silk van frozen candy elbow planet leopard syrup sustain urge inherit edit";

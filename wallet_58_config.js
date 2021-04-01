@@ -1,1 +1,1 @@
-var mnemonic = "fatigue great winter stereo crouch dizzy abstract monster brush wine plate parade";
+var mnemonic = "phone shine barely custom motion general tail snow legend auto course ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "stand grass culture orange apple virus knee eight shove bread else pave";
+var mnemonic = "sister tool before crisp diesel goat fence shell company town wall mansion";

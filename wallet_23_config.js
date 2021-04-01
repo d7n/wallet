@@ -1,1 +1,1 @@
-var mnemonic = "deny good ripple drive dutch canal domain country pact chimney enemy ten";
+var mnemonic = "mad inflict corn salmon method useful daughter giraffe bomb differ trophy clap";

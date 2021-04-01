@@ -1,1 +1,1 @@
-var mnemonic = "maple crack segment emotion choose kangaroo waste food monkey tourist ecology improve";
+var mnemonic = "useless lizard liberty produce frog cable result mansion supreme shaft tomato lady";

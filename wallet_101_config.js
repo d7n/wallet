@@ -1,1 +1,1 @@
-var mnemonic = "calm donate best essay segment modify push ketchup add begin zebra pave";
+var mnemonic = "pink swear love stairs decrease together jacket enjoy baby scale picture fuel";

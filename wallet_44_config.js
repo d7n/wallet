@@ -1,1 +1,1 @@
-var mnemonic = "spirit zoo visual code walk rural aspect six couple blade illness letter";
+var mnemonic = "stadium sort keen debris width afford brief cross pelican nephew direct differ";

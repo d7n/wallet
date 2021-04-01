@@ -1,1 +1,1 @@
-var mnemonic = "grace air industry history method push lottery rich stay door cross evidence";
+var mnemonic = "twist churn major chest odor enforce pony letter room ask sugar arm";

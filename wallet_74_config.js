@@ -1,1 +1,1 @@
-var mnemonic = "injury question have habit loud joke nothing blush orange stairs law capital";
+var mnemonic = "misery bean number eight hero path flash juice hole warm virus weapon";

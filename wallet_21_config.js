@@ -1,1 +1,1 @@
-var mnemonic = "hint refuse abandon extra place solar sick giraffe output silver only keen";
+var mnemonic = "original seat person upgrade negative practice gas canoe virtual measure couple equal";

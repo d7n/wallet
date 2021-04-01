@@ -1,1 +1,1 @@
-var mnemonic = "leave sun retreat unusual purse account life luggage alarm dolphin giraffe estate";
+var mnemonic = "where pumpkin swear clap sphere toe accuse biology turtle seat poverty unfold";

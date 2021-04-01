@@ -1,1 +1,1 @@
-var mnemonic = "west ostrich tennis share express happy recall rescue egg series elbow lyrics";
+var mnemonic = "daughter snow hamster tilt tenant icon choice feature across kiss exhibit reason";

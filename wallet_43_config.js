@@ -1,1 +1,1 @@
-var mnemonic = "pencil echo fork like orange chapter leisure frost grief lift distance scissors";
+var mnemonic = "poverty load dutch symptom rhythm unknown ozone power town obey behind blur";

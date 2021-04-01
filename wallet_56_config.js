@@ -1,1 +1,1 @@
-var mnemonic = "jazz baby soul fetch inmate cargo peanut pattern require south ranch exotic";
+var mnemonic = "another vault soda index surge arrest grit pumpkin buddy apple fame glimpse";

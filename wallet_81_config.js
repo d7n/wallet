@@ -1,1 +1,1 @@
-var mnemonic = "license kite mushroom box produce dwarf silver surprise armor guard any flock";
+var mnemonic = "situate cave provide million aunt adjust obvious quarter message off tomato fork";

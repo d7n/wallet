@@ -1,1 +1,1 @@
-var mnemonic = "pottery game story alarm dress they arrive prevent version narrow grain update";
+var mnemonic = "lyrics dove discover hello actress clutch impact opinion breeze casino pass comic";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect wild unhappy envelope laugh dirt deputy symptom noise naive moment correct";
+var mnemonic = "submit doll vanish develop frequent plastic body glide river clutch purchase evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "proof equal dumb ribbon female panel elephant flip cluster worth ring security";
+var mnemonic = "vapor wage daring fog pigeon suit beef cliff want style now lady";

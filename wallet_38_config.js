@@ -1,1 +1,1 @@
-var mnemonic = "practice magic obscure quality flock ten smile exile effort faith decrease brain";
+var mnemonic = "airport amount still jealous stairs pelican shift mule culture rebuild elite wall";

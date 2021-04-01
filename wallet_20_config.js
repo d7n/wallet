@@ -1,1 +1,1 @@
-var mnemonic = "diary faint neither improve differ peace angle prepare actress science humor expect";
+var mnemonic = "aware live truck decide child roof someone crunch involve fiber bus lend";

@@ -1,1 +1,1 @@
-var mnemonic = "swap rival hair trumpet tiny firm human ready tiny noble unlock outdoor";
+var mnemonic = "ball decrease floor silent clock summer around attack primary spoon organ error";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip kitchen engage violin version room copy rookie cost only soup cliff";
+var mnemonic = "step fresh limit first inmate pole select anger spirit math mandate grief";

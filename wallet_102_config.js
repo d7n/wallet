@@ -1,1 +1,1 @@
-var mnemonic = "walnut same foster duty oak pact mule solve exchange shove tell slab";
+var mnemonic = "patient match paper few twice machine dash atom acoustic jelly viable chronic";

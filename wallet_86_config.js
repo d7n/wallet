@@ -1,1 +1,1 @@
-var mnemonic = "nurse fun horror addict youth pledge coast large try life believe riot";
+var mnemonic = "swift amateur truly organ taste barely tube urban frog manage travel assault";

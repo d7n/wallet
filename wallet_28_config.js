@@ -1,1 +1,1 @@
-var mnemonic = "bag hawk frame scorpion valid carbon coffee vague dismiss myself slice tackle";
+var mnemonic = "robot snow bean tuna pelican this sing pen deputy expose weapon goose";

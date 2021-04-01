@@ -1,1 +1,1 @@
-var mnemonic = "click language clinic hungry service keen question message scatter sun auto chapter";
+var mnemonic = "filter indicate voice reward plastic swap rent art prefer apple text winner";

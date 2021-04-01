@@ -1,1 +1,1 @@
-var mnemonic = "valid ice future crime swear protect green relax owner budget major another";
+var mnemonic = "around indoor visa exit dentist truly gospel priority item ahead crack visa";

@@ -1,1 +1,1 @@
-var mnemonic = "repair flight process patrol chef scare album slow frown rescue coral lawsuit";
+var mnemonic = "chicken unhappy rhythm quality wrist firm item neutral knife attract dry edge";

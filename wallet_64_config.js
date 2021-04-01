@@ -1,1 +1,1 @@
-var mnemonic = "silk point cigar copper nominee grace shock damp fabric approve bind tape";
+var mnemonic = "bargain speed unknown spoil scatter island post intact carry square omit another";

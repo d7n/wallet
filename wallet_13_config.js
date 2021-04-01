@@ -1,1 +1,1 @@
-var mnemonic = "flip begin chapter half love already middle slender bounce wool toilet elbow";
+var mnemonic = "dirt soccer raccoon amateur soccer penalty labor evoke tray fan card board";

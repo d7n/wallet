@@ -1,1 +1,1 @@
-var mnemonic = "disagree index crime disagree dose hint photo sea motor mountain convince shrimp";
+var mnemonic = "test vendor edit wheel gossip loud image faith shiver nurse power oyster";

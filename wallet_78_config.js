@@ -1,1 +1,1 @@
-var mnemonic = "curtain journey autumn because custom possible buyer boy puppy learn sock elevator";
+var mnemonic = "much angle chapter eight doll vague same siren torch royal nephew inmate";

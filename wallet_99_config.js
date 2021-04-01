@@ -1,1 +1,1 @@
-var mnemonic = "food drum visual deposit sleep screen wolf snow maid slow oblige thunder";
+var mnemonic = "health print clean when defy pink calm enable toy input deputy spy";

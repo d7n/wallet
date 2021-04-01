@@ -1,1 +1,1 @@
-var mnemonic = "diamond wood upper slot vanish media deer swim common snake torch until";
+var mnemonic = "alley achieve fashion west wisdom flock pigeon guitar force stem odor crush";

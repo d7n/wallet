@@ -1,1 +1,1 @@
-var mnemonic = "endless file acid fuel slot cushion observe huge warrior apology credit neither";
+var mnemonic = "become beach wet regret board hammer double dust method address buddy innocent";

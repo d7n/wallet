@@ -1,1 +1,1 @@
-var mnemonic = "sure meadow thought model sun desert shallow true play indoor split orbit";
+var mnemonic = "baby install text truth sausage rug critic broom walk cancel blind lab";

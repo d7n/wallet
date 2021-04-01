@@ -1,1 +1,1 @@
-var mnemonic = "verify sport position combine rain youth picture stock into ten crowd six";
+var mnemonic = "nephew bundle normal degree fancy police clump once term modify orient audit";

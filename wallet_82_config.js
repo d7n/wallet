@@ -1,1 +1,1 @@
-var mnemonic = "mom stable october track quantum weather sample hammer useful pull neglect choose";
+var mnemonic = "mountain gun cable scrap pill truth police cushion dinosaur pretty open problem";

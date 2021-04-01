@@ -1,1 +1,1 @@
-var mnemonic = "faith hybrid pencil double share pig glad impose grid hill damp humor";
+var mnemonic = "finger orphan nose switch badge erupt abuse million frame weird search nephew";

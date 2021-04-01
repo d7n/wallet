@@ -1,1 +1,1 @@
-var mnemonic = "gauge flat razor primary across blur junk glove tree term depend mansion";
+var mnemonic = "thank surface join spread jump desert inch mixture whip domain domain uncover";

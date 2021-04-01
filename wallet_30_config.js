@@ -1,1 +1,1 @@
-var mnemonic = "reopen glove inside lion present amount shock aunt wish raw parrot winner";
+var mnemonic = "charge boost divorce rural bread laugh arrow exhaust deputy breeze tumble close";

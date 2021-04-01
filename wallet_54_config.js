@@ -1,1 +1,1 @@
-var mnemonic = "vacuum river spray globe addict grief laundry suit clutch gate guilt also";
+var mnemonic = "budget job share essay hood observe share walk throw index prosper display";

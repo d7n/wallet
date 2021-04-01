@@ -1,1 +1,1 @@
-var mnemonic = "extra fault sleep trophy decade nature tortoise session cry quiz faith debate";
+var mnemonic = "loop avocado acquire average law mention merge slender elite spin margin mimic";

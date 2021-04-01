@@ -1,1 +1,1 @@
-var mnemonic = "gun aspect essay sponsor voyage tornado poem mention coach destroy proud eager";
+var mnemonic = "size wife asthma add short member vibrant frog wrestle explain oblige injury";

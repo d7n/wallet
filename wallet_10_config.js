@@ -1,1 +1,1 @@
-var mnemonic = "february luggage obvious retreat either pistol curious nose mutual initial three spread";
+var mnemonic = "cave knife vocal theme season awkward slogan pilot tube muffin maximum machine";

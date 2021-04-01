@@ -1,1 +1,1 @@
-var mnemonic = "knee educate fitness early rival worth arrest toe tunnel captain reflect example";
+var mnemonic = "west draw open feed elder involve day can parent erosion trade gorilla";

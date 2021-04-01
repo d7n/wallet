@@ -1,1 +1,1 @@
-var mnemonic = "night there beach shy quiz goddess coyote foster wool unique pyramid mistake";
+var mnemonic = "gloom pond logic lend space awkward enact nation future fiber bean design";

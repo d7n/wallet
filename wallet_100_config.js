@@ -1,1 +1,1 @@
-var mnemonic = "zebra citizen olympic monster social leaf orange orphan unfold elephant exhibit time";
+var mnemonic = "lobster charge ticket citizen earth day inspire acid cattle six sort movie";

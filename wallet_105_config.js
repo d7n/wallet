@@ -1,1 +1,1 @@
-var mnemonic = "cube tissue feel loyal certain sibling maple never tape poem network parrot";
+var mnemonic = "walnut control awful drink identify donkey diagram bullet crunch utility replace route";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble helmet second put eye soft bike blade swamp wall traffic ginger";
+var mnemonic = "carpet couple ski food meadow mosquito chat dirt wonder conduct crawl eager";

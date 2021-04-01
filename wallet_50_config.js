@@ -1,1 +1,1 @@
-var mnemonic = "level bomb warrior siren elegant wisdom grass glue guitar inspire whale vessel";
+var mnemonic = "chunk silly girl border door swarm tenant tilt never impulse biology retreat";

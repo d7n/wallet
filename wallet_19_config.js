@@ -1,1 +1,1 @@
-var mnemonic = "crucial exit course parade boring remind spend key survey tissue output embark";
+var mnemonic = "scrub message ritual genius type sign clinic output turtle brisk service sword";

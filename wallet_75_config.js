@@ -1,1 +1,1 @@
-var mnemonic = "hammer frame minute exile turkey prevent asset reveal suggest addict office maze";
+var mnemonic = "daring mixed odor gift fiber solar spring first bulk sausage hope rebel";

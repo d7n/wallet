@@ -1,1 +1,1 @@
-var mnemonic = "protect machine outer lecture faculty immune what great legend chaos opinion knock";
+var mnemonic = "front pupil possible spice avoid mad shrimp credit trial concert aware feature";

@@ -1,1 +1,1 @@
-var mnemonic = "photo easily rival medal gesture average auto garden segment toddler night march";
+var mnemonic = "upset luggage fragile club author winter target foil mixed receive brick water";

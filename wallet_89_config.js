@@ -1,1 +1,1 @@
-var mnemonic = "glow type arm adult energy word drama zebra appear forum leisure roof";
+var mnemonic = "wet ethics estate wide pilot hire globe have employ cherry bless stick";

@@ -1,1 +1,1 @@
-var mnemonic = "affair bone ramp fan quiz defy only champion electric sample control craft";
+var mnemonic = "cycle wet figure example clap essence receive slab flame tip sense check";

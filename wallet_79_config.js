@@ -1,1 +1,1 @@
-var mnemonic = "drastic corn catch pool pulp dust duck suspect tent broken obtain artwork";
+var mnemonic = "maid napkin excuse purity hidden raise require solid project unfair manual fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "into abandon never special use swear traffic cry inspire uniform extra record";
+var mnemonic = "connect ritual snack category about fault night cook kangaroo shallow panic hobby";

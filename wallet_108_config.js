@@ -1,1 +1,1 @@
-var mnemonic = "plunge ship family over hello fork front attitude fix teach case bus";
+var mnemonic = "alter cute hedgehog grow uncover holiday small head bless melt wrestle prize";

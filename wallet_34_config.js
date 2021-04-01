@@ -1,1 +1,1 @@
-var mnemonic = "hamster rent spring tree direct dry cannon melt horn clarify wheat cage";
+var mnemonic = "focus man cool wide weekend vanish faint vault blue anxiety above deal";

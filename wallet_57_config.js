@@ -1,1 +1,1 @@
-var mnemonic = "debris together sudden breeze cigar celery tunnel pitch cabin couch cluster trash";
+var mnemonic = "drip solar harbor valid whale ticket knife wedding balance digital receive royal";

@@ -1,1 +1,1 @@
-var mnemonic = "deer annual climb upset seed grow trend flight join pudding shallow clean";
+var mnemonic = "skate glad canvas certain risk hurry huge pull mule tennis tree jump";

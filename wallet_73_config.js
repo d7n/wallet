@@ -1,1 +1,1 @@
-var mnemonic = "drip ostrich universe impose seek affair captain measure machine harvest coyote cake";
+var mnemonic = "major reduce hurt country street script field summer rate cousin code distance";

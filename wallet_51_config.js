@@ -1,1 +1,1 @@
-var mnemonic = "busy ridge toddler island whale pepper mention foster muffin village vivid magic";
+var mnemonic = "lend addict fee imitate ignore siege grit decline divide adapt decade perfect";

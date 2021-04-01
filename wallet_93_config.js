@@ -1,1 +1,1 @@
-var mnemonic = "bonus mandate tool agent dismiss two time donor skirt bright hundred among";
+var mnemonic = "pull tray turkey use can screen unfold task arrive place sure rare";

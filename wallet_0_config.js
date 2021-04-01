@@ -1,1 +1,1 @@
-var mnemonic = "approve dutch bracket virus model saddle derive clown bunker case screen exhaust";
+var mnemonic = "pink absent wasp vague away winner reduce gown toss mandate army pool";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil chronic pear clump survey bright crawl update cry sting degree admit";
+var mnemonic = "inch shoe card syrup injury basket empty curious price pony bitter rely";

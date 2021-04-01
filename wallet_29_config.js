@@ -1,1 +1,1 @@
-var mnemonic = "iron hidden home diagram smooth globe fall theme total talent afraid awful";
+var mnemonic = "month leader ghost ignore pipe carry credit island spatial rubber travel outside";

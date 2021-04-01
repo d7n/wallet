@@ -1,1 +1,1 @@
-var mnemonic = "soap make trip decorate any enhance assault resemble bonus couple seek delay";
+var mnemonic = "car plunge share annual scan slush document divert blossom garage connect churn";

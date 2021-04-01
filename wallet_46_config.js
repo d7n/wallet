@@ -1,1 +1,1 @@
-var mnemonic = "shrimp jewel canvas fresh screen scan ensure bring impose mystery smooth doll";
+var mnemonic = "soft pact love engage supreme trust pig tide garden save episode shove";

@@ -1,1 +1,1 @@
-var mnemonic = "young ozone honey save sick child water stool acquire gadget banana salon";
+var mnemonic = "hidden scout fold laugh race shadow goose float glide card soon practice";

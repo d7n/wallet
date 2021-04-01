@@ -1,1 +1,1 @@
-var mnemonic = "human opera kit pulse impulse system quick rocket virus answer whale another";
+var mnemonic = "art announce april pear cluster tennis fat capable direct pear roof day";

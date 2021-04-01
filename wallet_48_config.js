@@ -1,1 +1,1 @@
-var mnemonic = "choose harsh room print act click awake position dinosaur coral endless vicious";
+var mnemonic = "dynamic actual maximum weekend fault canyon talk cattle build off butter grace";

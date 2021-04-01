@@ -1,1 +1,1 @@
-var mnemonic = "unhappy rigid copy midnight excite media still rescue toilet ribbon invest anxiety";
+var mnemonic = "festival fault dwarf another matter return venture robot rib exclude iron rather";

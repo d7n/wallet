@@ -1,1 +1,1 @@
-var mnemonic = "ignore main chunk business meat bag ozone mutual almost home monitor explain";
+var mnemonic = "file exist cradle rule license sea sword hidden list there raven zebra";

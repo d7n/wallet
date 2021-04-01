@@ -1,1 +1,1 @@
-var mnemonic = "climb relief enlist puppy place analyst road spray balance globe alter surge";
+var mnemonic = "bitter middle identify remain rule coast dinosaur path stairs left warrior blue";

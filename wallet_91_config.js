@@ -1,1 +1,1 @@
-var mnemonic = "behave cloth foster cry reveal discover acoustic spring punch vehicle essence pattern";
+var mnemonic = "card enhance clutch what veteran father special stand prison account town audit";

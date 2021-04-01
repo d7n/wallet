@@ -1,1 +1,1 @@
-var mnemonic = "trap doctor avocado canvas expose garden find decline candy brick change bleak";
+var mnemonic = "word parent level poet shrimp swamp cigar puzzle spice giraffe busy robust";

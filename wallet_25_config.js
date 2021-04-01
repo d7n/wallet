@@ -1,1 +1,1 @@
-var mnemonic = "attract embrace sample defense member view club helmet wall wool boat earth";
+var mnemonic = "cricket flee session blood settle crucial final boost dream hockey aim wisdom";

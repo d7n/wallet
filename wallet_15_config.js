@@ -1,1 +1,1 @@
-var mnemonic = "defense screen drink tell suit cannon employ minor ordinary pulse virtual orange";
+var mnemonic = "curtain day slender mimic erase sniff desert payment power mansion car immense";

@@ -1,1 +1,1 @@
-var mnemonic = "outside matter increase car people light tilt minor year fuel waste gas";
+var mnemonic = "pride mule guide treat when devote pretty level system monitor hobby flush";

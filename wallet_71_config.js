@@ -1,1 +1,1 @@
-var mnemonic = "horse agree bike ready grunt mule involve pair quarter addict dynamic father";
+var mnemonic = "large solve mail winter field gas bless save lunch grace version found";

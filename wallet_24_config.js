@@ -1,1 +1,1 @@
-var mnemonic = "cause hawk draw harvest act rain blush pepper memory ball minor night";
+var mnemonic = "leopard guitar wisdom zebra escape measure skill bleak fiction tank swap super";

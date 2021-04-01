@@ -1,1 +1,1 @@
-var mnemonic = "jeans ready robot reveal crime what young unusual mandate version shuffle sock";
+var mnemonic = "carry human cannon refuse wet design under glide imitate trust grace future";
