@@ -1,1 +1,1 @@
-var mnemonic = "company puppy grit series fork damage dress group there open heart begin";
+var mnemonic = "easy say flat supreme razor rifle repair gasp anxiety turn large slogan";

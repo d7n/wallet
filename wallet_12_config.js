@@ -1,1 +1,1 @@
-var mnemonic = "attract ketchup mutual bomb ten foster brand blush coin punch now end";
+var mnemonic = "brown region husband found chuckle ankle umbrella below valley green flower noble";

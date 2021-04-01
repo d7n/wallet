@@ -1,1 +1,1 @@
-var mnemonic = "excuse truly kind veteran change enemy since thrive body fiscal copper neither";
+var mnemonic = "ranch plastic spray habit old weasel slice ethics practice obey water harbor";

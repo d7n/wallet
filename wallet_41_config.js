@@ -1,1 +1,1 @@
-var mnemonic = "raven ocean tiny jump crucial mechanic weekend bitter chest actual situate ocean";
+var mnemonic = "cream fault grant estate split swarm engine drama season lucky final tobacco";

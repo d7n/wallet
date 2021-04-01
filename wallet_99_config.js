@@ -1,1 +1,1 @@
-var mnemonic = "shoe pattern hurdle drastic obtain hover guess absurd current coast east grace";
+var mnemonic = "space sketch target pizza pig task increase dilemma zero shove escape amused";

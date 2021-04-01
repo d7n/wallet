@@ -1,1 +1,1 @@
-var mnemonic = "uphold bonus giraffe switch silver pioneer sphere plate submit table one owner";
+var mnemonic = "absent junior drama rain company exist siege circle fortune flavor favorite orphan";

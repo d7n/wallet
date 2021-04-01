@@ -1,1 +1,1 @@
-var mnemonic = "believe hill video hidden bless drive spare perfect sense patient dial around";
+var mnemonic = "foster spice aisle brave doctor century clump duty rent crush critic consider";

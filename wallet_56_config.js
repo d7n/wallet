@@ -1,1 +1,1 @@
-var mnemonic = "pudding fatal mandate annual glory mammal danger stuff satoshi artefact mechanic cost";
+var mnemonic = "weapon alarm senior crunch swarm path cube betray north bulk abandon speed";

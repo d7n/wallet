@@ -1,1 +1,1 @@
-var mnemonic = "south liberty ethics female artefact squirrel outer stock heavy despair prosper leopard";
+var mnemonic = "pledge erupt erode salad sadness major badge dash theory income case tree";

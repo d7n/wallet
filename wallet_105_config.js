@@ -1,1 +1,1 @@
-var mnemonic = "pudding talk vendor dune oak fatigue earth hill extend ladder primary unhappy";
+var mnemonic = "balcony cheap observe click worry badge easily vocal flee stadium lady labor";

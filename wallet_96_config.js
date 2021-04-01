@@ -1,1 +1,1 @@
-var mnemonic = "accuse smile chase piano celery leave bike bright vacant menu castle twelve";
+var mnemonic = "blame chronic ocean library empower atom affair chest armed ability cloth twist";

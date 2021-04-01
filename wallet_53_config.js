@@ -1,1 +1,1 @@
-var mnemonic = "bulk tomato wagon defy space snow effort correct year edit shaft cloud";
+var mnemonic = "shiver aspect order cycle width clean bomb goose rescue wise record cross";

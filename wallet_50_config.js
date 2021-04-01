@@ -1,1 +1,1 @@
-var mnemonic = "puzzle carry scorpion guess shiver garbage quick cover program pelican vacant hockey";
+var mnemonic = "cloud rely fury accident obvious jeans forest rare cat target father push";

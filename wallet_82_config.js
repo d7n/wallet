@@ -1,1 +1,1 @@
-var mnemonic = "unfair video ozone stumble immune feed payment beauty fog hamster gesture gold";
+var mnemonic = "visa wreck steak violin phone today neck immense chat south appear post";

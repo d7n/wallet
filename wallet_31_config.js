@@ -1,1 +1,1 @@
-var mnemonic = "army kingdom desert want velvet good empty exit fantasy curve ski tortoise";
+var mnemonic = "mean laugh inch slender trend flat where act tail buzz voice aware";

@@ -1,1 +1,1 @@
-var mnemonic = "right lesson scout glory option essay repair hand cute remain fashion window";
+var mnemonic = "maximum stumble economy brother sudden mushroom garbage hero impose harsh time broom";

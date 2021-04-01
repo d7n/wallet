@@ -1,1 +1,1 @@
-var mnemonic = "battle celery sword orange close endorse play amount exit dance exclude neither";
+var mnemonic = "follow swap excite guess quarter cupboard dignity find toy party moon never";

@@ -1,1 +1,1 @@
-var mnemonic = "enough monkey source cupboard scorpion range ahead journey trophy cloth animal hand";
+var mnemonic = "put table goat police winter claim hero news body laptop mimic desk";

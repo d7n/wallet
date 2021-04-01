@@ -1,1 +1,1 @@
-var mnemonic = "concert someone apology couple comfort all lady obey amused major winner garage";
+var mnemonic = "cage series pact dress bullet robot grass flock must resist dinosaur quick";

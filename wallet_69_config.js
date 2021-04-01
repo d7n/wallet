@@ -1,1 +1,1 @@
-var mnemonic = "best delay car vintage heavy exit window boat jewel tuition cake world";
+var mnemonic = "phrase fury document carry tide fame reflect capable shop memory chimney wide";

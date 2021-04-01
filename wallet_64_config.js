@@ -1,1 +1,1 @@
-var mnemonic = "monster veteran deposit ensure mixed magnet banana gloom hole force spatial exhaust";
+var mnemonic = "nice rug couple dragon kiss coin lift exclude lab move later cage";

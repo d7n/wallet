@@ -1,1 +1,1 @@
-var mnemonic = "peasant praise sunny dice distance noodle wisdom that ancient diet have source";
+var mnemonic = "tumble pencil expire element spare occur fatigue stumble pupil two donate farm";

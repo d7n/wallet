@@ -1,1 +1,1 @@
-var mnemonic = "trap also prosper warm obey fever trash meat staff time master era";
+var mnemonic = "cement flame diagram syrup faint funny secret desert front parent wash sugar";

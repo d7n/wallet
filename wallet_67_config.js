@@ -1,1 +1,1 @@
-var mnemonic = "abandon author unit warrior present erode wild champion gas rhythm remain faculty";
+var mnemonic = "polar distance fly finger suggest nut try sleep smile earth innocent wrist";

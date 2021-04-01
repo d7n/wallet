@@ -1,1 +1,1 @@
-var mnemonic = "oil burden arrow reduce stove shock artwork tragic ribbon theory egg wool";
+var mnemonic = "retreat among fiscal wolf soup scan agent bind zone just dial uphold";

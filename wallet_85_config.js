@@ -1,1 +1,1 @@
-var mnemonic = "vote goddess solar mosquito dress rather arctic fragile slot omit citizen bus";
+var mnemonic = "shiver car track outdoor loud drastic cupboard ankle grass large fresh salon";

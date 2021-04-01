@@ -1,1 +1,1 @@
-var mnemonic = "judge private prepare review radio embark grit banner acid type spare latin";
+var mnemonic = "tissue into frost soda ecology mirror chalk brave credit sphere guitar cost";

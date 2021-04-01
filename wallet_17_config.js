@@ -1,1 +1,1 @@
-var mnemonic = "clay fiscal onion split trumpet street above era cupboard student chest twenty";
+var mnemonic = "gadget feature grief carbon gown castle sell garment rubber warfare dish month";

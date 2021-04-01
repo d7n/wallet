@@ -1,1 +1,1 @@
-var mnemonic = "this often term winter tank seek bid soon dress chronic author future";
+var mnemonic = "card retreat exhibit nasty yellow please hub scheme call clock network luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "auto burger junior track tornado hood victory board split satisfy include subject";
+var mnemonic = "innocent today digital host husband leisure gain canoe spice tobacco leg stand";

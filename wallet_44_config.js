@@ -1,1 +1,1 @@
-var mnemonic = "sponsor mandate nurse tower palace leader neither catch spell amazing despair void";
+var mnemonic = "gasp three easy famous cloud food float drastic vital child beauty crumble";

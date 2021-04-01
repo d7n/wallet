@@ -1,1 +1,1 @@
-var mnemonic = "crush second arctic inject view ask penalty raw sun muffin core glory";
+var mnemonic = "alter sad lab traffic warfare snack barrel afford lava nasty job robust";

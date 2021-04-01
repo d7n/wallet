@@ -1,1 +1,1 @@
-var mnemonic = "illegal liquid leisure veteran lesson story cup wonder globe cute maid fee";
+var mnemonic = "what magnet snow nothing bottom keep stairs neglect royal picnic join sell";

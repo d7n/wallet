@@ -1,1 +1,1 @@
-var mnemonic = "garment decrease two turkey job tape notice blur verb core food obvious";
+var mnemonic = "close regular goose green tell adapt scorpion bargain use mom green repair";

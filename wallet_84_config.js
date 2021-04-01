@@ -1,1 +1,1 @@
-var mnemonic = "ginger patrol marriage speak assault nice adult strategy glow illness board fly";
+var mnemonic = "gorilla cinnamon purse forum worry latin obey torch ritual shock chuckle return";

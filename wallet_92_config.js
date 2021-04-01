@@ -1,1 +1,1 @@
-var mnemonic = "crane auction diet convince valid enemy history bind smoke shed artist ritual";
+var mnemonic = "right scout ritual olive display few shoulder fetch convince fruit kiss talk";

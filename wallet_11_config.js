@@ -1,1 +1,1 @@
-var mnemonic = "typical sheriff south eternal want spray second can repair situate safe citizen";
+var mnemonic = "shrimp second urge castle word property question bulk culture middle smoke clip";

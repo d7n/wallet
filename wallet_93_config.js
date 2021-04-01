@@ -1,1 +1,1 @@
-var mnemonic = "science report cost salmon next raise cage tuition sense pizza joy drink";
+var mnemonic = "sight excite gorilla shed vocal disagree sun always boss giant spy drastic";

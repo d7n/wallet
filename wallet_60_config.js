@@ -1,1 +1,1 @@
-var mnemonic = "able much security asthma surprise frequent egg tip zebra aunt calm excite";
+var mnemonic = "wage noodle robust wagon glad trigger soccer moment slab torch bronze net";

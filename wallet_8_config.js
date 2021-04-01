@@ -1,1 +1,1 @@
-var mnemonic = "grab giant green enact steel fury indoor mask dinosaur live rose humble";
+var mnemonic = "crazy tackle entire memory truck naive satisfy ahead swap silly cherry lens";

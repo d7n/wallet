@@ -1,1 +1,1 @@
-var mnemonic = "ice spice erosion museum twin calm ill essay decline problem blade win";
+var mnemonic = "among sleep vehicle ceiling situate throw staff father start warfare pepper remove";

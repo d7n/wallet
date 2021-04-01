@@ -1,1 +1,1 @@
-var mnemonic = "clutch enlist parent enjoy pumpkin pigeon retreat hotel useful normal supply find";
+var mnemonic = "emerge acid prevent elevator dwarf error leader artist dawn ship ride way";

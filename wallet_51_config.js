@@ -1,1 +1,1 @@
-var mnemonic = "cake lounge scan left moment enroll whisper swamp joke caution reunion wonder";
+var mnemonic = "fever cube rose blind organ wreck keep ivory mention print forum scatter";

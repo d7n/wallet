@@ -1,1 +1,1 @@
-var mnemonic = "throw inflict duty resemble title inspire drink alert close silly cactus flower";
+var mnemonic = "rather noise under farm shrug remind smoke zoo patch lava add settle";

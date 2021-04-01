@@ -1,1 +1,1 @@
-var mnemonic = "clump keep extend twin acoustic glad fence expire tell salon online smile";
+var mnemonic = "soda equip inside unable weapon hill army scorpion candy mushroom obey entire";

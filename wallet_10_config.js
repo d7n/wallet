@@ -1,1 +1,1 @@
-var mnemonic = "acquire link scheme number spare main tongue know potato joy purity tank";
+var mnemonic = "climb order choice giant method tilt couch shiver miss skirt mansion ketchup";

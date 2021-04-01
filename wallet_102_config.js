@@ -1,1 +1,1 @@
-var mnemonic = "dose subject vehicle twin foster tower bright roast age south fly curve";
+var mnemonic = "verb lava false corn husband flame method degree guide notable switch fun";

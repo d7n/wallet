@@ -1,1 +1,1 @@
-var mnemonic = "skate hire shoe rebel ensure firm attend garage near twenty journey split";
+var mnemonic = "gather corn cloth enjoy blade insect miss floor employ craft asthma topple";

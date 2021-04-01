@@ -1,1 +1,1 @@
-var mnemonic = "main future hire opera enough address ahead valve horse clay farm tumble";
+var mnemonic = "hard obey width hurry stamp return real member under client member blanket";

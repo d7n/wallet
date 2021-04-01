@@ -1,1 +1,1 @@
-var mnemonic = "envelope become bottom orphan torch board shield power market senior flower slim";
+var mnemonic = "wage verify scale shrimp since core twin price meat exotic combine until";

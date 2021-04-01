@@ -1,1 +1,1 @@
-var mnemonic = "reduce save love judge soon afford knock elbow dizzy letter chapter else";
+var mnemonic = "short flower rocket aspect diamond situate swim patch brush prosper patrol worth";

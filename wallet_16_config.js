@@ -1,1 +1,1 @@
-var mnemonic = "rebuild proud tomato hotel cheap news exile spin bullet depart draft suit";
+var mnemonic = "select buzz check eyebrow brown vapor fatal produce night trick crawl dolphin";

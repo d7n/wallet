@@ -1,1 +1,1 @@
-var mnemonic = "champion west tackle praise shop corn punch reunion penalty abstract attend luxury";
+var mnemonic = "control inject page hair reform trigger place roof amazing lens cram bless";

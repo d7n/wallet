@@ -1,1 +1,1 @@
-var mnemonic = "rebel eye horn fragile cycle tube chunk cost pistol rib infant deal";
+var mnemonic = "height rhythm sail annual region regret vague old label cup check put";

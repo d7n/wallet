@@ -1,1 +1,1 @@
-var mnemonic = "rich sing fog situate few divide swarm snake raccoon sick display bread";
+var mnemonic = "collect coast fiction enhance grow predict betray excess pink quality hurry ring";

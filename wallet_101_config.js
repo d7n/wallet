@@ -1,1 +1,1 @@
-var mnemonic = "law gown olive correct narrow strong march marble elbow ankle sugar prefer";
+var mnemonic = "hand swap shrug enroll funny ship mouse habit oil wreck exist buzz";

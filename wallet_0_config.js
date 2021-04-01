@@ -1,1 +1,1 @@
-var mnemonic = "cheese family close stage name now bacon object sphere shrimp detect aerobic";
+var mnemonic = "skill deal one unique chase chef invest bulk rigid sponsor grain awful";

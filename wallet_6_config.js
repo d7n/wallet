@@ -1,1 +1,1 @@
-var mnemonic = "young crystal cluster detail concert worry upgrade ball road cargo payment true";
+var mnemonic = "twenty pelican keep oval guide prison six ski usage pony october trip";

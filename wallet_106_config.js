@@ -1,1 +1,1 @@
-var mnemonic = "material sight ball left goose ostrich hub prefer fit gas wine engine";
+var mnemonic = "sleep jaguar wide slow match swallow duty sheriff velvet roof before desk";

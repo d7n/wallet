@@ -1,1 +1,1 @@
-var mnemonic = "achieve replace start upgrade account ketchup lunch alley differ fiction melody island";
+var mnemonic = "bicycle balance ritual resist blanket source secret manual autumn punch lizard equal";

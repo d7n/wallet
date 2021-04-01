@@ -1,1 +1,1 @@
-var mnemonic = "exchange slide soccer casual unusual decorate hope nuclear fresh nothing stick garment";
+var mnemonic = "cotton hotel squirrel guilt volume detect top swarm recipe arrange bus eternal";

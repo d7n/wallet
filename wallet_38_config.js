@@ -1,1 +1,1 @@
-var mnemonic = "stone cruise open silly acoustic crouch citizen marriage human cigar coil duck";
+var mnemonic = "finish bar student hen apart motor hero gate hen trial scrub season";

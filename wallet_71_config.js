@@ -1,1 +1,1 @@
-var mnemonic = "veteran cluster submit between wash hidden coach door wide matrix bleak device";
+var mnemonic = "term buzz crater crane produce supply rough female mother mask fox put";

@@ -1,1 +1,1 @@
-var mnemonic = "pave entry brave memory number robust bird canyon put mandate panda panther";
+var mnemonic = "duck toast category scrub race gospel remember more click aunt dwarf cave";

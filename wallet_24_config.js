@@ -1,1 +1,1 @@
-var mnemonic = "fruit wheel found video mountain illegal sudden print pool behave coin magnet";
+var mnemonic = "spy reunion lunch upset fly century stool layer evolve sea unveil side";

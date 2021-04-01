@@ -1,1 +1,1 @@
-var mnemonic = "main oak push pottery pizza fence basket sheriff abuse clap kingdom magic";
+var mnemonic = "need under enable enemy ice farm step maple ring yard jeans member";

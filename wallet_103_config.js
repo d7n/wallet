@@ -1,1 +1,1 @@
-var mnemonic = "include render loan style blossom mandate aerobic wasp slush bring boss elder";
+var mnemonic = "possible tube dolphin blood stumble near creek lumber swim clever network fix";

@@ -1,1 +1,1 @@
-var mnemonic = "leg unable quarter hole target daring ostrich print twenty state forum enough";
+var mnemonic = "day all grace color climb glass entire copy police whisper version suit";

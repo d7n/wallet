@@ -1,1 +1,1 @@
-var mnemonic = "jungle mystery bulk field lucky chalk entry moment vessel wine fringe physical";
+var mnemonic = "walk fun sausage dice orphan drama huge rough swear addict danger amateur";

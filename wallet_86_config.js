@@ -1,1 +1,1 @@
-var mnemonic = "answer gallery host style steel polar pencil cloud obvious cliff easy orient";
+var mnemonic = "merge notable tank embrace liquid error music cabin clap alley phone transfer";

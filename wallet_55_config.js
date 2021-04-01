@@ -1,1 +1,1 @@
-var mnemonic = "arrow cash napkin broken regret machine theory fabric valley omit someone retreat";
+var mnemonic = "voice drum fire harvest stadium course street cave donkey buffalo exchange steak";

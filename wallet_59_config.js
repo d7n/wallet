@@ -1,1 +1,1 @@
-var mnemonic = "crouch public tornado tackle interest bring coffee siege mirror color health crowd";
+var mnemonic = "measure witness behave end heart evoke aisle popular ceiling quote because trim";

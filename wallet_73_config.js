@@ -1,1 +1,1 @@
-var mnemonic = "photo grass cool more length glimpse logic exile vague hybrid caught cook";
+var mnemonic = "ticket artwork curve gentle dumb mail setup sick panel favorite brick model";

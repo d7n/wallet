@@ -1,1 +1,1 @@
-var mnemonic = "fault advice sorry tool infant gift silk monitor inside obey muscle jealous";
+var mnemonic = "present permit joke enemy beauty kiss raise hire powder tower valid foil";

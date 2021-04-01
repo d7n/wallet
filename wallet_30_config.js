@@ -1,1 +1,1 @@
-var mnemonic = "scatter habit yellow private wire wisdom remind depend run bus oyster era";
+var mnemonic = "zebra bean cruise captain abstract car saddle year elegant album remove occur";

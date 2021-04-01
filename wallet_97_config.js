@@ -1,1 +1,1 @@
-var mnemonic = "object decrease quarter taxi rabbit when surface skill clutch fit siege horror";
+var mnemonic = "nut urban sausage acid snack hockey key learn jacket ride turtle provide";

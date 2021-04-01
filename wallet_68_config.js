@@ -1,1 +1,1 @@
-var mnemonic = "saddle include orchard foil horse board spend enemy lonely suspect nephew exotic";
+var mnemonic = "open use aware develop project valley outer never fly city canoe enter";

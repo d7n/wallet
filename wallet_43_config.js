@@ -1,1 +1,1 @@
-var mnemonic = "alter deputy skill capital element tired wagon always clarify monster discover path";
+var mnemonic = "floor valid torch ice bachelor mule envelope account unable zoo empty pledge";

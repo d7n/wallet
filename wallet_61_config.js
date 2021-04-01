@@ -1,1 +1,1 @@
-var mnemonic = "quote gesture review industry frog dial economy arrest rack weekend stairs song";
+var mnemonic = "neither denial canyon crumble engine magic image potato pole across tenant version";

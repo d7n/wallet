@@ -1,1 +1,1 @@
-var mnemonic = "trim ritual planet method spare drink visa practice win owner garlic couch";
+var mnemonic = "frequent gown taste mushroom famous muscle squeeze ability original ignore situate unknown";

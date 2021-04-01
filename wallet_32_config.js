@@ -1,1 +1,1 @@
-var mnemonic = "gesture dust vacuum agree menu female atom early undo fury purpose effort";
+var mnemonic = "chalk people void tuna belt gravity report bread super actual pumpkin state";

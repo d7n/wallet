@@ -1,1 +1,1 @@
-var mnemonic = "strategy replace knock twice bulk behind flag bullet fiscal gun embark cross";
+var mnemonic = "runway lumber rare history enrich capable agree crash obey course veteran upgrade";

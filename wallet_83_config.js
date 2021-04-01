@@ -1,1 +1,1 @@
-var mnemonic = "abandon attack used fog divide illegal march utility genius gym dove actor";
+var mnemonic = "smile effort trip frost prison prefer ladder gorilla effort word amused crucial";

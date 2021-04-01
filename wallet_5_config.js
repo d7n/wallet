@@ -1,1 +1,1 @@
-var mnemonic = "address inherit regret initial area journey exotic ocean knock pudding raven remain";
+var mnemonic = "lunar spy tag embark cereal sting practice crazy switch butter code gadget";
