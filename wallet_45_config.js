@@ -1,1 +1,1 @@
-var mnemonic = "exchange weird script game say nurse energy repeat balcony place wash zone";
+var mnemonic = "fence fluid van squirrel prison theme bread gloom gorilla come ordinary craft";

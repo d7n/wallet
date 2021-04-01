@@ -1,1 +1,1 @@
-var mnemonic = "deputy sausage plate item solve junk impulse play room bargain person sick";
+var mnemonic = "float skill oblige lonely armed dose fragile shallow copper useful move wise";

@@ -1,1 +1,1 @@
-var mnemonic = "cream aim plug chapter prize stool print method grant urban bronze flee";
+var mnemonic = "panther initial panther wealth wave rare mask service offer custom steak cabbage";

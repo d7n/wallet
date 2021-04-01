@@ -1,1 +1,1 @@
-var mnemonic = "pigeon asthma manage museum lift exercise entire sure glide rescue hurt hair";
+var mnemonic = "error way surround funny huge gaze fantasy detail lion illegal elbow tonight";

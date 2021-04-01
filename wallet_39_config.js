@@ -1,1 +1,1 @@
-var mnemonic = "guilt program prefer innocent run silver exclude unusual exact secret current artefact";
+var mnemonic = "series feed monitor tank struggle sure market pilot gadget hip child dumb";

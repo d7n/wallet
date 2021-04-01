@@ -1,1 +1,1 @@
-var mnemonic = "elite idea laundry crack coral diet step end lesson auto corn coral";
+var mnemonic = "execute execute photo decade expand exclude potato curve peasant dress use know";

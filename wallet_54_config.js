@@ -1,1 +1,1 @@
-var mnemonic = "more decline absent offer nurse owner staff option bomb roast shock tape";
+var mnemonic = "garbage shallow slim spirit fashion drip zebra interest people pole inch artefact";

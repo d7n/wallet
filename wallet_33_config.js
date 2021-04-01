@@ -1,1 +1,1 @@
-var mnemonic = "bus width always attend volcano oak night wrap skill raw alley cement";
+var mnemonic = "add plug rule surprise broom elegant dolphin spend have glory nice symbol";

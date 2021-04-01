@@ -1,1 +1,1 @@
-var mnemonic = "what duty thought rather trial chase gadget angle crawl tennis tooth pretty";
+var mnemonic = "rescue vacant memory differ reward prefer then vicious rubber alter barrel skirt";

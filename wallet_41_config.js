@@ -1,1 +1,1 @@
-var mnemonic = "juice recycle run adapt term echo garbage same estate wealth lunar enrich";
+var mnemonic = "brain seek muffin woman mention echo icon athlete hill live dove warfare";

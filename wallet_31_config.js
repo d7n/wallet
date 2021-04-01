@@ -1,1 +1,1 @@
-var mnemonic = "enjoy square success goddess time poem action payment tent inmate crash shuffle";
+var mnemonic = "chaos curious any estate pudding danger problem hen bulb come shiver length";

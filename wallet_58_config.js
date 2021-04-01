@@ -1,1 +1,1 @@
-var mnemonic = "survey illness you choice settle ginger worry phrase tray pulse royal mention";
+var mnemonic = "waste chuckle industry pattern six broom camera champion jump obscure mesh tribe";

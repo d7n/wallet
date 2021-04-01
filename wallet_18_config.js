@@ -1,1 +1,1 @@
-var mnemonic = "glass dream spoon dice wait sponsor illness random manual heart where moon";
+var mnemonic = "universe giggle aim embody park perfect online absent bargain raw punch build";

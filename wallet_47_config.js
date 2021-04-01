@@ -1,1 +1,1 @@
-var mnemonic = "calm bunker wagon vessel all nasty clever chase ghost dragon spend legend";
+var mnemonic = "brief decide buyer walnut perfect exit dumb obtain session brown march auto";

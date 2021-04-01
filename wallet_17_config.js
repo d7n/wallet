@@ -1,1 +1,1 @@
-var mnemonic = "cart boss mechanic diesel toast symptom post cushion capital write asset sugar";
+var mnemonic = "keep glide unfold vapor hospital opera nice visa ginger soldier dry aisle";

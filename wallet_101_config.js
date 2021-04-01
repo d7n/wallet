@@ -1,1 +1,1 @@
-var mnemonic = "funny cute genuine rose above luxury govern mass royal cotton antique giant";
+var mnemonic = "master expect path salad excite business sudden quote beef weapon scale unfair";

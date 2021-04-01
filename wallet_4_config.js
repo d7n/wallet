@@ -1,1 +1,1 @@
-var mnemonic = "brisk cash similar pelican net letter push plunge female quiz spoon blind";
+var mnemonic = "define soup pattern dash chaos recipe office unveil entry cart major wild";

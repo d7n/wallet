@@ -1,1 +1,1 @@
-var mnemonic = "eagle spoon viable slogan bird maze seat dinner gentle canal cable raccoon";
+var mnemonic = "enroll isolate buyer install attend level impulse toward gather hold lizard riot";

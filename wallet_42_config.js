@@ -1,1 +1,1 @@
-var mnemonic = "base fever skill garden bulb dwarf wrestle seven destroy project cradle august";
+var mnemonic = "rival soon original income angle wall focus fossil credit wink globe erosion";

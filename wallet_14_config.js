@@ -1,1 +1,1 @@
-var mnemonic = "pencil juice armor trophy giraffe winner noble wedding oak witness lottery rude";
+var mnemonic = "inmate matter blush excess mom easy bitter six govern rude clap steel";

@@ -1,1 +1,1 @@
-var mnemonic = "pass indicate rookie armed soccer sail knife dad little same mail nerve";
+var mnemonic = "disease kite steak burst oblige length small swallow cake expose civil unique";

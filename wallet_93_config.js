@@ -1,1 +1,1 @@
-var mnemonic = "wrist eyebrow modify arctic model can end rebel indicate frequent local peanut";
+var mnemonic = "puppy view elevator lawsuit river various angry bundle uncle because hamster side";

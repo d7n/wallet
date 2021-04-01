@@ -1,1 +1,1 @@
-var mnemonic = "coral action device rural bridge journey eager valley then nasty jealous over";
+var mnemonic = "prize maid board feel student flush focus convince adjust segment upset harsh";

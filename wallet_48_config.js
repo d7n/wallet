@@ -1,1 +1,1 @@
-var mnemonic = "index damage vibrant sheriff ready pony blossom jeans list leopard oak jungle";
+var mnemonic = "nominee argue advice people ahead verb noble double skate garlic eye track";

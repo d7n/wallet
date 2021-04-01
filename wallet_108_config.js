@@ -1,1 +1,1 @@
-var mnemonic = "music figure water spike oval address transfer scout ecology pumpkin start announce";
+var mnemonic = "gain owner wing tenant rifle typical thrive attack mixture surface similar pole";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson bleak dad donate rice royal indicate suffer deny predict floor loyal";
+var mnemonic = "guilt avocado jaguar shift theme pattern private chronic manual pattern satisfy can";

@@ -1,1 +1,1 @@
-var mnemonic = "increase below battle brass category fuel cover evidence afraid clerk okay clog";
+var mnemonic = "elephant palm run balance robust humor else merit biology favorite return salad";

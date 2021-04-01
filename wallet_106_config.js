@@ -1,1 +1,1 @@
-var mnemonic = "notice meadow credit wheel lumber rent ski sister trend crucial spend oblige";
+var mnemonic = "tent cinnamon midnight normal champion leg aerobic dawn urban spin wing double";

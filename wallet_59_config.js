@@ -1,1 +1,1 @@
-var mnemonic = "try near million main distance blind pole key paper phrase spice bundle";
+var mnemonic = "belt move suspect aim huge dawn doll six artwork base tourist roof";

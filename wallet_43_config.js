@@ -1,1 +1,1 @@
-var mnemonic = "one news area minute feel risk water hen blouse keen crucial gospel";
+var mnemonic = "kangaroo eight gadget crime tuition mixture buzz trend horror snack arch brisk";

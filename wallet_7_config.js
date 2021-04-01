@@ -1,1 +1,1 @@
-var mnemonic = "young noodle find increase bullet glory various jewel ocean orphan digital barely";
+var mnemonic = "clinic since motion author pet whip garbage baby fancy tape shine symbol";

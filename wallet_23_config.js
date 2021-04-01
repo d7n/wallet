@@ -1,1 +1,1 @@
-var mnemonic = "satisfy expand ranch prepare foam truly process quit attack else arch account";
+var mnemonic = "quit will clip depart cost glow lake write inflict truly knock fetch";

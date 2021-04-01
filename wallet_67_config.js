@@ -1,1 +1,1 @@
-var mnemonic = "stage account mesh shoot finish trip vessel media junior laugh assist settle";
+var mnemonic = "high kiwi ring link come opera canal visual sing payment sudden never";

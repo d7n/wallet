@@ -1,1 +1,1 @@
-var mnemonic = "bus impose keep machine genuine wool often mandate tonight roof sheriff orphan";
+var mnemonic = "prepare scissors envelope around crystal twenty office pumpkin fence sword until senior";

@@ -1,1 +1,1 @@
-var mnemonic = "fun return buffalo boring act mule soon frost install curtain warrior obscure";
+var mnemonic = "ship layer version roast jacket defy sign trap digital leopard very way";

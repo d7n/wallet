@@ -1,1 +1,1 @@
-var mnemonic = "salute voice find evoke describe mistake student salt echo tank feed settle";
+var mnemonic = "eyebrow kick grab jacket innocent frog rough husband riot try immune usual";

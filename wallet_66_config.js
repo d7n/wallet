@@ -1,1 +1,1 @@
-var mnemonic = "pitch number shop novel diagram helmet busy fish combine tone behave have";
+var mnemonic = "client street kit october misery stone broom kite shiver goat unknown attitude";

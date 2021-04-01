@@ -1,1 +1,1 @@
-var mnemonic = "master script grant banana canal citizen duty turkey throw stumble lyrics caught";
+var mnemonic = "surprise hero spatial tilt day nuclear ostrich peace moment rotate ride marine";

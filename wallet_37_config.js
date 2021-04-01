@@ -1,1 +1,1 @@
-var mnemonic = "cake rally lonely program glue east help absorb quote face culture easy";
+var mnemonic = "bike amount awake fuel uphold used also indoor crack grit genius sting";

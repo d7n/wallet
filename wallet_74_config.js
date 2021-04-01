@@ -1,1 +1,1 @@
-var mnemonic = "pepper basket icon west reunion uncover habit rose crash increase level shaft";
+var mnemonic = "stamp slab track auction nominee bounce mutual spider beauty prison deliver bronze";

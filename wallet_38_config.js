@@ -1,1 +1,1 @@
-var mnemonic = "melt maze mosquito supply foster energy ski desk venue dismiss normal nest";
+var mnemonic = "resemble onion armor sweet year van song choose lava soup hair photo";

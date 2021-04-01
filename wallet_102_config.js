@@ -1,1 +1,1 @@
-var mnemonic = "royal resemble eager dragon spring recall hip comic orchard mansion animal half";
+var mnemonic = "joke advice kitchen famous canal wish isolate trim session there cool run";

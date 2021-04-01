@@ -1,1 +1,1 @@
-var mnemonic = "carpet marble brass service brain kiwi census civil tortoise lens come upgrade";
+var mnemonic = "cliff dice fox unhappy butter scene offer mirror cereal speed parent stumble";

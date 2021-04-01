@@ -1,1 +1,1 @@
-var mnemonic = "suggest stumble filter useful hurdle tennis pipe lake error auction laptop provide";
+var mnemonic = "novel action myself inspire horse sun bleak retreat wrong subway recipe crystal";

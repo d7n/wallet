@@ -1,1 +1,1 @@
-var mnemonic = "goat hockey game coffee gauge jump game limit enough want oblige jump";
+var mnemonic = "champion used novel truly excess feed shift subway bachelor butter fame across";

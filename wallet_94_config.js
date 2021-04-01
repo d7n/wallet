@@ -1,1 +1,1 @@
-var mnemonic = "person divide field detect when panel between enjoy three fix seed ivory";
+var mnemonic = "innocent album crack spread spoil unit oil arena reveal stamp bar entire";

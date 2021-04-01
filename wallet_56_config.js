@@ -1,1 +1,1 @@
-var mnemonic = "split law wool silk core zone ramp devote dream broccoli stone jungle";
+var mnemonic = "steel prize differ barely faith inform marriage term hip property any glory";

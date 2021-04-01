@@ -1,1 +1,1 @@
-var mnemonic = "alone menu fat bread suffer monitor aunt conduct van sense book carbon";
+var mnemonic = "song flush humor mad vibrant struggle orbit document marine disagree spread kiss";

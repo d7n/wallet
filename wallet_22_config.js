@@ -1,1 +1,1 @@
-var mnemonic = "forum debate pool purse peasant infant goddess arrange first shallow obtain marine";
+var mnemonic = "cook toddler one trash garment feature oxygen obey turtle tube engine cluster";

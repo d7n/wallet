@@ -1,1 +1,1 @@
-var mnemonic = "mix cement jazz blast merit theme lens knee any tree parrot spring";
+var mnemonic = "utility hundred candy vendor swing march game wisdom plate churn make grocery";

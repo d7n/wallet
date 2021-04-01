@@ -1,1 +1,1 @@
-var mnemonic = "undo vivid repeat quit economy angle rubber zero annual sphere icon jelly";
+var mnemonic = "outer trick fun light ladder dog city another tree chronic cabin useful";

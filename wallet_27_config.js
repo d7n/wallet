@@ -1,1 +1,1 @@
-var mnemonic = "voice disease panic direct mind daughter guess guard taste excess finish praise";
+var mnemonic = "cable mechanic ticket ostrich oven scrap clump balance engine claim harsh walk";

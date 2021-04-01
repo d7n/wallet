@@ -1,1 +1,1 @@
-var mnemonic = "universe dream bitter club message quarter over rude erupt lemon tree sudden";
+var mnemonic = "stem output auction invest security glide ability drink promote spoil enact liar";

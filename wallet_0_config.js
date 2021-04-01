@@ -1,1 +1,1 @@
-var mnemonic = "nurse execute almost tide ill legal riot drill teach proof mask dentist";
+var mnemonic = "rich border kingdom soap pink common lottery come vast castle stable march";

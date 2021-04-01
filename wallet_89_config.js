@@ -1,1 +1,1 @@
-var mnemonic = "coin accident inner gun trigger grant view view cruise asset world kiss";
+var mnemonic = "wear nephew filter vault cost open ranch path bunker tonight marine lab";

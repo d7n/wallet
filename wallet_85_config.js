@@ -1,1 +1,1 @@
-var mnemonic = "wool weather planet boost concert clay artist ensure talent elephant drum satoshi";
+var mnemonic = "crack peanut hospital wool utility crush thing pipe essence teach bamboo around";

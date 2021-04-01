@@ -1,1 +1,1 @@
-var mnemonic = "topic stage safe sword work cube tribe smooth evoke impose gentle mad";
+var mnemonic = "twelve banana goat deer token jewel century agree liberty lonely piano elegant";

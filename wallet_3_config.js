@@ -1,1 +1,1 @@
-var mnemonic = "struggle pluck large physical donor alone cause cradle fence sport mixture cigar";
+var mnemonic = "vacuum faint year exile maze assist shop solid parrot swim helmet clock";

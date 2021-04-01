@@ -1,1 +1,1 @@
-var mnemonic = "person blade title attitude try wild more imitate practice door cupboard throw";
+var mnemonic = "glad adapt visual become number warrior truck solar hour program approve warm";

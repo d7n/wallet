@@ -1,1 +1,1 @@
-var mnemonic = "night mystery rate task slush patient treat grit fiber special squirrel toe";
+var mnemonic = "tunnel nut sausage sunset average favorite attract major flavor oblige arrest snack";

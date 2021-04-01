@@ -1,1 +1,1 @@
-var mnemonic = "job priority change unable thumb armed trust ready pitch law sense mention";
+var mnemonic = "syrup offer what height erase warm unfair manage sauce trade right spring";

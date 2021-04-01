@@ -1,1 +1,1 @@
-var mnemonic = "cruel grass novel crumble view almost neither oblige snap dash hair review";
+var mnemonic = "large violin exotic donor suggest expect sail master hollow warrior pet eagle";

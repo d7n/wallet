@@ -1,1 +1,1 @@
-var mnemonic = "suit curtain today fringe basic question cage guide wide between inject depend";
+var mnemonic = "miracle slide fame fox venue recall divert now knock afford fence opinion";

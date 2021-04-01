@@ -1,1 +1,1 @@
-var mnemonic = "prevent bright liar bulb float beauty victory bubble visit defy earn abstract";
+var mnemonic = "slab hockey swim bonus burden chapter armed warrior lock genius antenna next";

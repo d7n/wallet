@@ -1,1 +1,1 @@
-var mnemonic = "nut abuse timber next omit shuffle flat obey ripple trophy tomorrow ugly";
+var mnemonic = "chapter crowd another acid case steel opera input permit strong night lecture";

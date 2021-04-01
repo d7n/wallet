@@ -1,1 +1,1 @@
-var mnemonic = "regret poet punch fantasy abstract antique effort link beauty best tell dial";
+var mnemonic = "copper west unusual fork federal ceiling body abandon inform apart spike vapor";

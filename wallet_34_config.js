@@ -1,1 +1,1 @@
-var mnemonic = "parade black vital myth weird defense sibling organ exhaust ten fluid style";
+var mnemonic = "army spider fluid slogan punch turtle pig month sister walnut clerk harvest";

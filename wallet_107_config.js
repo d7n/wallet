@@ -1,1 +1,1 @@
-var mnemonic = "memory decline cheese supply eight whisper muscle plunge twist pair flame include";
+var mnemonic = "sting exchange world repair cigar toward fuel cook busy knee leopard float";

@@ -1,1 +1,1 @@
-var mnemonic = "urban curtain project lemon jaguar various burden million upon casino target claw";
+var mnemonic = "picnic laundry educate achieve supply enlist term this smoke brain sting vibrant";

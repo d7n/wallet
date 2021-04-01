@@ -1,1 +1,1 @@
-var mnemonic = "enough potato squirrel junior file leave route resource renew sure bike jeans";
+var mnemonic = "regret board spring south virus mom scrap spray dinosaur account dumb august";

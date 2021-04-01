@@ -1,1 +1,1 @@
-var mnemonic = "ketchup into return collect cement soap series exact recipe kangaroo season inflict";
+var mnemonic = "tilt series hill burger suit carpet obscure shop enter family arctic shock";

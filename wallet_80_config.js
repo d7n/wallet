@@ -1,1 +1,1 @@
-var mnemonic = "crew nasty winter multiply retire gaze any apology search notable blur rival";
+var mnemonic = "coach thank cabin jealous print hill clever truth total fire afraid laptop";

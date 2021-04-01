@@ -1,1 +1,1 @@
-var mnemonic = "assume major arrange detail crime pigeon people harvest plastic deliver live dynamic";
+var mnemonic = "sport alone bind mixture belt nurse escape always fit lab million portion";

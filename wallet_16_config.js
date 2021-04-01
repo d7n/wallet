@@ -1,1 +1,1 @@
-var mnemonic = "coin cloud hurt sing guitar sort mind quarter bargain spray inner find";
+var mnemonic = "day idea trumpet chase tortoise action defy tide fame arrange want olympic";

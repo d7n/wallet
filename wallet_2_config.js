@@ -1,1 +1,1 @@
-var mnemonic = "case embody seat also silent extra rice jar useless toddler tribe hospital";
+var mnemonic = "orbit yard nest remove mail glad debris furnace birth what profit artwork";

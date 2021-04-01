@@ -1,1 +1,1 @@
-var mnemonic = "fuel abstract depend mention dirt drill tank various scrub body dinosaur spike";
+var mnemonic = "design help gorilla snack crop section race fabric switch legend arch pitch";

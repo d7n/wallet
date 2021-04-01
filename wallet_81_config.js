@@ -1,1 +1,1 @@
-var mnemonic = "wisdom describe beach nose possible song speak version distance spider knee injury";
+var mnemonic = "achieve cook dress illegal climb verb apart night old venture alley track";

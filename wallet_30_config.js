@@ -1,1 +1,1 @@
-var mnemonic = "eagle motor wisdom jar pride zoo suffer rather front panda sentence feature";
+var mnemonic = "basket farm neither month monster episode cluster miracle manage fatal quiz wet";

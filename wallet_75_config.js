@@ -1,1 +1,1 @@
-var mnemonic = "rubber romance couch yellow rotate grape food flavor trap fall clarify onion";
+var mnemonic = "atom adult worry prevent away flower practice course raise leg excuse expire";

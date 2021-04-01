@@ -1,1 +1,1 @@
-var mnemonic = "neither melt coyote melody minimum master swarm sand year cause any truth";
+var mnemonic = "confirm gather develop sudden antenna elephant venture cinnamon sauce rice myth fiber";

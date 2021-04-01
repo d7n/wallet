@@ -1,1 +1,1 @@
-var mnemonic = "lonely abstract bring destroy enforce exhaust soldier kitten garbage law hybrid absurd";
+var mnemonic = "slow unable faculty remind scorpion volume clinic chest surface category donkey gospel";

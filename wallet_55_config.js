@@ -1,1 +1,1 @@
-var mnemonic = "stereo relief mixed torch cream often please correct cruise sugar mammal exercise";
+var mnemonic = "jaguar butter acquire opera faculty celery dirt nerve margin fault outside kangaroo";

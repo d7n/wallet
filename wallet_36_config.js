@@ -1,1 +1,1 @@
-var mnemonic = "provide feature carbon moral brain happy antenna rather gap mountain great gate";
+var mnemonic = "brisk betray ten among mushroom congress swing general young plug regret dust";

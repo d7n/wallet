@@ -1,1 +1,1 @@
-var mnemonic = "flash sock hat water shock light blush reform about robust scare crack";
+var mnemonic = "among dragon position logic enrich stage aware initial jump avoid fit unfold";

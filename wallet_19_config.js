@@ -1,1 +1,1 @@
-var mnemonic = "wash phone panther marble eight identify sponsor patient vehicle sustain science heart";
+var mnemonic = "car banana napkin custom pulse fork view nerve tide soap upset side";

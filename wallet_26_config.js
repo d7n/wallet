@@ -1,1 +1,1 @@
-var mnemonic = "decrease cinnamon elegant unable mandate journey naive merit parrot front congress grow";
+var mnemonic = "width leave birth resource clown kit essence employ exhaust arrow seat token";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise hand chalk luggage hill labor mosquito fun priority matter curtain slogan";
+var mnemonic = "figure theme sustain tattoo patrol light lock spider inner salon click boil";

@@ -1,1 +1,1 @@
-var mnemonic = "share patrol rebel life door sing crazy hope fiscal ancient ahead tray";
+var mnemonic = "payment tooth cousin clean click smoke kite depend daring there notable pretty";

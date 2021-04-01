@@ -1,1 +1,1 @@
-var mnemonic = "sustain describe maze sport lonely holiday abandon where silk excite limit roast";
+var mnemonic = "present hole kitchen lonely random panther social zero fox wisdom topic brief";

@@ -1,1 +1,1 @@
-var mnemonic = "kite trick sketch joke advice tornado pig property camp board rifle travel";
+var mnemonic = "confirm ghost paddle affair sleep patient spare aware butter awesome interest magnet";

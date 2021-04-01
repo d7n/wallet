@@ -1,1 +1,1 @@
-var mnemonic = "special conduct dog employ make battle harsh exhibit fruit fatal filter carpet";
+var mnemonic = "cry envelope retreat still turkey attend render toast gravity reason rubber sock";

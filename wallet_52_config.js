@@ -1,1 +1,1 @@
-var mnemonic = "hill atom ceiling exist predict language meadow buyer spell chair width auto";
+var mnemonic = "enhance umbrella obtain keen husband youth stage pepper summer tiger student about";

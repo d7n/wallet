@@ -1,1 +1,1 @@
-var mnemonic = "scheme great hope artefact method fever museum service keep gallery husband enlist";
+var mnemonic = "useless virtual assist apple sand mandate cluster wash digital baby fault avoid";

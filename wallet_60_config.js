@@ -1,1 +1,1 @@
-var mnemonic = "kick insane mom lab snap child bottom spike magnet design isolate regret";
+var mnemonic = "giraffe torch bracket short combine course mammal just unable cable antenna spare";

@@ -1,1 +1,1 @@
-var mnemonic = "rather harbor moment april burst company liberty approve tribe assist section people";
+var mnemonic = "walnut reason salt profit reveal modify pattern noodle slide mixture setup tooth";

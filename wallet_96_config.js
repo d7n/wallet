@@ -1,1 +1,1 @@
-var mnemonic = "offer park swallow gasp off total juice accuse cluster adapt grid property";
+var mnemonic = "merge income wage dinosaur mistake afford keen leave smart train vital kid";
