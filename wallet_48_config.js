@@ -1,1 +1,1 @@
-var mnemonic = "saddle great axis lawn basic accident worry alarm devote lumber join egg";
+var mnemonic = "aware awful science office cheese december celery cover share vote tuition circle";

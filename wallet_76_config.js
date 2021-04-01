@@ -1,1 +1,1 @@
-var mnemonic = "depth ancient wool grass old limit use body flower lawn swing about";
+var mnemonic = "crowd midnight mass enter domain space page stick decide domain copper demand";

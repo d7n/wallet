@@ -1,1 +1,1 @@
-var mnemonic = "angle enforce nurse energy cactus laugh limit private siege whisper label skill";
+var mnemonic = "drink brief abuse setup volume call actor gaze fun never seek zero";

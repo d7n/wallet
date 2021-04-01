@@ -1,1 +1,1 @@
-var mnemonic = "damage cabin tenant grow enjoy region acid olympic legend hurry utility nature";
+var mnemonic = "path explain tent cushion sting loop chronic metal donkey outside need dance";

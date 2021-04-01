@@ -1,1 +1,1 @@
-var mnemonic = "become reform panic notable inject whisper axis option legend river physical jacket";
+var mnemonic = "mercy message faculty antique junior often wedding pipe glove power bless praise";

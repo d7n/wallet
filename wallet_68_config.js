@@ -1,1 +1,1 @@
-var mnemonic = "quiz bargain cricket host among puzzle addict stable live stone plastic spy";
+var mnemonic = "steel hair cycle bind cereal leisure number mix high inherit common tube";

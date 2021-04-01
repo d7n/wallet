@@ -1,1 +1,1 @@
-var mnemonic = "essay wear arrive divorce witness sight clown jungle perfect bind mobile guard";
+var mnemonic = "need seminar equip expire lunch zero defense stable run lucky cable display";

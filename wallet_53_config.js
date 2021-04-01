@@ -1,1 +1,1 @@
-var mnemonic = "state woman casino catch they boss deny focus bubble banner cereal liar";
+var mnemonic = "sponsor blanket hurry airport hurry rural tattoo steak steel finish disagree odor";

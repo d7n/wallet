@@ -1,1 +1,1 @@
-var mnemonic = "need box paddle hedgehog bid reward diet play multiply tourist gospel auction";
+var mnemonic = "head today tilt broom clown extend clown hidden absorb satisfy apple body";

@@ -1,1 +1,1 @@
-var mnemonic = "size boil lion nasty naive black shock sample cup winner muffin captain";
+var mnemonic = "congress visa that fee beauty satoshi badge fold life define decline own";

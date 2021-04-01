@@ -1,1 +1,1 @@
-var mnemonic = "address ginger middle spread solid enrich defy teach system weasel siege garment";
+var mnemonic = "weekend fence dry episode exhaust term catch stadium expose outdoor route hat";

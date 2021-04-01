@@ -1,1 +1,1 @@
-var mnemonic = "news heart copper grid dry hair wrestle roast edit great tunnel tilt";
+var mnemonic = "position prosper inner until stool science general ethics asthma hybrid brave unable";

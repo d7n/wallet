@@ -1,1 +1,1 @@
-var mnemonic = "wide attend life oil true unknown world rain sail slush sleep unable";
+var mnemonic = "bright fun elder horn own nest fatigue swear dish office noodle lunch";

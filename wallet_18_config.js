@@ -1,1 +1,1 @@
-var mnemonic = "change bottom mixed reflect olympic nest forest charge present maximum curious height";
+var mnemonic = "spider either gaze wedding flower beyond you sunny exist chief observe brand";

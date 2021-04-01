@@ -1,1 +1,1 @@
-var mnemonic = "letter rude lazy alarm worth melody comfort boss order future delay aim";
+var mnemonic = "august math half melody very census dismiss burden auto coconut gap devote";

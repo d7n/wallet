@@ -1,1 +1,1 @@
-var mnemonic = "season enforce dinosaur marriage example twin short office trade pipe pull dwarf";
+var mnemonic = "under sting minute estate brush primary deny link vivid enforce push strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "room blame stock twist pattern vanish display round fold broccoli cluster initial";
+var mnemonic = "cradle know call over thing prize equal push note fortune occur physical";

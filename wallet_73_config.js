@@ -1,1 +1,1 @@
-var mnemonic = "album metal collect catch system onion alien cable ring tide sense skate";
+var mnemonic = "blame calm town float collect fluid comic window issue join unhappy about";

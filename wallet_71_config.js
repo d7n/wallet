@@ -1,1 +1,1 @@
-var mnemonic = "electric reduce wire announce embody party slush husband dutch glance antique dose";
+var mnemonic = "seminar castle keep range bless guide poet gift metal nice battle panther";

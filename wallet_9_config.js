@@ -1,1 +1,1 @@
-var mnemonic = "panel mimic stand game strategy identify copper stay salad tomorrow globe jealous";
+var mnemonic = "bar trash laptop sick essay agree account oval venture hundred funny inject";

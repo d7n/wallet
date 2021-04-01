@@ -1,1 +1,1 @@
-var mnemonic = "height custom clerk trade example glare write aspect segment tissue measure female";
+var mnemonic = "reward vague sea kitchen provide private receive leave jeans valley avoid ball";

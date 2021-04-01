@@ -1,1 +1,1 @@
-var mnemonic = "cook letter goat vicious culture flag brick uncle audit pattern erode wire";
+var mnemonic = "talent tomato custom response pact inquiry mushroom faculty poverty embody onion alert";

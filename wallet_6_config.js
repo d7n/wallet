@@ -1,1 +1,1 @@
-var mnemonic = "cheap actress glare bus kiss region sort island draw rocket random morning";
+var mnemonic = "soup human torch gate muscle swim during sorry chase spoil hammer twin";

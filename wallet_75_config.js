@@ -1,1 +1,1 @@
-var mnemonic = "hill audit furnace aware move company daring ceiling night cross brisk moral";
+var mnemonic = "patch foot village pink crystal course merge view dutch diet gasp stone";

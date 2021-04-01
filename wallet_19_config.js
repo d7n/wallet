@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur bounce squirrel quote bread height flag sad panel quantum fitness cluster";
+var mnemonic = "mule flower giraffe hero believe boil abandon produce mail teach column fever";

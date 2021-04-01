@@ -1,1 +1,1 @@
-var mnemonic = "focus actress body primary this strategy trash fever drop intact power gap";
+var mnemonic = "unit bicycle solar diamond example tiger priority behind fiber media lens acoustic";

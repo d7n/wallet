@@ -1,1 +1,1 @@
-var mnemonic = "pelican possible slight gentle maple senior regular affair bonus casino friend mass";
+var mnemonic = "noodle online rib hill orphan brain skin able spider prize syrup exist";

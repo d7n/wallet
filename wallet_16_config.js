@@ -1,1 +1,1 @@
-var mnemonic = "brown digital hood thank conduct choose world notice exact keen mistake outdoor";
+var mnemonic = "page peace affair grace match define badge custom stage label tank home";

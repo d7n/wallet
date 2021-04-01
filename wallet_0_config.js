@@ -1,1 +1,1 @@
-var mnemonic = "marriage cable sunny fat result grief used cover stereo edge grain topple";
+var mnemonic = "rack group denial bleak world swap doctor unfold age process issue vague";

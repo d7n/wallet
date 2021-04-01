@@ -1,1 +1,1 @@
-var mnemonic = "worth gorilla seminar unhappy asthma best lottery faith cruise reunion minimum easily";
+var mnemonic = "board once pill lake update approve access common napkin define thought mixed";

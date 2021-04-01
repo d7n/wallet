@@ -1,1 +1,1 @@
-var mnemonic = "exhaust acoustic wink always screen such field paddle fine divorce genre dad";
+var mnemonic = "payment behave summer biology staff coast amused side decline wish memory damage";

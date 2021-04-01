@@ -1,1 +1,1 @@
-var mnemonic = "great runway casual weekend then street kid home soap dizzy mind reopen";
+var mnemonic = "leaf seek depart oak bring impose ride enact humor someone frame resemble";

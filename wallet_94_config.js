@@ -1,1 +1,1 @@
-var mnemonic = "exhibit flash image claw boost ecology diet scene dance tone purity desert";
+var mnemonic = "priority rather expect innocent shop device wear exhaust tongue pistol urge amused";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual useless isolate duck spell sport neglect loop utility faculty dragon stove";
+var mnemonic = "table predict fortune eagle hidden resource left negative jewel mom finger narrow";

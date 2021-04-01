@@ -1,1 +1,1 @@
-var mnemonic = "initial planet situate still easily cube dragon senior protect exact blossom fee";
+var mnemonic = "wolf patrol envelope usual struggle plastic carbon frequent ginger laptop gesture pink";

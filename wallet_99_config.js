@@ -1,1 +1,1 @@
-var mnemonic = "long reflect hover afraid carbon risk lion echo wool relief off crucial";
+var mnemonic = "rural prevent pilot uniform child say tobacco pizza lawsuit fork sail arrive";

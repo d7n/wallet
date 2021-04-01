@@ -1,1 +1,1 @@
-var mnemonic = "news wagon erase ecology hotel side asthma word battle remain potato envelope";
+var mnemonic = "prize face put define control initial shoe cost wide mask cruise script";

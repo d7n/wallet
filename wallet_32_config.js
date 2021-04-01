@@ -1,1 +1,1 @@
-var mnemonic = "provide else lava polar cable water emerge need pass bottom sign wasp";
+var mnemonic = "deposit secret tumble found claw used dilemma shove hazard nature govern echo";

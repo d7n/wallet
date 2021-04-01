@@ -1,1 +1,1 @@
-var mnemonic = "want draw kitten blind february upgrade paper strategy fault abandon opera slide";
+var mnemonic = "various burst cover enter bright age path arch quality base session rubber";

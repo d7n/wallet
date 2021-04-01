@@ -1,1 +1,1 @@
-var mnemonic = "plunge corn chat culture clog shoe nice double ordinary purse fantasy child";
+var mnemonic = "avocado seminar mansion neutral leg human evolve swim crumble employ radar cupboard";

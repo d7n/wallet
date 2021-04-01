@@ -1,1 +1,1 @@
-var mnemonic = "bubble train kit foam chunk spoil degree orange airport disagree pudding amazing";
+var mnemonic = "mix liar seminar child apple off cousin water pyramid scene control panda";

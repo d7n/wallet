@@ -1,1 +1,1 @@
-var mnemonic = "beauty when two friend plug bomb shoot cradle impulse trash private leader";
+var mnemonic = "gather people holiday rent creek hour destroy zebra grace reward rule where";

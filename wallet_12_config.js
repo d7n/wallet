@@ -1,1 +1,1 @@
-var mnemonic = "tent perfect blood dinner category wisdom donkey robot secret thumb dress gate";
+var mnemonic = "thunder indoor sauce demand battle fringe stick remain frequent pipe spray cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition thank east angle dust comic web brass gesture crowd ancient strong";
+var mnemonic = "hood subway circle elegant between aunt around foil powder north pipe lock";

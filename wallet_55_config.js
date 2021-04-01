@@ -1,1 +1,1 @@
-var mnemonic = "october topic section dish grow frequent fluid load rice away seek atom";
+var mnemonic = "egg divide lucky special key mesh glue foot pull chair faculty tenant";

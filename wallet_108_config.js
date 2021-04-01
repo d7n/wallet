@@ -1,1 +1,1 @@
-var mnemonic = "travel skull will phrase jacket artefact state latin foot garlic honey attack";
+var mnemonic = "robot tray chunk view random custom help embark front entry rescue whale";

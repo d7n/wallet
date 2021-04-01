@@ -1,1 +1,1 @@
-var mnemonic = "brand arrive write music coin universe lunar menu cable grain normal similar";
+var mnemonic = "middle fragile rough hire believe trend volcano bounce first culture park maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden leave fame health jar lady decide dream foam loyal perfect abstract";
+var mnemonic = "shoot card slam theme unable excite become survey dice attract mass sustain";

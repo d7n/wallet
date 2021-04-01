@@ -1,1 +1,1 @@
-var mnemonic = "rally image peanut slim erode payment soon quit equal vibrant galaxy marriage";
+var mnemonic = "front expand spike bomb improve idea practice dignity phone prefer decline parade";

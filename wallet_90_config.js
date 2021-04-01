@@ -1,1 +1,1 @@
-var mnemonic = "casual chef provide chunk margin tortoise behave author imitate phone atom top";
+var mnemonic = "fault clutch advance dash slush fantasy blur elite coast bitter garbage cave";

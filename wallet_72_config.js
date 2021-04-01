@@ -1,1 +1,1 @@
-var mnemonic = "aisle current canvas together business advice congress tonight coral half jungle absorb";
+var mnemonic = "depth clean ahead pitch mango own melody donkey jaguar arch across ugly";

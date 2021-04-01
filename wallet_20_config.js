@@ -1,1 +1,1 @@
-var mnemonic = "clown segment display make night mean device skin day kitchen either hold";
+var mnemonic = "rate pelican decide fringe alcohol rotate ten wall bridge infant armor crucial";

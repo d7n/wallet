@@ -1,1 +1,1 @@
-var mnemonic = "ribbon explain cry aunt dynamic balcony season asthma game fitness lady ridge";
+var mnemonic = "health stomach pudding category rebuild reflect zebra tide stuff salmon alcohol veteran";

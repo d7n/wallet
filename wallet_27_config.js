@@ -1,1 +1,1 @@
-var mnemonic = "large minimum crack imitate pattern drastic ripple gauge neither canal soft use";
+var mnemonic = "pulp safe shiver utility appear frame cheap glass congress wisdom script aware";

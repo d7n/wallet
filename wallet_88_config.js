@@ -1,1 +1,1 @@
-var mnemonic = "faculty file sample tissue juice ecology police ceiling reduce crowd remember pizza";
+var mnemonic = "empty toddler nothing future bracket pottery mansion quality build dinosaur often slow";

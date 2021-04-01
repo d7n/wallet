@@ -1,1 +1,1 @@
-var mnemonic = "tomato castle bomb rival special habit arrow address trip mind sting medal";
+var mnemonic = "opinion place benefit december display stove leader tree green sail run input";

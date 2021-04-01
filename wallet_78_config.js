@@ -1,1 +1,1 @@
-var mnemonic = "tube protect curve clock stage power effort desk helmet country eyebrow great";
+var mnemonic = "kiwi fiscal talent tribe oven guitar inmate truth release now eternal caution";

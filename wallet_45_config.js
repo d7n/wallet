@@ -1,1 +1,1 @@
-var mnemonic = "aware barrel any august duty blush chronic advance stock crisp glory phone";
+var mnemonic = "blue harvest usage then hurdle margin bundle exchange recycle color winter rather";

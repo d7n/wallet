@@ -1,1 +1,1 @@
-var mnemonic = "bind kid nephew man face inherit trip deputy brown input decrease rebel";
+var mnemonic = "grocery dust hole flip level tank another elevator fury pigeon truck long";

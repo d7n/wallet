@@ -1,1 +1,1 @@
-var mnemonic = "setup hole baby attack pave snap camp accident plastic amused cotton outdoor";
+var mnemonic = "spring visit rent clog harvest slice please alter celery fragile acid during";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe bronze exit miss snack coconut shine setup fold artefact age annual";
+var mnemonic = "neglect shoot million length fresh universe base cluster poet ridge ramp law";

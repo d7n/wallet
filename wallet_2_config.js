@@ -1,1 +1,1 @@
-var mnemonic = "nut permit series disagree farm auto surround rhythm motor spice frost victory";
+var mnemonic = "view local ahead inspire normal mention lizard chimney destroy gadget wash holiday";

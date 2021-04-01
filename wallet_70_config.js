@@ -1,1 +1,1 @@
-var mnemonic = "size husband hospital envelope museum quit express order key elbow crawl pass";
+var mnemonic = "gaze analyst laptop police catalog deny luxury season almost syrup motor question";

@@ -1,1 +1,1 @@
-var mnemonic = "script amount across blade violin boss quarter slush surprise journey shuffle romance";
+var mnemonic = "lawsuit trust glove start junior soft search provide veteran volume expand usual";

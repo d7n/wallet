@@ -1,1 +1,1 @@
-var mnemonic = "bronze cruel fun kitten mechanic inform slam wine you have pride inform";
+var mnemonic = "risk ostrich hawk shadow promote rice rack salad cook easily announce dinner";

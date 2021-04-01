@@ -1,1 +1,1 @@
-var mnemonic = "wire rug match arrow garden develop capital scissors siege system december insect";
+var mnemonic = "replace business fossil since excess deposit artwork diamond luxury bulb diagram wool";

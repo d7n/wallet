@@ -1,1 +1,1 @@
-var mnemonic = "run junior warfare frog antique salute inject canoe exchange close whip enhance";
+var mnemonic = "gloom between also surprise diamond boring either carpet reflect physical early entry";

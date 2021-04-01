@@ -1,1 +1,1 @@
-var mnemonic = "obscure oil tackle armor credit seek minimum among sport famous fox approve";
+var mnemonic = "genre coconut yard piano lab elder heart battle enact eight account rate";

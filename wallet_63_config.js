@@ -1,1 +1,1 @@
-var mnemonic = "tortoise team adult oxygen kit exact gold fit polar quality hurt tower";
+var mnemonic = "merge across holiday hip waste ramp steak vote copper pond first farm";

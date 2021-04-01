@@ -1,1 +1,1 @@
-var mnemonic = "moon lava radio casual divert glance chuckle piano exhibit screen famous antenna";
+var mnemonic = "fresh stumble choice robust forget rhythm profit sad gospel course battle write";

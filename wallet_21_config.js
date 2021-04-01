@@ -1,1 +1,1 @@
-var mnemonic = "task boost join illness lunar puzzle brisk depend minute kangaroo half advice";
+var mnemonic = "vital ahead wood vanish sail also surround parrot gauge useful cute rocket";

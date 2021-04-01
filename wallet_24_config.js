@@ -1,1 +1,1 @@
-var mnemonic = "unable lesson dwarf board grunt indicate motion symbol lyrics love knock afraid";
+var mnemonic = "menu squirrel hire daughter match puzzle car conduct wine alert useful artist";

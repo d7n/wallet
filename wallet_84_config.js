@@ -1,1 +1,1 @@
-var mnemonic = "knock face shiver fabric gloom insect thumb voice shop quit window august";
+var mnemonic = "cry myth august boil debate carry steel bonus master dust few private";

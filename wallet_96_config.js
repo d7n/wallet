@@ -1,1 +1,1 @@
-var mnemonic = "upper junior adapt rose dirt second demand valve cat fiction science express";
+var mnemonic = "double nasty erupt wait predict youth lumber bridge nurse world unaware alter";

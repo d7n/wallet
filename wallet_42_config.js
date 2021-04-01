@@ -1,1 +1,1 @@
-var mnemonic = "whip fat history rose rack enemy oxygen safe truly husband hen muscle";
+var mnemonic = "jaguar apology wrestle prison avocado tobacco puppy pitch novel problem ankle coil";

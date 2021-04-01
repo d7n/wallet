@@ -1,1 +1,1 @@
-var mnemonic = "trip enter inquiry craft vintage scissors involve warrior become ketchup cave motion";
+var mnemonic = "hurt march stone adjust zero awful orient elder endless stem dizzy shaft";

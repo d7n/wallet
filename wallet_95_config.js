@@ -1,1 +1,1 @@
-var mnemonic = "copper rookie fiction soon drive roast topic radio alone goat random attract";
+var mnemonic = "chase liberty toilet uncle talk diet invest deer tide wasp crawl essence";

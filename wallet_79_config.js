@@ -1,1 +1,1 @@
-var mnemonic = "donate always wedding dog equip warfare use remember wood busy crime never";
+var mnemonic = "mystery copy tank pencil young more old educate inner wisdom thunder mansion";

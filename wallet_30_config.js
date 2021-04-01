@@ -1,1 +1,1 @@
-var mnemonic = "future birth fan way rival extend diamond film canoe across rough office";
+var mnemonic = "cake industry lumber soon social solar april outside barely lawn panther boy";

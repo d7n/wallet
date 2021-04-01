@@ -1,1 +1,1 @@
-var mnemonic = "demand confirm medal alter fiber deal bag urban vague danger project rack";
+var mnemonic = "actual rate cushion civil hill pond turtle speed once lamp ski then";

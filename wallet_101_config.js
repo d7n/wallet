@@ -1,1 +1,1 @@
-var mnemonic = "cry hybrid cute coin hammer hurdle comfort cute rely afford tennis wink";
+var mnemonic = "father tourist tonight middle route thank hurt swamp faint utility call urban";

@@ -1,1 +1,1 @@
-var mnemonic = "inner opinion action asthma country scissors answer dial margin recycle sunny clown";
+var mnemonic = "size inflict plate cloud upgrade mention trap blade vast damage garbage elephant";

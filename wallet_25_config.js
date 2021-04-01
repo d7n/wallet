@@ -1,1 +1,1 @@
-var mnemonic = "talk coast win spirit material bridge away soap toast smoke hello marble";
+var mnemonic = "renew patient hub rug credit oblige laugh earth garlic client leaf runway";

@@ -1,1 +1,1 @@
-var mnemonic = "captain barely weekend inch garlic awful blast flag dizzy desk hollow result";
+var mnemonic = "delay deposit win box rate differ copper advance globe jump critic appear";

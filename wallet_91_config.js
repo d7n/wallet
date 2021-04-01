@@ -1,1 +1,1 @@
-var mnemonic = "position grain endless city tongue renew scissors shaft candy ice sister desert";
+var mnemonic = "rent multiply boat point sibling rotate ride mixture artist artefact giant fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "wool sort excuse once swift female sniff stamp spare term possible weird";
+var mnemonic = "file crime cloth inner latin rare you dynamic club play novel then";

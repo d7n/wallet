@@ -1,1 +1,1 @@
-var mnemonic = "wall utility patrol metal breeze truly success athlete burst inner piano hire";
+var mnemonic = "honey insane trim multiply pull wing forward rug picture what palm insect";

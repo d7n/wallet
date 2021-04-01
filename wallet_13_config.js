@@ -1,1 +1,1 @@
-var mnemonic = "hip lazy sight legend sphere palm film nerve pattern warrior rich curious";
+var mnemonic = "wish lesson evil scale will kingdom raccoon popular subject produce audit find";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn uncover current ankle voice pull foster weird exclude faint dream strategy";
+var mnemonic = "chief surge hurt vocal trick tide push brass pipe track hamster flock";

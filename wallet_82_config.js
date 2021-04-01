@@ -1,1 +1,1 @@
-var mnemonic = "town rally tourist valley reject reopen rude raise eternal essence speed plug";
+var mnemonic = "buzz shock cradle amazing flash surface concert outside pyramid road retreat adapt";
