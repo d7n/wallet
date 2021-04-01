@@ -1,1 +1,1 @@
-var mnemonic = "luggage dial wing vendor ridge raven twist sustain general foster turn night";
+var mnemonic = "soccer kid mean crunch pulp flag forward emotion pilot circle safe cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "purse now inject attract crucial point exhaust fiber minimum shop gossip round";
+var mnemonic = "title suggest coil nasty grace own involve issue rain barely garbage save";

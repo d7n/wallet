@@ -1,1 +1,1 @@
-var mnemonic = "bargain spider alcohol arrest region boring clown skull lyrics march boost raw";
+var mnemonic = "dash ranch goddess stumble galaxy cousin layer suggest animal item depth buzz";

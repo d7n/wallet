@@ -1,1 +1,1 @@
-var mnemonic = "sorry size vacant dismiss habit dutch guilt tribe hammer claim prosper wall";
+var mnemonic = "palace pride teach mix misery bean buddy job love artefact lady nest";

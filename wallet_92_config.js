@@ -1,1 +1,1 @@
-var mnemonic = "hospital trophy stay surround manual swear pill clip combine elevator lawn boss";
+var mnemonic = "steak equip tourist unfold liar wrong multiply hidden gain enlist blast trophy";

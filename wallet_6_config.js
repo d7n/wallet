@@ -1,1 +1,1 @@
-var mnemonic = "nest depart scare taste peace behave unveil farm vapor village weapon student";
+var mnemonic = "wheel unit ceiling another since peanut mule pioneer buyer collect sea anger";

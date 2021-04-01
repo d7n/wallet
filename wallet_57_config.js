@@ -1,1 +1,1 @@
-var mnemonic = "sketch globe attack drift index gold allow razor soft tray elephant ghost";
+var mnemonic = "jealous case blood female high tiny easily jelly energy audit butter excuse";

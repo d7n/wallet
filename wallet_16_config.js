@@ -1,1 +1,1 @@
-var mnemonic = "web tunnel stock holiday hamster violin pear reduce million alter monitor tent";
+var mnemonic = "cradle reform evil another guilt mule canyon ketchup bless way diary collect";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce airport neck bunker tribe hen apart auction deliver unique december famous";
+var mnemonic = "melt unusual canvas inherit suggest rug tumble fashion seminar nature camp crush";

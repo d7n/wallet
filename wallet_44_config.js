@@ -1,1 +1,1 @@
-var mnemonic = "arena bomb warrior antenna soldier tone loud melt august venture match modify";
+var mnemonic = "winter want tree feel scatter option coin speed deputy wisdom album squirrel";

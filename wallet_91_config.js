@@ -1,1 +1,1 @@
-var mnemonic = "decorate pig hood tower sister thrive social purchase flavor crunch laundry ghost";
+var mnemonic = "hollow wagon error more jelly magic slab wet ladder nation suggest demise";

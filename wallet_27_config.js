@@ -1,1 +1,1 @@
-var mnemonic = "lady quarter order lemon expire cage history borrow begin burger suit face";
+var mnemonic = "tornado buyer food desk team rocket wrong cigar erode tortoise large wet";

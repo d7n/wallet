@@ -1,1 +1,1 @@
-var mnemonic = "spray belt elevator prison invest provide cloud flock finger million wolf hip";
+var mnemonic = "wreck inch spatial inch fetch arena nose attend tray detect balance deposit";

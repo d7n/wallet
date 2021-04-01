@@ -1,1 +1,1 @@
-var mnemonic = "buddy scrub speak panther total elite zero tail flight welcome tip want";
+var mnemonic = "join pen social rose avocado one spare idle twin waste detail mention";

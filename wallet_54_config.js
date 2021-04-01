@@ -1,1 +1,1 @@
-var mnemonic = "mesh begin broken tumble gauge minimum aware casino sting fence brand okay";
+var mnemonic = "patient similar roast service deliver license proud belt icon galaxy myth scale";

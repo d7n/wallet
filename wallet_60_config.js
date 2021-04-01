@@ -1,1 +1,1 @@
-var mnemonic = "sausage unknown glow orient select evidence senior adapt night today law armed";
+var mnemonic = "bargain festival casual dry vault pepper tree powder oyster resist profit obtain";

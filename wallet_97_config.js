@@ -1,1 +1,1 @@
-var mnemonic = "tone machine provide manual gesture rich certain panel sing garden task rubber";
+var mnemonic = "force great game neck say goddess awkward mistake soup satoshi vacant forward";

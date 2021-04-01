@@ -1,1 +1,1 @@
-var mnemonic = "great barrel dilemma ritual moon old fitness night enemy toilet couch viable";
+var mnemonic = "west cry jump park tree still rough bean repair solution rail access";

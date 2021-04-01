@@ -1,1 +1,1 @@
-var mnemonic = "fun search multiply tape bunker inform venue usual share tag kick find";
+var mnemonic = "melody whip lizard post ensure method swim grant doctor pioneer supreme chimney";

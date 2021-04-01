@@ -1,1 +1,1 @@
-var mnemonic = "bullet immune brush churn near one wage inflict civil witness embrace inner";
+var mnemonic = "choose ramp opera civil sauce park document inside arena input cigar inquiry";

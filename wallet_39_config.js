@@ -1,1 +1,1 @@
-var mnemonic = "host broken fence recipe april mad soap country shuffle hobby balance smart";
+var mnemonic = "desert picnic find borrow weapon allow trap toss price material coyote economy";

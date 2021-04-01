@@ -1,1 +1,1 @@
-var mnemonic = "bottom confirm fresh position video crowd congress sorry icon track muffin elegant";
+var mnemonic = "suggest vast between spoon one render secret evolve forum album scorpion noble";

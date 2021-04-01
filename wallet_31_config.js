@@ -1,1 +1,1 @@
-var mnemonic = "swim subway ocean stove pole adapt reject fruit bulb shine act luxury";
+var mnemonic = "life snake idea click game physical radio very dove weird close process";

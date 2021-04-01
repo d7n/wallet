@@ -1,1 +1,1 @@
-var mnemonic = "expire blame soda direct asset oblige trouble shaft good series sad senior";
+var mnemonic = "breeze alter mass round ridge pluck warfare kingdom unveil kid caution embark";

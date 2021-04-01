@@ -1,1 +1,1 @@
-var mnemonic = "liberty diamond shoe route oak hamster slice cabin sun slim pluck chase";
+var mnemonic = "memory interest recall place business easy brick ship riot acid unable suggest";

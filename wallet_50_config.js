@@ -1,1 +1,1 @@
-var mnemonic = "satoshi physical satoshi pupil park doctor teach embark ready ice dumb soda";
+var mnemonic = "boring walnut drip pupil core amazing laundry arrest always stadium peace eye";

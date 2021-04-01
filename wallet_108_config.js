@@ -1,1 +1,1 @@
-var mnemonic = "gravity salute boat lottery cherry ceiling direct ring convince square cargo paper";
+var mnemonic = "gadget hint poem sponsor hunt field ozone palace pole rule wagon figure";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow endorse used penalty bamboo tape people enroll cat priority awesome scorpion";
+var mnemonic = "glow large false outer annual pyramid visit word slim human idea spend";

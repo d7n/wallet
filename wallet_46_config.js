@@ -1,1 +1,1 @@
-var mnemonic = "fossil panic bulk faculty swarm stay toy liquid kidney acid melt detail";
+var mnemonic = "caught mixed prepare assault asthma clarify snack nature athlete survey abstract input";

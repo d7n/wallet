@@ -1,1 +1,1 @@
-var mnemonic = "advice total floor coach near theme ozone scorpion faculty hip shift cram";
+var mnemonic = "script ramp forest garbage other emotion excuse jar hub ethics chuckle dance";

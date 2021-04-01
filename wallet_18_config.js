@@ -1,1 +1,1 @@
-var mnemonic = "search receive silent effort tell clap kiss hole used attract annual stay";
+var mnemonic = "jacket scale code december harsh remind segment matter wheat drum alcohol toe";

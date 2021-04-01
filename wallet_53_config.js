@@ -1,1 +1,1 @@
-var mnemonic = "recipe truly other owner scale piano dwarf token purity mechanic crystal boost";
+var mnemonic = "announce private boil beyond equal hedgehog endorse client vivid bounce viable alien";

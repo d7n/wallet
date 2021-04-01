@@ -1,1 +1,1 @@
-var mnemonic = "bird lamp nut loud toilet erupt virtual detail busy hurry obey clap";
+var mnemonic = "estate parade any achieve dose ethics limit direct develop echo dress develop";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase away use fitness model local advice basic online peanut silk edge";
+var mnemonic = "mutual rare account fatigue shrimp render swift draft fragile current solar gap";

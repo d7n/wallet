@@ -1,1 +1,1 @@
-var mnemonic = "tank brush collect luggage trap option illegal village impose room response wheat";
+var mnemonic = "kite broken begin base tragic swallow spy disorder world shadow uncover round";

@@ -1,1 +1,1 @@
-var mnemonic = "online jeans jewel heavy case column blast display change burger express room";
+var mnemonic = "elbow ripple inhale romance lumber outer mail ramp person peasant payment benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "case ethics debris dirt segment original output divide empty victory chaos renew";
+var mnemonic = "swamp drama soap spoil bread fragile airport glare horse foam cinnamon hair";

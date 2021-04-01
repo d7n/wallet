@@ -1,1 +1,1 @@
-var mnemonic = "other inform faith biology home comfort insane wreck agent cabbage achieve trip";
+var mnemonic = "argue fragile enhance drop excuse digital asthma motor farm clump essay impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "pony wrong spy girl solve like stone often fiscal decorate argue discover";
+var mnemonic = "beef weather noodle mad play luxury clever exhibit index dolphin audit nothing";

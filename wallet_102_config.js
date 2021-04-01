@@ -1,1 +1,1 @@
-var mnemonic = "pact leader deputy quality defense cherry lava child twist tape sponsor chef";
+var mnemonic = "dawn develop stone shuffle axis secret track silent excuse wet move vote";

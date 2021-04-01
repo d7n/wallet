@@ -1,1 +1,1 @@
-var mnemonic = "veteran history card merge wool grape document public tumble yellow never maid";
+var mnemonic = "divide human february theory nut tongue market inside ride sniff rude close";

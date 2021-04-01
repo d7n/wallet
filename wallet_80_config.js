@@ -1,1 +1,1 @@
-var mnemonic = "drink work ripple priority crystal shine drip surround frown dinosaur valid discover";
+var mnemonic = "hazard crowd day multiply random raw yard sure picture cushion ring divide";

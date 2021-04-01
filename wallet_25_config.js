@@ -1,1 +1,1 @@
-var mnemonic = "exclude share palace theory hunt limit merge absorb arrive acoustic blast club";
+var mnemonic = "law unfair buddy acoustic marine also spot crouch stove country about sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage miracle spoon lottery business quick owner crazy mouse matrix name health";
+var mnemonic = "enemy gravity bracket clown hard junk ketchup demand spider refuse lazy hybrid";

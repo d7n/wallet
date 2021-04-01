@@ -1,1 +1,1 @@
-var mnemonic = "ocean anchor detect intact soon clay ribbon urban into scan gather prize";
+var mnemonic = "room magnet logic shock chat gain wheat ordinary describe wire never salon";

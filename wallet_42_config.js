@@ -1,1 +1,1 @@
-var mnemonic = "exhaust detect female meadow car slender surprise drive shrug elegant muscle olive";
+var mnemonic = "harbor mistake proof easily phrase two speed debris curve damp segment identify";

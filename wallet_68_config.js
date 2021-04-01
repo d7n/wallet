@@ -1,1 +1,1 @@
-var mnemonic = "tackle diamond delay impact assault stand actual habit almost immense olympic cinnamon";
+var mnemonic = "useful blanket drive hill maid act warfare state gospel upon hidden powder";

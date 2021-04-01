@@ -1,1 +1,1 @@
-var mnemonic = "false acoustic list vacuum where family cream second forward champion minor copy";
+var mnemonic = "brief jump that heavy youth pull brother marriage caught tackle post off";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel physical group agree please silver wolf soul game ripple timber survey";
+var mnemonic = "express promote profit field ranch damage casino ride proud van air army";

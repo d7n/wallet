@@ -1,1 +1,1 @@
-var mnemonic = "sense write dismiss alcohol nice remain what example arrest thumb hard nice";
+var mnemonic = "will curious job average trash odor method tip twice ride victory hamster";

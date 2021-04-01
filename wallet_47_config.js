@@ -1,1 +1,1 @@
-var mnemonic = "rich autumn inch enable forum kid two burden shaft culture uphold blossom";
+var mnemonic = "extra nuclear alcohol lucky ozone frequent affair round problem chunk tuna real";

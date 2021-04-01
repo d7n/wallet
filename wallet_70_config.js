@@ -1,1 +1,1 @@
-var mnemonic = "put toilet cushion harsh turkey member craft sort heavy catalog farm like";
+var mnemonic = "lawsuit catalog uphold royal mango plastic talk circle middle thought current blush";

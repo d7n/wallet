@@ -1,1 +1,1 @@
-var mnemonic = "young borrow frown bubble actress common mosquito tree pulp still screen torch";
+var mnemonic = "pulse wire usual network jar junk nominee cruise air gallery useful disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff glue slight guilt drive destroy twenty hub gain rough play table";
+var mnemonic = "frame loop exotic eagle unit bundle allow eternal dinosaur next tumble solar";

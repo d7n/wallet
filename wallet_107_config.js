@@ -1,1 +1,1 @@
-var mnemonic = "define unit acoustic mutual mutual neutral list shaft public crop lawn glue";
+var mnemonic = "century gather wine dose design camera blast vicious elevator monkey clever impact";

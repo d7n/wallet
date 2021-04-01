@@ -1,1 +1,1 @@
-var mnemonic = "song lion coconut ill major wide abuse shadow vacant obscure donate strike";
+var mnemonic = "hello cloud stove second fabric stick slogan blur text rally tattoo hand";

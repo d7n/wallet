@@ -1,1 +1,1 @@
-var mnemonic = "venture curve village omit elephant sponsor reduce coin angry about lend nurse";
+var mnemonic = "cargo amount agent hybrid coach mind emerge critic wife drama domain column";

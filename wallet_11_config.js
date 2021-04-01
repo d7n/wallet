@@ -1,1 +1,1 @@
-var mnemonic = "question rail old notice happy friend taxi tube short become food salt";
+var mnemonic = "outside begin gorilla staff situate captain gentle throw brief physical sun major";

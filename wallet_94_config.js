@@ -1,1 +1,1 @@
-var mnemonic = "mobile course real evoke olive saddle stamp document donor lamp innocent neutral";
+var mnemonic = "orient auction glue purse relax install junior diamond finish vintage devote rack";

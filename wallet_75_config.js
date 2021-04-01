@@ -1,1 +1,1 @@
-var mnemonic = "slow noodle label upgrade canvas glad candy erase industry smart west material";
+var mnemonic = "rotate peace trap dragon tree about negative area pencil hill guard valid";

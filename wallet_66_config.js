@@ -1,1 +1,1 @@
-var mnemonic = "profit orphan cinnamon company glance cross alpha harsh real submit tilt upset";
+var mnemonic = "rebuild gadget alone burst valve shop turkey anxiety front speed tool mercy";

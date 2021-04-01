@@ -1,1 +1,1 @@
-var mnemonic = "permit party media now million crew fan bench worry age close slight";
+var mnemonic = "sword vote memory ethics crater answer pull nerve jar price region joy";

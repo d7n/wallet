@@ -1,1 +1,1 @@
-var mnemonic = "frown wheel address cinnamon nephew auction often catalog solution globe ignore arrow";
+var mnemonic = "match lake repeat parade volcano sick energy uncover actress twelve dilemma steel";

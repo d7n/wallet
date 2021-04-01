@@ -1,1 +1,1 @@
-var mnemonic = "orbit river oxygen egg market trophy certain cattle news convince feed blue";
+var mnemonic = "claim attract famous bounce anxiety lady pumpkin harbor stick laundry bag spell";

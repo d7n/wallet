@@ -1,1 +1,1 @@
-var mnemonic = "thrive turkey pave canal saddle deny bacon purity short seven keep horn";
+var mnemonic = "rely iron famous combine hazard account birth sting jungle wife right obtain";

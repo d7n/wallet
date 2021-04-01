@@ -1,1 +1,1 @@
-var mnemonic = "erosion walnut slam puzzle prison govern sphere donor false rhythm laptop debate";
+var mnemonic = "monitor worry attitude will aim shoe casino flash pull final gaze core";

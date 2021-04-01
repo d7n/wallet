@@ -1,1 +1,1 @@
-var mnemonic = "carpet soup broccoli artist shadow minute mask wine romance trade catch rent";
+var mnemonic = "blossom grace icon bike accident share consider ahead father tornado bread century";

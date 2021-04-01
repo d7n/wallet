@@ -1,1 +1,1 @@
-var mnemonic = "indicate dune meadow left curve fringe either faint purse there letter horn";
+var mnemonic = "lawn mix rubber erase man hover squirrel tunnel start gadget grace draft";

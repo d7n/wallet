@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow hurry process fish elder airport sponsor island glove erupt south armed";
+var mnemonic = "uniform nuclear law risk toddler forget exit head add hood typical resource";

@@ -1,1 +1,1 @@
-var mnemonic = "worth pair model satisfy soup organ relax layer legend buddy school sad";
+var mnemonic = "denial busy shop busy split luggage brass kangaroo wire lake sample street";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil opera motor path edit adapt arrow arrange impulse throw giggle lab";
+var mnemonic = "century fortune sudden run elite lunar draw film doll pet device else";

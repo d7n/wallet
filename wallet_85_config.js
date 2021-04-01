@@ -1,1 +1,1 @@
-var mnemonic = "bachelor then come blind buffalo lamp inquiry nephew mimic saddle left prevent";
+var mnemonic = "harsh picture replace crunch bubble mesh jungle lesson evolve wine length fine";

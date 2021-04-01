@@ -1,1 +1,1 @@
-var mnemonic = "very one omit reunion mom erode quarter gas become announce truck warm";
+var mnemonic = "time digital gift explain rely garment anger dad ritual essay obscure clay";

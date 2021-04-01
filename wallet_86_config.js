@@ -1,1 +1,1 @@
-var mnemonic = "strike defense armor repeat visit useless check arch small talent mad tuition";
+var mnemonic = "invest involve laugh genre net tide strong version enlist tent derive easily";

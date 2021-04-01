@@ -1,1 +1,1 @@
-var mnemonic = "belt give critic such ancient riot buffalo title hole quality dose typical";
+var mnemonic = "repeat marriage disease waste another warfare isolate dumb mercy rotate struggle cream";

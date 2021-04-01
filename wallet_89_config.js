@@ -1,1 +1,1 @@
-var mnemonic = "exhibit unique grid physical arrange album rival table shuffle pitch ketchup perfect";
+var mnemonic = "coin explain soap nominee oven tiger input faint differ december liar response";

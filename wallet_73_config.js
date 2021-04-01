@@ -1,1 +1,1 @@
-var mnemonic = "rough control steel episode vibrant snake original leader way suggest pilot cube";
+var mnemonic = "target garage diamond element refuse river glue faculty pretty opinion practice garage";

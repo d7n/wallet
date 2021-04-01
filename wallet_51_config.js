@@ -1,1 +1,1 @@
-var mnemonic = "victory brush rule heavy index brand book alter smile sketch talent alone";
+var mnemonic = "point perfect pizza uncle wood excite purpose country moment local food grocery";

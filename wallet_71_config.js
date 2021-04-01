@@ -1,1 +1,1 @@
-var mnemonic = "voice wage law wrong army grief defy avocado giant require will region";
+var mnemonic = "kangaroo raccoon minimum clip spice confirm right win apology boil focus pluck";

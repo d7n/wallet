@@ -1,1 +1,1 @@
-var mnemonic = "exotic learn wood virus trigger double mail motor dismiss bone badge place";
+var mnemonic = "require primary goddess party morning essence tobacco valley company fat stable toward";

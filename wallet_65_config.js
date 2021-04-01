@@ -1,1 +1,1 @@
-var mnemonic = "parade nephew solid ritual fix valve vibrant suspect run october mandate rescue";
+var mnemonic = "shift patch mobile pool city color patch license volume thrive hip minor";

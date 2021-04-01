@@ -1,1 +1,1 @@
-var mnemonic = "intact tortoise museum rabbit genuine shrimp inside broccoli pear dog element write";
+var mnemonic = "box decide glory noble canyon stumble oblige trigger razor broom rice vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "curve ill lyrics banner spread scissors cruise beauty obscure decorate layer iron";
+var mnemonic = "puzzle glance start grocery peasant cannon nerve myself leg vendor rural wrestle";

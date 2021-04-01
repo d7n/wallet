@@ -1,1 +1,1 @@
-var mnemonic = "fat cheese year cruel art occur where glide peasant web visit train";
+var mnemonic = "swear sand calm medal waste ahead position neutral inside umbrella again scatter";

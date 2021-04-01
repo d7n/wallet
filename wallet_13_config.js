@@ -1,1 +1,1 @@
-var mnemonic = "face betray rhythm faint trust brave year east hidden above quick immune";
+var mnemonic = "thank menu muscle quarter timber fetch matter lake raven deal equal glad";

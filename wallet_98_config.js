@@ -1,1 +1,1 @@
-var mnemonic = "dawn quit hill skill cry exhibit rather nature level angle open top";
+var mnemonic = "second hockey shove swing army inside dose off pole warfare orphan minimum";
