@@ -1,1 +1,1 @@
-var mnemonic = "cave vacuum light acoustic country zone arrest aspect siege become keep universe";
+var mnemonic = "toast enjoy famous witness bless bus diet tape aspect impact bench trust";

@@ -1,1 +1,1 @@
-var mnemonic = "history motion eagle someone phrase absorb enough page mesh library pelican wagon";
+var mnemonic = "actor rail child pledge evil picnic define fuel shy song easily magnet";

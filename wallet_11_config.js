@@ -1,1 +1,1 @@
-var mnemonic = "elite profit trigger found catalog grid blue come average south citizen crouch";
+var mnemonic = "rookie devote piece stairs feed clock enroll melt world virtual exercise slow";

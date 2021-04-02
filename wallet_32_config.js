@@ -1,1 +1,1 @@
-var mnemonic = "deny large chronic wife boss crack replace pulse again fit random fortune";
+var mnemonic = "that tribe flight choose biology winner brisk become burden van private recipe";

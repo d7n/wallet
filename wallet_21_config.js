@@ -1,1 +1,1 @@
-var mnemonic = "annual educate subject concert cloud corn edge more exhaust whip main hidden";
+var mnemonic = "country owner decrease keep vault globe captain fame job home unable noise";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain panel volume equal brass creek raise custom cattle certain gain attend";
+var mnemonic = "balance enable virtual twenty bike skin never nest dinner cake insect utility";

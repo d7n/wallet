@@ -1,1 +1,1 @@
-var mnemonic = "inherit legend jungle time project drink magnet spider estate food giggle food";
+var mnemonic = "ten nut final diamond inside merry entire option useful wonder fence ten";

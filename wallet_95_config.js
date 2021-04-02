@@ -1,1 +1,1 @@
-var mnemonic = "dish manual loud mimic figure valve coyote hill grant exhaust employ budget";
+var mnemonic = "message exile tool exchange hello slide genre display face twist prevent uncle";

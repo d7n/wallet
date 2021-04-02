@@ -1,1 +1,1 @@
-var mnemonic = "capital neutral hockey eight toward tennis expect super bamboo weird exclude twenty";
+var mnemonic = "amused symptom solution venture light bar pilot volcano icon cousin page smart";

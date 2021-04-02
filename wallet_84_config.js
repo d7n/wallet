@@ -1,1 +1,1 @@
-var mnemonic = "smile evoke fee welcome clip cheap marble observe slush runway zone name";
+var mnemonic = "enjoy divide pipe attitude music away adapt broken list artist duty true";

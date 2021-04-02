@@ -1,1 +1,1 @@
-var mnemonic = "lunar track position foot then ensure fade okay claw fiction jeans analyst";
+var mnemonic = "sunset student dress dinosaur inside term verify stage simple sell steel hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut brown injury merry pretty snap horse witness silver practice swarm vocal";
+var mnemonic = "surge razor science rebel crunch coin stamp grain oval slight veteran uphold";

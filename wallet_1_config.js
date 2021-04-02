@@ -1,1 +1,1 @@
-var mnemonic = "choice absent under film chef bind monkey build during dice poverty pulp";
+var mnemonic = "include lock old uncover cliff peanut net chalk cross under oppose spell";

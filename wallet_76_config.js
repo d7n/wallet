@@ -1,1 +1,1 @@
-var mnemonic = "lawn suit clock angry resemble tobacco sweet author lumber unveil spoon sunny";
+var mnemonic = "father diagram sea birth dwarf price ankle culture leisure marble flip parent";

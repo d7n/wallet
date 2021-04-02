@@ -1,1 +1,1 @@
-var mnemonic = "certain april dwarf same unable speed duck author increase bottom scale fabric";
+var mnemonic = "address vehicle illness expire silk they control veteran end clerk pepper pilot";

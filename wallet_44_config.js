@@ -1,1 +1,1 @@
-var mnemonic = "coil damp chief forest champion project bench media differ banner hold guilt";
+var mnemonic = "bitter predict height try such pilot all shine spot essay damp stand";

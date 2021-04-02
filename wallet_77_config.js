@@ -1,1 +1,1 @@
-var mnemonic = "deliver pass drink puppy quick world elite dust pulse magnet buyer lazy";
+var mnemonic = "judge inflict column magnet fashion mixed sustain distance little track text agent";

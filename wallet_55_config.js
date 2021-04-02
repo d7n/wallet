@@ -1,1 +1,1 @@
-var mnemonic = "intact math notable can destroy increase friend olympic umbrella good double brave";
+var mnemonic = "night fire craft laugh sister reopen scorpion arrest ridge cost fiber fatal";

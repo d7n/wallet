@@ -1,1 +1,1 @@
-var mnemonic = "fiscal galaxy pistol dutch toy tell shop regret sibling scare hundred blind";
+var mnemonic = "depend mushroom vendor pear fury mountain foster episode ketchup wreck judge rescue";

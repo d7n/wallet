@@ -1,1 +1,1 @@
-var mnemonic = "tenant cricket cabin wrist knock beyond bronze stadium buyer robust profit brief";
+var mnemonic = "picnic addict taste flight rhythm media ill coast raise draft dash man";

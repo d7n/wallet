@@ -1,1 +1,1 @@
-var mnemonic = "matter assist snow address happy industry vessel drive shield nose swim noise";
+var mnemonic = "purity embark found scrub visual dial vital asset broccoli give eyebrow spoil";

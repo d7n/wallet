@@ -1,1 +1,1 @@
-var mnemonic = "illegal dune wall wide icon cricket wall crumble disorder fly glow agree";
+var mnemonic = "fatigue thrive alert vapor excite topple coyote alone pen tiger chef quarter";

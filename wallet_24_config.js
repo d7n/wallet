@@ -1,1 +1,1 @@
-var mnemonic = "then behave sock observe retreat sphere reward bacon boy sort employ bomb";
+var mnemonic = "lawn polar zoo safe like magic asset kind daring brain crazy galaxy";

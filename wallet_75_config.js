@@ -1,1 +1,1 @@
-var mnemonic = "circle wonder wine flame much muffin hedgehog neither school child bunker suit";
+var mnemonic = "involve excite wire sell film address tank guard turn suit forest grit";

@@ -1,1 +1,1 @@
-var mnemonic = "mother core blush heavy receive decline orphan resource success near object token";
+var mnemonic = "digital elegant soul lion hedgehog expire fiction cash cannon husband slush undo";

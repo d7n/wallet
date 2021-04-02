@@ -1,1 +1,1 @@
-var mnemonic = "saddle antenna ivory mail social vacuum thought unhappy timber firm fall monster";
+var mnemonic = "hold shiver sample frequent anchor olive satisfy magic grit law evil banner";

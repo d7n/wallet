@@ -1,1 +1,1 @@
-var mnemonic = "expand hollow gaze pact buffalo stone rent egg project trap abstract immense";
+var mnemonic = "grief legal always setup mango hat card sustain meat torch slam bonus";

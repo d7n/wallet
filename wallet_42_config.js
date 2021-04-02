@@ -1,1 +1,1 @@
-var mnemonic = "assume execute display anxiety faith trend permit omit swamp wire error buyer";
+var mnemonic = "crop improve alter snack canal sword shrimp mandate million silly sense lamp";

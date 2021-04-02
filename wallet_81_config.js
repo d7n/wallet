@@ -1,1 +1,1 @@
-var mnemonic = "penalty doll atom mansion zero barrel fresh scare prize dynamic forum vacuum";
+var mnemonic = "hour practice grace coffee bounce school room cousin crack interest party wagon";

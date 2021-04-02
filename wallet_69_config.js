@@ -1,1 +1,1 @@
-var mnemonic = "audit predict envelope athlete knock scorpion tennis fringe symbol bone gate change";
+var mnemonic = "rose nothing flavor hurry survey oblige mammal edit zebra nerve about muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge heavy dignity puppy glare motion butter pumpkin settle together awake sponsor";
+var mnemonic = "biology educate defense sleep prevent limit model humble cruel market raise hair";

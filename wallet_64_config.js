@@ -1,1 +1,1 @@
-var mnemonic = "wear initial enhance degree famous program student input opinion garbage outside milk";
+var mnemonic = "marine crouch aerobic ignore slim grape average unaware various angle other index";

@@ -1,1 +1,1 @@
-var mnemonic = "normal poem panda weather hockey during bomb loan assist feed charge filter";
+var mnemonic = "choose sentence screen spring walk van close confirm unaware dwarf travel fantasy";

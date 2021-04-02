@@ -1,1 +1,1 @@
-var mnemonic = "weekend opinion stand tribe salad boost camera door solution mammal nothing flavor";
+var mnemonic = "strong green cricket boost earn share pink sure focus dawn crash pluck";

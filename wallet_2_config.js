@@ -1,1 +1,1 @@
-var mnemonic = "key nephew dizzy joy resist hazard hunt know boss water game air";
+var mnemonic = "parent cushion slab nuclear idea ugly blanket gun rude resource leader bus";

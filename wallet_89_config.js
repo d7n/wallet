@@ -1,1 +1,1 @@
-var mnemonic = "game scissors useful stone wrong canvas deposit hub title timber tuition invest";
+var mnemonic = "lock sun shield echo morning pass argue disorder slide claw stock inhale";

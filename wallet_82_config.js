@@ -1,1 +1,1 @@
-var mnemonic = "outdoor real vote suit unfold allow brain asthma resemble achieve carry copy";
+var mnemonic = "common receive round spatial sunset owner panda reduce reform number deliver scale";

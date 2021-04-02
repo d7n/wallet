@@ -1,1 +1,1 @@
-var mnemonic = "ice infant ignore cute true voice lecture crystal seminar object retire pudding";
+var mnemonic = "vintage easily fold sock express cash steak income cushion claw burden garden";

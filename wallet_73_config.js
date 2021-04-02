@@ -1,1 +1,1 @@
-var mnemonic = "upset rich logic crawl like crop radar cactus much pizza tray office";
+var mnemonic = "length screen prison gallery guess man dentist network phrase party early travel";

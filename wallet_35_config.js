@@ -1,1 +1,1 @@
-var mnemonic = "whip feature spot rubber develop food trial cradle valley movie urge dream";
+var mnemonic = "village control grid wisdom insane process fold about wrap oxygen price frequent";

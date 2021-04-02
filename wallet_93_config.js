@@ -1,1 +1,1 @@
-var mnemonic = "tragic crucial wrap hope ankle capable need surface sea claw brain lend";
+var mnemonic = "human decide unknown harbor solution network spice smile salute various asthma city";

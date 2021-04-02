@@ -1,1 +1,1 @@
-var mnemonic = "crucial foil dance escape laugh refuse pipe come old ethics smart promote";
+var mnemonic = "stock fox unlock skill tower wire notable aerobic drink material comic echo";

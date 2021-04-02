@@ -1,1 +1,1 @@
-var mnemonic = "winner resist sense angle breeze kick regret tackle arena also novel ritual";
+var mnemonic = "refuse eternal quit chaos whisper crouch tortoise sail hammer angry urge marriage";

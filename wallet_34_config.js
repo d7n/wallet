@@ -1,1 +1,1 @@
-var mnemonic = "hill jungle fee neck skill sunset denial fruit tone intact special avoid";
+var mnemonic = "voyage assume essence treat round salmon tip release erupt punch document pig";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit fog quiz fetch demand slam dune myself walnut fantasy laundry order";
+var mnemonic = "crop jealous oven power local robust buddy donate impose cabbage wisdom input";

@@ -1,1 +1,1 @@
-var mnemonic = "divert damp verb supreme useless exchange define bench sweet leisure priority estate";
+var mnemonic = "click similar thrive grunt agent sister defense behind carpet army marble south";

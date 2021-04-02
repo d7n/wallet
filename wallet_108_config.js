@@ -1,1 +1,1 @@
-var mnemonic = "online explain sustain miss guitar minimum wedding trade warrior doll try garden";
+var mnemonic = "often patrol spot grid zoo health area since forget debate inform someone";

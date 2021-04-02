@@ -1,1 +1,1 @@
-var mnemonic = "toilet quick chapter since manual dial end exhaust field inch solution use";
+var mnemonic = "drive anxiety toddler man toward page problem hood enemy permit leopard relief";

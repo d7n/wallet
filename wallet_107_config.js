@@ -1,1 +1,1 @@
-var mnemonic = "sustain poet city scare impose hospital famous bullet thought loop pig north";
+var mnemonic = "simple dragon sample hammer banana razor rotate waste picture remind solar marriage";

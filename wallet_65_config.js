@@ -1,1 +1,1 @@
-var mnemonic = "sport crawl mercy rather gate field exclude leisure club canal away confirm";
+var mnemonic = "reform helmet blur voyage ivory embody burger fresh slot episode space slight";

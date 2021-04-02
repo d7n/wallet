@@ -1,1 +1,1 @@
-var mnemonic = "burger gaze base wheat palace omit problem wet explain lounge piano jump";
+var mnemonic = "mix deliver speak method limb kiwi below worth stem acquire ribbon three";

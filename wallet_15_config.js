@@ -1,1 +1,1 @@
-var mnemonic = "cart detail equip drum angry wall curtain question oval focus breeze drip";
+var mnemonic = "genre monitor foam law tumble moment approve human okay law filter enemy";

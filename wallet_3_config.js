@@ -1,1 +1,1 @@
-var mnemonic = "brass chair edge trap elegant glove cool high original auction puppy upon";
+var mnemonic = "runway gap actress depart quit hurdle wire range garlic accuse label hedgehog";

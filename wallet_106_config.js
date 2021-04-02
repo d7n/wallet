@@ -1,1 +1,1 @@
-var mnemonic = "solid marine negative palace recipe apple soda banner express napkin armed fine";
+var mnemonic = "wild entry film gate acquire robot nasty novel man tail slush render";

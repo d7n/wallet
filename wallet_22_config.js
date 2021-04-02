@@ -1,1 +1,1 @@
-var mnemonic = "addict butter dust oppose fix keep veteran woman room student track wear";
+var mnemonic = "silly coach twist wasp rescue present random body ketchup enough bone cool";

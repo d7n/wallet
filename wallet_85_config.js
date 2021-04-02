@@ -1,1 +1,1 @@
-var mnemonic = "service pelican surface combine child cigar imitate aerobic anxiety noodle grit shove";
+var mnemonic = "degree jewel post moral bone pupil grain off gas grace tide spatial";

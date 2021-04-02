@@ -1,1 +1,1 @@
-var mnemonic = "mystery special peace wood dismiss wood answer medal guilt exhaust camp what";
+var mnemonic = "pride casino mosquito ostrich paper hunt lonely casino right risk solve mom";

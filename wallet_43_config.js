@@ -1,1 +1,1 @@
-var mnemonic = "absurd fiber reward spray result round knife retreat click weekend rude expose";
+var mnemonic = "burst sound lake adapt load pause scissors woman water offer truly still";

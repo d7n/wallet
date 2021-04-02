@@ -1,1 +1,1 @@
-var mnemonic = "estate purse long never best shoot race coyote thunder olive decorate agent";
+var mnemonic = "torch arm cash rich cupboard dance pattern orchard mouse viable vacant enable";

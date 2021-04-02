@@ -1,1 +1,1 @@
-var mnemonic = "produce mammal depend core token track stable ring color tackle miss piece";
+var mnemonic = "seven pluck often gentle craft connect age present avoid side lab mule";

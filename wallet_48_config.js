@@ -1,1 +1,1 @@
-var mnemonic = "push modify battle ahead salmon forward meadow inject gather lock toy obey";
+var mnemonic = "sunset load amateur direct patient season acoustic require cart fame memory offer";

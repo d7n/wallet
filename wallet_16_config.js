@@ -1,1 +1,1 @@
-var mnemonic = "hollow skill flip ridge injury science hamster keen hero pet motor chronic";
+var mnemonic = "almost suit twenty shove supreme dentist acid win clever sick brass lava";

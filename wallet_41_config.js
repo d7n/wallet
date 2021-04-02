@@ -1,1 +1,1 @@
-var mnemonic = "liar spoon hammer feel laptop abuse vendor sheriff club jungle cruise illegal";
+var mnemonic = "gallery morning possible choice clay myself render erode flat situate shadow position";

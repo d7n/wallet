@@ -1,1 +1,1 @@
-var mnemonic = "good rate mandate moon puppy child stool address illness say buffalo inherit";
+var mnemonic = "hamster search book peanut call account alone wing glare senior oak dash";

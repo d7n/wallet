@@ -1,1 +1,1 @@
-var mnemonic = "advance very life surprise lab antenna goddess hobby mango punch concert flight";
+var mnemonic = "chicken barely minute defy winner option left mule clock assume book actress";

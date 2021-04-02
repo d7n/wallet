@@ -1,1 +1,1 @@
-var mnemonic = "outside silver sail walk craft human burger bounce kid ramp beef become";
+var mnemonic = "bus speed stool harvest erase labor silly comic result furnace wide monitor";

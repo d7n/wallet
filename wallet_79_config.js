@@ -1,1 +1,1 @@
-var mnemonic = "situate involve diet hour job wrap mercy alley follow tortoise nominee vacant";
+var mnemonic = "repeat practice vacant scale fever devote lake sudden hello cruel clean boss";

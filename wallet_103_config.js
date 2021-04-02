@@ -1,1 +1,1 @@
-var mnemonic = "rose dragon pioneer tent off mutual agree usual kidney brown figure august";
+var mnemonic = "mom reduce fiction pioneer ball hawk drift release sentence ribbon proud jump";

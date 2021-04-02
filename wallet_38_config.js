@@ -1,1 +1,1 @@
-var mnemonic = "suggest midnight human project balance aunt want relief wide lemon supply fold";
+var mnemonic = "potato museum harvest garage bridge hockey hobby spatial matrix ill attitude picture";

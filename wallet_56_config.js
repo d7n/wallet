@@ -1,1 +1,1 @@
-var mnemonic = "miracle second bargain wheat snake betray thrive swamp oppose crack pulse brain";
+var mnemonic = "bridge bike enhance slab exotic limit analyst resist elbow bomb art erode";

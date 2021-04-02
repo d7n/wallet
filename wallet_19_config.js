@@ -1,1 +1,1 @@
-var mnemonic = "smile depend zero offer dawn night acquire harsh whale pioneer lobster nurse";
+var mnemonic = "stage reopen club voice lawn apart question swift example gold elephant erupt";

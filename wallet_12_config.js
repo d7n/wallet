@@ -1,1 +1,1 @@
-var mnemonic = "toy endless toy boy gap amused sand high mass brief clump since";
+var mnemonic = "crop trophy arrest toilet churn actress borrow start junk fatal marble usual";

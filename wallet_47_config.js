@@ -1,1 +1,1 @@
-var mnemonic = "squeeze rotate talk dismiss floor village vicious monster tragic morning scrap adjust";
+var mnemonic = "nation tongue dry forum foot universe recall island jump equal vintage special";

@@ -1,1 +1,1 @@
-var mnemonic = "truth link capital talent session solve more auto robot reject gaze enter";
+var mnemonic = "atom divide wheat alpha series marble tissue quantum force excess public library";

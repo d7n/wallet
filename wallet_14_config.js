@@ -1,1 +1,1 @@
-var mnemonic = "detail survey exchange can frequent giraffe ozone wise episode art place frequent";
+var mnemonic = "kitten match bronze desk sunset young student room injury staff host tone";

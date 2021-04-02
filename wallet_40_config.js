@@ -1,1 +1,1 @@
-var mnemonic = "attend birth shy picture hawk scissors burger carpet near virtual six sail";
+var mnemonic = "avoid equal fiber avocado walnut metal reopen old crane load twice evolve";

@@ -1,1 +1,1 @@
-var mnemonic = "fox chat measure chicken intact dove insane club sister present ahead panther";
+var mnemonic = "exclude bullet base ready become disagree vendor avoid edge trade female electric";

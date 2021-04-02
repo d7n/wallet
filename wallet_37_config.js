@@ -1,1 +1,1 @@
-var mnemonic = "replace achieve horror inherit focus upset document milk dumb blanket rookie sure";
+var mnemonic = "gloom island sword face decade crystal food route exchange fabric man snow";

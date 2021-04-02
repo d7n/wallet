@@ -1,1 +1,1 @@
-var mnemonic = "barely luggage noise flight holiday fit minute private slam issue screen stay";
+var mnemonic = "also shiver edge street manage amount salute screen salon lift whale taste";

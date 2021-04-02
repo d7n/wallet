@@ -1,1 +1,1 @@
-var mnemonic = "famous sun loop notice tackle loyal insane canvas gain resemble bring jealous";
+var mnemonic = "trophy bomb nurse grid milk depend situate lion apology catalog man burger";

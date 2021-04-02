@@ -1,1 +1,1 @@
-var mnemonic = "guard first select stage crumble such grace glad typical thrive dune real";
+var mnemonic = "rubber secret motion tail laptop logic series more supply leave ring manual";

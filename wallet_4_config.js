@@ -1,1 +1,1 @@
-var mnemonic = "taxi mobile fat school arrow differ ill essay useless similar avoid image";
+var mnemonic = "coin drive input what member tooth piece fit net cake derive meat";

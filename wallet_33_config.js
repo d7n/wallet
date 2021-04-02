@@ -1,1 +1,1 @@
-var mnemonic = "home erosion document wheat adapt area alley settle ignore use weekend kite";
+var mnemonic = "nasty field woman water educate dumb train tent valid vibrant spot race";

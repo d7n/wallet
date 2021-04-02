@@ -1,1 +1,1 @@
-var mnemonic = "expect road proud payment kit language palm broom bird holiday sort worth";
+var mnemonic = "immense hawk erupt audit taxi truly outside clerk cricket script bundle grief";

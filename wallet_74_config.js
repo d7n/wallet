@@ -1,1 +1,1 @@
-var mnemonic = "labor sample course shell glass news wall august theory want oil hard";
+var mnemonic = "wave noodle sudden segment smooth prosper baby funny arm range brother alley";

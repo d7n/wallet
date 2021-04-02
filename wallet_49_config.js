@@ -1,1 +1,1 @@
-var mnemonic = "smart photo history equal cloth person chalk also wolf craft slush congress";
+var mnemonic = "crime spatial crush orphan taste diagram banana thing liberty wealth comic situate";

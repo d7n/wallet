@@ -1,1 +1,1 @@
-var mnemonic = "mention ship opera one layer essay issue dizzy brand limb wine nose";
+var mnemonic = "team asthma destroy imitate reform jaguar vapor sing spoon apology immune imitate";

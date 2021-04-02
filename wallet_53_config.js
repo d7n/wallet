@@ -1,1 +1,1 @@
-var mnemonic = "bridge seminar monitor decorate nest artwork illegal rather muffin dynamic normal pistol";
+var mnemonic = "before sad ecology awkward current indoor page style lizard furnace engage roof";

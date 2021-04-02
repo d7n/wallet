@@ -1,1 +1,1 @@
-var mnemonic = "fashion fiscal typical vapor pigeon dial ozone alarm sponsor certain firm depth";
+var mnemonic = "goose amount spike pencil naive bullet ahead enter village wage noodle sentence";

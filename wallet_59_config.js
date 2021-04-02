@@ -1,1 +1,1 @@
-var mnemonic = "thank cattle divert floor own device exit amateur uniform eight mass trade";
+var mnemonic = "imitate mercy echo exclude fatal hurdle where grant piece borrow flip party";

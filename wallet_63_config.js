@@ -1,1 +1,1 @@
-var mnemonic = "sand tuition exotic turn physical unknown chat onion push broccoli scheme scene";
+var mnemonic = "inform because bone daughter soldier hen bind smoke case skill object tomato";

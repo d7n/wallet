@@ -1,1 +1,1 @@
-var mnemonic = "bounce upgrade brief admit review note desk intact measure ranch unlock desert";
+var mnemonic = "fit differ voice hawk symbol dawn vehicle honey vacant outer cinnamon mobile";

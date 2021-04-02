@@ -1,1 +1,1 @@
-var mnemonic = "flush buyer excite list shove session weapon walk absent imitate marriage diet";
+var mnemonic = "vendor believe rebuild gadget alert convince media census ranch erupt purchase depend";

@@ -1,1 +1,1 @@
-var mnemonic = "put journey debris board stable defense mansion ski brain tomorrow initial salt";
+var mnemonic = "goddess vanish inject frequent foil kitten initial brick bacon asthma pig radio";
