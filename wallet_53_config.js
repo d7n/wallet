@@ -1,1 +1,1 @@
-var mnemonic = "quick myth gossip scrub tube medal hammer planet yellow scissors noodle photo";
+var mnemonic = "travel fury east enemy brisk arctic inflict fade monitor faculty laundry race";

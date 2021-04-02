@@ -1,1 +1,1 @@
-var mnemonic = "solution address sick approve lunar kidney aerobic receive post agent evil frozen";
+var mnemonic = "high shoulder script collect mom believe detect young topic time penalty recall";

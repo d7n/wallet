@@ -1,1 +1,1 @@
-var mnemonic = "gold swing grow curious dose finish raw allow genius foot donkey taste";
+var mnemonic = "pudding gun grief nominee glass axis foot sorry game vessel grant prepare";

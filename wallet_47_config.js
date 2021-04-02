@@ -1,1 +1,1 @@
-var mnemonic = "monkey ridge decide drip gap tortoise cloud craft air place want cart";
+var mnemonic = "waste coffee flock wrong pistol mimic clip fluid lazy label cattle duck";

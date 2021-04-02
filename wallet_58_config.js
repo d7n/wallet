@@ -1,1 +1,1 @@
-var mnemonic = "giraffe path anger conduct soup end inquiry figure pencil soccer aware magic";
+var mnemonic = "student gasp color alien gather salon light replace boy describe odor phone";

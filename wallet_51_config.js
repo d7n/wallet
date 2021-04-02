@@ -1,1 +1,1 @@
-var mnemonic = "plug submit vicious mobile sadness steel cause valve battle limb custom thing";
+var mnemonic = "monkey issue silver midnight despair theme wreck flame cloth salmon priority cage";

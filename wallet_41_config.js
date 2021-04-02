@@ -1,1 +1,1 @@
-var mnemonic = "leave name unhappy spray mistake wrist glass marriage anchor beef birth physical";
+var mnemonic = "can stock crane silk achieve burger nice moral digital edit napkin web";

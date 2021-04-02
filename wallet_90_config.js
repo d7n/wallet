@@ -1,1 +1,1 @@
-var mnemonic = "play middle drastic best case equal law notice snake style alley busy";
+var mnemonic = "always garlic hungry neglect minute bronze mask type illness health thrive remind";

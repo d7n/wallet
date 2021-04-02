@@ -1,1 +1,1 @@
-var mnemonic = "pyramid cannon jar exact tree bunker subject scene type recycle lady expire";
+var mnemonic = "food eager mystery own sing cement income melt install disagree sand junk";

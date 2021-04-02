@@ -1,1 +1,1 @@
-var mnemonic = "cradle tonight laptop original alert rough refuse lazy possible flame among double";
+var mnemonic = "shove patch actor bounce roast lumber excess catch brisk shiver language muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor other secret buyer train cherry anchor harbor consider candy ranch brain";
+var mnemonic = "crop vast lucky exclude coast problem shoe rebuild sorry drum wild wet";

@@ -1,1 +1,1 @@
-var mnemonic = "cube step midnight address enough item reduce dignity blue cycle atom uniform";
+var mnemonic = "omit giggle garbage pumpkin cause absurd illness hover summer affair umbrella category";

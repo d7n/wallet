@@ -1,1 +1,1 @@
-var mnemonic = "goat salad patient question fit pet please saddle hood flat luggage tank";
+var mnemonic = "arrive purpose bracket spike adapt dawn captain volume size hospital yellow giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "begin reopen gate swap diary arrange seed harvest hammer during damp miss";
+var mnemonic = "gown time flock celery weather lend evoke salad convince border crush venue";

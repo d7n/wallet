@@ -1,1 +1,1 @@
-var mnemonic = "absent assist alpha author basic shift rally citizen cancel shoot patch pull";
+var mnemonic = "toss coral laundry smart agree toast wheat swap call tuition weather book";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive video trigger rough leave lonely seat still inmate leave stock rose";
+var mnemonic = "funny plastic butter decrease meadow vessel head border swarm birth entry write";

@@ -1,1 +1,1 @@
-var mnemonic = "test tired helmet better spoil differ also plastic digital meat peanut clock";
+var mnemonic = "tobacco indoor segment seek enable student duty assume right girl bullet destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "model maple team spare daughter illegal box juice emotion cheese cigar tomato";
+var mnemonic = "wheat donor punch account torch stone appear high busy enlist insect tree";

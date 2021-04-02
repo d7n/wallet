@@ -1,1 +1,1 @@
-var mnemonic = "sense deliver olive deny primary waste planet web harvest cool twist cargo";
+var mnemonic = "box jump click champion dance hobby glow drive acoustic permit family over";

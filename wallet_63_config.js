@@ -1,1 +1,1 @@
-var mnemonic = "convince garage flock defy sick student sport voice dust fancy paper series";
+var mnemonic = "nerve wire lemon tribe edge saddle taxi quality cereal frog upon hole";

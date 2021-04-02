@@ -1,1 +1,1 @@
-var mnemonic = "foil orchard grape curtain garage flat image rotate bid subject tribe chicken";
+var mnemonic = "client book sketch wood soul guide trigger balance ceiling spy turkey neck";

@@ -1,1 +1,1 @@
-var mnemonic = "area will truck prevent shy help math snap flower scale culture vessel";
+var mnemonic = "swarm melody simple roast keep shoe armor remember bamboo army gravity genre";

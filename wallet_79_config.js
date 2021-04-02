@@ -1,1 +1,1 @@
-var mnemonic = "cement link alone plug poverty equip poverty neutral whale picture south mouse";
+var mnemonic = "illness history gospel flip divide short ill physical myself victory siege chalk";

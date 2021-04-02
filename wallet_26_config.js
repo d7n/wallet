@@ -1,1 +1,1 @@
-var mnemonic = "vague yellow unique champion mixed piano barely viable large decide early vivid";
+var mnemonic = "unaware spring mercy hidden screen silent vault quarter wing plunge obvious claim";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster city bind promote jaguar detect dose chief blood item play favorite";
+var mnemonic = "agent become badge embrace piece orient keep position ship wood sniff canyon";

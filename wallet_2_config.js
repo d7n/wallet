@@ -1,1 +1,1 @@
-var mnemonic = "away surface diamond town case drum cash front network message later wall";
+var mnemonic = "govern wire improve dolphin pumpkin crime brand toe setup liberty palace myth";

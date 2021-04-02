@@ -1,1 +1,1 @@
-var mnemonic = "cannon recall primary maid expect table erase table inmate limit first fabric";
+var mnemonic = "ribbon practice soccer visit destroy gorilla acquire certain screen online fantasy attract";

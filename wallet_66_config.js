@@ -1,1 +1,1 @@
-var mnemonic = "imitate runway bargain accident dragon alone news smooth slide shadow void zone";
+var mnemonic = "bridge vivid frozen snack common syrup post scrap royal slogan decade hedgehog";

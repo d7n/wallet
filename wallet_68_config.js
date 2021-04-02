@@ -1,1 +1,1 @@
-var mnemonic = "return left balcony fall patient company enjoy usage gas scene cigar enact";
+var mnemonic = "emotion entire observe desert humor sausage goat save goat expire excess pear";

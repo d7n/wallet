@@ -1,1 +1,1 @@
-var mnemonic = "planet female receive evoke receive praise shoe scrub tail crash pupil artefact";
+var mnemonic = "avocado twenty siren betray near dolphin tooth visual fetch effort loyal ranch";

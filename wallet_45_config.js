@@ -1,1 +1,1 @@
-var mnemonic = "badge dinner region monkey tired giggle truck desk eager chunk idea mix";
+var mnemonic = "used section box student walk cupboard permit hybrid club spread forward tennis";

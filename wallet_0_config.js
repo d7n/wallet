@@ -1,1 +1,1 @@
-var mnemonic = "firm basket transfer team jump assault salt file glance pretty cake equip";
+var mnemonic = "tenant enemy coil whisper van lady excess enemy arrange wheat impact agent";

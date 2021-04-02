@@ -1,1 +1,1 @@
-var mnemonic = "banner choose eye dinner spice slam danger menu liar evidence dirt wrestle";
+var mnemonic = "tank drama educate bachelor risk purity civil cycle afraid gas sugar between";

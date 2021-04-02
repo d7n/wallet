@@ -1,1 +1,1 @@
-var mnemonic = "nice minimum text joke hood bomb zone tooth kit dwarf flee nice";
+var mnemonic = "pink dinner dust father original people sponsor scene legal original chuckle cradle";

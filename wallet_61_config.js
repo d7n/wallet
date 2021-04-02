@@ -1,1 +1,1 @@
-var mnemonic = "upset merge wisdom double spider minor lecture kingdom begin phrase unable have";
+var mnemonic = "admit usual author merry shell weasel kiwi talent rotate special depend toast";

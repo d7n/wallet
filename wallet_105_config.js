@@ -1,1 +1,1 @@
-var mnemonic = "crime bike gain frequent motor unfair goat pitch pig use shy rose";
+var mnemonic = "tomato identify suffer child refuse write maximum monkey pumpkin demand clutch harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "place bacon panther erase myth screen attract sleep trouble sorry wonder motion";
+var mnemonic = "copper mule load shadow fashion oak hello future live age text knee";

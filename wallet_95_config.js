@@ -1,1 +1,1 @@
-var mnemonic = "wet slab grid organ giant tower supreme turkey deer civil weapon sister";
+var mnemonic = "want acquire riot enrich soda hand verb warrior accident caution clerk educate";

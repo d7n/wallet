@@ -1,1 +1,1 @@
-var mnemonic = "they orange boss casual fold cruel adjust scrap sudden horse drive vicious";
+var mnemonic = "arrow toward snack enhance empty enact wagon film agent cattle obtain child";

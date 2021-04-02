@@ -1,1 +1,1 @@
-var mnemonic = "join senior rabbit stove key various build critic universe stereo sun educate";
+var mnemonic = "avocado resemble sport endorse speak weekend banana family meadow kitchen level empower";

@@ -1,1 +1,1 @@
-var mnemonic = "ignore depend believe critic level evidence mobile fiscal size jaguar kick blur";
+var mnemonic = "brief movie veteran mix island soon dry kit grief garbage blossom brown";

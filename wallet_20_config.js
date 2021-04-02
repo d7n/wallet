@@ -1,1 +1,1 @@
-var mnemonic = "bird organ derive soft muscle hero baby expose destroy carbon slush during";
+var mnemonic = "shrimp body borrow subway they slight notice citizen napkin lamp anxiety fortune";

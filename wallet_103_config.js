@@ -1,1 +1,1 @@
-var mnemonic = "dwarf change liquid dumb remove direct voice panic minor meat pear what";
+var mnemonic = "laptop notice useless advance match trade concert happy hobby pipe nuclear liar";

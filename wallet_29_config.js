@@ -1,1 +1,1 @@
-var mnemonic = "purity lake eternal gaze tiger seed stock believe once thank title horn";
+var mnemonic = "inherit monitor denial two grunt occur enlist ozone hair enough beyond february";

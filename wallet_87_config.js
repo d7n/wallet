@@ -1,1 +1,1 @@
-var mnemonic = "luggage slice garage lunch bread lake entire tip friend enable green hello";
+var mnemonic = "awesome scorpion sense holiday rebuild spot diamond gloom someone fossil trade text";

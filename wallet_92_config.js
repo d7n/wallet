@@ -1,1 +1,1 @@
-var mnemonic = "decide key turn spin glance glad denial teach group pear judge organ";
+var mnemonic = "must burger pelican subject notable rose permit nephew like awesome list hurdle";

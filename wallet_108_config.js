@@ -1,1 +1,1 @@
-var mnemonic = "fiscal guitar mother appear order detail juice lion vacuum slogan chair raven";
+var mnemonic = "allow ugly when thumb glove hurry believe casino attend cereal move gown";

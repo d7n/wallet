@@ -1,1 +1,1 @@
-var mnemonic = "piece dirt turkey tent bounce digital speed despair emerge region owner boil";
+var mnemonic = "imitate october deputy trap muffin save gadget boat shallow wire wild legend";

@@ -1,1 +1,1 @@
-var mnemonic = "police quarter dumb light impulse aware century scale virus relief cradle mail";
+var mnemonic = "same survey leaf clinic domain van title girl ketchup effort finish remain";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom monitor word annual punch wish usage opinion room margin cute control";
+var mnemonic = "claw drip control solve rebel dismiss spring injury field copper crystal polar";

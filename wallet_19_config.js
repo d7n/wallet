@@ -1,1 +1,1 @@
-var mnemonic = "drip nurse book skin rule mother foam sudden will fluid two lumber";
+var mnemonic = "hobby differ leg tomato allow someone hundred grid mule benefit blade angry";

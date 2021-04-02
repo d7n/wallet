@@ -1,1 +1,1 @@
-var mnemonic = "modify butter hockey unaware cross rent buyer embody direct turkey silent job";
+var mnemonic = "tumble escape labor happy hospital tank often only write shine clap icon";

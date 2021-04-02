@@ -1,1 +1,1 @@
-var mnemonic = "month soda borrow lazy wage sand nothing outdoor identify syrup struggle federal";
+var mnemonic = "neither vendor space rally will bus alter toast huge horse cream cash";

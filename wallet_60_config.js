@@ -1,1 +1,1 @@
-var mnemonic = "remove crouch century cruise orbit solve napkin point segment comfort elbow more";
+var mnemonic = "whale art tape book myself way appear century weekend describe despair happy";

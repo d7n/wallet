@@ -1,1 +1,1 @@
-var mnemonic = "push misery image coconut infant clock asthma matter slow inspire fault panel";
+var mnemonic = "mom fluid merry step shy buyer life weather route exclude manual file";

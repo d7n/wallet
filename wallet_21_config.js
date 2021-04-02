@@ -1,1 +1,1 @@
-var mnemonic = "harsh spray draw useless useless change iron divert maid bridge quarter wheat";
+var mnemonic = "fatal rent stairs suit twelve furnace scatter wool ketchup belt such wild";

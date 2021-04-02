@@ -1,1 +1,1 @@
-var mnemonic = "empower peace there gravity trumpet winter hand gun fox novel normal walnut";
+var mnemonic = "direct olive inspire obscure derive jewel artwork life index grunt develop insect";

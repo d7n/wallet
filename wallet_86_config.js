@@ -1,1 +1,1 @@
-var mnemonic = "tower client lesson across panda dust region cabin tiny phone relief thunder";
+var mnemonic = "twist swim inform palm question box access defy decide crime street hamster";

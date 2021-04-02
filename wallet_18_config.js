@@ -1,1 +1,1 @@
-var mnemonic = "brand noble stick urge manage whisper chunk shoot since title kick situate";
+var mnemonic = "pledge garbage luggage escape advance globe debris second soon renew tissue glad";

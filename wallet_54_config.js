@@ -1,1 +1,1 @@
-var mnemonic = "fragile phone account replace nominee scene prefer cotton toe country include rich";
+var mnemonic = "inflict fantasy forward stick fly indoor syrup six idle patch month peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "hello session habit peasant where science laptop dinosaur modify ill bread jaguar";
+var mnemonic = "ignore album advance pledge street swamp thunder warm crush dumb sport popular";

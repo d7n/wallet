@@ -1,1 +1,1 @@
-var mnemonic = "success blood submit tip run joy original feature crowd arm era boat";
+var mnemonic = "melt rough bubble salute drama mansion clap eight run hunt always anchor";

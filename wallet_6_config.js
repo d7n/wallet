@@ -1,1 +1,1 @@
-var mnemonic = "reopen theory rate snow close regular escape pair wonder slice modify hen";
+var mnemonic = "rain dinosaur meadow road core bench already laugh mistake shift vicious permit";

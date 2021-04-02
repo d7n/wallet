@@ -1,1 +1,1 @@
-var mnemonic = "april ensure grunt palace mushroom sphere almost title leader where museum feel";
+var mnemonic = "fancy jacket waste pioneer pact record early symptom surge squirrel later width";

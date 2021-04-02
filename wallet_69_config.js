@@ -1,1 +1,1 @@
-var mnemonic = "truck rescue culture lock actor punch sun remove hollow loud heart tray";
+var mnemonic = "whip stock brisk fuel dolphin gate agent taste deposit bargain below fade";

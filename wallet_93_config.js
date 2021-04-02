@@ -1,1 +1,1 @@
-var mnemonic = "barely vault anxiety valid mechanic wild stone example immune country swarm busy";
+var mnemonic = "hidden rescue sheriff prison cabbage coil thunder tobacco car silver absent setup";

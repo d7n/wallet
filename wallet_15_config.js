@@ -1,1 +1,1 @@
-var mnemonic = "pony media border vital strike guitar museum honey hurdle caution picture unlock";
+var mnemonic = "sustain charge destroy apology token luxury wheat method need possible evil industry";

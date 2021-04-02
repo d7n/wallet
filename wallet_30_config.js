@@ -1,1 +1,1 @@
-var mnemonic = "weekend flag pair unique buffalo leg radar cancel welcome notable earth still";
+var mnemonic = "noise naive brush illness bring intact shove observe glad imitate walk high";

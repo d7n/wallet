@@ -1,1 +1,1 @@
-var mnemonic = "airport daring left creek fold exchange first name success oyster divorce antenna";
+var mnemonic = "elbow snack pulp mandate collect toss hospital bunker guess august crack hurry";

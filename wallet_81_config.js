@@ -1,1 +1,1 @@
-var mnemonic = "gate lens love animal travel exile purse follow travel income tissue small";
+var mnemonic = "west cycle abuse palm donor repeat uniform pink ivory volcano resemble jeans";

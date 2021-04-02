@@ -1,1 +1,1 @@
-var mnemonic = "hawk attend help walnut pause gift slow tiger hungry hip practice field";
+var mnemonic = "upset pink alter peasant another major copper victory find evolve plug friend";

@@ -1,1 +1,1 @@
-var mnemonic = "answer arrive sound virus fold wide casino ghost drill orbit brown chief";
+var mnemonic = "melody exact vintage aisle bless scheme solar will clinic welcome beyond print";

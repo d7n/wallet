@@ -1,1 +1,1 @@
-var mnemonic = "faith announce soap ahead rubber retreat bring canoe innocent illness gauge into";
+var mnemonic = "lunch electric cover track force excuse gesture brush skin picture force perfect";

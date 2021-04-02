@@ -1,1 +1,1 @@
-var mnemonic = "dust mention dilemma like chat embrace creek sweet melody diagram analyst camera";
+var mnemonic = "tray proof jeans future earth scatter shy art swallow skirt denial liquid";

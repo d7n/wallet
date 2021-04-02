@@ -1,1 +1,1 @@
-var mnemonic = "figure tennis nominee collect equal orphan become liar modify scan leisure muffin";
+var mnemonic = "spare giggle length climb color concert voice impulse lock excuse shop client";

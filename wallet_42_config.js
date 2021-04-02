@@ -1,1 +1,1 @@
-var mnemonic = "raise carpet endorse ordinary super expect forward utility frost glory input bamboo";
+var mnemonic = "jar super shrug milk flip give subway satoshi carpet alley report motor";

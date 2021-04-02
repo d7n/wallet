@@ -1,1 +1,1 @@
-var mnemonic = "fatigue push guess gate goose easy crisp autumn deer junior begin shoot";
+var mnemonic = "price quote favorite cart bundle pretty margin spray catalog trust inform cash";

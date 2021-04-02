@@ -1,1 +1,1 @@
-var mnemonic = "coconut coffee actor bench tool immense toddler noise machine crowd proud decade";
+var mnemonic = "label miracle segment iron swap total asset nominee live kidney fly grain";

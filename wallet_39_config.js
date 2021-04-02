@@ -1,1 +1,1 @@
-var mnemonic = "shield plate remain load giraffe never local obtain insane test curve still";
+var mnemonic = "course village combine useless chat borrow lumber artist ice penalty early bonus";

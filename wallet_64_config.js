@@ -1,1 +1,1 @@
-var mnemonic = "call thumb inquiry concert lecture artwork reunion gallery hedgehog puzzle sick tomorrow";
+var mnemonic = "grain spy arm lens card reason smile defy shove need actress arrow";

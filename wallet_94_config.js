@@ -1,1 +1,1 @@
-var mnemonic = "couch flip jump window service next century noble black daring coral match";
+var mnemonic = "reveal undo farm large second ostrich solid river hunt angle start indicate";

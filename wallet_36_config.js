@@ -1,1 +1,1 @@
-var mnemonic = "seven say reform elevator design rough limb crew fragile seek spatial impact";
+var mnemonic = "midnight hour three saddle cousin barely rotate future duck obey cross tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit liquid tube sting same merry animal flush alarm rude elbow sword";
+var mnemonic = "suggest throw garlic mad zone apple replace energy photo thank shift increase";

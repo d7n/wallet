@@ -1,1 +1,1 @@
-var mnemonic = "shift oyster egg ready math peanut flee crazy burger edge slush exhaust";
+var mnemonic = "orient apple fine party army enlist hand october auction then woman fever";

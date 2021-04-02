@@ -1,1 +1,1 @@
-var mnemonic = "grit mass undo insane west egg evidence hip mind element uncover you";
+var mnemonic = "sick wine title rather cherry author artist clay assume solve stumble such";

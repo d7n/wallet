@@ -1,1 +1,1 @@
-var mnemonic = "build deliver lava conduct road industry abstract essay purchase decade obey quiz";
+var mnemonic = "conduct fork sibling poverty venture setup bicycle open gravity raw drip brick";

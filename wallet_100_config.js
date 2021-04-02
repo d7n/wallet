@@ -1,1 +1,1 @@
-var mnemonic = "tobacco oxygen hood history portion cheap admit aunt hybrid business pet submit";
+var mnemonic = "upset fashion sibling goat design typical neglect dust common noise mass extra";
