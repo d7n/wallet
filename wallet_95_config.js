@@ -1,1 +1,1 @@
-var mnemonic = "art announce april pear cluster tennis fat capable direct pear roof day";
+var mnemonic = "pet skull climb dutch second verify skull salmon pepper stumble lend huge";

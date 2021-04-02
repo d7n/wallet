@@ -1,1 +1,1 @@
-var mnemonic = "much angle chapter eight doll vague same siren torch royal nephew inmate";
+var mnemonic = "flush aerobic wide renew next isolate wrong village early inform buzz miss";

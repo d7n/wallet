@@ -1,1 +1,1 @@
-var mnemonic = "sister tool before crisp diesel goat fence shell company town wall mansion";
+var mnemonic = "flip betray federal leisure family saddle glance office hundred fire earth napkin";

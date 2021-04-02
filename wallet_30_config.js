@@ -1,1 +1,1 @@
-var mnemonic = "charge boost divorce rural bread laugh arrow exhaust deputy breeze tumble close";
+var mnemonic = "shaft eye syrup drink bulk guess connect pioneer lecture brown runway drift";

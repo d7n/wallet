@@ -1,1 +1,1 @@
-var mnemonic = "tongue share draft brain leader fish flush property sight follow blush scare";
+var mnemonic = "canal hybrid they laptop glance tonight rubber theme agree copy disagree fog";

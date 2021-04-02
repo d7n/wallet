@@ -1,1 +1,1 @@
-var mnemonic = "robot snow bean tuna pelican this sing pen deputy expose weapon goose";
+var mnemonic = "crowd regular man ring easily range left candy balcony spread unknown grab";

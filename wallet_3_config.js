@@ -1,1 +1,1 @@
-var mnemonic = "smart define horror lawsuit cook enough split reject double laundry hurt talent";
+var mnemonic = "ancient train orbit have intact allow book remain almost reveal mistake digital";

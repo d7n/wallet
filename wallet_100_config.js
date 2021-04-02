@@ -1,1 +1,1 @@
-var mnemonic = "lobster charge ticket citizen earth day inspire acid cattle six sort movie";
+var mnemonic = "umbrella bargain prepare stock place myself apple song alter wheel page primary";

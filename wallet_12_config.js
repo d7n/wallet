@@ -1,1 +1,1 @@
-var mnemonic = "educate burger confirm bring message leopard label note abuse chimney insect pilot";
+var mnemonic = "spoon river genius manage split will have physical diamond weird midnight bulk";

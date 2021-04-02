@@ -1,1 +1,1 @@
-var mnemonic = "loop avocado acquire average law mention merge slender elite spin margin mimic";
+var mnemonic = "special urban casino aware hammer chalk liar detect dry mushroom degree car";

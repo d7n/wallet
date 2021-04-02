@@ -1,1 +1,1 @@
-var mnemonic = "aware live truck decide child roof someone crunch involve fiber bus lend";
+var mnemonic = "turtle insect note any random unusual merit width jelly season bright demand";

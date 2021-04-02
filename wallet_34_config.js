@@ -1,1 +1,1 @@
-var mnemonic = "focus man cool wide weekend vanish faint vault blue anxiety above deal";
+var mnemonic = "dune silver kid myth acoustic action stamp fox result unaware carbon car";

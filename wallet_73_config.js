@@ -1,1 +1,1 @@
-var mnemonic = "major reduce hurt country street script field summer rate cousin code distance";
+var mnemonic = "priority bridge train journey notable assume acid setup chat evil imitate steak";

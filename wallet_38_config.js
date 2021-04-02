@@ -1,1 +1,1 @@
-var mnemonic = "airport amount still jealous stairs pelican shift mule culture rebuild elite wall";
+var mnemonic = "sketch ability tooth mass never quick cancel inmate repeat put gather lend";

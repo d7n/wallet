@@ -1,1 +1,1 @@
-var mnemonic = "daughter snow hamster tilt tenant icon choice feature across kiss exhibit reason";
+var mnemonic = "chest humble glide borrow blind parrot model hidden vicious dragon north dismiss";

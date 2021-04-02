@@ -1,1 +1,1 @@
-var mnemonic = "become beach wet regret board hammer double dust method address buddy innocent";
+var mnemonic = "sausage team phone also mother captain tag media lake hour side wink";

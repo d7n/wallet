@@ -1,1 +1,1 @@
-var mnemonic = "festival fault dwarf another matter return venture robot rib exclude iron rather";
+var mnemonic = "safe hunt assume maximum wall alien approve bamboo pitch school grab phrase";

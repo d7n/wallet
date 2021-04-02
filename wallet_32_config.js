@@ -1,1 +1,1 @@
-var mnemonic = "panda method steel rug skill glue crack innocent satoshi foil tourist walk";
+var mnemonic = "leisure install shell exercise dismiss breeze ginger camp pet soda renew unknown";

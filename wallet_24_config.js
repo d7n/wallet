@@ -1,1 +1,1 @@
-var mnemonic = "leopard guitar wisdom zebra escape measure skill bleak fiction tank swap super";
+var mnemonic = "melt remind job exhibit horse replace badge resemble share cancel spare dismiss";

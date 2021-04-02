@@ -1,1 +1,1 @@
-var mnemonic = "dirt soccer raccoon amateur soccer penalty labor evoke tray fan card board";
+var mnemonic = "pause afford fun food area buffalo negative fiction throw endorse dolphin share";

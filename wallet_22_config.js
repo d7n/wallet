@@ -1,1 +1,1 @@
-var mnemonic = "submit doll vanish develop frequent plastic body glide river clutch purchase evoke";
+var mnemonic = "island slender outside day kangaroo face glory width steak valve space space";

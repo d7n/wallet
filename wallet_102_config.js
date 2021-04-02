@@ -1,1 +1,1 @@
-var mnemonic = "patient match paper few twice machine dash atom acoustic jelly viable chronic";
+var mnemonic = "pill analyst rice legal pumpkin grape blossom mansion around absent when crumble";

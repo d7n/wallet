@@ -1,1 +1,1 @@
-var mnemonic = "carpet couple ski food meadow mosquito chat dirt wonder conduct crawl eager";
+var mnemonic = "image nurse unlock pulp water blush train admit range common dilemma diary";

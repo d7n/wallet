@@ -1,1 +1,1 @@
-var mnemonic = "size wife asthma add short member vibrant frog wrestle explain oblige injury";
+var mnemonic = "sweet affair oak stay chunk culture smoke absent fish flavor turtle squeeze";

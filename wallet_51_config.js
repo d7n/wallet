@@ -1,1 +1,1 @@
-var mnemonic = "lend addict fee imitate ignore siege grit decline divide adapt decade perfect";
+var mnemonic = "attend boat damp able symptom problem pen ocean enter resource practice short";

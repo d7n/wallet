@@ -1,1 +1,1 @@
-var mnemonic = "bitter middle identify remain rule coast dinosaur path stairs left warrior blue";
+var mnemonic = "motion nuclear enjoy rubber oven flip business trophy cruise pave remind endless";

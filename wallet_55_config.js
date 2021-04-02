@@ -1,1 +1,1 @@
-var mnemonic = "connect ritual snack category about fault night cook kangaroo shallow panic hobby";
+var mnemonic = "goose opera fancy warfare usual all near black deliver chaos spoil egg";

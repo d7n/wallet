@@ -1,1 +1,1 @@
-var mnemonic = "word parent level poet shrimp swamp cigar puzzle spice giraffe busy robust";
+var mnemonic = "fun high jealous magic cage clerk absent guess hotel agent hobby midnight";

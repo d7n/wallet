@@ -1,1 +1,1 @@
-var mnemonic = "car plunge share annual scan slush document divert blossom garage connect churn";
+var mnemonic = "avoid south split auction spike balcony slow polar exit bitter lunch mystery";

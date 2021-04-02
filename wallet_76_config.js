@@ -1,1 +1,1 @@
-var mnemonic = "front pupil possible spice avoid mad shrimp credit trial concert aware feature";
+var mnemonic = "normal vast once run attend canal diet present athlete ice shoe drive";

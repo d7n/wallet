@@ -1,1 +1,1 @@
-var mnemonic = "west draw open feed elder involve day can parent erosion trade gorilla";
+var mnemonic = "spy coil apple candy anger copy deer elegant smoke curious victory apology";

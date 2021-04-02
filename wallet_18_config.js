@@ -1,1 +1,1 @@
-var mnemonic = "filter indicate voice reward plastic swap rent art prefer apple text winner";
+var mnemonic = "salad output hazard easily mirror invest cool word smile arrange tiger south";

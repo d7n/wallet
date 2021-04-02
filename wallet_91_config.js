@@ -1,1 +1,1 @@
-var mnemonic = "card enhance clutch what veteran father special stand prison account town audit";
+var mnemonic = "spray together record depart van wrist extend struggle concert blush shed label";

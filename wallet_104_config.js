@@ -1,1 +1,1 @@
-var mnemonic = "they rich mammal farm develop any pelican blame make mule room addict";
+var mnemonic = "alarm velvet future face young ready script erupt author path merry jaguar";

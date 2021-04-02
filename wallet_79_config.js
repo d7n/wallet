@@ -1,1 +1,1 @@
-var mnemonic = "maid napkin excuse purity hidden raise require solid project unfair manual fossil";
+var mnemonic = "avoid sort next lounge genuine catalog field camp pool fiber shuffle broom";

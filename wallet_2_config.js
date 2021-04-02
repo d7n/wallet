@@ -1,1 +1,1 @@
-var mnemonic = "awful broccoli wing ribbon hire jump lazy slice join question welcome addict";
+var mnemonic = "such dash favorite sudden february upper hair river symbol exchange share news";

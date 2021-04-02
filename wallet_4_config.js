@@ -1,1 +1,1 @@
-var mnemonic = "test vendor edit wheel gossip loud image faith shiver nurse power oyster";
+var mnemonic = "card chief fog network opinion avoid crane frame bulk shield tiny exhibit";

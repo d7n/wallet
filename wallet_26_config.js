@@ -1,1 +1,1 @@
-var mnemonic = "joy hospital hair enrich neck custom frozen jaguar swift beyond army alien";
+var mnemonic = "common opera shiver recycle city lunch roof achieve fury clerk exercise garlic";

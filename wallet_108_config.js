@@ -1,1 +1,1 @@
-var mnemonic = "alter cute hedgehog grow uncover holiday small head bless melt wrestle prize";
+var mnemonic = "close acid zebra time various trash illness lyrics wonder regular fun prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew bundle normal degree fancy police clump once term modify orient audit";
+var mnemonic = "security sea since lonely rebel catch inflict omit tourist awake hobby shy";

@@ -1,1 +1,1 @@
-var mnemonic = "carry human cannon refuse wet design under glide imitate trust grace future";
+var mnemonic = "olive average double room balcony hurt skate magic pizza earn remain aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken unhappy rhythm quality wrist firm item neutral knife attract dry edge";
+var mnemonic = "mask fitness grocery student mirror answer april phrase text supply carbon combine";

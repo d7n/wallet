@@ -1,1 +1,1 @@
-var mnemonic = "twist churn major chest odor enforce pony letter room ask sugar arm";
+var mnemonic = "like rhythm donkey stamp couch van evil tiny bulk major disagree hold";

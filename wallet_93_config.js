@@ -1,1 +1,1 @@
-var mnemonic = "pull tray turkey use can screen unfold task arrive place sure rare";
+var mnemonic = "ladder paper lock weasel eternal poverty summer increase lobster sail glove rail";

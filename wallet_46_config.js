@@ -1,1 +1,1 @@
-var mnemonic = "soft pact love engage supreme trust pig tide garden save episode shove";
+var mnemonic = "vehicle bus glance exhibit name load gorilla viable favorite juice way guess";

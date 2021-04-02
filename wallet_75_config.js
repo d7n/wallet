@@ -1,1 +1,1 @@
-var mnemonic = "daring mixed odor gift fiber solar spring first bulk sausage hope rebel";
+var mnemonic = "spread stick six pyramid genuine forget detail unlock middle wine party bounce";

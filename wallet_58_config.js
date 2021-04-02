@@ -1,1 +1,1 @@
-var mnemonic = "phone shine barely custom motion general tail snow legend auto course ivory";
+var mnemonic = "meat detail choice second health luggage pipe brief height genius day fury";

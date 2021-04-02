@@ -1,1 +1,1 @@
-var mnemonic = "misery bean number eight hero path flash juice hole warm virus weapon";
+var mnemonic = "embody hawk waste spell torch timber pear glad raccoon evil season cruel";

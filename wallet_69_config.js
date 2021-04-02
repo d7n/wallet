@@ -1,1 +1,1 @@
-var mnemonic = "ball decrease floor silent clock summer around attack primary spoon organ error";
+var mnemonic = "office flush arm bracket best eagle pole project rapid mistake eight matter";

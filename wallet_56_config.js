@@ -1,1 +1,1 @@
-var mnemonic = "another vault soda index surge arrest grit pumpkin buddy apple fame glimpse";
+var mnemonic = "vital yard essence there ceiling rail shiver uncle exist provide mercy hidden";

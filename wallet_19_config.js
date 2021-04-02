@@ -1,1 +1,1 @@
-var mnemonic = "scrub message ritual genius type sign clinic output turtle brisk service sword";
+var mnemonic = "april tower unfair enhance donor science tape tornado sample theory torch maximum";

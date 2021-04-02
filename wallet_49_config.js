@@ -1,1 +1,1 @@
-var mnemonic = "hidden scout fold laugh race shadow goose float glide card soon practice";
+var mnemonic = "bind deer merit bitter toy depart wrestle good job good nurse label";

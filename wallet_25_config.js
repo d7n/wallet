@@ -1,1 +1,1 @@
-var mnemonic = "cricket flee session blood settle crucial final boost dream hockey aim wisdom";
+var mnemonic = "enable mercy penalty hello soap world memory lamp noise kangaroo street path";

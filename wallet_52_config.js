@@ -1,1 +1,1 @@
-var mnemonic = "alley achieve fashion west wisdom flock pigeon guitar force stem odor crush";
+var mnemonic = "host conduct slice course kangaroo grunt visa rude armor blame verb clump";

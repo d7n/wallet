@@ -1,1 +1,1 @@
-var mnemonic = "useless lizard liberty produce frog cable result mansion supreme shaft tomato lady";
+var mnemonic = "mule wink maple trust immense artefact spend segment hockey issue ranch nut";

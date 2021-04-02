@@ -1,1 +1,1 @@
-var mnemonic = "bargain speed unknown spoil scatter island post intact carry square omit another";
+var mnemonic = "panda sad middle mail scrap retreat young heart bright that border kiwi";

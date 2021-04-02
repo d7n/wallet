@@ -1,1 +1,1 @@
-var mnemonic = "couch squirrel sea gossip clog ski post vital glare prepare snake cake";
+var mnemonic = "evil file brother matrix coyote alley october weather confirm grant romance farm";

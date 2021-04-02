@@ -1,1 +1,1 @@
-var mnemonic = "dynamic actual maximum weekend fault canyon talk cattle build off butter grace";
+var mnemonic = "two airport process punch school believe narrow monitor final sadness arm front";

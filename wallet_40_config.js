@@ -1,1 +1,1 @@
-var mnemonic = "vapor wage daring fog pigeon suit beef cliff want style now lady";
+var mnemonic = "merit comfort cram corn city alter crash pet normal useless pottery minute";

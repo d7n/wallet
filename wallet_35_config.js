@@ -1,1 +1,1 @@
-var mnemonic = "lyrics dove discover hello actress clutch impact opinion breeze casino pass comic";
+var mnemonic = "steel young riot bachelor all flee motor neither accuse zebra pride spell";

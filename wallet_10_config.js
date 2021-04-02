@@ -1,1 +1,1 @@
-var mnemonic = "cave knife vocal theme season awkward slogan pilot tube muffin maximum machine";
+var mnemonic = "dumb satoshi direct enough exchange unhappy wheel sad vivid vanish industry squeeze";

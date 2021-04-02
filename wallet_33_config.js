@@ -1,1 +1,1 @@
-var mnemonic = "destroy host hungry spoil clinic split mixture hurdle ordinary pipe ready rapid";
+var mnemonic = "aunt fruit same above attract unable powder tribe shove unveil stamp oval";

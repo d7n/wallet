@@ -1,1 +1,1 @@
-var mnemonic = "skull quality worth slow zebra era entire describe bamboo apology wing margin";
+var mnemonic = "other issue talent thunder segment cabbage blouse lawn excuse hurdle escape win";

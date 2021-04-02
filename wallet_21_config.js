@@ -1,1 +1,1 @@
-var mnemonic = "original seat person upgrade negative practice gas canoe virtual measure couple equal";
+var mnemonic = "endorse acquire file thumb afraid super exotic dream record flush coil relax";

@@ -1,1 +1,1 @@
-var mnemonic = "thank surface join spread jump desert inch mixture whip domain domain uncover";
+var mnemonic = "female soul better oven pond copy scare hire venture amused devote wrap";

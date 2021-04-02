@@ -1,1 +1,1 @@
-var mnemonic = "swift amateur truly organ taste barely tube urban frog manage travel assault";
+var mnemonic = "fancy fatigue caught pattern disorder man assume enable play toilet rely amused";

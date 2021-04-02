@@ -1,1 +1,1 @@
-var mnemonic = "plunge owner twin saddle panel country act ivory economy resist tree tunnel";
+var mnemonic = "benefit skate sword turtle capable brush vast soul lend cushion pelican human";

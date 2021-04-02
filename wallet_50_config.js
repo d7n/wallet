@@ -1,1 +1,1 @@
-var mnemonic = "chunk silly girl border door swarm tenant tilt never impulse biology retreat";
+var mnemonic = "matrix option immune lucky valley category poverty clock own diagram mirror agree";

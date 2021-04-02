@@ -1,1 +1,1 @@
-var mnemonic = "mad inflict corn salmon method useful daughter giraffe bomb differ trophy clap";
+var mnemonic = "tennis bus arrow depend flash phone sister tunnel define spike frog vicious";

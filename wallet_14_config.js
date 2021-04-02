@@ -1,1 +1,1 @@
-var mnemonic = "cycle wet figure example clap essence receive slab flame tip sense check";
+var mnemonic = "dune worry average lion ice space bounce urban move hurt rescue ice";

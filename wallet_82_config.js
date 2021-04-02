@@ -1,1 +1,1 @@
-var mnemonic = "mountain gun cable scrap pill truth police cushion dinosaur pretty open problem";
+var mnemonic = "rigid mansion behind pioneer tooth antenna jewel manage joke illness receive stumble";

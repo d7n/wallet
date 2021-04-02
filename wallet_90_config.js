@@ -1,1 +1,1 @@
-var mnemonic = "open mystery hobby radio transfer hope double tool item odor deny merry";
+var mnemonic = "green ancient always history forget across defense pride cry ethics exotic follow";

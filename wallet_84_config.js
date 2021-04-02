@@ -1,1 +1,1 @@
-var mnemonic = "joy reduce above wine width scout gorilla lonely under hurry bachelor city";
+var mnemonic = "scare give midnight park stumble glance pottery history method bus major wreck";

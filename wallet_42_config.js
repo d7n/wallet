@@ -1,1 +1,1 @@
-var mnemonic = "umbrella boring faculty recall board pitch fog uncle misery essay special latin";
+var mnemonic = "drum you solution hedgehog raise ranch glory moment divide health luxury body";

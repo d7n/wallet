@@ -1,1 +1,1 @@
-var mnemonic = "exotic dilemma lawn absurd say miss foot fantasy age animal provide shift";
+var mnemonic = "duty device dust pond fix wet sausage mad shed speed public action";

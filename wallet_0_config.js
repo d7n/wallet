@@ -1,1 +1,1 @@
-var mnemonic = "pink absent wasp vague away winner reduce gown toss mandate army pool";
+var mnemonic = "chicken spawn early edit genre base kiwi guilt wish motor tiger kid";

@@ -1,1 +1,1 @@
-var mnemonic = "pink swear love stairs decrease together jacket enjoy baby scale picture fuel";
+var mnemonic = "scare cash squeeze power swarm south make arch across rocket dinner funny";

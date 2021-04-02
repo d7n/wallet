@@ -1,1 +1,1 @@
-var mnemonic = "skate glad canvas certain risk hurry huge pull mule tennis tree jump";
+var mnemonic = "clip position stay armed coconut leg fatal type rice oven patient adjust";

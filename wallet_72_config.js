@@ -1,1 +1,1 @@
-var mnemonic = "gloom pond logic lend space awkward enact nation future fiber bean design";
+var mnemonic = "oxygen comic quality drink banana cabin uncover report young ranch erupt frown";

@@ -1,1 +1,1 @@
-var mnemonic = "silk van frozen candy elbow planet leopard syrup sustain urge inherit edit";
+var mnemonic = "law one entire art work cattle quote tongue dial expand reward column";

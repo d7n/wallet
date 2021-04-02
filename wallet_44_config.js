@@ -1,1 +1,1 @@
-var mnemonic = "stadium sort keen debris width afford brief cross pelican nephew direct differ";
+var mnemonic = "tunnel swim mimic mountain match sight tackle horror vault trial reason essence";

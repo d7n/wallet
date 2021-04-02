@@ -1,1 +1,1 @@
-var mnemonic = "curtain day slender mimic erase sniff desert payment power mansion car immense";
+var mnemonic = "author creek orient prepare leg enforce error impose skill again main lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "month leader ghost ignore pipe carry credit island spatial rubber travel outside";
+var mnemonic = "play service uncle hundred dutch during render clip salon twenty avocado major";

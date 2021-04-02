@@ -1,1 +1,1 @@
-var mnemonic = "poverty load dutch symptom rhythm unknown ozone power town obey behind blur";
+var mnemonic = "sword become budget rookie heart knee sea dutch leaf merit library flee";

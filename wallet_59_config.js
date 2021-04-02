@@ -1,1 +1,1 @@
-var mnemonic = "inch shoe card syrup injury basket empty curious price pony bitter rely";
+var mnemonic = "inherit slot escape guitar transfer license enhance puppy phrase eyebrow mobile pool";

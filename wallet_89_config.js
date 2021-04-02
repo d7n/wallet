@@ -1,1 +1,1 @@
-var mnemonic = "wet ethics estate wide pilot hire globe have employ cherry bless stick";
+var mnemonic = "idea sting wide safe bacon wet spoil actress rude olive trigger acoustic";

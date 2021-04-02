@@ -1,1 +1,1 @@
-var mnemonic = "also wink crane riot deputy identify wheel squeeze evidence quarter summer impulse";
+var mnemonic = "menu exist lesson air dune forum under cradle nose run purpose text";

@@ -1,1 +1,1 @@
-var mnemonic = "drip solar harbor valid whale ticket knife wedding balance digital receive royal";
+var mnemonic = "sound proof rice shed common note drink south dust add bundle atom";

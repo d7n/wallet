@@ -1,1 +1,1 @@
-var mnemonic = "where pumpkin swear clap sphere toe accuse biology turtle seat poverty unfold";
+var mnemonic = "visit audit cage swim physical river bracket they reopen life broom color";

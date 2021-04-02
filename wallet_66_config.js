@@ -1,1 +1,1 @@
-var mnemonic = "permit manual net trim crater arena exotic skill accident limit siren canal";
+var mnemonic = "pulse arctic shield jump check clog tribe pipe soul twist market suit";

@@ -1,1 +1,1 @@
-var mnemonic = "file exist cradle rule license sea sword hidden list there raven zebra";
+var mnemonic = "kitchen tray neglect figure over beef online equip rubber twenty history measure";

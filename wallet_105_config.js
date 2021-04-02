@@ -1,1 +1,1 @@
-var mnemonic = "walnut control awful drink identify donkey diagram bullet crunch utility replace route";
+var mnemonic = "like stadium horror happy drill collect harvest tired fossil enter hole blanket";
