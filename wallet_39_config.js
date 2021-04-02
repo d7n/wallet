@@ -1,1 +1,1 @@
-var mnemonic = "grain visit ice virus skin forget actual obey icon unit ship february";
+var mnemonic = "reject dizzy ankle humor peasant blush pilot satisfy hold couch fever spray";

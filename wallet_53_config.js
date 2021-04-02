@@ -1,1 +1,1 @@
-var mnemonic = "lift submit hurt hub burger core blanket decorate fix ramp small image";
+var mnemonic = "thrive share remind three wonder spend negative east all you permit delay";

@@ -1,1 +1,1 @@
-var mnemonic = "december service donate crisp width stairs mansion funny antique health certain include";
+var mnemonic = "song detect wood scale system width pitch cable live crouch bargain vacant";

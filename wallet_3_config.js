@@ -1,1 +1,1 @@
-var mnemonic = "fat crunch trust distance victory prepare tragic enough change govern leader nuclear";
+var mnemonic = "observe depend humor tube diesel jump spider matrix satoshi fetch poem glow";

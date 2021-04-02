@@ -1,1 +1,1 @@
-var mnemonic = "tornado alert list around install lobster sure delay scare catalog latin regret";
+var mnemonic = "asthma other until duck carbon flag comfort tree describe broom green volcano";

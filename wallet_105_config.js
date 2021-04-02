@@ -1,1 +1,1 @@
-var mnemonic = "point please exotic typical pole mother benefit sport moment ozone dust guess";
+var mnemonic = "canoe attack time core response bright kangaroo depart april fire vintage news";

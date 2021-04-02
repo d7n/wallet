@@ -1,1 +1,1 @@
-var mnemonic = "tray real priority radar session menu hen quantum double renew tenant loan";
+var mnemonic = "coil dinner local address later cruel drift mean plug advice vacant claw";

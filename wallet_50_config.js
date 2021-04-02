@@ -1,1 +1,1 @@
-var mnemonic = "admit tide elbow useful net merry razor make earth bomb creek age";
+var mnemonic = "hover desk hill rhythm letter adapt trend payment pencil lumber van wet";

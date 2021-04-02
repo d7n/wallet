@@ -1,1 +1,1 @@
-var mnemonic = "know hold chef diet horn deer increase glance ignore enact business mask";
+var mnemonic = "giggle noodle stomach payment brand visual jacket timber round they sheriff swim";

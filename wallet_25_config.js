@@ -1,1 +1,1 @@
-var mnemonic = "pool gas intact satisfy airport primary thumb sauce chest until nest kick";
+var mnemonic = "potato ribbon hour hybrid use winner that merit budget mule wool praise";

@@ -1,1 +1,1 @@
-var mnemonic = "denial cluster husband lyrics wish multiply dad suspect forget sure rose slab";
+var mnemonic = "ride clay gold sadness margin trade praise undo song flush cabbage solution";

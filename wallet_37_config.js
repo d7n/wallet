@@ -1,1 +1,1 @@
-var mnemonic = "debate myself bitter text cute ready diesel bird gap above space sketch";
+var mnemonic = "armed capital maze elder bottom illegal tray drill various enough budget about";

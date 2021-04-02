@@ -1,1 +1,1 @@
-var mnemonic = "output surprise mad wheel idea depth chair timber bacon degree poet scan";
+var mnemonic = "index silent sausage merit sick hat tiger october celery escape aunt coffee";

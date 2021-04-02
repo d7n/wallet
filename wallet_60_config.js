@@ -1,1 +1,1 @@
-var mnemonic = "obscure quiz wealth heart remove meat cross box spot diary sugar ugly";
+var mnemonic = "bless math allow venture predict wrestle labor omit banner cereal zero glimpse";

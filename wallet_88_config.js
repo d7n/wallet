@@ -1,1 +1,1 @@
-var mnemonic = "catalog toe unique lumber diagram hammer have west narrow invest zone critic";
+var mnemonic = "rate balance shop inmate design soul question poem outside lion skin ancient";

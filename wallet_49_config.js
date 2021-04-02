@@ -1,1 +1,1 @@
-var mnemonic = "term give much adapt expire tongue cushion tuna debate clarify top rebel";
+var mnemonic = "gesture veteran team clever uncle frozen weather radar luggage mushroom laundry phrase";

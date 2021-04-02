@@ -1,1 +1,1 @@
-var mnemonic = "patrol arch ceiling trouble step snap author undo document anxiety clutch glove";
+var mnemonic = "matter tooth village much physical spy excuse coconut cube daughter domain abstract";

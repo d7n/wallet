@@ -1,1 +1,1 @@
-var mnemonic = "gorilla fade joy blush post attack hazard trip guard audit remember grit";
+var mnemonic = "suggest tower open bike mandate feature document habit amount silly senior smooth";

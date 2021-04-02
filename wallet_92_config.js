@@ -1,1 +1,1 @@
-var mnemonic = "skull rigid quiz caught proud jelly lift thought anchor order course theme";
+var mnemonic = "trumpet asset twelve neutral damage mass estate snow suit shine such girl";

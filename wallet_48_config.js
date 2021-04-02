@@ -1,1 +1,1 @@
-var mnemonic = "giraffe tag during reflect undo swim party rate vacant twice tunnel february";
+var mnemonic = "field else release sense era blouse guide omit misery hood window build";

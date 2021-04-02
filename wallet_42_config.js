@@ -1,1 +1,1 @@
-var mnemonic = "sleep ball ride era soda thank pigeon job tape purity suggest tiny";
+var mnemonic = "light awesome drift flight chronic swallow nice arctic electric disagree surface join";

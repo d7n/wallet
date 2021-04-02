@@ -1,1 +1,1 @@
-var mnemonic = "hockey track illness violin oil confirm better crowd table old guilt noble";
+var mnemonic = "trust intact arena beauty only bubble either sunny town connect accuse candy";

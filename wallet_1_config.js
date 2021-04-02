@@ -1,1 +1,1 @@
-var mnemonic = "because tree neck brush job run strike very design foot prison appear";
+var mnemonic = "direct armed behind define sight flash urban fog acquire build sauce ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "april buddy glare business riot menu popular cabbage bird false version during";
+var mnemonic = "admit hollow dinner boost sniff silver sad patient length antenna genuine quiz";

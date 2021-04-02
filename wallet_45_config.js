@@ -1,1 +1,1 @@
-var mnemonic = "police pitch paddle sail ice bomb drop month human ankle music actual";
+var mnemonic = "work advice age cruel injury decrease bicycle simple icon usual repeat clever";

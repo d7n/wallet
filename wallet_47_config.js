@@ -1,1 +1,1 @@
-var mnemonic = "inform sad initial treat reward swallow visual gather act tomorrow course imitate";
+var mnemonic = "sausage window jungle warm window armor fire decade hello impact view grit";

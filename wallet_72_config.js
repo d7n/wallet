@@ -1,1 +1,1 @@
-var mnemonic = "abuse occur regular wisdom drift puppy economy degree bone practice diamond embrace";
+var mnemonic = "soldier miss useless lazy amount erosion side luxury venture conduct oven bullet";

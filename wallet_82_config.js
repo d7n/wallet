@@ -1,1 +1,1 @@
-var mnemonic = "jewel egg ten elbow reward hotel puzzle obvious birth lion story bridge";
+var mnemonic = "piece robust buyer left special busy crane sauce solve tattoo under harbor";

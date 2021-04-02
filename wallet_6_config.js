@@ -1,1 +1,1 @@
-var mnemonic = "federal describe rude airport include tackle foil roast sail armor occur accuse";
+var mnemonic = "know west budget list summer shrimp mixture viable issue occur artwork exclude";

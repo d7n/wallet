@@ -1,1 +1,1 @@
-var mnemonic = "broccoli maple autumn script vast deny whip tone payment rather trap flip";
+var mnemonic = "reward before busy identify icon erupt town deer narrow link also wine";

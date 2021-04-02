@@ -1,1 +1,1 @@
-var mnemonic = "social volcano cancel topic garlic busy accuse cherry silly high token yard";
+var mnemonic = "crunch legal force stairs table egg flag hello settle patch legend walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "face alley glue amazing child author rent setup lift rebel rely oxygen";
+var mnemonic = "city visual wheat below mystery noodle clog dust gain possible album faculty";

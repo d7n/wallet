@@ -1,1 +1,1 @@
-var mnemonic = "boy script demand chef grow congress tissue valley deny endless enlist select";
+var mnemonic = "physical depend walnut faint front gravity kiss canal jungle habit royal banner";

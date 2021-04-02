@@ -1,1 +1,1 @@
-var mnemonic = "embark emerge into squeeze label vacuum interest replace soldier mule price speed";
+var mnemonic = "lens hover fragile lonely hand sign fiscal unknown knife alcohol blame junior";

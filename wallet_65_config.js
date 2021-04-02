@@ -1,1 +1,1 @@
-var mnemonic = "fork general reopen goddess online evolve arrest million biology street swallow steel";
+var mnemonic = "shine ostrich analyst feature citizen route column thank cube squeeze expand wreck";

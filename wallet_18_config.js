@@ -1,1 +1,1 @@
-var mnemonic = "better setup marine salmon trigger proud earn spoon aerobic poverty core plunge";
+var mnemonic = "wagon grief push trend place number curious jump drama surface cabin mixed";

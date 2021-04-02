@@ -1,1 +1,1 @@
-var mnemonic = "kite stock mutual stomach few canoe trade mixed exact shove cherry eager";
+var mnemonic = "fiction recycle acoustic toe small enable limb help asthma possible jewel object";

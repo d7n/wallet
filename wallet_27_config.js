@@ -1,1 +1,1 @@
-var mnemonic = "harbor pill friend home pony minute shaft figure bubble order thrive regret";
+var mnemonic = "onion arch riot thunder skate kite erase learn inch amount unit beef";

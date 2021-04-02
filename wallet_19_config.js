@@ -1,1 +1,1 @@
-var mnemonic = "neither juice broom afford sniff bean surround orchard farm stock unfair license";
+var mnemonic = "quiz admit clip enemy divide smooth material imitate loop purchase charge buddy";

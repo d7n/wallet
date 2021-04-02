@@ -1,1 +1,1 @@
-var mnemonic = "identify tool cup click diet hidden someone afford solar sorry spell practice";
+var mnemonic = "lab goat vote subway doll maze dynamic kite rib actress song tennis";

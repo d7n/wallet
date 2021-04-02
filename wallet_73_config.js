@@ -1,1 +1,1 @@
-var mnemonic = "shy weekend clip vessel symptom ecology wagon raccoon taste unfold fat kiwi";
+var mnemonic = "dentist decade boil animal educate pride bring orient lion initial trial door";

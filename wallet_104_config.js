@@ -1,1 +1,1 @@
-var mnemonic = "south wrestle pulse suspect huge sibling give battle fury furnace library abstract";
+var mnemonic = "indoor casual later margin drip shell ski feel large outer tank chapter";

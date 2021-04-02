@@ -1,1 +1,1 @@
-var mnemonic = "addict render only wheat hub usage point volume surprise rib dress category";
+var mnemonic = "hidden ethics hobby coffee liquid enact about blue filter still faith inject";

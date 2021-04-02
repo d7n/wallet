@@ -1,1 +1,1 @@
-var mnemonic = "idea party alley decline blush equip border collect fall purpose shrug pony";
+var mnemonic = "horse purse wonder dial choose face word frame case tool exhibit interest";

@@ -1,1 +1,1 @@
-var mnemonic = "federal innocent twin squeeze vanish leg reveal ginger legal federal region library";
+var mnemonic = "agree shrug decide spirit swarm cloth service dad glad love install aerobic";

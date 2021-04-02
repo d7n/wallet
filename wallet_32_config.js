@@ -1,1 +1,1 @@
-var mnemonic = "tobacco surprise plunge direct during century pluck split girl dawn naive onion";
+var mnemonic = "lottery question edge two open crush emotion village hero eight double place";

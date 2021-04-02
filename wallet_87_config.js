@@ -1,1 +1,1 @@
-var mnemonic = "leg absurd favorite host salon circle suffer glove width alarm tongue olympic";
+var mnemonic = "rescue wagon tuna story develop curtain diesel bridge panel when myth video";

@@ -1,1 +1,1 @@
-var mnemonic = "real curious leave vintage intact galaxy rabbit shy shop explain zoo plastic";
+var mnemonic = "drive intact young organ either endless despair burst total pulp powder world";

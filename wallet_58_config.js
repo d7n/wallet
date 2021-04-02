@@ -1,1 +1,1 @@
-var mnemonic = "slide issue post easily oval input stuff harvest stock hip pet outdoor";
+var mnemonic = "wolf become lecture cube ordinary dragon submit inflict hurry joke way tray";

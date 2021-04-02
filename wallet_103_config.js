@@ -1,1 +1,1 @@
-var mnemonic = "sentence lucky image able oblige kitchen castle nurse mass boring prize bread";
+var mnemonic = "consider feed age require creek hybrid match injury glory art beyond hover";

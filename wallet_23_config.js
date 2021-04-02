@@ -1,1 +1,1 @@
-var mnemonic = "flat thumb police fold bicycle laundry enjoy error guide hint magic virtual";
+var mnemonic = "only print forest pitch reflect woman canoe leopard actor move repair day";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak vast salmon sunny woman clerk just record gap loyal annual clock";
+var mnemonic = "nice message question message mirror then demise fiscal divide suspect mind belt";

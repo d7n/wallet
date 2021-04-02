@@ -1,1 +1,1 @@
-var mnemonic = "lobster hill aspect actress donate scrap swift hurt length rate exist bamboo";
+var mnemonic = "expect spread betray clever since educate piano mule lens rare useless dignity";

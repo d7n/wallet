@@ -1,1 +1,1 @@
-var mnemonic = "tackle soft mercy avocado bicycle panic plug regular leopard sense maid oak";
+var mnemonic = "volume life output alter laundry lift post arrange alien coast teach guitar";

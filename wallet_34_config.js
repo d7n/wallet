@@ -1,1 +1,1 @@
-var mnemonic = "soul result output garbage correct come monster slender auction need rebel only";
+var mnemonic = "dilemma base reform trial nature biology magnet duck answer reason patrol burden";

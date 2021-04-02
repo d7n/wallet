@@ -1,1 +1,1 @@
-var mnemonic = "resource frame deal butter moon antenna people harbor dumb scout match galaxy";
+var mnemonic = "dirt arrange buzz quiz disorder cousin never rubber vapor stay glance stomach";

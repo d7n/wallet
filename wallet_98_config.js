@@ -1,1 +1,1 @@
-var mnemonic = "off reform leaf fun occur early announce output wink agree spray aisle";
+var mnemonic = "pattern disease chunk target notable mansion seven symptom black device hole hurt";

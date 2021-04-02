@@ -1,1 +1,1 @@
-var mnemonic = "achieve sustain scorpion sustain double lazy motion know uphold crash cost check";
+var mnemonic = "sausage cook rhythm vapor baby bridge salmon target hill result surround half";

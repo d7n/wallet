@@ -1,1 +1,1 @@
-var mnemonic = "like jeans unfold swap shiver voice sign rule street abuse shell youth";
+var mnemonic = "slogan limb element vehicle expose jewel guess struggle wing broom delay raw";

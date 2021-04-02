@@ -1,1 +1,1 @@
-var mnemonic = "avoid put portion siege oval cruise wheel damage load dragon alien eternal";
+var mnemonic = "coffee laundry chef foster bullet punch enrich situate convince belt kick music";

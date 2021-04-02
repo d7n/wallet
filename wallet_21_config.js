@@ -1,1 +1,1 @@
-var mnemonic = "praise tuition lend equip dry priority praise royal crouch trip bubble birth";
+var mnemonic = "delay dinosaur antique bulb shuffle matter frown skull under farm island upper";

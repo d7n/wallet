@@ -1,1 +1,1 @@
-var mnemonic = "happy october canvas jump corn solar wheel now sausage raven hire okay";
+var mnemonic = "vicious glad paper hurry fancy resource safe gallery grid weather fantasy stick";

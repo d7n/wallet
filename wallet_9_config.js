@@ -1,1 +1,1 @@
-var mnemonic = "link track dawn exchange review arctic point asthma mosquito unaware body toilet";
+var mnemonic = "people mind nation fence mystery tag sport update addict crater grunt scheme";

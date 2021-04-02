@@ -1,1 +1,1 @@
-var mnemonic = "car car palace payment exchange dream toy chat indicate slice notice slide";
+var mnemonic = "mind extend favorite decide crack inquiry artefact arm juice tone wrist upon";

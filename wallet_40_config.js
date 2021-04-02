@@ -1,1 +1,1 @@
-var mnemonic = "wasp danger assault dance cash cliff indoor minute bonus derive eyebrow rich";
+var mnemonic = "venture budget wave spike skirt interest twice virtual candy mask music paper";

@@ -1,1 +1,1 @@
-var mnemonic = "denial excess erode where receive parade coin family era unaware crash away";
+var mnemonic = "stuff garbage inflict pole dentist comic ritual typical deliver multiply fiscal diary";

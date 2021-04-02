@@ -1,1 +1,1 @@
-var mnemonic = "inquiry differ labor horn attract maximum step hair luxury year practice frog";
+var mnemonic = "tackle fat typical raise used man upper dash robust latin pepper today";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster treat diesel flee globe fossil fox coil claim cup harvest hockey";
+var mnemonic = "whisper that inspire immune round inquiry fiscal worth rare glass share theme";

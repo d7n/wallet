@@ -1,1 +1,1 @@
-var mnemonic = "route armed define fox assist help strike stomach eight candy ethics museum";
+var mnemonic = "endless ahead want opinion rely easily assist protect slot face ocean radio";

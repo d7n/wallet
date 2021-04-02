@@ -1,1 +1,1 @@
-var mnemonic = "verify juice describe video achieve mammal purchase hole tuna home police allow";
+var mnemonic = "fold ladder stereo label bleak master emerge join stumble gather theme session";

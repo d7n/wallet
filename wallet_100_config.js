@@ -1,1 +1,1 @@
-var mnemonic = "fitness priority poet lion lucky radio nice liberty wish yellow ritual nominee";
+var mnemonic = "cloud group unknown sick bottom oak virus scrap viable winter census mixture";

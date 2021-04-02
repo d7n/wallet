@@ -1,1 +1,1 @@
-var mnemonic = "arrange hero reunion because artwork night donate replace garden miracle very twenty";
+var mnemonic = "effort seek husband spray side able banana tilt debris rare parrot task";

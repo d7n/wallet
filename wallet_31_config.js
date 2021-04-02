@@ -1,1 +1,1 @@
-var mnemonic = "usage sad emerge average cycle mango middle mixture cram grape around device";
+var mnemonic = "ocean cushion puzzle rate manual vacant sell own glow patrol equip mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "behave grab angry crash twice lyrics develop exclude tape clinic force phone";
+var mnemonic = "guilt heart there recycle cram hair couple pool menu decade surprise evidence";

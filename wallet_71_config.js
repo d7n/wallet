@@ -1,1 +1,1 @@
-var mnemonic = "decade urge lawsuit concert mad provide eternal sniff gadget token note scene";
+var mnemonic = "shop ancient rigid jump pencil focus culture burden elephant suit rack kingdom";

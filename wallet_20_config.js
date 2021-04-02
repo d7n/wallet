@@ -1,1 +1,1 @@
-var mnemonic = "across alcohol false credit breeze pottery few alien special dove mix peanut";
+var mnemonic = "type window luggage crush spare hospital party burst peanut goose plate october";

@@ -1,1 +1,1 @@
-var mnemonic = "funny thing jeans very nut fun excess scale keen clerk talent butter";
+var mnemonic = "cement icon autumn idle orphan super remind under wolf screen scrub member";

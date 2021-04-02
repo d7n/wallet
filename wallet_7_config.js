@@ -1,1 +1,1 @@
-var mnemonic = "icon zoo impact hurry join grape agree auto fiscal wait opinion trip";
+var mnemonic = "clump music despair market wine news indoor heavy inform kid diamond flat";

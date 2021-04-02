@@ -1,1 +1,1 @@
-var mnemonic = "hair rifle brick lottery champion behind nominee chief raw alter foam fork";
+var mnemonic = "audit answer seed kit napkin sorry barely hope setup legend orient balcony";

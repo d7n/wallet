@@ -1,1 +1,1 @@
-var mnemonic = "hunt cram cup twelve swarm surge moon only man kitten danger usage";
+var mnemonic = "rug radio steak tide reflect give nurse limit bleak goose latin sell";

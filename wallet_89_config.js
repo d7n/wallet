@@ -1,1 +1,1 @@
-var mnemonic = "curious hawk coach weather screen slow furnace damp bleak artefact mistake audit";
+var mnemonic = "token age firm option barrel account cheese ridge key service half life";

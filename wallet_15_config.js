@@ -1,1 +1,1 @@
-var mnemonic = "connect knock car badge access chat such wealth camera parent camp vocal";
+var mnemonic = "claw increase tower random degree point soldier link weather vote nurse stage";

@@ -1,1 +1,1 @@
-var mnemonic = "core medal analyst thrive rely mask bundle focus flame sword bunker vanish";
+var mnemonic = "figure panda because holiday agent same honey physical flower divide street alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "quality poverty pill drive nasty laptop adjust spring remain imitate tomorrow poet";
+var mnemonic = "shell question will similar model pledge unusual scene car install ivory become";

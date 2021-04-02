@@ -1,1 +1,1 @@
-var mnemonic = "river roof ocean frequent planet company sphere flush equal wide sure palace";
+var mnemonic = "jelly access nephew eager auction fruit mercy employ can together awful survey";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle lucky symbol bicycle fashion butter inside slow liquid write erase above";
+var mnemonic = "lock vague advance upset need pretty clean awesome answer result build alpha";

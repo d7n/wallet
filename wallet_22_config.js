@@ -1,1 +1,1 @@
-var mnemonic = "matrix rebuild drill upon same usual pulse toddler direct worry grab space";
+var mnemonic = "code cloth tent lyrics logic region dinosaur champion lobster differ panda all";

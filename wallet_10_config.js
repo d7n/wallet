@@ -1,1 +1,1 @@
-var mnemonic = "spoon meat shield welcome frequent arctic glance rib find mechanic traffic essay";
+var mnemonic = "envelope gloom powder ignore cupboard fabric toss junk snake choice brother chicken";

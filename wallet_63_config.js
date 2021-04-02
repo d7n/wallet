@@ -1,1 +1,1 @@
-var mnemonic = "creek oxygen hold filter tower top either float silk kiwi thought chimney";
+var mnemonic = "trend token wait slice atom episode shield alien december thank impact brief";

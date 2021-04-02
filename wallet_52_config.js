@@ -1,1 +1,1 @@
-var mnemonic = "swim file violin hand joke fashion milk anxiety asthma enhance fiber fury";
+var mnemonic = "neglect meat bean rich put foam skin hidden skin order flush year";

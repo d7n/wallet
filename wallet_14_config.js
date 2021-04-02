@@ -1,1 +1,1 @@
-var mnemonic = "rib begin gentle radar birth fantasy wrap mango confirm river dirt among";
+var mnemonic = "rate eight wild ancient strike dish average intact sea city rice reveal";

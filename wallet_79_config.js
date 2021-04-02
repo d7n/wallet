@@ -1,1 +1,1 @@
-var mnemonic = "property cactus garage marriage school tragic humor bleak north warfare jazz coyote";
+var mnemonic = "toy fiber meat assault major super rabbit hard flash eternal peace magic";

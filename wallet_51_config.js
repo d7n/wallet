@@ -1,1 +1,1 @@
-var mnemonic = "audit change wish better better era decorate depth tonight stomach neck arena";
+var mnemonic = "inflict consider hat step assist decline host virtual broken repeat charge chase";

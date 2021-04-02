@@ -1,1 +1,1 @@
-var mnemonic = "toast bacon orient unlock bundle skirt quit second chest fever focus bright";
+var mnemonic = "floor puppy glide comfort eyebrow rebel response plunge small machine badge myself";

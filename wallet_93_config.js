@@ -1,1 +1,1 @@
-var mnemonic = "scrap pluck injury denial uphold actor elephant style into can false brain";
+var mnemonic = "expand shoulder desert effort caught maze express broom explain spice icon demise";

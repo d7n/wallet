@@ -1,1 +1,1 @@
-var mnemonic = "boring fashion absorb urban strategy maze update option history bitter quick bless";
+var mnemonic = "virus fork call patrol neck vendor hill yellow sport oval armed garden";
