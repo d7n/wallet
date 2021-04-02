@@ -1,1 +1,1 @@
-var mnemonic = "wisdom thought scene board cinnamon champion hub syrup ritual turn deposit exotic";
+var mnemonic = "since oval actor frozen final above supply royal liquid book balcony cupboard";

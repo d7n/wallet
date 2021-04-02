@@ -1,1 +1,1 @@
-var mnemonic = "urban property salmon buzz toy kit rug goat kitchen sustain increase welcome";
+var mnemonic = "shoe sail table person venture wrong siren habit soldier aisle enhance cloud";

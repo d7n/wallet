@@ -1,1 +1,1 @@
-var mnemonic = "fold alter smart online sword blast spatial unfair modify brave under jacket";
+var mnemonic = "apology amateur grocery rich rare stage brisk dirt fragile settle nuclear interest";

@@ -1,1 +1,1 @@
-var mnemonic = "bread fit tiny window hill program reason donkey clarify civil wear gorilla";
+var mnemonic = "library repeat dignity sting oppose tribe face crazy violin blanket answer fun";

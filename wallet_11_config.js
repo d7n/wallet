@@ -1,1 +1,1 @@
-var mnemonic = "shrimp melt valve auto reason extra lazy reject upon snap hospital mosquito";
+var mnemonic = "urban code clown network spy elite hundred loud verify phone volume shaft";

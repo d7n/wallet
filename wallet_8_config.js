@@ -1,1 +1,1 @@
-var mnemonic = "any ecology glad boring pet inquiry broccoli sauce glow sense album farm";
+var mnemonic = "quality across swear pupil begin remove actor cook path sponsor object illegal";

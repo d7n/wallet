@@ -1,1 +1,1 @@
-var mnemonic = "planet flag car tube curtain shaft forum brisk giggle meadow purpose sunny";
+var mnemonic = "twin genre next place claim budget alien horror home sick report mean";

@@ -1,1 +1,1 @@
-var mnemonic = "olive tornado hen blue grit reopen mistake juice bottom resist real goat";
+var mnemonic = "adult pig belt page also shrug badge local symptom solve tiny evolve";

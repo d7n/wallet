@@ -1,1 +1,1 @@
-var mnemonic = "host accuse interest supreme coin merry draw phone soda dizzy day clap";
+var mnemonic = "reduce series either execute robust crawl sister remove easy million rug response";

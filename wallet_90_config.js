@@ -1,1 +1,1 @@
-var mnemonic = "angle delay use dog start tiny narrow arrest quality arm law approve";
+var mnemonic = "thunder key mushroom chat initial detail swamp flip virus man proud skull";

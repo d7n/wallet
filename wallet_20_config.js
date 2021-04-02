@@ -1,1 +1,1 @@
-var mnemonic = "vault horse direct team calm private demise lunar social daring load cable";
+var mnemonic = "column day cloth egg bind match zone feed crash core carbon milk";

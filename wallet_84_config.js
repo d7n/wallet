@@ -1,1 +1,1 @@
-var mnemonic = "protect teach feature symptom truly flee book chronic minute daring craft coil";
+var mnemonic = "they illness document icon tiger depth shine hand drama assume again elder";

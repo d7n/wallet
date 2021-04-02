@@ -1,1 +1,1 @@
-var mnemonic = "remove globe casual summer note special alpha upper color put panic search";
+var mnemonic = "insect scare smoke kingdom radio divert beauty reason joke coin shoot decline";

@@ -1,1 +1,1 @@
-var mnemonic = "forum chest more shine final share escape ketchup arrow dolphin swap account";
+var mnemonic = "renew settle airport bike art hero valley body popular bind radar pulp";

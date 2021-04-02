@@ -1,1 +1,1 @@
-var mnemonic = "shoulder end panther divorce genre word admit verb hurdle predict panel change";
+var mnemonic = "cement manage level squirrel dance acoustic sort run spider scorpion gasp hold";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey bronze exile hood enroll ginger space filter zero tennis bread practice";
+var mnemonic = "cave like route van ketchup sponsor prevent benefit future uniform crime pattern";

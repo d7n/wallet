@@ -1,1 +1,1 @@
-var mnemonic = "dial depend fabric split consider logic enrich orient observe squeeze over split";
+var mnemonic = "radar divide run title stay energy rug practice shock small upgrade board";

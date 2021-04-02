@@ -1,1 +1,1 @@
-var mnemonic = "asthma rebuild cruel extra tooth just glimpse meat depart local axis shove";
+var mnemonic = "share slogan mistake garden limb kangaroo toss metal range flat taste large";

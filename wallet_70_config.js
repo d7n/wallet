@@ -1,1 +1,1 @@
-var mnemonic = "yellow crystal vintage detail mix universe casino film abstract alpha crowd cream";
+var mnemonic = "artefact end sunny mercy shop icon note auto relief miracle tobacco slender";

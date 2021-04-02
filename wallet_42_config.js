@@ -1,1 +1,1 @@
-var mnemonic = "better neglect mosquito fan practice mechanic toddler plastic reduce orbit stomach later";
+var mnemonic = "decrease inside result over merit december awkward pride primary satoshi divert firm";

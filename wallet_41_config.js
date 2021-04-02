@@ -1,1 +1,1 @@
-var mnemonic = "very mule mimic capital gap enough entry crane sustain reward hello purse";
+var mnemonic = "seek wood truth wear search caught need curious kitten curtain ensure bid";

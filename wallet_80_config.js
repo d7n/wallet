@@ -1,1 +1,1 @@
-var mnemonic = "cabin meadow now meadow stool oak earth goose federal rely kitten grab";
+var mnemonic = "ramp nasty alarm split owner dizzy shadow again box anger cash zebra";

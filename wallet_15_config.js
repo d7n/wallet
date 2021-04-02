@@ -1,1 +1,1 @@
-var mnemonic = "tent soft decade arrow ceiling culture mammal cactus torch citizen second essence";
+var mnemonic = "nephew library luggage magnet harbor group feed plate alcohol feel potato aspect";

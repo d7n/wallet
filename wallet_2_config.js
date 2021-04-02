@@ -1,1 +1,1 @@
-var mnemonic = "profit air session night cherry caught mutual balance mad object anchor draw";
+var mnemonic = "leisure uncle rate fork average will host letter olive apple repair home";

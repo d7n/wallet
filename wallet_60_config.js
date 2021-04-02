@@ -1,1 +1,1 @@
-var mnemonic = "frame logic boring upon source humor carpet relax brown scheme august head";
+var mnemonic = "shop six army notice couple over ostrich proof purchase express science absorb";

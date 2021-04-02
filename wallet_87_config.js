@@ -1,1 +1,1 @@
-var mnemonic = "march denial super found attitude spice husband accuse resemble follow hub eternal";
+var mnemonic = "tissue regular illegal comic only divorce scare oyster fame judge guitar fatal";

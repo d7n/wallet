@@ -1,1 +1,1 @@
-var mnemonic = "science hotel cage erosion target few glad fire system cloud survey wrestle";
+var mnemonic = "laptop silk warm useless barrel dizzy pave sadness very destroy bird smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "double budget denial canvas plunge prepare kid panic frame atom depend velvet";
+var mnemonic = "cattle admit siege small expose idea hello happy faint picnic copper chaos";

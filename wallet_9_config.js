@@ -1,1 +1,1 @@
-var mnemonic = "emotion pact oyster explain pause various web hold update code bone spot";
+var mnemonic = "grab pill capable broken ticket social earth dynamic rib kite tilt orchard";

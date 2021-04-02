@@ -1,1 +1,1 @@
-var mnemonic = "venture wisdom silly stem update only version cement space fatigue auction oven";
+var mnemonic = "weapon onion uphold party excuse monkey mystery myself snow still short loan";

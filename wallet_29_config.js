@@ -1,1 +1,1 @@
-var mnemonic = "strike custom stumble margin that crime garden bus man click jealous ancient";
+var mnemonic = "since option unlock priority blood divorce good length brave since swallow moral";

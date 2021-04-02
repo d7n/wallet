@@ -1,1 +1,1 @@
-var mnemonic = "useful special mechanic renew dizzy near myth lobster response grass satisfy thank";
+var mnemonic = "achieve fatigue door brother taste fury endless burger cram soft item basic";

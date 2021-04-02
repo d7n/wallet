@@ -1,1 +1,1 @@
-var mnemonic = "gasp satisfy festival add announce couch near mind suspect road right syrup";
+var mnemonic = "evoke smoke rifle myth sphere teach grief sunny captain amazing gospel height";

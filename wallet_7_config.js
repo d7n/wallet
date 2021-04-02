@@ -1,1 +1,1 @@
-var mnemonic = "crash else name spike bitter cart violin muscle measure detail bargain cigar";
+var mnemonic = "prize fatigue spike brave artist below emerge next wet vivid monitor eternal";

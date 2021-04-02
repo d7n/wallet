@@ -1,1 +1,1 @@
-var mnemonic = "extend then film bargain rebuild return keep entry unfair snake bridge useful";
+var mnemonic = "lucky reject thunder bonus choice boring obey sock spatial rebel blouse whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder begin minor light wing century avocado gloom glow erupt illness trip";
+var mnemonic = "short stem soft useful draft yard face neither enforce machine almost else";

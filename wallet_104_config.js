@@ -1,1 +1,1 @@
-var mnemonic = "detect cause whip blade humor slow reject hundred lion layer grunt hazard";
+var mnemonic = "cute reason purpose hire era cost game sketch tornado cigar quiz senior";

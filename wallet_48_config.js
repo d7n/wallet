@@ -1,1 +1,1 @@
-var mnemonic = "alter render derive always hamster entry develop tag tent scrap point clock";
+var mnemonic = "clown fatigue network solve shy soon window asthma lens stamp elder purchase";

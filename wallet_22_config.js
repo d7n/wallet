@@ -1,1 +1,1 @@
-var mnemonic = "wrong rigid this rude maple couple ranch curious fan frown stairs huge";
+var mnemonic = "reveal wheat knock climb glass million party deer luggage captain year enroll";

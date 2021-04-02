@@ -1,1 +1,1 @@
-var mnemonic = "promote tumble alpha know gossip measure track bike hammer viable almost sing";
+var mnemonic = "wolf erosion ugly one rain tuna melt either weekend deal dignity awake";

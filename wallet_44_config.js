@@ -1,1 +1,1 @@
-var mnemonic = "camera glove invest hawk dynamic cup dry cave travel tattoo what rifle";
+var mnemonic = "laugh index nasty diet innocent victory vote myth tent decline dial frown";

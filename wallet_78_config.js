@@ -1,1 +1,1 @@
-var mnemonic = "private steel stand design uncle earn coyote card cigar three weasel caution";
+var mnemonic = "major general spin cruel innocent weather stick brand barrel sniff citizen believe";

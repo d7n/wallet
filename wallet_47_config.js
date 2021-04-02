@@ -1,1 +1,1 @@
-var mnemonic = "guide spot still supply strong prevent section move half pen such use";
+var mnemonic = "hurdle young vicious captain empty hospital carpet arrow sweet reunion shell blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse around decorate luggage survey peanut entry comic flock arrow ranch sleep";
+var mnemonic = "pluck rib final solve more trick announce goddess where pledge column bulb";

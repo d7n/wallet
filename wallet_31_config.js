@@ -1,1 +1,1 @@
-var mnemonic = "victory jump cigar action solid motor produce field surprise hidden busy conduct";
+var mnemonic = "enact client evoke tube face rain mouse brand iron screen news recall";

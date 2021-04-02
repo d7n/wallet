@@ -1,1 +1,1 @@
-var mnemonic = "lens tool roast frost seminar give punch forest client traffic you render";
+var mnemonic = "erupt legend fall stereo comic spoon aisle depend discover address hunt rare";

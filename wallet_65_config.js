@@ -1,1 +1,1 @@
-var mnemonic = "comfort ready author horror whisper blame unfair saddle long kick plate humble";
+var mnemonic = "giraffe typical patch hub goddess mother school range produce carpet leisure squirrel";

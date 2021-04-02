@@ -1,1 +1,1 @@
-var mnemonic = "admit love gold blood repeat used mobile science melt jungle flock toddler";
+var mnemonic = "that smoke mirror combine sponsor insane hurt suggest tattoo snake mail panic";

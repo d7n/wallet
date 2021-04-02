@@ -1,1 +1,1 @@
-var mnemonic = "gentle stomach mistake shy bless pet avoid demise silly fossil one horse";
+var mnemonic = "sugar pull hollow lamp between fitness evoke endless arrow family inmate excite";

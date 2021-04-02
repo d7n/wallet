@@ -1,1 +1,1 @@
-var mnemonic = "bleak couple spatial armor work alone limb jazz hub spend under raven";
+var mnemonic = "action scissors crawl purpose puzzle key country say entire salmon review output";

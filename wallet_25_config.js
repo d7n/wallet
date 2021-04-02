@@ -1,1 +1,1 @@
-var mnemonic = "adult taxi recall reopen gadget creek denial price oven tank brief maze";
+var mnemonic = "wash trade tired blush pause card acid tourist winter happy decline fetch";

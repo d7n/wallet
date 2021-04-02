@@ -1,1 +1,1 @@
-var mnemonic = "cliff chat fault young parent portion problem erode scrap try table chuckle";
+var mnemonic = "heart display eager banana embark rib bleak buzz broken exercise trim escape";

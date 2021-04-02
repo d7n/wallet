@@ -1,1 +1,1 @@
-var mnemonic = "very bag million stomach foam penalty flame among venue fire august phone";
+var mnemonic = "spoil scale movie wool eagle file unhappy antenna reunion wool strong express";

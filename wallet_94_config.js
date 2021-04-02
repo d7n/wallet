@@ -1,1 +1,1 @@
-var mnemonic = "mother sand panic shuffle empty bubble utility remain palm hub trophy juice";
+var mnemonic = "version robot riot know include farm syrup food rebuild bar mountain push";

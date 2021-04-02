@@ -1,1 +1,1 @@
-var mnemonic = "glide shell radio million device cover over identify mammal gown property into";
+var mnemonic = "frame effort course neither spoon bounce empower mother punch turtle wool wink";

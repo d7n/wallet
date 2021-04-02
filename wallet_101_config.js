@@ -1,1 +1,1 @@
-var mnemonic = "mistake remember motion tomorrow clock vague deer acoustic amazing valley ecology wasp";
+var mnemonic = "flip give key eyebrow river clinic require sense extend amused ocean avocado";

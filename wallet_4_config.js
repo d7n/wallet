@@ -1,1 +1,1 @@
-var mnemonic = "wrong wire turtle daughter purpose mother series stand course proud same taste";
+var mnemonic = "just praise tunnel mistake pledge social earn kind address virus chicken strike";

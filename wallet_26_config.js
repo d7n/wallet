@@ -1,1 +1,1 @@
-var mnemonic = "injury vehicle govern case abstract mechanic cotton diesel faint fiction flock vanish";
+var mnemonic = "olive decrease jump increase fatal trend rotate whale pony slush follow possible";

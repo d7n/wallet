@@ -1,1 +1,1 @@
-var mnemonic = "thunder during diagram illness issue kind skull rebel piece style soccer cart";
+var mnemonic = "identify ability kiwi curious multiply jar physical vote trip garment gate inch";

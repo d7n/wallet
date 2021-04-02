@@ -1,1 +1,1 @@
-var mnemonic = "share miss region course toilet list wife host spring exotic lazy shy";
+var mnemonic = "pizza baby unaware reflect weapon guitar captain peanut manage badge fetch service";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce swift dismiss pet animal boy main more poet soccer quarter rebel";
+var mnemonic = "delay coach clerk dinner snake toilet cradle dawn card verify food rent";

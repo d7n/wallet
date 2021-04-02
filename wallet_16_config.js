@@ -1,1 +1,1 @@
-var mnemonic = "chapter simple circle floor joke symbol upgrade genuine help key together crack";
+var mnemonic = "please sleep talk section dial zone spell actress shield bleak office stove";

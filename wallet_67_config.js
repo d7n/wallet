@@ -1,1 +1,1 @@
-var mnemonic = "shallow hobby indoor fruit sell shove lemon eager home neck viable drill";
+var mnemonic = "march bid priority kite wage argue add slender fury tenant slow betray";

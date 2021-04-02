@@ -1,1 +1,1 @@
-var mnemonic = "journey chief dumb badge wrist better share cream kitchen flag athlete embrace";
+var mnemonic = "spare lawsuit toilet pulp plate guilt kind industry father cradle vacuum avoid";

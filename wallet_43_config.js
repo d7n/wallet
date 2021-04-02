@@ -1,1 +1,1 @@
-var mnemonic = "silly angry guitar input quiz ridge come early always disorder plunge bottom";
+var mnemonic = "stick polar clever poem holiday child ice aspect depth adapt woman honey";

@@ -1,1 +1,1 @@
-var mnemonic = "drink actress piano once head edit elegant thrive mammal deny early segment";
+var mnemonic = "hub meadow space hill venue quantum ghost kid girl settle vast process";

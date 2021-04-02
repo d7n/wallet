@@ -1,1 +1,1 @@
-var mnemonic = "despair skate express december state pet abstract rookie cat victory hire away";
+var mnemonic = "work raven excess burger lounge smart grocery upset spider attract shield pipe";

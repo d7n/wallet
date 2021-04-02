@@ -1,1 +1,1 @@
-var mnemonic = "grunt skill run unable brother spirit pond supply goddess wait ritual asthma";
+var mnemonic = "zone cattle truly poet insect oil entire maze nerve sibling addict photo";

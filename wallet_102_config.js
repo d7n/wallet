@@ -1,1 +1,1 @@
-var mnemonic = "air struggle carry vote ramp wife code tray empty arrow ribbon alert";
+var mnemonic = "among urge desk gift intact salmon trap load million clap unique spice";

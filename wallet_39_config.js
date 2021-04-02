@@ -1,1 +1,1 @@
-var mnemonic = "unique sniff same little soda prosper fatal crop eight course turkey spoil";
+var mnemonic = "have shaft gossip mad only want swing coin easily foam crunch discover";

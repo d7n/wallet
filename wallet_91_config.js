@@ -1,1 +1,1 @@
-var mnemonic = "shove dry episode bar island lottery example stomach bird harvest supreme into";
+var mnemonic = "sight coach turtle kick traffic virus coffee number evoke pave average practice";

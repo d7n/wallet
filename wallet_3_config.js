@@ -1,1 +1,1 @@
-var mnemonic = "mutual scare spatial name pretty upon decorate resist unaware fashion gain broom";
+var mnemonic = "fit uphold swim sock senior cargo lion enjoy mammal certain glass meat";

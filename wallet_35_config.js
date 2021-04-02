@@ -1,1 +1,1 @@
-var mnemonic = "above miss baby silent lift spray toe cry grocery measure cover quote";
+var mnemonic = "excuse cram casual mandate enforce sister educate mesh level symptom parrot neutral";

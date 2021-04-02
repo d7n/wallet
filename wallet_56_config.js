@@ -1,1 +1,1 @@
-var mnemonic = "more record dinner monitor swallow random security wild card base easily maid";
+var mnemonic = "trash airport loan turkey quit exchange hobby shoe cotton gun march invite";

@@ -1,1 +1,1 @@
-var mnemonic = "glass cruel sentence keen point skirt loan panda split cherry insect radio";
+var mnemonic = "sustain rack exercise critic usual pool dwarf improve list consider edge basket";

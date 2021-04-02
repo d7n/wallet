@@ -1,1 +1,1 @@
-var mnemonic = "summer record case twenty across lecture theory crash body index word regret";
+var mnemonic = "mandate analyst moon develop label novel frozen toilet over legal buzz panic";

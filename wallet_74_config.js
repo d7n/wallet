@@ -1,1 +1,1 @@
-var mnemonic = "enter royal loud jelly flight pencil goat vital simple issue gravity measure";
+var mnemonic = "review oval flag stereo unknown ball fuel soon deer pink zone debate";

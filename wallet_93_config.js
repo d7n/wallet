@@ -1,1 +1,1 @@
-var mnemonic = "defy abandon absent erosion beauty film convince hero label loop pottery glad";
+var mnemonic = "welcome inhale hollow regret spell depth flee left purchase noodle where response";

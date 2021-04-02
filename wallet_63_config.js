@@ -1,1 +1,1 @@
-var mnemonic = "vacuum ten usual breeze eyebrow desk trust fog fluid chicken betray tornado";
+var mnemonic = "vacant limit sheriff dune occur grow march dry major unfair chef antenna";

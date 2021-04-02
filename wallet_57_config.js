@@ -1,1 +1,1 @@
-var mnemonic = "involve goddess parrot huge pink dance axis soup used hope trap clinic";
+var mnemonic = "finger wool humor emerge stay ceiling open move dutch addict dial sign";

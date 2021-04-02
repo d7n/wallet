@@ -1,1 +1,1 @@
-var mnemonic = "seek tourist thought wasp deputy smoke loop game position tell lumber point";
+var mnemonic = "post train public tribe cruise practice hospital word ramp credit artist name";

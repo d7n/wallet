@@ -1,1 +1,1 @@
-var mnemonic = "mango weapon village tourist artist diary bean mean payment proud saddle trap";
+var mnemonic = "lecture undo must dignity crash virtual curve bar walk degree initial tail";

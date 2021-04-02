@@ -1,1 +1,1 @@
-var mnemonic = "result tube habit latin enough harvest bottom mention unveil noble abstract thunder";
+var mnemonic = "draw grit wisdom father biology famous ladder throw coast clock recall impulse";

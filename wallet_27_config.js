@@ -1,1 +1,1 @@
-var mnemonic = "exit opera hammer motor shallow clip example pass immune skin engage noise";
+var mnemonic = "sample round alone law rural brown inspire age body pupil hire turtle";

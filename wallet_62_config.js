@@ -1,1 +1,1 @@
-var mnemonic = "later system oak reflect analyst object company allow possible portion laundry transfer";
+var mnemonic = "orbit narrow student churn shoulder demand chase like usual large place marble";

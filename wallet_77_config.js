@@ -1,1 +1,1 @@
-var mnemonic = "spy twin salmon goat mistake vicious exercise crush choice dignity fame expand";
+var mnemonic = "into ripple fox icon wrist balcony snow soap turn athlete mixture mushroom";

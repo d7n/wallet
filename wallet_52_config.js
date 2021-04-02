@@ -1,1 +1,1 @@
-var mnemonic = "monitor kidney depth spoil diesel blast absorb first winter october cement cement";
+var mnemonic = "all one stuff throw better lonely find general famous turtle bulb dragon";

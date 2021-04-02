@@ -1,1 +1,1 @@
-var mnemonic = "sock witness allow youth magic satisfy panel error remind velvet agent become";
+var mnemonic = "invite knife lift rent tuna second outer wreck forget actress meat lock";

@@ -1,1 +1,1 @@
-var mnemonic = "clip obscure bird offer remind elephant purity combine daughter junior nut soccer";
+var mnemonic = "small patient one fault hub night pudding palace gun ghost rate erode";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil multiply outer plug flip oxygen envelope wife spin zero shrug silent";
+var mnemonic = "piece eight bird crush ribbon duck flame grocery town crane season razor";
