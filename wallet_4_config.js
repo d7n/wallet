@@ -1,1 +1,1 @@
-var mnemonic = "frame want during bottom goat road salad around human suggest butter orchard";
+var mnemonic = "tape history sister moment ignore solid achieve yard switch update cannon message";

@@ -1,1 +1,1 @@
-var mnemonic = "neck owner virus finger era habit sand loud chuckle answer sword impose";
+var mnemonic = "need buffalo present emerge embark lemon cheese labor ramp rare episode nice";

@@ -1,1 +1,1 @@
-var mnemonic = "degree actress awake loan still wool cheese win captain mention you clarify";
+var mnemonic = "clinic sudden spare hello destroy guide praise confirm laptop lottery script clarify";

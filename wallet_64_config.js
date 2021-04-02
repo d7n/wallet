@@ -1,1 +1,1 @@
-var mnemonic = "frame still sound rough liquid robust update fork tiger furnace wish behave";
+var mnemonic = "side grain pottery rival jacket mansion that flush toast box toddler sick";

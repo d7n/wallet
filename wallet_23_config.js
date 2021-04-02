@@ -1,1 +1,1 @@
-var mnemonic = "truly price jump build panther slab stereo attitude animal rich child capable";
+var mnemonic = "tonight scare allow extend trick clever board barrel document oxygen stone soccer";

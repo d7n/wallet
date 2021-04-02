@@ -1,1 +1,1 @@
-var mnemonic = "normal ring organ pyramid cube toy half mom detail destroy cheese impact";
+var mnemonic = "jacket jazz music differ rain habit forum pioneer quiz opinion wash surge";

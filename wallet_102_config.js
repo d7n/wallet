@@ -1,1 +1,1 @@
-var mnemonic = "taxi alone outdoor hungry crucial poverty nasty merit crystal pupil robust axis";
+var mnemonic = "smart leader baby carbon destroy light exile tree endorse capable clinic fitness";

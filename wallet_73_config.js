@@ -1,1 +1,1 @@
-var mnemonic = "gate axis obey obvious armed version stand quiz yellow cave column cable";
+var mnemonic = "soda hello digital exotic chase almost hybrid bunker village just twice laundry";

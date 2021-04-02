@@ -1,1 +1,1 @@
-var mnemonic = "prepare curve bag saddle miss frame work play labor chest cruise welcome";
+var mnemonic = "banner enable kangaroo brand drive cart acquire giant laugh loop rigid zebra";

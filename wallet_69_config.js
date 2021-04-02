@@ -1,1 +1,1 @@
-var mnemonic = "ski prevent laptop elder napkin verify estate tortoise alley paddle olympic tube";
+var mnemonic = "exchange throw alert corn original intact winner neglect latin pitch edit like";

@@ -1,1 +1,1 @@
-var mnemonic = "sketch timber girl bitter sight use history access mesh odor pet dash";
+var mnemonic = "later ability always excite wool hen sausage inspire hold mom foster popular";

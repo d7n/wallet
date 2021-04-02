@@ -1,1 +1,1 @@
-var mnemonic = "jump better surround lottery blanket boost wood tackle witness indoor danger truck";
+var mnemonic = "glass protect before airport witness burden pony acquire gospel model emotion capital";

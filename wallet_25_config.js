@@ -1,1 +1,1 @@
-var mnemonic = "play segment wine sting limit mom cousin light essence note nest setup";
+var mnemonic = "brand soccer cruel notice weird puppy much tree little huge hybrid address";

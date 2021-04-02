@@ -1,1 +1,1 @@
-var mnemonic = "foster unlock people employ wonder attack mushroom oak rare mass occur figure";
+var mnemonic = "fashion focus shiver canal puppy dragon mistake meat sword flame sorry decrease";

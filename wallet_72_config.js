@@ -1,1 +1,1 @@
-var mnemonic = "tenant fire wonder pistol hen tool company ankle auction dilemma vacant mystery";
+var mnemonic = "annual analyst vacuum casual permit street cactus grief vacant raven improve rookie";

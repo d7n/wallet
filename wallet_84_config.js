@@ -1,1 +1,1 @@
-var mnemonic = "balance item sausage broccoli alert decrease shell bicycle grief cattle exchange bicycle";
+var mnemonic = "hover blouse sudden worry pause analyst grain bleak blouse outer fit guard";

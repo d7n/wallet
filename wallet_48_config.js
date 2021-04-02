@@ -1,1 +1,1 @@
-var mnemonic = "access rug describe wheel cheap damage lava tenant measure hospital ridge pond";
+var mnemonic = "book dolphin usual lonely bird bulb yellow section velvet head student decorate";

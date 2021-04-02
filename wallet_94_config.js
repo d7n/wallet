@@ -1,1 +1,1 @@
-var mnemonic = "author dinosaur brother crane scrub alien twelve woman cave matrix margin affair";
+var mnemonic = "mountain enrich canoe boil hand knock spring behind salt profit outer color";

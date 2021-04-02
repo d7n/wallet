@@ -1,1 +1,1 @@
-var mnemonic = "fan phrase supreme flame subway wage ice damage shuffle film slot income";
+var mnemonic = "reflect soap grain small prevent food snake purse door attract fine fish";

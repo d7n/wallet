@@ -1,1 +1,1 @@
-var mnemonic = "friend illness noise swallow produce flash dignity monitor canvas attack inhale traffic";
+var mnemonic = "wait nominee spike toward please wealth step unfold gym buyer settle youth";

@@ -1,1 +1,1 @@
-var mnemonic = "daring weekend joke frame bridge type tired second worth amused key tree";
+var mnemonic = "mistake bamboo inside weekend stage cinnamon journey actual wish pill skate abandon";

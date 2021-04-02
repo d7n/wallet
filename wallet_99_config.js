@@ -1,1 +1,1 @@
-var mnemonic = "between arctic impose media future deer engage cliff ahead hire thank digital";
+var mnemonic = "brick hungry father skin bomb category pole excuse deposit turkey extra risk";

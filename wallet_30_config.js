@@ -1,1 +1,1 @@
-var mnemonic = "immune abuse south tumble finish tattoo uniform gesture thumb dizzy sort aim";
+var mnemonic = "vast boy coyote mutual decrease inch knee burden heavy battle draw feed";

@@ -1,1 +1,1 @@
-var mnemonic = "width dizzy find rule ecology piano evidence crater genuine pact exist tomorrow";
+var mnemonic = "dolphin payment couple charge grass bargain judge inherit measure code live fan";

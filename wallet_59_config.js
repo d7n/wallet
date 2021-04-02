@@ -1,1 +1,1 @@
-var mnemonic = "celery rocket nation reflect plunge they proof dinner lucky amateur organ blind";
+var mnemonic = "east accident hard young ankle spatial turn gold remain scatter staff essay";

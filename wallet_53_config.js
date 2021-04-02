@@ -1,1 +1,1 @@
-var mnemonic = "measure gap because gloom train entire wine enlist giant connect organ peace";
+var mnemonic = "salon lamp jealous mosquito laptop venture trap step together horse deny disorder";

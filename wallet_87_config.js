@@ -1,1 +1,1 @@
-var mnemonic = "chunk fury allow sell nothing zebra science ordinary spatial predict version dirt";
+var mnemonic = "save debris hotel essence must disorder hand brother smoke reveal lunch monitor";

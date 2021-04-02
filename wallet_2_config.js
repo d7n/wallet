@@ -1,1 +1,1 @@
-var mnemonic = "great battle budget main speak smile zero world initial moon rival report";
+var mnemonic = "imitate chaos grow raw strong lecture kick version motor diamond false frog";

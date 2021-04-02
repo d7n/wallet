@@ -1,1 +1,1 @@
-var mnemonic = "nose festival slide cup man neutral whale immense valve decrease replace net";
+var mnemonic = "about shock load minimum beyond bounce magnet pond essence case legal spot";

@@ -1,1 +1,1 @@
-var mnemonic = "suit globe quarter target yellow move bind make myself wool alpha acquire";
+var mnemonic = "object faith rude decline attack oblige total kind holiday gaze arrive coral";

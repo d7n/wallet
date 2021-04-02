@@ -1,1 +1,1 @@
-var mnemonic = "ritual strike fish barely mechanic addict other suspect mule patient share shrimp";
+var mnemonic = "cover face leg option subway burger member fat upper detail cinnamon arm";

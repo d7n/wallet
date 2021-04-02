@@ -1,1 +1,1 @@
-var mnemonic = "story convince tired service churn obtain lizard fantasy milk woman sword pen";
+var mnemonic = "brick nasty marine plug peasant future report song useful weekend other vast";

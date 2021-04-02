@@ -1,1 +1,1 @@
-var mnemonic = "unaware child cousin clean conduct deal edge struggle return tool shine what";
+var mnemonic = "rotate name also vicious horror stick jungle rebuild coil cry peanut shaft";

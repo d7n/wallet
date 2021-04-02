@@ -1,1 +1,1 @@
-var mnemonic = "reason liar label act observe guess foster inch talent left magic seek";
+var mnemonic = "head tone vocal toe nut renew wall slight similar convince cool differ";

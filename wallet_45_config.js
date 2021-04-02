@@ -1,1 +1,1 @@
-var mnemonic = "index verb apology long never embody upgrade wire dwarf bean dolphin laptop";
+var mnemonic = "gloom judge flight waste long strike cradle sort mean recall sound mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "stand almost boat peanut long wish jeans mushroom similar board gauge battle";
+var mnemonic = "visa fringe half afford flag april fine chase equal wrap picture lock";

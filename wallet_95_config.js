@@ -1,1 +1,1 @@
-var mnemonic = "pulp arrive system surround raw shy plate ankle deer vehicle course poverty";
+var mnemonic = "filter mad stove fall inject antique expose project news toss bargain fitness";

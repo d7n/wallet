@@ -1,1 +1,1 @@
-var mnemonic = "truth iron toward trumpet crawl ready tower toddler expect cost elegant section";
+var mnemonic = "detail census victory tornado animal jump stadium hint bracket much era toast";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon extra alter female ozone borrow stable crop name you honey enact";
+var mnemonic = "used essay real hockey current ozone bless vapor measure toss gallery ozone";

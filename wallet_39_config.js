@@ -1,1 +1,1 @@
-var mnemonic = "sad endless outer shadow earth exhibit chapter useful check junior live minute";
+var mnemonic = "race forget idle jar camera together gap benefit trigger allow leave melt";

@@ -1,1 +1,1 @@
-var mnemonic = "remain pitch divide rich topic fluid peace moon suit network honey strategy";
+var mnemonic = "beach margin pig approve cluster begin write wrong sentence wedding okay veteran";

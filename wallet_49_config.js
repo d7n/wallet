@@ -1,1 +1,1 @@
-var mnemonic = "surround sausage ski eyebrow often agent buffalo crash kiss income evil daring";
+var mnemonic = "donkey decide brass cruise field account grocery inner year human master hollow";

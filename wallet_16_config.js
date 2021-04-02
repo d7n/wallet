@@ -1,1 +1,1 @@
-var mnemonic = "exact reward have income glue cattle buffalo alone easily basket industry light";
+var mnemonic = "pupil between used inquiry mixture author yard else swift purity write ankle";

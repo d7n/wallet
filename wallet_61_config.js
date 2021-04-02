@@ -1,1 +1,1 @@
-var mnemonic = "canal fame actual cover churn leisure depart mouse slow tunnel equal safe";
+var mnemonic = "fantasy rain shuffle suspect bamboo magnet want vapor filter unknown angry blame";

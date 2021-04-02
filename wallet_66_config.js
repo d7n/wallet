@@ -1,1 +1,1 @@
-var mnemonic = "armed expect acoustic avoid plate music thrive injury axis bring pupil trial";
+var mnemonic = "disease kite afraid captain property axis ignore seminar gentle ski sheriff spawn";

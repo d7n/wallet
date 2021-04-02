@@ -1,1 +1,1 @@
-var mnemonic = "insect parade vanish guide mammal truck nurse critic inch latin alert double";
+var mnemonic = "flip grid there gasp ugly evoke rifle alert blast stomach merry solve";

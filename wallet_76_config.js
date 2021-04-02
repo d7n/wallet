@@ -1,1 +1,1 @@
-var mnemonic = "desk neck volcano now swarm life bag piano day credit actual key";
+var mnemonic = "steak celery other please minimum gorilla correct spy fog song define over";

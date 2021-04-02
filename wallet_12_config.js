@@ -1,1 +1,1 @@
-var mnemonic = "raven resemble sentence length situate replace gossip affair april manual alter panel";
+var mnemonic = "verify ring vast onion feel spread venue crazy escape stable nature farm";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance blouse decline fatigue hill section beauty select alien orient strike venue";
+var mnemonic = "green mimic faith globe glass focus unlock ticket buddy duck forest discover";

@@ -1,1 +1,1 @@
-var mnemonic = "wrist horse hair myself impose hammer skate absent stairs slim suffer frequent";
+var mnemonic = "squeeze estate bleak actress such trim mind mind left reject bulk minor";

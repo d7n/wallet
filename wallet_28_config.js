@@ -1,1 +1,1 @@
-var mnemonic = "nest balcony orphan claim lunar art chef enter trash globe bachelor diagram";
+var mnemonic = "cool will judge loud beyond erupt hard turtle idea there gate tiny";

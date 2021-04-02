@@ -1,1 +1,1 @@
-var mnemonic = "screen length march foster child engine country message rigid question memory source";
+var mnemonic = "monkey supreme warrior edit middle iron parade barrel liquid holiday market glow";

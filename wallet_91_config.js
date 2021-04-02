@@ -1,1 +1,1 @@
-var mnemonic = "season deliver cream spot sausage sign neck because rather tip genre salon";
+var mnemonic = "company number remind tomorrow pill crime make buzz wonder impose speed brave";

@@ -1,1 +1,1 @@
-var mnemonic = "nation gossip heavy enemy direct acoustic expire spell bonus antenna parade priority";
+var mnemonic = "save glory artefact light demand glory resemble bike believe hawk snap vault";

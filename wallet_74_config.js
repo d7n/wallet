@@ -1,1 +1,1 @@
-var mnemonic = "next fantasy pond bottom dizzy sleep juice pyramid camera seven cricket truth";
+var mnemonic = "crazy endorse jelly symptom rule hamster boss scissors news truth excuse limit";

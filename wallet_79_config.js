@@ -1,1 +1,1 @@
-var mnemonic = "cute pretty lion paper poverty donate repair age toward knee pledge hat";
+var mnemonic = "charge fog detect idle okay noodle extend renew assault grant calm medal";

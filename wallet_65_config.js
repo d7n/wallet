@@ -1,1 +1,1 @@
-var mnemonic = "cotton rent drip lawn online clay select lounge zone defy amateur latin";
+var mnemonic = "clutch dream plastic gown photo promote gift make maid clip length ordinary";

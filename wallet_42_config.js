@@ -1,1 +1,1 @@
-var mnemonic = "rich patient insect unhappy display faith fragile clog huge reward already frown";
+var mnemonic = "sail foster pig trick major olympic alter tomorrow into mad valley slice";

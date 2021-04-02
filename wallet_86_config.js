@@ -1,1 +1,1 @@
-var mnemonic = "another screen include key lake prevent demise winter borrow network jeans chaos";
+var mnemonic = "exhibit bean purity essence hair fragile soft universe axis repair valve border";

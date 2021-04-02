@@ -1,1 +1,1 @@
-var mnemonic = "carbon wage tail else layer hello mechanic opera decline onion lumber argue";
+var mnemonic = "wedding album skirt dwarf replace nation banana mimic disagree produce amused stumble";

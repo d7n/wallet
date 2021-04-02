@@ -1,1 +1,1 @@
-var mnemonic = "collect universe awesome spare village drink toe boy muscle blouse virtual donor";
+var mnemonic = "breeze wheat bid rigid plunge advance tragic castle snake daring cluster case";

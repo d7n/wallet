@@ -1,1 +1,1 @@
-var mnemonic = "machine cinnamon inner talk useless neglect tired adapt enlist laundry few animal";
+var mnemonic = "burger slow cloud bronze gasp appear pumpkin aspect illness edge pear job";

@@ -1,1 +1,1 @@
-var mnemonic = "follow embark stumble tourist bitter initial deny agent fitness tip crucial equip";
+var mnemonic = "talk load wealth cotton uphold film crumble gentle frame uniform glow soft";

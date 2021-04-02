@@ -1,1 +1,1 @@
-var mnemonic = "convince turtle inside nut conduct attitude useful theory ketchup blur syrup access";
+var mnemonic = "trigger damage vacuum run sponsor episode column amazing ozone hunt number milk";

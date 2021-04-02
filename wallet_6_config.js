@@ -1,1 +1,1 @@
-var mnemonic = "solve group demise ecology shove fabric mansion shy original flower feed kitten";
+var mnemonic = "faint truly lazy ozone bread enable bright hawk pyramid perfect kick siege";

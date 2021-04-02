@@ -1,1 +1,1 @@
-var mnemonic = "theme innocent dress simple holiday second marble mass give cushion kind nuclear";
+var mnemonic = "erosion winner cute unlock today year salmon pencil taxi moral coconut can";

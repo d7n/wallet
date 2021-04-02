@@ -1,1 +1,1 @@
-var mnemonic = "noodle initial clog vessel admit ring pride olympic engine way alley lucky";
+var mnemonic = "call myth prepare blame entry sentence remember ivory lottery ethics sound gauge";

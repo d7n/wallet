@@ -1,1 +1,1 @@
-var mnemonic = "brand nasty cake spread struggle utility differ jacket equip have spy tornado";
+var mnemonic = "sauce amount notice pilot better napkin brand inner token assist pulp asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle betray genuine blush mandate used north fluid night bullet pyramid immune";
+var mnemonic = "victory decorate donate situate object cruise month lens trap athlete alarm squeeze";

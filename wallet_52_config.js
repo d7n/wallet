@@ -1,1 +1,1 @@
-var mnemonic = "delay salmon unable inflict wreck tuition antenna february gown antique link bottom";
+var mnemonic = "bird update absent early filter pact art when one trial cruel sail";

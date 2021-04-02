@@ -1,1 +1,1 @@
-var mnemonic = "speed couch copper peanut sunset admit harvest chalk nation report pistol sound";
+var mnemonic = "solution idle dial tower skirt learn frost amused sister flip chair spread";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology dress alarm equip truth woman catch rely among south whale bundle";
+var mnemonic = "cloud cruise churn major hold knock rude paddle miss library estate dog";

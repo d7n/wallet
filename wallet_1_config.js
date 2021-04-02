@@ -1,1 +1,1 @@
-var mnemonic = "attract guitar wave bachelor fee attend stone endorse junk cash cross present";
+var mnemonic = "purity invest what proud obvious print rubber beach pass razor rude pudding";

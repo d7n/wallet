@@ -1,1 +1,1 @@
-var mnemonic = "brisk track mean hole pave delay web erase awesome breeze island reward";
+var mnemonic = "fashion dawn nasty essence engage trick pulse silver ensure sphere right shop";

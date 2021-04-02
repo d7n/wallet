@@ -1,1 +1,1 @@
-var mnemonic = "wool kick tobacco deliver wrist access panic shrimp proud fade engine soldier";
+var mnemonic = "marriage margin tiger analyst father wool confirm excuse penalty chicken family health";

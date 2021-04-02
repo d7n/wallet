@@ -1,1 +1,1 @@
-var mnemonic = "region dignity foot absorb useless snow cool fever mind flee rebel lend";
+var mnemonic = "bird cute thumb kind uncover doll dignity summer height limit yard exhibit";

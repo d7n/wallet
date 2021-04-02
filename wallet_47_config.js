@@ -1,1 +1,1 @@
-var mnemonic = "soup tank hamster front athlete bounce unaware cousin employ okay cinnamon wear";
+var mnemonic = "hawk recipe fruit staff barrel taste grass gentle margin pilot south arrange";

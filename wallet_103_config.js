@@ -1,1 +1,1 @@
-var mnemonic = "alpha truly rose sorry moral source twenty shop box knock obscure cross";
+var mnemonic = "nose flee couple wild army ribbon puzzle diet wine crater food panther";

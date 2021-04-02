@@ -1,1 +1,1 @@
-var mnemonic = "kite spin bread limit save fly onion junior wait ill midnight book";
+var mnemonic = "possible topple spend grid chef broccoli moral narrow regret margin lake program";

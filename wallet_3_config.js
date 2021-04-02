@@ -1,1 +1,1 @@
-var mnemonic = "excess parade submit resource soup oil build salmon impose index limb nose";
+var mnemonic = "protect turtle model cave aunt betray since portion mule abandon stove high";

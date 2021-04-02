@@ -1,1 +1,1 @@
-var mnemonic = "drive sweet keep simple brush roof essay amateur urban human smooth clock";
+var mnemonic = "year proof flee couch word multiply high sleep wealth crash decline wish";

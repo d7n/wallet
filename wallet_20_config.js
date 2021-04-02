@@ -1,1 +1,1 @@
-var mnemonic = "logic situate bulb fossil pet able clog chimney volcano rabbit verb old";
+var mnemonic = "swear smart goose rookie warfare lunar february axis fluid cover enroll immense";

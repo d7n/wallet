@@ -1,1 +1,1 @@
-var mnemonic = "away network top law pink beef junk crater vehicle load tent fury";
+var mnemonic = "lounge whip shove caution hole daughter shop acquire rule flush pair run";

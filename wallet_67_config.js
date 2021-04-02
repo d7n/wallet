@@ -1,1 +1,1 @@
-var mnemonic = "trick security field deny cheap water catch unit absorb ski canyon battle";
+var mnemonic = "field law oppose recipe pledge unhappy teach novel cereal flag twice start";

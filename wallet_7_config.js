@@ -1,1 +1,1 @@
-var mnemonic = "salt canal spin blossom excess what search hip list need shrimp audit";
+var mnemonic = "decrease pink sugar cruel cook invest tragic road liberty yellow problem phone";

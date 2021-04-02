@@ -1,1 +1,1 @@
-var mnemonic = "brisk skill smooth story actor kid era series egg child jealous people";
+var mnemonic = "ask tag usage cradle hole scheme shoot close adjust peanut clay diet";

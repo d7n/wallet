@@ -1,1 +1,1 @@
-var mnemonic = "network exchange element visa tired hawk figure light pull grain artwork tortoise";
+var mnemonic = "volume suit inform another render fetch bonus remind cup misery cricket canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "primary horn guilt coil vapor grid hawk swear mirror frame sustain wagon";
+var mnemonic = "shaft clean buffalo train genius brown submit ahead assume winner enjoy define";

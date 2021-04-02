@@ -1,1 +1,1 @@
-var mnemonic = "damp fragile language brief card glance burden frequent zone broccoli expire casual";
+var mnemonic = "nice december credit focus final hello occur young any frog fancy version";

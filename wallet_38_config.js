@@ -1,1 +1,1 @@
-var mnemonic = "swamp scissors swap agent camp bridge comfort garbage inspire anchor garlic supreme";
+var mnemonic = "example have like shiver attack vital month image project net chair air";

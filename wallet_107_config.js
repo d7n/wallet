@@ -1,1 +1,1 @@
-var mnemonic = "envelope regret nerve negative hire arrange pause atom cover poet flee vague";
+var mnemonic = "audit never biology whale soon flight move pear ask elephant usage winner";

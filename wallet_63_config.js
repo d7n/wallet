@@ -1,1 +1,1 @@
-var mnemonic = "invest target very jewel brain twist soon kangaroo dance hard radar rich";
+var mnemonic = "damp below rare tree dirt hat skate any truly sound tell supply";
