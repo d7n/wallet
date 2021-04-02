@@ -1,1 +1,1 @@
-var mnemonic = "damp balcony dwarf series two turkey park history maid kind roof buyer";
+var mnemonic = "juice observe fence merge just fix curve ozone morning trick emotion renew";

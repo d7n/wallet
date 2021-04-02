@@ -1,1 +1,1 @@
-var mnemonic = "wrap oblige reduce walk monitor bar shove know orange novel kid shell";
+var mnemonic = "above orphan duck gain bind unfold hawk afford million mystery race shift";

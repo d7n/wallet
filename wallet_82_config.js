@@ -1,1 +1,1 @@
-var mnemonic = "stamp outer mandate track crop pupil job pulp fan all salute task";
+var mnemonic = "cotton rookie swamp rely fiscal truly cup stone gallery right reward mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "coach diagram vintage giggle invest special say gentle useless angry vintage error";
+var mnemonic = "wisdom entry ten tackle exchange clump warm series print taxi cargo honey";

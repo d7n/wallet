@@ -1,1 +1,1 @@
-var mnemonic = "spread muffin blush praise convince square tenant ice online cry gather dynamic";
+var mnemonic = "pink near ability reform combine trouble bounce consider grain shift please stuff";

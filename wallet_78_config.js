@@ -1,1 +1,1 @@
-var mnemonic = "divorce miracle link ready element arm blossom letter mirror vivid club rack";
+var mnemonic = "grief borrow connect swim argue tree claw more auction exist vapor list";

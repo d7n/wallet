@@ -1,1 +1,1 @@
-var mnemonic = "muscle disagree run index census box hope tourist index west dirt asset";
+var mnemonic = "rug wrap wing check north combine elevator issue mimic human profit track";

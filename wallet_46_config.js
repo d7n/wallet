@@ -1,1 +1,1 @@
-var mnemonic = "lecture slot atom stem aware lazy vault home raw ability shoulder exercise";
+var mnemonic = "brick merry letter flee crunch antique web large embrace canvas caught spot";

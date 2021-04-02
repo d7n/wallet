@@ -1,1 +1,1 @@
-var mnemonic = "sweet carpet acid rug giggle tennis cup time blue diamond swarm black";
+var mnemonic = "weather slab collect strong spider snow between spike disease rule current wine";

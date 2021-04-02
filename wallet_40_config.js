@@ -1,1 +1,1 @@
-var mnemonic = "dawn grow ignore clog ranch response snack water beauty lunch bar once";
+var mnemonic = "acid company code roast camp winner vibrant stereo flee hair universe car";

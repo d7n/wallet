@@ -1,1 +1,1 @@
-var mnemonic = "peanut history drift taste blind genuine mammal solid truth mention sort goose";
+var mnemonic = "curtain inside thunder bean laugh more slight father penalty park ask fly";

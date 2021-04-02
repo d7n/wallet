@@ -1,1 +1,1 @@
-var mnemonic = "female assault artist east cram potato layer ring sister range behind reunion";
+var mnemonic = "solve elbow light card drill fatal sister patch offer spray couch near";

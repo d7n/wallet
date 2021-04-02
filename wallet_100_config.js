@@ -1,1 +1,1 @@
-var mnemonic = "slush garden device reform rather regret coach device soul clock skirt adult";
+var mnemonic = "woman step social mandate injury mansion rose subject sunset wash tragic kind";

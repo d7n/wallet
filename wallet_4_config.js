@@ -1,1 +1,1 @@
-var mnemonic = "lady engine rhythm warm night garment power voyage december crane sure ketchup";
+var mnemonic = "vivid upper consider shadow front wrap point pet warm sausage width stadium";

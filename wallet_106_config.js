@@ -1,1 +1,1 @@
-var mnemonic = "flip iron laptop retire unfair coffee kid holiday hour claw crazy tent";
+var mnemonic = "silk universe kitchen salt fun suggest profit door minimum vapor avocado manage";

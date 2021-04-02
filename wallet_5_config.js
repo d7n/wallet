@@ -1,1 +1,1 @@
-var mnemonic = "galaxy report subway chicken cereal sugar say subway elephant motion slide stone";
+var mnemonic = "grow floor dove advance excess butter life taste absurd silly first stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "winter deer primary push hamster detect giggle ridge quiz seat slender island";
+var mnemonic = "emotion useless topple fiber endorse copper usual leader clever alley bag clutch";

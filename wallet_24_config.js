@@ -1,1 +1,1 @@
-var mnemonic = "inject safe tell elephant surround marine adult arrow sugar stereo size renew";
+var mnemonic = "fiscal settle ripple strong retire escape craft giggle trial caution skin uncover";

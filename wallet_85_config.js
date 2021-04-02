@@ -1,1 +1,1 @@
-var mnemonic = "flee bicycle bar bottom glow curious message squeeze draft asthma coffee prevent";
+var mnemonic = "shoulder fancy pave letter secret endorse panel medal police gossip until parade";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual move view grocery warfare ridge recall deny invite recall ensure test";
+var mnemonic = "affair milk faculty fiber hundred board muffin machine attack manual afraid gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "panel vanish click rotate wire scorpion mean sponsor double release fuel message";
+var mnemonic = "marriage pact leaf sound select public trash crime melody erupt spoil later";

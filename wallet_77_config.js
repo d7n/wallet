@@ -1,1 +1,1 @@
-var mnemonic = "lottery lens believe galaxy marble model seed know wealth cabbage behave can";
+var mnemonic = "knife chaos scheme twist banner mushroom fresh grocery dove trophy jewel boss";

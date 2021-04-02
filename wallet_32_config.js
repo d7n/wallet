@@ -1,1 +1,1 @@
-var mnemonic = "tissue trial false tomato motor sister manage chimney drip enjoy pill amazing";
+var mnemonic = "annual capable inspire twist before dog ocean cute neck tooth fruit doctor";

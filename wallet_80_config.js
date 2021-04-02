@@ -1,1 +1,1 @@
-var mnemonic = "oak steel pupil second response plunge process thought east economy six wage";
+var mnemonic = "pilot device valid globe symptom peanut girl yard liberty half brain romance";

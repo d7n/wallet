@@ -1,1 +1,1 @@
-var mnemonic = "toilet attend rotate split poverty express area across visit era wish common";
+var mnemonic = "equip garbage unhappy symbol rabbit fever candy square myself target humble grief";

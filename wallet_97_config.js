@@ -1,1 +1,1 @@
-var mnemonic = "pill harvest sword giant monkey dove kid chef arrow pumpkin cool noise";
+var mnemonic = "keep gesture opera ranch notice similar goose clock judge sound field tiger";

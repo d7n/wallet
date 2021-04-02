@@ -1,1 +1,1 @@
-var mnemonic = "transfer hollow garlic claw ritual scan palm toss chronic seat giraffe use";
+var mnemonic = "race urban cage lecture habit vicious vocal stable knee soap legal valley";

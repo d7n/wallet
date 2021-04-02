@@ -1,1 +1,1 @@
-var mnemonic = "candy announce better play predict absorb media duty assault hungry wheat deny";
+var mnemonic = "gloom snake trial umbrella wing immense accuse way female pride scatter guitar";

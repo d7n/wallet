@@ -1,1 +1,1 @@
-var mnemonic = "cactus segment girl sure skill recycle police exhibit income barely wish stove";
+var mnemonic = "arrow unveil torch twelve peasant ready adjust over space crane wagon machine";

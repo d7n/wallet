@@ -1,1 +1,1 @@
-var mnemonic = "waste fatal tomorrow minute left erase able hello ranch now script loop";
+var mnemonic = "joy iron frown today memory equip secret essence ritual garment van choice";

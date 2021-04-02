@@ -1,1 +1,1 @@
-var mnemonic = "flame trip rose pear near height aspect travel wedding word purse off";
+var mnemonic = "clerk candy future foil win volume belt type leaf hedgehog muffin disease";

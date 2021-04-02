@@ -1,1 +1,1 @@
-var mnemonic = "hybrid shy tumble arrive skull blue napkin tobacco pave sense fun parrot";
+var mnemonic = "estate truth pact prepare hazard cancel corn hurdle medal donor tragic real";

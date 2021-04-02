@@ -1,1 +1,1 @@
-var mnemonic = "pull carpet ten accident horse cup unhappy annual undo coach seek scare";
+var mnemonic = "mom tooth chat thumb worry entire soldier omit fresh bread awesome chief";

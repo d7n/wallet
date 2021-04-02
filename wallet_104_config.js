@@ -1,1 +1,1 @@
-var mnemonic = "square stairs brother width amused fashion coin amount stereo style corn congress";
+var mnemonic = "material liberty woman twelve exile scrap core deal warfare bachelor van magnet";

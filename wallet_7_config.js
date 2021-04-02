@@ -1,1 +1,1 @@
-var mnemonic = "stem frame copper crash leopard unusual involve gaze parrot tell setup armor";
+var mnemonic = "bread stone learn cake near captain welcome vicious old tent pride short";

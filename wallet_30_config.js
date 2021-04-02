@@ -1,1 +1,1 @@
-var mnemonic = "tiny rail elephant song repeat draft shoulder verify either call paddle major";
+var mnemonic = "degree raccoon brick wave short scrub enough canyon flush maid payment inner";

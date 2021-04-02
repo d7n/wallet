@@ -1,1 +1,1 @@
-var mnemonic = "prison tiger mansion burst pig planet blue cliff tape begin shock undo";
+var mnemonic = "brick member dog figure depth inflict aerobic scheme crumble collect wheel paddle";

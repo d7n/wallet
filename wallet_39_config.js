@@ -1,1 +1,1 @@
-var mnemonic = "crystal ask erupt erode coil travel extend recipe game exchange ahead tonight";
+var mnemonic = "around arm enact good bike clip common oval slide feature inner gloom";

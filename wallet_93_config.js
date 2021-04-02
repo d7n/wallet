@@ -1,1 +1,1 @@
-var mnemonic = "plunge dignity increase dream erase water corn weasel fortune brush replace brother";
+var mnemonic = "stadium marine lamp young gossip penalty say census fatigue convince nominee online";

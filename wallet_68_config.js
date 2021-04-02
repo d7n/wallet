@@ -1,1 +1,1 @@
-var mnemonic = "crazy appear elder response skate trend lunar novel knife foster fire lion";
+var mnemonic = "belt fatal subway usage crumble feel bleak number parade canoe melt rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "photo celery taste render search author expect chaos target december wage index";
+var mnemonic = "clean trip seek oak twin assault soda unknown melody casual rack host";

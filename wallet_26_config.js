@@ -1,1 +1,1 @@
-var mnemonic = "soap enact either display scissors special acquire stumble second body barely treat";
+var mnemonic = "crime crucial same radar ankle tumble pilot neck outer scout mom wrap";

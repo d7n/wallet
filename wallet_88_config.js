@@ -1,1 +1,1 @@
-var mnemonic = "snack orient adapt pact top great save expose rule muscle meadow cook";
+var mnemonic = "exhibit album guilt century swear blouse clarify cat noise nation giraffe decline";

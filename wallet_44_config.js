@@ -1,1 +1,1 @@
-var mnemonic = "quiz lobster punch video rely rug predict brother party thrive hill obscure";
+var mnemonic = "hungry buyer champion hold essence soccer rubber corn entry penalty entire energy";

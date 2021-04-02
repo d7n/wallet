@@ -1,1 +1,1 @@
-var mnemonic = "tunnel solar run display away awesome glance lab green nephew fine lion";
+var mnemonic = "nuclear inspire daughter solid surround rule image click busy common six false";

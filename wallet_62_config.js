@@ -1,1 +1,1 @@
-var mnemonic = "still fish leaf winter essence canvas lady reduce task depart endorse eager";
+var mnemonic = "left fish scout vacant fetch omit ordinary before cliff mimic dinosaur motor";

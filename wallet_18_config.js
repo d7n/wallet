@@ -1,1 +1,1 @@
-var mnemonic = "year across zoo differ parent gown blue grocery hybrid airport slender scare";
+var mnemonic = "purpose luggage sibling panic uncover matrix inner predict dirt dinosaur rural announce";

@@ -1,1 +1,1 @@
-var mnemonic = "exact swallow ribbon nest sunset sphere pilot hour hood bachelor donkey hat";
+var mnemonic = "sand cool heavy tumble rubber usage useless key icon leave private kid";

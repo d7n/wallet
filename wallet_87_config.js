@@ -1,1 +1,1 @@
-var mnemonic = "rough guard flush indicate announce raccoon member property steak naive number busy";
+var mnemonic = "hand wasp sock warfare harsh special table tide skull meadow cheap option";

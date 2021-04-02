@@ -1,1 +1,1 @@
-var mnemonic = "outside ball man labor include mobile bean camp hybrid clock include cheese";
+var mnemonic = "close risk bean identify expect enlist athlete talk great shed leaf voice";

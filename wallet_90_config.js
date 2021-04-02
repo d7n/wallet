@@ -1,1 +1,1 @@
-var mnemonic = "nuclear distance into join tooth cross great candy word marble achieve shift";
+var mnemonic = "animal rule measure icon motion unable eight rich captain blur buzz arch";

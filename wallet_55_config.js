@@ -1,1 +1,1 @@
-var mnemonic = "settle awful bleak fiber argue oppose caught usage modify immense pulse indoor";
+var mnemonic = "wear congress exact bottom insect stove secret scout sight puppy absent moral";

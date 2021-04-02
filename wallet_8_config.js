@@ -1,1 +1,1 @@
-var mnemonic = "rhythm escape recycle rapid one frost entry lion domain famous museum tool";
+var mnemonic = "weekend coast spike address federal artwork movie sketch smoke exile odor avoid";

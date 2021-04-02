@@ -1,1 +1,1 @@
-var mnemonic = "license bright essay level west distance arrange coin try field sweet interest";
+var mnemonic = "list jealous pigeon blouse attract talk airport gaze cloth grit shrug heavy";

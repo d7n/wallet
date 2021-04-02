@@ -1,1 +1,1 @@
-var mnemonic = "dance dream palm screen detail village destroy road elegant nothing celery angle";
+var mnemonic = "switch betray network deer win warrior breeze casual banana energy frost novel";

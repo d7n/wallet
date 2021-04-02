@@ -1,1 +1,1 @@
-var mnemonic = "service action seek buddy pass juice language lyrics salad rough awful dream";
+var mnemonic = "steel humor project fall custom reunion ugly pudding gadget fork tool rain";

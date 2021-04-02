@@ -1,1 +1,1 @@
-var mnemonic = "plastic motion west sniff lens update captain battle oppose museum attract shiver";
+var mnemonic = "stand goddess feel erode dose debate bus metal defy start brave solution";

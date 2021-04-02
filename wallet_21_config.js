@@ -1,1 +1,1 @@
-var mnemonic = "valid language bulk defy sunny argue strike pave relief wealth common capital";
+var mnemonic = "fiscal yellow response multiply rebuild invest original morning plunge army oxygen sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "gather delay update champion neglect grab guide joke main few music floor";
+var mnemonic = "swim pilot news scale blue crack myth evoke mushroom bird repair afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "victory spoon fat slide buyer paddle young error ivory human misery office";
+var mnemonic = "program wink virtual organ labor average length skate grow trial battle brick";

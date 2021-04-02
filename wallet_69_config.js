@@ -1,1 +1,1 @@
-var mnemonic = "disorder purchase clutch combine garage tattoo three tornado correct there win future";
+var mnemonic = "salon scrap trash fault pen exotic scene doll legal woman champion pilot";

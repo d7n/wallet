@@ -1,1 +1,1 @@
-var mnemonic = "decline hurry strong banner diamond upset useful snow depth spread art razor";
+var mnemonic = "spray wash magnet mesh short milk equal butter cause bread fabric great";

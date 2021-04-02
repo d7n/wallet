@@ -1,1 +1,1 @@
-var mnemonic = "rather stage taxi hour valid moment luxury jewel broccoli arrange sand toast";
+var mnemonic = "roof eight buffalo slow expire permit beach way people trick about invite";

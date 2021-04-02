@@ -1,1 +1,1 @@
-var mnemonic = "junior vicious various song kangaroo skill mom excite general canyon dance inspire";
+var mnemonic = "vacuum truly fetch canyon school peasant stomach vendor scorpion theory luxury submit";

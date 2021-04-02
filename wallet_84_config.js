@@ -1,1 +1,1 @@
-var mnemonic = "inside issue anchor fish glance derive debris cotton tortoise advance humor front";
+var mnemonic = "donor obscure tail cricket venue image purse moment guitar fruit digital clump";

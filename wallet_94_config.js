@@ -1,1 +1,1 @@
-var mnemonic = "vacant potato staff fish east earn situate stem develop whip sponsor sock";
+var mnemonic = "glare hip obscure produce connect invest ill whale brush naive just pink";

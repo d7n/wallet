@@ -1,1 +1,1 @@
-var mnemonic = "mad raccoon delay caught metal current wasp sorry spread minimum upset during";
+var mnemonic = "glad fatigue again slush dismiss network day comfort short hamster slogan electric";

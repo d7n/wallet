@@ -1,1 +1,1 @@
-var mnemonic = "expand tube danger grass fury lawn harsh subway piece love inmate alien";
+var mnemonic = "stumble emotion tail palace vanish umbrella open run bullet return cushion undo";

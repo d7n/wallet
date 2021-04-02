@@ -1,1 +1,1 @@
-var mnemonic = "hat theme saddle mention swamp board genre toward monster weekend caution market";
+var mnemonic = "you famous notable hole actor cost spatial hidden carbon silent frozen can";

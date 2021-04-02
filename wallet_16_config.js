@@ -1,1 +1,1 @@
-var mnemonic = "improve brass recycle ask melody brown thought guard problem winner core puppy";
+var mnemonic = "mistake remove appear warfare wall wife tube gap income sight napkin doll";

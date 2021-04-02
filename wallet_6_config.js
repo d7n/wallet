@@ -1,1 +1,1 @@
-var mnemonic = "nasty hobby modify drastic volcano forget renew tumble umbrella live sentence illness";
+var mnemonic = "ice chief match slab stamp object glove inflict frog penalty device bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "spy about elbow daring tackle prize hotel soft unknown agree dose shiver";
+var mnemonic = "gorilla damp melody gas aspect question square meadow mask moment cheese ready";

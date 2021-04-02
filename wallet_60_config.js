@@ -1,1 +1,1 @@
-var mnemonic = "belt above purse deal ghost oxygen quiz weasel thing still primary popular";
+var mnemonic = "climb diamond hint sick great burst neither catch dinosaur route process loud";

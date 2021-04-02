@@ -1,1 +1,1 @@
-var mnemonic = "foil thing exist drive maximum input post brand express output slow artefact";
+var mnemonic = "pact thumb curtain session acid excuse strong apology all away nuclear spoil";

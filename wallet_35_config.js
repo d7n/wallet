@@ -1,1 +1,1 @@
-var mnemonic = "talk discover illegal wedding bulb drastic weekend slot wild suggest gift draft";
+var mnemonic = "grass disorder file birth bachelor labor almost rug goddess remember agent join";

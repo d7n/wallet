@@ -1,1 +1,1 @@
-var mnemonic = "deal divide green lesson lobster rhythm assault choose alpha brother legal permit";
+var mnemonic = "fever sock yard acquire omit zone near table citizen plate sick victory";

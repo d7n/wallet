@@ -1,1 +1,1 @@
-var mnemonic = "member focus lock pitch bridge sand lake future silly multiply image wrong";
+var mnemonic = "flush away blade pet alley soda coast donor canoe own guess pretty";

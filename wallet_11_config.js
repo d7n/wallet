@@ -1,1 +1,1 @@
-var mnemonic = "taste sport close isolate vote amused divorce leopard tuna return slice label";
+var mnemonic = "finger rib onion wife snake thumb response blame inmate fragile vague gallery";

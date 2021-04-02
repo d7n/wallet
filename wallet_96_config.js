@@ -1,1 +1,1 @@
-var mnemonic = "civil gorilla thrive conduct quantum shed churn cherry frequent cabin box mosquito";
+var mnemonic = "lobster valve dragon focus destroy stereo minor blanket feed area annual speed";

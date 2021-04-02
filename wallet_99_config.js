@@ -1,1 +1,1 @@
-var mnemonic = "dizzy lawn push interest attend save wasp nice lift door debate antenna";
+var mnemonic = "speed mistake confirm absorb giraffe spice mail change olympic strong youth mutual";

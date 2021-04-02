@@ -1,1 +1,1 @@
-var mnemonic = "wise daughter reason crew cute alter surround mesh west chapter any tilt";
+var mnemonic = "like have devote olympic typical umbrella upon giraffe urge vanish rate pigeon";

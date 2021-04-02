@@ -1,1 +1,1 @@
-var mnemonic = "roast borrow street layer rate grow boring frozen evil glue message vital";
+var mnemonic = "stem tongue mobile tobacco glad season ahead trick photo feature auction load";

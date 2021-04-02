@@ -1,1 +1,1 @@
-var mnemonic = "reason novel place post country denial open claw vintage unit tongue measure";
+var mnemonic = "wagon grief angle left keen fury current fox kite employ venue modify";

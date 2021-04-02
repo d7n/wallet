@@ -1,1 +1,1 @@
-var mnemonic = "scissors couch sell bullet slender core perfect bullet term alley jelly pave";
+var mnemonic = "cheap toddler hawk hobby sting burst audit fame meat yellow couch real";

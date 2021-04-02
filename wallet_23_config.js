@@ -1,1 +1,1 @@
-var mnemonic = "polar topple toilet ahead custom misery bonus sudden nasty catch what scheme";
+var mnemonic = "morning adjust mechanic feel beyond lyrics orchard spoon flower husband mimic access";

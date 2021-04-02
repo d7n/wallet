@@ -1,1 +1,1 @@
-var mnemonic = "shell buffalo office lock angle clarify element novel bubble mule romance oyster";
+var mnemonic = "plug title hobby grid diagram mesh adult kangaroo order capital mix step";

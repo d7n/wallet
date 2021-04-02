@@ -1,1 +1,1 @@
-var mnemonic = "moment brand life furnace advance grunt adult breeze benefit fantasy bitter impact";
+var mnemonic = "index key flag vacant phrase fashion lawn piano since bounce purse staff";

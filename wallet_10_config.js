@@ -1,1 +1,1 @@
-var mnemonic = "artwork fringe current convince drum around treat advice inform layer income mushroom";
+var mnemonic = "into invite accuse include camera shuffle obvious slim earn topple claim attract";
