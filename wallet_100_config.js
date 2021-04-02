@@ -1,1 +1,1 @@
-var mnemonic = "benefit copper rough reunion diesel old detail frost tree wagon route capable";
+var mnemonic = "damp inside engage kitchen tourist stool lens bitter orchard rotate syrup lend";

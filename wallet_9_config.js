@@ -1,1 +1,1 @@
-var mnemonic = "grow divide ensure neck thing hedgehog trap magnet draw best pig draft";
+var mnemonic = "treat bid resemble pull dolphin pond adult desert soul badge account famous";

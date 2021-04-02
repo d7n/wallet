@@ -1,1 +1,1 @@
-var mnemonic = "olympic fit party omit ramp slight yellow unaware frown report merry flee";
+var mnemonic = "give shrimp hill mercy exist swing mechanic law drum reform rough pudding";

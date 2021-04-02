@@ -1,1 +1,1 @@
-var mnemonic = "flock shock ecology artist sphere then exhibit trust ready short path monkey";
+var mnemonic = "choice session dutch flavor grunt pear all cable deputy split wisdom exile";

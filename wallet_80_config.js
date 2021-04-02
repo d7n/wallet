@@ -1,1 +1,1 @@
-var mnemonic = "isolate wrap call million mention mercy hidden always pride neglect elegant horn";
+var mnemonic = "return enable giant certain gate urge idle cinnamon bulb theory filter hungry";

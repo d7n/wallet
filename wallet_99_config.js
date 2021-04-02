@@ -1,1 +1,1 @@
-var mnemonic = "renew meadow please they increase jeans timber three prize fresh deal nominee";
+var mnemonic = "accuse daughter divert human exit stem shock roof salad make result shaft";

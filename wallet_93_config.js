@@ -1,1 +1,1 @@
-var mnemonic = "evolve layer rib cushion once lion must eye unlock behind flee speak";
+var mnemonic = "cook journey client column mystery smooth risk country reduce point asthma social";

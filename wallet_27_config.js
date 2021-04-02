@@ -1,1 +1,1 @@
-var mnemonic = "shift labor speak weasel consider census episode mirror bargain rabbit liquid green";
+var mnemonic = "wash shoot apology satisfy celery relax bone rack decrease near turn usage";

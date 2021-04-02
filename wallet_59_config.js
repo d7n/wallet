@@ -1,1 +1,1 @@
-var mnemonic = "couch profit inner quit warm squirrel hammer buffalo famous vehicle verify tip";
+var mnemonic = "amused orphan dutch vocal iron key reopen sauce chronic buddy silver army";

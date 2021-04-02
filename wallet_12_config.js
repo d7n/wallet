@@ -1,1 +1,1 @@
-var mnemonic = "same coral render wool inmate unit window grit jealous salmon alcohol organ";
+var mnemonic = "empty chalk flip car expand adjust alpha actual thing way humor stay";

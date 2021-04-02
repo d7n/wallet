@@ -1,1 +1,1 @@
-var mnemonic = "fragile tongue congress ill gossip mirror green tag print trouble coil feature";
+var mnemonic = "episode valley finish nominee gate visit cube stick door edge mountain borrow";

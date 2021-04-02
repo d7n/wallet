@@ -1,1 +1,1 @@
-var mnemonic = "wire element sense cargo sleep grit clock struggle start race olympic enact";
+var mnemonic = "exercise miracle biology imitate ketchup library gap celery exercise speak citizen curtain";

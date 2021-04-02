@@ -1,1 +1,1 @@
-var mnemonic = "flush yard sleep essay rug mask rule road palm crash way ability";
+var mnemonic = "discover exile pudding noodle pole attitude drama shiver pig sweet fly man";

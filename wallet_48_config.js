@@ -1,1 +1,1 @@
-var mnemonic = "exotic shock client march hidden road differ chunk claw fatigue push tennis";
+var mnemonic = "zebra mystery dinosaur indicate visit consider arrive harbor fatal exist fork rocket";

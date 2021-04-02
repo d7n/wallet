@@ -1,1 +1,1 @@
-var mnemonic = "bunker coin climb width enrich slam almost update unhappy grocery man believe";
+var mnemonic = "maximum wonder present garage whip follow stool upgrade member pepper wing dismiss";

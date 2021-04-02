@@ -1,1 +1,1 @@
-var mnemonic = "load left true fix kitten silk reason visit foster gain banana wool";
+var mnemonic = "pink victory gaze harsh gauge surround reject honey spring divide gauge shrug";

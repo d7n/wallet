@@ -1,1 +1,1 @@
-var mnemonic = "stage alpha peanut dog morning diet hood cheap between mercy vague giant";
+var mnemonic = "ball suggest repeat analyst circle evolve pretty recall cute goddess bulk seek";

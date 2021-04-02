@@ -1,1 +1,1 @@
-var mnemonic = "slice trip child agent number attract faint thunder polar gain learn never";
+var mnemonic = "pet sponsor trap alley liar recycle aisle sausage school again barrel rare";

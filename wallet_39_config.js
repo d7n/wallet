@@ -1,1 +1,1 @@
-var mnemonic = "govern evolve anxiety world spoon spy chair execute peanut joy dinner escape";
+var mnemonic = "drip error video lion exhaust hub faculty stairs seed gentle cat wink";

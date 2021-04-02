@@ -1,1 +1,1 @@
-var mnemonic = "century nerve vast hundred any tongue guess follow trophy claim grit coyote";
+var mnemonic = "yard argue noble congress pulse grab reject that finger wash present slender";

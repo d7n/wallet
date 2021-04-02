@@ -1,1 +1,1 @@
-var mnemonic = "pool wood vehicle thought antenna cook tape friend earn evil bridge time";
+var mnemonic = "jealous morning kit marriage stereo remind clerk refuse school attract ladder buffalo";

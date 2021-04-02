@@ -1,1 +1,1 @@
-var mnemonic = "hollow maple laugh poverty often praise annual resemble attend donkey figure calm";
+var mnemonic = "jewel cement cotton wing dream quiz turtle deal comic boss grab attend";

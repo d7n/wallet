@@ -1,1 +1,1 @@
-var mnemonic = "crime wide stone neglect brother system news sugar three inhale bamboo place";
+var mnemonic = "believe label wonder soon solar junior clock story bubble favorite rose volcano";

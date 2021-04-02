@@ -1,1 +1,1 @@
-var mnemonic = "enable today virus afford science explain six finger vacuum angry impose recall";
+var mnemonic = "jelly addict final blood reduce party spring chicken acoustic cycle height unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "lava vanish flee gift orange gasp rain muscle radio history snack lucky";
+var mnemonic = "resist state artwork upset dress zero present lion office pistol alien whip";

@@ -1,1 +1,1 @@
-var mnemonic = "noble spoil space level budget beef blanket win grace quiz desk spatial";
+var mnemonic = "motion toddler dream window suffer dream drop critic dream prize task spice";

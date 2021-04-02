@@ -1,1 +1,1 @@
-var mnemonic = "input toilet exercise sail load suggest horse illegal double series speak oppose";
+var mnemonic = "cart news imitate twelve copy chicken subject crane dinner smart comic predict";

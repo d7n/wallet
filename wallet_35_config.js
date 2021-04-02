@@ -1,1 +1,1 @@
-var mnemonic = "pelican weapon castle north bleak cattle man usage arctic only party lawn";
+var mnemonic = "never pitch will brand grab lucky reason good produce middle unable gain";

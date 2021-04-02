@@ -1,1 +1,1 @@
-var mnemonic = "banner move ranch caution cement father tip trade stereo drastic engine charge";
+var mnemonic = "filter oval rhythm weasel hub surge faculty fee foam walnut feed federal";

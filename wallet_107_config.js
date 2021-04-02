@@ -1,1 +1,1 @@
-var mnemonic = "protect wide choice unusual wire cruise nature will find describe quantum neglect";
+var mnemonic = "oppose sugar stove increase side napkin pull volcano drastic poet quantum obscure";

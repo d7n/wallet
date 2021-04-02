@@ -1,1 +1,1 @@
-var mnemonic = "rare reveal flush elder scale trick kid taste garage broken plug enact";
+var mnemonic = "sail donor sport toddler enact short witness slight sell short siege small";

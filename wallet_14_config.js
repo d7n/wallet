@@ -1,1 +1,1 @@
-var mnemonic = "pelican wrong force palace sustain indicate voyage shine cross opinion lunch hobby";
+var mnemonic = "valley forget erode april limb frozen miracle wish gauge sport hire remain";

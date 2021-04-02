@@ -1,1 +1,1 @@
-var mnemonic = "concert quarter easily symptom logic twelve calm sauce rocket permit boy process";
+var mnemonic = "immense village woman light inform view toast stone coin refuse blame cup";

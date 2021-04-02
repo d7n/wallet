@@ -1,1 +1,1 @@
-var mnemonic = "day issue quiz require cousin promote arrow split door icon leader unfold";
+var mnemonic = "blue convince walnut myself edit teach among gap desk shell hobby half";

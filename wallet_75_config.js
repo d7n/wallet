@@ -1,1 +1,1 @@
-var mnemonic = "layer crawl record unknown wisdom bamboo pencil better giggle history analyst certain";
+var mnemonic = "sock jealous arrive swift chalk alpha try tag mistake grief salute stereo";

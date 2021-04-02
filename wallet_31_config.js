@@ -1,1 +1,1 @@
-var mnemonic = "casino peanut never timber cover fly flame blur multiply skin today turkey";
+var mnemonic = "pact toy family elephant bread basic still zebra case gravity kind destroy";

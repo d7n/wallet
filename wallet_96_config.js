@@ -1,1 +1,1 @@
-var mnemonic = "limb dawn describe outer demand control scheme asset prevent slide unit mango";
+var mnemonic = "connect open toss weasel deal company canoe pulp afford whale kick cram";

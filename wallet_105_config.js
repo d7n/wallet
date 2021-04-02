@@ -1,1 +1,1 @@
-var mnemonic = "timber solar anger renew index grant valid spread topple tomorrow empty cancel";
+var mnemonic = "denial subway taxi giraffe wrap syrup curious baby drop relief demise scale";

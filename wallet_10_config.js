@@ -1,1 +1,1 @@
-var mnemonic = "begin miss vote cube shoulder junior march gas govern purse bridge jealous";
+var mnemonic = "jewel crucial upset soon deny banana usual horse gold slot machine various";

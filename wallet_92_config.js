@@ -1,1 +1,1 @@
-var mnemonic = "pass little stumble route level maid flower method athlete second since track";
+var mnemonic = "vivid submit seminar forum dance reward someone split artist vicious drop remember";

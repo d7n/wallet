@@ -1,1 +1,1 @@
-var mnemonic = "space demand census divorce chair brief return bread welcome energy wear minimum";
+var mnemonic = "memory panel jungle vendor two riot patient deposit stomach maze cloth sell";

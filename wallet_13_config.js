@@ -1,1 +1,1 @@
-var mnemonic = "solar sun drop extend energy chronic aspect praise maid menu move vintage";
+var mnemonic = "cage task fiscal novel athlete another music echo robust ocean glare lens";

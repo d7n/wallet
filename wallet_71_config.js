@@ -1,1 +1,1 @@
-var mnemonic = "saddle dolphin market topic nation maid cigar opera garlic kiss truly shaft";
+var mnemonic = "title cousin speak notable nose apple guitar rifle total cross doctor clean";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth camp firm odor cost arch wait moral wreck acid churn fuel";
+var mnemonic = "uncle mixture practice degree mansion ugly outside you foil sibling already fish";

@@ -1,1 +1,1 @@
-var mnemonic = "easy critic tray cotton snack dignity repair repeat install session escape radar";
+var mnemonic = "during wood stay actress link essay debris play grief museum alert west";

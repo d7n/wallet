@@ -1,1 +1,1 @@
-var mnemonic = "maximum when success estate total rubber steak expire crew nothing focus blade";
+var mnemonic = "advice ostrich view wish pony sad whisper always sugar funny nation proof";

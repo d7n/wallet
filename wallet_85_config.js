@@ -1,1 +1,1 @@
-var mnemonic = "invest cruise six pluck news hobby penalty bird coral else okay test";
+var mnemonic = "segment december physical drill foil celery motion result disagree swear entry dilemma";

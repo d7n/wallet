@@ -1,1 +1,1 @@
-var mnemonic = "life empower hockey typical already hunt exclude kick icon jazz tuna style";
+var mnemonic = "smart tube brother vapor clay suggest amused canal diet vehicle beach detect";

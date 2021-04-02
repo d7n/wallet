@@ -1,1 +1,1 @@
-var mnemonic = "pipe loyal gravity hurry enhance lens chalk ramp neglect soup before describe";
+var mnemonic = "theory actual deal goddess fortune bargain simple affair drip find stadium image";

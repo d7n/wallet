@@ -1,1 +1,1 @@
-var mnemonic = "cargo tumble result grain slot motor liar tilt video strike cube network";
+var mnemonic = "memory normal vibrant morning deer asthma bracket dream gorilla other fiber hour";

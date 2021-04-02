@@ -1,1 +1,1 @@
-var mnemonic = "inside chalk creek prepare spider suspect canvas world paddle maze hood panther";
+var mnemonic = "tooth again display battle exercise off screen crane rough odor wild cousin";

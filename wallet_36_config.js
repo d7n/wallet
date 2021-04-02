@@ -1,1 +1,1 @@
-var mnemonic = "gallery extra fashion miss true coil shuffle thunder drink business merit stone";
+var mnemonic = "crazy midnight exile thrive rabbit nominee arrive attack grow below coach offer";

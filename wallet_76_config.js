@@ -1,1 +1,1 @@
-var mnemonic = "genius output join wear admit worry orbit knee alter odor fashion love";
+var mnemonic = "burst viable stand category dash juice mouse circle patrol monitor tenant clutch";

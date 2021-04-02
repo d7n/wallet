@@ -1,1 +1,1 @@
-var mnemonic = "antenna icon then orbit mad robot work trade dinner flush comfort thought";
+var mnemonic = "present busy effort venue office effort ski orange island milk use toward";

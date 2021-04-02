@@ -1,1 +1,1 @@
-var mnemonic = "deal rule scheme ethics fancy screen pair use life mountain they marble";
+var mnemonic = "casual quiz path tray outer wrist base quick fat boil also add";

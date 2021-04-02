@@ -1,1 +1,1 @@
-var mnemonic = "danger jar humble certain mask arrow arrow exit leader elder enroll jeans";
+var mnemonic = "vote whale assume organ infant sunny style prison motion topple virtual rookie";

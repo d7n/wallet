@@ -1,1 +1,1 @@
-var mnemonic = "code material lawsuit list bulk dutch measure audit judge essence say exclude";
+var mnemonic = "song detect drop youth forward excite basket faint select need solution square";

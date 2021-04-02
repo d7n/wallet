@@ -1,1 +1,1 @@
-var mnemonic = "bicycle smart decade much unlock ozone curious foster mean convince because basic";
+var mnemonic = "series please main nest panda sadness grant power shoot fire zone episode";

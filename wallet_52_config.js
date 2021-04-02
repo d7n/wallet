@@ -1,1 +1,1 @@
-var mnemonic = "devote notable cage right budget area verify evidence clerk elevator extra chief";
+var mnemonic = "absent ranch chief frequent fence start fashion audit orient matter slot able";

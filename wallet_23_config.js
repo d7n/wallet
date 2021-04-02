@@ -1,1 +1,1 @@
-var mnemonic = "group job rally sense order wash answer guitar volume vacuum entire give";
+var mnemonic = "forest easy battle quiz prize captain update emerge tumble tragic proud shield";

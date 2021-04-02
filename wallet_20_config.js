@@ -1,1 +1,1 @@
-var mnemonic = "fossil call saddle small early slot museum drift journey nasty sort metal";
+var mnemonic = "thumb aerobic side meat bulb tail organ visit clerk hello that credit";

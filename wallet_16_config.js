@@ -1,1 +1,1 @@
-var mnemonic = "resource stable occur crystal range very obvious pluck sample suspect voyage sad";
+var mnemonic = "frequent tape border strike erode marriage link easy ghost dog tribe pole";

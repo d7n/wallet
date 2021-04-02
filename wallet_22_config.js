@@ -1,1 +1,1 @@
-var mnemonic = "pigeon trade whisper grit pool tail moment comic drip face wrong frequent";
+var mnemonic = "mountain lunar hammer program drink view winner tape erase plate jungle spin";

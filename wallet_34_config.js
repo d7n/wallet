@@ -1,1 +1,1 @@
-var mnemonic = "make job dune lake surround brother level account evidence dawn picnic junk";
+var mnemonic = "chapter extend quantum stem strike problem wolf cancel object flee celery type";

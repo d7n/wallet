@@ -1,1 +1,1 @@
-var mnemonic = "pole visit portion urge bean report siren they naive anger stay analyst";
+var mnemonic = "leaf ski control behind chaos cook dolphin clarify plug hole quiz practice";

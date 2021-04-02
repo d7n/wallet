@@ -1,1 +1,1 @@
-var mnemonic = "unfold vicious spawn bounce salad jazz easy beef fine zebra test turkey";
+var mnemonic = "hollow canvas purpose mother state belt rally body volcano kitten student jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "recall neither over design verify diary crush web present wall question birth";
+var mnemonic = "entire measure announce poem finish object token paddle gap lens cargo caution";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow renew eager rotate entry woman that sick blush timber border rain";
+var mnemonic = "wall amount purchase valid pride robot advance list ready friend vibrant team";

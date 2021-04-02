@@ -1,1 +1,1 @@
-var mnemonic = "rack boss front jungle afraid raccoon twelve child envelope plastic quantum dutch";
+var mnemonic = "scorpion dawn trash general trip build evolve moon weasel foot again kid";

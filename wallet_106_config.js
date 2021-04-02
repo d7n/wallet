@@ -1,1 +1,1 @@
-var mnemonic = "urge nice spell crack pill dizzy tuition put gaze mountain turn abstract";
+var mnemonic = "must airport talent hamster kiss keep come sort detect win solution wage";

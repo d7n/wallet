@@ -1,1 +1,1 @@
-var mnemonic = "angle unveil unveil gaze arch have tape knock creek injury struggle salon";
+var mnemonic = "tray copper pride decade few attend raven charge federal chase survey swing";

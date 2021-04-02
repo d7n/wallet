@@ -1,1 +1,1 @@
-var mnemonic = "debris fitness crane clarify dog lesson arrive brief patch mammal ankle kind";
+var mnemonic = "snow alcohol cheese differ toe mountain draw grace expire message sea daring";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine act captain organ place moral loop arena bone salon symptom electric";
+var mnemonic = "elbow animal else penalty cruel muffin boring couple garage talent ranch easy";

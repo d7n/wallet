@@ -1,1 +1,1 @@
-var mnemonic = "armor must genre wood lawsuit nurse fiber cricket spin art roof reopen";
+var mnemonic = "toddler manual major ensure chimney mule trial coil much render ring swear";

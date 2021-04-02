@@ -1,1 +1,1 @@
-var mnemonic = "merry history leopard game rifle decide risk clap cost retire door solar";
+var mnemonic = "cream improve timber frequent zebra cheese find waste song napkin apart finger";

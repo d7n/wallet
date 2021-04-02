@@ -1,1 +1,1 @@
-var mnemonic = "blame soft rate destroy swarm second city wing nasty visual oven fantasy";
+var mnemonic = "method donkey space language extra tattoo violin soldier cliff clay rib sample";

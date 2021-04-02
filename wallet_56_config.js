@@ -1,1 +1,1 @@
-var mnemonic = "hip fatal picnic cost lyrics leisure empty fragile domain nothing dove daughter";
+var mnemonic = "glove jewel dream tissue record ecology harbor gallery thrive there orphan horn";

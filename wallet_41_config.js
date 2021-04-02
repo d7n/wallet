@@ -1,1 +1,1 @@
-var mnemonic = "limit sugar quantum armor wool diamond trash manage peasant casual exist index";
+var mnemonic = "brief car team shift wet marriage follow effort elder wood hold inner";

@@ -1,1 +1,1 @@
-var mnemonic = "minor melody lesson demand trip hawk roof then tribe gym route october";
+var mnemonic = "thrive mechanic spend useful dash elite chase oven rate gate slender banana";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire skirt copper bonus reopen unit core pulse indicate today office cup";
+var mnemonic = "roast pudding morning earn hockey reason enemy short party wild frog stereo";

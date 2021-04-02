@@ -1,1 +1,1 @@
-var mnemonic = "round crowd armed ahead lesson travel air script notice seek tribe ocean";
+var mnemonic = "lens witness surprise quarter legal luggage subway believe riot exotic truth tube";

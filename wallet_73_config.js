@@ -1,1 +1,1 @@
-var mnemonic = "wine silent cake chat hair excite sting gallery swarm again vague meadow";
+var mnemonic = "ordinary river quarter group wrestle melt napkin summer derive repeat good analyst";

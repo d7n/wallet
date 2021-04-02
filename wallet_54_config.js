@@ -1,1 +1,1 @@
-var mnemonic = "debris repeat breeze miracle enjoy spider win maximum twice multiply carbon repair";
+var mnemonic = "glass spike picture slow sun picnic family card month flame outer hint";

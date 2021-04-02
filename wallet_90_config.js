@@ -1,1 +1,1 @@
-var mnemonic = "body moon lazy phone frost lake gadget denial scout horn jump debris";
+var mnemonic = "alone almost speak edge journey hub gasp cup purpose alarm image what";

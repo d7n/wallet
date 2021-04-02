@@ -1,1 +1,1 @@
-var mnemonic = "angry brother thrive track promote scrub liar expect split trim grain decorate";
+var mnemonic = "hint stand hen tower boil people caught desert mirror evil quote honey";

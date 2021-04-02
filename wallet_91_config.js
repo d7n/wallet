@@ -1,1 +1,1 @@
-var mnemonic = "approve cute doll deliver escape shallow shield old pave pact awesome disagree";
+var mnemonic = "grow circle crater rhythm scorpion purpose twist card entry rug hammer sadness";

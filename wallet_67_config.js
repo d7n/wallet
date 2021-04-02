@@ -1,1 +1,1 @@
-var mnemonic = "tent consider mind husband base force drive able foot jar kind nest";
+var mnemonic = "place wild pledge eagle glow insect crystal bulk blur scorpion angle grape";

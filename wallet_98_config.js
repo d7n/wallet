@@ -1,1 +1,1 @@
-var mnemonic = "keen ancient illegal sister issue hard volcano trick inside tail resource tip";
+var mnemonic = "any deputy loop scrap capital spell need stairs circle march salute execute";
