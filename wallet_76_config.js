@@ -1,1 +1,1 @@
-var mnemonic = "biology provide embody hurdle walk toast cave denial number ability size wisdom";
+var mnemonic = "supply student sort fetch evil wheat brass goat track window era sea";

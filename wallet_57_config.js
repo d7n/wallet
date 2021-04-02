@@ -1,1 +1,1 @@
-var mnemonic = "squirrel figure normal love cool duck enrich soft orange moment thing wife";
+var mnemonic = "supreme vibrant broom weapon claim dress account mushroom human option lunar jacket";

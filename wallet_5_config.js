@@ -1,1 +1,1 @@
-var mnemonic = "prosper dose write pumpkin crush lunar exchange next side submit school latin";
+var mnemonic = "swing stairs visit cushion amused subway until refuse solution honey clutch ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "lift lock differ survey region police total oak puzzle amount emotion accident";
+var mnemonic = "sea ticket carry domain plastic muffin muffin dog spin jeans ability coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "flock riot occur engine hair neck excite tomato dentist tenant march pill";
+var mnemonic = "behind bus same strike frown path tape bachelor dose lion lecture patrol";

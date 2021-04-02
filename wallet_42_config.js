@@ -1,1 +1,1 @@
-var mnemonic = "useless story kid insane usage table neck sell shadow artefact lucky jump";
+var mnemonic = "benefit poem soda curious suit quote tower swear half surge obey nurse";

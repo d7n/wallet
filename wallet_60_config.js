@@ -1,1 +1,1 @@
-var mnemonic = "meadow monitor kitten music vivid smile voyage tooth useless stumble seven public";
+var mnemonic = "bone size blind kidney fancy hurt resemble abstract beach fox debris pond";

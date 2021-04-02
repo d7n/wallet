@@ -1,1 +1,1 @@
-var mnemonic = "promote road buffalo ritual debris before obvious forum salute walnut option divide";
+var mnemonic = "nice doll jaguar federal broccoli winter youth rug hospital tip hybrid cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "normal dove sketch social soap entire finger hurry steel special strategy gentle";
+var mnemonic = "usage town inside guess fall delay genre aim program afraid sketch human";

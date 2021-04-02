@@ -1,1 +1,1 @@
-var mnemonic = "saddle crater unfair concert sentence timber toy final cabin audit artist sing";
+var mnemonic = "tell cake theory squirrel stay lyrics daring hair expose gas exact rain";

@@ -1,1 +1,1 @@
-var mnemonic = "element fashion winner gospel hat decide mom enhance method group train pony";
+var mnemonic = "mixed immune knee shield clerk world note speed cage subject luggage human";

@@ -1,1 +1,1 @@
-var mnemonic = "cram mixture pair joy pole tuition submit proof brain opera divorce turkey";
+var mnemonic = "differ cream easily episode recycle shop rely lecture core ordinary slim such";

@@ -1,1 +1,1 @@
-var mnemonic = "glory vault insect bullet south often pig beauty observe lunar unit foam";
+var mnemonic = "gloom alcohol fold enrich ahead clock that over dad enlist asthma someone";

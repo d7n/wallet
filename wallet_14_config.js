@@ -1,1 +1,1 @@
-var mnemonic = "catalog prison artefact foster jump six language traffic setup size perfect pluck";
+var mnemonic = "tip wish allow bamboo demand habit ice whip suspect icon spice gaze";

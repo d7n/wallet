@@ -1,1 +1,1 @@
-var mnemonic = "develop squeeze zero language jewel fall begin retire trend athlete negative fiction";
+var mnemonic = "tennis man myself floor warrior blur evidence race retreat join morning uniform";

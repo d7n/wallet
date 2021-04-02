@@ -1,1 +1,1 @@
-var mnemonic = "collect measure pilot squirrel cousin recycle limit pupil right orange wrestle hawk";
+var mnemonic = "click shed work crazy goat twin include rich buffalo charge sample actor";

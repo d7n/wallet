@@ -1,1 +1,1 @@
-var mnemonic = "ice animal age breeze lyrics ignore portion capital winter scissors park limb";
+var mnemonic = "main tilt voice install hire seven setup mother just good fee marble";

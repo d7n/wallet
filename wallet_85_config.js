@@ -1,1 +1,1 @@
-var mnemonic = "prison concert color country recycle embark letter rate olympic vast thunder cloth";
+var mnemonic = "hybrid cram lizard divert cream eyebrow outside detect track ski cricket primary";

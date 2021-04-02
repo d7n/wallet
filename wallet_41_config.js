@@ -1,1 +1,1 @@
-var mnemonic = "grit absent cliff raw action wear school remind steel wear supreme next";
+var mnemonic = "humor switch anxiety member library engage news survey auction unique remember robot";

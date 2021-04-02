@@ -1,1 +1,1 @@
-var mnemonic = "awake remind venue usual chicken bless supply image autumn coffee make weird";
+var mnemonic = "note afford want glimpse nuclear whisper pear hobby burden churn detect awake";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue field advice initial base recycle gloom couple slide verb crash congress";
+var mnemonic = "deer rich system forward lumber buyer laptop wine office express song place";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate mirror pond parrot empty urge knock trim forest palm employ citizen";
+var mnemonic = "rich small thought outer once come race bullet robot table flag cinnamon";

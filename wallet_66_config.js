@@ -1,1 +1,1 @@
-var mnemonic = "only shy sphere know ridge snow sponsor horror toy dice pair afford";
+var mnemonic = "album door smart metal demand outdoor address valid vast general eye entry";

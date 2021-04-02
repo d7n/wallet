@@ -1,1 +1,1 @@
-var mnemonic = "organ aisle climb train session mention mercy city clean top hover glove";
+var mnemonic = "sock language quantum express village neglect combine idle lamp reason ticket fluid";

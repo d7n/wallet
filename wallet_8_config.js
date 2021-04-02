@@ -1,1 +1,1 @@
-var mnemonic = "boss crew what cook glow shoot moral crush robust certain lizard approve";
+var mnemonic = "north bonus turkey course museum sweet carpet road high picnic steak never";

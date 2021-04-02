@@ -1,1 +1,1 @@
-var mnemonic = "switch gift black pink extend various lazy mosquito spoon umbrella reduce attract";
+var mnemonic = "almost bag chat cancel member evoke excuse suit embody label final hurdle";

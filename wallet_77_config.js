@@ -1,1 +1,1 @@
-var mnemonic = "cage crash funny tape bicycle insect hen spend protect clown hope spray";
+var mnemonic = "figure swing disorder solar protect middle endless wink cable fix badge stable";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo fuel fabric morning radio donate orange stove eyebrow insane reward palace";
+var mnemonic = "artist spoon level chronic bounce pool true electric deputy toy art hope";

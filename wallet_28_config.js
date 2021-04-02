@@ -1,1 +1,1 @@
-var mnemonic = "cycle swallow wire risk put elbow plate plastic learn design wool seat";
+var mnemonic = "art cherry pulp blur media snack purse yellow vicious clump vibrant soldier";

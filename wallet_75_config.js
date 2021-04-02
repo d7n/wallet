@@ -1,1 +1,1 @@
-var mnemonic = "green borrow mind salon borrow absorb pony tool penalty index amateur either";
+var mnemonic = "over sadness plunge net brick drift wave kangaroo increase vault knock base";

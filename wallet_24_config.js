@@ -1,1 +1,1 @@
-var mnemonic = "clock sign rain magic stomach kiss cushion joke save effort jewel layer";
+var mnemonic = "mass impose birth fashion trophy juice sample chunk yard erupt card ill";

@@ -1,1 +1,1 @@
-var mnemonic = "fit notice skirt room combine visual episode lock awake supreme man urban";
+var mnemonic = "cushion raise tackle denial antique foster bubble hunt hard gap west device";

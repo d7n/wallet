@@ -1,1 +1,1 @@
-var mnemonic = "soldier brand motion step mountain run wall color border artist reason easily";
+var mnemonic = "episode buzz spider coil online verb brain cash mango rival hood access";

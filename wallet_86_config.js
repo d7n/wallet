@@ -1,1 +1,1 @@
-var mnemonic = "humor cram hero swing betray swallow venue auction vivid cross recall guard";
+var mnemonic = "either image diamond awful gadget jazz mask culture panel benefit soldier sick";

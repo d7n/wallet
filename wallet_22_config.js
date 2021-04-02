@@ -1,1 +1,1 @@
-var mnemonic = "office honey renew wash suspect detect salmon erode west hollow shaft venture";
+var mnemonic = "carbon unfair whale letter charge blue use album rather final orient mad";

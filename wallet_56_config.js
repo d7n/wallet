@@ -1,1 +1,1 @@
-var mnemonic = "carbon heart chef puzzle valve dirt pear match leg night section cable";
+var mnemonic = "family dignity interest antenna scene cradle fragile injury robot pledge express must";

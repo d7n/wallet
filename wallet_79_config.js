@@ -1,1 +1,1 @@
-var mnemonic = "people relief search rebel fringe pigeon ticket senior enough river desk subject";
+var mnemonic = "obvious train cradle monster grocery chef monkey state quarter rough wink enhance";

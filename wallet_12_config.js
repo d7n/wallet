@@ -1,1 +1,1 @@
-var mnemonic = "trumpet swear three next now angle hungry pyramid puzzle bottom online theme";
+var mnemonic = "notice abandon rival fetch eager penalty suit notice ceiling distance evoke pole";

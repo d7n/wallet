@@ -1,1 +1,1 @@
-var mnemonic = "style social ignore nasty silk swear section tunnel turtle region office arena";
+var mnemonic = "sick prison clean crime frame sauce era video flash vocal equip hood";

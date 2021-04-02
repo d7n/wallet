@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tone earth giggle stamp steel over retreat embrace twenty produce cabbage";
+var mnemonic = "blush invite license flee wrong catalog ring face damage catch merry season";

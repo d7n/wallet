@@ -1,1 +1,1 @@
-var mnemonic = "security diamond save invite chicken describe pumpkin dinner rib rule almost swap";
+var mnemonic = "deputy arctic few offer rare blush flip find simple cup vivid sweet";

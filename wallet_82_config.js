@@ -1,1 +1,1 @@
-var mnemonic = "rigid catalog forward arrive expand night certain front jungle type expand timber";
+var mnemonic = "nest hand auction inform lend increase refuse vote satisfy cart key protect";

@@ -1,1 +1,1 @@
-var mnemonic = "slam same brass degree paddle gold license space crisp mango ghost valve";
+var mnemonic = "unveil online problem digital assault winter hair salute tumble sure exotic pelican";

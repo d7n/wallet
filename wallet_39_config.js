@@ -1,1 +1,1 @@
-var mnemonic = "spring slender hurry enhance coach manual scrap chest benefit kiwi drip bid";
+var mnemonic = "worth lottery fox inflict demand inquiry envelope rice cheap symptom name elegant";

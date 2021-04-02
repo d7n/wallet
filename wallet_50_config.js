@@ -1,1 +1,1 @@
-var mnemonic = "layer since impact where pelican tape garlic february void large proof olive";
+var mnemonic = "utility drift soup song dove inhale nominee face aunt weather buddy coach";

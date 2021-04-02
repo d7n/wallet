@@ -1,1 +1,1 @@
-var mnemonic = "access wet bright image unhappy urban enough soft demand sight where cheese";
+var mnemonic = "gain wing cat receive afraid nerve bench have manual noble enable weird";

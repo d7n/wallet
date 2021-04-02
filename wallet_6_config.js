@@ -1,1 +1,1 @@
-var mnemonic = "unable box across quarter twenty there bag section patrol plunge theme green";
+var mnemonic = "okay mandate pretty bamboo sorry sister stick ahead fiscal donkey town carry";

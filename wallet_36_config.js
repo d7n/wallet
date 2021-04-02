@@ -1,1 +1,1 @@
-var mnemonic = "anger evolve pudding evil cliff gesture champion citizen afford border planet act";
+var mnemonic = "chuckle blast report soccer bonus marble better critic bamboo luggage reflect they";

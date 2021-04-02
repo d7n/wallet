@@ -1,1 +1,1 @@
-var mnemonic = "spread evidence useful slam join bargain wood click flight ill wheat ignore";
+var mnemonic = "toast auction easily borrow catch virtual planet recipe loan blade observe twin";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone liar juice large roast chronic canvas hover color quarter during area";
+var mnemonic = "crop awesome world effort insect useful wrap outer finger found april essay";

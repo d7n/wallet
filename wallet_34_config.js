@@ -1,1 +1,1 @@
-var mnemonic = "switch noise isolate judge average decorate into rough spoon giraffe shell flower";
+var mnemonic = "fashion grass candy suggest window inflict until survey reopen puppy text clock";

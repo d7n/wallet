@@ -1,1 +1,1 @@
-var mnemonic = "describe industry dice often room attend aspect assault fuel hood trumpet fit";
+var mnemonic = "surge island switch marble lens water crazy fame hood fringe correct outside";

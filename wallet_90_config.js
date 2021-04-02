@@ -1,1 +1,1 @@
-var mnemonic = "canvas brand swamp burden banana pet coral gorilla document fault review estate";
+var mnemonic = "robot snow initial bullet awful horn service bulk figure double okay dragon";

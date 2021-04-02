@@ -1,1 +1,1 @@
-var mnemonic = "case laundry absurd frown tag that legend exact spoil tunnel doll topple";
+var mnemonic = "cup film mechanic aim pet short recipe gloom minute practice potato flee";

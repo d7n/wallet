@@ -1,1 +1,1 @@
-var mnemonic = "husband gesture inhale then chase annual burst cluster example run tissue noise";
+var mnemonic = "summer setup truly indicate casino two shrug describe found imitate actor arrest";

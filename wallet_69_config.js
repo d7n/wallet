@@ -1,1 +1,1 @@
-var mnemonic = "bracket infant call fence position cover valley vessel manual into enter vast";
+var mnemonic = "north survey decorate chicken fabric goose flee year drill annual wish initial";

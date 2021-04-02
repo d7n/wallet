@@ -1,1 +1,1 @@
-var mnemonic = "scale benefit dawn cake good wage actor primary half often walk pledge";
+var mnemonic = "diary ranch upgrade bleak mail blossom topic smoke concert version erode remain";

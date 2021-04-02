@@ -1,1 +1,1 @@
-var mnemonic = "diagram distance fall suit cost barrel seat ladder between alarm chat deposit";
+var mnemonic = "mention insect brisk struggle behave iron puppy veteran only pair cover marriage";

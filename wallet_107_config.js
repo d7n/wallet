@@ -1,1 +1,1 @@
-var mnemonic = "engine soda east wool trumpet method merit slim dress own royal sheriff";
+var mnemonic = "immune degree diary tiger dance auto because despair evoke life math veteran";

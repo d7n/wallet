@@ -1,1 +1,1 @@
-var mnemonic = "match tool discover awake receive unique stumble shield frog aerobic service tiger";
+var mnemonic = "return lock mutual canoe pair balcony ketchup around nut brother skill pledge";

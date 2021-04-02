@@ -1,1 +1,1 @@
-var mnemonic = "plunge edit name bag end define giggle faint sausage diary lecture chair";
+var mnemonic = "lamp tattoo congress gospel farm trend master pattern three alcohol vote stem";

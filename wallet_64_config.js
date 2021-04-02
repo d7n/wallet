@@ -1,1 +1,1 @@
-var mnemonic = "scare slab occur venue enemy prepare salad december never tongue apart similar";
+var mnemonic = "disagree resemble bomb area huge churn rough omit angle fury student tell";

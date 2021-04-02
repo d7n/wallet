@@ -1,1 +1,1 @@
-var mnemonic = "fog nest alien hedgehog total rigid law used clutch pet either hip";
+var mnemonic = "poet either canvas engine chuckle sorry planet kidney cushion inch mesh atom";

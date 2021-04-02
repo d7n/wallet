@@ -1,1 +1,1 @@
-var mnemonic = "swim tape lawn focus fever cupboard strike bracket build only true fiber";
+var mnemonic = "dress lounge lounge festival turn cross invest antique sheriff immense glide mind";

@@ -1,1 +1,1 @@
-var mnemonic = "tube hollow basic crime judge trouble guilt gallery noodle solve later ski";
+var mnemonic = "body donkey anxiety gravity school lyrics pencil proof cattle smile soon double";

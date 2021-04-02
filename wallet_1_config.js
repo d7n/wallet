@@ -1,1 +1,1 @@
-var mnemonic = "leg glow aspect spatial bag sing devote rubber life exit gospel lucky";
+var mnemonic = "island amused gentle mixed photo notable kiwi margin travel thunder stable price";

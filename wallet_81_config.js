@@ -1,1 +1,1 @@
-var mnemonic = "burden young clap canyon tone stairs alien banner spring such tissue tip";
+var mnemonic = "practice icon market drill regular consider other connect story pen replace lazy";

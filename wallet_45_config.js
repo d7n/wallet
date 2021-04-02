@@ -1,1 +1,1 @@
-var mnemonic = "beauty rose offer expire elephant trap obey silver hire useful veteran rail";
+var mnemonic = "powder flame journey awesome argue tip diary grant exit swear mail fringe";

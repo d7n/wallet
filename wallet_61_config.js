@@ -1,1 +1,1 @@
-var mnemonic = "seek yard junk three trap wisdom misery flip afraid insect tenant ghost";
+var mnemonic = "maximum plunge noodle gauge chat budget unique vibrant twelve urban unique fever";

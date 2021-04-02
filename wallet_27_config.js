@@ -1,1 +1,1 @@
-var mnemonic = "shed detect jeans clean poet feature pass slight better draw nurse rival";
+var mnemonic = "damage segment cinnamon glow wine two razor turkey noble topic belt history";

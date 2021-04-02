@@ -1,1 +1,1 @@
-var mnemonic = "present taxi solar cotton example evoke gasp until liquid camera gun ginger";
+var mnemonic = "siege spike easily town practice bitter abstract victory pupil teach work reflect";

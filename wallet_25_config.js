@@ -1,1 +1,1 @@
-var mnemonic = "submit harvest remind million man fringe include aisle husband boss employ dismiss";
+var mnemonic = "hat buzz twenty chuckle shine hundred type program mother symbol harsh crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "screen gaze weekend remove moral wet earth sweet various very smile law";
+var mnemonic = "oil state organ stand slender define desert actress nasty harsh tray carry";

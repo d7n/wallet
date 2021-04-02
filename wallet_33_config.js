@@ -1,1 +1,1 @@
-var mnemonic = "bamboo sibling portion elite live increase clerk vendor already toilet couple clerk";
+var mnemonic = "flame detect adapt sight romance put empty witness holiday spell raccoon hungry";

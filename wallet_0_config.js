@@ -1,1 +1,1 @@
-var mnemonic = "gather slush patient chaos range nuclear uphold vendor giggle inspire ethics cave";
+var mnemonic = "glow faculty canyon media project favorite unfair gap actual awkward caution industry";

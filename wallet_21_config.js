@@ -1,1 +1,1 @@
-var mnemonic = "among essay toss envelope jungle before mercy actor degree adapt celery mammal";
+var mnemonic = "adjust era sand identify rude trash fetch afraid hobby daring sunny hammer";

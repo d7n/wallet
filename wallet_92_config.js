@@ -1,1 +1,1 @@
-var mnemonic = "shoulder reopen behind knife burger expose verify climb inform snake able pave";
+var mnemonic = "match multiply decline trial barely consider snake input few struggle post prefer";

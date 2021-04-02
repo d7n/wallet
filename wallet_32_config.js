@@ -1,1 +1,1 @@
-var mnemonic = "antenna quality skirt wisdom aisle target dilemma kitchen toddler medal update silent";
+var mnemonic = "together inspire sunny must fragile hungry horror base sight crucial bridge give";

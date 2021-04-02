@@ -1,1 +1,1 @@
-var mnemonic = "smooth forget vapor quick ozone visual betray cycle tape tongue vicious onion";
+var mnemonic = "submit zoo suit pledge access elegant scrap lottery noble stairs rival review";

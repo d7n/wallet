@@ -1,1 +1,1 @@
-var mnemonic = "scout seat size waste fame welcome unique spatial defy between combine govern";
+var mnemonic = "easy suffer begin kitchen erode segment also seat provide poet spoon throw";

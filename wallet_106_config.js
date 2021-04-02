@@ -1,1 +1,1 @@
-var mnemonic = "present open require raccoon tail dry later brain fitness pole boost dwarf";
+var mnemonic = "occur dilemma found emotion rebuild black remain cover vacant improve gym copy";

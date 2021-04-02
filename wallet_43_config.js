@@ -1,1 +1,1 @@
-var mnemonic = "sibling annual half add where used hire zero cruise dish turtle winter";
+var mnemonic = "obscure document rug outer jelly primary kiwi monkey gravity dinosaur yard end";

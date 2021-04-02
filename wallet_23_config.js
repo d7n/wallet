@@ -1,1 +1,1 @@
-var mnemonic = "daughter lens drama dose lecture civil rib escape perfect swallow parent cotton";
+var mnemonic = "pulp monitor moment wire only elite miss valid lab broken remove normal";

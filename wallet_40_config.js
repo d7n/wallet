@@ -1,1 +1,1 @@
-var mnemonic = "chunk couple marriage leader ahead cruise tool finger board skill inmate inhale";
+var mnemonic = "soup park sun reject brand simple size magnet weird today typical tragic";

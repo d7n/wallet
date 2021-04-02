@@ -1,1 +1,1 @@
-var mnemonic = "key document mercy relief six warfare have palm garden speed extra three";
+var mnemonic = "average bundle rebel island anxiety arrest arm timber wild struggle whisper wave";

@@ -1,1 +1,1 @@
-var mnemonic = "open affair stamp man luxury marble pet voyage convince reform method lift";
+var mnemonic = "mixture tiger emotion dose valid chunk pottery able brief shove enrich plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "book mistake park screen grain rich crisp deer master repair silent soap";
+var mnemonic = "goose process crawl chief walk bread want pride wage space stick glory";

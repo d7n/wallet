@@ -1,1 +1,1 @@
-var mnemonic = "bone tragic girl hollow edge reopen begin venture amateur infant scatter rough";
+var mnemonic = "need subject enter mixture dumb language bleak wall gossip drum sauce crane";
