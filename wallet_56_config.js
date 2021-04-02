@@ -1,1 +1,1 @@
-var mnemonic = "alter wife rib spike toward harvest artefact actor question field tree define";
+var mnemonic = "health diet tool demise predict cart grant mail devote atom side network";

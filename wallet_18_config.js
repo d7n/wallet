@@ -1,1 +1,1 @@
-var mnemonic = "grocery property decrease poverty minimum domain amateur wealth digital tomato bicycle element";
+var mnemonic = "shock staff eight grape grain essence dove model twin turtle just actress";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster ridge collect false label smart unfair bicycle travel assist dial film";
+var mnemonic = "orphan rally lemon gadget crystal dream borrow barely main repeat nation there";

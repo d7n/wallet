@@ -1,1 +1,1 @@
-var mnemonic = "isolate agent witness off cupboard naive dismiss kind innocent shiver found town";
+var mnemonic = "exotic grant satisfy rough neglect whip various major cricket panic dumb media";

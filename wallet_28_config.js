@@ -1,1 +1,1 @@
-var mnemonic = "teach combine level life fatigue monitor crystal bronze panic book south cereal";
+var mnemonic = "bamboo soda congress sick sight scatter drip repair script slogan garment bicycle";

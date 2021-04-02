@@ -1,1 +1,1 @@
-var mnemonic = "oven jelly athlete sport cousin train sample tired drum assist include example";
+var mnemonic = "belt kitten slim dwarf way toe upgrade couch gadget clinic noodle truth";

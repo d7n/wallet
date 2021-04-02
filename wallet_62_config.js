@@ -1,1 +1,1 @@
-var mnemonic = "hunt shop attitude march smart invest hair shed timber goat proud speak";
+var mnemonic = "boost dismiss minute casual cake indicate knife change bunker ready olympic clock";

@@ -1,1 +1,1 @@
-var mnemonic = "quit awesome inch utility frown benefit cradle waste marine modify come local";
+var mnemonic = "dawn super cherry gravity input rookie sell cave pilot claw sustain easily";

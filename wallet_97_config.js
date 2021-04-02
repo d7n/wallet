@@ -1,1 +1,1 @@
-var mnemonic = "denial thrive recycle change sleep used arrow pluck leaf blouse envelope quality";
+var mnemonic = "material floor earn degree twice sustain luxury entry outside mechanic library ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "tower drive dune aunt manage skull rent pyramid infant leopard rough fee";
+var mnemonic = "evil knock lock lab early retire cook grow little frame end draft";

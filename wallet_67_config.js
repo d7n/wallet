@@ -1,1 +1,1 @@
-var mnemonic = "industry hundred ozone parade hybrid prize put guilt pumpkin debate surround settle";
+var mnemonic = "garden episode wreck ski trend survey escape climb chef verb example impact";

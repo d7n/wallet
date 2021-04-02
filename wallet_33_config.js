@@ -1,1 +1,1 @@
-var mnemonic = "advance federal cannon food spread biology calm jealous entry convince zero key";
+var mnemonic = "length legal salmon satisfy bridge auto bacon meadow frown stay clean car";

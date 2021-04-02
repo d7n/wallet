@@ -1,1 +1,1 @@
-var mnemonic = "cross just must gospel web type razor come resemble state oyster federal";
+var mnemonic = "urban force cost scatter during oyster torch retreat improve reason dance army";

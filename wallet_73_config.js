@@ -1,1 +1,1 @@
-var mnemonic = "era sick nominee merit impulse deny fever toilet stadium reduce again asset";
+var mnemonic = "pill coral impose today cause crop tape frog law list pet midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "subway dumb dove shrimp gym fault trim entire throw paper antique series";
+var mnemonic = "steak chunk impose lawsuit slush price ugly struggle remember fiction cash egg";

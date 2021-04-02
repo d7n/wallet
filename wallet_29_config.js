@@ -1,1 +1,1 @@
-var mnemonic = "attend fluid duck board scene regret people glow judge learn trend treat";
+var mnemonic = "unknown drill direct please sing near input finger idle hard gossip town";

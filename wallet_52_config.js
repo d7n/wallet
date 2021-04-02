@@ -1,1 +1,1 @@
-var mnemonic = "issue upper chicken trust pen peace sick receive twice drive income into";
+var mnemonic = "van chronic brand crumble van cattle amateur live outdoor regret tooth trick";

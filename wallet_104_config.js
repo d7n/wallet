@@ -1,1 +1,1 @@
-var mnemonic = "ritual another tent robust eight script hat marriage inside vapor roast question";
+var mnemonic = "oppose vault neither oven multiply divert mean raw emotion video foot nurse";

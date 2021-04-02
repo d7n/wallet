@@ -1,1 +1,1 @@
-var mnemonic = "green such daring permit expect attract simple inspire path benefit field helmet";
+var mnemonic = "cruise save mango rally receive ketchup sudden alarm random idea seek wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "view amount sunset admit chase brass relief vibrant cover blood trumpet absurd";
+var mnemonic = "cousin powder donkey scorpion exhibit sorry melody tissue pizza prevent stand island";

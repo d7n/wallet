@@ -1,1 +1,1 @@
-var mnemonic = "same sign dumb cook worth base rich buzz rather shiver fuel retreat";
+var mnemonic = "mass gift left company rabbit decrease caught lava six kick beef spoil";

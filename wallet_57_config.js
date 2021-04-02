@@ -1,1 +1,1 @@
-var mnemonic = "random shell legal disorder surge ignore version swift bitter unfold method misery";
+var mnemonic = "project denial sting reopen imitate furnace library craft conduct behind ride hen";

@@ -1,1 +1,1 @@
-var mnemonic = "negative visual slow wine unique notable west river thought judge normal only";
+var mnemonic = "art rocket matrix endorse erupt wonder item rain mom enjoy jungle ship";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel measure miracle clog busy manage client trip much tattoo outer chat";
+var mnemonic = "cloth ready cereal capital buffalo ring stumble conduct fat moon exhibit margin";

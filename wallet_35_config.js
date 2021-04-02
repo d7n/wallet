@@ -1,1 +1,1 @@
-var mnemonic = "soon piano absent suffer assault sword loop hair dawn woman crew crouch";
+var mnemonic = "venue exchange palace trust bus scissors banana scheme whisper ignore into owner";

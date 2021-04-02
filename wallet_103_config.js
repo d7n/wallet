@@ -1,1 +1,1 @@
-var mnemonic = "wreck humble dune dynamic senior social trash oven green soda lab erosion";
+var mnemonic = "topic across bubble alert infant age cattle awful love frown disorder air";

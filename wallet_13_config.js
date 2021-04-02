@@ -1,1 +1,1 @@
-var mnemonic = "poverty dawn school enforce enter orbit keen battle uniform panel distance matter";
+var mnemonic = "page skin entire exist echo mind awesome cave hub wine razor solid";

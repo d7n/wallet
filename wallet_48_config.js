@@ -1,1 +1,1 @@
-var mnemonic = "gauge olive aware elevator strong leader cheap match come basic also fade";
+var mnemonic = "palace galaxy ask sunny pyramid phrase potato deny tissue final service output";

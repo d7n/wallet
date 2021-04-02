@@ -1,1 +1,1 @@
-var mnemonic = "wave total display under safe match never buyer earn uniform very voyage";
+var mnemonic = "rookie rotate embark sausage file process weapon reward help eyebrow affair quality";

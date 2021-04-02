@@ -1,1 +1,1 @@
-var mnemonic = "tortoise foam maze annual elbow purpose belt acquire only clever aerobic urban";
+var mnemonic = "sphere dress horror twist keep blush proof now supply emerge betray unknown";

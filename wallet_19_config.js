@@ -1,1 +1,1 @@
-var mnemonic = "nuclear history inform rabbit detect lobster category version gloom aunt remind ordinary";
+var mnemonic = "another various list raw cup drastic arrest pizza lab element income album";

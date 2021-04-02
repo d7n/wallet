@@ -1,1 +1,1 @@
-var mnemonic = "churn action minute jeans spring cluster little silent news artwork swamp sea";
+var mnemonic = "elevator grunt ranch pole mirror flavor decade grape weekend service pole hamster";

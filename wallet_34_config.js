@@ -1,1 +1,1 @@
-var mnemonic = "catch result jacket sister flock razor crazy frequent detect record sugar fly";
+var mnemonic = "resource scale slender excess miss avocado cage drip bracket drill pizza behind";

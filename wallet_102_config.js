@@ -1,1 +1,1 @@
-var mnemonic = "service glance disease critic female winter glad dolphin cotton donkey canyon cheap";
+var mnemonic = "include weekend domain creek nephew cloth universe melody charge nut bus squeeze";

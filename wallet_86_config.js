@@ -1,1 +1,1 @@
-var mnemonic = "tilt tribe fiscal panel such cheese lunar early enrich helmet cool symptom";
+var mnemonic = "tattoo nice fence frozen lens cement brick faith verb extend shoot link";

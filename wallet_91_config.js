@@ -1,1 +1,1 @@
-var mnemonic = "rose need session manual inch almost express this bring youth title couple";
+var mnemonic = "spot lady goose fade into runway minute combine enjoy alone crumble loyal";

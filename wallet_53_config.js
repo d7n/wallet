@@ -1,1 +1,1 @@
-var mnemonic = "bachelor neutral rely melt destroy garlic favorite load sphere mistake lava field";
+var mnemonic = "scrub source jaguar crawl wide attract claim inform inspire edit forward pretty";

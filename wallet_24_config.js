@@ -1,1 +1,1 @@
-var mnemonic = "force accuse spoon someone very loan glance ignore catalog nominee derive napkin";
+var mnemonic = "bird approve sun flat butter garment glance connect sugar asthma magnet major";

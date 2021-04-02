@@ -1,1 +1,1 @@
-var mnemonic = "minute joke early pass total aerobic rubber raccoon sand grant vicious model";
+var mnemonic = "detail wrestle budget rubber cruel document universe change want sauce great then";

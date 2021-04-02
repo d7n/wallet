@@ -1,1 +1,1 @@
-var mnemonic = "dignity outer extra solar reward cave volcano mandate shoot carpet chimney coil";
+var mnemonic = "among indicate joy surprise forest win argue maze pair mom chuckle dust";

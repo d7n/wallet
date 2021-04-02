@@ -1,1 +1,1 @@
-var mnemonic = "stool grief galaxy actress misery thumb tooth design tired balance spray submit";
+var mnemonic = "equal squirrel explain purity crater hope plug express deer zone soul magic";

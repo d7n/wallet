@@ -1,1 +1,1 @@
-var mnemonic = "decade dust comfort crater spot pottery van category jealous rain half shield";
+var mnemonic = "giraffe ghost amount unveil street burger slush ill moon comfort subject notice";

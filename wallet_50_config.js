@@ -1,1 +1,1 @@
-var mnemonic = "suspect ketchup whisper you hard claw eye hundred artefact parent sock media";
+var mnemonic = "fiscal social kitchen fine clean purity right avoid hard lunch feel list";

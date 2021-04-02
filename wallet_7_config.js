@@ -1,1 +1,1 @@
-var mnemonic = "assist reward butter insect exotic wrestle thank pioneer husband zebra jewel amazing";
+var mnemonic = "depart narrow entire fancy acid marriage giant aisle camp outdoor cheap horror";

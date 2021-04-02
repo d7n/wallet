@@ -1,1 +1,1 @@
-var mnemonic = "analyst team clinic angry burger toss correct rifle fox mad scrap gauge";
+var mnemonic = "life gallery hair achieve patch program hold tray can imitate journey road";

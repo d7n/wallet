@@ -1,1 +1,1 @@
-var mnemonic = "moon one swim dance into gospel chimney pride swallow employ profit vessel";
+var mnemonic = "negative address dismiss welcome also hair moment front bird blouse electric fold";

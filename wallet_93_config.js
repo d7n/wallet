@@ -1,1 +1,1 @@
-var mnemonic = "sentence loyal plug upset borrow shell blush doll letter craft sail disorder";
+var mnemonic = "isolate call mammal ahead violin please dash defense also candy lyrics sudden";

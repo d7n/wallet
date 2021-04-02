@@ -1,1 +1,1 @@
-var mnemonic = "tuition bus develop blossom metal roast matrix argue decide fog hover robot";
+var mnemonic = "prevent camera gasp alter school dry keen uncle latin lift radio indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "hollow fun vintage devote perfect theory action choice talent flock wet laundry";
+var mnemonic = "audit install upset dynamic album screen wisdom tunnel glue record federal wine";

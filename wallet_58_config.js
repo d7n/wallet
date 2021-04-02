@@ -1,1 +1,1 @@
-var mnemonic = "million clap young usage toss lemon bacon luggage field elder style spare";
+var mnemonic = "stage mammal torch shaft lava piano gift session plug ethics roast tumble";

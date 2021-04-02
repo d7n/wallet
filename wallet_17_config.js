@@ -1,1 +1,1 @@
-var mnemonic = "dolphin style shell bleak budget wise chair property mention record cattle case";
+var mnemonic = "fragile sister pig tape biology scale radio blush angry hero swallow remember";

@@ -1,1 +1,1 @@
-var mnemonic = "cat language write happy balcony biology fitness sock gossip maze vast immune";
+var mnemonic = "crack truly lunar leader mesh stove always quarter lobster people charge muffin";

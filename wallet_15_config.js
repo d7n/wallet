@@ -1,1 +1,1 @@
-var mnemonic = "stuff universe wish agree orphan rhythm post wheel tumble thrive ship shy";
+var mnemonic = "draft fruit subject pill ask shrug sustain merit grunt shuffle salmon buzz";

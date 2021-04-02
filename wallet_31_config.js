@@ -1,1 +1,1 @@
-var mnemonic = "slab gas recipe invite father embrace catch glove end marine memory cash";
+var mnemonic = "ripple loyal yard mutual tuna sauce history impact verify voice bid horse";

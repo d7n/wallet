@@ -1,1 +1,1 @@
-var mnemonic = "diary issue famous task weekend object hurt trend glide old forward mirror";
+var mnemonic = "outside unusual juice dignity measure release group never protect seed jewel wisdom";

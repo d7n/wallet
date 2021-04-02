@@ -1,1 +1,1 @@
-var mnemonic = "luxury amused raise slim satisfy truth fossil before negative person film add";
+var mnemonic = "furnace enough hotel devote hole rate lady better crowd hotel ginger awkward";

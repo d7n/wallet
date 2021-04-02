@@ -1,1 +1,1 @@
-var mnemonic = "salt arrow shine kid hurt situate bid segment fever vehicle license element";
+var mnemonic = "uphold bird cousin tired bike flavor license logic eye ensure swing potato";

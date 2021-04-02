@@ -1,1 +1,1 @@
-var mnemonic = "wage bottom negative glow salon virtual trust core another often fragile arrow";
+var mnemonic = "used obtain unaware lonely craft hundred escape praise legend smile asthma elephant";

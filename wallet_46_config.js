@@ -1,1 +1,1 @@
-var mnemonic = "real panic organ blast number unit lunch universe chaos accident hammer ignore";
+var mnemonic = "tattoo cigar consider false submit search finger anchor note yellow fatigue squirrel";

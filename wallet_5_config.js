@@ -1,1 +1,1 @@
-var mnemonic = "sign celery slender captain usual patch else release demand circle act pudding";
+var mnemonic = "brush tennis echo donkey credit fitness depart crane shallow glove entry enrich";

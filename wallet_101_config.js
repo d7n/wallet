@@ -1,1 +1,1 @@
-var mnemonic = "rescue cat wonder when quote physical lucky cruise eternal come find ocean";
+var mnemonic = "stove caution insect sudden dwarf shell stove relax admit rule cage boil";

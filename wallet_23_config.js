@@ -1,1 +1,1 @@
-var mnemonic = "blind alien onion delay slow river route govern ramp squirrel rebuild cradle";
+var mnemonic = "wood bind task produce amount gym vault cement snake road turtle cotton";

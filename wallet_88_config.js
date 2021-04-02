@@ -1,1 +1,1 @@
-var mnemonic = "love magnet then tenant fruit clip keep depend question taxi mandate choose";
+var mnemonic = "drastic poverty edit glass oil advice desk bottom whisper ancient photo grain";

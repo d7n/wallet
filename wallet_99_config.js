@@ -1,1 +1,1 @@
-var mnemonic = "skate unlock add exhibit pioneer inject oppose expect replace blind tent tent";
+var mnemonic = "chair mind point fly expose lemon razor weird coral teach awake breeze";

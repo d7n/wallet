@@ -1,1 +1,1 @@
-var mnemonic = "toast oven icon sun hub social detect young hen defy quality check";
+var mnemonic = "essence panel unveil predict wedding desert balance either usage smile between zebra";

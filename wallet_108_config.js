@@ -1,1 +1,1 @@
-var mnemonic = "warm actress away tuna range wife pledge doctor ceiling enough found choice";
+var mnemonic = "sun prefer oak eyebrow choose devote jar sadness regret clever episode enable";

@@ -1,1 +1,1 @@
-var mnemonic = "morning witness luggage today goose recycle snow person when drift armed three";
+var mnemonic = "sing detect section laundry achieve swap faint jeans claim praise people hero";

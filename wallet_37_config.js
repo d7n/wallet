@@ -1,1 +1,1 @@
-var mnemonic = "you east divert bike fatal senior milk feel general crisp move fatigue";
+var mnemonic = "polar help forest exhaust pause child atom cotton mammal excess attend word";

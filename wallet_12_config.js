@@ -1,1 +1,1 @@
-var mnemonic = "phrase improve fitness cost tonight glide vacant strategy abstract cruel below warrior";
+var mnemonic = "utility frog great excite decade copper client fossil enjoy burst episode poverty";

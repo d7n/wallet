@@ -1,1 +1,1 @@
-var mnemonic = "vacuum orient cereal venture world camera limit tackle evil live alcohol require";
+var mnemonic = "nerve edit midnight harbor cross rare spread nominee route swear term flavor";

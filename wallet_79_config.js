@@ -1,1 +1,1 @@
-var mnemonic = "speak solution guilt ribbon suggest morning entry wheel original green joy arrive";
+var mnemonic = "federal twelve tired rely pave hotel talk regular wall link jaguar slot";

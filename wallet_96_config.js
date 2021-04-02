@@ -1,1 +1,1 @@
-var mnemonic = "predict rough analyst rifle question will strong rule uphold scan stone fire";
+var mnemonic = "farm drum ceiling leaf silent daughter gate idle quiz sausage digital young";

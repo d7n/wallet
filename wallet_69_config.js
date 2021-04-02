@@ -1,1 +1,1 @@
-var mnemonic = "ripple run mean method siege retire start initial pave mind defy trip";
+var mnemonic = "holiday tortoise dose emotion replace now flip escape mimic proud upon tomorrow";

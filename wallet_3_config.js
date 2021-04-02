@@ -1,1 +1,1 @@
-var mnemonic = "broom marble awkward share mobile hero tide baby replace tower crisp high";
+var mnemonic = "cook word add destroy repeat gentle endorse kid whale rookie boss candy";

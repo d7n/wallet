@@ -1,1 +1,1 @@
-var mnemonic = "verify husband crowd admit enhance embark before arrow chair day other few";
+var mnemonic = "toilet bracket target fringe bachelor prevent gasp stone that remember all warrior";

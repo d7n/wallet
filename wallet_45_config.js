@@ -1,1 +1,1 @@
-var mnemonic = "cram arctic now expand fuel define solid ice lunch rule garden stove";
+var mnemonic = "knife weekend sleep forward apple fury monitor echo entire torch mandate lonely";

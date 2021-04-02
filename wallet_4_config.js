@@ -1,1 +1,1 @@
-var mnemonic = "slush fall discover onion tired uniform similar slight doctor unique antique brave";
+var mnemonic = "jar cupboard skill submit chapter vacuum round struggle math access wasp engage";

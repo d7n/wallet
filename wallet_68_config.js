@@ -1,1 +1,1 @@
-var mnemonic = "enable long unveil jar cool deputy pond crime tray aim moon planet";
+var mnemonic = "spend curve atom trim fury visual scare lunar stadium fire comic grant";

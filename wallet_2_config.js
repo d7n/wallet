@@ -1,1 +1,1 @@
-var mnemonic = "between nurse video wise girl spoil enforce marine lava edit soda gap";
+var mnemonic = "once fantasy favorite rally coil nuclear field differ note wild lunch erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "increase fitness capital snap match tilt trim escape tray swarm steel minor";
+var mnemonic = "leg lawsuit segment now urban sustain scissors energy taste wealth food help";

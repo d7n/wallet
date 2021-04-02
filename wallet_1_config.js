@@ -1,1 +1,1 @@
-var mnemonic = "hurry smart era that stick animal edit donor fence onion cigar iron";
+var mnemonic = "enjoy task wave aspect brain nurse vacuum you margin morning rabbit pulse";

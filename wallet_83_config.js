@@ -1,1 +1,1 @@
-var mnemonic = "immense very access drive curious identify medal survey shell goddess kitchen anchor";
+var mnemonic = "opera police dose siren trigger jump comic auction luggage cabbage balance will";

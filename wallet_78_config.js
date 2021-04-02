@@ -1,1 +1,1 @@
-var mnemonic = "train morning report cost aisle obey change wet notice stage confirm border";
+var mnemonic = "great account maple oil royal message opinion always game recall client broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk vast empower ceiling address monitor jump genius cousin expand truly woman";
+var mnemonic = "boil steak poet two state reopen surprise aim trouble impose fresh echo";

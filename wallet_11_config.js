@@ -1,1 +1,1 @@
-var mnemonic = "sample coach ski smoke dial action tray stumble neither record toy chief";
+var mnemonic = "hover upon thing like behind canoe program royal radio chuckle torch bag";

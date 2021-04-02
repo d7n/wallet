@@ -1,1 +1,1 @@
-var mnemonic = "seven abstract evil kite saddle taxi cloth select kiwi produce soda door";
+var mnemonic = "trim zebra alley fancy they flash brain mix cheese gather salt protect";

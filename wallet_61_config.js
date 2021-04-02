@@ -1,1 +1,1 @@
-var mnemonic = "when sand turn rack insane soccer burst that tank swift column title";
+var mnemonic = "champion spike bubble crime wage trick matrix auction humble glimpse frozen anchor";

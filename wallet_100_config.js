@@ -1,1 +1,1 @@
-var mnemonic = "river train argue spatial noodle dolphin demise chimney pear pair butter emotion";
+var mnemonic = "portion limb jaguar excite spatial stomach good liberty home hobby hint hawk";
