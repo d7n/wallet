@@ -1,1 +1,1 @@
-var mnemonic = "gasp place boil weekend snake case dream admit shine ring neutral brain";
+var mnemonic = "scrap person ostrich palace orient sleep budget moment same extend learn tide";

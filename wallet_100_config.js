@@ -1,1 +1,1 @@
-var mnemonic = "purchase tortoise select leg indicate brother trouble sort yard subway dirt decrease";
+var mnemonic = "tobacco cupboard print snap bid tribe endorse nose void husband tip little";

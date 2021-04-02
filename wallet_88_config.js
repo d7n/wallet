@@ -1,1 +1,1 @@
-var mnemonic = "check right carry chimney voice sunset dutch whip town maximum hawk physical";
+var mnemonic = "sphere resemble record shop favorite choose head immense grain always rabbit hill";

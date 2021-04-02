@@ -1,1 +1,1 @@
-var mnemonic = "lesson great crucial client perfect original gossip solar appear fun inherit claim";
+var mnemonic = "fringe leopard gallery credit pulse spike joy brown cry bargain office festival";

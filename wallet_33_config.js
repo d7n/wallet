@@ -1,1 +1,1 @@
-var mnemonic = "amused illness cinnamon square iron odor top spoon poem stone dress submit";
+var mnemonic = "demand wish capable credit eternal achieve edit avocado snake peasant real screen";

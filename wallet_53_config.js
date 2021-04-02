@@ -1,1 +1,1 @@
-var mnemonic = "main hair leopard coil stable prosper monitor water motion thank glide grief";
+var mnemonic = "wrong ketchup people slice miss imitate awesome screen spy lesson six slab";

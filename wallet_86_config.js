@@ -1,1 +1,1 @@
-var mnemonic = "liar retire shop green vibrant solution check kiss grass climb future broom";
+var mnemonic = "galaxy soul diet lesson pepper beyond half tone bunker glare matter odor";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling solid pig brand rigid sponsor drift acid defense wet skin usual";
+var mnemonic = "minute net warrior turn emotion never cable chunk cruel sting inspire eyebrow";

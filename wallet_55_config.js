@@ -1,1 +1,1 @@
-var mnemonic = "gadget grow collect hurdle weather muscle exhaust dust peace change steel govern";
+var mnemonic = "topple airport sniff coffee can enroll sunset fetch turtle above orient badge";

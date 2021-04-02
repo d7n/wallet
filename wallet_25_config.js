@@ -1,1 +1,1 @@
-var mnemonic = "public bulb party vital predict pitch approve wisdom arrow nephew pepper volume";
+var mnemonic = "debris cat remove climb leaf large punch twelve lamp skate shine forest";

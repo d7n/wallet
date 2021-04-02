@@ -1,1 +1,1 @@
-var mnemonic = "describe talent pudding lumber depth wreck stomach moral interest employ twice hurry";
+var mnemonic = "burger future only ribbon wage matrix anger empty give speak street punch";

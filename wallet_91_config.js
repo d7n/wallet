@@ -1,1 +1,1 @@
-var mnemonic = "deal scissors memory emerge seven dance disorder man tower plug book salon";
+var mnemonic = "liberty matrix shoe physical truly nothing clown space liar bitter knock book";

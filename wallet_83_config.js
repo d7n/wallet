@@ -1,1 +1,1 @@
-var mnemonic = "blue blame butter build tuition kit ethics rare festival aim blouse angry";
+var mnemonic = "gold gym check axis message couple clump believe anxiety slogan diamond all";

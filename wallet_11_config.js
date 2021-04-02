@@ -1,1 +1,1 @@
-var mnemonic = "aisle increase control grace talk extend gold over bind raw kind clip";
+var mnemonic = "knife foster leisure note biology stairs nest spare basic advice pulp icon";

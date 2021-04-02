@@ -1,1 +1,1 @@
-var mnemonic = "need point whale diagram sound cargo annual very blame release sorry release";
+var mnemonic = "humor brave mouse woman before finger lesson february exist legal kid rule";

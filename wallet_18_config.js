@@ -1,1 +1,1 @@
-var mnemonic = "sword noodle nature donkey brief proud absent base industry turkey ramp lazy";
+var mnemonic = "will tortoise crush rebuild tip effort pair good lake river harvest limit";

@@ -1,1 +1,1 @@
-var mnemonic = "dice robust produce soap rigid step bulk swallow equal truth double thunder";
+var mnemonic = "awful drink wolf must entry seminar salad art hundred equal journey estate";

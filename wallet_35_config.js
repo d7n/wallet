@@ -1,1 +1,1 @@
-var mnemonic = "front empty castle crawl solve way champion ability organ forest quarter always";
+var mnemonic = "file toilet half raven romance lyrics stairs merit brush fault field marine";

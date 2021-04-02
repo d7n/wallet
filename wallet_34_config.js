@@ -1,1 +1,1 @@
-var mnemonic = "girl phone surface solar blast notice gravity lottery average crop gas sibling";
+var mnemonic = "doctor hospital because slam citizen upon pencil page learn ivory bid alarm";

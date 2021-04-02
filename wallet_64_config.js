@@ -1,1 +1,1 @@
-var mnemonic = "mother coast hospital sample country short tired scatter permit spawn wealth curtain";
+var mnemonic = "pitch moral airport fork learn crane bitter marriage sorry tilt hospital trim";

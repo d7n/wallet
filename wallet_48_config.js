@@ -1,1 +1,1 @@
-var mnemonic = "father erosion country solid birth travel stumble quote second actress gather you";
+var mnemonic = "champion soccer ankle mistake client crater pipe will rate perfect group news";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile snake language amateur rigid write bracket grow conduct reunion woman sport";
+var mnemonic = "bind vast innocent blade merge share enable express initial rifle enough enable";

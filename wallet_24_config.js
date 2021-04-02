@@ -1,1 +1,1 @@
-var mnemonic = "muscle address ancient reject list amused glad clump client warrior raw erosion";
+var mnemonic = "sleep coyote jacket share example immense law scrap return upper pond finger";

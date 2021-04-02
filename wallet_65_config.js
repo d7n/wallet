@@ -1,1 +1,1 @@
-var mnemonic = "element exist trouble buddy poem alpha teach high setup glide catch junk";
+var mnemonic = "fix evidence silver omit bean sheriff mother goose science vague cup reopen";

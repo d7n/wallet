@@ -1,1 +1,1 @@
-var mnemonic = "cat outer head damp dove defy never obscure govern fog truly target";
+var mnemonic = "goose correct fiber grace dose before vital chapter canal staff aim license";

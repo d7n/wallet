@@ -1,1 +1,1 @@
-var mnemonic = "culture metal sound garden open render reopen sure pelican sugar once clown";
+var mnemonic = "city salon merit tape fiction antique mirror virtual banana remind twelve romance";

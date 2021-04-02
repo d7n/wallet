@@ -1,1 +1,1 @@
-var mnemonic = "insane convince virus effort rival release brand maximum uncover settle boss luggage";
+var mnemonic = "turtle dream inner thunder rain lumber behind sting jealous imitate fiber arm";

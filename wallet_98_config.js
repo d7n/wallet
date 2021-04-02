@@ -1,1 +1,1 @@
-var mnemonic = "congress promote tape glide doctor charge invest good chief insect carry muscle";
+var mnemonic = "laugh draw august noise trigger immune agent circle merit page album text";

@@ -1,1 +1,1 @@
-var mnemonic = "west call enter depart oak keep tribe release special laptop gun swamp";
+var mnemonic = "sunny credit wild swim flee result bronze trim space doll tortoise hover";

@@ -1,1 +1,1 @@
-var mnemonic = "verb depth lion cube tone world have cricket pass bitter marriage purity";
+var mnemonic = "jelly never enforce pear include toddler envelope envelope medal similar message vault";

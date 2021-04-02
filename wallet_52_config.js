@@ -1,1 +1,1 @@
-var mnemonic = "huge dad cat okay wild calm keep quantum elite derive pipe enhance";
+var mnemonic = "miracle trick curve clever more obtain improve frog kitchen inmate rare ladder";

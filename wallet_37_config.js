@@ -1,1 +1,1 @@
-var mnemonic = "tiger process rapid answer aware metal ball sibling foam remind rapid bracket";
+var mnemonic = "frog ethics today pioneer issue kingdom kid purity mountain fade odor issue";

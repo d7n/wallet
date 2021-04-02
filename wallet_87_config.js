@@ -1,1 +1,1 @@
-var mnemonic = "near best giraffe confirm elbow matrix spirit mixture tissue rather involve embody";
+var mnemonic = "chalk voyage bench vacuum surround boost easy heart buffalo glow bracket case";

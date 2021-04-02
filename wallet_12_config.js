@@ -1,1 +1,1 @@
-var mnemonic = "gold stove clean rubber image razor panther spoon addict ramp pluck leaf";
+var mnemonic = "nominee chest aim flush intact liar fossil noise caution gas double fossil";

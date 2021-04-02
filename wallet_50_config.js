@@ -1,1 +1,1 @@
-var mnemonic = "relax aisle option fiscal army arrest mistake spread vital soft garage pioneer";
+var mnemonic = "energy allow recall can double nose toward initial exotic brown stool truck";

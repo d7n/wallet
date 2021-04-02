@@ -1,1 +1,1 @@
-var mnemonic = "memory ostrich item view obtain garlic bottom multiply hold female unhappy quote";
+var mnemonic = "squirrel cream term find sheriff shuffle concert ritual test vendor dutch misery";

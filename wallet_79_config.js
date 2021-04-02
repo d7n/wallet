@@ -1,1 +1,1 @@
-var mnemonic = "luggage ignore spike elder final holiday giraffe picnic fatigue arrow wage retreat";
+var mnemonic = "mass spice fuel smooth rice recycle mushroom kiwi spray history verb enter";

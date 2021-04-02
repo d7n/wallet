@@ -1,1 +1,1 @@
-var mnemonic = "entire disease nominee deer delay plastic cart problem fly change proud topic";
+var mnemonic = "witness bottom speak dove suffer melt cost index play crawl old banner";

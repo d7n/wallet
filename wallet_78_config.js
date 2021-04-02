@@ -1,1 +1,1 @@
-var mnemonic = "aerobic humor dry permit hammer swap lens cover same say net give";
+var mnemonic = "tilt fabric bronze giant viable rifle unknown shove nut calm where gun";

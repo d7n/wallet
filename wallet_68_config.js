@@ -1,1 +1,1 @@
-var mnemonic = "buzz siren primary text grunt drink local ring shrug tiger merit weird";
+var mnemonic = "mango gentle connect visa marine more assist aisle chunk train poet kitten";

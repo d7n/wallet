@@ -1,1 +1,1 @@
-var mnemonic = "already envelope play method section crawl various glue point step fall crouch";
+var mnemonic = "lesson dad amazing buddy delay long ensure sustain arrive proud head tonight";

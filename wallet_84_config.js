@@ -1,1 +1,1 @@
-var mnemonic = "universe donate vanish broken achieve keep fabric awkward couch thought delay error";
+var mnemonic = "soccer chaos stairs pool vacuum inject spatial couch palace tonight toss saddle";

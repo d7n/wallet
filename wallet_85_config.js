@@ -1,1 +1,1 @@
-var mnemonic = "chef travel pole question element slight achieve salon gadget burst unveil plastic";
+var mnemonic = "rocket kitten edit option ranch advice fire quarter equip hint eagle middle";

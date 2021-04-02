@@ -1,1 +1,1 @@
-var mnemonic = "museum gallery obvious gain wild agent assume cart move harbor emotion category";
+var mnemonic = "hole ramp library problem nothing mosquito aspect actor sister math math horse";

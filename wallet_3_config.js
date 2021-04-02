@@ -1,1 +1,1 @@
-var mnemonic = "abandon coyote crystal hurdle virtual neck suffer sphere quality price wear robot";
+var mnemonic = "lawn violin deposit wheat tide abandon reunion feed over hazard useless cargo";

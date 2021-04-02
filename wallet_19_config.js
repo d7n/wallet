@@ -1,1 +1,1 @@
-var mnemonic = "normal prison clarify ready sight force custom deer cat wagon small moon";
+var mnemonic = "rotate say describe screen floor birth fan diary enjoy enable stable wife";

@@ -1,1 +1,1 @@
-var mnemonic = "early hundred joy tag oxygen bring nothing process usage neck total boy";
+var mnemonic = "like spirit develop two render always cinnamon cool apart prefer pole legend";

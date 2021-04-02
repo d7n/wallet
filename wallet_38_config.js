@@ -1,1 +1,1 @@
-var mnemonic = "ahead royal mandate army excuse little timber print spider property annual stairs";
+var mnemonic = "slogan theme limit soap scheme body seat sauce crazy hammer basket aim";

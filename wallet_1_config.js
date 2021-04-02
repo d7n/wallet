@@ -1,1 +1,1 @@
-var mnemonic = "shop return violin elegant raw cart ahead impact answer alert dismiss wheat";
+var mnemonic = "copper leader erode have purse report upper duck okay vanish miss pride";

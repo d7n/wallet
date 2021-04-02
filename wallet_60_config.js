@@ -1,1 +1,1 @@
-var mnemonic = "meadow youth abuse image draw again sample aspect equal youth empty private";
+var mnemonic = "symbol nation actual tragic tilt fire sample west umbrella expand sweet flag";

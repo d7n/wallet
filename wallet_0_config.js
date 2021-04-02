@@ -1,1 +1,1 @@
-var mnemonic = "again abandon month doll primary dolphin renew economy rich chase vacuum poverty";
+var mnemonic = "elegant sniff bread curious era stock vote fetch home wash gift trap";

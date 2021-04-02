@@ -1,1 +1,1 @@
-var mnemonic = "broom core response response catalog sick unusual tribe whisper hub turn zero";
+var mnemonic = "staff diesel unable inflict pen misery claim pledge river bird oven clinic";

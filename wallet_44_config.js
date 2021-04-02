@@ -1,1 +1,1 @@
-var mnemonic = "hub couch funny dizzy feel analyst give lizard walk traffic royal track";
+var mnemonic = "case shoulder warrior frequent model salt need fish file collect gas canoe";

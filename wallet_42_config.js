@@ -1,1 +1,1 @@
-var mnemonic = "viable teach say clever material fantasy early sleep country boring below inherit";
+var mnemonic = "vast rural eager estate follow artist purchase nephew crime space jewel measure";

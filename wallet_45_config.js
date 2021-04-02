@@ -1,1 +1,1 @@
-var mnemonic = "useless clown engine chalk cushion lawsuit initial round service pear gown trend";
+var mnemonic = "city tape kiss amazing surround potato mobile fuel roof observe laundry youth";

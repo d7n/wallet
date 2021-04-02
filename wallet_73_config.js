@@ -1,1 +1,1 @@
-var mnemonic = "typical rally drop hidden absurd oppose economy demand retire material skate alien";
+var mnemonic = "shuffle material curious game upgrade panic job legal bind team elevator utility";

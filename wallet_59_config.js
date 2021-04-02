@@ -1,1 +1,1 @@
-var mnemonic = "dumb galaxy suffer general lyrics neither green cancel best pole call annual";
+var mnemonic = "person dolphin detail long orange coyote bitter genuine athlete click accident fade";

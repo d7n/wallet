@@ -1,1 +1,1 @@
-var mnemonic = "nominee marble prison poet brother senior gloom vendor grass limb grief valley";
+var mnemonic = "involve author era impose language luggage little bacon desk outer reject matter";

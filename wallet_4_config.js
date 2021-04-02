@@ -1,1 +1,1 @@
-var mnemonic = "arena chef portion update elephant fatal visual result food omit country gown";
+var mnemonic = "spray clutch doll two job account carbon abstract visit essence stage frog";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome slush crush chicken garment primary couch blood relax word hunt balcony";
+var mnemonic = "wait mother random adult tiny wrap bargain patrol amount game aerobic mimic";

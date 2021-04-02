@@ -1,1 +1,1 @@
-var mnemonic = "balcony sound awkward wasp margin grunt prevent boring regular taste route make";
+var mnemonic = "vote increase immense inform burden girl supply grab affair garbage fog medal";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy banner barrel unusual battle excuse rabbit cat inner burden defy lava";
+var mnemonic = "rib first blush illegal tag minimum mystery scatter trade plate afford assist";

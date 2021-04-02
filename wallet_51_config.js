@@ -1,1 +1,1 @@
-var mnemonic = "nose hold era pyramid gentle swap topple merge success symbol hover enforce";
+var mnemonic = "twin access neck safe conduct chuckle immense leaf wet denial vocal attend";

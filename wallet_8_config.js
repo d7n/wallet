@@ -1,1 +1,1 @@
-var mnemonic = "category garage quantum outside favorite cream resemble dilemma security pluck cupboard paddle";
+var mnemonic = "sleep slender idea chicken company make cherry melody shallow magnet rate unique";

@@ -1,1 +1,1 @@
-var mnemonic = "alien typical fame trust bounce tooth stuff upper dinosaur symptom fan spread";
+var mnemonic = "sugar safe secret disagree area spatial display danger carbon view attract object";

@@ -1,1 +1,1 @@
-var mnemonic = "tag health inside behind lizard coyote lunar agent lobster embrace gold saddle";
+var mnemonic = "weird jump hood urban loyal lecture gloom chunk page steak cattle face";

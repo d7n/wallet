@@ -1,1 +1,1 @@
-var mnemonic = "behind usage garment hurdle oak arena speak monster company gallery base forget";
+var mnemonic = "amount tennis vacuum round cotton stumble energy vast soccer vessel whale cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge shaft cruel vocal flee patch dose rely chair predict velvet obvious";
+var mnemonic = "fancy force sure amateur boss myth reject rookie van morning room oven";

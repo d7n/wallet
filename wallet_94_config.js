@@ -1,1 +1,1 @@
-var mnemonic = "wing accuse exclude neglect hub timber sight false shallow version skill view";
+var mnemonic = "summer slogan false search case brick crush denial tiger setup shed crawl";

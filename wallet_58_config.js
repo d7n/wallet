@@ -1,1 +1,1 @@
-var mnemonic = "birth found whale wild fish proud inch dentist merge clinic stereo behind";
+var mnemonic = "order label kick maximum lounge youth portion dolphin convince ordinary chimney street";

@@ -1,1 +1,1 @@
-var mnemonic = "coral castle panic rough tribe faculty chair sick company crowd jacket custom";
+var mnemonic = "fall common describe boss fence blood race vapor nice lonely stone access";

@@ -1,1 +1,1 @@
-var mnemonic = "march fun garlic tooth cinnamon slogan obey rocket tattoo sting idea fatigue";
+var mnemonic = "shove artist saddle cycle couch provide phrase empower hat trick antique write";

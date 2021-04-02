@@ -1,1 +1,1 @@
-var mnemonic = "shell embody recipe call asthma image phrase wrong blood disagree use leopard";
+var mnemonic = "sketch spoon siege chapter tennis season gasp noise now vapor hover radio";

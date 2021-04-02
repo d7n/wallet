@@ -1,1 +1,1 @@
-var mnemonic = "gas match laundry equal remove index mandate unveil certain void flag slight";
+var mnemonic = "leave arrive job treat dad another network cheap valley remove video kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "balance toilet today assault genius require silk kitchen math paper mutual betray";
+var mnemonic = "that tomato sausage lecture major warfare essay frame swift weather cousin test";

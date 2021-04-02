@@ -1,1 +1,1 @@
-var mnemonic = "hotel educate measure indicate photo dash radar carbon tell moon home keen";
+var mnemonic = "suspect rely blast chalk olive tattoo genre blossom code unusual private spend";

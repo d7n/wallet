@@ -1,1 +1,1 @@
-var mnemonic = "valve fun approve goddess clown oxygen gym ensure engage spare canyon series";
+var mnemonic = "keep stumble silk spray enable wink deer wheel bind report sphere weapon";

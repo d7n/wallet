@@ -1,1 +1,1 @@
-var mnemonic = "track script skirt father mass violin strike enlist love giraffe island smoke";
+var mnemonic = "clown chat banana machine column economy copy asthma act cluster excite vendor";

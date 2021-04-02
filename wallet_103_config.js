@@ -1,1 +1,1 @@
-var mnemonic = "edit leisure blood clog note device asthma rose glove divert doctor kid";
+var mnemonic = "quote enjoy panel pottery outer end snack tower glue almost ski story";

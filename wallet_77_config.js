@@ -1,1 +1,1 @@
-var mnemonic = "train joy doll result muscle matter economy antique hazard onion excite matter";
+var mnemonic = "under drill crack soda crack actor toilet mixture badge bar useless layer";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt mother usual ball notice state genre salmon choose monkey leisure domain";
+var mnemonic = "erupt bar patch rocket picnic tray measure invest tent cattle grain gym";

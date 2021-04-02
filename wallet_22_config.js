@@ -1,1 +1,1 @@
-var mnemonic = "viable april sort lyrics organ dismiss nut frost limb trouble menu arena";
+var mnemonic = "giant abandon sea vintage own acoustic vanish fresh region local river raise";

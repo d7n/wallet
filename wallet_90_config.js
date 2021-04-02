@@ -1,1 +1,1 @@
-var mnemonic = "edit dizzy describe hidden always fossil aspect suggest response country goat fitness";
+var mnemonic = "swear focus piece found fetch gadget crowd knock inspire token involve east";

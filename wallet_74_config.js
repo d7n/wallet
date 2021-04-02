@@ -1,1 +1,1 @@
-var mnemonic = "body private lemon fade donor satisfy round sand real urge valley dumb";
+var mnemonic = "sadness unlock hawk arctic subway elbow bamboo crazy amount cupboard pigeon drip";

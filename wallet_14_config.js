@@ -1,1 +1,1 @@
-var mnemonic = "flee inject trouble cash humor loan develop sphere work stick kind tell";
+var mnemonic = "robust swamp surprise border couch occur purity velvet oak fantasy erase push";

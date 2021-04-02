@@ -1,1 +1,1 @@
-var mnemonic = "elite display chapter limb tragic pilot magic point portion clap coil wet";
+var mnemonic = "struggle swallow urban inflict slush episode amazing deliver urban worry zebra destroy";

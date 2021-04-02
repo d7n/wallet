@@ -1,1 +1,1 @@
-var mnemonic = "melody fall retreat weasel flip soldier bid tumble spray initial excite river";
+var mnemonic = "just item super try blood inspire year cost element absurd grape appear";

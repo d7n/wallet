@@ -1,1 +1,1 @@
-var mnemonic = "elder cube awesome endless struggle doll impulse food bamboo tissue also oxygen";
+var mnemonic = "olive foil auto joke magnet car food decade fatigue dilemma ill vivid";

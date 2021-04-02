@@ -1,1 +1,1 @@
-var mnemonic = "impulse side blame fury rough ice drive diamond begin stay vanish concert";
+var mnemonic = "coach success sadness conduct arrest trick abuse kick onion omit movie ask";

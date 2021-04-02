@@ -1,1 +1,1 @@
-var mnemonic = "exact squeeze indoor avocado peasant damage tuition volcano use again economy dash";
+var mnemonic = "town memory trophy doll inmate motion prison weasel thank alarm obscure liar";

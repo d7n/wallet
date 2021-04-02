@@ -1,1 +1,1 @@
-var mnemonic = "noodle door club sea trend remind same guilt twist charge flash spy";
+var mnemonic = "web apart hub domain habit birth blanket inhale speak bunker jewel obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "drive hint visit unfair will receive worry sustain firm card pigeon skin";
+var mnemonic = "clap aware always repeat effort knock boss table chunk embody lounge rabbit";

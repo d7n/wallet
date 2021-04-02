@@ -1,1 +1,1 @@
-var mnemonic = "isolate pass total net faculty auction hero crush charge youth flat ghost";
+var mnemonic = "spare autumn science relief park riot illegal income blossom repeat powder mention";

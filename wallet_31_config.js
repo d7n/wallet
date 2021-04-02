@@ -1,1 +1,1 @@
-var mnemonic = "palm finger wild wet leave lady solid stereo plate addict twist music";
+var mnemonic = "cliff dizzy good soldier action toe tornado banana write remind toddler daring";

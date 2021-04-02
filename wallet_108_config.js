@@ -1,1 +1,1 @@
-var mnemonic = "gold guitar crawl faculty ocean dinner decline satisfy apology clarify type wrong";
+var mnemonic = "donor crouch clay give license around buddy furnace silver tiny adjust obey";
