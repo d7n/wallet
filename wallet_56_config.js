@@ -1,1 +1,1 @@
-var mnemonic = "coil dinner local address later cruel drift mean plug advice vacant claw";
+var mnemonic = "actual blame truth hover genius infant elite universe off balcony sing runway";

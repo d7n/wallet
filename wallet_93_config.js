@@ -1,1 +1,1 @@
-var mnemonic = "expand shoulder desert effort caught maze express broom explain spice icon demise";
+var mnemonic = "spring more torch basic viable screen trash thrive exhibit vicious legend flight";

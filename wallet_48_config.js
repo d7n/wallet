@@ -1,1 +1,1 @@
-var mnemonic = "field else release sense era blouse guide omit misery hood window build";
+var mnemonic = "prefer pig area cruise expect hungry build win siren pigeon volcano sample";

@@ -1,1 +1,1 @@
-var mnemonic = "trend token wait slice atom episode shield alien december thank impact brief";
+var mnemonic = "claw august theme top bundle pink venture blame black game bitter essay";

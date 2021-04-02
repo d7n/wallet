@@ -1,1 +1,1 @@
-var mnemonic = "effort seek husband spray side able banana tilt debris rare parrot task";
+var mnemonic = "control gold sail endless minute spray gather mixed left waste sentence return";

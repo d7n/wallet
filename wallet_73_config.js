@@ -1,1 +1,1 @@
-var mnemonic = "dentist decade boil animal educate pride bring orient lion initial trial door";
+var mnemonic = "parent profit green scene unhappy offer guide because fitness frown awake double";

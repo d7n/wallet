@@ -1,1 +1,1 @@
-var mnemonic = "nice message question message mirror then demise fiscal divide suspect mind belt";
+var mnemonic = "possible meadow certain ivory bitter street zone dolphin rice fade satisfy silly";

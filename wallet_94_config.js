@@ -1,1 +1,1 @@
-var mnemonic = "index silent sausage merit sick hat tiger october celery escape aunt coffee";
+var mnemonic = "try theme slab problem ladder sleep unknown dust fresh quote demise wheat";

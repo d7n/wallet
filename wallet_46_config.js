@@ -1,1 +1,1 @@
-var mnemonic = "asthma other until duck carbon flag comfort tree describe broom green volcano";
+var mnemonic = "elephant illness north explain honey blur exhibit result lawn defy taste member";

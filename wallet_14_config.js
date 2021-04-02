@@ -1,1 +1,1 @@
-var mnemonic = "rate eight wild ancient strike dish average intact sea city rice reveal";
+var mnemonic = "gain peace goat bench bag warm endorse combine math interest you across";

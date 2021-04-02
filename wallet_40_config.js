@@ -1,1 +1,1 @@
-var mnemonic = "venture budget wave spike skirt interest twice virtual candy mask music paper";
+var mnemonic = "step regret common gospel moment mirror knee lawsuit patient typical explain earth";

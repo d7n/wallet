@@ -1,1 +1,1 @@
-var mnemonic = "lens hover fragile lonely hand sign fiscal unknown knife alcohol blame junior";
+var mnemonic = "crash stadium village pretty wage success answer pole transfer stable captain boat";

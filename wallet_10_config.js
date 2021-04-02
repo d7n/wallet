@@ -1,1 +1,1 @@
-var mnemonic = "envelope gloom powder ignore cupboard fabric toss junk snake choice brother chicken";
+var mnemonic = "renew dismiss wish fantasy rally sunny curve west intact lumber negative rebel";

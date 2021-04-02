@@ -1,1 +1,1 @@
-var mnemonic = "volume life output alter laundry lift post arrange alien coast teach guitar";
+var mnemonic = "glance tonight around layer update omit solid when much spare fork outer";

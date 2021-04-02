@@ -1,1 +1,1 @@
-var mnemonic = "scare what dish seek ancient fiber modify equip fork surprise usage lyrics";
+var mnemonic = "chapter wire usage field broom harsh pave culture find judge monster evoke";

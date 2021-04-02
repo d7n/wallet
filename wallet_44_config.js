@@ -1,1 +1,1 @@
-var mnemonic = "figure panda because holiday agent same honey physical flower divide street alarm";
+var mnemonic = "logic denial tonight color despair develop clean control vague absorb oval cloud";

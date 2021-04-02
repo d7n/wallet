@@ -1,1 +1,1 @@
-var mnemonic = "mind extend favorite decide crack inquiry artefact arm juice tone wrist upon";
+var mnemonic = "rice float dignity fuel route figure hunt fatal skin tray local actual";

@@ -1,1 +1,1 @@
-var mnemonic = "audit answer seed kit napkin sorry barely hope setup legend orient balcony";
+var mnemonic = "token acoustic cart absent fire calm ensure slight soft body want game";

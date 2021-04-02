@@ -1,1 +1,1 @@
-var mnemonic = "floor puppy glide comfort eyebrow rebel response plunge small machine badge myself";
+var mnemonic = "frame treat honey august betray off wine gallery verify useless light inner";

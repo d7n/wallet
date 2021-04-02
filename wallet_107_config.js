@@ -1,1 +1,1 @@
-var mnemonic = "rug radio steak tide reflect give nurse limit bleak goose latin sell";
+var mnemonic = "science name inch frog absent lunch someone stock improve neither hotel basket";

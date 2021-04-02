@@ -1,1 +1,1 @@
-var mnemonic = "work advice age cruel injury decrease bicycle simple icon usual repeat clever";
+var mnemonic = "print walk now advance setup patch volume staff place believe area pencil";

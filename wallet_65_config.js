@@ -1,1 +1,1 @@
-var mnemonic = "shine ostrich analyst feature citizen route column thank cube squeeze expand wreck";
+var mnemonic = "salon tone snake hidden ten again renew rail dirt tenant since any";

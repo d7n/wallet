@@ -1,1 +1,1 @@
-var mnemonic = "clump music despair market wine news indoor heavy inform kid diamond flat";
+var mnemonic = "rapid million van lounge deer involve egg cash prison enhance sight seek";

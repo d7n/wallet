@@ -1,1 +1,1 @@
-var mnemonic = "physical depend walnut faint front gravity kiss canal jungle habit royal banner";
+var mnemonic = "diamond real file grain rookie glass main salad auction mammal copy afraid";

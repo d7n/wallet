@@ -1,1 +1,1 @@
-var mnemonic = "drive intact young organ either endless despair burst total pulp powder world";
+var mnemonic = "dove will tragic join balcony tone convince design wage oil quit shallow";

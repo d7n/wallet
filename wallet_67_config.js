@@ -1,1 +1,1 @@
-var mnemonic = "lab goat vote subway doll maze dynamic kite rib actress song tennis";
+var mnemonic = "exotic tray nice protect elbow job usage organ scorpion hundred like balance";

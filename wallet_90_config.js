@@ -1,1 +1,1 @@
-var mnemonic = "lock vague advance upset need pretty clean awesome answer result build alpha";
+var mnemonic = "mechanic tooth walk reunion ribbon mechanic sand below photo walnut rain trophy";

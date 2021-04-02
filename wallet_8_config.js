@@ -1,1 +1,1 @@
-var mnemonic = "reward before busy identify icon erupt town deer narrow link also wine";
+var mnemonic = "finger foam path elevator city device toy save mule pool sign minute";

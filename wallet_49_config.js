@@ -1,1 +1,1 @@
-var mnemonic = "gesture veteran team clever uncle frozen weather radar luggage mushroom laundry phrase";
+var mnemonic = "fiscal gossip rapid cheese error blue throw lottery junior river cheese monster";

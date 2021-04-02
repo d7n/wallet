@@ -1,1 +1,1 @@
-var mnemonic = "improve clinic abstract drastic spy slow end fade acquire shoe negative urban";
+var mnemonic = "ketchup music book decline wire year train upper test hospital fit usual";

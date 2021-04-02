@@ -1,1 +1,1 @@
-var mnemonic = "cattle soap auto height inform subject pupil traffic equip weapon usual much";
+var mnemonic = "brush settle bachelor artwork final turn grace bulk desk hold glove foam";

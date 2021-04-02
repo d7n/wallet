@@ -1,1 +1,1 @@
-var mnemonic = "cement icon autumn idle orphan super remind under wolf screen scrub member";
+var mnemonic = "exclude wait either vendor misery deputy typical feel survey dove advice poem";

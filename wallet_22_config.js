@@ -1,1 +1,1 @@
-var mnemonic = "code cloth tent lyrics logic region dinosaur champion lobster differ panda all";
+var mnemonic = "goose bleak accuse casino wrap trim scrap agent obscure hospital label wasp";

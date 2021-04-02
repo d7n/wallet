@@ -1,1 +1,1 @@
-var mnemonic = "pattern disease chunk target notable mansion seven symptom black device hole hurt";
+var mnemonic = "shuffle lady summer lava detect symptom chef normal engage mandate invite filter";

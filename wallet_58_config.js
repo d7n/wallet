@@ -1,1 +1,1 @@
-var mnemonic = "wolf become lecture cube ordinary dragon submit inflict hurry joke way tray";
+var mnemonic = "clump chapter vendor regular cave penalty light glory female thought remember shove";

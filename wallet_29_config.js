@@ -1,1 +1,1 @@
-var mnemonic = "camera claim glove spice produce second crater hidden material balance kangaroo soda";
+var mnemonic = "seven keep tube quarter wish inhale coffee mad slice vague tilt increase";

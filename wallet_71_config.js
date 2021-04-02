@@ -1,1 +1,1 @@
-var mnemonic = "shop ancient rigid jump pencil focus culture burden elephant suit rack kingdom";
+var mnemonic = "theme provide general elder lady replace sad plug march review since daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean cushion puzzle rate manual vacant sell own glow patrol equip mesh";
+var mnemonic = "busy head ethics pulp air beef sausage motor profit gorilla bind return";

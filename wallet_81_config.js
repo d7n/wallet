@@ -1,1 +1,1 @@
-var mnemonic = "suggest tower open bike mandate feature document habit amount silly senior smooth";
+var mnemonic = "relief buyer salute explain own critic shed honey rescue sausage patrol few";

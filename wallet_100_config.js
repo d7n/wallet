@@ -1,1 +1,1 @@
-var mnemonic = "cloud group unknown sick bottom oak virus scrap viable winter census mixture";
+var mnemonic = "hint goddess unusual gloom library build room grunt sand useless wrist seed";

@@ -1,1 +1,1 @@
-var mnemonic = "onion arch riot thunder skate kite erase learn inch amount unit beef";
+var mnemonic = "fade wear cushion require squirrel chicken lizard fitness into clap detect spell";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict consider hat step assist decline host virtual broken repeat charge chase";
+var mnemonic = "seven rich addict genius fever point world more cost live afford task";

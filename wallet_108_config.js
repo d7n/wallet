@@ -1,1 +1,1 @@
-var mnemonic = "thrive raven umbrella runway interest apart horror lab one horror dial vault";
+var mnemonic = "service verb monkey air exclude faith walnut indoor arrest right member resist";

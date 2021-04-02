@@ -1,1 +1,1 @@
-var mnemonic = "crunch legal force stairs table egg flag hello settle patch legend walnut";
+var mnemonic = "elephant crucial paddle own holiday true else that trim elbow stand tortoise";

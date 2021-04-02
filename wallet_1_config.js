@@ -1,1 +1,1 @@
-var mnemonic = "direct armed behind define sight flash urban fog acquire build sauce ivory";
+var mnemonic = "exotic eager tonight eagle desk trade illegal dirt feel velvet sleep swallow";

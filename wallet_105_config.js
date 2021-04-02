@@ -1,1 +1,1 @@
-var mnemonic = "canoe attack time core response bright kangaroo depart april fire vintage news";
+var mnemonic = "local random artefact copy when pattern afraid anxiety leisure pledge narrow festival";

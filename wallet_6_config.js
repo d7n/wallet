@@ -1,1 +1,1 @@
-var mnemonic = "know west budget list summer shrimp mixture viable issue occur artwork exclude";
+var mnemonic = "ginger galaxy beauty cry engine genuine dumb blast kick iron rough siren";

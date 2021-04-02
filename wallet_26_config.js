@@ -1,1 +1,1 @@
-var mnemonic = "annual loud pepper era cupboard barrel switch object snow lion jaguar cave";
+var mnemonic = "loan eight move cupboard domain good rebuild want retire cricket frost arrest";

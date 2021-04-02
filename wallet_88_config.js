@@ -1,1 +1,1 @@
-var mnemonic = "rate balance shop inmate design soul question poem outside lion skin ancient";
+var mnemonic = "fire sponsor then visit ghost proof series gas during endless tent start";

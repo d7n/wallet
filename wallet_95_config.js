@@ -1,1 +1,1 @@
-var mnemonic = "jelly access nephew eager auction fruit mercy employ can together awful survey";
+var mnemonic = "spare slight install female accuse omit maze shove swallow child excuse fuel";

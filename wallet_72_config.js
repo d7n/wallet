@@ -1,1 +1,1 @@
-var mnemonic = "soldier miss useless lazy amount erosion side luxury venture conduct oven bullet";
+var mnemonic = "poet patrol glare range winner hip scatter fit color speed wink combine";

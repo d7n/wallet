@@ -1,1 +1,1 @@
-var mnemonic = "reject dizzy ankle humor peasant blush pilot satisfy hold couch fever spray";
+var mnemonic = "travel opinion label disease stairs opinion tail hurry start magnet amazing narrow";

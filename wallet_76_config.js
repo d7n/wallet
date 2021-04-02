@@ -1,1 +1,1 @@
-var mnemonic = "matter tooth village much physical spy excuse coconut cube daughter domain abstract";
+var mnemonic = "pattern lens private insect consider depart tube gossip wink demise usual curious";

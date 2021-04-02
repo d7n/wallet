@@ -1,1 +1,1 @@
-var mnemonic = "wagon grief push trend place number curious jump drama surface cabin mixed";
+var mnemonic = "angle unable absurd fee assume inner wasp vast fork hub sense wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "agree shrug decide spirit swarm cloth service dad glad love install aerobic";
+var mnemonic = "body fish pluck camera trash cupboard regret fork twice reduce antique feature";

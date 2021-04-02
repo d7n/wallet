@@ -1,1 +1,1 @@
-var mnemonic = "claw increase tower random degree point soldier link weather vote nurse stage";
+var mnemonic = "celery atom unusual toast cruise drip tone pond hedgehog crane castle extend";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle noodle stomach payment brand visual jacket timber round they sheriff swim";
+var mnemonic = "brass wrist size display echo virtual guilt forest company lawsuit stem nerve";

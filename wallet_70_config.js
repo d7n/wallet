@@ -1,1 +1,1 @@
-var mnemonic = "vicious glad paper hurry fancy resource safe gallery grid weather fantasy stick";
+var mnemonic = "art mixed silk critic same napkin surround delay image flee robust prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "city visual wheat below mystery noodle clog dust gain possible album faculty";
+var mnemonic = "portion expand tape clog manual make transfer pull oven pause pig custom";

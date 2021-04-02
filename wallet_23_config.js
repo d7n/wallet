@@ -1,1 +1,1 @@
-var mnemonic = "only print forest pitch reflect woman canoe leopard actor move repair day";
+var mnemonic = "bundle design idle kite jealous today rack spare tell test tackle calm";

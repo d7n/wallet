@@ -1,1 +1,1 @@
-var mnemonic = "endless ahead want opinion rely easily assist protect slot face ocean radio";
+var mnemonic = "someone measure inherit pair pupil refuse coin extend brown still attend half";

@@ -1,1 +1,1 @@
-var mnemonic = "piece robust buyer left special busy crane sauce solve tattoo under harbor";
+var mnemonic = "tackle crawl remember upper hobby result game film sniff machine october settle";

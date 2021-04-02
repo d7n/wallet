@@ -1,1 +1,1 @@
-var mnemonic = "hover desk hill rhythm letter adapt trend payment pencil lumber van wet";
+var mnemonic = "buzz will tail suit brisk lesson wild mushroom across rule voice mixture";

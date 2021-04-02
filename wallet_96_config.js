@@ -1,1 +1,1 @@
-var mnemonic = "fiction recycle acoustic toe small enable limb help asthma possible jewel object";
+var mnemonic = "spice atom rude purchase jealous flip green engine nature canyon cat bring";

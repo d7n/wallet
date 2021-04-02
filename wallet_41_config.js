@@ -1,1 +1,1 @@
-var mnemonic = "slogan limb element vehicle expose jewel guess struggle wing broom delay raw";
+var mnemonic = "jungle defense squeeze cabin number rack multiply behave turkey valid buddy cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "token age firm option barrel account cheese ridge key service half life";
+var mnemonic = "soup snake sign comic disorder dance grocery guitar meadow bus pizza spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "banner pass glance tell recipe argue fresh public wait refuse chronic hub";
+var mnemonic = "cage hood favorite change pitch tag company such math peace waste certain";

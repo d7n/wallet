@@ -1,1 +1,1 @@
-var mnemonic = "inflict rigid cargo master island believe myth funny photo guilt box kite";
+var mnemonic = "milk trim result liberty road label guilt slab story drift civil sibling";

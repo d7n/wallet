@@ -1,1 +1,1 @@
-var mnemonic = "expect spread betray clever since educate piano mule lens rare useless dignity";
+var mnemonic = "lunch prison west aerobic manage flash catch near disagree farm chapter retreat";

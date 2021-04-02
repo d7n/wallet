@@ -1,1 +1,1 @@
-var mnemonic = "virus fork call patrol neck vendor hill yellow sport oval armed garden";
+var mnemonic = "clap waste success minimum magic document front doctor decorate turtle digital avoid";

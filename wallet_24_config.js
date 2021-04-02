@@ -1,1 +1,1 @@
-var mnemonic = "price quality split doll hazard elegant reform basic enforce mixed square image";
+var mnemonic = "index gasp bulb enroll insect sight profit make series item struggle update";

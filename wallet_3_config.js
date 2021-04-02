@@ -1,1 +1,1 @@
-var mnemonic = "observe depend humor tube diesel jump spider matrix satoshi fetch poem glow";
+var mnemonic = "sight destroy school put bottom pause return volcano icon slush crack drop";

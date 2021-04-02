@@ -1,1 +1,1 @@
-var mnemonic = "potato ribbon hour hybrid use winner that merit budget mule wool praise";
+var mnemonic = "fault zoo damp return kingdom uniform portion vanish color crucial cabbage educate";

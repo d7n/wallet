@@ -1,1 +1,1 @@
-var mnemonic = "agent drip trim quarter toy lady height vote clap dance devote parent";
+var mnemonic = "seminar kiwi hazard tag detail trick push time lottery minor pupil toddler";

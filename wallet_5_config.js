@@ -1,1 +1,1 @@
-var mnemonic = "sausage cook rhythm vapor baby bridge salmon target hill result surround half";
+var mnemonic = "response gap ensure hotel knife toddler grass student hire album zero village";

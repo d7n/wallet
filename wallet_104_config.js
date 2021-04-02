@@ -1,1 +1,1 @@
-var mnemonic = "indoor casual later margin drip shell ski feel large outer tank chapter";
+var mnemonic = "correct zero deputy junk unknown foot garage crawl describe crowd august manage";

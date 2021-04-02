@@ -1,1 +1,1 @@
-var mnemonic = "public elder inject fabric capable oxygen mean scorpion exhaust assist catch gym";
+var mnemonic = "differ ghost you kit behind injury legend amount flat average region ignore";

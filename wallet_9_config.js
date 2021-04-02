@@ -1,1 +1,1 @@
-var mnemonic = "people mind nation fence mystery tag sport update addict crater grunt scheme";
+var mnemonic = "example rifle abstract skin install borrow twelve author material maximum advice visa";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage window jungle warm window armor fire decade hello impact view grit";
+var mnemonic = "toilet enrich ability sponsor adjust rate multiply opera oyster meadow fury snack";

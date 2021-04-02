@@ -1,1 +1,1 @@
-var mnemonic = "quiz admit clip enemy divide smooth material imitate loop purchase charge buddy";
+var mnemonic = "tone twelve move dust climb piece govern captain miracle day owner item";

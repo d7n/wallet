@@ -1,1 +1,1 @@
-var mnemonic = "ticket frequent hair explain between crane start reflect inject eager drop junior";
+var mnemonic = "hunt collect silly dash also grocery level royal adapt appear favorite snow";

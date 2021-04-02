@@ -1,1 +1,1 @@
-var mnemonic = "trumpet asset twelve neutral damage mass estate snow suit shine such girl";
+var mnemonic = "skin bread quality diamond enrich float move ghost media spoil bargain tragic";

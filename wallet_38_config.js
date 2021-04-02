@@ -1,1 +1,1 @@
-var mnemonic = "dirt arrange buzz quiz disorder cousin never rubber vapor stay glance stomach";
+var mnemonic = "holiday glare south plate floor apology unhappy detect ecology laptop program quarter";

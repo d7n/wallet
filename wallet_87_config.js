@@ -1,1 +1,1 @@
-var mnemonic = "rescue wagon tuna story develop curtain diesel bridge panel when myth video";
+var mnemonic = "hair robot west clump ranch increase diesel photo actor coin safe you";

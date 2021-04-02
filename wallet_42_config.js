@@ -1,1 +1,1 @@
-var mnemonic = "light awesome drift flight chronic swallow nice arctic electric disagree surface join";
+var mnemonic = "dolphin mixture bag mixed jewel repair salt patch baby century pride receive";

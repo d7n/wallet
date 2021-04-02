@@ -1,1 +1,1 @@
-var mnemonic = "hidden ethics hobby coffee liquid enact about blue filter still faith inject";
+var mnemonic = "strategy long aunt popular ask volcano infant spell cattle slender scatter wonder";

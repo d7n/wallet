@@ -1,1 +1,1 @@
-var mnemonic = "horse purse wonder dial choose face word frame case tool exhibit interest";
+var mnemonic = "identify night clown skirt peace spring cram private loud alley switch wire";

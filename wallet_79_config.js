@@ -1,1 +1,1 @@
-var mnemonic = "toy fiber meat assault major super rabbit hard flash eternal peace magic";
+var mnemonic = "argue casino disease want game cabbage field credit tourist tower anchor reduce";

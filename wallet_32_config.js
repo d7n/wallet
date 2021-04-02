@@ -1,1 +1,1 @@
-var mnemonic = "lottery question edge two open crush emotion village hero eight double place";
+var mnemonic = "question describe piano fury suffer year theme section sort skull remove canyon";

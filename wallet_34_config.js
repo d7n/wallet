@@ -1,1 +1,1 @@
-var mnemonic = "dilemma base reform trial nature biology magnet duck answer reason patrol burden";
+var mnemonic = "mammal vintage hat unveil panic meat usage portion congress transfer farm okay";

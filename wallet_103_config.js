@@ -1,1 +1,1 @@
-var mnemonic = "consider feed age require creek hybrid match injury glory art beyond hover";
+var mnemonic = "skin foster slim melt board language brother tip ketchup immense ensure defense";

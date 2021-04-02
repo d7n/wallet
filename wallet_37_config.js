@@ -1,1 +1,1 @@
-var mnemonic = "armed capital maze elder bottom illegal tray drill various enough budget about";
+var mnemonic = "fog gossip enough feed claim turtle onion wash predict term burst behind";
