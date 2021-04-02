@@ -1,1 +1,1 @@
-var mnemonic = "leaf catalog peace grow cart zero easy try clock decline nuclear bundle";
+var mnemonic = "antenna quality skirt wisdom aisle target dilemma kitchen toddler medal update silent";

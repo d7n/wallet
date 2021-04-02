@@ -1,1 +1,1 @@
-var mnemonic = "train drum february picnic surround seed foster story square shaft kidney about";
+var mnemonic = "peace gather enforce pipe flush supreme toilet pipe insane spare bread unusual";

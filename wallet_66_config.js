@@ -1,1 +1,1 @@
-var mnemonic = "fiber name perfect exact crush innocent rigid recycle thunder flavor spread interest";
+var mnemonic = "only shy sphere know ridge snow sponsor horror toy dice pair afford";

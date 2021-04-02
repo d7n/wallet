@@ -1,1 +1,1 @@
-var mnemonic = "damp brass admit screen umbrella enjoy assist energy payment estate tomorrow require";
+var mnemonic = "collect measure pilot squirrel cousin recycle limit pupil right orange wrestle hawk";

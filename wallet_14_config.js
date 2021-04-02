@@ -1,1 +1,1 @@
-var mnemonic = "economy giggle income mobile dream siren regular shiver because clerk lake tourist";
+var mnemonic = "catalog prison artefact foster jump six language traffic setup size perfect pluck";

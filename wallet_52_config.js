@@ -1,1 +1,1 @@
-var mnemonic = "chest marriage rare meadow february ribbon brain message daughter bench cloth solar";
+var mnemonic = "present taxi solar cotton example evoke gasp until liquid camera gun ginger";

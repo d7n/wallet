@@ -1,1 +1,1 @@
-var mnemonic = "couch dentist assume either congress stone laundry stairs miss file offer myth";
+var mnemonic = "scale benefit dawn cake good wage actor primary half often walk pledge";

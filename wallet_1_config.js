@@ -1,1 +1,1 @@
-var mnemonic = "tongue arrest elder chalk such room nurse sorry total margin tilt share";
+var mnemonic = "leg glow aspect spatial bag sing devote rubber life exit gospel lucky";

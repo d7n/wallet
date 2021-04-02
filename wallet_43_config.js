@@ -1,1 +1,1 @@
-var mnemonic = "extra space panel angry common boring approve age second admit found nominee";
+var mnemonic = "sibling annual half add where used hire zero cruise dish turtle winter";

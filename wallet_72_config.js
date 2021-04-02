@@ -1,1 +1,1 @@
-var mnemonic = "chat exercise much cotton bird later lake bacon fame degree include roast";
+var mnemonic = "case laundry absurd frown tag that legend exact spoil tunnel doll topple";

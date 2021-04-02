@@ -1,1 +1,1 @@
-var mnemonic = "garden betray amazing usage fork copper bullet alley allow dolphin glance recipe";
+var mnemonic = "canvas brand swamp burden banana pet coral gorilla document fault review estate";

@@ -1,1 +1,1 @@
-var mnemonic = "candy profit task prefer artwork flower sketch park divert rose nephew soap";
+var mnemonic = "bamboo fuel fabric morning radio donate orange stove eyebrow insane reward palace";

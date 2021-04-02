@@ -1,1 +1,1 @@
-var mnemonic = "night obvious aerobic toe elephant tuition hover tunnel wave modify senior lounge";
+var mnemonic = "earth acquire bitter alpha trial find tower midnight useful jungle gospel that";

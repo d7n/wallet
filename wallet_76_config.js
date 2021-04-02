@@ -1,1 +1,1 @@
-var mnemonic = "gold obvious upgrade erupt share service capital load pitch base between theory";
+var mnemonic = "biology provide embody hurdle walk toast cave denial number ability size wisdom";

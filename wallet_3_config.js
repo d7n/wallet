@@ -1,1 +1,1 @@
-var mnemonic = "ketchup into slice patient gauge spray social bargain rigid box guard eagle";
+var mnemonic = "bone tragic girl hollow edge reopen begin venture amateur infant scatter rough";

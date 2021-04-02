@@ -1,1 +1,1 @@
-var mnemonic = "sing kid vapor mother try act wild method add two blind bind";
+var mnemonic = "switch gift black pink extend various lazy mosquito spoon umbrella reduce attract";

@@ -1,1 +1,1 @@
-var mnemonic = "purse double dolphin make luxury ahead hood unable empower fever bacon diary";
+var mnemonic = "scout seat size waste fame welcome unique spatial defy between combine govern";

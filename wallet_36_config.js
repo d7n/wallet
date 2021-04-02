@@ -1,1 +1,1 @@
-var mnemonic = "need sun pride harbor female edge emerge hurt change diet viable razor";
+var mnemonic = "anger evolve pudding evil cliff gesture champion citizen afford border planet act";

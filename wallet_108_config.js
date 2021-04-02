@@ -1,1 +1,1 @@
-var mnemonic = "bulb tiny master sugar shed episode brand auto wasp slide tower write";
+var mnemonic = "unfold grace draw breeze gallery aisle allow bus drill peasant speak place";

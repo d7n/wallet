@@ -1,1 +1,1 @@
-var mnemonic = "volcano amazing into large female hand grain useful cave gorilla cover tragic";
+var mnemonic = "book mistake park screen grain rich crisp deer master repair silent soap";

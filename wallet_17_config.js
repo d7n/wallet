@@ -1,1 +1,1 @@
-var mnemonic = "gravity grain swift urban cream chalk survey soup odor search narrow real";
+var mnemonic = "treat people drop mass wave permit hurt shield appear hidden toilet certain";

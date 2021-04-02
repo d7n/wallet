@@ -1,1 +1,1 @@
-var mnemonic = "corn exist leisure hobby mouse peasant crumble obvious over dinner owner dolphin";
+var mnemonic = "shed detect jeans clean poet feature pass slight better draw nurse rival";

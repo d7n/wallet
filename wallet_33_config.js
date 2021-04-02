@@ -1,1 +1,1 @@
-var mnemonic = "trick deny where veteran quiz flush level real color hood shy attitude";
+var mnemonic = "bamboo sibling portion elite live increase clerk vendor already toilet couple clerk";

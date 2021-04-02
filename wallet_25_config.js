@@ -1,1 +1,1 @@
-var mnemonic = "know fresh play inquiry lion gospel weekend enjoy episode acoustic uniform suffer";
+var mnemonic = "submit harvest remind million man fringe include aisle husband boss employ dismiss";

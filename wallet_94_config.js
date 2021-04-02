@@ -1,1 +1,1 @@
-var mnemonic = "tornado service cram garlic depend floor fade floor shuffle fat shoot naive";
+var mnemonic = "still burst bind design window climb often envelope dash monkey volcano industry";

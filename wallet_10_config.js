@@ -1,1 +1,1 @@
-var mnemonic = "wrestle early include true addict alert ahead erosion tooth tortoise alcohol bamboo";
+var mnemonic = "clutch powder among pledge coyote minimum live return trumpet obvious extend cook";

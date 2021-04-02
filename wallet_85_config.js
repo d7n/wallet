@@ -1,1 +1,1 @@
-var mnemonic = "badge wolf banana box antenna ill vibrant income leopard dinner monkey seek";
+var mnemonic = "prison concert color country recycle embark letter rate olympic vast thunder cloth";

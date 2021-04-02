@@ -1,1 +1,1 @@
-var mnemonic = "nut enlist van negative jaguar roast copper sudden keep unfold olympic shine";
+var mnemonic = "fog nest alien hedgehog total rigid law used clutch pet either hip";

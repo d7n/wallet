@@ -1,1 +1,1 @@
-var mnemonic = "eye margin immune damp wait green dignity electric round camp modify dinner";
+var mnemonic = "green borrow mind salon borrow absorb pony tool penalty index amateur either";

@@ -1,1 +1,1 @@
-var mnemonic = "carry correct spoon toe alley shell forget mistake renew blur relief couch";
+var mnemonic = "develop squeeze zero language jewel fall begin retire trend athlete negative fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "sound game future blur banner reopen mule virtual glory arm seek have";
+var mnemonic = "engine soda east wool trumpet method merit slim dress own royal sheriff";

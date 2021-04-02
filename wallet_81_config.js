@@ -1,1 +1,1 @@
-var mnemonic = "celery brick kick gorilla soccer guard exhibit dose enrich luggage real slow";
+var mnemonic = "burden young clap canyon tone stairs alien banner spring such tissue tip";

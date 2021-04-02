@@ -1,1 +1,1 @@
-var mnemonic = "topple ritual retreat volume arch loyal marriage trend virtual must educate lecture";
+var mnemonic = "stage mass connect cluster myth menu invite price there speed kiwi extra";

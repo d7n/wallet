@@ -1,1 +1,1 @@
-var mnemonic = "fine liar visa young style time trade taste muffin hip boil matrix";
+var mnemonic = "cycle swallow wire risk put elbow plate plastic learn design wool seat";

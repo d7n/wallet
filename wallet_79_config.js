@@ -1,1 +1,1 @@
-var mnemonic = "matrix ocean cup address female mom install patient million undo hill scissors";
+var mnemonic = "people relief search rebel fringe pigeon ticket senior enough river desk subject";

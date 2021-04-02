@@ -1,1 +1,1 @@
-var mnemonic = "scare cry security jealous glue steak goddess catch truly knock social possible";
+var mnemonic = "spread evidence useful slam join bargain wood click flight ill wheat ignore";

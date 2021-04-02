@@ -1,1 +1,1 @@
-var mnemonic = "exhibit chase differ life pig stem spy pottery own loan skin burden";
+var mnemonic = "enable play reason rely ginger valley fresh minor bring dentist dose prison";

@@ -1,1 +1,1 @@
-var mnemonic = "legal giggle blame sibling describe rubber jump uphold remember scissors bind typical";
+var mnemonic = "normal dove sketch social soap entire finger hurry steel special strategy gentle";

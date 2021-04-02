@@ -1,1 +1,1 @@
-var mnemonic = "camp bridge rain old dirt offer already settle gospel animal egg minor";
+var mnemonic = "cram mixture pair joy pole tuition submit proof brain opera divorce turkey";

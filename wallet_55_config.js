@@ -1,1 +1,1 @@
-var mnemonic = "inform sun adult enter balcony collect include deputy boy kidney defy april";
+var mnemonic = "security diamond save invite chicken describe pumpkin dinner rib rule almost swap";

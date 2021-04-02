@@ -1,1 +1,1 @@
-var mnemonic = "example critic confirm sense junior camera comfort tongue squeeze wrong polar tray";
+var mnemonic = "carbon heart chef puzzle valve dirt pear match leg night section cable";

@@ -1,1 +1,1 @@
-var mnemonic = "sauce asset pride fortune obvious cage flock bench congress reflect marble unfold";
+var mnemonic = "beauty rose offer expire elephant trap obey silver hire useful veteran rail";

@@ -1,1 +1,1 @@
-var mnemonic = "nice shallow river symbol spend bid monster check ensure useless barely enter";
+var mnemonic = "lift lock differ survey region police total oak puzzle amount emotion accident";

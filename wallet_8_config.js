@@ -1,1 +1,1 @@
-var mnemonic = "rapid daughter theory bracket achieve extend practice host phone exit view craft";
+var mnemonic = "boss crew what cook glow shoot moral crush robust certain lizard approve";

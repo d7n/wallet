@@ -1,1 +1,1 @@
-var mnemonic = "entry you quality raise upset shallow guard hero slight tooth short index";
+var mnemonic = "decrease owner attitude ecology economy bring ribbon hotel glory suggest castle crime";

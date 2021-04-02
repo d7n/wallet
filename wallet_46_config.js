@@ -1,1 +1,1 @@
-var mnemonic = "oblige common beef huge cloud learn dream rent office draft quote mobile";
+var mnemonic = "diagram distance fall suit cost barrel seat ladder between alarm chat deposit";

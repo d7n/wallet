@@ -1,1 +1,1 @@
-var mnemonic = "junk scatter panda tuna taxi army surface reason betray feel wrestle almost";
+var mnemonic = "chunk couple marriage leader ahead cruise tool finger board skill inmate inhale";

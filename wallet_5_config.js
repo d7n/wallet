@@ -1,1 +1,1 @@
-var mnemonic = "east toddler since horse spread dirt enjoy evil erode note same warm";
+var mnemonic = "prosper dose write pumpkin crush lunar exchange next side submit school latin";

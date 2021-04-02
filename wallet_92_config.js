@@ -1,1 +1,1 @@
-var mnemonic = "leader barrel carry story gloom twelve strong speak crawl matter axis urge";
+var mnemonic = "shoulder reopen behind knife burger expose verify climb inform snake able pave";

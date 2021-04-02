@@ -1,1 +1,1 @@
-var mnemonic = "turkey frozen boat tail modify orchard cushion cube organ north scan wrong";
+var mnemonic = "shock begin black river answer usual result weather mirror melody change chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "morning bid post seminar vessel public sure empty bottom bleak torch spare";
+var mnemonic = "kingdom tone earth giggle stamp steel over retreat embrace twenty produce cabbage";

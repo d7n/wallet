@@ -1,1 +1,1 @@
-var mnemonic = "nephew theme sick foam half way deal emerge tank horse fluid thunder";
+var mnemonic = "budget debris romance produce dinosaur predict defense degree pull royal maze awake";

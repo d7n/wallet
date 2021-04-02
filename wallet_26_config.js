@@ -1,1 +1,1 @@
-var mnemonic = "sure twice urban danger spice tribe nurse tent source movie time kind";
+var mnemonic = "element fashion winner gospel hat decide mom enhance method group train pony";

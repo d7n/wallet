@@ -1,1 +1,1 @@
-var mnemonic = "grief code act knee rocket blossom cream provide pepper figure cruise grief";
+var mnemonic = "layer since impact where pelican tape garlic february void large proof olive";

@@ -1,1 +1,1 @@
-var mnemonic = "school strong quantum damp gun six whisper team churn state delay shield";
+var mnemonic = "slam same brass degree paddle gold license space crisp mango ghost valve";

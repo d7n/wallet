@@ -1,1 +1,1 @@
-var mnemonic = "milk theory tackle sentence firm demise better floor join truly build spend";
+var mnemonic = "cloth edit task ladder nest fashion rough easily clean coin tenant scatter";

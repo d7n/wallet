@@ -1,1 +1,1 @@
-var mnemonic = "limb shiver ginger metal gym hurry forward city filter pole museum lucky";
+var mnemonic = "key document mercy relief six warfare have palm garden speed extra three";

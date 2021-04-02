@@ -1,1 +1,1 @@
-var mnemonic = "gloom twelve second bench point expire parent coral earth turkey lumber expand";
+var mnemonic = "grit absent cliff raw action wear school remind steel wear supreme next";

@@ -1,1 +1,1 @@
-var mnemonic = "old negative olive length giggle casual beef guide parade pepper buddy anxiety";
+var mnemonic = "deliver rude genuine sight solution match alcohol entry logic paddle typical hundred";

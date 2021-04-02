@@ -1,1 +1,1 @@
-var mnemonic = "lab spot reveal coconut hole hamster drum patient roast about bench wolf";
+var mnemonic = "lumber fiction fan shadow acquire swing absorb pair chimney sentence snow useless";

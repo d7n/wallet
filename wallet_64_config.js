@@ -1,1 +1,1 @@
-var mnemonic = "soon school strike unit equal music whale artefact lens sustain hand cousin";
+var mnemonic = "scare slab occur venue enemy prepare salad december never tongue apart similar";

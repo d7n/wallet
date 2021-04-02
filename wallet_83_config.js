@@ -1,1 +1,1 @@
-var mnemonic = "pelican bulb enhance hurry art robust arrange trade aim cause already media";
+var mnemonic = "soldier brand motion step mountain run wall color border artist reason easily";

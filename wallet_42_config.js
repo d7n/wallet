@@ -1,1 +1,1 @@
-var mnemonic = "feed rubber oyster deposit input spin loan throw connect nuclear woman tone";
+var mnemonic = "useless story kid insane usage table neck sell shadow artefact lucky jump";

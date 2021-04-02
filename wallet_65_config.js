@@ -1,1 +1,1 @@
-var mnemonic = "poem term cave misery mom ski exhibit pill crash online empty stock";
+var mnemonic = "tissue field advice initial base recycle gloom couple slide verb crash congress";

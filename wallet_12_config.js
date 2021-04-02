@@ -1,1 +1,1 @@
-var mnemonic = "female gift silly verb six aware brick plastic reason target perfect obscure";
+var mnemonic = "trumpet swear three next now angle hungry pyramid puzzle bottom online theme";

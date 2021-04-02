@@ -1,1 +1,1 @@
-var mnemonic = "unknown fiction hurt also dirt tray dutch cover outside charge sun market";
+var mnemonic = "describe industry dice often room attend aspect assault fuel hood trumpet fit";

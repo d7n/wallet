@@ -1,1 +1,1 @@
-var mnemonic = "fiction hospital caution town tomato found disagree until gravity surround april bar";
+var mnemonic = "buffalo matrix weird kite student sudden add thing list water start slender";

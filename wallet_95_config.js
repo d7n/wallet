@@ -1,1 +1,1 @@
-var mnemonic = "sick hurdle old normal inhale raise tape ugly canoe arrow refuse vibrant";
+var mnemonic = "open affair stamp man luxury marble pet voyage convince reform method lift";

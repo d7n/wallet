@@ -1,1 +1,1 @@
-var mnemonic = "then chaos kite butter endorse emerge canoe feature viable climb hour habit";
+var mnemonic = "ice animal age breeze lyrics ignore portion capital winter scissors park limb";

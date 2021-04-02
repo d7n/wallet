@@ -1,1 +1,1 @@
-var mnemonic = "another water fitness mix vacant mimic jaguar report dance apart magnet weapon";
+var mnemonic = "swim tape lawn focus fever cupboard strike bracket build only true fiber";

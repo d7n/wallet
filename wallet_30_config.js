@@ -1,1 +1,1 @@
-var mnemonic = "monster angry monster promote picture build add stage spread beauty combine eight";
+var mnemonic = "blood prison prepare put bullet opera winter guard jelly two random sunset";

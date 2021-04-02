@@ -1,1 +1,1 @@
-var mnemonic = "congress swing fragile toy canyon sad base fiscal garden armor trick reunion";
+var mnemonic = "ozone liar juice large roast chronic canvas hover color quarter during area";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet aisle spy fresh excuse situate pilot execute reduce color noble mouse";
+var mnemonic = "tube hollow basic crime judge trouble guilt gallery noodle solve later ski";

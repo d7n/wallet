@@ -1,1 +1,1 @@
-var mnemonic = "narrow gift knife ability pear unaware oppose myth veteran online tooth ring";
+var mnemonic = "rigid catalog forward arrive expand night certain front jungle type expand timber";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage private say vicious change oval swamp latin scrap vapor know gold";
+var mnemonic = "flock riot occur engine hair neck excite tomato dentist tenant march pill";

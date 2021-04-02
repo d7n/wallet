@@ -1,1 +1,1 @@
-var mnemonic = "lemon bomb verb wonder typical quit divorce defense believe tennis frog toe";
+var mnemonic = "nose human lawn surround actress pupil job novel topple story equip bomb";

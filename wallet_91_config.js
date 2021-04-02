@@ -1,1 +1,1 @@
-var mnemonic = "parent shove author volcano write reduce change insect daughter speed what decorate";
+var mnemonic = "jar certain worth number symptom leaf search scrap jungle ask husband beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery buddy raven you napkin access access burden figure disagree only bracket";
+var mnemonic = "humor cram hero swing betray swallow venue auction vivid cross recall guard";

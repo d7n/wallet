@@ -1,1 +1,1 @@
-var mnemonic = "another idea advice manage code gap wash pledge garment office identify between";
+var mnemonic = "screen gaze weekend remove moral wet earth sweet various very smile law";

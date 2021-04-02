@@ -1,1 +1,1 @@
-var mnemonic = "price device bicycle pair infant speed input sweet shoulder fold suit add";
+var mnemonic = "fit notice skirt room combine visual episode lock awake supreme man urban";

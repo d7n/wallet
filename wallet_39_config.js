@@ -1,1 +1,1 @@
-var mnemonic = "rent soft laundry old inch stamp neck chunk inquiry host super initial";
+var mnemonic = "spring slender hurry enhance coach manual scrap chest benefit kiwi drip bid";

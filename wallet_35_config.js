@@ -1,1 +1,1 @@
-var mnemonic = "forward creek neck rocket seven matter essay satisfy flip matter chunk inquiry";
+var mnemonic = "promote road buffalo ritual debris before obvious forum salute walnut option divide";

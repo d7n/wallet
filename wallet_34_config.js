@@ -1,1 +1,1 @@
-var mnemonic = "bubble observe sad hand breeze north cliff average hockey orient dirt frown";
+var mnemonic = "switch noise isolate judge average decorate into rough spoon giraffe shell flower";

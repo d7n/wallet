@@ -1,1 +1,1 @@
-var mnemonic = "gravity visual find easily abstract solve radar antique balance asthma confirm today";
+var mnemonic = "style social ignore nasty silk swear section tunnel turtle region office arena";

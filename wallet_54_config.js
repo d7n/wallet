@@ -1,1 +1,1 @@
-var mnemonic = "pigeon dry cancel two seat curious relief horror sniff tell display valley";
+var mnemonic = "awake remind venue usual chicken bless supply image autumn coffee make weird";

@@ -1,1 +1,1 @@
-var mnemonic = "receive funny evolve rely recall alley earth ask exhibit birth food quiz";
+var mnemonic = "present open require raccoon tail dry later brain fitness pole boost dwarf";

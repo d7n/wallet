@@ -1,1 +1,1 @@
-var mnemonic = "dry verb bird cannon beef rather crunch planet proud fashion famous heart";
+var mnemonic = "saddle crater unfair concert sentence timber toy final cabin audit artist sing";

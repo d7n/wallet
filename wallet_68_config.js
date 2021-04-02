@@ -1,1 +1,1 @@
-var mnemonic = "fancy indicate topic amazing carpet echo burger urge code fog cement fever";
+var mnemonic = "organ aisle climb train session mention mercy city clean top hover glove";

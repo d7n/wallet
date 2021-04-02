@@ -1,1 +1,1 @@
-var mnemonic = "favorite error finger disease ocean milk huge pattern glove office runway coach";
+var mnemonic = "smooth forget vapor quick ozone visual betray cycle tape tongue vicious onion";

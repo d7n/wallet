@@ -1,1 +1,1 @@
-var mnemonic = "shell exotic choice banana tortoise blind want suspect must once certain sick";
+var mnemonic = "build thunder decade document slot canyon grab rabbit vessel vintage dose extra";

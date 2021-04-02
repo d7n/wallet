@@ -1,1 +1,1 @@
-var mnemonic = "street satoshi rain family pepper report machine hungry claim nerve actress metal";
+var mnemonic = "office honey renew wash suspect detect salmon erode west hollow shaft venture";

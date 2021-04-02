@@ -1,1 +1,1 @@
-var mnemonic = "token sure twin remind pave illegal shuffle again strong where fiscal recipe";
+var mnemonic = "inmate mirror pond parrot empty urge knock trim forest palm employ citizen";

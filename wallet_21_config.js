@@ -1,1 +1,1 @@
-var mnemonic = "define fuel badge domain shop clutch crowd soccer left essay moon metal";
+var mnemonic = "among essay toss envelope jungle before mercy actor degree adapt celery mammal";

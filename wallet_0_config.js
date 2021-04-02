@@ -1,1 +1,1 @@
-var mnemonic = "melt crouch announce volcano scene garment please short muscle antique volume purpose";
+var mnemonic = "gather slush patient chaos range nuclear uphold vendor giggle inspire ethics cave";

@@ -1,1 +1,1 @@
-var mnemonic = "evolve seek tennis horse fiber clog mean resemble style eager cupboard cinnamon";
+var mnemonic = "husband gesture inhale then chase annual burst cluster example run tissue noise";

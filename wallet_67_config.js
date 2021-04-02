@@ -1,1 +1,1 @@
-var mnemonic = "bronze rough brief joy update type route little torch payment tide inmate";
+var mnemonic = "glory vault insect bullet south often pig beauty observe lunar unit foam";
