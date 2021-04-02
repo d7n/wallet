@@ -1,1 +1,1 @@
-var mnemonic = "cave like route van ketchup sponsor prevent benefit future uniform crime pattern";
+var mnemonic = "upset rich logic crawl like crop radar cactus much pizza tray office";

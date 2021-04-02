@@ -1,1 +1,1 @@
-var mnemonic = "insect scare smoke kingdom radio divert beauty reason joke coin shoot decline";
+var mnemonic = "fox chat measure chicken intact dove insane club sister present ahead panther";

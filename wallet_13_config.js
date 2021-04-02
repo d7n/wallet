@@ -1,1 +1,1 @@
-var mnemonic = "share slogan mistake garden limb kangaroo toss metal range flat taste large";
+var mnemonic = "opinion holiday holiday divide engine baby sniff jealous drum smoke dumb grass";

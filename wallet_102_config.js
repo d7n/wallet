@@ -1,1 +1,1 @@
-var mnemonic = "among urge desk gift intact salmon trap load million clap unique spice";
+var mnemonic = "matter assist snow address happy industry vessel drive shield nose swim noise";

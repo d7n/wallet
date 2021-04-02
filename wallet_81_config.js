@@ -1,1 +1,1 @@
-var mnemonic = "evoke smoke rifle myth sphere teach grief sunny captain amazing gospel height";
+var mnemonic = "penalty doll atom mansion zero barrel fresh scare prize dynamic forum vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "quality across swear pupil begin remove actor cook path sponsor object illegal";
+var mnemonic = "advance very life surprise lab antenna goddess hobby mango punch concert flight";

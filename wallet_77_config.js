@@ -1,1 +1,1 @@
-var mnemonic = "into ripple fox icon wrist balcony snow soap turn athlete mixture mushroom";
+var mnemonic = "deliver pass drink puppy quick world elite dust pulse magnet buyer lazy";

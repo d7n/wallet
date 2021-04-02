@@ -1,1 +1,1 @@
-var mnemonic = "version robot riot know include farm syrup food rebuild bar mountain push";
+var mnemonic = "spy chicken gentle father answer drop almost flame chief burst later van";

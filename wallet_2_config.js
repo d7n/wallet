@@ -1,1 +1,1 @@
-var mnemonic = "leisure uncle rate fork average will host letter olive apple repair home";
+var mnemonic = "key nephew dizzy joy resist hazard hunt know boss water game air";

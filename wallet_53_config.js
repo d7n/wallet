@@ -1,1 +1,1 @@
-var mnemonic = "organ coconut wear online swap north spawn fury switch live repair fish";
+var mnemonic = "bridge seminar monitor decorate nest artwork illegal rather muffin dynamic normal pistol";

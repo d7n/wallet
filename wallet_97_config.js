@@ -1,1 +1,1 @@
-var mnemonic = "wolf erosion ugly one rain tuna melt either weekend deal dignity awake";
+var mnemonic = "salmon lawn water tourist doctor city uncle sea volume pipe trigger demand";

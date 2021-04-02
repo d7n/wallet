@@ -1,1 +1,1 @@
-var mnemonic = "shrug size define abstract head indoor blast movie multiply hawk picnic symptom";
+var mnemonic = "mystery special peace wood dismiss wood answer medal guilt exhaust camp what";

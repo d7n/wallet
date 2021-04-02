@@ -1,1 +1,1 @@
-var mnemonic = "radar divide run title stay energy rug practice shock small upgrade board";
+var mnemonic = "illegal dune wall wide icon cricket wall crumble disorder fly glow agree";

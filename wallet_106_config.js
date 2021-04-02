@@ -1,1 +1,1 @@
-var mnemonic = "draw grit wisdom father biology famous ladder throw coast clock recall impulse";
+var mnemonic = "solid marine negative palace recipe apple soda banner express napkin armed fine";

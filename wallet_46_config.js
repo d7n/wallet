@@ -1,1 +1,1 @@
-var mnemonic = "spoil scale movie wool eagle file unhappy antenna reunion wool strong express";
+var mnemonic = "fashion fiscal typical vapor pigeon dial ozone alarm sponsor certain firm depth";

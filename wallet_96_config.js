@@ -1,1 +1,1 @@
-var mnemonic = "small patient one fault hub night pudding palace gun ghost rate erode";
+var mnemonic = "tube sleep catch section valley divide swamp river boat march fault document";

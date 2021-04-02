@@ -1,1 +1,1 @@
-var mnemonic = "adult pig belt page also shrug badge local symptom solve tiny evolve";
+var mnemonic = "soda bounce weird grid mask mammal champion hub book valve actress angry";

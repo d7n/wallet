@@ -1,1 +1,1 @@
-var mnemonic = "shop six army notice couple over ostrich proof purchase express science absorb";
+var mnemonic = "forward success tip enroll swap basket fruit design across flag toddler thought";

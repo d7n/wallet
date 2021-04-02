@@ -1,1 +1,1 @@
-var mnemonic = "seek wood truth wear search caught need curious kitten curtain ensure bid";
+var mnemonic = "liar spoon hammer feel laptop abuse vendor sheriff club jungle cruise illegal";

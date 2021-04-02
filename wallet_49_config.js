@@ -1,1 +1,1 @@
-var mnemonic = "sugar pull hollow lamp between fitness evoke endless arrow family inmate excite";
+var mnemonic = "smart photo history equal cloth person chalk also wolf craft slush congress";

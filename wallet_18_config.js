@@ -1,1 +1,1 @@
-var mnemonic = "answer monkey runway twenty farm suggest below know army popular huge champion";
+var mnemonic = "expect road proud payment kit language palm broom bird holiday sort worth";

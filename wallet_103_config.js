@@ -1,1 +1,1 @@
-var mnemonic = "apology amateur grocery rich rare stage brisk dirt fragile settle nuclear interest";
+var mnemonic = "rose dragon pioneer tent off mutual agree usual kidney brown figure august";

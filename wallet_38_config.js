@@ -1,1 +1,1 @@
-var mnemonic = "pizza baby unaware reflect weapon guitar captain peanut manage badge fetch service";
+var mnemonic = "suggest midnight human project balance aunt want relief wide lemon supply fold";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle young vicious captain empty hospital carpet arrow sweet reunion shell blouse";
+var mnemonic = "squeeze rotate talk dismiss floor village vicious monster tragic morning scrap adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve fatigue door brother taste fury endless burger cram soft item basic";
+var mnemonic = "flush buyer excite list shove session weapon walk absent imitate marriage diet";

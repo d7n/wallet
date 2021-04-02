@@ -1,1 +1,1 @@
-var mnemonic = "enact client evoke tube face rain mouse brand iron screen news recall";
+var mnemonic = "coral mule trip thunder boring crouch display proud blush spatial often follow";

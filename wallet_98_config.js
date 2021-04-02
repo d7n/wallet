@@ -1,1 +1,1 @@
-var mnemonic = "renew settle airport bike art hero valley body popular bind radar pulp";
+var mnemonic = "mother core blush heavy receive decline orphan resource success near object token";

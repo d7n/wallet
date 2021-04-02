@@ -1,1 +1,1 @@
-var mnemonic = "action scissors crawl purpose puzzle key country say entire salmon review output";
+var mnemonic = "paddle champion want stuff rubber sense enjoy scan fringe copper trouble frost";

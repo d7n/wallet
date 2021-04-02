@@ -1,1 +1,1 @@
-var mnemonic = "decrease inside result over merit december awkward pride primary satoshi divert firm";
+var mnemonic = "assume execute display anxiety faith trend permit omit swamp wire error buyer";

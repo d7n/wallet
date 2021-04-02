@@ -1,1 +1,1 @@
-var mnemonic = "weapon onion uphold party excuse monkey mystery myself snow still short loan";
+var mnemonic = "intact math notable can destroy increase friend olympic umbrella good double brave";

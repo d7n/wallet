@@ -1,1 +1,1 @@
-var mnemonic = "that smoke mirror combine sponsor insane hurt suggest tattoo snake mail panic";
+var mnemonic = "fiscal galaxy pistol dutch toy tell shop regret sibling scare hundred blind";

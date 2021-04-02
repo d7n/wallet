@@ -1,1 +1,1 @@
-var mnemonic = "pyramid derive mixed where surprise magic snack thrive piece clean sketch feature";
+var mnemonic = "normal poem panda weather hockey during bomb loan assist feed charge filter";

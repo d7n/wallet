@@ -1,1 +1,1 @@
-var mnemonic = "fit uphold swim sock senior cargo lion enjoy mammal certain glass meat";
+var mnemonic = "brass chair edge trap elegant glove cool high original auction puppy upon";

@@ -1,1 +1,1 @@
-var mnemonic = "renew picnic bread cave neck sibling valve devote riot save crew blast";
+var mnemonic = "sustain poet city scare impose hospital famous bullet thought loop pig north";

@@ -1,1 +1,1 @@
-var mnemonic = "invite knife lift rent tuna second outer wreck forget actress meat lock";
+var mnemonic = "thank cattle divert floor own device exit amateur uniform eight mass trade";

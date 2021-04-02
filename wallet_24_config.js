@@ -1,1 +1,1 @@
-var mnemonic = "frame effort course neither spoon bounce empower mother punch turtle wool wink";
+var mnemonic = "then behave sock observe retreat sphere reward bacon boy sort employ bomb";

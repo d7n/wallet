@@ -1,1 +1,1 @@
-var mnemonic = "since oval actor frozen final above supply royal liquid book balcony cupboard";
+var mnemonic = "burger gaze base wheat palace omit problem wet explain lounge piano jump";

@@ -1,1 +1,1 @@
-var mnemonic = "throw apart exile alley chaos dice wage observe tooth note hood honey";
+var mnemonic = "mention ship opera one layer essay issue dizzy brand limb wine nose";

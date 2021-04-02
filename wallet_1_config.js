@@ -1,1 +1,1 @@
-var mnemonic = "bleak truly ill glass label lunch elder oyster rotate avoid fault twin";
+var mnemonic = "choice absent under film chef bind monkey build during dice poverty pulp";

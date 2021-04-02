@@ -1,1 +1,1 @@
-var mnemonic = "sight coach turtle kick traffic virus coffee number evoke pave average practice";
+var mnemonic = "weekend opinion stand tribe salad boost camera door solution mammal nothing flavor";

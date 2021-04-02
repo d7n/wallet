@@ -1,1 +1,1 @@
-var mnemonic = "lecture undo must dignity crash virtual curve bar walk degree initial tail";
+var mnemonic = "put journey debris board stable defense mansion ski brain tomorrow initial salt";

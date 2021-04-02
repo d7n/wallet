@@ -1,1 +1,1 @@
-var mnemonic = "ramp nasty alarm split owner dizzy shadow again box anger cash zebra";
+var mnemonic = "guard first select stage crumble such grace glad typical thrive dune real";

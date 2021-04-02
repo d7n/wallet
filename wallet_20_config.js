@@ -1,1 +1,1 @@
-var mnemonic = "column day cloth egg bind match zone feed crash core carbon milk";
+var mnemonic = "rather resist voyage beach canyon label digital april meat pact job inside";

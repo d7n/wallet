@@ -1,1 +1,1 @@
-var mnemonic = "thunder key mushroom chat initial detail swamp flip virus man proud skull";
+var mnemonic = "produce mammal depend core token track stable ring color tackle miss piece";

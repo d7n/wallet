@@ -1,1 +1,1 @@
-var mnemonic = "just praise tunnel mistake pledge social earn kind address virus chicken strike";
+var mnemonic = "taxi mobile fat school arrow differ ill essay useless similar avoid image";

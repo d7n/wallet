@@ -1,1 +1,1 @@
-var mnemonic = "cement manage level squirrel dance acoustic sort run spider scorpion gasp hold";
+var mnemonic = "toy endless toy boy gap amused sand high mass brief clump since";

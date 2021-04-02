@@ -1,1 +1,1 @@
-var mnemonic = "finger wool humor emerge stay ceiling open move dutch addict dial sign";
+var mnemonic = "jump curious usual carbon penalty shrug jump praise carry end fine gravity";

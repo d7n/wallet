@@ -1,1 +1,1 @@
-var mnemonic = "lift mystery kite file dry useful thumb escape deputy corn view nest";
+var mnemonic = "service pelican surface combine child cigar imitate aerobic anxiety noodle grit shove";

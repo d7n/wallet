@@ -1,1 +1,1 @@
-var mnemonic = "heart display eager banana embark rib bleak buzz broken exercise trim escape";
+var mnemonic = "replace achieve horror inherit focus upset document milk dumb blanket rookie sure";

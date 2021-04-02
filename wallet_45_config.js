@@ -1,1 +1,1 @@
-var mnemonic = "venture quiz nest rhythm universe warrior divide head combine embody agree rough";
+var mnemonic = "vast grant bronze help giant shrug example victory visual wage cattle leopard";

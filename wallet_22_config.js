@@ -1,1 +1,1 @@
-var mnemonic = "reveal wheat knock climb glass million party deer luggage captain year enroll";
+var mnemonic = "addict butter dust oppose fix keep veteran woman room student track wear";

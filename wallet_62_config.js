@@ -1,1 +1,1 @@
-var mnemonic = "orbit narrow student churn shoulder demand chase like usual large place marble";
+var mnemonic = "tenant cricket cabin wrist knock beyond bronze stadium buyer robust profit brief";

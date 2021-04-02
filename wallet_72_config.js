@@ -1,1 +1,1 @@
-var mnemonic = "lucky reject thunder bonus choice boring obey sock spatial rebel blouse whisper";
+var mnemonic = "certain april dwarf same unable speed duck author increase bottom scale fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce series either execute robust crawl sister remove easy million rug response";
+var mnemonic = "circle wonder wine flame much muffin hedgehog neither school child bunker suit";

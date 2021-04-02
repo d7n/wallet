@@ -1,1 +1,1 @@
-var mnemonic = "amused breeze rule okay among shoot immense attitude scheme rally legal glue";
+var mnemonic = "dish manual loud mimic figure valve coyote hill grant exhaust employ budget";

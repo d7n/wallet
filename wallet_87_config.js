@@ -1,1 +1,1 @@
-var mnemonic = "tissue regular illegal comic only divorce scare oyster fame judge guitar fatal";
+var mnemonic = "toilet quick chapter since manual dial end exhaust field inch solution use";

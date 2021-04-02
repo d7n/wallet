@@ -1,1 +1,1 @@
-var mnemonic = "zone cattle truly poet insect oil entire maze nerve sibling addict photo";
+var mnemonic = "expand hollow gaze pact buffalo stone rent egg project trap abstract immense";

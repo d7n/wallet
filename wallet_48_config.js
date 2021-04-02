@@ -1,1 +1,1 @@
-var mnemonic = "clown fatigue network solve shy soon window asthma lens stamp elder purchase";
+var mnemonic = "push modify battle ahead salmon forward meadow inject gather lock toy obey";

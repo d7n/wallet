@@ -1,1 +1,1 @@
-var mnemonic = "elite unaware metal fashion vocal vital enroll coil rebel mention sudden connect";
+var mnemonic = "online explain sustain miss guitar minimum wedding trade warrior doll try garden";

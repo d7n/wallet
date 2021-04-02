@@ -1,1 +1,1 @@
-var mnemonic = "major general spin cruel innocent weather stick brand barrel sniff citizen believe";
+var mnemonic = "famous sun loop notice tackle loyal insane canvas gain resemble bring jealous";

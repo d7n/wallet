@@ -1,1 +1,1 @@
-var mnemonic = "march bid priority kite wage argue add slender fury tenant slow betray";
+var mnemonic = "outside silver sail walk craft human burger bounce kid ramp beef become";

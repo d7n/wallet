@@ -1,1 +1,1 @@
-var mnemonic = "pluck rib final solve more trick announce goddess where pledge column bulb";
+var mnemonic = "home erosion document wheat adapt area alley settle ignore use weekend kite";

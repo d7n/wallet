@@ -1,1 +1,1 @@
-var mnemonic = "they illness document icon tiger depth shine hand drama assume again elder";
+var mnemonic = "smile evoke fee welcome clip cheap marble observe slush runway zone name";

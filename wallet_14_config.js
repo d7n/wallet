@@ -1,1 +1,1 @@
-var mnemonic = "range museum bicycle twenty tomato exotic flee humble fabric carpet evil ranch";
+var mnemonic = "detail survey exchange can frequent giraffe ozone wise episode art place frequent";

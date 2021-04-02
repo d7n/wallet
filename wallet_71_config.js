@@ -1,1 +1,1 @@
-var mnemonic = "short stem soft useful draft yard face neither enforce machine almost else";
+var mnemonic = "bounce upgrade brief admit review note desk intact measure ranch unlock desert";

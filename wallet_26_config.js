@@ -1,1 +1,1 @@
-var mnemonic = "olive decrease jump increase fatal trend rotate whale pony slush follow possible";
+var mnemonic = "truth link capital talent session solve more auto robot reject gaze enter";

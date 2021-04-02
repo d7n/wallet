@@ -1,1 +1,1 @@
-var mnemonic = "have shaft gossip mad only want swing coin easily foam crunch discover";
+var mnemonic = "maze scatter bulk jazz panic early best because violin still ignore hen";

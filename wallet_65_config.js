@@ -1,1 +1,1 @@
-var mnemonic = "giraffe typical patch hub goddess mother school range produce carpet leisure squirrel";
+var mnemonic = "sport crawl mercy rather gate field exclude leisure club canal away confirm";

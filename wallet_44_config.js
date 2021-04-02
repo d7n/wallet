@@ -1,1 +1,1 @@
-var mnemonic = "laugh index nasty diet innocent victory vote myth tent decline dial frown";
+var mnemonic = "coil damp chief forest champion project bench media differ banner hold guilt";

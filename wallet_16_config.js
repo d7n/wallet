@@ -1,1 +1,1 @@
-var mnemonic = "please sleep talk section dial zone spell actress shield bleak office stove";
+var mnemonic = "hollow skill flip ridge injury science hamster keen hero pet motor chronic";

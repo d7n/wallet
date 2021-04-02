@@ -1,1 +1,1 @@
-var mnemonic = "prize fatigue spike brave artist below emerge next wet vivid monitor eternal";
+var mnemonic = "bridge heavy dignity puppy glare motion butter pumpkin settle together awake sponsor";

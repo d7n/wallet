@@ -1,1 +1,1 @@
-var mnemonic = "laptop silk warm useless barrel dizzy pave sadness very destroy bird smoke";
+var mnemonic = "outdoor real vote suit unfold allow brain asthma resemble achieve carry copy";

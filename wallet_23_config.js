@@ -1,1 +1,1 @@
-var mnemonic = "choice mosquito galaxy develop bar arrive cliff movie team truly differ cushion";
+var mnemonic = "estate purse long never best shoot race coyote thunder olive decorate agent";

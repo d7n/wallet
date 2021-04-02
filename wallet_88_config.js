@@ -1,1 +1,1 @@
-var mnemonic = "physical piece south hollow cage exhibit boring month side network crumble shuffle";
+var mnemonic = "inherit legend jungle time project drink magnet spider estate food giggle food";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact end sunny mercy shop icon note auto relief miracle tobacco slender";
+var mnemonic = "good rate mandate moon puppy child stool address illness say buffalo inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "flip give key eyebrow river clinic require sense extend amused ocean avocado";
+var mnemonic = "capital neutral hockey eight toward tennis expect super bamboo weird exclude twenty";

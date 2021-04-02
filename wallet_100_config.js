@@ -1,1 +1,1 @@
-var mnemonic = "erupt legend fall stereo comic spoon aisle depend discover address hunt rare";
+var mnemonic = "crucial foil dance escape laugh refuse pipe come old ethics smart promote";

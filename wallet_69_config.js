@@ -1,1 +1,1 @@
-var mnemonic = "reopen tape wait firm fall burger runway unit raw loud learn vast";
+var mnemonic = "audit predict envelope athlete knock scorpion tennis fringe symbol bone gate change";

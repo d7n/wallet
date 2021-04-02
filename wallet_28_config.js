@@ -1,1 +1,1 @@
-var mnemonic = "shoe sail table person venture wrong siren habit soldier aisle enhance cloud";
+var mnemonic = "must beef toy visual enter evolve family alert raccoon decade mansion deliver";

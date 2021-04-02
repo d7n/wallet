@@ -1,1 +1,1 @@
-var mnemonic = "mandate analyst moon develop label novel frozen toilet over legal buzz panic";
+var mnemonic = "attend birth shy picture hawk scissors burger carpet near virtual six sail";

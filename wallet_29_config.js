@@ -1,1 +1,1 @@
-var mnemonic = "since option unlock priority blood divorce good length brave since swallow moral";
+var mnemonic = "winner resist sense angle breeze kick regret tackle arena also novel ritual";

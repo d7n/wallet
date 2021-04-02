@@ -1,1 +1,1 @@
-var mnemonic = "urban code clown network spy elite hundred loud verify phone volume shaft";
+var mnemonic = "elite profit trigger found catalog grid blue come average south citizen crouch";

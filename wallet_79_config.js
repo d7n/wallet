@@ -1,1 +1,1 @@
-var mnemonic = "hub meadow space hill venue quantum ghost kid girl settle vast process";
+var mnemonic = "situate involve diet hour job wrap mercy alley follow tortoise nominee vacant";

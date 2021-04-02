@@ -1,1 +1,1 @@
-var mnemonic = "excuse cram casual mandate enforce sister educate mesh level symptom parrot neutral";
+var mnemonic = "whip feature spot rubber develop food trial cradle valley movie urge dream";

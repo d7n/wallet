@@ -1,1 +1,1 @@
-var mnemonic = "grab pill capable broken ticket social earth dynamic rib kite tilt orchard";
+var mnemonic = "cave vacuum light acoustic country zone arrest aspect siege become keep universe";

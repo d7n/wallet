@@ -1,1 +1,1 @@
-var mnemonic = "twin genre next place claim budget alien horror home sick report mean";
+var mnemonic = "lunar track position foot then ensure fade okay claw fiction jeans analyst";

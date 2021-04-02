@@ -1,1 +1,1 @@
-var mnemonic = "wash trade tired blush pause card acid tourist winter happy decline fetch";
+var mnemonic = "uncle pistol strike kingdom civil clown reflect brave treat vapor state enroll";

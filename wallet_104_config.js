@@ -1,1 +1,1 @@
-var mnemonic = "cute reason purpose hire era cost game sketch tornado cigar quiz senior";
+var mnemonic = "peanut brown injury merry pretty snap horse witness silver practice swarm vocal";

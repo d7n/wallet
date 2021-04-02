@@ -1,1 +1,1 @@
-var mnemonic = "vacant limit sheriff dune occur grow march dry major unfair chef antenna";
+var mnemonic = "sand tuition exotic turn physical unknown chat onion push broccoli scheme scene";

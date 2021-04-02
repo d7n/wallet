@@ -1,1 +1,1 @@
-var mnemonic = "post train public tribe cruise practice hospital word ramp credit artist name";
+var mnemonic = "wear initial enhance degree famous program student input opinion garbage outside milk";

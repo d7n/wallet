@@ -1,1 +1,1 @@
-var mnemonic = "enforce dose idea below alcohol track tree certain wine label ozone torch";
+var mnemonic = "game scissors useful stone wrong canvas deposit hub title timber tuition invest";
