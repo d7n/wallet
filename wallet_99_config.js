@@ -1,1 +1,1 @@
-var mnemonic = "museum vacant wrong robust canal depend sibling celery way soup govern crew";
+var mnemonic = "voyage head degree metal process want author raven usual slight you recall";

@@ -1,1 +1,1 @@
-var mnemonic = "barely item crane skirt ugly measure upgrade reopen tip tattoo gun moment";
+var mnemonic = "suggest crystal million armed fatal hungry cinnamon cheap person stay chuckle chat";

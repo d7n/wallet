@@ -1,1 +1,1 @@
-var mnemonic = "dumb often choose change lunch address assume business embark tackle wrestle short";
+var mnemonic = "garlic hybrid patch target absurd tower gauge unfold race middle lyrics fresh";

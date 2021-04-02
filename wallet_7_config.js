@@ -1,1 +1,1 @@
-var mnemonic = "visit subject bonus coyote stay uphold open plug blouse gallery nerve shield";
+var mnemonic = "allow ability slot gadget intact exist gadget achieve merry tribe battle file";

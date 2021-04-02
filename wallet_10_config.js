@@ -1,1 +1,1 @@
-var mnemonic = "valley march kind tornado knee glue letter first trophy snake bachelor describe";
+var mnemonic = "brass believe pepper green drop produce robust moon canyon please chunk era";

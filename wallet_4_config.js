@@ -1,1 +1,1 @@
-var mnemonic = "face ritual elite stuff sure dog health client airport marriage lady toddler";
+var mnemonic = "orient tube pill run picnic garbage shallow coast segment tape cook anchor";

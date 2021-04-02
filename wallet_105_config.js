@@ -1,1 +1,1 @@
-var mnemonic = "globe sleep cricket inmate visual skin skill mansion lend boring later fury";
+var mnemonic = "cricket above later combine clinic junk famous prosper clown idea erosion knife";

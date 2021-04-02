@@ -1,1 +1,1 @@
-var mnemonic = "drift brain endless account sunny degree valve mad skin expand mandate ring";
+var mnemonic = "orbit rack spray media clever carpet army burst praise replace satoshi clip";

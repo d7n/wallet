@@ -1,1 +1,1 @@
-var mnemonic = "voice short blade chicken scheme sibling robust matter nut million obtain absent";
+var mnemonic = "gun able section effort mind course exhibit senior element educate wife help";

@@ -1,1 +1,1 @@
-var mnemonic = "video oven thought sword logic ask suffer topic pull wing fan viable";
+var mnemonic = "resource tree please later engage kit success chapter craft cricket eternal walnut";

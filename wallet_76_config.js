@@ -1,1 +1,1 @@
-var mnemonic = "west arch box sort picnic mansion move menu victory illness awkward sail";
+var mnemonic = "find umbrella immune pull wheat sudden electric poem kiss mechanic patch need";

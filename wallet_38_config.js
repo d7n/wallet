@@ -1,1 +1,1 @@
-var mnemonic = "wheat above harbor horse naive luxury sketch sheriff cover cabbage fiction slam";
+var mnemonic = "outer luxury unaware rally slight coral mouse oven peasant prepare easily path";

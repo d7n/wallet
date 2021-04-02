@@ -1,1 +1,1 @@
-var mnemonic = "endless work inmate rocket improve injury client main above float poem valid";
+var mnemonic = "tilt ring skate renew lake desert lucky impose festival slender sad seat";

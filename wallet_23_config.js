@@ -1,1 +1,1 @@
-var mnemonic = "car first grace mind service fetch despair glue fish actual inhale holiday";
+var mnemonic = "drastic drop ten essence special person impose wasp merge episode rigid embrace";

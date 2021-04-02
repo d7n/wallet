@@ -1,1 +1,1 @@
-var mnemonic = "matter region deliver elephant elevator elite garage model blouse paper jungle wrist";
+var mnemonic = "pulp invite team cherry purpose clay that office pride soldier primary plate";

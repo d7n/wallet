@@ -1,1 +1,1 @@
-var mnemonic = "tomato copper sail dentist question swing crucial install addict crunch island pumpkin";
+var mnemonic = "attend visit budget erase pulse future dentist latin plunge swift hazard box";

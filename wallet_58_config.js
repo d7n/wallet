@@ -1,1 +1,1 @@
-var mnemonic = "reform exile drill vocal ivory involve mother sunny crane coil nice green";
+var mnemonic = "sell upper loan minimum better unable cause nephew employ crowd drop video";

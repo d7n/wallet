@@ -1,1 +1,1 @@
-var mnemonic = "jump humor yellow drift method fit design book push toss scale adapt";
+var mnemonic = "draft liberty hair stage oven decrease loud dune impose imitate kick sight";

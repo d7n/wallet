@@ -1,1 +1,1 @@
-var mnemonic = "wedding truth sauce rib attract bicycle relax taxi eagle approve during mercy";
+var mnemonic = "essay lift mistake olympic beach oblige liar tent peanut tired craft uniform";

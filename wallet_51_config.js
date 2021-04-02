@@ -1,1 +1,1 @@
-var mnemonic = "saddle reveal virtual hobby cause galaxy attitude dragon donkey cat behave know";
+var mnemonic = "awesome hard funny faculty circle spread clog add climb cheap ordinary nest";

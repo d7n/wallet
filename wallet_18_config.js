@@ -1,1 +1,1 @@
-var mnemonic = "legend spawn attitude gasp general legal silly gold acquire remain game reflect";
+var mnemonic = "option night reward castle cup town riot type skull access reveal assist";

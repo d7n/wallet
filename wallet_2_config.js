@@ -1,1 +1,1 @@
-var mnemonic = "author observe pulp permit field flag service turtle note series oil garbage";
+var mnemonic = "network bunker keen involve copy genius dirt soldier have imitate reunion stool";

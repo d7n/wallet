@@ -1,1 +1,1 @@
-var mnemonic = "net army ritual phone guitar hotel oppose name warfare flower glimpse glory";
+var mnemonic = "trade broccoli solid recipe tank eternal what unfold exchange engage pond mother";

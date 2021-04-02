@@ -1,1 +1,1 @@
-var mnemonic = "coil girl face bone visual romance middle celery all spider march sphere";
+var mnemonic = "assault segment love liberty online estate pact bar prison jelly damage noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "whale cruel media fix arena worth birth scale audit radar lawn hope";
+var mnemonic = "noble congress snap predict sword report gossip alter drop awful mango wool";

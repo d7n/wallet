@@ -1,1 +1,1 @@
-var mnemonic = "situate loan undo diagram salad engage toss video coffee fiction circle jar";
+var mnemonic = "bubble sting shallow tone domain wagon large radio crucial grace uncover ignore";

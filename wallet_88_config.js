@@ -1,1 +1,1 @@
-var mnemonic = "leaf satisfy either thunder whip magnet social hedgehog flower wink virus brass";
+var mnemonic = "width equip company liquid champion floor fantasy false cheap clock ball palace";

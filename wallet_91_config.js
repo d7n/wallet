@@ -1,1 +1,1 @@
-var mnemonic = "anger frozen name brass clarify police tuition steel spice ozone donkey runway";
+var mnemonic = "together deposit squeeze soccer token gaze clay remind pony push adjust bleak";

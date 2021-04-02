@@ -1,1 +1,1 @@
-var mnemonic = "movie deer great visit possible judge staff change kiss exhaust reject glimpse";
+var mnemonic = "brush method basket nothing desk length depth include plunge desert twin parade";

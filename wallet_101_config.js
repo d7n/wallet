@@ -1,1 +1,1 @@
-var mnemonic = "sphere gorilla dress reduce fresh grain swift only lift protect version right";
+var mnemonic = "pave aisle tumble poverty flee can hint evil key adapt season pole";

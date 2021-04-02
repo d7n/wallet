@@ -1,1 +1,1 @@
-var mnemonic = "tragic amazing crunch steak click abandon polar board city switch aspect estate";
+var mnemonic = "now prepare chronic board absorb dad worry estate above junk attend purity";

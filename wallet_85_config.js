@@ -1,1 +1,1 @@
-var mnemonic = "loop bounce pilot medal where wire outer skate target outdoor tragic seven";
+var mnemonic = "fade village wage scout ostrich garage tomato collect base caught until destroy";

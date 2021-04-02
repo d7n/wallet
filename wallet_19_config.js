@@ -1,1 +1,1 @@
-var mnemonic = "invest easy team embody armor category west happy flight alarm photo bid";
+var mnemonic = "chest indoor robust beyond category slot fun bread hammer human garage december";

@@ -1,1 +1,1 @@
-var mnemonic = "keen fetch live story bonus media rapid frequent wool much paper hundred";
+var mnemonic = "media venue coconut confirm loop sunset endorse practice social meadow town fitness";

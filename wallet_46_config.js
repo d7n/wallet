@@ -1,1 +1,1 @@
-var mnemonic = "poet slim crater pet stay end canvas nature pull arrange saddle replace";
+var mnemonic = "journey surround fuel dad unit behave bamboo filter library waste wear limit";

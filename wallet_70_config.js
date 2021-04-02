@@ -1,1 +1,1 @@
-var mnemonic = "grass knee ball tissue parade punch okay rate faint enact firm unaware";
+var mnemonic = "crack odor dream loan love advance vacant solar future tongue dish cheese";

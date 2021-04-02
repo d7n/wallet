@@ -1,1 +1,1 @@
-var mnemonic = "execute mixture robust doll define wolf success change ketchup iron patrol general";
+var mnemonic = "spawn result smoke clerk rescue ball quantum interest country knee erase bridge";

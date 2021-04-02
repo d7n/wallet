@@ -1,1 +1,1 @@
-var mnemonic = "engage execute enact circle tumble area fiction vast hundred win just world";
+var mnemonic = "purpose item slight cart panic feel crystal until jeans famous auction cat";

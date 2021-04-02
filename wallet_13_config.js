@@ -1,1 +1,1 @@
-var mnemonic = "fabric journey fever joke acoustic coconut salon axis grace nest pumpkin slow";
+var mnemonic = "bless thunder elevator enforce spice jump swift fine catalog spot patch giant";

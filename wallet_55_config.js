@@ -1,1 +1,1 @@
-var mnemonic = "magnet science guard supreme acoustic wife foster include stuff walnut type dial";
+var mnemonic = "warrior fuel exhibit juice medal learn illegal step wreck illness menu blouse";

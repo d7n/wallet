@@ -1,1 +1,1 @@
-var mnemonic = "tilt humble paper execute erase hip normal oppose piano maple uncle catalog";
+var mnemonic = "diary select escape trust slam museum lock crop meadow split possible chunk";

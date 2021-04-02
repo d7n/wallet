@@ -1,1 +1,1 @@
-var mnemonic = "involve identify humble submit hobby leg letter armed ghost bleak quick pulse";
+var mnemonic = "below crumble swallow buddy fine cheese master year valve submit mystery fever";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic duty congress system accident earth grow mix toddler walnut upgrade memory";
+var mnemonic = "rude spin open rug palm segment ostrich edit earn exhaust wagon slow";

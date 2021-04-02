@@ -1,1 +1,1 @@
-var mnemonic = "swing lawsuit buyer mad donate album shrimp umbrella quiz engine roof bleak";
+var mnemonic = "mammal ritual asthma tumble dismiss kid around minimum repeat mushroom aisle among";

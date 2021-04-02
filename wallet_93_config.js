@@ -1,1 +1,1 @@
-var mnemonic = "awesome tribe hotel novel range beauty prison total they essence jump ready";
+var mnemonic = "fancy rhythm roof cricket honey giraffe various gym school staff neglect loan";

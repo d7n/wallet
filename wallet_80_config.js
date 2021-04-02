@@ -1,1 +1,1 @@
-var mnemonic = "orchard night doctor duty desk foam hire key punch dynamic faint snow";
+var mnemonic = "lounge hope club there sunny menu little measure helmet gift honey decline";

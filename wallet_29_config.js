@@ -1,1 +1,1 @@
-var mnemonic = "local faith north daughter remind true coconut payment afraid athlete pig green";
+var mnemonic = "light fix usual silver census width stuff scissors father suspect moon fiscal";

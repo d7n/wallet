@@ -1,1 +1,1 @@
-var mnemonic = "allow stool indicate trim mansion castle panic leisure winner inform beyond awesome";
+var mnemonic = "ride author eager adult crush trial soccer year media cart radio gospel";

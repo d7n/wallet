@@ -1,1 +1,1 @@
-var mnemonic = "record crew vocal school never gorilla grunt people arm horse era spot";
+var mnemonic = "pause brush adult celery alarm brother lucky patient alter just panda become";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket shell output focus scout grape clinic sudden gesture unaware unusual coral";
+var mnemonic = "armed rule timber start butter anger hub tag off patch bracket force";

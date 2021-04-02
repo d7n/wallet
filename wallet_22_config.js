@@ -1,1 +1,1 @@
-var mnemonic = "thrive rude hair silly room shift syrup coffee firm quit maze rare";
+var mnemonic = "uncle wise october cause thought soft quiz first mom timber afraid wagon";

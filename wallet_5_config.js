@@ -1,1 +1,1 @@
-var mnemonic = "island submit ordinary spider title boss oven thing predict sort next health";
+var mnemonic = "stool kitten raccoon family ahead bright banner matrix oppose green vast east";

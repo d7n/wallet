@@ -1,1 +1,1 @@
-var mnemonic = "reveal rally crunch faint miracle uniform various chimney section hole razor sick";
+var mnemonic = "wood coach glimpse hunt chalk crouch brisk marriage fantasy roof deny toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "fold window indoor powder inspire boring strategy evoke flush regular lunar close";
+var mnemonic = "echo garage vibrant photo eager asthma furnace wrong earn gym into snap";

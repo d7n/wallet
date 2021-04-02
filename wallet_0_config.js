@@ -1,1 +1,1 @@
-var mnemonic = "casual select fiction human invest envelope voyage outdoor old thank slam supreme";
+var mnemonic = "during cigar retire cinnamon scrap found cash spider cart cushion pluck arrange";

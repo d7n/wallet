@@ -1,1 +1,1 @@
-var mnemonic = "gather oil fan utility bicycle inform boost swim twist service combine goddess";
+var mnemonic = "divide clerk swamp position sheriff veteran forum snow thumb wheat dash reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "oil fade hammer blossom spare lemon awake file stamp update mimic donkey";
+var mnemonic = "begin unveil truck leopard expose pottery follow hurry region hip lesson dial";

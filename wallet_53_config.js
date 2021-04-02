@@ -1,1 +1,1 @@
-var mnemonic = "announce poet close exile biology rug magic pigeon toy blouse sell cause";
+var mnemonic = "remain aerobic refuse donkey blanket kingdom cradle bind jealous position three bus";

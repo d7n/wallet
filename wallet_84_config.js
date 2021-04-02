@@ -1,1 +1,1 @@
-var mnemonic = "lab prefer two hope dolphin hour banner state injury puzzle car spray";
+var mnemonic = "matrix useful victory civil spare surge champion must ahead table shine ill";

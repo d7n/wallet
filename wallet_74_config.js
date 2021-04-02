@@ -1,1 +1,1 @@
-var mnemonic = "divide dawn kid trick ranch vault vendor raise plunge south scale resemble";
+var mnemonic = "move legend pen liar own happy dumb universe apart bullet claw square";

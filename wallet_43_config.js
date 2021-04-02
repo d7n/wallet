@@ -1,1 +1,1 @@
-var mnemonic = "tilt tent safe slice wait pond shield possible seek weather eyebrow dad";
+var mnemonic = "resource hybrid hour style present ticket drive chunk guilt mammal involve pact";

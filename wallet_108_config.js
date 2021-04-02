@@ -1,1 +1,1 @@
-var mnemonic = "wait either today snack reason advance nurse wood outside next mountain puzzle";
+var mnemonic = "identify donkey slight inject festival muscle effort wisdom message warfare pause base";

@@ -1,1 +1,1 @@
-var mnemonic = "medal someone eager veteran shaft point jump turtle such jazz crumble inch";
+var mnemonic = "party suspect race swamp enjoy survey match submit umbrella grab galaxy inch";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil leader canal tube best deliver robust zoo have truck need coral";
+var mnemonic = "soap bonus dice sea snack actor glow genius call sound victory cube";

@@ -1,1 +1,1 @@
-var mnemonic = "motor evidence bus solve witness antenna budget oxygen mistake green evoke sport";
+var mnemonic = "sample joke combine run jewel potato rookie gospel dawn scale capable muffin";

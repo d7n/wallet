@@ -1,1 +1,1 @@
-var mnemonic = "similar wine alley bag rocket fetch real early betray false deny smile";
+var mnemonic = "kiwi brother crunch trade hurt vintage smile blush museum more prevent enemy";

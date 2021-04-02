@@ -1,1 +1,1 @@
-var mnemonic = "better gauge million fiber slender gadget vintage carbon gold fashion beyond reveal";
+var mnemonic = "school frog arrange soup hero icon auto august flee material slight little";

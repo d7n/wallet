@@ -1,1 +1,1 @@
-var mnemonic = "begin depth claim couch plunge monster car cricket soldier math left certain";
+var mnemonic = "remember turtle sponsor bone elite bicycle jealous vehicle pear enforce clip glance";

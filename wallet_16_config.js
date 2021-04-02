@@ -1,1 +1,1 @@
-var mnemonic = "wrist debate other misery vintage fish garlic they ignore wisdom issue vacant";
+var mnemonic = "hurry celery inner vague sense embody inform leg age since panda process";

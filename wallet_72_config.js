@@ -1,1 +1,1 @@
-var mnemonic = "earth bronze hint key breeze drastic fringe thumb danger lizard great letter";
+var mnemonic = "soldier slogan wash cheap rubber voyage panel escape border labor caught inmate";

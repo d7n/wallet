@@ -1,1 +1,1 @@
-var mnemonic = "force fiscal public funny wing hungry depth slot zone process live invite";
+var mnemonic = "vessel banana say round program common differ sauce broom web alter doll";

@@ -1,1 +1,1 @@
-var mnemonic = "caught burger runway mercy embrace reduce accident fringe warm absorb welcome reason";
+var mnemonic = "middle mango burger large blanket fit square hollow notice lady extra baby";

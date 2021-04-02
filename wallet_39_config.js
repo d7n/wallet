@@ -1,1 +1,1 @@
-var mnemonic = "fun power depend exact crack protect tower copy various shove tuition wrist";
+var mnemonic = "jump pepper mass hamster organ forum output able early inside nature dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra prize radio wagon eagle strike reveal mule flash wide deposit battle";
+var mnemonic = "cave black cram scale boss couple never child riot fiber wolf gorilla";

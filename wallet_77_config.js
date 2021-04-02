@@ -1,1 +1,1 @@
-var mnemonic = "ozone daring digital local wrong blast drama pistol midnight sweet climb sign";
+var mnemonic = "barrel like cute run fiction flee oyster proud limit hold call use";

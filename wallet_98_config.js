@@ -1,1 +1,1 @@
-var mnemonic = "hospital bitter core pair museum clap attend flavor ranch outer phrase ask";
+var mnemonic = "pupil census horse olive guilt hundred blood ice parade walnut slight broken";

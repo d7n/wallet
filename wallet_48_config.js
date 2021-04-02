@@ -1,1 +1,1 @@
-var mnemonic = "profit fine business base retire member chuckle dose buzz razor boy effort";
+var mnemonic = "loyal focus mind height trend giggle torch salmon response vintage dynamic medal";

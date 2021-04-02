@@ -1,1 +1,1 @@
-var mnemonic = "candy force general install mouse announce guide man hold bright rescue treat";
+var mnemonic = "abandon truly recipe property horror edge recycle one chimney suspect tortoise close";

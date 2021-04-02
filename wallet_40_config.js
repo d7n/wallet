@@ -1,1 +1,1 @@
-var mnemonic = "enough castle decrease upper improve force divide smooth mind awesome cradle dune";
+var mnemonic = "law minute ancient teach gloom six weather disagree math police they vital";

@@ -1,1 +1,1 @@
-var mnemonic = "guess panic crater satoshi about spin sunny describe tornado morning enroll paper";
+var mnemonic = "palm party weasel like surge foam knee elbow script trust rough fish";

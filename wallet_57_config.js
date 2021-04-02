@@ -1,1 +1,1 @@
-var mnemonic = "galaxy beauty autumn whisper great such shaft bridge rose true office episode";
+var mnemonic = "category victory vanish mind have clog coconut coin upper harvest nuclear spoon";

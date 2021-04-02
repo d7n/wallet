@@ -1,1 +1,1 @@
-var mnemonic = "company donor behave bright wagon silver advice hawk addict obvious bid pear";
+var mnemonic = "chaos soon board onion pet dress situate require mechanic goose jaguar hedgehog";

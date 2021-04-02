@@ -1,1 +1,1 @@
-var mnemonic = "remove before giant aspect broccoli together neither people summer belt mercy margin";
+var mnemonic = "once parade rail saddle fox define random repair total rifle panther hawk";

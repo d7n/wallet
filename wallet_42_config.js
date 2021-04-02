@@ -1,1 +1,1 @@
-var mnemonic = "infant clump day nut glue dumb inform barrel cactus giant rookie model";
+var mnemonic = "broccoli differ horror uniform purse survey pool degree zebra cute critic want";

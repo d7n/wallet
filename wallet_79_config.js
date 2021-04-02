@@ -1,1 +1,1 @@
-var mnemonic = "apart tilt congress metal detect chimney engine junior devote gaze faith chef";
+var mnemonic = "cheap mixture high letter laptop melt share digital refuse midnight wise blood";

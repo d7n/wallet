@@ -1,1 +1,1 @@
-var mnemonic = "school garage unknown bulb butter agree apart flat prosper roast wrong lottery";
+var mnemonic = "special garage miss spin scare usage ugly glue end fun prefer useful";

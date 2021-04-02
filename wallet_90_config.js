@@ -1,1 +1,1 @@
-var mnemonic = "century snap world entry around fan agree return creek candy unhappy oxygen";
+var mnemonic = "cotton monster park surround person tree stem swap lecture goddess banner abstract";

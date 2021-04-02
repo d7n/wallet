@@ -1,1 +1,1 @@
-var mnemonic = "engine plunge sting aerobic rifle episode infant catch scrub spawn agent strong";
+var mnemonic = "royal hazard orchard latin never strong doctor valley reform sudden dress interest";

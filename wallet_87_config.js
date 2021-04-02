@@ -1,1 +1,1 @@
-var mnemonic = "forget huge suggest nurse dial arrow island math swim problem matrix spin";
+var mnemonic = "tide include lecture govern situate ozone link invite submit artefact offer void";

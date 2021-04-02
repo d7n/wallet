@@ -1,1 +1,1 @@
-var mnemonic = "naive they torch affair moon always monster actor clean salad profit chair";
+var mnemonic = "rocket diesel inspire adjust myth marble dawn shy train thumb lake mix";

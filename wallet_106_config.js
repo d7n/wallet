@@ -1,1 +1,1 @@
-var mnemonic = "escape struggle rain twelve sketch moon brother relax cage assault define pulse";
+var mnemonic = "april oil member boring neither argue make differ omit purse immense shaft";

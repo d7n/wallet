@@ -1,1 +1,1 @@
-var mnemonic = "describe misery glad expect topple loud cram dune monkey machine purse rifle";
+var mnemonic = "alien disagree ozone toward stomach own salon ten room video doctor million";

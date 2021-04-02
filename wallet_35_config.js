@@ -1,1 +1,1 @@
-var mnemonic = "vast bachelor voyage artefact power near noble print harvest route knee also";
+var mnemonic = "bind outside army fork brick whale push air torch detail oxygen hurdle";

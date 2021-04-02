@@ -1,1 +1,1 @@
-var mnemonic = "ensure level asthma suit onion adapt edge moral core kiwi since urban";
+var mnemonic = "cousin fade kangaroo eagle ranch arena acoustic scan foster beef embrace push";

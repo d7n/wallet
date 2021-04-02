@@ -1,1 +1,1 @@
-var mnemonic = "atom giraffe best office gaze stadium ivory can pencil industry near talent";
+var mnemonic = "steel secret barrel pulp surround venue apology speak scare unfair three power";
