@@ -1,1 +1,1 @@
-var mnemonic = "puzzle clarify priority book jazz orbit tenant snow unfair orange luggage resemble";
+var mnemonic = "either find simple park asthma trigger steak load require fan ball enemy";

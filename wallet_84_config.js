@@ -1,1 +1,1 @@
-var mnemonic = "rubber dizzy gun square man trick tray grief tank nest devote green";
+var mnemonic = "magnet narrow inspire animal reason fee fetch ceiling guitar what twist melt";

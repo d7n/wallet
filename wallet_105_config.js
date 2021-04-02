@@ -1,1 +1,1 @@
-var mnemonic = "wheel cattle joy exile rate pen danger upset affair zero enlist render";
+var mnemonic = "tribe snap picture rocket mass device climb attract true subject unique ski";

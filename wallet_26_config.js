@@ -1,1 +1,1 @@
-var mnemonic = "usual fetch brush very bless market choose story that small harsh alert";
+var mnemonic = "radar evil magic wheat robot grass seminar ignore banana hockey hedgehog world";

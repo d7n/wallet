@@ -1,1 +1,1 @@
-var mnemonic = "material abandon grass despair olympic exact effort luxury rent consider arrest dash";
+var mnemonic = "exercise wine that poverty clog inmate involve submit real trouble endorse scale";

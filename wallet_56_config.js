@@ -1,1 +1,1 @@
-var mnemonic = "blade crawl inherit define person orange chaos liar stem brave access maid";
+var mnemonic = "portion autumn business range high service manual canvas cycle spot chalk open";

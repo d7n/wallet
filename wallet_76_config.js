@@ -1,1 +1,1 @@
-var mnemonic = "immune rebuild cart gym relax elegant chase bomb fury denial mean celery";
+var mnemonic = "again various find exact profit avocado pigeon gauge scale own fork else";

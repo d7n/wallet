@@ -1,1 +1,1 @@
-var mnemonic = "bless nose random vehicle purse celery police dust crumble mystery love ladder";
+var mnemonic = "teach cotton frown million wink return card seven legend flight improve muscle";

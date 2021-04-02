@@ -1,1 +1,1 @@
-var mnemonic = "struggle base armor horror undo staff nuclear term oven monkey unknown suit";
+var mnemonic = "food empower enact team mass myth around draw stable hawk figure project";

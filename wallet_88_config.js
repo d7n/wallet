@@ -1,1 +1,1 @@
-var mnemonic = "wasp garment please jump circle action include crumble coffee story nerve tired";
+var mnemonic = "engine motor elder knee slot upon analyst power term wrong catalog palace";

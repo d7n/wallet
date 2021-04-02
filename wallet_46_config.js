@@ -1,1 +1,1 @@
-var mnemonic = "casino lemon crash vehicle return sea actor unique drill negative battle away";
+var mnemonic = "pyramid engine force shell strategy salad toy excuse mind say angry furnace";

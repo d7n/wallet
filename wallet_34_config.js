@@ -1,1 +1,1 @@
-var mnemonic = "word they picture copper step sentence pepper gold exclude inspire practice dentist";
+var mnemonic = "aware sample suggest often smooth twin display twelve elder humor craft present";

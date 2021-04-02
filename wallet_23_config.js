@@ -1,1 +1,1 @@
-var mnemonic = "crack useless shadow swift tape person miracle lumber sense mom swim hair";
+var mnemonic = "assault desert use transfer patrol tornado home timber focus picnic find special";

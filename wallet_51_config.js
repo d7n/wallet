@@ -1,1 +1,1 @@
-var mnemonic = "asset dumb trust disease midnight equip neutral amount swarm rent earn cargo";
+var mnemonic = "humor afford nominee caught truly announce language senior adjust myself turtle pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "tent trophy attract burger occur love usual train subway raw crystal crash";
+var mnemonic = "burger pyramid remind element ghost student come deer iron voyage isolate brush";

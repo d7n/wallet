@@ -1,1 +1,1 @@
-var mnemonic = "discover carry holiday patch oyster frame main adapt furnace state host gate";
+var mnemonic = "volcano inherit deliver squeeze home room original fit divert around chef mean";

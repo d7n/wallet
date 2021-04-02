@@ -1,1 +1,1 @@
-var mnemonic = "shadow label connect assume swamp sniff chunk process boil dumb chimney spin";
+var mnemonic = "stage drama envelope about name indoor fine lock topic bridge reduce sugar";

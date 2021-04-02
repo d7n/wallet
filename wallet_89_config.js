@@ -1,1 +1,1 @@
-var mnemonic = "pool chalk exhaust pause page surface pioneer race snack wealth unfair pull";
+var mnemonic = "blossom tonight panel demand build marriage media above hollow tray canal distance";

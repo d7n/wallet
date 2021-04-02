@@ -1,1 +1,1 @@
-var mnemonic = "mammal chuckle banana common fall fine lazy gallery skin where exchange fee";
+var mnemonic = "spice code tissue circle alley apple two sentence zero enough couple invest";

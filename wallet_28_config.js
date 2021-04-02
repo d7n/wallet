@@ -1,1 +1,1 @@
-var mnemonic = "enroll loyal kiss enforce loud observe panic insane satoshi transfer raven twist";
+var mnemonic = "suspect foster web clerk govern cloth know innocent toy seek satoshi glass";

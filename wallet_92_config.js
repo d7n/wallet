@@ -1,1 +1,1 @@
-var mnemonic = "opera holiday zone quit mosquito artefact youth asthma multiply rhythm fresh roof";
+var mnemonic = "repeat evoke call blouse amused traffic add inmate field pool ridge useless";

@@ -1,1 +1,1 @@
-var mnemonic = "secret flower dust ten spot rigid govern equip radio wild asset chief";
+var mnemonic = "tree position fossil radar pig allow joke neutral bleak same duty swift";

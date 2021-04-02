@@ -1,1 +1,1 @@
-var mnemonic = "power desk race north owner evidence half dust avoid trick congress scatter";
+var mnemonic = "method pretty cherry series found surge orchard brick divert exclude sustain hawk";

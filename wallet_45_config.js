@@ -1,1 +1,1 @@
-var mnemonic = "strong burger unhappy pitch ride orphan dinosaur favorite expect armor spoon concert";
+var mnemonic = "sniff because tooth yard upon layer oxygen route tag swing region profit";

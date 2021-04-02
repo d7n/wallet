@@ -1,1 +1,1 @@
-var mnemonic = "miss romance grow denial wasp employ below film weekend must move fence";
+var mnemonic = "damage question pool rail repeat fee maid transfer float panel sleep fine";

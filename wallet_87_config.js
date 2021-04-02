@@ -1,1 +1,1 @@
-var mnemonic = "again side undo loan squeeze pass deliver ring extend comfort boss album";
+var mnemonic = "burden offer want uniform salt license hello stand until pluck minimum year";

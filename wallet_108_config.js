@@ -1,1 +1,1 @@
-var mnemonic = "practice mind title sadness crop relax face choice level humble coach code";
+var mnemonic = "merry velvet own shop plug half forward anger vessel lottery athlete sausage";

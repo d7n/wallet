@@ -1,1 +1,1 @@
-var mnemonic = "suspect scissors cook cattle power tackle enforce wife test regret tube claim";
+var mnemonic = "wrap year sing announce need snow tribe grant hand hood room nature";

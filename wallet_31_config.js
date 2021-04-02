@@ -1,1 +1,1 @@
-var mnemonic = "original kind dish bless inherit dance board sustain blanket major feed ritual";
+var mnemonic = "satisfy raw prison action black service dust water nasty same obtain sketch";

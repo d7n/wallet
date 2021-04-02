@@ -1,1 +1,1 @@
-var mnemonic = "relief number devote just dinner stem trouble crowd gospel amused enemy trial";
+var mnemonic = "onion minimum always matter ancient cotton popular hammer east egg raise three";

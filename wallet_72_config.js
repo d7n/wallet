@@ -1,1 +1,1 @@
-var mnemonic = "soap virus tissue taxi crew rival argue wisdom disease inspire famous helmet";
+var mnemonic = "judge gospel screen cake mimic permit rule volcano deal scene orange labor";

@@ -1,1 +1,1 @@
-var mnemonic = "then myself shaft very physical slice glue kangaroo sweet slice spy custom";
+var mnemonic = "direct onion fragile inspire daring render awesome hollow mom pink bulb broom";

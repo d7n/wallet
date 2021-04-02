@@ -1,1 +1,1 @@
-var mnemonic = "hurdle crime piano chalk name ramp involve job safe trumpet scrub absurd";
+var mnemonic = "blue coffee brisk worth spice charge betray fantasy despair chat hip lesson";

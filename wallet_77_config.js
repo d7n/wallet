@@ -1,1 +1,1 @@
-var mnemonic = "bread weird unhappy height tongue scale exhaust raccoon grocery update better mom";
+var mnemonic = "increase away force wink letter add usage ivory merge alert tunnel hero";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect online isolate journey arch marine snow rug antique shrug economy nut";
+var mnemonic = "tooth name crane tape away bracket soup clock elevator before parade type";

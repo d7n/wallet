@@ -1,1 +1,1 @@
-var mnemonic = "chronic mass float caution unusual cash dolphin paddle tourist fatal sport border";
+var mnemonic = "guilt cereal honey grain future learn wagon swallow search dirt blur proud";

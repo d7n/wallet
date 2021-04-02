@@ -1,1 +1,1 @@
-var mnemonic = "april gym sleep another vessel confirm next woman smart stomach nose memory";
+var mnemonic = "cigar perfect ritual silly cook text vendor move edge toy inquiry hope";

@@ -1,1 +1,1 @@
-var mnemonic = "inmate diamond select spare roast wink morning evidence live topic help swear";
+var mnemonic = "grit weapon hammer rent shy notable sponsor sphere yellow hundred visa finish";

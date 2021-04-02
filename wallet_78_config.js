@@ -1,1 +1,1 @@
-var mnemonic = "eight borrow cross pattern frozen shrimp ring ordinary mixture enrich lyrics able";
+var mnemonic = "lemon rapid addict ginger between plunge human orange gaze impose aerobic sunset";

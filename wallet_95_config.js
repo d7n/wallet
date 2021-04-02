@@ -1,1 +1,1 @@
-var mnemonic = "argue pulp what box nut enough lottery you south column autumn buzz";
+var mnemonic = "stereo confirm hospital mistake glad mango myself build organ parent kangaroo actor";

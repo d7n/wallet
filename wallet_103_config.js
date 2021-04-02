@@ -1,1 +1,1 @@
-var mnemonic = "trick person nasty coast ladder cat clinic music atom tone eager knock";
+var mnemonic = "barrel property idle refuse mule cheese night purity nature axis baby setup";

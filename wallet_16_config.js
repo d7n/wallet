@@ -1,1 +1,1 @@
-var mnemonic = "olympic february much phone double purchase wire bright weasel settle artefact lyrics";
+var mnemonic = "fatigue hello better way rich balcony erode practice shed wrist myth arm";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant thought true west romance spell injury lunch short melody bleak trick";
+var mnemonic = "eternal affair divorce smoke plunge mean business acid mandate grit dutch adult";

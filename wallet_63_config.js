@@ -1,1 +1,1 @@
-var mnemonic = "train color deputy jealous hungry phrase mechanic permit dry half resemble barrel";
+var mnemonic = "around inside canoe dirt pilot trophy harsh coral empty crash lady under";

@@ -1,1 +1,1 @@
-var mnemonic = "fade truth denial crazy retreat poem find cute pet swim action aim";
+var mnemonic = "bless clay loud medal doll script nest chapter imitate purchase festival skate";

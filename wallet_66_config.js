@@ -1,1 +1,1 @@
-var mnemonic = "silent cousin else setup imitate noble usage welcome lawsuit follow fade cake";
+var mnemonic = "genre fish present blanket rare rotate enable middle marriage worry ostrich slam";

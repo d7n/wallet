@@ -1,1 +1,1 @@
-var mnemonic = "nurse march butter faint force predict update rib crowd arch table there";
+var mnemonic = "tuna ethics plug unusual slogan salt refuse north promote nose hunt west";

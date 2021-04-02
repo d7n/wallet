@@ -1,1 +1,1 @@
-var mnemonic = "horn skate luxury suffer prison casino dial joke among license flock few";
+var mnemonic = "early width six repair turn cherry trade auction diet help page try";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal immense crucial stable alcohol lab hollow arm joy pigeon work exercise";
+var mnemonic = "nominee depend federal spread scan furnace note word chest steel kingdom cheap";

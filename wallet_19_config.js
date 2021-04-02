@@ -1,1 +1,1 @@
-var mnemonic = "income canvas resource beauty ski federal copper pave room clean winter early";
+var mnemonic = "winner notable buddy fine caution enlist teach coil phrase actual clog rule";

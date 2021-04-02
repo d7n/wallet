@@ -1,1 +1,1 @@
-var mnemonic = "team outside bunker spot correct cabin material picture salute omit hamster token";
+var mnemonic = "modify away stove oak shine erosion refuse fox layer domain milk appear";

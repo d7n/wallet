@@ -1,1 +1,1 @@
-var mnemonic = "wonder deposit immune tuition much upset inquiry traffic invest grant cash appear";
+var mnemonic = "distance shock will dentist snack found spring elephant number buyer man rose";

@@ -1,1 +1,1 @@
-var mnemonic = "scale radio gentle require avocado miracle music drill swim second toy cat";
+var mnemonic = "floor liar marriage exit mind asset high turtle manage orbit ability snack";

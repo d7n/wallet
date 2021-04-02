@@ -1,1 +1,1 @@
-var mnemonic = "mammal stereo lend lion stumble rookie duck offer sell will drive lake";
+var mnemonic = "expand model alien lawn fresh demise soup news indicate chat lawn body";

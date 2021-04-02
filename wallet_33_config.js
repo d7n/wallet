@@ -1,1 +1,1 @@
-var mnemonic = "grant just glow auto volume sugar magic girl lesson canoe afford horror";
+var mnemonic = "range never transfer prevent oak stool addict unfold current man afraid cactus";

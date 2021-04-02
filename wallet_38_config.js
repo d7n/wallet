@@ -1,1 +1,1 @@
-var mnemonic = "rifle economy circle lens easily quick suspect quit pink blouse subject fish";
+var mnemonic = "journey mouse book suffer define obey general about curve key that mango";

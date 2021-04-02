@@ -1,1 +1,1 @@
-var mnemonic = "welcome fluid girl cloth raccoon post rally adapt logic infant logic manual";
+var mnemonic = "together fall jungle protect fit liquid leopard record melody course usage truck";

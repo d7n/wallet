@@ -1,1 +1,1 @@
-var mnemonic = "churn outer pair curve end ship space young tattoo oven curious device";
+var mnemonic = "hunt valve enhance report cricket spot advance talent art summer stomach provide";

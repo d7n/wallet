@@ -1,1 +1,1 @@
-var mnemonic = "unusual mirror defy shuffle engine possible hint glide kidney clock design scene";
+var mnemonic = "visa document cloud pulp room cushion mask garlic soap lock cigar impose";

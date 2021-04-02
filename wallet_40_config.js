@@ -1,1 +1,1 @@
-var mnemonic = "ozone uncover gravity side because key impact hidden nominee leopard debris phone";
+var mnemonic = "position art number devote purchase bleak hole board zero vapor swap tell";

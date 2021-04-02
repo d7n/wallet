@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow priority spy oxygen sadness indoor climb panda behind romance minute school";
+var mnemonic = "region affair seek rude stand amount abstract liberty kiwi lion lamp asset";

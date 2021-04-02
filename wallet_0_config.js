@@ -1,1 +1,1 @@
-var mnemonic = "leg isolate lens hurt hybrid stay genius final federal drop immune feed";
+var mnemonic = "angle bonus breeze ring scout claim pole very seek select primary bird";

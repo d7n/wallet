@@ -1,1 +1,1 @@
-var mnemonic = "deposit pipe ghost seed manual feel jazz awesome arrow crane wall run";
+var mnemonic = "panda pistol uniform target egg palm vanish entry aim install bind eyebrow";

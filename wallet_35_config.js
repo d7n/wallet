@@ -1,1 +1,1 @@
-var mnemonic = "sudden yard rally island item coast brisk spell dignity admit poverty faculty";
+var mnemonic = "across health grow buyer delay address muffin middle army desert swallow canal";

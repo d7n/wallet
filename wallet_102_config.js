@@ -1,1 +1,1 @@
-var mnemonic = "offer credit sure limb profit fan addict decide island panther what upset";
+var mnemonic = "heart parrot know hill toy abuse glide disease smooth meadow song island";

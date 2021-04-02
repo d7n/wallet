@@ -1,1 +1,1 @@
-var mnemonic = "online key cream ocean melt year fiscal sauce steel embody prison nest";
+var mnemonic = "arm dinner math such chat cloth predict sample rib aisle there ready";

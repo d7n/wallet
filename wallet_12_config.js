@@ -1,1 +1,1 @@
-var mnemonic = "skate stage hero answer net fine fun slogan anger chief walnut impose";
+var mnemonic = "denial hello bench diamond then boil dilemma someone sister drift shallow usual";

@@ -1,1 +1,1 @@
-var mnemonic = "survey panther drama wonder field net pretty weather tube female drastic oven";
+var mnemonic = "tent unlock heart yard path before dress describe physical infant pyramid trap";

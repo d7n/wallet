@@ -1,1 +1,1 @@
-var mnemonic = "fresh myth salt vault raven gravity deer wait tiger illegal crime atom";
+var mnemonic = "gun remind talk wait frozen whisper rabbit sugar stand chunk disorder camera";

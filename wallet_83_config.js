@@ -1,1 +1,1 @@
-var mnemonic = "pluck engage result history loud garlic main fault duck old fancy fitness";
+var mnemonic = "year exotic health mean insect tooth report such shift loan fog wrestle";

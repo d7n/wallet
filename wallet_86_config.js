@@ -1,1 +1,1 @@
-var mnemonic = "intact message provide wire monster spatial dirt dial total quick volcano stereo";
+var mnemonic = "army left bronze where empower exile meat invite dry soon bomb fly";

@@ -1,1 +1,1 @@
-var mnemonic = "clump rural typical merry salute budget vocal roof abuse census wash word";
+var mnemonic = "crazy tube alley truly brown control captain dance venue paper mom cause";

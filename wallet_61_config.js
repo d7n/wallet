@@ -1,1 +1,1 @@
-var mnemonic = "ramp under glide decorate melt robust giraffe easily pipe victory bulk polar";
+var mnemonic = "foil scout split flat web million quote narrow pole neck brave spot";

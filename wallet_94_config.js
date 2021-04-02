@@ -1,1 +1,1 @@
-var mnemonic = "symptom laundry injury cradle chuckle giant response tilt venture exact cactus ticket";
+var mnemonic = "gather chapter pelican few area net garment pole pretty fringe dice bind";

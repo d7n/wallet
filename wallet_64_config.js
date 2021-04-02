@@ -1,1 +1,1 @@
-var mnemonic = "chaos train flock exact giraffe witness replace lunch chest soul crawl chest";
+var mnemonic = "pride toast ice seek almost adult news price size sadness sample found";

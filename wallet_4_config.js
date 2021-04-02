@@ -1,1 +1,1 @@
-var mnemonic = "profit injury very junior token second hedgehog simple mansion cook vacuum decide";
+var mnemonic = "hint price hip lucky tank siege asset width foster emerge increase engage";

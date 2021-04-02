@@ -1,1 +1,1 @@
-var mnemonic = "muffin reject right diagram clutch zoo panda curious candy toy young infant";
+var mnemonic = "neither come foot equal cricket bind gate sausage pyramid timber whip smooth";

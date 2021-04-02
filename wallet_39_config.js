@@ -1,1 +1,1 @@
-var mnemonic = "neither fever divorce differ spend aware surface dutch sell actress inmate certain";
+var mnemonic = "primary nerve mad stool coconut estate derive tray century shoulder syrup palm";

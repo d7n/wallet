@@ -1,1 +1,1 @@
-var mnemonic = "runway hunt unaware profit license turn pet sweet hand example impact extend";
+var mnemonic = "predict limit earth bonus material fortune favorite picture slight cabin ugly season";

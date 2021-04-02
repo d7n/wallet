@@ -1,1 +1,1 @@
-var mnemonic = "swear confirm ice elephant viable live nurse hope banner mouse organ identify";
+var mnemonic = "distance tent escape clock jelly stem sugar mixture scare mule filter tower";

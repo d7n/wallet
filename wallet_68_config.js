@@ -1,1 +1,1 @@
-var mnemonic = "annual drill estate critic silent position slim current piano retreat copy sauce";
+var mnemonic = "account hurdle south city torch now about fresh hen limit soup useful";

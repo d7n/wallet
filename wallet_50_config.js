@@ -1,1 +1,1 @@
-var mnemonic = "image oyster tower lawsuit sign risk rule orange run kit phone sample";
+var mnemonic = "door muscle burden output cattle depart donor aim wage maid attract shoot";

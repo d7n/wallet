@@ -1,1 +1,1 @@
-var mnemonic = "clarify own brick wrong vicious guess cake thumb dismiss caught trap isolate";
+var mnemonic = "gallery bitter right round broccoli elite icon deputy welcome purse foot sure";

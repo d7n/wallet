@@ -1,1 +1,1 @@
-var mnemonic = "hotel girl address summer earn loan exchange inmate spider deputy science mule";
+var mnemonic = "uncover pig neutral tuna desk rocket swarm off thought hub author salt";

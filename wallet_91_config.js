@@ -1,1 +1,1 @@
-var mnemonic = "weekend enhance property odor brother matter pony boost income explain spirit bomb";
+var mnemonic = "flash bounce ritual truly improve social cluster liberty virus brain project wing";

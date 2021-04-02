@@ -1,1 +1,1 @@
-var mnemonic = "trade copper cradle tide put kit medal want exist slight wealth virtual";
+var mnemonic = "mercy bitter sword ghost ensure club ridge capital dice cost wait metal";

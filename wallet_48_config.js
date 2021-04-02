@@ -1,1 +1,1 @@
-var mnemonic = "search task simple mesh ignore coconut embark diesel holiday gravity damp flame";
+var mnemonic = "quick toy kingdom online master tell crop grit dream prepare caught rabbit";

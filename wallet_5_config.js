@@ -1,1 +1,1 @@
-var mnemonic = "shoot churn develop nothing hockey reopen receive warfare flip identify repeat snack";
+var mnemonic = "coach injury cabin ecology move oxygen render absent rely name sibling clutch";

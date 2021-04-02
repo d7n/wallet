@@ -1,1 +1,1 @@
-var mnemonic = "eagle toward nature length river zone sun brown quantum traffic camp reunion";
+var mnemonic = "cram cotton just trick picnic yellow burger neglect main attack ketchup valve";

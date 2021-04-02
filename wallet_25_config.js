@@ -1,1 +1,1 @@
-var mnemonic = "siren patch behind siren diagram theory nice pass tower artist spot garden";
+var mnemonic = "evidence protect absurd tuna trouble weekend damage pluck saddle double betray mechanic";
