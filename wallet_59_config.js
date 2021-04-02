@@ -1,1 +1,1 @@
-var mnemonic = "north enlist august limit major curious story east rally happy group number";
+var mnemonic = "trial home street elder very camp lecture empty sword bottom expose invite";

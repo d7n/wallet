@@ -1,1 +1,1 @@
-var mnemonic = "obvious transfer ancient forum only ask entry ranch jeans annual document print";
+var mnemonic = "theme wall phone decade dynamic sketch busy ribbon apart crane sugar toe";

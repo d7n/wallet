@@ -1,1 +1,1 @@
-var mnemonic = "transfer egg awful bleak drama oven quick inject lab expose emerge spider";
+var mnemonic = "monkey capital pony gentle patient father into maple grunt course august panther";

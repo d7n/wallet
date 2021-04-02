@@ -1,1 +1,1 @@
-var mnemonic = "glow rack census hobby top biology shine ahead follow radio fun mandate";
+var mnemonic = "flavor make gossip solar earth raccoon goose taste concert mango fortune rhythm";

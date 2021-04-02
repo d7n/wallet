@@ -1,1 +1,1 @@
-var mnemonic = "coyote reflect buddy december cause dismiss culture rude trust deposit cheese film";
+var mnemonic = "false paper inmate galaxy test bar blanket dutch country cushion adapt fitness";

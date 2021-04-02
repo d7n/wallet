@@ -1,1 +1,1 @@
-var mnemonic = "upon engine other ladder inside image resource turtle tobacco aisle oil never";
+var mnemonic = "cheese sketch siege food point multiply law pattern visit include tribe ability";

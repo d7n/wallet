@@ -1,1 +1,1 @@
-var mnemonic = "accuse cloth history speed home elite velvet regret private wrestle asthma road";
+var mnemonic = "alert impose skirt benefit hood vendor puppy cycle chuckle cart urban lesson";

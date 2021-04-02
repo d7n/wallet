@@ -1,1 +1,1 @@
-var mnemonic = "hazard cancel inner solid payment rubber battle awesome bench life sorry abuse";
+var mnemonic = "siren thought ocean wire social dirt naive entire bottom upon rival must";

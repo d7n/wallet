@@ -1,1 +1,1 @@
-var mnemonic = "sail way debris degree satisfy twin limit bottom physical benefit awful lunch";
+var mnemonic = "above cross odor habit latin cute bar squeeze blossom swallow lyrics enforce";

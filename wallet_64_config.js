@@ -1,1 +1,1 @@
-var mnemonic = "title blast thrive toast shuffle retreat sure rug letter secret intact narrow";
+var mnemonic = "girl deposit tilt prosper later gravity asset antique measure discover later custom";

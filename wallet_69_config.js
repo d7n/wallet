@@ -1,1 +1,1 @@
-var mnemonic = "amount usage actual vanish anxiety melody dizzy surge fine ring student law";
+var mnemonic = "train defy fantasy lobster across rabbit fatal museum thumb stone hurdle negative";

@@ -1,1 +1,1 @@
-var mnemonic = "morning cargo impact silly arm year bundle truly flush organ barrel film";
+var mnemonic = "shadow chuckle fit wisdom sock morning topple swear unknown sight current jelly";

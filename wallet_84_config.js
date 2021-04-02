@@ -1,1 +1,1 @@
-var mnemonic = "milk day winner trend alcohol flight blouse circle ethics struggle window illness";
+var mnemonic = "vocal matrix alert gift kite recycle gas dice fancy kiss creek chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar build victory latin cancel one wise envelope bag reject human gospel";
+var mnemonic = "slice father aware sport pave cruise make remember child supply coast wild";

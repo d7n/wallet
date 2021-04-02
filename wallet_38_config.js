@@ -1,1 +1,1 @@
-var mnemonic = "paper mind beach ghost unveil bronze wise violin page ship scene era";
+var mnemonic = "bring gather drastic vendor ahead private normal kitchen mirror deliver goddess tail";

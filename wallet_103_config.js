@@ -1,1 +1,1 @@
-var mnemonic = "dry prize want palm menu often library banana boss vacuum fire actress";
+var mnemonic = "amount impulse throw burger toss orbit orchard coral expire youth genius track";

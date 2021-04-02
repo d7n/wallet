@@ -1,1 +1,1 @@
-var mnemonic = "reduce amused plug spare universe spare vote curve fly unfold curve intact";
+var mnemonic = "surprise end story yard cargo orient crew island lizard bridge ketchup spell";

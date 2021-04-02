@@ -1,1 +1,1 @@
-var mnemonic = "loan throw sound priority glare item advice despair wave patrol abuse dragon";
+var mnemonic = "work include idle all topple liar goat people cute rotate grit leg";

@@ -1,1 +1,1 @@
-var mnemonic = "couch pioneer day loan steel game inch paddle raccoon enlist margin nurse";
+var mnemonic = "civil entry arrive entry ship cute nature now despair silk account cable";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe casino student bargain marriage monster raise horror cancel globe iron salon";
+var mnemonic = "open degree wolf payment option tag thunder rib recycle festival force citizen";

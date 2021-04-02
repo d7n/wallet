@@ -1,1 +1,1 @@
-var mnemonic = "piece mercy mother rent lazy gold umbrella waste impose say glad ahead";
+var mnemonic = "crumble brass before federal infant soap deny recall wire pepper doll mother";

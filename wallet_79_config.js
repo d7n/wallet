@@ -1,1 +1,1 @@
-var mnemonic = "spirit gather fee reason jacket trim gorilla adapt burst ritual near pilot";
+var mnemonic = "adjust nasty letter flag unfold loop ethics awkward galaxy erosion inject like";

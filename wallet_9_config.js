@@ -1,1 +1,1 @@
-var mnemonic = "exhaust ride again duck empty kiss yellow salad region delay tiny neutral";
+var mnemonic = "truck crumble drift better build carbon shoot trap middle real say casino";

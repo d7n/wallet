@@ -1,1 +1,1 @@
-var mnemonic = "emerge pudding effort impose entire health squeeze lens board skin exile broccoli";
+var mnemonic = "curious stay sauce copper blame clutch laugh invest reject fork swear any";

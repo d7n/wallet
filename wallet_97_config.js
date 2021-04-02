@@ -1,1 +1,1 @@
-var mnemonic = "borrow kitchen foam aim inner scorpion put gold vehicle evoke dice enlist";
+var mnemonic = "drama avocado state stand shrug mouse circle empower soul barely other ability";

@@ -1,1 +1,1 @@
-var mnemonic = "latin seek vivid wet arm surprise control essay desk profit brown flash";
+var mnemonic = "clap patrol net alter garment useful wall yard idea forget onion auto";

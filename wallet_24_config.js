@@ -1,1 +1,1 @@
-var mnemonic = "crack foot bridge negative way dumb afraid episode summer column share mushroom";
+var mnemonic = "question initial tumble fetch oyster hedgehog write discover trigger cigar kid once";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong biology essay lake silent already federal story shuffle hip payment mix";
+var mnemonic = "city suit region track picnic evidence tuna burden damp tree garbage celery";

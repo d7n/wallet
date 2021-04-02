@@ -1,1 +1,1 @@
-var mnemonic = "habit addict dream bounce shove sniff erupt fever believe ripple raccoon range";
+var mnemonic = "noodle peace priority unveil forward enforce champion canal cupboard detect panther muscle";

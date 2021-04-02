@@ -1,1 +1,1 @@
-var mnemonic = "casino foil student scheme mother clerk whisper profit hawk opinion quality clay";
+var mnemonic = "symbol age elbow organ sustain swing that apple behind aunt audit giant";

@@ -1,1 +1,1 @@
-var mnemonic = "outside onion alcohol lyrics soap usual tattoo neither rescue property lecture walk";
+var mnemonic = "reflect jewel stem trick damp infant deposit inmate mix alarm credit neither";

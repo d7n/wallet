@@ -1,1 +1,1 @@
-var mnemonic = "bargain beef meat bid find goose soup again refuse fine flight lawsuit";
+var mnemonic = "genuine right gentle raven sniff party theory chalk possible scorpion space mango";

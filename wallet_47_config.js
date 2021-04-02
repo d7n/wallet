@@ -1,1 +1,1 @@
-var mnemonic = "image fuel music connect happy february cabbage dash click fog whale school";
+var mnemonic = "hard autumn salt shy extend hybrid hockey journey couch permit cannon convince";

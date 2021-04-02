@@ -1,1 +1,1 @@
-var mnemonic = "work sense oblige artwork warfare clock error cluster guilt medal evoke economy";
+var mnemonic = "where install music picnic season across occur worry recycle purity isolate try";

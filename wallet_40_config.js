@@ -1,1 +1,1 @@
-var mnemonic = "wage exhibit cube champion sure ride song gospel pyramid between sister bone";
+var mnemonic = "diary blush essence hollow genuine page practice make wedding symbol loan return";

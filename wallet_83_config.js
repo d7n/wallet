@@ -1,1 +1,1 @@
-var mnemonic = "uncover powder gadget key tortoise tattoo ripple wink primary sort blouse soul";
+var mnemonic = "demand enforce uncover three boring matrix dismiss another hire twist banner intact";

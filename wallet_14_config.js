@@ -1,1 +1,1 @@
-var mnemonic = "dutch attract coin chest color quality beach kid penalty fan invest table";
+var mnemonic = "seminar vehicle muscle amateur razor mix section budget mutual alien taste system";

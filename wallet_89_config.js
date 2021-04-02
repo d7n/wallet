@@ -1,1 +1,1 @@
-var mnemonic = "grunt voice flight trim flag click coral limit logic lock zero potato";
+var mnemonic = "stadium flee echo stable wheat matrix edge police rose patch phrase food";

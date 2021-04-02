@@ -1,1 +1,1 @@
-var mnemonic = "crush very steak spare tell heavy slogan merry exercise job curve course";
+var mnemonic = "subject sell symbol bounce loop catch despair flat stuff basket omit table";

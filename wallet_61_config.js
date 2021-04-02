@@ -1,1 +1,1 @@
-var mnemonic = "climb prepare phrase fatigue fold identify bounce nation pact hard garlic detail";
+var mnemonic = "oval cannon announce this rubber usage ghost dog found dignity fold tomato";

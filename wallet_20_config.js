@@ -1,1 +1,1 @@
-var mnemonic = "gather build defy game wait comfort message gospel picture ocean walk daring";
+var mnemonic = "thing general bag thumb flip online mesh hammer child mule runway pumpkin";

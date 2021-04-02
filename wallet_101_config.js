@@ -1,1 +1,1 @@
-var mnemonic = "laundry foam enforce attract together predict scissors shrug fabric teach process submit";
+var mnemonic = "claim hazard stable industry diagram wide already imitate ethics return coconut city";

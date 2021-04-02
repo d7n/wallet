@@ -1,1 +1,1 @@
-var mnemonic = "item rib peanut crystal plug identify right prison clown cargo voice arrive";
+var mnemonic = "void salute february orange cave dinosaur spell claw shed reopen picture unable";

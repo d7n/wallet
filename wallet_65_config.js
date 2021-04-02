@@ -1,1 +1,1 @@
-var mnemonic = "soccer fold arrow scheme salad rare robust brown weasel voyage thought grow";
+var mnemonic = "minute post frame frozen equal fault bronze unveil identify awful view click";

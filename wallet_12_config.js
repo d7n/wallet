@@ -1,1 +1,1 @@
-var mnemonic = "hover weather text like balcony purity begin into embody reduce modify limit";
+var mnemonic = "pilot dirt hidden deer fold advance stamp acquire bubble dirt athlete simple";

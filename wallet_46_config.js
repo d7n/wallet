@@ -1,1 +1,1 @@
-var mnemonic = "dolphin reward earn ribbon creek pencil want ripple chest ankle nature type";
+var mnemonic = "mixed aerobic chimney melt degree patch drill margin jaguar wrist castle disorder";

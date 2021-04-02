@@ -1,1 +1,1 @@
-var mnemonic = "net surprise wing clutch screen deer lottery twin celery toddler now shine";
+var mnemonic = "question art guess ignore ugly steak wood melody detail run settle crunch";

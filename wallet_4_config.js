@@ -1,1 +1,1 @@
-var mnemonic = "cradle diamond material canvas reunion youth idea police alien jacket fix peace";
+var mnemonic = "protect own prefer velvet mistake orchard insane useless people limit shaft rifle";

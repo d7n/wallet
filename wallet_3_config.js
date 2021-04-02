@@ -1,1 +1,1 @@
-var mnemonic = "business addict sadness excuse faint pretty purchase crush fossil aisle add major";
+var mnemonic = "glue high tomorrow jeans syrup fancy acid below ginger news cute rotate";

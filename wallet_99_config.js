@@ -1,1 +1,1 @@
-var mnemonic = "broccoli promote pottery banner warm want usage organ green supply found panda";
+var mnemonic = "accident inherit error path lonely other accuse tape outdoor slush shell skirt";

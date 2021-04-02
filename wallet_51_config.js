@@ -1,1 +1,1 @@
-var mnemonic = "wash initial cool laptop wife angry delay child fame plug crash congress";
+var mnemonic = "vault daughter wheel route chalk earth document depth example sleep assist ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace guilt kingdom digital miracle twelve domain jungle craft mistake lottery sketch";
+var mnemonic = "roof anxiety plastic elbow agent cute puzzle blame orbit unique hundred axis";

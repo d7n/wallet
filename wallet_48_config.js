@@ -1,1 +1,1 @@
-var mnemonic = "relax birth aerobic fantasy excuse tiger wink dynamic bid excess replace inhale";
+var mnemonic = "desk neck guard viable end banana false easily once rigid eye sand";

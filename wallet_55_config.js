@@ -1,1 +1,1 @@
-var mnemonic = "infant document layer table science connect humor genius rain hold only travel";
+var mnemonic = "hospital crime mountain reflect metal flight devote snap day result hidden post";

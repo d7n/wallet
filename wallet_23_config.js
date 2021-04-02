@@ -1,1 +1,1 @@
-var mnemonic = "tourist tunnel bicycle oval nose lift boy list trust wish club void";
+var mnemonic = "north witness trust mad host category cigar gorilla tenant tone verb please";

@@ -1,1 +1,1 @@
-var mnemonic = "brave despair taxi view flower beyond response obey absent stage ball stuff";
+var mnemonic = "shift foster demise know marriage around guard chicken canvas inspire smart rent";

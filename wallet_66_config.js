@@ -1,1 +1,1 @@
-var mnemonic = "gentle eight state soft urge air ethics enlist useful next garage drill";
+var mnemonic = "tide relief aisle wing deposit main world hard unaware spawn uphold shift";

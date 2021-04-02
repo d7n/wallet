@@ -1,1 +1,1 @@
-var mnemonic = "apple clarify recall certain push sustain elephant anger crew candy opera piano";
+var mnemonic = "inside holiday tilt hurt body couple ask fiber whale dentist toy you";

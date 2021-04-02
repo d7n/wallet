@@ -1,1 +1,1 @@
-var mnemonic = "noodle fork stick fire nuclear bounce possible sword cancel bread sponsor woman";
+var mnemonic = "range account apology infant strong crop amount level grab civil bulb amused";

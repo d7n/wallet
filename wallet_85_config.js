@@ -1,1 +1,1 @@
-var mnemonic = "sword narrow pioneer denial chef message lazy excite kingdom hair reject rookie";
+var mnemonic = "fence tennis fetch brave sing flee hand timber wet crucial trip logic";

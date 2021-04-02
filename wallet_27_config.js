@@ -1,1 +1,1 @@
-var mnemonic = "final deer exchange upon this black festival already front hub leader silent";
+var mnemonic = "kind rapid milk patient dial ghost alter arena process alter column produce";

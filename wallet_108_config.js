@@ -1,1 +1,1 @@
-var mnemonic = "recipe ski elephant nephew surround cube general pretty awesome estate produce kind";
+var mnemonic = "dizzy nerve reason bless moon become lake easy certain brief raven gallery";

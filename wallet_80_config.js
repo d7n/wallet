@@ -1,1 +1,1 @@
-var mnemonic = "tide control drastic vibrant solar chief blast trust square idle shed cake";
+var mnemonic = "cargo myself gesture surge spoil height balance entire abstract play bubble drift";

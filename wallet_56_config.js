@@ -1,1 +1,1 @@
-var mnemonic = "pool force wagon short novel manage candy strategy cattle glass cereal west";
+var mnemonic = "hair kitchen drum enroll tone only indicate penalty awesome eye check talk";

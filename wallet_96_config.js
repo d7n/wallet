@@ -1,1 +1,1 @@
-var mnemonic = "ivory rough mushroom choice witness pioneer diamond melody current decorate oval grief";
+var mnemonic = "ring oval aim gauge cabin artwork walnut neglect march tower catch include";

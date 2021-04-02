@@ -1,1 +1,1 @@
-var mnemonic = "similar chalk situate flip shift other valid slogan goat lava alarm acquire";
+var mnemonic = "budget hen middle blade couple vague endless try moon dance toss innocent";

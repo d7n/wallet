@@ -1,1 +1,1 @@
-var mnemonic = "sorry fantasy topple tomorrow velvet unable town grain tip spy job praise";
+var mnemonic = "shrug about injury impose vast trigger mushroom blossom kick traffic enlist soccer";

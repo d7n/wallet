@@ -1,1 +1,1 @@
-var mnemonic = "enough rely whip april ozone cabbage suffer accident rabbit army warfare oval";
+var mnemonic = "calm vessel supreme cry slim myself wrong song kiss only twin hole";

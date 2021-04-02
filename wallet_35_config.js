@@ -1,1 +1,1 @@
-var mnemonic = "sauce crop tuna phrase diesel primary amused digital device awesome short false";
+var mnemonic = "comic either crane age clock input top eagle trumpet frequent project vibrant";

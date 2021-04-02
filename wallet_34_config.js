@@ -1,1 +1,1 @@
-var mnemonic = "gossip differ winter say reveal cool magic embrace thumb flat expose zoo";
+var mnemonic = "buffalo spice mandate mansion oblige enforce royal shrimp heavy stem injury dad";

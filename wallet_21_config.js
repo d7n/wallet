@@ -1,1 +1,1 @@
-var mnemonic = "shift maid few shallow earth total feel flag math common spy source";
+var mnemonic = "merry furnace area material mystery melt maximum tortoise gift mercy brick view";

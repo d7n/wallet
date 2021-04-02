@@ -1,1 +1,1 @@
-var mnemonic = "century spawn arena diesel join tank obey solid mystery client credit census";
+var mnemonic = "forward win potato pattern ribbon leader foil giggle taxi zone milk sure";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard basket field license truck twice human maximum notice shoulder purse drill";
+var mnemonic = "style material knock plastic fortune coconut wire among pole capital popular saddle";

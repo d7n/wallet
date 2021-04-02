@@ -1,1 +1,1 @@
-var mnemonic = "enjoy pilot ketchup wise rare clutch choice trap vault memory frown cradle";
+var mnemonic = "cruel whisper slim maximum trust reunion destroy place debate spoil close frost";

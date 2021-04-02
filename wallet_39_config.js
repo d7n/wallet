@@ -1,1 +1,1 @@
-var mnemonic = "noble brown clump paper very hurdle suspect sniff stamp vital gift spin";
+var mnemonic = "cake napkin music identify unique exotic gauge lens half nest speed famous";

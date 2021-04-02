@@ -1,1 +1,1 @@
-var mnemonic = "ancient beach flower buzz have pattern crucial luxury dentist that pave erupt";
+var mnemonic = "noise canvas domain seven flavor laptop add session ensure consider help disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "skill innocent boy distance cotton basket wonder skin retire girl sting name";
+var mnemonic = "quick fall session another metal rebel party crouch rely mammal click unfair";

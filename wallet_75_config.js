@@ -1,1 +1,1 @@
-var mnemonic = "industry present draw horror verb denial whale lunar firm sorry album grain";
+var mnemonic = "win empower legend beauty club crucial nominee park alcohol famous develop foster";

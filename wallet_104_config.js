@@ -1,1 +1,1 @@
-var mnemonic = "subject bleak output glove famous chimney fence metal electric together usage captain";
+var mnemonic = "sword actress deer visa stage attend hawk skill typical half wool canoe";

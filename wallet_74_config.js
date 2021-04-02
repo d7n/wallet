@@ -1,1 +1,1 @@
-var mnemonic = "toe educate brother alley human trade toast crazy uphold boy system daughter";
+var mnemonic = "upgrade juice bronze build pupil six act have custom old panda brave";

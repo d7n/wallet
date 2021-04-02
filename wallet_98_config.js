@@ -1,1 +1,1 @@
-var mnemonic = "tennis you clutch list shock correct pact shrug real deer tongue crisp";
+var mnemonic = "lesson certain place banana dawn machine faith awkward segment bleak parade jazz";

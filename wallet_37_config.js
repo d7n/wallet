@@ -1,1 +1,1 @@
-var mnemonic = "position speed uncle lamp shop retire clump ring exercise brave ahead glide";
+var mnemonic = "fish strike airport stuff glue silent rough plunge almost staff submit differ";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture express mountain avoid ball stable magnet alpha like edge ranch inhale";
+var mnemonic = "judge physical noise off exotic tongue sponsor ghost relief grow buddy eight";

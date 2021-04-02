@@ -1,1 +1,1 @@
-var mnemonic = "oppose tongue orbit knock bind column inhale thought brief business treat basic";
+var mnemonic = "second royal dinosaur idle glimpse kind attack assault loop merry push meat";

@@ -1,1 +1,1 @@
-var mnemonic = "oil left summer alarm entire isolate sibling smoke van hobby fuel alone";
+var mnemonic = "abuse lemon artist couple liquid super tent arrest turn flight fly rural";

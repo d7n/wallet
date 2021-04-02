@@ -1,1 +1,1 @@
-var mnemonic = "vehicle make undo repeat ahead shift glass second correct slow friend average";
+var mnemonic = "task hammer can fall wrong have outdoor census warfare chat keen prize";
