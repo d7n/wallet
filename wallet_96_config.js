@@ -1,1 +1,1 @@
-var mnemonic = "pulse protect comic laundry voice devote buffalo cross plastic boost nerve receive";
+var mnemonic = "film bench old swear bring rubber weather cook clock fitness popular rocket";

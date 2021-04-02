@@ -1,1 +1,1 @@
-var mnemonic = "enjoy parade smile coast symptom gorilla under measure cushion initial dirt okay";
+var mnemonic = "enhance marriage vapor mother roast goat reject now exist never nice sting";

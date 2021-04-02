@@ -1,1 +1,1 @@
-var mnemonic = "situate web gentle cushion north install foster solar someone candy arrive april";
+var mnemonic = "august fury improve country acid quality nation cloth female flame fruit provide";

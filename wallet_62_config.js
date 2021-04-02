@@ -1,1 +1,1 @@
-var mnemonic = "scorpion tourist sketch fame various absurd stem obey rain tunnel talk derive";
+var mnemonic = "miss ability fitness swing robust ketchup six already trip prosper gaze worry";

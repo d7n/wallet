@@ -1,1 +1,1 @@
-var mnemonic = "else rain used feel destroy start exist nothing exotic leaf jacket license";
+var mnemonic = "album dove slush mean penalty faint solar bid gain flush carbon resource";

@@ -1,1 +1,1 @@
-var mnemonic = "account obey emerge depend skate virtual lizard tired gap conduct spell confirm";
+var mnemonic = "west crop camera spot vacant earth hole moral wheat raise wolf lecture";

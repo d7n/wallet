@@ -1,1 +1,1 @@
-var mnemonic = "hospital sick basic siege boss canyon artefact gaze coffee penalty explain gallery";
+var mnemonic = "fringe wife very episode seek head cricket vocal fever episode cause crash";

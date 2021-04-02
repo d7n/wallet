@@ -1,1 +1,1 @@
-var mnemonic = "loan stomach bone track retreat canal equip today melt garment duty hand";
+var mnemonic = "coin face decorate ecology stamp build mechanic still donor neutral salmon spend";

@@ -1,1 +1,1 @@
-var mnemonic = "later diagram beyond fork horn switch genre jaguar brisk slender visa defy";
+var mnemonic = "observe insect topic brick strike armed method critic sense grit tube fee";

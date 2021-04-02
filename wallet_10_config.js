@@ -1,1 +1,1 @@
-var mnemonic = "sure submit olive cycle slush drum opera summer coral cannon spy radio";
+var mnemonic = "element camp few balcony wish meadow amount lend coil track wild abuse";

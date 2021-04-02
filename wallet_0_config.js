@@ -1,1 +1,1 @@
-var mnemonic = "surround orange pear side gloom rapid shop mystery dust job theme rotate";
+var mnemonic = "chase manual odor share marriage next dust kind execute session rich business";

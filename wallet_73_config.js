@@ -1,1 +1,1 @@
-var mnemonic = "february black olive bean island course grid pave gold glass erode economy";
+var mnemonic = "awake sudden equal fame test opinion rural regret there fan shadow fold";

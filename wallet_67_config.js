@@ -1,1 +1,1 @@
-var mnemonic = "mesh window front keen perfect orient earth evoke assume goose brief casino";
+var mnemonic = "ripple yellow live solar ivory buffalo oak library cross grief observe draft";

@@ -1,1 +1,1 @@
-var mnemonic = "canal scheme bridge awkward protect purchase spirit own crisp air wait damp";
+var mnemonic = "word yellow shop alcohol over cheap measure trim annual noise august zebra";

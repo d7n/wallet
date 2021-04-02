@@ -1,1 +1,1 @@
-var mnemonic = "ginger receive topic anchor situate ancient differ invite until caught board uniform";
+var mnemonic = "amateur empty emerge scrap eye walnut paddle crime engine faculty picnic fury";

@@ -1,1 +1,1 @@
-var mnemonic = "message fat stick oyster soon slice zebra green rotate ribbon pulse exotic";
+var mnemonic = "frame fix screen butter manual attend dog close salon seek grape couch";

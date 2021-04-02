@@ -1,1 +1,1 @@
-var mnemonic = "dismiss mother alter host cinnamon glare bus end false current police process";
+var mnemonic = "bargain fall car across nut page diagram grab name exchange private river";

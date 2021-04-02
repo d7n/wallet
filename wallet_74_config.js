@@ -1,1 +1,1 @@
-var mnemonic = "arrange tower keep lion sphere perfect catalog curve amused cannon grief client";
+var mnemonic = "legend truly about venture crisp patch ask attract wheat retreat culture nothing";

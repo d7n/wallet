@@ -1,1 +1,1 @@
-var mnemonic = "post december lab sudden expire lady govern case winner into fantasy hobby";
+var mnemonic = "thunder ten smoke outside ordinary mushroom build staff child recall credit cash";

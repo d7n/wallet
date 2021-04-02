@@ -1,1 +1,1 @@
-var mnemonic = "pave city wait afford once damage aspect lounge ketchup face figure charge";
+var mnemonic = "champion staff practice wrist forget cup render immense degree original profit mosquito";

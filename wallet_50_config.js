@@ -1,1 +1,1 @@
-var mnemonic = "yellow weasel smart scorpion super squeeze upgrade price gown solar square unaware";
+var mnemonic = "laundry novel achieve donkey timber must discover derive trap absurd boil theme";

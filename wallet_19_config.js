@@ -1,1 +1,1 @@
-var mnemonic = "sample spirit shoot excuse topic man tiger just fit move baby oblige";
+var mnemonic = "exercise correct tribe assume ghost any pencil material camera change auto control";

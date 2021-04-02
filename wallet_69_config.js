@@ -1,1 +1,1 @@
-var mnemonic = "cost wood alien knee spawn steel mobile paper quiz punch monitor pact";
+var mnemonic = "kind magic assist uniform jacket major boring squirrel flight father own chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist portion picture pony inflict type point drive stable vicious final proud";
+var mnemonic = "wrist job imitate rain still emerge alley sure absent good pelican coconut";

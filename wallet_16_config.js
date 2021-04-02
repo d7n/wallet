@@ -1,1 +1,1 @@
-var mnemonic = "voyage emotion panda click sea vessel beauty maximum embrace this seminar false";
+var mnemonic = "twist above margin melt balcony host rural grab please jar into verb";

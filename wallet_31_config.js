@@ -1,1 +1,1 @@
-var mnemonic = "cactus bacon acquire gravity visual warfare orbit nuclear sphere fade wealth raise";
+var mnemonic = "shove doll jacket foot monster scissors atom wash ill gain parrot bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire chunk vivid wheel advance night stage suffer unable gospel wheel ankle";
+var mnemonic = "echo fame nasty predict universe dinner timber patrol because knock whisper rifle";

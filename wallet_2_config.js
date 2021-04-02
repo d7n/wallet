@@ -1,1 +1,1 @@
-var mnemonic = "tube uphold lyrics spend purse fossil review unhappy powder announce cruel light";
+var mnemonic = "sister boost call boost usual zebra idea blue void olive draft local";

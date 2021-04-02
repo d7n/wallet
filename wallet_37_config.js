@@ -1,1 +1,1 @@
-var mnemonic = "more admit remember raccoon dove fun endorse oxygen retire broken claim umbrella";
+var mnemonic = "system fan puppy lemon initial cycle health limit lady fatal smart curve";

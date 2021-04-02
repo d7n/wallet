@@ -1,1 +1,1 @@
-var mnemonic = "repeat any present curtain curtain response census join pen wheat confirm guilt";
+var mnemonic = "parade hockey wing evil army unaware acquire submit alone goat wheat caution";

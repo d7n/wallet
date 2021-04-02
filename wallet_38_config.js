@@ -1,1 +1,1 @@
-var mnemonic = "term check field soap rebuild stem vital click leave then dirt dress";
+var mnemonic = "pride hand include ill useful merge supply melody edge inflict volume grain";

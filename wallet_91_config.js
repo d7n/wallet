@@ -1,1 +1,1 @@
-var mnemonic = "dwarf insane worry crisp away soccer kite fancy helmet virtual bonus ride";
+var mnemonic = "school wish aunt focus awake anxiety awake govern swim tornado obey remind";

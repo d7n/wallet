@@ -1,1 +1,1 @@
-var mnemonic = "number swamp surround drift reflect globe cereal build estate common unlock payment";
+var mnemonic = "fatigue combine motion bonus crane zoo step welcome reflect output there mixed";

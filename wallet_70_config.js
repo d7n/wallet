@@ -1,1 +1,1 @@
-var mnemonic = "coconut blame gift unfold stem original plastic educate mercy leader romance average";
+var mnemonic = "early tackle title error zoo embrace horn tone debate huge rose illness";

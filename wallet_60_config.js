@@ -1,1 +1,1 @@
-var mnemonic = "nest grunt remain north member future auto access exhaust elbow direct inquiry";
+var mnemonic = "jump squirrel soda ceiling shrimp crush pelican labor attend urban segment misery";

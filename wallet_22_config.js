@@ -1,1 +1,1 @@
-var mnemonic = "shaft submit lizard excite two matrix evoke capable cup tattoo broken demand";
+var mnemonic = "fee order alley recall panel resource floor absent zebra marble will there";

@@ -1,1 +1,1 @@
-var mnemonic = "during burst erase tape soup tunnel skate barely awake safe rail retreat";
+var mnemonic = "onion metal essence soap mistake edit scan gentle supply truth target speed";

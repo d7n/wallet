@@ -1,1 +1,1 @@
-var mnemonic = "wave loyal jump radio absent cram net fun dumb credit weird scout";
+var mnemonic = "promote planet limit feature doctor fly around ghost during catalog neglect cable";

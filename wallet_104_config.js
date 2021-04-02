@@ -1,1 +1,1 @@
-var mnemonic = "false admit record ready purse drive powder behind pottery cherry theme name";
+var mnemonic = "time clinic add surface laundry flip moon fatigue easy fancy moon inside";

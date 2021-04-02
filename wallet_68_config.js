@@ -1,1 +1,1 @@
-var mnemonic = "fish pyramid short clown square cup craft wish double smooth concert raven";
+var mnemonic = "enjoy lemon bronze estate rail chimney chalk latin invite comfort vast either";

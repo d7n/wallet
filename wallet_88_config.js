@@ -1,1 +1,1 @@
-var mnemonic = "catalog echo radar vague mango spy cigar uniform seed position lesson ceiling";
+var mnemonic = "isolate acquire poverty witness deny exile ceiling luxury soap penalty real law";

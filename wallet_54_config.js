@@ -1,1 +1,1 @@
-var mnemonic = "panic cruel dish pulse arena sand dish spider absorb empty label fence";
+var mnemonic = "yellow wonder addict curtain pyramid label hard chair life talk mirror orphan";

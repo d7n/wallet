@@ -1,1 +1,1 @@
-var mnemonic = "galaxy program curious crawl tunnel reopen fancy define bread suffer entire super";
+var mnemonic = "lizard limit cement tumble merry index guess deny tell two stamp sample";

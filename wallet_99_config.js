@@ -1,1 +1,1 @@
-var mnemonic = "pulse picnic debris soon never inflict orchard route doctor eager flavor early";
+var mnemonic = "orphan table section fog thing kick uphold such hamster unaware fit drive";

@@ -1,1 +1,1 @@
-var mnemonic = "major cheese also ordinary settle merit wagon fan before tank topple predict";
+var mnemonic = "creek right token promote final omit cat false metal milk solid suffer";

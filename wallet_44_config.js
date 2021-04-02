@@ -1,1 +1,1 @@
-var mnemonic = "animal connect aerobic select gentle ethics siege vote genre destroy rate enter";
+var mnemonic = "daring soul obey mom diary lock accident sun tonight almost degree floor";

@@ -1,1 +1,1 @@
-var mnemonic = "burst joke parent quarter resemble crumble clutch track bottom lab language steel";
+var mnemonic = "baby antique remain project cherry abstract before tennis fiber jacket river system";

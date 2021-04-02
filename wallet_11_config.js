@@ -1,1 +1,1 @@
-var mnemonic = "similar urban speed drift zero favorite shock error soon fix evidence rely";
+var mnemonic = "return all cry toast world van behave hope misery ill sword unfair";

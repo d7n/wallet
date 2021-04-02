@@ -1,1 +1,1 @@
-var mnemonic = "public surge physical canal clip nation easy affair accident drive table noise";
+var mnemonic = "space layer volume gun violin clerk elegant fish tunnel design pattern gloom";

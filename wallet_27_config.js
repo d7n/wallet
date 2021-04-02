@@ -1,1 +1,1 @@
-var mnemonic = "weird same liar prison define consider claw beef review word note penalty";
+var mnemonic = "fox donor bread bless stomach debate cash left lumber acquire second faculty";

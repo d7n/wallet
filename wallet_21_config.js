@@ -1,1 +1,1 @@
-var mnemonic = "view divert spoon curious above breeze short target royal swift roof leg";
+var mnemonic = "enable payment immune outer sea sponsor balcony dog athlete silent mixture destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch myth direct trumpet bag glance bone recall rug ability perfect consider";
+var mnemonic = "pledge penalty crowd balcony melody broken finger artefact first exact early garment";

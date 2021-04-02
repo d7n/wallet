@@ -1,1 +1,1 @@
-var mnemonic = "wreck skirt loan involve occur bachelor bean three fine gadget resource hurt";
+var mnemonic = "oil faint weather ostrich yard simple hundred anchor flower system aspect magnet";

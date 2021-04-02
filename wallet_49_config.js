@@ -1,1 +1,1 @@
-var mnemonic = "duty include magic master whisper almost debris struggle armed oblige index possible";
+var mnemonic = "usual poverty crystal try twenty room wheat hotel note sword since head";

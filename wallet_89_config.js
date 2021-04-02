@@ -1,1 +1,1 @@
-var mnemonic = "thrive giant economy scan slogan caught clown pair hip grain rack tattoo";
+var mnemonic = "obscure grow gloom genius prepare chase april conduct warm immune clown relax";

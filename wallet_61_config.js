@@ -1,1 +1,1 @@
-var mnemonic = "primary admit burst nephew business artwork mixture three shoulder shy patrol cage";
+var mnemonic = "famous bullet room loop afford stamp merry maid humor invest muscle cook";

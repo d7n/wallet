@@ -1,1 +1,1 @@
-var mnemonic = "struggle bachelor body slim street ill fatal smooth weekend settle just owner";
+var mnemonic = "twist cable grocery hungry merit crack clerk nephew spatial relax source obscure";

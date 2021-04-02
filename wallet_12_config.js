@@ -1,1 +1,1 @@
-var mnemonic = "solve wisdom web critic certain margin act enrich cheese tattoo shift fee";
+var mnemonic = "skate feature claw chalk cloth ginger spoon siren want useful track feature";

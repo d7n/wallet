@@ -1,1 +1,1 @@
-var mnemonic = "brick layer chat exile latin victory butter feature super sun fluid inhale";
+var mnemonic = "attitude hammer tiny spy pottery round draw palace promote average cupboard wave";

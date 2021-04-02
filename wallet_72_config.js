@@ -1,1 +1,1 @@
-var mnemonic = "inform flat sunset put craft uncle reveal unit arrive endless video version";
+var mnemonic = "garlic secret design bonus random now bachelor avoid circle win harbor current";

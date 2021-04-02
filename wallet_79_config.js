@@ -1,1 +1,1 @@
-var mnemonic = "giraffe glide way media script sugar transfer next draw pattern merge hollow";
+var mnemonic = "chicken theory chunk mix quick song genre pyramid result they tenant bounce";

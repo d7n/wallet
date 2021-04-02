@@ -1,1 +1,1 @@
-var mnemonic = "cabin indoor often setup brief barrel luggage will betray giggle gadget scan";
+var mnemonic = "rebuild rather merge flee swing shy version easily analyst select recycle actor";

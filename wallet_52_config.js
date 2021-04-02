@@ -1,1 +1,1 @@
-var mnemonic = "object gift long security myth snow cereal edit badge library split rebel";
+var mnemonic = "pause crouch civil loan hedgehog uncle twist zone topic state antique economy";

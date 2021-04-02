@@ -1,1 +1,1 @@
-var mnemonic = "social damage trash speed chalk weird electric toe suit suit roof happy";
+var mnemonic = "online phone bonus diary trial unknown wet supply chronic tissue medal harvest";

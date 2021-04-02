@@ -1,1 +1,1 @@
-var mnemonic = "there achieve surface fiscal antique canoe embody wall morning ramp category property";
+var mnemonic = "pluck have flame honey loud stove similar submit dwarf gravity weather resist";

@@ -1,1 +1,1 @@
-var mnemonic = "dash crunch album decorate fashion essay foot announce execute country way carpet";
+var mnemonic = "industry night legend home parrot sniff pony core intact wool account stove";

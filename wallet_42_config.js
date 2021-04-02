@@ -1,1 +1,1 @@
-var mnemonic = "fire clever panda cost combine potato bar destroy trouble planet edit arrive";
+var mnemonic = "clerk dream enter lesson title napkin leg vast brass chuckle snack sound";

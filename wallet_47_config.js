@@ -1,1 +1,1 @@
-var mnemonic = "churn team inquiry captain adapt betray shove ostrich balcony barrel rescue spend";
+var mnemonic = "lend sound sleep buyer train table connect acquire poem garage access century";

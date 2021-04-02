@@ -1,1 +1,1 @@
-var mnemonic = "visit picnic play hip judge salmon cash list submit wage source together";
+var mnemonic = "physical fresh rookie cheap tattoo phone meat medal crater reduce frown melt";

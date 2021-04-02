@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur wheel penalty isolate home purchase diamond verb farm carry bacon click";
+var mnemonic = "knife consider rule cloth air palace acoustic food rigid jelly blue deposit";

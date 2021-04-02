@@ -1,1 +1,1 @@
-var mnemonic = "shift frost dentist spot used genre toe sustain salt novel tiny pioneer";
+var mnemonic = "swift carbon genius pair draft blame screen viable actress bundle genre acoustic";

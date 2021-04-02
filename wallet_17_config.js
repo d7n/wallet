@@ -1,1 +1,1 @@
-var mnemonic = "sniff huge vital nothing endorse eyebrow ripple rabbit before scout guard elevator";
+var mnemonic = "civil merry furnace merit usual chicken faith resist debris dial aspect nerve";

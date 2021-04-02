@@ -1,1 +1,1 @@
-var mnemonic = "shrimp path head unusual fee mail shallow iron another animal voyage enlist";
+var mnemonic = "correct noodle coach stairs ring dash always bicycle kitten hospital summer hood";

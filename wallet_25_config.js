@@ -1,1 +1,1 @@
-var mnemonic = "afford tennis pretty detect vendor hour concert innocent breeze night property loop";
+var mnemonic = "code royal ethics vacant olive risk fabric hammer cliff afraid spend enable";

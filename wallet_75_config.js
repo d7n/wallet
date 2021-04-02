@@ -1,1 +1,1 @@
-var mnemonic = "hood bundle sustain tumble code health orchard steak bounce ankle lion purse";
+var mnemonic = "comic video insane lens mountain culture where club crater cloth risk plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "weather duty tuition spoon waste animal reject payment pepper crop stairs victory";
+var mnemonic = "exit easy inherit dilemma effort parrot clay elephant predict bacon lady oval";

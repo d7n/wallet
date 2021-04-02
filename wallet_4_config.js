@@ -1,1 +1,1 @@
-var mnemonic = "file fresh laundry income index worth soul outside aim language sunset lazy";
+var mnemonic = "brain collect desk idle hurdle sustain guard jelly favorite palace oval unique";

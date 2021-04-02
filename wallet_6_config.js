@@ -1,1 +1,1 @@
-var mnemonic = "favorite tube easy betray local jump enable defy taxi rookie horn surface";
+var mnemonic = "surprise rigid raise drama layer media version uphold argue have wheel bounce";

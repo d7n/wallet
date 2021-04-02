@@ -1,1 +1,1 @@
-var mnemonic = "city ride shrimp scale office own minute initial address crucial syrup solar";
+var mnemonic = "enemy spring window saddle sugar silk relief tissue feature various found cigar";

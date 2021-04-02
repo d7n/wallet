@@ -1,1 +1,1 @@
-var mnemonic = "clay loop moral moon easy punch term rigid clever plastic anxiety oval";
+var mnemonic = "naive transfer you plug giant muffin bacon this swap snake regular inspire";

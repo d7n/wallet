@@ -1,1 +1,1 @@
-var mnemonic = "come wink index shop dentist begin giant tomato logic exile pizza quarter";
+var mnemonic = "crazy episode fan settle riot top domain shadow flight hood place drink";

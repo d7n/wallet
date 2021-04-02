@@ -1,1 +1,1 @@
-var mnemonic = "ordinary scale change civil cave warrior smooth creek student attack seminar flush";
+var mnemonic = "primary book cloud betray region tape return curious limb excess mobile lady";

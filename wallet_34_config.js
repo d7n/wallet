@@ -1,1 +1,1 @@
-var mnemonic = "rabbit omit fragile thumb deposit enter garage wheel call sun brass weasel";
+var mnemonic = "elite song theory uphold wasp embrace shine industry enhance buffalo canvas salt";

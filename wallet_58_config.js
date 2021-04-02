@@ -1,1 +1,1 @@
-var mnemonic = "pulp alert surround jewel dash payment initial aim protect flame world sting";
+var mnemonic = "casual viable virus price climb hill bleak name lawn barrel gun tired";

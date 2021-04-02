@@ -1,1 +1,1 @@
-var mnemonic = "edit ring october love shoe ginger neck plug upon sweet sponsor festival";
+var mnemonic = "tent blouse change file direct clog usage hello plate pulp panel model";

@@ -1,1 +1,1 @@
-var mnemonic = "second tongue stock rubber empower avocado slender bunker check dismiss finger bike";
+var mnemonic = "sheriff right isolate april just cargo ramp scan wish crater sound know";

@@ -1,1 +1,1 @@
-var mnemonic = "again drink relax tree link identify harsh lemon proud impulse buddy keep";
+var mnemonic = "dismiss hollow turn congress vocal chapter layer army media typical tongue bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "another sustain morning obey exile desk staff uncle index hollow old cart";
+var mnemonic = "gasp slide stumble long sustain pulp assist disagree rival waste tissue stairs";

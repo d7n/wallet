@@ -1,1 +1,1 @@
-var mnemonic = "exotic penalty because crazy excite purchase enforce wage room adult skill dust";
+var mnemonic = "about number ladder consider wage fall enhance unique gossip brick glue cart";

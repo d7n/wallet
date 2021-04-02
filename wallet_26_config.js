@@ -1,1 +1,1 @@
-var mnemonic = "cactus unusual wine remind spike wolf bone drift garlic layer parade fog";
+var mnemonic = "boy surround purity coyote blade stomach fabric plate toast tribe figure session";

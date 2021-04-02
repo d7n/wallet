@@ -1,1 +1,1 @@
-var mnemonic = "album pear elephant nasty grain moon select work minute three cute wise";
+var mnemonic = "canyon remain snow manual grow scale thought exist little hard salute hair";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm poem exit lock repeat public panda village balcony cactus craft tree";
+var mnemonic = "choose blush output actress year tent drift grain raw kitten ghost swear";

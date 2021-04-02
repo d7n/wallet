@@ -1,1 +1,1 @@
-var mnemonic = "knife injury universe web upon lobster cover happy toe fashion funny mother";
+var mnemonic = "merit dune cupboard wrap drum crane whisper will weekend field crawl liar";

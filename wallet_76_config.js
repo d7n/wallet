@@ -1,1 +1,1 @@
-var mnemonic = "paddle salon motion hammer gorilla various horror hard music interest shadow toward";
+var mnemonic = "elite sudden joy pupil fancy clump coral surge muffin angry final home";
