@@ -1,1 +1,1 @@
-var mnemonic = "outer luxury unaware rally slight coral mouse oven peasant prepare easily path";
+var mnemonic = "enough ugly height doctor gallery film journey industry quiz visit room polar";

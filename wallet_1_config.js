@@ -1,1 +1,1 @@
-var mnemonic = "suggest crystal million armed fatal hungry cinnamon cheap person stay chuckle chat";
+var mnemonic = "drive icon always enact plastic usual afraid reject swarm exchange hat pond";

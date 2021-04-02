@@ -1,1 +1,1 @@
-var mnemonic = "mammal ritual asthma tumble dismiss kid around minimum repeat mushroom aisle among";
+var mnemonic = "chunk term patient chef express mountain smile orchard elbow rival sadness ball";

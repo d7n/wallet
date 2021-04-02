@@ -1,1 +1,1 @@
-var mnemonic = "rocket diesel inspire adjust myth marble dawn shy train thumb lake mix";
+var mnemonic = "park defense make parent teach fossil siren turn chaos frequent glad toss";

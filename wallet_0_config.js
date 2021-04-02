@@ -1,1 +1,1 @@
-var mnemonic = "during cigar retire cinnamon scrap found cash spider cart cushion pluck arrange";
+var mnemonic = "fitness yard remove amazing opera act moral illegal bone lazy picnic region";

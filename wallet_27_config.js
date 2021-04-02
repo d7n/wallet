@@ -1,1 +1,1 @@
-var mnemonic = "affair truly adult cattle result evidence image tag diagram trash sick flip";
+var mnemonic = "shell property clutch slim bulk any bless mixed all staff suggest attack";

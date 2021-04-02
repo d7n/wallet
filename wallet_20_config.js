@@ -1,1 +1,1 @@
-var mnemonic = "below crumble swallow buddy fine cheese master year valve submit mystery fever";
+var mnemonic = "fresh skin bicycle magnet symbol bacon shoe size pretty payment wise melt";

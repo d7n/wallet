@@ -1,1 +1,1 @@
-var mnemonic = "kiwi brother crunch trade hurt vintage smile blush museum more prevent enemy";
+var mnemonic = "turkey expand delay wedding immune million doll lunch cable peasant install crystal";

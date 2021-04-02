@@ -1,1 +1,1 @@
-var mnemonic = "brush method basket nothing desk length depth include plunge desert twin parade";
+var mnemonic = "rough noble property ankle unfold library hover pioneer today reveal blue belt";

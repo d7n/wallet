@@ -1,1 +1,1 @@
-var mnemonic = "stock magic whale sadness among cement foil cover wrong panel early hundred";
+var mnemonic = "orphan develop project horror service april twelve rare zebra emerge sun hero";

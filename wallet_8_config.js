@@ -1,1 +1,1 @@
-var mnemonic = "trade broccoli solid recipe tank eternal what unfold exchange engage pond mother";
+var mnemonic = "cute illness nose proud coil rent segment rack swap mention radar reject";

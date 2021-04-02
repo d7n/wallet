@@ -1,1 +1,1 @@
-var mnemonic = "journey surround fuel dad unit behave bamboo filter library waste wear limit";
+var mnemonic = "adjust detect trend dose sauce castle actual state pyramid laundry yellow pumpkin";

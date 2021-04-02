@@ -1,1 +1,1 @@
-var mnemonic = "reject air roast lawn valve twist hero spend trouble attract brand power";
+var mnemonic = "scout defense cruel scene idle burger vapor admit pepper core hurt path";

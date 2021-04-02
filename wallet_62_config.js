@@ -1,1 +1,1 @@
-var mnemonic = "middle mango burger large blanket fit square hollow notice lady extra baby";
+var mnemonic = "coach safe mask accident depend gas fork nation loan peace neglect motion";

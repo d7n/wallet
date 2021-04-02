@@ -1,1 +1,1 @@
-var mnemonic = "matrix useful victory civil spare surge champion must ahead table shine ill";
+var mnemonic = "first shop shrimp holiday popular kangaroo yellow travel prevent fork tongue popular";

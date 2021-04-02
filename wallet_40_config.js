@@ -1,1 +1,1 @@
-var mnemonic = "law minute ancient teach gloom six weather disagree math police they vital";
+var mnemonic = "bean unit turn gravity vendor vessel tonight govern cupboard broccoli guitar army";

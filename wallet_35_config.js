@@ -1,1 +1,1 @@
-var mnemonic = "bind outside army fork brick whale push air torch detail oxygen hurdle";
+var mnemonic = "yard iron sauce rebel success suggest cinnamon trumpet upgrade door protect river";

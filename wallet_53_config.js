@@ -1,1 +1,1 @@
-var mnemonic = "remain aerobic refuse donkey blanket kingdom cradle bind jealous position three bus";
+var mnemonic = "focus kidney worth snake lesson physical jelly harbor raw matter disagree skate";

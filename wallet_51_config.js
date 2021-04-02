@@ -1,1 +1,1 @@
-var mnemonic = "awesome hard funny faculty circle spread clog add climb cheap ordinary nest";
+var mnemonic = "panther bind song walnut trigger fever finger sustain matter depart breeze all";

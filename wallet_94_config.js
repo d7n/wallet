@@ -1,1 +1,1 @@
-var mnemonic = "draft liberty hair stage oven decrease loud dune impose imitate kick sight";
+var mnemonic = "slogan cluster balcony situate cream exercise apart pyramid truth unit fly season";

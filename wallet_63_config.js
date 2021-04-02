@@ -1,1 +1,1 @@
-var mnemonic = "matrix life tail trap thunder equip pill pill sheriff track kid anger";
+var mnemonic = "demise boost boss isolate glide build thing inform deny access rigid uniform";

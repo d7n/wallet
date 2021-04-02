@@ -1,1 +1,1 @@
-var mnemonic = "cousin fade kangaroo eagle ranch arena acoustic scan foster beef embrace push";
+var mnemonic = "giant vivid alert wrong balance best risk divorce quit rare rain mercy";

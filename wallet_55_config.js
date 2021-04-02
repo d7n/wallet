@@ -1,1 +1,1 @@
-var mnemonic = "warrior fuel exhibit juice medal learn illegal step wreck illness menu blouse";
+var mnemonic = "gravity goose race orchard team quarter annual plug category remember ginger liquid";

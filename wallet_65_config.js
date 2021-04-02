@@ -1,1 +1,1 @@
-var mnemonic = "special garage miss spin scare usage ugly glue end fun prefer useful";
+var mnemonic = "hammer oyster flock oval taxi again carpet force wave diamond engage illegal";

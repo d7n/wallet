@@ -1,1 +1,1 @@
-var mnemonic = "alien disagree ozone toward stomach own salon ten room video doctor million";
+var mnemonic = "pool renew recycle blush ripple fringe mercy divorce meadow doctor indoor build";

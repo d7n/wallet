@@ -1,1 +1,1 @@
-var mnemonic = "orbit rack spray media clever carpet army burst praise replace satoshi clip";
+var mnemonic = "inch gauge spoil upgrade brisk rabbit garment flip ordinary rapid warfare manage";

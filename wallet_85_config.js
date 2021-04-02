@@ -1,1 +1,1 @@
-var mnemonic = "fade village wage scout ostrich garage tomato collect base caught until destroy";
+var mnemonic = "busy nasty royal hedgehog fork ride denial fatigue calm sock degree high";

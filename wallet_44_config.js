@@ -1,1 +1,1 @@
-var mnemonic = "echo garage vibrant photo eager asthma furnace wrong earn gym into snap";
+var mnemonic = "unit one predict slice manage spot other thumb float jelly spawn solution";

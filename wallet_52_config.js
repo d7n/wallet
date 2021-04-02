@@ -1,1 +1,1 @@
-var mnemonic = "moral party subject decide lion hurt luggage pet marble hidden trick sadness";
+var mnemonic = "merge birth stumble glad rebuild antenna element exhaust what stuff ahead prevent";

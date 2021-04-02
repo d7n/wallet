@@ -1,1 +1,1 @@
-var mnemonic = "pave aisle tumble poverty flee can hint evil key adapt season pole";
+var mnemonic = "oblige nothing lobster rail cousin wear benefit used blood joy upper device";

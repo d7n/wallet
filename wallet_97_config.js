@@ -1,1 +1,1 @@
-var mnemonic = "zone spare able plastic green paddle beauty dawn favorite cement cradle buffalo";
+var mnemonic = "gym focus helmet balance process strike park spare curious syrup useful moment";

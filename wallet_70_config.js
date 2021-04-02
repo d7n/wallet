@@ -1,1 +1,1 @@
-var mnemonic = "crack odor dream loan love advance vacant solar future tongue dish cheese";
+var mnemonic = "visual sorry that cluster bottom page popular lunar maid lift prevent wing";

@@ -1,1 +1,1 @@
-var mnemonic = "replace resist tennis aspect royal salad estate head pilot knee captain educate";
+var mnemonic = "story razor bean cart hungry digital quality lava vault father roof fence";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy rhythm roof cricket honey giraffe various gym school staff neglect loan";
+var mnemonic = "siren lottery smile next palace digital gate tortoise ketchup element jeans marriage";

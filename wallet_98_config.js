@@ -1,1 +1,1 @@
-var mnemonic = "pupil census horse olive guilt hundred blood ice parade walnut slight broken";
+var mnemonic = "upon robust tackle birth sadness sponsor assist bachelor wrestle soup friend sport";

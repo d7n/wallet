@@ -1,1 +1,1 @@
-var mnemonic = "pulp invite team cherry purpose clay that office pride soldier primary plate";
+var mnemonic = "crystal olive slow chest refuse rabbit reflect cage grape review stomach pretty";

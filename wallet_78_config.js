@@ -1,1 +1,1 @@
-var mnemonic = "sample joke combine run jewel potato rookie gospel dawn scale capable muffin";
+var mnemonic = "whisper fire eternal rocket cage edit raise misery slide explain wheat cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal focus mind height trend giggle torch salmon response vintage dynamic medal";
+var mnemonic = "relief oak face master glimpse cattle then abandon brand domain bottom isolate";

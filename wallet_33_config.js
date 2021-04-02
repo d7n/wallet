@@ -1,1 +1,1 @@
-var mnemonic = "end theme polar artefact whisper mom nerve sister answer act tortoise library";
+var mnemonic = "laugh advance enough rare guitar remind alien exact announce sign gentle man";

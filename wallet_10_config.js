@@ -1,1 +1,1 @@
-var mnemonic = "brass believe pepper green drop produce robust moon canyon please chunk era";
+var mnemonic = "fetch total vintage shallow hen immense frame panda emerge advice rate peace";

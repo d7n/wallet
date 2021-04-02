@@ -1,1 +1,1 @@
-var mnemonic = "voyage head degree metal process want author raven usual slight you recall";
+var mnemonic = "spend beauty original brass rail horror maple immense boy face spoon reflect";

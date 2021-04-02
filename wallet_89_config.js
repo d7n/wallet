@@ -1,1 +1,1 @@
-var mnemonic = "engage powder stadium live fashion since web slender movie fun fury because";
+var mnemonic = "young exercise raven social search leopard bread opinion always charge truly more";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle wise october cause thought soft quiz first mom timber afraid wagon";
+var mnemonic = "train link fossil dawn pledge laugh wing earn fade rhythm peace meat";

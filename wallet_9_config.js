@@ -1,1 +1,1 @@
-var mnemonic = "purpose item slight cart panic feel crystal until jeans famous auction cat";
+var mnemonic = "escape dwarf roast anger tattoo afford crumble pony story soon combine route";

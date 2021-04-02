@@ -1,1 +1,1 @@
-var mnemonic = "resource tree please later engage kit success chapter craft cricket eternal walnut";
+var mnemonic = "deliver target idle sword birth hedgehog corn dust eight rely smile squeeze";

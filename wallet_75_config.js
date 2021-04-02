@@ -1,1 +1,1 @@
-var mnemonic = "attend visit budget erase pulse future dentist latin plunge swift hazard box";
+var mnemonic = "super economy supply pulp often wear frequent hazard cart onion earth exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "now prepare chronic board absorb dad worry estate above junk attend purity";
+var mnemonic = "strong cricket penalty anger walk elegant polar choose bottom club spread shell";

@@ -1,1 +1,1 @@
-var mnemonic = "assault segment love liberty online estate pact bar prison jelly damage noodle";
+var mnemonic = "visit surprise snack toy allow pitch put inch talk kick else sunset";

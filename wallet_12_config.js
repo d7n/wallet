@@ -1,1 +1,1 @@
-var mnemonic = "once parade rail saddle fox define random repair total rifle panther hawk";
+var mnemonic = "pilot solid north close method digital omit pelican tackle rebel avocado put";

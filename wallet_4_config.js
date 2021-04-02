@@ -1,1 +1,1 @@
-var mnemonic = "orient tube pill run picnic garbage shallow coast segment tape cook anchor";
+var mnemonic = "famous emotion comfort write dilemma original hole season pen space prison speak";

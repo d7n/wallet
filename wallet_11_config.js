@@ -1,1 +1,1 @@
-var mnemonic = "abandon truly recipe property horror edge recycle one chimney suspect tortoise close";
+var mnemonic = "deny ripple frequent boil orchard silent deny bird soap people hip swear";

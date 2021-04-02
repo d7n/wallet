@@ -1,1 +1,1 @@
-var mnemonic = "chaos soon board onion pet dress situate require mechanic goose jaguar hedgehog";
+var mnemonic = "clean ancient ketchup notice sentence cycle medal credit bless era table vessel";

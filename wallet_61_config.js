@@ -1,1 +1,1 @@
-var mnemonic = "pause brush adult celery alarm brother lucky patient alter just panda become";
+var mnemonic = "zebra search spawn avoid wall poet stick swear pear bright beach height";

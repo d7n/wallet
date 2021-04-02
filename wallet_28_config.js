@@ -1,1 +1,1 @@
-var mnemonic = "rude spin open rug palm segment ostrich edit earn exhaust wagon slow";
+var mnemonic = "real gesture spare outdoor know rabbit buddy quality quit episode adult clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "noble congress snap predict sword report gossip alter drop awful mango wool";
+var mnemonic = "extra believe resource nerve put penalty peace federal rare remove girl taxi";

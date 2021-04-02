@@ -1,1 +1,1 @@
-var mnemonic = "diary select escape trust slam museum lock crop meadow split possible chunk";
+var mnemonic = "actress game salute tide recipe demand scatter erase comfort group senior layer";

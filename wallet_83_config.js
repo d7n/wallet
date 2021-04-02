@@ -1,1 +1,1 @@
-var mnemonic = "essay lift mistake olympic beach oblige liar tent peanut tired craft uniform";
+var mnemonic = "guide drip protect example lumber minute stable seek eternal venue coyote purpose";

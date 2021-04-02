@@ -1,1 +1,1 @@
-var mnemonic = "hurry celery inner vague sense embody inform leg age since panda process";
+var mnemonic = "permit can brisk stem blanket mango divorce distance gallery bleak loyal toss";

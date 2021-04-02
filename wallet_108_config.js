@@ -1,1 +1,1 @@
-var mnemonic = "identify donkey slight inject festival muscle effort wisdom message warfare pause base";
+var mnemonic = "cheap choice apple until rally country anxiety silk protect reunion soccer shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "initial kick broom damp pull teach diary crush insect place income ramp";
+var mnemonic = "kitten crack mixture long ship garment marriage lecture friend angle govern steel";

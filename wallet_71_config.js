@@ -1,1 +1,1 @@
-var mnemonic = "school frog arrange soup hero icon auto august flee material slight little";
+var mnemonic = "sing adjust lonely virus chunk candy require never guide swallow pass miracle";

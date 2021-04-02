@@ -1,1 +1,1 @@
-var mnemonic = "vessel banana say round program common differ sauce broom web alter doll";
+var mnemonic = "glide problem birth thumb sight hurry tell rare purchase hunt source aunt";

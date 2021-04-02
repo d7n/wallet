@@ -1,1 +1,1 @@
-var mnemonic = "wood coach glimpse hunt chalk crouch brisk marriage fantasy roof deny toilet";
+var mnemonic = "apart pass evil quiz crystal spread exile equip token another icon own";

@@ -1,1 +1,1 @@
-var mnemonic = "begin unveil truck leopard expose pottery follow hurry region hip lesson dial";
+var mnemonic = "giraffe parade produce twenty furnace need drastic response sunny swim valve cat";

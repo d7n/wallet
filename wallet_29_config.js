@@ -1,1 +1,1 @@
-var mnemonic = "light fix usual silver census width stuff scissors father suspect moon fiscal";
+var mnemonic = "pony offer mixture region enough afraid twice mango giraffe guess frame bargain";

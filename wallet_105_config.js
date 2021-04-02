@@ -1,1 +1,1 @@
-var mnemonic = "cricket above later combine clinic junk famous prosper clown idea erosion knife";
+var mnemonic = "gesture across chief goddess flash civil game citizen control rose tiny broom";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep wage brisk local frame steel chimney auto expose scrap oppose margin";
+var mnemonic = "battle ecology aunt lab into fold oyster version cloth index conduct engine";

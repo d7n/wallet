@@ -1,1 +1,1 @@
-var mnemonic = "network bunker keen involve copy genius dirt soldier have imitate reunion stool";
+var mnemonic = "bike girl spring addict vapor paper match month tenant oak mammal pyramid";

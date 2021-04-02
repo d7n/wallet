@@ -1,1 +1,1 @@
-var mnemonic = "spawn result smoke clerk rescue ball quantum interest country knee erase bridge";
+var mnemonic = "bunker sugar lecture brain solution cattle method cheap unit kangaroo today copper";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton monster park surround person tree stem swap lecture goddess banner abstract";
+var mnemonic = "injury door toward wear pet bargain escape pet acid office unhappy cereal";

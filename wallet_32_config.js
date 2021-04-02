@@ -1,1 +1,1 @@
-var mnemonic = "divide clerk swamp position sheriff veteran forum snow thumb wheat dash reflect";
+var mnemonic = "glimpse lock bamboo example caution fury almost fossil question kit neck enforce";

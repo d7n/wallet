@@ -1,1 +1,1 @@
-var mnemonic = "media venue coconut confirm loop sunset endorse practice social meadow town fitness";
+var mnemonic = "know pony student pottery ordinary dawn tomorrow over strike hub olive gain";

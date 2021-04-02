@@ -1,1 +1,1 @@
-var mnemonic = "lounge hope club there sunny menu little measure helmet gift honey decline";
+var mnemonic = "daughter issue obvious ladder require match wealth reopen winter check change tent";

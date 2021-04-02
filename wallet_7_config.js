@@ -1,1 +1,1 @@
-var mnemonic = "allow ability slot gadget intact exist gadget achieve merry tribe battle file";
+var mnemonic = "crash pear knife cherry human armor amount reason wreck industry avoid large";

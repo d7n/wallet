@@ -1,1 +1,1 @@
-var mnemonic = "chest indoor robust beyond category slot fun bread hammer human garage december";
+var mnemonic = "course humble way ski forward promote rebel offer memory blouse loan bring";

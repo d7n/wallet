@@ -1,1 +1,1 @@
-var mnemonic = "armed rule timber start butter anger hub tag off patch bracket force";
+var mnemonic = "interest light idea erode sea alpha resemble arctic happy march oval ranch";

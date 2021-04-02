@@ -1,1 +1,1 @@
-var mnemonic = "bless thunder elevator enforce spice jump swift fine catalog spot patch giant";
+var mnemonic = "garlic famous subject flight oil park rally front index only leave two";

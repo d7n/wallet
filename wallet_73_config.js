@@ -1,1 +1,1 @@
-var mnemonic = "cave black cram scale boss couple never child riot fiber wolf gorilla";
+var mnemonic = "prefer party way vessel version trophy company cash noble cycle pepper trend";

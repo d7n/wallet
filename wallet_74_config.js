@@ -1,1 +1,1 @@
-var mnemonic = "move legend pen liar own happy dumb universe apart bullet claw square";
+var mnemonic = "lawn envelope play roast energy ladder hundred trade credit wine size person";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier slogan wash cheap rubber voyage panel escape border labor caught inmate";
+var mnemonic = "electric used story van news give can feature arm such garlic cross";

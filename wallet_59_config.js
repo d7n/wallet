@@ -1,1 +1,1 @@
-var mnemonic = "palm party weasel like surge foam knee elbow script trust rough fish";
+var mnemonic = "stick joy scene ozone fee copper marine fix replace nothing layer cost";

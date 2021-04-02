@@ -1,1 +1,1 @@
-var mnemonic = "remember turtle sponsor bone elite bicycle jealous vehicle pear enforce clip glance";
+var mnemonic = "pond river bottom sick inherit outer renew panda hill mad decorate obscure";

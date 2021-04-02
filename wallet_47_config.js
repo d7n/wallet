@@ -1,1 +1,1 @@
-var mnemonic = "soap bonus dice sea snack actor glow genius call sound victory cube";
+var mnemonic = "marine faculty wheat west hover burden mystery option consider grace caution release";

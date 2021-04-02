@@ -1,1 +1,1 @@
-var mnemonic = "resource hybrid hour style present ticket drive chunk guilt mammal involve pact";
+var mnemonic = "number patient bridge gauge problem keep tail ready thing truck wall liberty";

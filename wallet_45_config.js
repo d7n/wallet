@@ -1,1 +1,1 @@
-var mnemonic = "gun able section effort mind course exhibit senior element educate wife help";
+var mnemonic = "recall silly quick bread rely lend idea recall plug protect eyebrow perfect";

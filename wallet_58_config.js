@@ -1,1 +1,1 @@
-var mnemonic = "sell upper loan minimum better unable cause nephew employ crowd drop video";
+var mnemonic = "attract forest wide prosper soap rubber decide honey sting stereo echo never";

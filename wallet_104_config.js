@@ -1,1 +1,1 @@
-var mnemonic = "ride author eager adult crush trial soccer year media cart radio gospel";
+var mnemonic = "play salad safe voice bicycle ankle various glare fluid badge solve clock";

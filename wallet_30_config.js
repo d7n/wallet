@@ -1,1 +1,1 @@
-var mnemonic = "party suspect race swamp enjoy survey match submit umbrella grab galaxy inch";
+var mnemonic = "clip account nominee critic upon cash nominee food economy hospital number note";

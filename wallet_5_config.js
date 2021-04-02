@@ -1,1 +1,1 @@
-var mnemonic = "stool kitten raccoon family ahead bright banner matrix oppose green vast east";
+var mnemonic = "credit order trumpet galaxy brave emotion habit bonus cause bargain ghost seed";

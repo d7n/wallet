@@ -1,1 +1,1 @@
-var mnemonic = "bubble sting shallow tone domain wagon large radio crucial grace uncover ignore";
+var mnemonic = "oblige notice ten lock wealth main orphan sleep mango cake video glad";
