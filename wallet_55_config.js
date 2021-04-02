@@ -1,1 +1,1 @@
-var mnemonic = "grocery advance tissue salute unable abstract arrive drastic live soon napkin battle";
+var mnemonic = "immense hint sample reduce normal talent spare equal assault silver behind food";

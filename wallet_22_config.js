@@ -1,1 +1,1 @@
-var mnemonic = "young bulk assume vessel satoshi finish true federal cause prefer discover alert";
+var mnemonic = "rather gallery maple popular zone enough message rebuild pledge dash carbon rabbit";

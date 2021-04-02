@@ -1,1 +1,1 @@
-var mnemonic = "there lawsuit source mix frown parade inject already satisfy dad target collect";
+var mnemonic = "kitten nest carbon display hungry birth picnic stove marriage chuckle bitter among";

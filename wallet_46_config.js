@@ -1,1 +1,1 @@
-var mnemonic = "leisure panic emerge armed answer tide admit fly lucky satisfy churn found";
+var mnemonic = "expose fault agent category exact anxiety student awake affair labor depart shoot";

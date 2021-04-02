@@ -1,1 +1,1 @@
-var mnemonic = "flip play adapt urge tag afraid spike silk mixture float beef fame";
+var mnemonic = "toast piano super drama dignity blind bitter mom latin open wall sock";

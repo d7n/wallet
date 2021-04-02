@@ -1,1 +1,1 @@
-var mnemonic = "rifle enforce someone tank account stay cool census glue tuition fashion wasp";
+var mnemonic = "risk vibrant inflict hamster matrix word adult oval broom arena skull fade";

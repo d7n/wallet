@@ -1,1 +1,1 @@
-var mnemonic = "rule gorilla asthma slow summer diamond hope moon impulse total thunder stumble";
+var mnemonic = "enrich sense train switch chaos sport exhibit soda program able equal engine";

@@ -1,1 +1,1 @@
-var mnemonic = "brief february fuel diagram borrow twin build predict wonder nice price slam";
+var mnemonic = "void wise flat initial annual fame bulk put copper kick sausage decorate";

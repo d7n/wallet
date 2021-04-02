@@ -1,1 +1,1 @@
-var mnemonic = "crunch yard cake vehicle illegal cheap repeat tongue foot spatial there fine";
+var mnemonic = "public select odor ice appear axis first plug student tongue syrup supreme";

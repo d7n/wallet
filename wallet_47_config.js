@@ -1,1 +1,1 @@
-var mnemonic = "struggle shove view air impact amount banner phone reopen ticket hint liquid";
+var mnemonic = "animal season follow resemble slam make steel soccer runway cradle wrong fiscal";

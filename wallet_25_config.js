@@ -1,1 +1,1 @@
-var mnemonic = "pill smart law garlic bean offer advance chuckle ticket thunder kitten omit";
+var mnemonic = "script extra orient road fortune saddle balcony strike enrich rice october office";

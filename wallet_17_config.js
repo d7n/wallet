@@ -1,1 +1,1 @@
-var mnemonic = "route brown knee arm festival spoil kind enlist execute egg brave charge";
+var mnemonic = "imitate attack rely grant hill spare candy carry dolphin develop weapon tunnel";

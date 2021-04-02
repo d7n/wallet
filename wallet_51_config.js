@@ -1,1 +1,1 @@
-var mnemonic = "poem medal dice island urban penalty novel leave peasant element bargain clap";
+var mnemonic = "slender grid chest bitter pole subject alarm army tobacco truck around dove";

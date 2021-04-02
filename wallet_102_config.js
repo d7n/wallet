@@ -1,1 +1,1 @@
-var mnemonic = "surprise luxury also prison sure program occur cliff month hurdle cup layer";
+var mnemonic = "want raise employ bulk peasant search erupt danger episode coffee tourist supreme";

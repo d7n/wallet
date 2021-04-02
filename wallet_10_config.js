@@ -1,1 +1,1 @@
-var mnemonic = "caught occur shy drink speak govern giraffe spy symptom easily negative arch";
+var mnemonic = "scene arrive crime approve carpet range rural cloth state trip trumpet horse";

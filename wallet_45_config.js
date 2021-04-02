@@ -1,1 +1,1 @@
-var mnemonic = "side mirror filter cinnamon amount grow review park clinic reward silly assault";
+var mnemonic = "jealous country attack panic sadness piece spot plastic girl sphere click setup";

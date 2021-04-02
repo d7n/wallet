@@ -1,1 +1,1 @@
-var mnemonic = "swear chat allow hip place alter vocal detect artefact lamp hard lucky";
+var mnemonic = "party monkey saddle flush hedgehog tray under age battle thumb smoke fury";

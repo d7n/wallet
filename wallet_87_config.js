@@ -1,1 +1,1 @@
-var mnemonic = "puzzle water chalk fatigue loud round project tenant select disagree raven animal";
+var mnemonic = "real smart ladder east glue biology name result frost item fragile barely";

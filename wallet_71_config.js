@@ -1,1 +1,1 @@
-var mnemonic = "soon actor ranch athlete kiwi spare palace midnight approve duck coast vendor";
+var mnemonic = "work unable purchase roast slow turtle catalog enjoy price mansion over diary";

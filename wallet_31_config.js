@@ -1,1 +1,1 @@
-var mnemonic = "parent culture weekend ranch correct faith empower cargo cotton now breeze month";
+var mnemonic = "army buyer february veteran move rich gallery accuse foster raw sister alone";

@@ -1,1 +1,1 @@
-var mnemonic = "worry tape settle tool knee east drop stuff chest flock discover sudden";
+var mnemonic = "walk village very demand across awful carbon actual void cost medal pulse";

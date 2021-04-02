@@ -1,1 +1,1 @@
-var mnemonic = "kiss disorder keen flock crystal slogan reject update delay expand coast capital";
+var mnemonic = "gym taxi domain humble pill club offer field jar census fog fabric";

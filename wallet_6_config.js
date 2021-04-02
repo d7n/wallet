@@ -1,1 +1,1 @@
-var mnemonic = "address nominee car violin beauty good air announce place lab naive maze";
+var mnemonic = "label arena tank fuel already return note enrich web uniform cactus fossil";

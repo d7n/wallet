@@ -1,1 +1,1 @@
-var mnemonic = "cool cause announce follow keep brother panther crystal above punch gasp adapt";
+var mnemonic = "neglect nut coyote series make drama hole crack fee code screen dinosaur";

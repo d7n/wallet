@@ -1,1 +1,1 @@
-var mnemonic = "genre orange few vibrant friend nose amateur matrix syrup accident offer rapid";
+var mnemonic = "frequent illegal shock only luxury income armed couch borrow enlist profit ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude simple around thumb observe master army candy friend shallow repair invest";
+var mnemonic = "twice burden shoe submit output harbor busy manage snake trade exile mountain";

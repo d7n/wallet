@@ -1,1 +1,1 @@
-var mnemonic = "diamond hockey castle lunch eagle master cushion suggest thrive able turn muscle";
+var mnemonic = "tent lawsuit fantasy spoil inspire youth island comic basket dish flag better";

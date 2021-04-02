@@ -1,1 +1,1 @@
-var mnemonic = "zone place donkey bachelor rabbit pony belt clap tumble fault pigeon poet";
+var mnemonic = "relief lock match verb basic cluster hawk recall pill wear disagree home";

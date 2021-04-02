@@ -1,1 +1,1 @@
-var mnemonic = "club auction peace sausage fabric reform style hair right able basket funny";
+var mnemonic = "turn system noble mansion expect goddess weather devote try hurt foot owner";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey obvious reject only knock track fiction genre birth only view thrive";
+var mnemonic = "language alert bomb answer entry page cover patrol fiscal odor heart patrol";

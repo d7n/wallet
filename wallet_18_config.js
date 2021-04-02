@@ -1,1 +1,1 @@
-var mnemonic = "vendor toilet host clock rice person olive scene solid glue exotic crack";
+var mnemonic = "nut camp suit rabbit kidney motion clean unaware distance forward recycle upper";

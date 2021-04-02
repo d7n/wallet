@@ -1,1 +1,1 @@
-var mnemonic = "draft print cabin miracle afraid during turn one creek hood original judge";
+var mnemonic = "bleak erosion true ozone edit salt axis cave soft zoo shy tourist";

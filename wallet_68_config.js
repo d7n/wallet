@@ -1,1 +1,1 @@
-var mnemonic = "admit unit embark elevator void hurdle auction flock spray very acquire mammal";
+var mnemonic = "sell shift basic maximum blanket mountain jewel thank struggle diet ensure achieve";

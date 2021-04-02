@@ -1,1 +1,1 @@
-var mnemonic = "renew leisure chest humble seminar sad come gas topple pill tide scissors";
+var mnemonic = "stomach very join cannon letter verify faint bean exist wave wool approve";

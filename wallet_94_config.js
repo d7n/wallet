@@ -1,1 +1,1 @@
-var mnemonic = "hungry magnet party seed labor news multiply into catalog cause scrap anger";
+var mnemonic = "stamp phrase bottom scrap phrase drum area rebuild mimic dust drama hair";

@@ -1,1 +1,1 @@
-var mnemonic = "myth seed rescue future already lava modify reflect run imitate wink front";
+var mnemonic = "unfair grape whisper mad decrease traffic rookie couch basic urban august order";

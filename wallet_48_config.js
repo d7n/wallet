@@ -1,1 +1,1 @@
-var mnemonic = "ancient north use high capital shadow trigger sea into high asthma wedding";
+var mnemonic = "chat reject wheat beauty vibrant train price person dish loan flock tragic";

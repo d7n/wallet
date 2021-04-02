@@ -1,1 +1,1 @@
-var mnemonic = "loyal forward sniff become chalk water laugh glance sausage width shuffle scare";
+var mnemonic = "news junior laundry name artist escape come fortune canoe guitar near sadness";

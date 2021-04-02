@@ -1,1 +1,1 @@
-var mnemonic = "energy twelve tenant use jelly helmet razor barely reward praise weekend appear";
+var mnemonic = "stock ranch pair culture captain letter habit hub seat quick sight tumble";

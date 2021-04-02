@@ -1,1 +1,1 @@
-var mnemonic = "permit across safe front race mom diesel romance embark piece hold fire";
+var mnemonic = "exist boil manage amount equal biology yard absorb rough draw cattle vacuum";

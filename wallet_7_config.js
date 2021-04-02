@@ -1,1 +1,1 @@
-var mnemonic = "silent where stumble beyond witness window consider father wet term aisle wrestle";
+var mnemonic = "insane crime supreme mean expose will curve flight fever raise circle hip";

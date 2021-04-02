@@ -1,1 +1,1 @@
-var mnemonic = "pact purity wheel mix curtain onion alpha brave soup around sight infant";
+var mnemonic = "lawn pitch couch marine lecture goddess box season swing amount luxury bottom";

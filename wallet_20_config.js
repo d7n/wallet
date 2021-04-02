@@ -1,1 +1,1 @@
-var mnemonic = "diesel fog census alpha liberty minute fold absorb album uniform edge mixed";
+var mnemonic = "math safe roast side orange cage raise circle spend faculty slender code";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm execute liquid sister soda know grape memory tired fiber squeeze giant";
+var mnemonic = "coyote assist square excuse cactus pumpkin enter okay discover kidney swallow vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "balance april orient outer keen taste ripple master loan ladder axis submit";
+var mnemonic = "seminar code bring accident six today lounge tunnel sand actor pretty scare";

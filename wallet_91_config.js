@@ -1,1 +1,1 @@
-var mnemonic = "world muscle noodle save verify urge liberty thrive output ensure soon unfair";
+var mnemonic = "main wasp model table person liberty pet riot oyster loud climb benefit";

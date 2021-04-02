@@ -1,1 +1,1 @@
-var mnemonic = "perfect mystery afford parrot result letter shrimp churn venture boost coconut morning";
+var mnemonic = "match fortune plug obvious venue benefit crop kid food vital square impose";

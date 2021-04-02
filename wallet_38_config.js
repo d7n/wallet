@@ -1,1 +1,1 @@
-var mnemonic = "topple fog more sheriff input rescue wave all maze motion rookie toss";
+var mnemonic = "dilemma peace where now primary banner olympic skate celery noise chalk submit";

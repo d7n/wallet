@@ -1,1 +1,1 @@
-var mnemonic = "session bulk rack daughter fun plug gentle unlock people name radio mountain";
+var mnemonic = "photo toss key relief gospel sun sunset style much damage scorpion menu";

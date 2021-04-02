@@ -1,1 +1,1 @@
-var mnemonic = "disagree grace betray mix thumb bless shuffle leave soup oval awesome resource";
+var mnemonic = "garment tiny chunk thunder devote journey harsh egg liberty unusual sudden robust";

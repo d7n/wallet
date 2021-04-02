@@ -1,1 +1,1 @@
-var mnemonic = "close supply bulk frown swamp parade unable detail minimum thrive second pill";
+var mnemonic = "bargain omit drastic danger night script stool enlist essay kiss around mean";

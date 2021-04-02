@@ -1,1 +1,1 @@
-var mnemonic = "cliff cherry witness unveil save spider brief horse own build crumble air";
+var mnemonic = "aisle gorilla victory danger asset image expire great path double claim quarter";

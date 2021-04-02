@@ -1,1 +1,1 @@
-var mnemonic = "squirrel uncover edit glance purse stuff segment kingdom twin stand race curious";
+var mnemonic = "size enrich logic chicken early now black blood short fame loan merge";

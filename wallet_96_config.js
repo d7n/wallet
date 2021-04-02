@@ -1,1 +1,1 @@
-var mnemonic = "calm cupboard text capable call hamster charge volcano erosion review child visual";
+var mnemonic = "stairs cloth evolve genius ribbon return eagle candy school exhaust moon history";

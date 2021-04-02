@@ -1,1 +1,1 @@
-var mnemonic = "mouse indoor exchange celery gossip tenant carpet mom congress seminar slot warrior";
+var mnemonic = "leave arena bomb aware sword stereo rely beyond misery mean trap exchange";

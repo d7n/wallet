@@ -1,1 +1,1 @@
-var mnemonic = "erode roof expand bronze fix tiger cricket inquiry gun bargain soul theory";
+var mnemonic = "give material crowd address artefact air refuse orchard inflict top stool alarm";

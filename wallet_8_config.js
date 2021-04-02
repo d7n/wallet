@@ -1,1 +1,1 @@
-var mnemonic = "acoustic spy isolate sausage picture document coconut clown average depth barrel robust";
+var mnemonic = "position judge net update flame still develop mirror turtle jaguar light rival";

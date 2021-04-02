@@ -1,1 +1,1 @@
-var mnemonic = "please liberty accuse afford slide scrap fiber abandon enforce tip entire bachelor";
+var mnemonic = "face prepare hill royal mule digital sponsor alert you unit purse region";

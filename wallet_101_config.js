@@ -1,1 +1,1 @@
-var mnemonic = "lobster jealous deposit jacket draft dose tuna catch gift ostrich grocery give";
+var mnemonic = "ivory remind labor live banner chair empower chef hobby caution chaos session";

@@ -1,1 +1,1 @@
-var mnemonic = "actual spider alert knee april inquiry ozone wealth behind inflict cause author";
+var mnemonic = "slight lunar actress economy shoe poverty garbage wagon envelope cost satisfy rude";

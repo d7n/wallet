@@ -1,1 +1,1 @@
-var mnemonic = "guilt sponsor recall lawsuit powder october consider page tell topple foster tower";
+var mnemonic = "silk salt black peace frown puzzle flat demise devote bright junior dirt";

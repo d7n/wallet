@@ -1,1 +1,1 @@
-var mnemonic = "blue true ship other large unfair talk route orange cloud melt yellow";
+var mnemonic = "length human finger tank vehicle attract bonus twist sleep sleep leg seed";

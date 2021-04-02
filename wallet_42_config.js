@@ -1,1 +1,1 @@
-var mnemonic = "burden mistake item half ritual limit bridge know blast heart inquiry mention";
+var mnemonic = "stem topic obscure lyrics lunar promote era answer valid credit double blue";

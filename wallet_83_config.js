@@ -1,1 +1,1 @@
-var mnemonic = "raccoon finger crew include decrease water can frame foot file myself topic";
+var mnemonic = "void purity fall image hotel improve mansion borrow oppose apology adjust bottom";

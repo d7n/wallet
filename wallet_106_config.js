@@ -1,1 +1,1 @@
-var mnemonic = "visual return mandate dynamic then aisle adult imitate member adjust source ice";
+var mnemonic = "truck worry tilt flag speak segment always wild slice envelope entire resource";

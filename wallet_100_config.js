@@ -1,1 +1,1 @@
-var mnemonic = "between wear case shadow infant fossil cook together farm strike endless prefer";
+var mnemonic = "dirt engage emotion embrace vehicle index post vague jazz math dry all";

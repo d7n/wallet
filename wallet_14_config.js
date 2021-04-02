@@ -1,1 +1,1 @@
-var mnemonic = "father abandon capable idea life struggle myth dune what question brief venture";
+var mnemonic = "enable essay cart book exhaust crush catch coconut kitchen insect inch witness";

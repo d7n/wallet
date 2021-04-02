@@ -1,1 +1,1 @@
-var mnemonic = "title coast prefer reason sibling museum original kidney olive armor conduct run";
+var mnemonic = "meadow oyster shaft control transfer confirm reflect humor pistol uncle glad uphold";

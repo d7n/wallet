@@ -1,1 +1,1 @@
-var mnemonic = "scissors resist source bright memory behave cupboard verb lizard federal apple mutual";
+var mnemonic = "puzzle rate reunion deputy pepper weekend profit metal silk reject yard trip";

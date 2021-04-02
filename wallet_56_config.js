@@ -1,1 +1,1 @@
-var mnemonic = "sense embody soup denial wish umbrella skate acid protect joy believe depart";
+var mnemonic = "liberty metal elevator jazz brand dream first fatigue genius reason over bright";

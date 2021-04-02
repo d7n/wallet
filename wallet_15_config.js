@@ -1,1 +1,1 @@
-var mnemonic = "build picnic delay cost theory size indoor tape dolphin mixture mirror spread";
+var mnemonic = "innocent hurdle bench fruit dragon notice veteran slot embrace intact gap expose";

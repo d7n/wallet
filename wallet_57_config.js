@@ -1,1 +1,1 @@
-var mnemonic = "calm tape file useful trigger impulse affair wisdom plug cycle nature noodle";
+var mnemonic = "nice expire december icon umbrella dove slogan warrior screen explain assist staff";

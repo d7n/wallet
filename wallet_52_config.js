@@ -1,1 +1,1 @@
-var mnemonic = "pudding vote rabbit parent urge knock question honey clarify nut order banner";
+var mnemonic = "check deposit model tip speak frown ask memory purity gesture twice aim";

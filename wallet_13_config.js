@@ -1,1 +1,1 @@
-var mnemonic = "bottom ginger blush borrow mango unfair rally public reveal heart walnut example";
+var mnemonic = "coyote license pause tip buyer day auction length dynamic photo arrow bench";

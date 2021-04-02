@@ -1,1 +1,1 @@
-var mnemonic = "utility october coyote uniform recipe large flip title learn desk delay bracket";
+var mnemonic = "weather scatter hidden human pumpkin head vague confirm avoid argue dash scan";

@@ -1,1 +1,1 @@
-var mnemonic = "mango genius party excuse nature donate snow siren short upgrade update brass";
+var mnemonic = "permit husband skill family cram cry process aspect seven page ivory region";

@@ -1,1 +1,1 @@
-var mnemonic = "hair outside crane entire lake endless cycle candy review spy feel spell";
+var mnemonic = "rapid sure avoid table lucky patrol sheriff velvet quit card apart cattle";

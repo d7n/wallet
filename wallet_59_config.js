@@ -1,1 +1,1 @@
-var mnemonic = "achieve warrior skin kitten hundred series weasel mass method corn scrub barely";
+var mnemonic = "sentence hurdle comfort team skate chef ball base solar angle december hurry";

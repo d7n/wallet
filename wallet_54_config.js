@@ -1,1 +1,1 @@
-var mnemonic = "hurdle suit feed adult shed palm record arrange perfect grab certain winner";
+var mnemonic = "job ship rocket inner scan glory seed seek wage canal zebra little";

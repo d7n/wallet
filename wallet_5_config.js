@@ -1,1 +1,1 @@
-var mnemonic = "bean achieve forum joke action imitate fancy stumble benefit attack curtain pupil";
+var mnemonic = "prosper day ice modify coast use genius flat roast penalty beauty remind";

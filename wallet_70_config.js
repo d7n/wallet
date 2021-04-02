@@ -1,1 +1,1 @@
-var mnemonic = "throw enrich depart sample raw round rabbit pen educate option crater still";
+var mnemonic = "dignity lonely one pole manage earth water clip lion release sheriff slot";

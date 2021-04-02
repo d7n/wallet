@@ -1,1 +1,1 @@
-var mnemonic = "earn mercy mosquito grid flip used divorce uphold mom fox hero swear";
+var mnemonic = "shoe awesome gallery coconut topple broken ozone mouse refuse domain magic quarter";

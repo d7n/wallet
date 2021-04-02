@@ -1,1 +1,1 @@
-var mnemonic = "desert bitter fence fan wet wish become cannon soup mouse shaft comic";
+var mnemonic = "inch leave eight huge present pluck soup confirm depart claw sample fit";

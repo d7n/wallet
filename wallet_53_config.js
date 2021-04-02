@@ -1,1 +1,1 @@
-var mnemonic = "hour vacuum island hour pottery lion pool rocket visual dinosaur away napkin";
+var mnemonic = "express ranch body entry oval skate switch uphold asthma uncover eight pen";

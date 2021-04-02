@@ -1,1 +1,1 @@
-var mnemonic = "scatter sweet argue curious lyrics imitate load winter one trial learn page";
+var mnemonic = "series follow author toast huge clinic cereal rescue best toe van model";

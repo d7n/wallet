@@ -1,1 +1,1 @@
-var mnemonic = "sick now close august analyst wasp food electric city renew rally critic";
+var mnemonic = "flag meadow process rally marine museum direct moment logic high cheese gospel";

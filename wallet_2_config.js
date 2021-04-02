@@ -1,1 +1,1 @@
-var mnemonic = "nut buddy document win miss vote spawn scrap coin virus become easy";
+var mnemonic = "chimney wool fat rescue actual large brand quantum breeze range portion tackle";

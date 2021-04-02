@@ -1,1 +1,1 @@
-var mnemonic = "cliff pelican inch fold love test defy captain novel exile accident glass";
+var mnemonic = "tornado edit captain improve fiscal betray assume dose rookie replace eye skate";
