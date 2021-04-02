@@ -1,1 +1,1 @@
-var mnemonic = "ten nut final diamond inside merry entire option useful wonder fence ten";
+var mnemonic = "love magnet then tenant fruit clip keep depend question taxi mandate choose";

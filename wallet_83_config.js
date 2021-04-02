@@ -1,1 +1,1 @@
-var mnemonic = "pride casino mosquito ostrich paper hunt lonely casino right risk solve mom";
+var mnemonic = "immense very access drive curious identify medal survey shell goddess kitchen anchor";

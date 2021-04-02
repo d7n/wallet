@@ -1,1 +1,1 @@
-var mnemonic = "balance enable virtual twenty bike skin never nest dinner cake insect utility";
+var mnemonic = "tackle swarm brush shock coral couch vocal tomorrow antique book police ring";

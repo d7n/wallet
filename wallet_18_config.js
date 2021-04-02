@@ -1,1 +1,1 @@
-var mnemonic = "immense hawk erupt audit taxi truly outside clerk cricket script bundle grief";
+var mnemonic = "grocery property decrease poverty minimum domain amateur wealth digital tomato bicycle element";

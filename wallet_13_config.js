@@ -1,1 +1,1 @@
-var mnemonic = "water faculty sketch slim vital wisdom slab novel gentle like spawn raccoon";
+var mnemonic = "poverty dawn school enforce enter orbit keen battle uniform panel distance matter";

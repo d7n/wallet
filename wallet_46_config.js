@@ -1,1 +1,1 @@
-var mnemonic = "goose amount spike pencil naive bullet ahead enter village wage noodle sentence";
+var mnemonic = "real panic organ blast number unit lunch universe chaos accident hammer ignore";

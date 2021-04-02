@@ -1,1 +1,1 @@
-var mnemonic = "hen myth drive sort safe unknown erode scrub focus obtain entire all";
+var mnemonic = "analyst team clinic angry burger toss correct rifle fox mad scrap gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "common receive round spatial sunset owner panda reduce reform number deliver scale";
+var mnemonic = "tuition bus develop blossom metal roast matrix argue decide fog hover robot";

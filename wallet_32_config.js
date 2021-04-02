@@ -1,1 +1,1 @@
-var mnemonic = "that tribe flight choose biology winner brisk become burden van private recipe";
+var mnemonic = "cross just must gospel web type razor come resemble state oyster federal";

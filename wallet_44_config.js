@@ -1,1 +1,1 @@
-var mnemonic = "bitter predict height try such pilot all shine spot essay damp stand";
+var mnemonic = "audit patch world jaguar now wild color high hospital jeans access uphold";

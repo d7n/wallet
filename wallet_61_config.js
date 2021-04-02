@@ -1,1 +1,1 @@
-var mnemonic = "vintage easily fold sock express cash steak income cushion claw burden garden";
+var mnemonic = "when sand turn rack insane soccer burst that tank swift column title";

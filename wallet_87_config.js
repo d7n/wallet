@@ -1,1 +1,1 @@
-var mnemonic = "drive anxiety toddler man toward page problem hood enemy permit leopard relief";
+var mnemonic = "sell hand gadget next replace wash spice winter group shoe topic defense";

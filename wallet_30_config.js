@@ -1,1 +1,1 @@
-var mnemonic = "mix deliver speak method limb kiwi below worth stem acquire ribbon three";
+var mnemonic = "find estate problem cushion skull quit target luxury west apology obtain shock";

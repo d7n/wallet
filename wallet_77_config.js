@@ -1,1 +1,1 @@
-var mnemonic = "judge inflict column magnet fashion mixed sustain distance little track text agent";
+var mnemonic = "toast oven icon sun hub social detect young hen defy quality check";

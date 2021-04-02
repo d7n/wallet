@@ -1,1 +1,1 @@
-var mnemonic = "before sad ecology awkward current indoor page style lizard furnace engage roof";
+var mnemonic = "bachelor neutral rely melt destroy garlic favorite load sphere mistake lava field";

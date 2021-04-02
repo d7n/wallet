@@ -1,1 +1,1 @@
-var mnemonic = "crop trophy arrest toilet churn actress borrow start junk fatal marble usual";
+var mnemonic = "phrase improve fitness cost tonight glide vacant strategy abstract cruel below warrior";

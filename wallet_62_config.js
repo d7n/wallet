@@ -1,1 +1,1 @@
-var mnemonic = "picnic addict taste flight rhythm media ill coast raise draft dash man";
+var mnemonic = "hunt shop attitude march smart invest hair shed timber goat proud speak";

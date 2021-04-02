@@ -1,1 +1,1 @@
-var mnemonic = "potato museum harvest garage bridge hockey hobby spatial matrix ill attitude picture";
+var mnemonic = "seven abstract evil kite saddle taxi cloth select kiwi produce soda door";

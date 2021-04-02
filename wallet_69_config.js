@@ -1,1 +1,1 @@
-var mnemonic = "rose nothing flavor hurry survey oblige mammal edit zebra nerve about muffin";
+var mnemonic = "ripple run mean method siege retire start initial pave mind defy trip";

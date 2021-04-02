@@ -1,1 +1,1 @@
-var mnemonic = "depend mushroom vendor pear fury mountain foster episode ketchup wreck judge rescue";
+var mnemonic = "kit thumb select maximum crouch usage dilemma beyond catalog similar kick pair";

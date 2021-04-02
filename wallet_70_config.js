@@ -1,1 +1,1 @@
-var mnemonic = "hamster search book peanut call account alone wing glare senior oak dash";
+var mnemonic = "oven jelly athlete sport cousin train sample tired drum assist include example";

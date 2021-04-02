@@ -1,1 +1,1 @@
-var mnemonic = "enjoy divide pipe attitude music away adapt broken list artist duty true";
+var mnemonic = "view amount sunset admit chase brass relief vibrant cover blood trumpet absurd";

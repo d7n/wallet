@@ -1,1 +1,1 @@
-var mnemonic = "repeat practice vacant scale fever devote lake sudden hello cruel clean boss";
+var mnemonic = "speak solution guilt ribbon suggest morning entry wheel original green joy arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "night fire craft laugh sister reopen scorpion arrest ridge cost fiber fatal";
+var mnemonic = "cancel measure miracle clog busy manage client trip much tattoo outer chat";

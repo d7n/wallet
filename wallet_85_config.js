@@ -1,1 +1,1 @@
-var mnemonic = "degree jewel post moral bone pupil grain off gas grace tide spatial";
+var mnemonic = "green such daring permit expect attract simple inspire path benefit field helmet";

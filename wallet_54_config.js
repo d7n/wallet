@@ -1,1 +1,1 @@
-var mnemonic = "sunset student dress dinosaur inside term verify stage simple sell steel hungry";
+var mnemonic = "cluster ridge collect false label smart unfair bicycle travel assist dial film";

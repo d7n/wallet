@@ -1,1 +1,1 @@
-var mnemonic = "include lock old uncover cliff peanut net chalk cross under oppose spell";
+var mnemonic = "hurry smart era that stick animal edit donor fence onion cigar iron";

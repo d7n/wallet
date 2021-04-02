@@ -1,1 +1,1 @@
-var mnemonic = "purity embark found scrub visual dial vital asset broccoli give eyebrow spoil";
+var mnemonic = "service glance disease critic female winter glad dolphin cotton donkey canyon cheap";

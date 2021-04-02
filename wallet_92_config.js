@@ -1,1 +1,1 @@
-var mnemonic = "team asthma destroy imitate reform jaguar vapor sing spoon apology immune imitate";
+var mnemonic = "glass comic dismiss nose solve orient economy over between demise civil erase";

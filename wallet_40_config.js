@@ -1,1 +1,1 @@
-var mnemonic = "avoid equal fiber avocado walnut metal reopen old crane load twice evolve";
+var mnemonic = "minute joke early pass total aerobic rubber raccoon sand grant vicious model";

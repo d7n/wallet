@@ -1,1 +1,1 @@
-var mnemonic = "mom reduce fiction pioneer ball hawk drift release sentence ribbon proud jump";
+var mnemonic = "wreck humble dune dynamic senior social trash oven green soda lab erosion";

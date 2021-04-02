@@ -1,1 +1,1 @@
-var mnemonic = "kitten online master disorder prison please swamp summer nasty egg artefact spike";
+var mnemonic = "tilt tribe fiscal panel such cheese lunar early enrich helmet cool symptom";

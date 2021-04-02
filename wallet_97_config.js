@@ -1,1 +1,1 @@
-var mnemonic = "season final trouble win treat custom bunker tonight butter hollow aspect close";
+var mnemonic = "denial thrive recycle change sleep used arrow pluck leaf blouse envelope quality";

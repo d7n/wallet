@@ -1,1 +1,1 @@
-var mnemonic = "toast enjoy famous witness bless bus diet tape aspect impact bench trust";
+var mnemonic = "draft another length start useless focus syrup holiday cat season creek garage";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom island sword face decade crystal food route exchange fabric man snow";
+var mnemonic = "you east divert bike fatal senior milk feel general crisp move fatigue";

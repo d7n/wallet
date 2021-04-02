@@ -1,1 +1,1 @@
-var mnemonic = "grief legal always setup mango hat card sustain meat torch slam bonus";
+var mnemonic = "wage bottom negative glow salon virtual trust core another often fragile arrow";

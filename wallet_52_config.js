@@ -1,1 +1,1 @@
-var mnemonic = "crop jealous oven power local robust buddy donate impose cabbage wisdom input";
+var mnemonic = "issue upper chicken trust pen peace sick receive twice drive income into";

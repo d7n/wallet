@@ -1,1 +1,1 @@
-var mnemonic = "almost suit twenty shove supreme dentist acid win clever sick brass lava";
+var mnemonic = "diesel cake fresh decade squirrel sword engine divert discover bread baby drill";

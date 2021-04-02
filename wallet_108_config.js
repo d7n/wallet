@@ -1,1 +1,1 @@
-var mnemonic = "often patrol spot grid zoo health area since forget debate inform someone";
+var mnemonic = "warm actress away tuna range wife pledge doctor ceiling enough found choice";

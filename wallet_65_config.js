@@ -1,1 +1,1 @@
-var mnemonic = "reform helmet blur voyage ivory embody burger fresh slot episode space slight";
+var mnemonic = "cube chicken recall convince pudding legal glory inquiry need ghost goose dice";

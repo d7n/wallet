@@ -1,1 +1,1 @@
-var mnemonic = "simple dragon sample hammer banana razor rotate waste picture remind solar marriage";
+var mnemonic = "increase fitness capital snap match tilt trim escape tray swarm steel minor";

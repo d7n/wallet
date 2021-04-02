@@ -1,1 +1,1 @@
-var mnemonic = "wife alone general situate length above magnet loan barely diet chat boss";
+var mnemonic = "someone boost reopen topic square upper power spawn copper clerk elbow retire";

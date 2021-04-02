@@ -1,1 +1,1 @@
-var mnemonic = "choose sentence screen spring walk van close confirm unaware dwarf travel fantasy";
+var mnemonic = "isolate agent witness off cupboard naive dismiss kind innocent shiver found town";

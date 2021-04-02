@@ -1,1 +1,1 @@
-var mnemonic = "kitten match bronze desk sunset young student room injury staff host tone";
+var mnemonic = "decade dust comfort crater spot pottery van category jealous rain half shield";

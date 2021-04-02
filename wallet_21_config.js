@@ -1,1 +1,1 @@
-var mnemonic = "country owner decrease keep vault globe captain fame job home unable noise";
+var mnemonic = "sphere breeze wrestle small begin crumble push decline genuine carpet sort pluck";

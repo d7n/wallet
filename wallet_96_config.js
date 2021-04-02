@@ -1,1 +1,1 @@
-var mnemonic = "giant parent sight length address famous identify nasty churn stone profit record";
+var mnemonic = "predict rough analyst rifle question will strong rule uphold scan stone fire";

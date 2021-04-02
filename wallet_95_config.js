@@ -1,1 +1,1 @@
-var mnemonic = "message exile tool exchange hello slide genre display face twist prevent uncle";
+var mnemonic = "fabric rule praise voice sweet tape damage virtual add base call hybrid";

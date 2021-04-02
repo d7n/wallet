@@ -1,1 +1,1 @@
-var mnemonic = "hour practice grace coffee bounce school room cousin crack interest party wagon";
+var mnemonic = "hollow fun vintage devote perfect theory action choice talent flock wet laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "address vehicle illness expire silk they control veteran end clerk pepper pilot";
+var mnemonic = "annual opera leg credit rose bamboo fresh load clown mouse fluid input";

@@ -1,1 +1,1 @@
-var mnemonic = "digital elegant soul lion hedgehog expire fiction cash cannon husband slush undo";
+var mnemonic = "cat language write happy balcony biology fitness sock gossip maze vast immune";

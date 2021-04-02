@@ -1,1 +1,1 @@
-var mnemonic = "hold shiver sample frequent anchor olive satisfy magic grit law evil banner";
+var mnemonic = "element dolphin crane random injury secret timber tomato urban credit cream change";

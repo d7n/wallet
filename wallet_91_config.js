@@ -1,1 +1,1 @@
-var mnemonic = "strong green cricket boost earn share pink sure focus dawn crash pluck";
+var mnemonic = "rose need session manual inch almost express this bring youth title couple";

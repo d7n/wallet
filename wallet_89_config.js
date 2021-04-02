@@ -1,1 +1,1 @@
-var mnemonic = "lock sun shield echo morning pass argue disorder slide claw stock inhale";
+var mnemonic = "dignity outer extra solar reward cave volcano mandate shoot carpet chimney coil";

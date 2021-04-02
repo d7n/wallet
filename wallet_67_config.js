@@ -1,1 +1,1 @@
-var mnemonic = "bus speed stool harvest erase labor silly comic result furnace wide monitor";
+var mnemonic = "industry hundred ozone parade hybrid prize put guilt pumpkin debate surround settle";

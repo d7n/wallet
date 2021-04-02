@@ -1,1 +1,1 @@
-var mnemonic = "crop improve alter snack canal sword shrimp mandate million silly sense lamp";
+var mnemonic = "morning witness luggage today goose recycle snow person when drift armed three";

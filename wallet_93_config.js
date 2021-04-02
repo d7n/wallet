@@ -1,1 +1,1 @@
-var mnemonic = "human decide unknown harbor solution network spice smile salute various asthma city";
+var mnemonic = "sentence loyal plug upset borrow shell blush doll letter craft sail disorder";

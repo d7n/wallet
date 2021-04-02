@@ -1,1 +1,1 @@
-var mnemonic = "parent cushion slab nuclear idea ugly blanket gun rude resource leader bus";
+var mnemonic = "between nurse video wise girl spoil enforce marine lava edit soda gap";

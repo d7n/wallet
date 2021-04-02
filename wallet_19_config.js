@@ -1,1 +1,1 @@
-var mnemonic = "stage reopen club voice lawn apart question swift example gold elephant erupt";
+var mnemonic = "nuclear history inform rabbit detect lobster category version gloom aunt remind ordinary";

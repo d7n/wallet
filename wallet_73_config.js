@@ -1,1 +1,1 @@
-var mnemonic = "length screen prison gallery guess man dentist network phrase party early travel";
+var mnemonic = "era sick nominee merit impulse deny fever toilet stadium reduce again asset";

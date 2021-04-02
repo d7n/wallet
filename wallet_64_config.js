@@ -1,1 +1,1 @@
-var mnemonic = "marine crouch aerobic ignore slim grape average unaware various angle other index";
+var mnemonic = "subway dumb dove shrimp gym fault trim entire throw paper antique series";

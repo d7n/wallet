@@ -1,1 +1,1 @@
-var mnemonic = "village control grid wisdom insane process fold about wrap oxygen price frequent";
+var mnemonic = "soon piano absent suffer assault sword loop hair dawn woman crew crouch";

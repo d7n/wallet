@@ -1,1 +1,1 @@
-var mnemonic = "goddess vanish inject frequent foil kitten initial brick bacon asthma pig radio";
+var mnemonic = "million clap young usage toss lemon bacon luggage field elder style spare";

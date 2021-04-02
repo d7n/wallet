@@ -1,1 +1,1 @@
-var mnemonic = "voyage assume essence treat round salmon tip release erupt punch document pig";
+var mnemonic = "catch result jacket sister flock razor crazy frequent detect record sugar fly";

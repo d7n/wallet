@@ -1,1 +1,1 @@
-var mnemonic = "fatigue thrive alert vapor excite topple coyote alone pen tiger chef quarter";
+var mnemonic = "dolphin style shell bleak budget wise chair property mention record cattle case";

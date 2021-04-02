@@ -1,1 +1,1 @@
-var mnemonic = "bridge bike enhance slab exotic limit analyst resist elbow bomb art erode";
+var mnemonic = "alter wife rib spike toward harvest artefact actor question field tree define";

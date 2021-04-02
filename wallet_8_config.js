@@ -1,1 +1,1 @@
-var mnemonic = "chicken barely minute defy winner option left mule clock assume book actress";
+var mnemonic = "wave total display under safe match never buyer earn uniform very voyage";

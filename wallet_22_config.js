@@ -1,1 +1,1 @@
-var mnemonic = "silly coach twist wasp rescue present random body ketchup enough bone cool";
+var mnemonic = "tortoise foam maze annual elbow purpose belt acquire only clever aerobic urban";

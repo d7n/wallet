@@ -1,1 +1,1 @@
-var mnemonic = "surge razor science rebel crunch coin stamp grain oval slight veteran uphold";
+var mnemonic = "ritual another tent robust eight script hat marriage inside vapor roast question";

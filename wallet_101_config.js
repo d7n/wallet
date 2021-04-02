@@ -1,1 +1,1 @@
-var mnemonic = "amused symptom solution venture light bar pilot volcano icon cousin page smart";
+var mnemonic = "rescue cat wonder when quote physical lucky cruise eternal come find ocean";

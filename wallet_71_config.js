@@ -1,1 +1,1 @@
-var mnemonic = "fit differ voice hawk symbol dawn vehicle honey vacant outer cinnamon mobile";
+var mnemonic = "negative visual slow wine unique notable west river thought judge normal only";

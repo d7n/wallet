@@ -1,1 +1,1 @@
-var mnemonic = "height decide excess have copper rally steel dutch three chalk copper suffer";
+var mnemonic = "cram arctic now expand fuel define solid ice lunch rule garden stove";

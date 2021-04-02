@@ -1,1 +1,1 @@
-var mnemonic = "rookie devote piece stairs feed clock enroll melt world virtual exercise slow";
+var mnemonic = "sample coach ski smoke dial action tray stumble neither record toy chief";

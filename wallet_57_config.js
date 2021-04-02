@@ -1,1 +1,1 @@
-var mnemonic = "main arrest entire arrest stick walk anchor gown throw notice defense furnace";
+var mnemonic = "random shell legal disorder surge ignore version swift bitter unfold method misery";

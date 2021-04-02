@@ -1,1 +1,1 @@
-var mnemonic = "atom divide wheat alpha series marble tissue quantum force excess public library";
+var mnemonic = "luxury amused raise slim satisfy truth fossil before negative person film add";

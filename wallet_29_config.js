@@ -1,1 +1,1 @@
-var mnemonic = "refuse eternal quit chaos whisper crouch tortoise sail hammer angry urge marriage";
+var mnemonic = "attend fluid duck board scene regret people glow judge learn trend treat";

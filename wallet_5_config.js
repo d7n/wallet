@@ -1,1 +1,1 @@
-var mnemonic = "click similar thrive grunt agent sister defense behind carpet army marble south";
+var mnemonic = "sign celery slender captain usual patch else release demand circle act pudding";

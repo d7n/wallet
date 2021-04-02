@@ -1,1 +1,1 @@
-var mnemonic = "crime spatial crush orphan taste diagram banana thing liberty wealth comic situate";
+var mnemonic = "chunk vast empower ceiling address monitor jump genius cousin expand truly woman";

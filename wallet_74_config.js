@@ -1,1 +1,1 @@
-var mnemonic = "wave noodle sudden segment smooth prosper baby funny arm range brother alley";
+var mnemonic = "moon one swim dance into gospel chimney pride swallow employ profit vessel";

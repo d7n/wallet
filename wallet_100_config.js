@@ -1,1 +1,1 @@
-var mnemonic = "stock fox unlock skill tower wire notable aerobic drink material comic echo";
+var mnemonic = "river train argue spatial noodle dolphin demise chimney pear pair butter emotion";

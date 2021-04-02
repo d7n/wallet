@@ -1,1 +1,1 @@
-var mnemonic = "gallery morning possible choice clay myself render erode flat situate shadow position";
+var mnemonic = "verify husband crowd admit enhance embark before arrow chair day other few";

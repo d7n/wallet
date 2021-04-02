@@ -1,1 +1,1 @@
-var mnemonic = "lawn polar zoo safe like magic asset kind daring brain crazy galaxy";
+var mnemonic = "force accuse spoon someone very loan glance ignore catalog nominee derive napkin";

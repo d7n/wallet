@@ -1,1 +1,1 @@
-var mnemonic = "exclude bullet base ready become disagree vendor avoid edge trade female electric";
+var mnemonic = "diary issue famous task weekend object hurt trend glide old forward mirror";

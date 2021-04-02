@@ -1,1 +1,1 @@
-var mnemonic = "beyond make worth miss sell narrow junior brave glad lens code milk";
+var mnemonic = "quit awesome inch utility frown benefit cradle waste marine modify come local";

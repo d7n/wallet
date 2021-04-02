@@ -1,1 +1,1 @@
-var mnemonic = "nation tongue dry forum foot universe recall island jump equal vintage special";
+var mnemonic = "scissors tragic distance harvest deer aisle inherit jeans sunny risk rocket concert";

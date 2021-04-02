@@ -1,1 +1,1 @@
-var mnemonic = "father diagram sea birth dwarf price ankle culture leisure marble flip parent";
+var mnemonic = "tower drive dune aunt manage skull rent pyramid infant leopard rough fee";
