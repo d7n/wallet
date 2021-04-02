@@ -1,1 +1,1 @@
-var mnemonic = "term plate escape curtain afford name common beauty quiz stool exile bicycle";
+var mnemonic = "net sauce gold evolve glue stove ensure famous palace blast tourist process";

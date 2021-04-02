@@ -1,1 +1,1 @@
-var mnemonic = "crime crucial same radar ankle tumble pilot neck outer scout mom wrap";
+var mnemonic = "fork wasp inner long tone balance cycle antique indoor hundred soon decorate";

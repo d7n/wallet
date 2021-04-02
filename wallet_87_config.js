@@ -1,1 +1,1 @@
-var mnemonic = "hand wasp sock warfare harsh special table tide skull meadow cheap option";
+var mnemonic = "boil relief below tragic remain pig zone sunset lab guitar coral food";

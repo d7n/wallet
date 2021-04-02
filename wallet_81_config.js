@@ -1,1 +1,1 @@
-var mnemonic = "seed improve reopen absent box burden walk match carry polar actress deny";
+var mnemonic = "scissors people swift race pill item amateur dice artwork second great people";

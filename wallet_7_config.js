@@ -1,1 +1,1 @@
-var mnemonic = "bread stone learn cake near captain welcome vicious old tent pride short";
+var mnemonic = "open approve index labor either parrot skirt drama exile aspect account breeze";

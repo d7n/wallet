@@ -1,1 +1,1 @@
-var mnemonic = "grief borrow connect swim argue tree claw more auction exist vapor list";
+var mnemonic = "leave spider swing mean clap mean advance remind notable jaguar also pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "solve elbow light card drill fatal sister patch offer spray couch near";
+var mnemonic = "atom jungle there put spin amused rotate moon echo tomato maze simple";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal settle ripple strong retire escape craft giggle trial caution skin uncover";
+var mnemonic = "pumpkin shoe train fitness addict seminar desk retire wire creek soup crouch";

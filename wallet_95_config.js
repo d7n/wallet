@@ -1,1 +1,1 @@
-var mnemonic = "mom tooth chat thumb worry entire soldier omit fresh bread awesome chief";
+var mnemonic = "trust reduce art drink lizard conduct fork old short inhale consider hub";

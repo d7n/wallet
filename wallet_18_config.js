@@ -1,1 +1,1 @@
-var mnemonic = "purpose luggage sibling panic uncover matrix inner predict dirt dinosaur rural announce";
+var mnemonic = "lunar dinosaur pudding gift hire loop tube scatter kick pottery hawk patrol";

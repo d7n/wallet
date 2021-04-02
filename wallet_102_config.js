@@ -1,1 +1,1 @@
-var mnemonic = "battle broken obscure lyrics cargo radar stomach useful swamp dose gravity myth";
+var mnemonic = "extend oven close void wage rough kidney equip opinion spot stereo unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap ten yard all win lawn grunt crater adjust index special clinic";
+var mnemonic = "mesh piece correct liar asthma sniff doctor say bomb amount benefit toilet";

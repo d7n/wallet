@@ -1,1 +1,1 @@
-var mnemonic = "switch betray network deer win warrior breeze casual banana energy frost novel";
+var mnemonic = "frozen limit neutral door abuse razor typical journey eagle earn ordinary income";

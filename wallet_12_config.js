@@ -1,1 +1,1 @@
-var mnemonic = "yellow float code smoke barrel battle suit earth endorse spoil nominee mercy";
+var mnemonic = "use upgrade rebuild joke royal damp device deliver solve phone eternal route";

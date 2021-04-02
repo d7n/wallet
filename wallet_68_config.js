@@ -1,1 +1,1 @@
-var mnemonic = "belt fatal subway usage crumble feel bleak number parade canoe melt rescue";
+var mnemonic = "oak helmet old fancy river advance foam nose marine quick nature tree";

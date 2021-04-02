@@ -1,1 +1,1 @@
-var mnemonic = "salon scrap trash fault pen exotic scene doll legal woman champion pilot";
+var mnemonic = "agree salute predict cannon field neglect lend obvious joy fetch solid tuition";

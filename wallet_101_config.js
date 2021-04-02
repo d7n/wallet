@@ -1,1 +1,1 @@
-var mnemonic = "joy iron frown today memory equip secret essence ritual garment van choice";
+var mnemonic = "review wool private fly knee fruit zero session track youth describe city";

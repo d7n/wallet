@@ -1,1 +1,1 @@
-var mnemonic = "animal rule measure icon motion unable eight rich captain blur buzz arch";
+var mnemonic = "kid leader guitar method jealous leopard good mushroom remain math tooth bone";

@@ -1,1 +1,1 @@
-var mnemonic = "spray wash magnet mesh short milk equal butter cause bread fabric great";
+var mnemonic = "obtain dove say tape gap cage jeans rifle gentle load such agree";

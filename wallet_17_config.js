@@ -1,1 +1,1 @@
-var mnemonic = "vacuum truly fetch canyon school peasant stomach vendor scorpion theory luxury submit";
+var mnemonic = "strategy parrot fantasy surprise combine check wife enter barely renew glue kid";

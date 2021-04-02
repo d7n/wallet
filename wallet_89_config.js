@@ -1,1 +1,1 @@
-var mnemonic = "wisdom entry ten tackle exchange clump warm series print taxi cargo honey";
+var mnemonic = "crash exclude town point march upgrade random sense damp waste spend exile";

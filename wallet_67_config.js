@@ -1,1 +1,1 @@
-var mnemonic = "stumble emotion tail palace vanish umbrella open run bullet return cushion undo";
+var mnemonic = "mind blanket differ robust improve manage match beef dawn slab art cart";

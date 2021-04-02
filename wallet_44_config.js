@@ -1,1 +1,1 @@
-var mnemonic = "hungry buyer champion hold essence soccer rubber corn entry penalty entire energy";
+var mnemonic = "absent burden pepper equip harbor borrow faint marble glory lemon supreme danger";

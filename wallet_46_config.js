@@ -1,1 +1,1 @@
-var mnemonic = "brick merry letter flee crunch antique web large embrace canvas caught spot";
+var mnemonic = "jump stove better slim illness cotton side short useful praise protect gown";

@@ -1,1 +1,1 @@
-var mnemonic = "woman step social mandate injury mansion rose subject sunset wash tragic kind";
+var mnemonic = "brief learn giraffe people zebra digital beach ladder enlist group what make";

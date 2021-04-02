@@ -1,1 +1,1 @@
-var mnemonic = "keep gesture opera ranch notice similar goose clock judge sound field tiger";
+var mnemonic = "token skull one friend kingdom situate hollow little trash tape tail earth";

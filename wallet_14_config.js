@@ -1,1 +1,1 @@
-var mnemonic = "weather slab collect strong spider snow between spike disease rule current wine";
+var mnemonic = "weapon shed filter category galaxy prosper choice brand essay thumb dust animal";

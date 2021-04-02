@@ -1,1 +1,1 @@
-var mnemonic = "vendor together funny tiny diet flavor whip exact salad butter science thought";
+var mnemonic = "force success voyage habit oblige open lunar fancy cargo nut secret lunch";

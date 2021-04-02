@@ -1,1 +1,1 @@
-var mnemonic = "you famous notable hole actor cost spatial hidden carbon silent frozen can";
+var mnemonic = "deposit renew argue width december legend name canoe machine sand dial shiver";

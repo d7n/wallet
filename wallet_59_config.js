@@ -1,1 +1,1 @@
-var mnemonic = "curtain inside thunder bean laugh more slight father penalty park ask fly";
+var mnemonic = "suit insane chief album inherit burst plug runway wild attitude base stove";

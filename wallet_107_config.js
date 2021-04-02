@@ -1,1 +1,1 @@
-var mnemonic = "arrow unveil torch twelve peasant ready adjust over space crane wagon machine";
+var mnemonic = "vote section twice hurt awesome voice medal panda crime use flag divorce";

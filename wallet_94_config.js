@@ -1,1 +1,1 @@
-var mnemonic = "glare hip obscure produce connect invest ill whale brush naive just pink";
+var mnemonic = "whale motion various stadium rural bean sure pioneer improve popular inner hurry";

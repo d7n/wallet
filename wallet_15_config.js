@@ -1,1 +1,1 @@
-var mnemonic = "glad fatigue again slush dismiss network day comfort short hamster slogan electric";
+var mnemonic = "summer jump sauce beef aerobic runway age panic scout idea camera relief";

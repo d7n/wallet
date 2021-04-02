@@ -1,1 +1,1 @@
-var mnemonic = "nothing aerobic shoot spare never help mutual dose paddle bounce amateur anger";
+var mnemonic = "foil return salon social key join fish kiss unhappy galaxy broken away";

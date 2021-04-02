@@ -1,1 +1,1 @@
-var mnemonic = "clerk candy future foil win volume belt type leaf hedgehog muffin disease";
+var mnemonic = "quick baby similar leopard surface farm strong skin please attend number elite";

@@ -1,1 +1,1 @@
-var mnemonic = "finger rib onion wife snake thumb response blame inmate fragile vague gallery";
+var mnemonic = "flip endless steak suspect mixture project solution truck dial grace improve affair";

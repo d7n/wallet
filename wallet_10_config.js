@@ -1,1 +1,1 @@
-var mnemonic = "into invite accuse include camera shuffle obvious slim earn topple claim attract";
+var mnemonic = "squirrel ugly volume belt note cabin usual front solution diesel pear waste";

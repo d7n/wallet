@@ -1,1 +1,1 @@
-var mnemonic = "emotion useless topple fiber endorse copper usual leader clever alley bag clutch";
+var mnemonic = "friend bus squirrel hazard volume owner item unfold heart finger pipe reflect";

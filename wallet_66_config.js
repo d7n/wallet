@@ -1,1 +1,1 @@
-var mnemonic = "estate truth pact prepare hazard cancel corn hurdle medal donor tragic real";
+var mnemonic = "base soul animal buddy harvest parade assume drastic chuckle decline actress town";

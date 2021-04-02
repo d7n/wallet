@@ -1,1 +1,1 @@
-var mnemonic = "around arm enact good bike clip common oval slide feature inner gloom";
+var mnemonic = "asset pave always leaf clog bonus idle negative pluck fantasy basic episode";

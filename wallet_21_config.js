@@ -1,1 +1,1 @@
-var mnemonic = "fiscal yellow response multiply rebuild invest original morning plunge army oxygen sketch";
+var mnemonic = "island snow bind emotion punch object genre easy any express garden deposit";

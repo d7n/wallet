@@ -1,1 +1,1 @@
-var mnemonic = "marriage pact leaf sound select public trash crime melody erupt spoil later";
+var mnemonic = "delay long age evil judge inject vicious approve oyster denial soda clarify";

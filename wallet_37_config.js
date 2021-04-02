@@ -1,1 +1,1 @@
-var mnemonic = "return have chair surprise supreme fog runway ketchup sorry borrow sense other";
+var mnemonic = "sibling practice fit canvas job bind recipe wedding juice any tragic during";

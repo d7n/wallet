@@ -1,1 +1,1 @@
-var mnemonic = "weekend coast spike address federal artwork movie sketch smoke exile odor avoid";
+var mnemonic = "divide chapter expect report palm deposit report source green judge matter pair";

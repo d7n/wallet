@@ -1,1 +1,1 @@
-var mnemonic = "sand cool heavy tumble rubber usage useless key icon leave private kid";
+var mnemonic = "direct usage defy sadness radio powder fatal best patient holiday wrap tongue";

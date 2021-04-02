@@ -1,1 +1,1 @@
-var mnemonic = "juice observe fence merge just fix curve ozone morning trick emotion renew";
+var mnemonic = "what bachelor merit dash mail art region finger gospel album wash gas";

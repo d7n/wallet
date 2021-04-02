@@ -1,1 +1,1 @@
-var mnemonic = "rug wrap wing check north combine elevator issue mimic human profit track";
+var mnemonic = "fame own page grain spell tube decline buffalo kick zoo help obscure";

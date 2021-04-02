@@ -1,1 +1,1 @@
-var mnemonic = "remember torch belt fragile myself play system silent index absurd size castle";
+var mnemonic = "town twist opera subject one stand exotic merit year bounce buzz celery";

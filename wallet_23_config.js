@@ -1,1 +1,1 @@
-var mnemonic = "morning adjust mechanic feel beyond lyrics orchard spoon flower husband mimic access";
+var mnemonic = "plug question arena pumpkin defense bomb damp salon awake rabbit nasty defy";

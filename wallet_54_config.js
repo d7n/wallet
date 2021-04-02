@@ -1,1 +1,1 @@
-var mnemonic = "list jealous pigeon blouse attract talk airport gaze cloth grit shrug heavy";
+var mnemonic = "argue above welcome inhale away scene exchange board hen piece acquire swarm";

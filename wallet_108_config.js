@@ -1,1 +1,1 @@
-var mnemonic = "penalty render orange calm conduct shine poet palm siege adjust raise pulp";
+var mnemonic = "emerge bundle test diesel fragile street pottery chest credit term dash provide";

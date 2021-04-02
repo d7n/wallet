@@ -1,1 +1,1 @@
-var mnemonic = "clean trip seek oak twin assault soda unknown melody casual rack host";
+var mnemonic = "furnace someone tenant spend clap tongue shine cliff trophy blue angle spin";

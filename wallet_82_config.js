@@ -1,1 +1,1 @@
-var mnemonic = "cotton rookie swamp rely fiscal truly cup stone gallery right reward mistake";
+var mnemonic = "churn dune raw talk equal knock want grid tag plug annual axis";

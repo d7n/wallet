@@ -1,1 +1,1 @@
-var mnemonic = "roof eight buffalo slow expire permit beach way people trick about invite";
+var mnemonic = "explain degree vital reward gesture awesome coast dream humble acid recall color";

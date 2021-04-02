@@ -1,1 +1,1 @@
-var mnemonic = "desert weasel enough argue warfare razor scare act spray cancel write burst";
+var mnemonic = "rally loud brief donkey tide prevent mixed husband van keep ritual mass";

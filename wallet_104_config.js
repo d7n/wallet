@@ -1,1 +1,1 @@
-var mnemonic = "material liberty woman twelve exile scrap core deal warfare bachelor van magnet";
+var mnemonic = "fiscal coin area draft kite dismiss love purpose empower three gadget sheriff";

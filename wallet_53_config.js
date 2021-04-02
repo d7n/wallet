@@ -1,1 +1,1 @@
-var mnemonic = "pink near ability reform combine trouble bounce consider grain shift please stuff";
+var mnemonic = "pave slice uniform trend castle first idle table receive below december upset";

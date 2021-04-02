@@ -1,1 +1,1 @@
-var mnemonic = "grow floor dove advance excess butter life taste absurd silly first stuff";
+var mnemonic = "west gravity stick trouble invite can anxiety open offer wait defy better";

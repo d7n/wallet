@@ -1,1 +1,1 @@
-var mnemonic = "equip garbage unhappy symbol rabbit fever candy square myself target humble grief";
+var mnemonic = "clever kid mistake spawn stool thrive limit knock hospital major foot pretty";

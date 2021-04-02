@@ -1,1 +1,1 @@
-var mnemonic = "brick member dog figure depth inflict aerobic scheme crumble collect wheel paddle";
+var mnemonic = "wise chronic mimic lazy embark twenty north move churn flush maid rhythm";

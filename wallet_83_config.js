@@ -1,1 +1,1 @@
-var mnemonic = "pact thumb curtain session acid excuse strong apology all away nuclear spoil";
+var mnemonic = "carbon bounce invest cable leg advice spot floor radio again tail oppose";

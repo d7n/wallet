@@ -1,1 +1,1 @@
-var mnemonic = "race urban cage lecture habit vicious vocal stable knee soap legal valley";
+var mnemonic = "tackle awful next inmate actor wool remain music sister orient chief river";

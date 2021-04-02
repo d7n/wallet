@@ -1,1 +1,1 @@
-var mnemonic = "left fish scout vacant fetch omit ordinary before cliff mimic dinosaur motor";
+var mnemonic = "canyon august tell party follow inmate cricket copper robot letter forget deal";

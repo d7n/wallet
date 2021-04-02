@@ -1,1 +1,1 @@
-var mnemonic = "mistake remove appear warfare wall wife tube gap income sight napkin doll";
+var mnemonic = "amazing shiver reduce brass ancient dentist divorce interest sibling rival elder message";

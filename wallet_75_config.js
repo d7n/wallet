@@ -1,1 +1,1 @@
-var mnemonic = "fever sock yard acquire omit zone near table citizen plate sick victory";
+var mnemonic = "oyster surface yellow badge bargain toss cement describe subway bid call judge";

@@ -1,1 +1,1 @@
-var mnemonic = "program wink virtual organ labor average length skate grow trial battle brick";
+var mnemonic = "follow swamp climb primary come gasp tumble daughter prosper use hundred exact";

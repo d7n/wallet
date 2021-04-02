@@ -1,1 +1,1 @@
-var mnemonic = "insane elegant pact swim best stool jaguar inject winner cherry kick sudden";
+var mnemonic = "neither first brief blind entire rather royal tent drill matrix enter tiger";

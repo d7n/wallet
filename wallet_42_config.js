@@ -1,1 +1,1 @@
-var mnemonic = "flush away blade pet alley soda coast donor canoe own guess pretty";
+var mnemonic = "tent cube scrub sign sell key tomato gain mind view erode uniform";

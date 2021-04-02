@@ -1,1 +1,1 @@
-var mnemonic = "swim pilot news scale blue crack myth evoke mushroom bird repair afraid";
+var mnemonic = "pattern during retreat morning vote ancient patient easy episode lock resemble meat";

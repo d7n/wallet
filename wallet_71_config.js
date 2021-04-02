@@ -1,1 +1,1 @@
-var mnemonic = "subway napkin hobby enforce rubber second inform expand original vacant pass agree";
+var mnemonic = "wedding lamp region report super marriage toward yard clutch record medal saddle";

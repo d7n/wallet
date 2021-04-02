@@ -1,1 +1,1 @@
-var mnemonic = "mobile dice fork damp cross tortoise clerk arrive damage length pole venue";
+var mnemonic = "churn lobster barely skate man olive trigger effort thought meat live december";

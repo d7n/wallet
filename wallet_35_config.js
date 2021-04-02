@@ -1,1 +1,1 @@
-var mnemonic = "grass disorder file birth bachelor labor almost rug goddess remember agent join";
+var mnemonic = "pelican crawl dinner ball wire art soon suffer deliver soldier message purse";

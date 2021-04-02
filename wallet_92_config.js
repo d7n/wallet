@@ -1,1 +1,1 @@
-var mnemonic = "wagon grief angle left keen fury current fox kite employ venue modify";
+var mnemonic = "occur skirt head mushroom wood rate section expect vehicle position bike sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "ice chief match slab stamp object glove inflict frog penalty device bachelor";
+var mnemonic = "top embrace ranch spy peasant mind battle decide ramp stamp trigger album";

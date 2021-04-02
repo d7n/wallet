@@ -1,1 +1,1 @@
-var mnemonic = "cheap toddler hawk hobby sting burst audit fame meat yellow couch real";
+var mnemonic = "exist bicycle idea bus magic robot indoor become uniform spray staff banner";

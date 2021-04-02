@@ -1,1 +1,1 @@
-var mnemonic = "nuclear inspire daughter solid surround rule image click busy common six false";
+var mnemonic = "pride lawsuit bubble collect obvious hybrid vague scout gaze clarify object achieve";

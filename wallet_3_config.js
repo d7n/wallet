@@ -1,1 +1,1 @@
-var mnemonic = "stand goddess feel erode dose debate bus metal defy start brave solution";
+var mnemonic = "monster silent manage true glue voyage glory display olympic certain filter cry";

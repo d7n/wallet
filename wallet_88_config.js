@@ -1,1 +1,1 @@
-var mnemonic = "exhibit album guilt century swear blouse clarify cat noise nation giraffe decline";
+var mnemonic = "panic grab camera leisure walnut include decide crisp twist slide undo neither";

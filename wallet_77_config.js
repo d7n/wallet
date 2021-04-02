@@ -1,1 +1,1 @@
-var mnemonic = "knife chaos scheme twist banner mushroom fresh grocery dove trophy jewel boss";
+var mnemonic = "consider swallow stairs surprise acid advice robust cigar swim drift powder direct";

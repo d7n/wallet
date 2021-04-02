@@ -1,1 +1,1 @@
-var mnemonic = "acid company code roast camp winner vibrant stereo flee hair universe car";
+var mnemonic = "ride giraffe upon tenant harbor viable rely fold sock crisp eyebrow glue";

@@ -1,1 +1,1 @@
-var mnemonic = "close risk bean identify expect enlist athlete talk great shed leaf voice";
+var mnemonic = "bounce super wedding alone unfold onion enroll error seminar gaze casual mouse";

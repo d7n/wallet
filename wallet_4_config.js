@@ -1,1 +1,1 @@
-var mnemonic = "vivid upper consider shadow front wrap point pet warm sausage width stadium";
+var mnemonic = "genius ahead scorpion grid wool now remove tiger excite depend neutral furnace";

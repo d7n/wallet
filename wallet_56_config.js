@@ -1,1 +1,1 @@
-var mnemonic = "seven conduct record chaos wolf grab leisure cancel annual impulse auto dose";
+var mnemonic = "dinosaur text cage clever talk rebuild mosquito annual pride bracket equip fuel";

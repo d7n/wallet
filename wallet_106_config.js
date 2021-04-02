@@ -1,1 +1,1 @@
-var mnemonic = "silk universe kitchen salt fun suggest profit door minimum vapor avocado manage";
+var mnemonic = "bracket armor tattoo canoe blossom miracle lion alert alien thank frost order";

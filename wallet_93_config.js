@@ -1,1 +1,1 @@
-var mnemonic = "stadium marine lamp young gossip penalty say census fatigue convince nominee online";
+var mnemonic = "open drink misery tomato attack craft elevator pond trade hundred outer juice";

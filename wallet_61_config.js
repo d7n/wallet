@@ -1,1 +1,1 @@
-var mnemonic = "gloom snake trial umbrella wing immense accuse way female pride scatter guitar";
+var mnemonic = "deliver welcome hint forward runway business vast oblige ladder install load chunk";

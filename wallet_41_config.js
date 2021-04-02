@@ -1,1 +1,1 @@
-var mnemonic = "above orphan duck gain bind unfold hawk afford million mystery race shift";
+var mnemonic = "bundle clinic whip apart judge transfer alcohol guard crater wealth finger good";

@@ -1,1 +1,1 @@
-var mnemonic = "wear congress exact bottom insect stove secret scout sight puppy absent moral";
+var mnemonic = "stay one owner tenant brother survey favorite whale echo pull wait beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "bright resemble define boat faith harsh object document elephant yard melody inner";
+var mnemonic = "priority cause accident diagram sand loud mask turkey vast disagree use language";

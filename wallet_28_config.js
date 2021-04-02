@@ -1,1 +1,1 @@
-var mnemonic = "like have devote olympic typical umbrella upon giraffe urge vanish rate pigeon";
+var mnemonic = "ecology travel possible toy slot promote turkey about sign ginger october apple";

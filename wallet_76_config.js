@@ -1,1 +1,1 @@
-var mnemonic = "steel humor project fall custom reunion ugly pudding gadget fork tool rain";
+var mnemonic = "guilt october bean permit bicycle also another giant lawn like whisper attitude";

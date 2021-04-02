@@ -1,1 +1,1 @@
-var mnemonic = "address bomb twenty syrup same spell sting slow ensure that ranch harbor";
+var mnemonic = "vacuum recall tent moral hood veteran sock couch peace economy orange section";

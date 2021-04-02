@@ -1,1 +1,1 @@
-var mnemonic = "song kangaroo couple attack month gym wheel tragic garden circle protect snow";
+var mnemonic = "remain exact champion solve foam circle baby delay skate future spare much";

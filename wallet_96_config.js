@@ -1,1 +1,1 @@
-var mnemonic = "lobster valve dragon focus destroy stereo minor blanket feed area annual speed";
+var mnemonic = "right dismiss leg letter alley embody brown question potato unfold icon middle";

@@ -1,1 +1,1 @@
-var mnemonic = "donor obscure tail cricket venue image purse moment guitar fruit digital clump";
+var mnemonic = "label husband rely cloth photo lobster come describe spatial pulse cherry symbol";

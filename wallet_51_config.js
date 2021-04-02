@@ -1,1 +1,1 @@
-var mnemonic = "fade index report noise act bus sick bench rack ripple frown floor";
+var mnemonic = "gloom roast equal about return begin near step music language obey advice";
