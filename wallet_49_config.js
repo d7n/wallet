@@ -1,1 +1,1 @@
-var mnemonic = "blur child source humor nose future midnight smooth parrot traffic extend hub";
+var mnemonic = "term give much adapt expire tongue cushion tuna debate clarify top rebel";

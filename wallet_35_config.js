@@ -1,1 +1,1 @@
-var mnemonic = "denial vast immune glad buddy canoe addict baby siren protect salad ball";
+var mnemonic = "inquiry differ labor horn attract maximum step hair luxury year practice frog";

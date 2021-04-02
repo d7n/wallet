@@ -1,1 +1,1 @@
-var mnemonic = "defense disorder genuine agree estate few accident local car stay accident slush";
+var mnemonic = "icon zoo impact hurry join grape agree auto fiscal wait opinion trip";

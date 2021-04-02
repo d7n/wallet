@@ -1,1 +1,1 @@
-var mnemonic = "mention world ahead master shy struggle soccer fish verify fix satisfy okay";
+var mnemonic = "property cactus garage marriage school tragic humor bleak north warfare jazz coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "never meat myth water paper aim course palm rebuild prosper wool void";
+var mnemonic = "quality poverty pill drive nasty laptop adjust spring remain imitate tomorrow poet";

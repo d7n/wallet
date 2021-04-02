@@ -1,1 +1,1 @@
-var mnemonic = "toilet farm speed bridge prefer shallow flip joke sleep govern mule journey";
+var mnemonic = "denial excess erode where receive parade coin family era unaware crash away";

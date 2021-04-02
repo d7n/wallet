@@ -1,1 +1,1 @@
-var mnemonic = "enlist skill chronic once scene alarm recipe good cross muffin boost first";
+var mnemonic = "verify juice describe video achieve mammal purchase hole tuna home police allow";

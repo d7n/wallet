@@ -1,1 +1,1 @@
-var mnemonic = "riot rescue kingdom harbor smart amateur romance giant bulk language pattern seed";
+var mnemonic = "praise tuition lend equip dry priority praise royal crouch trip bubble birth";

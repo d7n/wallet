@@ -1,1 +1,1 @@
-var mnemonic = "hurt adult memory dance spirit aunt kidney opera stool guide nurse dynamic";
+var mnemonic = "river roof ocean frequent planet company sphere flush equal wide sure palace";

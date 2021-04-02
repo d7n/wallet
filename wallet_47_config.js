@@ -1,1 +1,1 @@
-var mnemonic = "race impact cram make office squeeze enemy silent word hair decorate supreme";
+var mnemonic = "inform sad initial treat reward swallow visual gather act tomorrow course imitate";

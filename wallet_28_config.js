@@ -1,1 +1,1 @@
-var mnemonic = "skull plate cabbage outdoor invite become example soon amateur couple input swallow";
+var mnemonic = "route armed define fox assist help strike stomach eight candy ethics museum";

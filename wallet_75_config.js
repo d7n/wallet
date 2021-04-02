@@ -1,1 +1,1 @@
-var mnemonic = "situate employ cram relax stay rescue viable copy liar frequent already drip";
+var mnemonic = "lobster hill aspect actress donate scrap swift hurt length rate exist bamboo";

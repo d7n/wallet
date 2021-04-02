@@ -1,1 +1,1 @@
-var mnemonic = "tenant physical focus also bicycle fringe nominee mixed casino turtle question phrase";
+var mnemonic = "neither juice broom afford sniff bean surround orchard farm stock unfair license";

@@ -1,1 +1,1 @@
-var mnemonic = "lady nest detail unveil zebra asset topic seed silly hungry honey student";
+var mnemonic = "garbage chuckle salad mean ribbon escape dove light cactus skirt pig earn";

@@ -1,1 +1,1 @@
-var mnemonic = "horror sugar birth walk hazard suggest travel plate purity relax other gauge";
+var mnemonic = "scrap pluck injury denial uphold actor elephant style into can false brain";

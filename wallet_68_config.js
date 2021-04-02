@@ -1,1 +1,1 @@
-var mnemonic = "exhaust guilt roast able poem merry whisper predict outdoor stereo two fantasy";
+var mnemonic = "social volcano cancel topic garlic busy accuse cherry silly high token yard";

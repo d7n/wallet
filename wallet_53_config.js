@@ -1,1 +1,1 @@
-var mnemonic = "ugly pond bless interest grape diamond crime seek snack exercise swim slow";
+var mnemonic = "lift submit hurt hub burger core blanket decorate fix ramp small image";

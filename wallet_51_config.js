@@ -1,1 +1,1 @@
-var mnemonic = "toss pledge toward spring gossip click cliff vital slab pair client surge";
+var mnemonic = "audit change wish better better era decorate depth tonight stomach neck arena";

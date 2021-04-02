@@ -1,1 +1,1 @@
-var mnemonic = "together cheap spawn patient whip december hidden ski excess slim slice panda";
+var mnemonic = "toast bacon orient unlock bundle skirt quit second chest fever focus bright";

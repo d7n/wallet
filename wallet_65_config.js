@@ -1,1 +1,1 @@
-var mnemonic = "foster west party cool bright name wool ribbon slender stock reward evil";
+var mnemonic = "fork general reopen goddess online evolve arrest million biology street swallow steel";

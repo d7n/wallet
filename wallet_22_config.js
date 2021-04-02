@@ -1,1 +1,1 @@
-var mnemonic = "scrap shrimp ecology media acquire flower pencil lunch beef brief become iron";
+var mnemonic = "matrix rebuild drill upon same usual pulse toddler direct worry grab space";

@@ -1,1 +1,1 @@
-var mnemonic = "random mosquito alley quarter reason early elite panic try olive first month";
+var mnemonic = "leg absurd favorite host salon circle suffer glove width alarm tongue olympic";

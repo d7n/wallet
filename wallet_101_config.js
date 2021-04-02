@@ -1,1 +1,1 @@
-var mnemonic = "retire cluster evolve idle boy great churn august right catch chronic snow";
+var mnemonic = "tackle soft mercy avocado bicycle panic plug regular leopard sense maid oak";

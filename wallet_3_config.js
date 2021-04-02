@@ -1,1 +1,1 @@
-var mnemonic = "green kidney embody pool zero suggest damp warm nut now rose orbit";
+var mnemonic = "fat crunch trust distance victory prepare tragic enough change govern leader nuclear";

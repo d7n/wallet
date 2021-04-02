@@ -1,1 +1,1 @@
-var mnemonic = "leopard mandate boring invite clutch deer butter client banner brown mail stem";
+var mnemonic = "usage sad emerge average cycle mango middle mixture cram grape around device";

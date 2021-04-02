@@ -1,1 +1,1 @@
-var mnemonic = "kitchen guitar exotic dog bid crowd motor clutch intact first order lion";
+var mnemonic = "funny thing jeans very nut fun excess scale keen clerk talent butter";

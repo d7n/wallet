@@ -1,1 +1,1 @@
-var mnemonic = "very fun runway analyst other sniff settle approve roast chronic lottery fan";
+var mnemonic = "happy october canvas jump corn solar wheel now sausage raven hire okay";

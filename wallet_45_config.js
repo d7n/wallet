@@ -1,1 +1,1 @@
-var mnemonic = "muffin elbow loop near great south cheap silent inhale venue august leisure";
+var mnemonic = "police pitch paddle sail ice bomb drop month human ankle music actual";

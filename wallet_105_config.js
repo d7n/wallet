@@ -1,1 +1,1 @@
-var mnemonic = "spell corn venue satoshi trick outdoor yard wear patch increase bring chuckle";
+var mnemonic = "point please exotic typical pole mother benefit sport moment ozone dust guess";

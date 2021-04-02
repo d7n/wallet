@@ -1,1 +1,1 @@
-var mnemonic = "rotate horror bike custom now employ next six afford breeze cereal safe";
+var mnemonic = "final convince heavy weekend barrel sustain job hockey buyer transfer trophy skull";

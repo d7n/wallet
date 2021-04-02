@@ -1,1 +1,1 @@
-var mnemonic = "broom behave weasel coin blur catch extra ankle wait smooth million face";
+var mnemonic = "wasp danger assault dance cash cliff indoor minute bonus derive eyebrow rich";

@@ -1,1 +1,1 @@
-var mnemonic = "poet tube edge sister virtual hero great ethics drop base hockey claw";
+var mnemonic = "federal describe rude airport include tackle foil roast sail armor occur accuse";

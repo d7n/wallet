@@ -1,1 +1,1 @@
-var mnemonic = "tone dash dash pioneer trade exist leave sniff guide arrange coast enlist";
+var mnemonic = "april buddy glare business riot menu popular cabbage bird false version during";

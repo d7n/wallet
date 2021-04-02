@@ -1,1 +1,1 @@
-var mnemonic = "disease hybrid brave lounge universe current green burst soda company stuff end";
+var mnemonic = "avoid put portion siege oval cruise wheel damage load dragon alien eternal";

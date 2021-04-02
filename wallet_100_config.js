@@ -1,1 +1,1 @@
-var mnemonic = "cupboard agent meat patient bind figure hockey business picnic hollow differ sense";
+var mnemonic = "fitness priority poet lion lucky radio nice liberty wish yellow ritual nominee";

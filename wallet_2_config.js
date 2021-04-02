@@ -1,1 +1,1 @@
-var mnemonic = "secret truck witness tail battle baby shrimp web catalog attend barely initial";
+var mnemonic = "face alley glue amazing child author rent setup lift rebel rely oxygen";

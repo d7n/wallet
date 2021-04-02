@@ -1,1 +1,1 @@
-var mnemonic = "view frost innocent patch bread adjust comfort yellow chief lesson moment bench";
+var mnemonic = "curious hawk coach weather screen slow furnace damp bleak artefact mistake audit";

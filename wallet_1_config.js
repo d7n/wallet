@@ -1,1 +1,1 @@
-var mnemonic = "mobile prefer fluid fat develop mass jazz broom gain stove carry suffer";
+var mnemonic = "because tree neck brush job run strike very design foot prison appear";

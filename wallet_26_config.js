@@ -1,1 +1,1 @@
-var mnemonic = "say concert below physical blanket simple lucky arrange either swarm pig oxygen";
+var mnemonic = "dad very ketchup plunge ensure book tourist bag acoustic gain ginger praise";

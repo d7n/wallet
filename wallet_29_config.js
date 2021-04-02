@@ -1,1 +1,1 @@
-var mnemonic = "winter target vivid alone blind talent certain guide basket surround zoo blame";
+var mnemonic = "soccer twenty smoke common universe faculty life engage blanket high magic broccoli";

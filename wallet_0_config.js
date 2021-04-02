@@ -1,1 +1,1 @@
-var mnemonic = "trend valley box hero cloud captain ankle cycle parade drive vault atom";
+var mnemonic = "december service donate crisp width stairs mansion funny antique health certain include";

@@ -1,1 +1,1 @@
-var mnemonic = "diet position enjoy illness soft sustain owner essay spend bronze yellow they";
+var mnemonic = "spoon meat shield welcome frequent arctic glance rib find mechanic traffic essay";

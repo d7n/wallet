@@ -1,1 +1,1 @@
-var mnemonic = "rhythm hair two advance auction column smile need govern drip come print";
+var mnemonic = "admit tide elbow useful net merry razor make earth bomb creek age";

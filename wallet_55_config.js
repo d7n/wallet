@@ -1,1 +1,1 @@
-var mnemonic = "media finger atom call reduce quality weapon false cause have town benefit";
+var mnemonic = "denial cluster husband lyrics wish multiply dad suspect forget sure rose slab";

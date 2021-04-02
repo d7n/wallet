@@ -1,1 +1,1 @@
-var mnemonic = "trick normal donkey connect banana result marriage donor crawl helmet opinion scout";
+var mnemonic = "fringe solar lizard error nerve merry crane someone butter length evil all";

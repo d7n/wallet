@@ -1,1 +1,1 @@
-var mnemonic = "attend aware cannon pumpkin job memory dish canyon mercy omit leisure melody";
+var mnemonic = "harbor pill friend home pony minute shaft figure bubble order thrive regret";

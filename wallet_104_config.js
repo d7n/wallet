@@ -1,1 +1,1 @@
-var mnemonic = "mask ceiling achieve mixed fatigue tank narrow harbor arrest forget fossil season";
+var mnemonic = "south wrestle pulse suspect huge sibling give battle fury furnace library abstract";

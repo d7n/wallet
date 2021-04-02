@@ -1,1 +1,1 @@
-var mnemonic = "pyramid winter crystal celery tray rice among come social purity frozen shrug";
+var mnemonic = "gorilla fade joy blush post attack hazard trip guard audit remember grit";

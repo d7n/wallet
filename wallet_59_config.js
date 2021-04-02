@@ -1,1 +1,1 @@
-var mnemonic = "nasty dumb jazz spray scale hedgehog valve target outer tumble bamboo jar";
+var mnemonic = "dog angry plug million dwarf increase verify yellow glory garage steak arrange";

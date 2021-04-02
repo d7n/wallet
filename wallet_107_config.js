@@ -1,1 +1,1 @@
-var mnemonic = "source napkin volume brother guitar carry lazy sleep hurry spin south loan";
+var mnemonic = "hunt cram cup twelve swarm surge moon only man kitten danger usage";

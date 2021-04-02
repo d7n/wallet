@@ -1,1 +1,1 @@
-var mnemonic = "lonely dizzy walnut kitten junk dawn walk gravity enroll clown wide put";
+var mnemonic = "sleep ball ride era soda thank pigeon job tape purity suggest tiny";

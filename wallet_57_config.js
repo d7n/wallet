@@ -1,1 +1,1 @@
-var mnemonic = "bread cause popular point veteran open toe raise artefact female try way";
+var mnemonic = "car car palace payment exchange dream toy chat indicate slice notice slide";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster faculty clown bronze robust banana true valley foil antique toast bring";
+var mnemonic = "idea party alley decline blush equip border collect fall purpose shrug pony";

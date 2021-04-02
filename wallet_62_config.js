@@ -1,1 +1,1 @@
-var mnemonic = "crisp upon glue pink episode anchor pigeon salon upon offer title ancient";
+var mnemonic = "know hold chef diet horn deer increase glance ignore enact business mask";

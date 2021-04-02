@@ -1,1 +1,1 @@
-var mnemonic = "monkey pig hover notable amused act faith blouse supply public airport gloom";
+var mnemonic = "quality crater toe liquid pear liberty naive garage hero protect primary funny";

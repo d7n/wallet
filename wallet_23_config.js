@@ -1,1 +1,1 @@
-var mnemonic = "copper light deer uphold age thrive build cruise thunder hope vehicle denial";
+var mnemonic = "flat thumb police fold bicycle laundry enjoy error guide hint magic virtual";

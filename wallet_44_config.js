@@ -1,1 +1,1 @@
-var mnemonic = "ball peace member below load ability fiction glad suspect enact sleep hunt";
+var mnemonic = "core medal analyst thrive rely mask bundle focus flame sword bunker vanish";

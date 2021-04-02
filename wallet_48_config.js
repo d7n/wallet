@@ -1,1 +1,1 @@
-var mnemonic = "client pitch burden music warm clown injury library bring coffee usual seven";
+var mnemonic = "giraffe tag during reflect undo swim party rate vacant twice tunnel february";

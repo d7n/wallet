@@ -1,1 +1,1 @@
-var mnemonic = "rice space sword left chief uphold clip fuel attend age owner network";
+var mnemonic = "soul result output garbage correct come monster slender auction need rebel only";

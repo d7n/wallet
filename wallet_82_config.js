@@ -1,1 +1,1 @@
-var mnemonic = "pistol globe salute muffin ozone choose address sail fuel awesome amazing main";
+var mnemonic = "jewel egg ten elbow reward hotel puzzle obvious birth lion story bridge";

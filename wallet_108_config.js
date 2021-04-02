@@ -1,1 +1,1 @@
-var mnemonic = "echo moment borrow side element clutch power bonus shine tennis radar love";
+var mnemonic = "dolphin sword shift way tube bicycle almost recycle panic roof leader river";

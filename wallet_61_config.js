@@ -1,1 +1,1 @@
-var mnemonic = "resemble year tumble excess nasty patch other noodle hint abstract coconut owner";
+var mnemonic = "olive match fresh visa quick bring acoustic loan record picture program delay";

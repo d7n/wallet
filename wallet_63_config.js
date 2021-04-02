@@ -1,1 +1,1 @@
-var mnemonic = "siren depend east motor deer defense empower orchard pepper dentist fabric urge";
+var mnemonic = "creek oxygen hold filter tower top either float silk kiwi thought chimney";

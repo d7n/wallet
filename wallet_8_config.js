@@ -1,1 +1,1 @@
-var mnemonic = "jump like zero sock flower pilot duty pulse volcano weapon coach axis";
+var mnemonic = "broccoli maple autumn script vast deny whip tone payment rather trap flip";

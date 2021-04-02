@@ -1,1 +1,1 @@
-var mnemonic = "chimney violin clever unknown roast gold garage cover ridge protect debate still";
+var mnemonic = "across alcohol false credit breeze pottery few alien special dove mix peanut";

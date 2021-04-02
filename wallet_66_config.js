@@ -1,1 +1,1 @@
-var mnemonic = "moon offer rice shed vast market enemy spare toss quit clarify purpose";
+var mnemonic = "bleak vast salmon sunny woman clerk just record gap loyal annual clock";

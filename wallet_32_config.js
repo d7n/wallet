@@ -1,1 +1,1 @@
-var mnemonic = "switch trade shy small witness buzz okay number else vehicle shy spike";
+var mnemonic = "tobacco surprise plunge direct during century pluck split girl dawn naive onion";

@@ -1,1 +1,1 @@
-var mnemonic = "either slice clutch fault odor zoo gift neutral figure lion child service";
+var mnemonic = "behave grab angry crash twice lyrics develop exclude tape clinic force phone";

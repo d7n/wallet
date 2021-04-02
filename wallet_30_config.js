@@ -1,1 +1,1 @@
-var mnemonic = "blush behind retire among pass blade column all fragile unfold pioneer van";
+var mnemonic = "federal innocent twin squeeze vanish leg reveal ginger legal federal region library";

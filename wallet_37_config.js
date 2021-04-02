@@ -1,1 +1,1 @@
-var mnemonic = "pluck obscure kingdom birth beach spell expand library ship month kidney vault";
+var mnemonic = "debate myself bitter text cute ready diesel bird gap above space sketch";

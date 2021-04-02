@@ -1,1 +1,1 @@
-var mnemonic = "again latin dose stool pistol noodle fossil twenty insane lemon turkey void";
+var mnemonic = "catalog toe unique lumber diagram hammer have west narrow invest zone critic";

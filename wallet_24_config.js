@@ -1,1 +1,1 @@
-var mnemonic = "pottery clay final monitor roof assault fan love second gun client coffee";
+var mnemonic = "tattoo glance firm place phrase enhance proof trend rain combine theory mother";

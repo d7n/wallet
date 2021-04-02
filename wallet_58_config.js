@@ -1,1 +1,1 @@
-var mnemonic = "tell split noise planet sudden artwork spin often empower same enable license";
+var mnemonic = "slide issue post easily oval input stuff harvest stock hip pet outdoor";

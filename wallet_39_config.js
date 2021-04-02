@@ -1,1 +1,1 @@
-var mnemonic = "crystal trouble cupboard gaze reduce traffic damp material box display around stable";
+var mnemonic = "grain visit ice virus skin forget actual obey icon unit ship february";

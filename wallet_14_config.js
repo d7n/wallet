@@ -1,1 +1,1 @@
-var mnemonic = "walk fold gym proud size usual glue arrange thrive carbon pink harbor";
+var mnemonic = "rib begin gentle radar birth fantasy wrap mango confirm river dirt among";

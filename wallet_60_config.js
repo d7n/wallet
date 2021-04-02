@@ -1,1 +1,1 @@
-var mnemonic = "lottery degree fossil spray buffalo split walnut hurt trap change wedding innocent";
+var mnemonic = "obscure quiz wealth heart remove meat cross box spot diary sugar ugly";

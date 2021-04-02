@@ -1,1 +1,1 @@
-var mnemonic = "royal ticket stone ship hollow hood brain pattern jelly busy output tell";
+var mnemonic = "identify tool cup click diet hidden someone afford solar sorry spell practice";

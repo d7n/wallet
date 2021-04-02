@@ -1,1 +1,1 @@
-var mnemonic = "belt lonely author roof attack edit abstract this arrow blouse dentist ridge";
+var mnemonic = "real curious leave vintage intact galaxy rabbit shy shop explain zoo plastic";

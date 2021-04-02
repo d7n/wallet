@@ -1,1 +1,1 @@
-var mnemonic = "service winner aim joy kick buffalo plastic begin immense citizen capable heart";
+var mnemonic = "off reform leaf fun occur early announce output wink agree spray aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "trend hour circle audit garden pill believe smooth absent tent bamboo fever";
+var mnemonic = "abuse occur regular wisdom drift puppy economy degree bone practice diamond embrace";

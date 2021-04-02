@@ -1,1 +1,1 @@
-var mnemonic = "ozone dutch select column salon transfer stumble dose consider home sad bind";
+var mnemonic = "rate mammal initial width tackle supply shy olive torch aerobic empower again";

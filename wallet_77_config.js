@@ -1,1 +1,1 @@
-var mnemonic = "excess bird wing damage exile merge smart foam lawn arrest pelican cloud";
+var mnemonic = "lobster treat diesel flee globe fossil fox coil claim cup harvest hockey";

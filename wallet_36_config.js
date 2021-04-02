@@ -1,1 +1,1 @@
-var mnemonic = "vessel require subway decade critic shine rather luxury purpose grass thumb toddler";
+var mnemonic = "tomorrow grit milk daughter mystery rookie ugly basic plastic stool share settle";

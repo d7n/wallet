@@ -1,1 +1,1 @@
-var mnemonic = "sausage menu assume business clump dog clean grass term pool slice trigger";
+var mnemonic = "hair rifle brick lottery champion behind nominee chief raw alter foam fork";

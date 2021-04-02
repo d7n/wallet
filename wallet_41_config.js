@@ -1,1 +1,1 @@
-var mnemonic = "tray sing trophy woman execute letter evolve brother want prevent swim scorpion";
+var mnemonic = "like jeans unfold swap shiver voice sign rule street abuse shell youth";

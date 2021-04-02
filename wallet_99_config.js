@@ -1,1 +1,1 @@
-var mnemonic = "entry maple crystal mixed online rough choice sauce tribe fat jealous shield";
+var mnemonic = "arrange hero reunion because artwork night donate replace garden miracle very twenty";

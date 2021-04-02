@@ -1,1 +1,1 @@
-var mnemonic = "baby health sort possible diamond sunny bullet person affair skull grant ski";
+var mnemonic = "resource frame deal butter moon antenna people harbor dumb scout match galaxy";

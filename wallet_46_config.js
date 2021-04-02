@@ -1,1 +1,1 @@
-var mnemonic = "slice wisdom dry atom van scare garment glory divorce pear expire together";
+var mnemonic = "tornado alert list around install lobster sure delay scare catalog latin regret";

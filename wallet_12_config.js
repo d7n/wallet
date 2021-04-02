@@ -1,1 +1,1 @@
-var mnemonic = "chair index journey panda point mix horse forest focus vehicle pumpkin rally";
+var mnemonic = "embark emerge into squeeze label vacuum interest replace soldier mule price speed";

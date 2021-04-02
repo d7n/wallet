@@ -1,1 +1,1 @@
-var mnemonic = "small mention onion off blast empty bird comic visit write sibling blood";
+var mnemonic = "link track dawn exchange review arctic point asthma mosquito unaware body toilet";

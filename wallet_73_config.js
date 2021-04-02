@@ -1,1 +1,1 @@
-var mnemonic = "hire length survey kit scissors vanish barrel runway rotate ginger core furnace";
+var mnemonic = "shy weekend clip vessel symptom ecology wagon raccoon taste unfold fat kiwi";

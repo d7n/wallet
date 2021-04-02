@@ -1,1 +1,1 @@
-var mnemonic = "suffer obvious better entry armed canyon dry fat picture rookie evoke gym";
+var mnemonic = "pool gas intact satisfy airport primary thumb sauce chest until nest kick";

@@ -1,1 +1,1 @@
-var mnemonic = "network tenant grid fade dilemma bunker mammal visa negative steel monster mixture";
+var mnemonic = "boy script demand chef grow congress tissue valley deny endless enlist select";

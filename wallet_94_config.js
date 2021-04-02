@@ -1,1 +1,1 @@
-var mnemonic = "quarter laptop toy runway mansion involve fat supply pool build emerge cherry";
+var mnemonic = "output surprise mad wheel idea depth chair timber bacon degree poet scan";

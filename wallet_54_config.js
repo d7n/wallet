@@ -1,1 +1,1 @@
-var mnemonic = "final update rib worth rude cloth gentle brass amateur slow love double";
+var mnemonic = "hockey track illness violin oil confirm better crowd table old guilt noble";
