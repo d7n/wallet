@@ -1,1 +1,1 @@
-var mnemonic = "bring gather drastic vendor ahead private normal kitchen mirror deliver goddess tail";
+var mnemonic = "venture struggle boost average example violin gun car kitten step suffer guide";

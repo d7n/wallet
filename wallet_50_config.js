@@ -1,1 +1,1 @@
-var mnemonic = "quick fall session another metal rebel party crouch rely mammal click unfair";
+var mnemonic = "mechanic lunar hope ski weapon hundred glove pottery whale elbow arrest silent";

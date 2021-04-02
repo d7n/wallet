@@ -1,1 +1,1 @@
-var mnemonic = "cargo myself gesture surge spoil height balance entire abstract play bubble drift";
+var mnemonic = "response another possible slender keen host live genuine bring shift sauce neither";

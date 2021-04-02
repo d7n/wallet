@@ -1,1 +1,1 @@
-var mnemonic = "stadium flee echo stable wheat matrix edge police rose patch phrase food";
+var mnemonic = "banner media mail shallow solution exercise try aisle pulse change skull cube";

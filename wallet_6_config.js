@@ -1,1 +1,1 @@
-var mnemonic = "walk topic detect pelican ivory metal excuse faith buffalo tent fruit glance";
+var mnemonic = "tooth open flame dish actress key hen lift candy height faint auction";

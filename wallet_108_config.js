@@ -1,1 +1,1 @@
-var mnemonic = "dizzy nerve reason bless moon become lake easy certain brief raven gallery";
+var mnemonic = "tourist trip vibrant range pelican current argue attitude public term agree eager";

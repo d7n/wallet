@@ -1,1 +1,1 @@
-var mnemonic = "reflect jewel stem trick damp infant deposit inmate mix alarm credit neither";
+var mnemonic = "duty original cost goose letter modify supply drama icon diet flower surround";

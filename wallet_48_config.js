@@ -1,1 +1,1 @@
-var mnemonic = "desk neck guard viable end banana false easily once rigid eye sand";
+var mnemonic = "minimum erase cherry tilt belt dress cave era voyage metal hen theme";

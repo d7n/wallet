@@ -1,1 +1,1 @@
-var mnemonic = "second royal dinosaur idle glimpse kind attack assault loop merry push meat";
+var mnemonic = "bargain note lend you drop fancy quarter cause weather clump you nice";

@@ -1,1 +1,1 @@
-var mnemonic = "rival doll slush planet canyon reveal copy decade planet shoot potato sibling";
+var mnemonic = "hotel short retreat garbage force more rib venture start camp velvet reform";

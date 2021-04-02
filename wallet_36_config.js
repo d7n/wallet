@@ -1,1 +1,1 @@
-var mnemonic = "false paper inmate galaxy test bar blanket dutch country cushion adapt fitness";
+var mnemonic = "machine federal fluid trumpet rather runway join opera divorce bottom keep twist";

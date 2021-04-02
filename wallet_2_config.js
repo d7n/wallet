@@ -1,1 +1,1 @@
-var mnemonic = "cheese sketch siege food point multiply law pattern visit include tribe ability";
+var mnemonic = "prize unhappy copy kid gain describe bus auction price curious flip art";

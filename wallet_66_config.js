@@ -1,1 +1,1 @@
-var mnemonic = "tide relief aisle wing deposit main world hard unaware spawn uphold shift";
+var mnemonic = "shield steel rigid betray require amazing must door beef write summer orient";

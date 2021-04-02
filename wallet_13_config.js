@@ -1,1 +1,1 @@
-var mnemonic = "open degree wolf payment option tag thunder rib recycle festival force citizen";
+var mnemonic = "nurse sheriff peasant enroll mule sadness auto tiny owner funny armor useful";

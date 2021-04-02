@@ -1,1 +1,1 @@
-var mnemonic = "alert impose skirt benefit hood vendor puppy cycle chuckle cart urban lesson";
+var mnemonic = "gift region heavy avocado awful under pyramid behave huge develop ability club";

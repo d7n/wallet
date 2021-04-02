@@ -1,1 +1,1 @@
-var mnemonic = "void salute february orange cave dinosaur spell claw shed reopen picture unable";
+var mnemonic = "blind fruit betray carry doctor tragic smoke off town mercy kiwi boring";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle peace priority unveil forward enforce champion canal cupboard detect panther muscle";
+var mnemonic = "combine exotic diary pupil shrimp holiday jaguar decrease select monitor joke senior";

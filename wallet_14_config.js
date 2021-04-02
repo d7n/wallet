@@ -1,1 +1,1 @@
-var mnemonic = "seminar vehicle muscle amateur razor mix section budget mutual alien taste system";
+var mnemonic = "hawk material prevent dice celery icon trim nature coyote eternal high idea";

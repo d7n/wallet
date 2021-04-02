@@ -1,1 +1,1 @@
-var mnemonic = "claim hazard stable industry diagram wide already imitate ethics return coconut city";
+var mnemonic = "water frame hair whisper giant message awesome two ecology junior gold choose";

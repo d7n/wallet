@@ -1,1 +1,1 @@
-var mnemonic = "pilot dirt hidden deer fold advance stamp acquire bubble dirt athlete simple";
+var mnemonic = "naive kitten absurd address raven jump cannon reason trigger other symbol quarter";

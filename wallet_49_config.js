@@ -1,1 +1,1 @@
-var mnemonic = "work include idle all topple liar goat people cute rotate grit leg";
+var mnemonic = "mimic snow labor pencil deal attend buddy laundry enemy render brave buzz";

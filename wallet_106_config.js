@@ -1,1 +1,1 @@
-var mnemonic = "cruel whisper slim maximum trust reunion destroy place debate spoil close frost";
+var mnemonic = "lunch dad drive stage feel nasty salt okay awful perfect lion write";

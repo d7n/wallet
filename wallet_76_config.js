@@ -1,1 +1,1 @@
-var mnemonic = "extend wing warfare tide mixed popular youth evolve baby apology cause utility";
+var mnemonic = "father globe require width luxury observe simple excess liquid kid pioneer affair";

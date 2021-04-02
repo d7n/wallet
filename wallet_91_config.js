@@ -1,1 +1,1 @@
-var mnemonic = "flavor make gossip solar earth raccoon goose taste concert mango fortune rhythm";
+var mnemonic = "float start humor stuff truth patient vote ladder twist senior into stand";

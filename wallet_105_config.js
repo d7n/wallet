@@ -1,1 +1,1 @@
-var mnemonic = "else kitchen embrace guitar mind wagon hood south cactus onion royal also";
+var mnemonic = "romance return slush exotic turtle only idle rigid coyote gravity degree tuna";

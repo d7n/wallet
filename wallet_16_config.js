@@ -1,1 +1,1 @@
-var mnemonic = "calm vessel supreme cry slim myself wrong song kiss only twin hole";
+var mnemonic = "oxygen radar tonight planet consider million short oxygen hen keep yard whisper";

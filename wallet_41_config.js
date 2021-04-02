@@ -1,1 +1,1 @@
-var mnemonic = "behind dance doctor earth chaos clutch isolate sword truly decline flush vocal";
+var mnemonic = "detail rotate grace retire fit manual always balcony trend million trade consider";

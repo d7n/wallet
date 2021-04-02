@@ -1,1 +1,1 @@
-var mnemonic = "host galaxy talk razor receive kit gun flag upper will purse arrest";
+var mnemonic = "predict clip stem plate sunset cook orbit rely love orchard tornado invite";

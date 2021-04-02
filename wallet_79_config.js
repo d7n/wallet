@@ -1,1 +1,1 @@
-var mnemonic = "adjust nasty letter flag unfold loop ethics awkward galaxy erosion inject like";
+var mnemonic = "crazy system forum mix wheat safe scare nuclear analyst robust ahead calm";

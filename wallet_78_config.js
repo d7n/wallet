@@ -1,1 +1,1 @@
-var mnemonic = "roof anxiety plastic elbow agent cute puzzle blame orbit unique hundred axis";
+var mnemonic = "flip emotion document legal order setup awful visual friend kind car virtual";

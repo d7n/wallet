@@ -1,1 +1,1 @@
-var mnemonic = "curious stay sauce copper blame clutch laugh invest reject fork swear any";
+var mnemonic = "deputy awake dynamic place maze female casual stick tiny document throw next";

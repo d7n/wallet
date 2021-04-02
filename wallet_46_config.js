@@ -1,1 +1,1 @@
-var mnemonic = "mixed aerobic chimney melt degree patch drill margin jaguar wrist castle disorder";
+var mnemonic = "erase eternal axis spread sing suspect add become base metal notable exile";

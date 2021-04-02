@@ -1,1 +1,1 @@
-var mnemonic = "question initial tumble fetch oyster hedgehog write discover trigger cigar kid once";
+var mnemonic = "tree cage series hunt stadium puzzle segment width social amateur rifle become";

@@ -1,1 +1,1 @@
-var mnemonic = "train defy fantasy lobster across rabbit fatal museum thumb stone hurdle negative";
+var mnemonic = "mask mask risk payment east hobby script response twist juice hood green";

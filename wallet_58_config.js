@@ -1,1 +1,1 @@
-var mnemonic = "coconut observe observe brown escape truth hire grid control exercise online maple";
+var mnemonic = "surround lady place domain devote require rib grid connect effort tone toy";

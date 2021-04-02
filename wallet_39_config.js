@@ -1,1 +1,1 @@
-var mnemonic = "cake napkin music identify unique exotic gauge lens half nest speed famous";
+var mnemonic = "current reveal fan music kit mystery wife charge size emotion ice purity";

@@ -1,1 +1,1 @@
-var mnemonic = "way volume lamp door lamp grab fire avoid wolf course tuna captain";
+var mnemonic = "caught proud fiscal teach shiver angry tree pig slab coffee child surround";

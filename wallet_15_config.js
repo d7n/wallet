@@ -1,1 +1,1 @@
-var mnemonic = "shadow chuckle fit wisdom sock morning topple swear unknown sight current jelly";
+var mnemonic = "notable version digital jealous salt sibling will fog comfort illness smart height";

@@ -1,1 +1,1 @@
-var mnemonic = "hard autumn salt shy extend hybrid hockey journey couch permit cannon convince";
+var mnemonic = "radar chat hint chief access differ human angry front mechanic legend onion";

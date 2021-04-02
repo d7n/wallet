@@ -1,1 +1,1 @@
-var mnemonic = "symbol age elbow organ sustain swing that apple behind aunt audit giant";
+var mnemonic = "choose trim topple damp hire deposit wall text major street pyramid aim";

@@ -1,1 +1,1 @@
-var mnemonic = "city suit region track picnic evidence tuna burden damp tree garbage celery";
+var mnemonic = "fox eyebrow change opinion seed mind feature ethics jump inch target develop";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise end story yard cargo orient crew island lizard bridge ketchup spell";
+var mnemonic = "analyst burden ghost valve beach rice burger obey razor aim witness grief";

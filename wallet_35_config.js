@@ -1,1 +1,1 @@
-var mnemonic = "comic either crane age clock input top eagle trumpet frequent project vibrant";
+var mnemonic = "motor elephant pride celery hybrid dynamic pen detect sample pass pumpkin enemy";

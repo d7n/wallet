@@ -1,1 +1,1 @@
-var mnemonic = "sword actress deer visa stage attend hawk skill typical half wool canoe";
+var mnemonic = "fiber knee crazy state resource sock attitude trick relax symptom donate outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug about injury impose vast trigger mushroom blossom kick traffic enlist soccer";
+var mnemonic = "seven furnace denial limb mechanic sibling property vintage bus walnut canvas legend";

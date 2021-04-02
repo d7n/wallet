@@ -1,1 +1,1 @@
-var mnemonic = "where install music picnic season across occur worry recycle purity isolate try";
+var mnemonic = "poverty profit secret glide addict alarm uphold guard rent arrange change adapt";

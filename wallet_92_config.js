@@ -1,1 +1,1 @@
-var mnemonic = "task hammer can fall wrong have outdoor census warfare chat keen prize";
+var mnemonic = "wagon toilet company slight meadow crisp diesel target stand dignity moment miracle";

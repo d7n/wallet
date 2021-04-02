@@ -1,1 +1,1 @@
-var mnemonic = "history rescue brush duty reward endorse battle vivid possible black gentle teach";
+var mnemonic = "scrap age fabric sure magnet sting debris sunset season pet artefact parent";

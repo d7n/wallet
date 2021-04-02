@@ -1,1 +1,1 @@
-var mnemonic = "accident salad business scare useless sauce scrub bomb grape carry time ozone";
+var mnemonic = "hurry need attitude share toilet shoe scout dutch pulp borrow horror estate";

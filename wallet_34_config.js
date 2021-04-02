@@ -1,1 +1,1 @@
-var mnemonic = "buffalo spice mandate mansion oblige enforce royal shrimp heavy stem injury dad";
+var mnemonic = "little there vicious pumpkin harvest grass famous return case shine afford journey";

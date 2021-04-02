@@ -1,1 +1,1 @@
-var mnemonic = "exhaust marriage foster discover shuffle diagram phone decline theme that radar view";
+var mnemonic = "explain pottery skull song purpose impulse penalty shoulder march pluck begin organ";

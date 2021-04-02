@@ -1,1 +1,1 @@
-var mnemonic = "forward win potato pattern ribbon leader foil giggle taxi zone milk sure";
+var mnemonic = "nuclear crash auto loud spare enact message reunion beyond idle ozone opinion";

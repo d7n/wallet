@@ -1,1 +1,1 @@
-var mnemonic = "style material knock plastic fortune coconut wire among pole capital popular saddle";
+var mnemonic = "bleak party lady volume skull already siren artwork erase damp exclude poverty";

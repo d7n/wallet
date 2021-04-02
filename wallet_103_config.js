@@ -1,1 +1,1 @@
-var mnemonic = "amount impulse throw burger toss orbit orchard coral expire youth genius track";
+var mnemonic = "begin ostrich base dizzy doctor clap decrease soccer try attack twist decade";

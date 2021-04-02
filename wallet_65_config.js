@@ -1,1 +1,1 @@
-var mnemonic = "minute post frame frozen equal fault bronze unveil identify awful view click";
+var mnemonic = "inside can rib genius congress dynamic school weird resist want laptop order";

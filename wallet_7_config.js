@@ -1,1 +1,1 @@
-var mnemonic = "slice father aware sport pave cruise make remember child supply coast wild";
+var mnemonic = "runway burst mention resist reflect faculty desert pottery disorder hockey also fossil";

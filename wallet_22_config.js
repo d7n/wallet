@@ -1,1 +1,1 @@
-var mnemonic = "above cross odor habit latin cute bar squeeze blossom swallow lyrics enforce";
+var mnemonic = "shoot ten dinner ramp item youth praise rib royal water hungry calm";

@@ -1,1 +1,1 @@
-var mnemonic = "budget hen middle blade couple vague endless try moon dance toss innocent";
+var mnemonic = "ill glance exchange stem antenna solution retire pony wine cheap patch dutch";

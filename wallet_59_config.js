@@ -1,1 +1,1 @@
-var mnemonic = "trial home street elder very camp lecture empty sword bottom expose invite";
+var mnemonic = "oyster mix thrive paddle crucial movie liar dance want analyst pride lazy";

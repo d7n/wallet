@@ -1,1 +1,1 @@
-var mnemonic = "inside holiday tilt hurt body couple ask fiber whale dentist toy you";
+var mnemonic = "flame vendor drop picture soap moral robust mansion lava face design glove";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse lemon artist couple liquid super tent arrest turn flight fly rural";
+var mnemonic = "awful negative essay diesel void question slot neutral feel hotel verb engage";

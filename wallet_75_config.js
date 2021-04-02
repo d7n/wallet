@@ -1,1 +1,1 @@
-var mnemonic = "win empower legend beauty club crucial nominee park alcohol famous develop foster";
+var mnemonic = "crunch episode switch sniff clump steel olympic walk conduct stand reunion wine";

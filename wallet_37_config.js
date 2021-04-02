@@ -1,1 +1,1 @@
-var mnemonic = "fish strike airport stuff glue silent rough plunge almost staff submit differ";
+var mnemonic = "advance craft derive draw ordinary choice net simple earth hour acid citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "lesson certain place banana dawn machine faith awkward segment bleak parade jazz";
+var mnemonic = "fury bargain bubble flat derive sphere brave cloud common space pretty senior";

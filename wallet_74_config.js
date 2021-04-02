@@ -1,1 +1,1 @@
-var mnemonic = "upgrade juice bronze build pupil six act have custom old panda brave";
+var mnemonic = "warfare pitch fury bag lonely pig slight scorpion virtual educate van gap";

@@ -1,1 +1,1 @@
-var mnemonic = "protect own prefer velvet mistake orchard insane useless people limit shaft rifle";
+var mnemonic = "tape already corn topple option thing weather odor inside purse creek season";

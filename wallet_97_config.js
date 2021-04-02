@@ -1,1 +1,1 @@
-var mnemonic = "drama avocado state stand shrug mouse circle empower soul barely other ability";
+var mnemonic = "apology prefer wide swamp beyond place orphan present gallery biology high remove";

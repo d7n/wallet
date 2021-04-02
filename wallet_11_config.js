@@ -1,1 +1,1 @@
-var mnemonic = "monkey capital pony gentle patient father into maple grunt course august panther";
+var mnemonic = "rural general close gold law custom enter mad way limb icon cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine right gentle raven sniff party theory chalk possible scorpion space mango";
+var mnemonic = "cereal focus because lemon object danger occur cliff drop swarm memory twist";

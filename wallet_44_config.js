@@ -1,1 +1,1 @@
-var mnemonic = "illness dream rug area cupboard design pencil enable shoe unique tail tunnel";
+var mnemonic = "balance lunch giggle cradle glory immune absurd sad robust point tank jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "vault daughter wheel route chalk earth document depth example sleep assist ritual";
+var mnemonic = "hunt slush glory arch useless obtain evolve moon resemble panda because modify";

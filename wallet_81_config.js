@@ -1,1 +1,1 @@
-var mnemonic = "subject sell symbol bounce loop catch despair flat stuff basket omit table";
+var mnemonic = "leisure cousin escape blouse ski pencil holiday usage wrong energy subway cry";

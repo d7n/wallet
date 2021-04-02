@@ -1,1 +1,1 @@
-var mnemonic = "glue high tomorrow jeans syrup fancy acid below ginger news cute rotate";
+var mnemonic = "reject sketch census credit visit just ostrich crazy typical praise quote skin";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon debris lottery modify sea barrel produce they quote walnut shove cave";
+var mnemonic = "polar loyal prize hobby cinnamon region acquire find admit milk strategy easy";

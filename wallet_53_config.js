@@ -1,1 +1,1 @@
-var mnemonic = "grunt cargo cost science shy six thank swarm equip gun divide suspect";
+var mnemonic = "erode else rubber drama genius trap recall orphan fire subway method bread";

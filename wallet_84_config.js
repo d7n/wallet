@@ -1,1 +1,1 @@
-var mnemonic = "vocal matrix alert gift kite recycle gas dice fancy kiss creek chunk";
+var mnemonic = "rabbit hire lab put swear stick emerge violin rain ordinary bread trash";

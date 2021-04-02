@@ -1,1 +1,1 @@
-var mnemonic = "system inject rapid helmet chicken quote sudden million client what mean chunk";
+var mnemonic = "jewel mechanic woman achieve banner squeeze prize diesel taste resource fresh naive";

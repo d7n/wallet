@@ -1,1 +1,1 @@
-var mnemonic = "artist expire plastic zoo hockey movie awkward grid gasp owner speed plate";
+var mnemonic = "fragile grape stage enemy bean rude early bag wine genuine someone shaft";

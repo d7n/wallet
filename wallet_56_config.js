@@ -1,1 +1,1 @@
-var mnemonic = "hair kitchen drum enroll tone only indicate penalty awesome eye check talk";
+var mnemonic = "umbrella fresh limb blast hurt huge depth sentence bacon beyond proud debate";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi also deliver neck nasty pudding captain pass night drum cook discover";
+var mnemonic = "slim deliver gun sunset brick uphold scare festival few debris rain action";

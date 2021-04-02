@@ -1,1 +1,1 @@
-var mnemonic = "girl deposit tilt prosper later gravity asset antique measure discover later custom";
+var mnemonic = "program rice tiny taxi leader first pitch chef foam reason peasant sadness";

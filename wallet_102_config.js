@@ -1,1 +1,1 @@
-var mnemonic = "crumble brass before federal infant soap deny recall wire pepper doll mother";
+var mnemonic = "live tool still inside message marine news number miracle cluster visa opinion";

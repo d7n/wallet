@@ -1,1 +1,1 @@
-var mnemonic = "demand enforce uncover three boring matrix dismiss another hire twist banner intact";
+var mnemonic = "cute stuff awkward isolate mass tired zebra risk super latin noble mom";

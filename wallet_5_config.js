@@ -1,1 +1,1 @@
-var mnemonic = "noise canvas domain seven flavor laptop add session ensure consider help disorder";
+var mnemonic = "example fetch risk tuna human vast swear below still journey enroll lucky";

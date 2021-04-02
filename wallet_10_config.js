@@ -1,1 +1,1 @@
-var mnemonic = "theme wall phone decade dynamic sketch busy ribbon apart crane sugar toe";
+var mnemonic = "risk nurse special rescue source ketchup service maple venue swap glue garden";

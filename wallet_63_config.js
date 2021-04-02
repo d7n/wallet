@@ -1,1 +1,1 @@
-var mnemonic = "range account apology infant strong crop amount level grab civil bulb amused";
+var mnemonic = "multiply minimum inflict drama tail kit chest permit remember tip hello first";

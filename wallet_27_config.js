@@ -1,1 +1,1 @@
-var mnemonic = "kind rapid milk patient dial ghost alter arena process alter column produce";
+var mnemonic = "cry west topple firm dynamic hello strong mistake banner pride rhythm front";

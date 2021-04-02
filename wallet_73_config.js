@@ -1,1 +1,1 @@
-var mnemonic = "divorce decrease voice language dismiss write seminar casual trick rhythm want stem";
+var mnemonic = "cabbage advance repeat satisfy glue frown error elephant scrub bench apple priority";

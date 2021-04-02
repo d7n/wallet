@@ -1,1 +1,1 @@
-var mnemonic = "fence tennis fetch brave sing flee hand timber wet crucial trip logic";
+var mnemonic = "sport skill pigeon taxi maximum false acquire curve logic purchase begin disagree";

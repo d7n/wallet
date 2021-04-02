@@ -1,1 +1,1 @@
-var mnemonic = "disagree jeans energy found lottery large tape arrive swim genius minor desert";
+var mnemonic = "fee speak curtain midnight obey mercy model electric palm service size process";
