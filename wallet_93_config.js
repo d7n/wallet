@@ -1,1 +1,1 @@
-var mnemonic = "void park labor illness enable spare jelly evolve strong ostrich polar soup";
+var mnemonic = "group federal celery capable vapor pretty offer place wisdom snap little spend";

@@ -1,1 +1,1 @@
-var mnemonic = "morning indicate casino appear jelly tortoise other fabric fat reunion used fame";
+var mnemonic = "pave blanket census pulse trend style rule nurse flavor step easy fan";

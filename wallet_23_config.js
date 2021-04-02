@@ -1,1 +1,1 @@
-var mnemonic = "sad phone task connect school loud forget pledge boost wedding decade earth";
+var mnemonic = "obscure bulk dry midnight shrimp pepper jungle spawn virtual forget steel margin";

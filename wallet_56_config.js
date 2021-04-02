@@ -1,1 +1,1 @@
-var mnemonic = "combine purity term tent vital weapon fruit organ health robust jaguar lion";
+var mnemonic = "brother main photo edge scheme maximum pitch gas hood place wheel oven";

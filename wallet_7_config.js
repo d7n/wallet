@@ -1,1 +1,1 @@
-var mnemonic = "carpet fire couch alcohol diamond rotate olive good stick demise staff melt";
+var mnemonic = "sister leopard mosquito child trial chef toast ability sort oppose one utility";

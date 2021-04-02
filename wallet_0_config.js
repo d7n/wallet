@@ -1,1 +1,1 @@
-var mnemonic = "shiver mother have eagle faith mammal ocean kit defense family audit jazz";
+var mnemonic = "believe design art upon sausage convince mushroom survey parrot provide floor trash";

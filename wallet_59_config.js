@@ -1,1 +1,1 @@
-var mnemonic = "shallow polar comic isolate what gentle today gym prison cause young coyote";
+var mnemonic = "vacuum vessel index panic rule kiss fork member cattle weapon sponsor cousin";

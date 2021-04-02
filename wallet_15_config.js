@@ -1,1 +1,1 @@
-var mnemonic = "someone million spike idea solid boil shrug fever relief vicious oblige type";
+var mnemonic = "awful churn brain hover barely finger bless element merit first use crumble";

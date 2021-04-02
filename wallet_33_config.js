@@ -1,1 +1,1 @@
-var mnemonic = "appear govern dog witness develop garlic clinic identify casino bitter soul spray";
+var mnemonic = "tonight crowd panic hidden matter vague pool venture cost rebuild front old";

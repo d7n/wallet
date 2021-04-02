@@ -1,1 +1,1 @@
-var mnemonic = "tuna hip host valve hero item panda boost adjust quick universe slender";
+var mnemonic = "notable system wet way mutual wrong surge betray alert bounce boat man";

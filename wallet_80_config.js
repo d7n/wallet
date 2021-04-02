@@ -1,1 +1,1 @@
-var mnemonic = "music very bicycle garden over connect taste record supply glance finger rib";
+var mnemonic = "ignore autumn tuition admit buyer company adult strong couple fold often deny";

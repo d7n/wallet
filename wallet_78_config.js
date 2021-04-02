@@ -1,1 +1,1 @@
-var mnemonic = "similar divide result cry point chest group remain rally usage grunt memory";
+var mnemonic = "carry question boss mention warfare mirror sleep come regret banner symptom cry";

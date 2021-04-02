@@ -1,1 +1,1 @@
-var mnemonic = "bench dinner deputy collect come help truly father walk side resource mix";
+var mnemonic = "law expire mirror endorse since level region worry carpet leave atom nerve";

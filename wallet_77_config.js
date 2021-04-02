@@ -1,1 +1,1 @@
-var mnemonic = "sand scout public sample collect transfer olive kangaroo grape alley arctic nut";
+var mnemonic = "tornado monitor moment sweet rabbit credit upon client hawk scorpion profit spell";

@@ -1,1 +1,1 @@
-var mnemonic = "area bulb reduce path genius test observe learn wonder orphan cage clock";
+var mnemonic = "tunnel decade mouse kick breeze primary sell lift news rug mention buffalo";

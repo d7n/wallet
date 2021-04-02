@@ -1,1 +1,1 @@
-var mnemonic = "unit seat peanut fragile large sail foot tragic wait wood defense heavy";
+var mnemonic = "pumpkin boil velvet theme lunar spirit oppose gas tiger unknown cruel book";

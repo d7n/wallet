@@ -1,1 +1,1 @@
-var mnemonic = "inject buddy blouse inside mosquito siege gaze swing topple green chicken able";
+var mnemonic = "close panther oven thumb syrup buyer wage churn dilemma rain option cigar";

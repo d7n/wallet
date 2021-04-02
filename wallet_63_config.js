@@ -1,1 +1,1 @@
-var mnemonic = "wear goddess defy ramp strategy worry dutch toast twist stand imitate code";
+var mnemonic = "side toward answer license shy reopen piece copper stable special final sad";

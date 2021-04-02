@@ -1,1 +1,1 @@
-var mnemonic = "vote program face health add athlete option harbor strike chunk cat monster";
+var mnemonic = "color blur sort hobby nice motion access floor produce strong absurd glance";

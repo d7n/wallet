@@ -1,1 +1,1 @@
-var mnemonic = "cost castle easily recipe range glimpse congress flip visual circle empty agree";
+var mnemonic = "animal figure talk stem cinnamon sister bachelor mushroom treat advance denial gravity";

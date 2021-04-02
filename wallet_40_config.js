@@ -1,1 +1,1 @@
-var mnemonic = "crumble subway property labor balcony save alien two fun list horror leader";
+var mnemonic = "call rent endorse double inject mango success table confirm rival brand maple";

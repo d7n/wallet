@@ -1,1 +1,1 @@
-var mnemonic = "twin erupt misery scout century guilt clean miss tuna dust express museum";
+var mnemonic = "eternal hedgehog trumpet shuffle settle alert pink regular runway release sign unfair";

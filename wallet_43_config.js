@@ -1,1 +1,1 @@
-var mnemonic = "risk barely nation episode usage crater scene jealous damage pulp blossom hover";
+var mnemonic = "title diamond tag abstract give argue pelican mixture ghost cook arrange gravity";

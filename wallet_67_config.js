@@ -1,1 +1,1 @@
-var mnemonic = "require law spoon swallow method stay fantasy rebuild alarm wear permit firm";
+var mnemonic = "pyramid begin tilt object fork canoe bamboo finish amateur wonder guess prepare";

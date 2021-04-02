@@ -1,1 +1,1 @@
-var mnemonic = "tag base cat morning amount crazy pottery shine federal decrease group tower";
+var mnemonic = "window input warrior parade maze slam way combine shoot chuckle dog elegant";

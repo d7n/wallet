@@ -1,1 +1,1 @@
-var mnemonic = "shiver bronze cash orbit stay sting note cat digital letter child damage";
+var mnemonic = "neutral question submit service tragic inject cost debris pretty high bacon dizzy";

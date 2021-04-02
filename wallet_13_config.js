@@ -1,1 +1,1 @@
-var mnemonic = "tomato lunch present elegant weasel matrix diesel tenant giggle happy cheese cake";
+var mnemonic = "visit flash public pink april rose wheat dune february refuse citizen receive";

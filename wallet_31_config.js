@@ -1,1 +1,1 @@
-var mnemonic = "just grief suspect issue distance lizard awake squeeze legend quote holiday dry";
+var mnemonic = "file ten skate response road flavor drip race found wrestle able royal";

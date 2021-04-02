@@ -1,1 +1,1 @@
-var mnemonic = "slot brain plunge earn local battle gasp reward army text chicken park";
+var mnemonic = "indicate exclude allow onion seek shove velvet grit aim hundred skull pulse";

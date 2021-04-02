@@ -1,1 +1,1 @@
-var mnemonic = "orient uniform nest fury better obey turtle tray ginger mammal play lab";
+var mnemonic = "earth push remind gaze reveal anger join drift throw large mechanic oblige";

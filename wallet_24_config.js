@@ -1,1 +1,1 @@
-var mnemonic = "nose update apart receive tennis claw room wood home indoor armed chair";
+var mnemonic = "manage brown like air course define doll notable over dizzy marine clinic";

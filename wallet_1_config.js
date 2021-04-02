@@ -1,1 +1,1 @@
-var mnemonic = "total rebuild lonely size cup reform liar sleep creek carbon turtle dynamic";
+var mnemonic = "victory damage awesome axis motion truth public square erosion observe life list";

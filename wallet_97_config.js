@@ -1,1 +1,1 @@
-var mnemonic = "club screen foster ankle quick wealth infant circle royal tool armed dragon";
+var mnemonic = "brick monster easy leopard enhance yellow net excess balcony exit arch weapon";

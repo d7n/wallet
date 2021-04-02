@@ -1,1 +1,1 @@
-var mnemonic = "they scissors hand fury silly pioneer pistol receive push horse palm safe";
+var mnemonic = "liquid volume resource enrich toss battle lecture annual ask alcohol attend huge";

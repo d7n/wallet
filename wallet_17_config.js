@@ -1,1 +1,1 @@
-var mnemonic = "private absorb cage agent search hammer kiss outdoor token artist miss save";
+var mnemonic = "sight damage muffin bring company discover recall catch before second little lyrics";

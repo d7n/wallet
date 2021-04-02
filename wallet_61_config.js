@@ -1,1 +1,1 @@
-var mnemonic = "gown ginger enemy fish problem thumb biology job tip aware remember key";
+var mnemonic = "work silly tank pottery plunge vendor path tiger patrol update window expect";

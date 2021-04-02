@@ -1,1 +1,1 @@
-var mnemonic = "scene high track sudden rigid cute uncle glare swarm wheel banner swim";
+var mnemonic = "measure sell barely neither middle crouch check vacuum method lake wrap hope";

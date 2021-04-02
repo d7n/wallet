@@ -1,1 +1,1 @@
-var mnemonic = "jump will ocean analyst bean million despair wing focus wrist betray civil";
+var mnemonic = "fog better vivid roast grow between bird awful friend tuna metal hammer";

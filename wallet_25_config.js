@@ -1,1 +1,1 @@
-var mnemonic = "range identify favorite basic kingdom visual weather escape issue zebra south science";
+var mnemonic = "bomb brick shop awesome mechanic acid harvest clump long suit chapter sea";

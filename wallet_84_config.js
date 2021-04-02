@@ -1,1 +1,1 @@
-var mnemonic = "shell away auction finger father object window inherit extend scrap okay awful";
+var mnemonic = "bomb calm shed retreat build confirm antenna nose purchase mechanic assume report";

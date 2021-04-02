@@ -1,1 +1,1 @@
-var mnemonic = "deliver clock struggle predict hover marriage student iron home cupboard spend mosquito";
+var mnemonic = "country able stable axis tent congress income spatial word punch cry future";

@@ -1,1 +1,1 @@
-var mnemonic = "anger tomorrow fancy predict copy trigger health output basic banana hole prepare";
+var mnemonic = "quote execute shop flag emerge alcohol execute car cake quote course supply";

@@ -1,1 +1,1 @@
-var mnemonic = "sail crime hurdle sphere ensure across night clock chief april kangaroo bench";
+var mnemonic = "rough betray museum final want use simple example carbon welcome crawl proof";

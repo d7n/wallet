@@ -1,1 +1,1 @@
-var mnemonic = "vocal valve inform mixture quote merge tray float future suggest round swap";
+var mnemonic = "next twenty envelope much state radar neglect ring since tuna bright mother";

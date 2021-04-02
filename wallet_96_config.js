@@ -1,1 +1,1 @@
-var mnemonic = "awful wisdom hire toast survey second possible hospital glue view fatigue talk";
+var mnemonic = "grit truck error useless double bitter person exclude oval dynamic enrich code";

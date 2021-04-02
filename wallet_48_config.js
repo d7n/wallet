@@ -1,1 +1,1 @@
-var mnemonic = "stamp bonus noise dizzy relax fatigue key tray museum pencil feature apple";
+var mnemonic = "army kitten knife giraffe unveil brand phone donate warrior wood orphan quick";

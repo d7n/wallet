@@ -1,1 +1,1 @@
-var mnemonic = "diesel game outside rent popular dynamic topple visual stable garbage desk explain";
+var mnemonic = "leave assist tilt lottery snow morning snack easy derive daughter game fever";

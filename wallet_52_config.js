@@ -1,1 +1,1 @@
-var mnemonic = "grit future kind aisle retire crop humble witness help lake usual fall";
+var mnemonic = "struggle connect gospel scorpion nominee bird foil umbrella wear solution enrich oppose";

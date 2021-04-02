@@ -1,1 +1,1 @@
-var mnemonic = "ancient soft session legend bird action reveal brown inject tuition daring million";
+var mnemonic = "virtual direct route impact globe tape pioneer museum maid atom pioneer source";

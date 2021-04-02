@@ -1,1 +1,1 @@
-var mnemonic = "produce abstract food river caught patch envelope agent hero actual faith network";
+var mnemonic = "ship scrub crystal lyrics defense crane lazy hospital daughter spread design vacant";

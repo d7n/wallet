@@ -1,1 +1,1 @@
-var mnemonic = "correct guitar dance slight put hundred wave genre region wrist gap desk";
+var mnemonic = "absorb toy ivory humor hammer canoe around buffalo program ten choose cannon";

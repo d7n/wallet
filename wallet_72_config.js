@@ -1,1 +1,1 @@
-var mnemonic = "during swing sound want space insane tackle library spell exhibit matter judge";
+var mnemonic = "soccer ordinary page garden edit slide swift hello emerge prevent fun curious";

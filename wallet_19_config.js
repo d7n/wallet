@@ -1,1 +1,1 @@
-var mnemonic = "echo begin spread mixed boring yard response like mercy crucial input tag";
+var mnemonic = "much cloud marriage twin teach situate cycle away rely kid choice recipe";

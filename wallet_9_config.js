@@ -1,1 +1,1 @@
-var mnemonic = "wing relief recall spare aim weasel unable ripple venue kiss nose organ";
+var mnemonic = "point inform antenna random portion filter agent expand please goose inquiry horror";

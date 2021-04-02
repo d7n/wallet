@@ -1,1 +1,1 @@
-var mnemonic = "treat obscure cause once sister exist lecture cause zone cash dumb silk";
+var mnemonic = "find decide dinosaur walk arrive loan orchard coast phrase tobacco tent broom";

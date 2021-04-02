@@ -1,1 +1,1 @@
-var mnemonic = "loud escape awesome visual near injury despair ribbon badge tackle regular weird";
+var mnemonic = "describe ranch fame pepper rocket disorder proud submit wisdom appear raw spare";

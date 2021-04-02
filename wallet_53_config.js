@@ -1,1 +1,1 @@
-var mnemonic = "horror brown share bamboo april infant lend deposit tiger cereal success bounce";
+var mnemonic = "seek charge foil faith stairs output destroy wall destroy squeeze biology sun";

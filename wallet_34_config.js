@@ -1,1 +1,1 @@
-var mnemonic = "laptop still vanish area figure lizard monkey occur term embark normal roof";
+var mnemonic = "illegal invest baby scissors consider abandon giant vanish occur day smoke leaf";

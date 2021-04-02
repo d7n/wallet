@@ -1,1 +1,1 @@
-var mnemonic = "middle slab artefact dizzy topic wolf book attract modify antenna memory text";
+var mnemonic = "surface rely era toilet indicate wealth nerve bus correct foster chaos friend";

@@ -1,1 +1,1 @@
-var mnemonic = "mother symptom fly pupil phone balcony crack heavy tomorrow lab poem script";
+var mnemonic = "punch wolf kitchen conduct ancient allow holiday general devote exotic popular endorse";

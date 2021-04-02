@@ -1,1 +1,1 @@
-var mnemonic = "cattle solution spawn receive level decorate laundry tent card way border vivid";
+var mnemonic = "luggage asthma hurt giggle catch wreck clutch garment teach cupboard bulk switch";

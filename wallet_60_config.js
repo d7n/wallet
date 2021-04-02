@@ -1,1 +1,1 @@
-var mnemonic = "satoshi access office divide upper clinic cruise fall steel race chalk elder";
+var mnemonic = "neither used tongue already crane kit arrow wall mouse atom rather taste";

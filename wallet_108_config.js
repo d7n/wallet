@@ -1,1 +1,1 @@
-var mnemonic = "picnic scorpion medal glance meadow mask doll fix chase render absurd provide";
+var mnemonic = "pitch spatial tip upgrade maze cry silver expect absent side giraffe quiz";

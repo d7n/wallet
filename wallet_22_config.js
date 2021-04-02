@@ -1,1 +1,1 @@
-var mnemonic = "depth drastic tenant debris super sweet afford garage heart meat slide suit";
+var mnemonic = "plunge mass opera order finish betray coffee toe describe live gain day";

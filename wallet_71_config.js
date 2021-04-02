@@ -1,1 +1,1 @@
-var mnemonic = "result bean spice trick peanut language impulse inhale rail world aim huge";
+var mnemonic = "grape hurry broken shed wet guard aim fitness any category hole loop";

@@ -1,1 +1,1 @@
-var mnemonic = "brown guitar hold unveil select list answer museum inherit observe tackle artefact";
+var mnemonic = "first surface skate swallow series tail small wish junior lumber artefact pigeon";

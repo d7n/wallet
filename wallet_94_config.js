@@ -1,1 +1,1 @@
-var mnemonic = "middle water silent truck cradle lizard major diary finish subway ensure check";
+var mnemonic = "address net build alarm equal panda also category satisfy awkward teach zoo";

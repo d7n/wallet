@@ -1,1 +1,1 @@
-var mnemonic = "quarter obscure cotton left skirt rural educate citizen salad chase always strategy";
+var mnemonic = "betray radio cupboard illegal absurd cat core knee vendor boost develop enforce";

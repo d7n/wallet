@@ -1,1 +1,1 @@
-var mnemonic = "eye crawl afford network upset relax scene exist sponsor invite lawn rotate";
+var mnemonic = "palace save asthma silver gap patrol feature march shoot battle album humble";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix canvas scale clog key certain car citizen about tray scout bronze";
+var mnemonic = "brave metal digital coach ritual antique opera involve anchor empty void drift";

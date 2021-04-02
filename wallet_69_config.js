@@ -1,1 +1,1 @@
-var mnemonic = "pluck visual pass faith pledge online much accident exercise wise round weasel";
+var mnemonic = "bean genius donate warrior pill cherry catalog witness tooth concert skirt desk";

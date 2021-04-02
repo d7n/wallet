@@ -1,1 +1,1 @@
-var mnemonic = "win split certain awake mutual satoshi sibling negative ball olive glare response";
+var mnemonic = "cluster awkward stick news defense dragon receive observe seed foam security frost";

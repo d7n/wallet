@@ -1,1 +1,1 @@
-var mnemonic = "gospel enlist misery web mansion box obey violin finger crush maid field";
+var mnemonic = "permit trophy seek bracket degree item question cousin nuclear animal tip ten";

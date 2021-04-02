@@ -1,1 +1,1 @@
-var mnemonic = "orchard food youth property regular globe curious sustain crunch fish entry crouch";
+var mnemonic = "people female annual dove hover rely alone neglect melt flush grant neutral";

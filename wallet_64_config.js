@@ -1,1 +1,1 @@
-var mnemonic = "control doctor trouble similar able renew rather cover reason motor base scale";
+var mnemonic = "child coffee gentle onion token bunker crawl early captain urge delay into";

@@ -1,1 +1,1 @@
-var mnemonic = "remove reveal occur spray mango dinosaur social number segment attract retreat fresh";
+var mnemonic = "rate category vehicle dignity skull bonus burger system plastic story canyon royal";

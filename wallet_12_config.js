@@ -1,1 +1,1 @@
-var mnemonic = "ten receive spread example fan usual retreat timber forum glad burst index";
+var mnemonic = "jewel shuffle visual episode isolate snack inmate chalk couch account current topic";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe weekend bubble key air odor casino diet earn donate uphold rail";
+var mnemonic = "faculty music stay logic order report spike loan enact build story grab";

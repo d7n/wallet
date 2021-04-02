@@ -1,1 +1,1 @@
-var mnemonic = "tribe tooth edge kitchen token advice gaze leopard pattern perfect rubber test";
+var mnemonic = "donkey please erupt replace finish dream attitude apart lemon eyebrow more where";

@@ -1,1 +1,1 @@
-var mnemonic = "accident mosquito van hard tumble swim mango spice taxi burst empty toddler";
+var mnemonic = "review swallow account snack uncover jealous survey unveil street tell ensure hurdle";

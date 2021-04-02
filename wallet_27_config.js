@@ -1,1 +1,1 @@
-var mnemonic = "social borrow onion father angry short tilt deliver off pretty model submit";
+var mnemonic = "hurdle recipe void tired inner ancient movie liquid carry topple marine minimum";

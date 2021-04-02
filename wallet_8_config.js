@@ -1,1 +1,1 @@
-var mnemonic = "cherry hurt army tray special glory buddy evolve boost tool clean alone";
+var mnemonic = "column write noise provide fan way agent off galaxy grace until swap";

@@ -1,1 +1,1 @@
-var mnemonic = "palace decade lonely voice vault zoo motor senior welcome acid lounge person";
+var mnemonic = "spoil gauge sure comfort devote say blanket mask path adult empower heavy";

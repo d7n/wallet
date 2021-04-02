@@ -1,1 +1,1 @@
-var mnemonic = "mango machine rookie forward enroll paddle item slight outside square injury catch";
+var mnemonic = "march drama hundred way history sight victory purse cactus hover steel gold";

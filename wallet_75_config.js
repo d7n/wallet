@@ -1,1 +1,1 @@
-var mnemonic = "tide planet rebuild fine youth race put dust wrong slight topple comic";
+var mnemonic = "swap dial cry canoe wheel leopard tip lend axis master bomb burger";

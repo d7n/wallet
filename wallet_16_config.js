@@ -1,1 +1,1 @@
-var mnemonic = "dilemma weird bulb young route brand fox arrow swear another general search";
+var mnemonic = "steak office gadget peace stage smooth memory satoshi diagram capital upset destroy";

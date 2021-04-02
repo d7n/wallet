@@ -1,1 +1,1 @@
-var mnemonic = "bridge aisle wish mesh segment march wing warm lumber hobby praise stone";
+var mnemonic = "gadget thing orange trouble result husband similar beyond easy guess second burst";

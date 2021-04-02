@@ -1,1 +1,1 @@
-var mnemonic = "giraffe add fold wrist hurdle disorder fiscal that huge glad vendor offer";
+var mnemonic = "promote tired aerobic wreck correct they sign muffin dwarf approve easy panel";

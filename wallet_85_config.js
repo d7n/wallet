@@ -1,1 +1,1 @@
-var mnemonic = "disease depart erode fashion top visa also oil nation document guilt elevator";
+var mnemonic = "quote artwork twist breeze put neither build depart mansion layer sphere screen";

@@ -1,1 +1,1 @@
-var mnemonic = "claw cement expect arrive grid neutral betray sauce nice hope end pelican";
+var mnemonic = "parent false unit globe private language slow web local tiger gaze trumpet";

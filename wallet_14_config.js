@@ -1,1 +1,1 @@
-var mnemonic = "toss cricket laundry index stadium marriage pumpkin frost prison end chuckle level";
+var mnemonic = "rose resource people convince inner unaware celery mango token panther quiz leave";
