@@ -1,1 +1,1 @@
-var mnemonic = "tomato domain suspect hobby bamboo virus step best ski cruise alcohol cabbage";
+var mnemonic = "oven despair zoo thought explain badge civil message pair afford island team";

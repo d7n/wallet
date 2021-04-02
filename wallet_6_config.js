@@ -1,1 +1,1 @@
-var mnemonic = "laptop hurry page reduce noodle tape laptop jewel rate brown august alcohol";
+var mnemonic = "drift peanut claim record whisper arrive shrug pigeon polar eager uncle reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse cream boy brisk cousin girl chuckle agent pitch what boy apology";
+var mnemonic = "crunch woman treat market junior dice profit maple lumber initial design banana";

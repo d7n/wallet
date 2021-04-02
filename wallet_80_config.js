@@ -1,1 +1,1 @@
-var mnemonic = "someone illness service thrive witness brother small flower ritual dragon pave chuckle";
+var mnemonic = "able any turkey crime core affair fragile story surprise fresh climb suit";

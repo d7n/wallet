@@ -1,1 +1,1 @@
-var mnemonic = "secret essence arrive omit hospital service sausage slot hidden town pupil exotic";
+var mnemonic = "elegant filter motion project approve flower afford repeat bunker oppose live toe";

@@ -1,1 +1,1 @@
-var mnemonic = "business write casino health large depth supply another prevent trust jaguar regret";
+var mnemonic = "uphold brass radio more sugar repeat indoor marine chaos cable alert bronze";

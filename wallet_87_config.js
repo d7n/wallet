@@ -1,1 +1,1 @@
-var mnemonic = "salad mail quality design pond depth border output belt sand various impose";
+var mnemonic = "brush tide pool caught brain brain nut grit culture rug lady example";

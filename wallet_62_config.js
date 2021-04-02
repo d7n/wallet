@@ -1,1 +1,1 @@
-var mnemonic = "crazy silk mom solar where answer mango drive assume inmate narrow flag";
+var mnemonic = "fancy once will cable lunar diary bright fiber nurse giant away quantum";

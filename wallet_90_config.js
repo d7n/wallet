@@ -1,1 +1,1 @@
-var mnemonic = "very hybrid motion cannon fiction empty figure kiss ridge never bomb over";
+var mnemonic = "lawn warm tooth analyst fortune error arctic first federal force company shadow";

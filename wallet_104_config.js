@@ -1,1 +1,1 @@
-var mnemonic = "exist vivid rent venture service cross exact denial seminar mirror arctic bring";
+var mnemonic = "pistol tribe above tray amazing kit pattern state such subject crime fluid";

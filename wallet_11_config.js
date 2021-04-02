@@ -1,1 +1,1 @@
-var mnemonic = "era eternal regret spell lazy gentle home dutch legal arrange draw valid";
+var mnemonic = "room minor conduct speed ivory tenant used life always also sure laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage tip person often believe please large solve lottery bracket lounge float";
+var mnemonic = "tape once panda seminar twenty broom ecology donor race gather morning spider";

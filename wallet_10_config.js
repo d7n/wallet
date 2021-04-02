@@ -1,1 +1,1 @@
-var mnemonic = "announce spread segment gift stumble sick enact position market speak stairs cigar";
+var mnemonic = "horn pond teach rail radar shoe sign asthma universe acoustic mixed praise";

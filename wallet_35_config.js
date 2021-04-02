@@ -1,1 +1,1 @@
-var mnemonic = "acid large shell tennis slice filter wasp lawn car party actor nephew";
+var mnemonic = "pepper era bulb pony stadium common never open identify top toss acid";

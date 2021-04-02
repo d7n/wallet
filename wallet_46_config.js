@@ -1,1 +1,1 @@
-var mnemonic = "silk verify donor fan creek discover worth exact angle soft alien okay";
+var mnemonic = "screen canal walnut easy ketchup void ridge tribe antenna pioneer involve amazing";

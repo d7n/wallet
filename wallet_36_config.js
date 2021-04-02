@@ -1,1 +1,1 @@
-var mnemonic = "normal december feature above foam dinner jaguar page magnet region top home";
+var mnemonic = "fork gather combine sand sound venture all hurdle harvest among civil empower";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee claw decade dial neglect print feature poem include arch shell purchase";
+var mnemonic = "dismiss advance jar tuna ten mule toy maximum spawn army again artefact";

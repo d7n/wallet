@@ -1,1 +1,1 @@
-var mnemonic = "club able aspect feed fresh public divorce paddle same assault daring shield";
+var mnemonic = "reason raccoon sudden confirm result diamond bench oppose giggle spider input glove";

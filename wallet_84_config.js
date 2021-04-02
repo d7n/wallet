@@ -1,1 +1,1 @@
-var mnemonic = "insane mom renew stove ritual volcano vibrant better buddy ignore potato crush";
+var mnemonic = "whale exact pioneer call alien tower floor derive detect cabbage pride multiply";

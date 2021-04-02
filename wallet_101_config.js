@@ -1,1 +1,1 @@
-var mnemonic = "core game element mother language once nephew foil cupboard youth wave picture";
+var mnemonic = "bind swift worth push shoe issue core habit turtle brown crazy bracket";

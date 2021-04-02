@@ -1,1 +1,1 @@
-var mnemonic = "hazard certain tortoise sentence adult hole develop gate suspect never feel clump";
+var mnemonic = "valve brisk stick metal key dad destroy proof detect layer jeans outside";

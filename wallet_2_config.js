@@ -1,1 +1,1 @@
-var mnemonic = "behave minimum vibrant tower error summer crater hover animal cradle slight win";
+var mnemonic = "bulb isolate heart mixed sail spider power grit forest rug caught charge";

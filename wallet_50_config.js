@@ -1,1 +1,1 @@
-var mnemonic = "fancy gesture rule leave genre cactus drastic fence ready text annual island";
+var mnemonic = "ostrich cargo fault quote sibling magnet patch gown sudden vanish stairs undo";

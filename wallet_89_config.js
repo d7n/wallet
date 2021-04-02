@@ -1,1 +1,1 @@
-var mnemonic = "interest wealth sheriff stereo baby menu fence step day hold harsh what";
+var mnemonic = "disorder develop busy caught glad hurt stone strategy odor van limit melt";

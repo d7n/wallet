@@ -1,1 +1,1 @@
-var mnemonic = "easily eight warrior myself spend security orbit divide loyal ramp street tape";
+var mnemonic = "grass survey alone electric rather capable awesome kangaroo number mouse blame spin";

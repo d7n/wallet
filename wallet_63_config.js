@@ -1,1 +1,1 @@
-var mnemonic = "flag toward debris electric arctic cloud anxiety pottery diet strong blind absurd";
+var mnemonic = "dragon ozone blossom lobster luxury rebuild you sphere until fly cause net";

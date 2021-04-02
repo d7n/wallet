@@ -1,1 +1,1 @@
-var mnemonic = "eye day weasel promote occur vanish race ship wage position submit ostrich";
+var mnemonic = "burst front rebuild robot lunch attitude property couple symptom clap rose lake";

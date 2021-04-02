@@ -1,1 +1,1 @@
-var mnemonic = "rely segment endorse twin employ employ balance few acoustic cotton clay arrange";
+var mnemonic = "attack tomato leisure pattern parrot car rely shop hybrid evidence shop reform";

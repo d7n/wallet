@@ -1,1 +1,1 @@
-var mnemonic = "pony fun artwork share ugly video spice clock actual avocado wrong twelve";
+var mnemonic = "rice gravity huge hen weather tortoise success tip news century sound agree";

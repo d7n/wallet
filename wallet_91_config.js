@@ -1,1 +1,1 @@
-var mnemonic = "donkey argue sorry above limit metal tree brown useless plate want trap";
+var mnemonic = "pool night parent stadium gather fun topple old rabbit bean crucial skull";

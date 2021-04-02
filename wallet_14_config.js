@@ -1,1 +1,1 @@
-var mnemonic = "hat announce rude evolve depend layer sick since tuna win high wait";
+var mnemonic = "mesh daring nice other drip occur awkward gun put favorite time prize";

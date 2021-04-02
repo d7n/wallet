@@ -1,1 +1,1 @@
-var mnemonic = "theme very mystery busy any race confirm escape giggle tonight concert mirror";
+var mnemonic = "early guard carry crunch school helmet attract dignity attitude fit foil theory";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange country payment judge gorilla either awful situate oyster window congress drill";
+var mnemonic = "possible right essay diagram require rent deny someone beef behave sure fine";

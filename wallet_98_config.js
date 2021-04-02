@@ -1,1 +1,1 @@
-var mnemonic = "purse world hope fold sun divorce reunion hair tuition track later transfer";
+var mnemonic = "disorder clay sun dust toy addict into salon cost firm face kitchen";

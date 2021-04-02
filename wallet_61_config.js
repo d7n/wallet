@@ -1,1 +1,1 @@
-var mnemonic = "merge price swarm poem ritual can window wire moon pitch ridge sponsor";
+var mnemonic = "galaxy curve model photo ice embark tumble real raise pole foster reward";

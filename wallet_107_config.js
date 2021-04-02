@@ -1,1 +1,1 @@
-var mnemonic = "citizen tattoo excite used chest click dirt scrap blur pigeon seminar draft";
+var mnemonic = "twist peanut twice merge park hunt west fly enlist insane suit garlic";

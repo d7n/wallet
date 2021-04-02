@@ -1,1 +1,1 @@
-var mnemonic = "calm stem orange maid spray math abandon impact curtain problem twelve fade";
+var mnemonic = "antique clarify social lobster fault dynamic arrange luxury source afraid luggage nation";

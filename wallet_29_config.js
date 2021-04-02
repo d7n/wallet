@@ -1,1 +1,1 @@
-var mnemonic = "link laundry any produce pretty old rail pill exile social creek undo";
+var mnemonic = "apology sad inside duty inhale absurd member choose frost giant eye also";

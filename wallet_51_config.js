@@ -1,1 +1,1 @@
-var mnemonic = "arrive best major emotion gold assist magnet surprise angry action false gasp";
+var mnemonic = "bachelor shrug term scale lava butter theme random effort end trumpet kid";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma scout element immune gorilla bacon elite dress green danger garage inner";
+var mnemonic = "mind prize loop brown scatter include picture popular mail behind shoulder genius";

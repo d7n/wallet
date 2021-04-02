@@ -1,1 +1,1 @@
-var mnemonic = "project unfold morning obtain result wall orient guitar parent slide scheme anchor";
+var mnemonic = "attract giraffe shadow paddle stairs snow raccoon cargo space drop void used";

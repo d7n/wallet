@@ -1,1 +1,1 @@
-var mnemonic = "great october cart despair today point clever chapter talk reason betray suspect";
+var mnemonic = "caution hello defy reason recipe century wish solve brass asset space praise";

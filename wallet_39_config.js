@@ -1,1 +1,1 @@
-var mnemonic = "endless fence used box tumble upon corn emotion differ stumble buyer tonight";
+var mnemonic = "miss hole goose absent laugh cousin cash west barrel runway share throw";

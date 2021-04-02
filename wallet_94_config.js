@@ -1,1 +1,1 @@
-var mnemonic = "lizard peanut trumpet report barely smoke twin tennis crew dance oak tissue";
+var mnemonic = "market lamp afford firm tank off pelican ensure beach lobster round outside";

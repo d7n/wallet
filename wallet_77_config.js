@@ -1,1 +1,1 @@
-var mnemonic = "thank report copy neck reveal decade piano letter shoulder illness april success";
+var mnemonic = "inner ask they shoulder sail step payment exit piece apology album secret";

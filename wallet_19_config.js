@@ -1,1 +1,1 @@
-var mnemonic = "essence dismiss expect pipe cabin advance fever drive margin scatter tone phone";
+var mnemonic = "clump man chalk sting current fatal hood poverty portion speak surround hedgehog";

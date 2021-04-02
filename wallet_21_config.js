@@ -1,1 +1,1 @@
-var mnemonic = "material ghost helmet field envelope warfare close dragon attitude dwarf angry blast";
+var mnemonic = "clap decide chaos virtual wide west duck evolve valve tube unable tornado";

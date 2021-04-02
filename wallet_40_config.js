@@ -1,1 +1,1 @@
-var mnemonic = "walk lake tooth pretty below cinnamon connect trap virus buzz kick stuff";
+var mnemonic = "swear orange lawsuit float educate promote nice live range matter guitar viable";

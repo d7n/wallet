@@ -1,1 +1,1 @@
-var mnemonic = "dream luxury organ arena dumb erosion shed glide draft tip nation daughter";
+var mnemonic = "obtain excite tomato luxury together print token devote sand zero inmate food";

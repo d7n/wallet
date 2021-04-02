@@ -1,1 +1,1 @@
-var mnemonic = "produce high claim festival green resemble busy urban adapt live stone fresh";
+var mnemonic = "document lake husband fish wisdom accuse youth canyon food pony review have";

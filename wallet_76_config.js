@@ -1,1 +1,1 @@
-var mnemonic = "poverty huge upon picture cheap world impact diary faint account muscle adjust";
+var mnemonic = "left detect grace arrow spare urban prepare grant error adjust guitar body";

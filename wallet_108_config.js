@@ -1,1 +1,1 @@
-var mnemonic = "phone affair finish sight hurt near useless wrestle normal horror flock alcohol";
+var mnemonic = "disagree example number napkin lunch bind cage repair veteran soda hill month";

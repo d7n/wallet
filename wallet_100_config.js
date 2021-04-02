@@ -1,1 +1,1 @@
-var mnemonic = "around defense lonely gym venue improve afford artefact spy various stable verb";
+var mnemonic = "market keen dad scale remove tube aim giraffe normal alarm guard gentle";

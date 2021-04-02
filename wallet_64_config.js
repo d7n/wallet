@@ -1,1 +1,1 @@
-var mnemonic = "topple provide neglect decorate ball enrich document labor obscure quarter merit thunder";
+var mnemonic = "worth fan gorilla witness drip noodle abuse rose grow soup razor thrive";

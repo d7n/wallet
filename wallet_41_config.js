@@ -1,1 +1,1 @@
-var mnemonic = "chief depart retire cat urban blade husband plunge text floor deposit engage";
+var mnemonic = "alcohol dove unusual retire host have duty since source chapter spirit extend";

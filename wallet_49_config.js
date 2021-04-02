@@ -1,1 +1,1 @@
-var mnemonic = "develop cabbage range debate siege orphan worth talk husband view term trick";
+var mnemonic = "heart cabbage push favorite artwork put only rich void disease rhythm eye";

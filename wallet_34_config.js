@@ -1,1 +1,1 @@
-var mnemonic = "elevator squirrel era replace pudding visit sentence ranch jeans alley castle glove";
+var mnemonic = "witness flower discover pull robust clump harbor elbow armor fury upon enhance";

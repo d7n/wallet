@@ -1,1 +1,1 @@
-var mnemonic = "jungle story tube spawn drama off gas tonight hidden quarter power wood";
+var mnemonic = "ketchup head purse raise stone jump range glare anchor rule slogan toast";

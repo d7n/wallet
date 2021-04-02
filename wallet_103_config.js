@@ -1,1 +1,1 @@
-var mnemonic = "lion curious velvet unable outdoor adapt awake talent enact enter mammal dilemma";
+var mnemonic = "vault coin chef enroll boring gossip nerve quality simple dentist fish wide";

@@ -1,1 +1,1 @@
-var mnemonic = "slow minute multiply together exist secret tomorrow brief food imitate chalk have";
+var mnemonic = "absorb foam glare zoo stereo step state author helmet gift raven drink";

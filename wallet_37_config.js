@@ -1,1 +1,1 @@
-var mnemonic = "gallery position cage debris lucky scissors lemon title predict vote weird amount";
+var mnemonic = "fat wash simple tape ring flush mountain whip wise conduct exclude edit";

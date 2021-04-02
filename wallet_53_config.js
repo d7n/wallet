@@ -1,1 +1,1 @@
-var mnemonic = "hungry load dawn recall marble away ocean fury sick mountain angle food";
+var mnemonic = "expand skate predict exchange outdoor adult happy orbit spare extend beef bird";

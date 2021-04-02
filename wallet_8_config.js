@@ -1,1 +1,1 @@
-var mnemonic = "discover prefer novel truly emotion image exercise master bullet fee orange kit";
+var mnemonic = "anxiety diesel cattle eight glad bargain kitten access total lab holiday embody";

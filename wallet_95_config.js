@@ -1,1 +1,1 @@
-var mnemonic = "salad opera jungle hill motor repair beef direct cargo stuff anxiety recycle";
+var mnemonic = "fox loan phrase first razor valve swarm awesome drama divert swarm harsh";

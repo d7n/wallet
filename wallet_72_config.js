@@ -1,1 +1,1 @@
-var mnemonic = "bench oven sunny snap live junk spy wrap attract craft truly stone";
+var mnemonic = "frame volcano main same hand buzz sight grab keen ball present pilot";

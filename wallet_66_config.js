@@ -1,1 +1,1 @@
-var mnemonic = "code boost apart garden basic ivory category squirrel pause jungle capital smooth";
+var mnemonic = "skirt head earn sock fiber deer three dial left sun trouble token";

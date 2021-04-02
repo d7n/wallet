@@ -1,1 +1,1 @@
-var mnemonic = "hurt tortoise horror piece hospital pretty social miracle room attract monitor expose";
+var mnemonic = "version permit soup attack try crunch sheriff camera that fix pilot silent";

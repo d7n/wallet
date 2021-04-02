@@ -1,1 +1,1 @@
-var mnemonic = "praise thrive curve hire sure coral spatial defense amused column suggest occur";
+var mnemonic = "else unhappy lawsuit liberty senior local width glance dream owner faint conduct";

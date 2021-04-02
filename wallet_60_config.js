@@ -1,1 +1,1 @@
-var mnemonic = "text spend suit tomorrow traffic connect romance poem achieve purse nasty extend";
+var mnemonic = "busy airport spawn fiction situate winter omit other wise dawn material fever";

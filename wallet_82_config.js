@@ -1,1 +1,1 @@
-var mnemonic = "dignity dress shock you whale hint robust exhaust giant once pond jaguar";
+var mnemonic = "still release twenty wonder wreck candy inflict inside fragile accuse skin like";

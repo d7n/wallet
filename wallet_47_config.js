@@ -1,1 +1,1 @@
-var mnemonic = "accuse animal flavor fall found host oppose matrix donkey minor goddess swarm";
+var mnemonic = "curious transfer indoor world hen review long assist ribbon animal mind oblige";

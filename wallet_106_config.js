@@ -1,1 +1,1 @@
-var mnemonic = "diary basket cage bind fish once nuclear brief famous inherit person mammal";
+var mnemonic = "sample hunt pizza mushroom unveil ugly puzzle prevent empty manual arrow deer";

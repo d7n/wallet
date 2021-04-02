@@ -1,1 +1,1 @@
-var mnemonic = "soldier dinosaur estate toy pave outside confirm guess lab dust churn wrestle";
+var mnemonic = "ensure soldier south opera sand boss hidden limit satisfy athlete vendor again";

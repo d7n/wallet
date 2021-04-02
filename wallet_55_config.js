@@ -1,1 +1,1 @@
-var mnemonic = "seminar slab spy during series collect enrich diagram scout alone tiger usual";
+var mnemonic = "spend boost call lock extra design final faint coffee short weapon circle";

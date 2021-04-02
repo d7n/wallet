@@ -1,1 +1,1 @@
-var mnemonic = "fitness into creek loan collect lawn crater banana material patch use forum";
+var mnemonic = "chimney arrest urge broom marble athlete useless resist because speak army liar";

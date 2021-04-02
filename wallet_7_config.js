@@ -1,1 +1,1 @@
-var mnemonic = "bread lucky law chair portion shove settle shed income foster sudden maid";
+var mnemonic = "select whip energy sentence wrestle honey will cram measure voyage issue cross";

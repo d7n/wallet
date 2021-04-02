@@ -1,1 +1,1 @@
-var mnemonic = "opera anxiety argue shallow crew electric gentle cool because second wheat point";
+var mnemonic = "drama slow almost awesome pond coast chief install marriage across wife profit";

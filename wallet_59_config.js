@@ -1,1 +1,1 @@
-var mnemonic = "then regret force share spoil ripple next rate bag reopen process wonder";
+var mnemonic = "melody one rebel dynamic coast firm chest arctic ladder elevator miracle demise";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt concert scale secret tortoise whip calm kid stable will cargo magic";
+var mnemonic = "mass search someone salad safe uncover quarter million tape divert tackle grab";

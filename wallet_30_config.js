@@ -1,1 +1,1 @@
-var mnemonic = "misery ship submit phone daring taste safe horn pepper uniform legend smart";
+var mnemonic = "two pact minor fruit march copper once quick track solution slab aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo carry parrot conduct engine chapter maple shop embody edge humble garage";
+var mnemonic = "waste afraid inner eager rebel coil prize entry draft magnet work tower";

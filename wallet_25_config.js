@@ -1,1 +1,1 @@
-var mnemonic = "hammer spice march ship fee auction hire romance flame below fatal over";
+var mnemonic = "symptom bird rate dance devote strike dish climb assault urban kidney world";

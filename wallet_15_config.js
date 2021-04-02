@@ -1,1 +1,1 @@
-var mnemonic = "plug fringe useless coin unusual alpha arrest edit buffalo muffin skull magic";
+var mnemonic = "knee daring shy oven ready myth beyond kitchen object mind wedding junk";

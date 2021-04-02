@@ -1,1 +1,1 @@
-var mnemonic = "skin kid endless collect truly diamond document copper fog dizzy become train";
+var mnemonic = "wood stool roof museum fix supreme allow error same guilt leg powder";

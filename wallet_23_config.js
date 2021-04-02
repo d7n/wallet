@@ -1,1 +1,1 @@
-var mnemonic = "bleak napkin six coin seminar ripple smoke announce anchor farm sock jaguar";
+var mnemonic = "capital hill usage quantum comfort pave penalty awkward forest call stamp check";

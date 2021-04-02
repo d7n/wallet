@@ -1,1 +1,1 @@
-var mnemonic = "royal sudden ordinary dune together under aisle street source prefer runway faith";
+var mnemonic = "wish seminar cricket choose wisdom until safe teach sausage tired couple member";

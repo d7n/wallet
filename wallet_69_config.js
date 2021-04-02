@@ -1,1 +1,1 @@
-var mnemonic = "shop suggest sport crouch acid again goose apology program blame split remove";
+var mnemonic = "path parent wait test arch exact camp nose snake coral vivid safe";

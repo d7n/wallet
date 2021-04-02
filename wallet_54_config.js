@@ -1,1 +1,1 @@
-var mnemonic = "turtle scatter assault toy history great consider shuffle peanut mosquito more uphold";
+var mnemonic = "crash swear share cram fantasy kiwi couple swap desert rabbit veteran engage";

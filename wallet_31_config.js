@@ -1,1 +1,1 @@
-var mnemonic = "disagree moment spare scorpion turn naive other jacket innocent try hollow scheme";
+var mnemonic = "pulp change borrow whip snake soap potato miss trade stable shop surge";

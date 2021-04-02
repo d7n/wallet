@@ -1,1 +1,1 @@
-var mnemonic = "nothing wet this misery topple chief insect arrange tool skill shadow tenant";
+var mnemonic = "exact report pottery car erupt can remember welcome ocean minor chaos rose";

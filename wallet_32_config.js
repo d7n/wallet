@@ -1,1 +1,1 @@
-var mnemonic = "clinic extend mandate dwarf renew theme test puppy churn couple harvest bid";
+var mnemonic = "worth disagree kite strike album ability oval sphere apology pilot effort move";

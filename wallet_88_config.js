@@ -1,1 +1,1 @@
-var mnemonic = "pave cash bread unusual canal garage robust worry accident utility already fog";
+var mnemonic = "enter network letter display bean defense chicken puppy chaos clip absurd man";
