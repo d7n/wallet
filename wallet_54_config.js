@@ -1,1 +1,1 @@
-var mnemonic = "lounge whip shove caution hole daughter shop acquire rule flush pair run";
+var mnemonic = "entire disease nominee deer delay plastic cart problem fly change proud topic";

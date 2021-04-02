@@ -1,1 +1,1 @@
-var mnemonic = "beach margin pig approve cluster begin write wrong sentence wedding okay veteran";
+var mnemonic = "nose hold era pyramid gentle swap topple merge success symbol hover enforce";

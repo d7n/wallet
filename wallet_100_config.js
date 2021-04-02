@@ -1,1 +1,1 @@
-var mnemonic = "reflect soap grain small prevent food snake purse door attract fine fish";
+var mnemonic = "purchase tortoise select leg indicate brother trouble sort yard subway dirt decrease";

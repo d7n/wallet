@@ -1,1 +1,1 @@
-var mnemonic = "fantasy rain shuffle suspect bamboo magnet want vapor filter unknown angry blame";
+var mnemonic = "slogan jealous suspect also liquid menu across rude ocean sugar wrestle retire";

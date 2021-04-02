@@ -1,1 +1,1 @@
-var mnemonic = "steak celery other please minimum gorilla correct spy fog song define over";
+var mnemonic = "march fun garlic tooth cinnamon slogan obey rocket tattoo sting idea fatigue";

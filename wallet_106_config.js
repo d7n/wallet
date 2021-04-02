@@ -1,1 +1,1 @@
-var mnemonic = "ask tag usage cradle hole scheme shoot close adjust peanut clay diet";
+var mnemonic = "west call enter depart oak keep tribe release special laptop gun swamp";

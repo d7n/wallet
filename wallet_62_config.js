@@ -1,1 +1,1 @@
-var mnemonic = "year proof flee couch word multiply high sleep wealth crash decline wish";
+var mnemonic = "impulse side blame fury rough ice drive diamond begin stay vanish concert";

@@ -1,1 +1,1 @@
-var mnemonic = "polar sad occur suspect income notable enlist deer special cannon race denial";
+var mnemonic = "alien typical fame trust bounce tooth stuff upper dinosaur symptom fan spread";

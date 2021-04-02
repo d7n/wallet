@@ -1,1 +1,1 @@
-var mnemonic = "detail census victory tornado animal jump stadium hint bracket much era toast";
+var mnemonic = "early hundred joy tag oxygen bring nothing process usage neck total boy";

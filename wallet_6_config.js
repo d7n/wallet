@@ -1,1 +1,1 @@
-var mnemonic = "faint truly lazy ozone bread enable bright hawk pyramid perfect kick siege";
+var mnemonic = "nominee marble prison poet brother senior gloom vendor grass limb grief valley";

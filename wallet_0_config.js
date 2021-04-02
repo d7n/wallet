@@ -1,1 +1,1 @@
-var mnemonic = "talk load wealth cotton uphold film crumble gentle frame uniform glow soft";
+var mnemonic = "again abandon month doll primary dolphin renew economy rich chase vacuum poverty";

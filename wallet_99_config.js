@@ -1,1 +1,1 @@
-var mnemonic = "brick hungry father skin bomb category pole excuse deposit turkey extra risk";
+var mnemonic = "dose thrive frown tattoo immune uphold shoe prevent today bird bar earth";

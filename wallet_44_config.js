@@ -1,1 +1,1 @@
-var mnemonic = "jacket jazz music differ rain habit forum pioneer quiz opinion wash surge";
+var mnemonic = "hub couch funny dizzy feel analyst give lizard walk traffic royal track";

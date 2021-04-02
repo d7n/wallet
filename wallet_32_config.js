@@ -1,1 +1,1 @@
-var mnemonic = "inch trim depth arrange virus joy leaf capital capital analyst science order";
+var mnemonic = "describe talent pudding lumber depth wreck stomach moral interest employ twice hurry";

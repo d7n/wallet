@@ -1,1 +1,1 @@
-var mnemonic = "mistake bamboo inside weekend stage cinnamon journey actual wish pill skate abandon";
+var mnemonic = "birth found whale wild fish proud inch dentist merge clinic stereo behind";

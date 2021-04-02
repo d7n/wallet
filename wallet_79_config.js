@@ -1,1 +1,1 @@
-var mnemonic = "charge fog detect idle okay noodle extend renew assault grant calm medal";
+var mnemonic = "luggage ignore spike elder final holiday giraffe picnic fatigue arrow wage retreat";

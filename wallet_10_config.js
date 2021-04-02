@@ -1,1 +1,1 @@
-var mnemonic = "coyote recall rude capable cheese appear injury hour wreck giant direct ski";
+var mnemonic = "shell embody recipe call asthma image phrase wrong blood disagree use leopard";

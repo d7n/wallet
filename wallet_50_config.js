@@ -1,1 +1,1 @@
-var mnemonic = "victory decorate donate situate object cruise month lens trap athlete alarm squeeze";
+var mnemonic = "relax aisle option fiscal army arrest mistake spread vital soft garage pioneer";

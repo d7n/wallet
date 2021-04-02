@@ -1,1 +1,1 @@
-var mnemonic = "clutch dream plastic gown photo promote gift make maid clip length ordinary";
+var mnemonic = "element exist trouble buddy poem alpha teach high setup glide catch junk";

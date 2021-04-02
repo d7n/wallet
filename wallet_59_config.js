@@ -1,1 +1,1 @@
-var mnemonic = "east accident hard young ankle spatial turn gold remain scatter staff essay";
+var mnemonic = "dumb galaxy suffer general lyrics neither green cancel best pole call annual";

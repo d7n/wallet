@@ -1,1 +1,1 @@
-var mnemonic = "salon lamp jealous mosquito laptop venture trap step together horse deny disorder";
+var mnemonic = "main hair leopard coil stable prosper monitor water motion thank glide grief";

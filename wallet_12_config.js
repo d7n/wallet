@@ -1,1 +1,1 @@
-var mnemonic = "verify ring vast onion feel spread venue crazy escape stable nature farm";
+var mnemonic = "gold stove clean rubber image razor panther spoon addict ramp pluck leaf";

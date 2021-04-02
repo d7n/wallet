@@ -1,1 +1,1 @@
-var mnemonic = "cover face leg option subway burger member fat upper detail cinnamon arm";
+var mnemonic = "glimpse soul version pipe patrol require review squeeze economy argue plunge blind";

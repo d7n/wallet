@@ -1,1 +1,1 @@
-var mnemonic = "shaft clean buffalo train genius brown submit ahead assume winner enjoy define";
+var mnemonic = "amused illness cinnamon square iron odor top spoon poem stone dress submit";

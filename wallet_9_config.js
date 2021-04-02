@@ -1,1 +1,1 @@
-var mnemonic = "chief inform pull spy faint easy false fragile afraid alone lady snow";
+var mnemonic = "own quiz powder peasant outdoor maximum elegant raw depend board radio actor";

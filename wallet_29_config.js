@@ -1,1 +1,1 @@
-var mnemonic = "dolphin payment couple charge grass bargain judge inherit measure code live fan";
+var mnemonic = "wear ability team dice math theory make ring flip parent injury latin";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey supreme warrior edit middle iron parade barrel liquid holiday market glow";
+var mnemonic = "meadow youth abuse image draw again sample aspect equal youth empty private";

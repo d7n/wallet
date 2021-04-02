@@ -1,1 +1,1 @@
-var mnemonic = "vast boy coyote mutual decrease inch knee burden heavy battle draw feed";
+var mnemonic = "drive hint visit unfair will receive worry sustain firm card pigeon skin";

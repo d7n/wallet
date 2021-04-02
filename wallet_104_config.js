@@ -1,1 +1,1 @@
-var mnemonic = "used essay real hockey current ozone bless vapor measure toss gallery ozone";
+var mnemonic = "museum gallery obvious gain wild agent assume cart move harbor emotion category";

@@ -1,1 +1,1 @@
-var mnemonic = "damp below rare tree dirt hat skate any truly sound tell supply";
+var mnemonic = "need point whale diagram sound cargo annual very blame release sorry release";

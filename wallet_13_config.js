@@ -1,1 +1,1 @@
-var mnemonic = "trigger damage vacuum run sponsor episode column amazing ozone hunt number milk";
+var mnemonic = "local gravity garden link gossip suffer tortoise giant allow pudding shop reason";

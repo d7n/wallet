@@ -1,1 +1,1 @@
-var mnemonic = "bottom profit diesel seek upset couch imitate wedding captain melt good shell";
+var mnemonic = "palm finger wild wet leave lady solid stereo plate addict twist music";

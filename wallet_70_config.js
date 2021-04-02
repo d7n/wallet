@@ -1,1 +1,1 @@
-var mnemonic = "fashion focus shiver canal puppy dragon mistake meat sword flame sorry decrease";
+var mnemonic = "genre target moral grass tattoo know toast dish organ tide search check";

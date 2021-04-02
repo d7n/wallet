@@ -1,1 +1,1 @@
-var mnemonic = "fault liberty grace rebuild gap random equip educate loop memory universe sting";
+var mnemonic = "category garage quantum outside favorite cream resemble dilemma security pluck cupboard paddle";

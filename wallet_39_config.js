@@ -1,1 +1,1 @@
-var mnemonic = "race forget idle jar camera together gap benefit trigger allow leave melt";
+var mnemonic = "broom core response response catalog sick unusual tribe whisper hub turn zero";

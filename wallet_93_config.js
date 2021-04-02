@@ -1,1 +1,1 @@
-var mnemonic = "need buffalo present emerge embark lemon cheese labor ramp rare episode nice";
+var mnemonic = "coral castle panic rough tribe faculty chair sick company crowd jacket custom";

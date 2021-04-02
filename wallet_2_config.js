@@ -1,1 +1,1 @@
-var mnemonic = "imitate chaos grow raw strong lecture kick version motor diamond false frog";
+var mnemonic = "water liar merry donor level vessel tip scrub potato emerge trophy deputy";

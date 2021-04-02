@@ -1,1 +1,1 @@
-var mnemonic = "marriage margin tiger analyst father wool confirm excuse penalty chicken family health";
+var mnemonic = "insane convince virus effort rival release brand maximum uncover settle boss luggage";

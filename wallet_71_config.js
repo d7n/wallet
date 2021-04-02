@@ -1,1 +1,1 @@
-var mnemonic = "birth turtle music identify now pill main file length obvious public course";
+var mnemonic = "gas match laundry equal remove index mandate unveil certain void flag slight";

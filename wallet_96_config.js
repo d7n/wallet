@@ -1,1 +1,1 @@
-var mnemonic = "solution idle dial tower skirt learn frost amused sister flip chair spread";
+var mnemonic = "cat outer head damp dove defy never obscure govern fog truly target";

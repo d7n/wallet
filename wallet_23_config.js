@@ -1,1 +1,1 @@
-var mnemonic = "tonight scare allow extend trick clever board barrel document oxygen stone soccer";
+var mnemonic = "erupt mother usual ball notice state genre salmon choose monkey leisure domain";

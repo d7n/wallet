@@ -1,1 +1,1 @@
-var mnemonic = "sudden later flip toe salon sorry tag left express rigid vicious ramp";
+var mnemonic = "battle island banner forget tribe broom manual merry swallow uphold vapor tape";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom judge flight waste long strike cradle sort mean recall sound mutual";
+var mnemonic = "useless clown engine chalk cushion lawsuit initial round service pear gown trend";

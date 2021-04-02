@@ -1,1 +1,1 @@
-var mnemonic = "pupil between used inquiry mixture author yard else swift purity write ankle";
+var mnemonic = "tag health inside behind lizard coyote lunar agent lobster embrace gold saddle";

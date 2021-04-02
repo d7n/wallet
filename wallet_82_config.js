@@ -1,1 +1,1 @@
-var mnemonic = "transfer loan champion noodle gallery artwork frost mix cradle sand joy bag";
+var mnemonic = "mobile snake language amateur rigid write bracket grow conduct reunion woman sport";

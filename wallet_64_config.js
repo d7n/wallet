@@ -1,1 +1,1 @@
-var mnemonic = "side grain pottery rival jacket mansion that flush toast box toddler sick";
+var mnemonic = "mother coast hospital sample country short tired scatter permit spawn wealth curtain";

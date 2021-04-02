@@ -1,1 +1,1 @@
-var mnemonic = "erosion winner cute unlock today year salmon pencil taxi moral coconut can";
+var mnemonic = "track script skirt father mass violin strike enlist love giraffe island smoke";

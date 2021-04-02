@@ -1,1 +1,1 @@
-var mnemonic = "purity invest what proud obvious print rubber beach pass razor rude pudding";
+var mnemonic = "shop return violin elegant raw cart ahead impact answer alert dismiss wheat";

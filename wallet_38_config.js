@@ -1,1 +1,1 @@
-var mnemonic = "example have like shiver attack vital month image project net chair air";
+var mnemonic = "ahead royal mandate army excuse little timber print spider property annual stairs";

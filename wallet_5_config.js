@@ -1,1 +1,1 @@
-var mnemonic = "brick nasty marine plug peasant future report song useful weekend other vast";
+var mnemonic = "valve fun approve goddess clown oxygen gym ensure engage spare canyon series";

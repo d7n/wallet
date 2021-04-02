@@ -1,1 +1,1 @@
-var mnemonic = "artefact bitter cabin decide cabbage upper alien teach radar amateur seed sell";
+var mnemonic = "aisle increase control grace talk extend gold over bind raw kind clip";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze estate bleak actress such trim mind mind left reject bulk minor";
+var mnemonic = "hotel educate measure indicate photo dash radar carbon tell moon home keen";

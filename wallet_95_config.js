@@ -1,1 +1,1 @@
-var mnemonic = "filter mad stove fall inject antique expose project news toss bargain fitness";
+var mnemonic = "elder cube awesome endless struggle doll impulse food bamboo tissue also oxygen";

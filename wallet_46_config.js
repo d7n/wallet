@@ -1,1 +1,1 @@
-var mnemonic = "rotate name also vicious horror stick jungle rebuild coil cry peanut shaft";
+var mnemonic = "isolate pass total net faculty auction hero crush charge youth flat ghost";

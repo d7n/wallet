@@ -1,1 +1,1 @@
-var mnemonic = "donkey decide brass cruise field account grocery inner year human master hollow";
+var mnemonic = "squeeze mother raise float identify helmet tilt lumber inside only wisdom project";

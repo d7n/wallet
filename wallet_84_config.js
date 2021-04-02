@@ -1,1 +1,1 @@
-var mnemonic = "hover blouse sudden worry pause analyst grain bleak blouse outer fit guard";
+var mnemonic = "universe donate vanish broken achieve keep fabric awkward couch thought delay error";

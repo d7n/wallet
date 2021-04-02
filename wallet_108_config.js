@@ -1,1 +1,1 @@
-var mnemonic = "camp dash improve simple easy choice buffalo raw hand dolphin desk rather";
+var mnemonic = "gold guitar crawl faculty ocean dinner decline satisfy apology clarify type wrong";

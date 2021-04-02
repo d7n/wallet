@@ -1,1 +1,1 @@
-var mnemonic = "wait nominee spike toward please wealth step unfold gym buyer settle youth";
+var mnemonic = "muscle address ancient reject list amused glad clump client warrior raw erosion";

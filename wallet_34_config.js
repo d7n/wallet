@@ -1,1 +1,1 @@
-var mnemonic = "save glory artefact light demand glory resemble bike believe hawk snap vault";
+var mnemonic = "girl phone surface solar blast notice gravity lottery average crop gas sibling";

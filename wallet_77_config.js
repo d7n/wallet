@@ -1,1 +1,1 @@
-var mnemonic = "wedding album skirt dwarf replace nation banana mimic disagree produce amused stumble";
+var mnemonic = "train joy doll result muscle matter economy antique hazard onion excite matter";

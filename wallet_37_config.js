@@ -1,1 +1,1 @@
-var mnemonic = "call myth prepare blame entry sentence remember ivory lottery ethics sound gauge";
+var mnemonic = "tiger process rapid answer aware metal ball sibling foam remind rapid bracket";

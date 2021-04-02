@@ -1,1 +1,1 @@
-var mnemonic = "head tone vocal toe nut renew wall slight similar convince cool differ";
+var mnemonic = "plunge shaft cruel vocal flee patch dose rely chair predict velvet obvious";

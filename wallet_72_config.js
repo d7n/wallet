@@ -1,1 +1,1 @@
-var mnemonic = "annual analyst vacuum casual permit street cactus grief vacant raven improve rookie";
+var mnemonic = "culture metal sound garden open render reopen sure pelican sugar once clown";

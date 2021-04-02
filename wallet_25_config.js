@@ -1,1 +1,1 @@
-var mnemonic = "brand soccer cruel notice weird puppy much tree little huge hybrid address";
+var mnemonic = "public bulb party vital predict pitch approve wisdom arrow nephew pepper volume";

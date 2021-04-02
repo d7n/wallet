@@ -1,1 +1,1 @@
-var mnemonic = "visa fringe half afford flag april fine chase equal wrap picture lock";
+var mnemonic = "insane catalog tobacco romance company record ranch hat betray cliff recall surface";

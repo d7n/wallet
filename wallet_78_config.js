@@ -1,1 +1,1 @@
-var mnemonic = "monitor peace nominee try bean consider razor wall nose consider discover recipe";
+var mnemonic = "aerobic humor dry permit hammer swap lens cover same say net give";

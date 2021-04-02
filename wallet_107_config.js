@@ -1,1 +1,1 @@
-var mnemonic = "audit never biology whale soon flight move pear ask elephant usage winner";
+var mnemonic = "dice robust produce soap rigid step bulk swallow equal truth double thunder";

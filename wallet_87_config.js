@@ -1,1 +1,1 @@
-var mnemonic = "save debris hotel essence must disorder hand brother smoke reveal lunch monitor";
+var mnemonic = "near best giraffe confirm elbow matrix spirit mixture tissue rather involve embody";

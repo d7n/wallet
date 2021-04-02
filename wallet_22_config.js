@@ -1,1 +1,1 @@
-var mnemonic = "pave dish census layer wrist float finish grid fit ankle toast purity";
+var mnemonic = "viable april sort lyrics organ dismiss nut frost limb trouble menu arena";

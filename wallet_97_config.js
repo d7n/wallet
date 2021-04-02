@@ -1,1 +1,1 @@
-var mnemonic = "green mimic faith globe glass focus unlock ticket buddy duck forest discover";
+var mnemonic = "behind usage garment hurdle oak arena speak monster company gallery base forget";

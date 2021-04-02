@@ -1,1 +1,1 @@
-var mnemonic = "field law oppose recipe pledge unhappy teach novel cereal flag twice start";
+var mnemonic = "balcony sound awkward wasp margin grunt prevent boring regular taste route make";

@@ -1,1 +1,1 @@
-var mnemonic = "company number remind tomorrow pill crime make buzz wonder impose speed brave";
+var mnemonic = "deal scissors memory emerge seven dance disorder man tower plug book salon";

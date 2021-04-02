@@ -1,1 +1,1 @@
-var mnemonic = "about shock load minimum beyond bounce magnet pond essence case legal spot";
+var mnemonic = "gadget grow collect hurdle weather muscle exhaust dust peace change steel govern";

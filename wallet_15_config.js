@@ -1,1 +1,1 @@
-var mnemonic = "sauce amount notice pilot better napkin brand inner token assist pulp asthma";
+var mnemonic = "memory ostrich item view obtain garlic bottom multiply hold female unhappy quote";

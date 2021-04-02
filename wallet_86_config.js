@@ -1,1 +1,1 @@
-var mnemonic = "exhibit bean purity essence hair fragile soft universe axis repair valve border";
+var mnemonic = "liar retire shop green vibrant solution check kiss grass climb future broom";

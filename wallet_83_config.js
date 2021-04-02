@@ -1,1 +1,1 @@
-var mnemonic = "later ability always excite wool hen sausage inspire hold mom foster popular";
+var mnemonic = "blue blame butter build tuition kit ethics rare festival aim blouse angry";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain enrich canoe boil hand knock spring behind salt profit outer color";
+var mnemonic = "wing accuse exclude neglect hub timber sight false shallow version skill view";

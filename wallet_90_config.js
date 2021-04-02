@@ -1,1 +1,1 @@
-var mnemonic = "venture seek web west slow fix stove lamp reflect hat dial corn";
+var mnemonic = "edit dizzy describe hidden always fossil aspect suggest response country goat fitness";

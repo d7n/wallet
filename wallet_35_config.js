@@ -1,1 +1,1 @@
-var mnemonic = "glass protect before airport witness burden pony acquire gospel model emotion capital";
+var mnemonic = "front empty castle crawl solve way champion ability organ forest quarter always";

@@ -1,1 +1,1 @@
-var mnemonic = "possible topple spend grid chef broccoli moral narrow regret margin lake program";
+var mnemonic = "already envelope play method section crawl various glue point step fall crouch";

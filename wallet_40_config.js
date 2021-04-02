@@ -1,1 +1,1 @@
-var mnemonic = "fashion dawn nasty essence engage trick pulse silver ensure sphere right shop";
+var mnemonic = "awesome slush crush chicken garment primary couch blood relax word hunt balcony";

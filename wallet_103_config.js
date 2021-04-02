@@ -1,1 +1,1 @@
-var mnemonic = "nose flee couple wild army ribbon puzzle diet wine crater food panther";
+var mnemonic = "edit leisure blood clog note device asthma rose glove divert doctor kid";

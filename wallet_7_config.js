@@ -1,1 +1,1 @@
-var mnemonic = "decrease pink sugar cruel cook invest tragic road liberty yellow problem phone";
+var mnemonic = "ship worry rigid melt pyramid mosquito wolf danger design outside inject shaft";

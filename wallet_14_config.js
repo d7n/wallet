@@ -1,1 +1,1 @@
-var mnemonic = "bird cute thumb kind uncover doll dignity summer height limit yard exhibit";
+var mnemonic = "flee inject trouble cash humor loan develop sphere work stick kind tell";

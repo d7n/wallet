@@ -1,1 +1,1 @@
-var mnemonic = "clinic sudden spare hello destroy guide praise confirm laptop lottery script clarify";
+var mnemonic = "lesson great crucial client perfect original gossip solar appear fun inherit claim";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic aspect priority hunt narrow direct ugly custom grocery still differ grape";
+var mnemonic = "check right carry chimney voice sunset dutch whip town maximum hawk physical";

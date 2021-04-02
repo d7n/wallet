@@ -1,1 +1,1 @@
-var mnemonic = "hawk recipe fruit staff barrel taste grass gentle margin pilot south arrange";
+var mnemonic = "balance toilet today assault genius require silk kitchen math paper mutual betray";

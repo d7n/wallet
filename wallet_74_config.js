@@ -1,1 +1,1 @@
-var mnemonic = "crazy endorse jelly symptom rule hamster boss scissors news truth excuse limit";
+var mnemonic = "body private lemon fade donor satisfy round sand real urge valley dumb";
