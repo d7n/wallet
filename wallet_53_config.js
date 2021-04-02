@@ -1,1 +1,1 @@
-var mnemonic = "express ranch body entry oval skate switch uphold asthma uncover eight pen";
+var mnemonic = "mammal scrap series aspect throw town merry perfect sure tooth kind kid";

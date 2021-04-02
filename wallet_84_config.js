@@ -1,1 +1,1 @@
-var mnemonic = "give material crowd address artefact air refuse orchard inflict top stool alarm";
+var mnemonic = "defy pioneer stable claim sing wood august bronze salute hip blouse office";

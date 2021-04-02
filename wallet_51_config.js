@@ -1,1 +1,1 @@
-var mnemonic = "slender grid chest bitter pole subject alarm army tobacco truck around dove";
+var mnemonic = "neglect snack over easily flip prepare say veteran steak refuse faith galaxy";

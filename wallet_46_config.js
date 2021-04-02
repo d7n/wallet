@@ -1,1 +1,1 @@
-var mnemonic = "expose fault agent category exact anxiety student awake affair labor depart shoot";
+var mnemonic = "road sniff autumn athlete useful fork entry crisp float goat today excite";

@@ -1,1 +1,1 @@
-var mnemonic = "army buyer february veteran move rich gallery accuse foster raw sister alone";
+var mnemonic = "dragon forest body dumb vivid blanket toddler vacant wagon pink plug skate";

@@ -1,1 +1,1 @@
-var mnemonic = "risk vibrant inflict hamster matrix word adult oval broom arena skull fade";
+var mnemonic = "begin romance screen sister roast motion undo giant fit dutch increase cotton";

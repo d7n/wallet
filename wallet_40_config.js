@@ -1,1 +1,1 @@
-var mnemonic = "stock ranch pair culture captain letter habit hub seat quick sight tumble";
+var mnemonic = "know world mercy olive sadness pelican above inspire bind office balcony blade";

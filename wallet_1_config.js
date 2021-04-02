@@ -1,1 +1,1 @@
-var mnemonic = "purity minute invest caution subject display couch rural state fashion police police";
+var mnemonic = "slot rack equal reject entire civil mobile purse catch cruel humble vital";

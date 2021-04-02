@@ -1,1 +1,1 @@
-var mnemonic = "hand proud buddy unknown broccoli world night dumb market tilt lava vapor";
+var mnemonic = "february trigger convince eye stadium make west noise click fiscal mistake vault";

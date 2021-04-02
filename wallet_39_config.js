@@ -1,1 +1,1 @@
-var mnemonic = "size enrich logic chicken early now black blood short fame loan merge";
+var mnemonic = "memory hundred usual kangaroo know artefact find ritual sing guide worry beauty";

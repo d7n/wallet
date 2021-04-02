@@ -1,1 +1,1 @@
-var mnemonic = "stomach very join cannon letter verify faint bean exist wave wool approve";
+var mnemonic = "toward grow shop quiz flip student area happy discover hockey blade pumpkin";

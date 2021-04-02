@@ -1,1 +1,1 @@
-var mnemonic = "animal season follow resemble slam make steel soccer runway cradle wrong fiscal";
+var mnemonic = "police inch brick rally peanut radio either remember type aware boil much";

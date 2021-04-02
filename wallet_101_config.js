@@ -1,1 +1,1 @@
-var mnemonic = "ivory remind labor live banner chair empower chef hobby caution chaos session";
+var mnemonic = "abstract lemon short away unaware noble track actual insect glass state rate";

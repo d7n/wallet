@@ -1,1 +1,1 @@
-var mnemonic = "photo toss key relief gospel sun sunset style much damage scorpion menu";
+var mnemonic = "swamp game traffic entire ranch swim obey certain work castle sun soon";

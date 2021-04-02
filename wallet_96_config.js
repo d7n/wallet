@@ -1,1 +1,1 @@
-var mnemonic = "stairs cloth evolve genius ribbon return eagle candy school exhaust moon history";
+var mnemonic = "idea rather defy bone above milk jeans crouch cover hip busy truly";

@@ -1,1 +1,1 @@
-var mnemonic = "work unable purchase roast slow turtle catalog enjoy price mansion over diary";
+var mnemonic = "slight weekend chief head expand hip door swallow provide jacket lawsuit liar";

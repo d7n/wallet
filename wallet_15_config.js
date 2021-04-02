@@ -1,1 +1,1 @@
-var mnemonic = "innocent hurdle bench fruit dragon notice veteran slot embrace intact gap expose";
+var mnemonic = "soul wheel please private repair round gym exhaust recipe steak acoustic huge";

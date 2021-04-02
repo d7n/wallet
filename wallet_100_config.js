@@ -1,1 +1,1 @@
-var mnemonic = "dirt engage emotion embrace vehicle index post vague jazz math dry all";
+var mnemonic = "math grace odor list resource deputy sibling boss dawn churn embrace sing";

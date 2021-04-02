@@ -1,1 +1,1 @@
-var mnemonic = "public select odor ice appear axis first plug student tongue syrup supreme";
+var mnemonic = "reflect addict list hollow demise inhale parent collect travel page retire swear";

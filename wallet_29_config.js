@@ -1,1 +1,1 @@
-var mnemonic = "tomato time example civil place leader pistol logic affair target sock mandate";
+var mnemonic = "belt wrap furnace answer peanut crop sponsor riot arrow valley thrive harbor";

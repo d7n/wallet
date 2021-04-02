@@ -1,1 +1,1 @@
-var mnemonic = "sell shift basic maximum blanket mountain jewel thank struggle diet ensure achieve";
+var mnemonic = "rough moment umbrella south vague diagram exit elite income glue shed hidden";

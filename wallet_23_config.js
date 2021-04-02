@@ -1,1 +1,1 @@
-var mnemonic = "bargain omit drastic danger night script stool enlist essay kiss around mean";
+var mnemonic = "creek reward giggle grocery expand manage soccer adult sauce creek high tool";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar code bring accident six today lounge tunnel sand actor pretty scare";
+var mnemonic = "patch spring master bronze drastic fruit utility carpet vocal fence mouse usual";

@@ -1,1 +1,1 @@
-var mnemonic = "twice burden shoe submit output harbor busy manage snake trade exile mountain";
+var mnemonic = "manual rack ten super wing crouch pattern three exact day wrap legend";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor jump admit must volcano much book swarm dove all fatigue orchard";
+var mnemonic = "oyster rug run sadness there throw earn still raise category add grief";

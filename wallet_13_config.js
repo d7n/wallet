@@ -1,1 +1,1 @@
-var mnemonic = "coyote license pause tip buyer day auction length dynamic photo arrow bench";
+var mnemonic = "behave poem unveil chuckle soap moon fold matter crawl monkey jungle divert";

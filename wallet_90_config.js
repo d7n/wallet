@@ -1,1 +1,1 @@
-var mnemonic = "silk salt black peace frown puzzle flat demise devote bright junior dirt";
+var mnemonic = "control tumble vital peasant culture prison riot report outdoor insane inner regular";

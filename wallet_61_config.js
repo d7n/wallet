@@ -1,1 +1,1 @@
-var mnemonic = "coyote assist square excuse cactus pumpkin enter okay discover kidney swallow vacant";
+var mnemonic = "start double hockey sad remember garage caution coast one punch student argue";

@@ -1,1 +1,1 @@
-var mnemonic = "oak clay prosper mention long situate ladder wolf earn frozen despair pelican";
+var mnemonic = "equal easily wheel witness mimic slender lake memory fury catch crowd network";

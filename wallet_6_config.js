@@ -1,1 +1,1 @@
-var mnemonic = "label arena tank fuel already return note enrich web uniform cactus fossil";
+var mnemonic = "vibrant kid swap urban story glad twice congress aisle orient twice call";

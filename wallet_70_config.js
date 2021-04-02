@@ -1,1 +1,1 @@
-var mnemonic = "dignity lonely one pole manage earth water clip lion release sheriff slot";
+var mnemonic = "year first inside globe veteran future screen ugly path shield forum boy";

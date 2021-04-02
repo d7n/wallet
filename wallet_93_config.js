@@ -1,1 +1,1 @@
-var mnemonic = "tornado strong margin slogan torch between rent soon river nerve accident panic";
+var mnemonic = "speed ski rival order march appear solid salmon evidence throw assault cereal";

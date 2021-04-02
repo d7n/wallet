@@ -1,1 +1,1 @@
-var mnemonic = "aisle gorilla victory danger asset image expire great path double claim quarter";
+var mnemonic = "agree fall federal erase animal couple sibling index jaguar client topic slab";

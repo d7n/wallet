@@ -1,1 +1,1 @@
-var mnemonic = "bleak erosion true ozone edit salt axis cave soft zoo shy tourist";
+var mnemonic = "primary wall dentist wrong spring unfair tell bid build odor express toast";

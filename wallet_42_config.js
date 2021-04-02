@@ -1,1 +1,1 @@
-var mnemonic = "stem topic obscure lyrics lunar promote era answer valid credit double blue";
+var mnemonic = "celery gadget soon piece call property deny basic auto bitter punch lemon";

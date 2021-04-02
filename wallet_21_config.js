@@ -1,1 +1,1 @@
-var mnemonic = "match fortune plug obvious venue benefit crop kid food vital square impose";
+var mnemonic = "maple slogan clinic travel snap program kidney cart life dust sadness dizzy";

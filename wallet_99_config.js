@@ -1,1 +1,1 @@
-var mnemonic = "kitten nest carbon display hungry birth picnic stove marriage chuckle bitter among";
+var mnemonic = "leopard wet example travel basket dress fantasy soldier energy improve innocent vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "main wasp model table person liberty pet riot oyster loud climb benefit";
+var mnemonic = "boat tomato direct design action shy senior pair snow loyal lemon paper";

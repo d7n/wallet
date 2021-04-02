@@ -1,1 +1,1 @@
-var mnemonic = "exist boil manage amount equal biology yard absorb rough draw cattle vacuum";
+var mnemonic = "able wheel bubble icon vapor typical praise truly legal raccoon chief change";

@@ -1,1 +1,1 @@
-var mnemonic = "female end top web animal dream faculty soup main monitor blue better";
+var mnemonic = "author gloom silk once jazz equip business theory truck earn erase practice";

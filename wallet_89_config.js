@@ -1,1 +1,1 @@
-var mnemonic = "puzzle rate reunion deputy pepper weekend profit metal silk reject yard trip";
+var mnemonic = "swear online water melt coast salt until labor group birth vital record";

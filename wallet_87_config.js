@@ -1,1 +1,1 @@
-var mnemonic = "real smart ladder east glue biology name result frost item fragile barely";
+var mnemonic = "baby slush cup adjust certain tell oxygen leopard price chaos hunt relax";

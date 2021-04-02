@@ -1,1 +1,1 @@
-var mnemonic = "rapid sure avoid table lucky patrol sheriff velvet quit card apart cattle";
+var mnemonic = "matter injury horse fiber weasel toy present shop loan snake coffee call";

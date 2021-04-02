@@ -1,1 +1,1 @@
-var mnemonic = "final what prize evil economy decrease pupil design noodle taxi upset leopard";
+var mnemonic = "egg borrow twice firm vital squeeze helmet magnet motion retreat popular feed";

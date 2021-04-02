@@ -1,1 +1,1 @@
-var mnemonic = "pyramid cousin loan will impose polar nut flavor army weather phrase little";
+var mnemonic = "cage wear exercise cliff robust turn dune october oil banner february move";

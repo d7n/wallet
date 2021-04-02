@@ -1,1 +1,1 @@
-var mnemonic = "old tiny doll smoke course govern auto actor tiger empower close trust";
+var mnemonic = "barrel offer window rail labor city near country theory chef half picture";

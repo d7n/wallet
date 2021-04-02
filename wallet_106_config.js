@@ -1,1 +1,1 @@
-var mnemonic = "truck worry tilt flag speak segment always wild slice envelope entire resource";
+var mnemonic = "swap brass subway clarify immune grape artist hungry jaguar wheat noble journey";

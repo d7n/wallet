@@ -1,1 +1,1 @@
-var mnemonic = "tornado edit captain improve fiscal betray assume dose rookie replace eye skate";
+var mnemonic = "universe suggest romance thunder victory honey loop forward habit quarter climb during";

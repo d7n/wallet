@@ -1,1 +1,1 @@
-var mnemonic = "meadow oyster shaft control transfer confirm reflect humor pistol uncle glad uphold";
+var mnemonic = "vote push air involve mention wing unknown sure soccer link discover veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "trust win prosper soap shine hammer crucial behind nominee tree razor practice";
+var mnemonic = "tuna brand improve deputy spoil skin sail update crazy neglect error whip";

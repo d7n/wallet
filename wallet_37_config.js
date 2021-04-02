@@ -1,1 +1,1 @@
-var mnemonic = "garment tiny chunk thunder devote journey harsh egg liberty unusual sudden robust";
+var mnemonic = "plate case erase fiber fog plunge siren make length domain eye boat";

@@ -1,1 +1,1 @@
-var mnemonic = "inch leave eight huge present pluck soup confirm depart claw sample fit";
+var mnemonic = "forum aunt exotic bullet sign common hammer sample glare place inquiry twenty";

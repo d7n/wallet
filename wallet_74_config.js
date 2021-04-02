@@ -1,1 +1,1 @@
-var mnemonic = "face prepare hill royal mule digital sponsor alert you unit purse region";
+var mnemonic = "that actor say anchor frozen clip ostrich lady wealth inform way guess";

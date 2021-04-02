@@ -1,1 +1,1 @@
-var mnemonic = "rather gallery maple popular zone enough message rebuild pledge dash carbon rabbit";
+var mnemonic = "crime away toss order gas wild weekend grass master moon record economy";

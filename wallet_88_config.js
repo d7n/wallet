@@ -1,1 +1,1 @@
-var mnemonic = "calm model maple truck snake endless bomb rocket subway letter web caution";
+var mnemonic = "organ submit calm improve reunion lawn hungry media enlist river shift jacket";

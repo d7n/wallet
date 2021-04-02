@@ -1,1 +1,1 @@
-var mnemonic = "enrich sense train switch chaos sport exhibit soda program able equal engine";
+var mnemonic = "brisk story aspect record surface author whip edge salute avocado tonight knife";

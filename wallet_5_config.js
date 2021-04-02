@@ -1,1 +1,1 @@
-var mnemonic = "prosper day ice modify coast use genius flat roast penalty beauty remind";
+var mnemonic = "already eagle inform devote coyote brother comic fossil pill jump weekend enable";

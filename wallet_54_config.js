@@ -1,1 +1,1 @@
-var mnemonic = "job ship rocket inner scan glory seed seek wage canal zebra little";
+var mnemonic = "cloud gasp turn scissors height disagree floor trash sing eagle volcano flush";

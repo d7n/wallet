@@ -1,1 +1,1 @@
-var mnemonic = "nice expire december icon umbrella dove slogan warrior screen explain assist staff";
+var mnemonic = "fork razor light lab load chase enact weird maze truly two lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "nut camp suit rabbit kidney motion clean unaware distance forward recycle upper";
+var mnemonic = "coffee soccer swap usage replace animal sad real empower episode salmon text";

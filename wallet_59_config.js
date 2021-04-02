@@ -1,1 +1,1 @@
-var mnemonic = "sentence hurdle comfort team skate chef ball base solar angle december hurry";
+var mnemonic = "behave shoulder short sell beef clip march fluid amazing across extra bar";

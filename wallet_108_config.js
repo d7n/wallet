@@ -1,1 +1,1 @@
-var mnemonic = "soul wolf crash clever achieve surface polar gun connect famous enhance trial";
+var mnemonic = "ritual gadget number slush uncle domain spoil bargain liquid industry lift marine";

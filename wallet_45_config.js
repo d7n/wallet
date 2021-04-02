@@ -1,1 +1,1 @@
-var mnemonic = "jealous country attack panic sadness piece spot plastic girl sphere click setup";
+var mnemonic = "genuine oven high illness lizard prefer indoor differ siege lock solution flower";

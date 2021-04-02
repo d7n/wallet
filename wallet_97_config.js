@@ -1,1 +1,1 @@
-var mnemonic = "unfair grape whisper mad decrease traffic rookie couch basic urban august order";
+var mnemonic = "year embrace slush flag parent crater rapid tonight duty yellow glare blame";

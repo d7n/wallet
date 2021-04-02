@@ -1,1 +1,1 @@
-var mnemonic = "title inmate absent nest bacon east nerve impact reopen jump spring park";
+var mnemonic = "video expand clap match monitor keep cannon gorilla bamboo alone cabin paper";

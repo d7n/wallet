@@ -1,1 +1,1 @@
-var mnemonic = "chat reject wheat beauty vibrant train price person dish loan flock tragic";
+var mnemonic = "pigeon tuition result lunch beauty current onion south dizzy flat pen place";

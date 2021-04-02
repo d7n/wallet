@@ -1,1 +1,1 @@
-var mnemonic = "neglect nut coyote series make drama hole crack fee code screen dinosaur";
+var mnemonic = "sense question talent toe chronic need buyer club expand cherry oyster dinner";

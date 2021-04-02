@@ -1,1 +1,1 @@
-var mnemonic = "news junior laundry name artist escape come fortune canoe guitar near sadness";
+var mnemonic = "airport toilet eyebrow tide often equip tribe father fragile improve push million";

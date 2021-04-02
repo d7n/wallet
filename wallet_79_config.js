@@ -1,1 +1,1 @@
-var mnemonic = "virus squirrel cruel subject voice arch legal bubble fever fix panther end";
+var mnemonic = "photo stairs milk differ metal tell salmon imitate settle dose pelican swap";

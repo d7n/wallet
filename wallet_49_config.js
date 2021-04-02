@@ -1,1 +1,1 @@
-var mnemonic = "suit aspect labor fish kitchen weasel kick eye collect guide guide myself";
+var mnemonic = "rotate leisure primary cake latin close dutch object paddle today demand account";

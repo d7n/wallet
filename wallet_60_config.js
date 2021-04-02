@@ -1,1 +1,1 @@
-var mnemonic = "shoe awesome gallery coconut topple broken ozone mouse refuse domain magic quarter";
+var mnemonic = "pattern enrich strong tank lock amused giggle build monster acquire city pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "party monkey saddle flush hedgehog tray under age battle thumb smoke fury";
+var mnemonic = "craft pulse sauce shell great bounce siege ready twice virtual narrow detail";

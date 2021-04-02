@@ -1,1 +1,1 @@
-var mnemonic = "language alert bomb answer entry page cover patrol fiscal odor heart patrol";
+var mnemonic = "ask reform boil any still dove enable host device perfect history lunar";

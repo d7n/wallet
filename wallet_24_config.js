@@ -1,1 +1,1 @@
-var mnemonic = "tent lawsuit fantasy spoil inspire youth island comic basket dish flag better";
+var mnemonic = "visa sheriff club pluck among fat diagram that crush promote toe couch";

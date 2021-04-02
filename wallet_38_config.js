@@ -1,1 +1,1 @@
-var mnemonic = "dilemma peace where now primary banner olympic skate celery noise chalk submit";
+var mnemonic = "rapid forest limit peanut item push dwarf shoe damage later core ice";

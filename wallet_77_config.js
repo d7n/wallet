@@ -1,1 +1,1 @@
-var mnemonic = "gym taxi domain humble pill club offer field jar census fog fabric";
+var mnemonic = "pluck tomorrow snake camera cheese fiscal voyage fox drama mistake robot leader";

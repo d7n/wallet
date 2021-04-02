@@ -1,1 +1,1 @@
-var mnemonic = "risk unable verify equal rare skirt develop next join when wing buddy";
+var mnemonic = "ceiling build eight lonely bomb flock menu near stereo shrimp oblige yard";

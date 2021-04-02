@@ -1,1 +1,1 @@
-var mnemonic = "series follow author toast huge clinic cereal rescue best toe van model";
+var mnemonic = "defense parrot fuel rib cost patch unique local already okay remain oxygen";

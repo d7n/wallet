@@ -1,1 +1,1 @@
-var mnemonic = "tube hard gasp family kiwi bulk access gate gate wear delay brick";
+var mnemonic = "analyst green local material tuna cricket eternal promote misery wood hen social";

@@ -1,1 +1,1 @@
-var mnemonic = "flag meadow process rally marine museum direct moment logic high cheese gospel";
+var mnemonic = "decide romance addict museum party whisper tilt lift blur absorb poverty alien";

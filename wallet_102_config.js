@@ -1,1 +1,1 @@
-var mnemonic = "want raise employ bulk peasant search erupt danger episode coffee tourist supreme";
+var mnemonic = "clip treat describe aerobic step review coyote amused simple treat flip light";

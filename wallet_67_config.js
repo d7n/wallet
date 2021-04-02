@@ -1,1 +1,1 @@
-var mnemonic = "void wise flat initial annual fame bulk put copper kick sausage decorate";
+var mnemonic = "exhaust blame chaos disagree limb win panther you track blood jar enroll";

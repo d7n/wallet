@@ -1,1 +1,1 @@
-var mnemonic = "chimney wool fat rescue actual large brand quantum breeze range portion tackle";
+var mnemonic = "during arctic thunder rapid absent garden swim person hope pony hospital novel";

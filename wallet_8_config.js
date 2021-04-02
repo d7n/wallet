@@ -1,1 +1,1 @@
-var mnemonic = "position judge net update flame still develop mirror turtle jaguar light rival";
+var mnemonic = "october milk copy hero pattern assault riot burden weapon waste actor mean";

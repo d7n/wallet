@@ -1,1 +1,1 @@
-var mnemonic = "weather scatter hidden human pumpkin head vague confirm avoid argue dash scan";
+var mnemonic = "hollow federal excess distance identify dress fluid problem suspect modify destroy happy";

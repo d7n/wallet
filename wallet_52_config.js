@@ -1,1 +1,1 @@
-var mnemonic = "check deposit model tip speak frown ask memory purity gesture twice aim";
+var mnemonic = "never inflict napkin guitar master orchard bar swear derive sorry shove boss";
