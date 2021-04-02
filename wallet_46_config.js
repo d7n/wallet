@@ -1,1 +1,1 @@
-var mnemonic = "spare autumn science relief park riot illegal income blossom repeat powder mention";
+var mnemonic = "poet slim crater pet stay end canvas nature pull arrange saddle replace";

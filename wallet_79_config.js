@@ -1,1 +1,1 @@
-var mnemonic = "mass spice fuel smooth rice recycle mushroom kiwi spray history verb enter";
+var mnemonic = "apart tilt congress metal detect chimney engine junior devote gaze faith chef";

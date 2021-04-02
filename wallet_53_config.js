@@ -1,1 +1,1 @@
-var mnemonic = "wrong ketchup people slice miss imitate awesome screen spy lesson six slab";
+var mnemonic = "announce poet close exile biology rug magic pigeon toy blouse sell cause";

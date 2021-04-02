@@ -1,1 +1,1 @@
-var mnemonic = "coach success sadness conduct arrest trick abuse kick onion omit movie ask";
+var mnemonic = "caught burger runway mercy embrace reduce accident fringe warm absorb welcome reason";

@@ -1,1 +1,1 @@
-var mnemonic = "debris cat remove climb leaf large punch twelve lamp skate shine forest";
+var mnemonic = "frozen wrap dentist ranch offer rival buyer garage person fine library now";

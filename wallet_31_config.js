@@ -1,1 +1,1 @@
-var mnemonic = "cliff dizzy good soldier action toe tornado banana write remind toddler daring";
+var mnemonic = "tragic amazing crunch steak click abandon polar board city switch aspect estate";

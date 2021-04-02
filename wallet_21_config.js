@@ -1,1 +1,1 @@
-var mnemonic = "smoke cherry soda push patient honey local banner moon fuel hen ocean";
+var mnemonic = "atom giraffe best office gaze stadium ivory can pencil industry near talent";

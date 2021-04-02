@@ -1,1 +1,1 @@
-var mnemonic = "knife foster leisure note biology stairs nest spare basic advice pulp icon";
+var mnemonic = "candy force general install mouse announce guide man hold bright rescue treat";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty matrix shoe physical truly nothing clown space liar bitter knock book";
+var mnemonic = "anger frozen name brass clarify police tuition steel spice ozone donkey runway";

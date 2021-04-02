@@ -1,1 +1,1 @@
-var mnemonic = "summer slogan false search case brick crush denial tiger setup shed crawl";
+var mnemonic = "jump humor yellow drift method fit design book push toss scale adapt";

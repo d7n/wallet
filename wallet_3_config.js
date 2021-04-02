@@ -1,1 +1,1 @@
-var mnemonic = "lawn violin deposit wheat tide abandon reunion feed over hazard useless cargo";
+var mnemonic = "begin depth claim couch plunge monster car cricket soldier math left certain";

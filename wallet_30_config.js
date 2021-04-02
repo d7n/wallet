@@ -1,1 +1,1 @@
-var mnemonic = "clap aware always repeat effort knock boss table chunk embody lounge rabbit";
+var mnemonic = "medal someone eager veteran shaft point jump turtle such jazz crumble inch";

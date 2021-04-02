@@ -1,1 +1,1 @@
-var mnemonic = "donor crouch clay give license around buddy furnace silver tiny adjust obey";
+var mnemonic = "wait either today snack reason advance nurse wood outside next mountain puzzle";

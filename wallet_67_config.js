@@ -1,1 +1,1 @@
-var mnemonic = "vote increase immense inform burden girl supply grab affair garbage fog medal";
+var mnemonic = "swing lawsuit buyer mad donate album shrimp umbrella quiz engine roof bleak";

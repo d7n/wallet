@@ -1,1 +1,1 @@
-var mnemonic = "staff diesel unable inflict pen misery claim pledge river bird oven clinic";
+var mnemonic = "fun power depend exact crack protect tower copy various shove tuition wrist";

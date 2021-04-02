@@ -1,1 +1,1 @@
-var mnemonic = "rib first blush illegal tag minimum mystery scatter trade plate afford assist";
+var mnemonic = "dumb often choose change lunch address assume business embark tackle wrestle short";

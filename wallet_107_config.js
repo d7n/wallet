@@ -1,1 +1,1 @@
-var mnemonic = "awful drink wolf must entry seminar salad art hundred equal journey estate";
+var mnemonic = "drift brain endless account sunny degree valve mad skin expand mandate ring";

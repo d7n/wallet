@@ -1,1 +1,1 @@
-var mnemonic = "drink summer resource acid absurd entry drink path worth sword radar exact";
+var mnemonic = "involve identify humble submit hobby leg letter armed ghost bleak quick pulse";

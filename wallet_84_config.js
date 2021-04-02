@@ -1,1 +1,1 @@
-var mnemonic = "soccer chaos stairs pool vacuum inject spatial couch palace tonight toss saddle";
+var mnemonic = "lab prefer two hope dolphin hour banner state injury puzzle car spray";

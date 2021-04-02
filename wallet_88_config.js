@@ -1,1 +1,1 @@
-var mnemonic = "sphere resemble record shop favorite choose head immense grain always rabbit hill";
+var mnemonic = "leaf satisfy either thunder whip magnet social hedgehog flower wink virus brass";

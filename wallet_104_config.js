@@ -1,1 +1,1 @@
-var mnemonic = "hole ramp library problem nothing mosquito aspect actor sister math math horse";
+var mnemonic = "allow stool indicate trim mansion castle panic leisure winner inform beyond awesome";

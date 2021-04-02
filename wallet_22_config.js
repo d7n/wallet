@@ -1,1 +1,1 @@
-var mnemonic = "giant abandon sea vintage own acoustic vanish fresh region local river raise";
+var mnemonic = "thrive rude hair silly room shift syrup coffee firm quit maze rare";

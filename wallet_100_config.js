@@ -1,1 +1,1 @@
-var mnemonic = "tobacco cupboard print snap bid tribe endorse nose void husband tip little";
+var mnemonic = "ensure level asthma suit onion adapt edge moral core kiwi since urban";

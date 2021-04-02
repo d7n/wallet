@@ -1,1 +1,1 @@
-var mnemonic = "file toilet half raven romance lyrics stairs merit brush fault field marine";
+var mnemonic = "vast bachelor voyage artefact power near noble print harvest route knee also";

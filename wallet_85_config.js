@@ -1,1 +1,1 @@
-var mnemonic = "rocket kitten edit option ranch advice fire quarter equip hint eagle middle";
+var mnemonic = "loop bounce pilot medal where wire outer skate target outdoor tragic seven";

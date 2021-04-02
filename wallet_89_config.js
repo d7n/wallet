@@ -1,1 +1,1 @@
-var mnemonic = "clown chat banana machine column economy copy asthma act cluster excite vendor";
+var mnemonic = "pyramid affair wheel action render hunt shiver coin chest jaguar damage father";

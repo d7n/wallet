@@ -1,1 +1,1 @@
-var mnemonic = "fancy force sure amateur boss myth reject rookie van morning room oven";
+var mnemonic = "tilt humble paper execute erase hip normal oppose piano maple uncle catalog";

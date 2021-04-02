@@ -1,1 +1,1 @@
-var mnemonic = "vast rural eager estate follow artist purchase nephew crime space jewel measure";
+var mnemonic = "infant clump day nut glue dumb inform barrel cactus giant rookie model";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep coyote jacket share example immense law scrap return upper pond finger";
+var mnemonic = "come auto clever gaze today double inject exclude room shrimp gadget ankle";

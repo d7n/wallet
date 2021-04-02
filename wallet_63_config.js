@@ -1,1 +1,1 @@
-var mnemonic = "humor brave mouse woman before finger lesson february exist legal kid rule";
+var mnemonic = "common climb brother steel exist bonus curtain web fly jealous grab tilt";

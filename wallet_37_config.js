@@ -1,1 +1,1 @@
-var mnemonic = "frog ethics today pioneer issue kingdom kid purity mountain fade odor issue";
+var mnemonic = "rabbit genius harbor bronze arch sleep weather episode denial soup still kiwi";

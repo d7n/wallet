@@ -1,1 +1,1 @@
-var mnemonic = "setup mixture worry elegant neutral occur valve egg wool federal spoon saddle";
+var mnemonic = "tomato copper sail dentist question swing crucial install addict crunch island pumpkin";

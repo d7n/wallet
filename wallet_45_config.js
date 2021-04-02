@@ -1,1 +1,1 @@
-var mnemonic = "city tape kiss amazing surround potato mobile fuel roof observe laundry youth";
+var mnemonic = "voice short blade chicken scheme sibling robust matter nut million obtain absent";

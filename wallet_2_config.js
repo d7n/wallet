@@ -1,1 +1,1 @@
-var mnemonic = "during panel spider mercy permit gas work unfair border educate absent edit";
+var mnemonic = "author observe pulp permit field flag service turtle note series oil garbage";

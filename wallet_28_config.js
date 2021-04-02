@@ -1,1 +1,1 @@
-var mnemonic = "web apart hub domain habit birth blanket inhale speak bunker jewel obscure";
+var mnemonic = "mechanic duty congress system accident earth grow mix toddler walnut upgrade memory";

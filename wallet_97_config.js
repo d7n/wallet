@@ -1,1 +1,1 @@
-var mnemonic = "amount tennis vacuum round cotton stumble energy vast soccer vessel whale cabin";
+var mnemonic = "defense health eager dog chunk agree unaware tunnel churn hair charge paddle";

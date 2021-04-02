@@ -1,1 +1,1 @@
-var mnemonic = "tilt fabric bronze giant viable rifle unknown shove nut calm where gun";
+var mnemonic = "motor evidence bus solve witness antenna budget oxygen mistake green evoke sport";

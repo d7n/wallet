@@ -1,1 +1,1 @@
-var mnemonic = "pitch moral airport fork learn crane bitter marriage sorry tilt hospital trim";
+var mnemonic = "calm nose purchase drill place million sail image where leopard help pride";

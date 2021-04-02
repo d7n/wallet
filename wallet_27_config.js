@@ -1,1 +1,1 @@
-var mnemonic = "pluck friend this expire word install nature power scissors rocket human mind";
+var mnemonic = "scatter nominee abandon spoon rally into cloth odor dove lecture join field";

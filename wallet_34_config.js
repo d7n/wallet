@@ -1,1 +1,1 @@
-var mnemonic = "doctor hospital because slam citizen upon pencil page learn ivory bid alarm";
+var mnemonic = "execute mixture robust doll define wolf success change ketchup iron patrol general";

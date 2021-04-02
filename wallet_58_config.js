@@ -1,1 +1,1 @@
-var mnemonic = "order label kick maximum lounge youth portion dolphin convince ordinary chimney street";
+var mnemonic = "reform exile drill vocal ivory involve mother sunny crane coil nice green";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh draw august noise trigger immune agent circle merit page album text";
+var mnemonic = "hospital bitter core pair museum clap attend flavor ranch outer phrase ask";

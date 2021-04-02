@@ -1,1 +1,1 @@
-var mnemonic = "shove artist saddle cycle couch provide phrase empower hat trick antique write";
+var mnemonic = "west arch box sort picnic mansion move menu victory illness awkward sail";

@@ -1,1 +1,1 @@
-var mnemonic = "twin access neck safe conduct chuckle immense leaf wet denial vocal attend";
+var mnemonic = "saddle reveal virtual hobby cause galaxy attitude dragon donkey cat behave know";

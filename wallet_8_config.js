@@ -1,1 +1,1 @@
-var mnemonic = "sleep slender idea chicken company make cherry melody shallow magnet rate unique";
+var mnemonic = "net army ritual phone guitar hotel oppose name warfare flower glimpse glory";

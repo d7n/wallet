@@ -1,1 +1,1 @@
-var mnemonic = "under drill crack soda crack actor toilet mixture badge bar useless layer";
+var mnemonic = "ozone daring digital local wrong blast drama pistol midnight sweet climb sign";

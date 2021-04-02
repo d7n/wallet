@@ -1,1 +1,1 @@
-var mnemonic = "elegant sniff bread curious era stock vote fetch home wash gift trap";
+var mnemonic = "casual select fiction human invest envelope voyage outdoor old thank slam supreme";

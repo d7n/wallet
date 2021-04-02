@@ -1,1 +1,1 @@
-var mnemonic = "copper leader erode have purse report upper duck okay vanish miss pride";
+var mnemonic = "barely item crane skirt ugly measure upgrade reopen tip tattoo gun moment";

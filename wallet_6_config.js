@@ -1,1 +1,1 @@
-var mnemonic = "involve author era impose language luggage little bacon desk outer reject matter";
+var mnemonic = "company donor behave bright wagon silver advice hawk addict obvious bid pear";

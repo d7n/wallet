@@ -1,1 +1,1 @@
-var mnemonic = "olive foil auto joke magnet car food decade fatigue dilemma ill vivid";
+var mnemonic = "keen fetch live story bonus media rapid frequent wool much paper hundred";

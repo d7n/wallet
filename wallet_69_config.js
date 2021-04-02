@@ -1,1 +1,1 @@
-var mnemonic = "jelly never enforce pear include toddler envelope envelope medal similar message vault";
+var mnemonic = "eye age result nurse someone dash gasp later cram arrest media super";

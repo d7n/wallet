@@ -1,1 +1,1 @@
-var mnemonic = "city salon merit tape fiction antique mirror virtual banana remind twelve romance";
+var mnemonic = "earth bronze hint key breeze drastic fringe thumb danger lizard great letter";

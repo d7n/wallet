@@ -1,1 +1,1 @@
-var mnemonic = "robust swamp surprise border couch occur purity velvet oak fantasy erase push";
+var mnemonic = "oil fade hammer blossom spare lemon awake file stamp update mimic donkey";

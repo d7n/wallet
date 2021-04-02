@@ -1,1 +1,1 @@
-var mnemonic = "sketch spoon siege chapter tennis season gasp noise now vapor hover radio";
+var mnemonic = "valley march kind tornado knee glue letter first trophy snake bachelor describe";

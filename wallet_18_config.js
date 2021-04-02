@@ -1,1 +1,1 @@
-var mnemonic = "will tortoise crush rebuild tip effort pair good lake river harvest limit";
+var mnemonic = "legend spawn attitude gasp general legal silly gold acquire remain game reflect";

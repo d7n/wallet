@@ -1,1 +1,1 @@
-var mnemonic = "turtle dream inner thunder rain lumber behind sting jealous imitate fiber arm";
+var mnemonic = "tilt tent safe slice wait pond shield possible seek weather eyebrow dad";

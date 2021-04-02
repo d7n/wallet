@@ -1,1 +1,1 @@
-var mnemonic = "bind vast innocent blade merge share enable express initial rifle enough enable";
+var mnemonic = "skill actor camera brick wrestle absent mirror already pepper large rotate crucial";

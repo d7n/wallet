@@ -1,1 +1,1 @@
-var mnemonic = "like spirit develop two render always cinnamon cool apart prefer pole legend";
+var mnemonic = "orchard night doctor duty desk foam hire key punch dynamic faint snow";

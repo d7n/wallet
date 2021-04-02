@@ -1,1 +1,1 @@
-var mnemonic = "mango gentle connect visa marine more assist aisle chunk train poet kitten";
+var mnemonic = "reveal rally crunch faint miracle uniform various chimney section hole razor sick";

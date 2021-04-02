@@ -1,1 +1,1 @@
-var mnemonic = "scrap person ostrich palace orient sleep budget moment same extend learn tide";
+var mnemonic = "endless work inmate rocket improve injury client main above float poem valid";

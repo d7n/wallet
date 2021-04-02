@@ -1,1 +1,1 @@
-var mnemonic = "that tomato sausage lecture major warfare essay frame swift weather cousin test";
+var mnemonic = "spoil leader canal tube best deliver robust zoo have truck need coral";

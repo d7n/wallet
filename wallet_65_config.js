@@ -1,1 +1,1 @@
-var mnemonic = "fix evidence silver omit bean sheriff mother goose science vague cup reopen";
+var mnemonic = "school garage unknown bulb butter agree apart flat prosper roast wrong lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "witness bottom speak dove suffer melt cost index play crawl old banner";
+var mnemonic = "silk hope blanket mention access goddess install giggle rail random depend buyer";

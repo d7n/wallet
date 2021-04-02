@@ -1,1 +1,1 @@
-var mnemonic = "marble marriage trouble jacket split endless inflict frequent swamp tower access laundry";
+var mnemonic = "engage execute enact circle tumble area fiction vast hundred win just world";

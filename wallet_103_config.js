@@ -1,1 +1,1 @@
-var mnemonic = "quote enjoy panel pottery outer end snack tower glue almost ski story";
+var mnemonic = "movie deer great visit possible judge staff change kiss exhaust reject glimpse";

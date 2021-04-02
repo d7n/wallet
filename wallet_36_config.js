@@ -1,1 +1,1 @@
-var mnemonic = "lesson dad amazing buddy delay long ensure sustain arrive proud head tonight";
+var mnemonic = "glimpse level bundle price child you resemble dash carry denial banana ostrich";

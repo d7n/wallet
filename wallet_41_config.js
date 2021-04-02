@@ -1,1 +1,1 @@
-var mnemonic = "struggle swallow urban inflict slush episode amazing deliver urban worry zebra destroy";
+var mnemonic = "whale cruel media fix arena worth birth scale audit radar lawn hope";

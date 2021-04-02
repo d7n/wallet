@@ -1,1 +1,1 @@
-var mnemonic = "fall common describe boss fence blood race vapor nice lonely stone access";
+var mnemonic = "awesome tribe hotel novel range beauty prison total they essence jump ready";

@@ -1,1 +1,1 @@
-var mnemonic = "town memory trophy doll inmate motion prison weasel thank alarm obscure liar";
+var mnemonic = "describe misery glad expect topple loud cram dune monkey machine purse rifle";

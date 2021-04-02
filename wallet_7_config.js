@@ -1,1 +1,1 @@
-var mnemonic = "insect world weird bean inherit iron cable picnic solar jazz canal ring";
+var mnemonic = "visit subject bonus coyote stay uphold open plug blouse gallery nerve shield";

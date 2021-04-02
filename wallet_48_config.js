@@ -1,1 +1,1 @@
-var mnemonic = "champion soccer ankle mistake client crater pipe will rate perfect group news";
+var mnemonic = "profit fine business base retire member chuckle dose buzz razor boy effort";

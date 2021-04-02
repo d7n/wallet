@@ -1,1 +1,1 @@
-var mnemonic = "man dignity mad abstract boss category glass carry wrong sadness collect general";
+var mnemonic = "museum vacant wrong robust canal depend sibling celery way soup govern crew";

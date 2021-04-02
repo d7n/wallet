@@ -1,1 +1,1 @@
-var mnemonic = "sadness unlock hawk arctic subway elbow bamboo crazy amount cupboard pigeon drip";
+var mnemonic = "divide dawn kid trick ranch vault vendor raise plunge south scale resemble";

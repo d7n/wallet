@@ -1,1 +1,1 @@
-var mnemonic = "swear focus piece found fetch gadget crowd knock inspire token involve east";
+var mnemonic = "century snap world entry around fan agree return creek candy unhappy oxygen";

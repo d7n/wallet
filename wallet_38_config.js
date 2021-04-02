@@ -1,1 +1,1 @@
-var mnemonic = "slogan theme limit soap scheme body seat sauce crazy hammer basket aim";
+var mnemonic = "wheat above harbor horse naive luxury sketch sheriff cover cabbage fiction slam";

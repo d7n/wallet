@@ -1,1 +1,1 @@
-var mnemonic = "leave arrive job treat dad another network cheap valley remove video kangaroo";
+var mnemonic = "better gauge million fiber slender gadget vintage carbon gold fashion beyond reveal";

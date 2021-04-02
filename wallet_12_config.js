@@ -1,1 +1,1 @@
-var mnemonic = "nominee chest aim flush intact liar fossil noise caution gas double fossil";
+var mnemonic = "remove before giant aspect broccoli together neither people summer belt mercy margin";

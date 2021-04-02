@@ -1,1 +1,1 @@
-var mnemonic = "client impulse involve upset concert fade outside wave robot owner trouble inner";
+var mnemonic = "record crew vocal school never gorilla grunt people arm horse era spot";

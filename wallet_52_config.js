@@ -1,1 +1,1 @@
-var mnemonic = "miracle trick curve clever more obtain improve frog kitchen inmate rare ladder";
+var mnemonic = "brave recycle chicken coffee narrow extend matrix sing indicate income page sibling";

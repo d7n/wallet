@@ -1,1 +1,1 @@
-var mnemonic = "energy allow recall can double nose toward initial exotic brown stool truck";
+var mnemonic = "force fiscal public funny wing hungry depth slot zone process live invite";

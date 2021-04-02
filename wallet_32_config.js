@@ -1,1 +1,1 @@
-var mnemonic = "burger future only ribbon wage matrix anger empty give speak street punch";
+var mnemonic = "gather oil fan utility bicycle inform boost swim twist service combine goddess";

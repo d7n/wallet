@@ -1,1 +1,1 @@
-var mnemonic = "minute net warrior turn emotion never cable chunk cruel sting inspire eyebrow";
+var mnemonic = "engine plunge sting aerobic rifle episode infant catch scrub spawn agent strong";

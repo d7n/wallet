@@ -1,1 +1,1 @@
-var mnemonic = "symbol nation actual tragic tilt fire sample west umbrella expand sweet flag";
+var mnemonic = "similar wine alley bag rocket fetch real early betray false deny smile";

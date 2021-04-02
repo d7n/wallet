@@ -1,1 +1,1 @@
-var mnemonic = "suspect rely blast chalk olive tattoo genre blossom code unusual private spend";
+var mnemonic = "sphere gorilla dress reduce fresh grain swift only lift protect version right";

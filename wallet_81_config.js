@@ -1,1 +1,1 @@
-var mnemonic = "fringe leopard gallery credit pulse spike joy brown cry bargain office festival";
+var mnemonic = "situate loan undo diagram salad engage toss video coffee fiction circle jar";

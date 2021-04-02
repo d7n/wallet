@@ -1,1 +1,1 @@
-var mnemonic = "goose correct fiber grace dose before vital chapter canal staff aim license";
+var mnemonic = "video oven thought sword logic ask suffer topic pull wing fan viable";

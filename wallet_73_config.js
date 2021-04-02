@@ -1,1 +1,1 @@
-var mnemonic = "shuffle material curious game upgrade panic job legal bind team elevator utility";
+var mnemonic = "zebra prize radio wagon eagle strike reveal mule flash wide deposit battle";

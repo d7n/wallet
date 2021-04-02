@@ -1,1 +1,1 @@
-var mnemonic = "concert anchor absorb reflect edge help bulk step kangaroo goat nominee choose";
+var mnemonic = "globe sleep cricket inmate visual skin skill mansion lend boring later fury";

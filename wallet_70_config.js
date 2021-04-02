@@ -1,1 +1,1 @@
-var mnemonic = "screen venture smooth apart outdoor dwarf mobile infant ecology program snake idea";
+var mnemonic = "grass knee ball tissue parade punch okay rate faint enact firm unaware";

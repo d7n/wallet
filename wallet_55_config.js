@@ -1,1 +1,1 @@
-var mnemonic = "topple airport sniff coffee can enroll sunset fetch turtle above orient badge";
+var mnemonic = "magnet science guard supreme acoustic wife foster include stuff walnut type dial";
