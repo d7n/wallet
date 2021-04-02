@@ -1,1 +1,1 @@
-var mnemonic = "convince garbage accident tape rebel glue address evoke gauge piece satoshi magnet";
+var mnemonic = "search task simple mesh ignore coconut embark diesel holiday gravity damp flame";

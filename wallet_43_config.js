@@ -1,1 +1,1 @@
-var mnemonic = "desk mother two survey ivory negative ecology wrong plate salad forum purpose";
+var mnemonic = "material abandon grass despair olympic exact effort luxury rent consider arrest dash";

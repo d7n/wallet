@@ -1,1 +1,1 @@
-var mnemonic = "beach solar smile animal verb hockey frame ostrich people apology spot mango";
+var mnemonic = "eagle toward nature length river zone sun brown quantum traffic camp reunion";

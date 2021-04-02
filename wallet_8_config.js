@@ -1,1 +1,1 @@
-var mnemonic = "twice crunch eyebrow spoon ignore sword rookie cruel still length course purity";
+var mnemonic = "witness orphan pear arrive void fossil nasty abandon street legend devote disorder";

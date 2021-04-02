@@ -1,1 +1,1 @@
-var mnemonic = "cup memory awesome puppy milk trap keep slice loan dice hero powder";
+var mnemonic = "fade truth denial crazy retreat poem find cute pet swim action aim";

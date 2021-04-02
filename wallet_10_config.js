@@ -1,1 +1,1 @@
-var mnemonic = "exclude shift torch remember maze devote desk lift save tribe wife safe";
+var mnemonic = "stand coil inmate power broom cupboard kingdom always remember thunder gesture candy";

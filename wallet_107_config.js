@@ -1,1 +1,1 @@
-var mnemonic = "citizen viable face woman venture balcony floor blind ketchup exercise income bean";
+var mnemonic = "shadow label connect assume swamp sniff chunk process boil dumb chimney spin";

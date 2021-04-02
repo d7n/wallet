@@ -1,1 +1,1 @@
-var mnemonic = "proud grow drift remind keen lesson slow brief machine nest shoe filter";
+var mnemonic = "runway hunt unaware profit license turn pet sweet hand example impact extend";

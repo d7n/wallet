@@ -1,1 +1,1 @@
-var mnemonic = "hunt amazing fix depend inside law paper lawn around young genuine broom";
+var mnemonic = "rifle economy circle lens easily quick suspect quit pink blouse subject fish";

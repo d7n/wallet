@@ -1,1 +1,1 @@
-var mnemonic = "gallery shoulder concert because dawn despair noble equip eight rare expire hire";
+var mnemonic = "original kind dish bless inherit dance board sustain blanket major feed ritual";

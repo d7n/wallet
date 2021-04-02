@@ -1,1 +1,1 @@
-var mnemonic = "forget shadow athlete prize snake hamster casino distance above else demand echo";
+var mnemonic = "wheel cattle joy exile rate pen danger upset affair zero enlist render";

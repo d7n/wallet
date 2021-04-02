@@ -1,1 +1,1 @@
-var mnemonic = "tank program begin price cycle please random rule amount entire upset hour";
+var mnemonic = "then myself shaft very physical slice glue kangaroo sweet slice spy custom";

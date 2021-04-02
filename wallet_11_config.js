@@ -1,1 +1,1 @@
-var mnemonic = "sleep poverty all success special moment gather path medal sentence fun gauge";
+var mnemonic = "mammal stereo lend lion stumble rookie duck offer sell will drive lake";

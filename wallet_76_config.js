@@ -1,1 +1,1 @@
-var mnemonic = "term busy faint practice amount enemy truly tube bronze access parrot broken";
+var mnemonic = "immune rebuild cart gym relax elegant chase bomb fury denial mean celery";

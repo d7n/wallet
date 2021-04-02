@@ -1,1 +1,1 @@
-var mnemonic = "success uphold sister minor debate soup first topic hedgehog biology hover target";
+var mnemonic = "struggle base armor horror undo staff nuclear term oven monkey unknown suit";

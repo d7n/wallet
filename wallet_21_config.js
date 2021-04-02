@@ -1,1 +1,1 @@
-var mnemonic = "narrow craft purse orbit foil verify road arrange display hedgehog together inmate";
+var mnemonic = "chronic mass float caution unusual cash dolphin paddle tourist fatal sport border";

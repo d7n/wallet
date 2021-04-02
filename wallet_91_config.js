@@ -1,1 +1,1 @@
-var mnemonic = "bomb consider curious level pelican solution area season educate artwork disagree one";
+var mnemonic = "weekend enhance property odor brother matter pony boost income explain spirit bomb";

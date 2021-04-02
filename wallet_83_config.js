@@ -1,1 +1,1 @@
-var mnemonic = "world drift connect sail young you train funny cover stem fancy raw";
+var mnemonic = "pluck engage result history loud garlic main fault duck old fancy fitness";

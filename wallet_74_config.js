@@ -1,1 +1,1 @@
-var mnemonic = "affair cereal educate venue margin patch call across year laundry wheat food";
+var mnemonic = "leader there matter detect evil found since nuclear erode donkey cage middle";

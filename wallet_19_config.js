@@ -1,1 +1,1 @@
-var mnemonic = "object amateur hurt please mass either stick payment praise shell network ski";
+var mnemonic = "income canvas resource beauty ski federal copper pave room clean winter early";

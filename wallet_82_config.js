@@ -1,1 +1,1 @@
-var mnemonic = "unit gift cheap nuclear genius subway suit success artefact ready sea elegant";
+var mnemonic = "orchard brush oppose social rocket saddle inquiry begin chat unknown fun forum";

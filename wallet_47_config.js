@@ -1,1 +1,1 @@
-var mnemonic = "unlock term toilet bone shaft obey police real dilemma melody vendor help";
+var mnemonic = "churn outer pair curve end ship space young tattoo oven curious device";

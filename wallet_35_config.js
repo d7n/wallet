@@ -1,1 +1,1 @@
-var mnemonic = "expire unknown twelve place sand choose wrestle detect cry common dad tell";
+var mnemonic = "sudden yard rally island item coast brisk spell dignity admit poverty faculty";

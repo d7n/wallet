@@ -1,1 +1,1 @@
-var mnemonic = "electric train crouch auto grape photo attend barely endorse tool mention candy";
+var mnemonic = "unusual mirror defy shuffle engine possible hint glide kidney clock design scene";

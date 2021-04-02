@@ -1,1 +1,1 @@
-var mnemonic = "danger castle inhale bronze stuff swing raise path address kit laundry fiscal";
+var mnemonic = "offer credit sure limb profit fan addict decide island panther what upset";

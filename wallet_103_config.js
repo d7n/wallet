@@ -1,1 +1,1 @@
-var mnemonic = "cable boring hen canoe shock garment soccer reveal tunnel token siege diary";
+var mnemonic = "trick person nasty coast ladder cat clinic music atom tone eager knock";

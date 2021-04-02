@@ -1,1 +1,1 @@
-var mnemonic = "metal escape helmet dynamic gauge cradle same author leader employ tuna shaft";
+var mnemonic = "crack useless shadow swift tape person miracle lumber sense mom swim hair";

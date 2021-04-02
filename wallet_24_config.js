@@ -1,1 +1,1 @@
-var mnemonic = "vehicle cute flight cherry slide draw goat artist cargo danger traffic carry";
+var mnemonic = "neutral hurry twelve fly segment chuckle theme purchase memory tide flag spell";

@@ -1,1 +1,1 @@
-var mnemonic = "oval live romance series aim airport public mouse dust adult ribbon trust";
+var mnemonic = "relief number devote just dinner stem trouble crowd gospel amused enemy trial";

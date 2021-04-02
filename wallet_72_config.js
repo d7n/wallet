@@ -1,1 +1,1 @@
-var mnemonic = "dragon retire brief candy episode hundred then expose system awful usual laptop";
+var mnemonic = "soap virus tissue taxi crew rival argue wisdom disease inspire famous helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "cause cake trust method tomato badge assist oil whisper exit swarm update";
+var mnemonic = "fitness worth claw nature wink inside receive armor slender fox capable merit";

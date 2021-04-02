@@ -1,1 +1,1 @@
-var mnemonic = "whisper van royal latin kitchen nominee ozone viable glove offer dilemma trick";
+var mnemonic = "cycle luggage mountain habit hamster peanut small sort cross answer diamond vapor";

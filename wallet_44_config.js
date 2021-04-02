@@ -1,1 +1,1 @@
-var mnemonic = "load paddle vehicle involve focus doctor ranch only weasel response baby envelope";
+var mnemonic = "east urban sorry soap corn moral pull broom ginger comic oak clever";

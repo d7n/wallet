@@ -1,1 +1,1 @@
-var mnemonic = "stumble across resemble sound tomato pig left denial tissue behave trend floor";
+var mnemonic = "puzzle clarify priority book jazz orbit tenant snow unfair orange luggage resemble";

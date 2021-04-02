@@ -1,1 +1,1 @@
-var mnemonic = "change wise pulp spot clay faith catch sound rifle hundred tilt devote";
+var mnemonic = "opera holiday zone quit mosquito artefact youth asthma multiply rhythm fresh roof";

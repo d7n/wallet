@@ -1,1 +1,1 @@
-var mnemonic = "brand change upset puzzle core quit ladder long noble believe sound scale";
+var mnemonic = "welcome fluid girl cloth raccoon post rally adapt logic infant logic manual";

@@ -1,1 +1,1 @@
-var mnemonic = "push exchange team help trend title swap trophy section buzz lend destroy";
+var mnemonic = "again side undo loan squeeze pass deliver ring extend comfort boss album";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune novel happy maple shoot payment fun churn demand reject never canyon";
+var mnemonic = "wonder deposit immune tuition much upset inquiry traffic invest grant cash appear";

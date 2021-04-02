@@ -1,1 +1,1 @@
-var mnemonic = "whip give wolf evolve bounce illness brass total harvest nurse answer arm";
+var mnemonic = "vibrant thought true west romance spell injury lunch short melody bleak trick";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony early lake rabbit lunar turn rather coyote damp proof episode black";
+var mnemonic = "suspect scissors cook cattle power tackle enforce wife test regret tube claim";

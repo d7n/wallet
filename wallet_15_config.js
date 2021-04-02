@@ -1,1 +1,1 @@
-var mnemonic = "drum rule can wire scheme face random dinosaur sort captain rival decorate";
+var mnemonic = "clarify own brick wrong vicious guess cake thumb dismiss caught trap isolate";

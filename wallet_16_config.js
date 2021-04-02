@@ -1,1 +1,1 @@
-var mnemonic = "lens absent apple wear tube disorder film puzzle recall under device crystal";
+var mnemonic = "olympic february much phone double purchase wire bright weasel settle artefact lyrics";

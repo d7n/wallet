@@ -1,1 +1,1 @@
-var mnemonic = "diet gown life shock crash table endorse one pool under tired guide";
+var mnemonic = "mean clarify wine unlock balcony solve diamond muffin august someone thunder arrange";

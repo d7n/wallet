@@ -1,1 +1,1 @@
-var mnemonic = "rule script wonder basic clock derive silent bar gadget lunch weapon powder";
+var mnemonic = "enroll loyal kiss enforce loud observe panic insane satoshi transfer raven twist";

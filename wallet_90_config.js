@@ -1,1 +1,1 @@
-var mnemonic = "craft conduct genius scrub dove table amount globe system output vessel match";
+var mnemonic = "gravity bulb speed credit dinner poet text wear cable twenty cabbage soccer";

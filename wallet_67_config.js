@@ -1,1 +1,1 @@
-var mnemonic = "supreme winner owner cat waste equal drive rigid damage rent bomb carbon";
+var mnemonic = "hotel girl address summer earn loan exchange inmate spider deputy science mule";

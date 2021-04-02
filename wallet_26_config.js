@@ -1,1 +1,1 @@
-var mnemonic = "journey congress marine water valve uncle anchor promote edit journey tongue obvious";
+var mnemonic = "usual fetch brush very bless market choose story that small harsh alert";

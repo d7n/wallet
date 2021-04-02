@@ -1,1 +1,1 @@
-var mnemonic = "useless hurt general hire float elite broken shadow nothing claim cattle cluster";
+var mnemonic = "occur worth cement decorate assist fashion punch dash message custom balcony security";

@@ -1,1 +1,1 @@
-var mnemonic = "beef romance salmon lion swim skull appear shove panda genuine minute ball";
+var mnemonic = "bless nose random vehicle purse celery police dust crumble mystery love ladder";

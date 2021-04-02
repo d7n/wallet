@@ -1,1 +1,1 @@
-var mnemonic = "air butter pioneer harsh coconut network virus term child chicken come arch";
+var mnemonic = "chaos train flock exact giraffe witness replace lunch chest soul crawl chest";

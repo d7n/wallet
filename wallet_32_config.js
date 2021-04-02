@@ -1,1 +1,1 @@
-var mnemonic = "hobby infant call say nature gentle engage rhythm actor fade force mountain";
+var mnemonic = "online key cream ocean melt year fiscal sauce steel embody prison nest";

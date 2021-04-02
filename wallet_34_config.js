@@ -1,1 +1,1 @@
-var mnemonic = "offer harsh orient tree perfect umbrella special decide indicate legal exact detect";
+var mnemonic = "word they picture copper step sentence pepper gold exclude inspire practice dentist";

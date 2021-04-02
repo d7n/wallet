@@ -1,1 +1,1 @@
-var mnemonic = "vicious alley exist admit degree naive suspect swarm pig discover urban iron";
+var mnemonic = "skate stage hero answer net fine fun slogan anger chief walnut impose";

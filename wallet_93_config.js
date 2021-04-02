@@ -1,1 +1,1 @@
-var mnemonic = "hazard helmet trap tomorrow vibrant relax copy rapid blast angry potato hotel";
+var mnemonic = "welcome robot congress radar gadget gym habit hour capital blush unfold fit";

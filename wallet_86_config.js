@@ -1,1 +1,1 @@
-var mnemonic = "magic what journey pudding pumpkin run owner rack child chicken dragon quantum";
+var mnemonic = "intact message provide wire monster spatial dirt dial total quick volcano stereo";

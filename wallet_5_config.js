@@ -1,1 +1,1 @@
-var mnemonic = "skin random bike clap type when domain assault ostrich target pear forest";
+var mnemonic = "shoot churn develop nothing hockey reopen receive warfare flip identify repeat snack";

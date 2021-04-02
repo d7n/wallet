@@ -1,1 +1,1 @@
-var mnemonic = "paddle foster peanut exact pumpkin issue want salute live tuition drill siege";
+var mnemonic = "inmate diamond select spare roast wink morning evidence live topic help swear";

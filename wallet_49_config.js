@@ -1,1 +1,1 @@
-var mnemonic = "accuse void thunder grief cradle rally play that vibrant define puppy metal";
+var mnemonic = "power desk race north owner evidence half dust avoid trick congress scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "wish all pet sunny fancy swim present crisp antique rapid frozen inflict";
+var mnemonic = "asset dumb trust disease midnight equip neutral amount swarm rent earn cargo";

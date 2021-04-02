@@ -1,1 +1,1 @@
-var mnemonic = "off axis bonus supreme amazing easy clinic imitate someone civil great click";
+var mnemonic = "total spare drink market animal fade milk flame easy scheme cheap mask";

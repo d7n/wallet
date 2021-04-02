@@ -1,1 +1,1 @@
-var mnemonic = "fork language finger also mountain apology excite champion deposit admit early draw";
+var mnemonic = "swear confirm ice elephant viable live nurse hope banner mouse organ identify";

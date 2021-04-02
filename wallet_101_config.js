@@ -1,1 +1,1 @@
-var mnemonic = "point siren dilemma eye truth ten rose hundred flush coast truly divert";
+var mnemonic = "scale radio gentle require avocado miracle music drill swim second toy cat";

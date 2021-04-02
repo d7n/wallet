@@ -1,1 +1,1 @@
-var mnemonic = "silly wet humble hip snap dwarf express produce side wire corn either";
+var mnemonic = "wasp garment please jump circle action include crumble coffee story nerve tired";

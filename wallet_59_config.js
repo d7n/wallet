@@ -1,1 +1,1 @@
-var mnemonic = "cram sight derive piano siren shallow session fever spin cost poverty table";
+var mnemonic = "able crime artwork earn entry achieve large advance mean until path choice";

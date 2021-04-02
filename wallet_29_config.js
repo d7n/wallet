@@ -1,1 +1,1 @@
-var mnemonic = "jeans march divide cube two give light ordinary retire differ distance build";
+var mnemonic = "loyal immense crucial stable alcohol lab hollow arm joy pigeon work exercise";

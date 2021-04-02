@@ -1,1 +1,1 @@
-var mnemonic = "audit gaze victory sudden rescue coffee offer develop sponsor because resemble awful";
+var mnemonic = "siren patch behind siren diagram theory nice pass tower artist spot garden";

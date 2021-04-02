@@ -1,1 +1,1 @@
-var mnemonic = "elegant bundle noodle speed fatigue sleep flag canvas rack kangaroo neutral install";
+var mnemonic = "discover carry holiday patch oyster frame main adapt furnace state host gate";

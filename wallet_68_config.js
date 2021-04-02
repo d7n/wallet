@@ -1,1 +1,1 @@
-var mnemonic = "over where glance flat pulse situate face switch aim cave test person";
+var mnemonic = "annual drill estate critic silent position slim current piano retreat copy sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "rack fee melody already sense dress bracket area camera side humble inform";
+var mnemonic = "fresh myth salt vault raven gravity deer wait tiger illegal crime atom";

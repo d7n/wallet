@@ -1,1 +1,1 @@
-var mnemonic = "belt question job visit oven smart chicken ripple marriage vocal cannon grant";
+var mnemonic = "eyebrow priority spy oxygen sadness indoor climb panda behind romance minute school";

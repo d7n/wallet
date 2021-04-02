@@ -1,1 +1,1 @@
-var mnemonic = "aware battle rubber web lawsuit icon round voice energy video curve mass";
+var mnemonic = "team outside bunker spot correct cabin material picture salute omit hamster token";

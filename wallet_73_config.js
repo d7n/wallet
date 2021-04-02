@@ -1,1 +1,1 @@
-var mnemonic = "spirit ensure power nation female history song method damage crime caution net";
+var mnemonic = "trade copper cradle tide put kit medal want exist slight wealth virtual";

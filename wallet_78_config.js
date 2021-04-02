@@ -1,1 +1,1 @@
-var mnemonic = "zoo shell sure thumb best laugh increase solid toddler payment subway invite";
+var mnemonic = "eight borrow cross pattern frozen shrimp ring ordinary mixture enrich lyrics able";

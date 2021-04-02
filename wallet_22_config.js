@@ -1,1 +1,1 @@
-var mnemonic = "note exotic sibling dad owner legal perfect shoe expect neutral tennis maid";
+var mnemonic = "secret flower dust ten spot rigid govern equip radio wild asset chief";

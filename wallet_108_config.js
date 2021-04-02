@@ -1,1 +1,1 @@
-var mnemonic = "act drop claw blur afford tree ankle nest owner pudding approve wedding";
+var mnemonic = "practice mind title sadness crop relax face choice level humble coach code";

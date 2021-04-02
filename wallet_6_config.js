@@ -1,1 +1,1 @@
-var mnemonic = "assume juice pill wink inquiry legal shrug more web three elegant cereal";
+var mnemonic = "mammal chuckle banana common fall fine lazy gallery skin where exchange fee";

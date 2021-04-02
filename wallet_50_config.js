@@ -1,1 +1,1 @@
-var mnemonic = "own husband shine shield print bamboo cycle add level doctor wing twelve";
+var mnemonic = "image oyster tower lawsuit sign risk rule orange run kit phone sample";

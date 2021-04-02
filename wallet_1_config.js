@@ -1,1 +1,1 @@
-var mnemonic = "winner surface nominee ankle planet slam cactus suggest aspect tonight expect team";
+var mnemonic = "hurdle crime piano chalk name ramp involve job safe trumpet scrub absurd";

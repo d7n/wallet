@@ -1,1 +1,1 @@
-var mnemonic = "tone neutral vacant october demise carry antenna barrel butter talent apple force";
+var mnemonic = "belt around sibling tattoo razor steel rent hybrid author jewel base coffee";

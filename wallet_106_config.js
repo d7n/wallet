@@ -1,1 +1,1 @@
-var mnemonic = "rich love valve trade service skin pave hello promote upper pink cable";
+var mnemonic = "tent trophy attract burger occur love usual train subway raw crystal crash";

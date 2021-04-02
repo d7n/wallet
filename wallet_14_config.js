@@ -1,1 +1,1 @@
-var mnemonic = "crumble flash scrap peace jaguar evil rain aunt view path ugly tenant";
+var mnemonic = "adapt glad blade hire sea embark endorse mind marine hole gift maximum";

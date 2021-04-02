@@ -1,1 +1,1 @@
-var mnemonic = "pattern either feel oil place place victory nation pizza remove excess become";
+var mnemonic = "bread weird unhappy height tongue scale exhaust raccoon grocery update better mom";

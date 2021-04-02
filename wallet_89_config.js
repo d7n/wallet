@@ -1,1 +1,1 @@
-var mnemonic = "job inner acquire female joy intact reduce short hair crunch topple scale";
+var mnemonic = "pool chalk exhaust pause page surface pioneer race snack wealth unfair pull";

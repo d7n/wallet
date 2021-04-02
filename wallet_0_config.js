@@ -1,1 +1,1 @@
-var mnemonic = "lyrics faint jelly patrol payment stadium tobacco force lawn acid barrel warm";
+var mnemonic = "leg isolate lens hurt hybrid stay genius final federal drop immune feed";

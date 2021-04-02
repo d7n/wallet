@@ -1,1 +1,1 @@
-var mnemonic = "picnic crisp aspect depend grocery hurdle belt mask safe arrive myth armor";
+var mnemonic = "survey panther drama wonder field net pretty weather tube female drastic oven";

@@ -1,1 +1,1 @@
-var mnemonic = "what search venue multiply west must dinosaur try across burst rough scale";
+var mnemonic = "horn skate luxury suffer prison casino dial joke among license flock few";

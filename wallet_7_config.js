@@ -1,1 +1,1 @@
-var mnemonic = "enemy fold behind marriage obey common uncover rally garage belt various mixture";
+var mnemonic = "clump rural typical merry salute budget vocal roof abuse census wash word";

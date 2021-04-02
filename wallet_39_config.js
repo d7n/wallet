@@ -1,1 +1,1 @@
-var mnemonic = "timber trigger cheese expire absent another educate timber silver sort blouse angry";
+var mnemonic = "neither fever divorce differ spend aware surface dutch sell actress inmate certain";

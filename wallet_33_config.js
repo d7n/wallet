@@ -1,1 +1,1 @@
-var mnemonic = "youth link feed cousin surge galaxy razor arm lake pill eye seed";
+var mnemonic = "grant just glow auto volume sugar magic girl lesson canoe afford horror";

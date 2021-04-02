@@ -1,1 +1,1 @@
-var mnemonic = "violin robot chair item stone coach cement slim void pupil eight infant";
+var mnemonic = "strong burger unhappy pitch ride orphan dinosaur favorite expect armor spoon concert";
