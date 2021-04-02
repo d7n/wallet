@@ -1,1 +1,1 @@
-var mnemonic = "clip treat describe aerobic step review coyote amused simple treat flip light";
+var mnemonic = "hello session habit peasant where science laptop dinosaur modify ill bread jaguar";

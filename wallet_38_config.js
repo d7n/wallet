@@ -1,1 +1,1 @@
-var mnemonic = "rapid forest limit peanut item push dwarf shoe damage later core ice";
+var mnemonic = "symptom monitor word annual punch wish usage opinion room margin cute control";

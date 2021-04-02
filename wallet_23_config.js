@@ -1,1 +1,1 @@
-var mnemonic = "creek reward giggle grocery expand manage soccer adult sauce creek high tool";
+var mnemonic = "sauce gravity payment emotion peasant swallow crowd spawn cousin seed great banana";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel offer window rail labor city near country theory chef half picture";
+var mnemonic = "firm basket transfer team jump assault salt file glance pretty cake equip";

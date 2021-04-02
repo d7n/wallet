@@ -1,1 +1,1 @@
-var mnemonic = "primary wall dentist wrong spring unfair tell bid build odor express toast";
+var mnemonic = "crime bike gain frequent motor unfair goat pitch pig use shy rose";

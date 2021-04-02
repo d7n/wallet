@@ -1,1 +1,1 @@
-var mnemonic = "toward grow shop quiz flip student area happy discover hockey blade pumpkin";
+var mnemonic = "seven say reform elevator design rough limb crew fragile seek spatial impact";

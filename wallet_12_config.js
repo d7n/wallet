@@ -1,1 +1,1 @@
-var mnemonic = "author gloom silk once jazz equip business theory truck earn erase practice";
+var mnemonic = "grit mass undo insane west egg evidence hip mind element uncover you";

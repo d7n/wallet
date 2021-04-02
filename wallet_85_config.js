@@ -1,1 +1,1 @@
-var mnemonic = "airport toilet eyebrow tide often equip tribe father fragile improve push million";
+var mnemonic = "cube step midnight address enough item reduce dignity blue cycle atom uniform";

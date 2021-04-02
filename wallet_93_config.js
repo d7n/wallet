@@ -1,1 +1,1 @@
-var mnemonic = "speed ski rival order march appear solid salmon evidence throw assault cereal";
+var mnemonic = "barely vault anxiety valid mechanic wild stone example immune country swarm busy";

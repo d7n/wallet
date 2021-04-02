@@ -1,1 +1,1 @@
-var mnemonic = "forum aunt exotic bullet sign common hammer sample glare place inquiry twenty";
+var mnemonic = "age right spring honey tattoo later loyal empower leave forum body empower";

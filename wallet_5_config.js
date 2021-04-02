@@ -1,1 +1,1 @@
-var mnemonic = "already eagle inform devote coyote brother comic fossil pill jump weekend enable";
+var mnemonic = "horse cluster clump unfold brass music nation edit chair phrase hair certain";

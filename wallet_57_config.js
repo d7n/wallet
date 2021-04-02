@@ -1,1 +1,1 @@
-var mnemonic = "fork razor light lab load chase enact weird maze truly two lecture";
+var mnemonic = "push misery image coconut infant clock asthma matter slow inspire fault panel";

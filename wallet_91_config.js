@@ -1,1 +1,1 @@
-var mnemonic = "boat tomato direct design action shy senior pair snow loyal lemon paper";
+var mnemonic = "empower peace there gravity trumpet winter hand gun fox novel normal walnut";

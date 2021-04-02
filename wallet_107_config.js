@@ -1,1 +1,1 @@
-var mnemonic = "equal easily wheel witness mimic slender lake memory fury catch crowd network";
+var mnemonic = "absent assist alpha author basic shift rally citizen cancel shoot patch pull";

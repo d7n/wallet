@@ -1,1 +1,1 @@
-var mnemonic = "neglect snack over easily flip prepare say veteran steak refuse faith galaxy";
+var mnemonic = "plug submit vicious mobile sadness steel cause valve battle limb custom thing";

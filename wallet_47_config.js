@@ -1,1 +1,1 @@
-var mnemonic = "police inch brick rally peanut radio either remember type aware boil much";
+var mnemonic = "monkey ridge decide drip gap tortoise cloud craft air place want cart";

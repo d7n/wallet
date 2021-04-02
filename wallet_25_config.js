@@ -1,1 +1,1 @@
-var mnemonic = "disagree gentle habit month prize tackle kiwi east flower enrich floor combine";
+var mnemonic = "legend vote reform rookie syrup brave false biology entire deal park mammal";

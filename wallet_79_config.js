@@ -1,1 +1,1 @@
-var mnemonic = "photo stairs milk differ metal tell salmon imitate settle dose pelican swap";
+var mnemonic = "cement link alone plug poverty equip poverty neutral whale picture south mouse";

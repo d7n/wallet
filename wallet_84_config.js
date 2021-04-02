@@ -1,1 +1,1 @@
-var mnemonic = "defy pioneer stable claim sing wood august bronze salute hip blouse office";
+var mnemonic = "slender drastic enable rain neck copy town cave exist punch behave laundry";

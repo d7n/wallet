@@ -1,1 +1,1 @@
-var mnemonic = "swap brass subway clarify immune grape artist hungry jaguar wheat noble journey";
+var mnemonic = "ticket arch detect club chat senior poem puzzle pulse seven enact actor";

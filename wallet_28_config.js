@@ -1,1 +1,1 @@
-var mnemonic = "manual rack ten super wing crouch pattern three exact day wrap legend";
+var mnemonic = "airport daring left creek fold exchange first name success oyster divorce antenna";

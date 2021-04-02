@@ -1,1 +1,1 @@
-var mnemonic = "hollow federal excess distance identify dress fluid problem suspect modify destroy happy";
+var mnemonic = "call thumb inquiry concert lecture artwork reunion gallery hedgehog puzzle sick tomorrow";

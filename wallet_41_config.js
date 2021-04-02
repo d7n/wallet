@@ -1,1 +1,1 @@
-var mnemonic = "hub eager canvas forum treat matrix camera crash donkey excuse cheese rain";
+var mnemonic = "leave name unhappy spray mistake wrist glass marriage anchor beef birth physical";

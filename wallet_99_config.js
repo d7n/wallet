@@ -1,1 +1,1 @@
-var mnemonic = "leopard wet example travel basket dress fantasy soldier energy improve innocent vicious";
+var mnemonic = "cannon recall primary maid expect table erase table inmate limit first fabric";

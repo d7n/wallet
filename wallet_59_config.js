@@ -1,1 +1,1 @@
-var mnemonic = "behave shoulder short sell beef clip march fluid amazing across extra bar";
+var mnemonic = "scan flat meat rather now blame they reflect general purse rally core";

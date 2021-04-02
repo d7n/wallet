@@ -1,1 +1,1 @@
-var mnemonic = "agree fall federal erase animal couple sibling index jaguar client topic slab";
+var mnemonic = "tobacco knife suggest fever cable you ostrich cinnamon boss rural open joy";

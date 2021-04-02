@@ -1,1 +1,1 @@
-var mnemonic = "slot rack equal reject entire civil mobile purse catch cruel humble vital";
+var mnemonic = "knock home neglect boss drip galaxy large draft agent multiply funny zone";

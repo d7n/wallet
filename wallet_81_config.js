@@ -1,1 +1,1 @@
-var mnemonic = "defense parrot fuel rib cost patch unique local already okay remain oxygen";
+var mnemonic = "gate lens love animal travel exile purse follow travel income tissue small";

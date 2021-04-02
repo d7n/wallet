@@ -1,1 +1,1 @@
-var mnemonic = "during arctic thunder rapid absent garden swim person hope pony hospital novel";
+var mnemonic = "away surface diamond town case drum cash front network message later wall";

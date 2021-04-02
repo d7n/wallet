@@ -1,1 +1,1 @@
-var mnemonic = "cloud gasp turn scissors height disagree floor trash sing eagle volcano flush";
+var mnemonic = "fragile phone account replace nominee scene prefer cotton toe country include rich";

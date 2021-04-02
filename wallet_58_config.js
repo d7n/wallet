@@ -1,1 +1,1 @@
-var mnemonic = "brisk story aspect record surface author whip edge salute avocado tonight knife";
+var mnemonic = "giraffe path anger conduct soup end inquiry figure pencil soccer aware magic";

@@ -1,1 +1,1 @@
-var mnemonic = "begin romance screen sister roast motion undo giant fit dutch increase cotton";
+var mnemonic = "weekend flag pair unique buffalo leg radar cancel welcome notable earth still";

@@ -1,1 +1,1 @@
-var mnemonic = "decide romance addict museum party whisper tilt lift blur absorb poverty alien";
+var mnemonic = "banner choose eye dinner spice slam danger menu liar evidence dirt wrestle";

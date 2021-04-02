@@ -1,1 +1,1 @@
-var mnemonic = "math grace odor list resource deputy sibling boss dawn churn embrace sing";
+var mnemonic = "tobacco oxygen hood history portion cheap admit aunt hybrid business pet submit";

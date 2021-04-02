@@ -1,1 +1,1 @@
-var mnemonic = "idea rather defy bone above milk jeans crouch cover hip busy truly";
+var mnemonic = "planet female receive evoke receive praise shoe scrub tail crash pupil artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "patch spring master bronze drastic fruit utility carpet vocal fence mouse usual";
+var mnemonic = "coconut coffee actor bench tool immense toddler noise machine crowd proud decade";

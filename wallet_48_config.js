@@ -1,1 +1,1 @@
-var mnemonic = "pigeon tuition result lunch beauty current onion south dizzy flat pen place";
+var mnemonic = "token donate suit recipe heart topple sword nation focus note anger cheap";

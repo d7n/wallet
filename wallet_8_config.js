@@ -1,1 +1,1 @@
-var mnemonic = "october milk copy hero pattern assault riot burden weapon waste actor mean";
+var mnemonic = "subway wave misery snake uphold grid exist soup possible merit success opera";

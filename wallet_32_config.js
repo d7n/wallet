@@ -1,1 +1,1 @@
-var mnemonic = "swamp game traffic entire ranch swim obey certain work castle sun soon";
+var mnemonic = "test tired helmet better spoil differ also plastic digital meat peanut clock";

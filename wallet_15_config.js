@@ -1,1 +1,1 @@
-var mnemonic = "soul wheel please private repair round gym exhaust recipe steak acoustic huge";
+var mnemonic = "pony media border vital strike guitar museum honey hurdle caution picture unlock";

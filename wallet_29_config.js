@@ -1,1 +1,1 @@
-var mnemonic = "belt wrap furnace answer peanut crop sponsor riot arrow valley thrive harbor";
+var mnemonic = "purity lake eternal gaze tiger seed stock believe once thank title horn";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster rug run sadness there throw earn still raise category add grief";
+var mnemonic = "sense deliver olive deny primary waste planet web harvest cool twist cargo";

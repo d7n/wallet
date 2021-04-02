@@ -1,1 +1,1 @@
-var mnemonic = "add ignore disagree position cheap satoshi life buddy walk connect number hungry";
+var mnemonic = "imitate runway bargain accident dragon alone news smooth slide shadow void zone";

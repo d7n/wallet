@@ -1,1 +1,1 @@
-var mnemonic = "ritual gadget number slush uncle domain spoil bargain liquid industry lift marine";
+var mnemonic = "fiscal guitar mother appear order detail juice lion vacuum slogan chair raven";

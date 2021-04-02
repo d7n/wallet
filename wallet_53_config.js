@@ -1,1 +1,1 @@
-var mnemonic = "mammal scrap series aspect throw town merry perfect sure tooth kind kid";
+var mnemonic = "quick myth gossip scrub tube medal hammer planet yellow scissors noodle photo";

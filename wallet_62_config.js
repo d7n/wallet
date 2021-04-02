@@ -1,1 +1,1 @@
-var mnemonic = "merge romance gather brain undo hospital horse spin ride fabric casino wolf";
+var mnemonic = "shift oyster egg ready math peanut flee crazy burger edge slush exhaust";

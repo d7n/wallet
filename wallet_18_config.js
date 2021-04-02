@@ -1,1 +1,1 @@
-var mnemonic = "coffee soccer swap usage replace animal sad real empower episode salmon text";
+var mnemonic = "brand noble stick urge manage whisper chunk shoot since title kick situate";

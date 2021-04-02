@@ -1,1 +1,1 @@
-var mnemonic = "crime away toss order gas wild weekend grass master moon record economy";
+var mnemonic = "area will truck prevent shy help math snap flower scale culture vessel";

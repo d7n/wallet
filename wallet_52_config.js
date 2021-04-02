@@ -1,1 +1,1 @@
-var mnemonic = "never inflict napkin guitar master orchard bar swear derive sorry shove boss";
+var mnemonic = "build deliver lava conduct road industry abstract essay purchase decade obey quiz";

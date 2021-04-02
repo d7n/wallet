@@ -1,1 +1,1 @@
-var mnemonic = "expand episode priority cinnamon baby item absent museum gold asset wish require";
+var mnemonic = "caught drama estate wealth real snap actress vicious bargain oppose rubber goddess";

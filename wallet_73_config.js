@@ -1,1 +1,1 @@
-var mnemonic = "smoke nature gasp happy quit word cool burst plunge magic eye obey";
+var mnemonic = "lawsuit liquid tube sting same merry animal flush alarm rude elbow sword";

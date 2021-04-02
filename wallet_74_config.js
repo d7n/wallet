@@ -1,1 +1,1 @@
-var mnemonic = "that actor say anchor frozen clip ostrich lady wealth inform way guess";
+var mnemonic = "foil orchard grape curtain garage flat image rotate bid subject tribe chicken";

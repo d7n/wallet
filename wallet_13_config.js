@@ -1,1 +1,1 @@
-var mnemonic = "behave poem unveil chuckle soap moon fold matter crawl monkey jungle divert";
+var mnemonic = "thrive video trigger rough leave lonely seat still inmate leave stock rose";

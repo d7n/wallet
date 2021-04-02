@@ -1,1 +1,1 @@
-var mnemonic = "memory hundred usual kangaroo know artefact find ritual sing guide worry beauty";
+var mnemonic = "shield plate remain load giraffe never local obtain insane test curve still";

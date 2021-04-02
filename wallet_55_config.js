@@ -1,1 +1,1 @@
-var mnemonic = "shadow recall spike analyst obvious lock junk gain upgrade ocean shuffle rabbit";
+var mnemonic = "solution address sick approve lunar kidney aerobic receive post agent evil frozen";

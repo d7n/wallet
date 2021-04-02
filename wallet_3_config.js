@@ -1,1 +1,1 @@
-var mnemonic = "video expand clap match monitor keep cannon gorilla bamboo alone cabin paper";
+var mnemonic = "month soda borrow lazy wage sand nothing outdoor identify syrup struggle federal";

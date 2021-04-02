@@ -1,1 +1,1 @@
-var mnemonic = "chief usual web adjust fan aerobic moon distance tribe puppy suspect ugly";
+var mnemonic = "essay venue web awful dignity swim rival powder guide warm impact vicious";

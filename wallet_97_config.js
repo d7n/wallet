@@ -1,1 +1,1 @@
-var mnemonic = "year embrace slush flag parent crater rapid tonight duty yellow glare blame";
+var mnemonic = "fatigue push guess gate goose easy crisp autumn deer junior begin shoot";

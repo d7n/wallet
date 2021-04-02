@@ -1,1 +1,1 @@
-var mnemonic = "boost main marriage card gallery glad magnet gift route decrease slow give";
+var mnemonic = "decide key turn spin glance glad denial teach group pear judge organ";

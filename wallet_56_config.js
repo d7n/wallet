@@ -1,1 +1,1 @@
-var mnemonic = "day camera affair embody fabric inch father warrior stuff hockey whisper shock";
+var mnemonic = "ignore depend believe critic level evidence mobile fiscal size jaguar kick blur";

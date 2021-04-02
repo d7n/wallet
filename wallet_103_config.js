@@ -1,1 +1,1 @@
-var mnemonic = "cage wear exercise cliff robust turn dune october oil banner february move";
+var mnemonic = "dwarf change liquid dumb remove direct voice panic minor meat pear what";

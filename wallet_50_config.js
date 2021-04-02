@@ -1,1 +1,1 @@
-var mnemonic = "february trigger convince eye stadium make west noise click fiscal mistake vault";
+var mnemonic = "goat salad patient question fit pet please saddle hood flat luggage tank";

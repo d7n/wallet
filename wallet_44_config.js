@@ -1,1 +1,1 @@
-var mnemonic = "able wheel bubble icon vapor typical praise truly legal raccoon chief change";
+var mnemonic = "join senior rabbit stove key various build critic universe stereo sun educate";

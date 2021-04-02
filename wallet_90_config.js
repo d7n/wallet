@@ -1,1 +1,1 @@
-var mnemonic = "control tumble vital peasant culture prison riot report outdoor insane inner regular";
+var mnemonic = "play middle drastic best case equal law notice snake style alley busy";

@@ -1,1 +1,1 @@
-var mnemonic = "rough moment umbrella south vague diagram exit elite income glue shed hidden";
+var mnemonic = "return left balcony fall patient company enjoy usage gas scene cigar enact";

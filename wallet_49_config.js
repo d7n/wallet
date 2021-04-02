@@ -1,1 +1,1 @@
-var mnemonic = "rotate leisure primary cake latin close dutch object paddle today demand account";
+var mnemonic = "police quarter dumb light impulse aware century scale virus relief cradle mail";

@@ -1,1 +1,1 @@
-var mnemonic = "year first inside globe veteran future screen ugly path shield forum boy";
+var mnemonic = "they orange boss casual fold cruel adjust scrap sudden horse drive vicious";

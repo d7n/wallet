@@ -1,1 +1,1 @@
-var mnemonic = "know world mercy olive sadness pelican above inspire bind office balcony blade";
+var mnemonic = "pyramid cannon jar exact tree bunker subject scene type recycle lady expire";

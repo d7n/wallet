@@ -1,1 +1,1 @@
-var mnemonic = "vote push air involve mention wing unknown sure soccer link discover veteran";
+var mnemonic = "april ensure grunt palace mushroom sphere almost title leader where museum feel";

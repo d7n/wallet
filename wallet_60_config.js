@@ -1,1 +1,1 @@
-var mnemonic = "pattern enrich strong tank lock amused giggle build monster acquire city pepper";
+var mnemonic = "remove crouch century cruise orbit solve napkin point segment comfort elbow more";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine oven high illness lizard prefer indoor differ siege lock solution flower";
+var mnemonic = "badge dinner region monkey tired giggle truck desk eager chunk idea mix";

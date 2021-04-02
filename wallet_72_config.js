@@ -1,1 +1,1 @@
-var mnemonic = "reflect addict list hollow demise inhale parent collect travel page retire swear";
+var mnemonic = "noise people hand artwork defense donate celery pulp kiwi crop eager whip";

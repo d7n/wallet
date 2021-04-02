@@ -1,1 +1,1 @@
-var mnemonic = "acquire ghost liberty rate flat comic method lonely process spy type kiwi";
+var mnemonic = "bird organ derive soft muscle hero baby expose destroy carbon slush during";

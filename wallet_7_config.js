@@ -1,1 +1,1 @@
-var mnemonic = "retire open city state edit left order gauge have electric educate crew";
+var mnemonic = "happy sport violin era doctor cupboard believe elephant about ethics say diamond";

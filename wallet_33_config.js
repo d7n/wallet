@@ -1,1 +1,1 @@
-var mnemonic = "matter injury horse fiber weasel toy present shop loan snake coffee call";
+var mnemonic = "piece dirt turkey tent bounce digital speed despair emerge region owner boil";

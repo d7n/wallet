@@ -1,1 +1,1 @@
-var mnemonic = "tuna brand improve deputy spoil skin sail update crazy neglect error whip";
+var mnemonic = "cradle tonight laptop original alert rough refuse lazy possible flame among double";

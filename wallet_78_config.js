@@ -1,1 +1,1 @@
-var mnemonic = "leg ceiling child vocal combine ritual faith grass aware palm aerobic vapor";
+var mnemonic = "size ladder about age across cannon subject patch peace trap joy flag";

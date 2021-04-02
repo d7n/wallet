@@ -1,1 +1,1 @@
-var mnemonic = "celery gadget soon piece call property deny basic auto bitter punch lemon";
+var mnemonic = "raise carpet endorse ordinary super expect forward utility frost glory input bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "maple slogan clinic travel snap program kidney cart life dust sadness dizzy";
+var mnemonic = "harsh spray draw useless useless change iron divert maid bridge quarter wheat";

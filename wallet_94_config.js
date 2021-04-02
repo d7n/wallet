@@ -1,1 +1,1 @@
-var mnemonic = "inflict omit there friend fortune beach stem diamond match armed rude dignity";
+var mnemonic = "couch flip jump window service next century noble black daring coral match";

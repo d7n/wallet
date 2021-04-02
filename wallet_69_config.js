@@ -1,1 +1,1 @@
-var mnemonic = "craft pulse sauce shell great bounce siege ready twice virtual narrow detail";
+var mnemonic = "truck rescue culture lock actor punch sun remove hollow loud heart tray";

@@ -1,1 +1,1 @@
-var mnemonic = "volume oyster claim canal move spider kind brain seat question build dignity";
+var mnemonic = "oxygen chief easy time potato essay fee accuse bronze rack bone marriage";

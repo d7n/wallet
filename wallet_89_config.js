@@ -1,1 +1,1 @@
-var mnemonic = "swear online water melt coast salt until labor group birth vital record";
+var mnemonic = "oyster city bind promote jaguar detect dose chief blood item play favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "universe suggest romance thunder victory honey loop forward habit quarter climb during";
+var mnemonic = "vague yellow unique champion mixed piano barely viable large decide early vivid";

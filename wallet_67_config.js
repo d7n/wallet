@@ -1,1 +1,1 @@
-var mnemonic = "exhaust blame chaos disagree limb win panther you track blood jar enroll";
+var mnemonic = "just mesh endless mountain trust frozen lottery quick toy jewel budget stand";

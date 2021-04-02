@@ -1,1 +1,1 @@
-var mnemonic = "turn egg project black click sadness walk impact vapor almost enjoy eye";
+var mnemonic = "place bacon panther erase myth screen attract sleep trouble sorry wonder motion";

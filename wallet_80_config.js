@@ -1,1 +1,1 @@
-var mnemonic = "reveal brave witness clock shoe cotton differ demise dune aware immune soldier";
+var mnemonic = "gold swing grow curious dose finish raw allow genius foot donkey taste";

@@ -1,1 +1,1 @@
-var mnemonic = "start double hockey sad remember garage caution coast one punch student argue";
+var mnemonic = "upset merge wisdom double spider minor lecture kingdom begin phrase unable have";

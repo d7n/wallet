@@ -1,1 +1,1 @@
-var mnemonic = "picture tennis seed enlist impact sniff marble calm lottery hope turkey display";
+var mnemonic = "success blood submit tip run joy original feature crowd arm era boat";

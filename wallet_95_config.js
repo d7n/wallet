@@ -1,1 +1,1 @@
-var mnemonic = "sense question talent toe chronic need buyer club expand cherry oyster dinner";
+var mnemonic = "wet slab grid organ giant tower supreme turkey deer civil weapon sister";

@@ -1,1 +1,1 @@
-var mnemonic = "visa sheriff club pluck among fat diagram that crush promote toe couch";
+var mnemonic = "vessel merge until elegant farm noble strategy search eye option purchase gain";

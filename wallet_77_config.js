@@ -1,1 +1,1 @@
-var mnemonic = "pluck tomorrow snake camera cheese fiscal voyage fox drama mistake robot leader";
+var mnemonic = "modify butter hockey unaware cross rent buyer embody direct turkey silent job";

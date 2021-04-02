@@ -1,1 +1,1 @@
-var mnemonic = "feed destroy robot donkey bring zebra public exhaust scheme wear laugh trip";
+var mnemonic = "deliver swarm luxury define token stamp talk minor replace enroll crime engine";
