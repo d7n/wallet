@@ -1,1 +1,1 @@
-var mnemonic = "weapon shed filter category galaxy prosper choice brand essay thumb dust animal";
+var mnemonic = "shrimp path head unusual fee mail shallow iron another animal voyage enlist";

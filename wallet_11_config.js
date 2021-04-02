@@ -1,1 +1,1 @@
-var mnemonic = "flip endless steak suspect mixture project solution truck dial grace improve affair";
+var mnemonic = "similar urban speed drift zero favorite shock error soon fix evidence rely";

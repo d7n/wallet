@@ -1,1 +1,1 @@
-var mnemonic = "leave spider swing mean clap mean advance remind notable jaguar also pluck";
+var mnemonic = "dismiss mother alter host cinnamon glare bus end false current police process";

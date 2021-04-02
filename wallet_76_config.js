@@ -1,1 +1,1 @@
-var mnemonic = "guilt october bean permit bicycle also another giant lawn like whisper attitude";
+var mnemonic = "paddle salon motion hammer gorilla various horror hard music interest shadow toward";

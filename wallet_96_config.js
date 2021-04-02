@@ -1,1 +1,1 @@
-var mnemonic = "right dismiss leg letter alley embody brown question potato unfold icon middle";
+var mnemonic = "pulse protect comic laundry voice devote buffalo cross plastic boost nerve receive";

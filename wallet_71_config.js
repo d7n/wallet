@@ -1,1 +1,1 @@
-var mnemonic = "wedding lamp region report super marriage toward yard clutch record medal saddle";
+var mnemonic = "confirm poem exit lock repeat public panda village balcony cactus craft tree";

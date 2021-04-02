@@ -1,1 +1,1 @@
-var mnemonic = "churn lobster barely skate man olive trigger effort thought meat live december";
+var mnemonic = "pulp alert surround jewel dash payment initial aim protect flame world sting";

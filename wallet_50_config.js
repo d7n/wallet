@@ -1,1 +1,1 @@
-var mnemonic = "remain exact champion solve foam circle baby delay skate future spare much";
+var mnemonic = "yellow weasel smart scorpion super squeeze upgrade price gown solar square unaware";

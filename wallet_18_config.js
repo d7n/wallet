@@ -1,1 +1,1 @@
-var mnemonic = "lunar dinosaur pudding gift hire loop tube scatter kick pottery hawk patrol";
+var mnemonic = "excite dial predict aerobic mountain laundry famous harvest super differ idle glue";

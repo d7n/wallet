@@ -1,1 +1,1 @@
-var mnemonic = "gloom roast equal about return begin near step music language obey advice";
+var mnemonic = "else rain used feel destroy start exist nothing exotic leaf jacket license";

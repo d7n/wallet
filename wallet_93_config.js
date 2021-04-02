@@ -1,1 +1,1 @@
-var mnemonic = "open drink misery tomato attack craft elevator pond trade hundred outer juice";
+var mnemonic = "major cheese also ordinary settle merit wagon fan before tank topple predict";

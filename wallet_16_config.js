@@ -1,1 +1,1 @@
-var mnemonic = "amazing shiver reduce brass ancient dentist divorce interest sibling rival elder message";
+var mnemonic = "voyage emotion panda click sea vessel beauty maximum embrace this seminar false";

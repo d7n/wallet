@@ -1,1 +1,1 @@
-var mnemonic = "tackle awful next inmate actor wool remain music sister orient chief river";
+var mnemonic = "struggle bachelor body slim street ill fatal smooth weekend settle just owner";

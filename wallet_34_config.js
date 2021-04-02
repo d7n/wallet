@@ -1,1 +1,1 @@
-var mnemonic = "pattern during retreat morning vote ancient patient easy episode lock resemble meat";
+var mnemonic = "rabbit omit fragile thumb deposit enter garage wheel call sun brass weasel";

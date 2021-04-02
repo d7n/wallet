@@ -1,1 +1,1 @@
-var mnemonic = "follow swamp climb primary come gasp tumble daughter prosper use hundred exact";
+var mnemonic = "february black olive bean island course grid pave gold glass erode economy";

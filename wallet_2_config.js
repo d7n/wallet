@@ -1,1 +1,1 @@
-var mnemonic = "pride lawsuit bubble collect obvious hybrid vague scout gaze clarify object achieve";
+var mnemonic = "tube uphold lyrics spend purse fossil review unhappy powder announce cruel light";

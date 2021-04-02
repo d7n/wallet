@@ -1,1 +1,1 @@
-var mnemonic = "common addict depart poem tennis around resist will gallery door cattle autumn";
+var mnemonic = "nest grunt remain north member future auto access exhaust elbow direct inquiry";

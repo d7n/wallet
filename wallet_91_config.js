@@ -1,1 +1,1 @@
-var mnemonic = "atom jungle there put spin amused rotate moon echo tomato maze simple";
+var mnemonic = "dwarf insane worry crisp away soccer kite fancy helmet virtual bonus ride";

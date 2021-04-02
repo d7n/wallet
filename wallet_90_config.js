@@ -1,1 +1,1 @@
-var mnemonic = "kid leader guitar method jealous leopard good mushroom remain math tooth bone";
+var mnemonic = "public surge physical canal clip nation easy affair accident drive table noise";

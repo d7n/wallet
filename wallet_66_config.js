@@ -1,1 +1,1 @@
-var mnemonic = "base soul animal buddy harvest parade assume drastic chuckle decline actress town";
+var mnemonic = "multiply neck live post there situate increase piece barely quality canyon organ";

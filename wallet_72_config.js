@@ -1,1 +1,1 @@
-var mnemonic = "neither first brief blind entire rather royal tent drill matrix enter tiger";
+var mnemonic = "inform flat sunset put craft uncle reveal unit arrive endless video version";

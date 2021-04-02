@@ -1,1 +1,1 @@
-var mnemonic = "emerge bundle test diesel fragile street pottery chest credit term dash provide";
+var mnemonic = "knife injury universe web upon lobster cover happy toe fashion funny mother";

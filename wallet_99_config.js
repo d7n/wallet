@@ -1,1 +1,1 @@
-var mnemonic = "zebra bind essence bounce visa crane nest include drastic dial bar middle";
+var mnemonic = "pulse picnic debris soon never inflict orchard route doctor eager flavor early";

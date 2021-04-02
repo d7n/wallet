@@ -1,1 +1,1 @@
-var mnemonic = "vacuum recall tent moral hood veteran sock couch peace economy orange section";
+var mnemonic = "rate execute verify quantum time before shrimp open act since soccer rail";

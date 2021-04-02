@@ -1,1 +1,1 @@
-var mnemonic = "couch soap humble stairs abuse vessel crop annual final bread breeze echo";
+var mnemonic = "wreck skirt loan involve occur bachelor bean three fine gadget resource hurt";

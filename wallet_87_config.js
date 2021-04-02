@@ -1,1 +1,1 @@
-var mnemonic = "boil relief below tragic remain pig zone sunset lab guitar coral food";
+var mnemonic = "album pear elephant nasty grain moon select work minute three cute wise";

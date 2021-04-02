@@ -1,1 +1,1 @@
-var mnemonic = "trend wonder law twist bacon knock bean lumber rebel express glue utility";
+var mnemonic = "situate web gentle cushion north install foster solar someone candy arrive april";

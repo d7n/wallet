@@ -1,1 +1,1 @@
-var mnemonic = "open approve index labor either parrot skirt drama exile aspect account breeze";
+var mnemonic = "come wink index shop dentist begin giant tomato logic exile pizza quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "blood similar extra fold attack great acquire harvest ankle simple stock lift";
+var mnemonic = "wolf essay basic infant praise scan busy april shift spatial movie camp";

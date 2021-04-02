@@ -1,1 +1,1 @@
-var mnemonic = "asset pave always leaf clog bonus idle negative pluck fantasy basic episode";
+var mnemonic = "ordinary scale change civil cave warrior smooth creek student attack seminar flush";

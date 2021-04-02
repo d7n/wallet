@@ -1,1 +1,1 @@
-var mnemonic = "frozen limit neutral door abuse razor typical journey eagle earn ordinary income";
+var mnemonic = "wasp lesson that number moment neglect during sun amateur erupt purpose parade";

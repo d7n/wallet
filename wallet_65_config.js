@@ -1,1 +1,1 @@
-var mnemonic = "priority cause accident diagram sand loud mask turkey vast disagree use language";
+var mnemonic = "salad hockey barrel list tag two strong toddler chalk fragile north south";

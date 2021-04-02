@@ -1,1 +1,1 @@
-var mnemonic = "fiscal coin area draft kite dismiss love purpose empower three gadget sheriff";
+var mnemonic = "false admit record ready purse drive powder behind pottery cherry theme name";

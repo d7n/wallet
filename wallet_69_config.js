@@ -1,1 +1,1 @@
-var mnemonic = "agree salute predict cannon field neglect lend obvious joy fetch solid tuition";
+var mnemonic = "cost wood alien knee spawn steel mobile paper quiz punch monitor pact";

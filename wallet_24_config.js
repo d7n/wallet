@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin shoe train fitness addict seminar desk retire wire creek soup crouch";
+var mnemonic = "second tongue stock rubber empower avocado slender bunker check dismiss finger bike";

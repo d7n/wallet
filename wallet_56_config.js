@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur text cage clever talk rebuild mosquito annual pride bracket equip fuel";
+var mnemonic = "meat require dignity speak tell pluck swift exercise flame legend thrive soda";

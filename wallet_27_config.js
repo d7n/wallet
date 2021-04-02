@@ -1,1 +1,1 @@
-var mnemonic = "mistake shrug dice pair cover knock toast once junior orient math elder";
+var mnemonic = "weird same liar prison define consider claw beef review word note penalty";

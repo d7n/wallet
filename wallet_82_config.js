@@ -1,1 +1,1 @@
-var mnemonic = "churn dune raw talk equal knock want grid tag plug annual axis";
+var mnemonic = "message fat stick oyster soon slice zebra green rotate ribbon pulse exotic";

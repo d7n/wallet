@@ -1,1 +1,1 @@
-var mnemonic = "fame own page grain spell tube decline buffalo kick zoo help obscure";
+var mnemonic = "coconut blame gift unfold stem original plastic educate mercy leader romance average";

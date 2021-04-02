@@ -1,1 +1,1 @@
-var mnemonic = "mesh piece correct liar asthma sniff doctor say bomb amount benefit toilet";
+var mnemonic = "inspire chunk vivid wheel advance night stage suffer unable gospel wheel ankle";

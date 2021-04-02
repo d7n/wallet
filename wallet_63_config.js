@@ -1,1 +1,1 @@
-var mnemonic = "force success voyage habit oblige open lunar fancy cargo nut secret lunch";
+var mnemonic = "account obey emerge depend skate virtual lizard tired gap conduct spell confirm";

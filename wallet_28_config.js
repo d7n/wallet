@@ -1,1 +1,1 @@
-var mnemonic = "ecology travel possible toy slot promote turkey about sign ginger october apple";
+var mnemonic = "loan stomach bone track retreat canal equip today melt garment duty hand";

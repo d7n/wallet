@@ -1,1 +1,1 @@
-var mnemonic = "deliver welcome hint forward runway business vast oblige ladder install load chunk";
+var mnemonic = "primary admit burst nephew business artwork mixture three shoulder shy patrol cage";

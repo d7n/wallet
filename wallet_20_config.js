@@ -1,1 +1,1 @@
-var mnemonic = "friend bus squirrel hazard volume owner item unfold heart finger pipe reflect";
+var mnemonic = "betray wave upon slush ribbon close amused blush later artefact crack nut";

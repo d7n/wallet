@@ -1,1 +1,1 @@
-var mnemonic = "direct usage defy sadness radio powder fatal best patient holiday wrap tongue";
+var mnemonic = "dutch myth direct trumpet bag glance bone recall rug ability perfect consider";

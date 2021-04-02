@@ -1,1 +1,1 @@
-var mnemonic = "oyster surface yellow badge bargain toss cement describe subway bid call judge";
+var mnemonic = "hood bundle sustain tumble code health orchard steak bounce ankle lion purse";

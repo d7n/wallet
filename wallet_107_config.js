@@ -1,1 +1,1 @@
-var mnemonic = "vote section twice hurt awesome voice medal panda crime use flag divorce";
+var mnemonic = "post december lab sudden expire lady govern case winner into fantasy hobby";

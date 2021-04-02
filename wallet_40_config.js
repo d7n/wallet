@@ -1,1 +1,1 @@
-var mnemonic = "ride giraffe upon tenant harbor viable rely fold sock crisp eyebrow glue";
+var mnemonic = "cabin indoor often setup brief barrel luggage will betray giggle gadget scan";

@@ -1,1 +1,1 @@
-var mnemonic = "clever kid mistake spawn stool thrive limit knock hospital major foot pretty";
+var mnemonic = "surround orange pear side gloom rapid shop mystery dust job theme rotate";

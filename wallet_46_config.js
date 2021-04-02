@@ -1,1 +1,1 @@
-var mnemonic = "jump stove better slim illness cotton side short useful praise protect gown";
+var mnemonic = "describe hero cricket tuition shine sketch replace air curious addict resemble jungle";

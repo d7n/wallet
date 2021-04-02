@@ -1,1 +1,1 @@
-var mnemonic = "furnace someone tenant spend clap tongue shine cliff trophy blue angle spin";
+var mnemonic = "endorse other amateur kiwi pulse ladder green shift number muscle addict casual";

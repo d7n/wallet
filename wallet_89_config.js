@@ -1,1 +1,1 @@
-var mnemonic = "crash exclude town point march upgrade random sense damp waste spend exile";
+var mnemonic = "thrive giant economy scan slogan caught clown pair hip grain rack tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "quick baby similar leopard surface farm strong skin please attend number elite";
+var mnemonic = "cactus bacon acquire gravity visual warfare orbit nuclear sphere fade wealth raise";

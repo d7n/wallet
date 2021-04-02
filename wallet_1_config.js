@@ -1,1 +1,1 @@
-var mnemonic = "obtain dove say tape gap cage jeans rifle gentle load such agree";
+var mnemonic = "repeat any present curtain curtain response census join pen wheat confirm guilt";

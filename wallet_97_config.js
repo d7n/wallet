@@ -1,1 +1,1 @@
-var mnemonic = "token skull one friend kingdom situate hollow little trash tape tail earth";
+var mnemonic = "later diagram beyond fork horn switch genre jaguar brisk slender visa defy";

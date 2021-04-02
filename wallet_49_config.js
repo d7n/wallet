@@ -1,1 +1,1 @@
-var mnemonic = "wise chronic mimic lazy embark twenty north move churn flush maid rhythm";
+var mnemonic = "duty include magic master whisper almost debris struggle armed oblige index possible";

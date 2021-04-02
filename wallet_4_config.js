@@ -1,1 +1,1 @@
-var mnemonic = "genius ahead scorpion grid wool now remove tiger excite depend neutral furnace";
+var mnemonic = "file fresh laundry income index worth soul outside aim language sunset lazy";

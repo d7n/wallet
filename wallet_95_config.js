@@ -1,1 +1,1 @@
-var mnemonic = "trust reduce art drink lizard conduct fork old short inhale consider hub";
+var mnemonic = "dentist portion picture pony inflict type point drive stable vicious final proud";

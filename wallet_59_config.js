@@ -1,1 +1,1 @@
-var mnemonic = "suit insane chief album inherit burst plug runway wild attitude base stove";
+var mnemonic = "there achieve surface fiscal antique canoe embody wall morning ramp category property";

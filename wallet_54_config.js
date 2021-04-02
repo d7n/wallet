@@ -1,1 +1,1 @@
-var mnemonic = "argue above welcome inhale away scene exchange board hen piece acquire swarm";
+var mnemonic = "panic cruel dish pulse arena sand dish spider absorb empty label fence";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors people swift race pill item amateur dice artwork second great people";
+var mnemonic = "burst joke parent quarter resemble crumble clutch track bottom lab language steel";

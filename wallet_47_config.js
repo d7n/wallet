@@ -1,1 +1,1 @@
-var mnemonic = "tide coconut hat surround west believe scout sunset say shy movie put";
+var mnemonic = "churn team inquiry captain adapt betray shove ostrich balcony barrel rescue spend";

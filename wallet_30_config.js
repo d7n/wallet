@@ -1,1 +1,1 @@
-var mnemonic = "regret hunt crop fever loan gain already food attack salon deal own";
+var mnemonic = "hospital sick basic siege boss canyon artefact gaze coffee penalty explain gallery";

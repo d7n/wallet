@@ -1,1 +1,1 @@
-var mnemonic = "bundle clinic whip apart judge transfer alcohol guard crater wealth finger good";
+var mnemonic = "during burst erase tape soup tunnel skate barely awake safe rail retreat";

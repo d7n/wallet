@@ -1,1 +1,1 @@
-var mnemonic = "what bachelor merit dash mail art region finger gospel album wash gas";
+var mnemonic = "exotic penalty because crazy excite purchase enforce wage room adult skill dust";

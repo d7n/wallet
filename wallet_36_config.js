@@ -1,1 +1,1 @@
-var mnemonic = "rally loud brief donkey tide prevent mixed husband van keep ritual mass";
+var mnemonic = "dash crunch album decorate fashion essay foot announce execute country way carpet";

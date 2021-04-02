@@ -1,1 +1,1 @@
-var mnemonic = "oak helmet old fancy river advance foam nose marine quick nature tree";
+var mnemonic = "fish pyramid short clown square cup craft wish double smooth concert raven";

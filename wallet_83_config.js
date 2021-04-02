@@ -1,1 +1,1 @@
-var mnemonic = "carbon bounce invest cable leg advice spot floor radio again tail oppose";
+var mnemonic = "clay loop moral moon easy punch term rigid clever plastic anxiety oval";

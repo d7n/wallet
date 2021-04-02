@@ -1,1 +1,1 @@
-var mnemonic = "vicious explain spider that debris twice unhappy cool gate worry where pretty";
+var mnemonic = "arrange tower keep lion sphere perfect catalog curve amused cannon grief client";

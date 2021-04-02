@@ -1,1 +1,1 @@
-var mnemonic = "pelican crawl dinner ball wire art soon suffer deliver soldier message purse";
+var mnemonic = "canal scheme bridge awkward protect purchase spirit own crisp air wait damp";

@@ -1,1 +1,1 @@
-var mnemonic = "brief learn giraffe people zebra digital beach ladder enlist group what make";
+var mnemonic = "toy snap pony gap front believe use gain grow puppy impulse dragon";

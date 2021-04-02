@@ -1,1 +1,1 @@
-var mnemonic = "fork wasp inner long tone balance cycle antique indoor hundred soon decorate";
+var mnemonic = "cactus unusual wine remind spike wolf bone drift garlic layer parade fog";

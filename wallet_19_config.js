@@ -1,1 +1,1 @@
-var mnemonic = "bounce super wedding alone unfold onion enroll error seminar gaze casual mouse";
+var mnemonic = "sample spirit shoot excuse topic man tiger just fit move baby oblige";

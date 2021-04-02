@@ -1,1 +1,1 @@
-var mnemonic = "squirrel ugly volume belt note cabin usual front solution diesel pear waste";
+var mnemonic = "sure submit olive cycle slush drum opera summer coral cannon spy radio";

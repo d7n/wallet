@@ -1,1 +1,1 @@
-var mnemonic = "west gravity stick trouble invite can anxiety open offer wait defy better";
+var mnemonic = "edit ring october love shoe ginger neck plug upon sweet sponsor festival";

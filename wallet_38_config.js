@@ -1,1 +1,1 @@
-var mnemonic = "delay long age evil judge inject vicious approve oyster denial soda clarify";
+var mnemonic = "term check field soap rebuild stem vital click leave then dirt dress";

@@ -1,1 +1,1 @@
-var mnemonic = "exist bicycle idea bus magic robot indoor become uniform spray staff banner";
+var mnemonic = "another sustain morning obey exile desk staff uncle index hollow old cart";

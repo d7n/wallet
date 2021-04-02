@@ -1,1 +1,1 @@
-var mnemonic = "monster silent manage true glue voyage glory display olympic certain filter cry";
+var mnemonic = "social damage trash speed chalk weird electric toe suit suit roof happy";

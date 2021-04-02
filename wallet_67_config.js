@@ -1,1 +1,1 @@
-var mnemonic = "mind blanket differ robust improve manage match beef dawn slab art cart";
+var mnemonic = "mesh window front keen perfect orient earth evoke assume goose brief casino";

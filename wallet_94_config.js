@@ -1,1 +1,1 @@
-var mnemonic = "whale motion various stadium rural bean sure pioneer improve popular inner hurry";
+var mnemonic = "city ride shrimp scale office own minute initial address crucial syrup solar";

@@ -1,1 +1,1 @@
-var mnemonic = "divide chapter expect report palm deposit report source green judge matter pair";
+var mnemonic = "vacuum chef venture they episode hamster maximum spin grow arm sugar inform";

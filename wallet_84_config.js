@@ -1,1 +1,1 @@
-var mnemonic = "label husband rely cloth photo lobster come describe spatial pulse cherry symbol";
+var mnemonic = "ginger receive topic anchor situate ancient differ invite until caught board uniform";

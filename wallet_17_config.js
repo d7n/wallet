@@ -1,1 +1,1 @@
-var mnemonic = "strategy parrot fantasy surprise combine check wife enter barely renew glue kid";
+var mnemonic = "sniff huge vital nothing endorse eyebrow ripple rabbit before scout guard elevator";

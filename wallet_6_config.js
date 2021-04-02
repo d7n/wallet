@@ -1,1 +1,1 @@
-var mnemonic = "top embrace ranch spy peasant mind battle decide ramp stamp trigger album";
+var mnemonic = "favorite tube easy betray local jump enable defy taxi rookie horn surface";

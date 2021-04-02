@@ -1,1 +1,1 @@
-var mnemonic = "sibling practice fit canvas job bind recipe wedding juice any tragic during";
+var mnemonic = "more admit remember raccoon dove fun endorse oxygen retire broken claim umbrella";

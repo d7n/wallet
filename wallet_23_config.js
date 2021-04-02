@@ -1,1 +1,1 @@
-var mnemonic = "plug question arena pumpkin defense bomb damp salon awake rabbit nasty defy";
+var mnemonic = "shift frost dentist spot used genre toe sustain salt novel tiny pioneer";
