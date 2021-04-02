@@ -1,1 +1,1 @@
-var mnemonic = "primary nerve mad stool coconut estate derive tray century shoulder syrup palm";
+var mnemonic = "squirrel uncover edit glance purse stuff segment kingdom twin stand race curious";

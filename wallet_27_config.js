@@ -1,1 +1,1 @@
-var mnemonic = "flavor tired camp top lawsuit dad bronze patrol wise decrease tennis captain";
+var mnemonic = "sick now close august analyst wasp food electric city renew rally critic";

@@ -1,1 +1,1 @@
-var mnemonic = "cram cotton just trick picnic yellow burger neglect main attack ketchup valve";
+var mnemonic = "vendor toilet host clock rice person olive scene solid glue exotic crack";

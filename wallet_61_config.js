@@ -1,1 +1,1 @@
-var mnemonic = "foil scout split flat web million quote narrow pole neck brave spot";
+var mnemonic = "swarm execute liquid sister soda know grape memory tired fiber squeeze giant";

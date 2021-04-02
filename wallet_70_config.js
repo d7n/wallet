@@ -1,1 +1,1 @@
-var mnemonic = "volcano inherit deliver squeeze home room original fit divert around chef mean";
+var mnemonic = "throw enrich depart sample raw round rabbit pen educate option crater still";

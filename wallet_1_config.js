@@ -1,1 +1,1 @@
-var mnemonic = "blue coffee brisk worth spice charge betray fantasy despair chat hip lesson";
+var mnemonic = "swamp evolve real fence art naive input laundry math comfort trend hour";

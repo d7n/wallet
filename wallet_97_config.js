@@ -1,1 +1,1 @@
-var mnemonic = "early width six repair turn cherry trade auction diet help page try";
+var mnemonic = "myth seed rescue future already lava modify reflect run imitate wink front";

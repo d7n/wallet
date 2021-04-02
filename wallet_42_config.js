@@ -1,1 +1,1 @@
-var mnemonic = "expose baby crawl praise sauce turkey congress fancy message domain lunar action";
+var mnemonic = "burden mistake item half ritual limit bridge know blast heart inquiry mention";

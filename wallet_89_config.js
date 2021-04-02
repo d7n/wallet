@@ -1,1 +1,1 @@
-var mnemonic = "blossom tonight panel demand build marriage media above hollow tray canal distance";
+var mnemonic = "scissors resist source bright memory behave cupboard verb lizard federal apple mutual";

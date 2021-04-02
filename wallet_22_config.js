@@ -1,1 +1,1 @@
-var mnemonic = "tree position fossil radar pig allow joke neutral bleak same duty swift";
+var mnemonic = "young bulk assume vessel satoshi finish true federal cause prefer discover alert";

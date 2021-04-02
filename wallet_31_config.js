@@ -1,1 +1,1 @@
-var mnemonic = "satisfy raw prison action black service dust water nasty same obtain sketch";
+var mnemonic = "parent culture weekend ranch correct faith empower cargo cotton now breeze month";

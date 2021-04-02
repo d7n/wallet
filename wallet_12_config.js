@@ -1,1 +1,1 @@
-var mnemonic = "denial hello bench diamond then boil dilemma someone sister drift shallow usual";
+var mnemonic = "ice mixture seat sphere thank universe magic faith welcome polar happy carry";

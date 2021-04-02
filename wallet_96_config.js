@@ -1,1 +1,1 @@
-var mnemonic = "damage question pool rail repeat fee maid transfer float panel sleep fine";
+var mnemonic = "calm cupboard text capable call hamster charge volcano erosion review child visual";

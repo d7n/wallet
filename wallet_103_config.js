@@ -1,1 +1,1 @@
-var mnemonic = "barrel property idle refuse mule cheese night purity nature axis baby setup";
+var mnemonic = "because tube excuse globe under sand face hundred work advance violin stem";

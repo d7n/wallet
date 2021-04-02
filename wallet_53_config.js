@@ -1,1 +1,1 @@
-var mnemonic = "region affair seek rude stand amount abstract liberty kiwi lion lamp asset";
+var mnemonic = "hour vacuum island hour pottery lion pool rocket visual dinosaur away napkin";

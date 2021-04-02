@@ -1,1 +1,1 @@
-var mnemonic = "predict limit earth bonus material fortune favorite picture slight cabin ugly season";
+var mnemonic = "title coast prefer reason sibling museum original kidney olive armor conduct run";

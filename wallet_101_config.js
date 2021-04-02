@@ -1,1 +1,1 @@
-var mnemonic = "floor liar marriage exit mind asset high turtle manage orbit ability snack";
+var mnemonic = "lobster jealous deposit jacket draft dose tuna catch gift ostrich grocery give";

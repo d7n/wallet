@@ -1,1 +1,1 @@
-var mnemonic = "teach cotton frown million wink return card seven legend flight improve muscle";
+var mnemonic = "oyster cart tiger material glad crime slab kite window sure exotic victory";

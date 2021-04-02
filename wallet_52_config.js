@@ -1,1 +1,1 @@
-var mnemonic = "tent unlock heart yard path before dress describe physical infant pyramid trap";
+var mnemonic = "pudding vote rabbit parent urge knock question honey clarify nut order banner";

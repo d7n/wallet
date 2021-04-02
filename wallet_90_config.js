@@ -1,1 +1,1 @@
-var mnemonic = "prevent eight soft winter ginger mansion attract slight jungle favorite belt manage";
+var mnemonic = "guilt sponsor recall lawsuit powder october consider page tell topple foster tower";

@@ -1,1 +1,1 @@
-var mnemonic = "throw involve avocado rhythm chapter cancel shed ancient elegant focus column bubble";
+var mnemonic = "core put wet scheme economy twelve reveal ceiling claim satisfy double high";

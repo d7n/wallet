@@ -1,1 +1,1 @@
-var mnemonic = "humor afford nominee caught truly announce language senior adjust myself turtle pupil";
+var mnemonic = "poem medal dice island urban penalty novel leave peasant element bargain clap";

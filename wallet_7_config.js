@@ -1,1 +1,1 @@
-var mnemonic = "crazy tube alley truly brown control captain dance venue paper mom cause";
+var mnemonic = "silent where stumble beyond witness window consider father wet term aisle wrestle";

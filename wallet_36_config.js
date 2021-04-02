@@ -1,1 +1,1 @@
-var mnemonic = "neither come foot equal cricket bind gate sausage pyramid timber whip smooth";
+var mnemonic = "renew leisure chest humble seminar sad come gas topple pill tide scissors";

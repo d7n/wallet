@@ -1,1 +1,1 @@
-var mnemonic = "assault desert use transfer patrol tornado home timber focus picnic find special";
+var mnemonic = "close supply bulk frown swamp parade unable detail minimum thrive second pill";

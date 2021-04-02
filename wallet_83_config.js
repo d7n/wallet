@@ -1,1 +1,1 @@
-var mnemonic = "year exotic health mean insect tooth report such shift loan fog wrestle";
+var mnemonic = "raccoon finger crew include decrease water can frame foot file myself topic";

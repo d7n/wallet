@@ -1,1 +1,1 @@
-var mnemonic = "mercy bitter sword ghost ensure club ridge capital dice cost wait metal";
+var mnemonic = "actual spider alert knee april inquiry ozone wealth behind inflict cause author";

@@ -1,1 +1,1 @@
-var mnemonic = "modify away stove oak shine erosion refuse fox layer domain milk appear";
+var mnemonic = "there lawsuit source mix frown parade inject already satisfy dad target collect";

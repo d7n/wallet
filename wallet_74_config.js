@@ -1,1 +1,1 @@
-var mnemonic = "glad immune pact define across velvet surround sniff adult artefact strategy bacon";
+var mnemonic = "please liberty accuse afford slide scrap fiber abandon enforce tip entire bachelor";

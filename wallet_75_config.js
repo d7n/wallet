@@ -1,1 +1,1 @@
-var mnemonic = "eternal affair divorce smoke plunge mean business acid mandate grit dutch adult";
+var mnemonic = "cliff cherry witness unveil save spider brief horse own build crumble air";

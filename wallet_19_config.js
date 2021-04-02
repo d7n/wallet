@@ -1,1 +1,1 @@
-var mnemonic = "winner notable buddy fine caution enlist teach coil phrase actual clog rule";
+var mnemonic = "deal gloom suffer fault tuna oven bone dirt cinnamon deliver despair away";

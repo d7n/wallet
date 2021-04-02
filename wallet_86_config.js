@@ -1,1 +1,1 @@
-var mnemonic = "army left bronze where empower exile meat invite dry soon bomb fly";
+var mnemonic = "pact purity wheel mix curtain onion alpha brave soup around sight infant";

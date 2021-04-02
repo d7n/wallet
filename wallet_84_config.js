@@ -1,1 +1,1 @@
-var mnemonic = "magnet narrow inspire animal reason fee fetch ceiling guitar what twist melt";
+var mnemonic = "erode roof expand bronze fix tiger cricket inquiry gun bargain soul theory";

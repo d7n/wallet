@@ -1,1 +1,1 @@
-var mnemonic = "expand model alien lawn fresh demise soup news indicate chat lawn body";
+var mnemonic = "balance april orient outer keen taste ripple master loan ladder axis submit";

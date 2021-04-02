@@ -1,1 +1,1 @@
-var mnemonic = "heart parrot know hill toy abuse glide disease smooth meadow song island";
+var mnemonic = "surprise luxury also prison sure program occur cliff month hurdle cup layer";

@@ -1,1 +1,1 @@
-var mnemonic = "angle bonus breeze ring scout claim pole very seek select primary bird";
+var mnemonic = "govern order front moral puzzle sun toast faint tiger inside auto stand";

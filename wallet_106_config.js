@@ -1,1 +1,1 @@
-var mnemonic = "burger pyramid remind element ghost student come deer iron voyage isolate brush";
+var mnemonic = "visual return mandate dynamic then aisle adult imitate member adjust source ice";

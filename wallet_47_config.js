@@ -1,1 +1,1 @@
-var mnemonic = "hunt valve enhance report cricket spot advance talent art summer stomach provide";
+var mnemonic = "struggle shove view air impact amount banner phone reopen ticket hint liquid";

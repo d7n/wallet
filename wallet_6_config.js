@@ -1,1 +1,1 @@
-var mnemonic = "spice code tissue circle alley apple two sentence zero enough couple invest";
+var mnemonic = "address nominee car violin beauty good air announce place lab naive maze";

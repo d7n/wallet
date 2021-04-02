@@ -1,1 +1,1 @@
-var mnemonic = "nominee depend federal spread scan furnace note word chest steel kingdom cheap";
+var mnemonic = "wheel ghost dash merge hero face pilot dinosaur civil short brass roast";

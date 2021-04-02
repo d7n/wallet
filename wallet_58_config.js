@@ -1,1 +1,1 @@
-var mnemonic = "visa document cloud pulp room cushion mask garlic soap lock cigar impose";
+var mnemonic = "rule gorilla asthma slow summer diamond hope moon impulse total thunder stumble";

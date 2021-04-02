@@ -1,1 +1,1 @@
-var mnemonic = "unit fever boy tattoo saddle auto swarm steak window brother paper nation";
+var mnemonic = "diamond hockey castle lunch eagle master cushion suggest thrive able turn muscle";

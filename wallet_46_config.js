@@ -1,1 +1,1 @@
-var mnemonic = "pyramid engine force shell strategy salad toy excuse mind say angry furnace";
+var mnemonic = "leisure panic emerge armed answer tide admit fly lucky satisfy churn found";

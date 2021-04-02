@@ -1,1 +1,1 @@
-var mnemonic = "distance shock will dentist snack found spring elephant number buyer man rose";
+var mnemonic = "diesel fog census alpha liberty minute fold absorb album uniform edge mixed";

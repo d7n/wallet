@@ -1,1 +1,1 @@
-var mnemonic = "pride toast ice seek almost adult news price size sadness sample found";
+var mnemonic = "utility october coyote uniform recipe large flip title learn desk delay bracket";

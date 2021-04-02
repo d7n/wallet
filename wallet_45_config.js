@@ -1,1 +1,1 @@
-var mnemonic = "sniff because tooth yard upon layer oxygen route tag swing region profit";
+var mnemonic = "side mirror filter cinnamon amount grow review park clinic reward silly assault";

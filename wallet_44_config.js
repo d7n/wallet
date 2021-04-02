@@ -1,1 +1,1 @@
-var mnemonic = "oxygen jacket action address usage boring wedding split design retire meat medal";
+var mnemonic = "permit across safe front race mom diesel romance embark piece hold fire";

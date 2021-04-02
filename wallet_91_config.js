@@ -1,1 +1,1 @@
-var mnemonic = "flash bounce ritual truly improve social cluster liberty virus brain project wing";
+var mnemonic = "world muscle noodle save verify urge liberty thrive output ensure soon unfair";

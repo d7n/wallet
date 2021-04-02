@@ -1,1 +1,1 @@
-var mnemonic = "increase away force wink letter add usage ivory merge alert tunnel hero";
+var mnemonic = "kiss disorder keen flock crystal slogan reject update delay expand coast capital";

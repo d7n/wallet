@@ -1,1 +1,1 @@
-var mnemonic = "gather chapter pelican few area net garment pole pretty fringe dice bind";
+var mnemonic = "hungry magnet party seed labor news multiply into catalog cause scrap anger";

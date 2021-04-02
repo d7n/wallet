@@ -1,1 +1,1 @@
-var mnemonic = "lemon rapid addict ginger between plunge human orange gaze impose aerobic sunset";
+var mnemonic = "mouse indoor exchange celery gossip tenant carpet mom congress seminar slot warrior";

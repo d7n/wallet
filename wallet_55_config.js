@@ -1,1 +1,1 @@
-var mnemonic = "wrap year sing announce need snow tribe grant hand hood room nature";
+var mnemonic = "grocery advance tissue salute unable abstract arrive drastic live soon napkin battle";

@@ -1,1 +1,1 @@
-var mnemonic = "bless clay loud medal doll script nest chapter imitate purchase festival skate";
+var mnemonic = "earn mercy mosquito grid flip used divorce uphold mom fox hero swear";

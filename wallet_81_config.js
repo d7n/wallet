@@ -1,1 +1,1 @@
-var mnemonic = "outside wagon absorb current neutral retire keep rally entire maple glass carbon";
+var mnemonic = "scatter sweet argue curious lyrics imitate load winter one trial learn page";

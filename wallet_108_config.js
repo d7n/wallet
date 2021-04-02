@@ -1,1 +1,1 @@
-var mnemonic = "merry velvet own shop plug half forward anger vessel lottery athlete sausage";
+var mnemonic = "funny trouble hospital music suspect alley machine innocent other unable february tent";

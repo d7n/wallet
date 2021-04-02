@@ -1,1 +1,1 @@
-var mnemonic = "same raven hunt game winter dash cross air elegant narrow law tide";
+var mnemonic = "hurdle suit feed adult shed palm record arrange perfect grab certain winner";

@@ -1,1 +1,1 @@
-var mnemonic = "food empower enact team mass myth around draw stable hawk figure project";
+var mnemonic = "blue true ship other large unfair talk route orange cloud melt yellow";

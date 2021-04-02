@@ -1,1 +1,1 @@
-var mnemonic = "aware sample suggest often smooth twin display twelve elder humor craft present";
+var mnemonic = "asset wide normal slide identify direct detail else plunge idea warfare violin";

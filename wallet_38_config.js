@@ -1,1 +1,1 @@
-var mnemonic = "journey mouse book suffer define obey general about curve key that mango";
+var mnemonic = "topple fog more sheriff input rescue wave all maze motion rookie toss";

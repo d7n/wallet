@@ -1,1 +1,1 @@
-var mnemonic = "this stadium aware youth novel fence behave circle ask zebra harbor vital";
+var mnemonic = "loyal forward sniff become chalk water laugh glance sausage width shuffle scare";

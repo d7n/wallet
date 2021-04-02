@@ -1,1 +1,1 @@
-var mnemonic = "arm dinner math such chat cloth predict sample rib aisle there ready";
+var mnemonic = "session bulk rack daughter fun plug gentle unlock people name radio mountain";

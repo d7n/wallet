@@ -1,1 +1,1 @@
-var mnemonic = "radar evil magic wheat robot grass seminar ignore banana hockey hedgehog world";
+var mnemonic = "cliff pelican inch fold love test defy captain novel exile accident glass";

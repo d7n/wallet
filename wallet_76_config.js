@@ -1,1 +1,1 @@
-var mnemonic = "again various find exact profit avocado pigeon gauge scale own fork else";
+var mnemonic = "because domain era note crater unlock decade work make season real share";

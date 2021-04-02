@@ -1,1 +1,1 @@
-var mnemonic = "stereo confirm hospital mistake glad mango myself build organ parent kangaroo actor";
+var mnemonic = "cool cause announce follow keep brother panther crystal above punch gasp adapt";

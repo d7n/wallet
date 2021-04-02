@@ -1,1 +1,1 @@
-var mnemonic = "onion minimum always matter ancient cotton popular hammer east egg raise three";
+var mnemonic = "soon actor ranch athlete kiwi spare palace midnight approve duck coast vendor";

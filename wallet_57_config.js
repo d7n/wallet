@@ -1,1 +1,1 @@
-var mnemonic = "cigar perfect ritual silly cook text vendor move edge toy inquiry hope";
+var mnemonic = "calm tape file useful trigger impulse affair wisdom plug cycle nature noodle";

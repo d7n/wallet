@@ -1,1 +1,1 @@
-var mnemonic = "panda pistol uniform target egg palm vanish entry aim install bind eyebrow";
+var mnemonic = "between wear case shadow infant fossil cook together farm strike endless prefer";

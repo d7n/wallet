@@ -1,1 +1,1 @@
-var mnemonic = "gallery bitter right round broccoli elite icon deputy welcome purse foot sure";
+var mnemonic = "build picnic delay cost theory size indoor tape dolphin mixture mirror spread";

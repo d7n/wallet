@@ -1,1 +1,1 @@
-var mnemonic = "grit weapon hammer rent shy notable sponsor sphere yellow hundred visa finish";
+var mnemonic = "roast battle photo option rug will cheese used bronze course skin earn";

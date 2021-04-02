@@ -1,1 +1,1 @@
-var mnemonic = "tattoo youth midnight diamond party skate hawk cattle helmet develop sick there";
+var mnemonic = "achieve warrior skin kitten hundred series weasel mass method corn scrub barely";

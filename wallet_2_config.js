@@ -1,1 +1,1 @@
-var mnemonic = "together fall jungle protect fit liquid leopard record melody course usage truck";
+var mnemonic = "nut buddy document win miss vote spawn scrap coin virus become easy";

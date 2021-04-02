@@ -1,1 +1,1 @@
-var mnemonic = "around inside canoe dirt pilot trophy harsh coral empty crash lady under";
+var mnemonic = "donkey obvious reject only knock track fiction genre birth only view thrive";

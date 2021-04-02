@@ -1,1 +1,1 @@
-var mnemonic = "fatigue hello better way rich balcony erode practice shed wrist myth arm";
+var mnemonic = "flip play adapt urge tag afraid spike silk mixture float beef fame";

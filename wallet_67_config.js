@@ -1,1 +1,1 @@
-var mnemonic = "uncover pig neutral tuna desk rocket swarm off thought hub author salt";
+var mnemonic = "brief february fuel diagram borrow twin build predict wonder nice price slam";

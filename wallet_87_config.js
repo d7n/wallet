@@ -1,1 +1,1 @@
-var mnemonic = "burden offer want uniform salt license hello stand until pluck minimum year";
+var mnemonic = "puzzle water chalk fatigue loud round project tenant select disagree raven animal";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle neither doctor gather tired garage term slender fix weasel quick bright";
+var mnemonic = "acoustic spy isolate sausage picture document coconut clown average depth barrel robust";

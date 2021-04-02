@@ -1,1 +1,1 @@
-var mnemonic = "direct onion fragile inspire daring render awesome hollow mom pink bulb broom";
+var mnemonic = "swear chat allow hip place alter vocal detect artefact lamp hard lucky";

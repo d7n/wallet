@@ -1,1 +1,1 @@
-var mnemonic = "genre fish present blanket rare rotate enable middle marriage worry ostrich slam";
+var mnemonic = "club auction peace sausage fabric reform style hair right able basket funny";

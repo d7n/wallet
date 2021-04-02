@@ -1,1 +1,1 @@
-var mnemonic = "gun remind talk wait frozen whisper rabbit sugar stand chunk disorder camera";
+var mnemonic = "rifle enforce someone tank account stay cool census glue tuition fashion wasp";

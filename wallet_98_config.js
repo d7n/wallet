@@ -1,1 +1,1 @@
-var mnemonic = "distance tent escape clock jelly stem sugar mixture scare mule filter tower";
+var mnemonic = "worry tape settle tool knee east drop stuff chest flock discover sudden";

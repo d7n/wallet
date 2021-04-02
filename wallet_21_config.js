@@ -1,1 +1,1 @@
-var mnemonic = "guilt cereal honey grain future learn wagon swallow search dirt blur proud";
+var mnemonic = "perfect mystery afford parrot result letter shrimp churn venture boost coconut morning";

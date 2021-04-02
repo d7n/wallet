@@ -1,1 +1,1 @@
-var mnemonic = "evidence protect absurd tuna trouble weekend damage pluck saddle double betray mechanic";
+var mnemonic = "pill smart law garlic bean offer advance chuckle ticket thunder kitten omit";

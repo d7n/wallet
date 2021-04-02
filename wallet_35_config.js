@@ -1,1 +1,1 @@
-var mnemonic = "across health grow buyer delay address muffin middle army desert swallow canal";
+var mnemonic = "desert bitter fence fan wet wish become cannon soup mouse shaft comic";

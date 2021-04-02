@@ -1,1 +1,1 @@
-var mnemonic = "quick toy kingdom online master tell crop grit dream prepare caught rabbit";
+var mnemonic = "ancient north use high capital shadow trigger sea into high asthma wedding";

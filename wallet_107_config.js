@@ -1,1 +1,1 @@
-var mnemonic = "stage drama envelope about name indoor fine lock topic bridge reduce sugar";
+var mnemonic = "track clinic hero enough base tuna trash bulb brave soldier talent maple";

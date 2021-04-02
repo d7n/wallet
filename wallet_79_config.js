@@ -1,1 +1,1 @@
-var mnemonic = "connect enjoy second entry repeat volume infant grace engage knife gym urge";
+var mnemonic = "worth supreme brief curtain dutch damage loud point reform reunion half exercise";

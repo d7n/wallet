@@ -1,1 +1,1 @@
-var mnemonic = "stand faculty pizza slow annual begin present crew sea focus wage famous";
+var mnemonic = "disagree grace betray mix thumb bless shuffle leave soup oval awesome resource";
