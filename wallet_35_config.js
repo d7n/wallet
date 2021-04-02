@@ -1,1 +1,1 @@
-var mnemonic = "steel young riot bachelor all flee motor neither accuse zebra pride spell";
+var mnemonic = "pelican weapon castle north bleak cattle man usage arctic only party lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "upper error master occur addict tomorrow fly viable vanish gun cruel web";
+var mnemonic = "isolate wrap call million mention mercy hidden always pride neglect elegant horn";

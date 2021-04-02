@@ -1,1 +1,1 @@
-var mnemonic = "clip position stay armed coconut leg fatal type rice oven patient adjust";
+var mnemonic = "remind fuel believe ice glare effort element ask pottery repair shove demise";

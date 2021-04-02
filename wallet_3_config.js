@@ -1,1 +1,1 @@
-var mnemonic = "ancient train orbit have intact allow book remain almost reveal mistake digital";
+var mnemonic = "pool wood vehicle thought antenna cook tape friend earn evil bridge time";

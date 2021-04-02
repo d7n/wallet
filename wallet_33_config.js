@@ -1,1 +1,1 @@
-var mnemonic = "aunt fruit same above attract unable powder tribe shove unveil stamp oval";
+var mnemonic = "rare reveal flush elder scale trick kid taste garage broken plug enact";

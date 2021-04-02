@@ -1,1 +1,1 @@
-var mnemonic = "visit audit cage swim physical river bracket they reopen life broom color";
+var mnemonic = "crime wide stone neglect brother system news sugar three inhale bamboo place";

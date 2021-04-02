@@ -1,1 +1,1 @@
-var mnemonic = "spoon river genius manage split will have physical diamond weird midnight bulk";
+var mnemonic = "same coral render wool inmate unit window grit jealous salmon alcohol organ";

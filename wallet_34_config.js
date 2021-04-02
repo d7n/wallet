@@ -1,1 +1,1 @@
-var mnemonic = "dune silver kid myth acoustic action stamp fox result unaware carbon car";
+var mnemonic = "make job dune lake surround brother level account evidence dawn picnic junk";

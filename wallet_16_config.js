@@ -1,1 +1,1 @@
-var mnemonic = "mask fitness grocery student mirror answer april phrase text supply carbon combine";
+var mnemonic = "resource stable occur crystal range very obvious pluck sample suspect voyage sad";

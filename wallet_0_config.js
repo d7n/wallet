@@ -1,1 +1,1 @@
-var mnemonic = "chicken spawn early edit genre base kiwi guilt wish motor tiger kid";
+var mnemonic = "cargo tumble result grain slot motor liar tilt video strike cube network";

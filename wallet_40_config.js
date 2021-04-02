@@ -1,1 +1,1 @@
-var mnemonic = "merit comfort cram corn city alter crash pet normal useless pottery minute";
+var mnemonic = "gain clap purse brain vintage blind foot illness tape child follow wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "such dash favorite sudden february upper hair river symbol exchange share news";
+var mnemonic = "inside chalk creek prepare spider suspect canvas world paddle maze hood panther";

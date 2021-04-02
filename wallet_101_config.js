@@ -1,1 +1,1 @@
-var mnemonic = "scare cash squeeze power swarm south make arch across rocket dinner funny";
+var mnemonic = "recall neither over design verify diary crush web present wall question birth";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle chicken track hour tiger film cherry foam define palm deny slush";
+var mnemonic = "when skirt hole front swing leisure friend shell icon pool mother repeat";

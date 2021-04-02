@@ -1,1 +1,1 @@
-var mnemonic = "pause afford fun food area buffalo negative fiction throw endorse dolphin share";
+var mnemonic = "solar sun drop extend energy chronic aspect praise maid menu move vintage";

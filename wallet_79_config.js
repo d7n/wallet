@@ -1,1 +1,1 @@
-var mnemonic = "avoid sort next lounge genuine catalog field camp pool fiber shuffle broom";
+var mnemonic = "bunker coin climb width enrich slam almost update unhappy grocery man believe";

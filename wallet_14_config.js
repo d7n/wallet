@@ -1,1 +1,1 @@
-var mnemonic = "dune worry average lion ice space bounce urban move hurt rescue ice";
+var mnemonic = "pelican wrong force palace sustain indicate voyage shine cross opinion lunch hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster cook scout wrestle kit glance swing loyal army hood cost interest";
+var mnemonic = "space demand census divorce chair brief return bread welcome energy wear minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "play service uncle hundred dutch during render clip salon twenty avocado major";
+var mnemonic = "token original illegal world bridge buzz abuse junk captain weapon plug during";

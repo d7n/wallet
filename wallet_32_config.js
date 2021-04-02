@@ -1,1 +1,1 @@
-var mnemonic = "leisure install shell exercise dismiss breeze ginger camp pet soda renew unknown";
+var mnemonic = "antenna icon then orbit mad robot work trade dinner flush comfort thought";

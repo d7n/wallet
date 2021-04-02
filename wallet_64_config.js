@@ -1,1 +1,1 @@
-var mnemonic = "panda sad middle mail scrap retreat young heart bright that border kiwi";
+var mnemonic = "bicycle smart decade much unlock ozone curious foster mean convince because basic";

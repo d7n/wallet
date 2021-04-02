@@ -1,1 +1,1 @@
-var mnemonic = "other issue talent thunder segment cabbage blouse lawn excuse hurdle escape win";
+var mnemonic = "keen ancient illegal sister issue hard volcano trick inside tail resource tip";

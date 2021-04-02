@@ -1,1 +1,1 @@
-var mnemonic = "umbrella bargain prepare stock place myself apple song alter wheel page primary";
+var mnemonic = "benefit copper rough reunion diesel old detail frost tree wagon route capable";

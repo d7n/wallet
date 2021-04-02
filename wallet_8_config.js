@@ -1,1 +1,1 @@
-var mnemonic = "menu exist lesson air dune forum under cradle nose run purpose text";
+var mnemonic = "vivid frown ethics music brave core chair ostrich direct alley amount keep";

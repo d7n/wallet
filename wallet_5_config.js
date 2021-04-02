@@ -1,1 +1,1 @@
-var mnemonic = "blast cart tiny cloth magnet flight lend stick chapter museum reopen alert";
+var mnemonic = "enable today virus afford science explain six finger vacuum angry impose recall";

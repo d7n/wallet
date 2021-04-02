@@ -1,1 +1,1 @@
-var mnemonic = "sword become budget rookie heart knee sea dutch leaf merit library flee";
+var mnemonic = "wisdom funny hockey carry leaf ancient syrup eternal under bless tank slam";

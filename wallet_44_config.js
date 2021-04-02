@@ -1,1 +1,1 @@
-var mnemonic = "tunnel swim mimic mountain match sight tackle horror vault trial reason essence";
+var mnemonic = "people people lesson benefit anger long tuition happy trust uphold milk destroy";

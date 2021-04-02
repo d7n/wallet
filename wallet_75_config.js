@@ -1,1 +1,1 @@
-var mnemonic = "spread stick six pyramid genuine forget detail unlock middle wine party bounce";
+var mnemonic = "layer crawl record unknown wisdom bamboo pencil better giggle history analyst certain";

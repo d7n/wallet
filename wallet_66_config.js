@@ -1,1 +1,1 @@
-var mnemonic = "pulse arctic shield jump check clog tribe pipe soul twist market suit";
+var mnemonic = "round crowd armed ahead lesson travel air script notice seek tribe ocean";

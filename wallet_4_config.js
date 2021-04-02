@@ -1,1 +1,1 @@
-var mnemonic = "card chief fog network opinion avoid crane frame bulk shield tiny exhibit";
+var mnemonic = "rack boss front jungle afraid raccoon twelve child envelope plastic quantum dutch";

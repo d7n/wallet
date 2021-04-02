@@ -1,1 +1,1 @@
-var mnemonic = "evil file brother matrix coyote alley october weather confirm grant romance farm";
+var mnemonic = "noble spoil space level budget beef blanket win grace quiz desk spatial";

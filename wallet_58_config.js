@@ -1,1 +1,1 @@
-var mnemonic = "meat detail choice second health luggage pipe brief height genius day fury";
+var mnemonic = "hollow maple laugh poverty often praise annual resemble attend donkey figure calm";

@@ -1,1 +1,1 @@
-var mnemonic = "close acid zebra time various trash illness lyrics wonder regular fun prepare";
+var mnemonic = "orbit chaos network butter fence net cable bind select scorpion mammal core";

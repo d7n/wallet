@@ -1,1 +1,1 @@
-var mnemonic = "shaft eye syrup drink bulk guess connect pioneer lecture brown runway drift";
+var mnemonic = "blame soft rate destroy swarm second city wing nasty visual oven fantasy";

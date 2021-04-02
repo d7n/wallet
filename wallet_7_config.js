@@ -1,1 +1,1 @@
-var mnemonic = "security sea since lonely rebel catch inflict omit tourist awake hobby shy";
+var mnemonic = "invite crane palace chimney twelve mango exact unlock mercy sentence mandate ocean";

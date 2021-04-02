@@ -1,1 +1,1 @@
-var mnemonic = "area dog very claw surprise rib walnut stone actual cactus symbol coral";
+var mnemonic = "lava vanish flee gift orange gasp rain muscle radio history snack lucky";

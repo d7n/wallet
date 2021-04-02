@@ -1,1 +1,1 @@
-var mnemonic = "melt remind job exhibit horse replace badge resemble share cancel spare dismiss";
+var mnemonic = "concert quarter easily symptom logic twelve calm sauce rocket permit boy process";

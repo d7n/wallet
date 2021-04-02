@@ -1,1 +1,1 @@
-var mnemonic = "sound proof rice shed common note drink south dust add bundle atom";
+var mnemonic = "input toilet exercise sail load suggest horse illegal double series speak oppose";

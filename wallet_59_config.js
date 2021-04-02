@@ -1,1 +1,1 @@
-var mnemonic = "inherit slot escape guitar transfer license enhance puppy phrase eyebrow mobile pool";
+var mnemonic = "couch profit inner quit warm squirrel hammer buffalo famous vehicle verify tip";

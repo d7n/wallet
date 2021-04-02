@@ -1,1 +1,1 @@
-var mnemonic = "nominee unique artist spatial depend tackle truth orchard clutch engine forward waste";
+var mnemonic = "limb dawn describe outer demand control scheme asset prevent slide unit mango";

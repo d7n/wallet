@@ -1,1 +1,1 @@
-var mnemonic = "sausage team phone also mother captain tag media lake hour side wink";
+var mnemonic = "angry brother thrive track promote scrub liar expect split trim grain decorate";

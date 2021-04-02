@@ -1,1 +1,1 @@
-var mnemonic = "grain illness ozone that garlic idle opinion shed axis enough such hurry";
+var mnemonic = "minor melody lesson demand trip hawk roof then tribe gym route october";

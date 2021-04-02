@@ -1,1 +1,1 @@
-var mnemonic = "office flush arm bracket best eagle pole project rapid mistake eight matter";
+var mnemonic = "slice trip child agent number attract faint thunder polar gain learn never";

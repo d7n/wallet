@@ -1,1 +1,1 @@
-var mnemonic = "fetch fun hybrid chair inform erupt surface into detail riot budget today";
+var mnemonic = "merry history leopard game rifle decide risk clap cost retire door solar";

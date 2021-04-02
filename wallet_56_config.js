@@ -1,1 +1,1 @@
-var mnemonic = "vital yard essence there ceiling rail shiver uncle exist provide mercy hidden";
+var mnemonic = "hip fatal picnic cost lyrics leisure empty fragile domain nothing dove daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb satoshi direct enough exchange unhappy wheel sad vivid vanish industry squeeze";
+var mnemonic = "begin miss vote cube shoulder junior march gas govern purse bridge jealous";

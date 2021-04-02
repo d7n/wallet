@@ -1,1 +1,1 @@
-var mnemonic = "sketch ability tooth mass never quick cancel inmate repeat put gather lend";
+var mnemonic = "security what celery reform grief twenty fold kite jar extend junk fire";

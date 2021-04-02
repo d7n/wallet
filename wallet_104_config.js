@@ -1,1 +1,1 @@
-var mnemonic = "alarm velvet future face young ready script erupt author path merry jaguar";
+var mnemonic = "angle unveil unveil gaze arch have tape knock creek injury struggle salon";

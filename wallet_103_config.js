@@ -1,1 +1,1 @@
-var mnemonic = "mule wink maple trust immense artefact spend segment hockey issue ranch nut";
+var mnemonic = "hire spoon drill rail voice parade desk bomb regular proud radar tiger";

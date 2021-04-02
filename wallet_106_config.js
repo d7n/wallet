@@ -1,1 +1,1 @@
-var mnemonic = "safe hunt assume maximum wall alien approve bamboo pitch school grab phrase";
+var mnemonic = "urge nice spell crack pill dizzy tuition put gaze mountain turn abstract";

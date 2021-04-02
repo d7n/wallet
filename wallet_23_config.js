@@ -1,1 +1,1 @@
-var mnemonic = "tennis bus arrow depend flash phone sister tunnel define spike frog vicious";
+var mnemonic = "group job rally sense order wash answer guitar volume vacuum entire give";

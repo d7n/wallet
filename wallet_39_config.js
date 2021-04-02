@@ -1,1 +1,1 @@
-var mnemonic = "female soul better oven pond copy scare hire venture amused devote wrap";
+var mnemonic = "govern evolve anxiety world spoon spy chair execute peanut joy dinner escape";

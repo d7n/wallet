@@ -1,1 +1,1 @@
-var mnemonic = "crowd regular man ring easily range left candy balcony spread unknown grab";
+var mnemonic = "banner move ranch caution cement father tip trade stereo drastic engine charge";

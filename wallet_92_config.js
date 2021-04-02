@@ -1,1 +1,1 @@
-var mnemonic = "chest humble glide borrow blind parrot model hidden vicious dragon north dismiss";
+var mnemonic = "pass little stumble route level maid flower method athlete second since track";

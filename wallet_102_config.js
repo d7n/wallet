@@ -1,1 +1,1 @@
-var mnemonic = "pill analyst rice legal pumpkin grape blossom mansion around absent when crumble";
+var mnemonic = "fragile tongue congress ill gossip mirror green tag print trouble coil feature";

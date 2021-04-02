@@ -1,1 +1,1 @@
-var mnemonic = "scare give midnight park stumble glance pottery history method bus major wreck";
+var mnemonic = "stage alpha peanut dog morning diet hood cheap between mercy vague giant";

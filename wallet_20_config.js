@@ -1,1 +1,1 @@
-var mnemonic = "turtle insect note any random unusual merit width jelly season bright demand";
+var mnemonic = "fossil call saddle small early slot museum drift journey nasty sort metal";

@@ -1,1 +1,1 @@
-var mnemonic = "two airport process punch school believe narrow monitor final sadness arm front";
+var mnemonic = "exotic shock client march hidden road differ chunk claw fatigue push tennis";

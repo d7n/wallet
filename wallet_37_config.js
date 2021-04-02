@@ -1,1 +1,1 @@
-var mnemonic = "fun high jealous magic cage clerk absent guess hotel agent hobby midnight";
+var mnemonic = "easy critic tray cotton snack dignity repair repeat install session escape radar";

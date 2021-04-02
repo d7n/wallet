@@ -1,1 +1,1 @@
-var mnemonic = "fancy fatigue caught pattern disorder man assume enable play toilet rely amused";
+var mnemonic = "tooth camp firm odor cost arch wait moral wreck acid churn fuel";

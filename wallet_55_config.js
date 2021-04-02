@@ -1,1 +1,1 @@
-var mnemonic = "goose opera fancy warfare usual all near black deliver chaos spoil egg";
+var mnemonic = "borrow renew eager rotate entry woman that sick blush timber border rain";

@@ -1,1 +1,1 @@
-var mnemonic = "april tower unfair enhance donor science tape tornado sample theory torch maximum";
+var mnemonic = "load left true fix kitten silk reason visit foster gain banana wool";

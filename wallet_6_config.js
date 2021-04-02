@@ -1,1 +1,1 @@
-var mnemonic = "special urban casino aware hammer chalk liar detect dry mushroom degree car";
+var mnemonic = "flock shock ecology artist sphere then exhibit trust ready short path monkey";

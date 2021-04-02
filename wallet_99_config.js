@@ -1,1 +1,1 @@
-var mnemonic = "service raven skill one news crunch cruel lock range pioneer humble stem";
+var mnemonic = "renew meadow please they increase jeans timber three prize fresh deal nominee";

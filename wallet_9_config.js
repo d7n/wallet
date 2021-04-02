@@ -1,1 +1,1 @@
-var mnemonic = "duty device dust pond fix wet sausage mad shed speed public action";
+var mnemonic = "grow divide ensure neck thing hedgehog trap magnet draw best pig draft";

@@ -1,1 +1,1 @@
-var mnemonic = "normal vast once run attend canal diet present athlete ice shoe drive";
+var mnemonic = "genius output join wear admit worry orbit knee alter odor fashion love";

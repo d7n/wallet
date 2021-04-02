@@ -1,1 +1,1 @@
-var mnemonic = "innocent exchange above area dawn current glow secret beauty lend early aware";
+var mnemonic = "gallery extra fashion miss true coil shuffle thunder drink business merit stone";

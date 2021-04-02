@@ -1,1 +1,1 @@
-var mnemonic = "match path decide police then glow census hurry box train delay differ";
+var mnemonic = "debris fitness crane clarify dog lesson arrive brief patch mammal ankle kind";

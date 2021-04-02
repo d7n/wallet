@@ -1,1 +1,1 @@
-var mnemonic = "vehicle bus glance exhibit name load gorilla viable favorite juice way guess";
+var mnemonic = "day issue quiz require cousin promote arrow split door icon leader unfold";

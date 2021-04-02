@@ -1,1 +1,1 @@
-var mnemonic = "flush aerobic wide renew next isolate wrong village early inform buzz miss";
+var mnemonic = "genuine act captain organ place moral loop arena bone salon symptom electric";

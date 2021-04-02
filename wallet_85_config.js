@@ -1,1 +1,1 @@
-var mnemonic = "canal hybrid they laptop glance tonight rubber theme agree copy disagree fog";
+var mnemonic = "invest cruise six pluck news hobby penalty bird coral else okay test";

@@ -1,1 +1,1 @@
-var mnemonic = "unable appear swear stamp throw verify tongue device bulk pink famous grief";
+var mnemonic = "tent consider mind husband base force drive able foot jar kind nest";

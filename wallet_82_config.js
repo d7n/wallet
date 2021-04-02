@@ -1,1 +1,1 @@
-var mnemonic = "rigid mansion behind pioneer tooth antenna jewel manage joke illness receive stumble";
+var mnemonic = "desk attitude patient original diesel warfare favorite unknown topple cool doctor tone";

@@ -1,1 +1,1 @@
-var mnemonic = "common opera shiver recycle city lunch roof achieve fury clerk exercise garlic";
+var mnemonic = "wire element sense cargo sleep grit clock struggle start race olympic enact";

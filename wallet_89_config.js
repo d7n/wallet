@@ -1,1 +1,1 @@
-var mnemonic = "idea sting wide safe bacon wet spoil actress rude olive trigger acoustic";
+var mnemonic = "entry genuine when eager wine express update wheel scatter view people example";

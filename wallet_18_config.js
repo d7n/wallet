@@ -1,1 +1,1 @@
-var mnemonic = "salad output hazard easily mirror invest cool word smile arrange tiger south";
+var mnemonic = "code material lawsuit list bulk dutch measure audit judge essence say exclude";

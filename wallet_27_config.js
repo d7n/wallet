@@ -1,1 +1,1 @@
-var mnemonic = "olive average double room balcony hurt skate magic pizza earn remain aisle";
+var mnemonic = "shift labor speak weasel consider census episode mirror bargain rabbit liquid green";

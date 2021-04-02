@@ -1,1 +1,1 @@
-var mnemonic = "sweet affair oak stay chunk culture smoke absent fish flavor turtle squeeze";
+var mnemonic = "inspire skirt copper bonus reopen unit core pulse indicate today office cup";

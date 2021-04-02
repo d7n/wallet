@@ -1,1 +1,1 @@
-var mnemonic = "avoid south split auction spike balcony slow polar exit bitter lunch mystery";
+var mnemonic = "twenty stamp history drive atom capital chapter lobster improve during food hour";

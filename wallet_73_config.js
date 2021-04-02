@@ -1,1 +1,1 @@
-var mnemonic = "priority bridge train journey notable assume acid setup chat evil imitate steak";
+var mnemonic = "wine silent cake chat hair excite sting gallery swarm again vague meadow";

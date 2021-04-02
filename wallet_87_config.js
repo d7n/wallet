@@ -1,1 +1,1 @@
-var mnemonic = "dignity category hour off remind defy trap lawn mixed poem dust toss";
+var mnemonic = "maximum when success estate total rubber steak expire crew nothing focus blade";

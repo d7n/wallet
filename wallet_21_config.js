@@ -1,1 +1,1 @@
-var mnemonic = "endorse acquire file thumb afraid super exotic dream record flush coil relax";
+var mnemonic = "deal rule scheme ethics fancy screen pair use life mountain they marble";

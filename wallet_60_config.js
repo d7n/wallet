@@ -1,1 +1,1 @@
-var mnemonic = "kitchen tray neglect figure over beef online equip rubber twenty history measure";
+var mnemonic = "pipe loyal gravity hurry enhance lens chalk ramp neglect soup before describe";

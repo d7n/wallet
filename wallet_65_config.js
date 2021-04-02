@@ -1,1 +1,1 @@
-var mnemonic = "law one entire art work cattle quote tongue dial expand reward column";
+var mnemonic = "life empower hockey typical already hunt exclude kick icon jazz tuna style";

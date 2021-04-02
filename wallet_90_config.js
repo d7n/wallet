@@ -1,1 +1,1 @@
-var mnemonic = "green ancient always history forget across defense pride cry ethics exotic follow";
+var mnemonic = "body moon lazy phone frost lake gadget denial scout horn jump debris";

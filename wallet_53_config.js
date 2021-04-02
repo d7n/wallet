@@ -1,1 +1,1 @@
-var mnemonic = "image nurse unlock pulp water blush train admit range common dilemma diary";
+var mnemonic = "olympic fit party omit ramp slight yellow unaware frown report merry flee";

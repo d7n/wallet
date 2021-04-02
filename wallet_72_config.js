@@ -1,1 +1,1 @@
-var mnemonic = "oxygen comic quality drink banana cabin uncover report young ranch erupt frown";
+var mnemonic = "armor must genre wood lawsuit nurse fiber cricket spin art roof reopen";
