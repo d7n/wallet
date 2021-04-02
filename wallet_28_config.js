@@ -1,1 +1,1 @@
-var mnemonic = "give harsh decide surround rifle process crater must abandon member once vessel";
+var mnemonic = "bonus anxiety group bone dilemma private jungle bench sample clip mobile spread";

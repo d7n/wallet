@@ -1,1 +1,1 @@
-var mnemonic = "lava hobby echo wish mouse develop bulk lesson they sound three autumn";
+var mnemonic = "win split certain awake mutual satoshi sibling negative ball olive glare response";

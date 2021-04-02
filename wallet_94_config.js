@@ -1,1 +1,1 @@
-var mnemonic = "anchor planet stumble glance tool wheel juice pave heavy shoot lizard annual";
+var mnemonic = "middle water silent truck cradle lizard major diary finish subway ensure check";

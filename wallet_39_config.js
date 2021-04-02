@@ -1,1 +1,1 @@
-var mnemonic = "ugly teach between author entry worth athlete jar submit dwarf only weather";
+var mnemonic = "remove reveal occur spray mango dinosaur social number segment attract retreat fresh";

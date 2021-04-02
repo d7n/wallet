@@ -1,1 +1,1 @@
-var mnemonic = "muscle team cotton water wage isolate helmet type left reunion addict visit";
+var mnemonic = "dilemma weird bulb young route brand fox arrow swear another general search";

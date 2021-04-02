@@ -1,1 +1,1 @@
-var mnemonic = "day inmate announce crisp fault latin knife owner fire bag equip suffer";
+var mnemonic = "similar divide result cry point chest group remain rally usage grunt memory";

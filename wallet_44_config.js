@@ -1,1 +1,1 @@
-var mnemonic = "entire awake country boat blush foam cricket permit rich pistol calm problem";
+var mnemonic = "satoshi holiday roast embrace check clay because able crowd repeat buffalo bicycle";

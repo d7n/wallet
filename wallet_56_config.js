@@ -1,1 +1,1 @@
-var mnemonic = "produce mirror quit laundry web fantasy prosper february item nut venue frame";
+var mnemonic = "combine purity term tent vital weapon fruit organ health robust jaguar lion";

@@ -1,1 +1,1 @@
-var mnemonic = "artist rich crazy act chaos fame cover virus fix toilet blast circle";
+var mnemonic = "diesel game outside rent popular dynamic topple visual stable garbage desk explain";

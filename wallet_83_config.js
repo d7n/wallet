@@ -1,1 +1,1 @@
-var mnemonic = "repeat pet bind coast box duck injury fringe camp lab curve suspect";
+var mnemonic = "deliver clock struggle predict hover marriage student iron home cupboard spend mosquito";

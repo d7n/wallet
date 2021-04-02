@@ -1,1 +1,1 @@
-var mnemonic = "lunar setup rocket crack kick digital topic claim garment view junior frequent";
+var mnemonic = "middle slab artefact dizzy topic wolf book attract modify antenna memory text";

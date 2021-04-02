@@ -1,1 +1,1 @@
-var mnemonic = "immune torch erode ghost soda endorse bread train equip foster echo transfer";
+var mnemonic = "custom echo plunge tired bleak siren plate bike filter pudding embody law";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch lesson admit arch venture lizard save fever boy supply evolve insane";
+var mnemonic = "horror brown share bamboo april infant lend deposit tiger cereal success bounce";

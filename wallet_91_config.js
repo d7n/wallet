@@ -1,1 +1,1 @@
-var mnemonic = "calm either diesel smile feel arm prefer render proud render other earn";
+var mnemonic = "divide much cloth desert scrub start rifle rail fire click cliff client";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion grace squirrel loyal clean skull nation problem rigid couch order unlock";
+var mnemonic = "bridge aisle wish mesh segment march wing warm lumber hobby praise stone";

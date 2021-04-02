@@ -1,1 +1,1 @@
-var mnemonic = "spare scan become pilot float brown siren crop decide guess scheme display";
+var mnemonic = "anger tomorrow fancy predict copy trigger health output basic banana hole prepare";

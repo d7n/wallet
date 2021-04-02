@@ -1,1 +1,1 @@
-var mnemonic = "horse empty loud match exchange soft title before stage easily begin milk";
+var mnemonic = "total rebuild lonely size cup reform liar sleep creek carbon turtle dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "gain hair history foam enlist doll also hamster rule side fetch dream";
+var mnemonic = "owner cloth settle conduct endless toddler problem polar shy aware until curious";

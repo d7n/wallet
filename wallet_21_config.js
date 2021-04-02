@@ -1,1 +1,1 @@
-var mnemonic = "chair debate assist zoo success nest bid drop appear dice smoke creek";
+var mnemonic = "area bulb reduce path genius test observe learn wonder orphan cage clock";

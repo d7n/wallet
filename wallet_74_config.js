@@ -1,1 +1,1 @@
-var mnemonic = "huge prize cloth vital under exist engine post clap pulse letter puzzle";
+var mnemonic = "vote program face health add athlete option harbor strike chunk cat monster";

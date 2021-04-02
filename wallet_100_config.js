@@ -1,1 +1,1 @@
-var mnemonic = "spring enact resource author ocean evoke pet lesson timber soda sheriff child";
+var mnemonic = "grape indicate old bring property ancient cement antique reform wide pistol champion";

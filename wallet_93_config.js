@@ -1,1 +1,1 @@
-var mnemonic = "palm cricket witness parent other race gallery ivory believe worth scorpion marine";
+var mnemonic = "void park labor illness enable spare jelly evolve strong ostrich polar soup";

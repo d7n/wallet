@@ -1,1 +1,1 @@
-var mnemonic = "amount forum joke any desk noodle home scissors donate reason truth kingdom";
+var mnemonic = "palace decade lonely voice vault zoo motor senior welcome acid lounge person";

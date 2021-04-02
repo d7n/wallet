@@ -1,1 +1,1 @@
-var mnemonic = "increase walnut primary call hood wasp bean visa final record physical slogan";
+var mnemonic = "crumble subway property labor balcony save alien two fun list horror leader";

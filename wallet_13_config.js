@@ -1,1 +1,1 @@
-var mnemonic = "act gallery pet history paddle paper evolve skill chat quote intact quit";
+var mnemonic = "tomato lunch present elegant weasel matrix diesel tenant giggle happy cheese cake";

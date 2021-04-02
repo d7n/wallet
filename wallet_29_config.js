@@ -1,1 +1,1 @@
-var mnemonic = "bone praise bring venue dinner west then raise mandate need dove guess";
+var mnemonic = "piano goddess broken memory illegal tube lab dance primary van flat feature";

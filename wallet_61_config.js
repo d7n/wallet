@@ -1,1 +1,1 @@
-var mnemonic = "oven near option improve mechanic bottom truth hurt text jacket awful doctor";
+var mnemonic = "gown ginger enemy fish problem thumb biology job tip aware remember key";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk shed input toddler vacuum frozen age swap tortoise grace best page";
+var mnemonic = "mango machine rookie forward enroll paddle item slight outside square injury catch";

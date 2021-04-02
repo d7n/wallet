@@ -1,1 +1,1 @@
-var mnemonic = "version evil stereo family pigeon work shy display ready buffalo corn pizza";
+var mnemonic = "during swing sound want space insane tackle library spell exhibit matter judge";

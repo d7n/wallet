@@ -1,1 +1,1 @@
-var mnemonic = "chunk index female extend fringe gloom relief derive mammal giraffe engage six";
+var mnemonic = "diet spoil slab ticket tongue sponsor foster bottom census toddler zero uncle";

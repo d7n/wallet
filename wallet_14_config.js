@@ -1,1 +1,1 @@
-var mnemonic = "remind harbor scrub excuse woman choose toe rare sister uniform inquiry shiver";
+var mnemonic = "toss cricket laundry index stadium marriage pumpkin frost prison end chuckle level";

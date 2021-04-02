@@ -1,1 +1,1 @@
-var mnemonic = "certain metal drip horn dance pumpkin broom renew swim term crowd enhance";
+var mnemonic = "canoe weekend bubble key air odor casino diet earn donate uphold rail";

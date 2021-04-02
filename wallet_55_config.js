@@ -1,1 +1,1 @@
-var mnemonic = "burst equal lock boil abandon example school ill despair umbrella champion report";
+var mnemonic = "produce abstract food river caught patch envelope agent hero actual faith network";

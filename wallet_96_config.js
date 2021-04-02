@@ -1,1 +1,1 @@
-var mnemonic = "put maze regret aerobic father grass please fame pretty chimney song chimney";
+var mnemonic = "awful wisdom hire toast survey second possible hospital glue view fatigue talk";

@@ -1,1 +1,1 @@
-var mnemonic = "regular guitar swim ski miracle sea buzz make artist frequent rotate cat";
+var mnemonic = "bench dinner deputy collect come help truly father walk side resource mix";

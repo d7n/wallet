@@ -1,1 +1,1 @@
-var mnemonic = "razor brown trim cherry desert vague print retire vibrant window worth detail";
+var mnemonic = "scene high track sudden rigid cute uncle glare swarm wheel banner swim";

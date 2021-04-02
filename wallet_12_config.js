@@ -1,1 +1,1 @@
-var mnemonic = "spy other brand federal airport citizen clarify insane bless section mosquito episode";
+var mnemonic = "ten receive spread example fan usual retreat timber forum glad burst index";

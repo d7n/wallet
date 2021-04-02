@@ -1,1 +1,1 @@
-var mnemonic = "always office this usage dish cherry mushroom wheat hover ice small segment";
+var mnemonic = "range deer myth awake leaf target arrow piece voice decide album figure";

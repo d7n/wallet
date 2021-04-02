@@ -1,1 +1,1 @@
-var mnemonic = "unit mention squeeze sample leisure clog fitness used thank dragon culture possible";
+var mnemonic = "wing relief recall spare aim weasel unable ripple venue kiss nose organ";

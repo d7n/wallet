@@ -1,1 +1,1 @@
-var mnemonic = "know alarm setup diary spirit run turkey march option forum spin pumpkin";
+var mnemonic = "risk barely nation episode usage crater scene jealous damage pulp blossom hover";

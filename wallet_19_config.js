@@ -1,1 +1,1 @@
-var mnemonic = "rapid exercise square rally spray achieve biology hole pact camera sing travel";
+var mnemonic = "echo begin spread mixed boring yard response like mercy crucial input tag";

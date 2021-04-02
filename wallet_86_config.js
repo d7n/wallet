@@ -1,1 +1,1 @@
-var mnemonic = "debate essence deposit annual dream loan hard unable sense kiwi midnight hollow";
+var mnemonic = "giraffe add fold wrist hurdle disorder fiscal that huge glad vendor offer";

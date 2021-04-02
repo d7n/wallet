@@ -1,1 +1,1 @@
-var mnemonic = "aspect woman wish engine rhythm chuckle split blur soldier liar curve cram";
+var mnemonic = "benefit clerk barely pair dirt service common slam loyal hire purity glove";

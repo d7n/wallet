@@ -1,1 +1,1 @@
-var mnemonic = "element pipe live during effort calm fog acoustic abandon runway spirit face";
+var mnemonic = "inject buddy blouse inside mosquito siege gaze swing topple green chicken able";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly gauge motor reunion outer practice bench spoil inner female fine tuna";
+var mnemonic = "loud escape awesome visual near injury despair ribbon badge tackle regular weird";

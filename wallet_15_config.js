@@ -1,1 +1,1 @@
-var mnemonic = "usage topic issue attack flash actress crisp seat fee crisp bag right";
+var mnemonic = "someone million spike idea solid boil shrug fever relief vicious oblige type";

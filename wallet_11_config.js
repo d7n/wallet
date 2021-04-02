@@ -1,1 +1,1 @@
-var mnemonic = "turtle index aisle company wait apology away radar scene cabbage problem film";
+var mnemonic = "panda vicious domain gain balcony aerobic fringe object region rain detect tag";

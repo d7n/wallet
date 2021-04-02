@@ -1,1 +1,1 @@
-var mnemonic = "monitor edit choose snack remove jaguar harvest evoke sudden miracle step century";
+var mnemonic = "club screen foster ankle quick wealth infant circle royal tool armed dragon";

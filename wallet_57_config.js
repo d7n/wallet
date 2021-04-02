@@ -1,1 +1,1 @@
-var mnemonic = "okay fortune drill august manage minute exhibit police pink myth blanket future";
+var mnemonic = "vocal valve inform mixture quote merge tray float future suggest round swap";

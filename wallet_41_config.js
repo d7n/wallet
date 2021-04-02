@@ -1,1 +1,1 @@
-var mnemonic = "better maid metal voyage ahead giant amount trophy someone adapt dinosaur often";
+var mnemonic = "accident mosquito van hard tumble swim mango spice taxi burst empty toddler";

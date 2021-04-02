@@ -1,1 +1,1 @@
-var mnemonic = "kitchen matter actual page output corn tag avoid immune reward skate pair";
+var mnemonic = "shiver bronze cash orbit stay sting note cat digital letter child damage";

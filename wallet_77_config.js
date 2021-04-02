@@ -1,1 +1,1 @@
-var mnemonic = "rain easily pottery oppose unaware rescue enact sadness vote holiday produce empower";
+var mnemonic = "sand scout public sample collect transfer olive kangaroo grape alley arctic nut";

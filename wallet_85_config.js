@@ -1,1 +1,1 @@
-var mnemonic = "shove person only festival leave friend together answer comic fire replace barrel";
+var mnemonic = "disease depart erode fashion top visa also oil nation document guilt elevator";

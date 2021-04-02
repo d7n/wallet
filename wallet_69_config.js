@@ -1,1 +1,1 @@
-var mnemonic = "capital front soup chalk coil tip draw spice adapt copper rug uncle";
+var mnemonic = "pluck visual pass faith pledge online much accident exercise wise round weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "verb razor great promote pull peace forward romance announce payment believe broken";
+var mnemonic = "unit seat peanut fragile large sail foot tragic wait wood defense heavy";

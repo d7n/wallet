@@ -1,1 +1,1 @@
-var mnemonic = "renew basic tuition silly ghost theme family develop mixture replace gentle vault";
+var mnemonic = "shallow polar comic isolate what gentle today gym prison cause young coyote";

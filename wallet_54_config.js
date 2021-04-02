@@ -1,1 +1,1 @@
-var mnemonic = "clap sunny match acid rigid stage voice stadium buyer merit junk curtain";
+var mnemonic = "saddle track perfect garden brave seed gadget parrot diesel border traffic inch";

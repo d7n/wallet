@@ -1,1 +1,1 @@
-var mnemonic = "step develop basket grab elder flag enough bicycle lyrics immune alert subject";
+var mnemonic = "sail crime hurdle sphere ensure across night clock chief april kangaroo bench";

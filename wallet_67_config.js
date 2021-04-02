@@ -1,1 +1,1 @@
-var mnemonic = "fringe found letter siren diet spring exist regular helmet vocal also puppy";
+var mnemonic = "require law spoon swallow method stay fantasy rebuild alarm wear permit firm";

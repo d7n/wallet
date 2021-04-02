@@ -1,1 +1,1 @@
-var mnemonic = "dutch convince anchor enroll rural pudding cruel side action enact text roast";
+var mnemonic = "tribe tooth edge kitchen token advice gaze leopard pattern perfect rubber test";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal discover giggle skirt foil bulk robust few vote coconut tonight actor";
+var mnemonic = "they scissors hand fury silly pioneer pistol receive push horse palm safe";

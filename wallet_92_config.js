@@ -1,1 +1,1 @@
-var mnemonic = "miss monkey genre demise mosquito toilet stick lab sheriff mango plate strategy";
+var mnemonic = "pioneer split purse dinner build inform visa badge garden enhance this labor";

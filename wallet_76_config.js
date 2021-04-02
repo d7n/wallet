@@ -1,1 +1,1 @@
-var mnemonic = "beach first furnace second supply dance drive deposit sail equal smile skill";
+var mnemonic = "tag base cat morning amount crazy pottery shine federal decrease group tower";

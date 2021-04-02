@@ -1,1 +1,1 @@
-var mnemonic = "zone erode sustain setup refuse beef require virus garbage vacuum giraffe drink";
+var mnemonic = "sad phone task connect school loud forget pledge boost wedding decade earth";

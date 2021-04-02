@@ -1,1 +1,1 @@
-var mnemonic = "allow expose winner begin evidence round blade ride turtle name fever hover";
+var mnemonic = "eye crawl afford network upset relax scene exist sponsor invite lawn rotate";

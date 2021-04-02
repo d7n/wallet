@@ -1,1 +1,1 @@
-var mnemonic = "hub vapor depend margin museum dry legal funny ostrich flip obvious source";
+var mnemonic = "grit future kind aisle retire crop humble witness help lake usual fall";

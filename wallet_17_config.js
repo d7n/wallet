@@ -1,1 +1,1 @@
-var mnemonic = "affair powder devote drama mass paper focus teach buyer process radar minute";
+var mnemonic = "private absorb cage agent search hammer kiss outdoor token artist miss save";

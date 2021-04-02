@@ -1,1 +1,1 @@
-var mnemonic = "bundle soul wrestle viable swing vast mixed knife tag scale amused child";
+var mnemonic = "cost castle easily recipe range glimpse congress flip visual circle empty agree";

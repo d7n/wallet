@@ -1,1 +1,1 @@
-var mnemonic = "code grow orchard actress poet key purchase urge robust hip fortune welcome";
+var mnemonic = "just grief suspect issue distance lizard awake squeeze legend quote holiday dry";

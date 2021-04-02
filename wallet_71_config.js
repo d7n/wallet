@@ -1,1 +1,1 @@
-var mnemonic = "better security veteran design liquid coin awkward butter useless away behind wear";
+var mnemonic = "result bean spice trick peanut language impulse inhale rail world aim huge";

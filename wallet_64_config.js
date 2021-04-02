@@ -1,1 +1,1 @@
-var mnemonic = "need mushroom retire lobster tired strong bacon tape announce fit wedding latin";
+var mnemonic = "control doctor trouble similar able renew rather cover reason motor base scale";

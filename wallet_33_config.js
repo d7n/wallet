@@ -1,1 +1,1 @@
-var mnemonic = "buzz cube latin thunder weapon anxiety ivory pelican reward sponsor aunt fossil";
+var mnemonic = "appear govern dog witness develop garlic clinic identify casino bitter soul spray";

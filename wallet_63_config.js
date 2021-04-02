@@ -1,1 +1,1 @@
-var mnemonic = "wheel latin wall obscure crouch chat copy gather police buffalo hungry inflict";
+var mnemonic = "wear goddess defy ramp strategy worry dutch toast twist stand imitate code";

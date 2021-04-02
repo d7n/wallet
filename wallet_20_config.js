@@ -1,1 +1,1 @@
-var mnemonic = "decade bubble trash match grid winter grape guitar paper another piano add";
+var mnemonic = "fade office rely cram hero crew leave reduce lake scale trouble industry";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme night energy owner machine exist ensure sort grape dismiss scrap renew";
+var mnemonic = "shell away auction finger father object window inherit extend scrap okay awful";

@@ -1,1 +1,1 @@
-var mnemonic = "game notable breeze valid harsh author defense poet slide double wrestle body";
+var mnemonic = "music very bicycle garden over connect taste record supply glance finger rib";

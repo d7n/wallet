@@ -1,1 +1,1 @@
-var mnemonic = "youth suspect lift ill inherit practice plunge world cart bamboo coconut notable";
+var mnemonic = "matrix canvas scale clog key certain car citizen about tray scout bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "spell drama cherry hour speak panther trim business invest pudding sport globe";
+var mnemonic = "claw cement expect arrive grid neutral betray sauce nice hope end pelican";

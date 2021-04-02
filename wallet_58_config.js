@@ -1,1 +1,1 @@
-var mnemonic = "dumb six amazing genius congress volume coin destroy truth shuffle timber damp";
+var mnemonic = "twin erupt misery scout century guilt clean miss tuna dust express museum";

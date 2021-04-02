@@ -1,1 +1,1 @@
-var mnemonic = "nasty wave certain glory office satisfy debate erosion primary canvas moral armor";
+var mnemonic = "gospel enlist misery web mansion box obey violin finger crush maid field";

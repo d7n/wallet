@@ -1,1 +1,1 @@
-var mnemonic = "blur second shoot hat betray giggle suspect wrestle salute earth waste cabin";
+var mnemonic = "jump will ocean analyst bean million despair wing focus wrist betray civil";

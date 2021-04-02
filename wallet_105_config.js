@@ -1,1 +1,1 @@
-var mnemonic = "miracle buzz car crawl pear swear mother whale denial lake tooth huge";
+var mnemonic = "mandate vault april parrot throw switch cousin theme brick hurry around vital";

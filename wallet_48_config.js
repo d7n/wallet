@@ -1,1 +1,1 @@
-var mnemonic = "there define edge drink way flavor creek reflect family drama cliff modify";
+var mnemonic = "stamp bonus noise dizzy relax fatigue key tray museum pencil feature apple";

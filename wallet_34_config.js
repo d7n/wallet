@@ -1,1 +1,1 @@
-var mnemonic = "day lobster point usage lizard media exact casino index hawk print evil";
+var mnemonic = "laptop still vanish area figure lizard monkey occur term embark normal roof";

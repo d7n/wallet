@@ -1,1 +1,1 @@
-var mnemonic = "bomb melody video dress cram waste keen book adult cliff among second";
+var mnemonic = "satoshi access office divide upper clinic cruise fall steel race chalk elder";

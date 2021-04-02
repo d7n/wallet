@@ -1,1 +1,1 @@
-var mnemonic = "wreck betray lyrics situate jaguar use trophy erupt unit matter off marble";
+var mnemonic = "picnic scorpion medal glance meadow mask doll fix chase render absurd provide";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme captain tower mutual tunnel crack clap mammal culture vacant can boost";
+var mnemonic = "range identify favorite basic kingdom visual weather escape issue zebra south science";
