@@ -1,1 +1,1 @@
-var mnemonic = "govern wire improve dolphin pumpkin crime brand toe setup liberty palace myth";
+var mnemonic = "click coin close giant then kidney jeans humble bounce random potato mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "museum diagram topple timber fan salon net pepper confirm embody song lizard";
+var mnemonic = "rough chief beyond arch enroll project right tomato soap wire album foil";

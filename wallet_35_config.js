@@ -1,1 +1,1 @@
-var mnemonic = "above margin number among add lab mutual next draw fame hole print";
+var mnemonic = "switch force guilt rate mistake term uphold art repair physical radio faculty";

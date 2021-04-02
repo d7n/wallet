@@ -1,1 +1,1 @@
-var mnemonic = "imitate october deputy trap muffin save gadget boat shallow wire wild legend";
+var mnemonic = "ozone bonus deliver thumb fan maple slush ill name demise cheap knife";

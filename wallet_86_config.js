@@ -1,1 +1,1 @@
-var mnemonic = "twist swim inform palm question box access defy decide crime street hamster";
+var mnemonic = "shine tool submit dirt staff ice mesh give result clay grain mercy";

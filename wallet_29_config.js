@@ -1,1 +1,1 @@
-var mnemonic = "inherit monitor denial two grunt occur enlist ozone hair enough beyond february";
+var mnemonic = "unique radar pistol wall oak auction critic during long close filter debris";

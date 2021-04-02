@@ -1,1 +1,1 @@
-var mnemonic = "upset fashion sibling goat design typical neglect dust common noise mass extra";
+var mnemonic = "talk crane avocado effort cake earth word gravity cool victory sea mouse";

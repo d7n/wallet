@@ -1,1 +1,1 @@
-var mnemonic = "pudding gun grief nominee glass axis foot sorry game vessel grant prepare";
+var mnemonic = "royal fine feel promote glare guilt width pumpkin mass book lobster occur";

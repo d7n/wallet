@@ -1,1 +1,1 @@
-var mnemonic = "tenant enemy coil whisper van lady excess enemy arrange wheat impact agent";
+var mnemonic = "spring champion swallow grain ethics girl cousin sketch cancel rely please link";

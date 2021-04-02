@@ -1,1 +1,1 @@
-var mnemonic = "jar super shrug milk flip give subway satoshi carpet alley report motor";
+var mnemonic = "foam extra genuine leisure couple glow eager clean pupil alarm clutch will";

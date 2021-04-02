@@ -1,1 +1,1 @@
-var mnemonic = "valid armed raw club law reason receive cereal volume lucky boil waste";
+var mnemonic = "chaos leopard stone orchard gas fine trophy round owner more omit antique";

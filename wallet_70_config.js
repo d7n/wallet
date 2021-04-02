@@ -1,1 +1,1 @@
-var mnemonic = "arrow toward snack enhance empty enact wagon film agent cattle obtain child";
+var mnemonic = "tiger creek flee surge magnet crash spider average click corn assist tree";

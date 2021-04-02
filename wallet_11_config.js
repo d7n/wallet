@@ -1,1 +1,1 @@
-var mnemonic = "label miracle segment iron swap total asset nominee live kidney fly grain";
+var mnemonic = "mass dentist process flush weird process gown scare buyer better around cup";

@@ -1,1 +1,1 @@
-var mnemonic = "sick wine title rather cherry author artist clay assume solve stumble such";
+var mnemonic = "ladder save medal since cricket infant coast wage pipe empty tuna two";

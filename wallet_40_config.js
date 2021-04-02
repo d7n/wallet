@@ -1,1 +1,1 @@
-var mnemonic = "food eager mystery own sing cement income melt install disagree sand junk";
+var mnemonic = "addict similar rail task robot rather kangaroo truth dentist music gesture flight";

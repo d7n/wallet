@@ -1,1 +1,1 @@
-var mnemonic = "wheat donor punch account torch stone appear high busy enlist insect tree";
+var mnemonic = "enroll small matter cheese swim blood guard movie wisdom blue zoo pottery";

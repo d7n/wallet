@@ -1,1 +1,1 @@
-var mnemonic = "client book sketch wood soul guide trigger balance ceiling spy turkey neck";
+var mnemonic = "place harvest endorse dutch icon attend collect pyramid safe twelve dragon wet";

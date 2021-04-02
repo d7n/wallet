@@ -1,1 +1,1 @@
-var mnemonic = "april aunt minimum ordinary matrix stage best divide actor match benefit keen";
+var mnemonic = "hire air glory loud swap comfort armor plunge echo design sketch clay";

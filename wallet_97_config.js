@@ -1,1 +1,1 @@
-var mnemonic = "price quote favorite cart bundle pretty margin spray catalog trust inform cash";
+var mnemonic = "thunder wealth salute test bulb sheriff usage critic laundry witness verb rain";

@@ -1,1 +1,1 @@
-var mnemonic = "allow ugly when thumb glove hurry believe casino attend cereal move gown";
+var mnemonic = "erode write gap asset stage body village monster deal roast alley lab";

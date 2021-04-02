@@ -1,1 +1,1 @@
-var mnemonic = "fatal rent stairs suit twelve furnace scatter wool ketchup belt such wild";
+var mnemonic = "rabbit horse slot bright struggle forward exit ill squirrel junk spare track";

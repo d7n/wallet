@@ -1,1 +1,1 @@
-var mnemonic = "bridge vivid frozen snack common syrup post scrap royal slogan decade hedgehog";
+var mnemonic = "misery topic exclude alley track test spin soft plate live speed cousin";

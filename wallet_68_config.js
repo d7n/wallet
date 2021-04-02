@@ -1,1 +1,1 @@
-var mnemonic = "emotion entire observe desert humor sausage goat save goat expire excess pear";
+var mnemonic = "rescue lunch devote sibling neck bridge flower lady helmet erosion suit lumber";

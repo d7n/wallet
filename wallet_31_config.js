@@ -1,1 +1,1 @@
-var mnemonic = "gown time flock celery weather lend evoke salad convince border crush venue";
+var mnemonic = "plug woman october then because range dinner reflect decide color world talent";

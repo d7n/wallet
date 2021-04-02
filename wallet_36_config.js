@@ -1,1 +1,1 @@
-var mnemonic = "midnight hour three saddle cousin barely rotate future duck obey cross tooth";
+var mnemonic = "crew display elephant jar anchor balcony worry panel account acid silver office";

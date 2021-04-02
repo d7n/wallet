@@ -1,1 +1,1 @@
-var mnemonic = "pledge garbage luggage escape advance globe debris second soon renew tissue glad";
+var mnemonic = "fabric carbon hurry celery extend weird worry age expire disorder shell search";

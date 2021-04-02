@@ -1,1 +1,1 @@
-var mnemonic = "lake dentist census arrest balance tell raccoon bus loyal abuse cover book";
+var mnemonic = "invest blood flock alien leader iron debris audit brass inch razor palace";

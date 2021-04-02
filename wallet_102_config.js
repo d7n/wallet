@@ -1,1 +1,1 @@
-var mnemonic = "ignore album advance pledge street swamp thunder warm crush dumb sport popular";
+var mnemonic = "cinnamon harvest shield day cry shaft upgrade extend wash sick boy eyebrow";

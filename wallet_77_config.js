@@ -1,1 +1,1 @@
-var mnemonic = "tumble escape labor happy hospital tank often only write shine clap icon";
+var mnemonic = "lonely wisdom grid cotton lion venue alert tourist unit swamp drink notice";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado twenty siren betray near dolphin tooth visual fetch effort loyal ranch";
+var mnemonic = "dice expose monster fee also canal master august hair wet aware popular";

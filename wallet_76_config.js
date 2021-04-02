@@ -1,1 +1,1 @@
-var mnemonic = "box jump click champion dance hobby glow drive acoustic permit family over";
+var mnemonic = "elder often aspect coin patrol canvas cement permit squeeze net tennis online";

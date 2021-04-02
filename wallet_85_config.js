@@ -1,1 +1,1 @@
-var mnemonic = "omit giggle garbage pumpkin cause absurd illness hover summer affair umbrella category";
+var mnemonic = "income reopen pattern prevent sad child march rubber sentence duck labor arch";

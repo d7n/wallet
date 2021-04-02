@@ -1,1 +1,1 @@
-var mnemonic = "mom fluid merry step shy buyer life weather route exclude manual file";
+var mnemonic = "control burden other drive today twice stage legal mobile post input security";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby differ leg tomato allow someone hundred grid mule benefit blade angry";
+var mnemonic = "agree barrel trial power rotate reveal quote feature enforce oxygen submit decide";

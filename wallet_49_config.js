@@ -1,1 +1,1 @@
-var mnemonic = "same survey leaf clinic domain van title girl ketchup effort finish remain";
+var mnemonic = "chaos tide coast team cotton behind dentist build benefit journey gesture choose";

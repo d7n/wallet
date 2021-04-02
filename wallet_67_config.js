@@ -1,1 +1,1 @@
-var mnemonic = "protect minimum clarify sting receive shallow arrow wonder manual grass donor tank";
+var mnemonic = "wagon climb wall blast cupboard onion engine pony salute voyage fun polar";

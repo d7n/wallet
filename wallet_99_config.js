@@ -1,1 +1,1 @@
-var mnemonic = "ribbon practice soccer visit destroy gorilla acquire certain screen online fantasy attract";
+var mnemonic = "bag unfair powder door menu measure because crawl gallery fatal tornado body";

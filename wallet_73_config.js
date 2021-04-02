@@ -1,1 +1,1 @@
-var mnemonic = "suggest throw garlic mad zone apple replace energy photo thank shift increase";
+var mnemonic = "lecture assist where conduct base exchange gun shrimp gauge cereal leaf cruise";

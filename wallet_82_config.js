@@ -1,1 +1,1 @@
-var mnemonic = "copper mule load shadow fashion oak hello future live age text knee";
+var mnemonic = "february resist ahead doll deer insect accuse blood shuffle wage elegant theme";

@@ -1,1 +1,1 @@
-var mnemonic = "funny plastic butter decrease meadow vessel head border swarm birth entry write";
+var mnemonic = "midnight settle girl canvas fee tornado crisp meadow acid corn view act";

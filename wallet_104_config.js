@@ -1,1 +1,1 @@
-var mnemonic = "trick anger enroll immune goat town private sauce maximum walnut gain pool";
+var mnemonic = "monkey cable gun loan advance device hand rather trash paddle execute boil";

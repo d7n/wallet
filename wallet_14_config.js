@@ -1,1 +1,1 @@
-var mnemonic = "melt rough bubble salute drama mansion clap eight run hunt always anchor";
+var mnemonic = "female stove carpet prosper tiny hello cricket ritual struggle surge fever bullet";

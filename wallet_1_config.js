@@ -1,1 +1,1 @@
-var mnemonic = "amazing guilt raw ahead dignity where whale visual flower announce autumn youth";
+var mnemonic = "also host steak throw inform atom need egg pretty utility language asset";

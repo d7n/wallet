@@ -1,1 +1,1 @@
-var mnemonic = "shrimp body borrow subway they slight notice citizen napkin lamp anxiety fortune";
+var mnemonic = "poet renew since world agree mother lion correct need reason off viable";

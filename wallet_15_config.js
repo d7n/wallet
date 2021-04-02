@@ -1,1 +1,1 @@
-var mnemonic = "sustain charge destroy apology token luxury wheat method need possible evil industry";
+var mnemonic = "version exact room sleep where axis bacon boss arrive agree index space";

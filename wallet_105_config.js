@@ -1,1 +1,1 @@
-var mnemonic = "tomato identify suffer child refuse write maximum monkey pumpkin demand clutch harvest";
+var mnemonic = "scrub steak remain recipe gauge silver chapter essence isolate patrol liar dance";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict fantasy forward stick fly indoor syrup six idle patch month peasant";
+var mnemonic = "size there side silent habit produce lawsuit accuse apple course office fury";

@@ -1,1 +1,1 @@
-var mnemonic = "grain spy arm lens card reason smile defy shove need actress arrow";
+var mnemonic = "disagree stomach denial idea burger dignity recycle immense oblige remind sheriff above";

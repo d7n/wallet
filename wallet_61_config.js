@@ -1,1 +1,1 @@
-var mnemonic = "admit usual author merry shell weasel kiwi talent rotate special depend toast";
+var mnemonic = "good jazz stone oxygen feed hundred magic move trip movie slam shell";

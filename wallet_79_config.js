@@ -1,1 +1,1 @@
-var mnemonic = "illness history gospel flip divide short ill physical myself victory siege chalk";
+var mnemonic = "amateur hungry badge alley pudding task cool hedgehog grape hint identify cricket";

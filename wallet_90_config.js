@@ -1,1 +1,1 @@
-var mnemonic = "always garlic hungry neglect minute bronze mask type illness health thrive remind";
+var mnemonic = "autumn never happy yard because prize brass volume club brief hidden aim";

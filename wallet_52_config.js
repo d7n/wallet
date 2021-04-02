@@ -1,1 +1,1 @@
-var mnemonic = "conduct fork sibling poverty venture setup bicycle open gravity raw drip brick";
+var mnemonic = "craft avocado utility food habit mixed coconut action alone bundle quiz hub";

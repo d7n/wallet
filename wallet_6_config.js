@@ -1,1 +1,1 @@
-var mnemonic = "rain dinosaur meadow road core bench already laugh mistake shift vicious permit";
+var mnemonic = "year economy valley liar sun teach real spot autumn industry clip aunt";

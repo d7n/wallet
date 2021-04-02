@@ -1,1 +1,1 @@
-var mnemonic = "crop vast lucky exclude coast problem shoe rebuild sorry drum wild wet";
+var mnemonic = "mistake farm chief flush detail cigar game brush clarify shift transfer genuine";

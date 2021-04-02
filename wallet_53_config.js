@@ -1,1 +1,1 @@
-var mnemonic = "travel fury east enemy brisk arctic inflict fade monitor faculty laundry race";
+var mnemonic = "unusual bitter will sugar easy sunset theme mansion width kid chief useful";

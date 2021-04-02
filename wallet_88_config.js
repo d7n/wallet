@@ -1,1 +1,1 @@
-var mnemonic = "melody exact vintage aisle bless scheme solar will clinic welcome beyond print";
+var mnemonic = "eyebrow imitate razor absent win hundred round genuine hunt slam mixed neglect";

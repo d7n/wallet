@@ -1,1 +1,1 @@
-var mnemonic = "tiger vacant flame border vehicle nice young omit print foster exact ice";
+var mnemonic = "piece stuff shift harsh glory orphan spatial session leg trigger coach among";

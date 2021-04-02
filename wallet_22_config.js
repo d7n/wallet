@@ -1,1 +1,1 @@
-var mnemonic = "swarm melody simple roast keep shoe armor remember bamboo army gravity genre";
+var mnemonic = "monkey ginger adjust comic mountain speed curtain bench wonder tunnel also pyramid";

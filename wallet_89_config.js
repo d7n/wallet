@@ -1,1 +1,1 @@
-var mnemonic = "agent become badge embrace piece orient keep position ship wood sniff canyon";
+var mnemonic = "culture six undo virtual bag smoke accuse jelly stove front accident faith";

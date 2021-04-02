@@ -1,1 +1,1 @@
-var mnemonic = "cash enable empower upset pond appear torch fury pudding fee order phrase";
+var mnemonic = "hill setup prison feature gasp repair decide gravity hire escape want mechanic";

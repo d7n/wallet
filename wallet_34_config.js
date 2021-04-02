@@ -1,1 +1,1 @@
-var mnemonic = "shove patch actor bounce roast lumber excess catch brisk shiver language muffin";
+var mnemonic = "cash defy camp illness cause file front expose seed magnet echo orient";

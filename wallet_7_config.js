@@ -1,1 +1,1 @@
-var mnemonic = "truck trust almost finish silk syrup loop develop exclude lock crouch north";
+var mnemonic = "race mandate flag awesome acid glass senior strike clog problem include view";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey issue silver midnight despair theme wreck flame cloth salmon priority cage";
+var mnemonic = "pencil cruise alert lava kick indoor flush cheap uncle copy brother rhythm";

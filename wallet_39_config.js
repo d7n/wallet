@@ -1,1 +1,1 @@
-var mnemonic = "course village combine useless chat borrow lumber artist ice penalty early bonus";
+var mnemonic = "baby donor delay surprise one swing grit patch nation arm under life";

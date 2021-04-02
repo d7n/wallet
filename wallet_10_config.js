@@ -1,1 +1,1 @@
-var mnemonic = "tray proof jeans future earth scatter shy art swallow skirt denial liquid";
+var mnemonic = "pistol say burger attract play broccoli adjust lunch jungle decade nest brisk";

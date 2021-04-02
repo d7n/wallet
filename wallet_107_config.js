@@ -1,1 +1,1 @@
-var mnemonic = "toss coral laundry smart agree toast wheat swap call tuition weather book";
+var mnemonic = "gadget amazing slush grace planet clinic satisfy mother tank heavy same direct";

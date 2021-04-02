@@ -1,1 +1,1 @@
-var mnemonic = "upset pink alter peasant another major copper victory find evolve plug friend";
+var mnemonic = "diagram adjust toast chunk team apology prosper review argue bamboo resource yard";

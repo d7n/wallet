@@ -1,1 +1,1 @@
-var mnemonic = "tank drama educate bachelor risk purity civil cycle afraid gas sugar between";
+var mnemonic = "buyer code question two mountain cement height corn swim common delay arrange";

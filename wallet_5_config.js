@@ -1,1 +1,1 @@
-var mnemonic = "chicken silly tone dash famous eternal decline lawsuit genuine invite odor month";
+var mnemonic = "giraffe orchard hundred summer clap turtle smoke core welcome crazy orange impulse";

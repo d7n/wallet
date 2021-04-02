@@ -1,1 +1,1 @@
-var mnemonic = "elbow snack pulp mandate collect toss hospital bunker guess august crack hurry";
+var mnemonic = "simple drop act way uncle antenna genius shoot ivory beyond drive rack";

@@ -1,1 +1,1 @@
-var mnemonic = "whip stock brisk fuel dolphin gate agent taste deposit bargain below fade";
+var mnemonic = "pudding roof garage seed critic mix domain dilemma bounce industry sing ozone";

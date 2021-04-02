@@ -1,1 +1,1 @@
-var mnemonic = "student gasp color alien gather salon light replace boy describe odor phone";
+var mnemonic = "exact ocean ecology green daring exhibit flash prison defy oblige social sell";

@@ -1,1 +1,1 @@
-var mnemonic = "topple survey robust foil patient feel burst spatial domain ostrich fiscal thank";
+var mnemonic = "knife cave educate final also depth capable allow egg sketch kiwi illness";

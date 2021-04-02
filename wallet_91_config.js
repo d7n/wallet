@@ -1,1 +1,1 @@
-var mnemonic = "direct olive inspire obscure derive jewel artwork life index grunt develop insect";
+var mnemonic = "girl fold curtain music because glance floor live elbow laundry antique dry";

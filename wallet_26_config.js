@@ -1,1 +1,1 @@
-var mnemonic = "unaware spring mercy hidden screen silent vault quarter wing plunge obvious claim";
+var mnemonic = "inject page reject this uncle false target horn local tip hub whip";

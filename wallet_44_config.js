@@ -1,1 +1,1 @@
-var mnemonic = "avocado resemble sport endorse speak weekend banana family meadow kitchen level empower";
+var mnemonic = "bird problem sight oil language lesson habit father chronic tail brand brother";

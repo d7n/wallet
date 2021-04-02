@@ -1,1 +1,1 @@
-var mnemonic = "forget grab river verify stay lobster cannon theme analyst drift narrow lunar";
+var mnemonic = "body client mixture prize buzz sport tragic knee purchase canvas peace mansion";

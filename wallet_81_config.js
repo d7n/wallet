@@ -1,1 +1,1 @@
-var mnemonic = "west cycle abuse palm donor repeat uniform pink ivory volcano resemble jeans";
+var mnemonic = "success heavy coil boring under tunnel hawk health draft idea craft bid";

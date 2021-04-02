@@ -1,1 +1,1 @@
-var mnemonic = "want acquire riot enrich soda hand verb warrior accident caution clerk educate";
+var mnemonic = "elder trial vapor depart proud warfare vital marine enrich gesture couple romance";

@@ -1,1 +1,1 @@
-var mnemonic = "orient apple fine party army enlist hand october auction then woman fever";
+var mnemonic = "short simple wool frozen punch dial hurry clock explain enact proud major";

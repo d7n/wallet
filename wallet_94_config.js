@@ -1,1 +1,1 @@
-var mnemonic = "reveal undo farm large second ostrich solid river hunt angle start indicate";
+var mnemonic = "toddler square family audit stove material warfare chat almost music road tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom there able lemon area employ sail trend equal art rice until";
+var mnemonic = "fossil joy knife paper private slim coil clinic raw seat banana animal";

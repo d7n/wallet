@@ -1,1 +1,1 @@
-var mnemonic = "claw drip control solve rebel dismiss spring injury field copper crystal polar";
+var mnemonic = "column else busy auction impose weekend possible cricket range tip before voice";

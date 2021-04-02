@@ -1,1 +1,1 @@
-var mnemonic = "must burger pelican subject notable rose permit nephew like awesome list hurdle";
+var mnemonic = "marine enhance draw defense pause depart crystal cat act switch car steel";

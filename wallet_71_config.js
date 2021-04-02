@@ -1,1 +1,1 @@
-var mnemonic = "inject umbrella gasp spoil found unhappy leave pumpkin absorb game biology century";
+var mnemonic = "predict swim goat toss bachelor defense merry way gorilla animal rain record";

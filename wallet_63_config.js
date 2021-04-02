@@ -1,1 +1,1 @@
-var mnemonic = "nerve wire lemon tribe edge saddle taxi quality cereal frog upon hole";
+var mnemonic = "check congress wage amazing real blade camera casual journey already about matrix";

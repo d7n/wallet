@@ -1,1 +1,1 @@
-var mnemonic = "spare giggle length climb color concert voice impulse lock excuse shop client";
+var mnemonic = "video modify midnight key boy found meadow exit become token suffer ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle mistake pet train sunset saddle leopard relief water walnut future harvest";
+var mnemonic = "unable whale oval bunker author garage reflect century anchor wasp clump ability";

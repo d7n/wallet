@@ -1,1 +1,1 @@
-var mnemonic = "rifle tunnel near version theory awful capital learn acoustic dust praise eye";
+var mnemonic = "mask steel parrot average prosper buddy pretty extend differ cabin april eight";

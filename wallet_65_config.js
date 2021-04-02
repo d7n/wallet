@@ -1,1 +1,1 @@
-var mnemonic = "fancy jacket waste pioneer pact record early symptom surge squirrel later width";
+var mnemonic = "parent vicious decorate inform funny cupboard wear tourist hurt reform pave chat";

@@ -1,1 +1,1 @@
-var mnemonic = "can stock crane silk achieve burger nice moral digital edit napkin web";
+var mnemonic = "exist ski major video convince quote erosion spice jacket nest lobster cram";
