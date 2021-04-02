@@ -1,1 +1,1 @@
-var mnemonic = "venture struggle boost average example violin gun car kitten step suffer guide";
+var mnemonic = "nephew theme sick foam half way deal emerge tank horse fluid thunder";

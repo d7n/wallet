@@ -1,1 +1,1 @@
-var mnemonic = "fiber knee crazy state resource sock attitude trick relax symptom donate outdoor";
+var mnemonic = "camp bridge rain old dirt offer already settle gospel animal egg minor";

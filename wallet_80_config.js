@@ -1,1 +1,1 @@
-var mnemonic = "response another possible slender keen host live genuine bring shift sauce neither";
+var mnemonic = "scare cry security jealous glue steak goddess catch truly knock social possible";

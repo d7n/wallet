@@ -1,1 +1,1 @@
-var mnemonic = "inside can rib genius congress dynamic school weird resist want laptop order";
+var mnemonic = "poem term cave misery mom ski exhibit pill crash online empty stock";

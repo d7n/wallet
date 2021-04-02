@@ -1,1 +1,1 @@
-var mnemonic = "banner media mail shallow solution exercise try aisle pulse change skull cube";
+var mnemonic = "candy profit task prefer artwork flower sketch park divert rose nephew soap";

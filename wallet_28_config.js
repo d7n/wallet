@@ -1,1 +1,1 @@
-var mnemonic = "hurry need attitude share toilet shoe scout dutch pulp borrow horror estate";
+var mnemonic = "fine liar visa young style time trade taste muffin hip boil matrix";

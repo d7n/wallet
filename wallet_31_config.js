@@ -1,1 +1,1 @@
-var mnemonic = "ride meat lonely same print honey amazing tonight attend desk message reject";
+var mnemonic = "exhibit chase differ life pig stem spy pottery own loan skin burden";

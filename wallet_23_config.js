@@ -1,1 +1,1 @@
-var mnemonic = "cancel resource fault zero pass gravity clump grit girl balance just cruise";
+var mnemonic = "wrist weapon artwork visit retire sight lend brain ozone lake polar teach";

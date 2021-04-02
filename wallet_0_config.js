@@ -1,1 +1,1 @@
-var mnemonic = "scrap age fabric sure magnet sting debris sunset season pet artefact parent";
+var mnemonic = "melt crouch announce volcano scene garment please short muscle antique volume purpose";

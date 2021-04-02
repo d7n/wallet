@@ -1,1 +1,1 @@
-var mnemonic = "minimum erase cherry tilt belt dress cave era voyage metal hen theme";
+var mnemonic = "legal giggle blame sibling describe rubber jump uphold remember scissors bind typical";

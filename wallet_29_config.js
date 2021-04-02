@@ -1,1 +1,1 @@
-var mnemonic = "flame vendor drop picture soap moral robust mansion lava face design glove";
+var mnemonic = "unknown fiction hurt also dirt tray dutch cover outside charge sun market";

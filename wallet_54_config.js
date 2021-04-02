@@ -1,1 +1,1 @@
-var mnemonic = "explain pottery skull song purpose impulse penalty shoulder march pluck begin organ";
+var mnemonic = "pigeon dry cancel two seat curious relief horror sniff tell display valley";

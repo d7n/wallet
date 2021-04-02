@@ -1,1 +1,1 @@
-var mnemonic = "seven furnace denial limb mechanic sibling property vintage bus walnut canvas legend";
+var mnemonic = "garden betray amazing usage fork copper bullet alley allow dolphin glance recipe";

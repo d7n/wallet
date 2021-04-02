@@ -1,1 +1,1 @@
-var mnemonic = "motor elephant pride celery hybrid dynamic pen detect sample pass pumpkin enemy";
+var mnemonic = "forward creek neck rocket seven matter essay satisfy flip matter chunk inquiry";

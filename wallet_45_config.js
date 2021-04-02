@@ -1,1 +1,1 @@
-var mnemonic = "predict clip stem plate sunset cook orbit rely love orchard tornado invite";
+var mnemonic = "sauce asset pride fortune obvious cage flock bench congress reflect marble unfold";

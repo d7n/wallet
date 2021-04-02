@@ -1,1 +1,1 @@
-var mnemonic = "enforce gather amused polar motor tag correct session horse extend visual clay";
+var mnemonic = "inform sun adult enter balcony collect include deputy boy kidney defy april";

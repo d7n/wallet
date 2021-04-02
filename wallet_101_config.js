@@ -1,1 +1,1 @@
-var mnemonic = "water frame hair whisper giant message awesome two ecology junior gold choose";
+var mnemonic = "topple ritual retreat volume arch loyal marriage trend virtual must educate lecture";

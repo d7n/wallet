@@ -1,1 +1,1 @@
-var mnemonic = "fee speak curtain midnight obey mercy model electric palm service size process";
+var mnemonic = "old negative olive length giggle casual beef guide parade pepper buddy anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "erase eternal axis spread sing suspect add become base metal notable exile";
+var mnemonic = "oblige common beef huge cloud learn dream rent office draft quote mobile";

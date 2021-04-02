@@ -1,1 +1,1 @@
-var mnemonic = "tooth open flame dish actress key hen lift candy height faint auction";
+var mnemonic = "gadget bunker practice what position tackle bonus monitor solid length grant toward";

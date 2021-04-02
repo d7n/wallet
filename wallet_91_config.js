@@ -1,1 +1,1 @@
-var mnemonic = "float start humor stuff truth patient vote ladder twist senior into stand";
+var mnemonic = "parent shove author volcano write reduce change insect daughter speed what decorate";

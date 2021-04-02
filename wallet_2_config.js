@@ -1,1 +1,1 @@
-var mnemonic = "prize unhappy copy kid gain describe bus auction price curious flip art";
+var mnemonic = "favorite error finger disease ocean milk huge pattern glove office runway coach";

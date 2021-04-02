@@ -1,1 +1,1 @@
-var mnemonic = "caught proud fiscal teach shiver angry tree pig slab coffee child surround";
+var mnemonic = "bronze rough brief joy update type route little torch payment tide inmate";

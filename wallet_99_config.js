@@ -1,1 +1,1 @@
-var mnemonic = "desk horn champion horse network child course struggle fatigue number despair color";
+var mnemonic = "another water fitness mix vacant mimic jaguar report dance apart magnet weapon";

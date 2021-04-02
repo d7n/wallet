@@ -1,1 +1,1 @@
-var mnemonic = "detail rotate grace retire fit manual always balcony trend million trade consider";
+var mnemonic = "gloom twelve second bench point expire parent coral earth turkey lumber expand";

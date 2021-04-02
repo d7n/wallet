@@ -1,1 +1,1 @@
-var mnemonic = "current reveal fan music kit mystery wife charge size emotion ice purity";
+var mnemonic = "rent soft laundry old inch stamp neck chunk inquiry host super initial";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel short retreat garbage force more rib venture start camp velvet reform";
+var mnemonic = "chest marriage rare meadow february ribbon brain message daughter bench cloth solar";

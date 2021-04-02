@@ -1,1 +1,1 @@
-var mnemonic = "nuclear crash auto loud spare enact message reunion beyond idle ozone opinion";
+var mnemonic = "tongue arrest elder chalk such room nurse sorry total margin tilt share";

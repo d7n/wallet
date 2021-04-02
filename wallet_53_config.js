@@ -1,1 +1,1 @@
-var mnemonic = "erode else rubber drama genius trap recall orphan fire subway method bread";
+var mnemonic = "congress swing fragile toy canyon sad base fiscal garden armor trick reunion";

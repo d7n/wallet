@@ -1,1 +1,1 @@
-var mnemonic = "crazy system forum mix wheat safe scare nuclear analyst robust ahead calm";
+var mnemonic = "matrix ocean cup address female mom install patient million undo hill scissors";

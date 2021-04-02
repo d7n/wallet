@@ -1,1 +1,1 @@
-var mnemonic = "begin ostrich base dizzy doctor clap decrease soccer try attack twist decade";
+var mnemonic = "milk theory tackle sentence firm demise better floor join truly build spend";

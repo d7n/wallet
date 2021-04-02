@@ -1,1 +1,1 @@
-var mnemonic = "choose trim topple damp hire deposit wall text major street pyramid aim";
+var mnemonic = "sure twice urban danger spice tribe nurse tent source movie time kind";

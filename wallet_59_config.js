@@ -1,1 +1,1 @@
-var mnemonic = "oyster mix thrive paddle crucial movie liar dance want analyst pride lazy";
+var mnemonic = "carry correct spoon toe alley shell forget mistake renew blur relief couch";

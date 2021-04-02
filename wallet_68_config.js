@@ -1,1 +1,1 @@
-var mnemonic = "fragile grape stage enemy bean rude early bag wine genuine someone shaft";
+var mnemonic = "fancy indicate topic amazing carpet echo burger urge code fog cement fever";

@@ -1,1 +1,1 @@
-var mnemonic = "awful negative essay diesel void question slot neutral feel hotel verb engage";
+var mnemonic = "volcano amazing into large female hand grain useful cave gorilla cover tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "example fetch risk tuna human vast swear below still journey enroll lucky";
+var mnemonic = "east toddler since horse spread dirt enjoy evil erode note same warm";

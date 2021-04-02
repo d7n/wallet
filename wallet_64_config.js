@@ -1,1 +1,1 @@
-var mnemonic = "program rice tiny taxi leader first pitch chef foam reason peasant sadness";
+var mnemonic = "soon school strike unit equal music whale artefact lens sustain hand cousin";

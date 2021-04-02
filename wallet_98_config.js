@@ -1,1 +1,1 @@
-var mnemonic = "fury bargain bubble flat derive sphere brave cloud common space pretty senior";
+var mnemonic = "magnet aisle spy fresh excuse situate pilot execute reduce color noble mouse";

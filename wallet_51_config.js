@@ -1,1 +1,1 @@
-var mnemonic = "hunt slush glory arch useless obtain evolve moon resemble panda because modify";
+var mnemonic = "rack kit room note embark evil squirrel shoe siege armed mechanic warrior";

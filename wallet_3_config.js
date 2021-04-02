@@ -1,1 +1,1 @@
-var mnemonic = "reject sketch census credit visit just ostrich crazy typical praise quote skin";
+var mnemonic = "ketchup into slice patient gauge spray social bargain rigid box guard eagle";

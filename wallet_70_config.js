@@ -1,1 +1,1 @@
-var mnemonic = "polar loyal prize hobby cinnamon region acquire find admit milk strategy easy";
+var mnemonic = "era have brain budget build still drink begin father artist robot dial";

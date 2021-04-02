@@ -1,1 +1,1 @@
-var mnemonic = "warfare pitch fury bag lonely pig slight scorpion virtual educate van gap";
+var mnemonic = "entry you quality raise upset shallow guard hero slight tooth short index";

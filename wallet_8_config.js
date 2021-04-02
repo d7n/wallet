@@ -1,1 +1,1 @@
-var mnemonic = "deputy awake dynamic place maze female casual stick tiny document throw next";
+var mnemonic = "rapid daughter theory bracket achieve extend practice host phone exit view craft";

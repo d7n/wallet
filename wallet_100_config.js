@@ -1,1 +1,1 @@
-var mnemonic = "away burst range return soul junk convince hope segment remove situate peanut";
+var mnemonic = "another idea advice manage code gap wash pledge garment office identify between";

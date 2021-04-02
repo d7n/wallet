@@ -1,1 +1,1 @@
-var mnemonic = "mimic snow labor pencil deal attend buddy laundry enemy render brave buzz";
+var mnemonic = "limb shiver ginger metal gym hurry forward city filter pole museum lucky";

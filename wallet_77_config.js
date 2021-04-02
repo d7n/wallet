@@ -1,1 +1,1 @@
-var mnemonic = "blind fruit betray carry doctor tragic smoke off town mercy kiwi boring";
+var mnemonic = "miss argue cram disease leader ribbon chronic salt ring judge speak priority";

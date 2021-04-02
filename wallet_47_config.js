@@ -1,1 +1,1 @@
-var mnemonic = "radar chat hint chief access differ human angry front mechanic legend onion";
+var mnemonic = "purse double dolphin make luxury ahead hood unable empower fever bacon diary";

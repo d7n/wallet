@@ -1,1 +1,1 @@
-var mnemonic = "shoot ten dinner ramp item youth praise rib royal water hungry calm";
+var mnemonic = "street satoshi rain family pepper report machine hungry claim nerve actress metal";

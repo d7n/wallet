@@ -1,1 +1,1 @@
-var mnemonic = "bless ketchup sport current smooth this office often phrase awkward salt share";
+var mnemonic = "damp brass admit screen umbrella enjoy assist energy payment estate tomorrow require";

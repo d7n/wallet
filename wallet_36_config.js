@@ -1,1 +1,1 @@
-var mnemonic = "machine federal fluid trumpet rather runway join opera divorce bottom keep twist";
+var mnemonic = "need sun pride harbor female edge emerge hurt change diet viable razor";

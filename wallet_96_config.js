@@ -1,1 +1,1 @@
-var mnemonic = "old base snap business snow glove upper survey baby carpet nerve sport";
+var mnemonic = "sausage private say vicious change oval swamp latin scrap vapor know gold";

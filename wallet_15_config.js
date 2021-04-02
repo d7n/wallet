@@ -1,1 +1,1 @@
-var mnemonic = "notable version digital jealous salt sibling will fog comfort illness smart height";
+var mnemonic = "token sure twin remind pave illegal shuffle again strong where fiscal recipe";

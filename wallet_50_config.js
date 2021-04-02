@@ -1,1 +1,1 @@
-var mnemonic = "mechanic lunar hope ski weapon hundred glove pottery whale elbow arrest silent";
+var mnemonic = "grief code act knee rocket blossom cream provide pepper figure cruise grief";

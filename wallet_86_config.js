@@ -1,1 +1,1 @@
-var mnemonic = "elephant super lamp slice sentence fringe phrase bag fatigue stomach animal limb";
+var mnemonic = "lottery buddy raven you napkin access access burden figure disagree only bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak party lady volume skull already siren artwork erase damp exclude poverty";
+var mnemonic = "narrow gift knife ability pear unaware oppose myth veteran online tooth ring";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist trip vibrant range pelican current argue attitude public term agree eager";
+var mnemonic = "bulb tiny master sugar shed episode brand auto wasp slide tower write";

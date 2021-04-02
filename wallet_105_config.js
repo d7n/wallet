@@ -1,1 +1,1 @@
-var mnemonic = "romance return slush exotic turtle only idle rigid coyote gravity degree tuna";
+var mnemonic = "toss robot miss shrug nominee demand kind rent farm antique knee humor";

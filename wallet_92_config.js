@@ -1,1 +1,1 @@
-var mnemonic = "wagon toilet company slight meadow crisp diesel target stand dignity moment miracle";
+var mnemonic = "leader barrel carry story gloom twelve strong speak crawl matter axis urge";

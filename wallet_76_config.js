@@ -1,1 +1,1 @@
-var mnemonic = "father globe require width luxury observe simple excess liquid kid pioneer affair";
+var mnemonic = "gold obvious upgrade erupt share service capital load pitch base between theory";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty profit secret glide addict alarm uphold guard rent arrange change adapt";
+var mnemonic = "train drum february picnic surround seed foster story square shaft kidney about";

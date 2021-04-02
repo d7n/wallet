@@ -1,1 +1,1 @@
-var mnemonic = "cute stuff awkward isolate mass tired zebra risk super latin noble mom";
+var mnemonic = "pelican bulb enhance hurry art robust arrange trade aim cause already media";

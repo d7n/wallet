@@ -1,1 +1,1 @@
-var mnemonic = "pass fade nerve you stumble prepare width vicious giggle palace black any";
+var mnemonic = "leaf catalog peace grow cart zero easy try clock decline nuclear bundle";

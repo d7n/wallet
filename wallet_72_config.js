@@ -1,1 +1,1 @@
-var mnemonic = "bargain note lend you drop fancy quarter cause weather clump you nice";
+var mnemonic = "chat exercise much cotton bird later lake bacon fame degree include roast";

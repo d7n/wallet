@@ -1,1 +1,1 @@
-var mnemonic = "apology prefer wide swamp beyond place orphan present gallery biology high remove";
+var mnemonic = "lab spot reveal coconut hole hamster drum patient roast about bench wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst burden ghost valve beach rice burger obey razor aim witness grief";
+var mnemonic = "gravity visual find easily abstract solve radar antique balance asthma confirm today";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty celery mango lens hawk uncover salad risk awkward order artefact isolate";
+var mnemonic = "define fuel badge domain shop clutch crowd soccer left essay moon metal";

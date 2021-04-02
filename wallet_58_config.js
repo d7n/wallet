@@ -1,1 +1,1 @@
-var mnemonic = "surround lady place domain devote require rib grid connect effort tone toy";
+var mnemonic = "shell exotic choice banana tortoise blind want suspect must once certain sick";

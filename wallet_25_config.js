@@ -1,1 +1,1 @@
-var mnemonic = "ask strategy wisdom gorilla crucial orchard leisure hard thunder wet punch anchor";
+var mnemonic = "know fresh play inquiry lion gospel weekend enjoy episode acoustic uniform suffer";

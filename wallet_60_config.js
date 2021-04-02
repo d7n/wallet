@@ -1,1 +1,1 @@
-var mnemonic = "ill glance exchange stem antenna solution retire pony wine cheap patch dutch";
+var mnemonic = "belt motor sphere practice town velvet dance fabric diagram program helmet plastic";

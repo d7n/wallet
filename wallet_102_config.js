@@ -1,1 +1,1 @@
-var mnemonic = "live tool still inside message marine news number miracle cluster visa opinion";
+var mnemonic = "lemon bomb verb wonder typical quit divorce defense believe tennis frog toe";

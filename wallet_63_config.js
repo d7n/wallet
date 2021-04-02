@@ -1,1 +1,1 @@
-var mnemonic = "multiply minimum inflict drama tail kit chest permit remember tip hello first";
+var mnemonic = "price device bicycle pair infant speed input sweet shoulder fold suit add";

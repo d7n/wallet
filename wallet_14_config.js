@@ -1,1 +1,1 @@
-var mnemonic = "hawk material prevent dice celery icon trim nature coyote eternal high idea";
+var mnemonic = "economy giggle income mobile dream siren regular shiver because clerk lake tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "balance lunch giggle cradle glory immune absurd sad robust point tank jewel";
+var mnemonic = "nice shallow river symbol spend bid monster check ensure useless barely enter";

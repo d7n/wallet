@@ -1,1 +1,1 @@
-var mnemonic = "mask mask risk payment east hobby script response twist juice hood green";
+var mnemonic = "rate between below drift toilet soft arrive diamond twin fantasy tourist object";

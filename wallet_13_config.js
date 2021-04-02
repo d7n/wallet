@@ -1,1 +1,1 @@
-var mnemonic = "nurse sheriff peasant enroll mule sadness auto tiny owner funny armor useful";
+var mnemonic = "turkey frozen boat tail modify orchard cushion cube organ north scan wrong";

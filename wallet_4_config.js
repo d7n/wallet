@@ -1,1 +1,1 @@
-var mnemonic = "tape already corn topple option thing weather odor inside purse creek season";
+var mnemonic = "arrow wagon dumb cousin shop bus domain strong subway struggle battle rigid";

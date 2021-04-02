@@ -1,1 +1,1 @@
-var mnemonic = "combine exotic diary pupil shrimp holiday jaguar decrease select monitor joke senior";
+var mnemonic = "gravity grain swift urban cream chalk survey soup odor search narrow real";

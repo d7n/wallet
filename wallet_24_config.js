@@ -1,1 +1,1 @@
-var mnemonic = "tree cage series hunt stadium puzzle segment width social amateur rifle become";
+var mnemonic = "police library cheap unique begin actor tortoise desk claw barely hamster like";

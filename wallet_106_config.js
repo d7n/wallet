@@ -1,1 +1,1 @@
-var mnemonic = "lunch dad drive stage feel nasty salt okay awful perfect lion write";
+var mnemonic = "receive funny evolve rely recall alley earth ask exhibit birth food quiz";

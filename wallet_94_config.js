@@ -1,1 +1,1 @@
-var mnemonic = "undo today witness roast used grid gauge reflect enrich ladder grocery match";
+var mnemonic = "tornado service cram garlic depend floor fade floor shuffle fat shoot naive";

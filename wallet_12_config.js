@@ -1,1 +1,1 @@
-var mnemonic = "naive kitten absurd address raven jump cannon reason trigger other symbol quarter";
+var mnemonic = "female gift silly verb six aware brick plastic reason target perfect obscure";

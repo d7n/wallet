@@ -1,1 +1,1 @@
-var mnemonic = "jewel mechanic woman achieve banner squeeze prize diesel taste resource fresh naive";
+var mnemonic = "dry verb bird cannon beef rather crunch planet proud fashion famous heart";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella fresh limb blast hurt huge depth sentence bacon beyond proud debate";
+var mnemonic = "example critic confirm sense junior camera comfort tongue squeeze wrong polar tray";

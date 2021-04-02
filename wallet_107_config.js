@@ -1,1 +1,1 @@
-var mnemonic = "duty original cost goose letter modify supply drama icon diet flower surround";
+var mnemonic = "sound game future blur banner reopen mule virtual glory arm seek have";

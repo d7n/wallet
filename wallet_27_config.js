@@ -1,1 +1,1 @@
-var mnemonic = "cry west topple firm dynamic hello strong mistake banner pride rhythm front";
+var mnemonic = "corn exist leisure hobby mouse peasant crumble obvious over dinner owner dolphin";

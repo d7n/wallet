@@ -1,1 +1,1 @@
-var mnemonic = "rural general close gold law custom enter mad way limb icon cactus";
+var mnemonic = "enter stay find camera sea receive broken surround host park draw sure";

@@ -1,1 +1,1 @@
-var mnemonic = "shield steel rigid betray require amazing must door beef write summer orient";
+var mnemonic = "fiber name perfect exact crush innocent rigid recycle thunder flavor spread interest";

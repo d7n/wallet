@@ -1,1 +1,1 @@
-var mnemonic = "advance craft derive draw ordinary choice net simple earth hour acid citizen";
+var mnemonic = "fiction hospital caution town tomato found disagree until gravity surround april bar";

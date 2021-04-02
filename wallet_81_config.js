@@ -1,1 +1,1 @@
-var mnemonic = "leisure cousin escape blouse ski pencil holiday usage wrong energy subway cry";
+var mnemonic = "celery brick kick gorilla soccer guard exhibit dose enrich luggage real slow";

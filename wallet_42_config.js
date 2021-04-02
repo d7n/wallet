@@ -1,1 +1,1 @@
-var mnemonic = "gift region heavy avocado awful under pyramid behave huge develop ability club";
+var mnemonic = "feed rubber oyster deposit input spin loan throw connect nuclear woman tone";

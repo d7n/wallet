@@ -1,1 +1,1 @@
-var mnemonic = "rabbit hire lab put swear stick emerge violin rain ordinary bread trash";
+var mnemonic = "evolve seek tennis horse fiber clog mean resemble style eager cupboard cinnamon";

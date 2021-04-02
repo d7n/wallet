@@ -1,1 +1,1 @@
-var mnemonic = "risk nurse special rescue source ketchup service maple venue swap glue garden";
+var mnemonic = "wrestle early include true addict alert ahead erosion tooth tortoise alcohol bamboo";

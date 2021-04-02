@@ -1,1 +1,1 @@
-var mnemonic = "stereo search kitten total bar girl cabin behave chaos try problem nut";
+var mnemonic = "defense universe clip sniff mosquito kiwi ancient have execute cook column aisle";

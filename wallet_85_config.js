@@ -1,1 +1,1 @@
-var mnemonic = "sport skill pigeon taxi maximum false acquire curve logic purchase begin disagree";
+var mnemonic = "badge wolf banana box antenna ill vibrant income leopard dinner monkey seek";

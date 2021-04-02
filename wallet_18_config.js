@@ -1,1 +1,1 @@
-var mnemonic = "fox eyebrow change opinion seed mind feature ethics jump inch target develop";
+var mnemonic = "nut enlist van negative jaguar roast copper sudden keep unfold olympic shine";

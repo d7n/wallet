@@ -1,1 +1,1 @@
-var mnemonic = "slim deliver gun sunset brick uphold scare festival few debris rain action";
+var mnemonic = "monster angry monster promote picture build add stage spread beauty combine eight";
