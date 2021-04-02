@@ -1,1 +1,1 @@
-var mnemonic = "breeze donor enough mammal grass kind vacant soon seed gap trim ice";
+var mnemonic = "waste fatal tomorrow minute left erase able hello ranch now script loop";

@@ -1,1 +1,1 @@
-var mnemonic = "fat tail audit strike situate cereal despair treat inch eager embrace display";
+var mnemonic = "victory spoon fat slide buyer paddle young error ivory human misery office";

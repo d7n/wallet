@@ -1,1 +1,1 @@
-var mnemonic = "patient menu husband material bargain gallery noodle keep enhance draw order rule";
+var mnemonic = "coach diagram vintage giggle invest special say gentle useless angry vintage error";

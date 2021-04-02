@@ -1,1 +1,1 @@
-var mnemonic = "impose hat joy genius upon hamster horror refuse gravity cigar between ticket";
+var mnemonic = "hero social museum able vote proof erupt grab keen silk gaze buyer";

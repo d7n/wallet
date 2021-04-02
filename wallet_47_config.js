@@ -1,1 +1,1 @@
-var mnemonic = "doctor bunker sheriff version engine shield display where relief net loan gauge";
+var mnemonic = "virtual move view grocery warfare ridge recall deny invite recall ensure test";

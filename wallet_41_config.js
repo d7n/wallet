@@ -1,1 +1,1 @@
-var mnemonic = "leisure drill auto coach domain cargo snow flee unhappy author naive bundle";
+var mnemonic = "wrap oblige reduce walk monitor bar shove know orange novel kid shell";

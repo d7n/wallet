@@ -1,1 +1,1 @@
-var mnemonic = "palace combine indicate pink key cradle grant fuel carry mandate sad bird";
+var mnemonic = "quiz lobster punch video rely rug predict brother party thrive hill obscure";

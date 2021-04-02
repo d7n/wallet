@@ -1,1 +1,1 @@
-var mnemonic = "glare unfold venue width pudding notable eight maid puzzle thumb pulp loud";
+var mnemonic = "keen taste pig art tray lens audit genuine hard kitchen acquire cabin";

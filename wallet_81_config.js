@@ -1,1 +1,1 @@
-var mnemonic = "virus ceiling license chaos cloud disorder attract seat spider salute sting squeeze";
+var mnemonic = "latin yellow frog question custom copper horse poem model dismiss base region";

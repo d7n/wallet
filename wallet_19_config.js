@@ -1,1 +1,1 @@
-var mnemonic = "spoil crazy that galaxy language acid riot island romance mail hair orient";
+var mnemonic = "outside ball man labor include mobile bean camp hybrid clock include cheese";

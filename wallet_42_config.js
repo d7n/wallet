@@ -1,1 +1,1 @@
-var mnemonic = "practice ketchup drill scene fold cement crew minimum guilt book fee squirrel";
+var mnemonic = "member focus lock pitch bridge sand lake future silly multiply image wrong";

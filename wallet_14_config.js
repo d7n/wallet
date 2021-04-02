@@ -1,1 +1,1 @@
-var mnemonic = "owner lyrics boss toe milk arrow next device cherry swallow virus anxiety";
+var mnemonic = "sweet carpet acid rug giggle tennis cup time blue diamond swarm black";

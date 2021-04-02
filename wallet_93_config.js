@@ -1,1 +1,1 @@
-var mnemonic = "risk visit dish slab winner clerk kid demise unusual bonus symptom ladder";
+var mnemonic = "plunge dignity increase dream erase water corn weasel fortune brush replace brother";

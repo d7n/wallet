@@ -1,1 +1,1 @@
-var mnemonic = "identify exclude age arctic twelve ship subway debate ability actor pen annual";
+var mnemonic = "still fish leaf winter essence canvas lady reduce task depart endorse eager";

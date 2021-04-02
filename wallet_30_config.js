@@ -1,1 +1,1 @@
-var mnemonic = "exotic child outer bicycle change endorse prefer dash educate razor network cry";
+var mnemonic = "tiny rail elephant song repeat draft shoulder verify either call paddle major";

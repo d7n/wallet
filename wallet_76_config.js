@@ -1,1 +1,1 @@
-var mnemonic = "pause warrior honey road into cheese execute square pupil forget noise fish";
+var mnemonic = "service action seek buddy pass juice language lyrics salad rough awful dream";

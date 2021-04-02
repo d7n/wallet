@@ -1,1 +1,1 @@
-var mnemonic = "stone trigger entire review regular brick robust chat marble universe giggle space";
+var mnemonic = "reason novel place post country denial open claw vintage unit tongue measure";

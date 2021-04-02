@@ -1,1 +1,1 @@
-var mnemonic = "rifle rebuild kingdom pill lunar milk insane permit kit canyon outer gain";
+var mnemonic = "polar topple toilet ahead custom misery bonus sudden nasty catch what scheme";

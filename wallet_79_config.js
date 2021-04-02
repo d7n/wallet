@@ -1,1 +1,1 @@
-var mnemonic = "tape breeze gate reveal nature master creek main you cliff manage extra";
+var mnemonic = "poverty peasant multiply cream earn ceiling offer dose govern large skate capital";

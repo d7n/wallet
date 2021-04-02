@@ -1,1 +1,1 @@
-var mnemonic = "purse hobby clown menu merit affair limit during convince cloud tank magnet";
+var mnemonic = "artwork fringe current convince drum around treat advice inform layer income mushroom";

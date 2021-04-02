@@ -1,1 +1,1 @@
-var mnemonic = "humble shoe camera napkin arrange material gain journey disagree focus pair panther";
+var mnemonic = "glory maximum shy curtain shell now sponsor excess wish business man defense";

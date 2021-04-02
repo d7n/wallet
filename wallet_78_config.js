@@ -1,1 +1,1 @@
-var mnemonic = "family coach cricket match hurt gospel salmon buffalo awesome give kick mandate";
+var mnemonic = "divorce miracle link ready element arm blossom letter mirror vivid club rack";

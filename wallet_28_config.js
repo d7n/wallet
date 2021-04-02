@@ -1,1 +1,1 @@
-var mnemonic = "attitude leg artwork ocean foil shaft apart baby blouse kit mass dizzy";
+var mnemonic = "wise daughter reason crew cute alter surround mesh west chapter any tilt";

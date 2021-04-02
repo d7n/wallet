@@ -1,1 +1,1 @@
-var mnemonic = "circle toe dice thought make whisper file enemy field amazing stone beach";
+var mnemonic = "stamp outer mandate track crop pupil job pulp fan all salute task";

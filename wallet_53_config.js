@@ -1,1 +1,1 @@
-var mnemonic = "peasant law retreat reward educate fox neutral mandate walk argue blur effort";
+var mnemonic = "spread muffin blush praise convince square tenant ice online cry gather dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "cover round lion this crowd hope coil artefact solid example test divorce";
+var mnemonic = "galaxy report subway chicken cereal sugar say subway elephant motion slide stone";

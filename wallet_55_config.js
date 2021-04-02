@@ -1,1 +1,1 @@
-var mnemonic = "rapid ladder stone animal identify world credit chimney tape flag glide coffee";
+var mnemonic = "settle awful bleak fiber argue oppose caught usage modify immense pulse indoor";

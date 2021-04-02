@@ -1,1 +1,1 @@
-var mnemonic = "path black rug math proud purpose misery wink ability vacant essay gown";
+var mnemonic = "lecture slot atom stem aware lazy vault home raw ability shoulder exercise";

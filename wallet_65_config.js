@@ -1,1 +1,1 @@
-var mnemonic = "please pave chat truck lemon satisfy club swim fruit kit fold select";
+var mnemonic = "truth culture cabin negative today merry matter pioneer credit ritual shed convince";

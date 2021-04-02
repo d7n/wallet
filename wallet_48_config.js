@@ -1,1 +1,1 @@
-var mnemonic = "canoe trash boss pretty decorate rotate negative spike saddle shuffle afraid toilet";
+var mnemonic = "scissors couch sell bullet slender core perfect bullet term alley jelly pave";

@@ -1,1 +1,1 @@
-var mnemonic = "upon sick noble jump seek lounge kitchen smoke faith deal north tiny";
+var mnemonic = "soap enact either display scissors special acquire stumble second body barely treat";

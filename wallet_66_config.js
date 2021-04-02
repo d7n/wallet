@@ -1,1 +1,1 @@
-var mnemonic = "noise electric lawsuit iron where transfer peanut fashion more memory shell attitude";
+var mnemonic = "hybrid shy tumble arrive skull blue napkin tobacco pave sense fun parrot";

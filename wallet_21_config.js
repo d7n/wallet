@@ -1,1 +1,1 @@
-var mnemonic = "pistol shield swallow finger snack reason key abuse normal become suggest spider";
+var mnemonic = "valid language bulk defy sunny argue strike pave relief wealth common capital";

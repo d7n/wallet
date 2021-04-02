@@ -1,1 +1,1 @@
-var mnemonic = "churn inflict oblige spend noodle army vicious tent tattoo foam door inherit";
+var mnemonic = "square stairs brother width amused fashion coin amount stereo style corn congress";

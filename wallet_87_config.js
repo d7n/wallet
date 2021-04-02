@@ -1,1 +1,1 @@
-var mnemonic = "glare apple latin urge dose outer critic what dash glimpse student gospel";
+var mnemonic = "rough guard flush indicate announce raccoon member property steak naive number busy";

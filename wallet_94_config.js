@@ -1,1 +1,1 @@
-var mnemonic = "spawn banana tobacco speed secret rich home firm isolate hazard marine guess";
+var mnemonic = "vacant potato staff fish east earn situate stem develop whip sponsor sock";

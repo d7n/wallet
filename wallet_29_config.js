@@ -1,1 +1,1 @@
-var mnemonic = "size better vivid roast arena harvest heavy advice dizzy butter demise orbit";
+var mnemonic = "mom panther cake basket sibling someone raven luggage flame family defense harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber carbon maple bacon relax music bunker fade snow upper album worth";
+var mnemonic = "transfer hollow garlic claw ritual scan palm toss chronic seat giraffe use";

@@ -1,1 +1,1 @@
-var mnemonic = "field noodle mutual exit stick fun youth meadow invite blast identify hidden";
+var mnemonic = "decade citizen pen slab pig crisp grunt awake ship alert dish stem";

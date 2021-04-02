@@ -1,1 +1,1 @@
-var mnemonic = "vintage balance absent wrap apple long notice waste crouch feed icon glare";
+var mnemonic = "dance dream palm screen detail village destroy road elegant nothing celery angle";

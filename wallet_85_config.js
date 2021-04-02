@@ -1,1 +1,1 @@
-var mnemonic = "color wood ordinary quick execute valid combine vacuum unlock firm almost gold";
+var mnemonic = "flee bicycle bar bottom glow curious message squeeze draft asthma coffee prevent";

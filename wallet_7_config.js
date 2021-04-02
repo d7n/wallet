@@ -1,1 +1,1 @@
-var mnemonic = "shock armor metal trash super unfair circle they promote electric alert swing";
+var mnemonic = "stem frame copper crash leopard unusual involve gaze parrot tell setup armor";

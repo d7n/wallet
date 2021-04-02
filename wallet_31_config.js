@@ -1,1 +1,1 @@
-var mnemonic = "grit walnut trust afford alien useless series cotton subject list hour slender";
+var mnemonic = "flame trip rose pear near height aspect travel wedding word purse off";

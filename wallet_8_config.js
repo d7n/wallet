@@ -1,1 +1,1 @@
-var mnemonic = "runway situate project damp topple wife equal glass civil can hidden news";
+var mnemonic = "rhythm escape recycle rapid one frost entry lion domain famous museum tool";

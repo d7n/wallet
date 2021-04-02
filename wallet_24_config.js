@@ -1,1 +1,1 @@
-var mnemonic = "anchor puzzle castle broken egg direct save spread once resource cargo fan";
+var mnemonic = "inject safe tell elephant surround marine adult arrow sugar stereo size renew";

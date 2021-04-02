@@ -1,1 +1,1 @@
-var mnemonic = "birth trip attitude glass quit agent crime question around give abuse city";
+var mnemonic = "civil gorilla thrive conduct quantum shed churn cherry frequent cabin box mosquito";

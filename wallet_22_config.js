@@ -1,1 +1,1 @@
-var mnemonic = "exile hockey absurd near day junk little carpet front shed super volume";
+var mnemonic = "rather stage taxi hour valid moment luxury jewel broccoli arrange sand toast";

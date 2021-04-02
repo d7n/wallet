@@ -1,1 +1,1 @@
-var mnemonic = "decrease practice small stick wool price float awful review again mind sibling";
+var mnemonic = "flash spider enemy orient pear code original utility delay vacuum spare biology";

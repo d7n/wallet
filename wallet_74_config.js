@@ -1,1 +1,1 @@
-var mnemonic = "husband you theory hint fiction misery sick announce tone funny access cheese";
+var mnemonic = "student unique summer floor lock drift devote assume capable layer brisk mass";

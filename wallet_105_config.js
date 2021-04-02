@@ -1,1 +1,1 @@
-var mnemonic = "soap mixture island chest slab true zebra warm trend mirror firm garage";
+var mnemonic = "human valley elder gap draw uphold fringe stable local virtual extend stairs";

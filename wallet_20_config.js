@@ -1,1 +1,1 @@
-var mnemonic = "example flame detect moment attack wisdom enrich measure next kangaroo youth sister";
+var mnemonic = "winter deer primary push hamster detect giggle ridge quiz seat slender island";

@@ -1,1 +1,1 @@
-var mnemonic = "walk voyage erode scan hungry rain dove expect plug dirt erode fog";
+var mnemonic = "spy about elbow daring tackle prize hotel soft unknown agree dose shiver";

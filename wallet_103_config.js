@@ -1,1 +1,1 @@
-var mnemonic = "aim vibrant useful cancel coast youth load minute tornado crop globe tail";
+var mnemonic = "shell buffalo office lock angle clarify element novel bubble mule romance oyster";

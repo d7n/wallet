@@ -1,1 +1,1 @@
-var mnemonic = "upset chaos wolf code fortune fee thank strike genre reject initial hour";
+var mnemonic = "decline hurry strong banner diamond upset useful snow depth spread art razor";

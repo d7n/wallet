@@ -1,1 +1,1 @@
-var mnemonic = "brown soccer human kit jump shield layer idle humor border stuff carbon";
+var mnemonic = "taste sport close isolate vote amused divorce leopard tuna return slice label";

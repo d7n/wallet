@@ -1,1 +1,1 @@
-var mnemonic = "stay include elegant aisle blast language vault rather crystal hand blue apology";
+var mnemonic = "state liberty disagree belt zone mouse sport legal task arrange lamp exhibit";

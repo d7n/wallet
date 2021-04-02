@@ -1,1 +1,1 @@
-var mnemonic = "blouse make inner excess poet swear stuff wait emerge advance inspire camera";
+var mnemonic = "tunnel solar run display away awesome glance lab green nephew fine lion";

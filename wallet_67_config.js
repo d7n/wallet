@@ -1,1 +1,1 @@
-var mnemonic = "snap place spray cage artefact zoo orange card lumber horse horse life";
+var mnemonic = "expand tube danger grass fury lawn harsh subway piece love inmate alien";

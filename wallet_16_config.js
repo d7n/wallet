@@ -1,1 +1,1 @@
-var mnemonic = "quote click raven among behind box again medal begin dumb exact winner";
+var mnemonic = "improve brass recycle ask melody brown thought guard problem winner core puppy";

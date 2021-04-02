@@ -1,1 +1,1 @@
-var mnemonic = "kiss inhale post volume twice crouch hint sign sniff enough notable lecture";
+var mnemonic = "photo celery taste render search author expect chaos target december wage index";

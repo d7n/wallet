@@ -1,1 +1,1 @@
-var mnemonic = "force position allow always weasel minute grape slam tennis woman ghost arrive";
+var mnemonic = "dizzy lawn push interest attend save wasp nice lift door debate antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "very spin emerge minimum bacon crater middle require girl scheme early unveil";
+var mnemonic = "fetch relax pond intact install awesome master slogan carbon amazing celery isolate";

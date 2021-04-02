@@ -1,1 +1,1 @@
-var mnemonic = "behave mistake front pen tuition broom moon drop come object gossip wash";
+var mnemonic = "lottery lens believe galaxy marble model seed know wealth cabbage behave can";

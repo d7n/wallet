@@ -1,1 +1,1 @@
-var mnemonic = "critic census pottery position version zone forest auction shallow habit invest fiscal";
+var mnemonic = "toilet attend rotate split poverty express area across visit era wish common";

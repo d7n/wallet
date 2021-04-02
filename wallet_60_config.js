@@ -1,1 +1,1 @@
-var mnemonic = "retreat zebra office man price cup muffin decorate feature arrange peace race";
+var mnemonic = "belt above purse deal ghost oxygen quiz weasel thing still primary popular";

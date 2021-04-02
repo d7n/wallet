@@ -1,1 +1,1 @@
-var mnemonic = "payment exclude glow ill village best height occur lottery near bronze marriage";
+var mnemonic = "hat theme saddle mention swamp board genre toward monster weekend caution market";

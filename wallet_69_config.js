@@ -1,1 +1,1 @@
-var mnemonic = "struggle holiday decide hidden stamp company drum fashion spare shoulder offer wrong";
+var mnemonic = "disorder purchase clutch combine garage tattoo three tornado correct there win future";

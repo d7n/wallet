@@ -1,1 +1,1 @@
-var mnemonic = "remove kiwi where hover protect action invest bachelor design rabbit dizzy easy";
+var mnemonic = "moment brand life furnace advance grunt adult breeze benefit fantasy bitter impact";

@@ -1,1 +1,1 @@
-var mnemonic = "material myself enroll suffer ability pizza answer decline start fade beef absurd";
+var mnemonic = "snack orient adapt pact top great save expose rule muscle meadow cook";

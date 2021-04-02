@@ -1,1 +1,1 @@
-var mnemonic = "year tomato dirt floor suffer woman idle shoulder develop ask kite emotion";
+var mnemonic = "junior vicious various song kangaroo skill mom excite general canyon dance inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "slim tiny fire cloud stage animal before any excite shine damage secret";
+var mnemonic = "candy announce better play predict absorb media duty assault hungry wheat deny";

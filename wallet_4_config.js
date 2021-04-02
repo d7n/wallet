@@ -1,1 +1,1 @@
-var mnemonic = "turtle system envelope direct gentle output egg wealth surprise drink like pipe";
+var mnemonic = "lady engine rhythm warm night garment power voyage december crane sure ketchup";

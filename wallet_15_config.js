@@ -1,1 +1,1 @@
-var mnemonic = "snap brother fish better winter neither drama dumb until parade shallow language";
+var mnemonic = "mad raccoon delay caught metal current wasp sorry spread minimum upset during";

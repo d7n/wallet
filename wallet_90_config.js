@@ -1,1 +1,1 @@
-var mnemonic = "twice future stick bridge retreat caught mechanic course clarify shuffle cake plastic";
+var mnemonic = "nuclear distance into join tooth cross great candy word marble achieve shift";

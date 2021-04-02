@@ -1,1 +1,1 @@
-var mnemonic = "cool subject online ozone lake island citizen rent easily cherry absorb rebuild";
+var mnemonic = "flip iron laptop retire unfair coffee kid holiday hour claw crazy tent";

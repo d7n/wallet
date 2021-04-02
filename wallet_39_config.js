@@ -1,1 +1,1 @@
-var mnemonic = "essence cause gold pill actress rain dignity zone reform maze invite ivory";
+var mnemonic = "crystal ask erupt erode coil travel extend recipe game exchange ahead tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "icon forget stay tape noble typical wife swarm cram resist couple chapter";
+var mnemonic = "panel vanish click rotate wire scorpion mean sponsor double release fuel message";

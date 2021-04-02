@@ -1,1 +1,1 @@
-var mnemonic = "album ethics immense unique abstract decide across boss round repeat sentence draw";
+var mnemonic = "gather delay update champion neglect grab guide joke main few music floor";

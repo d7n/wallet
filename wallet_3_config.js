@@ -1,1 +1,1 @@
-var mnemonic = "wing saddle boost brother earth buyer client eagle sting gospel city idea";
+var mnemonic = "plastic motion west sniff lens update captain battle oppose museum attract shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "simple snow detect blanket draw frown inspire announce beach frown extra wreck";
+var mnemonic = "pull carpet ten accident horse cup unhappy annual undo coach seek scare";

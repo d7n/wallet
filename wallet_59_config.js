@@ -1,1 +1,1 @@
-var mnemonic = "depend hover cute outdoor truck magnet royal reason hint arctic town slogan";
+var mnemonic = "peanut history drift taste blind genuine mammal solid truth mention sort goose";

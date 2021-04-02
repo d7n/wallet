@@ -1,1 +1,1 @@
-var mnemonic = "neither ticket usual lend taxi police genre frown bird curious ketchup remove";
+var mnemonic = "much chuckle shrug wage drastic south forest cross someone abuse claw math";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit verify print letter occur main rule turtle case rib pluck captain";
+var mnemonic = "exact swallow ribbon nest sunset sphere pilot hour hood bachelor donkey hat";

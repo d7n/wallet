@@ -1,1 +1,1 @@
-var mnemonic = "affair forget actor reason section kick smile sleep remember foil pool zone";
+var mnemonic = "pill harvest sword giant monkey dove kid chef arrow pumpkin cool noise";

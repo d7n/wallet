@@ -1,1 +1,1 @@
-var mnemonic = "decrease human point can keen spawn damp lens spend crisp trust scare";
+var mnemonic = "oak steel pupil second response plunge process thought east economy six wage";

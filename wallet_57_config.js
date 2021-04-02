@@ -1,1 +1,1 @@
-var mnemonic = "cloud client defense poet upon way crumble chair tide caution silver list";
+var mnemonic = "umbrella someone birth oval oil hazard result vacuum bleak general day enrich";

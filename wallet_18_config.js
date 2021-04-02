@@ -1,1 +1,1 @@
-var mnemonic = "debate injury grit super clever lumber fork craft inform flag table spin";
+var mnemonic = "year across zoo differ parent gown blue grocery hybrid airport slender scare";

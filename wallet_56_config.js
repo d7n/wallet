@@ -1,1 +1,1 @@
-var mnemonic = "tuition oxygen produce pupil cup float breeze slight educate sorry lawn hole";
+var mnemonic = "lion famous street detect october express merge slam mask antenna sport you";

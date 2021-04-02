@@ -1,1 +1,1 @@
-var mnemonic = "person elite magic special bacon salad fashion holiday casino rent trial cup";
+var mnemonic = "muscle disagree run index census box hope tourist index west dirt asset";
