@@ -1,1 +1,1 @@
-var mnemonic = "predict swim goat toss bachelor defense merry way gorilla animal rain record";
+var mnemonic = "thunder begin minor light wing century avocado gloom glow erupt illness trip";

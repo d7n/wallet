@@ -1,1 +1,1 @@
-var mnemonic = "elder often aspect coin patrol canvas cement permit squeeze net tennis online";
+var mnemonic = "bounce swift dismiss pet animal boy main more poet soccer quarter rebel";

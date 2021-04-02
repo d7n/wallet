@@ -1,1 +1,1 @@
-var mnemonic = "trim have dinner park wealth rib fiscal alcohol bleak pause advice risk";
+var mnemonic = "wedding hat actual clown fuel return phrase bulk tank lawsuit ankle panel";

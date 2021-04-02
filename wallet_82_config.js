@@ -1,1 +1,1 @@
-var mnemonic = "february resist ahead doll deer insect accuse blood shuffle wage elegant theme";
+var mnemonic = "science hotel cage erosion target few glad fire system cloud survey wrestle";

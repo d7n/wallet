@@ -1,1 +1,1 @@
-var mnemonic = "fault arctic slight govern uniform powder can divorce inhale outdoor quiz shell";
+var mnemonic = "raw key fiction now duck weasel mountain useful photo author reflect fun";

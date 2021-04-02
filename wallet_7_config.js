@@ -1,1 +1,1 @@
-var mnemonic = "race mandate flag awesome acid glass senior strike clog problem include view";
+var mnemonic = "crash else name spike bitter cart violin muscle measure detail bargain cigar";

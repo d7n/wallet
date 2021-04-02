@@ -1,1 +1,1 @@
-var mnemonic = "ladder save medal since cricket infant coast wage pipe empty tuna two";
+var mnemonic = "shoulder end panther divorce genre word admit verb hurdle predict panel change";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt movie leisure ancient author ranch giggle column monitor half lazy surround";
+var mnemonic = "wisdom thought scene board cinnamon champion hub syrup ritual turn deposit exotic";

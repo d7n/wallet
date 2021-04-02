@@ -1,1 +1,1 @@
-var mnemonic = "exist ski major video convince quote erosion spice jacket nest lobster cram";
+var mnemonic = "very mule mimic capital gap enough entry crane sustain reward hello purse";

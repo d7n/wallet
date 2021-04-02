@@ -1,1 +1,1 @@
-var mnemonic = "switch force guilt rate mistake term uphold art repair physical radio faculty";
+var mnemonic = "above miss baby silent lift spray toe cry grocery measure cover quote";

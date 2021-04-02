@@ -1,1 +1,1 @@
-var mnemonic = "stumble slush unit fresh tornado level enemy question street draw unveil race";
+var mnemonic = "mutual scare spatial name pretty upon decorate resist unaware fashion gain broom";

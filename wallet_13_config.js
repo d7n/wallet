@@ -1,1 +1,1 @@
-var mnemonic = "midnight settle girl canvas fee tornado crisp meadow acid corn view act";
+var mnemonic = "asthma rebuild cruel extra tooth just glimpse meat depart local axis shove";

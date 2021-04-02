@@ -1,1 +1,1 @@
-var mnemonic = "draw laptop tourist crash dress suit attend bomb cage idea obvious neither";
+var mnemonic = "glide shell radio million device cover over identify mammal gown property into";

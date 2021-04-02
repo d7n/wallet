@@ -1,1 +1,1 @@
-var mnemonic = "pistol say burger attract play broccoli adjust lunch jungle decade nest brisk";
+var mnemonic = "admit love gold blood repeat used mobile science melt jungle flock toddler";

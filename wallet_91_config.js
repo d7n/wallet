@@ -1,1 +1,1 @@
-var mnemonic = "girl fold curtain music because glance floor live elbow laundry antique dry";
+var mnemonic = "shove dry episode bar island lottery example stomach bird harvest supreme into";

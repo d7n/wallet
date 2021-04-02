@@ -1,1 +1,1 @@
-var mnemonic = "envelope rather civil cross alien news question cousin sail universe unusual relief";
+var mnemonic = "fold alter smart online sword blast spatial unfair modify brave under jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn never happy yard because prize brass volume club brief hidden aim";
+var mnemonic = "angle delay use dog start tiny narrow arrest quality arm law approve";

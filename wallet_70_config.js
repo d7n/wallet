@@ -1,1 +1,1 @@
-var mnemonic = "tiger creek flee surge magnet crash spider average click corn assist tree";
+var mnemonic = "yellow crystal vintage detail mix universe casino film abstract alpha crowd cream";

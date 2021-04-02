@@ -1,1 +1,1 @@
-var mnemonic = "monkey cable gun loan advance device hand rather trash paddle execute boil";
+var mnemonic = "detect cause whip blade humor slow reject hundred lion layer grunt hazard";

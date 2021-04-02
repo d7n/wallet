@@ -1,1 +1,1 @@
-var mnemonic = "protect cave scan orchard index legend produce material autumn doctor smoke document";
+var mnemonic = "protect teach feature symptom truly flee book chronic minute daring craft coil";

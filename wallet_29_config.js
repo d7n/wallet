@@ -1,1 +1,1 @@
-var mnemonic = "unique radar pistol wall oak auction critic during long close filter debris";
+var mnemonic = "strike custom stumble margin that crime garden bus man click jealous ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "hill setup prison feature gasp repair decide gravity hire escape want mechanic";
+var mnemonic = "alter render derive always hamster entry develop tag tent scrap point clock";

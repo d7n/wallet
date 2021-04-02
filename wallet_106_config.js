@@ -1,1 +1,1 @@
-var mnemonic = "chaos leopard stone orchard gas fine trophy round owner more omit antique";
+var mnemonic = "result tube habit latin enough harvest bottom mention unveil noble abstract thunder";

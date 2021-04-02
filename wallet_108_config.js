@@ -1,1 +1,1 @@
-var mnemonic = "erode write gap asset stage body village monster deal roast alley lab";
+var mnemonic = "magnet absorb ensure voice churn unfold uniform target iron junk clutch print";

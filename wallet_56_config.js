@@ -1,1 +1,1 @@
-var mnemonic = "embody forget foil fruit vibrant perfect receive sphere caution sting aisle shine";
+var mnemonic = "more record dinner monitor swallow random security wild card base easily maid";

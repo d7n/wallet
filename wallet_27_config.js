@@ -1,1 +1,1 @@
-var mnemonic = "buyer code question two mountain cement height corn swim common delay arrange";
+var mnemonic = "exit opera hammer motor shallow clip example pass immune skin engage noise";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder wealth salute test bulb sheriff usage critic laundry witness verb rain";
+var mnemonic = "promote tumble alpha know gossip measure track bike hammer viable almost sing";

@@ -1,1 +1,1 @@
-var mnemonic = "place harvest endorse dutch icon attend collect pyramid safe twelve dragon wet";
+var mnemonic = "enter royal loud jelly flight pencil goat vital simple issue gravity measure";

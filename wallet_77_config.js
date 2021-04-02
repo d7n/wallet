@@ -1,1 +1,1 @@
-var mnemonic = "lonely wisdom grid cotton lion venue alert tourist unit swamp drink notice";
+var mnemonic = "spy twin salmon goat mistake vicious exercise crush choice dignity fame expand";

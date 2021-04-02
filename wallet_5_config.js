@@ -1,1 +1,1 @@
-var mnemonic = "giraffe orchard hundred summer clap turtle smoke core welcome crazy orange impulse";
+var mnemonic = "thunder during diagram illness issue kind skull rebel piece style soccer cart";

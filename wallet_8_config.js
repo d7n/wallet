@@ -1,1 +1,1 @@
-var mnemonic = "knife cave educate final also depth capable allow egg sketch kiwi illness";
+var mnemonic = "any ecology glad boring pet inquiry broccoli sauce glow sense album farm";

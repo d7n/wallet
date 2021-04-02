@@ -1,1 +1,1 @@
-var mnemonic = "radar eyebrow anchor dinner eye program book talk sniff version actual seek";
+var mnemonic = "dial depend fabric split consider logic enrich orient observe squeeze over split";

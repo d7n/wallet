@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon harvest shield day cry shaft upgrade extend wash sick boy eyebrow";
+var mnemonic = "air struggle carry vote ramp wife code tray empty arrow ribbon alert";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel wire enrich father swear camp absorb bullet half capital analyst course";
+var mnemonic = "march denial super found attitude spice husband accuse resemble follow hub eternal";

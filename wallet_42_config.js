@@ -1,1 +1,1 @@
-var mnemonic = "foam extra genuine leisure couple glow eager clean pupil alarm clutch will";
+var mnemonic = "better neglect mosquito fan practice mechanic toddler plastic reduce orbit stomach later";

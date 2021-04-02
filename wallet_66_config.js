@@ -1,1 +1,1 @@
-var mnemonic = "misery topic exclude alley track test spin soft plate live speed cousin";
+var mnemonic = "olive tornado hen blue grit reopen mistake juice bottom resist real goat";

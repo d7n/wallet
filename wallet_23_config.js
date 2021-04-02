@@ -1,1 +1,1 @@
-var mnemonic = "body client mixture prize buzz sport tragic knee purchase canvas peace mansion";
+var mnemonic = "void machine grow urge jar scale usual diet foot ticket echo vault";

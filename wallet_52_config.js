@@ -1,1 +1,1 @@
-var mnemonic = "craft avocado utility food habit mixed coconut action alone bundle quiz hub";
+var mnemonic = "monitor kidney depth spoil diesel blast absorb first winter october cement cement";

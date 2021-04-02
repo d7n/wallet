@@ -1,1 +1,1 @@
-var mnemonic = "crew display elephant jar anchor balcony worry panel account acid silver office";
+var mnemonic = "remove globe casual summer note special alpha upper color put panic search";

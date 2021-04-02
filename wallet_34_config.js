@@ -1,1 +1,1 @@
-var mnemonic = "cash defy camp illness cause file front expose seed magnet echo orient";
+var mnemonic = "despair skate express december state pet abstract rookie cat victory hire away";

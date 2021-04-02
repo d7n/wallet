@@ -1,1 +1,1 @@
-var mnemonic = "fatigue erupt clean expose give display scene half finger unusual letter where";
+var mnemonic = "venture wisdom silly stem update only version cement space fatigue auction oven";

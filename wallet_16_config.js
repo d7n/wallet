@@ -1,1 +1,1 @@
-var mnemonic = "fossil joy knife paper private slim coil clinic raw seat banana animal";
+var mnemonic = "chapter simple circle floor joke symbol upgrade genuine help key together crack";

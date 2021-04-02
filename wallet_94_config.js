@@ -1,1 +1,1 @@
-var mnemonic = "toddler square family audit stove material warfare chat almost music road tiny";
+var mnemonic = "mother sand panic shuffle empty bubble utility remain palm hub trophy juice";

@@ -1,1 +1,1 @@
-var mnemonic = "simple drop act way uncle antenna genius shoot ivory beyond drive rack";
+var mnemonic = "urban property salmon buzz toy kit rug goat kitchen sustain increase welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "unable whale oval bunker author garage reflect century anchor wasp clump ability";
+var mnemonic = "emotion pact oyster explain pause various web hold update code bone spot";

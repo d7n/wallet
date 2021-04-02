@@ -1,1 +1,1 @@
-var mnemonic = "female stove carpet prosper tiny hello cricket ritual struggle surge fever bullet";
+var mnemonic = "enhance price shiver banner upper toe cabin path regular neither type pupil";

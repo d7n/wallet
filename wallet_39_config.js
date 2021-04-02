@@ -1,1 +1,1 @@
-var mnemonic = "baby donor delay surprise one swing grit patch nation arm under life";
+var mnemonic = "unique sniff same little soda prosper fatal crop eight course turkey spoil";

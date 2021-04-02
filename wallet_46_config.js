@@ -1,1 +1,1 @@
-var mnemonic = "soccer exit short bottom fitness yellow cricket nice joy seek include palace";
+var mnemonic = "very bag million stomach foam penalty flame among venue fire august phone";

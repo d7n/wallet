@@ -1,1 +1,1 @@
-var mnemonic = "success heavy coil boring under tunnel hawk health draft idea craft bid";
+var mnemonic = "gasp satisfy festival add announce couch near mind suspect road right syrup";

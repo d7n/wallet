@@ -1,1 +1,1 @@
-var mnemonic = "short simple wool frozen punch dial hurry clock explain enact proud major";
+var mnemonic = "later system oak reflect analyst object company allow possible portion laundry transfer";

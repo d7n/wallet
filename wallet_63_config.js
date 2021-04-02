@@ -1,1 +1,1 @@
-var mnemonic = "check congress wage amazing real blade camera casual journey already about matrix";
+var mnemonic = "vacuum ten usual breeze eyebrow desk trust fog fluid chicken betray tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "good jazz stone oxygen feed hundred magic move trip movie slam shell";
+var mnemonic = "bread fit tiny window hill program reason donkey clarify civil wear gorilla";

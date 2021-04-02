@@ -1,1 +1,1 @@
-var mnemonic = "dice expose monster fee also canal master august hair wet aware popular";
+var mnemonic = "clip obscure bird offer remind elephant purity combine daughter junior nut soccer";

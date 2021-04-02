@@ -1,1 +1,1 @@
-var mnemonic = "control burden other drive today twice stage legal mobile post input security";
+var mnemonic = "involve goddess parrot huge pink dance axis soup used hope trap clinic";

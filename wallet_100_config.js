@@ -1,1 +1,1 @@
-var mnemonic = "talk crane avocado effort cake earth word gravity cool victory sea mouse";
+var mnemonic = "lens tool roast frost seminar give punch forest client traffic you render";

@@ -1,1 +1,1 @@
-var mnemonic = "segment embrace grant bid false error fade appear bright primary order fee";
+var mnemonic = "guide spot still supply strong prevent section move half pen such use";

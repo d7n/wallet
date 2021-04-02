@@ -1,1 +1,1 @@
-var mnemonic = "rescue lunch devote sibling neck bridge flower lady helmet erosion suit lumber";
+var mnemonic = "useful special mechanic renew dizzy near myth lobster response grass satisfy thank";

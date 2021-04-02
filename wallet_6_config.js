@@ -1,1 +1,1 @@
-var mnemonic = "year economy valley liar sun teach real spot autumn industry clip aunt";
+var mnemonic = "grunt skill run unable brother spirit pond supply goddess wait ritual asthma";

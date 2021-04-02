@@ -1,1 +1,1 @@
-var mnemonic = "opinion nest vague vacant exact dumb again drive tribe crazy error slot";
+var mnemonic = "frame logic boring upon source humor carpet relax brown scheme august head";

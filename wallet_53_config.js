@@ -1,1 +1,1 @@
-var mnemonic = "unusual bitter will sugar easy sunset theme mansion width kid chief useful";
+var mnemonic = "heavy goddess cash column surface toe culture jacket blind wave purity omit";

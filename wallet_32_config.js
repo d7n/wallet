@@ -1,1 +1,1 @@
-var mnemonic = "toilet bless crater hollow knife check enhance spell display dash denial clip";
+var mnemonic = "wink weapon antenna reduce wheel joke switch tuition oil exhaust regret city";

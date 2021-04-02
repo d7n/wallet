@@ -1,1 +1,1 @@
-var mnemonic = "amateur hungry badge alley pudding task cool hedgehog grape hint identify cricket";
+var mnemonic = "drink actress piano once head edit elegant thrive mammal deny early segment";

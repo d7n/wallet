@@ -1,1 +1,1 @@
-var mnemonic = "invest blood flock alien leader iron debris audit brass inch razor palace";
+var mnemonic = "extend then film bargain rebuild return keep entry unfair snake bridge useful";

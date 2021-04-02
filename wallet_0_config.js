@@ -1,1 +1,1 @@
-var mnemonic = "spring champion swallow grain ethics girl cousin sketch cancel rely please link";
+var mnemonic = "bleak couple spatial armor work alone limb jazz hub spend under raven";

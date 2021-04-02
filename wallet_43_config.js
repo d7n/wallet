@@ -1,1 +1,1 @@
-var mnemonic = "degree off exclude meat shine road plunge wise steel child actress tray";
+var mnemonic = "silly angry guitar input quiz ridge come early always disorder plunge bottom";

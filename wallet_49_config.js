@@ -1,1 +1,1 @@
-var mnemonic = "chaos tide coast team cotton behind dentist build benefit journey gesture choose";
+var mnemonic = "gentle stomach mistake shy bless pet avoid demise silly fossil one horse";

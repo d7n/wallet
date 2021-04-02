@@ -1,1 +1,1 @@
-var mnemonic = "piece stuff shift harsh glory orphan spatial session leg trigger coach among";
+var mnemonic = "private steel stand design uncle earn coyote card cigar three weasel caution";

@@ -1,1 +1,1 @@
-var mnemonic = "shine tool submit dirt staff ice mesh give result clay grain mercy";
+var mnemonic = "glass cruel sentence keen point skirt loan panda split cherry insect radio";

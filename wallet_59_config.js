@@ -1,1 +1,1 @@
-var mnemonic = "rough chief beyond arch enroll project right tomato soap wire album foil";
+var mnemonic = "sock witness allow youth magic satisfy panel error remind velvet agent become";

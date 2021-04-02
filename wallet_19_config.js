@@ -1,1 +1,1 @@
-var mnemonic = "agree barrel trial power rotate reveal quote feature enforce oxygen submit decide";
+var mnemonic = "wreck document frequent stomach hope able amazing cliff enrich couch major over";

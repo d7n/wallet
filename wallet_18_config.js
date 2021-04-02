@@ -1,1 +1,1 @@
-var mnemonic = "fabric carbon hurry celery extend weird worry age expire disorder shell search";
+var mnemonic = "engage soon fuel liberty group night egg patch flee media purse suspect";

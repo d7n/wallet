@@ -1,1 +1,1 @@
-var mnemonic = "exact ocean ecology green daring exhibit flash prison defy oblige social sell";
+var mnemonic = "mango weapon village tourist artist diary bean mean payment proud saddle trap";

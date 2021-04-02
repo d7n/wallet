@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow imitate razor absent win hundred round genuine hunt slam mixed neglect";
+var mnemonic = "noise return page float jeans market burst force wood shy law minor";

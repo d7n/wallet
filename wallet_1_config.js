@@ -1,1 +1,1 @@
-var mnemonic = "also host steak throw inform atom need egg pretty utility language asset";
+var mnemonic = "net female draw gold rare wasp harsh cloud gym vendor brush lens";

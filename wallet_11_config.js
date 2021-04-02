@@ -1,1 +1,1 @@
-var mnemonic = "mass dentist process flush weird process gown scare buyer better around cup";
+var mnemonic = "shrimp melt valve auto reason extra lazy reject upon snap hospital mosquito";

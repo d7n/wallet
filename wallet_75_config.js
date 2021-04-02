@@ -1,1 +1,1 @@
-var mnemonic = "mask steel parrot average prosper buddy pretty extend differ cabin april eight";
+var mnemonic = "host accuse interest supreme coin merry draw phone soda dizzy day clap";

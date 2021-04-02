@@ -1,1 +1,1 @@
-var mnemonic = "wagon climb wall blast cupboard onion engine pony salute voyage fun polar";
+var mnemonic = "shallow hobby indoor fruit sell shove lemon eager home neck viable drill";

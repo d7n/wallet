@@ -1,1 +1,1 @@
-var mnemonic = "ozone bonus deliver thumb fan maple slush ill name demise cheap knife";
+var mnemonic = "refuse around decorate luggage survey peanut entry comic flock arrow ranch sleep";

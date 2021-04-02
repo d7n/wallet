@@ -1,1 +1,1 @@
-var mnemonic = "gadget amazing slush grace planet clinic satisfy mother tank heavy same direct";
+var mnemonic = "female furnace they nice public lazy another law panel sorry crucial elegant";

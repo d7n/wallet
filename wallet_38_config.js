@@ -1,1 +1,1 @@
-var mnemonic = "column else busy auction impose weekend possible cricket range tip before voice";
+var mnemonic = "share miss region course toilet list wife host spring exotic lazy shy";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub steak remain recipe gauge silver chapter essence isolate patrol liar dance";
+var mnemonic = "journey chief dumb badge wrist better share cream kitchen flag athlete embrace";

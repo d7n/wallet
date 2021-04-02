@@ -1,1 +1,1 @@
-var mnemonic = "mistake farm chief flush detail cigar game brush clarify shift transfer genuine";
+var mnemonic = "wrong wire turtle daughter purpose mother series stand course proud same taste";

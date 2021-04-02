@@ -1,1 +1,1 @@
-var mnemonic = "bag unfair powder door menu measure because crawl gallery fatal tornado body";
+var mnemonic = "pencil multiply outer plug flip oxygen envelope wife spin zero shrug silent";

@@ -1,1 +1,1 @@
-var mnemonic = "marine enhance draw defense pause depart crystal cat act switch car steel";
+var mnemonic = "distance usual squirrel original slight connect shell grocery hair there jealous gadget";

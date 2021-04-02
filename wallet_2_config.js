@@ -1,1 +1,1 @@
-var mnemonic = "click coin close giant then kidney jeans humble bounce random potato mutual";
+var mnemonic = "profit air session night cherry caught mutual balance mad object anchor draw";

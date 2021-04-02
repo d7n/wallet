@@ -1,1 +1,1 @@
-var mnemonic = "eight bar chicken grant improve since pumpkin clerk hungry tenant august shop";
+var mnemonic = "defy abandon absent erosion beauty film convince hero label loop pottery glad";

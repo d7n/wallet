@@ -1,1 +1,1 @@
-var mnemonic = "bird problem sight oil language lesson habit father chronic tail brand brother";
+var mnemonic = "camera glove invest hawk dynamic cup dry cave travel tattoo what rifle";

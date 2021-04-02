@@ -1,1 +1,1 @@
-var mnemonic = "disagree stomach denial idea burger dignity recycle immense oblige remind sheriff above";
+var mnemonic = "seek tourist thought wasp deputy smoke loop game position tell lumber point";

@@ -1,1 +1,1 @@
-var mnemonic = "addict similar rail task robot rather kangaroo truth dentist music gesture flight";
+var mnemonic = "summer record case twenty across lecture theory crash body index word regret";

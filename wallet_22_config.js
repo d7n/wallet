@@ -1,1 +1,1 @@
-var mnemonic = "monkey ginger adjust comic mountain speed curtain bench wonder tunnel also pyramid";
+var mnemonic = "wrong rigid this rude maple couple ranch curious fan frown stairs huge";

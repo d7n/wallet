@@ -1,1 +1,1 @@
-var mnemonic = "royal fine feel promote glare guilt width pumpkin mass book lobster occur";
+var mnemonic = "cabin meadow now meadow stool oak earth goose federal rely kitten grab";

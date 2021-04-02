@@ -1,1 +1,1 @@
-var mnemonic = "rabbit horse slot bright struggle forward exit ill squirrel junk spare track";
+var mnemonic = "double budget denial canvas plunge prepare kid panic frame atom depend velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "version exact room sleep where axis bacon boss arrive agree index space";
+var mnemonic = "tent soft decade arrow ceiling culture mammal cactus torch citizen second essence";

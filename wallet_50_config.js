@@ -1,1 +1,1 @@
-var mnemonic = "census puzzle fancy coffee famous reflect crane promote couch antique nephew various";
+var mnemonic = "receive employ decide pride guide shrimp allow guitar fall tell abstract august";

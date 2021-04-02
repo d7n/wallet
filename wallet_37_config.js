@@ -1,1 +1,1 @@
-var mnemonic = "video modify midnight key boy found meadow exit become token suffer ignore";
+var mnemonic = "cliff chat fault young parent portion problem erode scrap try table chuckle";
