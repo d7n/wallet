@@ -1,1 +1,1 @@
-var mnemonic = "seminar kiwi hazard tag detail trick push time lottery minor pupil toddler";
+var mnemonic = "outer wide cement circle stairs student suspect arrow escape bar any video";

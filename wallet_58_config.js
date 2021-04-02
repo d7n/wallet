@@ -1,1 +1,1 @@
-var mnemonic = "clump chapter vendor regular cave penalty light glory female thought remember shove";
+var mnemonic = "life route device gain finger kitchen advice east million buyer emerge access";

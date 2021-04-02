@@ -1,1 +1,1 @@
-var mnemonic = "goose bleak accuse casino wrap trim scrap agent obscure hospital label wasp";
+var mnemonic = "need lamp pencil pumpkin champion aisle anxiety autumn volcano use absurd drive";

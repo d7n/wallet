@@ -1,1 +1,1 @@
-var mnemonic = "holiday glare south plate floor apology unhappy detect ecology laptop program quarter";
+var mnemonic = "any boil humor stove slender exercise object sense blur stamp cruise situate";

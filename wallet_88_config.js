@@ -1,1 +1,1 @@
-var mnemonic = "fire sponsor then visit ghost proof series gas during endless tent start";
+var mnemonic = "happy visa spare trend casino mango top patch electric funny good horror";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet enrich ability sponsor adjust rate multiply opera oyster meadow fury snack";
+var mnemonic = "crawl know paddle hollow glue addict there faith vintage cupboard fiscal toward";

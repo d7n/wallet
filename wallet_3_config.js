@@ -1,1 +1,1 @@
-var mnemonic = "sight destroy school put bottom pause return volcano icon slush crack drop";
+var mnemonic = "share night glide spy depth when catalog school glory decorate identify cream";

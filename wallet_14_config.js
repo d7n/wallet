@@ -1,1 +1,1 @@
-var mnemonic = "gain peace goat bench bag warm endorse combine math interest you across";
+var mnemonic = "airport convince ship pretty picnic bridge oblige eyebrow execute interest night critic";

@@ -1,1 +1,1 @@
-var mnemonic = "brush settle bachelor artwork final turn grace bulk desk hold glove foam";
+var mnemonic = "exhibit session lumber hour twenty dinner soon chef gown youth mobile foam";

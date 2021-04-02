@@ -1,1 +1,1 @@
-var mnemonic = "portion expand tape clog manual make transfer pull oven pause pig custom";
+var mnemonic = "nothing horror twenty brave senior acoustic suggest ill guilt mercy label stand";

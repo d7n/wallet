@@ -1,1 +1,1 @@
-var mnemonic = "lawn walk brother affair exotic obtain pair maze man argue turn sign";
+var mnemonic = "sun limb goose evoke member chat lazy unit crouch artist slam only";

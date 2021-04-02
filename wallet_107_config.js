@@ -1,1 +1,1 @@
-var mnemonic = "science name inch frog absent lunch someone stock improve neither hotel basket";
+var mnemonic = "inflict canvas bonus tooth purse act scout slush peace budget ball inner";

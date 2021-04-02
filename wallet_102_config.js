@@ -1,1 +1,1 @@
-var mnemonic = "dish supreme tornado ladder doll coffee transfer saddle arrow capable spend prevent";
+var mnemonic = "total evolve toward drink warrior bean stumble true arrive pioneer bus march";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle crawl remember upper hobby result game film sniff machine october settle";
+var mnemonic = "robust pyramid raw episode have occur witness erupt borrow exact wait energy";

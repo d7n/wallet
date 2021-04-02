@@ -1,1 +1,1 @@
-var mnemonic = "busy head ethics pulp air beef sausage motor profit gorilla bind return";
+var mnemonic = "link slice rival crumble seat monster author crunch rebel copper moon marine";

@@ -1,1 +1,1 @@
-var mnemonic = "service verb monkey air exclude faith walnut indoor arrest right member resist";
+var mnemonic = "pledge fall kidney wise coast pig stick seed loop like flee seed";

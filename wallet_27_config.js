@@ -1,1 +1,1 @@
-var mnemonic = "fade wear cushion require squirrel chicken lizard fitness into clap detect spell";
+var mnemonic = "fatigue seven light fan today gather agent pond holiday quarter scout admit";

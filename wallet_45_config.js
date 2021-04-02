@@ -1,1 +1,1 @@
-var mnemonic = "print walk now advance setup patch volume staff place believe area pencil";
+var mnemonic = "crucial parade actor fury evolve radio category east report assist track summer";

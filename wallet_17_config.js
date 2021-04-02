@@ -1,1 +1,1 @@
-var mnemonic = "exclude wait either vendor misery deputy typical feel survey dove advice poem";
+var mnemonic = "around electric junior tool thing quit police when cattle change uniform under";

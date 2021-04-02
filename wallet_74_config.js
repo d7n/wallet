@@ -1,1 +1,1 @@
-var mnemonic = "milk trim result liberty road label guilt slab story drift civil sibling";
+var mnemonic = "obscure thing strategy office carbon large cry impact bubble worth end glide";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter wire usage field broom harsh pave culture find judge monster evoke";
+var mnemonic = "leg total deal brief whip tank leader razor arctic fish soccer today";

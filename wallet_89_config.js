@@ -1,1 +1,1 @@
-var mnemonic = "soup snake sign comic disorder dance grocery guitar meadow bus pizza spatial";
+var mnemonic = "scrap twelve ring inspire raccoon tide skirt toast prevent leopard dial allow";

@@ -1,1 +1,1 @@
-var mnemonic = "fault zoo damp return kingdom uniform portion vanish color crucial cabbage educate";
+var mnemonic = "page tail response adapt know clap bounce notable mirror buzz female gadget";

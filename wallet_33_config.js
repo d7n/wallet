@@ -1,1 +1,1 @@
-var mnemonic = "identify night clown skirt peace spring cram private loud alley switch wire";
+var mnemonic = "label proud banana give action diesel analyst solve release maple galaxy seminar";

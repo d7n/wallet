@@ -1,1 +1,1 @@
-var mnemonic = "actual blame truth hover genius infant elite universe off balcony sing runway";
+var mnemonic = "winter small pave baby photo fashion chicken text syrup despair palm carpet";

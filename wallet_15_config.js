@@ -1,1 +1,1 @@
-var mnemonic = "celery atom unusual toast cruise drip tone pond hedgehog crane castle extend";
+var mnemonic = "circle angry pitch endless amused wolf lyrics gentle skate bronze fire palace";

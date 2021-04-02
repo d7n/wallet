@@ -1,1 +1,1 @@
-var mnemonic = "token acoustic cart absent fire calm ensure slight soft body want game";
+var mnemonic = "album shield vocal ensure foil moon oil rib keen cool brother crazy";

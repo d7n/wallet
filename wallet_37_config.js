@@ -1,1 +1,1 @@
-var mnemonic = "fog gossip enough feed claim turtle onion wash predict term burst behind";
+var mnemonic = "input attract person turtle tray document aerobic crop table citizen release celery";

@@ -1,1 +1,1 @@
-var mnemonic = "travel opinion label disease stairs opinion tail hurry start magnet amazing narrow";
+var mnemonic = "tragic rather team coast tornado salute cute shy educate twin person cruel";

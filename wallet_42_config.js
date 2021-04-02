@@ -1,1 +1,1 @@
-var mnemonic = "dolphin mixture bag mixed jewel repair salt patch baby century pride receive";
+var mnemonic = "fox exact color pledge decide recall teach what silk pioneer you myself";

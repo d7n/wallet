@@ -1,1 +1,1 @@
-var mnemonic = "strategy long aunt popular ask volcano infant spell cattle slender scatter wonder";
+var mnemonic = "smile cheese april corn produce unfair like digital onion tourist kiss actual";

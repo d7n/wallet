@@ -1,1 +1,1 @@
-var mnemonic = "mammal vintage hat unveil panic meat usage portion congress transfer farm okay";
+var mnemonic = "legend sight gadget bulk moment spatial fee account action imitate tattoo give";

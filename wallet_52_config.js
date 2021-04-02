@@ -1,1 +1,1 @@
-var mnemonic = "silk decline dumb race kind deny either crime ozone very marble piece";
+var mnemonic = "nuclear rug proud glance grace jelly region brown never undo ketchup worry";

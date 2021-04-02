@@ -1,1 +1,1 @@
-var mnemonic = "pattern lens private insect consider depart tube gossip wink demise usual curious";
+var mnemonic = "risk entire decade almost win dinosaur trend state slice inspire kangaroo organ";

@@ -1,1 +1,1 @@
-var mnemonic = "step regret common gospel moment mirror knee lawsuit patient typical explain earth";
+var mnemonic = "bench reunion fitness debris mail sound cactus acquire myth ill tomorrow fragile";

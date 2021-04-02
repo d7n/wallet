@@ -1,1 +1,1 @@
-var mnemonic = "skin foster slim melt board language brother tip ketchup immense ensure defense";
+var mnemonic = "novel december transfer loan awkward unaware brave debate quote bread gasp piece";

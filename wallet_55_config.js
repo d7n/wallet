@@ -1,1 +1,1 @@
-var mnemonic = "absent panic merit elbow vendor fan crisp disease bird swing gold unknown";
+var mnemonic = "power possible trigger rich author about deputy spider draw advance pledge fault";

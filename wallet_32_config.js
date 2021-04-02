@@ -1,1 +1,1 @@
-var mnemonic = "question describe piano fury suffer year theme section sort skull remove canyon";
+var mnemonic = "ask very ability provide verify boy moral vacant mosquito pig wish witness";

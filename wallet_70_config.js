@@ -1,1 +1,1 @@
-var mnemonic = "art mixed silk critic same napkin surround delay image flee robust prepare";
+var mnemonic = "aerobic scissors rug cereal rely salon luxury moral deputy toss vessel invest";

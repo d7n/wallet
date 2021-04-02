@@ -1,1 +1,1 @@
-var mnemonic = "lamp loop tool nephew present erosion favorite tribe rely object put example";
+var mnemonic = "silent floor video stem impose team bottom base torch scout flame clog";

@@ -1,1 +1,1 @@
-var mnemonic = "frame treat honey august betray off wine gallery verify useless light inner";
+var mnemonic = "cloud ready already monster donkey poet slide diagram copy market angle upper";

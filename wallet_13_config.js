@@ -1,1 +1,1 @@
-var mnemonic = "gesture siren dinosaur sail opinion umbrella soon decade weather upgrade novel cute";
+var mnemonic = "concert asthma hamster cheese total dolphin seven orange shrug swamp expect online";

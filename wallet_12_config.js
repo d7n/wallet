@@ -1,1 +1,1 @@
-var mnemonic = "crash stadium village pretty wage success answer pole transfer stable captain boat";
+var mnemonic = "soda sudden uphold stairs bright tortoise advice basic vote snake layer chunk";

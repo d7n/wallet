@@ -1,1 +1,1 @@
-var mnemonic = "elephant crucial paddle own holiday true else that trim elbow stand tortoise";
+var mnemonic = "trigger merry scene obscure left space can crater gate sleep scatter fabric";

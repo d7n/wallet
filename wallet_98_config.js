@@ -1,1 +1,1 @@
-var mnemonic = "shuffle lady summer lava detect symptom chef normal engage mandate invite filter";
+var mnemonic = "salad giant thought clog lonely local season scorpion ring race seminar critic";

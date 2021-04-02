@@ -1,1 +1,1 @@
-var mnemonic = "tone twelve move dust climb piece govern captain miracle day owner item";
+var mnemonic = "desk bomb brave soldier little topic admit wisdom vacuum slogan venue cloud";

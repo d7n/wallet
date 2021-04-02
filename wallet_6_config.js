@@ -1,1 +1,1 @@
-var mnemonic = "ginger galaxy beauty cry engine genuine dumb blast kick iron rough siren";
+var mnemonic = "universe soon zero traffic just license alley evil hybrid river bring sphere";

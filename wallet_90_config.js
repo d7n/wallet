@@ -1,1 +1,1 @@
-var mnemonic = "mechanic tooth walk reunion ribbon mechanic sand below photo walnut rain trophy";
+var mnemonic = "butter mimic uniform boost glad erosion before steak hire later tail client";

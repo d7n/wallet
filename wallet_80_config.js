@@ -1,1 +1,1 @@
-var mnemonic = "rib two sorry pill have jealous dinner air coconut ride boy try";
+var mnemonic = "sentence where online plate elevator crew monitor target exile core jelly giraffe";

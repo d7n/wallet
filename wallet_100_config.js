@@ -1,1 +1,1 @@
-var mnemonic = "hint goddess unusual gloom library build room grunt sand useless wrist seed";
+var mnemonic = "traffic useful skin toilet dragon silent dad misery depend way latin wife";

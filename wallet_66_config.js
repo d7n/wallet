@@ -1,1 +1,1 @@
-var mnemonic = "possible meadow certain ivory bitter street zone dolphin rice fade satisfy silly";
+var mnemonic = "furnace zoo mechanic speed second insect clock interest retire battle trouble observe";

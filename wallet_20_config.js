@@ -1,1 +1,1 @@
-var mnemonic = "sustain legal trigger island crouch ribbon medal olive canoe soldier quality jeans";
+var mnemonic = "wait wash witness decide wish scan wolf toilet maximum empty disagree rough";

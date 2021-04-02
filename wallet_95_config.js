@@ -1,1 +1,1 @@
-var mnemonic = "spare slight install female accuse omit maze shove swallow child excuse fuel";
+var mnemonic = "consider fashion distance hover apology thunder upset know tooth stumble camera master";

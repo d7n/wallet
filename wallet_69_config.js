@@ -1,1 +1,1 @@
-var mnemonic = "husband fiber alpha someone apple rescue tone word cluster table swarm unable";
+var mnemonic = "lottery oven mutual smart powder turtle bacon item lyrics fish pottery surface";

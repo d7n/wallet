@@ -1,1 +1,1 @@
-var mnemonic = "brass wrist size display echo virtual guilt forest company lawsuit stem nerve";
+var mnemonic = "muscle wrist catch spy enemy tunnel toddler valley latin scene next opera";

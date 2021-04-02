@@ -1,1 +1,1 @@
-var mnemonic = "rapid million van lounge deer involve egg cash prison enhance sight seek";
+var mnemonic = "trash elegant fatigue gain service fire exclude limb moon know mention ride";

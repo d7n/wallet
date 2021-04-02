@@ -1,1 +1,1 @@
-var mnemonic = "finger foam path elevator city device toy save mule pool sign minute";
+var mnemonic = "humble feature thrive grant cinnamon jealous vapor practice leg razor scare dove";

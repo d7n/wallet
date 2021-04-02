@@ -1,1 +1,1 @@
-var mnemonic = "local random artefact copy when pattern afraid anxiety leisure pledge narrow festival";
+var mnemonic = "crew peanut nose tonight book aim item velvet there reform movie eyebrow";

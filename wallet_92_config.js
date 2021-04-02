@@ -1,1 +1,1 @@
-var mnemonic = "skin bread quality diamond enrich float move ghost media spoil bargain tragic";
+var mnemonic = "feed gossip office cup abandon flame company renew diagram myth twist choice";

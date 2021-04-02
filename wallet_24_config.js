@@ -1,1 +1,1 @@
-var mnemonic = "index gasp bulb enroll insect sight profit make series item struggle update";
+var mnemonic = "win roof issue lucky used stuff uniform strong fame walk estate grass";

@@ -1,1 +1,1 @@
-var mnemonic = "surface venue rally act apology recycle gauge erosion anger sister can absorb";
+var mnemonic = "hawk rifle purpose juice waste member claim test seven asset shock cook";

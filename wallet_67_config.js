@@ -1,1 +1,1 @@
-var mnemonic = "exotic tray nice protect elbow job usage organ scorpion hundred like balance";
+var mnemonic = "assault episode win address hobby giant own defy situate average twelve beyond";

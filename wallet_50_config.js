@@ -1,1 +1,1 @@
-var mnemonic = "buzz will tail suit brisk lesson wild mushroom across rule voice mixture";
+var mnemonic = "pair refuse fresh month laundry rate danger few later brief cheese exist";

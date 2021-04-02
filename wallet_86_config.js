@@ -1,1 +1,1 @@
-var mnemonic = "kid sudden step achieve slide large resist plug fog panda critic icon";
+var mnemonic = "green moment volcano save pudding virus code proud material very random motor";

@@ -1,1 +1,1 @@
-var mnemonic = "theme provide general elder lady replace sad plug march review since daughter";
+var mnemonic = "immense home scrub magic stem captain lift moral outdoor mixture body harvest";

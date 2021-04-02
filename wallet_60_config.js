@@ -1,1 +1,1 @@
-var mnemonic = "peasant kite there salon cart brass find person business rate tragic ill";
+var mnemonic = "merit broken museum kick mosquito olympic only crush bitter below economy adult";

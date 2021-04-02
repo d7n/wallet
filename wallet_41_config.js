@@ -1,1 +1,1 @@
-var mnemonic = "jungle defense squeeze cabin number rack multiply behave turkey valid buddy cluster";
+var mnemonic = "hungry security winner unfold near fiber finish quantum echo diamond faint coconut";

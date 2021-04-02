@@ -1,1 +1,1 @@
-var mnemonic = "lunch prison west aerobic manage flash catch near disagree farm chapter retreat";
+var mnemonic = "brisk room exact slide rebuild innocent also tube beef below insect almost";

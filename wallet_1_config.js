@@ -1,1 +1,1 @@
-var mnemonic = "exotic eager tonight eagle desk trade illegal dirt feel velvet sleep swallow";
+var mnemonic = "salmon parrot civil false pencil spoon scout unfair okay present muscle amazing";

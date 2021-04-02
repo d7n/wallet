@@ -1,1 +1,1 @@
-var mnemonic = "dove will tragic join balcony tone convince design wage oil quit shallow";
+var mnemonic = "return excite recall chair wolf provide yellow fortune filter space about assist";

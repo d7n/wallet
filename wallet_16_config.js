@@ -1,1 +1,1 @@
-var mnemonic = "cage hood favorite change pitch tag company such math peace waste certain";
+var mnemonic = "benefit veteran finish sad example uncover decrease shoot weekend cargo child future";

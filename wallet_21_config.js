@@ -1,1 +1,1 @@
-var mnemonic = "day tackle roast scrap argue fix fuel card tag sting robot tone";
+var mnemonic = "eagle obtain token swamp version myself pipe increase word donkey double please";

@@ -1,1 +1,1 @@
-var mnemonic = "seven rich addict genius fever point world more cost live afford task";
+var mnemonic = "boring color bus culture brother cup crew turn army husband rural roof";

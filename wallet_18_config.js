@@ -1,1 +1,1 @@
-var mnemonic = "angle unable absurd fee assume inner wasp vast fork hub sense wreck";
+var mnemonic = "sniff happy better hurdle token flight buyer name keep light garlic coyote";

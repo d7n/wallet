@@ -1,1 +1,1 @@
-var mnemonic = "someone measure inherit pair pupil refuse coin extend brown still attend half";
+var mnemonic = "canvas panic interest rigid address soul globe sing assume raw this potato";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond real file grain rookie glass main salad auction mammal copy afraid";
+var mnemonic = "chat wish junior stamp visa goat forum endorse mention fiction reveal toy";

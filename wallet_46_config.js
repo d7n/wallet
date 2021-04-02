@@ -1,1 +1,1 @@
-var mnemonic = "elephant illness north explain honey blur exhibit result lawn defy taste member";
+var mnemonic = "neglect hedgehog regular caution impose group balcony reason judge box jewel gentle";

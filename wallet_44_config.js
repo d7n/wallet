@@ -1,1 +1,1 @@
-var mnemonic = "logic denial tonight color despair develop clean control vague absorb oval cloud";
+var mnemonic = "remove lyrics media hawk pilot snap ill permit suspect marble panda crazy";

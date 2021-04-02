@@ -1,1 +1,1 @@
-var mnemonic = "world alert cluster indoor cushion sorry adapt matter loud still cave pill";
+var mnemonic = "sustain today narrow minute author miss cupboard hello under media galaxy bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "dance truly resource make crouch fatal snack ordinary jelly silver october sauce";
+var mnemonic = "pulp gossip immense morning crunch ahead rail narrow purchase lend diagram fox";

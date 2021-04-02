@@ -1,1 +1,1 @@
-var mnemonic = "body fish pluck camera trash cupboard regret fork twice reduce antique feature";
+var mnemonic = "hour giggle swear reform aerobic humble jaguar depart pizza plastic payment common";

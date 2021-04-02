@@ -1,1 +1,1 @@
-var mnemonic = "prefer pig area cruise expect hungry build win siren pigeon volcano sample";
+var mnemonic = "busy mom rough average define list panel correct truly awkward trim raise";

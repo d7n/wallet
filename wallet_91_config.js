@@ -1,1 +1,1 @@
-var mnemonic = "clap waste success minimum magic document front doctor decorate turtle digital avoid";
+var mnemonic = "always recall bargain surround cause special mammal skull divide eight shock dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "hair robot west clump ranch increase diesel photo actor coin safe you";
+var mnemonic = "giraffe essence blast minimum faculty august text pitch test ensure siren tuna";

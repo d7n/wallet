@@ -1,1 +1,1 @@
-var mnemonic = "ketchup music book decline wire year train upper test hospital fit usual";
+var mnemonic = "skill frequent bus stem problem duck tornado air bird crisp lake page";

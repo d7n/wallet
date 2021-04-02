@@ -1,1 +1,1 @@
-var mnemonic = "differ ghost you kit behind injury legend amount flat average region ignore";
+var mnemonic = "main section betray wood shiver render neither grape month antique fury engage";

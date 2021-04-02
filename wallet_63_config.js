@@ -1,1 +1,1 @@
-var mnemonic = "claw august theme top bundle pink venture blame black game bitter essay";
+var mnemonic = "floor april gain exchange near panel thought chaos ripple dynamic eternal twelve";

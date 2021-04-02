@@ -1,1 +1,1 @@
-var mnemonic = "rice float dignity fuel route figure hunt fatal skin tray local actual";
+var mnemonic = "wire awake brick dry multiply night will panda fitness coral rough tail";

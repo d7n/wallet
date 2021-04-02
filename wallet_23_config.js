@@ -1,1 +1,1 @@
-var mnemonic = "bundle design idle kite jealous today rack spare tell test tackle calm";
+var mnemonic = "spot heart cancel orient kind sick palace donkey balcony fold gun three";

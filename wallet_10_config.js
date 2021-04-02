@@ -1,1 +1,1 @@
-var mnemonic = "renew dismiss wish fantasy rally sunny curve west intact lumber negative rebel";
+var mnemonic = "final assault song afraid glad lyrics unusual idle balcony culture fluid stairs";

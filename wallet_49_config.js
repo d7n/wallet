@@ -1,1 +1,1 @@
-var mnemonic = "fiscal gossip rapid cheese error blue throw lottery junior river cheese monster";
+var mnemonic = "affair away noble feed borrow pull father wrist wish stool fetch mechanic";
