@@ -1,1 +1,1 @@
-var mnemonic = "wish seminar cricket choose wisdom until safe teach sausage tired couple member";
+var mnemonic = "rotate horror bike custom now employ next six afford breeze cereal safe";

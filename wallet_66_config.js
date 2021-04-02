@@ -1,1 +1,1 @@
-var mnemonic = "skirt head earn sock fiber deer three dial left sun trouble token";
+var mnemonic = "moon offer rice shed vast market enemy spare toss quit clarify purpose";

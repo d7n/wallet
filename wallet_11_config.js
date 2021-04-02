@@ -1,1 +1,1 @@
-var mnemonic = "room minor conduct speed ivory tenant used life always also sure laptop";
+var mnemonic = "ozone dutch select column salon transfer stumble dose consider home sad bind";

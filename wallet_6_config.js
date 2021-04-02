@@ -1,1 +1,1 @@
-var mnemonic = "drift peanut claim record whisper arrive shrug pigeon polar eager uncle reflect";
+var mnemonic = "poet tube edge sister virtual hero great ethics drop base hockey claw";

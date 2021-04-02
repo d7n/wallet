@@ -1,1 +1,1 @@
-var mnemonic = "disorder develop busy caught glad hurt stone strategy odor van limit melt";
+var mnemonic = "view frost innocent patch bread adjust comfort yellow chief lesson moment bench";

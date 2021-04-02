@@ -1,1 +1,1 @@
-var mnemonic = "heart cabbage push favorite artwork put only rich void disease rhythm eye";
+var mnemonic = "blur child source humor nose future midnight smooth parrot traffic extend hub";

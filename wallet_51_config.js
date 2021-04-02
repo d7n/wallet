@@ -1,1 +1,1 @@
-var mnemonic = "bachelor shrug term scale lava butter theme random effort end trumpet kid";
+var mnemonic = "toss pledge toward spring gossip click cliff vital slab pair client surge";

@@ -1,1 +1,1 @@
-var mnemonic = "else unhappy lawsuit liberty senior local width glance dream owner faint conduct";
+var mnemonic = "oyster faculty clown bronze robust banana true valley foil antique toast bring";

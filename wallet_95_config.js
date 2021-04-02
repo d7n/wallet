@@ -1,1 +1,1 @@
-var mnemonic = "fox loan phrase first razor valve swarm awesome drama divert swarm harsh";
+var mnemonic = "hurt adult memory dance spirit aunt kidney opera stool guide nurse dynamic";

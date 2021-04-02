@@ -1,1 +1,1 @@
-var mnemonic = "pistol tribe above tray amazing kit pattern state such subject crime fluid";
+var mnemonic = "mask ceiling achieve mixed fatigue tank narrow harbor arrest forget fossil season";

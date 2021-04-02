@@ -1,1 +1,1 @@
-var mnemonic = "worth disagree kite strike album ability oval sphere apology pilot effort move";
+var mnemonic = "switch trade shy small witness buzz okay number else vehicle shy spike";

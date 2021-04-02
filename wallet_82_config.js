@@ -1,1 +1,1 @@
-var mnemonic = "still release twenty wonder wreck candy inflict inside fragile accuse skin like";
+var mnemonic = "pistol globe salute muffin ozone choose address sail fuel awesome amazing main";

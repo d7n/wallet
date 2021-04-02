@@ -1,1 +1,1 @@
-var mnemonic = "such eyebrow doll vocal dust picture leg mix age hope angle suggest";
+var mnemonic = "green kidney embody pool zero suggest damp warm nut now rose orbit";

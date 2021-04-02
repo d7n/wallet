@@ -1,1 +1,1 @@
-var mnemonic = "ostrich cargo fault quote sibling magnet patch gown sudden vanish stairs undo";
+var mnemonic = "rhythm hair two advance auction column smile need govern drip come print";

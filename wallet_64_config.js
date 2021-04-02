@@ -1,1 +1,1 @@
-var mnemonic = "worth fan gorilla witness drip noodle abuse rose grow soup razor thrive";
+var mnemonic = "tone dash dash pioneer trade exist leave sniff guide arrange coast enlist";

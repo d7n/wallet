@@ -1,1 +1,1 @@
-var mnemonic = "wood stool roof museum fix supreme allow error same guilt leg powder";
+var mnemonic = "lonely dizzy walnut kitten junk dawn walk gravity enroll clown wide put";

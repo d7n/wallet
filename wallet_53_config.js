@@ -1,1 +1,1 @@
-var mnemonic = "expand skate predict exchange outdoor adult happy orbit spare extend beef bird";
+var mnemonic = "ugly pond bless interest grape diamond crime seek snack exercise swim slow";

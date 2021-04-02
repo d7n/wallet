@@ -1,1 +1,1 @@
-var mnemonic = "enter network letter display bean defense chicken puppy chaos clip absurd man";
+var mnemonic = "again latin dose stool pistol noodle fossil twenty insane lemon turkey void";

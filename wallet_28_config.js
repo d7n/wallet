@@ -1,1 +1,1 @@
-var mnemonic = "chimney arrest urge broom marble athlete useless resist because speak army liar";
+var mnemonic = "skull plate cabbage outdoor invite become example soon amateur couple input swallow";

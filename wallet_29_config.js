@@ -1,1 +1,1 @@
-var mnemonic = "apology sad inside duty inhale absurd member choose frost giant eye also";
+var mnemonic = "winter target vivid alone blind talent certain guide basket surround zoo blame";

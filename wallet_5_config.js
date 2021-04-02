@@ -1,1 +1,1 @@
-var mnemonic = "obtain excite tomato luxury together print token devote sand zero inmate food";
+var mnemonic = "health debate dirt give tattoo cricket erupt drill code tennis deal language";

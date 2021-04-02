@@ -1,1 +1,1 @@
-var mnemonic = "witness flower discover pull robust clump harbor elbow armor fury upon enhance";
+var mnemonic = "rice space sword left chief uphold clip fuel attend age owner network";

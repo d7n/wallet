@@ -1,1 +1,1 @@
-var mnemonic = "able any turkey crime core affair fragile story surprise fresh climb suit";
+var mnemonic = "toilet farm speed bridge prefer shallow flip joke sleep govern mule journey";

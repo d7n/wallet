@@ -1,1 +1,1 @@
-var mnemonic = "remove solid muffin gaze twist flower collect tribe author sheriff unique twenty";
+var mnemonic = "sausage menu assume business clump dog clean grass term pool slice trigger";

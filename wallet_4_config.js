@@ -1,1 +1,1 @@
-var mnemonic = "mind prize loop brown scatter include picture popular mail behind shoulder genius";
+var mnemonic = "color absorb flight grain stuff dad fix blanket frown grain vacuum judge";

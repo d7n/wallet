@@ -1,1 +1,1 @@
-var mnemonic = "disagree example number napkin lunch bind cage repair veteran soda hill month";
+var mnemonic = "echo moment borrow side element clutch power bonus shine tennis radar love";

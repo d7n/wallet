@@ -1,1 +1,1 @@
-var mnemonic = "market lamp afford firm tank off pelican ensure beach lobster round outside";
+var mnemonic = "quarter laptop toy runway mansion involve fat supply pool build emerge cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow pudding try seek armor holiday ice damp wolf kitten report milk";
+var mnemonic = "disease hybrid brave lounge universe current green burst soda company stuff end";

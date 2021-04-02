@@ -1,1 +1,1 @@
-var mnemonic = "fork gather combine sand sound venture all hurdle harvest among civil empower";
+var mnemonic = "vessel require subway decade critic shine rather luxury purpose grass thumb toddler";

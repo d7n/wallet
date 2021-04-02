@@ -1,1 +1,1 @@
-var mnemonic = "mass search someone salad safe uncover quarter million tape divert tackle grab";
+var mnemonic = "ugly shift sunny report patch lock agent cabbage wild expect disagree bind";

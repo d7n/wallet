@@ -1,1 +1,1 @@
-var mnemonic = "crunch woman treat market junior dice profit maple lumber initial design banana";
+var mnemonic = "enlist skill chronic once scene alarm recipe good cross muffin boost first";

@@ -1,1 +1,1 @@
-var mnemonic = "reason raccoon sudden confirm result diamond bench oppose giggle spider input glove";
+var mnemonic = "exhaust guilt roast able poem merry whisper predict outdoor stereo two fantasy";

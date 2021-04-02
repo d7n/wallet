@@ -1,1 +1,1 @@
-var mnemonic = "version permit soup attack try crunch sheriff camera that fix pilot silent";
+var mnemonic = "gentle file push joke bullet cheap control sibling void impulse knee good";

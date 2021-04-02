@@ -1,1 +1,1 @@
-var mnemonic = "bind swift worth push shoe issue core habit turtle brown crazy bracket";
+var mnemonic = "retire cluster evolve idle boy great churn august right catch chronic snow";

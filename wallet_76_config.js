@@ -1,1 +1,1 @@
-var mnemonic = "left detect grace arrow spare urban prepare grant error adjust guitar body";
+var mnemonic = "electric always skull rib undo expand brand protect attend message popular brief";

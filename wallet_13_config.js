@@ -1,1 +1,1 @@
-var mnemonic = "youth carpet wish brick snap gallery strike embody seven initial chronic solve";
+var mnemonic = "either slice clutch fault odor zoo gift neutral figure lion child service";

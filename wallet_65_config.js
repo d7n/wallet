@@ -1,1 +1,1 @@
-var mnemonic = "drama slow almost awesome pond coast chief install marriage across wife profit";
+var mnemonic = "foster west party cool bright name wool ribbon slender stock reward evil";

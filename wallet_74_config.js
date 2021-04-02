@@ -1,1 +1,1 @@
-var mnemonic = "ensure soldier south opera sand boss hidden limit satisfy athlete vendor again";
+var mnemonic = "trick normal donkey connect banana result marriage donor crawl helmet opinion scout";

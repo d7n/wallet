@@ -1,1 +1,1 @@
-var mnemonic = "swear orange lawsuit float educate promote nice live range matter guitar viable";
+var mnemonic = "broom behave weasel coin blur catch extra ankle wait smooth million face";

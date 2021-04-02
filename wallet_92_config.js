@@ -1,1 +1,1 @@
-var mnemonic = "tape once panda seminar twenty broom ecology donor race gather morning spider";
+var mnemonic = "nerve promote spawn decorate usage job mesh endorse jaguar scrub myself goose";

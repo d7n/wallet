@@ -1,1 +1,1 @@
-var mnemonic = "rice gravity huge hen weather tortoise success tip news century sound agree";
+var mnemonic = "scrap shrimp ecology media acquire flower pencil lunch beef brief become iron";

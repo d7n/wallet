@@ -1,1 +1,1 @@
-var mnemonic = "brush tide pool caught brain brain nut grit culture rug lady example";
+var mnemonic = "random mosquito alley quarter reason early elite panic try olive first month";

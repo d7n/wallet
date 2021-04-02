@@ -1,1 +1,1 @@
-var mnemonic = "possible right essay diagram require rent deny someone beef behave sure fine";
+var mnemonic = "monkey pig hover notable amused act faith blouse supply public airport gloom";

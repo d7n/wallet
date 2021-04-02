@@ -1,1 +1,1 @@
-var mnemonic = "vault coin chef enroll boring gossip nerve quality simple dentist fish wide";
+var mnemonic = "unaware peace lake satoshi interest pitch property priority illness best dirt lizard";

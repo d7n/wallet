@@ -1,1 +1,1 @@
-var mnemonic = "pepper era bulb pony stadium common never open identify top toss acid";
+var mnemonic = "denial vast immune glad buddy canoe addict baby siren protect salad ball";

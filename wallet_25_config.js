@@ -1,1 +1,1 @@
-var mnemonic = "symptom bird rate dance devote strike dish climb assault urban kidney world";
+var mnemonic = "suffer obvious better entry armed canyon dry fat picture rookie evoke gym";

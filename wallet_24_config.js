@@ -1,1 +1,1 @@
-var mnemonic = "antique clarify social lobster fault dynamic arrange luxury source afraid luggage nation";
+var mnemonic = "pottery clay final monitor roof assault fan love second gun client coffee";

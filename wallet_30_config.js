@@ -1,1 +1,1 @@
-var mnemonic = "two pact minor fruit march copper once quick track solution slab aerobic";
+var mnemonic = "blush behind retire among pass blade column all fragile unfold pioneer van";

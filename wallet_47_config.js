@@ -1,1 +1,1 @@
-var mnemonic = "curious transfer indoor world hen review long assist ribbon animal mind oblige";
+var mnemonic = "race impact cram make office squeeze enemy silent word hair decorate supreme";

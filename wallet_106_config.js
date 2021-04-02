@@ -1,1 +1,1 @@
-var mnemonic = "sample hunt pizza mushroom unveil ugly puzzle prevent empty manual arrow deer";
+var mnemonic = "together cheap spawn patient whip december hidden ski excess slim slice panda";

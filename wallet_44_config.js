@@ -1,1 +1,1 @@
-var mnemonic = "oven despair zoo thought explain badge civil message pair afford island team";
+var mnemonic = "ball peace member below load ability fiction glad suspect enact sleep hunt";

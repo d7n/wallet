@@ -1,1 +1,1 @@
-var mnemonic = "capital hill usage quantum comfort pave penalty awkward forest call stamp check";
+var mnemonic = "copper light deer uphold age thrive build cruise thunder hope vehicle denial";

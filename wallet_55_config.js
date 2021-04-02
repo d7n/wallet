@@ -1,1 +1,1 @@
-var mnemonic = "spend boost call lock extra design final faint coffee short weapon circle";
+var mnemonic = "media finger atom call reduce quality weapon false cause have town benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon ozone blossom lobster luxury rebuild you sphere until fly cause net";
+var mnemonic = "siren depend east motor deer defense empower orchard pepper dentist fabric urge";

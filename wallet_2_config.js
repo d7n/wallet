@@ -1,1 +1,1 @@
-var mnemonic = "bulb isolate heart mixed sail spider power grit forest rug caught charge";
+var mnemonic = "secret truck witness tail battle baby shrimp web catalog attend barely initial";

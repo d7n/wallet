@@ -1,1 +1,1 @@
-var mnemonic = "myth ramp dream claw vault phrase pipe picnic sudden vacuum opinion address";
+var mnemonic = "mobile prefer fluid fat develop mass jazz broom gain stove carry suffer";

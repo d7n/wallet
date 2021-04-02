@@ -1,1 +1,1 @@
-var mnemonic = "genius execute helmet together link decorate ball undo lumber canyon daughter rate";
+var mnemonic = "marine citizen pear develop wrist arctic blur text lawn truth vendor chunk";

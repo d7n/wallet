@@ -1,1 +1,1 @@
-var mnemonic = "twist peanut twice merge park hunt west fly enlist insane suit garlic";
+var mnemonic = "source napkin volume brother guitar carry lazy sleep hurry spin south loan";

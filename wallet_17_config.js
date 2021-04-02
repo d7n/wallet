@@ -1,1 +1,1 @@
-var mnemonic = "trash trend flush frog run desert task visa tragic jeans basic flame";
+var mnemonic = "kitchen guitar exotic dog bid crowd motor clutch intact first order lion";

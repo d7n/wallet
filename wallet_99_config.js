@@ -1,1 +1,1 @@
-var mnemonic = "attract giraffe shadow paddle stairs snow raccoon cargo space drop void used";
+var mnemonic = "entry maple crystal mixed online rough choice sauce tribe fat jealous shield";

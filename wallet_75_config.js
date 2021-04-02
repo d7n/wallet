@@ -1,1 +1,1 @@
-var mnemonic = "chicken jungle glow pupil basic survey state peasant cloud raccoon stock negative";
+var mnemonic = "situate employ cram relax stay rescue viable copy liar frequent already drip";

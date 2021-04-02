@@ -1,1 +1,1 @@
-var mnemonic = "busy airport spawn fiction situate winter omit other wise dawn material fever";
+var mnemonic = "lottery degree fossil spray buffalo split walnut hurt trap change wedding innocent";

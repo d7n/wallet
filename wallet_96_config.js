@@ -1,1 +1,1 @@
-var mnemonic = "waste afraid inner eager rebel coil prize entry draft magnet work tower";
+var mnemonic = "squeeze pear tired world vessel fade learn unknown nuclear jar bike side";

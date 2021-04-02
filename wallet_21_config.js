@@ -1,1 +1,1 @@
-var mnemonic = "clap decide chaos virtual wide west duck evolve valve tube unable tornado";
+var mnemonic = "riot rescue kingdom harbor smart amateur romance giant bulk language pattern seed";

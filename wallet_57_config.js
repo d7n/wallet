@@ -1,1 +1,1 @@
-var mnemonic = "similar color truck embark exchange saddle maximum invite mango yellow until measure";
+var mnemonic = "bread cause popular point veteran open toe raise artefact female try way";

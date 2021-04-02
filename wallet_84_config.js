@@ -1,1 +1,1 @@
-var mnemonic = "whale exact pioneer call alien tower floor derive detect cabbage pride multiply";
+var mnemonic = "belt lonely author roof attack edit abstract this arrow blouse dentist ridge";

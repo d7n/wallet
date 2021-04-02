@@ -1,1 +1,1 @@
-var mnemonic = "screen canal walnut easy ketchup void ridge tribe antenna pioneer involve amazing";
+var mnemonic = "slice wisdom dry atom van scare garment glory divorce pear expire together";

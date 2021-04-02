@@ -1,1 +1,1 @@
-var mnemonic = "crash swear share cram fantasy kiwi couple swap desert rabbit veteran engage";
+var mnemonic = "final update rib worth rude cloth gentle brass amateur slow love double";

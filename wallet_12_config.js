@@ -1,1 +1,1 @@
-var mnemonic = "blame awkward stand bar shine fold afford learn journey egg depth six";
+var mnemonic = "chair index journey panda point mix horse forest focus vehicle pumpkin rally";

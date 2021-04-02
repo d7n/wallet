@@ -1,1 +1,1 @@
-var mnemonic = "pulp change borrow whip snake soap potato miss trade stable shop surge";
+var mnemonic = "leopard mandate boring invite clutch deer butter client banner brown mail stem";

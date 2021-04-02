@@ -1,1 +1,1 @@
-var mnemonic = "disorder clay sun dust toy addict into salon cost firm face kitchen";
+var mnemonic = "service winner aim joy kick buffalo plastic begin immense citizen capable heart";

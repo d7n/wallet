@@ -1,1 +1,1 @@
-var mnemonic = "pool night parent stadium gather fun topple old rabbit bean crucial skull";
+var mnemonic = "tone fringe water load style fiction stable quick twin dinner humor ridge";

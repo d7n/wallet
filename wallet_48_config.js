@@ -1,1 +1,1 @@
-var mnemonic = "attack tomato leisure pattern parrot car rely shop hybrid evidence shop reform";
+var mnemonic = "client pitch burden music warm clown injury library bring coffee usual seven";

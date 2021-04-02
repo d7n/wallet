@@ -1,1 +1,1 @@
-var mnemonic = "caution hello defy reason recipe century wish solve brass asset space praise";
+var mnemonic = "spell corn venue satoshi trick outdoor yard wear patch increase bring chuckle";

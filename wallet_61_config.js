@@ -1,1 +1,1 @@
-var mnemonic = "galaxy curve model photo ice embark tumble real raise pole foster reward";
+var mnemonic = "resemble year tumble excess nasty patch other noodle hint abstract coconut owner";

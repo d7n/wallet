@@ -1,1 +1,1 @@
-var mnemonic = "uphold brass radio more sugar repeat indoor marine chaos cable alert bronze";
+var mnemonic = "muffin elbow loop near great south cheap silent inhale venue august leisure";

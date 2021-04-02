@@ -1,1 +1,1 @@
-var mnemonic = "ketchup head purse raise stone jump range glare anchor rule slogan toast";
+var mnemonic = "say concert below physical blanket simple lucky arrange either swarm pig oxygen";

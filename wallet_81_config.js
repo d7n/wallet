@@ -1,1 +1,1 @@
-var mnemonic = "turkey diet food garbage remind soldier raven belt exotic fall rural banana";
+var mnemonic = "pyramid winter crystal celery tray rice among come social purity frozen shrug";

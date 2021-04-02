@@ -1,1 +1,1 @@
-var mnemonic = "path parent wait test arch exact camp nose snake coral vivid safe";
+var mnemonic = "lady nest detail unveil zebra asset topic seed silly hungry honey student";

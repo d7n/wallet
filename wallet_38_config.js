@@ -1,1 +1,1 @@
-var mnemonic = "elegant filter motion project approve flower afford repeat bunker oppose live toe";
+var mnemonic = "baby health sort possible diamond sunny bullet person affair skull grant ski";

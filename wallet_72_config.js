@@ -1,1 +1,1 @@
-var mnemonic = "frame volcano main same hand buzz sight grab keen ball present pilot";
+var mnemonic = "trend hour circle audit garden pill believe smooth absent tent bamboo fever";

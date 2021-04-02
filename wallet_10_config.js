@@ -1,1 +1,1 @@
-var mnemonic = "horn pond teach rail radar shoe sign asthma universe acoustic mixed praise";
+var mnemonic = "diet position enjoy illness soft sustain owner essay spend bronze yellow they";

@@ -1,1 +1,1 @@
-var mnemonic = "couple knock draw suspect captain account immune hockey under sunny tenant vault";
+var mnemonic = "chimney violin clever unknown roast gold garage cover ridge protect debate still";

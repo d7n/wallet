@@ -1,1 +1,1 @@
-var mnemonic = "select whip energy sentence wrestle honey will cram measure voyage issue cross";
+var mnemonic = "defense disorder genuine agree estate few accident local car stay accident slush";

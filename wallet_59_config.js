@@ -1,1 +1,1 @@
-var mnemonic = "melody one rebel dynamic coast firm chest arctic ladder elevator miracle demise";
+var mnemonic = "nasty dumb jazz spray scale hedgehog valve target outer tumble bamboo jar";

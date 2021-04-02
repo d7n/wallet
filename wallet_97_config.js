@@ -1,1 +1,1 @@
-var mnemonic = "absorb foam glare zoo stereo step state author helmet gift raven drink";
+var mnemonic = "network tenant grid fade dilemma bunker mammal visa negative steel monster mixture";

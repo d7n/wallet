@@ -1,1 +1,1 @@
-var mnemonic = "exact report pottery car erupt can remember welcome ocean minor chaos rose";
+var mnemonic = "attend aware cannon pumpkin job memory dish canyon mercy omit leisure melody";

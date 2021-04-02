@@ -1,1 +1,1 @@
-var mnemonic = "dismiss advance jar tuna ten mule toy maximum spawn army again artefact";
+var mnemonic = "vapor lonely mask method alien rally nurse cereal infant gas bring hundred";

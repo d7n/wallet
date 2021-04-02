@@ -1,1 +1,1 @@
-var mnemonic = "miss hole goose absent laugh cousin cash west barrel runway share throw";
+var mnemonic = "crystal trouble cupboard gaze reduce traffic damp material box display around stable";

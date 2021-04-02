@@ -1,1 +1,1 @@
-var mnemonic = "anxiety diesel cattle eight glad bargain kitten access total lab holiday embody";
+var mnemonic = "jump like zero sock flower pilot duty pulse volcano weapon coach axis";

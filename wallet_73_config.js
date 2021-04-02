@@ -1,1 +1,1 @@
-var mnemonic = "butter exercise neglect private grain jaguar swim crane tip trash stand differ";
+var mnemonic = "hire length survey kit scissors vanish barrel runway rotate ginger core furnace";

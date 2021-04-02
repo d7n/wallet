@@ -1,1 +1,1 @@
-var mnemonic = "slender combine cactus door jeans kingdom champion dynamic tail mass exist chat";
+var mnemonic = "royal ticket stone ship hollow hood brain pattern jelly busy output tell";
