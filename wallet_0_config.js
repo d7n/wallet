@@ -1,1 +1,1 @@
-var mnemonic = "deal latin know coach oppose income want lecture surround what apology onion";
+var mnemonic = "nature follow team seat solve stamp uniform found six robust resist chair";

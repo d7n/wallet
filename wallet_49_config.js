@@ -1,1 +1,1 @@
-var mnemonic = "reduce story disagree endless awesome fade dumb carpet draw seek lawn enrich";
+var mnemonic = "develop cabbage range debate siege orphan worth talk husband view term trick";

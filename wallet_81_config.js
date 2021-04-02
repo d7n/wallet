@@ -1,1 +1,1 @@
-var mnemonic = "you worry tone picture garage snap ring mountain pill pluck action oblige";
+var mnemonic = "panda muscle juice hurry river bracket family gravity noble essay notice pumpkin";

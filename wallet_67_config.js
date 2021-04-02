@@ -1,1 +1,1 @@
-var mnemonic = "gossip fiction olympic skirt forum simple return trend hen milk blanket rebuild";
+var mnemonic = "dinner print advance level hotel december foster human donate elegant any option";

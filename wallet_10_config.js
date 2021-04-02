@@ -1,1 +1,1 @@
-var mnemonic = "dirt present carry panther eternal indoor main daring congress repair ribbon devote";
+var mnemonic = "announce spread segment gift stumble sick enact position market speak stairs cigar";

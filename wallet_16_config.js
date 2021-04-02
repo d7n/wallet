@@ -1,1 +1,1 @@
-var mnemonic = "injury seat camera style game poet grit host grain ketchup stone frequent";
+var mnemonic = "exchange country payment judge gorilla either awful situate oyster window congress drill";

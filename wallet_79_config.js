@@ -1,1 +1,1 @@
-var mnemonic = "worry wine unveil ship ancient lottery remember custom describe glide fault deal";
+var mnemonic = "hazard certain tortoise sentence adult hole develop gate suspect never feel clump";

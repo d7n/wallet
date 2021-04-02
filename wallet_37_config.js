@@ -1,1 +1,1 @@
-var mnemonic = "struggle type answer torch vacuum patrol balance transfer private clinic spray feel";
+var mnemonic = "gallery position cage debris lucky scissors lemon title predict vote weird amount";

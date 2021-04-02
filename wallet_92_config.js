@@ -1,1 +1,1 @@
-var mnemonic = "hill knife wet coral razor require relax scissors orient review route puppy";
+var mnemonic = "luggage tip person often believe please large solve lottery bracket lounge float";

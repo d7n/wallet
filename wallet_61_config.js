@@ -1,1 +1,1 @@
-var mnemonic = "jar immense sure banner verify pigeon nominee solution click company setup dog";
+var mnemonic = "merge price swarm poem ritual can window wire moon pitch ridge sponsor";

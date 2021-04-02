@@ -1,1 +1,1 @@
-var mnemonic = "offer aim erupt electric toss gadget exercise object churn novel bean album";
+var mnemonic = "hurt tortoise horror piece hospital pretty social miracle room attract monitor expose";

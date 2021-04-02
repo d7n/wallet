@@ -1,1 +1,1 @@
-var mnemonic = "method rookie stove under buffalo dragon method hedgehog monitor device rain pond";
+var mnemonic = "cargo carry parrot conduct engine chapter maple shop embody edge humble garage";

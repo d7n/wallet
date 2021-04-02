@@ -1,1 +1,1 @@
-var mnemonic = "source among catalog unusual syrup sample flame behind tenant arctic glad true";
+var mnemonic = "elevator squirrel era replace pudding visit sentence ranch jeans alley castle glove";

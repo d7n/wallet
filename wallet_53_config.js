@@ -1,1 +1,1 @@
-var mnemonic = "sad april aspect foil good hazard creek insane pepper sphere select voice";
+var mnemonic = "hungry load dawn recall marble away ocean fury sick mountain angle food";

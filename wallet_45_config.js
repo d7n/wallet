@@ -1,1 +1,1 @@
-var mnemonic = "fossil medal resist slot orbit rich hybrid venture grace sugar recall story";
+var mnemonic = "business write casino health large depth supply another prevent trust jaguar regret";

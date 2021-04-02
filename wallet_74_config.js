@@ -1,1 +1,1 @@
-var mnemonic = "put horn skirt burst object position dove obtain ritual any figure try";
+var mnemonic = "soldier dinosaur estate toy pave outside confirm guess lab dust churn wrestle";

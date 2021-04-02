@@ -1,1 +1,1 @@
-var mnemonic = "envelope box adapt three click month filter crush future demand duck option";
+var mnemonic = "code boost apart garden basic ivory category squirrel pause jungle capital smooth";

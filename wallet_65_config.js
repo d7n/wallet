@@ -1,1 +1,1 @@
-var mnemonic = "dry lazy right question dad siren print rich submit casino solution twice";
+var mnemonic = "opera anxiety argue shallow crew electric gentle cool because second wheat point";

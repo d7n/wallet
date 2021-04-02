@@ -1,1 +1,1 @@
-var mnemonic = "flag develop wall rule easy fringe sustain hour denial rigid client wild";
+var mnemonic = "someone illness service thrive witness brother small flower ritual dragon pave chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle unit mean perfect surface range decade front violin lemon volcano charge";
+var mnemonic = "accuse animal flavor fall found host oppose matrix donkey minor goddess swarm";

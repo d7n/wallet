@@ -1,1 +1,1 @@
-var mnemonic = "rich path ghost scheme spawn oak harbor expect repeat term inflict glance";
+var mnemonic = "secret essence arrive omit hospital service sausage slot hidden town pupil exotic";

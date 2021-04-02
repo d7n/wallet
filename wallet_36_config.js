@@ -1,1 +1,1 @@
-var mnemonic = "bulb violin stage garbage visual begin lady disorder ahead quarter angle absent";
+var mnemonic = "normal december feature above foam dinner jaguar page magnet region top home";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse pitch method exact cinnamon then involve swim enact report sunset jealous";
+var mnemonic = "endless fence used box tumble upon corn emotion differ stumble buyer tonight";

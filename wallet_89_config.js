@@ -1,1 +1,1 @@
-var mnemonic = "raw tower call target knock sense seed heart huge brick believe pool";
+var mnemonic = "interest wealth sheriff stereo baby menu fence step day hold harsh what";

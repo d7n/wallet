@@ -1,1 +1,1 @@
-var mnemonic = "nose feature exist circle ritual grape just impose toe disorder file clever";
+var mnemonic = "shop suggest sport crouch acid again goose apology program blame split remove";

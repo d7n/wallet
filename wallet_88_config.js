@@ -1,1 +1,1 @@
-var mnemonic = "reveal era open waste lobster better town resemble deer choose rug quantum";
+var mnemonic = "pave cash bread unusual canal garage robust worry accident utility already fog";

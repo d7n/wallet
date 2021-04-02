@@ -1,1 +1,1 @@
-var mnemonic = "item glare dynamic zoo proud myth wish kite burger trial turkey hero";
+var mnemonic = "seminar slab spy during series collect enrich diagram scout alone tiger usual";

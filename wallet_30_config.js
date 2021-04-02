@@ -1,1 +1,1 @@
-var mnemonic = "twice fall spray recall kit gloom rough engine panel erode three canyon";
+var mnemonic = "misery ship submit phone daring taste safe horn pepper uniform legend smart";

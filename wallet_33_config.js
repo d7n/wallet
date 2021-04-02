@@ -1,1 +1,1 @@
-var mnemonic = "sick trip educate moon emerge blade weasel seven plastic quiz science step";
+var mnemonic = "praise thrive curve hire sure coral spatial defense amused column suggest occur";

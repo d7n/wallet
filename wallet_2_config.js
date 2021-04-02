@@ -1,1 +1,1 @@
-var mnemonic = "minor bulk conduct rent lemon have solve soda abandon dune remain timber";
+var mnemonic = "behave minimum vibrant tower error summer crater hover animal cradle slight win";

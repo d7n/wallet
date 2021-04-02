@@ -1,1 +1,1 @@
-var mnemonic = "average panic want grief web fee neither face just since bleak enough";
+var mnemonic = "text spend suit tomorrow traffic connect romance poem achieve purse nasty extend";

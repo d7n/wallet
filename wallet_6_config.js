@@ -1,1 +1,1 @@
-var mnemonic = "cup thunder fabric resource tank swap turkey saddle merit renew summer muscle";
+var mnemonic = "laptop hurry page reduce noodle tape laptop jewel rate brown august alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "knock license street march quality subject gather reopen travel leopard version census";
+var mnemonic = "fancy gesture rule leave genre cactus drastic fence ready text annual island";

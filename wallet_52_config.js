@@ -1,1 +1,1 @@
-var mnemonic = "across school carpet exhaust crawl riot rifle tongue winter dial tuna own";
+var mnemonic = "produce high claim festival green resemble busy urban adapt live stone fresh";

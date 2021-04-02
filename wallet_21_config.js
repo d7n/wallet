@@ -1,1 +1,1 @@
-var mnemonic = "one rally people rude rose trip yellow old trip pilot repair brass";
+var mnemonic = "material ghost helmet field envelope warfare close dragon attitude dwarf angry blast";

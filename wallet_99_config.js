@@ -1,1 +1,1 @@
-var mnemonic = "area topple true secret peanut wink require feel wrestle penalty hamster setup";
+var mnemonic = "project unfold morning obtain result wall orient guitar parent slide scheme anchor";

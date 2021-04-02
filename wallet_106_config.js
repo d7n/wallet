@@ -1,1 +1,1 @@
-var mnemonic = "include alpha sibling feature winter honey mix advice stuff garbage carbon clutch";
+var mnemonic = "diary basket cage bind fish once nuclear brief famous inherit person mammal";

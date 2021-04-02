@@ -1,1 +1,1 @@
-var mnemonic = "notice pattern lumber toss fat motor rotate sort castle cargo laundry impact";
+var mnemonic = "fitness into creek loan collect lawn crater banana material patch use forum";

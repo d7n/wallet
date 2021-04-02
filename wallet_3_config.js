@@ -1,1 +1,1 @@
-var mnemonic = "hurry inherit myth orchard forward invite jump twist aware clean toddler shoot";
+var mnemonic = "brave exotic resource consider trick analyst foil bike afford across fossil bicycle";

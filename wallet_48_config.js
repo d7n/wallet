@@ -1,1 +1,1 @@
-var mnemonic = "furnace garlic arctic debate canal true defy will come news jeans error";
+var mnemonic = "rely segment endorse twin employ employ balance few acoustic cotton clay arrange";

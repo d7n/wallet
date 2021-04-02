@@ -1,1 +1,1 @@
-var mnemonic = "will steel crazy stumble news diet essence nominee spider hammer pilot gallery";
+var mnemonic = "slow minute multiply together exist secret tomorrow brief food imitate chalk have";

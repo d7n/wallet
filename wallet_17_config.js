@@ -1,1 +1,1 @@
-var mnemonic = "screen soup left inject choose elevator body mind weasel dirt defense wool";
+var mnemonic = "price category girl dad gift vessel space price puzzle stereo evidence brisk";

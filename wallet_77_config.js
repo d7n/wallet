@@ -1,1 +1,1 @@
-var mnemonic = "craft help average warfare beef walnut mystery social mobile dog require truly";
+var mnemonic = "thank report copy neck reveal decade piano letter shoulder illness april success";

@@ -1,1 +1,1 @@
-var mnemonic = "like expose critic sphere camp wage unable submit flame charge awkward window";
+var mnemonic = "hammer spice march ship fee auction hire romance flame below fatal over";

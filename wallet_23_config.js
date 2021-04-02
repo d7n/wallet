@@ -1,1 +1,1 @@
-var mnemonic = "enjoy lend matrix destroy vapor file blood sibling piano only veteran harbor";
+var mnemonic = "bleak napkin six coin seminar ripple smoke announce anchor farm sock jaguar";

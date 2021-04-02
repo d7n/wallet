@@ -1,1 +1,1 @@
-var mnemonic = "raw bus jacket dad doll mango exotic frozen test seven pink pattern";
+var mnemonic = "lion curious velvet unable outdoor adapt awake talent enact enter mammal dilemma";

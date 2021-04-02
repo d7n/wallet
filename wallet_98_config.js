@@ -1,1 +1,1 @@
-var mnemonic = "close vocal census hole horn thought original coast involve earn roof blame";
+var mnemonic = "purse world hope fold sun divorce reunion hair tuition track later transfer";

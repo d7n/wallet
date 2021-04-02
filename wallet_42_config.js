@@ -1,1 +1,1 @@
-var mnemonic = "address first chimney worry raw roof icon tourist size client paper turkey";
+var mnemonic = "skin kid endless collect truly diamond document copper fog dizzy become train";

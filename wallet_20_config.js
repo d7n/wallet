@@ -1,1 +1,1 @@
-var mnemonic = "call cushion physical skirt youth black museum sound remember hold empty usual";
+var mnemonic = "reject learn enlist coyote alien axis budget apology jelly despair kiss miracle";

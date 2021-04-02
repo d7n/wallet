@@ -1,1 +1,1 @@
-var mnemonic = "mountain mercy charge endless expire turtle say mind aspect whale physical hockey";
+var mnemonic = "around defense lonely gym venue improve afford artefact spy various stable verb";

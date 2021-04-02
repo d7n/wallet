@@ -1,1 +1,1 @@
-var mnemonic = "car expose very useless shoulder cradle horn trim human purity abandon warfare";
+var mnemonic = "poverty huge upon picture cheap world impact diary faint account muscle adjust";

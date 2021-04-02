@@ -1,1 +1,1 @@
-var mnemonic = "abandon little moment angle hobby wink final tank property blur shoulder practice";
+var mnemonic = "core game element mother language once nephew foil cupboard youth wave picture";

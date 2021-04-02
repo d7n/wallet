@@ -1,1 +1,1 @@
-var mnemonic = "library ritual welcome supply song aisle transfer route minor danger junk crush";
+var mnemonic = "bread lucky law chair portion shove settle shed income foster sudden maid";

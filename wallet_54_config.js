@@ -1,1 +1,1 @@
-var mnemonic = "print stuff wild fashion undo pizza cheap donkey creek grocery sport satisfy";
+var mnemonic = "turtle scatter assault toy history great consider shuffle peanut mosquito more uphold";

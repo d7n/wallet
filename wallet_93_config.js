@@ -1,1 +1,1 @@
-var mnemonic = "salute abandon rib approve artist fluid absent govern divide harbor pet force";
+var mnemonic = "theme very mystery busy any race confirm escape giggle tonight concert mirror";

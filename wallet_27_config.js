@@ -1,1 +1,1 @@
-var mnemonic = "recipe rice win comic nation surge velvet note party laugh aware cigar";
+var mnemonic = "nothing wet this misery topple chief insect arrange tool skill shadow tenant";

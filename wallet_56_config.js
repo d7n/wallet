@@ -1,1 +1,1 @@
-var mnemonic = "illness asthma fence van pupil cloth envelope twelve crunch able avoid depart";
+var mnemonic = "coffee claw decade dial neglect print feature poem include arch shell purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely ask empty blood hollow cluster twelve snake pony canal sail pulp";
+var mnemonic = "jungle story tube spawn drama off gas tonight hidden quarter power wood";

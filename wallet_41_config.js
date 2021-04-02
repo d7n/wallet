@@ -1,1 +1,1 @@
-var mnemonic = "code ice toward neutral photo chuckle couch surprise state walk crisp cause";
+var mnemonic = "chief depart retire cat urban blade husband plunge text floor deposit engage";

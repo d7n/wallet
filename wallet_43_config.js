@@ -1,1 +1,1 @@
-var mnemonic = "reveal exact slide tired finger around rocket river couple daring toward dirt";
+var mnemonic = "unfold guide gasp exhaust reunion resist connect square open pigeon tower grant";

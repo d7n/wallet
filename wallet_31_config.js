@@ -1,1 +1,1 @@
-var mnemonic = "virtual chat act hour help portion differ olympic unit divorce forum cabbage";
+var mnemonic = "disagree moment spare scorpion turn naive other jacket innocent try hollow scheme";

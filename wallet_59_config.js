@@ -1,1 +1,1 @@
-var mnemonic = "sell welcome find upgrade melody mango penalty garbage report arch point warfare";
+var mnemonic = "then regret force share spoil ripple next rate bag reopen process wonder";

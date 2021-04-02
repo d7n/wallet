@@ -1,1 +1,1 @@
-var mnemonic = "frog advance cause father multiply myself cube gravity permit decorate cram boy";
+var mnemonic = "donkey argue sorry above limit metal tree brown useless plate want trap";

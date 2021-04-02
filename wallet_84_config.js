@@ -1,1 +1,1 @@
-var mnemonic = "butter brave prefer table flavor inject huge test lamp enhance exchange prosper";
+var mnemonic = "insane mom renew stove ritual volcano vibrant better buddy ignore potato crush";

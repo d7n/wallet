@@ -1,1 +1,1 @@
-var mnemonic = "hungry slice insane infant muscle choose culture grain live sudden truck tribe";
+var mnemonic = "crazy silk mom solar where answer mango drive assume inmate narrow flag";

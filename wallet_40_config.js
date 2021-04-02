@@ -1,1 +1,1 @@
-var mnemonic = "dizzy oblige concert blame hello man bonus junk million heart tunnel govern";
+var mnemonic = "walk lake tooth pretty below cinnamon connect trap virus buzz kick stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "blade hint detail all trial muffin fetch camp urban afraid winner offer";
+var mnemonic = "flag toward debris electric arctic cloud anxiety pottery diet strong blind absurd";

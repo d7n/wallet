@@ -1,1 +1,1 @@
-var mnemonic = "barrel olive visa bench where canoe wash civil crisp eye stand drill";
+var mnemonic = "citizen tattoo excite used chest click dirt scrap blur pigeon seminar draft";

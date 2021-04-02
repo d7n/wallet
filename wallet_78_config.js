@@ -1,1 +1,1 @@
-var mnemonic = "zero neutral define claim opera truly mesh mail hunt guitar tray supreme";
+var mnemonic = "royal sudden ordinary dune together under aisle street source prefer runway faith";

@@ -1,1 +1,1 @@
-var mnemonic = "betray embrace throw cool grain emotion earth frame net problem spare glory";
+var mnemonic = "moral moon eight any route cigar birth render click music hen catalog";

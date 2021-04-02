@@ -1,1 +1,1 @@
-var mnemonic = "curtain pelican sustain alert prepare library rotate toward fantasy catch century viable";
+var mnemonic = "resist repeat virtual alien abuse fault fluid swim reward advance prepare moon";

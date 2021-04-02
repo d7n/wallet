@@ -1,1 +1,1 @@
-var mnemonic = "bargain twist sorry neutral blood learn govern fiction soup potato retire buzz";
+var mnemonic = "pulse cream boy brisk cousin girl chuckle agent pitch what boy apology";

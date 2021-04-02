@@ -1,1 +1,1 @@
-var mnemonic = "oyster claim club toast main twist sight art hollow habit celery assist";
+var mnemonic = "student surge bronze vendor fuel taste surface drum sell walk unfold twin";

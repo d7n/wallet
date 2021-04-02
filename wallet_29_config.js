@@ -1,1 +1,1 @@
-var mnemonic = "pink prevent cotton toss hello save obtain opera wonder shove acoustic step";
+var mnemonic = "link laundry any produce pretty old rail pill exile social creek undo";

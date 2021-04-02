@@ -1,1 +1,1 @@
-var mnemonic = "note derive explain clean sweet brown snack atom sphere rain cradle require";
+var mnemonic = "pony fun artwork share ugly video spice clock actual avocado wrong twelve";

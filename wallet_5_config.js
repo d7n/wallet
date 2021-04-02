@@ -1,1 +1,1 @@
-var mnemonic = "ripple that exercise board dash salad blossom wool artefact flash bind edge";
+var mnemonic = "dream luxury organ arena dumb erosion shed glide draft tip nation daughter";

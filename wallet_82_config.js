@@ -1,1 +1,1 @@
-var mnemonic = "industry six glove similar stairs leaf lizard orphan uncle puppy gloom maximum";
+var mnemonic = "dignity dress shock you whale hint robust exhaust giant once pond jaguar";

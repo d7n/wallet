@@ -1,1 +1,1 @@
-var mnemonic = "wing fitness excite silent glory donate simple rocket novel guard betray demand";
+var mnemonic = "arrive best major emotion gold assist magnet surprise angry action false gasp";

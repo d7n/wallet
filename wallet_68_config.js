@@ -1,1 +1,1 @@
-var mnemonic = "coffee junk first tonight dignity hawk unhappy volume clump blossom connect exact";
+var mnemonic = "club able aspect feed fresh public divorce paddle same assault daring shield";

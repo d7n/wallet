@@ -1,1 +1,1 @@
-var mnemonic = "output vivid what screen brush kangaroo merge vicious imitate cushion emerge forum";
+var mnemonic = "silk verify donor fan creek discover worth exact angle soft alien okay";

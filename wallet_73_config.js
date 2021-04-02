@@ -1,1 +1,1 @@
-var mnemonic = "zone bring topic snake song brave again solution nut slight razor horn";
+var mnemonic = "nasty dismiss later inject bridge enjoy swallow latin owner rose silk wool";

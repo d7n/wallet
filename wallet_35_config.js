@@ -1,1 +1,1 @@
-var mnemonic = "drill usual tray credit figure grief bar weekend notable velvet flush cactus";
+var mnemonic = "acid large shell tennis slice filter wasp lawn car party actor nephew";

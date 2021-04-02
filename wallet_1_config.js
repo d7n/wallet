@@ -1,1 +1,1 @@
-var mnemonic = "long high valid this favorite bundle paddle panel auction oppose stem few";
+var mnemonic = "salute solid pilot real cash steak large adapt uncle satisfy tobacco toy";

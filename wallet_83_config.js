@@ -1,1 +1,1 @@
-var mnemonic = "apple affair flame human deliver claw reunion chapter brand dawn village busy";
+var mnemonic = "fiber bracket laptop canal assault judge person medal copy address foil skirt";

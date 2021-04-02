@@ -1,1 +1,1 @@
-var mnemonic = "grit frame midnight enforce chat glass river enforce quit trend found tape";
+var mnemonic = "phone affair finish sight hurt near useless wrestle normal horror flock alcohol";

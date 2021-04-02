@@ -1,1 +1,1 @@
-var mnemonic = "paddle pull relax hair hurdle immune cable hold ozone steel response gaze";
+var mnemonic = "hat tiger patrol bitter fresh pistol canyon ignore hobby soldier useless erosion";

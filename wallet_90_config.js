@@ -1,1 +1,1 @@
-var mnemonic = "avocado video spend review ocean flag trick avocado grab odor text drink";
+var mnemonic = "very hybrid motion cannon fiction empty figure kiss ridge never bomb over";

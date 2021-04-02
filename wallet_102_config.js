@@ -1,1 +1,1 @@
-var mnemonic = "monster satisfy idle jacket front kind luggage mimic begin candy unhappy envelope";
+var mnemonic = "theme evolve spike observe thunder energy suffer rifle elegant audit assault inquiry";

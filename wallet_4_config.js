@@ -1,1 +1,1 @@
-var mnemonic = "raccoon canal witness soup spray endorse isolate off bird lizard valid script";
+var mnemonic = "asthma scout element immune gorilla bacon elite dress green danger garage inner";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder client runway protect purpose scan happy bleak crawl elephant canoe ugly";
+var mnemonic = "essence dismiss expect pipe cabin advance fever drive margin scatter tone phone";
