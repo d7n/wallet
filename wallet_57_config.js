@@ -1,1 +1,1 @@
-var mnemonic = "echo fame nasty predict universe dinner timber patrol because knock whisper rifle";
+var mnemonic = "urban dish write achieve travel derive general carbon visual write shaft shove";

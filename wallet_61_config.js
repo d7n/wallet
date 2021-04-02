@@ -1,1 +1,1 @@
-var mnemonic = "famous bullet room loop afford stamp merry maid humor invest muscle cook";
+var mnemonic = "nominee era volume cry still mutual arrange pretty practice six music deny";

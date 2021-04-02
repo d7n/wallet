@@ -1,1 +1,1 @@
-var mnemonic = "valve illegal witness fantasy cost damp slice relief wife lunar total couple";
+var mnemonic = "useful pull cute enforce response wedding photo army vault arrive song angry";

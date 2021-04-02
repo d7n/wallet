@@ -1,1 +1,1 @@
-var mnemonic = "sheriff right isolate april just cargo ramp scan wish crater sound know";
+var mnemonic = "vehicle cute flight cherry slide draw goat artist cargo danger traffic carry";

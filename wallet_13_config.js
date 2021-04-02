@@ -1,1 +1,1 @@
-var mnemonic = "window lumber loyal junior carpet flee rescue pipe limb shed pattern tag";
+var mnemonic = "act level setup arrive give rather disagree worth abandon stool diet stage";

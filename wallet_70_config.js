@@ -1,1 +1,1 @@
-var mnemonic = "early tackle title error zoo embrace horn tone debate huge rose illness";
+var mnemonic = "elegant bundle noodle speed fatigue sleep flag canvas rack kangaroo neutral install";

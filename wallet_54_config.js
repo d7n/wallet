@@ -1,1 +1,1 @@
-var mnemonic = "yellow wonder addict curtain pyramid label hard chair life talk mirror orphan";
+var mnemonic = "useless hurt general hire float elite broken shadow nothing claim cattle cluster";

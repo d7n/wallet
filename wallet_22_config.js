@@ -1,1 +1,1 @@
-var mnemonic = "fee order alley recall panel resource floor absent zebra marble will there";
+var mnemonic = "note exotic sibling dad owner legal perfect shoe expect neutral tennis maid";

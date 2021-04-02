@@ -1,1 +1,1 @@
-var mnemonic = "exit easy inherit dilemma effort parrot clay elephant predict bacon lady oval";
+var mnemonic = "balcony early lake rabbit lunar turn rather coyote damp proof episode black";

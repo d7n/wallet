@@ -1,1 +1,1 @@
-var mnemonic = "fringe wife very episode seek head cricket vocal fever episode cause crash";
+var mnemonic = "rack fee melody already sense dress bracket area camera side humble inform";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk dream enter lesson title napkin leg vast brass chuckle snack sound";
+var mnemonic = "lawsuit oven pony finish gravity amazing winter taste keep dune uncle human";

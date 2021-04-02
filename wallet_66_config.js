@@ -1,1 +1,1 @@
-var mnemonic = "input elder track attract hello flock hard warfare oblige cruel similar nut";
+var mnemonic = "cloth high tent slight fade solar divide stage pigeon twelve face gown";

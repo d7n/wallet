@@ -1,1 +1,1 @@
-var mnemonic = "awake sudden equal fame test opinion rural regret there fan shadow fold";
+var mnemonic = "spirit ensure power nation female history song method damage crime caution net";

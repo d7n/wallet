@@ -1,1 +1,1 @@
-var mnemonic = "gasp slide stumble long sustain pulp assist disagree rival waste tissue stairs";
+var mnemonic = "convince garbage accident tape rebel glue address evoke gauge piece satoshi magnet";

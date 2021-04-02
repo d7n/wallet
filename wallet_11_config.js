@@ -1,1 +1,1 @@
-var mnemonic = "return all cry toast world van behave hope misery ill sword unfair";
+var mnemonic = "sleep poverty all success special moment gather path medal sentence fun gauge";

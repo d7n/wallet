@@ -1,1 +1,1 @@
-var mnemonic = "miss ability fitness swing robust ketchup six already trip prosper gaze worry";
+var mnemonic = "cause cake trust method tomato badge assist oil whisper exit swarm update";

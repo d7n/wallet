@@ -1,1 +1,1 @@
-var mnemonic = "crazy episode fan settle riot top domain shadow flight hood place drink";
+var mnemonic = "enemy fold behind marriage obey common uncover rally garage belt various mixture";

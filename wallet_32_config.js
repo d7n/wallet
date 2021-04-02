@@ -1,1 +1,1 @@
-var mnemonic = "attitude hammer tiny spy pottery round draw palace promote average cupboard wave";
+var mnemonic = "hobby infant call say nature gentle engage rhythm actor fade force mountain";

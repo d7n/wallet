@@ -1,1 +1,1 @@
-var mnemonic = "album dove slush mean penalty faint solar bid gain flush carbon resource";
+var mnemonic = "wish all pet sunny fancy swim present crisp antique rapid frozen inflict";

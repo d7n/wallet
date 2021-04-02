@@ -1,1 +1,1 @@
-var mnemonic = "bargain fall car across nut page diagram grab name exchange private river";
+var mnemonic = "zoo shell sure thumb best laugh increase solid toddler payment subway invite";

@@ -1,1 +1,1 @@
-var mnemonic = "august fury improve country acid quality nation cloth female flame fruit provide";
+var mnemonic = "jeans march divide cube two give light ordinary retire differ distance build";

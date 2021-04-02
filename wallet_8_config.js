@@ -1,1 +1,1 @@
-var mnemonic = "six tennis engage foster dumb odor chef burger maximum evidence include survey";
+var mnemonic = "twice crunch eyebrow spoon ignore sword rookie cruel still length course purity";

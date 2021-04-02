@@ -1,1 +1,1 @@
-var mnemonic = "pride hand include ill useful merge supply melody edge inflict volume grain";
+var mnemonic = "hunt amazing fix depend inside law paper lawn around young genuine broom";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss hollow turn congress vocal chapter layer army media typical tongue bicycle";
+var mnemonic = "violin robot chair item stone coach cement slim void pupil eight infant";

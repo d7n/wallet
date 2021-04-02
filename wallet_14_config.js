@@ -1,1 +1,1 @@
-var mnemonic = "correct noodle coach stairs ring dash always bicycle kitten hospital summer hood";
+var mnemonic = "crumble flash scrap peace jaguar evil rain aunt view path ugly tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "physical fresh rookie cheap tattoo phone meat medal crater reduce frown melt";
+var mnemonic = "belt question job visit oven smart chicken ripple marriage vocal cannon grant";

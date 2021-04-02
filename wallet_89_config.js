@@ -1,1 +1,1 @@
-var mnemonic = "obscure grow gloom genius prepare chase april conduct warm immune clown relax";
+var mnemonic = "job inner acquire female joy intact reduce short hair crunch topple scale";

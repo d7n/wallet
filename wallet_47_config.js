@@ -1,1 +1,1 @@
-var mnemonic = "lend sound sleep buyer train table connect acquire poem garage access century";
+var mnemonic = "unlock term toilet bone shaft obey police real dilemma melody vendor help";

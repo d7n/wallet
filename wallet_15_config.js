@@ -1,1 +1,1 @@
-var mnemonic = "promote planet limit feature doctor fly around ghost during catalog neglect cable";
+var mnemonic = "drum rule can wire scheme face random dinosaur sort captain rival decorate";

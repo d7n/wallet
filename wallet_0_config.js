@@ -1,1 +1,1 @@
-var mnemonic = "chase manual odor share marriage next dust kind execute session rich business";
+var mnemonic = "lyrics faint jelly patrol payment stadium tobacco force lawn acid barrel warm";

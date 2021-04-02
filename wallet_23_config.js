@@ -1,1 +1,1 @@
-var mnemonic = "swift carbon genius pair draft blame screen viable actress bundle genre acoustic";
+var mnemonic = "metal escape helmet dynamic gauge cradle same author leader employ tuna shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh online undo island quarter provide smooth field sort vacuum ripple hard";
+var mnemonic = "fury october female tube hidden marble end garage rug verb weekend problem";

@@ -1,1 +1,1 @@
-var mnemonic = "sister boost call boost usual zebra idea blue void olive draft local";
+var mnemonic = "brand change upset puzzle core quit ladder long noble believe sound scale";

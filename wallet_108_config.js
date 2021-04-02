@@ -1,1 +1,1 @@
-var mnemonic = "merit dune cupboard wrap drum crane whisper will weekend field crawl liar";
+var mnemonic = "act drop claw blur afford tree ankle nest owner pudding approve wedding";

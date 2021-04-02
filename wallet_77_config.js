@@ -1,1 +1,1 @@
-var mnemonic = "library knee season index margin core drift switch abuse blossom repair proof";
+var mnemonic = "pattern either feel oil place place victory nation pizza remove excess become";

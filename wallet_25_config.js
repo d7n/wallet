@@ -1,1 +1,1 @@
-var mnemonic = "code royal ethics vacant olive risk fabric hammer cliff afraid spend enable";
+var mnemonic = "audit gaze victory sudden rescue coffee offer develop sponsor because resemble awful";

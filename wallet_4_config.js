@@ -1,1 +1,1 @@
-var mnemonic = "brain collect desk idle hurdle sustain guard jelly favorite palace oval unique";
+var mnemonic = "field phrase drastic vast stone model hungry myself symptom usage speak kingdom";

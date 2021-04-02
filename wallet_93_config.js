@@ -1,1 +1,1 @@
-var mnemonic = "creek right token promote final omit cat false metal milk solid suffer";
+var mnemonic = "hazard helmet trap tomorrow vibrant relax copy rapid blast angry potato hotel";

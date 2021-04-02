@@ -1,1 +1,1 @@
-var mnemonic = "choose blush output actress year tent drift grain raw kitten ghost swear";
+var mnemonic = "oval live romance series aim airport public mouse dust adult ribbon trust";

@@ -1,1 +1,1 @@
-var mnemonic = "coin face decorate ecology stamp build mechanic still donor neutral salmon spend";
+var mnemonic = "rule script wonder basic clock derive silent bar gadget lunch weapon powder";

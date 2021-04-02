@@ -1,1 +1,1 @@
-var mnemonic = "time clinic add surface laundry flip moon fatigue easy fancy moon inside";
+var mnemonic = "success uphold sister minor debate soup first topic hedgehog biology hover target";

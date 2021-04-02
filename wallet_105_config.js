@@ -1,1 +1,1 @@
-var mnemonic = "jewel father pill ahead broccoli problem card oval flavor firm blue brief";
+var mnemonic = "forget shadow athlete prize snake hamster casino distance above else demand echo";

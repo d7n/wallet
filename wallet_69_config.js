@@ -1,1 +1,1 @@
-var mnemonic = "kind magic assist uniform jacket major boring squirrel flight father own chapter";
+var mnemonic = "tank program begin price cycle please random rule amount entire upset hour";

@@ -1,1 +1,1 @@
-var mnemonic = "parade hockey wing evil army unaware acquire submit alone goat wheat caution";
+var mnemonic = "winner surface nominee ankle planet slam cactus suggest aspect tonight expect team";

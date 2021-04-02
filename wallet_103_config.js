@@ -1,1 +1,1 @@
-var mnemonic = "oil faint weather ostrich yard simple hundred anchor flower system aspect magnet";
+var mnemonic = "cable boring hen canoe shock garment soccer reveal tunnel token siege diary";

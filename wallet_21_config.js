@@ -1,1 +1,1 @@
-var mnemonic = "enable payment immune outer sea sponsor balcony dog athlete silent mixture destroy";
+var mnemonic = "narrow craft purse orbit foil verify road arrange display hedgehog together inmate";

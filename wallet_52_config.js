@@ -1,1 +1,1 @@
-var mnemonic = "pause crouch civil loan hedgehog uncle twist zone topic state antique economy";
+var mnemonic = "picnic crisp aspect depend grocery hurdle belt mask safe arrive myth armor";

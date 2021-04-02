@@ -1,1 +1,1 @@
-var mnemonic = "fox donor bread bless stomach debate cash left lumber acquire second faculty";
+var mnemonic = "off axis bonus supreme amazing easy clinic imitate someone civil great click";

@@ -1,1 +1,1 @@
-var mnemonic = "naive transfer you plug giant muffin bacon this swap snake regular inspire";
+var mnemonic = "world drift connect sail young you train funny cover stem fancy raw";

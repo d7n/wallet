@@ -1,1 +1,1 @@
-var mnemonic = "usual poverty crystal try twenty room wheat hotel note sword since head";
+var mnemonic = "accuse void thunder grief cradle rally play that vibrant define puppy metal";

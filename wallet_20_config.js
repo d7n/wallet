@@ -1,1 +1,1 @@
-var mnemonic = "earth tenant crime impose orient menu funny jewel kangaroo robust throw girl";
+var mnemonic = "fortune novel happy maple shoot payment fun churn demand reject never canyon";

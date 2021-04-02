@@ -1,1 +1,1 @@
-var mnemonic = "describe auction spell hybrid edit next enough episode shadow subway ozone liar";
+var mnemonic = "rich love valve trade service skin pave hello promote upper pink cable";

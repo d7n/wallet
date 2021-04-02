@@ -1,1 +1,1 @@
-var mnemonic = "wrist job imitate rain still emerge alley sure absent good pelican coconut";
+var mnemonic = "chair clinic nest property sure hammer hedgehog media april arena congress oven";

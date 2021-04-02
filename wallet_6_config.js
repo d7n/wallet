@@ -1,1 +1,1 @@
-var mnemonic = "surprise rigid raise drama layer media version uphold argue have wheel bounce";
+var mnemonic = "assume juice pill wink inquiry legal shrug more web three elegant cereal";

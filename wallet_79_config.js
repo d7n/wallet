@@ -1,1 +1,1 @@
-var mnemonic = "chicken theory chunk mix quick song genre pyramid result they tenant bounce";
+var mnemonic = "diet gown life shock crash table endorse one pool under tired guide";

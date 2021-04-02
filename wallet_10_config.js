@@ -1,1 +1,1 @@
-var mnemonic = "element camp few balcony wish meadow amount lend coil track wild abuse";
+var mnemonic = "exclude shift torch remember maze devote desk lift save tribe wife safe";

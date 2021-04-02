@@ -1,1 +1,1 @@
-var mnemonic = "caught vanish island satisfy apart struggle steak daring option next hundred best";
+var mnemonic = "proud grow drift remind keen lesson slow brief machine nest shoe filter";

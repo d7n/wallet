@@ -1,1 +1,1 @@
-var mnemonic = "violin soldier tone endorse orchard loud harsh swim narrow recycle cluster chef";
+var mnemonic = "among usual bar rebuild spoil adjust rapid canvas symptom reflect recall upon";

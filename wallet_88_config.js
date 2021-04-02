@@ -1,1 +1,1 @@
-var mnemonic = "isolate acquire poverty witness deny exile ceiling luxury soap penalty real law";
+var mnemonic = "silly wet humble hip snap dwarf express produce side wire corn either";

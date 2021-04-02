@@ -1,1 +1,1 @@
-var mnemonic = "frame fix screen butter manual attend dog close salon seek grape couch";
+var mnemonic = "unit gift cheap nuclear genius subway suit success artefact ready sea elegant";

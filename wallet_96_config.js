@@ -1,1 +1,1 @@
-var mnemonic = "film bench old swear bring rubber weather cook clock fitness popular rocket";
+var mnemonic = "sight horror swing captain champion soap casino hand illness assist mechanic uncle";

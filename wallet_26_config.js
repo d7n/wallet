@@ -1,1 +1,1 @@
-var mnemonic = "boy surround purity coyote blade stomach fabric plate toast tribe figure session";
+var mnemonic = "journey congress marine water valve uncle anchor promote edit journey tongue obvious";

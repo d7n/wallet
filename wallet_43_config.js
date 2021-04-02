@@ -1,1 +1,1 @@
-var mnemonic = "twist cable grocery hungry merit crack clerk nephew spatial relax source obscure";
+var mnemonic = "desk mother two survey ivory negative ecology wrong plate salad forum purpose";

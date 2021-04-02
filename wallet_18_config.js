@@ -1,1 +1,1 @@
-var mnemonic = "wave game slight deputy wasp royal ahead scene wisdom lady praise wing";
+var mnemonic = "beach solar smile animal verb hockey frame ostrich people apology spot mango";

@@ -1,1 +1,1 @@
-var mnemonic = "observe insect topic brick strike armed method critic sense grit tube fee";
+var mnemonic = "what search venue multiply west must dinosaur try across burst rough scale";

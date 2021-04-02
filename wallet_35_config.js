@@ -1,1 +1,1 @@
-var mnemonic = "word yellow shop alcohol over cheap measure trim annual noise august zebra";
+var mnemonic = "expire unknown twelve place sand choose wrestle detect cry common dad tell";

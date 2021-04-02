@@ -1,1 +1,1 @@
-var mnemonic = "lizard limit cement tumble merry index guess deny tell two stamp sample";
+var mnemonic = "youth link feed cousin surge galaxy razor arm lake pill eye seed";

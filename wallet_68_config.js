@@ -1,1 +1,1 @@
-var mnemonic = "enjoy lemon bronze estate rail chimney chalk latin invite comfort vast either";
+var mnemonic = "over where glance flat pulse situate face switch aim cave test person";

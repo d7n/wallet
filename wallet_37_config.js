@@ -1,1 +1,1 @@
-var mnemonic = "system fan puppy lemon initial cycle health limit lady fatal smart curve";
+var mnemonic = "bunker raw portion assist lounge crush cover athlete cousin feel planet veteran";

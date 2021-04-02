@@ -1,1 +1,1 @@
-var mnemonic = "laundry novel achieve donkey timber must discover derive trap absurd boil theme";
+var mnemonic = "own husband shine shield print bamboo cycle add level doctor wing twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple yellow live solar ivory buffalo oak library cross grief observe draft";
+var mnemonic = "supreme winner owner cat waste equal drive rigid damage rent bomb carbon";

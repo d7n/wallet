@@ -1,1 +1,1 @@
-var mnemonic = "legend truly about venture crisp patch ask attract wheat retreat culture nothing";
+var mnemonic = "affair cereal educate venue margin patch call across year laundry wheat food";

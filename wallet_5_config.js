@@ -1,1 +1,1 @@
-var mnemonic = "tent blouse change file direct clog usage hello plate pulp panel model";
+var mnemonic = "skin random bike clap type when domain assault ostrich target pear forest";

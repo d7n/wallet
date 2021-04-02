@@ -1,1 +1,1 @@
-var mnemonic = "enhance marriage vapor mother roast goat reject now exist never nice sting";
+var mnemonic = "point siren dilemma eye truth ten rose hundred flush coast truly divert";

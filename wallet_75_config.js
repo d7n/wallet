@@ -1,1 +1,1 @@
-var mnemonic = "comic video insane lens mountain culture where club crater cloth risk plastic";
+var mnemonic = "whip give wolf evolve bounce illness brass total harvest nurse answer arm";

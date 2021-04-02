@@ -1,1 +1,1 @@
-var mnemonic = "onion metal essence soap mistake edit scan gentle supply truth target speed";
+var mnemonic = "tone neutral vacant october demise carry antenna barrel butter talent apple force";

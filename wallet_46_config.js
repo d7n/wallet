@@ -1,1 +1,1 @@
-var mnemonic = "stove cannon return write window lazy industry gorilla toddler lawsuit input fiction";
+var mnemonic = "local pond wine wolf floor order staff sniff write public bargain exact";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild rather merge flee swing shy version easily analyst select recycle actor";
+var mnemonic = "hero include pottery ritual record thought marriage race fantasy grid twin scheme";

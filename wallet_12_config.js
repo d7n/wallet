@@ -1,1 +1,1 @@
-var mnemonic = "skate feature claw chalk cloth ginger spoon siren want useful track feature";
+var mnemonic = "vicious alley exist admit degree naive suspect swarm pig discover urban iron";

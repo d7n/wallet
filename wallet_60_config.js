@@ -1,1 +1,1 @@
-var mnemonic = "jump squirrel soda ceiling shrimp crush pelican labor attend urban segment misery";
+var mnemonic = "cup memory awesome puppy milk trap keep slice loan dice hero powder";

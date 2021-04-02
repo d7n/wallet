@@ -1,1 +1,1 @@
-var mnemonic = "west crop camera spot vacant earth hole moral wheat raise wolf lecture";
+var mnemonic = "flash use renew horse nest turtle pitch account front ritual invest annual";

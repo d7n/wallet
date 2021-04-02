@@ -1,1 +1,1 @@
-var mnemonic = "fatigue combine motion bonus crane zoo step welcome reflect output there mixed";
+var mnemonic = "whisper van royal latin kitchen nominee ozone viable glove offer dilemma trick";

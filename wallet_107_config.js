@@ -1,1 +1,1 @@
-var mnemonic = "thunder ten smoke outside ordinary mushroom build staff child recall credit cash";
+var mnemonic = "citizen viable face woman venture balcony floor blind ketchup exercise income bean";

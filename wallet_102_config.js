@@ -1,1 +1,1 @@
-var mnemonic = "knife consider rule cloth air palace acoustic food rigid jelly blue deposit";
+var mnemonic = "danger castle inhale bronze stuff swing raise path address kit laundry fiscal";

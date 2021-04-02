@@ -1,1 +1,1 @@
-var mnemonic = "school wish aunt focus awake anxiety awake govern swim tornado obey remind";
+var mnemonic = "bomb consider curious level pelican solution area season educate artwork disagree one";

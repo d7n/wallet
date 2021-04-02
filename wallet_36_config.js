@@ -1,1 +1,1 @@
-var mnemonic = "industry night legend home parrot sniff pony core intact wool account stove";
+var mnemonic = "prosper spoil hover ride present hungry use burger fabric yellow walk shop";

@@ -1,1 +1,1 @@
-var mnemonic = "civil merry furnace merit usual chicken faith resist debris dial aspect nerve";
+var mnemonic = "stumble across resemble sound tomato pig left denial tissue behave trend floor";

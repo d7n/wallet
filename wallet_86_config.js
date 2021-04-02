@@ -1,1 +1,1 @@
-var mnemonic = "barely april menu unveil fiction stick butter round champion winter dune flavor";
+var mnemonic = "magic what journey pudding pumpkin run owner rack child chicken dragon quantum";

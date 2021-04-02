@@ -1,1 +1,1 @@
-var mnemonic = "shove doll jacket foot monster scissors atom wash ill gain parrot bottom";
+var mnemonic = "gallery shoulder concert because dawn despair noble equip eight rare expire hire";

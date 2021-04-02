@@ -1,1 +1,1 @@
-var mnemonic = "online phone bonus diary trial unknown wet supply chronic tissue medal harvest";
+var mnemonic = "paddle foster peanut exact pumpkin issue want salute live tuition drill siege";

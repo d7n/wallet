@@ -1,1 +1,1 @@
-var mnemonic = "space layer volume gun violin clerk elegant fish tunnel design pattern gloom";
+var mnemonic = "craft conduct genius scrub dove table amount globe system output vessel match";
