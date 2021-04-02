@@ -1,1 +1,1 @@
-var mnemonic = "ripple loyal yard mutual tuna sauce history impact verify voice bid horse";
+var mnemonic = "filter maid sign panther worth carbon wool fit today rice pave reflect";

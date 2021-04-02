@@ -1,1 +1,1 @@
-var mnemonic = "corn small globe burden dragon vicious expire sheriff defense middle casual verb";
+var mnemonic = "ritual strike fish barely mechanic addict other suspect mule patient share shrimp";

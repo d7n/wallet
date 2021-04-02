@@ -1,1 +1,1 @@
-var mnemonic = "utility frog great excite decade copper client fossil enjoy burst episode poverty";
+var mnemonic = "raven resemble sentence length situate replace gossip affair april manual alter panel";

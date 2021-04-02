@@ -1,1 +1,1 @@
-var mnemonic = "negative address dismiss welcome also hair moment front bird blouse electric fold";
+var mnemonic = "next fantasy pond bottom dizzy sleep juice pyramid camera seven cricket truth";

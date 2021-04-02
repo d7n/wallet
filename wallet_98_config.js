@@ -1,1 +1,1 @@
-var mnemonic = "crack truly lunar leader mesh stove always quarter lobster people charge muffin";
+var mnemonic = "insect parade vanish guide mammal truck nurse critic inch latin alert double";

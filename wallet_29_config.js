@@ -1,1 +1,1 @@
-var mnemonic = "unknown drill direct please sing near input finger idle hard gossip town";
+var mnemonic = "width dizzy find rule ecology piano evidence crater genuine pact exist tomorrow";

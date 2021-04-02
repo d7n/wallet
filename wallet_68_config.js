@@ -1,1 +1,1 @@
-var mnemonic = "spend curve atom trim fury visual scare lunar stadium fire comic grant";
+var mnemonic = "collect universe awesome spare village drink toe boy muscle blouse virtual donor";

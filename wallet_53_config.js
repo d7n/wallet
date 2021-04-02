@@ -1,1 +1,1 @@
-var mnemonic = "scrub source jaguar crawl wide attract claim inform inspire edit forward pretty";
+var mnemonic = "measure gap because gloom train entire wine enlist giant connect organ peace";

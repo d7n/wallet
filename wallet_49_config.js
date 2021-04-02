@@ -1,1 +1,1 @@
-var mnemonic = "boil steak poet two state reopen surprise aim trouble impose fresh echo";
+var mnemonic = "surround sausage ski eyebrow often agent buffalo crash kiss income evil daring";

@@ -1,1 +1,1 @@
-var mnemonic = "champion spike bubble crime wage trick matrix auction humble glimpse frozen anchor";
+var mnemonic = "canal fame actual cover churn leisure depart mouse slow tunnel equal safe";

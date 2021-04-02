@@ -1,1 +1,1 @@
-var mnemonic = "van chronic brand crumble van cattle amateur live outdoor regret tooth trick";
+var mnemonic = "delay salmon unable inflict wreck tuition antenna february gown antique link bottom";

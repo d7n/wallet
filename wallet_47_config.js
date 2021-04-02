@@ -1,1 +1,1 @@
-var mnemonic = "clip random sentence umbrella net wife cat okay offer guitar wasp index";
+var mnemonic = "soup tank hamster front athlete bounce unaware cousin employ okay cinnamon wear";

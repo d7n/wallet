@@ -1,1 +1,1 @@
-var mnemonic = "nerve edit midnight harbor cross rare spread nominee route swear term flavor";
+var mnemonic = "smoke pride name tornado swarm harsh property jump access era cattle coyote";

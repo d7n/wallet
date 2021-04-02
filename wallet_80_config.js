@@ -1,1 +1,1 @@
-var mnemonic = "vanish avoid tank logic list blue behave warm debate modify midnight enforce";
+var mnemonic = "truth iron toward trumpet crawl ready tower toddler expect cost elegant section";

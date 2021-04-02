@@ -1,1 +1,1 @@
-var mnemonic = "audit install upset dynamic album screen wisdom tunnel glue record federal wine";
+var mnemonic = "degree actress awake loan still wool cheese win captain mention you clarify";

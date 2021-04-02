@@ -1,1 +1,1 @@
-var mnemonic = "uphold bird cousin tired bike flavor license logic eye ensure swing potato";
+var mnemonic = "sad endless outer shadow earth exhibit chapter useful check junior live minute";

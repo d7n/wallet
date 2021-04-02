@@ -1,1 +1,1 @@
-var mnemonic = "health diet tool demise predict cart grant mail devote atom side network";
+var mnemonic = "network exchange element visa tired hawk figure light pull grain artwork tortoise";

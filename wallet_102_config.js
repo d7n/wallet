@@ -1,1 +1,1 @@
-var mnemonic = "include weekend domain creek nephew cloth universe melody charge nut bus squeeze";
+var mnemonic = "taxi alone outdoor hungry crucial poverty nasty merit crystal pupil robust axis";

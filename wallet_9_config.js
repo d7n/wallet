@@ -1,1 +1,1 @@
-var mnemonic = "edit eye more half clown audit thunder because infant inspire pause banner";
+var mnemonic = "fault client private scheme combine bachelor switch tonight elbow dignity whip cloud";

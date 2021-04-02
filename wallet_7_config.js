@@ -1,1 +1,1 @@
-var mnemonic = "depart narrow entire fancy acid marriage giant aisle camp outdoor cheap horror";
+var mnemonic = "salt canal spin blossom excess what search hip list need shrimp audit";

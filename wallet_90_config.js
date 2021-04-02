@@ -1,1 +1,1 @@
-var mnemonic = "intact comic bonus orchard blind brave beauty fever garbage motor skin diesel";
+var mnemonic = "slice lab hungry debate either type still valid couple fan marine wise";

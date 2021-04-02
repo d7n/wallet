@@ -1,1 +1,1 @@
-var mnemonic = "bamboo soda congress sick sight scatter drip repair script slogan garment bicycle";
+var mnemonic = "nest balcony orphan claim lunar art chef enter trash globe bachelor diagram";

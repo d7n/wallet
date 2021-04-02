@@ -1,1 +1,1 @@
-var mnemonic = "mask web mule fantasy scene tenant ritual shy engine crowd climb win";
+var mnemonic = "system audit scene correct ridge cannon sauce reunion glass mean lawn toss";

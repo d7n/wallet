@@ -1,1 +1,1 @@
-var mnemonic = "cruise save mango rally receive ketchup sudden alarm random idea seek wagon";
+var mnemonic = "ecology dress alarm equip truth woman catch rely among south whale bundle";

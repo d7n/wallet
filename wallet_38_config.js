@@ -1,1 +1,1 @@
-var mnemonic = "trim zebra alley fancy they flash brain mix cheese gather salt protect";
+var mnemonic = "swamp scissors swap agent camp bridge comfort garbage inspire anchor garlic supreme";

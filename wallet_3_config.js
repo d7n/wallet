@@ -1,1 +1,1 @@
-var mnemonic = "cook word add destroy repeat gentle endorse kid whale rookie boss candy";
+var mnemonic = "excess parade submit resource soup oil build salmon impose index limb nose";

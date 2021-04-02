@@ -1,1 +1,1 @@
-var mnemonic = "pill coral impose today cause crop tape frog law list pet midnight";
+var mnemonic = "gate axis obey obvious armed version stand quiz yellow cave column cable";

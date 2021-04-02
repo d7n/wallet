@@ -1,1 +1,1 @@
-var mnemonic = "spot lady goose fade into runway minute combine enjoy alone crumble loyal";
+var mnemonic = "season deliver cream spot sausage sign neck because rather tip genre salon";

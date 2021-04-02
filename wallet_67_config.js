@@ -1,1 +1,1 @@
-var mnemonic = "garden episode wreck ski trend survey escape climb chef verb example impact";
+var mnemonic = "trick security field deny cheap water catch unit absorb ski canyon battle";

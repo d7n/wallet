@@ -1,1 +1,1 @@
-var mnemonic = "enjoy task wave aspect brain nurse vacuum you margin morning rabbit pulse";
+var mnemonic = "attract guitar wave bachelor fee attend stone endorse junk cash cross present";

@@ -1,1 +1,1 @@
-var mnemonic = "horse example torch frequent inherit relief capital fit couple hold viable bitter";
+var mnemonic = "rich repeat web innocent little indicate solve rate adjust member seven mushroom";

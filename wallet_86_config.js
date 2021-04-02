@@ -1,1 +1,1 @@
-var mnemonic = "tattoo nice fence frozen lens cement brick faith verb extend shoot link";
+var mnemonic = "another screen include key lake prevent demise winter borrow network jeans chaos";

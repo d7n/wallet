@@ -1,1 +1,1 @@
-var mnemonic = "thumb hurry apart first argue easily wash among border crash demand grape";
+var mnemonic = "cotton rent drip lawn online clay select lounge zone defy amateur latin";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz asset captain polar search wood pause ecology coyote faith walnut sunny";
+var mnemonic = "chunk fury allow sell nothing zebra science ordinary spatial predict version dirt";

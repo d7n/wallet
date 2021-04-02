@@ -1,1 +1,1 @@
-var mnemonic = "shock staff eight grape grain essence dove model twin turtle just actress";
+var mnemonic = "suit globe quarter target yellow move bind make myself wool alpha acquire";

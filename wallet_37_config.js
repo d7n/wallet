@@ -1,1 +1,1 @@
-var mnemonic = "polar help forest exhaust pause child atom cotton mammal excess attend word";
+var mnemonic = "noodle initial clog vessel admit ring pride olympic engine way alley lucky";

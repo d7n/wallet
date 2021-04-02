@@ -1,1 +1,1 @@
-var mnemonic = "yard antique interest frog gather magnet outdoor panther cycle manage betray shrug";
+var mnemonic = "play segment wine sting limit mom cousin light essence note nest setup";

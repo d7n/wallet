@@ -1,1 +1,1 @@
-var mnemonic = "toilet bracket target fringe bachelor prevent gasp stone that remember all warrior";
+var mnemonic = "damp fragile language brief card glance burden frequent zone broccoli expire casual";

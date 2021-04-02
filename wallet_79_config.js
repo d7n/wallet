@@ -1,1 +1,1 @@
-var mnemonic = "federal twelve tired rely pave hotel talk regular wall link jaguar slot";
+var mnemonic = "cute pretty lion paper poverty donate repair age toward knee pledge hat";

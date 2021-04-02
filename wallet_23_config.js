@@ -1,1 +1,1 @@
-var mnemonic = "wood bind task produce amount gym vault cement snake road turtle cotton";
+var mnemonic = "truly price jump build panther slab stereo attitude animal rich child capable";

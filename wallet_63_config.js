@@ -1,1 +1,1 @@
-var mnemonic = "equal squirrel explain purity crater hope plug express deer zone soul magic";
+var mnemonic = "invest target very jewel brain twist soon kangaroo dance hard radar rich";

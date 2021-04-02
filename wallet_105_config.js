@@ -1,1 +1,1 @@
-var mnemonic = "rude drift pride caught seek snake sea palace jelly eye ridge blush";
+var mnemonic = "stand almost boat peanut long wish jeans mushroom similar board gauge battle";

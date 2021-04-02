@@ -1,1 +1,1 @@
-var mnemonic = "cousin powder donkey scorpion exhibit sorry melody tissue pizza prevent stand island";
+var mnemonic = "balance item sausage broccoli alert decrease shell bicycle grief cattle exchange bicycle";

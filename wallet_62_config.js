@@ -1,1 +1,1 @@
-var mnemonic = "boost dismiss minute casual cake indicate knife change bunker ready olympic clock";
+var mnemonic = "drive sweet keep simple brush roof essay amateur urban human smooth clock";

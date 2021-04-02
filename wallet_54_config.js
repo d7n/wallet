@@ -1,1 +1,1 @@
-var mnemonic = "orphan rally lemon gadget crystal dream borrow barely main repeat nation there";
+var mnemonic = "away network top law pink beef junk crater vehicle load tent fury";

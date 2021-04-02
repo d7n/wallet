@@ -1,1 +1,1 @@
-var mnemonic = "sing detect section laundry achieve swap faint jeans claim praise people hero";
+var mnemonic = "rich patient insect unhappy display faith fragile clog huge reward already frown";

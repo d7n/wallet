@@ -1,1 +1,1 @@
-var mnemonic = "jar cupboard skill submit chapter vacuum round struggle math access wasp engage";
+var mnemonic = "frame want during bottom goat road salad around human suggest butter orchard";

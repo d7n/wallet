@@ -1,1 +1,1 @@
-var mnemonic = "urban force cost scatter during oyster torch retreat improve reason dance army";
+var mnemonic = "move sister elite ceiling credit wagon fury suggest silk adjust body vivid";

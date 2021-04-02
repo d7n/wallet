@@ -1,1 +1,1 @@
-var mnemonic = "stage mammal torch shaft lava piano gift session plug ethics roast tumble";
+var mnemonic = "daring weekend joke frame bridge type tired second worth amused key tree";

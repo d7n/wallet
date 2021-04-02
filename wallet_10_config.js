@@ -1,1 +1,1 @@
-var mnemonic = "obvious august celery match bamboo grape velvet beef habit minute foot attitude";
+var mnemonic = "cool volcano fade wave dad copper exclude stock token margin purpose gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose vault neither oven multiply divert mean raw emotion video foot nurse";
+var mnemonic = "salmon extra alter female ozone borrow stable crop name you honey enact";

@@ -1,1 +1,1 @@
-var mnemonic = "great account maple oil royal message opinion always game recall client broccoli";
+var mnemonic = "airport verb tomorrow blind need drop style tiny where congress pitch health";

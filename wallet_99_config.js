@@ -1,1 +1,1 @@
-var mnemonic = "chair mind point fly expose lemon razor weird coral teach awake breeze";
+var mnemonic = "between arctic impose media future deer engage cliff ahead hire thank digital";

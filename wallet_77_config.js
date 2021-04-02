@@ -1,1 +1,1 @@
-var mnemonic = "essence panel unveil predict wedding desert balance either usage smile between zebra";
+var mnemonic = "carbon wage tail else layer hello mechanic opera decline onion lumber argue";

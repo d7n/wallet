@@ -1,1 +1,1 @@
-var mnemonic = "dumb audit ridge crime behave cereal two lamp walk grant emotion juice";
+var mnemonic = "pulp arrive system surround raw shy plate ankle deer vehicle course poverty";

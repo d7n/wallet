@@ -1,1 +1,1 @@
-var mnemonic = "draft fruit subject pill ask shrug sustain merit grunt shuffle salmon buzz";
+var mnemonic = "brand nasty cake spread struggle utility differ jacket equip have spy tornado";

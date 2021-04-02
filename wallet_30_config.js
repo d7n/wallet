@@ -1,1 +1,1 @@
-var mnemonic = "logic reflect island chimney strategy stay gun mystery economy basic divert bus";
+var mnemonic = "immune abuse south tumble finish tattoo uniform gesture thumb dizzy sort aim";

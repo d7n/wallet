@@ -1,1 +1,1 @@
-var mnemonic = "fall blood actress glory popular erode initial cheap squeeze matter loud shuffle";
+var mnemonic = "wool kick tobacco deliver wrist access panic shrimp proud fade engine soldier";

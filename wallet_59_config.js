@@ -1,1 +1,1 @@
-var mnemonic = "inhale ivory donate couple elephant engage tortoise toast gauge pupil skull issue";
+var mnemonic = "celery rocket nation reflect plunge they proof dinner lucky amateur organ blind";

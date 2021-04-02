@@ -1,1 +1,1 @@
-var mnemonic = "among indicate joy surprise forest win argue maze pair mom chuckle dust";
+var mnemonic = "theme innocent dress simple holiday second marble mass give cushion kind nuclear";

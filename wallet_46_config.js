@@ -1,1 +1,1 @@
-var mnemonic = "tattoo cigar consider false submit search finger anchor note yellow fatigue squirrel";
+var mnemonic = "unaware child cousin clean conduct deal edge struggle return tool shine what";

@@ -1,1 +1,1 @@
-var mnemonic = "evil knock lock lab early retire cook grow little frame end draft";
+var mnemonic = "desk neck volcano now swarm life bag piano day credit actual key";

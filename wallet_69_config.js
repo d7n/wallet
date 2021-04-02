@@ -1,1 +1,1 @@
-var mnemonic = "holiday tortoise dose emotion replace now flip escape mimic proud upon tomorrow";
+var mnemonic = "ski prevent laptop elder napkin verify estate tortoise alley paddle olympic tube";

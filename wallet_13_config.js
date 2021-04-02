@@ -1,1 +1,1 @@
-var mnemonic = "page skin entire exist echo mind awesome cave hub wine razor solid";
+var mnemonic = "convince turtle inside nut conduct attitude useful theory ketchup blur syrup access";

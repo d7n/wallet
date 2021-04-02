@@ -1,1 +1,1 @@
-var mnemonic = "hover upon thing like behind canoe program royal radio chuckle torch bag";
+var mnemonic = "fit oppose august unhappy capital future often good local stereo cement inject";

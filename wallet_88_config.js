@@ -1,1 +1,1 @@
-var mnemonic = "drastic poverty edit glass oil advice desk bottom whisper ancient photo grain";
+var mnemonic = "few category attack egg flame project lawsuit stairs myth fall fuel math";

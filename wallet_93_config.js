@@ -1,1 +1,1 @@
-var mnemonic = "isolate call mammal ahead violin please dash defense also candy lyrics sudden";
+var mnemonic = "neck owner virus finger era habit sand loud chuckle answer sword impose";

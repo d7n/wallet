@@ -1,1 +1,1 @@
-var mnemonic = "dawn super cherry gravity input rookie sell cave pilot claw sustain easily";
+var mnemonic = "logic situate bulb fossil pet able clog chimney volcano rabbit verb old";

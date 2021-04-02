@@ -1,1 +1,1 @@
-var mnemonic = "used obtain unaware lonely craft hundred escape praise legend smile asthma elephant";
+var mnemonic = "solve group demise ecology shove fabric mansion shy original flower feed kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "knife weekend sleep forward apple fury monitor echo entire torch mandate lonely";
+var mnemonic = "index verb apology long never embody upgrade wire dwarf bean dolphin laptop";

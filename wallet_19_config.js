@@ -1,1 +1,1 @@
-var mnemonic = "another various list raw cup drastic arrest pizza lab element income album";
+var mnemonic = "prepare curve bag saddle miss frame work play labor chest cruise welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "speed enable wine basket pitch glove harvest gloom allow level perfect luggage";
+var mnemonic = "brisk skill smooth story actor kid era series egg child jealous people";

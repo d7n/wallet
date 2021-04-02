@@ -1,1 +1,1 @@
-var mnemonic = "length legal salmon satisfy bridge auto bacon meadow frown stay clean car";
+var mnemonic = "primary horn guilt coil vapor grid hawk swear mirror frame sustain wagon";

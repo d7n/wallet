@@ -1,1 +1,1 @@
-var mnemonic = "fragile sister pig tape biology scale radio blush angry hero swallow remember";
+var mnemonic = "machine cinnamon inner talk useless neglect tired adapt enlist laundry few animal";

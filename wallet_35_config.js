@@ -1,1 +1,1 @@
-var mnemonic = "venue exchange palace trust bus scissors banana scheme whisper ignore into owner";
+var mnemonic = "jump better surround lottery blanket boost wood tackle witness indoor danger truck";

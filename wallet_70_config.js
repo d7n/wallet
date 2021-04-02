@@ -1,1 +1,1 @@
-var mnemonic = "belt kitten slim dwarf way toe upgrade couch gadget clinic noodle truth";
+var mnemonic = "foster unlock people employ wonder attack mushroom oak rare mass occur figure";

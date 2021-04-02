@@ -1,1 +1,1 @@
-var mnemonic = "resource scale slender excess miss avocado cage drip bracket drill pizza behind";
+var mnemonic = "nation gossip heavy enemy direct acoustic expire spell bonus antenna parade priority";

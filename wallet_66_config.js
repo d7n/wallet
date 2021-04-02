@@ -1,1 +1,1 @@
-var mnemonic = "life gallery hair achieve patch program hold tray can imitate journey road";
+var mnemonic = "armed expect acoustic avoid plate music thrive injury axis bring pupil trial";

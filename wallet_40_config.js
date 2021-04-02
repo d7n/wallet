@@ -1,1 +1,1 @@
-var mnemonic = "detail wrestle budget rubber cruel document universe change want sauce great then";
+var mnemonic = "brisk track mean hole pave delay web erase awesome breeze island reward";

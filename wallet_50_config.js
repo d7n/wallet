@@ -1,1 +1,1 @@
-var mnemonic = "fiscal social kitchen fine clean purity right avoid hard lunch feel list";
+var mnemonic = "eagle betray genuine blush mandate used north fluid night bullet pyramid immune";

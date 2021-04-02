@@ -1,1 +1,1 @@
-var mnemonic = "exotic grant satisfy rough neglect whip various major cricket panic dumb media";
+var mnemonic = "remain pitch divide rich topic fluid peace moon suit network honey strategy";

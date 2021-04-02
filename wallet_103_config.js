@@ -1,1 +1,1 @@
-var mnemonic = "topic across bubble alert infant age cattle awful love frown disorder air";
+var mnemonic = "alpha truly rose sorry moral source twenty shop box knock obscure cross";

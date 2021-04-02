@@ -1,1 +1,1 @@
-var mnemonic = "sun prefer oak eyebrow choose devote jar sadness regret clever episode enable";
+var mnemonic = "until learn fortune heart primary erode clown debris effort trade quick inch";

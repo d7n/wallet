@@ -1,1 +1,1 @@
-var mnemonic = "project denial sting reopen imitate furnace library craft conduct behind ride hen";
+var mnemonic = "roast space spoil betray card swamp wrist unusual pledge exit basic lift";

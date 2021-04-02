@@ -1,1 +1,1 @@
-var mnemonic = "outside unusual juice dignity measure release group never protect seed jewel wisdom";
+var mnemonic = "kite spin bread limit save fly onion junior wait ill midnight book";

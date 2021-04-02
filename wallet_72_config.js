@@ -1,1 +1,1 @@
-var mnemonic = "mutual egg meadow vintage aunt swing sock race replace swim fresh soft";
+var mnemonic = "tenant fire wonder pistol hen tool company ankle auction dilemma vacant mystery";
