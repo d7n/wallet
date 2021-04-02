@@ -1,1 +1,1 @@
-var mnemonic = "glow faculty canyon media project favorite unfair gap actual awkward caution industry";
+var mnemonic = "critic census pottery position version zone forest auction shallow habit invest fiscal";

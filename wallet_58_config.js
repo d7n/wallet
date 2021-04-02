@@ -1,1 +1,1 @@
-var mnemonic = "bleak alien tell exact minor cup endless staff tiger odor vital pelican";
+var mnemonic = "curve easy enrich clog visual subway into dwarf oppose grocery fitness drip";

@@ -1,1 +1,1 @@
-var mnemonic = "body donkey anxiety gravity school lyrics pencil proof cattle smile soon double";
+var mnemonic = "spirit verify print letter occur main rule turtle case rib pluck captain";

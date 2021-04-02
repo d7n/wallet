@@ -1,1 +1,1 @@
-var mnemonic = "cushion raise tackle denial antique foster bubble hunt hard gap west device";
+var mnemonic = "furnace century burger food obvious topple apart powder mouse rude dash wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "three glare water wool pole track dust wing drop essence famous visit";
+var mnemonic = "family coach cricket match hurt gospel salmon buffalo awesome give kick mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "need subject enter mixture dumb language bleak wall gossip drum sauce crane";
+var mnemonic = "wing saddle boost brother earth buyer client eagle sting gospel city idea";

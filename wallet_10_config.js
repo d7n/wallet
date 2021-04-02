@@ -1,1 +1,1 @@
-var mnemonic = "undo undo veteran piano canyon nephew hat wash crystal fortune obtain you";
+var mnemonic = "purse hobby clown menu merit affair limit during convince cloud tank magnet";

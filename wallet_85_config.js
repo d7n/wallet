@@ -1,1 +1,1 @@
-var mnemonic = "hybrid cram lizard divert cream eyebrow outside detect track ski cricket primary";
+var mnemonic = "color wood ordinary quick execute valid combine vacuum unlock firm almost gold";

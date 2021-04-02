@@ -1,1 +1,1 @@
-var mnemonic = "figure swing disorder solar protect middle endless wink cable fix badge stable";
+var mnemonic = "behave mistake front pen tuition broom moon drop come object gossip wash";

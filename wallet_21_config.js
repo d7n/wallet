@@ -1,1 +1,1 @@
-var mnemonic = "adjust era sand identify rude trash fetch afraid hobby daring sunny hammer";
+var mnemonic = "pistol shield swallow finger snack reason key abuse normal become suggest spider";

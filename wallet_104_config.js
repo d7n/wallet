@@ -1,1 +1,1 @@
-var mnemonic = "differ cream easily episode recycle shop rely lecture core ordinary slim such";
+var mnemonic = "churn inflict oblige spend noodle army vicious tent tattoo foam door inherit";

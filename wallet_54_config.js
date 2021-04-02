@@ -1,1 +1,1 @@
-var mnemonic = "note afford want glimpse nuclear whisper pear hobby burden churn detect awake";
+var mnemonic = "kiss doctor basic quick host orphan staff riot gasp vacant truly now";

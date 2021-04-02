@@ -1,1 +1,1 @@
-var mnemonic = "pulp monitor moment wire only elite miss valid lab broken remove normal";
+var mnemonic = "rifle rebuild kingdom pill lunar milk insane permit kit canyon outer gain";

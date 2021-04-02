@@ -1,1 +1,1 @@
-var mnemonic = "fashion grass candy suggest window inflict until survey reopen puppy text clock";
+var mnemonic = "album ethics immense unique abstract decide across boss round repeat sentence draw";

@@ -1,1 +1,1 @@
-var mnemonic = "behind bus same strike frown path tape bachelor dose lion lecture patrol";
+var mnemonic = "birth trip attitude glass quit agent crime question around give abuse city";

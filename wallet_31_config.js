@@ -1,1 +1,1 @@
-var mnemonic = "virus rough tumble lobster orphan aerobic romance skill web dilemma pool gate";
+var mnemonic = "grit walnut trust afford alien useless series cotton subject list hour slender";

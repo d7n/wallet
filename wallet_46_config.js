@@ -1,1 +1,1 @@
-var mnemonic = "mention insect brisk struggle behave iron puppy veteran only pair cover marriage";
+var mnemonic = "path black rug math proud purpose misery wink ability vacant essay gown";

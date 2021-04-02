@@ -1,1 +1,1 @@
-var mnemonic = "worth lottery fox inflict demand inquiry envelope rice cheap symptom name elegant";
+var mnemonic = "essence cause gold pill actress rain dignity zone reform maze invite ivory";

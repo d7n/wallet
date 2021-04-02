@@ -1,1 +1,1 @@
-var mnemonic = "brand dynamic baby gap frame father advice invest nominee siren ride glare";
+var mnemonic = "exotic child outer bicycle change endorse prefer dash educate razor network cry";

@@ -1,1 +1,1 @@
-var mnemonic = "notice abandon rival fetch eager penalty suit notice ceiling distance evoke pole";
+var mnemonic = "decrease practice small stick wool price float awful review again mind sibling";

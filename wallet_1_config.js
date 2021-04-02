@@ -1,1 +1,1 @@
-var mnemonic = "island amused gentle mixed photo notable kiwi margin travel thunder stable price";
+var mnemonic = "upset chaos wolf code fortune fee thank strike genre reject initial hour";

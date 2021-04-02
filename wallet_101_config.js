@@ -1,1 +1,1 @@
-var mnemonic = "rhythm manual fee gossip fault game whip apple body have waste job";
+var mnemonic = "breeze donor enough mammal grass kind vacant soon seed gap trim ice";

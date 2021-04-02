@@ -1,1 +1,1 @@
-var mnemonic = "carbon unfair whale letter charge blue use album rather final orient mad";
+var mnemonic = "exile hockey absurd near day junk little carpet front shed super volume";

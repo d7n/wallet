@@ -1,1 +1,1 @@
-var mnemonic = "okay mandate pretty bamboo sorry sister stick ahead fiscal donkey town carry";
+var mnemonic = "cube spoon pizza cradle turtle people combine lobster doctor sleep horse nuclear";

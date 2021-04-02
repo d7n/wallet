@@ -1,1 +1,1 @@
-var mnemonic = "innocent axis oil cash talk reflect wrap gesture excess cube cash canyon";
+var mnemonic = "husband you theory hint fiction misery sick announce tone funny access cheese";

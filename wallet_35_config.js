@@ -1,1 +1,1 @@
-var mnemonic = "nice doll jaguar federal broccoli winter youth rug hospital tip hybrid cruise";
+var mnemonic = "throw trim first enlist short carpet because invest slide fabric indoor abuse";

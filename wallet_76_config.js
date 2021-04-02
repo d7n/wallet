@@ -1,1 +1,1 @@
-var mnemonic = "supply student sort fetch evil wheat brass goat track window era sea";
+var mnemonic = "pause warrior honey road into cheese execute square pupil forget noise fish";

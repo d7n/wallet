@@ -1,1 +1,1 @@
-var mnemonic = "rich small thought outer once come race bullet robot table flag cinnamon";
+var mnemonic = "snap brother fish better winter neither drama dumb until parade shallow language";

@@ -1,1 +1,1 @@
-var mnemonic = "mix disorder differ dynamic real someone fiction heavy frog cart quality subway";
+var mnemonic = "kiss inhale post volume twice crouch hint sign sniff enough notable lecture";

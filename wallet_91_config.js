@@ -1,1 +1,1 @@
-var mnemonic = "close reflect harvest balcony run wife opinion panel rebel mirror smile comic";
+var mnemonic = "shield heavy legal stuff sheriff else deputy enable morning farm awful rival";

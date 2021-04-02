@@ -1,1 +1,1 @@
-var mnemonic = "dress lounge lounge festival turn cross invest antique sheriff immense glide mind";
+var mnemonic = "force position allow always weasel minute grape slam tennis woman ghost arrive";

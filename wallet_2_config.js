@@ -1,1 +1,1 @@
-var mnemonic = "submit zoo suit pledge access elegant scrap lottery noble stairs rival review";
+var mnemonic = "blouse make inner excess poet swear stuff wait emerge advance inspire camera";

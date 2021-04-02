@@ -1,1 +1,1 @@
-var mnemonic = "tell cake theory squirrel stay lyrics daring hair expose gas exact rain";
+var mnemonic = "risk visit dish slab winner clerk kid demise unusual bonus symptom ladder";

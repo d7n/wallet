@@ -1,1 +1,1 @@
-var mnemonic = "practice icon market drill regular consider other connect story pen replace lazy";
+var mnemonic = "virus ceiling license chaos cloud disorder attract seat spider salute sting squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "usage town inside guess fall delay genre aim program afraid sketch human";
+var mnemonic = "canoe trash boss pretty decorate rotate negative spike saddle shuffle afraid toilet";

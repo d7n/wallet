@@ -1,1 +1,1 @@
-var mnemonic = "powder flame journey awesome argue tip diary grant exit swear mail fringe";
+var mnemonic = "payment exclude glow ill village best height occur lottery near bronze marriage";

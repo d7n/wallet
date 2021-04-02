@@ -1,1 +1,1 @@
-var mnemonic = "artist spoon level chronic bounce pool true electric deputy toy art hope";
+var mnemonic = "patient menu husband material bargain gallery noodle keep enhance draw order rule";

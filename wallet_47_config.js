@@ -1,1 +1,1 @@
-var mnemonic = "easy suffer begin kitchen erode segment also seat provide poet spoon throw";
+var mnemonic = "doctor bunker sheriff version engine shield display where relief net loan gauge";

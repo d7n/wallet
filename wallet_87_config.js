@@ -1,1 +1,1 @@
-var mnemonic = "wage best gallery kit extra occur almost step label unit flavor position";
+var mnemonic = "glare apple latin urge dose outer critic what dash glimpse student gospel";

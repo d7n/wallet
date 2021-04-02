@@ -1,1 +1,1 @@
-var mnemonic = "cup film mechanic aim pet short recipe gloom minute practice potato flee";
+var mnemonic = "humble shoe camera napkin arrange material gain journey disagree focus pair panther";

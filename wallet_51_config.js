@@ -1,1 +1,1 @@
-var mnemonic = "exist work mass labor library warrior oxygen filter brush quiz round like";
+var mnemonic = "much resist symbol slice fan enforce fat differ whale anger curve strike";

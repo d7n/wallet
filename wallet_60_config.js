@@ -1,1 +1,1 @@
-var mnemonic = "bone size blind kidney fancy hurt resemble abstract beach fox debris pond";
+var mnemonic = "retreat zebra office man price cup muffin decorate feature arrange peace race";

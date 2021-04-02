@@ -1,1 +1,1 @@
-var mnemonic = "focus hole river patrol roast panda bird input field best output exhibit";
+var mnemonic = "sea soda trend avoid rail number powder sunset motion feature float bottom";

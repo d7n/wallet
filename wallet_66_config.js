@@ -1,1 +1,1 @@
-var mnemonic = "album door smart metal demand outdoor address valid vast general eye entry";
+var mnemonic = "noise electric lawsuit iron where transfer peanut fashion more memory shell attitude";

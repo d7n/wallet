@@ -1,1 +1,1 @@
-var mnemonic = "crop awesome world effort insect useful wrap outer finger found april essay";
+var mnemonic = "peasant law retreat reward educate fox neutral mandate walk argue blur effort";

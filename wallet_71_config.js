@@ -1,1 +1,1 @@
-var mnemonic = "blush invite license flee wrong catalog ring face damage catch merry season";
+var mnemonic = "glare unfold venue width pudding notable eight maid puzzle thumb pulp loud";

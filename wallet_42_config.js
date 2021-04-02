@@ -1,1 +1,1 @@
-var mnemonic = "benefit poem soda curious suit quote tower swear half surge obey nurse";
+var mnemonic = "practice ketchup drill scene fold cement crew minimum guilt book fee squirrel";

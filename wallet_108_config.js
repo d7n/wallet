@@ -1,1 +1,1 @@
-var mnemonic = "fish wish nation loan chuckle physical joke frame rug grief evoke orchard";
+var mnemonic = "stay include elegant aisle blast language vault rather crystal hand blue apology";

@@ -1,1 +1,1 @@
-var mnemonic = "toast auction easily borrow catch virtual planet recipe loan blade observe twin";
+var mnemonic = "decrease human point can keen spawn damp lens spend crisp trust scare";

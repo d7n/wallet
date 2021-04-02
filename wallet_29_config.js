@@ -1,1 +1,1 @@
-var mnemonic = "surge island switch marble lens water crazy fame hood fringe correct outside";
+var mnemonic = "size better vivid roast arena harvest heavy advice dizzy butter demise orbit";

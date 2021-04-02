@@ -1,1 +1,1 @@
-var mnemonic = "robot snow initial bullet awful horn service bulk figure double okay dragon";
+var mnemonic = "twice future stick bridge retreat caught mechanic course clarify shuffle cake plastic";

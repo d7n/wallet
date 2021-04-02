@@ -1,1 +1,1 @@
-var mnemonic = "supreme vibrant broom weapon claim dress account mushroom human option lunar jacket";
+var mnemonic = "cloud client defense poet upon way crumble chair tide caution silver list";

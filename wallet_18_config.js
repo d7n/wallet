@@ -1,1 +1,1 @@
-var mnemonic = "poet either canvas engine chuckle sorry planet kidney cushion inch mesh atom";
+var mnemonic = "debate injury grit super clever lumber fork craft inform flag table spin";

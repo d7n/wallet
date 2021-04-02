@@ -1,1 +1,1 @@
-var mnemonic = "match multiply decline trial barely consider snake input few struggle post prefer";
+var mnemonic = "stone trigger entire review regular brick robust chat marble universe giggle space";

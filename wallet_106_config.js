@@ -1,1 +1,1 @@
-var mnemonic = "occur dilemma found emotion rebuild black remain cover vacant improve gym copy";
+var mnemonic = "cool subject online ozone lake island citizen rent easily cherry absorb rebuild";

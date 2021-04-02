@@ -1,1 +1,1 @@
-var mnemonic = "summer setup truly indicate casino two shrug describe found imitate actor arrest";
+var mnemonic = "struggle unfair unaware young admit kite animal fluid ghost move also start";

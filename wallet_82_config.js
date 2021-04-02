@@ -1,1 +1,1 @@
-var mnemonic = "nest hand auction inform lend increase refuse vote satisfy cart key protect";
+var mnemonic = "circle toe dice thought make whisper file enemy field amazing stone beach";

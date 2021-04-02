@@ -1,1 +1,1 @@
-var mnemonic = "maximum plunge noodle gauge chat budget unique vibrant twelve urban unique fever";
+var mnemonic = "slim tiny fire cloud stage animal before any excite shine damage secret";

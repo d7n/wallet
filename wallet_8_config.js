@@ -1,1 +1,1 @@
-var mnemonic = "north bonus turkey course museum sweet carpet road high picnic steak never";
+var mnemonic = "runway situate project damp topple wife equal glass civil can hidden news";

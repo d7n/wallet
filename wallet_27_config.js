@@ -1,1 +1,1 @@
-var mnemonic = "damage segment cinnamon glow wine two razor turkey noble topic belt history";
+var mnemonic = "remove kiwi where hover protect action invest bachelor design rabbit dizzy easy";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual run decline vocal carpet pause ice dance nerve witness human reject";
+var mnemonic = "year tomato dirt floor suffer woman idle shoulder develop ask kite emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "diary ranch upgrade bleak mail blossom topic smoke concert version erode remain";
+var mnemonic = "fat tail audit strike situate cereal despair treat inch eager embrace display";

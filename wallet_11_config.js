@@ -1,1 +1,1 @@
-var mnemonic = "gain wing cat receive afraid nerve bench have manual noble enable weird";
+var mnemonic = "brown soccer human kit jump shield layer idle humor border stuff carbon";

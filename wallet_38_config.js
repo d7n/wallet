@@ -1,1 +1,1 @@
-var mnemonic = "trash home crater random banana script income leisure surprise thunder fiscal dismiss";
+var mnemonic = "icon forget stay tape noble typical wife swarm cram resist couple chapter";

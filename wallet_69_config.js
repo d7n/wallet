@@ -1,1 +1,1 @@
-var mnemonic = "north survey decorate chicken fabric goose flee year drill annual wish initial";
+var mnemonic = "struggle holiday decide hidden stamp company drum fashion spare shoulder offer wrong";

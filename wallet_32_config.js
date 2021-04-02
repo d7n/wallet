@@ -1,1 +1,1 @@
-var mnemonic = "together inspire sunny must fragile hungry horror base sight crucial bridge give";
+var mnemonic = "bacon shadow list bone ecology kick legend spirit cream photo window ridge";

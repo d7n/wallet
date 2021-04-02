@@ -1,1 +1,1 @@
-var mnemonic = "click shed work crazy goat twin include rich buffalo charge sample actor";
+var mnemonic = "example flame detect moment attack wisdom enrich measure next kangaroo youth sister";

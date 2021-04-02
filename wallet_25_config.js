@@ -1,1 +1,1 @@
-var mnemonic = "hat buzz twenty chuckle shine hundred type program mother symbol harsh crawl";
+var mnemonic = "bar angle save provide amazing cross impose fox ramp brain runway say";

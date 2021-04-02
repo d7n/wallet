@@ -1,1 +1,1 @@
-var mnemonic = "main tilt voice install hire seven setup mother just good fee marble";
+var mnemonic = "quote click raven among behind box again medal begin dumb exact winner";

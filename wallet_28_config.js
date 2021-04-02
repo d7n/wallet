@@ -1,1 +1,1 @@
-var mnemonic = "art cherry pulp blur media snack purse yellow vicious clump vibrant soldier";
+var mnemonic = "attitude leg artwork ocean foil shaft apart baby blouse kit mass dizzy";

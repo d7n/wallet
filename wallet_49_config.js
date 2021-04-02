@@ -1,1 +1,1 @@
-var mnemonic = "average bundle rebel island anxiety arrest arm timber wild struggle whisper wave";
+var mnemonic = "witness stand yellow stairs trim man diamond quote silk combine empower absorb";

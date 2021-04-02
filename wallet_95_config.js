@@ -1,1 +1,1 @@
-var mnemonic = "mixture tiger emotion dose valid chunk pottery able brief shove enrich plunge";
+var mnemonic = "simple snow detect blanket draw frown inspire announce beach frown extra wreck";

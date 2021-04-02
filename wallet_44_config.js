@@ -1,1 +1,1 @@
-var mnemonic = "sea ticket carry domain plastic muffin muffin dog spin jeans ability coconut";
+var mnemonic = "palace combine indicate pink key cradle grant fuel carry mandate sad bird";

@@ -1,1 +1,1 @@
-var mnemonic = "equip decade kid pear uphold blossom left rule absorb enlist toe recall";
+var mnemonic = "affair forget actor reason section kick smile sleep remember foil pool zone";

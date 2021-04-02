@@ -1,1 +1,1 @@
-var mnemonic = "tip wish allow bamboo demand habit ice whip suspect icon spice gaze";
+var mnemonic = "owner lyrics boss toe milk arrow next device cherry swallow virus anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy arctic few offer rare blush flip find simple cup vivid sweet";
+var mnemonic = "rapid ladder stone animal identify world credit chimney tape flag glide coffee";

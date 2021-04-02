@@ -1,1 +1,1 @@
-var mnemonic = "utility drift soup song dove inhale nominee face aunt weather buddy coach";
+var mnemonic = "impose hat joy genius upon hamster horror refuse gravity cigar between ticket";

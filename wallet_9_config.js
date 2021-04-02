@@ -1,1 +1,1 @@
-var mnemonic = "almost bag chat cancel member evoke excuse suit embody label final hurdle";
+var mnemonic = "group artist puppy liquid recycle name tornado dirt dove enough run sing";

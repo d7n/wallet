@@ -1,1 +1,1 @@
-var mnemonic = "chuckle blast report soccer bonus marble better critic bamboo luggage reflect they";
+var mnemonic = "neither ticket usual lend taxi police genre frown bird curious ketchup remove";

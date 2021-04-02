@@ -1,1 +1,1 @@
-var mnemonic = "humor switch anxiety member library engage news survey auction unique remember robot";
+var mnemonic = "leisure drill auto coach domain cargo snow flee unhappy author naive bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom alcohol fold enrich ahead clock that over dad enlist asthma someone";
+var mnemonic = "snap place spray cage artefact zoo orange card lumber horse horse life";

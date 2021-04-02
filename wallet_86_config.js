@@ -1,1 +1,1 @@
-var mnemonic = "either image diamond awful gadget jazz mask culture panel benefit soldier sick";
+var mnemonic = "vintage balance absent wrap apple long notice waste crouch feed icon glare";

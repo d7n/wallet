@@ -1,1 +1,1 @@
-var mnemonic = "obvious train cradle monster grocery chef monkey state quarter rough wink enhance";
+var mnemonic = "tape breeze gate reveal nature master creek main you cliff manage extra";

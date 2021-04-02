@@ -1,1 +1,1 @@
-var mnemonic = "obscure document rug outer jelly primary kiwi monkey gravity dinosaur yard end";
+var mnemonic = "fiber carbon maple bacon relax music bunker fade snow upper album worth";

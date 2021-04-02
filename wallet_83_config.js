@@ -1,1 +1,1 @@
-var mnemonic = "episode buzz spider coil online verb brain cash mango rival hood access";
+var mnemonic = "nominee monster feed flag waste silly smooth tuition expire dumb select tobacco";

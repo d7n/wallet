@@ -1,1 +1,1 @@
-var mnemonic = "sick prison clean crime frame sauce era video flash vocal equip hood";
+var mnemonic = "identify exclude age arctic twelve ship subway debate ability actor pen annual";

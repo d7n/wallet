@@ -1,1 +1,1 @@
-var mnemonic = "monitor focus subject mansion civil embark swarm move orbit rain elder solar";
+var mnemonic = "turtle system envelope direct gentle output egg wealth surprise drink like pipe";

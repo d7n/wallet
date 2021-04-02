@@ -1,1 +1,1 @@
-var mnemonic = "family dignity interest antenna scene cradle fragile injury robot pledge express must";
+var mnemonic = "tuition oxygen produce pupil cup float breeze slight educate sorry lawn hole";

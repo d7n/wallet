@@ -1,1 +1,1 @@
-var mnemonic = "unveil online problem digital assault winter hair salute tumble sure exotic pelican";
+var mnemonic = "shock armor metal trash super unfair circle they promote electric alert swing";
