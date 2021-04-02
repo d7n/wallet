@@ -1,1 +1,1 @@
-var mnemonic = "notable system wet way mutual wrong surge betray alert bounce boat man";
+var mnemonic = "offer aim erupt electric toss gadget exercise object churn novel bean album";

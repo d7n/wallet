@@ -1,1 +1,1 @@
-var mnemonic = "number air above slight safe strategy vendor lobster minute coconut slush cloud";
+var mnemonic = "call cushion physical skirt youth black museum sound remember hold empty usual";

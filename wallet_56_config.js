@@ -1,1 +1,1 @@
-var mnemonic = "brother main photo edge scheme maximum pitch gas hood place wheel oven";
+var mnemonic = "illness asthma fence van pupil cloth envelope twelve crunch able avoid depart";

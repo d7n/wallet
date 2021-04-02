@@ -1,1 +1,1 @@
-var mnemonic = "surface rely era toilet indicate wealth nerve bus correct foster chaos friend";
+var mnemonic = "rich path ghost scheme spawn oak harbor expect repeat term inflict glance";

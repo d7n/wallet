@@ -1,1 +1,1 @@
-var mnemonic = "bomb calm shed retreat build confirm antenna nose purchase mechanic assume report";
+var mnemonic = "butter brave prefer table flavor inject huge test lamp enhance exchange prosper";

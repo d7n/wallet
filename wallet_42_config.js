@@ -1,1 +1,1 @@
-var mnemonic = "betray radio cupboard illegal absurd cat core knee vendor boost develop enforce";
+var mnemonic = "address first chimney worry raw roof icon tourist size client paper turkey";

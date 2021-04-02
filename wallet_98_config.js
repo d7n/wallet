@@ -1,1 +1,1 @@
-var mnemonic = "fog better vivid roast grow between bird awful friend tuna metal hammer";
+var mnemonic = "close vocal census hole horn thought original coast involve earn roof blame";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage asthma hurt giggle catch wreck clutch garment teach cupboard bulk switch";
+var mnemonic = "knock license street march quality subject gather reopen travel leopard version census";

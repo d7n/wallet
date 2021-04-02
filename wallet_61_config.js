@@ -1,1 +1,1 @@
-var mnemonic = "work silly tank pottery plunge vendor path tiger patrol update window expect";
+var mnemonic = "jar immense sure banner verify pigeon nominee solution click company setup dog";

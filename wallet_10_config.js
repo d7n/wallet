@@ -1,1 +1,1 @@
-var mnemonic = "find decide dinosaur walk arrive loan orchard coast phrase tobacco tent broom";
+var mnemonic = "dirt present carry panther eternal indoor main daring congress repair ribbon devote";

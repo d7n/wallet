@@ -1,1 +1,1 @@
-var mnemonic = "steak office gadget peace stage smooth memory satoshi diagram capital upset destroy";
+var mnemonic = "injury seat camera style game poet grit host grain ketchup stone frequent";

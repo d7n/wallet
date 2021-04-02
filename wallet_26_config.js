@@ -1,1 +1,1 @@
-var mnemonic = "absorb toy ivory humor hammer canoe around buffalo program ten choose cannon";
+var mnemonic = "lonely ask empty blood hollow cluster twelve snake pony canal sail pulp";

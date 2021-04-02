@@ -1,1 +1,1 @@
-var mnemonic = "side toward answer license shy reopen piece copper stable special final sad";
+var mnemonic = "blade hint detail all trial muffin fetch camp urban afraid winner offer";

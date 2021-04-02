@@ -1,1 +1,1 @@
-var mnemonic = "rate category vehicle dignity skull bonus burger system plastic story canyon royal";
+var mnemonic = "abuse pitch method exact cinnamon then involve swim enact report sunset jealous";

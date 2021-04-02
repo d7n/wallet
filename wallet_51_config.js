@@ -1,1 +1,1 @@
-var mnemonic = "spoil gauge sure comfort devote say blanket mask path adult empower heavy";
+var mnemonic = "wing fitness excite silent glory donate simple rocket novel guard betray demand";

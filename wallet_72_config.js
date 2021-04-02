@@ -1,1 +1,1 @@
-var mnemonic = "soccer ordinary page garden edit slide swift hello emerge prevent fun curious";
+var mnemonic = "pride vote spy mushroom marble reveal also tower stock cram beauty satisfy";

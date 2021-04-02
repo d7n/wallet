@@ -1,1 +1,1 @@
-var mnemonic = "column write noise provide fan way agent off galaxy grace until swap";
+var mnemonic = "cannon rain thrive little cry physical muscle jeans orchard reject allow poem";

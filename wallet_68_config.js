@@ -1,1 +1,1 @@
-var mnemonic = "cruel job devote employ later true hat earn cart own nose future";
+var mnemonic = "coffee junk first tonight dignity hawk unhappy volume clump blossom connect exact";

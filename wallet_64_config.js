@@ -1,1 +1,1 @@
-var mnemonic = "child coffee gentle onion token bunker crawl early captain urge delay into";
+var mnemonic = "true weird lazy loyal relief umbrella horse garbage raccoon there begin violin";

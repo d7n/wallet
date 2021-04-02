@@ -1,1 +1,1 @@
-var mnemonic = "sight damage muffin bring company discover recall catch before second little lyrics";
+var mnemonic = "screen soup left inject choose elevator body mind weasel dirt defense wool";

@@ -1,1 +1,1 @@
-var mnemonic = "awful churn brain hover barely finger bless element merit first use crumble";
+var mnemonic = "exhaust bachelor tackle amount drama wall warm brisk mass text number flight";

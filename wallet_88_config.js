@@ -1,1 +1,1 @@
-var mnemonic = "void struggle uphold open shove salad winner east sister fetch retire during";
+var mnemonic = "reveal era open waste lobster better town resemble deer choose rug quantum";

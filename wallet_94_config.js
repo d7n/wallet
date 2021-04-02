@@ -1,1 +1,1 @@
-var mnemonic = "address net build alarm equal panda also category satisfy awkward teach zoo";
+var mnemonic = "number copy gentle wide rough danger tone left minute tag decide explain";

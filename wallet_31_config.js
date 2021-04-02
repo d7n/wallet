@@ -1,1 +1,1 @@
-var mnemonic = "file ten skate response road flavor drip race found wrestle able royal";
+var mnemonic = "virtual chat act hour help portion differ olympic unit divorce forum cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "review swallow account snack uncover jealous survey unveil street tell ensure hurdle";
+var mnemonic = "code ice toward neutral photo chuckle couch surprise state walk crisp cause";

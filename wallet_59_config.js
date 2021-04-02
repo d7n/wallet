@@ -1,1 +1,1 @@
-var mnemonic = "vacuum vessel index panic rule kiss fork member cattle weapon sponsor cousin";
+var mnemonic = "sell welcome find upgrade melody mango penalty garbage report arch point warfare";

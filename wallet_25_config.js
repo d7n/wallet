@@ -1,1 +1,1 @@
-var mnemonic = "bomb brick shop awesome mechanic acid harvest clump long suit chapter sea";
+var mnemonic = "like expose critic sphere camp wage unable submit flame charge awkward window";

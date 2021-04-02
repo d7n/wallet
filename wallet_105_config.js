@@ -1,1 +1,1 @@
-var mnemonic = "mouse clinic animal person disorder pigeon daughter surprise milk intact frequent galaxy";
+var mnemonic = "device horn survey rival unlock west judge supply sniff month wreck crater";

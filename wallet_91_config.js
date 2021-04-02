@@ -1,1 +1,1 @@
-var mnemonic = "dirt genius provide own fork carbon syrup gravity thumb guilt lucky peanut";
+var mnemonic = "frog advance cause father multiply myself cube gravity permit decorate cram boy";

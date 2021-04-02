@@ -1,1 +1,1 @@
-var mnemonic = "rose resource people convince inner unaware celery mango token panther quiz leave";
+var mnemonic = "major federal fee borrow main frost section chalk secret giggle weapon okay";

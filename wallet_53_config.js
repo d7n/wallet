@@ -1,1 +1,1 @@
-var mnemonic = "seek charge foil faith stairs output destroy wall destroy squeeze biology sun";
+var mnemonic = "sad april aspect foil good hazard creek insane pepper sphere select voice";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle connect gospel scorpion nominee bird foil umbrella wear solution enrich oppose";
+var mnemonic = "across school carpet exhaust crawl riot rifle tongue winter dial tuna own";

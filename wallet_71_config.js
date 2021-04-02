@@ -1,1 +1,1 @@
-var mnemonic = "grape hurry broken shed wet guard aim fitness any category hole loop";
+var mnemonic = "false artefact diesel merge ready polar dolphin crop front regret want fan";

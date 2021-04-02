@@ -1,1 +1,1 @@
-var mnemonic = "country able stable axis tent congress income spatial word punch cry future";
+var mnemonic = "apple affair flame human deliver claw reunion chapter brand dawn village busy";

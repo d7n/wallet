@@ -1,1 +1,1 @@
-var mnemonic = "visit flash public pink april rose wheat dune february refuse citizen receive";
+var mnemonic = "curtain pelican sustain alert prepare library rotate toward fantasy catch century viable";

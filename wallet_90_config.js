@@ -1,1 +1,1 @@
-var mnemonic = "law expire mirror endorse since level region worry carpet leave atom nerve";
+var mnemonic = "avocado video spend review ocean flag trick avocado grab odor text drink";

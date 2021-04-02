@@ -1,1 +1,1 @@
-var mnemonic = "virtual direct route impact globe tape pioneer museum maid atom pioneer source";
+var mnemonic = "minor bulk conduct rent lemon have solve soda abandon dune remain timber";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin boil velvet theme lunar spirit oppose gas tiger unknown cruel book";
+var mnemonic = "deny drift chicken crucial tuna useful flip arm alpha never chest index";

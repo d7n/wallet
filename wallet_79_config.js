@@ -1,1 +1,1 @@
-var mnemonic = "measure sell barely neither middle crouch check vacuum method lake wrap hope";
+var mnemonic = "worry wine unveil ship ancient lottery remember custom describe glide fault deal";

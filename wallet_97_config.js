@@ -1,1 +1,1 @@
-var mnemonic = "brick monster easy leopard enhance yellow net excess balcony exit arch weapon";
+var mnemonic = "will steel crazy stumble news diet essence nominee spider hammer pilot gallery";

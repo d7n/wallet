@@ -1,1 +1,1 @@
-var mnemonic = "save lunar artist force process virtual boat road crystal aspect true dizzy";
+var mnemonic = "struggle type answer torch vacuum patrol balance transfer private clinic spray feel";

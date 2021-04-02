@@ -1,1 +1,1 @@
-var mnemonic = "promote tired aerobic wreck correct they sign muffin dwarf approve easy panel";
+var mnemonic = "bargain twist sorry neutral blood learn govern fiction soup potato retire buzz";

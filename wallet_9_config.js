@@ -1,1 +1,1 @@
-var mnemonic = "point inform antenna random portion filter agent expand please goose inquiry horror";
+var mnemonic = "paddle pull relax hair hurdle immune cable hold ozone steel response gaze";

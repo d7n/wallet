@@ -1,1 +1,1 @@
-var mnemonic = "donkey please erupt replace finish dream attitude apart lemon eyebrow more where";
+var mnemonic = "bulb violin stage garbage visual begin lady disorder ahead quarter angle absent";

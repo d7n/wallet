@@ -1,1 +1,1 @@
-var mnemonic = "call rent endorse double inject mango success table confirm rival brand maple";
+var mnemonic = "dizzy oblige concert blame hello man bonus junk million heart tunnel govern";

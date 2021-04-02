@@ -1,1 +1,1 @@
-var mnemonic = "ignore autumn tuition admit buyer company adult strong couple fold often deny";
+var mnemonic = "flag develop wall rule easy fringe sustain hour denial rigid client wild";

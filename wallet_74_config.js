@@ -1,1 +1,1 @@
-var mnemonic = "color blur sort hobby nice motion access floor produce strong absurd glance";
+var mnemonic = "put horn skirt burst object position dove obtain ritual any figure try";

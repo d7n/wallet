@@ -1,1 +1,1 @@
-var mnemonic = "plunge mass opera order finish betray coffee toe describe live gain day";
+var mnemonic = "note derive explain clean sweet brown snack atom sphere rain cradle require";

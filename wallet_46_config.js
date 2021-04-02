@@ -1,1 +1,1 @@
-var mnemonic = "neutral question submit service tragic inject cost debris pretty high bacon dizzy";
+var mnemonic = "output vivid what screen brush kangaroo merge vicious imitate cushion emerge forum";

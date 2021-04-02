@@ -1,1 +1,1 @@
-var mnemonic = "permit trophy seek bracket degree item question cousin nuclear animal tip ten";
+var mnemonic = "twice fall spray recall kit gloom rough engine panel erode three canyon";

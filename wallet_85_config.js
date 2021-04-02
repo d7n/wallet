@@ -1,1 +1,1 @@
-var mnemonic = "quote artwork twist breeze put neither build depart mansion layer sphere screen";
+var mnemonic = "hub bonus inquiry woman nation armor occur inherit infant kiss night tired";

@@ -1,1 +1,1 @@
-var mnemonic = "people female annual dove hover rely alone neglect melt flush grant neutral";
+var mnemonic = "fossil medal resist slot orbit rich hybrid venture grace sugar recall story";

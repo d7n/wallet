@@ -1,1 +1,1 @@
-var mnemonic = "manage brown like air course define doll notable over dizzy marine clinic";
+var mnemonic = "ordinary mechanic any ability crime mirror inform galaxy butter impose expand damage";

@@ -1,1 +1,1 @@
-var mnemonic = "grit truck error useless double bitter person exclude oval dynamic enrich code";
+var mnemonic = "method rookie stove under buffalo dragon method hedgehog monitor device rain pond";

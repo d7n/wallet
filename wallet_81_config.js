@@ -1,1 +1,1 @@
-var mnemonic = "earth push remind gaze reveal anger join drift throw large mechanic oblige";
+var mnemonic = "you worry tone picture garage snap ring mountain pill pluck action oblige";

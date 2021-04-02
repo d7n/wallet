@@ -1,1 +1,1 @@
-var mnemonic = "punch wolf kitchen conduct ancient allow holiday general devote exotic popular endorse";
+var mnemonic = "drill usual tray credit figure grief bar weekend notable velvet flush cactus";

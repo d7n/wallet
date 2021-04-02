@@ -1,1 +1,1 @@
-var mnemonic = "neither used tongue already crane kit arrow wall mouse atom rather taste";
+var mnemonic = "average panic want grief web fee neither face just since bleak enough";

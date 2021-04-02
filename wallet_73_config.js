@@ -1,1 +1,1 @@
-var mnemonic = "crop lazy worry zebra meat bench nuclear order rose enlist bright promote";
+var mnemonic = "zone bring topic snake song brave again solution nut slight razor horn";

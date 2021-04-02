@@ -1,1 +1,1 @@
-var mnemonic = "describe ranch fame pepper rocket disorder proud submit wisdom appear raw spare";
+var mnemonic = "gentle unit mean perfect surface range decade front violin lemon volcano charge";

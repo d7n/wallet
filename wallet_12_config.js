@@ -1,1 +1,1 @@
-var mnemonic = "jewel shuffle visual episode isolate snack inmate chalk couch account current topic";
+var mnemonic = "flavor document purse great bargain have oxygen hurry jelly alarm neutral wing";

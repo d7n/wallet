@@ -1,1 +1,1 @@
-var mnemonic = "celery today equal chronic minimum size federal health stuff involve cigar travel";
+var mnemonic = "mountain mercy charge endless expire turtle say mind aspect whale physical hockey";

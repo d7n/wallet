@@ -1,1 +1,1 @@
-var mnemonic = "tonight crowd panic hidden matter vague pool venture cost rebuild front old";
+var mnemonic = "sick trip educate moon emerge blade weasel seven plastic quiz science step";

@@ -1,1 +1,1 @@
-var mnemonic = "believe design art upon sausage convince mushroom survey parrot provide floor trash";
+var mnemonic = "deal latin know coach oppose income want lecture surround what apology onion";

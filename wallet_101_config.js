@@ -1,1 +1,1 @@
-var mnemonic = "march drama hundred way history sight victory purse cactus hover steel gold";
+var mnemonic = "abandon little moment angle hobby wink final tank property blur shoulder practice";

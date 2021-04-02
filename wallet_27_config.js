@@ -1,1 +1,1 @@
-var mnemonic = "hurdle recipe void tired inner ancient movie liquid carry topple marine minimum";
+var mnemonic = "recipe rice win comic nation surge velvet note party laugh aware cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate exclude allow onion seek shove velvet grit aim hundred skull pulse";
+var mnemonic = "barrel olive visa bench where canoe wash civil crisp eye stand drill";

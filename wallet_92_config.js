@@ -1,1 +1,1 @@
-var mnemonic = "glare ethics blast story coil health comfort swift foam man blade smart";
+var mnemonic = "hill knife wet coral razor require relax scissors orient review route puppy";

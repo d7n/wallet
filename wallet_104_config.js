@@ -1,1 +1,1 @@
-var mnemonic = "leave assist tilt lottery snow morning snack easy derive daughter game fever";
+var mnemonic = "rabbit bargain frost dismiss rival frequent spice blossom cool across cliff hungry";

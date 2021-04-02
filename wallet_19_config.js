@@ -1,1 +1,1 @@
-var mnemonic = "much cloud marriage twin teach situate cycle away rely kid choice recipe";
+var mnemonic = "wonder client runway protect purpose scan happy bleak crawl elephant canoe ugly";

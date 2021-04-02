@@ -1,1 +1,1 @@
-var mnemonic = "cheese humble lab type hero curve cup prosper satisfy sponsor margin insane";
+var mnemonic = "print stuff wild fashion undo pizza cheap donkey creek grocery sport satisfy";

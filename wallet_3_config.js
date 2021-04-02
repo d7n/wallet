@@ -1,1 +1,1 @@
-var mnemonic = "pave blanket census pulse trend style rule nurse flavor step easy fan";
+var mnemonic = "hurry inherit myth orchard forward invite jump twist aware clean toddler shoot";

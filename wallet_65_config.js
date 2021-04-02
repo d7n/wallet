@@ -1,1 +1,1 @@
-var mnemonic = "first surface skate swallow series tail small wish junior lumber artefact pigeon";
+var mnemonic = "dry lazy right question dad siren print rich submit casino solution twice";

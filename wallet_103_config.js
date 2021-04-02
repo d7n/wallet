@@ -1,1 +1,1 @@
-var mnemonic = "animal figure talk stem cinnamon sister bachelor mushroom treat advance denial gravity";
+var mnemonic = "raw bus jacket dad doll mango exotic frozen test seven pink pattern";

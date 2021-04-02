@@ -1,1 +1,1 @@
-var mnemonic = "please over oak throw jeans level truth lucky convince ocean double rare";
+var mnemonic = "ripple that exercise board dash salad blossom wool artefact flash bind edge";

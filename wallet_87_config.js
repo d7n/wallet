@@ -1,1 +1,1 @@
-var mnemonic = "cluster awkward stick news defense dragon receive observe seed foam security frost";
+var mnemonic = "flash thank scissors trouble begin soup crystal series wage drill industry ticket";

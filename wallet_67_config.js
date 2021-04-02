@@ -1,1 +1,1 @@
-var mnemonic = "pyramid begin tilt object fork canoe bamboo finish amateur wonder guess prepare";
+var mnemonic = "gossip fiction olympic skirt forum simple return trend hen milk blanket rebuild";

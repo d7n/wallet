@@ -1,1 +1,1 @@
-var mnemonic = "victory damage awesome axis motion truth public square erosion observe life list";
+var mnemonic = "long high valid this favorite bundle paddle panel auction oppose stem few";

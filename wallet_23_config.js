@@ -1,1 +1,1 @@
-var mnemonic = "obscure bulk dry midnight shrimp pepper jungle spawn virtual forget steel margin";
+var mnemonic = "enjoy lend matrix destroy vapor file blood sibling piano only veteran harbor";

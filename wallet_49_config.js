@@ -1,1 +1,1 @@
-var mnemonic = "rough betray museum final want use simple example carbon welcome crawl proof";
+var mnemonic = "reduce story disagree endless awesome fade dumb carpet draw seek lawn enrich";

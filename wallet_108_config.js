@@ -1,1 +1,1 @@
-var mnemonic = "pitch spatial tip upgrade maze cry silver expect absent side giraffe quiz";
+var mnemonic = "grit frame midnight enforce chat glass river enforce quit trend found tape";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado monitor moment sweet rabbit credit upon client hawk scorpion profit spell";
+var mnemonic = "craft help average warfare beef walnut mystery social mobile dog require truly";

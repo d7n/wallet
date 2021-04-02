@@ -1,1 +1,1 @@
-var mnemonic = "army kitten knife giraffe unveil brand phone donate warrior wood orphan quick";
+var mnemonic = "furnace garlic arctic debate canal true defy will come news jeans error";

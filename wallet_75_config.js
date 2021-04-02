@@ -1,1 +1,1 @@
-var mnemonic = "swap dial cry canoe wheel leopard tip lend axis master bomb burger";
+var mnemonic = "oyster claim club toast main twist sight art hollow habit celery assist";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid volume resource enrich toss battle lecture annual ask alcohol attend huge";
+var mnemonic = "include alpha sibling feature winter honey mix advice stuff garbage carbon clutch";

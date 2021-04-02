@@ -1,1 +1,1 @@
-var mnemonic = "gadget thing orange trouble result husband similar beyond easy guess second burst";
+var mnemonic = "industry six glove similar stairs leaf lizard orphan uncle puppy gloom maximum";
