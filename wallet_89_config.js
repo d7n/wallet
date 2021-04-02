@@ -1,1 +1,1 @@
-var mnemonic = "scrap twelve ring inspire raccoon tide skirt toast prevent leopard dial allow";
+var mnemonic = "grunt voice flight trim flag click coral limit logic lock zero potato";

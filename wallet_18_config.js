@@ -1,1 +1,1 @@
-var mnemonic = "sniff happy better hurdle token flight buyer name keep light garlic coyote";
+var mnemonic = "wrong biology essay lake silent already federal story shuffle hip payment mix";

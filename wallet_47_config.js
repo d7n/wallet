@@ -1,1 +1,1 @@
-var mnemonic = "crawl know paddle hollow glue addict there faith vintage cupboard fiscal toward";
+var mnemonic = "image fuel music connect happy february cabbage dash click fog whale school";

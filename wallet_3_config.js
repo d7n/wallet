@@ -1,1 +1,1 @@
-var mnemonic = "share night glide spy depth when catalog school glory decorate identify cream";
+var mnemonic = "business addict sadness excuse faint pretty purchase crush fossil aisle add major";

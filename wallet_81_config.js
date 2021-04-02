@@ -1,1 +1,1 @@
-var mnemonic = "cricket mammal orbit kidney dove jacket muffin absorb ability service jaguar sister";
+var mnemonic = "crush very steak spare tell heavy slogan merry exercise job curve course";

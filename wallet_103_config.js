@@ -1,1 +1,1 @@
-var mnemonic = "novel december transfer loan awkward unaware brave debate quote bread gasp piece";
+var mnemonic = "dry prize want palm menu often library banana boss vacuum fire actress";

@@ -1,1 +1,1 @@
-var mnemonic = "affair away noble feed borrow pull father wrist wish stool fetch mechanic";
+var mnemonic = "loan throw sound priority glare item advice despair wave patrol abuse dragon";

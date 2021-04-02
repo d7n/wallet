@@ -1,1 +1,1 @@
-var mnemonic = "desk bomb brave soldier little topic admit wisdom vacuum slogan venue cloud";
+var mnemonic = "oil left summer alarm entire isolate sibling smoke van hobby fuel alone";

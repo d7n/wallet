@@ -1,1 +1,1 @@
-var mnemonic = "pledge fall kidney wise coast pig stick seed loop like flee seed";
+var mnemonic = "recipe ski elephant nephew surround cube general pretty awesome estate produce kind";

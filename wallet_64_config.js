@@ -1,1 +1,1 @@
-var mnemonic = "whisper ribbon fossil brother member rural prepare crawl hedgehog cotton wine coffee";
+var mnemonic = "title blast thrive toast shuffle retreat sure rug letter secret intact narrow";

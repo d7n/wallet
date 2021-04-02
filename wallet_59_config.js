@@ -1,1 +1,1 @@
-var mnemonic = "leg total deal brief whip tank leader razor arctic fish soccer today";
+var mnemonic = "north enlist august limit major curious story east rally happy group number";

@@ -1,1 +1,1 @@
-var mnemonic = "universe soon zero traffic just license alley evil hybrid river bring sphere";
+var mnemonic = "zone relief federal trap kidney bench off spatial captain describe turkey vibrant";

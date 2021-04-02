@@ -1,1 +1,1 @@
-var mnemonic = "orbit oxygen arm leopard unique will that couch cage frequent denial casual";
+var mnemonic = "ivory rough mushroom choice witness pioneer diamond melody current decorate oval grief";

@@ -1,1 +1,1 @@
-var mnemonic = "hour giggle swear reform aerobic humble jaguar depart pizza plastic payment common";
+var mnemonic = "live chest legend company mansion runway tray valid pulp say book diary";

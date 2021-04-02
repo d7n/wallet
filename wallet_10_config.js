@@ -1,1 +1,1 @@
-var mnemonic = "final assault song afraid glad lyrics unusual idle balcony culture fluid stairs";
+var mnemonic = "obvious transfer ancient forum only ask entry ranch jeans annual document print";

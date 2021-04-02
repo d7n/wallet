@@ -1,1 +1,1 @@
-var mnemonic = "ask very ability provide verify boy moral vacant mosquito pig wish witness";
+var mnemonic = "brave despair taxi view flower beyond response obey absent stage ball stuff";

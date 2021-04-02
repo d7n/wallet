@@ -1,1 +1,1 @@
-var mnemonic = "immense home scrub magic stem captain lift moral outdoor mixture body harvest";
+var mnemonic = "latin seek vivid wet arm surprise control essay desk profit brown flash";

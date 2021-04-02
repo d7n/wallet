@@ -1,1 +1,1 @@
-var mnemonic = "win roof issue lucky used stuff uniform strong fame walk estate grass";
+var mnemonic = "crack foot bridge negative way dumb afraid episode summer column share mushroom";

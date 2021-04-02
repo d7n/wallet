@@ -1,1 +1,1 @@
-var mnemonic = "salad giant thought clog lonely local season scorpion ring race seminar critic";
+var mnemonic = "tennis you clutch list shock correct pact shrug real deer tongue crisp";

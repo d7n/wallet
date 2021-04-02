@@ -1,1 +1,1 @@
-var mnemonic = "tragic rather team coast tornado salute cute shy educate twin person cruel";
+var mnemonic = "noble brown clump paper very hurdle suspect sniff stamp vital gift spin";

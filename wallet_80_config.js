@@ -1,1 +1,1 @@
-var mnemonic = "sentence where online plate elevator crew monitor target exile core jelly giraffe";
+var mnemonic = "tide control drastic vibrant solar chief blast trust square idle shed cake";

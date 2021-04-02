@@ -1,1 +1,1 @@
-var mnemonic = "silent floor video stem impose team bottom base torch scout flame clog";
+var mnemonic = "uncover powder gadget key tortoise tattoo ripple wink primary sort blouse soul";

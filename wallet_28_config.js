@@ -1,1 +1,1 @@
-var mnemonic = "canvas panic interest rigid address soul globe sing assume raw this potato";
+var mnemonic = "holiday direct chimney paddle kite wasp place mosquito boss dune tuition shrimp";

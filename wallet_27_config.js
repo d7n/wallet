@@ -1,1 +1,1 @@
-var mnemonic = "fatigue seven light fan today gather agent pond holiday quarter scout admit";
+var mnemonic = "final deer exchange upon this black festival already front hub leader silent";

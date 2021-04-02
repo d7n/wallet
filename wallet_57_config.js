@@ -1,1 +1,1 @@
-var mnemonic = "wire awake brick dry multiply night will panda fitness coral rough tail";
+var mnemonic = "echo share fitness wolf laugh guess autumn bridge buyer income rack east";

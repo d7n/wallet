@@ -1,1 +1,1 @@
-var mnemonic = "busy mom rough average define list panel correct truly awkward trim raise";
+var mnemonic = "relax birth aerobic fantasy excuse tiger wink dynamic bid excess replace inhale";

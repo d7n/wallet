@@ -1,1 +1,1 @@
-var mnemonic = "giraffe essence blast minimum faculty august text pitch test ensure siren tuna";
+var mnemonic = "great toy flavor morning analyst rack powder ahead swim bring spy dove";

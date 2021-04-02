@@ -1,1 +1,1 @@
-var mnemonic = "badge eight glare inform mechanic spice shrug isolate health high super crime";
+var mnemonic = "laundry foam enforce attract together predict scissors shrug fabric teach process submit";

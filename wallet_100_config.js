@@ -1,1 +1,1 @@
-var mnemonic = "traffic useful skin toilet dragon silent dad misery depend way latin wife";
+var mnemonic = "hazard cancel inner solid payment rubber battle awesome bench life sorry abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "input attract person turtle tray document aerobic crop table citizen release celery";
+var mnemonic = "position speed uncle lamp shop retire clump ring exercise brave ahead glide";

@@ -1,1 +1,1 @@
-var mnemonic = "feed gossip office cup abandon flame company renew diagram myth twist choice";
+var mnemonic = "vehicle make undo repeat ahead shift glass second correct slow friend average";

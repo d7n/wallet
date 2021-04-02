@@ -1,1 +1,1 @@
-var mnemonic = "any boil humor stove slender exercise object sense blur stamp cruise situate";
+var mnemonic = "paper mind beach ghost unveil bronze wise violin page ship scene era";

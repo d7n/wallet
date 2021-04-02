@@ -1,1 +1,1 @@
-var mnemonic = "outer wide cement circle stairs student suspect arrow escape bar any video";
+var mnemonic = "sword narrow pioneer denial chef message lazy excite kingdom hair reject rookie";

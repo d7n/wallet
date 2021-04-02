@@ -1,1 +1,1 @@
-var mnemonic = "pulp gossip immense morning crunch ahead rail narrow purchase lend diagram fox";
+var mnemonic = "food raven pyramid duck police front amount blouse movie angry outdoor broccoli";

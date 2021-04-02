@@ -1,1 +1,1 @@
-var mnemonic = "theme whale olive chair option cave prefer leave sunny symbol focus abuse";
+var mnemonic = "express summer note toy call crazy common negative country monkey abuse symbol";

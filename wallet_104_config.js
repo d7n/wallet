@@ -1,1 +1,1 @@
-var mnemonic = "hawk bean wink morning birth nurse what only giraffe suit only badge";
+var mnemonic = "subject bleak output glove famous chimney fence metal electric together usage captain";

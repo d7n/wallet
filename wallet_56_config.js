@@ -1,1 +1,1 @@
-var mnemonic = "winter small pave baby photo fashion chicken text syrup despair palm carpet";
+var mnemonic = "pool force wagon short novel manage candy strategy cattle glass cereal west";

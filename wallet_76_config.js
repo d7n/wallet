@@ -1,1 +1,1 @@
-var mnemonic = "risk entire decade almost win dinosaur trend state slice inspire kangaroo organ";
+var mnemonic = "hurry trigger purity fat jelly combine neck fuel foam abandon cover lonely";

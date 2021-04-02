@@ -1,1 +1,1 @@
-var mnemonic = "robust pyramid raw episode have occur witness erupt borrow exact wait energy";
+var mnemonic = "hazard basket field license truck twice human maximum notice shoulder purse drill";

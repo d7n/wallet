@@ -1,1 +1,1 @@
-var mnemonic = "wait wash witness decide wish scan wolf toilet maximum empty disagree rough";
+var mnemonic = "gather build defy game wait comfort message gospel picture ocean walk daring";

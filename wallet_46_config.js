@@ -1,1 +1,1 @@
-var mnemonic = "neglect hedgehog regular caution impose group balcony reason judge box jewel gentle";
+var mnemonic = "dolphin reward earn ribbon creek pencil want ripple chest ankle nature type";

@@ -1,1 +1,1 @@
-var mnemonic = "spot heart cancel orient kind sick palace donkey balcony fold gun three";
+var mnemonic = "tourist tunnel bicycle oval nose lift boy list trust wish club void";

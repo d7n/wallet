@@ -1,1 +1,1 @@
-var mnemonic = "aerobic scissors rug cereal rely salon luxury moral deputy toss vessel invest";
+var mnemonic = "blush rescue derive bring nephew cave cluster leave farm rain crop unaware";

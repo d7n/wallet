@@ -1,1 +1,1 @@
-var mnemonic = "hawk rifle purpose juice waste member claim test seven asset shock cook";
+var mnemonic = "busy hungry giraffe razor gloom bar shaft board vocal mystery bird fence";

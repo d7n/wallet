@@ -1,1 +1,1 @@
-var mnemonic = "green moment volcano save pudding virus code proud material very random motor";
+var mnemonic = "lecture express mountain avoid ball stable magnet alpha like edge ranch inhale";

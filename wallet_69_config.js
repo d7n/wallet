@@ -1,1 +1,1 @@
-var mnemonic = "lottery oven mutual smart powder turtle bacon item lyrics fish pottery surface";
+var mnemonic = "amount usage actual vanish anxiety melody dizzy surge fine ring student law";

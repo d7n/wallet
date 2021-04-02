@@ -1,1 +1,1 @@
-var mnemonic = "salmon parrot civil false pencil spoon scout unfair okay present muscle amazing";
+var mnemonic = "century spawn arena diesel join tank obey solid mystery client credit census";

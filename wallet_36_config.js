@@ -1,1 +1,1 @@
-var mnemonic = "main section betray wood shiver render neither grape month antique fury engage";
+var mnemonic = "coyote reflect buddy december cause dismiss culture rude trust deposit cheese film";

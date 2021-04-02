@@ -1,1 +1,1 @@
-var mnemonic = "brisk room exact slide rebuild innocent also tube beef below insect almost";
+var mnemonic = "industry present draw horror verb denial whale lunar firm sorry album grain";

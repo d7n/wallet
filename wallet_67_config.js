@@ -1,1 +1,1 @@
-var mnemonic = "assault episode win address hobby giant own defy situate average twelve beyond";
+var mnemonic = "boil thought upgrade much pelican input analyst thunder discover solid horn lounge";

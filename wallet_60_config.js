@@ -1,1 +1,1 @@
-var mnemonic = "merit broken museum kick mosquito olympic only crush bitter below economy adult";
+var mnemonic = "similar chalk situate flip shift other valid slogan goat lava alarm acquire";

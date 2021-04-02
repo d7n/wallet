@@ -1,1 +1,1 @@
-var mnemonic = "world noble grit edit wisdom know appear double erupt collect chalk harbor";
+var mnemonic = "broccoli promote pottery banner warm want usage organ green supply found panda";

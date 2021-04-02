@@ -1,1 +1,1 @@
-var mnemonic = "nuclear rug proud glance grace jelly region brown never undo ketchup worry";
+var mnemonic = "congress cloth bar vapor icon letter build jeans service cattle slab license";

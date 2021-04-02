@@ -1,1 +1,1 @@
-var mnemonic = "marine antique spell almost amused elevator giraffe anger basic cute sense decorate";
+var mnemonic = "apple clarify recall certain push sustain elephant anger crew candy opera piano";

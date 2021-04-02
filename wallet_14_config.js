@@ -1,1 +1,1 @@
-var mnemonic = "airport convince ship pretty picnic bridge oblige eyebrow execute interest night critic";
+var mnemonic = "dutch attract coin chest color quality beach kid penalty fan invest table";

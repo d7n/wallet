@@ -1,1 +1,1 @@
-var mnemonic = "soda sudden uphold stairs bright tortoise advice basic vote snake layer chunk";
+var mnemonic = "hover weather text like balcony purity begin into embody reduce modify limit";

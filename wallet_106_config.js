@@ -1,1 +1,1 @@
-var mnemonic = "cloud ready already monster donkey poet slide diagram copy market angle upper";
+var mnemonic = "enjoy pilot ketchup wise rare clutch choice trap vault memory frown cradle";

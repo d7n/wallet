@@ -1,1 +1,1 @@
-var mnemonic = "trash elegant fatigue gain service fire exclude limb moon know mention ride";
+var mnemonic = "guitar build victory latin cancel one wise envelope bag reject human gospel";

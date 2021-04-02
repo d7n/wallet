@@ -1,1 +1,1 @@
-var mnemonic = "life route device gain finger kitchen advice east million buyer emerge access";
+var mnemonic = "clever school use pioneer direct much drill gravity length oak cart word";

@@ -1,1 +1,1 @@
-var mnemonic = "party diary ignore allow sick obscure guide lucky section file letter into";
+var mnemonic = "transfer egg awful bleak drama oven quick inject lab expose emerge spider";

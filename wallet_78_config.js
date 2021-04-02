@@ -1,1 +1,1 @@
-var mnemonic = "exhibit session lumber hour twenty dinner soon chef gown youth mobile foam";
+var mnemonic = "furnace guilt kingdom digital miracle twelve domain jungle craft mistake lottery sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "bread lucky liar market sphere shaft leg cook weather caution catalog phrase";
+var mnemonic = "exhaust ride again duck empty kiss yellow salad region delay tiny neutral";

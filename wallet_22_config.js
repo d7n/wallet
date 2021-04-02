@@ -1,1 +1,1 @@
-var mnemonic = "need lamp pencil pumpkin champion aisle anxiety autumn volcano use absurd drive";
+var mnemonic = "sail way debris degree satisfy twin limit bottom physical benefit awful lunch";

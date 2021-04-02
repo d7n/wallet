@@ -1,1 +1,1 @@
-var mnemonic = "index despair foster candy crop loan state pause speed mom winner aerobic";
+var mnemonic = "oppose tongue orbit knock bind column inhale thought brief business treat basic";

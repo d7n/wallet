@@ -1,1 +1,1 @@
-var mnemonic = "remove lyrics media hawk pilot snap ill permit suspect marble panda crazy";
+var mnemonic = "vacant electric manual supply library abstract possible excuse snap illness gold place";

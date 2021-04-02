@@ -1,1 +1,1 @@
-var mnemonic = "inflict canvas bonus tooth purse act scout slush peace budget ball inner";
+var mnemonic = "outside onion alcohol lyrics soap usual tattoo neither rescue property lecture walk";

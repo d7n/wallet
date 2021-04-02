@@ -1,1 +1,1 @@
-var mnemonic = "bench reunion fitness debris mail sound cactus acquire myth ill tomorrow fragile";
+var mnemonic = "wage exhibit cube champion sure ride song gospel pyramid between sister bone";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial parade actor fury evolve radio category east report assist track summer";
+var mnemonic = "open elite use myself photo spatial expose fashion battle toast ignore say";

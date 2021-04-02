@@ -1,1 +1,1 @@
-var mnemonic = "legend sight gadget bulk moment spatial fee account action imitate tattoo give";
+var mnemonic = "gossip differ winter say reveal cool magic embrace thumb flat expose zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace zoo mechanic speed second insect clock interest retire battle trouble observe";
+var mnemonic = "gentle eight state soft urge air ethics enlist useful next garage drill";

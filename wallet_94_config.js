@@ -1,1 +1,1 @@
-var mnemonic = "medal erosion relief horror minute still dragon raw lazy imitate lizard ready";
+var mnemonic = "pave welcome text device all then anger stage venture language empower marble";

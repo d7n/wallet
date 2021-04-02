@@ -1,1 +1,1 @@
-var mnemonic = "trigger merry scene obscure left space can crater gate sleep scatter fabric";
+var mnemonic = "silk faculty grape method sign modify rebuild today day final ability fitness";

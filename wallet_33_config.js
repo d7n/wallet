@@ -1,1 +1,1 @@
-var mnemonic = "label proud banana give action diesel analyst solve release maple galaxy seminar";
+var mnemonic = "net surprise wing clutch screen deer lottery twin celery toddler now shine";

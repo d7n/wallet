@@ -1,1 +1,1 @@
-var mnemonic = "circle angry pitch endless amused wolf lyrics gentle skate bronze fire palace";
+var mnemonic = "morning cargo impact silly arm year bundle truly flush organ barrel film";

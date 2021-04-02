@@ -1,1 +1,1 @@
-var mnemonic = "link slice rival crumble seat monster author crunch rebel copper moon marine";
+var mnemonic = "first twin expose lobster suit hybrid essence photo awake budget day syrup";

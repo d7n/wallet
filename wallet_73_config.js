@@ -1,1 +1,1 @@
-var mnemonic = "cube lift uncle side art plunge pretty silly two asthma egg erode";
+var mnemonic = "throw jazz gym easy arm sing wasp midnight drastic ill melt luxury";

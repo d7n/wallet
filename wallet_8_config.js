@@ -1,1 +1,1 @@
-var mnemonic = "humble feature thrive grant cinnamon jealous vapor practice leg razor scare dove";
+var mnemonic = "emerge pudding effort impose entire health squeeze lens board skin exile broccoli";

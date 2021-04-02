@@ -1,1 +1,1 @@
-var mnemonic = "eagle obtain token swamp version myself pipe increase word donkey double please";
+var mnemonic = "shift maid few shallow earth total feel flag math common spy source";

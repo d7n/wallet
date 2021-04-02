@@ -1,1 +1,1 @@
-var mnemonic = "boring color bus culture brother cup crew turn army husband rural roof";
+var mnemonic = "wash initial cool laptop wife angry delay child fame plug crash congress";

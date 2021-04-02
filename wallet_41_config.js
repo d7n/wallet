@@ -1,1 +1,1 @@
-var mnemonic = "hungry security winner unfold near fiber finish quantum echo diamond faint coconut";
+var mnemonic = "object love teach silver render transfer beach door place square input anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "pair refuse fresh month laundry rate danger few later brief cheese exist";
+var mnemonic = "skill innocent boy distance cotton basket wonder skin retire girl sting name";

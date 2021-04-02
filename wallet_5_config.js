@@ -1,1 +1,1 @@
-var mnemonic = "civil cancel foil sand unknown poem stick radio acquire drift still found";
+var mnemonic = "ancient beach flower buzz have pattern crucial luxury dentist that pave erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "total evolve toward drink warrior bean stumble true arrive pioneer bus march";
+var mnemonic = "piece mercy mother rent lazy gold umbrella waste impose say glad ahead";

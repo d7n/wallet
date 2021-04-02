@@ -1,1 +1,1 @@
-var mnemonic = "sustain today narrow minute author miss cupboard hello under media galaxy bracket";
+var mnemonic = "item rib peanut crystal plug identify right prison clown cargo voice arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "deny punch victory van canal chalk task embark wave puzzle two degree";
+var mnemonic = "alcohol valid code motion pipe photo chat gossip offer cage romance grow";

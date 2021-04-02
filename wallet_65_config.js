@@ -1,1 +1,1 @@
-var mnemonic = "leaf enforce omit ordinary party punch reflect aisle token junior borrow stove";
+var mnemonic = "soccer fold arrow scheme salad rare robust brown weasel voyage thought grow";

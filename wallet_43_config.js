@@ -1,1 +1,1 @@
-var mnemonic = "album shield vocal ensure foil moon oil rib keen cool brother crazy";
+var mnemonic = "bargain beef meat bid find goose soup again refuse fine flight lawsuit";

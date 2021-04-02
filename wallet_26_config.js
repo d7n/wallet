@@ -1,1 +1,1 @@
-var mnemonic = "orchard oyster angle word hope eternal raccoon route that regret resist room";
+var mnemonic = "casino foil student scheme mother clerk whisper profit hawk opinion quality clay";

@@ -1,1 +1,1 @@
-var mnemonic = "always recall bargain surround cause special mammal skull divide eight shock dwarf";
+var mnemonic = "glow rack census hobby top biology shine ahead follow radio fun mandate";

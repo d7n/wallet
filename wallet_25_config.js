@@ -1,1 +1,1 @@
-var mnemonic = "page tail response adapt know clap bounce notable mirror buzz female gadget";
+var mnemonic = "luggage symbol boil sponsor resist federal urge dizzy situate motion ramp drop";

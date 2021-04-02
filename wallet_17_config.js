@@ -1,1 +1,1 @@
-var mnemonic = "around electric junior tool thing quit police when cattle change uniform under";
+var mnemonic = "habit addict dream bounce shove sniff erupt fever believe ripple raccoon range";

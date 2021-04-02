@@ -1,1 +1,1 @@
-var mnemonic = "concert asthma hamster cheese total dolphin seven orange shrug swamp expect online";
+var mnemonic = "recipe casino student bargain marriage monster raise horror cancel globe iron salon";

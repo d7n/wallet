@@ -1,1 +1,1 @@
-var mnemonic = "floor april gain exchange near panel thought chaos ripple dynamic eternal twelve";
+var mnemonic = "noodle fork stick fire nuclear bounce possible sword cancel bread sponsor woman";

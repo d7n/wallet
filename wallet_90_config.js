@@ -1,1 +1,1 @@
-var mnemonic = "butter mimic uniform boost glad erosion before steak hire later tail client";
+var mnemonic = "sorry fantasy topple tomorrow velvet unable town grain tip spy job praise";

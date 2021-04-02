@@ -1,1 +1,1 @@
-var mnemonic = "nothing horror twenty brave senior acoustic suggest ill guilt mercy label stand";
+var mnemonic = "upon engine other ladder inside image resource turtle tobacco aisle oil never";

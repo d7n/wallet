@@ -1,1 +1,1 @@
-var mnemonic = "fox exact color pledge decide recall teach what silk pioneer you myself";
+var mnemonic = "accuse cloth history speed home elite velvet regret private wrestle asthma road";

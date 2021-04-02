@@ -1,1 +1,1 @@
-var mnemonic = "happy visa spare trend casino mango top patch electric funny good horror";
+var mnemonic = "work sense oblige artwork warfare clock error cluster guilt medal evoke economy";
