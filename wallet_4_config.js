@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dawn trash general trip build evolve moon weasel foot again kid";
+var mnemonic = "allow expose winner begin evidence round blade ride turtle name fever hover";

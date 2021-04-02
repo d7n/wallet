@@ -1,1 +1,1 @@
-var mnemonic = "yard argue noble congress pulse grab reject that finger wash present slender";
+var mnemonic = "verb razor great promote pull peace forward romance announce payment believe broken";

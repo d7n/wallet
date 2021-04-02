@@ -1,1 +1,1 @@
-var mnemonic = "toddler manual major ensure chimney mule trial coil much render ring swear";
+var mnemonic = "version evil stereo family pigeon work shy display ready buffalo corn pizza";

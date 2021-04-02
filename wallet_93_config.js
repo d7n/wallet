@@ -1,1 +1,1 @@
-var mnemonic = "cook journey client column mystery smooth risk country reduce point asthma social";
+var mnemonic = "palm cricket witness parent other race gallery ivory believe worth scorpion marine";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra mystery dinosaur indicate visit consider arrive harbor fatal exist fork rocket";
+var mnemonic = "there define edge drink way flavor creek reflect family drama cliff modify";

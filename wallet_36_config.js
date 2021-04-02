@@ -1,1 +1,1 @@
-var mnemonic = "crazy midnight exile thrive rabbit nominee arrive attack grow below coach offer";
+var mnemonic = "dutch convince anchor enroll rural pudding cruel side action enact text roast";

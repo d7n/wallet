@@ -1,1 +1,1 @@
-var mnemonic = "glass spike picture slow sun picnic family card month flame outer hint";
+var mnemonic = "clap sunny match acid rigid stage voice stadium buyer merit junk curtain";

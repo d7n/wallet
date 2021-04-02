@@ -1,1 +1,1 @@
-var mnemonic = "absent ranch chief frequent fence start fashion audit orient matter slot able";
+var mnemonic = "hub vapor depend margin museum dry legal funny ostrich flip obvious source";

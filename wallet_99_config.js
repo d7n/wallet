@@ -1,1 +1,1 @@
-var mnemonic = "accuse daughter divert human exit stem shock roof salad make result shaft";
+var mnemonic = "certain metal drip horn dance pumpkin broom renew swim term crowd enhance";

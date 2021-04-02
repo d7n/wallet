@@ -1,1 +1,1 @@
-var mnemonic = "license sail equal have curious slush grocery over shove derive wire initial";
+var mnemonic = "bundle soul wrestle viable swing vast mixed knife tag scale amused child";

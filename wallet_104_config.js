@@ -1,1 +1,1 @@
-var mnemonic = "tray copper pride decade few attend raven charge federal chase survey swing";
+var mnemonic = "artist rich crazy act chaos fame cover virus fix toilet blast circle";

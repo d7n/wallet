@@ -1,1 +1,1 @@
-var mnemonic = "advice ostrich view wish pony sad whisper always sugar funny nation proof";
+var mnemonic = "lava hobby echo wish mouse develop bulk lesson they sound three autumn";

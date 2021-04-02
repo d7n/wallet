@@ -1,1 +1,1 @@
-var mnemonic = "place wild pledge eagle glow insect crystal bulk blur scorpion angle grape";
+var mnemonic = "fringe found letter siren diet spring exist regular helmet vocal also puppy";

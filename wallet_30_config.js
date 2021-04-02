@@ -1,1 +1,1 @@
-var mnemonic = "method donkey space language extra tattoo violin soldier cliff clay rib sample";
+var mnemonic = "nasty wave certain glory office satisfy debate erosion primary canvas moral armor";

@@ -1,1 +1,1 @@
-var mnemonic = "song detect drop youth forward excite basket faint select need solution square";
+var mnemonic = "addict remember genius pig grab expire rough enrich dream awkward own girl";

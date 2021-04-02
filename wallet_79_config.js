@@ -1,1 +1,1 @@
-var mnemonic = "maximum wonder present garage whip follow stool upgrade member pepper wing dismiss";
+var mnemonic = "razor brown trim cherry desert vague print retire vibrant window worth detail";

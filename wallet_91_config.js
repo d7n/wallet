@@ -1,1 +1,1 @@
-var mnemonic = "grow circle crater rhythm scorpion purpose twist card entry rug hammer sadness";
+var mnemonic = "calm either diesel smile feel arm prefer render proud render other earn";

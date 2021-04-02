@@ -1,1 +1,1 @@
-var mnemonic = "raven wife ladder patch sadness wave easily blush science air moment kitten";
+var mnemonic = "usage topic issue attack flash actress crisp seat fee crisp bag right";

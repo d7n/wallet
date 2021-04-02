@@ -1,1 +1,1 @@
-var mnemonic = "space eagle another fiscal agree blouse plunge hole connect raven shell slice";
+var mnemonic = "bone praise bring venue dinner west then raise mandate need dove guess";

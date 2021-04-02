@@ -1,1 +1,1 @@
-var mnemonic = "few prevent electric diary health demand frozen shift shift similar electric bubble";
+var mnemonic = "mansion grace squirrel loyal clean skull nation problem rigid couch order unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth again display battle exercise off screen crane rough odor wild cousin";
+var mnemonic = "finish shallow dolphin major arrange solve cover shock upgrade mask that enroll";

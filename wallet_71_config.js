@@ -1,1 +1,1 @@
-var mnemonic = "title cousin speak notable nose apple guitar rifle total cross doctor clean";
+var mnemonic = "better security veteran design liquid coin awkward butter useless away behind wear";

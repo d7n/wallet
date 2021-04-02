@@ -1,1 +1,1 @@
-var mnemonic = "elbow animal else penalty cruel muffin boring couple garage talent ranch easy";
+var mnemonic = "day inmate announce crisp fault latin knife owner fire bag equip suffer";

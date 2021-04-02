@@ -1,1 +1,1 @@
-var mnemonic = "cream improve timber frequent zebra cheese find waste song napkin apart finger";
+var mnemonic = "oven near option improve mechanic bottom truth hurt text jacket awful doctor";

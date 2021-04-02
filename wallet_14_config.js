@@ -1,1 +1,1 @@
-var mnemonic = "valley forget erode april limb frozen miracle wish gauge sport hire remain";
+var mnemonic = "remind harbor scrub excuse woman choose toe rare sister uniform inquiry shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "math family side maximum emotion dawn jump refuse abstract wrap normal venue";
+var mnemonic = "august flush palace steel better label salt eye bachelor october scheme couch";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom float affair weird stairs case over ice develop alarm material bulb";
+var mnemonic = "chunk index female extend fringe gloom relief derive mammal giraffe engage six";

@@ -1,1 +1,1 @@
-var mnemonic = "any deputy loop scrap capital spell need stairs circle march salute execute";
+var mnemonic = "blur second shoot hat betray giggle suspect wrestle salute earth waste cabin";

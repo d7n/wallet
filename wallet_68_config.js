@@ -1,1 +1,1 @@
-var mnemonic = "diet inject donate access hello tumble ethics pigeon income bargain knife parade";
+var mnemonic = "immune torch erode ghost soda endorse bread train equip foster echo transfer";

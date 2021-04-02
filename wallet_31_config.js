@@ -1,1 +1,1 @@
-var mnemonic = "pact toy family elephant bread basic still zebra case gravity kind destroy";
+var mnemonic = "code grow orchard actress poet key purchase urge robust hip fortune welcome";

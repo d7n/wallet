@@ -1,1 +1,1 @@
-var mnemonic = "discover exile pudding noodle pole attitude drama shiver pig sweet fly man";
+var mnemonic = "huge prize cloth vital under exist engine post clap pulse letter puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "theory actual deal goddess fortune bargain simple affair drip find stadium image";
+var mnemonic = "bomb melody video dress cram waste keen book adult cliff among second";

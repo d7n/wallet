@@ -1,1 +1,1 @@
-var mnemonic = "frequent tape border strike erode marriage link easy ghost dog tribe pole";
+var mnemonic = "muscle team cotton water wage isolate helmet type left reunion addict visit";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle tobacco tiger exact fiscal fever extra oval cruise present one tomorrow";
+var mnemonic = "gain hair history foam enlist doll also hamster rule side fetch dream";

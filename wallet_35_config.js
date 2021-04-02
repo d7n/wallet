@@ -1,1 +1,1 @@
-var mnemonic = "never pitch will brand grab lucky reason good produce middle unable gain";
+var mnemonic = "steel blouse drill march zone innocent shift unfold athlete coach leopard violin";

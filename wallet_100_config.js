@@ -1,1 +1,1 @@
-var mnemonic = "damp inside engage kitchen tourist stool lens bitter orchard rotate syrup lend";
+var mnemonic = "spring enact resource author ocean evoke pet lesson timber soda sheriff child";

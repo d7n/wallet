@@ -1,1 +1,1 @@
-var mnemonic = "resist state artwork upset dress zero present lion office pistol alien whip";
+var mnemonic = "jelly gauge motor reunion outer practice bench spoil inner female fine tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "series bacon dice train sea window blast thing shed tobacco grunt gesture";
+var mnemonic = "increase walnut primary call hood wasp bean visa final record physical slogan";

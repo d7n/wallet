@@ -1,1 +1,1 @@
-var mnemonic = "roast pudding morning earn hockey reason enemy short party wild frog stereo";
+var mnemonic = "rain easily pottery oppose unaware rescue enact sadness vote holiday produce empower";

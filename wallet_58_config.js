@@ -1,1 +1,1 @@
-var mnemonic = "jewel cement cotton wing dream quiz turtle deal comic boss grab attend";
+var mnemonic = "dumb six amazing genius congress volume coin destroy truth shuffle timber damp";

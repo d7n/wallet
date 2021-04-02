@@ -1,1 +1,1 @@
-var mnemonic = "jewel crucial upset soon deny banana usual horse gold slot machine various";
+var mnemonic = "cheap hello blood movie zone vintage device borrow helmet render current donate";

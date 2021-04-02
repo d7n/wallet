@@ -1,1 +1,1 @@
-var mnemonic = "gloom script garlic repair carry agree skirt exhaust coral diary mixture morning";
+var mnemonic = "urban carpet exit route afford rug describe either grass hub run envelope";

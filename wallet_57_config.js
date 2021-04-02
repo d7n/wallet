@@ -1,1 +1,1 @@
-var mnemonic = "cart news imitate twelve copy chicken subject crane dinner smart comic predict";
+var mnemonic = "okay fortune drill august manage minute exhibit police pink myth blanket future";

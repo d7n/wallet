@@ -1,1 +1,1 @@
-var mnemonic = "connect open toss weasel deal company canoe pulp afford whale kick cram";
+var mnemonic = "put maze regret aerobic father grass please fame pretty chimney song chimney";

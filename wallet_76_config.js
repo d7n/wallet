@@ -1,1 +1,1 @@
-var mnemonic = "burst viable stand category dash juice mouse circle patrol monitor tenant clutch";
+var mnemonic = "beach first furnace second supply dance drive deposit sail equal smile skill";

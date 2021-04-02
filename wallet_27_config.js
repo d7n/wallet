@@ -1,1 +1,1 @@
-var mnemonic = "wash shoot apology satisfy celery relax bone rack decrease near turn usage";
+var mnemonic = "cloud total fiction tenant garage urge tag remove ribbon burst evidence hen";

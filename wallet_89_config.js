@@ -1,1 +1,1 @@
-var mnemonic = "lend buyer picnic false mercy above satisfy bamboo chuckle robust reward submit";
+var mnemonic = "spell drama cherry hour speak panther trim business invest pudding sport globe";

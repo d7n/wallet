@@ -1,1 +1,1 @@
-var mnemonic = "memory panel jungle vendor two riot patient deposit stomach maze cloth sell";
+var mnemonic = "anchor planet stumble glance tool wheel juice pave heavy shoot lizard annual";

@@ -1,1 +1,1 @@
-var mnemonic = "polar magnet biology build unaware flight slice oven gift taste fluid sound";
+var mnemonic = "turtle index aisle company wait apology away radar scene cabbage problem film";

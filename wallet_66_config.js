@@ -1,1 +1,1 @@
-var mnemonic = "lens witness surprise quarter legal luggage subway believe riot exotic truth tube";
+var mnemonic = "aspect woman wish engine rhythm chuckle split blur soldier liar curve cram";

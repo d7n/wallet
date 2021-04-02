@@ -1,1 +1,1 @@
-var mnemonic = "motion toddler dream window suffer dream drop critic dream prize task spice";
+var mnemonic = "monitor edit choose snack remove jaguar harvest evoke sudden miracle step century";

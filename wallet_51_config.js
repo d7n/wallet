@@ -1,1 +1,1 @@
-var mnemonic = "leaf ski control behind chaos cook dolphin clarify plug hole quiz practice";
+var mnemonic = "amount forum joke any desk noodle home scissors donate reason truth kingdom";

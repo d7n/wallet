@@ -1,1 +1,1 @@
-var mnemonic = "oppose sugar stove increase side napkin pull volcano drastic poet quantum obscure";
+var mnemonic = "inch transfer guitar onion copy announce end equal dumb enemy sell faith";

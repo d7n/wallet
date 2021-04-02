@@ -1,1 +1,1 @@
-var mnemonic = "forest easy battle quiz prize captain update emerge tumble tragic proud shield";
+var mnemonic = "zone erode sustain setup refuse beef require virus garbage vacuum giraffe drink";

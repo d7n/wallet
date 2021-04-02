@@ -1,1 +1,1 @@
-var mnemonic = "wink reflect carpet wish forget they pupil grace raccoon zoo portion split";
+var mnemonic = "wreck betray lyrics situate jaguar use trophy erupt unit matter off marble";

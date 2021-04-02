@@ -1,1 +1,1 @@
-var mnemonic = "mountain lunar hammer program drink view winner tape erase plate jungle spin";
+var mnemonic = "manage habit celery salad sugar gauge good census later suit token ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle mixture practice degree mansion ugly outside you foil sibling already fish";
+var mnemonic = "debate essence deposit annual dream loan hard unable sense kiwi midnight hollow";

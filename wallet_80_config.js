@@ -1,1 +1,1 @@
-var mnemonic = "return enable giant certain gate urge idle cinnamon bulb theory filter hungry";
+var mnemonic = "game notable breeze valid harsh author defense poet slide double wrestle body";

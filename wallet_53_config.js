@@ -1,1 +1,1 @@
-var mnemonic = "give shrimp hill mercy exist swing mechanic law drum reform rough pudding";
+var mnemonic = "dutch lesson admit arch venture lizard save fever boy supply evolve insane";

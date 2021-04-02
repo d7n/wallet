@@ -1,1 +1,1 @@
-var mnemonic = "thrive mechanic spend useful dash elite chase oven rate gate slender banana";
+var mnemonic = "wheel latin wall obscure crouch chat copy gather police buffalo hungry inflict";

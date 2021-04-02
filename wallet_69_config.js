@@ -1,1 +1,1 @@
-var mnemonic = "pet sponsor trap alley liar recycle aisle sausage school again barrel rare";
+var mnemonic = "capital front soup chalk coil tip draw spice adapt copper rug uncle";

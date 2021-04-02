@@ -1,1 +1,1 @@
-var mnemonic = "episode valley finish nominee gate visit cube stick door edge mountain borrow";
+var mnemonic = "spatial entry blue proud tourist pitch excess bind antenna like alert hope";

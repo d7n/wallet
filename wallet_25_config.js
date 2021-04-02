@@ -1,1 +1,1 @@
-var mnemonic = "meat unaware pledge cheese swing ball draft sound photo lawsuit mad creek";
+var mnemonic = "scheme captain tower mutual tunnel crack clap mammal culture vacant can boost";

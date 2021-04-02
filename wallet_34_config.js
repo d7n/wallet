@@ -1,1 +1,1 @@
-var mnemonic = "chapter extend quantum stem strike problem wolf cancel object flee celery type";
+var mnemonic = "day lobster point usage lizard media exact casino index hawk print evil";

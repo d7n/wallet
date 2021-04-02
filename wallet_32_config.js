@@ -1,1 +1,1 @@
-var mnemonic = "present busy effort venue office effort ski orange island milk use toward";
+var mnemonic = "element pipe live during effort calm fog acoustic abandon runway spirit face";

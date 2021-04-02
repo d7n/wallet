@@ -1,1 +1,1 @@
-var mnemonic = "empty chalk flip car expand adjust alpha actual thing way humor stay";
+var mnemonic = "spy other brand federal airport citizen clarify insane bless section mosquito episode";

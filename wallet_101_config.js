@@ -1,1 +1,1 @@
-var mnemonic = "entire measure announce poem finish object token paddle gap lens cargo caution";
+var mnemonic = "chunk shed input toddler vacuum frozen age swap tortoise grace best page";

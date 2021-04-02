@@ -1,1 +1,1 @@
-var mnemonic = "blue convince walnut myself edit teach among gap desk shell hobby half";
+var mnemonic = "kitchen matter actual page output corn tag avoid immune reward skate pair";

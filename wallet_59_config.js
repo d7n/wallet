@@ -1,1 +1,1 @@
-var mnemonic = "amused orphan dutch vocal iron key reopen sauce chronic buddy silver army";
+var mnemonic = "renew basic tuition silly ghost theme family develop mixture replace gentle vault";

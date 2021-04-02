@@ -1,1 +1,1 @@
-var mnemonic = "memory normal vibrant morning deer asthma bracket dream gorilla other fiber hour";
+var mnemonic = "curious valve drastic ghost will eye master edge silk devote state safe";

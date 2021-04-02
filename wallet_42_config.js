@@ -1,1 +1,1 @@
-var mnemonic = "mammal picture aim way reform game excess report raise local exotic cause";
+var mnemonic = "fall marble humble leave physical cake spare prepare ring insane sausage spring";

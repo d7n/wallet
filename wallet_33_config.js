@@ -1,1 +1,1 @@
-var mnemonic = "sail donor sport toddler enact short witness slight sell short siege small";
+var mnemonic = "buzz cube latin thunder weapon anxiety ivory pelican reward sponsor aunt fossil";

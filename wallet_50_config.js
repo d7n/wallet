@@ -1,1 +1,1 @@
-var mnemonic = "vote whale assume organ infant sunny style prison motion topple virtual rookie";
+var mnemonic = "car rent limb lava skirt grain cloud crumble wool embody distance grab";

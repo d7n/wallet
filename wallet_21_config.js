@@ -1,1 +1,1 @@
-var mnemonic = "casual quiz path tray outer wrist base quick fat boil also add";
+var mnemonic = "chair debate assist zoo success nest bid drop appear dice smoke creek";

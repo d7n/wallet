@@ -1,1 +1,1 @@
-var mnemonic = "during wood stay actress link essay debris play grief museum alert west";
+var mnemonic = "always office this usage dish cherry mushroom wheat hover ice small segment";

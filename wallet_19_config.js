@@ -1,1 +1,1 @@
-var mnemonic = "pink victory gaze harsh gauge surround reject honey spring divide gauge shrug";
+var mnemonic = "rapid exercise square rally spray achieve biology hole pact camera sing travel";

@@ -1,1 +1,1 @@
-var mnemonic = "series please main nest panda sadness grant power shoot fire zone episode";
+var mnemonic = "need mushroom retire lobster tired strong bacon tape announce fit wedding latin";

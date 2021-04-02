@@ -1,1 +1,1 @@
-var mnemonic = "alone almost speak edge journey hub gasp cup purpose alarm image what";
+var mnemonic = "regular guitar swim ski miracle sea buzz make artist frequent rotate cat";

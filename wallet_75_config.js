@@ -1,1 +1,1 @@
-var mnemonic = "sock jealous arrive swift chalk alpha try tag mistake grief salute stereo";
+var mnemonic = "derive rural sustain era pact wife proof cover again expire more produce";

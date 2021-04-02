@@ -1,1 +1,1 @@
-var mnemonic = "must airport talent hamster kiss keep come sort detect win solution wage";
+var mnemonic = "mammal discover giggle skirt foil bulk robust few vote coconut tonight actor";

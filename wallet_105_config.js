@@ -1,1 +1,1 @@
-var mnemonic = "denial subway taxi giraffe wrap syrup curious baby drop relief demise scale";
+var mnemonic = "miracle buzz car crawl pear swear mother whale denial lake tooth huge";

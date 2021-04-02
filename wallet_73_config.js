@@ -1,1 +1,1 @@
-var mnemonic = "ordinary river quarter group wrestle melt napkin summer derive repeat good analyst";
+var mnemonic = "illness furnace pumpkin account jealous plug test limit auto jacket melt clean";

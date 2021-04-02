@@ -1,1 +1,1 @@
-var mnemonic = "vivid submit seminar forum dance reward someone split artist vicious drop remember";
+var mnemonic = "miss monkey genre demise mosquito toilet stick lab sheriff mango plate strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "brief car team shift wet marriage follow effort elder wood hold inner";
+var mnemonic = "better maid metal voyage ahead giant amount trophy someone adapt dinosaur often";

@@ -1,1 +1,1 @@
-var mnemonic = "choice session dutch flavor grunt pear all cable deputy split wisdom exile";
+var mnemonic = "spare scan become pilot float brown siren crop decide guess scheme display";

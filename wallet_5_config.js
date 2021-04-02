@@ -1,1 +1,1 @@
-var mnemonic = "jelly addict final blood reduce party spring chicken acoustic cycle height unusual";
+var mnemonic = "tissue fantasy verify accuse program limb derive dinner marine sand possible robot";

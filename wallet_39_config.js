@@ -1,1 +1,1 @@
-var mnemonic = "drip error video lion exhaust hub faculty stairs seed gentle cat wink";
+var mnemonic = "ugly teach between author entry worth athlete jar submit dwarf only weather";

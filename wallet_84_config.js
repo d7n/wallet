@@ -1,1 +1,1 @@
-var mnemonic = "ball suggest repeat analyst circle evolve pretty recall cute goddess bulk seek";
+var mnemonic = "scheme night energy owner machine exist ensure sort grape dismiss scrap renew";

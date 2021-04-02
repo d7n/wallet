@@ -1,1 +1,1 @@
-var mnemonic = "thumb aerobic side meat bulb tail organ visit clerk hello that credit";
+var mnemonic = "decade bubble trash match grid winter grape guitar paper another piano add";

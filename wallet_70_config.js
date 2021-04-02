@@ -1,1 +1,1 @@
-var mnemonic = "hint stand hen tower boil people caught desert mirror evil quote honey";
+var mnemonic = "youth suspect lift ill inherit practice plunge world cart bamboo coconut notable";

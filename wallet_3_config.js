@@ -1,1 +1,1 @@
-var mnemonic = "jealous morning kit marriage stereo remind clerk refuse school attract ladder buffalo";
+var mnemonic = "woman morning toast wash dynamic stay derive figure question success spray urge";

@@ -1,1 +1,1 @@
-var mnemonic = "snow alcohol cheese differ toe mountain draw grace expire message sea daring";
+var mnemonic = "horse empty loud match exchange soft title before stage easily begin milk";

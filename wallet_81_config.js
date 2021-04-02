@@ -1,1 +1,1 @@
-var mnemonic = "poverty follow chalk because divorce umbrella yellow lion sand often happy liberty";
+var mnemonic = "rescue code hour bounce fade execute buzz hockey evolve ill saddle alien";

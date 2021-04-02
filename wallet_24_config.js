@@ -1,1 +1,1 @@
-var mnemonic = "immense village woman light inform view toast stone coin refuse blame cup";
+var mnemonic = "junk spread oil other forget patrol volume evidence buyer pave amount make";

@@ -1,1 +1,1 @@
-var mnemonic = "believe label wonder soon solar junior clock story bubble favorite rose volcano";
+var mnemonic = "affair powder devote drama mass paper focus teach buyer process radar minute";

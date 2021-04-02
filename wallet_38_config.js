@@ -1,1 +1,1 @@
-var mnemonic = "know proud witness wait merry noise apart spoon winter rail thumb net";
+var mnemonic = "lunar setup rocket crack kick digital topic claim garment view junior frequent";
