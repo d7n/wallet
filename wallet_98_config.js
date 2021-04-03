@@ -1,1 +1,1 @@
-var mnemonic = "enact buyer range clutch attend circle melt error airport clerk labor body";
+var mnemonic = "dignity night media school clerk route problem gossip version vibrant domain nuclear";

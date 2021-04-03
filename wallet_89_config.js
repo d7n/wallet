@@ -1,1 +1,1 @@
-var mnemonic = "body awake pole industry direct cross allow spell option junk build rubber";
+var mnemonic = "web brother birth festival steak face river huge wheat absurd obscure okay";

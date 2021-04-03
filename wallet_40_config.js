@@ -1,1 +1,1 @@
-var mnemonic = "only token title either volume bring tail tennis base sense senior winter";
+var mnemonic = "climb improve evolve build music remember buffalo crime table glad cycle gasp";

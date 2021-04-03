@@ -1,1 +1,1 @@
-var mnemonic = "ill deliver gorilla letter else glide wheat exile try abandon planet cactus";
+var mnemonic = "cash lottery range payment great dismiss still person grow valley exile unlock";

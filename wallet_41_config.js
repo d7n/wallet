@@ -1,1 +1,1 @@
-var mnemonic = "play mail burger gain cigar need hospital history remember obtain hundred disease";
+var mnemonic = "excuse fuel stairs hole square obscure metal punch loan decide hurt noodle";

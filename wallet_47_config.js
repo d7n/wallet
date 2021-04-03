@@ -1,1 +1,1 @@
-var mnemonic = "little pause tornado flush mushroom dolphin chimney foot ankle exact loud hip";
+var mnemonic = "latin piece silver whale silly royal track oxygen aspect fabric record turkey";

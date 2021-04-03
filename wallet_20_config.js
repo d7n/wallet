@@ -1,1 +1,1 @@
-var mnemonic = "usage gym sure rent market session radar stand heart paddle develop enrich";
+var mnemonic = "glass veteran enlist learn balance balance address gloom nerve farm ugly clay";

@@ -1,1 +1,1 @@
-var mnemonic = "cross kit unhappy science ecology aim chuckle caught number mean bus muscle";
+var mnemonic = "lecture magnet kitten behind various slogan occur degree miss draw pencil skate";

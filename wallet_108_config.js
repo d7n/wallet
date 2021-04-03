@@ -1,1 +1,1 @@
-var mnemonic = "nasty shiver soccer hamster stuff trigger say bargain pet earth velvet market";
+var mnemonic = "science crop burger control clock yard image egg bacon worry fence yellow";

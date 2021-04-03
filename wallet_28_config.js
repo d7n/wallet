@@ -1,1 +1,1 @@
-var mnemonic = "scheme base license useless smooth thank inject depend unaware fame upgrade pitch";
+var mnemonic = "crazy rigid various mosquito clown obscure all sound cliff coin range man";

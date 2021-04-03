@@ -1,1 +1,1 @@
-var mnemonic = "remain neck satoshi entire month visit snap divert trumpet wedding chef bonus";
+var mnemonic = "soul install oyster crater ride world assist announce scan amazing mystery wreck";

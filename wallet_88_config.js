@@ -1,1 +1,1 @@
-var mnemonic = "assume list dove reopen parent you liar antenna regular usage blanket arrow";
+var mnemonic = "bullet front patrol engage fade gloom average exile east logic stick coil";

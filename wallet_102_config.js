@@ -1,1 +1,1 @@
-var mnemonic = "salmon verb climb tackle faith task glide sphere churn swift maze weather";
+var mnemonic = "phone suggest element knee border ensure choose light soon judge diet end";

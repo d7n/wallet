@@ -1,1 +1,1 @@
-var mnemonic = "history cheese popular pact exist version goat solid capable slight february pulse";
+var mnemonic = "aerobic yard drip kitchen rude parade cat slow actor renew around few";

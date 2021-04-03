@@ -1,1 +1,1 @@
-var mnemonic = "copy vehicle boss index divert announce guess erase link trash clinic destroy";
+var mnemonic = "file rare select train calm runway gas party sail kid tube author";

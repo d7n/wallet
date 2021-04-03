@@ -1,1 +1,1 @@
-var mnemonic = "shock render much wrist dose typical spare find eight donkey task awful";
+var mnemonic = "require ring cupboard humble whale elephant gate fossil urge poem also jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "easily woman husband fantasy zero this awake obey normal beach obscure two";
+var mnemonic = "rescue kiss call kitchen early steel rude fortune sock patch trend blind";

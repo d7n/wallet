@@ -1,1 +1,1 @@
-var mnemonic = "sick bonus symptom fall pave length infant jealous much section whip question";
+var mnemonic = "antenna tongue cream balance priority craft fever flame mom picnic fragile symbol";

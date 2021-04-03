@@ -1,1 +1,1 @@
-var mnemonic = "bulb huge still much spoil panda exile rain ten attack broken leisure";
+var mnemonic = "slot sheriff march pause thunder cream save plate among mesh shy magic";

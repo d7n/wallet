@@ -1,1 +1,1 @@
-var mnemonic = "direct cherry decide tunnel immune try buzz pact whip absurd purpose federal";
+var mnemonic = "join move special before spice science inch tape insect hawk code sustain";

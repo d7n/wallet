@@ -1,1 +1,1 @@
-var mnemonic = "acquire tunnel slam equip clarify steak square drastic explain orchard assist crater";
+var mnemonic = "reveal degree upgrade breeze brick clean before much remove degree lift two";

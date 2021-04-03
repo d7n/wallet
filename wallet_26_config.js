@@ -1,1 +1,1 @@
-var mnemonic = "clump upper clip exile measure oxygen race private eye canvas parade chimney";
+var mnemonic = "inhale plate roof uniform rapid october wife puppy pair devote happy direct";

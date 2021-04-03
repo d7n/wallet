@@ -1,1 +1,1 @@
-var mnemonic = "balcony monitor steak salad curve nature fever moral night myth deny arrange";
+var mnemonic = "never primary pottery sauce voyage axis repair setup drip hamster ghost army";

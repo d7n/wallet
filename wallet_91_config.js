@@ -1,1 +1,1 @@
-var mnemonic = "volcano nest beyond elite retire crouch episode limb wise excess critic egg";
+var mnemonic = "bacon unfair asset unfair dose blame hub imitate toss quiz behind harvest";

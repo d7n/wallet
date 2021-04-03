@@ -1,1 +1,1 @@
-var mnemonic = "dragon degree shiver baby divorce document enroll under regular breeze stuff eagle";
+var mnemonic = "capable cactus dignity must same attract undo decline badge uniform dirt prison";

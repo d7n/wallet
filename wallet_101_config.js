@@ -1,1 +1,1 @@
-var mnemonic = "wrist unhappy soul toilet card charge leave wrong brown peace alert guard";
+var mnemonic = "month tail confirm blouse jar salt hungry identify enhance obvious rain talent";

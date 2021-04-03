@@ -1,1 +1,1 @@
-var mnemonic = "doll find earn enact huge craft bomb belt extra umbrella twice tree";
+var mnemonic = "cute sister excite whip health avoid loan capable stem extra circle sail";

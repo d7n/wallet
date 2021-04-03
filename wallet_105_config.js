@@ -1,1 +1,1 @@
-var mnemonic = "empower soccer label crush range verb cook near dizzy guide nuclear day";
+var mnemonic = "axis sing age wagon sketch fork proud night shuffle silver ten future";

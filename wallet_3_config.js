@@ -1,1 +1,1 @@
-var mnemonic = "chronic rocket broccoli scissors decorate dentist photo ordinary kitchen input umbrella police";
+var mnemonic = "effort rain fever paddle toast age excuse sugar toss develop profit same";

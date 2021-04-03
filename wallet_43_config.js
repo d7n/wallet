@@ -1,1 +1,1 @@
-var mnemonic = "average shoot speak system absorb smile food relax neck diagram paddle balcony";
+var mnemonic = "try gesture floor gossip slight title alert announce delay quote spell over";

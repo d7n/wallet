@@ -1,1 +1,1 @@
-var mnemonic = "canoe office slow plug prosper hobby term this frame topic helmet stadium";
+var mnemonic = "cushion tragic call toddler guess athlete original near sweet nose opera glimpse";

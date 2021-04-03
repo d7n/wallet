@@ -1,1 +1,1 @@
-var mnemonic = "rifle bracket stool artist home arrest column myth cave forum enter found";
+var mnemonic = "vacant world simple issue surprise circle caught replace picture join race viable";

@@ -1,1 +1,1 @@
-var mnemonic = "shop expect never wide parent impact asthma distance near zero immense diary";
+var mnemonic = "wide board useful item often duty misery average slogan dry violin response";

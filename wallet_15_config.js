@@ -1,1 +1,1 @@
-var mnemonic = "bring spot same humor dove nominee age rapid puppy tent great amount";
+var mnemonic = "purpose course pact dragon human lizard holiday stay key citizen apple glove";

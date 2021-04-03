@@ -1,1 +1,1 @@
-var mnemonic = "excess hip stage tumble fatigue armor rely insect birth jazz attack swarm";
+var mnemonic = "dream special sight express glance vague ketchup art egg earth bacon license";

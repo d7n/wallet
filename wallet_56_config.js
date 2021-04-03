@@ -1,1 +1,1 @@
-var mnemonic = "debate stamp stay iron engage thrive hour excite monitor pledge long teach";
+var mnemonic = "chronic also jungle trip stool document hour tackle page buddy ribbon south";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon seat humble veteran word deny civil book banana shield sail near";
+var mnemonic = "math obscure yellow sing east glass among evoke memory trash kingdom room";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar fortune mom urban mesh all coast torch equip tired sail cute";
+var mnemonic = "board miracle timber empower cave absurd daughter license rabbit wolf comfort recipe";

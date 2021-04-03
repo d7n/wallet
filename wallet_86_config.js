@@ -1,1 +1,1 @@
-var mnemonic = "unknown feel brick genius gravity city secret census honey embody abuse uphold";
+var mnemonic = "almost monitor gospel jump safe click hollow item man noodle border later";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach cigar sadness device float sight south original west cabin detect three";
+var mnemonic = "decline trigger ritual journey silver memory caught connect recycle lyrics mansion moment";

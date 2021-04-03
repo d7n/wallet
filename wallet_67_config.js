@@ -1,1 +1,1 @@
-var mnemonic = "address argue mechanic bargain text rhythm library corn pioneer hello donor cook";
+var mnemonic = "merge priority soccer stay metal butter flush person pair sock dad master";

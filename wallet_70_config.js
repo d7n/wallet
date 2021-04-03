@@ -1,1 +1,1 @@
-var mnemonic = "deny wish duty stairs drill wild pride sleep gasp light arm pioneer";
+var mnemonic = "float hurry exotic tail busy aim flash tuna doll velvet news jeans";

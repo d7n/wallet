@@ -1,1 +1,1 @@
-var mnemonic = "found shop throw aisle indicate gesture iron fringe effort kangaroo opinion peasant";
+var mnemonic = "jump recycle tribe pink canvas tide mango inspire effort spread rule ten";

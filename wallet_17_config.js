@@ -1,1 +1,1 @@
-var mnemonic = "version hurt poet page toy trial clutch window dust cute boat inject";
+var mnemonic = "before prison token main attitude april depend insane shield toss upgrade hungry";

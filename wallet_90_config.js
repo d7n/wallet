@@ -1,1 +1,1 @@
-var mnemonic = "cliff grocery arrange cage diet sheriff position spring ring parade dune problem";
+var mnemonic = "arctic slot very sock spread helmet first page champion elephant horror release";

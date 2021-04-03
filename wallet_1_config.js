@@ -1,1 +1,1 @@
-var mnemonic = "spray general room impulse fame group black cabbage ready anger laptop ceiling";
+var mnemonic = "skin ribbon again body hungry artefact method grunt dragon industry benefit clinic";

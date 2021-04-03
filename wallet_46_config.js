@@ -1,1 +1,1 @@
-var mnemonic = "ivory town develop rose spawn adapt wall pet mule dirt glad grain";
+var mnemonic = "repair burger negative guitar balance museum faith recycle escape sea stool mask";

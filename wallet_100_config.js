@@ -1,1 +1,1 @@
-var mnemonic = "achieve parade lesson round coach mad work teach offer inhale anxiety silent";
+var mnemonic = "vacant guide girl script fall mesh kiwi swap tilt leave add velvet";

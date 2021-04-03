@@ -1,1 +1,1 @@
-var mnemonic = "capable combine chuckle mixture health weapon smile hurry poet fragile flame debris";
+var mnemonic = "nothing region glow case clown goddess exist burst endorse shuffle summer come";

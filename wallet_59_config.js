@@ -1,1 +1,1 @@
-var mnemonic = "apology cross unlock grape clown home foot faint ocean obey degree program";
+var mnemonic = "grief reason pilot try shop effort history enjoy trumpet genius refuse figure";

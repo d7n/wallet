@@ -1,1 +1,1 @@
-var mnemonic = "address bus hand never buffalo gloom intact excuse cup pave faculty calm";
+var mnemonic = "radio cloud cart whip nerve buddy misery lunar narrow avoid sad scrub";

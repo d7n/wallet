@@ -1,1 +1,1 @@
-var mnemonic = "short transfer surprise suspect sample random wagon twist grace burst ivory truth";
+var mnemonic = "arena capable road piece buffalo vivid powder hungry agent rose grit gift";

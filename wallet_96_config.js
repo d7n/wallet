@@ -1,1 +1,1 @@
-var mnemonic = "illness cradle cattle exist income police mutual era recall raw sheriff minor";
+var mnemonic = "warfare plastic betray travel above resist era good slot pattern source include";

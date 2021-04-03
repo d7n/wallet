@@ -1,1 +1,1 @@
-var mnemonic = "cigar umbrella between alter chair camp echo envelope enjoy head fun marble";
+var mnemonic = "length arctic sauce farm endless remember onion easy metal hover depth undo";

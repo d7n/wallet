@@ -1,1 +1,1 @@
-var mnemonic = "glory shrug tail home endless account health predict stand remind company chair";
+var mnemonic = "emotion uncle cereal slender field tank carpet column armed soup candy observe";

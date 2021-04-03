@@ -1,1 +1,1 @@
-var mnemonic = "problem erode perfect wrist noodle vacuum mad you digital love stick usual";
+var mnemonic = "uniform mango prosper reopen monster oven hawk off aim exit host apology";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter huge alien concert poet diagram orphan struggle pudding person tenant hip";
+var mnemonic = "adult chat snack finger offer woman project still donor crater mutual list";

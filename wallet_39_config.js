@@ -1,1 +1,1 @@
-var mnemonic = "among just fall marriage curious verify rescue supply brass cabbage busy double";
+var mnemonic = "grunt tone autumn endorse shiver track antenna prize wrestle sign wide banner";

@@ -1,1 +1,1 @@
-var mnemonic = "bone unveil tide liar can boss elbow glass proud practice middle void";
+var mnemonic = "myth limit trim spider bullet man mimic need stool keep salon person";

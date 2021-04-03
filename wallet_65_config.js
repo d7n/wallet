@@ -1,1 +1,1 @@
-var mnemonic = "one wheel remind funny swarm nasty upon hunt whip stable desk senior";
+var mnemonic = "crowd emerge robot stove moon nature gather veteran blame garlic pear that";

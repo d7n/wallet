@@ -1,1 +1,1 @@
-var mnemonic = "gentle market faculty execute end abuse cabin caught erase square blast work";
+var mnemonic = "car fish knee later tomorrow much when rural endless walk unit innocent";

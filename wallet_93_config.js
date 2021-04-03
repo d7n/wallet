@@ -1,1 +1,1 @@
-var mnemonic = "long evolve van eyebrow calm pitch rigid depth absent action joy iron";
+var mnemonic = "congress term snow canvas fabric company vanish affair mom museum thank street";

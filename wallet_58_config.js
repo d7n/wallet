@@ -1,1 +1,1 @@
-var mnemonic = "wood assault across tide visit moral dirt boring invest blush recycle consider";
+var mnemonic = "situate empower rose absurd job dust spend start miracle run fence miss";

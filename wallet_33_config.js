@@ -1,1 +1,1 @@
-var mnemonic = "advice offer lizard film team forum ceiling early round energy pledge equal";
+var mnemonic = "able poem clinic fury flash knife wood can cement shrug slab alpha";

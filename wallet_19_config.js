@@ -1,1 +1,1 @@
-var mnemonic = "chair pigeon trigger verify dice emotion crash kid cousin rookie act dawn";
+var mnemonic = "reason permit virus addict extend need ramp feature immense pelican silly exotic";

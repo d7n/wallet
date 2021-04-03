@@ -1,1 +1,1 @@
-var mnemonic = "spread tobacco add reflect effort travel omit oppose gather heavy illegal rose";
+var mnemonic = "keep thunder jump push water twice hotel dilemma planet salute scorpion shell";

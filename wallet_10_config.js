@@ -1,1 +1,1 @@
-var mnemonic = "artwork stand tower marble pigeon truly hole enter artist length curious carpet";
+var mnemonic = "phrase menu slim alpha pride fine quick episode tone chat green bid";

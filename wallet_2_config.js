@@ -1,1 +1,1 @@
-var mnemonic = "avocado key gasp hawk type save nurse tourist enable radio piano birth";
+var mnemonic = "noise acid help situate logic orange crawl orient brief rent grief solution";

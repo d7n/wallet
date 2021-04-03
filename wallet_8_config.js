@@ -1,1 +1,1 @@
-var mnemonic = "fossil crowd honey enrich carbon genuine crane income shine credit wife emerge";
+var mnemonic = "hub shrimp february tuna second subway solid piano torch absent detail priority";

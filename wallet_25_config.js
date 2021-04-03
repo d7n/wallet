@@ -1,1 +1,1 @@
-var mnemonic = "alley labor pig wing barrel more heart swap link neglect hedgehog save";
+var mnemonic = "minor pill motion flag level angry desk antenna initial cricket outer cheese";

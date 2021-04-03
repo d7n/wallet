@@ -1,1 +1,1 @@
-var mnemonic = "shoot tourist penalty diagram calm capital penalty wire prison usual marriage plug";
+var mnemonic = "gravity fall limit palm sword axis reveal tissue chapter first polar into";

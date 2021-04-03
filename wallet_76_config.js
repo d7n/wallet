@@ -1,1 +1,1 @@
-var mnemonic = "list focus keep sound near shed satisfy wrestle ivory staff visual exist";
+var mnemonic = "diesel fringe climb struggle allow foil scout grit matter leisure resemble blame";

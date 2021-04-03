@@ -1,1 +1,1 @@
-var mnemonic = "south youth index between timber miracle glare crazy era shy awake sword";
+var mnemonic = "opinion rookie item jaguar knee velvet host sorry together protect chef false";

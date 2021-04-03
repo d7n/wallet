@@ -1,1 +1,1 @@
-var mnemonic = "tackle resist voyage coil neck frame ostrich dish loyal hero slender thrive";
+var mnemonic = "lucky below neck dizzy enemy fame brother comic venture reward plug couch";

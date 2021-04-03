@@ -1,1 +1,1 @@
-var mnemonic = "found very carpet outdoor okay airport diamond spell leopard chief call sign";
+var mnemonic = "despair soccer original chapter degree calm family hidden alpha piano plate ask";

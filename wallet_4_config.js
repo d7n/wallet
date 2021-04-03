@@ -1,1 +1,1 @@
-var mnemonic = "oblige faint rain express loop loud fatigue copper legal tired cement hungry";
+var mnemonic = "journey next book dance venture diagram fitness nut awful boy sad humor";

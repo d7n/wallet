@@ -1,1 +1,1 @@
-var mnemonic = "drama ski mass melt scatter appear young wait expect window poverty ridge";
+var mnemonic = "crash inherit bench uniform bike pretty pigeon story dress cram smooth reason";

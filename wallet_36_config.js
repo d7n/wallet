@@ -1,1 +1,1 @@
-var mnemonic = "island enlist venture young clerk aim rude bench invest mouse essence fresh";
+var mnemonic = "desert west palace street riot slide shrug stereo gospel daughter reunion protect";

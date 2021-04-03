@@ -1,1 +1,1 @@
-var mnemonic = "wisdom creek lens rely pony stamp buffalo coin crucial rice patrol border";
+var mnemonic = "dust buffalo vapor disease ridge path tenant sample olive pelican walk excite";

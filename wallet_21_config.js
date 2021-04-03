@@ -1,1 +1,1 @@
-var mnemonic = "risk attack merge artist few clog small shoe health gift skill refuse";
+var mnemonic = "element eight copy upset attend burger ring ready bid wage common unusual";

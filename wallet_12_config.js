@@ -1,1 +1,1 @@
-var mnemonic = "retire gain nerve stage cage flip inject oxygen photo expand recall blade";
+var mnemonic = "knock valve crash enemy clay uphold coach believe humble february typical cook";

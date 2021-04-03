@@ -1,1 +1,1 @@
-var mnemonic = "sure carpet bread try topple script liquid enact slam stick skirt wink";
+var mnemonic = "finish later kidney witness comic crucial volume artefact lock stool minor boat";

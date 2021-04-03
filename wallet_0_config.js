@@ -1,1 +1,1 @@
-var mnemonic = "boss squeeze ugly arch arrange electric ethics word purpose dizzy select valid";
+var mnemonic = "actual share gloom people across jealous garlic only exit shell fiscal social";

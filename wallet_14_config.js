@@ -1,1 +1,1 @@
-var mnemonic = "effort acid diary vendor tomato amateur predict mask innocent year casino mother";
+var mnemonic = "glare oppose index idea sign ocean exit daughter bring eternal green develop";

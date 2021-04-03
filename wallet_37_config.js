@@ -1,1 +1,1 @@
-var mnemonic = "cruel bridge pear ramp loan rival huge garden machine violin report ginger";
+var mnemonic = "rigid trend surround order crew speed garment elder decade board stuff hire";
