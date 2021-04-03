@@ -1,1 +1,1 @@
-var mnemonic = "garment three sorry milk turn term toy mobile cricket primary chief aspect";
+var mnemonic = "solution appear trim ignore latin someone kind embody plastic refuse payment mind";

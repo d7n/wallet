@@ -1,1 +1,1 @@
-var mnemonic = "proud service trumpet welcome squeeze yard pause sick canal nerve sport online";
+var mnemonic = "ensure canvas asset amazing attack ask diamond effort pact zone best burst";

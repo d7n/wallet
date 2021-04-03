@@ -1,1 +1,1 @@
-var mnemonic = "horror cargo slush dish park firm raven olympic bring promote cereal tunnel";
+var mnemonic = "grief relief board album hello crew brown ancient fashion mad vibrant reason";

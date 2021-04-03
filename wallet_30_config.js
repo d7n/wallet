@@ -1,1 +1,1 @@
-var mnemonic = "follow fork apart match theory bless crowd harsh journey company spoil mixed";
+var mnemonic = "custom sand robot summer cable jeans replace curious plastic guitar comic box";

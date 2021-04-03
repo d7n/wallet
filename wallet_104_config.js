@@ -1,1 +1,1 @@
-var mnemonic = "quality drastic frost neutral pole cannon suggest wine tenant error fatigue ranch";
+var mnemonic = "grit drip height marble cost hunt tent abandon fan margin recycle high";

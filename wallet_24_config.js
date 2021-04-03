@@ -1,1 +1,1 @@
-var mnemonic = "core card glad later digital trend finish door dragon grace noise ordinary";
+var mnemonic = "shiver delay auto unlock wheel sad victory dinosaur scare oil use hub";

@@ -1,1 +1,1 @@
-var mnemonic = "judge rival column plug height violin park aware balance roof grunt sick";
+var mnemonic = "prevent scatter witness camera tank amused april strong toilet alone usual stomach";

@@ -1,1 +1,1 @@
-var mnemonic = "hero egg exclude next gentle deposit pizza borrow drama include umbrella praise";
+var mnemonic = "fall dentist negative faculty room song knife fringe amount actor uncover glass";

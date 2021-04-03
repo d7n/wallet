@@ -1,1 +1,1 @@
-var mnemonic = "dance sell thing hotel spirit steel cage satisfy fish fish fly drop";
+var mnemonic = "estate involve club busy use knife image funny treat satoshi always divert";

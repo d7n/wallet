@@ -1,1 +1,1 @@
-var mnemonic = "east side violin shallow hockey random mind brown love install city atom";
+var mnemonic = "stick raven leisure suspect sausage begin diary private cloud arrow ensure culture";

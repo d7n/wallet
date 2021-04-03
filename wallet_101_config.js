@@ -1,1 +1,1 @@
-var mnemonic = "bring such shrug sweet hard entire knock follow day lunar wasp picnic";
+var mnemonic = "tide young poet damp ignore road mirror silent scare risk range enrich";

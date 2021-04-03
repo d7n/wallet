@@ -1,1 +1,1 @@
-var mnemonic = "celery rebel final project people brisk hotel smart voyage attract gadget theory";
+var mnemonic = "minor squeeze elephant more tooth loud pumpkin also tongue uncover sing panic";

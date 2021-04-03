@@ -1,1 +1,1 @@
-var mnemonic = "exclude gaze riot coil swift okay abandon exotic trophy extra path enemy";
+var mnemonic = "detail depend laptop pitch birth waste image cattle rapid era butter early";

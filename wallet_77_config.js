@@ -1,1 +1,1 @@
-var mnemonic = "erase laptop impulse ethics describe good ritual kind harvest hat retreat laptop";
+var mnemonic = "height million bubble capable abandon canyon member luxury attract cliff hair ramp";

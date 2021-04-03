@@ -1,1 +1,1 @@
-var mnemonic = "yard large bounce goat riot catalog more kiss burden arch away spring";
+var mnemonic = "just nurse orphan curve donkey hint cattle sausage river struggle earn approve";

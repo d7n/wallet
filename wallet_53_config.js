@@ -1,1 +1,1 @@
-var mnemonic = "table slush pelican rigid video tail word shock mobile bright enlist pattern";
+var mnemonic = "weather whip slice squirrel dinner mango clock feature hour eyebrow practice cattle";

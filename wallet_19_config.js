@@ -1,1 +1,1 @@
-var mnemonic = "spatial true embody series slight wasp impulse glow rug pull clap expect";
+var mnemonic = "army network bone thrive island satoshi final barely between genre produce neutral";

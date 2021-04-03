@@ -1,1 +1,1 @@
-var mnemonic = "sunset relief twin fuel off lyrics angry image corn fragile spare remember";
+var mnemonic = "weapon kiwi trigger retreat climb equip dawn satoshi never brick cook flight";

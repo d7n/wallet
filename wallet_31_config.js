@@ -1,1 +1,1 @@
-var mnemonic = "shoulder garment december faculty budget melt addict evil region tomato bus soap";
+var mnemonic = "correct sphere boat cat resource room sense tourist mutual thunder sudden bar";

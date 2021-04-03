@@ -1,1 +1,1 @@
-var mnemonic = "size input address pizza wave excuse exist code robust misery nurse cousin";
+var mnemonic = "erase deliver main provide jungle palace solve safe foam neither left weekend";

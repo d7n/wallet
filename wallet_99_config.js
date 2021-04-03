@@ -1,1 +1,1 @@
-var mnemonic = "vehicle among absorb marine clap element sample glide side carbon robust furnace";
+var mnemonic = "tenant speed twice parent frame empty obvious few advance oval deputy yellow";

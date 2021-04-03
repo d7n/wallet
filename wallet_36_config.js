@@ -1,1 +1,1 @@
-var mnemonic = "wing stamp rely monster alien main orchard tongue stand abstract hover school";
+var mnemonic = "position ivory zoo patrol flock pond thank camp cover sheriff bring aunt";

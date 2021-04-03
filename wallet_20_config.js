@@ -1,1 +1,1 @@
-var mnemonic = "witness language blame victory run pigeon snack vibrant frog exotic banner ride";
+var mnemonic = "absorb special empower lawn copper base such bottom polar crop vocal obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant powder empower over orange ghost tonight salt skill skin pill float";
+var mnemonic = "save nominee lunar artist car album axis mention sibling match lonely prevent";

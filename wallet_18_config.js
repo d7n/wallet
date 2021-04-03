@@ -1,1 +1,1 @@
-var mnemonic = "chapter prefer lazy wink awkward fever wedding source carpet answer buzz brass";
+var mnemonic = "aerobic settle airport inner fiscal swim design square identify always buzz demise";

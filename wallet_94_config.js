@@ -1,1 +1,1 @@
-var mnemonic = "physical all horn coyote win minimum print deny mail clarify ordinary enrich";
+var mnemonic = "similar energy saddle surge water meadow artefact buffalo extend trade cloth indicate";

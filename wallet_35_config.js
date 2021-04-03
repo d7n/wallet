@@ -1,1 +1,1 @@
-var mnemonic = "wasp afraid cricket topic silk calm music scale limit ancient social elegant";
+var mnemonic = "grid scissors accuse saddle initial knee measure cancel bitter brother dish soon";

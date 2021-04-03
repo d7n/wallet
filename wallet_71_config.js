@@ -1,1 +1,1 @@
-var mnemonic = "funny brick sadness broom color visual circle race gesture cat visa cloth";
+var mnemonic = "universe talk tooth carbon gadget joke base wheat two target adjust holiday";

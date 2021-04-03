@@ -1,1 +1,1 @@
-var mnemonic = "lunar almost torch hover bird motor history sponsor aisle jeans guide dog";
+var mnemonic = "horse female lucky unaware edit elbow journey belt health accuse negative plug";

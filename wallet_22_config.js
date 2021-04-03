@@ -1,1 +1,1 @@
-var mnemonic = "idle tuition viable child output response sing climb rich grape cereal sustain";
+var mnemonic = "diary asthma stove system idea section news chase glue steel ecology merry";

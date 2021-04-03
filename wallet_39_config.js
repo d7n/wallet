@@ -1,1 +1,1 @@
-var mnemonic = "day argue end capable swap coral actor tenant forum injury hunt island";
+var mnemonic = "later audit enable will scrub chimney start canal time burden soda camp";

@@ -1,1 +1,1 @@
-var mnemonic = "feed illness nurse kid ship enter virtual party depend collect era unique";
+var mnemonic = "voyage runway million tennis frame pink shock pink olive swear scene must";

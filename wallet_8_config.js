@@ -1,1 +1,1 @@
-var mnemonic = "ancient lucky also spare that video hip exile innocent kite above estate";
+var mnemonic = "breeze arrow measure gesture fuel entry nothing garment pear stove head mosquito";

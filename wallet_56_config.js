@@ -1,1 +1,1 @@
-var mnemonic = "stay license thumb toast pistol wing fold stamp aspect family beauty swing";
+var mnemonic = "palace print exchange shoot someone wisdom indoor nut approve airport kite blade";

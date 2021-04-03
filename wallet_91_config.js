@@ -1,1 +1,1 @@
-var mnemonic = "swing kind finger brass butter pizza fan cream resist sister blind curtain";
+var mnemonic = "popular push planet salon canal hobby segment better canoe bag price brush";

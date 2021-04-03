@@ -1,1 +1,1 @@
-var mnemonic = "safe reason garbage ship civil sight dune dragon balcony swear erode obscure";
+var mnemonic = "violin winter average mad left pumpkin scorpion burger draw addict unit style";

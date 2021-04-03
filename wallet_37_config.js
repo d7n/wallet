@@ -1,1 +1,1 @@
-var mnemonic = "shadow plunge snap cause absent true mosquito radar envelope sphere eight comic";
+var mnemonic = "hold symptom dad often birth flush feature pact regular amateur maze avoid";

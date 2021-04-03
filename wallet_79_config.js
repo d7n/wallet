@@ -1,1 +1,1 @@
-var mnemonic = "bacon gate gun believe pelican off range cereal debris dance visit wedding";
+var mnemonic = "fade village rich extra state fruit huge book can toy palm federal";

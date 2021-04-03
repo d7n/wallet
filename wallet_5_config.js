@@ -1,1 +1,1 @@
-var mnemonic = "butter pill own grab immense couple tongue faith couch bitter rapid tired";
+var mnemonic = "satisfy weird appear antique cattle slab silly salon kick cement obscure romance";

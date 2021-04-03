@@ -1,1 +1,1 @@
-var mnemonic = "penalty punch tube favorite erode helmet sister fruit upset couch special critic";
+var mnemonic = "cactus pact chat lion please blur hamster toe capable opinion trend swear";

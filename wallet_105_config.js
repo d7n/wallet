@@ -1,1 +1,1 @@
-var mnemonic = "boring jewel snake oven seven marine story egg trick palace museum wall";
+var mnemonic = "grow air goddess mask guess engine chef enforce kitchen embrace input mobile";

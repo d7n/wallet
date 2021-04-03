@@ -1,1 +1,1 @@
-var mnemonic = "exclude identify riot sausage sport endorse poet bracket release charge city thrive";
+var mnemonic = "merry chair exit soul spawn flavor slush nature elevator diet admit slow";

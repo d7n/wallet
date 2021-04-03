@@ -1,1 +1,1 @@
-var mnemonic = "rebel broken robust unfair fun stereo canoe gaze scene still prevent alarm";
+var mnemonic = "swing curtain prefer voyage display tilt meat inform shed old radio screen";

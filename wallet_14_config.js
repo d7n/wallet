@@ -1,1 +1,1 @@
-var mnemonic = "sauce someone trouble shiver cloud salute mango cotton gold helmet sun wife";
+var mnemonic = "empty scrap video raccoon latin sell live hamster excess van final lion";

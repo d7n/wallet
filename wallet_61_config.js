@@ -1,1 +1,1 @@
-var mnemonic = "tank pause renew million exotic wool ignore diesel across view key hidden";
+var mnemonic = "annual ecology embrace cabbage grant travel mass twin hello witness reform dentist";

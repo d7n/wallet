@@ -1,1 +1,1 @@
-var mnemonic = "can defense pink wrestle plug between dismiss coyote balcony answer jeans frequent";
+var mnemonic = "toddler artist domain obey claim submit bridge envelope control chunk silk object";

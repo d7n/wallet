@@ -1,1 +1,1 @@
-var mnemonic = "okay reopen chapter minimum room around taste disorder couch tumble ignore into";
+var mnemonic = "pause vicious panther mad hollow engine essence pepper advice orange property benefit";

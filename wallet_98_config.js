@@ -1,1 +1,1 @@
-var mnemonic = "bacon vote satisfy atom loud real cushion rug frozen normal claw boat";
+var mnemonic = "screen hamster orphan target wedding pulse decade section broccoli repair few double";

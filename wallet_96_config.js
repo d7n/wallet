@@ -1,1 +1,1 @@
-var mnemonic = "payment rich response avocado flag pear rib effort bundle famous online urge";
+var mnemonic = "pretty myself page congress regret enter total choice cheap purse enable spare";

@@ -1,1 +1,1 @@
-var mnemonic = "road equal boss electric junk people ritual front blade require tattoo exclude";
+var mnemonic = "always echo hybrid donate battle caution cattle civil coral camera success puppy";

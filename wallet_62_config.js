@@ -1,1 +1,1 @@
-var mnemonic = "toast best candy canvas effort caution install traffic power lady strategy thank";
+var mnemonic = "clutch leg menu inject lemon squeeze fiction mountain shiver response monkey peace";

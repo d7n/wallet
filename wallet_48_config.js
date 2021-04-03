@@ -1,1 +1,1 @@
-var mnemonic = "arrest denial uniform execute scatter disease bean act vapor near proof post";
+var mnemonic = "under hidden consider chimney few move matrix segment match bean garlic mean";

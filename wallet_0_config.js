@@ -1,1 +1,1 @@
-var mnemonic = "lemon good fever wolf season suspect high key cupboard fly crack conduct";
+var mnemonic = "check hood tail endorse direct surge guess coach define before captain another";

@@ -1,1 +1,1 @@
-var mnemonic = "during jar addict spin giggle record inflict clinic prefer describe dutch sell";
+var mnemonic = "cart episode nephew plug barely force toy sound muscle pave oval hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "deny because loan note song sentence flight yellow world toddler notable over";
+var mnemonic = "already cactus erosion gravity scout view drop shove help salmon zebra siege";

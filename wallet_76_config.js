@@ -1,1 +1,1 @@
-var mnemonic = "leave job team protect tube barely health same beauty plastic tape chronic";
+var mnemonic = "rubber blame illness survey deputy air region myself famous frame flee program";

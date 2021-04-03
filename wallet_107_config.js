@@ -1,1 +1,1 @@
-var mnemonic = "essence damage venue upgrade police theme dove bike stuff athlete purity exotic";
+var mnemonic = "fury soap mixed review discover kite enable still antique hammer defy goose";

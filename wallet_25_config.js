@@ -1,1 +1,1 @@
-var mnemonic = "bubble today sing provide abuse thank receive avocado draft morning jaguar wine";
+var mnemonic = "pattern lawsuit reunion ethics essay hobby cream rate approve end gloom bus";

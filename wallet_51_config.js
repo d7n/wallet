@@ -1,1 +1,1 @@
-var mnemonic = "figure lemon replace flag alter card know flavor correct pistol used rhythm";
+var mnemonic = "unveil lumber pair track virtual interest raven add muffin cousin young include";

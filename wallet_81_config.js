@@ -1,1 +1,1 @@
-var mnemonic = "anxiety misery snake path palm host dance more dinosaur tongue brush ladder";
+var mnemonic = "oval pen spot thumb hour fat admit injury boring blur illness token";

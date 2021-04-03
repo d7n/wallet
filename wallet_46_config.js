@@ -1,1 +1,1 @@
-var mnemonic = "midnight game treat demand faculty income opera enjoy regular cup result struggle";
+var mnemonic = "firm industry cabin bronze buyer trip secret innocent faculty gym rifle device";

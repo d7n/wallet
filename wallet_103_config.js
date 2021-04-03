@@ -1,1 +1,1 @@
-var mnemonic = "sniff snap barely siren venue melody tube guitar reward planet donor visual";
+var mnemonic = "march shop style salute frost today logic huge seven opera tail siege";

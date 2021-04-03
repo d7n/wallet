@@ -1,1 +1,1 @@
-var mnemonic = "clump pulse switch desk space decrease kit february cruel liar marble shallow";
+var mnemonic = "weird bulk still corn ecology airport join trap chaos way collect outdoor";

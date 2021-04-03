@@ -1,1 +1,1 @@
-var mnemonic = "fetch filter ocean stumble idea vendor shallow abstract live dash option profit";
+var mnemonic = "voice coast dinosaur enrich armor raise work interest couple elevator arctic upon";

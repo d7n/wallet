@@ -1,1 +1,1 @@
-var mnemonic = "bundle shallow flush around circle tiny worry soda rally arm simple tissue";
+var mnemonic = "stick trick fit under panic aerobic ostrich fossil unhappy alien try idle";

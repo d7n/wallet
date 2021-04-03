@@ -1,1 +1,1 @@
-var mnemonic = "shrug genuine message easily market put off thank coast laugh disease result";
+var mnemonic = "mean float brush voyage safe length grit saddle type chat burden coyote";

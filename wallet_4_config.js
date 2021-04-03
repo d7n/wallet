@@ -1,1 +1,1 @@
-var mnemonic = "couple icon dad master misery rain change panda razor find suggest mansion";
+var mnemonic = "hammer around since subway round mandate quarter give recipe report supreme day";

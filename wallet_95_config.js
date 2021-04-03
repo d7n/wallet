@@ -1,1 +1,1 @@
-var mnemonic = "type math dwarf correct shed liar heavy mask weasel cliff lift pave";
+var mnemonic = "expire quarter nest produce diesel lion dutch romance treat private bone crystal";

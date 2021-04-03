@@ -1,1 +1,1 @@
-var mnemonic = "announce acquire device symptom gospel pledge profit define lemon hidden subject drastic";
+var mnemonic = "plunge reopen million fever sleep manual already jacket pitch split have live";

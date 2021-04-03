@@ -1,1 +1,1 @@
-var mnemonic = "upon shield level cliff panda best fatigue jungle lady network fox offer";
+var mnemonic = "crane gauge snake first tool fortune supply shove sauce click satoshi settle";

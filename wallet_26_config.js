@@ -1,1 +1,1 @@
-var mnemonic = "exit sun forum eight organ immune rival dilemma develop scene path access";
+var mnemonic = "barely march away sound near desert maze shadow melody switch pole divide";

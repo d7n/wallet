@@ -1,1 +1,1 @@
-var mnemonic = "only meat shadow game runway sand razor install fox vanish number myself";
+var mnemonic = "ring keep jar cycle dune merge riot fog wage tape rebuild detect";

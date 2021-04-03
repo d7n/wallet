@@ -1,1 +1,1 @@
-var mnemonic = "mom suggest stomach length market ridge venture basket shock elbow spin bridge";
+var mnemonic = "amused travel canal grief van egg number dumb simple jungle rose heart";

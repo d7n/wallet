@@ -1,1 +1,1 @@
-var mnemonic = "clever water odor pilot fruit lyrics aim jar adjust ignore sheriff emerge";
+var mnemonic = "cube cabbage depth tiger travel around enlist text kick admit slender whisper";

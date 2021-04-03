@@ -1,1 +1,1 @@
-var mnemonic = "oven mesh sponsor frequent demand giggle harvest illegal random run idle license";
+var mnemonic = "march employ toilet tray radar sauce soon scatter rescue hill february escape";

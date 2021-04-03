@@ -1,1 +1,1 @@
-var mnemonic = "require mushroom control raise buddy income mixture option armor sense stand circle";
+var mnemonic = "slam utility wrong hand beyond police fabric cost fabric shove into skirt";

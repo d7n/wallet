@@ -1,1 +1,1 @@
-var mnemonic = "where degree ball accuse base jelly orchard tent panel now treat bunker";
+var mnemonic = "betray hedgehog ostrich casino void gadget sure disorder apart owner vague duty";

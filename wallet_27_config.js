@@ -1,1 +1,1 @@
-var mnemonic = "ancient pilot render sister harbor frame dune abuse pave humble ignore club";
+var mnemonic = "pig marine surface squeeze current assist patch gentle ahead wheat sock select";

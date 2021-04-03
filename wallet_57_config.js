@@ -1,1 +1,1 @@
-var mnemonic = "honey man december cheap merge truth traffic hair use twelve excuse rich";
+var mnemonic = "hub tobacco sleep universe welcome vendor response mountain parent need goat slide";

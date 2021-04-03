@@ -1,1 +1,1 @@
-var mnemonic = "diagram prosper price hair crazy move filter kite object jacket never mixed";
+var mnemonic = "exercise onion venture survey online glimpse board also voyage song mandate tobacco";

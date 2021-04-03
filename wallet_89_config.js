@@ -1,1 +1,1 @@
-var mnemonic = "agent sock sport cloth decrease task young rib smoke monitor civil scan";
+var mnemonic = "salt nominee post tragic annual melody welcome catch harsh favorite lesson slight";

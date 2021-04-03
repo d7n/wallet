@@ -1,1 +1,1 @@
-var mnemonic = "begin soul talent lock bracket scorpion vapor test empty system mushroom shy";
+var mnemonic = "salad combine net cry hobby lens hip video rug diet fire always";

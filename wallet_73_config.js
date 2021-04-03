@@ -1,1 +1,1 @@
-var mnemonic = "claw enrich enroll recipe liquid happy debate cloth decade nut vault point";
+var mnemonic = "mention kitchen sibling run hockey what try tattoo dice frown ivory maple";

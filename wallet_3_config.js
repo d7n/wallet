@@ -1,1 +1,1 @@
-var mnemonic = "sister end lamp useful dish fuel novel dynamic expect render burger hard";
+var mnemonic = "security direct matrix elbow sock burst supply immense reform wage stamp diary";

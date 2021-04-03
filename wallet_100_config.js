@@ -1,1 +1,1 @@
-var mnemonic = "cliff travel wash ugly used public control miracle caught hamster hunt gesture";
+var mnemonic = "prefer express powder left muscle seed fit twenty keen magic before trigger";

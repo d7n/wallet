@@ -1,1 +1,1 @@
-var mnemonic = "banana time ready oblige soda domain toast rotate lyrics skin brief ethics";
+var mnemonic = "frog panda brown obtain company arrive tape never still tray wish divorce";

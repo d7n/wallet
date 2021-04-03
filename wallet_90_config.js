@@ -1,1 +1,1 @@
-var mnemonic = "bleak nose evoke balance crater corn omit easily scan cluster chunk spirit";
+var mnemonic = "ignore uphold silent sniff total december lottery rubber strategy pull turtle into";

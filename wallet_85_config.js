@@ -1,1 +1,1 @@
-var mnemonic = "wall sunny office erupt sunny dial argue forest again school stadium alley";
+var mnemonic = "ship actress train hollow toward among pizza inherit nest pretty stay mad";

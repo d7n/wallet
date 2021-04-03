@@ -1,1 +1,1 @@
-var mnemonic = "diet drop heart dinosaur soup drastic belt road elite green october easy";
+var mnemonic = "virus hungry bless dinosaur submit brass color rare gospel vacuum sweet snake";

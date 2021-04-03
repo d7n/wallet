@@ -1,1 +1,1 @@
-var mnemonic = "piece sign seed chuckle urge control cause chase taste expire cotton over";
+var mnemonic = "trial weather second sudden sponsor exact manage drive spring seed young dance";

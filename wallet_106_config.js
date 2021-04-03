@@ -1,1 +1,1 @@
-var mnemonic = "major purse grant glory wear flag pioneer issue follow shoe miss album";
+var mnemonic = "yard style hobby must debris offer help pride few dinosaur plug raw";

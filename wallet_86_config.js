@@ -1,1 +1,1 @@
-var mnemonic = "silly hockey remember leave lottery brief poem luxury trumpet gap siege cushion";
+var mnemonic = "disease click endless clown carpet mom truck forget deposit actress rigid survey";

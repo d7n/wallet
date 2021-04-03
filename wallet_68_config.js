@@ -1,1 +1,1 @@
-var mnemonic = "off shy obscure adult uncover coach blanket idle peanut pole truck depend";
+var mnemonic = "neck come soccer renew enemy will coral nice lawn limb try detect";
