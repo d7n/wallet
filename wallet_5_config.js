@@ -1,1 +1,1 @@
-var mnemonic = "human draw parrot supreme clever carry shrug royal local assist motion ginger";
+var mnemonic = "two rice volume wink about start trap loyal wall will obtain slice";

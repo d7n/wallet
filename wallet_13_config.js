@@ -1,1 +1,1 @@
-var mnemonic = "stadium rule dinner peasant crawl boring blood expose reason syrup license alien";
+var mnemonic = "curtain exhaust paddle anchor reflect win craft pave priority wrestle flip cement";

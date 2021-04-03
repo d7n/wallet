@@ -1,1 +1,1 @@
-var mnemonic = "stomach apple reopen limb during process south arena furnace few toe mom";
+var mnemonic = "obtain unable sentence vacuum shallow human ethics humor link theory robust jazz";

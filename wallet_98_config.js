@@ -1,1 +1,1 @@
-var mnemonic = "present learn ball face federal crazy grass silk feel doll bind rally";
+var mnemonic = "cash help height million illness catalog axis alley genre anger speed sick";

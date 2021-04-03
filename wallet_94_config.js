@@ -1,1 +1,1 @@
-var mnemonic = "super mammal token unusual group weather sudden there tongue pepper bag peace";
+var mnemonic = "hundred lion river snow erosion wait change deer base must few pulse";

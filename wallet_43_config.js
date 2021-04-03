@@ -1,1 +1,1 @@
-var mnemonic = "tunnel produce thank bounce seed tool penalty august velvet borrow fancy dice";
+var mnemonic = "vast cash trade flip frost shrug quiz position virtual split dizzy rug";

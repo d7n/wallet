@@ -1,1 +1,1 @@
-var mnemonic = "garden lawsuit ahead anxiety era report spell firm clay section friend reopen";
+var mnemonic = "wisdom hover post quick sponsor tuna erosion burger divert fog since grab";

@@ -1,1 +1,1 @@
-var mnemonic = "mix marble elbow slide social powder check tuna main ignore harvest donate";
+var mnemonic = "rent tail salon globe kitchen rail tent speak derive region bleak detect";

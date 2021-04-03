@@ -1,1 +1,1 @@
-var mnemonic = "state flash raven celery hair humor when box symptom latin slim eternal";
+var mnemonic = "gain same detail portion noise favorite into still spatial culture nerve penalty";

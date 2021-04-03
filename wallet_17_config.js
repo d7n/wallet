@@ -1,1 +1,1 @@
-var mnemonic = "isolate pull position trial garment verb lunch junior slam expose over unique";
+var mnemonic = "kind try bike nest pluck estate owner link merry awesome average history";

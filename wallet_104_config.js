@@ -1,1 +1,1 @@
-var mnemonic = "sniff general rebuild fetch negative lunar edge emotion digital velvet injury glow";
+var mnemonic = "kite basket spike curtain tray lava ancient armed never road scene erosion";

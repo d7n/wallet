@@ -1,1 +1,1 @@
-var mnemonic = "cart shoe elephant rain retreat raven turn wood you pole output clarify";
+var mnemonic = "artefact pill afraid egg improve card cost limit guitar horn art observe";

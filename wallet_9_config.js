@@ -1,1 +1,1 @@
-var mnemonic = "interest advance transfer drop increase warrior north feed sea verify current wisdom";
+var mnemonic = "athlete record lawsuit visual captain strike wage floor spell icon join illness";

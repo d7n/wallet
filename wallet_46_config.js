@@ -1,1 +1,1 @@
-var mnemonic = "crowd season proof peanut rocket nasty picture tissue maximum entry comfort bean";
+var mnemonic = "tube solve virus leave plastic first cup hat spoil stem churn trade";

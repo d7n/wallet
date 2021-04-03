@@ -1,1 +1,1 @@
-var mnemonic = "humor transfer reason boost movie luxury object risk provide mad about grocery";
+var mnemonic = "side fiscal fetch venture fancy slush street combine torch morning shy grain";

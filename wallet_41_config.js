@@ -1,1 +1,1 @@
-var mnemonic = "sick diary gold message judge use wheat surprise chuckle brief culture mushroom";
+var mnemonic = "island victory exile margin steak spike butter february word tackle junior jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "rich vessel door venue liar brown boat demand buffalo illness guide memory";
+var mnemonic = "siren spot trap spring skin chunk pyramid husband test often admit scrap";

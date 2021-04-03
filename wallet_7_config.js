@@ -1,1 +1,1 @@
-var mnemonic = "source street swing unveil winner jar grunt melt cake there wage rude";
+var mnemonic = "diary other scatter topple blade ceiling mixture also section ancient taste raise";

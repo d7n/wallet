@@ -1,1 +1,1 @@
-var mnemonic = "forget gauge position multiply federal satoshi banner expect donor party symbol silk";
+var mnemonic = "profit injury action protect zero boy broom scene fetch actress size beach";

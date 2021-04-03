@@ -1,1 +1,1 @@
-var mnemonic = "arrange claw fantasy ability confirm fox make border birth own reveal culture";
+var mnemonic = "evil soon deliver gasp animal flame dutch club ugly leisure maple quality";

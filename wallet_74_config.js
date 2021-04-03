@@ -1,1 +1,1 @@
-var mnemonic = "region risk lobster stand indoor frame indicate when divide night amateur retreat";
+var mnemonic = "poverty gun assault where riot chicken cycle afford machine salon vintage drum";

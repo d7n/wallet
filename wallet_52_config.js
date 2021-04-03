@@ -1,1 +1,1 @@
-var mnemonic = "seat frequent unhappy deputy gate stick badge first banana valve cricket lottery";
+var mnemonic = "kid sell used like device small major sport steak patient obscure dog";

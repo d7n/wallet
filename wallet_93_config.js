@@ -1,1 +1,1 @@
-var mnemonic = "divorce alone decide yellow cheap squeeze utility behind law fork loyal draw";
+var mnemonic = "dash theme human impact relief walk scale stone evil rally attitude tenant";

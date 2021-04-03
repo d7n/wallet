@@ -1,1 +1,1 @@
-var mnemonic = "frequent stairs misery wonder creek album hedgehog month park very figure stove";
+var mnemonic = "perfect parrot stem transfer once shed luggage decrease attract just suggest song";

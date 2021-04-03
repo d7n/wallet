@@ -1,1 +1,1 @@
-var mnemonic = "grow banner hawk situate evidence please jump enable water high animal small";
+var mnemonic = "game design caught alter lecture jump rare raise off climb screen detail";

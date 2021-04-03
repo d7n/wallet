@@ -1,1 +1,1 @@
-var mnemonic = "suspect admit razor joke armed twist hold absurd hero maximum arrive supreme";
+var mnemonic = "category test kingdom rhythm stairs affair deal such firm tuna raise switch";

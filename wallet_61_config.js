@@ -1,1 +1,1 @@
-var mnemonic = "plastic place chef genre shallow diamond voyage runway alcohol glide pact erosion";
+var mnemonic = "grid tilt crawl pulse dignity tongue race cake frown pistol local cereal";

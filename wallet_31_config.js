@@ -1,1 +1,1 @@
-var mnemonic = "they stuff state twelve retire frown napkin confirm artist company genuine magnet";
+var mnemonic = "alter whale calm evidence regret oval wreck direct unknown goddess device poverty";

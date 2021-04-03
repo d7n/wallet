@@ -1,1 +1,1 @@
-var mnemonic = "eagle drip live girl hip pitch junior invest sunny brass more domain";
+var mnemonic = "enter layer rapid rail excuse saddle stove urge also leaf inject area";

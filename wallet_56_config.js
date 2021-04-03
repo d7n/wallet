@@ -1,1 +1,1 @@
-var mnemonic = "tribe concert dress dune ginger near horror orchard buyer cook clay menu";
+var mnemonic = "shallow pig assist direct side member suggest month expect click vehicle runway";

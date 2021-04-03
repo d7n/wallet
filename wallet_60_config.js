@@ -1,1 +1,1 @@
-var mnemonic = "predict bird gown fit supply canvas live culture great account gallery choice";
+var mnemonic = "wreck file lumber banner settle violin zoo liquid ridge gain dial town";

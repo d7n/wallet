@@ -1,1 +1,1 @@
-var mnemonic = "scan address old car orchard lemon impact rotate shield toast north smoke";
+var mnemonic = "satisfy access gain able alarm violin taste egg inhale ski remember goose";

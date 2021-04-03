@@ -1,1 +1,1 @@
-var mnemonic = "elite betray size rose economy found calm find column letter distance stuff";
+var mnemonic = "ignore sort donor west harbor during pelican where fox business lecture budget";

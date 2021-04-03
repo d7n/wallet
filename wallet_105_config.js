@@ -1,1 +1,1 @@
-var mnemonic = "soda cycle loyal second appear paper corn praise fish lady confirm average";
+var mnemonic = "right okay flash empty foot achieve village unable very split sword program";

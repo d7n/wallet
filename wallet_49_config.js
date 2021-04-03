@@ -1,1 +1,1 @@
-var mnemonic = "explain tooth occur coffee evil like van card rice retire cross genre";
+var mnemonic = "coffee neutral piece oxygen divorce develop riot twin tent ramp hundred fatigue";

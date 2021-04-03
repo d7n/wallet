@@ -1,1 +1,1 @@
-var mnemonic = "lawn engage base tail office indoor dust digital ship glad auto tribe";
+var mnemonic = "inch dinosaur impose erupt simple hold video mansion myth scheme true shrimp";

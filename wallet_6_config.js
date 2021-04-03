@@ -1,1 +1,1 @@
-var mnemonic = "runway coast notice thing true lawn tail shift ankle little change fee";
+var mnemonic = "merry betray candy detect sting coral box rabbit knock claim pony fly";

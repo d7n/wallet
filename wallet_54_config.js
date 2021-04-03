@@ -1,1 +1,1 @@
-var mnemonic = "tortoise civil bridge snake nation plate garlic nephew all thing school target";
+var mnemonic = "tongue digital gesture unable sell response decline shed acoustic soon napkin similar";

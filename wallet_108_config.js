@@ -1,1 +1,1 @@
-var mnemonic = "history tunnel image choice select imitate sample emotion fun program task force";
+var mnemonic = "bean rookie two embark fit boring width palm coffee joy evoke auto";

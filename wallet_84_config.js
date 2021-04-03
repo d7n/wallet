@@ -1,1 +1,1 @@
-var mnemonic = "diamond divide burger battle tent chief vital trophy around convince snack month";
+var mnemonic = "great farm mosquito flag funny code damp salmon tower expose merit sun";

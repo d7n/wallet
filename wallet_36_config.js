@@ -1,1 +1,1 @@
-var mnemonic = "claw reduce honey claim moment cliff dolphin advance chase pride display vacant";
+var mnemonic = "draw wet link urban sight search sponsor pizza east example random pear";

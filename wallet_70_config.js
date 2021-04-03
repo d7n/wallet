@@ -1,1 +1,1 @@
-var mnemonic = "shop drip easily intact borrow pass dune device rug tray huge health";
+var mnemonic = "depart special limit brush attend offer maid devote nice crop opinion rescue";

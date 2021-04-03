@@ -1,1 +1,1 @@
-var mnemonic = "inmate delay start club size cage cabin shallow belt purpose salt dutch";
+var mnemonic = "next ethics amount valve extra corn town gift cradle pitch try enable";

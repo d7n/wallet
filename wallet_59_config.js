@@ -1,1 +1,1 @@
-var mnemonic = "senior flavor enough earn same patient obvious carbon huge scatter unfair scan";
+var mnemonic = "color reject blind section clay travel dirt walk rich crunch almost ahead";

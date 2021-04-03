@@ -1,1 +1,1 @@
-var mnemonic = "lemon royal body roast crack myself frozen message predict letter recall tape";
+var mnemonic = "toward absent noodle alert farm danger february final twenty cricket demise game";

@@ -1,1 +1,1 @@
-var mnemonic = "train half aerobic assist labor utility slight news rack combine coach embrace";
+var mnemonic = "arm radar grocery tonight suit piece exile sugar dove butter connect salt";

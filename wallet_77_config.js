@@ -1,1 +1,1 @@
-var mnemonic = "hockey story security upon enter diet betray gospel mail exhibit hunt they";
+var mnemonic = "smile ordinary away weird height live goose method require ball cage mimic";

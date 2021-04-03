@@ -1,1 +1,1 @@
-var mnemonic = "share control involve audit laptop sound tumble double office diary tell ill";
+var mnemonic = "issue lonely wisdom private smile chimney gasp team spell wreck vapor owner";

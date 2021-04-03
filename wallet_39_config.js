@@ -1,1 +1,1 @@
-var mnemonic = "crew school arena stage hidden fault couch kitten evidence say leg whisper";
+var mnemonic = "ticket method online aunt scrap raven usage fossil screen brave plunge desert";

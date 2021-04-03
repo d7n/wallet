@@ -1,1 +1,1 @@
-var mnemonic = "fence insect caution chimney barrel cheap uniform lunar share error captain bundle";
+var mnemonic = "antenna cycle lecture exhaust bid note morning avoid element limb morning tired";

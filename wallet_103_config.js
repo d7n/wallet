@@ -1,1 +1,1 @@
-var mnemonic = "casino limit rival live chapter below tattoo easy viable fancy swallow inside";
+var mnemonic = "voice flame lecture hundred wool plastic slice gym coast town also wild";

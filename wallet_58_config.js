@@ -1,1 +1,1 @@
-var mnemonic = "exile soft apart funny sugar stand proud wolf define bulk pave grant";
+var mnemonic = "employ skin cake define saddle garlic secret symptom mistake chat awesome example";

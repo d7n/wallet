@@ -1,1 +1,1 @@
-var mnemonic = "vault exercise pudding define camera anxiety empty coconut dial tent unit damp";
+var mnemonic = "garden service satisfy system network unusual obey episode winter accuse come reform";

@@ -1,1 +1,1 @@
-var mnemonic = "caught sadness faint dumb ceiling quality print label comic country spread air";
+var mnemonic = "very bulk farm hundred question mandate law rigid sad harvest crew nature";

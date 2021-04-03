@@ -1,1 +1,1 @@
-var mnemonic = "fruit empower excess betray phone velvet void tilt bean distance enable acid";
+var mnemonic = "glue female essence gift rival step enhance agree visit wrist beyond stool";

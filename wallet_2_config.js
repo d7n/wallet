@@ -1,1 +1,1 @@
-var mnemonic = "immense enrich galaxy salmon between crucial gate neither around south expand debate";
+var mnemonic = "master expose orbit end small skirt quote cushion reunion amateur magnet misery";

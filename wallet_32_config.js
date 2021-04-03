@@ -1,1 +1,1 @@
-var mnemonic = "tuition second grass combine believe area ecology degree initial voice try cotton";
+var mnemonic = "issue soldier flip style keen stool region paddle staff setup mother leisure";

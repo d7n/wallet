@@ -1,1 +1,1 @@
-var mnemonic = "move child thought include similar wash finger window hood fury bronze age";
+var mnemonic = "library kangaroo type turn sauce tell hand all grief save acid level";

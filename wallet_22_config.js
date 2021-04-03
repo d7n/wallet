@@ -1,1 +1,1 @@
-var mnemonic = "okay grass wrist width blind summer hospital effort border field stereo hidden";
+var mnemonic = "cotton innocent canoe shoot outer guitar write admit inhale act quality board";

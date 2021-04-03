@@ -1,1 +1,1 @@
-var mnemonic = "summer agree ripple ethics run end connect nation state news cloud bullet";
+var mnemonic = "always inch kiss item input gym village crisp address wire curious ordinary";

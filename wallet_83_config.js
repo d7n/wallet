@@ -1,1 +1,1 @@
-var mnemonic = "route input any report invest wide exist sample dizzy cage gas helmet";
+var mnemonic = "acquire sustain company refuse dawn saddle enjoy mask ensure when bubble fox";

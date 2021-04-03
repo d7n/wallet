@@ -1,1 +1,1 @@
-var mnemonic = "coil buffalo lens husband give industry good filter glass sad crush fragile";
+var mnemonic = "subject arch latin garment legal option gossip father ski ceiling trick dumb";

@@ -1,1 +1,1 @@
-var mnemonic = "cargo breeze bargain parrot crowd gadget ankle motion double badge blur couple";
+var mnemonic = "tiny fun people update wave episode collect right faint guitar client light";

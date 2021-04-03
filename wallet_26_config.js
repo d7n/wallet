@@ -1,1 +1,1 @@
-var mnemonic = "party essence fever risk provide surprise despair south trigger spot moon scheme";
+var mnemonic = "slide any hover crime avoid envelope network kingdom predict repair supreme list";

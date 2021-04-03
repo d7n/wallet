@@ -1,1 +1,1 @@
-var mnemonic = "club sunny worry reunion tongue empty help focus pole right alpha trick";
+var mnemonic = "myself joke cool top shove cage steak concert thank artefact evil easy";

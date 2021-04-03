@@ -1,1 +1,1 @@
-var mnemonic = "spoon submit garment horror trim fix nature move giggle across crisp eight";
+var mnemonic = "dry torch enforce device rough stairs legend camera orbit season when combine";

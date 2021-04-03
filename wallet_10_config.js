@@ -1,1 +1,1 @@
-var mnemonic = "canoe syrup south same history drink fix museum usage squirrel basic ginger";
+var mnemonic = "unveil banana prosper reveal boring chair any pink mechanic wheat hat entire";

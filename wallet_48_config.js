@@ -1,1 +1,1 @@
-var mnemonic = "steak divorce addict cluster success lobster blanket couch make argue fee collect";
+var mnemonic = "confirm future plate betray object shoot merge lottery rhythm flush hood hope";

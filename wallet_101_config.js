@@ -1,1 +1,1 @@
-var mnemonic = "upgrade case kick column online dish barrel lunar notable danger apple reveal";
+var mnemonic = "bar pet child fault chalk pluck flag grit fuel derive car borrow";

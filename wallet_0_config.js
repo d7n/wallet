@@ -1,1 +1,1 @@
-var mnemonic = "flame stable rare pluck buddy section warfare soul river pear broken dance";
+var mnemonic = "cereal tiger celery trumpet decline harsh pool know ozone account number reform";

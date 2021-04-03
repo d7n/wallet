@@ -1,1 +1,1 @@
-var mnemonic = "crowd hybrid oak eye finger nation poet film syrup credit hire much";
+var mnemonic = "confirm device crash person announce flower fun shiver picture eight arena enforce";

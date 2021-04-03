@@ -1,1 +1,1 @@
-var mnemonic = "shift barrel use exhibit high useless cereal shoot engine pledge brain middle";
+var mnemonic = "mechanic bundle timber first spend agent one raccoon tourist jump denial record";

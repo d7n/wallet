@@ -1,1 +1,1 @@
-var mnemonic = "bean behind rifle diesel upset address bullet eyebrow number famous diagram echo";
+var mnemonic = "drastic protect return circle wrestle shift calm midnight woman tide slide useless";

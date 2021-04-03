@@ -1,1 +1,1 @@
-var mnemonic = "happy coyote raise prevent check truth tray nominee snake room dynamic home";
+var mnemonic = "wire laugh surface opinion grape style float net practice genius initial setup";

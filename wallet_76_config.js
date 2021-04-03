@@ -1,1 +1,1 @@
-var mnemonic = "slam hobby plug file tattoo spend faint enlist filter cool script lamp";
+var mnemonic = "skin hood dune ticket seven nasty visit layer puppy fabric hollow stock";

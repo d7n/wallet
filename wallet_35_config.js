@@ -1,1 +1,1 @@
-var mnemonic = "heavy hundred trigger woman remind glass cotton enhance news mind girl delay";
+var mnemonic = "giggle trim coast carry hazard carpet fantasy shuffle bleak month town aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "digital thumb half actual vehicle green hazard forget romance ivory false oyster";
+var mnemonic = "glimpse milk decrease weekend base grid simple elegant shock affair tone grocery";

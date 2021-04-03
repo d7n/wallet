@@ -1,1 +1,1 @@
-var mnemonic = "action blind mom tragic nest number resource cover correct maid way bottom";
+var mnemonic = "bread resource visa turtle come give scene kangaroo thought letter round share";

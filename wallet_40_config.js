@@ -1,1 +1,1 @@
-var mnemonic = "gun inquiry same diary drip omit focus quality talk analyst define salon";
+var mnemonic = "mouse capable repair exercise hurt warm enemy during globe rich salmon fan";

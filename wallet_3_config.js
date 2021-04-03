@@ -1,1 +1,1 @@
-var mnemonic = "west ethics obvious pigeon ugly treat describe danger often verb target exhibit";
+var mnemonic = "ill multiply until vibrant close shy know good sense hedgehog reject whisper";

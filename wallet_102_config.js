@@ -1,1 +1,1 @@
-var mnemonic = "absent bring layer vessel code click project kitten pony social solve kidney";
+var mnemonic = "season earth indicate sheriff grape obey grant legal cheese addict sleep armor";

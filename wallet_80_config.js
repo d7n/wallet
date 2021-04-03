@@ -1,1 +1,1 @@
-var mnemonic = "guide harbor acquire gas child hundred egg hockey ghost garage club often";
+var mnemonic = "because column brass reform diary left nurse swallow dose cherry castle profit";

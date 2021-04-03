@@ -1,1 +1,1 @@
-var mnemonic = "wood father vacant category armor oil west enemy oblige guard science creek";
+var mnemonic = "work garage famous attract tongue transfer gold educate empower enough fresh mobile";

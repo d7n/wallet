@@ -1,1 +1,1 @@
-var mnemonic = "payment echo little antique mixed cruise snap title now vast uniform letter";
+var mnemonic = "dry impact spell tilt stereo luxury vibrant bind dutch nest bind prison";

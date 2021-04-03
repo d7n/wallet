@@ -1,1 +1,1 @@
-var mnemonic = "flame bullet census shallow obvious setup victory glass rice you bar trust";
+var mnemonic = "accuse update spice slender birth shaft kiwi acid honey grant large shed";

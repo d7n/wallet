@@ -1,1 +1,1 @@
-var mnemonic = "print ranch need manage law absent ill focus language regret math stove";
+var mnemonic = "sock wave dismiss banana island month man smoke hurt will blush swing";

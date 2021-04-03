@@ -1,1 +1,1 @@
-var mnemonic = "thunder logic razor gold toss useless dream balance bacon heart comfort depend";
+var mnemonic = "sudden barrel output idea illness potato rhythm river cupboard noise rookie elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "derive unique stomach more casual muscle amount doll smooth extend protect base";
+var mnemonic = "brick fame midnight execute industry umbrella cycle apple bulb chapter cherry foil";

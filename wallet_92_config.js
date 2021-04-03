@@ -1,1 +1,1 @@
-var mnemonic = "require satisfy connect saddle evidence average black true arctic desk satisfy settle";
+var mnemonic = "job degree nest version ten hockey wheel long label actual patch tomorrow";

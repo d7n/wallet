@@ -1,1 +1,1 @@
-var mnemonic = "position pink cat soldier hand toy oblige match tourist rotate device demise";
+var mnemonic = "cruel stereo fashion document endorse lobster hospital film change start lunch lady";

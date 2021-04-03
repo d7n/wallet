@@ -1,1 +1,1 @@
-var mnemonic = "menu depart husband brown brother jump now benefit enjoy because galaxy surge";
+var mnemonic = "myth broccoli owner bean barrel total wide disagree blame idea mail dish";

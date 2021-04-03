@@ -1,1 +1,1 @@
-var mnemonic = "century liberty churn trip pencil notable hazard answer rookie employ pair adjust";
+var mnemonic = "trend supreme abandon jealous dance dawn nurse female marriage jar special actor";

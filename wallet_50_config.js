@@ -1,1 +1,1 @@
-var mnemonic = "clinic club trial away shaft debate vibrant bind ability mosquito story expire";
+var mnemonic = "pottery mouse else blind blur angle tribe valley when dad memory jump";

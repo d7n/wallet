@@ -1,1 +1,1 @@
-var mnemonic = "pelican accuse gasp ignore net speak script can wealth crash frown term";
+var mnemonic = "occur illness sustain ability culture year moment village please merry wave receive";

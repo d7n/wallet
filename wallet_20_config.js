@@ -1,1 +1,1 @@
-var mnemonic = "hill range near sheriff force junk photo enlist source ball ginger you";
+var mnemonic = "network point hamster order brand switch spirit gravity engage buyer state inflict";
