@@ -1,1 +1,1 @@
-var mnemonic = "vote smoke usage recall soccer symbol omit program cook history space tape";
+var mnemonic = "exhibit wall camp olive crash embrace call impact train swim behave multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle phrase castle mix west ramp because type nephew disorder melody inhale";
+var mnemonic = "smooth case agent script spray junior market use bachelor slot deposit roast";

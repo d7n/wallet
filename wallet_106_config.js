@@ -1,1 +1,1 @@
-var mnemonic = "desert travel web truck vintage south stand animal glow mother endless material";
+var mnemonic = "artist try jazz tunnel pony young recall audit harbor tower tube infant";

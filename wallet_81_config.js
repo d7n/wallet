@@ -1,1 +1,1 @@
-var mnemonic = "gesture luggage century sort sport baby olive lend road stick nest pizza";
+var mnemonic = "neglect shed galaxy vicious bus harvest bunker mutual best hollow segment usual";

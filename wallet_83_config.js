@@ -1,1 +1,1 @@
-var mnemonic = "away husband divorce intact fresh blue dumb address fold inmate explain spring";
+var mnemonic = "whip else true pretty cigar ability hidden long clog cargo quality blood";

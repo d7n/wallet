@@ -1,1 +1,1 @@
-var mnemonic = "coast define thunder grunt write mother iron task turkey foam tennis group";
+var mnemonic = "main buyer weather crazy assist rival boy goat mask survey hour finger";

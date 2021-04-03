@@ -1,1 +1,1 @@
-var mnemonic = "multiply shadow train rescue tunnel lobster about step erase fault seven menu";
+var mnemonic = "february potato once daughter stereo hockey elder slogan pet payment judge metal";

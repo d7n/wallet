@@ -1,1 +1,1 @@
-var mnemonic = "ethics transfer twenty gauge syrup actress harsh time left switch step segment";
+var mnemonic = "rebuild brass voice sniff cash scan finish point garage weekend dry gift";

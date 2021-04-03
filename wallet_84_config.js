@@ -1,1 +1,1 @@
-var mnemonic = "water enemy glue bomb put skate zero train nation exclude jump renew";
+var mnemonic = "firm offer dentist crowd latin virus viable powder ecology mule guide energy";

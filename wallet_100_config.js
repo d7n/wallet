@@ -1,1 +1,1 @@
-var mnemonic = "burst exclude crouch move morning bone any phrase stereo shift awake other";
+var mnemonic = "antique learn mosquito glow hazard exit course enemy thrive left display space";

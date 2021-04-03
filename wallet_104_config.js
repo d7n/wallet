@@ -1,1 +1,1 @@
-var mnemonic = "snack mix sketch tissue into charge face clutch liar useful walnut term";
+var mnemonic = "main divert coil direct lock dawn father write icon friend various step";

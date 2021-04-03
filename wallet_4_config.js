@@ -1,1 +1,1 @@
-var mnemonic = "island stamp network fat naive chronic moral bag erosion skull sweet opinion";
+var mnemonic = "labor stock logic exercise slogan comic cancel harsh pigeon pink law hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "parade punch control cool mesh excess similar attend buzz engage start large";
+var mnemonic = "dream check ceiling wife air crash bonus picture replace cousin interest tail";

@@ -1,1 +1,1 @@
-var mnemonic = "left either april course major math involve focus fish normal unveil neck";
+var mnemonic = "random goat captain sort recipe spatial sand mass river cotton feature knife";

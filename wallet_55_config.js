@@ -1,1 +1,1 @@
-var mnemonic = "pave sketch keep pupil city beyond blast mind favorite swap inherit day";
+var mnemonic = "need expire post gospel potato leader hill mobile text boost mesh hair";

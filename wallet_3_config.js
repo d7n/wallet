@@ -1,1 +1,1 @@
-var mnemonic = "process world pull domain twenty raise step cattle moment cinnamon original chair";
+var mnemonic = "thrive farm antenna rack light minute legend better oval little melt inner";

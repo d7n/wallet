@@ -1,1 +1,1 @@
-var mnemonic = "advice security force extend fit album range noise mechanic fog jacket pulp";
+var mnemonic = "fossil drama income vanish aerobic found news circle latin cousin indicate address";

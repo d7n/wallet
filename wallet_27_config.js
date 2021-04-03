@@ -1,1 +1,1 @@
-var mnemonic = "mad fog clock tonight slight husband narrow vicious picnic duty select typical";
+var mnemonic = "render ordinary cloth judge tonight prize alpha weather enjoy nothing noble nasty";

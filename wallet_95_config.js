@@ -1,1 +1,1 @@
-var mnemonic = "bachelor lonely ginger farm fame rug evil mad broom vote float melt";
+var mnemonic = "cost few off media patient welcome vendor certain gloom addict walnut comic";

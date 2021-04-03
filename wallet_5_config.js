@@ -1,1 +1,1 @@
-var mnemonic = "actor cannon raw belt ostrich kitten frog enter expose moment student boat";
+var mnemonic = "aware bracket ritual liberty language alley thunder keep behind humor calm crowd";

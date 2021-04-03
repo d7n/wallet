@@ -1,1 +1,1 @@
-var mnemonic = "kiwi pattern lazy opinion noble degree machine inform hub topple palm home";
+var mnemonic = "pond warrior pencil open boss library boy column nuclear hub smoke best";

@@ -1,1 +1,1 @@
-var mnemonic = "scare bitter must transfer bird leader cannon salmon harvest nominee hero guard";
+var mnemonic = "garment boy drift inflict pause way bulk turkey receive space race lumber";

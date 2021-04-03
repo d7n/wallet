@@ -1,1 +1,1 @@
-var mnemonic = "kind craft pistol pledge harsh material infant lift arrange lock material symptom";
+var mnemonic = "pipe account list piano impact follow ranch magic sight humble elephant soul";

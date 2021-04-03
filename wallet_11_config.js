@@ -1,1 +1,1 @@
-var mnemonic = "sort sunny area jacket island enjoy fury depart kid novel cheap rocket";
+var mnemonic = "can hood truck shell coast sell wheel expect base track tide kind";

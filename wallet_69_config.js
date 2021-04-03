@@ -1,1 +1,1 @@
-var mnemonic = "trend stairs mandate city excess naive gasp heavy slush bird security foot";
+var mnemonic = "awful alert promote trumpet always miracle carry insane arrive issue crime egg";

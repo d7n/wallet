@@ -1,1 +1,1 @@
-var mnemonic = "stage ceiling shoot credit congress harsh prosper vendor tissue echo swap pulp";
+var mnemonic = "labor prepare cannon craft drill rally people gym brown garlic slight gauge";

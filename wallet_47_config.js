@@ -1,1 +1,1 @@
-var mnemonic = "throw festival lab genius paper salt payment light blossom sentence jazz zoo";
+var mnemonic = "puzzle umbrella ostrich point hazard inch bullet summer again birth swarm round";

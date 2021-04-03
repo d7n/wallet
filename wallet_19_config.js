@@ -1,1 +1,1 @@
-var mnemonic = "ice planet oyster novel jealous great ordinary bless route actress type quote";
+var mnemonic = "primary spend kangaroo trust depart mouse spirit custom beef control syrup hybrid";

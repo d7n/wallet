@@ -1,1 +1,1 @@
-var mnemonic = "menu cliff twist door mule damage young oblige hybrid planet area circle";
+var mnemonic = "heart else tennis bundle depth void tooth bring food tail kiwi kitten";

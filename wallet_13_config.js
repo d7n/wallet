@@ -1,1 +1,1 @@
-var mnemonic = "siren shock cousin swing world acid middle stadium evolve sick video tribe";
+var mnemonic = "man quality basket quarter ski fuel advice kite inch orphan govern meadow";

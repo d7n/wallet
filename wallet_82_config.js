@@ -1,1 +1,1 @@
-var mnemonic = "chef unlock meat disorder coin memory logic sunset tornado liquid blush love";
+var mnemonic = "weasel chat federal stem media ritual nation garlic three wrap alien honey";

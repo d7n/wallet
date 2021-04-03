@@ -1,1 +1,1 @@
-var mnemonic = "pistol eye indicate spoil orphan remove feel soon crash select left give";
+var mnemonic = "enough degree property spin weekend over scale lesson argue acoustic airport six";

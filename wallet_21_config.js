@@ -1,1 +1,1 @@
-var mnemonic = "lesson hat measure violin wood time hamster degree industry sister flat relief";
+var mnemonic = "sustain arrow pause fringe region give hawk hawk design garbage busy dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "polar web finish only visual marine tower frog few pilot limit canoe";
+var mnemonic = "phrase exact demand olympic jelly hub gospel muffin village lounge enter merry";

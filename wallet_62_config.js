@@ -1,1 +1,1 @@
-var mnemonic = "october novel belt agent giggle ability fever kit hand bullet unfair verify";
+var mnemonic = "century broom vapor blast gift tunnel fresh cabbage duty gasp glide kiwi";

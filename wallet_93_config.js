@@ -1,1 +1,1 @@
-var mnemonic = "twice group wing garden leave scene slow toward scan test vibrant indoor";
+var mnemonic = "ostrich phone student ribbon lumber curtain ginger please when raccoon spawn miracle";

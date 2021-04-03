@@ -1,1 +1,1 @@
-var mnemonic = "potato dove mandate arrive feel tone bonus damage benefit name reunion actual";
+var mnemonic = "peace ghost energy skirt tray doctor reason debris bulb smooth where cage";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle myth chunk ivory sauce ocean arm patient tiger clean praise awful";
+var mnemonic = "parade supply master ride alcohol obey amazing season person jacket fabric bottom";

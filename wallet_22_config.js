@@ -1,1 +1,1 @@
-var mnemonic = "push become candy announce shrug pencil digital monitor appear squeeze crater blind";
+var mnemonic = "blast chaos absurd jelly license muffin kind green tuition output drive eager";

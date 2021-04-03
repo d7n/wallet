@@ -1,1 +1,1 @@
-var mnemonic = "taste father prefer student antenna tape minor chef canoe brick call hurry";
+var mnemonic = "grain movie wave supreme ahead gate wise hundred bean seminar margin keep";

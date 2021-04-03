@@ -1,1 +1,1 @@
-var mnemonic = "biology urban coin wink height tiny risk raven rich rapid into onion";
+var mnemonic = "help favorite good flush sentence bird runway know include response naive truth";

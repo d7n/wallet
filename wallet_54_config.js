@@ -1,1 +1,1 @@
-var mnemonic = "decline ticket foot quality day wide reduce leg wear neither art desert";
+var mnemonic = "cinnamon buddy escape large little park depend spread slice elbow like tackle";

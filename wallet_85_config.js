@@ -1,1 +1,1 @@
-var mnemonic = "maximum distance reason calm solve bullet sword rice smile mail slice cruise";
+var mnemonic = "capital climb coin differ unaware robust put also fitness chronic develop give";

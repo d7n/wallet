@@ -1,1 +1,1 @@
-var mnemonic = "eight live fancy balance candy claim keen repair vendor dream elbow dumb";
+var mnemonic = "risk result patient fetch spring stereo resource forum enjoy resemble soup music";

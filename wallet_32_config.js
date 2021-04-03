@@ -1,1 +1,1 @@
-var mnemonic = "wheel churn piano truth tenant oval prison office napkin pumpkin because cheap";
+var mnemonic = "child bus decline field nation orphan aspect belt click film table cube";

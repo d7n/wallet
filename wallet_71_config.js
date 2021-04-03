@@ -1,1 +1,1 @@
-var mnemonic = "solid general heavy airport use angry claim canoe minute seminar peanut hospital";
+var mnemonic = "worth access robot wealth art choice symptom universe paper act burger rule";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual turkey stock voice muscle figure fine plate theory treat cover laundry";
+var mnemonic = "brother option accuse chat hero agent grant series mobile clerk green avoid";

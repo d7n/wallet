@@ -1,1 +1,1 @@
-var mnemonic = "someone vacuum crouch lounge broccoli mouse canyon fiber picture salmon moment vibrant";
+var mnemonic = "egg general service brain segment knock include captain divorce raw perfect into";

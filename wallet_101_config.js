@@ -1,1 +1,1 @@
-var mnemonic = "gate essence panic approve open reveal mean useful direct duck fetch merit";
+var mnemonic = "permit govern airport child insane nature maid refuse divert also oval account";

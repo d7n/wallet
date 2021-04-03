@@ -1,1 +1,1 @@
-var mnemonic = "empower before negative level glance whisper odor kind useful gas suggest anger";
+var mnemonic = "hungry expand remove resist talent balcony rib zone potato layer elegant turn";

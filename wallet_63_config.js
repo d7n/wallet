@@ -1,1 +1,1 @@
-var mnemonic = "source salmon motor royal subject tooth cheap eternal lava face riot attitude";
+var mnemonic = "unfold tone casual match soap flight pattern miss super dress glance hospital";

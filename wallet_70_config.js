@@ -1,1 +1,1 @@
-var mnemonic = "session circle glimpse sphere shock endorse shed jungle skull two glove ski";
+var mnemonic = "purpose announce sound drink wire pond priority mule supreme cash sample rule";

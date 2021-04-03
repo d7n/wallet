@@ -1,1 +1,1 @@
-var mnemonic = "assume priority cabin intact lecture cupboard film change detect staff panther coffee";
+var mnemonic = "volcano buddy sibling endless proof pattern volume anger odor bulk blur glow";

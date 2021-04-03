@@ -1,1 +1,1 @@
-var mnemonic = "until sketch industry smooth nominee taxi jungle dog bottom merit hub equal";
+var mnemonic = "aim edge buzz provide siege galaxy pencil execute glass dragon horn climb";

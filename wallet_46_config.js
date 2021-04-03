@@ -1,1 +1,1 @@
-var mnemonic = "normal another eager warrior brick urban warfare near lift execute harsh roof";
+var mnemonic = "wedding like honey fence afford jewel stadium staff push digital script bomb";

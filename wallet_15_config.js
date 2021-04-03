@@ -1,1 +1,1 @@
-var mnemonic = "unit rotate eye carpet future pilot setup say decide process couple mad";
+var mnemonic = "timber dad dizzy anchor awful easily imitate puppy bounce youth fantasy win";

@@ -1,1 +1,1 @@
-var mnemonic = "key advice traffic link lonely dad chicken iron fork satisfy dress lemon";
+var mnemonic = "fury squirrel undo glimpse tattoo zone truck culture art corn visit mechanic";

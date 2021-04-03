@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow gadget wasp hat bargain trash tree plastic review warrior oxygen cruel";
+var mnemonic = "pepper electric album phone gaze hen tenant glad diagram scene often fork";

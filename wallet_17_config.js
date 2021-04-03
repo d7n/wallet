@@ -1,1 +1,1 @@
-var mnemonic = "trash tool various sense seek spy walk tiger rough deer pudding sleep";
+var mnemonic = "nominee crop stereo boy spirit sentence invest put napkin swamp rifle trigger";

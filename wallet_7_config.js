@@ -1,1 +1,1 @@
-var mnemonic = "link inherit grief park broken doll love panel park detail can chair";
+var mnemonic = "rely denial penalty deposit cheap input cute copper beef used drama cactus";

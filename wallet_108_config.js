@@ -1,1 +1,1 @@
-var mnemonic = "diagram flat next sleep husband strategy supreme earn tackle worry rather panel";
+var mnemonic = "chair picture blouse scissors guide enlist shaft lawsuit forward boss royal amount";

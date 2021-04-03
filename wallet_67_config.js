@@ -1,1 +1,1 @@
-var mnemonic = "neutral disorder best walnut endless capital grace nasty silent struggle vital rate";
+var mnemonic = "typical badge flag pudding saddle burger token talent boil pony inside stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "depart spell aisle sure rack wood jump electric surprise pretty fire antique";
+var mnemonic = "primary gown use doll early fish peanut nest pretty auto coyote remove";

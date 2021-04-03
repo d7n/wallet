@@ -1,1 +1,1 @@
-var mnemonic = "intact there oyster bargain protect crumble silver buyer flip huge flash false";
+var mnemonic = "daughter recall exotic magnet road need amazing polar voyage deal demand unknown";

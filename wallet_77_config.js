@@ -1,1 +1,1 @@
-var mnemonic = "way coast advice mask reject unknown nasty wide glove insect minimum neutral";
+var mnemonic = "acoustic donate school sibling force sudden exile ridge achieve erupt tide sight";

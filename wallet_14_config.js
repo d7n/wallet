@@ -1,1 +1,1 @@
-var mnemonic = "artist ranch swarm expect below image alone rent churn potato order rotate";
+var mnemonic = "child outdoor vacuum frown cover online talk report quote same upper unfold";

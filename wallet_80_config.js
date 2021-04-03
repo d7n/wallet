@@ -1,1 +1,1 @@
-var mnemonic = "hollow express holiday denial fetch finger boring cry still extra giggle theme";
+var mnemonic = "rare pony pony amount unhappy color width begin transfer ski comfort explain";

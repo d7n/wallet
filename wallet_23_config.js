@@ -1,1 +1,1 @@
-var mnemonic = "sure icon pole build bottom civil amazing project naive glove degree suggest";
+var mnemonic = "road pledge excess cage thought relief flash clock bar ignore path audit";

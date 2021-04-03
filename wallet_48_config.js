@@ -1,1 +1,1 @@
-var mnemonic = "either sound settle govern owner matter finish senior left life segment embark";
+var mnemonic = "chimney over athlete dismiss barrel neglect protect indoor mention song rigid idea";

@@ -1,1 +1,1 @@
-var mnemonic = "range life sure receive glad voyage kit weird social survey sustain volume";
+var mnemonic = "office network industry grow life frequent humble novel must flee awesome hospital";

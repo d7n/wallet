@@ -1,1 +1,1 @@
-var mnemonic = "reopen grow list diagram jelly royal limb duck image inject flee soldier";
+var mnemonic = "nephew sense burst scrub donor food before ribbon ice annual mad shift";

@@ -1,1 +1,1 @@
-var mnemonic = "subject chunk clock mansion know eagle orient pattern cupboard uncover mechanic broken";
+var mnemonic = "remind sorry rescue nasty spatial donor decide impact beauty genius bread chef";

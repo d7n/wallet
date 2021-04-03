@@ -1,1 +1,1 @@
-var mnemonic = "try few today crawl often diamond purchase provide feel ice hat cross";
+var mnemonic = "mercy yellow second balcony exotic siren busy vivid match unfold muscle smart";

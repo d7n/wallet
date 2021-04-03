@@ -1,1 +1,1 @@
-var mnemonic = "treat dune table loan genius aunt canyon quality three polar praise play";
+var mnemonic = "april comic spy giraffe glass future diagram soap garlic minimum slide stamp";

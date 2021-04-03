@@ -1,1 +1,1 @@
-var mnemonic = "puppy add legal mansion equip bacon have ribbon better buyer sea certain";
+var mnemonic = "pizza cart small reunion kiss swift drop middle power second fun leave";

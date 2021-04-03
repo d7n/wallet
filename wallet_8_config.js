@@ -1,1 +1,1 @@
-var mnemonic = "broccoli scheme ecology decline squeeze occur stick gather weather novel jelly core";
+var mnemonic = "bench tube taxi refuse utility coin above strong copy list again regret";

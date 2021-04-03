@@ -1,1 +1,1 @@
-var mnemonic = "tenant youth hurry art office inch sting above enough end donor lake";
+var mnemonic = "isolate quality maze one enhance pink giggle soft fire same potato grocery";

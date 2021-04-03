@@ -1,1 +1,1 @@
-var mnemonic = "matrix quiz shop cloth upon toilet social educate outdoor skirt maximum lottery";
+var mnemonic = "atom leg scorpion visa they gold knee rare tornado icon nurse belt";

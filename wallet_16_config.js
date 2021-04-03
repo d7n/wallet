@@ -1,1 +1,1 @@
-var mnemonic = "flat tennis mirror cannon reject access borrow avoid hip uncover loyal practice";
+var mnemonic = "black duck game again more code kit desert size destroy more sweet";

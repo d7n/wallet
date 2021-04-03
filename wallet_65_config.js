@@ -1,1 +1,1 @@
-var mnemonic = "never upper toilet endless neck local hen despair nature power size jeans";
+var mnemonic = "voice merit word series recycle stick recall oval ceiling silver foam lab";

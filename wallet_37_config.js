@@ -1,1 +1,1 @@
-var mnemonic = "giant volume erosion august blame box saddle beauty enhance obscure box step";
+var mnemonic = "donor clinic submit edit version menu boy inside noble pave weekend then";

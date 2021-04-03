@@ -1,1 +1,1 @@
-var mnemonic = "rain motor today medal curtain foster across fog hope practice transfer bullet";
+var mnemonic = "burst hello pole coffee safe cargo robust swear story crater melody people";

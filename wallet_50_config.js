@@ -1,1 +1,1 @@
-var mnemonic = "man gesture oak female recycle drift length burden combine impose start invite";
+var mnemonic = "merit derive strategy put bitter table slim jacket skate gown mail valve";

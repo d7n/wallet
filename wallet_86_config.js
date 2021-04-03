@@ -1,1 +1,1 @@
-var mnemonic = "dumb execute slice clip legend cool wasp auction quality spell wish shield";
+var mnemonic = "recycle buffalo rather dove there elevator slim dust person champion together chalk";

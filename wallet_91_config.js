@@ -1,1 +1,1 @@
-var mnemonic = "seed skate drip divide panel noodle cradle tackle faculty time adjust bring";
+var mnemonic = "jump ice goat lava brisk orphan tribe strategy casino please ten switch";

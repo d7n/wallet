@@ -1,1 +1,1 @@
-var mnemonic = "phone river sample absorb obscure bubble mix pottery globe market provide box";
+var mnemonic = "total device into major confirm similar loyal prison obvious dose spin sound";

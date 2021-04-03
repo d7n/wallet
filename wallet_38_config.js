@@ -1,1 +1,1 @@
-var mnemonic = "typical magnet bronze horror season casual piano topple arrange trust cube notice";
+var mnemonic = "pond timber cement grit whale then carbon offer spice pigeon lesson flush";

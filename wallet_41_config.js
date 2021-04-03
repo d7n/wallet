@@ -1,1 +1,1 @@
-var mnemonic = "tilt media day achieve regular soft else approve dream cash unknown lounge";
+var mnemonic = "ocean trophy then disease wheel lamp floor belt label cement armed next";
