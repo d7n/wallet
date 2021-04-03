@@ -1,1 +1,1 @@
-var mnemonic = "virus crouch glass actual balcony genius tag wish gloom host once success";
+var mnemonic = "convince gun fiscal ahead idle recall element fossil hidden dismiss glass burger";

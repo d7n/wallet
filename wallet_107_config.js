@@ -1,1 +1,1 @@
-var mnemonic = "radio web moral soccer hobby brief stick gloom cannon door entry lonely";
+var mnemonic = "shy dignity dolphin core wild hurt armor vacuum wreck decide acquire menu";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug century bench rifle moment wrap hill pear nut problem soccer quarter";
+var mnemonic = "that where budget legend grief slot rescue bridge wing special smile frame";

@@ -1,1 +1,1 @@
-var mnemonic = "swift list foot earth exist proof surprise crash design pledge fall salad";
+var mnemonic = "ill enough firm enforce bulb vessel inspire useful awful foil cloth build";

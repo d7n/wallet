@@ -1,1 +1,1 @@
-var mnemonic = "marriage input shrimp treat short baby turtle forward scatter topic clay scrub";
+var mnemonic = "allow december rural glass lift dizzy busy option inflict type later world";

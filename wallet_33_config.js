@@ -1,1 +1,1 @@
-var mnemonic = "tuna friend enlist minor pelican flat spy about future antique demand update";
+var mnemonic = "sort glimpse cereal horn unveil quit pluck shuffle balance process north stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel crowd cube chapter since soccer fog olympic soup renew paper basic";
+var mnemonic = "alert praise mammal thank end mobile soon comfort tornado decade tag peasant";

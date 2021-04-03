@@ -1,1 +1,1 @@
-var mnemonic = "outer replace peanut dilemma skull labor news ready pear blanket direct liquid";
+var mnemonic = "clarify wasp alien stone life sadness survey pattern before swear cruel dune";

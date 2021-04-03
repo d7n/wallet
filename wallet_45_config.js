@@ -1,1 +1,1 @@
-var mnemonic = "yellow category puzzle someone ladder amused copper notice enemy cube spot gospel";
+var mnemonic = "slide twelve decline oven raccoon salmon miracle oblige tongue toilet visit hurt";

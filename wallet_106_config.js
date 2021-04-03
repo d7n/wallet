@@ -1,1 +1,1 @@
-var mnemonic = "cover clerk input boil animal churn canal check response absent student upset";
+var mnemonic = "regular bring crawl more celery brain disorder glue pluck donor weather midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "nature gesture sample unknown divorce term hope boring segment size heart into";
+var mnemonic = "jar expose climb frequent because tiny peasant gun south digital spray blouse";

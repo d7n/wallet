@@ -1,1 +1,1 @@
-var mnemonic = "lyrics spirit remind burden roof antenna decline pupil local when popular nephew";
+var mnemonic = "lady expire mechanic invite include banner call ankle remove razor foot noodle";

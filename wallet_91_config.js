@@ -1,1 +1,1 @@
-var mnemonic = "danger black conduct secret pioneer dizzy kingdom glimpse virus around unfair camera";
+var mnemonic = "social fault roast million actress subject team frog stage believe seminar mechanic";

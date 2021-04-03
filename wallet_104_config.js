@@ -1,1 +1,1 @@
-var mnemonic = "egg tent mandate grape arena orchard soup fresh dragon wealth session drastic";
+var mnemonic = "jeans length brisk just direct guide vote valley until oil hint oppose";

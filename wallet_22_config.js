@@ -1,1 +1,1 @@
-var mnemonic = "advice elder fuel clock more supreme smart bleak float slim sunset broccoli";
+var mnemonic = "orphan dynamic swarm visual recycle noble trash valid angle interest slide black";

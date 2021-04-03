@@ -1,1 +1,1 @@
-var mnemonic = "case team neglect glad club turkey green action final few garbage trend";
+var mnemonic = "eyebrow reopen alert size brief team shoulder essence razor garden sight turkey";

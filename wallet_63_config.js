@@ -1,1 +1,1 @@
-var mnemonic = "cigar ketchup eyebrow coast exist win cool total canvas label code butter";
+var mnemonic = "card spike sting deposit demise sign grass dash gun valve spin uniform";

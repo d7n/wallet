@@ -1,1 +1,1 @@
-var mnemonic = "purpose excuse day rigid stadium tired apology easily first genius void garlic";
+var mnemonic = "isolate bread damage vault cube ring torch practice error actor cruise primary";

@@ -1,1 +1,1 @@
-var mnemonic = "pave stomach donkey palm stick route master inch raccoon payment merry action";
+var mnemonic = "quote gaze coin resource awful level lawsuit summer follow then grain green";

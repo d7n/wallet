@@ -1,1 +1,1 @@
-var mnemonic = "ecology axis first track october front option clap ignore wet require cool";
+var mnemonic = "aerobic moon casino cruise replace ice giant trouble armor hair visual vibrant";

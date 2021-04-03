@@ -1,1 +1,1 @@
-var mnemonic = "tree nothing bracket bacon gold essence foster renew snap recall oblige ketchup";
+var mnemonic = "mushroom cabbage trap safe relief audit electric famous chase rib fitness choice";

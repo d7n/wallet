@@ -1,1 +1,1 @@
-var mnemonic = "twist swing dwarf boost ginger nest crash inflict crack various stone motion";
+var mnemonic = "supply edge glad reduce puzzle duck false finger sunset vanish vicious twice";

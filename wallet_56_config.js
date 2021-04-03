@@ -1,1 +1,1 @@
-var mnemonic = "surround pigeon present flat mouse renew brown sea load replace olympic pear";
+var mnemonic = "finger parrot rate kidney ridge review general melt night resist draw siren";

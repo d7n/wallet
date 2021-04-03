@@ -1,1 +1,1 @@
-var mnemonic = "huge congress play maximum move inch rocket trouble type title sniff few";
+var mnemonic = "drastic seek clump ivory rocket forest oak canal sell practice true cool";

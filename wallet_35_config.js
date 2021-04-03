@@ -1,1 +1,1 @@
-var mnemonic = "choose must lend equal witness fiction bid unknown wealth ice pyramid wrist";
+var mnemonic = "hotel they gain rib popular ugly badge wolf forum eager top wheat";

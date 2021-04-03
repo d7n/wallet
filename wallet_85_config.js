@@ -1,1 +1,1 @@
-var mnemonic = "power control kidney course upgrade twice express stadium supply maid regret act";
+var mnemonic = "pipe buyer gauge ramp call excess area wife snake game rescue swamp";

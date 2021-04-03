@@ -1,1 +1,1 @@
-var mnemonic = "idea prefer pull throw grace skirt blast sunny shallow inject scatter jump";
+var mnemonic = "push crowd scatter right author piece cricket depart piece neither lab digital";

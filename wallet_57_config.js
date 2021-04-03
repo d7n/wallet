@@ -1,1 +1,1 @@
-var mnemonic = "chaos example adjust force fever shallow clock mimic fly tell abstract guess";
+var mnemonic = "truly cup input point glory very entry ordinary maple fragile sponsor rule";

@@ -1,1 +1,1 @@
-var mnemonic = "chief eight saddle paper near cross cactus range soccer skill quiz whisper";
+var mnemonic = "news shrug there puppy acid thank million scale reopen scrub minor diet";

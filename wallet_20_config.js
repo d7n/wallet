@@ -1,1 +1,1 @@
-var mnemonic = "ride undo jealous frequent notice fresh east bomb clever below cement maple";
+var mnemonic = "glove black innocent water pill maximum civil half affair sentence doll shine";

@@ -1,1 +1,1 @@
-var mnemonic = "title emerge random smile poet dynamic patrol nominee twice either confirm scorpion";
+var mnemonic = "vocal awake fog scatter become idle cinnamon prevent nerve fashion urban version";

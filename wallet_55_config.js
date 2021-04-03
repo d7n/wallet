@@ -1,1 +1,1 @@
-var mnemonic = "stumble chunk damage unknown canal act spin fall letter jealous west fatigue";
+var mnemonic = "fatal fever detail flip deliver shoe wagon retreat mechanic measure rifle amount";

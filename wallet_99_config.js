@@ -1,1 +1,1 @@
-var mnemonic = "struggle amount car confirm ladder bonus matter silk venue shield settle achieve";
+var mnemonic = "hidden client eagle vacant debate quick lunar nuclear tip neither weasel daring";

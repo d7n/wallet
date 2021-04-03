@@ -1,1 +1,1 @@
-var mnemonic = "story genuine develop robust pottery expose slogan blade faint smart cabin outside";
+var mnemonic = "acid wide march toe frame lesson record ripple ostrich gun sick visual";

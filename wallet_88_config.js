@@ -1,1 +1,1 @@
-var mnemonic = "bread disease floor neglect vacant edit indicate warfare network tip remain giant";
+var mnemonic = "duty addict scatter venue smile black zero visual caught ribbon shed seat";

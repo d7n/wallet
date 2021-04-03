@@ -1,1 +1,1 @@
-var mnemonic = "escape change miracle feed tortoise uncover daughter term bone fit canoe artist";
+var mnemonic = "awake trap remain mango merit rocket pet apart avoid mercy release age";

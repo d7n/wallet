@@ -1,1 +1,1 @@
-var mnemonic = "much broccoli spawn fuel source sudden talk valley ball swarm rate disorder";
+var mnemonic = "toss select mirror hidden toast accuse boost broccoli satisfy relief arctic hen";

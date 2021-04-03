@@ -1,1 +1,1 @@
-var mnemonic = "canvas style betray ten mandate math wrestle found reform arrive multiply animal";
+var mnemonic = "flee replace ability man dry dragon secret know clarify spirit goat cruel";

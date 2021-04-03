@@ -1,1 +1,1 @@
-var mnemonic = "doll rug rule scrap add affair bridge interest soccer blouse swarm high";
+var mnemonic = "legend tortoise coil shoulder into lucky valid evil more own sketch fish";

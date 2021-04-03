@@ -1,1 +1,1 @@
-var mnemonic = "square label together bulb floor essence spot hurdle payment shell drama iron";
+var mnemonic = "horror improve syrup inhale east mobile moon relief discover rally adult lobster";

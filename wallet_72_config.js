@@ -1,1 +1,1 @@
-var mnemonic = "delay eight manage plug patrol follow journey leopard describe firm brother debris";
+var mnemonic = "rebuild return element license chest meat govern fragile state hybrid fun story";

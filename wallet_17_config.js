@@ -1,1 +1,1 @@
-var mnemonic = "mesh shrug tooth scene mechanic meadow nation repeat rather visual frequent fish";
+var mnemonic = "receive picture gasp keen join lazy brisk blur mountain dad spirit alarm";

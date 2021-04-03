@@ -1,1 +1,1 @@
-var mnemonic = "happy oven tube fruit arrive noble garbage dune enhance potato knife cute";
+var mnemonic = "guitar wish drink march clarify buffalo umbrella surprise copy cargo final swift";

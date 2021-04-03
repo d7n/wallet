@@ -1,1 +1,1 @@
-var mnemonic = "asset dry zone cup dream raven profit assist black mechanic debate argue";
+var mnemonic = "truth cash chapter spoil embody sad kite margin scorpion dream wrap pen";

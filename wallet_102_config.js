@@ -1,1 +1,1 @@
-var mnemonic = "arrest verify chef because obvious option utility sibling unit acid catalog tonight";
+var mnemonic = "age mechanic party view shoot axis quiz inner input lizard fuel boost";

@@ -1,1 +1,1 @@
-var mnemonic = "render tissue eyebrow flee obscure token entire speak inside final wish combine";
+var mnemonic = "term enhance color buddy cannon resemble topple brave exile wrap pen space";

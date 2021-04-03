@@ -1,1 +1,1 @@
-var mnemonic = "very mother mango noble reduce venture sense keep convince come lunar menu";
+var mnemonic = "ghost tone angry head unaware smile panel wall baby miss jealous write";

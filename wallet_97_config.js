@@ -1,1 +1,1 @@
-var mnemonic = "educate drill build keep fossil sea immense morning off biology journey luggage";
+var mnemonic = "palm bullet tone reveal danger capital shove exchange veteran thank bleak industry";

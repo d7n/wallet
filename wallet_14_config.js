@@ -1,1 +1,1 @@
-var mnemonic = "actual antique gadget time main patrol again enough member park enlist middle";
+var mnemonic = "cherry history monkey piece flight coil husband ancient ostrich shell topple route";

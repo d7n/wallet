@@ -1,1 +1,1 @@
-var mnemonic = "learn antique tackle journey tumble embrace damp unlock run pencil sock frost";
+var mnemonic = "valve high veteran autumn emotion vessel zebra image screen cloth ghost patient";

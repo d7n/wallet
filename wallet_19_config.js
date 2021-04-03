@@ -1,1 +1,1 @@
-var mnemonic = "tonight meat voyage dream wear patrol jelly lumber orchard ball tortoise family";
+var mnemonic = "jelly recall cradle dune lounge sentence unlock media embark smooth hub armor";

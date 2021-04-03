@@ -1,1 +1,1 @@
-var mnemonic = "nuclear flock girl coconut file slide ostrich check joke try main trend";
+var mnemonic = "two stage develop glove plastic race alert session hungry person vendor razor";

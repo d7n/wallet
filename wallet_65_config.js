@@ -1,1 +1,1 @@
-var mnemonic = "cute current tape excess young source left logic lobster dream holiday venture";
+var mnemonic = "laundry ripple duck mom arena round ladder test project share slim quote";

@@ -1,1 +1,1 @@
-var mnemonic = "term sentence index orient blush action obscure gospel virtual swap badge obscure";
+var mnemonic = "furnace style misery notice viable loyal sad when end hundred slice forest";

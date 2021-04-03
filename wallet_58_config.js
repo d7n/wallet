@@ -1,1 +1,1 @@
-var mnemonic = "when buzz segment afford warm glad fetch update uphold sting ordinary holiday";
+var mnemonic = "develop useless reward toe tower fun sock rather ice orchard cheap heavy";

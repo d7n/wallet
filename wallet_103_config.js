@@ -1,1 +1,1 @@
-var mnemonic = "actor solve come eagle fashion define quick page chair arrive man liar";
+var mnemonic = "census love like slight more churn follow cream denial coral diagram guitar";

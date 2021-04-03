@@ -1,1 +1,1 @@
-var mnemonic = "corn account access boil shoot awake blur decade glide cash canvas jungle";
+var mnemonic = "edge reunion render engage slight cargo object zoo measure flock fish develop";

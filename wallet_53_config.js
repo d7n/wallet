@@ -1,1 +1,1 @@
-var mnemonic = "supreme perfect stairs lake fire steel judge punch sponsor capable today merge";
+var mnemonic = "word base decorate earn seat dove siren whisper garden weird edge day";

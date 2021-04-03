@@ -1,1 +1,1 @@
-var mnemonic = "sustain ten stable habit slight matter feel wine diary physical parrot lawsuit";
+var mnemonic = "team fabric palm similar pizza silver mango october use amused helmet drop";

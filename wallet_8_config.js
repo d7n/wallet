@@ -1,1 +1,1 @@
-var mnemonic = "fatigue pig table rate devote fuel buzz pioneer flock orbit obtain sphere";
+var mnemonic = "south chat october abstract lab husband income coach bachelor salad smile lake";

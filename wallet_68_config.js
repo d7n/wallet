@@ -1,1 +1,1 @@
-var mnemonic = "capital kick olympic ridge exact option stable chase success fold usual forest";
+var mnemonic = "arrest crush piano assault because boil ocean loyal prepare doctor smile round";

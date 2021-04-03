@@ -1,1 +1,1 @@
-var mnemonic = "mystery taxi beef arrive system smart marble despair leopard connect release enrich";
+var mnemonic = "primary grab include clinic pill bind truck repair wild tomorrow advice predict";

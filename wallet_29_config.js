@@ -1,1 +1,1 @@
-var mnemonic = "switch bus giggle detect gate behave juice lens hammer nice decade ship";
+var mnemonic = "draw garment fatigue abuse lonely tell segment switch visit weird fiscal first";

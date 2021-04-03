@@ -1,1 +1,1 @@
-var mnemonic = "drama join resist shove ask initial cheap fluid cable movie sleep duck";
+var mnemonic = "clinic link light joy saddle success rookie alley syrup retreat song vacant";

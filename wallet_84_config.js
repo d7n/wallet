@@ -1,1 +1,1 @@
-var mnemonic = "close skill right spoil barrel topple august subject nominee drama doctor fortune";
+var mnemonic = "roast robust milk alert few century expose public orchard heart milk victory";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum peanut erosion mystery eager local game wall nothing anchor melt suit";
+var mnemonic = "degree duty fashion retire hedgehog clinic weapon error seven script west spoil";

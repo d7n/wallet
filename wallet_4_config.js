@@ -1,1 +1,1 @@
-var mnemonic = "taxi merge six huge account stairs endorse raven lady have turkey easy";
+var mnemonic = "kind spring exhaust ready actual picnic neutral tuition later soft gentle version";

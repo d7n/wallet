@@ -1,1 +1,1 @@
-var mnemonic = "present path elegant elder legend sugar amused ride minute intact saddle acoustic";
+var mnemonic = "vehicle effort evolve render rude rude carbon cactus decrease mammal agree zone";

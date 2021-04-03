@@ -1,1 +1,1 @@
-var mnemonic = "bicycle gossip island boring devote food lake diamond bird weird suggest sudden";
+var mnemonic = "expire build poem verb endless fashion toy crazy easily forget essay city";

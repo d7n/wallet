@@ -1,1 +1,1 @@
-var mnemonic = "fix april board ketchup scout able veteran book awesome behind afford fault";
+var mnemonic = "dial donkey two drift donkey flag orange valley grid cactus sniff sell";

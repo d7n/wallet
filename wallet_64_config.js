@@ -1,1 +1,1 @@
-var mnemonic = "safe extend hour panic elbow song endorse level divert destroy token update";
+var mnemonic = "cart sentence begin puzzle arena sea globe decorate then crew boss orbit";

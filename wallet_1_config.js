@@ -1,1 +1,1 @@
-var mnemonic = "fit else drill cement slight wage ball sick unable forward aerobic enact";
+var mnemonic = "crystal humble zero fantasy light version argue abandon celery unfair demise general";

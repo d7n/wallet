@@ -1,1 +1,1 @@
-var mnemonic = "hen depend include humor portion trumpet ripple eternal napkin lock coast special";
+var mnemonic = "woman vague toy sure fit edit shaft safe grow myth defy universe";

@@ -1,1 +1,1 @@
-var mnemonic = "letter arena crash muscle pyramid dust road rural enforce shove double metal";
+var mnemonic = "hurry enhance brush van salute road grief month food popular shiver brick";

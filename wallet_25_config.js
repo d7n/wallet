@@ -1,1 +1,1 @@
-var mnemonic = "valley gesture black bulb autumn welcome diary essay bean dune unable fat";
+var mnemonic = "verify naive hammer book usual insect supreme claw pool danger grape lazy";

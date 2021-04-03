@@ -1,1 +1,1 @@
-var mnemonic = "holiday increase try immune insane surge inspire amused scale then eyebrow access";
+var mnemonic = "room copy grit party autumn job penalty next lottery neither worry thumb";

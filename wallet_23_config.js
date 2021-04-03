@@ -1,1 +1,1 @@
-var mnemonic = "fit bunker suit lonely sting attack bulk ramp initial praise label trend";
+var mnemonic = "duty spray hard axis knee artist insect drill devote enemy mouse ancient";

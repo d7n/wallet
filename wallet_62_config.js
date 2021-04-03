@@ -1,1 +1,1 @@
-var mnemonic = "original fan illegal cluster truly scale fresh govern violin cake analyst learn";
+var mnemonic = "space hold give flush knife erase category absorb discover romance bullet talk";

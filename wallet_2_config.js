@@ -1,1 +1,1 @@
-var mnemonic = "decade review seed field length alien creek safe fever giant exist render";
+var mnemonic = "host between movie live enjoy rail walnut sleep time album cargo suggest";

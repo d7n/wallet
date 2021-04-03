@@ -1,1 +1,1 @@
-var mnemonic = "morning bounce artwork solution young diesel segment tattoo blur bone symbol garment";
+var mnemonic = "glass danger organ craft blur luggage spend orange vivid clever market narrow";

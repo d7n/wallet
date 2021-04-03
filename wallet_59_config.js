@@ -1,1 +1,1 @@
-var mnemonic = "crater fiber unit settle dolphin update lunar torch mercy goddess sugar increase";
+var mnemonic = "great stone eye barely inhale tumble ignore brother shell pass long tongue";

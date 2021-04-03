@@ -1,1 +1,1 @@
-var mnemonic = "enhance hen example six slam toy yellow alpha climb catalog earn soap";
+var mnemonic = "one slush unit try shed sun crisp turkey lobster math fault glow";

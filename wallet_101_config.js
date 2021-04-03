@@ -1,1 +1,1 @@
-var mnemonic = "outdoor zebra sound toy rescue shadow steak boil scene wink unfold dirt";
+var mnemonic = "same scout twenty frame lazy inmate monitor effort patrol rug inflict permit";

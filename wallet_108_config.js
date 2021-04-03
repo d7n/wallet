@@ -1,1 +1,1 @@
-var mnemonic = "squirrel rough scatter cattle second develop border crash language actress impulse bubble";
+var mnemonic = "ginger path convince fluid square cave equip leisure slender school rapid shrug";

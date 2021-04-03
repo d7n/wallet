@@ -1,1 +1,1 @@
-var mnemonic = "need void combine aim model cluster toilet connect chunk lamp sustain acoustic";
+var mnemonic = "employ seminar physical toilet scare vivid seat mask melody loan fiction moon";

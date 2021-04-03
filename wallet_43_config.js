@@ -1,1 +1,1 @@
-var mnemonic = "access wear cargo oil sword virus parrot announce daring subway gown elevator";
+var mnemonic = "forest verify giggle own equal clap solve island occur inhale lawn name";

@@ -1,1 +1,1 @@
-var mnemonic = "flat hire siege wool tank quick rapid vessel habit attitude tragic point";
+var mnemonic = "hard three broccoli fuel arm shuffle truck carry topple detail riot master";

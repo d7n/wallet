@@ -1,1 +1,1 @@
-var mnemonic = "good always front unfold minor peace reunion creek pattern around congress tube";
+var mnemonic = "dog impulse eternal party canal resemble confirm march wrist hurt limb inject";
