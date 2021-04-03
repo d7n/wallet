@@ -1,1 +1,1 @@
-var mnemonic = "observe regular primary husband that steel alarm cube torch easily balcony skirt";
+var mnemonic = "proud peasant grief borrow lens action tunnel duck tail machine sniff luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "festival bag merit learn abstract school capital vague siren cheese host dolphin";
+var mnemonic = "awkward nominee gossip slush turtle explain between habit ripple believe change luxury";

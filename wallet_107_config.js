@@ -1,1 +1,1 @@
-var mnemonic = "riot hello little crouch silent shallow enroll guess badge turkey simple wash";
+var mnemonic = "glory lonely normal valve early blouse decrease escape movie ribbon farm term";

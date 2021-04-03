@@ -1,1 +1,1 @@
-var mnemonic = "expire sad genius pig antique menu deputy chalk bar april pipe tray";
+var mnemonic = "multiply rare tonight beach spin abandon dish pink trade mule word wedding";

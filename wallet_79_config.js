@@ -1,1 +1,1 @@
-var mnemonic = "captain assault blossom surround soldier pattern buffalo bulk dumb among force visual";
+var mnemonic = "island enroll call warm ten cheap ankle lion angry resemble tooth mosquito";

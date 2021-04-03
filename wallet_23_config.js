@@ -1,1 +1,1 @@
-var mnemonic = "brief enhance fence box slogan service usage frost help reopen gap oyster";
+var mnemonic = "donor stumble winner flavor help head crystal foil pulse human tired claim";

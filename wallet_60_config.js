@@ -1,1 +1,1 @@
-var mnemonic = "excess school lumber because ordinary mystery unhappy apple arrive gain write shield";
+var mnemonic = "oblige pass flip friend fog crack buffalo retreat position volcano asset face";

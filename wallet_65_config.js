@@ -1,1 +1,1 @@
-var mnemonic = "more super movie master salon someone bonus easily worth success nuclear scene";
+var mnemonic = "trip name increase practice focus forest group fire humor deliver vault armed";

@@ -1,1 +1,1 @@
-var mnemonic = "priority credit ginger birth cattle step panther vital pupil pink critic visit";
+var mnemonic = "rescue reason amazing grant renew web deposit stem polar gold despair chimney";

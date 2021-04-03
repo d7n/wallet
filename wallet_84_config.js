@@ -1,1 +1,1 @@
-var mnemonic = "secret mouse civil vote gaze legend age kiwi coil fit unfold wrist";
+var mnemonic = "imitate label artist jacket cover gun honey marriage crowd chat deer green";

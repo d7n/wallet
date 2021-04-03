@@ -1,1 +1,1 @@
-var mnemonic = "sound orbit where typical amount subway void gift jungle glass brain monkey";
+var mnemonic = "very timber system decline myself mechanic team fringe diamond talent federal harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "april dove hold glide vibrant regret wreck almost bamboo estate dutch shoulder";
+var mnemonic = "pig habit nest collect biology dry need board claim model praise survey";

@@ -1,1 +1,1 @@
-var mnemonic = "album salad edge wire target flash harvest radio swear rice net already";
+var mnemonic = "stairs wheel close wide portion caution alter cover kite normal pizza strategy";

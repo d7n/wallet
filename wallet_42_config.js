@@ -1,1 +1,1 @@
-var mnemonic = "step goose lab dumb force marriage hurt course ahead mystery exit slice";
+var mnemonic = "kitchen chapter shove fold gesture over globe rent barrel corn time mind";

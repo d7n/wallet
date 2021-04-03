@@ -1,1 +1,1 @@
-var mnemonic = "cannon frequent jelly flip crisp beach review clock mistake neglect film second";
+var mnemonic = "talent own loud march addict exist fatigue person evolve atom scorpion become";

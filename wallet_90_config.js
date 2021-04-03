@@ -1,1 +1,1 @@
-var mnemonic = "palm design leaf blind double carbon demand blouse quality pretty just size";
+var mnemonic = "artefact ankle aim bag leaf until humor retire canyon during inquiry shed";

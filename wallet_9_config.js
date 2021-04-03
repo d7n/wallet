@@ -1,1 +1,1 @@
-var mnemonic = "ozone scare matter eye bid rural pioneer upset prosper swim tide august";
+var mnemonic = "gesture dragon find aware swear hour alley silk stone great reason pipe";

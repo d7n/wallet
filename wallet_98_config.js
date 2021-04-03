@@ -1,1 +1,1 @@
-var mnemonic = "marble poem buzz merit name modify rebel shove brush panel inherit doctor";
+var mnemonic = "era blue arrow shop cargo jealous boy mistake artwork victory myth scene";

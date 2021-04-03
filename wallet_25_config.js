@@ -1,1 +1,1 @@
-var mnemonic = "view indoor method pigeon various average camp negative sea earth rule wild";
+var mnemonic = "hurdle praise fox polar merry crop require boring mammal ritual panther furnace";

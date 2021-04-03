@@ -1,1 +1,1 @@
-var mnemonic = "number obey express fruit toilet theory hint verb hair industry planet hat";
+var mnemonic = "stove point plug master else sugar potato obey icon alien human game";

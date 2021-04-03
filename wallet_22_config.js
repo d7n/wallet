@@ -1,1 +1,1 @@
-var mnemonic = "length hero visit faith regret grid stick dog want accident jaguar forum";
+var mnemonic = "divert render wedding dolphin firm dirt rib habit void blur champion river";

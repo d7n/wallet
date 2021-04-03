@@ -1,1 +1,1 @@
-var mnemonic = "case obvious wine illegal body visa potato enemy media camera plunge artefact";
+var mnemonic = "now box faint used upgrade whale cabbage balance surprise next cousin erosion";

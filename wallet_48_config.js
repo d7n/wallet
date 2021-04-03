@@ -1,1 +1,1 @@
-var mnemonic = "cherry jelly brother candy own bundle basic know spray casual vendor grass";
+var mnemonic = "shield small spot tattoo type wrist heavy noble solution push disorder toe";

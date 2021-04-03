@@ -1,1 +1,1 @@
-var mnemonic = "marine school joy stuff review metal victory trap congress cost caution much";
+var mnemonic = "trade arch domain wrap hurt program resemble provide organ wrist buzz wire";

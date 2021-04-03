@@ -1,1 +1,1 @@
-var mnemonic = "evolve twice myth vanish swing material royal run easy extra pelican help";
+var mnemonic = "evolve hybrid stage absent brave keep mention parent vast used tuition tuna";

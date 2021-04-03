@@ -1,1 +1,1 @@
-var mnemonic = "scissors dance purity buyer violin capable outdoor dose bright home apology barrel";
+var mnemonic = "desk dilemma catch honey glue mutual badge denial join federal hybrid job";

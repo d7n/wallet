@@ -1,1 +1,1 @@
-var mnemonic = "patient phrase endorse option sudden stick medal start mammal oven satisfy used";
+var mnemonic = "access magnet dolphin skirt ignore crew cement surprise olive spawn middle express";

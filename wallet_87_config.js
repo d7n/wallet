@@ -1,1 +1,1 @@
-var mnemonic = "breeze ride artwork age wage lonely snake siren pledge usage stock trust";
+var mnemonic = "exit off side museum embrace picnic waste inmate daughter joy oyster burst";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture voice satoshi modify submit injury clarify finger ship pet glare palace";
+var mnemonic = "possible miracle first farm ten sound bike boil drama ramp fatal gasp";

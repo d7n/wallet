@@ -1,1 +1,1 @@
-var mnemonic = "quit reduce want knock fat monster chat ghost melody dish barely guilt";
+var mnemonic = "initial prize fuel solar camera possible either extend orange grit horn evoke";

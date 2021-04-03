@@ -1,1 +1,1 @@
-var mnemonic = "day climb derive cloth mechanic grocery strike wrist crash icon welcome pen";
+var mnemonic = "penalty radar depth winter begin obtain blur hawk peanut blush volcano chef";

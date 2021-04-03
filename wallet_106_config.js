@@ -1,1 +1,1 @@
-var mnemonic = "struggle always curve escape draft climb first citizen bubble filter snap ceiling";
+var mnemonic = "imitate sort bleak habit acoustic protect setup april fun pigeon melody wrong";

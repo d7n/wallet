@@ -1,1 +1,1 @@
-var mnemonic = "wet eyebrow can limb congress clown glory cup utility notable smooth kitten";
+var mnemonic = "garden grain case cake critic boat until salute quiz chair prosper cloud";

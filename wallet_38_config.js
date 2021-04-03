@@ -1,1 +1,1 @@
-var mnemonic = "donor choose envelope outside scout swap deliver monster happy gown click critic";
+var mnemonic = "diamond doll vessel vicious pet design hat canoe abstract course scan obscure";

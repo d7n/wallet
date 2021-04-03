@@ -1,1 +1,1 @@
-var mnemonic = "harsh glove swift coil runway robot security galaxy prison glad foam bronze";
+var mnemonic = "cluster tone fish possible situate universe way curve large foster adjust clown";

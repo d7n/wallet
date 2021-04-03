@@ -1,1 +1,1 @@
-var mnemonic = "modify force cram rough enter crop moral exotic faint weekend flavor fit";
+var mnemonic = "convince fish fix kite tobacco drive squirrel own aerobic escape coffee goddess";

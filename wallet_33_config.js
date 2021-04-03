@@ -1,1 +1,1 @@
-var mnemonic = "unusual peanut menu divert river fringe print possible kitten dress design dry";
+var mnemonic = "ask energy dragon awake salon attitude caught captain wink ride special insect";

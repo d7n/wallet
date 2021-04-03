@@ -1,1 +1,1 @@
-var mnemonic = "degree round badge void region prize very exercise silent all spice jazz";
+var mnemonic = "alone anchor address cream brother birth indicate enroll lonely shock visit inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "recall either engage then harsh resist juice monkey tornado merge nest merit";
+var mnemonic = "high anger cargo cargo glare topple raven bitter derive month depth board";

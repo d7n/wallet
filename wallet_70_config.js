@@ -1,1 +1,1 @@
-var mnemonic = "garden mule slam escape syrup cheap island boss skirt suspect fragile twin";
+var mnemonic = "history spirit brisk effort engage ball undo tray heart loan repeat spin";

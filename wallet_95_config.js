@@ -1,1 +1,1 @@
-var mnemonic = "guitar moon vessel knock tree jelly rifle bubble ozone uncle knife during";
+var mnemonic = "juice visit safe pride trend over bridge cereal swarm hard shed waste";

@@ -1,1 +1,1 @@
-var mnemonic = "secret answer oyster make urban repeat yard edit exact sketch sugar toy";
+var mnemonic = "gift hamster arctic away tourist useful swift reward card rain palm isolate";

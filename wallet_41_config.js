@@ -1,1 +1,1 @@
-var mnemonic = "history venue gallery pitch floor twist east front tip palace sunny glance";
+var mnemonic = "park blush that deposit word shrug casino effort dumb moral taxi stadium";

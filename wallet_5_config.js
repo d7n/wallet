@@ -1,1 +1,1 @@
-var mnemonic = "ginger chaos park tape post assist entire clap eight domain size opinion";
+var mnemonic = "main supply virtual chest bubble decrease manage soup clarify spread baby output";

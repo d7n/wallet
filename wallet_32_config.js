@@ -1,1 +1,1 @@
-var mnemonic = "zebra where deliver response gaze caution mix blind mobile throw tube grab";
+var mnemonic = "taxi struggle slight scale fire mule fade scout connect rhythm observe border";

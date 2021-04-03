@@ -1,1 +1,1 @@
-var mnemonic = "jaguar divert globe offer catalog panic coffee act media cook short zone";
+var mnemonic = "sport express message disagree debate dust famous silent diagram rose negative ignore";

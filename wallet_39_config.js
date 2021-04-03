@@ -1,1 +1,1 @@
-var mnemonic = "kingdom canoe fold party merry hope chimney family field blind liar narrow";
+var mnemonic = "number have stumble share sample lawn live aisle invite argue innocent follow";

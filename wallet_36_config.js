@@ -1,1 +1,1 @@
-var mnemonic = "immense tonight trial tortoise symbol much glove brother cycle cigar tattoo world";
+var mnemonic = "property visa liberty funny tumble carbon time divorce kiwi slot hobby clay";

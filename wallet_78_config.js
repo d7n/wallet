@@ -1,1 +1,1 @@
-var mnemonic = "pool weekend derive crisp awkward wheat bind shop detect tackle spike will";
+var mnemonic = "alter fence apart cage whale bring motor kit parent cereal bleak spray";

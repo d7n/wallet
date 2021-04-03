@@ -1,1 +1,1 @@
-var mnemonic = "lecture glad real effort wear ski web afford moral practice sauce smoke";
+var mnemonic = "kitten field enough unit crystal horse obvious fiber critic crawl modify odor";

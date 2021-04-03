@@ -1,1 +1,1 @@
-var mnemonic = "winner force zero ceiling chapter trigger merge organ material dove arctic blue";
+var mnemonic = "diagram course bone sentence play fabric kitchen spoil tail response doctor slim";

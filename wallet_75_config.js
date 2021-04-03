@@ -1,1 +1,1 @@
-var mnemonic = "master sound fortune apple remain color napkin immune vessel tiger fire faith";
+var mnemonic = "sad brush prevent hockey shop approve debate arrange mercy rival sentence tool";

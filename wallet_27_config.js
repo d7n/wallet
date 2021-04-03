@@ -1,1 +1,1 @@
-var mnemonic = "pig praise general piece embrace slab frost swift stadium silver squirrel poverty";
+var mnemonic = "leg actress web aspect problem tackle tray atom identify cover release squeeze";

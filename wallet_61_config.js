@@ -1,1 +1,1 @@
-var mnemonic = "bus hint witness arrow educate clerk silver soldier across leaf cable cement";
+var mnemonic = "rare festival abuse share select achieve thought list female correct element inside";

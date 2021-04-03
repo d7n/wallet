@@ -1,1 +1,1 @@
-var mnemonic = "motion false base able zoo snow survey bid equal mean vacant blossom";
+var mnemonic = "spawn thought spy dumb paper sense next shiver case enact auto choice";

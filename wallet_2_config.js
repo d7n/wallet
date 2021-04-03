@@ -1,1 +1,1 @@
-var mnemonic = "cave bring bubble famous estate happy lottery smart food ostrich era royal";
+var mnemonic = "story inmate general wire child federal stock banner poet mystery jaguar race";

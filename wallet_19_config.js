@@ -1,1 +1,1 @@
-var mnemonic = "float purchase family ripple gym acquire twist peasant snow spin zoo belt";
+var mnemonic = "slab cave diamond fold forest trophy ankle teach naive seminar thought invest";

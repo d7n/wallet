@@ -1,1 +1,1 @@
-var mnemonic = "enter subject jealous image salon strike symptom seven warrior zone siren crystal";
+var mnemonic = "exit height hire innocent outdoor parrot vanish rival express shoot bitter thank";

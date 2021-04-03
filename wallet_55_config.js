@@ -1,1 +1,1 @@
-var mnemonic = "aware dust glory brown hat pen spoon drama truly climb festival rule";
+var mnemonic = "trumpet parade goose hurry trip awesome flash vibrant soft apology intact salad";

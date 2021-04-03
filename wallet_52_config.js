@@ -1,1 +1,1 @@
-var mnemonic = "sense joy daring foam casino report pumpkin combine panther cage save fatal";
+var mnemonic = "drill rebuild relief april invite convince puzzle escape bridge family embrace staff";

@@ -1,1 +1,1 @@
-var mnemonic = "shield deal purchase deal salute ugly earn apple erode brave index saddle";
+var mnemonic = "stadium popular wear picture clean swap raccoon delay fatigue chronic solve arrest";

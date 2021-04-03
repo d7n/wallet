@@ -1,1 +1,1 @@
-var mnemonic = "much opera lemon property okay into arm finish cabbage worth piece seed";
+var mnemonic = "current stairs dizzy turn appear music crack comfort piano version april swift";

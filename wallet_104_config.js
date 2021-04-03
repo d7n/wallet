@@ -1,1 +1,1 @@
-var mnemonic = "rich civil minor file argue rally goat shield arrive ripple erupt agree";
+var mnemonic = "wage critic hero embrace ticket mirror tooth useless impose debris open certain";

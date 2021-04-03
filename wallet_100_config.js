@@ -1,1 +1,1 @@
-var mnemonic = "scissors expect vicious frost link next praise main marine weird minimum moral";
+var mnemonic = "work describe differ frog either invest crunch lab dish physical script habit";

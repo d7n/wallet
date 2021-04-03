@@ -1,1 +1,1 @@
-var mnemonic = "eagle toss begin acid pear planet ritual waste manual dinosaur salute modify";
+var mnemonic = "laundry dawn novel surface monkey steak emerge miracle shallow coconut comfort coach";

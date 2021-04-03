@@ -1,1 +1,1 @@
-var mnemonic = "shiver image expect garden congress lamp child copper distance pet together write";
+var mnemonic = "water cram wide enforce chimney recipe gas sock else dignity govern face";

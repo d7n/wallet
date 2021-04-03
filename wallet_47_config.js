@@ -1,1 +1,1 @@
-var mnemonic = "between dog much witness coast success erode dizzy glove rack punch vivid";
+var mnemonic = "garlic able tank patrol siege vivid typical erupt case target skin voyage";

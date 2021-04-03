@@ -1,1 +1,1 @@
-var mnemonic = "belt diamond flame million pink blast scrap reason village bird involve raccoon";
+var mnemonic = "ivory large such slush exile vendor this achieve scare vague dizzy plunge";

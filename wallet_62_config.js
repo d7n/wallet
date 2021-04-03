@@ -1,1 +1,1 @@
-var mnemonic = "guess live erode slim ability leg glue elder fetch hole impact decrease";
+var mnemonic = "base joke rotate slush almost energy pilot mushroom badge tail submit word";

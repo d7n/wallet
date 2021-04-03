@@ -1,1 +1,1 @@
-var mnemonic = "harbor avocado amateur fit cherry legend lumber actress recipe merry food book";
+var mnemonic = "discover any peasant ocean member brave hood napkin inquiry desert color have";

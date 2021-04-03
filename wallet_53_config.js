@@ -1,1 +1,1 @@
-var mnemonic = "shoot mail hold surface palm meat bid angry question when uniform topple";
+var mnemonic = "limit smoke grow aspect bachelor define rail elevator list claw doctor click";

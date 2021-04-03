@@ -1,1 +1,1 @@
-var mnemonic = "only couple nest warrior knock cattle code short express artefact away lazy";
+var mnemonic = "usage fly sausage direct prepare stay rain egg climb capable stomach yellow";

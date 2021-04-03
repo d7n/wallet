@@ -1,1 +1,1 @@
-var mnemonic = "soul clean alter daring excess garage motion attend chapter armor short item";
+var mnemonic = "defy stable citizen track wire remove sugar film drink find rate glance";

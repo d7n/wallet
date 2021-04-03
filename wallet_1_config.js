@@ -1,1 +1,1 @@
-var mnemonic = "now staff best network achieve idea title home boring merge bread way";
+var mnemonic = "gym memory hour dismiss mammal sheriff oil pet crack prepare team nuclear";

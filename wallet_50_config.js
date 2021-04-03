@@ -1,1 +1,1 @@
-var mnemonic = "any bacon buddy genius hill walk spot process dice battle aspect shaft";
+var mnemonic = "phrase box accuse chase wire wedding ski seat mule salt myth forest";

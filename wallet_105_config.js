@@ -1,1 +1,1 @@
-var mnemonic = "version rocket short abuse mystery oblige divorce neck useful market foot earn";
+var mnemonic = "attract spoil memory tumble elephant truck rose element pistol govern require fiction";

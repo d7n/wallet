@@ -1,1 +1,1 @@
-var mnemonic = "crew hockey end task vault buzz december festival yard gather season tank";
+var mnemonic = "element path food swift addict enjoy twenty aerobic join ordinary pink monkey";

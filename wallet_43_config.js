@@ -1,1 +1,1 @@
-var mnemonic = "pioneer idle bracket whip plastic fade install motor bid conduct duck north";
+var mnemonic = "history double upset alcohol clump crunch verb deal athlete punch enable wild";

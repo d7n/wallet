@@ -1,1 +1,1 @@
-var mnemonic = "seat nation amount hire wink hour torch neck drink oblige donor mass";
+var mnemonic = "gather draw enough renew verb exit joke decline final remember mother marriage";

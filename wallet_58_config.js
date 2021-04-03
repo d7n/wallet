@@ -1,1 +1,1 @@
-var mnemonic = "lava result that until goddess siege recipe bargain response drastic remain lock";
+var mnemonic = "jeans unveil choose jazz kangaroo genre net used dentist baby sample throw";

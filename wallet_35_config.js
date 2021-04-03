@@ -1,1 +1,1 @@
-var mnemonic = "citizen lesson giraffe brand resemble wink cake follow common impact survey novel";
+var mnemonic = "fruit absent keep joy now shiver stairs mandate animal jewel swift point";

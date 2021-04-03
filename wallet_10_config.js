@@ -1,1 +1,1 @@
-var mnemonic = "fold response pen profit thank artwork erase latin home ladder glue depth";
+var mnemonic = "sugar crane vague hint clerk dumb absent flight wheel grunt utility hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "machine book gift inside iron domain must camera raw sand clay heart";
+var mnemonic = "silent isolate crisp air ordinary payment addict degree firm yard grace rug";

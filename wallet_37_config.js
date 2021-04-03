@@ -1,1 +1,1 @@
-var mnemonic = "order monitor top actress exchange man rigid trouble song into embrace engine";
+var mnemonic = "pool arm wisdom library awesome funny casual train cattle spread avoid lazy";
