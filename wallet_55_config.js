@@ -1,1 +1,1 @@
-var mnemonic = "tilt right spot dune next invest renew twenty ask garbage beef reason";
+var mnemonic = "clown plate forest current gift guilt nest plunge suspect puzzle vital kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "roast benefit suggest ball street essay business task capital odor theory corn";
+var mnemonic = "actor tent either bachelor harsh will move wide shoot bachelor scare three";

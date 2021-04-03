@@ -1,1 +1,1 @@
-var mnemonic = "spice kind floor ready uncover light then joy badge dice sibling frozen";
+var mnemonic = "spread female jar quality awesome marble train insect travel music luxury fatal";

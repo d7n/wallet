@@ -1,1 +1,1 @@
-var mnemonic = "fence motion prize diary anxiety little embody arch friend seven story aisle";
+var mnemonic = "carpet tooth member disagree knife cheap brick check color matter reject soldier";

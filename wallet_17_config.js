@@ -1,1 +1,1 @@
-var mnemonic = "control protect endorse struggle paper this exchange cause siren region current loud";
+var mnemonic = "wool target rifle whip swap ready omit fever upset fringe pulp unlock";

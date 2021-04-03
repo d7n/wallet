@@ -1,1 +1,1 @@
-var mnemonic = "marble vibrant output food gentle suffer shuffle actual gesture lawn chief hard";
+var mnemonic = "damp glare six hurdle kite one click soul unknown either gossip engage";

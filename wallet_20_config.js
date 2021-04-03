@@ -1,1 +1,1 @@
-var mnemonic = "busy arrow original melt address shoe lizard forest fragile crew private step";
+var mnemonic = "bus stool attitude drive buffalo mammal water throw original habit hobby author";

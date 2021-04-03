@@ -1,1 +1,1 @@
-var mnemonic = "absurd million sadness flower mosquito figure asthma depend stumble fever wrap session";
+var mnemonic = "various wagon general width enroll cement cloth smile item draw find combine";

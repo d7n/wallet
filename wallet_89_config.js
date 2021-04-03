@@ -1,1 +1,1 @@
-var mnemonic = "chest typical fault inspire spirit digital company coach sad dragon moral sphere";
+var mnemonic = "leopard worth invite muffin earn document fame claim language announce narrow firm";

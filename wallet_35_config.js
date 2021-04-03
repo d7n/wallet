@@ -1,1 +1,1 @@
-var mnemonic = "remember strong bless thumb slogan bargain pave noodle cattle renew gauge normal";
+var mnemonic = "foil perfect situate valley flat strategy usual aim rely female income trick";

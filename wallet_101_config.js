@@ -1,1 +1,1 @@
-var mnemonic = "solid vanish acid oven scrub minor around detect sentence identify much ketchup";
+var mnemonic = "mercy loyal silver fee bike mountain october have news cloth rent chat";

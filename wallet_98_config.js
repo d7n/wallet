@@ -1,1 +1,1 @@
-var mnemonic = "since paddle force digital clog dilemma easy hello sugar soon steak chef";
+var mnemonic = "tuna evoke tent trip fat rifle syrup brown average weather twenty other";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal begin save company step garment lizard sock stem spin ramp select";
+var mnemonic = "harbor piece craft frequent best always idle style hub deputy blast burger";

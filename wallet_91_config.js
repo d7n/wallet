@@ -1,1 +1,1 @@
-var mnemonic = "radio kind live deal tattoo cigar mule excite answer bean culture master";
+var mnemonic = "news sport tired appear warfare trend tuition dove rapid behave tomato wish";

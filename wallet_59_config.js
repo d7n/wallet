@@ -1,1 +1,1 @@
-var mnemonic = "wrist always output lottery midnight element gold grief sleep course robust process";
+var mnemonic = "alert absurd frame clever detect ten shock maximum access huge dolphin sight";

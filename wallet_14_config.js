@@ -1,1 +1,1 @@
-var mnemonic = "review leopard bleak harbor noise asthma combine gadget busy effort start fish";
+var mnemonic = "gold creek ship hurdle toward during asthma scheme popular opinion visual hero";

@@ -1,1 +1,1 @@
-var mnemonic = "slender embark party embody input energy dust ramp equal jar burger universe";
+var mnemonic = "vivid owner moment slam polar disease panic boring dilemma ready pig ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy fever carpet alter senior purchase napkin endless initial suggest raven legend";
+var mnemonic = "army divide void future tribe december drum flat hollow dismiss spin index";

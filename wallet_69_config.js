@@ -1,1 +1,1 @@
-var mnemonic = "pair guitar coyote park cream gift coin wagon either spin poverty tip";
+var mnemonic = "practice seven vacuum planet boy survey fashion invest anxiety ride warrior wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "life more sea shy jump service direct atom excuse dinosaur inquiry gentle";
+var mnemonic = "couch sound isolate unaware today rhythm erode foster forum refuse surface trap";

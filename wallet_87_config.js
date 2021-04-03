@@ -1,1 +1,1 @@
-var mnemonic = "cement consider toe define kit fuel business tobacco page enter once wealth";
+var mnemonic = "hunt dignity trumpet solve giant fiscal series such tornado claim bachelor zero";

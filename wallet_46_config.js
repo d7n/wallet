@@ -1,1 +1,1 @@
-var mnemonic = "crater series edge now kind adapt prefer play energy ignore suggest sting";
+var mnemonic = "birth abandon shoot skate amateur appear truth regular crack video brass food";

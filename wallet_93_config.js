@@ -1,1 +1,1 @@
-var mnemonic = "light solar metal devote offer symbol derive enlist immense flush eternal base";
+var mnemonic = "best proud account galaxy road voice claw broccoli fence summer snake angle";

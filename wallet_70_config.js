@@ -1,1 +1,1 @@
-var mnemonic = "tree soccer aspect ramp debris dog lesson foil mechanic decrease danger faith";
+var mnemonic = "multiply remove disagree note satisfy vibrant position bean busy phrase snap solid";

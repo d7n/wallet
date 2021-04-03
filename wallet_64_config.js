@@ -1,1 +1,1 @@
-var mnemonic = "gossip rural october any now gloom conduct expect subject cheap melody speak";
+var mnemonic = "shine charge neck noodle element stove elbow surge raccoon print yard source";

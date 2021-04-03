@@ -1,1 +1,1 @@
-var mnemonic = "hole hint before capable gaze smoke vacuum brisk voyage soda attend nephew";
+var mnemonic = "flight major upgrade lazy script subject enlist advice flee stable ignore rent";

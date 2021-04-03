@@ -1,1 +1,1 @@
-var mnemonic = "struggle until that sleep monster typical combine very front slam voyage belt";
+var mnemonic = "camp modify problem wheel smile display bottom culture trick exist machine doll";

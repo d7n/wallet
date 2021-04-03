@@ -1,1 +1,1 @@
-var mnemonic = "height buffalo short milk ceiling day glide rotate better vehicle trick derive";
+var mnemonic = "patch thing pass involve rebuild copper shrimp forward rail whisper buffalo hair";

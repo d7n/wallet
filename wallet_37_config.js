@@ -1,1 +1,1 @@
-var mnemonic = "actual cover marine defense hub six reason ordinary gold grab vintage inmate";
+var mnemonic = "cactus ball aspect share wolf acid snow copy scare topple drift also";

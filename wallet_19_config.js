@@ -1,1 +1,1 @@
-var mnemonic = "hope much know umbrella brief demise where base cherry angle giggle dolphin";
+var mnemonic = "describe convince maid enter position wolf chaos height confirm task ordinary element";

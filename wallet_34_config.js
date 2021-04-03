@@ -1,1 +1,1 @@
-var mnemonic = "era crater crowd industry pink harsh neck glass always erosion enable spoon";
+var mnemonic = "congress require check green recipe tube one use normal blame clarify federal";

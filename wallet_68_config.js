@@ -1,1 +1,1 @@
-var mnemonic = "affair soccer strike invest you tuition timber twenty author fade plug reopen";
+var mnemonic = "unlock exist waste cable unusual throw allow fragile turkey service law wide";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst whip board alert talent monkey thought hospital smart lamp sort caution";
+var mnemonic = "dash victory lab endorse peanut culture surround entry net globe stereo leaf";

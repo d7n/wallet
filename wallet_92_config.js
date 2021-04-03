@@ -1,1 +1,1 @@
-var mnemonic = "prepare sand cart popular assume bulb palace august wise fiscal obvious viable";
+var mnemonic = "tortoise output increase deny guard pioneer plate eternal whip submit seminar plate";

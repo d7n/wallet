@@ -1,1 +1,1 @@
-var mnemonic = "pipe bag organ drift ghost build word hero diet delay response lady";
+var mnemonic = "top amused hand armor law swap drama sheriff token awake pulp much";

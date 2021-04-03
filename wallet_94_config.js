@@ -1,1 +1,1 @@
-var mnemonic = "harvest joke sail master potato patrol ritual battle analyst knee paddle interest";
+var mnemonic = "group motion stove play orient pretty jelly couch prepare amount warrior save";

@@ -1,1 +1,1 @@
-var mnemonic = "stick siege vapor supply maple practice novel buzz glass gentle bulk nest";
+var mnemonic = "bus naive december noodle corn catch they fog cake chief quarter include";

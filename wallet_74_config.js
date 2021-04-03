@@ -1,1 +1,1 @@
-var mnemonic = "early country food allow half culture alcohol biology young glory jump cricket";
+var mnemonic = "present order mercy song green lounge airport birth rubber brief basket diesel";

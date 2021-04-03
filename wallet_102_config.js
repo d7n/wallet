@@ -1,1 +1,1 @@
-var mnemonic = "pony human drive idle utility opinion company attitude stay blame youth source";
+var mnemonic = "cargo fit load estate poet stand mimic mom broken tired payment error";

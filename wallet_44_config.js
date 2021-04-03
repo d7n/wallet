@@ -1,1 +1,1 @@
-var mnemonic = "favorite fine silver inform mutual owner food analyst disease basket piece purity";
+var mnemonic = "monster honey hungry kiwi cement enlist help champion grab pretty organ giggle";

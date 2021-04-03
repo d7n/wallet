@@ -1,1 +1,1 @@
-var mnemonic = "survey siege own verb grass remember vital rifle chuckle observe ceiling arrest";
+var mnemonic = "decrease girl rib name behave toy garage pupil report genuine deliver force";

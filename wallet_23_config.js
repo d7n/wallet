@@ -1,1 +1,1 @@
-var mnemonic = "note verb bind vehicle shrimp hurdle empty soup finger ill bundle ivory";
+var mnemonic = "rail invest tilt robust snow pair seed worry lava clinic borrow mixture";

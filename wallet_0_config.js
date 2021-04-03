@@ -1,1 +1,1 @@
-var mnemonic = "snap blush neck panic arm wonder raw demise cancel verb burst nominee";
+var mnemonic = "legend lottery icon fiber raven senior chef six coral subject arm earth";

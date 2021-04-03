@@ -1,1 +1,1 @@
-var mnemonic = "mercy pair outer jaguar balcony tongue spend news december dolphin artefact menu";
+var mnemonic = "guide easily battle system absorb myth dust multiply also token foam loyal";

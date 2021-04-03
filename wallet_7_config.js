@@ -1,1 +1,1 @@
-var mnemonic = "vault detect edge gate veteran wheel media supreme ask grain material room";
+var mnemonic = "promote trouble nominee digital arm crash cart about sustain acoustic punch truly";

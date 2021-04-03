@@ -1,1 +1,1 @@
-var mnemonic = "festival trouble level cover feature traffic afraid such general mutual atom adapt";
+var mnemonic = "spend system screen odor feel betray inherit action quiz repair tray rich";

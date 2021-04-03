@@ -1,1 +1,1 @@
-var mnemonic = "exercise ill side female hollow nurse fire camera wife direct jelly pact";
+var mnemonic = "venture creek phrase fetch intact dress desert cry city gloom atom sand";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp away valid income combine tenant three accident twenty merry blind hover";
+var mnemonic = "sister achieve rug pride connect wear buyer summer voice rose lonely palace";

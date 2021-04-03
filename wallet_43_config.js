@@ -1,1 +1,1 @@
-var mnemonic = "lyrics vivid smooth lucky nurse butter bid crater plunge physical stomach legend";
+var mnemonic = "topic note version special private hidden kangaroo image label basket horse view";

@@ -1,1 +1,1 @@
-var mnemonic = "motion spoil demise ghost burst current test right resource happy despair chicken";
+var mnemonic = "short shrimp lounge ready achieve behave imitate fantasy abandon agree canal vanish";

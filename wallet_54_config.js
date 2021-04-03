@@ -1,1 +1,1 @@
-var mnemonic = "jelly term file boy piano inhale gown cannon myth require path mention";
+var mnemonic = "capital forum own busy olive symptom burst myself caution question edit flat";

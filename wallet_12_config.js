@@ -1,1 +1,1 @@
-var mnemonic = "chuckle figure disease sudden ignore cactus once dignity dynamic ensure person innocent";
+var mnemonic = "decade sketch undo reduce lecture round wood pet glare sun shop broccoli";

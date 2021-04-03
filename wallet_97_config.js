@@ -1,1 +1,1 @@
-var mnemonic = "carbon pelican explain horn convince price march genuine core issue arrange pass";
+var mnemonic = "genius liquid until party gesture amateur wagon onion confirm camp cause cat";

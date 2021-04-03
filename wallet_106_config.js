@@ -1,1 +1,1 @@
-var mnemonic = "have pelican curious denial depart novel cream salmon when slender apology ski";
+var mnemonic = "disease client cricket quarter eyebrow estate grid million deliver father pair kidney";

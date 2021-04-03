@@ -1,1 +1,1 @@
-var mnemonic = "blossom cancel deal cabbage craft super speak drift bronze welcome wrestle danger";
+var mnemonic = "economy piece visual balance plunge reflect crane gym fever aim defense excess";

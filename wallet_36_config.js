@@ -1,1 +1,1 @@
-var mnemonic = "outer hire funny sand pilot very pole twenty country bulb grape device";
+var mnemonic = "alter game double lazy sugar barely fame concert economy drama bleak basic";

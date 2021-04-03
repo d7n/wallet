@@ -1,1 +1,1 @@
-var mnemonic = "twenty useful shallow reject solve floor price asset ethics tuna approve bar";
+var mnemonic = "snack blouse romance witness drive rice current phone secret task merit carbon";

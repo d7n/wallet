@@ -1,1 +1,1 @@
-var mnemonic = "brush sketch picture sauce upper neither sibling blush category spoon unfair smooth";
+var mnemonic = "motor cake tent own walnut light spider bid bubble rib sense copper";

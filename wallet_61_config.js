@@ -1,1 +1,1 @@
-var mnemonic = "foil power mushroom labor mistake flag road credit spawn doll exchange canvas";
+var mnemonic = "jazz silver merit random amused shock sail hub then matrix forget jar";

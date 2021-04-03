@@ -1,1 +1,1 @@
-var mnemonic = "vote journey episode ketchup atom ethics birth conduct steel umbrella outdoor check";
+var mnemonic = "panic remove local harbor multiply fold meadow easy orbit crystal among innocent";

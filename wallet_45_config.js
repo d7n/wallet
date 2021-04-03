@@ -1,1 +1,1 @@
-var mnemonic = "master lonely buddy voyage sibling crouch trial grocery pulp intact annual night";
+var mnemonic = "decide round lawsuit toss goose flower pretty pact duck lobster uncover inflict";

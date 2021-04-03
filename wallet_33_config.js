@@ -1,1 +1,1 @@
-var mnemonic = "parrot zebra hood maximum version exile legal tube dismiss spoon alpha summer";
+var mnemonic = "tray rifle before include wet tobacco much cable among vocal auction fork";

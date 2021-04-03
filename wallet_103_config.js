@@ -1,1 +1,1 @@
-var mnemonic = "sting earth tank blast stage jar lizard cage agree mean master entire";
+var mnemonic = "equal panel connect correct coil shiver patient sorry tide modify mother shove";

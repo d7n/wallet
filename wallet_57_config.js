@@ -1,1 +1,1 @@
-var mnemonic = "series assist over win smoke legend delay tree divert visual sight copy";
+var mnemonic = "paper welcome arena version home fiscal danger small spell caution fade huge";

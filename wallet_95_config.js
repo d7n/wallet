@@ -1,1 +1,1 @@
-var mnemonic = "renew order what sell calm example inhale leg describe confirm garage deer";
+var mnemonic = "nice next powder return lounge portion kick grab rigid barrel awful milk";

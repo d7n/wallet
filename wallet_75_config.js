@@ -1,1 +1,1 @@
-var mnemonic = "stove artist cram corn rally merge ill combine fix search provide high";
+var mnemonic = "wash wagon scorpion flock squirrel six eyebrow senior clever vessel hospital stuff";

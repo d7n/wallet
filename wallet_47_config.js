@@ -1,1 +1,1 @@
-var mnemonic = "cry maze cage abstract course title grunt keen filter symptom mushroom obey";
+var mnemonic = "farm peanut bar apple fame either hold dog target velvet disagree muffin";

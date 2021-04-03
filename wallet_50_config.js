@@ -1,1 +1,1 @@
-var mnemonic = "upgrade bike lava butter seat arena humble provide renew arrive olive unusual";
+var mnemonic = "urban click rally area lobster this recall valve loyal six lock jealous";

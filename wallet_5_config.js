@@ -1,1 +1,1 @@
-var mnemonic = "adult output head term provide margin lava seed warrior gesture next fitness";
+var mnemonic = "forget equip agent mimic explain plug film piece edit hill inspire moment";

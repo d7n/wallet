@@ -1,1 +1,1 @@
-var mnemonic = "try fat puzzle kid music moon away vocal unfold genre dog usage";
+var mnemonic = "flag program night pet tail brief shaft cross mind loyal actor neither";

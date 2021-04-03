@@ -1,1 +1,1 @@
-var mnemonic = "ignore age lobster garlic pioneer praise dose salad path expire sniff online";
+var mnemonic = "recycle spare surface february spray pull monkey fabric diet swarm blood click";

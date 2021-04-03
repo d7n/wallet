@@ -1,1 +1,1 @@
-var mnemonic = "shuffle slot treat mystery badge dentist alley elder review husband draw wagon";
+var mnemonic = "devote vanish panic oil brick come zero narrow aim current neck jelly";

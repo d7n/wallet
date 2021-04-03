@@ -1,1 +1,1 @@
-var mnemonic = "voyage dirt gain pigeon bright upper place lonely whisper seat lift logic";
+var mnemonic = "victory repair moment rain machine mosquito stage maximum three dose resemble tool";

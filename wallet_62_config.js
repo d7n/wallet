@@ -1,1 +1,1 @@
-var mnemonic = "siege alley clarify gain fame pudding dizzy fit young grape divorce pigeon";
+var mnemonic = "path planet protect dwarf coffee kangaroo canyon smooth world solve bone act";

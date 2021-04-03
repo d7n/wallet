@@ -1,1 +1,1 @@
-var mnemonic = "cube tortoise hover bunker rocket concert tenant upper taste duty myself hover";
+var mnemonic = "picture woman exhaust rookie buddy youth erupt cause sand actor extra evil";

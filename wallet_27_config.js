@@ -1,1 +1,1 @@
-var mnemonic = "play shrimp spice draft fury float fetch dish sponsor smooth swap among";
+var mnemonic = "night shrimp glide pond sphere source example rubber mercy tobacco beauty tobacco";

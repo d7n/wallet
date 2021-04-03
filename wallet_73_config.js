@@ -1,1 +1,1 @@
-var mnemonic = "tree donate rocket arrest clock today remain enhance oak spin volcano mimic";
+var mnemonic = "unique thunder romance theory flight travel collect arch betray wrap mountain genre";

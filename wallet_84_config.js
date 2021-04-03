@@ -1,1 +1,1 @@
-var mnemonic = "rigid fork tape social cargo fault middle planet penalty steel local daughter";
+var mnemonic = "then afford six laptop quit until oxygen uniform humor security weasel bike";

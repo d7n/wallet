@@ -1,1 +1,1 @@
-var mnemonic = "ranch cream rhythm unaware bitter crane calm firm hazard symbol blade jewel";
+var mnemonic = "peanut glance uphold first humor like mimic vivid crystal beach early dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "join assume lizard grow metal reopen repeat museum medal pilot belt trumpet";
+var mnemonic = "design ankle cruel fine note situate certain melody unaware easily open devote";

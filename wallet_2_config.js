@@ -1,1 +1,1 @@
-var mnemonic = "episode glad ethics walnut job hope garment heart table learn dance giant";
+var mnemonic = "solution pipe deputy wrap bone arch error sing shrug virus shoot blast";

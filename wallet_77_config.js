@@ -1,1 +1,1 @@
-var mnemonic = "hip achieve sun hurdle creek bulk know chair tiny blind gorilla aim";
+var mnemonic = "carry immune educate punch employ nerve match space grunt clown famous educate";

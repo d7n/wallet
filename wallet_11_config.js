@@ -1,1 +1,1 @@
-var mnemonic = "sadness capable shiver frozen text easily bitter fruit minor normal direct way";
+var mnemonic = "spike hamster three debris art hobby giggle rack idle coconut issue beach";

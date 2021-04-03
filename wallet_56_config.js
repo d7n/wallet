@@ -1,1 +1,1 @@
-var mnemonic = "sentence fork organ address silver unique only citizen actress tongue inherit wagon";
+var mnemonic = "sorry manual glide tiger dinner force artwork correct roof grain spoil pigeon";

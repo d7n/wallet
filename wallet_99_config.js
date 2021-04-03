@@ -1,1 +1,1 @@
-var mnemonic = "pilot ski logic pretty planet morning drive drop dolphin funny title ancient";
+var mnemonic = "permit someone mistake rail awake half tongue derive mystery cattle engage leader";

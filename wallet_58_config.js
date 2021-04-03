@@ -1,1 +1,1 @@
-var mnemonic = "vivid galaxy swamp inner wheat boss acquire alarm renew barrel unlock used";
+var mnemonic = "fitness narrow drop vapor drastic add pave celery smooth subway reveal border";

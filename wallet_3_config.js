@@ -1,1 +1,1 @@
-var mnemonic = "sorry slight indoor just shine shy ceiling glass lend trial genuine mobile";
+var mnemonic = "kangaroo board salt damp legend size blood purity mouse bring legal build";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat excite alpha fringe night stairs sponsor code focus grocery minute omit";
+var mnemonic = "program cigar reflect have cradle portion country crush enter elephant census drill";

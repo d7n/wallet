@@ -1,1 +1,1 @@
-var mnemonic = "enrich pill spring home pottery panther guide dry skin opera tape exit";
+var mnemonic = "alien display habit slide honey stuff enjoy canvas scare street mango pretty";

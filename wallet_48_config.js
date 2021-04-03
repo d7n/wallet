@@ -1,1 +1,1 @@
-var mnemonic = "goddess prepare similar couple shove hockey pass uncover route funny exact bus";
+var mnemonic = "give frequent enroll glass ivory glory step pulse gap luggage ask frown";
