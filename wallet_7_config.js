@@ -1,1 +1,1 @@
-var mnemonic = "dinner broken boss tattoo april police candy curious park kid hundred wheat";
+var mnemonic = "utility device skirt fire insect evidence stove insane cruel hen pass song";

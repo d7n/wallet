@@ -1,1 +1,1 @@
-var mnemonic = "car fish knee later tomorrow much when rural endless walk unit innocent";
+var mnemonic = "roof giant sauce oil verify maid announce minor siren protect spot elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "glare oppose index idea sign ocean exit daughter bring eternal green develop";
+var mnemonic = "pledge wear mountain gentle thank south pledge artefact frequent tip tilt name";

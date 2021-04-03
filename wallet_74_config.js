@@ -1,1 +1,1 @@
-var mnemonic = "burger tattoo turn slight inform spirit short soda middle document circle aim";
+var mnemonic = "easy pond rose worth regular organ door easy depth crumble host silly";

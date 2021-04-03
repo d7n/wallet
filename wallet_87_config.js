@@ -1,1 +1,1 @@
-var mnemonic = "aerobic yard drip kitchen rude parade cat slow actor renew around few";
+var mnemonic = "resemble chat broccoli raise ripple plastic tower trash romance visual dynamic panda";

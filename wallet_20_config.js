@@ -1,1 +1,1 @@
-var mnemonic = "glass veteran enlist learn balance balance address gloom nerve farm ugly clay";
+var mnemonic = "ritual virus west actor acquire mesh lesson paddle refuse liquid record amazing";

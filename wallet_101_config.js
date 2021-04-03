@@ -1,1 +1,1 @@
-var mnemonic = "month tail confirm blouse jar salt hungry identify enhance obvious rain talent";
+var mnemonic = "document next enjoy wrist cargo lawn anger secret rotate marble stove word";

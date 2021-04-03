@@ -1,1 +1,1 @@
-var mnemonic = "axis sing age wagon sketch fork proud night shuffle silver ten future";
+var mnemonic = "repair manage biology release trade fiscal soap material bicycle bargain essence manual";

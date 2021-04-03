@@ -1,1 +1,1 @@
-var mnemonic = "hub shrimp february tuna second subway solid piano torch absent detail priority";
+var mnemonic = "judge rack steak bitter walnut level inject coyote peanut dismiss waste avocado";

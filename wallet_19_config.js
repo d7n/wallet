@@ -1,1 +1,1 @@
-var mnemonic = "reason permit virus addict extend need ramp feature immense pelican silly exotic";
+var mnemonic = "valve witness spray vote ranch canyon depend birth soda venue valve educate";

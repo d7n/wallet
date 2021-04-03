@@ -1,1 +1,1 @@
-var mnemonic = "culture certain match impose obscure void good frog humble script steak dad";
+var mnemonic = "monitor chat cover attract voice journey cash unknown entry maple drip demand";

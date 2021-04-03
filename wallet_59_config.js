@@ -1,1 +1,1 @@
-var mnemonic = "grief reason pilot try shop effort history enjoy trumpet genius refuse figure";
+var mnemonic = "unfold cave nest tilt impulse provide alley planet bottom stock clutch slight";

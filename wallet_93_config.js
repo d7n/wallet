@@ -1,1 +1,1 @@
-var mnemonic = "congress term snow canvas fabric company vanish affair mom museum thank street";
+var mnemonic = "awkward bargain debate awkward over parent inquiry burst exhibit spring skirt note";

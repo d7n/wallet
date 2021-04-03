@@ -1,1 +1,1 @@
-var mnemonic = "arctic slot very sock spread helmet first page champion elephant horror release";
+var mnemonic = "butter festival talk easily kite payment blood theory slow resist mushroom camp";

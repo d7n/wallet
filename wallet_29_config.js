@@ -1,1 +1,1 @@
-var mnemonic = "radio cloud cart whip nerve buddy misery lunar narrow avoid sad scrub";
+var mnemonic = "heavy month misery vacant script where butter imitate sun execute enroll tuition";

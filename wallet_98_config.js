@@ -1,1 +1,1 @@
-var mnemonic = "dignity night media school clerk route problem gossip version vibrant domain nuclear";
+var mnemonic = "gesture ginger palm park spring below erupt movie hidden illegal taxi slender";

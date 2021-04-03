@@ -1,1 +1,1 @@
-var mnemonic = "minor pill motion flag level angry desk antenna initial cricket outer cheese";
+var mnemonic = "case version base acid best ensure brother soccer ripple switch sort nest";

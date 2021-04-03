@@ -1,1 +1,1 @@
-var mnemonic = "keep thunder jump push water twice hotel dilemma planet salute scorpion shell";
+var mnemonic = "stumble ski inner unknown fresh adapt magic local bag sort clock suggest";

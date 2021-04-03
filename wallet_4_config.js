@@ -1,1 +1,1 @@
-var mnemonic = "journey next book dance venture diagram fitness nut awful boy sad humor";
+var mnemonic = "lesson mammal motion inmate idea wage napkin fatigue giraffe gentle polar describe";

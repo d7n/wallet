@@ -1,1 +1,1 @@
-var mnemonic = "warfare plastic betray travel above resist era good slot pattern source include";
+var mnemonic = "opinion increase drive carpet morning grain grain consider stock exclude cousin kite";

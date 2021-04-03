@@ -1,1 +1,1 @@
-var mnemonic = "finish later kidney witness comic crucial volume artefact lock stool minor boat";
+var mnemonic = "rate dove shiver neutral van strong alone mutual bar fresh license picture";

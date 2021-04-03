@@ -1,1 +1,1 @@
-var mnemonic = "opinion rookie item jaguar knee velvet host sorry together protect chef false";
+var mnemonic = "mammal possible cousin entry foil hundred width glare pill open amount verb";

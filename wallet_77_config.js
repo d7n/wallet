@@ -1,1 +1,1 @@
-var mnemonic = "evolve lamp young earn cradle summer grace soup stove basket mimic avocado";
+var mnemonic = "appear kiwi govern alien school proof midnight uniform expose discover more victory";

@@ -1,1 +1,1 @@
-var mnemonic = "despair soccer original chapter degree calm family hidden alpha piano plate ask";
+var mnemonic = "sheriff seed vast atom grow shed topic myth feed capable wool inmate";

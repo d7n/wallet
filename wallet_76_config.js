@@ -1,1 +1,1 @@
-var mnemonic = "diesel fringe climb struggle allow foil scout grit matter leisure resemble blame";
+var mnemonic = "bicycle buddy lemon speed become penalty crash liar measure forget abuse wild";

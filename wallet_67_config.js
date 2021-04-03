@@ -1,1 +1,1 @@
-var mnemonic = "merge priority soccer stay metal butter flush person pair sock dad master";
+var mnemonic = "section leg warm broom cereal jewel rescue shift absorb post nephew exile";

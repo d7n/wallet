@@ -1,1 +1,1 @@
-var mnemonic = "hotel monitor vessel skirt parent chat sound dance grocery stage riot hand";
+var mnemonic = "economy own exist unfair cry kitten badge state goose unique estate glove";

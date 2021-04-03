@@ -1,1 +1,1 @@
-var mnemonic = "dust buffalo vapor disease ridge path tenant sample olive pelican walk excite";
+var mnemonic = "attitude season desk argue east prison worry sauce minor market popular fence";

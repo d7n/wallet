@@ -1,1 +1,1 @@
-var mnemonic = "situate empower rose absurd job dust spend start miracle run fence miss";
+var mnemonic = "gadget depart interest panda abstract sun measure shiver popular index include fish";

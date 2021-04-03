@@ -1,1 +1,1 @@
-var mnemonic = "able poem clinic fury flash knife wood can cement shrug slab alpha";
+var mnemonic = "enrich indoor whip night proud december exile tone spoil crash tent define";

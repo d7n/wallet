@@ -1,1 +1,1 @@
-var mnemonic = "venue december replace boring fossil scale choose rely lock exhibit tortoise history";
+var mnemonic = "run enhance dizzy vessel vehicle crime cool verify rose million afford desert";

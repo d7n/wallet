@@ -1,1 +1,1 @@
-var mnemonic = "ridge parent glide romance wink calm reject library birth when ill artist";
+var mnemonic = "claim little act aunt frequent warrior tell clock oak future blur problem";

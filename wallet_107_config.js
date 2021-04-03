@@ -1,1 +1,1 @@
-var mnemonic = "require ring cupboard humble whale elephant gate fossil urge poem also jacket";
+var mnemonic = "tray motor tomorrow kidney foster mechanic grit high file exhibit polar that";

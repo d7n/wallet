@@ -1,1 +1,1 @@
-var mnemonic = "file rare select train calm runway gas party sail kid tube author";
+var mnemonic = "chest fit thank team pond tell pigeon visit smile taxi digital steel";

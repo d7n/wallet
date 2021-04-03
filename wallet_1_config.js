@@ -1,1 +1,1 @@
-var mnemonic = "skin ribbon again body hungry artefact method grunt dragon industry benefit clinic";
+var mnemonic = "bind room hazard glide hover guard nominee improve lawn clever mother endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "electric ozone again hurry plastic police valid large orient staff reflect morning";
+var mnemonic = "attend clever seed dry direct better zebra link devote essence one virtual";

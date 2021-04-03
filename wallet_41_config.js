@@ -1,1 +1,1 @@
-var mnemonic = "excuse fuel stairs hole square obscure metal punch loan decide hurt noodle";
+var mnemonic = "favorite oppose beyond extra skill wear raw two stuff odor because suit";

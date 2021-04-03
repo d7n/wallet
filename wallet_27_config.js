@@ -1,1 +1,1 @@
-var mnemonic = "stairs industry luggage educate slice atom second jaguar grape panther work acoustic";
+var mnemonic = "strike reject umbrella physical amused history junior dirt depth inform trial benefit";

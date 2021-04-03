@@ -1,1 +1,1 @@
-var mnemonic = "phone suggest element knee border ensure choose light soon judge diet end";
+var mnemonic = "scorpion primary wire recipe erupt nature glimpse tunnel cactus good recall meat";

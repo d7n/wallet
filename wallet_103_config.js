@@ -1,1 +1,1 @@
-var mnemonic = "dream special sight express glance vague ketchup art egg earth bacon license";
+var mnemonic = "prosper report birth cart sister clog inmate swim north poet remove sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal degree upgrade breeze brick clean before much remove degree lift two";
+var mnemonic = "flip black baby step cruise parrot siege rural omit foil odor hurry";

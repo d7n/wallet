@@ -1,1 +1,1 @@
-var mnemonic = "web brother birth festival steak face river huge wheat absurd obscure okay";
+var mnemonic = "fatal bracket artwork quote banner life rough witness pool sketch subway pioneer";

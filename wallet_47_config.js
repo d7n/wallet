@@ -1,1 +1,1 @@
-var mnemonic = "latin piece silver whale silly royal track oxygen aspect fabric record turkey";
+var mnemonic = "genre walk omit night clay brand evolve plug surface enjoy hill state";

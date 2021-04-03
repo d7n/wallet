@@ -1,1 +1,1 @@
-var mnemonic = "capable cactus dignity must same attract undo decline badge uniform dirt prison";
+var mnemonic = "addict lunch cake spend give height space genre auction forget bounce story";

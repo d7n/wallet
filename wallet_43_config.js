@@ -1,1 +1,1 @@
-var mnemonic = "try gesture floor gossip slight title alert announce delay quote spell over";
+var mnemonic = "gauge slender celery evolve bronze when divorce guess change danger document immune";

@@ -1,1 +1,1 @@
-var mnemonic = "decline trigger ritual journey silver memory caught connect recycle lyrics mansion moment";
+var mnemonic = "knock update scheme gym swear price panel double moon riot enforce expand";

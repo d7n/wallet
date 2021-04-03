@@ -1,1 +1,1 @@
-var mnemonic = "crash inherit bench uniform bike pretty pigeon story dress cram smooth reason";
+var mnemonic = "spoon carpet milk student tonight earth tornado lion senior walk rather market";

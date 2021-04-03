@@ -1,1 +1,1 @@
-var mnemonic = "math obscure yellow sing east glass among evoke memory trash kingdom room";
+var mnemonic = "gather cloth illness foot ritual field learn bleak smart foot cram crisp";

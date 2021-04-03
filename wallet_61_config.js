@@ -1,1 +1,1 @@
-var mnemonic = "never primary pottery sauce voyage axis repair setup drip hamster ghost army";
+var mnemonic = "dad still oven fire barely remove bright glory cement tackle carbon occur";

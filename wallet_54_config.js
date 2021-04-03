@@ -1,1 +1,1 @@
-var mnemonic = "camera oak claim online reform cool disorder method deliver gossip jelly electric";
+var mnemonic = "remain win grit cool actual life brush left verify pizza void antenna";

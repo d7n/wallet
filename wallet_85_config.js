@@ -1,1 +1,1 @@
-var mnemonic = "emotion uncle cereal slender field tank carpet column armed soup candy observe";
+var mnemonic = "farm image odor swarm theme avocado cement debate find flush cube nut";

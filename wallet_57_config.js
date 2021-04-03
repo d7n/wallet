@@ -1,1 +1,1 @@
-var mnemonic = "length arctic sauce farm endless remember onion easy metal hover depth undo";
+var mnemonic = "vehicle teach gather easily inside multiply truly style lift share solar never";

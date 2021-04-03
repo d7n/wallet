@@ -1,1 +1,1 @@
-var mnemonic = "lobster mesh robust sand cushion bread leaf earn layer simple enter flag";
+var mnemonic = "family mutual divide muscle autumn write firm observe toss diamond voice sphere";

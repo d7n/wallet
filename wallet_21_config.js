@@ -1,1 +1,1 @@
-var mnemonic = "element eight copy upset attend burger ring ready bid wage common unusual";
+var mnemonic = "solve ticket adjust move neither armor wrestle blanket apology spice ladder online";

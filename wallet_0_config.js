@@ -1,1 +1,1 @@
-var mnemonic = "actual share gloom people across jealous garlic only exit shell fiscal social";
+var mnemonic = "crunch bridge tortoise any notice decade spy organ guess despair tennis have";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase menu slim alpha pride fine quick episode tone chat green bid";
+var mnemonic = "truth must type raw chimney aim parade soldier market glow flush side";

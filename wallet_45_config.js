@@ -1,1 +1,1 @@
-var mnemonic = "honey field negative usual ribbon remind crater together brand evoke hungry resist";
+var mnemonic = "only zoo candy cupboard lottery unhappy student west surround list thank still";

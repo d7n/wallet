@@ -1,1 +1,1 @@
-var mnemonic = "purpose course pact dragon human lizard holiday stay key citizen apple glove";
+var mnemonic = "security radio select thing world hobby broccoli satisfy video blossom decade hire";

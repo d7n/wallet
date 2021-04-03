@@ -1,1 +1,1 @@
-var mnemonic = "antenna tongue cream balance priority craft fever flame mom picnic fragile symbol";
+var mnemonic = "student trigger program veteran repeat brief fence urban blouse camera brief column";

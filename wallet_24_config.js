@@ -1,1 +1,1 @@
-var mnemonic = "cute sister excite whip health avoid loan capable stem extra circle sail";
+var mnemonic = "melody fly place elite hobby drift lock corn satoshi differ fancy match";

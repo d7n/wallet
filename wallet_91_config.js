@@ -1,1 +1,1 @@
-var mnemonic = "bacon unfair asset unfair dose blame hub imitate toss quiz behind harvest";
+var mnemonic = "confirm security history outer fox food unit anger cause breeze gauge help";

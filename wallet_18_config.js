@@ -1,1 +1,1 @@
-var mnemonic = "wide board useful item often duty misery average slogan dry violin response";
+var mnemonic = "clog pill again salmon tobacco huge start enough yellow rice sweet flower";

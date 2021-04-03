@@ -1,1 +1,1 @@
-var mnemonic = "lecture magnet kitten behind various slogan occur degree miss draw pencil skate";
+var mnemonic = "carbon luxury friend alert opera stable rebuild sport oak sponsor initial digital";

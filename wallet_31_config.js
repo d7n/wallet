@@ -1,1 +1,1 @@
-var mnemonic = "loud bracket front peasant hat festival ozone define taste acquire grab endless";
+var mnemonic = "museum chase video mistake defense swallow region grass walnut host wealth arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "arena capable road piece buffalo vivid powder hungry agent rose grit gift";
+var mnemonic = "eagle lemon judge resemble kite tag share prepare enemy melody dance cricket";

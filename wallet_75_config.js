@@ -1,1 +1,1 @@
-var mnemonic = "soul install oyster crater ride world assist announce scan amazing mystery wreck";
+var mnemonic = "gorilla burden equal design creek scene stairs depart wealth reflect raccoon right";

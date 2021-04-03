@@ -1,1 +1,1 @@
-var mnemonic = "before prison token main attitude april depend insane shield toss upgrade hungry";
+var mnemonic = "shoot shop clutch rather innocent thumb deal punch bulb casino gain empower";

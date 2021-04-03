@@ -1,1 +1,1 @@
-var mnemonic = "vacant world simple issue surprise circle caught replace picture join race viable";
+var mnemonic = "stove decide lamp feed axis biology diary valley index buddy fetch series";

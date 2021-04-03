@@ -1,1 +1,1 @@
-var mnemonic = "cushion tragic call toddler guess athlete original near sweet nose opera glimpse";
+var mnemonic = "early surge whisper poem head virus sight sight orient benefit olive oil";

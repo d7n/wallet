@@ -1,1 +1,1 @@
-var mnemonic = "cash lottery range payment great dismiss still person grow valley exile unlock";
+var mnemonic = "family they involve own gap frozen dizzy snake west motion window swim";

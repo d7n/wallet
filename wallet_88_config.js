@@ -1,1 +1,1 @@
-var mnemonic = "bullet front patrol engage fade gloom average exile east logic stick coil";
+var mnemonic = "tired trophy dinner nephew off wreck valve reward basic pact struggle add";

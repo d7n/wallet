@@ -1,1 +1,1 @@
-var mnemonic = "lucky below neck dizzy enemy fame brother comic venture reward plug couch";
+var mnemonic = "craft friend fence gospel bag hungry south spatial secret loop slam crash";

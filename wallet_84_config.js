@@ -1,1 +1,1 @@
-var mnemonic = "nothing region glow case clown goddess exist burst endorse shuffle summer come";
+var mnemonic = "off shuffle crack corn empty such trade glow equal cement erosion stove";

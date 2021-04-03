@@ -1,1 +1,1 @@
-var mnemonic = "jump recycle tribe pink canvas tide mango inspire effort spread rule ten";
+var mnemonic = "clerk time dose mountain creek correct hard vote time boy credit sleep";

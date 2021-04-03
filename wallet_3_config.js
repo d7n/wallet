@@ -1,1 +1,1 @@
-var mnemonic = "effort rain fever paddle toast age excuse sugar toss develop profit same";
+var mnemonic = "hockey fiction butter obvious vote sponsor rate brother alcohol club hood surprise";

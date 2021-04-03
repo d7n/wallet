@@ -1,1 +1,1 @@
-var mnemonic = "knock valve crash enemy clay uphold coach believe humble february typical cook";
+var mnemonic = "glass lonely side night group hotel remember muscle treat ostrich bring found";

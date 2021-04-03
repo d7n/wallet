@@ -1,1 +1,1 @@
-var mnemonic = "almost monitor gospel jump safe click hollow item man noodle border later";
+var mnemonic = "bench equal ribbon venue sock hen media rate steel law fix round";

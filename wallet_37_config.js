@@ -1,1 +1,1 @@
-var mnemonic = "rigid trend surround order crew speed garment elder decade board stuff hire";
+var mnemonic = "expose umbrella face clog rescue dutch unusual give position giggle vehicle later";

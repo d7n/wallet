@@ -1,1 +1,1 @@
-var mnemonic = "rescue kiss call kitchen early steel rude fortune sock patch trend blind";
+var mnemonic = "enable vessel crew fit blade rose able record blossom carpet sustain member";

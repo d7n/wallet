@@ -1,1 +1,1 @@
-var mnemonic = "gravity fall limit palm sword axis reveal tissue chapter first polar into";
+var mnemonic = "trip advance lady pass wait marriage person switch fruit bench comfort brass";

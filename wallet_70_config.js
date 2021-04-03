@@ -1,1 +1,1 @@
-var mnemonic = "float hurry exotic tail busy aim flash tuna doll velvet news jeans";
+var mnemonic = "squeeze expire correct mixture fatal soccer issue keep sudden flee alley long";

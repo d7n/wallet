@@ -1,1 +1,1 @@
-var mnemonic = "slot sheriff march pause thunder cream save plate among mesh shy magic";
+var mnemonic = "village result pupil alcohol drop tiny hazard winner narrow noise canal faculty";

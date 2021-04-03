@@ -1,1 +1,1 @@
-var mnemonic = "uniform mango prosper reopen monster oven hawk off aim exit host apology";
+var mnemonic = "execute napkin guitar good eight six crane gospel buyer apple warfare jealous";

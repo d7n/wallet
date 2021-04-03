@@ -1,1 +1,1 @@
-var mnemonic = "climb improve evolve build music remember buffalo crime table glad cycle gasp";
+var mnemonic = "rough height bitter destroy oil pottery payment casino junk also riot grass";

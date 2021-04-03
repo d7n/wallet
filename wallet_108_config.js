@@ -1,1 +1,1 @@
-var mnemonic = "science crop burger control clock yard image egg bacon worry fence yellow";
+var mnemonic = "option shadow control exile mirror snake lucky humble rich typical advice cat";

@@ -1,1 +1,1 @@
-var mnemonic = "mix faith lab will cousin race usual mixed kit alarm ozone invest";
+var mnemonic = "task sort carbon any bundle matrix ocean lift estate judge farm brown";

@@ -1,1 +1,1 @@
-var mnemonic = "wash custom connect survey limit garlic future budget ocean enrich tomorrow pulp";
+var mnemonic = "neither nice virtual whip aisle panther faculty output slide earth flower shrug";

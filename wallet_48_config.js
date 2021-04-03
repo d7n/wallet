@@ -1,1 +1,1 @@
-var mnemonic = "aspect rocket rack potato angle deliver render autumn abstract teach typical where";
+var mnemonic = "box purpose alpha mutual amused tone hen peace segment race aunt kingdom";

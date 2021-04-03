@@ -1,1 +1,1 @@
-var mnemonic = "grunt tone autumn endorse shiver track antenna prize wrestle sign wide banner";
+var mnemonic = "music garment angle anger focus twice bamboo garlic antique atom penalty early";

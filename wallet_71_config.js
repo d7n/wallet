@@ -1,1 +1,1 @@
-var mnemonic = "lucky vapor husband minute disorder occur girl harsh rival illness night romance";
+var mnemonic = "divert noble pig refuse judge school regular section worry cricket maximum produce";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate orange orphan keep round urge sun muscle kingdom embark yard funny";
+var mnemonic = "cereal stand borrow argue debate market law chef height music tube orphan";

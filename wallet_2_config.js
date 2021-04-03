@@ -1,1 +1,1 @@
-var mnemonic = "noise acid help situate logic orange crawl orient brief rent grief solution";
+var mnemonic = "segment struggle wonder blue fog approve consider foot sort alley input electric";

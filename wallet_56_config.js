@@ -1,1 +1,1 @@
-var mnemonic = "chronic also jungle trip stool document hour tackle page buddy ribbon south";
+var mnemonic = "also chunk blue essay evoke occur void domain marine bar tenant liberty";

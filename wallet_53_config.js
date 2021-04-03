@@ -1,1 +1,1 @@
-var mnemonic = "snap science radio cricket vote purse couple invite never now enemy pulse";
+var mnemonic = "negative achieve window nut ethics waste garage person announce fringe later spin";

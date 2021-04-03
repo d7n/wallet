@@ -1,1 +1,1 @@
-var mnemonic = "vacant guide girl script fall mesh kiwi swap tilt leave add velvet";
+var mnemonic = "naive hire jazz gauge employ flag lawsuit liberty luggage embody basket demand";

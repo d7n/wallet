@@ -1,1 +1,1 @@
-var mnemonic = "crazy rigid various mosquito clown obscure all sound cliff coin range man";
+var mnemonic = "maze abuse army flush swap april game cousin cook curve record attack";
