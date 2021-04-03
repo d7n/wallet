@@ -1,1 +1,1 @@
-var mnemonic = "cruise merge lawn steel diesel dust swarm usage able mystery bird truck";
+var mnemonic = "dolphin pipe wood cabin legend debris pilot together gas base harvest idle";

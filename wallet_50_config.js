@@ -1,1 +1,1 @@
-var mnemonic = "wine battle cupboard evoke afraid few certain pilot service skate fever sure";
+var mnemonic = "holiday connect real curious yard prefer wave imitate surface hollow entry news";

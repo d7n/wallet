@@ -1,1 +1,1 @@
-var mnemonic = "whisper between stove jump place logic side license chaos side skirt laugh";
+var mnemonic = "cube wrestle normal coast age major remain twist catch hidden aerobic ship";

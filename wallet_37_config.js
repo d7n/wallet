@@ -1,1 +1,1 @@
-var mnemonic = "brain tennis ticket twice gospel message hungry crack scale congress mule vacuum";
+var mnemonic = "fatal catch clutch second good holiday boil question cabbage maid wink dinner";

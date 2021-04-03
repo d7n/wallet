@@ -1,1 +1,1 @@
-var mnemonic = "hill artefact pole twin deal hard case priority squirrel combine click inspire";
+var mnemonic = "price silver faith speed return feel forget fitness humble admit lazy language";

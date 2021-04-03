@@ -1,1 +1,1 @@
-var mnemonic = "still dune picnic profit danger wasp smart sail green foil trophy error";
+var mnemonic = "legend prison pole soup domain banana lift divert affair extend equip hour";

@@ -1,1 +1,1 @@
-var mnemonic = "give soft excess purity theory favorite search loyal soul hen inside music";
+var mnemonic = "assist snack hunt beef keen crack farm age under day tennis bus";

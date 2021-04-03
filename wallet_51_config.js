@@ -1,1 +1,1 @@
-var mnemonic = "penalty fire gorilla person distance endorse network weather use grief step around";
+var mnemonic = "depth hidden palace bless ketchup cannon depth decrease animal remember useful venture";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp alcohol ski purse length deputy pyramid move still october transfer curve";
+var mnemonic = "battle equip taxi curtain high grab shine match diagram stadium cup become";

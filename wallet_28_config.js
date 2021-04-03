@@ -1,1 +1,1 @@
-var mnemonic = "oil squeeze expect ahead doctor immense father comfort rug style flock boy";
+var mnemonic = "expand kiss step develop swim once uncle author space simple quote exclude";

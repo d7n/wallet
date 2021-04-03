@@ -1,1 +1,1 @@
-var mnemonic = "suggest forward raw mad text relief expect much group settle use board";
+var mnemonic = "enact flat video alcohol next city alpha volume unfair wool snow combine";

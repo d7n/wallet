@@ -1,1 +1,1 @@
-var mnemonic = "jewel sorry shield decrease box merry nut shove fragile nut program ten";
+var mnemonic = "any same comfort hip hope word drastic win despair refuse wrist girl";

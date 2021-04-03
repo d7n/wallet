@@ -1,1 +1,1 @@
-var mnemonic = "climb about airport receive sleep message split knock legal bullet food machine";
+var mnemonic = "harbor orange network cash october manage wrist parrot potato link laugh water";

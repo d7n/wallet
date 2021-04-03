@@ -1,1 +1,1 @@
-var mnemonic = "device baby accident royal hour census desert blanket found primary exchange left";
+var mnemonic = "melt suit glare deny inform total below endorse bonus squeeze gaze believe";

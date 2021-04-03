@@ -1,1 +1,1 @@
-var mnemonic = "lottery hero pet flush earth recall write citizen mixed spatial gasp sense";
+var mnemonic = "chapter tomorrow oval notable brush grocery water mutual fee firm cram swamp";

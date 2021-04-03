@@ -1,1 +1,1 @@
-var mnemonic = "tell accident isolate crane tail divorce normal umbrella original people entire narrow";
+var mnemonic = "appear orange tank agree gravity sponsor raw bubble spell jungle owner below";

@@ -1,1 +1,1 @@
-var mnemonic = "kind debris draft glove poem web pride cable beyond gym race mind";
+var mnemonic = "price artwork stamp prison job clock youth quarter trial table minor morning";

@@ -1,1 +1,1 @@
-var mnemonic = "foil dash cheap better remind project daughter entry chair good move level";
+var mnemonic = "runway scene recycle sense key enact main enjoy stairs push amused either";

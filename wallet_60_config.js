@@ -1,1 +1,1 @@
-var mnemonic = "melt initial mountain process injury trigger immense letter symbol nation chest tape";
+var mnemonic = "other tenant clog rebuild road way arch nominee educate always wrong hood";

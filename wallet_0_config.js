@@ -1,1 +1,1 @@
-var mnemonic = "tissue paper globe lottery gate clump true fetch unfair ketchup surprise breeze";
+var mnemonic = "oak rifle own neck toss luxury join hollow cereal juice library equip";

@@ -1,1 +1,1 @@
-var mnemonic = "trip okay cover protect arrive security know gold pave tomato float convince";
+var mnemonic = "fault cram penalty good conduct useless nurse cube culture wild loud eight";

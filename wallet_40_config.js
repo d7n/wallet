@@ -1,1 +1,1 @@
-var mnemonic = "bind double erase praise engage oxygen order tuna throw exile check coyote";
+var mnemonic = "fan left flee nature offer waste swamp suspect kiwi skill boring crane";

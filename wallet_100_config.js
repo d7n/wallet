@@ -1,1 +1,1 @@
-var mnemonic = "youth record banana matter dice green enemy layer life dynamic when autumn";
+var mnemonic = "faint hurry rebel blur they latin island warm fabric amazing trust wait";

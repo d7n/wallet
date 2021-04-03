@@ -1,1 +1,1 @@
-var mnemonic = "prize crush version nose custom sweet arena half ship equal rifle adult";
+var mnemonic = "real gasp blood favorite judge edit dragon party labor stamp ride cupboard";

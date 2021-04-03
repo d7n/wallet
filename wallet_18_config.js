@@ -1,1 +1,1 @@
-var mnemonic = "lady museum tool weasel web farm cloth cargo brush inner half resist";
+var mnemonic = "ripple sheriff spray celery property gate palace elevator donor rude distance laundry";

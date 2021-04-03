@@ -1,1 +1,1 @@
-var mnemonic = "excess kick skin sugar chase jelly clutch wire very ticket moral wine";
+var mnemonic = "high access dentist exit night stable radar special injury napkin away peanut";

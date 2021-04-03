@@ -1,1 +1,1 @@
-var mnemonic = "jungle joke prevent unfold seek need satoshi drum menu electric army cliff";
+var mnemonic = "diesel visa siren mouse amused another truth route force sun dust palm";

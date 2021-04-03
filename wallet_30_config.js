@@ -1,1 +1,1 @@
-var mnemonic = "swarm mean evoke distance family pair kite practice faith vague object live";
+var mnemonic = "bean come put win dilemma rib flower section have busy decline news";

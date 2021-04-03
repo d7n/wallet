@@ -1,1 +1,1 @@
-var mnemonic = "slam two breeze sauce infant route rail spell salad category soda sad";
+var mnemonic = "mixed breeze tenant short claw cash trumpet ivory gap camera long caught";

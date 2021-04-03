@@ -1,1 +1,1 @@
-var mnemonic = "pass undo eight shrimp language risk into slot pool hole tongue first";
+var mnemonic = "trophy bottom sport tired punch inside six calm bird flock solution input";

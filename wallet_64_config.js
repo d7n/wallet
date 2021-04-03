@@ -1,1 +1,1 @@
-var mnemonic = "morning tiger okay rifle skate trip chalk brand wolf fiction cement sponsor";
+var mnemonic = "evoke only ignore mass crucial face spring force month rib deputy put";

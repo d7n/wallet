@@ -1,1 +1,1 @@
-var mnemonic = "lonely gasp jar taxi combine near decrease worth mesh glimpse all mail";
+var mnemonic = "hawk evidence news close before cruel ordinary hurt main ethics arm improve";

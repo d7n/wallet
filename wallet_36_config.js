@@ -1,1 +1,1 @@
-var mnemonic = "depart dolphin sense immune garlic sort file panther click deputy unhappy series";
+var mnemonic = "alone canvas noodle whale box wedding pill either wise panel pulse vocal";

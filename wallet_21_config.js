@@ -1,1 +1,1 @@
-var mnemonic = "assault march immense sphere soon once tiny dynamic network educate relax egg";
+var mnemonic = "deer cup spin reform game fatal claw boss label hero wall banner";

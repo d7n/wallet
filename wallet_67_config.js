@@ -1,1 +1,1 @@
-var mnemonic = "gym put rough struggle avocado wheel strike wisdom box firm gauge awesome";
+var mnemonic = "elbow toy buyer invite burst attitude alone bag village impulse bamboo banner";

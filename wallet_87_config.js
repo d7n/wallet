@@ -1,1 +1,1 @@
-var mnemonic = "antique illness visit toddler arrest distance insane artist action degree gravity exclude";
+var mnemonic = "excite mother add borrow disease carpet quarter useless board general warm shoulder";

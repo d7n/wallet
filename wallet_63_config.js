@@ -1,1 +1,1 @@
-var mnemonic = "arrange ivory leisure step now confirm height afford outdoor carpet surprise avocado";
+var mnemonic = "pen nation unusual reject erase fossil faint opinion extend wise ball immense";

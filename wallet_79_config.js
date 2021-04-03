@@ -1,1 +1,1 @@
-var mnemonic = "potato plunge favorite shock search abstract hungry forward pulp fury gown mad";
+var mnemonic = "casino void rebuild envelope bonus good panel throw rescue estate minor lobster";

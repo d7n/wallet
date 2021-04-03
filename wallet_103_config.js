@@ -1,1 +1,1 @@
-var mnemonic = "material canyon radio stamp boat idle remember decline tackle soldier amazing rocket";
+var mnemonic = "foot whisper wave answer error sphere deny fragile benefit away cloud junior";

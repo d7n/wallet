@@ -1,1 +1,1 @@
-var mnemonic = "blade funny lunar sketch more antique pet dial roof fossil reject borrow";
+var mnemonic = "chief pill absurd when soon dose cousin pepper crowd much debris square";

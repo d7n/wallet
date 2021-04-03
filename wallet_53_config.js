@@ -1,1 +1,1 @@
-var mnemonic = "six brave abandon regret luxury adjust announce key please effort run engage";
+var mnemonic = "verb lend much physical concert afraid adapt private pelican model situate whale";

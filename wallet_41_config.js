@@ -1,1 +1,1 @@
-var mnemonic = "jacket sword apart cable loan love galaxy nest pencil luggage culture popular";
+var mnemonic = "exotic wire lend claim extra undo student size boss reason sunny message";

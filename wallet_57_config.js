@@ -1,1 +1,1 @@
-var mnemonic = "opera smooth slim crop symbol open region knife jazz segment bamboo orange";
+var mnemonic = "orange impose glimpse more noble alcohol latin denial express income sea eternal";

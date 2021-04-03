@@ -1,1 +1,1 @@
-var mnemonic = "achieve ask task follow ecology orient special size gesture sell oppose ready";
+var mnemonic = "prefer ranch rabbit sunny cheese mansion review smile offer myth move trade";

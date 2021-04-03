@@ -1,1 +1,1 @@
-var mnemonic = "moon click duty payment foil submit identify inquiry moment wave embody bring";
+var mnemonic = "fabric fossil attack year dinner surface genius silly enjoy work capital core";

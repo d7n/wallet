@@ -1,1 +1,1 @@
-var mnemonic = "cotton twenty quiz choose emotion put awful auto push test admit install";
+var mnemonic = "kit sample slide maximum remain gauge they example cycle finish economy chase";

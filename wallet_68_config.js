@@ -1,1 +1,1 @@
-var mnemonic = "believe sausage entry farm tourist where champion know health taste draft core";
+var mnemonic = "drip vacuum thing moon survey neither annual damp member wise curve boy";

@@ -1,1 +1,1 @@
-var mnemonic = "east sister shop doctor damage floor cram jacket card tortoise radar midnight";
+var mnemonic = "dose buffalo spider snap echo magnet hotel thank fly nasty someone wing";

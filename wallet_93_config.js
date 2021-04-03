@@ -1,1 +1,1 @@
-var mnemonic = "rent unique wasp title around match marine cushion lawn weekend amused bracket";
+var mnemonic = "leaf lecture lawn common increase volume eight where hawk frozen poem resist";

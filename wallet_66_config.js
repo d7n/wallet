@@ -1,1 +1,1 @@
-var mnemonic = "swallow talent slogan science sad wrist kangaroo crumble rescue mosquito parrot salute";
+var mnemonic = "sauce badge relax peanut cash group surface mimic sample walnut two used";

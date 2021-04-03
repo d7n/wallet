@@ -1,1 +1,1 @@
-var mnemonic = "suggest rug issue city jelly ridge area kitten jar slab load group";
+var mnemonic = "weekend lobster lyrics blossom seed dizzy cereal popular pluck search parent proof";

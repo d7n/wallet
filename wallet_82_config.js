@@ -1,1 +1,1 @@
-var mnemonic = "stomach curtain suit wrong find token expire west grape shrimp syrup dinner";
+var mnemonic = "letter someone milk trade mirror scrub crunch donkey injury artist nephew actual";

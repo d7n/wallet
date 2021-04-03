@@ -1,1 +1,1 @@
-var mnemonic = "expand install picnic leader hard betray fee bleak grape ready security wet";
+var mnemonic = "plug fall gallery vapor web jacket aspect bullet planet praise artwork grow";

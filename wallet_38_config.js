@@ -1,1 +1,1 @@
-var mnemonic = "primary tuna parrot glide emotion car cement vehicle inquiry various champion gentle";
+var mnemonic = "crater identify banner enforce employ panel key van skate half army burst";

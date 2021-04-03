@@ -1,1 +1,1 @@
-var mnemonic = "clutch arctic coconut lady web effort path artist miracle smart hedgehog sibling";
+var mnemonic = "sustain speed frequent witness pear render head fan eternal one idea device";

@@ -1,1 +1,1 @@
-var mnemonic = "belt loyal panther title duck they bone ill option body retreat beef";
+var mnemonic = "garbage twin injury control sword evil mule quantum glare elegant coyote nut";

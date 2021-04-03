@@ -1,1 +1,1 @@
-var mnemonic = "describe cheap hunt impulse october enjoy edit stage shoulder clog noodle odor";
+var mnemonic = "put expect chat slow fault waste impose beyond soup glory need glance";

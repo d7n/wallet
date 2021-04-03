@@ -1,1 +1,1 @@
-var mnemonic = "rate antenna fiber amateur client soft beach shift seek hundred story odor";
+var mnemonic = "awful raccoon talk crucial east birth knock glare cloud during about provide";

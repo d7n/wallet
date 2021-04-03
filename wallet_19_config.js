@@ -1,1 +1,1 @@
-var mnemonic = "drop priority ask impose six alpha spread fire never champion federal tide";
+var mnemonic = "village relax design romance remove share mango police sustain silly hover autumn";

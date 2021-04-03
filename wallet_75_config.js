@@ -1,1 +1,1 @@
-var mnemonic = "bronze analyst repair mesh labor horn crush primary weapon ride army evidence";
+var mnemonic = "option another unit solar arrow crumble must embrace canyon brisk pond radar";

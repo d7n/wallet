@@ -1,1 +1,1 @@
-var mnemonic = "live smoke other squeeze moon melt crack exact bread dragon cry document";
+var mnemonic = "grunt tank evil ill rely budget siren question two eyebrow wood inmate";

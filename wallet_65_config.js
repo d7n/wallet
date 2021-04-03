@@ -1,1 +1,1 @@
-var mnemonic = "sword supreme grief noise impact park snake distance pet success corn corn";
+var mnemonic = "nephew will fame tumble power banner lens install retire virus forest charge";

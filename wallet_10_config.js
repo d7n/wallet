@@ -1,1 +1,1 @@
-var mnemonic = "regular ritual disagree merry inspire theme depend mango mystery easily pony sadness";
+var mnemonic = "canoe brain east trend domain cube extend race escape pride vague elevator";

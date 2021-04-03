@@ -1,1 +1,1 @@
-var mnemonic = "tail trip excite exchange animal venue utility siege riot much fortune until";
+var mnemonic = "acid budget license lesson method glide saddle stove view noise vital buyer";

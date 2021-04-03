@@ -1,1 +1,1 @@
-var mnemonic = "galaxy deny piece galaxy sunset skin manage bracket rescue gift large mouse";
+var mnemonic = "novel enroll interest emerge awake arrow capable between fever elite cute speed";

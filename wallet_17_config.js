@@ -1,1 +1,1 @@
-var mnemonic = "system invite light tuna eagle flavor immense harsh mean benefit cake man";
+var mnemonic = "vanish remove huge pause slender flash off twin bullet clerk belt galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage beyond because roast faint sunny cigar giant pave october other candy";
+var mnemonic = "ten real limb verify fetch ecology lounge post group sound valve slide";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse elder imitate kite truck cement fresh decrease motion noodle degree any";
+var mnemonic = "thought refuse police chapter hero imitate display sadness true strike rice wool";

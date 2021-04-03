@@ -1,1 +1,1 @@
-var mnemonic = "aim tornado pledge canyon design cave myth neither scare make track act";
+var mnemonic = "hollow artefact essay acoustic average ginger above fiscal bean heavy tell stable";

@@ -1,1 +1,1 @@
-var mnemonic = "cool enhance hundred cube ski sketch photo next whip crumble ritual vacant";
+var mnemonic = "innocent grief already cushion lawsuit topic rhythm antenna chef foam stuff recycle";

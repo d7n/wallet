@@ -1,1 +1,1 @@
-var mnemonic = "student bicycle case stage stay mango trap tomorrow fiber gloom lawn very";
+var mnemonic = "cube helmet shine wide news adult phone utility cry tell minor goddess";

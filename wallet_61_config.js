@@ -1,1 +1,1 @@
-var mnemonic = "stay squeeze donkey acoustic field way tail real size chase artwork fire";
+var mnemonic = "hip evidence dove magic puzzle find young section dog true media equal";

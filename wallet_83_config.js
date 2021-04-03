@@ -1,1 +1,1 @@
-var mnemonic = "click width behave rubber huge engage correct enact gift intact fetch lottery";
+var mnemonic = "globe cupboard author cannon abuse define lesson luxury silly raccoon mirror congress";

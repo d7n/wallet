@@ -1,1 +1,1 @@
-var mnemonic = "crowd lemon direct replace nose pen review famous weapon mind quick bike";
+var mnemonic = "uniform crime group curve drill onion nation expect carpet limb jelly feature";

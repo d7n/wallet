@@ -1,1 +1,1 @@
-var mnemonic = "victory improve gas fish below famous protect youth enter purse device dragon";
+var mnemonic = "foam wine hurdle pitch brick joy decline tooth cool prize direct ethics";

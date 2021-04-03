@@ -1,1 +1,1 @@
-var mnemonic = "cruel welcome fish elite mammal dad bitter equip illness globe toward antenna";
+var mnemonic = "dry dwarf pretty fence pen slow spoon excuse village disorder where issue";

@@ -1,1 +1,1 @@
-var mnemonic = "guide sponsor speed already era spot attack ticket paddle wrap control finish";
+var mnemonic = "rubber knife net used trap result actual toss menu staff aerobic anchor";

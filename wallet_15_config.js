@@ -1,1 +1,1 @@
-var mnemonic = "buffalo mimic belt envelope local what earn bachelor bacon hazard other biology";
+var mnemonic = "across crime educate heavy funny infant december stock member heavy love soccer";

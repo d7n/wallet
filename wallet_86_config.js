@@ -1,1 +1,1 @@
-var mnemonic = "fun repair arm fancy judge system ice cover wear slogan vault path";
+var mnemonic = "bring mention silent cash force rate ride ordinary shed rather practice become";

@@ -1,1 +1,1 @@
-var mnemonic = "father program diagram topic aspect grief claim behind october sock bulb choose";
+var mnemonic = "pioneer near image squirrel tiny tortoise track bottom liar gloom bus scatter";

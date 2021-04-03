@@ -1,1 +1,1 @@
-var mnemonic = "jump rack narrow poet soccer robust glow spare else laugh flame era";
+var mnemonic = "crane moon baby toward inject glance surge tomorrow hunt one annual tuna";

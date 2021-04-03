@@ -1,1 +1,1 @@
-var mnemonic = "below pig rule gap tent picnic shallow divert remove concert voyage grab";
+var mnemonic = "ability absurd lift about finish mosquito prevent frame pipe digital dove lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "quick waste talk chef gentle erupt average seminar upper job board man";
+var mnemonic = "sniff afford scare town spatial exclude defy balance black fringe ride delay";

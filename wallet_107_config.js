@@ -1,1 +1,1 @@
-var mnemonic = "raccoon mixture scatter street cradle scorpion resemble near primary color wolf leg";
+var mnemonic = "excuse draft rebel very okay lecture fuel company brain strong walnut basket";

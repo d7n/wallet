@@ -1,1 +1,1 @@
-var mnemonic = "practice panic merry require tree goose fragile state uncover topic deputy deposit";
+var mnemonic = "federal tooth huge observe increase rich deposit slush rebel urge receive prepare";

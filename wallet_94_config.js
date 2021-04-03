@@ -1,1 +1,1 @@
-var mnemonic = "time planet address tank aspect ethics warfare repair crunch faith acquire mask";
+var mnemonic = "entry glory jeans tenant design decide already future fun state neglect pencil";

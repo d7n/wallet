@@ -1,1 +1,1 @@
-var mnemonic = "surface wave insect fitness boring remind welcome hedgehog truth ill close hurry";
+var mnemonic = "category brother dash wine jealous throw light manual knee trap hurt naive";

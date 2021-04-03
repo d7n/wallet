@@ -1,1 +1,1 @@
-var mnemonic = "potato stomach master say tooth ice erosion upon warm cage rural true";
+var mnemonic = "critic sort inflict decline beauty inform way promote dress bachelor scheme skull";

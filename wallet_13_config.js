@@ -1,1 +1,1 @@
-var mnemonic = "nominee melody divide install ridge type rich report exact execute admit local";
+var mnemonic = "pencil domain joy cabin lounge boss warm pottery fine crouch subject bean";

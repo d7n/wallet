@@ -1,1 +1,1 @@
-var mnemonic = "short coyote neck shoot example nature indicate lawn gas delay chair jewel";
+var mnemonic = "crisp web brisk tumble peasant suspect hire layer believe victory enough pencil";

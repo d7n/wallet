@@ -1,1 +1,1 @@
-var mnemonic = "feel medal destroy item chapter clump return job anxiety demise nest season";
+var mnemonic = "naive canoe uncle pumpkin essence guitar sad urge banner also car review";

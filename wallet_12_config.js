@@ -1,1 +1,1 @@
-var mnemonic = "enhance fiction subway egg deer apart odor comfort unusual bless orphan attract";
+var mnemonic = "strong wonder egg meat accuse bargain medal brisk outer narrow surround dumb";
