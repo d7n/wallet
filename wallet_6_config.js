@@ -1,1 +1,1 @@
-var mnemonic = "mercy mule hint recall twin angle seat mystery sock episode session torch";
+var mnemonic = "wish diamond cart benefit prosper scrub cram behind better renew mean upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy fragile index leave dignity estate want wire comfort slide naive fashion";
+var mnemonic = "canyon envelope series alone hand path bracket cost one orchard unveil swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix gasp ready quantum gown jungle ridge cream neither frost toilet vocal";
+var mnemonic = "supply matrix brief between enlist minute zebra winter alley direct firm tissue";

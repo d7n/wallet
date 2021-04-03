@@ -1,1 +1,1 @@
-var mnemonic = "onion snow grunt hub decrease turtle ramp market frog hollow either theme";
+var mnemonic = "sphere danger become power that letter claw approve decrease lion radio broken";

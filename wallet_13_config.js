@@ -1,1 +1,1 @@
-var mnemonic = "country sorry know left nothing grass summer pigeon sponsor unique coin decrease";
+var mnemonic = "step note panic summer bachelor hungry actor announce sadness expose sport sauce";

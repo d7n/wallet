@@ -1,1 +1,1 @@
-var mnemonic = "clock buzz one buddy flower tourist empower primary clap ivory matrix skull";
+var mnemonic = "twelve return monkey sad pair region image menu joke ahead oxygen oblige";

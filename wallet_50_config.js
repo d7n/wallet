@@ -1,1 +1,1 @@
-var mnemonic = "broom stem start barrel asthma picnic blind awful drama satisfy mutual kick";
+var mnemonic = "advance rebel awkward blind december birth fatigue limit setup outside stuff upset";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth sadness version legal autumn inquiry approve prepare oak remain screen leopard";
+var mnemonic = "pen fury screen crop raven junior dial crawl federal quit lawsuit cliff";

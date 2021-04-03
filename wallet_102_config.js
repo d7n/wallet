@@ -1,1 +1,1 @@
-var mnemonic = "exhaust reason festival kiwi try great winter switch ridge winner truly file";
+var mnemonic = "uniform law leader tuna funny magnet exact write slice become alpha rather";

@@ -1,1 +1,1 @@
-var mnemonic = "banana primary decide either matrix select make walnut exile fatigue work mistake";
+var mnemonic = "room payment busy govern head body jar nurse sniff drastic shop bundle";

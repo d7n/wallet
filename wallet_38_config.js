@@ -1,1 +1,1 @@
-var mnemonic = "cement verb someone ride jaguar lamp fortune noise tissue open head cheese";
+var mnemonic = "buyer fluid license dust leave invite sound inspire drop demise eternal october";

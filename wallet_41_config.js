@@ -1,1 +1,1 @@
-var mnemonic = "mask only genius rubber type champion what seek keep leopard develop style";
+var mnemonic = "merry shove credit refuse spin cargo nurse throw camp surround proof cereal";

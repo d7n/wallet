@@ -1,1 +1,1 @@
-var mnemonic = "unaware figure win heavy thought sing tissue target scissors shallow code win";
+var mnemonic = "opera hurry spawn era rare boil turn require dinner foot glove basic";

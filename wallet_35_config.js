@@ -1,1 +1,1 @@
-var mnemonic = "purity vicious shift host vicious fashion valley pact cart coffee diagram era";
+var mnemonic = "suggest example uphold usage myself bargain alpha sunny blush describe attack anchor";

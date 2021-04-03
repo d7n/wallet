@@ -1,1 +1,1 @@
-var mnemonic = "raise miss isolate private lobster insect echo acquire annual addict clog open";
+var mnemonic = "address urge loan afraid boost trumpet obscure vehicle supreme inform maximum more";

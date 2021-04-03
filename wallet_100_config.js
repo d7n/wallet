@@ -1,1 +1,1 @@
-var mnemonic = "adult rebel surround air oak crucial sauce make decorate change month silent";
+var mnemonic = "warfare treat dash excess slogan unable random install cloth dwarf august course";

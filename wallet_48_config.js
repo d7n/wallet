@@ -1,1 +1,1 @@
-var mnemonic = "siege luggage shine naive denial absorb night enact leaf basic slide clerk";
+var mnemonic = "better appear polar deal job humor pull wet lawsuit rate course mean";

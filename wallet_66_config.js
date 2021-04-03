@@ -1,1 +1,1 @@
-var mnemonic = "order kangaroo solar report ramp panda swim seed employ leopard economy hollow";
+var mnemonic = "lens approve affair toe cram wish spring forward sweet clap rigid abstract";

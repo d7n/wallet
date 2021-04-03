@@ -1,1 +1,1 @@
-var mnemonic = "apart year spider depart slice oxygen cart humor collect side wealth connect";
+var mnemonic = "elbow rule runway symbol option grief clean usage total miss enter neglect";

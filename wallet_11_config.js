@@ -1,1 +1,1 @@
-var mnemonic = "crowd garlic armed airport tower scene reflect palace odor enlist hood team";
+var mnemonic = "exit own slot gesture juice security robust follow debate board valve mandate";

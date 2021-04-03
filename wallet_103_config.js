@@ -1,1 +1,1 @@
-var mnemonic = "glue valid actual ethics trust cry matter wish tennis pave pumpkin crush";
+var mnemonic = "lion power river solve only engage thunder pumpkin total equip paper settle";

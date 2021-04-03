@@ -1,1 +1,1 @@
-var mnemonic = "rescue voyage sniff taxi mesh carry hazard pole dress fork divert hammer";
+var mnemonic = "horn garage fun marine leader weasel series party flip retreat arch velvet";

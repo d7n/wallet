@@ -1,1 +1,1 @@
-var mnemonic = "remove net enhance animal depart rural ladder else answer marriage fringe witness";
+var mnemonic = "wheel exotic rude suggest trap gaze warfare pretty trust left absorb demand";

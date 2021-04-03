@@ -1,1 +1,1 @@
-var mnemonic = "they object labor genre width absent february upper song news desk pony";
+var mnemonic = "merge display own struggle enhance silver scout trend easily hood spray mercy";

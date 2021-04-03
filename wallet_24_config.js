@@ -1,1 +1,1 @@
-var mnemonic = "motor orphan hello west dog category harsh affair vanish sausage slide scatter";
+var mnemonic = "salt donate move forest trend enlist pizza smart anger wrong absurd update";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble dragon loud trumpet crater neither file tunnel ketchup taste surround soccer";
+var mnemonic = "club sense friend retreat gas brand cabin oak excuse speak much code";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle worry tenant wheel renew warfare cup clog loud ginger genius lend";
+var mnemonic = "sad vicious icon term flag effort idle motor regular injury reopen disease";

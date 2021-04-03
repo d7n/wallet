@@ -1,1 +1,1 @@
-var mnemonic = "surface now bubble wife crazy turkey hello hat help balcony dune model";
+var mnemonic = "survey genre harbor rain desert fuel course marine feed egg recall trial";

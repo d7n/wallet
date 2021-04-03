@@ -1,1 +1,1 @@
-var mnemonic = "one crumble walnut umbrella series swarm side dumb eight stock crucial length";
+var mnemonic = "metal balcony lamp climb heart lens priority lottery spell grace beef supply";

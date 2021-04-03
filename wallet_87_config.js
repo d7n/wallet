@@ -1,1 +1,1 @@
-var mnemonic = "mixed rhythm fatigue woman thrive ski flag settle sleep ancient family stove";
+var mnemonic = "ecology banana invest solve force oval hood grass wait trap miracle dove";

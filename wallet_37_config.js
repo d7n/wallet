@@ -1,1 +1,1 @@
-var mnemonic = "unveil run response junk stove return suit debris aim slot library able";
+var mnemonic = "capital mistake hold pencil legend violin patch cancel unlock quick trap large";

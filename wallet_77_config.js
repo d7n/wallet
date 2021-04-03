@@ -1,1 +1,1 @@
-var mnemonic = "echo pass cancel biology lawn exit sphere twelve hour car trend stereo";
+var mnemonic = "allow explain mirror square mammal lumber dish trip mean title wrist occur";

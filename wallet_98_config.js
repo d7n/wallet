@@ -1,1 +1,1 @@
-var mnemonic = "fortune album world release picture what hover foster stand trophy crawl pulse";
+var mnemonic = "goose soap spirit era ankle cotton siege enroll lounge only soft want";

@@ -1,1 +1,1 @@
-var mnemonic = "barely mixture excuse dove grit goddess option tube kid dog powder solve";
+var mnemonic = "estate select owner develop announce pencil melody desert order lyrics cross garden";

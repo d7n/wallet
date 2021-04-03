@@ -1,1 +1,1 @@
-var mnemonic = "push woman jeans regular hotel mixed inject lion doll cost vapor unaware";
+var mnemonic = "cricket smooth group parent whip advice fashion cluster day extend program select";

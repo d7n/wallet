@@ -1,1 +1,1 @@
-var mnemonic = "hen canyon pride depth tree fade trade top loan orbit right swear";
+var mnemonic = "banner material initial discover fitness antenna please note tower certain lawn receive";

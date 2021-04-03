@@ -1,1 +1,1 @@
-var mnemonic = "know daughter cover space rival delay hand social menu ship noise nerve";
+var mnemonic = "latin hybrid resource subway input curtain bus dawn bullet cabin flock menu";

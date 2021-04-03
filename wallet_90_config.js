@@ -1,1 +1,1 @@
-var mnemonic = "fetch food matter tiger job fringe broom recycle citizen fancy cigar divide";
+var mnemonic = "tragic crunch mutual faint bachelor snake diagram already kiss leader adjust civil";

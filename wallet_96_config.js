@@ -1,1 +1,1 @@
-var mnemonic = "enrich soon robust october obey chicken monster pluck cloud explain echo chaos";
+var mnemonic = "pistol move two peace damp chef tired squirrel genuine twenty alone warrior";

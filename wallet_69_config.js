@@ -1,1 +1,1 @@
-var mnemonic = "will calm march scorpion green extra beach border bundle female cause solid";
+var mnemonic = "must manage impact inherit indoor rug crater movie vintage dance sorry calm";

@@ -1,1 +1,1 @@
-var mnemonic = "raw bitter cool right style eye orchard penalty good where crash guard";
+var mnemonic = "age verify amateur exotic parent actor merit clinic silver scrub depart social";

@@ -1,1 +1,1 @@
-var mnemonic = "evil clever reason purity universe reveal analyst lonely exhibit teach grunt entry";
+var mnemonic = "view today sorry limit bus quiz urban chef voice hospital hawk later";

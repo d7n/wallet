@@ -1,1 +1,1 @@
-var mnemonic = "sadness giant obscure exhaust cancel bind mammal confirm fluid episode spray ketchup";
+var mnemonic = "layer visa aware okay taxi siege glow six what edge east route";

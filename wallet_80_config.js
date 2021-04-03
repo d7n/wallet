@@ -1,1 +1,1 @@
-var mnemonic = "small ski marine design shock issue naive enroll proof cloud gentle wasp";
+var mnemonic = "vacant tunnel boring right nerve rebel toilet wear document hurt such cry";

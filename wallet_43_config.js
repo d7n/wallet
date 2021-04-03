@@ -1,1 +1,1 @@
-var mnemonic = "vivid craft donor village good organ fiscal dove gain spider hair bomb";
+var mnemonic = "lady spice dog catalog cigar learn sign hamster choose oval erase disagree";

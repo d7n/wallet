@@ -1,1 +1,1 @@
-var mnemonic = "rug park garment tuition assume body vehicle another extra planet pumpkin direct";
+var mnemonic = "minimum ghost clown glide share month ski august flag sauce property elephant";

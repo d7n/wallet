@@ -1,1 +1,1 @@
-var mnemonic = "allow you burst bridge detail toward casual lion drama scrub faint offer";
+var mnemonic = "session digital fiction grocery pepper suffer bulb album degree monster keep boy";

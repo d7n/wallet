@@ -1,1 +1,1 @@
-var mnemonic = "shrug raise pair whisper maze actor destroy cattle drift galaxy kiwi blossom";
+var mnemonic = "picnic option else ticket option patch salon glue tuna index muscle sausage";

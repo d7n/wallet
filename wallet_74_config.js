@@ -1,1 +1,1 @@
-var mnemonic = "silk again olympic honey casual master estate opinion fatigue enemy fan icon";
+var mnemonic = "snap father paddle scissors tilt oxygen salmon loud sure swap sausage ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf distance cliff tank toss sight stamp certain vast office giggle say";
+var mnemonic = "word always enlist sword demise sadness diet undo suffer shove canyon bean";

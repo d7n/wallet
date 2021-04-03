@@ -1,1 +1,1 @@
-var mnemonic = "illegal myth riot lab mobile master gravity start silk apart pipe expand";
+var mnemonic = "outdoor margin fragile pizza attack cave wink pyramid anger stem city subway";

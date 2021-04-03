@@ -1,1 +1,1 @@
-var mnemonic = "drop evolve stadium bullet galaxy brother float artist wife fatal snap giant";
+var mnemonic = "soccer face daring inside snake illness mixed imitate way perfect visual lamp";

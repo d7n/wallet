@@ -1,1 +1,1 @@
-var mnemonic = "cry custom flee auto spare author middle naive primary bronze acoustic surround";
+var mnemonic = "review leaf jacket decrease alley urge gesture reject engine swamp avoid galaxy";

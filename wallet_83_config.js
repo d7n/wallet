@@ -1,1 +1,1 @@
-var mnemonic = "fall shadow laundry neglect drop awkward survey husband present toward used autumn";
+var mnemonic = "ice biology cricket kingdom budget seat save menu spider trial elevator proof";

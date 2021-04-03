@@ -1,1 +1,1 @@
-var mnemonic = "napkin rough tip shop before spring reduce party mistake strong cause alpha";
+var mnemonic = "fade caution arrange earth rebel kite inflict space blush tomorrow element resist";

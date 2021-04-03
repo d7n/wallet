@@ -1,1 +1,1 @@
-var mnemonic = "few window journey wash obscure duck idea blood result elbow earth winner";
+var mnemonic = "post carbon devote canvas fiscal damp risk total senior bundle catalog lift";

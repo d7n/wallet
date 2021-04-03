@@ -1,1 +1,1 @@
-var mnemonic = "egg vital rice there typical anxiety electric word cruise wave category alone";
+var mnemonic = "slab tourist have opera unknown they cycle spring wheat load below armed";

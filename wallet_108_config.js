@@ -1,1 +1,1 @@
-var mnemonic = "skin early move cupboard funny come poverty winner autumn park range seek";
+var mnemonic = "alarm injury author juice arrange yard rib thought usage suggest confirm economy";

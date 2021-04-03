@@ -1,1 +1,1 @@
-var mnemonic = "oval mind orchard dirt shift pole drift banana market basket slam anger";
+var mnemonic = "short juice beef rose purchase domain happy copper space lizard shop left";

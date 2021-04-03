@@ -1,1 +1,1 @@
-var mnemonic = "sight grab immense wrist theory finish fame shop wrong carbon bulb note";
+var mnemonic = "scatter drift banana black shallow column lecture oil clown true rubber december";

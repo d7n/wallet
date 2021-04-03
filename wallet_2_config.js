@@ -1,1 +1,1 @@
-var mnemonic = "man always silent primary pizza civil onion twenty arctic layer dice frozen";
+var mnemonic = "leopard shift check obtain stage duck film can crash stem quantum object";

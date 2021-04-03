@@ -1,1 +1,1 @@
-var mnemonic = "pen tumble theme cement aware horse vivid online symptom easily ensure brain";
+var mnemonic = "link pride message luxury pond stairs there dry buddy lizard dynamic own";

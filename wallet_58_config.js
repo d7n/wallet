@@ -1,1 +1,1 @@
-var mnemonic = "settle bar black size future fiber race cactus maze anchor heavy exotic";
+var mnemonic = "vivid winter bargain vendor turn panda enable chaos kitchen oak buddy lift";

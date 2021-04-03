@@ -1,1 +1,1 @@
-var mnemonic = "picnic clown police soul purity pluck hour draft dog age become famous";
+var mnemonic = "zone best polar embrace remind match ethics limb journey soft pact crew";

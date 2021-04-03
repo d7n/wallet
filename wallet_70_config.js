@@ -1,1 +1,1 @@
-var mnemonic = "network angle crisp dial fork absent merit today report measure energy beauty";
+var mnemonic = "sense write fresh stock awkward logic brother federal route abandon town author";

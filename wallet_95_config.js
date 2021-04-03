@@ -1,1 +1,1 @@
-var mnemonic = "volume burst image burden easily second horn arm album melody diet speak";
+var mnemonic = "rule kiwi nest swear green poet outer puppy burger special abstract symptom";

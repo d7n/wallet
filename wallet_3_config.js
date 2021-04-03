@@ -1,1 +1,1 @@
-var mnemonic = "wasp name rabbit problem flavor walk else practice frame noble clarify turn";
+var mnemonic = "nut abandon discover height rigid ecology power this swift sting bar vivid";

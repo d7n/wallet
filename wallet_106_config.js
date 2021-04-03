@@ -1,1 +1,1 @@
-var mnemonic = "frown owner erosion coffee cute whisper result neck actual error fun beyond";
+var mnemonic = "there seek body miracle giggle purity roast room elder response fee core";

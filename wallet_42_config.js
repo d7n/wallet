@@ -1,1 +1,1 @@
-var mnemonic = "term surround stomach tent solve wealth ticket usage winner armed neutral taste";
+var mnemonic = "age crop comic winter candy then neutral salt someone garlic coffee convince";

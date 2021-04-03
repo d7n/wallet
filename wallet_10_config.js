@@ -1,1 +1,1 @@
-var mnemonic = "online acoustic coffee resource help vehicle clog swallow leopard useless essence purchase";
+var mnemonic = "cat aware polar anxiety roof prosper setup manual upgrade toy emerge bid";

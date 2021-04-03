@@ -1,1 +1,1 @@
-var mnemonic = "feel load melt defy hard dolphin garden glad illegal accuse intact broken";
+var mnemonic = "club estate obvious fiscal monster radar agent depart pair ghost cupboard rich";

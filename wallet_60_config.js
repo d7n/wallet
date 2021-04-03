@@ -1,1 +1,1 @@
-var mnemonic = "salt appear opera candy note hollow social human two indicate proof kick";
+var mnemonic = "equip essay turn office size coach vocal peace employ mechanic already meadow";

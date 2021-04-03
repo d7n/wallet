@@ -1,1 +1,1 @@
-var mnemonic = "can business chunk sea ask success robot menu service evidence patrol item";
+var mnemonic = "asset tower wisdom easy weekend lock robust hen limb magnet ice fiction";

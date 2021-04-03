@@ -1,1 +1,1 @@
-var mnemonic = "scare stool depth steak diagram resource hard hip pact seed among leopard";
+var mnemonic = "dream unique machine fruit eyebrow pull umbrella put session injury reform fat";

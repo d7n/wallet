@@ -1,1 +1,1 @@
-var mnemonic = "such noise tray reveal decade kid express tag pledge brain room hole";
+var mnemonic = "width riot omit direct bridge assist put critic phone riot once muscle";

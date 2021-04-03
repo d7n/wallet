@@ -1,1 +1,1 @@
-var mnemonic = "ball universe math elder fruit eyebrow design north mobile harbor regular cage";
+var mnemonic = "crane liberty solid chicken advance shrimp potato carpet dove fork method almost";

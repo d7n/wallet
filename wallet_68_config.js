@@ -1,1 +1,1 @@
-var mnemonic = "barely scorpion float mad tongue snow mad mercy pear whip amazing famous";
+var mnemonic = "shell purity face dry about price monitor subway brick reveal scorpion one";

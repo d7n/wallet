@@ -1,1 +1,1 @@
-var mnemonic = "school bless science engage present wheat travel snow sunset mountain notice web";
+var mnemonic = "throw faint ocean shy found captain nominee notable attend educate gain town";

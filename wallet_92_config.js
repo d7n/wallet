@@ -1,1 +1,1 @@
-var mnemonic = "uncle echo taxi undo swift assist abuse spider hover hotel stairs crumble";
+var mnemonic = "legal cricket spread wink enable expect mother legal advance squeeze monster shadow";

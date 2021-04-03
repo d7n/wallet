@@ -1,1 +1,1 @@
-var mnemonic = "any average loan panel sauce cake style alley unveil shoot saddle heavy";
+var mnemonic = "luggage stuff inner giggle critic upon object theme air comfort panther area";

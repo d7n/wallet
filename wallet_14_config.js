@@ -1,1 +1,1 @@
-var mnemonic = "copper kind wait series night crane supply october pill obtain pact blast";
+var mnemonic = "radar bamboo volume opera drift rail green bubble tone trip unveil above";

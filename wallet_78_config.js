@@ -1,1 +1,1 @@
-var mnemonic = "lobster more visual sponsor creek property pair session dynamic wedding install merge";
+var mnemonic = "junk leader balance spice isolate flash bamboo wrong grow crazy romance shoot";

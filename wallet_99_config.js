@@ -1,1 +1,1 @@
-var mnemonic = "foster effort sense cruise ball orange venture damage need build remember junk";
+var mnemonic = "crouch leave input memory rail grunt coral swallow galaxy sentence eager hotel";

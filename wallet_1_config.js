@@ -1,1 +1,1 @@
-var mnemonic = "inch lake crime trim surprise dignity easily custom rail lumber bus daughter";
+var mnemonic = "purity omit park angle cat emotion around nurse pencil deal wool course";

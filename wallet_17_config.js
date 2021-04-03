@@ -1,1 +1,1 @@
-var mnemonic = "economy life garlic ask decade speed wash vocal cloud success lonely odor";
+var mnemonic = "rifle dad twist disagree judge tilt demand border battle ocean battle defy";

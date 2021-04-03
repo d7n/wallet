@@ -1,1 +1,1 @@
-var mnemonic = "simple across cruise labor grocery gown point edge start mass pyramid royal";
+var mnemonic = "gallery crack core physical spoil near advice shock eight possible kingdom oval";

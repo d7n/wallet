@@ -1,1 +1,1 @@
-var mnemonic = "cover wrestle output hospital click detail settle foam camera dance brown ribbon";
+var mnemonic = "cool catch auction expose clip foam attend violin dish normal feed maple";

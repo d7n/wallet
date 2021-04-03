@@ -1,1 +1,1 @@
-var mnemonic = "seminar run unveil pond main yard forest innocent there invite disorder artefact";
+var mnemonic = "edge civil negative exit found element combine else layer damage juice panther";

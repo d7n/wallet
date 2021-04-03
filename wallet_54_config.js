@@ -1,1 +1,1 @@
-var mnemonic = "also rug uncle lens wise faith gauge voyage great buzz wagon night";
+var mnemonic = "cross neck syrup position sauce sheriff seat manage liberty cheese team winter";
