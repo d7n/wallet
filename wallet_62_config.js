@@ -1,1 +1,1 @@
-var mnemonic = "egg upgrade broom whip valley job stomach iron fish mixture hospital pond";
+var mnemonic = "original fan illegal cluster truly scale fresh govern violin cake analyst learn";

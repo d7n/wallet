@@ -1,1 +1,1 @@
-var mnemonic = "monitor found imitate glove type hard robust zebra slam someone betray skate";
+var mnemonic = "twist swing dwarf boost ginger nest crash inflict crack various stone motion";

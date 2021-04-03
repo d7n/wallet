@@ -1,1 +1,1 @@
-var mnemonic = "garlic radio palm eternal gospel celery squeeze patch evoke day globe reveal";
+var mnemonic = "worry water coyote nose kingdom birth valley brisk elbow lady poet dumb";

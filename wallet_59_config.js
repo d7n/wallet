@@ -1,1 +1,1 @@
-var mnemonic = "slow sign borrow ethics reason follow matter universe chicken atom match knock";
+var mnemonic = "crater fiber unit settle dolphin update lunar torch mercy goddess sugar increase";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel wonder wonder humor arrive quit choose adapt tornado can word swear";
+var mnemonic = "property seat garlic inject expect album before time model hip hidden puppy";

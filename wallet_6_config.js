@@ -1,1 +1,1 @@
-var mnemonic = "draft enrich monster square now crazy sword canvas suit glare lucky produce";
+var mnemonic = "title emerge random smile poet dynamic patrol nominee twice either confirm scorpion";

@@ -1,1 +1,1 @@
-var mnemonic = "surge know hawk curtain door broken skill wild radio ugly throw sea";
+var mnemonic = "much broccoli spawn fuel source sudden talk valley ball swarm rate disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "swift slide cable large trash zebra talk endorse odor museum thing embark";
+var mnemonic = "outdoor zebra sound toy rescue shadow steak boil scene wink unfold dirt";

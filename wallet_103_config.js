@@ -1,1 +1,1 @@
-var mnemonic = "fuel traffic act sunny fault wolf green whisper bright cube expose vehicle";
+var mnemonic = "actor solve come eagle fashion define quick page chair arrive man liar";

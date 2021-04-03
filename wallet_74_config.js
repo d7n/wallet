@@ -1,1 +1,1 @@
-var mnemonic = "company drastic now tip blue rely minor carbon bus breeze border ritual";
+var mnemonic = "escape change miracle feed tortoise uncover daughter term bone fit canoe artist";

@@ -1,1 +1,1 @@
-var mnemonic = "word auto legend desk mean melt output copy crop buffalo route scout";
+var mnemonic = "case team neglect glad club turkey green action final few garbage trend";

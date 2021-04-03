@@ -1,1 +1,1 @@
-var mnemonic = "east typical dad muscle reform upset skin whisper pattern canal tube slush";
+var mnemonic = "when buzz segment afford warm glad fetch update uphold sting ordinary holiday";

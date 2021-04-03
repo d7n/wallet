@@ -1,1 +1,1 @@
-var mnemonic = "sort pudding this during win glue easy scare inherit risk clarify tongue";
+var mnemonic = "swift list foot earth exist proof surprise crash design pledge fall salad";

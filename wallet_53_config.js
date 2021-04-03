@@ -1,1 +1,1 @@
-var mnemonic = "mass record earn six shift scrap drop pull service come try kitchen";
+var mnemonic = "supreme perfect stairs lake fire steel judge punch sponsor capable today merge";

@@ -1,1 +1,1 @@
-var mnemonic = "husband fine window gesture initial hover six forward yellow battle habit oblige";
+var mnemonic = "square label together bulb floor essence spot hurdle payment shell drama iron";

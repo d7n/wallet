@@ -1,1 +1,1 @@
-var mnemonic = "exhaust stereo hundred permit defense effort paper velvet novel pole angry spare";
+var mnemonic = "dress pulse hunt trigger hazard silver hand crystal plunge attack flash slow";

@@ -1,1 +1,1 @@
-var mnemonic = "solve abstract ivory pave kangaroo blouse mask rice modify prize grace rhythm";
+var mnemonic = "increase error eyebrow club slim toward present wheat donor enable assist arrange";

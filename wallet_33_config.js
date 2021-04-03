@@ -1,1 +1,1 @@
-var mnemonic = "cake glow river reason staff peasant dawn ranch boy negative sudden position";
+var mnemonic = "tuna friend enlist minor pelican flat spy about future antique demand update";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle source later like clown middle gorilla learn castle oven version glue";
+var mnemonic = "very mother mango noble reduce venture sense keep convince come lunar menu";

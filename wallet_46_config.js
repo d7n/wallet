@@ -1,1 +1,1 @@
-var mnemonic = "daring mixed result wealth immune crucial retire head predict hollow bus brush";
+var mnemonic = "price video next cliff smile right shed short warm movie fog rubber";

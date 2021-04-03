@@ -1,1 +1,1 @@
-var mnemonic = "special cigar bounce wall square finger owner coral reduce toward cloud just";
+var mnemonic = "bicycle gossip island boring devote food lake diamond bird weird suggest sudden";

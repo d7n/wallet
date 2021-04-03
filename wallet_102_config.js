@@ -1,1 +1,1 @@
-var mnemonic = "mandate exist faith tortoise diamond already firm sunset teach basic viable bounce";
+var mnemonic = "arrest verify chef because obvious option utility sibling unit acid catalog tonight";

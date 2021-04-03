@@ -1,1 +1,1 @@
-var mnemonic = "garbage spend hold call rule garage daughter reveal diamond axis govern dinosaur";
+var mnemonic = "huge congress play maximum move inch rocket trouble type title sniff few";

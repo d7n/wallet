@@ -1,1 +1,1 @@
-var mnemonic = "attend level athlete consider grocery pulse flip stumble menu baby hurdle spread";
+var mnemonic = "tonight meat voyage dream wear patrol jelly lumber orchard ball tortoise family";

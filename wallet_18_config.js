@@ -1,1 +1,1 @@
-var mnemonic = "sniff soccer creek cargo casino gold law recipe pistol bounce menu puzzle";
+var mnemonic = "pave stomach donkey palm stick route master inch raccoon payment merry action";

@@ -1,1 +1,1 @@
-var mnemonic = "october price summer country space load embark head clown future faint drop";
+var mnemonic = "mesh shrug tooth scene mechanic meadow nation repeat rather visual frequent fish";

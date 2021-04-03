@@ -1,1 +1,1 @@
-var mnemonic = "harbor dove scan image drum cover spawn cost this bonus regret creek";
+var mnemonic = "fix april board ketchup scout able veteran book awesome behind afford fault";

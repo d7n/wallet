@@ -1,1 +1,1 @@
-var mnemonic = "million wild hub rebuild gospel issue sun celery cloud twelve hurdle race";
+var mnemonic = "ride negative ladder cook midnight isolate hundred then goose pitch strong swear";

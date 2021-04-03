@@ -1,1 +1,1 @@
-var mnemonic = "scrub time female canoe inject suffer school beauty ugly demise cupboard flip";
+var mnemonic = "chaos example adjust force fever shallow clock mimic fly tell abstract guess";

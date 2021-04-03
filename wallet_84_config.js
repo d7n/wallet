@@ -1,1 +1,1 @@
-var mnemonic = "yellow loan business language twin disease man item crater code super outer";
+var mnemonic = "close skill right spoil barrel topple august subject nominee drama doctor fortune";

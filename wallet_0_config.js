@@ -1,1 +1,1 @@
-var mnemonic = "strike door have hamster squirrel appear wood spray season group tomorrow voyage";
+var mnemonic = "hen depend include humor portion trumpet ripple eternal napkin lock coast special";

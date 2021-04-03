@@ -1,1 +1,1 @@
-var mnemonic = "spider desert oppose lesson sort helmet crack admit when wheel club mechanic";
+var mnemonic = "decade review seed field length alien creek safe fever giant exist render";

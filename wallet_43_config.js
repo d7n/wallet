@@ -1,1 +1,1 @@
-var mnemonic = "beach wife north bench ocean course depth carpet asset attack emerge practice";
+var mnemonic = "access wear cargo oil sword virus parrot announce daring subway gown elevator";

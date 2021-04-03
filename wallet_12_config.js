@@ -1,1 +1,1 @@
-var mnemonic = "demise obey cat lawsuit guard piece hair property ocean left peanut furnace";
+var mnemonic = "source brass throw day melt main denial leaf math nurse traffic film";

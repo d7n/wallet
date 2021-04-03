@@ -1,1 +1,1 @@
-var mnemonic = "dragon trap issue cause cement roof scatter easily fish wool dust hello";
+var mnemonic = "mystery taxi beef arrive system smart marble despair leopard connect release enrich";

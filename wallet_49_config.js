@@ -1,1 +1,1 @@
-var mnemonic = "gym charge debris goat common fossil quote hero forward lizard item rural";
+var mnemonic = "purpose excuse day rigid stadium tired apology easily first genius void garlic";

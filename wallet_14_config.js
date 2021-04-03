@@ -1,1 +1,1 @@
-var mnemonic = "twenty picture afford upon okay inmate win wage bid seven limb bargain";
+var mnemonic = "actual antique gadget time main patrol again enough member park enlist middle";

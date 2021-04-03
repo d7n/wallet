@@ -1,1 +1,1 @@
-var mnemonic = "wet resist rail cause quantum nest garlic smile antenna engage document few";
+var mnemonic = "choose must lend equal witness fiction bid unknown wealth ice pyramid wrist";

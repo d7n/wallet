@@ -1,1 +1,1 @@
-var mnemonic = "travel slender pencil robot attract meadow anchor asthma filter orient vendor hobby";
+var mnemonic = "outer replace peanut dilemma skull labor news ready pear blanket direct liquid";

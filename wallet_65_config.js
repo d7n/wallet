@@ -1,1 +1,1 @@
-var mnemonic = "grief century fit movie dignity swing job congress cube wreck borrow mandate";
+var mnemonic = "cute current tape excess young source left logic lobster dream holiday venture";

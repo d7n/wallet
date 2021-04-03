@@ -1,1 +1,1 @@
-var mnemonic = "rack million movie trap shiver inject robot benefit awesome man large egg";
+var mnemonic = "letter arena crash muscle pyramid dust road rural enforce shove double metal";

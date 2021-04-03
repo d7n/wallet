@@ -1,1 +1,1 @@
-var mnemonic = "festival talent impact flavor peace danger predict leader measure alien minor miss";
+var mnemonic = "capital kick olympic ridge exact option stable chase success fold usual forest";

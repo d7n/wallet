@@ -1,1 +1,1 @@
-var mnemonic = "helmet type cricket march talent volcano truly play voice snow crop follow";
+var mnemonic = "danger black conduct secret pioneer dizzy kingdom glimpse virus around unfair camera";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace screen foot congress absent bomb mind trophy box recipe laundry clay";
+var mnemonic = "clock visa celery trip donor spoil acquire custom grain outer dumb obtain";

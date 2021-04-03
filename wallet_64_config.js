@@ -1,1 +1,1 @@
-var mnemonic = "virus cry body web relax prison coconut step oppose area accuse current";
+var mnemonic = "safe extend hour panic elbow song endorse level divert destroy token update";

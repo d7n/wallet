@@ -1,1 +1,1 @@
-var mnemonic = "galaxy symbol ridge problem island advice position turn monster define flame blood";
+var mnemonic = "drama join resist shove ask initial cheap fluid cable movie sleep duck";

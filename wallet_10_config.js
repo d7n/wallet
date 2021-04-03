@@ -1,1 +1,1 @@
-var mnemonic = "weather float abstract exhibit cream math viable knock style oyster fragile soon";
+var mnemonic = "lyrics spirit remind burden roof antenna decline pupil local when popular nephew";

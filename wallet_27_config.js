@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin defy cherry unfair often ten bitter truly first wagon old smart";
+var mnemonic = "maximum peanut erosion mystery eager local game wall nothing anchor melt suit";

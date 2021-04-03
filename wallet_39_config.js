@@ -1,1 +1,1 @@
-var mnemonic = "empty hard color staff hedgehog amused desk banner typical portion maze man";
+var mnemonic = "alert voice beauty weasel mother erosion genre stumble setup purchase town depend";

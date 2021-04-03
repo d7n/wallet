@@ -1,1 +1,1 @@
-var mnemonic = "erase comic ripple pluck quick hundred endless hamster false rabbit delay trigger";
+var mnemonic = "present path elegant elder legend sugar amused ride minute intact saddle acoustic";

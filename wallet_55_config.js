@@ -1,1 +1,1 @@
-var mnemonic = "artwork summer notable raccoon acquire depend true young stock point nest vacant";
+var mnemonic = "stumble chunk damage unknown canal act spin fall letter jealous west fatigue";

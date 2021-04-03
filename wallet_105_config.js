@@ -1,1 +1,1 @@
-var mnemonic = "first long bag good combine debate fall pulp elite exit already sad";
+var mnemonic = "happy oven tube fruit arrive noble garbage dune enhance potato knife cute";

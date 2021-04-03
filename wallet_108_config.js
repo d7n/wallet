@@ -1,1 +1,1 @@
-var mnemonic = "talk ivory bubble act lounge slush coral awake ticket purse erase opinion";
+var mnemonic = "squirrel rough scatter cattle second develop border crash language actress impulse bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "urge absorb degree admit note rubber pulse cry milk couple wall crowd";
+var mnemonic = "radio web moral soccer hobby brief stick gloom cannon door entry lonely";

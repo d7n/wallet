@@ -1,1 +1,1 @@
-var mnemonic = "clinic vicious since volume artwork valve clay upper silver tenant need tennis";
+var mnemonic = "rebel crowd cube chapter since soccer fog olympic soup renew paper basic";

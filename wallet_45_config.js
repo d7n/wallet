@@ -1,1 +1,1 @@
-var mnemonic = "random maple hamster sponsor grant oak tree guilt chronic region ignore execute";
+var mnemonic = "yellow category puzzle someone ladder amused copper notice enemy cube spot gospel";

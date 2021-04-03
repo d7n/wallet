@@ -1,1 +1,1 @@
-var mnemonic = "luxury shuffle party unfair mother elevator churn lucky boost electric diesel explain";
+var mnemonic = "egg tent mandate grape arena orchard soup fresh dragon wealth session drastic";

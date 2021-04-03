@@ -1,1 +1,1 @@
-var mnemonic = "memory gospel toward borrow guilt ostrich expire aware unhappy much puzzle mixed";
+var mnemonic = "flat hire siege wool tank quick rapid vessel habit attitude tragic point";

@@ -1,1 +1,1 @@
-var mnemonic = "choose job review deposit round brick run slight sheriff machine pride cat";
+var mnemonic = "render tissue eyebrow flee obscure token entire speak inside final wish combine";

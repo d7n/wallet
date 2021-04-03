@@ -1,1 +1,1 @@
-var mnemonic = "mask live brass record debate frog stool fiction bachelor erupt insane shift";
+var mnemonic = "fit bunker suit lonely sting attack bulk ramp initial praise label trend";

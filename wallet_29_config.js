@@ -1,1 +1,1 @@
-var mnemonic = "cry treat lunch now cargo bronze whale receive stage giraffe input hard";
+var mnemonic = "switch bus giggle detect gate behave juice lens hammer nice decade ship";

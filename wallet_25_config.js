@@ -1,1 +1,1 @@
-var mnemonic = "regret club image hand pyramid false afraid host click can trial cool";
+var mnemonic = "valley gesture black bulb autumn welcome diary essay bean dune unable fat";

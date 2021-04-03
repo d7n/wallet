@@ -1,1 +1,1 @@
-var mnemonic = "fee swamp dad shed peace credit brave hope ship off unit unveil";
+var mnemonic = "shrug century bench rifle moment wrap hill pear nut problem soccer quarter";

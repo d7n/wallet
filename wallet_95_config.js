@@ -1,1 +1,1 @@
-var mnemonic = "finish suit art license forest excess together essay oil olive notable illness";
+var mnemonic = "holiday increase try immune insane surge inspire amused scale then eyebrow access";

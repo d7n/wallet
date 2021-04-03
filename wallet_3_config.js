@@ -1,1 +1,1 @@
-var mnemonic = "embody where someone dismiss lawsuit culture appear reward inspire spare essay actress";
+var mnemonic = "hockey radio spin gallery tenant barely summer green waste ladder cheese stay";

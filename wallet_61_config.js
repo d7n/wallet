@@ -1,1 +1,1 @@
-var mnemonic = "retire expire side way elegant trust face spice atom carpet surge question";
+var mnemonic = "marriage input shrimp treat short baby turtle forward scatter topic clay scrub";

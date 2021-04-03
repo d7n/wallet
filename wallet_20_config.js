@@ -1,1 +1,1 @@
-var mnemonic = "tomato tomorrow cash turkey turtle huge invest reward soap moral curtain dad";
+var mnemonic = "ride undo jealous frequent notice fresh east bomb clever below cement maple";

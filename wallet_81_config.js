@@ -1,1 +1,1 @@
-var mnemonic = "mutual tattoo soon gallery lady shuffle forest nation rain poet topic leader";
+var mnemonic = "lumber scene enrich surge glad buffalo chat census pencil ripple gown service";

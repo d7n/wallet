@@ -1,1 +1,1 @@
-var mnemonic = "assault below bargain thunder trial essay analyst control chimney wild lion exercise";
+var mnemonic = "science story rural oblige kick talk fence eight disease scatter salon timber";

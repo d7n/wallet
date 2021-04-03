@@ -1,1 +1,1 @@
-var mnemonic = "cable desert walk ribbon dash carpet exile dress erase vicious also tornado";
+var mnemonic = "begin balcony remove sell protect blind slide page faculty sure dice novel";

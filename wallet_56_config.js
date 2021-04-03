@@ -1,1 +1,1 @@
-var mnemonic = "excess property more vacuum jungle fossil broccoli exact stick wire axis mushroom";
+var mnemonic = "surround pigeon present flat mouse renew brown sea load replace olympic pear";

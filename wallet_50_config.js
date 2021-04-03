@@ -1,1 +1,1 @@
-var mnemonic = "act try resist ramp hospital banana wife priority length trouble earn dinner";
+var mnemonic = "canvas style betray ten mandate math wrestle found reform arrive multiply animal";

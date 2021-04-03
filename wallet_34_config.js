@@ -1,1 +1,1 @@
-var mnemonic = "math build issue urban stuff notable extend swallow aspect fossil vacant surge";
+var mnemonic = "lyrics obscure drive jacket dinosaur myth ability spare wish rocket bullet property";

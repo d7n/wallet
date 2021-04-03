@@ -1,1 +1,1 @@
-var mnemonic = "erode fold bone spice phrase below surface radar photo foot remind type";
+var mnemonic = "thunder mystery embark wheel canoe aerobic east fever scheme blue naive very";

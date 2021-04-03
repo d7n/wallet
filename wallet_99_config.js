@@ -1,1 +1,1 @@
-var mnemonic = "pencil choice eye game jeans visit clarify resource merry travel divert sentence";
+var mnemonic = "struggle amount car confirm ladder bonus matter silk venue shield settle achieve";

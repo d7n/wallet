@@ -1,1 +1,1 @@
-var mnemonic = "sock purchase heavy way depth merit mean cross pole budget cart slide";
+var mnemonic = "nature gesture sample unknown divorce term hope boring segment size heart into";

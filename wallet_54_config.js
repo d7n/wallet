@@ -1,1 +1,1 @@
-var mnemonic = "employ space property donate bamboo false crime near cart toy farm clock";
+var mnemonic = "ecology axis first track october front option clap ignore wet require cool";

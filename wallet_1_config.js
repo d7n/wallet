@@ -1,1 +1,1 @@
-var mnemonic = "rebel stay palm moon hobby peasant escape huge drastic mango wage wealth";
+var mnemonic = "fit else drill cement slight wage ball sick unable forward aerobic enact";

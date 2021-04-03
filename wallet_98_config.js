@@ -1,1 +1,1 @@
-var mnemonic = "spoil trophy amused match fat laundry rubber whisper hungry physical survey infant";
+var mnemonic = "south smart project country small harbor security tank rescue will follow decide";

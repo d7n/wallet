@@ -1,1 +1,1 @@
-var mnemonic = "orchard gesture squirrel settle mountain lemon knock verify marine video decline dignity";
+var mnemonic = "delay eight manage plug patrol follow journey leopard describe firm brother debris";

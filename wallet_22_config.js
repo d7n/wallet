@@ -1,1 +1,1 @@
-var mnemonic = "reopen twenty faint joke film evoke pumpkin retire west float gaze draft";
+var mnemonic = "advice elder fuel clock more supreme smart bleak float slim sunset broccoli";

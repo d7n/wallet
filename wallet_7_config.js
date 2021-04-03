@@ -1,1 +1,1 @@
-var mnemonic = "crucial elbow dial depend legal boost capital arctic infant shuffle pizza notable";
+var mnemonic = "good always front unfold minor peace reunion creek pattern around congress tube";

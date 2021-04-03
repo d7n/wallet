@@ -1,1 +1,1 @@
-var mnemonic = "clinic patch seat black hood hen exist world cluster glass bleak buffalo";
+var mnemonic = "virus crouch glass actual balcony genius tag wish gloom host once success";
