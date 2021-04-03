@@ -1,1 +1,1 @@
-var mnemonic = "dizzy violin man cross novel live together defense renew disorder limb primary";
+var mnemonic = "festival trouble level cover feature traffic afraid such general mutual atom adapt";

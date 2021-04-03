@@ -1,1 +1,1 @@
-var mnemonic = "brown remove endorse loop between acoustic nation battle infant emotion wink energy";
+var mnemonic = "affair soccer strike invest you tuition timber twenty author fade plug reopen";

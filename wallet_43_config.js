@@ -1,1 +1,1 @@
-var mnemonic = "birth cliff style element coyote help submit only honey guess result crew";
+var mnemonic = "lyrics vivid smooth lucky nurse butter bid crater plunge physical stomach legend";

@@ -1,1 +1,1 @@
-var mnemonic = "guide farm stomach you plunge tired onion emotion powder quarter gun wedding";
+var mnemonic = "absurd million sadness flower mosquito figure asthma depend stumble fever wrap session";

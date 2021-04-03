@@ -1,1 +1,1 @@
-var mnemonic = "advice blade need slot seek strong cancel soda jewel world tribe mixed";
+var mnemonic = "have pelican curious denial depart novel cream salmon when slender apology ski";

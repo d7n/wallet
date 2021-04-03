@@ -1,1 +1,1 @@
-var mnemonic = "divorce caution text bleak hungry rib mystery chronic relief grain duty lock";
+var mnemonic = "twenty useful shallow reject solve floor price asset ethics tuna approve bar";

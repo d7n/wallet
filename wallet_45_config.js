@@ -1,1 +1,1 @@
-var mnemonic = "capital shallow cheese cat grant gloom ill never month common stairs ceiling";
+var mnemonic = "master lonely buddy voyage sibling crouch trial grocery pulp intact annual night";

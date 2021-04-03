@@ -1,1 +1,1 @@
-var mnemonic = "parrot clown layer erupt brisk renew purse together blossom wrong earn burden";
+var mnemonic = "fence motion prize diary anxiety little embody arch friend seven story aisle";

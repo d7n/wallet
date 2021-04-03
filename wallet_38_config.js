@@ -1,1 +1,1 @@
-var mnemonic = "book chat world remind derive ankle control derive zero hurry siren alter";
+var mnemonic = "hollow jump judge tomato crater identify develop weather law zero ski voyage";

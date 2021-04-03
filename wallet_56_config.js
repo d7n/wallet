@@ -1,1 +1,1 @@
-var mnemonic = "theme wide use betray admit kitten club question firm excuse wrist sign";
+var mnemonic = "sentence fork organ address silver unique only citizen actress tongue inherit wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "cart board slice tiger waste pottery saddle swift laptop amateur eternal end";
+var mnemonic = "enjoy reject cost boss pause supply guard cute umbrella web anger rebel";

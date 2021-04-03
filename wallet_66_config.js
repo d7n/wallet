@@ -1,1 +1,1 @@
-var mnemonic = "volume find tenant fork indoor security giant photo fun sort better eye";
+var mnemonic = "blossom cancel deal cabbage craft super speak drift bronze welcome wrestle danger";

@@ -1,1 +1,1 @@
-var mnemonic = "add erase steak thumb saddle identify bullet weasel coach derive heavy opinion";
+var mnemonic = "sadness capable shiver frozen text easily bitter fruit minor normal direct way";

@@ -1,1 +1,1 @@
-var mnemonic = "asset top hair above license move frown soldier electric custom mountain quote";
+var mnemonic = "actual cover marine defense hub six reason ordinary gold grab vintage inmate";

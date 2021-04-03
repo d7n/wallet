@@ -1,1 +1,1 @@
-var mnemonic = "oval almost social resist bring immune race rapid never donkey damp fragile";
+var mnemonic = "foil power mushroom labor mistake flag road credit spawn doll exchange canvas";

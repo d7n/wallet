@@ -1,1 +1,1 @@
-var mnemonic = "canoe develop guide piano parade confirm ride amount hope street donor neutral";
+var mnemonic = "favorite fine silver inform mutual owner food analyst disease basket piece purity";

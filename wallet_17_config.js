@@ -1,1 +1,1 @@
-var mnemonic = "approve elite unhappy father before penalty valve pond march alert over burden";
+var mnemonic = "control protect endorse struggle paper this exchange cause siren region current loud";

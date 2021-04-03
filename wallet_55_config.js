@@ -1,1 +1,1 @@
-var mnemonic = "coral garden video able midnight firm time venture eye satoshi enter throw";
+var mnemonic = "tilt right spot dune next invest renew twenty ask garbage beef reason";

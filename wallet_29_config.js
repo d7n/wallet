@@ -1,1 +1,1 @@
-var mnemonic = "series sail ice chef medal front ramp street laundry hire alone soft";
+var mnemonic = "reveal begin save company step garment lizard sock stem spin ramp select";

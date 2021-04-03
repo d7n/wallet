@@ -1,1 +1,1 @@
-var mnemonic = "head autumn smooth captain promote produce rough fit near tag mad actress";
+var mnemonic = "chuckle figure disease sudden ignore cactus once dignity dynamic ensure person innocent";

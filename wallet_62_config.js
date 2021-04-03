@@ -1,1 +1,1 @@
-var mnemonic = "frame trip achieve letter tell badge advice core design assist bone nephew";
+var mnemonic = "siege alley clarify gain fame pudding dizzy fit young grape divorce pigeon";

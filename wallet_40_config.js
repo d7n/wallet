@@ -1,1 +1,1 @@
-var mnemonic = "friend improve amateur design acquire flavor kit inject cricket empty blind kidney";
+var mnemonic = "survey siege own verb grass remember vital rifle chuckle observe ceiling arrest";

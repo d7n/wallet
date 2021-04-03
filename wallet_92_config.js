@@ -1,1 +1,1 @@
-var mnemonic = "begin suggest spatial romance draft genuine deal sail news edit sorry atom";
+var mnemonic = "prepare sand cart popular assume bulb palace august wise fiscal obvious viable";

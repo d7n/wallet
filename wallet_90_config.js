@@ -1,1 +1,1 @@
-var mnemonic = "unable february flash basic giraffe rice license donor load multiply produce young";
+var mnemonic = "bicycle sentence vintage program mobile theme trigger exhibit floor sign dynamic vacuum";

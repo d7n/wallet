@@ -1,1 +1,1 @@
-var mnemonic = "benefit ivory bird usual artist depart jealous evil ancient muffin drink slow";
+var mnemonic = "exercise ill side female hollow nurse fire camera wife direct jelly pact";

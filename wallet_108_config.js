@@ -1,1 +1,1 @@
-var mnemonic = "great truck security thrive tongue sock type tiny deputy brief hospital team";
+var mnemonic = "enrich pill spring home pottery panther guide dry skin opera tape exit";

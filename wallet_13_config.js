@@ -1,1 +1,1 @@
-var mnemonic = "curtain duty pink month miracle swamp cushion dumb dad fire belt fury";
+var mnemonic = "height buffalo short milk ceiling day glide rotate better vehicle trick derive";

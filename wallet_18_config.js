@@ -1,1 +1,1 @@
-var mnemonic = "decline shield claw trigger large ignore retreat woman dentist phrase erupt segment";
+var mnemonic = "satisfy fever carpet alter senior purchase napkin endless initial suggest raven legend";

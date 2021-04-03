@@ -1,1 +1,1 @@
-var mnemonic = "casual cause clean route write today sense record transfer dial trial blast";
+var mnemonic = "patch cross brass erode ceiling brick honey cherry early stay find copper";

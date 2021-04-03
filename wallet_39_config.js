@@ -1,1 +1,1 @@
-var mnemonic = "gaze strategy survey deny empower marine escape youth lava easy drink output";
+var mnemonic = "language daughter quantum monster moment town visit gadget toddler pattern eternal tone";

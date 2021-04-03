@@ -1,1 +1,1 @@
-var mnemonic = "manual girl kiss dwarf air penalty essence priority pipe senior convince into";
+var mnemonic = "pony human drive idle utility opinion company attitude stay blame youth source";

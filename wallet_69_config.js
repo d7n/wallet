@@ -1,1 +1,1 @@
-var mnemonic = "learn prize return rule universe admit junior drama tail patch allow industry";
+var mnemonic = "pair guitar coyote park cream gift coin wagon either spin poverty tip";

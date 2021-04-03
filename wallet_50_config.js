@@ -1,1 +1,1 @@
-var mnemonic = "logic convince select mask stomach swear visual omit crush glow rescue elder";
+var mnemonic = "upgrade bike lava butter seat arena humble provide renew arrive olive unusual";

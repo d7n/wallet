@@ -1,1 +1,1 @@
-var mnemonic = "defy obvious alter milk fence around wet cake race thunder blanket smooth";
+var mnemonic = "struggle until that sleep monster typical combine very front slam voyage belt";

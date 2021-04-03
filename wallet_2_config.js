@@ -1,1 +1,1 @@
-var mnemonic = "february omit world key theory hover genre online bonus keen country unfold";
+var mnemonic = "episode glad ethics walnut job hope garment heart table learn dance giant";

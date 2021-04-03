@@ -1,1 +1,1 @@
-var mnemonic = "debate foam rally update dog assault rifle tower table tissue hour scissors";
+var mnemonic = "jelly term file boy piano inhale gown cannon myth require path mention";

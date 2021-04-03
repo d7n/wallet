@@ -1,1 +1,1 @@
-var mnemonic = "discover clap merit basket census spring century pet buffalo umbrella learn awkward";
+var mnemonic = "ignore age lobster garlic pioneer praise dose salad path expire sniff online";

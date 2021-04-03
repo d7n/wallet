@@ -1,1 +1,1 @@
-var mnemonic = "curious shallow degree october gift penalty horror arctic click dinner return fly";
+var mnemonic = "round seminar aware movie season wasp ramp general noble treat wage ribbon";

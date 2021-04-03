@@ -1,1 +1,1 @@
-var mnemonic = "pluck also pluck surge coffee agree cabbage fortune catalog outside veteran plunge";
+var mnemonic = "join assume lizard grow metal reopen repeat museum medal pilot belt trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely other release click gauge present mixed peanut actor hospital fly demise";
+var mnemonic = "cement consider toe define kit fuel business tobacco page enter once wealth";

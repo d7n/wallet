@@ -1,1 +1,1 @@
-var mnemonic = "robust promote patient dove luggage arrow helmet mule morning combine blood broken";
+var mnemonic = "carbon pelican explain horn convince price march genuine core issue arrange pass";

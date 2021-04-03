@@ -1,1 +1,1 @@
-var mnemonic = "dash repeat orbit chicken trouble lecture judge silent lab ball idle build";
+var mnemonic = "review leopard bleak harbor noise asthma combine gadget busy effort start fish";

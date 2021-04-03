@@ -1,1 +1,1 @@
-var mnemonic = "ghost indicate fossil stone right promote minor assist judge mass pepper visa";
+var mnemonic = "snap blush neck panic arm wonder raw demise cancel verb burst nominee";

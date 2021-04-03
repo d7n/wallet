@@ -1,1 +1,1 @@
-var mnemonic = "survey gloom memory chase baby obtain blanket stage joy hidden vague february";
+var mnemonic = "almost congress decorate citizen civil crowd priority math fancy lounge clerk pioneer";

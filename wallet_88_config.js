@@ -1,1 +1,1 @@
-var mnemonic = "flag lounge absurd autumn noble faculty exit mask concert antique sketch venue";
+var mnemonic = "fiscal skull very limit zoo vapor world car remember select search replace";

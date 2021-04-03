@@ -1,1 +1,1 @@
-var mnemonic = "degree edit ready action guess unknown pilot pause dress process warrior divorce";
+var mnemonic = "play shrimp spice draft fury float fetch dish sponsor smooth swap among";

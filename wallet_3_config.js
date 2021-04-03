@@ -1,1 +1,1 @@
-var mnemonic = "host sing chest glance tool length behave toast cause smoke bacon zone";
+var mnemonic = "sorry slight indoor just shine shy ceiling glass lend trial genuine mobile";

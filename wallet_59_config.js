@@ -1,1 +1,1 @@
-var mnemonic = "job wrap vocal spoil trumpet cactus lunar phrase orbit cool shiver nice";
+var mnemonic = "wrist always output lottery midnight element gold grief sleep course robust process";

@@ -1,1 +1,1 @@
-var mnemonic = "window immune whale retreat what fatal where describe prison bubble naive goose";
+var mnemonic = "brush sketch picture sauce upper neither sibling blush category spoon unfair smooth";

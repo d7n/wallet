@@ -1,1 +1,1 @@
-var mnemonic = "couch gloom suggest error strike hip loan picnic rubber foot prosper auto";
+var mnemonic = "tree donate rocket arrest clock today remain enhance oak spin volcano mimic";

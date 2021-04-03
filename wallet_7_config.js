@@ -1,1 +1,1 @@
-var mnemonic = "help soccer diamond quote vivid filter crazy globe equal genuine round problem";
+var mnemonic = "vault detect edge gate veteran wheel media supreme ask grain material room";

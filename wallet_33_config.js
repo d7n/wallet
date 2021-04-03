@@ -1,1 +1,1 @@
-var mnemonic = "goose trend uphold cash middle trial loop achieve move crane latin midnight";
+var mnemonic = "parrot zebra hood maximum version exile legal tube dismiss spoon alpha summer";

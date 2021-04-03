@@ -1,1 +1,1 @@
-var mnemonic = "garment dwarf they noise scheme gravity material team dignity defy balcony shiver";
+var mnemonic = "rigid fork tape social cargo fault middle planet penalty steel local daughter";

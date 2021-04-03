@@ -1,1 +1,1 @@
-var mnemonic = "about toward general fabric pipe message replace nasty spy jar bridge wave";
+var mnemonic = "light solar metal devote offer symbol derive enlist immense flush eternal base";

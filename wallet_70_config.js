@@ -1,1 +1,1 @@
-var mnemonic = "cart guitar enact deposit cake fuel aim domain script rent glory vivid";
+var mnemonic = "tree soccer aspect ramp debris dog lesson foil mechanic decrease danger faith";

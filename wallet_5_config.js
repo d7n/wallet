@@ -1,1 +1,1 @@
-var mnemonic = "brave galaxy sweet like enable favorite screen cruel apple sketch true art";
+var mnemonic = "adult output head term provide margin lava seed warrior gesture next fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "dove audit pen chat pioneer drama thunder direct raw fitness feature rail";
+var mnemonic = "early country food allow half culture alcohol biology young glory jump cricket";

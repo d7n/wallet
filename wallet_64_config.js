@@ -1,1 +1,1 @@
-var mnemonic = "during cook try sense wet slam man open cave elite husband display";
+var mnemonic = "gossip rural october any now gloom conduct expect subject cheap melody speak";

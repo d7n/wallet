@@ -1,1 +1,1 @@
-var mnemonic = "artist bike creek emotion reward federal crawl color pepper story shield category";
+var mnemonic = "since paddle force digital clog dilemma easy hello sugar soon steak chef";

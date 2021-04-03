@@ -1,1 +1,1 @@
-var mnemonic = "very october silk obtain pride twelve sauce blossom galaxy fortune save retire";
+var mnemonic = "sting earth tank blast stage jar lizard cage agree mean master entire";

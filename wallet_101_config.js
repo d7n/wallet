@@ -1,1 +1,1 @@
-var mnemonic = "original purpose talent broken market caution soft blossom tube drill mouse puzzle";
+var mnemonic = "solid vanish acid oven scrub minor around detect sentence identify much ketchup";

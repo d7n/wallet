@@ -1,1 +1,1 @@
-var mnemonic = "intact vanish law pulse risk maze order amateur solar velvet lesson suspect";
+var mnemonic = "try fat puzzle kid music moon away vocal unfold genre dog usage";

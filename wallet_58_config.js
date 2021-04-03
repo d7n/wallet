@@ -1,1 +1,1 @@
-var mnemonic = "young process crater modify similar fee subject mouse hat gap bag pact";
+var mnemonic = "vivid galaxy swamp inner wheat boss acquire alarm renew barrel unlock used";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy culture bind slab cute measure income beach urban image ghost all";
+var mnemonic = "vote journey episode ketchup atom ethics birth conduct steel umbrella outdoor check";

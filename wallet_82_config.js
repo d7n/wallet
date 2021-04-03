@@ -1,1 +1,1 @@
-var mnemonic = "payment oval liar drill business soft achieve truck curtain screen armed rain";
+var mnemonic = "argue sister galaxy act artwork nurse inject large picture else pride truly";

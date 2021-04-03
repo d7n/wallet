@@ -1,1 +1,1 @@
-var mnemonic = "tourist magnet zero design retreat science place bone engage hover medal bar";
+var mnemonic = "cube tortoise hover bunker rocket concert tenant upper taste duty myself hover";

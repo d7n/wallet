@@ -1,1 +1,1 @@
-var mnemonic = "unit sell gadget option pig behave hub funny snap judge drastic foster";
+var mnemonic = "repeat excite alpha fringe night stairs sponsor code focus grocery minute omit";

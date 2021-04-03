@@ -1,1 +1,1 @@
-var mnemonic = "sing corn rigid two domain split gift trophy lawn length curtain dove";
+var mnemonic = "busy arrow original melt address shoe lizard forest fragile crew private step";

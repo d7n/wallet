@@ -1,1 +1,1 @@
-var mnemonic = "end session obey wisdom entire entry sell fog borrow pilot tenant fitness";
+var mnemonic = "leisure valve viable gather onion pyramid coral female zoo decrease fatigue onion";

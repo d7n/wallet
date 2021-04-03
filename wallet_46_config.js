@@ -1,1 +1,1 @@
-var mnemonic = "era movie unique salt task common faith sadness lazy consider tonight echo";
+var mnemonic = "crater series edge now kind adapt prefer play energy ignore suggest sting";

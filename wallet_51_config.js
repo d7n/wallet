@@ -1,1 +1,1 @@
-var mnemonic = "rack obey noble absent please food nerve found beef swear bridge express";
+var mnemonic = "analyst whip board alert talent monkey thought hospital smart lamp sort caution";

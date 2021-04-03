@@ -1,1 +1,1 @@
-var mnemonic = "defy hero enhance visual logic achieve grain east gift forward artwork virus";
+var mnemonic = "hole hint before capable gaze smoke vacuum brisk voyage soda attend nephew";

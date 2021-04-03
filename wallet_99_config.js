@@ -1,1 +1,1 @@
-var mnemonic = "rotate false report choice fabric enough deer funny clip potato tone fat";
+var mnemonic = "pilot ski logic pretty planet morning drive drop dolphin funny title ancient";

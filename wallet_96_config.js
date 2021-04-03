@@ -1,1 +1,1 @@
-var mnemonic = "accuse popular caution hungry warm into quantum worth rescue august course rocket";
+var mnemonic = "motion spoil demise ghost burst current test right resource happy despair chicken";

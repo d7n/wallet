@@ -1,1 +1,1 @@
-var mnemonic = "demise bike motor police food tower clay ozone lizard border health lottery";
+var mnemonic = "shuffle slot treat mystery badge dentist alley elder review husband draw wagon";

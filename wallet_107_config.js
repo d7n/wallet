@@ -1,1 +1,1 @@
-var mnemonic = "crowd disorder net humble famous memory segment budget bean barely print trim";
+var mnemonic = "myself wrong lady tobacco hurdle mango visit task print sketch stool bicycle";

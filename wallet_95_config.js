@@ -1,1 +1,1 @@
-var mnemonic = "iron fossil crumble gym never mercy dry veteran smile helmet anger paper";
+var mnemonic = "renew order what sell calm example inhale leg describe confirm garage deer";

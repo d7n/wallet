@@ -1,1 +1,1 @@
-var mnemonic = "play skill learn only answer regular deposit office account key unit domain";
+var mnemonic = "weather correct ice churn couch have piano worry exchange hungry clump visual";

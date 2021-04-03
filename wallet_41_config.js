@@ -1,1 +1,1 @@
-var mnemonic = "lumber extend primary similar year rice soda aspect industry fun loan chicken";
+var mnemonic = "casual inner plastic joy chuckle loud curtain author appear tree home dentist";

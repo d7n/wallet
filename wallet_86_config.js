@@ -1,1 +1,1 @@
-var mnemonic = "spider chat hazard acoustic edge plug art initial action length label chunk";
+var mnemonic = "stick siege vapor supply maple practice novel buzz glass gentle bulk nest";

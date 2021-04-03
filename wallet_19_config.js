@@ -1,1 +1,1 @@
-var mnemonic = "can kidney future ginger crystal suggest cannon spot detect hen daring diagram";
+var mnemonic = "hope much know umbrella brief demise where base cherry angle giggle dolphin";

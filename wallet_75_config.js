@@ -1,1 +1,1 @@
-var mnemonic = "cabin run board canoe assist pottery over remove anchor coyote awful fitness";
+var mnemonic = "stove artist cram corn rally merge ill combine fix search provide high";

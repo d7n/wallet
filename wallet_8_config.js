@@ -1,1 +1,1 @@
-var mnemonic = "small evoke wage tent hole list annual atom tube praise oxygen crisp";
+var mnemonic = "roast benefit suggest ball street essay business task capital odor theory corn";

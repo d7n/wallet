@@ -1,1 +1,1 @@
-var mnemonic = "detect embody opinion stool lawsuit unaware episode disease disagree when lock brand";
+var mnemonic = "scan agree nut area balance purchase upon any whisper bone fever magic";

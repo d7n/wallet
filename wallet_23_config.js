@@ -1,1 +1,1 @@
-var mnemonic = "identify brass sound episode round debate mandate awesome distance afford cruise column";
+var mnemonic = "note verb bind vehicle shrimp hurdle empty soup finger ill bundle ivory";

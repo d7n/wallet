@@ -1,1 +1,1 @@
-var mnemonic = "around cradle practice magnet much mango limb medal panther monster real any";
+var mnemonic = "cry maze cage abstract course title grunt keen filter symptom mushroom obey";

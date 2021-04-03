@@ -1,1 +1,1 @@
-var mnemonic = "secret make fault prefer rhythm mango segment volume marble balcony lobster common";
+var mnemonic = "life more sea shy jump service direct atom excuse dinosaur inquiry gentle";

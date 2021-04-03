@@ -1,1 +1,1 @@
-var mnemonic = "divide ramp shrug wolf distance vital carbon outside auction ticket grab scale";
+var mnemonic = "pipe bag organ drift ghost build word hero diet delay response lady";

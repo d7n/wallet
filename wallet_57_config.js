@@ -1,1 +1,1 @@
-var mnemonic = "swamp anxiety bitter couple bean cluster man title eternal alter ball hurt";
+var mnemonic = "series assist over win smoke legend delay tree divert visual sight copy";

@@ -1,1 +1,1 @@
-var mnemonic = "staff relief have bacon voice brother bomb alpha plastic barrel cash scorpion";
+var mnemonic = "crop armed decline already drum deny you undo era race usual venture";

@@ -1,1 +1,1 @@
-var mnemonic = "simple luxury need addict fire trap vivid canyon gold region venture meat";
+var mnemonic = "anger pepper milk spy excite affair dice kidney flower crane midnight regret";

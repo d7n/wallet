@@ -1,1 +1,1 @@
-var mnemonic = "swamp inspire law yard demand ozone absorb wrist museum property tunnel innocent";
+var mnemonic = "hip achieve sun hurdle creek bulk know chair tiny blind gorilla aim";

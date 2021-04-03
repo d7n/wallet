@@ -1,1 +1,1 @@
-var mnemonic = "gown bench real describe accuse potato grow dry engine crime crunch obvious";
+var mnemonic = "chest typical fault inspire spirit digital company coach sad dragon moral sphere";
