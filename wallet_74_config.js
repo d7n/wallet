@@ -1,1 +1,1 @@
-var mnemonic = "access undo indicate crumble oven park swim cash increase fox stem smart";
+var mnemonic = "dove audit pen chat pioneer drama thunder direct raw fitness feature rail";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol absurd green response puppy ready shift struggle gift ostrich error axis";
+var mnemonic = "curtain duty pink month miracle swamp cushion dumb dad fire belt fury";

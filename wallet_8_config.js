@@ -1,1 +1,1 @@
-var mnemonic = "kid worry master material either girl million excess find worth master cinnamon";
+var mnemonic = "small evoke wage tent hole list annual atom tube praise oxygen crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "cup student stuff usual prison monkey extra patch recall stone day salon";
+var mnemonic = "defy obvious alter milk fence around wet cake race thunder blanket smooth";

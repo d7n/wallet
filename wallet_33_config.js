@@ -1,1 +1,1 @@
-var mnemonic = "blush catch brass taxi pencil lake crash celery luxury little blood enroll";
+var mnemonic = "goose trend uphold cash middle trial loop achieve move crane latin midnight";

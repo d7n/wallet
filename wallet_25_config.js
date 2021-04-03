@@ -1,1 +1,1 @@
-var mnemonic = "sea history indicate silver vital health oval awake people loud area hospital";
+var mnemonic = "infant estate rally rain rocket park van apart strong ride prosper dilemma";

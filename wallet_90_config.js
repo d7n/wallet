@@ -1,1 +1,1 @@
-var mnemonic = "angle grab license lemon double month volume tray vibrant exhaust allow hybrid";
+var mnemonic = "unable february flash basic giraffe rice license donor load multiply produce young";

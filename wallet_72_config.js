@@ -1,1 +1,1 @@
-var mnemonic = "uphold audit spirit win say spawn cute swing diesel skate mimic side";
+var mnemonic = "inquiry thought else garment daring stamp portion zero front bread monkey rose";

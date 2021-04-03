@@ -1,1 +1,1 @@
-var mnemonic = "abstract enable gauge rigid drill immune ask syrup flag pizza blue work";
+var mnemonic = "advice blade need slot seek strong cancel soda jewel world tribe mixed";

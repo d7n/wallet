@@ -1,1 +1,1 @@
-var mnemonic = "pelican dry hawk hospital snake faith slab merit render shoe duck once";
+var mnemonic = "simple luxury need addict fire trap vivid canyon gold region venture meat";

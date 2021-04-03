@@ -1,1 +1,1 @@
-var mnemonic = "model little job derive birth next code alpha excite inquiry industry tank";
+var mnemonic = "young process crater modify similar fee subject mouse hat gap bag pact";

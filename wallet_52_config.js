@@ -1,1 +1,1 @@
-var mnemonic = "bulb hockey husband kingdom little erupt cave test melody decade flame fun";
+var mnemonic = "staff relief have bacon voice brother bomb alpha plastic barrel cash scorpion";

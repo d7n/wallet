@@ -1,1 +1,1 @@
-var mnemonic = "sure crawl nose enhance taste gasp buffalo harbor unit lounge venue risk";
+var mnemonic = "debate foam rally update dog assault rifle tower table tissue hour scissors";

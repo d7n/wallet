@@ -1,1 +1,1 @@
-var mnemonic = "forest tourist congress wish gaze opinion crater follow party theory kit copper";
+var mnemonic = "crowd disorder net humble famous memory segment budget bean barely print trim";

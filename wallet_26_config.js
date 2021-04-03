@@ -1,1 +1,1 @@
-var mnemonic = "foster fortune cushion torch drive surround autumn brave sunny weather story crane";
+var mnemonic = "window immune whale retreat what fatal where describe prison bubble naive goose";

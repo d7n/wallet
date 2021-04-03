@@ -1,1 +1,1 @@
-var mnemonic = "school symbol action brother worth duty derive decline marine mesh friend tourist";
+var mnemonic = "rack obey noble absent please food nerve found beef swear bridge express";

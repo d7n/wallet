@@ -1,1 +1,1 @@
-var mnemonic = "unknown fancy scorpion empty alone tired unveil horror giant public life embrace";
+var mnemonic = "defy hero enhance visual logic achieve grain east gift forward artwork virus";

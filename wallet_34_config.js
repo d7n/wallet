@@ -1,1 +1,1 @@
-var mnemonic = "system deposit exclude differ course prefer appear adapt urban reflect flight pitch";
+var mnemonic = "phone fall apology staff vague way public twist aerobic later film devote";

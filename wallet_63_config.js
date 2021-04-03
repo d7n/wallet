@@ -1,1 +1,1 @@
-var mnemonic = "category teach cabbage ostrich soldier inherit field tongue exact boss frozen drama";
+var mnemonic = "curious shallow degree october gift penalty horror arctic click dinner return fly";

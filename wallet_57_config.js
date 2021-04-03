@@ -1,1 +1,1 @@
-var mnemonic = "inhale mammal wink write consider morning silver state note garden brave broom";
+var mnemonic = "swamp anxiety bitter couple bean cluster man title eternal alter ball hurt";

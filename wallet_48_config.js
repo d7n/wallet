@@ -1,1 +1,1 @@
-var mnemonic = "boss network decrease door polar daughter minor legal issue another insane plate";
+var mnemonic = "prevent emotion exchange supply loan judge route state father large purpose iron";

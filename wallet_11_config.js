@@ -1,1 +1,1 @@
-var mnemonic = "square already pelican escape ostrich fatigue path dutch must staff foster print";
+var mnemonic = "add erase steak thumb saddle identify bullet weasel coach derive heavy opinion";

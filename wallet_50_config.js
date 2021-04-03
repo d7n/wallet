@@ -1,1 +1,1 @@
-var mnemonic = "object lava range borrow allow spring idea odor winter turn myself text";
+var mnemonic = "logic convince select mask stomach swear visual omit crush glow rescue elder";

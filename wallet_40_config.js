@@ -1,1 +1,1 @@
-var mnemonic = "knife custom above object benefit under sense negative share wave retreat pond";
+var mnemonic = "friend improve amateur design acquire flavor kit inject cricket empty blind kidney";

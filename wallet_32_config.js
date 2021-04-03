@@ -1,1 +1,1 @@
-var mnemonic = "swarm double forward patrol own when mix public index decorate trash energy";
+var mnemonic = "dizzy violin man cross novel live together defense renew disorder limb primary";

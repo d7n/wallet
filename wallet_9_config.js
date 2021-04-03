@@ -1,1 +1,1 @@
-var mnemonic = "edge harbor impose shock hero there dinner page kidney tower warfare hotel";
+var mnemonic = "demise bike motor police food tower clay ozone lizard border health lottery";

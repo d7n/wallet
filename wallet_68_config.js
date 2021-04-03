@@ -1,1 +1,1 @@
-var mnemonic = "patrol surround bulb what copy raise design olive deliver ahead tiger normal";
+var mnemonic = "brown remove endorse loop between acoustic nation battle infant emotion wink energy";

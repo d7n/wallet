@@ -1,1 +1,1 @@
-var mnemonic = "divert ugly share warm better uphold spin gospel reject pyramid betray phrase";
+var mnemonic = "book chat world remind derive ankle control derive zero hurry siren alter";

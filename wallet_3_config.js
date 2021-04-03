@@ -1,1 +1,1 @@
-var mnemonic = "later answer frog loyal dolphin utility visual hero drama decide rose galaxy";
+var mnemonic = "host sing chest glance tool length behave toast cause smoke bacon zone";

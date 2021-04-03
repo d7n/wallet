@@ -1,1 +1,1 @@
-var mnemonic = "entry genuine cram drink popular badge wink strike input ozone believe tip";
+var mnemonic = "dash repeat orbit chicken trouble lecture judge silent lab ball idle build";

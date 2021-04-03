@@ -1,1 +1,1 @@
-var mnemonic = "pet odor wreck brass catch debate report cash royal van viable sketch";
+var mnemonic = "frame trip achieve letter tell badge advice core design assist bone nephew";

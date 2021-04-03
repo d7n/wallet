@@ -1,1 +1,1 @@
-var mnemonic = "chalk search about insect cart inject also source friend gentle alter excuse";
+var mnemonic = "gown bench real describe accuse potato grow dry engine crime crunch obvious";

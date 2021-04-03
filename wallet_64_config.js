@@ -1,1 +1,1 @@
-var mnemonic = "orange asset prison resemble clay page asset canyon blush wrap turtle lens";
+var mnemonic = "during cook try sense wet slam man open cave elite husband display";

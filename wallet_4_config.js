@@ -1,1 +1,1 @@
-var mnemonic = "surround waste live corn rug true tourist embrace steel summer seed polar";
+var mnemonic = "pluck also pluck surge coffee agree cabbage fortune catalog outside veteran plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "payment notice spare renew butter exhibit vanish parent limit olive lyrics pulp";
+var mnemonic = "era movie unique salt task common faith sadness lazy consider tonight echo";

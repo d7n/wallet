@@ -1,1 +1,1 @@
-var mnemonic = "aware undo phone clerk junk render outdoor hour wedding biology video noble";
+var mnemonic = "begin suggest spatial romance draft genuine deal sail news edit sorry atom";

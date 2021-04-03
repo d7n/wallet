@@ -1,1 +1,1 @@
-var mnemonic = "trophy kangaroo rack badge want key screen lazy column figure powder clarify";
+var mnemonic = "loud parrot vast exercise hub absurd they limb digital hole mesh orient";

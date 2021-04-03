@@ -1,1 +1,1 @@
-var mnemonic = "acquire pioneer license original gym merry boil october poet robust mimic disorder";
+var mnemonic = "guide farm stomach you plunge tired onion emotion powder quarter gun wedding";

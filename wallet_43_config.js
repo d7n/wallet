@@ -1,1 +1,1 @@
-var mnemonic = "mimic glance kingdom filter try alley barrel walk time sunset mail amateur";
+var mnemonic = "birth cliff style element coyote help submit only honey guess result crew";

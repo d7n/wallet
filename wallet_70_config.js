@@ -1,1 +1,1 @@
-var mnemonic = "topic animal tissue kick forest novel liar game all cliff emerge pass";
+var mnemonic = "cart guitar enact deposit cake fuel aim domain script rent glory vivid";

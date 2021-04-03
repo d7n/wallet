@@ -1,1 +1,1 @@
-var mnemonic = "alert public ranch found cricket unknown trophy clerk census zoo venture method";
+var mnemonic = "asset top hair above license move frown soldier electric custom mountain quote";

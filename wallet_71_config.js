@@ -1,1 +1,1 @@
-var mnemonic = "youth fluid carbon party grow liberty exotic move mule robot neck stadium";
+var mnemonic = "cave fox famous intact coconut spatial rookie become make review boost antenna";

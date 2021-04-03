@@ -1,1 +1,1 @@
-var mnemonic = "delay brush artwork exhibit slice crisp receive moon ordinary face snake forward";
+var mnemonic = "oval almost social resist bring immune race rapid never donkey damp fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "topic nerve nest shallow lady purchase popular remind balcony lawn outdoor minute";
+var mnemonic = "above add forget minute vicious calm injury surprise plate vapor mystery blast";

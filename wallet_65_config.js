@@ -1,1 +1,1 @@
-var mnemonic = "pass squirrel fish thumb chronic panda mouse search soul grace type install";
+var mnemonic = "cart board slice tiger waste pottery saddle swift laptop amateur eternal end";

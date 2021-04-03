@@ -1,1 +1,1 @@
-var mnemonic = "alert over radar laugh spend media blur circle dune parrot bar person";
+var mnemonic = "ginger canoe excite addict wrap vast hurry lyrics taxi yard woman skill";

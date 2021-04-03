@@ -1,1 +1,1 @@
-var mnemonic = "pioneer cook cruel that youth scale model settle trip frog island old";
+var mnemonic = "certain deny loyal key hollow gasp december hood practice peace miss wasp";

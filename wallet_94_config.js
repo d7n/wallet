@@ -1,1 +1,1 @@
-var mnemonic = "profit dice cement drift school observe slogan become salad display rally thrive";
+var mnemonic = "glory latin wash unveil mango police artwork spawn old accuse yellow have";

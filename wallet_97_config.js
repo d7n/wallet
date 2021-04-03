@@ -1,1 +1,1 @@
-var mnemonic = "need brisk vacant give relief wonder peanut neglect sport debris initial only";
+var mnemonic = "robust promote patient dove luggage arrow helmet mule morning combine blood broken";

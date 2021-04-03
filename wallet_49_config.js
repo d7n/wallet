@@ -1,1 +1,1 @@
-var mnemonic = "mask radar fun essence stage tray feel grid half twelve borrow turkey";
+var mnemonic = "casual cause clean route write today sense record transfer dial trial blast";

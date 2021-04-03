@@ -1,1 +1,1 @@
-var mnemonic = "giggle assault velvet tail junk sentence dismiss sibling work gap indicate identify";
+var mnemonic = "survey gloom memory chase baby obtain blanket stage joy hidden vague february";

@@ -1,1 +1,1 @@
-var mnemonic = "cart win arch throw office fire crazy engine jelly laugh pelican engine";
+var mnemonic = "play skill learn only answer regular deposit office account key unit domain";

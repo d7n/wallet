@@ -1,1 +1,1 @@
-var mnemonic = "fury daughter country denial rule dial school cigar garbage night stamp fresh";
+var mnemonic = "theme wide use betray admit kitten club question firm excuse wrist sign";

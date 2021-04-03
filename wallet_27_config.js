@@ -1,1 +1,1 @@
-var mnemonic = "pottery ignore thumb blast about table coach addict region leisure verify kid";
+var mnemonic = "degree edit ready action guess unknown pilot pause dress process warrior divorce";

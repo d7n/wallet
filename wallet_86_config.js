@@ -1,1 +1,1 @@
-var mnemonic = "stairs change hawk session hamster favorite scorpion broccoli play stereo favorite admit";
+var mnemonic = "spider chat hazard acoustic edge plug art initial action length label chunk";

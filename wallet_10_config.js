@@ -1,1 +1,1 @@
-var mnemonic = "tiger slab scrub enlist later thrive great visa debris number decade that";
+var mnemonic = "race alpha praise sure gloom cigar leader pink smooth industry top tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon river blame all wine since bless tumble online valve lava moral";
+var mnemonic = "volume find tenant fork indoor security giant photo fun sort better eye";

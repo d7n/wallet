@@ -1,1 +1,1 @@
-var mnemonic = "liberty provide rough slush invite bean twice direct slender piano empty drum";
+var mnemonic = "capital shallow cheese cat grant gloom ill never month common stairs ceiling";

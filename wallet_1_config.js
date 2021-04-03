@@ -1,1 +1,1 @@
-var mnemonic = "flower tooth blouse harbor kite clay dutch rabbit boss tiger meat physical";
+var mnemonic = "silent toilet creek deal void youth various inherit volcano gesture scheme actress";

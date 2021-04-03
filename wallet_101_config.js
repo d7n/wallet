@@ -1,1 +1,1 @@
-var mnemonic = "ordinary cliff naive intact candy drastic eight spare goat shield uncover best";
+var mnemonic = "original purpose talent broken market caution soft blossom tube drill mouse puzzle";

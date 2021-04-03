@@ -1,1 +1,1 @@
-var mnemonic = "depend garden legend math imitate teach split puzzle damp pact bamboo fun";
+var mnemonic = "flag lounge absurd autumn noble faculty exit mask concert antique sketch venue";

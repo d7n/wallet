@@ -1,1 +1,1 @@
-var mnemonic = "draw desk stick cannon gravity effort horror angry trial moment upon pumpkin";
+var mnemonic = "lumber extend primary similar year rice soda aspect industry fun loan chicken";

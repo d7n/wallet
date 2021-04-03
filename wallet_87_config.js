@@ -1,1 +1,1 @@
-var mnemonic = "success dune balance child frozen name inhale soup aware ramp cheese bulb";
+var mnemonic = "lonely other release click gauge present mixed peanut actor hospital fly demise";

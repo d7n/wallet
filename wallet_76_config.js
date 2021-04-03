@@ -1,1 +1,1 @@
-var mnemonic = "course world comfort raccoon fossil clarify help display raven other weird figure";
+var mnemonic = "soap uphold carpet parade history system tattoo helmet champion convince dinner parrot";

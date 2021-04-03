@@ -1,1 +1,1 @@
-var mnemonic = "cloth phrase novel immune burger agent resemble afford open staff usual final";
+var mnemonic = "accuse popular caution hungry warm into quantum worth rescue august course rocket";

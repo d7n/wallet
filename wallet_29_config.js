@@ -1,1 +1,1 @@
-var mnemonic = "clay mistake sport amused gym camera order fruit keep lazy old degree";
+var mnemonic = "series sail ice chef medal front ramp street laundry hire alone soft";

@@ -1,1 +1,1 @@
-var mnemonic = "captain section federal rally rhythm amount lawn error cushion vacuum much isolate";
+var mnemonic = "iron fossil crumble gym never mercy dry veteran smile helmet anger paper";

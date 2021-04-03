@@ -1,1 +1,1 @@
-var mnemonic = "energy tell pass scatter gadget large tent tragic slot pulse acquire claw";
+var mnemonic = "cabin run board canoe assist pottery over remove anchor coyote awful fitness";

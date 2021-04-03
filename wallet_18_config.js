@@ -1,1 +1,1 @@
-var mnemonic = "churn welcome make arrive humor upset pact scrap estate eye doll finger";
+var mnemonic = "decline shield claw trigger large ignore retreat woman dentist phrase erupt segment";

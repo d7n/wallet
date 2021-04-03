@@ -1,1 +1,1 @@
-var mnemonic = "among garbage aunt panther skirt foam display rare security syrup hungry cupboard";
+var mnemonic = "gaze strategy survey deny empower marine escape youth lava easy drink output";

@@ -1,1 +1,1 @@
-var mnemonic = "siren cream barely claw print demise domain frame teach august tennis harsh";
+var mnemonic = "parrot clown layer erupt brisk renew purse together blossom wrong earn burden";

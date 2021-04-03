@@ -1,1 +1,1 @@
-var mnemonic = "tent solve high earn prepare crater pill wire vault fabric iron year";
+var mnemonic = "help soccer diamond quote vivid filter crazy globe equal genuine round problem";

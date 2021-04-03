@@ -1,1 +1,1 @@
-var mnemonic = "industry blue ball medal unaware urge leaf prepare diesel prize farm oil";
+var mnemonic = "rotate false report choice fabric enough deer funny clip potato tone fat";

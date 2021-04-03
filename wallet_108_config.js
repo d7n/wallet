@@ -1,1 +1,1 @@
-var mnemonic = "immense bargain aim airport furnace uphold junk alter genuine theme script easy";
+var mnemonic = "great truck security thrive tongue sock type tiny deputy brief hospital team";

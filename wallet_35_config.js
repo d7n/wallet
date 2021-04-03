@@ -1,1 +1,1 @@
-var mnemonic = "scare impose polar film jazz bench alarm fuel dinner slush pipe plunge";
+var mnemonic = "buzz strong kind about spell ring primary pencil start cereal into rude";

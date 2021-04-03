@@ -1,1 +1,1 @@
-var mnemonic = "piano gentle story acid prevent twelve equal smooth noise fluid cram penalty";
+var mnemonic = "rough normal general exchange inspire unable cruise taxi tower crop face garlic";

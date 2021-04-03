@@ -1,1 +1,1 @@
-var mnemonic = "plastic scale trouble like bird crowd matrix december image media talent feature";
+var mnemonic = "about toward general fabric pipe message replace nasty spy jar bridge wave";

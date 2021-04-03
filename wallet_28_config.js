@@ -1,1 +1,1 @@
-var mnemonic = "vessel item crush essay front reward hat clutch jewel vivid firm cousin";
+var mnemonic = "secret make fault prefer rhythm mango segment volume marble balcony lobster common";

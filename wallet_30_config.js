@@ -1,1 +1,1 @@
-var mnemonic = "annual knee obey brush into bonus cost track lobster spin empty buffalo";
+var mnemonic = "intact vanish law pulse risk maze order amateur solar velvet lesson suspect";

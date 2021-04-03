@@ -1,1 +1,1 @@
-var mnemonic = "gain trap ski mom field peanut icon vast garment crazy camp cage";
+var mnemonic = "swamp inspire law yard demand ozone absorb wrist museum property tunnel innocent";

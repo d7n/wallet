@@ -1,1 +1,1 @@
-var mnemonic = "erupt lottery stem purse cloud twin average keen sniff slam clay rabbit";
+var mnemonic = "manual girl kiss dwarf air penalty essence priority pipe senior convince into";

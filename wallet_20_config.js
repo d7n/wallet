@@ -1,1 +1,1 @@
-var mnemonic = "spike earth pipe wash surprise aunt modify brass silk cancel object erode";
+var mnemonic = "sing corn rigid two domain split gift trophy lawn length curtain dove";

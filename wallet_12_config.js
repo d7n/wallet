@@ -1,1 +1,1 @@
-var mnemonic = "journey actress quit peanut deer measure pretty tilt supreme tribe jewel code";
+var mnemonic = "head autumn smooth captain promote produce rough fit near tag mad actress";

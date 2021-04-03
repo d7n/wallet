@@ -1,1 +1,1 @@
-var mnemonic = "there such move novel abstract feed fragile spell venture kingdom donkey sniff";
+var mnemonic = "unit sell gadget option pig behave hub funny snap judge drastic foster";

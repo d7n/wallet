@@ -1,1 +1,1 @@
-var mnemonic = "loan barely clap search topple rabbit skate fox mail east genuine grunt";
+var mnemonic = "denial junk hair profit stand ginger salmon vocal robot nation open syrup";

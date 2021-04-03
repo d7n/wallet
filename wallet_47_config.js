@@ -1,1 +1,1 @@
-var mnemonic = "battle unlock spray session lecture option school tone end decide choice burden";
+var mnemonic = "around cradle practice magnet much mango limb medal panther monster real any";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge bachelor motor infant unusual grass stock canoe announce ride trumpet vintage";
+var mnemonic = "canoe develop guide piano parade confirm ride amount hope street donor neutral";
