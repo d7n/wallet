@@ -1,1 +1,1 @@
-var mnemonic = "iron intact select awake resist short goose there feature play tank family";
+var mnemonic = "spray general room impulse fame group black cabbage ready anger laptop ceiling";

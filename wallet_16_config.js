@@ -1,1 +1,1 @@
-var mnemonic = "position kangaroo scan across shallow sphere section window plate stool ghost hawk";
+var mnemonic = "found shop throw aisle indicate gesture iron fringe effort kangaroo opinion peasant";

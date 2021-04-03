@@ -1,1 +1,1 @@
-var mnemonic = "glory east space discover energy column miracle hazard cliff frown hero inch";
+var mnemonic = "cliff grocery arrange cage diet sheriff position spring ring parade dune problem";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak appear throw erase shock focus siege assist obscure slogan mountain broom";
+var mnemonic = "oblige faint rain express loop loud fatigue copper legal tired cement hungry";

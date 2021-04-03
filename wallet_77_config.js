@@ -1,1 +1,1 @@
-var mnemonic = "emotion employ smoke royal memory ordinary either supreme history about amateur swim";
+var mnemonic = "organ dry state wash nerve try clock business trade swamp vicious memory";

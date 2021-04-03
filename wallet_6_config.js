@@ -1,1 +1,1 @@
-var mnemonic = "alpha clay rigid damp collect warfare follow solar cupboard cave submit glove";
+var mnemonic = "guitar program rabbit stool shine episode invite mule mosquito tent stove report";

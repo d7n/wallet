@@ -1,1 +1,1 @@
-var mnemonic = "mango axis boat light clerk bomb bacon eagle aim intact tongue pole";
+var mnemonic = "apology cross unlock grape clown home foot faint ocean obey degree program";

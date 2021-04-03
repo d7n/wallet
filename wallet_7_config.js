@@ -1,1 +1,1 @@
-var mnemonic = "leaf quote cycle cheese document fetch idle quick gaze surprise sell flight";
+var mnemonic = "ticket dignity maple stage pig immune mountain exotic social coil wealth fruit";

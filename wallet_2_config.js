@@ -1,1 +1,1 @@
-var mnemonic = "motion train mixture betray aisle eager enrich wet giggle interest online faculty";
+var mnemonic = "avocado key gasp hawk type save nurse tourist enable radio piano birth";

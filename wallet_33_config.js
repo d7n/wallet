@@ -1,1 +1,1 @@
-var mnemonic = "ask soldier tray gown reveal ticket unfair abandon puppy veteran axis foil";
+var mnemonic = "advice offer lizard film team forum ceiling early round energy pledge equal";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge play actress describe describe above feel inhale cliff seek squeeze fruit";
+var mnemonic = "valve rough common immune unfair must average guide phrase asset present bulb";

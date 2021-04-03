@@ -1,1 +1,1 @@
-var mnemonic = "liberty renew casino bean couch prepare soon young system level trigger business";
+var mnemonic = "quarter huge alien concert poet diagram orphan struggle pudding person tenant hip";

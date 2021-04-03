@@ -1,1 +1,1 @@
-var mnemonic = "come sure stable egg inside oil old slide paddle arrange river pretty";
+var mnemonic = "canoe office slow plug prosper hobby term this frame topic helmet stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "tired bike custom sustain city abstract public border expose dose target govern";
+var mnemonic = "history cheese popular pact exist version goat solid capable slight february pulse";

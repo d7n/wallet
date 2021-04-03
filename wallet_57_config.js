@@ -1,1 +1,1 @@
-var mnemonic = "speed suffer obvious long tackle stick donate width rescue antenna ten behind";
+var mnemonic = "cigar umbrella between alter chair camp echo envelope enjoy head fun marble";

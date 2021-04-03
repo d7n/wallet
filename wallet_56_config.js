@@ -1,1 +1,1 @@
-var mnemonic = "such jealous key call vacant hair fall stone vessel snake cash major";
+var mnemonic = "debate stamp stay iron engage thrive hour excite monitor pledge long teach";

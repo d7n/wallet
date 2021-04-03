@@ -1,1 +1,1 @@
-var mnemonic = "awesome reunion hard promote secret hood bone soda garbage noise vacuum unaware";
+var mnemonic = "retire gain nerve stage cage flip inject oxygen photo expand recall blade";

@@ -1,1 +1,1 @@
-var mnemonic = "angry helmet phrase jazz daring squirrel void idea action retreat between prosper";
+var mnemonic = "bring spot same humor dove nominee age rapid puppy tent great amount";

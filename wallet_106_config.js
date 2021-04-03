@@ -1,1 +1,1 @@
-var mnemonic = "scorpion guess easily furnace talent bread ask rebuild gauge gas creek valley";
+var mnemonic = "portion hawk impact tower machine divert fox future sting actual that raccoon";

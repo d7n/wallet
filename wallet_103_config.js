@@ -1,1 +1,1 @@
-var mnemonic = "boy lava student gun rally lion rich detect robust exit decorate whale";
+var mnemonic = "excess hip stage tumble fatigue armor rely insect birth jazz attack swarm";

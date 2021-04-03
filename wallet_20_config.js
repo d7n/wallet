@@ -1,1 +1,1 @@
-var mnemonic = "announce fiction wild brother sad color chuckle fold upper swing insane pupil";
+var mnemonic = "usage gym sure rent market session radar stand heart paddle develop enrich";

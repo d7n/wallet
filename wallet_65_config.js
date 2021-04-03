@@ -1,1 +1,1 @@
-var mnemonic = "stage damage wear second decade diet tooth toward plug strong stumble certain";
+var mnemonic = "one wheel remind funny swarm nasty upon hunt whip stable desk senior";

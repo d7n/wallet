@@ -1,1 +1,1 @@
-var mnemonic = "rely market cancel rebel bone view air pyramid focus receive science coach";
+var mnemonic = "short transfer surprise suspect sample random wagon twist grace burst ivory truth";

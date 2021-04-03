@@ -1,1 +1,1 @@
-var mnemonic = "little history bean drama three squirrel raccoon lyrics stick spawn rocket orbit";
+var mnemonic = "sell more oval mule file nurse best alley style place few version";

@@ -1,1 +1,1 @@
-var mnemonic = "echo penalty mystery soul cactus spread rally slush giggle hybrid mass wage";
+var mnemonic = "drama ski mass melt scatter appear young wait expect window poverty ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "urban angle review artwork panic hub rapid reduce column fire soda settle";
+var mnemonic = "fossil crowd honey enrich carbon genuine crane income shine credit wife emerge";

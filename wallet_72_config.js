@@ -1,1 +1,1 @@
-var mnemonic = "youth payment cheap shiver thumb dove foil buyer about patrol recycle half";
+var mnemonic = "cigar fortune mom urban mesh all coast torch equip tired sail cute";

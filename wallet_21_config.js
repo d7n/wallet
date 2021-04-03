@@ -1,1 +1,1 @@
-var mnemonic = "laptop program slush tiny gap top target blue trap soon into sign";
+var mnemonic = "risk attack merge artist few clog small shoe health gift skill refuse";

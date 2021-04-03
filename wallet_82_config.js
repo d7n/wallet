@@ -1,1 +1,1 @@
-var mnemonic = "battle panic silk slot live describe butter other teach gaze bar ship";
+var mnemonic = "copy vehicle boss index divert announce guess erase link trash clinic destroy";

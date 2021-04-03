@@ -1,1 +1,1 @@
-var mnemonic = "ankle juice immense outside danger rent surface cradle describe nephew game kidney";
+var mnemonic = "problem erode perfect wrist noodle vacuum mad you digital love stick usual";

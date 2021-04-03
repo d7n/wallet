@@ -1,1 +1,1 @@
-var mnemonic = "scale track clay autumn comfort cart master cattle mixture annual lizard female";
+var mnemonic = "achieve parade lesson round coach mad work teach offer inhale anxiety silent";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas alpha trumpet place family sadness wife arrest sister unhappy subway orange";
+var mnemonic = "favorite tenant convince brisk fury snake unhappy enhance buzz tumble attitude stage";

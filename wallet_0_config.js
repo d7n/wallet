@@ -1,1 +1,1 @@
-var mnemonic = "ketchup harsh problem limit fold arrow cement range spread novel silent travel";
+var mnemonic = "boss squeeze ugly arch arrange electric ethics word purpose dizzy select valid";

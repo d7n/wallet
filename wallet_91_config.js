@@ -1,1 +1,1 @@
-var mnemonic = "apart manual wave second tuna subway obtain sudden dial robust table capable";
+var mnemonic = "volcano nest beyond elite retire crouch episode limb wise excess critic egg";

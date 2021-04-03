@@ -1,1 +1,1 @@
-var mnemonic = "famous lucky cruise laptop region wealth away devote artist artefact know unique";
+var mnemonic = "stage void crawl tide monster crop enforce close ramp stand enroll soon";

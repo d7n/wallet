@@ -1,1 +1,1 @@
-var mnemonic = "crew echo fade ensure talent hollow reason tooth lizard minimum hen lamp";
+var mnemonic = "dragon degree shiver baby divorce document enroll under regular breeze stuff eagle";

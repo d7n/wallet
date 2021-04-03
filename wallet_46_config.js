@@ -1,1 +1,1 @@
-var mnemonic = "vital long unique junior setup frozen robot gentle horn aisle weather when";
+var mnemonic = "ivory town develop rose spawn adapt wall pet mule dirt glad grain";

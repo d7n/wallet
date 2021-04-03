@@ -1,1 +1,1 @@
-var mnemonic = "twenty grit rifle patch garbage lyrics limb bronze state typical aunt cost";
+var mnemonic = "south youth index between timber miracle glare crazy era shy awake sword";

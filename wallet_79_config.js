@@ -1,1 +1,1 @@
-var mnemonic = "visual annual remind industry join body blouse trust slender able push salute";
+var mnemonic = "sick bonus symptom fall pave length infant jealous much section whip question";

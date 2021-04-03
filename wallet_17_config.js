@@ -1,1 +1,1 @@
-var mnemonic = "erosion decide cram flee laundry burger repair measure junior moment anxiety slender";
+var mnemonic = "version hurt poet page toy trial clutch window dust cute boat inject";

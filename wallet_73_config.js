@@ -1,1 +1,1 @@
-var mnemonic = "fiscal system boss mansion clay spatial winter various safe tongue erase list";
+var mnemonic = "tackle resist voyage coil neck frame ostrich dish loyal hero slender thrive";

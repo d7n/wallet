@@ -1,1 +1,1 @@
-var mnemonic = "moon candy public reason prevent copy pony demise awake cruise tragic filter";
+var mnemonic = "shop expect never wide parent impact asthma distance near zero immense diary";

@@ -1,1 +1,1 @@
-var mnemonic = "law clever bone flush patient luxury rescue voyage rifle explain thing unhappy";
+var mnemonic = "wood assault across tide visit moral dirt boring invest blush recycle consider";

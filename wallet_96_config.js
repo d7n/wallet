@@ -1,1 +1,1 @@
-var mnemonic = "hour omit river effort future dynamic awkward power excuse earn old asset";
+var mnemonic = "illness cradle cattle exist income police mutual era recall raw sheriff minor";

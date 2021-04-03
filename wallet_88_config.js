@@ -1,1 +1,1 @@
-var mnemonic = "pave banner penalty sibling type staff home output tomato solid million demise";
+var mnemonic = "assume list dove reopen parent you liar antenna regular usage blanket arrow";

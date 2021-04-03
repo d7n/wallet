@@ -1,1 +1,1 @@
-var mnemonic = "finger pave surface race point prefer sketch measure gift refuse judge dog";
+var mnemonic = "effort acid diary vendor tomato amateur predict mask innocent year casino mother";

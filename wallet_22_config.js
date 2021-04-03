@@ -1,1 +1,1 @@
-var mnemonic = "beauty hello such track edge hamster mouse alcohol vague move forest flush";
+var mnemonic = "gentle market faculty execute end abuse cabin caught erase square blast work";

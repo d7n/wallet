@@ -1,1 +1,1 @@
-var mnemonic = "second valve oppose rare spell submit sausage head jungle inhale depart wise";
+var mnemonic = "turn ritual february tumble gallery salon turtle area radio episode course mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "awful theory sorry coil envelope pony neither attend flag buddy enable stem";
+var mnemonic = "deny wish duty stairs drill wild pride sleep gasp light arm pioneer";

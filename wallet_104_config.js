@@ -1,1 +1,1 @@
-var mnemonic = "crisp member remember proof digital bid faculty insane notable faint bind cram";
+var mnemonic = "bone unveil tide liar can boss elbow glass proud practice middle void";

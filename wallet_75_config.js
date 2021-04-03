@@ -1,1 +1,1 @@
-var mnemonic = "mom matter lift solve cabbage main fantasy cargo phrase master road thumb";
+var mnemonic = "remain neck satoshi entire month visit snap divert trumpet wedding chef bonus";

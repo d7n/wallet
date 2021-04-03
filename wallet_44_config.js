@@ -1,1 +1,1 @@
-var mnemonic = "bright public claw traffic spirit orphan foil wild artefact surprise fix menu";
+var mnemonic = "wisdom creek lens rely pony stamp buffalo coin crucial rice patrol border";

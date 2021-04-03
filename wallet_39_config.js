@@ -1,1 +1,1 @@
-var mnemonic = "type bronze aspect spare hire volume trumpet order team cake essence venue";
+var mnemonic = "among just fall marriage curious verify rescue supply brass cabbage busy double";

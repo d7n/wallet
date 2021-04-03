@@ -1,1 +1,1 @@
-var mnemonic = "modify figure expand much paper maximum check frequent badge section fluid sweet";
+var mnemonic = "resource salute hundred clap cancel milk undo you advice explain license topic";

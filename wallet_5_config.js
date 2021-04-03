@@ -1,1 +1,1 @@
-var mnemonic = "famous chat diet brother mountain book include card prevent conduct trend slice";
+var mnemonic = "sure carpet bread try topple script liquid enact slam stick skirt wink";

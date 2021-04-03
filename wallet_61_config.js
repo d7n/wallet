@@ -1,1 +1,1 @@
-var mnemonic = "angry bamboo indoor raven aisle cover access sure poet rely sausage utility";
+var mnemonic = "balcony monitor steak salad curve nature fever moral night myth deny arrange";

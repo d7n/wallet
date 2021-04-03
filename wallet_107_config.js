@@ -1,1 +1,1 @@
-var mnemonic = "lamp cinnamon key hood harvest ice transfer suit element claw fitness loyal";
+var mnemonic = "shock render much wrist dose typical spare find eight donkey task awful";

@@ -1,1 +1,1 @@
-var mnemonic = "venture almost monster olive short rain abandon absorb budget crack sadness spider";
+var mnemonic = "unaware parent carpet camera obvious rally beyond example strong lumber casino alert";

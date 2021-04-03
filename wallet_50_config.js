@@ -1,1 +1,1 @@
-var mnemonic = "veteran pistol crazy hawk slide loop olive fog alert obscure daring gift";
+var mnemonic = "bulb huge still much spoil panda exile rain ten attack broken leisure";

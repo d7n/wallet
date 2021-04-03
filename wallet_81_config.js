@@ -1,1 +1,1 @@
-var mnemonic = "pupil whip find bind business convince suffer twelve merry cream family limb";
+var mnemonic = "favorite embark daughter scan trash illness weather disagree woman mother purchase treat";

@@ -1,1 +1,1 @@
-var mnemonic = "promote solve winner lottery farm alone theme help scout inherit brave invite";
+var mnemonic = "unknown feel brick genius gravity city secret census honey embody abuse uphold";

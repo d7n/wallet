@@ -1,1 +1,1 @@
-var mnemonic = "filter sock cool soap cherry acid blush shock online chapter barrel whip";
+var mnemonic = "long evolve van eyebrow calm pitch rigid depth absent action joy iron";

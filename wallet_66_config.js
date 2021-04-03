@@ -1,1 +1,1 @@
-var mnemonic = "assist gentle pig logic time bamboo label walnut turtle version obtain nothing";
+var mnemonic = "found very carpet outdoor okay airport diamond spell leopard chief call sign";

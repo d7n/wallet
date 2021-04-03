@@ -1,1 +1,1 @@
-var mnemonic = "mouse famous fantasy inmate adult fit allow era fork civil reflect weapon";
+var mnemonic = "dragon seat humble veteran word deny civil book banana shield sail near";

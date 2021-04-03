@@ -1,1 +1,1 @@
-var mnemonic = "verify motion decide infant disagree permit clerk gain stem parade limit hamster";
+var mnemonic = "nasty shiver soccer hamster stuff trigger say bargain pet earth velvet market";

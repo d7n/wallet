@@ -1,1 +1,1 @@
-var mnemonic = "front anger forest hood cradle impose letter slab afford minute unlock siren";
+var mnemonic = "salmon verb climb tackle faith task glide sphere churn swift maze weather";

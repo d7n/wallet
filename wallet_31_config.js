@@ -1,1 +1,1 @@
-var mnemonic = "swallow balance practice true daughter cross cricket coconut spirit curtain barrel various";
+var mnemonic = "vanish walk estate busy glow liquid just permit hospital subject attract basket";

@@ -1,1 +1,1 @@
-var mnemonic = "inject chalk isolate cross useful swallow toilet connect retreat defense add indicate";
+var mnemonic = "address bus hand never buffalo gloom intact excuse cup pave faculty calm";

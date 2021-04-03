@@ -1,1 +1,1 @@
-var mnemonic = "lottery copy stairs glove pony token agent claim dose blur shell off";
+var mnemonic = "cruel bridge pear ramp loan rival huge garden machine violin report ginger";

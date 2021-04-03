@@ -1,1 +1,1 @@
-var mnemonic = "just nest setup sponsor way wet pizza swallow dry divert unhappy toy";
+var mnemonic = "capable combine chuckle mixture health weapon smile hurry poet fragile flame debris";

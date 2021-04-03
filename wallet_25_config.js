@@ -1,1 +1,1 @@
-var mnemonic = "dry minimum match stairs fog impulse ribbon canal library bid yellow paddle";
+var mnemonic = "alley labor pig wing barrel more heart swap link neglect hedgehog save";

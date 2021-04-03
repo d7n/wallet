@@ -1,1 +1,1 @@
-var mnemonic = "brick sunset grant harvest dilemma leisure tray injury bunker keen trigger path";
+var mnemonic = "list focus keep sound near shed satisfy wrestle ivory staff visual exist";

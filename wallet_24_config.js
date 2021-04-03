@@ -1,1 +1,1 @@
-var mnemonic = "amazing panther craft lesson hockey coin city cabbage apple blood rural fruit";
+var mnemonic = "doll find earn enact huge craft bomb belt extra umbrella twice tree";

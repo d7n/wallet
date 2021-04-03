@@ -1,1 +1,1 @@
-var mnemonic = "brush satoshi wink corn elephant lens liquid pet offer kite mean skill";
+var mnemonic = "address argue mechanic bargain text rhythm library corn pioneer hello donor cook";

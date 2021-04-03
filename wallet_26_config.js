@@ -1,1 +1,1 @@
-var mnemonic = "holiday door display census window asthma despair enter beauty game innocent bind";
+var mnemonic = "clump upper clip exile measure oxygen race private eye canvas parade chimney";

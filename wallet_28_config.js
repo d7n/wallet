@@ -1,1 +1,1 @@
-var mnemonic = "waste stomach left office enter license crash access critic miss seminar column";
+var mnemonic = "scheme base license useless smooth thank inject depend unaware fame upgrade pitch";

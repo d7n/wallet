@@ -1,1 +1,1 @@
-var mnemonic = "someone erosion guard proud moon hotel orphan outer hair clump axis jungle";
+var mnemonic = "fire setup leisure chimney shuffle image ask rule damp grid crucial salad";

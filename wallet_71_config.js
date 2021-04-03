@@ -1,1 +1,1 @@
-var mnemonic = "question gold panel renew absorb exit grace cute argue velvet speak sound";
+var mnemonic = "author enjoy tooth virus glimpse image canal situate volume cannon sad body";

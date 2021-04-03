@@ -1,1 +1,1 @@
-var mnemonic = "design basic cause silver clinic exotic prize ocean erase suspect aim quality";
+var mnemonic = "stomach cigar sadness device float sight south original west cabin detect three";

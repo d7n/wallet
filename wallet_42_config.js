@@ -1,1 +1,1 @@
-var mnemonic = "transfer wrap motor forward monkey whale page muscle design blame element already";
+var mnemonic = "easily woman husband fantasy zero this awake obey normal beach obscure two";

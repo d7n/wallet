@@ -1,1 +1,1 @@
-var mnemonic = "fold tourist salmon shift pony gather recipe tide pretty fiction denial parrot";
+var mnemonic = "unique honey tape tortoise crowd bag belt vibrant shaft attend few upgrade";

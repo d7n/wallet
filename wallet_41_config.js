@@ -1,1 +1,1 @@
-var mnemonic = "lunch luggage clerk tourist foster someone dress weird machine foot twelve obscure";
+var mnemonic = "play mail burger gain cigar need hospital history remember obtain hundred disease";

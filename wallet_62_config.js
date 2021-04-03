@@ -1,1 +1,1 @@
-var mnemonic = "copper peasant patient barely thought enrich minute stomach visa monitor bullet weather";
+var mnemonic = "column month trade during sign layer announce deer female involve radar agent";

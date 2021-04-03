@@ -1,1 +1,1 @@
-var mnemonic = "bullet speed blade latin jazz express idea voyage drive can inspire rifle";
+var mnemonic = "chronic rocket broccoli scissors decorate dentist photo ordinary kitchen input umbrella police";

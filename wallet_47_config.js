@@ -1,1 +1,1 @@
-var mnemonic = "beyond grace capital shoulder bacon pull duck feature room leopard amateur south";
+var mnemonic = "little pause tornado flush mushroom dolphin chimney foot ankle exact loud hip";
