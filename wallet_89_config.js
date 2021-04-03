@@ -1,1 +1,1 @@
-var mnemonic = "agree tumble soon climb random window patch smart beach soccer spray spoil";
+var mnemonic = "dash action drive general lift hollow provide mouse help crater abandon give";

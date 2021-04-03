@@ -1,1 +1,1 @@
-var mnemonic = "hill music equip trophy congress pulp outside person cash fiscal half bleak";
+var mnemonic = "enroll erode crunch spare filter trap album toward divide parent tiny exile";

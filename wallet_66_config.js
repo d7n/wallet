@@ -1,1 +1,1 @@
-var mnemonic = "luggage danger carry rebuild foam civil faculty cram foot ask bitter source";
+var mnemonic = "mandate help guide fury cupboard vanish service flip ghost piece creek above";

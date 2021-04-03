@@ -1,1 +1,1 @@
-var mnemonic = "junior elephant survey mixed mammal raw what title nasty almost magnet raven";
+var mnemonic = "glove plug destroy ask festival win hair museum grit garlic urban neither";

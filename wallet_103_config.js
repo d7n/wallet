@@ -1,1 +1,1 @@
-var mnemonic = "shy federal hospital spread knife apology ride country genius stumble pistol journey";
+var mnemonic = "toward deliver army join lamp spin brief client unknown delay enough lady";

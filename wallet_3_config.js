@@ -1,1 +1,1 @@
-var mnemonic = "ignore palace bubble polar elevator fork eye connect tube check top gas";
+var mnemonic = "noise aspect scissors tornado peanut lobster deliver option seat general twice nation";

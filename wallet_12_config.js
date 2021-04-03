@@ -1,1 +1,1 @@
-var mnemonic = "base space expire absurd galaxy goat chat wire section ketchup region accuse";
+var mnemonic = "inspire ghost zebra panda frog worry ritual rebuild shoe faint birth enrich";

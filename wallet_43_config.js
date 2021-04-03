@@ -1,1 +1,1 @@
-var mnemonic = "junk squeeze human goddess that rookie month invest casual security thing aerobic";
+var mnemonic = "access honey solar bone ill clerk short relax slide general fame observe";

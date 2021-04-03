@@ -1,1 +1,1 @@
-var mnemonic = "pool fine appear theme firm table merge make mother payment slogan critic";
+var mnemonic = "flash gloom sunset puppy sausage time mention dress case spy ahead raven";

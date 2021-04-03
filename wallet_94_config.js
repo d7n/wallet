@@ -1,1 +1,1 @@
-var mnemonic = "myth ketchup garage skill rib panda motion develop close suffer pitch pudding";
+var mnemonic = "primary trap distance over cigar resemble salmon faculty demise fresh produce milk";

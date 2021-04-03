@@ -1,1 +1,1 @@
-var mnemonic = "cruel repeat detect mean trim vote turtle few chair twelve uncle maid";
+var mnemonic = "pull ten salad surface round current pen favorite very firm car concert";

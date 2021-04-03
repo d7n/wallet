@@ -1,1 +1,1 @@
-var mnemonic = "since shell discover coast hazard battle arrow category bar trophy maximum symbol";
+var mnemonic = "guard cheap life salon tired staff sick miss spray eternal dry push";

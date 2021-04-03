@@ -1,1 +1,1 @@
-var mnemonic = "loyal priority kidney reason half network saddle icon culture van height bike";
+var mnemonic = "pizza badge dose drama plug much front grid long hockey wonder obtain";

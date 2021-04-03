@@ -1,1 +1,1 @@
-var mnemonic = "famous explain air seed message essence general diamond upper front drink box";
+var mnemonic = "original pyramid bottom claw age panther spatial write ignore surprise put pyramid";

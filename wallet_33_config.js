@@ -1,1 +1,1 @@
-var mnemonic = "acquire hello motion hurdle junior wear transfer wisdom huge pill sadness main";
+var mnemonic = "march exotic occur decline corn display better length price decade inquiry loop";

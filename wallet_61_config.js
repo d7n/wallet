@@ -1,1 +1,1 @@
-var mnemonic = "job usual put ripple response attend brain smoke pond hello cost pact";
+var mnemonic = "alter toe lecture multiply fork pottery rural disorder joke tide nominee cable";

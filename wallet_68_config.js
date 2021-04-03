@@ -1,1 +1,1 @@
-var mnemonic = "awesome virtual blue buyer party raw broken deliver awake million pioneer bacon";
+var mnemonic = "barrel black envelope nature dilemma buddy bring teach knife praise lunch sword";

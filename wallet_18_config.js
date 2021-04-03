@@ -1,1 +1,1 @@
-var mnemonic = "slush spirit pilot room pencil lend what tube mother ghost flag attend";
+var mnemonic = "vehicle window zone clay recycle reduce lava limit village misery toss web";

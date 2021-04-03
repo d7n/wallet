@@ -1,1 +1,1 @@
-var mnemonic = "network journey come stool excite peace flat swarm quiz clap just prepare";
+var mnemonic = "wish shed evil outer envelope ghost also fuel lawn relief run ancient";

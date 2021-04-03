@@ -1,1 +1,1 @@
-var mnemonic = "sunset bacon topple globe virtual panther rice produce climb frost library road";
+var mnemonic = "hire author input outside basic mimic local fuel horror tonight planet grit";

@@ -1,1 +1,1 @@
-var mnemonic = "horror hotel city supply category dragon disease pen entire entry rebel buddy";
+var mnemonic = "swarm motion morning banana manual fog angry leg glow hurt panic undo";

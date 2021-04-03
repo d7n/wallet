@@ -1,1 +1,1 @@
-var mnemonic = "drift oak impact industry connect element layer student useful delay endless resource";
+var mnemonic = "soccer term witness emotion write wrap when vacuum endless element afraid nurse";

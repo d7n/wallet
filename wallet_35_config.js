@@ -1,1 +1,1 @@
-var mnemonic = "trophy romance novel dash produce sunny vivid absent shuffle ability pink tail";
+var mnemonic = "sign tell motion empower shaft turn head laundry summer client hawk category";

@@ -1,1 +1,1 @@
-var mnemonic = "feed tomato whip two situate chuckle general razor addict pair amused fragile";
+var mnemonic = "comic swamp human issue seek sting magnet luxury return canal waste swamp";

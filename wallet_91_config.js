@@ -1,1 +1,1 @@
-var mnemonic = "october marine admit match ignore seek deposit crew banner home idle detail";
+var mnemonic = "syrup infant winner venture source easily start simple drum decade daughter one";

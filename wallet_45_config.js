@@ -1,1 +1,1 @@
-var mnemonic = "merry limit cute marble drum thing major resource hint bread impose sudden";
+var mnemonic = "security violin deputy front shoe verify sunny journey section wink client immune";

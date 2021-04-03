@@ -1,1 +1,1 @@
-var mnemonic = "fitness analyst spawn squeeze isolate fiscal portion session swift toward decline oak";
+var mnemonic = "gym giant clutch write gather outside aware country broken mother pond warrior";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow winner dumb drift rule voyage glide correct toilet saddle color emotion";
+var mnemonic = "brain celery clip gold business embark season ecology chronic noise dream consider";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer dust comfort super fork pig stable picture merry lottery pill potato";
+var mnemonic = "mammal ticket beauty frost dose enact guide side label core total mule";

@@ -1,1 +1,1 @@
-var mnemonic = "weird soul similar apart diagram easy elbow route road soon upset cradle";
+var mnemonic = "vintage scene gossip rigid salad cloth gym garlic arrive innocent orchard off";

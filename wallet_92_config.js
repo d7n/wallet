@@ -1,1 +1,1 @@
-var mnemonic = "same ecology like relief supply minute tuition gown buzz fault twenty canyon";
+var mnemonic = "witness whip used absent recall sort maximum east entry seed deliver news";

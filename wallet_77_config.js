@@ -1,1 +1,1 @@
-var mnemonic = "leisure neglect oval junk twist about fossil frog subject quiz magic mesh";
+var mnemonic = "cargo execute west rhythm gauge earn south agree evolve cabin color primary";

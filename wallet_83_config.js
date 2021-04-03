@@ -1,1 +1,1 @@
-var mnemonic = "gain viable tide appear manage olympic estate tree noise uphold ensure collect";
+var mnemonic = "action entire lift vocal diagram melt august cage common pear onion razor";

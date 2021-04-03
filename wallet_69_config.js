@@ -1,1 +1,1 @@
-var mnemonic = "pledge fit concert trick accuse bacon across nominee flower orchard danger walnut";
+var mnemonic = "squeeze use salon rule illegal manage cinnamon derive fruit debate army surface";

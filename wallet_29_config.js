@@ -1,1 +1,1 @@
-var mnemonic = "knock turn cupboard cheese symptom liberty main grit cheese stem lecture real";
+var mnemonic = "man intact crash cotton robust penalty sunset midnight gloom switch power pulp";

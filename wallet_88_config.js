@@ -1,1 +1,1 @@
-var mnemonic = "work hero own news royal cinnamon pluck dad uncle chief medal arrest";
+var mnemonic = "suit such cruel combine refuse sphere gaze thing catalog renew lawn inch";

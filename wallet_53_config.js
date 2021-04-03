@@ -1,1 +1,1 @@
-var mnemonic = "robot desert regret suspect occur art jar buddy flat chair clean rose";
+var mnemonic = "salon fish letter taste riot vacant paddle member insect stick duty sunset";

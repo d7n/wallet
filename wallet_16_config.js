@@ -1,1 +1,1 @@
-var mnemonic = "camera mule hill original maze powder endless song syrup final tell forward";
+var mnemonic = "call jealous pool mirror tired forget space hazard shove wild devote great";

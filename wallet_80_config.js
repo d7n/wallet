@@ -1,1 +1,1 @@
-var mnemonic = "furnace file diesel clap floor wall woman praise suit stick idea forum";
+var mnemonic = "valve caution gown stove frown rotate citizen exotic zone saddle grain melt";

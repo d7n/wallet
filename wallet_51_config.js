@@ -1,1 +1,1 @@
-var mnemonic = "sphere boost angry crazy universe lyrics animal announce inquiry bomb skull island";
+var mnemonic = "inform ritual add penalty scrap obtain cinnamon explain puzzle duck grocery solar";

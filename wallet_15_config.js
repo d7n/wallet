@@ -1,1 +1,1 @@
-var mnemonic = "inherit veteran injury vibrant people gauge dismiss door sail sunny segment dust";
+var mnemonic = "drip atom cheap worth current buyer include family enemy injury outside result";

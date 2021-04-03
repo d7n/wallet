@@ -1,1 +1,1 @@
-var mnemonic = "salad garbage hockey update bird assault thumb lyrics ritual involve benefit obvious";
+var mnemonic = "reduce involve faint kiss venue outside follow rifle auction taxi ice version";

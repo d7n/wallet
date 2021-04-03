@@ -1,1 +1,1 @@
-var mnemonic = "dynamic chat raven neglect square side expect kind evil frequent permit ketchup";
+var mnemonic = "asthma broccoli anxiety start slam solution rifle gallery height list output maze";

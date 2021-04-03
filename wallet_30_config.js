@@ -1,1 +1,1 @@
-var mnemonic = "start twist slight material reflect depend island angry zebra number doll depend";
+var mnemonic = "major nurse fiction couple scrub orchard art put alcohol gate pool luxury";

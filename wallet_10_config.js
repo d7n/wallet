@@ -1,1 +1,1 @@
-var mnemonic = "never autumn father cup verb ecology diesel execute grid atom million zoo";
+var mnemonic = "tube diamond isolate logic defy couple knife curious hotel connect hobby impose";

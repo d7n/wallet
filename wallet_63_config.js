@@ -1,1 +1,1 @@
-var mnemonic = "spray until maid broccoli exotic coffee shed range little call ankle fun";
+var mnemonic = "clerk utility napkin now garage final become bachelor curtain twin little sun";

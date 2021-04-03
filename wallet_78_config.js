@@ -1,1 +1,1 @@
-var mnemonic = "neither toss fury roast famous dilemma insect lunch pigeon wrist audit prefer";
+var mnemonic = "giggle jungle hello laugh brisk climb symptom asset shoot tone tortoise man";

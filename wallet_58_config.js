@@ -1,1 +1,1 @@
-var mnemonic = "decade swarm eight angry tomato use brand cube great local negative mention";
+var mnemonic = "pull main high cluster damp swarm left change humor length story brisk";

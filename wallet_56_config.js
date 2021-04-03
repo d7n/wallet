@@ -1,1 +1,1 @@
-var mnemonic = "confirm arrow impulse long actual horse hungry favorite quantum balcony swear rather";
+var mnemonic = "own range museum piano head seminar tiny memory casino leopard burst swift";

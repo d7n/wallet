@@ -1,1 +1,1 @@
-var mnemonic = "glance culture defy surprise maximum fiscal nephew sting dose wide present pottery";
+var mnemonic = "frequent trash average excuse still habit clap together reject sadness swamp manage";

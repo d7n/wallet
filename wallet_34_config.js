@@ -1,1 +1,1 @@
-var mnemonic = "marine drift balance safe pledge guess quarter advice artist riot under setup";
+var mnemonic = "illness sort zone artist liberty zoo milk gold vacant select gospel level";

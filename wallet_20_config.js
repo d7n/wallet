@@ -1,1 +1,1 @@
-var mnemonic = "oxygen learn sort wide neglect giraffe breeze breeze voice bread abuse box";
+var mnemonic = "cat rice glory century patch orange believe scale fitness winter bind caught";

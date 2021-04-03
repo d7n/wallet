@@ -1,1 +1,1 @@
-var mnemonic = "alone call sponsor vacant flush slogan sound destroy deliver guide nurse verify";
+var mnemonic = "enhance vague toe click genuine trust lemon exact tool civil face typical";

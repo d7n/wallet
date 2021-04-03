@@ -1,1 +1,1 @@
-var mnemonic = "force toss broom reform sausage improve profit fabric steel fury idea jewel";
+var mnemonic = "suit chicken prison bachelor basic east loyal tower drink drink lion judge";

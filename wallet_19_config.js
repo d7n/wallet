@@ -1,1 +1,1 @@
-var mnemonic = "demand pudding fall there husband void three together defy they vote favorite";
+var mnemonic = "lake raw inflict gauge south innocent vague scene heart veteran match frown";

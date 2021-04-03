@@ -1,1 +1,1 @@
-var mnemonic = "shoe pulp voice solution allow buddy come model fiction rain tuna lonely";
+var mnemonic = "duty shoulder clown joy blossom since length credit orbit brain nest own";

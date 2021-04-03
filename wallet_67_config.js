@@ -1,1 +1,1 @@
-var mnemonic = "select control cause actress main butter school parrot gas version hollow payment";
+var mnemonic = "sign school pear achieve raise fitness change check flight enroll vehicle author";

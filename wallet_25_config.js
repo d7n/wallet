@@ -1,1 +1,1 @@
-var mnemonic = "south mom door another roast renew truly just carry canyon during turtle";
+var mnemonic = "advance together swamp plunge boil across melt camp dawn spray burden rough";

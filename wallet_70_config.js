@@ -1,1 +1,1 @@
-var mnemonic = "prosper maze stage dance tornado trial misery marble chat excite vast ostrich";
+var mnemonic = "move object unusual trash grocery alone wave planet delay father skin wood";

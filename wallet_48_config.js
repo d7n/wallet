@@ -1,1 +1,1 @@
-var mnemonic = "bridge vapor bread hat arctic hero finish say argue grief cause dolphin";
+var mnemonic = "provide prepare warrior riot crime gossip globe destroy sentence gun lawn mixed";

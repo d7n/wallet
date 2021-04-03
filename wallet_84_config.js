@@ -1,1 +1,1 @@
-var mnemonic = "naive bitter drama cotton genre street public subway spatial shallow immense chef";
+var mnemonic = "join candy bracket project tiger inform asthma shallow chicken whale cactus scan";

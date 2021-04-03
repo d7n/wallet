@@ -1,1 +1,1 @@
-var mnemonic = "pottery sugar canoe alert soldier win trade surge cram milk captain net";
+var mnemonic = "law source goose bright legend action bag spell net hurdle various shoulder";

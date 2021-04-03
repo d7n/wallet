@@ -1,1 +1,1 @@
-var mnemonic = "above pill crystal special sentence taste element split connect observe supply trash";
+var mnemonic = "cake lyrics extend uncover good scan fabric scare shiver final celery laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "test group bracket alarm marine arrange pass leg refuse story help ketchup";
+var mnemonic = "best lizard school ring vocal rather page carbon achieve grit kit tank";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap web cross glue horror view menu stock dwarf just tomorrow vessel";
+var mnemonic = "across lunar mean cave rent oppose weasel profit coral claim mansion announce";

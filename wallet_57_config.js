@@ -1,1 +1,1 @@
-var mnemonic = "increase inform face bike average reflect check wing all among obvious duty";
+var mnemonic = "trophy chair vessel pipe artefact boring payment uphold mushroom base bargain speak";

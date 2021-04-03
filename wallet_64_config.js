@@ -1,1 +1,1 @@
-var mnemonic = "bubble weather lion engage brown recipe shield click tackle horse survey blouse";
+var mnemonic = "fruit federal seat inner please nothing eager level genre romance rotate tenant";

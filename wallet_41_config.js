@@ -1,1 +1,1 @@
-var mnemonic = "credit gain come alcohol chat average extend present decorate dust into turn";
+var mnemonic = "cargo wash food scare sketch fan office rose lens pony junk grit";

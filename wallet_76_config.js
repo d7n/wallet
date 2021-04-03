@@ -1,1 +1,1 @@
-var mnemonic = "guess patrol design giggle lion day three icon scorpion tired tent town";
+var mnemonic = "noodle business fragile horn satisfy poverty aim picnic rifle artwork portion resource";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur pig length remove giggle circle nephew claim crush exit sunny vocal";
+var mnemonic = "fuel salon rich sleep orchard lawsuit gesture digital keen dose boat biology";

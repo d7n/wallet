@@ -1,1 +1,1 @@
-var mnemonic = "exist tiny live few oppose armor cream eye airport lion like marine";
+var mnemonic = "verify change evolve rapid supreme victory require twenty certain income nerve theory";

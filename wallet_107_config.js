@@ -1,1 +1,1 @@
-var mnemonic = "damage horror search paper glad ethics charge opera monkey essay target novel";
+var mnemonic = "mistake grocery scissors nice slender arrive where helmet picture embark announce gospel";

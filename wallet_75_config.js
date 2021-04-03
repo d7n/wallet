@@ -1,1 +1,1 @@
-var mnemonic = "primary craft behind change cake match need detect lamp drive metal protect";
+var mnemonic = "enhance wood casual donate often address awesome ancient captain hope scan print";

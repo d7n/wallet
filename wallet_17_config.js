@@ -1,1 +1,1 @@
-var mnemonic = "pull know shoot surround truly cargo bamboo size catalog hip hen clock";
+var mnemonic = "disorder that keen merry quantum develop slogan vacant luggage train defy runway";

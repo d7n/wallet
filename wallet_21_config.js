@@ -1,1 +1,1 @@
-var mnemonic = "kiss custom wheat student resemble drift sauce music orchard cliff maple return";
+var mnemonic = "width cube enemy depth inmate school rifle lend absent verb sadness robust";

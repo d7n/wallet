@@ -1,1 +1,1 @@
-var mnemonic = "access melody void pill decrease first employ dinner book start town title";
+var mnemonic = "tunnel grocery toward fun arrange room ancient cancel caution round define century";

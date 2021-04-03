@@ -1,1 +1,1 @@
-var mnemonic = "remain yellow favorite ketchup bag congress jazz admit inner doll toward interest";
+var mnemonic = "man renew pet where paper bus used burger gesture spawn toward giraffe";

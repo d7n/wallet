@@ -1,1 +1,1 @@
-var mnemonic = "mystery promote seek title fade sentence then lemon blanket embrace mushroom gun";
+var mnemonic = "gaze face patrol denial office ship piece siren piano quantum toss neutral";

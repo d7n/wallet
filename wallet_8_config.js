@@ -1,1 +1,1 @@
-var mnemonic = "grocery drip normal push protect fossil major lunch type situate cloth frog";
+var mnemonic = "universe organ cycle puppy obscure happy vivid already number mail globe square";

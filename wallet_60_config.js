@@ -1,1 +1,1 @@
-var mnemonic = "estate demand park miss token shallow swap session movie sunny zebra fire";
+var mnemonic = "ridge raise name outer tide learn carry snake flag correct script bubble";

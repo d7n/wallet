@@ -1,1 +1,1 @@
-var mnemonic = "phone motion mass winter shine very abuse exist trophy clap charge hello";
+var mnemonic = "eagle satoshi six anger fine type pill enable write parrot muscle despair";

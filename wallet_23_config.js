@@ -1,1 +1,1 @@
-var mnemonic = "quantum travel denial opinion famous mercy gorilla duty aware hen chalk verb";
+var mnemonic = "broccoli discover law planet demise raven kid nominee process try veteran tip";

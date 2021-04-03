@@ -1,1 +1,1 @@
-var mnemonic = "learn disagree merit federal donate table bid topple green census trophy hotel";
+var mnemonic = "kitchen orphan evolve detail main crawl order craft submit few mad eight";

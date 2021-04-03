@@ -1,1 +1,1 @@
-var mnemonic = "robot example ignore coffee session orchard fresh expect govern abuse weird rug";
+var mnemonic = "exit dash fantasy young brush north find settle latin stone pyramid north";

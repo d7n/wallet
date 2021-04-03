@@ -1,1 +1,1 @@
-var mnemonic = "mask pelican proud subway river vote crop print box pool old owner";
+var mnemonic = "dismiss recycle damage panic enable talent ahead noodle canyon pig close hurry";

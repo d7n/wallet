@@ -1,1 +1,1 @@
-var mnemonic = "injury dose useful exhaust margin blue effort urge alien address sick crop";
+var mnemonic = "morning forum garlic rare family gun night elephant submit gas lamp camera";

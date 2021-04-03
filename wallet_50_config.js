@@ -1,1 +1,1 @@
-var mnemonic = "retreat hire hidden lonely couple equal rhythm green limit feed ethics client";
+var mnemonic = "wild strategy kiss fly board expect fortune outer cherry rescue trim evolve";

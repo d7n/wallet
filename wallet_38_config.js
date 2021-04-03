@@ -1,1 +1,1 @@
-var mnemonic = "donate argue trim ring mad year poet quiz north venue pulp toe";
+var mnemonic = "denial huge animal once fragile close flash tumble couch stereo unknown birth";

@@ -1,1 +1,1 @@
-var mnemonic = "month goat rich plastic earth blade improve elite inject scheme gorilla rapid";
+var mnemonic = "design reflect traffic spring total main planet great amused park aim attack";

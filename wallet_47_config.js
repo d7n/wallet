@@ -1,1 +1,1 @@
-var mnemonic = "orange street word wagon rabbit reward quit small raccoon mix enjoy drive";
+var mnemonic = "rather pluck race rely morning speak cart enhance decide waste roof night";
