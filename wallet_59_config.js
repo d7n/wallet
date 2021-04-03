@@ -1,1 +1,1 @@
-var mnemonic = "adult defy chat give blossom voyage actor damage give decide orphan raw";
+var mnemonic = "depend fire immense pen exclude top shop skull mass fish select path";

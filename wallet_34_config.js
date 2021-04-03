@@ -1,1 +1,1 @@
-var mnemonic = "virus scatter digital switch laundry task utility bless own symptom same phone";
+var mnemonic = "card earth write remove doctor toast globe tuition arch split cliff usage";

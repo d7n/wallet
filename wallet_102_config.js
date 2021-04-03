@@ -1,1 +1,1 @@
-var mnemonic = "adult edit borrow language afford dirt mercy road trim word stick actual";
+var mnemonic = "pupil remind list mad grab pluck rather layer stadium domain repeat skull";

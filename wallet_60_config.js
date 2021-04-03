@@ -1,1 +1,1 @@
-var mnemonic = "such nation session arrange across hurdle slush scatter aim perfect chuckle february";
+var mnemonic = "room random mask man fly alien future umbrella item spring attack credit";

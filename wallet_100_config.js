@@ -1,1 +1,1 @@
-var mnemonic = "bird crash warrior depth avoid camp taxi speed cage scare crush cabin";
+var mnemonic = "bean cost blood expire snake panel december wrestle liquid occur dynamic public";

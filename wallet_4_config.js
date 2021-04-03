@@ -1,1 +1,1 @@
-var mnemonic = "giant critic message earth adapt quote shadow legend scan duty label pause";
+var mnemonic = "giggle melt danger again vapor employ peanut say grocery borrow science ready";

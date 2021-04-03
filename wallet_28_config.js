@@ -1,1 +1,1 @@
-var mnemonic = "lyrics auto kitten umbrella pretty scan spot liberty blame strike domain aisle";
+var mnemonic = "excite spin among print quality inside laundry sweet resource seek denial aware";

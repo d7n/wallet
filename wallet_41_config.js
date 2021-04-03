@@ -1,1 +1,1 @@
-var mnemonic = "frame cherry aisle wet more tobacco choose taxi gas tornado pioneer eye";
+var mnemonic = "ritual expire host imitate camera page acid kingdom area order gas olympic";

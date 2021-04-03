@@ -1,1 +1,1 @@
-var mnemonic = "dance dream regret promote maple annual idea under latin adjust glory mutual";
+var mnemonic = "issue faint caught burden soul blind state cool wood erosion feed motion";

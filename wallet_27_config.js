@@ -1,1 +1,1 @@
-var mnemonic = "pyramid knife disagree engage loyal stove device record lesson monster talent famous";
+var mnemonic = "antenna engine stereo retire real bid castle extend wonder learn blame must";

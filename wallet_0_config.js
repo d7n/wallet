@@ -1,1 +1,1 @@
-var mnemonic = "moon always great copper accuse dial unable iron judge margin inspire slim";
+var mnemonic = "win mother obey eye lava portion scare boss used learn garage intact";

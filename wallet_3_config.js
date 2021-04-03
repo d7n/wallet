@@ -1,1 +1,1 @@
-var mnemonic = "purse cave spread actual forum drill staff hard movie glare game act";
+var mnemonic = "ready squirrel include earn april verb behind rabbit mobile casual common silent";

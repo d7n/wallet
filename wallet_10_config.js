@@ -1,1 +1,1 @@
-var mnemonic = "frequent bounce wild young gun zero spend fantasy dirt rifle dwarf quarter";
+var mnemonic = "private milk obscure battle submit hurt rare kingdom forum brother allow inspire";

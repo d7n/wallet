@@ -1,1 +1,1 @@
-var mnemonic = "disorder bag law gorilla luggage ice lucky excite city promote census fog";
+var mnemonic = "method release elegant strategy patrol obtain save behave orphan ankle pact furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "lock grass tongue frog decline silk share warrior tell hard foam soon";
+var mnemonic = "south exotic evoke cart unable tonight modify picnic panic useless endless knock";

@@ -1,1 +1,1 @@
-var mnemonic = "draw cereal kangaroo arm abuse exit afford tip describe what velvet tenant";
+var mnemonic = "actor cargo bachelor morning wall oil sunny future divide citizen wire satisfy";

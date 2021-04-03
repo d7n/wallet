@@ -1,1 +1,1 @@
-var mnemonic = "forget junk energy harsh field elegant casual ticket muscle comic armor thunder";
+var mnemonic = "travel slight bring chalk amount huge animal dry once pulp mammal solution";

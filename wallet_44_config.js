@@ -1,1 +1,1 @@
-var mnemonic = "oppose crazy devote reflect prefer wild fitness canoe inject electric ozone salon";
+var mnemonic = "credit scheme any neither lion victory excuse lens transfer olive sing correct";

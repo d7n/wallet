@@ -1,1 +1,1 @@
-var mnemonic = "predict infant lab sort wrestle exhibit live spot brown left hospital sample";
+var mnemonic = "trend jeans rubber exist limb become eight goat attack hotel shed liar";

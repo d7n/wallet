@@ -1,1 +1,1 @@
-var mnemonic = "wear fix patch permit expire awesome round easy end grain excuse rough";
+var mnemonic = "bridge goose thumb cattle emotion jewel program smoke ensure bonus improve mad";

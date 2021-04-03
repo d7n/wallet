@@ -1,1 +1,1 @@
-var mnemonic = "young embrace scare frost blind bargain axis good secret mobile burst lady";
+var mnemonic = "trust violin panic wave parade final breeze option lazy junk cloth service";

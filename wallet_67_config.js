@@ -1,1 +1,1 @@
-var mnemonic = "nurse sting sun type room salon sad fury cause silk grocery pass";
+var mnemonic = "wing game dry cost step figure erode path kiss club dawn slide";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow crystal post mass pudding common melody obscure whale conduct length crazy";
+var mnemonic = "impose outside wisdom mirror repair seven remain issue lake consider eternal fish";

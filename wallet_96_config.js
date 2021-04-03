@@ -1,1 +1,1 @@
-var mnemonic = "hotel lawn plug young inherit expire mule glance wasp coconut diet volume";
+var mnemonic = "exhibit pencil tribe swarm hood cupboard midnight cave wheel test milk solar";

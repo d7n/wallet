@@ -1,1 +1,1 @@
-var mnemonic = "casual number surge mixed clock advance assault display gallery mansion husband behave";
+var mnemonic = "divert theory cry cradle release problem autumn paddle rail teach shop rain";

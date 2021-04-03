@@ -1,1 +1,1 @@
-var mnemonic = "kitchen job rare march table board blur bitter grocery object gather quote";
+var mnemonic = "call quality boil ancient sudden exercise response public skull disorder gentle arrange";

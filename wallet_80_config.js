@@ -1,1 +1,1 @@
-var mnemonic = "angle flee invest bullet purchase predict shoot useless enable blood surface topple";
+var mnemonic = "mistake myself boat catch garlic nice gown click garlic curtain bus ugly";

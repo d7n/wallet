@@ -1,1 +1,1 @@
-var mnemonic = "prevent skate sunset public more item benefit amateur library pudding prosper spawn";
+var mnemonic = "cargo sponsor between fall demand crop moon rookie remember notable phone puzzle";

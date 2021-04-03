@@ -1,1 +1,1 @@
-var mnemonic = "rigid oblige hand annual industry end ridge share excite whale long reason";
+var mnemonic = "iron hammer rigid damp drastic pulse about legend defy ceiling history cattle";

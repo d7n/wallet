@@ -1,1 +1,1 @@
-var mnemonic = "sea silver next beach cube average soul tuition photo solve noise require";
+var mnemonic = "leg sick actress knee practice glimpse rocket wing pause observe rural tackle";

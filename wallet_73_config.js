@@ -1,1 +1,1 @@
-var mnemonic = "deposit twenty equal vibrant butter grid satoshi radio wealth fitness reopen fury";
+var mnemonic = "wrong route fluid walnut mango begin retire cancel glove transfer swamp supply";

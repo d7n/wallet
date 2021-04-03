@@ -1,1 +1,1 @@
-var mnemonic = "father bus web salmon egg cube stuff short fog corn slender hawk";
+var mnemonic = "capital fantasy glimpse warm fiber venture unique judge tenant bring flash pelican";

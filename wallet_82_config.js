@@ -1,1 +1,1 @@
-var mnemonic = "mom nice concert weird fold boil stomach thank guard idea caught render";
+var mnemonic = "arrive bulk tunnel mammal vacant powder onion diesel tenant never burger try";

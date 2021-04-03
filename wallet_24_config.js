@@ -1,1 +1,1 @@
-var mnemonic = "peasant foot tragic hunt possible hour tornado label laundry empty elegant expect";
+var mnemonic = "kit saddle chaos hundred throw case delay verify shield alcohol nerve female";

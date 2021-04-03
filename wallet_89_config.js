@@ -1,1 +1,1 @@
-var mnemonic = "wise height couple kitten element panther awful shoulder dice lounge fish post";
+var mnemonic = "load essay barely sudden correct avocado sail hire build maximum glance window";

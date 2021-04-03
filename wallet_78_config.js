@@ -1,1 +1,1 @@
-var mnemonic = "arch mistake gap energy surround problem chef bacon fancy smooth topic popular";
+var mnemonic = "reflect address creek argue essence suit mad alcohol wedding afraid capital sentence";

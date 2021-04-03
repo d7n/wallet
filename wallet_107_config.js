@@ -1,1 +1,1 @@
-var mnemonic = "balcony panda grocery river reason end scissors possible crumble inquiry boil silver";
+var mnemonic = "clog door awful noise scout memory pond enough must left start crawl";

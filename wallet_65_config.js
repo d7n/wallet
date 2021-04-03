@@ -1,1 +1,1 @@
-var mnemonic = "tell ankle purse person fish twice solar truth fatal hover much enough";
+var mnemonic = "hawk era aware three plug else layer sort relief jar foot noble";

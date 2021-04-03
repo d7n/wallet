@@ -1,1 +1,1 @@
-var mnemonic = "craft subject craft peasant wise season cupboard cloud future drive ill coffee";
+var mnemonic = "save decline defy tide pond ship kiwi roof cruel dress sing tray";

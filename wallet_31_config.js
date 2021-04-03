@@ -1,1 +1,1 @@
-var mnemonic = "teach fox usual young section speak any now mutual yard great text";
+var mnemonic = "rack effort spot select visa boat split van gas trust panel endless";

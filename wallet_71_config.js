@@ -1,1 +1,1 @@
-var mnemonic = "boil just emotion float violin ice junior piece beef gorilla post ethics";
+var mnemonic = "credit circle popular hidden dinner skin chuckle anchor vendor jar convince outdoor";

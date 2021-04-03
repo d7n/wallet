@@ -1,1 +1,1 @@
-var mnemonic = "firm exercise annual depart aware oak solve country flash cargo common arrest";
+var mnemonic = "dentist disorder turn theme shoot issue only face begin acoustic awake tray";

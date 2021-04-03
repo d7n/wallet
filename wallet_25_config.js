@@ -1,1 +1,1 @@
-var mnemonic = "glue float squirrel local latin sell day educate across trap seek poem";
+var mnemonic = "impulse clock inner achieve gift coin bracket zero cluster damp annual future";

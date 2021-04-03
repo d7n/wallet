@@ -1,1 +1,1 @@
-var mnemonic = "local pair bid loan man inflict drama genius giggle stem suit age";
+var mnemonic = "lawn siren sister typical joke saddle core raw diary hair use collect";

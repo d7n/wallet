@@ -1,1 +1,1 @@
-var mnemonic = "myth avoid alpha depend spell axis range frown verb tower orient crane";
+var mnemonic = "crisp dutch search special hospital silk opinion bird bundle student render spawn";

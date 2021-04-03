@@ -1,1 +1,1 @@
-var mnemonic = "write slogan blood tattoo crumble sock defy stick gadget access slow blossom";
+var mnemonic = "patch mistake crater cycle what broken fiscal penalty lion illegal pluck upset";

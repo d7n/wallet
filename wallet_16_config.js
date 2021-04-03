@@ -1,1 +1,1 @@
-var mnemonic = "cable unknown tag syrup people pole bleak fun fruit rotate angle faith";
+var mnemonic = "olympic evidence layer pattern section ugly cancel digital antenna honey valley coffee";

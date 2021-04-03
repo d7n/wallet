@@ -1,1 +1,1 @@
-var mnemonic = "wife meat security cover comfort vapor idle staff inch mouse crew uniform";
+var mnemonic = "cute barrel wreck already only chalk health virus celery loan romance trophy";

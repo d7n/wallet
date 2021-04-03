@@ -1,1 +1,1 @@
-var mnemonic = "town stomach exhibit suggest taste always effort cover episode swim evolve can";
+var mnemonic = "couple wonder shed derive turtle blade left mad adjust lucky stumble margin";

@@ -1,1 +1,1 @@
-var mnemonic = "sure fade symptom assume ocean daring session day food benefit boy attract";
+var mnemonic = "denial token ribbon seat mad payment caution upset animal front legal pig";

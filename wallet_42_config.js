@@ -1,1 +1,1 @@
-var mnemonic = "holiday object fresh impact chalk soon sunset program sponsor find diagram twist";
+var mnemonic = "sell bonus giant rude field cool accuse lounge health nest will mass";

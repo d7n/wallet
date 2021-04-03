@@ -1,1 +1,1 @@
-var mnemonic = "resist crumble find theme order jealous pattern math sorry payment ready manage";
+var mnemonic = "start half tunnel together boy century foster popular pulp steel split goat";

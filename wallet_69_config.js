@@ -1,1 +1,1 @@
-var mnemonic = "view fix attitude veteran helmet nature century warfare acquire cannon glory resemble";
+var mnemonic = "entry index region off butter office rent unveil pottery wonder core process";

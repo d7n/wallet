@@ -1,1 +1,1 @@
-var mnemonic = "canvas thank wait reveal hold record prosper crane outdoor better youth hurry";
+var mnemonic = "bridge noodle crazy legend rug track burst elder bag sugar resource globe";

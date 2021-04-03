@@ -1,1 +1,1 @@
-var mnemonic = "broken assist chaos decade hurdle tuna cherry sentence news flip warrior diet";
+var mnemonic = "blue gift relief genre crash suspect monitor trash brown popular cattle train";

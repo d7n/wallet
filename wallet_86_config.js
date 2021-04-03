@@ -1,1 +1,1 @@
-var mnemonic = "shell exist false volume inform chief plug armor oven outside leaf snap";
+var mnemonic = "useless lottery asthma shuffle dream dinosaur fuel glad figure rail echo grow";

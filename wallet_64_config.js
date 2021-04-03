@@ -1,1 +1,1 @@
-var mnemonic = "melody patrol coach timber rabbit gorilla tragic there bring choose enroll tomato";
+var mnemonic = "story drum spirit enemy wall hello dance addict visit assist senior heart";

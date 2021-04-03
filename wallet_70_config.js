@@ -1,1 +1,1 @@
-var mnemonic = "rhythm giggle clutch describe large bread dial mandate category jar crop people";
+var mnemonic = "glad story senior display ladder museum exact syrup remain cross skirt merge";

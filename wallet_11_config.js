@@ -1,1 +1,1 @@
-var mnemonic = "stand kick ask bring pistol memory artefact ridge spy royal jelly mutual";
+var mnemonic = "oppose horse lyrics welcome step dad east debate refuse behave exercise file";

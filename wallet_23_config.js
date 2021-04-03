@@ -1,1 +1,1 @@
-var mnemonic = "toward pact champion type lecture flag dust abstract gravity moment jelly gravity";
+var mnemonic = "you nurse cement vault expect public elite room episode nothing tennis candy";

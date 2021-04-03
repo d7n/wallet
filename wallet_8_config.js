@@ -1,1 +1,1 @@
-var mnemonic = "place treat modify roast actress churn pistol jaguar pond corn strike shoe";
+var mnemonic = "divide course tiny shoot suffer narrow intact people truly slow wreck sort";

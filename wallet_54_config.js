@@ -1,1 +1,1 @@
-var mnemonic = "liberty list reunion plug jewel armor divorce rocket point worry long canvas";
+var mnemonic = "deputy practice old monitor venture perfect birth rare train enroll middle glue";

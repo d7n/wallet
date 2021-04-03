@@ -1,1 +1,1 @@
-var mnemonic = "analyst shadow urban dose solar ostrich empower monitor actress burger priority protect";
+var mnemonic = "cross student inform review olive entry vast state rigid hawk shove best";

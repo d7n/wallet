@@ -1,1 +1,1 @@
-var mnemonic = "alpha pave pumpkin note ghost again canoe abstract plug advice suggest either";
+var mnemonic = "embark second uncover trip swim code truly peace skin speed basket rather";

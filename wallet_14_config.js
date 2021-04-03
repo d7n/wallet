@@ -1,1 +1,1 @@
-var mnemonic = "glue right echo mind decade wave erase debris change expand lecture car";
+var mnemonic = "ill math awake slow trash april twenty nature cheese can key fetch";

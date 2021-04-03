@@ -1,1 +1,1 @@
-var mnemonic = "mansion amazing raven surround element romance develop olympic maple make lizard shrug";
+var mnemonic = "birth zoo empty move wide eyebrow exhaust pond marriage differ useless culture";

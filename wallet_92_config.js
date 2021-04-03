@@ -1,1 +1,1 @@
-var mnemonic = "lazy increase minimum guilt return path draft undo this valley fever loop";
+var mnemonic = "dial mistake reflect one hazard flower food cricket domain burst mansion casual";

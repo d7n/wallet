@@ -1,1 +1,1 @@
-var mnemonic = "february drink puppy lift join badge caught toilet level debate impact heavy";
+var mnemonic = "index citizen glow miracle aunt slim boring mass cruel help census price";

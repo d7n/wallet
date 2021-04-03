@@ -1,1 +1,1 @@
-var mnemonic = "portion mom swap clay blade picnic topple crumble domain dad identify flat";
+var mnemonic = "team odor beach mirror clown scene slush bulb excite pyramid argue nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "object account mobile egg random soldier stamp game program chair actor leg";
+var mnemonic = "subway tree apple sword claim electric canvas dad coconut oven domain agree";

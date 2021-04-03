@@ -1,1 +1,1 @@
-var mnemonic = "purchase patient blade damage predict session pattern foot hope whisper feature slogan";
+var mnemonic = "unlock tooth oven example audit exotic pet police series erode thumb great";

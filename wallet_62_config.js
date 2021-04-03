@@ -1,1 +1,1 @@
-var mnemonic = "melody stick intact name add cage whip unknown copper number rebel plastic";
+var mnemonic = "want ethics upper video reflect cricket nature virtual black humor all odor";

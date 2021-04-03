@@ -1,1 +1,1 @@
-var mnemonic = "indoor rice economy pattern exhibit announce jacket dice keep dwarf soon history";
+var mnemonic = "mass hurt invest pilot churn blind online twenty patient antenna invite come";

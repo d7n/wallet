@@ -1,1 +1,1 @@
-var mnemonic = "blue stay seek text earth noodle mansion bundle truth shoot peasant boat";
+var mnemonic = "demise route basic magic lounge enter rude tilt skirt surge antique asset";

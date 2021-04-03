@@ -1,1 +1,1 @@
-var mnemonic = "voyage town armor erosion clap photo believe brave gain leaf observe slide";
+var mnemonic = "day wild cable chat champion enrich affair situate catch float embrace orbit";

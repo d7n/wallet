@@ -1,1 +1,1 @@
-var mnemonic = "swim jacket unfair century apart solar uniform execute truly region clarify just";
+var mnemonic = "shell cage barely local tiny universe orchard media treat jungle citizen right";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage race whip like juice early million good tomato alcohol doctor merit";
+var mnemonic = "upgrade job keen logic crack spray code sudden cushion design track dash";

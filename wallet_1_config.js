@@ -1,1 +1,1 @@
-var mnemonic = "decrease disorder excuse panel total wish mix bitter hard exclude siren deputy";
+var mnemonic = "abstract zero depart code away saddle work summer piano upgrade build dutch";

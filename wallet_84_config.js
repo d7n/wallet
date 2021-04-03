@@ -1,1 +1,1 @@
-var mnemonic = "return path prepare tooth this stool harsh quit tree noise tuition carbon";
+var mnemonic = "divert lecture hybrid buffalo craft health open pepper wreck misery super token";

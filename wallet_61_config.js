@@ -1,1 +1,1 @@
-var mnemonic = "mother garage movie october spare lucky ritual private you history edit curious";
+var mnemonic = "olympic celery coconut scrub must crawl design junior shadow cactus ask much";

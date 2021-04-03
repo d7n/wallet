@@ -1,1 +1,1 @@
-var mnemonic = "pill clever alpha stool distance blast movie unit develop office swing man";
+var mnemonic = "proud decorate jacket quantum paddle better grow right depend history cart dose";

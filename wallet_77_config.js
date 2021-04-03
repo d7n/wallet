@@ -1,1 +1,1 @@
-var mnemonic = "prefer turn express fine inquiry involve shrimp frog large orange glimpse action";
+var mnemonic = "cereal chuckle test fee urge toss sentence clown idea step buzz advance";

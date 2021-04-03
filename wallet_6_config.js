@@ -1,1 +1,1 @@
-var mnemonic = "mango bless innocent dutch duck only genre caution elite dress want negative";
+var mnemonic = "vivid wasp spoil oven harsh spring regret way figure desk stuff rebel";

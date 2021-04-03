@@ -1,1 +1,1 @@
-var mnemonic = "arrive audit kid hedgehog jacket few spot rapid merit unusual cluster alien";
+var mnemonic = "sustain shaft radio gate jaguar cute bundle damage ribbon result rare tunnel";

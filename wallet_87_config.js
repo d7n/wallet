@@ -1,1 +1,1 @@
-var mnemonic = "rule engage edit alarm indicate ticket error pull evil few bar benefit";
+var mnemonic = "ghost real stumble pave always drop warfare chunk certain catalog brave drama";

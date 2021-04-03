@@ -1,1 +1,1 @@
-var mnemonic = "leisure diamond cargo metal mistake supreme love upset rack attract picnic burger";
+var mnemonic = "wheel aisle anger eight elite chat bench monitor slab art monkey multiply";

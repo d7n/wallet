@@ -1,1 +1,1 @@
-var mnemonic = "pool cart shove swarm outdoor ladder tomorrow pill atom company click river";
+var mnemonic = "choose palace neck shell exit smart absorb camera holiday true economy gaze";

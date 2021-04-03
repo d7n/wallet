@@ -1,1 +1,1 @@
-var mnemonic = "claw bargain jacket vast honey board stadium tape will city spare robust";
+var mnemonic = "report trial hospital sadness torch power balance stand result usage snack knee";

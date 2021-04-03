@@ -1,1 +1,1 @@
-var mnemonic = "marble hidden during frog purse next rapid globe casino embrace involve market";
+var mnemonic = "flavor labor fork muffin then elephant digital fashion cement east crash exile";

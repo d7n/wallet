@@ -1,1 +1,1 @@
-var mnemonic = "teach junk kid wall estate kingdom walnut rubber dove drip excuse again";
+var mnemonic = "burger broom habit faint render fix rely glow direct brave mule enact";

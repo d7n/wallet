@@ -1,1 +1,1 @@
-var mnemonic = "pact order short smile rich famous finish prefer win cushion little artwork";
+var mnemonic = "denial online toe element shift indicate also token shell regular remove edge";
