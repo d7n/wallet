@@ -1,1 +1,1 @@
-var mnemonic = "leg resemble debate subject bronze prison disease fault end sign ritual van";
+var mnemonic = "crucial deny pull submit crush doctor decline patch marble elephant bargain evidence";

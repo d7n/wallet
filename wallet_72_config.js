@@ -1,1 +1,1 @@
-var mnemonic = "try together viable choose educate unit buzz ridge avocado chicken mimic velvet";
+var mnemonic = "cash daring page lens camera tent glove badge strong worry love wealth";

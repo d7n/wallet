@@ -1,1 +1,1 @@
-var mnemonic = "waste drift balcony modify agent voice accident become identify clarify cat search";
+var mnemonic = "cupboard speak october circle skin happy unique wisdom clutch save orchard energy";

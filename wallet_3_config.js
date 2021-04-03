@@ -1,1 +1,1 @@
-var mnemonic = "rain knock veteran voyage lizard much quick spot defense price axis humble";
+var mnemonic = "civil balance put diet fashion cake echo produce penalty ankle suggest grace";

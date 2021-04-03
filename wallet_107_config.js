@@ -1,1 +1,1 @@
-var mnemonic = "shed category salt grape camp dumb indicate gym tragic middle robust infant";
+var mnemonic = "material sick chuckle turn dutch lounge cabin frozen clerk choice ginger foil";

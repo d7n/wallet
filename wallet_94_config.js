@@ -1,1 +1,1 @@
-var mnemonic = "ritual noise kind picnic utility panic wolf inform shine segment gesture couch";
+var mnemonic = "crop catch flavor laundry envelope rubber episode unusual toddler brass ship orient";

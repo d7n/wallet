@@ -1,1 +1,1 @@
-var mnemonic = "tornado fresh ivory tent list coil eager rate name lunar ivory bone";
+var mnemonic = "scissors ceiling learn sniff monkey episode grab style catalog ladder runway quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "expire degree shock merry image frame simple spawn town hole text target";
+var mnemonic = "attract course maple surge betray wheel tail scene taxi slab jeans danger";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve all taxi gain share country build evolve because auto foil behave";
+var mnemonic = "physical nasty fiscal sausage quick task anger bean jar spike domain love";

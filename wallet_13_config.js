@@ -1,1 +1,1 @@
-var mnemonic = "eight bracket devote pudding galaxy category adapt absurd frequent across extend dinner";
+var mnemonic = "summer special rain myself weapon penalty domain shrimp beach grocery excite hub";

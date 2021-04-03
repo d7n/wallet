@@ -1,1 +1,1 @@
-var mnemonic = "soup spatial village brick illness talk unfold brisk credit prosper captain door";
+var mnemonic = "success sting lizard very soldier bracket believe use share current soul defy";

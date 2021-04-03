@@ -1,1 +1,1 @@
-var mnemonic = "stove subway cross jewel river flip alley melt screen paddle fee crowd";
+var mnemonic = "improve swift permit junior proof nice mail mix favorite share city match";

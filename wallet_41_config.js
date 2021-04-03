@@ -1,1 +1,1 @@
-var mnemonic = "sugar artefact atom injury achieve diary verb always decrease story region place";
+var mnemonic = "lonely place borrow click execute rebuild avocado orchard field scatter member gallery";

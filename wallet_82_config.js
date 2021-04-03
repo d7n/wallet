@@ -1,1 +1,1 @@
-var mnemonic = "west suggest goat sausage hand magnet indoor outside fury brave aware creek";
+var mnemonic = "siege eyebrow absent awake youth obscure oak link ethics enlist rotate say";

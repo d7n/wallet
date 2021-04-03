@@ -1,1 +1,1 @@
-var mnemonic = "service slow tone minute syrup ring cry switch obvious combine spot crime";
+var mnemonic = "universe indicate wink transfer demise chief habit hair absurd garlic elbow joke";

@@ -1,1 +1,1 @@
-var mnemonic = "word setup hunt lonely salon lava unfold strong melt found food unfold";
+var mnemonic = "until invite nephew sound myth answer asset depart present try swarm they";

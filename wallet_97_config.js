@@ -1,1 +1,1 @@
-var mnemonic = "distance force during globe wool recall lobster caught iron trouble final entry";
+var mnemonic = "length unit wreck erase glow tribe cabin uniform lunch very weasel advance";

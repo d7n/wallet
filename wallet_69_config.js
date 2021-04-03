@@ -1,1 +1,1 @@
-var mnemonic = "gain shine need squeeze wagon aunt supply evil donor fun media decade";
+var mnemonic = "vehicle beauty common code crime divide side focus game promote note donate";

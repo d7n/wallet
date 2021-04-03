@@ -1,1 +1,1 @@
-var mnemonic = "vicious beauty company beach hard pill action orient fork quiz hole coconut";
+var mnemonic = "thumb canoe digital face enough cage image loud unlock network gun crop";

@@ -1,1 +1,1 @@
-var mnemonic = "boss elder quarter audit month file chapter kind twin mountain embark tag";
+var mnemonic = "fish cinnamon inflict kid page ceiling sibling guess sick shine burden brand";

@@ -1,1 +1,1 @@
-var mnemonic = "order asthma brand guitar plunge dove wasp chalk guitar online mix glow";
+var mnemonic = "make sport garment expand produce risk amused what glue keep angle click";

@@ -1,1 +1,1 @@
-var mnemonic = "donkey assist tunnel lady where verify glimpse broccoli dash veteran nasty clinic";
+var mnemonic = "camera mouse gasp duty clump mixture avocado broccoli increase develop fitness vacuum";

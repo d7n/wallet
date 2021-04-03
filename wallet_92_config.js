@@ -1,1 +1,1 @@
-var mnemonic = "over drip speed priority border soccer various welcome party tape clean install";
+var mnemonic = "volcano maid claim penalty defense knife quiz olive monster path vault desert";

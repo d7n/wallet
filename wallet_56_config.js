@@ -1,1 +1,1 @@
-var mnemonic = "uphold tooth sustain arrive until jewel upon kite evidence believe rebel force";
+var mnemonic = "west gather practice reason faculty story situate ability then illegal detect solution";

@@ -1,1 +1,1 @@
-var mnemonic = "notable mention trigger entire misery current deposit rookie salon sample thing excess";
+var mnemonic = "wire sick video act avoid retreat palace salon repeat later mansion burger";

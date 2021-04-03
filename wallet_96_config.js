@@ -1,1 +1,1 @@
-var mnemonic = "green pupil logic ozone one improve spoon category need blue people rifle";
+var mnemonic = "truck few trophy border evolve gift kitten rapid village add goat scan";

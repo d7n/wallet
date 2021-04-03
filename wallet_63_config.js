@@ -1,1 +1,1 @@
-var mnemonic = "beauty dinosaur strong across voice track salmon aim emerge typical patrol behave";
+var mnemonic = "entry dawn eight lyrics settle avocado consider limit already corn crouch fee";

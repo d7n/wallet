@@ -1,1 +1,1 @@
-var mnemonic = "wait license quantum exact together salt lava grid screen gaze agent garlic";
+var mnemonic = "romance blouse plate antique increase camp wagon sock knife plastic lunar angle";

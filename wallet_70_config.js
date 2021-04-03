@@ -1,1 +1,1 @@
-var mnemonic = "wall vacant captain solve core mother emotion shove almost wage diamond milk";
+var mnemonic = "duck daring primary pencil ship metal fog eager consider uniform mouse common";

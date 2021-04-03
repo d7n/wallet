@@ -1,1 +1,1 @@
-var mnemonic = "flight foot knock glory answer room index sadness leisure inform accident music";
+var mnemonic = "sell fantasy night album pink lawn harbor burger arch normal session grocery";

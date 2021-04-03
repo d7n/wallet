@@ -1,1 +1,1 @@
-var mnemonic = "history siege fury claw brave meat ball tennis game illegal enjoy soap";
+var mnemonic = "century dirt trick switch spider police wood idle quarter romance board exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle domain bonus arena genre small parent melody library pipe avocado stem";
+var mnemonic = "edit expand body absent upgrade robot gallery remove engine vibrant chapter jewel";

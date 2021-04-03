@@ -1,1 +1,1 @@
-var mnemonic = "donor enemy exhibit garbage jealous bachelor theme alert erase degree truly defense";
+var mnemonic = "game bonus defense learn pledge gorilla vital urban present final mesh parade";

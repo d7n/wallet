@@ -1,1 +1,1 @@
-var mnemonic = "blast brand eagle apart recipe auction clinic admit humor dove travel resist";
+var mnemonic = "neutral rate hat put nephew sister race inch resource hundred napkin huge";

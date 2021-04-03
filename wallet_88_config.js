@@ -1,1 +1,1 @@
-var mnemonic = "pulse sun tomorrow indicate phrase trumpet artwork ozone summer nominee decline okay";
+var mnemonic = "physical sight pride napkin swift scrap canoe confirm ahead umbrella traffic issue";

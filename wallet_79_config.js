@@ -1,1 +1,1 @@
-var mnemonic = "about hurt giraffe pioneer timber fence noise history harbor city town work";
+var mnemonic = "mind come unfold annual menu primary neck derive right phrase update coin";

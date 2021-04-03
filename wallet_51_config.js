@@ -1,1 +1,1 @@
-var mnemonic = "village smile ready filter autumn size roast budget shoulder border hurdle boss";
+var mnemonic = "blouse mind meat smile ship swarm crucial luggage stone hamster fine sample";

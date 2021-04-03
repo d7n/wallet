@@ -1,1 +1,1 @@
-var mnemonic = "wreck daring run kind cube ketchup situate page bless sphere degree truth";
+var mnemonic = "scorpion can acquire van menu rigid cry february derive kit hello argue";

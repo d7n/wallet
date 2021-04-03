@@ -1,1 +1,1 @@
-var mnemonic = "assist skull crazy deposit uncover drum hero naive any embark brain spoil";
+var mnemonic = "jazz lounge clay raven trash release century fatigue either jewel peanut april";

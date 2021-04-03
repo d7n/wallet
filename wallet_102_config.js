@@ -1,1 +1,1 @@
-var mnemonic = "indicate horror machine love strategy outside actor bless joke robot swap rival";
+var mnemonic = "catalog swallow cruel rural wrestle where dream desk zoo worry drastic expire";

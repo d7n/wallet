@@ -1,1 +1,1 @@
-var mnemonic = "subject tonight decide neutral slush parrot hurry scrub steak assault glide cream";
+var mnemonic = "club fringe together tonight joke team find cycle auto laugh sustain abstract";

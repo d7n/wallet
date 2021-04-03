@@ -1,1 +1,1 @@
-var mnemonic = "torch pen lazy fiction attack safe aim fog cycle alien ability melody";
+var mnemonic = "dirt foil rather swallow end try own text dinner pill course narrow";

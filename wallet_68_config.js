@@ -1,1 +1,1 @@
-var mnemonic = "group slot sniff tool juice glide excuse govern gentle multiply extend woman";
+var mnemonic = "member clock equal taste snake crouch relief sell meat relax absorb borrow";

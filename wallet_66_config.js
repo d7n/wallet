@@ -1,1 +1,1 @@
-var mnemonic = "chase depart enrich welcome favorite place dust frown color reveal blame crane";
+var mnemonic = "ocean balcony glory fatal please toilet pulse brave canyon gain jewel verify";

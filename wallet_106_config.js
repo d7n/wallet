@@ -1,1 +1,1 @@
-var mnemonic = "describe want mechanic organ dolphin candy question web cry person okay category";
+var mnemonic = "ostrich tag chef scrub used spend proud juice file walk soap bicycle";

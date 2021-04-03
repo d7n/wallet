@@ -1,1 +1,1 @@
-var mnemonic = "audit sleep guilt junior acquire rebuild knock time used science grace divide";
+var mnemonic = "usual village keen stock tape transfer aunt final defy easily jacket easy";

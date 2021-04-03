@@ -1,1 +1,1 @@
-var mnemonic = "spend spell garage drastic knee finish alter worth section glow digital copy";
+var mnemonic = "lesson topic almost danger slice upper spray recall impact local link gloom";

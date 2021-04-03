@@ -1,1 +1,1 @@
-var mnemonic = "express spoon winter fury report scheme simple silk better pitch swamp proof";
+var mnemonic = "tumble comic grief offer better spend trash syrup upon sure skate output";

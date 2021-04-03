@@ -1,1 +1,1 @@
-var mnemonic = "knife adult labor before security display venture cream rigid draft grunt cluster";
+var mnemonic = "audit economy jazz cost main banana album mixed coconut child rough design";

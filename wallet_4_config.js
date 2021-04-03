@@ -1,1 +1,1 @@
-var mnemonic = "easy industry disease buffalo still frequent income talk ozone verify number same";
+var mnemonic = "coil axis voyage welcome angle will liquid sand gossip dance cushion music";

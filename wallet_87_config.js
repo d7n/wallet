@@ -1,1 +1,1 @@
-var mnemonic = "suspect parrot poet lamp reject someone rotate despair ten tobacco stock filter";
+var mnemonic = "floor purse canvas night sunny enforce impose oval phone panther repair matter";

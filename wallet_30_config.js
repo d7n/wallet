@@ -1,1 +1,1 @@
-var mnemonic = "wrong dismiss easily pelican mammal palace crime symptom lawsuit body pill poet";
+var mnemonic = "agree monkey eye shrimp casino okay series report asset deer midnight panther";

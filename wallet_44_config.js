@@ -1,1 +1,1 @@
-var mnemonic = "strike element wear convince lemon dash comic noise comic primary father mean";
+var mnemonic = "orbit crisp ivory father solid silly cattle rally ocean torch promote orbit";

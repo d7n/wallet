@@ -1,1 +1,1 @@
-var mnemonic = "elegant tower stick hold frog rain mammal crumble soldier wear fossil lady";
+var mnemonic = "clump rug claw minute brave fog purpose child elder jealous mansion grit";

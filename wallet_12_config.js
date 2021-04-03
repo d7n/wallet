@@ -1,1 +1,1 @@
-var mnemonic = "phone energy panda expire left card creek trend hamster repeat reduce sight";
+var mnemonic = "fly fan segment ozone holiday page found essence figure decline abstract maple";

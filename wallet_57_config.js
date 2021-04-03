@@ -1,1 +1,1 @@
-var mnemonic = "immune exhibit vocal lake gap deposit assume embrace category fever recall leopard";
+var mnemonic = "immune oxygen obscure crumble off false junior dutch defense any mom undo";

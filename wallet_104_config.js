@@ -1,1 +1,1 @@
-var mnemonic = "receive various destroy candy giggle wedding deliver kiwi mystery improve hand ivory";
+var mnemonic = "almost awake spirit glide marble picture blossom exile spend finish flower glimpse";

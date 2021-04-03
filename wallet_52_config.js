@@ -1,1 +1,1 @@
-var mnemonic = "wish enrich shield high picture cost angry mix secret torch pelican farm";
+var mnemonic = "turkey crater clump panic whisper history apart pulp shift copper brain sister";

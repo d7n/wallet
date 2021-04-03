@@ -1,1 +1,1 @@
-var mnemonic = "please obey join sleep piano submit item another alter lottery action mechanic";
+var mnemonic = "more novel snow then enlist opera east child cart parade creek carpet";

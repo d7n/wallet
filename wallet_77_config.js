@@ -1,1 +1,1 @@
-var mnemonic = "oval rigid party hat convince neither immense nut gauge profit invite asset";
+var mnemonic = "address silent inquiry news satoshi amateur toddler nature improve only dutch sphere";

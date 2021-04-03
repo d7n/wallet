@@ -1,1 +1,1 @@
-var mnemonic = "else endless firm record company youth harvest benefit coast shy fashion future";
+var mnemonic = "country urban rigid lend hint avocado evolve ivory scissors regret usual merry";

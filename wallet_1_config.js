@@ -1,1 +1,1 @@
-var mnemonic = "belt expose cricket version globe lab mind copper hill dune casual nature";
+var mnemonic = "tone police enrich sorry kiwi alcohol render wealth soccer drift tortoise segment";

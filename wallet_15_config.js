@@ -1,1 +1,1 @@
-var mnemonic = "hour burden peace issue simple ecology oxygen melt say fade asset talk";
+var mnemonic = "barely human bacon cluster gold sadness middle keep creek pottery before board";

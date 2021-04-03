@@ -1,1 +1,1 @@
-var mnemonic = "huge tuna swamp sport focus broccoli lamp vast slot shine table source";
+var mnemonic = "patient powder ball frame poverty crucial seat cash health journey rocket guard";

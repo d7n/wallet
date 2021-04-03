@@ -1,1 +1,1 @@
-var mnemonic = "elite shaft catalog access skin copper tornado screen pottery candy stand trigger";
+var mnemonic = "call multiply satoshi cradle argue tomato fame easily person wing enjoy alien";

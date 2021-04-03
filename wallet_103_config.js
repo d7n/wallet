@@ -1,1 +1,1 @@
-var mnemonic = "pluck daring tragic debate dawn ecology delay hammer impose angry speak utility";
+var mnemonic = "myth picnic inch hunt turn mango helmet drastic palace humble special snake";

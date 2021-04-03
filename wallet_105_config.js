@@ -1,1 +1,1 @@
-var mnemonic = "bone prevent lawn evil under law liquid deposit fence bone sound quit";
+var mnemonic = "seminar jar weekend blouse timber patrol shallow slice brief enact pretty traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake siren museum tenant soft trend day obey adjust only question smooth";
+var mnemonic = "artwork raven winner fashion nation race exercise bind loop able other recipe";

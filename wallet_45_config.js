@@ -1,1 +1,1 @@
-var mnemonic = "heart noodle liar worth vague muscle crumble expect toast garden ready short";
+var mnemonic = "divide tunnel lab betray actress correct meat wood arrest prepare correct stage";

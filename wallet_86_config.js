@@ -1,1 +1,1 @@
-var mnemonic = "away prison pond casino term census inflict equip muscle outdoor twelve tilt";
+var mnemonic = "way local caught salute cricket stage fatal pool sick stand cupboard fortune";

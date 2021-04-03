@@ -1,1 +1,1 @@
-var mnemonic = "method patrol they leader narrow throw warm genuine fatigue share fancy feel";
+var mnemonic = "spawn target divorce dog shadow zero judge surge merry sort comic arena";

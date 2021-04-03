@@ -1,1 +1,1 @@
-var mnemonic = "autumn scheme hill sentence artist horror casual miracle quarter host inquiry speak";
+var mnemonic = "crunch gym mention economy tennis debate tape start sister solve salon such";

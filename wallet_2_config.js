@@ -1,1 +1,1 @@
-var mnemonic = "east exile wise dinner hole deputy powder task kidney buffalo connect salmon";
+var mnemonic = "weasel talent gauge wrist gift later head apple amount forest nominee cliff";

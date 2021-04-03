@@ -1,1 +1,1 @@
-var mnemonic = "episode copper replace large canal know glad violin rhythm brand escape begin";
+var mnemonic = "judge celery denial film weekend security clever melody fat birth ready kingdom";

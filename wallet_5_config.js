@@ -1,1 +1,1 @@
-var mnemonic = "garment oak fork leave entire open angle half sun garage trumpet certain";
+var mnemonic = "chat melt praise surge green life sorry bulk cabbage enable clip evolve";

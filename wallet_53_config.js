@@ -1,1 +1,1 @@
-var mnemonic = "wear junior engage either such umbrella quick embark wrap patrol pulse vast";
+var mnemonic = "case game chuckle cat choose always expose they amazing seminar sure primary";

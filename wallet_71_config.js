@@ -1,1 +1,1 @@
-var mnemonic = "peanut eager sound airport never armed marriage village pretty join gesture oppose";
+var mnemonic = "kangaroo vendor park trial move suffer pizza emotion sign country dizzy mean";

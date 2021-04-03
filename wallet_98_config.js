@@ -1,1 +1,1 @@
-var mnemonic = "kind grunt initial retreat spider address train cabin good calm option hen";
+var mnemonic = "coral educate scene absurd riot either close motion lucky chapter rose safe";

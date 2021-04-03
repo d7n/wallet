@@ -1,1 +1,1 @@
-var mnemonic = "lobster world judge letter sword tunnel skull slam energy hand orchard about";
+var mnemonic = "much fence tower second uncle injury couple feed embark consider extra dress";

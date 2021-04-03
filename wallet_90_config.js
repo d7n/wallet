@@ -1,1 +1,1 @@
-var mnemonic = "common judge muscle dance rural crime fox music arrow cool decline unknown";
+var mnemonic = "right cannon depart mixture slot barely act decline blouse pulp short stadium";

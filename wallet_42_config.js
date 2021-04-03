@@ -1,1 +1,1 @@
-var mnemonic = "just chronic exclude stamp humble suggest repair remember open junior grass gather";
+var mnemonic = "cancel immense priority injury express language language walk collect juice zebra head";

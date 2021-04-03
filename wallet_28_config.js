@@ -1,1 +1,1 @@
-var mnemonic = "image among effort child hazard scan pupil hundred tunnel budget book ostrich";
+var mnemonic = "verb involve valid gift other carry toe reflect fortune arrest outside reject";

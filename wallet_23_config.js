@@ -1,1 +1,1 @@
-var mnemonic = "raw bid wish pill attack front suit decorate patient program dove plate";
+var mnemonic = "maple business jump daring wealth tuna fossil hammer mix can dragon stick";

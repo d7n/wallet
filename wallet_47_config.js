@@ -1,1 +1,1 @@
-var mnemonic = "gown wrist time solution dirt swallow section pistol universe follow sun alcohol";
+var mnemonic = "similar sample cabbage actor rib quality sausage rule inner quick promote poet";

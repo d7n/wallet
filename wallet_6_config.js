@@ -1,1 +1,1 @@
-var mnemonic = "jazz question clarify sleep hurt dawn flower deer segment tomorrow winter case";
+var mnemonic = "oblige portion anxiety risk detect chief oxygen away cargo slow toy current";

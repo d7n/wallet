@@ -1,1 +1,1 @@
-var mnemonic = "cruise ice mushroom afford hip state taste pave uniform gym correct gorilla";
+var mnemonic = "perfect story recycle try defy fruit obtain route lawn brand address wool";
