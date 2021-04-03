@@ -1,1 +1,1 @@
-var mnemonic = "army code turkey rent cost rely squirrel offer melt juice outdoor leisure";
+var mnemonic = "volume burst image burden easily second horn arm album melody diet speak";

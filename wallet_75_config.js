@@ -1,1 +1,1 @@
-var mnemonic = "zero hospital pen best farm tonight gesture copy sustain penalty enroll hat";
+var mnemonic = "sadness giant obscure exhaust cancel bind mammal confirm fluid episode spray ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol bulk orient mean coil popular earth bullet mistake jar scrub frost";
+var mnemonic = "they object labor genre width absent february upper song news desk pony";

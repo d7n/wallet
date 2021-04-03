@@ -1,1 +1,1 @@
-var mnemonic = "nose service awkward thunder fresh forest junk table fortune grocery void spirit";
+var mnemonic = "apart year spider depart slice oxygen cart humor collect side wealth connect";

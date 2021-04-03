@@ -1,1 +1,1 @@
-var mnemonic = "solar relax business raven expire woman marriage grit cave similar ring pave";
+var mnemonic = "lobster more visual sponsor creek property pair session dynamic wedding install merge";

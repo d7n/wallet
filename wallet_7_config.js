@@ -1,1 +1,1 @@
-var mnemonic = "slim similar loan aim stumble globe season addict film dilemma spin betray";
+var mnemonic = "idea slice unique sentence today fatal share saddle album slide flight sting";

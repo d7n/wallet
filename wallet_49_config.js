@@ -1,1 +1,1 @@
-var mnemonic = "mule pilot language tape quality husband hawk exercise hurt noodle hungry mass";
+var mnemonic = "push woman jeans regular hotel mixed inject lion doll cost vapor unaware";

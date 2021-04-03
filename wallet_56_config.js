@@ -1,1 +1,1 @@
-var mnemonic = "toe spend like gloom infant hamster skirt artwork foster joke jacket plate";
+var mnemonic = "matrix gasp ready quantum gown jungle ridge cream neither frost toilet vocal";

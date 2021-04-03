@@ -1,1 +1,1 @@
-var mnemonic = "rebel zone demise body fall mammal doll tourist ignore point void indoor";
+var mnemonic = "uncle echo taxi undo swift assist abuse spider hover hotel stairs crumble";

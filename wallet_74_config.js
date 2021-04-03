@@ -1,1 +1,1 @@
-var mnemonic = "conduct lumber affair bounce current fold story insane brown forward result gravity";
+var mnemonic = "silk again olympic honey casual master estate opinion fatigue enemy fan icon";

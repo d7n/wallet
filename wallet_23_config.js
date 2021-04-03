@@ -1,1 +1,1 @@
-var mnemonic = "borrow either monitor elevator fabric patch dune december gravity topic ball lottery";
+var mnemonic = "school bless science engage present wheat travel snow sunset mountain notice web";

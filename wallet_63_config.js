@@ -1,1 +1,1 @@
-var mnemonic = "tide jungle trap express sheriff trick panther trigger tackle whale admit screen";
+var mnemonic = "chapter place ecology promote green super toward wall regret quality cart demand";

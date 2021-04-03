@@ -1,1 +1,1 @@
-var mnemonic = "noodle worry keen bronze size chapter damp trumpet addict burger vocal hub";
+var mnemonic = "dish surface gift also maid hedgehog symptom solid apple situate gap pony";

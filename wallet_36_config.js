@@ -1,1 +1,1 @@
-var mnemonic = "awesome elephant scene addict number umbrella smart when list toddler ginger alley";
+var mnemonic = "table drum cream oven symptom fortune never ask note record exercise easily";

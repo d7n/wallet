@@ -1,1 +1,1 @@
-var mnemonic = "mystery aspect abandon upper nice banana guide point agree alert jewel patch";
+var mnemonic = "term surround stomach tent solve wealth ticket usage winner armed neutral taste";

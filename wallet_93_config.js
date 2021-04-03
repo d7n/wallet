@@ -1,1 +1,1 @@
-var mnemonic = "trial two task rapid edge swallow away health throw custom olive aisle";
+var mnemonic = "can business chunk sea ask success robot menu service evidence patrol item";

@@ -1,1 +1,1 @@
-var mnemonic = "trim broccoli profit genuine lake unlock grow transfer strategy borrow door river";
+var mnemonic = "evil clever reason purity universe reveal analyst lonely exhibit teach grunt entry";

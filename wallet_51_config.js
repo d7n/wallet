@@ -1,1 +1,1 @@
-var mnemonic = "alarm rude buddy position camp tunnel figure fever sugar remember grass water";
+var mnemonic = "barely mixture excuse dove grit goddess option tube kid dog powder solve";

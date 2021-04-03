@@ -1,1 +1,1 @@
-var mnemonic = "moral hotel brand tribe arm filter income cart diesel dove voyage kidney";
+var mnemonic = "better trigger oak able fragile mango weather pair crunch pilot off task";

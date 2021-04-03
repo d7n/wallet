@@ -1,1 +1,1 @@
-var mnemonic = "myself naive obtain device core announce mansion agent salmon reduce oxygen fine";
+var mnemonic = "buffalo crash replace voice screen post rural leisure mosquito impulse hold electric";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt onion bring element receive jealous reward flee sword gorilla trial old";
+var mnemonic = "wolf distance cliff tank toss sight stamp certain vast office giggle say";

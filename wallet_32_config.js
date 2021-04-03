@@ -1,1 +1,1 @@
-var mnemonic = "laugh sail color gospel carry negative supply sort disagree wide group skull";
+var mnemonic = "use song border thing enjoy tent inform fold stamp perfect globe shift";

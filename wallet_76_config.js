@@ -1,1 +1,1 @@
-var mnemonic = "maid zebra today leader obvious depart language gospel upgrade air sight cheap";
+var mnemonic = "allow you burst bridge detail toward casual lion drama scrub faint offer";

@@ -1,1 +1,1 @@
-var mnemonic = "choice cotton caught aim police melody common galaxy anchor novel copy trip";
+var mnemonic = "simple across cruise labor grocery gown point edge start mass pyramid royal";

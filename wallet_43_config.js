@@ -1,1 +1,1 @@
-var mnemonic = "jazz switch exclude body gentle fee avocado snack chapter excess bronze leave";
+var mnemonic = "vivid craft donor village good organ fiscal dove gain spider hair bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "gain print abandon detail put bar zero stove phone about clown shine";
+var mnemonic = "napkin rough tip shop before spring reduce party mistake strong cause alpha";

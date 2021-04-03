@@ -1,1 +1,1 @@
-var mnemonic = "joke panther way fix dwarf cannon spend job glove energy copy stove";
+var mnemonic = "hen canyon pride depth tree fade trade top loan orbit right swear";

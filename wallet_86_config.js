@@ -1,1 +1,1 @@
-var mnemonic = "model mule patrol sister sausage option outside jacket oyster large gorilla mix";
+var mnemonic = "seminar run unveil pond main yard forest innocent there invite disorder artefact";

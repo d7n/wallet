@@ -1,1 +1,1 @@
-var mnemonic = "sister snow version trade odor swap select awful hope sight thrive boss";
+var mnemonic = "cloth sadness version legal autumn inquiry approve prepare oak remain screen leopard";

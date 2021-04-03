@@ -1,1 +1,1 @@
-var mnemonic = "ramp hill south useful noise whisper canoe match defy toward castle one";
+var mnemonic = "settle bar black size future fiber race cactus maze anchor heavy exotic";

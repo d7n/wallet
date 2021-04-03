@@ -1,1 +1,1 @@
-var mnemonic = "symbol install victory tired used wrap volcano own symptom initial math paper";
+var mnemonic = "wagon evoke rib range cannon mix kitten ice exclude knee hero anchor";

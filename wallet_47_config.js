@@ -1,1 +1,1 @@
-var mnemonic = "item little shallow uncover hazard curious menu online guilt noodle fiction replace";
+var mnemonic = "ball universe math elder fruit eyebrow design north mobile harbor regular cage";

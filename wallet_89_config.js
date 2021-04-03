@@ -1,1 +1,1 @@
-var mnemonic = "economy laugh young material laptop receive course tennis among pepper suspect pumpkin";
+var mnemonic = "test explain suffer melt bronze egg response future hen supply rally merge";

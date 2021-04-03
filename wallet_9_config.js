@@ -1,1 +1,1 @@
-var mnemonic = "green salad opinion urban cruel total grit cheap solve middle gym project";
+var mnemonic = "entry whale view useless bracket anchor anxiety bone vote blast clever story";

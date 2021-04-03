@@ -1,1 +1,1 @@
-var mnemonic = "tourist emotion opinion juice awesome royal build never cheese price lesson level";
+var mnemonic = "mercy fragile index leave dignity estate want wire comfort slide naive fashion";

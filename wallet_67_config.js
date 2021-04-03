@@ -1,1 +1,1 @@
-var mnemonic = "snack task clump rack such inside cram exhibit ring iron humble begin";
+var mnemonic = "cotton salmon unfold fiscal frown smart couch before circle assault arctic street";

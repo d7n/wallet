@@ -1,1 +1,1 @@
-var mnemonic = "raw mirror family climb another blue token odor average negative whisper gallery";
+var mnemonic = "illegal myth riot lab mobile master gravity start silk apart pipe expand";

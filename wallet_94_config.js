@@ -1,1 +1,1 @@
-var mnemonic = "name envelope mask strong wine cook hybrid meat tackle crack jar drill";
+var mnemonic = "one crumble walnut umbrella series swarm side dumb eight stock crucial length";

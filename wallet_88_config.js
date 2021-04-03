@@ -1,1 +1,1 @@
-var mnemonic = "nerve check chaos divorce jeans logic able blade vanish ghost entire magnet";
+var mnemonic = "oval mind orchard dirt shift pole drift banana market basket slam anger";

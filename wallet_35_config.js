@@ -1,1 +1,1 @@
-var mnemonic = "dash before ritual permit tag wash mom firm reform valid hurdle piece";
+var mnemonic = "purity vicious shift host vicious fashion valley pact cart coffee diagram era";

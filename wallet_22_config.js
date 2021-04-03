@@ -1,1 +1,1 @@
-var mnemonic = "master sail initial business rate guide claim educate such bacon gravity transfer";
+var mnemonic = "unaware figure win heavy thought sing tissue target scissors shallow code win";

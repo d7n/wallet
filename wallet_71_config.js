@@ -1,1 +1,1 @@
-var mnemonic = "correct thumb screen open subject trade match captain wing smoke hurry useless";
+var mnemonic = "rescue voyage sniff taxi mesh carry hazard pole dress fork divert hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker give fringe rude inch tape night endorse wrap tone sadness marine";
+var mnemonic = "bundle worry tenant wheel renew warfare cup clog loud ginger genius lend";

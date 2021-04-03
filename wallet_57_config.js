@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur orphan better movie shield mail whip mountain memory occur grief utility";
+var mnemonic = "onion snow grunt hub decrease turtle ramp market frog hollow either theme";

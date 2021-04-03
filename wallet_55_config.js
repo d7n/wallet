@@ -1,1 +1,1 @@
-var mnemonic = "gesture fresh trigger slush faith athlete elder snake keen right planet area";
+var mnemonic = "feel load melt defy hard dolphin garden glad illegal accuse intact broken";

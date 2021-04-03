@@ -1,1 +1,1 @@
-var mnemonic = "extend vocal anger chaos churn sing poverty switch decrease universe glass brief";
+var mnemonic = "siege luggage shine naive denial absorb night enact leaf basic slide clerk";

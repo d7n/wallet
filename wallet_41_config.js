@@ -1,1 +1,1 @@
-var mnemonic = "enter primary quantum day forum exit mountain flag stereo cluster arrow tree";
+var mnemonic = "mask only genius rubber type champion what seek keep leopard develop style";

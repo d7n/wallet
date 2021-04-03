@@ -1,1 +1,1 @@
-var mnemonic = "maid share manage renew fault autumn future power swim baby argue also";
+var mnemonic = "winter initial clog myself barrel embrace meat review dog fringe method lobster";

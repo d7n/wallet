@@ -1,1 +1,1 @@
-var mnemonic = "cereal inside lend that more range between focus about agent diary color";
+var mnemonic = "humor rate snap still response raccoon real team another fee hole cycle";

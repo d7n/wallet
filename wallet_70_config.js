@@ -1,1 +1,1 @@
-var mnemonic = "torch spin duty birth input try boss little witness endorse joy tackle";
+var mnemonic = "network angle crisp dial fork absent merit today report measure energy beauty";

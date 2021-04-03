@@ -1,1 +1,1 @@
-var mnemonic = "news twelve zebra vacant twin vote stuff country secret pretty absurd keep";
+var mnemonic = "bubble dragon loud trumpet crater neither file tunnel ketchup taste surround soccer";

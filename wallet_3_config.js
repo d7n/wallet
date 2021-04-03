@@ -1,1 +1,1 @@
-var mnemonic = "pupil tool secret segment option oppose good zero high safe short focus";
+var mnemonic = "wasp name rabbit problem flavor walk else practice frame noble clarify turn";

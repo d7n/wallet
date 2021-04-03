@@ -1,1 +1,1 @@
-var mnemonic = "rabbit love phrase squirrel banana lecture perfect picture enact strong review health";
+var mnemonic = "upon govern arrest upon tomorrow cinnamon survey entry nuclear praise fever stumble";

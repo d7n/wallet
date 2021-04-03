@@ -1,1 +1,1 @@
-var mnemonic = "bounce gain ridge catalog offer paper stable leader ship loud guilt indicate";
+var mnemonic = "fetch food matter tiger job fringe broom recycle citizen fancy cigar divide";

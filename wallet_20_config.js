@@ -1,1 +1,1 @@
-var mnemonic = "wall sponsor deposit inflict essay source labor sister neither skin hair toast";
+var mnemonic = "banana primary decide either matrix select make walnut exile fatigue work mistake";

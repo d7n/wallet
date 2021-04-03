@@ -1,1 +1,1 @@
-var mnemonic = "diamond scene play cheap evolve inside thank vivid kangaroo index noise salon";
+var mnemonic = "motor orphan hello west dog category harsh affair vanish sausage slide scatter";

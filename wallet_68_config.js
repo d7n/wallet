@@ -1,1 +1,1 @@
-var mnemonic = "text year helmet hedgehog kid fall electric clarify peace tool junk duck";
+var mnemonic = "barely scorpion float mad tongue snow mad mercy pear whip amazing famous";

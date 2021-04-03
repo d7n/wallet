@@ -1,1 +1,1 @@
-var mnemonic = "manual various gather provide season brown ramp lesson victory remove host coast";
+var mnemonic = "pen tumble theme cement aware horse vivid online symptom easily ensure brain";

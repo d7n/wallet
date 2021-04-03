@@ -1,1 +1,1 @@
-var mnemonic = "staff ladder wide car change affair garbage inspire provide corn brush series";
+var mnemonic = "chest crane eyebrow sniff limb include tissue slogan youth hard way maze";

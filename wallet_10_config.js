@@ -1,1 +1,1 @@
-var mnemonic = "way style buyer family blood romance imitate trust bitter rebel remember put";
+var mnemonic = "online acoustic coffee resource help vehicle clog swallow leopard useless essence purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "cool direct flavor gun ready dove unfair drip kind oven early poet";
+var mnemonic = "raw bitter cool right style eye orchard penalty good where crash guard";

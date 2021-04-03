@@ -1,1 +1,1 @@
-var mnemonic = "large army thing advice notable glare have dust zebra cream junior ability";
+var mnemonic = "such noise tray reveal decade kid express tag pledge brain room hole";

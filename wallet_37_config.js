@@ -1,1 +1,1 @@
-var mnemonic = "pledge opinion young speak actual size lecture spider nasty rifle hungry equal";
+var mnemonic = "unveil run response junk stove return suit debris aim slot library able";

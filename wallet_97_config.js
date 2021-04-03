@@ -1,1 +1,1 @@
-var mnemonic = "soul purpose increase invest animal action roof mountain armor arena place joke";
+var mnemonic = "clock buzz one buddy flower tourist empower primary clap ivory matrix skull";

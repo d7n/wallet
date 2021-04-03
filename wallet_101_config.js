@@ -1,1 +1,1 @@
-var mnemonic = "winter sorry amazing regular ladder ranch critic orbit mansion together attitude reward";
+var mnemonic = "scare stool depth steak diagram resource hard hip pact seed among leopard";

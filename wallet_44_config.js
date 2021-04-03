@@ -1,1 +1,1 @@
-var mnemonic = "dutch theory current since offer echo potato famous solve witness guard wise";
+var mnemonic = "provide purity hand trust sail foot critic more ocean local drum fashion";

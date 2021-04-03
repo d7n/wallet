@@ -1,1 +1,1 @@
-var mnemonic = "friend grace chimney fine large best swap hen choose junior nation want";
+var mnemonic = "surface now bubble wife crazy turkey hello hat help balcony dune model";

@@ -1,1 +1,1 @@
-var mnemonic = "tool fiction under lounge slogan wing option bone duty swap usual code";
+var mnemonic = "also rug uncle lens wise faith gauge voyage great buzz wagon night";

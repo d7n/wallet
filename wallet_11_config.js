@@ -1,1 +1,1 @@
-var mnemonic = "sign viable judge boost scheme jacket they swallow quote click velvet someone";
+var mnemonic = "crowd garlic armed airport tower scene reflect palace odor enlist hood team";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke black angry candy inside wire dawn feature onion genuine loop fitness";
+var mnemonic = "solar earth fossil refuse leisure banana rack glass group path eagle fortune";

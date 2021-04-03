@@ -1,1 +1,1 @@
-var mnemonic = "imitate immune bid clay about matter pipe lion thunder kitten know pair";
+var mnemonic = "skin early move cupboard funny come poverty winner autumn park range seek";

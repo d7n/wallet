@@ -1,1 +1,1 @@
-var mnemonic = "rack evil now bus invest mom casual possible power pudding umbrella favorite";
+var mnemonic = "net trap brush wage replace dust second smart people trend over genuine";

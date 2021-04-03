@@ -1,1 +1,1 @@
-var mnemonic = "version east grain satoshi silver gloom artwork cute subject element glance diesel";
+var mnemonic = "will calm march scorpion green extra beach border bundle female cause solid";

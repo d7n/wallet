@@ -1,1 +1,1 @@
-var mnemonic = "stem hub hidden globe crawl cloud husband finger relax sock cupboard diamond";
+var mnemonic = "remove net enhance animal depart rural ladder else answer marriage fringe witness";

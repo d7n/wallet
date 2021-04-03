@@ -1,1 +1,1 @@
-var mnemonic = "exist violin laugh pluck fortune grunt beef blouse protect palace safe upon";
+var mnemonic = "shrug raise pair whisper maze actor destroy cattle drift galaxy kiwi blossom";

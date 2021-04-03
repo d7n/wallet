@@ -1,1 +1,1 @@
-var mnemonic = "evidence swallow candy group region humble damage common fit boost assist firm";
+var mnemonic = "adult rebel surround air oak crucial sauce make decorate change month silent";

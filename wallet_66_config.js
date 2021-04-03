@@ -1,1 +1,1 @@
-var mnemonic = "tissue swallow friend choose member uncover iron copy mention mother abuse focus";
+var mnemonic = "order kangaroo solar report ramp panda swim seed employ leopard economy hollow";

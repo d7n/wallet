@@ -1,1 +1,1 @@
-var mnemonic = "tomato build slight echo tennis destroy vicious budget pipe month hamster blossom";
+var mnemonic = "salt appear opera candy note hollow social human two indicate proof kick";

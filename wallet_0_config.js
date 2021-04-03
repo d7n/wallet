@@ -1,1 +1,1 @@
-var mnemonic = "drastic buffalo into portion call festival only view timber jeans gauge habit";
+var mnemonic = "sight grab immense wrist theory finish fame shop wrong carbon bulb note";

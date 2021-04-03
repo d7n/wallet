@@ -1,1 +1,1 @@
-var mnemonic = "duty layer shine response series party sheriff size oyster race warfare various";
+var mnemonic = "foster effort sense cruise ball orange venture damage need build remember junk";

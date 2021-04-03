@@ -1,1 +1,1 @@
-var mnemonic = "square general place attend toy bone unique system erosion orange cannon ribbon";
+var mnemonic = "raise miss isolate private lobster insect echo acquire annual addict clog open";

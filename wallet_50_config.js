@@ -1,1 +1,1 @@
-var mnemonic = "immense engine fun flush velvet pudding mesh umbrella gallery milk box fix";
+var mnemonic = "broom stem start barrel asthma picnic blind awful drama satisfy mutual kick";

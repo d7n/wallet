@@ -1,1 +1,1 @@
-var mnemonic = "slight giraffe shrimp wedding young lizard ecology shuffle bid short direct blind";
+var mnemonic = "frown owner erosion coffee cute whisper result neck actual error fun beyond";

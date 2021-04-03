@@ -1,1 +1,1 @@
-var mnemonic = "clinic ask decide regret census dragon math ignore judge cheap unlock color";
+var mnemonic = "enrich soon robust october obey chicken monster pluck cloud explain echo chaos";

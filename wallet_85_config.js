@@ -1,1 +1,1 @@
-var mnemonic = "shell unlock critic bulk mad rookie fitness dry together spray riot warfare";
+var mnemonic = "cover wrestle output hospital click detail settle foam camera dance brown ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover carry shove inflict hotel mail antique utility virus width width walnut";
+var mnemonic = "country sorry know left nothing grass summer pigeon sponsor unique coin decrease";

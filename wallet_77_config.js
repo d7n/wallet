@@ -1,1 +1,1 @@
-var mnemonic = "come drill usage library recall dawn spread topic lamp charge license orient";
+var mnemonic = "echo pass cancel biology lawn exit sphere twelve hour car trend stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "praise denial allow forward spray method ask ankle garment master arrive second";
+var mnemonic = "cement verb someone ride jaguar lamp fortune noise tissue open head cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "render exhaust obey range dog profit purse skirt citizen dice grant acid";
+var mnemonic = "few window journey wash obscure duck idea blood result elbow earth winner";

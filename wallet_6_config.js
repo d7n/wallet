@@ -1,1 +1,1 @@
-var mnemonic = "attract sleep middle drum property movie draft truth coral onion pilot length";
+var mnemonic = "mercy mule hint recall twin angle seat mystery sock episode session torch";

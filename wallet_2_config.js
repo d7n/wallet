@@ -1,1 +1,1 @@
-var mnemonic = "filter cheese dial smile main sample fancy debate dutch similar mule photo";
+var mnemonic = "man always silent primary pizza civil onion twenty arctic layer dice frozen";
