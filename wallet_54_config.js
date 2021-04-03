@@ -1,1 +1,1 @@
-var mnemonic = "inherit dish neutral expire require south equal tattoo alert finger inhale truly";
+var mnemonic = "tortoise civil bridge snake nation plate garlic nephew all thing school target";

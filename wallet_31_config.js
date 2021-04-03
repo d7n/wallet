@@ -1,1 +1,1 @@
-var mnemonic = "cement nasty twice obey smooth cute spin fragile replace volcano universe maid";
+var mnemonic = "they stuff state twelve retire frown napkin confirm artist company genuine magnet";

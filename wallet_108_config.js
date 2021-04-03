@@ -1,1 +1,1 @@
-var mnemonic = "subway dune kid minor stuff fee year witness survey tone erosion leaf";
+var mnemonic = "history tunnel image choice select imitate sample emotion fun program task force";

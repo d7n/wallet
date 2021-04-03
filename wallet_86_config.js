@@ -1,1 +1,1 @@
-var mnemonic = "lamp verify soap solution okay misery level anger air common world more";
+var mnemonic = "eagle drip live girl hip pitch junior invest sunny brass more domain";

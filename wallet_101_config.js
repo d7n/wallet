@@ -1,1 +1,1 @@
-var mnemonic = "ripple attack catalog despair issue grass section foil pink december father report";
+var mnemonic = "upgrade case kick column online dish barrel lunar notable danger apple reveal";

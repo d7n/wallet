@@ -1,1 +1,1 @@
-var mnemonic = "harsh bone host verify blur company round record illegal common pledge modify";
+var mnemonic = "rich vessel door venue liar brown boat demand buffalo illness guide memory";

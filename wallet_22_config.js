@@ -1,1 +1,1 @@
-var mnemonic = "crater cereal defense element voyage opera remain lonely charge social salon volume";
+var mnemonic = "okay grass wrist width blind summer hospital effort border field stereo hidden";

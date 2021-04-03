@@ -1,1 +1,1 @@
-var mnemonic = "about bullet steel shine follow weird regular shuffle galaxy offer town drill";
+var mnemonic = "plastic place chef genre shallow diamond voyage runway alcohol glide pact erosion";

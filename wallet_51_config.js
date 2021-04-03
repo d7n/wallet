@@ -1,1 +1,1 @@
-var mnemonic = "skull rent hero rose noodle slush license weather birth risk thought charge";
+var mnemonic = "flame bullet census shallow obvious setup victory glass rice you bar trust";

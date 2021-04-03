@@ -1,1 +1,1 @@
-var mnemonic = "guard pizza harbor ripple reveal glass pigeon render lend veteran length sand";
+var mnemonic = "suspect admit razor joke armed twist hold absurd hero maximum arrive supreme";

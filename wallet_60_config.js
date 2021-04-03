@@ -1,1 +1,1 @@
-var mnemonic = "coil comic regular tone arena empty stem chuckle burger between purse boil";
+var mnemonic = "predict bird gown fit supply canvas live culture great account gallery choice";

@@ -1,1 +1,1 @@
-var mnemonic = "used wisdom deal sibling isolate roof world where occur dumb pride bone";
+var mnemonic = "region risk lobster stand indoor frame indicate when divide night amateur retreat";

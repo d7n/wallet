@@ -1,1 +1,1 @@
-var mnemonic = "cloud advice one lemon panic rain life sauce warrior kangaroo stairs clown";
+var mnemonic = "menu depart husband brown brother jump now benefit enjoy because galaxy surge";

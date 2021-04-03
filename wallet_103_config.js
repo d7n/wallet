@@ -1,1 +1,1 @@
-var mnemonic = "pig lamp divorce decorate day vivid robot unfold sustain garbage foster noise";
+var mnemonic = "casino limit rival live chapter below tattoo easy viable fancy swallow inside";

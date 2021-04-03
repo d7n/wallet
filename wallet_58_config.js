@@ -1,1 +1,1 @@
-var mnemonic = "ignore rude main protect forum kidney enemy model select absurd expand someone";
+var mnemonic = "exile soft apart funny sugar stand proud wolf define bulk pave grant";

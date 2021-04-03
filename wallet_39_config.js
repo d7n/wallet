@@ -1,1 +1,1 @@
-var mnemonic = "demise favorite quit loop brand able indicate mango hockey material awesome forum";
+var mnemonic = "crew school arena stage hidden fault couch kitten evidence say leg whisper";

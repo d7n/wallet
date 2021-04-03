@@ -1,1 +1,1 @@
-var mnemonic = "fade giant onion comfort media pudding traffic coach special caught couch dream";
+var mnemonic = "seat frequent unhappy deputy gate stick badge first banana valve cricket lottery";

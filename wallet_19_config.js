@@ -1,1 +1,1 @@
-var mnemonic = "awkward enhance grief ripple gadget trophy novel blue embark patrol mercy oak";
+var mnemonic = "stomach apple reopen limb during process south arena furnace few toe mom";

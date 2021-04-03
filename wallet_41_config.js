@@ -1,1 +1,1 @@
-var mnemonic = "neglect come luggage feature harvest host undo around dish crush clerk rocket";
+var mnemonic = "sick diary gold message judge use wheat surprise chuckle brief culture mushroom";

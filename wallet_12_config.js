@@ -1,1 +1,1 @@
-var mnemonic = "song defense wrestle goddess cloth clap antique volume smooth soccer agree country";
+var mnemonic = "share control involve audit laptop sound tumble double office diary tell ill";

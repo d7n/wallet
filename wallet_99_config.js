@@ -1,1 +1,1 @@
-var mnemonic = "allow desk flight humble result pepper warrior amateur gun tonight plastic position";
+var mnemonic = "health enter priority play skate caution okay clerk oil news gesture maze";

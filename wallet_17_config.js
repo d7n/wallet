@@ -1,1 +1,1 @@
-var mnemonic = "menu script crystal culture rib ocean replace often someone swarm bridge spatial";
+var mnemonic = "isolate pull position trial garment verb lunch junior slam expose over unique";

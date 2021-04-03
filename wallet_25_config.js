@@ -1,1 +1,1 @@
-var mnemonic = "core pattern leader smooth kidney alien cluster claim acid clown tiny object";
+var mnemonic = "wedding kiwi summer rally gap embark text horn drill elbow duty voice";

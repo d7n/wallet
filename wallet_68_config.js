@@ -1,1 +1,1 @@
-var mnemonic = "slogan fatigue volcano possible place alarm evolve error copper dutch turkey dinner";
+var mnemonic = "ladder juice tomorrow surround matrix very wink tail laptop dove drama pencil";

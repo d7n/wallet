@@ -1,1 +1,1 @@
-var mnemonic = "eager pipe arrow friend road strategy limb meadow tragic liberty toast art";
+var mnemonic = "grow banner hawk situate evidence please jump enable water high animal small";

@@ -1,1 +1,1 @@
-var mnemonic = "early simple elegant pumpkin pistol across trumpet strategy soft imitate wolf wall";
+var mnemonic = "ice setup order thrive lunch wealth pigeon miracle trim south satoshi quit";

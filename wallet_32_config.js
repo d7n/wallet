@@ -1,1 +1,1 @@
-var mnemonic = "move curve world hood more turkey ribbon fame absent dirt price athlete";
+var mnemonic = "tuition second grass combine believe area ecology degree initial voice try cotton";

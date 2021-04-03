@@ -1,1 +1,1 @@
-var mnemonic = "cattle artwork more gym limb quarter express sword soul shoulder discover sign";
+var mnemonic = "sniff general rebuild fetch negative lunar edge emotion digital velvet injury glow";

@@ -1,1 +1,1 @@
-var mnemonic = "portion save rabbit orbit huge pull loyal bulb gesture west ramp coffee";
+var mnemonic = "visual trouble arch wage debris twice sweet cave other broom creek reform";

@@ -1,1 +1,1 @@
-var mnemonic = "twice outside piano unit race series street pelican refuse arctic fiscal give";
+var mnemonic = "explain tooth occur coffee evil like van card rice retire cross genre";

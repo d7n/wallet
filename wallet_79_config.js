@@ -1,1 +1,1 @@
-var mnemonic = "artist small album gravity stable expand village yard skin pupil treat pond";
+var mnemonic = "fruit empower excess betray phone velvet void tilt bean distance enable acid";

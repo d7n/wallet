@@ -1,1 +1,1 @@
-var mnemonic = "teach priority small spread bright beauty city elevator asthma depart wear wish";
+var mnemonic = "shop drip easily intact borrow pass dune device rug tray huge health";

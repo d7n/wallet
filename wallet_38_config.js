@@ -1,1 +1,1 @@
-var mnemonic = "need print cattle rural coach siege element uncover unable sheriff couple beach";
+var mnemonic = "wood father vacant category armor oil west enemy oblige guard science creek";

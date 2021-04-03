@@ -1,1 +1,1 @@
-var mnemonic = "shop hour gauge service grab quarter spider trim frown rare ivory twelve";
+var mnemonic = "quiz pear fog virtual possible emerge injury drink drop outdoor tape punch";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure muffin emotion kit donkey eternal blast shield stairs elite pass lend";
+var mnemonic = "happy coyote raise prevent check truth tray nominee snake room dynamic home";

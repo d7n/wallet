@@ -1,1 +1,1 @@
-var mnemonic = "hat sport today august silver matter outdoor cart hazard above reform van";
+var mnemonic = "drift stable wish sheriff monitor this involve insect swamp motion demand idle";

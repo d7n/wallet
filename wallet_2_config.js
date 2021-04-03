@@ -1,1 +1,1 @@
-var mnemonic = "large diary fresh color wall steak engage virus usual virtual punch only";
+var mnemonic = "immense enrich galaxy salmon between crucial gate neither around south expand debate";

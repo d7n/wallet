@@ -1,1 +1,1 @@
-var mnemonic = "pepper decrease fashion unknown tired once debris silly chuckle extra depend hair";
+var mnemonic = "party essence fever risk provide surprise despair south trigger spot moon scheme";

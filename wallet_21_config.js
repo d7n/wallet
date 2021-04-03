@@ -1,1 +1,1 @@
-var mnemonic = "ten frequent cigar large season hungry false hunt disagree weird derive cloud";
+var mnemonic = "cargo breeze bargain parrot crowd gadget ankle motion double badge blur couple";

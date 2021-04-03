@@ -1,1 +1,1 @@
-var mnemonic = "dune august curtain swarm erode actor submit topple clarify example feed dust";
+var mnemonic = "capital rent foster turn gentle spoil sausage casual rotate first work brave";

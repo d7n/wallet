@@ -1,1 +1,1 @@
-var mnemonic = "field love patient beauty bronze version minimum cinnamon play embody one drip";
+var mnemonic = "pelican accuse gasp ignore net speak script can wealth crash frown term";

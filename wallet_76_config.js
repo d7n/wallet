@@ -1,1 +1,1 @@
-var mnemonic = "problem taste amateur scrub ship cry picture library top water cash squirrel";
+var mnemonic = "slam hobby plug file tattoo spend faint enlist filter cool script lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "main eagle wing outer resist gas usual decide liar mercy wait inhale";
+var mnemonic = "print ranch need manage law absent ill focus language regret math stove";

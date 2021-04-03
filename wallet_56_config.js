@@ -1,1 +1,1 @@
-var mnemonic = "wolf unlock obtain virtual casual control tennis fit dynamic slam width obey";
+var mnemonic = "tribe concert dress dune ginger near horror orchard buyer cook clay menu";

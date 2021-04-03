@@ -1,1 +1,1 @@
-var mnemonic = "swap claim gun eagle settle spatial wrestle invite crew nut accuse endorse";
+var mnemonic = "interest advance transfer drop increase warrior north feed sea verify current wisdom";

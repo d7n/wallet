@@ -1,1 +1,1 @@
-var mnemonic = "wrist isolate want limit peasant oxygen rice caught rich street fancy city";
+var mnemonic = "gun inquiry same diary drip omit focus quality talk analyst define salon";

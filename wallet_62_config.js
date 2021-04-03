@@ -1,1 +1,1 @@
-var mnemonic = "matter unlock hobby mansion dog clean combine bike unable donkey detail best";
+var mnemonic = "elite betray size rose economy found calm find column letter distance stuff";

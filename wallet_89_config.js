@@ -1,1 +1,1 @@
-var mnemonic = "trade ignore yard melody entry wage appear purse unknown lucky rotate require";
+var mnemonic = "bean behind rifle diesel upset address bullet eyebrow number famous diagram echo";

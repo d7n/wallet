@@ -1,1 +1,1 @@
-var mnemonic = "rib kangaroo surprise identify theme school note parade armed screen tree skin";
+var mnemonic = "crowd season proof peanut rocket nasty picture tissue maximum entry comfort bean";

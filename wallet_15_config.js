@@ -1,1 +1,1 @@
-var mnemonic = "anchor resemble success pulp seven tower position lift parade can tip verify";
+var mnemonic = "ball vapor almost race blame hole pill gentle fan tomato retreat inhale";

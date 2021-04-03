@@ -1,1 +1,1 @@
-var mnemonic = "few bulb rail tenant flush subway satoshi armor oil motion state final";
+var mnemonic = "super mammal token unusual group weather sudden there tongue pepper bag peace";

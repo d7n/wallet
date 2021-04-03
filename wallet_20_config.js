@@ -1,1 +1,1 @@
-var mnemonic = "shadow purchase raccoon market scheme test will wire finger arctic happy copy";
+var mnemonic = "hill range near sheriff force junk photo enlist source ball ginger you";

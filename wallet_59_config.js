@@ -1,1 +1,1 @@
-var mnemonic = "grief draw shed clever feel present today join luggage upgrade online enhance";
+var mnemonic = "senior flavor enough earn same patient obvious carbon huge scatter unfair scan";

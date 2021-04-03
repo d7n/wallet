@@ -1,1 +1,1 @@
-var mnemonic = "response immune night race drift churn any load border actor ginger addict";
+var mnemonic = "runway coast notice thing true lawn tail shift ankle little change fee";

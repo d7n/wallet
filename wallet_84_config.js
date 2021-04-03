@@ -1,1 +1,1 @@
-var mnemonic = "stage news subject amount silk rude lobster region student slot spell fancy";
+var mnemonic = "diamond divide burger battle tent chief vital trophy around convince snack month";

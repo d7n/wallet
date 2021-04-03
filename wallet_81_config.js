@@ -1,1 +1,1 @@
-var mnemonic = "hill another egg goddess use rice fit divide caution circle bread robot";
+var mnemonic = "blade barrel surprise insect oblige try damage rescue organ tail then sun";

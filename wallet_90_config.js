@@ -1,1 +1,1 @@
-var mnemonic = "ivory caution portion account moment drum predict tag citizen permit behind month";
+var mnemonic = "crowd hybrid oak eye finger nation poet film syrup credit hire much";

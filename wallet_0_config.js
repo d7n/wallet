@@ -1,1 +1,1 @@
-var mnemonic = "gravity motion come uniform jacket sunset salute reward wasp vanish empty solution";
+var mnemonic = "flame stable rare pluck buddy section warfare soul river pear broken dance";

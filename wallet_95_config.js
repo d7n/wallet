@@ -1,1 +1,1 @@
-var mnemonic = "inside love because wheat shift expand oblige soda goose fragile pulse peace";
+var mnemonic = "garden lawsuit ahead anxiety era report spell firm clay section friend reopen";

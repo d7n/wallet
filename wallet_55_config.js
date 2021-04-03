@@ -1,1 +1,1 @@
-var mnemonic = "dish spatial rough horror distance primary route chef odor upset thing ability";
+var mnemonic = "frequent stairs misery wonder creek album hedgehog month park very figure stove";

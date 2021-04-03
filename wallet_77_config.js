@@ -1,1 +1,1 @@
-var mnemonic = "inject inside dismiss hotel able second mansion account october common purse axis";
+var mnemonic = "hockey story security upon enter diet betray gospel mail exhibit hunt they";

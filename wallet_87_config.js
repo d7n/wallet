@@ -1,1 +1,1 @@
-var mnemonic = "hundred dignity source next endorse search give only liberty hold vicious guard";
+var mnemonic = "armed burger health bean lady art toast shiver expire oblige mystery salmon";

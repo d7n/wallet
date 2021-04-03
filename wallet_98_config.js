@@ -1,1 +1,1 @@
-var mnemonic = "marble fantasy cigar matrix cherry vault must narrow edge lion zone discover";
+var mnemonic = "present learn ball face federal crazy grass silk feel doll bind rally";

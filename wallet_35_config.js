@@ -1,1 +1,1 @@
-var mnemonic = "feed together system face chest tumble upset prevent tired april core hurdle";
+var mnemonic = "heavy hundred trigger woman remind glass cotton enhance news mind girl delay";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent leader cruel sample gym sure steak firm glare service yard roof";
+var mnemonic = "fence insect caution chimney barrel cheap uniform lunar share error captain bundle";

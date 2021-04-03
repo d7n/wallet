@@ -1,1 +1,1 @@
-var mnemonic = "conduct audit rural tomato sadness garbage tiger win hurry corn solution fade";
+var mnemonic = "club sunny worry reunion tongue empty help focus pole right alpha trick";

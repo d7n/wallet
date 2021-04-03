@@ -1,1 +1,1 @@
-var mnemonic = "next chat dial youth admit scatter odor pupil rural number chat lucky";
+var mnemonic = "coil buffalo lens husband give industry good filter glass sad crush fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "owner six appear drill diary calm brisk lab equal suffer wave region";
+var mnemonic = "mix marble elbow slide social powder check tuna main ignore harvest donate";

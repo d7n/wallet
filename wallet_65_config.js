@@ -1,1 +1,1 @@
-var mnemonic = "razor blame heavy trigger youth quit coil bridge bronze chest popular session";
+var mnemonic = "arrange claw fantasy ability confirm fox make border birth own reveal culture";

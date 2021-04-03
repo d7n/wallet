@@ -1,1 +1,1 @@
-var mnemonic = "remove seminar gun puzzle strategy else once civil topic square pipe steak";
+var mnemonic = "position pink cat soldier hand toy oblige match tourist rotate device demise";

@@ -1,1 +1,1 @@
-var mnemonic = "duty sick various roof stuff hole neutral demise crash exotic pill forest";
+var mnemonic = "route input any report invest wide exist sample dizzy cage gas helmet";

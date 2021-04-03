@@ -1,1 +1,1 @@
-var mnemonic = "stuff adapt pencil purity only plastic pill flavor nothing dress edge vicious";
+var mnemonic = "humor transfer reason boost movie luxury object risk provide mad about grocery";

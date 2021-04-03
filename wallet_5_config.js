@@ -1,1 +1,1 @@
-var mnemonic = "road violin absurd lizard minimum enlist bid usage ocean public speed engage";
+var mnemonic = "human draw parrot supreme clever carry shrug royal local assist motion ginger";

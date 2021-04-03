@@ -1,1 +1,1 @@
-var mnemonic = "ketchup auto humble end lobster mean soup special slow space bid alley";
+var mnemonic = "soda cycle loyal second appear paper corn praise fish lady confirm average";

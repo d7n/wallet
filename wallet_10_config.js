@@ -1,1 +1,1 @@
-var mnemonic = "film rich luxury ice horror clutch embody slot off weird panel daughter";
+var mnemonic = "canoe syrup south same history drink fix museum usage squirrel basic ginger";

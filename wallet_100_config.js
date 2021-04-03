@@ -1,1 +1,1 @@
-var mnemonic = "quick perfect confirm autumn panic question round embark certain drink ugly else";
+var mnemonic = "vault exercise pudding define camera anxiety empty coconut dial tent unit damp";

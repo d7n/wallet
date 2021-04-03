@@ -1,1 +1,1 @@
-var mnemonic = "glow attack into atom spike project museum uniform stuff become twin chase";
+var mnemonic = "guide harbor acquire gas child hundred egg hockey ghost garage club often";

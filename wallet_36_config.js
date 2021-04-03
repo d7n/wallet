@@ -1,1 +1,1 @@
-var mnemonic = "glory account fatal matrix iron lumber fall anger mirror adjust subway multiply";
+var mnemonic = "claw reduce honey claim moment cliff dolphin advance chase pride display vacant";

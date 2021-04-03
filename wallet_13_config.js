@@ -1,1 +1,1 @@
-var mnemonic = "curious paddle marble general similar poet dutch pet film apart bright menu";
+var mnemonic = "stadium rule dinner peasant crawl boring blood expose reason syrup license alien";

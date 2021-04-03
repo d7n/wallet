@@ -1,1 +1,1 @@
-var mnemonic = "champion run time art design august immense work logic spring taxi sketch";
+var mnemonic = "action blind mom tragic nest number resource cover correct maid way bottom";

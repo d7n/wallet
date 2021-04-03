@@ -1,1 +1,1 @@
-var mnemonic = "canyon crazy myth crumble suggest lunar wash manage ten vacant fee hurt";
+var mnemonic = "shift barrel use exhibit high useless cereal shoot engine pledge brain middle";

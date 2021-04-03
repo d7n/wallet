@@ -1,1 +1,1 @@
-var mnemonic = "obtain clerk cereal wife cable super episode degree quality lounge cattle verify";
+var mnemonic = "scan address old car orchard lemon impact rotate shield toast north smoke";

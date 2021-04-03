@@ -1,1 +1,1 @@
-var mnemonic = "distance cook health pill offer despair right giant maid boat bone inhale";
+var mnemonic = "west ethics obvious pigeon ugly treat describe danger often verb target exhibit";

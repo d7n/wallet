@@ -1,1 +1,1 @@
-var mnemonic = "push juice twice noise awesome easy hedgehog season drastic certain alley chapter";
+var mnemonic = "vacant fence mansion truck eight three miss solar boring nest hold wait";

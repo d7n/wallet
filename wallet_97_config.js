@@ -1,1 +1,1 @@
-var mnemonic = "uniform erase dizzy fence soccer orchard genius common uphold pretty weekend notice";
+var mnemonic = "payment echo little antique mixed cruise snap title now vast uniform letter";

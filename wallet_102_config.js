@@ -1,1 +1,1 @@
-var mnemonic = "select insane device seed hello motion ribbon under carbon peace stock journey";
+var mnemonic = "absent bring layer vessel code click project kitten pony social solve kidney";

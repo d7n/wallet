@@ -1,1 +1,1 @@
-var mnemonic = "clip senior violin lemon solution push detail midnight bench twelve direct vicious";
+var mnemonic = "forget gauge position multiply federal satoshi banner expect donor party symbol silk";
