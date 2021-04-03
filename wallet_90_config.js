@@ -1,1 +1,1 @@
-var mnemonic = "blood skill renew quantum doctor nuclear inform village adjust flock cement purpose";
+var mnemonic = "marine stone plug giggle reunion scale improve teach negative extend empower people";

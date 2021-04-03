@@ -1,1 +1,1 @@
-var mnemonic = "action thank ability burden pride desk oppose second sell stadium cause pioneer";
+var mnemonic = "omit inmate crouch check hover mom poet sketch clinic frog organ family";

@@ -1,1 +1,1 @@
-var mnemonic = "knife kangaroo coach crack coyote output reduce other skull wisdom deny flash";
+var mnemonic = "paddle breeze thrive pass wheel battle equal pupil direct suffer soft tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "flame fix silk spy repair clerk stereo giggle fruit emotion civil portion";
+var mnemonic = "build raven clip pitch same play lend recipe drama type age crash";

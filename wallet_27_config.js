@@ -1,1 +1,1 @@
-var mnemonic = "much update split screen miss couple dinner series truth brief refuse hotel";
+var mnemonic = "spike scissors forward curtain install liar song broom shine violin frozen faculty";

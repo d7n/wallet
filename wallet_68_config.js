@@ -1,1 +1,1 @@
-var mnemonic = "welcome crater member view keen mule crouch eternal eager venue omit august";
+var mnemonic = "silk expect donor boy vocal music laptop suspect trim dirt remove labor";

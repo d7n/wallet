@@ -1,1 +1,1 @@
-var mnemonic = "one hurdle curtain fame narrow proud pigeon soda physical matter again certain";
+var mnemonic = "eager trophy angle bunker state ceiling embrace pizza list drift orchard short";

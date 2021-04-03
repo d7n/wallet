@@ -1,1 +1,1 @@
-var mnemonic = "follow combine mountain three able join impulse large walk hen kite eyebrow";
+var mnemonic = "pill bubble celery silly few daring kiwi release illness fruit stadium deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "thank angry find fan reform gaze choice better lobster odor latin rebuild";
+var mnemonic = "stock fortune artwork squeeze cause trial husband topple genre govern shed radio";

@@ -1,1 +1,1 @@
-var mnemonic = "shove into hungry blast south elevator involve olive man cactus rice motor";
+var mnemonic = "tank remember address quote reunion tunnel outdoor rather polar artist napkin bone";

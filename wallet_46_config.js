@@ -1,1 +1,1 @@
-var mnemonic = "impulse size team ostrich rotate code travel carbon cloth mandate town swap";
+var mnemonic = "pig ice screen holiday obey magic general solid royal seat oval brave";

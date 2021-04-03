@@ -1,1 +1,1 @@
-var mnemonic = "spike cute reform absurd immense guilt burst cat owner stereo cushion obscure";
+var mnemonic = "catch maple spice replace day milk loan detect taste reform juice visual";

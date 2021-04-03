@@ -1,1 +1,1 @@
-var mnemonic = "liquid various either purse elite photo fiction tip situate wild gadget amazing";
+var mnemonic = "lucky goat crack anxiety original party raven damage limit same strong merry";

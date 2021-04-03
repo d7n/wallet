@@ -1,1 +1,1 @@
-var mnemonic = "useful wrap avocado divert silver thumb praise check eagle virus enact chaos";
+var mnemonic = "viable pink double emotion rubber intact tobacco unknown task discover initial name";

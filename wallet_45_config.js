@@ -1,1 +1,1 @@
-var mnemonic = "flavor size flag thunder film tower prevent outer mule pet column agree";
+var mnemonic = "marine object sunset envelope mountain lizard ozone scale net valid carry trial";

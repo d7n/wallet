@@ -1,1 +1,1 @@
-var mnemonic = "fee thunder range song reject sorry flock unaware fat remember fancy pen";
+var mnemonic = "sense uncle right slim sketch car wise wall lake tribe leg lady";

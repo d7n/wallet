@@ -1,1 +1,1 @@
-var mnemonic = "antique rookie figure tiny term series top toast grocery energy enough orphan";
+var mnemonic = "word eyebrow payment zoo chalk ahead erupt expose mass argue chronic siren";

@@ -1,1 +1,1 @@
-var mnemonic = "theory certain talk toy hero jump oak parent chest assault ask fuel";
+var mnemonic = "broken ball eagle can unique day great hero select stand culture rain";

@@ -1,1 +1,1 @@
-var mnemonic = "remind dwarf little height pepper mule wet bounce violin garbage hand risk";
+var mnemonic = "remain scorpion brother pen exile bright tiny inner sun door buzz pause";

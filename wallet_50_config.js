@@ -1,1 +1,1 @@
-var mnemonic = "lesson twenty tattoo rude ritual clog rapid beyond ask trial shaft glow";
+var mnemonic = "bread claw earth fat range oxygen proud bread catalog topple jelly bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "grow fire honey amazing rabbit invest mango cabin violin legal ship grace";
+var mnemonic = "oyster desk quit black logic pepper include gaze hat seed use abstract";

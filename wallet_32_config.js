@@ -1,1 +1,1 @@
-var mnemonic = "gate twin palm age mixture point impulse slide arrive pottery stumble tourist";
+var mnemonic = "vacuum evolve fade panel brand match correct rabbit omit save solve eternal";

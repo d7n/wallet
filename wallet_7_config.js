@@ -1,1 +1,1 @@
-var mnemonic = "marine trigger slim various scale portion stable shift match wood buzz dentist";
+var mnemonic = "swallow question hidden jazz upgrade aunt globe sea actual please silk depart";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial raw whisper dawn loan inhale pink outer mail visual gift someone";
+var mnemonic = "frequent basket analyst hundred tragic circle broccoli price sauce weasel material predict";

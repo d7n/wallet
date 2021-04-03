@@ -1,1 +1,1 @@
-var mnemonic = "have arm artist omit include slender cheese velvet unable critic wash arrow";
+var mnemonic = "vocal nation near left lecture virtual theory maple hood point long dinosaur";

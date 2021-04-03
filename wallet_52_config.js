@@ -1,1 +1,1 @@
-var mnemonic = "retire shuffle other enroll ugly swift bullet swift recall story advice artefact";
+var mnemonic = "toilet keep burden average lyrics old correct immense come possible faculty return";

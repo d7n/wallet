@@ -1,1 +1,1 @@
-var mnemonic = "coconut ladder frog fat absorb medal symptom inflict axis banner urge century";
+var mnemonic = "hybrid raw immense occur remind produce planet credit coach brass lyrics mandate";

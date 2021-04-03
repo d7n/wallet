@@ -1,1 +1,1 @@
-var mnemonic = "device long hold ladder voyage juice river enroll critic candy level develop";
+var mnemonic = "rely fame talk away during share crowd need retire you elephant swim";

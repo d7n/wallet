@@ -1,1 +1,1 @@
-var mnemonic = "balance opinion page adjust lumber sugar adapt bonus lava segment melt there";
+var mnemonic = "venture review wish grief right cotton ramp palm industry remain shrimp weather";

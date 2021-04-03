@@ -1,1 +1,1 @@
-var mnemonic = "slim civil voyage depend elbow bird success artist host shift young vessel";
+var mnemonic = "melt tornado slam hawk powder edge inspire stem dry expire illegal say";

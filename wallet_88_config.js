@@ -1,1 +1,1 @@
-var mnemonic = "indicate ramp dinner pond chicken access wish together leg diamond near surprise";
+var mnemonic = "sustain detail guess spoil multiply umbrella strategy token sheriff joke denial shed";

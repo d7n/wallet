@@ -1,1 +1,1 @@
-var mnemonic = "clever vague remind alley urge dose cereal spider assault pact piece awful";
+var mnemonic = "maid doll then culture blast cupboard sun school slender parent infant album";

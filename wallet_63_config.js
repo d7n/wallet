@@ -1,1 +1,1 @@
-var mnemonic = "rebel render picnic shaft monkey pilot render absorb humor response business term";
+var mnemonic = "nest power season digital naive make chalk client acoustic segment course car";

@@ -1,1 +1,1 @@
-var mnemonic = "label cry either giant hidden elder stand misery alarm that daughter size";
+var mnemonic = "dry cliff resist chase twenty behave end balcony possible beef work pigeon";

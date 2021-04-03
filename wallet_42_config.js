@@ -1,1 +1,1 @@
-var mnemonic = "riot zero zone then million victory able clinic entry brown auto puppy";
+var mnemonic = "bottom pelican finish globe satoshi arena fitness honey treat mammal gadget fold";

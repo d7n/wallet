@@ -1,1 +1,1 @@
-var mnemonic = "private proof stadium repeat page later arrest soap giant absorb situate few";
+var mnemonic = "tube enhance edge enough speak kingdom hold lobster table prison lumber witness";

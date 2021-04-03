@@ -1,1 +1,1 @@
-var mnemonic = "chief taxi search father segment like juice journey mutual evoke creek subway";
+var mnemonic = "hollow organ success trip liberty toddler garment worth soldier opinion sport float";

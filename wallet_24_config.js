@@ -1,1 +1,1 @@
-var mnemonic = "pride rare clock minimum relief range cradle hotel artwork pluck seat enroll";
+var mnemonic = "mother hole adjust design awful brown benefit nuclear wool where energy weekend";

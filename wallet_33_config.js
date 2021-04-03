@@ -1,1 +1,1 @@
-var mnemonic = "smart glide seek canvas abstract upset brisk elite copy much duty scrap";
+var mnemonic = "trim swift helmet focus input anxiety miracle spray pill voyage whale truth";

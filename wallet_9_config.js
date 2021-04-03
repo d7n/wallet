@@ -1,1 +1,1 @@
-var mnemonic = "scare book mom rescue save enter blood cute toast boy nose garment";
+var mnemonic = "kiwi cloud nerve news cause hour bright clock salon scissors island rent";

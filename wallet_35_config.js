@@ -1,1 +1,1 @@
-var mnemonic = "loyal cruise blame extra receive poverty beef fantasy any blush inform someone";
+var mnemonic = "exist coffee supply exile slush slow left ranch spare enlist actual mesh";

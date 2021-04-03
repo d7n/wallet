@@ -1,1 +1,1 @@
-var mnemonic = "soup habit estate garage photo fury thought burden wish farm coyote shine";
+var mnemonic = "alarm artefact squirrel nuclear wear seek sibling scene mystery famous absent that";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling repair two track answer parent congress awesome spare cup lion girl";
+var mnemonic = "neutral agent odor grid acoustic also noise donkey wall orchard where correct";

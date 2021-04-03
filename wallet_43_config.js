@@ -1,1 +1,1 @@
-var mnemonic = "embark ribbon crew angle strike artist attitude error disorder rapid buzz reason";
+var mnemonic = "sniff spare oven pluck tunnel enough ethics regular museum human rack champion";

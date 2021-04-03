@@ -1,1 +1,1 @@
-var mnemonic = "panda goat afraid royal wear oval trouble panda insane pioneer antenna cannon";
+var mnemonic = "cotton cool response squirrel build bird edit news trim acquire negative clever";

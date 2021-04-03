@@ -1,1 +1,1 @@
-var mnemonic = "meadow three toy submit estate elite brown song buyer build rich ozone";
+var mnemonic = "artefact rent region taste spirit wave century also grace tray rather pride";

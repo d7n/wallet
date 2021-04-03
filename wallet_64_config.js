@@ -1,1 +1,1 @@
-var mnemonic = "dizzy raccoon equal focus yard auto garage tooth tunnel bottom hire harvest";
+var mnemonic = "check bounce follow above wash bless afford jewel crumble window silver obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "dust field person wrap tip path action organ phrase slogan wolf man";
+var mnemonic = "sad length guess gold divide tool wink hill vessel sadness notice later";

@@ -1,1 +1,1 @@
-var mnemonic = "wink moral submit choose across wage hold rail nominee vicious blossom knock";
+var mnemonic = "lab brick core lounge fade total position disease bitter quarter drama height";

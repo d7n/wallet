@@ -1,1 +1,1 @@
-var mnemonic = "speed amount avoid hero emotion ability half canvas battle leaf weather cry";
+var mnemonic = "second shallow exit goddess quit diesel modify guide motion nephew globe easily";

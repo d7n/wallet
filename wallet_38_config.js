@@ -1,1 +1,1 @@
-var mnemonic = "task day race depend flash put coyote refuse slogan north base fashion";
+var mnemonic = "north arrive swear dash slice pet talk grant crumble bread cherry pigeon";

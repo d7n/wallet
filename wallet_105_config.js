@@ -1,1 +1,1 @@
-var mnemonic = "thing transfer flip crawl worry elder person design payment cradle pledge vivid";
+var mnemonic = "shuffle cargo tissue few call true inflict pencil close wool scheme margin";

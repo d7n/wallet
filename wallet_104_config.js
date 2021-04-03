@@ -1,1 +1,1 @@
-var mnemonic = "hungry antique rookie fancy about differ absurd strategy pyramid aware letter round";
+var mnemonic = "steak sound stay shiver alarm stomach dress noise ladder project desert produce";

@@ -1,1 +1,1 @@
-var mnemonic = "embody stay fame vibrant stem echo quarter miss soap cattle card honey";
+var mnemonic = "burden payment card one train season local program embrace leisure guide seed";

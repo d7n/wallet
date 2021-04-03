@@ -1,1 +1,1 @@
-var mnemonic = "conduct like job apart original rule advice grocery mountain ocean fortune pulp";
+var mnemonic = "input palace wrong hundred base door private menu business virtual luggage fat";

@@ -1,1 +1,1 @@
-var mnemonic = "essay risk magic ceiling divert chuckle phrase record digital route session desk";
+var mnemonic = "mixture under have endorse sock fence suspect credit total quit nuclear sauce";

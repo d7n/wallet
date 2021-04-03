@@ -1,1 +1,1 @@
-var mnemonic = "increase cannon guitar float venture humor digital loan decline champion regular swift";
+var mnemonic = "milk deal predict okay raw memory sea faint silver gain jungle fade";

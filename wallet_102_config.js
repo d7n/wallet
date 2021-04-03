@@ -1,1 +1,1 @@
-var mnemonic = "silent unit tired unknown rural invite bread boring hammer smooth judge lady";
+var mnemonic = "bitter vital fever auction crouch slab cheese elegant case wheat slot clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "flock puppy wedding onion clown swing saddle together carry plastic silly potato";
+var mnemonic = "normal organ detail canyon prevent bronze idea tag grocery nest tired winter";

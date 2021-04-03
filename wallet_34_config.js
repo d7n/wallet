@@ -1,1 +1,1 @@
-var mnemonic = "sleep access roast illegal curve again sell voice nominee drift guard surge";
+var mnemonic = "fresh walnut car casino magic deal note fly pulse arrive comfort gravity";

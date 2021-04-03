@@ -1,1 +1,1 @@
-var mnemonic = "bird harsh marriage accuse rib romance program boring frame filter minor swim";
+var mnemonic = "physical flock embrace pioneer basic behind engage crumble absurd frozen shaft banner";

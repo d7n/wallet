@@ -1,1 +1,1 @@
-var mnemonic = "sorry stove electric undo rice cute pause paddle unique obey shell forget";
+var mnemonic = "bag strong source machine mesh black rose myself visit clip creek margin";

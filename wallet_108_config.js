@@ -1,1 +1,1 @@
-var mnemonic = "exhibit sugar atom lucky online crisp manage permit decade silent exhaust cause";
+var mnemonic = "amazing park convince seminar bag skirt nuclear punch cost please village use";

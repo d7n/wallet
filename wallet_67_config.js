@@ -1,1 +1,1 @@
-var mnemonic = "tilt place pledge flip stamp retreat picnic junk shrug attend own twice";
+var mnemonic = "dice pudding use october sugar loan sea sound job man blanket piece";

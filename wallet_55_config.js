@@ -1,1 +1,1 @@
-var mnemonic = "spawn balance gun catalog success canyon observe wait eight february able wrestle";
+var mnemonic = "motion sausage zoo mercy regret harbor camp feel finish corn tiny second";

@@ -1,1 +1,1 @@
-var mnemonic = "element unusual business student business mind artwork second garage lucky century ugly";
+var mnemonic = "define enroll mix negative potato clean tree orient trumpet clerk adult trim";

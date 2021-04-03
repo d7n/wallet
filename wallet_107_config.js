@@ -1,1 +1,1 @@
-var mnemonic = "treat potato gauge remember below social home silk pulse attack benefit better";
+var mnemonic = "trim wolf help combine furnace fatal filter invest evil coach fold begin";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh letter dream toward sustain hybrid wisdom solution champion coil recall room";
+var mnemonic = "photo alarm search disagree minimum door dog enjoy fluid bulb disagree clarify";

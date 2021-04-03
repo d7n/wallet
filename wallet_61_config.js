@@ -1,1 +1,1 @@
-var mnemonic = "purity erode seat route among nominee minimum love solid foil enough burst";
+var mnemonic = "saddle ride anger wife twelve orphan say lunch expand exile clump april";

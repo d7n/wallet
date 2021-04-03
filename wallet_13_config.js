@@ -1,1 +1,1 @@
-var mnemonic = "parade gym asset flag ill noble easy bronze bring feel grain hover";
+var mnemonic = "slim armed expire nature hover luggage practice explain maximum maple lamp silk";

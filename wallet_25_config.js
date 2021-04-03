@@ -1,1 +1,1 @@
-var mnemonic = "grocery ability fitness actor can notice grief talk pitch pepper record oak";
+var mnemonic = "winner faculty mention middle water size cool concert resist vintage urge minute";

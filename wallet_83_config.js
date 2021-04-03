@@ -1,1 +1,1 @@
-var mnemonic = "cupboard empty churn bachelor stamp trash usual sponsor blanket critic concert behind";
+var mnemonic = "height retreat hub what nature curious say approve rotate capital mail federal";

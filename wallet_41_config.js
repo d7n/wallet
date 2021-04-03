@@ -1,1 +1,1 @@
-var mnemonic = "solid limit asthma torch online struggle arrest uncle frame multiply snap destroy";
+var mnemonic = "case nuclear smart east salon black reform few dirt pumpkin debate basket";

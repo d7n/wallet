@@ -1,1 +1,1 @@
-var mnemonic = "section skirt lamp order measure rural cat poem canvas search choose glory";
+var mnemonic = "setup weasel resist receive deer come gloom holiday crew sound art inject";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious tell rich desk dust tip axis doll sword faith evil response";
+var mnemonic = "silk prevent grit robot human property print garlic argue kite galaxy travel";

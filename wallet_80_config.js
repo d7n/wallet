@@ -1,1 +1,1 @@
-var mnemonic = "insane slab uncle pottery fault vehicle cradle write pioneer harbor vault vague";
+var mnemonic = "drop palace regular nut across volcano decrease curtain beef fade edit sand";

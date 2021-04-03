@@ -1,1 +1,1 @@
-var mnemonic = "endorse nation sniff tuna despair match crew wear cage smoke rigid main";
+var mnemonic = "tell rural broccoli inmate west capital forest rose trick fetch shop frequent";

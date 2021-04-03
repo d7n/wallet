@@ -1,1 +1,1 @@
-var mnemonic = "wait deal balance health fan finish smart prosper medal library dolphin indicate";
+var mnemonic = "report poet lunch tiger trial gap effort guess moment swear actual survey";

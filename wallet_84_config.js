@@ -1,1 +1,1 @@
-var mnemonic = "license step item beyond myth code spray tomato bamboo grace receive clarify";
+var mnemonic = "demand rural tiger barrel horror shoot parent repair joy dad buddy tell";

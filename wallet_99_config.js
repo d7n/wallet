@@ -1,1 +1,1 @@
-var mnemonic = "tomato double ring this gown boost equal trigger cheap resist because dismiss";
+var mnemonic = "code toddler actor element warfare around erosion door pottery pluck sand exhibit";

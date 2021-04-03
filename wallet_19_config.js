@@ -1,1 +1,1 @@
-var mnemonic = "swallow appear hood layer thought innocent fury tunnel kind spend deer turn";
+var mnemonic = "sword pupil battle ranch velvet learn cram cake convince session toe mask";

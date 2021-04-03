@@ -1,1 +1,1 @@
-var mnemonic = "gloom consider claw island draw marine face large speed antenna chair stone";
+var mnemonic = "fitness sample physical marble captain person uniform obvious rebel cute side win";

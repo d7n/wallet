@@ -1,1 +1,1 @@
-var mnemonic = "exclude harbor knee awkward raw hero cheese drum exercise casino add blouse";
+var mnemonic = "chicken daughter wish flee omit shine mutual olive shaft fix season armor";

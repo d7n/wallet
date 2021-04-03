@@ -1,1 +1,1 @@
-var mnemonic = "tonight history staff figure notable announce raven antique match walk quit salt";
+var mnemonic = "moment crop brother mixture reward armed hamster build pyramid charge basic siren";

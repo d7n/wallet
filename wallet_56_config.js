@@ -1,1 +1,1 @@
-var mnemonic = "dog hood conduct icon control army proof shell jump diary spider risk";
+var mnemonic = "stuff ecology body soccer treat horror festival weird work carbon predict harsh";

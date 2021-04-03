@@ -1,1 +1,1 @@
-var mnemonic = "attack learn page clown space language have wrong cement fame anger seat";
+var mnemonic = "wheat horse enjoy delay tackle dinner praise nominee lamp verb child load";

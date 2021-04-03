@@ -1,1 +1,1 @@
-var mnemonic = "arrange art hair cram saddle laptop dumb reduce glare cloud able lend";
+var mnemonic = "winter cable tag anger fluid smooth pulp sauce bachelor split delay object";

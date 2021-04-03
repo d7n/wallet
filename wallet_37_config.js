@@ -1,1 +1,1 @@
-var mnemonic = "imitate hybrid play tornado fatal alarm humor purpose glass artist caution point";
+var mnemonic = "same snake brain ten alien deposit solid shuffle bread theory dawn run";

@@ -1,1 +1,1 @@
-var mnemonic = "govern afraid lens never know sniff junior source student zoo tobacco excite";
+var mnemonic = "tube trade indoor vanish imitate twenty power end glimpse plug jar clean";

@@ -1,1 +1,1 @@
-var mnemonic = "undo ball elite relax travel fashion exhibit fuel any section auction ritual";
+var mnemonic = "life enemy aware worry engage entire chief stage fall mom note cluster";

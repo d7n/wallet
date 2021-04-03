@@ -1,1 +1,1 @@
-var mnemonic = "buddy minute fish rich clump festival long tube tornado unfold lens system";
+var mnemonic = "general lock olive solar day hub lawsuit wreck paddle panther hedgehog license";

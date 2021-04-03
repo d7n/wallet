@@ -1,1 +1,1 @@
-var mnemonic = "hockey pistol custom before way various security wine thrive cereal tail remain";
+var mnemonic = "devote tomorrow outer ill bacon fancy stuff celery above dinner parent peanut";

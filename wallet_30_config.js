@@ -1,1 +1,1 @@
-var mnemonic = "plug doctor exercise network fly small label clinic train attack barrel dust";
+var mnemonic = "consider tattoo space write fan clerk sight video phone expose fish gold";
