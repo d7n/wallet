@@ -1,1 +1,1 @@
-var mnemonic = "great lava impose cycle emotion another shadow core echo brush baby license";
+var mnemonic = "filter lawn behind parade kit sheriff exchange blame olympic ugly pet quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "venue online hood orbit seek loud ramp caution economy worth uncle awkward";
+var mnemonic = "judge major abstract alert fork laugh stage again fence foam slender wreck";

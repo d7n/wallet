@@ -1,1 +1,1 @@
-var mnemonic = "fetch flat boost jaguar engage already object dust charge cupboard zone jacket";
+var mnemonic = "trouble base champion sick mouse envelope pretty modify impact select shrug repeat";

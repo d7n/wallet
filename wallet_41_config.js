@@ -1,1 +1,1 @@
-var mnemonic = "rather else cheese enforce decade lecture game letter excite issue nasty party";
+var mnemonic = "second empower collect flock holiday this slogan wedding home retreat reform vault";

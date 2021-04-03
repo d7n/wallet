@@ -1,1 +1,1 @@
-var mnemonic = "just off mind resemble nominee bonus carry hawk riot trim join best";
+var mnemonic = "thumb silk rival oyster dial future cliff flip agree warfare finger garbage";

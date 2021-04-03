@@ -1,1 +1,1 @@
-var mnemonic = "song convince upgrade require near sheriff hub shield vehicle suit air organ";
+var mnemonic = "run true ring foam disease crystal coach never butter cool enlist weather";

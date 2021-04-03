@@ -1,1 +1,1 @@
-var mnemonic = "solid obscure excuse govern chuckle person judge venue devote meadow menu door";
+var mnemonic = "tray auto control office nuclear topple improve dignity dutch lady suit sugar";

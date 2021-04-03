@@ -1,1 +1,1 @@
-var mnemonic = "apple alcohol wood man dwarf monkey inch lounge wait nominee shed melt";
+var mnemonic = "breeze fence slight object bench rubber sketch decrease approve diesel struggle fame";

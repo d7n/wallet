@@ -1,1 +1,1 @@
-var mnemonic = "aware sword squeeze snake lawsuit order rude true misery canvas fabric true";
+var mnemonic = "domain surround method doctor laptop inquiry vintage rib someone dice yellow scrap";

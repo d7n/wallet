@@ -1,1 +1,1 @@
-var mnemonic = "bulk ramp minimum zoo gravity matter section castle twenty arrow price exile";
+var mnemonic = "marine lyrics viable poet solar pretty window accident position secret ethics average";

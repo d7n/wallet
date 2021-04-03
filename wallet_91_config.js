@@ -1,1 +1,1 @@
-var mnemonic = "expect wash square pattern erode random vast hamster length drama must time";
+var mnemonic = "faith rely valve furnace foot history drink unique kick funny okay awkward";

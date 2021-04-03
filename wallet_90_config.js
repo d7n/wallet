@@ -1,1 +1,1 @@
-var mnemonic = "word slow glow ripple help album oppose couch surface install episode pole";
+var mnemonic = "sample duty dragon surround morning notable couple pass silly hat drill universe";

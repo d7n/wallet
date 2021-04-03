@@ -1,1 +1,1 @@
-var mnemonic = "spike pretty virtual gown jeans excite execute stereo bird victory rally increase";
+var mnemonic = "yellow chimney grant oil question damp impose dog aerobic acquire library bundle";

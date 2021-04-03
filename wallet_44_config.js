@@ -1,1 +1,1 @@
-var mnemonic = "left spare metal emerge leaf scale code kitten athlete miss hire monitor";
+var mnemonic = "cry advice popular penalty verify cargo little bind bright review honey rather";

@@ -1,1 +1,1 @@
-var mnemonic = "sister prevent buzz female repair coast plug base update potato toward bronze";
+var mnemonic = "night until congress clock luggage happy front rotate assist mouse upgrade notable";

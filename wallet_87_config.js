@@ -1,1 +1,1 @@
-var mnemonic = "fire recall else august often obtain rapid letter crew silent wedding coyote";
+var mnemonic = "armed sniff grid web film cube copper math rabbit vital pause eager";

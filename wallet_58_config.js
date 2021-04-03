@@ -1,1 +1,1 @@
-var mnemonic = "leisure coil black liberty famous reward sadness vague organ paper garment reform";
+var mnemonic = "text entire current monitor crumble tuition same million word airport van jeans";

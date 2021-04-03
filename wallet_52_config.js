@@ -1,1 +1,1 @@
-var mnemonic = "alien crowd vessel tackle virus grab title quantum riot awesome narrow clinic";
+var mnemonic = "access original give dwarf invest machine daughter slogan glide news wrestle stand";

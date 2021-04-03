@@ -1,1 +1,1 @@
-var mnemonic = "festival glue life mail police uphold air track wish much cruel trade";
+var mnemonic = "unit pear affair easy story lesson drip urge rug party blossom pride";

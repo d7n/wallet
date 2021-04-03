@@ -1,1 +1,1 @@
-var mnemonic = "dumb nut remind bitter pig guide stumble giggle garage army guess behave";
+var mnemonic = "describe force joy one service tourist squirrel vapor orphan rent latin liberty";

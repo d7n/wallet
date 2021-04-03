@@ -1,1 +1,1 @@
-var mnemonic = "excite ignore setup manage aware grunt place game regular battle split own";
+var mnemonic = "present reason sword depth quarter minute enemy west glance gift hurdle destroy";

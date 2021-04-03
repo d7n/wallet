@@ -1,1 +1,1 @@
-var mnemonic = "maze monitor bless salute gas fetch staff vacuum distance clip latin sting";
+var mnemonic = "bracket timber curious swallow sample beauty mean expand pioneer stay digital comfort";

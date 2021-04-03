@@ -1,1 +1,1 @@
-var mnemonic = "uniform segment grid input forget zoo palace inside relax amount disagree hungry";
+var mnemonic = "moment fan infant hotel cover easily office arrest surge spike adult staff";

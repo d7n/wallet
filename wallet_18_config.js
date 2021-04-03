@@ -1,1 +1,1 @@
-var mnemonic = "omit spatial salmon balcony pony glove zoo simple good vast stamp upset";
+var mnemonic = "bunker click sure case safe project volcano stay scorpion degree wealth pole";

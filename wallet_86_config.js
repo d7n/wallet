@@ -1,1 +1,1 @@
-var mnemonic = "depend adjust captain attend suit wire erase suspect orient rack oil valve";
+var mnemonic = "mechanic undo episode happy scorpion slice drip toy warrior treat polar struggle";

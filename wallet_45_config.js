@@ -1,1 +1,1 @@
-var mnemonic = "opera render total fee vapor jar audit report drift fame royal pencil";
+var mnemonic = "bracket unhappy gorilla own stove bullet test decline shed biology tornado tell";

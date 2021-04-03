@@ -1,1 +1,1 @@
-var mnemonic = "tree way toe double betray plate very acid throw casual suspect welcome";
+var mnemonic = "helmet combine dress beauty assume coconut toilet industry clay cloud boost regular";

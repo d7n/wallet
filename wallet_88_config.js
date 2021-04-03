@@ -1,1 +1,1 @@
-var mnemonic = "oak total garden glove talent gap harvest mail gap veteran pupil moral";
+var mnemonic = "side ancient junior supreme inspire toward autumn glare theme cigar language apology";

@@ -1,1 +1,1 @@
-var mnemonic = "genre impulse raccoon edge electric beauty minute torch notable wealth mom age";
+var mnemonic = "toward crush duck amused predict begin credit furnace pass dignity future involve";

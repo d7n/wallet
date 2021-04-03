@@ -1,1 +1,1 @@
-var mnemonic = "truck december exit rely lonely congress entire time iron have claim satisfy";
+var mnemonic = "protect narrow debate absent lazy hire orient close surge enact try outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "cream below century trust response crush figure only element exact soup hotel";
+var mnemonic = "actual hair bike small solar popular plug album man blossom shop question";

@@ -1,1 +1,1 @@
-var mnemonic = "quit duty avoid bird risk acquire nest solution emerge orchard change tumble";
+var mnemonic = "powder ozone slam emotion crumble magic shrug shaft domain scatter dice try";

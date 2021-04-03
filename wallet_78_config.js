@@ -1,1 +1,1 @@
-var mnemonic = "window leave alpha car draft elbow avocado cloth energy more maid obscure";
+var mnemonic = "you brand turn furnace puppy master green detect peanut endorse eye grab";

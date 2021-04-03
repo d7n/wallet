@@ -1,1 +1,1 @@
-var mnemonic = "cupboard lady eye obtain hockey punch bless liar govern night angle rely";
+var mnemonic = "cover arena van wheat someone climb cabbage table century indoor hybrid material";

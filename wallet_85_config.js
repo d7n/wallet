@@ -1,1 +1,1 @@
-var mnemonic = "remove body crew fit cat innocent pitch boring tourist great network gasp";
+var mnemonic = "stereo enable soccer story old bike movie castle road broken ghost zebra";

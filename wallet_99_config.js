@@ -1,1 +1,1 @@
-var mnemonic = "cluster guide conduct correct salmon artist nephew junk cousin space great pony";
+var mnemonic = "outdoor afford sand kingdom rail dice loyal novel female caution bench crisp";

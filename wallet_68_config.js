@@ -1,1 +1,1 @@
-var mnemonic = "salad brother six comfort review frame cloud exit suspect sun head desert";
+var mnemonic = "client atom awake render cup frame document damage clerk zoo virtual insane";

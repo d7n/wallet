@@ -1,1 +1,1 @@
-var mnemonic = "edge twice hint initial keen ensure powder fantasy hood kit what cost";
+var mnemonic = "silk assault tape lamp blood finish citizen night buddy brass style hawk";

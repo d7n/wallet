@@ -1,1 +1,1 @@
-var mnemonic = "thought nominee middle scheme beef suggest loud place team jazz use basic";
+var mnemonic = "derive inch wheel tool square govern assume civil more age raccoon sense";

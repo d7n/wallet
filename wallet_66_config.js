@@ -1,1 +1,1 @@
-var mnemonic = "into rich unique foot leader danger speed blast swim face romance mule";
+var mnemonic = "happy winner chicken poem advance version rally crawl reflect defy trash army";

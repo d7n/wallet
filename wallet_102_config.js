@@ -1,1 +1,1 @@
-var mnemonic = "stuff animal hand match innocent unaware enjoy stock party anger monitor horn";
+var mnemonic = "turn relax exercise maximum turkey dice brain artwork virus praise amazing library";

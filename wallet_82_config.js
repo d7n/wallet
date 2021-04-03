@@ -1,1 +1,1 @@
-var mnemonic = "nerve satisfy mom involve affair maximum below wonder great wire offer novel";
+var mnemonic = "bike wrap horn crazy swap diary kangaroo elephant oyster waste wash sing";

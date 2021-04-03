@@ -1,1 +1,1 @@
-var mnemonic = "miracle fever ten then board order nice benefit deer add bunker radio";
+var mnemonic = "problem luggage tower spider attend deny giant gloom wrong target during devote";

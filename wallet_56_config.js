@@ -1,1 +1,1 @@
-var mnemonic = "hurry hello country unfold assume engage monster love saddle mystery will arrow";
+var mnemonic = "faith reform purity express ability scan upset road kidney country gold forward";

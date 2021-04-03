@@ -1,1 +1,1 @@
-var mnemonic = "relax treat when across skirt emotion chronic wisdom potato connect music define";
+var mnemonic = "prepare foil leader worry weather invite advice remove whip dolphin motor tattoo";

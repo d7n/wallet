@@ -1,1 +1,1 @@
-var mnemonic = "index risk parade afraid pretty cube turkey decorate elegant flash lesson chair";
+var mnemonic = "expose child skirt rare deputy float eight ranch apology neglect present brick";

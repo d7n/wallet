@@ -1,1 +1,1 @@
-var mnemonic = "oyster card scrap dry area advice cannon flight chimney ocean carry level";
+var mnemonic = "amused boat poverty beyond palace various inhale travel soul certain lonely giggle";

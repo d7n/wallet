@@ -1,1 +1,1 @@
-var mnemonic = "include pole swear minute box broken cluster basket inner ten error clown";
+var mnemonic = "push left kingdom category choose young demise pitch sense six yellow present";

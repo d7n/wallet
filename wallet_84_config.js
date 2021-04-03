@@ -1,1 +1,1 @@
-var mnemonic = "intact scare release scene flower van where hard genius smoke nest diary";
+var mnemonic = "enforce child clip replace boil biology rifle gaze baby crew resist ugly";

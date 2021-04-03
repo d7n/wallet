@@ -1,1 +1,1 @@
-var mnemonic = "update over talent load include champion capital undo receive execute visual attend";
+var mnemonic = "comfort blouse legal affair quantum copy edit chapter custom shallow brief exotic";

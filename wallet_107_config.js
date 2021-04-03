@@ -1,1 +1,1 @@
-var mnemonic = "romance sort coconut sun feel cloth ahead theory fantasy north avocado into";
+var mnemonic = "few busy smoke harsh fabric estate outside rib column kind company hunt";

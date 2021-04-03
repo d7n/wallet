@@ -1,1 +1,1 @@
-var mnemonic = "aerobic shrug satoshi evil cheese casino couch guess tomorrow case tiny family";
+var mnemonic = "toilet kit sheriff receive merry cake elbow march security delay knife sock";

@@ -1,1 +1,1 @@
-var mnemonic = "fire vivid soda ice print hood fury pass much seminar cat impact";
+var mnemonic = "gap leisure medal desert faint danger sphere mad real fiber student toy";

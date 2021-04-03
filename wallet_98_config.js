@@ -1,1 +1,1 @@
-var mnemonic = "easy exclude move raven volcano book deputy length quiz purse garment pass";
+var mnemonic = "differ witness feed cherry remember grain spray post wagon glad deal salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "van purity unusual author immense farm topic industry depth meadow midnight pyramid";
+var mnemonic = "remember quality can into foam design bench payment cycle worry beyond expand";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle swear entire edge write during income soul rescue wolf prefer spider";
+var mnemonic = "cousin wave muscle power blame hen tourist remain history grocery dawn leopard";

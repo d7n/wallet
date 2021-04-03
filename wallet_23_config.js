@@ -1,1 +1,1 @@
-var mnemonic = "march reward gown inquiry clean slogan occur empower shiver casino dad return";
+var mnemonic = "short quote observe ranch castle gentle traffic bicycle name busy mass member";

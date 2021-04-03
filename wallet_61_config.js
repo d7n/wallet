@@ -1,1 +1,1 @@
-var mnemonic = "girl clock buddy genuine wine flight trip drive blood ozone rubber enrich";
+var mnemonic = "seek erosion planet tower easily figure day gospel art wide give high";

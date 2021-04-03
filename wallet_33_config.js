@@ -1,1 +1,1 @@
-var mnemonic = "random rely slush access stone begin anchor bundle tree peace people vacuum";
+var mnemonic = "purity service sport leader stem true upset roast gorilla east spare coral";

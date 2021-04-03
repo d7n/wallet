@@ -1,1 +1,1 @@
-var mnemonic = "announce danger stairs horror sustain dry scene tone shoe sick coil snake";
+var mnemonic = "surprise cabbage vessel shine ensure delay good engine dash mistake leader grief";

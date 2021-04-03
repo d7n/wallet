@@ -1,1 +1,1 @@
-var mnemonic = "sweet sudden possible game gallery enrich fabric quality wisdom primary clap fix";
+var mnemonic = "enlist travel joke time invite tired yellow review bracket garage twin sheriff";

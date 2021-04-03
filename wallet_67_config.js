@@ -1,1 +1,1 @@
-var mnemonic = "glass august honey input reward seed hint hurdle model orchard cook enemy";
+var mnemonic = "photo begin tuna duty focus relax episode mind hub ring child shaft";

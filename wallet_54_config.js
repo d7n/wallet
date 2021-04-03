@@ -1,1 +1,1 @@
-var mnemonic = "want joy wrong doll crowd reform resemble brief various anger slot smoke";
+var mnemonic = "when secret tennis claim empower wife unit cost pattern saddle sausage inch";

@@ -1,1 +1,1 @@
-var mnemonic = "roast nothing you couple learn night vote indicate abstract submit calm business";
+var mnemonic = "auction surface split pulse video exchange grain torch defense episode frost truck";

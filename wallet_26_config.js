@@ -1,1 +1,1 @@
-var mnemonic = "series unaware educate mobile duty annual desert system bring mean giant supreme";
+var mnemonic = "clean convince party tornado advance spot water travel burden select present chaos";

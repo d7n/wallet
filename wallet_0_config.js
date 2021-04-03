@@ -1,1 +1,1 @@
-var mnemonic = "arch science build rail civil sister gas fat act inhale canvas gorilla";
+var mnemonic = "bargain bachelor girl return culture icon test general reunion approve filter effort";

@@ -1,1 +1,1 @@
-var mnemonic = "student come shoot oyster session make live claim oppose test army boat";
+var mnemonic = "unveil suspect deny goat win air curve toward zoo charge behave solve";

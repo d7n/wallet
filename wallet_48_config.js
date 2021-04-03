@@ -1,1 +1,1 @@
-var mnemonic = "quiz isolate fork figure fantasy strategy symptom state metal toe program desk";
+var mnemonic = "hand dismiss blood lake kite awake path boil erupt keep office aerobic";

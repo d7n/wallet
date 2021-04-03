@@ -1,1 +1,1 @@
-var mnemonic = "city lava service female debris source kiss congress enter sword mistake tower";
+var mnemonic = "chat sock tornado glide want rabbit castle try ozone city garment fat";

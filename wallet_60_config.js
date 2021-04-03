@@ -1,1 +1,1 @@
-var mnemonic = "adult sort eternal slender access enhance about artefact soul business coil arrange";
+var mnemonic = "media isolate door write clog august electric copper cool drift portion current";

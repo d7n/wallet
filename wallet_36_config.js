@@ -1,1 +1,1 @@
-var mnemonic = "idle sport horror buffalo program sick river token snake abstract venue poverty";
+var mnemonic = "wrap left option floor endorse echo bounce sketch write execute ghost whale";

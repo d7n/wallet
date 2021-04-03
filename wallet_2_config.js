@@ -1,1 +1,1 @@
-var mnemonic = "hole pupil victory funny source talk plug pistol fiction zone focus october";
+var mnemonic = "swamp position visa member squirrel drink whale pioneer basket census tenant bird";

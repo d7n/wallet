@@ -1,1 +1,1 @@
-var mnemonic = "satisfy person verify catch story say matter salon damage absorb milk patch";
+var mnemonic = "magic novel danger clock stadium effort rice act sunny trash skin local";

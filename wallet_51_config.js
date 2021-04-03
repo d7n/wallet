@@ -1,1 +1,1 @@
-var mnemonic = "ten cup lunar raven pigeon hungry daughter hurdle snap obtain stay margin";
+var mnemonic = "require valid bubble door rib sense saddle detect grace fitness six rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny shaft model crop worth modify abandon dragon feed emotion guitar olympic";
+var mnemonic = "thing stuff similar rose spin airport mule harbor oval dinosaur neck cannon";

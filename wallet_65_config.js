@@ -1,1 +1,1 @@
-var mnemonic = "swear remind wine baby guitar cushion predict panther column hurdle lonely program";
+var mnemonic = "snap wrestle catalog neglect insect try name obey own finger video release";

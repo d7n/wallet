@@ -1,1 +1,1 @@
-var mnemonic = "brief that box flip jungle timber early verify broom extra dash odor";
+var mnemonic = "puzzle aerobic warm arrow cost blood middle skate weasel party prison force";

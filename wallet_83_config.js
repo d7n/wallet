@@ -1,1 +1,1 @@
-var mnemonic = "cement thunder gossip frequent shell length potato whip correct whip same census";
+var mnemonic = "combine mouse inflict acoustic snake stone curtain shallow south piano ranch snow";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter alpha famous viable cotton post evidence anger truth august they aerobic";
+var mnemonic = "regular cake cable crowd sun eight weekend upset voice knife program popular";

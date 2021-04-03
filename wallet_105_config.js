@@ -1,1 +1,1 @@
-var mnemonic = "sun surge debate exist deposit method hood volcano master monster obvious drill";
+var mnemonic = "health raise cloth banana jazz devote pact patrol sweet census barely eye";

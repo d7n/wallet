@@ -1,1 +1,1 @@
-var mnemonic = "busy view dash flavor gospel mask cushion congress blossom miracle warfare monitor";
+var mnemonic = "ribbon volume cloud thought notable drift copy hotel gallery april convince morning";

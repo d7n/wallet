@@ -1,1 +1,1 @@
-var mnemonic = "wall require afraid pipe receive crumble tree language skin insane immense situate";
+var mnemonic = "bitter picture young limit physical gown insane emerge potato license retreat yard";

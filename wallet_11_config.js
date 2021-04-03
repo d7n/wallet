@@ -1,1 +1,1 @@
-var mnemonic = "salmon method old wage spawn negative sun giant cotton rule dance unique";
+var mnemonic = "argue kitten drive olive couple warm frog rebel stomach trophy lawsuit coconut";

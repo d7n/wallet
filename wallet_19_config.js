@@ -1,1 +1,1 @@
-var mnemonic = "empty deputy faint surface must aspect genius wasp rhythm manage secret very";
+var mnemonic = "focus cook merry jewel lawsuit ostrich neutral arm tired drift ahead paper";
