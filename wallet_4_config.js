@@ -1,1 +1,1 @@
-var mnemonic = "element path food swift addict enjoy twenty aerobic join ordinary pink monkey";
+var mnemonic = "lemon success ghost mansion bus rely recall term index album van observe";

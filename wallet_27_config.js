@@ -1,1 +1,1 @@
-var mnemonic = "leg actress web aspect problem tackle tray atom identify cover release squeeze";
+var mnemonic = "pumpkin defy cherry unfair often ten bitter truly first wagon old smart";

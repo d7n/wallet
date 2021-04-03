@@ -1,1 +1,1 @@
-var mnemonic = "smoke party east clap viable dose female street arrow damp lion science";
+var mnemonic = "random maple hamster sponsor grant oak tree guilt chronic region ignore execute";

@@ -1,1 +1,1 @@
-var mnemonic = "juice visit safe pride trend over bridge cereal swarm hard shed waste";
+var mnemonic = "finish suit art license forest excess together essay oil olive notable illness";

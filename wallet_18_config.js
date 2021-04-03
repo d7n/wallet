@@ -1,1 +1,1 @@
-var mnemonic = "now box faint used upgrade whale cabbage balance surprise next cousin erosion";
+var mnemonic = "sniff soccer creek cargo casino gold law recipe pistol bounce menu puzzle";

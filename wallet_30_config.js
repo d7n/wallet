@@ -1,1 +1,1 @@
-var mnemonic = "current stairs dizzy turn appear music crack comfort piano version april swift";
+var mnemonic = "agree leisure town mammal tennis kiwi since brother useless abuse bind ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal moon remove cushion spoil unknown banana sun void fee mansion daring";
+var mnemonic = "riot issue double discover response liberty borrow drive race hero ancient move";

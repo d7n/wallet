@@ -1,1 +1,1 @@
-var mnemonic = "rescue reason amazing grant renew web deposit stem polar gold despair chimney";
+var mnemonic = "cable desert walk ribbon dash carpet exile dress erase vicious also tornado";

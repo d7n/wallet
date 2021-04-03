@@ -1,1 +1,1 @@
-var mnemonic = "multiply rare tonight beach spin abandon dish pink trade mule word wedding";
+var mnemonic = "mandate exist faith tortoise diamond already firm sunset teach basic viable bounce";

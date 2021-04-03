@@ -1,1 +1,1 @@
-var mnemonic = "crisp pigeon danger crunch vicious raccoon mix broken zebra exclude shaft pig";
+var mnemonic = "clinic patch seat black hood hen exist world cluster glass bleak buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle praise fox polar merry crop require boring mammal ritual panther furnace";
+var mnemonic = "regret club image hand pyramid false afraid host click can trial cool";

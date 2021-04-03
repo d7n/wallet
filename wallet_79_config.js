@@ -1,1 +1,1 @@
-var mnemonic = "island enroll call warm ten cheap ankle lion angry resemble tooth mosquito";
+var mnemonic = "erode fold bone spice phrase below surface radar photo foot remind type";

@@ -1,1 +1,1 @@
-var mnemonic = "number have stumble share sample lawn live aisle invite argue innocent follow";
+var mnemonic = "empty hard color staff hedgehog amused desk banner typical portion maze man";

@@ -1,1 +1,1 @@
-var mnemonic = "vote romance hollow goose creek junk staff emerge obvious abstract artist repeat";
+var mnemonic = "sort pudding this during win glue easy scare inherit risk clarify tongue";

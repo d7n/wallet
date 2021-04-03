@@ -1,1 +1,1 @@
-var mnemonic = "slam child material fluid throw address glimpse crop suspect narrow depart mom";
+var mnemonic = "bar tumble unable chalk chuckle resemble chapter normal cannon text unfair story";

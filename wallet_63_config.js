@@ -1,1 +1,1 @@
-var mnemonic = "dignity web client practice account clean cinnamon easy success book local room";
+var mnemonic = "mask police shine toe turtle lady expect fuel village reduce ignore web";

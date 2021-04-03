@@ -1,1 +1,1 @@
-var mnemonic = "phrase box accuse chase wire wedding ski seat mule salt myth forest";
+var mnemonic = "act try resist ramp hospital banana wife priority length trouble earn dinner";

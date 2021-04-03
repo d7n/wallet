@@ -1,1 +1,1 @@
-var mnemonic = "gym memory hour dismiss mammal sheriff oil pet crack prepare team nuclear";
+var mnemonic = "rebel stay palm moon hobby peasant escape huge drastic mango wage wealth";

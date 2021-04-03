@@ -1,1 +1,1 @@
-var mnemonic = "rare festival abuse share select achieve thought list female correct element inside";
+var mnemonic = "retire expire side way elegant trust face spice atom carpet surge question";

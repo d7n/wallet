@@ -1,1 +1,1 @@
-var mnemonic = "kitchen chapter shove fold gesture over globe rent barrel corn time mind";
+var mnemonic = "special cigar bounce wall square finger owner coral reduce toward cloud just";

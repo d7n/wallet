@@ -1,1 +1,1 @@
-var mnemonic = "attract spoil memory tumble elephant truck rose element pistol govern require fiction";
+var mnemonic = "first long bag good combine debate fall pulp elite exit already sad";

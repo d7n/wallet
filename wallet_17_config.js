@@ -1,1 +1,1 @@
-var mnemonic = "keen toss common phrase flock corn gravity trash bacon copper place early";
+var mnemonic = "october price summer country space load embark head clown future faint drop";

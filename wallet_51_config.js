@@ -1,1 +1,1 @@
-var mnemonic = "talent own loud march addict exist fatigue person evolve atom scorpion become";
+var mnemonic = "solve abstract ivory pave kangaroo blouse mask rice modify prize grace rhythm";

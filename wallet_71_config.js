@@ -1,1 +1,1 @@
-var mnemonic = "gift hamster arctic away tourist useful swift reward card rain palm isolate";
+var mnemonic = "erase comic ripple pluck quick hundred endless hamster false rabbit delay trigger";

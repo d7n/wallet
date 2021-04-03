@@ -1,1 +1,1 @@
-var mnemonic = "miracle run minute egg robot lazy dirt casual saddle list artist expand";
+var mnemonic = "elevator legend velvet bitter raven cement review wave test diet summer dinner";

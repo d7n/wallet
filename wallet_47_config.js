@@ -1,1 +1,1 @@
-var mnemonic = "garlic able tank patrol siege vivid typical erupt case target skin voyage";
+var mnemonic = "vanish lawn quick love eye swap weasel hurt crucial mixed ramp report";

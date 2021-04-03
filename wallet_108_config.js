@@ -1,1 +1,1 @@
-var mnemonic = "alone anchor address cream brother birth indicate enroll lonely shock visit inflict";
+var mnemonic = "talk ivory bubble act lounge slush coral awake ticket purse erase opinion";

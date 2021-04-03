@@ -1,1 +1,1 @@
-var mnemonic = "penalty radar depth winter begin obtain blur hawk peanut blush volcano chef";
+var mnemonic = "helmet type cricket march talent volcano truly play voice snow crop follow";

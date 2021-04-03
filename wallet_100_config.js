@@ -1,1 +1,1 @@
-var mnemonic = "work describe differ frog either invest crunch lab dish physical script habit";
+var mnemonic = "vicious dawn dinner display kangaroo odor pair million pear degree permit because";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi struggle slight scale fire mule fade scout connect rhythm observe border";
+var mnemonic = "dignity card movie october shield nerve focus predict rhythm ladder velvet about";

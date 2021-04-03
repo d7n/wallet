@@ -1,1 +1,1 @@
-var mnemonic = "ask energy dragon awake salon attitude caught captain wink ride special insect";
+var mnemonic = "cake glow river reason staff peasant dawn ranch boy negative sudden position";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige pass flip friend fog crack buffalo retreat position volcano asset face";
+var mnemonic = "monitor found imitate glove type hard robust zebra slam someone betray skate";

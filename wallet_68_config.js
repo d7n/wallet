@@ -1,1 +1,1 @@
-var mnemonic = "initial prize fuel solar camera possible either extend orange grit horn evoke";
+var mnemonic = "festival talent impact flavor peace danger predict leader measure alien minor miss";

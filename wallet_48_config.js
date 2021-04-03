@@ -1,1 +1,1 @@
-var mnemonic = "shield small spot tattoo type wrist heavy noble solution push disorder toe";
+var mnemonic = "original amount jar globe caught valid thunder ribbon throw abuse galaxy stand";

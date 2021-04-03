@@ -1,1 +1,1 @@
-var mnemonic = "pool arm wisdom library awesome funny casual train cattle spread avoid lazy";
+var mnemonic = "garlic radio palm eternal gospel celery squeeze patch evoke day globe reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter foot mystery share subway force shop gravity vanish pupil stand radar";
+var mnemonic = "husband fine window gesture initial hover six forward yellow battle habit oblige";

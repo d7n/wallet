@@ -1,1 +1,1 @@
-var mnemonic = "water cram wide enforce chimney recipe gas sock else dignity govern face";
+var mnemonic = "demise obey cat lawsuit guard piece hair property ocean left peanut furnace";

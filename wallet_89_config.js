@@ -1,1 +1,1 @@
-var mnemonic = "garden grain case cake critic boat until salute quiz chair prosper cloud";
+var mnemonic = "grid topple romance timber hobby bronze symptom fever tongue drip color labor";

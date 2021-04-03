@@ -1,1 +1,1 @@
-var mnemonic = "sad brush prevent hockey shop approve debate arrange mercy rival sentence tool";
+var mnemonic = "chuckle chair actress doctor supreme parent intact foam quiz capital metal vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar crane vague hint clerk dumb absent flight wheel grunt utility hurdle";
+var mnemonic = "weather float abstract exhibit cream math viable knock style oyster fragile soon";

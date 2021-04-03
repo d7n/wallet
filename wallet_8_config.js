@@ -1,1 +1,1 @@
-var mnemonic = "evolve hybrid stage absent brave keep mention parent vast used tuition tuna";
+var mnemonic = "evoke usual crucial budget fly enroll mind staff custom polar announce affair";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen heart torch quarter circle visual item print net casual teach neck";
+var mnemonic = "clap drill imitate figure angry save gown shove pull fury never mutual";

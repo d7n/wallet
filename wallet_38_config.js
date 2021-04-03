@@ -1,1 +1,1 @@
-var mnemonic = "diamond doll vessel vicious pet design hat canoe abstract course scan obscure";
+var mnemonic = "science august palm legend together finish dumb debate festival blur link patch";

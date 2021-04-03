@@ -1,1 +1,1 @@
-var mnemonic = "twelve bicycle rural throw twin furnace stamp erase frozen churn price proof";
+var mnemonic = "sock purchase heavy way depth merit mean cross pole budget cart slide";

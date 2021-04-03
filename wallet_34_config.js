@@ -1,1 +1,1 @@
-var mnemonic = "trade arch domain wrap hurt program resemble provide organ wrist buzz wire";
+var mnemonic = "math build issue urban stuff notable extend swallow aspect fossil vacant surge";

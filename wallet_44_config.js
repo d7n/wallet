@@ -1,1 +1,1 @@
-var mnemonic = "exit height hire innocent outdoor parrot vanish rival express shoot bitter thank";
+var mnemonic = "assault below bargain thunder trial essay analyst control chimney wild lion exercise";

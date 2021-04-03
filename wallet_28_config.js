@@ -1,1 +1,1 @@
-var mnemonic = "possible miracle first farm ten sound bike boil drama ramp fatal gasp";
+var mnemonic = "galaxy symbol ridge problem island advice position turn monster define flame blood";

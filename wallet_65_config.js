@@ -1,1 +1,1 @@
-var mnemonic = "trip name increase practice focus forest group fire humor deliver vault armed";
+var mnemonic = "grief century fit movie dignity swing job congress cube wreck borrow mandate";

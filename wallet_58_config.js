@@ -1,1 +1,1 @@
-var mnemonic = "jeans unveil choose jazz kangaroo genre net used dentist baby sample throw";
+var mnemonic = "east typical dad muscle reform upset skin whisper pattern canal tube slush";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm about purity genuine cruise medal front century dentist absent vivid tip";
+var mnemonic = "harbor dove scan image drum cover spawn cost this bonus regret creek";

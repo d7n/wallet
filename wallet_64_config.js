@@ -1,1 +1,1 @@
-var mnemonic = "laugh penalty unique decide celery decide evoke nurse winter shove about fly";
+var mnemonic = "virus cry body web relax prison coconut step oppose area accuse current";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet parade goose hurry trip awesome flash vibrant soft apology intact salad";
+var mnemonic = "artwork summer notable raccoon acquire depend true young stock point nest vacant";

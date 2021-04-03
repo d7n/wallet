@@ -1,1 +1,1 @@
-var mnemonic = "duck choose toss club common rule manage actor yard all chuckle pelican";
+var mnemonic = "crucial elbow dial depend legal boost capital arctic infant shuffle pizza notable";

@@ -1,1 +1,1 @@
-var mnemonic = "very timber system decline myself mechanic team fringe diamond talent federal harsh";
+var mnemonic = "scrub time female canoe inject suffer school beauty ugly demise cupboard flip";

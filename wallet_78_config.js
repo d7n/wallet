@@ -1,1 +1,1 @@
-var mnemonic = "alter fence apart cage whale bring motor kit parent cereal bleak spray";
+var mnemonic = "choose job review deposit round brick run slight sheriff machine pride cat";

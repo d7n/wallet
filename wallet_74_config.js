@@ -1,1 +1,1 @@
-var mnemonic = "ivory large such slush exile vendor this achieve scare vague dizzy plunge";
+var mnemonic = "company drastic now tip blue rely minor carbon bus breeze border ritual";

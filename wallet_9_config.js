@@ -1,1 +1,1 @@
-var mnemonic = "gesture dragon find aware swear hour alley silk stone great reason pipe";
+var mnemonic = "surge know hawk curtain door broken skill wild radio ugly throw sea";

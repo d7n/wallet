@@ -1,1 +1,1 @@
-var mnemonic = "stove point plug master else sugar potato obey icon alien human game";
+var mnemonic = "clinic vicious since volume artwork valve clay upper silver tenant need tennis";

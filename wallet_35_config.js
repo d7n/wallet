@@ -1,1 +1,1 @@
-var mnemonic = "fruit absent keep joy now shiver stairs mandate animal jewel swift point";
+var mnemonic = "wet resist rail cause quantum nest garlic smile antenna engage document few";

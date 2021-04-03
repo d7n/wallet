@@ -1,1 +1,1 @@
-var mnemonic = "stove exhaust toddler betray critic street wife sight turkey toy potato escape";
+var mnemonic = "jewel wonder wonder humor arrive quit choose adapt tornado can word swear";

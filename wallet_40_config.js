@@ -1,1 +1,1 @@
-var mnemonic = "gather draw enough renew verb exit joke decline final remember mother marriage";
+var mnemonic = "hundred steak dance shop dutch repeat comfort all return erupt private large";

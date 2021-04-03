@@ -1,1 +1,1 @@
-var mnemonic = "wage critic hero embrace ticket mirror tooth useless impose debris open certain";
+var mnemonic = "luxury shuffle party unfair mother elevator churn lucky boost electric diesel explain";

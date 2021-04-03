@@ -1,1 +1,1 @@
-var mnemonic = "imitate label artist jacket cover gun honey marriage crowd chat deer green";
+var mnemonic = "yellow loan business language twin disease man item crater code super outer";

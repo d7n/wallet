@@ -1,1 +1,1 @@
-var mnemonic = "slab cave diamond fold forest trophy ankle teach naive seminar thought invest";
+var mnemonic = "attend level athlete consider grocery pulse flip stumble menu baby hurdle spread";

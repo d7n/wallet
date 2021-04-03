@@ -1,1 +1,1 @@
-var mnemonic = "clown miracle picnic auto regular kick attend rather master juice skin settle";
+var mnemonic = "rack million movie trap shiver inject robot benefit awesome man large egg";

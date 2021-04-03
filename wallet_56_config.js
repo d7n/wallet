@@ -1,1 +1,1 @@
-var mnemonic = "defy stable citizen track wire remove sugar film drink find rate glance";
+var mnemonic = "excess property more vacuum jungle fossil broccoli exact stick wire axis mushroom";

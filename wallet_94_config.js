@@ -1,1 +1,1 @@
-var mnemonic = "proud peasant grief borrow lens action tunnel duck tail machine sniff luxury";
+var mnemonic = "garbage spend hold call rule garage daughter reveal diamond axis govern dinosaur";

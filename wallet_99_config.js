@@ -1,1 +1,1 @@
-var mnemonic = "awkward nominee gossip slush turtle explain between habit ripple believe change luxury";
+var mnemonic = "pencil choice eye game jeans visit clarify resource merry travel divert sentence";

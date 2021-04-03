@@ -1,1 +1,1 @@
-var mnemonic = "pig habit nest collect biology dry need board claim model praise survey";
+var mnemonic = "orchard gesture squirrel settle mountain lemon knock verify marine video decline dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "drill rebuild relief april invite convince puzzle escape bridge family embrace staff";
+var mnemonic = "symbol view invite poet fall rifle real arrest wife spell forum today";

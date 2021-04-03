@@ -1,1 +1,1 @@
-var mnemonic = "diagram course bone sentence play fabric kitchen spoil tail response doctor slim";
+var mnemonic = "miracle source later like clown middle gorilla learn castle oven version glue";

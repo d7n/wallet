@@ -1,1 +1,1 @@
-var mnemonic = "desk dilemma catch honey glue mutual badge denial join federal hybrid job";
+var mnemonic = "million wild hub rebuild gospel issue sun celery cloud twelve hurdle race";

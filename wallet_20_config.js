@@ -1,1 +1,1 @@
-var mnemonic = "laundry dawn novel surface monkey steak emerge miracle shallow coconut comfort coach";
+var mnemonic = "tomato tomorrow cash turkey turtle huge invest reward soap moral curtain dad";

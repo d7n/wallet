@@ -1,1 +1,1 @@
-var mnemonic = "spawn thought spy dumb paper sense next shiver case enact auto choice";
+var mnemonic = "fee swamp dad shed peace credit brave hope ship off unit unveil";

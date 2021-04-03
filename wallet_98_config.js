@@ -1,1 +1,1 @@
-var mnemonic = "era blue arrow shop cargo jealous boy mistake artwork victory myth scene";
+var mnemonic = "spoil trophy amused match fat laundry rubber whisper hungry physical survey infant";

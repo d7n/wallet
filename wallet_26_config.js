@@ -1,1 +1,1 @@
-var mnemonic = "sport express message disagree debate dust famous silent diagram rose negative ignore";
+var mnemonic = "dragon trap issue cause cement roof scatter easily fish wool dust hello";

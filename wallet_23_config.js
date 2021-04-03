@@ -1,1 +1,1 @@
-var mnemonic = "donor stumble winner flavor help head crystal foil pulse human tired claim";
+var mnemonic = "mask live brass record debate frog stool fiction bachelor erupt insane shift";

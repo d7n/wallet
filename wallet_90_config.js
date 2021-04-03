@@ -1,1 +1,1 @@
-var mnemonic = "artefact ankle aim bag leaf until humor retire canyon during inquiry shed";
+var mnemonic = "word auto legend desk mean melt output copy crop buffalo route scout";

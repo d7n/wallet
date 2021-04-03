@@ -1,1 +1,1 @@
-var mnemonic = "cluster tone fish possible situate universe way curve large foster adjust clown";
+var mnemonic = "swift slide cable large trash zebra talk endorse odor museum thing embark";

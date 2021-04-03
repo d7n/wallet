@@ -1,1 +1,1 @@
-var mnemonic = "domain little swing grace arrange lumber dish problem link clutch used still";
+var mnemonic = "pudding make toddler wealth awesome gas city powder kite mandate aunt need";

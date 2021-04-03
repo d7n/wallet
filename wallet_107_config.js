@@ -1,1 +1,1 @@
-var mnemonic = "glory lonely normal valve early blouse decrease escape movie ribbon farm term";
+var mnemonic = "urge absorb degree admit note rubber pulse cry milk couple wall crowd";

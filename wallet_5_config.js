@@ -1,1 +1,1 @@
-var mnemonic = "main supply virtual chest bubble decrease manage soup clarify spread baby output";
+var mnemonic = "accuse finger usage category video castle habit arrest skirt devote flavor thumb";

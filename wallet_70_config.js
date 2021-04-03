@@ -1,1 +1,1 @@
-var mnemonic = "history spirit brisk effort engage ball undo tray heart loan repeat spin";
+var mnemonic = "travel slender pencil robot attract meadow anchor asthma filter orient vendor hobby";
