@@ -1,1 +1,1 @@
-var mnemonic = "rose scrub anger gap phone certain matter limb science list aerobic below";
+var mnemonic = "sign achieve middle eagle mercy cloth elephant flavor mean front mechanic jealous";

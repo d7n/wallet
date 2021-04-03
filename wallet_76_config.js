@@ -1,1 +1,1 @@
-var mnemonic = "omit rather vivid section venture same cat faculty next submit tenant upset";
+var mnemonic = "top risk initial trade morning ticket mutual assist blood shiver sell december";

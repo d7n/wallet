@@ -1,1 +1,1 @@
-var mnemonic = "yellow demand improve dawn matrix sentence learn absorb source acoustic live december";
+var mnemonic = "grid resource ostrich guide science step alert aware false swing toast torch";

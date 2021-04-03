@@ -1,1 +1,1 @@
-var mnemonic = "hire lawn fragile multiply dust brand carbon repair nature true bomb quarter";
+var mnemonic = "present balcony omit quarter opinion unusual cradle witness dust defy owner short";

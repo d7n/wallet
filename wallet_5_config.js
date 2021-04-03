@@ -1,1 +1,1 @@
-var mnemonic = "brother veteran welcome glance later frozen nasty ghost valley lyrics depend senior";
+var mnemonic = "enlist art guess relax sustain utility over imitate fork fruit case pause";

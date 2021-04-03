@@ -1,1 +1,1 @@
-var mnemonic = "aerobic pretty rifle verb pulp clap margin stage evidence beach myself banner";
+var mnemonic = "city lizard beauty job soul olive coconut cable boss bind cradle will";

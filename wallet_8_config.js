@@ -1,1 +1,1 @@
-var mnemonic = "blast sight wood bitter uncover hip capable express asthma brave soon sponsor";
+var mnemonic = "trim next swift enter stem mandate insect aware depth lounge element inch";

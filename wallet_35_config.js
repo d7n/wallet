@@ -1,1 +1,1 @@
-var mnemonic = "armor puppy toward fatigue unknown fabric utility bulk notice rack foot coffee";
+var mnemonic = "alarm mask section apple curve inject decide raven large giggle blush execute";

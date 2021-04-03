@@ -1,1 +1,1 @@
-var mnemonic = "taxi cook space page conduct merry lonely mountain property educate book expect";
+var mnemonic = "crack river slab manage enhance delay person age uniform bind material love";

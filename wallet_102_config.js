@@ -1,1 +1,1 @@
-var mnemonic = "moon expose slam equip flag olympic stock fruit worry own find ostrich";
+var mnemonic = "armor tragic today lift mesh pipe spread raw gather poem gadget imitate";

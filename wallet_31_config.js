@@ -1,1 +1,1 @@
-var mnemonic = "peasant share mean office volume rate actual coyote absurd embark school wonder";
+var mnemonic = "horror bless baby weather boy address seminar excite heart code image vivid";

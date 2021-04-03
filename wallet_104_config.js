@@ -1,1 +1,1 @@
-var mnemonic = "filter then trouble cabbage accident wrong suggest meat over voice bamboo approve";
+var mnemonic = "govern fame powder grass fame post endless clip ability they puppy tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "dust coin artist place follow property era rocket trick typical draft upper";
+var mnemonic = "aerobic acquire address enable six fever crawl cliff curtain kit horse year";

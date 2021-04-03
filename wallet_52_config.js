@@ -1,1 +1,1 @@
-var mnemonic = "coral lawn rich debate dolphin tenant burst gaze mixture eyebrow climb often";
+var mnemonic = "frame solve talk put calm manual issue kiwi stool symbol hold service";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel payment express visa cable journey train glimpse cave junior blush kiss";
+var mnemonic = "rate swap topple pool stock energy slogan display license garlic lens announce";

@@ -1,1 +1,1 @@
-var mnemonic = "hand glass invite syrup phone assault circle pattern truth rich swift sock";
+var mnemonic = "fly evoke squeeze lucky shadow avocado mesh error winner chef bean keep";

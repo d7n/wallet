@@ -1,1 +1,1 @@
-var mnemonic = "cliff text drip exact erase luggage arrive broken juice sick coffee tip";
+var mnemonic = "enrich book timber until iron hawk abuse riot foil post strong cousin";

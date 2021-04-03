@@ -1,1 +1,1 @@
-var mnemonic = "matrix arch speak one curve disorder level must various lab garage erode";
+var mnemonic = "absurd sock december later junk neglect outer human novel curious labor mule";

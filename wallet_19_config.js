@@ -1,1 +1,1 @@
-var mnemonic = "copper unable gate rib awesome come ancient glance quit picnic mixture friend";
+var mnemonic = "canal scheme universe raise toe song runway kid van fold expire order";

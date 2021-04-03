@@ -1,1 +1,1 @@
-var mnemonic = "pulp grain dragon agree super fan claw human tube negative wrestle merry";
+var mnemonic = "afraid assault sense trial donate cube injury gate december cactus immense only";

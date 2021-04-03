@@ -1,1 +1,1 @@
-var mnemonic = "whisper sick token spin fatal fork repair water lucky humor corn receive";
+var mnemonic = "cactus claim place jazz short mother orient carry shrimp prefer toward dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum food capable party blur ring sentence child build bless conduct crater";
+var mnemonic = "empower once engine divide doll enhance early move chest minute sing frequent";

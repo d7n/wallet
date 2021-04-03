@@ -1,1 +1,1 @@
-var mnemonic = "emerge client father transfer horror lamp cloud another casino autumn canal jealous";
+var mnemonic = "beach reason bird limit faculty wife finger divorce gossip world fold reform";

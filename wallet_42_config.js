@@ -1,1 +1,1 @@
-var mnemonic = "stereo asset punch gorilla scout trouble shield engage era silent crumble energy";
+var mnemonic = "kid curve any cement picture economy grape select zero woman predict opinion";

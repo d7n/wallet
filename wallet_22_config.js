@@ -1,1 +1,1 @@
-var mnemonic = "purchase mansion ketchup cup medal vault affair shallow blanket rather aspect dawn";
+var mnemonic = "arrive odor unveil cousin punch retreat corn order chef special domain shift";

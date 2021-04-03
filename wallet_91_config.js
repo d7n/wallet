@@ -1,1 +1,1 @@
-var mnemonic = "inquiry bunker empower slow arrive empower hint smooth alcohol mask chaos excite";
+var mnemonic = "harbor day tiger lobster minimum then wrist taxi liberty hurdle vacuum scrub";

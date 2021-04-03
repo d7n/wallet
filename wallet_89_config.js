@@ -1,1 +1,1 @@
-var mnemonic = "river void elbow enroll crew onion chest vessel glow liberty false sea";
+var mnemonic = "hint ordinary rhythm oyster about action memory public ahead life left tunnel";

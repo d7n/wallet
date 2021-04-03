@@ -1,1 +1,1 @@
-var mnemonic = "shock figure tip law cross congress mass strong lonely bag hurdle west";
+var mnemonic = "exhibit affair write average chimney oval tool nominee song mother guilt middle";

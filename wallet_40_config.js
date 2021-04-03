@@ -1,1 +1,1 @@
-var mnemonic = "clap legend tomorrow artist frozen brisk advance evoke cabin bright check web";
+var mnemonic = "cook comic mandate spawn explain million submit unlock vital mobile dose fossil";

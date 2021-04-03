@@ -1,1 +1,1 @@
-var mnemonic = "steak cave february sample junk chimney only pyramid zero noble ride tackle";
+var mnemonic = "later method reject curious metal lava give party wave stick window spider";

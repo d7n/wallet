@@ -1,1 +1,1 @@
-var mnemonic = "draft canal bind search mango bamboo access wish scan length search female";
+var mnemonic = "that mobile narrow evidence hungry zone forward phone view comfort twenty cricket";

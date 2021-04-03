@@ -1,1 +1,1 @@
-var mnemonic = "use lady table rabbit merge doctor result spare distance report junk sponsor";
+var mnemonic = "accuse tumble man permit humor mountain chicken hope future tumble snap list";

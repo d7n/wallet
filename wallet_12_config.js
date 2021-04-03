@@ -1,1 +1,1 @@
-var mnemonic = "tiny system kitten cable veteran tell holiday monster exchange stuff shadow catalog";
+var mnemonic = "huge arena often process patch goat narrow praise prize view hub lamp";

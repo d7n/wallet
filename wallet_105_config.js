@@ -1,1 +1,1 @@
-var mnemonic = "rhythm usage neither common cloth balance purpose shrug ranch broom main purse";
+var mnemonic = "process express flee treat mass push leave forest shine average jelly lizard";

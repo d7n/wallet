@@ -1,1 +1,1 @@
-var mnemonic = "crowd vital emotion collect once simple pet slam merge car defy pass";
+var mnemonic = "endless flash hover stadium mechanic install renew volcano test soldier clay indicate";

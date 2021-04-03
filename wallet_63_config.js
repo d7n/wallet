@@ -1,1 +1,1 @@
-var mnemonic = "exclude skull combine coast venue solution list face delay cart trip express";
+var mnemonic = "hint key churn captain habit zone soon prevent oak either order pitch";

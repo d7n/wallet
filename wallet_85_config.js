@@ -1,1 +1,1 @@
-var mnemonic = "field rocket grocery example toast happy length senior exchange gold bus sugar";
+var mnemonic = "couch scan spider want scout delay shiver outside job vibrant chapter side";

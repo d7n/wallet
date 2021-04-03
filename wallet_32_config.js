@@ -1,1 +1,1 @@
-var mnemonic = "oven retire trip language weapon ask echo ginger problem size mixed tower";
+var mnemonic = "jacket lobster denial lawn someone stairs they security uncover beauty viable mind";

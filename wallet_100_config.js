@@ -1,1 +1,1 @@
-var mnemonic = "monkey cherry unaware speed exhibit initial police combine toddler badge hard fiction";
+var mnemonic = "family tunnel supply cave neutral castle false camera admit venture gas carpet";

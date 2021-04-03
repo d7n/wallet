@@ -1,1 +1,1 @@
-var mnemonic = "romance time town decide lyrics dwarf scatter problem embody appear hobby seed";
+var mnemonic = "truly squeeze trash almost history close inhale stairs hip remember evil equal";

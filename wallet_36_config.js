@@ -1,1 +1,1 @@
-var mnemonic = "jeans cream guitar minute ridge mean praise claw cherry wrap cry embark";
+var mnemonic = "story render guilt under believe mean dumb plastic trouble fox major cushion";

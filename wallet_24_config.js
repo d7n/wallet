@@ -1,1 +1,1 @@
-var mnemonic = "roof exhaust ice process cigar fashion dose depart staff vivid shop valve";
+var mnemonic = "maple own exit science siren supply general fiction tank client sell brass";

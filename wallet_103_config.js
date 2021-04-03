@@ -1,1 +1,1 @@
-var mnemonic = "quit solar mansion home few yard stairs permit edge gate nephew tilt";
+var mnemonic = "tray myth first sphere spread source express spend view donor mutual hobby";

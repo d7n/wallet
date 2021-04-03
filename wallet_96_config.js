@@ -1,1 +1,1 @@
-var mnemonic = "expand aim minor inside above already until race calm hurry account acoustic";
+var mnemonic = "resource visit fragile cigar crane slide dizzy slush dad abstract identify job";

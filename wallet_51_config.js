@@ -1,1 +1,1 @@
-var mnemonic = "cabin undo possible horror patrol pluck subject snake crunch equal excuse project";
+var mnemonic = "home dismiss fire usual swap observe risk cram vivid lab shield absurd";

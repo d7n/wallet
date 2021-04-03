@@ -1,1 +1,1 @@
-var mnemonic = "scene paper spoon limb chapter pipe token whisper race still real fetch";
+var mnemonic = "metal execute salmon guitar insane ball wear scale price always purity any";

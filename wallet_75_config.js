@@ -1,1 +1,1 @@
-var mnemonic = "warrior drum wing rigid arrive today access huge agree tilt drop loud";
+var mnemonic = "spirit that prevent camera private want afford benefit doctor caution ranch task";

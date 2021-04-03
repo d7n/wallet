@@ -1,1 +1,1 @@
-var mnemonic = "budget strong inflict live swift alpha clinic zero illness achieve sad able";
+var mnemonic = "ugly interest keen multiply cloud clean adapt property wagon city craft erupt";

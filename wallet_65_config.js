@@ -1,1 +1,1 @@
-var mnemonic = "gate debate govern net position coconut dress labor ability profit hybrid else";
+var mnemonic = "stem scrub bitter practice legend glass problem renew tail citizen material neutral";

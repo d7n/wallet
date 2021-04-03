@@ -1,1 +1,1 @@
-var mnemonic = "wide secret cube tribe vacuum easily pilot popular mandate crisp picture quantum";
+var mnemonic = "dirt erase glue used fog mango whip arrest same asset rule season";

@@ -1,1 +1,1 @@
-var mnemonic = "visa length island match fortune hungry human devote street slogan veteran cart";
+var mnemonic = "flame hub coin where equip orchard topic unique solve work brick chat";

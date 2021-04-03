@@ -1,1 +1,1 @@
-var mnemonic = "dove curve material fragile tragic special artefact thumb filter exclude guitar loop";
+var mnemonic = "carpet heart tool auto olive any illegal stone rigid stick swamp melt";

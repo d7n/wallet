@@ -1,1 +1,1 @@
-var mnemonic = "soldier finish voyage elite gadget top peasant thunder bitter echo filter educate";
+var mnemonic = "shiver prize flush lizard prosper dignity dismiss club circle rain bid crumble";

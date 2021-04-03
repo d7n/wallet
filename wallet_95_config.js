@@ -1,1 +1,1 @@
-var mnemonic = "legal wheat season curve muscle damage base angry noble distance good obtain";
+var mnemonic = "find duty fly notice fun apple custom happy fruit wild into one";

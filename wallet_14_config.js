@@ -1,1 +1,1 @@
-var mnemonic = "off mean near outer carpet pledge fashion advance attract stool feature common";
+var mnemonic = "fix mobile muffin world bulk consider unaware odor tooth elephant rigid museum";

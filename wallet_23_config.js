@@ -1,1 +1,1 @@
-var mnemonic = "rifle mind marble soda season solve tortoise bundle age better attitude raven";
+var mnemonic = "frozen alert save tortoise coin various lift such jacket coral royal spray";

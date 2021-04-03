@@ -1,1 +1,1 @@
-var mnemonic = "swear crop upset scrub venue aspect change trap upgrade atom deny start";
+var mnemonic = "hollow captain million vault bridge faith author library nation solve gentle huge";

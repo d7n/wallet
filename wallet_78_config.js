@@ -1,1 +1,1 @@
-var mnemonic = "supply olive van knee lamp reform gospel stone cycle eyebrow drum swarm";
+var mnemonic = "kit evil hamster memory motion symbol shy quote solid bread rain rib";

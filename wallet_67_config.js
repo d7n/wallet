@@ -1,1 +1,1 @@
-var mnemonic = "exile throw invest attitude claw repeat display save whip pledge lock recycle";
+var mnemonic = "fox fee cross glare region shuffle female chronic barely replace find post";

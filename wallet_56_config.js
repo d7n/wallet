@@ -1,1 +1,1 @@
-var mnemonic = "reason travel muffin banner cloth trial resist fat tumble spell business ten";
+var mnemonic = "banner family benefit there enrich lock great agent add stem fatigue fury";

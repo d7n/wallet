@@ -1,1 +1,1 @@
-var mnemonic = "toast near more busy bring wisdom proud genre leisure blouse goat mail";
+var mnemonic = "slight frame mesh act pool wonder survey dial crash often total place";

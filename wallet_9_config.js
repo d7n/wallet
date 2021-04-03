@@ -1,1 +1,1 @@
-var mnemonic = "clinic coin please ready conduct trumpet where theory hungry midnight bird oven";
+var mnemonic = "ugly faint reunion lock borrow venue pulp mercy hire cook album episode";

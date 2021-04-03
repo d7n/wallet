@@ -1,1 +1,1 @@
-var mnemonic = "have word depth inquiry spend group supreme famous clock oyster chief planet";
+var mnemonic = "spare protect fine basket cash puppy spider mesh between subway few float";

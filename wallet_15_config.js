@@ -1,1 +1,1 @@
-var mnemonic = "echo charge thank step test collect future start blanket eye purity rally";
+var mnemonic = "pause unique island eight thrive track enough reduce pulp open install hope";

@@ -1,1 +1,1 @@
-var mnemonic = "style solid rival buzz pistol prefer intact rocket silly middle depend lecture";
+var mnemonic = "spy soda party stuff orphan still approve utility mansion wage original book";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol clinic story tennis benefit super hip river alpha bid wheat miss";
+var mnemonic = "quantum shoe bamboo orchard smooth broom angle eight marine simple refuse labor";

@@ -1,1 +1,1 @@
-var mnemonic = "radar plate donor exist ceiling you grocery diet arrest bounce average magic";
+var mnemonic = "sand elegant gate equip execute spot fashion aspect turn ordinary voyage jewel";

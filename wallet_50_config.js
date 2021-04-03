@@ -1,1 +1,1 @@
-var mnemonic = "invest jaguar region adult claim amazing aware liar insane marriage defense garment";
+var mnemonic = "shed response twice concert enact book admit turkey coil sleep stock rain";

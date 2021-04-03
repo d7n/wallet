@@ -1,1 +1,1 @@
-var mnemonic = "young discover into submit midnight trigger oyster shoulder home under actor flock";
+var mnemonic = "fee evolve warrior learn stay army strong kingdom kick drink jazz artefact";

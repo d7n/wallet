@@ -1,1 +1,1 @@
-var mnemonic = "budget human glide vibrant dinosaur under crane web subject antenna pave thrive";
+var mnemonic = "orphan diesel dawn monitor club loyal miss mistake camera still tower bench";

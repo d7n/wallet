@@ -1,1 +1,1 @@
-var mnemonic = "side shoe across rude erupt gold uphold address foster alley topic honey";
+var mnemonic = "absurd degree deny trap giraffe gate evidence estate manage similar device glad";

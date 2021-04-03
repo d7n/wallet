@@ -1,1 +1,1 @@
-var mnemonic = "plate tumble cereal wheel fetch lady fabric swallow enhance history glove slender";
+var mnemonic = "joke legal pause super diagram reopen supreme hurry exclude mountain trophy reform";

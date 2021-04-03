@@ -1,1 +1,1 @@
-var mnemonic = "hour achieve awesome pill outer shine pass result try call return jewel";
+var mnemonic = "host kiss click twelve sweet token flock fringe either east detect denial";

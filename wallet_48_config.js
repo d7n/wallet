@@ -1,1 +1,1 @@
-var mnemonic = "notable material still laundry tray business water now render bullet leader author";
+var mnemonic = "coral conduct tissue skill celery crane upgrade network fetch erode input silent";

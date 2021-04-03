@@ -1,1 +1,1 @@
-var mnemonic = "october north crisp bronze chaos torch kangaroo piano vanish swap nothing gas";
+var mnemonic = "remove illness garbage judge field chalk kitten chunk blue slice actual enemy";

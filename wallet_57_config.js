@@ -1,1 +1,1 @@
-var mnemonic = "group husband stool purpose vapor air donkey breeze filter shock kiwi steel";
+var mnemonic = "eye edge ankle promote city inform alarm lonely figure pitch delay blouse";

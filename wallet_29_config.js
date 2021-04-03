@@ -1,1 +1,1 @@
-var mnemonic = "animal humor faith unhappy genuine wheel era select galaxy bar advance symbol";
+var mnemonic = "nothing gloom vacant suffer roast conduct asset impulse wisdom puzzle forum pride";

@@ -1,1 +1,1 @@
-var mnemonic = "still foil matter hub guitar ethics animal cabbage decline must alcohol quantum";
+var mnemonic = "age term rigid decade voyage rare rich demise service private ten summer";

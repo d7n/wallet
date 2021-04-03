@@ -1,1 +1,1 @@
-var mnemonic = "acoustic live pond shadow put torch view wrist clip nut myth cloth";
+var mnemonic = "shuffle camp expose inspire initial pull wedding forward lock duty salute hen";

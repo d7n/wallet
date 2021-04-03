@@ -1,1 +1,1 @@
-var mnemonic = "you poem green famous august wrestle anger sibling naive couch medal blast";
+var mnemonic = "diesel race found unveil swallow afraid false arrange balance carpet fee power";

@@ -1,1 +1,1 @@
-var mnemonic = "include quick shell bomb sister waste scan effort mercy urban inform love";
+var mnemonic = "reflect degree reopen trash foam usage mutual want cabin trade float moon";

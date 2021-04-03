@@ -1,1 +1,1 @@
-var mnemonic = "response enemy history method together pact poem consider master public provide lens";
+var mnemonic = "eternal purpose shrimp thank stable engage scissors correct afford benefit toddler host";

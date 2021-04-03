@@ -1,1 +1,1 @@
-var mnemonic = "web butter gadget range clean culture loan upon lottery special donor robust";
+var mnemonic = "crouch demand lunar thrive feature struggle verb tongue student cloth riot tube";

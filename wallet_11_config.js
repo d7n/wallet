@@ -1,1 +1,1 @@
-var mnemonic = "frozen divide gospel ability tissue journey phrase brisk another response goddess cause";
+var mnemonic = "salon must version biology balance radar session famous satisfy one dune denial";

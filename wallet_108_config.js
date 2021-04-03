@@ -1,1 +1,1 @@
-var mnemonic = "light ribbon disorder finger cradle bench island video history tackle argue soda";
+var mnemonic = "cinnamon poverty segment quantum sell leaf fold quit tip trip actual innocent";

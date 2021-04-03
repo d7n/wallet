@@ -1,1 +1,1 @@
-var mnemonic = "lunar paper shine seat leader keen volume liberty embark chef answer clump";
+var mnemonic = "sorry army clay voice skate vehicle that salad purity produce hole ocean";

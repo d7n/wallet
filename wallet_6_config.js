@@ -1,1 +1,1 @@
-var mnemonic = "exercise over leisure similar skull wagon pulse manage service bright plate hedgehog";
+var mnemonic = "require shoe snack pulse lounge jealous laugh pink simple audit hip split";

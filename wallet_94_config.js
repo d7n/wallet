@@ -1,1 +1,1 @@
-var mnemonic = "silver marble spawn asset behave labor immune magic much orange name casual";
+var mnemonic = "frost fire dutch stomach dinosaur super give clerk cannon correct fade orbit";

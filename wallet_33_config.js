@@ -1,1 +1,1 @@
-var mnemonic = "young cube diagram poem april voyage box affair social carbon gain couple";
+var mnemonic = "erosion cement section endorse edit profit glimpse dragon mammal peace tired thank";

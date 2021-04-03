@@ -1,1 +1,1 @@
-var mnemonic = "exit elder punch inquiry chicken clog either burden exhaust smoke east gorilla";
+var mnemonic = "cart chase toddler robust cluster pole day engine wild globe antenna usual";

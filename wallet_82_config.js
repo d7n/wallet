@@ -1,1 +1,1 @@
-var mnemonic = "net carpet twin measure bar bargain volume pumpkin envelope question purpose bitter";
+var mnemonic = "canyon uphold tray whisper peasant genuine furnace walk degree topic grace again";

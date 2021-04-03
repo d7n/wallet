@@ -1,1 +1,1 @@
-var mnemonic = "mirror equal remind public control crop today either vehicle make elephant obey";
+var mnemonic = "degree vivid pitch bacon attend blame antique strike stock dolphin voice drastic";
