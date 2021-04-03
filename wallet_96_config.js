@@ -1,1 +1,1 @@
-var mnemonic = "truck few trophy border evolve gift kitten rapid village add goat scan";
+var mnemonic = "cruise merge lawn steel diesel dust swarm usage able mystery bird truck";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean balcony glory fatal please toilet pulse brave canyon gain jewel verify";
+var mnemonic = "swallow talent slogan science sad wrist kangaroo crumble rescue mosquito parrot salute";

@@ -1,1 +1,1 @@
-var mnemonic = "verb involve valid gift other carry toe reflect fortune arrest outside reject";
+var mnemonic = "oil squeeze expect ahead doctor immense father comfort rug style flock boy";

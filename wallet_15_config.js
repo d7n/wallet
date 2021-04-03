@@ -1,1 +1,1 @@
-var mnemonic = "barely human bacon cluster gold sadness middle keep creek pottery before board";
+var mnemonic = "buffalo mimic belt envelope local what earn bachelor bacon hazard other biology";

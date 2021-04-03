@@ -1,1 +1,1 @@
-var mnemonic = "coil axis voyage welcome angle will liquid sand gossip dance cushion music";
+var mnemonic = "dust tower depart youth adapt pioneer critic agent fitness mixed pyramid visual";

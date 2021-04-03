@@ -1,1 +1,1 @@
-var mnemonic = "crunch gym mention economy tennis debate tape start sister solve salon such";
+var mnemonic = "retreat grass split hollow trim detail angle slab pitch ability cloud grocery";

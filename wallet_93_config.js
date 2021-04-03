@@ -1,1 +1,1 @@
-var mnemonic = "hill minor leader rice hire kiss wear skate lady museum hotel mango";
+var mnemonic = "rent unique wasp title around match marine cushion lawn weekend amused bracket";

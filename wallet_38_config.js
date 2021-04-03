@@ -1,1 +1,1 @@
-var mnemonic = "scorpion can acquire van menu rigid cry february derive kit hello argue";
+var mnemonic = "primary tuna parrot glide emotion car cement vehicle inquiry various champion gentle";

@@ -1,1 +1,1 @@
-var mnemonic = "myth picnic inch hunt turn mango helmet drastic palace humble special snake";
+var mnemonic = "material canyon radio stamp boat idle remember decline tackle soldier amazing rocket";

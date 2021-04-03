@@ -1,1 +1,1 @@
-var mnemonic = "floor purse canvas night sunny enforce impose oval phone panther repair matter";
+var mnemonic = "antique illness visit toddler arrest distance insane artist action degree gravity exclude";

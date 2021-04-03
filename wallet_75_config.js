@@ -1,1 +1,1 @@
-var mnemonic = "tumble comic grief offer better spend trash syrup upon sure skate output";
+var mnemonic = "bronze analyst repair mesh labor horn crush primary weapon ride army evidence";

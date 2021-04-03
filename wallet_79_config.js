@@ -1,1 +1,1 @@
-var mnemonic = "mind come unfold annual menu primary neck derive right phrase update coin";
+var mnemonic = "potato plunge favorite shock search abstract hungry forward pulp fury gown mad";

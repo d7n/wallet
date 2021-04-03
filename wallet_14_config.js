@@ -1,1 +1,1 @@
-var mnemonic = "diet injury pink tag diet believe frost fold novel fever sniff attitude";
+var mnemonic = "pulp alcohol ski purse length deputy pyramid move still october transfer curve";

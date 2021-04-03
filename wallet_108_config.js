@@ -1,1 +1,1 @@
-var mnemonic = "clump rug claw minute brave fog purpose child elder jealous mansion grit";
+var mnemonic = "below pig rule gap tent picnic shallow divert remove concert voyage grab";

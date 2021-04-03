@@ -1,1 +1,1 @@
-var mnemonic = "volcano maid claim penalty defense knife quiz olive monster path vault desert";
+var mnemonic = "give soft excess purity theory favorite search loyal soul hen inside music";

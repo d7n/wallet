@@ -1,1 +1,1 @@
-var mnemonic = "sell fantasy night album pink lawn harbor burger arch normal session grocery";
+var mnemonic = "east sister shop doctor damage floor cram jacket card tortoise radar midnight";

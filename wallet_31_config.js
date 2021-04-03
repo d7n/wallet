@@ -1,1 +1,1 @@
-var mnemonic = "kit december leader aspect champion scale agree clip carbon aspect bench wash";
+var mnemonic = "jungle joke prevent unfold seek need satoshi drum menu electric army cliff";

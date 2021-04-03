@@ -1,1 +1,1 @@
-var mnemonic = "country urban rigid lend hint avocado evolve ivory scissors regret usual merry";
+var mnemonic = "gym put rough struggle avocado wheel strike wisdom box firm gauge awesome";

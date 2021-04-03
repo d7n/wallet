@@ -1,1 +1,1 @@
-var mnemonic = "crop catch flavor laundry envelope rubber episode unusual toddler brass ship orient";
+var mnemonic = "time planet address tank aspect ethics warfare repair crunch faith acquire mask";

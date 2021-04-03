@@ -1,1 +1,1 @@
-var mnemonic = "siege eyebrow absent awake youth obscure oak link ethics enlist rotate say";
+var mnemonic = "stomach curtain suit wrong find token expire west grape shrimp syrup dinner";

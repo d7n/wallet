@@ -1,1 +1,1 @@
-var mnemonic = "attract course maple surge betray wheel tail scene taxi slab jeans danger";
+var mnemonic = "device baby accident royal hour census desert blanket found primary exchange left";

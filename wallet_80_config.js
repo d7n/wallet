@@ -1,1 +1,1 @@
-var mnemonic = "jazz lounge clay raven trash release century fatigue either jewel peanut april";
+var mnemonic = "club sport turn piece cattle arrange exhibit twist swamp obtain miracle pause";

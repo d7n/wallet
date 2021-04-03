@@ -1,1 +1,1 @@
-var mnemonic = "gas bird ramp senior plug leg media regret fame obscure order lunch";
+var mnemonic = "live smoke other squeeze moon melt crack exact bread dragon cry document";

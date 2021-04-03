@@ -1,1 +1,1 @@
-var mnemonic = "agree monkey eye shrimp casino okay series report asset deer midnight panther";
+var mnemonic = "swarm mean evoke distance family pair kite practice faith vague object live";

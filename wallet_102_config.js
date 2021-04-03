@@ -1,1 +1,1 @@
-var mnemonic = "catalog swallow cruel rural wrestle where dream desk zoo worry drastic expire";
+var mnemonic = "moon click duty payment foil submit identify inquiry moment wave embody bring";

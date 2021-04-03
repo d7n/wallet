@@ -1,1 +1,1 @@
-var mnemonic = "duck daring primary pencil ship metal fog eager consider uniform mouse common";
+var mnemonic = "tail trip excite exchange animal venue utility siege riot much fortune until";

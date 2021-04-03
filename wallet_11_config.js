@@ -1,1 +1,1 @@
-var mnemonic = "romance blouse plate antique increase camp wagon sock knife plastic lunar angle";
+var mnemonic = "hen gate sport narrow permit birth mercy teach mammal riot gallery lazy";

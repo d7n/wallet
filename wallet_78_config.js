@@ -1,1 +1,1 @@
-var mnemonic = "detail warm tell age duty crater now midnight acquire advance ability picnic";
+var mnemonic = "fold target rifle praise alone month verb crane shaft stone frozen calm";

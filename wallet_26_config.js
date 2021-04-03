@@ -1,1 +1,1 @@
-var mnemonic = "audit economy jazz cost main banana album mixed coconut child rough design";
+var mnemonic = "trip okay cover protect arrive security know gold pave tomato float convince";

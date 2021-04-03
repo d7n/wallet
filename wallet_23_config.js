@@ -1,1 +1,1 @@
-var mnemonic = "maple business jump daring wealth tuna fossil hammer mix can dragon stick";
+var mnemonic = "guide sponsor speed already era spot attack ticket paddle wrap control finish";

@@ -1,1 +1,1 @@
-var mnemonic = "century dirt trick switch spider police wood idle quarter romance board exchange";
+var mnemonic = "jump rack narrow poet soccer robust glow spare else laugh flame era";

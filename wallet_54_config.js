@@ -1,1 +1,1 @@
-var mnemonic = "creek tube fiction useless deal fiscal outdoor air joy win joke area";
+var mnemonic = "short coyote neck shoot example nature indicate lawn gas delay chair jewel";

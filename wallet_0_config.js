@@ -1,1 +1,1 @@
-var mnemonic = "game bonus defense learn pledge gorilla vital urban present final mesh parade";
+var mnemonic = "tissue paper globe lottery gate clump true fetch unfair ketchup surprise breeze";

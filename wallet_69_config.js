@@ -1,1 +1,1 @@
-var mnemonic = "vehicle beauty common code crime divide side focus game promote note donate";
+var mnemonic = "leader train blanket cement digital live film increase trash scrub affair father";

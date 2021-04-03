@@ -1,1 +1,1 @@
-var mnemonic = "spawn target divorce dog shadow zero judge surge merry sort comic arena";
+var mnemonic = "depart dolphin sense immune garlic sort file panther click deputy unhappy series";

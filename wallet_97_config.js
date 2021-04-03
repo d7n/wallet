@@ -1,1 +1,1 @@
-var mnemonic = "length unit wreck erase glow tribe cabin uniform lunch very weasel advance";
+var mnemonic = "quick waste talk chef gentle erupt average seminar upper job board man";

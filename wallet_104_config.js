@@ -1,1 +1,1 @@
-var mnemonic = "almost awake spirit glide marble picture blossom exile spend finish flower glimpse";
+var mnemonic = "ocean field occur final funny tribe shoot echo steak beyond airport close";

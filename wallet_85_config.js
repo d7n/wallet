@@ -1,1 +1,1 @@
-var mnemonic = "judge celery denial film weekend security clever melody fat birth ready kingdom";
+var mnemonic = "payment snack tank erosion quote relax secret struggle catalog cement suggest collect";

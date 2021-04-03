@@ -1,1 +1,1 @@
-var mnemonic = "monkey wet vibrant frame crowd fluid method rubber vanish mad apple favorite";
+var mnemonic = "practice panic merry require tree goose fragile state uncover topic deputy deposit";

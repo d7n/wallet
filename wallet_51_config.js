@@ -1,1 +1,1 @@
-var mnemonic = "blouse mind meat smile ship swarm crucial luggage stone hamster fine sample";
+var mnemonic = "penalty fire gorilla person distance endorse network weather use grief step around";

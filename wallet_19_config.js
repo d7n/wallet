@@ -1,1 +1,1 @@
-var mnemonic = "laundry awesome wheat coffee stove doctor oblige kingdom cheap fun ramp salute";
+var mnemonic = "drop priority ask impose six alpha spread fire never champion federal tide";

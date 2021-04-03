@@ -1,1 +1,1 @@
-var mnemonic = "dizzy shop analyst oppose middle unknown approve search artwork sunset gadget mix";
+var mnemonic = "suggest forward raw mad text relief expect much group settle use board";

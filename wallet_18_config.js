@@ -1,1 +1,1 @@
-var mnemonic = "crucial cruel december home olympic still detect secret popular test benefit crane";
+var mnemonic = "lady museum tool weasel web farm cloth cargo brush inner half resist";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant faith radar review buzz pulse wolf victory idle duty found rough";
+var mnemonic = "regular ritual disagree merry inspire theme depend mango mystery easily pony sadness";

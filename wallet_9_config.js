@@ -1,1 +1,1 @@
-var mnemonic = "edit expand body absent upgrade robot gallery remove engine vibrant chapter jewel";
+var mnemonic = "rate antenna fiber amateur client soft beach shift seek hundred story odor";

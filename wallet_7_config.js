@@ -1,1 +1,1 @@
-var mnemonic = "hole atom genius rather two mad van occur coffee detect immense satoshi";
+var mnemonic = "unveil feed museum vague split spoon vacuum era warfare notice lizard floor";

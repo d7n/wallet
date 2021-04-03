@@ -1,1 +1,1 @@
-var mnemonic = "way local caught salute cricket stage fatal pool sick stand cupboard fortune";
+var mnemonic = "fun repair arm fancy judge system ice cover wear slogan vault path";

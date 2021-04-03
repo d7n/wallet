@@ -1,1 +1,1 @@
-var mnemonic = "wire evil order accuse wise violin author east rocket soup giant found";
+var mnemonic = "crowd lemon direct replace nose pen review famous weapon mind quick bike";

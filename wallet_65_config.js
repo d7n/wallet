@@ -1,1 +1,1 @@
-var mnemonic = "bridge apple tortoise art diesel improve symptom magic solar cook pig situate";
+var mnemonic = "sword supreme grief noise impact park snake distance pet success corn corn";

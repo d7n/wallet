@@ -1,1 +1,1 @@
-var mnemonic = "master drama receive perfect super pen cinnamon urban avocado sphere sail step";
+var mnemonic = "lonely gasp jar taxi combine near decrease worth mesh glimpse all mail";

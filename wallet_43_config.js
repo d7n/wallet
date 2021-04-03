@@ -1,1 +1,1 @@
-var mnemonic = "artwork raven winner fashion nation race exercise bind loop able other recipe";
+var mnemonic = "victory improve gas fish below famous protect youth enter purse device dragon";

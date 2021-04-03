@@ -1,1 +1,1 @@
-var mnemonic = "seminar jar weekend blouse timber patrol shallow slice brief enact pretty traffic";
+var mnemonic = "foil dash cheap better remind project daughter entry chair good move level";

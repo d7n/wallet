@@ -1,1 +1,1 @@
-var mnemonic = "similar sample cabbage actor rib quality sausage rule inner quick promote poet";
+var mnemonic = "clutch arctic coconut lady web effort path artist miracle smart hedgehog sibling";

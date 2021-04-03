@@ -1,1 +1,1 @@
-var mnemonic = "panther staff grace half burst dwarf copy repeat toilet day bless make";
+var mnemonic = "achieve ask task follow ecology orient special size gesture sell oppose ready";

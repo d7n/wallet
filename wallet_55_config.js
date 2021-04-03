@@ -1,1 +1,1 @@
-var mnemonic = "improve swift permit junior proof nice mail mix favorite share city match";
+var mnemonic = "surface wave insect fitness boring remind welcome hedgehog truth ill close hurry";

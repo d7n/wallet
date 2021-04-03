@@ -1,1 +1,1 @@
-var mnemonic = "material sick chuckle turn dutch lounge cabin frozen clerk choice ginger foil";
+var mnemonic = "raccoon mixture scatter street cradle scorpion resemble near primary color wolf leg";

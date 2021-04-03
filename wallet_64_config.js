@@ -1,1 +1,1 @@
-var mnemonic = "relax excuse media horse drama sell flat same seek shrimp clutch sauce";
+var mnemonic = "morning tiger okay rifle skate trip chalk brand wolf fiction cement sponsor";

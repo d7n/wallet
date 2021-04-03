@@ -1,1 +1,1 @@
-var mnemonic = "dirt foil rather swallow end try own text dinner pill course narrow";
+var mnemonic = "expand install picnic leader hard betray fee bleak grape ready security wet";

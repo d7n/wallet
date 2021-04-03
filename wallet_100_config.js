@@ -1,1 +1,1 @@
-var mnemonic = "birth waste meadow mechanic casual behave athlete spoon dutch desert damage candy";
+var mnemonic = "youth record banana matter dice green enemy layer life dynamic when autumn";

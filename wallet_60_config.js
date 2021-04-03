@@ -1,1 +1,1 @@
-var mnemonic = "fish cinnamon inflict kid page ceiling sibling guess sick shine burden brand";
+var mnemonic = "melt initial mountain process injury trigger immense letter symbol nation chest tape";

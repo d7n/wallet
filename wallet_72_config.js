@@ -1,1 +1,1 @@
-var mnemonic = "cash daring page lens camera tent glove badge strong worry love wealth";
+var mnemonic = "slam two breeze sauce infant route rail spell salad category soda sad";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel immense priority injury express language language walk collect juice zebra head";
+var mnemonic = "potato stomach master say tooth ice erosion upon warm cage rural true";

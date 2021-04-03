@@ -1,1 +1,1 @@
-var mnemonic = "usual village keen stock tape transfer aunt final defy easily jacket easy";
+var mnemonic = "ahead merry ginger wrist picture recall desk misery satisfy rifle board agree";

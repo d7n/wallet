@@ -1,1 +1,1 @@
-var mnemonic = "more novel snow then enlist opera east child cart parade creek carpet";
+var mnemonic = "cool enhance hundred cube ski sketch photo next whip crumble ritual vacant";

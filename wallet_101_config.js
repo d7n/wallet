@@ -1,1 +1,1 @@
-var mnemonic = "much fence tower second uncle injury couple feed embark consider extra dress";
+var mnemonic = "hill artefact pole twin deal hard case priority squirrel combine click inspire";

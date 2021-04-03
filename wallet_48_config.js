@@ -1,1 +1,1 @@
-var mnemonic = "infant expect gasp cinnamon memory warm goose satisfy modify category prevent tide";
+var mnemonic = "lottery hero pet flush earth recall write citizen mixed spatial gasp sense";

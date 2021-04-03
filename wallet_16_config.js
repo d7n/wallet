@@ -1,1 +1,1 @@
-var mnemonic = "physical nasty fiscal sausage quick task anger bean jar spike domain love";
+var mnemonic = "tell accident isolate crane tail divorce normal umbrella original people entire narrow";

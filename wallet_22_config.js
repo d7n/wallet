@@ -1,1 +1,1 @@
-var mnemonic = "peanut point uncle pink myth violin either domain course mountain ship acoustic";
+var mnemonic = "about hotel spell intact wolf entire airport gown artwork achieve repair easy";

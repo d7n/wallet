@@ -1,1 +1,1 @@
-var mnemonic = "tone police enrich sorry kiwi alcohol render wealth soccer drift tortoise segment";
+var mnemonic = "suggest rug issue city jelly ridge area kitten jar slab load group";

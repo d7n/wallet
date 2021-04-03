@@ -1,1 +1,1 @@
-var mnemonic = "success sting lizard very soldier bracket believe use share current soul defy";
+var mnemonic = "blade funny lunar sketch more antique pet dial roof fossil reject borrow";

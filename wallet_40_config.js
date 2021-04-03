@@ -1,1 +1,1 @@
-var mnemonic = "crucial deny pull submit crush doctor decline patch marble elephant bargain evidence";
+var mnemonic = "bind double erase praise engage oxygen order tuna throw exile check coyote";

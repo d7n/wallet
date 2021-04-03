@@ -1,1 +1,1 @@
-var mnemonic = "civil balance put diet fashion cake echo produce penalty ankle suggest grace";
+var mnemonic = "father program diagram topic aspect grief claim behind october sock bulb choose";

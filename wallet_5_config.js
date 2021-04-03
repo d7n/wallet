@@ -1,1 +1,1 @@
-var mnemonic = "chat melt praise surge green life sorry bulk cabbage enable clip evolve";
+var mnemonic = "dance ice mosquito angry identify trophy sibling measure either rather include kangaroo";

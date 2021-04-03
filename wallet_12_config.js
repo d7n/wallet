@@ -1,1 +1,1 @@
-var mnemonic = "fly fan segment ozone holiday page found essence figure decline abstract maple";
+var mnemonic = "enhance fiction subway egg deer apart odor comfort unusual bless orphan attract";

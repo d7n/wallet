@@ -1,1 +1,1 @@
-var mnemonic = "lesson topic almost danger slice upper spray recall impact local link gloom";
+var mnemonic = "belt loyal panther title duck they bone ill option body retreat beef";

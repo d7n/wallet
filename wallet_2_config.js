@@ -1,1 +1,1 @@
-var mnemonic = "weasel talent gauge wrist gift later head apple amount forest nominee cliff";
+var mnemonic = "aim tornado pledge canyon design cave myth neither scare make track act";

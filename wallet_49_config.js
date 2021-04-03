@@ -1,1 +1,1 @@
-var mnemonic = "patient powder ball frame poverty crucial seat cash health journey rocket guard";
+var mnemonic = "climb about airport receive sleep message split knock legal bullet food machine";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey crater clump panic whisper history apart pulp shift copper brain sister";
+var mnemonic = "explain cave record galaxy husband detail stand lady double local blur erupt";

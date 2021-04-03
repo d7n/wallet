@@ -1,1 +1,1 @@
-var mnemonic = "call multiply satoshi cradle argue tomato fame easily person wing enjoy alien";
+var mnemonic = "prize crush version nose custom sweet arena half ship equal rifle adult";

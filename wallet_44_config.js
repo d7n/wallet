@@ -1,1 +1,1 @@
-var mnemonic = "orbit crisp ivory father solid silly cattle rally ocean torch promote orbit";
+var mnemonic = "cotton twenty quiz choose emotion put awful auto push test admit install";

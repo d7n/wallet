@@ -1,1 +1,1 @@
-var mnemonic = "west gather practice reason faculty story situate ability then illegal detect solution";
+var mnemonic = "student bicycle case stage stay mango trap tomorrow fiber gloom lawn very";

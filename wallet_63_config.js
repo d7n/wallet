@@ -1,1 +1,1 @@
-var mnemonic = "entry dawn eight lyrics settle avocado consider limit already corn crouch fee";
+var mnemonic = "arrange ivory leisure step now confirm height afford outdoor carpet surprise avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit eternal play picnic people ribbon sniff deny crystal clay slot ramp";
+var mnemonic = "system invite light tuna eagle flavor immense harsh mean benefit cake man";

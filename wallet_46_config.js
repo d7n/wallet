@@ -1,1 +1,1 @@
-var mnemonic = "cupboard speak october circle skin happy unique wisdom clutch save orchard energy";
+var mnemonic = "jewel sorry shield decrease box merry nut shove fragile nut program ten";

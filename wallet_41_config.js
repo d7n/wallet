@@ -1,1 +1,1 @@
-var mnemonic = "lonely place borrow click execute rebuild avocado orchard field scatter member gallery";
+var mnemonic = "jacket sword apart cable loan love galaxy nest pencil luggage culture popular";

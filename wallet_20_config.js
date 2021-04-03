@@ -1,1 +1,1 @@
-var mnemonic = "camera mouse gasp duty clump mixture avocado broccoli increase develop fitness vacuum";
+var mnemonic = "refuse elder imitate kite truck cement fresh decrease motion noodle degree any";

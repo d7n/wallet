@@ -1,1 +1,1 @@
-var mnemonic = "scissors ceiling learn sniff monkey episode grab style catalog ladder runway quarter";
+var mnemonic = "feel medal destroy item chapter clump return job anxiety demise nest season";

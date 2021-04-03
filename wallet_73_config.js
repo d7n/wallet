@@ -1,1 +1,1 @@
-var mnemonic = "virtual outdoor term vocal faint sick million mystery glimpse own tomato bus";
+var mnemonic = "saddle hedgehog fog crush antique film system energy game frame arctic repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "immune oxygen obscure crumble off false junior dutch defense any mom undo";
+var mnemonic = "opera smooth slim crop symbol open region knife jazz segment bamboo orange";

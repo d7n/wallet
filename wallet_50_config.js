@@ -1,1 +1,1 @@
-var mnemonic = "thumb canoe digital face enough cage image loud unlock network gun crop";
+var mnemonic = "wine battle cupboard evoke afraid few certain pilot service skate fever sure";

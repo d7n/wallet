@@ -1,1 +1,1 @@
-var mnemonic = "perfect story recycle try defy fruit obtain route lawn brand address wool";
+var mnemonic = "excess kick skin sugar chase jelly clutch wire very ticket moral wine";

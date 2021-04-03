@@ -1,1 +1,1 @@
-var mnemonic = "wire sick video act avoid retreat palace salon repeat later mansion burger";
+var mnemonic = "assault march immense sphere soon once tiny dynamic network educate relax egg";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket patch just surge sort engage duck clap tree together poverty penalty";
+var mnemonic = "kind debris draft glove poem web pride cable beyond gym race mind";

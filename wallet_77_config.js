@@ -1,1 +1,1 @@
-var mnemonic = "address silent inquiry news satoshi amateur toddler nature improve only dutch sphere";
+var mnemonic = "galaxy deny piece galaxy sunset skin manage bracket rescue gift large mouse";
