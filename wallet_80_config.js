@@ -1,1 +1,1 @@
-var mnemonic = "gap leisure medal desert faint danger sphere mad real fiber student toy";
+var mnemonic = "hollow express holiday denial fetch finger boring cry still extra giggle theme";

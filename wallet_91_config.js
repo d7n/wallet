@@ -1,1 +1,1 @@
-var mnemonic = "faith rely valve furnace foot history drink unique kick funny okay awkward";
+var mnemonic = "seed skate drip divide panel noodle cradle tackle faculty time adjust bring";

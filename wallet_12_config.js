@@ -1,1 +1,1 @@
-var mnemonic = "remember quality can into foam design bench payment cycle worry beyond expand";
+var mnemonic = "top expand someone truth smile trend hammer sock october mutual same tumble";

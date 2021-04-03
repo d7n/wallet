@@ -1,1 +1,1 @@
-var mnemonic = "unveil suspect deny goat win air curve toward zoo charge behave solve";
+var mnemonic = "mad fog clock tonight slight husband narrow vicious picnic duty select typical";

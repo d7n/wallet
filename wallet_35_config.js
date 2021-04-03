@@ -1,1 +1,1 @@
-var mnemonic = "present reason sword depth quarter minute enemy west glance gift hurdle destroy";
+var mnemonic = "multiply shadow train rescue tunnel lobster about step erase fault seven menu";

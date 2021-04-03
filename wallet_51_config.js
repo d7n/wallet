@@ -1,1 +1,1 @@
-var mnemonic = "require valid bubble door rib sense saddle detect grace fitness six rigid";
+var mnemonic = "parade punch control cool mesh excess similar attend buzz engage start large";

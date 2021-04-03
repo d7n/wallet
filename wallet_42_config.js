@@ -1,1 +1,1 @@
-var mnemonic = "frog hat home test drop axis kitten profit game discover twin interest";
+var mnemonic = "page crisp letter comic enjoy elder caught pigeon hedgehog imitate clever clarify";

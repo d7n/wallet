@@ -1,1 +1,1 @@
-var mnemonic = "second empower collect flock holiday this slogan wedding home retreat reform vault";
+var mnemonic = "tilt media day achieve regular soft else approve dream cash unknown lounge";

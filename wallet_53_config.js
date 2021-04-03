@@ -1,1 +1,1 @@
-var mnemonic = "bracket timber curious swallow sample beauty mean expand pioneer stay digital comfort";
+var mnemonic = "car trigger advice famous key believe thunder win know success olive culture";

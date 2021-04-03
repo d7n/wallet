@@ -1,1 +1,1 @@
-var mnemonic = "avoid impulse stable mixed edge vanish yard usage romance chase gather pear";
+var mnemonic = "session circle glimpse sphere shock endorse shed jungle skull two glove ski";

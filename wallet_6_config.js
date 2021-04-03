@@ -1,1 +1,1 @@
-var mnemonic = "artefact board educate pig artist arm shuffle indoor forget attract dwarf sudden";
+var mnemonic = "saddle myth chunk ivory sauce ocean arm patient tiger clean praise awful";

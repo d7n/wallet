@@ -1,1 +1,1 @@
-var mnemonic = "cover arena van wheat someone climb cabbage table century indoor hybrid material";
+var mnemonic = "siren shock cousin swing world acid middle stadium evolve sick video tribe";

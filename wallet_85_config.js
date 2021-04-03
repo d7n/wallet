@@ -1,1 +1,1 @@
-var mnemonic = "stereo enable soccer story old bike movie castle road broken ghost zebra";
+var mnemonic = "maximum distance reason calm solve bullet sword rice smile mail slice cruise";

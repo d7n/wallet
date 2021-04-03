@@ -1,1 +1,1 @@
-var mnemonic = "surprise cabbage vessel shine ensure delay good engine dash mistake leader grief";
+var mnemonic = "push become candy announce shrug pencil digital monitor appear squeeze crater blind";

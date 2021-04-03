@@ -1,1 +1,1 @@
-var mnemonic = "happy winner chicken poem advance version rally crawl reflect defy trash army";
+var mnemonic = "kind craft pistol pledge harsh material infant lift arrange lock material symptom";

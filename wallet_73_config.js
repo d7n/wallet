@@ -1,1 +1,1 @@
-var mnemonic = "innocent fancy shoe point exchange noise risk boy symptom there polar notable";
+var mnemonic = "someone vacuum crouch lounge broccoli mouse canyon fiber picture salmon moment vibrant";

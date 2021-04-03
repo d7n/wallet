@@ -1,1 +1,1 @@
-var mnemonic = "armed sniff grid web film cube copper math rabbit vital pause eager";
+var mnemonic = "biology urban coin wink height tiny risk raven rich rapid into onion";

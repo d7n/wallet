@@ -1,1 +1,1 @@
-var mnemonic = "describe force joy one service tourist squirrel vapor orphan rent latin liberty";
+var mnemonic = "actor cannon raw belt ostrich kitten frog enter expose moment student boat";

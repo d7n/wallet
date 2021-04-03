@@ -1,1 +1,1 @@
-var mnemonic = "bike wrap horn crazy swap diary kangaroo elephant oyster waste wash sing";
+var mnemonic = "chef unlock meat disorder coin memory logic sunset tornado liquid blush love";

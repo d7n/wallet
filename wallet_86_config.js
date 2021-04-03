@@ -1,1 +1,1 @@
-var mnemonic = "mechanic undo episode happy scorpion slice drip toy warrior treat polar struggle";
+var mnemonic = "dumb execute slice clip legend cool wasp auction quality spell wish shield";

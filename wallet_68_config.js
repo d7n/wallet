@@ -1,1 +1,1 @@
-var mnemonic = "client atom awake render cup frame document damage clerk zoo virtual insane";
+var mnemonic = "mask soup acid sauce little victory guide celery clarify armor purity joy";

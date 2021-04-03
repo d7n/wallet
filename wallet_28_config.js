@@ -1,1 +1,1 @@
-var mnemonic = "enlist travel joke time invite tired yellow review bracket garage twin sheriff";
+var mnemonic = "ethics transfer twenty gauge syrup actress harsh time left switch step segment";

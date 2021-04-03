@@ -1,1 +1,1 @@
-var mnemonic = "auction surface split pulse video exchange grain torch defense episode frost truck";
+var mnemonic = "depart spell aisle sure rack wood jump electric surprise pretty fire antique";

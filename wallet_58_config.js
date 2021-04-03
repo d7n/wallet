@@ -1,1 +1,1 @@
-var mnemonic = "text entire current monitor crumble tuition same million word airport van jeans";
+var mnemonic = "empower before negative level glance whisper odor kind useful gas suggest anger";

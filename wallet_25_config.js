@@ -1,1 +1,1 @@
-var mnemonic = "comfort blouse legal affair quantum copy edit chapter custom shallow brief exotic";
+var mnemonic = "matrix quiz shop cloth upon toilet social educate outdoor skirt maximum lottery";

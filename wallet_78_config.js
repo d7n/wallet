@@ -1,1 +1,1 @@
-var mnemonic = "you brand turn furnace puppy master green detect peanut endorse eye grab";
+var mnemonic = "clean glory tribe pair scout useful pudding explain head verify aim later";

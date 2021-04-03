@@ -1,1 +1,1 @@
-var mnemonic = "judge major abstract alert fork laugh stage again fence foam slender wreck";
+var mnemonic = "wheel churn piano truth tenant oval prison office napkin pumpkin because cheap";

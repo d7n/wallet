@@ -1,1 +1,1 @@
-var mnemonic = "short quote observe ranch castle gentle traffic bicycle name busy mass member";
+var mnemonic = "sure icon pole build bottom civil amazing project naive glove degree suggest";

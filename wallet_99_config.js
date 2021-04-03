@@ -1,1 +1,1 @@
-var mnemonic = "outdoor afford sand kingdom rail dice loyal novel female caution bench crisp";
+var mnemonic = "miracle phrase castle mix west ramp because type nephew disorder melody inhale";

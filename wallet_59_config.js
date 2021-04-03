@@ -1,1 +1,1 @@
-var mnemonic = "push left kingdom category choose young demise pitch sense six yellow present";
+var mnemonic = "suit enemy dynamic praise floor balcony talk decade pupil crack prevent mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "old flag hospital draw neutral old retreat bus swing nice margin chimney";
+var mnemonic = "flat tennis mirror cannon reject access borrow avoid hip uncover loyal practice";

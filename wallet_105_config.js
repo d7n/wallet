@@ -1,1 +1,1 @@
-var mnemonic = "health raise cloth banana jazz devote pact patrol sweet census barely eye";
+var mnemonic = "scare bitter must transfer bird leader cannon salmon harvest nominee hero guard";

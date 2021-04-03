@@ -1,1 +1,1 @@
-var mnemonic = "card tiny goose evidence beach cargo final cave cricket short elder credit";
+var mnemonic = "trend stairs mandate city excess naive gasp heavy slush bird security foot";

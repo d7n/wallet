@@ -1,1 +1,1 @@
-var mnemonic = "powder ozone slam emotion crumble magic shrug shaft domain scatter dice try";
+var mnemonic = "funny hub swap cabin ecology brief essence elevator leaf until stem seed";

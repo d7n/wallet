@@ -1,1 +1,1 @@
-var mnemonic = "pattern ball desk loyal improve clerk cash sketch charge shove vacant thumb";
+var mnemonic = "gate essence panic approve open reveal mean useful direct duck fetch merit";

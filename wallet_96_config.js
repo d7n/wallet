@@ -1,1 +1,1 @@
-var mnemonic = "collect window innocent mirror belt latin hood swallow acoustic monster upon bulk";
+var mnemonic = "display occur olive into penalty rebuild syrup scale ill myth cinnamon vault";

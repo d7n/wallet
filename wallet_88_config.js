@@ -1,1 +1,1 @@
-var mnemonic = "side ancient junior supreme inspire toward autumn glare theme cigar language apology";
+var mnemonic = "until sketch industry smooth nominee taxi jungle dog bottom merit hub equal";

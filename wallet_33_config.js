@@ -1,1 +1,1 @@
-var mnemonic = "purity service sport leader stem true upset roast gorilla east spare coral";
+var mnemonic = "ritual turkey stock voice muscle figure fine plate theory treat cover laundry";

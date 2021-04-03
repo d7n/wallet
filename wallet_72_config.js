@@ -1,1 +1,1 @@
-var mnemonic = "toilet kit sheriff receive merry cake elbow march security delay knife sock";
+var mnemonic = "judge acquire couch shrug install senior million fall board concert chief trap";

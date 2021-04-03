@@ -1,1 +1,1 @@
-var mnemonic = "differ witness feed cherry remember grain spray post wagon glad deal salmon";
+var mnemonic = "coast define thunder grunt write mother iron task turkey foam tennis group";

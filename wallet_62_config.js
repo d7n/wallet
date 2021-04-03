@@ -1,1 +1,1 @@
-var mnemonic = "filter lawn behind parade kit sheriff exchange blame olympic ugly pet quantum";
+var mnemonic = "october novel belt agent giggle ability fever kit hand bullet unfair verify";

@@ -1,1 +1,1 @@
-var mnemonic = "chase must liberty draw express skin dance post future vendor vicious warrior";
+var mnemonic = "reopen grow list diagram jelly royal limb duck image inject flee soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "combine mouse inflict acoustic snake stone curtain shallow south piano ranch snow";
+var mnemonic = "away husband divorce intact fresh blue dumb address fold inmate explain spring";

@@ -1,1 +1,1 @@
-var mnemonic = "toward crush duck amused predict begin credit furnace pass dignity future involve";
+var mnemonic = "lesson hat measure violin wood time hamster degree industry sister flat relief";

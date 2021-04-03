@@ -1,1 +1,1 @@
-var mnemonic = "night until congress clock luggage happy front rotate assist mouse upgrade notable";
+var mnemonic = "unit rotate eye carpet future pilot setup say decide process couple mad";

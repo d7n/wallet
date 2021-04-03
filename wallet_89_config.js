@@ -1,1 +1,1 @@
-var mnemonic = "blouse vessel library remove stumble modify control alert brother feed half flat";
+var mnemonic = "key advice traffic link lonely dad chicken iron fork satisfy dress lemon";

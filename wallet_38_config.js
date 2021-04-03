@@ -1,1 +1,1 @@
-var mnemonic = "breeze fence slight object bench rubber sketch decrease approve diesel struggle fame";
+var mnemonic = "typical magnet bronze horror season casual piano topple arrange trust cube notice";

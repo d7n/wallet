@@ -1,1 +1,1 @@
-var mnemonic = "immense spread slam tennis refuse produce voice decade crack tent nurse card";
+var mnemonic = "left either april course major math involve focus fish normal unveil neck";

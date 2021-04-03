@@ -1,1 +1,1 @@
-var mnemonic = "bracket unhappy gorilla own stove bullet test decline shed biology tornado tell";
+var mnemonic = "range life sure receive glad voyage kit weird social survey sustain volume";

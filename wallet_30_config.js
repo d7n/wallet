@@ -1,1 +1,1 @@
-var mnemonic = "expose child skirt rare deputy float eight ranch apology neglect present brick";
+var mnemonic = "shop hospital length dream gas family latin please hen garbage seat goose";

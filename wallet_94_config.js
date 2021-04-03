@@ -1,1 +1,1 @@
-var mnemonic = "click north bottom deny punch april strategy expire blame jealous anchor weird";
+var mnemonic = "potato dove mandate arrive feel tone bonus damage benefit name reunion actual";

@@ -1,1 +1,1 @@
-var mnemonic = "hand dismiss blood lake kite awake path boil erupt keep office aerobic";
+var mnemonic = "either sound settle govern owner matter finish senior left life segment embark";

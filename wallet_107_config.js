@@ -1,1 +1,1 @@
-var mnemonic = "few busy smoke harsh fabric estate outside rib column kind company hunt";
+var mnemonic = "advice security force extend fit album range noise mechanic fog jacket pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap left option floor endorse echo bounce sketch write execute ghost whale";
+var mnemonic = "treat dune table loan genius aunt canyon quality three polar praise play";

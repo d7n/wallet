@@ -1,1 +1,1 @@
-var mnemonic = "argue kitten drive olive couple warm frog rebel stomach trophy lawsuit coconut";
+var mnemonic = "sort sunny area jacket island enjoy fury depart kid novel cheap rocket";

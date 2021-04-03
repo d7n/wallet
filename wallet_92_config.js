@@ -1,1 +1,1 @@
-var mnemonic = "thumb again need measure ostrich void crawl veteran topic zero envelope around";
+var mnemonic = "topic blast puppy stove toilet quick message potato together frown display resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle aerobic warm arrow cost blood middle skate weasel party prison force";
+var mnemonic = "give task afraid razor horse inner romance kind consider wink tide cube";

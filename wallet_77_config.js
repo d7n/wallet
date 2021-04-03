@@ -1,1 +1,1 @@
-var mnemonic = "nice casino erode rent clock peace fatigue citizen marriage biology bench chef";
+var mnemonic = "way coast advice mask reject unknown nasty wide glove insect minimum neutral";

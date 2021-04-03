@@ -1,1 +1,1 @@
-var mnemonic = "magic novel danger clock stadium effort rice act sunny trash skin local";
+var mnemonic = "phone river sample absorb obscure bubble mix pottery globe market provide box";

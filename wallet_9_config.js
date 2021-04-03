@@ -1,1 +1,1 @@
-var mnemonic = "actual hair bike small solar popular plug album man blossom shop question";
+var mnemonic = "polar web finish only visual marine tower frog few pilot limit canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "access original give dwarf invest machine daughter slogan glide news wrestle stand";
+var mnemonic = "rain motor today medal curtain foster across fog hope practice transfer bullet";

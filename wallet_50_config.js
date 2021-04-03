@@ -1,1 +1,1 @@
-var mnemonic = "bitter picture young limit physical gown insane emerge potato license retreat yard";
+var mnemonic = "man gesture oak female recycle drift length burden combine impose start invite";

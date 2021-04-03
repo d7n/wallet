@@ -1,1 +1,1 @@
-var mnemonic = "trouble base champion sick mouse envelope pretty modify impact select shrug repeat";
+var mnemonic = "desert travel web truck vintage south stand animal glow mother endless material";

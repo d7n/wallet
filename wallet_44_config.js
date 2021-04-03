@@ -1,1 +1,1 @@
-var mnemonic = "cry advice popular penalty verify cargo little bind bright review honey rather";
+var mnemonic = "subject chunk clock mansion know eagle orient pattern cupboard uncover mechanic broken";

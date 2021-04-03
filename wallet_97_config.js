@@ -1,1 +1,1 @@
-var mnemonic = "shove behave predict law recall taxi retreat carpet fabric child zoo device";
+var mnemonic = "taste father prefer student antenna tape minor chef canoe brick call hurry";

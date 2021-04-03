@@ -1,1 +1,1 @@
-var mnemonic = "bunker click sure case safe project volcano stay scorpion degree wealth pole";
+var mnemonic = "puppy add legal mansion equip bacon have ribbon better buyer sea certain";

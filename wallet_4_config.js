@@ -1,1 +1,1 @@
-var mnemonic = "ribbon volume cloud thought notable drift copy hotel gallery april convince morning";
+var mnemonic = "island stamp network fat naive chronic moral bag erosion skull sweet opinion";

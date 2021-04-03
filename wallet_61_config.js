@@ -1,1 +1,1 @@
-var mnemonic = "seek erosion planet tower easily figure day gospel art wide give high";
+var mnemonic = "stage ceiling shoot credit congress harsh prosper vendor tissue echo swap pulp";

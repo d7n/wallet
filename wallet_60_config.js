@@ -1,1 +1,1 @@
-var mnemonic = "media isolate door write clog august electric copper cool drift portion current";
+var mnemonic = "fatigue oyster enrich later rural viable search lend enable abandon odor pass";

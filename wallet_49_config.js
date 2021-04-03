@@ -1,1 +1,1 @@
-var mnemonic = "moment fan infant hotel cover easily office arrest surge spike adult staff";
+var mnemonic = "rifle green embrace task hamster merit awake beauty scissors damp tired baby";

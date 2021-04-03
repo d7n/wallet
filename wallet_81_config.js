@@ -1,1 +1,1 @@
-var mnemonic = "helmet combine dress beauty assume coconut toilet industry clay cloud boost regular";
+var mnemonic = "gesture luggage century sort sport baby olive lend road stick nest pizza";

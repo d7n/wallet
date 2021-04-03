@@ -1,1 +1,1 @@
-var mnemonic = "photo begin tuna duty focus relax episode mind hub ring child shaft";
+var mnemonic = "neutral disorder best walnut endless capital grace nasty silent struggle vital rate";

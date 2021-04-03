@@ -1,1 +1,1 @@
-var mnemonic = "clean convince party tornado advance spot water travel burden select present chaos";
+var mnemonic = "tenant youth hurry art office inch sting above enough end donor lake";

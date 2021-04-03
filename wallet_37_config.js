@@ -1,1 +1,1 @@
-var mnemonic = "yellow chimney grant oil question damp impose dog aerobic acquire library bundle";
+var mnemonic = "giant volume erosion august blame box saddle beauty enhance obscure box step";

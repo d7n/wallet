@@ -1,1 +1,1 @@
-var mnemonic = "marine lyrics viable poet solar pretty window accident position secret ethics average";
+var mnemonic = "trash tool various sense seek spy walk tiger rough deer pudding sleep";

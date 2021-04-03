@@ -1,1 +1,1 @@
-var mnemonic = "derive inch wheel tool square govern assume civil more age raccoon sense";
+var mnemonic = "task above awake run end act actor capital tuna gasp real alley";

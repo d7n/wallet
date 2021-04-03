@@ -1,1 +1,1 @@
-var mnemonic = "top hope obscure ignore improve matrix filter collect empower budget major ice";
+var mnemonic = "solid general heavy airport use angry claim canoe minute seminar peanut hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce child clip replace boil biology rifle gaze baby crew resist ugly";
+var mnemonic = "water enemy glue bomb put skate zero train nation exclude jump renew";

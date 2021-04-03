@@ -1,1 +1,1 @@
-var mnemonic = "someone tribe victory bird night surface elder moral cancel bone frozen pear";
+var mnemonic = "pave sketch keep pupil city beyond blast mind favorite swap inherit day";

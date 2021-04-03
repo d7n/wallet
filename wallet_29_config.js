@@ -1,1 +1,1 @@
-var mnemonic = "tray auto control office nuclear topple improve dignity dutch lady suit sugar";
+var mnemonic = "try few today crawl often diamond purchase provide feel ice hat cross";

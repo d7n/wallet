@@ -1,1 +1,1 @@
-var mnemonic = "focus cook merry jewel lawsuit ostrich neutral arm tired drift ahead paper";
+var mnemonic = "ice planet oyster novel jealous great ordinary bless route actress type quote";

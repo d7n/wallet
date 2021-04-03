@@ -1,1 +1,1 @@
-var mnemonic = "run true ring foam disease crystal coach never butter cool enlist weather";
+var mnemonic = "tomorrow gadget wasp hat bargain trash tree plastic review warrior oxygen cruel";

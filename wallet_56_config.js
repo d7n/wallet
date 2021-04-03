@@ -1,1 +1,1 @@
-var mnemonic = "faith reform purity express ability scan upset road kidney country gold forward";
+var mnemonic = "intact there oyster bargain protect crumble silver buyer flip huge flash false";

@@ -1,1 +1,1 @@
-var mnemonic = "spoon idle super nest noodle wrist fall tower act also vast caught";
+var mnemonic = "artist ranch swarm expect below image alone rent churn potato order rotate";

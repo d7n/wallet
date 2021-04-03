@@ -1,1 +1,1 @@
-var mnemonic = "when secret tennis claim empower wife unit cost pattern saddle sausage inch";
+var mnemonic = "decline ticket foot quality day wide reduce leg wear neither art desert";

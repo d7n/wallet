@@ -1,1 +1,1 @@
-var mnemonic = "sample duty dragon surround morning notable couple pass silly hat drill universe";
+var mnemonic = "pledge indicate desert goddess industry liar mom file convince leopard drink issue";

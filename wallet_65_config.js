@@ -1,1 +1,1 @@
-var mnemonic = "snap wrestle catalog neglect insect try name obey own finger video release";
+var mnemonic = "never upper toilet endless neck local hen despair nature power size jeans";

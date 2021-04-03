@@ -1,1 +1,1 @@
-var mnemonic = "answer face add easily execute wear giggle edit tell style rug grant";
+var mnemonic = "sauce problem injury tooth credit deer dial fire marriage defense horse infant";

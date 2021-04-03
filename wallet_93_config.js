@@ -1,1 +1,1 @@
-var mnemonic = "amused boat poverty beyond palace various inhale travel soul certain lonely giggle";
+var mnemonic = "twice group wing garden leave scene slow toward scan test vibrant indoor";

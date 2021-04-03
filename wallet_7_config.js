@@ -1,1 +1,1 @@
-var mnemonic = "unit pear affair easy story lesson drip urge rug party blossom pride";
+var mnemonic = "link inherit grief park broken doll love panel park detail can chair";

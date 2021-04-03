@@ -1,1 +1,1 @@
-var mnemonic = "thumb silk rival oyster dial future cliff flip agree warfare finger garbage";
+var mnemonic = "gather pear moment evidence cube print husband cactus achieve know sad surprise";

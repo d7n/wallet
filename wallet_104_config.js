@@ -1,1 +1,1 @@
-var mnemonic = "silk assault tape lamp blood finish citizen night buddy brass style hawk";
+var mnemonic = "snack mix sketch tissue into charge face clutch liar useful walnut term";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare foil leader worry weather invite advice remove whip dolphin motor tattoo";
+var mnemonic = "bachelor lonely ginger farm fame rug evil mad broom vote float melt";

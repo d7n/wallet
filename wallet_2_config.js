@@ -1,1 +1,1 @@
-var mnemonic = "swamp position visa member squirrel drink whale pioneer basket census tenant bird";
+var mnemonic = "happy wife hunt nuclear subject salmon tube angle peace level stage panel";
