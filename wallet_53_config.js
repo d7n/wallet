@@ -1,1 +1,1 @@
-var mnemonic = "focus kidney worth snake lesson physical jelly harbor raw matter disagree skate";
+var mnemonic = "emerge client father transfer horror lamp cloud another casino autumn canal jealous";

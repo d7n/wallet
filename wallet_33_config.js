@@ -1,1 +1,1 @@
-var mnemonic = "laugh advance enough rare guitar remind alien exact announce sign gentle man";
+var mnemonic = "young cube diagram poem april voyage box affair social carbon gain couple";

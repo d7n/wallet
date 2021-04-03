@@ -1,1 +1,1 @@
-var mnemonic = "train link fossil dawn pledge laugh wing earn fade rhythm peace meat";
+var mnemonic = "purchase mansion ketchup cup medal vault affair shallow blanket rather aspect dawn";

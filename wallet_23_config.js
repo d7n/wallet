@@ -1,1 +1,1 @@
-var mnemonic = "piece absurd hard fiscal juice access absorb fragile enrich buffalo urge crush";
+var mnemonic = "rifle mind marble soda season solve tortoise bundle age better attitude raven";

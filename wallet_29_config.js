@@ -1,1 +1,1 @@
-var mnemonic = "pony offer mixture region enough afraid twice mango giraffe guess frame bargain";
+var mnemonic = "animal humor faith unhappy genuine wheel era select galaxy bar advance symbol";

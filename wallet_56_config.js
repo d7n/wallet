@@ -1,1 +1,1 @@
-var mnemonic = "rent behind confirm age soap force warm camera code just sunny news";
+var mnemonic = "reason travel muffin banner cloth trial resist fat tumble spell business ten";

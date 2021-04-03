@@ -1,1 +1,1 @@
-var mnemonic = "attract forest wide prosper soap rubber decide honey sting stereo echo never";
+var mnemonic = "draft canal bind search mango bamboo access wish scan length search female";

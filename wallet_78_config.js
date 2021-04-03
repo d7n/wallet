@@ -1,1 +1,1 @@
-var mnemonic = "whisper fire eternal rocket cage edit raise misery slide explain wheat cricket";
+var mnemonic = "supply olive van knee lamp reform gospel stone cycle eyebrow drum swarm";

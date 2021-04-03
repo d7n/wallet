@@ -1,1 +1,1 @@
-var mnemonic = "apart pass evil quiz crystal spread exile equip token another icon own";
+var mnemonic = "whisper sick token spin fatal fork repair water lucky humor corn receive";

@@ -1,1 +1,1 @@
-var mnemonic = "permit can brisk stem blanket mango divorce distance gallery bleak loyal toss";
+var mnemonic = "have word depth inquiry spend group supreme famous clock oyster chief planet";

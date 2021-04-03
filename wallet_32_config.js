@@ -1,1 +1,1 @@
-var mnemonic = "glimpse lock bamboo example caution fury almost fossil question kit neck enforce";
+var mnemonic = "oven retire trip language weapon ask echo ginger problem size mixed tower";

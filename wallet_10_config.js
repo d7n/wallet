@@ -1,1 +1,1 @@
-var mnemonic = "fetch total vintage shallow hen immense frame panda emerge advice rate peace";
+var mnemonic = "soldier finish voyage elite gadget top peasant thunder bitter echo filter educate";

@@ -1,1 +1,1 @@
-var mnemonic = "birth wing concert disorder shield ability special shed author measure cement nest";
+var mnemonic = "april soft wedding curve affair chuckle chicken maze quiz mushroom jar hole";

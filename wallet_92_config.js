@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog attend future glad cradle alter lounge over net dinosaur twist rapid";
+var mnemonic = "toast near more busy bring wisdom proud genre leisure blouse goat mail";

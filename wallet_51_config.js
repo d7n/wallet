@@ -1,1 +1,1 @@
-var mnemonic = "panther bind song walnut trigger fever finger sustain matter depart breeze all";
+var mnemonic = "cabin undo possible horror patrol pluck subject snake crunch equal excuse project";

@@ -1,1 +1,1 @@
-var mnemonic = "know pony student pottery ordinary dawn tomorrow over strike hub olive gain";
+var mnemonic = "legal wheat season curve muscle damage base angry noble distance good obtain";

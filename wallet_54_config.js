@@ -1,1 +1,1 @@
-var mnemonic = "alien basic gauge fiction faith video iron number famous beyond eyebrow transfer";
+var mnemonic = "patrol clinic story tennis benefit super hip river alpha bid wheat miss";

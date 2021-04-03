@@ -1,1 +1,1 @@
-var mnemonic = "interest light idea erode sea alpha resemble arctic happy march oval ranch";
+var mnemonic = "stable history hero culture oak spatial imitate main step stuff engine ride";

@@ -1,1 +1,1 @@
-var mnemonic = "merge birth stumble glad rebuild antenna element exhaust what stuff ahead prevent";
+var mnemonic = "coral lawn rich debate dolphin tenant burst gaze mixture eyebrow climb often";

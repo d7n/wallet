@@ -1,1 +1,1 @@
-var mnemonic = "orphan develop project horror service april twelve rare zebra emerge sun hero";
+var mnemonic = "yellow demand improve dawn matrix sentence learn absorb source acoustic live december";

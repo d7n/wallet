@@ -1,1 +1,1 @@
-var mnemonic = "crystal olive slow chest refuse rabbit reflect cage grape review stomach pretty";
+var mnemonic = "use lady table rabbit merge doctor result spare distance report junk sponsor";

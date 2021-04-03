@@ -1,1 +1,1 @@
-var mnemonic = "play salad safe voice bicycle ankle various glare fluid badge solve clock";
+var mnemonic = "filter then trouble cabbage accident wrong suggest meat over voice bamboo approve";

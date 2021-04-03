@@ -1,1 +1,1 @@
-var mnemonic = "giraffe parade produce twenty furnace need drastic response sunny swim valve cat";
+var mnemonic = "off mean near outer carpet pledge fashion advance attract stool feature common";

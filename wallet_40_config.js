@@ -1,1 +1,1 @@
-var mnemonic = "bean unit turn gravity vendor vessel tonight govern cupboard broccoli guitar army";
+var mnemonic = "clap legend tomorrow artist frozen brisk advance evoke cabin bright check web";

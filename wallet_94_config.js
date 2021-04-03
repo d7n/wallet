@@ -1,1 +1,1 @@
-var mnemonic = "slogan cluster balcony situate cream exercise apart pyramid truth unit fly season";
+var mnemonic = "silver marble spawn asset behave labor immune magic much orange name casual";

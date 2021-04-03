@@ -1,1 +1,1 @@
-var mnemonic = "select more clutch elder stove dose era flash huge average have rubber";
+var mnemonic = "inquiry bunker empower slow arrive empower hint smooth alcohol mask chaos excite";

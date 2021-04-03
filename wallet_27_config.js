@@ -1,1 +1,1 @@
-var mnemonic = "shell property clutch slim bulk any bless mixed all staff suggest attack";
+var mnemonic = "hand glass invite syrup phone assault circle pattern truth rich swift sock";

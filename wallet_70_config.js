@@ -1,1 +1,1 @@
-var mnemonic = "visual sorry that cluster bottom page popular lunar maid lift prevent wing";
+var mnemonic = "quantum food capable party blur ring sentence child build bless conduct crater";

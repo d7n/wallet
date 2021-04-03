@@ -1,1 +1,1 @@
-var mnemonic = "cute illness nose proud coil rent segment rack swap mention radar reject";
+var mnemonic = "blast sight wood bitter uncover hip capable express asthma brave soon sponsor";

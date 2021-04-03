@@ -1,1 +1,1 @@
-var mnemonic = "daughter issue obvious ladder require match wealth reopen winter check change tent";
+var mnemonic = "october north crisp bronze chaos torch kangaroo piano vanish swap nothing gas";

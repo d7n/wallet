@@ -1,1 +1,1 @@
-var mnemonic = "battle ecology aunt lab into fold oyster version cloth index conduct engine";
+var mnemonic = "jeans cream guitar minute ridge mean praise claw cherry wrap cry embark";

@@ -1,1 +1,1 @@
-var mnemonic = "glide problem birth thumb sight hurry tell rare purchase hunt source aunt";
+var mnemonic = "invest jaguar region adult claim amazing aware liar insane marriage defense garment";

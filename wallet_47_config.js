@@ -1,1 +1,1 @@
-var mnemonic = "marine faculty wheat west hover burden mystery option consider grace caution release";
+var mnemonic = "onion quantum dentist woman hotel spray curtain half exotic seek gas immune";

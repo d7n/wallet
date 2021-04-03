@@ -1,1 +1,1 @@
-var mnemonic = "mention name business conduct brain tattoo seminar lamp talk habit ride solution";
+var mnemonic = "stereo asset punch gorilla scout trouble shield engage era silent crumble energy";

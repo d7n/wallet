@@ -1,1 +1,1 @@
-var mnemonic = "upon robust tackle birth sadness sponsor assist bachelor wrestle soup friend sport";
+var mnemonic = "plate tumble cereal wheel fetch lady fabric swallow enhance history glove slender";

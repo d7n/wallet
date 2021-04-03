@@ -1,1 +1,1 @@
-var mnemonic = "own luxury wing almost promote beauty session asthma twin gravity purchase token";
+var mnemonic = "vessel payment express visa cable journey train glimpse cave junior blush kiss";

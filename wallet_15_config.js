@@ -1,1 +1,1 @@
-var mnemonic = "park defense make parent teach fossil siren turn chaos frequent glad toss";
+var mnemonic = "echo charge thank step test collect future start blanket eye purity rally";

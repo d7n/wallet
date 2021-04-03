@@ -1,1 +1,1 @@
-var mnemonic = "enough ugly height doctor gallery film journey industry quiz visit room polar";
+var mnemonic = "crowd vital emotion collect once simple pet slam merge car defy pass";

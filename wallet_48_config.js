@@ -1,1 +1,1 @@
-var mnemonic = "relief oak face master glimpse cattle then abandon brand domain bottom isolate";
+var mnemonic = "notable material still laundry tray business water now render bullet leader author";

@@ -1,1 +1,1 @@
-var mnemonic = "recall silly quick bread rely lend idea recall plug protect eyebrow perfect";
+var mnemonic = "income wage couch alarm odor acoustic music reduce moral satoshi behave pig";

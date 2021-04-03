@@ -1,1 +1,1 @@
-var mnemonic = "fly just simple onion mutual cover stairs proof symptom sun rent tone";
+var mnemonic = "dove curve material fragile tragic special artefact thumb filter exclude guitar loop";

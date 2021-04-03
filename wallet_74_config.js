@@ -1,1 +1,1 @@
-var mnemonic = "lawn envelope play roast energy ladder hundred trade credit wine size person";
+var mnemonic = "hire lawn fragile multiply dust brand carbon repair nature true bomb quarter";

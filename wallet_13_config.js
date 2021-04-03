@@ -1,1 +1,1 @@
-var mnemonic = "garlic famous subject flight oil park rally front index only leave two";
+var mnemonic = "print sheriff tube cat grief bachelor behind goddess garage dawn fine hungry";

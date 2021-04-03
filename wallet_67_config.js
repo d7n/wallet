@@ -1,1 +1,1 @@
-var mnemonic = "chunk term patient chef express mountain smile orchard elbow rival sadness ball";
+var mnemonic = "exile throw invest attitude claw repeat display save whip pledge lock recycle";

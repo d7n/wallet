@@ -1,1 +1,1 @@
-var mnemonic = "gravity goose race orchard team quarter annual plug category remember ginger liquid";
+var mnemonic = "style solid rival buzz pistol prefer intact rocket silly middle depend lecture";

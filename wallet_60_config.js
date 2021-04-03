@@ -1,1 +1,1 @@
-var mnemonic = "turkey expand delay wedding immune million doll lunch cable peasant install crystal";
+var mnemonic = "mirror equal remind public control crop today either vehicle make elephant obey";

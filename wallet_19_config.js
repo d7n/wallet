@@ -1,1 +1,1 @@
-var mnemonic = "course humble way ski forward promote rebel offer memory blouse loan bring";
+var mnemonic = "copper unable gate rib awesome come ancient glance quit picnic mixture friend";

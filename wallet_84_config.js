@@ -1,1 +1,1 @@
-var mnemonic = "first shop shrimp holiday popular kangaroo yellow travel prevent fork tongue popular";
+var mnemonic = "pulp grain dragon agree super fan claw human tube negative wrestle merry";

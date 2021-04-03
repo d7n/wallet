@@ -1,1 +1,1 @@
-var mnemonic = "giant vivid alert wrong balance best risk divorce quit rare rain mercy";
+var mnemonic = "monkey cherry unaware speed exhibit initial police combine toddler badge hard fiction";

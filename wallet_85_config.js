@@ -1,1 +1,1 @@
-var mnemonic = "busy nasty royal hedgehog fork ride denial fatigue calm sock degree high";
+var mnemonic = "field rocket grocery example toast happy length senior exchange gold bus sugar";

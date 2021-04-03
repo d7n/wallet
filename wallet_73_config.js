@@ -1,1 +1,1 @@
-var mnemonic = "prefer party way vessel version trophy company cash noble cycle pepper trend";
+var mnemonic = "visa length island match fortune hungry human devote street slogan veteran cart";

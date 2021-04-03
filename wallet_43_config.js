@@ -1,1 +1,1 @@
-var mnemonic = "number patient bridge gauge problem keep tail ready thing truck wall liberty";
+var mnemonic = "budget human glide vibrant dinosaur under crane web subject antenna pave thrive";

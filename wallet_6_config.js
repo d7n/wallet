@@ -1,1 +1,1 @@
-var mnemonic = "clean ancient ketchup notice sentence cycle medal credit bless era table vessel";
+var mnemonic = "exercise over leisure similar skull wagon pulse manage service bright plate hedgehog";

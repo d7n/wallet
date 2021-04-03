@@ -1,1 +1,1 @@
-var mnemonic = "bike girl spring addict vapor paper match month tenant oak mammal pyramid";
+var mnemonic = "rose scrub anger gap phone certain matter limb science list aerobic below";

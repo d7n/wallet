@@ -1,1 +1,1 @@
-var mnemonic = "sing adjust lonely virus chunk candy require never guide swallow pass miracle";
+var mnemonic = "web butter gadget range clean culture loan upon lottery special donor robust";

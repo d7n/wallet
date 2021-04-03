@@ -1,1 +1,1 @@
-var mnemonic = "pool renew recycle blush ripple fringe mercy divorce meadow doctor indoor build";
+var mnemonic = "aerobic pretty rifle verb pulp clap margin stage evidence beach myself banner";

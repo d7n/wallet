@@ -1,1 +1,1 @@
-var mnemonic = "better congress broom unfold swim price program harbor lens clog lamp combine";
+var mnemonic = "omit rather vivid section venture same cat faculty next submit tenant upset";

@@ -1,1 +1,1 @@
-var mnemonic = "strong cricket penalty anger walk elegant polar choose bottom club spread shell";
+var mnemonic = "peasant share mean office volume rate actual coyote absurd embark school wonder";

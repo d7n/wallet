@@ -1,1 +1,1 @@
-var mnemonic = "super economy supply pulp often wear frequent hazard cart onion earth exchange";
+var mnemonic = "warrior drum wing rigid arrive today access huge agree tilt drop loud";

@@ -1,1 +1,1 @@
-var mnemonic = "electric used story van news give can feature arm such garlic cross";
+var mnemonic = "you poem green famous august wrestle anger sibling naive couch medal blast";

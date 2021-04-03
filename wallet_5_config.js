@@ -1,1 +1,1 @@
-var mnemonic = "credit order trumpet galaxy brave emotion habit bonus cause bargain ghost seed";
+var mnemonic = "brother veteran welcome glance later frozen nasty ghost valley lyrics depend senior";

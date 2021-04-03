@@ -1,1 +1,1 @@
-var mnemonic = "pond river bottom sick inherit outer renew panda hill mad decorate obscure";
+var mnemonic = "side shoe across rude erupt gold uphold address foster alley topic honey";

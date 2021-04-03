@@ -1,1 +1,1 @@
-var mnemonic = "clip account nominee critic upon cash nominee food economy hospital number note";
+var mnemonic = "steak cave february sample junk chimney only pyramid zero noble ride tackle";

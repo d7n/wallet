@@ -1,1 +1,1 @@
-var mnemonic = "story razor bean cart hungry digital quality lava vault father roof fence";
+var mnemonic = "net carpet twin measure bar bargain volume pumpkin envelope question purpose bitter";

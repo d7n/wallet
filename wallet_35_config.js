@@ -1,1 +1,1 @@
-var mnemonic = "yard iron sauce rebel success suggest cinnamon trumpet upgrade door protect river";
+var mnemonic = "armor puppy toward fatigue unknown fabric utility bulk notice rack foot coffee";

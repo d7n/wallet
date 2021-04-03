@@ -1,1 +1,1 @@
-var mnemonic = "deliver target idle sword birth hedgehog corn dust eight rely smile squeeze";
+var mnemonic = "expand aim minor inside above already until race calm hurry account acoustic";

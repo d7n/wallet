@@ -1,1 +1,1 @@
-var mnemonic = "young exercise raven social search leopard bread opinion always charge truly more";
+var mnemonic = "river void elbow enroll crew onion chest vessel glow liberty false sea";

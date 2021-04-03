@@ -1,1 +1,1 @@
-var mnemonic = "bachelor old suit grit setup receive aware embrace early resemble essence country";
+var mnemonic = "lunar paper shine seat leader keen volume liberty embark chef answer clump";

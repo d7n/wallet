@@ -1,1 +1,1 @@
-var mnemonic = "crash pear knife cherry human armor amount reason wreck industry avoid large";
+var mnemonic = "solid curious west parent raise mean outdoor unhappy engage father name wheel";

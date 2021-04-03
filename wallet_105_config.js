@@ -1,1 +1,1 @@
-var mnemonic = "gesture across chief goddess flash civil game citizen control rose tiny broom";
+var mnemonic = "rhythm usage neither common cloth balance purpose shrug ranch broom main purse";

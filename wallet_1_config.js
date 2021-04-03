@@ -1,1 +1,1 @@
-var mnemonic = "drive icon always enact plastic usual afraid reject swarm exchange hat pond";
+var mnemonic = "library flame gasp group enemy dumb pioneer praise powder lady usage hover";

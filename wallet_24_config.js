@@ -1,1 +1,1 @@
-var mnemonic = "mango worry diesel cloth arrange clown mammal panther aim gossip hollow smart";
+var mnemonic = "roof exhaust ice process cigar fashion dose depart staff vivid shop valve";

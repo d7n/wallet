@@ -1,1 +1,1 @@
-var mnemonic = "guide drip protect example lumber minute stable seek eternal venue coyote purpose";
+var mnemonic = "matrix arch speak one curve disorder level must various lab garage erode";

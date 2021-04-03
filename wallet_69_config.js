@@ -1,1 +1,1 @@
-var mnemonic = "kitten crack mixture long ship garment marriage lecture friend angle govern steel";
+var mnemonic = "apology insane myself sponsor night night slender sick runway twenty evoke long";

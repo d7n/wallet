@@ -1,1 +1,1 @@
-var mnemonic = "gym focus helmet balance process strike park spare curious syrup useful moment";
+var mnemonic = "swear crop upset scrub venue aspect change trap upgrade atom deny start";

@@ -1,1 +1,1 @@
-var mnemonic = "demise boost boss isolate glide build thing inform deny access rigid uniform";
+var mnemonic = "exclude skull combine coast venue solution list face delay cart trip express";

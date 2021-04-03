@@ -1,1 +1,1 @@
-var mnemonic = "leaf yellow profit nice fruit armed pulse limb history industry cancel stand";
+var mnemonic = "radar plate donor exist ceiling you grocery diet arrest bounce average magic";

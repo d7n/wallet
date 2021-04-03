@@ -1,1 +1,1 @@
-var mnemonic = "bunker sugar lecture brain solution cattle method cheap unit kangaroo today copper";
+var mnemonic = "rely pipe aerobic elite decade bronze tourist help runway plate absurd angry";

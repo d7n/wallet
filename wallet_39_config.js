@@ -1,1 +1,1 @@
-var mnemonic = "waste pond address adapt click bunker loyal banana truly venture above unlock";
+var mnemonic = "must wave betray walnut planet utility artwork wolf success wish shell toast";

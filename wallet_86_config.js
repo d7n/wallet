@@ -1,1 +1,1 @@
-var mnemonic = "visit surprise snack toy allow pitch put inch talk kick else sunset";
+var mnemonic = "hour achieve awesome pill outer shine pass result try call return jewel";

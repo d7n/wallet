@@ -1,1 +1,1 @@
-var mnemonic = "zebra search spawn avoid wall poet stick swear pear bright beach height";
+var mnemonic = "cliff text drip exact erase luggage arrive broken juice sick coffee tip";

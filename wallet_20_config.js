@@ -1,1 +1,1 @@
-var mnemonic = "fresh skin bicycle magnet symbol bacon shoe size pretty payment wise melt";
+var mnemonic = "budget strong inflict live swift alpha clinic zero illness achieve sad able";

@@ -1,1 +1,1 @@
-var mnemonic = "title room mountain chuckle adapt start tortoise faith camp river include hybrid";
+var mnemonic = "moon expose slam equip flag olympic stock fruit worry own find ostrich";

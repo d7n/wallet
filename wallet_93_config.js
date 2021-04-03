@@ -1,1 +1,1 @@
-var mnemonic = "siren lottery smile next palace digital gate tortoise ketchup element jeans marriage";
+var mnemonic = "goddess auction slender idea immune runway echo main silent hobby armor engine";

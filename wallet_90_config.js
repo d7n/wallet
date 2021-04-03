@@ -1,1 +1,1 @@
-var mnemonic = "injury door toward wear pet bargain escape pet acid office unhappy cereal";
+var mnemonic = "find swim news engine soccer broom mouse fun goose diamond snap page";

@@ -1,1 +1,1 @@
-var mnemonic = "unit one predict slice manage spot other thumb float jelly spawn solution";
+var mnemonic = "smart rate hollow decorate garlic artwork afford home success hello vote alley";
