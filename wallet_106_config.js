@@ -1,1 +1,1 @@
-var mnemonic = "wash volume amateur slogan rescue midnight test seven razor wedding wave dentist";
+var mnemonic = "clinic between laugh improve auto kiss autumn attract chapter suffer rather dolphin";

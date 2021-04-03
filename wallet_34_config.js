@@ -1,1 +1,1 @@
-var mnemonic = "burden barely rural give purpose lava few allow gather future issue service";
+var mnemonic = "hazard language palace tray able swift oblige library still city flock behind";

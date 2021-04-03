@@ -1,1 +1,1 @@
-var mnemonic = "essay sketch ill spice essence flee equip diagram organ wing liar lecture";
+var mnemonic = "stool bonus mule early hen globe stove net record ginger reason abstract";

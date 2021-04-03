@@ -1,1 +1,1 @@
-var mnemonic = "angle mistake tray frequent harsh claw scorpion wage dad dilemma ceiling virtual";
+var mnemonic = "endorse grid game blast feel pass shell social pitch rent ginger farm";

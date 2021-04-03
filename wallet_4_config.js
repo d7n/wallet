@@ -1,1 +1,1 @@
-var mnemonic = "debate rapid open leg frame click seat parrot enough best shop anxiety";
+var mnemonic = "trumpet news blanket mix tortoise hard hello question student innocent wisdom dust";

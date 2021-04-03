@@ -1,1 +1,1 @@
-var mnemonic = "grass outdoor wealth staff child crime upper ask tide empty rocket simple";
+var mnemonic = "vessel hope cotton arctic book immune domain echo amateur castle stone link";

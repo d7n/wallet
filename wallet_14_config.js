@@ -1,1 +1,1 @@
-var mnemonic = "alert suffer direct vehicle patrol indoor frame come people call nose nephew";
+var mnemonic = "step young hobby gate assume keen where fragile galaxy where blouse turkey";

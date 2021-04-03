@@ -1,1 +1,1 @@
-var mnemonic = "above normal earth easy diagram few thought garbage cabin term absent shop";
+var mnemonic = "holiday tape glass estate famous round cruise skirt rather vault harvest put";

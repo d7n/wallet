@@ -1,1 +1,1 @@
-var mnemonic = "nest father absorb cube useless divide congress slab sure stadium solve paper";
+var mnemonic = "permit insane dolphin quality punch cruel captain before congress canoe fruit vintage";

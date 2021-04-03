@@ -1,1 +1,1 @@
-var mnemonic = "trial avocado guilt ignore tent present orphan garlic amazing brave skill spell";
+var mnemonic = "final tribe wagon fruit style silent rapid video envelope walk explain endorse";

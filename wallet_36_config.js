@@ -1,1 +1,1 @@
-var mnemonic = "offer wrestle south hobby course gap always fruit collect until color flip";
+var mnemonic = "figure host cluster pupil crime syrup secret clump private flee squirrel scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday maximum tiny arm rely deposit kangaroo outside crucial general obey maid";
+var mnemonic = "galaxy ethics dentist remove fox draw clean render weapon gasp boy method";

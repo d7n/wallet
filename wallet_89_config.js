@@ -1,1 +1,1 @@
-var mnemonic = "betray wrong hope sick rotate fame great art smooth decade meadow scorpion";
+var mnemonic = "diagram base sheriff champion sniff west script main security autumn before chimney";

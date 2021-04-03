@@ -1,1 +1,1 @@
-var mnemonic = "spoon tray joy body vintage later apology drip loud spend canyon asset";
+var mnemonic = "snack absent online local catalog balcony toddler edit radar tired alert also";

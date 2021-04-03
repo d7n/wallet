@@ -1,1 +1,1 @@
-var mnemonic = "whip fog scare view suggest ordinary recall renew leg orchard sword blouse";
+var mnemonic = "sea exhibit consider joke bundle nice seminar bargain business swift able romance";

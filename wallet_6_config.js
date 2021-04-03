@@ -1,1 +1,1 @@
-var mnemonic = "dash banana ball expire kit manage salt lecture enable license aunt mention";
+var mnemonic = "then token notice traffic ridge off mirror layer song grape fever foam";

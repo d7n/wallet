@@ -1,1 +1,1 @@
-var mnemonic = "crack mystery ramp museum book gallery energy visit coast energy family below";
+var mnemonic = "balcony champion index scorpion stem during dignity journey car label hat clap";

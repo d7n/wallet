@@ -1,1 +1,1 @@
-var mnemonic = "circle maid total tent direct slab topic ring pizza embrace oil song";
+var mnemonic = "grief lizard drastic wide clerk shoulder drastic trick shoulder until maximum raccoon";

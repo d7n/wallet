@@ -1,1 +1,1 @@
-var mnemonic = "limb scale clay marble paddle reunion peace tooth document wild celery gallery";
+var mnemonic = "multiply pet negative fashion much stove split tired album sight cat grief";

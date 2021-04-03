@@ -1,1 +1,1 @@
-var mnemonic = "envelope ten develop camera snap pet wing lens reject between struggle pony";
+var mnemonic = "ankle evoke milk job brown differ remove squeeze cloth brass interest elder";

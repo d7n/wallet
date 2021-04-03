@@ -1,1 +1,1 @@
-var mnemonic = "club strong stove video sibling adjust major age area month cram ladder";
+var mnemonic = "clean street floor reason bracket defy federal distance cannon tip agent retire";

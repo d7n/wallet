@@ -1,1 +1,1 @@
-var mnemonic = "bring coconut mad critic soft horse east tent drastic minor neck canyon";
+var mnemonic = "accident famous false degree can weird priority evolve prosper onion mesh celery";

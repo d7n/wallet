@@ -1,1 +1,1 @@
-var mnemonic = "tiny orange tortoise gown guess direct cool blood huge bundle clerk kidney";
+var mnemonic = "perfect deliver suffer spring alone lion curtain rhythm endless reward join wet";

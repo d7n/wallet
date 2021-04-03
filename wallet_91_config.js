@@ -1,1 +1,1 @@
-var mnemonic = "repeat bullet light category reveal lake music humble miracle motor tower cash";
+var mnemonic = "iron fish keep usage soccer garlic square double key maximum sand trophy";

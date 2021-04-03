@@ -1,1 +1,1 @@
-var mnemonic = "giant when thrive install arrow flip mind income blanket thumb robot venue";
+var mnemonic = "hockey neutral mixed pet document derive used tortoise galaxy spawn multiply battle";

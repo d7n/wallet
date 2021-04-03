@@ -1,1 +1,1 @@
-var mnemonic = "display trumpet draft voyage dune struggle kitten orient unaware dial cost you";
+var mnemonic = "blush autumn input perfect unique green adapt orange history gun current illegal";

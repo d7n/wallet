@@ -1,1 +1,1 @@
-var mnemonic = "rocket ceiling point frequent pulse mother truly cricket gown grant mandate farm";
+var mnemonic = "chunk type garlic moment spoon uniform unveil fitness service script hidden axis";

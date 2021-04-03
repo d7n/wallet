@@ -1,1 +1,1 @@
-var mnemonic = "work saddle title absurd miracle marriage cross stamp arch shrimp soul effort";
+var mnemonic = "drastic few sure novel oyster trip captain remind farm gas crash rookie";

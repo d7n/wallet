@@ -1,1 +1,1 @@
-var mnemonic = "unaware gravity ritual accuse airport buyer tobacco inject zero slight country surround";
+var mnemonic = "silent team young among identify toward palace trip upon gather zebra abuse";

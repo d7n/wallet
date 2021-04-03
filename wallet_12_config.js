@@ -1,1 +1,1 @@
-var mnemonic = "purity merit bonus mechanic empty model empty harsh bacon clump speak dizzy";
+var mnemonic = "outside oyster cannon notice lady essay magic grit mushroom picture action ecology";

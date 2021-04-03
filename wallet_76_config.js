@@ -1,1 +1,1 @@
-var mnemonic = "proof sign jeans volume phone neither toddler tourist whale harbor raccoon hope";
+var mnemonic = "topple census tortoise stamp eight nerve suggest shift regular wheat device december";

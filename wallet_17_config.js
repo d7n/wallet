@@ -1,1 +1,1 @@
-var mnemonic = "over pink leg quantum wrestle laugh post length dune practice august alter";
+var mnemonic = "response mesh permit clay advance wasp torch subway path invite tenant bunker";

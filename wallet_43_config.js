@@ -1,1 +1,1 @@
-var mnemonic = "kitten drip muscle artist pig jar announce state lift noodle sketch gravity";
+var mnemonic = "win sail rough moment laundry angle scan planet float island waste develop";

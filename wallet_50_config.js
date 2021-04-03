@@ -1,1 +1,1 @@
-var mnemonic = "prosper soup payment aim fine group trick bomb illness echo topic dutch";
+var mnemonic = "solar hunt column lion link lawn attend mountain present nephew degree occur";

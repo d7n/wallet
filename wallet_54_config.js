@@ -1,1 +1,1 @@
-var mnemonic = "embody blue normal stomach swarm evidence salad gold lady broom deputy over";
+var mnemonic = "craft labor grit emerge diesel color dune chimney occur puzzle novel glare";

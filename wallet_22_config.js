@@ -1,1 +1,1 @@
-var mnemonic = "bulk example intact room mail comic disease color token glare famous trumpet";
+var mnemonic = "picnic hazard rebuild vapor where spot cigar party solution famous similar end";

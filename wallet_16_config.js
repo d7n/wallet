@@ -1,1 +1,1 @@
-var mnemonic = "drip globe foot hollow assist dirt witness shoulder dawn arrow long spice";
+var mnemonic = "wish wrap spatial dose pig member fork oxygen ahead page collect message";

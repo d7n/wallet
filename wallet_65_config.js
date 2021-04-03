@@ -1,1 +1,1 @@
-var mnemonic = "ancient quality cross thought nasty uncover saddle love liberty vicious dream deer";
+var mnemonic = "puppy capable pioneer online meat focus nothing raw define armed drop yard";

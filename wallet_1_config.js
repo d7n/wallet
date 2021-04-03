@@ -1,1 +1,1 @@
-var mnemonic = "fiction decade scare recall solution actor expire squeeze replace age slow solution";
+var mnemonic = "lonely ridge abandon beach various off hope review affair deliver bike verify";

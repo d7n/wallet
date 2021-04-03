@@ -1,1 +1,1 @@
-var mnemonic = "funny flush enemy laundry report rotate apology broken struggle biology dove portion";
+var mnemonic = "drill sing narrow permit duck parade ship fancy quarter trumpet budget alarm";

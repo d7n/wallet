@@ -1,1 +1,1 @@
-var mnemonic = "taste sound pistol hungry behave ignore subject bean cash pudding order power";
+var mnemonic = "name syrup country property lunch theme open moon robust net tail rude";

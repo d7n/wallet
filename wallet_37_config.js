@@ -1,1 +1,1 @@
-var mnemonic = "blouse mesh glad save meadow kick review month uphold seek aerobic innocent";
+var mnemonic = "excess galaxy left legal series easy abandon kite dose lawn light box";

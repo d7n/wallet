@@ -1,1 +1,1 @@
-var mnemonic = "raise dust wage salad crew enough kidney dilemma add dust weather slush";
+var mnemonic = "about regular buyer ahead oyster honey crash good fringe drive can rent";

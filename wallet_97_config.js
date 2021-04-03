@@ -1,1 +1,1 @@
-var mnemonic = "toss general race win book walk glove remind lend toe hair soul";
+var mnemonic = "siren dinner unknown carpet else video spirit squirrel myth twelve boat naive";

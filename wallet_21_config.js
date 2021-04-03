@@ -1,1 +1,1 @@
-var mnemonic = "rebel doll modify obvious science organ nice infant guitar snack answer erode";
+var mnemonic = "slogan there broom increase donor hawk license diesel practice evoke pottery enough";

@@ -1,1 +1,1 @@
-var mnemonic = "throw bulk sorry ignore online increase merry cruel hub solid into shy";
+var mnemonic = "someone city cotton quality enrich trend share absurd cost boring desk dragon";

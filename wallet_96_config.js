@@ -1,1 +1,1 @@
-var mnemonic = "until strong observe make opera cake control ketchup jazz upon skull cannon";
+var mnemonic = "dismiss drastic head parrot bag among wonder warfare emerge business solid season";

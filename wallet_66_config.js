@@ -1,1 +1,1 @@
-var mnemonic = "decide leader fine century hand gauge castle quiz series agree forward know";
+var mnemonic = "rotate silver doll extra insect foam glass trigger boring infant uncle talk";

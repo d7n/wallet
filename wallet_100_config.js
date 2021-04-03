@@ -1,1 +1,1 @@
-var mnemonic = "forward cheese carry spy time only defense access village road flock wine";
+var mnemonic = "eight poverty limit focus subway ready public female ignore awake kiwi siren";

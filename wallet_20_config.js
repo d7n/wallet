@@ -1,1 +1,1 @@
-var mnemonic = "bacon health sight matter surface track cinnamon run smoke human merry scrap";
+var mnemonic = "gauge green crop clump repeat output myth hope barely tuition harsh toss";

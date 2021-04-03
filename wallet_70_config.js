@@ -1,1 +1,1 @@
-var mnemonic = "visual coin kangaroo save inch device office stadium then cable three law";
+var mnemonic = "legend text illegal shift evolve canoe unit ocean toe jazz embrace night";

@@ -1,1 +1,1 @@
-var mnemonic = "skull recycle case ticket blame crowd gadget climb guilt laptop lesson convince";
+var mnemonic = "rebuild tilt future purchase ask beach tissue elbow cable jewel young couch";

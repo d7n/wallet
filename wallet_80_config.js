@@ -1,1 +1,1 @@
-var mnemonic = "bone decorate oblige orphan force regret arrow grocery funny motor road sibling";
+var mnemonic = "layer bird holiday offer pull solar december enable arm sweet dad couple";

@@ -1,1 +1,1 @@
-var mnemonic = "cream kingdom indoor notable public clump health silver alarm very juice trade";
+var mnemonic = "still undo slice sugar iron sense snack choose detect gorilla orient ecology";

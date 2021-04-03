@@ -1,1 +1,1 @@
-var mnemonic = "all uniform seed rice grow gap aunt chief path sight shoot combine";
+var mnemonic = "forum face rival name shield gift assume magic table extend wool sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "estate ancient dash balcony word ramp public orient museum nest leisure spatial";
+var mnemonic = "shy bitter hello monkey chuckle mystery near anger anxiety glow employ trumpet";

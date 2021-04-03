@@ -1,1 +1,1 @@
-var mnemonic = "tool rain venue hover start first cool member furnace slice march loyal";
+var mnemonic = "guard drastic canyon slow diamond avocado yard wire clutch census invite february";

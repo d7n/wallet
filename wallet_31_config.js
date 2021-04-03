@@ -1,1 +1,1 @@
-var mnemonic = "ten six impact reform lady hurdle miss argue tunnel common shadow accident";
+var mnemonic = "actor wash empty rail buzz wife luxury mule hello cake glass immune";

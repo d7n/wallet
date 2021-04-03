@@ -1,1 +1,1 @@
-var mnemonic = "pet slush ice act rather infant edge you sunny giggle lobster kangaroo";
+var mnemonic = "comfort price lyrics slam demise violin problem affair youth scare sight iron";

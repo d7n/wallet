@@ -1,1 +1,1 @@
-var mnemonic = "skirt pistol balance august edge enough alpha supply script afford cactus radio";
+var mnemonic = "urge unfold afford then toy bunker myth recall shine steak notable local";

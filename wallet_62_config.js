@@ -1,1 +1,1 @@
-var mnemonic = "fame find replace huge behind opera design float jelly lobster cereal salmon";
+var mnemonic = "library pattern rug verb supreme ginger engine supply sound onion scale arena";

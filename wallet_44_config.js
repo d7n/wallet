@@ -1,1 +1,1 @@
-var mnemonic = "yellow romance village adapt gospel oyster album work tiger month twelve own";
+var mnemonic = "chronic interest result happy father crash lawsuit ladder picnic liberty way cost";

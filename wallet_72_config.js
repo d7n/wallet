@@ -1,1 +1,1 @@
-var mnemonic = "silver machine canal tell bring zoo path leisure tenant toilet auction zone";
+var mnemonic = "eagle test glimpse purity lamp poverty canal mixture wheat erase add arrange";

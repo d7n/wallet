@@ -1,1 +1,1 @@
-var mnemonic = "invest side stone dash million finish stick uncover deputy portion leisure rally";
+var mnemonic = "worry inquiry habit drama level soldier silk cotton camp together pottery syrup";

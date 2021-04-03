@@ -1,1 +1,1 @@
-var mnemonic = "fossil candy avoid piece pond frown unfold shop nurse seat network sail";
+var mnemonic = "obscure language merry morning siren letter castle north good twenty other garlic";

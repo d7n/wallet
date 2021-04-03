@@ -1,1 +1,1 @@
-var mnemonic = "rotate notable monitor web belt crazy merge december inspire horror suffer trash";
+var mnemonic = "moment hope describe casino coyote cart mammal nut oblige wasp palm profit";

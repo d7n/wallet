@@ -1,1 +1,1 @@
-var mnemonic = "bean sausage evidence wolf impose never weasel crawl bike runway suit sweet";
+var mnemonic = "liar theme grant myth auto waste tube gold force fossil flight example";

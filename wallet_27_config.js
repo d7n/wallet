@@ -1,1 +1,1 @@
-var mnemonic = "use note potato manual minor champion dragon birth brave calm simple defense";
+var mnemonic = "spike burger shrimp onion ramp thank news harsh arrow useful exit reduce";

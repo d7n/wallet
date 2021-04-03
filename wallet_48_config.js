@@ -1,1 +1,1 @@
-var mnemonic = "cute coconut gallery plastic sock total height photo shield phrase ladder link";
+var mnemonic = "maze man since debate match arch sunny select joy fire favorite police";

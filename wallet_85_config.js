@@ -1,1 +1,1 @@
-var mnemonic = "cycle derive atom reward despair awesome tag royal decline uncle menu shoe";
+var mnemonic = "best oak gate bus rabbit mother oblige differ usage pear inside vendor";

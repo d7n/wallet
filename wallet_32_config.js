@@ -1,1 +1,1 @@
-var mnemonic = "position anxiety sugar act humble crazy laundry roof camera switch humble battle";
+var mnemonic = "intact expire drill recycle provide mechanic arrow wet toddler enemy gather reduce";

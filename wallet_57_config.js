@@ -1,1 +1,1 @@
-var mnemonic = "pipe flee danger language skill exhaust tag urban toilet scatter shaft busy";
+var mnemonic = "jaguar vocal catalog legal fury tooth town birth parade orchard demand result";

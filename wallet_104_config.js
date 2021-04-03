@@ -1,1 +1,1 @@
-var mnemonic = "fee drum drum evidence laundry copper beef punch young blue crater valley";
+var mnemonic = "slush room paddle exhibit element dish retreat price heavy correct combine master";

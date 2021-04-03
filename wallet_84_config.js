@@ -1,1 +1,1 @@
-var mnemonic = "cruise favorite raise step tooth similar zone improve edge lunar ocean almost";
+var mnemonic = "gate trumpet tonight eagle favorite image trust jazz sign miracle carbon machine";

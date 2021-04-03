@@ -1,1 +1,1 @@
-var mnemonic = "animal apart fancy false flee drift awful beef better talent tragic uncover";
+var mnemonic = "pole truly edge easy rocket evoke hand field cliff upgrade coast original";

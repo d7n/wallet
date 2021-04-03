@@ -1,1 +1,1 @@
-var mnemonic = "bargain polar attend intact endless trade royal laptop science acoustic father volcano";
+var mnemonic = "river coconut lake nasty area tonight burst supreme nuclear pride security round";

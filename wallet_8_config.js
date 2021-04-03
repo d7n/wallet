@@ -1,1 +1,1 @@
-var mnemonic = "tower eager trick habit frog museum faint enjoy skate canyon object moral";
+var mnemonic = "moon pill cook enforce endorse juice calm cause guide include undo such";

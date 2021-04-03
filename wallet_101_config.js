@@ -1,1 +1,1 @@
-var mnemonic = "angle entry fame cluster inch talent wet link current orbit alone staff";
+var mnemonic = "become misery boy mixed tourist size buffalo fan entry shock desk domain";

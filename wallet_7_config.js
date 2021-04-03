@@ -1,1 +1,1 @@
-var mnemonic = "circle pole dismiss ensure strategy photo color voyage evil wood armed aunt";
+var mnemonic = "time online elegant together library grocery guard music elder case live flock";

@@ -1,1 +1,1 @@
-var mnemonic = "shove junk jacket trick glove season habit brown extend tooth hazard task";
+var mnemonic = "slow dolphin gather dust profit thank shrimp innocent page actual spy derive";

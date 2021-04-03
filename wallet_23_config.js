@@ -1,1 +1,1 @@
-var mnemonic = "parade ceiling wool inquiry agent nerve argue iron solve coffee tower car";
+var mnemonic = "cable brisk unlock arena degree river hard raw blue same flame warm";

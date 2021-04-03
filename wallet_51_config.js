@@ -1,1 +1,1 @@
-var mnemonic = "address swift desert rabbit duck vicious denial purity blouse dynamic picture promote";
+var mnemonic = "sun april silver rose surface try first mercy differ motion infant forest";

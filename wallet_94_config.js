@@ -1,1 +1,1 @@
-var mnemonic = "judge upper category cushion ship noise below second trade project giggle foil";
+var mnemonic = "segment husband raccoon bind caution sting shift dentist cook cotton desert sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "raise easily melt skull damp language sudden task hedgehog famous merry absurd";
+var mnemonic = "above century seminar candy silent issue source siren marble comfort column glimpse";

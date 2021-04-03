@@ -1,1 +1,1 @@
-var mnemonic = "evil answer april abstract test small friend industry expose sort blast teach";
+var mnemonic = "easy happy mirror wise left brand page cupboard gloom smart carpet balance";

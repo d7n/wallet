@@ -1,1 +1,1 @@
-var mnemonic = "monster frame kangaroo alone tool green obvious midnight exhaust conduct fluid twelve";
+var mnemonic = "shoot mutual tumble oval liar grab know video churn blind execute grit";

@@ -1,1 +1,1 @@
-var mnemonic = "second stamp hand punch clock suggest flock magnet prosper conduct security cotton";
+var mnemonic = "behave stool grunt soft receive inch daughter portion disagree pony climb car";

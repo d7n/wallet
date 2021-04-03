@@ -1,1 +1,1 @@
-var mnemonic = "club foster business claw divorce circle leisure quality sibling giant urge secret";
+var mnemonic = "quick broom urge cupboard drama shoulder aware urban type elegant empty collect";

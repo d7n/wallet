@@ -1,1 +1,1 @@
-var mnemonic = "rely spring cousin dumb middle artist phone eternal swear combine smile innocent";
+var mnemonic = "earn worth impose life echo what argue able curtain mutual square two";

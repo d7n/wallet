@@ -1,1 +1,1 @@
-var mnemonic = "feed call bicycle vapor feel pledge quality venture copper fever net suspect";
+var mnemonic = "online quality merry pear peanut palm agent wait embody artist absent arch";

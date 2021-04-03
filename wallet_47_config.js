@@ -1,1 +1,1 @@
-var mnemonic = "suit victory coffee near cash credit blue baby wife miss budget spike";
+var mnemonic = "stomach decade pyramid tumble wife summer ordinary supreme dove sure candy love";
