@@ -1,1 +1,1 @@
-var mnemonic = "betray hedgehog ostrich casino void gadget sure disorder apart owner vague duty";
+var mnemonic = "ozone scare matter eye bid rural pioneer upset prosper swim tide august";

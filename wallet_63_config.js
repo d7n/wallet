@@ -1,1 +1,1 @@
-var mnemonic = "amused travel canal grief van egg number dumb simple jungle rose heart";
+var mnemonic = "addict auction egg secret bike exhaust cube peasant surge winter consider pumpkin";

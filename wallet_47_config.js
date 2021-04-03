@@ -1,1 +1,1 @@
-var mnemonic = "save nominee lunar artist car album axis mention sibling match lonely prevent";
+var mnemonic = "between dog much witness coast success erode dizzy glove rack punch vivid";

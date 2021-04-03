@@ -1,1 +1,1 @@
-var mnemonic = "fade village rich extra state fruit huge book can toy palm federal";
+var mnemonic = "captain assault blossom surround soldier pattern buffalo bulk dumb among force visual";

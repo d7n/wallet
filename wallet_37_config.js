@@ -1,1 +1,1 @@
-var mnemonic = "hold symptom dad often birth flush feature pact regular amateur maze avoid";
+var mnemonic = "order monitor top actress exchange man rigid trouble song into embrace engine";

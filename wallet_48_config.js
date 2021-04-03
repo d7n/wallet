@@ -1,1 +1,1 @@
-var mnemonic = "under hidden consider chimney few move matrix segment match bean garlic mean";
+var mnemonic = "cherry jelly brother candy own bundle basic know spray casual vendor grass";

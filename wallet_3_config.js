@@ -1,1 +1,1 @@
-var mnemonic = "security direct matrix elbow sock burst supply immense reform wage stamp diary";
+var mnemonic = "modify force cram rough enter crop moral exotic faint weekend flavor fit";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond sort pet click follow thumb imitate poverty venue phrase like switch";
+var mnemonic = "any bacon buddy genius hill walk spot process dice battle aspect shaft";

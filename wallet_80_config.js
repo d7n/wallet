@@ -1,1 +1,1 @@
-var mnemonic = "erase deliver main provide jungle palace solve safe foam neither left weekend";
+var mnemonic = "portion master aware orange stairs rapid rough abandon whip material celery neutral";

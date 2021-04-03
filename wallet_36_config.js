@@ -1,1 +1,1 @@
-var mnemonic = "position ivory zoo patrol flock pond thank camp cover sheriff bring aunt";
+var mnemonic = "immense tonight trial tortoise symbol much glove brother cycle cigar tattoo world";

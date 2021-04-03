@@ -1,1 +1,1 @@
-var mnemonic = "march shop style salute frost today logic huge seven opera tail siege";
+var mnemonic = "patient phrase endorse option sudden stick medal start mammal oven satisfy used";

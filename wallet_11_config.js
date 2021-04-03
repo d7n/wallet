@@ -1,1 +1,1 @@
-var mnemonic = "pistol story faculty motor receive tool better yellow copper reject phone good";
+var mnemonic = "machine book gift inside iron domain must camera raw sand clay heart";

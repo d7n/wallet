@@ -1,1 +1,1 @@
-var mnemonic = "estate involve club busy use knife image funny treat satoshi always divert";
+var mnemonic = "excess school lumber because ordinary mystery unhappy apple arrive gain write shield";

@@ -1,1 +1,1 @@
-var mnemonic = "slam utility wrong hand beyond police fabric cost fabric shove into skirt";
+var mnemonic = "aware dust glory brown hat pen spoon drama truly climb festival rule";

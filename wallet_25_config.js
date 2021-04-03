@@ -1,1 +1,1 @@
-var mnemonic = "pattern lawsuit reunion ethics essay hobby cream rate approve end gloom bus";
+var mnemonic = "view indoor method pigeon various average camp negative sea earth rule wild";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb special empower lawn copper base such bottom polar crop vocal obtain";
+var mnemonic = "eagle toss begin acid pear planet ritual waste manual dinosaur salute modify";

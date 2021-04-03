@@ -1,1 +1,1 @@
-var mnemonic = "arch champion pair lesson south final sudden bamboo prize mass satisfy average";
+var mnemonic = "silly target inflict peasant purse obey nature hour final token sand piano";

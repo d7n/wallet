@@ -1,1 +1,1 @@
-var mnemonic = "plunge reopen million fever sleep manual already jacket pitch split have live";
+var mnemonic = "attend robust breeze panda item auction sample grain defense slender spring message";

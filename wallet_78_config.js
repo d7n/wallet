@@ -1,1 +1,1 @@
-var mnemonic = "prevent scatter witness camera tank amused april strong toilet alone usual stomach";
+var mnemonic = "pool weekend derive crisp awkward wheat bind shop detect tackle spike will";

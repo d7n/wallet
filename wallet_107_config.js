@@ -1,1 +1,1 @@
-var mnemonic = "fury soap mixed review discover kite enable still antique hammer defy goose";
+var mnemonic = "riot hello little crouch silent shallow enroll guess badge turkey simple wash";

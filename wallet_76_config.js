@@ -1,1 +1,1 @@
-var mnemonic = "rubber blame illness survey deputy air region myself famous frame flee program";
+var mnemonic = "universe salmon snack danger affair awkward apple year increase never side debate";

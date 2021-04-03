@@ -1,1 +1,1 @@
-var mnemonic = "voyage runway million tennis frame pink shock pink olive swear scene must";
+var mnemonic = "degree round badge void region prize very exercise silent all spice jazz";

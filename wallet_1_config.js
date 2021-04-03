@@ -1,1 +1,1 @@
-var mnemonic = "always echo hybrid donate battle caution cattle civil coral camera success puppy";
+var mnemonic = "now staff best network achieve idea title home boring merge bread way";

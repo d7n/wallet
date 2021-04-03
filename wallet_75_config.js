@@ -1,1 +1,1 @@
-var mnemonic = "virus hungry bless dinosaur submit brass color rare gospel vacuum sweet snake";
+var mnemonic = "master sound fortune apple remain color napkin immune vessel tiger fire faith";

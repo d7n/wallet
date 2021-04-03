@@ -1,1 +1,1 @@
-var mnemonic = "fall dentist negative faculty room song knife fringe amount actor uncover glass";
+var mnemonic = "lava result that until goddess siege recipe bargain response drastic remain lock";

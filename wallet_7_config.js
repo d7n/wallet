@@ -1,1 +1,1 @@
-var mnemonic = "cart episode nephew plug barely force toy sound muscle pave oval hundred";
+var mnemonic = "scorpion sausage keen spell mouse want trap crouch wrong right sadness design";

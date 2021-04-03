@@ -1,1 +1,1 @@
-var mnemonic = "oval pen spot thumb hour fat admit injury boring blur illness token";
+var mnemonic = "warm wear win airport spike model hill web rural flash couch asthma";

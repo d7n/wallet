@@ -1,1 +1,1 @@
-var mnemonic = "crisp senior swallow true height raccoon window era industry again armed nice";
+var mnemonic = "minor decorate ozone frame reform share bundle fish goose brick eagle flavor";

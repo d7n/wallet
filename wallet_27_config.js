@@ -1,1 +1,1 @@
-var mnemonic = "pig marine surface squeeze current assist patch gentle ahead wheat sock select";
+var mnemonic = "pig praise general piece embrace slab frost swift stadium silver squirrel poverty";

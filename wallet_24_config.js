@@ -1,1 +1,1 @@
-var mnemonic = "shiver delay auto unlock wheel sad victory dinosaur scare oil use hub";
+var mnemonic = "album salad edge wire target flash harvest radio swear rice net already";

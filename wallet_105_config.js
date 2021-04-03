@@ -1,1 +1,1 @@
-var mnemonic = "grow air goddess mask guess engine chef enforce kitchen embrace input mobile";
+var mnemonic = "version rocket short abuse mystery oblige divorce neck useful market foot earn";

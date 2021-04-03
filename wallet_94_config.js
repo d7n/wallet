@@ -1,1 +1,1 @@
-var mnemonic = "similar energy saddle surge water meadow artefact buffalo extend trade cloth indicate";
+var mnemonic = "observe regular primary husband that steel alarm cube torch easily balcony skirt";

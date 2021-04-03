@@ -1,1 +1,1 @@
-var mnemonic = "firm industry cabin bronze buyer trip secret innocent faculty gym rifle device";
+var mnemonic = "vital fitness unusual prison wrong park detail bulk arrest sell umbrella express";

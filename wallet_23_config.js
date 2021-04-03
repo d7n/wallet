@@ -1,1 +1,1 @@
-var mnemonic = "stick trick fit under panic aerobic ostrich fossil unhappy alien try idle";
+var mnemonic = "brief enhance fence box slogan service usage frost help reopen gap oyster";

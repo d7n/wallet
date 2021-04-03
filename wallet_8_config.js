@@ -1,1 +1,1 @@
-var mnemonic = "breeze arrow measure gesture fuel entry nothing garment pear stove head mosquito";
+var mnemonic = "evolve twice myth vanish swing material royal run easy extra pelican help";

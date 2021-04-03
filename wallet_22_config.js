@@ -1,1 +1,1 @@
-var mnemonic = "diary asthma stove system idea section news chase glue steel ecology merry";
+var mnemonic = "length hero visit faith regret grid stick dog want accident jaguar forum";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset hat shop lawn flat hurry pelican math silk dog hurt weather";
+var mnemonic = "motion false base able zoo snow survey bid equal mean vacant blossom";

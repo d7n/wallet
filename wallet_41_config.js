@@ -1,1 +1,1 @@
-var mnemonic = "solution appear trim ignore latin someone kind embody plastic refuse payment mind";
+var mnemonic = "history venue gallery pitch floor twist east front tip palace sunny glance";

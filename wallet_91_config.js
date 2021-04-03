@@ -1,1 +1,1 @@
-var mnemonic = "popular push planet salon canal hobby segment better canoe bag price brush";
+var mnemonic = "day climb derive cloth mechanic grocery strike wrist crash icon welcome pen";

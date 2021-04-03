@@ -1,1 +1,1 @@
-var mnemonic = "pretty myself page congress regret enter total choice cheap purse enable spare";
+var mnemonic = "silly topple pause hawk hair lawn february you elbow author gown hair";

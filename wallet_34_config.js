@@ -1,1 +1,1 @@
-var mnemonic = "cube cabbage depth tiger travel around enlist text kick admit slender whisper";
+var mnemonic = "marine school joy stuff review metal victory trap congress cost caution much";

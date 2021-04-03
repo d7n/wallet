@@ -1,1 +1,1 @@
-var mnemonic = "double fiction journey phrase model buddy organ slot west buyer tree sure";
+var mnemonic = "empower struggle salt siren castle pulse husband nurse draft fragile desk voice";

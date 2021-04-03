@@ -1,1 +1,1 @@
-var mnemonic = "palace print exchange shoot someone wisdom indoor nut approve airport kite blade";
+var mnemonic = "soul clean alter daring excess garage motion attend chapter armor short item";

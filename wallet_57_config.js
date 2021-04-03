@@ -1,1 +1,1 @@
-var mnemonic = "hub tobacco sleep universe welcome vendor response mountain parent need goat slide";
+var mnemonic = "sound orbit where typical amount subway void gift jungle glass brain monkey";

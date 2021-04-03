@@ -1,1 +1,1 @@
-var mnemonic = "hire friend bind dry police endorse rapid coconut obey dance beauty damp";
+var mnemonic = "only couple nest warrior knock cattle code short express artefact away lazy";

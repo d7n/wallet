@@ -1,1 +1,1 @@
-var mnemonic = "weather whip slice squirrel dinner mango clock feature hour eyebrow practice cattle";
+var mnemonic = "shoot mail hold surface palm meat bid angry question when uniform topple";

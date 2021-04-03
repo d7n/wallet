@@ -1,1 +1,1 @@
-var mnemonic = "yard style hobby must debris offer help pride few dinosaur plug raw";
+var mnemonic = "struggle always curve escape draft climb first citizen bubble filter snap ceiling";

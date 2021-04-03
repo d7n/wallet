@@ -1,1 +1,1 @@
-var mnemonic = "talk they carbon usual gravity ten sand wheat holiday evil prefer monkey";
+var mnemonic = "air typical boat oblige movie way hello rescue barely auto during south";

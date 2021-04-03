@@ -1,1 +1,1 @@
-var mnemonic = "frog panda brown obtain company arrive tape never still tray wish divorce";
+var mnemonic = "harbor avocado amateur fit cherry legend lumber actress recipe merry food book";

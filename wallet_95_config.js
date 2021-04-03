@@ -1,1 +1,1 @@
-var mnemonic = "expire quarter nest produce diesel lion dutch romance treat private bone crystal";
+var mnemonic = "guitar moon vessel knock tree jelly rifle bubble ozone uncle knife during";

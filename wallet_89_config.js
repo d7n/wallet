@@ -1,1 +1,1 @@
-var mnemonic = "salt nominee post tragic annual melody welcome catch harsh favorite lesson slight";
+var mnemonic = "wet eyebrow can limb congress clown glory cup utility notable smooth kitten";

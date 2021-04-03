@@ -1,1 +1,1 @@
-var mnemonic = "correct sphere boat cat resource room sense tourist mutual thunder sudden bar";
+var mnemonic = "payment lottery business display deer world false afraid come please season peanut";

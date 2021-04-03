@@ -1,1 +1,1 @@
-var mnemonic = "minor squeeze elephant more tooth loud pumpkin also tongue uncover sing panic";
+var mnemonic = "belt diamond flame million pink blast scrap reason village bird involve raccoon";

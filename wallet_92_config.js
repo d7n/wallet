@@ -1,1 +1,1 @@
-var mnemonic = "grief relief board album hello crew brown ancient fashion mad vibrant reason";
+var mnemonic = "guide angry morning damage music flag jungle crisp sentence raccoon insect enact";

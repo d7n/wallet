@@ -1,1 +1,1 @@
-var mnemonic = "nature dash print drum pulp frequent ready erase drastic arrive enjoy silly";
+var mnemonic = "step goose lab dumb force marriage hurt course ahead mystery exit slice";

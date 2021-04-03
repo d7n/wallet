@@ -1,1 +1,1 @@
-var mnemonic = "grit drip height marble cost hunt tent abandon fan margin recycle high";
+var mnemonic = "rich civil minor file argue rally goat shield arrive ripple erupt agree";

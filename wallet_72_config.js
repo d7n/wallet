@@ -1,1 +1,1 @@
-var mnemonic = "trial weather second sudden sponsor exact manage drive spring seed young dance";
+var mnemonic = "april dove hold glide vibrant regret wreck almost bamboo estate dutch shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "already cactus erosion gravity scout view drop shove help salmon zebra siege";
+var mnemonic = "sense joy daring foam casino report pumpkin combine panther cage save fatal";

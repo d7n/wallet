@@ -1,1 +1,1 @@
-var mnemonic = "ignore uphold silent sniff total december lottery rubber strategy pull turtle into";
+var mnemonic = "palm design leaf blind double carbon demand blouse quality pretty just size";

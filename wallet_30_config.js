@@ -1,1 +1,1 @@
-var mnemonic = "custom sand robot summer cable jeans replace curious plastic guitar comic box";
+var mnemonic = "much opera lemon property okay into arm finish cabbage worth piece seed";

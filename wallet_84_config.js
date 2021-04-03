@@ -1,1 +1,1 @@
-var mnemonic = "merry chair exit soul spawn flavor slush nature elevator diet admit slow";
+var mnemonic = "secret mouse civil vote gaze legend age kiwi coil fit unfold wrist";

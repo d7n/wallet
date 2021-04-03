@@ -1,1 +1,1 @@
-var mnemonic = "annual ecology embrace cabbage grant travel mass twin hello witness reform dentist";
+var mnemonic = "bus hint witness arrow educate clerk silver soldier across leaf cable cement";

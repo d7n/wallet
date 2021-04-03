@@ -1,1 +1,1 @@
-var mnemonic = "pause vicious panther mad hollow engine essence pepper advice orange property benefit";
+var mnemonic = "cabbage sand error head garment danger aspect hard clean drop fossil target";

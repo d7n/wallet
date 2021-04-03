@@ -1,1 +1,1 @@
-var mnemonic = "later audit enable will scrub chimney start canal time burden soda camp";
+var mnemonic = "kingdom canoe fold party merry hope chimney family field blind liar narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "salad combine net cry hobby lens hip video rug diet fire always";
+var mnemonic = "novel garment pear pave add harsh hero recycle collect sadness mountain crystal";

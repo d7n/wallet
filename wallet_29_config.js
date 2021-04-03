@@ -1,1 +1,1 @@
-var mnemonic = "dynamic rather soap avoid museum shoot apart tenant clever leaf fetch dignity";
+var mnemonic = "shield deal purchase deal salute ugly earn apple erode brave index saddle";

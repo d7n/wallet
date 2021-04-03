@@ -1,1 +1,1 @@
-var mnemonic = "crane gauge snake first tool fortune supply shove sauce click satoshi settle";
+var mnemonic = "exchange result smooth broom marble secret slice client pass object duty girl";

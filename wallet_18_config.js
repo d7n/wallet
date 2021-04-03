@@ -1,1 +1,1 @@
-var mnemonic = "aerobic settle airport inner fiscal swim design square identify always buzz demise";
+var mnemonic = "case obvious wine illegal body visa potato enemy media camera plunge artefact";

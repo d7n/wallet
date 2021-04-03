@@ -1,1 +1,1 @@
-var mnemonic = "disease click endless clown carpet mom truck forget deposit actress rigid survey";
+var mnemonic = "angle skull mosquito surround develop tape speed angle crush firm then rural";

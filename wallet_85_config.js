@@ -1,1 +1,1 @@
-var mnemonic = "ship actress train hollow toward among pizza inherit nest pretty stay mad";
+var mnemonic = "jewel crisp stage ostrich typical bulb accident file idea clock forest slot";

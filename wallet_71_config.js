@@ -1,1 +1,1 @@
-var mnemonic = "universe talk tooth carbon gadget joke base wheat two target adjust holiday";
+var mnemonic = "secret answer oyster make urban repeat yard edit exact sketch sugar toy";

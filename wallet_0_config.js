@@ -1,1 +1,1 @@
-var mnemonic = "check hood tail endorse direct surge guess coach define before captain another";
+var mnemonic = "lecture glad real effort wear ski web afford moral practice sauce smoke";

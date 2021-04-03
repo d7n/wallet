@@ -1,1 +1,1 @@
-var mnemonic = "violin winter average mad left pumpkin scorpion burger draw addict unit style";
+var mnemonic = "seat nation amount hire wink hour torch neck drink oblige donor mass";

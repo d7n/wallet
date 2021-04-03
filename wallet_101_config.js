@@ -1,1 +1,1 @@
-var mnemonic = "tide young poet damp ignore road mirror silent scare risk range enrich";
+var mnemonic = "harsh glove swift coil runway robot security galaxy prison glad foam bronze";

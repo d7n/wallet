@@ -1,1 +1,1 @@
-var mnemonic = "height million bubble capable abandon canyon member luxury attract cliff hair ramp";
+var mnemonic = "number obey express fruit toilet theory hint verb hair industry planet hat";

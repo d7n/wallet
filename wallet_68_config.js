@@ -1,1 +1,1 @@
-var mnemonic = "neck come soccer renew enemy will coral nice lawn limb try detect";
+var mnemonic = "quit reduce want knock fat monster chat ghost melody dish barely guilt";

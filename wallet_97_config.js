@@ -1,1 +1,1 @@
-var mnemonic = "never grace reject lyrics render shove salute rally draw require baby drum";
+var mnemonic = "cup vendor fiction siege phrase final unusual tree cup defense deer humor";

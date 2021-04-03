@@ -1,1 +1,1 @@
-var mnemonic = "tenant speed twice parent frame empty obvious few advance oval deputy yellow";
+var mnemonic = "festival bag merit learn abstract school capital vague siren cheese host dolphin";

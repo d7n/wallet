@@ -1,1 +1,1 @@
-var mnemonic = "cactus pact chat lion please blur hamster toe capable opinion trend swear";
+var mnemonic = "expire sad genius pig antique menu deputy chalk bar april pipe tray";

@@ -1,1 +1,1 @@
-var mnemonic = "swing curtain prefer voyage display tilt meat inform shed old radio screen";
+var mnemonic = "winner force zero ceiling chapter trigger merge organ material dove arctic blue";

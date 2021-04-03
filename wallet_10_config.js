@@ -1,1 +1,1 @@
-var mnemonic = "shed exhaust zoo fuel glow song zebra seek ask day toast remain";
+var mnemonic = "fold response pen profit thank artwork erase latin home ladder glue depth";

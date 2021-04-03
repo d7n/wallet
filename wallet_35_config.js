@@ -1,1 +1,1 @@
-var mnemonic = "grid scissors accuse saddle initial knee measure cancel bitter brother dish soon";
+var mnemonic = "citizen lesson giraffe brand resemble wink cake follow common impact survey novel";

@@ -1,1 +1,1 @@
-var mnemonic = "main shield mushroom place banner slight bless transfer mad inside inform seek";
+var mnemonic = "garden mule slam escape syrup cheap island boss skirt suspect fragile twin";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler artist domain obey claim submit bridge envelope control chunk silk object";
+var mnemonic = "breeze ride artwork age wage lonely snake siren pledge usage stock trust";

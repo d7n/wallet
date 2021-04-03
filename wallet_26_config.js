@@ -1,1 +1,1 @@
-var mnemonic = "barely march away sound near desert maze shadow melody switch pole divide";
+var mnemonic = "jaguar divert globe offer catalog panic coffee act media cook short zone";

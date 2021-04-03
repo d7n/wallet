@@ -1,1 +1,1 @@
-var mnemonic = "army network bone thrive island satoshi final barely between genre produce neutral";
+var mnemonic = "float purchase family ripple gym acquire twist peasant snow spin zoo belt";

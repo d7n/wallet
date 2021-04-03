@@ -1,1 +1,1 @@
-var mnemonic = "prefer express powder left muscle seed fit twenty keen magic before trigger";
+var mnemonic = "scissors expect vicious frost link next praise main marine weird minimum moral";

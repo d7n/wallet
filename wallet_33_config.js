@@ -1,1 +1,1 @@
-var mnemonic = "detail depend laptop pitch birth waste image cattle rapid era butter early";
+var mnemonic = "unusual peanut menu divert river fringe print possible kitten dress design dry";

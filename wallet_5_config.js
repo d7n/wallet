@@ -1,1 +1,1 @@
-var mnemonic = "satisfy weird appear antique cattle slab silly salon kick cement obscure romance";
+var mnemonic = "ginger chaos park tape post assist entire clap eight domain size opinion";

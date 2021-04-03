@@ -1,1 +1,1 @@
-var mnemonic = "march employ toilet tray radar sauce soon scatter rescue hill february escape";
+var mnemonic = "more super movie master salon someone bonus easily worth success nuclear scene";

@@ -1,1 +1,1 @@
-var mnemonic = "weird bulk still corn ecology airport join trap chaos way collect outdoor";
+var mnemonic = "pioneer idle bracket whip plastic fade install motor bid conduct duck north";

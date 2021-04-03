@@ -1,1 +1,1 @@
-var mnemonic = "clutch leg menu inject lemon squeeze fiction mountain shiver response monkey peace";
+var mnemonic = "guess live erode slim ability leg glue elder fetch hole impact decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure canvas asset amazing attack ask diamond effort pact zone best burst";
+var mnemonic = "scissors dance purity buyer violin capable outdoor dose bright home apology barrel";
