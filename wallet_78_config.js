@@ -1,1 +1,1 @@
-var mnemonic = "false congress theory loud rain owner spot pass romance useless glare mechanic";
+var mnemonic = "veteran exist cream lumber swap pattern admit poet table rice general situate";

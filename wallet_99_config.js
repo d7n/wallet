@@ -1,1 +1,1 @@
-var mnemonic = "stick grace arrow believe park easily crucial entry ship secret moral infant";
+var mnemonic = "quit neglect bamboo twist input rally learn damp family extend unlock subject";

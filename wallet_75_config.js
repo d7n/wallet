@@ -1,1 +1,1 @@
-var mnemonic = "pair topic estate column guide better sock episode sheriff column panther tape";
+var mnemonic = "timber inject minimum donate begin power parade tired spin message finger lunar";

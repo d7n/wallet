@@ -1,1 +1,1 @@
-var mnemonic = "middle tree humble define asset sweet jungle hazard split cotton weapon raw";
+var mnemonic = "salad novel pioneer strong jungle embrace rapid ribbon envelope become toss fault";

@@ -1,1 +1,1 @@
-var mnemonic = "genius grant parrot acquire cotton live canal sweet clog quality usual lake";
+var mnemonic = "equip then plunge six under idle meat scrap crisp repeat stock journey";

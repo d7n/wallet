@@ -1,1 +1,1 @@
-var mnemonic = "motor any sausage daring climb approve first rather betray will trap laugh";
+var mnemonic = "make eager giant lava other hawk announce canoe salute cousin genuine coast";

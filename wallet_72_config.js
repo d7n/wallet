@@ -1,1 +1,1 @@
-var mnemonic = "good equip skirt ethics around dinosaur trend wreck survey crunch day barely";
+var mnemonic = "indicate glow sauce ripple approve run moon pepper place leader corn vendor";

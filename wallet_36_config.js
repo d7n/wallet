@@ -1,1 +1,1 @@
-var mnemonic = "album voyage devote swim combine exchange render beauty label once slender youth";
+var mnemonic = "umbrella essence correct enjoy tissue soap tongue daring sting strike science maid";

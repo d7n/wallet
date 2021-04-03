@@ -1,1 +1,1 @@
-var mnemonic = "protect weird undo maximum slam plate miss wonder climb east rude fine";
+var mnemonic = "ethics lion impact soldier stairs wait taste able shuffle pony upper man";

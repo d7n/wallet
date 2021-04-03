@@ -1,1 +1,1 @@
-var mnemonic = "scatter company eager window club melt orphan fold poverty brick scale coconut";
+var mnemonic = "swamp resemble surface cable color baby remain theme gun pride pulse hotel";

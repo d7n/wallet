@@ -1,1 +1,1 @@
-var mnemonic = "brave ignore paper human thing lyrics cake unlock gather feed tone craft";
+var mnemonic = "drip detect anchor kiss stereo shoe galaxy sibling include merry exercise teach";

@@ -1,1 +1,1 @@
-var mnemonic = "pig type casual pattern actress insect point toward upset glare blind mule";
+var mnemonic = "identify mistake crash arm moment fold cute celery physical spice modify wait";

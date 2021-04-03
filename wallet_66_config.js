@@ -1,1 +1,1 @@
-var mnemonic = "pattern butter magic discover autumn goat hand lazy chunk tongue zone tourist";
+var mnemonic = "drastic common fiscal crumble ridge child dash fame outside valve school vote";

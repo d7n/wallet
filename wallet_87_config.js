@@ -1,1 +1,1 @@
-var mnemonic = "bubble early media canyon undo cluster menu stay tiny profit drastic item";
+var mnemonic = "city shift someone calm predict yellow excite junior gospel dry demise buzz";

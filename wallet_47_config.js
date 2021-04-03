@@ -1,1 +1,1 @@
-var mnemonic = "glad praise until jazz volcano toast notice manage pause cover about point";
+var mnemonic = "tide gown security bulk month avocado blur gap only seek around sea";

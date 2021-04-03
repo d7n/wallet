@@ -1,1 +1,1 @@
-var mnemonic = "armor anxiety habit swap rose asthma seek canvas lemon wheat render exhibit";
+var mnemonic = "doll valid river clinic volume initial bottom borrow neutral under already purse";

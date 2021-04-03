@@ -1,1 +1,1 @@
-var mnemonic = "pair mystery item zone nephew siege boring kitchen verify can penalty divert";
+var mnemonic = "gentle common convince ahead artist oyster lecture cover celery column cube screen";

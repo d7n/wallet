@@ -1,1 +1,1 @@
-var mnemonic = "moral shrimp another smile outside copy increase trumpet hungry toe motor tuna";
+var mnemonic = "balcony toast only public theme letter hunt obvious service review grow copper";

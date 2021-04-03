@@ -1,1 +1,1 @@
-var mnemonic = "mother plunge wage mandate actress push two yellow vast fire couch abuse";
+var mnemonic = "rescue skin dry fat saddle dish slice popular topic love glue fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar ignore chunk letter era frost fitness tip hamster object share village";
+var mnemonic = "dawn rocket subway public insane broken motion asset atom learn local summer";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote rookie dune march fog bird bunker silk wisdom obscure noise trust";
+var mnemonic = "modify grow cupboard solid rival drum myth clutch link athlete gasp analyst";

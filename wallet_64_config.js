@@ -1,1 +1,1 @@
-var mnemonic = "skirt jacket borrow suspect suffer still photo leg begin dash timber twice";
+var mnemonic = "suspect wing armed sponsor sustain limb gain survey brand cannon young flower";

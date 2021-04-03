@@ -1,1 +1,1 @@
-var mnemonic = "priority bridge flag addict curious kitchen morning trim middle hello frozen humor";
+var mnemonic = "nothing purse police genuine vehicle talk seek robot verify room liberty resist";

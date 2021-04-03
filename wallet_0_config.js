@@ -1,1 +1,1 @@
-var mnemonic = "liberty habit rail where proof silly monster pottery lock bicycle reward kitchen";
+var mnemonic = "prosper emotion parent amateur wrap sick problem advance file subway wet raccoon";

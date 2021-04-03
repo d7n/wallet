@@ -1,1 +1,1 @@
-var mnemonic = "measure frost slush spy glimpse observe prefer episode try check mosquito minute";
+var mnemonic = "fiber fix steak escape between nothing summer trial throw asthma say reflect";

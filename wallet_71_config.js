@@ -1,1 +1,1 @@
-var mnemonic = "hungry wish link fantasy sudden elder rail recipe doll husband gate rival";
+var mnemonic = "goat fluid evoke wheat hand left dust north build rural rain refuse";

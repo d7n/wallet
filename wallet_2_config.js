@@ -1,1 +1,1 @@
-var mnemonic = "picnic bid bitter camera unhappy identify woman cake treat soccer impulse foam";
+var mnemonic = "stove wink voyage bag bicycle stand fortune unfair heart velvet walnut symbol";

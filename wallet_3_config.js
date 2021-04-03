@@ -1,1 +1,1 @@
-var mnemonic = "surprise sort sample satisfy behave vintage clip price cram verb close carbon";
+var mnemonic = "syrup clog detect rude visit verb citizen tired develop piano height tray";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet shift update jungle guide tourist alone galaxy envelope dynamic staff hire";
+var mnemonic = "tribe walk cave update diary employ phone purity twin jazz destroy clip";

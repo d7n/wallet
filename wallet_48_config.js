@@ -1,1 +1,1 @@
-var mnemonic = "expire coral monkey extend peace custom deal jazz escape coil afford imitate";
+var mnemonic = "rebuild there sustain team govern eight cry awful hawk borrow genius young";

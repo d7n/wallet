@@ -1,1 +1,1 @@
-var mnemonic = "aerobic deliver fall lesson dumb orphan coconut comfort surprise nothing race document";
+var mnemonic = "mail bunker foot under august satisfy seven guitar hood creek box soda";

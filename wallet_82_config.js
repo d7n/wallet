@@ -1,1 +1,1 @@
-var mnemonic = "enemy donate exchange parade come price scrap jeans warfare twin train bomb";
+var mnemonic = "goddess audit shop claw path today name quiz amazing jeans stereo whisper";

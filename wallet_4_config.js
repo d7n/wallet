@@ -1,1 +1,1 @@
-var mnemonic = "rare deposit celery garage act lion pride fire exit divert document girl";
+var mnemonic = "gorilla course hybrid height page gallery embark benefit pitch attract wait subject";

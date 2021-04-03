@@ -1,1 +1,1 @@
-var mnemonic = "base success biology sniff blue crowd child share enemy hockey wise million";
+var mnemonic = "faith wild deposit monkey admit female boat more issue supreme source despair";

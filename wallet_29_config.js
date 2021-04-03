@@ -1,1 +1,1 @@
-var mnemonic = "depend phrase domain motor client march belt goat rack vault water snow";
+var mnemonic = "light bless pipe earth wheat soldier mix idea giant tumble carpet law";

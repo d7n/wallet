@@ -1,1 +1,1 @@
-var mnemonic = "shallow wolf thank milk depart gap vendor divorce mercy fix photo clarify";
+var mnemonic = "gossip cactus asset escape silver elegant victory veteran income eager defy jar";

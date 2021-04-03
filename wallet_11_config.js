@@ -1,1 +1,1 @@
-var mnemonic = "shine unable impulse manual mixed heart engage cheese similar kitchen buffalo want";
+var mnemonic = "once host source aim voice approve sign acid surge property buyer minute";

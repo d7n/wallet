@@ -1,1 +1,1 @@
-var mnemonic = "february square column ripple carry moral breeze clinic harvest hollow exile seek";
+var mnemonic = "expire agent hazard member task acoustic olive forget drive nose flash elder";

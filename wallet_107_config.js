@@ -1,1 +1,1 @@
-var mnemonic = "taste decorate sunny brief small obey this obvious grit lady festival elbow";
+var mnemonic = "scrub tongue fancy wink wealth educate walnut proud govern cancel resemble scare";

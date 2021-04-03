@@ -1,1 +1,1 @@
-var mnemonic = "embrace produce vacuum clock salt analyst ribbon license snap benefit divert action";
+var mnemonic = "mansion guilt such mention wide absurd photo any this spell consider pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "wave century wing crunch trial tail thrive nothing hero magnet clever head";
+var mnemonic = "follow camp clutch sail sand perfect grape farm chalk target coin planet";

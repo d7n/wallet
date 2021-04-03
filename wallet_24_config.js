@@ -1,1 +1,1 @@
-var mnemonic = "birth isolate meat cash century flight either reflect gesture health charge note";
+var mnemonic = "master domain brick fatal inform used library huge sponsor news manual dress";

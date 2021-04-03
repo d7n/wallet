@@ -1,1 +1,1 @@
-var mnemonic = "combine diagram organ van six claw mad wall mouse symbol clip scan";
+var mnemonic = "sheriff myself cave nuclear alarm deposit true stone blood height father example";

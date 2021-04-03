@@ -1,1 +1,1 @@
-var mnemonic = "demise praise option there trouble fall arm gold gate able exotic protect";
+var mnemonic = "blanket deer license rural entry gadget husband conduct sell ball tiny proud";

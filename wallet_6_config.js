@@ -1,1 +1,1 @@
-var mnemonic = "burger hunt rocket axis hybrid oxygen cradle away plunge ancient debate promote";
+var mnemonic = "million idea modify poem afraid okay ritual rebel organ unfold army recycle";

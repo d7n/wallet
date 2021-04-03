@@ -1,1 +1,1 @@
-var mnemonic = "embody kitchen invite clump demand uphold monster exercise squirrel away sustain surround";
+var mnemonic = "great love cage rib casino range crop when album erosion giant perfect";

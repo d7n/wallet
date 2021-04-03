@@ -1,1 +1,1 @@
-var mnemonic = "ozone program kitchen social language derive group stick liar minor winner coyote";
+var mnemonic = "alien silent amateur soccer few little wrist gun brisk derive music order";

@@ -1,1 +1,1 @@
-var mnemonic = "enact moral cube trend topic fit subject body exile defense decade toward";
+var mnemonic = "spy super horse acoustic sugar opera style crunch tumble prize whale merge";

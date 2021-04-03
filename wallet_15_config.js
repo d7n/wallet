@@ -1,1 +1,1 @@
-var mnemonic = "client velvet social green victory woman document balcony knee town rack frog";
+var mnemonic = "clarify ivory hidden devote cute best hood real mixed gesture era rural";

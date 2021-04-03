@@ -1,1 +1,1 @@
-var mnemonic = "silly park deal pause ostrich fine inner void art machine false veteran";
+var mnemonic = "home absurd kid jazz error actor mammal step kit morning brisk cousin";

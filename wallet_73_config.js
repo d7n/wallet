@@ -1,1 +1,1 @@
-var mnemonic = "flash wish prison reopen million hobby extend sadness corn innocent object electric";
+var mnemonic = "step trial know stomach core blame tree lounge swap coach pulse slim";

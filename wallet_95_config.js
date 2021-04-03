@@ -1,1 +1,1 @@
-var mnemonic = "bubble ridge glare indicate elevator since horn zoo state gas hard admit";
+var mnemonic = "exact type face runway clock oil pole must walnut tribe edit kidney";

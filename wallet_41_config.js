@@ -1,1 +1,1 @@
-var mnemonic = "detect welcome always anchor nut doctor repair snack immense vacuum produce zebra";
+var mnemonic = "net toward will essay term system super relief slim stable build drum";

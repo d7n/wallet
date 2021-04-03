@@ -1,1 +1,1 @@
-var mnemonic = "program art hobby birth panther juice bitter buffalo dry become lunar dumb";
+var mnemonic = "habit alarm front item company antique fun suggest void shrug daring price";

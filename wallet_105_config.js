@@ -1,1 +1,1 @@
-var mnemonic = "table net festival address party island among stool square nuclear amateur mad";
+var mnemonic = "brain tooth staff cloud fold cement swarm shoe remain inch sad ostrich";

@@ -1,1 +1,1 @@
-var mnemonic = "company brave audit punch transfer physical orbit poverty maximum off prosper million";
+var mnemonic = "demand owner beauty wave jealous better adapt beauty make where run scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy famous music gift rotate step speed appear wreck sense verify fit";
+var mnemonic = "cement travel person uncover oppose cube awesome about moral surprise clip repeat";

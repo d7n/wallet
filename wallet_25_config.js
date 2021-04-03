@@ -1,1 +1,1 @@
-var mnemonic = "mean chief whale guilt speak salon noble pattern cabin stadium faculty march";
+var mnemonic = "squeeze define short sadness hotel deny nation bar grace hurdle energy today";

@@ -1,1 +1,1 @@
-var mnemonic = "noble ridge loan canyon dune nut glass surprise miss topic romance entire";
+var mnemonic = "toward plug ozone evolve taste wisdom eight master shuffle call hockey atom";

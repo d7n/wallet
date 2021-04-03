@@ -1,1 +1,1 @@
-var mnemonic = "rubber trick spirit image fringe gym puzzle crawl romance grass slogan evidence";
+var mnemonic = "ribbon wage shoot motor segment magic hobby rebel muffin cupboard promote belt";

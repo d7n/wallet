@@ -1,1 +1,1 @@
-var mnemonic = "play brand destroy window curious celery animal illegal clever acquire release cloth";
+var mnemonic = "dilemma shaft acid enemy damage neutral parent rebel arrest ability excess over";

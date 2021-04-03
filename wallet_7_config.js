@@ -1,1 +1,1 @@
-var mnemonic = "rural globe mule wool pulse release law cycle coach sunset ship drip";
+var mnemonic = "tell legal year corn raw olympic rifle equip student sign able fall";

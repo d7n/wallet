@@ -1,1 +1,1 @@
-var mnemonic = "pigeon hedgehog void aisle note symptom cloud runway mesh either critic bullet";
+var mnemonic = "basket pause eager exotic female indoor defy water bike diet february useless";

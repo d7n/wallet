@@ -1,1 +1,1 @@
-var mnemonic = "brain drastic explain degree blue uncover maximum media settle clown sword ripple";
+var mnemonic = "harsh ability belt elder leader small write fiscal steel flee wedding soon";

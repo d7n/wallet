@@ -1,1 +1,1 @@
-var mnemonic = "wise sunset because fiction winner pupil awkward image beauty neutral answer melody";
+var mnemonic = "pluck help story object reflect crash clog exist inherit language repeat snap";

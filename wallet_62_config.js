@@ -1,1 +1,1 @@
-var mnemonic = "sea body pride clever potato before eagle logic glove remain miss wise";
+var mnemonic = "bleak dizzy ring victory popular jungle pact potato scout genius shop tourist";

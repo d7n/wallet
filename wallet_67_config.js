@@ -1,1 +1,1 @@
-var mnemonic = "example coffee battle bulk smart only exotic wash anxiety essence slice radar";
+var mnemonic = "proud wheel deliver sea crucial hover park alter please trip grace trust";

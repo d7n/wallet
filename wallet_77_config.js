@@ -1,1 +1,1 @@
-var mnemonic = "manage debris afford brain lemon lion bomb myth car need parrot icon";
+var mnemonic = "kind crime symbol infant sentence erupt flip melody sound cushion auto truly";

@@ -1,1 +1,1 @@
-var mnemonic = "sense process budget elite stay time current judge tone expand breeze year";
+var mnemonic = "marble enrich patch prize off lemon menu embark smooth input library random";

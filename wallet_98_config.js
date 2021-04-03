@@ -1,1 +1,1 @@
-var mnemonic = "episode census insane village balance become install erosion token canyon tone obscure";
+var mnemonic = "parrot manage afford alter loyal broom awful bring foster camp range once";

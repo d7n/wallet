@@ -1,1 +1,1 @@
-var mnemonic = "achieve diamond lounge pattern parade flee mistake lounge donor fragile profit judge";
+var mnemonic = "warrior history library brother dolphin state ticket ramp plate solution humor spy";

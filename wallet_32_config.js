@@ -1,1 +1,1 @@
-var mnemonic = "caution name group expose excite violin learn fatal drift gasp suffer impulse";
+var mnemonic = "own plastic tribe hard wonder resemble naive nice online win merit unlock";

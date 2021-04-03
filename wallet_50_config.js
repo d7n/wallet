@@ -1,1 +1,1 @@
-var mnemonic = "wet swim problem maze naive flower baby border insane buzz consider wise";
+var mnemonic = "tenant cart source rigid kit dutch follow pear attend belt comic gallery";

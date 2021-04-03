@@ -1,1 +1,1 @@
-var mnemonic = "memory nation perfect slow pigeon diagram gossip legend denial luggage lady answer";
+var mnemonic = "thank inch where animal addict raccoon attack arrange another use shine punch";

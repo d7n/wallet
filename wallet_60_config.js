@@ -1,1 +1,1 @@
-var mnemonic = "item cabin figure scene defense cricket elegant subway airport insane pole spot";
+var mnemonic = "table source wealth soap someone similar live food proof mail spare rural";

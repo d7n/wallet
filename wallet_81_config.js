@@ -1,1 +1,1 @@
-var mnemonic = "toddler rifle scrub treat critic like unknown doll spatial rule ordinary goddess";
+var mnemonic = "repair cave knock enjoy arch planet lunch help blush game purse return";

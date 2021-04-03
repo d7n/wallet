@@ -1,1 +1,1 @@
-var mnemonic = "over cat canoe stone raven alien resist ridge rail fence daughter wait";
+var mnemonic = "wink evidence destroy joke guitar digital year museum worry unknown elevator kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "upper enact tumble fiscal jaguar south raven cereal antique lake holiday time";
+var mnemonic = "agree drastic sure sort farm result trick radar relax pioneer unable neglect";

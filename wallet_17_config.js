@@ -1,1 +1,1 @@
-var mnemonic = "host poem path prepare clap feed pact month source deny hawk nest";
+var mnemonic = "wealth state hungry casual powder scrub echo sport torch heart amount skate";

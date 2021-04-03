@@ -1,1 +1,1 @@
-var mnemonic = "virus multiply vendor crowd gospel increase spin evidence genius witness clutch assault";
+var mnemonic = "notice horse hub hub enact tissue food real crisp suit grain move";

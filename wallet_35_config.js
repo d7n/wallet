@@ -1,1 +1,1 @@
-var mnemonic = "cube weasel family narrow desert image uphold chuckle casino enlist seminar custom";
+var mnemonic = "token jaguar attract bicycle across grow upon excite mind virus creek vessel";

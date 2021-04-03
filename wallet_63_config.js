@@ -1,1 +1,1 @@
-var mnemonic = "rich protect diesel prepare capital uncle copy oven prepare rug leave million";
+var mnemonic = "punch adult hammer twice keen attract ginger half style lava near slender";

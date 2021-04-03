@@ -1,1 +1,1 @@
-var mnemonic = "half ecology prefer ship race census excess magnet walk long sponsor monitor";
+var mnemonic = "nose book bus pen pottery senior author regular relax vessel candy refuse";

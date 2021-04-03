@@ -1,1 +1,1 @@
-var mnemonic = "game fit amount item rose affair black cross security sword ocean panic";
+var mnemonic = "pig purse gun shiver hospital catalog human daring antenna rocket taste whip";

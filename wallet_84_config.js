@@ -1,1 +1,1 @@
-var mnemonic = "gesture pink enhance opinion uncle huge belt easy dawn found turkey manage";
+var mnemonic = "elder indicate impact middle tattoo skin horn survey table torch lounge lift";

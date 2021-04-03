@@ -1,1 +1,1 @@
-var mnemonic = "glove chuckle head woman entry six drop account evoke quote atom liquid";
+var mnemonic = "mixed galaxy drink plug broccoli success street company color milk rather viable";

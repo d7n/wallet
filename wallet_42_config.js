@@ -1,1 +1,1 @@
-var mnemonic = "client cup dirt maid fall lock purity prison gun web portion fury";
+var mnemonic = "van oblige that avoid source purse mutual impose deal legend quantum finish";

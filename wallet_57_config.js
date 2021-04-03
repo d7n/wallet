@@ -1,1 +1,1 @@
-var mnemonic = "install crystal mango either lounge stove design pact monkey stairs shadow true";
+var mnemonic = "creek safe mention monitor drum what three easy lyrics wait cheese thrive";
