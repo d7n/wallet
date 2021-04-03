@@ -1,1 +1,1 @@
-var mnemonic = "resemble erase pioneer vessel manage scheme venue wait weird snow manual avocado";
+var mnemonic = "hour omit river effort future dynamic awkward power excuse earn old asset";

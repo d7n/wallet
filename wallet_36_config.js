@@ -1,1 +1,1 @@
-var mnemonic = "fee account fruit deer option announce reflect crumble shrimp forest sock tissue";
+var mnemonic = "youth size pave road hollow faith dawn veteran observe capital sound fine";

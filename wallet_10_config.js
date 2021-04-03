@@ -1,1 +1,1 @@
-var mnemonic = "milk sure street phrase food boy sun minute wasp believe limit minimum";
+var mnemonic = "clerk adult unaware work spice amount spread quiz kick discover oval hat";

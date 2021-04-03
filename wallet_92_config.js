@@ -1,1 +1,1 @@
-var mnemonic = "fade stamp quit unknown patch disorder soldier suspect away try dice finger";
+var mnemonic = "renew loyal toe tomorrow primary simple race universe stay panda rapid hub";

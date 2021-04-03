@@ -1,1 +1,1 @@
-var mnemonic = "fix service wing cabbage exclude skin chaos west other vital bring toilet";
+var mnemonic = "rely market cancel rebel bone view air pyramid focus receive science coach";

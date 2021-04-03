@@ -1,1 +1,1 @@
-var mnemonic = "thunder maple upon bag goose parrot lizard tank guess ready brand advance";
+var mnemonic = "ask soldier tray gown reveal ticket unfair abandon puppy veteran axis foil";

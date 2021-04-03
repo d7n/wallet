@@ -1,1 +1,1 @@
-var mnemonic = "sound wonder tornado half alarm annual predict sponsor easy rough lumber suffer";
+var mnemonic = "traffic violin trophy gaze comic design float biology earth coast glad wash";

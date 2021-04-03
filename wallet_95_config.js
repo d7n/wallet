@@ -1,1 +1,1 @@
-var mnemonic = "ghost under wave month hospital exchange talk boil resemble brother concert speed";
+var mnemonic = "boy cake oak exile actor false enlist trash muscle adapt awesome awkward";

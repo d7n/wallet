@@ -1,1 +1,1 @@
-var mnemonic = "blame enlist material assault return iron dress quantum because winner muffin truck";
+var mnemonic = "copper peasant patient barely thought enrich minute stomach visa monitor bullet weather";

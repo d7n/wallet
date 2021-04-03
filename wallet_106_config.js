@@ -1,1 +1,1 @@
-var mnemonic = "belt school prevent comfort opinion table uniform hamster inquiry screen feature blind";
+var mnemonic = "scorpion guess easily furnace talent bread ask rebuild gauge gas creek valley";

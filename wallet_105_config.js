@@ -1,1 +1,1 @@
-var mnemonic = "man corn gloom rifle mouse logic gaze warrior crystal manage announce prepare";
+var mnemonic = "dirt poet arrange unlock aisle narrow fashion owner evoke sibling emotion atom";

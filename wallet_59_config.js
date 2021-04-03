@@ -1,1 +1,1 @@
-var mnemonic = "enhance business furnace insect love action cargo try visit indoor satoshi element";
+var mnemonic = "mango axis boat light clerk bomb bacon eagle aim intact tongue pole";

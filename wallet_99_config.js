@@ -1,1 +1,1 @@
-var mnemonic = "grant burst another come useless chimney flower source journey gentle vault guide";
+var mnemonic = "come sure stable egg inside oil old slide paddle arrange river pretty";

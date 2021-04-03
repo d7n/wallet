@@ -1,1 +1,1 @@
-var mnemonic = "purity rescue maze october seat pave weapon liberty mix frequent achieve antenna";
+var mnemonic = "such jealous key call vacant hair fall stone vessel snake cash major";

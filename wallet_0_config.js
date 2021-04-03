@@ -1,1 +1,1 @@
-var mnemonic = "media purity trend adapt access leg prevent option velvet inspire large meadow";
+var mnemonic = "ketchup harsh problem limit fold arrow cement range spread novel silent travel";

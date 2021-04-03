@@ -1,1 +1,1 @@
-var mnemonic = "game song grit little actual peanut gravity net spoon nation tunnel age";
+var mnemonic = "erosion decide cram flee laundry burger repair measure junior moment anxiety slender";

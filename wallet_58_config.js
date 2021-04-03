@@ -1,1 +1,1 @@
-var mnemonic = "volcano gold catch pen very squirrel world damp lens begin insect rich";
+var mnemonic = "law clever bone flush patient luxury rescue voyage rifle explain thing unhappy";

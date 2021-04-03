@@ -1,1 +1,1 @@
-var mnemonic = "cry old spawn voyage fox same canyon odor push social tube purse";
+var mnemonic = "mom matter lift solve cabbage main fantasy cargo phrase master road thumb";

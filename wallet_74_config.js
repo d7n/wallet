@@ -1,1 +1,1 @@
-var mnemonic = "cute gown drink casino pool pull neck party patient squeeze advice brand";
+var mnemonic = "someone erosion guard proud moon hotel orphan outer hair clump axis jungle";

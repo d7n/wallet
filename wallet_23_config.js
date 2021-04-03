@@ -1,1 +1,1 @@
-var mnemonic = "eye plastic response holiday subway fence garment clump fatigue angle bind drift";
+var mnemonic = "amused rigid salad student antenna dragon inject people surround shock beauty garment";

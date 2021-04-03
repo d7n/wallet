@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur radio crowd satisfy skill embark alcohol number cabin middle reason order";
+var mnemonic = "position kangaroo scan across shallow sphere section window plate stool ghost hawk";

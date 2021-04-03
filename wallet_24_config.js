@@ -1,1 +1,1 @@
-var mnemonic = "city creek perfect surface impulse card sheriff sniff guide ship trophy grab";
+var mnemonic = "amazing panther craft lesson hockey coin city cabbage apple blood rural fruit";

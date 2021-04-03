@@ -1,1 +1,1 @@
-var mnemonic = "myth wing sight view hundred neither crane shrimp fade fantasy umbrella wool";
+var mnemonic = "famous chat diet brother mountain book include card prevent conduct trend slice";

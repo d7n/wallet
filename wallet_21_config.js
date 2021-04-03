@@ -1,1 +1,1 @@
-var mnemonic = "like entry leg gravity claw kangaroo clarify unit cube try dial section";
+var mnemonic = "laptop program slush tiny gap top target blue trap soon into sign";

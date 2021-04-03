@@ -1,1 +1,1 @@
-var mnemonic = "diet twist ankle cabin eye train skill picnic step trumpet skirt accuse";
+var mnemonic = "echo penalty mystery soul cactus spread rally slush giggle hybrid mass wage";

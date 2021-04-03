@@ -1,1 +1,1 @@
-var mnemonic = "horn rocket pause wire bonus squirrel trash above canvas estate document they";
+var mnemonic = "soap gaze settle save echo distance midnight load olive tomato upon romance";

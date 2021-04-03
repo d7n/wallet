@@ -1,1 +1,1 @@
-var mnemonic = "express major stone then village insect jungle final basic opera raise legal";
+var mnemonic = "finger pave surface race point prefer sketch measure gift refuse judge dog";

@@ -1,1 +1,1 @@
-var mnemonic = "upon connect orchard lion escape cruel arena crunch science annual shuffle already";
+var mnemonic = "swallow balance practice true daughter cross cricket coconut spirit curtain barrel various";

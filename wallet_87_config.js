@@ -1,1 +1,1 @@
-var mnemonic = "before foot one prevent quarter face describe fan guess normal list sure";
+var mnemonic = "tired bike custom sustain city abstract public border expose dose target govern";

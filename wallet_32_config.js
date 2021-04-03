@@ -1,1 +1,1 @@
-var mnemonic = "rebuild route erode canvas student bracket margin firm cool system journey health";
+var mnemonic = "asset okay debris unusual pair private lady uncle nice fatigue trophy foster";

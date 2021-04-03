@@ -1,1 +1,1 @@
-var mnemonic = "radar employ spirit orphan child cash main raise hurdle pony situate throw";
+var mnemonic = "mouse famous fantasy inmate adult fit allow era fork civil reflect weapon";

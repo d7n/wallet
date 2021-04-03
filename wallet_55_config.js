@@ -1,1 +1,1 @@
-var mnemonic = "list bounce shrimp finish pave name load wage neck coin crop better";
+var mnemonic = "ankle juice immense outside danger rent surface cradle describe nephew game kidney";

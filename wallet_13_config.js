@@ -1,1 +1,1 @@
-var mnemonic = "unable hurry paddle catalog assault tool motor gym between tongue wine female";
+var mnemonic = "february zero absorb moral parade chaos click rubber day length field test";

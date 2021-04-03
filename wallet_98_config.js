@@ -1,1 +1,1 @@
-var mnemonic = "humor add cover course ritual glad license robust paddle basket vivid clap";
+var mnemonic = "mixture entire receive royal oil arrange cotton clip evil step pudding core";

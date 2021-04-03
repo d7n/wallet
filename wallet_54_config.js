@@ -1,1 +1,1 @@
-var mnemonic = "nasty pig fog much script grow phone tongue dynamic correct song faint";
+var mnemonic = "venture almost monster olive short rain abandon absorb budget crack sadness spider";

@@ -1,1 +1,1 @@
-var mnemonic = "under pen cricket bottom obtain member jungle flash gown prepare wealth high";
+var mnemonic = "scale track clay autumn comfort cart master cattle mixture annual lizard female";

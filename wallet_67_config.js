@@ -1,1 +1,1 @@
-var mnemonic = "palace soup spice click reason attend skin elite explain slide tone fox";
+var mnemonic = "brush satoshi wink corn elephant lens liquid pet offer kite mean skill";

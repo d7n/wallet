@@ -1,1 +1,1 @@
-var mnemonic = "mention unhappy awake thing abandon hover opinion act gauge rocket noble morning";
+var mnemonic = "apart manual wave second tuna subway obtain sudden dial robust table capable";

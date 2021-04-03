@@ -1,1 +1,1 @@
-var mnemonic = "snack note bottom poet blur island just clinic runway moral pilot field";
+var mnemonic = "twenty grit rifle patch garbage lyrics limb bronze state typical aunt cost";

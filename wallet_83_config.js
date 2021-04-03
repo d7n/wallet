@@ -1,1 +1,1 @@
-var mnemonic = "impulse crumble alert reopen claw good cotton exclude tent baby save symbol";
+var mnemonic = "crew echo fade ensure talent hollow reason tooth lizard minimum hen lamp";

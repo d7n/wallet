@@ -1,1 +1,1 @@
-var mnemonic = "rapid illness garden erosion ring step hotel remove club palm until rifle";
+var mnemonic = "leaf quote cycle cheese document fetch idle quick gaze surprise sell flight";

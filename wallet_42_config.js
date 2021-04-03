@@ -1,1 +1,1 @@
-var mnemonic = "police medal skin kiwi code any arrive between dismiss boat correct quality";
+var mnemonic = "transfer wrap motor forward monkey whale page muscle design blame element already";

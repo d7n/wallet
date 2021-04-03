@@ -1,1 +1,1 @@
-var mnemonic = "island aspect target mango rib run bachelor unhappy twenty half gauge grid";
+var mnemonic = "holiday door display census window asthma despair enter beauty game innocent bind";

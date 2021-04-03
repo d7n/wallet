@@ -1,1 +1,1 @@
-var mnemonic = "ordinary piano ten direct issue gather scatter jaguar engage obey income exile";
+var mnemonic = "filter sock cool soap cherry acid blush shock online chapter barrel whip";

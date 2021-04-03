@@ -1,1 +1,1 @@
-var mnemonic = "direct praise repair pole normal adult trade grape taxi patrol dynamic open";
+var mnemonic = "lottery copy stairs glove pony token agent claim dose blur shell off";

@@ -1,1 +1,1 @@
-var mnemonic = "once fringe pudding sunny excuse surprise gym wink blouse cross trouble share";
+var mnemonic = "stage damage wear second decade diet tooth toward plug strong stumble certain";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle speak clump develop book wife boost motor medal seminar crush jealous";
+var mnemonic = "lamp cinnamon key hood harvest ice transfer suit element claw fitness loyal";

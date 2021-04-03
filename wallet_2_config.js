@@ -1,1 +1,1 @@
-var mnemonic = "voyage bar base soccer someone patch illness weasel catch only anxiety sausage";
+var mnemonic = "motion train mixture betray aisle eager enrich wet giggle interest online faculty";

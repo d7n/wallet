@@ -1,1 +1,1 @@
-var mnemonic = "deny noodle love relief edit point point noodle prize slot load hobby";
+var mnemonic = "dry minimum match stairs fog impulse ribbon canal library bid yellow paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "lady minor scatter lend gun bench pledge industry wasp else stadium matter";
+var mnemonic = "glory east space discover energy column miracle hazard cliff frown hero inch";

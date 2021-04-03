@@ -1,1 +1,1 @@
-var mnemonic = "decade vital frozen marriage ring frequent unaware age rent olive addict arch";
+var mnemonic = "assist gentle pig logic time bamboo label walnut turtle version obtain nothing";

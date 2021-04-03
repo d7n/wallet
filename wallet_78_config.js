@@ -1,1 +1,1 @@
-var mnemonic = "laptop artwork shift group upgrade milk note rubber student edit human town";
+var mnemonic = "fold tourist salmon shift pony gather recipe tide pretty fiction denial parrot";

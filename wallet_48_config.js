@@ -1,1 +1,1 @@
-var mnemonic = "excite people hole resource employ delay captain flower coin chest add drastic";
+var mnemonic = "badge witness gospel into hungry cause tree advance sad spring milk verb";

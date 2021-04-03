@@ -1,1 +1,1 @@
-var mnemonic = "attract night afford north pulse turtle list focus baby jealous coffee nurse";
+var mnemonic = "usual neglect offer before spring peanut tide battle habit model skull ivory";

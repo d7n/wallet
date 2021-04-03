@@ -1,1 +1,1 @@
-var mnemonic = "detect virus desk pizza weekend rubber hen recipe brief jazz action deposit";
+var mnemonic = "battle panic silk slot live describe butter other teach gaze bar ship";

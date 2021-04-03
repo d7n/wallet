@@ -1,1 +1,1 @@
-var mnemonic = "lab stable rose exercise judge cheap tunnel squirrel vendor virtual sting spread";
+var mnemonic = "beauty hello such track edge hamster mouse alcohol vague move forest flush";

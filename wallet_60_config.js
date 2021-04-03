@@ -1,1 +1,1 @@
-var mnemonic = "organ gospel stem stone novel engine half mosquito chapter digital conduct police";
+var mnemonic = "gloom bargain hello lab area response link picnic bronze sail sport raise";

@@ -1,1 +1,1 @@
-var mnemonic = "palace gossip pottery umbrella lemon warrior thrive remember multiply cannon yellow give";
+var mnemonic = "plunge play actress describe describe above feel inhale cliff seek squeeze fruit";

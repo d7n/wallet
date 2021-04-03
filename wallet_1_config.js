@@ -1,1 +1,1 @@
-var mnemonic = "hospital spread travel vanish bright noise card gorilla vessel cute scare bounce";
+var mnemonic = "iron intact select awake resist short goose there feature play tank family";

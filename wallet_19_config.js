@@ -1,1 +1,1 @@
-var mnemonic = "lunar clock bachelor humble tiny ship buyer supreme educate unhappy mixture fossil";
+var mnemonic = "pole meadow share fox begin skull broken setup offer cause sea agent";

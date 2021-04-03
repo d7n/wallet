@@ -1,1 +1,1 @@
-var mnemonic = "vintage soul ankle donate slot clip rule calm fold narrow genre fish";
+var mnemonic = "visual annual remind industry join body blouse trust slender able push salute";

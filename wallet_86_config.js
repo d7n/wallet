@@ -1,1 +1,1 @@
-var mnemonic = "oppose viable front monster robust sponsor view ring uncover chimney border year";
+var mnemonic = "promote solve winner lottery farm alone theme help scout inherit brave invite";

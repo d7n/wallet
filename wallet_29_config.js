@@ -1,1 +1,1 @@
-var mnemonic = "bicycle thumb warm clog fire family amateur exercise coast impose dad blanket";
+var mnemonic = "inject chalk isolate cross useful swallow toilet connect retreat defense add indicate";

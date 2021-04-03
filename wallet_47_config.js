@@ -1,1 +1,1 @@
-var mnemonic = "harvest never special slam age prepare level drive riot taste tank bonus";
+var mnemonic = "beyond grace capital shoulder bacon pull duck feature room leopard amateur south";

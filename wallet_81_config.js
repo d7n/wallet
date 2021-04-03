@@ -1,1 +1,1 @@
-var mnemonic = "swing display method muffin isolate state various slim image mixture busy spot";
+var mnemonic = "pupil whip find bind business convince suffer twelve merry cream family limb";

@@ -1,1 +1,1 @@
-var mnemonic = "also cliff prevent congress mechanic love detect neck chapter sound tip link";
+var mnemonic = "bleak appear throw erase shock focus siege assist obscure slogan mountain broom";

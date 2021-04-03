@@ -1,1 +1,1 @@
-var mnemonic = "cube trip area inner urge image supply hole mask negative crumble collect";
+var mnemonic = "little history bean drama three squirrel raccoon lyrics stick spawn rocket orbit";

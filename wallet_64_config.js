@@ -1,1 +1,1 @@
-var mnemonic = "track prosper object ritual tip blind quick roof absorb luggage opera cereal";
+var mnemonic = "design basic cause silver clinic exotic prize ocean erase suspect aim quality";

@@ -1,1 +1,1 @@
-var mnemonic = "glow own stamp amazing garden couch visit issue certain hard nerve spice";
+var mnemonic = "veteran pistol crazy hawk slide loop olive fog alert obscure daring gift";

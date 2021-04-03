@@ -1,1 +1,1 @@
-var mnemonic = "orient fold twenty struggle plate shop trick ridge web primary away often";
+var mnemonic = "angry bamboo indoor raven aisle cover access sure poet rely sausage utility";

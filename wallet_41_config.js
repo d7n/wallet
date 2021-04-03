@@ -1,1 +1,1 @@
-var mnemonic = "battle tank tomorrow idea extend wrap ball october result annual face trust";
+var mnemonic = "lunch luggage clerk tourist foster someone dress weird machine foot twelve obscure";

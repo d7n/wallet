@@ -1,1 +1,1 @@
-var mnemonic = "gym escape start menu used soon desert burden elevator grant vital submit";
+var mnemonic = "saddle own copy hen bundle action trade theme coyote brief leader uncle";

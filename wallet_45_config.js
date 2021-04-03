@@ -1,1 +1,1 @@
-var mnemonic = "plug sugar pave method economy axis drink ahead deposit velvet fragile faith";
+var mnemonic = "modify figure expand much paper maximum check frequent badge section fluid sweet";

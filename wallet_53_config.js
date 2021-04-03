@@ -1,1 +1,1 @@
-var mnemonic = "salon garbage sentence enlist mechanic phone about immense dove clog decorate harsh";
+var mnemonic = "canvas alpha trumpet place family sadness wife arrest sister unhappy subway orange";

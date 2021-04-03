@@ -1,1 +1,1 @@
-var mnemonic = "offer affair index toe ocean gym slice asthma cargo future actress custom";
+var mnemonic = "utility input recipe hood cushion movie able city sort name conduct palm";

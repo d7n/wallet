@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cost aspect wagon faculty kite photo sleep glide cliff soda ancient";
+var mnemonic = "brick sunset grant harvest dilemma leisure tray injury bunker keen trigger path";

@@ -1,1 +1,1 @@
-var mnemonic = "fence pottery vote twice cave friend verb release solution vessel until motor";
+var mnemonic = "just nest setup sponsor way wet pizza swallow dry divert unhappy toy";

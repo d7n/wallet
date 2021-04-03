@@ -1,1 +1,1 @@
-var mnemonic = "candy emerge hurdle endless pig lyrics rubber wealth tonight opera retire junk";
+var mnemonic = "angry helmet phrase jazz daring squirrel void idea action retreat between prosper";

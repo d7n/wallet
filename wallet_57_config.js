@@ -1,1 +1,1 @@
-var mnemonic = "monster vocal pioneer film green face crawl artwork paper wrist story spy";
+var mnemonic = "speed suffer obvious long tackle stick donate width rescue antenna ten behind";

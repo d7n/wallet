@@ -1,1 +1,1 @@
-var mnemonic = "average essay smart rifle include ghost coil combine moon celery quarter tobacco";
+var mnemonic = "type bronze aspect spare hire volume trumpet order team cake essence venue";

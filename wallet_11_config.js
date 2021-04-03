@@ -1,1 +1,1 @@
-var mnemonic = "trial muscle night game snack attack slush tiger glass erase dignity judge";
+var mnemonic = "layer banana duty need unknown uphold casual cave length grass table fog";

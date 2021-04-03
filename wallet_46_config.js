@@ -1,1 +1,1 @@
-var mnemonic = "ecology kangaroo series long hobby rain injury already trim pave coral ten";
+var mnemonic = "vital long unique junior setup frozen robot gentle horn aisle weather when";

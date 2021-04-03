@@ -1,1 +1,1 @@
-var mnemonic = "zero train virtual version aisle desk stamp project license divert claim sing";
+var mnemonic = "front anger forest hood cradle impose letter slab afford minute unlock siren";

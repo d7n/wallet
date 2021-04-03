@@ -1,1 +1,1 @@
-var mnemonic = "tenant day inflict labor pave present stand eager initial wrist decrease learn";
+var mnemonic = "bright public claw traffic spirit orphan foil wild artefact surprise fix menu";

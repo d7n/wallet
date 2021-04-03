@@ -1,1 +1,1 @@
-var mnemonic = "miracle auction toilet frown picnic acquire mansion barely anchor pen keep stove";
+var mnemonic = "emotion employ smoke royal memory ordinary either supreme history about amateur swim";

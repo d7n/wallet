@@ -1,1 +1,1 @@
-var mnemonic = "option pull best shiver insane staff grunt jazz hedgehog between sing fever";
+var mnemonic = "pave banner penalty sibling type staff home output tomato solid million demise";

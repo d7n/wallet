@@ -1,1 +1,1 @@
-var mnemonic = "nuclear mask junior sauce worry credit buffalo nurse smart suffer jelly since";
+var mnemonic = "act visa industry screen black pact select museum garlic because giant zoo";

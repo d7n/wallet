@@ -1,1 +1,1 @@
-var mnemonic = "detect jewel aspect word group wrist impose cluster useless general document width";
+var mnemonic = "moon candy public reason prevent copy pony demise awake cruise tragic filter";

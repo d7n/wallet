@@ -1,1 +1,1 @@
-var mnemonic = "vehicle junior endless occur soon harbor tank divert wood praise mimic valley";
+var mnemonic = "famous lucky cruise laptop region wealth away devote artist artefact know unique";

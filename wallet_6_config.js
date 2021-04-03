@@ -1,1 +1,1 @@
-var mnemonic = "pear bone cabin secret alone attitude exit coyote cloth skirt fade wire";
+var mnemonic = "alpha clay rigid damp collect warfare follow solar cupboard cave submit glove";

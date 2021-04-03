@@ -1,1 +1,1 @@
-var mnemonic = "measure tragic among supply reform this crunch ethics river gorilla nurse jeans";
+var mnemonic = "youth payment cheap shiver thumb dove foil buyer about patrol recycle half";

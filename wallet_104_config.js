@@ -1,1 +1,1 @@
-var mnemonic = "suit peanut sad pipe dinner initial buzz reunion diamond never glimpse advance";
+var mnemonic = "crisp member remember proof digital bid faculty insane notable faint bind cram";
