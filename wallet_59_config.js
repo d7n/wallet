@@ -1,1 +1,1 @@
-var mnemonic = "color reject blind section clay travel dirt walk rich crunch almost ahead";
+var mnemonic = "blast brand eagle apart recipe auction clinic admit humor dove travel resist";

@@ -1,1 +1,1 @@
-var mnemonic = "brick fame midnight execute industry umbrella cycle apple bulb chapter cherry foil";
+var mnemonic = "kitten cloud goddess auction nation best once govern educate shrug shoulder mammal";

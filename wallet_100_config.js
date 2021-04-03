@@ -1,1 +1,1 @@
-var mnemonic = "garden service satisfy system network unusual obey episode winter accuse come reform";
+var mnemonic = "fire desk chaos load derive make input large drip above axis broom";

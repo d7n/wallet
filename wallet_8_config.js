@@ -1,1 +1,1 @@
-var mnemonic = "dry torch enforce device rough stairs legend camera orbit season when combine";
+var mnemonic = "word setup hunt lonely salon lava unfold strong melt found food unfold";

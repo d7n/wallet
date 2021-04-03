@@ -1,1 +1,1 @@
-var mnemonic = "master expose orbit end small skirt quote cushion reunion amateur magnet misery";
+var mnemonic = "east exile wise dinner hole deputy powder task kidney buffalo connect salmon";

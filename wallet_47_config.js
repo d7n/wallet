@@ -1,1 +1,1 @@
-var mnemonic = "artefact pill afraid egg improve card cost limit guitar horn art observe";
+var mnemonic = "gown wrist time solution dirt swallow section pistol universe follow sun alcohol";

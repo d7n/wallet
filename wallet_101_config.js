@@ -1,1 +1,1 @@
-var mnemonic = "bar pet child fault chalk pluck flag grit fuel derive car borrow";
+var mnemonic = "lobster world judge letter sword tunnel skull slam energy hand orchard about";

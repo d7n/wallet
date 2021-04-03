@@ -1,1 +1,1 @@
-var mnemonic = "tree spy shoulder subway live cave useful beach adapt flee fatigue swing";
+var mnemonic = "group slot sniff tool juice glide excuse govern gentle multiply extend woman";

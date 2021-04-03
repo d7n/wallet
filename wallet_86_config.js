@@ -1,1 +1,1 @@
-var mnemonic = "enter layer rapid rail excuse saddle stove urge also leaf inject area";
+var mnemonic = "away prison pond casino term census inflict equip muscle outdoor twelve tilt";

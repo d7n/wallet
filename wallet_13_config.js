@@ -1,1 +1,1 @@
-var mnemonic = "curtain exhaust paddle anchor reflect win craft pave priority wrestle flip cement";
+var mnemonic = "eight bracket devote pudding galaxy category adapt absurd frequent across extend dinner";

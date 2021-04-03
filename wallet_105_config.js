@@ -1,1 +1,1 @@
-var mnemonic = "right okay flash empty foot achieve village unable very split sword program";
+var mnemonic = "bone prevent lawn evil under law liquid deposit fence bone sound quit";

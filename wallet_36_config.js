@@ -1,1 +1,1 @@
-var mnemonic = "draw wet link urban sight search sponsor pizza east example random pear";
+var mnemonic = "method patrol they leader narrow throw warm genuine fatigue share fancy feel";

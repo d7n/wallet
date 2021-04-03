@@ -1,1 +1,1 @@
-var mnemonic = "merry betray candy detect sting coral box rabbit knock claim pony fly";
+var mnemonic = "jazz question clarify sleep hurt dawn flower deer segment tomorrow winter case";

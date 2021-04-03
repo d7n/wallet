@@ -1,1 +1,1 @@
-var mnemonic = "wisdom hover post quick sponsor tuna erosion burger divert fog since grab";
+var mnemonic = "tornado fresh ivory tent list coil eager rate name lunar ivory bone";

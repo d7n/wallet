@@ -1,1 +1,1 @@
-var mnemonic = "obtain unable sentence vacuum shallow human ethics humor link theory robust jazz";
+var mnemonic = "kind thing case dice kite still across omit vote legend mosquito loud";

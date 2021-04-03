@@ -1,1 +1,1 @@
-var mnemonic = "mouse capable repair exercise hurt warm enemy during globe rich salmon fan";
+var mnemonic = "leg resemble debate subject bronze prison disease fault end sign ritual van";

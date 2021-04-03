@@ -1,1 +1,1 @@
-var mnemonic = "early dinner flame lunch recycle possible sentence bracket good pill box fish";
+var mnemonic = "strike element wear convince lemon dash comic noise comic primary father mean";

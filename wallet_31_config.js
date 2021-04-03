@@ -1,1 +1,1 @@
-var mnemonic = "alter whale calm evidence regret oval wreck direct unknown goddess device poverty";
+var mnemonic = "join luggage announce sauce conduct woman exotic quality way audit coyote tree";

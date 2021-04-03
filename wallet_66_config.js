@@ -1,1 +1,1 @@
-var mnemonic = "cruel stereo fashion document endorse lobster hospital film change start lunch lady";
+var mnemonic = "chase depart enrich welcome favorite place dust frown color reveal blame crane";

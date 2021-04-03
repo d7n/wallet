@@ -1,1 +1,1 @@
-var mnemonic = "because column brass reform diary left nurse swallow dose cherry castle profit";
+var mnemonic = "assist skull crazy deposit uncover drum hero naive any embark brain spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil banana prosper reveal boring chair any pink mechanic wheat hat entire";
+var mnemonic = "federal hint love plastic crucial net master provide swing faculty repair divert";

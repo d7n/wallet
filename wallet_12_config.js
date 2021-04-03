@@ -1,1 +1,1 @@
-var mnemonic = "issue lonely wisdom private smile chimney gasp team spell wreck vapor owner";
+var mnemonic = "phone energy panda expire left card creek trend hamster repeat reduce sight";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow pig assist direct side member suggest month expect click vehicle runway";
+var mnemonic = "uphold tooth sustain arrive until jewel upon kite evidence believe rebel force";

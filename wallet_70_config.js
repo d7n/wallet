@@ -1,1 +1,1 @@
-var mnemonic = "depart special limit brush attend offer maid devote nice crop opinion rescue";
+var mnemonic = "wall vacant captain solve core mother emotion shove almost wage diamond milk";

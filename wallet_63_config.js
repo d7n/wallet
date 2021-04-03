@@ -1,1 +1,1 @@
-var mnemonic = "congress marine canvas paddle mango hire wreck amateur never poverty display more";
+var mnemonic = "beauty dinosaur strong across voice track salmon aim emerge typical patrol behave";

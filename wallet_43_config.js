@@ -1,1 +1,1 @@
-var mnemonic = "vast cash trade flip frost shrug quiz position virtual split dizzy rug";
+var mnemonic = "mistake siren museum tenant soft trend day obey adjust only question smooth";

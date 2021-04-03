@@ -1,1 +1,1 @@
-var mnemonic = "ticket method online aunt scrap raven usage fossil screen brave plunge desert";
+var mnemonic = "cruise ice mushroom afford hip state taste pave uniform gym correct gorilla";

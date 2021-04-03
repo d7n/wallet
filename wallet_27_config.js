@@ -1,1 +1,1 @@
-var mnemonic = "bread resource visa turtle come give scene kangaroo thought letter round share";
+var mnemonic = "please obey join sleep piano submit item another alter lottery action mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "grid tilt crawl pulse dignity tongue race cake frown pistol local cereal";
+var mnemonic = "order asthma brand guitar plunge dove wasp chalk guitar online mix glow";

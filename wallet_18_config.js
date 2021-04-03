@@ -1,1 +1,1 @@
-var mnemonic = "game design caught alter lecture jump rare raise off climb screen detail";
+var mnemonic = "impulse round spare anger thumb fantasy oak glove obtain just slender elevator";

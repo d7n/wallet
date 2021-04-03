@@ -1,1 +1,1 @@
-var mnemonic = "sock wave dismiss banana island month man smoke hurt will blush swing";
+var mnemonic = "trumpet unveil issue horn goddess woman bundle loyal ask remain wasp air";

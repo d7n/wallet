@@ -1,1 +1,1 @@
-var mnemonic = "glimpse milk decrease weekend base grid simple elegant shock affair tone grocery";
+var mnemonic = "shed category salt grape camp dumb indicate gym tragic middle robust infant";

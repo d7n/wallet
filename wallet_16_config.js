@@ -1,1 +1,1 @@
-var mnemonic = "occur illness sustain ability culture year moment village please merry wave receive";
+var mnemonic = "nerve all taxi gain share country build evolve because auto foil behave";

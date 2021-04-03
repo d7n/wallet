@@ -1,1 +1,1 @@
-var mnemonic = "voice flame lecture hundred wool plastic slice gym coast town also wild";
+var mnemonic = "pluck daring tragic debate dawn ecology delay hammer impose angry speak utility";

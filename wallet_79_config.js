@@ -1,1 +1,1 @@
-var mnemonic = "glue female essence gift rival step enhance agree visit wrist beyond stool";
+var mnemonic = "about hurt giraffe pioneer timber fence noise history harbor city town work";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete record lawsuit visual captain strike wage floor spell icon join illness";
+var mnemonic = "hurdle domain bonus arena genre small parent melody library pipe avocado stem";

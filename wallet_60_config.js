@@ -1,1 +1,1 @@
-var mnemonic = "wreck file lumber banner settle violin zoo liquid ridge gain dial town";
+var mnemonic = "boss elder quarter audit month file chapter kind twin mountain embark tag";

@@ -1,1 +1,1 @@
-var mnemonic = "sense friend famous kidney rail question erode hope stereo true page income";
+var mnemonic = "gain shine need squeeze wagon aunt supply evil donor fun media decade";

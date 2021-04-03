@@ -1,1 +1,1 @@
-var mnemonic = "sudden barrel output idea illness potato rhythm river cupboard noise rookie elbow";
+var mnemonic = "try together viable choose educate unit buzz ridge avocado chicken mimic velvet";

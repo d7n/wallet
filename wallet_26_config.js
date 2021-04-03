@@ -1,1 +1,1 @@
-var mnemonic = "slide any hover crime avoid envelope network kingdom predict repair supreme list";
+var mnemonic = "knife adult labor before security display venture cream rigid draft grunt cluster";

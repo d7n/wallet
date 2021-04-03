@@ -1,1 +1,1 @@
-var mnemonic = "horse uncle little amazing lonely film ski one hole elevator pet vendor";
+var mnemonic = "peanut eager sound airport never armed marriage village pretty join gesture oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "wire laugh surface opinion grape style float net practice genius initial setup";
+var mnemonic = "else endless firm record company youth harvest benefit coast shy fashion future";

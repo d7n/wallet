@@ -1,1 +1,1 @@
-var mnemonic = "work garage famous attract tongue transfer gold educate empower enough fresh mobile";
+var mnemonic = "wreck daring run kind cube ketchup situate page bless sphere degree truth";

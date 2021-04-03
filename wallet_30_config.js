@@ -1,1 +1,1 @@
-var mnemonic = "myth broccoli owner bean barrel total wide disagree blame idea mail dish";
+var mnemonic = "wrong dismiss easily pelican mammal palace crime symptom lawsuit body pill poet";

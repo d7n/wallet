@@ -1,1 +1,1 @@
-var mnemonic = "smile ordinary away weird height live goose method require ball cage mimic";
+var mnemonic = "oval rigid party hat convince neither immense nut gauge profit invite asset";

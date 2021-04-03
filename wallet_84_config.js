@@ -1,1 +1,1 @@
-var mnemonic = "great farm mosquito flag funny code damp salmon tower expose merit sun";
+var mnemonic = "history siege fury claw brave meat ball tennis game illegal enjoy soap";

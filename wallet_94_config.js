@@ -1,1 +1,1 @@
-var mnemonic = "hundred lion river snow erosion wait change deer base must few pulse";
+var mnemonic = "ritual noise kind picnic utility panic wolf inform shine segment gesture couch";

@@ -1,1 +1,1 @@
-var mnemonic = "side fiscal fetch venture fancy slush street combine torch morning shy grain";
+var mnemonic = "soup spatial village brick illness talk unfold brisk credit prosper captain door";

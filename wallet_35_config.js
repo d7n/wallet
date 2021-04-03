@@ -1,1 +1,1 @@
-var mnemonic = "giggle trim coast carry hazard carpet fantasy shuffle bleak month town aunt";
+var mnemonic = "autumn scheme hill sentence artist horror casual miracle quarter host inquiry speak";

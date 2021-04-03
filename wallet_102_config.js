@@ -1,1 +1,1 @@
-var mnemonic = "season earth indicate sheriff grape obey grant legal cheese addict sleep armor";
+var mnemonic = "indicate horror machine love strategy outside actor bless joke robot swap rival";

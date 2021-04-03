@@ -1,1 +1,1 @@
-var mnemonic = "satisfy access gain able alarm violin taste egg inhale ski remember goose";
+var mnemonic = "heart noodle liar worth vague muscle crumble expect toast garden ready short";

@@ -1,1 +1,1 @@
-var mnemonic = "skin hood dune ticket seven nasty visit layer puppy fabric hollow stock";
+var mnemonic = "twenty daughter sleep educate margin ripple transfer garlic aspect claim range lake";

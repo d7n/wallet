@@ -1,1 +1,1 @@
-var mnemonic = "more science physical feel will rail fish same gossip benefit taxi address";
+var mnemonic = "belt expose cricket version globe lab mind copper hill dune casual nature";

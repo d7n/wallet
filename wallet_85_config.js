@@ -1,1 +1,1 @@
-var mnemonic = "profit injury action protect zero boy broom scene fetch actress size beach";
+var mnemonic = "episode copper replace large canal know glad violin rhythm brand escape begin";

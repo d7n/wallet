@@ -1,1 +1,1 @@
-var mnemonic = "employ skin cake define saddle garlic secret symptom mistake chat awesome example";
+var mnemonic = "arrive slab orphan drama clog worry sweet card cancel fish vivid deer";

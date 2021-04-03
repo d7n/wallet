@@ -1,1 +1,1 @@
-var mnemonic = "decrease lend exhibit client frost protect strike saddle comfort deposit when speak";
+var mnemonic = "image among effort child hazard scan pupil hundred tunnel budget book ostrich";

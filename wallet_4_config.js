@@ -1,1 +1,1 @@
-var mnemonic = "library kangaroo type turn sauce tell hand all grief save acid level";
+var mnemonic = "easy industry disease buffalo still frequent income talk ozone verify number same";

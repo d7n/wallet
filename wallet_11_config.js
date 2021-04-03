@@ -1,1 +1,1 @@
-var mnemonic = "category test kingdom rhythm stairs affair deal such firm tuna raise switch";
+var mnemonic = "wait license quantum exact together salt lava grid screen gaze agent garlic";

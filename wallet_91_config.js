@@ -1,1 +1,1 @@
-var mnemonic = "always inch kiss item input gym village crisp address wire curious ordinary";
+var mnemonic = "reveal theme member bicycle primary foster truth key exact royal lonely eagle";

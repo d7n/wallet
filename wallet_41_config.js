@@ -1,1 +1,1 @@
-var mnemonic = "island victory exile margin steak spike butter february word tackle junior jealous";
+var mnemonic = "sugar artefact atom injury achieve diary verb always decrease story region place";

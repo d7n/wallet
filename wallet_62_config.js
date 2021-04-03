@@ -1,1 +1,1 @@
-var mnemonic = "ignore sort donor west harbor during pelican where fox business lecture budget";
+var mnemonic = "elite shaft catalog access skin copper tornado screen pottery candy stand trigger";

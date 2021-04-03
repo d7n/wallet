@@ -1,1 +1,1 @@
-var mnemonic = "gain same detail portion noise favorite into still spatial culture nerve penalty";
+var mnemonic = "raw bid wish pill attack front suit decorate patient program dove plate";

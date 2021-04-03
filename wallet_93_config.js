@@ -1,1 +1,1 @@
-var mnemonic = "dash theme human impact relief walk scale stone evil rally attitude tenant";
+var mnemonic = "afraid balance tribe blue traffic prize man stumble remain weapon produce ring";

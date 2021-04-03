@@ -1,1 +1,1 @@
-var mnemonic = "evil soon deliver gasp animal flame dutch club ugly leisure maple quality";
+var mnemonic = "team sport attract ankle quality connect upgrade maximum found income climb receive";

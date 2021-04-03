@@ -1,1 +1,1 @@
-var mnemonic = "issue soldier flip style keen stool region paddle staff setup mother leisure";
+var mnemonic = "wine hollow fine bundle autumn pilot notable basket tooth almost health slow";

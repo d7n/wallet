@@ -1,1 +1,1 @@
-var mnemonic = "trend supreme abandon jealous dance dawn nurse female marriage jar special actor";
+var mnemonic = "express spoon winter fury report scheme simple silk better pitch swamp proof";

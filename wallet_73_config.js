@@ -1,1 +1,1 @@
-var mnemonic = "subject arch latin garment legal option gossip father ski ceiling trick dumb";
+var mnemonic = "diary despair enough maximum size adult click message survey strike minor client";

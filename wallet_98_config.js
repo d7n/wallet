@@ -1,1 +1,1 @@
-var mnemonic = "cash help height million illness catalog axis alley genre anger speed sick";
+var mnemonic = "kind grunt initial retreat spider address train cabin good calm option hen";

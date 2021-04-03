@@ -1,1 +1,1 @@
-var mnemonic = "siren spot trap spring skin chunk pyramid husband test often admit scrap";
+var mnemonic = "kind learn code way female check promote inflict mammal syrup author risk";

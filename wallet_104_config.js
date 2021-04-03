@@ -1,1 +1,1 @@
-var mnemonic = "kite basket spike curtain tray lava ancient armed never road scene erosion";
+var mnemonic = "receive various destroy candy giggle wedding deliver kiwi mystery improve hand ivory";

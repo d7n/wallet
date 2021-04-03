@@ -1,1 +1,1 @@
-var mnemonic = "coffee neutral piece oxygen divorce develop riot twin tent ramp hundred fatigue";
+var mnemonic = "huge tuna swamp sport focus broccoli lamp vast slot shine table source";

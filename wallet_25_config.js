@@ -1,1 +1,1 @@
-var mnemonic = "judge engage siren coconut thrive timber parent weasel live scale curious fox";
+var mnemonic = "visual section gravity machine trick skill coyote dirt ten shift stuff correct";

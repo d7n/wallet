@@ -1,1 +1,1 @@
-var mnemonic = "dry impact spell tilt stereo luxury vibrant bind dutch nest bind prison";
+var mnemonic = "distance force during globe wool recall lobster caught iron trouble final entry";

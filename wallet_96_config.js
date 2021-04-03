@@ -1,1 +1,1 @@
-var mnemonic = "bargain engine ticket scene plate glove assume adapt light omit drop slush";
+var mnemonic = "green pupil logic ozone one improve spoon category need blue people rifle";

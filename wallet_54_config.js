@@ -1,1 +1,1 @@
-var mnemonic = "tongue digital gesture unable sell response decline shed acoustic soon napkin similar";
+var mnemonic = "raccoon bubble person vintage hope palace version case firm juice half wait";

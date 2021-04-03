@@ -1,1 +1,1 @@
-var mnemonic = "myself joke cool top shove cage steak concert thank artefact evil easy";
+var mnemonic = "avoid document fuel slush quarter few genuine monkey civil century erupt secret";

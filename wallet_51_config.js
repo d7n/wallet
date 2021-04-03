@@ -1,1 +1,1 @@
-var mnemonic = "accuse update spice slender birth shaft kiwi acid honey grant large shed";
+var mnemonic = "village smile ready filter autumn size roast budget shoulder border hurdle boss";

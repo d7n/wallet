@@ -1,1 +1,1 @@
-var mnemonic = "two rice volume wink about start trap loyal wall will obtain slice";
+var mnemonic = "garment oak fork leave entire open angle half sun garage trumpet certain";

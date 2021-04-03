@@ -1,1 +1,1 @@
-var mnemonic = "confirm future plate betray object shoot merge lottery rhythm flush hood hope";
+var mnemonic = "liberty snap seed bread notice person scrub aim police crisp voyage first";

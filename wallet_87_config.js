@@ -1,1 +1,1 @@
-var mnemonic = "sibling setup snow slush step truck check gate noise bachelor powder chimney";
+var mnemonic = "suspect parrot poet lamp reject someone rotate despair ten tobacco stock filter";

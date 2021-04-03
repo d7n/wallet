@@ -1,1 +1,1 @@
-var mnemonic = "tube solve virus leave plastic first cup hat spoil stem churn trade";
+var mnemonic = "waste drift balcony modify agent voice accident become identify clarify cat search";

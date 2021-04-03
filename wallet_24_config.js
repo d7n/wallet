@@ -1,1 +1,1 @@
-var mnemonic = "inch dinosaur impose erupt simple hold video mansion myth scheme true shrimp";
+var mnemonic = "flight foot knock glory answer room index sadness leisure inform accident music";

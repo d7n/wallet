@@ -1,1 +1,1 @@
-var mnemonic = "kind try bike nest pluck estate owner link merry awesome average history";
+var mnemonic = "maid egg over kangaroo dad mention robot two reflect jeans magic equip";

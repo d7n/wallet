@@ -1,1 +1,1 @@
-var mnemonic = "cotton innocent canoe shoot outer guitar write admit inhale act quality board";
+var mnemonic = "hood brush exotic chaos attitude actress predict sense abandon window just salt";

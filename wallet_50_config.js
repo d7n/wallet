@@ -1,1 +1,1 @@
-var mnemonic = "pottery mouse else blind blur angle tribe valley when dad memory jump";
+var mnemonic = "vicious beauty company beach hard pill action orient fork quiz hole coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "trick volcano used suffer essence skirt fish evil board charge brick indoor";
+var mnemonic = "audit sleep guilt junior acquire rebuild knock time used science grace divide";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect parrot stem transfer once shed luggage decrease attract just suggest song";
+var mnemonic = "stove subway cross jewel river flip alley melt screen paddle fee crowd";

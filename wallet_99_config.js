@@ -1,1 +1,1 @@
-var mnemonic = "ranch injury noise indicate supreme armor skill express author spirit spider remember";
+var mnemonic = "spend spell garage drastic knee finish alter worth section glow digital copy";

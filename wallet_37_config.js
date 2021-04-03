@@ -1,1 +1,1 @@
-var mnemonic = "antenna cycle lecture exhaust bid note morning avoid element limb morning tired";
+var mnemonic = "service slow tone minute syrup ring cry switch obvious combine spot crime";

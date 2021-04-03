@@ -1,1 +1,1 @@
-var mnemonic = "mechanic bundle timber first spend agent one raccoon tourist jump denial record";
+var mnemonic = "west suggest goat sausage hand magnet indoor outside fury brave aware creek";

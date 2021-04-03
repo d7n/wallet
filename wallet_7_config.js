@@ -1,1 +1,1 @@
-var mnemonic = "diary other scatter topple blade ceiling mixture also section ancient taste raise";
+var mnemonic = "link slush pave innocent ten suggest divide warrior harvest jump convince august";
