@@ -1,1 +1,1 @@
-var mnemonic = "spirit that prevent camera private want afford benefit doctor caution ranch task";
+var mnemonic = "energy tell pass scatter gadget large tent tragic slot pulse acquire claw";

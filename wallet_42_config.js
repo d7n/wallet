@@ -1,1 +1,1 @@
-var mnemonic = "kid curve any cement picture economy grape select zero woman predict opinion";
+var mnemonic = "unknown fancy scorpion empty alone tired unveil horror giant public life embrace";

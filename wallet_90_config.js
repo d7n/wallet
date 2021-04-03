@@ -1,1 +1,1 @@
-var mnemonic = "tenant evoke come price cruise alert dragon anchor olive fatal page claw";
+var mnemonic = "angle grab license lemon double month volume tray vibrant exhaust allow hybrid";

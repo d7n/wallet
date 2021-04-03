@@ -1,1 +1,1 @@
-var mnemonic = "maple own exit science siren supply general fiction tank client sell brass";
+var mnemonic = "collect canal raw correct rude author skirt verb expand trend sudden boil";

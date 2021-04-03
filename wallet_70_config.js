@@ -1,1 +1,1 @@
-var mnemonic = "empower once engine divide doll enhance early move chest minute sing frequent";
+var mnemonic = "topic animal tissue kick forest novel liar game all cliff emerge pass";

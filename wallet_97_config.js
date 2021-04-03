@@ -1,1 +1,1 @@
-var mnemonic = "hollow captain million vault bridge faith author library nation solve gentle huge";
+var mnemonic = "need brisk vacant give relief wonder peanut neglect sport debris initial only";

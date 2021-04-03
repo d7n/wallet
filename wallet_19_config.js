@@ -1,1 +1,1 @@
-var mnemonic = "canal scheme universe raise toe song runway kid van fold expire order";
+var mnemonic = "elder cricket naive egg few arena drive egg mechanic boil kite mouse";

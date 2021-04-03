@@ -1,1 +1,1 @@
-var mnemonic = "couch scan spider want scout delay shiver outside job vibrant chapter side";
+var mnemonic = "firm lobster fame pair hundred quote relax pottery glass enlist label hire";

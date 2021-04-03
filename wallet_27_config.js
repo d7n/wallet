@@ -1,1 +1,1 @@
-var mnemonic = "fly evoke squeeze lucky shadow avocado mesh error winner chef bean keep";
+var mnemonic = "pottery ignore thumb blast about table coach addict region leisure verify kid";

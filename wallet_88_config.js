@@ -1,1 +1,1 @@
-var mnemonic = "carpet heart tool auto olive any illegal stone rigid stick swamp melt";
+var mnemonic = "depend garden legend math imitate teach split puzzle damp pact bamboo fun";

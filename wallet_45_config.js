@@ -1,1 +1,1 @@
-var mnemonic = "federal cruel junior edit decline sunny shaft rack slice lava never renew";
+var mnemonic = "liberty provide rough slush invite bean twice direct slender piano empty drum";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly faint reunion lock borrow venue pulp mercy hire cook album episode";
+var mnemonic = "edge harbor impose shock hero there dinner page kidney tower warfare hotel";

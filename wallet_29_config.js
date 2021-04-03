@@ -1,1 +1,1 @@
-var mnemonic = "nothing gloom vacant suffer roast conduct asset impulse wisdom puzzle forum pride";
+var mnemonic = "clay mistake sport amused gym camera order fruit keep lazy old degree";

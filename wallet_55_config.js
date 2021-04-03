@@ -1,1 +1,1 @@
-var mnemonic = "spy soda party stuff orphan still approve utility mansion wage original book";
+var mnemonic = "envelope mix elegant robot next result process panel adult hammer green cycle";

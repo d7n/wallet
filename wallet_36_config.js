@@ -1,1 +1,1 @@
-var mnemonic = "story render guilt under believe mean dumb plastic trouble fox major cushion";
+var mnemonic = "loan barely clap search topple rabbit skate fox mail east genuine grunt";

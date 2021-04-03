@@ -1,1 +1,1 @@
-var mnemonic = "muscle oblige easy avoid virtual next fine woman future peanut have buddy";
+var mnemonic = "alert public ranch found cricket unknown trophy clerk census zoo venture method";

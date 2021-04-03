@@ -1,1 +1,1 @@
-var mnemonic = "govern fame powder grass fame post endless clip ability they puppy tooth";
+var mnemonic = "acquire pioneer license original gym merry boil october poet robust mimic disorder";

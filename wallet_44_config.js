@@ -1,1 +1,1 @@
-var mnemonic = "polar high bitter orphan height smooth hero planet ripple floor lucky soda";
+var mnemonic = "emerge bachelor motor infant unusual grass stock canoe announce ride trumpet vintage";

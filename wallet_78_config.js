@@ -1,1 +1,1 @@
-var mnemonic = "kit evil hamster memory motion symbol shy quote solid bread rain rib";
+var mnemonic = "polar crater lesson fossil cannon dice actor bracket punch father mansion jeans";

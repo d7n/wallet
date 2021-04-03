@@ -1,1 +1,1 @@
-var mnemonic = "fox fee cross glare region shuffle female chronic barely replace find post";
+var mnemonic = "picture dry course poet just rookie cotton hazard empty awkward task ivory";

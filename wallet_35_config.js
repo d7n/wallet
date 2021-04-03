@@ -1,1 +1,1 @@
-var mnemonic = "alarm mask section apple curve inject decide raven large giggle blush execute";
+var mnemonic = "scare impose polar film jazz bench alarm fuel dinner slush pipe plunge";

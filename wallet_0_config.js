@@ -1,1 +1,1 @@
-var mnemonic = "extend evil fold life tide floor auto cycle distance over want ignore";
+var mnemonic = "stone mask kiss rent finish mistake shallow physical creek winner country predict";

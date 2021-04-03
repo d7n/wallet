@@ -1,1 +1,1 @@
-var mnemonic = "trim next swift enter stem mandate insect aware depth lounge element inch";
+var mnemonic = "kid worry master material either girl million excess find worth master cinnamon";

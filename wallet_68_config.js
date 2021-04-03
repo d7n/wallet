@@ -1,1 +1,1 @@
-var mnemonic = "cactus claim place jazz short mother orient carry shrimp prefer toward dismiss";
+var mnemonic = "patrol surround bulb what copy raise design olive deliver ahead tiger normal";

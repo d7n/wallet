@@ -1,1 +1,1 @@
-var mnemonic = "huge arena often process patch goat narrow praise prize view hub lamp";
+var mnemonic = "journey actress quit peanut deer measure pretty tilt supreme tribe jewel code";

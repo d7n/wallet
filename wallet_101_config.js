@@ -1,1 +1,1 @@
-var mnemonic = "crack river slab manage enhance delay person age uniform bind material love";
+var mnemonic = "ordinary cliff naive intact candy drastic eight spare goat shield uncover best";

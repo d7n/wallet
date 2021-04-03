@@ -1,1 +1,1 @@
-var mnemonic = "midnight maid rule style law south hurdle member decline circle episode educate";
+var mnemonic = "gain trap ski mom field peanut icon vast garment crazy camp cage";

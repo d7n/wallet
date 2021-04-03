@@ -1,1 +1,1 @@
-var mnemonic = "erosion cement section endorse edit profit glimpse dragon mammal peace tired thank";
+var mnemonic = "blush catch brass taxi pencil lake crash celery luxury little blood enroll";

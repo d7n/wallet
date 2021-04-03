@@ -1,1 +1,1 @@
-var mnemonic = "fee evolve warrior learn stay army strong kingdom kick drink jazz artefact";
+var mnemonic = "cart win arch throw office fire crazy engine jelly laugh pelican engine";

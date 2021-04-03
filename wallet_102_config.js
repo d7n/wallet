@@ -1,1 +1,1 @@
-var mnemonic = "armor tragic today lift mesh pipe spread raw gather poem gadget imitate";
+var mnemonic = "erupt lottery stem purse cloud twin average keen sniff slam clay rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect degree reopen trash foam usage mutual want cabin trade float moon";
+var mnemonic = "leave pizza wrestle hunt another spice gentle citizen rose dinner stem tilt";

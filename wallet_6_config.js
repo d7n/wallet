@@ -1,1 +1,1 @@
-var mnemonic = "require shoe snack pulse lounge jealous laugh pink simple audit hip split";
+var mnemonic = "there such move novel abstract feed fragile spell venture kingdom donkey sniff";

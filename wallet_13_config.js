@@ -1,1 +1,1 @@
-var mnemonic = "suspect inquiry aware client enhance obscure cruel claw large meat lounge hundred";
+var mnemonic = "symbol absurd green response puppy ready shift struggle gift ostrich error axis";

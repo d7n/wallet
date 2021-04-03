@@ -1,1 +1,1 @@
-var mnemonic = "metal execute salmon guitar insane ball wear scale price always purity any";
+var mnemonic = "pet odor wreck brass catch debate report cash royal van viable sketch";

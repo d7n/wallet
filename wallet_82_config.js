@@ -1,1 +1,1 @@
-var mnemonic = "canyon uphold tray whisper peasant genuine furnace walk degree topic grace again";
+var mnemonic = "tired mercy club nominee range trick violin fiscal jungle laugh sadness dash";

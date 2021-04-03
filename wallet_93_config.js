@@ -1,1 +1,1 @@
-var mnemonic = "rhythm you apart similar dumb rent season useful dentist rigid cat milk";
+var mnemonic = "plastic scale trouble like bird crowd matrix december image media talent feature";

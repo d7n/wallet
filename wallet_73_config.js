@@ -1,1 +1,1 @@
-var mnemonic = "flame hub coin where equip orchard topic unique solve work brick chat";
+var mnemonic = "strike alley laundry ordinary old wedding shine sun dizzy dirt crowd nothing";

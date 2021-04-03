@@ -1,1 +1,1 @@
-var mnemonic = "frozen alert save tortoise coin various lift such jacket coral royal spray";
+var mnemonic = "million daring suggest prevent fancy exchange cereal warm favorite gasp equip penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich book timber until iron hawk abuse riot foil post strong cousin";
+var mnemonic = "delay brush artwork exhibit slice crisp receive moon ordinary face snake forward";

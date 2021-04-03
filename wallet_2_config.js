@@ -1,1 +1,1 @@
-var mnemonic = "sign achieve middle eagle mercy cloth elephant flavor mean front mechanic jealous";
+var mnemonic = "cruise palm immune snake copy finger bullet upgrade frozen ugly claw affair";

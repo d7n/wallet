@@ -1,1 +1,1 @@
-var mnemonic = "scorpion end carbon zero invest hire auto pistol pair crystal amused siren";
+var mnemonic = "prefer notice mention defense tide morning slush course yard target label wear";

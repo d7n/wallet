@@ -1,1 +1,1 @@
-var mnemonic = "pause unique island eight thrive track enough reduce pulp open install hope";
+var mnemonic = "siren cream barely claw print demise domain frame teach august tennis harsh";

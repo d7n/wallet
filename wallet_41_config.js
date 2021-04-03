@@ -1,1 +1,1 @@
-var mnemonic = "dirt erase glue used fog mango whip arrest same asset rule season";
+var mnemonic = "draw desk stick cannon gravity effort horror angry trial moment upon pumpkin";

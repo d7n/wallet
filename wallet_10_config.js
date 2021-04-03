@@ -1,1 +1,1 @@
-var mnemonic = "shiver prize flush lizard prosper dignity dismiss club circle rain bid crumble";
+var mnemonic = "tiger slab scrub enlist later thrive great visa debris number decade that";

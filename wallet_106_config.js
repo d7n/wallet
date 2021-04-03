@@ -1,1 +1,1 @@
-var mnemonic = "rate swap topple pool stock energy slogan display license garlic lens announce";
+var mnemonic = "abstract enable gauge rigid drill immune ask syrup flag pizza blue work";

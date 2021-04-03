@@ -1,1 +1,1 @@
-var mnemonic = "waste piece absent prize custom inch athlete weapon legend scrap scissors street";
+var mnemonic = "among garbage aunt panther skirt foam display rare security syrup hungry cupboard";

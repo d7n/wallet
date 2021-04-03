@@ -1,1 +1,1 @@
-var mnemonic = "quantum shoe bamboo orchard smooth broom angle eight marine simple refuse labor";
+var mnemonic = "sure crawl nose enhance taste gasp buffalo harbor unit lounge venue risk";

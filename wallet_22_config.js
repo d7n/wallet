@@ -1,1 +1,1 @@
-var mnemonic = "arrive odor unveil cousin punch retreat corn order chef special domain shift";
+var mnemonic = "pelican dry hawk hospital snake faith slab merit render shoe duck once";

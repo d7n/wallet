@@ -1,1 +1,1 @@
-var mnemonic = "cart chase toddler robust cluster pole day engine wild globe antenna usual";
+var mnemonic = "sea history indicate silver vital health oval awake people loud area hospital";

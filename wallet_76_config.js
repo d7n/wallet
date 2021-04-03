@@ -1,1 +1,1 @@
-var mnemonic = "top risk initial trade morning ticket mutual assist blood shiver sell december";
+var mnemonic = "course world comfort raccoon fossil clarify help display raven other weird figure";

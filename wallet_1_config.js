@@ -1,1 +1,1 @@
-var mnemonic = "law remain surround average rural warrior manage ship speak pool small gas";
+var mnemonic = "flower tooth blouse harbor kite clay dutch rabbit boss tiger meat physical";

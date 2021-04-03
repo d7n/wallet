@@ -1,1 +1,1 @@
-var mnemonic = "family tunnel supply cave neutral castle false camera admit venture gas carpet";
+var mnemonic = "pioneer cook cruel that youth scale model settle trip frog island old";

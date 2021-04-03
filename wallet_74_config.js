@@ -1,1 +1,1 @@
-var mnemonic = "present balcony omit quarter opinion unusual cradle witness dust defy owner short";
+var mnemonic = "access undo indicate crumble oven park swim cash increase fox stem smart";

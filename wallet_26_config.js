@@ -1,1 +1,1 @@
-var mnemonic = "exhibit affair write average chimney oval tool nominee song mother guilt middle";
+var mnemonic = "foster fortune cushion torch drive surround autumn brave sunny weather story crane";

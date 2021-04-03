@@ -1,1 +1,1 @@
-var mnemonic = "spare protect fine basket cash puppy spider mesh between subway few float";
+var mnemonic = "giggle assault velvet tail junk sentence dismiss sibling work gap indicate identify";

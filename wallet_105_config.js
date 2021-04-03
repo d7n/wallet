@@ -1,1 +1,1 @@
-var mnemonic = "process express flee treat mass push leave forest shine average jelly lizard";
+var mnemonic = "trophy kangaroo rack badge want key screen lazy column figure powder clarify";

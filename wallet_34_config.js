@@ -1,1 +1,1 @@
-var mnemonic = "fan wash build throw trash south believe citizen local garage visual cactus";
+var mnemonic = "system deposit exclude differ course prefer appear adapt urban reflect flight pitch";

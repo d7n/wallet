@@ -1,1 +1,1 @@
-var mnemonic = "sorry army clay voice skate vehicle that salad purity produce hole ocean";
+var mnemonic = "modify gallery bring lounge wine alarm edit monkey agent allow real cousin";

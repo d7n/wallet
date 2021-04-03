@@ -1,1 +1,1 @@
-var mnemonic = "grid resource ostrich guide science step alert aware false swing toast torch";
+var mnemonic = "orange asset prison resemble clay page asset canyon blush wrap turtle lens";

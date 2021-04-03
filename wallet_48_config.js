@@ -1,1 +1,1 @@
-var mnemonic = "coral conduct tissue skill celery crane upgrade network fetch erode input silent";
+var mnemonic = "boss network decrease door polar daughter minor legal issue another insane plate";

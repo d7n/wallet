@@ -1,1 +1,1 @@
-var mnemonic = "ugly interest keen multiply cloud clean adapt property wagon city craft erupt";
+var mnemonic = "spike earth pipe wash surprise aunt modify brass silk cancel object erode";

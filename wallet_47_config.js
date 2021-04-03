@@ -1,1 +1,1 @@
-var mnemonic = "palace rubber gravity cute exact crack flash coil forest song author tribe";
+var mnemonic = "battle unlock spray session lecture option school tone end decide choice burden";

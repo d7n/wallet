@@ -1,1 +1,1 @@
-var mnemonic = "shuffle camp expose inspire initial pull wedding forward lock duty salute hen";
+var mnemonic = "industry blue ball medal unaware urge leaf prepare diesel prize farm oil";

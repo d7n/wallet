@@ -1,1 +1,1 @@
-var mnemonic = "tray myth first sphere spread source express spend view donor mutual hobby";
+var mnemonic = "police differ case engine inquiry wine kite kiwi depend thrive illness cup";

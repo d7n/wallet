@@ -1,1 +1,1 @@
-var mnemonic = "hint ordinary rhythm oyster about action memory public ahead life left tunnel";
+var mnemonic = "chalk search about insect cart inject also source friend gentle alter excuse";

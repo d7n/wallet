@@ -1,1 +1,1 @@
-var mnemonic = "salon must version biology balance radar session famous satisfy one dune denial";
+var mnemonic = "square already pelican escape ostrich fatigue path dutch must staff foster print";

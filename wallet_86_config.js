@@ -1,1 +1,1 @@
-var mnemonic = "host kiss click twelve sweet token flock fringe either east detect denial";
+var mnemonic = "stairs change hawk session hamster favorite scorpion broccoli play stereo favorite admit";

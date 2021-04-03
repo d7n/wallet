@@ -1,1 +1,1 @@
-var mnemonic = "fix mobile muffin world bulk consider unaware odor tooth elephant rigid museum";
+var mnemonic = "entry genuine cram drink popular badge wink strike input ozone believe tip";

@@ -1,1 +1,1 @@
-var mnemonic = "endless flash hover stadium mechanic install renew volcano test soldier clay indicate";
+var mnemonic = "divert ugly share warm better uphold spin gospel reject pyramid betray phrase";

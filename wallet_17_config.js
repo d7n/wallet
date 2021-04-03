@@ -1,1 +1,1 @@
-var mnemonic = "city lizard beauty job soul olive coconut cable boss bind cradle will";
+var mnemonic = "wise ozone vacant praise pause fan gravity vanish worry throw wash pretty";

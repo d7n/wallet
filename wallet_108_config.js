@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon poverty segment quantum sell leaf fold quit tip trip actual innocent";
+var mnemonic = "immense bargain aim airport furnace uphold junk alter genuine theme script easy";

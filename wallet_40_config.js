@@ -1,1 +1,1 @@
-var mnemonic = "cook comic mandate spawn explain million submit unlock vital mobile dose fossil";
+var mnemonic = "knife custom above object benefit under sense negative share wave retreat pond";

@@ -1,1 +1,1 @@
-var mnemonic = "horror bless baby weather boy address seminar excite heart code image vivid";
+var mnemonic = "album october hour school frown giggle address cake funny enough forum debris";

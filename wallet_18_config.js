@@ -1,1 +1,1 @@
-var mnemonic = "sand elegant gate equip execute spot fashion aspect turn ordinary voyage jewel";
+var mnemonic = "churn welcome make arrive humor upset pact scrap estate eye doll finger";

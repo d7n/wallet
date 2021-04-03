@@ -1,1 +1,1 @@
-var mnemonic = "shed response twice concert enact book admit turkey coil sleep stock rain";
+var mnemonic = "object lava range borrow allow spring idea odor winter turn myself text";

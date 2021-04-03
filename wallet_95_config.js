@@ -1,1 +1,1 @@
-var mnemonic = "find duty fly notice fun apple custom happy fruit wild into one";
+var mnemonic = "captain section federal rally rhythm amount lawn error cushion vacuum much isolate";

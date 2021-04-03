@@ -1,1 +1,1 @@
-var mnemonic = "deputy holiday typical rely satisfy demand captain click shiver consider depend vehicle";
+var mnemonic = "dragon river blame all wine since bless tumble online valve lava moral";

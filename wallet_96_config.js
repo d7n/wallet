@@ -1,1 +1,1 @@
-var mnemonic = "resource visit fragile cigar crane slide dizzy slush dad abstract identify job";
+var mnemonic = "cloth phrase novel immune burger agent resemble afford open staff usual final";

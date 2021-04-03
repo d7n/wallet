@@ -1,1 +1,1 @@
-var mnemonic = "frame solve talk put calm manual issue kiwi stool symbol hold service";
+var mnemonic = "bulb hockey husband kingdom little erupt cave test melody decade flame fun";

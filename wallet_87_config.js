@@ -1,1 +1,1 @@
-var mnemonic = "vault coffee base reveal put recycle drama tobacco deal debris scene measure";
+var mnemonic = "success dune balance child frozen name inhale soup aware ramp cheese bulb";

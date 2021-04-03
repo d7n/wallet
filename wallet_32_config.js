@@ -1,1 +1,1 @@
-var mnemonic = "jacket lobster denial lawn someone stairs they security uncover beauty viable mind";
+var mnemonic = "swarm double forward patrol own when mix public index decorate trash energy";

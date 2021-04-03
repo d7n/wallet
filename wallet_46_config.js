@@ -1,1 +1,1 @@
-var mnemonic = "eternal purpose shrimp thank stable engage scissors correct afford benefit toddler host";
+var mnemonic = "payment notice spare renew butter exhibit vanish parent limit olive lyrics pulp";

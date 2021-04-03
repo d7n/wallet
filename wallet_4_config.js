@@ -1,1 +1,1 @@
-var mnemonic = "truly squeeze trash almost history close inhale stairs hip remember evil equal";
+var mnemonic = "surround waste live corn rug true tourist embrace steel summer seed polar";

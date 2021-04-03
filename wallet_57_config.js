@@ -1,1 +1,1 @@
-var mnemonic = "eye edge ankle promote city inform alarm lonely figure pitch delay blouse";
+var mnemonic = "inhale mammal wink write consider morning silver state note garden brave broom";

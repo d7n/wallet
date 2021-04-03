@@ -1,1 +1,1 @@
-var mnemonic = "accuse tumble man permit humor mountain chicken hope future tumble snap list";
+var mnemonic = "mask radar fun essence stage tray feel grid half twelve borrow turkey";

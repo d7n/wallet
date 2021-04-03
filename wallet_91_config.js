@@ -1,1 +1,1 @@
-var mnemonic = "harbor day tiger lobster minimum then wrist taxi liberty hurdle vacuum scrub";
+var mnemonic = "topic nerve nest shallow lady purchase popular remind balcony lawn outdoor minute";

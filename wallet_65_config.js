@@ -1,1 +1,1 @@
-var mnemonic = "stem scrub bitter practice legend glass problem renew tail citizen material neutral";
+var mnemonic = "pass squirrel fish thumb chronic panda mouse search soul grace type install";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd degree deny trap giraffe gate evidence estate manage similar device glad";
+var mnemonic = "later answer frog loyal dolphin utility visual hero drama decide rose galaxy";

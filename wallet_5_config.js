@@ -1,1 +1,1 @@
-var mnemonic = "enlist art guess relax sustain utility over imitate fork fruit case pause";
+var mnemonic = "hire room year journey odor pond fee festival world very wear stand";
