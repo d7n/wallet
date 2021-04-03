@@ -1,1 +1,1 @@
-var mnemonic = "search gold steak flush canvas music crew excess dog island gesture edge";
+var mnemonic = "brain drastic explain degree blue uncover maximum media settle clown sword ripple";

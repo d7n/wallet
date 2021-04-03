@@ -1,1 +1,1 @@
-var mnemonic = "march exotic occur decline corn display better length price decade inquiry loop";
+var mnemonic = "ginger page wine fluid lion then poverty differ erosion tunnel nut step";

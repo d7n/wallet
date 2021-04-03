@@ -1,1 +1,1 @@
-var mnemonic = "grass allow exhibit meadow chronic sick capital decorate arm coast tonight draw";
+var mnemonic = "sense process budget elite stay time current judge tone expand breeze year";

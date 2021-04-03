@@ -1,1 +1,1 @@
-var mnemonic = "gaze face patrol denial office ship piece siren piano quantum toss neutral";
+var mnemonic = "picnic bid bitter camera unhappy identify woman cake treat soccer impulse foam";

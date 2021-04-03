@@ -1,1 +1,1 @@
-var mnemonic = "primary trap distance over cigar resemble salmon faculty demise fresh produce milk";
+var mnemonic = "success merit survey tent rail bounce equip jelly sport evil purse buyer";

@@ -1,1 +1,1 @@
-var mnemonic = "awful pond hero galaxy blouse poet whip fall remember spare flee evil";
+var mnemonic = "ozone program kitchen social language derive group stick liar minor winner coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance wood casual donate often address awesome ancient captain hope scan print";
+var mnemonic = "pair topic estate column guide better sock episode sheriff column panther tape";

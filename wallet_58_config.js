@@ -1,1 +1,1 @@
-var mnemonic = "pull main high cluster damp swarm left change humor length story brisk";
+var mnemonic = "column elegant bamboo noble unaware bamboo tomorrow rent useless scare never wool";

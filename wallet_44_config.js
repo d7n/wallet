@@ -1,1 +1,1 @@
-var mnemonic = "skate reopen come predict engage flight pipe offer food cost guide bus";
+var mnemonic = "enact moral cube trend topic fit subject body exile defense decade toward";

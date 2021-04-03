@@ -1,1 +1,1 @@
-var mnemonic = "wish shed evil outer envelope ghost also fuel lawn relief run ancient";
+var mnemonic = "bubble ridge glare indicate elevator since horn zoo state gas hard admit";

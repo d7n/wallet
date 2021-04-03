@@ -1,1 +1,1 @@
-var mnemonic = "tube diamond isolate logic defy couple knife curious hotel connect hobby impose";
+var mnemonic = "company brave audit punch transfer physical orbit poverty maximum off prosper million";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire ramp search entry guilt sentence noble appear that move grid rude";
+var mnemonic = "diary mirror badge advance swift engage best resource pond phrase tag blush";

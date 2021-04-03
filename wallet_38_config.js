@@ -1,1 +1,1 @@
-var mnemonic = "denial huge animal once fragile close flash tumble couch stereo unknown birth";
+var mnemonic = "virus multiply vendor crowd gospel increase spin evidence genius witness clutch assault";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge raise name outer tide learn carry snake flag correct script bubble";
+var mnemonic = "item cabin figure scene defense cricket elegant subway airport insane pole spot";

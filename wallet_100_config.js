@@ -1,1 +1,1 @@
-var mnemonic = "reduce involve faint kiss venue outside follow rifle auction taxi ice version";
+var mnemonic = "ivory tent rose doctor hire toast cricket install bachelor have settle clerk";

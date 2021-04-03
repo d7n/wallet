@@ -1,1 +1,1 @@
-var mnemonic = "suit chicken prison bachelor basic east loyal tower drink drink lion judge";
+var mnemonic = "brave ignore paper human thing lyrics cake unlock gather feed tone craft";

@@ -1,1 +1,1 @@
-var mnemonic = "flash gloom sunset puppy sausage time mention dress case spy ahead raven";
+var mnemonic = "enemy donate exchange parade come price scrap jeans warfare twin train bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "law source goose bright legend action bag spell net hurdle various shoulder";
+var mnemonic = "pigeon hedgehog void aisle note symptom cloud runway mesh either critic bullet";

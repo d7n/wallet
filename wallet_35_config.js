@@ -1,1 +1,1 @@
-var mnemonic = "sign tell motion empower shaft turn head laundry summer client hawk category";
+var mnemonic = "cube weasel family narrow desert image uphold chuckle casino enlist seminar custom";

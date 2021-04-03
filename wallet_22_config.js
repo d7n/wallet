@@ -1,1 +1,1 @@
-var mnemonic = "across lunar mean cave rent oppose weasel profit coral claim mansion announce";
+var mnemonic = "play brand destroy window curious celery animal illegal clever acquire release cloth";

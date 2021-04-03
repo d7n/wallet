@@ -1,1 +1,1 @@
-var mnemonic = "own range museum piano head seminar tiny memory casino leopard burst swift";
+var mnemonic = "genius grant parrot acquire cotton live canal sweet clog quality usual lake";

@@ -1,1 +1,1 @@
-var mnemonic = "dice engage mad where kidney fix quick voyage upset easily estate blade";
+var mnemonic = "combine diagram organ van six claw mad wall mouse symbol clip scan";

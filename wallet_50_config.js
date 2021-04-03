@@ -1,1 +1,1 @@
-var mnemonic = "wild strategy kiss fly board expect fortune outer cherry rescue trim evolve";
+var mnemonic = "wet swim problem maze naive flower baby border insane buzz consider wise";

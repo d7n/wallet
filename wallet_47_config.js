@@ -1,1 +1,1 @@
-var mnemonic = "rather pluck race rely morning speak cart enhance decide waste roof night";
+var mnemonic = "glad praise until jazz volcano toast notice manage pause cover about point";

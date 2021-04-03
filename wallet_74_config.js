@@ -1,1 +1,1 @@
-var mnemonic = "dismiss recycle damage panic enable talent ahead noodle canyon pig close hurry";
+var mnemonic = "coyote rookie dune march fog bird bunker silk wisdom obscure noise trust";

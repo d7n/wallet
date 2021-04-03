@@ -1,1 +1,1 @@
-var mnemonic = "earth scrub embark walk alcohol pipe book miracle hole spatial zone print";
+var mnemonic = "armor anxiety habit swap rose asthma seek canvas lemon wheat render exhibit";

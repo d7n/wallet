@@ -1,1 +1,1 @@
-var mnemonic = "illness sort zone artist liberty zoo milk gold vacant select gospel level";
+var mnemonic = "motor any sausage daring climb approve first rather betray will trap laugh";

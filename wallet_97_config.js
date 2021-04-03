@@ -1,1 +1,1 @@
-var mnemonic = "asthma broccoli anxiety start slam solution rifle gallery height list output maze";
+var mnemonic = "program art hobby birth panther juice bitter buffalo dry become lunar dumb";

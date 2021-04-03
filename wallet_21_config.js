@@ -1,1 +1,1 @@
-var mnemonic = "width cube enemy depth inmate school rifle lend absent verb sadness robust";
+var mnemonic = "middle tree humble define asset sweet jungle hazard split cotton weapon raw";

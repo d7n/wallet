@@ -1,1 +1,1 @@
-var mnemonic = "noise aspect scissors tornado peanut lobster deliver option seat general twice nation";
+var mnemonic = "surprise sort sample satisfy behave vintage clip price cram verb close carbon";

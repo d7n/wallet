@@ -1,1 +1,1 @@
-var mnemonic = "disorder that keen merry quantum develop slogan vacant luggage train defy runway";
+var mnemonic = "host poem path prepare clap feed pact month source deny hawk nest";

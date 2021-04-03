@@ -1,1 +1,1 @@
-var mnemonic = "pizza badge dose drama plug much front grid long hockey wonder obtain";
+var mnemonic = "shadow shiver dance lemon monkey ten open rail lend essay bless twelve";

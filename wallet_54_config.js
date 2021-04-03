@@ -1,1 +1,1 @@
-var mnemonic = "verify change evolve rapid supreme victory require twenty certain income nerve theory";
+var mnemonic = "memory nation perfect slow pigeon diagram gossip legend denial luggage lady answer";

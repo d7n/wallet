@@ -1,1 +1,1 @@
-var mnemonic = "vehicle window zone clay recycle reduce lava limit village misery toss web";
+var mnemonic = "lava trick sting excuse upon pact describe refuse awake extra next analyst";

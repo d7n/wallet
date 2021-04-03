@@ -1,1 +1,1 @@
-var mnemonic = "join candy bracket project tiger inform asthma shallow chicken whale cactus scan";
+var mnemonic = "gesture pink enhance opinion uncle huge belt easy dawn found turkey manage";

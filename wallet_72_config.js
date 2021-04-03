@@ -1,1 +1,1 @@
-var mnemonic = "lazy guard tomorrow quit walk glide dust similar zoo duck noise exile";
+var mnemonic = "good equip skirt ethics around dinosaur trend wreck survey crunch day barely";

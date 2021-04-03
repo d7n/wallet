@@ -1,1 +1,1 @@
-var mnemonic = "frequent trash average excuse still habit clap together reject sadness swamp manage";
+var mnemonic = "burger hunt rocket axis hybrid oxygen cradle away plunge ancient debate promote";

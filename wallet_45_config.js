@@ -1,1 +1,1 @@
-var mnemonic = "security violin deputy front shoe verify sunny journey section wink client immune";
+var mnemonic = "measure frost slush spy glimpse observe prefer episode try check mosquito minute";

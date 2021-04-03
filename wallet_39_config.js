@@ -1,1 +1,1 @@
-var mnemonic = "mammal ticket beauty frost dose enact guide side label core total mule";
+var mnemonic = "general plunge abstract wrap unfair ice brother nature guitar oil trip meat";

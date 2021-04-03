@@ -1,1 +1,1 @@
-var mnemonic = "express tonight also tip bus midnight airport sail daughter chair blame swap";
+var mnemonic = "stomach soda grid evidence little option dentist salon ketchup endless chapter capable";

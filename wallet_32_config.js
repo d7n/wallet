@@ -1,1 +1,1 @@
-var mnemonic = "cake lyrics extend uncover good scan fabric scare shiver final celery laugh";
+var mnemonic = "caution name group expose excite violin learn fatal drift gasp suffer impulse";

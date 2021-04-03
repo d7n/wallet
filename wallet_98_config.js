@@ -1,1 +1,1 @@
-var mnemonic = "exit dash fantasy young brush north find settle latin stone pyramid north";
+var mnemonic = "episode census insane village balance become install erosion token canyon tone obscure";

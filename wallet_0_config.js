@@ -1,1 +1,1 @@
-var mnemonic = "vintage scene gossip rigid salad cloth gym garlic arrive innocent orchard off";
+var mnemonic = "liberty habit rail where proof silly monster pottery lock bicycle reward kitchen";

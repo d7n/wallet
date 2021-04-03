@@ -1,1 +1,1 @@
-var mnemonic = "permit pig treat velvet symbol nation math rhythm consider purpose crane system";
+var mnemonic = "protect weird undo maximum slam plate miss wonder climb east rude fine";

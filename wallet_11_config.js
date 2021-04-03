@@ -1,1 +1,1 @@
-var mnemonic = "gym giant clutch write gather outside aware country broken mother pond warrior";
+var mnemonic = "shine unable impulse manual mixed heart engage cheese similar kitchen buffalo want";

@@ -1,1 +1,1 @@
-var mnemonic = "guard cheap life salon tired staff sick miss spray eternal dry push";
+var mnemonic = "album voyage devote swim combine exchange render beauty label once slender youth";

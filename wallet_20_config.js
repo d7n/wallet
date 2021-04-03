@@ -1,1 +1,1 @@
-var mnemonic = "cat rice glory century patch orange believe scale fitness winter bind caught";
+var mnemonic = "service certain inspire frog provide siege episode legend myself consider rent phrase";

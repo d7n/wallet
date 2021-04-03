@@ -1,1 +1,1 @@
-var mnemonic = "dash action drive general lift hollow provide mouse help crater abandon give";
+var mnemonic = "trumpet shift update jungle guide tourist alone galaxy envelope dynamic staff hire";

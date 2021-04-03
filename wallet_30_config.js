@@ -1,1 +1,1 @@
-var mnemonic = "major nurse fiction couple scrub orchard art put alcohol gate pool luxury";
+var mnemonic = "network grain hawk wet silly beef vital supply violin spider figure fit";

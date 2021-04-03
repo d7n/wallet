@@ -1,1 +1,1 @@
-var mnemonic = "inform ritual add penalty scrap obtain cinnamon explain puzzle duck grocery solar";
+var mnemonic = "embrace produce vacuum clock salt analyst ribbon license snap benefit divert action";

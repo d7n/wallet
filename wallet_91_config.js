@@ -1,1 +1,1 @@
-var mnemonic = "syrup infant winner venture source easily start simple drum decade daughter one";
+var mnemonic = "aerobic deliver fall lesson dumb orphan coconut comfort surprise nothing race document";

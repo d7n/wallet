@@ -1,1 +1,1 @@
-var mnemonic = "enroll erode crunch spare filter trap album toward divide parent tiny exile";
+var mnemonic = "pair mystery item zone nephew siege boring kitchen verify can penalty divert";

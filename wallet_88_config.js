@@ -1,1 +1,1 @@
-var mnemonic = "suit such cruel combine refuse sphere gaze thing catalog renew lawn inch";
+var mnemonic = "half ecology prefer ship race census excess magnet walk long sponsor monitor";

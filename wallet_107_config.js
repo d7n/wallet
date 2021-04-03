@@ -1,1 +1,1 @@
-var mnemonic = "mistake grocery scissors nice slender arrive where helmet picture embark announce gospel";
+var mnemonic = "taste decorate sunny brief small obey this obvious grit lady festival elbow";

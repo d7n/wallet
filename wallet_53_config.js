@@ -1,1 +1,1 @@
-var mnemonic = "salon fish letter taste riot vacant paddle member insect stick duty sunset";
+var mnemonic = "silly park deal pause ostrich fine inner void art machine false veteran";

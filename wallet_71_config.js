@@ -1,1 +1,1 @@
-var mnemonic = "design reflect traffic spring total main planet great amused park aim attack";
+var mnemonic = "hungry wish link fantasy sudden elder rail recipe doll husband gate rival";

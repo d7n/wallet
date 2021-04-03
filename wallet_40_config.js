@@ -1,1 +1,1 @@
-var mnemonic = "best lizard school ring vocal rather page carbon achieve grit kit tank";
+var mnemonic = "strategy famous music gift rotate step speed appear wreck sense verify fit";

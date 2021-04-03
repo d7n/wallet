@@ -1,1 +1,1 @@
-var mnemonic = "soccer term witness emotion write wrap when vacuum endless element afraid nurse";
+var mnemonic = "stick grace arrow believe park easily crucial entry ship secret moral infant";

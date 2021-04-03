@@ -1,1 +1,1 @@
-var mnemonic = "pull ten salad surface round current pen favorite very firm car concert";
+var mnemonic = "rare deposit celery garage act lion pride fire exit divert document girl";

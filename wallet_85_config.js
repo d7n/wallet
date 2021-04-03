@@ -1,1 +1,1 @@
-var mnemonic = "victory stage doll agree round rate educate awake chapter gorilla square boost";
+var mnemonic = "rubber trick spirit image fringe gym puzzle crawl romance grass slogan evidence";

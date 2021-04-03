@@ -1,1 +1,1 @@
-var mnemonic = "broccoli discover law planet demise raven kid nominee process try veteran tip";
+var mnemonic = "early lift stock life leg bone cry bomb connect struggle wasp can";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy release tomato stamp fiber soap exact forward ivory want filter survey";
+var mnemonic = "obey maple captain siege boring guide carry monkey frame debate engine smile";

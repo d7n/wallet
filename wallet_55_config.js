@@ -1,1 +1,1 @@
-var mnemonic = "morning forum garlic rare family gun night elephant submit gas lamp camera";
+var mnemonic = "noble ridge loan canyon dune nut glass surprise miss topic romance entire";

@@ -1,1 +1,1 @@
-var mnemonic = "brain celery clip gold business embark season ecology chronic noise dream consider";
+var mnemonic = "guitar ignore chunk letter era frost fitness tip hamster object share village";

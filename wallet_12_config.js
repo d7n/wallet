@@ -1,1 +1,1 @@
-var mnemonic = "inspire ghost zebra panda frog worry ritual rebuild shoe faint birth enrich";
+var mnemonic = "scatter company eager window club melt orphan fold poverty brick scale coconut";

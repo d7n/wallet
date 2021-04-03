@@ -1,1 +1,1 @@
-var mnemonic = "barrel black envelope nature dilemma buddy bring teach knife praise lunch sword";
+var mnemonic = "shallow wolf thank milk depart gap vendor divorce mercy fix photo clarify";

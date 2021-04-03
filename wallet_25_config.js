@@ -1,1 +1,1 @@
-var mnemonic = "advance together swamp plunge boil across melt camp dawn spray burden rough";
+var mnemonic = "mean chief whale guilt speak salon noble pattern cabin stadium faculty march";

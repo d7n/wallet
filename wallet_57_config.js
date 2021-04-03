@@ -1,1 +1,1 @@
-var mnemonic = "trophy chair vessel pipe artefact boring payment uphold mushroom base bargain speak";
+var mnemonic = "install crystal mango either lounge stove design pact monkey stairs shadow true";

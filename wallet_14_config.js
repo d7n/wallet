@@ -1,1 +1,1 @@
-var mnemonic = "tunnel grocery toward fun arrange room ancient cancel caution round define century";
+var mnemonic = "anxiety album term govern dress remember hotel more diamond town tragic carbon";

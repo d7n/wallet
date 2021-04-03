@@ -1,1 +1,1 @@
-var mnemonic = "alter toe lecture multiply fork pottery rural disorder joke tide nominee cable";
+var mnemonic = "bamboo grocery sight episode melody flame symbol develop abstract parrot swim tooth";

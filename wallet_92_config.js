@@ -1,1 +1,1 @@
-var mnemonic = "witness whip used absent recall sort maximum east entry seed deliver news";
+var mnemonic = "wave century wing crunch trial tail thrive nothing hero magnet clever head";

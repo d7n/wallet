@@ -1,1 +1,1 @@
-var mnemonic = "cargo wash food scare sketch fan office rose lens pony junk grit";
+var mnemonic = "detect welcome always anchor nut doctor repair snack immense vacuum produce zebra";

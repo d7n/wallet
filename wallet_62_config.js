@@ -1,1 +1,1 @@
-var mnemonic = "comic swamp human issue seek sting magnet luxury return canal waste swamp";
+var mnemonic = "sea body pride clever potato before eagle logic glove remain miss wise";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk utility napkin now garage final become bachelor curtain twin little sun";
+var mnemonic = "rich protect diesel prepare capital uncle copy oven prepare rug leave million";

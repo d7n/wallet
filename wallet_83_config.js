@@ -1,1 +1,1 @@
-var mnemonic = "action entire lift vocal diagram melt august cage common pear onion razor";
+var mnemonic = "achieve diamond lounge pattern parade flee mistake lounge donor fragile profit judge";

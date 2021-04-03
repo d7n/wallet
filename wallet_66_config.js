@@ -1,1 +1,1 @@
-var mnemonic = "mandate help guide fury cupboard vanish service flip ghost piece creek above";
+var mnemonic = "pattern butter magic discover autumn goat hand lazy chunk tongue zone tourist";

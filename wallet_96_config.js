@@ -1,1 +1,1 @@
-var mnemonic = "sure obtain swap express essence pelican because rebuild sample garlic often radar";
+var mnemonic = "game fit amount item rose affair black cross security sword ocean panic";

@@ -1,1 +1,1 @@
-var mnemonic = "call jealous pool mirror tired forget space hazard shove wild devote great";
+var mnemonic = "gallery laundry dynamic always ketchup miss erase swap coast swamp rubber thing";

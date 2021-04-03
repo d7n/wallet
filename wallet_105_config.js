@@ -1,1 +1,1 @@
-var mnemonic = "home total ordinary quantum final option crack shiver crash diamond possible pyramid";
+var mnemonic = "table net festival address party island among stool square nuclear amateur mad";

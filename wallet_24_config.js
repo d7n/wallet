@@ -1,1 +1,1 @@
-var mnemonic = "fiber wisdom notice coyote wing document pink thunder giant soup cat bitter";
+var mnemonic = "birth isolate meat cash century flight either reflect gesture health charge note";

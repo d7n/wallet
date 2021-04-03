@@ -1,1 +1,1 @@
-var mnemonic = "kitchen orphan evolve detail main crawl order craft submit few mad eight";
+var mnemonic = "flash wish prison reopen million hobby extend sadness corn innocent object electric";

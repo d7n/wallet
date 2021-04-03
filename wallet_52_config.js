@@ -1,1 +1,1 @@
-var mnemonic = "glove plug destroy ask festival win hair museum grit garlic urban neither";
+var mnemonic = "add bullet chase weasel breeze alien duck once puppy high exile can";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle business fragile horn satisfy poverty aim picnic rifle artwork portion resource";
+var mnemonic = "wise sunset because fiction winner pupil awkward image beauty neutral answer melody";

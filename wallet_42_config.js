@@ -1,1 +1,1 @@
-var mnemonic = "enhance vague toe click genuine trust lemon exact tool civil face typical";
+var mnemonic = "client cup dirt maid fall lock purity prison gun web portion fury";

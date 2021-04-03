@@ -1,1 +1,1 @@
-var mnemonic = "access honey solar bone ill clerk short relax slide general fame observe";
+var mnemonic = "acquire lazy dutch trash refuse benefit main audit faith purse slam real";

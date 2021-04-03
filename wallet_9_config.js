@@ -1,1 +1,1 @@
-var mnemonic = "hire author input outside basic mimic local fuel horror tonight planet grit";
+var mnemonic = "priority bridge flag addict curious kitchen morning trim middle hello frozen humor";

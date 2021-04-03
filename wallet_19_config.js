@@ -1,1 +1,1 @@
-var mnemonic = "lake raw inflict gauge south innocent vague scene heart veteran match frown";
+var mnemonic = "upper enact tumble fiscal jaguar south raven cereal antique lake holiday time";

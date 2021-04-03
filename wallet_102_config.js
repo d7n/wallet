@@ -1,1 +1,1 @@
-var mnemonic = "profit venture clog first expand aware february horror medal injury marble fabric";
+var mnemonic = "february square column ripple carry moral breeze clinic harvest hollow exile seek";
