@@ -1,1 +1,1 @@
-var mnemonic = "address urge loan afraid boost trumpet obscure vehicle supreme inform maximum more";
+var mnemonic = "scene search embrace tattoo still job life dentist mandate best figure bright";

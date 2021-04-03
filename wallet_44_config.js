@@ -1,1 +1,1 @@
-var mnemonic = "flag length pepper suit excite fly hurry pigeon produce blouse breeze sad";
+var mnemonic = "tube impact carpet cousin vendor exchange sibling fan control vivid paddle cabin";

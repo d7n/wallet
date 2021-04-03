@@ -1,1 +1,1 @@
-var mnemonic = "survey genre harbor rain desert fuel course marine feed egg recall trial";
+var mnemonic = "paper differ stage near flavor during become amused alcohol tower puzzle undo";

@@ -1,1 +1,1 @@
-var mnemonic = "better appear polar deal job humor pull wet lawsuit rate course mean";
+var mnemonic = "example dose input wheel desert hard dune produce ripple search fatigue advice";

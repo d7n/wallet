@@ -1,1 +1,1 @@
-var mnemonic = "edge civil negative exit found element combine else layer damage juice panther";
+var mnemonic = "modify shoulder candy arena lift citizen hub state scorpion build scrap light";

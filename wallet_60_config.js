@@ -1,1 +1,1 @@
-var mnemonic = "equip essay turn office size coach vocal peace employ mechanic already meadow";
+var mnemonic = "young blush arrow else cause draw craft dry dream print fiction window";

@@ -1,1 +1,1 @@
-var mnemonic = "sphere danger become power that letter claw approve decrease lion radio broken";
+var mnemonic = "miracle youth void yard spirit claw blur captain upper else bulk decade";

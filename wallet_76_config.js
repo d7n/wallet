@@ -1,1 +1,1 @@
-var mnemonic = "session digital fiction grocery pepper suffer bulb album degree monster keep boy";
+var mnemonic = "admit feed fatal angle hundred try easily despair metal require marriage excuse";

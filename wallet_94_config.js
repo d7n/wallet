@@ -1,1 +1,1 @@
-var mnemonic = "metal balcony lamp climb heart lens priority lottery spell grace beef supply";
+var mnemonic = "silver envelope fence feed sting brick fiber cargo cave team ship tornado";

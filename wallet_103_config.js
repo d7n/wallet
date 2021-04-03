@@ -1,1 +1,1 @@
-var mnemonic = "lion power river solve only engage thunder pumpkin total equip paper settle";
+var mnemonic = "blade enough satisfy fiscal intact castle wear category volume elevator rely turtle";

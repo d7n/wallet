@@ -1,1 +1,1 @@
-var mnemonic = "luggage stuff inner giggle critic upon object theme air comfort panther area";
+var mnemonic = "invite arena sport essay circle true lunch twice essay pen laptop lounge";

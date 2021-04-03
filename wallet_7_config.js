@@ -1,1 +1,1 @@
-var mnemonic = "enlist must cram unhappy oven confirm skull air quality page demise ugly";
+var mnemonic = "state nuclear sting journey valve apart decrease swallow affair burst economy virus";

@@ -1,1 +1,1 @@
-var mnemonic = "merge display own struggle enhance silver scout trend easily hood spray mercy";
+var mnemonic = "general keen ready pledge mask olympic ankle add burger damp hawk sphere";

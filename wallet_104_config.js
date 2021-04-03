@@ -1,1 +1,1 @@
-var mnemonic = "rotate anger bitter lake dog young phrase solid science wool address net";
+var mnemonic = "gloom exotic sell type chunk time unfold guitar upon inspire sadness talent";

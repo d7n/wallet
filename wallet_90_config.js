@@ -1,1 +1,1 @@
-var mnemonic = "tragic crunch mutual faint bachelor snake diagram already kiss leader adjust civil";
+var mnemonic = "cigar air image athlete clutch cruel mom patient cupboard scrap tape cargo";

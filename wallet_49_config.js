@@ -1,1 +1,1 @@
-var mnemonic = "cricket smooth group parent whip advice fashion cluster day extend program select";
+var mnemonic = "spend museum chair alpha junior also source caution cradle glass arm diagram";

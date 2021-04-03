@@ -1,1 +1,1 @@
-var mnemonic = "slab tourist have opera unknown they cycle spring wheat load below armed";
+var mnemonic = "path rough cluster start ostrich visual spy today mechanic nephew shock agent";

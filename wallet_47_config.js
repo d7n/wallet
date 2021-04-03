@@ -1,1 +1,1 @@
-var mnemonic = "crane liberty solid chicken advance shrimp potato carpet dove fork method almost";
+var mnemonic = "fiction powder certain stand tiger join purse wheat doll analyst swift suit";

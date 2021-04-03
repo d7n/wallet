@@ -1,1 +1,1 @@
-var mnemonic = "link pride message luxury pond stairs there dry buddy lizard dynamic own";
+var mnemonic = "chicken battle net satoshi olive hazard song blouse cradle address squeeze input";

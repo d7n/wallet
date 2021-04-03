@@ -1,1 +1,1 @@
-var mnemonic = "buyer fluid license dust leave invite sound inspire drop demise eternal october";
+var mnemonic = "horn dad topic knee dynamic invest enhance angle column address tennis peanut";

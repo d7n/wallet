@@ -1,1 +1,1 @@
-var mnemonic = "capital mistake hold pencil legend violin patch cancel unlock quick trap large";
+var mnemonic = "solid object crush tag permit people account tail cover task nominee water";

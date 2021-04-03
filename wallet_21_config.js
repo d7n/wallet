@@ -1,1 +1,1 @@
-var mnemonic = "club sense friend retreat gas brand cabin oak excuse speak much code";
+var mnemonic = "hub brave lottery multiply private waste window dirt shell among black genuine";

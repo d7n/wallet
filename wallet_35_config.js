@@ -1,1 +1,1 @@
-var mnemonic = "suggest example uphold usage myself bargain alpha sunny blush describe attack anchor";
+var mnemonic = "chalk reunion prevent core flush canoe guard outside roast accuse indoor diesel";

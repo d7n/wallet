@@ -1,1 +1,1 @@
-var mnemonic = "banner material initial discover fitness antenna please note tower certain lawn receive";
+var mnemonic = "age jeans object art equal tuna say enforce hotel salon raccoon leave";

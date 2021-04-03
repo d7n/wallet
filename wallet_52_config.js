@@ -1,1 +1,1 @@
-var mnemonic = "lake curtain cherry auto punch strong capital number left ocean garbage supreme";
+var mnemonic = "borrow ball gloom nominee virtual keep weather matrix market train bundle shed";

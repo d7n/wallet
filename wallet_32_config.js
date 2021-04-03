@@ -1,1 +1,1 @@
-var mnemonic = "about bag innocent prefer busy dilemma flash prepare skin network tennis search";
+var mnemonic = "loyal depth ball mercy sibling twice blossom carbon treat fun puppy equip";

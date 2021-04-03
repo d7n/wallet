@@ -1,1 +1,1 @@
-var mnemonic = "cat aware polar anxiety roof prosper setup manual upgrade toy emerge bid";
+var mnemonic = "tooth dragon afraid face autumn mobile satoshi spread quit accident hair vague";

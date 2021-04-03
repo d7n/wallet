@@ -1,1 +1,1 @@
-var mnemonic = "zone best polar embrace remind match ethics limb journey soft pact crew";
+var mnemonic = "recycle truck chief senior promote seven junk doctor fury electric ball join";

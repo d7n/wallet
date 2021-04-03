@@ -1,1 +1,1 @@
-var mnemonic = "cross neck syrup position sauce sheriff seat manage liberty cheese team winter";
+var mnemonic = "truth initial grape review select pulse young swift fame multiply student gaze";

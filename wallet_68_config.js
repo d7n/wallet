@@ -1,1 +1,1 @@
-var mnemonic = "shell purity face dry about price monitor subway brick reveal scorpion one";
+var mnemonic = "fringe make deal item client unique bamboo jaguar can zoo offer trust";

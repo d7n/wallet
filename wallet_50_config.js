@@ -1,1 +1,1 @@
-var mnemonic = "advance rebel awkward blind december birth fatigue limit setup outside stuff upset";
+var mnemonic = "coyote come pig achieve law session raccoon knee kingdom donor resist push";

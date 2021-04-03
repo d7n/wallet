@@ -1,1 +1,1 @@
-var mnemonic = "ecology banana invest solve force oval hood grass wait trap miracle dove";
+var mnemonic = "canoe acoustic indoor box snow trophy nice half citizen grass torch film";

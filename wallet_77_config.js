@@ -1,1 +1,1 @@
-var mnemonic = "allow explain mirror square mammal lumber dish trip mean title wrist occur";
+var mnemonic = "gadget offer kangaroo year fossil blouse magnet usage radar meadow survey page";

@@ -1,1 +1,1 @@
-var mnemonic = "step note panic summer bachelor hungry actor announce sadness expose sport sauce";
+var mnemonic = "weather also run split beef legend scrap script rain brisk rally chase";

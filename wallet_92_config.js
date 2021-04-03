@@ -1,1 +1,1 @@
-var mnemonic = "legal cricket spread wink enable expect mother legal advance squeeze monster shadow";
+var mnemonic = "foot heavy myth smile hungry gloom crumble doctor destroy item cable jazz";

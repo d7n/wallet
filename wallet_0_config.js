@@ -1,1 +1,1 @@
-var mnemonic = "scatter drift banana black shallow column lecture oil clown true rubber december";
+var mnemonic = "defy barrel ensure quarter shop enemy remind battle pass brief metal hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "supply matrix brief between enlist minute zebra winter alley direct firm tissue";
+var mnemonic = "wolf sugar actual south card enhance risk glove speak demand aware high";

@@ -1,1 +1,1 @@
-var mnemonic = "ice biology cricket kingdom budget seat save menu spider trial elevator proof";
+var mnemonic = "suggest lunar left primary jewel match brick deposit monkey host drama tattoo";

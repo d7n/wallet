@@ -1,1 +1,1 @@
-var mnemonic = "vivid winter bargain vendor turn panda enable chaos kitchen oak buddy lift";
+var mnemonic = "share speed album good kitten library grain cabin later job call beach";

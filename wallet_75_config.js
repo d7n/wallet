@@ -1,1 +1,1 @@
-var mnemonic = "layer visa aware okay taxi siege glow six what edge east route";
+var mnemonic = "distance victory ride field ahead price vapor three sense pond pioneer reward";

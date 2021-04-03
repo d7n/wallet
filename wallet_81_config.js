@@ -1,1 +1,1 @@
-var mnemonic = "alter inner input jacket slab ribbon rug turtle depart odor proud cause";
+var mnemonic = "student ketchup above feature weapon stool piano solid report accuse unaware dice";

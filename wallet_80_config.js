@@ -1,1 +1,1 @@
-var mnemonic = "vacant tunnel boring right nerve rebel toilet wear document hurt such cry";
+var mnemonic = "isolate faculty order unusual over call stereo junk useless sand upgrade universe";

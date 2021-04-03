@@ -1,1 +1,1 @@
-var mnemonic = "warfare treat dash excess slogan unable random install cloth dwarf august course";
+var mnemonic = "excuse profit rare like resource plunge friend account clap genuine local misery";

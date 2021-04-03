@@ -1,1 +1,1 @@
-var mnemonic = "outdoor margin fragile pizza attack cave wink pyramid anger stem city subway";
+var mnemonic = "security glimpse slogan host ancient motion width post blade horn enroll battle";

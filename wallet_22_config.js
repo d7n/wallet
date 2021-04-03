@@ -1,1 +1,1 @@
-var mnemonic = "opera hurry spawn era rare boil turn require dinner foot glove basic";
+var mnemonic = "tide dynamic oval dentist page jacket category sunset ancient wrong purse axis";

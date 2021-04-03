@@ -1,1 +1,1 @@
-var mnemonic = "age verify amateur exotic parent actor merit clinic silver scrub depart social";
+var mnemonic = "west ostrich denial gorilla assault liberty risk brave chimney puppy junk adult";

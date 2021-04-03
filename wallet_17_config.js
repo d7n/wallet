@@ -1,1 +1,1 @@
-var mnemonic = "rifle dad twist disagree judge tilt demand border battle ocean battle defy";
+var mnemonic = "dolphin label work wide okay canyon drift eager pizza west rich forward";

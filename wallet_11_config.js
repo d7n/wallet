@@ -1,1 +1,1 @@
-var mnemonic = "exit own slot gesture juice security robust follow debate board valve mandate";
+var mnemonic = "blossom tackle define film furnace bicycle fat elephant into stick rule rhythm";

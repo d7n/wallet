@@ -1,1 +1,1 @@
-var mnemonic = "pistol move two peace damp chef tired squirrel genuine twenty alone warrior";
+var mnemonic = "tuna advance team spy tower minor language elephant spatial nominee coil industry";

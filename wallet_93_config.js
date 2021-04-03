@@ -1,1 +1,1 @@
-var mnemonic = "asset tower wisdom easy weekend lock robust hen limb magnet ice fiction";
+var mnemonic = "pear blossom define aspect faint train velvet perfect shuffle report cement unlock";

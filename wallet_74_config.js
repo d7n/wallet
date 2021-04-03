@@ -1,1 +1,1 @@
-var mnemonic = "snap father paddle scissors tilt oxygen salmon loud sure swap sausage ecology";
+var mnemonic = "fetch quality life diamond sudden negative struggle brave reunion duty illegal joke";

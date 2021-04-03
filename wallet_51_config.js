@@ -1,1 +1,1 @@
-var mnemonic = "estate select owner develop announce pencil melody desert order lyrics cross garden";
+var mnemonic = "protect struggle behind moral maze boy lunch ship office snow soda margin";

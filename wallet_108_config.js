@@ -1,1 +1,1 @@
-var mnemonic = "alarm injury author juice arrange yard rib thought usage suggest confirm economy";
+var mnemonic = "salmon chimney trip object title regret infant raven cloud artist rifle cycle";

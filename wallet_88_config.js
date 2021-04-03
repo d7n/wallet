@@ -1,1 +1,1 @@
-var mnemonic = "short juice beef rose purchase domain happy copper space lizard shop left";
+var mnemonic = "clutch middle disease polar kind record puzzle first essay best art term";

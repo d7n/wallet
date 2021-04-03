@@ -1,1 +1,1 @@
-var mnemonic = "throw faint ocean shy found captain nominee notable attend educate gain town";
+var mnemonic = "wash mimic glove skull alien range door virtual human museum air frog";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow rule runway symbol option grief clean usage total miss enter neglect";
+var mnemonic = "stuff carpet task meadow eternal host improve disease unknown wrong parent hand";

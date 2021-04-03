@@ -1,1 +1,1 @@
-var mnemonic = "pen fury screen crop raven junior dial crawl federal quit lawsuit cliff";
+var mnemonic = "prefer shed upset riot hand permit dad gallery coffee space bright scrub";

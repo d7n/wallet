@@ -1,1 +1,1 @@
-var mnemonic = "horn garage fun marine leader weasel series party flip retreat arch velvet";
+var mnemonic = "useful grocery pyramid emotion amateur measure valley wear purpose twin link lonely";

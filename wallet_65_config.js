@@ -1,1 +1,1 @@
-var mnemonic = "latin hybrid resource subway input curtain bus dawn bullet cabin flock menu";
+var mnemonic = "pepper image involve tip dash gain depend moon hole velvet clip blood";

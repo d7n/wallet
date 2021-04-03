@@ -1,1 +1,1 @@
-var mnemonic = "sad vicious icon term flag effort idle motor regular injury reopen disease";
+var mnemonic = "option rose mammal phrase van purchase angle supreme relax base enable absorb";

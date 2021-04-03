@@ -1,1 +1,1 @@
-var mnemonic = "word always enlist sword demise sadness diet undo suffer shove canyon bean";
+var mnemonic = "onion piano risk island sort hobby chicken black kiwi option woman exercise";

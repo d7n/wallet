@@ -1,1 +1,1 @@
-var mnemonic = "age crop comic winter candy then neutral salt someone garlic coffee convince";
+var mnemonic = "drift shy subject silent midnight ostrich review about pave comic goddess today";

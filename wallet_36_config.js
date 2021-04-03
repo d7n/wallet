@@ -1,1 +1,1 @@
-var mnemonic = "ghost angle vacant random enact bachelor begin kick puzzle swap beauty bar";
+var mnemonic = "film pitch disease ship what outside front cry divorce truly action cloth";

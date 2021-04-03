@@ -1,1 +1,1 @@
-var mnemonic = "ostrich measure mixed foam nasty mind urban usage language together kind discover";
+var mnemonic = "clean grit enter hollow group practice fresh cute craft better reflect mass";

@@ -1,1 +1,1 @@
-var mnemonic = "width riot omit direct bridge assist put critic phone riot once muscle";
+var mnemonic = "season meadow august lunar total spirit badge humor mix october couch choose";

@@ -1,1 +1,1 @@
-var mnemonic = "room payment busy govern head body jar nurse sniff drastic shop bundle";
+var mnemonic = "pink cross timber hockey blood boss walk system hotel print copy exact";

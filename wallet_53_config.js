@@ -1,1 +1,1 @@
-var mnemonic = "leopard patch wrist laundry olympic merit online shed bonus dignity gym relax";
+var mnemonic = "cushion meat emotion twist foot electric flat saddle avoid sphere leg else";

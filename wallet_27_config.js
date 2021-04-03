@@ -1,1 +1,1 @@
-var mnemonic = "cable luggage various naive chicken toward song open goose leg steel hire";
+var mnemonic = "pig sweet leaf loop bird devote pole lucky robot ice traffic slender";

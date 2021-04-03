@@ -1,1 +1,1 @@
-var mnemonic = "uniform law leader tuna funny magnet exact write slice become alpha rather";
+var mnemonic = "spare this render board head federal skirt donate camera antique volume lock";

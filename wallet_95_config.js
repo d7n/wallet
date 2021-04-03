@@ -1,1 +1,1 @@
-var mnemonic = "rule kiwi nest swear green poet outer puppy burger special abstract symptom";
+var mnemonic = "warfare pink absent blue wrong mosquito organ blood crazy leisure interest goose";

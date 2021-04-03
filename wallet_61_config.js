@@ -1,1 +1,1 @@
-var mnemonic = "picnic option else ticket option patch salon glue tuna index muscle sausage";
+var mnemonic = "shine drill burst volume apology demise dawn provide coast edge equal garage";

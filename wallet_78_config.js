@@ -1,1 +1,1 @@
-var mnemonic = "junk leader balance spice isolate flash bamboo wrong grow crazy romance shoot";
+var mnemonic = "another couple people poet wheat gloom city work together phrase equip obscure";

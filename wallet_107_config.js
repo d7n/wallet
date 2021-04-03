@@ -1,1 +1,1 @@
-var mnemonic = "friend boring one fat earth play rug vague rent depart below fuel";
+var mnemonic = "unfair keep live fiscal inject material track panel woman inquiry gesture twice";

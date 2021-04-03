@@ -1,1 +1,1 @@
-var mnemonic = "cool catch auction expose clip foam attend violin dish normal feed maple";
+var mnemonic = "dumb vivid rent panel coral plunge hope cradle luggage twenty marble course";

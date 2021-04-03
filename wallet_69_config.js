@@ -1,1 +1,1 @@
-var mnemonic = "must manage impact inherit indoor rug crater movie vintage dance sorry calm";
+var mnemonic = "draft flight bus front finish slogan laugh festival female present load wisdom";

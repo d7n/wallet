@@ -1,1 +1,1 @@
-var mnemonic = "trick ritual when hundred punch speed park play hollow life north mimic";
+var mnemonic = "genre slender pause horn much glimpse ship spot text decrease comfort pill";

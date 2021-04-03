@@ -1,1 +1,1 @@
-var mnemonic = "radar bamboo volume opera drift rail green bubble tone trip unveil above";
+var mnemonic = "tumble fiber devote inner next donor blush best pigeon office joy evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "sense write fresh stock awkward logic brother federal route abandon town author";
+var mnemonic = "boil super bike remove rail tumble fit emerge depth tenant despair clarify";

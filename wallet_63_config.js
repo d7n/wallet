@@ -1,1 +1,1 @@
-var mnemonic = "coral bless tattoo auction useful exercise area state chunk wife burden envelope";
+var mnemonic = "machine inflict attitude liquid view space fuel rent genius enlist exclude van";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum ghost clown glide share month ski august flag sauce property elephant";
+var mnemonic = "march prepare retreat zero unhappy rib rocket joy theory avoid habit assist";

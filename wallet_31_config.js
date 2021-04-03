@@ -1,1 +1,1 @@
-var mnemonic = "fade caution arrange earth rebel kite inflict space blush tomorrow element resist";
+var mnemonic = "develop mosquito maple motion behave ski series soldier trophy matter gain room";

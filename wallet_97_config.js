@@ -1,1 +1,1 @@
-var mnemonic = "twelve return monkey sad pair region image menu joke ahead oxygen oblige";
+var mnemonic = "approve then seven baby stereo dice tilt width lonely mean history used";

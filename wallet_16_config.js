@@ -1,1 +1,1 @@
-var mnemonic = "wheel exotic rude suggest trap gaze warfare pretty trust left absorb demand";
+var mnemonic = "faint sun vivid fatal found mind one logic tuition reason during buffalo";

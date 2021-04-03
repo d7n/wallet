@@ -1,1 +1,1 @@
-var mnemonic = "soccer face daring inside snake illness mixed imitate way perfect visual lamp";
+var mnemonic = "raven ranch balcony scrap wisdom hello stomach area before weather expand raccoon";

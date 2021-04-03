@@ -1,1 +1,1 @@
-var mnemonic = "surprise local power minute about plug snake island element wealth allow sudden";
+var mnemonic = "service collect voyage borrow crucial credit believe siren goddess rocket cruise jump";

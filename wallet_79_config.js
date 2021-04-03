@@ -1,1 +1,1 @@
-var mnemonic = "post carbon devote canvas fiscal damp risk total senior bundle catalog lift";
+var mnemonic = "suspect water word life better day garment congress sad simple lucky output";

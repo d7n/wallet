@@ -1,1 +1,1 @@
-var mnemonic = "notable elephant error shy just foster secret save ask exercise lonely option";
+var mnemonic = "near obscure rent couple feed define clip focus angry bone brain average";

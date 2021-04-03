@@ -1,1 +1,1 @@
-var mnemonic = "merry shove credit refuse spin cargo nurse throw camp surround proof cereal";
+var mnemonic = "staff toast enable voyage history mercy false hint salt renew win solid";

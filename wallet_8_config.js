@@ -1,1 +1,1 @@
-var mnemonic = "review leaf jacket decrease alley urge gesture reject engine swamp avoid galaxy";
+var mnemonic = "physical subject juice deposit uniform dress current glass outdoor disagree crazy spray";

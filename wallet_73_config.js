@@ -1,1 +1,1 @@
-var mnemonic = "carry daughter collect letter bargain resource purchase candy agent whip strong love";
+var mnemonic = "safe twelve naive immune hover physical cattle eternal point magic brain visit";

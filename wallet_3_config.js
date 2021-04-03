@@ -1,1 +1,1 @@
-var mnemonic = "nut abandon discover height rigid ecology power this swift sting bar vivid";
+var mnemonic = "noble depth grape opinion drift bullet either trophy gate target mask fine";

@@ -1,1 +1,1 @@
-var mnemonic = "lady spice dog catalog cigar learn sign hamster choose oval erase disagree";
+var mnemonic = "cluster until region salute gate calm black scheme lens rhythm bulk accuse";

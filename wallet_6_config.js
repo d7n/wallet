@@ -1,1 +1,1 @@
-var mnemonic = "wish diamond cart benefit prosper scrub cram behind better renew mean upgrade";
+var mnemonic = "cancel narrow space bike climb attract anxiety twice limit long tower bitter";

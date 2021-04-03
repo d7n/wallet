@@ -1,1 +1,1 @@
-var mnemonic = "lens approve affair toe cram wish spring forward sweet clap rigid abstract";
+var mnemonic = "raven net mind emotion wedding zone caught spy acid blanket foam flip";

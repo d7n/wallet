@@ -1,1 +1,1 @@
-var mnemonic = "leopard shift check obtain stage duck film can crash stem quantum object";
+var mnemonic = "brief also radio cook swift monster vibrant mistake light shiver night engage";

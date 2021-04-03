@@ -1,1 +1,1 @@
-var mnemonic = "dream unique machine fruit eyebrow pull umbrella put session injury reform fat";
+var mnemonic = "cry result library piece approve have organ outer minute slot meat digital";

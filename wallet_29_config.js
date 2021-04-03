@@ -1,1 +1,1 @@
-var mnemonic = "affair ring image imitate envelope napkin erupt seminar riot mistake pluck car";
+var mnemonic = "rich team couple dial resemble gravity evil romance planet client shift social";
