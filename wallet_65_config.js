@@ -1,1 +1,1 @@
-var mnemonic = "result lunch fly author aware shuffle weasel resemble tobacco conduct law chaos";
+var mnemonic = "upset fence material remind antique stamp logic napkin expand blouse copy core";

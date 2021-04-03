@@ -1,1 +1,1 @@
-var mnemonic = "join amused village autumn traffic whisper cloth plastic fade raise claw flag";
+var mnemonic = "negative measure glad armed concert seminar decade spoon like glass world leisure";

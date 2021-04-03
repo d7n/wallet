@@ -1,1 +1,1 @@
-var mnemonic = "alarm mystery chat noise onion ribbon sick panther wide hospital month bird";
+var mnemonic = "defy inherit father pelican bone illness ritual slam swap point decorate panther";

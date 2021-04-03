@@ -1,1 +1,1 @@
-var mnemonic = "about second canyon hold frost rule child inside novel wife grace car";
+var mnemonic = "unlock illegal host intact visit ring awkward student erode garment large toward";

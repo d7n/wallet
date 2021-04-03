@@ -1,1 +1,1 @@
-var mnemonic = "bronze believe loop canal flee under general blur stone ability this come";
+var mnemonic = "portion between want owner best group proof talk crucial steel hope friend";

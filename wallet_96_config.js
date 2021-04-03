@@ -1,1 +1,1 @@
-var mnemonic = "neck police file dolphin input slim uncle trend top guilt sign wealth";
+var mnemonic = "moon exotic fiscal crunch crawl comfort toe try seat wash sort tunnel";

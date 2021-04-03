@@ -1,1 +1,1 @@
-var mnemonic = "spatial pelican item mystery control stereo royal verb bid casino pluck remember";
+var mnemonic = "fashion market hurry simple perfect sorry scout tomato twin tortoise hawk smart";

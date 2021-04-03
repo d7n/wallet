@@ -1,1 +1,1 @@
-var mnemonic = "lonely grit indoor capital volcano approve hope bike polar north sight enlist";
+var mnemonic = "decorate baby blanket denial assault mass subject injury slim spike stadium fluid";

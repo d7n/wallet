@@ -1,1 +1,1 @@
-var mnemonic = "boil critic pool banner original radar layer salon goose craft earth among";
+var mnemonic = "like often allow bag digital void blouse dentist addict mule bleak garage";

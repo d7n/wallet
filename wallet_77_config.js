@@ -1,1 +1,1 @@
-var mnemonic = "file attack hamster addict wreck apology often october exact help flower drift";
+var mnemonic = "coil project acquire coin wear wheel index affair grunt festival before omit";

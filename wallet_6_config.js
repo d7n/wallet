@@ -1,1 +1,1 @@
-var mnemonic = "access know garment one festival basic measure arch tumble upon album inner";
+var mnemonic = "manage erosion olympic trade brief pudding move door spirit today cream letter";

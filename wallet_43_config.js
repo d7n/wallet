@@ -1,1 +1,1 @@
-var mnemonic = "vault ecology vanish what concert reveal young endorse rose left just garage";
+var mnemonic = "horror chef first amateur trigger boss file great joy near pumpkin mixture";

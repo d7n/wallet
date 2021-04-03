@@ -1,1 +1,1 @@
-var mnemonic = "deliver once immense front window oak script nature orchard useful slot zebra";
+var mnemonic = "guitar fuel loan fiscal eagle life employ warrior assist easy click deny";

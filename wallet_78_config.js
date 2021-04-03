@@ -1,1 +1,1 @@
-var mnemonic = "fuel summer alert primary expose indoor obey lobster donor million excuse half";
+var mnemonic = "leg liquid tape cream apple remain soon rack buddy obey salad vacuum";

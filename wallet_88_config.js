@@ -1,1 +1,1 @@
-var mnemonic = "afraid replace retreat train practice orient thank wall climb consider adult sea";
+var mnemonic = "crush erupt side dog deny law grid attitude roast divert fresh basket";

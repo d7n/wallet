@@ -1,1 +1,1 @@
-var mnemonic = "spend slice just use vast manual distance midnight weasel oblige rally unique";
+var mnemonic = "stereo sugar kangaroo grab list citizen shallow company expand rescue kid wage";

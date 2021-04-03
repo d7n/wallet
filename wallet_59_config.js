@@ -1,1 +1,1 @@
-var mnemonic = "view swarm pelican duty turtle will honey risk neglect cigar mystery economy";
+var mnemonic = "category dumb clump field round mesh whisper proud upon cross mixture nominee";

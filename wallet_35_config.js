@@ -1,1 +1,1 @@
-var mnemonic = "market abstract silent cake powder eye jump coffee chaos tonight lounge metal";
+var mnemonic = "indicate blood divide disorder early holiday legal siege sadness clerk tobacco brass";

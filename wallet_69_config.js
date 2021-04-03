@@ -1,1 +1,1 @@
-var mnemonic = "crop puzzle cave goat dry snack bean easily divert universe youth income";
+var mnemonic = "concert bind choice pipe snake lizard enroll laptop trumpet focus lake twenty";

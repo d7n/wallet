@@ -1,1 +1,1 @@
-var mnemonic = "melody head fiber minimum survey cactus ten abstract fade tenant foil beauty";
+var mnemonic = "senior skin grass very system winter awkward blouse task genius affair hope";

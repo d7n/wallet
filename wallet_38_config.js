@@ -1,1 +1,1 @@
-var mnemonic = "grocery tiny feel apart stage salmon blue cross front wait half ramp";
+var mnemonic = "timber hour crisp mix love board walnut suspect eager relax kit simple";

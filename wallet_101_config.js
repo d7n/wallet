@@ -1,1 +1,1 @@
-var mnemonic = "spell rocket clown nut bulk output frequent equip pink great purchase alter";
+var mnemonic = "flip scissors garment cry damage duck saddle average good kitten discover opinion";

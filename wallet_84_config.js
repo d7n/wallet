@@ -1,1 +1,1 @@
-var mnemonic = "decline awkward ice top ankle sense october anchor gather grunt digital food";
+var mnemonic = "panel robust balcony warm useful scissors autumn tag helmet angry figure explain";

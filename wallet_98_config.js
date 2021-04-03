@@ -1,1 +1,1 @@
-var mnemonic = "tooth dwarf meat ladder elite boat someone license asthma canyon exhaust black";
+var mnemonic = "bicycle vacant disorder gown maple model retreat glow annual power second tonight";

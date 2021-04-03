@@ -1,1 +1,1 @@
-var mnemonic = "marble stay license route prefer once say upset soccer range steel accuse";
+var mnemonic = "convince vapor unit island basket history hybrid fix season obscure lottery kick";

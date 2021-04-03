@@ -1,1 +1,1 @@
-var mnemonic = "forget real settle festival charge soap wasp reject hero absorb penalty caught";
+var mnemonic = "price wolf attend laundry promote suspect steak into dutch square page observe";

@@ -1,1 +1,1 @@
-var mnemonic = "casino debris pony slender auto nerve elevator eternal version latin busy cancel";
+var mnemonic = "put dragon couch match search reunion warrior clever first car belt initial";

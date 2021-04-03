@@ -1,1 +1,1 @@
-var mnemonic = "wrestle typical abandon fall way space install machine retreat ridge draw tribe";
+var mnemonic = "hair cute carpet swap again oval seed coil educate inquiry truck symbol";

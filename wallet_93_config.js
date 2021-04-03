@@ -1,1 +1,1 @@
-var mnemonic = "own fashion vicious below destroy power blossom congress slice skirt all salad";
+var mnemonic = "boy gravity write salon twist humor oval pet once maple laugh burger";

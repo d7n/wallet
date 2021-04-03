@@ -1,1 +1,1 @@
-var mnemonic = "abuse frog arrow jeans have border defy zero tilt october west replace";
+var mnemonic = "bulk vacant marble absent industry real reveal museum deer salad air hidden";

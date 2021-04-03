@@ -1,1 +1,1 @@
-var mnemonic = "bounce topple garden amused deposit false night man outdoor cat blue phone";
+var mnemonic = "retreat congress pumpkin into trade ladder check rain drive tongue visual entire";

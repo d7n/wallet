@@ -1,1 +1,1 @@
-var mnemonic = "tiny maximum install opinion private above evidence shaft floor hockey knife plastic";
+var mnemonic = "excuse ice solar neck crush void disagree gain sorry recall pelican easy";

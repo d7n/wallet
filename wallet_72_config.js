@@ -1,1 +1,1 @@
-var mnemonic = "rubber seed reopen fresh six priority chaos open other carbon length thunder";
+var mnemonic = "bronze type mind letter tilt faith timber naive library cushion drama endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "museum melt exact slim window angle medal often avocado wet tell protect";
+var mnemonic = "reflect call pledge brisk side core much ill denial smoke chaos crew";

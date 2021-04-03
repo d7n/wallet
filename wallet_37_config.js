@@ -1,1 +1,1 @@
-var mnemonic = "shuffle panic hungry price bleak brother public salute eight average lecture ivory";
+var mnemonic = "rely deliver left turkey fall horror release abandon disorder core world bind";

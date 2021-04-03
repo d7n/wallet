@@ -1,1 +1,1 @@
-var mnemonic = "summer silver scrap pole equal forget oval math charge hammer trip comic";
+var mnemonic = "palace crop differ range boss potato shop matrix lecture evoke slab state";

@@ -1,1 +1,1 @@
-var mnemonic = "country siege negative bid payment awkward plate already mammal possible cream grow";
+var mnemonic = "pass staff loyal cost unfold face neutral crucial program hope hold episode";

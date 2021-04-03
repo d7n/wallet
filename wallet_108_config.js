@@ -1,1 +1,1 @@
-var mnemonic = "local large donate real tuition ripple host ensure youth cliff deal aware";
+var mnemonic = "frown ginger rescue elephant life glimpse search vehicle emerge lunar busy coyote";

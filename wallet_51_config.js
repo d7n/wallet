@@ -1,1 +1,1 @@
-var mnemonic = "acoustic school window disorder chronic public abstract alter govern universe bronze chuckle";
+var mnemonic = "lab deny motor ski cement armed sentence nose adapt silent enroll hen";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild bridge leaf entry garage tortoise rocket blanket all dove amount design";
+var mnemonic = "swear puzzle fix moral crouch report tide knock matrix catalog crush west";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle sample hand wrestle ship sugar rebuild swap history any comic breeze";
+var mnemonic = "busy universe rate shaft bind chef physical onion cage fragile struggle erase";

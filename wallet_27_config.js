@@ -1,1 +1,1 @@
-var mnemonic = "unveil web junior plug spray fog blood rifle girl multiply pulp rug";
+var mnemonic = "minute poverty daughter talk piece delay match wine element what lion firm";

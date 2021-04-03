@@ -1,1 +1,1 @@
-var mnemonic = "rate web wife cube motor enjoy face tone young crumble know venture";
+var mnemonic = "brush scout fury busy round capital margin remember egg slam permit erode";

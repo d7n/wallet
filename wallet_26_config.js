@@ -1,1 +1,1 @@
-var mnemonic = "hill gloom sample angry first rhythm include depth cradle someone impose try";
+var mnemonic = "token coin eyebrow lounge damp trouble cactus car brand among morning glance";

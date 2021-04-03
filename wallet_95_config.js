@@ -1,1 +1,1 @@
-var mnemonic = "flip token exile general skull focus bus below flower wasp wrist illness";
+var mnemonic = "only skill switch double adapt sun emotion shine guilt fringe spray early";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory dry camp guide donor snake cat burst close business remain obey";
+var mnemonic = "brand reopen soccer benefit milk shell wage top dish time galaxy trend";

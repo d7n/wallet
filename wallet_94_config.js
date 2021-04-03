@@ -1,1 +1,1 @@
-var mnemonic = "boss breeze absurd open budget sport device common autumn argue until olive";
+var mnemonic = "artwork bag involve program moral grain wrong quiz year erase duty camp";

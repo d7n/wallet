@@ -1,1 +1,1 @@
-var mnemonic = "cloth gas tenant inner this pool relax useful pottery fine grocery sister";
+var mnemonic = "diesel theory doll slam install dolphin harbor finish source badge page harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "party output lunch peace avoid spell antenna animal vacant fuel whisper pizza";
+var mnemonic = "manual naive long silly ship test glass romance point glove express lounge";

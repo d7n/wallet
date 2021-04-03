@@ -1,1 +1,1 @@
-var mnemonic = "coral sadness double blanket until cover fix obtain crowd wink impulse replace";
+var mnemonic = "few loud sad plate fame helmet embrace change inside same bicycle column";

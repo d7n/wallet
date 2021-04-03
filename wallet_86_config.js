@@ -1,1 +1,1 @@
-var mnemonic = "champion wrestle ritual park hollow depart zoo version wage team slab sad";
+var mnemonic = "oyster cluster position swing observe zebra settle lens neutral clay myth brisk";

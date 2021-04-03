@@ -1,1 +1,1 @@
-var mnemonic = "elegant unusual love ensure private critic spy inherit monster kiwi orbit future";
+var mnemonic = "nice couple soda fit patient trim spoon priority tide speak acid hammer";

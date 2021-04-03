@@ -1,1 +1,1 @@
-var mnemonic = "voice powder side tiny exit risk snow thrive upset current wear fix";
+var mnemonic = "now describe neglect believe confirm mechanic omit erode dumb note glare sun";

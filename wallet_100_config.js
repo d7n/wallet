@@ -1,1 +1,1 @@
-var mnemonic = "napkin finish please swear husband hollow tree ketchup sweet cash rubber quiz";
+var mnemonic = "equal rotate warrior slab already wisdom royal sketch artwork boat engage minimum";

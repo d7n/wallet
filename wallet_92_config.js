@@ -1,1 +1,1 @@
-var mnemonic = "item hurdle problem debate horse journey special gossip curve wash glory genuine";
+var mnemonic = "dress arrive pipe there review busy window margin turn turn dumb slogan";

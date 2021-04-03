@@ -1,1 +1,1 @@
-var mnemonic = "round history purity warm broken shy bus fault pupil scale bitter paddle";
+var mnemonic = "elite barely emerge boy business wave segment trash shadow vacant swamp track";

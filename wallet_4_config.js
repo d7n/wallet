@@ -1,1 +1,1 @@
-var mnemonic = "drink kid legal series course behind ripple frame party genre monitor silk";
+var mnemonic = "normal hurry legend spawn mesh exact usage boring axis paper used pumpkin";

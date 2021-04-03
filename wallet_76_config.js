@@ -1,1 +1,1 @@
-var mnemonic = "garden clutch cat equal enhance merge topple step mobile wrist movie make";
+var mnemonic = "service august excuse nuclear beyond trim process stable below zoo mosquito among";

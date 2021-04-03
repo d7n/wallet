@@ -1,1 +1,1 @@
-var mnemonic = "sugar fun wait winter junior syrup call can pave infant other elephant";
+var mnemonic = "version canal consider orbit worry world pond wear gauge flee vendor bone";

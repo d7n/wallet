@@ -1,1 +1,1 @@
-var mnemonic = "blade else worth access bone strong august universe sense cliff action dinosaur";
+var mnemonic = "universe fresh finish ugly spare unfair chuckle follow dismiss pride chest struggle";

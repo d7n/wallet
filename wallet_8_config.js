@@ -1,1 +1,1 @@
-var mnemonic = "party fabric brave hip open debris era people glad unknown hospital expose";
+var mnemonic = "valid acid voyage scale square drama little flavor episode rent achieve wood";

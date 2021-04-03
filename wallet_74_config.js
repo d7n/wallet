@@ -1,1 +1,1 @@
-var mnemonic = "sauce case lab coach check alert differ wall end pulse knife cruise";
+var mnemonic = "verify own sand comic left club until balance nest bleak forest tragic";

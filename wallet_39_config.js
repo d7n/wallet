@@ -1,1 +1,1 @@
-var mnemonic = "extra eternal ozone agree crash salad ivory kit excuse renew minimum share";
+var mnemonic = "used pave weather soda song yard hedgehog veteran human ginger element salon";

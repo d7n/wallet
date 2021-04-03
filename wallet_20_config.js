@@ -1,1 +1,1 @@
-var mnemonic = "school net sentence rack blame cheap brisk excuse silent radio innocent extend";
+var mnemonic = "alien castle become equip average blind surprise ranch flash chest absorb seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "despair sentence ladder powder mother express mass ozone swap oak scene erosion";
+var mnemonic = "sunset delay candy error amused weekend corn torch loyal inch ice orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "embark snow short six slide elephant cart deposit ice asthma brush provide";
+var mnemonic = "chaos draft olive vault quote sort region cement tape infant affair upon";

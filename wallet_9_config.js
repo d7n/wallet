@@ -1,1 +1,1 @@
-var mnemonic = "ceiling egg imitate quality hello crack grocery hover smoke ramp tool just";
+var mnemonic = "maximum smoke rug cable guess coil boat alpha arch hand fit excite";

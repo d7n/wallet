@@ -1,1 +1,1 @@
-var mnemonic = "current sword gate captain step brief canoe lonely present chimney dilemma notable";
+var mnemonic = "slim wine upon lonely proud step brain candy thing hobby ritual beyond";

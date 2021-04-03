@@ -1,1 +1,1 @@
-var mnemonic = "joy across unknown chase crater almost trumpet desert pink maze fall pencil";
+var mnemonic = "execute snap morning galaxy cabin wet party stool library sad snap suggest";

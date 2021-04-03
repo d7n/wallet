@@ -1,1 +1,1 @@
-var mnemonic = "stomach capable age habit ancient surface absurd rug brisk cannon sail problem";
+var mnemonic = "hope reward adjust anger plastic you bike slot catch vicious pulse must";

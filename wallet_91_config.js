@@ -1,1 +1,1 @@
-var mnemonic = "like music strong girl tank cattle brand thrive layer section april web";
+var mnemonic = "buyer token observe kit time loan paper runway neutral moment north check";

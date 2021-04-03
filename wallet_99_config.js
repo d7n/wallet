@@ -1,1 +1,1 @@
-var mnemonic = "post long fold dentist praise awake kitten cost deny buyer pole gravity";
+var mnemonic = "warfare luggage cousin doll enlist pluck online width saddle wink possible winter";

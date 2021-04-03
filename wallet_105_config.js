@@ -1,1 +1,1 @@
-var mnemonic = "access nice floor forget saddle knock train arrow feature step sense tilt";
+var mnemonic = "pill girl resist analyst east donate bind mercy language between sunset safe";

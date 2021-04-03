@@ -1,1 +1,1 @@
-var mnemonic = "kitchen practice awkward glow original bench bonus powder cushion rotate minimum lab";
+var mnemonic = "hover canvas gospel trim ripple addict help rice lunar clump happy slide";

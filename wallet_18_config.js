@@ -1,1 +1,1 @@
-var mnemonic = "equip jump resist horn sign devote outside security copper dial hybrid mail";
+var mnemonic = "cliff bind action slide matrix champion they tomorrow fold quantum deer vessel";

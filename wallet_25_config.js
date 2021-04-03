@@ -1,1 +1,1 @@
-var mnemonic = "silk autumn entry giraffe jungle license tip evil client unable agent thunder";
+var mnemonic = "mechanic century ginger fatal give matter pottery crew pond banner lava fault";

@@ -1,1 +1,1 @@
-var mnemonic = "once vessel physical dune night silk orchard manual come agree fringe visa";
+var mnemonic = "will frown organ grow better cover soup cable avoid assault social bomb";

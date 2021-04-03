@@ -1,1 +1,1 @@
-var mnemonic = "depth crater gym napkin smile regular lounge shield worry lumber rifle burden";
+var mnemonic = "orphan fabric toy knife pencil collect connect equip useful piano edge insane";

@@ -1,1 +1,1 @@
-var mnemonic = "name sponsor crush lunch mobile rule giraffe cupboard border violin inhale egg";
+var mnemonic = "fee side street offer coil alpha visa evoke rival scare asthma calm";

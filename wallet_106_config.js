@@ -1,1 +1,1 @@
-var mnemonic = "original bubble drive someone milk dog boost imitate mesh capital hard perfect";
+var mnemonic = "about elevator volume rate universe same vacant track slush minute leisure industry";

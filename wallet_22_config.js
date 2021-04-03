@@ -1,1 +1,1 @@
-var mnemonic = "repair tree pill warfare aerobic obtain salt festival castle spin fork among";
+var mnemonic = "senior review weasel number decline pact cabbage educate metal laptop also vast";

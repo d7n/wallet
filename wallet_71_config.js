@@ -1,1 +1,1 @@
-var mnemonic = "ride puppy liquid remind axis tomorrow will slab regular employ frown put";
+var mnemonic = "drama wood rally purse hover skin install erosion cake ship equip kit";

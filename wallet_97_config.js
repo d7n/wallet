@@ -1,1 +1,1 @@
-var mnemonic = "mom toward wire turtle lonely parent toss legal wear little zone design";
+var mnemonic = "visit web modify alone knife around grant wink farm close transfer urge";

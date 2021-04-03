@@ -1,1 +1,1 @@
-var mnemonic = "smart tiger settle glove day paper area fix cherry judge mercy upgrade";
+var mnemonic = "vital then diet panther jealous whale average phone hip industry slush fruit";

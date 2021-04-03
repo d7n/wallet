@@ -1,1 +1,1 @@
-var mnemonic = "setup trophy kingdom true mirror tuna mirror expose among wonder sad method";
+var mnemonic = "mask chair lazy stairs egg replace tomorrow catalog naive clean must sunset";

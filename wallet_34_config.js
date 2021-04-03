@@ -1,1 +1,1 @@
-var mnemonic = "struggle pitch still faint ceiling divorce toddler success dilemma stuff clever voice";
+var mnemonic = "hire beef novel fame dad real dice anchor junior forest trumpet water";

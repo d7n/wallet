@@ -1,1 +1,1 @@
-var mnemonic = "history snap clog noble quote runway stamp silent object flower maximum quiz";
+var mnemonic = "thing antenna pledge morning whip ankle congress install coyote general sure analyst";

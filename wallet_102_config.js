@@ -1,1 +1,1 @@
-var mnemonic = "dentist legend olive meat collect try acoustic disagree crouch knee volcano nominee";
+var mnemonic = "sudden solar mandate fly lawn spread cotton web town promote crowd scorpion";

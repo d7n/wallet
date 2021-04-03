@@ -1,1 +1,1 @@
-var mnemonic = "decrease grid ginger six fuel woman never resemble humor weird donor image";
+var mnemonic = "long divert fiction glory produce balcony angry script script cloud bridge step";

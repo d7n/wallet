@@ -1,1 +1,1 @@
-var mnemonic = "paper smile save sample zebra menu gas corn alpha modify vanish lift";
+var mnemonic = "route mammal consider sick crunch shallow speed catalog market once illegal palm";

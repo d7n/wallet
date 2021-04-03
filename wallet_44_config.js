@@ -1,1 +1,1 @@
-var mnemonic = "occur wrap wrong extend bacon quantum person expect squeeze job pull tent";
+var mnemonic = "kiwi burden awkward segment pen entry reflect melody bulk announce canal make";

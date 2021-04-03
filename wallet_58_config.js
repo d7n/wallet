@@ -1,1 +1,1 @@
-var mnemonic = "clutch canal capital claim defy turtle wise north spell kind math write";
+var mnemonic = "inquiry chest oyster spring chase slender rifle snake cruise next inside divide";
