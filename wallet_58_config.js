@@ -1,1 +1,1 @@
-var mnemonic = "crane intact final vocal holiday twice diamond napkin cluster huge giggle gold";
+var mnemonic = "ramp hill south useful noise whisper canoe match defy toward castle one";

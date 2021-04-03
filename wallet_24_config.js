@@ -1,1 +1,1 @@
-var mnemonic = "master domain brick fatal inform used library huge sponsor news manual dress";
+var mnemonic = "diamond scene play cheap evolve inside thank vivid kangaroo index noise salon";

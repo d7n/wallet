@@ -1,1 +1,1 @@
-var mnemonic = "suspect wing armed sponsor sustain limb gain survey brand cannon young flower";
+var mnemonic = "manual various gather provide season brown ramp lesson victory remove host coast";

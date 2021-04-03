@@ -1,1 +1,1 @@
-var mnemonic = "agree drastic sure sort farm result trick radar relax pioneer unable neglect";
+var mnemonic = "rack evil now bus invest mom casual possible power pudding umbrella favorite";

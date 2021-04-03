@@ -1,1 +1,1 @@
-var mnemonic = "doll valid river clinic volume initial bottom borrow neutral under already purse";
+var mnemonic = "uncover carry shove inflict hotel mail antique utility virus width width walnut";

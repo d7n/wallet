@@ -1,1 +1,1 @@
-var mnemonic = "great love cage rib casino range crop when album erosion giant perfect";
+var mnemonic = "render exhaust obey range dog profit purse skirt citizen dice grant acid";

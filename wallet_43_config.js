@@ -1,1 +1,1 @@
-var mnemonic = "trap option glove slam seek identify soccer brush stamp clock sand accuse";
+var mnemonic = "jazz switch exclude body gentle fee avocado snack chapter excess bronze leave";

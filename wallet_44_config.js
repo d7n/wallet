@@ -1,1 +1,1 @@
-var mnemonic = "spy super horse acoustic sugar opera style crunch tumble prize whale merge";
+var mnemonic = "dutch theory current since offer echo potato famous solve witness guard wise";

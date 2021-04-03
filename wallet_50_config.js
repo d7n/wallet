@@ -1,1 +1,1 @@
-var mnemonic = "tenant cart source rigid kit dutch follow pear attend belt comic gallery";
+var mnemonic = "immense engine fun flush velvet pudding mesh umbrella gallery milk box fix";

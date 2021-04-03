@@ -1,1 +1,1 @@
-var mnemonic = "adult asset defense swallow observe mad couch wealth burst news liberty urban";
+var mnemonic = "pledge opinion young speak actual size lecture spider nasty rifle hungry equal";

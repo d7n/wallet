@@ -1,1 +1,1 @@
-var mnemonic = "impact argue drift sadness banner south zebra real member liquid year impulse";
+var mnemonic = "torch spin duty birth input try boss little witness endorse joy tackle";

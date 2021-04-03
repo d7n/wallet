@@ -1,1 +1,1 @@
-var mnemonic = "faith wild deposit monkey admit female boat more issue supreme source despair";
+var mnemonic = "bounce gain ridge catalog offer paper stable leader ship loud guilt indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle common convince ahead artist oyster lecture cover celery column cube screen";
+var mnemonic = "noodle worry keen bronze size chapter damp trumpet addict burger vocal hub";

@@ -1,1 +1,1 @@
-var mnemonic = "demand owner beauty wave jealous better adapt beauty make where run scissors";
+var mnemonic = "way style buyer family blood romance imitate trust bitter rebel remember put";

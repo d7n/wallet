@@ -1,1 +1,1 @@
-var mnemonic = "casino favorite solid example arena problem receive marble merit flight early crucial";
+var mnemonic = "wall sponsor deposit inflict essay source labor sister neither skin hair toast";

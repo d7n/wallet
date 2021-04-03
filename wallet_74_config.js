@@ -1,1 +1,1 @@
-var mnemonic = "modify grow cupboard solid rival drum myth clutch link athlete gasp analyst";
+var mnemonic = "conduct lumber affair bounce current fold story insane brown forward result gravity";

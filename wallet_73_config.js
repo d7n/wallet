@@ -1,1 +1,1 @@
-var mnemonic = "step trial know stomach core blame tree lounge swap coach pulse slim";
+var mnemonic = "settle aisle real neglect insane behave regular chief drive cash execute list";

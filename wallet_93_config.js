@@ -1,1 +1,1 @@
-var mnemonic = "balcony toast only public theme letter hunt obvious service review grow copper";
+var mnemonic = "trial two task rapid edge swallow away health throw custom olive aisle";

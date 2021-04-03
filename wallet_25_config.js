@@ -1,1 +1,1 @@
-var mnemonic = "squeeze define short sadness hotel deny nation bar grace hurdle energy today";
+var mnemonic = "patrol bulk orient mean coil popular earth bullet mistake jar scrub frost";

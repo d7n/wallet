@@ -1,1 +1,1 @@
-var mnemonic = "own plastic tribe hard wonder resemble naive nice online win merit unlock";
+var mnemonic = "laugh sail color gospel carry negative supply sort disagree wide group skull";

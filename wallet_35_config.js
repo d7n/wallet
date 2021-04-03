@@ -1,1 +1,1 @@
-var mnemonic = "token jaguar attract bicycle across grow upon excite mind virus creek vessel";
+var mnemonic = "dash before ritual permit tag wash mom firm reform valid hurdle piece";

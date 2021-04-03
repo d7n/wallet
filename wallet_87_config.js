@@ -1,1 +1,1 @@
-var mnemonic = "city shift someone calm predict yellow excite junior gospel dry demise buzz";
+var mnemonic = "speak glad illegal color olympic atom expect become minimum clay nest fine";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate glow sauce ripple approve run moon pepper place leader corn vendor";
+var mnemonic = "choice cotton caught aim police melody common galaxy anchor novel copy trip";

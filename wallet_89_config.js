@@ -1,1 +1,1 @@
-var mnemonic = "tribe walk cave update diary employ phone purity twin jazz destroy clip";
+var mnemonic = "economy laugh young material laptop receive course tennis among pepper suspect pumpkin";

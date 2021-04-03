@@ -1,1 +1,1 @@
-var mnemonic = "repair cave knock enjoy arch planet lunch help blush game purse return";
+var mnemonic = "aim celery slide unlock improve napkin lady fault foster logic adult razor";

@@ -1,1 +1,1 @@
-var mnemonic = "creek safe mention monitor drum what three easy lyrics wait cheese thrive";
+var mnemonic = "dinosaur orphan better movie shield mail whip mountain memory occur grief utility";

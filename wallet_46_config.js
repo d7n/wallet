@@ -1,1 +1,1 @@
-var mnemonic = "marble enrich patch prize off lemon menu embark smooth input library random";
+var mnemonic = "square general place attend toy bone unique system erosion orange cannon ribbon";

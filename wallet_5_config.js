@@ -1,1 +1,1 @@
-var mnemonic = "alien silent amateur soccer few little wrist gun brisk derive music order";
+var mnemonic = "large army thing advice notable glare have dust zebra cream junior ability";

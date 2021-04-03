@@ -1,1 +1,1 @@
-var mnemonic = "notice horse hub hub enact tissue food real crisp suit grain move";
+var mnemonic = "praise denial allow forward spray method ask ankle garment master arrive second";

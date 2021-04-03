@@ -1,1 +1,1 @@
-var mnemonic = "umbrella essence correct enjoy tissue soap tongue daring sting strike science maid";
+var mnemonic = "awesome elephant scene addict number umbrella smart when list toddler ginger alley";

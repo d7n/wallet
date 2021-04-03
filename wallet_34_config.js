@@ -1,1 +1,1 @@
-var mnemonic = "make eager giant lava other hawk announce canoe salute cousin genuine coast";
+var mnemonic = "cool direct flavor gun ready dove unfair drip kind oven early poet";

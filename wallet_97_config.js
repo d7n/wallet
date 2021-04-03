@@ -1,1 +1,1 @@
-var mnemonic = "habit alarm front item company antique fun suggest void shrug daring price";
+var mnemonic = "soul purpose increase invest animal action roof mountain armor arena place joke";

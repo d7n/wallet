@@ -1,1 +1,1 @@
-var mnemonic = "harsh ability belt elder leader small write fiscal steel flee wedding soon";
+var mnemonic = "gain print abandon detail put bar zero stove phone about clown shine";

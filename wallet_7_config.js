@@ -1,1 +1,1 @@
-var mnemonic = "tell legal year corn raw olympic rifle equip student sign able fall";
+var mnemonic = "slim similar loan aim stumble globe season addict film dilemma spin betray";

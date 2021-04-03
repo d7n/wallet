@@ -1,1 +1,1 @@
-var mnemonic = "stove wink voyage bag bicycle stand fortune unfair heart velvet walnut symbol";
+var mnemonic = "filter cheese dial smile main sample fancy debate dutch similar mule photo";

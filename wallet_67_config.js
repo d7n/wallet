@@ -1,1 +1,1 @@
-var mnemonic = "proud wheel deliver sea crucial hover park alter please trip grace trust";
+var mnemonic = "snack task clump rack such inside cram exhibit ring iron humble begin";

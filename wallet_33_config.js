@@ -1,1 +1,1 @@
-var mnemonic = "need tube survey barely bracket rhythm other toddler silver elite photo amazing";
+var mnemonic = "hunt onion bring element receive jealous reward flee sword gorilla trial old";

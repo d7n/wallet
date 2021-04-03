@@ -1,1 +1,1 @@
-var mnemonic = "piano fatal film jelly club intact asthma outdoor tackle chief bullet add";
+var mnemonic = "stem hub hidden globe crawl cloud husband finger relax sock cupboard diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "once host source aim voice approve sign acid surge property buyer minute";
+var mnemonic = "sign viable judge boost scheme jacket they swallow quote click velvet someone";

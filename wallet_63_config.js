@@ -1,1 +1,1 @@
-var mnemonic = "punch adult hammer twice keen attract ginger half style lava near slender";
+var mnemonic = "tide jungle trap express sheriff trick panther trigger tackle whale admit screen";

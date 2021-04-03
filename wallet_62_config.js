@@ -1,1 +1,1 @@
-var mnemonic = "bleak dizzy ring victory popular jungle pact potato scout genius shop tourist";
+var mnemonic = "joke panther way fix dwarf cannon spend job glove energy copy stove";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn rocket subway public insane broken motion asset atom learn local summer";
+var mnemonic = "enlist shallow float barrel grace wear food enforce damp kangaroo vessel this";

@@ -1,1 +1,1 @@
-var mnemonic = "brain eight subway click forum jump sting fine sure pigeon float sight";
+var mnemonic = "staff ladder wide car change affair garbage inspire provide corn brush series";

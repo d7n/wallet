@@ -1,1 +1,1 @@
-var mnemonic = "drastic common fiscal crumble ridge child dash fame outside valve school vote";
+var mnemonic = "tissue swallow friend choose member uncover iron copy mention mother abuse focus";

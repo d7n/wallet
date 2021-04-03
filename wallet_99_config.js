@@ -1,1 +1,1 @@
-var mnemonic = "quit neglect bamboo twist input rally learn damp family extend unlock subject";
+var mnemonic = "duty layer shine response series party sheriff size oyster race warfare various";

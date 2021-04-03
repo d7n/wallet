@@ -1,1 +1,1 @@
-var mnemonic = "timber inject minimum donate begin power parade tired spin message finger lunar";
+var mnemonic = "zero hospital pen best farm tonight gesture copy sustain penalty enroll hat";

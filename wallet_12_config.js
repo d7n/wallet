@@ -1,1 +1,1 @@
-var mnemonic = "swamp resemble surface cable color baby remain theme gun pride pulse hotel";
+var mnemonic = "symbol install victory tired used wrap volcano own symptom initial math paper";

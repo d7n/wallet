@@ -1,1 +1,1 @@
-var mnemonic = "warrior history library brother dolphin state ticket ramp plate solution humor spy";
+var mnemonic = "hollow little light shoe solution vacuum love mouse produce predict stairs survey";

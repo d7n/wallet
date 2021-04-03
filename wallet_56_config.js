@@ -1,1 +1,1 @@
-var mnemonic = "equip then plunge six under idle meat scrap crisp repeat stock journey";
+var mnemonic = "toe spend like gloom infant hamster skirt artwork foster joke jacket plate";

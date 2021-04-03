@@ -1,1 +1,1 @@
-var mnemonic = "clarify ivory hidden devote cute best hood real mixed gesture era rural";
+var mnemonic = "sentence security elbow magic museum time avocado actual burst ring open eagle";

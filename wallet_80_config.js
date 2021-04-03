@@ -1,1 +1,1 @@
-var mnemonic = "license cost festival divide then core maximum emotion moral essence library genuine";
+var mnemonic = "tower fragile again document once frown inject since borrow resemble exotic document";

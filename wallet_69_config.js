@@ -1,1 +1,1 @@
-var mnemonic = "rescue skin dry fat saddle dish slice popular topic love glue fruit";
+var mnemonic = "version east grain satoshi silver gloom artwork cute subject element glance diesel";

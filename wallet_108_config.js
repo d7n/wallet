@@ -1,1 +1,1 @@
-var mnemonic = "identify mistake crash arm moment fold cute celery physical spice modify wait";
+var mnemonic = "imitate immune bid clay about matter pipe lion thunder kitten know pair";

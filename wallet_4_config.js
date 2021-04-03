@@ -1,1 +1,1 @@
-var mnemonic = "gorilla course hybrid height page gallery embark benefit pitch attract wait subject";
+var mnemonic = "loud hub clutch easy grape much night fame ten pool tent bring";

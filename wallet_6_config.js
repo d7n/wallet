@@ -1,1 +1,1 @@
-var mnemonic = "million idea modify poem afraid okay ritual rebel organ unfold army recycle";
+var mnemonic = "attract sleep middle drum property movie draft truth coral onion pilot length";

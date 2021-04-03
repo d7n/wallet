@@ -1,1 +1,1 @@
-var mnemonic = "net toward will essay term system super relief slim stable build drum";
+var mnemonic = "enter primary quantum day forum exit mountain flag stereo cluster arrow tree";

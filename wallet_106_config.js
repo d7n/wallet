@@ -1,1 +1,1 @@
-var mnemonic = "announce yard chalk vote milk scout noodle sudden ethics mass anchor nest";
+var mnemonic = "slight giraffe shrimp wedding young lizard ecology shuffle bid short direct blind";

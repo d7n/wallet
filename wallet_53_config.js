@@ -1,1 +1,1 @@
-var mnemonic = "home absurd kid jazz error actor mammal step kit morning brisk cousin";
+var mnemonic = "smoke black angry candy inside wire dawn feature onion genuine loop fitness";

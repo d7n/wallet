@@ -1,1 +1,1 @@
-var mnemonic = "cement travel person uncover oppose cube awesome about moral surprise clip repeat";
+var mnemonic = "myself naive obtain device core announce mansion agent salmon reduce oxygen fine";

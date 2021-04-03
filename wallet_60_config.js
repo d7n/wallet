@@ -1,1 +1,1 @@
-var mnemonic = "table source wealth soap someone similar live food proof mail spare rural";
+var mnemonic = "tomato build slight echo tennis destroy vicious budget pipe month hamster blossom";

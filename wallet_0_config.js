@@ -1,1 +1,1 @@
-var mnemonic = "prosper emotion parent amateur wrap sick problem advance file subway wet raccoon";
+var mnemonic = "drastic buffalo into portion call festival only view timber jeans gauge habit";

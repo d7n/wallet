@@ -1,1 +1,1 @@
-var mnemonic = "blanket deer license rural entry gadget husband conduct sell ball tiny proud";
+var mnemonic = "bridge identify disagree chalk exhibit present company youth ensure skate where moon";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth state hungry casual powder scrub echo sport torch heart amount skate";
+var mnemonic = "eye tilt feed beef waste field dish subway input faint pet whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "toward plug ozone evolve taste wisdom eight master shuffle call hockey atom";
+var mnemonic = "gesture fresh trigger slush faith athlete elder snake keen right planet area";

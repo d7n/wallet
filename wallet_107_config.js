@@ -1,1 +1,1 @@
-var mnemonic = "scrub tongue fancy wink wealth educate walnut proud govern cancel resemble scare";
+var mnemonic = "rabbit love phrase squirrel banana lecture perfect picture enact strong review health";

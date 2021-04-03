@@ -1,1 +1,1 @@
-var mnemonic = "bless track result age scheme emerge swear zoo abandon network leave jelly";
+var mnemonic = "borrow either monitor elevator fabric patch dune december gravity topic ball lottery";

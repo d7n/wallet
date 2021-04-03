@@ -1,1 +1,1 @@
-var mnemonic = "ethics lion impact soldier stairs wait taste able shuffle pony upper man";
+var mnemonic = "cereal inside lend that more range between focus about agent diary color";

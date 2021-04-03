@@ -1,1 +1,1 @@
-var mnemonic = "nose book bus pen pottery senior author regular relax vessel candy refuse";
+var mnemonic = "nerve check chaos divorce jeans logic able blade vanish ghost entire magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "expire agent hazard member task acoustic olive forget drive nose flash elder";
+var mnemonic = "wreck chalk garden reflect fee slow diary unfair suit casual leave mechanic";

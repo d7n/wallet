@@ -1,1 +1,1 @@
-var mnemonic = "exact type face runway clock oil pole must walnut tribe edit kidney";
+var mnemonic = "army code turkey rent cost rely squirrel offer melt juice outdoor leisure";

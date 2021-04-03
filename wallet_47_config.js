@@ -1,1 +1,1 @@
-var mnemonic = "tide gown security bulk month avocado blur gap only seek around sea";
+var mnemonic = "item little shallow uncover hazard curious menu online guilt noodle fiction replace";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial debate sing matter guitar move country dog turtle analyst hard dynamic";
+var mnemonic = "exist violin laugh pluck fortune grunt beef blouse protect palace safe upon";

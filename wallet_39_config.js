@@ -1,1 +1,1 @@
-var mnemonic = "vital smile like cherry genius main vague silly observe affair teach gesture";
+var mnemonic = "tourist emotion opinion juice awesome royal build never cheese price lesson level";

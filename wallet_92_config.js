@@ -1,1 +1,1 @@
-var mnemonic = "follow camp clutch sail sand perfect grape farm chalk target coin planet";
+var mnemonic = "rebel zone demise body fall mammal doll tourist ignore point void indoor";

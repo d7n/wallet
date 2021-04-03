@@ -1,1 +1,1 @@
-var mnemonic = "brain tooth staff cloud fold cement swarm shoe remain inch sad ostrich";
+var mnemonic = "bunker give fringe rude inch tape night endorse wrap tone sadness marine";

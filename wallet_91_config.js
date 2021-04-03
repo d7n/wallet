@@ -1,1 +1,1 @@
-var mnemonic = "mail bunker foot under august satisfy seven guitar hood creek box soda";
+var mnemonic = "sister snow version trade odor swap select awful hope sight thrive boss";

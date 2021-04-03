@@ -1,1 +1,1 @@
-var mnemonic = "version stay elephant annual anger kit clip broken parade alarm vessel concert";
+var mnemonic = "walnut hurry capital treat ghost gap bike pottery put check six traffic";

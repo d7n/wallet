@@ -1,1 +1,1 @@
-var mnemonic = "goddess audit shop claw path today name quiz amazing jeans stereo whisper";
+var mnemonic = "ignore camp quality trash spot chicken fame total jacket butter warrior decade";

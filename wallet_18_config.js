@@ -1,1 +1,1 @@
-var mnemonic = "nerve report item power distance cup come wise dismiss turtle muscle just";
+var mnemonic = "cram mesh army keen illness apart carry chalk explain nice egg wool";

@@ -1,1 +1,1 @@
-var mnemonic = "van oblige that avoid source purse mutual impose deal legend quantum finish";
+var mnemonic = "mystery aspect abandon upper nice banana guide point agree alert jewel patch";

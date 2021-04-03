@@ -1,1 +1,1 @@
-var mnemonic = "fiber fix steak escape between nothing summer trial throw asthma say reflect";
+var mnemonic = "trim broccoli profit genuine lake unlock grow transfer strategy borrow door river";

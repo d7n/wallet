@@ -1,1 +1,1 @@
-var mnemonic = "mixed galaxy drink plug broccoli success street company color milk rather viable";
+var mnemonic = "winter sorry amazing regular ladder ranch critic orbit mansion together attitude reward";

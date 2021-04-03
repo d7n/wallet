@@ -1,1 +1,1 @@
-var mnemonic = "pig purse gun shiver hospital catalog human daring antenna rocket taste whip";
+var mnemonic = "clinic ask decide regret census dragon math ignore judge cheap unlock color";

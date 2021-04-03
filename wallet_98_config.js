@@ -1,1 +1,1 @@
-var mnemonic = "parrot manage afford alter loyal broom awful bring foster camp range once";
+var mnemonic = "print bamboo rack audit purpose surprise resource cargo old festival brisk wish";

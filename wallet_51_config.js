@@ -1,1 +1,1 @@
-var mnemonic = "mansion guilt such mention wide absurd photo any this spell consider pencil";
+var mnemonic = "alarm rude buddy position camp tunnel figure fever sugar remember grass water";

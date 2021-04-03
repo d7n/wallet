@@ -1,1 +1,1 @@
-var mnemonic = "ribbon wage shoot motor segment magic hobby rebel muffin cupboard promote belt";
+var mnemonic = "shell unlock critic bulk mad rookie fitness dry together spray riot warfare";

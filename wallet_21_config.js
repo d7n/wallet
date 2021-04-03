@@ -1,1 +1,1 @@
-var mnemonic = "salad novel pioneer strong jungle embrace rapid ribbon envelope become toss fault";
+var mnemonic = "news twelve zebra vacant twin vote stuff country secret pretty absurd keep";

@@ -1,1 +1,1 @@
-var mnemonic = "sort sell rough strategy arrange culture prefer trophy bachelor grant act hybrid";
+var mnemonic = "raw mirror family climb another blue token odor average negative whisper gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff myself cave nuclear alarm deposit true stone blood height father example";
+var mnemonic = "friend grace chimney fine large best swap hen choose junior nation want";

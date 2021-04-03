@@ -1,1 +1,1 @@
-var mnemonic = "nothing purse police genuine vehicle talk seek robot verify room liberty resist";
+var mnemonic = "green salad opinion urban cruel total grit cheap solve middle gym project";

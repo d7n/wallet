@@ -1,1 +1,1 @@
-var mnemonic = "syrup clog detect rude visit verb citizen tired develop piano height tray";
+var mnemonic = "pupil tool secret segment option oppose good zero high safe short focus";
