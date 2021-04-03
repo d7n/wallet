@@ -1,1 +1,1 @@
-var mnemonic = "isolate faculty order unusual over call stereo junk useless sand upgrade universe";
+var mnemonic = "bone decorate oblige orphan force regret arrow grocery funny motor road sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "horn dad topic knee dynamic invest enhance angle column address tennis peanut";
+var mnemonic = "sunset outside accuse sheriff engine behave hungry creek trend calm ten page";

@@ -1,1 +1,1 @@
-var mnemonic = "weather also run split beef legend scrap script rain brisk rally chase";
+var mnemonic = "tiny orange tortoise gown guess direct cool blood huge bundle clerk kidney";

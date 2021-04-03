@@ -1,1 +1,1 @@
-var mnemonic = "machine inflict attitude liquid view space fuel rent genius enlist exclude van";
+var mnemonic = "estate ancient dash balcony word ramp public orient museum nest leisure spatial";

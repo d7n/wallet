@@ -1,1 +1,1 @@
-var mnemonic = "mule miss immense wise cruise index account blade section bus walnut uncover";
+var mnemonic = "limb scale clay marble paddle reunion peace tooth document wild celery gallery";

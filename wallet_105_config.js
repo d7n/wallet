@@ -1,1 +1,1 @@
-var mnemonic = "option rose mammal phrase van purchase angle supreme relax base enable absorb";
+var mnemonic = "feed call bicycle vapor feel pledge quality venture copper fever net suspect";

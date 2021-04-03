@@ -1,1 +1,1 @@
-var mnemonic = "truth initial grape review select pulse young swift fame multiply student gaze";
+var mnemonic = "embody blue normal stomach swarm evidence salad gold lady broom deputy over";

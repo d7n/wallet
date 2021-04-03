@@ -1,1 +1,1 @@
-var mnemonic = "wolf sugar actual south card enhance risk glove speak demand aware high";
+var mnemonic = "raise dust wage salad crew enough kidney dilemma add dust weather slush";

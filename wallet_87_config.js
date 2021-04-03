@@ -1,1 +1,1 @@
-var mnemonic = "canoe acoustic indoor box snow trophy nice half citizen grass torch film";
+var mnemonic = "tool rain venue hover start first cool member furnace slice march loyal";

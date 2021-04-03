@@ -1,1 +1,1 @@
-var mnemonic = "solid object crush tag permit people account tail cover task nominee water";
+var mnemonic = "blouse mesh glad save meadow kick review month uphold seek aerobic innocent";

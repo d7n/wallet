@@ -1,1 +1,1 @@
-var mnemonic = "faint sun vivid fatal found mind one logic tuition reason during buffalo";
+var mnemonic = "drip globe foot hollow assist dirt witness shoulder dawn arrow long spice";

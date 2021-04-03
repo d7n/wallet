@@ -1,1 +1,1 @@
-var mnemonic = "potato cloth discover bind method pact february throw buddy enact cat someone";
+var mnemonic = "fiction decade scare recall solution actor expire squeeze replace age slow solution";

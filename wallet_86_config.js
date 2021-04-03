@@ -1,1 +1,1 @@
-var mnemonic = "modify shoulder candy arena lift citizen hub state scorpion build scrap light";
+var mnemonic = "bean sausage evidence wolf impose never weasel crawl bike runway suit sweet";

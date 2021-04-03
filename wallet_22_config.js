@@ -1,1 +1,1 @@
-var mnemonic = "tide dynamic oval dentist page jacket category sunset ancient wrong purse axis";
+var mnemonic = "bulk example intact room mail comic disease color token glare famous trumpet";

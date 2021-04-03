@@ -1,1 +1,1 @@
-var mnemonic = "march prepare retreat zero unhappy rib rocket joy theory avoid habit assist";
+var mnemonic = "whip fog scare view suggest ordinary recall renew leg orchard sword blouse";

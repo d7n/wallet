@@ -1,1 +1,1 @@
-var mnemonic = "season meadow august lunar total spirit badge humor mix october couch choose";
+var mnemonic = "all uniform seed rice grow gap aunt chief path sight shoot combine";

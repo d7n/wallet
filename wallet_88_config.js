@@ -1,1 +1,1 @@
-var mnemonic = "clutch middle disease polar kind record puzzle first essay best art term";
+var mnemonic = "above normal earth easy diagram few thought garbage cabin term absent shop";

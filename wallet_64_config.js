@@ -1,1 +1,1 @@
-var mnemonic = "chicken battle net satoshi olive hazard song blouse cradle address squeeze input";
+var mnemonic = "angle mistake tray frequent harsh claw scorpion wage dad dilemma ceiling virtual";

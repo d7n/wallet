@@ -1,1 +1,1 @@
-var mnemonic = "film pitch disease ship what outside front cry divorce truly action cloth";
+var mnemonic = "offer wrestle south hobby course gap always fruit collect until color flip";

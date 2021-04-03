@@ -1,1 +1,1 @@
-var mnemonic = "service collect voyage borrow crucial credit believe siren goddess rocket cruise jump";
+var mnemonic = "phrase shoe mask onion prize cargo above fall laptop march knife match";

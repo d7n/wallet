@@ -1,1 +1,1 @@
-var mnemonic = "cigar air image athlete clutch cruel mom patient cupboard scrap tape cargo";
+var mnemonic = "invest side stone dash million finish stick uncover deputy portion leisure rally";

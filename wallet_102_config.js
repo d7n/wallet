@@ -1,1 +1,1 @@
-var mnemonic = "spare this render board head federal skirt donate camera antique volume lock";
+var mnemonic = "second stamp hand punch clock suggest flock magnet prosper conduct security cotton";

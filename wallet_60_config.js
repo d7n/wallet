@@ -1,1 +1,1 @@
-var mnemonic = "young blush arrow else cause draw craft dry dream print fiction window";
+var mnemonic = "throw bulk sorry ignore online increase merry cruel hub solid into shy";

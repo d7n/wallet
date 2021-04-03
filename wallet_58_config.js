@@ -1,1 +1,1 @@
-var mnemonic = "share speed album good kitten library grain cabin later job call beach";
+var mnemonic = "crack mystery ramp museum book gallery energy visit coast energy family below";

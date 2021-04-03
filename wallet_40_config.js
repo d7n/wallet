@@ -1,1 +1,1 @@
-var mnemonic = "near obscure rent couple feed define clip focus angry bone brain average";
+var mnemonic = "animal apart fancy false flee drift awful beef better talent tragic uncover";

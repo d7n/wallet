@@ -1,1 +1,1 @@
-var mnemonic = "scene search embrace tattoo still job life dentist mandate best figure bright";
+var mnemonic = "peasant journey announce rough charge drive shoulder like surge angry scout churn";

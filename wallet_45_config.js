@@ -1,1 +1,1 @@
-var mnemonic = "until balcony patrol much chase boss mouse until wrestle moon admit exclude";
+var mnemonic = "evil answer april abstract test small friend industry expose sort blast teach";

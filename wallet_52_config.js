@@ -1,1 +1,1 @@
-var mnemonic = "borrow ball gloom nominee virtual keep weather matrix market train bundle shed";
+var mnemonic = "skirt pistol balance august edge enough alpha supply script afford cactus radio";

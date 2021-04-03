@@ -1,1 +1,1 @@
-var mnemonic = "cushion meat emotion twist foot electric flat saddle avoid sphere leg else";
+var mnemonic = "lonely carbon become material car length perfect thrive leisure assist insect destroy";

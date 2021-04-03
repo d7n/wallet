@@ -1,1 +1,1 @@
-var mnemonic = "cry result library piece approve have organ outer minute slot meat digital";
+var mnemonic = "angle entry fame cluster inch talent wet link current orbit alone staff";

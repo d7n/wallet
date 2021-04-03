@@ -1,1 +1,1 @@
-var mnemonic = "warfare pink absent blue wrong mosquito organ blood crazy leisure interest goose";
+var mnemonic = "cream kingdom indoor notable public clump health silver alarm very juice trade";

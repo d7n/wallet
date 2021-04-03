@@ -1,1 +1,1 @@
-var mnemonic = "cluster until region salute gate calm black scheme lens rhythm bulk accuse";
+var mnemonic = "kitten drip muscle artist pig jar announce state lift noodle sketch gravity";

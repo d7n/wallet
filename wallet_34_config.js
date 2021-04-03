@@ -1,1 +1,1 @@
-var mnemonic = "west ostrich denial gorilla assault liberty risk brave chimney puppy junk adult";
+var mnemonic = "burden barely rural give purpose lava few allow gather future issue service";

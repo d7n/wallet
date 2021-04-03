@@ -1,1 +1,1 @@
-var mnemonic = "tumble fiber devote inner next donor blush best pigeon office joy evidence";
+var mnemonic = "alert suffer direct vehicle patrol indoor frame come people call nose nephew";

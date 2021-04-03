@@ -1,1 +1,1 @@
-var mnemonic = "foot heavy myth smile hungry gloom crumble doctor destroy item cable jazz";
+var mnemonic = "unaware gravity ritual accuse airport buyer tobacco inject zero slight country surround";

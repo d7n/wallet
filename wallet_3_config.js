@@ -1,1 +1,1 @@
-var mnemonic = "noble depth grape opinion drift bullet either trophy gate target mask fine";
+var mnemonic = "taste sound pistol hungry behave ignore subject bean cash pudding order power";

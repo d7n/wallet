@@ -1,1 +1,1 @@
-var mnemonic = "draft flight bus front finish slogan laugh festival female present load wisdom";
+var mnemonic = "holiday maximum tiny arm rely deposit kangaroo outside crucial general obey maid";

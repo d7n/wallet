@@ -1,1 +1,1 @@
-var mnemonic = "useful grocery pyramid emotion amateur measure valley wear purpose twin link lonely";
+var mnemonic = "club foster business claw divorce circle leisure quality sibling giant urge secret";

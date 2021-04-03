@@ -1,1 +1,1 @@
-var mnemonic = "state nuclear sting journey valve apart decrease swallow affair burst economy virus";
+var mnemonic = "circle pole dismiss ensure strategy photo color voyage evil wood armed aunt";

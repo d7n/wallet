@@ -1,1 +1,1 @@
-var mnemonic = "silver envelope fence feed sting brick fiber cargo cave team ship tornado";
+var mnemonic = "judge upper category cushion ship noise below second trade project giggle foil";

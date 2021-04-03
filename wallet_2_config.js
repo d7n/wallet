@@ -1,1 +1,1 @@
-var mnemonic = "brief also radio cook swift monster vibrant mistake light shiver night engage";
+var mnemonic = "fame blue round cousin eager electric water hand catch shop dog laptop";

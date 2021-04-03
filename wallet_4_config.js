@@ -1,1 +1,1 @@
-var mnemonic = "path rough cluster start ostrich visual spy today mechanic nephew shock agent";
+var mnemonic = "debate rapid open leg frame click seat parrot enough best shop anxiety";

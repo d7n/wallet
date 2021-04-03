@@ -1,1 +1,1 @@
-var mnemonic = "safe twelve naive immune hover physical cattle eternal point magic brain visit";
+var mnemonic = "skull recycle case ticket blame crowd gadget climb guilt laptop lesson convince";

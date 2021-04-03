@@ -1,1 +1,1 @@
-var mnemonic = "deny eternal giraffe debris title treat turn empower connect example parent defense";
+var mnemonic = "envelope ten develop camera snap pet wing lens reject between struggle pony";

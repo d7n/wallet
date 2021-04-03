@@ -1,1 +1,1 @@
-var mnemonic = "boil super bike remove rail tumble fit emerge depth tenant despair clarify";
+var mnemonic = "visual coin kangaroo save inch device office stadium then cable three law";

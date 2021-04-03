@@ -1,1 +1,1 @@
-var mnemonic = "shine drill burst volume apology demise dawn provide coast edge equal garage";
+var mnemonic = "hamster actress swim clog shift earth music wash drum size advance idle";

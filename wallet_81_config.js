@@ -1,1 +1,1 @@
-var mnemonic = "student ketchup above feature weapon stool piano solid report accuse unaware dice";
+var mnemonic = "gadget clean elite vague bind glad expose under invest recycle melody ostrich";

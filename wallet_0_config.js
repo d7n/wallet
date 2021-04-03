@@ -1,1 +1,1 @@
-var mnemonic = "defy barrel ensure quarter shop enemy remind battle pass brief metal hidden";
+var mnemonic = "pet slush ice act rather infant edge you sunny giggle lobster kangaroo";

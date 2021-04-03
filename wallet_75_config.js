@@ -1,1 +1,1 @@
-var mnemonic = "distance victory ride field ahead price vapor three sense pond pioneer reward";
+var mnemonic = "trial avocado guilt ignore tent present orphan garlic amazing brave skill spell";

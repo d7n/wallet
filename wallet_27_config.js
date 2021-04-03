@@ -1,1 +1,1 @@
-var mnemonic = "pig sweet leaf loop bird devote pole lucky robot ice traffic slender";
+var mnemonic = "use note potato manual minor champion dragon birth brave calm simple defense";

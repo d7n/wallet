@@ -1,1 +1,1 @@
-var mnemonic = "humor deny decade cheese chest minor long lock solve woman parrot sibling";
+var mnemonic = "rely spring cousin dumb middle artist phone eternal swear combine smile innocent";

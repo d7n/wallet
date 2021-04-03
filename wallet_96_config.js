@@ -1,1 +1,1 @@
-var mnemonic = "tuna advance team spy tower minor language elephant spatial nominee coil industry";
+var mnemonic = "until strong observe make opera cake control ketchup jazz upon skull cannon";

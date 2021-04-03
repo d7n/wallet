@@ -1,1 +1,1 @@
-var mnemonic = "pear blossom define aspect faint train velvet perfect shuffle report cement unlock";
+var mnemonic = "rocket ceiling point frequent pulse mother truly cricket gown grant mandate farm";

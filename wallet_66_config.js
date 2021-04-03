@@ -1,1 +1,1 @@
-var mnemonic = "raven net mind emotion wedding zone caught spy acid blanket foam flip";
+var mnemonic = "decide leader fine century hand gauge castle quiz series agree forward know";

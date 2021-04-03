@@ -1,1 +1,1 @@
-var mnemonic = "physical subject juice deposit uniform dress current glass outdoor disagree crazy spray";
+var mnemonic = "tower eager trick habit frog museum faint enjoy skate canyon object moral";

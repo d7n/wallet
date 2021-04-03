@@ -1,1 +1,1 @@
-var mnemonic = "miracle youth void yard spirit claw blur captain upper else bulk decade";
+var mnemonic = "pipe flee danger language skill exhaust tag urban toilet scatter shaft busy";

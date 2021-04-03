@@ -1,1 +1,1 @@
-var mnemonic = "chalk reunion prevent core flush canoe guard outside roast accuse indoor diesel";
+var mnemonic = "assist pony dog merit undo powder mobile nasty radar question genius scale";

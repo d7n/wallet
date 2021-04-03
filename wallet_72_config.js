@@ -1,1 +1,1 @@
-var mnemonic = "earth curve staff people gather often undo season elite recycle chronic nation";
+var mnemonic = "silver machine canal tell bring zoo path leisure tenant toilet auction zone";

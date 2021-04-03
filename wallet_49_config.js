@@ -1,1 +1,1 @@
-var mnemonic = "spend museum chair alpha junior also source caution cradle glass arm diagram";
+var mnemonic = "grass outdoor wealth staff child crime upper ask tide empty rocket simple";

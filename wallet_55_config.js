@@ -1,1 +1,1 @@
-var mnemonic = "ivory sphere genre tag good issue grocery expect bike result drop fiber";
+var mnemonic = "monster frame kangaroo alone tool green obvious midnight exhaust conduct fluid twelve";

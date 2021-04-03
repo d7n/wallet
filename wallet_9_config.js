@@ -1,1 +1,1 @@
-var mnemonic = "genre slender pause horn much glimpse ship spot text decrease comfort pill";
+var mnemonic = "harsh exact capital acquire wild text quit clock enter elephant dutch parrot";

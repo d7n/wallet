@@ -1,1 +1,1 @@
-var mnemonic = "blade enough satisfy fiscal intact castle wear category volume elevator rely turtle";
+var mnemonic = "ritual fault strong long extend minimum tube noise cancel tribe injury include";

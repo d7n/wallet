@@ -1,1 +1,1 @@
-var mnemonic = "gloom exotic sell type chunk time unfold guitar upon inspire sadness talent";
+var mnemonic = "fee drum drum evidence laundry copper beef punch young blue crater valley";

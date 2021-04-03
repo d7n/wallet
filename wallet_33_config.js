@@ -1,1 +1,1 @@
-var mnemonic = "onion piano risk island sort hobby chicken black kiwi option woman exercise";
+var mnemonic = "exist envelope evidence animal try path visit margin foam stock wait below";

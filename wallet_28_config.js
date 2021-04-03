@@ -1,1 +1,1 @@
-var mnemonic = "security glimpse slogan host ancient motion width post blade horn enroll battle";
+var mnemonic = "bring coconut mad critic soft horse east tent drastic minor neck canyon";

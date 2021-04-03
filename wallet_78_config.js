@@ -1,1 +1,1 @@
-var mnemonic = "another couple people poet wheat gloom city work together phrase equip obscure";
+var mnemonic = "patch charge state hill merit surprise best cable art practice winner attitude";

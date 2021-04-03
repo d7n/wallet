@@ -1,1 +1,1 @@
-var mnemonic = "prefer shed upset riot hand permit dad gallery coffee space bright scrub";
+var mnemonic = "repeat bullet light category reveal lake music humble miracle motor tower cash";

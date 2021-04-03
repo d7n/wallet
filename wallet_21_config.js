@@ -1,1 +1,1 @@
-var mnemonic = "hub brave lottery multiply private waste window dirt shell among black genuine";
+var mnemonic = "rebel doll modify obvious science organ nice infant guitar snack answer erode";

@@ -1,1 +1,1 @@
-var mnemonic = "invite arena sport essay circle true lunch twice essay pen laptop lounge";
+var mnemonic = "work saddle title absurd miracle marriage cross stamp arch shrimp soul effort";

@@ -1,1 +1,1 @@
-var mnemonic = "topple intact gorilla game improve flag humor wish crane report coffee dinner";
+var mnemonic = "wheat daring mention book private left special junk radar picture install boss";

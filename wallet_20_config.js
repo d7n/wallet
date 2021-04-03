@@ -1,1 +1,1 @@
-var mnemonic = "pink cross timber hockey blood boss walk system hotel print copy exact";
+var mnemonic = "bacon health sight matter surface track cinnamon run smoke human merry scrap";

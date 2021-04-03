@@ -1,1 +1,1 @@
-var mnemonic = "suspect water word life better day garment congress sad simple lucky output";
+var mnemonic = "display trumpet draft voyage dune struggle kitten orient unaware dial cost you";

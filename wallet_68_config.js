@@ -1,1 +1,1 @@
-var mnemonic = "fringe make deal item client unique bamboo jaguar can zoo offer trust";
+var mnemonic = "carbon extend robust boring average area mosquito rescue tool grit omit face";

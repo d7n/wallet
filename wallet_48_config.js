@@ -1,1 +1,1 @@
-var mnemonic = "example dose input wheel desert hard dune produce ripple search fatigue advice";
+var mnemonic = "cute coconut gallery plastic sock total height photo shield phrase ladder link";

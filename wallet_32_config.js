@@ -1,1 +1,1 @@
-var mnemonic = "loyal depth ball mercy sibling twice blossom carbon treat fun puppy equip";
+var mnemonic = "position anxiety sugar act humble crazy laundry roof camera switch humble battle";

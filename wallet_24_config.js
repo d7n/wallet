@@ -1,1 +1,1 @@
-var mnemonic = "retreat photo energy soldier cabbage idle century cup fitness enforce flight era";
+var mnemonic = "clump grace book scissors galaxy thrive must mad capital boring mixture north";

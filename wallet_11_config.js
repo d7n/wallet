@@ -1,1 +1,1 @@
-var mnemonic = "blossom tackle define film furnace bicycle fat elephant into stick rule rhythm";
+var mnemonic = "club strong stove video sibling adjust major age area month cram ladder";

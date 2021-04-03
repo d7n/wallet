@@ -1,1 +1,1 @@
-var mnemonic = "protect struggle behind moral maze boy lunch ship office snow soda margin";
+var mnemonic = "address swift desert rabbit duck vicious denial purity blouse dynamic picture promote";

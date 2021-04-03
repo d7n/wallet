@@ -1,1 +1,1 @@
-var mnemonic = "staff toast enable voyage history mercy false hint salt renew win solid";
+var mnemonic = "focus hint elevator day between clap ensure sibling topple ecology trumpet know";

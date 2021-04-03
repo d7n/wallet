@@ -1,1 +1,1 @@
-var mnemonic = "wash mimic glove skull alien range door virtual human museum air frog";
+var mnemonic = "parade ceiling wool inquiry agent nerve argue iron solve coffee tower car";

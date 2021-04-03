@@ -1,1 +1,1 @@
-var mnemonic = "slow prison bachelor notice emotion smile select practice dune vast dawn blossom";
+var mnemonic = "wash volume amateur slogan rescue midnight test seven razor wedding wave dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "age jeans object art equal tuna say enforce hotel salon raccoon leave";
+var mnemonic = "fame find replace huge behind opera design float jelly lobster cereal salmon";

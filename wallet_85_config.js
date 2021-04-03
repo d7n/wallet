@@ -1,1 +1,1 @@
-var mnemonic = "dumb vivid rent panel coral plunge hope cradle luggage twenty marble course";
+var mnemonic = "cycle derive atom reward despair awesome tag royal decline uncle menu shoe";

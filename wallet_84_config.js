@@ -1,1 +1,1 @@
-var mnemonic = "stuff carpet task meadow eternal host improve disease unknown wrong parent hand";
+var mnemonic = "cruise favorite raise step tooth similar zone improve edge lunar ocean almost";

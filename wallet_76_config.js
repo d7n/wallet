@@ -1,1 +1,1 @@
-var mnemonic = "admit feed fatal angle hundred try easily despair metal require marriage excuse";
+var mnemonic = "proof sign jeans volume phone neither toddler tourist whale harbor raccoon hope";

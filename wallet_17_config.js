@@ -1,1 +1,1 @@
-var mnemonic = "dolphin label work wide okay canyon drift eager pizza west rich forward";
+var mnemonic = "over pink leg quantum wrestle laugh post length dune practice august alter";

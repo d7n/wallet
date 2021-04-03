@@ -1,1 +1,1 @@
-var mnemonic = "excuse profit rare like resource plunge friend account clap genuine local misery";
+var mnemonic = "forward cheese carry spy time only defense access village road flock wine";

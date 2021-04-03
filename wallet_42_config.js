@@ -1,1 +1,1 @@
-var mnemonic = "drift shy subject silent midnight ostrich review about pave comic goddess today";
+var mnemonic = "spoon tray joy body vintage later apology drip loud spend canyon asset";

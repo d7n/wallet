@@ -1,1 +1,1 @@
-var mnemonic = "general keen ready pledge mask olympic ankle add burger damp hawk sphere";
+var mnemonic = "circle maid total tent direct slab topic ring pizza embrace oil song";

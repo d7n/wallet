@@ -1,1 +1,1 @@
-var mnemonic = "rich team couple dial resemble gravity evil romance planet client shift social";
+var mnemonic = "funny flush enemy laundry report rotate apology broken struggle biology dove portion";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper image involve tip dash gain depend moon hole velvet clip blood";
+var mnemonic = "ancient quality cross thought nasty uncover saddle love liberty vicious dream deer";

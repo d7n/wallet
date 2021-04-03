@@ -1,1 +1,1 @@
-var mnemonic = "unfair keep live fiscal inject material track panel woman inquiry gesture twice";
+var mnemonic = "giant when thrive install arrow flip mind income blanket thumb robot venue";

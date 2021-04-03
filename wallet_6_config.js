@@ -1,1 +1,1 @@
-var mnemonic = "cancel narrow space bike climb attract anxiety twice limit long tower bitter";
+var mnemonic = "dash banana ball expire kit manage salt lecture enable license aunt mention";
