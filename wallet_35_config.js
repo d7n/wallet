@@ -1,1 +1,1 @@
-var mnemonic = "exist coffee supply exile slush slow left ranch spare enlist actual mesh";
+var mnemonic = "myth avoid alpha depend spell axis range frown verb tower orient crane";

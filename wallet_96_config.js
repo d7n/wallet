@@ -1,1 +1,1 @@
-var mnemonic = "melt tornado slam hawk powder edge inspire stem dry expire illegal say";
+var mnemonic = "hotel lawn plug young inherit expire mule glance wasp coconut diet volume";

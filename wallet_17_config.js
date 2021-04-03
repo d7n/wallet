@@ -1,1 +1,1 @@
-var mnemonic = "normal organ detail canyon prevent bronze idea tag grocery nest tired winter";
+var mnemonic = "garbage race whip like juice early million good tomato alcohol doctor merit";

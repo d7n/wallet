@@ -1,1 +1,1 @@
-var mnemonic = "blast strong timber ceiling festival pipe grit taxi wet genuine normal scan";
+var mnemonic = "lyrics auto kitten umbrella pretty scan spot liberty blame strike domain aisle";

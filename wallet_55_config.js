@@ -1,1 +1,1 @@
-var mnemonic = "motion sausage zoo mercy regret harbor camp feel finish corn tiny second";
+var mnemonic = "dice deputy gather improve juice day stadium icon impose execute ribbon sadness";

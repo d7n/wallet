@@ -1,1 +1,1 @@
-var mnemonic = "slim armed expire nature hover luggage practice explain maximum maple lamp silk";
+var mnemonic = "casual number surge mixed clock advance assault display gallery mansion husband behave";

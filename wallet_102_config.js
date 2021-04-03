@@ -1,1 +1,1 @@
-var mnemonic = "bitter vital fever auction crouch slab cheese elegant case wheat slot clarify";
+var mnemonic = "adult edit borrow language afford dirt mercy road trim word stick actual";

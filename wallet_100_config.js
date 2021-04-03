@@ -1,1 +1,1 @@
-var mnemonic = "pill wave scatter carry spike seat square garbage pigeon ticket connect mouse";
+var mnemonic = "bird crash warrior depth avoid camp taxi speed cage scare crush cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "solution crime online mad learn about wolf public orphan torch tattoo fun";
+var mnemonic = "nation exhibit hungry like rice endorse poverty enforce carbon whale much detect";

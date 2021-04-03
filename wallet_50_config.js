@@ -1,1 +1,1 @@
-var mnemonic = "bread claw earth fat range oxygen proud bread catalog topple jelly bargain";
+var mnemonic = "object account mobile egg random soldier stamp game program chair actor leg";

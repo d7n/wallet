@@ -1,1 +1,1 @@
-var mnemonic = "height retreat hub what nature curious say approve rotate capital mail federal";
+var mnemonic = "craft subject craft peasant wise season cupboard cloud future drive ill coffee";

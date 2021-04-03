@@ -1,1 +1,1 @@
-var mnemonic = "fresh walnut car casino magic deal note fly pulse arrive comfort gravity";
+var mnemonic = "virus scatter digital switch laundry task utility bless own symptom same phone";

@@ -1,1 +1,1 @@
-var mnemonic = "dice pudding use october sugar loan sea sound job man blanket piece";
+var mnemonic = "nurse sting sun type room salon sad fury cause silk grocery pass";

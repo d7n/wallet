@@ -1,1 +1,1 @@
-var mnemonic = "tell rural broccoli inmate west capital forest rose trick fetch shop frequent";
+var mnemonic = "oyster patch must age foil clown noodle give farm violin behind elegant";

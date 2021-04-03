@@ -1,1 +1,1 @@
-var mnemonic = "second shallow exit goddess quit diesel modify guide motion nephew globe easily";
+var mnemonic = "write slogan blood tattoo crumble sock defy stick gadget access slow blossom";

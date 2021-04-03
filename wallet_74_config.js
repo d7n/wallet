@@ -1,1 +1,1 @@
-var mnemonic = "artefact rent region taste spirit wave century also grace tray rather pride";
+var mnemonic = "indoor rice economy pattern exhibit announce jacket dice keep dwarf soon history";

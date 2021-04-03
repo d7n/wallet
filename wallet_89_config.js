@@ -1,1 +1,1 @@
-var mnemonic = "catch maple spice replace day milk loan detect taste reform juice visual";
+var mnemonic = "wise height couple kitten element panther awful shoulder dice lounge fish post";

@@ -1,1 +1,1 @@
-var mnemonic = "home rude horn snake demise engine effort slush menu mansion name inside";
+var mnemonic = "moon always great copper accuse dial unable iron judge margin inspire slim";

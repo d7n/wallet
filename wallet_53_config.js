@@ -1,1 +1,1 @@
-var mnemonic = "alarm artefact squirrel nuclear wear seek sibling scene mystery famous absent that";
+var mnemonic = "forget junk energy harsh field elegant casual ticket muscle comic armor thunder";

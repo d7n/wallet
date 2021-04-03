@@ -1,1 +1,1 @@
-var mnemonic = "spike scissors forward curtain install liar song broom shine violin frozen faculty";
+var mnemonic = "pyramid knife disagree engage loyal stove device record lesson monster talent famous";

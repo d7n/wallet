@@ -1,1 +1,1 @@
-var mnemonic = "cup fog defy chronic tornado cat puzzle accuse today obtain issue gauge";
+var mnemonic = "place treat modify roast actress churn pistol jaguar pond corn strike shoe";

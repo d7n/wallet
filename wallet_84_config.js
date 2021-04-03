@@ -1,1 +1,1 @@
-var mnemonic = "demand rural tiger barrel horror shoot parent repair joy dad buddy tell";
+var mnemonic = "return path prepare tooth this stool harsh quit tree noise tuition carbon";

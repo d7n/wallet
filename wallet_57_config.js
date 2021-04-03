@@ -1,1 +1,1 @@
-var mnemonic = "devote tomorrow outer ill bacon fancy stuff celery above dinner parent peanut";
+var mnemonic = "local pair bid loan man inflict drama genius giggle stem suit age";

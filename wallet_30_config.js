@@ -1,1 +1,1 @@
-var mnemonic = "consider tattoo space write fan clerk sight video phone expose fish gold";
+var mnemonic = "truck upon climb hockey harsh rapid basic injury clever peasant combine degree";

@@ -1,1 +1,1 @@
-var mnemonic = "eager trophy angle bunker state ceiling embrace pizza list drift orchard short";
+var mnemonic = "common learn supply utility frog swear cherry master knock chronic fox cook";

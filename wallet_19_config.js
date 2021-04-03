@@ -1,1 +1,1 @@
-var mnemonic = "sword pupil battle ranch velvet learn cram cake convince session toe mask";
+var mnemonic = "draw cereal kangaroo arm abuse exit afford tip describe what velvet tenant";

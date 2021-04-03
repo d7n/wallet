@@ -1,1 +1,1 @@
-var mnemonic = "viable pink double emotion rubber intact tobacco unknown task discover initial name";
+var mnemonic = "wear fix patch permit expire awesome round easy end grain excuse rough";

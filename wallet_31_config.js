@@ -1,1 +1,1 @@
-var mnemonic = "vocal nation near left lecture virtual theory maple hood point long dinosaur";
+var mnemonic = "teach fox usual young section speak any now mutual yard great text";

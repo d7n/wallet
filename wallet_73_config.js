@@ -1,1 +1,1 @@
-var mnemonic = "paddle breeze thrive pass wheel battle equal pupil direct suffer soft tobacco";
+var mnemonic = "deposit twenty equal vibrant butter grid satoshi radio wealth fitness reopen fury";

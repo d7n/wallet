@@ -1,1 +1,1 @@
-var mnemonic = "inject type balcony obscure dolphin multiply over envelope glove venue major device";
+var mnemonic = "prevent skate sunset public more item benefit amateur library pudding prosper spawn";

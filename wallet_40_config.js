@@ -1,1 +1,1 @@
-var mnemonic = "mixture under have endorse sock fence suspect credit total quit nuclear sauce";
+var mnemonic = "purchase patient blade damage predict session pattern foot hope whisper feature slogan";

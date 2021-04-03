@@ -1,1 +1,1 @@
-var mnemonic = "milk deal predict okay raw memory sea faint silver gain jungle fade";
+var mnemonic = "stand kick ask bring pistol memory artefact ridge spy royal jelly mutual";

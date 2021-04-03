@@ -1,1 +1,1 @@
-var mnemonic = "lab brick core lounge fade total position disease bitter quarter drama height";
+var mnemonic = "decrease disorder excuse panel total wish mix bitter hard exclude siren deputy";

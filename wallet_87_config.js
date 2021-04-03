@@ -1,1 +1,1 @@
-var mnemonic = "moment crop brother mixture reward armed hamster build pyramid charge basic siren";
+var mnemonic = "rule engage edit alarm indicate ticket error pull evil few bar benefit";

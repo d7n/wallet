@@ -1,1 +1,1 @@
-var mnemonic = "toilet keep burden average lyrics old correct immense come possible faculty return";
+var mnemonic = "rigid oblige hand annual industry end ridge share excite whale long reason";

@@ -1,1 +1,1 @@
-var mnemonic = "code toddler actor element warfare around erosion door pottery pluck sand exhibit";
+var mnemonic = "tornado myth icon deal love laptop boss relax tide sting permit favorite";

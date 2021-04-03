@@ -1,1 +1,1 @@
-var mnemonic = "fitness sample physical marble captain person uniform obvious rebel cute side win";
+var mnemonic = "town stomach exhibit suggest taste always effort cover episode swim evolve can";

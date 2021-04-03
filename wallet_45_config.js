@@ -1,1 +1,1 @@
-var mnemonic = "marine object sunset envelope mountain lizard ozone scale net valid carry trial";
+var mnemonic = "firm exercise annual depart aware oak solve country flash cargo common arrest";

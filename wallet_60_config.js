@@ -1,1 +1,1 @@
-var mnemonic = "stock fortune artwork squeeze cause trial husband topple genre govern shed radio";
+var mnemonic = "such nation session arrange across hurdle slush scatter aim perfect chuckle february";

@@ -1,1 +1,1 @@
-var mnemonic = "palace laugh stove tube enough horse cluster world drum weasel stool priority";
+var mnemonic = "rhythm giggle clutch describe large bread dial mandate category jar crop people";

@@ -1,1 +1,1 @@
-var mnemonic = "tube trade indoor vanish imitate twenty power end glimpse plug jar clean";
+var mnemonic = "disorder bag law gorilla luggage ice lucky excite city promote census fog";

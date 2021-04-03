@@ -1,1 +1,1 @@
-var mnemonic = "bottom pelican finish globe satoshi arena fitness honey treat mammal gadget fold";
+var mnemonic = "holiday object fresh impact chalk soon sunset program sponsor find diagram twist";

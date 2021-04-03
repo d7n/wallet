@@ -1,1 +1,1 @@
-var mnemonic = "winner faculty mention middle water size cool concert resist vintage urge minute";
+var mnemonic = "glue float squirrel local latin sell day educate across trap seek poem";

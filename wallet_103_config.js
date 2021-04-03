@@ -1,1 +1,1 @@
-var mnemonic = "tank remember address quote reunion tunnel outdoor rather polar artist napkin bone";
+var mnemonic = "guitar body correct foil cabin double wrap tortoise almost midnight eyebrow sugar";

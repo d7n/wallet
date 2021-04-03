@@ -1,1 +1,1 @@
-var mnemonic = "slim rebuild fix manage loan ripple define item glance coin argue february";
+var mnemonic = "swim jacket unfair century apart solar uniform execute truly region clarify just";

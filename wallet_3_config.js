@@ -1,1 +1,1 @@
-var mnemonic = "oyster desk quit black logic pepper include gaze hat seed use abstract";
+var mnemonic = "purse cave spread actual forum drill staff hard movie glare game act";

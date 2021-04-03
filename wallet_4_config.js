@@ -1,1 +1,1 @@
-var mnemonic = "plate flower manage search market jungle toy stage galaxy smile carpet asthma";
+var mnemonic = "giant critic message earth adapt quote shadow legend scan duty label pause";

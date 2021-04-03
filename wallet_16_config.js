@@ -1,1 +1,1 @@
-var mnemonic = "report poet lunch tiger trial gap effort guess moment swear actual survey";
+var mnemonic = "cable unknown tag syrup people pole bleak fun fruit rotate angle faith";

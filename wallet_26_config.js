@@ -1,1 +1,1 @@
-var mnemonic = "sense uncle right slim sketch car wise wall lake tribe leg lady";
+var mnemonic = "young embrace scare frost blind bargain axis good secret mobile burst lady";

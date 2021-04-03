@@ -1,1 +1,1 @@
-var mnemonic = "drop palace regular nut across volcano decrease curtain beef fade edit sand";
+var mnemonic = "angle flee invest bullet purchase predict shoot useless enable blood surface topple";

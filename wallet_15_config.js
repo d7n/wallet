@@ -1,1 +1,1 @@
-var mnemonic = "burden payment card one train season local program embrace leisure guide seed";
+var mnemonic = "kitchen job rare march table board blur bitter grocery object gather quote";

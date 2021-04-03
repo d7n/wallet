@@ -1,1 +1,1 @@
-var mnemonic = "boat material eight frame strategy sponsor twenty town mobile enhance shove little";
+var mnemonic = "adult defy chat give blossom voyage actor damage give decide orphan raw";

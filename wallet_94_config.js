@@ -1,1 +1,1 @@
-var mnemonic = "venture review wish grief right cotton ramp palm industry remain shrimp weather";
+var mnemonic = "marble hidden during frog purse next rapid globe casino embrace involve market";

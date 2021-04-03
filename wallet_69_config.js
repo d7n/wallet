@@ -1,1 +1,1 @@
-var mnemonic = "wheat story taxi easily dutch barrel oyster toast evidence fringe bread file";
+var mnemonic = "view fix attitude veteran helmet nature century warfare acquire cannon glory resemble";

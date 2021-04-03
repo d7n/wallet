@@ -1,1 +1,1 @@
-var mnemonic = "silk prevent grit robot human property print garlic argue kite galaxy travel";
+var mnemonic = "arch mistake gap energy surround problem chef bacon fancy smooth topic popular";

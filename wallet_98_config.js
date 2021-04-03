@@ -1,1 +1,1 @@
-var mnemonic = "life enemy aware worry engage entire chief stage fall mom note cluster";
+var mnemonic = "teach junk kid wall estate kingdom walnut rubber dove drip excuse again";

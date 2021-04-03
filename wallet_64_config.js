@@ -1,1 +1,1 @@
-var mnemonic = "check bounce follow above wash bless afford jewel crumble window silver obtain";
+var mnemonic = "melody patrol coach timber rabbit gorilla tragic there bring choose enroll tomato";

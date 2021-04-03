@@ -1,1 +1,1 @@
-var mnemonic = "amazing park convince seminar bag skirt nuclear punch cost please village use";
+var mnemonic = "pool cart shove swarm outdoor ladder tomorrow pill atom company click river";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum evolve fade panel brand match correct rabbit omit save solve eternal";
+var mnemonic = "alpha pave pumpkin note ghost again canoe abstract plug advice suggest either";

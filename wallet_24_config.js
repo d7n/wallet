@@ -1,1 +1,1 @@
-var mnemonic = "mother hole adjust design awful brown benefit nuclear wool where energy weekend";
+var mnemonic = "peasant foot tragic hunt possible hour tornado label laundry empty elegant expect";

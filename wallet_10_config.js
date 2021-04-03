@@ -1,1 +1,1 @@
-var mnemonic = "maid doll then culture blast cupboard sun school slender parent infant album";
+var mnemonic = "frequent bounce wild young gun zero spend fantasy dirt rifle dwarf quarter";

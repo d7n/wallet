@@ -1,1 +1,1 @@
-var mnemonic = "wheat horse enjoy delay tackle dinner praise nominee lamp verb child load";
+var mnemonic = "mom nice concert weird fold boil stomach thank guard idea caught render";

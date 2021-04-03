@@ -1,1 +1,1 @@
-var mnemonic = "tube enhance edge enough speak kingdom hold lobster table prison lumber witness";
+var mnemonic = "mansion amazing raven surround element romance develop olympic maple make lizard shrug";

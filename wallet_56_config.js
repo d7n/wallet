@@ -1,1 +1,1 @@
-var mnemonic = "stuff ecology body soccer treat horror festival weird work carbon predict harsh";
+var mnemonic = "predict infant lab sort wrestle exhibit live spot brown left hospital sample";

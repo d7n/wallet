@@ -1,1 +1,1 @@
-var mnemonic = "marine stone plug giggle reunion scale improve teach negative extend empower people";
+var mnemonic = "filter candy term educate infant record process pledge badge kind autumn ecology";

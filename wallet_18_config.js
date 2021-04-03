@@ -1,1 +1,1 @@
-var mnemonic = "frequent basket analyst hundred tragic circle broccoli price sauce weasel material predict";
+var mnemonic = "resist crumble find theme order jealous pattern math sorry payment ready manage";

@@ -1,1 +1,1 @@
-var mnemonic = "physical flock embrace pioneer basic behind engage crumble absurd frozen shaft banner";
+var mnemonic = "toward pact champion type lecture flag dust abstract gravity moment jelly gravity";

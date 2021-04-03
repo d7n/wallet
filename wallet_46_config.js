@@ -1,1 +1,1 @@
-var mnemonic = "pig ice screen holiday obey magic general solid royal seat oval brave";
+var mnemonic = "there shoot reflect scare giant spike direct idle poverty spend jazz art";

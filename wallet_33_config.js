@@ -1,1 +1,1 @@
-var mnemonic = "trim swift helmet focus input anxiety miracle spray pill voyage whale truth";
+var mnemonic = "mind upper member together craft usage soldier avoid coral cruise alter emotion";

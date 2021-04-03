@@ -1,1 +1,1 @@
-var mnemonic = "word eyebrow payment zoo chalk ahead erupt expose mass argue chronic siren";
+var mnemonic = "exact what fat boil rent tornado prosper baby velvet aim unusual praise";

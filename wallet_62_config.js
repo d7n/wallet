@@ -1,1 +1,1 @@
-var mnemonic = "rely fame talk away during share crowd need retire you elephant swim";
+var mnemonic = "melody stick intact name add cage whip unknown copper number rebel plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi cloud nerve news cause hour bright clock salon scissors island rent";
+var mnemonic = "tragic like cruise bounce black solve live prefer seed fox venue devote";

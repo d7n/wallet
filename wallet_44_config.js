@@ -1,1 +1,1 @@
-var mnemonic = "hollow organ success trip liberty toddler garment worth soldier opinion sport float";
+var mnemonic = "oppose crazy devote reflect prefer wild fitness canoe inject electric ozone salon";

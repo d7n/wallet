@@ -1,1 +1,1 @@
-var mnemonic = "device west open member slogan disagree one crane frequent major twice around";
+var mnemonic = "voyage town armor erosion clap photo believe brave gain leaf observe slide";

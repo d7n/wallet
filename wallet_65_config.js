@@ -1,1 +1,1 @@
-var mnemonic = "cotton cool response squirrel build bird edit news trim acquire negative clever";
+var mnemonic = "tell ankle purse person fish twice solar truth fatal hover much enough";

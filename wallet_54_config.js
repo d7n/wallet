@@ -1,1 +1,1 @@
-var mnemonic = "sad length guess gold divide tool wink hill vessel sadness notice later";
+var mnemonic = "liberty list reunion plug jewel armor divorce rocket point worry long canvas";

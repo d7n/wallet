@@ -1,1 +1,1 @@
-var mnemonic = "swallow question hidden jazz upgrade aunt globe sea actual please silk depart";
+var mnemonic = "transfer wreck february security chest famous member champion olive merry mushroom index";

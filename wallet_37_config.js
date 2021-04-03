@@ -1,1 +1,1 @@
-var mnemonic = "same snake brain ten alien deposit solid shuffle bread theory dawn run";
+var mnemonic = "arrow crystal post mass pudding common melody obscure whale conduct length crazy";

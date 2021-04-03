@@ -1,1 +1,1 @@
-var mnemonic = "saddle ride anger wife twelve orphan say lunch expand exile clump april";
+var mnemonic = "mother garage movie october spare lucky ritual private you history edit curious";

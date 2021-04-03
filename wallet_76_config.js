@@ -1,1 +1,1 @@
-var mnemonic = "setup weasel resist receive deer come gloom holiday crew sound art inject";
+var mnemonic = "sure fade symptom assume ocean daring session day food benefit boy attract";

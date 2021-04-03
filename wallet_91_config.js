@@ -1,1 +1,1 @@
-var mnemonic = "lucky goat crack anxiety original party raven damage limit same strong merry";
+var mnemonic = "broken assist chaos decade hurdle tuna cherry sentence news flip warrior diet";

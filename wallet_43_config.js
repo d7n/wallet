@@ -1,1 +1,1 @@
-var mnemonic = "sniff spare oven pluck tunnel enough ethics regular museum human rack champion";
+var mnemonic = "february drink puppy lift join badge caught toilet level debate impact heavy";

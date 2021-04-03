@@ -1,1 +1,1 @@
-var mnemonic = "north arrive swear dash slice pet talk grant crumble bread cherry pigeon";
+var mnemonic = "analyst shadow urban dose solar ostrich empower monitor actress burger priority protect";

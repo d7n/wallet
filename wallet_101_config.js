@@ -1,1 +1,1 @@
-var mnemonic = "omit inmate crouch check hover mom poet sketch clinic frog organ family";
+var mnemonic = "shoulder arrange evidence sound impose invest quarter walk inmate fetch knock outer";

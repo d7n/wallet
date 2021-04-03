@@ -1,1 +1,1 @@
-var mnemonic = "steak sound stay shiver alarm stomach dress noise ladder project desert produce";
+var mnemonic = "canvas thank wait reveal hold record prosper crane outdoor better youth hurry";

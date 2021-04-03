@@ -1,1 +1,1 @@
-var mnemonic = "dry cliff resist chase twenty behave end balcony possible beef work pigeon";
+var mnemonic = "lazy increase minimum guilt return path draft undo this valley fever loop";

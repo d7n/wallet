@@ -1,1 +1,1 @@
-var mnemonic = "build raven clip pitch same play lend recipe drama type age crash";
+var mnemonic = "pact order short smile rich famous finish prefer win cushion little artwork";

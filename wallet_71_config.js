@@ -1,1 +1,1 @@
-var mnemonic = "input palace wrong hundred base door private menu business virtual luggage fat";
+var mnemonic = "boil just emotion float violin ice junior piece beef gorilla post ethics";
