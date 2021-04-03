@@ -1,1 +1,1 @@
-var mnemonic = "spoon carpet milk student tonight earth tornado lion senior walk rather market";
+var mnemonic = "salad brother six comfort review frame cloud exit suspect sun head desert";

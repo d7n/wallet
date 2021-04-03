@@ -1,1 +1,1 @@
-var mnemonic = "neck country melt pass almost document busy alter resist way cruel abstract";
+var mnemonic = "fire vivid soda ice print hood fury pass much seminar cat impact";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal bracket artwork quote banner life rough witness pool sketch subway pioneer";
+var mnemonic = "vague survey section innocent number harsh material main reflect language bulk clump";

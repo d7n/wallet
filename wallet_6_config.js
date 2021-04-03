@@ -1,1 +1,1 @@
-var mnemonic = "cereal stand borrow argue debate market law chef height music tube orphan";
+var mnemonic = "leader client away balcony plastic spy electric grant engine valve uncover voice";

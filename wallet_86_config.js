@@ -1,1 +1,1 @@
-var mnemonic = "bench equal ribbon venue sock hen media rate steel law fix round";
+var mnemonic = "depend adjust captain attend suit wire erase suspect orient rack oil valve";

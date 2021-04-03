@@ -1,1 +1,1 @@
-var mnemonic = "crash busy tattoo tag symptom lucky wise purse way bonus aspect decade";
+var mnemonic = "city lava service female debris source kiss congress enter sword mistake tower";

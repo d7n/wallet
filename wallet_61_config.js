@@ -1,1 +1,1 @@
-var mnemonic = "dad still oven fire barely remove bright glory cement tackle carbon occur";
+var mnemonic = "girl clock buddy genuine wine flight trip drive blood ozone rubber enrich";

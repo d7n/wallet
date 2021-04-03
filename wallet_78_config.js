@@ -1,1 +1,1 @@
-var mnemonic = "family mutual divide muscle autumn write firm observe toss diamond voice sphere";
+var mnemonic = "window leave alpha car draft elbow avocado cloth energy more maid obscure";

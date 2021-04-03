@@ -1,1 +1,1 @@
-var mnemonic = "awkward bargain debate awkward over parent inquiry burst exhibit spring skirt note";
+var mnemonic = "oyster card scrap dry area advice cannon flight chimney ocean carry level";

@@ -1,1 +1,1 @@
-var mnemonic = "genre walk omit night clay brand evolve plug surface enjoy hill state";
+var mnemonic = "chuckle swear entire edge write during income soul rescue wolf prefer spider";

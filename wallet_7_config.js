@@ -1,1 +1,1 @@
-var mnemonic = "utility device skirt fire insect evidence stove insane cruel hen pass song";
+var mnemonic = "festival glue life mail police uphold air track wish much cruel trade";

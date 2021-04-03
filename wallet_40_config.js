@@ -1,1 +1,1 @@
-var mnemonic = "rough height bitter destroy oil pottery payment casino junk also riot grass";
+var mnemonic = "truck december exit rely lonely congress entire time iron have claim satisfy";

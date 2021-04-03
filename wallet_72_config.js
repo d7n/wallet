@@ -1,1 +1,1 @@
-var mnemonic = "loyal convince vendor breeze hard shift end orient exact black boss runway";
+var mnemonic = "aerobic shrug satoshi evil cheese casino couch guess tomorrow case tiny family";

@@ -1,1 +1,1 @@
-var mnemonic = "student trigger program veteran repeat brief fence urban blouse camera brief column";
+var mnemonic = "brief that box flip jungle timber early verify broom extra dash odor";

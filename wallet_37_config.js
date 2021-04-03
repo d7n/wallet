@@ -1,1 +1,1 @@
-var mnemonic = "expose umbrella face clog rescue dutch unusual give position giggle vehicle later";
+var mnemonic = "spike pretty virtual gown jeans excite execute stereo bird victory rally increase";

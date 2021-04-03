@@ -1,1 +1,1 @@
-var mnemonic = "gesture ginger palm park spring below erupt movie hidden illegal taxi slender";
+var mnemonic = "easy exclude move raven volcano book deputy length quiz purse garment pass";

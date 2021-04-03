@@ -1,1 +1,1 @@
-var mnemonic = "carbon luxury friend alert opera stable rebuild sport oak sponsor initial digital";
+var mnemonic = "adult sort eternal slender access enhance about artefact soul business coil arrange";

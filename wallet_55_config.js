@@ -1,1 +1,1 @@
-var mnemonic = "execute napkin guitar good eight six crane gospel buyer apple warfare jealous";
+var mnemonic = "senior cruel cement enough tragic repair either soft champion verb fog source";

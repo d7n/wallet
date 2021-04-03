@@ -1,1 +1,1 @@
-var mnemonic = "neither nice virtual whip aisle panther faculty output slide earth flower shrug";
+var mnemonic = "venue online hood orbit seek loud ramp caution economy worth uncle awkward";

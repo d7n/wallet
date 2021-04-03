@@ -1,1 +1,1 @@
-var mnemonic = "off shuffle crack corn empty such trade glow equal cement erosion stove";
+var mnemonic = "intact scare release scene flower van where hard genius smoke nest diary";

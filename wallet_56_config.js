@@ -1,1 +1,1 @@
-var mnemonic = "also chunk blue essay evoke occur void domain marine bar tenant liberty";
+var mnemonic = "hurry hello country unfold assume engage monster love saddle mystery will arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "section leg warm broom cereal jewel rescue shift absorb post nephew exile";
+var mnemonic = "glass august honey input reward seed hint hurdle model orchard cook enemy";

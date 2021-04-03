@@ -1,1 +1,1 @@
-var mnemonic = "enable vessel crew fit blade rose able record blossom carpet sustain member";
+var mnemonic = "erode tenant receive legend avoid churn lemon solar swift ostrich sketch hold";

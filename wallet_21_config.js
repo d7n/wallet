@@ -1,1 +1,1 @@
-var mnemonic = "solve ticket adjust move neither armor wrestle blanket apology spice ladder online";
+var mnemonic = "genre impulse raccoon edge electric beauty minute torch notable wealth mom age";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble ski inner unknown fresh adapt magic local bag sort clock suggest";
+var mnemonic = "salmon method old wage spawn negative sun giant cotton rule dance unique";

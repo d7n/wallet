@@ -1,1 +1,1 @@
-var mnemonic = "claim little act aunt frequent warrior tell clock oak future blur problem";
+var mnemonic = "uniform segment grid input forget zoo palace inside relax amount disagree hungry";

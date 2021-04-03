@@ -1,1 +1,1 @@
-var mnemonic = "soldier advance order menu matrix reward depth movie thumb rubber castle all";
+var mnemonic = "swear remind wine baby guitar cushion predict panther column hurdle lonely program";

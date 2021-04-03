@@ -1,1 +1,1 @@
-var mnemonic = "chest fit thank team pond tell pigeon visit smile taxi digital steel";
+var mnemonic = "nerve satisfy mom involve affair maximum below wonder great wire offer novel";

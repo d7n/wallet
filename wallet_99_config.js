@@ -1,1 +1,1 @@
-var mnemonic = "early surge whisper poem head virus sight sight orient benefit olive oil";
+var mnemonic = "cluster guide conduct correct salmon artist nephew junk cousin space great pony";

@@ -1,1 +1,1 @@
-var mnemonic = "document next enjoy wrist cargo lawn anger secret rotate marble stove word";
+var mnemonic = "awkward north basket skirt receive unfair tip cool twice december media mom";

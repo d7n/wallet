@@ -1,1 +1,1 @@
-var mnemonic = "gorilla burden equal design creek scene stairs depart wealth reflect raccoon right";
+var mnemonic = "thought nominee middle scheme beef suggest loud place team jazz use basic";

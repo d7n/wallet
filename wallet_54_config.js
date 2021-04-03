@@ -1,1 +1,1 @@
-var mnemonic = "remain win grit cool actual life brush left verify pizza void antenna";
+var mnemonic = "want joy wrong doll crowd reform resemble brief various anger slot smoke";

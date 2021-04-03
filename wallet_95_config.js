@@ -1,1 +1,1 @@
-var mnemonic = "stove decide lamp feed axis biology diary valley index buddy fetch series";
+var mnemonic = "relax treat when across skirt emotion chronic wisdom potato connect music define";

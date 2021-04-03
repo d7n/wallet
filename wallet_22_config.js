@@ -1,1 +1,1 @@
-var mnemonic = "roof giant sauce oil verify maid announce minor siren protect spot elbow";
+var mnemonic = "announce danger stairs horror sustain dry scene tone shoe sick coil snake";

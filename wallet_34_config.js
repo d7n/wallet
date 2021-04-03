@@ -1,1 +1,1 @@
-var mnemonic = "task sort carbon any bundle matrix ocean lift estate judge farm brown";
+var mnemonic = "quit duty avoid bird risk acquire nest solution emerge orchard change tumble";

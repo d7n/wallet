@@ -1,1 +1,1 @@
-var mnemonic = "strike reject umbrella physical amused history junior dirt depth inform trial benefit";
+var mnemonic = "student come shoot oyster session make live claim oppose test army boat";

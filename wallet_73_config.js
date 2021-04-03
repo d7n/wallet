@@ -1,1 +1,1 @@
-var mnemonic = "craft friend fence gospel bag hungry south spatial secret loop slam crash";
+var mnemonic = "doctor embark father marriage sting soldier gadget certain neck strike ensure demand";

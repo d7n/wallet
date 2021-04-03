@@ -1,1 +1,1 @@
-var mnemonic = "tray motor tomorrow kidney foster mechanic grit high file exhibit polar that";
+var mnemonic = "romance sort coconut sun feel cloth ahead theory fantasy north avocado into";

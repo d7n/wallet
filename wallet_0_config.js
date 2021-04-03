@@ -1,1 +1,1 @@
-var mnemonic = "crunch bridge tortoise any notice decade spy organ guess despair tennis have";
+var mnemonic = "arch science build rail civil sister gas fat act inhale canvas gorilla";

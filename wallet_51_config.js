@@ -1,1 +1,1 @@
-var mnemonic = "run enhance dizzy vessel vehicle crime cool verify rose million afford desert";
+var mnemonic = "ten cup lunar raven pigeon hungry daughter hurdle snap obtain stay margin";

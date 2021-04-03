@@ -1,1 +1,1 @@
-var mnemonic = "shoot shop clutch rather innocent thumb deal punch bulb casino gain empower";
+var mnemonic = "bulk ramp minimum zoo gravity matter section castle twenty arrow price exile";

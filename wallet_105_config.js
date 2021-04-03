@@ -1,1 +1,1 @@
-var mnemonic = "repair manage biology release trade fiscal soap material bicycle bargain essence manual";
+var mnemonic = "sun surge debate exist deposit method hood volcano master monster obvious drill";

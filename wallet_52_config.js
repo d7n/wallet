@@ -1,1 +1,1 @@
-var mnemonic = "eagle lemon judge resemble kite tag share prepare enemy melody dance cricket";
+var mnemonic = "alien crowd vessel tackle virus grab title quantum riot awesome narrow clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "music garment angle anger focus twice bamboo garlic antique atom penalty early";
+var mnemonic = "chase milk fiber clerk common seven regret throw lunch abstract page chat";

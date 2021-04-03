@@ -1,1 +1,1 @@
-var mnemonic = "grain buddy six muscle blade negative call target reject illegal fault ranch";
+var mnemonic = "fetch flat boost jaguar engage already object dust charge cupboard zone jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble chat broccoli raise ripple plastic tower trash romance visual dynamic panda";
+var mnemonic = "fire recall else august often obtain rapid letter crew silent wedding coyote";

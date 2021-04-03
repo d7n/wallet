@@ -1,1 +1,1 @@
-var mnemonic = "rate dove shiver neutral van strong alone mutual bar fresh license picture";
+var mnemonic = "dumb nut remind bitter pig guide stumble giggle garage army guess behave";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite oppose beyond extra skill wear raw two stuff odor because suit";
+var mnemonic = "rather else cheese enforce decade lecture game letter excite issue nasty party";

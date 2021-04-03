@@ -1,1 +1,1 @@
-var mnemonic = "squeeze expire correct mixture fatal soccer issue keep sudden flee alley long";
+var mnemonic = "wasp observe upon virus neither argue base useless cigar almost smoke cart";

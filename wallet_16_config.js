@@ -1,1 +1,1 @@
-var mnemonic = "clerk time dose mountain creek correct hard vote time boy credit sleep";
+var mnemonic = "crater error alarm pulp glance twin menu egg camera world fault hold";

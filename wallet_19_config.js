@@ -1,1 +1,1 @@
-var mnemonic = "valve witness spray vote ranch canyon depend birth soda venue valve educate";
+var mnemonic = "empty deputy faint surface must aspect genius wasp rhythm manage secret very";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt combine culture tackle mistake cruel noise fan young march price hand";
+var mnemonic = "edge twice hint initial keen ensure powder fantasy hood kit what cost";

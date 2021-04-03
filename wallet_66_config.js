@@ -1,1 +1,1 @@
-var mnemonic = "sheriff seed vast atom grow shed topic myth feed capable wool inmate";
+var mnemonic = "into rich unique foot leader danger speed blast swim face romance mule";

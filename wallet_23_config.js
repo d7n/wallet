@@ -1,1 +1,1 @@
-var mnemonic = "economy own exist unfair cry kitten badge state goose unique estate glove";
+var mnemonic = "march reward gown inquiry clean slogan occur empower shiver casino dad return";

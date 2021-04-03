@@ -1,1 +1,1 @@
-var mnemonic = "appear kiwi govern alien school proof midnight uniform expose discover more victory";
+var mnemonic = "panel snap swim century mind polar ring hair still evidence option grab";

@@ -1,1 +1,1 @@
-var mnemonic = "attend clever seed dry direct better zebra link devote essence one virtual";
+var mnemonic = "they animal retreat maid oval cupboard peasant simple language speed hour amount";

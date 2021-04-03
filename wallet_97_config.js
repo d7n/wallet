@@ -1,1 +1,1 @@
-var mnemonic = "flip black baby step cruise parrot siege rural omit foil odor hurry";
+var mnemonic = "divide refuse topic faint suggest fashion injury area prevent leisure test dream";

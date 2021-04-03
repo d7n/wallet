@@ -1,1 +1,1 @@
-var mnemonic = "knock update scheme gym swear price panel double moon riot enforce expand";
+var mnemonic = "behave pride kite crop indicate blossom oak axis post cycle bag ride";

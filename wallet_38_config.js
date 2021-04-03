@@ -1,1 +1,1 @@
-var mnemonic = "purpose gloom sorry dilemma artist arena city confirm vehicle mixed depend job";
+var mnemonic = "apple alcohol wood man dwarf monkey inch lounge wait nominee shed melt";

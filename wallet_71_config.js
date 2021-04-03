@@ -1,1 +1,1 @@
-var mnemonic = "divert noble pig refuse judge school regular section worry cricket maximum produce";
+var mnemonic = "state spirit loud hour hour retire wire ostrich kitten lens old essence";

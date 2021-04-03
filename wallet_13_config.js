@@ -1,1 +1,1 @@
-var mnemonic = "family they involve own gap frozen dizzy snake west motion window swim";
+var mnemonic = "cupboard lady eye obtain hockey punch bless liar govern night angle rely";

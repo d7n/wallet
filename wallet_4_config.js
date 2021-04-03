@@ -1,1 +1,1 @@
-var mnemonic = "lesson mammal motion inmate idea wage napkin fatigue giraffe gentle polar describe";
+var mnemonic = "busy view dash flavor gospel mask cushion congress blossom miracle warfare monitor";

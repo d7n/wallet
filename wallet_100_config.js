@@ -1,1 +1,1 @@
-var mnemonic = "naive hire jazz gauge employ flag lawsuit liberty luggage embody basket demand";
+var mnemonic = "narrow shoulder mushroom duck armor cigar anger record toss defy priority host";

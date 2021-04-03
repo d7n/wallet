@@ -1,1 +1,1 @@
-var mnemonic = "security radio select thing world hobby broccoli satisfy video blossom decade hire";
+var mnemonic = "sister prevent buzz female repair coast plug base update potato toward bronze";

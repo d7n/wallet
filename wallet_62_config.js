@@ -1,1 +1,1 @@
-var mnemonic = "flame cream utility flat bridge ridge typical blast sudden vintage winner recipe";
+var mnemonic = "great lava impose cycle emotion another shadow core echo brush baby license";

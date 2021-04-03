@@ -1,1 +1,1 @@
-var mnemonic = "prosper report birth cart sister clog inmate swim north poet remove sketch";
+var mnemonic = "lady board guitar concert endless property column luggage alien wood ahead pig";

@@ -1,1 +1,1 @@
-var mnemonic = "bind room hazard glide hover guard nominee improve lawn clever mother endorse";
+var mnemonic = "tiny shaft model crop worth modify abandon dragon feed emotion guitar olympic";

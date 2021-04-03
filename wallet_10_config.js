@@ -1,1 +1,1 @@
-var mnemonic = "truth must type raw chimney aim parade soldier market glow flush side";
+var mnemonic = "hamster leg liar siege inmate decline window brass toss blur clap pen";

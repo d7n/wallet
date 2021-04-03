@@ -1,1 +1,1 @@
-var mnemonic = "master maze master also jewel affair sponsor cotton differ fault explain aisle";
+var mnemonic = "idle sport horror buffalo program sick river token snake abstract venue poverty";

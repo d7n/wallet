@@ -1,1 +1,1 @@
-var mnemonic = "ritual virus west actor acquire mesh lesson paddle refuse liquid record amazing";
+var mnemonic = "roast nothing you couple learn night vote indicate abstract submit calm business";

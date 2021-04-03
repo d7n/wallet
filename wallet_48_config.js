@@ -1,1 +1,1 @@
-var mnemonic = "box purpose alpha mutual amused tone hen peace segment race aunt kingdom";
+var mnemonic = "quiz isolate fork figure fantasy strategy symptom state metal toe program desk";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget depart interest panda abstract sun measure shiver popular index include fish";
+var mnemonic = "leisure coil black liberty famous reward sadness vague organ paper garment reform";

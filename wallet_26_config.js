@@ -1,1 +1,1 @@
-var mnemonic = "pear scheme hole where abstract trial jaguar ordinary raccoon purse matrix south";
+var mnemonic = "series unaware educate mobile duty annual desert system bring mean giant supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge wear mountain gentle thank south pledge artefact frequent tip tilt name";
+var mnemonic = "skull special reopen common slab host life settle penalty mule casino convince";

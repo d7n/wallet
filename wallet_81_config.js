@@ -1,1 +1,1 @@
-var mnemonic = "type hospital love calm stem gentle together trip main merge just ozone";
+var mnemonic = "tree way toe double betray plate very acid throw casual suspect welcome";

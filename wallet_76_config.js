@@ -1,1 +1,1 @@
-var mnemonic = "bicycle buddy lemon speed become penalty crash liar measure forget abuse wild";
+var mnemonic = "aware sword squeeze snake lawsuit order rude true misery canvas fabric true";

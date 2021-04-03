@@ -1,1 +1,1 @@
-var mnemonic = "trip advance lady pass wait marriage person switch fruit bench comfort brass";
+var mnemonic = "excite ignore setup manage aware grunt place game regular battle split own";

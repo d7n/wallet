@@ -1,1 +1,1 @@
-var mnemonic = "scorpion primary wire recipe erupt nature glimpse tunnel cactus good recall meat";
+var mnemonic = "stuff animal hand match innocent unaware enjoy stock party anger monitor horn";

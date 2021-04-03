@@ -1,1 +1,1 @@
-var mnemonic = "negative achieve window nut ethics waste garage person announce fringe later spin";
+var mnemonic = "maze monitor bless salute gas fetch staff vacuum distance clip latin sting";

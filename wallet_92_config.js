@@ -1,1 +1,1 @@
-var mnemonic = "banana sibling name endorse jungle develop stable year sell cannon govern regular";
+var mnemonic = "amateur tuition fog there badge siege walnut bacon convince barely jacket provide";

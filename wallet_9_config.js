@@ -1,1 +1,1 @@
-var mnemonic = "mammal possible cousin entry foil hundred width glare pill open amount verb";
+var mnemonic = "cream below century trust response crush figure only element exact soup hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "museum chase video mistake defense swallow region grass walnut host wealth arrange";
+var mnemonic = "miracle fever ten then board order nice benefit deer add bunker radio";
