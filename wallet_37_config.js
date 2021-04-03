@@ -1,1 +1,1 @@
-var mnemonic = "excess galaxy left legal series easy abandon kite dose lawn light box";
+var mnemonic = "direct praise repair pole normal adult trade grape taxi patrol dynamic open";

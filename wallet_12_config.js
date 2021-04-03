@@ -1,1 +1,1 @@
-var mnemonic = "outside oyster cannon notice lady essay magic grit mushroom picture action ecology";
+var mnemonic = "claw sea armed harsh engine bundle old imitate theme divide genius frost";

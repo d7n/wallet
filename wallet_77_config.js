@@ -1,1 +1,1 @@
-var mnemonic = "permit insane dolphin quality punch cruel captain before congress canoe fruit vintage";
+var mnemonic = "miracle auction toilet frown picnic acquire mansion barely anchor pen keep stove";

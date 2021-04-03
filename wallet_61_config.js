@@ -1,1 +1,1 @@
-var mnemonic = "shine list soft wing opinion cradle pact nephew crew lizard extend exotic";
+var mnemonic = "orient fold twenty struggle plate shop trick ridge web primary away often";

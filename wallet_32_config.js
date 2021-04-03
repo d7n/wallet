@@ -1,1 +1,1 @@
-var mnemonic = "intact expire drill recycle provide mechanic arrow wet toddler enemy gather reduce";
+var mnemonic = "rebuild route erode canvas student bracket margin firm cool system journey health";

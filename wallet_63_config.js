@@ -1,1 +1,1 @@
-var mnemonic = "shy bitter hello monkey chuckle mystery near anger anxiety glow employ trumpet";
+var mnemonic = "radar employ spirit orphan child cash main raise hurdle pony situate throw";

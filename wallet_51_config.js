@@ -1,1 +1,1 @@
-var mnemonic = "sun april silver rose surface try first mercy differ motion infant forest";
+var mnemonic = "supreme aerobic endless bless doll marriage punch metal athlete cause assume weird";

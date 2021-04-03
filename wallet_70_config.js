@@ -1,1 +1,1 @@
-var mnemonic = "legend text illegal shift evolve canoe unit ocean toe jazz embrace night";
+var mnemonic = "tackle initial author face tuna fade scan odor rich spatial popular fade";

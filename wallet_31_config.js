@@ -1,1 +1,1 @@
-var mnemonic = "actor wash empty rail buzz wife luxury mule hello cake glass immune";
+var mnemonic = "upon connect orchard lion escape cruel arena crunch science annual shuffle already";

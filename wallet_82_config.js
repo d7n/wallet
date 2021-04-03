@@ -1,1 +1,1 @@
-var mnemonic = "moment hope describe casino coyote cart mammal nut oblige wasp palm profit";
+var mnemonic = "detect virus desk pizza weekend rubber hen recipe brief jazz action deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy capable pioneer online meat focus nothing raw define armed drop yard";
+var mnemonic = "once fringe pudding sunny excuse surprise gym wink blouse cross trouble share";

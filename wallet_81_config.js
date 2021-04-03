@@ -1,1 +1,1 @@
-var mnemonic = "myself sister flush girl current story job inflict solution alone miss tuna";
+var mnemonic = "swing display method muffin isolate state various slim image mixture busy spot";

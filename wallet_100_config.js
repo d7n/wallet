@@ -1,1 +1,1 @@
-var mnemonic = "eight poverty limit focus subway ready public female ignore awake kiwi siren";
+var mnemonic = "under pen cricket bottom obtain member jungle flash gown prepare wealth high";

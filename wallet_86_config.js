@@ -1,1 +1,1 @@
-var mnemonic = "liar theme grant myth auto waste tube gold force fossil flight example";
+var mnemonic = "oppose viable front monster robust sponsor view ring uncover chimney border year";

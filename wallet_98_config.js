@@ -1,1 +1,1 @@
-var mnemonic = "multiply pet negative fashion much stove split tired album sight cat grief";
+var mnemonic = "humor add cover course ritual glad license robust paddle basket vivid clap";

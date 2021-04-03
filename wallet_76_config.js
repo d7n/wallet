@@ -1,1 +1,1 @@
-var mnemonic = "topple census tortoise stamp eight nerve suggest shift regular wheat device december";
+var mnemonic = "cinnamon cost aspect wagon faculty kite photo sleep glide cliff soda ancient";

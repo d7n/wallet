@@ -1,1 +1,1 @@
-var mnemonic = "moon pill cook enforce endorse juice calm cause guide include undo such";
+var mnemonic = "sister soup deputy shop wrong timber divorce fabric top depart ribbon summer";

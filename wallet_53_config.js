@@ -1,1 +1,1 @@
-var mnemonic = "company asset coyote answer layer aunt sign sight census trade priority three";
+var mnemonic = "salon garbage sentence enlist mechanic phone about immense dove clog decorate harsh";

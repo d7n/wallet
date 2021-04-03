@@ -1,1 +1,1 @@
-var mnemonic = "dismiss drastic head parrot bag among wonder warfare emerge business solid season";
+var mnemonic = "resemble erase pioneer vessel manage scheme venue wait weird snow manual avocado";

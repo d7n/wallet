@@ -1,1 +1,1 @@
-var mnemonic = "alter vital present erode antique bulk beyond judge palm already hand van";
+var mnemonic = "city creek perfect surface impulse card sheriff sniff guide ship trophy grab";

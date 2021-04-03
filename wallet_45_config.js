@@ -1,1 +1,1 @@
-var mnemonic = "easy happy mirror wise left brand page cupboard gloom smart carpet balance";
+var mnemonic = "plug sugar pave method economy axis drink ahead deposit velvet fragile faith";

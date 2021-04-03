@@ -1,1 +1,1 @@
-var mnemonic = "forum face rival name shield gift assume magic table extend wool sorry";
+var mnemonic = "myth wing sight view hundred neither crane shrimp fade fantasy umbrella wool";

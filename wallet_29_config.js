@@ -1,1 +1,1 @@
-var mnemonic = "drill sing narrow permit duck parade ship fancy quarter trumpet budget alarm";
+var mnemonic = "bicycle thumb warm clog fire family amateur exercise coast impose dad blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "gate trumpet tonight eagle favorite image trust jazz sign miracle carbon machine";
+var mnemonic = "fence pottery vote twice cave friend verb release solution vessel until motor";

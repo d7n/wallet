@@ -1,1 +1,1 @@
-var mnemonic = "segment husband raccoon bind caution sting shift dentist cook cotton desert sibling";
+var mnemonic = "cube trip area inner urge image supply hole mask negative crumble collect";

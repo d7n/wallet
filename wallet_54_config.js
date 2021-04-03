@@ -1,1 +1,1 @@
-var mnemonic = "craft labor grit emerge diesel color dune chimney occur puzzle novel glare";
+var mnemonic = "nasty pig fog much script grow phone tongue dynamic correct song faint";

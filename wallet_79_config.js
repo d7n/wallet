@@ -1,1 +1,1 @@
-var mnemonic = "blush autumn input perfect unique green adapt orange history gun current illegal";
+var mnemonic = "vintage soul ankle donate slot clip rule calm fold narrow genre fish";

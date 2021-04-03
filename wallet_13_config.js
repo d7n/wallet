@@ -1,1 +1,1 @@
-var mnemonic = "perfect deliver suffer spring alone lion curtain rhythm endless reward join wet";
+var mnemonic = "unable hurry paddle catalog assault tool motor gym between tongue wine female";

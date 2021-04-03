@@ -1,1 +1,1 @@
-var mnemonic = "wire twist atom science human spray endorse combine winter culture great link";
+var mnemonic = "enhance business furnace insect love action cargo try visit indoor satoshi element";

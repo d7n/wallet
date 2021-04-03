@@ -1,1 +1,1 @@
-var mnemonic = "river coconut lake nasty area tonight burst supreme nuclear pride security round";
+var mnemonic = "island aspect target mango rib run bachelor unhappy twenty half gauge grid";

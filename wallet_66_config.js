@@ -1,1 +1,1 @@
-var mnemonic = "rotate silver doll extra insect foam glass trigger boring infant uncle talk";
+var mnemonic = "decade vital frozen marriage ring frequent unaware age rent olive addict arch";

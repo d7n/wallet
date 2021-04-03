@@ -1,1 +1,1 @@
-var mnemonic = "sea exhibit consider joke bundle nice seminar bargain business swift able romance";
+var mnemonic = "candy emerge hurdle endless pig lyrics rubber wealth tonight opera retire junk";

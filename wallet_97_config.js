@@ -1,1 +1,1 @@
-var mnemonic = "siren dinner unknown carpet else video spirit squirrel myth twelve boat naive";
+var mnemonic = "gauge treat weasel kitchen humor tired list broccoli radar brave bleak oven";

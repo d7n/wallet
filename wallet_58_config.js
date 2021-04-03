@@ -1,1 +1,1 @@
-var mnemonic = "balcony champion index scorpion stem during dignity journey car label hat clap";
+var mnemonic = "volcano gold catch pen very squirrel world damp lens begin insect rich";

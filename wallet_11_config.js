@@ -1,1 +1,1 @@
-var mnemonic = "clean street floor reason bracket defy federal distance cannon tip agent retire";
+var mnemonic = "trial muscle night game snack attack slush tiger glass erase dignity judge";

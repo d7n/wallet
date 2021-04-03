@@ -1,1 +1,1 @@
-var mnemonic = "final tribe wagon fruit style silent rapid video envelope walk explain endorse";
+var mnemonic = "cry old spawn voyage fox same canyon odor push social tube purse";

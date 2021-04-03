@@ -1,1 +1,1 @@
-var mnemonic = "lonely ridge abandon beach various off hope review affair deliver bike verify";
+var mnemonic = "hospital spread travel vanish bright noise card gorilla vessel cute scare bounce";

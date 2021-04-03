@@ -1,1 +1,1 @@
-var mnemonic = "slush room paddle exhibit element dish retreat price heavy correct combine master";
+var mnemonic = "suit peanut sad pipe dinner initial buzz reunion diamond never glimpse advance";

@@ -1,1 +1,1 @@
-var mnemonic = "sick adjust rib legal wall rural boat warfare edit law shop bulk";
+var mnemonic = "antique welcome suffer brisk edge coffee uncle disagree cruel sight whip mule";

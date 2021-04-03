@@ -1,1 +1,1 @@
-var mnemonic = "earn worth impose life echo what argue able curtain mutual square two";
+var mnemonic = "palace soup spice click reason attend skin elite explain slide tone fox";

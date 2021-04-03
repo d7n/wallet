@@ -1,1 +1,1 @@
-var mnemonic = "rebuild tilt future purchase ask beach tissue elbow cable jewel young couch";
+var mnemonic = "ensure elbow juice gate private minimum pool wire human inner capable demise";

@@ -1,1 +1,1 @@
-var mnemonic = "humble duty size dove benefit where bench rally impact jungle orient drama";
+var mnemonic = "battle tank tomorrow idea extend wrap ball october result annual face trust";

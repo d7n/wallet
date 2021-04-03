@@ -1,1 +1,1 @@
-var mnemonic = "response mesh permit clay advance wasp torch subway path invite tenant bunker";
+var mnemonic = "game song grit little actual peanut gravity net spoon nation tunnel age";

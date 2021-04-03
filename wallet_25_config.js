@@ -1,1 +1,1 @@
-var mnemonic = "grief lizard drastic wide clerk shoulder drastic trick shoulder until maximum raccoon";
+var mnemonic = "deny noodle love relief edit point point noodle prize slot load hobby";

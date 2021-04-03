@@ -1,1 +1,1 @@
-var mnemonic = "behave stool grunt soft receive inch daughter portion disagree pony climb car";
+var mnemonic = "zero train virtual version aisle desk stamp project license divert claim sing";

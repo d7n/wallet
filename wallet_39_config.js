@@ -1,1 +1,1 @@
-var mnemonic = "deal test pet legal expect elevator magnet diet fit during cruise common";
+var mnemonic = "average essay smart rifle include ghost coil combine moon celery quarter tobacco";

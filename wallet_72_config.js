@@ -1,1 +1,1 @@
-var mnemonic = "eagle test glimpse purity lamp poverty canal mixture wheat erase add arrange";
+var mnemonic = "measure tragic among supply reform this crunch ethics river gorilla nurse jeans";

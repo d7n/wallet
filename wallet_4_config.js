@@ -1,1 +1,1 @@
-var mnemonic = "trumpet news blanket mix tortoise hard hello question student innocent wisdom dust";
+var mnemonic = "also cliff prevent congress mechanic love detect neck chapter sound tip link";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy ethics dentist remove fox draw clean render weapon gasp boy method";
+var mnemonic = "palace gossip pottery umbrella lemon warrior thrive remember multiply cannon yellow give";

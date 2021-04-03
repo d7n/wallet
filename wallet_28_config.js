@@ -1,1 +1,1 @@
-var mnemonic = "accident famous false degree can weird priority evolve prosper onion mesh celery";
+var mnemonic = "tenant enlist wild write admit chaos liquid crush gospel rural bargain process";

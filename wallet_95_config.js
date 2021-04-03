@@ -1,1 +1,1 @@
-var mnemonic = "still undo slice sugar iron sense snack choose detect gorilla orient ecology";
+var mnemonic = "ghost under wave month hospital exchange talk boil resemble brother concert speed";

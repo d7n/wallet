@@ -1,1 +1,1 @@
-var mnemonic = "height gallery violin car inflict student pill burden cup coil rifle toy";
+var mnemonic = "laptop artwork shift group upgrade milk note rubber student edit human town";

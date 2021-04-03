@@ -1,1 +1,1 @@
-var mnemonic = "stomach decade pyramid tumble wife summer ordinary supreme dove sure candy love";
+var mnemonic = "harvest never special slam age prepare level drive riot taste tank bonus";

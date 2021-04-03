@@ -1,1 +1,1 @@
-var mnemonic = "shoot mutual tumble oval liar grab know video churn blind execute grit";
+var mnemonic = "list bounce shrimp finish pave name load wage neck coin crop better";

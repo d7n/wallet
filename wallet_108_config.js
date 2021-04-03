@@ -1,1 +1,1 @@
-var mnemonic = "above century seminar candy silent issue source siren marble comfort column glimpse";
+var mnemonic = "story nothing used latin treat repeat square dismiss tongue cube poet large";

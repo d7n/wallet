@@ -1,1 +1,1 @@
-var mnemonic = "library pattern rug verb supreme ginger engine supply sound onion scale arena";
+var mnemonic = "blame enlist material assault return iron dress quantum because winner muffin truck";

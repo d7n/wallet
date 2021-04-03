@@ -1,1 +1,1 @@
-var mnemonic = "time online elegant together library grocery guard music elder case live flock";
+var mnemonic = "rapid illness garden erosion ring step hotel remove club palm until rifle";

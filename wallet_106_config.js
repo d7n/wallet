@@ -1,1 +1,1 @@
-var mnemonic = "clinic between laugh improve auto kiss autumn attract chapter suffer rather dolphin";
+var mnemonic = "belt school prevent comfort opinion table uniform hamster inquiry screen feature blind";

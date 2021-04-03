@@ -1,1 +1,1 @@
-var mnemonic = "hockey neutral mixed pet document derive used tortoise galaxy spawn multiply battle";
+var mnemonic = "noodle speak clump develop book wife boost motor medal seminar crush jealous";

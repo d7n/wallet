@@ -1,1 +1,1 @@
-var mnemonic = "erupt surface hard print canal include measure bonus doll sadness couple ticket";
+var mnemonic = "thunder maple upon bag goose parrot lizard tank guess ready brand advance";

@@ -1,1 +1,1 @@
-var mnemonic = "toss window extend buzz choose inside repair welcome weekend hidden foil mind";
+var mnemonic = "lunar clock bachelor humble tiny ship buyer supreme educate unhappy mixture fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram base sheriff champion sniff west script main security autumn before chimney";
+var mnemonic = "offer affair index toe ocean gym slice asthma cargo future actress custom";

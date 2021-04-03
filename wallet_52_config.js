@@ -1,1 +1,1 @@
-var mnemonic = "urge unfold afford then toy bunker myth recall shine steak notable local";
+var mnemonic = "fix service wing cabbage exclude skin chaos west other vital bring toilet";

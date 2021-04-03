@@ -1,1 +1,1 @@
-var mnemonic = "guard drastic canyon slow diamond avocado yard wire clutch census invite february";
+var mnemonic = "before foot one prevent quarter face describe fan guess normal list sure";

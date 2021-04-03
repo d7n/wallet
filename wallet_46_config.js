@@ -1,1 +1,1 @@
-var mnemonic = "main risk smoke guitar sing kite potato brave gap body horror belt";
+var mnemonic = "ecology kangaroo series long hobby rain injury already trim pave coral ten";

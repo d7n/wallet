@@ -1,1 +1,1 @@
-var mnemonic = "vessel hope cotton arctic book immune domain echo amateur castle stone link";
+var mnemonic = "frost joy limit drive try angle behind kidney cabin smoke fragile anxiety";

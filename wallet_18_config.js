@@ -1,1 +1,1 @@
-var mnemonic = "drastic few sure novel oyster trip captain remind farm gas crash rookie";
+var mnemonic = "detect jewel aspect word group wrist impose cluster useless general document width";

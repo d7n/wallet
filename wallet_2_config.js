@@ -1,1 +1,1 @@
-var mnemonic = "equal black run holiday share bottom share usage mention slush chimney cinnamon";
+var mnemonic = "voyage bar base soccer someone patch illness weasel catch only anxiety sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "solar hunt column lion link lawn attend mountain present nephew degree occur";
+var mnemonic = "glow own stamp amazing garden couch visit issue certain hard nerve spice";

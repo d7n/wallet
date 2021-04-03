@@ -1,1 +1,1 @@
-var mnemonic = "step young hobby gate assume keen where fragile galaxy where blouse turkey";
+var mnemonic = "express major stone then village insect jungle final basic opera raise legal";

@@ -1,1 +1,1 @@
-var mnemonic = "stool bonus mule early hen globe stove net record ginger reason abstract";
+var mnemonic = "giraffe school six school recycle tone actress student evidence prevent total library";

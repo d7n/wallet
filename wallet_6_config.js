@@ -1,1 +1,1 @@
-var mnemonic = "then token notice traffic ridge off mirror layer song grape fever foam";
+var mnemonic = "pear bone cabin secret alone attitude exit coyote cloth skirt fade wire";

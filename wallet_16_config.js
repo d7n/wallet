@@ -1,1 +1,1 @@
-var mnemonic = "wish wrap spatial dose pig member fork oxygen ahead page collect message";
+var mnemonic = "dinosaur radio crowd satisfy skill embark alcohol number cabin middle reason order";

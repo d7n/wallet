@@ -1,1 +1,1 @@
-var mnemonic = "snack absent online local catalog balcony toddler edit radar tired alert also";
+var mnemonic = "police medal skin kiwi code any arrive between dismiss boat correct quality";

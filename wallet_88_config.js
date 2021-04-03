@@ -1,1 +1,1 @@
-var mnemonic = "holiday tape glass estate famous round cruise skirt rather vault harvest put";
+var mnemonic = "option pull best shiver insane staff grunt jazz hedgehog between sing fever";

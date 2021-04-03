@@ -1,1 +1,1 @@
-var mnemonic = "decade fringe hazard trigger vacant over boost fan injury sock error skull";
+var mnemonic = "vehicle junior endless occur soon harbor tank divert wood praise mimic valley";

@@ -1,1 +1,1 @@
-var mnemonic = "layer bird holiday offer pull solar december enable arm sweet dad couple";
+var mnemonic = "car hollow broken honey fabric suffer acid useful gather future lounge reward";

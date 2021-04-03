@@ -1,1 +1,1 @@
-var mnemonic = "olympic ramp between diagram biology absorb tragic keep kit winter crystal seat";
+var mnemonic = "diet twist ankle cabin eye train skill picnic step trumpet skirt accuse";

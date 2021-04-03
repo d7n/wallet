@@ -1,1 +1,1 @@
-var mnemonic = "maze man since debate match arch sunny select joy fire favorite police";
+var mnemonic = "excite people hole resource employ delay captain flower coin chest add drastic";

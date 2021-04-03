@@ -1,1 +1,1 @@
-var mnemonic = "endorse grid game blast feel pass shell social pitch rent ginger farm";
+var mnemonic = "track prosper object ritual tip blind quick roof absorb luggage opera cereal";

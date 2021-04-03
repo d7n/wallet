@@ -1,1 +1,1 @@
-var mnemonic = "obscure language merry morning siren letter castle north good twenty other garlic";
+var mnemonic = "cute gown drink casino pool pull neck party patient squeeze advice brand";

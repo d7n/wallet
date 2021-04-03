@@ -1,1 +1,1 @@
-var mnemonic = "morning obscure jazz valve lens quick rain useless ocean try fringe inner";
+var mnemonic = "milk sure street phrase food boy sun minute wasp believe limit minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "win sail rough moment laundry angle scan planet float island waste develop";
+var mnemonic = "invite next panda satoshi impulse chunk where casino audit spoil force melt";

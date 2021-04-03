@@ -1,1 +1,1 @@
-var mnemonic = "hazard language palace tray able swift oblige library still city flock behind";
+var mnemonic = "dawn silent ensure gravity fun kind jungle science cereal strike march lunch";

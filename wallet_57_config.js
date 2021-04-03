@@ -1,1 +1,1 @@
-var mnemonic = "jaguar vocal catalog legal fury tooth town birth parade orchard demand result";
+var mnemonic = "monster vocal pioneer film green face crawl artwork paper wrist story spy";

@@ -1,1 +1,1 @@
-var mnemonic = "cable brisk unlock arena degree river hard raw blue same flame warm";
+var mnemonic = "eye plastic response holiday subway fence garment clump fatigue angle bind drift";

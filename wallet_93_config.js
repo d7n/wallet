@@ -1,1 +1,1 @@
-var mnemonic = "chunk type garlic moment spoon uniform unveil fitness service script hidden axis";
+var mnemonic = "ordinary piano ten direct issue gather scatter jaguar engage obey income exile";

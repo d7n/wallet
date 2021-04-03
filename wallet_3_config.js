@@ -1,1 +1,1 @@
-var mnemonic = "name syrup country property lunch theme open moon robust net tail rude";
+var mnemonic = "vintage legend orbit cushion small window ceiling patch tower absorb video vanish";

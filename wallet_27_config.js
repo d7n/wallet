@@ -1,1 +1,1 @@
-var mnemonic = "spike burger shrimp onion ramp thank news harsh arrow useful exit reduce";
+var mnemonic = "nuclear mask junior sauce worry credit buffalo nurse smart suffer jelly since";

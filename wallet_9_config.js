@@ -1,1 +1,1 @@
-var mnemonic = "mercy armed habit focus fit amused spring autumn below board two physical";
+var mnemonic = "snack note bottom poet blur island just clinic runway moral pilot field";

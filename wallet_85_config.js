@@ -1,1 +1,1 @@
-var mnemonic = "best oak gate bus rabbit mother oblige differ usage pear inside vendor";
+var mnemonic = "attract night afford north pulse turtle list focus baby jealous coffee nurse";

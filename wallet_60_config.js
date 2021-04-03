@@ -1,1 +1,1 @@
-var mnemonic = "someone city cotton quality enrich trend share absurd cost boring desk dragon";
+var mnemonic = "organ gospel stem stone novel engine half mosquito chapter digital conduct police";

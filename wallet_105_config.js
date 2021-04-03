@@ -1,1 +1,1 @@
-var mnemonic = "online quality merry pear peanut palm agent wait embody artist absent arch";
+var mnemonic = "man corn gloom rifle mouse logic gaze warrior crystal manage announce prepare";

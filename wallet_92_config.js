@@ -1,1 +1,1 @@
-var mnemonic = "silent team young among identify toward palace trip upon gather zebra abuse";
+var mnemonic = "fade stamp quit unknown patch disorder soldier suspect away try dice finger";
