@@ -1,1 +1,1 @@
-var mnemonic = "chair picture blouse scissors guide enlist shaft lawsuit forward boss royal amount";
+var mnemonic = "subway dune kid minor stuff fee year witness survey tone erosion leaf";

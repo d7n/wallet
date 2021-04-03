@@ -1,1 +1,1 @@
-var mnemonic = "result love post slight need hole whale crush lesson pistol gospel unfold";
+var mnemonic = "dune august curtain swarm erode actor submit topple clarify example feed dust";

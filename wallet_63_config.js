@@ -1,1 +1,1 @@
-var mnemonic = "unfold tone casual match soap flight pattern miss super dress glance hospital";
+var mnemonic = "portion save rabbit orbit huge pull loyal bulb gesture west ramp coffee";

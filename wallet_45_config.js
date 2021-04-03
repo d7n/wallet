@@ -1,1 +1,1 @@
-var mnemonic = "office network industry grow life frequent humble novel must flee awesome hospital";
+var mnemonic = "obtain clerk cereal wife cable super episode degree quality lounge cattle verify";

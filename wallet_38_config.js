@@ -1,1 +1,1 @@
-var mnemonic = "pond timber cement grit whale then carbon offer spice pigeon lesson flush";
+var mnemonic = "need print cattle rural coach siege element uncover unable sheriff couple beach";

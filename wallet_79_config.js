@@ -1,1 +1,1 @@
-var mnemonic = "casino sure bike tent nest slight stock you human base pig together";
+var mnemonic = "artist small album gravity stable expand village yard skin pupil treat pond";

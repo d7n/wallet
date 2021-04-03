@@ -1,1 +1,1 @@
-var mnemonic = "fury squirrel undo glimpse tattoo zone truck culture art corn visit mechanic";
+var mnemonic = "trade ignore yard melody entry wage appear purse unknown lucky rotate require";

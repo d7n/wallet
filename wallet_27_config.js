@@ -1,1 +1,1 @@
-var mnemonic = "render ordinary cloth judge tonight prize alpha weather enjoy nothing noble nasty";
+var mnemonic = "champion run time art design august immense work logic spring taxi sketch";

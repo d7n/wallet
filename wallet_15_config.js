@@ -1,1 +1,1 @@
-var mnemonic = "timber dad dizzy anchor awful easily imitate puppy bounce youth fantasy win";
+var mnemonic = "anchor resemble success pulp seven tower position lift parade can tip verify";

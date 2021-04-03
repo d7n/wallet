@@ -1,1 +1,1 @@
-var mnemonic = "egg general service brain segment knock include captain divorce raw perfect into";
+var mnemonic = "next chat dial youth admit scatter odor pupil rural number chat lucky";

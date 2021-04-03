@@ -1,1 +1,1 @@
-var mnemonic = "black duck game again more code kit desert size destroy more sweet";
+var mnemonic = "field love patient beauty bronze version minimum cinnamon play embody one drip";

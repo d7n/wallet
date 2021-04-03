@@ -1,1 +1,1 @@
-var mnemonic = "aerobic salon text fat frozen hat gentle obtain retreat arrive pudding leaf";
+var mnemonic = "harsh bone host verify blur company round record illegal common pledge modify";

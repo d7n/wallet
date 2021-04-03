@@ -1,1 +1,1 @@
-var mnemonic = "parade supply master ride alcohol obey amazing season person jacket fabric bottom";
+var mnemonic = "response immune night race drift churn any load border actor ginger addict";

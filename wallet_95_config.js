@@ -1,1 +1,1 @@
-var mnemonic = "cost few off media patient welcome vendor certain gloom addict walnut comic";
+var mnemonic = "inside love because wheat shift expand oblige soda goose fragile pulse peace";

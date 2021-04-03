@@ -1,1 +1,1 @@
-var mnemonic = "fossil drama income vanish aerobic found news circle latin cousin indicate address";
+var mnemonic = "height system awake reason coral mountain profit gold layer mouse basket timber";

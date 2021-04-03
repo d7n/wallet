@@ -1,1 +1,1 @@
-var mnemonic = "nominee crop stereo boy spirit sentence invest put napkin swamp rifle trigger";
+var mnemonic = "menu script crystal culture rib ocean replace often someone swarm bridge spatial";

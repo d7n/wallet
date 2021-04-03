@@ -1,1 +1,1 @@
-var mnemonic = "need expire post gospel potato leader hill mobile text boost mesh hair";
+var mnemonic = "dish spatial rough horror distance primary route chef odor upset thing ability";

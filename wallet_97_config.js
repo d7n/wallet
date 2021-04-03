@@ -1,1 +1,1 @@
-var mnemonic = "grain movie wave supreme ahead gate wise hundred bean seminar margin keep";
+var mnemonic = "uniform erase dizzy fence soccer orchard genius common uphold pretty weekend notice";

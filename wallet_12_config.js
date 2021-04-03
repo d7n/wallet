@@ -1,1 +1,1 @@
-var mnemonic = "deposit denial car alarm patrol now six case because rug mesh story";
+var mnemonic = "song defense wrestle goddess cloth clap antique volume smooth soccer agree country";

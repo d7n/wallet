@@ -1,1 +1,1 @@
-var mnemonic = "eye whisper canvas employ left mix welcome cruel dust enemy above cash";
+var mnemonic = "coil comic regular tone arena empty stem chuckle burger between purse boil";

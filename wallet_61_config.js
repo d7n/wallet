@@ -1,1 +1,1 @@
-var mnemonic = "labor prepare cannon craft drill rally people gym brown garlic slight gauge";
+var mnemonic = "about bullet steel shine follow weird regular shuffle galaxy offer town drill";

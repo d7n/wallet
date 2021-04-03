@@ -1,1 +1,1 @@
-var mnemonic = "isolate quality maze one enhance pink giggle soft fire same potato grocery";
+var mnemonic = "pepper decrease fashion unknown tired once debris silly chuckle extra depend hair";

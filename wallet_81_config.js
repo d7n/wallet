@@ -1,1 +1,1 @@
-var mnemonic = "neglect shed galaxy vicious bus harvest bunker mutual best hollow segment usual";
+var mnemonic = "hill another egg goddess use rice fit divide caution circle bread robot";

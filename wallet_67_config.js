@@ -1,1 +1,1 @@
-var mnemonic = "typical badge flag pudding saddle burger token talent boil pony inside stumble";
+var mnemonic = "leisure muffin emotion kit donkey eternal blast shield stairs elite pass lend";

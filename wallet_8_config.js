@@ -1,1 +1,1 @@
-var mnemonic = "bench tube taxi refuse utility coin above strong copy list again regret";
+var mnemonic = "castle bag shaft tuition negative run all plunge tree second discover victory";

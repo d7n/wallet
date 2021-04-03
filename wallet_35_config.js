@@ -1,1 +1,1 @@
-var mnemonic = "february potato once daughter stereo hockey elder slogan pet payment judge metal";
+var mnemonic = "feed together system face chest tumble upset prevent tired april core hurdle";

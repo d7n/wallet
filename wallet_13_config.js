@@ -1,1 +1,1 @@
-var mnemonic = "man quality basket quarter ski fuel advice kite inch orphan govern meadow";
+var mnemonic = "curious paddle marble general similar poet dutch pet film apart bright menu";

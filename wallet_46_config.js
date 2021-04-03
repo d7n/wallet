@@ -1,1 +1,1 @@
-var mnemonic = "wedding like honey fence afford jewel stadium staff push digital script bomb";
+var mnemonic = "rib kangaroo surprise identify theme school note parade armed screen tree skin";

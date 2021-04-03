@@ -1,1 +1,1 @@
-var mnemonic = "primary gown use doll early fish peanut nest pretty auto coyote remove";
+var mnemonic = "shadow purchase raccoon market scheme test will wire finger arctic happy copy";

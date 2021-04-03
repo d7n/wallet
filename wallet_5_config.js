@@ -1,1 +1,1 @@
-var mnemonic = "aware bracket ritual liberty language alley thunder keep behind humor calm crowd";
+var mnemonic = "road violin absurd lizard minimum enlist bid usage ocean public speed engage";

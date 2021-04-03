@@ -1,1 +1,1 @@
-var mnemonic = "labor stock logic exercise slogan comic cancel harsh pigeon pink law hollow";
+var mnemonic = "post palm insect ability cram jewel drum demand special position mobile tackle";

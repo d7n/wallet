@@ -1,1 +1,1 @@
-var mnemonic = "awful alert promote trumpet always miracle carry insane arrive issue crime egg";
+var mnemonic = "push juice twice noise awesome easy hedgehog season drastic certain alley chapter";

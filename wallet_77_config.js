@@ -1,1 +1,1 @@
-var mnemonic = "acoustic donate school sibling force sudden exile ridge achieve erupt tide sight";
+var mnemonic = "inject inside dismiss hotel able second mansion account october common purse axis";

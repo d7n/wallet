@@ -1,1 +1,1 @@
-var mnemonic = "artist try jazz tunnel pony young recall audit harbor tower tube infant";
+var mnemonic = "yard common leopard warfare million unknown ordinary luggage cradle language flame repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel chat federal stem media ritual nation garlic three wrap alien honey";
+var mnemonic = "canyon crazy myth crumble suggest lunar wash manage ten vacant fee hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "peace ghost energy skirt tray doctor reason debris bulb smooth where cage";
+var mnemonic = "few bulb rail tenant flush subway satoshi armor oil motion state final";

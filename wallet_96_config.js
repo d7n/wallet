@@ -1,1 +1,1 @@
-var mnemonic = "circle scorpion online ethics window ancient ancient yellow repeat stamp album craft";
+var mnemonic = "early simple elegant pumpkin pistol across trumpet strategy soft imitate wolf wall";

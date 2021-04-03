@@ -1,1 +1,1 @@
-var mnemonic = "risk result patient fetch spring stereo resource forum enjoy resemble soup music";
+var mnemonic = "demise favorite quit loop brand able indicate mango hockey material awesome forum";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean trophy then disease wheel lamp floor belt label cement armed next";
+var mnemonic = "neglect come luggage feature harvest host undo around dish crush clerk rocket";

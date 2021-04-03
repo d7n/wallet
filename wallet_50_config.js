@@ -1,1 +1,1 @@
-var mnemonic = "merit derive strategy put bitter table slim jacket skate gown mail valve";
+var mnemonic = "print shell oblige pact width rule comfort twelve human clock wait slogan";

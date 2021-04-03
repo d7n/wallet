@@ -1,1 +1,1 @@
-var mnemonic = "century broom vapor blast gift tunnel fresh cabbage duty gasp glide kiwi";
+var mnemonic = "matter unlock hobby mansion dog clean combine bike unable donkey detail best";

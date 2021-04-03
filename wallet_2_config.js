@@ -1,1 +1,1 @@
-var mnemonic = "visit critic noodle state cloud tumble family toss know pave gym civil";
+var mnemonic = "large diary fresh color wall steak engage virus usual virtual punch only";

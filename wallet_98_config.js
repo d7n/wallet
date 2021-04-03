@@ -1,1 +1,1 @@
-var mnemonic = "main buyer weather crazy assist rival boy goat mask survey hour finger";
+var mnemonic = "marble fantasy cigar matrix cherry vault must narrow edge lion zone discover";

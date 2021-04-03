@@ -1,1 +1,1 @@
-var mnemonic = "can hood truck shell coast sell wheel expect base track tide kind";
+var mnemonic = "guard pizza harbor ripple reveal glass pigeon render lend veteran length sand";

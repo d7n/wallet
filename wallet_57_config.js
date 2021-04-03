@@ -1,1 +1,1 @@
-var mnemonic = "pepper electric album phone gaze hen tenant glad diagram scene often fork";
+var mnemonic = "owner six appear drill diary calm brisk lab equal suffer wave region";

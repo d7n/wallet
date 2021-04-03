@@ -1,1 +1,1 @@
-var mnemonic = "thrive farm antenna rack light minute legend better oval little melt inner";
+var mnemonic = "distance cook health pill offer despair right giant maid boat bone inhale";

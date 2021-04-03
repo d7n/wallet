@@ -1,1 +1,1 @@
-var mnemonic = "primary spend kangaroo trust depart mouse spirit custom beef control syrup hybrid";
+var mnemonic = "awkward enhance grief ripple gadget trophy novel blue embark patrol mercy oak";

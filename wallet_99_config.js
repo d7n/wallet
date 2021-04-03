@@ -1,1 +1,1 @@
-var mnemonic = "smooth case agent script spray junior market use bachelor slot deposit roast";
+var mnemonic = "allow desk flight humble result pepper warrior amateur gun tonight plastic position";

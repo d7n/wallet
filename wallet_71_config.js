@@ -1,1 +1,1 @@
-var mnemonic = "worth access robot wealth art choice symptom universe paper act burger rule";
+var mnemonic = "pause twenty solve lyrics snow turkey elegant auction weird fantasy music outer";

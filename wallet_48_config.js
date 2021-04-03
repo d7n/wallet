@@ -1,1 +1,1 @@
-var mnemonic = "chimney over athlete dismiss barrel neglect protect indoor mention song rigid idea";
+var mnemonic = "slush obey swift evolve genius aspect expand draft swift cup lyrics elephant";

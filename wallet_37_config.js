@@ -1,1 +1,1 @@
-var mnemonic = "donor clinic submit edit version menu boy inside noble pave weekend then";
+var mnemonic = "innocent leader cruel sample gym sure steak firm glare service yard roof";

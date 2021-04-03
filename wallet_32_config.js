@@ -1,1 +1,1 @@
-var mnemonic = "child bus decline field nation orphan aspect belt click film table cube";
+var mnemonic = "move curve world hood more turkey ribbon fame absent dirt price athlete";

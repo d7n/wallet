@@ -1,1 +1,1 @@
-var mnemonic = "panther picture oil rural future until raven session frame usual cat claw";
+var mnemonic = "print blouse denial trade trumpet poet fit jealous bread eager use pumpkin";

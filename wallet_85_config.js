@@ -1,1 +1,1 @@
-var mnemonic = "capital climb coin differ unaware robust put also fitness chronic develop give";
+var mnemonic = "clip senior violin lemon solution push detail midnight bench twelve direct vicious";

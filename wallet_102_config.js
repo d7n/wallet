@@ -1,1 +1,1 @@
-var mnemonic = "already flight gasp wealth mimic report job whip mammal hidden donkey clarify";
+var mnemonic = "select insane device seed hello motion ribbon under carbon peace stock journey";

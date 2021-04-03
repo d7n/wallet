@@ -1,1 +1,1 @@
-var mnemonic = "child outdoor vacuum frown cover online talk report quote same upper unfold";
+var mnemonic = "conduct audit rural tomato sadness garbage tiger win hurry corn solution fade";

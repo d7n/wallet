@@ -1,1 +1,1 @@
-var mnemonic = "phrase exact demand olympic jelly hub gospel muffin village lounge enter merry";
+var mnemonic = "swap claim gun eagle settle spatial wrestle invite crew nut accuse endorse";

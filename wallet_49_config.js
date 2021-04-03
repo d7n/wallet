@@ -1,1 +1,1 @@
-var mnemonic = "rubber throw lawn holiday destroy innocent over seven fortune device gown brush";
+var mnemonic = "twice outside piano unit race series street pelican refuse arctic fiscal give";

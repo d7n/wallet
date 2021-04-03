@@ -1,1 +1,1 @@
-var mnemonic = "april comic spy giraffe glass future diagram soap garlic minimum slide stamp";
+var mnemonic = "glory account fatal matrix iron lumber fall anger mirror adjust subway multiply";

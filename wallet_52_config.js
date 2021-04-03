@@ -1,1 +1,1 @@
-var mnemonic = "burst hello pole coffee safe cargo robust swear story crater melody people";
+var mnemonic = "fade giant onion comfort media pudding traffic coach special caught couch dream";

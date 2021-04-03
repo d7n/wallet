@@ -1,1 +1,1 @@
-var mnemonic = "park senior student apple mistake supply camp love venture fabric faith grant";
+var mnemonic = "divert warfare romance infant chest close antenna trade jaguar raise proud exact";

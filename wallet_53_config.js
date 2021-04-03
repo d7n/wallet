@@ -1,1 +1,1 @@
-var mnemonic = "sentence enough dutch waste grape fresh have pill indoor stuff resist sell";
+var mnemonic = "injury reason huge butter tired network speed gap buffalo damp civil fan";

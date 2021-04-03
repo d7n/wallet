@@ -1,1 +1,1 @@
-var mnemonic = "rare pony pony amount unhappy color width begin transfer ski comfort explain";
+var mnemonic = "glow attack into atom spike project museum uniform stuff become twin chase";

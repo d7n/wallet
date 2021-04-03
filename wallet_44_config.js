@@ -1,1 +1,1 @@
-var mnemonic = "remind sorry rescue nasty spatial donor decide impact beauty genius bread chef";
+var mnemonic = "hat sport today august silver matter outdoor cart hazard above reform van";

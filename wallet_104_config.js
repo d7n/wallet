@@ -1,1 +1,1 @@
-var mnemonic = "main divert coil direct lock dawn father write icon friend various step";
+var mnemonic = "cattle artwork more gym limb quarter express sword soul shoulder discover sign";

@@ -1,1 +1,1 @@
-var mnemonic = "help favorite good flush sentence bird runway know include response naive truth";
+var mnemonic = "hundred dignity source next endorse search give only liberty hold vicious guard";

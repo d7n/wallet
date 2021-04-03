@@ -1,1 +1,1 @@
-var mnemonic = "large robot planet renew model earth learn album vital depart girl lizard";
+var mnemonic = "ivory caution portion account moment drum predict tag citizen permit behind month";

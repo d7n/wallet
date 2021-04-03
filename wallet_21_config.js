@@ -1,1 +1,1 @@
-var mnemonic = "sustain arrow pause fringe region give hawk hawk design garbage busy dinosaur";
+var mnemonic = "ten frequent cigar large season hungry false hunt disagree weird derive cloud";

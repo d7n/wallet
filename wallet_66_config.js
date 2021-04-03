@@ -1,1 +1,1 @@
-var mnemonic = "pipe account list piano impact follow ranch magic sight humble elephant soul";
+var mnemonic = "remove seminar gun puzzle strategy else once civil topic square pipe steak";

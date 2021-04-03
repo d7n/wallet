@@ -1,1 +1,1 @@
-var mnemonic = "draft first scare upon city aerobic culture animal follow life alarm input";
+var mnemonic = "large virus open rose upgrade push sheriff swim fall audit digital inquiry";

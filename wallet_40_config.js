@@ -1,1 +1,1 @@
-var mnemonic = "volcano buddy sibling endless proof pattern volume anger odor bulk blur glow";
+var mnemonic = "wrist isolate want limit peasant oxygen rice caught rich street fancy city";

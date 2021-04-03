@@ -1,1 +1,1 @@
-var mnemonic = "firm offer dentist crowd latin virus viable powder ecology mule guide energy";
+var mnemonic = "stage news subject amount silk rude lobster region student slot spell fancy";

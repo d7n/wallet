@@ -1,1 +1,1 @@
-var mnemonic = "whip else true pretty cigar ability hidden long clog cargo quality blood";
+var mnemonic = "duty sick various roof stuff hole neutral demise crash exotic pill forest";

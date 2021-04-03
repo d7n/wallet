@@ -1,1 +1,1 @@
-var mnemonic = "rely denial penalty deposit cheap input cute copper beef used drama cactus";
+var mnemonic = "multiply rack sound short polar fringe piano noodle hungry immune dog catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "heart else tennis bundle depth void tooth bring food tail kiwi kitten";
+var mnemonic = "gravity motion come uniform jacket sunset salute reward wasp vanish empty solution";

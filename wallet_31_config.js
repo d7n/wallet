@@ -1,1 +1,1 @@
-var mnemonic = "pond warrior pencil open boss library boy column nuclear hub smoke best";
+var mnemonic = "cement nasty twice obey smooth cute spin fragile replace volcano universe maid";

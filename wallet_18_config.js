@@ -1,1 +1,1 @@
-var mnemonic = "pizza cart small reunion kiss swift drop middle power second fun leave";
+var mnemonic = "eager pipe arrow friend road strategy limb meadow tragic liberty toast art";

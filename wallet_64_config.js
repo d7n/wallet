@@ -1,1 +1,1 @@
-var mnemonic = "document canal hour odor blouse rude viable auto orchard hope sword gather";
+var mnemonic = "plunge fault kind bonus royal update angry explain earth hip seek chaos";

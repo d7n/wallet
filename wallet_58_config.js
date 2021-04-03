@@ -1,1 +1,1 @@
-var mnemonic = "hungry expand remove resist talent balcony rib zone potato layer elegant turn";
+var mnemonic = "ignore rude main protect forum kidney enemy model select absurd expand someone";

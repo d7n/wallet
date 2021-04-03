@@ -1,1 +1,1 @@
-var mnemonic = "nephew sense burst scrub donor food before ribbon ice annual mad shift";
+var mnemonic = "film rich luxury ice horror clutch embody slot off weird panel daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy yellow second balcony exotic siren busy vivid match unfold muscle smart";
+var mnemonic = "stuff adapt pencil purity only plastic pill flavor nothing dress edge vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich phone student ribbon lumber curtain ginger please when raccoon spawn miracle";
+var mnemonic = "island stairs year often moral gesture glass setup hurt sight castle mistake";

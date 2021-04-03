@@ -1,1 +1,1 @@
-var mnemonic = "recycle buffalo rather dove there elevator slim dust person champion together chalk";
+var mnemonic = "lamp verify soap solution okay misery level anger air common world more";

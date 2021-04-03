@@ -1,1 +1,1 @@
-var mnemonic = "dream check ceiling wife air crash bonus picture replace cousin interest tail";
+var mnemonic = "skull rent hero rose noodle slush license weather birth risk thought charge";

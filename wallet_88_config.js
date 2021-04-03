@@ -1,1 +1,1 @@
-var mnemonic = "aim edge buzz provide siege galaxy pencil execute glass dragon horn climb";
+var mnemonic = "auto hunt consider believe crawl fly adjust when tell spot love vital";

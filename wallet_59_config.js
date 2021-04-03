@@ -1,1 +1,1 @@
-var mnemonic = "blush humble supply parrot another license off diet pig trumpet churn appear";
+var mnemonic = "grief draw shed clever feel present today join luggage upgrade online enhance";

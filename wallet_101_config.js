@@ -1,1 +1,1 @@
-var mnemonic = "permit govern airport child insane nature maid refuse divert also oval account";
+var mnemonic = "ripple attack catalog despair issue grass section foil pink december father report";

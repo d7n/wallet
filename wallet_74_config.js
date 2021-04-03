@@ -1,1 +1,1 @@
-var mnemonic = "pelican seminar trick make seed melody together south valid develop sand sentence";
+var mnemonic = "used wisdom deal sibling isolate roof world where occur dumb pride bone";

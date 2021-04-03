@@ -1,1 +1,1 @@
-var mnemonic = "puzzle umbrella ostrich point hazard inch bullet summer again birth swarm round";
+var mnemonic = "cause equal number regular poverty flag rocket patient grid pair country mean";

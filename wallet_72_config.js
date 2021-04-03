@@ -1,1 +1,1 @@
-var mnemonic = "beach issue liar law demise radar pull nephew adult soul brief enlist";
+var mnemonic = "ship endless bacon benefit silver paper erupt together orange debris dwarf tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "garment boy drift inflict pause way bulk turkey receive space race lumber";
+var mnemonic = "ketchup auto humble end lobster mean soup special slow space bid alley";
