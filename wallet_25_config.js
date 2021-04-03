@@ -1,1 +1,1 @@
-var mnemonic = "federal tooth huge observe increase rich deposit slush rebel urge receive prepare";
+var mnemonic = "grocery ability fitness actor can notice grief talk pitch pepper record oak";

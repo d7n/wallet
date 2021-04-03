@@ -1,1 +1,1 @@
-var mnemonic = "entry glory jeans tenant design decide already future fun state neglect pencil";
+var mnemonic = "balance opinion page adjust lumber sugar adapt bonus lava segment melt there";

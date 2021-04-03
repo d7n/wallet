@@ -1,1 +1,1 @@
-var mnemonic = "dog display dismiss page grit sea screen camera cluster alien powder jealous";
+var mnemonic = "length fluid sadness anchor regular love fury cream winter panda spatial dragon";

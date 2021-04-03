@@ -1,1 +1,1 @@
-var mnemonic = "enact flat video alcohol next city alpha volume unfair wool snow combine";
+var mnemonic = "smart glide seek canvas abstract upset brisk elite copy much duty scrap";

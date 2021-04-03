@@ -1,1 +1,1 @@
-var mnemonic = "price artwork stamp prison job clock youth quarter trial table minor morning";
+var mnemonic = "comfort estate palace attract version border online dust way barely place tribe";

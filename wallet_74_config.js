@@ -1,1 +1,1 @@
-var mnemonic = "grunt tank evil ill rely budget siren question two eyebrow wood inmate";
+var mnemonic = "meadow three toy submit estate elite brown song buyer build rich ozone";

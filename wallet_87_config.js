@@ -1,1 +1,1 @@
-var mnemonic = "excite mother add borrow disease carpet quarter useless board general warm shoulder";
+var mnemonic = "tonight history staff figure notable announce raven antique match walk quit salt";

@@ -1,1 +1,1 @@
-var mnemonic = "appear orange tank agree gravity sponsor raw bubble spell jungle owner below";
+var mnemonic = "wait deal balance health fan finish smart prosper medal library dolphin indicate";

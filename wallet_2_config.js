@@ -1,1 +1,1 @@
-var mnemonic = "hollow artefact essay acoustic average ginger above fiscal bean heavy tell stable";
+var mnemonic = "suggest extend midnight muscle illness brisk voyage picture yard atom flight race";

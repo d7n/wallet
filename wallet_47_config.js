@@ -1,1 +1,1 @@
-var mnemonic = "sustain speed frequent witness pear render head fan eternal one idea device";
+var mnemonic = "sail theme heart busy aware abuse erode cattle soon suit pencil soda";

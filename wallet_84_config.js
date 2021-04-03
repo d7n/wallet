@@ -1,1 +1,1 @@
-var mnemonic = "crane moon baby toward inject glance surge tomorrow hunt one annual tuna";
+var mnemonic = "license step item beyond myth code spray tomato bamboo grace receive clarify";

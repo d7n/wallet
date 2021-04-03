@@ -1,1 +1,1 @@
-var mnemonic = "real gasp blood favorite judge edit dragon party labor stamp ride cupboard";
+var mnemonic = "device long hold ladder voyage juice river enroll critic candy level develop";

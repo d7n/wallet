@@ -1,1 +1,1 @@
-var mnemonic = "ripple sheriff spray celery property gate palace elevator donor rude distance laundry";
+var mnemonic = "spatial raw whisper dawn loan inhale pink outer mail visual gift someone";

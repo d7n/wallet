@@ -1,1 +1,1 @@
-var mnemonic = "globe broom pony attitude lottery matrix fresh upper spirit resource mosquito derive";
+var mnemonic = "vicious tell rich desk dust tip axis doll sword faith evil response";

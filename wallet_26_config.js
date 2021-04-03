@@ -1,1 +1,1 @@
-var mnemonic = "fault cram penalty good conduct useless nurse cube culture wild loud eight";
+var mnemonic = "fee thunder range song reject sorry flock unaware fat remember fancy pen";

@@ -1,1 +1,1 @@
-var mnemonic = "novel enroll interest emerge awake arrow capable between fever elite cute speed";
+var mnemonic = "follow combine mountain three able join impulse large walk hen kite eyebrow";

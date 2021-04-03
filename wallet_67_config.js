@@ -1,1 +1,1 @@
-var mnemonic = "elbow toy buyer invite burst attitude alone bag village impulse bamboo banner";
+var mnemonic = "tilt place pledge flip stamp retreat picnic junk shrug attend own twice";

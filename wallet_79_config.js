@@ -1,1 +1,1 @@
-var mnemonic = "casino void rebuild envelope bonus good panel throw rescue estate minor lobster";
+var mnemonic = "useful wrap avocado divert silver thumb praise check eagle virus enact chaos";

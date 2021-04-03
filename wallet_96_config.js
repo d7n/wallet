@@ -1,1 +1,1 @@
-var mnemonic = "dolphin pipe wood cabin legend debris pilot together gas base harvest idle";
+var mnemonic = "slim civil voyage depend elbow bird success artist host shift young vessel";

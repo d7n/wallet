@@ -1,1 +1,1 @@
-var mnemonic = "globe cupboard author cannon abuse define lesson luxury silly raccoon mirror congress";
+var mnemonic = "cupboard empty churn bachelor stamp trash usual sponsor blanket critic concert behind";

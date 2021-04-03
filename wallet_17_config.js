@@ -1,1 +1,1 @@
-var mnemonic = "vanish remove huge pause slender flash off twin bullet clerk belt galaxy";
+var mnemonic = "flock puppy wedding onion clown swing saddle together carry plastic silly potato";

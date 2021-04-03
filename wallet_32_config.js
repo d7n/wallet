@@ -1,1 +1,1 @@
-var mnemonic = "prefer ranch rabbit sunny cheese mansion review smile offer myth move trade";
+var mnemonic = "gate twin palm age mixture point impulse slide arrive pottery stumble tourist";

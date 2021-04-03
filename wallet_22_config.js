@@ -1,1 +1,1 @@
-var mnemonic = "agent report siege such salad orient tooth bicycle rebuild predict security expect";
+var mnemonic = "element unusual business student business mind artwork second garage lucky century ugly";

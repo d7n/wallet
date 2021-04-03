@@ -1,1 +1,1 @@
-var mnemonic = "sheriff submit year label before awake pyramid craft sketch rule hybrid comfort";
+var mnemonic = "hungry antique rookie fancy about differ absurd strategy pyramid aware letter round";

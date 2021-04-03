@@ -1,1 +1,1 @@
-var mnemonic = "need bunker erode share antique traffic win pill trophy cheese harvest shock";
+var mnemonic = "knife kangaroo coach crack coyote output reduce other skull wisdom deny flash";

@@ -1,1 +1,1 @@
-var mnemonic = "depth hidden palace bless ketchup cannon depth decrease animal remember useful venture";
+var mnemonic = "buddy minute fish rich clump festival long tube tornado unfold lens system";

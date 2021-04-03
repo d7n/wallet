@@ -1,1 +1,1 @@
-var mnemonic = "beef junior raven welcome tornado someone off gain actual now stay taxi";
+var mnemonic = "antique rookie figure tiny term series top toast grocery energy enough orphan";

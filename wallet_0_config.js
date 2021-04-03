@@ -1,1 +1,1 @@
-var mnemonic = "oak rifle own neck toss luxury join hollow cereal juice library equip";
+var mnemonic = "void pupil tenant apple lonely spend junior coil visa correct frost wet";

@@ -1,1 +1,1 @@
-var mnemonic = "describe humble sick owner master minimum alarm upon invite insect glory meat";
+var mnemonic = "blood skill renew quantum doctor nuclear inform village adjust flock cement purpose";

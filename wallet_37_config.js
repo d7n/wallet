@@ -1,1 +1,1 @@
-var mnemonic = "fatal catch clutch second good holiday boil question cabbage maid wink dinner";
+var mnemonic = "imitate hybrid play tornado fatal alarm humor purpose glass artist caution point";

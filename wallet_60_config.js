@@ -1,1 +1,1 @@
-var mnemonic = "other tenant clog rebuild road way arch nominee educate always wrong hood";
+var mnemonic = "thank angry find fan reform gaze choice better lobster odor latin rebuild";

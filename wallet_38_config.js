@@ -1,1 +1,1 @@
-var mnemonic = "crater identify banner enforce employ panel key van skate half army burst";
+var mnemonic = "task day race depend flash put coyote refuse slogan north base fashion";

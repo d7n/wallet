@@ -1,1 +1,1 @@
-var mnemonic = "strong wonder egg meat accuse bargain medal brisk outer narrow surround dumb";
+var mnemonic = "govern afraid lens never know sniff junior source student zoo tobacco excite";

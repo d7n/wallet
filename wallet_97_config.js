@@ -1,1 +1,1 @@
-var mnemonic = "sniff afford scare town spatial exclude defy balance black fringe ride delay";
+var mnemonic = "sorry stove electric undo rice cute pause paddle unique obey shell forget";

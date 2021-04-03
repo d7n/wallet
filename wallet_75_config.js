@@ -1,1 +1,1 @@
-var mnemonic = "option another unit solar arrow crumble must embrace canyon brisk pond radar";
+var mnemonic = "blanket derive beef inject copy bulk middle fossil trial rebuild focus fire";

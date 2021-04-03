@@ -1,1 +1,1 @@
-var mnemonic = "any same comfort hip hope word drastic win despair refuse wrist girl";
+var mnemonic = "impulse size team ostrich rotate code travel carbon cloth mandate town swap";

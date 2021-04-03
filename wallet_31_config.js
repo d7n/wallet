@@ -1,1 +1,1 @@
-var mnemonic = "diesel visa siren mouse amused another truth route force sun dust palm";
+var mnemonic = "have arm artist omit include slender cheese velvet unable critic wash arrow";

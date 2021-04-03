@@ -1,1 +1,1 @@
-var mnemonic = "naive canoe uncle pumpkin essence guitar sad urge banner also car review";
+var mnemonic = "theory certain talk toy hero jump oak parent chest assault ask fuel";

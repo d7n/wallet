@@ -1,1 +1,1 @@
-var mnemonic = "kit sample slide maximum remain gauge they example cycle finish economy chase";
+var mnemonic = "chief taxi search father segment like juice journey mutual evoke creek subway";

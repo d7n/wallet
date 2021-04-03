@@ -1,1 +1,1 @@
-var mnemonic = "assist snack hunt beef keen crack farm age under day tennis bus";
+var mnemonic = "label cry either giant hidden elder stand misery alarm that daughter size";

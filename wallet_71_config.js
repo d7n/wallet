@@ -1,1 +1,1 @@
-var mnemonic = "cube wrestle normal coast age major remain twist catch hidden aerobic ship";
+var mnemonic = "conduct like job apart original rule advice grocery mountain ocean fortune pulp";

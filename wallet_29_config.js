@@ -1,1 +1,1 @@
-var mnemonic = "chief pill absurd when soon dose cousin pepper crowd much debris square";
+var mnemonic = "speed amount avoid hero emotion ability half canvas battle leaf weather cry";

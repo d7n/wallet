@@ -1,1 +1,1 @@
-var mnemonic = "ability absurd lift about finish mosquito prevent frame pipe digital dove lyrics";
+var mnemonic = "exhibit sugar atom lucky online crisp manage permit decade silent exhaust cause";

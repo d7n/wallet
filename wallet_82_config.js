@@ -1,1 +1,1 @@
-var mnemonic = "letter someone milk trade mirror scrub crunch donkey injury artist nephew actual";
+var mnemonic = "attack learn page clown space language have wrong cement fame anger seat";

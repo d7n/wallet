@@ -1,1 +1,1 @@
-var mnemonic = "legend prison pole soup domain banana lift divert affair extend equip hour";
+var mnemonic = "indicate ramp dinner pond chicken access wish together leg diamond near surprise";

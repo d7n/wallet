@@ -1,1 +1,1 @@
-var mnemonic = "alone canvas noodle whale box wedding pill either wise panel pulse vocal";
+var mnemonic = "gloom consider claw island draw marine face large speed antenna chair stone";

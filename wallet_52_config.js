@@ -1,1 +1,1 @@
-var mnemonic = "glove cake valley program fossil abandon wreck decline napkin wet regular economy";
+var mnemonic = "retire shuffle other enroll ugly swift bullet swift recall story advice artefact";

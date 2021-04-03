@@ -1,1 +1,1 @@
-var mnemonic = "mixed breeze tenant short claw cash trumpet ivory gap camera long caught";
+var mnemonic = "coconut ladder frog fat absorb medal symptom inflict axis banner urge century";

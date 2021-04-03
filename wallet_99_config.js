@@ -1,1 +1,1 @@
-var mnemonic = "garbage twin injury control sword evil mule quantum glare elegant coyote nut";
+var mnemonic = "tomato double ring this gown boost equal trigger cheap resist because dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe brain east trend domain cube extend race escape pride vague elevator";
+var mnemonic = "clever vague remind alley urge dose cereal spider assault pact piece awful";

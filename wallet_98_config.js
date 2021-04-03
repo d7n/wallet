@@ -1,1 +1,1 @@
-var mnemonic = "crisp drastic hand snack dumb insane board route genius valley cloud wire";
+var mnemonic = "undo ball elite relax travel fashion exhibit fuel any section auction ritual";

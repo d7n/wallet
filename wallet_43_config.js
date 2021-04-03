@@ -1,1 +1,1 @@
-var mnemonic = "foam wine hurdle pitch brick joy decline tooth cool prize direct ethics";
+var mnemonic = "embark ribbon crew angle strike artist attitude error disorder rapid buzz reason";

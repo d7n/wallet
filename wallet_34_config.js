@@ -1,1 +1,1 @@
-var mnemonic = "plug fall gallery vapor web jacket aspect bullet planet praise artwork grow";
+var mnemonic = "sleep access roast illegal curve again sell voice nominee drift guard surge";

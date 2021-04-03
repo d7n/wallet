@@ -1,1 +1,1 @@
-var mnemonic = "uniform crime group curve drill onion nation expect carpet limb jelly feature";
+var mnemonic = "liquid various either purse elite photo fiction tip situate wild gadget amazing";

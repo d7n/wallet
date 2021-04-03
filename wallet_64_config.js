@@ -1,1 +1,1 @@
-var mnemonic = "evoke only ignore mass crucial face spring force month rib deputy put";
+var mnemonic = "dizzy raccoon equal focus yard auto garage tooth tunnel bottom hire harvest";

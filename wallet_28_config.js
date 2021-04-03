@@ -1,1 +1,1 @@
-var mnemonic = "expand kiss step develop swim once uncle author space simple quote exclude";
+var mnemonic = "scorpion oyster suggest fantasy insane opinion tool stereo inherit taxi knock wall";

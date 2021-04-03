@@ -1,1 +1,1 @@
-var mnemonic = "ten real limb verify fetch ecology lounge post group sound valve slide";
+var mnemonic = "predict tourist hour ivory final day view arrest pottery author pave beach";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor orange network cash october manage wrist parrot potato link laugh water";
+var mnemonic = "ceiling repair two track answer parent congress awesome spare cup lion girl";

@@ -1,1 +1,1 @@
-var mnemonic = "bring mention silent cash force rate ride ordinary shed rather practice become";
+var mnemonic = "exclude harbor knee awkward raw hero cheese drum exercise casino add blouse";

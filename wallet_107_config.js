@@ -1,1 +1,1 @@
-var mnemonic = "excuse draft rebel very okay lecture fuel company brain strong walnut basket";
+var mnemonic = "treat potato gauge remember below social home silk pulse attack benefit better";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy gown consider end like spice beyond cat kingdom charge judge payment";
+var mnemonic = "survey fat soul silly goat despair clutch lazy mother young crouch clutch";

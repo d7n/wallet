@@ -1,1 +1,1 @@
-var mnemonic = "fabric fossil attack year dinner surface genius silly enjoy work capital core";
+var mnemonic = "silent unit tired unknown rural invite bread boring hammer smooth judge lady";

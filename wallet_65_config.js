@@ -1,1 +1,1 @@
-var mnemonic = "nephew will fame tumble power banner lens install retire virus forest charge";
+var mnemonic = "panda goat afraid royal wear oval trouble panda insane pioneer antenna cannon";

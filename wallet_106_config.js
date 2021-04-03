@@ -1,1 +1,1 @@
-var mnemonic = "trophy bottom sport tired punch inside six calm bird flock solution input";
+var mnemonic = "mesh letter dream toward sustain hybrid wisdom solution champion coil recall room";

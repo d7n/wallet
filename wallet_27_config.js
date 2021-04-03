@@ -1,1 +1,1 @@
-var mnemonic = "innocent grief already cushion lawsuit topic rhythm antenna chef foam stuff recycle";
+var mnemonic = "much update split screen miss couple dinner series truth brief refuse hotel";

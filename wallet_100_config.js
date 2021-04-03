@@ -1,1 +1,1 @@
-var mnemonic = "faint hurry rebel blur they latin island warm fabric amazing trust wait";
+var mnemonic = "end dumb quiz seat party chalk remember honey series wreck palm brave";

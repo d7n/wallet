@@ -1,1 +1,1 @@
-var mnemonic = "deer cup spin reform game fatal claw boss label hero wall banner";
+var mnemonic = "control concert defy tool million enjoy arm endless release actor gather coach";

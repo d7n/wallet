@@ -1,1 +1,1 @@
-var mnemonic = "sauce badge relax peanut cash group surface mimic sample walnut two used";
+var mnemonic = "flame fix silk spy repair clerk stereo giggle fruit emotion civil portion";

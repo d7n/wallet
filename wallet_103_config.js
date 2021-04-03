@@ -1,1 +1,1 @@
-var mnemonic = "foot whisper wave answer error sphere deny fragile benefit away cloud junior";
+var mnemonic = "shove into hungry blast south elevator involve olive man cactus rice motor";

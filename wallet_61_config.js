@@ -1,1 +1,1 @@
-var mnemonic = "hip evidence dove magic puzzle find young section dog true media equal";
+var mnemonic = "purity erode seat route among nominee minimum love solid foil enough burst";

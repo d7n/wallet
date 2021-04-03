@@ -1,1 +1,1 @@
-var mnemonic = "village relax design romance remove share mango police sustain silly hover autumn";
+var mnemonic = "swallow appear hood layer thought innocent fury tunnel kind spend deer turn";

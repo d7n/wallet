@@ -1,1 +1,1 @@
-var mnemonic = "battle equip taxi curtain high grab shine match diagram stadium cup become";
+var mnemonic = "remind dwarf little height pepper mule wet bounce violin garbage hand risk";

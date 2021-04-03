@@ -1,1 +1,1 @@
-var mnemonic = "fan left flee nature offer waste swamp suspect kiwi skill boring crane";
+var mnemonic = "essay risk magic ceiling divert chuckle phrase record digital route session desk";

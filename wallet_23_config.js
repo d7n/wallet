@@ -1,1 +1,1 @@
-var mnemonic = "rubber knife net used trap result actual toss menu staff aerobic anchor";
+var mnemonic = "bird harsh marriage accuse rib romance program boring frame filter minor swim";

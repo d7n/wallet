@@ -1,1 +1,1 @@
-var mnemonic = "weekend lobster lyrics blossom seed dizzy cereal popular pluck search parent proof";
+var mnemonic = "wink moral submit choose across wage hold rail nominee vicious blossom knock";

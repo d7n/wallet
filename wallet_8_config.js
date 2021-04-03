@@ -1,1 +1,1 @@
-var mnemonic = "narrow fun settle begin diagram strong volume tank gym wrist use slide";
+var mnemonic = "link morning skate mechanic funny area soft truly sausage cross october remind";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing this moral drill crater proof rapid grab purpose anger frozen evoke";
+var mnemonic = "marine trigger slim various scale portion stable shift match wood buzz dentist";

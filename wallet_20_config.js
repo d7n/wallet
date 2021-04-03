@@ -1,1 +1,1 @@
-var mnemonic = "thought refuse police chapter hero imitate display sadness true strike rice wool";
+var mnemonic = "drink lion pair soft narrow shove cool behave junior mountain three ahead";

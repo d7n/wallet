@@ -1,1 +1,1 @@
-var mnemonic = "across crime educate heavy funny infant december stock member heavy love soccer";
+var mnemonic = "embody stay fame vibrant stem echo quarter miss soap cattle card honey";

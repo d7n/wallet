@@ -1,1 +1,1 @@
-var mnemonic = "riot energy debris purpose dentist spot together bleak tube onion chase supreme";
+var mnemonic = "private proof stadium repeat page later arrest soap giant absorb situate few";

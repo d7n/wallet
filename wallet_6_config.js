@@ -1,1 +1,1 @@
-var mnemonic = "put expect chat slow fault waste impose beyond soup glory need glance";
+var mnemonic = "arrange art hair cram saddle laptop dumb reduce glare cloud able lend";

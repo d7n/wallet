@@ -1,1 +1,1 @@
-var mnemonic = "orange impose glimpse more noble alcohol latin denial express income sea eternal";
+var mnemonic = "hockey pistol custom before way various security wine thrive cereal tail remain";

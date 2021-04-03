@@ -1,1 +1,1 @@
-var mnemonic = "zoo add keen chimney pear pet forest deputy effort broken elephant battle";
+var mnemonic = "increase cannon guitar float venture humor digital loan decline champion regular swift";

@@ -1,1 +1,1 @@
-var mnemonic = "high access dentist exit night stable radar special injury napkin away peanut";
+var mnemonic = "one hurdle curtain fame narrow proud pigeon soda physical matter again certain";

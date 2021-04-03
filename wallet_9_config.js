@@ -1,1 +1,1 @@
-var mnemonic = "awful raccoon talk crucial east birth knock glare cloud during about provide";
+var mnemonic = "scare book mom rescue save enter blood cute toast boy nose garment";

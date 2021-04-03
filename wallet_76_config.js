@@ -1,1 +1,1 @@
-var mnemonic = "hawk evidence news close before cruel ordinary hurt main ethics arm improve";
+var mnemonic = "section skirt lamp order measure rural cat poem canvas search choose glory";

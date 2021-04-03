@@ -1,1 +1,1 @@
-var mnemonic = "cube helmet shine wide news adult phone utility cry tell minor goddess";
+var mnemonic = "dog hood conduct icon control army proof shell jump diary spider risk";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter tomorrow oval notable brush grocery water mutual fee firm cram swamp";
+var mnemonic = "endorse nation sniff tuna despair match crew wear cage smoke rigid main";

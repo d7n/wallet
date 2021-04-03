@@ -1,1 +1,1 @@
-var mnemonic = "teach suit deal ketchup crack banner jar blush winter refuse galaxy again";
+var mnemonic = "toy shallow decline reform mistake brush confirm toilet speed ribbon test rose";

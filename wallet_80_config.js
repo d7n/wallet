@@ -1,1 +1,1 @@
-var mnemonic = "fame loyal zebra blouse vapor clarify sense indoor abstract east trend seminar";
+var mnemonic = "insane slab uncle pottery fault vehicle cradle write pioneer harbor vault vague";

@@ -1,1 +1,1 @@
-var mnemonic = "dose buffalo spider snap echo magnet hotel thank fly nasty someone wing";
+var mnemonic = "pride rare clock minimum relief range cradle hotel artwork pluck seat enroll";

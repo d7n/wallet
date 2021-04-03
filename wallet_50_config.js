@@ -1,1 +1,1 @@
-var mnemonic = "holiday connect real curious yard prefer wave imitate surface hollow entry news";
+var mnemonic = "lesson twenty tattoo rude ritual clog rapid beyond ask trial shaft glow";

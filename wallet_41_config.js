@@ -1,1 +1,1 @@
-var mnemonic = "exotic wire lend claim extra undo student size boss reason sunny message";
+var mnemonic = "solid limit asthma torch online struggle arrest uncle frame multiply snap destroy";

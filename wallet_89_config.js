@@ -1,1 +1,1 @@
-var mnemonic = "melt suit glare deny inform total below endorse bonus squeeze gaze believe";
+var mnemonic = "spike cute reform absurd immense guilt burst cat owner stereo cushion obscure";

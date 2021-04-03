@@ -1,1 +1,1 @@
-var mnemonic = "pioneer near image squirrel tiny tortoise track bottom liar gloom bus scatter";
+var mnemonic = "grow fire honey amazing rabbit invest mango cabin violin legal ship grace";
