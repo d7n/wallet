@@ -1,1 +1,1 @@
-var mnemonic = "congress require check green recipe tube one use normal blame clarify federal";
+var mnemonic = "whip photo royal replace chapter mix improve foam impact artwork tonight dinosaur";

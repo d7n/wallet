@@ -1,1 +1,1 @@
-var mnemonic = "group motion stove play orient pretty jelly couch prepare amount warrior save";
+var mnemonic = "onion dynamic cup flip cherry wire twist turkey bench remind hero cinnamon";

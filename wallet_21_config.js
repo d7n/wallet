@@ -1,1 +1,1 @@
-var mnemonic = "embark park green annual carpet broom bus spider recipe mushroom gallery win";
+var mnemonic = "sick direct badge clap invest aisle check use frown defense surround rotate";

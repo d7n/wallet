@@ -1,1 +1,1 @@
-var mnemonic = "devote vanish panic oil brick come zero narrow aim current neck jelly";
+var mnemonic = "wash blush now mention unit squeeze bracket disorder any job capital capable";

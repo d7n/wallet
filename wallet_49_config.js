@@ -1,1 +1,1 @@
-var mnemonic = "pear mask fortune uphold share owner huge actor upgrade pull biology ski";
+var mnemonic = "cycle tool useless excess myth sail pave abuse meat husband face uphold";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness narrow drop vapor drastic add pave celery smooth subway reveal border";
+var mnemonic = "excite cry series uncover crawl jeans border manual merge moral logic various";

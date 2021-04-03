@@ -1,1 +1,1 @@
-var mnemonic = "profit alarm coin crazy illness feed kind artist stumble distance engine dumb";
+var mnemonic = "skirt adjust loud tray crowd valley mule junior uphold inner point sorry";

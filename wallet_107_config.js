@@ -1,1 +1,1 @@
-var mnemonic = "laundry loop ketchup guard stage sell dust maximum wrist exchange tilt lion";
+var mnemonic = "bunker need nuclear rule news execute grape visa bachelor rose unknown uncle";

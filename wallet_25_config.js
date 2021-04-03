@@ -1,1 +1,1 @@
-var mnemonic = "victory repair moment rain machine mosquito stage maximum three dose resemble tool";
+var mnemonic = "describe bird slide blue young once parent effort answer win vehicle lunar";

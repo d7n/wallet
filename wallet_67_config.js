@@ -1,1 +1,1 @@
-var mnemonic = "picture woman exhaust rookie buddy youth erupt cause sand actor extra evil";
+var mnemonic = "evil hour mass lady setup bomb pipe peasant clean jaguar hood mechanic";

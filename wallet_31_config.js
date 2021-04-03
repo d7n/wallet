@@ -1,1 +1,1 @@
-var mnemonic = "snack blouse romance witness drive rice current phone secret task merit carbon";
+var mnemonic = "hair prepare reject shiver belt venture tip price column vote robust deal";

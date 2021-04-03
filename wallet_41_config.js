@@ -1,1 +1,1 @@
-var mnemonic = "sell cruise combine two duck castle inject bottom ill room impulse physical";
+var mnemonic = "length spirit priority limb three vicious lens verb million vapor media eight";

@@ -1,1 +1,1 @@
-var mnemonic = "army divide void future tribe december drum flat hollow dismiss spin index";
+var mnemonic = "frequent sand more such poet nominee kangaroo mind bicycle message margin owner";

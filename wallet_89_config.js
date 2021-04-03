@@ -1,1 +1,1 @@
-var mnemonic = "leopard worth invite muffin earn document fame claim language announce narrow firm";
+var mnemonic = "identify leave flame banana awkward sudden bacon pumpkin reunion surprise frown solve";

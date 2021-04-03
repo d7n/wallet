@@ -1,1 +1,1 @@
-var mnemonic = "economy piece visual balance plunge reflect crane gym fever aim defense excess";
+var mnemonic = "track hunt carpet fury collect survey stem live access panda observe copy";

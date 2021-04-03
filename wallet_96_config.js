@@ -1,1 +1,1 @@
-var mnemonic = "short shrimp lounge ready achieve behave imitate fantasy abandon agree canal vanish";
+var mnemonic = "small admit already uphold glass spoil muffin flee anchor project asset recipe";

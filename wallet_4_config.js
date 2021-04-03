@@ -1,1 +1,1 @@
-var mnemonic = "design ankle cruel fine note situate certain melody unaware easily open devote";
+var mnemonic = "metal anchor forest labor arrive swarm kidney ride dog city van exhibit";

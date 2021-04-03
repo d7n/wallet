@@ -1,1 +1,1 @@
-var mnemonic = "spend system screen odor feel betray inherit action quiz repair tray rich";
+var mnemonic = "earth cherry head elite action elevator cabin panic review decrease room teach";

@@ -1,1 +1,1 @@
-var mnemonic = "monster honey hungry kiwi cement enlist help champion grab pretty organ giggle";
+var mnemonic = "train taxi resist yellow farm wheel bulk feature choice senior rule diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz silver merit random amused shock sail hub then matrix forget jar";
+var mnemonic = "renew weekend prepare arrange replace broom myth thumb like amateur bundle violin";

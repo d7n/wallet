@@ -1,1 +1,1 @@
-var mnemonic = "night shrimp glide pond sphere source example rubber mercy tobacco beauty tobacco";
+var mnemonic = "force provide violin course solve aspect front excess orange clock lounge margin";

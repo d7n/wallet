@@ -1,1 +1,1 @@
-var mnemonic = "wall omit legal sudden organ pupil timber web humor crush kite situate";
+var mnemonic = "veteran state cereal swift sure involve donor siege fatigue dial valve wing";

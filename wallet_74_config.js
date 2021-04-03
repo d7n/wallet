@@ -1,1 +1,1 @@
-var mnemonic = "present order mercy song green lounge airport birth rubber brief basket diesel";
+var mnemonic = "scorpion view minute kid require scrub snow fortune exile age twin crystal";

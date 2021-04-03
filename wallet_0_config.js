@@ -1,1 +1,1 @@
-var mnemonic = "legend lottery icon fiber raven senior chef six coral subject arm earth";
+var mnemonic = "own enrich fence chest moment jeans wood dune north system sudden step";

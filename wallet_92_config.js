@@ -1,1 +1,1 @@
-var mnemonic = "tortoise output increase deny guard pioneer plate eternal whip submit seminar plate";
+var mnemonic = "into vessel clock mother damage muffin edge deposit denial page offer economy";

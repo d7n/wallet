@@ -1,1 +1,1 @@
-var mnemonic = "kit educate spy arena weapon digital enrich fox deputy mad artwork cube";
+var mnemonic = "shallow rich health width obey swamp aerobic grape slice attack pyramid movie";

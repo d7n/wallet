@@ -1,1 +1,1 @@
-var mnemonic = "foil perfect situate valley flat strategy usual aim rely female income trick";
+var mnemonic = "sibling sample soft ensure curve wrestle rent delay above need escape coffee";

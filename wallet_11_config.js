@@ -1,1 +1,1 @@
-var mnemonic = "spike hamster three debris art hobby giggle rack idle coconut issue beach";
+var mnemonic = "join salute busy butter wine dinner invest kitten elite pluck region steel";

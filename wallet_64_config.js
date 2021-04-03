@@ -1,1 +1,1 @@
-var mnemonic = "shine charge neck noodle element stove elbow surge raccoon print yard source";
+var mnemonic = "wrong unknown teach sail broom rich useless decade sphere letter symptom item";

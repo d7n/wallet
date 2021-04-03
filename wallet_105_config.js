@@ -1,1 +1,1 @@
-var mnemonic = "vivid owner moment slam polar disease panic boring dilemma ready pig ankle";
+var mnemonic = "cement gain educate whip garden oxygen forest column balance link share large";

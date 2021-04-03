@@ -1,1 +1,1 @@
-var mnemonic = "bus naive december noodle corn catch they fog cake chief quarter include";
+var mnemonic = "fresh victory become expire limit guide insect logic milk few melody lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder employ flame digital gain close sunset maid punch curtain ecology soccer";
+var mnemonic = "desk group reflect mountain park demise offer mind rate session rival mutual";

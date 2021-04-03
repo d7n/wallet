@@ -1,1 +1,1 @@
-var mnemonic = "rail invest tilt robust snow pair seed worry lava clinic borrow mixture";
+var mnemonic = "bicycle hair pledge rack gossip wild more right urban purity confirm motor";

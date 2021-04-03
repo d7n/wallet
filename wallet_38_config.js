@@ -1,1 +1,1 @@
-var mnemonic = "erosion chief world woman bubble crowd popular quantum farm regular ranch kid";
+var mnemonic = "inject abandon labor axis donor holiday park sunny judge prison brave good";

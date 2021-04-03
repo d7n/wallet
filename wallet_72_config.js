@@ -1,1 +1,1 @@
-var mnemonic = "remove hurry desk uncover punch frozen rain spread dolphin chase hybrid decline";
+var mnemonic = "elevator try upset sunset mystery offer student cricket shoe install resource van";

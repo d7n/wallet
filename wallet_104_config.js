@@ -1,1 +1,1 @@
-var mnemonic = "various wagon general width enroll cement cloth smile item draw find combine";
+var mnemonic = "nerve onion border property drop buzz another jacket tattoo ranch enlist pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "glad bubble cup local happy author bronze dad dance finish release collect";
+var mnemonic = "earn appear raise unaware stumble spike lumber father health food stomach symbol";

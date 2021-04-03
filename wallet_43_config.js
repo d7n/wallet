@@ -1,1 +1,1 @@
-var mnemonic = "topic note version special private hidden kangaroo image label basket horse view";
+var mnemonic = "spend labor stem erupt mimic recall loud already frown enforce discover fiber";

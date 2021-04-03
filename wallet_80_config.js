@@ -1,1 +1,1 @@
-var mnemonic = "top amused hand armor law swap drama sheriff token awake pulp much";
+var mnemonic = "uphold veteran armed record denial rate pigeon illegal urban inject saddle expect";

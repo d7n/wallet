@@ -1,1 +1,1 @@
-var mnemonic = "decide round lawsuit toss goose flower pretty pact duck lobster uncover inflict";
+var mnemonic = "warm mystery dilemma foster attack learn scatter voice train term apology oven";

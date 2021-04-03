@@ -1,1 +1,1 @@
-var mnemonic = "flight major upgrade lazy script subject enlist advice flee stable ignore rent";
+var mnemonic = "decorate flash dog rubber predict unknown motion special burger shine crawl blade";

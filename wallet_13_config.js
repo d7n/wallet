@@ -1,1 +1,1 @@
-var mnemonic = "patch thing pass involve rebuild copper shrimp forward rail whisper buffalo hair";
+var mnemonic = "effort lunch actual melody govern when clump arena sketch fury property note";

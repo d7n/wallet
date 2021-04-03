@@ -1,1 +1,1 @@
-var mnemonic = "account hobby hurt chronic legal profit lady length december finger term opinion";
+var mnemonic = "hat animal vast latin critic blouse music brass fan hover dragon donor";

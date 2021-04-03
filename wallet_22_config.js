@@ -1,1 +1,1 @@
-var mnemonic = "defense portion photo loop uphold music avocado staff inherit rail club sauce";
+var mnemonic = "lion school ball clarify shift globe tackle text uncover lobster silent mobile";

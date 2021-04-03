@@ -1,1 +1,1 @@
-var mnemonic = "camp modify problem wheel smile display bottom culture trick exist machine doll";
+var mnemonic = "gasp embark priority address ten oyster whisper air verb lawsuit exit parent";

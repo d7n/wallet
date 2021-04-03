@@ -1,1 +1,1 @@
-var mnemonic = "decade sketch undo reduce lecture round wood pet glare sun shop broccoli";
+var mnemonic = "trumpet fringe ride step lawn pizza tape wire express helmet notable capable";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet tooth member disagree knife cheap brick check color matter reject soldier";
+var mnemonic = "use brick chest snow case cost useful hammer hurt return sadness theme";

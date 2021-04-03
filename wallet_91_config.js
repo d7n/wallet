@@ -1,1 +1,1 @@
-var mnemonic = "news sport tired appear warfare trend tuition dove rapid behave tomato wish";
+var mnemonic = "water correct dry bargain movie express check fiction scale square scout owner";

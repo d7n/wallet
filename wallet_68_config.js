@@ -1,1 +1,1 @@
-var mnemonic = "unlock exist waste cable unusual throw allow fragile turkey service law wide";
+var mnemonic = "ivory kitchen fix hover photo dry truth goose winner define disorder hunt";

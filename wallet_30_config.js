@@ -1,1 +1,1 @@
-var mnemonic = "flag program night pet tail brief shaft cross mind loyal actor neither";
+var mnemonic = "warrior slim push witness refuse motor glow accuse muscle zoo dream lonely";

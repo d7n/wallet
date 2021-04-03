@@ -1,1 +1,1 @@
-var mnemonic = "bus stool attitude drive buffalo mammal water throw original habit hobby author";
+var mnemonic = "drift valley clog lunch hurdle weather link sound galaxy size dutch ski";

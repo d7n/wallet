@@ -1,1 +1,1 @@
-var mnemonic = "decrease girl rib name behave toy garage pupil report genuine deliver force";
+var mnemonic = "trap snake jealous copy right frog raise multiply memory oblige mask call";

@@ -1,1 +1,1 @@
-var mnemonic = "equal panel connect correct coil shiver patient sorry tide modify mother shove";
+var mnemonic = "finish weird arena reunion pumpkin decorate tomato below guilt split kangaroo north";

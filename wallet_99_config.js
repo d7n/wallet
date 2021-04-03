@@ -1,1 +1,1 @@
-var mnemonic = "permit someone mistake rail awake half tongue derive mystery cattle engage leader";
+var mnemonic = "grid fruit ice still country village cement fortune draft soccer announce soft";

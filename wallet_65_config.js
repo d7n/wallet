@@ -1,1 +1,1 @@
-var mnemonic = "detect village joke bike funny west physical artefact fire nothing tiger grass";
+var mnemonic = "erosion carpet message option left airport wave clean bachelor special simple pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "nice next powder return lounge portion kick grab rigid barrel awful milk";
+var mnemonic = "effort cancel brass enact loyal copper vivid crash exist matrix online evolve";

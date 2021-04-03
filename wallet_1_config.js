@@ -1,1 +1,1 @@
-var mnemonic = "spread female jar quality awesome marble train insect travel music luxury fatal";
+var mnemonic = "sudden maid ostrich mesh brush venture enlist fog leave pelican add insect";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle spare surface february spray pull monkey fabric diet swarm blood click";
+var mnemonic = "grid body dragon enhance salt enroll odor holiday insane cloud prevent summer";

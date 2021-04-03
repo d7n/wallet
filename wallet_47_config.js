@@ -1,1 +1,1 @@
-var mnemonic = "farm peanut bar apple fame either hold dog target velvet disagree muffin";
+var mnemonic = "snow alert adult candy ticket problem iron wire conduct stable small skull";

@@ -1,1 +1,1 @@
-var mnemonic = "urban click rally area lobster this recall valve loyal six lock jealous";
+var mnemonic = "bulk spoon unfold language beyond push pave yard calm ball object sing";

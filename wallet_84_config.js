@@ -1,1 +1,1 @@
-var mnemonic = "then afford six laptop quit until oxygen uniform humor security weasel bike";
+var mnemonic = "valley obscure subway acid thought sport hello chef owner paper nice dose";

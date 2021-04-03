@@ -1,1 +1,1 @@
-var mnemonic = "army two coffee speak garbage nose feel edge fish clerk title tone";
+var mnemonic = "frame record review wonder cost output switch wasp cushion wreck defy speed";

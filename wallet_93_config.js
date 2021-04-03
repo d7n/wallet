@@ -1,1 +1,1 @@
-var mnemonic = "best proud account galaxy road voice claw broccoli fence summer snake angle";
+var mnemonic = "camp absent pride ask fluid abandon logic muffin base sorry core stem";

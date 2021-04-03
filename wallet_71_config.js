@@ -1,1 +1,1 @@
-var mnemonic = "sister achieve rug pride connect wear buyer summer voice rose lonely palace";
+var mnemonic = "crisp office describe dumb hat marble party keen during above jacket concert";

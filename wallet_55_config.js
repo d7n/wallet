@@ -1,1 +1,1 @@
-var mnemonic = "clown plate forest current gift guilt nest plunge suspect puzzle vital kitchen";
+var mnemonic = "pause rescue off shy close talk empty copper behind fold roof solar";

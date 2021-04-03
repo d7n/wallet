@@ -1,1 +1,1 @@
-var mnemonic = "tray rifle before include wet tobacco much cable among vocal auction fork";
+var mnemonic = "senior agree cave slot struggle pilot desert toilet pepper together mouse deny";

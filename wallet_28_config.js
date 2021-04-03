@@ -1,1 +1,1 @@
-var mnemonic = "couch sound isolate unaware today rhythm erode foster forum refuse surface trap";
+var mnemonic = "crop nothing usage lottery guilt truly peasant bottom dose answer hamster typical";

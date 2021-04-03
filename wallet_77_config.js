@@ -1,1 +1,1 @@
-var mnemonic = "carry immune educate punch employ nerve match space grunt clown famous educate";
+var mnemonic = "program target elite you law deal habit hungry photo ritual awesome wide";

@@ -1,1 +1,1 @@
-var mnemonic = "forget equip agent mimic explain plug film piece edit hill inspire moment";
+var mnemonic = "jaguar stomach panic cup rely toss blanket start desert super awake sing";

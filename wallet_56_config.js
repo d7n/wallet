@@ -1,1 +1,1 @@
-var mnemonic = "sorry manual glide tiger dinner force artwork correct roof grain spoil pigeon";
+var mnemonic = "affair cave resemble drive warm wall valve mixture ostrich agent peasant crystal";

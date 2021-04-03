@@ -1,1 +1,1 @@
-var mnemonic = "alter game double lazy sugar barely fame concert economy drama bleak basic";
+var mnemonic = "twin utility fiction man bless rapid twice despair help chalk robot scene";

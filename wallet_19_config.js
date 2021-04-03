@@ -1,1 +1,1 @@
-var mnemonic = "describe convince maid enter position wolf chaos height confirm task ordinary element";
+var mnemonic = "verb mountain draw giraffe siren order vicious now miracle aisle blossom nice";

@@ -1,1 +1,1 @@
-var mnemonic = "coach shock begin twin prize wage reduce concert stereo draft hammer robot";
+var mnemonic = "dial fine universe cannon arrow glass dance ritual report tuna popular convince";

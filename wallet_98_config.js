@@ -1,1 +1,1 @@
-var mnemonic = "tuna evoke tent trip fat rifle syrup brown average weather twenty other";
+var mnemonic = "cage finger table turkey guard road company word blame faculty apart sauce";

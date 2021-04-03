@@ -1,1 +1,1 @@
-var mnemonic = "damp glare six hurdle kite one click soul unknown either gossip engage";
+var mnemonic = "know chapter marble volcano empower good grit critic climb circle cave nature";

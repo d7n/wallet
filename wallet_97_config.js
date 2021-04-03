@@ -1,1 +1,1 @@
-var mnemonic = "genius liquid until party gesture amateur wagon onion confirm camp cause cat";
+var mnemonic = "truly honey champion lion sketch trade foil delay crew marble start enlist";

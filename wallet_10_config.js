@@ -1,1 +1,1 @@
-var mnemonic = "guide easily battle system absorb myth dust multiply also token foam loyal";
+var mnemonic = "test two flash razor razor melody olympic move tongue general easily imitate";

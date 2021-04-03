@@ -1,1 +1,1 @@
-var mnemonic = "wash wagon scorpion flock squirrel six eyebrow senior clever vessel hospital stuff";
+var mnemonic = "pudding genius february chair inherit cannon space bacon book crouch near liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "practice seven vacuum planet boy survey fashion invest anxiety ride warrior wasp";
+var mnemonic = "vessel lens gentle under farm success riot animal swift small dilemma mail";

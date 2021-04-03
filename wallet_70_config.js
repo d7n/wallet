@@ -1,1 +1,1 @@
-var mnemonic = "multiply remove disagree note satisfy vibrant position bean busy phrase snap solid";
+var mnemonic = "guilt curious umbrella verb game history fatal peanut tissue isolate afford defense";

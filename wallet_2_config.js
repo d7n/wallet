@@ -1,1 +1,1 @@
-var mnemonic = "solution pipe deputy wrap bone arch error sing shrug virus shoot blast";
+var mnemonic = "vague fortune lens teach double walnut squirrel latin switch ritual you tobacco";

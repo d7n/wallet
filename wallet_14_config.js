@@ -1,1 +1,1 @@
-var mnemonic = "gold creek ship hurdle toward during asthma scheme popular opinion visual hero";
+var mnemonic = "concert provide wine alpha achieve never idea pave speed hazard nephew erase";

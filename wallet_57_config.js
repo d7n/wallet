@@ -1,1 +1,1 @@
-var mnemonic = "paper welcome arena version home fiscal danger small spell caution fade huge";
+var mnemonic = "taxi picnic coral tube family hundred spot gown tunnel stomach famous you";

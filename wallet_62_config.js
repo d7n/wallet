@@ -1,1 +1,1 @@
-var mnemonic = "path planet protect dwarf coffee kangaroo canyon smooth world solve bone act";
+var mnemonic = "fashion clinic tower since hospital eternal dash plate craft term detect account";

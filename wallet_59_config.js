@@ -1,1 +1,1 @@
-var mnemonic = "alert absurd frame clever detect ten shock maximum access huge dolphin sight";
+var mnemonic = "neck pet sister junk material common deal scale swear reject also domain";

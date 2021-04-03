@@ -1,1 +1,1 @@
-var mnemonic = "actor tent either bachelor harsh will move wide shoot bachelor scare three";
+var mnemonic = "effort busy critic supply resist type face cruise echo edit purse stool";

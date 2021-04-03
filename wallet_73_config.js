@@ -1,1 +1,1 @@
-var mnemonic = "unique thunder romance theory flight travel collect arch betray wrap mountain genre";
+var mnemonic = "cattle element youth know grunt fault fiction dash safe pill cabin twice";

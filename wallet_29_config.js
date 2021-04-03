@@ -1,1 +1,1 @@
-var mnemonic = "harbor piece craft frequent best always idle style hub deputy blast burger";
+var mnemonic = "rocket leaf hurdle salt work food scrub slam sound print job split";
