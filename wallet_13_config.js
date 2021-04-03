@@ -1,1 +1,1 @@
-var mnemonic = "effort lunch actual melody govern when clump arena sketch fury property note";
+var mnemonic = "napkin hunt wave inhale wrestle rabbit humor fragile reopen yellow surround fan";

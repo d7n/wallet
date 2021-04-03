@@ -1,1 +1,1 @@
-var mnemonic = "camp absent pride ask fluid abandon logic muffin base sorry core stem";
+var mnemonic = "phone motion mass winter shine very abuse exist trophy clap charge hello";

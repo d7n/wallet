@@ -1,1 +1,1 @@
-var mnemonic = "finish weird arena reunion pumpkin decorate tomato below guilt split kangaroo north";
+var mnemonic = "shy federal hospital spread knife apology ride country genius stumble pistol journey";

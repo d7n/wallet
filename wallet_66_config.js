@@ -1,1 +1,1 @@
-var mnemonic = "track hunt carpet fury collect survey stem live access panda observe copy";
+var mnemonic = "luggage danger carry rebuild foam civil faculty cram foot ask bitter source";

@@ -1,1 +1,1 @@
-var mnemonic = "test two flash razor razor melody olympic move tongue general easily imitate";
+var mnemonic = "never autumn father cup verb ecology diesel execute grid atom million zoo";

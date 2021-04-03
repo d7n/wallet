@@ -1,1 +1,1 @@
-var mnemonic = "bicycle hair pledge rack gossip wild more right urban purity confirm motor";
+var mnemonic = "quantum travel denial opinion famous mercy gorilla duty aware hen chalk verb";

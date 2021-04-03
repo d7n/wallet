@@ -1,1 +1,1 @@
-var mnemonic = "fresh victory become expire limit guide insect logic milk few melody lobster";
+var mnemonic = "digital advance goddess two absurd zone offer rapid define afraid holiday list";

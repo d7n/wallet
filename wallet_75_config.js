@@ -1,1 +1,1 @@
-var mnemonic = "pudding genius february chair inherit cannon space bacon book crouch near liquid";
+var mnemonic = "primary craft behind change cake match need detect lamp drive metal protect";

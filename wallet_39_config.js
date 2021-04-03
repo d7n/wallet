@@ -1,1 +1,1 @@
-var mnemonic = "hat animal vast latin critic blouse music brass fan hover dragon donor";
+var mnemonic = "pioneer dust comfort super fork pig stable picture merry lottery pill potato";

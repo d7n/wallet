@@ -1,1 +1,1 @@
-var mnemonic = "vessel lens gentle under farm success riot animal swift small dilemma mail";
+var mnemonic = "pledge fit concert trick accuse bacon across nominee flower orchard danger walnut";

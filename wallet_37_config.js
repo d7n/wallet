@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow casual amount taxi wise salon gain hurdle end lizard ankle ghost";
+var mnemonic = "before safe industry quality april stumble pattern misery garage marble patient bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "jaguar stomach panic cup rely toss blanket start desert super awake sing";
+var mnemonic = "bright pelican business edit erode drop grape away expand talk civil duty";

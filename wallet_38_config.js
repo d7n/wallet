@@ -1,1 +1,1 @@
-var mnemonic = "inject abandon labor axis donor holiday park sunny judge prison brave good";
+var mnemonic = "donate argue trim ring mad year poet quiz north venue pulp toe";

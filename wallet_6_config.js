@@ -1,1 +1,1 @@
-var mnemonic = "forum child maid solve intact occur sell frog fence buffalo adjust dizzy";
+var mnemonic = "glance culture defy surprise maximum fiscal nephew sting dose wide present pottery";

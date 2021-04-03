@@ -1,1 +1,1 @@
-var mnemonic = "bunker need nuclear rule news execute grape visa bachelor rose unknown uncle";
+var mnemonic = "damage horror search paper glad ethics charge opera monkey essay target novel";

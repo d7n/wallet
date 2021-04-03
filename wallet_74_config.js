@@ -1,1 +1,1 @@
-var mnemonic = "scorpion view minute kid require scrub snow fortune exile age twin crystal";
+var mnemonic = "mask pelican proud subway river vote crop print box pool old owner";

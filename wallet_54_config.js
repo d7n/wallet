@@ -1,1 +1,1 @@
-var mnemonic = "empower novel valve paddle pull nut iron stage slim chair spawn change";
+var mnemonic = "exist tiny live few oppose armor cream eye airport lion like marine";

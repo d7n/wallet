@@ -1,1 +1,1 @@
-var mnemonic = "train taxi resist yellow farm wheel bulk feature choice senior rule diesel";
+var mnemonic = "essay ship february business nothing busy super enrich bike invite dust describe";

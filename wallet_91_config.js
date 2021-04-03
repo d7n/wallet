@@ -1,1 +1,1 @@
-var mnemonic = "water correct dry bargain movie express check fiction scale square scout owner";
+var mnemonic = "october marine admit match ignore seek deposit crew banner home idle detail";

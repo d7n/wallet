@@ -1,1 +1,1 @@
-var mnemonic = "affair cave resemble drive warm wall valve mixture ostrich agent peasant crystal";
+var mnemonic = "confirm arrow impulse long actual horse hungry favorite quantum balcony swear rather";

@@ -1,1 +1,1 @@
-var mnemonic = "small admit already uphold glass spoil muffin flee anchor project asset recipe";
+var mnemonic = "lonely puzzle item witness age foam aware anxiety disease boil dismiss baby";

@@ -1,1 +1,1 @@
-var mnemonic = "grid body dragon enhance salt enroll odor holiday insane cloud prevent summer";
+var mnemonic = "divorce reveal sample original honey salute agree cheap merge series become wall";

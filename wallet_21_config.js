@@ -1,1 +1,1 @@
-var mnemonic = "sick direct badge clap invest aisle check use frown defense surround rotate";
+var mnemonic = "kiss custom wheat student resemble drift sauce music orchard cliff maple return";

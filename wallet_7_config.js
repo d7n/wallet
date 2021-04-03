@@ -1,1 +1,1 @@
-var mnemonic = "absorb suspect hard pumpkin flee hammer upset dwarf income wide leg happy";
+var mnemonic = "dinosaur pig length remove giggle circle nephew claim crush exit sunny vocal";

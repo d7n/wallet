@@ -1,1 +1,1 @@
-var mnemonic = "pride spin topple clay cotton awake maze wash broken dirt under predict";
+var mnemonic = "famous explain air seed message essence general diamond upper front drink box";

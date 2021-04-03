@@ -1,1 +1,1 @@
-var mnemonic = "length spirit priority limb three vicious lens verb million vapor media eight";
+var mnemonic = "credit gain come alcohol chat average extend present decorate dust into turn";

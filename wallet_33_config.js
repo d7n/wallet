@@ -1,1 +1,1 @@
-var mnemonic = "senior agree cave slot struggle pilot desert toilet pepper together mouse deny";
+var mnemonic = "acquire hello motion hurdle junior wear transfer wisdom huge pill sadness main";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid occur escape arm caught laundry drive must frost open deal indicate";
+var mnemonic = "spray until maid broccoli exotic coffee shed range little call ankle fun";

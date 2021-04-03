@@ -1,1 +1,1 @@
-var mnemonic = "grid fruit ice still country village cement fortune draft soccer announce soft";
+var mnemonic = "drift oak impact industry connect element layer student useful delay endless resource";

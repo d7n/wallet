@@ -1,1 +1,1 @@
-var mnemonic = "trumpet fringe ride step lawn pizza tape wire express helmet notable capable";
+var mnemonic = "base space expire absurd galaxy goat chat wire section ketchup region accuse";

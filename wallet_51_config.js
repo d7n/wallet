@@ -1,1 +1,1 @@
-var mnemonic = "filter supply ripple foam fox parrot wide earth mass knee left speak";
+var mnemonic = "sphere boost angry crazy universe lyrics animal announce inquiry bomb skull island";

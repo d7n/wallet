@@ -1,1 +1,1 @@
-var mnemonic = "hair prepare reject shiver belt venture tip price column vote robust deal";
+var mnemonic = "credit master clutch earth mind soup aspect elevator length pretty face client";

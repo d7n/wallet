@@ -1,1 +1,1 @@
-var mnemonic = "warrior slim push witness refuse motor glow accuse muscle zoo dream lonely";
+var mnemonic = "start twist slight material reflect depend island angry zebra number doll depend";

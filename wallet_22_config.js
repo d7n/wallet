@@ -1,1 +1,1 @@
-var mnemonic = "lion school ball clarify shift globe tackle text uncover lobster silent mobile";
+var mnemonic = "wrap web cross glue horror view menu stock dwarf just tomorrow vessel";

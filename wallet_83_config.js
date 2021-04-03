@@ -1,1 +1,1 @@
-var mnemonic = "gasp embark priority address ten oyster whisper air verb lawsuit exit parent";
+var mnemonic = "gain viable tide appear manage olympic estate tree noise uphold ensure collect";

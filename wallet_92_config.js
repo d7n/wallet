@@ -1,1 +1,1 @@
-var mnemonic = "into vessel clock mother damage muffin edge deposit denial page offer economy";
+var mnemonic = "same ecology like relief supply minute tuition gown buzz fault twenty canyon";

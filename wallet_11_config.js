@@ -1,1 +1,1 @@
-var mnemonic = "join salute busy butter wine dinner invest kitten elite pluck region steel";
+var mnemonic = "fitness analyst spawn squeeze isolate fiscal portion session swift toward decline oak";

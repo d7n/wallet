@@ -1,1 +1,1 @@
-var mnemonic = "frame record review wonder cost output switch wasp cushion wreck defy speed";
+var mnemonic = "relief engine immense fetch wool strong merge scale palm short bulb violin";

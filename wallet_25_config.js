@@ -1,1 +1,1 @@
-var mnemonic = "describe bird slide blue young once parent effort answer win vehicle lunar";
+var mnemonic = "south mom door another roast renew truly just carry canyon during turtle";

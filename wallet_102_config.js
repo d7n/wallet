@@ -1,1 +1,1 @@
-var mnemonic = "endorse vibrant afraid ill trap next chapter horror armor direct pear library";
+var mnemonic = "fiber since rather crew record kiwi design shiver stamp toast real trust";

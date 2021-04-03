@@ -1,1 +1,1 @@
-var mnemonic = "rocket leaf hurdle salt work food scrub slam sound print job split";
+var mnemonic = "knock turn cupboard cheese symptom liberty main grit cheese stem lecture real";

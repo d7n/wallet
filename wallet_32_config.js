@@ -1,1 +1,1 @@
-var mnemonic = "earth cherry head elite action elevator cabin panic review decrease room teach";
+var mnemonic = "above pill crystal special sentence taste element split connect observe supply trash";

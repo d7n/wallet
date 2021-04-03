@@ -1,1 +1,1 @@
-var mnemonic = "effort busy critic supply resist type face cruise echo edit purse stool";
+var mnemonic = "grocery drip normal push protect fossil major lunch type situate cloth frog";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent sand more such poet nominee kangaroo mind bicycle message margin owner";
+var mnemonic = "slush spirit pilot room pencil lend what tube mother ghost flag attend";

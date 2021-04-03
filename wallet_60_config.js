@@ -1,1 +1,1 @@
-var mnemonic = "know chapter marble volcano empower good grit critic climb circle cave nature";
+var mnemonic = "estate demand park miss token shallow swap session movie sunny zebra fire";

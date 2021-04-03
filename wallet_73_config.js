@@ -1,1 +1,1 @@
-var mnemonic = "cattle element youth know grunt fault fiction dash safe pill cabin twice";
+var mnemonic = "learn disagree merit federal donate table bid topple green census trophy hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "truly honey champion lion sketch trade foil delay crew marble start enlist";
+var mnemonic = "dynamic chat raven neglect square side expect kind evil frequent permit ketchup";

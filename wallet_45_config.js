@@ -1,1 +1,1 @@
-var mnemonic = "warm mystery dilemma foster attack learn scatter voice train term apology oven";
+var mnemonic = "merry limit cute marble drum thing major resource hint bread impose sudden";

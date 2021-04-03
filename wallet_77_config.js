@@ -1,1 +1,1 @@
-var mnemonic = "program target elite you law deal habit hungry photo ritual awesome wide";
+var mnemonic = "leisure neglect oval junk twist about fossil frog subject quiz magic mesh";

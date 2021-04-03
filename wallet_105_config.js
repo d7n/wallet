@@ -1,1 +1,1 @@
-var mnemonic = "cement gain educate whip garden oxygen forest column balance link share large";
+var mnemonic = "excess image illness cup brand word easily phrase guilt swap large spend";

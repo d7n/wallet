@@ -1,1 +1,1 @@
-var mnemonic = "crop nothing usage lottery guilt truly peasant bottom dose answer hamster typical";
+var mnemonic = "scrap blood crew exile this list rare winter august core sunny hidden";

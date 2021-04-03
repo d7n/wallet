@@ -1,1 +1,1 @@
-var mnemonic = "earn appear raise unaware stumble spike lumber father health food stomach symbol";
+var mnemonic = "remain yellow favorite ketchup bag congress jazz admit inner doll toward interest";

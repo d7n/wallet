@@ -1,1 +1,1 @@
-var mnemonic = "verb mountain draw giraffe siren order vicious now miracle aisle blossom nice";
+var mnemonic = "demand pudding fall there husband void three together defy they vote favorite";

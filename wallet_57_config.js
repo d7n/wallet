@@ -1,1 +1,1 @@
-var mnemonic = "taxi picnic coral tube family hundred spot gown tunnel stomach famous you";
+var mnemonic = "increase inform face bike average reflect check wing all among obvious duty";

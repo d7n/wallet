@@ -1,1 +1,1 @@
-var mnemonic = "veteran state cereal swift sure involve donor siege fatigue dial valve wing";
+var mnemonic = "eager outer clock journey quality puzzle bottom cattle calm wrist scan swift";

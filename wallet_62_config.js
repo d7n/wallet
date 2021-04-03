@@ -1,1 +1,1 @@
-var mnemonic = "fashion clinic tower since hospital eternal dash plate craft term detect account";
+var mnemonic = "feed tomato whip two situate chuckle general razor addict pair amused fragile";

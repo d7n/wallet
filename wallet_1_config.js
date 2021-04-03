@@ -1,1 +1,1 @@
-var mnemonic = "sudden maid ostrich mesh brush venture enlist fog leave pelican add insect";
+var mnemonic = "swallow winner dumb drift rule voyage glide correct toilet saddle color emotion";

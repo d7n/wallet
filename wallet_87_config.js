@@ -1,1 +1,1 @@
-var mnemonic = "attitude city door vault fly enough diet stumble rug height derive floor";
+var mnemonic = "victory north bridge observe ride forget confirm envelope agree file stuff tunnel";

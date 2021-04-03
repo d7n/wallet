@@ -1,1 +1,1 @@
-var mnemonic = "metal anchor forest labor arrive swarm kidney ride dog city van exhibit";
+var mnemonic = "cruel repeat detect mean trim vote turtle few chair twelve uncle maid";

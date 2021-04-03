@@ -1,1 +1,1 @@
-var mnemonic = "rail crater gauge reopen always twenty memory doll before goddess stand joke";
+var mnemonic = "ignore palace bubble polar elevator fork eye connect tube check top gas";

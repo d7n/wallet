@@ -1,1 +1,1 @@
-var mnemonic = "decorate flash dog rubber predict unknown motion special burger shine crawl blade";
+var mnemonic = "alone call sponsor vacant flush slogan sound destroy deliver guide nurse verify";

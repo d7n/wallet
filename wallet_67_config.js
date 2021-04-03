@@ -1,1 +1,1 @@
-var mnemonic = "evil hour mass lady setup bomb pipe peasant clean jaguar hood mechanic";
+var mnemonic = "select control cause actress main butter school parrot gas version hollow payment";

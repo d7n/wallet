@@ -1,1 +1,1 @@
-var mnemonic = "excite cry series uncover crawl jeans border manual merge moral logic various";
+var mnemonic = "decade swarm eight angry tomato use brand cube great local negative mention";

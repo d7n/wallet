@@ -1,1 +1,1 @@
-var mnemonic = "identify leave flame banana awkward sudden bacon pumpkin reunion surprise frown solve";
+var mnemonic = "agree tumble soon climb random window patch smart beach soccer spray spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "trap snake jealous copy right frog raise multiply memory oblige mask call";
+var mnemonic = "test group bracket alarm marine arrange pass leg refuse story help ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "force provide violin course solve aspect front excess orange clock lounge margin";
+var mnemonic = "shoe pulp voice solution allow buddy come model fiction rain tuna lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "sail knife insane dumb penalty identify brave fruit infant salt wish catalog";
+var mnemonic = "horror hotel city supply category dragon disease pen entire entry rebel buddy";

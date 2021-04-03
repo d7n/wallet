@@ -1,1 +1,1 @@
-var mnemonic = "desk group reflect mountain park demise offer mind rate session rival mutual";
+var mnemonic = "salad garbage hockey update bird assault thumb lyrics ritual involve benefit obvious";

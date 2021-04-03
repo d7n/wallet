@@ -1,1 +1,1 @@
-var mnemonic = "wash blush now mention unit squeeze bracket disorder any job capital capable";
+var mnemonic = "sunset bacon topple globe virtual panther rice produce climb frost library road";

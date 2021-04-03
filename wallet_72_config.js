@@ -1,1 +1,1 @@
-var mnemonic = "elevator try upset sunset mystery offer student cricket shoe install resource van";
+var mnemonic = "relax blush skate sing action popular clarify aunt melody disorder sibling coach";

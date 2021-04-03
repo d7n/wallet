@@ -1,1 +1,1 @@
-var mnemonic = "emotion boat kingdom cook cradle inflict search field copy assume obey ripple";
+var mnemonic = "neither toss fury roast famous dilemma insect lunch pigeon wrist audit prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong unknown teach sail broom rich useless decade sphere letter symptom item";
+var mnemonic = "bubble weather lion engage brown recipe shield click tackle horse survey blouse";

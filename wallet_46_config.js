@@ -1,1 +1,1 @@
-var mnemonic = "burst hope reflect develop aerobic saddle must total earn glance treat solution";
+var mnemonic = "beauty van such window group offer bamboo wink carpet defy enable fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow rich health width obey swamp aerobic grape slice attack pyramid movie";
+var mnemonic = "junior elephant survey mixed mammal raw what title nasty almost magnet raven";

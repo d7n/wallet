@@ -1,1 +1,1 @@
-var mnemonic = "desk duck people sell play pony lecture unaware like prevent minor squeeze";
+var mnemonic = "bridge vapor bread hat arctic hero finish say argue grief cause dolphin";

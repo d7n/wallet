@@ -1,1 +1,1 @@
-var mnemonic = "dial fine universe cannon arrow glass dance ritual report tuna popular convince";
+var mnemonic = "work hero own news royal cinnamon pluck dad uncle chief medal arrest";

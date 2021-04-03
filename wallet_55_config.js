@@ -1,1 +1,1 @@
-var mnemonic = "pause rescue off shy close talk empty copper behind fold roof solar";
+var mnemonic = "injury dose useful exhaust margin blue effort urge alien address sick crop";

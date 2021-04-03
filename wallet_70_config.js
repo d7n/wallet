@@ -1,1 +1,1 @@
-var mnemonic = "guilt curious umbrella verb game history fatal peanut tissue isolate afford defense";
+var mnemonic = "prosper maze stage dance tornado trial misery marble chat excite vast ostrich";

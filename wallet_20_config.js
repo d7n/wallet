@@ -1,1 +1,1 @@
-var mnemonic = "drift valley clog lunch hurdle weather link sound galaxy size dutch ski";
+var mnemonic = "oxygen learn sort wide neglect giraffe breeze breeze voice bread abuse box";

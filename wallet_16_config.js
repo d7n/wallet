@@ -1,1 +1,1 @@
-var mnemonic = "oyster wife aisle emerge world special blanket issue half talent soccer spot";
+var mnemonic = "camera mule hill original maze powder endless song syrup final tell forward";

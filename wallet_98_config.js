@@ -1,1 +1,1 @@
-var mnemonic = "cage finger table turkey guard road company word blame faculty apart sauce";
+var mnemonic = "robot example ignore coffee session orchard fresh expect govern abuse weird rug";

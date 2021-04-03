@@ -1,1 +1,1 @@
-var mnemonic = "ivory kitchen fix hover photo dry truth goose winner define disorder hunt";
+var mnemonic = "awesome virtual blue buyer party raw broken deliver awake million pioneer bacon";

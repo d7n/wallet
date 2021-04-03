@@ -1,1 +1,1 @@
-var mnemonic = "uphold veteran armed record denial rate pigeon illegal urban inject saddle expect";
+var mnemonic = "furnace file diesel clap floor wall woman praise suit stick idea forum";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle tool useless excess myth sail pave abuse meat husband face uphold";
+var mnemonic = "pottery sugar canoe alert soldier win trade surge cram milk captain net";

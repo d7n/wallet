@@ -1,1 +1,1 @@
-var mnemonic = "erosion carpet message option left airport wave clean bachelor special simple pitch";
+var mnemonic = "force toss broom reform sausage improve profit fabric steel fury idea jewel";

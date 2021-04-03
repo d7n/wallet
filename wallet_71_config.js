@@ -1,1 +1,1 @@
-var mnemonic = "crisp office describe dumb hat marble party keen during above jacket concert";
+var mnemonic = "month goat rich plastic earth blade improve elite inject scheme gorilla rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve onion border property drop buzz another jacket tattoo ranch enlist pattern";
+var mnemonic = "zone yard atom river patch require tool increase nut chapter actor punch";

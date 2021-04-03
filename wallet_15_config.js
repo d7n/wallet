@@ -1,1 +1,1 @@
-var mnemonic = "use brick chest snow case cost useful hammer hurt return sadness theme";
+var mnemonic = "inherit veteran injury vibrant people gauge dismiss door sail sunny segment dust";

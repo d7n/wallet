@@ -1,1 +1,1 @@
-var mnemonic = "snow alert adult candy ticket problem iron wire conduct stable small skull";
+var mnemonic = "orange street word wagon rabbit reward quit small raccoon mix enjoy drive";
