@@ -1,1 +1,1 @@
-var mnemonic = "long divert fiction glory produce balcony angry script script cloud bridge step";
+var mnemonic = "diagram prosper price hair crazy move filter kite object jacket never mixed";

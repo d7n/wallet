@@ -1,1 +1,1 @@
-var mnemonic = "about elevator volume rate universe same vacant track slush minute leisure industry";
+var mnemonic = "major purse grant glory wear flag pioneer issue follow shoe miss album";

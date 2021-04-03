@@ -1,1 +1,1 @@
-var mnemonic = "nice couple soda fit patient trim spoon priority tide speak acid hammer";
+var mnemonic = "deny because loan note song sentence flight yellow world toddler notable over";

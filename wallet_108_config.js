@@ -1,1 +1,1 @@
-var mnemonic = "frown ginger rescue elephant life glimpse search vehicle emerge lunar busy coyote";
+var mnemonic = "feed illness nurse kid ship enter virtual party depend collect era unique";

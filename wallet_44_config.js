@@ -1,1 +1,1 @@
-var mnemonic = "kiwi burden awkward segment pen entry reflect melody bulk announce canal make";
+var mnemonic = "shrug genuine message easily market put off thank coast laugh disease result";

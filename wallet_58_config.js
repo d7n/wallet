@@ -1,1 +1,1 @@
-var mnemonic = "inquiry chest oyster spring chase slender rifle snake cruise next inside divide";
+var mnemonic = "hero egg exclude next gentle deposit pizza borrow drama include umbrella praise";

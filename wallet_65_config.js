@@ -1,1 +1,1 @@
-var mnemonic = "upset fence material remind antique stamp logic napkin expand blouse copy core";
+var mnemonic = "oven mesh sponsor frequent demand giggle harvest illegal random run idle license";

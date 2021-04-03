@@ -1,1 +1,1 @@
-var mnemonic = "sunset delay candy error amused weekend corn torch loyal inch ice orphan";
+var mnemonic = "spatial true embody series slight wasp impulse glow rug pull clap expect";

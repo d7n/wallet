@@ -1,1 +1,1 @@
-var mnemonic = "concert bind choice pipe snake lizard enroll laptop trumpet focus lake twenty";
+var mnemonic = "begin soul talent lock bracket scorpion vapor test empty system mushroom shy";

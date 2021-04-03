@@ -1,1 +1,1 @@
-var mnemonic = "route mammal consider sick crunch shallow speed catalog market once illegal palm";
+var mnemonic = "menu find duty slow color curve develop primary orange acoustic wrist wedding";

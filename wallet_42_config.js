@@ -1,1 +1,1 @@
-var mnemonic = "price wolf attend laundry promote suspect steak into dutch square page observe";
+var mnemonic = "master exhaust pig normal flight regular found oil point nephew live enroll";

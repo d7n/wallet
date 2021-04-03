@@ -1,1 +1,1 @@
-var mnemonic = "portion between want owner best group proof talk crucial steel hope friend";
+var mnemonic = "shoulder garment december faculty budget melt addict evil region tomato bus soap";

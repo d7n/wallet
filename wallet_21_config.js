@@ -1,1 +1,1 @@
-var mnemonic = "stereo sugar kangaroo grab list citizen shallow company expand rescue kid wage";
+var mnemonic = "sting display garment enter pulp prosper supply sponsor leave snap payment naive";

@@ -1,1 +1,1 @@
-var mnemonic = "token coin eyebrow lounge damp trouble cactus car brand among morning glance";
+var mnemonic = "exit sun forum eight organ immune rival dilemma develop scene path access";

@@ -1,1 +1,1 @@
-var mnemonic = "crush erupt side dog deny law grid attitude roast divert fresh basket";
+var mnemonic = "mom night risk sand void menu pond frame fun funny script sell";

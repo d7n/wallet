@@ -1,1 +1,1 @@
-var mnemonic = "unlock illegal host intact visit ring awkward student erode garment large toward";
+var mnemonic = "butter pill own grab immense couple tongue faith couch bitter rapid tired";

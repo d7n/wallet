@@ -1,1 +1,1 @@
-var mnemonic = "luggage garbage neutral broccoli gain length when typical infant gasp update process";
+var mnemonic = "okay reopen chapter minimum room around taste disorder couch tumble ignore into";

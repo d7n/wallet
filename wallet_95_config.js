@@ -1,1 +1,1 @@
-var mnemonic = "only skill switch double adapt sun emotion shine guilt fringe spray early";
+var mnemonic = "type math dwarf correct shed liar heavy mask weasel cliff lift pave";

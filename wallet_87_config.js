@@ -1,1 +1,1 @@
-var mnemonic = "defy inherit father pelican bone illness ritual slam swap point decorate panther";
+var mnemonic = "can defense pink wrestle plug between dismiss coyote balcony answer jeans frequent";

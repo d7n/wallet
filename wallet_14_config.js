@@ -1,1 +1,1 @@
-var mnemonic = "slim wine upon lonely proud step brain candy thing hobby ritual beyond";
+var mnemonic = "sauce someone trouble shiver cloud salute mango cotton gold helmet sun wife";

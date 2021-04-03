@@ -1,1 +1,1 @@
-var mnemonic = "oyster cluster position swing observe zebra settle lens neutral clay myth brisk";
+var mnemonic = "silly hockey remember leave lottery brief poem luxury trumpet gap siege cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "coil project acquire coin wear wheel index affair grunt festival before omit";
+var mnemonic = "erase laptop impulse ethics describe good ritual kind harvest hat retreat laptop";

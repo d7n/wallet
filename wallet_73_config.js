@@ -1,1 +1,1 @@
-var mnemonic = "mask chair lazy stairs egg replace tomorrow catalog naive clean must sunset";
+var mnemonic = "claw enrich enroll recipe liquid happy debate cloth decade nut vault point";

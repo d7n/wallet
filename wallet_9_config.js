@@ -1,1 +1,1 @@
-var mnemonic = "maximum smoke rug cable guess coil boat alpha arch hand fit excite";
+var mnemonic = "where degree ball accuse base jelly orchard tent panel now treat bunker";

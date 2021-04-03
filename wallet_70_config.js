@@ -1,1 +1,1 @@
-var mnemonic = "bulk vacant marble absent industry real reveal museum deer salad air hidden";
+var mnemonic = "comfort relax sport elevator furnace inherit ignore camera web earn gun burger";

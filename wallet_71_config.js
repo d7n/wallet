@@ -1,1 +1,1 @@
-var mnemonic = "drama wood rally purse hover skin install erosion cake ship equip kit";
+var mnemonic = "funny brick sadness broom color visual circle race gesture cat visa cloth";

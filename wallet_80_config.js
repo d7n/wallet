@@ -1,1 +1,1 @@
-var mnemonic = "convince vapor unit island basket history hybrid fix season obscure lottery kick";
+var mnemonic = "size input address pizza wave excuse exist code robust misery nurse cousin";

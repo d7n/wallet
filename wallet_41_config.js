@@ -1,1 +1,1 @@
-var mnemonic = "vital then diet panther jealous whale average phone hip industry slush fruit";
+var mnemonic = "garment three sorry milk turn term toy mobile cricket primary chief aspect";

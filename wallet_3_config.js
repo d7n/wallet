@@ -1,1 +1,1 @@
-var mnemonic = "diesel theory doll slam install dolphin harbor finish source badge page harsh";
+var mnemonic = "sister end lamp useful dish fuel novel dynamic expect render burger hard";

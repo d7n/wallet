@@ -1,1 +1,1 @@
-var mnemonic = "timber hour crisp mix love board walnut suspect eager relax kit simple";
+var mnemonic = "child vacant final damp saddle afraid solve stairs engage apology wagon nephew";

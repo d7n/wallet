@@ -1,1 +1,1 @@
-var mnemonic = "obey drop best base sketch iron clay transfer vintage anger tortoise apology";
+var mnemonic = "core card glad later digital trend finish door dragon grace noise ordinary";

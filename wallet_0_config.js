@@ -1,1 +1,1 @@
-var mnemonic = "habit soldier open drift acoustic rose rescue salmon pause awesome garment march";
+var mnemonic = "lemon good fever wolf season suspect high key cupboard fly crack conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "pill girl resist analyst east donate bind mercy language between sunset safe";
+var mnemonic = "boring jewel snake oven seven marine story egg trick palace museum wall";

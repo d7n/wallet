@@ -1,1 +1,1 @@
-var mnemonic = "guitar fuel loan fiscal eagle life employ warrior assist easy click deny";
+var mnemonic = "toast best candy canvas effort caution install traffic power lady strategy thank";

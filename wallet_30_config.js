@@ -1,1 +1,1 @@
-var mnemonic = "amateur goddess coach thumb body local trade abuse problem civil mix clip";
+var mnemonic = "follow fork apart match theory bless crowd harsh journey company spoil mixed";

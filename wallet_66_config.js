@@ -1,1 +1,1 @@
-var mnemonic = "swear puzzle fix moral crouch report tide knock matrix catalog crush west";
+var mnemonic = "only meat shadow game runway sand razor install fox vanish number myself";

@@ -1,1 +1,1 @@
-var mnemonic = "minute poverty daughter talk piece delay match wine element what lion firm";
+var mnemonic = "ancient pilot render sister harbor frame dune abuse pave humble ignore club";

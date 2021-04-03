@@ -1,1 +1,1 @@
-var mnemonic = "boy gravity write salon twist humor oval pet once maple laugh burger";
+var mnemonic = "glimpse situate inquiry month garbage key endless melody hero method champion number";

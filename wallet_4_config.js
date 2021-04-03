@@ -1,1 +1,1 @@
-var mnemonic = "normal hurry legend spawn mesh exact usage boring axis paper used pumpkin";
+var mnemonic = "couple icon dad master misery rain change panda razor find suggest mansion";

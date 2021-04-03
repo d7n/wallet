@@ -1,1 +1,1 @@
-var mnemonic = "used pave weather soda song yard hedgehog veteran human ginger element salon";
+var mnemonic = "day argue end capable swap coral actor tenant forum injury hunt island";

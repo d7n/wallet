@@ -1,1 +1,1 @@
-var mnemonic = "hover canvas gospel trim ripple addict help rice lunar clump happy slide";
+var mnemonic = "welcome media ceiling desk gasp sick rebuild size point nephew dutch damage";

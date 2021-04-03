@@ -1,1 +1,1 @@
-var mnemonic = "exist plug bullet palm potato craft amused help alcohol planet wasp list";
+var mnemonic = "nature stage sphere mercy moon paddle wagon cloud letter grow heart split";

@@ -1,1 +1,1 @@
-var mnemonic = "flip scissors garment cry damage duck saddle average good kitten discover opinion";
+var mnemonic = "bring such shrug sweet hard entire knock follow day lunar wasp picnic";

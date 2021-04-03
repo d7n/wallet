@@ -1,1 +1,1 @@
-var mnemonic = "valid acid voyage scale square drama little flavor episode rent achieve wood";
+var mnemonic = "ancient lucky also spare that video hip exile innocent kite above estate";

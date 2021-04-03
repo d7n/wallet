@@ -1,1 +1,1 @@
-var mnemonic = "put dragon couch match search reunion warrior clever first car belt initial";
+var mnemonic = "arrest denial uniform execute scatter disease bean act vapor near proof post";

@@ -1,1 +1,1 @@
-var mnemonic = "busy universe rate shaft bind chef physical onion cage fragile struggle erase";
+var mnemonic = "wing stamp rely monster alien main orchard tongue stand abstract hover school";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos draft olive vault quote sort region cement tape infant affair upon";
+var mnemonic = "stay license thumb toast pistol wing fold stamp aspect family beauty swing";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork bag involve program moral grain wrong quiz year erase duty camp";
+var mnemonic = "physical all horn coyote win minimum print deny mail clarify ordinary enrich";

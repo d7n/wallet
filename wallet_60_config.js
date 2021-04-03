@@ -1,1 +1,1 @@
-var mnemonic = "few loud sad plate fame helmet embrace change inside same bicycle column";
+var mnemonic = "dance sell thing hotel spirit steel cage satisfy fish fish fly drop";

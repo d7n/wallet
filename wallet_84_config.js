@@ -1,1 +1,1 @@
-var mnemonic = "panel robust balcony warm useful scissors autumn tag helmet angry figure explain";
+var mnemonic = "exclude identify riot sausage sport endorse poet bracket release charge city thrive";

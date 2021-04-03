@@ -1,1 +1,1 @@
-var mnemonic = "fashion market hurry simple perfect sorry scout tomato twin tortoise hawk smart";
+var mnemonic = "agent sock sport cloth decrease task young rib smoke monitor civil scan";

@@ -1,1 +1,1 @@
-var mnemonic = "lab deny motor ski cement armed sentence nose adapt silent enroll hen";
+var mnemonic = "figure lemon replace flag alter card know flavor correct pistol used rhythm";

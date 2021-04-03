@@ -1,1 +1,1 @@
-var mnemonic = "alien castle become equip average blind surprise ranch flash chest absorb seminar";
+var mnemonic = "witness language blame victory run pigeon snack vibrant frog exotic banner ride";

@@ -1,1 +1,1 @@
-var mnemonic = "chase twenty industry web team damage spider sense garment antenna accuse produce";
+var mnemonic = "fetch filter ocean stumble idea vendor shallow abstract live dash option profit";

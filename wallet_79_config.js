@@ -1,1 +1,1 @@
-var mnemonic = "negative measure glad armed concert seminar decade spoon like glass world leisure";
+var mnemonic = "bacon gate gun believe pelican off range cereal debris dance visit wedding";

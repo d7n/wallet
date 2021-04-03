@@ -1,1 +1,1 @@
-var mnemonic = "mechanic century ginger fatal give matter pottery crew pond banner lava fault";
+var mnemonic = "bubble today sing provide abuse thank receive avocado draft morning jaguar wine";

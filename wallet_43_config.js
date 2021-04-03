@@ -1,1 +1,1 @@
-var mnemonic = "horror chef first amateur trigger boss file great joy near pumpkin mixture";
+var mnemonic = "clump pulse switch desk space decrease kit february cruel liar marble shallow";

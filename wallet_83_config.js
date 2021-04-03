@@ -1,1 +1,1 @@
-var mnemonic = "version canal consider orbit worry world pond wear gauge flee vendor bone";
+var mnemonic = "rebel broken robust unfair fun stereo canoe gaze scene still prevent alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare luggage cousin doll enlist pluck online width saddle wink possible winter";
+var mnemonic = "vehicle among absorb marine clap element sample glide side carbon robust furnace";

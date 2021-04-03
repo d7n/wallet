@@ -1,1 +1,1 @@
-var mnemonic = "pass staff loyal cost unfold face neutral crucial program hope hold episode";
+var mnemonic = "during jar addict spin giggle record inflict clinic prefer describe dutch sell";

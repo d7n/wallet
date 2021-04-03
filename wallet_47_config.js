@@ -1,1 +1,1 @@
-var mnemonic = "will frown organ grow better cover soup cable avoid assault social bomb";
+var mnemonic = "elegant powder empower over orange ghost tonight salt skill skin pill float";

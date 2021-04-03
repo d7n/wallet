@@ -1,1 +1,1 @@
-var mnemonic = "manage erosion olympic trade brief pudding move door spirit today cream letter";
+var mnemonic = "lunar almost torch hover bird motor history sponsor aisle jeans guide dog";

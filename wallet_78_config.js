@@ -1,1 +1,1 @@
-var mnemonic = "leg liquid tape cream apple remain soon rack buddy obey salad vacuum";
+var mnemonic = "judge rival column plug height violin park aware balance roof grunt sick";

@@ -1,1 +1,1 @@
-var mnemonic = "category dumb clump field round mesh whisper proud upon cross mixture nominee";
+var mnemonic = "announce acquire device symptom gospel pledge profit define lemon hidden subject drastic";

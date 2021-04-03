@@ -1,1 +1,1 @@
-var mnemonic = "cliff bind action slide matrix champion they tomorrow fold quantum deer vessel";
+var mnemonic = "chapter prefer lazy wink awkward fever wedding source carpet answer buzz brass";

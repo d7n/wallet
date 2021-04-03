@@ -1,1 +1,1 @@
-var mnemonic = "senior skin grass very system winter awkward blouse task genius affair hope";
+var mnemonic = "proud service trumpet welcome squeeze yard pause sick canal nerve sport online";

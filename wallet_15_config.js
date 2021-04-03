@@ -1,1 +1,1 @@
-var mnemonic = "reflect call pledge brisk side core much ill denial smoke chaos crew";
+var mnemonic = "sunset relief twin fuel off lyrics angry image corn fragile spare remember";

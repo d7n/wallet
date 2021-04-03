@@ -1,1 +1,1 @@
-var mnemonic = "universe fresh finish ugly spare unfair chuckle follow dismiss pride chest struggle";
+var mnemonic = "mom suggest stomach length market ridge venture basket shock elbow spin bridge";

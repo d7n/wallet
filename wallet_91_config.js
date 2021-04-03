@@ -1,1 +1,1 @@
-var mnemonic = "buyer token observe kit time loan paper runway neutral moment north check";
+var mnemonic = "swing kind finger brass butter pizza fan cream resist sister blind curtain";

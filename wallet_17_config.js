@@ -1,1 +1,1 @@
-var mnemonic = "manual naive long silly ship test glass romance point glove express lounge";
+var mnemonic = "east side violin shallow hockey random mind brown love install city atom";

@@ -1,1 +1,1 @@
-var mnemonic = "retreat congress pumpkin into trade ladder check rain drive tongue visual entire";
+var mnemonic = "tank pause renew million exotic wool ignore diesel across view key hidden";

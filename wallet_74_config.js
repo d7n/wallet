@@ -1,1 +1,1 @@
-var mnemonic = "verify own sand comic left club until balance nest bleak forest tragic";
+var mnemonic = "celery rebel final project people brisk hotel smart voyage attract gadget theory";

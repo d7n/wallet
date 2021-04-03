@@ -1,1 +1,1 @@
-var mnemonic = "service august excuse nuclear beyond trim process stable below zoo mosquito among";
+var mnemonic = "leave job team protect tube barely health same beauty plastic tape chronic";

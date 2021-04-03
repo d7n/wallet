@@ -1,1 +1,1 @@
-var mnemonic = "fee side street offer coil alpha visa evoke rival scare asthma calm";
+var mnemonic = "bulb normal mountain nasty brisk fox adult remove list cushion cradle goat";

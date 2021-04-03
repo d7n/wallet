@@ -1,1 +1,1 @@
-var mnemonic = "donkey gloom glimpse title attract banner soccer empty tool bundle iron involve";
+var mnemonic = "bone kite slice crash lawn develop decide bulk answer certain fossil panda";

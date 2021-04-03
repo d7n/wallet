@@ -1,1 +1,1 @@
-var mnemonic = "equal rotate warrior slab already wisdom royal sketch artwork boat engage minimum";
+var mnemonic = "cliff travel wash ugly used public control miracle caught hamster hunt gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate blood divide disorder early holiday legal siege sadness clerk tobacco brass";
+var mnemonic = "wasp afraid cricket topic silk calm music scale limit ancient social elegant";

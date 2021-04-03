@@ -1,1 +1,1 @@
-var mnemonic = "palace crop differ range boss potato shop matrix lecture evoke slab state";
+var mnemonic = "safe reason garbage ship civil sight dune dragon balcony swear erode obscure";

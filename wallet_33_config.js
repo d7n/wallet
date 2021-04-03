@@ -1,1 +1,1 @@
-var mnemonic = "either harbor runway start lonely lesson city oil fork awake relief party";
+var mnemonic = "exclude gaze riot coil swift okay abandon exotic trophy extra path enemy";

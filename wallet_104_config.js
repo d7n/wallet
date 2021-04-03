@@ -1,1 +1,1 @@
-var mnemonic = "orphan fabric toy knife pencil collect connect equip useful piano edge insane";
+var mnemonic = "quality drastic frost neutral pole cannon suggest wine tenant error fatigue ranch";

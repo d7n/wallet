@@ -1,1 +1,1 @@
-var mnemonic = "egg orient bonus siege urban warm west resist cook hollow pride clutch";
+var mnemonic = "honey man december cheap merge truth traffic hair use twelve excuse rich";

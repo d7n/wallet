@@ -1,1 +1,1 @@
-var mnemonic = "brush scout fury busy round capital margin remember egg slam permit erode";
+var mnemonic = "wall sunny office erupt sunny dial argue forest again school stadium alley";

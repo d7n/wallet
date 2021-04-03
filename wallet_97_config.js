@@ -1,1 +1,1 @@
-var mnemonic = "visit web modify alone knife around grant wink farm close transfer urge";
+var mnemonic = "organ banana damp minor gesture huge poem green rent picnic pottery dumb";

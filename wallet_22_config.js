@@ -1,1 +1,1 @@
-var mnemonic = "senior review weasel number decline pact cabbage educate metal laptop also vast";
+var mnemonic = "idle tuition viable child output response sing climb rich grape cereal sustain";

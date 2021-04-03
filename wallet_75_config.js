@@ -1,1 +1,1 @@
-var mnemonic = "decorate baby blanket denial assault mass subject injury slim spike stadium fluid";
+var mnemonic = "diet drop heart dinosaur soup drastic belt road elite green october easy";

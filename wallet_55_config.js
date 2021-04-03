@@ -1,1 +1,1 @@
-var mnemonic = "forget vast civil athlete panic glare plate popular merge hedgehog weird space";
+var mnemonic = "require mushroom control raise buddy income mixture option armor sense stand circle";

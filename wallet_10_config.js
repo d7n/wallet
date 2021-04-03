@@ -1,1 +1,1 @@
-var mnemonic = "thing antenna pledge morning whip ankle congress install coyote general sure analyst";
+var mnemonic = "mail current dragon old merge frog august tornado never waste owner someone";

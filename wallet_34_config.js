@@ -1,1 +1,1 @@
-var mnemonic = "hire beef novel fame dad real dice anchor junior forest trumpet water";
+var mnemonic = "clever water odor pilot fruit lyrics aim jar adjust ignore sheriff emerge";

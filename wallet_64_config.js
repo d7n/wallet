@@ -1,1 +1,1 @@
-var mnemonic = "strategy health salon grocery milk clarify panther agent buzz visa ripple glimpse";
+var mnemonic = "upon shield level cliff panda best fatigue jungle lady network fox offer";

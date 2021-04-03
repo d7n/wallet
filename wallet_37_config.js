@@ -1,1 +1,1 @@
-var mnemonic = "rely deliver left turkey fall horror release abandon disorder core world bind";
+var mnemonic = "shadow plunge snap cause absent true mosquito radar envelope sphere eight comic";

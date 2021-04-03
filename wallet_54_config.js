@@ -1,1 +1,1 @@
-var mnemonic = "birth web judge blast another jar room wasp draft similar other yellow";
+var mnemonic = "banana time ready oblige soda domain toast rotate lyrics skin brief ethics";

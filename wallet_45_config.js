@@ -1,1 +1,1 @@
-var mnemonic = "collect unfold aware plunge exhaust lens upper caution reject voyage deer middle";
+var mnemonic = "dry ripple fantasy warrior include saddle wrap give wrist flower undo food";

@@ -1,1 +1,1 @@
-var mnemonic = "hope reward adjust anger plastic you bike slot catch vicious pulse must";
+var mnemonic = "off shy obscure adult uncover coach blanket idle peanut pole truck depend";
