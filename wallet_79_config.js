@@ -1,1 +1,1 @@
-var mnemonic = "text cargo wide another decline nasty cousin buzz potato coin long service";
+var mnemonic = "keen rabbit shadow choice cube essay increase belt lottery method blossom hold";

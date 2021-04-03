@@ -1,1 +1,1 @@
-var mnemonic = "pipe buyer gauge ramp call excess area wife snake game rescue swamp";
+var mnemonic = "scout tonight decrease latin dignity young trial film present border evoke loyal";

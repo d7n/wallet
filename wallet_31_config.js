@@ -1,1 +1,1 @@
-var mnemonic = "news shrug there puppy acid thank million scale reopen scrub minor diet";
+var mnemonic = "fever glue venture lemon animal stock tourist tiny popular pond caught oyster";

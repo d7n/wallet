@@ -1,1 +1,1 @@
-var mnemonic = "room copy grit party autumn job penalty next lottery neither worry thumb";
+var mnemonic = "link prefer eager connect shoulder unaware pilot attend boat inspire drink month";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel they gain rib popular ugly badge wolf forum eager top wheat";
+var mnemonic = "fluid assault series smart arrest someone endless increase suggest joy report double";

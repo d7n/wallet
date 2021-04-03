@@ -1,1 +1,1 @@
-var mnemonic = "isolate bread damage vault cube ring torch practice error actor cruise primary";
+var mnemonic = "victory jungle donate uphold recall jewel predict begin height bullet vendor certain";

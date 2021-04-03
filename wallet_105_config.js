@@ -1,1 +1,1 @@
-var mnemonic = "guitar wish drink march clarify buffalo umbrella surprise copy cargo final swift";
+var mnemonic = "awesome aunt muscle allow wire absurd hungry quarter stomach rigid eye swarm";

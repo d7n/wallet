@@ -1,1 +1,1 @@
-var mnemonic = "develop useless reward toe tower fun sock rather ice orchard cheap heavy";
+var mnemonic = "gorilla unable orchard occur cushion deny more text hundred come tuna clip";

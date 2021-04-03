@@ -1,1 +1,1 @@
-var mnemonic = "edge reunion render engage slight cargo object zoo measure flock fish develop";
+var mnemonic = "beauty what cream install dry region dove diary ridge next reopen oval";

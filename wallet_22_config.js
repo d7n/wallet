@@ -1,1 +1,1 @@
-var mnemonic = "orphan dynamic swarm visual recycle noble trash valid angle interest slide black";
+var mnemonic = "moral glove finger genre gap portion wheel purchase aerobic ivory prison sock";

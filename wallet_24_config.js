@@ -1,1 +1,1 @@
-var mnemonic = "team fabric palm similar pizza silver mango october use amused helmet drop";
+var mnemonic = "gossip gadget hurt party basket beauty sure mail museum bid fetch february";

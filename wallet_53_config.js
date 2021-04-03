@@ -1,1 +1,1 @@
-var mnemonic = "word base decorate earn seat dove siren whisper garden weird edge day";
+var mnemonic = "gasp betray village crater index sleep spike shuffle mail wrap convince afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "great stone eye barely inhale tumble ignore brother shell pass long tongue";
+var mnemonic = "cereal hollow apart fluid dignity awake repeat message olympic stay ecology timber";

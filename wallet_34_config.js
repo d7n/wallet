@@ -1,1 +1,1 @@
-var mnemonic = "dutch vapor twenty toilet suffer unaware trim junior fly truck innocent idle";
+var mnemonic = "ankle interest paddle rebel top reform advance vendor battle leisure airport buddy";

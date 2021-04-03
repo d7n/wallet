@@ -1,1 +1,1 @@
-var mnemonic = "nasty wild jelly gate wedding essence swallow kiwi joy pony slim replace";
+var mnemonic = "repair error jazz swarm glove visit breeze material cram spawn pelican minor";

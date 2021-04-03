@@ -1,1 +1,1 @@
-var mnemonic = "hidden client eagle vacant debate quick lunar nuclear tip neither weasel daring";
+var mnemonic = "insect excess milk comic medal daring easily autumn carbon keen bean arrive";

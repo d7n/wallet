@@ -1,1 +1,1 @@
-var mnemonic = "roast robust milk alert few century expose public orchard heart milk victory";
+var mnemonic = "purity seven brick naive retreat exhibit initial atom science economy try social";

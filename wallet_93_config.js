@@ -1,1 +1,1 @@
-var mnemonic = "that where budget legend grief slot rescue bridge wing special smile frame";
+var mnemonic = "good hungry filter express knee behind honey victory umbrella join school wonder";

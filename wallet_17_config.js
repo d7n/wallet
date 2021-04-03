@@ -1,1 +1,1 @@
-var mnemonic = "receive picture gasp keen join lazy brisk blur mountain dad spirit alarm";
+var mnemonic = "reunion august dumb apple judge reveal pretty stumble perfect venue garlic arrange";

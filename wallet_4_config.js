@@ -1,1 +1,1 @@
-var mnemonic = "kind spring exhaust ready actual picnic neutral tuition later soft gentle version";
+var mnemonic = "lamp enhance deliver junior energy clip ostrich wagon awesome real swap embrace";

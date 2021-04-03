@@ -1,1 +1,1 @@
-var mnemonic = "rebuild return element license chest meat govern fragile state hybrid fun story";
+var mnemonic = "poverty float ring trophy tobacco cushion antique resource grass grit lake best";

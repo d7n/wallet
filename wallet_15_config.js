@@ -1,1 +1,1 @@
-var mnemonic = "jar expose climb frequent because tiny peasant gun south digital spray blouse";
+var mnemonic = "elephant quarter divorce aspect dignity pudding unusual valve scene wish course section";

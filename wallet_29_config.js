@@ -1,1 +1,1 @@
-var mnemonic = "draw garment fatigue abuse lonely tell segment switch visit weird fiscal first";
+var mnemonic = "mixture river tube height hawk sleep trade cattle blood unknown coyote debate";

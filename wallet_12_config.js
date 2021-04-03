@@ -1,1 +1,1 @@
-var mnemonic = "debris analyst echo police laundry identify broccoli gadget merit elder reason flower";
+var mnemonic = "normal exist side bless marble exhaust miss bomb slide bird magic modify";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic moon casino cruise replace ice giant trouble armor hair visual vibrant";
+var mnemonic = "brain behind method protect purpose swing dismiss input satoshi outer volcano lab";

@@ -1,1 +1,1 @@
-var mnemonic = "slide twelve decline oven raccoon salmon miracle oblige tongue toilet visit hurt";
+var mnemonic = "exact impulse asthma slogan biology horn already tattoo company deliver topple rich";

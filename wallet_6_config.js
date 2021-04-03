@@ -1,1 +1,1 @@
-var mnemonic = "vocal awake fog scatter become idle cinnamon prevent nerve fashion urban version";
+var mnemonic = "rabbit rude ridge undo hunt index chair task host shallow finger private";

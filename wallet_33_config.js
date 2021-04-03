@@ -1,1 +1,1 @@
-var mnemonic = "sort glimpse cereal horn unveil quit pluck shuffle balance process north stamp";
+var mnemonic = "income supreme shop powder choose bitter picture pull skill utility speed spoil";

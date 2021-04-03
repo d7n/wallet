@@ -1,1 +1,1 @@
-var mnemonic = "shy dignity dolphin core wild hurt armor vacuum wreck decide acquire menu";
+var mnemonic = "castle together gauge town horse exit earth useless wolf true foot civil";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom cabbage trap safe relief audit electric famous chase rib fitness choice";
+var mnemonic = "fine sad stadium congress oil hammer gaze camp army chronic rely strong";

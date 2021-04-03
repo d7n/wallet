@@ -1,1 +1,1 @@
-var mnemonic = "awake trap remain mango merit rocket pet apart avoid mercy release age";
+var mnemonic = "minimum fix lumber vacant another sheriff extend flock gentle bench night calm";

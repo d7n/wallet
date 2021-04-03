@@ -1,1 +1,1 @@
-var mnemonic = "degree duty fashion retire hedgehog clinic weapon error seven script west spoil";
+var mnemonic = "planet hamster laugh damage employ park hood special bomb dismiss soap hamster";

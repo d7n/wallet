@@ -1,1 +1,1 @@
-var mnemonic = "host between movie live enjoy rail walnut sleep time album cargo suggest";
+var mnemonic = "arrive city family elevator pilot blouse vanish ramp carry gadget bike hammer";

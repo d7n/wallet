@@ -1,1 +1,1 @@
-var mnemonic = "fatal fever detail flip deliver shoe wagon retreat mechanic measure rifle amount";
+var mnemonic = "fit swear dove basket detail frost brick make wonder spawn sea pet";

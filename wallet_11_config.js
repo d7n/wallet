@@ -1,1 +1,1 @@
-var mnemonic = "two stage develop glove plastic race alert session hungry person vendor razor";
+var mnemonic = "employ custom grass maid always diamond nominee inform push best only open";

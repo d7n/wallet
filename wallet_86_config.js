@@ -1,1 +1,1 @@
-var mnemonic = "dial donkey two drift donkey flag orange valley grid cactus sniff sell";
+var mnemonic = "smart cute produce once grape blanket odor robot crouch lion boil staff";

@@ -1,1 +1,1 @@
-var mnemonic = "episode spy save crumble enter razor skate mutual deer chalk energy drip";
+var mnemonic = "marriage liberty modify ring fiber east easily march awesome treat funny venture";

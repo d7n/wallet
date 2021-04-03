@@ -1,1 +1,1 @@
-var mnemonic = "cherry history monkey piece flight coil husband ancient ostrich shell topple route";
+var mnemonic = "radio repair sadness element spoon chapter submit obtain cannon notable economy code";

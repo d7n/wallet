@@ -1,1 +1,1 @@
-var mnemonic = "age mechanic party view shoot axis quiz inner input lizard fuel boost";
+var mnemonic = "such adapt usual pause dish small miss venue faculty snap nurse bind";

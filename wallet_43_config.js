@@ -1,1 +1,1 @@
-var mnemonic = "forest verify giggle own equal clap solve island occur inhale lawn name";
+var mnemonic = "cream indicate fragile size attract consider rotate buyer assume proof economy portion";

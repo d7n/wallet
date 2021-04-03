@@ -1,1 +1,1 @@
-var mnemonic = "horror improve syrup inhale east mobile moon relief discover rally adult lobster";
+var mnemonic = "sock section gaze brain salon strategy enact cash disorder moment vintage cupboard";

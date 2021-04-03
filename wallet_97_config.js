@@ -1,1 +1,1 @@
-var mnemonic = "palm bullet tone reveal danger capital shove exchange veteran thank bleak industry";
+var mnemonic = "fatigue priority short depart vast nuclear animal merit fresh ankle swing olympic";

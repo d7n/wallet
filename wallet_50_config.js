@@ -1,1 +1,1 @@
-var mnemonic = "flee replace ability man dry dragon secret know clarify spirit goat cruel";
+var mnemonic = "region fortune detail axis accident cattle extend nuclear bar where voyage brick";

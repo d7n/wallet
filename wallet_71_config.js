@@ -1,1 +1,1 @@
-var mnemonic = "vehicle effort evolve render rude rude carbon cactus decrease mammal agree zone";
+var mnemonic = "ask obtain dose before shiver mobile dutch stool belt caught ignore clarify";

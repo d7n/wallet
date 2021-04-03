@@ -1,1 +1,1 @@
-var mnemonic = "duty addict scatter venue smile black zero visual caught ribbon shed seat";
+var mnemonic = "vessel clump salute outdoor hub mail cotton mom hint misery blind dice";

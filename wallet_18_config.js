@@ -1,1 +1,1 @@
-var mnemonic = "quote gaze coin resource awful level lawsuit summer follow then grain green";
+var mnemonic = "fiber question punch very proud labor street tiny park nephew arctic yard";

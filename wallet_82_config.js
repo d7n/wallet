@@ -1,1 +1,1 @@
-var mnemonic = "black season inform material host flock talent abandon slab bean original theme";
+var mnemonic = "oyster mistake weasel spice album whip sport travel brave satoshi goat thrive";

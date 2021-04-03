@@ -1,1 +1,1 @@
-var mnemonic = "duty spray hard axis knee artist insect drill devote enemy mouse ancient";
+var mnemonic = "forget comic hand pride afraid quit plastic slab retreat kid fence stairs";

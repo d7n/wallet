@@ -1,1 +1,1 @@
-var mnemonic = "ill enough firm enforce bulb vessel inspire useful awful foil cloth build";
+var mnemonic = "favorite final sell mix father stand flush ten patrol spoil youth myself";

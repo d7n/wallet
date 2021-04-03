@@ -1,1 +1,1 @@
-var mnemonic = "alert praise mammal thank end mobile soon comfort tornado decade tag peasant";
+var mnemonic = "prosper round erode lab ivory debris junior water spend series group umbrella";

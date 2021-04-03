@@ -1,1 +1,1 @@
-var mnemonic = "furnace style misery notice viable loyal sad when end hundred slice forest";
+var mnemonic = "shock museum surface help valid calm vivid lamp erupt excuse way speed";

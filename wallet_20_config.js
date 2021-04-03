@@ -1,1 +1,1 @@
-var mnemonic = "glove black innocent water pill maximum civil half affair sentence doll shine";
+var mnemonic = "clock used embark vendor ribbon until reveal margin visit glide okay october";

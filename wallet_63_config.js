@@ -1,1 +1,1 @@
-var mnemonic = "card spike sting deposit demise sign grass dash gun valve spin uniform";
+var mnemonic = "bleak other mirror regular split alcohol sweet report bullet prize bounce split";

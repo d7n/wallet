@@ -1,1 +1,1 @@
-var mnemonic = "evidence talk erase chair hotel paddle bamboo medal invest assume illegal leaf";
+var mnemonic = "caught ready direct alone middle dentist live mixed spare brass melody quick";

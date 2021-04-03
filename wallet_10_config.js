@@ -1,1 +1,1 @@
-var mnemonic = "lady expire mechanic invite include banner call ankle remove razor foot noodle";
+var mnemonic = "rescue tide spell denial ugly insane voyage party strong anchor they cabbage";

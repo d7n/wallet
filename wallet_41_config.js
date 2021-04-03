@@ -1,1 +1,1 @@
-var mnemonic = "blouse brief roast woman custom legal soap inform furnace fuel mass second";
+var mnemonic = "daughter cluster ramp disease cross recall skill real episode now ostrich turtle";

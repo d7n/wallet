@@ -1,1 +1,1 @@
-var mnemonic = "cart sentence begin puzzle arena sea globe decorate then crew boss orbit";
+var mnemonic = "favorite process siren vapor random toast survey gadget hockey avocado soup broken";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic link light joy saddle success rookie alley syrup retreat song vacant";
+var mnemonic = "slide describe derive since focus sister vapor prefer allow spell guilt pole";

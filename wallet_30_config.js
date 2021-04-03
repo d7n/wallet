@@ -1,1 +1,1 @@
-var mnemonic = "truth cash chapter spoil embody sad kite margin scorpion dream wrap pen";
+var mnemonic = "subway thought limb test tenant tilt fluid mask stone grain upper benefit";

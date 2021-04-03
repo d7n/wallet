@@ -1,1 +1,1 @@
-var mnemonic = "all relax taste fly east matrix report cruel pass connect eternal curve";
+var mnemonic = "acid loan flock stamp more shoe novel text cool cry pride reason";

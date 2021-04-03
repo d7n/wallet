@@ -1,1 +1,1 @@
-var mnemonic = "arrest crush piano assault because boil ocean loyal prepare doctor smile round";
+var mnemonic = "rain again unique early oblige refuse spatial dry glad jungle display sand";

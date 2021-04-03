@@ -1,1 +1,1 @@
-var mnemonic = "jelly recall cradle dune lounge sentence unlock media embark smooth hub armor";
+var mnemonic = "truly few boring reopen solution audit rebel visual coconut only swift fish";

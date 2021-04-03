@@ -1,1 +1,1 @@
-var mnemonic = "truly cup input point glory very entry ordinary maple fragile sponsor rule";
+var mnemonic = "detect arch lobster wise hockey merry clinic whisper river inch miss rude";

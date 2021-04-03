@@ -1,1 +1,1 @@
-var mnemonic = "term enhance color buddy cannon resemble topple brave exile wrap pen space";
+var mnemonic = "doctor clown mask glory more drastic burst matrix couch jazz modify feel";

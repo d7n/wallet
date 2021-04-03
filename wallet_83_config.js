@@ -1,1 +1,1 @@
-var mnemonic = "ghost tone angry head unaware smile panel wall baby miss jealous write";
+var mnemonic = "lab popular foster moment zoo entry sell luggage caution practice caught high";

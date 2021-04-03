@@ -1,1 +1,1 @@
-var mnemonic = "valve high veteran autumn emotion vessel zebra image screen cloth ghost patient";
+var mnemonic = "track avocado diary benefit destroy fan lock trend group tiny light raise";

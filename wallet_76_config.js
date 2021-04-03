@@ -1,1 +1,1 @@
-var mnemonic = "convince gun fiscal ahead idle recall element fossil hidden dismiss glass burger";
+var mnemonic = "rebel deliver indoor deliver rain tent dress finish athlete someone scorpion behind";

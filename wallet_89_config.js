@@ -1,1 +1,1 @@
-var mnemonic = "allow charge rose federal parade hill engine sentence common air bunker ten";
+var mnemonic = "try fold tilt diamond boy flag enter fence action certain wife maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "census love like slight more churn follow cream denial coral diagram guitar";
+var mnemonic = "wide story social helmet casual stadium drift cloth raccoon blame neutral income";

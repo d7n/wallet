@@ -1,1 +1,1 @@
-var mnemonic = "south chat october abstract lab husband income coach bachelor salad smile lake";
+var mnemonic = "report ancient dutch material state walnut dutch sure flip photo inform once";

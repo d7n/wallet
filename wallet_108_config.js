@@ -1,1 +1,1 @@
-var mnemonic = "ginger path convince fluid square cave equip leisure slender school rapid shrug";
+var mnemonic = "over rotate message castle meat random gesture cattle dizzy margin rifle key";

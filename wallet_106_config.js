@@ -1,1 +1,1 @@
-var mnemonic = "regular bring crawl more celery brain disorder glue pluck donor weather midnight";
+var mnemonic = "shop smile summer floor fox absent answer put pupil boost onion crystal";

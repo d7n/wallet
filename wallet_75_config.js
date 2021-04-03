@@ -1,1 +1,1 @@
-var mnemonic = "glass danger organ craft blur luggage spend orange vivid clever market narrow";
+var mnemonic = "crystal praise faculty exotic good carbon neither resemble winter ketchup kangaroo wood";

@@ -1,1 +1,1 @@
-var mnemonic = "one slush unit try shed sun crisp turkey lobster math fault glow";
+var mnemonic = "rookie jar orphan property super lunar silk tape resource three insane treat";

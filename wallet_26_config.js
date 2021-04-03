@@ -1,1 +1,1 @@
-var mnemonic = "primary grab include clinic pill bind truck repair wild tomorrow advice predict";
+var mnemonic = "ginger ancient tumble popular pull swear emerge eight ball despair second logic";

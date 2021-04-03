@@ -1,1 +1,1 @@
-var mnemonic = "dog impulse eternal party canal resemble confirm march wrist hurt limb inject";
+var mnemonic = "route jar brave merry index soft degree panda amateur knife victory pig";

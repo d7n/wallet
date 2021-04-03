@@ -1,1 +1,1 @@
-var mnemonic = "frozen inner trumpet rude noble wheel manual desk index galaxy basic dice";
+var mnemonic = "radio slush coffee appear measure subject gap ostrich split rifle burger certain";

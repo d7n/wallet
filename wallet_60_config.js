@@ -1,1 +1,1 @@
-var mnemonic = "supply edge glad reduce puzzle duck false finger sunset vanish vicious twice";
+var mnemonic = "guilt crush area radio wrong curious inquiry install rely tank pigeon segment";

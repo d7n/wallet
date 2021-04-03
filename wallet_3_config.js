@@ -1,1 +1,1 @@
-var mnemonic = "task theory soda gas crawl mirror total used simple apple place few";
+var mnemonic = "shoot carbon forum idea vessel afford raccoon void explain gadget eyebrow include";

@@ -1,1 +1,1 @@
-var mnemonic = "social fault roast million actress subject team frog stage believe seminar mechanic";
+var mnemonic = "collect student hip fence test breeze pause wall equip today plunge answer";

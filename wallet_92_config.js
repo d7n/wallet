@@ -1,1 +1,1 @@
-var mnemonic = "employ seminar physical toilet scare vivid seat mask melody loan fiction moon";
+var mnemonic = "cargo crane media side slim prison grape demise weather distance pass sudden";

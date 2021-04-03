@@ -1,1 +1,1 @@
-var mnemonic = "expire build poem verb endless fashion toy crazy easily forget essay city";
+var mnemonic = "tired net unique diagram sugar seat suit frozen you scale ask wheat";

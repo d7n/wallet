@@ -1,1 +1,1 @@
-var mnemonic = "twenty armed quarter soda cherry eternal patrol baby like category spatial denial";
+var mnemonic = "long inform street slam vocal same hole erupt able camera view weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry enhance brush van salute road grief month food popular shiver brick";
+var mnemonic = "taxi ozone again summer force solution police deer burger frequent theme begin";

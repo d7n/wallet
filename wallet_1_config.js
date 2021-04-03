@@ -1,1 +1,1 @@
-var mnemonic = "crystal humble zero fantasy light version argue abandon celery unfair demise general";
+var mnemonic = "long adult luggage current stage sunny loyal bottom despair asthma injury evolve";

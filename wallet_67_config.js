@@ -1,1 +1,1 @@
-var mnemonic = "glory cave catalog exile ankle modify diamond neither tooth stuff poet menu";
+var mnemonic = "hope catch model swap fog regret purse spot weather choice reunion honey";

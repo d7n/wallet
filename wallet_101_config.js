@@ -1,1 +1,1 @@
-var mnemonic = "same scout twenty frame lazy inmate monitor effort patrol rug inflict permit";
+var mnemonic = "print good belt magnet kid eight stomach fence young shoe castle spoil";
