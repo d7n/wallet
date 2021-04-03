@@ -1,1 +1,1 @@
-var mnemonic = "label glass version room grit peanut enact any level maple inflict upset";
+var mnemonic = "boil critic pool banner original radar layer salon goose craft earth among";

@@ -1,1 +1,1 @@
-var mnemonic = "box afford rapid pink nest blood cover truck category sell pony swift";
+var mnemonic = "kitchen practice awkward glow original bench bonus powder cushion rotate minimum lab";

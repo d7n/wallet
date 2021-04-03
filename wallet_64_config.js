@@ -1,1 +1,1 @@
-var mnemonic = "story drum spirit enemy wall hello dance addict visit assist senior heart";
+var mnemonic = "december reflect chimney fuel hurry staff trade wine odor ribbon subject equip";

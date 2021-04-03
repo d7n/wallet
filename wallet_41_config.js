@@ -1,1 +1,1 @@
-var mnemonic = "ritual expire host imitate camera page acid kingdom area order gas olympic";
+var mnemonic = "smart tiger settle glove day paper area fix cherry judge mercy upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "start half tunnel together boy century foster popular pulp steel split goat";
+var mnemonic = "equip jump resist horn sign devote outside security copper dial hybrid mail";

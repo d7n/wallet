@@ -1,1 +1,1 @@
-var mnemonic = "cute barrel wreck already only chalk health virus celery loan romance trophy";
+var mnemonic = "blade else worth access bone strong august universe sense cliff action dinosaur";

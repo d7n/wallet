@@ -1,1 +1,1 @@
-var mnemonic = "sustain shaft radio gate jaguar cute bundle damage ribbon result rare tunnel";
+var mnemonic = "about second canyon hold frost rule child inside novel wife grace car";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost real stumble pave always drop warfare chunk certain catalog brave drama";
+var mnemonic = "alarm mystery chat noise onion ribbon sick panther wide hospital month bird";

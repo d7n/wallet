@@ -1,1 +1,1 @@
-var mnemonic = "antenna engine stereo retire real bid castle extend wonder learn blame must";
+var mnemonic = "unveil web junior plug spray fog blood rifle girl multiply pulp rug";

@@ -1,1 +1,1 @@
-var mnemonic = "ill math awake slow trash april twenty nature cheese can key fetch";
+var mnemonic = "current sword gate captain step brief canoe lonely present chimney dilemma notable";

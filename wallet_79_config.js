@@ -1,1 +1,1 @@
-var mnemonic = "bridge goose thumb cattle emotion jewel program smoke ensure bonus improve mad";
+var mnemonic = "join amused village autumn traffic whisper cloth plastic fade raise claw flag";

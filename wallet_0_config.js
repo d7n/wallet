@@ -1,1 +1,1 @@
-var mnemonic = "win mother obey eye lava portion scare boss used learn garage intact";
+var mnemonic = "unusual trust strike grocery zone wing wing few hawk unknown charge snow";

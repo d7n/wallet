@@ -1,1 +1,1 @@
-var mnemonic = "team odor beach mirror clown scene slush bulb excite pyramid argue nominee";
+var mnemonic = "original bubble drive someone milk dog boost imitate mesh capital hard perfect";

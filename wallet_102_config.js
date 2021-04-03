@@ -1,1 +1,1 @@
-var mnemonic = "pupil remind list mad grab pluck rather layer stadium domain repeat skull";
+var mnemonic = "dentist legend olive meat collect try acoustic disagree crouch knee volcano nominee";

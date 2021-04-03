@@ -1,1 +1,1 @@
-var mnemonic = "divide course tiny shoot suffer narrow intact people truly slow wreck sort";
+var mnemonic = "party fabric brave hip open debris era people glad unknown hospital expose";

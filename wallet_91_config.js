@@ -1,1 +1,1 @@
-var mnemonic = "blue gift relief genre crash suspect monitor trash brown popular cattle train";
+var mnemonic = "like music strong girl tank cattle brand thrive layer section april web";

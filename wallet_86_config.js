@@ -1,1 +1,1 @@
-var mnemonic = "useless lottery asthma shuffle dream dinosaur fuel glad figure rail echo grow";
+var mnemonic = "champion wrestle ritual park hollow depart zoo version wage team slab sad";

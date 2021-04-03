@@ -1,1 +1,1 @@
-var mnemonic = "trend jeans rubber exist limb become eight goat attack hotel shed liar";
+var mnemonic = "embark snow short six slide elephant cart deposit ice asthma brush provide";

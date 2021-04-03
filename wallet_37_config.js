@@ -1,1 +1,1 @@
-var mnemonic = "impose outside wisdom mirror repair seven remain issue lake consider eternal fish";
+var mnemonic = "shuffle panic hungry price bleak brother public salute eight average lecture ivory";

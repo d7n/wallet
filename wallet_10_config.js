@@ -1,1 +1,1 @@
-var mnemonic = "private milk obscure battle submit hurt rare kingdom forum brother allow inspire";
+var mnemonic = "history snap clog noble quote runway stamp silent object flower maximum quiz";

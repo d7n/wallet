@@ -1,1 +1,1 @@
-var mnemonic = "report trial hospital sadness torch power balance stand result usage snack knee";
+var mnemonic = "flip token exile general skull focus bus below flower wasp wrist illness";

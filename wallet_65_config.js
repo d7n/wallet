@@ -1,1 +1,1 @@
-var mnemonic = "hawk era aware three plug else layer sort relief jar foot noble";
+var mnemonic = "result lunch fly author aware shuffle weasel resemble tobacco conduct law chaos";

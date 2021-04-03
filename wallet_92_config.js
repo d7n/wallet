@@ -1,1 +1,1 @@
-var mnemonic = "dial mistake reflect one hazard flower food cricket domain burst mansion casual";
+var mnemonic = "item hurdle problem debate horse journey special gossip curve wash glory genuine";

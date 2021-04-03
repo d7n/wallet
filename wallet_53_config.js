@@ -1,1 +1,1 @@
-var mnemonic = "travel slight bring chalk amount huge animal dry once pulp mammal solution";
+var mnemonic = "wrestle typical abandon fall way space install machine retreat ridge draw tribe";

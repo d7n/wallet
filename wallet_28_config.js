@@ -1,1 +1,1 @@
-var mnemonic = "excite spin among print quality inside laundry sweet resource seek denial aware";
+var mnemonic = "solution ask board dress hub cushion drink movie amazing spin palace wild";

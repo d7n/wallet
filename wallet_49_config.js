@@ -1,1 +1,1 @@
-var mnemonic = "proud decorate jacket quantum paddle better grow right depend history cart dose";
+var mnemonic = "jealous enrich peasant install sick crater speak gap cloth pupil rigid cave";

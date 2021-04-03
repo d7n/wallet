@@ -1,1 +1,1 @@
-var mnemonic = "patch mistake crater cycle what broken fiscal penalty lion illegal pluck upset";
+var mnemonic = "ivory dry camp guide donor snake cat burst close business remain obey";

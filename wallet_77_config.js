@@ -1,1 +1,1 @@
-var mnemonic = "cereal chuckle test fee urge toss sentence clown idea step buzz advance";
+var mnemonic = "file attack hamster addict wreck apology often october exact help flower drift";

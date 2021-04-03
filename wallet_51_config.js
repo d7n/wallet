@@ -1,1 +1,1 @@
-var mnemonic = "leg sick actress knee practice glimpse rocket wing pause observe rural tackle";
+var mnemonic = "acoustic school window disorder chronic public abstract alter govern universe bronze chuckle";

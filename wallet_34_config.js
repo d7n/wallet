@@ -1,1 +1,1 @@
-var mnemonic = "card earth write remove doctor toast globe tuition arch split cliff usage";
+var mnemonic = "struggle pitch still faint ceiling divorce toddler success dilemma stuff clever voice";

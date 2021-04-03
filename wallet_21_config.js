@@ -1,1 +1,1 @@
-var mnemonic = "day wild cable chat champion enrich affair situate catch float embrace orbit";
+var mnemonic = "spend slice just use vast manual distance midnight weasel oblige rally unique";

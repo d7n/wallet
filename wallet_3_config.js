@@ -1,1 +1,1 @@
-var mnemonic = "ready squirrel include earn april verb behind rabbit mobile casual common silent";
+var mnemonic = "cloth gas tenant inner this pool relax useful pottery fine grocery sister";

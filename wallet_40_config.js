@@ -1,1 +1,1 @@
-var mnemonic = "unlock tooth oven example audit exotic pet police series erode thumb great";
+var mnemonic = "summer silver scrap pole equal forget oval math charge hammer trip comic";

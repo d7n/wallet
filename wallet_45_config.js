@@ -1,1 +1,1 @@
-var mnemonic = "dentist disorder turn theme shoot issue only face begin acoustic awake tray";
+var mnemonic = "method impose motion episode tape shuffle define venture glare dice notice dizzy";

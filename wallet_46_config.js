@@ -1,1 +1,1 @@
-var mnemonic = "field dismiss brush win grant crystal fatal analyst neck strong accident face";
+var mnemonic = "round history purity warm broken shy bus fault pupil scale bitter paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "choose palace neck shell exit smart absorb camera holiday true economy gaze";
+var mnemonic = "local large donate real tuition ripple host ensure youth cliff deal aware";

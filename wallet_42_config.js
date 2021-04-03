@@ -1,1 +1,1 @@
-var mnemonic = "sell bonus giant rude field cool accuse lounge health nest will mass";
+var mnemonic = "forget real settle festival charge soap wasp reject hero absorb penalty caught";

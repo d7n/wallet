@@ -1,1 +1,1 @@
-var mnemonic = "glad story senior display ladder museum exact syrup remain cross skirt merge";
+var mnemonic = "abuse frog arrow jeans have border defy zero tilt october west replace";

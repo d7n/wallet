@@ -1,1 +1,1 @@
-var mnemonic = "giggle melt danger again vapor employ peanut say grocery borrow science ready";
+var mnemonic = "drink kid legal series course behind ripple frame party genre monitor silk";

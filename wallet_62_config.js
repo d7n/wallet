@@ -1,1 +1,1 @@
-var mnemonic = "want ethics upper video reflect cricket nature virtual black humor all odor";
+var mnemonic = "deliver once immense front window oak script nature orchard useful slot zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot dress path media wrap grape vanish certain beach slush lumber anger";
+var mnemonic = "country siege negative bid payment awkward plate already mammal possible cream grow";

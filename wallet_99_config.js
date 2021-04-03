@@ -1,1 +1,1 @@
-var mnemonic = "offer select urban speak water recipe people rival flash solve guess duty";
+var mnemonic = "post long fold dentist praise awake kitten cost deny buyer pole gravity";

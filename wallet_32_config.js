@@ -1,1 +1,1 @@
-var mnemonic = "embark second uncover trip swim code truly peace skin speed basket rather";
+var mnemonic = "decrease grid ginger six fuel woman never resemble humor weird donor image";

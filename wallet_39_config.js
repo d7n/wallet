@@ -1,1 +1,1 @@
-var mnemonic = "rib sad camera all address minimum there diamond spy tourist tattoo return";
+var mnemonic = "extra eternal ozone agree crash salad ivory kit excuse renew minimum share";

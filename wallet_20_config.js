@@ -1,1 +1,1 @@
-var mnemonic = "shell cage barely local tiny universe orchard media treat jungle citizen right";
+var mnemonic = "school net sentence rack blame cheap brisk excuse silent radio innocent extend";

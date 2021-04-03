@@ -1,1 +1,1 @@
-var mnemonic = "kit saddle chaos hundred throw case delay verify shield alcohol nerve female";
+var mnemonic = "become census combine season boat about light sport clay write hungry gorilla";

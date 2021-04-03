@@ -1,1 +1,1 @@
-var mnemonic = "doll gadget review arm chase disorder crumble razor artist alert write public";
+var mnemonic = "sight penalty task reward mention trumpet merit giant giant exact first educate";

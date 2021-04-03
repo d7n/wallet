@@ -1,1 +1,1 @@
-var mnemonic = "subway tree apple sword claim electric canvas dad coconut oven domain agree";
+var mnemonic = "paper smile save sample zebra menu gas corn alpha modify vanish lift";

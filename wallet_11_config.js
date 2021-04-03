@@ -1,1 +1,1 @@
-var mnemonic = "oppose horse lyrics welcome step dad east debate refuse behave exercise file";
+var mnemonic = "permit journey phone tumble cheap old peace clock dynamic zoo sure swallow";

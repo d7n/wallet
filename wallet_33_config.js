@@ -1,1 +1,1 @@
-var mnemonic = "shove chalk feature staff draft action apology bulk mom beef tennis prosper";
+var mnemonic = "gown athlete gift black bless innocent rather enhance slender imitate warfare ivory";

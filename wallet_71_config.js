@@ -1,1 +1,1 @@
-var mnemonic = "credit circle popular hidden dinner skin chuckle anchor vendor jar convince outdoor";
+var mnemonic = "ride puppy liquid remind axis tomorrow will slab regular employ frown put";

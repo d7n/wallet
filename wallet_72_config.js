@@ -1,1 +1,1 @@
-var mnemonic = "south exotic evoke cart unable tonight modify picnic panic useless endless knock";
+var mnemonic = "rubber seed reopen fresh six priority chaos open other carbon length thunder";

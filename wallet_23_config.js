@@ -1,1 +1,1 @@
-var mnemonic = "you nurse cement vault expect public elite room episode nothing tennis candy";
+var mnemonic = "lock fashion enable hood cherry habit disorder habit naive giraffe sibling coral";

@@ -1,1 +1,1 @@
-var mnemonic = "define popular large grunt change resemble captain worth glory crumble seat exhibit";
+var mnemonic = "own fashion vicious below destroy power blossom congress slice skirt all salad";

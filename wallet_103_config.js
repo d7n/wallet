@@ -1,1 +1,1 @@
-var mnemonic = "rose length awesome unique piece verb gallery alcohol endorse recall trash enough";
+var mnemonic = "joy across unknown chase crater almost trumpet desert pink maze fall pencil";

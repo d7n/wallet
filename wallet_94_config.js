@@ -1,1 +1,1 @@
-var mnemonic = "flavor labor fork muffin then elephant digital fashion cement east crash exile";
+var mnemonic = "boss breeze absurd open budget sport device common autumn argue until olive";

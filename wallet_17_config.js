@@ -1,1 +1,1 @@
-var mnemonic = "upgrade job keen logic crack spray code sudden cushion design track dash";
+var mnemonic = "party output lunch peace avoid spell antenna animal vacant fuel whisper pizza";

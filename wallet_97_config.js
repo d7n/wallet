@@ -1,1 +1,1 @@
-var mnemonic = "wheel aisle anger eight elite chat bench monitor slab art monkey multiply";
+var mnemonic = "mom toward wire turtle lonely parent toss legal wear little zone design";

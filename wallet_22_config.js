@@ -1,1 +1,1 @@
-var mnemonic = "issue faint caught burden soul blind state cool wood erosion feed motion";
+var mnemonic = "repair tree pill warfare aerobic obtain salt festival castle spin fork among";

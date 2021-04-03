@@ -1,1 +1,1 @@
-var mnemonic = "bean cost blood expire snake panel december wrestle liquid occur dynamic public";
+var mnemonic = "napkin finish please swear husband hollow tree ketchup sweet cash rubber quiz";

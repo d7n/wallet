@@ -1,1 +1,1 @@
-var mnemonic = "cargo sponsor between fall demand crop moon rookie remember notable phone puzzle";
+var mnemonic = "lonely grit indoor capital volcano approve hope bike polar north sight enlist";

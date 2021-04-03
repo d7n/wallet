@@ -1,1 +1,1 @@
-var mnemonic = "olympic evidence layer pattern section ugly cancel digital antenna honey valley coffee";
+var mnemonic = "name sponsor crush lunch mobile rule giraffe cupboard border violin inhale egg";

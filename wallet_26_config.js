@@ -1,1 +1,1 @@
-var mnemonic = "trust violin panic wave parade final breeze option lazy junk cloth service";
+var mnemonic = "hill gloom sample angry first rhythm include depth cradle someone impose try";

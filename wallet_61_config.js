@@ -1,1 +1,1 @@
-var mnemonic = "olympic celery coconut scrub must crawl design junior shadow cactus ask much";
+var mnemonic = "bounce topple garden amused deposit false night man outdoor cat blue phone";

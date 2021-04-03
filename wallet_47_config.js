@@ -1,1 +1,1 @@
-var mnemonic = "strike tent grass rely clock sock choose aware increase design gap scorpion";
+var mnemonic = "once vessel physical dune night silk orchard manual come agree fringe visa";

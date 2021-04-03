@@ -1,1 +1,1 @@
-var mnemonic = "finish steak obey quality hawk valley canvas belt tank famous biology meadow";
+var mnemonic = "stomach capable age habit ancient surface absurd rug brisk cannon sail problem";

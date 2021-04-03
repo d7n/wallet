@@ -1,1 +1,1 @@
-var mnemonic = "bless relief nominee excite rebel twist left code broken hunt security scale";
+var mnemonic = "ceiling egg imitate quality hello crack grocery hover smoke ramp tool just";

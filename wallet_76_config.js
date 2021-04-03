@@ -1,1 +1,1 @@
-var mnemonic = "denial token ribbon seat mad payment caution upset animal front legal pig";
+var mnemonic = "garden clutch cat equal enhance merge topple step mobile wrist movie make";

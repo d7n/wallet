@@ -1,1 +1,1 @@
-var mnemonic = "mistake myself boat catch garlic nice gown click garlic curtain bus ugly";
+var mnemonic = "marble stay license route prefer once say upset soccer range steel accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect address creek argue essence suit mad alcohol wedding afraid capital sentence";
+var mnemonic = "fuel summer alert primary expose indoor obey lobster donor million excuse half";

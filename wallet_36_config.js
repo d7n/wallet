@@ -1,1 +1,1 @@
-var mnemonic = "couple wonder shed derive turtle blade left mad adjust lucky stumble margin";
+var mnemonic = "struggle sample hand wrestle ship sugar rebuild swap history any comic breeze";

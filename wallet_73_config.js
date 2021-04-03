@@ -1,1 +1,1 @@
-var mnemonic = "wrong route fluid walnut mango begin retire cancel glove transfer swamp supply";
+var mnemonic = "setup trophy kingdom true mirror tuna mirror expose among wonder sad method";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp dutch search special hospital silk opinion bird bundle student render spawn";
+var mnemonic = "market abstract silent cake powder eye jump coffee chaos tonight lounge metal";

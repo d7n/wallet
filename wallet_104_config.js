@@ -1,1 +1,1 @@
-var mnemonic = "bridge noodle crazy legend rug track burst elder bag sugar resource globe";
+var mnemonic = "depth crater gym napkin smile regular lounge shield worry lumber rifle burden";

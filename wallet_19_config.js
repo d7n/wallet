@@ -1,1 +1,1 @@
-var mnemonic = "actor cargo bachelor morning wall oil sunny future divide citizen wire satisfy";
+var mnemonic = "despair sentence ladder powder mother express mass ozone swap oak scene erosion";

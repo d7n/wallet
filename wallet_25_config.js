@@ -1,1 +1,1 @@
-var mnemonic = "impulse clock inner achieve gift coin bracket zero cluster damp annual future";
+var mnemonic = "silk autumn entry giraffe jungle license tip evil client unable agent thunder";

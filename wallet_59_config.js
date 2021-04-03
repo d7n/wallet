@@ -1,1 +1,1 @@
-var mnemonic = "depend fire immense pen exclude top shop skull mass fish select path";
+var mnemonic = "view swarm pelican duty turtle will honey risk neglect cigar mystery economy";

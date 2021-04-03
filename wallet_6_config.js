@@ -1,1 +1,1 @@
-var mnemonic = "vivid wasp spoil oven harsh spring regret way figure desk stuff rebel";
+var mnemonic = "access know garment one festival basic measure arch tumble upon album inner";

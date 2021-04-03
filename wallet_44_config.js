@@ -1,1 +1,1 @@
-var mnemonic = "credit scheme any neither lion victory excuse lens transfer olive sing correct";
+var mnemonic = "occur wrap wrong extend bacon quantum person expect squeeze job pull tent";

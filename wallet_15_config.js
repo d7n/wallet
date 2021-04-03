@@ -1,1 +1,1 @@
-var mnemonic = "call quality boil ancient sudden exercise response public skull disorder gentle arrange";
+var mnemonic = "museum melt exact slim window angle medal often avocado wet tell protect";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract zero depart code away saddle work summer piano upgrade build dutch";
+var mnemonic = "design fragile bacon calm ostrich add among middle rude romance begin amateur";

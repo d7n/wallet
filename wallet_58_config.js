@@ -1,1 +1,1 @@
-var mnemonic = "capital fantasy glimpse warm fiber venture unique judge tenant bring flash pelican";
+var mnemonic = "clutch canal capital claim defy turtle wise north spell kind math write";

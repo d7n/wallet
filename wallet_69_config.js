@@ -1,1 +1,1 @@
-var mnemonic = "entry index region off butter office rent unveil pottery wonder core process";
+var mnemonic = "crop puzzle cave goat dry snack bean easily divert universe youth income";

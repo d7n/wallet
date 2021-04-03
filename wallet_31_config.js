@@ -1,1 +1,1 @@
-var mnemonic = "rack effort spot select visa boat split van gas trust panel endless";
+var mnemonic = "bronze believe loop canal flee under general blur stone ability this come";

@@ -1,1 +1,1 @@
-var mnemonic = "method release elegant strategy patrol obtain save behave orphan ankle pact furnace";
+var mnemonic = "police tag laundry mistake only alien guess leave slice absorb sleep slide";

@@ -1,1 +1,1 @@
-var mnemonic = "demise route basic magic lounge enter rude tilt skirt surge antique asset";
+var mnemonic = "access nice floor forget saddle knock train arrow feature step sense tilt";

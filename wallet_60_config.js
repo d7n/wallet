@@ -1,1 +1,1 @@
-var mnemonic = "room random mask man fly alien future umbrella item spring attack credit";
+var mnemonic = "coral sadness double blanket until cover fix obtain crowd wink impulse replace";

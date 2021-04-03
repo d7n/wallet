@@ -1,1 +1,1 @@
-var mnemonic = "basket nose mail entire solid above clip net curve rare adapt chest";
+var mnemonic = "tiny maximum install opinion private above evidence shaft floor hockey knife plastic";

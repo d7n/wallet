@@ -1,1 +1,1 @@
-var mnemonic = "burger broom habit faint render fix rely glow direct brave mule enact";
+var mnemonic = "tooth dwarf meat ladder elite boat someone license asthma canyon exhaust black";

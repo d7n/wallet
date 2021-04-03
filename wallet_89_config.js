@@ -1,1 +1,1 @@
-var mnemonic = "load essay barely sudden correct avocado sail hire build maximum glance window";
+var mnemonic = "spatial pelican item mystery control stereo royal verb bid casino pluck remember";

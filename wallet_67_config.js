@@ -1,1 +1,1 @@
-var mnemonic = "wing game dry cost step figure erode path kiss club dawn slide";
+var mnemonic = "pelican resist concert hamster next snake melt knock buddy smile own behave";

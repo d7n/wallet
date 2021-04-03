@@ -1,1 +1,1 @@
-var mnemonic = "save decline defy tide pond ship kiwi roof cruel dress sing tray";
+var mnemonic = "sugar fun wait winter junior syrup call can pave infant other elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "divert lecture hybrid buffalo craft health open pepper wreck misery super token";
+var mnemonic = "decline awkward ice top ankle sense october anchor gather grunt digital food";

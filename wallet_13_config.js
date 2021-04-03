@@ -1,1 +1,1 @@
-var mnemonic = "divert theory cry cradle release problem autumn paddle rail teach shop rain";
+var mnemonic = "case chunk quantum rose chest never ghost cram vacuum build chuckle example";
