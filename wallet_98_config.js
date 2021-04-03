@@ -1,1 +1,1 @@
-var mnemonic = "loud humble hungry hello acoustic journey inmate isolate mom knock weapon provide";
+var mnemonic = "sight comfort sorry surprise endless cereal jazz never safe cereal vicious drum";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter cluster ramp disease cross recall skill real episode now ostrich turtle";
+var mnemonic = "current fault mystery rough stock define erode vapor muscle noise oppose insect";

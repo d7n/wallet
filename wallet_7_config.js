@@ -1,1 +1,1 @@
-var mnemonic = "route jar brave merry index soft degree panda amateur knife victory pig";
+var mnemonic = "must response planet treat clip enlist december gym spin jacket shallow trick";

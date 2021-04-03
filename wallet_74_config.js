@@ -1,1 +1,1 @@
-var mnemonic = "minimum fix lumber vacant another sheriff extend flock gentle bench night calm";
+var mnemonic = "fiber because coral shallow horror three view piano episode judge dismiss trim";

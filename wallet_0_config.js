@@ -1,1 +1,1 @@
-var mnemonic = "biology truth any remain hope asthma patient tool secret agent amused build";
+var mnemonic = "bullet size wheel force wrestle way awful armed erase dust hotel six";

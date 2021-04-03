@@ -1,1 +1,1 @@
-var mnemonic = "primary uncover curtain harsh square inject increase already quote caught cave group";
+var mnemonic = "used chalk waste luxury inflict exhaust hobby affair harsh pole slush render";

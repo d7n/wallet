@@ -1,1 +1,1 @@
-var mnemonic = "rain again unique early oblige refuse spatial dry glad jungle display sand";
+var mnemonic = "enable twenty system life unaware clean joke company shed three clean total";

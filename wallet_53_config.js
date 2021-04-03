@@ -1,1 +1,1 @@
-var mnemonic = "gasp betray village crater index sleep spike shuffle mail wrap convince afraid";
+var mnemonic = "cherry monitor tilt decrease skull embark theory search weasel potato taste eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor clown mask glory more drastic burst matrix couch jazz modify feel";
+var mnemonic = "can gentle hundred leave token riot leopard dignity abuse trumpet boy where";

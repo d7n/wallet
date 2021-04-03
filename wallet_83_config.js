@@ -1,1 +1,1 @@
-var mnemonic = "lab popular foster moment zoo entry sell luggage caution practice caught high";
+var mnemonic = "walk jazz help network nice wait atom tuna arctic ride tackle soda";

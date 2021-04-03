@@ -1,1 +1,1 @@
-var mnemonic = "profit inherit during glue voice inside limb old help frame speed sight";
+var mnemonic = "evolve aware elevator arrange ocean inhale cry public timber modify moral ribbon";

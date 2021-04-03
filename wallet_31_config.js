@@ -1,1 +1,1 @@
-var mnemonic = "fever glue venture lemon animal stock tourist tiny popular pond caught oyster";
+var mnemonic = "provide height soul ghost company record debris guess grape south funny happy";

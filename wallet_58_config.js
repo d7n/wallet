@@ -1,1 +1,1 @@
-var mnemonic = "gorilla unable orchard occur cushion deny more text hundred come tuna clip";
+var mnemonic = "split also orange mass leg rack tired blast cabbage you elevator august";

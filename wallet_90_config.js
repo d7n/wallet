@@ -1,1 +1,1 @@
-var mnemonic = "review chief toss welcome gallery steel abandon reduce smile end express audit";
+var mnemonic = "cigar display direct guilt sick involve cash canal bike pink solar into";

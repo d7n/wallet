@@ -1,1 +1,1 @@
-var mnemonic = "keen rabbit shadow choice cube essay increase belt lottery method blossom hold";
+var mnemonic = "shrug skate deliver innocent wolf peasant weather sense seven twist awesome journey";

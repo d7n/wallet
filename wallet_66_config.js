@@ -1,1 +1,1 @@
-var mnemonic = "repair error jazz swarm glove visit breeze material cram spawn pelican minor";
+var mnemonic = "found absent artwork anger supply pair vessel solar oak patch struggle grow";

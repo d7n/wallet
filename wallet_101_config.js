@@ -1,1 +1,1 @@
-var mnemonic = "print good belt magnet kid eight stomach fence young shoe castle spoil";
+var mnemonic = "jealous regret print cheap bounce scheme vehicle idea sun plug swim project";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel clump salute outdoor hub mail cotton mom hint misery blind dice";
+var mnemonic = "slide exact immune embody hockey garage business neutral alley able bike impact";

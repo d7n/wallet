@@ -1,1 +1,1 @@
-var mnemonic = "slide describe derive since focus sister vapor prefer allow spell guilt pole";
+var mnemonic = "mystery abstract truly arch tilt plastic quiz churn spray erupt ball alley";

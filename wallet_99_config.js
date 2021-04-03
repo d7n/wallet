@@ -1,1 +1,1 @@
-var mnemonic = "insect excess milk comic medal daring easily autumn carbon keen bean arrive";
+var mnemonic = "romance trumpet seminar practice steak pill high unlock cute seed sniff net";

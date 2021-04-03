@@ -1,1 +1,1 @@
-var mnemonic = "rookie jar orphan property super lunar silk tape resource three insane treat";
+var mnemonic = "stereo artist scout toddler first auction ordinary card refuse climb wear float";

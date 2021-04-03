@@ -1,1 +1,1 @@
-var mnemonic = "fatigue priority short depart vast nuclear animal merit fresh ankle swing olympic";
+var mnemonic = "bright tide wait rally discover sample three crawl favorite sketch festival agree";

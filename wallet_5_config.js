@@ -1,1 +1,1 @@
-var mnemonic = "shock museum surface help valid calm vivid lamp erupt excuse way speed";
+var mnemonic = "swim valve worry response legend arm pottery target just idle tomorrow labor";

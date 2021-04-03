@@ -1,1 +1,1 @@
-var mnemonic = "normal exist side bless marble exhaust miss bomb slide bird magic modify";
+var mnemonic = "firm output radar setup ability same first penalty boss elite hair impulse";

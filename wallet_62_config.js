@@ -1,1 +1,1 @@
-var mnemonic = "inhale churn feature garlic industry deliver relax lion bright stable debate twist";
+var mnemonic = "mass hub duck multiply valley equal coast mistake illegal prosper sugar shoot";

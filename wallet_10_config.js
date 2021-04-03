@@ -1,1 +1,1 @@
-var mnemonic = "rescue tide spell denial ugly insane voyage party strong anchor they cabbage";
+var mnemonic = "glass blood arch garden give supreme churn concert visual believe dentist blanket";

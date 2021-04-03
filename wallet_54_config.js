@@ -1,1 +1,1 @@
-var mnemonic = "brain behind method protect purpose swing dismiss input satoshi outer volcano lab";
+var mnemonic = "ladder trumpet hub hard chaos surprise palace clock key invite curve crane";

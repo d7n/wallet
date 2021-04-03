@@ -1,1 +1,1 @@
-var mnemonic = "favorite final sell mix father stand flush ten patrol spoil youth myself";
+var mnemonic = "moon into cost tube more olympic apart hello switch unlock soft episode";

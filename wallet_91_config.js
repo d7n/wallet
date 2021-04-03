@@ -1,1 +1,1 @@
-var mnemonic = "collect student hip fence test breeze pause wall equip today plunge answer";
+var mnemonic = "thrive able use token girl oil hunt code goat spawn hen cube";

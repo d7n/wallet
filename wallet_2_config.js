@@ -1,1 +1,1 @@
-var mnemonic = "arrive city family elevator pilot blouse vanish ramp carry gadget bike hammer";
+var mnemonic = "genius seminar noise sick armed dinner duty decade endorse token earth trouble";

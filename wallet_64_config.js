@@ -1,1 +1,1 @@
-var mnemonic = "favorite process siren vapor random toast survey gadget hockey avocado soup broken";
+var mnemonic = "practice alarm degree easily rural service peace cupboard pitch glide night dilemma";

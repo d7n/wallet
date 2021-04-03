@@ -1,1 +1,1 @@
-var mnemonic = "purity seven brick naive retreat exhibit initial atom science economy try social";
+var mnemonic = "nothing vanish movie spoon canyon beauty manual control alarm also window stuff";

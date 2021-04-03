@@ -1,1 +1,1 @@
-var mnemonic = "empty crop ribbon element father deal awake swamp sort alpha balcony damage";
+var mnemonic = "spread vanish wait father trouble forest under surface relax sibling supreme current";

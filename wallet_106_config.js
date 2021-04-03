@@ -1,1 +1,1 @@
-var mnemonic = "shop smile summer floor fox absent answer put pupil boost onion crystal";
+var mnemonic = "amazing talk spy sketch solid merry axis cat board scorpion volcano various";

@@ -1,1 +1,1 @@
-var mnemonic = "ask obtain dose before shiver mobile dutch stool belt caught ignore clarify";
+var mnemonic = "mail answer divert casual lab tennis slogan fat wealth cliff misery spot";

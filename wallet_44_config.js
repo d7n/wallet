@@ -1,1 +1,1 @@
-var mnemonic = "unhappy trial reflect sword easy strategy drill young clump clean coast police";
+var mnemonic = "street impulse split dizzy awake doll scan kid idle together indoor resist";

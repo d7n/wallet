@@ -1,1 +1,1 @@
-var mnemonic = "detect arch lobster wise hockey merry clinic whisper river inch miss rude";
+var mnemonic = "swear frame exhaust relax oval garage neglect stay canvas retreat pen cash";

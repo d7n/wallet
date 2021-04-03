@@ -1,1 +1,1 @@
-var mnemonic = "rebel deliver indoor deliver rain tent dress finish athlete someone scorpion behind";
+var mnemonic = "suspect satisfy cube crystal hard wing act cloth envelope decline success super";

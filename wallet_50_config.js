@@ -1,1 +1,1 @@
-var mnemonic = "region fortune detail axis accident cattle extend nuclear bar where voyage brick";
+var mnemonic = "puzzle capital general brush reduce trade song million audit siren egg embody";

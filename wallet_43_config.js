@@ -1,1 +1,1 @@
-var mnemonic = "cream indicate fragile size attract consider rotate buyer assume proof economy portion";
+var mnemonic = "exercise file velvet lawn vault rack wheel around busy interest faculty remind";

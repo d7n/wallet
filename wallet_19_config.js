@@ -1,1 +1,1 @@
-var mnemonic = "truly few boring reopen solution audit rebel visual coconut only swift fish";
+var mnemonic = "success bleak oil chalk seek alone shadow purity ethics turn weekend hero";

@@ -1,1 +1,1 @@
-var mnemonic = "battle brush frozen rug property chimney latin message thunder witness damp bounce";
+var mnemonic = "blanket vanish column fiber provide cradle truck eager voice ripple guide license";

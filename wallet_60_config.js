@@ -1,1 +1,1 @@
-var mnemonic = "guilt crush area radio wrong curious inquiry install rely tank pigeon segment";
+var mnemonic = "thank evidence ability glory demise veteran cause guilt coach nose thank surround";

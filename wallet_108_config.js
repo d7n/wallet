@@ -1,1 +1,1 @@
-var mnemonic = "over rotate message castle meat random gesture cattle dizzy margin rifle key";
+var mnemonic = "clap code suffer sing session tape clinic visual history ignore tired page";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip gadget hurt party basket beauty sure mail museum bid fetch february";
+var mnemonic = "river paper mule doctor viable until balance neglect brick boat mammal foster";

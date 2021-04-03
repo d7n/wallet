@@ -1,1 +1,1 @@
-var mnemonic = "mixture river tube height hawk sleep trade cattle blood unknown coyote debate";
+var mnemonic = "distance sausage used east tank hollow below club margin upset shoe must";

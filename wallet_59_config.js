@@ -1,1 +1,1 @@
-var mnemonic = "cereal hollow apart fluid dignity awake repeat message olympic stay ecology timber";
+var mnemonic = "stool convince gown bronze uphold sunny guide magnet stick friend degree eye";

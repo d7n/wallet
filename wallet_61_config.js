@@ -1,1 +1,1 @@
-var mnemonic = "useful crater grow napkin space remove goose predict middle walnut transfer dish";
+var mnemonic = "method devote young garbage occur awake garlic plug elephant latin relief boring";

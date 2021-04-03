@@ -1,1 +1,1 @@
-var mnemonic = "palm attack frown flip side solution february artefact wisdom ensure scatter urge";
+var mnemonic = "inflict note reduce equip across blood noodle glad couch already mention wait";

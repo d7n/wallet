@@ -1,1 +1,1 @@
-var mnemonic = "good hungry filter express knee behind honey victory umbrella join school wonder";
+var mnemonic = "mail vast alter found romance explain high undo senior pole expire bring";

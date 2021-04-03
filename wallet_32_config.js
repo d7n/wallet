@@ -1,1 +1,1 @@
-var mnemonic = "beauty what cream install dry region dove diary ridge next reopen oval";
+var mnemonic = "dinosaur try assist gate rebuild average ask visit roof enter tone border";

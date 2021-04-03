@@ -1,1 +1,1 @@
-var mnemonic = "forget comic hand pride afraid quit plastic slab retreat kid fence stairs";
+var mnemonic = "coach only fragile link innocent multiply need aware shoe marriage ankle bind";

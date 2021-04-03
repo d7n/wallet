@@ -1,1 +1,1 @@
-var mnemonic = "reunion august dumb apple judge reveal pretty stumble perfect venue garlic arrange";
+var mnemonic = "chapter camp foster reward journey valley approve photo must disease farm trash";

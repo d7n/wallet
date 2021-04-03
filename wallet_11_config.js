@@ -1,1 +1,1 @@
-var mnemonic = "employ custom grass maid always diamond nominee inform push best only open";
+var mnemonic = "vicious tortoise guide tribe arm paddle body stereo monitor neck erupt spin";

@@ -1,1 +1,1 @@
-var mnemonic = "planet hamster laugh damage employ park hood special bomb dismiss soap hamster";
+var mnemonic = "country bag scan intact wise tribe blur menu reopen must print beef";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi ozone again summer force solution police deer burger frequent theme begin";
+var mnemonic = "maze inch trick drop slab win rocket normal uphold fresh kit immense";

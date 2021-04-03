@@ -1,1 +1,1 @@
-var mnemonic = "marriage liberty modify ring fiber east easily march awesome treat funny venture";
+var mnemonic = "wear entry aware include kiwi remember trend metal clever time mix staff";

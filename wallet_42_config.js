@@ -1,1 +1,1 @@
-var mnemonic = "tired net unique diagram sugar seat suit frozen you scale ask wheat";
+var mnemonic = "donor fox tonight tourist rug mountain zero swear refuse force artwork wealth";

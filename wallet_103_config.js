@@ -1,1 +1,1 @@
-var mnemonic = "wide story social helmet casual stadium drift cloth raccoon blame neutral income";
+var mnemonic = "slim just detail faith item suit harvest talk income strategy dinosaur chest";

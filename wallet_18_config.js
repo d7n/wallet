@@ -1,1 +1,1 @@
-var mnemonic = "fiber question punch very proud labor street tiny park nephew arctic yard";
+var mnemonic = "total ordinary open brisk feature law photo moral mouse exist retire play";

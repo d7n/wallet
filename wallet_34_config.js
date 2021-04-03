@@ -1,1 +1,1 @@
-var mnemonic = "ankle interest paddle rebel top reform advance vendor battle leisure airport buddy";
+var mnemonic = "drastic blood little dust trash wise health stamp sunset dwarf steak love";

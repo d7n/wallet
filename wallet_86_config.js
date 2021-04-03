@@ -1,1 +1,1 @@
-var mnemonic = "smart cute produce once grape blanket odor robot crouch lion boil staff";
+var mnemonic = "reveal sniff better physical toward write home music point buzz opinion front";

@@ -1,1 +1,1 @@
-var mnemonic = "caught ready direct alone middle dentist live mixed spare brass melody quick";
+var mnemonic = "inflict galaxy sand police modify worth category cable silent walk twelve quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "radio slush coffee appear measure subject gap ostrich split rifle burger certain";
+var mnemonic = "asthma chapter puzzle eagle share skirt pool lizard system town step time";

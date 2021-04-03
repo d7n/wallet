@@ -1,1 +1,1 @@
-var mnemonic = "long adult luggage current stage sunny loyal bottom despair asthma injury evolve";
+var mnemonic = "staff rhythm vendor convince banner panda bread goose purchase lawn month legal";

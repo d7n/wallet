@@ -1,1 +1,1 @@
-var mnemonic = "senior grunt clog mandate butter quality tuna walk fan oppose number code";
+var mnemonic = "heart penalty snap prison theme squeeze inch food example taste pluck arena";

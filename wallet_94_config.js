@@ -1,1 +1,1 @@
-var mnemonic = "unique foil equip core museum weather steel matrix execute clarify saddle build";
+var mnemonic = "glove private metal market decide sound ribbon leisure nurse love blossom alcohol";

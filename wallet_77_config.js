@@ -1,1 +1,1 @@
-var mnemonic = "prosper round erode lab ivory debris junior water spend series group umbrella";
+var mnemonic = "ethics icon state more patrol club caution girl assist alert humble like";

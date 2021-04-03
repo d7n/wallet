@@ -1,1 +1,1 @@
-var mnemonic = "subway thought limb test tenant tilt fluid mask stone grain upper benefit";
+var mnemonic = "piano regular alcohol notable monkey broken room until home near execute potato";

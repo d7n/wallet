@@ -1,1 +1,1 @@
-var mnemonic = "link prefer eager connect shoulder unaware pilot attend boat inspire drink month";
+var mnemonic = "mad shrimp boil must beauty tattoo wonder area senior powder february belt";

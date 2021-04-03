@@ -1,1 +1,1 @@
-var mnemonic = "exact impulse asthma slogan biology horn already tattoo company deliver topple rich";
+var mnemonic = "service clip stairs narrow potato gentle manage online organ use result jar";

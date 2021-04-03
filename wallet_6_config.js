@@ -1,1 +1,1 @@
-var mnemonic = "rabbit rude ridge undo hunt index chair task host shallow finger private";
+var mnemonic = "flight success kiss afford kid sorry plate size clown govern solve pact";

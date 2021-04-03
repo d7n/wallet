@@ -1,1 +1,1 @@
-var mnemonic = "try fold tilt diamond boy flag enter fence action certain wife maximum";
+var mnemonic = "artist dawn regret across duck ghost whip cake spoon thought wagon match";

@@ -1,1 +1,1 @@
-var mnemonic = "modify more disease ocean jealous climb genre fiction seminar hub essay soda";
+var mnemonic = "egg pony antique music crucial undo female feed whip legal around fan";

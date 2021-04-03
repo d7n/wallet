@@ -1,1 +1,1 @@
-var mnemonic = "sock section gaze brain salon strategy enact cash disorder moment vintage cupboard";
+var mnemonic = "elder ship there innocent level escape couple cattle spring squirrel pulse electric";

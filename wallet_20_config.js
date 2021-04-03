@@ -1,1 +1,1 @@
-var mnemonic = "clock used embark vendor ribbon until reveal margin visit glide okay october";
+var mnemonic = "wheat panic human check sock harbor rough random humor bridge replace sweet";

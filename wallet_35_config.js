@@ -1,1 +1,1 @@
-var mnemonic = "fluid assault series smart arrest someone endless increase suggest joy report double";
+var mnemonic = "army tunnel wagon leopard radio embark smoke deny apology august spring story";

@@ -1,1 +1,1 @@
-var mnemonic = "moral glove finger genre gap portion wheel purchase aerobic ivory prison sock";
+var mnemonic = "home border bomb slush melt west hole leave paddle rabbit royal humor";

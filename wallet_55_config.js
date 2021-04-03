@@ -1,1 +1,1 @@
-var mnemonic = "fit swear dove basket detail frost brick make wonder spawn sea pet";
+var mnemonic = "broccoli egg sunset umbrella seed replace capable high custom enrich loop this";

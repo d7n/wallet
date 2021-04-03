@@ -1,1 +1,1 @@
-var mnemonic = "invest street author image client average concert ritual nominee scan narrow sure";
+var mnemonic = "mask kite guitar plate club economy snake tower web choice degree pact";

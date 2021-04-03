@@ -1,1 +1,1 @@
-var mnemonic = "lamp frequent blanket frequent advice inherit process fatal april protect raccoon bag";
+var mnemonic = "truth ritual rent answer rescue eye liquid immune royal object grief awkward";

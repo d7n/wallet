@@ -1,1 +1,1 @@
-var mnemonic = "such adapt usual pause dish small miss venue faculty snap nurse bind";
+var mnemonic = "alert tip female item pill planet attack cat swear grass churn agree";

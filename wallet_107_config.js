@@ -1,1 +1,1 @@
-var mnemonic = "castle together gauge town horse exit earth useless wolf true foot civil";
+var mnemonic = "beef stereo upper still crumble notice reject turkey hub innocent foot river";

@@ -1,1 +1,1 @@
-var mnemonic = "income supreme shop powder choose bitter picture pull skill utility speed spoil";
+var mnemonic = "claim glass raise crop twelve alpha apple transfer phrase novel number royal";

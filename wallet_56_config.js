@@ -1,1 +1,1 @@
-var mnemonic = "inquiry broom access flash boss busy educate armed beach stick person mad";
+var mnemonic = "lyrics snack warm giraffe require hunt acid mango crumble slow brother world";

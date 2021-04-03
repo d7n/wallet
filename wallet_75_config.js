@@ -1,1 +1,1 @@
-var mnemonic = "crystal praise faculty exotic good carbon neither resemble winter ketchup kangaroo wood";
+var mnemonic = "tube inmate waste flip chimney someone arrest bleak book cup guide treat";

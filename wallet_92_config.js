@@ -1,1 +1,1 @@
-var mnemonic = "cargo crane media side slim prison grape demise weather distance pass sudden";
+var mnemonic = "cruel mimic rent expire permit tape illness meadow damage near half need";

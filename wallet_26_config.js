@@ -1,1 +1,1 @@
-var mnemonic = "ginger ancient tumble popular pull swear emerge eight ball despair second logic";
+var mnemonic = "arrive vacuum write never else cat unveil speak maple decade spirit hill";

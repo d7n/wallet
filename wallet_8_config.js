@@ -1,1 +1,1 @@
-var mnemonic = "report ancient dutch material state walnut dutch sure flip photo inform once";
+var mnemonic = "loan twenty crack reflect nothing horror anchor penalty obey liberty illegal path";

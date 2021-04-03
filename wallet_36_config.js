@@ -1,1 +1,1 @@
-var mnemonic = "acid loan flock stamp more shoe novel text cool cry pride reason";
+var mnemonic = "direct marriage ceiling document knife opera noise depart play grow luggage alpha";

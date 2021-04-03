@@ -1,1 +1,1 @@
-var mnemonic = "awesome aunt muscle allow wire absurd hungry quarter stomach rigid eye swarm";
+var mnemonic = "oyster bless floor imitate achieve breeze behave unknown scorpion foot plastic gate";

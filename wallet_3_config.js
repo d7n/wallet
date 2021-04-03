@@ -1,1 +1,1 @@
-var mnemonic = "shoot carbon forum idea vessel afford raccoon void explain gadget eyebrow include";
+var mnemonic = "until cram game hub bubble artefact stem woman express bread exact dynamic";
