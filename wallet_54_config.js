@@ -1,1 +1,1 @@
-var mnemonic = "couple cream tortoise universe vote width soft brisk next movie credit amount";
+var mnemonic = "undo pool smile notice force choose drama tribe spread luggage remain scheme";

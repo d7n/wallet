@@ -1,1 +1,1 @@
-var mnemonic = "resist cigar clinic fade leopard corn catch foster child news prevent stage";
+var mnemonic = "ozone seat appear horse consider nature collect divert fitness crumble monster lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol suffer journey again where style stand blood rack subway pluck gym";
+var mnemonic = "better rival write six link hunt gate student eternal quick pave alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "more castle dynamic course nominee family move cloud ice pistol together cargo";
+var mnemonic = "secret glow notice amateur lady armor youth work muffin sphere cement tired";

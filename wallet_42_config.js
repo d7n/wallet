@@ -1,1 +1,1 @@
-var mnemonic = "crucial endorse weird script earn argue position film electric include plastic apology";
+var mnemonic = "bomb butter token puzzle smile flock melt lucky next welcome toast tree";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree still mistake approve lazy top spike genuine depth exclude similar logic";
+var mnemonic = "harbor hold visual grow atom change power huge flat better horn swim";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual wire short disorder rack ancient chuckle town trash excess supply cargo";
+var mnemonic = "alley mesh ugly basic sun page discover solid stuff unable oven wood";

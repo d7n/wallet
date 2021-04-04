@@ -1,1 +1,1 @@
-var mnemonic = "three float remind senior project awful run find discover verify payment wear";
+var mnemonic = "cream second coffee lake baby grain rabbit urban rack good hen stadium";

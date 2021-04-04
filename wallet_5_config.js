@@ -1,1 +1,1 @@
-var mnemonic = "silly pink tomato canyon enrich wine limit journey salmon treat then draw";
+var mnemonic = "supply rule hub lizard adapt imitate drip object tissue tank tourist tower";

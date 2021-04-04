@@ -1,1 +1,1 @@
-var mnemonic = "hover warfare all sell gym goose soda vacant offer chief fine salmon";
+var mnemonic = "valley door jacket then legend cushion culture tourist soft then trap require";

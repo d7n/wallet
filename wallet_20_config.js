@@ -1,1 +1,1 @@
-var mnemonic = "riot owner choice one van teach fashion party blade main myself easy";
+var mnemonic = "method work island orbit fence fat mass chapter raw cactus evolve patrol";

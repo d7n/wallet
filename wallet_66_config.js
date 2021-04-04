@@ -1,1 +1,1 @@
-var mnemonic = "derive leaf believe place artefact pottery detect vanish broken hundred theme blade";
+var mnemonic = "obscure rabbit access you aware brain walk extend diet fence remember frame";

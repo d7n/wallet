@@ -1,1 +1,1 @@
-var mnemonic = "interest six vacuum protect dress dizzy arrest collect romance trim abuse soldier";
+var mnemonic = "skin carbon cannon dove puzzle bamboo increase try best ability snake skill";

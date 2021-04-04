@@ -1,1 +1,1 @@
-var mnemonic = "casino raccoon oppose arch cash identify birth diamond west vivid fish mother";
+var mnemonic = "suspect cotton spread black civil broken perfect crouch poem over very young";

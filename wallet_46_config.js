@@ -1,1 +1,1 @@
-var mnemonic = "quiz enable awesome topic buffalo venture silly weird present senior beach message";
+var mnemonic = "all aisle wall obscure assume ginger mammal sight certain obscure actual rather";

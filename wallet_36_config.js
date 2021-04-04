@@ -1,1 +1,1 @@
-var mnemonic = "razor again record chat rent short street setup snow mandate swamp shoe";
+var mnemonic = "excite canvas struggle term scatter dragon soda marble noble deny raise dial";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb people taxi bless refuse lion divorce forum health picture anger zone";
+var mnemonic = "tackle city patient correct jungle nut crawl office drift excite steel wink";

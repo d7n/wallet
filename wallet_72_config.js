@@ -1,1 +1,1 @@
-var mnemonic = "melt gorilla burger quote return dove mule funny lounge worth acquire answer";
+var mnemonic = "melody blame edit decade core dose inner glide brick wolf ostrich proof";

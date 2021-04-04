@@ -1,1 +1,1 @@
-var mnemonic = "candy flavor thunder purse staff phrase join smart science planet soon filter";
+var mnemonic = "crawl labor surprise talk tackle dragon dad evoke vessel market impose soup";

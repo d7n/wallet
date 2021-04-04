@@ -1,1 +1,1 @@
-var mnemonic = "hero author there position pact deny staff decrease vocal vendor pulse put";
+var mnemonic = "because antenna deer behind sick hat fire small all connect pink doll";

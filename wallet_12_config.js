@@ -1,1 +1,1 @@
-var mnemonic = "moon rib denial sustain achieve minimum much layer bring gadget suggest empower";
+var mnemonic = "agent boss story sponsor update left butter ready garbage attack write guard";

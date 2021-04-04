@@ -1,1 +1,1 @@
-var mnemonic = "zoo soda uniform type expose gain eager exchange lounge roast alert cause";
+var mnemonic = "file size hard never ignore pool yard erosion electric element timber pole";

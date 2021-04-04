@@ -1,1 +1,1 @@
-var mnemonic = "cement wheat material siege rain alert oyster elevator nephew hold into usage";
+var mnemonic = "veteran test girl sphere illegal tomato century prevent basket crack grocery master";

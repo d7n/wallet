@@ -1,1 +1,1 @@
-var mnemonic = "robot pelican must purity flower delay vehicle wire alpha custom gain claw";
+var mnemonic = "borrow cash blood fork miss term seven slot moment vendor park father";

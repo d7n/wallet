@@ -1,1 +1,1 @@
-var mnemonic = "inside sketch more oyster light custom twin sun gold island draw prize";
+var mnemonic = "extra october steel enhance visual aware zoo unusual leopard antique confirm neutral";

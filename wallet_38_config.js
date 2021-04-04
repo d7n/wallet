@@ -1,1 +1,1 @@
-var mnemonic = "accuse fee wear weather match resemble drift slender dinner industry recycle mandate";
+var mnemonic = "someone steel unveil hour million track lounge burden uphold awesome wet captain";

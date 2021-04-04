@@ -1,1 +1,1 @@
-var mnemonic = "patient blush truly make apart belt poet window rotate debate huge neck";
+var mnemonic = "album kiwi vacant scissors inherit canyon march panther firm violin odor right";

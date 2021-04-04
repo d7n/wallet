@@ -1,1 +1,1 @@
-var mnemonic = "pioneer inspire among strategy right together visa strike series alarm pumpkin cat";
+var mnemonic = "shallow vessel amused label million spare improve position hidden prison width address";

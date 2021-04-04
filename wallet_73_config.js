@@ -1,1 +1,1 @@
-var mnemonic = "actual post nominee crunch wear depth supply myth program cricket target asset";
+var mnemonic = "giant school around occur essence dinosaur program hill people board sweet inner";

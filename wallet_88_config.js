@@ -1,1 +1,1 @@
-var mnemonic = "start border draft column enough minor accident staff share erase coyote govern";
+var mnemonic = "exhaust above exist area shed opera bubble beauty beef crazy orange raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty frost pattern trick card kiwi artwork toss edit sponsor afraid warm";
+var mnemonic = "master fluid announce beauty present crew worry empty cabin eternal antenna because";

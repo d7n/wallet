@@ -1,1 +1,1 @@
-var mnemonic = "midnight bright deliver resemble twelve bleak allow mention noise raise chapter endorse";
+var mnemonic = "viable bench dish camera topple two despair scene devote worry humor crater";

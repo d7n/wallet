@@ -1,1 +1,1 @@
-var mnemonic = "palm build steak cabin gate basket mammal hybrid capable auto various polar";
+var mnemonic = "pilot remain follow typical relax inmate dad rough next pitch subject parrot";

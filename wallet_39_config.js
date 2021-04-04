@@ -1,1 +1,1 @@
-var mnemonic = "summer upon mandate capable hour unfair claim chair now ridge warm bleak";
+var mnemonic = "expire feature wait sound fix wheat rotate message ostrich visit spot similar";

@@ -1,1 +1,1 @@
-var mnemonic = "behave jewel reject problem mango feed remove detail lizard convince glove sleep";
+var mnemonic = "deposit invite crater window farm know extend crush before approve banana omit";

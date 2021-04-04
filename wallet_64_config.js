@@ -1,1 +1,1 @@
-var mnemonic = "world grant party crack vintage spawn satoshi plate fox crawl word reopen";
+var mnemonic = "depth october unlock type canal wrong never leopard better expand express under";

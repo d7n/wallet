@@ -1,1 +1,1 @@
-var mnemonic = "convince uncover observe slender replace key tube fame disagree combine better resist";
+var mnemonic = "crater pluck never damage gloom begin acoustic emotion jaguar absurd night top";

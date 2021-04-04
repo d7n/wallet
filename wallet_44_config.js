@@ -1,1 +1,1 @@
-var mnemonic = "fly daring save physical come isolate army water yellow glance foot fork";
+var mnemonic = "they clay slender total time sign boss alone void kangaroo panel broken";

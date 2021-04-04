@@ -1,1 +1,1 @@
-var mnemonic = "pipe diagram enrich peanut fish carpet pilot stage violin winner future flash";
+var mnemonic = "ordinary attend bomb material edge shove advance usual impose route close motion";

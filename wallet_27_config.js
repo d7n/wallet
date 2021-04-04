@@ -1,1 +1,1 @@
-var mnemonic = "gather weather donkey silk mouse spell industry culture believe father gloom purity";
+var mnemonic = "foster improve flash sweet fresh thrive change street rebel foster tired glide";

@@ -1,1 +1,1 @@
-var mnemonic = "atom woman wealth require category apple boy face casual quiz horse cancel";
+var mnemonic = "awful border atom thing ozone awake shoe labor weasel column column suggest";

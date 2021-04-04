@@ -1,1 +1,1 @@
-var mnemonic = "crane coconut decade like never car casual radar globe board seven rocket";
+var mnemonic = "borrow vacant repeat vehicle author knife asset ring hill donate sauce shiver";

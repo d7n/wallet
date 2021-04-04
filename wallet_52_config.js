@@ -1,1 +1,1 @@
-var mnemonic = "defy bounce good city menu public clock such economy scrap ability december";
+var mnemonic = "egg boss embark spare energy shiver much prefer denial trial lizard shell";

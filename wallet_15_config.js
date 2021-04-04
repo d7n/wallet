@@ -1,1 +1,1 @@
-var mnemonic = "wire pull comic cute miss rib clever child forget wagon blur clever";
+var mnemonic = "dish obvious pencil uniform tuition lift brisk heart bleak ritual excite icon";

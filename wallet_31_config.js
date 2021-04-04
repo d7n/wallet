@@ -1,1 +1,1 @@
-var mnemonic = "brick dismiss dragon settle year rose view emotion couch fall cradle success";
+var mnemonic = "nose bulk battle trim lion vocal round suspect solid sting knife erode";

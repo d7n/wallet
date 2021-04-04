@@ -1,1 +1,1 @@
-var mnemonic = "section mushroom treat chief clerk domain invest endorse brown eagle voyage crowd";
+var mnemonic = "thank congress program mango enable symbol often pelican clever drum fine robot";

@@ -1,1 +1,1 @@
-var mnemonic = "trap try attract armed jewel inhale crisp still link focus exclude mesh";
+var mnemonic = "laptop obscure drastic circle sail embark horror twice write myth pioneer coyote";

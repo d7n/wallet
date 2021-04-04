@@ -1,1 +1,1 @@
-var mnemonic = "ghost dove slice tower quarter notable trim garden reflect report retire buffalo";
+var mnemonic = "pencil swim vague gown bleak resource immense provide spatial history travel delay";

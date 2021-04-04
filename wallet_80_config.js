@@ -1,1 +1,1 @@
-var mnemonic = "fragile matter mixture genius immense ability element marine ready gather beach process";
+var mnemonic = "shiver subway medal pretty upset diamond garden fluid about humble chunk fame";

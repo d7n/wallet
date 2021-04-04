@@ -1,1 +1,1 @@
-var mnemonic = "badge title aware wife point sphere sense mosquito jealous equip elephant spike";
+var mnemonic = "claw toy poverty major witness ivory recycle crawl vacuum alert slam scatter";

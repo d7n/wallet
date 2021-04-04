@@ -1,1 +1,1 @@
-var mnemonic = "urge equip another isolate trial crack during solid educate enemy genuine mercy";
+var mnemonic = "comic fine benefit walk ten sheriff glare message aerobic board whip wink";

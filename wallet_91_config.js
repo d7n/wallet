@@ -1,1 +1,1 @@
-var mnemonic = "inhale grain absurd defy resemble add ecology suspect crowd sing cactus wash";
+var mnemonic = "shock faith hammer surface innocent vacuum survey good piece pass mean brown";

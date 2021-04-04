@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cupboard shock tackle worth have weather today carpet iron favorite clinic";
+var mnemonic = "carbon light climb motion add slogan theme umbrella vocal cute brisk universe";

@@ -1,1 +1,1 @@
-var mnemonic = "dove club sentence member long clutch tennis tone original hedgehog ghost pudding";
+var mnemonic = "now shine gold come era mirror always mask tool flash town explain";

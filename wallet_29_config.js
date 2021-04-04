@@ -1,1 +1,1 @@
-var mnemonic = "between pupil cheese bacon pupil bar over senior shove snow party seek";
+var mnemonic = "flight roast walk answer media sniff kite income denial install orchard unknown";

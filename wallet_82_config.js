@@ -1,1 +1,1 @@
-var mnemonic = "unit olympic struggle fatal ability mesh giraffe across pioneer peanut cheese like";
+var mnemonic = "hidden slender prize pipe uncover forget blue rescue time embody hover memory";

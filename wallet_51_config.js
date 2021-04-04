@@ -1,1 +1,1 @@
-var mnemonic = "water mistake human divert century fluid mosquito pony coffee broccoli language move";
+var mnemonic = "sunset refuse only limb dove candy weasel chunk receive head hundred example";

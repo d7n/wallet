@@ -1,1 +1,1 @@
-var mnemonic = "ripple group course feed ginger moon spoil civil sweet honey hour pottery";
+var mnemonic = "noble dust biology awesome original rather dash congress riot wire friend disease";

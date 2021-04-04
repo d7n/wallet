@@ -1,1 +1,1 @@
-var mnemonic = "sphere dog near mosquito squeeze shield multiply rare minimum slogan notable flame";
+var mnemonic = "pizza clown enter ripple record gesture taste imitate arrow connect talent town";

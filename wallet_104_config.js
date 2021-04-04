@@ -1,1 +1,1 @@
-var mnemonic = "boy baby require misery amused try diary love flip reward rude inflict";
+var mnemonic = "logic police nothing impact office miracle call syrup motor expand dune canal";

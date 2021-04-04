@@ -1,1 +1,1 @@
-var mnemonic = "elevator off task happy rude weird chair work category mutual market young";
+var mnemonic = "session ancient verb basket wheel leisure trim night merry cute decide adjust";

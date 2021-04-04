@@ -1,1 +1,1 @@
-var mnemonic = "main brain canyon coconut adjust dinosaur learn allow edit arrest fit border";
+var mnemonic = "virus wisdom attract faculty dust virus annual glory genius forum boat marine";

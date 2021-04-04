@@ -1,1 +1,1 @@
-var mnemonic = "output pupil govern taste rose foam around attack paper diamond boy sleep";
+var mnemonic = "suggest twist label label rebuild survey virus oval net off bulk year";

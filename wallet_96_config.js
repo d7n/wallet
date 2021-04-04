@@ -1,1 +1,1 @@
-var mnemonic = "awake weird skirt sense draw pet there love include debate reopen knock";
+var mnemonic = "assault steel flip siege nuclear witness thought dress style guitar harsh catch";

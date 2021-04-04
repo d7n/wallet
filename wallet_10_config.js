@@ -1,1 +1,1 @@
-var mnemonic = "city pilot cage meadow parade hero now blue physical tissue appear multiply";
+var mnemonic = "exotic resemble general winner dignity sister tumble cargo private together vocal version";

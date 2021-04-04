@@ -1,1 +1,1 @@
-var mnemonic = "can daring fly kite civil helmet antique special host claw sell knife";
+var mnemonic = "betray travel rule flower cactus doll busy gasp mouse slice chimney nest";

@@ -1,1 +1,1 @@
-var mnemonic = "employ timber hen spend gallery remove core elevator morning forward athlete cute";
+var mnemonic = "true first marble inch save guide april economy foam caution field together";

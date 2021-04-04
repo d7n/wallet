@@ -1,1 +1,1 @@
-var mnemonic = "motion shed trophy already client injury grain cake print struggle hope rhythm";
+var mnemonic = "boy tiger license ski time iron help consider season bright trick dinner";

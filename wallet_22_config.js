@@ -1,1 +1,1 @@
-var mnemonic = "spawn piece expose law lava planet tooth noise cave project mesh next";
+var mnemonic = "wrong guitar fix vacant seven list leaf lucky draw sound wave caution";

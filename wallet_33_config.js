@@ -1,1 +1,1 @@
-var mnemonic = "noise judge amateur dumb category mix army club fashion already scare seek";
+var mnemonic = "grape leg hamster company find step favorite useful person kit regular drastic";

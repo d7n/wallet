@@ -1,1 +1,1 @@
-var mnemonic = "age erase diagram shaft tumble hundred divert peasant ship clump glass peace";
+var mnemonic = "era income wool desert black drip smile topic quiz bring plate claim";

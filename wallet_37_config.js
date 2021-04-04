@@ -1,1 +1,1 @@
-var mnemonic = "fatigue staff face buyer door mushroom uncover mixed milk pretty blossom kite";
+var mnemonic = "food ginger seat infant below only swift jealous edit panel draw tip";

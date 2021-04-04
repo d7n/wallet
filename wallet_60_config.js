@@ -1,1 +1,1 @@
-var mnemonic = "antenna garment treat web blind group spring layer tool install armor change";
+var mnemonic = "escape history phrase nut hurt gravity congress echo disease fiscal exhibit spare";

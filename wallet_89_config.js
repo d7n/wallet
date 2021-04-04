@@ -1,1 +1,1 @@
-var mnemonic = "tourist topple balcony engine when riot above guard quarter napkin oven accident";
+var mnemonic = "session pretty vanish parrot bonus apple strike army home priority salmon april";

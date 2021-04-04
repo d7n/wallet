@@ -1,1 +1,1 @@
-var mnemonic = "knee digital glare loan eager gown hobby impulse awkward tip chunk recycle";
+var mnemonic = "illegal uphold trophy client horn neither unhappy differ culture shop two odor";

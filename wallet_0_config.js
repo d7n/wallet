@@ -1,1 +1,1 @@
-var mnemonic = "sport busy coffee three popular hello twelve purity cost sing tag service";
+var mnemonic = "genius pony language wrong engage liquid school gasp cliff napkin cluster forget";

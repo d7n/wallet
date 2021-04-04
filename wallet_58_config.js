@@ -1,1 +1,1 @@
-var mnemonic = "bulk little buyer define segment bargain impact bachelor demise grow meadow jar";
+var mnemonic = "road yard october bronze yellow excite manage like banner chicken tongue little";

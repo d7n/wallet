@@ -1,1 +1,1 @@
-var mnemonic = "code merry addict holiday because endless width pear siege meadow patch assist";
+var mnemonic = "lock hundred arm vault clip yard busy object brick miss base snow";

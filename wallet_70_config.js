@@ -1,1 +1,1 @@
-var mnemonic = "flavor lift bone capital tag sure require result access help bag defy";
+var mnemonic = "twelve hybrid churn purchase luggage rapid rough sure zebra visit scissors scrap";

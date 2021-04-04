@@ -1,1 +1,1 @@
-var mnemonic = "because type cement paper youth taxi wait garment crater trip track already";
+var mnemonic = "enter chimney stable flip confirm novel pitch legend flag army alarm coconut";

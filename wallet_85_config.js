@@ -1,1 +1,1 @@
-var mnemonic = "silk frequent chaos end bean title debate enable crane aim matrix way";
+var mnemonic = "seminar pluck sell machine promote door nice gold drip shoot frown broken";

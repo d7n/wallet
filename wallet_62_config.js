@@ -1,1 +1,1 @@
-var mnemonic = "rich under hair head oxygen palm twin exchange dentist tent excess kitchen";
+var mnemonic = "entire alley link cry front nut blossom spy cup army cupboard opinion";

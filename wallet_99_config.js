@@ -1,1 +1,1 @@
-var mnemonic = "general involve outer art pistol garment hip grow poem cheese damage blame";
+var mnemonic = "stove favorite share certain wave horse raccoon govern path small ethics leopard";

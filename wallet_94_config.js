@@ -1,1 +1,1 @@
-var mnemonic = "affair donate recipe exact drop dad uncover night hawk cross plunge survey";
+var mnemonic = "salute cost card march piano appear badge nephew sure spawn obey chuckle";

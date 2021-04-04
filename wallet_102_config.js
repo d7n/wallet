@@ -1,1 +1,1 @@
-var mnemonic = "clinic volume gallery noise over marriage flower hamster into outside soup doctor";
+var mnemonic = "gain unit tackle they elder current public because number fabric scrub shaft";

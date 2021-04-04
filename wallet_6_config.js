@@ -1,1 +1,1 @@
-var mnemonic = "horror alpha slab float any begin soldier rural swear pilot bean space";
+var mnemonic = "devote ensure image stick sniff steak hurdle number crawl unlock permit best";

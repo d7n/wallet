@@ -1,1 +1,1 @@
-var mnemonic = "below picnic enrich hood grab select hungry season west force eager outer";
+var mnemonic = "fetch remove place there settle urge begin maple iron mandate abstract awful";

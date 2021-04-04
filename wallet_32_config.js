@@ -1,1 +1,1 @@
-var mnemonic = "teach earth worry feed vehicle level blouse patient effort immune metal claim";
+var mnemonic = "day myself layer famous upgrade affair blast shaft someone wet track actor";

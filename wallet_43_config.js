@@ -1,1 +1,1 @@
-var mnemonic = "people early dice pair vivid allow news couch group urge mountain chuckle";
+var mnemonic = "purse better harbor pilot gate razor robot addict media run immune assume";

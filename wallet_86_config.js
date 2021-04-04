@@ -1,1 +1,1 @@
-var mnemonic = "exact size visa like brass casual web price ill tower pet spatial";
+var mnemonic = "wood season speed great tower dinner push salmon neglect ladder reject pigeon";

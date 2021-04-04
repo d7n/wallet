@@ -1,1 +1,1 @@
-var mnemonic = "velvet injury client biology require fitness nest capital work section knock rookie";
+var mnemonic = "caution master have peace assault piece scout pool way cotton bird leopard";

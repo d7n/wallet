@@ -1,1 +1,1 @@
-var mnemonic = "genre opinion music extra park sun wheat addict soap glimpse actor orient";
+var mnemonic = "radar rapid brain rescue donkey tooth always art innocent loan diamond come";

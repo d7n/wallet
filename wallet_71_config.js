@@ -1,1 +1,1 @@
-var mnemonic = "ladder bachelor maximum dune math cliff cabbage marine sing sugar twelve emotion";
+var mnemonic = "average cruel crisp glare crumble prefer need blouse alcohol harbor maximum midnight";

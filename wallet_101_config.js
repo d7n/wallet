@@ -1,1 +1,1 @@
-var mnemonic = "busy program spoon proud core sick repeat alien minute miss debris journey";
+var mnemonic = "bounce banner cinnamon oppose better coral disorder piece width zebra mushroom wine";

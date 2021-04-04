@@ -1,1 +1,1 @@
-var mnemonic = "index hire express spice broken flock phrase reduce rookie chuckle shiver fringe";
+var mnemonic = "bless swarm gaze elevator embark define club digital skill again way stick";
