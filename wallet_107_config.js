@@ -1,1 +1,1 @@
-var mnemonic = "cigar tube portion doll split future enemy chapter erupt easy walk wire";
+var mnemonic = "liquid bus property page goat strategy fringe honey aisle future mammal craft";

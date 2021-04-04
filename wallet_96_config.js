@@ -1,1 +1,1 @@
-var mnemonic = "edge response leave romance simple frame salad sudden report online hurt pistol";
+var mnemonic = "piece drop similar only fabric book eternal slush orchard possible identify stuff";

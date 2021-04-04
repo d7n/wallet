@@ -1,1 +1,1 @@
-var mnemonic = "weather harbor dad pave hover door unlock weather among oppose wolf number";
+var mnemonic = "cactus icon funny account anger clever valid move silk balcony rule pledge";

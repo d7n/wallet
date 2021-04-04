@@ -1,1 +1,1 @@
-var mnemonic = "merge tobacco bind belt valve risk pave coffee isolate slight guilt cover";
+var mnemonic = "dynamic lazy book coffee bullet frown enhance raise jump leg crisp feed";

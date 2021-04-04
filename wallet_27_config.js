@@ -1,1 +1,1 @@
-var mnemonic = "lake day neither wet more document ahead cool fold nephew unfair shy";
+var mnemonic = "economy accident present gravity people empower yellow blast medal capital lady chef";

@@ -1,1 +1,1 @@
-var mnemonic = "supply twenty jazz bus wash guess copper model trouble damage network frame";
+var mnemonic = "reward borrow deliver sunset excuse coil okay security wrap hollow oval snake";

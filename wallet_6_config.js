@@ -1,1 +1,1 @@
-var mnemonic = "only lemon thought canoe gossip fame oak spell owner undo trip future";
+var mnemonic = "gasp man oak suggest twist fork drift demise loyal cruel leaf wild";

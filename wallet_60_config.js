@@ -1,1 +1,1 @@
-var mnemonic = "come era cement aware ritual calm stem civil permit melody crazy sea";
+var mnemonic = "catch connect detail original force aim element visit still place acoustic primary";

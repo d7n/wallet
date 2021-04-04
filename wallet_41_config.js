@@ -1,1 +1,1 @@
-var mnemonic = "wire alert deal whisper someone party clarify agent despair merge excuse market";
+var mnemonic = "oil enough fury future describe toast health photo fossil metal kite cook";

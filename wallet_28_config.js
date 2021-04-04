@@ -1,1 +1,1 @@
-var mnemonic = "addict appear cupboard pen horse wedding middle tail dinosaur dumb museum wire";
+var mnemonic = "truth corn final jacket sea derive sketch exhaust screen helmet approve rate";

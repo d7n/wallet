@@ -1,1 +1,1 @@
-var mnemonic = "prosper update village child prepare blade trial domain deer boat drop future";
+var mnemonic = "veteran supreme alcohol scare luxury shadow cake moment cruise bid aunt follow";

@@ -1,1 +1,1 @@
-var mnemonic = "town diet session label garment unlock toe gentle method caution medal blade";
+var mnemonic = "snack ignore train banner flush screen flip scout early clump awesome jar";

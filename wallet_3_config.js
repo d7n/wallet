@@ -1,1 +1,1 @@
-var mnemonic = "sense rare ranch blood pet marriage scout adult length horror harsh inflict";
+var mnemonic = "vague web search asset chunk usage crater brand high govern ignore decrease";

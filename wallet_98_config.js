@@ -1,1 +1,1 @@
-var mnemonic = "peace fortune surface primary finish rabbit carry patch tackle plate erode sketch";
+var mnemonic = "machine disease castle unaware calm diary type dizzy shell dream town one";

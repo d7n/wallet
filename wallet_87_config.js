@@ -1,1 +1,1 @@
-var mnemonic = "tonight word copper spin mixture picture earth marriage mechanic increase drop gospel";
+var mnemonic = "lazy juice zoo situate before expect monster hidden enlist basic office carpet";

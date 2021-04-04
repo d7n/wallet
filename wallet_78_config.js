@@ -1,1 +1,1 @@
-var mnemonic = "tuna vocal mango level blouse sentence art effort cattle add still wonder";
+var mnemonic = "toy student fragile cage course ignore admit lucky end habit portion term";

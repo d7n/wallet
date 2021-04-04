@@ -1,1 +1,1 @@
-var mnemonic = "below author dismiss math monster card walk guess produce rail kitten blade";
+var mnemonic = "dune zoo leader broom cheese task such hunt fame fold sell taxi";

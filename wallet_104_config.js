@@ -1,1 +1,1 @@
-var mnemonic = "submit merit swarm eyebrow raw puppy undo unfold wool wheat cherry bottom";
+var mnemonic = "help fun song cradle tenant immense right stand sick swamp execute define";

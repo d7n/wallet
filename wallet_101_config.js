@@ -1,1 +1,1 @@
-var mnemonic = "cage only exile industry olympic potato shed cruel gesture famous north sphere";
+var mnemonic = "tortoise shine lesson attract actress hold enemy orange amazing alone success scene";

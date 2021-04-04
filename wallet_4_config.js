@@ -1,1 +1,1 @@
-var mnemonic = "goddess finish inspire verb library release pluck month model quote shoe arrest";
+var mnemonic = "upgrade long drum armor sentence country ahead nose flavor amazing swim fringe";

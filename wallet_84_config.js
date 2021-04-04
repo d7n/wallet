@@ -1,1 +1,1 @@
-var mnemonic = "danger mammal elevator differ happy worth penalty whip axis salmon monster half";
+var mnemonic = "spring idle tank hedgehog token breeze under bike alert medal climb wire";

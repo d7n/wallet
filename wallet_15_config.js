@@ -1,1 +1,1 @@
-var mnemonic = "suggest cycle twelve blast annual total jungle toast glory danger punch reduce";
+var mnemonic = "denial want despair edge subway frame second soda since social direct flame";

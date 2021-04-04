@@ -1,1 +1,1 @@
-var mnemonic = "jungle stick magic discover fun soon pulp cheap type arrow food glare";
+var mnemonic = "setup liberty inmate crucial into safe burger tell case copper soap before";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy flee balcony record envelope abstract ancient intact worry ill ignore critic";
+var mnemonic = "comfort smart assume surge runway stove dynamic surface day hen resemble orange";

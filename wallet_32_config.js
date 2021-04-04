@@ -1,1 +1,1 @@
-var mnemonic = "face neck include nephew news wine sorry sweet cattle category walnut error";
+var mnemonic = "sauce people jacket need lazy fitness fetch festival donkey tuition inject zoo";

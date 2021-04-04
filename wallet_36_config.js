@@ -1,1 +1,1 @@
-var mnemonic = "print ship party ozone video fix quick supply hero milk goddess garden";
+var mnemonic = "tone vacant ball engine harvest wear pretty lounge wood ranch sand issue";

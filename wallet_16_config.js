@@ -1,1 +1,1 @@
-var mnemonic = "index topic lend balcony bus tube plastic frog base rough fan salad";
+var mnemonic = "blind admit tree topple pave blur donkey hen beef rug civil bike";

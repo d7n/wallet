@@ -1,1 +1,1 @@
-var mnemonic = "destroy enroll virus radar cycle rifle memory hammer glance onion install first";
+var mnemonic = "ready rude favorite letter accident add verb used beyond laundry consider brand";

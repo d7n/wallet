@@ -1,1 +1,1 @@
-var mnemonic = "produce actor push lawn private host chicken run wrong detail still duck";
+var mnemonic = "surface illness genius diagram paddle joy name okay shy saddle paddle volume";

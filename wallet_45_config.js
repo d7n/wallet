@@ -1,1 +1,1 @@
-var mnemonic = "task exhaust language guilt december muscle mirror boss latin laptop prize flock";
+var mnemonic = "genius action robust trick false stuff neutral hen brass awkward shoulder dismiss";

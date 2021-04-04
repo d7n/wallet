@@ -1,1 +1,1 @@
-var mnemonic = "search scrub afraid warfare wild own image sister sea typical seat survey";
+var mnemonic = "escape assault domain base original kingdom blade donkey roast define immune output";

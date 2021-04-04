@@ -1,1 +1,1 @@
-var mnemonic = "response oxygen toss suit deal have patch adapt radar escape math club";
+var mnemonic = "divide final lottery gospel repeat save salt light speed unlock refuse above";

@@ -1,1 +1,1 @@
-var mnemonic = "icon work salon clarify review acquire globe language truck long destroy camp";
+var mnemonic = "kit bring camp machine ghost infant outer despair cream settle wedding torch";

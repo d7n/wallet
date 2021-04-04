@@ -1,1 +1,1 @@
-var mnemonic = "wheat cupboard welcome double ensure club monitor kingdom glance junior catch usage";
+var mnemonic = "priority divert doll sadness base jacket luxury icon raise afford hungry worth";

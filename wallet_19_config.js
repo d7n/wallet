@@ -1,1 +1,1 @@
-var mnemonic = "sword uncle trophy seek ancient train shrimp artefact belt primary timber choose";
+var mnemonic = "chat winner sugar never cause pigeon salmon derive permit pioneer glow cradle";

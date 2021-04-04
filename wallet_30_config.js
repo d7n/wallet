@@ -1,1 +1,1 @@
-var mnemonic = "again angry canal tree benefit chalk stool milk coral insect front split";
+var mnemonic = "physical baby reduce usual head science snack garment beef gallery tornado icon";

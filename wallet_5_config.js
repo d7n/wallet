@@ -1,1 +1,1 @@
-var mnemonic = "maximum warfare visit pride elegant oval pitch tuna normal bridge leader dove";
+var mnemonic = "they rabbit panel tail pumpkin renew already draft opera satisfy image wolf";

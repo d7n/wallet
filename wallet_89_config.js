@@ -1,1 +1,1 @@
-var mnemonic = "slam stone return rule rally syrup neck soul tank chase cereal cereal";
+var mnemonic = "race inside giraffe multiply theme enforce amount special until luggage mosquito vital";

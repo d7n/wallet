@@ -1,1 +1,1 @@
-var mnemonic = "welcome describe dragon pen differ glimpse canoe obtain country eight ginger age";
+var mnemonic = "judge stable exit hover neutral kidney evoke pattern firm rule trim civil";

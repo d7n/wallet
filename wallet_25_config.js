@@ -1,1 +1,1 @@
-var mnemonic = "general apart world aunt wash engage nurse sword rent credit nuclear school";
+var mnemonic = "tip today tube combine basket goat shaft often cruel depth notable secret";

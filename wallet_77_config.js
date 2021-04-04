@@ -1,1 +1,1 @@
-var mnemonic = "eagle move ozone brass impact ride right diesel echo good coast intact";
+var mnemonic = "excuse patch olympic cable chicken sword volume pond account raw admit affair";

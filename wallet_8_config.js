@@ -1,1 +1,1 @@
-var mnemonic = "there slam spell exotic primary shallow radio pact zebra myth stage elephant";
+var mnemonic = "unusual soft turn silver someone mind mammal race point plastic rotate simple";

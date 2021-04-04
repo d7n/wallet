@@ -1,1 +1,1 @@
-var mnemonic = "begin kitchen mail vault stamp push venue luggage occur high question scissors";
+var mnemonic = "traffic drift creek husband outer hold cross know raven clarify warrior rebuild";

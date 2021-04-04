@@ -1,1 +1,1 @@
-var mnemonic = "office ten indoor biology voice manual net legal boss blush topple indoor";
+var mnemonic = "enlist ritual fan ostrich throw more good tip road shine virtual trial";

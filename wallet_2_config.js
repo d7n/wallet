@@ -1,1 +1,1 @@
-var mnemonic = "head skill middle divide soap puzzle empty beyond verb payment poverty include";
+var mnemonic = "chronic ahead order genre genius vintage develop trash pulp switch couch corn";

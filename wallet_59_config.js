@@ -1,1 +1,1 @@
-var mnemonic = "purity cram knee laundry history dry bicycle ancient ride scout report miss";
+var mnemonic = "piece artwork arrive outdoor major gloom clog level coconut half wood demise";

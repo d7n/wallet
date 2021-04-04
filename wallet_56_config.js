@@ -1,1 +1,1 @@
-var mnemonic = "embrace time more call grain rigid recycle off muscle young good raccoon";
+var mnemonic = "sell era behind lava minor mom journey before yellow moment uncle special";

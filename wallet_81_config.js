@@ -1,1 +1,1 @@
-var mnemonic = "length major predict give foster beyond mandate bone roast diary bar kiss";
+var mnemonic = "match tribe cabbage magnet disorder option fit promote absorb version pluck drill";

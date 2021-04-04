@@ -1,1 +1,1 @@
-var mnemonic = "field present charge upper calm crumble orbit sell wasp rhythm team ostrich";
+var mnemonic = "inner spot repair cotton life aim proof sheriff owner hard initial tackle";

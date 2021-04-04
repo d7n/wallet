@@ -1,1 +1,1 @@
-var mnemonic = "phone frame walk club glimpse horror where maze winter design stairs pair";
+var mnemonic = "embark dust country combine luxury tattoo license spike shallow minute gesture topple";

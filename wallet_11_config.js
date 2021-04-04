@@ -1,1 +1,1 @@
-var mnemonic = "cargo exist hurdle refuse will sauce clown sell flame sunset inch roast";
+var mnemonic = "flat clarify horn gesture frozen roast pink concert damage safe tower arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "casual brass caught fuel artist resist address iron hat either vendor post";
+var mnemonic = "collect runway spring convince diet dish knife legend way rescue prepare nominee";

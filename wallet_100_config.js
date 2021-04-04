@@ -1,1 +1,1 @@
-var mnemonic = "essay wife scan staff foil ordinary slender lock lamp shell flag weather";
+var mnemonic = "actress run else ketchup warrior obtain fork job humor exit announce rice";

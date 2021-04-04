@@ -1,1 +1,1 @@
-var mnemonic = "barely whip surround burger uncle unusual over cheap romance right beach tray";
+var mnemonic = "reward charge rice aunt town chunk acquire forget top wool hard early";

@@ -1,1 +1,1 @@
-var mnemonic = "steel drive laugh vibrant ride shed ridge wrestle horn oil script salon";
+var mnemonic = "body fatal jazz mad example riot web judge isolate earn barrel size";

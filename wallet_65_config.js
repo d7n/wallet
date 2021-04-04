@@ -1,1 +1,1 @@
-var mnemonic = "begin grief paper language weird move cave question subject kitten junior rude";
+var mnemonic = "image brush negative hole broken luxury tuition maze media lend deliver fall";

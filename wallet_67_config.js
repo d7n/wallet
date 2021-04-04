@@ -1,1 +1,1 @@
-var mnemonic = "hello gossip hour broken give pudding alone magic jelly wall unveil flock";
+var mnemonic = "lamp annual book express mask tornado stereo issue salt permit cricket lend";

@@ -1,1 +1,1 @@
-var mnemonic = "discover loan term quick save cable puzzle large forward wedding wheat thunder";
+var mnemonic = "anxiety coast right industry jungle scrub stem acoustic wink prevent arm grace";

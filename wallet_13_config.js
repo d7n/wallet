@@ -1,1 +1,1 @@
-var mnemonic = "ability close scan tag sheriff response notice crawl panic gloom humor chair";
+var mnemonic = "meat ten shine excuse practice act diesel divert empty plunge keen cake";

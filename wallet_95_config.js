@@ -1,1 +1,1 @@
-var mnemonic = "finish toddler any derive breeze roast eye insect letter hour utility skill";
+var mnemonic = "turtle thrive rescue actor draw scrap joke exhaust sand service industry quiz";

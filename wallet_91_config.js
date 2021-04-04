@@ -1,1 +1,1 @@
-var mnemonic = "viable cream access thank oil deputy stage afford antenna assault where possible";
+var mnemonic = "abstract cliff empty gas post federal mansion shaft shock lava script expose";

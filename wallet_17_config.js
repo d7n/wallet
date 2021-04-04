@@ -1,1 +1,1 @@
-var mnemonic = "soul science awesome trial sample story express cage keen junior leave total";
+var mnemonic = "supreme rigid fabric domain cheap home gate pave idea shed spawn level";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel spy poem entire grain west number harsh need image apology sign";
+var mnemonic = "garlic night acquire uniform only return ball enough napkin theory wink kind";

@@ -1,1 +1,1 @@
-var mnemonic = "jump nothing elder own cruel fuel frog ridge movie identify survey major";
+var mnemonic = "giggle mammal forward powder service crew charge risk bulk load usage armed";

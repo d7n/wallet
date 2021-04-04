@@ -1,1 +1,1 @@
-var mnemonic = "upset glide indoor make apology chapter vote together legal script say peasant";
+var mnemonic = "before carpet learn donor rural merit long paper cousin ten bounce divide";

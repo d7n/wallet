@@ -1,1 +1,1 @@
-var mnemonic = "bachelor sniff congress rival jeans strategy famous measure bean devote napkin insane";
+var mnemonic = "mouse spice supreme adult april leader vital gravity fade useless brass expand";

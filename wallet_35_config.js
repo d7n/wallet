@@ -1,1 +1,1 @@
-var mnemonic = "shock web panther divide slot laugh picnic stairs renew carry into uncover";
+var mnemonic = "used upper rotate garlic inch elevator egg bar salad awake have gap";

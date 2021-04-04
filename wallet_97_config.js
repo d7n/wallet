@@ -1,1 +1,1 @@
-var mnemonic = "gain cash salt click rice strategy crawl dutch wear undo deal profit";
+var mnemonic = "hip slender census fantasy prevent elevator blast mouse panther arrest pair course";

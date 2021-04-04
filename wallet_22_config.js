@@ -1,1 +1,1 @@
-var mnemonic = "since spy vital age trash inmate logic thrive front win iron achieve";
+var mnemonic = "just motion hidden glow flavor onion talent grief dutch pink topple misery";

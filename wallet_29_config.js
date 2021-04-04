@@ -1,1 +1,1 @@
-var mnemonic = "frown boy lucky cycle dignity dirt blur prize cart above police material";
+var mnemonic = "option easily wisdom retreat there clump false cage pear polar miracle dial";

@@ -1,1 +1,1 @@
-var mnemonic = "lock gravity riot muffin idle soon flash album special taxi category plate";
+var mnemonic = "emotion income flower net city camp magnet bless taste vintage estate front";

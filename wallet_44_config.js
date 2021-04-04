@@ -1,1 +1,1 @@
-var mnemonic = "uncle basic skill space dish latin guard lamp cute tiny sure rain";
+var mnemonic = "gaze chronic budget cancel foster better impose put click exist mom grape";

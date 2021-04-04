@@ -1,1 +1,1 @@
-var mnemonic = "adapt unhappy turkey mushroom leg main audit oppose female future regret pioneer";
+var mnemonic = "domain episode curious light deal olive cloud walnut cloud jelly acquire spy";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete virtual sport dumb winner situate such town satisfy client spot oppose";
+var mnemonic = "actual range hotel settle tortoise sheriff celery attract simple tackle peasant slow";

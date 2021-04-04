@@ -1,1 +1,1 @@
-var mnemonic = "sick picnic chaos fix brass canoe force friend fly stay pyramid cactus";
+var mnemonic = "craft glare festival ginger primary speed twelve aim card dignity prison dinosaur";

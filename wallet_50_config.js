@@ -1,1 +1,1 @@
-var mnemonic = "unveil turn oblige drip settle symptom pizza lottery join egg deer spoil";
+var mnemonic = "toy payment vocal remind during want imitate verify notice oak gain property";

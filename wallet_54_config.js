@@ -1,1 +1,1 @@
-var mnemonic = "atom buyer review evil trap forget prosper decorate party cycle circle breeze";
+var mnemonic = "maid outdoor bind party reunion awful wise board dice open rather funny";

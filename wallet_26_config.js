@@ -1,1 +1,1 @@
-var mnemonic = "leg virus citizen century coin poverty author talk always cat spend unaware";
+var mnemonic = "wealth actor barrel conduct detail icon tide sure auction insane roof solution";

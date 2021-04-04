@@ -1,1 +1,1 @@
-var mnemonic = "mercy quick effort critic slice wolf excite entire because neck action capital";
+var mnemonic = "ten wasp disease high distance uncover spend hen mean air lunch bleak";

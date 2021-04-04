@@ -1,1 +1,1 @@
-var mnemonic = "galaxy clean recipe write bamboo express affair short enhance puppy fade twist";
+var mnemonic = "struggle clarify pilot library hope fever affair used industry joy digital liar";

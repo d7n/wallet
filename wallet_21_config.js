@@ -1,1 +1,1 @@
-var mnemonic = "midnight neck coast ticket jeans peace estate pizza worth bicycle warrior shallow";
+var mnemonic = "orphan plastic puzzle hand crew observe nuclear ocean nice peanut cupboard duty";

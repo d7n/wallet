@@ -1,1 +1,1 @@
-var mnemonic = "motion omit brown cigar fortune lawn super uncle lumber group glance conduct";
+var mnemonic = "hockey anchor velvet scheme piano power weapon moral mixture scare supply combine";

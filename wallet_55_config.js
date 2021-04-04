@@ -1,1 +1,1 @@
-var mnemonic = "eight slam wagon sauce subject disagree amazing dial fiction reflect consider reunion";
+var mnemonic = "quiz response rotate ramp wrist snake park prosper tide female say sleep";

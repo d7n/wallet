@@ -1,1 +1,1 @@
-var mnemonic = "typical pupil economy oak lunar dinosaur quote actress tenant uncle retire around";
+var mnemonic = "smile obey tower cross autumn purity stick witness prison like whale dizzy";

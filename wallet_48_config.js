@@ -1,1 +1,1 @@
-var mnemonic = "actress trash creek wool angry employ tornado judge tent math tuna weather";
+var mnemonic = "dinner error toward body veteran lava dismiss ocean insect bullet someone shuffle";

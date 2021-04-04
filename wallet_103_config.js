@@ -1,1 +1,1 @@
-var mnemonic = "stay gadget mango arctic issue trade judge reduce movie reform local emerge";
+var mnemonic = "normal valid frost army reopen parrot orphan tool snow budget repair step";

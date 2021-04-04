@@ -1,1 +1,1 @@
-var mnemonic = "clerk color domain snake skull say rice bottom control blind shop local";
+var mnemonic = "electric long awful garlic surge apology whale fog task shrimp nasty nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent switch give wing cage pudding toward upgrade dumb key control craft";
+var mnemonic = "grow onion liquid doctor mimic biology either tunnel pottery fatigue very slush";

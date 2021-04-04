@@ -1,1 +1,1 @@
-var mnemonic = "loud extra shell either knee cook destroy rocket cycle conduct honey reject";
+var mnemonic = "apart hover drop lesson emotion minute kiss better bracket legal oblige syrup";

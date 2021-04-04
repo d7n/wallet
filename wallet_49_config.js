@@ -1,1 +1,1 @@
-var mnemonic = "future federal trap foam labor denial disease sense chicken sport crumble final";
+var mnemonic = "grid artefact hockey general solid dumb van grape welcome dove birth helmet";
