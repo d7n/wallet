@@ -1,1 +1,1 @@
-var mnemonic = "bottom talent meadow car iron often lecture hawk reject hedgehog actual reform";
+var mnemonic = "shift genre march rotate average horse oppose unhappy popular legal leopard escape";

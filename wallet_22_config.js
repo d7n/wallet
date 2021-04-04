@@ -1,1 +1,1 @@
-var mnemonic = "obtain time hat evil join lyrics curtain bless joke fox error fortune";
+var mnemonic = "cake chat taxi mean moment elder sure session turkey patient morning left";

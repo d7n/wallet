@@ -1,1 +1,1 @@
-var mnemonic = "drum photo video crash tray hobby deposit organ guide luggage relax annual";
+var mnemonic = "travel fog shock ripple expect cruise lottery quiz iron wait laugh water";

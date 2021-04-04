@@ -1,1 +1,1 @@
-var mnemonic = "novel leaf quick student wing omit detect pulse heavy spot trophy live";
+var mnemonic = "carry wrestle divide category fold program loyal sing dizzy spell purity blanket";

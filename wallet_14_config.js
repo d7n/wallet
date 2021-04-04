@@ -1,1 +1,1 @@
-var mnemonic = "govern casual buffalo fault virus bridge brave chimney spray relief leisure crowd";
+var mnemonic = "smoke car step upon mandate source hundred put corn then open reveal";

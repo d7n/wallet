@@ -1,1 +1,1 @@
-var mnemonic = "valley pistol denial addict saddle next spend forget tube expose bitter clock";
+var mnemonic = "give ignore vacant gaze miracle track shift judge team crunch story grab";

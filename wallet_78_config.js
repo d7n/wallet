@@ -1,1 +1,1 @@
-var mnemonic = "mystery soda cost strike tube convince else chair skin prepare lazy music";
+var mnemonic = "tool inflict blame arrow interest hungry half ranch extra scout pet eager";

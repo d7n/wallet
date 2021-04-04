@@ -1,1 +1,1 @@
-var mnemonic = "reflect security dream view bomb symbol oxygen adapt spoon garage supply chaos";
+var mnemonic = "ozone educate turtle enough curious actual own voyage seat cover room jazz";

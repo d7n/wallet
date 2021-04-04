@@ -1,1 +1,1 @@
-var mnemonic = "fresh trophy glass barrel fire such smart behind razor type celery demise";
+var mnemonic = "repair shed believe tragic hybrid regret laundry angry post sure dignity screen";

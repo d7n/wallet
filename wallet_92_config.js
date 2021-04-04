@@ -1,1 +1,1 @@
-var mnemonic = "modify wink walk success north rain street dirt dignity parent have black";
+var mnemonic = "marble mesh tribe upon region other anxiety tooth pond glass private fashion";

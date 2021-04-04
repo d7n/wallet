@@ -1,1 +1,1 @@
-var mnemonic = "ready all tissue melody theme trick resist impact pumpkin matter canyon crawl";
+var mnemonic = "spirit they fitness glare dizzy source poet supply response long lamp cricket";

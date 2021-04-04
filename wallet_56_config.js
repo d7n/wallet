@@ -1,1 +1,1 @@
-var mnemonic = "insane they under bamboo confirm observe use measure picture below stamp glue";
+var mnemonic = "neutral random elegant always hello purse digital bone carry silver pull trumpet";

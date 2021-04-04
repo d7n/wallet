@@ -1,1 +1,1 @@
-var mnemonic = "skill double school knee master copper item what beach jeans connect select";
+var mnemonic = "glimpse arm chase carbon dream glow core misery enter evolve observe vehicle";

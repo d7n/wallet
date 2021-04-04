@@ -1,1 +1,1 @@
-var mnemonic = "height blame excess eye crisp flush oyster rather minimum mango what creek";
+var mnemonic = "public print magic loop donate guide goat room again swing pole position";

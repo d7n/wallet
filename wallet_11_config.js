@@ -1,1 +1,1 @@
-var mnemonic = "physical spend supply hundred opera increase vintage broccoli hurt alarm enhance forward";
+var mnemonic = "stomach child federal vanish surge interest palm stick impact latin palm tragic";

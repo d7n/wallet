@@ -1,1 +1,1 @@
-var mnemonic = "crater abstract thought fee hip inhale whisper cancel increase olympic trial faith";
+var mnemonic = "race eagle skin unfair success candy quarter above decide ski tattoo spike";

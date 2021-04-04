@@ -1,1 +1,1 @@
-var mnemonic = "earth bitter wide mosquito twice until garage candy swift dizzy cement fence";
+var mnemonic = "useful poem club benefit simple rich banner sugar silent turn flash frog";

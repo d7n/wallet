@@ -1,1 +1,1 @@
-var mnemonic = "abstract member decorate ginger egg voyage crumble retreat cram neutral filter pupil";
+var mnemonic = "assume horse maid pull sad puppy comfort provide already oven entire prevent";

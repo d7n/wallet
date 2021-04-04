@@ -1,1 +1,1 @@
-var mnemonic = "muffin follow federal tent wood impact expose define sea book organ video";
+var mnemonic = "miss zone caution tenant make amused angry sunny vapor stove mixture coconut";

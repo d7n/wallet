@@ -1,1 +1,1 @@
-var mnemonic = "dash raise logic burst diagram coil cancel deny abandon hill great note";
+var mnemonic = "sail sustain purpose inform collect finish journey vague empty hobby flock moment";

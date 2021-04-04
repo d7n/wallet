@@ -1,1 +1,1 @@
-var mnemonic = "filter cage sample chaos paper youth fringe royal shallow success canoe beauty";
+var mnemonic = "pluck explain cook cash maze priority decade coconut please then aware slam";

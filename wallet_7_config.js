@@ -1,1 +1,1 @@
-var mnemonic = "situate marble hard bunker version enter alone few cotton diet vacant render";
+var mnemonic = "galaxy fit mass icon diesel dance soap ready curious science winter lava";

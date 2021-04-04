@@ -1,1 +1,1 @@
-var mnemonic = "vintage thank engine dove unaware guess toilet confirm expose dish jazz cream";
+var mnemonic = "trash weather analyst weather grocery arch pigeon cloth donkey lounge agent include";

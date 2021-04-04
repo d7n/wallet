@@ -1,1 +1,1 @@
-var mnemonic = "case tuna agent unable tribe mansion sing name age crash consider under";
+var mnemonic = "fruit occur gown lyrics merit hip volcano present census wise romance range";

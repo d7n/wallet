@@ -1,1 +1,1 @@
-var mnemonic = "hurdle track blush canyon key rebel talent time ready what afraid explain";
+var mnemonic = "warrior salon mushroom finish arm tip pottery fatal river weasel gallery deny";

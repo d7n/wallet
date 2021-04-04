@@ -1,1 +1,1 @@
-var mnemonic = "nominee gospel poem sick kind comfort idea later dolphin sweet area laptop";
+var mnemonic = "umbrella craft salute crumble village chase subway unaware remain ask zebra outer";

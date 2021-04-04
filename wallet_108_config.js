@@ -1,1 +1,1 @@
-var mnemonic = "mean dove shoulder enroll arrest square want fine shaft flat crater step";
+var mnemonic = "gun forget movie major water wave kitchen faculty reform toss twist transfer";

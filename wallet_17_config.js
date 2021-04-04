@@ -1,1 +1,1 @@
-var mnemonic = "sadness tank bench appear piano dumb tilt inspire mandate build symptom proud";
+var mnemonic = "zero kitchen stomach only stumble weasel glare lion speed magic quality start";

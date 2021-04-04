@@ -1,1 +1,1 @@
-var mnemonic = "advance mean vendor monster acid camp moon caught suit seed question weapon";
+var mnemonic = "jealous asthma grape anger human garbage goose comic noise ensure pudding window";

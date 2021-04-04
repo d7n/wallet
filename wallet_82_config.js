@@ -1,1 +1,1 @@
-var mnemonic = "trigger nest favorite album glue inspire identify warfare better tennis denial monster";
+var mnemonic = "win public motion ozone extend shell keep angry ramp gloom ramp confirm";

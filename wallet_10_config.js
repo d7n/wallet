@@ -1,1 +1,1 @@
-var mnemonic = "equip charge mammal drama enroll pride stay harvest vehicle draft tongue culture";
+var mnemonic = "cereal matter bench field jeans cereal apology inhale such ability scrub pistol";

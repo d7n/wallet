@@ -1,1 +1,1 @@
-var mnemonic = "shiver horn air laptop menu laundry liberty side magnet piano universe antique";
+var mnemonic = "crowd beauty match stove work base pretty regret lounge entire wire van";

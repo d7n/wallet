@@ -1,1 +1,1 @@
-var mnemonic = "list tent glimpse surround judge catch wish olive remain cup save west";
+var mnemonic = "almost model scale design father naive occur settle problem party bitter affair";

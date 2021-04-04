@@ -1,1 +1,1 @@
-var mnemonic = "cute march coast luggage idea scheme legal angle master dignity ready honey";
+var mnemonic = "urge scissors brand century scissors gift sniff reform torch radar mosquito fancy";

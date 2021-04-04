@@ -1,1 +1,1 @@
-var mnemonic = "uncover surge gap net sniff equal course hair seed gas praise proud";
+var mnemonic = "rapid faculty arrest you exit palace unaware act drop connect crash broccoli";

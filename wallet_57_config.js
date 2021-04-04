@@ -1,1 +1,1 @@
-var mnemonic = "betray spider outside correct describe swift lady polar notice organ sauce emerge";
+var mnemonic = "jealous cricket appear initial skull gravity little skate screen churn special seed";

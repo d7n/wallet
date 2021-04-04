@@ -1,1 +1,1 @@
-var mnemonic = "skill junior ocean escape honey gold gasp skull version raven step seminar";
+var mnemonic = "write day pudding focus save minimum trap today hungry mushroom bracket pipe";

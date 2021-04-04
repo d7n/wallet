@@ -1,1 +1,1 @@
-var mnemonic = "balance slam earn grow ignore duty amount occur mimic scissors siege edge";
+var mnemonic = "six attend skull wise purchase sugar novel general game help fantasy palace";

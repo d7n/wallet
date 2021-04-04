@@ -1,1 +1,1 @@
-var mnemonic = "book chronic nerve clever board discover wonder mixture bulk napkin hundred nothing";
+var mnemonic = "lock ladder clock monkey quiz cause second ensure cool entry tragic company";

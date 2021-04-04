@@ -1,1 +1,1 @@
-var mnemonic = "negative base brass eagle parent midnight fatal atom pupil maximum subway rather";
+var mnemonic = "blast isolate west phone hurry sort online size general audit carry wear";

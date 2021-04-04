@@ -1,1 +1,1 @@
-var mnemonic = "wide fame educate scout verify major loud amused grit target road develop";
+var mnemonic = "brass kick chalk grit crumble near blanket enroll stock amused final wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy insect strategy own rhythm honey cage number shoe pilot bundle head";
+var mnemonic = "there copy hire split hollow dress yellow august increase ancient pair lock";

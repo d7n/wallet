@@ -1,1 +1,1 @@
-var mnemonic = "atom mind jar mirror danger stove cake pig lift define cup mountain";
+var mnemonic = "enroll column pass reason switch speed library nephew honey author scan vault";

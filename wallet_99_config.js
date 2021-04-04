@@ -1,1 +1,1 @@
-var mnemonic = "when honey social input diamond forest leg gadget razor excuse give when";
+var mnemonic = "damage trick eager regular police purpose toward skull sweet engine that deposit";

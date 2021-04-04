@@ -1,1 +1,1 @@
-var mnemonic = "nothing depth fossil wheat excess sample rail seed mixture frequent family scatter";
+var mnemonic = "purpose feel jeans train draft cycle pencil shoe saddle impulse switch fly";

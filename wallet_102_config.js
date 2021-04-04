@@ -1,1 +1,1 @@
-var mnemonic = "oxygen link good journey bind omit future crack fan trend lemon enlist";
+var mnemonic = "swallow cabin hurry slogan neglect chat advice forest vast voice market evil";

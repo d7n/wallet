@@ -1,1 +1,1 @@
-var mnemonic = "differ fluid error ability daughter critic fall catalog during major corn humble";
+var mnemonic = "prison flame mouse sniff top tourist screen kite ribbon ribbon ahead orange";

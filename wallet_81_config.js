@@ -1,1 +1,1 @@
-var mnemonic = "wrap render palm crane swing wrestle inmate town media atom danger utility";
+var mnemonic = "fix vehicle skate offer again tent involve essay phrase vibrant mystery pioneer";

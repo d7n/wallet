@@ -1,1 +1,1 @@
-var mnemonic = "tenant verb kind another canvas illegal rural cattle mammal glove fat inform";
+var mnemonic = "knee drift minor jazz armed happy into festival one uncle kidney worry";

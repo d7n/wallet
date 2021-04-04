@@ -1,1 +1,1 @@
-var mnemonic = "wisdom school salmon genre fossil rent minimum hold knife release shock ecology";
+var mnemonic = "proud price ugly meadow october vicious benefit actress now blush electric corn";

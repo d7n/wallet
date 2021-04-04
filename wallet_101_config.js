@@ -1,1 +1,1 @@
-var mnemonic = "employ mention scissors infant sense defy legal pattern moon resist know group";
+var mnemonic = "fly puppy increase know raccoon feature exile bone plate whale mystery object";

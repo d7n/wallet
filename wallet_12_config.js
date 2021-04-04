@@ -1,1 +1,1 @@
-var mnemonic = "road injury air draft cement ocean story because mixed disagree sudden review";
+var mnemonic = "error cheap blossom slogan session own bottom clay clean myth steak cluster";

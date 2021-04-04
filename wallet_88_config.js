@@ -1,1 +1,1 @@
-var mnemonic = "leopard thrive cherry bless below quarter main chapter soup cruise engine cool";
+var mnemonic = "diesel reunion goose author boat slush wild cry note betray replace corn";

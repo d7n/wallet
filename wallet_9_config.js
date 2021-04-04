@@ -1,1 +1,1 @@
-var mnemonic = "make also jacket absurd erupt please file usual enjoy catalog live scrub";
+var mnemonic = "right major drill squirrel sadness admit harsh test powder husband copy high";

@@ -1,1 +1,1 @@
-var mnemonic = "mind era easy treat original acquire year blur hamster crash hope salt";
+var mnemonic = "promote helmet sea vintage wine clump away loop chicken income tired judge";

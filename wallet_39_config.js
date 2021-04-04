@@ -1,1 +1,1 @@
-var mnemonic = "undo sport weird dolphin critic inquiry half basket genuine west fun drip";
+var mnemonic = "dish erosion section trouble sell juice warrior another profit august save focus";

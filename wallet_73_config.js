@@ -1,1 +1,1 @@
-var mnemonic = "gadget rough client smile lawsuit account rude lounge provide venture case access";
+var mnemonic = "have odor frog useful gym mother pink liquid occur scrap mango seat";

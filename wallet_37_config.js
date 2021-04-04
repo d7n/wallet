@@ -1,1 +1,1 @@
-var mnemonic = "amount addict enact gravity firm essence anger volume ankle deer notable anxiety";
+var mnemonic = "express identify sweet napkin saddle woman intact credit exchange spatial remember collect";

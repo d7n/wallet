@@ -1,1 +1,1 @@
-var mnemonic = "drum rule flame dust cactus door cram pigeon capital theme evolve volume";
+var mnemonic = "cabin sign pass maple mushroom siren hidden warfare kite online common churn";

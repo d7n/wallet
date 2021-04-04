@@ -1,1 +1,1 @@
-var mnemonic = "adapt helmet brown tone ignore special then mistake eternal music atom rude";
+var mnemonic = "urban reward phrase beef distance finish chef wonder buzz range foot neglect";

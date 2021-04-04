@@ -1,1 +1,1 @@
-var mnemonic = "dolphin film brand naive gown sock seven border lunar coil salon grab";
+var mnemonic = "bring dragon ozone connect pen bike moral issue action place end beach";

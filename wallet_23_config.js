@@ -1,1 +1,1 @@
-var mnemonic = "believe flag polar impulse gate wrist sort proud fetch rebuild goose cabin";
+var mnemonic = "indoor shrug where race name evil any leader charge peanut tower list";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle coffee believe upper grace test joy woman pause consider culture fall";
+var mnemonic = "monster chief kite ugly rough front bridge right local evolve bread twenty";

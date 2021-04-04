@@ -1,1 +1,1 @@
-var mnemonic = "hard between bonus father wet device panda zoo window alter multiply flock";
+var mnemonic = "vendor primary secret syrup kick vote village man special south addict depth";

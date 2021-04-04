@@ -1,1 +1,1 @@
-var mnemonic = "dinner unfold item noise ecology fruit easy trick glass media mass address";
+var mnemonic = "vivid monkey salad either guess witness unfold oyster marriage interest announce damage";

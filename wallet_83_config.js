@@ -1,1 +1,1 @@
-var mnemonic = "visit extra craft autumn candy evidence often manual receive lava space punch";
+var mnemonic = "pistol replace knee neglect shop destroy nominee notice census year duty unique";

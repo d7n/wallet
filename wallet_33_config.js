@@ -1,1 +1,1 @@
-var mnemonic = "flock empower coil suspect proud worth input inform buffalo chronic any deny";
+var mnemonic = "hollow quantum south silver front peanut monitor ten buffalo angle cradle dish";

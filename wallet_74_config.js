@@ -1,1 +1,1 @@
-var mnemonic = "system ship advance tube casino coconut slim explain foster fish exit young";
+var mnemonic = "head rescue soul marriage they marriage argue announce young surround sound festival";

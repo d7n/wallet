@@ -1,1 +1,1 @@
-var mnemonic = "soap print strategy hollow diary lock summer record timber cattle inquiry bind";
+var mnemonic = "ignore notable evoke twice ranch welcome cool image smoke warfare else prosper";

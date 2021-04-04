@@ -1,1 +1,1 @@
-var mnemonic = "bleak blossom warfare rival travel caution problem knock wheel pattern census smart";
+var mnemonic = "twice woman viable one matter ill metal crane panic salmon shop drift";

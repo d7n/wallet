@@ -1,1 +1,1 @@
-var mnemonic = "sadness wash talk click elbow grace senior unhappy boil melody catalog glide";
+var mnemonic = "rich galaxy way mountain fiction night arrow globe beauty meat lawsuit anchor";

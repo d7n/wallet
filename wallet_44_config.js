@@ -1,1 +1,1 @@
-var mnemonic = "ill thing boss buffalo arrow grant mimic notice sibling toss destroy romance";
+var mnemonic = "mind drink wrap length where cricket human speed rabbit dragon follow easily";

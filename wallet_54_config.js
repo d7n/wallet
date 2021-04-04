@@ -1,1 +1,1 @@
-var mnemonic = "luggage split south lottery pluck seminar limb mind theme injury edit fat";
+var mnemonic = "electric husband invest ladder jealous jazz toward simple resource under paddle keen";

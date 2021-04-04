@@ -1,1 +1,1 @@
-var mnemonic = "quiz physical pizza nation recall conduct accuse blouse gap abandon satisfy seat";
+var mnemonic = "citizen chimney escape series shield casino bridge pulse strong odor bread fresh";

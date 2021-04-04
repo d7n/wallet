@@ -1,1 +1,1 @@
-var mnemonic = "evoke web bicycle birth mask dust pelican joke rug priority whip fork";
+var mnemonic = "rib ski giraffe lock rack town thank worth eagle virus below recipe";

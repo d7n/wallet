@@ -1,1 +1,1 @@
-var mnemonic = "ozone boy grief thrive need forest conduct surge online quiz loan save";
+var mnemonic = "brick build tide start onion disease stuff pledge recall holiday argue toward";

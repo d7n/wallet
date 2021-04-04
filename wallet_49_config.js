@@ -1,1 +1,1 @@
-var mnemonic = "figure garden leaf manual main coach december oxygen toe inflict ugly salute";
+var mnemonic = "theme awkward rail category best century soft predict task fitness arrive drive";

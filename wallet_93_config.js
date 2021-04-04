@@ -1,1 +1,1 @@
-var mnemonic = "soccer confirm craft vacant health priority panic random dilemma admit observe coconut";
+var mnemonic = "half hybrid combine dumb chief road shuffle stereo unusual step various rally";

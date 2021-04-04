@@ -1,1 +1,1 @@
-var mnemonic = "return scatter right wife snake orient gallery thumb lift denial sadness gospel";
+var mnemonic = "whisper hard stamp flip truly awesome junk horn topic summer tell throw";

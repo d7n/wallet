@@ -1,1 +1,1 @@
-var mnemonic = "spider during license roof outside link movie way arctic price eagle energy";
+var mnemonic = "potato rare size leisure adapt depart love satoshi employ rubber genius zone";

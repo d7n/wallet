@@ -1,1 +1,1 @@
-var mnemonic = "deposit ketchup goose brief medal lava donate bracket choose harbor collect screen";
+var mnemonic = "addict palace wish very vehicle client pigeon logic sign supreme wall clip";

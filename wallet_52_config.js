@@ -1,1 +1,1 @@
-var mnemonic = "stone drama girl cloud key cactus sorry town meadow suggest acoustic couple";
+var mnemonic = "stove chunk royal diagram similar pulse decade guess attend kid muscle scout";

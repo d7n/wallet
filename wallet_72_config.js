@@ -1,1 +1,1 @@
-var mnemonic = "glory spy anchor elephant attitude witness sand budget defy phone suggest dress";
+var mnemonic = "slim annual old agree robot bus mad mango elder giraffe field antenna";

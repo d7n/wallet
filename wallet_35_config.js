@@ -1,1 +1,1 @@
-var mnemonic = "garbage solution salmon wedding evoke vanish regret weekend senior cabbage ankle trust";
+var mnemonic = "sugar dish stone memory actress message win wrist monster food develop identify";

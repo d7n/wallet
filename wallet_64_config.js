@@ -1,1 +1,1 @@
-var mnemonic = "idle zoo flight option busy cruel champion giraffe differ leopard maid brief";
+var mnemonic = "oblige cute pull elephant because lava medal panther cargo kidney trumpet october";

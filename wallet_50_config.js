@@ -1,1 +1,1 @@
-var mnemonic = "pattern code seek spare sell regret debate foster bamboo filter drastic bonus";
+var mnemonic = "neglect height comfort embody region buyer agent require mosquito lecture path orbit";

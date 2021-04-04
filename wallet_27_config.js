@@ -1,1 +1,1 @@
-var mnemonic = "hand fire absurd country basic ice fortune until zone emerge immune call";
+var mnemonic = "neither valley bitter coin subject evolve civil what tree tumble soda tail";

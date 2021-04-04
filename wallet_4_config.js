@@ -1,1 +1,1 @@
-var mnemonic = "version enable tunnel sponsor sight path flag topic hip mammal diamond sell";
+var mnemonic = "impact soldier cry tribe veteran sail ask snack figure century left quarter";

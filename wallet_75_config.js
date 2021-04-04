@@ -1,1 +1,1 @@
-var mnemonic = "body deer furnace tattoo media sword broom hill benefit banana stamp assume";
+var mnemonic = "soccer verb strike wave proof juice erode garment poverty camp episode eyebrow";

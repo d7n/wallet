@@ -1,1 +1,1 @@
-var mnemonic = "dawn aisle curious mule car normal allow visual loan venue route split";
+var mnemonic = "fish ocean excess hammer fence silk margin token disorder bachelor endless govern";

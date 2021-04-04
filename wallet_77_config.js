@@ -1,1 +1,1 @@
-var mnemonic = "close wasp group crumble true miracle reduce ride bring worth romance onion";
+var mnemonic = "banner design year glad bone step fat job need beach hurry age";

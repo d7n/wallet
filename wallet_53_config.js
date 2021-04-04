@@ -1,1 +1,1 @@
-var mnemonic = "fame notable orient fiscal crisp razor rhythm spike any young ladder spawn";
+var mnemonic = "multiply fame juice false tobacco disagree glad inject team artefact inflict ghost";
