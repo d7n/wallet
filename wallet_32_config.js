@@ -1,1 +1,1 @@
-var mnemonic = "dynamic advice acquire inherit force flavor news circle nice gadget sick crystal";
+var mnemonic = "purchase soft hungry mind metal brand key unique wire beef buddy warrior";

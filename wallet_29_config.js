@@ -1,1 +1,1 @@
-var mnemonic = "razor rural pudding security rent speak swarm eye six review top gain";
+var mnemonic = "cross march basket remember evolve grow across retreat target unique enroll act";

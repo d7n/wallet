@@ -1,1 +1,1 @@
-var mnemonic = "fortune rebel another maple excite fog boring violin shy welcome grant father";
+var mnemonic = "cream cram noise prefer heart suffer obvious there jump garment round duck";

@@ -1,1 +1,1 @@
-var mnemonic = "offer employ address garden quick retire across van nothing stick broken alien";
+var mnemonic = "nation cloud rose thought pear rose thrive crush canoe opinion game rate";

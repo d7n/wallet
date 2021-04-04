@@ -1,1 +1,1 @@
-var mnemonic = "tooth corn clap exchange dose better dutch odor cat tired region salad";
+var mnemonic = "boss employ injury stone prevent syrup critic crystal assist repeat primary wrestle";

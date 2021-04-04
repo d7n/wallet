@@ -1,1 +1,1 @@
-var mnemonic = "bench zebra library brush special hero help utility clog rhythm correct police";
+var mnemonic = "method oil dinner little novel desert fine machine install dragon box region";

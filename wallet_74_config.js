@@ -1,1 +1,1 @@
-var mnemonic = "goose proud brand sausage ride fresh coconut better naive hockey blanket poverty";
+var mnemonic = "include season cradle shuffle saddle deal since produce siege stove vibrant again";

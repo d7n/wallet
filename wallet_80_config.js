@@ -1,1 +1,1 @@
-var mnemonic = "click eye future when play before tip energy educate cigar awesome stove";
+var mnemonic = "owner tuition slow obscure art cash organ result tackle win hub blame";

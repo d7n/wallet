@@ -1,1 +1,1 @@
-var mnemonic = "clog half giraffe royal timber tilt dragon winner buddy life trend visa";
+var mnemonic = "route slice theory exile van flight among volume cattle another bottom beach";

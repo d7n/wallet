@@ -1,1 +1,1 @@
-var mnemonic = "blast hint pluck reform castle win gallery ridge forum hunt olympic dish";
+var mnemonic = "caught current bean cherry hybrid fatal task fun wish wrap blossom output";

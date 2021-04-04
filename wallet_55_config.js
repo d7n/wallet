@@ -1,1 +1,1 @@
-var mnemonic = "swap trend mistake scorpion rescue uncover myself era poem top seminar guilt";
+var mnemonic = "produce tunnel digital debris topic rib medal duck this maze they need";

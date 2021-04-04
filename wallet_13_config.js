@@ -1,1 +1,1 @@
-var mnemonic = "motion water wire deposit atom burst picnic wagon topic empty print spring";
+var mnemonic = "edge supply crack cushion weather expect wolf spare crowd unlock afford trap";

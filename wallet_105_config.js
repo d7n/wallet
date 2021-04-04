@@ -1,1 +1,1 @@
-var mnemonic = "visa firm dust neither tomorrow drastic merge true naive roast glare soccer";
+var mnemonic = "picnic force dress carry version decade trip rib energy typical mixture elbow";

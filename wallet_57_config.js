@@ -1,1 +1,1 @@
-var mnemonic = "network sea horse rival match round square street artefact voice small clinic";
+var mnemonic = "family dawn endless volume gold belt provide helmet sphere cool fruit match";

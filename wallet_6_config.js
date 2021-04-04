@@ -1,1 +1,1 @@
-var mnemonic = "setup angle history sure other office thrive reform fence intact wire celery";
+var mnemonic = "quiz seed antique awesome silver galaxy slender gown solution weapon service screen";

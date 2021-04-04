@@ -1,1 +1,1 @@
-var mnemonic = "click canal answer code tenant guide adapt mandate actress carry style neck";
+var mnemonic = "steak adult uncover focus bridge horn proof salmon device apology ethics illegal";

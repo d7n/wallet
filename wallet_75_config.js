@@ -1,1 +1,1 @@
-var mnemonic = "bag slight share worry cousin vault sample funny cousin slam hawk health";
+var mnemonic = "enact melt artist win expire coffee hill ankle pride impact start accident";

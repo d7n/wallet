@@ -1,1 +1,1 @@
-var mnemonic = "entire hand denial inhale dragon muscle shoulder clerk hazard timber autumn frequent";
+var mnemonic = "meat attend fortune approve bread capable topic gravity artist faith used oak";

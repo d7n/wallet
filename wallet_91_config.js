@@ -1,1 +1,1 @@
-var mnemonic = "robust then goose hole sense assist fork hospital rocket trend venture leisure";
+var mnemonic = "note combine cat armor lift holiday used bread alert also quick misery";

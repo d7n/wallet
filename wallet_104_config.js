@@ -1,1 +1,1 @@
-var mnemonic = "surprise play minute combine universe always parrot issue early earth note display";
+var mnemonic = "hotel myth paddle they ahead lava zebra secret oyster all balcony lawsuit";

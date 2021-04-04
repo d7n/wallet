@@ -1,1 +1,1 @@
-var mnemonic = "bind run sort possible trash bean spray try escape say layer tree";
+var mnemonic = "tip quick wonder concert shrimp throw popular fence depart relax menu velvet";

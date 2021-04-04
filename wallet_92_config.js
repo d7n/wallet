@@ -1,1 +1,1 @@
-var mnemonic = "until cloud nephew index language quality number secret cost mimic salon twelve";
+var mnemonic = "eternal vacuum endorse crime grant today gadget sing tail mom retreat disorder";

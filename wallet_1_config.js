@@ -1,1 +1,1 @@
-var mnemonic = "ugly cluster boat dog mango fragile erupt cluster spirit tell over way";
+var mnemonic = "rather discover organ demise safe cool amateur cushion ramp brother utility inside";

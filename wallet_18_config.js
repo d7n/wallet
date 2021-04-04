@@ -1,1 +1,1 @@
-var mnemonic = "update thing flat friend this aunt stem effort trigger cliff okay science";
+var mnemonic = "voice blur width debate dwarf despair away oppose chronic pretty force same";

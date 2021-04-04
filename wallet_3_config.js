@@ -1,1 +1,1 @@
-var mnemonic = "island cradle soldier maze gather kite repair moon worth chief quantum digital";
+var mnemonic = "orchard enhance hurdle head always type cluster clip canoe theme wall fox";

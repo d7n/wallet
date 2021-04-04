@@ -1,1 +1,1 @@
-var mnemonic = "state ensure cruel miss kingdom evoke prosper scatter spare divert cheap entry";
+var mnemonic = "guilt square century leg ankle rookie kind riot kite model student vapor";

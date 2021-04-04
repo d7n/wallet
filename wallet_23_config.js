@@ -1,1 +1,1 @@
-var mnemonic = "defense hawk camera fat public trick cheap mountain neck youth old orphan";
+var mnemonic = "orphan bronze pen certain doll boat mixture local write wisdom card view";

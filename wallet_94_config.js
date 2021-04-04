@@ -1,1 +1,1 @@
-var mnemonic = "cabbage hunt pioneer glide pizza real situate ahead ugly reduce brand volcano";
+var mnemonic = "correct tone goddess twelve shuffle maple armed olive tobacco cup afraid law";

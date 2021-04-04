@@ -1,1 +1,1 @@
-var mnemonic = "palm clown bullet embark enroll staff solar satisfy ordinary end three wedding";
+var mnemonic = "warfare case cigar pole list tilt prosper century name gesture turtle potato";

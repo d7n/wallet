@@ -1,1 +1,1 @@
-var mnemonic = "decline trim wrap figure mass hurt spider nest into topic want zone";
+var mnemonic = "game buyer hour caught easily next increase fragile door call embody pigeon";

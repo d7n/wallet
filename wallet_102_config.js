@@ -1,1 +1,1 @@
-var mnemonic = "liar mango client annual output calm can few blouse trigger soup differ";
+var mnemonic = "yellow visual robot captain grape plastic draw lobster slogan cloth goat catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "unique monster menu stay govern mobile hurt wait nothing close fan embark";
+var mnemonic = "equip milk melt jazz sock palm summer nature process output flee enter";

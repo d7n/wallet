@@ -1,1 +1,1 @@
-var mnemonic = "cream hotel coconut peanut drink uncover differ feel novel father kite time";
+var mnemonic = "hole potato flame measure spin silly you kingdom truth match online area";

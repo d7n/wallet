@@ -1,1 +1,1 @@
-var mnemonic = "sort artwork impulse coyote possible sight lottery unknown convince rally room alone";
+var mnemonic = "sunset guide goose similar century bacon wrap direct forest dress mixture demise";

@@ -1,1 +1,1 @@
-var mnemonic = "control hospital color rare dune gas jacket link raven truly short leave";
+var mnemonic = "unit turtle letter shallow vital hand taxi light clutch drive ancient paddle";

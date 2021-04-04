@@ -1,1 +1,1 @@
-var mnemonic = "debris pottery advance beauty client uncle exercise liberty churn unhappy evidence alert";
+var mnemonic = "manual liquid crawl head antenna render nothing hope private advice dice ignore";

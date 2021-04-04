@@ -1,1 +1,1 @@
-var mnemonic = "scheme fence follow rebel market gadget tonight rebel gloom final vessel banana";
+var mnemonic = "cabbage sentence cash eagle split service index feed remind power knife salmon";

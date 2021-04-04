@@ -1,1 +1,1 @@
-var mnemonic = "cave sad jacket garlic gown supreme bless food vapor electric range excess";
+var mnemonic = "bleak rescue bench short knock can tail aspect this produce heart swing";

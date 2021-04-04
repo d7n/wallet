@@ -1,1 +1,1 @@
-var mnemonic = "enjoy shoulder jewel rug ugly brand fence journey spot swallow visual wire";
+var mnemonic = "picnic pretty bulb attitude wage total wrist lounge fever double ribbon real";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom mobile fever estate mind flash find poverty boat copper giraffe eager";
+var mnemonic = "bamboo short retreat disease baby abandon debris opinion age rib essay future";

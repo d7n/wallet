@@ -1,1 +1,1 @@
-var mnemonic = "during dove drum skill hero file vital review popular denial feel grunt";
+var mnemonic = "duty point during choose husband police zoo soon great six announce column";

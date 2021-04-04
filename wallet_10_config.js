@@ -1,1 +1,1 @@
-var mnemonic = "frog siren such glove license cargo elite outer fame primary raven print";
+var mnemonic = "solve lake reduce clip drift race rebuild deal liquid angle barrel sibling";

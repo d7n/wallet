@@ -1,1 +1,1 @@
-var mnemonic = "insect retreat siege goat riot master type aspect grab predict era frame";
+var mnemonic = "flock multiply patient topic large tide cup elevator trick regular doll unique";

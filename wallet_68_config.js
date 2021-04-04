@@ -1,1 +1,1 @@
-var mnemonic = "submit coin today calm shoot view innocent modify bargain drill silk leader";
+var mnemonic = "motion brick route item sunny lens execute tree neither maple diet labor";

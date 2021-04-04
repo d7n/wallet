@@ -1,1 +1,1 @@
-var mnemonic = "defy sense say stool tape like glad wink cave adjust clerk barrel";
+var mnemonic = "erode horn soap drift stomach help language valve pause grow crop ride";

@@ -1,1 +1,1 @@
-var mnemonic = "float school click trumpet bonus catalog loud survey enforce emerge gesture easy";
+var mnemonic = "burden language hire grunt ancient width involve sketch supply diamond cricket mule";

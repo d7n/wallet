@@ -1,1 +1,1 @@
-var mnemonic = "early puppy budget build dignity knee license bar culture author know million";
+var mnemonic = "woman either pulp weather patrol embrace taste omit pistol aunt cool exact";

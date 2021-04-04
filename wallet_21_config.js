@@ -1,1 +1,1 @@
-var mnemonic = "theory flee hockey sample drive peasant fruit drift area gap purity labor";
+var mnemonic = "wise blanket soldier border mistake gun spy safe hello best mouse leave";

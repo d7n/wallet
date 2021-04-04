@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon plug envelope dizzy pulp remove hope shuffle cluster elite wage super";
+var mnemonic = "empty pudding wisdom brisk remain key march witness science glide human differ";

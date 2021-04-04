@@ -1,1 +1,1 @@
-var mnemonic = "shadow prepare rifle blanket lens rather pencil slow weasel meat hazard tattoo";
+var mnemonic = "begin spy hover drink proof limb judge rely enter awful logic paddle";

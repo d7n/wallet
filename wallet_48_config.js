@@ -1,1 +1,1 @@
-var mnemonic = "lecture rescue satisfy dilemma provide estate profit leisure mandate quiz buddy duck";
+var mnemonic = "buddy reason jar walnut barely jacket accident derive away wage problem ship";

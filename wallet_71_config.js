@@ -1,1 +1,1 @@
-var mnemonic = "brush urban pool demand region nothing wish dune immense dynamic arch tag";
+var mnemonic = "cabbage room legend around barrel tiny double noodle april file able labor";

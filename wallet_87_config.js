@@ -1,1 +1,1 @@
-var mnemonic = "reject nose fat appear cover farm metal quantum devote search cute produce";
+var mnemonic = "toy rent pear coyote input round shuffle polar spell fetch hen provide";

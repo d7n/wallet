@@ -1,1 +1,1 @@
-var mnemonic = "twice immense april cake auction speak raven vocal adult unhappy time speed";
+var mnemonic = "exotic tower edge feed coyote credit ticket middle canoe draw motion bamboo";

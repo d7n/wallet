@@ -1,1 +1,1 @@
-var mnemonic = "click three tumble crunch panel phrase useful celery verb about combine exhaust";
+var mnemonic = "brother corn jaguar rail pear confirm hollow cabin crime only pull alpha";

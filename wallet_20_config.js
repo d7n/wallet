@@ -1,1 +1,1 @@
-var mnemonic = "direct draw kick usual badge van live weird virus doctor melody soap";
+var mnemonic = "puzzle vapor boring century depend wave goat fit abuse fish cloud hedgehog";

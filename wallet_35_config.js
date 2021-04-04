@@ -1,1 +1,1 @@
-var mnemonic = "sail goddess exhaust popular custom chat embrace obey enable fantasy member decade";
+var mnemonic = "expand dilemma save success dumb olympic limb tonight silk solar spice lift";

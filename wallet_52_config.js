@@ -1,1 +1,1 @@
-var mnemonic = "same beef bleak embark snow column trend aware leopard goose roof garment";
+var mnemonic = "nothing glass month struggle disorder mobile noodle butter kitchen crime cube meat";

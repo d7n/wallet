@@ -1,1 +1,1 @@
-var mnemonic = "boy mirror catalog uniform subject denial goddess material choose capital obvious idea";
+var mnemonic = "sentence retreat spice gift car merry gorilla milk card finish apart mom";

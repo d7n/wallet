@@ -1,1 +1,1 @@
-var mnemonic = "degree lottery unknown insect truth world hire neck produce bind blush taxi";
+var mnemonic = "fossil column imitate kitten cash example soon negative sing discover ugly remove";

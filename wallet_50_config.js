@@ -1,1 +1,1 @@
-var mnemonic = "reduce polar tilt craft scout popular addict clog eyebrow labor hood angry";
+var mnemonic = "sudden weekend split defense exchange blur artwork topic child wonder blur area";

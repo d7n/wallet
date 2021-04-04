@@ -1,1 +1,1 @@
-var mnemonic = "twice bicycle husband can same verb diary year rose celery misery truly";
+var mnemonic = "sample police spatial exact ball purse sand magnet venture crunch expose concert";

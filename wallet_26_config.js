@@ -1,1 +1,1 @@
-var mnemonic = "clown horror occur hero napkin stone million gather connect beyond mixed strategy";
+var mnemonic = "pizza title air company limit behave width resemble dinner major guess energy";

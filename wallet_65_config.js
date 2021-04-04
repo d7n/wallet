@@ -1,1 +1,1 @@
-var mnemonic = "kid differ silk parent rug any quarter myth ignore physical risk street";
+var mnemonic = "clap near flavor try steak quarter teach before deal mansion meat surface";

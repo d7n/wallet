@@ -1,1 +1,1 @@
-var mnemonic = "canvas memory rare crater lonely hub discover artefact regret present verb iron";
+var mnemonic = "today tennis round invest quality replace before give settle sustain bleak sausage";

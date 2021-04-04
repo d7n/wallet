@@ -1,1 +1,1 @@
-var mnemonic = "morning alley law crazy wait wave find vendor face crime license myself";
+var mnemonic = "blood fossil person cost blood napkin arm broom subject enough grocery bulb";

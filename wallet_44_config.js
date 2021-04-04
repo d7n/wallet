@@ -1,1 +1,1 @@
-var mnemonic = "clock violin image reunion labor column sand soccer ankle hurdle monster voyage";
+var mnemonic = "allow seed morning cable country connect wet cabin valid hotel tourist tenant";

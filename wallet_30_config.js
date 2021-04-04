@@ -1,1 +1,1 @@
-var mnemonic = "resist april fiber purse wear weasel hold tackle hazard mansion iron stock";
+var mnemonic = "immune catch luggage section caution harvest lazy phrase absent split dilemma term";

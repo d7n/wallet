@@ -1,1 +1,1 @@
-var mnemonic = "sustain lawsuit speak trap debris grid domain about genius arrow control pigeon";
+var mnemonic = "patient cliff demand peace wheat ketchup pulp tumble text zebra riot design";

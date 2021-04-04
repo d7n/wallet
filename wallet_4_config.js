@@ -1,1 +1,1 @@
-var mnemonic = "found label claim venture pear bicycle owner shell merry butter survey video";
+var mnemonic = "craft senior universe hospital embrace dragon rely way liar biology little nose";

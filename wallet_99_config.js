@@ -1,1 +1,1 @@
-var mnemonic = "bench trial rural convince dentist frog text news fashion drift guilt bracket";
+var mnemonic = "pledge bike neither lemon two swear clock provide face give more horn";

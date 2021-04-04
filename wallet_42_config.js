@@ -1,1 +1,1 @@
-var mnemonic = "swing favorite strong step gasp income renew note swamp method easy barrel";
+var mnemonic = "border prefer next candy prison rural wide win tuition primary hint gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito among veteran repeat toddler shadow blossom country build basic glimpse atom";
+var mnemonic = "flight turkey camp extra over minimum decade limb enroll avoid sphere damage";

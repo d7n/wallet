@@ -1,1 +1,1 @@
-var mnemonic = "fiction today drop nation horror knock brother dentist spend grocery ice history";
+var mnemonic = "assume sing conduct stool feed planet excess creek flee horse guide garment";

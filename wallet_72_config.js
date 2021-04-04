@@ -1,1 +1,1 @@
-var mnemonic = "wheat include series swing vote chimney system swamp peace deputy purpose indoor";
+var mnemonic = "dinner echo fish radio lamp silent rug donate police marble wage improve";

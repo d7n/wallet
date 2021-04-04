@@ -1,1 +1,1 @@
-var mnemonic = "north hospital account camp coin oblige domain garbage ginger axis force village";
+var mnemonic = "banana under bread that spoil patient level fog deposit cloud squirrel analyst";

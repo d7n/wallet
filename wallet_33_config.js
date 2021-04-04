@@ -1,1 +1,1 @@
-var mnemonic = "raise tail science seek luggage chat prepare cross canyon opinion rhythm lottery";
+var mnemonic = "deputy nerve ill win zoo better hotel ready kite suffer unlock soon";

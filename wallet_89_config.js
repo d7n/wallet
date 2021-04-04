@@ -1,1 +1,1 @@
-var mnemonic = "emotion assume alarm arrive century prize mammal average consider flash because quote";
+var mnemonic = "word harbor biology student mask avocado trust blur clutch know people cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "receive spoon size boat hybrid laptop access blanket ill leg shuffle smooth";
+var mnemonic = "place six bachelor scatter pencil immense letter crop title diagram gallery wear";

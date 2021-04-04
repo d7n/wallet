@@ -1,1 +1,1 @@
-var mnemonic = "repair license member fitness thunder attract carpet room anxiety fruit credit ready";
+var mnemonic = "pull embody final frozen film frog obtain salute knock nature cruise news";

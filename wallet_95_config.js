@@ -1,1 +1,1 @@
-var mnemonic = "coast omit just dolphin frame recycle security lesson seven tank rather include";
+var mnemonic = "essay great scout scout saddle intact exhibit surge this carbon fashion tide";

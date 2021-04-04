@@ -1,1 +1,1 @@
-var mnemonic = "indicate summer congress pact second wedding guide total midnight stove artefact warm";
+var mnemonic = "media grit wool artist solar vacuum eyebrow melody dolphin kid devote spread";

@@ -1,1 +1,1 @@
-var mnemonic = "three rubber kitchen such link hope walnut tool mimic road credit divorce";
+var mnemonic = "hint shop dry marble magnet good prison neglect involve enroll mystery goddess";

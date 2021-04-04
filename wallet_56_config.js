@@ -1,1 +1,1 @@
-var mnemonic = "special cram disease abandon mixed winter ski theme couple diary embody elder";
+var mnemonic = "salt venue stick gym sleep betray zone error annual upset tackle shed";

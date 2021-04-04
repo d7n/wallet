@@ -1,1 +1,1 @@
-var mnemonic = "drill route custom nest steel just nerve mobile rich apple body wool";
+var mnemonic = "vehicle tent spare fan unlock awkward vivid initial limb rely remain second";

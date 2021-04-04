@@ -1,1 +1,1 @@
-var mnemonic = "guard season dune trap crazy rose eternal holiday poem cargo tongue finger";
+var mnemonic = "pipe whisper claw question push elevator path phrase ranch purse drastic pond";

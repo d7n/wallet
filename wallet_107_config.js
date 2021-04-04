@@ -1,1 +1,1 @@
-var mnemonic = "pledge lava stay rookie ordinary two album goat airport dignity ride grid";
+var mnemonic = "west mercy have stay cradle combine word aisle flight duck open match";

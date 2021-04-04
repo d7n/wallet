@@ -1,1 +1,1 @@
-var mnemonic = "convince cluster exist outdoor turkey write diary monster sight stereo citizen emerge";
+var mnemonic = "carry long ball question steak dismiss spring now charge love exercise glare";

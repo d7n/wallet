@@ -1,1 +1,1 @@
-var mnemonic = "decrease waste crash poverty fabric degree someone seek cabbage library joy sail";
+var mnemonic = "boat predict damp detail whisper excite powder creek space barrel vendor top";

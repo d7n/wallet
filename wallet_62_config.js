@@ -1,1 +1,1 @@
-var mnemonic = "march rotate promote ecology grocery sock street dizzy lecture unhappy ripple adjust";
+var mnemonic = "hockey dad quit latin ghost afraid citizen tissue wait velvet wrist school";

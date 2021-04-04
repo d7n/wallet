@@ -1,1 +1,1 @@
-var mnemonic = "attitude window square gas core laugh crash drift enhance box frog wrist";
+var mnemonic = "dish ribbon captain number main autumn boost use dial drip feature wide";

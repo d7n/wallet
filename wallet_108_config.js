@@ -1,1 +1,1 @@
-var mnemonic = "crawl client student limb never lawsuit crisp release unfair grief gas chest";
+var mnemonic = "panic civil pole panic option peace property renew crop dinner popular wrong";

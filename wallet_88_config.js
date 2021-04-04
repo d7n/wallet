@@ -1,1 +1,1 @@
-var mnemonic = "miss page father forward forum layer talk penalty remind armed oxygen able";
+var mnemonic = "disease canoe submit avoid blood symptom coast spawn medal together kick whale";

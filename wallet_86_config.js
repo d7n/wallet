@@ -1,1 +1,1 @@
-var mnemonic = "winter speed forward midnight steak tooth write income rail unlock vital lazy";
+var mnemonic = "sadness orbit raw extend spike joke crucial awesome sphere gloom feature remain";

@@ -1,1 +1,1 @@
-var mnemonic = "stick reveal diary you someone jump shift assist fuel feed struggle manual";
+var mnemonic = "add scan coast unknown season pluck own bronze orchard arrest shiver capable";
