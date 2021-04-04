@@ -1,1 +1,1 @@
-var mnemonic = "crop window census rotate surface attack pottery tail zoo pistol wink leisure";
+var mnemonic = "debris pottery advance beauty client uncle exercise liberty churn unhappy evidence alert";

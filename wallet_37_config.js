@@ -1,1 +1,1 @@
-var mnemonic = "midnight ribbon setup unlock virtual crack comic antique tilt master track aerobic";
+var mnemonic = "guard season dune trap crazy rose eternal holiday poem cargo tongue finger";

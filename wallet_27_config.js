@@ -1,1 +1,1 @@
-var mnemonic = "spin blood advance expand knife beef fog other improve truly symptom suit";
+var mnemonic = "mushroom mobile fever estate mind flash find poverty boat copper giraffe eager";

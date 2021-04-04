@@ -1,1 +1,1 @@
-var mnemonic = "loan confirm salad blur oak digital anchor now good start cube leader";
+var mnemonic = "swamp verb warrior silent today daring love talent rabbit ceiling excite basket";

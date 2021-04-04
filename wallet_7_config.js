@@ -1,1 +1,1 @@
-var mnemonic = "caution kingdom celery fruit leaf south fat attack fringe simple burger gas";
+var mnemonic = "poet direct final much define member insane clarify arrest rather gloom blue";

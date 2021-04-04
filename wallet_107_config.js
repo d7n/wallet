@@ -1,1 +1,1 @@
-var mnemonic = "tunnel potato oil stool arch soap spot people dance broken chronic timber";
+var mnemonic = "pledge lava stay rookie ordinary two album goat airport dignity ride grid";

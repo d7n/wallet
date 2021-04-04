@@ -1,1 +1,1 @@
-var mnemonic = "spike law home mistake attack lamp detect fury curtain globe false vibrant";
+var mnemonic = "insect retreat siege goat riot master type aspect grab predict era frame";

@@ -1,1 +1,1 @@
-var mnemonic = "grunt vault page follow fun little brain beach dragon wire abandon favorite";
+var mnemonic = "blast hint pluck reform castle win gallery ridge forum hunt olympic dish";

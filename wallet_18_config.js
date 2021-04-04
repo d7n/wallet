@@ -1,1 +1,1 @@
-var mnemonic = "infant artwork bitter cliff gate pulp ability holiday safe fish medal series";
+var mnemonic = "update thing flat friend this aunt stem effort trigger cliff okay science";

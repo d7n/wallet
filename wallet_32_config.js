@@ -1,1 +1,1 @@
-var mnemonic = "exclude call sing stove effort enroll boss oil stamp flee among victory";
+var mnemonic = "dynamic advice acquire inherit force flavor news circle nice gadget sick crystal";

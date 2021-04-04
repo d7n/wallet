@@ -1,1 +1,1 @@
-var mnemonic = "suspect muscle side grunt pyramid ginger lawn creek goose extend mystery roof";
+var mnemonic = "boy siren quit upon media crouch fame pulse ocean strategy where stool";

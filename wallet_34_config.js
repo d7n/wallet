@@ -1,1 +1,1 @@
-var mnemonic = "foam setup lobster fresh abstract opinion kidney scene biology forward clown mouse";
+var mnemonic = "morning alley law crazy wait wave find vendor face crime license myself";

@@ -1,1 +1,1 @@
-var mnemonic = "found dilemma beauty garden burger original fortune host renew since sorry talk";
+var mnemonic = "garden force topic easily object screen wing sport noise ridge female leader";

@@ -1,1 +1,1 @@
-var mnemonic = "talent deputy begin brisk top wash any trick cotton lucky possible emotion";
+var mnemonic = "mosquito among veteran repeat toddler shadow blossom country build basic glimpse atom";

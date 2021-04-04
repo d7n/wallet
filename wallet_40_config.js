@@ -1,1 +1,1 @@
-var mnemonic = "side client august potato plug exit option spider monster lucky script borrow";
+var mnemonic = "bench zebra library brush special hero help utility clog rhythm correct police";

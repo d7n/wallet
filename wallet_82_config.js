@@ -1,1 +1,1 @@
-var mnemonic = "uniform fold symbol able immune awful end harsh dove chaos distance planet";
+var mnemonic = "sort artwork impulse coyote possible sight lottery unknown convince rally room alone";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist cable tomato victory radio area come radar coast catch peace kid";
+var mnemonic = "robust then goose hole sense assist fork hospital rocket trend venture leisure";

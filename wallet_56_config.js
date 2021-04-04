@@ -1,1 +1,1 @@
-var mnemonic = "harvest misery voice sunny topple tiger result oxygen place mean squeeze mean";
+var mnemonic = "special cram disease abandon mixed winter ski theme couple diary embody elder";

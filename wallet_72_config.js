@@ -1,1 +1,1 @@
-var mnemonic = "scheme harvest meadow dice crystal present trumpet tank conduct beach shoot diamond";
+var mnemonic = "wheat include series swing vote chimney system swamp peace deputy purpose indoor";

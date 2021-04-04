@@ -1,1 +1,1 @@
-var mnemonic = "horse uphold slight shrimp core famous gravity pill impose regret inject drop";
+var mnemonic = "twice immense april cake auction speak raven vocal adult unhappy time speed";

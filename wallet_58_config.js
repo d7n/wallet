@@ -1,1 +1,1 @@
-var mnemonic = "account lawsuit route expire core table parade online salute insect episode laptop";
+var mnemonic = "decline trim wrap figure mass hurt spider nest into topic want zone";

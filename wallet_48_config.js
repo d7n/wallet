@@ -1,1 +1,1 @@
-var mnemonic = "decorate spread beef pretty river shield october door explain syrup bronze depart";
+var mnemonic = "lecture rescue satisfy dilemma provide estate profit leisure mandate quiz buddy duck";

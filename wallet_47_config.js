@@ -1,1 +1,1 @@
-var mnemonic = "trip odor wagon praise usual fit search village early slot blood congress";
+var mnemonic = "twice bicycle husband can same verb diary year rose celery misery truly";

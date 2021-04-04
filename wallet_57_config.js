@@ -1,1 +1,1 @@
-var mnemonic = "display hen copy judge edge double excuse chronic group dentist practice energy";
+var mnemonic = "network sea horse rival match round square street artefact voice small clinic";

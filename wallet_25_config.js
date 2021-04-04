@@ -1,1 +1,1 @@
-var mnemonic = "enough praise loud letter debate harbor harbor cover rough wish drip sand";
+var mnemonic = "unique monster menu stay govern mobile hurt wait nothing close fan embark";

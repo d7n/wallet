@@ -1,1 +1,1 @@
-var mnemonic = "blind grocery gown ring gasp problem curve enhance improve recycle various business";
+var mnemonic = "sustain lawsuit speak trap debris grid domain about genius arrow control pigeon";

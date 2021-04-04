@@ -1,1 +1,1 @@
-var mnemonic = "bullet earn breeze flag perfect atom step loan short thumb lady express";
+var mnemonic = "bag slight share worry cousin vault sample funny cousin slam hawk health";

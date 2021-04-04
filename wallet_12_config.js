@@ -1,1 +1,1 @@
-var mnemonic = "teach genius remain august vicious scissors combine prevent differ fresh fortune actress";
+var mnemonic = "defy sense say stool tape like glad wink cave adjust clerk barrel";

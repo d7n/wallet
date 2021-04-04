@@ -1,1 +1,1 @@
-var mnemonic = "daughter milk deal silk flee pen sustain media remind junior hurry theory";
+var mnemonic = "coast omit just dolphin frame recycle security lesson seven tank rather include";

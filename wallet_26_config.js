@@ -1,1 +1,1 @@
-var mnemonic = "typical leaf involve indicate soft current proof visa tilt awesome quantum thrive";
+var mnemonic = "clown horror occur hero napkin stone million gather connect beyond mixed strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle course wink divide tank local isolate bullet whale trade screen bird";
+var mnemonic = "cabbage hunt pioneer glide pizza real situate ahead ugly reduce brand volcano";

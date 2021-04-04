@@ -1,1 +1,1 @@
-var mnemonic = "above attract forward phrase inch test output hello paper wing ancient average";
+var mnemonic = "bind run sort possible trash bean spray try escape say layer tree";

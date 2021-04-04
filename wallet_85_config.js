@@ -1,1 +1,1 @@
-var mnemonic = "water laugh banana sibling venture scout civil party strike drop butter venture";
+var mnemonic = "can kitchen slow laptop seven require below erase giraffe silver icon orchard";

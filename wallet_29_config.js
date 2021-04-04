@@ -1,1 +1,1 @@
-var mnemonic = "decorate simple sad nose fan scare age license direct recipe hello saddle";
+var mnemonic = "razor rural pudding security rent speak swarm eye six review top gain";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion opinion rotate loop section little wire lazy mixed cattle try develop";
+var mnemonic = "decrease waste crash poverty fabric degree someone seek cabbage library joy sail";

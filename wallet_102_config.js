@@ -1,1 +1,1 @@
-var mnemonic = "theme pudding thank devote just snow want indicate law excite much stuff";
+var mnemonic = "liar mango client annual output calm can few blouse trigger soup differ";

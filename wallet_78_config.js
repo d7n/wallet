@@ -1,1 +1,1 @@
-var mnemonic = "unique secret sweet wife spray empty recall heavy uncover chimney mass labor";
+var mnemonic = "north hospital account camp coin oblige domain garbage ginger axis force village";

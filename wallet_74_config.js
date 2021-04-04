@@ -1,1 +1,1 @@
-var mnemonic = "found elevator giant mimic miracle defense notable term wink scrap fragile ordinary";
+var mnemonic = "goose proud brand sausage ride fresh coconut better naive hockey blanket poverty";

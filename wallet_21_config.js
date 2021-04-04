@@ -1,1 +1,1 @@
-var mnemonic = "wedding primary oppose machine save laugh defy write emerge great unaware help";
+var mnemonic = "theory flee hockey sample drive peasant fruit drift area gap purity labor";

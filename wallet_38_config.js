@@ -1,1 +1,1 @@
-var mnemonic = "hand course brand select furnace judge dolphin wool acid letter hip wife";
+var mnemonic = "boy mirror catalog uniform subject denial goddess material choose capital obvious idea";

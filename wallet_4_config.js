@@ -1,1 +1,1 @@
-var mnemonic = "mansion excuse hair grain category trade define upper bone celery alley jeans";
+var mnemonic = "found label claim venture pear bicycle owner shell merry butter survey video";

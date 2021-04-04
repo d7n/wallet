@@ -1,1 +1,1 @@
-var mnemonic = "lonely mushroom ugly crouch spy citizen build initial pelican glow sword tent";
+var mnemonic = "mix lady patch dinosaur reason vote mad cliff cheap turtle upset film";

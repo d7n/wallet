@@ -1,1 +1,1 @@
-var mnemonic = "anxiety sell industry tree bid half use weird hard embody evoke rug";
+var mnemonic = "three rubber kitchen such link hope walnut tool mimic road credit divorce";

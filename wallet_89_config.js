@@ -1,1 +1,1 @@
-var mnemonic = "afraid lift avocado seek beach zone office ethics into twice bounce diagram";
+var mnemonic = "emotion assume alarm arrive century prize mammal average consider flash because quote";

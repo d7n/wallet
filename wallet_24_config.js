@@ -1,1 +1,1 @@
-var mnemonic = "ribbon slight renew sick prosper hover quick side bundle rude balcony grit";
+var mnemonic = "clog half giraffe royal timber tilt dragon winner buddy life trend visa";

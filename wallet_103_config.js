@@ -1,1 +1,1 @@
-var mnemonic = "merry rival cruel patient side pulse multiply off march salad cricket team";
+var mnemonic = "during dove drum skill hero file vital review popular denial feel grunt";

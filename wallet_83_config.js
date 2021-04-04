@@ -1,1 +1,1 @@
-var mnemonic = "very tip nose romance cluster segment rough spy mother utility easy favorite";
+var mnemonic = "indicate summer congress pact second wedding guide total midnight stove artefact warm";

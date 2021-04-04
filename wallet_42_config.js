@@ -1,1 +1,1 @@
-var mnemonic = "category pair leisure special joy toward stereo man junk naive half hover";
+var mnemonic = "swing favorite strong step gasp income renew note swamp method easy barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "pole local alien outdoor response danger start donor assume output swear path";
+var mnemonic = "cinnamon plug envelope dizzy pulp remove hope shuffle cluster elite wage super";

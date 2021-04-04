@@ -1,1 +1,1 @@
-var mnemonic = "today name panda icon avocado robot daughter provide forest fade pull zebra";
+var mnemonic = "setup angle history sure other office thrive reform fence intact wire celery";

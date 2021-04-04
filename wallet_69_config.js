@@ -1,1 +1,1 @@
-var mnemonic = "quote laugh can dilemma fall item column omit stadium drift way child";
+var mnemonic = "control hospital color rare dune gas jacket link raven truly short leave";

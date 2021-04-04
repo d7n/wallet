@@ -1,1 +1,1 @@
-var mnemonic = "parrot army liar stuff dinner sun price saddle donate oval treat edge";
+var mnemonic = "same beef bleak embark snow column trend aware leopard goose roof garment";

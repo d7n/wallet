@@ -1,1 +1,1 @@
-var mnemonic = "radio number mixture mistake duty wrestle crawl tortoise hurdle affair elephant total";
+var mnemonic = "float school click trumpet bonus catalog loud survey enforce emerge gesture easy";

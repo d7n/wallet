@@ -1,1 +1,1 @@
-var mnemonic = "switch apart spoil amazing flip december jealous sister tornado bounce reason close";
+var mnemonic = "early puppy budget build dignity knee license bar culture author know million";

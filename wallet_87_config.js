@@ -1,1 +1,1 @@
-var mnemonic = "castle jealous bird assist casual piano purse access measure idea creek cancel";
+var mnemonic = "reject nose fat appear cover farm metal quantum devote search cute produce";

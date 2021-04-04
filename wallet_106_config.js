@@ -1,1 +1,1 @@
-var mnemonic = "video rebuild sting cross face kite hotel evil nerve chief empower twelve";
+var mnemonic = "repair license member fitness thunder attract carpet room anxiety fruit credit ready";

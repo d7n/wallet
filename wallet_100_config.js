@@ -1,1 +1,1 @@
-var mnemonic = "ask walnut artefact diamond grain soup deliver dynamic noble purpose inner liberty";
+var mnemonic = "shadow prepare rifle blanket lens rather pencil slow weasel meat hazard tattoo";

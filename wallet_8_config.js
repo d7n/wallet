@@ -1,1 +1,1 @@
-var mnemonic = "divorce camera vintage pool lonely ranch already shoot lawsuit more rich shadow";
+var mnemonic = "enjoy shoulder jewel rug ugly brand fence journey spot swallow visual wire";

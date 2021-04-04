@@ -1,1 +1,1 @@
-var mnemonic = "pole guilt setup scene chest expire sketch taste drama slice scene dentist";
+var mnemonic = "receive spoon size boat hybrid laptop access blanket ill leg shuffle smooth";

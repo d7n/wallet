@@ -1,1 +1,1 @@
-var mnemonic = "climb ivory shoe check nose robot strong issue resemble dad grocery solar";
+var mnemonic = "crawl client student limb never lawsuit crisp release unfair grief gas chest";

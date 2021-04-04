@@ -1,1 +1,1 @@
-var mnemonic = "blanket keep crew display hollow wagon gift remind drill upon chase ketchup";
+var mnemonic = "motion water wire deposit atom burst picnic wagon topic empty print spring";

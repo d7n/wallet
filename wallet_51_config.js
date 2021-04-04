@@ -1,1 +1,1 @@
-var mnemonic = "man century twenty clean dance bridge axis nerve accident catch wolf observe";
+var mnemonic = "tooth corn clap exchange dose better dutch odor cat tired region salad";

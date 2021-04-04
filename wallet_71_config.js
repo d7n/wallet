@@ -1,1 +1,1 @@
-var mnemonic = "when blanket erode chest plate table include kit cube void flavor name";
+var mnemonic = "brush urban pool demand region nothing wish dune immense dynamic arch tag";

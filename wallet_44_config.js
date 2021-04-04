@@ -1,1 +1,1 @@
-var mnemonic = "violin cotton capital edge donkey monkey witness vote fix metal lonely walk";
+var mnemonic = "clock violin image reunion labor column sand soccer ankle hurdle monster voyage";

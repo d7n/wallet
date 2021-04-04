@@ -1,1 +1,1 @@
-var mnemonic = "holiday dish feel general weasel web chimney physical uncover sign puzzle vast";
+var mnemonic = "palm clown bullet embark enroll staff solar satisfy ordinary end three wedding";

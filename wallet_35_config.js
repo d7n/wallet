@@ -1,1 +1,1 @@
-var mnemonic = "december verify eye result essence spray update sausage hamster tilt toddler unknown";
+var mnemonic = "sail goddess exhaust popular custom chat embrace obey enable fantasy member decade";

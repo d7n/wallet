@@ -1,1 +1,1 @@
-var mnemonic = "divert drama same field robot attack visual bid uphold surprise cute more";
+var mnemonic = "defense hawk camera fat public trick cheap mountain neck youth old orphan";

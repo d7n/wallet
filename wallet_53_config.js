@@ -1,1 +1,1 @@
-var mnemonic = "win episode news execute mystery swear air ensure such pond hub crack";
+var mnemonic = "entire hand denial inhale dragon muscle shoulder clerk hazard timber autumn frequent";

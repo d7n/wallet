@@ -1,1 +1,1 @@
-var mnemonic = "expire lawsuit thank race afford stove bachelor topic danger crowd cactus surface";
+var mnemonic = "swap trend mistake scorpion rescue uncover myself era poem top seminar guilt";

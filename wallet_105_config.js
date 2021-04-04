@@ -1,1 +1,1 @@
-var mnemonic = "female famous fame proof galaxy can wave innocent surge jungle resource stay";
+var mnemonic = "visa firm dust neither tomorrow drastic merge true naive roast glare soccer";

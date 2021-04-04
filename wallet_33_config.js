@@ -1,1 +1,1 @@
-var mnemonic = "episode derive farm sail tank price crash napkin inquiry double funny bean";
+var mnemonic = "raise tail science seek luggage chat prepare cross canyon opinion rhythm lottery";

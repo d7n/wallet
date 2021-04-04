@@ -1,1 +1,1 @@
-var mnemonic = "response firm slab annual demise lab dignity clutch hole poem truly evil";
+var mnemonic = "offer employ address garden quick retire across van nothing stick broken alien";

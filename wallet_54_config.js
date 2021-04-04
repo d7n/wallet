@@ -1,1 +1,1 @@
-var mnemonic = "theme unfold letter clock metal decide expand estate execute brain tooth enforce";
+var mnemonic = "state ensure cruel miss kingdom evoke prosper scatter spare divert cheap entry";

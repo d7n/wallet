@@ -1,1 +1,1 @@
-var mnemonic = "panda sponsor peasant cloud valve absorb prepare attract valve gossip moment social";
+var mnemonic = "axis curtain response virus broom cricket library toe lamp loyal clip glad";

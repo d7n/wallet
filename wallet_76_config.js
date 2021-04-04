@@ -1,1 +1,1 @@
-var mnemonic = "kid rookie parade maximum salute adapt lumber inspire scheme tortoise apple throw";
+var mnemonic = "catalog cricket season enact receive sauce route series order leader sample ghost";

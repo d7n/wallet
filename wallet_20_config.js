@@ -1,1 +1,1 @@
-var mnemonic = "soup uniform dawn exclude amateur hen bar reject broken mention truck canal";
+var mnemonic = "direct draw kick usual badge van live weird virus doctor melody soap";

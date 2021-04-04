@@ -1,1 +1,1 @@
-var mnemonic = "tail cheese raccoon agent invite robot square noble gasp soap verify cage";
+var mnemonic = "fiction today drop nation horror knock brother dentist spend grocery ice history";

@@ -1,1 +1,1 @@
-var mnemonic = "cream demand similar spot long crack strike stool bonus cost crack palace";
+var mnemonic = "figure main scrap obey garment canvas morning select tilt plate ordinary fatal";

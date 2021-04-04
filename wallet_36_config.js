@@ -1,1 +1,1 @@
-var mnemonic = "point voyage artefact sell account area stone palace fabric lens defy much";
+var mnemonic = "gossip exist priority where dune title rigid iron floor era surface grab";

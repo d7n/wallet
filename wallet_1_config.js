@@ -1,1 +1,1 @@
-var mnemonic = "angle horse decide burden river armed legend ozone doll off vintage license";
+var mnemonic = "ugly cluster boat dog mango fragile erupt cluster spirit tell over way";

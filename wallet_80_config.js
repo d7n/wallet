@@ -1,1 +1,1 @@
-var mnemonic = "snake stomach slice green mother joy vault switch game price sponsor home";
+var mnemonic = "click eye future when play before tip energy educate cigar awesome stove";

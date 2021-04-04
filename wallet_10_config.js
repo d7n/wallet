@@ -1,1 +1,1 @@
-var mnemonic = "valley correct figure seed sure cloud monitor cradle ice oyster outer trick";
+var mnemonic = "frog siren such glove license cargo elite outer fame primary raven print";

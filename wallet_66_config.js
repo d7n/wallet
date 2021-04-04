@@ -1,1 +1,1 @@
-var mnemonic = "venture weapon switch bicycle online render noodle identify cruel sausage vital tide";
+var mnemonic = "click three tumble crunch panel phrase useful celery verb about combine exhaust";

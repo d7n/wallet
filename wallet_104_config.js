@@ -1,1 +1,1 @@
-var mnemonic = "story muffin patch fox pluck taxi angry seminar quality amateur tuna width";
+var mnemonic = "surprise play minute combine universe always parrot issue early earth note display";

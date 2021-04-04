@@ -1,1 +1,1 @@
-var mnemonic = "foam educate burst sort return mail tiny arch crucial wealth oval skin";
+var mnemonic = "cream hotel coconut peanut drink uncover differ feel novel father kite time";

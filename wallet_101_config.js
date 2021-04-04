@@ -1,1 +1,1 @@
-var mnemonic = "ritual globe scout arrange fix endorse today silent crazy waste kit later";
+var mnemonic = "drill route custom nest steel just nerve mobile rich apple body wool";

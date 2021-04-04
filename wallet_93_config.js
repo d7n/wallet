@@ -1,1 +1,1 @@
-var mnemonic = "boy maximum fire shed skill scene illness fat amateur wall eagle notice";
+var mnemonic = "prison bundle profit scene drama garden over pride argue liberty donate defense";

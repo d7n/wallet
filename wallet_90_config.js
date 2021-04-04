@@ -1,1 +1,1 @@
-var mnemonic = "strategy such critic bomb fault purchase limb clip approve repair alley dolphin";
+var mnemonic = "fortune rebel another maple excite fog boring violin shy welcome grant father";

@@ -1,1 +1,1 @@
-var mnemonic = "interest focus three garden bone inner stool mirror puppy slam strategy web";
+var mnemonic = "scheme fence follow rebel market gadget tonight rebel gloom final vessel banana";

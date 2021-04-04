@@ -1,1 +1,1 @@
-var mnemonic = "road soldier moon average input doll reduce shrug dumb salt virus solve";
+var mnemonic = "until cloud nephew index language quality number secret cost mimic salon twelve";

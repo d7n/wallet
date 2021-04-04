@@ -1,1 +1,1 @@
-var mnemonic = "parade scout arrive asset all project normal retire cattle dentist double dignity";
+var mnemonic = "cave sad jacket garlic gown supreme bless food vapor electric range excess";

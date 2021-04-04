@@ -1,1 +1,1 @@
-var mnemonic = "leader health sister job stereo opinion bulb benefit enrich conduct nephew credit";
+var mnemonic = "click canal answer code tenant guide adapt mandate actress carry style neck";

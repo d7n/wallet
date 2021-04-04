@@ -1,1 +1,1 @@
-var mnemonic = "paddle fabric input alter despair denial film tilt office portion camera surprise";
+var mnemonic = "submit coin today calm shoot view innocent modify bargain drill silk leader";
