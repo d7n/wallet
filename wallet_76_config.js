@@ -1,1 +1,1 @@
-var mnemonic = "bird piece expect velvet know goose inquiry scale ahead side neutral rail";
+var mnemonic = "recycle risk comfort digital picnic fun mushroom course verify churn goddess coral";

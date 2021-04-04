@@ -1,1 +1,1 @@
-var mnemonic = "inflict drink bulb exact jeans indoor point tiny monster slot wonder code";
+var mnemonic = "false orange enable chair nurse truth inside staff coconut flush garment nominee";

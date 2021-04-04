@@ -1,1 +1,1 @@
-var mnemonic = "drum absorb narrow village bracket snack december flash identify usual peasant mixture";
+var mnemonic = "craft lake vendor mean stadium gauge duck gospel enemy believe recycle curtain";

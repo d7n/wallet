@@ -1,1 +1,1 @@
-var mnemonic = "front rule version slam answer law plunge shift eye test memory fringe";
+var mnemonic = "machine used parrot session valve reflect record worth unveil physical blush tonight";

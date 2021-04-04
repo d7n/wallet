@@ -1,1 +1,1 @@
-var mnemonic = "husband apology replace staff engine east bomb mushroom fiscal razor apology art";
+var mnemonic = "noise bread check picnic trade other latin bonus sphere paddle sport outdoor";

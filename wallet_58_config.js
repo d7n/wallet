@@ -1,1 +1,1 @@
-var mnemonic = "great vivid broken pizza lizard prepare dynamic parrot emotion mutual outdoor suit";
+var mnemonic = "wrist digital want hero tiger group large easily craft message weasel junior";

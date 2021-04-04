@@ -1,1 +1,1 @@
-var mnemonic = "duty vivid prefer van fall autumn follow vacant clown nut about actual";
+var mnemonic = "coil balcony bring fat forward catalog pink police bleak hungry strategy organ";

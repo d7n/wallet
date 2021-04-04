@@ -1,1 +1,1 @@
-var mnemonic = "boss super hurry digital march fog rice cotton long trumpet aware advice";
+var mnemonic = "weather guard mistake middle exile soup energy make approve used young scan";

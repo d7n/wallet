@@ -1,1 +1,1 @@
-var mnemonic = "erosion stone clarify bronze gun mix brick upgrade phone trend lunar rubber";
+var mnemonic = "before curtain wet punch prefer young hand boat pioneer tree script roof";

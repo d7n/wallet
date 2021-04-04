@@ -1,1 +1,1 @@
-var mnemonic = "equip indicate access great debris kite prosper bone fabric nasty nut ozone";
+var mnemonic = "fence reunion thunder rail fantasy idle faint boat pig note crime half";

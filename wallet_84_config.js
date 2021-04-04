@@ -1,1 +1,1 @@
-var mnemonic = "alter retreat flavor attitude exit bottom piano super true balcony dynamic budget";
+var mnemonic = "grant vivid upset inhale build narrow gym sunny skill sniff hint surround";

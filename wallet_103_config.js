@@ -1,1 +1,1 @@
-var mnemonic = "dragon pull physical coffee exhibit length oblige close goose scissors degree dream";
+var mnemonic = "output there blood drill year menu repeat curious ethics rude sugar robot";

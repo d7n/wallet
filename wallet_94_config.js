@@ -1,1 +1,1 @@
-var mnemonic = "between girl pottery hamster dance team advance fire coast whip prize cave";
+var mnemonic = "diet depend trend quiz crop elder fame canoe aspect post tennis shrimp";

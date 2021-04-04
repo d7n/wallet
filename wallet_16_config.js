@@ -1,1 +1,1 @@
-var mnemonic = "guess curve rather clarify cereal style run actor enjoy swamp output fancy";
+var mnemonic = "carry sea miss day swarm juice common ill foot fragile raise cotton";

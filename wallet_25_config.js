@@ -1,1 +1,1 @@
-var mnemonic = "notable another smooth floor reopen aspect repeat camp idea ring galaxy trigger";
+var mnemonic = "census garbage umbrella urban provide bar rotate taxi client one coral device";

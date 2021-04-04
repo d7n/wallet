@@ -1,1 +1,1 @@
-var mnemonic = "flip oppose neutral person smooth update fluid soap kingdom power buffalo draft";
+var mnemonic = "romance detect member reform clutch surprise stuff teach dawn effort fiber deny";

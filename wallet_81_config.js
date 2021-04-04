@@ -1,1 +1,1 @@
-var mnemonic = "lumber amount broken zoo sing ghost chaos cover cinnamon confirm defy violin";
+var mnemonic = "carry plug benefit aunt lottery room weekend submit art fiscal promote panther";

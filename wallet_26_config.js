@@ -1,1 +1,1 @@
-var mnemonic = "tissue treat traffic salmon follow hurdle shove message rain bulk three unaware";
+var mnemonic = "trumpet soda local loan lounge soccer elevator noise cry abstract muffin tuna";

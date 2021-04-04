@@ -1,1 +1,1 @@
-var mnemonic = "bubble boy lens setup page father science indicate drive solar tragic atom";
+var mnemonic = "glove run size iron shallow topic business cake guilt federal test tunnel";

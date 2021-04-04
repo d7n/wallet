@@ -1,1 +1,1 @@
-var mnemonic = "upper kiss undo because sign problem ankle gift cruel online around desert";
+var mnemonic = "earth clog dog come twice pause torch humble retire night kit pair";

@@ -1,1 +1,1 @@
-var mnemonic = "grid green balcony spare federal cry ill garden zebra special close steel";
+var mnemonic = "awful air ship thank hip judge open rhythm emerge exercise fury layer";

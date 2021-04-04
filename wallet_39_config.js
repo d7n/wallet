@@ -1,1 +1,1 @@
-var mnemonic = "outdoor genuine trend tank will expose canal all market local blur naive";
+var mnemonic = "item grape spoon mesh sea demise issue edit ready float belt cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "knock badge monkey strategy you similar detail picnic hen donkey crew below";
+var mnemonic = "cherry unveil next very spirit lemon remain egg stadium begin body peace";

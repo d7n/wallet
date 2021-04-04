@@ -1,1 +1,1 @@
-var mnemonic = "hammer slot soda congress scene basket lumber east ship hard badge shrug";
+var mnemonic = "muffin rotate myself praise latin fine wire diamond embrace eight funny company";

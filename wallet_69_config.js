@@ -1,1 +1,1 @@
-var mnemonic = "logic gift noodle smooth evoke noble never impact combine warfare around autumn";
+var mnemonic = "slide imitate solve holiday dwarf toddler fringe august boat chicken horse virus";

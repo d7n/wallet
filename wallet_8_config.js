@@ -1,1 +1,1 @@
-var mnemonic = "tobacco trumpet only recipe control owner more romance inquiry appear street system";
+var mnemonic = "ripple simple have account sick sign pattern bicycle iron sure green say";

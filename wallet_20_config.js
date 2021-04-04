@@ -1,1 +1,1 @@
-var mnemonic = "west meadow educate husband radar dwarf ankle physical dwarf frame wear nuclear";
+var mnemonic = "follow army orange battle dilemma tree theme office frown resource answer bar";

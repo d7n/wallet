@@ -1,1 +1,1 @@
-var mnemonic = "rely search old leopard update wool scene chimney fruit ticket provide air";
+var mnemonic = "install dwarf expire drastic lens rival birth negative harbor more expect nut";

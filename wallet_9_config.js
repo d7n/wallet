@@ -1,1 +1,1 @@
-var mnemonic = "snap cotton reward noodle riot wonder core coyote manual metal only delay";
+var mnemonic = "unfair outer demise retire that either renew lift dad over beach hole";

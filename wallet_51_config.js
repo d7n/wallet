@@ -1,1 +1,1 @@
-var mnemonic = "typical correct garage assault interest heart width time limb retire amateur noodle";
+var mnemonic = "mercy below ocean vendor water screen hollow frog clever fragile remind dune";

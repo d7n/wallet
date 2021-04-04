@@ -1,1 +1,1 @@
-var mnemonic = "identify mango kangaroo action urban thing future check fit pluck mad pill";
+var mnemonic = "market limb hunt field helmet valid member hand uncover finger reform result";

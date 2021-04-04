@@ -1,1 +1,1 @@
-var mnemonic = "salute present express cliff road aerobic amazing patch solve siege profit parent";
+var mnemonic = "update lady list umbrella simple ramp slush peace lunch fury layer prevent";

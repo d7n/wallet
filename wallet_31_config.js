@@ -1,1 +1,1 @@
-var mnemonic = "lucky rain slot sibling vacuum long melody ready inform evolve wash trash";
+var mnemonic = "across track property echo manual note clock above blame phone dawn bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "school raw heart cook milk escape indoor crack hint meat result collect";
+var mnemonic = "ugly smooth adult dolphin isolate west scale ask concert noble doctor elbow";

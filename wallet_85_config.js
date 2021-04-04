@@ -1,1 +1,1 @@
-var mnemonic = "carry battle fresh orphan mention memory clap leisure maid payment gorilla immune";
+var mnemonic = "village find beef rural side topple regular sad jelly desk tornado armor";

@@ -1,1 +1,1 @@
-var mnemonic = "humble concert runway champion spin olympic little audit season onion avocado lunch";
+var mnemonic = "flush drama violin unique universe among industry code typical result fatigue man";

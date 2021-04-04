@@ -1,1 +1,1 @@
-var mnemonic = "april level faculty modify bulb boost siren chat crisp valve junior bird";
+var mnemonic = "knee hire tobacco any erode illness cause inside soul dry dutch envelope";

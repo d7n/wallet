@@ -1,1 +1,1 @@
-var mnemonic = "erode love dust exile wait wasp merge renew flash student bind park";
+var mnemonic = "buffalo miracle wet dragon depend twin panther tumble rain crisp vendor venture";

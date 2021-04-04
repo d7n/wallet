@@ -1,1 +1,1 @@
-var mnemonic = "sponsor cancel blossom inform fancy board vessel seek alcohol file degree option";
+var mnemonic = "play flip dinosaur hamster fiction machine stereo clean hurry burst tone genre";

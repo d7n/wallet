@@ -1,1 +1,1 @@
-var mnemonic = "grace source emotion craft shuffle quantum party mad concert real supreme shoot";
+var mnemonic = "birth crunch palace elite obvious penalty fresh crime diet husband blame shaft";

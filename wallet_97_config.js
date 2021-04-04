@@ -1,1 +1,1 @@
-var mnemonic = "swarm theme grid tail ozone cigar cat trap close weasel number weapon";
+var mnemonic = "crash food social melody sausage wall conduct speak march dial process ship";

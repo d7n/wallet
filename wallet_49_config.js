@@ -1,1 +1,1 @@
-var mnemonic = "cheese panda unusual dice coral expire fall rigid fresh derive rate observe";
+var mnemonic = "decline drive lyrics addict frown version direct twenty axis purity buzz east";

@@ -1,1 +1,1 @@
-var mnemonic = "spy pig normal wrist drift frame clinic crisp suffer gold mean exact";
+var mnemonic = "wool stadium ring deputy employ mixed visa gravity spell attitude hawk relax";

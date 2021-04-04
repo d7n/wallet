@@ -1,1 +1,1 @@
-var mnemonic = "diamond later tree payment reject fatigue chalk clump churn orbit volcano van";
+var mnemonic = "input file arrange brush donate worry bag direct super riot scrub toss";

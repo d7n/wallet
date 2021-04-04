@@ -1,1 +1,1 @@
-var mnemonic = "guitar corn aspect hub rate source relax scissors pill elevator remind jelly";
+var mnemonic = "sheriff become very safe salt purity orient clump copper future pencil invest";

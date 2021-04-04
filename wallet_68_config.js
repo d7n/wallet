@@ -1,1 +1,1 @@
-var mnemonic = "valley observe february quote pluck village vapor job bike home stereo treat";
+var mnemonic = "output denial wine win spawn orbit grid over salad consider vague unlock";

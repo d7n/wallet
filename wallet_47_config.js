@@ -1,1 +1,1 @@
-var mnemonic = "night crunch lava skull staff local anger blouse just today sound depart";
+var mnemonic = "cross absent matrix deer solid pride face forest cage special check mother";

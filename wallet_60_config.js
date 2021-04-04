@@ -1,1 +1,1 @@
-var mnemonic = "furnace illegal faint drastic develop together improve audit express barely shy laptop";
+var mnemonic = "lizard worry shoulder slot amateur limit purchase fortune lemon book bottom divide";

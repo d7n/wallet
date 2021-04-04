@@ -1,1 +1,1 @@
-var mnemonic = "learn cable danger sight father fever erase gown sock solid about day";
+var mnemonic = "kick praise consider maple fancy essay spin card music primary capital phone";

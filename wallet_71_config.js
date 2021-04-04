@@ -1,1 +1,1 @@
-var mnemonic = "theme balance panther else someone tape near time attend area fox nerve";
+var mnemonic = "august taste jealous between muscle funny share jar buzz blanket night lecture";

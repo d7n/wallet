@@ -1,1 +1,1 @@
-var mnemonic = "wrap accuse bachelor borrow loan person vault skin frog erase wagon term";
+var mnemonic = "truly uncover town rather type borrow night degree purpose month object snack";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs film advance size celery click split elevator beach science recipe agree";
+var mnemonic = "apart there embrace ignore fury year usage shaft private struggle puppy document";

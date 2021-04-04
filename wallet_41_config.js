@@ -1,1 +1,1 @@
-var mnemonic = "grief wild social goat neglect prevent dwarf people sudden box pistol dust";
+var mnemonic = "shy diamond idea ill junior useless aerobic render engage equal grant scare";

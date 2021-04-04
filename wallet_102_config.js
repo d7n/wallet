@@ -1,1 +1,1 @@
-var mnemonic = "long payment furnace power second enhance cotton lonely holiday genuine spawn appear";
+var mnemonic = "roast october aware inner pen kind gospel bubble scorpion armor region scorpion";

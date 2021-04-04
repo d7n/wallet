@@ -1,1 +1,1 @@
-var mnemonic = "raven aerobic often member shaft renew flip pledge wisdom awful cave inflict";
+var mnemonic = "glove gentle lamp pet enough foil split jacket traffic candy lunar foam";

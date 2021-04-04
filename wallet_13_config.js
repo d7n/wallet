@@ -1,1 +1,1 @@
-var mnemonic = "party spawn crime innocent exclude either risk oxygen animal average flock museum";
+var mnemonic = "where day viable away large admit side stool shoot hood base smart";

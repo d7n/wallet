@@ -1,1 +1,1 @@
-var mnemonic = "tunnel coin genius social polar dinosaur general entry carry chronic firm crumble";
+var mnemonic = "chalk drink danger neglect practice exclude swim observe humor barely print labor";

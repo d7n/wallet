@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit tip figure stamp dust harsh online rookie shoe spoil supply isolate";
+var mnemonic = "truly afford pet pelican oxygen vendor news aisle wolf sugar shoot similar";

@@ -1,1 +1,1 @@
-var mnemonic = "between actress floor panda example rotate comic dune palm carry vast game";
+var mnemonic = "tired inflict alarm protect custom impact rotate govern enact else actor minor";

@@ -1,1 +1,1 @@
-var mnemonic = "kid can mango belt panic dismiss pelican inner fringe extend hole text";
+var mnemonic = "check system alpha crucial kind captain noble pilot kite fatigue easily path";

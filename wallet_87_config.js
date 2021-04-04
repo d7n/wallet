@@ -1,1 +1,1 @@
-var mnemonic = "erase illness bid mushroom valve clock slim tag dinosaur disease hair gain";
+var mnemonic = "palace pipe pact tourist collect derive tribe actor belt lounge convince random";

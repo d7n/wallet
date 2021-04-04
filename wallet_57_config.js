@@ -1,1 +1,1 @@
-var mnemonic = "october laptop often thunder budget anger bind enough dismiss develop involve regular";
+var mnemonic = "physical color rent volcano luxury mechanic stay dance income give catalog unaware";

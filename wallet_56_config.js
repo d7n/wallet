@@ -1,1 +1,1 @@
-var mnemonic = "upset cart budget safe typical whisper actual sniff rural uncover kitten zero";
+var mnemonic = "exhibit squirrel gadget refuse shoulder chase boil parade skin spirit scatter hire";

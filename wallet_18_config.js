@@ -1,1 +1,1 @@
-var mnemonic = "decorate find blanket general wink escape demise wool property lesson fence kidney";
+var mnemonic = "chat kidney derive glimpse chronic enact volume wide often change exchange fold";

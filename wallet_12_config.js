@@ -1,1 +1,1 @@
-var mnemonic = "casino narrow barely access differ family adjust sun shiver author notice hybrid";
+var mnemonic = "ceiling review blush pride legal never other enjoy clog jazz annual reunion";

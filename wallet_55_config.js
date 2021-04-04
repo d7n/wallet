@@ -1,1 +1,1 @@
-var mnemonic = "face jacket true spoil ripple globe enroll shiver blur share scare smart";
+var mnemonic = "diagram recycle soup stone erosion unfold quiz vicious very hospital save shine";

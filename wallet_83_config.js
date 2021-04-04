@@ -1,1 +1,1 @@
-var mnemonic = "sphere cage jelly catalog top dentist title moon mimic three feel finish";
+var mnemonic = "ocean bean feel garden jaguar drink venture fruit table ignore wire biology";

@@ -1,1 +1,1 @@
-var mnemonic = "marine leopard stay twenty want fetch expect mistake toilet betray wage bomb";
+var mnemonic = "follow tiger behind lake cheese portion agree heart convince execute bag sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "alone ill wrestle blast rose direct green avoid have indicate plate casual";
+var mnemonic = "fetch ripple canvas eye combine crime echo small tobacco wash decrease artist";

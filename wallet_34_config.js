@@ -1,1 +1,1 @@
-var mnemonic = "spirit cabin asset wing useful fiction suspect bulb memory cube enhance smooth";
+var mnemonic = "agent sudden door obvious runway pigeon arena harvest pass city hockey dirt";

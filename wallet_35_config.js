@@ -1,1 +1,1 @@
-var mnemonic = "awkward avoid express simple empty armor cave pretty brave volume stool photo";
+var mnemonic = "must idea mushroom churn deposit avoid admit cotton unveil produce gorilla sand";

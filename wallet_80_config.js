@@ -1,1 +1,1 @@
-var mnemonic = "trade orchard dial volume portion make win magnet judge gym fox predict";
+var mnemonic = "hold couple submit tent inner letter leg oven tree proof extend genre";

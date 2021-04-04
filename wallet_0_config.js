@@ -1,1 +1,1 @@
-var mnemonic = "foster income path coffee capable banana misery strong child rally grape sport";
+var mnemonic = "cry sniff drive balcony stem crouch magic focus leaf blast color rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "limb trick syrup unveil dwarf ill jewel brave below try tag detail";
+var mnemonic = "inhale window future pass issue exchange depart flat wide kick habit solar";

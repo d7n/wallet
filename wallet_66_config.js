@@ -1,1 +1,1 @@
-var mnemonic = "grain raccoon narrow twice seven betray power boil among budget concert fragile";
+var mnemonic = "welcome flag rotate hundred party brush atom supply discover ramp daring ten";

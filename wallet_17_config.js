@@ -1,1 +1,1 @@
-var mnemonic = "soap document twin stamp reunion siren rich sell illegal step gate wing";
+var mnemonic = "offer canal wrist sail repair giggle option cricket vocal police fault about";

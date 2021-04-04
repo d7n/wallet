@@ -1,1 +1,1 @@
-var mnemonic = "time release hero solution panic gospel payment reflect coral magic enforce cloth";
+var mnemonic = "noble hamster stove direct whisper clock awesome position scout cinnamon hidden dirt";

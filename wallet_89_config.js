@@ -1,1 +1,1 @@
-var mnemonic = "quarter toss inside purity equal media outdoor art fossil fantasy glow clump";
+var mnemonic = "skirt dynamic analyst orange powder empower truck stem unveil behave rhythm logic";

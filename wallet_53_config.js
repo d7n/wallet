@@ -1,1 +1,1 @@
-var mnemonic = "build tired ozone fringe gospel cat devote risk hill rebuild like code";
+var mnemonic = "cherry cook gadget armor typical tortoise arrange dress crunch between title cream";

@@ -1,1 +1,1 @@
-var mnemonic = "drill toe march burden laundry before toward between genuine voice tiny skate";
+var mnemonic = "unaware utility mother zone path ancient second fiber elephant knock engine claw";

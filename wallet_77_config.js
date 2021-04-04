@@ -1,1 +1,1 @@
-var mnemonic = "punch school elevator acoustic combine foster survey slide gadget blush praise soda";
+var mnemonic = "rack warfare man fetch ripple exercise flock hungry core utility brave elevator";

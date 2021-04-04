@@ -1,1 +1,1 @@
-var mnemonic = "oven damp pair naive marriage stomach skill adapt beyond limit group shove";
+var mnemonic = "enable swallow sphere two scatter turkey give asset suit polar pudding attitude";

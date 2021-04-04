@@ -1,1 +1,1 @@
-var mnemonic = "embrace civil borrow situate shine lemon decrease acid patch left legend dynamic";
+var mnemonic = "chase away close provide wrestle sweet love sure mechanic prison warrior slam";

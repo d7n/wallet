@@ -1,1 +1,1 @@
-var mnemonic = "kid learn property muffin siege hungry february tent there envelope crumble bid";
+var mnemonic = "swear shop plate circle beauty edit exhaust now female social weird tomorrow";

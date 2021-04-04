@@ -1,1 +1,1 @@
-var mnemonic = "memory canal cereal slogan legend stereo sample minute video gasp leader edge";
+var mnemonic = "clap hidden stick memory master glide elite pioneer bench wide throw fan";

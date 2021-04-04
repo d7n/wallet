@@ -1,1 +1,1 @@
-var mnemonic = "train poet taxi silver anxiety ignore matter priority extra result grief neutral";
+var mnemonic = "will pole wonder enact affair deal magic oil copper notice involve solar";

@@ -1,1 +1,1 @@
-var mnemonic = "embark army arctic chat find absurd usage kit essay scorpion illegal brick";
+var mnemonic = "split genuine culture fiscal smile forward connect advice relief memory elevator object";

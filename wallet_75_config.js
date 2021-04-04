@@ -1,1 +1,1 @@
-var mnemonic = "nose unaware party chef area oblige cheap rely ethics wasp design arm";
+var mnemonic = "visit slot cousin debate wedding mandate addict father member dune cushion later";

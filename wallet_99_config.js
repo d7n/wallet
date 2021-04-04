@@ -1,1 +1,1 @@
-var mnemonic = "shove rural risk twice father follow afford original round pond feel actress";
+var mnemonic = "ostrich camera famous rival visual ignore use physical odor quarter sure huge";

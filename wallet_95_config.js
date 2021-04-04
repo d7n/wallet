@@ -1,1 +1,1 @@
-var mnemonic = "banana clip tent track draw chimney unfair about future relief perfect radio";
+var mnemonic = "glare spawn peace girl letter cram kangaroo ask salt random cradle famous";

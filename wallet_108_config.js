@@ -1,1 +1,1 @@
-var mnemonic = "taxi payment imitate dad example school impact trust casino improve adult smile";
+var mnemonic = "fiction asthma pave west improve lens pattern narrow dinner onion pair sun";

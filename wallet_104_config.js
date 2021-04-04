@@ -1,1 +1,1 @@
-var mnemonic = "distance people talk margin tuna run provide cross acid embrace spell mountain";
+var mnemonic = "nation leisure milk lucky keep member advance chat crew pact below job";

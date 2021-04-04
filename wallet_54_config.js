@@ -1,1 +1,1 @@
-var mnemonic = "gossip gym guard pelican antique prevent enact feel silver rate post brisk";
+var mnemonic = "harbor body spawn palm habit uniform inject spare voyage shadow coral emerge";

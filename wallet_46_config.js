@@ -1,1 +1,1 @@
-var mnemonic = "wedding size romance treat easy lizard memory elbow priority better mandate input";
+var mnemonic = "priority airport coin fever lens evil blanket become start offer law fabric";
