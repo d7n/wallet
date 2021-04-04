@@ -1,1 +1,1 @@
-var mnemonic = "over trouble nasty business sadness amused ankle find same program club illness";
+var mnemonic = "pencil when foil throw always fluid monitor credit rebuild elbow top perfect";

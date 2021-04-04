@@ -1,1 +1,1 @@
-var mnemonic = "zero kitchen stomach only stumble weasel glare lion speed magic quality start";
+var mnemonic = "place toss element ensure burden delay fantasy cake fuel entire olympic vendor";

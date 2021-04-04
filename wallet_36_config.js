@@ -1,1 +1,1 @@
-var mnemonic = "radar produce marble know expect toss twist below solid cigar crucial until";
+var mnemonic = "secret sleep filter cool crew impose token neutral sheriff game stomach coast";

@@ -1,1 +1,1 @@
-var mnemonic = "marble mesh tribe upon region other anxiety tooth pond glass private fashion";
+var mnemonic = "actual stomach obey cluster south shove above mansion divorce siege sibling direct";

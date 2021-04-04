@@ -1,1 +1,1 @@
-var mnemonic = "fix velvet volume prison fury chicken quality crack frozen raven hero render";
+var mnemonic = "canoe cave stone stem dice gather attend north satoshi start vacuum easy";

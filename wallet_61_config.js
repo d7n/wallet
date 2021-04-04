@@ -1,1 +1,1 @@
-var mnemonic = "cabin sign pass maple mushroom siren hidden warfare kite online common churn";
+var mnemonic = "pull service donor useless hotel obtain west media disease start spare undo";

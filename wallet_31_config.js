@@ -1,1 +1,1 @@
-var mnemonic = "citizen chimney escape series shield casino bridge pulse strong odor bread fresh";
+var mnemonic = "scissors inject tissue people dwarf cat system right sadness track denial scan";

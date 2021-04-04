@@ -1,1 +1,1 @@
-var mnemonic = "hollow quantum south silver front peanut monitor ten buffalo angle cradle dish";
+var mnemonic = "more divide amateur lunch step category gain memory achieve ceiling quiz since";

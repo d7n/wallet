@@ -1,1 +1,1 @@
-var mnemonic = "rich galaxy way mountain fiction night arrow globe beauty meat lawsuit anchor";
+var mnemonic = "mix fix hen lava before pact leisure unit issue salon mouse lake";

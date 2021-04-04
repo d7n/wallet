@@ -1,1 +1,1 @@
-var mnemonic = "brick build tide start onion disease stuff pledge recall holiday argue toward";
+var mnemonic = "bargain media shy receive supply exit erode hospital balcony scare reunion punch";

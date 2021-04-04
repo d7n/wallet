@@ -1,1 +1,1 @@
-var mnemonic = "race eagle skin unfair success candy quarter above decide ski tattoo spike";
+var mnemonic = "purse table bunker potato illegal input thumb possible audit speed item evoke";

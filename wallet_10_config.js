@@ -1,1 +1,1 @@
-var mnemonic = "cereal matter bench field jeans cereal apology inhale such ability scrub pistol";
+var mnemonic = "struggle cattle traffic ball potato dust enough public junk glare cool frequent";

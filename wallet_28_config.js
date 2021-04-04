@@ -1,1 +1,1 @@
-var mnemonic = "there copy hire split hollow dress yellow august increase ancient pair lock";
+var mnemonic = "chair escape winter fee rent enter asthma mad comic gadget organ tennis";

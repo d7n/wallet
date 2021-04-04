@@ -1,1 +1,1 @@
-var mnemonic = "umbrella craft salute crumble village chase subway unaware remain ask zebra outer";
+var mnemonic = "lift define submit trip kitten segment material cattle hidden try rescue wine";

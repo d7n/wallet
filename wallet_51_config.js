@@ -1,1 +1,1 @@
-var mnemonic = "ignore notable evoke twice ranch welcome cool image smoke warfare else prosper";
+var mnemonic = "pair fragile illness give olympic carry market onion exist skill galaxy talk";

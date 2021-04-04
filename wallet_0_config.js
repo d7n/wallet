@@ -1,1 +1,1 @@
-var mnemonic = "jealous asthma grape anger human garbage goose comic noise ensure pudding window";
+var mnemonic = "render company twist chaos february boost message test weekend weird myth charge";

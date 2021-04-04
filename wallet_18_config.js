@@ -1,1 +1,1 @@
-var mnemonic = "public print magic loop donate guide goat room again swing pole position";
+var mnemonic = "whale robot puzzle name lumber ordinary lift beef bacon cruel vital swift";

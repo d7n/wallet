@@ -1,1 +1,1 @@
-var mnemonic = "enroll column pass reason switch speed library nephew honey author scan vault";
+var mnemonic = "final nation vocal ten steel mansion casino shed usual bag mammal swallow";

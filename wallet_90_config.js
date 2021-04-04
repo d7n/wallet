@@ -1,1 +1,1 @@
-var mnemonic = "group polar witness ozone clown require patch crew kid subway ranch innocent";
+var mnemonic = "time owner hawk good reward matter future source same defy convince wonder";

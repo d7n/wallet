@@ -1,1 +1,1 @@
-var mnemonic = "promote helmet sea vintage wine clump away loop chicken income tired judge";
+var mnemonic = "quality horror luxury art shell share coast start sick furnace bulk pulp";

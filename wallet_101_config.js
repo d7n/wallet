@@ -1,1 +1,1 @@
-var mnemonic = "fly puppy increase know raccoon feature exile bone plate whale mystery object";
+var mnemonic = "element junk monitor bid ring stadium dwarf glass topple obvious early skill";

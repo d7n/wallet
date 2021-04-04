@@ -1,1 +1,1 @@
-var mnemonic = "head rescue soul marriage they marriage argue announce young surround sound festival";
+var mnemonic = "beauty story fun deer replace foot vote pole clown shoe type silk";

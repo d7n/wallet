@@ -1,1 +1,1 @@
-var mnemonic = "multiply fame juice false tobacco disagree glad inject team artefact inflict ghost";
+var mnemonic = "uncover finish property flag onion egg argue punch also egg excite mail";

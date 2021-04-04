@@ -1,1 +1,1 @@
-var mnemonic = "proud price ugly meadow october vicious benefit actress now blush electric corn";
+var mnemonic = "basket reopen birth loud egg focus omit camera moral pull harsh mom";

@@ -1,1 +1,1 @@
-var mnemonic = "prison flame mouse sniff top tourist screen kite ribbon ribbon ahead orange";
+var mnemonic = "fruit reason asthma keep private panel joke certain initial live sauce arctic";

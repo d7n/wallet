@@ -1,1 +1,1 @@
-var mnemonic = "pluck explain cook cash maze priority decade coconut please then aware slam";
+var mnemonic = "lecture nation still scout gold old state pluck timber vocal offer squeeze";

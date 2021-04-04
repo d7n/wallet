@@ -1,1 +1,1 @@
-var mnemonic = "neither valley bitter coin subject evolve civil what tree tumble soda tail";
+var mnemonic = "theory dinosaur machine slogan awake gravity elder suit screen duty thing ride";

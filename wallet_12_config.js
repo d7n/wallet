@@ -1,1 +1,1 @@
-var mnemonic = "error cheap blossom slogan session own bottom clay clean myth steak cluster";
+var mnemonic = "neutral original confirm clerk list culture fancy excite upset father craft pyramid";

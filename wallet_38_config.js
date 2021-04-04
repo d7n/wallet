@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog item quiz glory nature hire false scout supreme elegant clown quantum";
+var mnemonic = "update never exotic head museum often cart orbit weapon embark fix salad";

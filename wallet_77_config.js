@@ -1,1 +1,1 @@
-var mnemonic = "banner design year glad bone step fat job need beach hurry age";
+var mnemonic = "congress ostrich tuition match must more prize target alter detail subject couple";

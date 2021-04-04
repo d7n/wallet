@@ -1,1 +1,1 @@
-var mnemonic = "vendor primary secret syrup kick vote village man special south addict depth";
+var mnemonic = "neutral deputy senior tell eagle pencil afraid tower crane sibling logic inside";

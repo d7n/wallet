@@ -1,1 +1,1 @@
-var mnemonic = "huge column theory tumble suspect under dignity account inmate tank clip buyer";
+var mnemonic = "either invite walk raccoon quiz crop duck glory unable seek dice hidden";

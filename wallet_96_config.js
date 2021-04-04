@@ -1,1 +1,1 @@
-var mnemonic = "rubber fire fox knee oblige obvious outdoor price inherit social picnic advice";
+var mnemonic = "spell piece major style bless path crowd bunker oven mobile good green";

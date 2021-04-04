@@ -1,1 +1,1 @@
-var mnemonic = "express identify sweet napkin saddle woman intact credit exchange spatial remember collect";
+var mnemonic = "deposit peasant basket clown annual pretty glove hip recall bounce reason ozone";

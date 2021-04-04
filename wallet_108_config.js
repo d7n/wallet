@@ -1,1 +1,1 @@
-var mnemonic = "gun forget movie major water wave kitchen faculty reform toss twist transfer";
+var mnemonic = "category gauge acid adapt differ that monster poet turkey orphan release idle";

@@ -1,1 +1,1 @@
-var mnemonic = "trash weather analyst weather grocery arch pigeon cloth donkey lounge agent include";
+var mnemonic = "bridge shrimp quit recall warm essence faint fence chase enlist infant mushroom";

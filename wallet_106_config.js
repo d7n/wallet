@@ -1,1 +1,1 @@
-var mnemonic = "purpose feel jeans train draft cycle pencil shoe saddle impulse switch fly";
+var mnemonic = "track virus invest honey wait object fabric drama miss vast memory arrive";

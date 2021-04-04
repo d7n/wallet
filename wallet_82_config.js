@@ -1,1 +1,1 @@
-var mnemonic = "win public motion ozone extend shell keep angry ramp gloom ramp confirm";
+var mnemonic = "route staff reward elbow bike better safe roof love beauty secret skirt";

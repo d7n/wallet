@@ -1,1 +1,1 @@
-var mnemonic = "oblige cute pull elephant because lava medal panther cargo kidney trumpet october";
+var mnemonic = "reveal until found narrow table filter gain retire spring prison youth soccer";

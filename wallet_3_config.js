@@ -1,1 +1,1 @@
-var mnemonic = "twice woman viable one matter ill metal crane panic salmon shop drift";
+var mnemonic = "slide champion area record business brisk elegant home light air private double";

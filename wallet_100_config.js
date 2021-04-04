@@ -1,1 +1,1 @@
-var mnemonic = "addict palace wish very vehicle client pigeon logic sign supreme wall clip";
+var mnemonic = "depart anger awful produce sleep possible cost false hat escape walnut chest";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey cable mechanic excess bring wonder tunnel viable forget paddle knock cereal";
+var mnemonic = "tortoise sphere sauce vintage student sugar quit inspire fancy twist where travel";

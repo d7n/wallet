@@ -1,1 +1,1 @@
-var mnemonic = "whisper hard stamp flip truly awesome junk horn topic summer tell throw";
+var mnemonic = "project under space tomorrow honey slender feature where east hazard response swarm";

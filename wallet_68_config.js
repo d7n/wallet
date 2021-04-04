@@ -1,1 +1,1 @@
-var mnemonic = "urge scissors brand century scissors gift sniff reform torch radar mosquito fancy";
+var mnemonic = "virus museum produce few medal always ten view inch pet lunch rocket";

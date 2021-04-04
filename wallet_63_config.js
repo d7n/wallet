@@ -1,1 +1,1 @@
-var mnemonic = "rib ski giraffe lock rack town thank worth eagle virus below recipe";
+var mnemonic = "catalog match neither capable head camera crop guard pony wish dinosaur surge";

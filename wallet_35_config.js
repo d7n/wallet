@@ -1,1 +1,1 @@
-var mnemonic = "sugar dish stone memory actress message win wrist monster food develop identify";
+var mnemonic = "suggest inch regular secret build magnet salmon access spike speed floor develop";

@@ -1,1 +1,1 @@
-var mnemonic = "travel fog shock ripple expect cruise lottery quiz iron wait laugh water";
+var mnemonic = "asset october attend era ketchup gravity glory office wear wet when glue";

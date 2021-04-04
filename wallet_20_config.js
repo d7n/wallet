@@ -1,1 +1,1 @@
-var mnemonic = "useful poem club benefit simple rich banner sugar silent turn flash frog";
+var mnemonic = "kit reunion box alien shell runway harvest before adjust virtual annual gift";

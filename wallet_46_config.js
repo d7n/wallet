@@ -1,1 +1,1 @@
-var mnemonic = "warrior salon mushroom finish arm tip pottery fatal river weasel gallery deny";
+var mnemonic = "erosion stone middle chef problem inhale wage gospel ivory horn column negative";

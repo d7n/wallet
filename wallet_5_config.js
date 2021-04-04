@@ -1,1 +1,1 @@
-var mnemonic = "fish ocean excess hammer fence silk margin token disorder bachelor endless govern";
+var mnemonic = "brass cup soft minimum notice ribbon envelope arch hello advance plunge february";

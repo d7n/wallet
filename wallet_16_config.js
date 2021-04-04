@@ -1,1 +1,1 @@
-var mnemonic = "air public into lyrics pig lyrics rocket hybrid rural rescue wool envelope";
+var mnemonic = "stomach hammer hurry mountain blood avocado improve hurry describe laundry ghost swim";

@@ -1,1 +1,1 @@
-var mnemonic = "right major drill squirrel sadness admit harsh test powder husband copy high";
+var mnemonic = "style educate faculty fiction oil hub must better stone deliver clinic length";

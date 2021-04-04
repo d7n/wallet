@@ -1,1 +1,1 @@
-var mnemonic = "coral theory sleep only sell staff possible recycle antenna alter garbage luggage";
+var mnemonic = "swap door famous minute novel valley drive vital zoo almost egg assist";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd beauty match stove work base pretty regret lounge entire wire van";
+var mnemonic = "pact brief mutual between success reopen bomb drill shock avocado disorder record";

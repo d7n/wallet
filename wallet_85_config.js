@@ -1,1 +1,1 @@
-var mnemonic = "ozone educate turtle enough curious actual own voyage seat cover room jazz";
+var mnemonic = "derive glove october luggage leader cabbage deal skate miracle enjoy woman mom";

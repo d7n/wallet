@@ -1,1 +1,1 @@
-var mnemonic = "sail sustain purpose inform collect finish journey vague empty hobby flock moment";
+var mnemonic = "champion devote tortoise install weasel quality member empty wasp sting floor glimpse";

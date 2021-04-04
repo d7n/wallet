@@ -1,1 +1,1 @@
-var mnemonic = "stomach child federal vanish surge interest palm stick impact latin palm tragic";
+var mnemonic = "milk wet quote gather typical science evidence portion circle asthma breeze peace";

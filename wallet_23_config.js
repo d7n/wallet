@@ -1,1 +1,1 @@
-var mnemonic = "indoor shrug where race name evil any leader charge peanut tower list";
+var mnemonic = "chest ridge dad act cruel tip just another apology sense end search";

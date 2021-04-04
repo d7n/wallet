@@ -1,1 +1,1 @@
-var mnemonic = "stove chunk royal diagram similar pulse decade guess attend kid muscle scout";
+var mnemonic = "soon trend guide sunny unfold fire sausage ignore bachelor gossip family husband";

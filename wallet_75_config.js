@@ -1,1 +1,1 @@
-var mnemonic = "soccer verb strike wave proof juice erode garment poverty camp episode eyebrow";
+var mnemonic = "bomb require pony affair give thing fatal blush metal skull road estate";

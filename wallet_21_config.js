@@ -1,1 +1,1 @@
-var mnemonic = "glimpse arm chase carbon dream glow core misery enter evolve observe vehicle";
+var mnemonic = "humble liberty mother sibling journey actual object garment news ticket neglect sample";

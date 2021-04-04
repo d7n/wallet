@@ -1,1 +1,1 @@
-var mnemonic = "control pizza poet item sustain farm cave gown gallery place phone include";
+var mnemonic = "orphan wise census talk sponsor mass photo wash pretty high rather used";

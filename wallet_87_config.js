@@ -1,1 +1,1 @@
-var mnemonic = "miss zone caution tenant make amused angry sunny vapor stove mixture coconut";
+var mnemonic = "either flag adapt kind bounce weekend dust tool check phrase shoe eight";

@@ -1,1 +1,1 @@
-var mnemonic = "electric husband invest ladder jealous jazz toward simple resource under paddle keen";
+var mnemonic = "faculty toast trim citizen coral deposit monitor poet fun boss return raccoon";

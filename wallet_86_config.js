@@ -1,1 +1,1 @@
-var mnemonic = "blast isolate west phone hurry sort online size general audit carry wear";
+var mnemonic = "damp rail lake trophy virtual goddess process kid dilemma gate across nothing";

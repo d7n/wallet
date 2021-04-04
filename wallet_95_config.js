@@ -1,1 +1,1 @@
-var mnemonic = "fruit occur gown lyrics merit hip volcano present census wise romance range";
+var mnemonic = "purse cushion question worth gown biology loud reward strike need bird thumb";

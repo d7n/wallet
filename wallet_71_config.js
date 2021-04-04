@@ -1,1 +1,1 @@
-var mnemonic = "six attend skull wise purchase sugar novel general game help fantasy palace";
+var mnemonic = "modify club client unaware clip sail sheriff push million bag enhance minor";

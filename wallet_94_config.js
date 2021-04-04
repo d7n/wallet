@@ -1,1 +1,1 @@
-var mnemonic = "spirit they fitness glare dizzy source poet supply response long lamp cricket";
+var mnemonic = "survey poverty dirt orient affair purchase select ring property knee exact kit";

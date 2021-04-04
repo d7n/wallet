@@ -1,1 +1,1 @@
-var mnemonic = "jealous cricket appear initial skull gravity little skate screen churn special seed";
+var mnemonic = "approve smooth pact notable almost hidden joke latin sure faint interest session";

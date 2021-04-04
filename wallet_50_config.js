@@ -1,1 +1,1 @@
-var mnemonic = "neglect height comfort embody region buyer agent require mosquito lecture path orbit";
+var mnemonic = "clown wish army grow smart avoid sting build soup actor rain crew";

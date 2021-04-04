@@ -1,1 +1,1 @@
-var mnemonic = "rapid faculty arrest you exit palace unaware act drop connect crash broccoli";
+var mnemonic = "gentle sure file bright bright robust clay maximum govern oak follow soon";

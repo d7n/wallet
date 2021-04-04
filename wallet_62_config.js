@@ -1,1 +1,1 @@
-var mnemonic = "almost model scale design father naive occur settle problem party bitter affair";
+var mnemonic = "walk topic enable fossil burst fabric welcome axis sleep advice air shift";

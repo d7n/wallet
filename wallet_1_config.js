@@ -1,1 +1,1 @@
-var mnemonic = "sing quality rose between runway orphan order birth tilt aisle pigeon shiver";
+var mnemonic = "aware success accuse borrow floor flavor nuclear blur dash negative burst book";

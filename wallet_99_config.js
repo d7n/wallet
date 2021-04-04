@@ -1,1 +1,1 @@
-var mnemonic = "damage trick eager regular police purpose toward skull sweet engine that deposit";
+var mnemonic = "orchard pill awesome add music empower chronic illegal diesel ask dream explain";

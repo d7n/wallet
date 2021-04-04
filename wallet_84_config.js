@@ -1,1 +1,1 @@
-var mnemonic = "lock ladder clock monkey quiz cause second ensure cool entry tragic company";
+var mnemonic = "sister unusual nothing vast wrestle alter certain health avoid today will eye";

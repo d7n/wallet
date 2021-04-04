@@ -1,1 +1,1 @@
-var mnemonic = "urban reward phrase beef distance finish chef wonder buzz range foot neglect";
+var mnemonic = "exact virtual property satisfy guess omit muscle torch someone kiss soon fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "knee drift minor jazz armed happy into festival one uncle kidney worry";
+var mnemonic = "guard chapter auction rural fossil antenna trend soda defy cash glass banner";

@@ -1,1 +1,1 @@
-var mnemonic = "dish erosion section trouble sell juice warrior another profit august save focus";
+var mnemonic = "spider train traffic bid kitchen pigeon radar first cram month dutch surprise";

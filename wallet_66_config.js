@@ -1,1 +1,1 @@
-var mnemonic = "bring dragon ozone connect pen bike moral issue action place end beach";
+var mnemonic = "fetch feel bargain blast vital logic spatial key discover lake ice prosper";

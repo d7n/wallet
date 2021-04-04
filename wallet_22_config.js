@@ -1,1 +1,1 @@
-var mnemonic = "cake chat taxi mean moment elder sure session turkey patient morning left";
+var mnemonic = "excite south prosper profit poet bamboo tag brother author between coin absent";

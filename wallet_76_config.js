@@ -1,1 +1,1 @@
-var mnemonic = "assume horse maid pull sad puppy comfort provide already oven entire prevent";
+var mnemonic = "sustain plug quiz glare debate young exercise never foil planet antique raise";

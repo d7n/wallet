@@ -1,1 +1,1 @@
-var mnemonic = "mind drink wrap length where cricket human speed rabbit dragon follow easily";
+var mnemonic = "buffalo panic age clip daring witness expect fan drive gift jaguar attack";

@@ -1,1 +1,1 @@
-var mnemonic = "debate script mom bus soap fancy recipe butter protect agent please doctor";
+var mnemonic = "deny order brush net minute office fix harvest maple interest ozone matrix";

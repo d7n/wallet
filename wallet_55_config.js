@@ -1,1 +1,1 @@
-var mnemonic = "brass kick chalk grit crumble near blanket enroll stock amused final wrist";
+var mnemonic = "blanket canyon easily intact shop engine review spoil resist tunnel eagle vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "write day pudding focus save minimum trap today hungry mushroom bracket pipe";
+var mnemonic = "front route romance cheap pledge address consider aim avocado parrot scene mother";

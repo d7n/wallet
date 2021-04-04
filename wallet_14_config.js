@@ -1,1 +1,1 @@
-var mnemonic = "smoke car step upon mandate source hundred put corn then open reveal";
+var mnemonic = "supreme oxygen chronic grow pear coconut cash uphold wide car own excess";

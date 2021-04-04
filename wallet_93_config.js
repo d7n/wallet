@@ -1,1 +1,1 @@
-var mnemonic = "half hybrid combine dumb chief road shuffle stereo unusual step various rally";
+var mnemonic = "amateur enforce joke rival column journey mask ticket wear abuse put cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "shift genre march rotate average horse oppose unhappy popular legal leopard escape";
+var mnemonic = "tent shine assume fuel black decide fly crouch turtle flight margin fiscal";

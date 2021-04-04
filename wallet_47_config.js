@@ -1,1 +1,1 @@
-var mnemonic = "potato rare size leisure adapt depart love satoshi employ rubber genius zone";
+var mnemonic = "match science horn crystal crunch submit dutch grit prefer odor coin leader";

@@ -1,1 +1,1 @@
-var mnemonic = "prize turkey whisper start pioneer plate skin adjust reflect they admit liberty";
+var mnemonic = "primary kingdom echo draft lunar uncle cabbage squeeze scatter faculty track wrestle";

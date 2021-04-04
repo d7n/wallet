@@ -1,1 +1,1 @@
-var mnemonic = "galaxy fit mass icon diesel dance soap ready curious science winter lava";
+var mnemonic = "man piano place vague onion loop produce flash amused weird cost parent";

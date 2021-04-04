@@ -1,1 +1,1 @@
-var mnemonic = "vivid monkey salad either guess witness unfold oyster marriage interest announce damage";
+var mnemonic = "measure lizard tennis undo tomorrow seek donate present agent hungry banana rent";
