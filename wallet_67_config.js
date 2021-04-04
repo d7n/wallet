@@ -1,1 +1,1 @@
-var mnemonic = "army reflect tomato snack file share left betray fever fury tuna crazy";
+var mnemonic = "town choose release glue hint limb student february topple brown shallow social";

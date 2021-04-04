@@ -1,1 +1,1 @@
-var mnemonic = "alter eternal push left carbon enrich destroy easily spread double ill shield";
+var mnemonic = "waste profit better seed gaze category thrive window bubble canal mind join";

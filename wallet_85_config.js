@@ -1,1 +1,1 @@
-var mnemonic = "oyster crash carbon debris upset vivid route season cloth nuclear deputy chimney";
+var mnemonic = "seek trash frog federal balance double arrive choice trial popular believe tool";

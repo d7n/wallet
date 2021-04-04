@@ -1,1 +1,1 @@
-var mnemonic = "demand movie enhance despair bless grid between dolphin tennis gasp sword sound";
+var mnemonic = "dinner actress enforce bonus sample morning ramp sheriff grab enroll neither maple";

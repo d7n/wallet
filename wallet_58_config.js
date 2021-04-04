@@ -1,1 +1,1 @@
-var mnemonic = "hint festival have ride drive decide title vacant there much rally play";
+var mnemonic = "divide buzz future relief midnight awesome advice sphere place tilt time climb";

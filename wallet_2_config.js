@@ -1,1 +1,1 @@
-var mnemonic = "priority perfect electric never such master wrist long entire install winner iron";
+var mnemonic = "seed soon slab inquiry motor damage blanket rack notable sense spirit sad";

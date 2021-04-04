@@ -1,1 +1,1 @@
-var mnemonic = "urban maze employ antenna behind abandon absent hotel stereo below squeeze rifle";
+var mnemonic = "digital venue vocal problem page cradle ranch crowd cook session shadow couple";

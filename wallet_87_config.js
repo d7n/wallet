@@ -1,1 +1,1 @@
-var mnemonic = "catalog pupil century topic unfair secret midnight volume neutral abandon render loop";
+var mnemonic = "ridge ostrich eager amazing leg bind almost club either foam industry swift";

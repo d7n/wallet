@@ -1,1 +1,1 @@
-var mnemonic = "response source quit figure industry fit force picture physical glue search leg";
+var mnemonic = "stage abandon muffin dragon waste team hotel glimpse shuffle civil festival picture";

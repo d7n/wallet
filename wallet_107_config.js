@@ -1,1 +1,1 @@
-var mnemonic = "key gorilla trick absent hard anger wrist maple outdoor fine slim steel";
+var mnemonic = "deputy use monster demand save news easy knife rebuild sentence neither laptop";

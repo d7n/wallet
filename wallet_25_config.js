@@ -1,1 +1,1 @@
-var mnemonic = "leisure fashion extra other tumble volume worry trick analyst lawn fuel tank";
+var mnemonic = "second wife ozone online pistol boost sadness indoor unhappy pen weekend wear";

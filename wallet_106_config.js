@@ -1,1 +1,1 @@
-var mnemonic = "cost friend way swift thumb suggest pilot snake diesel mixed tumble another";
+var mnemonic = "strategy tell ask galaxy dolphin two gospel stock mixture mother tissue abuse";

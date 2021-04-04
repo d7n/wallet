@@ -1,1 +1,1 @@
-var mnemonic = "camp series inhale where expose caught hill tired fury virus certain grab";
+var mnemonic = "marble grass group ostrich rely lazy unable capable fury frozen this multiply";

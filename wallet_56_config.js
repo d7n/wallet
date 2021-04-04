@@ -1,1 +1,1 @@
-var mnemonic = "impact faith stool great opinion album ticket lamp vivid shadow electric sea";
+var mnemonic = "budget slam waste hour combine merry smile kidney digital cave ready skin";

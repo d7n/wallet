@@ -1,1 +1,1 @@
-var mnemonic = "bomb chapter vacant actress private neutral picnic home apology mom brave index";
+var mnemonic = "barrel impose put surge unable depart turkey cement bamboo salt party priority";

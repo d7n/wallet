@@ -1,1 +1,1 @@
-var mnemonic = "depth north length office sun right pigeon december garden normal perfect life";
+var mnemonic = "day top nuclear gesture lawsuit giggle adapt front crucial wedding salmon sorry";

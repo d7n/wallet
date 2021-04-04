@@ -1,1 +1,1 @@
-var mnemonic = "question beef clever simple search hybrid kitchen morning object myself hood crater";
+var mnemonic = "gas chair luggage observe sauce lucky twelve father orient word chalk sleep";

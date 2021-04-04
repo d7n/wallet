@@ -1,1 +1,1 @@
-var mnemonic = "recall bottom sad tree pipe disorder idle movie twenty stove minor wealth";
+var mnemonic = "either garbage hover foster chicken base volcano must scatter list grain silk";

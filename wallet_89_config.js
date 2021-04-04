@@ -1,1 +1,1 @@
-var mnemonic = "code year feed image useful increase aspect oyster portion draw cable happy";
+var mnemonic = "devote poet mention energy please wish bullet topple protect car iron repeat";

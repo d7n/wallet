@@ -1,1 +1,1 @@
-var mnemonic = "equal stock world catch risk sorry fine doctor news belt oak jump";
+var mnemonic = "south know kingdom leisure elder sand essence apart peace never excuse erode";

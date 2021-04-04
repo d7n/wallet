@@ -1,1 +1,1 @@
-var mnemonic = "dirt cost library mutual armed bright roast secret maximum wink claim video";
+var mnemonic = "prepare option wife thumb crowd immune speed lunch degree again live monitor";

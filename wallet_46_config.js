@@ -1,1 +1,1 @@
-var mnemonic = "rescue bitter pony suggest blast road palm ghost involve lumber observe mammal";
+var mnemonic = "pull tonight number resource zoo village inject speed taxi ghost come acid";

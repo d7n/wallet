@@ -1,1 +1,1 @@
-var mnemonic = "door reunion pipe twin damage lend valley staff cluster rough west pause";
+var mnemonic = "copper clerk black dog educate record empower method auto runway mimic family";

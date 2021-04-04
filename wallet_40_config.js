@@ -1,1 +1,1 @@
-var mnemonic = "thunder banner subject argue response attract crouch item wheat accuse like nose";
+var mnemonic = "woman planet calm unable clinic target employ noble kitchen blood hollow aerobic";

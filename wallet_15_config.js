@@ -1,1 +1,1 @@
-var mnemonic = "razor advance enroll mobile benefit summer high cycle cage clinic wear coconut";
+var mnemonic = "vivid insane kind drill wrestle knee taste minute tunnel only juice tonight";

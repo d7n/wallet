@@ -1,1 +1,1 @@
-var mnemonic = "humble misery destroy educate bachelor luxury pottery glove ribbon damage enemy can";
+var mnemonic = "shed cradle gadget proud thunder behave satisfy play witness obey path sphere";

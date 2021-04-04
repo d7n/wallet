@@ -1,1 +1,1 @@
-var mnemonic = "allow render cup angle give sunny tip join fabric what jacket garden";
+var mnemonic = "elite menu praise such invite spin print chunk night cliff increase saddle";

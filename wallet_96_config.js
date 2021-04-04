@@ -1,1 +1,1 @@
-var mnemonic = "ancient polar close style swing fitness rose long dad chapter drift weird";
+var mnemonic = "practice tuition pool reject client spike online spawn physical myself mention boy";

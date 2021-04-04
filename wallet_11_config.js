@@ -1,1 +1,1 @@
-var mnemonic = "bullet canvas dizzy day wave fluid portion suggest muffin moon way detect";
+var mnemonic = "permit jungle regular gesture identify hub street become move hill excite walnut";

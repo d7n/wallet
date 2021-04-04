@@ -1,1 +1,1 @@
-var mnemonic = "donkey grow pill crawl shoulder hamster word icon rival one gossip ribbon";
+var mnemonic = "wall bone scatter spare comfort stool tragic purity unveil lyrics action insane";

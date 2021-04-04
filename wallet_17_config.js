@@ -1,1 +1,1 @@
-var mnemonic = "silk romance pet penalty chicken win roof initial original lawn useful citizen";
+var mnemonic = "siren tonight oppose upon science correct equal alcohol picture world giant found";

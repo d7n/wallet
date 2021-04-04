@@ -1,1 +1,1 @@
-var mnemonic = "chicken artwork orbit just can outside ski drama grief border endorse fog";
+var mnemonic = "grace divide album spirit when scorpion palm glass approve ill beauty divert";

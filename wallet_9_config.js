@@ -1,1 +1,1 @@
-var mnemonic = "outdoor alert appear trumpet square volcano humble shuffle link chat sort snow";
+var mnemonic = "fish ketchup access control edit anchor cancel since motor original describe tongue";

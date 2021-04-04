@@ -1,1 +1,1 @@
-var mnemonic = "mirror harsh fiscal cinnamon that virtual fire buffalo bullet universe quit require";
+var mnemonic = "junior guide help robot hunt entire venture rug absurd grief clinic hawk";

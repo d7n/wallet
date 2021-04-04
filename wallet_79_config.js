@@ -1,1 +1,1 @@
-var mnemonic = "water sand silver possible ranch fluid wonder science float attitude vendor proof";
+var mnemonic = "goddess spoil leisure then museum cost parrot key soon trigger midnight romance";

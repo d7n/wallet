@@ -1,1 +1,1 @@
-var mnemonic = "stone diesel regret sunset cradle unlock ship extend egg skate home retreat";
+var mnemonic = "tray rib gate write tourist sniff rookie extra scale example turn wait";

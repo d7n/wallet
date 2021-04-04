@@ -1,1 +1,1 @@
-var mnemonic = "grid bullet east border keen dismiss armed beyond credit noble vocal angry";
+var mnemonic = "chase innocent reveal glue initial mansion calm angry vault adult wise flavor";

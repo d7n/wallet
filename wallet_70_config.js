@@ -1,1 +1,1 @@
-var mnemonic = "black knife venue addict tide bottom detect crouch push blossom cake math";
+var mnemonic = "bean asset abstract useful orange dinosaur bus accuse hole nerve critic couple";

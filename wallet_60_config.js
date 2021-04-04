@@ -1,1 +1,1 @@
-var mnemonic = "fitness audit number museum risk cabin regular vault account prepare loyal profit";
+var mnemonic = "stem april goose mansion panda trim twice together bless page remain into";

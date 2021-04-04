@@ -1,1 +1,1 @@
-var mnemonic = "key strike fuel update stem story vibrant poem usage lobster wolf business";
+var mnemonic = "abstract pet health nation pioneer now practice pattern quality blue bonus course";

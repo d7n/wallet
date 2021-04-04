@@ -1,1 +1,1 @@
-var mnemonic = "open surface door tattoo eyebrow junk vintage permit ceiling gold thunder census";
+var mnemonic = "what dirt athlete boss payment age once search cruel scare riot student";

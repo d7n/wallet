@@ -1,1 +1,1 @@
-var mnemonic = "hero legend lawsuit stumble crop tone thing garden derive disease point federal";
+var mnemonic = "soccer doctor evidence vast grass glue cattle liberty expose game typical merit";

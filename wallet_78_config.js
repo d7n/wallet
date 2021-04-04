@@ -1,1 +1,1 @@
-var mnemonic = "outside spot penalty luxury bachelor jump winter sugar enjoy one axis margin";
+var mnemonic = "fresh famous side veteran silly action shoulder endless silent lemon fluid diamond";

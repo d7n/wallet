@@ -1,1 +1,1 @@
-var mnemonic = "enjoy mix ugly dial mention buzz situate proud oven iron world abandon";
+var mnemonic = "myself gap rate sponsor drink shed memory pattern sure occur napkin wealth";

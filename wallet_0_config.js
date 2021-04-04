@@ -1,1 +1,1 @@
-var mnemonic = "into blanket tribe emotion cancel loan exercise curve student narrow kitten heart";
+var mnemonic = "employ amateur glory nice wall hundred neck square climb future cupboard airport";

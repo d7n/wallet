@@ -1,1 +1,1 @@
-var mnemonic = "genuine fragile vibrant balcony rose vacant unfold actress appear ridge debris vapor";
+var mnemonic = "boring jewel key emotion notice ensure settle foot stock stove capital allow";

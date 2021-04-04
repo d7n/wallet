@@ -1,1 +1,1 @@
-var mnemonic = "answer cute kingdom divorce wool pupil dentist excite monster essence trick hamster";
+var mnemonic = "cigar crop comfort shock jacket dynamic siege vintage solution essay fatal novel";

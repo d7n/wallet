@@ -1,1 +1,1 @@
-var mnemonic = "approve teach gaze budget smart stool wash entire warfare indicate crisp chair";
+var mnemonic = "inject muscle feature hover accident peace vicious monkey nothing seat spy plastic";

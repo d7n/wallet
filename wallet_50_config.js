@@ -1,1 +1,1 @@
-var mnemonic = "inside above warm arm mix cube cement rally program near skin blade";
+var mnemonic = "meat accident door seat indoor wagon rice salon spend fame labor ginger";

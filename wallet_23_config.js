@@ -1,1 +1,1 @@
-var mnemonic = "strong bike mass turtle nose turkey pink key brand broccoli treat pill";
+var mnemonic = "confirm wrestle distance welcome chest slam depend idle exile day language mammal";

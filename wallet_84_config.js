@@ -1,1 +1,1 @@
-var mnemonic = "treat maple nose local farm front repair lottery practice pool keep connect";
+var mnemonic = "music recycle clock another engine taste limit alley model warrior model rapid";

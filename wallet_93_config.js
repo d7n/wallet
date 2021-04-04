@@ -1,1 +1,1 @@
-var mnemonic = "kite cushion ignore glare dance stamp ready cross feel volume equip manual";
+var mnemonic = "bargain echo crazy purse balance frog illegal document alley setup target denial";

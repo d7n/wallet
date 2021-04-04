@@ -1,1 +1,1 @@
-var mnemonic = "picture arrest joke toast rookie adult agree total van bless weird swarm";
+var mnemonic = "river bundle skin arctic cheese piano other neglect human chest hole answer";

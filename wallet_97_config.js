@@ -1,1 +1,1 @@
-var mnemonic = "satoshi father battle kidney cushion foot silver truly antique rigid deer clarify";
+var mnemonic = "apple match action canal latin canyon keep bridge pride gym divert glove";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade family spice basket option exchange battle spy gown furnace merge female";
+var mnemonic = "focus obscure they explain kid wide rough sausage rail garbage salmon spice";

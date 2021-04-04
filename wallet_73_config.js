@@ -1,1 +1,1 @@
-var mnemonic = "raw chuckle casino napkin solid wheat island dizzy shell skull usual spike";
+var mnemonic = "motion bind work face success consider license glide valley hand slush famous";

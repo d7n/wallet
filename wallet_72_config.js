@@ -1,1 +1,1 @@
-var mnemonic = "antenna plate funny crew whale flock dinosaur soft gym diagram staff exile";
+var mnemonic = "recycle physical brisk acquire balance easily gentle language person city hockey fold";

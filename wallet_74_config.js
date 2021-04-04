@@ -1,1 +1,1 @@
-var mnemonic = "vocal rent boss concert cheap shiver brick menu simple grunt cannon eager";
+var mnemonic = "saddle water service cat limb label exchange logic alcohol apple liar trash";

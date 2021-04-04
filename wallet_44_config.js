@@ -1,1 +1,1 @@
-var mnemonic = "assist bottom trust accident august foster typical victory print deliver rose point";
+var mnemonic = "black exist reopen belt same unfold crack fresh huge they exercise merit";

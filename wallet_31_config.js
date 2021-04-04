@@ -1,1 +1,1 @@
-var mnemonic = "genre cover into spirit earth peanut oven afraid movie minute silly soda";
+var mnemonic = "iron chunk ask unfold spatial exercise kit trophy broom rely congress must";

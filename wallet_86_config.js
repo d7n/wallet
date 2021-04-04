@@ -1,1 +1,1 @@
-var mnemonic = "nothing that shiver song acquire milk glow owner install erosion deposit recycle";
+var mnemonic = "initial turn auction tragic print truck unfair walk oak undo purchase aim";

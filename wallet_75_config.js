@@ -1,1 +1,1 @@
-var mnemonic = "siege useful round donor million best expand exile detail velvet normal olympic";
+var mnemonic = "art crystal lobster design trend photo swear crew fluid piece bonus book";

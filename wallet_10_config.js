@@ -1,1 +1,1 @@
-var mnemonic = "orange reason obvious toast nasty twelve tissue fork animal sad flame abstract";
+var mnemonic = "stuff street hand exotic faith use alien bench badge situate more approve";

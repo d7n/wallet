@@ -1,1 +1,1 @@
-var mnemonic = "square affair valve fashion region snack tiger three artist nurse flash hurdle";
+var mnemonic = "visa oval diet inflict nerve scissors glance athlete seek artefact gallery repair";

@@ -1,1 +1,1 @@
-var mnemonic = "hair chicken umbrella fire minute shaft decorate drama catch cup battle occur";
+var mnemonic = "mandate current print group return path crop wash impulse seat subway current";

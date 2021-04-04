@@ -1,1 +1,1 @@
-var mnemonic = "fine own decline charge ticket bring soccer cart tribe oblige grace wrong";
+var mnemonic = "frequent attitude design museum actor speed rain guilt bread borrow truly marine";

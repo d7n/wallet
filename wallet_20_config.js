@@ -1,1 +1,1 @@
-var mnemonic = "pencil outdoor capable peasant assist attitude sister fame mother park practice message";
+var mnemonic = "oblige actress illness pulp immense glance number empty attack crack tool kind";

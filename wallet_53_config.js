@@ -1,1 +1,1 @@
-var mnemonic = "luxury donor cargo reject notable pelican equal spot much pole chest velvet";
+var mnemonic = "furnace any suggest chunk story keep foster track aisle reform puppy pumpkin";

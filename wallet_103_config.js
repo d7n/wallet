@@ -1,1 +1,1 @@
-var mnemonic = "undo moment slam canoe window unit museum morning grit stereo figure rocket";
+var mnemonic = "fetch subject man shuffle animal north odor detail shuffle maple miss debate";

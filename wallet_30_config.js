@@ -1,1 +1,1 @@
-var mnemonic = "assault mushroom unusual conduct chapter strategy able soap novel rapid trend inject";
+var mnemonic = "resemble ahead soap payment fuel steak sun oval flag trophy symptom candy";

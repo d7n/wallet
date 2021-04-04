@@ -1,1 +1,1 @@
-var mnemonic = "boss ability crash vague sail flee pipe beauty enrich grace assist grocery";
+var mnemonic = "wreck immune apart benefit sudden dash cream rude stable future nice heavy";

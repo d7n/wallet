@@ -1,1 +1,1 @@
-var mnemonic = "typical cheap program earth bridge kangaroo token drill album adult fire donkey";
+var mnemonic = "eternal dynamic glance hover spoon sense quarter aspect dog reunion thrive cloud";

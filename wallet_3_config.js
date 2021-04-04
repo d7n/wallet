@@ -1,1 +1,1 @@
-var mnemonic = "team wave dwarf source shadow uphold among crime control shoulder unhappy reform";
+var mnemonic = "grass note wine drastic alpha script cherry steak offer custom credit hobby";

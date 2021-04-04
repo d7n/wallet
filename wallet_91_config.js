@@ -1,1 +1,1 @@
-var mnemonic = "document current solution surround hollow rice choice boring zone good tell tone";
+var mnemonic = "enable aerobic cram proof question impulse dirt critic art ten mix eye";

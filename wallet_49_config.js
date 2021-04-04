@@ -1,1 +1,1 @@
-var mnemonic = "rely ill meat mammal bicycle whip clean prevent journey camp three cannon";
+var mnemonic = "grow antique segment birth cancel correct train tattoo trend tag reward sample";

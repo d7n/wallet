@@ -1,1 +1,1 @@
-var mnemonic = "entry despair body pink bachelor amazing retire record receive abandon song seminar";
+var mnemonic = "day ticket crowd erode milk kiss save result blind super crack cause";

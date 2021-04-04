@@ -1,1 +1,1 @@
-var mnemonic = "make tomorrow army message tomato brick father cruise nothing shaft lawn bonus";
+var mnemonic = "eager face soda sadness slice casino hope nature glad spot circle grape";

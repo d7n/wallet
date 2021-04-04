@@ -1,1 +1,1 @@
-var mnemonic = "audit dolphin congress shiver swear carry soccer cook tower race lunar indicate";
+var mnemonic = "tiger giant weekend monkey bulb maid lyrics ask mother twelve cargo result";

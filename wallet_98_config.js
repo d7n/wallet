@@ -1,1 +1,1 @@
-var mnemonic = "coffee solution noise brief sunny wage depart disorder public nest jewel valley";
+var mnemonic = "vivid install valid client top miss sound legend december impulse legal worry";

@@ -1,1 +1,1 @@
-var mnemonic = "shield kidney market auction flock chicken senior tilt arctic furnace claim lottery";
+var mnemonic = "equal sense wagon jaguar spawn robot credit write gaze green luggage still";

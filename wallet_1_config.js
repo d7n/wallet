@@ -1,1 +1,1 @@
-var mnemonic = "loop ridge night column earn consider gospel swift plastic ritual own apple";
+var mnemonic = "arrange gravity echo around happy wild gentle mammal hold weekend today lawn";

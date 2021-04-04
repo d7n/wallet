@@ -1,1 +1,1 @@
-var mnemonic = "tiny extend exhibit miss vocal sunny glance fluid decorate skirt drum seminar";
+var mnemonic = "ostrich initial valve convince notable loop track moment degree awful include accident";

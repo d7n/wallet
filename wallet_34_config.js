@@ -1,1 +1,1 @@
-var mnemonic = "mushroom village prize tent slim hint bronze parade cliff ship faith acoustic";
+var mnemonic = "solar charge miss stumble tortoise mention rich inner face oval provide oxygen";

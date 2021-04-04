@@ -1,1 +1,1 @@
-var mnemonic = "chase else maximum vital antenna pigeon put lion wrist jacket saddle sauce";
+var mnemonic = "turn follow mansion inherit turkey exist behind ill slide canoe together betray";

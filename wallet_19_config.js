@@ -1,1 +1,1 @@
-var mnemonic = "exotic quiz trial guilt oil tank badge dinosaur eye miss cross stamp";
+var mnemonic = "hard month route obvious echo jump father genuine actual urge blanket judge";

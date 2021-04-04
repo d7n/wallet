@@ -1,1 +1,1 @@
-var mnemonic = "teach menu little play fatigue trigger army shrimp together glass process action";
+var mnemonic = "someone embark food dust base explain civil world scene boss junk tank";

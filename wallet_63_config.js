@@ -1,1 +1,1 @@
-var mnemonic = "false express furnace comfort venture panic laptop enforce ice sword focus must";
+var mnemonic = "spy refuse year daughter art thing error cable comfort absent know engage";

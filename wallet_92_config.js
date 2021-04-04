@@ -1,1 +1,1 @@
-var mnemonic = "category foot engine wish case element grunt dizzy copper find board notice";
+var mnemonic = "time change inquiry domain glove marine arrest mixture receive loyal viable shy";

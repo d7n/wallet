@@ -1,1 +1,1 @@
-var mnemonic = "distance enforce wait found bracket write fog brain pledge worth fan poverty";
+var mnemonic = "brand shallow banner awful energy food blossom day manage ring giggle traffic";
