@@ -1,1 +1,1 @@
-var mnemonic = "unique extra more december trash office various timber enhance hill sell unusual";
+var mnemonic = "now blouse distance hole try gap zero dignity hole surprise drastic over";

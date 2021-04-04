@@ -1,1 +1,1 @@
-var mnemonic = "employ mirror spawn boat vital act rare label drive stomach crater pitch";
+var mnemonic = "attitude spell mean when camera loud begin pact humor orphan frog dumb";

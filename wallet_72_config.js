@@ -1,1 +1,1 @@
-var mnemonic = "glow vast suffer celery success hedgehog dinosaur emotion tag tragic alcohol modify";
+var mnemonic = "avoid scale final sad depth post vessel height recall winter elegant hurdle";

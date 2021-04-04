@@ -1,1 +1,1 @@
-var mnemonic = "card surprise borrow equip profit comfort deliver anxiety buzz volume paper upset";
+var mnemonic = "stomach goddess certain labor vehicle ball naive hip cigar wide flee dice";

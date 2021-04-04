@@ -1,1 +1,1 @@
-var mnemonic = "anger hold penalty scare excuse robust laundry fringe there evil baby theory";
+var mnemonic = "indicate mystery swim elder quality reunion vendor believe robot spare second bar";

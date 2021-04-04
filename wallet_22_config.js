@@ -1,1 +1,1 @@
-var mnemonic = "outdoor flat right ice pave train near size truck bleak dad warm";
+var mnemonic = "sort time rain equal hungry dolphin glow picture vital number right spray";

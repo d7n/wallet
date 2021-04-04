@@ -1,1 +1,1 @@
-var mnemonic = "fiscal disease follow public demand else impose subway scissors unfair project outdoor";
+var mnemonic = "master now pioneer immense fluid scrub wait sort rabbit push razor become";

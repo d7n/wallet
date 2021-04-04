@@ -1,1 +1,1 @@
-var mnemonic = "couch police thing bleak monitor once average misery wire comfort kidney two";
+var mnemonic = "surround secret baby network castle fold have secret either govern sunny peasant";

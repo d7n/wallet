@@ -1,1 +1,1 @@
-var mnemonic = "wide inspire capable awful sleep bright start visa year inject labor invest";
+var mnemonic = "mouse twin march window wine drop eight quit shoe shuffle distance also";

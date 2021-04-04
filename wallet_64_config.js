@@ -1,1 +1,1 @@
-var mnemonic = "lesson twelve vivid vanish hard opinion gentle moon trigger finish fiber present";
+var mnemonic = "crush popular day air banner cluster weather demand benefit ritual invest thank";

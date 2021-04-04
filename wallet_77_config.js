@@ -1,1 +1,1 @@
-var mnemonic = "donor carbon style misery arctic craft cloud point useless pride strategy judge";
+var mnemonic = "keen square match army elder brain cabin angry people rare silk want";

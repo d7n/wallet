@@ -1,1 +1,1 @@
-var mnemonic = "peasant spoon help awesome strong left swap rug cheap pride better layer";
+var mnemonic = "essay drift globe kidney exhaust car village razor abandon betray motion paddle";

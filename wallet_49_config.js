@@ -1,1 +1,1 @@
-var mnemonic = "jump keep lawn cancel pencil grab banner orbit salt fox dismiss call";
+var mnemonic = "melt local buyer welcome wait tank guess garage dragon van eyebrow quiz";

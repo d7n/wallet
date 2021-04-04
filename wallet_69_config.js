@@ -1,1 +1,1 @@
-var mnemonic = "sketch quick home hole moral potato head champion dumb reason car notice";
+var mnemonic = "wear leaf message pigeon spirit topic unaware autumn amazing game fat arrow";

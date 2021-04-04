@@ -1,1 +1,1 @@
-var mnemonic = "impose learn violin transfer want prevent virus regular apart pave winter mimic";
+var mnemonic = "task tag scan absurd weather arena smile silent mean ship inner office";

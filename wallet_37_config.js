@@ -1,1 +1,1 @@
-var mnemonic = "taste fatal core session physical green jump result minor icon response clever";
+var mnemonic = "trip smart spend core world armor air hat arctic memory infant share";

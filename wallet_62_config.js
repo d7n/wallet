@@ -1,1 +1,1 @@
-var mnemonic = "burger replace limit bronze security comic quantum jazz brief grant will unique";
+var mnemonic = "desk online paddle shock resource opinion give metal concert behind series camera";

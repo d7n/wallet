@@ -1,1 +1,1 @@
-var mnemonic = "try real garage slush runway box drink ghost lock antique neutral loyal";
+var mnemonic = "spell ranch crystal category symbol eye banana dizzy coin shrimp slab fresh";

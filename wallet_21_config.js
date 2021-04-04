@@ -1,1 +1,1 @@
-var mnemonic = "stable knee loop vintage april trust believe chest frog topple lock vessel";
+var mnemonic = "response apart multiply elite refuse boy ill together wine report purchase neglect";

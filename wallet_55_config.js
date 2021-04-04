@@ -1,1 +1,1 @@
-var mnemonic = "edit rubber edit direct old stadium mean question two include hero impulse";
+var mnemonic = "decide mother scorpion view coyote horror essay broccoli solid garlic series nest";

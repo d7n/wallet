@@ -1,1 +1,1 @@
-var mnemonic = "thunder jazz hobby square slam evil whip unfair over obvious record satisfy";
+var mnemonic = "task member able bright hero soft stadium potato clutch avocado birth cram";

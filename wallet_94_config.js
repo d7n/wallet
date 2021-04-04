@@ -1,1 +1,1 @@
-var mnemonic = "clerk salute rough column critic what summer usage slide prepare flavor rabbit";
+var mnemonic = "bulk runway orphan history arrive earth inquiry layer frown praise involve orient";

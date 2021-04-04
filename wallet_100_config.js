@@ -1,1 +1,1 @@
-var mnemonic = "old announce hotel output wear problem boring defy oven drastic fit okay";
+var mnemonic = "royal satoshi sugar trim hotel vintage receive baby advice view toe glide";

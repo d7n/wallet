@@ -1,1 +1,1 @@
-var mnemonic = "host invest rude narrow shadow coil cabin save fall estate wealth kiwi";
+var mnemonic = "burger empty destroy cradle author inquiry anchor winter supply clock force ghost";

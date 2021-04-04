@@ -1,1 +1,1 @@
-var mnemonic = "walk excess unable spawn spot carpet knife whale airport subway jaguar fresh";
+var mnemonic = "expire riot bomb buffalo lens jealous aisle process system process travel century";

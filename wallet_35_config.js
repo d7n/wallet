@@ -1,1 +1,1 @@
-var mnemonic = "junk version small mean oyster deny furnace tail lamp honey hole mango";
+var mnemonic = "pigeon torch check census pudding ankle expose flag spell cousin vendor junk";

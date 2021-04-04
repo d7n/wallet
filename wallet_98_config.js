@@ -1,1 +1,1 @@
-var mnemonic = "lunar afraid where pigeon wreck sadness analyst fresh target patient example sugar";
+var mnemonic = "yard school wonder upgrade search patient organ frozen check beyond giraffe remove";

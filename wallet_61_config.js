@@ -1,1 +1,1 @@
-var mnemonic = "produce oppose brass record element aware lobster tackle reform menu shell what";
+var mnemonic = "clog twist napkin fever crunch interest affair kind ski charge risk then";

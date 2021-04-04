@@ -1,1 +1,1 @@
-var mnemonic = "gorilla noble night chunk news lizard force whip shine hill arm stage";
+var mnemonic = "opera absurd jar match next host roof cook van hurt mammal main";

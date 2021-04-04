@@ -1,1 +1,1 @@
-var mnemonic = "wage reveal brother pigeon lonely follow visa unable tenant clever enough junior";
+var mnemonic = "lunch matter crash morning stick tattoo wink use ski patrol gaze swarm";

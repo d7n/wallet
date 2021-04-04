@@ -1,1 +1,1 @@
-var mnemonic = "obey secret secret sauce climb only field observe vanish stuff wheat search";
+var mnemonic = "raise desert exotic intact lion nuclear salt wage anchor ritual envelope moment";

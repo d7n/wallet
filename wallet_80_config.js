@@ -1,1 +1,1 @@
-var mnemonic = "morning inside live window differ champion unhappy hip jewel sound catch black";
+var mnemonic = "next traffic hole spread journey popular plastic maid kit journey follow exclude";

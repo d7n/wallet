@@ -1,1 +1,1 @@
-var mnemonic = "spread medal sing short kitten size body face blanket found gloom bean";
+var mnemonic = "dirt actual coyote expect when capable logic tomato term east dutch vapor";

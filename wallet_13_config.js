@@ -1,1 +1,1 @@
-var mnemonic = "sleep certain wait page talent poem game lumber record estate silent fix";
+var mnemonic = "topic timber monitor until mimic today finish drink reward picture frog wrist";

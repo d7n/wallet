@@ -1,1 +1,1 @@
-var mnemonic = "goat front dirt feel mean bonus kite crash memory manual inquiry kick";
+var mnemonic = "seek chapter defy exclude donkey lock biology tool dawn lawsuit near install";

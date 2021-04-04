@@ -1,1 +1,1 @@
-var mnemonic = "media borrow betray sponsor narrow smoke solve forest call romance book outer";
+var mnemonic = "alien wash update pudding code erosion elevator ask vital wagon piece novel";

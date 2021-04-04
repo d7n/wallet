@@ -1,1 +1,1 @@
-var mnemonic = "vanish evidence champion cute recipe toast cute gallery scrub purchase donkey cigar";
+var mnemonic = "armed pink hover oyster fever extra filter liar rule blouse cattle float";

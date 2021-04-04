@@ -1,1 +1,1 @@
-var mnemonic = "either tiger feed sock zebra maximum way exercise firm output laugh impulse";
+var mnemonic = "estate marble shuffle noble expire damage extra ice else agree move purity";

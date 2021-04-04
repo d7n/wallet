@@ -1,1 +1,1 @@
-var mnemonic = "snake dizzy cotton garlic physical sweet gallery unit canal engage gap festival";
+var mnemonic = "glow wolf fabric nuclear rifle pelican idea punch retreat elephant warfare snake";

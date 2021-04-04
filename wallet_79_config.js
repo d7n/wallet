@@ -1,1 +1,1 @@
-var mnemonic = "say type page tissue neither fork figure burden style hip beach discover";
+var mnemonic = "jazz common clever bright multiply guess february memory share agent position behave";

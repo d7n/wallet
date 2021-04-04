@@ -1,1 +1,1 @@
-var mnemonic = "refuse village vibrant cliff truly gesture airport bench gasp sample install aware";
+var mnemonic = "squeeze whisper leg age admit used twelve display seven item scrub face";

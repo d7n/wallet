@@ -1,1 +1,1 @@
-var mnemonic = "manage butter deal sweet economy crawl void planet theory jaguar little asthma";
+var mnemonic = "rough woman kitchen suffer evoke napkin lift jazz depend pigeon pluck jar";

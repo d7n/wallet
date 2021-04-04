@@ -1,1 +1,1 @@
-var mnemonic = "split trap anxiety weather sea blind wait outdoor comic expand smile crystal";
+var mnemonic = "engine poet tumble tortoise crouch mimic cross three uncover film quarter liquid";

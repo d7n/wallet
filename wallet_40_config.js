@@ -1,1 +1,1 @@
-var mnemonic = "void situate refuse lumber lunch hat breeze cherry flee noble index post";
+var mnemonic = "snake weapon favorite virtual unfold oblige fortune soda stock network idle yard";

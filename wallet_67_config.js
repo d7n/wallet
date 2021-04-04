@@ -1,1 +1,1 @@
-var mnemonic = "vendor cream trade hole liberty second shoulder else sample tragic snap devote";
+var mnemonic = "rule unfair quick wide kit craft explain brave dismiss grow sorry verify";

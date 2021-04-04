@@ -1,1 +1,1 @@
-var mnemonic = "kidney dose abstract empower bacon ugly mean park sign once hat butter";
+var mnemonic = "author industry nut neglect funny rotate tent man galaxy diamond strike next";

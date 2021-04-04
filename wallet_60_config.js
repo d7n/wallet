@@ -1,1 +1,1 @@
-var mnemonic = "drink broken usual kingdom unusual response fiction science deputy endorse ahead clip";
+var mnemonic = "toilet grass erosion blossom mirror similar memory general tail pioneer bar illness";

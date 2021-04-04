@@ -1,1 +1,1 @@
-var mnemonic = "zone intact unhappy antenna kiwi shield buzz window destroy tuna quarter sword";
+var mnemonic = "various local open giggle group liar there jeans approve worth labor drastic";

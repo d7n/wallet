@@ -1,1 +1,1 @@
-var mnemonic = "bring jaguar depend pony stamp obscure unfair wing run beach sister pair";
+var mnemonic = "carbon sun seat caution custom guess reform soft step tray call segment";

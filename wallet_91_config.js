@@ -1,1 +1,1 @@
-var mnemonic = "weasel float firm balcony weasel narrow want bag april bright nice stick";
+var mnemonic = "loud twenty exhaust embark train nuclear swallow romance two smart odor gallery";

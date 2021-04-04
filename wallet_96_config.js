@@ -1,1 +1,1 @@
-var mnemonic = "slice payment liquid quit cat humor tornado police urge rich share pen";
+var mnemonic = "easily end frown trophy prosper spell when again fade later grid glimpse";

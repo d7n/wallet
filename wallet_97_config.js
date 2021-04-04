@@ -1,1 +1,1 @@
-var mnemonic = "post fatigue trigger joy boy helmet marine scene tennis convince skill assault";
+var mnemonic = "since stamp border skate top lava gauge pipe fiber rose because creek";

@@ -1,1 +1,1 @@
-var mnemonic = "true diamond wide long task kit whisper dinner glue desk swear cycle";
+var mnemonic = "mask girl tube buyer become banner sunset snack patrol cute beef adapt";

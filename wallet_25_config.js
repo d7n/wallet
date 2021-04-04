@@ -1,1 +1,1 @@
-var mnemonic = "first thumb horror student logic weird shield cherry kiss artist live team";
+var mnemonic = "glare vacant hurdle fringe hedgehog narrow lend rent home fatigue stock tool";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge flower expect scout glare creek pride valve sell submit borrow banana";
+var mnemonic = "response mixed laptop gadget hungry welcome fabric horse senior recycle alcohol view";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery artist lava perfect vivid hybrid jewel tool grace wage lounge bind";
+var mnemonic = "problem envelope good lion kid benefit join share crystal pottery decade legal";

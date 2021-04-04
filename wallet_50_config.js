@@ -1,1 +1,1 @@
-var mnemonic = "black spawn level utility shine worry wife music lemon method fetch stadium";
+var mnemonic = "estate patient insect piano husband elegant lift sun churn lucky wet myth";

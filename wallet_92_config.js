@@ -1,1 +1,1 @@
-var mnemonic = "judge shallow seven tomato salute turtle unable birth punch axis surface stove";
+var mnemonic = "scout clump rain exhibit dentist unable venture isolate mule jump tree insect";

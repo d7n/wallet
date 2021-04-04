@@ -1,1 +1,1 @@
-var mnemonic = "carpet opinion kind behind era cupboard soldier wise glad post ask relax";
+var mnemonic = "file huge chuckle useful code morning summer panel split eternal crack distance";

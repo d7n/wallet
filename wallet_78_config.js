@@ -1,1 +1,1 @@
-var mnemonic = "street use electric control near nature craft kidney century mammal curious game";
+var mnemonic = "pepper offer cinnamon above hip unit easy unlock color whip remain agree";

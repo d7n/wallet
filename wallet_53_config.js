@@ -1,1 +1,1 @@
-var mnemonic = "trust sound post master cement great dismiss busy relief pipe moment speed";
+var mnemonic = "never void garlic salon husband trumpet chaos spot tent evoke scheme topic";

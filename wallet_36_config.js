@@ -1,1 +1,1 @@
-var mnemonic = "pioneer birth alert guess inflict pioneer leaf goat wolf someone image rich";
+var mnemonic = "brush sell sustain duty vault steel need food brass amateur sound shove";

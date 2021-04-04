@@ -1,1 +1,1 @@
-var mnemonic = "where purpose exit return erupt remain alert green cheap process scale wood";
+var mnemonic = "crawl goat purchase warfare season chair device impose symptom slush wife bonus";

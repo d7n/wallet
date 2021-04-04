@@ -1,1 +1,1 @@
-var mnemonic = "network balcony trial baby zoo way echo fog knee argue meadow mammal";
+var mnemonic = "person chair blind toast deny bomb outdoor negative also job excuse brass";

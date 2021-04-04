@@ -1,1 +1,1 @@
-var mnemonic = "laundry duck proud apart angry fitness vendor rent brass control layer young";
+var mnemonic = "deer lunch margin obvious order reward tuna alert tag flash ring sleep";

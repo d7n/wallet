@@ -1,1 +1,1 @@
-var mnemonic = "mule jaguar pony common improve tornado walnut clarify pepper clay weird sausage";
+var mnemonic = "basic armed much harbor pretty century monitor coach sustain opinion oak canyon";

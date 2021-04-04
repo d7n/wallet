@@ -1,1 +1,1 @@
-var mnemonic = "damage taste tornado wave repeat enlist bird version mercy twice target more";
+var mnemonic = "bar pair vacuum rather black palace aisle scan license license concert satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "damage random spend lucky elephant goat school early immense fit broom aunt";
+var mnemonic = "tennis seed emotion immune pluck brown vacuum update distance horn belt foam";

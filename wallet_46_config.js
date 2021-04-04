@@ -1,1 +1,1 @@
-var mnemonic = "blur typical grape super atom across spy reason blood level salon brief";
+var mnemonic = "athlete nerve filter chief economy trim exhibit used wedding source broccoli misery";

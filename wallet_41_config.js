@@ -1,1 +1,1 @@
-var mnemonic = "text bless book okay junior treat unable equip bike before track quiz";
+var mnemonic = "inquiry duty cousin gravity point protect frequent all drama future fix predict";

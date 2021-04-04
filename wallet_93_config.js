@@ -1,1 +1,1 @@
-var mnemonic = "atom sun rally involve coil squirrel narrow forget menu maximum fiber claim";
+var mnemonic = "now fossil unhappy frown shop among robust ignore power trouble scout address";

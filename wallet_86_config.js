@@ -1,1 +1,1 @@
-var mnemonic = "media pond arrest romance among learn charge ready tool carbon bright lucky";
+var mnemonic = "unknown recycle dinosaur toilet month protect junior goose judge valve random material";

@@ -1,1 +1,1 @@
-var mnemonic = "pool phone pelican family record amused win wave ride useful entry soul";
+var mnemonic = "urge gadget cable science trick artist era radar animal absurd sound inject";

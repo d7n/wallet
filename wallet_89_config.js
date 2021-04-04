@@ -1,1 +1,1 @@
-var mnemonic = "nothing program split mystery thrive twist fetch more between cash other online";
+var mnemonic = "click benefit traffic rail cram another divorce grape acoustic feel snack rival";

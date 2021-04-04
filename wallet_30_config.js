@@ -1,1 +1,1 @@
-var mnemonic = "circle present joke language call romance moral shrug swear globe property night";
+var mnemonic = "wife course sock design clap buzz remain finger decide under lumber round";

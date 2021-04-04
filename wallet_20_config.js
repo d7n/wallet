@@ -1,1 +1,1 @@
-var mnemonic = "ready wing grant benefit open van cross lady edge sudden climb popular";
+var mnemonic = "very poet nominee code daughter capable absurd very visit boss suggest balance";

@@ -1,1 +1,1 @@
-var mnemonic = "come live armed clarify album orbit hint destroy return rescue dinner rifle";
+var mnemonic = "hope only lumber dune enforce include spin clump harbor destroy loyal cargo";

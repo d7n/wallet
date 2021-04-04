@@ -1,1 +1,1 @@
-var mnemonic = "assault double age also vocal subway guess pencil design bus fault draft";
+var mnemonic = "middle stomach swallow pioneer mechanic truth immense easy receive spell believe keen";

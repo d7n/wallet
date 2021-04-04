@@ -1,1 +1,1 @@
-var mnemonic = "critic force dwarf view garlic unusual leader bless hotel also kitchen fiction";
+var mnemonic = "law brass circle drill company spirit side suffer tuition lend taxi plunge";

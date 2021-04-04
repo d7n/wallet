@@ -1,1 +1,1 @@
-var mnemonic = "south night master slab rule spot hamster clutch nut move believe destroy";
+var mnemonic = "actress record silver describe produce ready produce youth clean galaxy describe pass";

@@ -1,1 +1,1 @@
-var mnemonic = "wet salmon gorilla bind equal thing damage diet force wing tissue dolphin";
+var mnemonic = "art plunge equip quiz cool height wave penalty robust name behind toddler";

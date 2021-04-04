@@ -1,1 +1,1 @@
-var mnemonic = "detail seven book pattern salute bubble thunder news depend cube boost scale";
+var mnemonic = "worry stamp depend soup viable rubber man junk rare nature tube zero";

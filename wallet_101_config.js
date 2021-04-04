@@ -1,1 +1,1 @@
-var mnemonic = "minute sugar patient style image fix stand denial surround ill faint symbol";
+var mnemonic = "wisdom wild almost brown practice rain end accuse rigid giraffe other inch";

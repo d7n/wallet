@@ -1,1 +1,1 @@
-var mnemonic = "plastic forum warfare duty bike buddy pulse true beauty sketch remove insane";
+var mnemonic = "card motor permit bottom brave south evolve pencil mechanic effort food ski";

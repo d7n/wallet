@@ -1,1 +1,1 @@
-var mnemonic = "broom craft street calm fish text curious alone innocent chalk dignity calm";
+var mnemonic = "mutual art hedgehog envelope detail across oblige simple nice inherit biology country";

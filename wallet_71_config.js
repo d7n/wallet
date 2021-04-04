@@ -1,1 +1,1 @@
-var mnemonic = "raw three indoor dentist lava master crunch theory shadow cry actress patient";
+var mnemonic = "mansion doll imitate program flower october dream left dune adjust lounge silk";

@@ -1,1 +1,1 @@
-var mnemonic = "dad skill roast disease unit spin ship need patient sense cute soap";
+var mnemonic = "journey excite collect taste gaze mention crane afford keep magnet same squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "level soup vanish solve space episode shuffle fold tape boil capable round";
+var mnemonic = "unfold firm lava drama great manage news goat wish manual immense item";

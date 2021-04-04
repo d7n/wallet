@@ -1,1 +1,1 @@
-var mnemonic = "forward price maze theme hub praise expire middle outside knee census tape";
+var mnemonic = "radio art benefit census soldier elite push fit unaware light stone icon";

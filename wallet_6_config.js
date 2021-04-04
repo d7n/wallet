@@ -1,1 +1,1 @@
-var mnemonic = "virtual spring biology aim day banana maze pelican priority stock diet screen";
+var mnemonic = "eyebrow defense vicious snake struggle viable vital beach hood flash opinion ready";

@@ -1,1 +1,1 @@
-var mnemonic = "snack usage rival water party stomach skull human ticket pumpkin delay hard";
+var mnemonic = "dice reveal addict cherry melt piece theory typical armor chief grab royal";

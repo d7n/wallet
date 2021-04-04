@@ -1,1 +1,1 @@
-var mnemonic = "wolf boy change unfair crater resist general must album wire stairs ready";
+var mnemonic = "arctic garden copper menu alcohol south crush purpose hub fancy gain worth";
