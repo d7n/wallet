@@ -1,1 +1,1 @@
-var mnemonic = "hungry humor valid woman token page stadium owner buyer brass dust nominee";
+var mnemonic = "survey cart trophy loyal sketch match garage novel lonely dismiss divide bird";

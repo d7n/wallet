@@ -1,1 +1,1 @@
-var mnemonic = "street pet sphere boss action rule give door any ugly rhythm machine";
+var mnemonic = "simple hockey fitness report language allow convince chicken shy rent control witness";

@@ -1,1 +1,1 @@
-var mnemonic = "utility wonder merry image chimney middle luggage rocket follow pyramid august party";
+var mnemonic = "faith romance burden leave fork purity hurt enable stock feature staff wine";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle craft main recall member alter almost embrace coil tenant shell social";
+var mnemonic = "uncle flee drama real lava walnut public pony initial sudden eyebrow violin";

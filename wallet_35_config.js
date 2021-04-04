@@ -1,1 +1,1 @@
-var mnemonic = "shield fragile sleep glide uniform vendor mystery adjust cinnamon behind borrow upper";
+var mnemonic = "often general panel arrest pilot gate endorse canyon pull early gasp wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp gospel dash act slender upset pattern pig erase crush weather annual";
+var mnemonic = "pulse stamp arrow rather planet valve mystery aspect train evil grape movie";

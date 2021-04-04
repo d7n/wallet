@@ -1,1 +1,1 @@
-var mnemonic = "path click member elevator uncle milk fix mention rescue december pond whisper";
+var mnemonic = "away physical share potato trick shoot trumpet face knock joy clock cash";

@@ -1,1 +1,1 @@
-var mnemonic = "swear patrol afraid before sunset hawk six earn predict jazz that rain";
+var mnemonic = "more book antenna foam process captain raise upset pencil pear latin local";

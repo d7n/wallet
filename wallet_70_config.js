@@ -1,1 +1,1 @@
-var mnemonic = "spot actual rely bus curious mosquito devote trophy film trigger style tortoise";
+var mnemonic = "problem benefit curtain tuition siege saddle tribe exotic tree waste obey into";

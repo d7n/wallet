@@ -1,1 +1,1 @@
-var mnemonic = "skirt armed aware consider soup myself endless earth wear amazing cream leader";
+var mnemonic = "catalog horn punch bullet yard hope hint nominee believe question until view";

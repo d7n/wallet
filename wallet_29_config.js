@@ -1,1 +1,1 @@
-var mnemonic = "near section pattern tuition viable cost damage route reward wealth celery melody";
+var mnemonic = "palace recall junk cricket fox venue impose shine bulb snake denial spend";

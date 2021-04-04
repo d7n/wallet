@@ -1,1 +1,1 @@
-var mnemonic = "release weekend crystal furnace obvious industry leave napkin plunge tornado laugh trap";
+var mnemonic = "ignore ship friend supreme patient ride tourist sibling august sick yellow amateur";

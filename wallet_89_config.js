@@ -1,1 +1,1 @@
-var mnemonic = "outer found north vacant lonely fit stamp olympic report dignity prefer curious";
+var mnemonic = "luggage tragic actual ritual document stable loan pottery adult bag step glad";

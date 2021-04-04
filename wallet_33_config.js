@@ -1,1 +1,1 @@
-var mnemonic = "mouse omit cream story system note extra three garlic six live gun";
+var mnemonic = "story nose timber swear walnut gold traffic cram clock math name foster";

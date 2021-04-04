@@ -1,1 +1,1 @@
-var mnemonic = "jacket motion dial clog tonight govern gown duck island normal bag boost";
+var mnemonic = "faculty empower suggest river inmate topple nuclear reject anxiety tunnel sight lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "father mask team begin clip goddess admit coach float mammal drill super";
+var mnemonic = "market anger item runway shrug title divide answer lawsuit syrup flight chimney";

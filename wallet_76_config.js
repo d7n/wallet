@@ -1,1 +1,1 @@
-var mnemonic = "lizard hat remain sport chapter envelope multiply remove cigar banner finish genuine";
+var mnemonic = "hair pair skill fresh light resource dignity immense ostrich spring panther buddy";

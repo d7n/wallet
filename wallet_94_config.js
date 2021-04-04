@@ -1,1 +1,1 @@
-var mnemonic = "adult trip muffin cactus dish area inside grant square polar east gaze";
+var mnemonic = "february tide mimic bulk health honey author surface daughter skull lake satoshi";

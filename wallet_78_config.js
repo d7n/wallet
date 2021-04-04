@@ -1,1 +1,1 @@
-var mnemonic = "genuine vault across mother rack bridge list soap shop stove grant good";
+var mnemonic = "labor motion blast bridge ticket idle charge reward slab toilet spring heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet erode nominee empower park glare cushion blush require little found ensure";
+var mnemonic = "account coin metal raw question guard crater will practice skate flock repair";

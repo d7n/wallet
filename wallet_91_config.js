@@ -1,1 +1,1 @@
-var mnemonic = "connect release error crunch slim random champion buffalo cliff field view major";
+var mnemonic = "shoot actress tongue mansion wish define practice drastic solar dynamic clap rib";

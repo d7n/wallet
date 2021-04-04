@@ -1,1 +1,1 @@
-var mnemonic = "genre opinion crystal polar stumble improve clump state oyster knife catch wisdom";
+var mnemonic = "slush pulp educate collect found vehicle gaze rally finger doctor slab alone";

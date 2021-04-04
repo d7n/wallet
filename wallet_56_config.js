@@ -1,1 +1,1 @@
-var mnemonic = "permit shrimp item merit front garbage concert organ result flee glad kiss";
+var mnemonic = "identify before youth chair merry mandate agree weapon impulse people angle lesson";

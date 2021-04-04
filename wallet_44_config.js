@@ -1,1 +1,1 @@
-var mnemonic = "minimum story gain also artwork gravity false luggage member item mercy foil";
+var mnemonic = "long idle ramp veteran hybrid flush grow dilemma habit useful promote tree";

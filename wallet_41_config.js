@@ -1,1 +1,1 @@
-var mnemonic = "nothing call expect cheap surprise myself clarify giant surround farm reveal direct";
+var mnemonic = "brother measure off goose bomb forget police hole settle brief basic fold";

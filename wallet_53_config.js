@@ -1,1 +1,1 @@
-var mnemonic = "laugh humor memory laugh surge jaguar venture tell endless memory critic amateur";
+var mnemonic = "throw review tomato before excite neglect sound position alter chief guess bring";

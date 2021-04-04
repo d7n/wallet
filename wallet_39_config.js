@@ -1,1 +1,1 @@
-var mnemonic = "bomb abandon pioneer rule tray youth turtle solar recipe error sense major";
+var mnemonic = "lava survey search uncle sauce cactus column swim ensure mystery cash old";

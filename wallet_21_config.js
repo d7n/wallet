@@ -1,1 +1,1 @@
-var mnemonic = "gentle swap ask cream erupt casual scrap deer tuition twelve true wrestle";
+var mnemonic = "famous minimum select iron resemble family expose upper reunion online husband cement";

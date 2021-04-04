@@ -1,1 +1,1 @@
-var mnemonic = "fever language vast throw test comic glass antenna pulp gorilla sugar link";
+var mnemonic = "auction palace slot swim bag outer make excess direct cost cube vicious";

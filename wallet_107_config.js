@@ -1,1 +1,1 @@
-var mnemonic = "angry essay sniff pepper invite sadness solar option floor flock season morning";
+var mnemonic = "bring trip sun often speed taxi fork twist marriage wing scorpion cheese";

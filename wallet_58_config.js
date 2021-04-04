@@ -1,1 +1,1 @@
-var mnemonic = "soap neutral peace cancel scare owner diary concert motor magnet cigar mistake";
+var mnemonic = "course finger tragic vacuum there lucky oblige sister method organ stage draft";

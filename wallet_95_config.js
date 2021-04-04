@@ -1,1 +1,1 @@
-var mnemonic = "hidden giraffe pole execute genuine usual hope gadget conduct awful space kick";
+var mnemonic = "task sentence glance right wood saddle dinosaur run replace forward useless shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar tree rate meat soul tourist add put bacon gesture warfare rich";
+var mnemonic = "remember bring spend rookie candy display pig beauty fox series valley finger";

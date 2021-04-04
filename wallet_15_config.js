@@ -1,1 +1,1 @@
-var mnemonic = "assume prison evoke seven level tool excuse logic hamster flat second sense";
+var mnemonic = "cradle earn prevent agree bitter question stool master head plastic ribbon agree";

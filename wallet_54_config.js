@@ -1,1 +1,1 @@
-var mnemonic = "urge bamboo predict pioneer prize silent what volume away remain order salad";
+var mnemonic = "doll finger usage copy execute peasant then okay jewel high goat lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "salad inch prevent dizzy liberty leaf kitchen custom random easy found slush";
+var mnemonic = "misery case simple flag keen model mirror nasty obtain drill picnic horror";

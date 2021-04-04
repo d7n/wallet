@@ -1,1 +1,1 @@
-var mnemonic = "offer dash pulse rich farm tissue until neither casual output cram radio";
+var mnemonic = "help charge scene void light advance blade obtain ball mail fiction connect";

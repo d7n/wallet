@@ -1,1 +1,1 @@
-var mnemonic = "media legend tennis flush learn gift talent pact border picnic jewel force";
+var mnemonic = "people today ribbon either heart gesture impact sense pepper elder repair smooth";

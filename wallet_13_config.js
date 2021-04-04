@@ -1,1 +1,1 @@
-var mnemonic = "sadness fiction vicious stairs smooth appear quick shy dinner champion noodle hen";
+var mnemonic = "mango inhale vacuum bounce risk congress tray mask manage walk beyond crazy";

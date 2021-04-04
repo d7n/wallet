@@ -1,1 +1,1 @@
-var mnemonic = "promote swarm wire patch peasant egg indicate fresh gospel amazing present north";
+var mnemonic = "reflect soccer work rhythm estate once dust hold begin luggage feed great";

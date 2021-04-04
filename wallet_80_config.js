@@ -1,1 +1,1 @@
-var mnemonic = "profit limit tribe warfare stairs laptop help peasant muscle input able omit";
+var mnemonic = "what erosion alien strategy labor make lucky plate enter lyrics marriage agree";

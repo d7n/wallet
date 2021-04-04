@@ -1,1 +1,1 @@
-var mnemonic = "napkin viable crisp online spoon disagree sustain trigger again renew outer kangaroo";
+var mnemonic = "erosion penalty tone fix profit refuse receive property tissue wool season drama";

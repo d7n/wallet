@@ -1,1 +1,1 @@
-var mnemonic = "company fun stone top square bitter fiction adult flower planet frown tired";
+var mnemonic = "tent hidden must ladder amateur rifle guess capital plug orchard curve milk";

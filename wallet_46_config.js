@@ -1,1 +1,1 @@
-var mnemonic = "pizza deliver poem cool midnight high grain body brand index weird rubber";
+var mnemonic = "cram gospel fix patrol digital lesson resource dish quick inmate leader disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "process universe scissors swarm north solar coil search father moment bachelor spirit";
+var mnemonic = "brown salt obey blast frost breeze brother bird strike million vicious clog";

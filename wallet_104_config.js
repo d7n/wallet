@@ -1,1 +1,1 @@
-var mnemonic = "fine return save grow domain simple habit field hollow section hedgehog curve";
+var mnemonic = "vacuum crop bone trouble cricket portion phone digital dynamic apart noise car";

@@ -1,1 +1,1 @@
-var mnemonic = "year blood tower home tourist toe accuse pig puppy ladder early meadow";
+var mnemonic = "rabbit abandon reject naive remind ridge electric can jacket mandate lab stone";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern shy replace false vivid brick connect fashion mother essay pledge film";
+var mnemonic = "region chunk chapter business loyal fold moon clean chalk harvest able unusual";

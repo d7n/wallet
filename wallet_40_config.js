@@ -1,1 +1,1 @@
-var mnemonic = "tide there hard middle gun piano cable blossom brand try stage ripple";
+var mnemonic = "steel gym panic pink embark couple pave cash nerve mad insane bright";

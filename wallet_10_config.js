@@ -1,1 +1,1 @@
-var mnemonic = "envelope ten output math visit home bulb garbage genius chapter hedgehog bone";
+var mnemonic = "water cheese run wall utility person hotel crush cake gown reflect melody";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude mind token fox push one tool blade diesel toy edge chest";
+var mnemonic = "vacuum rebuild spider rocket question decrease planet index exhibit soft deer own";

@@ -1,1 +1,1 @@
-var mnemonic = "youth front avoid slab guess trumpet kid arrest stereo order more stick";
+var mnemonic = "balance blind video typical piece hello power crash upset custom attend candy";

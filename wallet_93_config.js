@@ -1,1 +1,1 @@
-var mnemonic = "dice peasant enemy sibling useless coffee fame arena crunch aerobic area slab";
+var mnemonic = "pluck daughter gain siege tribe tip eight laptop innocent sight cabbage discover";

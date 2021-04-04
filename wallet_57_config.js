@@ -1,1 +1,1 @@
-var mnemonic = "meat metal unusual bomb junk judge prevent annual travel health ship situate";
+var mnemonic = "amount first often liberty air lamp prevent scrub rival smooth infant recipe";

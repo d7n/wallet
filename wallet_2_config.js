@@ -1,1 +1,1 @@
-var mnemonic = "pilot jaguar initial direct exile chief over ice mixed grunt found execute";
+var mnemonic = "trouble fix march fashion panel sponsor limit habit plate horn engine junior";

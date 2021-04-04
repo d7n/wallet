@@ -1,1 +1,1 @@
-var mnemonic = "awkward wet champion tip rural duty provide scatter farm local scorpion stock";
+var mnemonic = "calm borrow snake potato group culture glide crawl finish side muscle manual";

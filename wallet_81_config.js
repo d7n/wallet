@@ -1,1 +1,1 @@
-var mnemonic = "half vessel endless scene image fade genuine police fresh chimney bone female";
+var mnemonic = "anger clarify mosquito verify awkward fury open social retreat journey swarm mountain";

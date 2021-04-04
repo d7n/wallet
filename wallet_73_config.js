@@ -1,1 +1,1 @@
-var mnemonic = "tuition joke essence virtual rib soap medal hurt exotic chest dune toy";
+var mnemonic = "bitter dial slice undo equip pride crash match oval danger diagram frozen";

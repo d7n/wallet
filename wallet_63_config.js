@@ -1,1 +1,1 @@
-var mnemonic = "dress bitter fan dream zoo year salon romance cabin next access place";
+var mnemonic = "brother drip lazy design banner sound session sunny bid umbrella fiber wall";

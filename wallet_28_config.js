@@ -1,1 +1,1 @@
-var mnemonic = "pilot weekend shadow vivid else lottery diary sample box dynamic fresh ritual";
+var mnemonic = "promote chuckle fortune chef immune inside another jaguar lazy avoid basic cat";

@@ -1,1 +1,1 @@
-var mnemonic = "large position cinnamon sweet conduct million side check recall blast eternal amazing";
+var mnemonic = "forward novel answer word mercy cause boost hood erosion assume top actor";

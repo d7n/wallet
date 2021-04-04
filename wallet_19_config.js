@@ -1,1 +1,1 @@
-var mnemonic = "slot shy weasel purpose oyster mango bicycle junior multiply foster strong cash";
+var mnemonic = "detect embody reopen pioneer theme proud swallow west ill mind beef planet";

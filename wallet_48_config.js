@@ -1,1 +1,1 @@
-var mnemonic = "alpha myself typical local cost settle decade govern patient amused off range";
+var mnemonic = "sudden hold race cricket fury live spice ball clump sentence bag purse";

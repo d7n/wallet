@@ -1,1 +1,1 @@
-var mnemonic = "either breeze slender drink ball frequent need fitness seed tape teach science";
+var mnemonic = "art victory olive imitate fossil gasp praise project cover tonight acid basket";

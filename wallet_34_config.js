@@ -1,1 +1,1 @@
-var mnemonic = "prevent trash summer nice liar beauty term faculty inside affair input wealth";
+var mnemonic = "hedgehog host math sign door type habit sport patient often bid syrup";

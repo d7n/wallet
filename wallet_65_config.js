@@ -1,1 +1,1 @@
-var mnemonic = "actor buddy bracket ability select toilet pause cloth good fetch credit embark";
+var mnemonic = "picnic math link disease exotic sick desert roast despair wall fork wonder";

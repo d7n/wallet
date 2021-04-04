@@ -1,1 +1,1 @@
-var mnemonic = "girl waste pottery eye ritual earth beef fame pledge winter strike conduct";
+var mnemonic = "calm circle confirm frequent bullet code measure lion peace barrel voyage change";

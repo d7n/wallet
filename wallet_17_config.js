@@ -1,1 +1,1 @@
-var mnemonic = "dignity foster donor kitchen space enforce immune bitter doll happy canal coach";
+var mnemonic = "ignore modify clever coil emotion youth early black slush curious siren absurd";

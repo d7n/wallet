@@ -1,1 +1,1 @@
-var mnemonic = "submit occur section sign hybrid solid diary bag exclude wheel situate sentence";
+var mnemonic = "winter mail water oil memory enhance merit impulse adjust drum gallery stand";

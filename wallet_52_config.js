@@ -1,1 +1,1 @@
-var mnemonic = "defy cannon sell enough ginger cabbage sibling magic crisp arch blanket lab";
+var mnemonic = "absorb seven illness slide sunny typical undo moral taste panic belt zebra";

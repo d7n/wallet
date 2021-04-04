@@ -1,1 +1,1 @@
-var mnemonic = "wrap tortoise among fan book enemy soccer tiny winner industry bright total";
+var mnemonic = "submit exchange fork leopard green shiver chase squirrel divide swamp punch benefit";

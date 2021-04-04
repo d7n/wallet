@@ -1,1 +1,1 @@
-var mnemonic = "top monkey error quick reform admit vintage vicious tank annual law army";
+var mnemonic = "film palace gas term deputy gym midnight harvest win ripple link monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "sense chapter two talk wire crush horn giggle vote credit inside crisp";
+var mnemonic = "cool leisure debris aspect rabbit spy ball begin appear verb timber bind";

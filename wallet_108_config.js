@@ -1,1 +1,1 @@
-var mnemonic = "predict lonely sugar across real soup trap addict swap gown asthma segment";
+var mnemonic = "above blouse apart nut pink turkey gate patch science cash calm artwork";

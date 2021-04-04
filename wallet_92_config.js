@@ -1,1 +1,1 @@
-var mnemonic = "strong master merry garbage place present sauce opinion used snake pizza series";
+var mnemonic = "glimpse rude lunar broom spot chest vibrant luggage practice hotel sun work";

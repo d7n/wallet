@@ -1,1 +1,1 @@
-var mnemonic = "rack foam immune gift cat topple chat inquiry weekend sea rubber today";
+var mnemonic = "save bracket split input isolate monkey soap elder you monkey obvious sense";

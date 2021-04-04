@@ -1,1 +1,1 @@
-var mnemonic = "predict inner arrest chief broken dragon doctor slight phrase cushion receive electric";
+var mnemonic = "evoke attitude shine secret sock plunge kind myself cotton math wet position";

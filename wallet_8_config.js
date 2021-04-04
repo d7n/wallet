@@ -1,1 +1,1 @@
-var mnemonic = "carbon magnet fox bundle regret screen mystery address demand nerve muscle retire";
+var mnemonic = "vacuum position spoon task donkey clip chalk project saddle borrow else spider";

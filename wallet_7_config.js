@@ -1,1 +1,1 @@
-var mnemonic = "suspect connect aim wasp book illness sport august slot candy inject immune";
+var mnemonic = "lunch toss shove gown burden glimpse ocean ugly fetch slow enhance dentist";

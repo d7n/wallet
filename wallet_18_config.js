@@ -1,1 +1,1 @@
-var mnemonic = "future grape cover wool bid detect shoot choose bamboo benefit twelve plunge";
+var mnemonic = "city sudden copper prize cotton accident february excuse person hair detail burden";

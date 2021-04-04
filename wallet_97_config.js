@@ -1,1 +1,1 @@
-var mnemonic = "upset exclude smoke legend feed impose dentist code deer clinic champion pulp";
+var mnemonic = "kingdom cabbage chief emerge mosquito hybrid merit wash fish unhappy echo until";

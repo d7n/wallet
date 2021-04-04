@@ -1,1 +1,1 @@
-var mnemonic = "salt bubble rail throw pair scorpion thing segment cost that match cover";
+var mnemonic = "matter install alone resource wild arrive dawn soap uphold seven bundle craft";

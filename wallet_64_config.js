@@ -1,1 +1,1 @@
-var mnemonic = "rebuild wheel wealth insane middle security spice viable decade clutch heavy silent";
+var mnemonic = "fringe day sketch old mask gift wonder off awkward convince bullet fiber";

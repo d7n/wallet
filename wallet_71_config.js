@@ -1,1 +1,1 @@
-var mnemonic = "give matrix measure tower inflict law vacant laugh mystery blanket glimpse motor";
+var mnemonic = "clutch excuse found number brief trend regular act future poem reduce input";

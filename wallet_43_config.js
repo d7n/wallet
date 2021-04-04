@@ -1,1 +1,1 @@
-var mnemonic = "cricket chef divorce waste region mobile fancy news attract increase grab unit";
+var mnemonic = "zone increase fame bargain nominee sing eternal scheme shield timber family task";

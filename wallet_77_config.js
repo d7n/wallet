@@ -1,1 +1,1 @@
-var mnemonic = "nice wool divorce escape shiver joke bamboo chunk artefact kit shell hungry";
+var mnemonic = "eagle main exile hood win husband category judge cool horse curve easily";

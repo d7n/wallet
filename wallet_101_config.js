@@ -1,1 +1,1 @@
-var mnemonic = "tired fold check velvet attitude gospel panther brief steak blast army crash";
+var mnemonic = "burden tobacco talk memory oval wink squeeze material uncover rather ocean spawn";

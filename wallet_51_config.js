@@ -1,1 +1,1 @@
-var mnemonic = "insect lawsuit echo wrestle quality myth shine unit project either rigid law";
+var mnemonic = "crisp stomach glory label squirrel galaxy save punch virus glory sad ahead";

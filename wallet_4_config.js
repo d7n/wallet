@@ -1,1 +1,1 @@
-var mnemonic = "panel fringe diesel submit drip decide giraffe drive want legend teach maximum";
+var mnemonic = "cargo world bronze teach between job donor private october gospel any spot";
