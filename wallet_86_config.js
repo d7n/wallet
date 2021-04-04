@@ -1,1 +1,1 @@
-var mnemonic = "bread act ginger feel lens thunder mad crowd marriage fitness reward bacon";
+var mnemonic = "invite salad story venue exist taxi dash depart jeans day ensure secret";

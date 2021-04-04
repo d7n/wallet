@@ -1,1 +1,1 @@
-var mnemonic = "cheap elevator fame balcony grass stay shift gravity update cactus voice chest";
+var mnemonic = "recipe lava satisfy liquid twelve sugar verb surprise sure seat cart practice";

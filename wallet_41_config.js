@@ -1,1 +1,1 @@
-var mnemonic = "broken near aware upon lazy powder achieve citizen deal common mystery other";
+var mnemonic = "year excuse notice candy woman until egg myself letter soccer online nominee";

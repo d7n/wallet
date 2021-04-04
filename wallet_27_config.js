@@ -1,1 +1,1 @@
-var mnemonic = "arrange hurt what vicious tackle lamp loud wish beauty gesture match strategy";
+var mnemonic = "slide tomato exist upon claim decline below goddess script vague habit tattoo";

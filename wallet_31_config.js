@@ -1,1 +1,1 @@
-var mnemonic = "remember margin foil someone focus celery royal marriage orchard crazy flush birth";
+var mnemonic = "twenty bunker police behave spy raw airport barrel engine price young issue";

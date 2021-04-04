@@ -1,1 +1,1 @@
-var mnemonic = "indoor enhance sad script supreme spy battle stone clarify runway fiction earth";
+var mnemonic = "pink inch excuse hip swamp denial equal soft divorce prize fault develop";

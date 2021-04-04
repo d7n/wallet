@@ -1,1 +1,1 @@
-var mnemonic = "basket canyon angry release great over name guilt era wild detail spawn";
+var mnemonic = "snack nice scheme dad color palm provide gold stamp soul annual wood";

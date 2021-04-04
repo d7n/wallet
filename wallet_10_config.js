@@ -1,1 +1,1 @@
-var mnemonic = "inquiry you online slice alarm alter spoil thank write bid inmate stone";
+var mnemonic = "point client mail loop miracle universe such emotion whale phone news essence";

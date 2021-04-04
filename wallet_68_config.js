@@ -1,1 +1,1 @@
-var mnemonic = "trust obvious school faint utility orchard truck maid afraid system miracle train";
+var mnemonic = "human merry deliver pig mandate praise alcohol push muscle multiply asthma filter";

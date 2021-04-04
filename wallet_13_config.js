@@ -1,1 +1,1 @@
-var mnemonic = "soon cabin huge maximum pigeon math crumble grace biology sustain dilemma liar";
+var mnemonic = "run minor axis flee bird weasel eyebrow cram what balcony book warm";

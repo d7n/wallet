@@ -1,1 +1,1 @@
-var mnemonic = "pigeon limb around portion uncover cross fine way mouse crime shaft teach";
+var mnemonic = "thrive spray pitch ready sun iron peasant toward inmate target fashion cigar";

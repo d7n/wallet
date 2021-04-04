@@ -1,1 +1,1 @@
-var mnemonic = "man problem foot laugh page equal balance rural behave above anxiety dignity";
+var mnemonic = "patrol maple shy forward update length onion speed right drastic radio good";

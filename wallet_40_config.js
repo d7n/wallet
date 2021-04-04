@@ -1,1 +1,1 @@
-var mnemonic = "old squeeze exit dial reflect butter fee social luggage region fatal usage";
+var mnemonic = "spring plate mother invite escape suffer reunion cluster search future demand flip";

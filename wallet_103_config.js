@@ -1,1 +1,1 @@
-var mnemonic = "replace stool hawk only school road note fresh produce orbit true merit";
+var mnemonic = "rural finger artwork daring logic bleak mouse carbon tuna purse simple lobster";

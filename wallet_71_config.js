@@ -1,1 +1,1 @@
-var mnemonic = "glance antique improve snack ice crane cram future surface switch cake artwork";
+var mnemonic = "borrow demand link model fruit visit resemble assault shock bring stable bright";

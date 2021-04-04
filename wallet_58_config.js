@@ -1,1 +1,1 @@
-var mnemonic = "honey bridge silly garbage cabbage glory beef lumber six glue debate junior";
+var mnemonic = "merge prosper found fiction unit way season divert aware floor wear usual";

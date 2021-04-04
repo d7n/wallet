@@ -1,1 +1,1 @@
-var mnemonic = "short famous couch bless victory badge scrub bread behave soda broom jacket";
+var mnemonic = "awkward ten actual zone pig dinosaur tuna remember gravity sea fossil crush";

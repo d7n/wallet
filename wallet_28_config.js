@@ -1,1 +1,1 @@
-var mnemonic = "attack topple hour double spy bulb vocal erosion indoor hobby cactus there";
+var mnemonic = "attend antenna produce glass pattern input possible magic chimney nest grief indicate";

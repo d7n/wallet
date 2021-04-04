@@ -1,1 +1,1 @@
-var mnemonic = "among device sign zebra distance fantasy main shove clay short thought raven";
+var mnemonic = "manual broken engage bitter mansion alter evoke gown today cement name trumpet";

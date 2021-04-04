@@ -1,1 +1,1 @@
-var mnemonic = "expose weapon jungle tired depth best manage globe pattern clever list volcano";
+var mnemonic = "congress pill vacuum sample venture agent recipe abuse swing lab physical quality";

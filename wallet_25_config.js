@@ -1,1 +1,1 @@
-var mnemonic = "craft police smooth obvious west heavy strong worry soldier attack dinosaur orient";
+var mnemonic = "cement usage fossil again canvas sorry chronic abandon welcome season actual own";

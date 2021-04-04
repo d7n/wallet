@@ -1,1 +1,1 @@
-var mnemonic = "inhale address situate shift reflect hen win all wagon worry amazing verify";
+var mnemonic = "charge echo vast sample edit okay buyer sadness throw very wheel away";

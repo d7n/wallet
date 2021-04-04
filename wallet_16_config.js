@@ -1,1 +1,1 @@
-var mnemonic = "mass grain novel girl bargain fiction route trend usual unfair kind holiday";
+var mnemonic = "decade tribe weather lawsuit snap congress swear reunion loud unfair frequent vacant";

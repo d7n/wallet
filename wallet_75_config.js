@@ -1,1 +1,1 @@
-var mnemonic = "few castle child arrive skin journey grab result tongue position garden focus";
+var mnemonic = "check sweet cliff zebra armor result second proof abstract luxury churn strike";

@@ -1,1 +1,1 @@
-var mnemonic = "work forward coin shadow enjoy core raven crowd breeze merge family verb";
+var mnemonic = "sorry shrimp crew chuckle fringe swear victory business runway industry bless frozen";

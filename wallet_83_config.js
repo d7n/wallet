@@ -1,1 +1,1 @@
-var mnemonic = "walnut problem tuition document step fatigue gesture spend shadow ranch trophy review";
+var mnemonic = "token admit sound brand brave tray dawn concert memory vintage close diamond";

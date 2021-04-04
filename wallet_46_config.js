@@ -1,1 +1,1 @@
-var mnemonic = "forum recall arm silk later hurry victory library unhappy lady clay reform";
+var mnemonic = "useless awake disagree key august list siren drive harbor mutual crumble rich";

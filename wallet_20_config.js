@@ -1,1 +1,1 @@
-var mnemonic = "crash armed release elegant throw soldier worth sister one become uncover thunder";
+var mnemonic = "modify during resource crumble abuse siren nephew today twenty laptop cigar hundred";

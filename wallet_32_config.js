@@ -1,1 +1,1 @@
-var mnemonic = "gas ticket brother ritual improve rescue unit stadium wagon knee outer dismiss";
+var mnemonic = "frozen garage shiver topic midnight deputy spare music angry farm mirror hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "defy snack prefer drink guide upgrade core planet follow nose bottom forest";
+var mnemonic = "bird dice inspire hospital capital music nature believe spend ability brain knee";

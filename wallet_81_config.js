@@ -1,1 +1,1 @@
-var mnemonic = "tail turtle smart banana prefer bring toilet hedgehog master balcony hat bulk";
+var mnemonic = "flight hurry oppose notable truly pigeon battle cloth basic duty mom school";

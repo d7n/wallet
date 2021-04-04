@@ -1,1 +1,1 @@
-var mnemonic = "creek banana ankle recall obtain plastic lens bus wife decade dirt vivid";
+var mnemonic = "crisp jazz glow time senior again august usage shuffle fun leader spot";

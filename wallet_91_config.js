@@ -1,1 +1,1 @@
-var mnemonic = "feed reduce rib example broccoli injury swing hire tackle ride panda primary";
+var mnemonic = "drink estate pave inquiry hurry material shiver scorpion problem depend error oyster";

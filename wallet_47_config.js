@@ -1,1 +1,1 @@
-var mnemonic = "grid fruit payment rigid cause index genius letter pudding popular pistol hill";
+var mnemonic = "balcony trophy bulk portion fade account leopard business manage execute stone emerge";

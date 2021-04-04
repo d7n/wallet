@@ -1,1 +1,1 @@
-var mnemonic = "knife fit horse country palm true honey license island rebuild correct code";
+var mnemonic = "silent slow undo expose mansion domain spin bamboo kite cry borrow column";

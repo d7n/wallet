@@ -1,1 +1,1 @@
-var mnemonic = "achieve unfold rural simple nice rack cart spend impulse protect divorce beyond";
+var mnemonic = "ridge mansion kind glue argue horse piece odor awkward message journey walnut";

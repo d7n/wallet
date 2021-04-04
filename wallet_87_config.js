@@ -1,1 +1,1 @@
-var mnemonic = "talk movie ready consider horn frozen cheap like half monitor bleak pelican";
+var mnemonic = "grab lamp thrive few remove shaft fresh garment fatigue end crystal script";

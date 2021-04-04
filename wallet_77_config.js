@@ -1,1 +1,1 @@
-var mnemonic = "nasty bleak whisper host talent nerve wait improve harbor buffalo noise guess";
+var mnemonic = "flock dinner pet slab edit cook craft cool mansion series duty amount";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon swim nut shuffle critic credit witness actor seven shrug asthma ride";
+var mnemonic = "afraid girl skirt motion example pull advice outdoor enter produce write honey";

@@ -1,1 +1,1 @@
-var mnemonic = "page enhance person army quantum vessel release blade replace audit naive museum";
+var mnemonic = "anxiety pistol forget follow twenty foot prize nerve pink useless club catalog";

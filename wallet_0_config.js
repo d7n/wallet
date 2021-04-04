@@ -1,1 +1,1 @@
-var mnemonic = "mesh split employ another air cattle clean garlic march ticket access rural";
+var mnemonic = "comfort disagree great icon head range priority sausage talent dust relax cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude cradle occur clerk clinic company renew pen rate cage square report";
+var mnemonic = "hawk pilot panel measure will buyer vehicle melt goose idle kiwi suit";

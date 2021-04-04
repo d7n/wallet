@@ -1,1 +1,1 @@
-var mnemonic = "fun true umbrella audit arrow project fine exercise tackle antique enjoy matter";
+var mnemonic = "female release brown kid source card inhale card clutch aim father tribe";

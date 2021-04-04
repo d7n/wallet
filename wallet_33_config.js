@@ -1,1 +1,1 @@
-var mnemonic = "fold step tiny sunny casino left truly decade rate awful lake spice";
+var mnemonic = "age young improve magic winner unhappy grain cactus wrestle few hero creek";

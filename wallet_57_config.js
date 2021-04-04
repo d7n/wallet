@@ -1,1 +1,1 @@
-var mnemonic = "dose vacant quote throw detail lounge same suspect velvet shy train prize";
+var mnemonic = "bracket coconut job use when youth sure kiwi point ask cattle benefit";

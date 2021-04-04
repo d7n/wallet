@@ -1,1 +1,1 @@
-var mnemonic = "marine hotel there rescue people market circle gaze mention gift goose orient";
+var mnemonic = "recipe butter stick local copy figure chair risk diary wire icon crane";

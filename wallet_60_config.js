@@ -1,1 +1,1 @@
-var mnemonic = "action exercise bamboo chef pupil fox lazy outside scatter you chase pilot";
+var mnemonic = "route gap nut exile brisk still ecology meat gesture lab exotic crater";

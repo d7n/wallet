@@ -1,1 +1,1 @@
-var mnemonic = "chair chat door ranch large tube spell office palace black card apology";
+var mnemonic = "industry pair goat gorilla danger mask cute pipe core virus melody clog";

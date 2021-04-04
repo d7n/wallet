@@ -1,1 +1,1 @@
-var mnemonic = "dizzy volcano element salmon habit pond october close example inhale describe bean";
+var mnemonic = "priority deputy rate citizen drastic wire bicycle cube neither finger broccoli energy";

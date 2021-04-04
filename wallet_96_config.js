@@ -1,1 +1,1 @@
-var mnemonic = "win menu pulp upon jeans random dentist donkey sure indicate emerge until";
+var mnemonic = "crew best carry park almost hazard leaf forum giraffe idea arrest anchor";

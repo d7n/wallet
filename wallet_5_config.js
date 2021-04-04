@@ -1,1 +1,1 @@
-var mnemonic = "kite hotel ethics cheese ostrich choice whip flash mean depart crush mail";
+var mnemonic = "visa sort judge phrase success dish pumpkin merry magic main brand sand";

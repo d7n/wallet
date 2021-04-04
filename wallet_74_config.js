@@ -1,1 +1,1 @@
-var mnemonic = "switch drastic digital assume rate roof frown cute oak critic must impose";
+var mnemonic = "remain vault sound blame clerk velvet govern vicious session dish repair cinnamon";

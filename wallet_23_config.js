@@ -1,1 +1,1 @@
-var mnemonic = "excess dumb assist mushroom two ripple wall acoustic project unfold buffalo forget";
+var mnemonic = "outdoor club cancel add motor bike prize aunt artist clarify share fiction";

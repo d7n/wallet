@@ -1,1 +1,1 @@
-var mnemonic = "scare road joy hold teach trust summer style fee raccoon improve beyond";
+var mnemonic = "judge foot practice marble giraffe spin labor afraid hour shrug mind oak";

@@ -1,1 +1,1 @@
-var mnemonic = "display action extend digital tonight interest buffalo swamp coast drive boring aerobic";
+var mnemonic = "unaware dish cloth festival castle vital bullet aim swamp dragon vendor hospital";

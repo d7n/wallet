@@ -1,1 +1,1 @@
-var mnemonic = "grow nerve pudding dragon direct merit visa embody biology sleep fine ostrich";
+var mnemonic = "token adapt bleak dance broccoli kitchen phrase menu choose sword scan broccoli";

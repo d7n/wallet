@@ -1,1 +1,1 @@
-var mnemonic = "fresh opera quiz miracle initial grid turtle rescue still reason old local";
+var mnemonic = "sugar inform crouch uniform jump bench pledge throw table occur fluid fun";

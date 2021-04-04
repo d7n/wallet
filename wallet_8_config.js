@@ -1,1 +1,1 @@
-var mnemonic = "face crowd rotate resist ugly ginger aware melody group guide bar stairs";
+var mnemonic = "metal head art duck valve heart sing prosper vault cycle wide lawsuit";

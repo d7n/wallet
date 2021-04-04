@@ -1,1 +1,1 @@
-var mnemonic = "hawk uphold team fire casual keen tribe slide legend extra fluid hen";
+var mnemonic = "charge art sugar cereal vast lobster swift mad stuff expire soap deal";

@@ -1,1 +1,1 @@
-var mnemonic = "differ escape volume century ocean tell elite together science sure indicate rapid";
+var mnemonic = "drift luggage network film cinnamon desk dizzy legend flee suspect upset wall";

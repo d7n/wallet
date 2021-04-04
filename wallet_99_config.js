@@ -1,1 +1,1 @@
-var mnemonic = "miracle idea isolate clerk flavor lawsuit broccoli burden paddle poem inch kingdom";
+var mnemonic = "pluck grid weekend gym tourist never dolphin hidden ordinary height govern accuse";

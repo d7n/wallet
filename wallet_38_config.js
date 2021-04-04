@@ -1,1 +1,1 @@
-var mnemonic = "estate excess glove border wine purse pistol blue give cousin clever race";
+var mnemonic = "seek coyote hospital donor symptom ready loud jewel frozen second junk fun";

@@ -1,1 +1,1 @@
-var mnemonic = "elder lumber conduct morning you egg canoe photo sniff amazing issue find";
+var mnemonic = "just wild check myth void chaos clock episode pony among endorse wheat";

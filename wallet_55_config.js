@@ -1,1 +1,1 @@
-var mnemonic = "pitch dinner harbor torch fabric rookie detail frown amused solution canvas upgrade";
+var mnemonic = "goddess cluster narrow hand velvet roast milk soul slow sphere apple joy";

@@ -1,1 +1,1 @@
-var mnemonic = "era vanish try basic chase asthma swift still boring interest elbow permit";
+var mnemonic = "move chimney swing vital gate story collect dilemma lyrics gesture noodle race";

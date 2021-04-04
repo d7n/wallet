@@ -1,1 +1,1 @@
-var mnemonic = "roof jungle fringe protect bulb biology punch jungle harsh way math dash";
+var mnemonic = "ketchup refuse mention buffalo remain empty cover eternal damp oblige crush clarify";

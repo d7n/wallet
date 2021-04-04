@@ -1,1 +1,1 @@
-var mnemonic = "entire apology cinnamon more guess various proof gun position omit dutch economy";
+var mnemonic = "tonight climb brush frog stereo celery true north popular breeze sound keep";

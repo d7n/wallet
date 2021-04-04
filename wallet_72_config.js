@@ -1,1 +1,1 @@
-var mnemonic = "plastic ocean rely banner drastic soldier fade mistake outside need used dynamic";
+var mnemonic = "combine slice shrug warfare outdoor pear shoulder toddler ozone border helmet seat";

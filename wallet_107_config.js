@@ -1,1 +1,1 @@
-var mnemonic = "pottery govern tooth borrow mercy fog pole fee icon client grid enforce";
+var mnemonic = "valid destroy scissors sweet message gym harsh execute judge link private step";

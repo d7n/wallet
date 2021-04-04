@@ -1,1 +1,1 @@
-var mnemonic = "explain lottery hint message senior feed animal rate concert ship feel leg";
+var mnemonic = "author vacant enrich merry usage mesh scrub paper knock reason river civil";

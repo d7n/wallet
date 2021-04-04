@@ -1,1 +1,1 @@
-var mnemonic = "west confirm route fiscal feel metal right vintage surround sudden talent coach";
+var mnemonic = "occur broken slab cricket couple walk foam board library exact luggage enhance";

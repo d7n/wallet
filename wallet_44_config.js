@@ -1,1 +1,1 @@
-var mnemonic = "artwork infant avoid enemy jealous assume jungle barrel host topic chronic despair";
+var mnemonic = "ladder medal snake vintage stuff crash puppy breeze warrior adult cart system";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen flash eager tomato must spice spirit fence company gallery journey genre";
+var mnemonic = "crisp problem staff proof quantum trouble drip entry furnace tragic seminar hard";

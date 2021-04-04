@@ -1,1 +1,1 @@
-var mnemonic = "february adult option diet elephant bright unable spike over arrest ski inhale";
+var mnemonic = "ensure fee raise slush advice trash south rough pole term label call";

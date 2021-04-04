@@ -1,1 +1,1 @@
-var mnemonic = "enrich bike segment found crucial eagle earn love alarm quantum estate session";
+var mnemonic = "sketch satisfy this play asset chef settle book system intact memory cruel";

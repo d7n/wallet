@@ -1,1 +1,1 @@
-var mnemonic = "tooth twenty egg admit wool town slide obvious require body climb panther";
+var mnemonic = "exile deputy mosquito wish convince else memory riot chimney debate laundry rotate";

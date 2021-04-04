@@ -1,1 +1,1 @@
-var mnemonic = "rose system level vivid way twelve rocket miss catch say seminar laundry";
+var mnemonic = "trigger frost couple adult such salad bean noise panther witness fence oppose";

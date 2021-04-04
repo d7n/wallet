@@ -1,1 +1,1 @@
-var mnemonic = "swarm jeans nurse jelly chapter true say frame undo resist satisfy awake";
+var mnemonic = "card project lumber undo rather result phrase library honey curious garbage capital";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst educate rain hint blade strategy liar frog toss few daughter keen";
+var mnemonic = "code choice shrimp cute maid spin vibrant repeat alarm metal lounge helmet";

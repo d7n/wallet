@@ -1,1 +1,1 @@
-var mnemonic = "refuse crime always true confirm food income latin magnet fantasy figure west";
+var mnemonic = "urge lock acoustic express gospel prefer news basket hidden require cart final";

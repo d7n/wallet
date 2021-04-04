@@ -1,1 +1,1 @@
-var mnemonic = "genuine reason debate april swear code busy arrow off normal case nominee";
+var mnemonic = "tissue viable swap tribe dial solid ensure then online sponsor home bounce";
