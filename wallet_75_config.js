@@ -1,1 +1,1 @@
-var mnemonic = "aunt now border frequent potato truck episode protect quote setup monster misery";
+var mnemonic = "wild speed edit luggage craft extra student extend improve lumber mechanic fabric";

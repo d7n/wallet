@@ -1,1 +1,1 @@
-var mnemonic = "phrase piano right glance hedgehog access trial bright shrug maze few unfold";
+var mnemonic = "dilemma junior proof shrug then rule pepper achieve bracket merge follow dinosaur";

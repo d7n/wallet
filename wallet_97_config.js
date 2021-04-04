@@ -1,1 +1,1 @@
-var mnemonic = "web kick sing sweet expand situate inherit genuine puzzle fabric pupil approve";
+var mnemonic = "thrive baby claw win wait gain disease accident nominee athlete canal stairs";

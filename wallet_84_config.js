@@ -1,1 +1,1 @@
-var mnemonic = "add palm comic weapon develop cool weekend help parade swift pottery bamboo";
+var mnemonic = "slogan lamp outdoor memory mansion now enough print salad husband outside sell";

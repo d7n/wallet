@@ -1,1 +1,1 @@
-var mnemonic = "ritual deny property time stage asset toward pride valley trumpet scissors crunch";
+var mnemonic = "patch stomach rough melody seat van kitten one gown nature more scan";

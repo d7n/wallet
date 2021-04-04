@@ -1,1 +1,1 @@
-var mnemonic = "lesson ridge harbor depth curtain nephew federal pair cupboard mammal indicate connect";
+var mnemonic = "option office calm butter fatal notice paddle roof exchange tiny bleak myself";

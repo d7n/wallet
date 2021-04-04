@@ -1,1 +1,1 @@
-var mnemonic = "license voice spin top guitar kiss garden fantasy quit fine source culture";
+var mnemonic = "unveil chest eternal history rescue host pepper letter fade erosion sail flag";

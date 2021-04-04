@@ -1,1 +1,1 @@
-var mnemonic = "bamboo deliver lizard useless blade drop fun urban ten flush kidney under";
+var mnemonic = "beef coyote embody ring exotic eyebrow canvas mad swear raw virus corn";

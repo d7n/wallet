@@ -1,1 +1,1 @@
-var mnemonic = "trip dawn audit crucial lava animal then tornado because parent core reopen";
+var mnemonic = "certain flock track language orange fire file decide curve crazy daughter decorate";

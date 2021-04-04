@@ -1,1 +1,1 @@
-var mnemonic = "frog lottery wrong zero select fluid thank pool distance before tired acid";
+var mnemonic = "crazy punch deer orbit income cook acid coconut expect trend ocean broom";

@@ -1,1 +1,1 @@
-var mnemonic = "history panda elevator unhappy twin joy artwork powder another divide couch firm";
+var mnemonic = "report praise mask hawk couple cloud solution profit good major aspect abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest vivid garbage mountain script rail direct rigid govern twin scheme mobile";
+var mnemonic = "air select melt toilet scare hungry cart pretty force link easily render";

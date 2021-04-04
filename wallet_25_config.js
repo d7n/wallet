@@ -1,1 +1,1 @@
-var mnemonic = "fox monster blur crush label repeat dry venue double light myself hurt";
+var mnemonic = "camp green benefit extra curve reason elite north upgrade three exist actress";

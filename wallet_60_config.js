@@ -1,1 +1,1 @@
-var mnemonic = "provide payment pave confirm winter basket happy spatial girl winner around bench";
+var mnemonic = "spawn hold soldier medal dynamic tomorrow solid seven lyrics pyramid wheel comfort";

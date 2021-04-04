@@ -1,1 +1,1 @@
-var mnemonic = "liar zero explain then coral wage negative inform loop attack motor misery";
+var mnemonic = "pen neither win congress notice choose media budget wire biology coffee ten";

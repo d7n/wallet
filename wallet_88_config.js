@@ -1,1 +1,1 @@
-var mnemonic = "artwork cloth mixture leg adult hard strike like neck under monkey theory";
+var mnemonic = "nothing ensure egg leopard bundle pause primary bulk kitchen vibrant normal toy";

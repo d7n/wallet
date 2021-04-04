@@ -1,1 +1,1 @@
-var mnemonic = "size museum volcano roast border lawsuit car joy deny broccoli become kangaroo";
+var mnemonic = "turtle glory actor rail begin fault raccoon bachelor buzz window flight inquiry";

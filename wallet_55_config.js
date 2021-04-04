@@ -1,1 +1,1 @@
-var mnemonic = "dizzy simple search cherry dance number annual napkin hint black island auction";
+var mnemonic = "desert acquire comfort turkey relief rough near elephant logic orphan first wise";

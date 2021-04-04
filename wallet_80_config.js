@@ -1,1 +1,1 @@
-var mnemonic = "current endless plate pencil art myth warrior bird prison gospel trade street";
+var mnemonic = "alarm gym question dentist tooth stomach quiz figure reunion report amount ring";

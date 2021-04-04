@@ -1,1 +1,1 @@
-var mnemonic = "uniform stadium ice junior sketch rare afraid lava tide guard supply endorse";
+var mnemonic = "team shuffle post sail mule embark okay skin marriage yellow pigeon relax";

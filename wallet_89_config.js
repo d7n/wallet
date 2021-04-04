@@ -1,1 +1,1 @@
-var mnemonic = "note again trust oppose clerk iron rely inquiry project upset alpha grit";
+var mnemonic = "twelve swim ivory worth envelope system cheese title club expose cushion choose";

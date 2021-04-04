@@ -1,1 +1,1 @@
-var mnemonic = "decade until income enhance slush loud solar chief under oak cute segment";
+var mnemonic = "sheriff recipe dentist blame gap step maximum glad suspect private grow castle";

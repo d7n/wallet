@@ -1,1 +1,1 @@
-var mnemonic = "bright violin holiday puzzle clerk asthma boil scorpion help topic depart shield";
+var mnemonic = "worth erosion wear garlic lottery place amount snow north test portion unlock";

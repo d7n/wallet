@@ -1,1 +1,1 @@
-var mnemonic = "scrap install youth sunset staff avocado base safe mean envelope shoot found";
+var mnemonic = "hidden snow author aspect olympic harbor hard tunnel vehicle october exact warm";

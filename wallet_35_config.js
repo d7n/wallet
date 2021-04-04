@@ -1,1 +1,1 @@
-var mnemonic = "endless paper try test rifle tired door heavy wrap suffer next table";
+var mnemonic = "diamond cement nothing aspect stairs speak improve place upper analyst vendor bar";

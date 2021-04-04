@@ -1,1 +1,1 @@
-var mnemonic = "win robust what thing kit try lesson miss bitter wool prison choose";
+var mnemonic = "another goat gorilla eye idea buffalo theory hat broom cram scene alert";

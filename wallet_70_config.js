@@ -1,1 +1,1 @@
-var mnemonic = "survey little outside tuna coil kid airport cloud slide engage wife trade";
+var mnemonic = "under deputy rather matter cabbage junk ten document door giant vital trip";

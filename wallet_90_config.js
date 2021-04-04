@@ -1,1 +1,1 @@
-var mnemonic = "feel draft open enlist coin snow result pattern stomach crazy exercise expire";
+var mnemonic = "chuckle measure student cool planet text jealous farm blanket suit wish fence";

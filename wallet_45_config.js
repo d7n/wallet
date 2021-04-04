@@ -1,1 +1,1 @@
-var mnemonic = "math please regular remind industry loop member mansion laptop throw people wool";
+var mnemonic = "verify someone assault other loud coyote embody jelly chapter fabric fatigue warfare";

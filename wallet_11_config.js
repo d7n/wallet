@@ -1,1 +1,1 @@
-var mnemonic = "news time dolphin minor tent betray live pen into develop glory shoe";
+var mnemonic = "fold hand ridge stay journey priority fortune lesson message husband result such";

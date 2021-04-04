@@ -1,1 +1,1 @@
-var mnemonic = "blame size secret letter grab gap tired toddler road finger negative pause";
+var mnemonic = "lawsuit hybrid wreck fiber across photo mirror piano wrap advice square change";

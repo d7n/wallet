@@ -1,1 +1,1 @@
-var mnemonic = "scissors crucial club south leader unable quantum paddle sign swing version lion";
+var mnemonic = "rent license enemy impulse drink add general drip find feature middle bullet";

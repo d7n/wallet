@@ -1,1 +1,1 @@
-var mnemonic = "gain uncover danger junior truly couch spell tomorrow click sunny illegal amateur";
+var mnemonic = "response divide wheat wonder perfect play occur slogan pulse vehicle hello bulb";

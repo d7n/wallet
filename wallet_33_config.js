@@ -1,1 +1,1 @@
-var mnemonic = "couple immune creek tube bundle oblige hold fire magnet price crunch render";
+var mnemonic = "humble girl easily work region card old divorce interest bomb artefact rely";

@@ -1,1 +1,1 @@
-var mnemonic = "check primary sentence check stumble car place hold kiss prosper owner stool";
+var mnemonic = "primary find public erase grain hover eight kiwi frost legend cereal paper";

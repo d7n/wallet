@@ -1,1 +1,1 @@
-var mnemonic = "buyer pipe canvas cream you fog extra crime kick grab erase marine";
+var mnemonic = "diary girl wool current apple boring pumpkin tribe neither evidence family dance";

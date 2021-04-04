@@ -1,1 +1,1 @@
-var mnemonic = "disease flat soft apart exhibit music merit first suffer reunion cart unusual";
+var mnemonic = "multiply thing primary fence fit announce daring mutual ankle quarter motion orchard";

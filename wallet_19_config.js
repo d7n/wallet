@@ -1,1 +1,1 @@
-var mnemonic = "attitude escape force devote build science wedding tomato verb quarter pair price";
+var mnemonic = "sweet hair loud fever smoke cousin hybrid ritual swap stadium twist core";

@@ -1,1 +1,1 @@
-var mnemonic = "draft into limb stairs velvet garment sudden coast just runway tail off";
+var mnemonic = "carbon auto pet path warm hole capable draft faint cabin pioneer math";

@@ -1,1 +1,1 @@
-var mnemonic = "normal toy street lend sword sausage farm dynamic empty correct mask curious";
+var mnemonic = "gap stay balance doll behind gift march spray page arm power cash";

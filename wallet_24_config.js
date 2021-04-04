@@ -1,1 +1,1 @@
-var mnemonic = "foam atom morning curious long talent kangaroo where math forward praise spin";
+var mnemonic = "intact vicious bar doctor half able silly steak trial across minute okay";

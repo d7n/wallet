@@ -1,1 +1,1 @@
-var mnemonic = "tape nasty deposit fine metal frog erase patch pitch horn black pigeon";
+var mnemonic = "below clean peace gospel quick device dragon twelve educate midnight butter suspect";

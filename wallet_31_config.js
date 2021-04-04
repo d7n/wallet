@@ -1,1 +1,1 @@
-var mnemonic = "prefer radio load reason aerobic awkward legal lunch defy grunt else enforce";
+var mnemonic = "keep silk sure know calm gorilla junior physical clip pupil help start";

@@ -1,1 +1,1 @@
-var mnemonic = "father pioneer spread seed ticket process filter million tragic infant palace quit";
+var mnemonic = "kick proud peace wisdom forget achieve cousin lady decline alert recycle imitate";

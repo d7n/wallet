@@ -1,1 +1,1 @@
-var mnemonic = "athlete guide shallow toward bridge hockey load poem business dismiss way question";
+var mnemonic = "august hand conduct ridge fish exchange real destroy they crowd junior gate";

@@ -1,1 +1,1 @@
-var mnemonic = "add crush glory ability high pole kitten latin april memory fan canoe";
+var mnemonic = "obvious foil assault wet alley chalk already cabin manual wedding buyer bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "wash virus cancel mix fine cube two juice ketchup grab trash october";
+var mnemonic = "special rather daughter august safe child glimpse tower define diary income certain";

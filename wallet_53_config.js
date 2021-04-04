@@ -1,1 +1,1 @@
-var mnemonic = "speak surface peace riot arrest deposit exist digital action cement wish provide";
+var mnemonic = "used tree six exist jeans chunk muffin police essay dwarf abstract lumber";

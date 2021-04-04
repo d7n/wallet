@@ -1,1 +1,1 @@
-var mnemonic = "lunch patrol barely angry purpose place profit pact fade sell fossil equip";
+var mnemonic = "hat goat this business invest decade access access guilt document hunt mother";

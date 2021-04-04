@@ -1,1 +1,1 @@
-var mnemonic = "panda logic doctor abstract blood fitness brass put ability airport paddle vapor";
+var mnemonic = "cabbage bonus wild globe foot hard panther butter vessel evolve laptop poverty";

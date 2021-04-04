@@ -1,1 +1,1 @@
-var mnemonic = "ahead morning deliver plug local modify title leader stadium drip secret reduce";
+var mnemonic = "lawn bunker ivory obey uncle always dynamic casino label timber habit gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "finger coconut tiny under chicken pelican tribe client dentist elephant armor sugar";
+var mnemonic = "lyrics marine helmet appear loan garage meat laundry play duck robot candy";

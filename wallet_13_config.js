@@ -1,1 +1,1 @@
-var mnemonic = "blur test sugar turn strong improve visa mercy offer mesh uncle sock";
+var mnemonic = "puppy convince retreat parent include panel enlist coffee identify august make couch";

@@ -1,1 +1,1 @@
-var mnemonic = "antenna waste canvas daring acoustic return once grant shove sea hope brief";
+var mnemonic = "radar rhythm cost always weapon fringe beach thrive rival guitar episode emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk dutch glance fabric uncle proud layer churn crater mammal medal rebel";
+var mnemonic = "shy split pioneer west almost scout chicken quick cement noodle alien excite";

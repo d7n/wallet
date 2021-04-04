@@ -1,1 +1,1 @@
-var mnemonic = "purse fatigue raise toy kite boss tree truth miracle stock father grain";
+var mnemonic = "like three torch holiday turn history common mobile team ordinary various type";

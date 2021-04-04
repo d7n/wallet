@@ -1,1 +1,1 @@
-var mnemonic = "regret emotion inspire baby afraid rookie super kite document cable seven option";
+var mnemonic = "hood roast benefit sing pool sausage pulse birth name sniff dose filter";

@@ -1,1 +1,1 @@
-var mnemonic = "invest man frame aerobic carbon motion dilemma sustain midnight what reason vehicle";
+var mnemonic = "submit transfer man insect black duck cash cherry able movie verb lion";

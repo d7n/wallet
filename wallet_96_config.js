@@ -1,1 +1,1 @@
-var mnemonic = "ring drift patrol aisle space switch enforce detail text deputy outside connect";
+var mnemonic = "daughter liberty blind trumpet stone fish chase happy woman bike weekend harbor";

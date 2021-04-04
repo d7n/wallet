@@ -1,1 +1,1 @@
-var mnemonic = "liberty immune learn veteran girl camera fiscal suspect keen web easy collect";
+var mnemonic = "vehicle frost clutch damp face old inmate news brisk impose add gloom";

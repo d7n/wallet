@@ -1,1 +1,1 @@
-var mnemonic = "couple intact install card unhappy license normal soft identify spoon scatter voyage";
+var mnemonic = "tattoo inside list grain illness invest swallow position uphold armed bright bring";

@@ -1,1 +1,1 @@
-var mnemonic = "cube spin alley manual demand upset jar anchor fish maze frequent gun";
+var mnemonic = "enforce kind juice trick burden fog below session column order useless august";

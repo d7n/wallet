@@ -1,1 +1,1 @@
-var mnemonic = "decrease pen race conduct scorpion tape drama reveal alter enemy bar sphere";
+var mnemonic = "fabric burst admit field source arena winner describe moon couple laugh bleak";

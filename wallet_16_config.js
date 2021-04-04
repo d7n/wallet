@@ -1,1 +1,1 @@
-var mnemonic = "antique chunk nest deny inmate hand mother today tuition used aspect giggle";
+var mnemonic = "merit promote escape tooth sound vintage tennis ugly evil skirt shoot salmon";

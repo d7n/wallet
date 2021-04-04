@@ -1,1 +1,1 @@
-var mnemonic = "this skull treat fee soon swarm coach review race dove say island";
+var mnemonic = "casino dream nest sugar enter crack mosquito high grab cradle art odor";

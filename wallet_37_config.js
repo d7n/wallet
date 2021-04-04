@@ -1,1 +1,1 @@
-var mnemonic = "innocent dad shadow skirt gasp city slot bicycle sport frown dragon universe";
+var mnemonic = "elite fitness inquiry panda kitten rotate program decrease light boy laptop shoulder";

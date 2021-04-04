@@ -1,1 +1,1 @@
-var mnemonic = "card lyrics found pool stadium test peace clinic special crime position avoid";
+var mnemonic = "umbrella swing opinion dream true luggage hungry wood unique lobster fan kite";

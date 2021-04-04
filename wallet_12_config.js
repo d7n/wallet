@@ -1,1 +1,1 @@
-var mnemonic = "brain flee hello meadow legend repair sleep entire group pattern seven mistake";
+var mnemonic = "rival milk force spot absent stable slot farm lens gas stadium spike";

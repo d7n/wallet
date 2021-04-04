@@ -1,1 +1,1 @@
-var mnemonic = "because hedgehog resemble better catch display pioneer art gold hawk there logic";
+var mnemonic = "occur excess aim quit clever liberty blast pass found agent stuff rich";

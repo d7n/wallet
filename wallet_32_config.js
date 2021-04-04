@@ -1,1 +1,1 @@
-var mnemonic = "allow giraffe inhale paper envelope entry output subway frost slush suit harvest";
+var mnemonic = "guard course annual fan liar little ranch alone news cover enrich pen";

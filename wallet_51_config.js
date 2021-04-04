@@ -1,1 +1,1 @@
-var mnemonic = "silver office piano boring churn kite absurd claim carry member dynamic credit";
+var mnemonic = "soon knife write cup wire spend mixed fence absurd idle great act";

@@ -1,1 +1,1 @@
-var mnemonic = "visa town ask ripple excess goat undo boat apology pencil also design";
+var mnemonic = "logic gadget drastic fall gaze ahead hospital exchange actress charge steel only";

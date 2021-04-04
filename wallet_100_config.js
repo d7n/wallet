@@ -1,1 +1,1 @@
-var mnemonic = "hybrid attract talk device odor switch bunker dragon flower flush pair opera";
+var mnemonic = "spell submit melody brown session session bread false neck toward happy universe";

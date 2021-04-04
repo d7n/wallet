@@ -1,1 +1,1 @@
-var mnemonic = "notable youth alter horn fragile disorder priority soul humor priority napkin blossom";
+var mnemonic = "because toy filter expose picture thank crumble slab unfair wreck cube skull";

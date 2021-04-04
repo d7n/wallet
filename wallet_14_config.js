@@ -1,1 +1,1 @@
-var mnemonic = "nut idle drastic better family depth oven poverty talent champion spot mountain";
+var mnemonic = "detect bulb unable shine sign unique scene coin trophy february any inflict";

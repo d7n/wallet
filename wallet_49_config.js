@@ -1,1 +1,1 @@
-var mnemonic = "taste chaos weapon define exhaust oxygen chief raw wasp october talent notice";
+var mnemonic = "glow spray away usage cabin member fork trade guilt field point library";

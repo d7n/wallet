@@ -1,1 +1,1 @@
-var mnemonic = "chronic paddle syrup panther before unfold couple humble trade rent mask employ";
+var mnemonic = "wise glory broom armed truly keep kiss brisk sport crawl news simple";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight pluck survey busy cloud lecture urge host cup endorse client price";
+var mnemonic = "ethics female science artefact eyebrow wrong saddle under tribe mandate kangaroo visit";

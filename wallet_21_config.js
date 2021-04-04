@@ -1,1 +1,1 @@
-var mnemonic = "fan drip satisfy bracket thumb amateur potato surround agree lunch rug affair";
+var mnemonic = "clap talent olive spoil kit remind intact oval frog lawn science bone";

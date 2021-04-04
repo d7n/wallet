@@ -1,1 +1,1 @@
-var mnemonic = "canyon step duck input dizzy monitor age outer beef improve sign segment";
+var mnemonic = "alien worry actress audit return file rack idea glide imitate van lunar";

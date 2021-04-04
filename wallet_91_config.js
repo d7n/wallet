@@ -1,1 +1,1 @@
-var mnemonic = "chat camp grunt obtain half beach forum inside nurse write indicate tide";
+var mnemonic = "farm define feed dignity pony never cart canoe wedding typical razor bleak";

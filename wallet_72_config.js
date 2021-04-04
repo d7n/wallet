@@ -1,1 +1,1 @@
-var mnemonic = "desert catalog fiscal wagon turn easy lizard much joke anger fiscal wing";
+var mnemonic = "spray enhance task gadget disorder want urge buffalo catch pepper fiber veteran";

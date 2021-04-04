@@ -1,1 +1,1 @@
-var mnemonic = "drum trumpet hedgehog stable old vibrant frog gesture dolphin quarter impose mind";
+var mnemonic = "champion honey copper clutch more hunt reject barely solve motion turtle license";

@@ -1,1 +1,1 @@
-var mnemonic = "fury meadow current chief dice glow basic taxi air still portion stereo";
+var mnemonic = "letter near frame friend neutral elegant ripple loan garment address leave clutch";

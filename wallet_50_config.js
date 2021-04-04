@@ -1,1 +1,1 @@
-var mnemonic = "drink beauty satisfy final decline hour truck pony mountain abandon window obtain";
+var mnemonic = "run hover despair bunker trumpet divert father fat tray gauge gorilla remember";

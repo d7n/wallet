@@ -1,1 +1,1 @@
-var mnemonic = "hard garden sleep result flag clinic donkey extend latin seat ride maid";
+var mnemonic = "remind mixed armed crawl wide climb elbow river rapid more try ball";

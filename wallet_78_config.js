@@ -1,1 +1,1 @@
-var mnemonic = "nation gaze exit delay dream quote measure material fine mom dust admit";
+var mnemonic = "depth clutch pioneer elephant little air already open elevator celery obey try";

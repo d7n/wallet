@@ -1,1 +1,1 @@
-var mnemonic = "custom such gas install canal speak van romance valve audit pet response";
+var mnemonic = "jeans spice nice soda dirt way water turtle celery material bring list";

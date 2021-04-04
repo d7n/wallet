@@ -1,1 +1,1 @@
-var mnemonic = "maximum race talent drastic between cloud happy gentle float save fence tackle";
+var mnemonic = "earth sugar scatter bar desert desert notable term else toy system duty";

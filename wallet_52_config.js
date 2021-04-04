@@ -1,1 +1,1 @@
-var mnemonic = "ethics spirit appear oyster debate tree banner love noodle punch frown away";
+var mnemonic = "know issue you cinnamon stand spot trim flip various grab gorilla novel";

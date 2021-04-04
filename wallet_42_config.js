@@ -1,1 +1,1 @@
-var mnemonic = "drink frog medal seven tent nice reveal search snack chat evolve scheme";
+var mnemonic = "neglect build equip comfort squeeze sell wish expire quote original question travel";

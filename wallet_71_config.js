@@ -1,1 +1,1 @@
-var mnemonic = "cargo youth differ shoe icon select vehicle dinosaur gather hobby slim express";
+var mnemonic = "panda exhibit secret capital food access witness chaos lawn razor small thought";

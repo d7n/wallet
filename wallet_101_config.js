@@ -1,1 +1,1 @@
-var mnemonic = "same female fee spice element ball match banana example elevator month lava";
+var mnemonic = "south episode door predict token payment galaxy swing join trophy filter client";

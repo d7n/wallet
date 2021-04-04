@@ -1,1 +1,1 @@
-var mnemonic = "anxiety input jungle machine spatial slight reunion giggle fatigue laptop repair finger";
+var mnemonic = "extend accuse balance devote owner provide flower swift display mule model shrimp";

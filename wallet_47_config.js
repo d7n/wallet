@@ -1,1 +1,1 @@
-var mnemonic = "ten clever doll zoo height window put virtual prefer cycle super practice";
+var mnemonic = "arrive trap gossip security produce chair head elegant census seven immune roast";

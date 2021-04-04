@@ -1,1 +1,1 @@
-var mnemonic = "palm round cook try pitch income slice area slow tell repeat achieve";
+var mnemonic = "shadow melt stairs cram manage rebel outside lesson mercy option dish perfect";

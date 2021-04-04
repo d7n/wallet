@@ -1,1 +1,1 @@
-var mnemonic = "trumpet follow wool raw concert clarify popular sponsor black flee employ piano";
+var mnemonic = "elegant ladder stomach village file crush frequent sibling spawn shrimp easily oppose";
