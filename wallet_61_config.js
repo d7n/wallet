@@ -1,1 +1,1 @@
-var mnemonic = "tape refuse dismiss duty once pudding lion sand that donkey situate blast";
+var mnemonic = "produce oppose brass record element aware lobster tackle reform menu shell what";

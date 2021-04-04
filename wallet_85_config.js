@@ -1,1 +1,1 @@
-var mnemonic = "grass must rally strong avocado arch warrior puppy shell quiz seminar hat";
+var mnemonic = "walk excess unable spawn spot carpet knife whale airport subway jaguar fresh";

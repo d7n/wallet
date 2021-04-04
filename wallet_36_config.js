@@ -1,1 +1,1 @@
-var mnemonic = "chase country fault school misery olive awful peace cup soap juice general";
+var mnemonic = "pioneer birth alert guess inflict pioneer leaf goat wolf someone image rich";

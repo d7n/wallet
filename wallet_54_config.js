@@ -1,1 +1,1 @@
-var mnemonic = "purity country power bracket affair advice radar weasel truth hockey pave combine";
+var mnemonic = "forward price maze theme hub praise expire middle outside knee census tape";

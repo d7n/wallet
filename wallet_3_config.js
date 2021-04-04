@@ -1,1 +1,1 @@
-var mnemonic = "doll sound peanut quote misery slight kiwi song sausage cradle film exhaust";
+var mnemonic = "bring jaguar depend pony stamp obscure unfair wing run beach sister pair";

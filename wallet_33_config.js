@@ -1,1 +1,1 @@
-var mnemonic = "detect region valley cloud state robust faculty solid divide original select wear";
+var mnemonic = "assault double age also vocal subway guess pencil design bus fault draft";

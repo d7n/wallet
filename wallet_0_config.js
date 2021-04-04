@@ -1,1 +1,1 @@
-var mnemonic = "outside purse priority pear settle bike wish engage metal galaxy robot sound";
+var mnemonic = "laundry duck proud apart angry fitness vendor rent brass control layer young";

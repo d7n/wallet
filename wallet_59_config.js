@@ -1,1 +1,1 @@
-var mnemonic = "spawn kid focus choice ask enrich bar sudden machine river wool flight";
+var mnemonic = "kangaroo autumn drift dinosaur depend riot swim maid grocery exhibit civil lobster";

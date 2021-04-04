@@ -1,1 +1,1 @@
-var mnemonic = "vote inmate library extra near limb absent file blouse grunt frame crystal";
+var mnemonic = "urge trick usual blanket kitten total forget cage minor tiger render lift";

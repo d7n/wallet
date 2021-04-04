@@ -1,1 +1,1 @@
-var mnemonic = "glass stem electric powder wear tonight betray drill fuel secret cute camp";
+var mnemonic = "judge shallow seven tomato salute turtle unable birth punch axis surface stove";

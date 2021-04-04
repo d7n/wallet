@@ -1,1 +1,1 @@
-var mnemonic = "neck carry wash glide yard ensure abuse face ginger stable teach drift";
+var mnemonic = "media pond arrest romance among learn charge ready tool carbon bright lucky";

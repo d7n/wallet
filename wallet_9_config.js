@@ -1,1 +1,1 @@
-var mnemonic = "galaxy click couch name fancy come tourist rule faith market script dry";
+var mnemonic = "split trap anxiety weather sea blind wait outdoor comic expand smile crystal";

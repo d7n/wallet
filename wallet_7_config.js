@@ -1,1 +1,1 @@
-var mnemonic = "square glad stadium face middle gold raw shadow truck coast october hedgehog";
+var mnemonic = "palace twenty hair struggle barrel often glance carry dress shaft choice dress";

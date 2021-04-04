@@ -1,1 +1,1 @@
-var mnemonic = "few senior material peace lamp romance game seminar cup zoo family narrow";
+var mnemonic = "pear fury sign hammer guard dinosaur stuff daughter ugly coffee rent destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "valley harsh soldier sign river depend snow head flame color certain club";
+var mnemonic = "mystery artist lava perfect vivid hybrid jewel tool grace wage lounge bind";

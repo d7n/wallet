@@ -1,1 +1,1 @@
-var mnemonic = "coil absorb fabric cloth shoe start smart critic horror monitor belt sniff";
+var mnemonic = "spread medal sing short kitten size body face blanket found gloom bean";

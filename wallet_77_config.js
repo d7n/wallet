@@ -1,1 +1,1 @@
-var mnemonic = "pretty focus crawl unveil thunder riot grain peasant nut buddy poverty limit";
+var mnemonic = "donor carbon style misery arctic craft cloud point useless pride strategy judge";

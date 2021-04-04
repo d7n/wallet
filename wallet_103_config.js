@@ -1,1 +1,1 @@
-var mnemonic = "giant twin enough lab belt usage satoshi media urban awake result organ";
+var mnemonic = "kidney dose abstract empower bacon ugly mean park sign once hat butter";

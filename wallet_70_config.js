@@ -1,1 +1,1 @@
-var mnemonic = "enroll achieve nose metal detect acquire marble doctor core deputy ghost certain";
+var mnemonic = "true diamond wide long task kit whisper dinner glue desk swear cycle";

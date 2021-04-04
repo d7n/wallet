@@ -1,1 +1,1 @@
-var mnemonic = "cry sun permit elegant grocery lab sweet sausage silver peace melt fish";
+var mnemonic = "burger replace limit bronze security comic quantum jazz brief grant will unique";

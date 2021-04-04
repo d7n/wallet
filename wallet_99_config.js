@@ -1,1 +1,1 @@
-var mnemonic = "cluster method limb shield theory truck bronze enact later bubble because pipe";
+var mnemonic = "snake dizzy cotton garlic physical sweet gallery unit canal engage gap festival";

@@ -1,1 +1,1 @@
-var mnemonic = "resist hint that supply ask rubber august witness reject know exercise finish";
+var mnemonic = "media borrow betray sponsor narrow smoke solve forest call romance book outer";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil leaf donate coin sting dose census few canal frequent rotate result";
+var mnemonic = "text bless book okay junior treat unable equip bike before track quiz";

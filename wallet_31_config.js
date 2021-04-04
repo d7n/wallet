@@ -1,1 +1,1 @@
-var mnemonic = "word cigar can copper flower cook federal never educate fan tornado slender";
+var mnemonic = "critic force dwarf view garlic unusual leader bless hotel also kitchen fiction";

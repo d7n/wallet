@@ -1,1 +1,1 @@
-var mnemonic = "online option mountain leaf buzz make render bind remove endorse one off";
+var mnemonic = "jump keep lawn cancel pencil grab banner orbit salt fox dismiss call";

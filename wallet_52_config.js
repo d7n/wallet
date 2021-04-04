@@ -1,1 +1,1 @@
-var mnemonic = "mobile cattle dumb city eye polar diamond much shadow path impose wise";
+var mnemonic = "mule jaguar pony common improve tornado walnut clarify pepper clay weird sausage";

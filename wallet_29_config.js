@@ -1,1 +1,1 @@
-var mnemonic = "juice loyal section post benefit anchor improve provide accident blast diet room";
+var mnemonic = "obey secret secret sauce climb only field observe vanish stuff wheat search";

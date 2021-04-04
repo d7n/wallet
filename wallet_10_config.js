@@ -1,1 +1,1 @@
-var mnemonic = "rubber jazz weapon butter wild security priority unable practice proud goddess slab";
+var mnemonic = "sugar rain retreat earn crane oyster wash faith arctic pave ceiling dragon";

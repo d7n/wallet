@@ -1,1 +1,1 @@
-var mnemonic = "very bicycle front theme alert traffic notice shift problem tissue retire quantum";
+var mnemonic = "gorilla noble night chunk news lizard force whip shine hill arm stage";

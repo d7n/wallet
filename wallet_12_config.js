@@ -1,1 +1,1 @@
-var mnemonic = "quote hedgehog nuclear stadium depth ribbon wish shrug panic speak bridge inherit";
+var mnemonic = "detail seven book pattern salute bubble thunder news depend cube boost scale";

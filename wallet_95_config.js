@@ -1,1 +1,1 @@
-var mnemonic = "monkey neglect gospel switch remove exhaust awful gown various blouse family wrestle";
+var mnemonic = "damage taste tornado wave repeat enlist bird version mercy twice target more";

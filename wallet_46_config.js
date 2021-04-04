@@ -1,1 +1,1 @@
-var mnemonic = "ketchup medal slender punch matrix reward spell strike ring exotic grit plug";
+var mnemonic = "blur typical grape super atom across spy reason blood level salon brief";

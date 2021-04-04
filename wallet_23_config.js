@@ -1,1 +1,1 @@
-var mnemonic = "mobile actor eager ice outer turtle never afraid master feel knee shuffle";
+var mnemonic = "anger hold penalty scare excuse robust laundry fringe there evil baby theory";

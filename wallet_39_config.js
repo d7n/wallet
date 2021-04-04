@@ -1,1 +1,1 @@
-var mnemonic = "cross boy brother strong bird segment team spice area mass prefer urban";
+var mnemonic = "club tip seek popular pony teach because trigger father method myth elder";

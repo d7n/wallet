@@ -1,1 +1,1 @@
-var mnemonic = "cage viable final claw urge grunt blade hip orbit shrug hen print";
+var mnemonic = "where purpose exit return erupt remain alert green cheap process scale wood";

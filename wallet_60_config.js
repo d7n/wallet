@@ -1,1 +1,1 @@
-var mnemonic = "coin cricket quarter essay farm truly mad october nest hand host trend";
+var mnemonic = "drink broken usual kingdom unusual response fiction science deputy endorse ahead clip";

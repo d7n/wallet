@@ -1,1 +1,1 @@
-var mnemonic = "wash behind embrace behind change hand jeans alley awkward artefact cook angry";
+var mnemonic = "announce ketchup jealous segment dish asthma grid bachelor diary lazy dinner feature";

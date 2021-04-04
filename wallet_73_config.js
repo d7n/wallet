@@ -1,1 +1,1 @@
-var mnemonic = "young dice awkward chronic know will match club shy scout alcohol tortoise";
+var mnemonic = "dad skill roast disease unit spin ship need patient sense cute soap";

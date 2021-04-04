@@ -1,1 +1,1 @@
-var mnemonic = "emotion gold rabbit artwork latin aunt various wonder media jewel blanket steak";
+var mnemonic = "employ mirror spawn boat vital act rare label drive stomach crater pitch";

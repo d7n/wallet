@@ -1,1 +1,1 @@
-var mnemonic = "inhale tomato claw disease news morning goose fatal uncle penalty mansion cattle";
+var mnemonic = "clerk salute rough column critic what summer usage slide prepare flavor rabbit";

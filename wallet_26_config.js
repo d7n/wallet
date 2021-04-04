@@ -1,1 +1,1 @@
-var mnemonic = "duck surprise approve fun harvest liberty celery wagon vote ozone orphan party";
+var mnemonic = "shop health logic left solve play tomorrow name room gate begin cruel";

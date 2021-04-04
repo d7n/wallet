@@ -1,1 +1,1 @@
-var mnemonic = "foster clutch frequent blame author series leopard stomach execute peanut diamond control";
+var mnemonic = "orbit diary chuckle liberty cost treat illegal denial swear dress myth ceiling";

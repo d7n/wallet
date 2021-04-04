@@ -1,1 +1,1 @@
-var mnemonic = "purity buyer concert lava fee copper right image equal zero mad tree";
+var mnemonic = "void situate refuse lumber lunch hat breeze cherry flee noble index post";

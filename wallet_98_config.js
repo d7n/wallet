@@ -1,1 +1,1 @@
-var mnemonic = "humor woman please frown enact wing object gather screen task logic juice";
+var mnemonic = "lunar afraid where pigeon wreck sadness analyst fresh target patient example sugar";

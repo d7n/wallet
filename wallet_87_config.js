@@ -1,1 +1,1 @@
-var mnemonic = "reward blood current impact mango script differ current season taste raven pave";
+var mnemonic = "impose learn violin transfer want prevent virus regular apart pave winter mimic";

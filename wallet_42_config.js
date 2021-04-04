@@ -1,1 +1,1 @@
-var mnemonic = "rookie announce capable output service cable flee daring attack sketch inspire torch";
+var mnemonic = "wage reveal brother pigeon lonely follow visa unable tenant clever enough junior";

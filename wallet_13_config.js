@@ -1,1 +1,1 @@
-var mnemonic = "injury giraffe present bright club kit awesome pluck trust pencil clog lady";
+var mnemonic = "sleep certain wait page talent poem game lumber record estate silent fix";

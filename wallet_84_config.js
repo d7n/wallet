@@ -1,1 +1,1 @@
-var mnemonic = "harbor receive jacket mansion caution pigeon bronze guard pulse common estate resource";
+var mnemonic = "vanish evidence champion cute recipe toast cute gallery scrub purchase donkey cigar";

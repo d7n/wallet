@@ -1,1 +1,1 @@
-var mnemonic = "until bottom embrace bless pair walnut found worth hat install sell differ";
+var mnemonic = "old announce hotel output wear problem boring defy oven drastic fit okay";

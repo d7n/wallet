@@ -1,1 +1,1 @@
-var mnemonic = "nerve other easily fly baby magnet enlist beauty limit marriage arch sudden";
+var mnemonic = "come live armed clarify album orbit hint destroy return rescue dinner rifle";

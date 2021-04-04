@@ -1,1 +1,1 @@
-var mnemonic = "faculty vehicle split between kitchen same hello world walnut february gravity ignore";
+var mnemonic = "unique extra more december trash office various timber enhance hill sell unusual";

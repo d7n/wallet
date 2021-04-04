@@ -1,1 +1,1 @@
-var mnemonic = "embody lady inherit guess sand certain kit crack twin vapor install despair";
+var mnemonic = "fiscal disease follow public demand else impose subway scissors unfair project outdoor";

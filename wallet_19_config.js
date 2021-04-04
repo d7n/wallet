@@ -1,1 +1,1 @@
-var mnemonic = "boy shine minor prison auction error erase room foam improve fitness need";
+var mnemonic = "either tiger feed sock zebra maximum way exercise firm output laugh impulse";

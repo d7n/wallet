@@ -1,1 +1,1 @@
-var mnemonic = "rent fuel add grocery rubber orphan unable tribe spell buddy foam forum";
+var mnemonic = "pool phone pelican family record amused win wave ride useful entry soul";

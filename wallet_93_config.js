@@ -1,1 +1,1 @@
-var mnemonic = "basket symptom cruel industry claw income math inhale decorate pledge gasp carpet";
+var mnemonic = "atom sun rally involve coil squirrel narrow forget menu maximum fiber claim";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy pond merge crawl rare learn provide grain situate health fog wide";
+var mnemonic = "thunder jazz hobby square slam evil whip unfair over obvious record satisfy";

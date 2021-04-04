@@ -1,1 +1,1 @@
-var mnemonic = "dumb solar sauce satisfy trigger matrix culture stem guide inch nose file";
+var mnemonic = "vendor cream trade hole liberty second shoulder else sample tragic snap devote";

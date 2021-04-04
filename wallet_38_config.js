@@ -1,1 +1,1 @@
-var mnemonic = "infant maid broom poem donkey approve evidence pen flame option tornado jelly";
+var mnemonic = "host invest rude narrow shadow coil cabin save fall estate wealth kiwi";

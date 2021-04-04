@@ -1,1 +1,1 @@
-var mnemonic = "strike velvet orphan just earth table sadness focus party fly universe find";
+var mnemonic = "slice payment liquid quit cat humor tornado police urge rich share pen";

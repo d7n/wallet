@@ -1,1 +1,1 @@
-var mnemonic = "doctor pumpkin undo receive oven peasant upgrade nation chalk know anger draw";
+var mnemonic = "couch police thing bleak monitor once average misery wire comfort kidney two";

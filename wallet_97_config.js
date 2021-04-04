@@ -1,1 +1,1 @@
-var mnemonic = "mimic alert magic desert vendor carry ship omit misery marble section woman";
+var mnemonic = "post fatigue trigger joy boy helmet marine scene tennis convince skill assault";

@@ -1,1 +1,1 @@
-var mnemonic = "dog link hollow borrow solve industry cloud super again gift common dirt";
+var mnemonic = "peasant spoon help awesome strong left swap rug cheap pride better layer";

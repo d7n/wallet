@@ -1,1 +1,1 @@
-var mnemonic = "wheel orchard shiver prefer garbage foil approve squeeze replace oblige venture devote";
+var mnemonic = "damage random spend lucky elephant goat school early immense fit broom aunt";

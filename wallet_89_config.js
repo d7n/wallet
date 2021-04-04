@@ -1,1 +1,1 @@
-var mnemonic = "visit harsh believe worry bottom soda average gown range miss organ exercise";
+var mnemonic = "nothing program split mystery thrive twist fetch more between cash other online";

@@ -1,1 +1,1 @@
-var mnemonic = "layer sort impact matrix program spider cattle net visit dwarf medal endorse";
+var mnemonic = "suspect quality burden west zoo avoid tell lumber law such obey whale";

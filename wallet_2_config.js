@@ -1,1 +1,1 @@
-var mnemonic = "scrub cruise luxury slogan hunt ramp keen bring abandon bind cute canal";
+var mnemonic = "sudden ginger staff wild liar fancy already topic exhaust bounce injury mushroom";

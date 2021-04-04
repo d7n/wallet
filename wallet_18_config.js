@@ -1,1 +1,1 @@
-var mnemonic = "lens interest lounge vibrant over gravity come shell leopard worry pledge runway";
+var mnemonic = "goat front dirt feel mean bonus kite crash memory manual inquiry kick";

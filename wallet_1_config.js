@@ -1,1 +1,1 @@
-var mnemonic = "champion such blur crack excuse render develop gauge alone chalk estate online";
+var mnemonic = "south night master slab rule spot hamster clutch nut move believe destroy";

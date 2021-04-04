@@ -1,1 +1,1 @@
-var mnemonic = "disease couple daring business member joy funny pair wing lawsuit fantasy phrase";
+var mnemonic = "sketch quick home hole moral potato head champion dumb reason car notice";

@@ -1,1 +1,1 @@
-var mnemonic = "present clay clerk knock legal device tomorrow put spin idle speed moral";
+var mnemonic = "outdoor flat right ice pave train near size truck bleak dad warm";

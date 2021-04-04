@@ -1,1 +1,1 @@
-var mnemonic = "pulse remove rare matrix skull north just life broken damage sister couple";
+var mnemonic = "manage butter deal sweet economy crawl void planet theory jaguar little asthma";

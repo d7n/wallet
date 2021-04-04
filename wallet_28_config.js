@@ -1,1 +1,1 @@
-var mnemonic = "reform churn inform drastic narrow spring plate decade grab zoo risk emotion";
+var mnemonic = "wolf boy change unfair crater resist general must album wire stairs ready";

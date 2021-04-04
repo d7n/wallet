@@ -1,1 +1,1 @@
-var mnemonic = "cotton cluster picture treat spring dove owner spoil original lamp attitude upset";
+var mnemonic = "lesson twelve vivid vanish hard opinion gentle moon trigger finish fiber present";

@@ -1,1 +1,1 @@
-var mnemonic = "poet hollow job kind snow gas runway evil stick spend regular skate";
+var mnemonic = "taste fatal core session physical green jump result minor icon response clever";

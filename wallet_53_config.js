@@ -1,1 +1,1 @@
-var mnemonic = "siren subject response popular sell cook route spy example spatial engage wall";
+var mnemonic = "trust sound post master cement great dismiss busy relief pipe moment speed";

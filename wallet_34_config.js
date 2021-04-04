@@ -1,1 +1,1 @@
-var mnemonic = "nut absent arctic inform obscure forget garage mule salmon grace estate answer";
+var mnemonic = "broom craft street calm fish text curious alone innocent chalk dignity calm";

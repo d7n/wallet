@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog lecture eye include cart hurt pulp core company trophy ceiling fence";
+var mnemonic = "say type page tissue neither fork figure burden style hip beach discover";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat enable cherry you gather velvet chief broccoli rich wool ship scrap";
+var mnemonic = "raw three indoor dentist lava master crunch theory shadow cry actress patient";

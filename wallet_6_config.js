@@ -1,1 +1,1 @@
-var mnemonic = "nice stage august grape impose silk ordinary become tent prepare afraid mask";
+var mnemonic = "virtual spring biology aim day banana maze pelican priority stock diet screen";

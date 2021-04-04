@@ -1,1 +1,1 @@
-var mnemonic = "weird wall road term announce job evil bid gasp work antenna mountain";
+var mnemonic = "card surprise borrow equip profit comfort deliver anxiety buzz volume paper upset";

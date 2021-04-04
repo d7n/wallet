@@ -1,1 +1,1 @@
-var mnemonic = "reform dentist erode bone shrimp primary senior polar absurd keen private adjust";
+var mnemonic = "wet salmon gorilla bind equal thing damage diet force wing tissue dolphin";

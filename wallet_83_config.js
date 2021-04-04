@@ -1,1 +1,1 @@
-var mnemonic = "hospital finish bulk donkey electric inhale road frequent tired timber output kiwi";
+var mnemonic = "wide inspire capable awful sleep bright start visa year inject labor invest";

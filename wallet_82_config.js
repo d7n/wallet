@@ -1,1 +1,1 @@
-var mnemonic = "gun monitor beef crucial observe crane uniform dinner address vague list giggle";
+var mnemonic = "snack usage rival water party stomach skull human ticket pumpkin delay hard";

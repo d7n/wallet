@@ -1,1 +1,1 @@
-var mnemonic = "lock choice staff like hundred radar custom stay addict chaos list nest";
+var mnemonic = "word depth expand group offer train book leopard badge inside enact hurry";

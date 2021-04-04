@@ -1,1 +1,1 @@
-var mnemonic = "short perfect struggle gate end episode item twist phrase horror caution slab";
+var mnemonic = "street use electric control near nature craft kidney century mammal curious game";

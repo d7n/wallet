@@ -1,1 +1,1 @@
-var mnemonic = "crouch clarify drift nominee sad eager ordinary soul budget pitch anger arrow";
+var mnemonic = "ready wing grant benefit open van cross lady edge sudden climb popular";

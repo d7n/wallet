@@ -1,1 +1,1 @@
-var mnemonic = "together bicycle unfold race room magic potato film open oblige bonus dash";
+var mnemonic = "bridge flower expect scout glare creek pride valve sell submit borrow banana";

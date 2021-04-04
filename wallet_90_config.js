@@ -1,1 +1,1 @@
-var mnemonic = "pride only gas gravity time fan six have duty amazing around combine";
+var mnemonic = "brand trend legal tank fury false actress steel left warfare donate wash";

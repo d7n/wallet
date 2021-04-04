@@ -1,1 +1,1 @@
-var mnemonic = "space creek assist magnet pyramid empower spell slim ivory position mask envelope";
+var mnemonic = "circle present joke language call romance moral shrug swear globe property night";

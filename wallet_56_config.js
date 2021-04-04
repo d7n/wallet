@@ -1,1 +1,1 @@
-var mnemonic = "tonight shine motion stuff tray aerobic final lab spider regret panda smart";
+var mnemonic = "carpet opinion kind behind era cupboard soldier wise glad post ask relax";

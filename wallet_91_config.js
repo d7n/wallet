@@ -1,1 +1,1 @@
-var mnemonic = "artist joke autumn raise body raven random history castle ice absorb injury";
+var mnemonic = "weasel float firm balcony weasel narrow want bag april bright nice stick";
