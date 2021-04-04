@@ -1,1 +1,1 @@
-var mnemonic = "seek nephew ten year claim ensure plastic mushroom voice suffer plunge foot";
+var mnemonic = "search topple attitude clog stage stand inch spread live train coyote border";

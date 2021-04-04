@@ -1,1 +1,1 @@
-var mnemonic = "that battle differ humble arctic swamp lava asthma approve earn tent van";
+var mnemonic = "mansion comic cause maximum meadow shoe involve cook card crazy gasp carry";

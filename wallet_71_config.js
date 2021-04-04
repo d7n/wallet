@@ -1,1 +1,1 @@
-var mnemonic = "lazy doll cement short ranch render core client oyster embody morning glass";
+var mnemonic = "label surface enemy rhythm special spare joy rather small wonder regular flower";

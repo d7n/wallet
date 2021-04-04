@@ -1,1 +1,1 @@
-var mnemonic = "segment vacant text scan income walnut parent fire people future bike bless";
+var mnemonic = "squirrel correct obtain company power fever cake off siege chunk soda cave";

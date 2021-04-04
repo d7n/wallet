@@ -1,1 +1,1 @@
-var mnemonic = "carbon paddle hover attack surprise female credit bundle tired matrix force speed";
+var mnemonic = "often must gesture leisure exotic team gap medal reflect demise team present";

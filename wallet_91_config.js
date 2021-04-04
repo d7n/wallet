@@ -1,1 +1,1 @@
-var mnemonic = "ready attend large chest path antique spice kid umbrella tip ancient smart";
+var mnemonic = "siege apart vacant mail census actor ghost kit arrive black open nut";

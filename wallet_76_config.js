@@ -1,1 +1,1 @@
-var mnemonic = "crane myself lunch route math culture error erode face smile motion sentence";
+var mnemonic = "act viable athlete want evil run speed puzzle grape ginger draft bag";

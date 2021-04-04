@@ -1,1 +1,1 @@
-var mnemonic = "ozone gentle turtle today output foster stadium elder goat opera spider extend";
+var mnemonic = "about during flight defense upset soccer advice fiber still immune review liquid";

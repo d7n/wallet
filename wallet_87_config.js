@@ -1,1 +1,1 @@
-var mnemonic = "liar gesture swift witness erupt stone differ cupboard verify armor must develop";
+var mnemonic = "grape purse similar damage twice pact meat valid apple lock myth punch";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial movie guilt case funny clerk spray mule universe solve orbit divert";
+var mnemonic = "people meat parent replace shadow inquiry mind february elbow holiday outer illness";

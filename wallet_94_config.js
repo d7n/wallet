@@ -1,1 +1,1 @@
-var mnemonic = "oval relief cruise baby undo oyster moral water maid mirror inject arm";
+var mnemonic = "rubber vocal enhance crop brisk like praise rifle hello flower barely city";

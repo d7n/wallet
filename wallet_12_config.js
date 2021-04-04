@@ -1,1 +1,1 @@
-var mnemonic = "dynamic lift easily field scheme grape wonder devote artefact alcohol benefit text";
+var mnemonic = "pluck fire laptop knife host allow top shed legend snap army amateur";

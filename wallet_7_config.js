@@ -1,1 +1,1 @@
-var mnemonic = "plug rapid hungry trigger car panel mushroom fit ritual soldier gown oval";
+var mnemonic = "better pulse gift ribbon monitor tone push silver online afraid daring end";

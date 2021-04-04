@@ -1,1 +1,1 @@
-var mnemonic = "route actress return lazy post right ignore admit thought measure secret remain";
+var mnemonic = "crime tooth pair napkin scatter flight truth fortune warfare garlic pepper endless";

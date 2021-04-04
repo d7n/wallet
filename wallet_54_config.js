@@ -1,1 +1,1 @@
-var mnemonic = "major image shrug cement emerge scheme manual write typical measure brown cigar";
+var mnemonic = "fantasy rescue this steak sustain enroll curve mean elephant note border grow";

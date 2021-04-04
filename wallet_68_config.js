@@ -1,1 +1,1 @@
-var mnemonic = "flush tourist carpet note awkward turn random loyal river heavy crowd razor";
+var mnemonic = "labor reason eternal gym dawn twenty hobby half clever hobby music paper";

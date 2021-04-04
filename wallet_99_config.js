@@ -1,1 +1,1 @@
-var mnemonic = "person punch coffee crystal glory business resource local thought town brain sock";
+var mnemonic = "sunny birth sketch donor harsh equip keen fortune illegal youth flee mandate";

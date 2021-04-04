@@ -1,1 +1,1 @@
-var mnemonic = "leaf since glue expose eyebrow include media fitness detail power theme broken";
+var mnemonic = "pelican burger grape home nothing normal buyer promote sense moment assault snack";

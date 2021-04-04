@@ -1,1 +1,1 @@
-var mnemonic = "range minimum silver used federal episode chef jelly together flower live nose";
+var mnemonic = "glide opinion snake harbor atom coffee need normal rebuild ticket earth flavor";

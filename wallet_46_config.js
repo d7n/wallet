@@ -1,1 +1,1 @@
-var mnemonic = "boy miss fade prison slab strong disagree romance stable misery cloth expect";
+var mnemonic = "agree fault better twin please mention rose wing castle idea blind aunt";

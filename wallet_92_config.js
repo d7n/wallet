@@ -1,1 +1,1 @@
-var mnemonic = "mosquito episode science daughter dad quality gasp couple manual dune steel ripple";
+var mnemonic = "industry match found tortoise reason leopard crash announce hope amused swarm present";

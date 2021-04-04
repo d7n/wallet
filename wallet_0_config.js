@@ -1,1 +1,1 @@
-var mnemonic = "resource fix tonight kangaroo photo unique help other crumble rate ceiling choice";
+var mnemonic = "alpha exhaust stone draw federal robust found fog crumble dynamic chat latin";

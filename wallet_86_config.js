@@ -1,1 +1,1 @@
-var mnemonic = "nothing device apology wrap recycle sunny tuna coast box frost brush calm";
+var mnemonic = "upon stuff success shy repeat try park animal asset suspect fuel gospel";

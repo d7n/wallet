@@ -1,1 +1,1 @@
-var mnemonic = "crane history memory subway scheme robust nest humor cotton spell provide indoor";
+var mnemonic = "kidney poet duty tongue amateur extra pig jelly merge solar tennis raccoon";

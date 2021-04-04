@@ -1,1 +1,1 @@
-var mnemonic = "squirrel observe cotton submit tonight blast produce enroll dilemma violin stock daring";
+var mnemonic = "innocent tissue orphan weather camp change wine find sea pencil sea panda";

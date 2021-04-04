@@ -1,1 +1,1 @@
-var mnemonic = "aim post window damage narrow noble shaft pill rival denial hotel wall";
+var mnemonic = "earn there rebuild rent lobster join picture win rapid october hood soldier";

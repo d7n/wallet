@@ -1,1 +1,1 @@
-var mnemonic = "interest alter auction fly supreme genius cream intact situate step clip concert";
+var mnemonic = "misery average pledge globe boil creek track dizzy once trend remind beauty";

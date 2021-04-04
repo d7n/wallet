@@ -1,1 +1,1 @@
-var mnemonic = "liquid firm bleak paddle dance area real fiction sunset scout nominee tobacco";
+var mnemonic = "gold oyster fiction strategy april garlic strategy key brand witness arch collect";

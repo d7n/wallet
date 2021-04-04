@@ -1,1 +1,1 @@
-var mnemonic = "neck elegant tree topic soul ritual large shine awesome metal umbrella alcohol";
+var mnemonic = "patient echo mercy loyal cram drum auction sugar obvious shiver catch kitchen";

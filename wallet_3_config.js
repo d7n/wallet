@@ -1,1 +1,1 @@
-var mnemonic = "inhale permit road van august decorate pill coconut kiwi camera pair mimic";
+var mnemonic = "kid slam guess budget stage dilemma resemble vapor term trap city remove";

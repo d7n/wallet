@@ -1,1 +1,1 @@
-var mnemonic = "mail mystery hub off spider guard drop salad inside lens arrive tonight";
+var mnemonic = "slam coin fall diary defy nature assume flight fresh pool weather jeans";

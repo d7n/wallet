@@ -1,1 +1,1 @@
-var mnemonic = "topple blur wool deputy brain among eternal hundred result own manual urban";
+var mnemonic = "amazing pencil custom accident tide forum limit pear reward shallow crystal mule";

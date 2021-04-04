@@ -1,1 +1,1 @@
-var mnemonic = "spell armed swim three mercy venue gold match pioneer entry noble exclude";
+var mnemonic = "change cram arctic gold slide one hurdle shoe name album access laptop";

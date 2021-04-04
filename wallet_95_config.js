@@ -1,1 +1,1 @@
-var mnemonic = "attend error swim plug farm color dune insect core tuna fatigue write";
+var mnemonic = "soap devote warfare deal abuse ensure cabbage boss click bus taxi leaf";

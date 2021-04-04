@@ -1,1 +1,1 @@
-var mnemonic = "obey annual resemble provide salute fabric scissors head ahead flock film bind";
+var mnemonic = "gaze voyage like team pair next bulk pledge elegant suggest soap heart";

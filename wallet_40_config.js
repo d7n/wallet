@@ -1,1 +1,1 @@
-var mnemonic = "toy world congress inmate rabbit rally creek dry thing junior lens multiply";
+var mnemonic = "decrease spend use tuition impact tired cake vacant target glare nature play";

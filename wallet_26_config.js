@@ -1,1 +1,1 @@
-var mnemonic = "worth calm pig image essay balance potato cruise moon galaxy arena develop";
+var mnemonic = "lumber split turtle mean wonder awkward spread clever piece early rough tree";

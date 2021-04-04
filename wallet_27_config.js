@@ -1,1 +1,1 @@
-var mnemonic = "seat shrimp impose nominee usual upgrade tooth rule state know verify approve";
+var mnemonic = "shrug manual leisure circle promote noise infant turkey cigar genius young muffin";

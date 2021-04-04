@@ -1,1 +1,1 @@
-var mnemonic = "quarter bundle orient lizard inflict another tape ignore avoid explain crouch tobacco";
+var mnemonic = "tower pluck dragon cycle margin gossip deer recycle poet erupt dragon wait";

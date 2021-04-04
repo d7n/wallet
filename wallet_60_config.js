@@ -1,1 +1,1 @@
-var mnemonic = "unaware column dentist orphan promote stand balcony devote rack heart lizard antenna";
+var mnemonic = "pupil choose bronze digital embody twelve rally brush kick fade ensure fragile";

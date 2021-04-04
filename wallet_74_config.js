@@ -1,1 +1,1 @@
-var mnemonic = "pepper deal pink prison plastic ring payment hair tube power action inject";
+var mnemonic = "fabric reopen farm fame grit essay nominee finish bag movie believe theme";

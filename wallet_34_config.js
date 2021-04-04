@@ -1,1 +1,1 @@
-var mnemonic = "drill picture scare expire shuffle diagram nest device catalog involve tonight fly";
+var mnemonic = "lens casino dirt drama enrich later orchard bomb milk deliver office boil";

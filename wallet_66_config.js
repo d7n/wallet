@@ -1,1 +1,1 @@
-var mnemonic = "drum cliff cinnamon mean absent fashion cannon tourist put belt apple amount";
+var mnemonic = "gadget devote tenant prevent ketchup crunch all like mirror grass ill torch";

@@ -1,1 +1,1 @@
-var mnemonic = "run million outside brave crumble orphan pretty anxiety ahead december easily comfort";
+var mnemonic = "energy cancel video album powder van business message mechanic keen slide order";

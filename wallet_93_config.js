@@ -1,1 +1,1 @@
-var mnemonic = "forest belt elephant draw junk leopard world capable olympic like road game";
+var mnemonic = "twelve various minute tiny attitude just solar habit baby runway glory foil";

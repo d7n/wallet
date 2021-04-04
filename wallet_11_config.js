@@ -1,1 +1,1 @@
-var mnemonic = "setup elevator tuna unaware pistol print boil pottery deer license mother tiny";
+var mnemonic = "build split modify boss loyal network danger pelican dentist engage bulb garbage";

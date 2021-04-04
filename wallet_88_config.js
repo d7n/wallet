@@ -1,1 +1,1 @@
-var mnemonic = "pony rug grocery frame sunset pelican winter size catalog hold exchange keep";
+var mnemonic = "settle boy misery way baby stone north crater try camera jewel term";

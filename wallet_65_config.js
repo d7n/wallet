@@ -1,1 +1,1 @@
-var mnemonic = "tip craft must knife evolve use sadness unknown friend twelve play discover";
+var mnemonic = "fly old razor eternal recipe visual obtain seed they abuse involve miss";

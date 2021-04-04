@@ -1,1 +1,1 @@
-var mnemonic = "reject mixture lounge brother foam void find uphold move siren target luxury";
+var mnemonic = "grocery combine exact choose eager demand lounge milk heart round giggle affair";

@@ -1,1 +1,1 @@
-var mnemonic = "foster indicate animal obvious salute evoke hurt muffin witness duck middle audit";
+var mnemonic = "never sun kingdom fever celery relax damage flock glare flavor issue coast";

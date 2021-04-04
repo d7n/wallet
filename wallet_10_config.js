@@ -1,1 +1,1 @@
-var mnemonic = "ribbon razor deny bargain pupil nice wrestle lift snack metal average novel";
+var mnemonic = "hour squeeze actress change decrease snow elder relax you ensure venue today";

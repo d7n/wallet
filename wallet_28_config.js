@@ -1,1 +1,1 @@
-var mnemonic = "tuna become curtain disease crazy home path width topic dad foil banner";
+var mnemonic = "defense million rib ripple exhaust ginger valley oppose okay athlete steak outdoor";

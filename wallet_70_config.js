@@ -1,1 +1,1 @@
-var mnemonic = "left ticket pulse promote payment salute bunker cement gain account install live";
+var mnemonic = "phrase perfect album gossip menu crane useless minimum organ genre embody earth";

@@ -1,1 +1,1 @@
-var mnemonic = "about cube raise actress alone used hello lucky debate galaxy venue apple";
+var mnemonic = "okay rare zoo school adult stick penalty alert mutual drink wash bleak";

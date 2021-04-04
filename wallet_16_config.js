@@ -1,1 +1,1 @@
-var mnemonic = "feel circle cruel dream gorilla state swim daring olive million owner romance";
+var mnemonic = "consider pony peasant brain chair axis cherry medal innocent bubble custom asset";

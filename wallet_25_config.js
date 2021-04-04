@@ -1,1 +1,1 @@
-var mnemonic = "sport van rabbit pool task february pulp nerve trumpet crater level dish";
+var mnemonic = "media check inject panic notable shrug model grid usual torch nature thumb";

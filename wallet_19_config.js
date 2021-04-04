@@ -1,1 +1,1 @@
-var mnemonic = "squeeze mad web wheel brass endless ready coast coconut power group pair";
+var mnemonic = "shove sponsor staff drastic organ subject weird earn leopard umbrella tennis under";

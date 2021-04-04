@@ -1,1 +1,1 @@
-var mnemonic = "equal razor inside jeans axis index feed very before anchor million ghost";
+var mnemonic = "sunset gown puzzle puppy kiss bracket indicate minor friend radar glow gift";

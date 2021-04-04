@@ -1,1 +1,1 @@
-var mnemonic = "kingdom another million taste glass rescue choose wink useless laundry slice random";
+var mnemonic = "bubble cause together shift maid rhythm clerk old world cloud prepare hello";

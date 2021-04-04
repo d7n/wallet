@@ -1,1 +1,1 @@
-var mnemonic = "quarter earth cancel thrive position life acquire face cupboard suit keep dilemma";
+var mnemonic = "stamp quote term relax guess food win steak word win endless leaf";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant siren isolate finger goat genre spare display help gas finger prize";
+var mnemonic = "pull essence style vote jungle useful concert later mercy divorce invest sheriff";

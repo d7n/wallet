@@ -1,1 +1,1 @@
-var mnemonic = "nest treat shiver idea final immense special enough degree voice promote auto";
+var mnemonic = "skate squeeze inmate type unhappy penalty seed ethics alcohol paddle size have";

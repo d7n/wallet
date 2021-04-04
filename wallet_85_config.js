@@ -1,1 +1,1 @@
-var mnemonic = "flip volume verify minute choice wrist olive board start dismiss outer shop";
+var mnemonic = "prison ask next patient jump begin emerge today private puppy wedding skin";

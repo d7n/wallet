@@ -1,1 +1,1 @@
-var mnemonic = "mystery deposit lamp opinion giant fan unlock wide peasant dune attitude egg";
+var mnemonic = "manual canyon license lunch cluster edge hub today fuel follow tenant between";

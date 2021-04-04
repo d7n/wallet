@@ -1,1 +1,1 @@
-var mnemonic = "nasty quarter dune cabin report extra thunder load real render news ribbon";
+var mnemonic = "crumble snack reason guilt winner fold piece office text large pioneer rely";

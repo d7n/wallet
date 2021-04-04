@@ -1,1 +1,1 @@
-var mnemonic = "about elegant enjoy brick match loyal relax mirror else scheme cover forum";
+var mnemonic = "east sniff lab high slogan order amazing holiday service valve excite sort";

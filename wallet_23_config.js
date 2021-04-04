@@ -1,1 +1,1 @@
-var mnemonic = "gesture trash stone message sausage test monster olympic margin patient flock hope";
+var mnemonic = "wool enroll ticket conduct husband possible scrap frame snap survey enemy achieve";

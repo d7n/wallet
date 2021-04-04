@@ -1,1 +1,1 @@
-var mnemonic = "trouble interest next snow energy cash blind right current cabbage manage youth";
+var mnemonic = "want disease position dentist shrug solid color force gossip cream across frown";

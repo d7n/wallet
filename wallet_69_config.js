@@ -1,1 +1,1 @@
-var mnemonic = "impulse congress dice usage custom coconut blanket goose energy screen lady suit";
+var mnemonic = "erase relief alone girl practice exile accuse bird situate advice park they";

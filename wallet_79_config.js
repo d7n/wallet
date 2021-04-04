@@ -1,1 +1,1 @@
-var mnemonic = "above season aisle slot boring level stadium glue coach piece lottery clutch";
+var mnemonic = "evil trust hen subject define wire electric narrow guess plug nest oyster";

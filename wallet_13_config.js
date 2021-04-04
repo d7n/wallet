@@ -1,1 +1,1 @@
-var mnemonic = "distance daughter allow border aim leaf guard basic slam finish abstract creek";
+var mnemonic = "cram select jump load main flip loyal stable visit shadow diesel whisper";

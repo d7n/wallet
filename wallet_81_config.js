@@ -1,1 +1,1 @@
-var mnemonic = "lecture treat coral early smart kit cable tiny mobile tone talk summer";
+var mnemonic = "cereal chat drip famous kiss muscle park rib wide drop twist humble";

@@ -1,1 +1,1 @@
-var mnemonic = "dance blind setup usage girl guide salad world wet margin wish dash";
+var mnemonic = "nerve either resist step sense interest city shrug wealth odor material weasel";

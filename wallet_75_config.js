@@ -1,1 +1,1 @@
-var mnemonic = "glass flock auction hedgehog jaguar list hello hub dismiss advice rival excuse";
+var mnemonic = "kiwi snack guitar original practice enough lab spot device seat velvet fun";

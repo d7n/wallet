@@ -1,1 +1,1 @@
-var mnemonic = "inspire skin stadium iron bench also foil ready burger subway ostrich mule";
+var mnemonic = "alert hotel size force copper vintage annual paddle base before senior boil";

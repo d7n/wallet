@@ -1,1 +1,1 @@
-var mnemonic = "top picnic midnight venture gap tool scissors silk vast reduce bullet slice";
+var mnemonic = "gravity write left forest nephew defense mean switch round nurse man more";

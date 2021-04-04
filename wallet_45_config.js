@@ -1,1 +1,1 @@
-var mnemonic = "labor surprise upset mass park become skull aspect off humor kiwi tissue";
+var mnemonic = "list energy myself bottom cabin family fault coconut boss outside taste tent";

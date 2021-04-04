@@ -1,1 +1,1 @@
-var mnemonic = "marine finish denial expand chalk finish expire reflect pattern boat wear damp";
+var mnemonic = "charge boss sorry asset whale fruit fly change fit tragic first sugar";

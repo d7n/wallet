@@ -1,1 +1,1 @@
-var mnemonic = "glimpse sand route card limb ghost donor grocery shuffle ignore shine clutch";
+var mnemonic = "jacket credit yellow benefit security disorder differ leg best manage volume moon";

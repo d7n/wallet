@@ -1,1 +1,1 @@
-var mnemonic = "usual innocent adapt crazy grace feed promote book churn purchase elevator daring";
+var mnemonic = "pass final shiver huge doctor ladder sing opera output face elegant broken";

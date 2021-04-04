@@ -1,1 +1,1 @@
-var mnemonic = "original toy club punch trumpet cluster own crane boss side lottery lock";
+var mnemonic = "pottery kitten coast sick rally spray pig naive drift local collect edge";

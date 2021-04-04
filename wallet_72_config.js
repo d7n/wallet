@@ -1,1 +1,1 @@
-var mnemonic = "found congress finger voyage horror eternal forward common gym danger trouble item";
+var mnemonic = "ranch embrace island elevator poet tortoise useless right garage only wrist script";

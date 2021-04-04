@@ -1,1 +1,1 @@
-var mnemonic = "evidence intact detect vote review adapt destroy oyster tooth punch panda super";
+var mnemonic = "absent slender faith today fold friend voyage resource limb brass coconut depend";

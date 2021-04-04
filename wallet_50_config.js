@@ -1,1 +1,1 @@
-var mnemonic = "gesture ecology gun sock battle again catch legal fossil oblige marble avocado";
+var mnemonic = "sorry road area bread snap grace lawn inmate cake fence debate marriage";

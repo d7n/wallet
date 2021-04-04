@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon battle cart lake oval humor torch civil suspect extend drive drip";
+var mnemonic = "scrap flash price column cradle reveal diary shallow margin annual crime sphere";

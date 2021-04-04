@@ -1,1 +1,1 @@
-var mnemonic = "stock seek pumpkin thunder motion have ask idea huge goddess trouble female";
+var mnemonic = "curious leave maze buyer swap dizzy turtle correct display security mimic dynamic";
