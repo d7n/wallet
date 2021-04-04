@@ -1,1 +1,1 @@
-var mnemonic = "fitness lunar scan note satoshi tiger original spoil clay resource solar fade";
+var mnemonic = "kite list cloud volcano rack amused dinosaur misery guitar jaguar friend blanket";

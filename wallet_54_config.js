@@ -1,1 +1,1 @@
-var mnemonic = "wall bone scatter spare comfort stool tragic purity unveil lyrics action insane";
+var mnemonic = "brush input diagram edit affair auto candy muscle nurse laugh garlic grass";

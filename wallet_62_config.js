@@ -1,1 +1,1 @@
-var mnemonic = "boring jewel key emotion notice ensure settle foot stock stove capital allow";
+var mnemonic = "key west stay evoke boring plastic deal oval film powder tiny indicate";

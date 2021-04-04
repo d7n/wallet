@@ -1,1 +1,1 @@
-var mnemonic = "prepare option wife thumb crowd immune speed lunch degree again live monitor";
+var mnemonic = "refuse feel exit craft trial whisper pitch forest change domain donor kingdom";

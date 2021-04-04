@@ -1,1 +1,1 @@
-var mnemonic = "tray rib gate write tourist sniff rookie extra scale example turn wait";
+var mnemonic = "sing employ play push prize close casino grass label quote news drop";

@@ -1,1 +1,1 @@
-var mnemonic = "apple match action canal latin canyon keep bridge pride gym divert glove";
+var mnemonic = "adult orient dynamic loop plastic venture whip road spray find open pizza";

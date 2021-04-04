@@ -1,1 +1,1 @@
-var mnemonic = "crack code arena creek exercise hockey exhibit bread average oyster acid crawl";
+var mnemonic = "chicken lizard nest sleep force rapid copy thank silly twelve flag canyon";

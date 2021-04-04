@@ -1,1 +1,1 @@
-var mnemonic = "spy refuse year daughter art thing error cable comfort absent know engage";
+var mnemonic = "review cake park kick cram member chef immune umbrella small weasel cable";

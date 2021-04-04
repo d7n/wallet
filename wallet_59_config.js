@@ -1,1 +1,1 @@
-var mnemonic = "inject muscle feature hover accident peace vicious monkey nothing seat spy plastic";
+var mnemonic = "bright element tooth later danger tree cable neglect stadium stadium chicken wall";

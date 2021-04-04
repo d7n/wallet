@@ -1,1 +1,1 @@
-var mnemonic = "wreck immune apart benefit sudden dash cream rude stable future nice heavy";
+var mnemonic = "deputy absurd ill piece lucky trap bench page surge betray kick just";

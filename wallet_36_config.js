@@ -1,1 +1,1 @@
-var mnemonic = "visa oval diet inflict nerve scissors glance athlete seek artefact gallery repair";
+var mnemonic = "lion strike burden amused prefer legend original face island drive just admit";

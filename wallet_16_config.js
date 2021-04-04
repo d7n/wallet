@@ -1,1 +1,1 @@
-var mnemonic = "dinner actress enforce bonus sample morning ramp sheriff grab enroll neither maple";
+var mnemonic = "theme old review dish shove mix fade trumpet little dress seed dizzy";

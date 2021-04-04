@@ -1,1 +1,1 @@
-var mnemonic = "almost repeat castle arrow robot reflect more net relief raccoon sting metal";
+var mnemonic = "board apple robot guitar enroll among dash find two walk approve aerobic";

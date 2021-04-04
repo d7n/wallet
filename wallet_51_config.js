@@ -1,1 +1,1 @@
-var mnemonic = "equal sense wagon jaguar spawn robot credit write gaze green luggage still";
+var mnemonic = "rough bag shed sun stadium jump lucky eagle neutral slush sure summer";

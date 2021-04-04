@@ -1,1 +1,1 @@
-var mnemonic = "motion bind work face success consider license glide valley hand slush famous";
+var mnemonic = "hope metal match unveil thumb picture shaft boss inherit slam creek notice";

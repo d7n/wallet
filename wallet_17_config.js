@@ -1,1 +1,1 @@
-var mnemonic = "siren tonight oppose upon science correct equal alcohol picture world giant found";
+var mnemonic = "major garden tip explain captain elder rookie ribbon apple joke night lens";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar crop comfort shock jacket dynamic siege vintage solution essay fatal novel";
+var mnemonic = "same price breeze small piano exclude opera use novel over sample tape";

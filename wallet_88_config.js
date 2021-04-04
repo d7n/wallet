@@ -1,1 +1,1 @@
-var mnemonic = "eager face soda sadness slice casino hope nature glad spot circle grape";
+var mnemonic = "taste admit diary olive inherit post problem grow invest lemon ivory also";

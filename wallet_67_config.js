@@ -1,1 +1,1 @@
-var mnemonic = "town choose release glue hint limb student february topple brown shallow social";
+var mnemonic = "find tide obey gift assist trouble portion caught cruel indoor ticket snake";

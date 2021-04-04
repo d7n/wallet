@@ -1,1 +1,1 @@
-var mnemonic = "seek trash frog federal balance double arrive choice trial popular believe tool";
+var mnemonic = "gain pave cost light door game first apart oven mandate slim elephant";

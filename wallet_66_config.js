@@ -1,1 +1,1 @@
-var mnemonic = "junior guide help robot hunt entire venture rug absurd grief clinic hawk";
+var mnemonic = "develop error sphere visa skull uncover fiber truck shoulder man home extend";

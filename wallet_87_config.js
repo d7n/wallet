@@ -1,1 +1,1 @@
-var mnemonic = "ridge ostrich eager amazing leg bind almost club either foam industry swift";
+var mnemonic = "glance error clump legal prefer glare pave magnet swallow shine flash impulse";

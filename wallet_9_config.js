@@ -1,1 +1,1 @@
-var mnemonic = "fish ketchup access control edit anchor cancel since motor original describe tongue";
+var mnemonic = "arm brick differ rotate drink wine utility dismiss gasp tissue only fence";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige actress illness pulp immense glance number empty attack crack tool kind";
+var mnemonic = "rely guard give better hollow garbage brisk hole boil ice artwork dilemma";

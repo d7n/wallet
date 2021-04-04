@@ -1,1 +1,1 @@
-var mnemonic = "fine tip nice add trigger already bright unlock box cloud jar swift";
+var mnemonic = "quick acquire mirror subject beauty barely hungry evil correct cart direct slim";

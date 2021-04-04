@@ -1,1 +1,1 @@
-var mnemonic = "confirm wrestle distance welcome chest slam depend idle exile day language mammal";
+var mnemonic = "salon jacket afraid angle assist mirror kiss sort decide bean tower seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich initial valve convince notable loop track moment degree awful include accident";
+var mnemonic = "blanket candy unaware awful explain scrap easily stand sketch poverty dilemma fortune";

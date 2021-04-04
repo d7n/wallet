@@ -1,1 +1,1 @@
-var mnemonic = "stuff street hand exotic faith use alien bench badge situate more approve";
+var mnemonic = "catalog kiss call essence cat wave limb attend measure skate injury absurd";

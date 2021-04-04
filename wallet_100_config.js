@@ -1,1 +1,1 @@
-var mnemonic = "stage abandon muffin dragon waste team hotel glimpse shuffle civil festival picture";
+var mnemonic = "useful lock romance genius analyst fault vast mystery update lake enact bacon";

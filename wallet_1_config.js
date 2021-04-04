@@ -1,1 +1,1 @@
-var mnemonic = "arrange gravity echo around happy wild gentle mammal hold weekend today lawn";
+var mnemonic = "bird endorse avoid chest quality chimney divide camp addict illegal monitor illness";

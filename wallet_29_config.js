@@ -1,1 +1,1 @@
-var mnemonic = "what dirt athlete boss payment age once search cruel scare riot student";
+var mnemonic = "quantum silk harbor topic similar agree mango goddess again maze noise walk";

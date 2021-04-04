@@ -1,1 +1,1 @@
-var mnemonic = "soccer doctor evidence vast grass glue cattle liberty expose game typical merit";
+var mnemonic = "team organ special neglect spawn fiscal install shell rice ladder afford pony";

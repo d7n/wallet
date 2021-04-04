@@ -1,1 +1,1 @@
-var mnemonic = "time change inquiry domain glove marine arrest mixture receive loyal viable shy";
+var mnemonic = "use human cousin tape royal real motion swarm scatter wait learn people";

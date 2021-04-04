@@ -1,1 +1,1 @@
-var mnemonic = "bargain echo crazy purse balance frog illegal document alley setup target denial";
+var mnemonic = "load early leisure worth awesome dash chicken laugh cause develop oyster aim";

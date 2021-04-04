@@ -1,1 +1,1 @@
-var mnemonic = "black exist reopen belt same unfold crack fresh huge they exercise merit";
+var mnemonic = "alert basket enter grain dolphin material tourist asthma thrive home lab people";

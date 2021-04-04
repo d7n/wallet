@@ -1,1 +1,1 @@
-var mnemonic = "art crystal lobster design trend photo swear crew fluid piece bonus book";
+var mnemonic = "spread jacket record horror decline acquire staff attitude abuse matter atom hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "grow antique segment birth cancel correct train tattoo trend tag reward sample";
+var mnemonic = "divorce satoshi kingdom raccoon oval dinner lava scale mind lady wash push";

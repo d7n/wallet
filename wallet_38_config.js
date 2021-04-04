@@ -1,1 +1,1 @@
-var mnemonic = "obscure knife pulp forward explain exhaust renew depend amateur immune admit lady";
+var mnemonic = "age author stay keep curtain hat begin insane sight rent faculty lava";

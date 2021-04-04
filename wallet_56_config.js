@@ -1,1 +1,1 @@
-var mnemonic = "budget slam waste hour combine merry smile kidney digital cave ready skin";
+var mnemonic = "frequent fresh hamster virtual hill purity smooth proof noble hedgehog agree reflect";

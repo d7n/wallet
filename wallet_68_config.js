@@ -1,1 +1,1 @@
-var mnemonic = "turn follow mansion inherit turkey exist behind ill slide canoe together betray";
+var mnemonic = "wish address frame position myth ill brick electric cry cousin destroy chair";

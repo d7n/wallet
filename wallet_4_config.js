@@ -1,1 +1,1 @@
-var mnemonic = "day ticket crowd erode milk kiss save result blind super crack cause";
+var mnemonic = "bronze remember crime sword case index swing punch position broccoli brain enable";

@@ -1,1 +1,1 @@
-var mnemonic = "grace divide album spirit when scorpion palm glass approve ill beauty divert";
+var mnemonic = "arrest item stumble tool clump orchard design deposit blanket business shoulder grunt";

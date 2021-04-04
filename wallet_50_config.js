@@ -1,1 +1,1 @@
-var mnemonic = "meat accident door seat indoor wagon rice salon spend fame labor ginger";
+var mnemonic = "worry cigar biology auto remain miss puzzle surface since remind zebra tortoise";

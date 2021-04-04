@@ -1,1 +1,1 @@
-var mnemonic = "solar charge miss stumble tortoise mention rich inner face oval provide oxygen";
+var mnemonic = "range forest okay side upset lady either harbor famous pool engage history";

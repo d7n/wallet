@@ -1,1 +1,1 @@
-var mnemonic = "fetch subject man shuffle animal north odor detail shuffle maple miss debate";
+var mnemonic = "certain design keep dress believe jungle bubble front slide behind where patient";

@@ -1,1 +1,1 @@
-var mnemonic = "river bundle skin arctic cheese piano other neglect human chest hole answer";
+var mnemonic = "bomb arena garden catch tide attitude usage enroll theory liberty elder hungry";

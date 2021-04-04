@@ -1,1 +1,1 @@
-var mnemonic = "elite menu praise such invite spin print chunk night cliff increase saddle";
+var mnemonic = "tissue limb dinosaur tank trip convince cargo together enhance side device rhythm";

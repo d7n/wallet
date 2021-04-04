@@ -1,1 +1,1 @@
-var mnemonic = "permit jungle regular gesture identify hub street become move hill excite walnut";
+var mnemonic = "fossil olympic annual tent exact marine eye pond angry above invest program";

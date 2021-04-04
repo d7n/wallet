@@ -1,1 +1,1 @@
-var mnemonic = "vivid install valid client top miss sound legend december impulse legal worry";
+var mnemonic = "two this chaos sketch property cinnamon enough cave reflect any action thrive";

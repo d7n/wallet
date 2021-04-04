@@ -1,1 +1,1 @@
-var mnemonic = "manage blanket trust dune office amused fantasy volcano cereal sail plastic labor";
+var mnemonic = "pair report virus spot truly hurdle valley orbit twin book away twin";

@@ -1,1 +1,1 @@
-var mnemonic = "gas chair luggage observe sauce lucky twelve father orient word chalk sleep";
+var mnemonic = "device era obtain dinosaur lumber brother chase dose clever dream friend merge";

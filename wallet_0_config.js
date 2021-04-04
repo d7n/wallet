@@ -1,1 +1,1 @@
-var mnemonic = "employ amateur glory nice wall hundred neck square climb future cupboard airport";
+var mnemonic = "village series donkey visual view circle rain pattern multiply word love grunt";

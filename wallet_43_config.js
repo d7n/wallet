@@ -1,1 +1,1 @@
-var mnemonic = "envelope execute protect rotate gravity owner liberty pepper coach eye absurd around";
+var mnemonic = "escape company moral equal unit monkey witness squirrel trigger excite used clutch";

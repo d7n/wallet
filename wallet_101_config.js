@@ -1,1 +1,1 @@
-var mnemonic = "brand shallow banner awful energy food blossom day manage ring giggle traffic";
+var mnemonic = "bird fat knock safe plug violin casino cart review vintage robust federal";

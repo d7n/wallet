@@ -1,1 +1,1 @@
-var mnemonic = "pull tonight number resource zoo village inject speed taxi ghost come acid";
+var mnemonic = "dish whip swear method name shuffle grain seed feel rigid chase hill";

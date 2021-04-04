@@ -1,1 +1,1 @@
-var mnemonic = "iron chunk ask unfold spatial exercise kit trophy broom rely congress must";
+var mnemonic = "book neither image tonight buyer fade only gown fiber salad board useless";

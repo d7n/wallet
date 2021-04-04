@@ -1,1 +1,1 @@
-var mnemonic = "digital venue vocal problem page cradle ranch crowd cook session shadow couple";
+var mnemonic = "father legal feel domain rural stable rebuild panther special actress pepper bridge";

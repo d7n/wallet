@@ -1,1 +1,1 @@
-var mnemonic = "bean asset abstract useful orange dinosaur bus accuse hole nerve critic couple";
+var mnemonic = "boy globe rapid kick member trick romance gospel grow fault belt muscle";

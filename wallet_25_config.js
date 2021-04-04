@@ -1,1 +1,1 @@
-var mnemonic = "second wife ozone online pistol boost sadness indoor unhappy pen weekend wear";
+var mnemonic = "dawn alien sauce retire sign buzz dial box oppose twin frozen judge";

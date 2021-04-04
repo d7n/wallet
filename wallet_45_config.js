@@ -1,1 +1,1 @@
-var mnemonic = "barrel impose put surge unable depart turkey cement bamboo salt party priority";
+var mnemonic = "dignity tourist fatigue weekend cost romance reflect survey struggle wide depend degree";

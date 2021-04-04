@@ -1,1 +1,1 @@
-var mnemonic = "strategy tell ask galaxy dolphin two gospel stock mixture mother tissue abuse";
+var mnemonic = "ahead pool marine cloth decline gain team above please taste nest include";

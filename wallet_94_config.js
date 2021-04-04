@@ -1,1 +1,1 @@
-var mnemonic = "labor flag pulse pulp area winter chief sing need crouch fatigue toddler";
+var mnemonic = "seminar shed toilet wing daughter october oxygen early legal deputy stand pause";

@@ -1,1 +1,1 @@
-var mnemonic = "initial turn auction tragic print truck unfair walk oak undo purchase aim";
+var mnemonic = "funny debate basket coin allow clip pelican coin effort code version frame";

@@ -1,1 +1,1 @@
-var mnemonic = "music recycle clock another engine taste limit alley model warrior model rapid";
+var mnemonic = "actor mention ridge unable exchange priority foil stadium net code display awesome";

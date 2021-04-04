@@ -1,1 +1,1 @@
-var mnemonic = "someone embark food dust base explain civil world scene boss junk tank";
+var mnemonic = "seven bundle skate advice age defy need cruise manual glass cherry kiwi";

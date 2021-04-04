@@ -1,1 +1,1 @@
-var mnemonic = "abstract pet health nation pioneer now practice pattern quality blue bonus course";
+var mnemonic = "kite trim chase first ocean suggest uncover upset broken palm pyramid divert";

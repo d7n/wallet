@@ -1,1 +1,1 @@
-var mnemonic = "practice tuition pool reject client spike online spawn physical myself mention boy";
+var mnemonic = "interest guitar service celery olive own salmon lend exit radio concert bunker";

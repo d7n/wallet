@@ -1,1 +1,1 @@
-var mnemonic = "wrap explain below lens first tiger taste wrong matter hen still trap";
+var mnemonic = "dial human avocado vendor social rotate subway method discover initial oppose adult";

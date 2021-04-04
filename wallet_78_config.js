@@ -1,1 +1,1 @@
-var mnemonic = "fresh famous side veteran silly action shoulder endless silent lemon fluid diamond";
+var mnemonic = "local panic demand noble bamboo banana between swim similar hold erupt slice";

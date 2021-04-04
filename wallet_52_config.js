@@ -1,1 +1,1 @@
-var mnemonic = "chase innocent reveal glue initial mansion calm angry vault adult wise flavor";
+var mnemonic = "law volcano album joke monster cart audit veteran cherry very survey youth";

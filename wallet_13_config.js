@@ -1,1 +1,1 @@
-var mnemonic = "focus obscure they explain kid wide rough sausage rail garbage salmon spice";
+var mnemonic = "add empty tired magic medal keep fatigue defense limb extra piano habit";

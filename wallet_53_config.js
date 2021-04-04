@@ -1,1 +1,1 @@
-var mnemonic = "furnace any suggest chunk story keep foster track aisle reform puppy pumpkin";
+var mnemonic = "spend tag regret bag citizen like dizzy six awkward nasty goddess pluck";

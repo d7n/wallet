@@ -1,1 +1,1 @@
-var mnemonic = "vivid insane kind drill wrestle knee taste minute tunnel only juice tonight";
+var mnemonic = "summer turn salon jump range luxury valid van quantum bench fox found";

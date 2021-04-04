@@ -1,1 +1,1 @@
-var mnemonic = "tiger giant weekend monkey bulb maid lyrics ask mother twelve cargo result";
+var mnemonic = "beauty shell syrup account enforce glad attack tuna alcohol clerk remember retire";

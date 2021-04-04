@@ -1,1 +1,1 @@
-var mnemonic = "recycle physical brisk acquire balance easily gentle language person city hockey fold";
+var mnemonic = "jealous casual typical kiss artwork gown outdoor deny tiger reform thrive goddess";

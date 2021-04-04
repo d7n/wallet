@@ -1,1 +1,1 @@
-var mnemonic = "shed cradle gadget proud thunder behave satisfy play witness obey path sphere";
+var mnemonic = "jewel cabbage cruise hat ask truly cherry pair budget join reform endorse";

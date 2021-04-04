@@ -1,1 +1,1 @@
-var mnemonic = "grass note wine drastic alpha script cherry steak offer custom credit hobby";
+var mnemonic = "gold spend nephew second glad nominee glare burst damp flight leader shiver";

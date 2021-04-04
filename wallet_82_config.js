@@ -1,1 +1,1 @@
-var mnemonic = "frequent attitude design museum actor speed rain guilt bread borrow truly marine";
+var mnemonic = "age such zone rib practice access price soon couch unfair diet humor";

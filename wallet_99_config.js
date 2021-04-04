@@ -1,1 +1,1 @@
-var mnemonic = "finish observe lyrics birth cool garbage steel cute chief mango saddle volcano";
+var mnemonic = "song sure animal away vacuum equal second tuition thank lumber skirt session";

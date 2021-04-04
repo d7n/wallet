@@ -1,1 +1,1 @@
-var mnemonic = "waste profit better seed gaze category thrive window bubble canal mind join";
+var mnemonic = "secret early dust park mouse snake crash relax place old bottom ordinary";

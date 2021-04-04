@@ -1,1 +1,1 @@
-var mnemonic = "enable aerobic cram proof question impulse dirt critic art ten mix eye";
+var mnemonic = "huge capital insane survey admit upon pattern hedgehog lawsuit sponsor surface menu";

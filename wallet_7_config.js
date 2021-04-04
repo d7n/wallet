@@ -1,1 +1,1 @@
-var mnemonic = "south know kingdom leisure elder sand essence apart peace never excuse erode";
+var mnemonic = "inch worry loan inflict soldier icon top pyramid casino cycle frog silk";

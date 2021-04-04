@@ -1,1 +1,1 @@
-var mnemonic = "truly barely region photo volcano festival fox gorilla swamp shallow crime borrow";
+var mnemonic = "option muscle voice human wing family upon tired explain predict snake pretty";

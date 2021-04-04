@@ -1,1 +1,1 @@
-var mnemonic = "provide naive volcano nature else bachelor swarm fiber erosion uncle bleak birth";
+var mnemonic = "immune urge must secret point post middle remind orbit add feed kit";

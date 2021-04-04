@@ -1,1 +1,1 @@
-var mnemonic = "spread dismiss cigar fade bone panel radio boil bracket pilot vivid bundle";
+var mnemonic = "staff talk resist nominee inhale vault team snake depth course vicious peasant";

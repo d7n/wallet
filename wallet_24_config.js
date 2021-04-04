@@ -1,1 +1,1 @@
-var mnemonic = "cigar sign cliff step broccoli series rural ensure school citizen romance side";
+var mnemonic = "cliff spring level another monster pond resemble deal explain obvious wagon special";

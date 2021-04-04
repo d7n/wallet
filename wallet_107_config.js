@@ -1,1 +1,1 @@
-var mnemonic = "deputy use monster demand save news easy knife rebuild sentence neither laptop";
+var mnemonic = "snake web voyage brass point virtual project sibling sleep core pole sunny";

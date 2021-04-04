@@ -1,1 +1,1 @@
-var mnemonic = "eternal dynamic glance hover spoon sense quarter aspect dog reunion thrive cloud";
+var mnemonic = "piano fee shaft indoor motion boss bread rail input shaft nose hour";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate current print group return path crop wash impulse seat subway current";
+var mnemonic = "guilt use wrong fun fun fatal joke merit grain double unveil eight";

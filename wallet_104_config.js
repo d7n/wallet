@@ -1,1 +1,1 @@
-var mnemonic = "either garbage hover foster chicken base volcano must scatter list grain silk";
+var mnemonic = "kid genuine pave pretty report road surround coach key torch differ print";

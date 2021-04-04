@@ -1,1 +1,1 @@
-var mnemonic = "day top nuclear gesture lawsuit giggle adapt front crucial wedding salmon sorry";
+var mnemonic = "fluid help point stereo explain inhale scrap scene kangaroo finger oak middle";

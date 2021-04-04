@@ -1,1 +1,1 @@
-var mnemonic = "marble grass group ostrich rely lazy unable capable fury frozen this multiply";
+var mnemonic = "tunnel figure want strategy elbow border finish possible pulp virus silent merit";

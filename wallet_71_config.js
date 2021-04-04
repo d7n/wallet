@@ -1,1 +1,1 @@
-var mnemonic = "square outer boss tent major pass faith good because jazz hole immense";
+var mnemonic = "strategy wasp cherry poet region space apple trouble bring accuse observe better";

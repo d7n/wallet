@@ -1,1 +1,1 @@
-var mnemonic = "stem april goose mansion panda trim twice together bless page remain into";
+var mnemonic = "load until drum conduct all ancient push join anxiety kidney ill mean";

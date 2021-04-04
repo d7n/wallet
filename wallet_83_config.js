@@ -1,1 +1,1 @@
-var mnemonic = "right sure case crazy awkward hazard paddle comfort extra relax drop deputy";
+var mnemonic = "pig choose surround thank horse vessel blush lucky dignity town dish crawl";

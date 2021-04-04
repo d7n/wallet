@@ -1,1 +1,1 @@
-var mnemonic = "divide buzz future relief midnight awesome advice sphere place tilt time climb";
+var mnemonic = "april mammal industry analyst vacuum face critic earth clown climb vessel core";
