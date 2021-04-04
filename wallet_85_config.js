@@ -1,1 +1,1 @@
-var mnemonic = "air begin blast cool rather pear dog genre embody school mixture thing";
+var mnemonic = "silk frequent chaos end bean title debate enable crane aim matrix way";

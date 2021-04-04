@@ -1,1 +1,1 @@
-var mnemonic = "flee model board large frost eternal agree artist human again avoid public";
+var mnemonic = "sport busy coffee three popular hello twelve purity cost sing tag service";

@@ -1,1 +1,1 @@
-var mnemonic = "object night ignore mail bitter cover agent blanket double page doctor now";
+var mnemonic = "output pupil govern taste rose foam around attack paper diamond boy sleep";

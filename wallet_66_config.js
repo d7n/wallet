@@ -1,1 +1,1 @@
-var mnemonic = "stadium detail onion hidden royal domain matrix symbol employ patch menu gospel";
+var mnemonic = "derive leaf believe place artefact pottery detect vanish broken hundred theme blade";

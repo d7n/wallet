@@ -1,1 +1,1 @@
-var mnemonic = "barrel maid point accuse success once gym member nest clip arena hub";
+var mnemonic = "sadness abandon fade old almost legal raven thank practice raven small crime";

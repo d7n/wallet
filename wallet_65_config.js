@@ -1,1 +1,1 @@
-var mnemonic = "beach slogan remain false shaft drop happy vanish grape involve syrup trigger";
+var mnemonic = "midnight bright deliver resemble twelve bleak allow mention noise raise chapter endorse";

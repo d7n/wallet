@@ -1,1 +1,1 @@
-var mnemonic = "repair scrub water erode inhale nerve bitter kiwi attend twelve ready fun";
+var mnemonic = "elevator off task happy rude weird chair work category mutual market young";

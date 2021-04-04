@@ -1,1 +1,1 @@
-var mnemonic = "charge symptom crouch into retreat soon radar recall afford meadow public volume";
+var mnemonic = "turtle drill judge monster pizza effort kite quick among viable oven approve";

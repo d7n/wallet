@@ -1,1 +1,1 @@
-var mnemonic = "degree erode reject provide boil climb dolphin veteran cousin album village voice";
+var mnemonic = "adapt industry record ocean alcohol model firm diet midnight together height skirt";

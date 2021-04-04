@@ -1,1 +1,1 @@
-var mnemonic = "pluck pulp turtle anchor luxury crumble insect together crowd demand frown detail";
+var mnemonic = "alcohol suffer journey again where style stand blood rack subway pluck gym";

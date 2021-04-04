@@ -1,1 +1,1 @@
-var mnemonic = "umbrella hero usual spy argue gather foil measure spread control bid coffee";
+var mnemonic = "code merry addict holiday because endless width pear siege meadow patch assist";

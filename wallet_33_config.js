@@ -1,1 +1,1 @@
-var mnemonic = "crater remind symptom rose tackle patrol daughter imitate start comfort moment category";
+var mnemonic = "noise judge amateur dumb category mix army club fashion already scare seek";

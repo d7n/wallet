@@ -1,1 +1,1 @@
-var mnemonic = "hurt crystal access artefact grant true march smoke staff deliver draft pencil";
+var mnemonic = "atom woman wealth require category apple boy face casual quiz horse cancel";

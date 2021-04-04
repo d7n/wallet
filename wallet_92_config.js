@@ -1,1 +1,1 @@
-var mnemonic = "tongue pledge ready buzz struggle polar expand camera shadow okay paper focus";
+var mnemonic = "crew easy suit dune ranch craft cancel normal zoo dawn island lunch";

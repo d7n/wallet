@@ -1,1 +1,1 @@
-var mnemonic = "two shop void judge expect catch quick sound desert include airport believe";
+var mnemonic = "logic shrug game retire morning bachelor volcano mixed skate later casual sport";

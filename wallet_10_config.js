@@ -1,1 +1,1 @@
-var mnemonic = "salute alert bubble minute awesome punch fall bus sudden display pistol veteran";
+var mnemonic = "city pilot cage meadow parade hero now blue physical tissue appear multiply";

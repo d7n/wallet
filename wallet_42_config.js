@@ -1,1 +1,1 @@
-var mnemonic = "delay surprise green snack illness bonus hawk reward front same stage real";
+var mnemonic = "crucial endorse weird script earn argue position film electric include plastic apology";

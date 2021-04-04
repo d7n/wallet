@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit hello blush ancient matrix maze ready december fatal crush length confirm";
+var mnemonic = "hurry chest vehicle relax weapon dentist guitar fish curtain defy blouse twist";

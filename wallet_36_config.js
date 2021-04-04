@@ -1,1 +1,1 @@
-var mnemonic = "essence bracket recipe rack sun school quarter bicycle private cream air enhance";
+var mnemonic = "razor again record chat rent short street setup snow mandate swamp shoe";

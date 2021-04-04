@@ -1,1 +1,1 @@
-var mnemonic = "virtual same alien south guilt ticket struggle talk frame hover vicious distance";
+var mnemonic = "robot pelican must purity flower delay vehicle wire alpha custom gain claw";

@@ -1,1 +1,1 @@
-var mnemonic = "piece universe evoke credit resist clean legend melt chaos dry client share";
+var mnemonic = "busy program spoon proud core sick repeat alien minute miss debris journey";

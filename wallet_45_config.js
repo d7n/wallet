@@ -1,1 +1,1 @@
-var mnemonic = "able discover morning moment admit gain action divorce boring energy plastic panel";
+var mnemonic = "palm build steak cabin gate basket mammal hybrid capable auto various polar";

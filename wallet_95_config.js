@@ -1,1 +1,1 @@
-var mnemonic = "ice scale whale manual audit little find panda coach say nothing govern";
+var mnemonic = "hero author there position pact deny staff decrease vocal vendor pulse put";

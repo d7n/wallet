@@ -1,1 +1,1 @@
-var mnemonic = "toilet squeeze daughter elephant custom point phrase choice fossil soda impulse unusual";
+var mnemonic = "convince uncover observe slender replace key tube fame disagree combine better resist";

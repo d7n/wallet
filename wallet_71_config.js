@@ -1,1 +1,1 @@
-var mnemonic = "coffee dutch spare desert interest six budget render artefact vendor rule federal";
+var mnemonic = "ladder bachelor maximum dune math cliff cabbage marine sing sugar twelve emotion";

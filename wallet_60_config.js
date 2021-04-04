@@ -1,1 +1,1 @@
-var mnemonic = "rural worry punch eyebrow run hunt slam atom eye clinic duty camp";
+var mnemonic = "antenna garment treat web blind group spring layer tool install armor change";

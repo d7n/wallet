@@ -1,1 +1,1 @@
-var mnemonic = "bridge motor sting health celery dress rug flat humble theme glove screen";
+var mnemonic = "dove club sentence member long clutch tennis tone original hedgehog ghost pudding";

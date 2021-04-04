@@ -1,1 +1,1 @@
-var mnemonic = "bubble actor holiday deposit license draw shrimp logic walnut wisdom rather scissors";
+var mnemonic = "flavor lift bone capital tag sure require result access help bag defy";

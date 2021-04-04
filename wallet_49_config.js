@@ -1,1 +1,1 @@
-var mnemonic = "cage moral drama violin galaxy scatter pen gap boil spice garden hood";
+var mnemonic = "nature manage process usual unfair twelve stock skirt tooth rice exchange west";

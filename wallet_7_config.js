@@ -1,1 +1,1 @@
-var mnemonic = "noble invest appear fever body upper enroll drive wing repeat method film";
+var mnemonic = "poverty frost pattern trick card kiwi artwork toss edit sponsor afraid warm";

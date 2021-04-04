@@ -1,1 +1,1 @@
-var mnemonic = "swift liberty angry target half course clever pink like gospel tomato all";
+var mnemonic = "riot owner choice one van teach fashion party blade main myself easy";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix casual virtual luxury hen used certain ignore market random giraffe vendor";
+var mnemonic = "affair donate recipe exact drop dad uncover night hawk cross plunge survey";

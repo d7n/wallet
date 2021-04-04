@@ -1,1 +1,1 @@
-var mnemonic = "must simple electric layer traffic misery armed place describe royal tray corn";
+var mnemonic = "melt gorilla burger quote return dove mule funny lounge worth acquire answer";

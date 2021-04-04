@@ -1,1 +1,1 @@
-var mnemonic = "response volume cover drum know law curve elder ahead reflect sphere smooth";
+var mnemonic = "rich under hair head oxygen palm twin exchange dentist tent excess kitchen";

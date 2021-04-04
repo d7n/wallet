@@ -1,1 +1,1 @@
-var mnemonic = "inside potato wrap plunge table autumn motion sign sock dawn similar loop";
+var mnemonic = "motion shed trophy already client injury grain cake print struggle hope rhythm";

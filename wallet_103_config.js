@@ -1,1 +1,1 @@
-var mnemonic = "solution switch upper swap short truly input shine rule arm swing mad";
+var mnemonic = "outdoor glance kitten social north sweet forget deny resource wear humor goose";

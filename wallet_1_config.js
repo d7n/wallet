@@ -1,1 +1,1 @@
-var mnemonic = "orbit saddle glory fit invite pear body ordinary success time cactus install";
+var mnemonic = "sphere dog near mosquito squeeze shield multiply rare minimum slogan notable flame";

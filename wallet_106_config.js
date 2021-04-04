@@ -1,1 +1,1 @@
-var mnemonic = "climb night radar end retire task thunder evil script topple sign require";
+var mnemonic = "knee digital glare loan eager gown hobby impulse awkward tip chunk recycle";

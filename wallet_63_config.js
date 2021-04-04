@@ -1,1 +1,1 @@
-var mnemonic = "distance spirit cliff super volume beef tray wonder scissors tiny slam boost";
+var mnemonic = "can daring fly kite civil helmet antique special host claw sell knife";

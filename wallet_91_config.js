@@ -1,1 +1,1 @@
-var mnemonic = "erosion story aware hamster ceiling essay jungle stick hungry pudding shield taxi";
+var mnemonic = "inhale grain absurd defy resemble add ecology suspect crowd sing cactus wash";

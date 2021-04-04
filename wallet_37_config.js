@@ -1,1 +1,1 @@
-var mnemonic = "dose strong crop swarm wedding kidney volcano puzzle swear wear chief ceiling";
+var mnemonic = "fatigue staff face buyer door mushroom uncover mixed milk pretty blossom kite";

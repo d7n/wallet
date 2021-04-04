@@ -1,1 +1,1 @@
-var mnemonic = "upset jeans whale citizen trigger pave deliver anger inflict artwork more horror";
+var mnemonic = "main brain canyon coconut adjust dinosaur learn allow edit arrest fit border";

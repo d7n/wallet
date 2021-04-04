@@ -1,1 +1,1 @@
-var mnemonic = "stereo net stove usage witness wife clock dawn attend estate vehicle senior";
+var mnemonic = "start border draft column enough minor accident staff share erase coyote govern";

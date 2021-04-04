@@ -1,1 +1,1 @@
-var mnemonic = "color twin people riot betray adult awful load miss rough index ugly";
+var mnemonic = "sense whisper problem just announce regular exotic normal toward void swallow flag";

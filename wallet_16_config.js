@@ -1,1 +1,1 @@
-var mnemonic = "shallow surge veteran nest oil worth deposit riot crash mango want scissors";
+var mnemonic = "cinnamon cupboard shock tackle worth have weather today carpet iron favorite clinic";

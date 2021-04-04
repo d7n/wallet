@@ -1,1 +1,1 @@
-var mnemonic = "cargo aisle word slot broken ghost soldier diet bind inside flock horn";
+var mnemonic = "ripple group course feed ginger moon spoil civil sweet honey hour pottery";

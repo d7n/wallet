@@ -1,1 +1,1 @@
-var mnemonic = "pencil grab media half language mobile antique accuse super dawn volcano until";
+var mnemonic = "three float remind senior project awful run find discover verify payment wear";

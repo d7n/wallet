@@ -1,1 +1,1 @@
-var mnemonic = "lamp resource post brain reveal tide globe exact alarm fiscal gospel battle";
+var mnemonic = "zoo soda uniform type expose gain eager exchange lounge roast alert cause";

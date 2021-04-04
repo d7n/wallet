@@ -1,1 +1,1 @@
-var mnemonic = "symbol help fame honey rough carbon mammal settle evolve spin beyond another";
+var mnemonic = "actual post nominee crunch wear depth supply myth program cricket target asset";

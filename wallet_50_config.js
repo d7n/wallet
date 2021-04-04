@@ -1,1 +1,1 @@
-var mnemonic = "crunch ride rebuild gold margin voice donate column spoil volcano tail wood";
+var mnemonic = "trick wash impulse catch client wage abandon announce village wealth own island";

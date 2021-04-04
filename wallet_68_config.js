@@ -1,1 +1,1 @@
-var mnemonic = "ordinary make stick control estate inhale source boss setup adjust rookie trade";
+var mnemonic = "pipe diagram enrich peanut fish carpet pilot stage violin winner future flash";

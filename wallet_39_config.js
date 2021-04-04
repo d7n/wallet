@@ -1,1 +1,1 @@
-var mnemonic = "palace clap parent special bullet kiss benefit picture beef front ugly relax";
+var mnemonic = "summer upon mandate capable hour unfair claim chair now ridge warm bleak";

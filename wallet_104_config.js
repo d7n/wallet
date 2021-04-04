@@ -1,1 +1,1 @@
-var mnemonic = "glue glass casino parrot south security drum job retire punch victory oil";
+var mnemonic = "boy baby require misery amused try diary love flip reward rude inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "found rail river response fee digital skate hope coach demise bubble injury";
+var mnemonic = "behave jewel reject problem mango feed remove detail lizard convince glove sleep";

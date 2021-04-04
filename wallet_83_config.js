@@ -1,1 +1,1 @@
-var mnemonic = "defense excuse base fetch degree culture disagree shell country moral excite disease";
+var mnemonic = "measure impulse hood salmon now original alert follow setup citizen simple mobile";

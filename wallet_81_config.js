@@ -1,1 +1,1 @@
-var mnemonic = "twelve copper salad learn state feel donate canal ginger enjoy outside hover";
+var mnemonic = "pioneer dad answer leisure fog duty toast used route achieve plug burst";

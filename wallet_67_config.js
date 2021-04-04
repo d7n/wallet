@@ -1,1 +1,1 @@
-var mnemonic = "jealous shrug plastic pond silk gossip grace fork valley asset aim runway";
+var mnemonic = "because type cement paper youth taxi wait garment crater trip track already";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth fog ball fetch volcano anxiety escape monitor anxiety ski number host";
+var mnemonic = "cement wheat material siege rain alert oyster elevator nephew hold into usage";

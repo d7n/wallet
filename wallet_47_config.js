@@ -1,1 +1,1 @@
-var mnemonic = "aspect mobile wisdom genius humor smile obtain video conduct spy hat surface";
+var mnemonic = "resist cigar clinic fade leopard corn catch foster child news prevent stage";

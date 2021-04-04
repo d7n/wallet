@@ -1,1 +1,1 @@
-var mnemonic = "split chunk deposit marriage sign moment stuff float among caught couple meat";
+var mnemonic = "below picnic enrich hood grab select hungry season west force eager outer";

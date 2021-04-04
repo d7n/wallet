@@ -1,1 +1,1 @@
-var mnemonic = "club place around obscure power floor puppy come nerve quality body patch";
+var mnemonic = "inside sketch more oyster light custom twin sun gold island draw prize";

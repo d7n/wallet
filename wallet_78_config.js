@@ -1,1 +1,1 @@
-var mnemonic = "source buffalo wild hobby brick endorse sentence drink fragile horror expand focus";
+var mnemonic = "velvet injury client biology require fitness nest capital work section knock rookie";

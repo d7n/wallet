@@ -1,1 +1,1 @@
-var mnemonic = "elevator ignore song trap diamond pass antique elder trip kitten cool year";
+var mnemonic = "general involve outer art pistol garment hip grow poem cheese damage blame";

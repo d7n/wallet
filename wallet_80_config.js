@@ -1,1 +1,1 @@
-var mnemonic = "harbor plug tooth magnet risk lonely pulse client clip few prevent hire";
+var mnemonic = "fragile matter mixture genius immense ability element marine ready gather beach process";

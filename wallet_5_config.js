@@ -1,1 +1,1 @@
-var mnemonic = "hurdle frog vault cabbage leaf best original comic ordinary gold budget border";
+var mnemonic = "silly pink tomato canyon enrich wine limit journey salmon treat then draw";

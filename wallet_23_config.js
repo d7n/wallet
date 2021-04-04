@@ -1,1 +1,1 @@
-var mnemonic = "leaf category tattoo coast liquid chunk between leopard veteran science april average";
+var mnemonic = "genre opinion music extra park sun wheat addict soap glimpse actor orient";

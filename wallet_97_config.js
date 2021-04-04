@@ -1,1 +1,1 @@
-var mnemonic = "visit duty cricket garlic stay consider step rice write moral marine remove";
+var mnemonic = "hover warfare all sell gym goose soda vacant offer chief fine salmon";

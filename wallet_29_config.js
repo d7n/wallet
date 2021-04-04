@@ -1,1 +1,1 @@
-var mnemonic = "begin finish void forest occur dream train shield ball business robust rabbit";
+var mnemonic = "between pupil cheese bacon pupil bar over senior shove snow party seek";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor slim off lumber cruise rebel pioneer light chalk civil swift elbow";
+var mnemonic = "tourist topple balcony engine when riot above guard quarter napkin oven accident";

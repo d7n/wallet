@@ -1,1 +1,1 @@
-var mnemonic = "ivory endless knee orchard process hurry program grocery ticket snake canyon warrior";
+var mnemonic = "accuse fee wear weather match resemble drift slender dinner industry recycle mandate";

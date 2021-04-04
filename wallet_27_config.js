@@ -1,1 +1,1 @@
-var mnemonic = "short erode song where ancient face athlete spider famous sort cushion bicycle";
+var mnemonic = "gather weather donkey silk mouse spell industry culture believe father gloom purity";

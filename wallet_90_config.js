@@ -1,1 +1,1 @@
-var mnemonic = "any course torch apple cousin wrestle ability keen nasty excuse lobster spoil";
+var mnemonic = "more castle dynamic course nominee family move cloud ice pistol together cargo";

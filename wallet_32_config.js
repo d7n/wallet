@@ -1,1 +1,1 @@
-var mnemonic = "toast flush history slow casino churn van hat alarm kitten basket suit";
+var mnemonic = "teach earth worry feed vehicle level blouse patient effort immune metal claim";

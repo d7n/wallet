@@ -1,1 +1,1 @@
-var mnemonic = "air eight odor pause auction march observe consider dynamic mandate novel note";
+var mnemonic = "moon rib denial sustain achieve minimum much layer bring gadget suggest empower";

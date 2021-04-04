@@ -1,1 +1,1 @@
-var mnemonic = "fresh first bomb fresh account victory random work pitch fog inner survey";
+var mnemonic = "trap try attract armed jewel inhale crisp still link focus exclude mesh";

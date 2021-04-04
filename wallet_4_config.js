@@ -1,1 +1,1 @@
-var mnemonic = "pulse beyond soul exhibit mass rifle metal sure future gate tuition census";
+var mnemonic = "casino raccoon oppose arch cash identify birth diamond west vivid fish mother";

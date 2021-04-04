@@ -1,1 +1,1 @@
-var mnemonic = "energy assume citizen observe devote omit truck ladder brush champion library above";
+var mnemonic = "crane coconut decade like never car casual radar globe board seven rocket";

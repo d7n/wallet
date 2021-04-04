@@ -1,1 +1,1 @@
-var mnemonic = "link water garbage utility among naive moral correct famous edge crucial vocal";
+var mnemonic = "awake weird skirt sense draw pet there love include debate reopen knock";

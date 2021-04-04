@@ -1,1 +1,1 @@
-var mnemonic = "pill shed chunk satoshi carbon impose table crystal agree oven sick outdoor";
+var mnemonic = "disagree still mistake approve lazy top spike genuine depth exclude similar logic";

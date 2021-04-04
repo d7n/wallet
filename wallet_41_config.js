@@ -1,1 +1,1 @@
-var mnemonic = "marble knock sock begin soccer climb say design calm unable minute field";
+var mnemonic = "badge title aware wife point sphere sense mosquito jealous equip elephant spike";

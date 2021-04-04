@@ -1,1 +1,1 @@
-var mnemonic = "during soccer chalk patch visit axis trumpet asthma artefact boat frown nominee";
+var mnemonic = "index hire express spice broken flock phrase reduce rookie chuckle shiver fringe";

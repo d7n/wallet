@@ -1,1 +1,1 @@
-var mnemonic = "foam nephew bargain brass tip always cluster example turkey sniff home gun";
+var mnemonic = "fly daring save physical come isolate army water yellow glance foot fork";

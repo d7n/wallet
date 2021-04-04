@@ -1,1 +1,1 @@
-var mnemonic = "adjust light fun clip clown shuffle rubber high amazing square marriage gasp";
+var mnemonic = "bomb people taxi bless refuse lion divorce forum health picture anger zone";

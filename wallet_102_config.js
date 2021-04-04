@@ -1,1 +1,1 @@
-var mnemonic = "mirror farm fabric panda laugh execute stick mesh profit anxiety fun forward";
+var mnemonic = "clinic volume gallery noise over marriage flower hamster into outside soup doctor";

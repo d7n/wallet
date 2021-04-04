@@ -1,1 +1,1 @@
-var mnemonic = "style flip roof faith letter stock letter judge kitten grain enlist dignity";
+var mnemonic = "unit olympic struggle fatal ability mesh giraffe across pioneer peanut cheese like";

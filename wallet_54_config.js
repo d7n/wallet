@@ -1,1 +1,1 @@
-var mnemonic = "husband certain isolate drill thank feed peace foster price lion into thought";
+var mnemonic = "couple cream tortoise universe vote width soft brisk next movie credit amount";

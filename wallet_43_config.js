@@ -1,1 +1,1 @@
-var mnemonic = "tuition nothing art truck time rule recipe sting anchor scene rural climb";
+var mnemonic = "people early dice pair vivid allow news couch group urge mountain chuckle";

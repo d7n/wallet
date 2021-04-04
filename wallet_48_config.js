@@ -1,1 +1,1 @@
-var mnemonic = "worth rice certain deny cash joy whip crater dog marriage write high";
+var mnemonic = "age erase diagram shaft tumble hundred divert peasant ship clump glass peace";

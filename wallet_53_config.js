@@ -1,1 +1,1 @@
-var mnemonic = "glove flock gown smooth shadow slide inform spike purse reject raccoon giraffe";
+var mnemonic = "section mushroom treat chief clerk domain invest endorse brown eagle voyage crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "catch pair frost physical path shrug cycle usual occur devote soldier fringe";
+var mnemonic = "wire pull comic cute miss rib clever child forget wagon blur clever";
