@@ -1,1 +1,1 @@
-var mnemonic = "public pill waste spell slight food lemon dolphin slam program powder broccoli";
+var mnemonic = "awful noble auto basic answer shaft canal venture fire predict federal torch";

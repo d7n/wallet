@@ -1,1 +1,1 @@
-var mnemonic = "recall rookie fine put usage force buffalo alert public tray pony disorder";
+var mnemonic = "nasty often abandon document maximum boss trigger bronze visit can essence carbon";

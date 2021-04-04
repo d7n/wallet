@@ -1,1 +1,1 @@
-var mnemonic = "correct differ custom gap hover express interest aware discover route hedgehog under";
+var mnemonic = "book nurse suspect street truck hurry bullet stove pride entire dance puzzle";

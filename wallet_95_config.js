@@ -1,1 +1,1 @@
-var mnemonic = "smile venture scissors flat fiber loan weapon duck coyote escape farm never";
+var mnemonic = "bronze suspect mountain hotel avocado coin wink they theme degree before race";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety hurt bronze senior absurd heavy jaguar swear core twist mercy agent";
+var mnemonic = "aunt element crazy immune prosper manual damp situate solve wild sight news";

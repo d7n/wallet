@@ -1,1 +1,1 @@
-var mnemonic = "mercy danger grape spawn torch employ ozone poet shift pride plug matrix";
+var mnemonic = "already rebel tide egg frequent concert mail empower ethics dentist pepper chalk";

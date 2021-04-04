@@ -1,1 +1,1 @@
-var mnemonic = "final goat gas clinic fitness avocado eagle cover blush soldier spirit vehicle";
+var mnemonic = "almost exchange deposit copper share lemon club act arch bar chronic eye";

@@ -1,1 +1,1 @@
-var mnemonic = "caution almost endless what onion supply tribe sport craft amused ocean expose";
+var mnemonic = "indicate beef just fury under menu style hand pledge code system enable";

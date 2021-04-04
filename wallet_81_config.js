@@ -1,1 +1,1 @@
-var mnemonic = "female neck dwarf spirit animal usage physical usage attack cushion coffee execute";
+var mnemonic = "glad journey hair board paddle zebra turn dad helmet wheel crowd perfect";

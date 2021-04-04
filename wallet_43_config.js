@@ -1,1 +1,1 @@
-var mnemonic = "scorpion online afraid exclude situate also elevator bulk shiver fancy adjust throw";
+var mnemonic = "wool garlic tool view dumb install property brand unlock sponsor slab ecology";

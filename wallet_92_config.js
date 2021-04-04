@@ -1,1 +1,1 @@
-var mnemonic = "figure summer topple rely seminar hammer reject truly insane defy square romance";
+var mnemonic = "maid joke prize caution popular wait immense kingdom accuse acquire digital junior";

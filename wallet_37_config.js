@@ -1,1 +1,1 @@
-var mnemonic = "toy pipe crew remember offer project make judge can win world inspire";
+var mnemonic = "away disagree window dizzy flush snow grace come chuckle humble blind meadow";

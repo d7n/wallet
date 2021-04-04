@@ -1,1 +1,1 @@
-var mnemonic = "rookie purity tool assist crystal food tunnel another abstract unfold aunt shock";
+var mnemonic = "cloth tired enable pistol sketch such portion draw employ present guitar sword";

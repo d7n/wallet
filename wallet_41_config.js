@@ -1,1 +1,1 @@
-var mnemonic = "member carbon baby appear trash view reduce rifle deposit unknown move leader";
+var mnemonic = "under trade bargain alcohol wolf brain satoshi pole grit enough moral return";

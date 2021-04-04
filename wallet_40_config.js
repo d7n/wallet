@@ -1,1 +1,1 @@
-var mnemonic = "shop saddle hen pattern session dove funny hold wood cattle village agree";
+var mnemonic = "outdoor buzz six witness cousin raven display chunk dry elevator kick polar";

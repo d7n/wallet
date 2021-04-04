@@ -1,1 +1,1 @@
-var mnemonic = "tongue anchor tilt lion license angle jeans tone refuse phrase learn dune";
+var mnemonic = "measure table worth script range index video gain minute marble labor cradle";

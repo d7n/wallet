@@ -1,1 +1,1 @@
-var mnemonic = "peace era simple genius slow always ensure oxygen where rail zoo child";
+var mnemonic = "canyon foil female coil animal reason cattle believe umbrella congress grow north";

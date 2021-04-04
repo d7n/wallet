@@ -1,1 +1,1 @@
-var mnemonic = "only blanket stable sock wrap ship impulse journey fiction corn derive tonight";
+var mnemonic = "quiz erode series side burger shrug shove direct list dress skill fox";

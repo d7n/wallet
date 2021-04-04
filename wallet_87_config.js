@@ -1,1 +1,1 @@
-var mnemonic = "paper kit embrace empty puppy divorce sword grid enrich panda bachelor jazz";
+var mnemonic = "model vocal entire battle rare enable cigar rare fetch effort blue basic";

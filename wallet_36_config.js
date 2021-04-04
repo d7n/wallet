@@ -1,1 +1,1 @@
-var mnemonic = "excite artist blur shove file domain ranch picture april lumber foot fitness";
+var mnemonic = "rescue fiber spin glass judge desk dumb later century detect frame reward";

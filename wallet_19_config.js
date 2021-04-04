@@ -1,1 +1,1 @@
-var mnemonic = "pact onion check lift about uncle depart off eyebrow gown brown artist";
+var mnemonic = "fringe shed gown owner hen glory student vital jewel leisure together rely";

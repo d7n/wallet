@@ -1,1 +1,1 @@
-var mnemonic = "acoustic bomb sadness size face van poverty act bitter include timber leopard";
+var mnemonic = "type inflict air credit more armed scorpion upset win useful theme party";

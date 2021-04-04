@@ -1,1 +1,1 @@
-var mnemonic = "drastic garlic endless interest spoil acquire naive phone diagram note tired ensure";
+var mnemonic = "essay jealous result road design struggle symbol name critic install rebuild knife";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold embark green sister unit sting that daughter muffin gap fat frozen";
+var mnemonic = "forward amateur decide abuse feel enforce borrow that cruel ecology dust multiply";

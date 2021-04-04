@@ -1,1 +1,1 @@
-var mnemonic = "notable slice neither input camp diagram alpha extend ice old under direct";
+var mnemonic = "tonight add drive lottery river achieve rate replace cheese chef garment raise";

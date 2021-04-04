@@ -1,1 +1,1 @@
-var mnemonic = "medal version top twist search mutual asthma extend sudden eight slim silent";
+var mnemonic = "curious bicycle park mango demise work thing gesture grass hair animal cross";

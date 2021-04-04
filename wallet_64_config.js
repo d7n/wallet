@@ -1,1 +1,1 @@
-var mnemonic = "rotate crowd olive ostrich tree thrive era survey pulp typical head easy";
+var mnemonic = "since mule lesson chapter whisper quality step doll blush buffalo hill focus";

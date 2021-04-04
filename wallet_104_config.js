@@ -1,1 +1,1 @@
-var mnemonic = "guess obey disorder craft sheriff inside exercise lounge farm another strong range";
+var mnemonic = "meadow boil artist tray design scene all twenty danger pluck update text";

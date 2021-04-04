@@ -1,1 +1,1 @@
-var mnemonic = "dust neutral effort slight lawn rescue vital symbol earn trial cost hire";
+var mnemonic = "alert whip capable hammer slice pledge sad stove bomb ensure crop disorder";

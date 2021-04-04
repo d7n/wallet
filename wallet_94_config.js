@@ -1,1 +1,1 @@
-var mnemonic = "awkward beef state hip lawn blade nurse power maid exist envelope chest";
+var mnemonic = "decorate good scrap swift manage brain blouse index disagree odor boost tomato";

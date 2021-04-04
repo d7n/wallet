@@ -1,1 +1,1 @@
-var mnemonic = "control kitten vanish hawk sausage fat inhale lemon decrease improve holiday office";
+var mnemonic = "organ coil sort tower weather luxury guitar tired trigger calm put raccoon";

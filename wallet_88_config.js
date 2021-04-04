@@ -1,1 +1,1 @@
-var mnemonic = "okay rescue chapter ahead level nut weird switch acquire master coyote happy";
+var mnemonic = "inner multiply decrease visit purchase lamp link squeeze dinner word bus happy";

@@ -1,1 +1,1 @@
-var mnemonic = "where wall magnet scissors gym essay walk fossil embody bacon bread mask";
+var mnemonic = "what panel invest pen area amazing hollow east lottery much situate minimum";

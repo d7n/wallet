@@ -1,1 +1,1 @@
-var mnemonic = "scrap fossil garbage involve divorce bridge person nothing tree window square secret";
+var mnemonic = "increase road cheap twenty found artist nephew donkey drop scale bike rib";

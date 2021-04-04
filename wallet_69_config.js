@@ -1,1 +1,1 @@
-var mnemonic = "wrestle field flight sand access zone seminar chest expose pretty surprise offer";
+var mnemonic = "century change lava already pear culture horse unfair mouse mansion citizen screen";

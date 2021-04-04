@@ -1,1 +1,1 @@
-var mnemonic = "retire awesome link estate cube arch story gossip whisper rocket envelope gold";
+var mnemonic = "carpet second sustain inmate frame depth south crowd will wealth crane either";

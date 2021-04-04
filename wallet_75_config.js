@@ -1,1 +1,1 @@
-var mnemonic = "twist wish digital image razor neck action toddler major trigger truly broccoli";
+var mnemonic = "brush immune inspire parrot auction tower rude service rebel style copy yard";

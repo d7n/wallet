@@ -1,1 +1,1 @@
-var mnemonic = "exile wild trim dynamic panther toddler food boring already soap short topple";
+var mnemonic = "dinosaur tenant security tape fetch coyote absent globe chase pond drive guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence honey grid caution man brief result inmate voyage board door cabin";
+var mnemonic = "daring kidney alpha stadium soup album right scissors leave brand wagon giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch atom stereo hurry chase column asset jar type toss random athlete";
+var mnemonic = "noodle rural insane urge pulse virtual one ozone rabbit bring steel gaze";

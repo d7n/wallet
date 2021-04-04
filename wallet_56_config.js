@@ -1,1 +1,1 @@
-var mnemonic = "south caught blush envelope fine fever spray olive sniff bridge turkey fox";
+var mnemonic = "climb picnic donkey finish blast ability aim rocket fringe frown trigger detail";

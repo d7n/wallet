@@ -1,1 +1,1 @@
-var mnemonic = "royal surge frown clip fatigue coyote throw bunker inner eagle protect sorry";
+var mnemonic = "inch spatial unique rib cigar special unveil sting key future cat seven";

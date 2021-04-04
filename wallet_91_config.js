@@ -1,1 +1,1 @@
-var mnemonic = "mail museum despair close soup rack spider upper increase melody fossil verb";
+var mnemonic = "ice blouse wonder meat episode opera remember source parrot where supreme river";

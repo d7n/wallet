@@ -1,1 +1,1 @@
-var mnemonic = "dance giggle frequent supreme dish country warfare kidney fault merit term battle";
+var mnemonic = "leisure riot claim jaguar twin theory indoor lava effort capital such fatigue";

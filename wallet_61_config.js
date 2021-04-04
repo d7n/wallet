@@ -1,1 +1,1 @@
-var mnemonic = "kiwi master any bird photo cloud negative civil spoil liar unknown tail";
+var mnemonic = "deer helmet acquire battle globe shrimp hedgehog program guilt tired kick divorce";

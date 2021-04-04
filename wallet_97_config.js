@@ -1,1 +1,1 @@
-var mnemonic = "buyer whale know cotton drastic december garlic prison enrich sound entry nice";
+var mnemonic = "tobacco veteran mandate all economy ramp tuition wink balcony burden inner october";

@@ -1,1 +1,1 @@
-var mnemonic = "skate crawl supreme silent pitch bread scan swing atom demand yellow cry";
+var mnemonic = "syrup frozen width idea jaguar churn debris income blast arrange benefit baby";

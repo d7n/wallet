@@ -1,1 +1,1 @@
-var mnemonic = "long scheme strike boy insect chronic pulse vintage parent hundred sock again";
+var mnemonic = "seminar phrase gloom juice swap execute choose axis expand argue unaware dinosaur";

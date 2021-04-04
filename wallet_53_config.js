@@ -1,1 +1,1 @@
-var mnemonic = "planet glow celery hub sausage public kangaroo border salad appear output auction";
+var mnemonic = "gasp lobster love taste venture endless mix affair dinner glance food cream";

@@ -1,1 +1,1 @@
-var mnemonic = "master guard sunset reduce appear saddle helmet lens pigeon prefer sponsor awkward";
+var mnemonic = "citizen pledge false display borrow style battle isolate quality primary deliver chest";

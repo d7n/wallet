@@ -1,1 +1,1 @@
-var mnemonic = "govern swallow head acoustic oblige basket forward key hamster forward vibrant kidney";
+var mnemonic = "friend imitate glide minor jungle minimum hospital pulp hip broom name begin";

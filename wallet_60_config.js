@@ -1,1 +1,1 @@
-var mnemonic = "earn sweet merge bright thought cotton fish brand sleep impose cabin make";
+var mnemonic = "rose code vehicle tenant gate humor wrist skull trust baby move funny";

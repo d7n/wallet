@@ -1,1 +1,1 @@
-var mnemonic = "scale enemy cereal tobacco priority rare diesel bonus caution woman baby firm";
+var mnemonic = "fatal option aisle speak weasel run category mutual replace celery pyramid burden";

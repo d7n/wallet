@@ -1,1 +1,1 @@
-var mnemonic = "lady embark apart bachelor blame soup scissors quiz outdoor cost eager reveal";
+var mnemonic = "logic lift behave debris prevent try truly leader front spy attend access";

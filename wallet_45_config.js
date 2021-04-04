@@ -1,1 +1,1 @@
-var mnemonic = "nature toast arrange journey above tool palm spray suffer mix height tired";
+var mnemonic = "hip gauge just slush pave mother lunch fog report perfect tumble violin";

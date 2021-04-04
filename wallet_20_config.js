@@ -1,1 +1,1 @@
-var mnemonic = "recall tennis emerge myth beef surprise trigger climb sport skirt online april";
+var mnemonic = "horse trigger inside derive gather science hollow sport sound desert million stand";

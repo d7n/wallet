@@ -1,1 +1,1 @@
-var mnemonic = "vital prize tooth poem exercise bundle nose kangaroo coffee gallery poet help";
+var mnemonic = "crew denial destroy ugly circle capable physical uphold chest catalog deal oyster";

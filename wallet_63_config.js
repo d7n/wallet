@@ -1,1 +1,1 @@
-var mnemonic = "just degree festival turkey glide canoe satisfy episode cook want gasp orient";
+var mnemonic = "tourist render uncover cherry wild first letter degree trade sorry melody vote";

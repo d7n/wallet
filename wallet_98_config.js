@@ -1,1 +1,1 @@
-var mnemonic = "decorate run hip panther someone angry basket soldier correct kite zone poet";
+var mnemonic = "sure blind accident zebra three salt craft jump minute captain foil zoo";

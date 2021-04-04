@@ -1,1 +1,1 @@
-var mnemonic = "clog cycle genius dirt ball weapon basic air mushroom pill struggle snap";
+var mnemonic = "maple list cream kitten trap sail love certain alert fuel pool basket";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm fish hire blame service dentist ridge mandate blade blade cat radio";
+var mnemonic = "pencil common gate lady wool world detect save pen gas erosion valley";

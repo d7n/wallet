@@ -1,1 +1,1 @@
-var mnemonic = "dune system hazard spray physical opera absent jealous comic position armed kidney";
+var mnemonic = "glance bag jewel buffalo sustain spot convince aunt betray breeze mask odor";

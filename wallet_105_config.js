@@ -1,1 +1,1 @@
-var mnemonic = "appear silver argue mimic marriage cousin patrol festival artefact chest soft elite";
+var mnemonic = "leave earth never hand mail pause nurse elder escape viable inherit clinic";

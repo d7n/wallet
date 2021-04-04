@@ -1,1 +1,1 @@
-var mnemonic = "gravity easy east shine merge husband mandate depend village waste joke envelope";
+var mnemonic = "remove cat cycle slush tomato trash spirit cabbage tuna pole omit hand";

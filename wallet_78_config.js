@@ -1,1 +1,1 @@
-var mnemonic = "furnace sphere involve day business depth tone garbage clarify crisp frequent brief";
+var mnemonic = "teach address height involve sing fly just lady visa fame miracle script";

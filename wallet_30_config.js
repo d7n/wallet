@@ -1,1 +1,1 @@
-var mnemonic = "aisle turtle faith differ wedding patch nose box day payment dismiss mass";
+var mnemonic = "similar kitten rhythm bacon swarm parrot echo blade punch cram clump smooth";

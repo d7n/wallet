@@ -1,1 +1,1 @@
-var mnemonic = "above wrist letter various cereal grain laugh leopard act bless valve fiction";
+var mnemonic = "ill ceiling frost oven century quarter blame similar strike destroy two square";

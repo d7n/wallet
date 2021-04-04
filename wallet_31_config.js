@@ -1,1 +1,1 @@
-var mnemonic = "forward method this urge farm gain poem blossom abstract enlist snack fold";
+var mnemonic = "witness little mansion evolve crater infant creek shadow noodle exile unique cupboard";

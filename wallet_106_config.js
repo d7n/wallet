@@ -1,1 +1,1 @@
-var mnemonic = "plunge fault gym swim wash label empower gain crop web veteran execute";
+var mnemonic = "room divorce civil gift rifle powder sniff wage absent youth blanket organ";

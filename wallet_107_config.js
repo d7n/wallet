@@ -1,1 +1,1 @@
-var mnemonic = "bus lava news nuclear half fiscal disease uphold chronic artist lucky woman";
+var mnemonic = "little danger punch across entire drop stereo party admit arctic harsh example";

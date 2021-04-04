@@ -1,1 +1,1 @@
-var mnemonic = "wrap lounge mammal blossom swamp skirt useless correct day argue simple lucky";
+var mnemonic = "grocery behind antenna adapt action fence version rate west alone butter pizza";

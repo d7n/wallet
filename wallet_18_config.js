@@ -1,1 +1,1 @@
-var mnemonic = "extra ignore share useless desert shrug fiction strike junior typical soda squirrel";
+var mnemonic = "heavy connect infant tray divert copper space bottom angle record rapid grow";

@@ -1,1 +1,1 @@
-var mnemonic = "mechanic salmon visual pencil match above balance bamboo lounge squirrel original say";
+var mnemonic = "aisle cat saddle park equal circle exotic furnace notable clap trust burden";

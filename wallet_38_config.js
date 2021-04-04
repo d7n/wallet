@@ -1,1 +1,1 @@
-var mnemonic = "clump chaos region subway front toast use vital east artwork half priority";
+var mnemonic = "noble area loyal skate draw hedgehog tone blind hobby bridge ghost draw";

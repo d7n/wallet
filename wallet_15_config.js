@@ -1,1 +1,1 @@
-var mnemonic = "cancel tag deer conduct length chuckle crunch riot horror update dragon warrior";
+var mnemonic = "empower shed pupil source valid riot inject whale magic faint wasp ring";

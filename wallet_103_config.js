@@ -1,1 +1,1 @@
-var mnemonic = "alpha inspire tragic exclude silly daughter lawn castle galaxy purse engine where";
+var mnemonic = "ridge shed pool extra text drop upper gospel lake avoid lecture habit";

@@ -1,1 +1,1 @@
-var mnemonic = "wine spring benefit camp once magnet upper drive civil lake ahead candy";
+var mnemonic = "unveil hunt height swift bike enter repeat vacuum laundry bus test bench";

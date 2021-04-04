@@ -1,1 +1,1 @@
-var mnemonic = "foster bubble domain enter pet dust jelly pink evidence dynamic knee gauge";
+var mnemonic = "thumb palace pistol pepper air journey art bacon live pyramid assist put";

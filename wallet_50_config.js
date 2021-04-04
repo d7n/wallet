@@ -1,1 +1,1 @@
-var mnemonic = "sport bike security normal fortune chapter gentle claim debate keen glad enable";
+var mnemonic = "unfold almost lizard mask smile maple situate trash clerk success fuel equal";

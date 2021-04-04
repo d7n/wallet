@@ -1,1 +1,1 @@
-var mnemonic = "unaware leave onion tongue since initial spatial omit water rhythm fuel fish";
+var mnemonic = "october describe decrease hen bargain estate choose pass forum forward carpet candy";

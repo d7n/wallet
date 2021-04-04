@@ -1,1 +1,1 @@
-var mnemonic = "news pudding small mammal follow roast balcony salad symbol early diary student";
+var mnemonic = "ready flame fancy until resource grit stool sweet earth floor position craft";

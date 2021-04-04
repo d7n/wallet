@@ -1,1 +1,1 @@
-var mnemonic = "crystal dirt rebuild dose accuse garage horror vote maid share gather blouse";
+var mnemonic = "candy print there cactus merit cargo peasant hurdle three adapt strike idea";

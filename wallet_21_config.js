@@ -1,1 +1,1 @@
-var mnemonic = "twist jazz beyond also access act embark draw clerk now cliff moment";
+var mnemonic = "dove mimic leaf elbow enable card tube face drink cluster solution luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "also auction disorder budget boost surprise rebuild leave address square coral wisdom";
+var mnemonic = "wreck eternal best core idle stable trigger hat choice shift habit lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "print party elbow present regular wing pelican battle empty artefact chimney donkey";
+var mnemonic = "picture example bulb picture tissue disagree gym record machine shallow village around";

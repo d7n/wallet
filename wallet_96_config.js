@@ -1,1 +1,1 @@
-var mnemonic = "sorry twin stage ten magic stamp world amateur appear cry raven eternal";
+var mnemonic = "then brick hub juice neutral isolate lens strike breeze zebra churn because";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum uphold mechanic wait nurse print pencil put flag trim pioneer soft";
+var mnemonic = "liquid you jaguar gather sight cake type fever paper canvas uncle piece";

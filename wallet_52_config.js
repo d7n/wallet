@@ -1,1 +1,1 @@
-var mnemonic = "wide novel search jaguar struggle burger depart elite tank among sport orange";
+var mnemonic = "certain still mobile erosion pupil cricket width dish valve domain loan bright";

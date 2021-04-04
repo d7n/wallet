@@ -1,1 +1,1 @@
-var mnemonic = "disorder ring patrol palm glory arm transfer bullet beauty cloth bunker cart";
+var mnemonic = "wave voyage load typical steak maple cluster edit extend blame myth quantum";

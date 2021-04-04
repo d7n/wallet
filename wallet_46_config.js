@@ -1,1 +1,1 @@
-var mnemonic = "trade visa fine dose sleep cross monster below lobster between trouble salt";
+var mnemonic = "attend photo pretty issue minor toy upgrade muffin casino review slender agent";

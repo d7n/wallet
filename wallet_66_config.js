@@ -1,1 +1,1 @@
-var mnemonic = "nephew snake mask defense embody easy quarter journey hat chunk snack empty";
+var mnemonic = "hard warm spawn input rule ceiling crowd foot keep live clutch bottom";

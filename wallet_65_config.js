@@ -1,1 +1,1 @@
-var mnemonic = "outdoor leopard token myself kitten grab smoke raw meat ghost iron future";
+var mnemonic = "song syrup foil render crack album demand fame olympic lift start joke";
