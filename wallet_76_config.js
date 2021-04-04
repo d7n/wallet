@@ -1,1 +1,1 @@
-var mnemonic = "deal special orbit already cancel shuffle coach keen bonus parrot coconut father";
+var mnemonic = "local token barely eye safe pony cereal blouse regular pulse actor bleak";

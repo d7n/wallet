@@ -1,1 +1,1 @@
-var mnemonic = "galaxy obvious stock topple clean piano beef wood beef cactus faint smooth";
+var mnemonic = "age lawsuit worth dove upper bundle ranch casino taste cart abuse initial";

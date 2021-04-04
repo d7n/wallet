@@ -1,1 +1,1 @@
-var mnemonic = "elegant comfort riot body matrix drastic banana attack raise curtain glide victory";
+var mnemonic = "vibrant suggest crumble shuffle east prefer fancy blanket vivid trigger unusual mercy";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic alarm fiber vibrant ugly draw regret riot twist weird despair cycle";
+var mnemonic = "wrap sustain smart wage torch lawsuit trip rifle chunk weekend window avoid";

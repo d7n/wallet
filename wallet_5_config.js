@@ -1,1 +1,1 @@
-var mnemonic = "amazing web ability nest odor sniff salad diamond action rifle ordinary ozone";
+var mnemonic = "romance online anchor diet garbage blush title squirrel huge vicious sister jungle";

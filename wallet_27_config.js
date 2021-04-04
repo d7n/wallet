@@ -1,1 +1,1 @@
-var mnemonic = "era error science fee diary build mask report convince quantum quick output";
+var mnemonic = "detect team kiwi kind network robot soup inhale swim cute income captain";

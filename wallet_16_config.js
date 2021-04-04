@@ -1,1 +1,1 @@
-var mnemonic = "sad garage artwork infant actor vault hint salt install wall cruel vivid";
+var mnemonic = "thrive dinosaur useful erode eight pledge shield radar profit abandon romance text";

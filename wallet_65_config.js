@@ -1,1 +1,1 @@
-var mnemonic = "camera actor dove route pet phone crawl used element mobile pool green";
+var mnemonic = "minor minimum bring charge monkey fee toward brand truck dumb define rabbit";

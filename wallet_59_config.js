@@ -1,1 +1,1 @@
-var mnemonic = "illness cart turtle inform danger shove casual below cry elegant uphold offer";
+var mnemonic = "fly social barely merit topple spend senior resemble bird toe tree zoo";

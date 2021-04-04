@@ -1,1 +1,1 @@
-var mnemonic = "clump napkin inch captain coffee document response decide check ankle fame whisper";
+var mnemonic = "have clump kind abstract perfect dwarf fold execute rather crystal inherit sibling";

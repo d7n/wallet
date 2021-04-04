@@ -1,1 +1,1 @@
-var mnemonic = "distance pencil initial sock ensure invite install proud behind kidney fluid battle";
+var mnemonic = "list shield buyer jaguar owner income busy census tobacco disagree venue south";

@@ -1,1 +1,1 @@
-var mnemonic = "guard scene razor annual giant magnet vacuum lion remember royal hybrid enlist";
+var mnemonic = "brown pave hazard vendor kick spring catch sponsor cram parade unable report";

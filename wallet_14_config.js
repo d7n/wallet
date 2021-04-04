@@ -1,1 +1,1 @@
-var mnemonic = "share indicate health chuckle involve say length blouse all wine happy exist";
+var mnemonic = "prepare animal invest taste dumb soup sleep maximum wreck subject bacon tuition";

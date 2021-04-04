@@ -1,1 +1,1 @@
-var mnemonic = "aspect citizen promote boy depend life vocal ripple income special remember round";
+var mnemonic = "flavor describe rubber flavor trust popular entire session elbow assault weasel scene";

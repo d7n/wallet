@@ -1,1 +1,1 @@
-var mnemonic = "patrol celery stage almost gift wish float wheel dilemma retire chalk list";
+var mnemonic = "ankle lava example guard stem gesture congress inherit canyon else retire uniform";

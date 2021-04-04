@@ -1,1 +1,1 @@
-var mnemonic = "duck tuna hundred plate supply sausage faint govern burst pair trend federal";
+var mnemonic = "reward budget spray slab soldier debris cancel often payment frog orchard divide";

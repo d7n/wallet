@@ -1,1 +1,1 @@
-var mnemonic = "mass scale online employ work amazing poverty steak life bench anger patch";
+var mnemonic = "right chalk brick indoor month stool property connect nurse loan shoulder impact";

@@ -1,1 +1,1 @@
-var mnemonic = "little simple surface sound cluster inquiry aisle rapid slight trigger elite wreck";
+var mnemonic = "survey various champion parade tattoo barely nephew advice summer layer coast accuse";

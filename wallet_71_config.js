@@ -1,1 +1,1 @@
-var mnemonic = "exit marine hip joke pull echo stuff large open buddy ivory job";
+var mnemonic = "girl skin voice sample current onion fury airport tonight manual candy benefit";

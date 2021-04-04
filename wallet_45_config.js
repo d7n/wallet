@@ -1,1 +1,1 @@
-var mnemonic = "guide capable cause curious essay holiday basic correct stock waste old hamster";
+var mnemonic = "sugar apology divert enemy donate round fatigue mushroom access picture exotic village";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster shove sister renew nature scatter romance copy figure meat gaze menu";
+var mnemonic = "yard open actor ethics can latin match claim blind end dinner course";

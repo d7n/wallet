@@ -1,1 +1,1 @@
-var mnemonic = "safe response cotton anchor ozone pony shoe engage weird tag render hammer";
+var mnemonic = "dawn very foot elder train accident speak resist fuel crane tuna monkey";

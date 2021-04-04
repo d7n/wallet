@@ -1,1 +1,1 @@
-var mnemonic = "bundle include friend lake bag urban someone climb glad term spring worry";
+var mnemonic = "stable item possible spike false hybrid private gift proud knife review ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "industry memory left endless tape city toy split elite spot room popular";
+var mnemonic = "mystery phrase agent broccoli tell admit author ten tooth simple behind exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon print sustain rhythm october try advance exist usual forest drum cash";
+var mnemonic = "into expose coyote friend measure notable defy noble chief anchor feed lab";

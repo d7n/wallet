@@ -1,1 +1,1 @@
-var mnemonic = "disagree rice valve steak master old corn magic marriage ribbon flight hybrid";
+var mnemonic = "embody corn enforce quote they laptop ice merry choice staff dolphin shaft";

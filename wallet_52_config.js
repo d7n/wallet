@@ -1,1 +1,1 @@
-var mnemonic = "loud total surge flush bleak mountain turkey tent decide deposit speak remember";
+var mnemonic = "erase cupboard nurse eager village repeat tunnel despair pink basic runway pipe";

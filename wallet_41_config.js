@@ -1,1 +1,1 @@
-var mnemonic = "protect raise refuse earth drill prison little impact shed detect skull nut";
+var mnemonic = "control ring glad banner caution vault limit focus barely voice hidden napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "attend stamp identify daring bar any sunny uncle pink cloth debate company";
+var mnemonic = "behind genius extend bachelor announce tackle message volume core push suspect clap";

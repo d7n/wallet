@@ -1,1 +1,1 @@
-var mnemonic = "gorilla high above bone defense wine tunnel net dish level whale analyst";
+var mnemonic = "repair utility hurdle story pull spy brown art pulp icon scheme peace";

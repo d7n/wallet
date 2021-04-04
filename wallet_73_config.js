@@ -1,1 +1,1 @@
-var mnemonic = "sudden frequent mechanic include tag lion agree whip unit flame present burden";
+var mnemonic = "kitten add add pony near raw sword ripple vast lens about stomach";

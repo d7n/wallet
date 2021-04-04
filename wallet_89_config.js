@@ -1,1 +1,1 @@
-var mnemonic = "fabric victory evidence space burst horse canal hold brief soap rare plate";
+var mnemonic = "select lottery husband uncover quantum pattern inside garage onion strong seed leaf";

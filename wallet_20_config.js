@@ -1,1 +1,1 @@
-var mnemonic = "sphere phrase venture kiss increase hard frown tennis cannon erupt apart gossip";
+var mnemonic = "track unfair blush fee turtle arrange desert usual smile return rapid spoon";

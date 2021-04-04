@@ -1,1 +1,1 @@
-var mnemonic = "island ancient head breeze scrub couple fury glance desert clinic wise curtain";
+var mnemonic = "theory alley pool hurry legal salute soul symptom debate olympic manage card";

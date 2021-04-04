@@ -1,1 +1,1 @@
-var mnemonic = "supreme raven pulse chief double chapter disorder convince marble ancient muffin cook";
+var mnemonic = "obvious memory oyster dove boat elephant sibling seven annual major defy lounge";

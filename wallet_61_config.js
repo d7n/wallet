@@ -1,1 +1,1 @@
-var mnemonic = "bird swim common myth explain isolate tissue reflect all barrel baby tomato";
+var mnemonic = "dolphin violin era leopard gallery will coffee fiscal cradle daughter segment dignity";

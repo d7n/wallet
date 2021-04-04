@@ -1,1 +1,1 @@
-var mnemonic = "ability wheat differ elite snack loyal little actor maple zero lesson zero";
+var mnemonic = "volcano hard truck elder custom manual view raw lottery harvest garbage domain";

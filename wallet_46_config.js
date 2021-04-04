@@ -1,1 +1,1 @@
-var mnemonic = "echo resemble copper barely mixed afraid glow bitter alter coil check bench";
+var mnemonic = "index almost tattoo disagree powder hour bulb balcony dumb armor police atom";

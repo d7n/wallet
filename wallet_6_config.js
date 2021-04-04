@@ -1,1 +1,1 @@
-var mnemonic = "start pencil census quit exotic hunt lounge flag stove discover rather hybrid";
+var mnemonic = "taste ankle abandon castle nothing mammal rifle alarm march ritual couch daughter";

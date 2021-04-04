@@ -1,1 +1,1 @@
-var mnemonic = "scene supreme vote local unique indicate program convince bottom expand only kit";
+var mnemonic = "fury asset rare throw local naive bracket toss bachelor ecology sheriff capable";

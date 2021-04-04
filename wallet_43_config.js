@@ -1,1 +1,1 @@
-var mnemonic = "boost enable various mammal panic hybrid high nothing assume north eager void";
+var mnemonic = "borrow basic dog buyer aisle domain wool early reduce equip shock ticket";

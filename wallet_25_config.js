@@ -1,1 +1,1 @@
-var mnemonic = "shop truth orphan slim lounge acid pigeon upon leaf learn jelly exist";
+var mnemonic = "humor near feed wealth creek library lecture energy three erode summer public";

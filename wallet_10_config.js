@@ -1,1 +1,1 @@
-var mnemonic = "chapter episode cannon book forget observe poverty street below stadium unique able";
+var mnemonic = "question hip gun armor gate disease monster film pitch injury zero square";

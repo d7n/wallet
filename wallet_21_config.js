@@ -1,1 +1,1 @@
-var mnemonic = "moon spoil page six accident spatial stable range grace orbit main key";
+var mnemonic = "damage course olive yellow stable cluster fruit same harsh tunnel vocal neck";

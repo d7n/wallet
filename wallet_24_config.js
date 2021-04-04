@@ -1,1 +1,1 @@
-var mnemonic = "coil face later clump embark carpet pulse lock wine aspect decorate upset";
+var mnemonic = "wage drama tone radio dog nice security comic hour need allow opera";

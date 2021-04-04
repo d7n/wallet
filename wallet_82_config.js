@@ -1,1 +1,1 @@
-var mnemonic = "people jeans make half birth magnet chat town license tonight below club";
+var mnemonic = "together hood fever edge discover daring when tone soap divert thing oxygen";

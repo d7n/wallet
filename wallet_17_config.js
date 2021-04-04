@@ -1,1 +1,1 @@
-var mnemonic = "defy goat cherry napkin comfort address cluster depth tattoo online peasant badge";
+var mnemonic = "wagon rally sphere asthma express just trash stable range visa tornado thing";

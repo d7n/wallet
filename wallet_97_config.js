@@ -1,1 +1,1 @@
-var mnemonic = "torch grab nerve bunker bean guilt priority captain diamond find chimney aim";
+var mnemonic = "choice guess float empower text gospel become reopen safe green lawsuit phrase";

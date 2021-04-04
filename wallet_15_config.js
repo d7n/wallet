@@ -1,1 +1,1 @@
-var mnemonic = "hollow success liberty rocket oven relief maid elbow laptop ahead weapon pigeon";
+var mnemonic = "board trophy wash lemon crawl auction beyond order flee canyon camera broken";

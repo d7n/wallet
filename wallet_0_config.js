@@ -1,1 +1,1 @@
-var mnemonic = "attitude annual perfect plate pumpkin unknown weather gauge skate steel friend risk";
+var mnemonic = "obscure bike jacket group flame skirt tonight clever wasp adult antique dilemma";

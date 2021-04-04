@@ -1,1 +1,1 @@
-var mnemonic = "purchase thank hurt useful praise metal portion fragile world taste skate mail";
+var mnemonic = "rally alarm rich barely chef float moment renew lizard impose enable all";

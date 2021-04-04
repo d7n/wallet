@@ -1,1 +1,1 @@
-var mnemonic = "skate beyond citizen copper cook royal invite slice empower define vast call";
+var mnemonic = "busy december museum lumber token level exist husband mind harbor shoulder reopen";

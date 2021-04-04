@@ -1,1 +1,1 @@
-var mnemonic = "net inch picnic champion antenna hurry slush bleak load cousin clarify bone";
+var mnemonic = "tattoo tobacco power horror flavor trophy unusual world embrace speed shaft such";

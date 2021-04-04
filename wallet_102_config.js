@@ -1,1 +1,1 @@
-var mnemonic = "mimic key express artist draw found laundry egg culture enroll chef average";
+var mnemonic = "vacuum cool adult link hunt goat butter cool expand eager quick alien";

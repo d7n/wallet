@@ -1,1 +1,1 @@
-var mnemonic = "absorb lava menu evil ribbon snap grain snack program cliff parrot weapon";
+var mnemonic = "setup dwarf observe manual rally parade diet senior report crouch skate cabin";

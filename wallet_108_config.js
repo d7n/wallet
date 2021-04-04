@@ -1,1 +1,1 @@
-var mnemonic = "file position quick enter age aunt fade emotion chat lens brisk aisle";
+var mnemonic = "elite cousin ice aerobic question choose false now hub cream hover garment";

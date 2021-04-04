@@ -1,1 +1,1 @@
-var mnemonic = "emotion debris duck federal wear cube inquiry vague soul artwork rent foam";
+var mnemonic = "blue job pear harvest sentence search pottery gift confirm ocean coin capital";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy table base window crop awful project chat risk catch surprise great";
+var mnemonic = "stable patient hunt cream fetch develop valve abstract tape bid swift labor";

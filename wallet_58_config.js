@@ -1,1 +1,1 @@
-var mnemonic = "script book pudding mammal wash sniff glue include fiscal bargain have feature";
+var mnemonic = "pattern banner banana anxiety rule next possible deal away harsh actor flame";

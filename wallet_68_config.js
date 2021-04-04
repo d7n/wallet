@@ -1,1 +1,1 @@
-var mnemonic = "video trim deposit diary slam yard front gorilla flip truth ring swing";
+var mnemonic = "farm danger search print weapon cloud hungry frog town clip lesson divorce";

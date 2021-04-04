@@ -1,1 +1,1 @@
-var mnemonic = "member dish six surge blame knife lamp pair critic marriage fan few";
+var mnemonic = "toy grant sword coast spring live path spring pistol change connect just";

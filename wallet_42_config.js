@@ -1,1 +1,1 @@
-var mnemonic = "badge amateur slice favorite undo praise object rifle opera alter cost section";
+var mnemonic = "exotic injury improve myth present road over attend razor shove lawn under";

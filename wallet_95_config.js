@@ -1,1 +1,1 @@
-var mnemonic = "doll hill attend universe organ duck satoshi grab hole enhance envelope note";
+var mnemonic = "spoil race river accuse police trash coach love jazz crime soldier much";

@@ -1,1 +1,1 @@
-var mnemonic = "right fat empower bomb crowd nest liberty ostrich frozen state gauge purchase";
+var mnemonic = "box toddler recycle connect mouse area learn tone roast original leopard detect";

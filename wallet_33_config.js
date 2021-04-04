@@ -1,1 +1,1 @@
-var mnemonic = "patch sister need survey sorry crowd consider sand early young clump obscure";
+var mnemonic = "perfect advice bachelor swift clean sun detail remember disorder flame slot fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "heart arena marble combine insane hope mercy follow soccer relax depend clever";
+var mnemonic = "throw tide leaf economy return brush bracket level wrestle limb hurdle club";

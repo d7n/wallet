@@ -1,1 +1,1 @@
-var mnemonic = "leave rural attack suggest symptom toast hurdle country ginger crouch copy humble";
+var mnemonic = "grief online transfer inch solve stove scare essay life electric citizen grocery";

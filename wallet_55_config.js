@@ -1,1 +1,1 @@
-var mnemonic = "increase notice sunny have bunker life iron melt bind uphold chapter diagram";
+var mnemonic = "bird omit desert beach basic romance quarter domain mushroom path local ketchup";

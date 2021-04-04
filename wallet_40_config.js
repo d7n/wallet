@@ -1,1 +1,1 @@
-var mnemonic = "inside time invest average mule smart glance cream client finish fold trade";
+var mnemonic = "lesson monkey cover area caught hope hand regret liberty expire snap autumn";

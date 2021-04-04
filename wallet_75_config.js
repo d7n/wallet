@@ -1,1 +1,1 @@
-var mnemonic = "tissue notice success essay armor merry blue drift quick boat valley clever";
+var mnemonic = "wheel impact deny walnut area impulse nurse chat bean little purity warrior";

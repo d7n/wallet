@@ -1,1 +1,1 @@
-var mnemonic = "friend license face try later domain photo glory filter approve vault renew";
+var mnemonic = "valley seven depart decorate collect joke tumble breeze find ask catch awful";

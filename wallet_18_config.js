@@ -1,1 +1,1 @@
-var mnemonic = "year february hero barrel organ certain nurse parade know deer deliver fatal";
+var mnemonic = "property employ doctor addict morning vicious sock cute eager dentist safe over";

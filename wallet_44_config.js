@@ -1,1 +1,1 @@
-var mnemonic = "picnic glimpse desert silver profit diet scheme short dragon credit goat fiber";
+var mnemonic = "album hour network rack crunch direct alpha victory bullet rapid vintage bid";

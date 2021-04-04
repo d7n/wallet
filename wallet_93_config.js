@@ -1,1 +1,1 @@
-var mnemonic = "viable play ensure cute kid caution eight prize aware wheel exercise blue";
+var mnemonic = "people enter venue smile creek course hedgehog sunset near vocal endless escape";

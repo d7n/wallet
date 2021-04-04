@@ -1,1 +1,1 @@
-var mnemonic = "mansion inside able sun pyramid wagon bounce crane fortune hair true solid";
+var mnemonic = "surprise merge various yard feed sport rapid bullet sudden dad tuition announce";

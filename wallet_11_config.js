@@ -1,1 +1,1 @@
-var mnemonic = "hip knee fox auction boil stand pudding gift shrimp betray oak palm";
+var mnemonic = "grass chaos garden medal glory demise total deposit room scheme opera leaf";

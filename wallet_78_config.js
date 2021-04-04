@@ -1,1 +1,1 @@
-var mnemonic = "seat click address cushion note limit laugh siren mixed into retreat power";
+var mnemonic = "current culture lazy salute youth border among awake thing winner syrup frame";

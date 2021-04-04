@@ -1,1 +1,1 @@
-var mnemonic = "achieve lyrics scare ketchup awake friend hurdle scheme have stone wash insane";
+var mnemonic = "tourist angle fly heavy brick trophy cloud cram iron risk place protect";

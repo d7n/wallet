@@ -1,1 +1,1 @@
-var mnemonic = "planet athlete retreat sock payment skull despair midnight rail broccoli render shadow";
+var mnemonic = "stay bottom head grit evidence victory ship account piece inner toss divorce";

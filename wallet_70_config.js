@@ -1,1 +1,1 @@
-var mnemonic = "claim heart remain race cradle alert perfect piano doctor leader often summer";
+var mnemonic = "abstract spirit suffer high ivory upon damage consider defense eyebrow brown hedgehog";

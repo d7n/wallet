@@ -1,1 +1,1 @@
-var mnemonic = "favorite void essence easy spread resemble sorry cherry tuition remind peasant notable";
+var mnemonic = "pitch amount pact goddess crush pair inflict garage bone purity tragic gallery";

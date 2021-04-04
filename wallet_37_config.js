@@ -1,1 +1,1 @@
-var mnemonic = "race shove sudden sound income govern illness lonely stage acid robust electric";
+var mnemonic = "trade note baby question mimic height neck merit tail upgrade time wage";

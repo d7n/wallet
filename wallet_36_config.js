@@ -1,1 +1,1 @@
-var mnemonic = "pen also phrase misery detect lonely family neutral metal bullet exhaust notable";
+var mnemonic = "attract theory toward ridge property avocado boost picture thumb march range cup";

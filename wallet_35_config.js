@@ -1,1 +1,1 @@
-var mnemonic = "salute sting carpet path matter fat edge ramp crunch today main then";
+var mnemonic = "moral object useless van shiver script inform state engine omit illegal network";

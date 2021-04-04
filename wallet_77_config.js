@@ -1,1 +1,1 @@
-var mnemonic = "grape spend mansion summer lumber black beyond maid damp pretty couple taste";
+var mnemonic = "brave add top canal merit noble glimpse mesh news nothing enlist exhibit";

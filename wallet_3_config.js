@@ -1,1 +1,1 @@
-var mnemonic = "dismiss chief survey thing drip fluid bid coconut position crunch private miss";
+var mnemonic = "donor brisk slab galaxy coyote average supply pioneer vast tuna vote ignore";

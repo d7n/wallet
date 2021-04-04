@@ -1,1 +1,1 @@
-var mnemonic = "best veteran warm basket picnic major motor chief actress flavor metal mother";
+var mnemonic = "blade spoil duty alert myself cliff glow result proud robot humor scrub";

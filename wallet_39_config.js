@@ -1,1 +1,1 @@
-var mnemonic = "yellow mutual flee peasant method radio venture copy six involve sausage other";
+var mnemonic = "bread drip mask asset grit wash theme web resource cement region result";

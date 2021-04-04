@@ -1,1 +1,1 @@
-var mnemonic = "carpet step fish resemble prison polar private erode village pepper illness hint";
+var mnemonic = "wish cancel actress rifle shell atom mutual vital salon volume scrub wall";

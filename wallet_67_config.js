@@ -1,1 +1,1 @@
-var mnemonic = "light prevent paddle snow trial outer portion roof width hire actress artist";
+var mnemonic = "expose tomato trick roast weapon captain earth arrest road toast share jaguar";

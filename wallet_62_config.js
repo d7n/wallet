@@ -1,1 +1,1 @@
-var mnemonic = "letter regular gap knock weird kind voice shiver lyrics food comic immense";
+var mnemonic = "praise fit orphan brush alter furnace tuna canyon burger exercise flame split";

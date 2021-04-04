@@ -1,1 +1,1 @@
-var mnemonic = "online dad bounce finger tenant equip another fantasy major work denial heavy";
+var mnemonic = "inch crawl addict rival hand scrub eyebrow owner beef public wide talk";

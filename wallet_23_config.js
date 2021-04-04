@@ -1,1 +1,1 @@
-var mnemonic = "cruise gate fault basic drop wagon height margin hope near annual magnet";
+var mnemonic = "food paper subway ticket habit door tenant orient across attitude cannon achieve";
