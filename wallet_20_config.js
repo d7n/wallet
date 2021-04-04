@@ -1,1 +1,1 @@
-var mnemonic = "service legend media ginger bachelor power room thunder animal avocado globe car";
+var mnemonic = "ice escape resist hair bachelor regret tell quick nation jump fox wrestle";

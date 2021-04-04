@@ -1,1 +1,1 @@
-var mnemonic = "fitness forest width milk soda link neutral rib disease cable remain income";
+var mnemonic = "lemon cage raven picnic canyon inform will case year lobster later girl";

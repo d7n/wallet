@@ -1,1 +1,1 @@
-var mnemonic = "elder ball antique target brother divert awful already clean kitten print napkin";
+var mnemonic = "voyage castle steel remember edit usage nose fancy sun toe stand access";

@@ -1,1 +1,1 @@
-var mnemonic = "fun soul lesson acid tent season coconut hen quarter check develop sniff";
+var mnemonic = "again accident dragon shadow sausage able tonight calm enrich congress soul photo";

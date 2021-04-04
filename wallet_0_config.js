@@ -1,1 +1,1 @@
-var mnemonic = "leg immune gadget debris hen library glare bag gesture icon forest weapon";
+var mnemonic = "surround miracle useful scheme laundry canvas caught script lesson expose setup mountain";

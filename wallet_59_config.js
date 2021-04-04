@@ -1,1 +1,1 @@
-var mnemonic = "science stomach average mango slim either auto warrior matter define squirrel predict";
+var mnemonic = "panther trigger garlic mammal latin open mother diesel ensure elder potato surround";

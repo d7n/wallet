@@ -1,1 +1,1 @@
-var mnemonic = "silver enlist neither slight puppy oval emotion define clean estate shock sport";
+var mnemonic = "web language direct deer beef west win leader emerge alpha crawl raccoon";

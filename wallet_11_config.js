@@ -1,1 +1,1 @@
-var mnemonic = "expect finger trick sorry nerve prevent obtain roof media into detect ugly";
+var mnemonic = "tray want foil oyster skate farm infant swear unique knee cat board";

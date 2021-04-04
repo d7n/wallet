@@ -1,1 +1,1 @@
-var mnemonic = "later album pyramid beauty chunk antique audit bread type pipe pill gold";
+var mnemonic = "arch weekend segment cabbage slender slight glue check come account cup cup";

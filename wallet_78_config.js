@@ -1,1 +1,1 @@
-var mnemonic = "armed merry satoshi dismiss tone ticket vital learn result primary bachelor corn";
+var mnemonic = "congress cycle weasel clever consider atom punch glimpse whip evoke cost sting";

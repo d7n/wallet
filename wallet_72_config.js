@@ -1,1 +1,1 @@
-var mnemonic = "enroll coconut observe same concert luggage amused horse bicycle beauty adjust radio";
+var mnemonic = "retire comic cave kiwi gift add ladder wish lounge pear chronic orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "broom slide cliff matter forum open uncle parent mirror expand history hamster";
+var mnemonic = "pen tomato connect blush occur ski street next final half leader cat";

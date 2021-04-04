@@ -1,1 +1,1 @@
-var mnemonic = "guard record mass into session easily tone speed modify scrap repair private";
+var mnemonic = "digital angle maple bachelor battle panda life fluid defy tree gauge concert";

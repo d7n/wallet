@@ -1,1 +1,1 @@
-var mnemonic = "develop fly nation reject infant first today grain man ugly pave butter";
+var mnemonic = "animal slow sword option hammer occur route saddle embody narrow attract hunt";

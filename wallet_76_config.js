@@ -1,1 +1,1 @@
-var mnemonic = "blind shrimp worth main setup matter embrace soon anger speed circle ability";
+var mnemonic = "still tired device then kit cross degree derive orient veteran delay blush";

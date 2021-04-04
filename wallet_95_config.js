@@ -1,1 +1,1 @@
-var mnemonic = "ranch trash theme pluck recipe steak summer nice recycle heavy leaf fever";
+var mnemonic = "element minute pear over since scorpion mother couch quantum devote arctic now";

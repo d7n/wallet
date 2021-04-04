@@ -1,1 +1,1 @@
-var mnemonic = "hazard crisp rain senior under project omit skirt melody trouble six crucial";
+var mnemonic = "venue embark feature hammer limit into test use matter flee embrace toddler";

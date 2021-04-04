@@ -1,1 +1,1 @@
-var mnemonic = "pioneer average burst baby odor cigar foil fly demand leg pumpkin shell";
+var mnemonic = "report limit tomorrow guard aware chalk good calm safe way when become";

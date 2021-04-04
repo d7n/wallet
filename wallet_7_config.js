@@ -1,1 +1,1 @@
-var mnemonic = "palm tone match tone wide spike pink slender pill lava street setup";
+var mnemonic = "fox mixture enemy unlock rude empower boring best online pet violin bamboo";

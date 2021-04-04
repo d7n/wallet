@@ -1,1 +1,1 @@
-var mnemonic = "turkey cloud document engine learn leave blue arrive spy guitar thank power";
+var mnemonic = "bone vehicle wild egg canyon teach tortoise tired tray token quick income";

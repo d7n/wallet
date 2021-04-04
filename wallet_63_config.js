@@ -1,1 +1,1 @@
-var mnemonic = "traffic deliver quit truck they junk kidney photo inflict badge apple glove";
+var mnemonic = "fit grain erase inhale auction water train come winner unknown scale release";

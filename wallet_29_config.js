@@ -1,1 +1,1 @@
-var mnemonic = "choice below what flight develop insane desert tuition picnic web floor elevator";
+var mnemonic = "home finish sail lion viable dry age shoulder cancel wheat learn noble";

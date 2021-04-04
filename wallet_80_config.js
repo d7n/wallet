@@ -1,1 +1,1 @@
-var mnemonic = "camera exact diary broken useless elder miss ecology cricket balcony adapt universe";
+var mnemonic = "turtle math lift source spread head sketch parrot craft bind supreme disorder";

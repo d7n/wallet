@@ -1,1 +1,1 @@
-var mnemonic = "eager recycle idle own already aware oblige trim quality welcome lobster vessel";
+var mnemonic = "circle urge truth involve assist domain travel piece wrist banner tissue wash";

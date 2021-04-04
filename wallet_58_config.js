@@ -1,1 +1,1 @@
-var mnemonic = "fabric frame rough seek nothing sting ice magic rifle gallery naive robot";
+var mnemonic = "army promote page base harvest hurdle catalog cream vacuum can kiss obvious";

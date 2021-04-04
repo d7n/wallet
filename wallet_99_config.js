@@ -1,1 +1,1 @@
-var mnemonic = "milk emotion ramp dial chicken web hard satoshi clip senior guilt fine";
+var mnemonic = "dance virus way delay okay arrow gaze scan chalk message author enroll";

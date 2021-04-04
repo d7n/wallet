@@ -1,1 +1,1 @@
-var mnemonic = "explain blast rival wish bike fish shed what torch material youth arena";
+var mnemonic = "rib shuffle age poverty unusual grow van squirrel rug sniff brief faith";

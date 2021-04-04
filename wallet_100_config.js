@@ -1,1 +1,1 @@
-var mnemonic = "trophy float business among number vital little oak lava calm foster title";
+var mnemonic = "visit media turkey prison invite penalty awkward clarify science seek kitchen physical";

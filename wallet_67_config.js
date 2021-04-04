@@ -1,1 +1,1 @@
-var mnemonic = "vote blue gift team casual arm force injury always grace feed fantasy";
+var mnemonic = "salon gesture tag pulp huge clay awesome juice razor urban bacon chat";

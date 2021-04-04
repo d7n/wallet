@@ -1,1 +1,1 @@
-var mnemonic = "upper avoid adapt pole recall assault venture buzz vehicle badge cement tired";
+var mnemonic = "reduce scene duty describe slight dismiss large achieve degree athlete shove grow";

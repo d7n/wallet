@@ -1,1 +1,1 @@
-var mnemonic = "hard trophy voyage polar damage tiny nuclear cupboard ugly cute night banana";
+var mnemonic = "trash aim exercise that know banner second sword stay return artefact worry";

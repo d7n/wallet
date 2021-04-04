@@ -1,1 +1,1 @@
-var mnemonic = "blur shed riot entry remind salad bid chief aspect first right ring";
+var mnemonic = "comic develop hip faculty donor wall adult chimney pill note away fish";

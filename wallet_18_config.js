@@ -1,1 +1,1 @@
-var mnemonic = "parade car surge shoot cinnamon taste lion they door axis rapid scale";
+var mnemonic = "attend grunt nice theme divorce radar endless monster vital merge later scatter";

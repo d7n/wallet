@@ -1,1 +1,1 @@
-var mnemonic = "magic potato crouch vendor junk keep insect change frost siege hero joy";
+var mnemonic = "then ability steel sugar guide hurry ladder march chest grant mask afraid";

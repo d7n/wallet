@@ -1,1 +1,1 @@
-var mnemonic = "invite turtle start mixed fiber paper catalog lesson innocent moon circle turkey";
+var mnemonic = "boss winter maple cigar mobile range eye struggle biology warm wild symbol";

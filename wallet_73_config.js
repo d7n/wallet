@@ -1,1 +1,1 @@
-var mnemonic = "laugh mechanic impact range decrease fragile fun clap connect warm repair police";
+var mnemonic = "useless enable black scout fatal lend metal noise venture nut jump bomb";

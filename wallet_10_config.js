@@ -1,1 +1,1 @@
-var mnemonic = "vessel element describe reopen cinnamon trumpet blossom supreme miracle gaze surge pepper";
+var mnemonic = "rebel arrive ordinary critic sentence subway token long since trim hero piano";

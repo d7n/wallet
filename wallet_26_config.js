@@ -1,1 +1,1 @@
-var mnemonic = "scrap empower hour dress ticket already aunt atom cattle exclude forum entry";
+var mnemonic = "wash couch crew phrase river hip muffin finish outer more employ dash";

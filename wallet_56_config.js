@@ -1,1 +1,1 @@
-var mnemonic = "sick festival erode chaos east junk romance cover fetch flip fun essay";
+var mnemonic = "parade lunar either elite explain boost city rail double card slab glance";

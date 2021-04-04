@@ -1,1 +1,1 @@
-var mnemonic = "sustain wheat onion husband inch jungle hurdle upon result trash equal target";
+var mnemonic = "tell change injury flight cross catalog engine hope end army upset dry";

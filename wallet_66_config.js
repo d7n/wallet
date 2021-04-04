@@ -1,1 +1,1 @@
-var mnemonic = "once forum seek merit ahead company kit cave fruit common shrug saddle";
+var mnemonic = "input novel special street cattle spice crop inform hub junior gasp token";

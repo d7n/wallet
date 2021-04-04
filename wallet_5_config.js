@@ -1,1 +1,1 @@
-var mnemonic = "detect fan next hotel scene elbow inmate grain fame omit solid stem";
+var mnemonic = "clump wait neglect bind travel shift gym honey average intact pizza differ";

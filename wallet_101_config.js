@@ -1,1 +1,1 @@
-var mnemonic = "close merit better suspect humble rabbit magnet differ room valid soft ticket";
+var mnemonic = "excuse insane daring cargo cluster marble inflict hidden high space pet filter";

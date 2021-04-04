@@ -1,1 +1,1 @@
-var mnemonic = "angry fantasy glow comfort orange produce sugar provide razor shoulder goose style";
+var mnemonic = "else wrist joke property sample silk peanut void coyote remain auction tide";

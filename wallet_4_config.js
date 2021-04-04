@@ -1,1 +1,1 @@
-var mnemonic = "math palm solution win taxi economy include frost near churn bus hover";
+var mnemonic = "conduct reveal frost auction marine raven toe load cart tuna pen robust";

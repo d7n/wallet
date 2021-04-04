@@ -1,1 +1,1 @@
-var mnemonic = "deny pulse general endorse frozen trick deposit buffalo admit brick buddy result";
+var mnemonic = "father drama again canoe street elbow two lunar sting autumn odor level";

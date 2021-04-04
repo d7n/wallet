@@ -1,1 +1,1 @@
-var mnemonic = "ski giggle pet render december huge mirror pause wedding base orange cook";
+var mnemonic = "debate cloud club bracket unable manual inspire helmet fortune green obey raven";

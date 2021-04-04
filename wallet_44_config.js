@@ -1,1 +1,1 @@
-var mnemonic = "argue disorder second apple noodle obey magnet limb sentence around topic retire";
+var mnemonic = "captain like judge silent roof day use mountain vicious rebuild library poem";

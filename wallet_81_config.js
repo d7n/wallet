@@ -1,1 +1,1 @@
-var mnemonic = "action educate will taste infant ritual edge repeat turkey wave riot outdoor";
+var mnemonic = "leader exile egg harvest point inquiry legend travel track say include foam";

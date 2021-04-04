@@ -1,1 +1,1 @@
-var mnemonic = "write another twenty awesome gun dynamic adjust payment couple ticket glass doll";
+var mnemonic = "abuse another come purse glimpse sand motion phone clever kingdom river wedding";

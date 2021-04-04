@@ -1,1 +1,1 @@
-var mnemonic = "coconut order beef hood account hair arch base lake reduce dry ghost";
+var mnemonic = "town genre void stage nature success blur pulse around buzz write hammer";

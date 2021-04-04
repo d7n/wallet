@@ -1,1 +1,1 @@
-var mnemonic = "carbon aisle curious anxiety tumble provide frequent toy duck muffin wrap invest";
+var mnemonic = "car famous matrix daughter cram cancel sister exercise firm tattoo problem gloom";

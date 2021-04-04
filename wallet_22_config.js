@@ -1,1 +1,1 @@
-var mnemonic = "across tone shoulder reform cushion option you govern cook figure dish word";
+var mnemonic = "print casino twelve spatial conduct turkey adapt there fire tuition shy slot";

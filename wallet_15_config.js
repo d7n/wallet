@@ -1,1 +1,1 @@
-var mnemonic = "name man steak census roof evidence best awful grunt act ecology spider";
+var mnemonic = "honey swallow cliff gate slim repeat mind taste denial float sausage work";

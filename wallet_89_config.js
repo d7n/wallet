@@ -1,1 +1,1 @@
-var mnemonic = "door dignity remind domain wagon video thumb wise borrow educate man security";
+var mnemonic = "poem charge dawn aunt quit cheese diet venue zero design siren surge";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity bonus elephant receive olive fine nothing test bean love size zone";
+var mnemonic = "humble bounce transfer short tomorrow oval code swallow doctor cushion comfort hazard";

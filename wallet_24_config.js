@@ -1,1 +1,1 @@
-var mnemonic = "denial cat critic health click pulp rail marine verify fragile trust clip";
+var mnemonic = "height high invest remain medal nest grunt blood wish student science simple";

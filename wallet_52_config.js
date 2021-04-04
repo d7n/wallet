@@ -1,1 +1,1 @@
-var mnemonic = "enjoy erode reunion add key advance shoulder goat episode effort favorite provide";
+var mnemonic = "word wealth old ensure option suffer grab scorpion flock father cable diamond";

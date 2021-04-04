@@ -1,1 +1,1 @@
-var mnemonic = "type forget enhance visit wolf liar clump arch misery adapt wild stamp";
+var mnemonic = "demand reopen animal steel code match trophy genre seat useful exile lion";

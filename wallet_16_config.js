@@ -1,1 +1,1 @@
-var mnemonic = "stereo mechanic mandate say focus stuff riot mass clerk dust monkey marble";
+var mnemonic = "anchor table scrap fancy garbage junior shine oak hood pyramid allow strong";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor bus odor excite ceiling dirt flower verb inherit across tenant scrap";
+var mnemonic = "maze crisp immune cry vessel chalk absorb laundry summer left pepper only";

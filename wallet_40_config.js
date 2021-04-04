@@ -1,1 +1,1 @@
-var mnemonic = "submit wink hotel hint ostrich drama kiwi comfort middle pull book person";
+var mnemonic = "dish adjust page people veteran explain knife august pottery peasant brick crouch";

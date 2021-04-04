@@ -1,1 +1,1 @@
-var mnemonic = "equip lion random alpha palace wool miracle ten oil since evil soldier";
+var mnemonic = "jungle narrow online private unit umbrella ribbon hotel plug celery member assist";

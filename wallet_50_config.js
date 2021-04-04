@@ -1,1 +1,1 @@
-var mnemonic = "mad arm add accident task young dash marriage raise thought perfect picture";
+var mnemonic = "asset rather breeze link canal valid floor cruise vendor diary drama canal";

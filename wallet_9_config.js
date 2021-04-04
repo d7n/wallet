@@ -1,1 +1,1 @@
-var mnemonic = "crew trick fatal anchor afraid song fruit project atom humor advice draft";
+var mnemonic = "focus absorb found jaguar stay rose eager vital eight dumb decrease muffin";

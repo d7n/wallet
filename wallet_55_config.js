@@ -1,1 +1,1 @@
-var mnemonic = "father hover forward course lamp course power amount embody bread check major";
+var mnemonic = "budget lounge wrong axis venture galaxy hat valley health uniform whisper right";

@@ -1,1 +1,1 @@
-var mnemonic = "typical enact dawn deny rival behind network furnace quality hen flash dove";
+var mnemonic = "ribbon ancient rapid nice cable hotel merry series eye stumble pencil spice";

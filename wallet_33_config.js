@@ -1,1 +1,1 @@
-var mnemonic = "off mansion seed blush type message person evil basic write junior quit";
+var mnemonic = "dynamic slim alien devote gadget senior mind animal hood side camera barrel";

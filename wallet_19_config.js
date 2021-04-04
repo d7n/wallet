@@ -1,1 +1,1 @@
-var mnemonic = "result bone service absent never dance face feature potato pink portion future";
+var mnemonic = "comfort fold burden expect easy scrap organ alpha idea zoo tube promote";

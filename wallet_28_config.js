@@ -1,1 +1,1 @@
-var mnemonic = "myth jazz hundred tired cargo learn steak side roof same roof napkin";
+var mnemonic = "pilot hazard swamp sad honey number twelve seek dust nest elder silver";

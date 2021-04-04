@@ -1,1 +1,1 @@
-var mnemonic = "call breeze response inform sting maple trumpet plate cinnamon churn spring ensure";
+var mnemonic = "leave pulp work embody tomato camp problem blouse borrow company father error";

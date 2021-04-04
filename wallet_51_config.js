@@ -1,1 +1,1 @@
-var mnemonic = "stem strike evidence now suspect cactus wonder sad jazz vast phrase pioneer";
+var mnemonic = "convince often original garbage garden collect session tape valid essence bachelor glue";

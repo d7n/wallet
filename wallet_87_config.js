@@ -1,1 +1,1 @@
-var mnemonic = "forest surround poet never finger physical spare fabric gloom engage maid sick";
+var mnemonic = "mouse nest palm immense congress warfare harvest worth blouse shrimp quick knee";

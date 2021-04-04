@@ -1,1 +1,1 @@
-var mnemonic = "job call lesson taxi palm patch puppy gather denial sadness number park";
+var mnemonic = "wagon gain embrace very require road impulse youth raw language piece assist";

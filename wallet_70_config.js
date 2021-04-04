@@ -1,1 +1,1 @@
-var mnemonic = "address laptop tumble regular caught present minute derive hazard ship harvest enable";
+var mnemonic = "youth object slot owner twin eight about snake monitor frog record profit";

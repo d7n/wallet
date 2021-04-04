@@ -1,1 +1,1 @@
-var mnemonic = "stable gift good fault laundry wise make ivory diary custom august track";
+var mnemonic = "marine immense collect army inspire elite observe exist riot remain bid wall";

@@ -1,1 +1,1 @@
-var mnemonic = "knife whip leisure giant extra afford pulp sure tunnel sure flush fetch";
+var mnemonic = "century genre bid error pluck april tower explain next cat excite august";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid always dumb silly cabbage price novel woman describe impact lucky dawn";
+var mnemonic = "fan bench addict glad swarm clerk milk above sheriff cover surface omit";

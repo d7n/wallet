@@ -1,1 +1,1 @@
-var mnemonic = "dance paper later drop earth barrel north gauge flat tag shuffle olive";
+var mnemonic = "now ordinary reveal taxi palm gallery nose layer reduce giant blossom bitter";

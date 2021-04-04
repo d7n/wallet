@@ -1,1 +1,1 @@
-var mnemonic = "appear parent worry miracle second sense vicious stone busy radar chat upgrade";
+var mnemonic = "wing pig around palm repeat escape twist void bronze figure strong surprise";

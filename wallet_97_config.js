@@ -1,1 +1,1 @@
-var mnemonic = "climb student check spirit matter entry waste warfare excite reflect fog erase";
+var mnemonic = "ancient other battle weapon aim armed same fault below frog idea gas";

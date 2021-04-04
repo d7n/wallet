@@ -1,1 +1,1 @@
-var mnemonic = "coin act option ability release sister surround once glue record devote session";
+var mnemonic = "burden remain sell doll loan neck horse sausage endorse grocery input neglect";

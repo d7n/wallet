@@ -1,1 +1,1 @@
-var mnemonic = "bulb window company during panel suit afford liberty future fever ghost human";
+var mnemonic = "breeze cotton obtain flock sure roof small suggest nice bulb travel rebuild";

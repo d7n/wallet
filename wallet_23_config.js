@@ -1,1 +1,1 @@
-var mnemonic = "relief stick ranch final acoustic love resemble script pen find diary slice";
+var mnemonic = "shed slab sleep vocal later wool disorder explain shy owner spy reject";

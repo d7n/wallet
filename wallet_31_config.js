@@ -1,1 +1,1 @@
-var mnemonic = "genius model flame stay grass such cricket female moral bargain victory oblige";
+var mnemonic = "swim mango joke heart rhythm oval glare miracle draw chaos search thrive";

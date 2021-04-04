@@ -1,1 +1,1 @@
-var mnemonic = "minimum resist attack sauce wait suspect embrace canyon zoo fence clinic asset";
+var mnemonic = "neither spawn razor crew increase essence junk security access swamp armor oxygen";

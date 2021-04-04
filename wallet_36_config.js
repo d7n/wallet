@@ -1,1 +1,1 @@
-var mnemonic = "useless rapid drift negative aerobic coyote love guitar sibling exhaust ridge dignity";
+var mnemonic = "upon desk gadget build key narrow replace sick shop divert fetch bus";

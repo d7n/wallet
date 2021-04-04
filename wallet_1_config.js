@@ -1,1 +1,1 @@
-var mnemonic = "tiny congress wild ancient prize hundred vapor rely neither solid coral recipe";
+var mnemonic = "shuffle abstract hope empower lab aware father glove height raw family aisle";

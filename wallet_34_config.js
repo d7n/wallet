@@ -1,1 +1,1 @@
-var mnemonic = "zone parrot coin kiwi frog busy trash potato brand parade surround aspect";
+var mnemonic = "jacket rule blanket moral business tornado crystal load option waste solution cream";

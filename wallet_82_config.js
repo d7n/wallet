@@ -1,1 +1,1 @@
-var mnemonic = "horror you feature edge half female vital bless run oval task street";
+var mnemonic = "rail inflict net because fringe sniff gown churn essence trophy choose business";

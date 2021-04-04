@@ -1,1 +1,1 @@
-var mnemonic = "hungry voyage series speed suspect popular rabbit hamster olympic great spike heavy";
+var mnemonic = "buffalo bamboo vehicle final better ten vault grace page clutch blade excuse";

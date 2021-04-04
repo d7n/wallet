@@ -1,1 +1,1 @@
-var mnemonic = "flee ostrich powder acid large crucial spoon clever ritual monkey bright alert";
+var mnemonic = "mean dragon attend reform amazing silent bulb order strong panic sting afford";

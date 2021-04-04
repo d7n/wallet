@@ -1,1 +1,1 @@
-var mnemonic = "armed prison toe disorder program alien coil sand rescue shrimp unable buffalo";
+var mnemonic = "mutual shoulder tomato blossom shine know blossom boy hope void sketch brick";

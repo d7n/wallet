@@ -1,1 +1,1 @@
-var mnemonic = "citizen chalk escape valley office cover matrix assume prosper require next awkward";
+var mnemonic = "faint hidden half chalk love dry brand twenty own talent rule soldier";

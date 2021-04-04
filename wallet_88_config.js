@@ -1,1 +1,1 @@
-var mnemonic = "crop output sorry crush carbon defy fresh exist stumble like secret essence";
+var mnemonic = "sound drink latin social sport deposit chase attract toddler track hammer deputy";

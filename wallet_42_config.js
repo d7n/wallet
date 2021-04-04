@@ -1,1 +1,1 @@
-var mnemonic = "body engine nest power square enlist surface pudding observe wish subway vacant";
+var mnemonic = "jelly elbow laptop debate slim beauty repair trouble warm letter fantasy behind";
