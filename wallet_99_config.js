@@ -1,1 +1,1 @@
-var mnemonic = "sunny birth sketch donor harsh equip keen fortune illegal youth flee mandate";
+var mnemonic = "cluster method limb shield theory truck bronze enact later bubble because pipe";

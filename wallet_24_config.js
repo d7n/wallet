@@ -1,1 +1,1 @@
-var mnemonic = "buyer swim engine expose prosper expire endless episode fee skin rebuild slush";
+var mnemonic = "doctor pumpkin undo receive oven peasant upgrade nation chalk know anger draw";

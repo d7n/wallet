@@ -1,1 +1,1 @@
-var mnemonic = "amazing pencil custom accident tide forum limit pear reward shallow crystal mule";
+var mnemonic = "young dice awkward chronic know will match club shy scout alcohol tortoise";

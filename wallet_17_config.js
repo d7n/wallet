@@ -1,1 +1,1 @@
-var mnemonic = "exercise desk pen profit equip entire knife tell mixture sphere delay ship";
+var mnemonic = "cage viable final claw urge grunt blade hip orbit shrug hen print";

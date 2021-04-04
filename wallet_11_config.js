@@ -1,1 +1,1 @@
-var mnemonic = "build split modify boss loyal network danger pelican dentist engage bulb garbage";
+var mnemonic = "reform dentist erode bone shrimp primary senior polar absurd keen private adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "goose useless fan radio train legal clay carbon galaxy hover key churn";
+var mnemonic = "harbor receive jacket mansion caution pigeon bronze guard pulse common estate resource";

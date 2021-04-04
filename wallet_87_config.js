@@ -1,1 +1,1 @@
-var mnemonic = "grape purse similar damage twice pact meat valid apple lock myth punch";
+var mnemonic = "reward blood current impact mango script differ current season taste raven pave";

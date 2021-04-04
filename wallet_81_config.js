@@ -1,1 +1,1 @@
-var mnemonic = "cereal chat drip famous kiss muscle park rib wide drop twist humble";
+var mnemonic = "layer sort impact matrix program spider cattle net visit dwarf medal endorse";

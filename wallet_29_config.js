@@ -1,1 +1,1 @@
-var mnemonic = "scrap flash price column cradle reveal diary shallow margin annual crime sphere";
+var mnemonic = "juice loyal section post benefit anchor improve provide accident blast diet room";

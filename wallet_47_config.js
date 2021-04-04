@@ -1,1 +1,1 @@
-var mnemonic = "about during flight defense upset soccer advice fiber still immune review liquid";
+var mnemonic = "belt trophy edit dream then benefit car fee zoo vendor feed hint";

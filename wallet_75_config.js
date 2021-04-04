@@ -1,1 +1,1 @@
-var mnemonic = "kiwi snack guitar original practice enough lab spot device seat velvet fun";
+var mnemonic = "wash behind embrace behind change hand jeans alley awkward artefact cook angry";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch escape sustain leaf arctic august relief patch helmet mom finger over";
+var mnemonic = "detect region valley cloud state robust faculty solid divide original select wear";

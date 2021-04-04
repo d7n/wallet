@@ -1,1 +1,1 @@
-var mnemonic = "gravity write left forest nephew defense mean switch round nurse man more";
+var mnemonic = "champion such blur crack excuse render develop gauge alone chalk estate online";

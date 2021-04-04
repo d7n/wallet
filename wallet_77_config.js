@@ -1,1 +1,1 @@
-var mnemonic = "find day into rib onion infant verb federal tribe pioneer fashion armor";
+var mnemonic = "pretty focus crawl unveil thunder riot grain peasant nut buddy poverty limit";

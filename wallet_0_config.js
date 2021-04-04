@@ -1,1 +1,1 @@
-var mnemonic = "alpha exhaust stone draw federal robust found fog crumble dynamic chat latin";
+var mnemonic = "outside purse priority pear settle bike wish engage metal galaxy robot sound";

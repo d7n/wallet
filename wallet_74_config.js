@@ -1,1 +1,1 @@
-var mnemonic = "fabric reopen farm fame grit essay nominee finish bag movie believe theme";
+var mnemonic = "alter can between squeeze mad minor library aunt voice stadium baby try";

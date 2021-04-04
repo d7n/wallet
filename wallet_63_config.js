@@ -1,1 +1,1 @@
-var mnemonic = "often must gesture leisure exotic team gap medal reflect demise team present";
+var mnemonic = "deputy pond merge crawl rare learn provide grain situate health fog wide";

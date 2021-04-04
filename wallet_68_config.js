@@ -1,1 +1,1 @@
-var mnemonic = "labor reason eternal gym dawn twenty hobby half clever hobby music paper";
+var mnemonic = "together bicycle unfold race room magic potato film open oblige bonus dash";

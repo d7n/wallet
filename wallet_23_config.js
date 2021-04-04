@@ -1,1 +1,1 @@
-var mnemonic = "wool enroll ticket conduct husband possible scrap frame snap survey enemy achieve";
+var mnemonic = "mobile actor eager ice outer turtle never afraid master feel knee shuffle";

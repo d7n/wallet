@@ -1,1 +1,1 @@
-var mnemonic = "duck abstract alley warrior cup spread castle observe fit arrange velvet cherry";
+var mnemonic = "siren subject response popular sell cook route spy example spatial engage wall";

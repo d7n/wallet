@@ -1,1 +1,1 @@
-var mnemonic = "agree fault better twin please mention rose wing castle idea blind aunt";
+var mnemonic = "ketchup medal slender punch matrix reward spell strike ring exotic grit plug";

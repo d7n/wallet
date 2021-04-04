@@ -1,1 +1,1 @@
-var mnemonic = "charge boss sorry asset whale fruit fly change fit tragic first sugar";
+var mnemonic = "desk trap suffer cycle end crane canal cabin valley crew range twelve";

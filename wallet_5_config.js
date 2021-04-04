@@ -1,1 +1,1 @@
-var mnemonic = "slam coin fall diary defy nature assume flight fresh pool weather jeans";
+var mnemonic = "foster clutch frequent blame author series leopard stomach execute peanut diamond control";

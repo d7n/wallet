@@ -1,1 +1,1 @@
-var mnemonic = "rubber vocal enhance crop brisk like praise rifle hello flower barely city";
+var mnemonic = "inhale tomato claw disease news morning goose fatal uncle penalty mansion cattle";

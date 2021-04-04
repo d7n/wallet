@@ -1,1 +1,1 @@
-var mnemonic = "enter name property annual panic tenant repair census burst pretty badge decide";
+var mnemonic = "wheel orchard shiver prefer garbage foil approve squeeze replace oblige venture devote";

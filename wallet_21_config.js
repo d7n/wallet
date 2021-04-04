@@ -1,1 +1,1 @@
-var mnemonic = "column verb faculty buffalo egg motor undo mind satisfy video tower rare";
+var mnemonic = "glory dinosaur pistol enrich juice oppose whisper victory shrug success zero park";

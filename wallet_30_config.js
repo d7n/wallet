@@ -1,1 +1,1 @@
-var mnemonic = "stamp quote term relax guess food win steak word win endless leaf";
+var mnemonic = "space creek assist magnet pyramid empower spell slim ivory position mask envelope";

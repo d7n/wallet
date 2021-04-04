@@ -1,1 +1,1 @@
-var mnemonic = "kidney poet duty tongue amateur extra pig jelly merge solar tennis raccoon";
+var mnemonic = "burden rate over keen embrace hello spirit actual error popular cricket mad";

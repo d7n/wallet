@@ -1,1 +1,1 @@
-var mnemonic = "nerve either resist step sense interest city shrug wealth odor material weasel";
+var mnemonic = "parade reflect title grit clutch soup file wild skull goat obtain large";

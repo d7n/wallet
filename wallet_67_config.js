@@ -1,1 +1,1 @@
-var mnemonic = "crime tooth pair napkin scatter flight truth fortune warfare garlic pepper endless";
+var mnemonic = "dumb solar sauce satisfy trigger matrix culture stem guide inch nose file";

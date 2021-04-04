@@ -1,1 +1,1 @@
-var mnemonic = "grocery combine exact choose eager demand lounge milk heart round giggle affair";
+var mnemonic = "mimic alert magic desert vendor carry ship omit misery marble section woman";

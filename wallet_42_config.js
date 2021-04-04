@@ -1,1 +1,1 @@
-var mnemonic = "alert hotel size force copper vintage annual paddle base before senior boil";
+var mnemonic = "rookie announce capable output service cable flee daring attack sketch inspire torch";

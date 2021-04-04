@@ -1,1 +1,1 @@
-var mnemonic = "absent slender faith today fold friend voyage resource limb brass coconut depend";
+var mnemonic = "resist hint that supply ask rubber august witness reject know exercise finish";

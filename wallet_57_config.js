@@ -1,1 +1,1 @@
-var mnemonic = "never sun kingdom fever celery relax damage flock glare flavor issue coast";
+var mnemonic = "very bicycle front theme alert traffic notice shift problem tissue retire quantum";

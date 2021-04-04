@@ -1,1 +1,1 @@
-var mnemonic = "gadget devote tenant prevent ketchup crunch all like mirror grass ill torch";
+var mnemonic = "oppose orphan loan load mobile table clutch finger hurdle into option viable";

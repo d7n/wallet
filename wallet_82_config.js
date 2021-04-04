@@ -1,1 +1,1 @@
-var mnemonic = "crumble snack reason guilt winner fold piece office text large pioneer rely";
+var mnemonic = "gun monitor beef crucial observe crane uniform dinner address vague list giggle";

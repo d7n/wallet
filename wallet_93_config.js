@@ -1,1 +1,1 @@
-var mnemonic = "twelve various minute tiny attitude just solar habit baby runway glory foil";
+var mnemonic = "basket symptom cruel industry claw income math inhale decorate pledge gasp carpet";

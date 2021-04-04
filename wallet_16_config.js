@@ -1,1 +1,1 @@
-var mnemonic = "consider pony peasant brain chair axis cherry medal innocent bubble custom asset";
+var mnemonic = "daring two frame sudden multiply bus cancel grit avocado leg tortoise apple";

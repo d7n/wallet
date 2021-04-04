@@ -1,1 +1,1 @@
-var mnemonic = "start during crop foster earn section entry robust still escape reopen setup";
+var mnemonic = "lock choice staff like hundred radar custom stay addict chaos list nest";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze voyage like team pair next bulk pledge elegant suggest soap heart";
+var mnemonic = "poet hollow job kind snow gas runway evil stick spend regular skate";

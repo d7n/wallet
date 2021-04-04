@@ -1,1 +1,1 @@
-var mnemonic = "pupil choose bronze digital embody twelve rally brush kick fade ensure fragile";
+var mnemonic = "coin cricket quarter essay farm truly mad october nest hand host trend";

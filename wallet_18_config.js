@@ -1,1 +1,1 @@
-var mnemonic = "pigeon conduct strong napkin bread protect subject machine rain surround elbow great";
+var mnemonic = "lens interest lounge vibrant over gravity come shell leopard worry pledge runway";

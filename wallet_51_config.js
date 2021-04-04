@@ -1,1 +1,1 @@
-var mnemonic = "earn there rebuild rent lobster join picture win rapid october hood soldier";
+var mnemonic = "rare shoulder kind about brisk hunt arch quiz light belt table survey";

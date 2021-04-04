@@ -1,1 +1,1 @@
-var mnemonic = "soap devote warfare deal abuse ensure cabbage boss click bus taxi leaf";
+var mnemonic = "monkey neglect gospel switch remove exhaust awful gown various blouse family wrestle";

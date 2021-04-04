@@ -1,1 +1,1 @@
-var mnemonic = "inhale camera cactus ivory cross matrix fame much jaguar rescue measure churn";
+var mnemonic = "book rich craft throw pigeon super same dinosaur pool soap weekend faint";

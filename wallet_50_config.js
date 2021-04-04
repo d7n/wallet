@@ -1,1 +1,1 @@
-var mnemonic = "sorry road area bread snap grace lawn inmate cake fence debate marriage";
+var mnemonic = "gadget like pioneer wise approve jacket lazy artwork staff negative entry there";

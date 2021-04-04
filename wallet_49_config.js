@@ -1,1 +1,1 @@
-var mnemonic = "squirrel correct obtain company power fever cake off siege chunk soda cave";
+var mnemonic = "online option mountain leaf buzz make render bind remove endorse one off";

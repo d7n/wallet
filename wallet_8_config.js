@@ -1,1 +1,1 @@
-var mnemonic = "east sniff lab high slogan order amazing holiday service valve excite sort";
+var mnemonic = "faculty vehicle split between kitchen same hello world walnut february gravity ignore";

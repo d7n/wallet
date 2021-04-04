@@ -1,1 +1,1 @@
-var mnemonic = "manual canyon license lunch cluster edge hub today fuel follow tenant between";
+var mnemonic = "embody lady inherit guess sand certain kit crack twin vapor install despair";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck fire laptop knife host allow top shed legend snap army amateur";
+var mnemonic = "quote hedgehog nuclear stadium depth ribbon wish shrug panic speak bridge inherit";

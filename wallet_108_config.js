@@ -1,1 +1,1 @@
-var mnemonic = "private sea lesson pigeon ordinary impulse often earn eyebrow vault suffer joke";
+var mnemonic = "pulse remove rare matrix skull north just life broken damage sister couple";

@@ -1,1 +1,1 @@
-var mnemonic = "gold oyster fiction strategy april garlic strategy key brand witness arch collect";
+var mnemonic = "infant maid broom poem donkey approve evidence pen flame option tornado jelly";

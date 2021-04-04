@@ -1,1 +1,1 @@
-var mnemonic = "beef visit pill move churn culture ten loop remain noise switch morning";
+var mnemonic = "chase country fault school misery olive awful peace cup soap juice general";

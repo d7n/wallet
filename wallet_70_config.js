@@ -1,1 +1,1 @@
-var mnemonic = "phrase perfect album gossip menu crane useless minimum organ genre embody earth";
+var mnemonic = "enroll achieve nose metal detect acquire marble doctor core deputy ghost certain";

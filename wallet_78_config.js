@@ -1,1 +1,1 @@
-var mnemonic = "bubble cause together shift maid rhythm clerk old world cloud prepare hello";
+var mnemonic = "short perfect struggle gate end episode item twist phrase horror caution slab";

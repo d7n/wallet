@@ -1,1 +1,1 @@
-var mnemonic = "evil trust hen subject define wire electric narrow guess plug nest oyster";
+var mnemonic = "hedgehog lecture eye include cart hurt pulp core company trophy ceiling fence";

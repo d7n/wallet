@@ -1,1 +1,1 @@
-var mnemonic = "shed danger ozone define train cart trash neglect story spell claim symbol";
+var mnemonic = "coil absorb fabric cloth shoe start smart critic horror monitor belt sniff";

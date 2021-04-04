@@ -1,1 +1,1 @@
-var mnemonic = "fly old razor eternal recipe visual obtain seed they abuse involve miss";
+var mnemonic = "valley harsh soldier sign river depend snow head flame color certain club";

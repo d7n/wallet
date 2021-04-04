@@ -1,1 +1,1 @@
-var mnemonic = "patient echo mercy loyal cram drum auction sugar obvious shiver catch kitchen";
+var mnemonic = "cotton cluster picture treat spring dove owner spoil original lamp attitude upset";

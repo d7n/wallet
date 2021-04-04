@@ -1,1 +1,1 @@
-var mnemonic = "label surface enemy rhythm special spare joy rather small wonder regular flower";
+var mnemonic = "repeat enable cherry you gather velvet chief broccoli rich wool ship scrap";

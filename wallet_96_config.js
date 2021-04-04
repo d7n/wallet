@@ -1,1 +1,1 @@
-var mnemonic = "tower pluck dragon cycle margin gossip deer recycle poet erupt dragon wait";
+var mnemonic = "strike velvet orphan just earth table sadness focus party fly universe find";

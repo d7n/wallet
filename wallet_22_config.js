@@ -1,1 +1,1 @@
-var mnemonic = "search topple attitude clog stage stand inch spread live train coyote border";
+var mnemonic = "present clay clerk knock legal device tomorrow put spin idle speed moral";

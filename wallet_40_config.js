@@ -1,1 +1,1 @@
-var mnemonic = "decrease spend use tuition impact tired cake vacant target glare nature play";
+var mnemonic = "purity buyer concert lava fee copper right image equal zero mad tree";

@@ -1,1 +1,1 @@
-var mnemonic = "shove sponsor staff drastic organ subject weird earn leopard umbrella tennis under";
+var mnemonic = "boy shine minor prison auction error erase room foam improve fitness need";

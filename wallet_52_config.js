@@ -1,1 +1,1 @@
-var mnemonic = "change cram arctic gold slide one hurdle shoe name album access laptop";
+var mnemonic = "mobile cattle dumb city eye polar diamond much shadow path impose wise";

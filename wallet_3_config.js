@@ -1,1 +1,1 @@
-var mnemonic = "kid slam guess budget stage dilemma resemble vapor term trap city remove";
+var mnemonic = "doll sound peanut quote misery slight kiwi song sausage cradle film exhaust";

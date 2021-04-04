@@ -1,1 +1,1 @@
-var mnemonic = "brother shoot polar license soap major wing build broccoli year warrior dune";
+var mnemonic = "hospital finish bulk donkey electric inhale road frequent tired timber output kiwi";

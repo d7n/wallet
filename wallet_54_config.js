@@ -1,1 +1,1 @@
-var mnemonic = "fantasy rescue this steak sustain enroll curve mean elephant note border grow";
+var mnemonic = "purity country power bracket affair advice radar weasel truth hockey pave combine";

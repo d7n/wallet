@@ -1,1 +1,1 @@
-var mnemonic = "settle boy misery way baby stone north crater try camera jewel term";
+var mnemonic = "soon vital visa private various correct budget theory patrol wolf extend wrap";

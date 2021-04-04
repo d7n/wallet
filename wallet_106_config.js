@@ -1,1 +1,1 @@
-var mnemonic = "innocent tissue orphan weather camp change wine find sea pencil sea panda";
+var mnemonic = "vote inmate library extra near limb absent file blouse grunt frame crystal";

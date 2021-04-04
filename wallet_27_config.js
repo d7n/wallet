@@ -1,1 +1,1 @@
-var mnemonic = "shrug manual leisure circle promote noise infant turkey cigar genius young muffin";
+var mnemonic = "rent fuel add grocery rubber orphan unable tribe spell buddy foam forum";

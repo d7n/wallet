@@ -1,1 +1,1 @@
-var mnemonic = "upon stuff success shy repeat try park animal asset suspect fuel gospel";
+var mnemonic = "neck carry wash glide yard ensure abuse face ginger stable teach drift";

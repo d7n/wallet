@@ -1,1 +1,1 @@
-var mnemonic = "hidden spoil twenty final unusual angry garbage absurd run pyramid abstract member";
+var mnemonic = "giant twin enough lab belt usage satoshi media urban awake result organ";

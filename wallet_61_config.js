@@ -1,1 +1,1 @@
-var mnemonic = "mansion comic cause maximum meadow shoe involve cook card crazy gasp carry";
+var mnemonic = "tape refuse dismiss duty once pudding lion sand that donkey situate blast";

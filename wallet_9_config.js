@@ -1,1 +1,1 @@
-var mnemonic = "okay unaware piece shift action fortune level rubber embrace mistake lab police";
+var mnemonic = "galaxy click couch name fancy come tourist rule faith market script dry";

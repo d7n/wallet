@@ -1,1 +1,1 @@
-var mnemonic = "pull essence style vote jungle useful concert later mercy divorce invest sheriff";
+var mnemonic = "weird wall road term announce job evil bid gasp work antenna mountain";

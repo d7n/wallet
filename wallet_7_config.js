@@ -1,1 +1,1 @@
-var mnemonic = "better pulse gift ribbon monitor tone push silver online afraid daring end";
+var mnemonic = "square glad stadium face middle gold raw shadow truck coast october hedgehog";

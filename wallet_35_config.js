@@ -1,1 +1,1 @@
-var mnemonic = "energy cancel video album powder van business message mechanic keen slide order";
+var mnemonic = "inside rice region witness innocent tag cage crush broken farm safe board";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset gown puzzle puppy kiss bracket indicate minor friend radar glow gift";
+var mnemonic = "spawn kid focus choice ask enrich bar sudden machine river wool flight";

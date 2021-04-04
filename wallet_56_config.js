@@ -1,1 +1,1 @@
-var mnemonic = "skate squeeze inmate type unhappy penalty seed ethics alcohol paddle size have";
+var mnemonic = "tonight shine motion stuff tray aerobic final lab spider regret panda smart";

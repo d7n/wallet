@@ -1,1 +1,1 @@
-var mnemonic = "menu permit grain act okay finish about depth scheme renew change never";
+var mnemonic = "humor woman please frown enact wing object gather screen task logic juice";

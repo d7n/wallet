@@ -1,1 +1,1 @@
-var mnemonic = "pelican burger grape home nothing normal buyer promote sense moment assault snack";
+var mnemonic = "nice stage august grape impose silk ordinary become tent prepare afraid mask";

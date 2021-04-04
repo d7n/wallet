@@ -1,1 +1,1 @@
-var mnemonic = "siege apart vacant mail census actor ghost kit arrive black open nut";
+var mnemonic = "artist joke autumn raise body raven random history castle ice absorb injury";
