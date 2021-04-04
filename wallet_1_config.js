@@ -1,1 +1,1 @@
-var mnemonic = "holiday cycle insane nest journey turn boost bubble hole stereo early dawn";
+var mnemonic = "clump napkin inch captain coffee document response decide check ankle fame whisper";

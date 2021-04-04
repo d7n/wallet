@@ -1,1 +1,1 @@
-var mnemonic = "movie defense fiscal jump decline senior interest security panther joy limit opinion";
+var mnemonic = "shop truth orphan slim lounge acid pigeon upon leaf learn jelly exist";

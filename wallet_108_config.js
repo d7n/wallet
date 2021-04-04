@@ -1,1 +1,1 @@
-var mnemonic = "age only aware keep earn ripple thrive vicious again bracket cool put";
+var mnemonic = "file position quick enter age aunt fade emotion chat lens brisk aisle";

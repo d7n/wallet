@@ -1,1 +1,1 @@
-var mnemonic = "doll another mountain rebuild explain winner target trade evolve bicycle pledge child";
+var mnemonic = "tissue notice success essay armor merry blue drift quick boat valley clever";

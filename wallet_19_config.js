@@ -1,1 +1,1 @@
-var mnemonic = "odor genuine zone tenant basic friend nephew vibrant tail fault bronze robust";
+var mnemonic = "inflict elite dove color income electric swamp decline private make thought cannon";

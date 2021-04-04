@@ -1,1 +1,1 @@
-var mnemonic = "salmon essay peasant they love random comfort clarify town sauce prefer shield";
+var mnemonic = "emotion debris duck federal wear cube inquiry vague soul artwork rent foam";

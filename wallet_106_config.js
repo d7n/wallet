@@ -1,1 +1,1 @@
-var mnemonic = "soccer nest hurdle genre melody about wonder real lion dignity visit link";
+var mnemonic = "pave library march rare visual useless dish dial ignore model math pulse";

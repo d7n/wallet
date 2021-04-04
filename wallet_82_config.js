@@ -1,1 +1,1 @@
-var mnemonic = "stamp nation good receive helmet moon pill balcony chicken raven object depart";
+var mnemonic = "people jeans make half birth magnet chat town license tonight below club";

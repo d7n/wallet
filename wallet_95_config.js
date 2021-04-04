@@ -1,1 +1,1 @@
-var mnemonic = "seed coil auction lobster hole spot repeat beach chief slim service math";
+var mnemonic = "doll hill attend universe organ duck satoshi grab hole enhance envelope note";

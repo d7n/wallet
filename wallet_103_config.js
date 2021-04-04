@@ -1,1 +1,1 @@
-var mnemonic = "still kitten dentist matrix goddess bamboo order hedgehog bullet demise merit already";
+var mnemonic = "leave rural attack suggest symptom toast hurdle country ginger crouch copy humble";

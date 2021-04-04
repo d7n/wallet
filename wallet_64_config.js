@@ -1,1 +1,1 @@
-var mnemonic = "laundry all riot old burst girl kick caution slice deposit cushion spread";
+var mnemonic = "little simple surface sound cluster inquiry aisle rapid slight trigger elite wreck";

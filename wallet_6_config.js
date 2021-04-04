@@ -1,1 +1,1 @@
-var mnemonic = "breeze purity ahead supply cross square insect garbage boat lunch allow memory";
+var mnemonic = "start pencil census quit exotic hunt lounge flag stove discover rather hybrid";

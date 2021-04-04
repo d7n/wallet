@@ -1,1 +1,1 @@
-var mnemonic = "hen social shoulder six expose wheel opera narrow physical alley toward neck";
+var mnemonic = "patrol celery stage almost gift wish float wheel dilemma retire chalk list";

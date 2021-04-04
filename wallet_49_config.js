@@ -1,1 +1,1 @@
-var mnemonic = "shuffle tiger garden cat carbon clerk couple pepper ski skirt reduce luxury";
+var mnemonic = "right fat empower bomb crowd nest liberty ostrich frozen state gauge purchase";

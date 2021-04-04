@@ -1,1 +1,1 @@
-var mnemonic = "airport knee mixed isolate answer butter sample brown marriage federal peanut rigid";
+var mnemonic = "guide capable cause curious essay holiday basic correct stock waste old hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "music steel air conduct mask inject afford question wear evidence gold october";
+var mnemonic = "viable play ensure cute kid caution eight prize aware wheel exercise blue";

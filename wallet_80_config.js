@@ -1,1 +1,1 @@
-var mnemonic = "exhaust ship price bunker accident winner poem patient tomorrow sport bitter final";
+var mnemonic = "attend stamp identify daring bar any sunny uncle pink cloth debate company";

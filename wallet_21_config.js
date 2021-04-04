@@ -1,1 +1,1 @@
-var mnemonic = "shop can pyramid rally one write airport age play coil pen mule";
+var mnemonic = "moon spoil page six accident spatial stable range grace orbit main key";

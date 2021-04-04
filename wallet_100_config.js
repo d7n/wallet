@@ -1,1 +1,1 @@
-var mnemonic = "lonely update capable undo ski lawsuit guard unusual between addict basket border";
+var mnemonic = "heart arena marble combine insane hope mercy follow soccer relax depend clever";

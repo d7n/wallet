@@ -1,1 +1,1 @@
-var mnemonic = "boring fantasy book illness into model rude quarter opera tissue sting label";
+var mnemonic = "nest glance snake maximum range demand cake amused chef tumble soft poverty";

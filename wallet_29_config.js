@@ -1,1 +1,1 @@
-var mnemonic = "gravity screen enrich weasel siege assault flash pause hollow pencil seed suffer";
+var mnemonic = "bundle include friend lake bag urban someone climb glad term spring worry";

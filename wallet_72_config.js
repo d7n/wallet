@@ -1,1 +1,1 @@
-var mnemonic = "brown disorder sand twice shiver toy trip monitor link grunt tonight smart";
+var mnemonic = "flavor where major disagree reunion sword zero example torch use argue raccoon";

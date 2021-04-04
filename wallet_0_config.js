@@ -1,1 +1,1 @@
-var mnemonic = "habit differ dose afford number soldier advice wisdom box fragile install shadow";
+var mnemonic = "attitude annual perfect plate pumpkin unknown weather gauge skate steel friend risk";

@@ -1,1 +1,1 @@
-var mnemonic = "keep spray hammer stuff gossip already huge dry minor witness hockey ordinary";
+var mnemonic = "best veteran warm basket picnic major motor chief actress flavor metal mother";

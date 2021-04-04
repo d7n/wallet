@@ -1,1 +1,1 @@
-var mnemonic = "boy limb idle nuclear crack couch access lonely bone process crater oven";
+var mnemonic = "defy goat cherry napkin comfort address cluster depth tattoo online peasant badge";

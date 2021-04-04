@@ -1,1 +1,1 @@
-var mnemonic = "salad tennis mansion feed false ill stuff type wife super bracket tobacco";
+var mnemonic = "mimic key express artist draw found laundry egg culture enroll chef average";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude index purpose purchase fire tomato remain help actress kiss van enhance";
+var mnemonic = "safe response cotton anchor ozone pony shoe engage weird tag render hammer";

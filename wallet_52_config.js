@@ -1,1 +1,1 @@
-var mnemonic = "protect any disagree drip fan long stove sibling bless ten super coconut";
+var mnemonic = "loud total surge flush bleak mountain turkey tent decide deposit speak remember";

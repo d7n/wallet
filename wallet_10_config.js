@@ -1,1 +1,1 @@
-var mnemonic = "race ceiling love aerobic reflect curve praise equal staff select clerk under";
+var mnemonic = "chapter episode cannon book forget observe poverty street below stadium unique able";

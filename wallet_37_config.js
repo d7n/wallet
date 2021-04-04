@@ -1,1 +1,1 @@
-var mnemonic = "measure soccer people alert soft vacuum remind thought attract glimpse wrap wait";
+var mnemonic = "race shove sudden sound income govern illness lonely stage acid robust electric";

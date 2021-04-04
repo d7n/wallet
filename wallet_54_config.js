@@ -1,1 +1,1 @@
-var mnemonic = "edge tiger mixed party shadow health where popular clinic figure empower viable";
+var mnemonic = "wisdom that dumb enforce hard now about phone pencil twist icon aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain hat shadow labor live shift enroll total another sound silver lab";
+var mnemonic = "hamster shove sister renew nature scatter romance copy figure meat gaze menu";

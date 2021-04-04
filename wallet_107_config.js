@@ -1,1 +1,1 @@
-var mnemonic = "holiday educate soccer settle join fog fall scheme review spike symbol rent";
+var mnemonic = "galaxy obvious stock topple clean piano beef wood beef cactus faint smooth";

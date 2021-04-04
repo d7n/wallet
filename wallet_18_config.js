@@ -1,1 +1,1 @@
-var mnemonic = "around idle april afraid dice subway soon fold uncover rack hotel eight";
+var mnemonic = "year february hero barrel organ certain nurse parade know deer deliver fatal";

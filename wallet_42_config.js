@@ -1,1 +1,1 @@
-var mnemonic = "seven escape town despair doll bulb always gorilla roof bicycle panther bamboo";
+var mnemonic = "badge amateur slice favorite undo praise object rifle opera alter cost section";

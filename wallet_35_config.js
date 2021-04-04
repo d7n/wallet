@@ -1,1 +1,1 @@
-var mnemonic = "protect manual book dice advice guess swallow thunder behave raven angry maze";
+var mnemonic = "salute sting carpet path matter fat edge ramp crunch today main then";

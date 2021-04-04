@@ -1,1 +1,1 @@
-var mnemonic = "olive calm robust exclude unknown shiver sweet guilt virtual skirt walnut delay";
+var mnemonic = "echo resemble copper barely mixed afraid glow bitter alter coil check bench";

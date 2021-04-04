@@ -1,1 +1,1 @@
-var mnemonic = "door issue cupboard midnight type divorce energy excess town acoustic fat vocal";
+var mnemonic = "favorite access crater theory pledge pulse still pair olive floor hand crater";

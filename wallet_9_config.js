@@ -1,1 +1,1 @@
-var mnemonic = "oak train install affair blast coach budget long theory globe hill sweet";
+var mnemonic = "member dish six surge blame knife lamp pair critic marriage fan few";

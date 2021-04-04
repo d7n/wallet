@@ -1,1 +1,1 @@
-var mnemonic = "couple pond domain leader order exhibit yellow muscle pyramid man primary sustain";
+var mnemonic = "island ancient head breeze scrub couple fury glance desert clinic wise curtain";

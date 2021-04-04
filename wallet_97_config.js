@@ -1,1 +1,1 @@
-var mnemonic = "used pipe kingdom flight exhaust guard worry palm clinic crumble main planet";
+var mnemonic = "torch grab nerve bunker bean guilt priority captain diamond find chimney aim";

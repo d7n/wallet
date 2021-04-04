@@ -1,1 +1,1 @@
-var mnemonic = "tail subject retire fiber bicycle empower win wreck struggle bamboo until uphold";
+var mnemonic = "online dad bounce finger tenant equip another fantasy major work denial heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "always opera crane great method burden raw cute bundle regular choice fame";
+var mnemonic = "pen also phrase misery detect lonely family neutral metal bullet exhaust notable";

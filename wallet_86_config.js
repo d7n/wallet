@@ -1,1 +1,1 @@
-var mnemonic = "dynamic custom usage farm aisle chest travel stomach judge wait lift dirt";
+var mnemonic = "purchase thank hurt useful praise metal portion fragile world taste skate mail";

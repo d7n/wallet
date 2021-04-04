@@ -1,1 +1,1 @@
-var mnemonic = "crystal race birth ask deer bid illness surface session bundle wrong vote";
+var mnemonic = "script book pudding mammal wash sniff glue include fiscal bargain have feature";

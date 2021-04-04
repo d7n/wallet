@@ -1,1 +1,1 @@
-var mnemonic = "glimpse suspect stable project tube truly between neutral assault current huge draw";
+var mnemonic = "metal ceiling drum bulb frequent soul rent remove blade brother script rack";

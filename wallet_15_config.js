@@ -1,1 +1,1 @@
-var mnemonic = "trip warfare will order cactus cave victory agree primary end rich tiger";
+var mnemonic = "hollow success liberty rocket oven relief maid elbow laptop ahead weapon pigeon";

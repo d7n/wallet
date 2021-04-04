@@ -1,1 +1,1 @@
-var mnemonic = "lesson pencil veteran amateur honey index vehicle uncle gap teach yellow enroll";
+var mnemonic = "sphere phrase venture kiss increase hard frown tennis cannon erupt apart gossip";

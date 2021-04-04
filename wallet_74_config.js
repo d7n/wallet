@@ -1,1 +1,1 @@
-var mnemonic = "pencil syrup embody habit already favorite column brick report pencil oxygen outdoor";
+var mnemonic = "favorite void essence easy spread resemble sorry cherry tuition remind peasant notable";

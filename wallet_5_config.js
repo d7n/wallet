@@ -1,1 +1,1 @@
-var mnemonic = "meadow desert image umbrella mansion ghost enroll inhale toy pistol reward news";
+var mnemonic = "amazing web ability nest odor sniff salad diamond action rifle ordinary ozone";

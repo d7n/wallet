@@ -1,1 +1,1 @@
-var mnemonic = "evoke prefer juice wealth lottery submit benefit pistol offer royal century lava";
+var mnemonic = "grape spend mansion summer lumber black beyond maid damp pretty couple taste";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle clinic tide stone tortoise genius pony gas wood talk menu arrange";
+var mnemonic = "dismiss chief survey thing drip fluid bid coconut position crunch private miss";

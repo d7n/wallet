@@ -1,1 +1,1 @@
-var mnemonic = "pencil note submit carbon square example cruise banner fee junk meat parrot";
+var mnemonic = "ability wheat differ elite snack loyal little actor maple zero lesson zero";

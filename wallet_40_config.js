@@ -1,1 +1,1 @@
-var mnemonic = "moon note digital receive glory april boy quality pigeon multiply race toilet";
+var mnemonic = "inside time invest average mule smart glance cream client finish fold trade";

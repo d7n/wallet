@@ -1,1 +1,1 @@
-var mnemonic = "question such message seminar movie remember ski romance minute bronze raccoon crime";
+var mnemonic = "grit town claw visual there fire appear cinnamon future dismiss problem script";

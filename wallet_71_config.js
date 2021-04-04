@@ -1,1 +1,1 @@
-var mnemonic = "mass portion decade quarter clump hard robust elegant obtain illness glue boss";
+var mnemonic = "exit marine hip joke pull echo stuff large open buddy ivory job";

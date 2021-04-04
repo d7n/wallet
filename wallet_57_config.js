@@ -1,1 +1,1 @@
-var mnemonic = "town ship tiger decide paddle hire oven lady phone domain august teach";
+var mnemonic = "supreme raven pulse chief double chapter disorder convince marble ancient muffin cook";

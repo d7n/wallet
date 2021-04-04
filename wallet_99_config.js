@@ -1,1 +1,1 @@
-var mnemonic = "domain pilot barrel rather strike deputy curious glare announce shoe promote climb";
+var mnemonic = "guard scene razor annual giant magnet vacuum lion remember royal hybrid enlist";

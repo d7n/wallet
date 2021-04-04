@@ -1,1 +1,1 @@
-var mnemonic = "noble parrot cool embrace vault absorb six prefer amateur hawk where auction";
+var mnemonic = "gorilla high above bone defense wine tunnel net dish level whale analyst";

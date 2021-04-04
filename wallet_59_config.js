@@ -1,1 +1,1 @@
-var mnemonic = "invest topic scheme twin cube occur tortoise sibling salad tilt ceiling because";
+var mnemonic = "illness cart turtle inform danger shove casual below cry elegant uphold offer";

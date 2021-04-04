@@ -1,1 +1,1 @@
-var mnemonic = "veteran fuel wrong supreme toy bleak hurry credit unique jump number damp";
+var mnemonic = "duck tuna hundred plate supply sausage faint govern burst pair trend federal";

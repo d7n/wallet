@@ -1,1 +1,1 @@
-var mnemonic = "above cart pole hamster sign degree situate suspect leopard dice occur hill";
+var mnemonic = "video trim deposit diary slam yard front gorilla flip truth ring swing";

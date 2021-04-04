@@ -1,1 +1,1 @@
-var mnemonic = "fine chuckle sunset feed feed comic network peasant side labor assist divide";
+var mnemonic = "skate beyond citizen copper cook royal invite slice empower define vast call";

@@ -1,1 +1,1 @@
-var mnemonic = "news truck custom palace scheme battle chronic source wrist pilot admit collect";
+var mnemonic = "yellow mutual flee peasant method radio venture copy six involve sausage other";

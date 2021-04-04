@@ -1,1 +1,1 @@
-var mnemonic = "civil attend clinic chicken despair street skull mirror boil senior slow hockey";
+var mnemonic = "scene supreme vote local unique indicate program convince bottom expand only kit";

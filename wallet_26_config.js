@@ -1,1 +1,1 @@
-var mnemonic = "unaware dolphin dignity plastic fine yard apple midnight tomato minor wage shock";
+var mnemonic = "ribbon print sustain rhythm october try advance exist usual forest drum cash";

@@ -1,1 +1,1 @@
-var mnemonic = "correct mixed ancient risk door mention online awesome dose unhappy street keen";
+var mnemonic = "fabric victory evidence space burst horse canal hold brief soap rare plate";

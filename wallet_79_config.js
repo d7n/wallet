@@ -1,1 +1,1 @@
-var mnemonic = "nut defy arrest balcony lesson loud alone hover solution aerobic stone cinnamon";
+var mnemonic = "mansion inside able sun pyramid wagon bounce crane fortune hair true solid";

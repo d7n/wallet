@@ -1,1 +1,1 @@
-var mnemonic = "during identify noise lumber tribe turn stereo cross happy patch unusual public";
+var mnemonic = "absorb lava menu evil ribbon snap grain snack program cliff parrot weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "decade like defense copy marine manual portion shaft curve false north hood";
+var mnemonic = "chest fantasy gentle can hedgehog cute word lady image violin bring slush";

@@ -1,1 +1,1 @@
-var mnemonic = "element phone bright surprise swear walk glory leg crush husband minimum gloom";
+var mnemonic = "quantum brush boss shop hedgehog october this receive jazz lift dinosaur key";

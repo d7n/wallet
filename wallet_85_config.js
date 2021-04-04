@@ -1,1 +1,1 @@
-var mnemonic = "attend dance frown balcony leopard eager state gold snake neutral pipe add";
+var mnemonic = "industry memory left endless tape city toy split elite spot room popular";

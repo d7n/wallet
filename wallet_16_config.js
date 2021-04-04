@@ -1,1 +1,1 @@
-var mnemonic = "dad swim bullet female frog sorry roast view chat hair purity oil";
+var mnemonic = "sad garage artwork infant actor vault hint salt install wall cruel vivid";

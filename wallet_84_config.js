@@ -1,1 +1,1 @@
-var mnemonic = "split private garden subject permit umbrella idle bomb tennis motor skirt prize";
+var mnemonic = "cheese gather fix pelican bleak grief catalog decorate peasant allow tumble fringe";

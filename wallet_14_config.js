@@ -1,1 +1,1 @@
-var mnemonic = "cake horror useful all brass cage tube uncover power concert skill clutch";
+var mnemonic = "share indicate health chuckle involve say length blouse all wine happy exist";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent symptom weird wood shaft inhale place oppose apple ketchup man fresh";
+var mnemonic = "dynamic alarm fiber vibrant ugly draw regret riot twist weird despair cycle";

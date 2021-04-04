@@ -1,1 +1,1 @@
-var mnemonic = "educate sound teach mouse exotic strong thought bachelor cinnamon hope time auto";
+var mnemonic = "increase notice sunny have bunker life iron melt bind uphold chapter diagram";

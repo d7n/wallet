@@ -1,1 +1,1 @@
-var mnemonic = "riot warrior must velvet toss account lava decline loyal upon tourist clerk";
+var mnemonic = "elegant comfort riot body matrix drastic banana attack raise curtain glide victory";

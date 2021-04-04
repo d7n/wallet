@@ -1,1 +1,1 @@
-var mnemonic = "dish strong main vast focus palm style chuckle wolf ankle kite tank";
+var mnemonic = "coil face later clump embark carpet pulse lock wine aspect decorate upset";

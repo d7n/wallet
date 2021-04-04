@@ -1,1 +1,1 @@
-var mnemonic = "verify disease where depend piano clerk bunker scan hurdle conduct pink avoid";
+var mnemonic = "carpet step fish resemble prison polar private erode village pepper illness hint";

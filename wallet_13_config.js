@@ -1,1 +1,1 @@
-var mnemonic = "spin fix sound smile energy answer control divert ski frozen hat dutch";
+var mnemonic = "distance pencil initial sock ensure invite install proud behind kidney fluid battle";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence lend brand surface month surge similar lady jeans response sweet jewel";
+var mnemonic = "sudden frequent mechanic include tag lion agree whip unit flame present burden";

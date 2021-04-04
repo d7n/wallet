@@ -1,1 +1,1 @@
-var mnemonic = "gravity snack bundle door industry apology scissors pumpkin slender walnut super lab";
+var mnemonic = "patch sister need survey sorry crowd consider sand early young clump obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "father cram sauce cross tunnel absorb spirit velvet erosion business obey swear";
+var mnemonic = "juice supply bless grant opinion home element access pioneer inmate heavy worth";

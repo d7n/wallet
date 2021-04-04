@@ -1,1 +1,1 @@
-var mnemonic = "unit calm neglect kit dash tobacco sniff shoulder mad beauty clock kidney";
+var mnemonic = "claim heart remain race cradle alert perfect piano doctor leader often summer";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor river gauge leader hand weather proof truck stove actual gauge trip";
+var mnemonic = "era error science fee diary build mask report convince quantum quick output";

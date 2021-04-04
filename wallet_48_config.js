@@ -1,1 +1,1 @@
-var mnemonic = "decide news only rent echo exotic globe picnic fall quiz have police";
+var mnemonic = "grass life valley supply tumble deny bunker cube next motion extra wish";

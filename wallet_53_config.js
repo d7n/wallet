@@ -1,1 +1,1 @@
-var mnemonic = "about famous speed length oval faculty opinion ahead mass west praise tenant";
+var mnemonic = "disagree rice valve steak master old corn magic marriage ribbon flight hybrid";

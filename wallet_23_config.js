@@ -1,1 +1,1 @@
-var mnemonic = "piece private october egg cloud mom lawn pink spare health fall since";
+var mnemonic = "cruise gate fault basic drop wagon height margin hope near annual magnet";

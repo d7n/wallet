@@ -1,1 +1,1 @@
-var mnemonic = "danger bag fame program exact bid spin please obscure permit eight truck";
+var mnemonic = "bird swim common myth explain isolate tissue reflect all barrel baby tomato";

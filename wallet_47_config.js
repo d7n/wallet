@@ -1,1 +1,1 @@
-var mnemonic = "display double buffalo memory elephant expire lazy awful output favorite select suspect";
+var mnemonic = "achieve lyrics scare ketchup awake friend hurdle scheme have stone wash insane";

@@ -1,1 +1,1 @@
-var mnemonic = "stable cereal rose negative super amused analyst walk glide nut pioneer describe";
+var mnemonic = "friend license face try later domain photo glory filter approve vault renew";

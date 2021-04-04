@@ -1,1 +1,1 @@
-var mnemonic = "label estate dawn rose tired amateur opinion spike season trial grab town";
+var mnemonic = "camera actor dove route pet phone crawl used element mobile pool green";

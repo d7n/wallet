@@ -1,1 +1,1 @@
-var mnemonic = "access harsh weather region barrel detect engine giggle genuine type know final";
+var mnemonic = "heavy table base window crop awful project chat risk catch surprise great";

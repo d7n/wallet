@@ -1,1 +1,1 @@
-var mnemonic = "accident sauce sword pass earth custom camp negative chalk edit history imitate";
+var mnemonic = "flash cereal large risk off unfold wonder accident earth task gold whip";

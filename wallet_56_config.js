@@ -1,1 +1,1 @@
-var mnemonic = "angry egg impulse reduce isolate urban bicycle indicate chaos brick stem parade";
+var mnemonic = "aspect citizen promote boy depend life vocal ripple income special remember round";

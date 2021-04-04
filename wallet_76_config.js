@@ -1,1 +1,1 @@
-var mnemonic = "caution ceiling swing spell wolf connect path glue clog agree document honey";
+var mnemonic = "deal special orbit already cancel shuffle coach keen bonus parrot coconut father";
