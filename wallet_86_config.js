@@ -1,1 +1,1 @@
-var mnemonic = "snack ignore train banner flush screen flip scout early clump awesome jar";
+var mnemonic = "travel illegal fade tongue journey august shoulder consider creek reopen cruise chat";

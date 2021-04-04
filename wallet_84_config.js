@@ -1,1 +1,1 @@
-var mnemonic = "spring idle tank hedgehog token breeze under bike alert medal climb wire";
+var mnemonic = "client foot enroll alter best radio door bamboo east sock copy replace";

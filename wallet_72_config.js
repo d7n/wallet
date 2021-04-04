@@ -1,1 +1,1 @@
-var mnemonic = "arrest scare unusual home thank purse code sword settle search illness bunker";
+var mnemonic = "repair armed charge culture dignity blush chaos clap fatal virus industry aerobic";

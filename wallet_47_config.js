@@ -1,1 +1,1 @@
-var mnemonic = "veteran supreme alcohol scare luxury shadow cake moment cruise bid aunt follow";
+var mnemonic = "powder scheme rifle pudding tribe fit arrow slight muscle share evolve congress";

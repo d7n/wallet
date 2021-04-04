@@ -1,1 +1,1 @@
-var mnemonic = "setup liberty inmate crucial into safe burger tell case copper soap before";
+var mnemonic = "story buyer garbage useful shift perfect mistake come easy brush jacket wash";

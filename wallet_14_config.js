@@ -1,1 +1,1 @@
-var mnemonic = "mouse spice supreme adult april leader vital gravity fade useless brass expand";
+var mnemonic = "kick release negative powder tiger develop accident diamond motion neutral blur agree";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth actor barrel conduct detail icon tide sure auction insane roof solution";
+var mnemonic = "flash face coil second rate chest morning error area observe alert discover";

@@ -1,1 +1,1 @@
-var mnemonic = "reward borrow deliver sunset excuse coil okay security wrap hollow oval snake";
+var mnemonic = "there cost play base border acquire movie waste vehicle appear aspect tornado";

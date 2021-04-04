@@ -1,1 +1,1 @@
-var mnemonic = "race inside giraffe multiply theme enforce amount special until luggage mosquito vital";
+var mnemonic = "embrace barely story uphold shock crane nasty antique soccer degree boost step";

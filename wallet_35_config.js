@@ -1,1 +1,1 @@
-var mnemonic = "used upper rotate garlic inch elevator egg bar salad awake have gap";
+var mnemonic = "liberty rack park alien panic mesh copper student artefact shy tonight noble";

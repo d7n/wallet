@@ -1,1 +1,1 @@
-var mnemonic = "genius action robust trick false stuff neutral hen brass awkward shoulder dismiss";
+var mnemonic = "recall prison demise learn bullet mouse kitchen pepper alpha picnic ivory age";

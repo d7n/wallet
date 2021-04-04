@@ -1,1 +1,1 @@
-var mnemonic = "embark dust country combine luxury tattoo license spike shallow minute gesture topple";
+var mnemonic = "extend change vague market abstract begin furnace stairs install limit undo retreat";

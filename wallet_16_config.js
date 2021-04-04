@@ -1,1 +1,1 @@
-var mnemonic = "blind admit tree topple pave blur donkey hen beef rug civil bike";
+var mnemonic = "message story paddle leg odor buddy skin armor radio essence size code";

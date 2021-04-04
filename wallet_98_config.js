@@ -1,1 +1,1 @@
-var mnemonic = "machine disease castle unaware calm diary type dizzy shell dream town one";
+var mnemonic = "mouse steel wool proud goddess column choice own foil acid edit month";

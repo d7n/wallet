@@ -1,1 +1,1 @@
-var mnemonic = "truth corn final jacket sea derive sketch exhaust screen helmet approve rate";
+var mnemonic = "evoke oyster kitten grow nature demand erosion garbage garbage enlist alien close";

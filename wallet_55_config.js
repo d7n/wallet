@@ -1,1 +1,1 @@
-var mnemonic = "quiz response rotate ramp wrist snake park prosper tide female say sleep";
+var mnemonic = "prize scheme control blouse nose tornado color entire rural system sign amused";

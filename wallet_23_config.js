@@ -1,1 +1,1 @@
-var mnemonic = "judge stable exit hover neutral kidney evoke pattern firm rule trim civil";
+var mnemonic = "cross weapon lunar public bulk today mobile execute guess orbit wait prefer";

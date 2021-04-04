@@ -1,1 +1,1 @@
-var mnemonic = "pill sausage ripple fix drip smart sister bachelor excuse about girl situate";
+var mnemonic = "industry exercise depend hedgehog convince adult fence stamp warm lake middle love";

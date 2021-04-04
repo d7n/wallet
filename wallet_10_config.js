@@ -1,1 +1,1 @@
-var mnemonic = "dynamic lazy book coffee bullet frown enhance raise jump leg crisp feed";
+var mnemonic = "pistol cup history grace hunt blind cool dial insane cause chimney elder";

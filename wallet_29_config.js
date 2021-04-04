@@ -1,1 +1,1 @@
-var mnemonic = "option easily wisdom retreat there clump false cage pear polar miracle dial";
+var mnemonic = "fork what fabric cereal general october champion dust bitter pull sad execute";

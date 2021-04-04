@@ -1,1 +1,1 @@
-var mnemonic = "opera finger bullet yard cave slush cabin explain foam sudden trumpet turkey";
+var mnemonic = "better pen inner episode unlock hood sting proud own gap trap rich";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade long drum armor sentence country ahead nose flavor amazing swim fringe";
+var mnemonic = "twin wide claim float cat they manage arrive awkward now sentence drive";

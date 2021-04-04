@@ -1,1 +1,1 @@
-var mnemonic = "blur negative involve arrange door slender clip large thank correct used example";
+var mnemonic = "woman clinic deliver fossil roof laptop diagram cook car magic anxiety income";

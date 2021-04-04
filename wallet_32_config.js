@@ -1,1 +1,1 @@
-var mnemonic = "sauce people jacket need lazy fitness fetch festival donkey tuition inject zoo";
+var mnemonic = "uphold subway wide garlic hill news town dog million bone evidence art";

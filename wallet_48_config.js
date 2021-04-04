@@ -1,1 +1,1 @@
-var mnemonic = "dinner error toward body veteran lava dismiss ocean insect bullet someone shuffle";
+var mnemonic = "tool patrol make race above switch inquiry jazz flush science omit element";

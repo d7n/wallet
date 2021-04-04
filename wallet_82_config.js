@@ -1,1 +1,1 @@
-var mnemonic = "final club fit surge movie rotate invest fiscal toy trumpet crash destroy";
+var mnemonic = "dutch oxygen dose drift minimum arrive wild harvest lake sunset vapor flame";

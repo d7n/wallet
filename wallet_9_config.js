@@ -1,1 +1,1 @@
-var mnemonic = "garlic night acquire uniform only return ball enough napkin theory wink kind";
+var mnemonic = "nut hero shop cotton indicate cram sunset champion escape february extend trim";

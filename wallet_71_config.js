@@ -1,1 +1,1 @@
-var mnemonic = "actual range hotel settle tortoise sheriff celery attract simple tackle peasant slow";
+var mnemonic = "renew broccoli stereo subject owner soda exit message various extra pass today";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse patch olympic cable chicken sword volume pond account raw admit affair";
+var mnemonic = "ten vocal extra embrace pluck trash earth camp aunt ivory street grass";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon property hand fantasy used input upper dynamic beyond hobby voyage kind";
+var mnemonic = "dice leg trick sense real thumb whip pottery rich inner layer distance";

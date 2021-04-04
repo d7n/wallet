@@ -1,1 +1,1 @@
-var mnemonic = "gaze chronic budget cancel foster better impose put click exist mom grape";
+var mnemonic = "ahead bacon peanut unable scan invest oblige lawsuit mansion flight yard panel";

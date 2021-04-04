@@ -1,1 +1,1 @@
-var mnemonic = "escape assault domain base original kingdom blade donkey roast define immune output";
+var mnemonic = "reject unusual where eagle visa keen brother danger raven diet pet novel";

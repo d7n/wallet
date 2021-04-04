@@ -1,1 +1,1 @@
-var mnemonic = "today word smile remove satisfy dog baby garbage sudden hedgehog approve then";
+var mnemonic = "glow calm gun hawk bottom tenant develop tumble copper fatigue garlic problem";

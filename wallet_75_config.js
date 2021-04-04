@@ -1,1 +1,1 @@
-var mnemonic = "giggle mammal forward powder service crew charge risk bulk load usage armed";
+var mnemonic = "clerk fossil exotic cheese cushion jelly ginger arm frame athlete cruise hip";

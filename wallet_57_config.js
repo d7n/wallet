@@ -1,1 +1,1 @@
-var mnemonic = "six struggle grit memory tenant situate blind cheese spoil pool beef cushion";
+var mnemonic = "deliver nest solid leader wet tool try bacon coil silly unfair gesture";

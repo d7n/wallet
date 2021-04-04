@@ -1,1 +1,1 @@
-var mnemonic = "abstract cliff empty gas post federal mansion shaft shock lava script expose";
+var mnemonic = "history liquid parrot normal fitness appear journey antique hello assault desert bright";

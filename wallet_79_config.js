@@ -1,1 +1,1 @@
-var mnemonic = "paper kid capable bachelor culture host donate deny army gap oven excess";
+var mnemonic = "mask pupil slim believe energy virus fantasy alpha violin silk bounce history";

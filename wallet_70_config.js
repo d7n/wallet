@@ -1,1 +1,1 @@
-var mnemonic = "ten wasp disease high distance uncover spend hen mean air lunch bleak";
+var mnemonic = "bird mountain menu floor must observe traffic interest scale unknown swing cave";

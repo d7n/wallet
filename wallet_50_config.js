@@ -1,1 +1,1 @@
-var mnemonic = "toy payment vocal remind during want imitate verify notice oak gain property";
+var mnemonic = "crime dash educate lottery whip evidence leave over catch galaxy giant frost";

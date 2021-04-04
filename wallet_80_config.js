@@ -1,1 +1,1 @@
-var mnemonic = "scrap run estate trash inquiry evolve nation welcome solve turn mosquito mansion";
+var mnemonic = "jacket avocado become theme object tower cross castle luggage annual there twice";

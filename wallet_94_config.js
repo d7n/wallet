@@ -1,1 +1,1 @@
-var mnemonic = "enlist ritual fan ostrich throw more good tip road shine virtual trial";
+var mnemonic = "link skate mass profit exhibit traffic coyote eyebrow industry pelican party rural";

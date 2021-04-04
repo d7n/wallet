@@ -1,1 +1,1 @@
-var mnemonic = "gasp man oak suggest twist fork drift demise loyal cruel leaf wild";
+var mnemonic = "happy okay blue eye alert doctor romance scale media nest matter business";

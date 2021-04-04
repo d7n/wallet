@@ -1,1 +1,1 @@
-var mnemonic = "physical baby reduce usual head science snack garment beef gallery tornado icon";
+var mnemonic = "business tattoo glimpse lottery goddess castle couple pizza leader review defy denial";

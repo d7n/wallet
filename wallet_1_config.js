@@ -1,1 +1,1 @@
-var mnemonic = "divide final lottery gospel repeat save salt light speed unlock refuse above";
+var mnemonic = "finger scare upon address siege improve tackle thunder differ drum evidence pond";

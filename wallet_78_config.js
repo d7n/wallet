@@ -1,1 +1,1 @@
-var mnemonic = "toy student fragile cage course ignore admit lucky end habit portion term";
+var mnemonic = "phrase typical display border noise current inner oil birth true buddy bacon";

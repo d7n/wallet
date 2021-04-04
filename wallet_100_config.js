@@ -1,1 +1,1 @@
-var mnemonic = "actress run else ketchup warrior obtain fork job humor exit announce rice";
+var mnemonic = "orient this gesture snow scatter effort mystery canvas north laugh alpha indoor";

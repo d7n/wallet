@@ -1,1 +1,1 @@
-var mnemonic = "dune zoo leader broom cheese task such hunt fame fold sell taxi";
+var mnemonic = "uniform find gorilla mutual bean demise post cycle impact photo comfort silk";

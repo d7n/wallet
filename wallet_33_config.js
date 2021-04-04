@@ -1,1 +1,1 @@
-var mnemonic = "inner spot repair cotton life aim proof sheriff owner hard initial tackle";
+var mnemonic = "stone tank lens finish useful transfer liberty crunch poverty verify error never";

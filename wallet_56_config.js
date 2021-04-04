@@ -1,1 +1,1 @@
-var mnemonic = "sell era behind lava minor mom journey before yellow moment uncle special";
+var mnemonic = "ribbon frame joy unhappy enforce rhythm flash mobile design velvet poem siege";

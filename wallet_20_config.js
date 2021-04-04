@@ -1,1 +1,1 @@
-var mnemonic = "minor client tape neutral owner food spider coffee tone treat episode nerve";
+var mnemonic = "silk family occur away nature lava come legal remember gossip tell rude";

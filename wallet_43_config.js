@@ -1,1 +1,1 @@
-var mnemonic = "moon collect tornado caught bag carry rare pet tray simple pulse apart";
+var mnemonic = "clerk bargain roast mobile unfair motion sniff random inherit aerobic drift maple";

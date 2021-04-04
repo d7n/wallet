@@ -1,1 +1,1 @@
-var mnemonic = "turtle thrive rescue actor draw scrap joke exhaust sand service industry quiz";
+var mnemonic = "author raccoon blade hungry name twice glory abstract fitness exercise trumpet praise";

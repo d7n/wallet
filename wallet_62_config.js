@@ -1,1 +1,1 @@
-var mnemonic = "hockey anchor velvet scheme piano power weapon moral mixture scare supply combine";
+var mnemonic = "leopard lottery assume loan grief cactus because soap aunt bless ramp script";

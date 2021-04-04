@@ -1,1 +1,1 @@
-var mnemonic = "normal valid frost army reopen parrot orphan tool snow budget repair step";
+var mnemonic = "ridge suggest wall because thought later cup bench oyster body party file";

@@ -1,1 +1,1 @@
-var mnemonic = "grid artefact hockey general solid dumb van grape welcome dove birth helmet";
+var mnemonic = "spell feature recipe priority notice knife shoe army fresh champion verb spatial";

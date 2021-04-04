@@ -1,1 +1,1 @@
-var mnemonic = "surface illness genius diagram paddle joy name okay shy saddle paddle volume";
+var mnemonic = "old weird defy plate goddess abstract drastic next grant casual often subject";

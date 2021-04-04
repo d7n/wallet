@@ -1,1 +1,1 @@
-var mnemonic = "chronic ahead order genre genius vintage develop trash pulp switch couch corn";
+var mnemonic = "dash payment hidden right essence approve hole trash trust slight myself survey";

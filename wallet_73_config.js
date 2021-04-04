@@ -1,1 +1,1 @@
-var mnemonic = "unaware eyebrow pizza property domain bitter enable quit credit inherit vessel screen";
+var mnemonic = "annual alter catalog vibrant mirror proud engine fatal safe denial lizard trip";

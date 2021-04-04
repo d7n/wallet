@@ -1,1 +1,1 @@
-var mnemonic = "just motion hidden glow flavor onion talent grief dutch pink topple misery";
+var mnemonic = "spy neutral stay toddler stable urge burst describe chunk valid energy faint";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion income flower net city camp magnet bless taste vintage estate front";
+var mnemonic = "noble opinion fluid robot sun soup maze please brother pelican sick mouse";

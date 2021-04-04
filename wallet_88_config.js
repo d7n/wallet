@@ -1,1 +1,1 @@
-var mnemonic = "globe chair brief drum check capable brave simple anger nurse decline first";
+var mnemonic = "route math rebuild gaze occur mean update hidden curious slogan element disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "piece drop similar only fabric book eternal slush orchard possible identify stuff";
+var mnemonic = "ancient frozen narrow private civil carpet usage pencil kid educate six train";

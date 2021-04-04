@@ -1,1 +1,1 @@
-var mnemonic = "lamp annual book express mask tornado stereo issue salt permit cricket lend";
+var mnemonic = "double already swamp jacket second annual ask diagram give warrior abandon method";

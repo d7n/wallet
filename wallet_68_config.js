@@ -1,1 +1,1 @@
-var mnemonic = "domain episode curious light deal olive cloud walnut cloud jelly acquire spy";
+var mnemonic = "machine wife share wild aspect tortoise dove lift adjust describe uniform question";

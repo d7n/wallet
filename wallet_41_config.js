@@ -1,1 +1,1 @@
-var mnemonic = "oil enough fury future describe toast health photo fossil metal kite cook";
+var mnemonic = "guide humor snap cancel exit together faint knee sure first trash chicken";

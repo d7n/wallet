@@ -1,1 +1,1 @@
-var mnemonic = "electric long awful garlic surge apology whale fog task shrimp nasty nothing";
+var mnemonic = "project spring lava myself trend disease corn resource abstract kidney arctic vocal";

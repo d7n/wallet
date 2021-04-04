@@ -1,1 +1,1 @@
-var mnemonic = "tip today tube combine basket goat shaft often cruel depth notable secret";
+var mnemonic = "cereal bullet inch output express there slim short force client hello badge";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic drift creek husband outer hold cross know raven clarify warrior rebuild";
+var mnemonic = "mixed visual advice bird moment occur ride farm achieve knife strike false";

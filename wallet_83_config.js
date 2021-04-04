@@ -1,1 +1,1 @@
-var mnemonic = "casino glance guess forward need wide sort neutral blue rigid three fortune";
+var mnemonic = "onion hammer atom spoon air syrup puppy forget van wine urge engage";

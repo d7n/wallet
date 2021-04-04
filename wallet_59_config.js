@@ -1,1 +1,1 @@
-var mnemonic = "piece artwork arrive outdoor major gloom clog level coconut half wood demise";
+var mnemonic = "clump already noise daughter begin goose rate update scrub away pink impact";

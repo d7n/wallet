@@ -1,1 +1,1 @@
-var mnemonic = "catch connect detail original force aim element visit still place acoustic primary";
+var mnemonic = "bargain table chapter connect flag stable photo novel combine ceiling wool funny";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety coast right industry jungle scrub stem acoustic wink prevent arm grace";
+var mnemonic = "salute animal east grant manual champion snack reunion sail soon sick forget";

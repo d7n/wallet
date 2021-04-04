@@ -1,1 +1,1 @@
-var mnemonic = "apart hover drop lesson emotion minute kiss better bracket legal oblige syrup";
+var mnemonic = "final hire glide proud salmon crash penalty fiction easily kangaroo position oppose";

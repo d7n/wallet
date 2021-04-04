@@ -1,1 +1,1 @@
-var mnemonic = "denial want despair edge subway frame second soda since social direct flame";
+var mnemonic = "lady earn collect drink lesson cloud economy evidence corn evolve hollow grit";

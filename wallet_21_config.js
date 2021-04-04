@@ -1,1 +1,1 @@
-var mnemonic = "orphan plastic puzzle hand crew observe nuclear ocean nice peanut cupboard duty";
+var mnemonic = "sting situate narrow spoon shoulder list cute vast wrist now orchard forget";

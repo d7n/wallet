@@ -1,1 +1,1 @@
-var mnemonic = "kit bring camp machine ghost infant outer despair cream settle wedding torch";
+var mnemonic = "call upgrade wrong whip ketchup era creek forward afraid isolate imitate vanish";

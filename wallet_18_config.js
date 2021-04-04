@@ -1,1 +1,1 @@
-var mnemonic = "comfort smart assume surge runway stove dynamic surface day hen resemble orange";
+var mnemonic = "senior twin hold occur grant dune fury kidney nest toy miracle drink";

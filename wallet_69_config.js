@@ -1,1 +1,1 @@
-var mnemonic = "vocal clever pottery across swing park gift bar describe first text topple";
+var mnemonic = "warrior census marriage flock retreat force fruit sketch raw disorder boost wall";

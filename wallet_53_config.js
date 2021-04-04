@@ -1,1 +1,1 @@
-var mnemonic = "cactus icon funny account anger clever valid move silk balcony rule pledge";
+var mnemonic = "clean captain culture high atom major drive address screen exotic lady employ";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise shine lesson attract actress hold enemy orange amazing alone success scene";
+var mnemonic = "sleep depart quality donate problem tomorrow light hint fan tuition mystery state";

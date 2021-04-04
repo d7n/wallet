@@ -1,1 +1,1 @@
-var mnemonic = "struggle clarify pilot library hope fever affair used industry joy digital liar";
+var mnemonic = "vacuum river entry word clog flip fence milk fence version ribbon enough";

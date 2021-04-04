@@ -1,1 +1,1 @@
-var mnemonic = "liquid bus property page goat strategy fringe honey aisle future mammal craft";
+var mnemonic = "fragile region afraid yellow negative lemon capable parent arrange pattern cattle art";

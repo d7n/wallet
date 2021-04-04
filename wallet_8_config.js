@@ -1,1 +1,1 @@
-var mnemonic = "unusual soft turn silver someone mind mammal race point plastic rotate simple";
+var mnemonic = "trigger cruise lamp crystal mutual balance grape gallery width square trouble decade";

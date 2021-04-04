@@ -1,1 +1,1 @@
-var mnemonic = "reward charge rice aunt town chunk acquire forget top wool hard early";
+var mnemonic = "tone left pond miracle prevent dolphin dial walk time hero saddle range";

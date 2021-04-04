@@ -1,1 +1,1 @@
-var mnemonic = "craft glare festival ginger primary speed twelve aim card dignity prison dinosaur";
+var mnemonic = "claim north pledge settle furnace fantasy material enact voice short nephew orchard";

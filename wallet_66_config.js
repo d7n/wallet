@@ -1,1 +1,1 @@
-var mnemonic = "ready rude favorite letter accident add verb used beyond laundry consider brand";
+var mnemonic = "cigar pause tent obey yard front huge wide magic win cash solution";

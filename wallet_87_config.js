@@ -1,1 +1,1 @@
-var mnemonic = "lazy juice zoo situate before expect monster hidden enlist basic office carpet";
+var mnemonic = "one reflect cover brave charge swear soup dilemma brand only life shy";

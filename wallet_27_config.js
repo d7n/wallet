@@ -1,1 +1,1 @@
-var mnemonic = "economy accident present gravity people empower yellow blast medal capital lady chef";
+var mnemonic = "undo language spoil vanish host family typical aisle sail cushion symbol poverty";
