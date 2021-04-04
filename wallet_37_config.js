@@ -1,1 +1,1 @@
-var mnemonic = "monster vote nice wish wave fat excuse quiz oak jeans stage fee";
+var mnemonic = "about puppy ritual balcony young mix sample spawn damage census light zero";

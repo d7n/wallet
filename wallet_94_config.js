@@ -1,1 +1,1 @@
-var mnemonic = "still tonight wonder guitar position quit dinner today trophy decrease cactus code";
+var mnemonic = "roof guess debris help rack venture odor club script boat shadow shallow";

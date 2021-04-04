@@ -1,1 +1,1 @@
-var mnemonic = "awful cruel apart ribbon such liquid basic ancient eye raccoon humor giant";
+var mnemonic = "ready clinic regular cancel album obscure accident air cheese entire merry build";

@@ -1,1 +1,1 @@
-var mnemonic = "camera immense hour where reveal pride ahead sentence vehicle spray letter suspect";
+var mnemonic = "spring educate impose clinic pink penalty document edit answer fatigue avoid outer";

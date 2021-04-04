@@ -1,1 +1,1 @@
-var mnemonic = "priority fly east lawsuit ride vanish hour marble mushroom news gossip cradle";
+var mnemonic = "manage purity possible rough illegal hospital faith art final speak spy balcony";

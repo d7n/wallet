@@ -1,1 +1,1 @@
-var mnemonic = "ocean brother later hen dish urban height spirit false service addict long";
+var mnemonic = "spatial leader frown snake figure cloth grocery protect horn impulse chuckle dwarf";

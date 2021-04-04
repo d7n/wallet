@@ -1,1 +1,1 @@
-var mnemonic = "media reveal galaxy film silver machine minimum injury power moon wish narrow";
+var mnemonic = "review chimney meadow increase extend chase quiz mimic mosquito cross clog seven";

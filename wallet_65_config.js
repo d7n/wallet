@@ -1,1 +1,1 @@
-var mnemonic = "certain stay game top tornado job term stem leaf panther girl equal";
+var mnemonic = "super manual concert cigar cannon kiss estate media ugly funny april lecture";

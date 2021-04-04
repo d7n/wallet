@@ -1,1 +1,1 @@
-var mnemonic = "photo ankle plate traffic make length fringe portion section dynamic mandate success";
+var mnemonic = "fruit alter excite paddle fatal silly rose kiwi fury vehicle glimpse burger";

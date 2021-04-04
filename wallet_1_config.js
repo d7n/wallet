@@ -1,1 +1,1 @@
-var mnemonic = "jar miss series brave great logic field caught brass prosper level require";
+var mnemonic = "frequent seat scan subject obscure regret shuffle parade copper thumb miracle rotate";

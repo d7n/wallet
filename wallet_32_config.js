@@ -1,1 +1,1 @@
-var mnemonic = "drift network lizard hood divorce accident slide exit valid quiz orchard notable";
+var mnemonic = "dice coral vicious surge cargo cargo exist paddle special rich orient flip";

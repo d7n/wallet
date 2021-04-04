@@ -1,1 +1,1 @@
-var mnemonic = "beauty cousin sphere voice cheese offer arch ordinary clown blanket cart knife";
+var mnemonic = "vote sorry blue fossil orange real wine snap artefact ethics any borrow";

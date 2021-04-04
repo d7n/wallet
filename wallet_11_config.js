@@ -1,1 +1,1 @@
-var mnemonic = "cry target clump cube fiber open brass shoulder wink gun bone solution";
+var mnemonic = "danger bonus digital gospel reform unveil when prison chair brother repair future";

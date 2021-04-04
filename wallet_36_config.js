@@ -1,1 +1,1 @@
-var mnemonic = "quiz quit twin stomach gap wheat primary adult bounce offer apart twice";
+var mnemonic = "doctor gun nuclear offer absurd pull earth saddle arctic chapter gospel desk";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant drum gloom entire panther table kind govern duty dash siege disagree";
+var mnemonic = "quick always aim salute pipe park debris sick exclude news crash hurry";

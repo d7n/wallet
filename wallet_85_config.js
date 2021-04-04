@@ -1,1 +1,1 @@
-var mnemonic = "race city gorilla version warm again figure panther gym pond planet enemy";
+var mnemonic = "reject letter usual thumb wolf blood purse any envelope eight multiply cliff";

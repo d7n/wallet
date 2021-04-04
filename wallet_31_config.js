@@ -1,1 +1,1 @@
-var mnemonic = "swing august neck derive swift exclude private miracle tongue fish quote denial";
+var mnemonic = "satoshi cover shell elephant slow anger eagle critic group grocery east dinner";

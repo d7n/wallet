@@ -1,1 +1,1 @@
-var mnemonic = "shoot vague gain hover swift face come elevator brain victory orient coconut";
+var mnemonic = "produce lawsuit address gold glue open bomb kingdom good casino lunar cradle";

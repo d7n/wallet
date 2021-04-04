@@ -1,1 +1,1 @@
-var mnemonic = "together label gasp page party winter delay pyramid capital matter affair edge";
+var mnemonic = "cement review wide purpose iron diesel project used mango athlete nominee ribbon";

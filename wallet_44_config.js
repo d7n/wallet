@@ -1,1 +1,1 @@
-var mnemonic = "evolve install fly slim pelican improve balance group broom lava sausage material";
+var mnemonic = "athlete company acoustic ship science among confirm behave bounce century help spray";

@@ -1,1 +1,1 @@
-var mnemonic = "all master crop mosquito jacket key actor agree tip armed please twist";
+var mnemonic = "blanket drum region parrot enough oval limb cage inhale erode trust moment";

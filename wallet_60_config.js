@@ -1,1 +1,1 @@
-var mnemonic = "catch trap twin bike custom basic secret dynamic donor ocean basic almost";
+var mnemonic = "kidney eight melt census atom moon ginger great sword soldier fluid joke";

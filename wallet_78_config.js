@@ -1,1 +1,1 @@
-var mnemonic = "vacuum enact amateur sketch world draw dilemma volume debris average knock debris";
+var mnemonic = "decline marble uncle light journey one payment meadow daughter nothing goat urban";

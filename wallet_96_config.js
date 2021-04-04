@@ -1,1 +1,1 @@
-var mnemonic = "kitten identify lizard swallow fold fit true session someone head garage private";
+var mnemonic = "join civil rail wedding lend action mansion daughter exile foot normal patient";

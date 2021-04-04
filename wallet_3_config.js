@@ -1,1 +1,1 @@
-var mnemonic = "mobile attack quit sand liar divide giraffe evoke truth guard media move";
+var mnemonic = "caution update donor will update hollow detect utility daring usual hour rich";

@@ -1,1 +1,1 @@
-var mnemonic = "youth install safe hunt grant echo virus rib direct toward roof pave";
+var mnemonic = "weapon sorry roast pen giggle already black hungry father humor wage sure";

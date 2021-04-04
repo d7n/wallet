@@ -1,1 +1,1 @@
-var mnemonic = "quote number pulp blade chapter pluck february hollow tonight used clown violin";
+var mnemonic = "sibling indicate grow bar erosion boy cattle into armor wasp essay expire";

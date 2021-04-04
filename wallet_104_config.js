@@ -1,1 +1,1 @@
-var mnemonic = "claim must hole veteran torch salon inch innocent smile rail interest wife";
+var mnemonic = "frequent coach climb tool toe clown rate pear wife oil clip age";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit solid jump govern smile inhale hidden alert source mandate release motor";
+var mnemonic = "nephew ready fetch million like pull drum frown river hobby miss source";

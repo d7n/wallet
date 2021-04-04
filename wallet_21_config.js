@@ -1,1 +1,1 @@
-var mnemonic = "shoulder cotton wire water drastic image return lunar curtain best genius youth";
+var mnemonic = "grape soup reflect educate alley wire goddess walnut defense amount lemon chronic";

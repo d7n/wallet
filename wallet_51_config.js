@@ -1,1 +1,1 @@
-var mnemonic = "laundry spoil only aisle ball vicious party rookie collect invest reward win";
+var mnemonic = "modify child mistake window habit garment praise color kitchen rely wheel bubble";

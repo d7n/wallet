@@ -1,1 +1,1 @@
-var mnemonic = "object animal poem mutual control winter shoulder attack cash theme magic grit";
+var mnemonic = "noodle little figure dinner special recall angry decorate agent clump town please";

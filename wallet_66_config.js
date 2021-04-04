@@ -1,1 +1,1 @@
-var mnemonic = "stamp learn civil sell mind minor strategy exist later mechanic kite rebel";
+var mnemonic = "solid slim march slab page salon unhappy matter kick please season cram";

@@ -1,1 +1,1 @@
-var mnemonic = "potato elegant chunk nest trend amused pave crystal canal episode wear ribbon";
+var mnemonic = "please napkin retreat regular dust ship radio still clap move taxi upper";

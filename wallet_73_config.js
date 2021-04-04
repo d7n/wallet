@@ -1,1 +1,1 @@
-var mnemonic = "prize timber talent mercy balcony over body outer fury permit obtain fossil";
+var mnemonic = "obscure ozone paper shaft invite ghost inspire combine raccoon slush metal blast";

@@ -1,1 +1,1 @@
-var mnemonic = "certain raven breeze suit sniff neglect dinosaur game trend banana kangaroo parent";
+var mnemonic = "usual burst captain target salt animal bicycle wool sniff unit filter strike";

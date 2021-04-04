@@ -1,1 +1,1 @@
-var mnemonic = "slice toy fresh ignore gold space tone share child drop inmate cruise";
+var mnemonic = "mansion gym tobacco comic update already wrestle october ahead silly enemy stumble";

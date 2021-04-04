@@ -1,1 +1,1 @@
-var mnemonic = "bid final raise trumpet enact elegant change try social enjoy hire wrap";
+var mnemonic = "first column pistol virtual lawsuit key truck regret buyer immune wagon notable";

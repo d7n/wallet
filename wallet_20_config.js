@@ -1,1 +1,1 @@
-var mnemonic = "ceiling donate always warm avoid blood strong wedding clean banana index young";
+var mnemonic = "solar spray viable stage banner garden dose glimpse will double vault close";

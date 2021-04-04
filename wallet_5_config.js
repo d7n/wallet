@@ -1,1 +1,1 @@
-var mnemonic = "crane tribe tuition essence bag wheel consider unusual glare stuff limb mind";
+var mnemonic = "ticket elegant foam assault stock vacant creek found february auction rack funny";

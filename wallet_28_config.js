@@ -1,1 +1,1 @@
-var mnemonic = "sting minor ripple tilt space stick civil swift honey picture host owner";
+var mnemonic = "bronze simple phone cliff island honey surround rug argue practice remind sentence";

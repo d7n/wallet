@@ -1,1 +1,1 @@
-var mnemonic = "pitch matter bubble distance south dutch wash august panda consider wool salmon";
+var mnemonic = "quote legal town chronic museum portion voice ring sure trust gadget test";

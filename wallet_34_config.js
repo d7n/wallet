@@ -1,1 +1,1 @@
-var mnemonic = "powder craft misery seed knee shuffle powder drift whale rack film confirm";
+var mnemonic = "barely vessel into basket begin ahead enforce design rate payment zoo reason";

@@ -1,1 +1,1 @@
-var mnemonic = "travel blur wear pupil liberty hub churn mistake flash spot dream govern";
+var mnemonic = "thank decrease novel rocket fresh engage crawl body alter tackle book bright";

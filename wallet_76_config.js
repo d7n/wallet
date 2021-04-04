@@ -1,1 +1,1 @@
-var mnemonic = "trumpet include reopen happy crush decrease fitness flag ring mule baby awful";
+var mnemonic = "tree doll distance coast artwork word table captain champion mesh sister morning";

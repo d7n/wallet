@@ -1,1 +1,1 @@
-var mnemonic = "cabbage cargo unusual home execute stem dance what always coyote fancy zone";
+var mnemonic = "black robot east outside wait arm fit sample upgrade wear page glare";

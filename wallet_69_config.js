@@ -1,1 +1,1 @@
-var mnemonic = "melt return program gravity heavy prize chaos hood unit unit eight idle";
+var mnemonic = "toast foot lobster catalog wasp carbon ocean verb steak trophy orphan hire";

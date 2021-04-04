@@ -1,1 +1,1 @@
-var mnemonic = "spider tent grocery endorse heart coach senior just business creek scene panther";
+var mnemonic = "menu holiday truth wasp lottery rigid supreme cage nut time wall portion";

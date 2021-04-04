@@ -1,1 +1,1 @@
-var mnemonic = "depend century gold gym leaf duck library nice extend coffee hunt quarter";
+var mnemonic = "acoustic brave news cliff when remind bird reason small outer year canyon";

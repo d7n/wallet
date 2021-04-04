@@ -1,1 +1,1 @@
-var mnemonic = "occur extra build piece drink engage apart where fringe tonight pulp benefit";
+var mnemonic = "exotic appear bright romance annual bundle throw boss pet adjust fury wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "situate trip boost miracle person orient turtle early visit winter clinic height";
+var mnemonic = "favorite rain surprise essence spatial fly inject corn system license truth phone";

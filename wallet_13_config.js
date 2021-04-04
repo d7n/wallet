@@ -1,1 +1,1 @@
-var mnemonic = "bring fabric unlock help thought rival snack among ski slice swarm oil";
+var mnemonic = "mix bargain globe total paddle wisdom hurt remain forward festival arm oval";

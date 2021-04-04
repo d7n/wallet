@@ -1,1 +1,1 @@
-var mnemonic = "regret soap use flee obey grit subject someone second young nurse dismiss";
+var mnemonic = "slam purity broccoli right depend tumble stove ignore model demise powder figure";

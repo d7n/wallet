@@ -1,1 +1,1 @@
-var mnemonic = "winner hole bike decade north pelican gift galaxy saddle enable reward electric";
+var mnemonic = "quarter swift trim prefer decide hybrid elephant ice toilet modify stove donate";

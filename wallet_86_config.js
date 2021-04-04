@@ -1,1 +1,1 @@
-var mnemonic = "run evolve improve cargo lava basket moment swallow fix oxygen planet armed";
+var mnemonic = "slot celery blood patch bar warrior trick hover general hedgehog whip basket";

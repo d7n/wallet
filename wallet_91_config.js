@@ -1,1 +1,1 @@
-var mnemonic = "crop enforce safe pear scrub canvas bright beach original turn short tennis";
+var mnemonic = "canyon elevator metal museum palm evil tell ticket first cherry ramp lecture";

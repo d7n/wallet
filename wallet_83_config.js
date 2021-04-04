@@ -1,1 +1,1 @@
-var mnemonic = "rely consider unveil mandate spend wild marine void elevator suffer present theory";
+var mnemonic = "fragile loud denial connect angry young exchange toilet puppy eight finger obtain";

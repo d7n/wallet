@@ -1,1 +1,1 @@
-var mnemonic = "robot misery exact remove frog kidney expire bar target dinner crack install";
+var mnemonic = "execute more story symbol upset trade laptop refuse update desert asthma lend";

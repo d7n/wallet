@@ -1,1 +1,1 @@
-var mnemonic = "chapter daring used swarm match reopen use pigeon bone body daughter surprise";
+var mnemonic = "just shop near mule stay diesel frown gasp bone best polar stable";

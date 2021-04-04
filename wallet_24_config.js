@@ -1,1 +1,1 @@
-var mnemonic = "globe quit diagram ghost traffic split cancel race arctic pistol sibling upset";
+var mnemonic = "attitude height believe gauge caution spoil welcome heart improve raven swallow steak";

@@ -1,1 +1,1 @@
-var mnemonic = "joke long ensure network margin sight old juice resemble medal endorse ridge";
+var mnemonic = "anxiety happy song since century picnic hair aspect swing small van web";

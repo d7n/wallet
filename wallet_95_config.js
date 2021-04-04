@@ -1,1 +1,1 @@
-var mnemonic = "spatial manual clarify rigid awake example fire shrimp opera flush hurdle educate";
+var mnemonic = "trap pill estate equip average sausage anger apple rich enemy shove valid";

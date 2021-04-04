@@ -1,1 +1,1 @@
-var mnemonic = "stone jungle glad wool lawsuit battle tide buzz rug link strike trick";
+var mnemonic = "body master near shallow ability donor sorry desert oyster can potato dad";

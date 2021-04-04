@@ -1,1 +1,1 @@
-var mnemonic = "worth maximum layer asset chimney immense potato soccer section final foam employ";
+var mnemonic = "priority tomorrow add bright vast possible weird train jaguar air like mask";

@@ -1,1 +1,1 @@
-var mnemonic = "draft style subway machine strong strategy right before where laptop smart ginger";
+var mnemonic = "divide major tonight ranch annual curious music false pull favorite pudding razor";

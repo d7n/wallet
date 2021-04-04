@@ -1,1 +1,1 @@
-var mnemonic = "artwork skill mirror clinic abandon lizard stamp dash possible castle crash disagree";
+var mnemonic = "village cover test abuse narrow issue settle west tomato midnight nut hurt";

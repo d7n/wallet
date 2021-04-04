@@ -1,1 +1,1 @@
-var mnemonic = "need bubble trumpet celery uncle satoshi just trouble jewel lesson undo scrub";
+var mnemonic = "target pepper toss smart shallow put order addict trip extend input monster";

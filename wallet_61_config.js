@@ -1,1 +1,1 @@
-var mnemonic = "reform simple install under satisfy laugh juice cattle loud raven photo man";
+var mnemonic = "maid dawn vast rather rebuild only dismiss refuse vast piece disorder frame";

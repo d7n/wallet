@@ -1,1 +1,1 @@
-var mnemonic = "merry absurd know announce forest silly liquid wolf quarter clown nominee ask";
+var mnemonic = "today humor buffalo slim fame unable sunny critic surge call rug sad";

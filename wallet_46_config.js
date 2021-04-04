@@ -1,1 +1,1 @@
-var mnemonic = "crouch pattern crystal dizzy wedding afraid source hurry earth kangaroo miracle vital";
+var mnemonic = "secret bachelor ship split pink warm bicycle keen trouble clever south kitchen";

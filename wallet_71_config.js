@@ -1,1 +1,1 @@
-var mnemonic = "maximum cannon erase skin cabbage peace child estate hunt bread shallow firm";
+var mnemonic = "trend place tourist minor deposit spare palace boss purity loan casino pet";

@@ -1,1 +1,1 @@
-var mnemonic = "hand correct effort below holiday fall utility soccer affair beyond floor typical";
+var mnemonic = "view omit toilet lion thought evil robot size spread puzzle pattern candy";

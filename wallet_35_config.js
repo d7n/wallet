@@ -1,1 +1,1 @@
-var mnemonic = "country media travel inspire output moment amused switch select endorse goose oven";
+var mnemonic = "become name chuckle pottery tube bulb depend vault element sweet business east";

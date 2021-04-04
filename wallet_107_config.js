@@ -1,1 +1,1 @@
-var mnemonic = "method eternal travel naive emotion art clay mixed catalog example town cart";
+var mnemonic = "tip nice arctic jacket champion limb obvious crazy gift mix owner fragile";

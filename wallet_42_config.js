@@ -1,1 +1,1 @@
-var mnemonic = "vibrant elder arctic myth harsh divide marriage escape unknown stem document brown";
+var mnemonic = "stick flock large december purpose nature reward fitness category multiply husband woman";

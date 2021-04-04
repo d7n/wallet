@@ -1,1 +1,1 @@
-var mnemonic = "figure enough uncover please double trim unusual goose purse odor almost perfect";
+var mnemonic = "heavy hurry jacket gaze cute connect leave injury obey humor oil process";

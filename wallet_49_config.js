@@ -1,1 +1,1 @@
-var mnemonic = "napkin inject come guess kind ring bachelor rocket club mobile boss struggle";
+var mnemonic = "chuckle visa oppose catch puzzle taxi beach omit power basket moon icon";

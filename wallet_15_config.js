@@ -1,1 +1,1 @@
-var mnemonic = "spice unaware skill toy sand aunt time cave click slight deer usual";
+var mnemonic = "hybrid teach strategy friend legal element symptom abandon tennis light face ocean";

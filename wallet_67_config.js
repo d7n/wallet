@@ -1,1 +1,1 @@
-var mnemonic = "mimic approve twist sure injury report donor pause gadget crop enough harbor";
+var mnemonic = "hidden treat kind laptop pledge case brave bulb slush twenty diamond kitchen";

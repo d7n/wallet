@@ -1,1 +1,1 @@
-var mnemonic = "achieve stool wrong always tribe copper devote ship bind hotel absent estate";
+var mnemonic = "similar exile over student shock diagram divide trip symbol oval black demand";

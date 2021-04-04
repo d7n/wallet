@@ -1,1 +1,1 @@
-var mnemonic = "digital raw kiwi sugar fold knock glide coyote banner blossom jazz network";
+var mnemonic = "zero number sample guitar arrest mandate clay term universe saddle dust chaos";

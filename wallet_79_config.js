@@ -1,1 +1,1 @@
-var mnemonic = "broken voyage clay thunder narrow creek fitness whale theme spawn rhythm inside";
+var mnemonic = "surround island give veteran champion kid spatial resemble arrive magic voyage chief";

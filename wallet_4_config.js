@@ -1,1 +1,1 @@
-var mnemonic = "slush auto tired initial need voyage inner gravity scene require social chapter";
+var mnemonic = "fade cricket sheriff off kiwi service merge brain unable rose office moral";

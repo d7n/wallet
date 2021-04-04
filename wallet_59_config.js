@@ -1,1 +1,1 @@
-var mnemonic = "foil fancy snap border feed green width useful yellow lemon cradle again";
+var mnemonic = "tired south food treat balance depend fork demand asthma mammal frame tongue";

@@ -1,1 +1,1 @@
-var mnemonic = "scale swallow furnace document enemy dismiss blanket miracle soup wink rent fine";
+var mnemonic = "thumb glory glad grant truth point want auto fence have hurt shy";

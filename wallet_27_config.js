@@ -1,1 +1,1 @@
-var mnemonic = "cycle assault afford illness toward census flight domain discover dinner child under";
+var mnemonic = "shrug whisper glimpse avocado must good water carry flush talent state honey";

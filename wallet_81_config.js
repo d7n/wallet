@@ -1,1 +1,1 @@
-var mnemonic = "combine artist vibrant bacon will census skull jewel escape mistake special lady";
+var mnemonic = "pear disagree stage protect barely twice unique nation alarm biology wife start";

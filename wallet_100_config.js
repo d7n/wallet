@@ -1,1 +1,1 @@
-var mnemonic = "perfect link base require great toy seek diamond luxury giraffe bomb agree";
+var mnemonic = "job flight hub genre main void defy humor quick middle few dice";

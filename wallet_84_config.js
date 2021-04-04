@@ -1,1 +1,1 @@
-var mnemonic = "debris absurd topic type rack crush shell swarm giraffe digital dad today";
+var mnemonic = "remind clock quantum mail hundred bless soap fault vault fine drift lottery";
