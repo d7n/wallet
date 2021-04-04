@@ -1,1 +1,1 @@
-var mnemonic = "arm helmet vintage nerve purchase amused wool reward drop farm grab lens";
+var mnemonic = "picture asthma execute palm siege leg soul blanket dilemma improve vital tragic";

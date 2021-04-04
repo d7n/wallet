@@ -1,1 +1,1 @@
-var mnemonic = "great dash quarter okay weird worth wrong disagree ritual task myth female";
+var mnemonic = "shiver hedgehog rough village dinosaur file young when consider success autumn boil";

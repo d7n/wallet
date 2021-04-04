@@ -1,1 +1,1 @@
-var mnemonic = "catalog wet multiply muffin elevator end legal velvet outer brother six team";
+var mnemonic = "peanut tunnel pudding miracle open mail tackle shaft rescue language clock weasel";

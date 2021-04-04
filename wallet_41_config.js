@@ -1,1 +1,1 @@
-var mnemonic = "build recall toward pride blood soft sister wheel illegal favorite insane sting";
+var mnemonic = "valid define regret abstract ocean mercy dice person seven weapon stone venture";

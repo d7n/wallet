@@ -1,1 +1,1 @@
-var mnemonic = "region veteran female rocket among surface property fruit clinic together galaxy prize";
+var mnemonic = "position prize rigid rain fat illegal exist crouch cream mask raw drum";

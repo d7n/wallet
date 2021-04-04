@@ -1,1 +1,1 @@
-var mnemonic = "remove gesture blood salute food clown person number mansion avocado cool victory";
+var mnemonic = "practice adult enrich electric artist wing crater defense ignore happy myth butter";

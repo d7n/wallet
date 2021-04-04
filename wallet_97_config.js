@@ -1,1 +1,1 @@
-var mnemonic = "crop call entry mule extend remove east furnace aunt key teach hill";
+var mnemonic = "way debris sight foam purse cute only garden arrow carpet express bracket";

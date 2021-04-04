@@ -1,1 +1,1 @@
-var mnemonic = "wasp chicken student poem execute brass appear spell dice price zero swim";
+var mnemonic = "gate hat welcome zero shell walk sea legal wolf guess post easily";

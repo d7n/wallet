@@ -1,1 +1,1 @@
-var mnemonic = "sing carry toast betray impose nasty mobile scrap below chief wonder color";
+var mnemonic = "unveil pledge screen vague blur bulb village cricket razor settle point cave";

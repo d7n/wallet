@@ -1,1 +1,1 @@
-var mnemonic = "engage bulb grass pond there want pill twice board market fork must";
+var mnemonic = "injury sponsor inmate lunch creek dog kiss cargo witness lamp machine trip";

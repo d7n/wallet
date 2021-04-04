@@ -1,1 +1,1 @@
-var mnemonic = "truth medal among another list glimpse like language dismiss uniform base reason";
+var mnemonic = "diary mandate okay utility search miracle boil mixed biology rack bracket sting";

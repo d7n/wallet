@@ -1,1 +1,1 @@
-var mnemonic = "salt retreat oxygen lizard uniform heavy destroy equip news hour time blame";
+var mnemonic = "retreat indicate sword frame shiver tragic elegant essay pair suggest gap erosion";

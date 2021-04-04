@@ -1,1 +1,1 @@
-var mnemonic = "cross rich mammal short quick obscure black inspire hint yard cement exile";
+var mnemonic = "panda secret shaft ignore drum salt come relief type unaware canvas lava";

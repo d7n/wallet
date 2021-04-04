@@ -1,1 +1,1 @@
-var mnemonic = "pig defy private slogan worth human solid helmet universe half width song";
+var mnemonic = "squirrel dentist hint candy festival goose chest pledge found snap length library";

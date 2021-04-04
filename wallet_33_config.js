@@ -1,1 +1,1 @@
-var mnemonic = "item error express doll series target foam nurse laptop access filter logic";
+var mnemonic = "girl find potato coin since poet club squirrel shuffle grab lawn relax";

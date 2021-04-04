@@ -1,1 +1,1 @@
-var mnemonic = "promote merit faculty act point buddy extend borrow comic mercy design blood";
+var mnemonic = "oven yard cruel demise stand supply right reject become unit chair trade";

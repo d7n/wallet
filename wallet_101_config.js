@@ -1,1 +1,1 @@
-var mnemonic = "elevator fence embody treat robot faith egg nasty talk school reunion fetch";
+var mnemonic = "noise clap exercise drift spread humor output oxygen social chair journey motion";

@@ -1,1 +1,1 @@
-var mnemonic = "grid ship vote twice mirror tackle pottery toilet media train tattoo april";
+var mnemonic = "dirt filter such present runway february radar copy diary title that palm";

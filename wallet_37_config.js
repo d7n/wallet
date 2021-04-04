@@ -1,1 +1,1 @@
-var mnemonic = "eight jacket social mad globe raise art pulse jazz pelican fluid motor";
+var mnemonic = "kit game term surface flower present adapt lizard huge velvet olympic ship";

@@ -1,1 +1,1 @@
-var mnemonic = "maple south wreck best curtain veteran youth confirm novel session neck scissors";
+var mnemonic = "author funny rural upgrade foot alert famous dawn coffee hawk champion build";

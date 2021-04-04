@@ -1,1 +1,1 @@
-var mnemonic = "neck fork develop order glare change stone throw situate citizen blade suit";
+var mnemonic = "soup ten ranch prize spike fabric claw install hair milk grain depth";

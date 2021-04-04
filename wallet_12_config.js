@@ -1,1 +1,1 @@
-var mnemonic = "genius strike awesome test reunion cigar strike shield bomb range boil tower";
+var mnemonic = "write magnet mosquito woman rent oak sword raccoon silent work awake era";

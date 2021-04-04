@@ -1,1 +1,1 @@
-var mnemonic = "observe mention market impose hollow picture inhale prepare erode rich victory party";
+var mnemonic = "gate relax confirm defy small key entire letter author daring priority high";

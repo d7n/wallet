@@ -1,1 +1,1 @@
-var mnemonic = "close category among flip program shove seat want heavy ocean illegal have";
+var mnemonic = "spawn sign found piece march ball erupt used work stomach pistol video";

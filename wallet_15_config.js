@@ -1,1 +1,1 @@
-var mnemonic = "antenna imitate battle power nurse sign know pilot success glare resist left";
+var mnemonic = "material edge history imitate someone famous lawsuit vocal theory model proof bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "switch entry horror endless witness critic abuse smooth moment venue depend forward";
+var mnemonic = "sustain road arch boring reduce gaze globe vicious long fox jacket have";

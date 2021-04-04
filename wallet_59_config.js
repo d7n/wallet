@@ -1,1 +1,1 @@
-var mnemonic = "bunker wise payment rhythm start match naive business device arrange grocery surround";
+var mnemonic = "riot garden whale night admit adjust hammer onion light luggage mask crane";

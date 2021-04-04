@@ -1,1 +1,1 @@
-var mnemonic = "crucial drive tuna lobster piano crash result focus early genius fortune burden";
+var mnemonic = "elder enrich syrup exhaust educate soft mention industry manual hawk vast laundry";

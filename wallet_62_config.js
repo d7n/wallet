@@ -1,1 +1,1 @@
-var mnemonic = "cat gas giant ritual helmet frame fox cat rubber never ocean boy";
+var mnemonic = "meadow guide mention kind cabbage unfair rigid utility area inflict guess make";

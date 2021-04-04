@@ -1,1 +1,1 @@
-var mnemonic = "timber practice kind alien fade vehicle hover hole lecture inch risk angle";
+var mnemonic = "multiply exile caught cotton sea viable absurd unlock pair maze pact oil";

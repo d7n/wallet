@@ -1,1 +1,1 @@
-var mnemonic = "poem detail addict mention escape early knock delay room fun sibling room";
+var mnemonic = "pond pluck minimum tennis leisure scare bargain announce venue wire hen match";

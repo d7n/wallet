@@ -1,1 +1,1 @@
-var mnemonic = "bachelor spatial picnic chief nothing mammal federal burden volume conduct clap hand";
+var mnemonic = "gallery caught crane relief view stove health solution group whisper february dentist";

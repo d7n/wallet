@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin city scheme damage people tuna firm adjust fox prison race over";
+var mnemonic = "version hover flag shoot hawk start excuse talent wish wet scout neck";

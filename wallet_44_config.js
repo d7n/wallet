@@ -1,1 +1,1 @@
-var mnemonic = "remain exclude swap abandon another lobster twist deny royal mango live brother";
+var mnemonic = "police kind aspect stove upon chase base claim sock market payment casino";

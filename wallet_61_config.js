@@ -1,1 +1,1 @@
-var mnemonic = "spawn flat broccoli bounce dignity curious sound home virus allow bachelor identify";
+var mnemonic = "demise zero hand blade erosion wage reason clean display only garbage glory";

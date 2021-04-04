@@ -1,1 +1,1 @@
-var mnemonic = "razor early dune utility egg accuse exhibit negative cereal begin type phrase";
+var mnemonic = "plate near curious great dress orient spot beach smile moral fix vapor";

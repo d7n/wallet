@@ -1,1 +1,1 @@
-var mnemonic = "lend pottery virus afraid swift estate shell reveal general weekend donkey glow";
+var mnemonic = "present someone like skin seminar enable rich session sort churn trust burden";

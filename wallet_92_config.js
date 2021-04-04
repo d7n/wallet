@@ -1,1 +1,1 @@
-var mnemonic = "supreme month scale keen blade salmon safe student fantasy vivid swear salute";
+var mnemonic = "half city click goat judge want congress orchard snake huge name mushroom";

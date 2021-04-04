@@ -1,1 +1,1 @@
-var mnemonic = "air boost dynamic know panther frame blade yellow pizza monitor civil equip";
+var mnemonic = "body already trap nose slow cheap fetch fit patrol usage scatter aspect";

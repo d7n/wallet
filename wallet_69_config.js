@@ -1,1 +1,1 @@
-var mnemonic = "push casual leader question pulp suffer mercy indoor monkey eyebrow puppy dial";
+var mnemonic = "square tongue gloom review general mass loop thumb world seek easy joke";

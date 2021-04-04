@@ -1,1 +1,1 @@
-var mnemonic = "gym chunk gorilla soul awful food empower smooth tornado route toss six";
+var mnemonic = "enhance girl boring garbage float wide expire refuse veteran grunt service repair";

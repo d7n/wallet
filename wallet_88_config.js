@@ -1,1 +1,1 @@
-var mnemonic = "exchange frame invest hard maple wool permit butter absurd wedding lucky electric";
+var mnemonic = "away depth opinion mistake emotion cement vivid inner come absent lens custom";

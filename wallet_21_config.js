@@ -1,1 +1,1 @@
-var mnemonic = "guide pulp loud myself genuine among spawn crime valid drastic nurse mercy";
+var mnemonic = "grant debris split speak direct idea fringe display cancel asset grit horror";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony decrease veteran novel security civil mention tooth ridge finish coil wrestle";
+var mnemonic = "web expect true slush today boil dentist august drip control view wink";

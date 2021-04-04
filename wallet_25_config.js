@@ -1,1 +1,1 @@
-var mnemonic = "portion remind grain broken salute oyster power tent clinic lesson universe innocent";
+var mnemonic = "drastic arrive drastic fan million say caution olive fossil hope dumb spread";

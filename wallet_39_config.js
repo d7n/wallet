@@ -1,1 +1,1 @@
-var mnemonic = "palace tackle among undo pumpkin foil network junk outside stadium stuff surge";
+var mnemonic = "crouch rapid scene antenna outer adapt adjust odor baby almost salute rural";

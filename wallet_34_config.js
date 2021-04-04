@@ -1,1 +1,1 @@
-var mnemonic = "wink forget feed cheese face type suffer flight trumpet equip repeat minute";
+var mnemonic = "alcohol point canal acquire misery city pride true code doctor beauty humble";

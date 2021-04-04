@@ -1,1 +1,1 @@
-var mnemonic = "silver enter place elite recall alert glide lizard meat surface kitten among";
+var mnemonic = "gaze slab repair still speak envelope dentist click coach they raccoon awful";

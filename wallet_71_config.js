@@ -1,1 +1,1 @@
-var mnemonic = "casino lazy add auto funny train december fiber insect sustain build sock";
+var mnemonic = "senior phrase wine junk bomb wage urban pencil school present moment second";

@@ -1,1 +1,1 @@
-var mnemonic = "detail arrow debate arrow cotton sight version absorb vicious between flag lyrics";
+var mnemonic = "upset relief cry call caution hedgehog under produce hawk suggest uncle jealous";

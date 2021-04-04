@@ -1,1 +1,1 @@
-var mnemonic = "waste market drill aerobic chimney foot foil pigeon cattle wash response escape";
+var mnemonic = "inhale supreme cherry ice relief save scissors reform lab speed sentence cherry";

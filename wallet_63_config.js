@@ -1,1 +1,1 @@
-var mnemonic = "grab dinosaur lobster vanish between anchor axis firm develop announce actress child";
+var mnemonic = "vivid cruise foil length sunny voyage notice decade mechanic wage process ask";

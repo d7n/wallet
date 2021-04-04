@@ -1,1 +1,1 @@
-var mnemonic = "pave bone giant stumble average consider again liar evolve obtain require attitude";
+var mnemonic = "pulse artist inner pink tourist armor unveil charge able essence reveal reunion";

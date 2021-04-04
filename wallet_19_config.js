@@ -1,1 +1,1 @@
-var mnemonic = "strike museum echo apology black castle borrow giraffe runway hockey elite helmet";
+var mnemonic = "huge draw unlock record lock blur hybrid crucial lens message toddler number";

@@ -1,1 +1,1 @@
-var mnemonic = "news song head shrug erupt jungle caution weather above hockey praise reopen";
+var mnemonic = "flight typical thought gain soccer pear organ actual brass gorilla arctic math";

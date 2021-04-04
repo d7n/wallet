@@ -1,1 +1,1 @@
-var mnemonic = "rookie reflect animal noble marble cousin good lecture clog author quarter another";
+var mnemonic = "swing misery harbor series below outer churn double neither canyon giraffe ranch";

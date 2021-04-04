@@ -1,1 +1,1 @@
-var mnemonic = "imitate photo nuclear good economy hospital aerobic student despair identify vendor spice";
+var mnemonic = "can frozen impulse pave club inform puppy eye quote pear broccoli bamboo";

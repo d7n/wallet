@@ -1,1 +1,1 @@
-var mnemonic = "voice wrist cake dynamic aisle curtain easy sell cover input gasp enough";
+var mnemonic = "sleep trust science scan situate document crime onion dizzy margin honey arrest";

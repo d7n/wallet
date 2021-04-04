@@ -1,1 +1,1 @@
-var mnemonic = "cat letter amount polar tragic bachelor flat fox also setup swallow pledge";
+var mnemonic = "exact jar shine region holiday glow knife icon never jaguar ring result";

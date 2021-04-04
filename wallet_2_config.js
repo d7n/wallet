@@ -1,1 +1,1 @@
-var mnemonic = "dawn gold verb glide west tornado lunar coyote welcome tip coyote smooth";
+var mnemonic = "consider room space match gentle now relief sport desert cotton frog wear";

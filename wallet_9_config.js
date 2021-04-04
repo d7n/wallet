@@ -1,1 +1,1 @@
-var mnemonic = "morning boring company income art rent chair urban caution erase always tiny";
+var mnemonic = "cloud pill turn video pen level clerk alone south that laptop ethics";

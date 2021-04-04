@@ -1,1 +1,1 @@
-var mnemonic = "nominee token vessel process ability satoshi license pattern proof minute spell mouse";
+var mnemonic = "idle confirm avocado innocent giant avoid frame cereal taxi globe buyer peanut";

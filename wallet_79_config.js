@@ -1,1 +1,1 @@
-var mnemonic = "exhaust resemble violin walk bundle physical smoke path food owner pride soon";
+var mnemonic = "that divide author chimney salt burst duty valid upon sport casual load";

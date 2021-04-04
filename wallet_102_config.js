@@ -1,1 +1,1 @@
-var mnemonic = "short island fatigue field address ketchup detail canal blood rookie scatter govern";
+var mnemonic = "follow spy path canvas skin maze brass south candy fury rack bottom";

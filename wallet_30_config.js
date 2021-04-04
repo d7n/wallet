@@ -1,1 +1,1 @@
-var mnemonic = "hello puzzle limit shed nuclear win whisper inmate step energy oil hollow";
+var mnemonic = "ignore refuse ask camera cry host deposit region marriage icon milk crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "whip food lizard scatter welcome fine correct print chase coach wheat dust";
+var mnemonic = "rate spike diesel borrow half like pulse wealth treat firm piece mean";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix tumble process salute aware skirt spray market race health unable east";
+var mnemonic = "flavor pulp glad okay badge garbage confirm bronze brick valve inquiry hobby";

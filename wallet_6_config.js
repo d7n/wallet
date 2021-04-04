@@ -1,1 +1,1 @@
-var mnemonic = "cattle swim merge slush crucial infant detect auto unfair margin horn mimic";
+var mnemonic = "hood climb drift humor mammal tomato sight wear unhappy father vendor assault";

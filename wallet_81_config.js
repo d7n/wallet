@@ -1,1 +1,1 @@
-var mnemonic = "exhibit impose woman rally burger quit hybrid powder until timber response hire";
+var mnemonic = "liberty knock cover region diary fruit grass magnet solid topple erode ramp";

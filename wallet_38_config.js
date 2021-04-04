@@ -1,1 +1,1 @@
-var mnemonic = "letter perfect regret oxygen vast early good hand tent place tone wasp";
+var mnemonic = "jar bleak gain uphold between rib tiny pond borrow save letter audit";

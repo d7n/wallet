@@ -1,1 +1,1 @@
-var mnemonic = "sentence barely chef plastic impulse average gorilla obey goose fault damage jazz";
+var mnemonic = "stumble since thank blast merit fire amateur donate worth trash village absorb";

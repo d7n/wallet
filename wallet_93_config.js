@@ -1,1 +1,1 @@
-var mnemonic = "laugh agent stone cover initial project tourist shop consider box cement bag";
+var mnemonic = "south plunge left motor tray scissors aunt nature small announce debate choice";

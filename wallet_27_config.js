@@ -1,1 +1,1 @@
-var mnemonic = "athlete keep famous pelican couple sense venture elbow offer roof first artist";
+var mnemonic = "inherit gun either spoon mutual manual update ramp victory onion scan promote";

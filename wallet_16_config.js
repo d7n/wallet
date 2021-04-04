@@ -1,1 +1,1 @@
-var mnemonic = "strike term glue piano alcohol horror cradle false magnet chronic claw adjust";
+var mnemonic = "bar spawn cloud virus parade like core spatial cloth loud success eye";

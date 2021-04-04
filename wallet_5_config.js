@@ -1,1 +1,1 @@
-var mnemonic = "control raccoon roast radio garment tunnel spike post melody supreme trumpet match";
+var mnemonic = "alone clump enemy pear bar inside distance slice video key tobacco awkward";

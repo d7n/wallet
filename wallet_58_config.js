@@ -1,1 +1,1 @@
-var mnemonic = "disagree hazard liar tonight initial unit pledge dizzy tomorrow west capital shield";
+var mnemonic = "quantum adult boy pilot danger bless acoustic wheel letter unit trade token";

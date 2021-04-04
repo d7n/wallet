@@ -1,1 +1,1 @@
-var mnemonic = "airport output electric tower flee valley room woman purpose keep helmet diet";
+var mnemonic = "cook uniform ghost shrug mesh tell grape milk immune either scrub evolve";

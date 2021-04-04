@@ -1,1 +1,1 @@
-var mnemonic = "sauce insect ritual pepper aerobic extend manage drive dwarf since arrive gap";
+var mnemonic = "picture illness buyer suspect reform width manage creek frog hammer upset excite";

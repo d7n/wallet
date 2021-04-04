@@ -1,1 +1,1 @@
-var mnemonic = "episode bean crumble wolf cabbage glue other turtle fetch purchase thumb deliver";
+var mnemonic = "park clay cream drama volcano south term little sunset idea erupt decrease";

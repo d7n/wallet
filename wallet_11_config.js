@@ -1,1 +1,1 @@
-var mnemonic = "capital chase seminar earth lawsuit various story typical floor family skirt engage";
+var mnemonic = "month sad swear reform involve olive noble tag spoon olympic rebel ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial tobacco uncle vicious pulse engine shadow inflict arrow bacon attitude live";
+var mnemonic = "emerge turtle ensure day truly check elevator grain final master fade blue";

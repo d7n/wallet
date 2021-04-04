@@ -1,1 +1,1 @@
-var mnemonic = "kitchen endorse empty aim broom father argue cup word ability reflect uniform";
+var mnemonic = "bridge someone music gaze stable parade green keep limb toast cushion idle";

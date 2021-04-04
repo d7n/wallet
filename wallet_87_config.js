@@ -1,1 +1,1 @@
-var mnemonic = "else element fantasy gown surge spoil toilet guitar increase cinnamon chair engage";
+var mnemonic = "truly police drift assist find bachelor bunker upgrade advance doctor person cruel";

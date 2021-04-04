@@ -1,1 +1,1 @@
-var mnemonic = "load reveal kangaroo impulse excite safe tag axis comfort undo wood long";
+var mnemonic = "grant install detail cousin hen give motor security conduct denial sense teach";

@@ -1,1 +1,1 @@
-var mnemonic = "candy seek side click tortoise aware robust weird cancel life source stamp";
+var mnemonic = "excite slice harsh middle pond first order energy able immune behave fan";

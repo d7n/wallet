@@ -1,1 +1,1 @@
-var mnemonic = "victory present derive seek patient blue demise lesson lizard suggest mixture vast";
+var mnemonic = "wish pistol frown pattern debris say fault warfare can weekend jaguar cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel child saddle width unhappy volcano grit lock dash main orange hidden";
+var mnemonic = "robust problem wink pear shock engine caution light leader duck vibrant keen";

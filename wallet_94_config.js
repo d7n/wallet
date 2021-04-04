@@ -1,1 +1,1 @@
-var mnemonic = "crater loan jealous matter announce mad ritual seven moral tiger achieve hair";
+var mnemonic = "cart seven scatter control tool major distance wasp where gauge modify multiply";

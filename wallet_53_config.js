@@ -1,1 +1,1 @@
-var mnemonic = "drip method aware build bean tip forward mosquito rhythm frequent income tumble";
+var mnemonic = "attract hotel door curtain silver swim decade seat observe survey review dizzy";

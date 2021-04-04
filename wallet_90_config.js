@@ -1,1 +1,1 @@
-var mnemonic = "acid shop enter sail inside anchor polar hungry remain faith erode turtle";
+var mnemonic = "cattle ensure remove today since elephant enjoy modify gift wink wire rack";

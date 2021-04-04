@@ -1,1 +1,1 @@
-var mnemonic = "human acid broom luggage army vintage intact kitten mosquito soda van lock";
+var mnemonic = "predict tilt pumpkin same document height attitude awake fantasy pink save edit";
