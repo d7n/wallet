@@ -1,1 +1,1 @@
-var mnemonic = "loan select good aunt drastic chapter soccer enact what army stock acquire";
+var mnemonic = "depth caught winter impulse tip endorse gaze reveal emerge ship prison safe";

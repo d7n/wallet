@@ -1,1 +1,1 @@
-var mnemonic = "uncover party release miracle grace lobster female boring pizza foster horn glimpse";
+var mnemonic = "recall bottom sad tree pipe disorder idle movie twenty stove minor wealth";

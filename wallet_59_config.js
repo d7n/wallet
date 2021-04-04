@@ -1,1 +1,1 @@
-var mnemonic = "rebuild menu office tragic satisfy photo absorb install ribbon audit salute manual";
+var mnemonic = "approve teach gaze budget smart stool wash entire warfare indicate crisp chair";

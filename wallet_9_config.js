@@ -1,1 +1,1 @@
-var mnemonic = "boy cloth together fossil barely science split term giggle cable sample burger";
+var mnemonic = "outdoor alert appear trumpet square volcano humble shuffle link chat sort snow";

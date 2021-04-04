@@ -1,1 +1,1 @@
-var mnemonic = "camera chaos fold polar correct balance detect logic zone toward topic wish";
+var mnemonic = "luxury donor cargo reject notable pelican equal spot much pole chest velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "hair medal helmet saddle mix around castle cactus palace illness window concert";
+var mnemonic = "picture arrest joke toast rookie adult agree total van bless weird swarm";

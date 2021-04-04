@@ -1,1 +1,1 @@
-var mnemonic = "girl diagram tower echo tape claw runway school purse screen cattle toast";
+var mnemonic = "hint festival have ride drive decide title vacant there much rally play";

@@ -1,1 +1,1 @@
-var mnemonic = "length alien immune agree bonus run cube strong arrest funny adult weather";
+var mnemonic = "response source quit figure industry fit force picture physical glue search leg";

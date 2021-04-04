@@ -1,1 +1,1 @@
-var mnemonic = "cruel opinion switch strike two prepare talent sick iron net give kiwi";
+var mnemonic = "donkey grow pill crawl shoulder hamster word icon rival one gossip ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "creek real pond become youth chuckle vacant control brother agree consider bid";
+var mnemonic = "cost friend way swift thumb suggest pilot snake diesel mixed tumble another";

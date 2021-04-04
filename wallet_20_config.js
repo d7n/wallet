@@ -1,1 +1,1 @@
-var mnemonic = "spice hold wait law ghost receive length gravity private height stock include";
+var mnemonic = "pencil outdoor capable peasant assist attitude sister fame mother park practice message";

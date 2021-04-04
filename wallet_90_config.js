@@ -1,1 +1,1 @@
-var mnemonic = "endless stamp attend crazy tooth job crouch step donor vanish ripple crew";
+var mnemonic = "hero legend lawsuit stumble crop tone thing garden derive disease point federal";

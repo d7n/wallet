@@ -1,1 +1,1 @@
-var mnemonic = "quote under hello surprise advice toddler need floor auction service trophy differ";
+var mnemonic = "make tomorrow army message tomato brick father cruise nothing shaft lawn bonus";

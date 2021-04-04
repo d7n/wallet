@@ -1,1 +1,1 @@
-var mnemonic = "evoke require hawk antenna fruit melody body object excess clock pottery insane";
+var mnemonic = "genre cover into spirit earth peanut oven afraid movie minute silly soda";

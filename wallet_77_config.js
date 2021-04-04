@@ -1,1 +1,1 @@
-var mnemonic = "detect cancel behave avocado weather obvious wagon snack melody business reveal heavy";
+var mnemonic = "boss ability crash vague sail flee pipe beauty enrich grace assist grocery";

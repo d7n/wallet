@@ -1,1 +1,1 @@
-var mnemonic = "reward desk polar crack strike jazz estate since attitude local close resemble";
+var mnemonic = "refuse black slim idea produce circle legend hen system cargo link fan";

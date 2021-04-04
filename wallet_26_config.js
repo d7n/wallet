@@ -1,1 +1,1 @@
-var mnemonic = "crack produce blast drastic fault harvest volcano local carpet conduct smile master";
+var mnemonic = "boost endless charge black true sleep check trend impose between hover wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble decide spread faculty forget comic hub tray wise debris crash tide";
+var mnemonic = "satoshi father battle kidney cushion foot silver truly antique rigid deer clarify";

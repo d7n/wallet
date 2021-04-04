@@ -1,1 +1,1 @@
-var mnemonic = "oyster fiscal trade change viable avocado sell cactus lady hip kick winter";
+var mnemonic = "orange reason obvious toast nasty twelve tissue fork animal sad flame abstract";

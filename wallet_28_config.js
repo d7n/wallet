@@ -1,1 +1,1 @@
-var mnemonic = "combine fragile quality opinion weather soup mansion razor boy witness panel bomb";
+var mnemonic = "answer cute kingdom divorce wool pupil dentist excite monster essence trick hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "please kiss idle shock cloth joke cook wall orbit kitchen shuffle domain";
+var mnemonic = "raw chuckle casino napkin solid wheat island dizzy shell skull usual spike";

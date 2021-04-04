@@ -1,1 +1,1 @@
-var mnemonic = "impact own love zebra anger advice daring matter rebuild camera sort erosion";
+var mnemonic = "bomb chapter vacant actress private neutral picnic home apology mom brave index";

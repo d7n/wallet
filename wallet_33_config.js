@@ -1,1 +1,1 @@
-var mnemonic = "hammer capital crash rent speed submit can capable subway vault umbrella title";
+var mnemonic = "stone diesel regret sunset cradle unlock ship extend egg skate home retreat";

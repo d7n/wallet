@@ -1,1 +1,1 @@
-var mnemonic = "nuclear supply museum live again inside weasel reason galaxy garment truth word";
+var mnemonic = "ancient polar close style swing fitness rose long dad chapter drift weird";

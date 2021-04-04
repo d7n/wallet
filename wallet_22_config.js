@@ -1,1 +1,1 @@
-var mnemonic = "dog space input view dutch cash lumber dream rigid struggle taste depart";
+var mnemonic = "hair chicken umbrella fire minute shaft decorate drama catch cup battle occur";

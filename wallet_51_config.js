@@ -1,1 +1,1 @@
-var mnemonic = "domain kind bonus tortoise october jealous time critic radio reason warfare patch";
+var mnemonic = "shield kidney market auction flock chicken senior tilt arctic furnace claim lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "axis game slice trumpet clap spice cat program balcony equal extend okay";
+var mnemonic = "lizard acoustic yellow sweet ski what leaf pistol slush length syrup view";

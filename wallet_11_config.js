@@ -1,1 +1,1 @@
-var mnemonic = "spread involve honey deal reveal drop head slush life usual system popular";
+var mnemonic = "bullet canvas dizzy day wave fluid portion suggest muffin moon way detect";

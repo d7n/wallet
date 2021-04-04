@@ -1,1 +1,1 @@
-var mnemonic = "current ranch where reason intact flight impact stove cool unique current stairs";
+var mnemonic = "immense genius liar blush system boat sunny sentence attack phone suspect forum";

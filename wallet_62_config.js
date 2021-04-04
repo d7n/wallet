@@ -1,1 +1,1 @@
-var mnemonic = "purpose wreck course draft worry sausage doll sister frozen tiger diet gaze";
+var mnemonic = "genuine fragile vibrant balcony rose vacant unfold actress appear ridge debris vapor";

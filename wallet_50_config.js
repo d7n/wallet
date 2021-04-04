@@ -1,1 +1,1 @@
-var mnemonic = "example shock above garlic law wait day thumb kite canal elite news";
+var mnemonic = "inside above warm arm mix cube cement rally program near skin blade";

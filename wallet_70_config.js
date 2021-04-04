@@ -1,1 +1,1 @@
-var mnemonic = "glue sail expand trade sponsor camera chair lonely inspire occur desert pepper";
+var mnemonic = "black knife venue addict tide bottom detect crouch push blossom cake math";

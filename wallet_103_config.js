@@ -1,1 +1,1 @@
-var mnemonic = "select high couch bag audit plate ball soldier journey detect marble swift";
+var mnemonic = "undo moment slam canoe window unit museum morning grit stereo figure rocket";

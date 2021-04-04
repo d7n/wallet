@@ -1,1 +1,1 @@
-var mnemonic = "grief robust genre explain multiply lawsuit supply select stable immune board jewel";
+var mnemonic = "entry despair body pink bachelor amazing retire record receive abandon song seminar";

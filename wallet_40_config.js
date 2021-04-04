@@ -1,1 +1,1 @@
-var mnemonic = "doctor table resist soon else carry pilot employ weather battle claw vendor";
+var mnemonic = "thunder banner subject argue response attract crouch item wheat accuse like nose";

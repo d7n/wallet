@@ -1,1 +1,1 @@
-var mnemonic = "loop casino ancient knock rough alpha fun argue violin legend arrow easy";
+var mnemonic = "coffee solution noise brief sunny wage depart disorder public nest jewel valley";

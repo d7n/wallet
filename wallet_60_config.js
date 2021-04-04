@@ -1,1 +1,1 @@
-var mnemonic = "occur cry replace hurt nuclear mimic talk argue celery fog skill modify";
+var mnemonic = "fitness audit number museum risk cabin regular vault account prepare loyal profit";

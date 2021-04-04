@@ -1,1 +1,1 @@
-var mnemonic = "brave approve sell grape cluster snake nerve illegal much planet shoot kingdom";
+var mnemonic = "assault mushroom unusual conduct chapter strategy able soap novel rapid trend inject";

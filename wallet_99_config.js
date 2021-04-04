@@ -1,1 +1,1 @@
-var mnemonic = "parrot recipe clap staff arm return faint together tonight useless creek innocent";
+var mnemonic = "kitchen gas merge eager job bounce home card click utility bachelor wasp";

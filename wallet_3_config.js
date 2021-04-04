@@ -1,1 +1,1 @@
-var mnemonic = "entry mesh exhibit hospital sausage witness choose pitch gap worth dance impact";
+var mnemonic = "team wave dwarf source shadow uphold among crime control shoulder unhappy reform";

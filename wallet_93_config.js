@@ -1,1 +1,1 @@
-var mnemonic = "proof aspect enroll caution entry poverty regular able cattle require feel elder";
+var mnemonic = "kite cushion ignore glare dance stamp ready cross feel volume equip manual";

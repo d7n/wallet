@@ -1,1 +1,1 @@
-var mnemonic = "gather blossom shy beach rug shoot dance globe enter pen awake athlete";
+var mnemonic = "armor deliver issue media wise smoke crisp panda rib cloud sample dizzy";

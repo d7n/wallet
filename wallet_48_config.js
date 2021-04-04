@@ -1,1 +1,1 @@
-var mnemonic = "young major dismiss blue sphere unknown chicken nerve critic special device unusual";
+var mnemonic = "oak already basket water good polar mechanic render skate aerobic gauge snap";

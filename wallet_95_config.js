@@ -1,1 +1,1 @@
-var mnemonic = "scrub employ funny indicate mixed repair lens spot gas receive actress toward";
+var mnemonic = "depth north length office sun right pigeon december garden normal perfect life";

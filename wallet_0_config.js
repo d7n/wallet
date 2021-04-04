@@ -1,1 +1,1 @@
-var mnemonic = "pull enrich true prize stem ask weapon subject bundle gym earn gold";
+var mnemonic = "into blanket tribe emotion cancel loan exercise curve student narrow kitten heart";

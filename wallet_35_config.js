@@ -1,1 +1,1 @@
-var mnemonic = "capital team upset thrive day apple pretty torch equip garage develop gown";
+var mnemonic = "tiny extend exhibit miss vocal sunny glance fluid decorate skirt drum seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "code phrase buzz never life mule hello razor hold three business vanish";
+var mnemonic = "chase else maximum vital antenna pigeon put lion wrist jacket saddle sauce";

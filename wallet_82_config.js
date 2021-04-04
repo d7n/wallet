@@ -1,1 +1,1 @@
-var mnemonic = "victory kidney foil current father there bread leopard hamster warfare divorce seek";
+var mnemonic = "fine own decline charge ticket bring soccer cart tribe oblige grace wrong";

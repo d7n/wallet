@@ -1,1 +1,1 @@
-var mnemonic = "aisle oblige will guess universe act elder cook lyrics museum neglect rain";
+var mnemonic = "equal stock world catch risk sorry fine doctor news belt oak jump";

@@ -1,1 +1,1 @@
-var mnemonic = "capital much order spot patch list viable zero imitate power brush renew";
+var mnemonic = "key strike fuel update stem story vibrant poem usage lobster wolf business";

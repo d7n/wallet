@@ -1,1 +1,1 @@
-var mnemonic = "reunion appear element hidden century around orient host delay vehicle leisure shoulder";
+var mnemonic = "eagle pencil soul beyond sauce poet enter box armor beef cat ticket";

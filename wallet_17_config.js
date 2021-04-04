@@ -1,1 +1,1 @@
-var mnemonic = "solve dilemma frame vocal couch tube effort chicken pitch void book town";
+var mnemonic = "silk romance pet penalty chicken win roof initial original lawn useful citizen";

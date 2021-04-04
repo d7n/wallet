@@ -1,1 +1,1 @@
-var mnemonic = "tuition worry ghost exit garlic citizen exchange option race bless paddle pulp";
+var mnemonic = "leisure fashion extra other tumble volume worry trick analyst lawn fuel tank";

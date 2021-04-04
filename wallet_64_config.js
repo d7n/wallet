@@ -1,1 +1,1 @@
-var mnemonic = "auto later regret another deer idle join thrive endless liquid tornado fold";
+var mnemonic = "question beef clever simple search hybrid kitchen morning object myself hood crater";

@@ -1,1 +1,1 @@
-var mnemonic = "infant spice borrow trend often bronze silly stomach point stick write cry";
+var mnemonic = "armor doll patient very law explain estate require click kingdom trap follow";

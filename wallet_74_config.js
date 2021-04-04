@@ -1,1 +1,1 @@
-var mnemonic = "message crucial student muscle ring night odor stable naive dance denial bless";
+var mnemonic = "vocal rent boss concert cheap shiver brick menu simple grunt cannon eager";

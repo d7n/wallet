@@ -1,1 +1,1 @@
-var mnemonic = "doctor stuff march safe release inflict merit bright rapid fossil final fat";
+var mnemonic = "loop ridge night column earn consider gospel swift plastic ritual own apple";

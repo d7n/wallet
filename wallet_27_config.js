@@ -1,1 +1,1 @@
-var mnemonic = "crop matrix glad maid achieve worry purity palace genuine rapid robust million";
+var mnemonic = "civil famous prepare endorse smart merge spoon rabbit ensure celery whisper under";

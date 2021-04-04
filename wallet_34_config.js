@@ -1,1 +1,1 @@
-var mnemonic = "below outside appear wall mouse husband start bag chapter auto motion blade";
+var mnemonic = "mushroom village prize tent slim hint bronze parade cliff ship faith acoustic";

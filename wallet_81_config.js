@@ -1,1 +1,1 @@
-var mnemonic = "broom shy defense cage bless pass dragon stage slogan glass raw possible";
+var mnemonic = "repair intact avocado neglect obscure clutch orient sunny about prepare practice illegal";

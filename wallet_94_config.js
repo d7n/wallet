@@ -1,1 +1,1 @@
-var mnemonic = "kit regular room tower soda gallery junk portion nominee dentist twenty audit";
+var mnemonic = "basket iron gentle glory govern cook cruel proud omit august wash panel";

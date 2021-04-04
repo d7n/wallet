@@ -1,1 +1,1 @@
-var mnemonic = "cushion cost actress bonus lazy morning case peasant grunt code brief moment";
+var mnemonic = "turtle twist invest life arena enter news sample silent tip rubber blood";

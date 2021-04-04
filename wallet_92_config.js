@@ -1,1 +1,1 @@
-var mnemonic = "cat venture figure rain patrol crunch carbon between super soon chunk idle";
+var mnemonic = "category foot engine wish case element grunt dizzy copper find board notice";

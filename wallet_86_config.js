@@ -1,1 +1,1 @@
-var mnemonic = "evoke spread quick curtain toward hour donate flower trouble cement imitate battle";
+var mnemonic = "nothing that shiver song acquire milk glow owner install erosion deposit recycle";

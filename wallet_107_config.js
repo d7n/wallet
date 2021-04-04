@@ -1,1 +1,1 @@
-var mnemonic = "defense jaguar oyster round obscure spoil either smile fold pelican satisfy winner";
+var mnemonic = "key gorilla trick absent hard anger wrist maple outdoor fine slim steel";

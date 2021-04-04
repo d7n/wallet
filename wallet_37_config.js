@@ -1,1 +1,1 @@
-var mnemonic = "defense ladder depart hazard canoe arena sniff float there spoil meadow buddy";
+var mnemonic = "camp series inhale where expose caught hill tired fury virus certain grab";

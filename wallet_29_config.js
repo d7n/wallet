@@ -1,1 +1,1 @@
-var mnemonic = "roof round brand oxygen boat globe junk index hero uphold matter devote";
+var mnemonic = "open surface door tattoo eyebrow junk vintage permit ceiling gold thunder census";

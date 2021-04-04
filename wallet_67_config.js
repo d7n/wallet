@@ -1,1 +1,1 @@
-var mnemonic = "rescue pencil text aunt property announce hundred monkey average chalk term lend";
+var mnemonic = "army reflect tomato snack file share left betray fever fury tuna crazy";

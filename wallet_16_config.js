@@ -1,1 +1,1 @@
-var mnemonic = "hello payment inside sad muscle wedding cost pony aspect excuse tag unknown";
+var mnemonic = "demand movie enhance despair bless grid between dolphin tennis gasp sword sound";

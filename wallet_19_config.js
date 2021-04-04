@@ -1,1 +1,1 @@
-var mnemonic = "track lab note knife trial project allow balcony grow desk sadness execute";
+var mnemonic = "exotic quiz trial guilt oil tank badge dinosaur eye miss cross stamp";

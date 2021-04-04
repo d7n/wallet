@@ -1,1 +1,1 @@
-var mnemonic = "major welcome shed mechanic either sorry soul member transfer supreme legend more";
+var mnemonic = "document current solution surround hollow rice choice boring zone good tell tone";

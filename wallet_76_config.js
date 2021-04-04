@@ -1,1 +1,1 @@
-var mnemonic = "marble area kind there turtle fly alley bamboo lecture typical choice mercy";
+var mnemonic = "typical cheap program earth bridge kangaroo token drill album adult fire donkey";

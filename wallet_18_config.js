@@ -1,1 +1,1 @@
-var mnemonic = "luxury gravity safe bottom truly noodle wing awake stage frequent pear sniff";
+var mnemonic = "bracket agent casino gown citizen health adjust budget agent burst outdoor tobacco";

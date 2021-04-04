@@ -1,1 +1,1 @@
-var mnemonic = "gym seminar pill ahead shiver crop snap bulk coach aunt clutch never";
+var mnemonic = "enjoy mix ugly dial mention buzz situate proud oven iron world abandon";

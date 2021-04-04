@@ -1,1 +1,1 @@
-var mnemonic = "goat cannon often smoke unfair fish speed similar crush hub bread purse";
+var mnemonic = "audit dolphin congress shiver swear carry soccer cook tower race lunar indicate";

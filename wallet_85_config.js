@@ -1,1 +1,1 @@
-var mnemonic = "twice number cactus donkey civil invest monkey subject umbrella table kangaroo verify";
+var mnemonic = "oyster crash carbon debris upset vivid route season cloth nuclear deputy chimney";

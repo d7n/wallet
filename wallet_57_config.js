@@ -1,1 +1,1 @@
-var mnemonic = "fat concert hammer annual jacket reunion design kitten cause arch remain space";
+var mnemonic = "teach menu little play fatigue trigger army shrimp together glass process action";

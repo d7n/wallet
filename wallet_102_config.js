@@ -1,1 +1,1 @@
-var mnemonic = "slush panther cloud blush gun elbow orbit vacant ride room fatal length";
+var mnemonic = "alter eternal push left carbon enrich destroy easily spread double ill shield";

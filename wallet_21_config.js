@@ -1,1 +1,1 @@
-var mnemonic = "canyon flame blouse enter region capable any similar mimic dust weekend alpha";
+var mnemonic = "humble misery destroy educate bachelor luxury pottery glove ribbon damage enemy can";

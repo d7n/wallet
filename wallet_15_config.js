@@ -1,1 +1,1 @@
-var mnemonic = "color great shove prize wear tuna winter quiz model echo offer absent";
+var mnemonic = "razor advance enroll mobile benefit summer high cycle cage clinic wear coconut";

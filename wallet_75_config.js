@@ -1,1 +1,1 @@
-var mnemonic = "across worry fiscal planet left isolate release margin depart text uphold hip";
+var mnemonic = "siege useful round donor million best expand exile detail velvet normal olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot give biology cost upper image noble daughter victory brand stereo organ";
+var mnemonic = "foot surge rather cloth small improve cherry train click unveil strong jazz";

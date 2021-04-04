@@ -1,1 +1,1 @@
-var mnemonic = "spot use oppose range horror powder oak hidden wild voyage flock ankle";
+var mnemonic = "strong bike mass turtle nose turkey pink key brand broccoli treat pill";

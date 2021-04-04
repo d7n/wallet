@@ -1,1 +1,1 @@
-var mnemonic = "input perfect save better ghost armed success verb grant rack excess journey";
+var mnemonic = "rely ill meat mammal bicycle whip clean prevent journey camp three cannon";

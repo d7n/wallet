@@ -1,1 +1,1 @@
-var mnemonic = "device ribbon misery album history trend wire champion lava traffic useless tennis";
+var mnemonic = "square affair valve fashion region snack tiger three artist nurse flash hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "public august kid deputy proof adapt hedgehog trip chapter begin laptop maze";
+var mnemonic = "door reunion pipe twin damage lend valley staff cluster rough west pause";

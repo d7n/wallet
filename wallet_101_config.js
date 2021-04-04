@@ -1,1 +1,1 @@
-var mnemonic = "bread sketch female volume analyst slab scrap diet vanish vacant snow elegant";
+var mnemonic = "distance enforce wait found bracket write fog brain pledge worth fan poverty";

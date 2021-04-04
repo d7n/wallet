@@ -1,1 +1,1 @@
-var mnemonic = "crack fabric green fold tiger just retreat enhance ancient surround rich artwork";
+var mnemonic = "urban maze employ antenna behind abandon absent hotel stereo below squeeze rifle";

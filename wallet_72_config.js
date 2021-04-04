@@ -1,1 +1,1 @@
-var mnemonic = "usual input north shed tide thing reveal blouse surround record negative spray";
+var mnemonic = "antenna plate funny crew whale flock dinosaur soft gym diagram staff exile";

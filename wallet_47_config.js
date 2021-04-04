@@ -1,1 +1,1 @@
-var mnemonic = "print domain ecology best jacket talk danger electric flight shove rude measure";
+var mnemonic = "chicken artwork orbit just can outside ski drama grief border endorse fog";

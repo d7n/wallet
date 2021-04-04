@@ -1,1 +1,1 @@
-var mnemonic = "thing ball glimpse onion erosion indicate concert grow brown scale charge direct";
+var mnemonic = "outside spot penalty luxury bachelor jump winter sugar enjoy one axis margin";
