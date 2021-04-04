@@ -1,1 +1,1 @@
-var mnemonic = "subject wool define myth false message between survey column sugar manage mimic";
+var mnemonic = "bachelor sniff congress rival jeans strategy famous measure bean devote napkin insane";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak speak stage print seek kingdom circle give gospel earth shove luggage";
+var mnemonic = "suggest cycle twelve blast annual total jungle toast glory danger punch reduce";

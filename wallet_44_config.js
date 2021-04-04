@@ -1,1 +1,1 @@
-var mnemonic = "street impulse split dizzy awake doll scan kid idle together indoor resist";
+var mnemonic = "uncle basic skill space dish latin guard lamp cute tiny sure rain";

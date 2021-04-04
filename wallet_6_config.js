@@ -1,1 +1,1 @@
-var mnemonic = "flight success kiss afford kid sorry plate size clown govern solve pact";
+var mnemonic = "only lemon thought canoe gossip fame oak spell owner undo trip future";

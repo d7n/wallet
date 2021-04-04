@@ -1,1 +1,1 @@
-var mnemonic = "elder ship there innocent level escape couple cattle spring squirrel pulse electric";
+var mnemonic = "salt fruit erode term swallow exotic wife change point captain farm interest";

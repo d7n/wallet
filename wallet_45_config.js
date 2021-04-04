@@ -1,1 +1,1 @@
-var mnemonic = "service clip stairs narrow potato gentle manage online organ use result jar";
+var mnemonic = "task exhaust language guilt december muscle mirror boss latin laptop prize flock";

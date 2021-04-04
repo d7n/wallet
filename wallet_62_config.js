@@ -1,1 +1,1 @@
-var mnemonic = "mass hub duck multiply valley equal coast mistake illegal prosper sugar shoot";
+var mnemonic = "motion omit brown cigar fortune lawn super uncle lumber group glance conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo artist scout toddler first auction ordinary card refuse climb wear float";
+var mnemonic = "prosper update village child prepare blade trial domain deer boat drop future";

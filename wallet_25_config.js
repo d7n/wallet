@@ -1,1 +1,1 @@
-var mnemonic = "blanket vanish column fiber provide cradle truck eager voice ripple guide license";
+var mnemonic = "general apart world aunt wash engage nurse sword rent credit nuclear school";

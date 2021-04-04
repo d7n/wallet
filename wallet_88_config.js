@@ -1,1 +1,1 @@
-var mnemonic = "slide exact immune embody hockey garage business neutral alley able bike impact";
+var mnemonic = "south saddle cave roast coconut idle road cart enrich acoustic then wolf";

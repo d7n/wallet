@@ -1,1 +1,1 @@
-var mnemonic = "scatter ribbon skirt match ask enrich proud peace scatter garment select equal";
+var mnemonic = "begin kitchen mail vault stamp push venue luggage occur high question scissors";

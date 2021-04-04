@@ -1,1 +1,1 @@
-var mnemonic = "tube inmate waste flip chimney someone arrest bleak book cup guide treat";
+var mnemonic = "jump nothing elder own cruel fuel frog ridge movie identify survey major";

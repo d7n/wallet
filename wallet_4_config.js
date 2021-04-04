@@ -1,1 +1,1 @@
-var mnemonic = "stairs doll toe damp urge extra toe liquid true anchor lottery history";
+var mnemonic = "goddess finish inspire verb library release pluck month model quote shoe arrest";

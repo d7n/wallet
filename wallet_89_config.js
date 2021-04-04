@@ -1,1 +1,1 @@
-var mnemonic = "artist dawn regret across duck ghost whip cake spoon thought wagon match";
+var mnemonic = "slam stone return rule rally syrup neck soul tank chase cereal cereal";

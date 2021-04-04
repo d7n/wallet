@@ -1,1 +1,1 @@
-var mnemonic = "romance trumpet seminar practice steak pill high unlock cute seed sniff net";
+var mnemonic = "steel drive laugh vibrant ride shed ridge wrestle horn oil script salon";

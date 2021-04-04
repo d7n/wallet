@@ -1,1 +1,1 @@
-var mnemonic = "firm output radar setup ability same first penalty boss elite hair impulse";
+var mnemonic = "elbow lake know mask opera replace mansion firm twelve shop orient human";

@@ -1,1 +1,1 @@
-var mnemonic = "current fault mystery rough stock define erode vapor muscle noise oppose insect";
+var mnemonic = "wire alert deal whisper someone party clarify agent despair merge excuse market";

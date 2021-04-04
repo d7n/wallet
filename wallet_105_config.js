@@ -1,1 +1,1 @@
-var mnemonic = "oyster bless floor imitate achieve breeze behave unknown scorpion foot plastic gate";
+var mnemonic = "soda embody need stove scale myself light seek goat task flavor cabin";

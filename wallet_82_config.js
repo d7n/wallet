@@ -1,1 +1,1 @@
-var mnemonic = "dawn before cement input gasp arena wife silent club situate link double";
+var mnemonic = "wreck belt team father correct wheel tragic flat hood resist arrive will";

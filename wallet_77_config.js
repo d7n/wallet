@@ -1,1 +1,1 @@
-var mnemonic = "ethics icon state more patrol club caution girl assist alert humble like";
+var mnemonic = "eagle move ozone brass impact ride right diesel echo good coast intact";

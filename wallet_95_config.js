@@ -1,1 +1,1 @@
-var mnemonic = "mad shrimp boil must beauty tattoo wonder area senior powder february belt";
+var mnemonic = "finish toddler any derive breeze roast eye insect letter hour utility skill";

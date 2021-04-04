@@ -1,1 +1,1 @@
-var mnemonic = "broccoli egg sunset umbrella seed replace capable high custom enrich loop this";
+var mnemonic = "eight slam wagon sauce subject disagree amazing dial fiction reflect consider reunion";

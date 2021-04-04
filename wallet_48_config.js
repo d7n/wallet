@@ -1,1 +1,1 @@
-var mnemonic = "poem dash supply usual true meat fatal cable earth flush royal core";
+var mnemonic = "actress trash creek wool angry employ tornado judge tent math tuna weather";

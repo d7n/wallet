@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur try assist gate rebuild average ask visit roof enter tone border";
+var mnemonic = "face neck include nephew news wine sorry sweet cattle category walnut error";

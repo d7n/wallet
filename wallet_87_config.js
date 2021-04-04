@@ -1,1 +1,1 @@
-var mnemonic = "muscle hold security stadium humor person air voyage motor energy column grain";
+var mnemonic = "tonight word copper spin mixture picture earth marriage mechanic increase drop gospel";

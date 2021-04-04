@@ -1,1 +1,1 @@
-var mnemonic = "asthma chapter puzzle eagle share skirt pool lizard system town step time";
+var mnemonic = "lock gravity riot muffin idle soon flash album special taxi category plate";

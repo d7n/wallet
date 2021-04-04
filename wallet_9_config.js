@@ -1,1 +1,1 @@
-var mnemonic = "heart penalty snap prison theme squeeze inch food example taste pluck arena";
+var mnemonic = "tunnel spy poem entire grain west number harsh need image apology sign";

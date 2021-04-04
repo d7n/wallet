@@ -1,1 +1,1 @@
-var mnemonic = "cruel mimic rent expire permit tape illness meadow damage near half need";
+var mnemonic = "typical pupil economy oak lunar dinosaur quote actress tenant uncle retire around";

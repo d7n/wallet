@@ -1,1 +1,1 @@
-var mnemonic = "bullet size wheel force wrestle way awful armed erase dust hotel six";
+var mnemonic = "jungle stick magic discover fun soon pulp cheap type arrow food glare";

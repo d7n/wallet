@@ -1,1 +1,1 @@
-var mnemonic = "drastic blood little dust trash wise health stamp sunset dwarf steak love";
+var mnemonic = "supply twenty jazz bus wash guess copper model trouble damage network frame";

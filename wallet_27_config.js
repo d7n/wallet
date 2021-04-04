@@ -1,1 +1,1 @@
-var mnemonic = "country bag scan intact wise tribe blur menu reopen must print beef";
+var mnemonic = "lake day neither wet more document ahead cool fold nephew unfair shy";

@@ -1,1 +1,1 @@
-var mnemonic = "spread vanish wait father trouble forest under surface relax sibling supreme current";
+var mnemonic = "snap leg person smoke deal tray pencil once sort they pride hotel";

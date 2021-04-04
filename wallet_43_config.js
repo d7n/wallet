@@ -1,1 +1,1 @@
-var mnemonic = "exercise file velvet lawn vault rack wheel around busy interest faculty remind";
+var mnemonic = "animal pattern resemble unaware beach replace earth island again attitude leader average";

@@ -1,1 +1,1 @@
-var mnemonic = "beef stereo upper still crumble notice reject turkey hub innocent foot river";
+var mnemonic = "cigar tube portion doll split future enemy chapter erupt easy walk wire";

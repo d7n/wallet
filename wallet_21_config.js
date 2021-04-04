@@ -1,1 +1,1 @@
-var mnemonic = "moon into cost tube more olympic apart hello switch unlock soft episode";
+var mnemonic = "midnight neck coast ticket jeans peace estate pizza worth bicycle warrior shallow";

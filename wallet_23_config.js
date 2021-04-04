@@ -1,1 +1,1 @@
-var mnemonic = "coach only fragile link innocent multiply need aware shoe marriage ankle bind";
+var mnemonic = "welcome describe dragon pen differ glimpse canoe obtain country eight ginger age";

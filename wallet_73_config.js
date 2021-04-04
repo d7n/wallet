@@ -1,1 +1,1 @@
-var mnemonic = "inflict galaxy sand police modify worth category cable silent walk twelve quiz";
+var mnemonic = "swear immense ketchup enroll hammer melody opinion task aim camera enrich credit";

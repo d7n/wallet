@@ -1,1 +1,1 @@
-var mnemonic = "mail vast alter found romance explain high undo senior pole expire bring";
+var mnemonic = "galaxy clean recipe write bamboo express affair short enhance puppy fade twist";

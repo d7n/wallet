@@ -1,1 +1,1 @@
-var mnemonic = "parrot smart buffalo enable peanut violin student music pony recipe false expire";
+var mnemonic = "length major predict give foster beyond mandate bone roast diary bar kiss";

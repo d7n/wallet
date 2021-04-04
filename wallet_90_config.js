@@ -1,1 +1,1 @@
-var mnemonic = "cigar display direct guilt sick involve cash canal bike pink solar into";
+var mnemonic = "search scrub afraid warfare wild own image sister sea typical seat survey";

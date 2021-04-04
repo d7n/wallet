@@ -1,1 +1,1 @@
-var mnemonic = "horror hill surge boss spice slot captain know intact thumb reject ranch";
+var mnemonic = "index topic lend balcony bus tube plastic frog base rough fan salad";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious tortoise guide tribe arm paddle body stereo monitor neck erupt spin";
+var mnemonic = "cargo exist hurdle refuse will sauce clown sell flame sunset inch roast";

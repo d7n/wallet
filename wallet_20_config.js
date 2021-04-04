@@ -1,1 +1,1 @@
-var mnemonic = "wheat panic human check sock harbor rough random humor bridge replace sweet";
+var mnemonic = "enforce quantum gym cactus verify worry situate unaware youth sting escape coast";

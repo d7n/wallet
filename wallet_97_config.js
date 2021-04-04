@@ -1,1 +1,1 @@
-var mnemonic = "bright tide wait rally discover sample three crawl favorite sketch festival agree";
+var mnemonic = "gain cash salt click rice strategy crawl dutch wear undo deal profit";

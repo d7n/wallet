@@ -1,1 +1,1 @@
-var mnemonic = "amazing talk spy sketch solid merry axis cat board scorpion volcano various";
+var mnemonic = "casual brass caught fuel artist resist address iron hat either vendor post";

@@ -1,1 +1,1 @@
-var mnemonic = "undo magic project sugar same style manage choice roof become slender industry";
+var mnemonic = "satisfy broom detail maximum future resource save goose hamster charge february since";

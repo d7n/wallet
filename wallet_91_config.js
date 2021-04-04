@@ -1,1 +1,1 @@
-var mnemonic = "thrive able use token girl oil hunt code goat spawn hen cube";
+var mnemonic = "viable cream access thank oil deputy stage afford antenna assault where possible";

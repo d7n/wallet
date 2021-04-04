@@ -1,1 +1,1 @@
-var mnemonic = "mask kite guitar plate club economy snake tower web choice degree pact";
+var mnemonic = "battle muscle shed bulb satoshi segment gallery ring announce raise upon deputy";

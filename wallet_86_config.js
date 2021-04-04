@@ -1,1 +1,1 @@
-var mnemonic = "reveal sniff better physical toward write home music point buzz opinion front";
+var mnemonic = "town diet session label garment unlock toe gentle method caution medal blade";

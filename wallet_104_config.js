@@ -1,1 +1,1 @@
-var mnemonic = "inflict note reduce equip across blood noodle glad couch already mention wait";
+var mnemonic = "submit merit swarm eyebrow raw puppy undo unfold wool wheat cherry bottom";

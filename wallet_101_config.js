@@ -1,1 +1,1 @@
-var mnemonic = "jealous regret print cheap bounce scheme vehicle idea sun plug swim project";
+var mnemonic = "cage only exile industry olympic potato shed cruel gesture famous north sphere";

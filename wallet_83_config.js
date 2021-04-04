@@ -1,1 +1,1 @@
-var mnemonic = "walk jazz help network nice wait atom tuna arctic ride tackle soda";
+var mnemonic = "wisdom inject voyage shine stove ripple tuna brother spice track vehicle error";

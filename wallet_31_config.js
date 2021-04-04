@@ -1,1 +1,1 @@
-var mnemonic = "provide height soul ghost company record debris guess grape south funny happy";
+var mnemonic = "orbit receive mention text asthma garage hunt dilemma rural great middle short";

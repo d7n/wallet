@@ -1,1 +1,1 @@
-var mnemonic = "corn witness kiss bullet jaguar enter fantasy luxury concert item bulk peanut";
+var mnemonic = "trick moon beyond update custom maze cat pull slide usual control announce";

@@ -1,1 +1,1 @@
-var mnemonic = "hire inform puppy museum picnic amount guard field mimic typical session peasant";
+var mnemonic = "hello gossip hour broken give pudding alone magic jelly wall unveil flock";

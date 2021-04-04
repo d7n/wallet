@@ -1,1 +1,1 @@
-var mnemonic = "river paper mule doctor viable until balance neglect brick boat mammal foster";
+var mnemonic = "marriage lunch bean envelope insane smoke wink general jacket keep master drama";

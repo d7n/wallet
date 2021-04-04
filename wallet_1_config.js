@@ -1,1 +1,1 @@
-var mnemonic = "staff rhythm vendor convince banner panda bread goose purchase lawn month legal";
+var mnemonic = "response oxygen toss suit deal have patch adapt radar escape math club";

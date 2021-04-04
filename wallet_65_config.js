@@ -1,1 +1,1 @@
-var mnemonic = "egg pony antique music crucial undo female feed whip legal around fan";
+var mnemonic = "begin grief paper language weird move cave question subject kitten junior rude";

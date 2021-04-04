@@ -1,1 +1,1 @@
-var mnemonic = "arrive vacuum write never else cat unveil speak maple decade spirit hill";
+var mnemonic = "leg virus citizen century coin poverty author talk always cat spend unaware";

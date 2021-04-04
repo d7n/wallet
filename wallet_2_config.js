@@ -1,1 +1,1 @@
-var mnemonic = "genius seminar noise sick armed dinner duty decade endorse token earth trouble";
+var mnemonic = "head skill middle divide soap puzzle empty beyond verb payment poverty include";

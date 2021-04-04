@@ -1,1 +1,1 @@
-var mnemonic = "suspect satisfy cube crystal hard wing act cloth envelope decline success super";
+var mnemonic = "phone frame walk club glimpse horror where maze winter design stairs pair";

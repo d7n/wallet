@@ -1,1 +1,1 @@
-var mnemonic = "evolve aware elevator arrange ocean inhale cry public timber modify moral ribbon";
+var mnemonic = "icon work salon clarify review acquire globe language truck long destroy camp";

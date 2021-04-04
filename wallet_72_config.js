@@ -1,1 +1,1 @@
-var mnemonic = "floor hire penalty pig crisp awake situate tourist destroy all canal decide";
+var mnemonic = "veteran invite bench kitchen river expand range panel decorate board demand jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "thank evidence ability glory demise veteran cause guilt coach nose thank surround";
+var mnemonic = "come era cement aware ritual calm stem civil permit melody crazy sea";

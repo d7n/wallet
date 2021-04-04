@@ -1,1 +1,1 @@
-var mnemonic = "used chalk waste luxury inflict exhaust hobby affair harsh pole slush render";
+var mnemonic = "mercy quick effort critic slice wolf excite entire because neck action capital";

@@ -1,1 +1,1 @@
-var mnemonic = "army tunnel wagon leopard radio embark smoke deny apology august spring story";
+var mnemonic = "shock web panther divide slot laugh picnic stairs renew carry into uncover";

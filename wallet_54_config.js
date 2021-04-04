@@ -1,1 +1,1 @@
-var mnemonic = "ladder trumpet hub hard chaos surprise palace clock key invite curve crane";
+var mnemonic = "atom buyer review evil trap forget prosper decorate party cycle circle breeze";

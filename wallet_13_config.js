@@ -1,1 +1,1 @@
-var mnemonic = "door sausage feel snow magic dynamic harvest wash pony canal neck salad";
+var mnemonic = "ability close scan tag sheriff response notice crawl panic gloom humor chair";

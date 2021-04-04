@@ -1,1 +1,1 @@
-var mnemonic = "loan twenty crack reflect nothing horror anchor penalty obey liberty illegal path";
+var mnemonic = "there slam spell exotic primary shallow radio pact zebra myth stage elephant";

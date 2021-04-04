@@ -1,1 +1,1 @@
-var mnemonic = "home border bomb slush melt west hole leave paddle rabbit royal humor";
+var mnemonic = "since spy vital age trash inmate logic thrive front win iron achieve";

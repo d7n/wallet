@@ -1,1 +1,1 @@
-var mnemonic = "shrug skate deliver innocent wolf peasant weather sense seven twist awesome journey";
+var mnemonic = "rack whisper kangaroo dream decline pass excuse false alcohol museum lock income";

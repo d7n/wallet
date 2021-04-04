@@ -1,1 +1,1 @@
-var mnemonic = "stool convince gown bronze uphold sunny guide magnet stick friend degree eye";
+var mnemonic = "purity cram knee laundry history dry bicycle ancient ride scout report miss";

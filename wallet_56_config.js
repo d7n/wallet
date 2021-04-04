@@ -1,1 +1,1 @@
-var mnemonic = "lyrics snack warm giraffe require hunt acid mango crumble slow brother world";
+var mnemonic = "embrace time more call grain rigid recycle off muscle young good raccoon";

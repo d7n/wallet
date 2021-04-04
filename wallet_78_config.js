@@ -1,1 +1,1 @@
-var mnemonic = "can gentle hundred leave token riot leopard dignity abuse trumpet boy where";
+var mnemonic = "tuna vocal mango level blouse sentence art effort cattle add still wonder";

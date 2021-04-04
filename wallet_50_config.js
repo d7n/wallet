@@ -1,1 +1,1 @@
-var mnemonic = "puzzle capital general brush reduce trade song million audit siren egg embody";
+var mnemonic = "unveil turn oblige drip settle symptom pizza lottery join egg deer spoil";

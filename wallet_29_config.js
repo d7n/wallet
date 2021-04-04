@@ -1,1 +1,1 @@
-var mnemonic = "distance sausage used east tank hollow below club margin upset shoe must";
+var mnemonic = "frown boy lucky cycle dignity dirt blur prize cart above police material";

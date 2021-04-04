@@ -1,1 +1,1 @@
-var mnemonic = "enter trumpet rifle very gravity arrow asset antique brown enrich road violin";
+var mnemonic = "essay wife scan staff foil ordinary slender lock lamp shell flag weather";

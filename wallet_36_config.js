@@ -1,1 +1,1 @@
-var mnemonic = "direct marriage ceiling document knife opera noise depart play grow luggage alpha";
+var mnemonic = "print ship party ozone video fix quick supply hero milk goddess garden";

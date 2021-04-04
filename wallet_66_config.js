@@ -1,1 +1,1 @@
-var mnemonic = "found absent artwork anger supply pair vessel solar oak patch struggle grow";
+var mnemonic = "destroy enroll virus radar cycle rifle memory hammer glance onion install first";

@@ -1,1 +1,1 @@
-var mnemonic = "piano regular alcohol notable monkey broken room until home near execute potato";
+var mnemonic = "again angry canal tree benefit chalk stool milk coral insect front split";

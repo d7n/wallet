@@ -1,1 +1,1 @@
-var mnemonic = "success bleak oil chalk seek alone shadow purity ethics turn weekend hero";
+var mnemonic = "sword uncle trophy seek ancient train shrimp artefact belt primary timber choose";

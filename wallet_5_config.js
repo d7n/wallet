@@ -1,1 +1,1 @@
-var mnemonic = "swim valve worry response legend arm pottery target just idle tomorrow labor";
+var mnemonic = "maximum warfare visit pride elegant oval pitch tuna normal bridge leader dove";

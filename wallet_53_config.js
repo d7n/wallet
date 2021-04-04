@@ -1,1 +1,1 @@
-var mnemonic = "cherry monitor tilt decrease skull embark theory search weasel potato taste eagle";
+var mnemonic = "weather harbor dad pave hover door unlock weather among oppose wolf number";

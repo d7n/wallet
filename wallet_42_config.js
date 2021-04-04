@@ -1,1 +1,1 @@
-var mnemonic = "donor fox tonight tourist rug mountain zero swear refuse force artwork wealth";
+var mnemonic = "below author dismiss math monster card walk guess produce rail kitten blade";

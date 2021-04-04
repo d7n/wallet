@@ -1,1 +1,1 @@
-var mnemonic = "wear entry aware include kiwi remember trend metal clever time mix staff";
+var mnemonic = "clerk color domain snake skull say rice bottom control blind shop local";

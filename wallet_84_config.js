@@ -1,1 +1,1 @@
-var mnemonic = "nothing vanish movie spoon canyon beauty manual control alarm also window stuff";
+var mnemonic = "danger mammal elevator differ happy worth penalty whip axis salmon monster half";

@@ -1,1 +1,1 @@
-var mnemonic = "glass blood arch garden give supreme churn concert visual believe dentist blanket";
+var mnemonic = "merge tobacco bind belt valve risk pave coffee isolate slight guilt cover";

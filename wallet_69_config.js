@@ -1,1 +1,1 @@
-var mnemonic = "truth ritual rent answer rescue eye liquid immune royal object grief awkward";
+var mnemonic = "adapt car runway slam combine job settle cabbage inflict trap biology ginger";
