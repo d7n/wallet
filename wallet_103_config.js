@@ -1,1 +1,1 @@
-var mnemonic = "glance web august stick luxury alley snow around mean wreck moment tell";
+var mnemonic = "jacket motion dial clog tonight govern gown duck island normal bag boost";

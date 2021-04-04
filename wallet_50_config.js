@@ -1,1 +1,1 @@
-var mnemonic = "office paper either eternal happy olive company gun museum trend grass liar";
+var mnemonic = "skirt armed aware consider soup myself endless earth wear amazing cream leader";

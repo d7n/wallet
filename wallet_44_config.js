@@ -1,1 +1,1 @@
-var mnemonic = "oven use shove dish silent hard sibling web choose shove summer picture";
+var mnemonic = "minimum story gain also artwork gravity false luggage member item mercy foil";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward space weird private shield spring elder flag kite olympic slight crush";
+var mnemonic = "crawl find window quantum exact bright soul senior cream check parade pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze stamp yard emotion glass skin wheat object orbit expire model cancel";
+var mnemonic = "meat metal unusual bomb junk judge prevent annual travel health ship situate";

@@ -1,1 +1,1 @@
-var mnemonic = "drink job media myth palm garbage obscure dizzy trust target rebel dirt";
+var mnemonic = "evoke question confirm chimney dash robust grace tired blanket announce orphan sustain";

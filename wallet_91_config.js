@@ -1,1 +1,1 @@
-var mnemonic = "ginger abstract various method calm salon later today canal galaxy insane whisper";
+var mnemonic = "connect release error crunch slim random champion buffalo cliff field view major";

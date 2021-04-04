@@ -1,1 +1,1 @@
-var mnemonic = "narrow wagon shallow captain lunar sick edit dash property glimpse girl slight";
+var mnemonic = "gentle swap ask cream erupt casual scrap deer tuition twelve true wrestle";

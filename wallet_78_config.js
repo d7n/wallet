@@ -1,1 +1,1 @@
-var mnemonic = "never sunny wire squeeze slam cloth topple useless grape young virus indoor";
+var mnemonic = "genuine vault across mother rack bridge list soap shop stove grant good";

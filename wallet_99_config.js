@@ -1,1 +1,1 @@
-var mnemonic = "buzz nut leave blanket grid glad atom ketchup labor innocent around friend";
+var mnemonic = "cousin oval put fetch economy mirror elevator few patch slight prize woman";

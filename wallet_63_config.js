@@ -1,1 +1,1 @@
-var mnemonic = "novel blanket season always device arrange wash agree outdoor save chuckle reveal";
+var mnemonic = "dress bitter fan dream zoo year salon romance cabin next access place";

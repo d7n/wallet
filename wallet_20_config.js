@@ -1,1 +1,1 @@
-var mnemonic = "proof popular bargain brain drastic disease team menu fiscal vapor clip chalk";
+var mnemonic = "offer dash pulse rich farm tissue until neither casual output cram radio";

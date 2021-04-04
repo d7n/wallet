@@ -1,1 +1,1 @@
-var mnemonic = "melody option turkey crew spoon same hurt fade cram rally easy nut";
+var mnemonic = "prevent trash summer nice liar beauty term faculty inside affair input wealth";

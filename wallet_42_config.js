@@ -1,1 +1,1 @@
-var mnemonic = "still coast service game salmon pond cannon dream concert poet canvas possible";
+var mnemonic = "large position cinnamon sweet conduct million side check recall blast eternal amazing";

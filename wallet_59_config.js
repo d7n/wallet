@@ -1,1 +1,1 @@
-var mnemonic = "fatigue involve today steak math critic skate capable achieve eternal jewel chalk";
+var mnemonic = "saddle craft main recall member alter almost embrace coil tenant shell social";

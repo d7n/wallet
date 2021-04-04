@@ -1,1 +1,1 @@
-var mnemonic = "autumn category hawk impose harvest hedgehog donate siege unique monster second embark";
+var mnemonic = "assume prison evoke seven level tool excuse logic hamster flat second sense";

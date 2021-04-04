@@ -1,1 +1,1 @@
-var mnemonic = "army position lock sudden mandate shift slot flock junk rare antenna strike";
+var mnemonic = "youth front avoid slab guess trumpet kid arrest stereo order more stick";

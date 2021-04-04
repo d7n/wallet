@@ -1,1 +1,1 @@
-var mnemonic = "vast friend path piano mosquito inquiry oxygen file culture valley orange bottom";
+var mnemonic = "attitude mind token fox push one tool blade diesel toy edge chest";

@@ -1,1 +1,1 @@
-var mnemonic = "expire bus napkin father finger general twin chase any rescue olive force";
+var mnemonic = "urge bamboo predict pioneer prize silent what volume away remain order salad";

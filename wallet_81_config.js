@@ -1,1 +1,1 @@
-var mnemonic = "follow vicious green good tenant pill taste club month decorate orbit spray";
+var mnemonic = "half vessel endless scene image fade genuine police fresh chimney bone female";

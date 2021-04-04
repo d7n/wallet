@@ -1,1 +1,1 @@
-var mnemonic = "donkey bird empower indoor quote trouble rally catalog powder vacant virus guess";
+var mnemonic = "apple away favorite culture purse flight dog truth eyebrow method clump young";

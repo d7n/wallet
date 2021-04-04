@@ -1,1 +1,1 @@
-var mnemonic = "correct famous barely ancient bracket share glass giant enough nuclear nut transfer";
+var mnemonic = "rebuild wheel wealth insane middle security spice viable decade clutch heavy silent";

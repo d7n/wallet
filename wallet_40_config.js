@@ -1,1 +1,1 @@
-var mnemonic = "hammer volume apple width service pill another surround hamster search project lobster";
+var mnemonic = "tide there hard middle gun piano cable blossom brand try stage ripple";

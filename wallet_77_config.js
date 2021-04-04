@@ -1,1 +1,1 @@
-var mnemonic = "rent couple annual kit genuine service advance need turn legend twist distance";
+var mnemonic = "nice wool divorce escape shiver joke bamboo chunk artefact kit shell hungry";

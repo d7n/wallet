@@ -1,1 +1,1 @@
-var mnemonic = "brother guess grid hard goat edit sunny reveal same country write impulse";
+var mnemonic = "slot shy weasel purpose oyster mango bicycle junior multiply foster strong cash";

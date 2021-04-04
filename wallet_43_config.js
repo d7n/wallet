@@ -1,1 +1,1 @@
-var mnemonic = "genuine monitor fade put welcome hole adjust inside embody kidney tuna pact";
+var mnemonic = "cricket chef divorce waste region mobile fancy news attract increase grab unit";

@@ -1,1 +1,1 @@
-var mnemonic = "violin device pupil meat catch know miss safe uniform chronic rookie spirit";
+var mnemonic = "release weekend crystal furnace obvious industry leave napkin plunge tornado laugh trap";

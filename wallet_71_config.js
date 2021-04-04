@@ -1,1 +1,1 @@
-var mnemonic = "knock cabin royal large foot output when wave long eager secret hand";
+var mnemonic = "give matrix measure tower inflict law vacant laugh mystery blanket glimpse motor";

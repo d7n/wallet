@@ -1,1 +1,1 @@
-var mnemonic = "coral genre daughter dentist festival renew beef surprise category purchase feel advice";
+var mnemonic = "permit shrimp item merit front garbage concert organ result flee glad kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "appear ranch wheat term device illegal question police they cupboard bless power";
+var mnemonic = "napkin viable crisp online spoon disagree sustain trigger again renew outer kangaroo";

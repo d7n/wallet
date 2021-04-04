@@ -1,1 +1,1 @@
-var mnemonic = "tank dish intact input frequent cube faculty oval firm endless scatter relax";
+var mnemonic = "either breeze slender drink ball frequent need fitness seed tape teach science";

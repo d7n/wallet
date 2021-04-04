@@ -1,1 +1,1 @@
-var mnemonic = "gloom flash raccoon glad march insect food member final together differ catch";
+var mnemonic = "awkward wet champion tip rural duty provide scatter farm local scorpion stock";

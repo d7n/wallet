@@ -1,1 +1,1 @@
-var mnemonic = "regret swamp aspect test arch urban main various evoke sunny explain air";
+var mnemonic = "void muffin settle sun shove kitten model runway fat antenna height slide";

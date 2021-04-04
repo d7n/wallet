@@ -1,1 +1,1 @@
-var mnemonic = "tide provide measure phrase craft embody jewel reward hen gown number purse";
+var mnemonic = "insect lawsuit echo wrestle quality myth shine unit project either rigid law";

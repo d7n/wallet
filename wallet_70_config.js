@@ -1,1 +1,1 @@
-var mnemonic = "fun brisk combine limb sound beyond lion junk cause champion novel pigeon";
+var mnemonic = "spot actual rely bus curious mosquito devote trophy film trigger style tortoise";

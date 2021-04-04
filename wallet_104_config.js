@@ -1,1 +1,1 @@
-var mnemonic = "menu access age viable vapor lucky change voice stool twice ridge hospital";
+var mnemonic = "fine return save grow domain simple habit field hollow section hedgehog curve";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror idle adult enjoy enjoy merge rent opinion truly resource pact tide";
+var mnemonic = "sense chapter two talk wire crush horn giggle vote credit inside crisp";

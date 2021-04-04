@@ -1,1 +1,1 @@
-var mnemonic = "festival know hover pupil axis produce alarm supreme cause jaguar they orchard";
+var mnemonic = "predict inner arrest chief broken dragon doctor slight phrase cushion receive electric";

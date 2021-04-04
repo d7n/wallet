@@ -1,1 +1,1 @@
-var mnemonic = "maid pyramid trap wear universe bird cable audit want baby obscure strike";
+var mnemonic = "soap neutral peace cancel scare owner diary concert motor magnet cigar mistake";

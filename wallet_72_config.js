@@ -1,1 +1,1 @@
-var mnemonic = "wish nephew file feel season forward uniform runway system cheese science arrange";
+var mnemonic = "father mask team begin clip goddess admit coach float mammal drill super";

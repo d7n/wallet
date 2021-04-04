@@ -1,1 +1,1 @@
-var mnemonic = "uphold change retire twice alien reopen hunt umbrella file toast major erode";
+var mnemonic = "hungry humor valid woman token page stadium owner buyer brass dust nominee";

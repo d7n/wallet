@@ -1,1 +1,1 @@
-var mnemonic = "sing math cherry over stuff fantasy team dry bird ride solution list";
+var mnemonic = "magnet erode nominee empower park glare cushion blush require little found ensure";

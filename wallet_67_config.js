@@ -1,1 +1,1 @@
-var mnemonic = "team tennis layer once melt tragic lawsuit train once speed clerk athlete";
+var mnemonic = "salad inch prevent dizzy liberty leaf kitchen custom random easy found slush";

@@ -1,1 +1,1 @@
-var mnemonic = "dream room release addict rival asthma alter museum language dwarf armed debris";
+var mnemonic = "profit limit tribe warfare stairs laptop help peasant muscle input able omit";

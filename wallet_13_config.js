@@ -1,1 +1,1 @@
-var mnemonic = "slim quiz outer hold rain scorpion bike tired school axis churn glare";
+var mnemonic = "sadness fiction vicious stairs smooth appear quick shy dinner champion noodle hen";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse verify quiz desk extra awkward throw execute enrich margin seven detail";
+var mnemonic = "vendor tray gravity pull universe album bind soldier such abandon click siren";

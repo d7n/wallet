@@ -1,1 +1,1 @@
-var mnemonic = "tissue celery poverty bonus raise retreat sense shallow loan seed client story";
+var mnemonic = "pilot weekend shadow vivid else lottery diary sample box dynamic fresh ritual";

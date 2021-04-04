@@ -1,1 +1,1 @@
-var mnemonic = "educate misery resist window mule post craft below clog train firm pig";
+var mnemonic = "future grape cover wool bid detect shoot choose bamboo benefit twelve plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "liar blame clutch save close diesel marble interest length leader slow organ";
+var mnemonic = "aspect tennis theory okay island blind dance wear promote song wrap result";

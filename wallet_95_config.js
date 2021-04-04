@@ -1,1 +1,1 @@
-var mnemonic = "ripple knee cry leg afford fatal glance favorite indicate cube silver afraid";
+var mnemonic = "hidden giraffe pole execute genuine usual hope gadget conduct awful space kick";

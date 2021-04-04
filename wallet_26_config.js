@@ -1,1 +1,1 @@
-var mnemonic = "tail pencil topic cage bounce clinic brisk conduct brisk cancel place frown";
+var mnemonic = "swamp gospel dash act slender upset pattern pig erase crush weather annual";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate seat rich kitchen maid nation scatter nut fantasy method ancient order";
+var mnemonic = "tired fold check velvet attitude gospel panther brief steak blast army crash";

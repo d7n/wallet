@@ -1,1 +1,1 @@
-var mnemonic = "unfair bleak fringe husband skin dizzy tourist alter humor luxury lobster cotton";
+var mnemonic = "mad pupil flip sort volcano marble age column code reduce area garbage";

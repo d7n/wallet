@@ -1,1 +1,1 @@
-var mnemonic = "horror pave brain chalk round option cement grow absorb snack lumber rival";
+var mnemonic = "pizza deliver poem cool midnight high grain body brand index weird rubber";

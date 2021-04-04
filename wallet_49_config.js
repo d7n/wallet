@@ -1,1 +1,1 @@
-var mnemonic = "fringe more bike tragic used school effort eight mad toy cram rent";
+var mnemonic = "swear patrol afraid before sunset hawk six earn predict jazz that rain";

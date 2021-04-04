@@ -1,1 +1,1 @@
-var mnemonic = "rubber cloth dolphin pluck grid hamster primary narrow gym wood toast sheriff";
+var mnemonic = "mouse omit cream story system note extra three garlic six live gun";

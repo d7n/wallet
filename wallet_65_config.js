@@ -1,1 +1,1 @@
-var mnemonic = "vital maximum crazy fetch coin core uncover art taxi bind slush alcohol";
+var mnemonic = "actor buddy bracket ability select toilet pause cloth good fetch credit embark";

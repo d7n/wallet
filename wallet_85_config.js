@@ -1,1 +1,1 @@
-var mnemonic = "banana over lawsuit clay number dad satisfy card dentist debate raw slight";
+var mnemonic = "wrap tortoise among fan book enemy soccer tiny winner industry bright total";

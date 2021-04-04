@@ -1,1 +1,1 @@
-var mnemonic = "inject thank dizzy bulk bullet basket arctic glide man quit bicycle glory";
+var mnemonic = "angry essay sniff pepper invite sadness solar option floor flock season morning";

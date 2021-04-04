@@ -1,1 +1,1 @@
-var mnemonic = "dish glare fashion village when amused until fiber drama eager coil moment";
+var mnemonic = "tray essay antenna brand spoil ginger female undo monkey fly boy engage";

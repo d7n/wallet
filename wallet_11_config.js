@@ -1,1 +1,1 @@
-var mnemonic = "media bind danger describe ride nurse approve devote accuse unhappy fade dust";
+var mnemonic = "wisdom giraffe tomato dwarf filter ball sorry trash demise trade someone outdoor";

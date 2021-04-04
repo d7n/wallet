@@ -1,1 +1,1 @@
-var mnemonic = "roof that off sock sponsor scout collect theme help salute trumpet nurse";
+var mnemonic = "street pet sphere boss action rule give door any ugly rhythm machine";

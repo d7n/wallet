@@ -1,1 +1,1 @@
-var mnemonic = "identify real coral surround valve output delay kiwi asset decorate monitor divide";
+var mnemonic = "salt bubble rail throw pair scorpion thing segment cost that match cover";

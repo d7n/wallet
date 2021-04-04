@@ -1,1 +1,1 @@
-var mnemonic = "pear obscure mask bunker caught frown embark error flash jeans gaze remind";
+var mnemonic = "south live false before resist belt thumb chimney soccer hungry inherit atom";

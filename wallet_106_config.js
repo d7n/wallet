@@ -1,1 +1,1 @@
-var mnemonic = "violin artist leisure feel right pony orient cloth sword any rich action";
+var mnemonic = "media legend tennis flush learn gift talent pact border picnic jewel force";

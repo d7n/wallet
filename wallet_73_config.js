@@ -1,1 +1,1 @@
-var mnemonic = "trust exist one finish ignore coil surround manage hint between clog float";
+var mnemonic = "tuition joke essence virtual rib soap medal hurt exotic chest dune toy";

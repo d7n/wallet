@@ -1,1 +1,1 @@
-var mnemonic = "rate knee mention kit disagree reject luggage student axis habit emotion sugar";
+var mnemonic = "nothing call expect cheap surprise myself clarify giant surround farm reveal direct";

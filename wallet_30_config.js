@@ -1,1 +1,1 @@
-var mnemonic = "license oblige fluid tent check blood forget spray taste series crumble salad";
+var mnemonic = "genre opinion crystal polar stumble improve clump state oyster knife catch wisdom";

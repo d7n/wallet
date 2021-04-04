@@ -1,1 +1,1 @@
-var mnemonic = "erosion wagon divert arrange mosquito enemy observe motor sing hold skate match";
+var mnemonic = "suspect connect aim wasp book illness sport august slot candy inject immune";

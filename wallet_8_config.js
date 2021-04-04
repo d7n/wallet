@@ -1,1 +1,1 @@
-var mnemonic = "airport dragon live gate solution immune better junk garlic symptom ladder cargo";
+var mnemonic = "carbon magnet fox bundle regret screen mystery address demand nerve muscle retire";

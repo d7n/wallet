@@ -1,1 +1,1 @@
-var mnemonic = "west degree economy agent viable veteran blossom hurdle tape peanut dirt find";
+var mnemonic = "promote swarm wire patch peasant egg indicate fresh gospel amazing present north";

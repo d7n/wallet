@@ -1,1 +1,1 @@
-var mnemonic = "despair fortune please modify woman usage check they fragile human circle rude";
+var mnemonic = "that hello adjust always share remind smart fever ribbon inquiry venture group";

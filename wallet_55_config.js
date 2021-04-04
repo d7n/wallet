@@ -1,1 +1,1 @@
-var mnemonic = "galaxy flavor carry head engage scare reunion worry wait avocado invite unable";
+var mnemonic = "impact stick quiz boss cake three enroll dry idea infant fix quit";

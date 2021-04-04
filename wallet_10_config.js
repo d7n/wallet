@@ -1,1 +1,1 @@
-var mnemonic = "tail act claw life woman cup moment video boy describe report valley";
+var mnemonic = "envelope ten output math visit home bulb garbage genius chapter hedgehog bone";

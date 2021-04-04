@@ -1,1 +1,1 @@
-var mnemonic = "nothing chef until syrup future exhaust already able edge action there gather";
+var mnemonic = "cousin miracle much ankle pond success embrace sting game trade maple broken";

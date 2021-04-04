@@ -1,1 +1,1 @@
-var mnemonic = "city crisp glue chest river coral ripple rail payment cup exchange voice";
+var mnemonic = "pulse auto rigid scissors level category lens cherry isolate belt season save";

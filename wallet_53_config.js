@@ -1,1 +1,1 @@
-var mnemonic = "fence mother peanut park shy snack park burden choice nephew ladder between";
+var mnemonic = "laugh humor memory laugh surge jaguar venture tell endless memory critic amateur";

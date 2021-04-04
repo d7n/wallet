@@ -1,1 +1,1 @@
-var mnemonic = "alert quantum arm drop chase spot trigger shine bone joke refuse step";
+var mnemonic = "company fun stone top square bitter fiction adult flower planet frown tired";

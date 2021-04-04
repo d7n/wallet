@@ -1,1 +1,1 @@
-var mnemonic = "giraffe gym govern engage clock rose midnight abandon marriage combine adult manual";
+var mnemonic = "near section pattern tuition viable cost damage route reward wealth celery melody";

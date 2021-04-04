@@ -1,1 +1,1 @@
-var mnemonic = "stumble song solve iron ensure suggest hotel quote tail topple emerge evolve";
+var mnemonic = "shield fragile sleep glide uniform vendor mystery adjust cinnamon behind borrow upper";

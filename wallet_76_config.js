@@ -1,1 +1,1 @@
-var mnemonic = "merit sadness fun dentist wheat clerk monitor destroy attend next verb first";
+var mnemonic = "lizard hat remain sport chapter envelope multiply remove cigar banner finish genuine";

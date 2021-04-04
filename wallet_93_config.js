@@ -1,1 +1,1 @@
-var mnemonic = "only october disease gauge battle poem attack stand stumble private coast ride";
+var mnemonic = "dice peasant enemy sibling useless coffee fame arena crunch aerobic area slab";

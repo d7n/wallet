@@ -1,1 +1,1 @@
-var mnemonic = "divorce dolphin valid banner robot flat husband scheme use filter rotate fire";
+var mnemonic = "strong master merry garbage place present sauce opinion used snake pizza series";

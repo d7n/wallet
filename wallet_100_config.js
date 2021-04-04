@@ -1,1 +1,1 @@
-var mnemonic = "rubber opinion fiction kidney crop warfare age emerge purse tool tenant judge";
+var mnemonic = "utility wonder merry image chimney middle luggage rocket follow pyramid august party";

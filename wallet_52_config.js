@@ -1,1 +1,1 @@
-var mnemonic = "pupil exercise term holiday put stairs melody scatter inform ski fine busy";
+var mnemonic = "defy cannon sell enough ginger cabbage sibling magic crisp arch blanket lab";

@@ -1,1 +1,1 @@
-var mnemonic = "caught plate exclude innocent peanut scrap stadium audit item sting praise sight";
+var mnemonic = "submit occur section sign hybrid solid diary bag exclude wheel situate sentence";

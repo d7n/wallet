@@ -1,1 +1,1 @@
-var mnemonic = "wise million reject grace agent voyage lunar couple wash tuition mechanic divert";
+var mnemonic = "country extra shop today script equal october frog creek open repair helmet";

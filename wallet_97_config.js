@@ -1,1 +1,1 @@
-var mnemonic = "audit now flight six flee aunt wage grant sibling tape night around";
+var mnemonic = "upset exclude smoke legend feed impose dentist code deer clinic champion pulp";

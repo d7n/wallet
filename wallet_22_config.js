@@ -1,1 +1,1 @@
-var mnemonic = "benefit peace nerve proof text bronze green canyon gown left siren border";
+var mnemonic = "seminar tree rate meat soul tourist add put bacon gesture warfare rich";

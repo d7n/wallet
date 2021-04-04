@@ -1,1 +1,1 @@
-var mnemonic = "save photo suspect radio sail play private whale exercise present meadow tank";
+var mnemonic = "fever language vast throw test comic glass antenna pulp gorilla sugar link";
