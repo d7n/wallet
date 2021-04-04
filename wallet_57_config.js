@@ -1,1 +1,1 @@
-var mnemonic = "casino dream nest sugar enter crack mosquito high grab cradle art odor";
+var mnemonic = "foster indicate animal obvious salute evoke hurt muffin witness duck middle audit";

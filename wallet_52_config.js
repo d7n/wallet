@@ -1,1 +1,1 @@
-var mnemonic = "know issue you cinnamon stand spot trim flip various grab gorilla novel";
+var mnemonic = "spell armed swim three mercy venue gold match pioneer entry noble exclude";

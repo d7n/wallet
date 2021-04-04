@@ -1,1 +1,1 @@
-var mnemonic = "spray enhance task gadget disorder want urge buffalo catch pepper fiber veteran";
+var mnemonic = "found congress finger voyage horror eternal forward common gym danger trouble item";

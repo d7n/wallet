@@ -1,1 +1,1 @@
-var mnemonic = "keep silk sure know calm gorilla junior physical clip pupil help start";
+var mnemonic = "original toy club punch trumpet cluster own crane boss side lottery lock";

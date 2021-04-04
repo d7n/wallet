@@ -1,1 +1,1 @@
-var mnemonic = "worth erosion wear garlic lottery place amount snow north test portion unlock";
+var mnemonic = "flip volume verify minute choice wrist olive board start dismiss outer shop";

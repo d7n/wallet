@@ -1,1 +1,1 @@
-var mnemonic = "sorry goat parade height age media find furnace tiger two supreme hero";
+var mnemonic = "person punch coffee crystal glory business resource local thought town brain sock";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy punch deer orbit income cook acid coconut expect trend ocean broom";
+var mnemonic = "impulse congress dice usage custom coconut blanket goose energy screen lady suit";

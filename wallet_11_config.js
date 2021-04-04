@@ -1,1 +1,1 @@
-var mnemonic = "fold hand ridge stay journey priority fortune lesson message husband result such";
+var mnemonic = "setup elevator tuna unaware pistol print boil pottery deer license mother tiny";

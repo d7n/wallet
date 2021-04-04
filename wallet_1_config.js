@@ -1,1 +1,1 @@
-var mnemonic = "cabbage bonus wild globe foot hard panther butter vessel evolve laptop poverty";
+var mnemonic = "top picnic midnight venture gap tool scissors silk vast reduce bullet slice";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn bunker ivory obey uncle always dynamic casino label timber habit gossip";
+var mnemonic = "plug rapid hungry trigger car panel mushroom fit ritual soldier gown oval";

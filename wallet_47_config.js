@@ -1,1 +1,1 @@
-var mnemonic = "arrive trap gossip security produce chair head elegant census seven immune roast";
+var mnemonic = "ozone gentle turtle today output foster stadium elder goat opera spider extend";

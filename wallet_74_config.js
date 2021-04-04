@@ -1,1 +1,1 @@
-var mnemonic = "below clean peace gospel quick device dragon twelve educate midnight butter suspect";
+var mnemonic = "pepper deal pink prison plastic ring payment hair tube power action inject";

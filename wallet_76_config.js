@@ -1,1 +1,1 @@
-var mnemonic = "pen neither win congress notice choose media budget wire biology coffee ten";
+var mnemonic = "crane myself lunch route math culture error erode face smile motion sentence";

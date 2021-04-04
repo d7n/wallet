@@ -1,1 +1,1 @@
-var mnemonic = "umbrella swing opinion dream true luggage hungry wood unique lobster fan kite";
+var mnemonic = "gesture trash stone message sausage test monster olympic margin patient flock hope";

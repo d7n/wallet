@@ -1,1 +1,1 @@
-var mnemonic = "verify someone assault other loud coyote embody jelly chapter fabric fatigue warfare";
+var mnemonic = "labor surprise upset mass park become skull aspect off humor kiwi tissue";

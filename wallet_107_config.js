@@ -1,1 +1,1 @@
-var mnemonic = "proud huge wrap address judge rebel whale bean pass priority sunset gloom";
+var mnemonic = "earth smoke fragile mammal flush session item never pattern opera guilt misery";

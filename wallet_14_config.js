@@ -1,1 +1,1 @@
-var mnemonic = "detect bulb unable shine sign unique scene coin trophy february any inflict";
+var mnemonic = "elephant siren isolate finger goat genre spare display help gas finger prize";

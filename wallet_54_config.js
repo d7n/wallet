@@ -1,1 +1,1 @@
-var mnemonic = "shadow melt stairs cram manage rebel outside lesson mercy option dish perfect";
+var mnemonic = "major image shrug cement emerge scheme manual write typical measure brown cigar";

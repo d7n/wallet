@@ -1,1 +1,1 @@
-var mnemonic = "spawn hold soldier medal dynamic tomorrow solid seven lyrics pyramid wheel comfort";
+var mnemonic = "unaware column dentist orphan promote stand balcony devote rack heart lizard antenna";

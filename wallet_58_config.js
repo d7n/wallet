@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit hybrid wreck fiber across photo mirror piano wrap advice square change";
+var mnemonic = "evidence intact detect vote review adapt destroy oyster tooth punch panda super";

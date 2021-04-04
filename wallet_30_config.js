@@ -1,1 +1,1 @@
-var mnemonic = "interest lamp swallow wreck badge assume noise plate tree sunny polar payment";
+var mnemonic = "quarter earth cancel thrive position life acquire face cupboard suit keep dilemma";

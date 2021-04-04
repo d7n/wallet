@@ -1,1 +1,1 @@
-var mnemonic = "desert acquire comfort turkey relief rough near elephant logic orphan first wise";
+var mnemonic = "dance blind setup usage girl guide salad world wet margin wish dash";

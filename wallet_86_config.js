@@ -1,1 +1,1 @@
-var mnemonic = "primary find public erase grain hover eight kiwi frost legend cereal paper";
+var mnemonic = "nothing device apology wrap recycle sunny tuna coast box frost brush calm";

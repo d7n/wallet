@@ -1,1 +1,1 @@
-var mnemonic = "chuckle measure student cool planet text jealous farm blanket suit wish fence";
+var mnemonic = "range minimum silver used federal episode chef jelly together flower live nose";

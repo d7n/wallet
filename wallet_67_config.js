@@ -1,1 +1,1 @@
-var mnemonic = "radar rhythm cost always weapon fringe beach thrive rival guitar episode emotion";
+var mnemonic = "route actress return lazy post right ignore admit thought measure secret remain";

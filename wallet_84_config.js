@@ -1,1 +1,1 @@
-var mnemonic = "slogan lamp outdoor memory mansion now enough print salad husband outside sell";
+var mnemonic = "give mechanic trophy rude awful emerge wide have hedgehog affair trust shadow";

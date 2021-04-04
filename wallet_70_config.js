@@ -1,1 +1,1 @@
-var mnemonic = "under deputy rather matter cabbage junk ten document door giant vital trip";
+var mnemonic = "left ticket pulse promote payment salute bunker cement gain account install live";

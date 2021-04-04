@@ -1,1 +1,1 @@
-var mnemonic = "spell submit melody brown session session bread false neck toward happy universe";
+var mnemonic = "stock seek pumpkin thunder motion have ask idea huge goddess trouble female";

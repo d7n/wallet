@@ -1,1 +1,1 @@
-var mnemonic = "real action viable movie nothing glue penalty fresh spoil behave prosper mirror";
+var mnemonic = "flush tourist carpet note awkward turn random loyal river heavy crowd razor";

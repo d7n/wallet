@@ -1,1 +1,1 @@
-var mnemonic = "obvious foil assault wet alley chalk already cabin manual wedding buyer bunker";
+var mnemonic = "carbon paddle hover attack surprise female credit bundle tired matrix force speed";

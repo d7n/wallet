@@ -1,1 +1,1 @@
-var mnemonic = "depth clutch pioneer elephant little air already open elevator celery obey try";
+var mnemonic = "kingdom another million taste glass rescue choose wink useless laundry slice random";

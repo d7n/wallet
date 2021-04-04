@@ -1,1 +1,1 @@
-var mnemonic = "patch stomach rough melody seat van kitten one gown nature more scan";
+var mnemonic = "casual gesture remain enroll rib special moon train loud detect hand tilt";

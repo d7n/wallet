@@ -1,1 +1,1 @@
-var mnemonic = "because toy filter expose picture thank crumble slab unfair wreck cube skull";
+var mnemonic = "cinnamon battle cart lake oval humor torch civil suspect extend drive drip";

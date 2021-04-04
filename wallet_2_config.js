@@ -1,1 +1,1 @@
-var mnemonic = "team shuffle post sail mule embark okay skin marriage yellow pigeon relax";
+var mnemonic = "oblige dignity tackle icon eagle drip match approve loyal tornado they evil";

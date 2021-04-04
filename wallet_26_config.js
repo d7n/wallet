@@ -1,1 +1,1 @@
-var mnemonic = "unveil chest eternal history rescue host pepper letter fade erosion sail flag";
+var mnemonic = "worth calm pig image essay balance potato cruise moon galaxy arena develop";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm gym question dentist tooth stomach quiz figure reunion report amount ring";
+var mnemonic = "fox senior square egg wait device nominee liar achieve outdoor leg garbage";

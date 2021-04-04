@@ -1,1 +1,1 @@
-var mnemonic = "letter near frame friend neutral elegant ripple loan garment address leave clutch";
+var mnemonic = "mystery deposit lamp opinion giant fan unlock wide peasant dune attitude egg";

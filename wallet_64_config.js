@@ -1,1 +1,1 @@
-var mnemonic = "occur excess aim quit clever liberty blast pass found agent stuff rich";
+var mnemonic = "neck elegant tree topic soul ritual large shine awesome metal umbrella alcohol";

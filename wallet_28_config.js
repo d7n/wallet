@@ -1,1 +1,1 @@
-var mnemonic = "carbon auto pet path warm hole capable draft faint cabin pioneer math";
+var mnemonic = "tuna become curtain disease crazy home path width topic dad foil banner";

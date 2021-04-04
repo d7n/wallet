@@ -1,1 +1,1 @@
-var mnemonic = "rival milk force spot absent stable slot farm lens gas stadium spike";
+var mnemonic = "dynamic lift easily field scheme grape wonder devote artefact alcohol benefit text";

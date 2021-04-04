@@ -1,1 +1,1 @@
-var mnemonic = "thrive baby claw win wait gain disease accident nominee athlete canal stairs";
+var mnemonic = "reject mixture lounge brother foam void find uphold move siren target luxury";

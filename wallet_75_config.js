@@ -1,1 +1,1 @@
-var mnemonic = "wild speed edit luggage craft extra student extend improve lumber mechanic fabric";
+var mnemonic = "glass flock auction hedgehog jaguar list hello hub dismiss advice rival excuse";

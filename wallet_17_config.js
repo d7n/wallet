@@ -1,1 +1,1 @@
-var mnemonic = "wise glory broom armed truly keep kiss brisk sport crawl news simple";
+var mnemonic = "group brand onion ghost cactus calm ritual vacuum toddler cabin march divide";

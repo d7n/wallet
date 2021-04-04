@@ -1,1 +1,1 @@
-var mnemonic = "run hover despair bunker trumpet divert father fat tray gauge gorilla remember";
+var mnemonic = "gesture ecology gun sock battle again catch legal fossil oblige marble avocado";

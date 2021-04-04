@@ -1,1 +1,1 @@
-var mnemonic = "guard course annual fan liar little ranch alone news cover enrich pen";
+var mnemonic = "alone wish crunch cross orange cheese rate avocado retreat skate risk wear";

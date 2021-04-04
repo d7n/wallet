@@ -1,1 +1,1 @@
-var mnemonic = "report praise mask hawk couple cloud solution profit good major aspect abstract";
+var mnemonic = "mail mystery hub off spider guard drop salad inside lens arrive tonight";

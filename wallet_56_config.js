@@ -1,1 +1,1 @@
-var mnemonic = "alien worry actress audit return file rack idea glide imitate van lunar";
+var mnemonic = "nest treat shiver idea final immense special enough degree voice promote auto";

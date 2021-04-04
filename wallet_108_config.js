@@ -1,1 +1,1 @@
-var mnemonic = "diary girl wool current apple boring pumpkin tribe neither evidence family dance";
+var mnemonic = "position lock dish month mushroom name layer knee syrup submit chapter oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce kind juice trick burden fog below session column order useless august";
+var mnemonic = "lounge episode magic loan once moon ten much pull siren bench empty";

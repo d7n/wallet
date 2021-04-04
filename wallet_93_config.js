@@ -1,1 +1,1 @@
-var mnemonic = "shell valve ozone enforce cube snow interest ordinary travel tornado industry below";
+var mnemonic = "forest belt elephant draw junk leopard world capable olympic like road game";

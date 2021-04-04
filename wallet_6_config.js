@@ -1,1 +1,1 @@
-var mnemonic = "hat goat this business invest decade access access guilt document hunt mother";
+var mnemonic = "leaf since glue expose eyebrow include media fitness detail power theme broken";

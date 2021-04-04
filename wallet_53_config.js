@@ -1,1 +1,1 @@
-var mnemonic = "used tree six exist jeans chunk muffin police essay dwarf abstract lumber";
+var mnemonic = "metal domain short roast easy leopard weather what device soon myth goat";

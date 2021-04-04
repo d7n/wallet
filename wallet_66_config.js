@@ -1,1 +1,1 @@
-var mnemonic = "hood roast benefit sing pool sausage pulse birth name sniff dose filter";
+var mnemonic = "drum cliff cinnamon mean absent fashion cannon tourist put belt apple amount";

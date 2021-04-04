@@ -1,1 +1,1 @@
-var mnemonic = "another goat gorilla eye idea buffalo theory hat broom cram scene alert";
+var mnemonic = "panther fury found bonus bleak day panda craft enhance rely venture lunar";

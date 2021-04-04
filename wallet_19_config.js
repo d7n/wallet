@@ -1,1 +1,1 @@
-var mnemonic = "sweet hair loud fever smoke cousin hybrid ritual swap stadium twist core";
+var mnemonic = "squeeze mad web wheel brass endless ready coast coconut power group pair";

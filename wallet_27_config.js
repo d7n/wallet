@@ -1,1 +1,1 @@
-var mnemonic = "option office calm butter fatal notice paddle roof exchange tiny bleak myself";
+var mnemonic = "seat shrimp impose nominee usual upgrade tooth rule state know verify approve";

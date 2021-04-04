@@ -1,1 +1,1 @@
-var mnemonic = "august hand conduct ridge fish exchange real destroy they crowd junior gate";
+var mnemonic = "boy miss fade prison slab strong disagree romance stable misery cloth expect";

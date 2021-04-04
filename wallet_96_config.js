@@ -1,1 +1,1 @@
-var mnemonic = "daughter liberty blind trumpet stone fish chase happy woman bike weekend harbor";
+var mnemonic = "quarter bundle orient lizard inflict another tape ignore avoid explain crouch tobacco";

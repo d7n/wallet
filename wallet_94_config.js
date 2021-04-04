@@ -1,1 +1,1 @@
-var mnemonic = "crush require chuckle assume satoshi rude clarify moral output enough marine gasp";
+var mnemonic = "oval relief cruise baby undo oyster moral water maid mirror inject arm";

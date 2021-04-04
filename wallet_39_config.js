@@ -1,1 +1,1 @@
-var mnemonic = "beef coyote embody ring exotic eyebrow canvas mad swear raw virus corn";
+var mnemonic = "interest alter auction fly supreme genius cream intact situate step clip concert";

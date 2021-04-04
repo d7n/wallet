@@ -1,1 +1,1 @@
-var mnemonic = "tattoo inside list grain illness invest swallow position uphold armed bright bring";
+var mnemonic = "today safe model chase detect palm antenna tongue person leaf poem olympic";

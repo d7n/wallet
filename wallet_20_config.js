@@ -1,1 +1,1 @@
-var mnemonic = "kick proud peace wisdom forget achieve cousin lady decline alert recycle imitate";
+var mnemonic = "glimpse sand route card limb ghost donor grocery shuffle ignore shine clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "earth sugar scatter bar desert desert notable term else toy system duty";
+var mnemonic = "crane history memory subway scheme robust nest humor cotton spell provide indoor";

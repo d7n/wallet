@@ -1,1 +1,1 @@
-var mnemonic = "like three torch holiday turn history common mobile team ordinary various type";
+var mnemonic = "result alley decorate crime clutch cry chapter live later embody battle express";

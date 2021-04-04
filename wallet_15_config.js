@@ -1,1 +1,1 @@
-var mnemonic = "dilemma junior proof shrug then rule pepper achieve bracket merge follow dinosaur";
+var mnemonic = "usual innocent adapt crazy grace feed promote book churn purchase elevator daring";

@@ -1,1 +1,1 @@
-var mnemonic = "extend accuse balance devote owner provide flower swift display mule model shrimp";
+var mnemonic = "that battle differ humble arctic swamp lava asthma approve earn tent van";

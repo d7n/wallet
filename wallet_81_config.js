@@ -1,1 +1,1 @@
-var mnemonic = "feed point tag gallery gesture duck close fossil deputy van paper doctor";
+var mnemonic = "lecture treat coral early smart kit cable tiny mobile tone talk summer";

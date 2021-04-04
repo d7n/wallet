@@ -1,1 +1,1 @@
-var mnemonic = "elite fitness inquiry panda kitten rotate program decrease light boy laptop shoulder";
+var mnemonic = "obey annual resemble provide salute fabric scissors head ahead flock film bind";

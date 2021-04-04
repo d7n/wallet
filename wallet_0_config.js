@@ -1,1 +1,1 @@
-var mnemonic = "gap stay balance doll behind gift march spray page arm power cash";
+var mnemonic = "resource fix tonight kangaroo photo unique help other crumble rate ceiling choice";

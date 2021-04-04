@@ -1,1 +1,1 @@
-var mnemonic = "special rather daughter august safe child glimpse tower define diary income certain";
+var mnemonic = "example gas antique hat simple witness transfer favorite arctic diagram hungry proof";

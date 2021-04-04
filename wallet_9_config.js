@@ -1,1 +1,1 @@
-var mnemonic = "rent license enemy impulse drink add general drip find feature middle bullet";
+var mnemonic = "pitch citizen sponsor helmet yellow mouse dog street science industry spawn public";

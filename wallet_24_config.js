@@ -1,1 +1,1 @@
-var mnemonic = "intact vicious bar doctor half able silly steak trial across minute okay";
+var mnemonic = "exist weekend crazy alter clever have peace hour result mystery split travel";

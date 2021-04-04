@@ -1,1 +1,1 @@
-var mnemonic = "lyrics marine helmet appear loan garage meat laundry play duck robot candy";
+var mnemonic = "liar gesture swift witness erupt stone differ cupboard verify armor must develop";

@@ -1,1 +1,1 @@
-var mnemonic = "merit promote escape tooth sound vintage tennis ugly evil skirt shoot salmon";
+var mnemonic = "feel circle cruel dream gorilla state swim daring olive million owner romance";

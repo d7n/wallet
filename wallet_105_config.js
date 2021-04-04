@@ -1,1 +1,1 @@
-var mnemonic = "response divide wheat wonder perfect play occur slogan pulse vehicle hello bulb";
+var mnemonic = "about cube raise actress alone used hello lucky debate galaxy venue apple";

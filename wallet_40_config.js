@@ -1,1 +1,1 @@
-var mnemonic = "ginger caution simple web real orphan thing network limb shiver increase entry";
+var mnemonic = "toy world congress inmate rabbit rally creek dry thing junior lens multiply";

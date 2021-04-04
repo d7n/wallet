@@ -1,1 +1,1 @@
-var mnemonic = "certain flock track language orange fire file decide curve crazy daughter decorate";
+var mnemonic = "drill picture scare expire shuffle diagram nest device catalog involve tonight fly";

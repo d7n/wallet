@@ -1,1 +1,1 @@
-var mnemonic = "remind mixed armed crawl wide climb elbow river rapid more try ball";
+var mnemonic = "fortune hip student win resist kit battle forum uniform silent ten blush";

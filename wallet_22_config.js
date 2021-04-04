@@ -1,1 +1,1 @@
-var mnemonic = "ethics female science artefact eyebrow wrong saddle under tribe mandate kangaroo visit";
+var mnemonic = "seek nephew ten year claim ensure plastic mushroom voice suffer plunge foot";

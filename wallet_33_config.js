@@ -1,1 +1,1 @@
-var mnemonic = "humble girl easily work region card old divorce interest bomb artefact rely";
+var mnemonic = "drink slot soft phone zoo library salt forum now bag network width";

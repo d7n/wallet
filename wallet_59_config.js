@@ -1,1 +1,1 @@
-var mnemonic = "air select melt toilet scare hungry cart pretty force link easily render";
+var mnemonic = "equal razor inside jeans axis index feed very before anchor million ghost";

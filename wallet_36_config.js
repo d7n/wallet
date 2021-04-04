@@ -1,1 +1,1 @@
-var mnemonic = "champion honey copper clutch more hunt reject barely solve motion turtle license";
+var mnemonic = "spend link omit crew child spy enjoy bright rude siren acoustic marble";

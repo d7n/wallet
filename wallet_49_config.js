@@ -1,1 +1,1 @@
-var mnemonic = "glow spray away usage cabin member fork trade guilt field point library";
+var mnemonic = "segment vacant text scan income walnut parent fire people future bike bless";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing ensure egg leopard bundle pause primary bulk kitchen vibrant normal toy";
+var mnemonic = "pony rug grocery frame sunset pelican winter size catalog hold exchange keep";
