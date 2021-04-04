@@ -1,1 +1,1 @@
-var mnemonic = "report limit tomorrow guard aware chalk good calm safe way when become";
+var mnemonic = "glad mention weasel viable alley worth capital motion zone order badge sweet";

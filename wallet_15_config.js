@@ -1,1 +1,1 @@
-var mnemonic = "honey swallow cliff gate slim repeat mind taste denial float sausage work";
+var mnemonic = "cupboard occur toilet fiber alien dentist possible shed language decade coast river";

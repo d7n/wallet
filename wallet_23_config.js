@@ -1,1 +1,1 @@
-var mnemonic = "shed slab sleep vocal later wool disorder explain shy owner spy reject";
+var mnemonic = "silent oak october before stuff valve turtle shallow warfare dwarf domain rate";

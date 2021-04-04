@@ -1,1 +1,1 @@
-var mnemonic = "father drama again canoe street elbow two lunar sting autumn odor level";
+var mnemonic = "artwork seat alien castle ill almost absurd depart muscle danger concert shoulder";

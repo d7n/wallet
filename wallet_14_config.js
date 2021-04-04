@@ -1,1 +1,1 @@
-var mnemonic = "maze crisp immune cry vessel chalk absorb laundry summer left pepper only";
+var mnemonic = "thumb turkey cover elephant brisk fluid huge used choice hawk carry autumn";

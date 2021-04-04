@@ -1,1 +1,1 @@
-var mnemonic = "leave pulp work embody tomato camp problem blouse borrow company father error";
+var mnemonic = "keen lift agree aerobic color picture sun upgrade snow kangaroo cycle boil";

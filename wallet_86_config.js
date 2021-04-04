@@ -1,1 +1,1 @@
-var mnemonic = "debate cloud club bracket unable manual inspire helmet fortune green obey raven";
+var mnemonic = "spy alone because control curious minimum wealth grunt ozone strike cheap tired";

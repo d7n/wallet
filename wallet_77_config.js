@@ -1,1 +1,1 @@
-var mnemonic = "then ability steel sugar guide hurry ladder march chest grant mask afraid";
+var mnemonic = "ocean badge chapter include apart suspect loan apple ghost copy bundle nuclear";

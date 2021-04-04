@@ -1,1 +1,1 @@
-var mnemonic = "rail inflict net because fringe sniff gown churn essence trophy choose business";
+var mnemonic = "turkey coach piece dad skull alley dance supreme photo use fiscal clip";

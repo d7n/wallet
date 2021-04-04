@@ -1,1 +1,1 @@
-var mnemonic = "jelly elbow laptop debate slim beauty repair trouble warm letter fantasy behind";
+var mnemonic = "famous ten park educate extra trade exist reopen bargain above trend scissors";

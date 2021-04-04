@@ -1,1 +1,1 @@
-var mnemonic = "poem charge dawn aunt quit cheese diet venue zero design siren surge";
+var mnemonic = "repeat test bubble easily axis tuna story mask concert attack cram mixture";

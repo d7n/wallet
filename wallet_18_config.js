@@ -1,1 +1,1 @@
-var mnemonic = "attend grunt nice theme divorce radar endless monster vital merge later scatter";
+var mnemonic = "case swamp swap crystal guitar debate ivory black concert plunge inhale flavor";

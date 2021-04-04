@@ -1,1 +1,1 @@
-var mnemonic = "come business expose ignore disagree boring motion club split life extra gain";
+var mnemonic = "sick law victory solid fresh symptom lemon disease wagon favorite canyon kite";

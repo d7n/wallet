@@ -1,1 +1,1 @@
-var mnemonic = "abuse another come purse glimpse sand motion phone clever kingdom river wedding";
+var mnemonic = "sunset harbor clay lawsuit mosquito debate safe frozen announce police type change";

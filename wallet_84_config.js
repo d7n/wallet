@@ -1,1 +1,1 @@
-var mnemonic = "buffalo bamboo vehicle final better ten vault grace page clutch blade excuse";
+var mnemonic = "wise retreat office exact slam wink possible barely problem claim major possible";

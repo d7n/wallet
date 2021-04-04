@@ -1,1 +1,1 @@
-var mnemonic = "print casino twelve spatial conduct turkey adapt there fire tuition shy slot";
+var mnemonic = "liar vault behave inch farm gaze pear glow very guess under silk";

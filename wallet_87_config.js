@@ -1,1 +1,1 @@
-var mnemonic = "mouse nest palm immense congress warfare harvest worth blouse shrimp quick knee";
+var mnemonic = "toast section share dinosaur kidney avocado fabric wild prefer absent village improve";

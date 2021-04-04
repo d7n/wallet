@@ -1,1 +1,1 @@
-var mnemonic = "leader exile egg harvest point inquiry legend travel track say include foam";
+var mnemonic = "moral army taxi flame three hotel glory enough hungry bag abuse nation";

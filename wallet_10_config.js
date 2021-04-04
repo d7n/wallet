@@ -1,1 +1,1 @@
-var mnemonic = "rebel arrive ordinary critic sentence subway token long since trim hero piano";
+var mnemonic = "ride will response minimum gate casino grid shine hunt engage whale author";

@@ -1,1 +1,1 @@
-var mnemonic = "tray want foil oyster skate farm infant swear unique knee cat board";
+var mnemonic = "gate emerge shallow harvest swallow canal legal way mimic buddy share sing";

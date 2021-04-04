@@ -1,1 +1,1 @@
-var mnemonic = "rib shuffle age poverty unusual grow van squirrel rug sniff brief faith";
+var mnemonic = "guitar confirm bone tourist autumn catalog harsh leopard rent sting dignity tiny";

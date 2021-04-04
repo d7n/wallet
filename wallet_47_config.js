@@ -1,1 +1,1 @@
-var mnemonic = "breeze cotton obtain flock sure roof small suggest nice bulb travel rebuild";
+var mnemonic = "whale solar climb produce range joke suspect crew summer salute frame law";

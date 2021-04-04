@@ -1,1 +1,1 @@
-var mnemonic = "fox mixture enemy unlock rude empower boring best online pet violin bamboo";
+var mnemonic = "leader borrow protect truly oblige industry fire then muscle radar quiz video";

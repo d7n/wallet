@@ -1,1 +1,1 @@
-var mnemonic = "clump wait neglect bind travel shift gym honey average intact pizza differ";
+var mnemonic = "submit answer token kit month cage remove blast panel figure caught uncover";

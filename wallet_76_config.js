@@ -1,1 +1,1 @@
-var mnemonic = "still tired device then kit cross degree derive orient veteran delay blush";
+var mnemonic = "coast knife december favorite base such wolf hamster resemble tide thrive inspire";

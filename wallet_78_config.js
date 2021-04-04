@@ -1,1 +1,1 @@
-var mnemonic = "congress cycle weasel clever consider atom punch glimpse whip evoke cost sting";
+var mnemonic = "entire course result advance friend laptop alley cinnamon theory divorce gaze recall";

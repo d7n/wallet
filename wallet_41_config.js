@@ -1,1 +1,1 @@
-var mnemonic = "else wrist joke property sample silk peanut void coyote remain auction tide";
+var mnemonic = "crack pony woman hammer opera visa stadium rack convince fashion industry circle";

@@ -1,1 +1,1 @@
-var mnemonic = "swim mango joke heart rhythm oval glare miracle draw chaos search thrive";
+var mnemonic = "calm color appear void trouble soda raw differ medal essence what skirt";

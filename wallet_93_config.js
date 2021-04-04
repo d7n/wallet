@@ -1,1 +1,1 @@
-var mnemonic = "jungle narrow online private unit umbrella ribbon hotel plug celery member assist";
+var mnemonic = "zebra crime eight wealth crop quantum stone install ghost clinic furnace pigeon";

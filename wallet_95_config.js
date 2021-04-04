@@ -1,1 +1,1 @@
-var mnemonic = "element minute pear over since scorpion mother couch quantum devote arctic now";
+var mnemonic = "rough super whip pink pet expose city space crowd strike breeze time";

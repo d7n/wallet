@@ -1,1 +1,1 @@
-var mnemonic = "captain like judge silent roof day use mountain vicious rebuild library poem";
+var mnemonic = "quote oyster cattle silk glance fever raccoon glance leopard snow bind obscure";

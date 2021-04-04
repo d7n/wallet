@@ -1,1 +1,1 @@
-var mnemonic = "sound drink latin social sport deposit chase attract toddler track hammer deputy";
+var mnemonic = "begin dirt arrest never during size drink bleak squeeze multiply fiber one";

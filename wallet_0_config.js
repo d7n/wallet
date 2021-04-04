@@ -1,1 +1,1 @@
-var mnemonic = "surround miracle useful scheme laundry canvas caught script lesson expose setup mountain";
+var mnemonic = "fan chalk talent web path owner ostrich auto must orbit coast broom";

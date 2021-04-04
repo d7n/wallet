@@ -1,1 +1,1 @@
-var mnemonic = "lemon cage raven picnic canyon inform will case year lobster later girl";
+var mnemonic = "timber degree inherit amazing junior sight topple fetch toss toilet rack muffin";

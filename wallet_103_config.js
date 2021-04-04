@@ -1,1 +1,1 @@
-var mnemonic = "ribbon ancient rapid nice cable hotel merry series eye stumble pencil spice";
+var mnemonic = "begin about pilot work switch home either pause universe sort dog obtain";

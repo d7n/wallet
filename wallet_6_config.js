@@ -1,1 +1,1 @@
-var mnemonic = "mean dragon attend reform amazing silent bulb order strong panic sting afford";
+var mnemonic = "soda flash fortune tide spot kick vendor reopen elbow cricket inner sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "ice escape resist hair bachelor regret tell quick nation jump fox wrestle";
+var mnemonic = "off disagree dignity fork miss elevator major bubble spirit feature awful comic";

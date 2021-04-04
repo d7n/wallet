@@ -1,1 +1,1 @@
-var mnemonic = "reduce scene duty describe slight dismiss large achieve degree athlete shove grow";
+var mnemonic = "palace peanut law vivid ordinary nephew bachelor symbol march diagram flame before";

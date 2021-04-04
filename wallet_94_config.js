@@ -1,1 +1,1 @@
-var mnemonic = "mutual shoulder tomato blossom shine know blossom boy hope void sketch brick";
+var mnemonic = "evidence recall decade culture bicycle world canyon picnic leisure another current day";

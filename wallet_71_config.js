@@ -1,1 +1,1 @@
-var mnemonic = "bone vehicle wild egg canyon teach tortoise tired tray token quick income";
+var mnemonic = "reward idle lawsuit employ busy gift smoke mention exact stomach cotton alpha";

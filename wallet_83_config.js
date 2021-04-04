@@ -1,1 +1,1 @@
-var mnemonic = "trash aim exercise that know banner second sword stay return artefact worry";
+var mnemonic = "nest picture clap broccoli bounce rare uncle air manual voice glove fabric";

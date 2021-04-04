@@ -1,1 +1,1 @@
-var mnemonic = "digital angle maple bachelor battle panda life fluid defy tree gauge concert";
+var mnemonic = "labor addict edit afraid speed moral hazard advice item always identify utility";

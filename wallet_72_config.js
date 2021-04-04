@@ -1,1 +1,1 @@
-var mnemonic = "retire comic cave kiwi gift add ladder wish lounge pear chronic orphan";
+var mnemonic = "roof alpha primary estate minor core law food hammer turkey isolate someone";

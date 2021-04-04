@@ -1,1 +1,1 @@
-var mnemonic = "army promote page base harvest hurdle catalog cream vacuum can kiss obvious";
+var mnemonic = "mask good picnic island belt cannon royal summer symbol phrase initial august";

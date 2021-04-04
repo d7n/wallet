@@ -1,1 +1,1 @@
-var mnemonic = "fan bench addict glad swarm clerk milk above sheriff cover surface omit";
+var mnemonic = "logic any jealous bread result ramp acquire ostrich room wink tennis omit";

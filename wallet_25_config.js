@@ -1,1 +1,1 @@
-var mnemonic = "wing pig around palm repeat escape twist void bronze figure strong surprise";
+var mnemonic = "mixture peace garment hint uncle scheme denial author biology market various lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "panther trigger garlic mammal latin open mother diesel ensure elder potato surround";
+var mnemonic = "increase impact trend tenant napkin chuckle awake moment fabric spot era unique";

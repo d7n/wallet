@@ -1,1 +1,1 @@
-var mnemonic = "fit grain erase inhale auction water train come winner unknown scale release";
+var mnemonic = "title mandate coffee speak leisure lake peanut school meat jaguar ramp best";

@@ -1,1 +1,1 @@
-var mnemonic = "focus absorb found jaguar stay rose eager vital eight dumb decrease muffin";
+var mnemonic = "milk hello today universe canyon stumble proof slogan often salmon bronze depth";

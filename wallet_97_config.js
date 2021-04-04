@@ -1,1 +1,1 @@
-var mnemonic = "ancient other battle weapon aim armed same fault below frog idea gas";
+var mnemonic = "airport bacon lab inspire ready hobby monster hedgehog poem color protect sorry";

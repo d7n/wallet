@@ -1,1 +1,1 @@
-var mnemonic = "arch weekend segment cabbage slender slight glue check come account cup cup";
+var mnemonic = "nominee trouble clean unable nominee math outside trigger people spatial dance wheel";

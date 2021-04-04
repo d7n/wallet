@@ -1,1 +1,1 @@
-var mnemonic = "century genre bid error pluck april tower explain next cat excite august";
+var mnemonic = "make tip essay strong length nephew kitchen walk ribbon pulp sting settle";

@@ -1,1 +1,1 @@
-var mnemonic = "train learn trial original turn clerk naive profit umbrella equal liquid tourist";
+var mnemonic = "unveil curve negative blue play sunny burden bomb gospel clump fiction project";

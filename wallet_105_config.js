@@ -1,1 +1,1 @@
-var mnemonic = "run rhythm thought sort hero extra pipe sister arm manual census rough";
+var mnemonic = "decorate entry spirit move glory half memory frequent pumpkin ugly curtain accuse";

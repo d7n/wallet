@@ -1,1 +1,1 @@
-var mnemonic = "height high invest remain medal nest grunt blood wish student science simple";
+var mnemonic = "fetch practice unfold mutual reward give play stumble tank swap toward female";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder short current water negative weapon once again fatal amount innocent visa";
+var mnemonic = "prosper surround then surround hockey detect trip fork garment shy green pitch";

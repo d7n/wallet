@@ -1,1 +1,1 @@
-var mnemonic = "visit media turkey prison invite penalty awkward clarify science seek kitchen physical";
+var mnemonic = "argue custom message easy desert volcano inch audit shock evoke series thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon gain embrace very require road impulse youth raw language piece assist";
+var mnemonic = "garlic wave empower remind guard miracle popular seven chimney nothing unable surge";

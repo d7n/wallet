@@ -1,1 +1,1 @@
-var mnemonic = "home finish sail lion viable dry age shoulder cancel wheat learn noble";
+var mnemonic = "around message warfare dune useless panel curtain sock sting brain connect envelope";

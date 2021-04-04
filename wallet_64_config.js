@@ -1,1 +1,1 @@
-var mnemonic = "tell change injury flight cross catalog engine hope end army upset dry";
+var mnemonic = "soup heavy put net brown coin radar window carry miss private space";

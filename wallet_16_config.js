@@ -1,1 +1,1 @@
-var mnemonic = "anchor table scrap fancy garbage junior shine oak hood pyramid allow strong";
+var mnemonic = "prosper sing sadness home define join emotion affair beef awesome flush fury";

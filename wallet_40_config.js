@@ -1,1 +1,1 @@
-var mnemonic = "dish adjust page people veteran explain knife august pottery peasant brick crouch";
+var mnemonic = "marine extra glass ski wife first today marriage industry slow reject liar";

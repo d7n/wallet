@@ -1,1 +1,1 @@
-var mnemonic = "now ordinary reveal taxi palm gallery nose layer reduce giant blossom bitter";
+var mnemonic = "age pumpkin review noble document muffin warfare host imitate exist bottom balance";

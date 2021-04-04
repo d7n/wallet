@@ -1,1 +1,1 @@
-var mnemonic = "car famous matrix daughter cram cancel sister exercise firm tattoo problem gloom";
+var mnemonic = "nature ability club dawn boat planet pig noble clarify judge plastic asthma";

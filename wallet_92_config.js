@@ -1,1 +1,1 @@
-var mnemonic = "again accident dragon shadow sausage able tonight calm enrich congress soul photo";
+var mnemonic = "scout differ visual climb high regret school stay crouch order proof assault";

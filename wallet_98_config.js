@@ -1,1 +1,1 @@
-var mnemonic = "seminar bounce scrub level rotate dutch run vivid trumpet object sunny shrug";
+var mnemonic = "churn cradle color able round buddy poet believe nominee enroll sting toast";

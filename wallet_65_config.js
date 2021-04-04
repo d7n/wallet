@@ -1,1 +1,1 @@
-var mnemonic = "humble bounce transfer short tomorrow oval code swallow doctor cushion comfort hazard";
+var mnemonic = "rate rail nation much client alter depart scout thrive depart logic portion";

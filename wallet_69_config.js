@@ -1,1 +1,1 @@
-var mnemonic = "burden remain sell doll loan neck horse sausage endorse grocery input neglect";
+var mnemonic = "rich focus clean neglect stomach palm chuckle punch excite image icon absent";

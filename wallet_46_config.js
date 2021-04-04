@@ -1,1 +1,1 @@
-var mnemonic = "make cattle yellow outside exile october evil obscure pig maze present hungry";
+var mnemonic = "spoil mention assault luggage medal excess stuff chuckle quantum foot busy pony";

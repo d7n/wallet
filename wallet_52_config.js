@@ -1,1 +1,1 @@
-var mnemonic = "word wealth old ensure option suffer grab scorpion flock father cable diamond";
+var mnemonic = "vapor journey good admit capable jeans kite couple shuffle divide theme siren";

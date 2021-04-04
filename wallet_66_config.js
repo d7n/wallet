@@ -1,1 +1,1 @@
-var mnemonic = "input novel special street cattle spice crop inform hub junior gasp token";
+var mnemonic = "welcome total lyrics crop owner video maple vacuum gaze marble oblige nerve";

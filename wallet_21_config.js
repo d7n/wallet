@@ -1,1 +1,1 @@
-var mnemonic = "pen tomato connect blush occur ski street next final half leader cat";
+var mnemonic = "gaze doctor sentence void axis limb illegal taste reunion excite uniform narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "town genre void stage nature success blur pulse around buzz write hammer";
+var mnemonic = "blouse velvet record such bench pulse veteran wrap bread prepare sponsor indicate";

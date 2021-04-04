@@ -1,1 +1,1 @@
-var mnemonic = "youth object slot owner twin eight about snake monitor frog record profit";
+var mnemonic = "endorse pizza fluid profit enemy balance mention city like city fabric cereal";

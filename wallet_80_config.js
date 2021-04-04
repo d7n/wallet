@@ -1,1 +1,1 @@
-var mnemonic = "turtle math lift source spread head sketch parrot craft bind supreme disorder";
+var mnemonic = "prepare bacon sauce divorce never federal wool sad stamp forum online foam";

@@ -1,1 +1,1 @@
-var mnemonic = "convince often original garbage garden collect session tape valid essence bachelor glue";
+var mnemonic = "gold girl maze middle fiction exotic project scene globe abandon flight script";

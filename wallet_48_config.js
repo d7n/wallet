@@ -1,1 +1,1 @@
-var mnemonic = "online pyramid squirrel bitter rigid finger pelican collect client gesture claim area";
+var mnemonic = "age admit myself ecology grant boring garage pilot result family mammal limb";

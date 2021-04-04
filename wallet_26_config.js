@@ -1,1 +1,1 @@
-var mnemonic = "wash couch crew phrase river hip muffin finish outer more employ dash";
+var mnemonic = "real submit find under school session oppose suggest bonus bomb act select";

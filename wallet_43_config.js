@@ -1,1 +1,1 @@
-var mnemonic = "boss winter maple cigar mobile range eye struggle biology warm wild symbol";
+var mnemonic = "giggle razor actor glide acoustic evil report symbol parade lens whip latin";

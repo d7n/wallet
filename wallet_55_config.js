@@ -1,1 +1,1 @@
-var mnemonic = "budget lounge wrong axis venture galaxy hat valley health uniform whisper right";
+var mnemonic = "green make gesture today grow mail second sail patrol friend dutch brother";

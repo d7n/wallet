@@ -1,1 +1,1 @@
-var mnemonic = "hungry hamster trouble shallow range sheriff armor horse pass border toss program";
+var mnemonic = "violin diesel humor dolphin iron insect earn child jar soda apart actual";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort fold burden expect easy scrap organ alpha idea zoo tube promote";
+var mnemonic = "since velvet issue relax work tenant kit dinosaur brave foot egg vanish";

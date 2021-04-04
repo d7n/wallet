@@ -1,1 +1,1 @@
-var mnemonic = "pilot hazard swamp sad honey number twelve seek dust nest elder silver";
+var mnemonic = "very finger sport tone language december canoe paper panel fly melt route";

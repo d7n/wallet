@@ -1,1 +1,1 @@
-var mnemonic = "animal slow sword option hammer occur route saddle embody narrow attract hunt";
+var mnemonic = "about quality coffee kingdom buffalo isolate virus menu jewel tape liar glad";

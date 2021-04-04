@@ -1,1 +1,1 @@
-var mnemonic = "demand reopen animal steel code match trophy genre seat useful exile lion";
+var mnemonic = "photo deal boss army group opera lizard glue dad increase limb suffer";

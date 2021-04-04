@@ -1,1 +1,1 @@
-var mnemonic = "web language direct deer beef west win leader emerge alpha crawl raccoon";
+var mnemonic = "rule become grief way electric inform figure village cram second swap swing";

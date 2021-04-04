@@ -1,1 +1,1 @@
-var mnemonic = "salon gesture tag pulp huge clay awesome juice razor urban bacon chat";
+var mnemonic = "lava public afraid tone flight never govern into mother elephant fit lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "dance virus way delay okay arrow gaze scan chalk message author enroll";
+var mnemonic = "bottom grant debris captain rule pond tired snack rifle add cigar glory";
