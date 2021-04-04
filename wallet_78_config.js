@@ -1,1 +1,1 @@
-var mnemonic = "teach address height involve sing fly just lady visa fame miracle script";
+var mnemonic = "air boost dynamic know panther frame blade yellow pizza monitor civil equip";

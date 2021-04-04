@@ -1,1 +1,1 @@
-var mnemonic = "hard warm spawn input rule ceiling crowd foot keep live clutch bottom";
+var mnemonic = "pave bone giant stumble average consider again liar evolve obtain require attitude";

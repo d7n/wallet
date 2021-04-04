@@ -1,1 +1,1 @@
-var mnemonic = "quiz erode series side burger shrug shove direct list dress skill fox";
+var mnemonic = "matrix tumble process salute aware skirt spray market race health unable east";

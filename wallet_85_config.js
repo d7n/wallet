@@ -1,1 +1,1 @@
-var mnemonic = "grocery behind antenna adapt action fence version rate west alone butter pizza";
+var mnemonic = "any resource improve nation skate arch absorb rug profit drama satoshi theme";

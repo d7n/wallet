@@ -1,1 +1,1 @@
-var mnemonic = "thumb palace pistol pepper air journey art bacon live pyramid assist put";
+var mnemonic = "victory present derive seek patient blue demise lesson lizard suggest mixture vast";

@@ -1,1 +1,1 @@
-var mnemonic = "maple list cream kitten trap sail love certain alert fuel pool basket";
+var mnemonic = "morning boring company income art rent chair urban caution erase always tiny";

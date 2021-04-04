@@ -1,1 +1,1 @@
-var mnemonic = "decorate good scrap swift manage brain blouse index disagree odor boost tomato";
+var mnemonic = "crater loan jealous matter announce mad ritual seven moral tiger achieve hair";

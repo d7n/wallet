@@ -1,1 +1,1 @@
-var mnemonic = "picture example bulb picture tissue disagree gym record machine shallow village around";
+var mnemonic = "capital chase seminar earth lawsuit various story typical floor family skirt engage";

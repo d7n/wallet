@@ -1,1 +1,1 @@
-var mnemonic = "model vocal entire battle rare enable cigar rare fetch effort blue basic";
+var mnemonic = "else element fantasy gown surge spoil toilet guitar increase cinnamon chair engage";

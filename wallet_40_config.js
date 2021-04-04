@@ -1,1 +1,1 @@
-var mnemonic = "outdoor buzz six witness cousin raven display chunk dry elevator kick polar";
+var mnemonic = "razor early dune utility egg accuse exhibit negative cereal begin type phrase";

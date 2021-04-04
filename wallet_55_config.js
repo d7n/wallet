@@ -1,1 +1,1 @@
-var mnemonic = "seminar phrase gloom juice swap execute choose axis expand argue unaware dinosaur";
+var mnemonic = "maple south wreck best curtain veteran youth confirm novel session neck scissors";

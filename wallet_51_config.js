@@ -1,1 +1,1 @@
-var mnemonic = "logic lift behave debris prevent try truly leader front spy attend access";
+var mnemonic = "whip food lizard scatter welcome fine correct print chase coach wheat dust";

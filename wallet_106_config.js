@@ -1,1 +1,1 @@
-var mnemonic = "room divorce civil gift rifle powder sniff wage absent youth blanket organ";
+var mnemonic = "slender virus domain shield ability reveal equal seven trust pretty always faith";

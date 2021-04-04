@@ -1,1 +1,1 @@
-var mnemonic = "remove cat cycle slush tomato trash spirit cabbage tuna pole omit hand";
+var mnemonic = "cat gas giant ritual helmet frame fox cat rubber never ocean boy";

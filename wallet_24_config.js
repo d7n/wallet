@@ -1,1 +1,1 @@
-var mnemonic = "finger room pyramid joy giggle silver space refuse wheat bench either traffic";
+var mnemonic = "sponsor thumb exit polar garbage cannon crop dragon case chase ridge disease";

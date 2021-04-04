@@ -1,1 +1,1 @@
-var mnemonic = "since mule lesson chapter whisper quality step doll blush buffalo hill focus";
+var mnemonic = "switch entry horror endless witness critic abuse smooth moment venue depend forward";

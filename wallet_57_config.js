@@ -1,1 +1,1 @@
-var mnemonic = "carpet second sustain inmate frame depth south crowd will wealth crane either";
+var mnemonic = "sentence barely chef plastic impulse average gorilla obey goose fault damage jazz";

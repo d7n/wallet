@@ -1,1 +1,1 @@
-var mnemonic = "aisle cat saddle park equal circle exotic furnace notable clap trust burden";
+var mnemonic = "crucial drive tuna lobster piano crash result focus early genius fortune burden";

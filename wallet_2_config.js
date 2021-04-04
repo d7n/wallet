@@ -1,1 +1,1 @@
-var mnemonic = "jealous cupboard library forest edge blade focus ankle fan become holiday spend";
+var mnemonic = "dawn gold verb glide west tornado lunar coyote welcome tip coyote smooth";

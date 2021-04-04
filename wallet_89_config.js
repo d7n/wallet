@@ -1,1 +1,1 @@
-var mnemonic = "search rack flight license diagram manual hand impact pyramid buffalo cruise admit";
+var mnemonic = "neck fork develop order glare change stone throw situate citizen blade suit";

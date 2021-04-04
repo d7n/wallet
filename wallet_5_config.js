@@ -1,1 +1,1 @@
-var mnemonic = "inch spatial unique rib cigar special unveil sting key future cat seven";
+var mnemonic = "control raccoon roast radio garment tunnel spike post melody supreme trumpet match";

@@ -1,1 +1,1 @@
-var mnemonic = "certain still mobile erosion pupil cricket width dish valve domain loan bright";
+var mnemonic = "episode bean crumble wolf cabbage glue other turtle fetch purchase thumb deliver";

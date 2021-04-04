@@ -1,1 +1,1 @@
-var mnemonic = "measure table worth script range index video gain minute marble labor cradle";
+var mnemonic = "disagree hazard liar tonight initial unit pledge dizzy tomorrow west capital shield";

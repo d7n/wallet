@@ -1,1 +1,1 @@
-var mnemonic = "crew denial destroy ugly circle capable physical uphold chest catalog deal oyster";
+var mnemonic = "salt retreat oxygen lizard uniform heavy destroy equip news hour time blame";

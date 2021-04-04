@@ -1,1 +1,1 @@
-var mnemonic = "citizen pledge false display borrow style battle isolate quality primary deliver chest";
+var mnemonic = "bunker wise payment rhythm start match naive business device arrange grocery surround";

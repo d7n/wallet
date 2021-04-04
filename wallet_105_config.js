@@ -1,1 +1,1 @@
-var mnemonic = "leave earth never hand mail pause nurse elder escape viable inherit clinic";
+var mnemonic = "region veteran female rocket among surface property fruit clinic together galaxy prize";

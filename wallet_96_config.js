@@ -1,1 +1,1 @@
-var mnemonic = "then brick hub juice neutral isolate lens strike breeze zebra churn because";
+var mnemonic = "waste market drill aerobic chimney foot foil pigeon cattle wash response escape";

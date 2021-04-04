@@ -1,1 +1,1 @@
-var mnemonic = "tonight add drive lottery river achieve rate replace cheese chef garment raise";
+var mnemonic = "immense aware stuff hurry secret average barrel diamond wet talent cool about";

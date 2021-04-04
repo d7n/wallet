@@ -1,1 +1,1 @@
-var mnemonic = "rescue fiber spin glass judge desk dumb later century detect frame reward";
+var mnemonic = "bleak shy muffin venture rate ring swear symbol color frog blossom short";

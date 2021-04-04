@@ -1,1 +1,1 @@
-var mnemonic = "little danger punch across entire drop stereo party admit arctic harsh example";
+var mnemonic = "detail arrow debate arrow cotton sight version absorb vicious between flag lyrics";

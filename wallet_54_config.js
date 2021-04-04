@@ -1,1 +1,1 @@
-var mnemonic = "indicate beef just fury under menu style hand pledge code system enable";
+var mnemonic = "wasp chicken student poem execute brass appear spell dice price zero swim";

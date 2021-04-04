@@ -1,1 +1,1 @@
-var mnemonic = "cloth tired enable pistol sketch such portion draw employ present guitar sword";
+var mnemonic = "axis hybrid bar fragile proud friend upset inhale win sauce desert stage";

@@ -1,1 +1,1 @@
-var mnemonic = "ill ceiling frost oven century quarter blame similar strike destroy two square";
+var mnemonic = "exhaust resemble violin walk bundle physical smoke path food owner pride soon";

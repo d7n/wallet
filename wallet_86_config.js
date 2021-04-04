@@ -1,1 +1,1 @@
-var mnemonic = "curious bicycle park mango demise work thing gesture grass hair animal cross";
+var mnemonic = "swarm sport picture clock dynamic salad decade sight near require diet must";

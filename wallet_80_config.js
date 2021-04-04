@@ -1,1 +1,1 @@
-var mnemonic = "what panel invest pen area amazing hollow east lottery much situate minimum";
+var mnemonic = "silver enter place elite recall alert glide lizard meat surface kitten among";

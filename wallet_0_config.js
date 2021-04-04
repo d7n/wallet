@@ -1,1 +1,1 @@
-var mnemonic = "syrup frozen width idea jaguar churn debris income blast arrange benefit baby";
+var mnemonic = "catalog wet multiply muffin elevator end legal velvet outer brother six team";

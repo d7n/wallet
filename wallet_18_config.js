@@ -1,1 +1,1 @@
-var mnemonic = "heavy connect infant tray divert copper space bottom angle record rapid grow";
+var mnemonic = "poem detail addict mention escape early knock delay room fun sibling room";

@@ -1,1 +1,1 @@
-var mnemonic = "already rebel tide egg frequent concert mail empower ethics dentist pepper chalk";
+var mnemonic = "rookie reflect animal noble marble cousin good lecture clog author quarter another";

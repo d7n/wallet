@@ -1,1 +1,1 @@
-var mnemonic = "attend photo pretty issue minor toy upgrade muffin casino review slender agent";
+var mnemonic = "urban ability frost exit shove seek stay swarm simple inherit danger narrow";

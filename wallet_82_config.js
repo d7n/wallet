@@ -1,1 +1,1 @@
-var mnemonic = "canyon foil female coil animal reason cattle believe umbrella congress grow north";
+var mnemonic = "remove gesture blood salute food clown person number mansion avocado cool victory";

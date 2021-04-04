@@ -1,1 +1,1 @@
-var mnemonic = "gasp lobster love taste venture endless mix affair dinner glance food cream";
+var mnemonic = "drip method aware build bean tip forward mosquito rhythm frequent income tumble";

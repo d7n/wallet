@@ -1,1 +1,1 @@
-var mnemonic = "similar kitten rhythm bacon swarm parrot echo blade punch cram clump smooth";
+var mnemonic = "hello puzzle limit shed nuclear win whisper inmate step energy oil hollow";

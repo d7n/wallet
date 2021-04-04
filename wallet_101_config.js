@@ -1,1 +1,1 @@
-var mnemonic = "learn leader lamp race slender chuckle conduct since multiply bean crisp access";
+var mnemonic = "elevator fence embody treat robot faith egg nasty talk school reunion fetch";

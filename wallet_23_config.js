@@ -1,1 +1,1 @@
-var mnemonic = "type inflict air credit more armed scorpion upset win useful theme party";
+var mnemonic = "great dash quarter okay weird worth wrong disagree ritual task myth female";

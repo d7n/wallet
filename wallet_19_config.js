@@ -1,1 +1,1 @@
-var mnemonic = "fringe shed gown owner hen glory student vital jewel leisure together rely";
+var mnemonic = "strike museum echo apology black castle borrow giraffe runway hockey elite helmet";

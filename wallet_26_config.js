@@ -1,1 +1,1 @@
-var mnemonic = "daring kidney alpha stadium soup album right scissors leave brand wagon giggle";
+var mnemonic = "balcony decrease veteran novel security civil mention tooth ridge finish coil wrestle";

@@ -1,1 +1,1 @@
-var mnemonic = "health dentist faint alley defy robust scout fall author cabbage rate achieve";
+var mnemonic = "imitate photo nuclear good economy hospital aerobic student despair identify vendor spice";

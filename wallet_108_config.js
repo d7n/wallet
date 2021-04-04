@@ -1,1 +1,1 @@
-var mnemonic = "noodle rural insane urge pulse virtual one ozone rabbit bring steel gaze";
+var mnemonic = "pig defy private slogan worth human solid helmet universe half width song";

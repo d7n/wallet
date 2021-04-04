@@ -1,1 +1,1 @@
-var mnemonic = "pencil common gate lady wool world detect save pen gas erosion valley";
+var mnemonic = "false mother debris fame picnic next pill yard resource file soft frozen";

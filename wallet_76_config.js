@@ -1,1 +1,1 @@
-var mnemonic = "book nurse suspect street truck hurry bullet stove pride entire dance puzzle";
+var mnemonic = "pumpkin city scheme damage people tuna firm adjust fox prison race over";

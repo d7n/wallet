@@ -1,1 +1,1 @@
-var mnemonic = "leisure riot claim jaguar twin theory indoor lava effort capital such fatigue";
+var mnemonic = "gym chunk gorilla soul awful food empower smooth tornado route toss six";

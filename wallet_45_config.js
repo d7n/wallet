@@ -1,1 +1,1 @@
-var mnemonic = "hip gauge just slush pave mother lunch fog report perfect tumble violin";
+var mnemonic = "observe mention market impose hollow picture inhale prepare erode rich victory party";

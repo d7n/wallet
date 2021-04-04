@@ -1,1 +1,1 @@
-var mnemonic = "century change lava already pear culture horse unfair mouse mansion citizen screen";
+var mnemonic = "push casual leader question pulp suffer mercy indoor monkey eyebrow puppy dial";

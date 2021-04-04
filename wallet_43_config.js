@@ -1,1 +1,1 @@
-var mnemonic = "wool garlic tool view dumb install property brand unlock sponsor slab ecology";
+var mnemonic = "human acid broom luggage army vintage intact kitten mosquito soda van lock";

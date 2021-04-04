@@ -1,1 +1,1 @@
-var mnemonic = "essay jealous result road design struggle symbol name critic install rebuild knife";
+var mnemonic = "wink forget feed cheese face type suffer flight trumpet equip repeat minute";

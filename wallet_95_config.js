@@ -1,1 +1,1 @@
-var mnemonic = "bronze suspect mountain hotel avocado coin wink they theme degree before race";
+var mnemonic = "crucial tobacco uncle vicious pulse engine shadow inflict arrow bacon attitude live";

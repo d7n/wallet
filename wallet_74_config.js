@@ -1,1 +1,1 @@
-var mnemonic = "soft island chief wrong crew scout silly tank ride legal dune nurse";
+var mnemonic = "arm helmet vintage nerve purchase amused wool reward drop farm grab lens";

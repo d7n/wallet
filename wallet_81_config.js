@@ -1,1 +1,1 @@
-var mnemonic = "glad journey hair board paddle zebra turn dad helmet wheel crowd perfect";
+var mnemonic = "exhibit impose woman rally burger quit hybrid powder until timber response hire";

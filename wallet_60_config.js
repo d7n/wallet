@@ -1,1 +1,1 @@
-var mnemonic = "rose code vehicle tenant gate humor wrist skull trust baby move funny";
+var mnemonic = "sauce insect ritual pepper aerobic extend manage drive dwarf since arrive gap";

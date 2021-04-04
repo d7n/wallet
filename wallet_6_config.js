@@ -1,1 +1,1 @@
-var mnemonic = "glance bag jewel buffalo sustain spot convince aunt betray breeze mask odor";
+var mnemonic = "cattle swim merge slush crucial infant detect auto unfair margin horn mimic";

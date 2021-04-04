@@ -1,1 +1,1 @@
-var mnemonic = "horse trigger inside derive gather science hollow sport sound desert million stand";
+var mnemonic = "letter diet situate must hat trap enrich gravity rocket wait kidney record";

@@ -1,1 +1,1 @@
-var mnemonic = "vital bullet donate round source spike ball erase fox jewel awkward rebel";
+var mnemonic = "item error express doll series target foam nurse laptop access filter logic";

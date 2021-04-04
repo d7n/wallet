@@ -1,1 +1,1 @@
-var mnemonic = "pet pulse clap good jeans cloth awful whisper warm attend damage brand";
+var mnemonic = "palace tackle among undo pumpkin foil network junk outside stadium stuff surge";

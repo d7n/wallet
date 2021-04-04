@@ -1,1 +1,1 @@
-var mnemonic = "ice blouse wonder meat episode opera remember source parrot where supreme river";
+var mnemonic = "airport output electric tower flee valley room woman purpose keep helmet diet";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid you jaguar gather sight cake type fever paper canvas uncle piece";
+var mnemonic = "promote merit faculty act point buddy extend borrow comic mercy design blood";

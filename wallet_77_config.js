@@ -1,1 +1,1 @@
-var mnemonic = "fatal option aisle speak weasel run category mutual replace celery pyramid burden";
+var mnemonic = "guilt frequent juice virus jelly saddle coyote eagle corn tower smile this";

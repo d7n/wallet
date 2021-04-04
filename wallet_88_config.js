@@ -1,1 +1,1 @@
-var mnemonic = "inner multiply decrease visit purchase lamp link squeeze dinner word bus happy";
+var mnemonic = "exchange frame invest hard maple wool permit butter absurd wedding lucky electric";

@@ -1,1 +1,1 @@
-var mnemonic = "sure blind accident zebra three salt craft jump minute captain foil zoo";
+var mnemonic = "clean permit excess segment easily mention glass minimum canvas butter supreme talk";

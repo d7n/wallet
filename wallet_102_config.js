@@ -1,1 +1,1 @@
-var mnemonic = "organ coil sort tower weather luxury guitar tired trigger calm put raccoon";
+var mnemonic = "short island fatigue field address ketchup detail canal blood rookie scatter govern";

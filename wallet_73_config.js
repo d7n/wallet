@@ -1,1 +1,1 @@
-var mnemonic = "alert whip capable hammer slice pledge sad stove bomb ensure crop disorder";
+var mnemonic = "lend pottery virus afraid swift estate shell reveal general weekend donkey glow";

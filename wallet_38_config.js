@@ -1,1 +1,1 @@
-var mnemonic = "noble area loyal skate draw hedgehog tone blind hobby bridge ghost draw";
+var mnemonic = "letter perfect regret oxygen vast early good hand tent place tone wasp";

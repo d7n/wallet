@@ -1,1 +1,1 @@
-var mnemonic = "program bag phone army pride leaf enforce film mimic clean actor subject";
+var mnemonic = "kitchen endorse empty aim broom father argue cup word ability reflect uniform";

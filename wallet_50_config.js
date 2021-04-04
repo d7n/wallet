@@ -1,1 +1,1 @@
-var mnemonic = "unfold almost lizard mask smile maple situate trash clerk success fuel equal";
+var mnemonic = "cross rich mammal short quick obscure black inspire hint yard cement exile";

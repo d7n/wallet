@@ -1,1 +1,1 @@
-var mnemonic = "wreck eternal best core idle stable trigger hat choice shift habit lunar";
+var mnemonic = "load reveal kangaroo impulse excite safe tag axis comfort undo wood long";

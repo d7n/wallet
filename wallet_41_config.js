@@ -1,1 +1,1 @@
-var mnemonic = "under trade bargain alcohol wolf brain satoshi pole grit enough moral return";
+var mnemonic = "build recall toward pride blood soft sister wheel illegal favorite insane sting";

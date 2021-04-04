@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur tenant security tape fetch coyote absent globe chase pond drive guitar";
+var mnemonic = "tower trim spoil door awkward ball aerobic access people insect load swift";

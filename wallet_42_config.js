@@ -1,1 +1,1 @@
-var mnemonic = "paddle genius icon appear timber miss lamp easy divide deposit hen narrow";
+var mnemonic = "nominee token vessel process ability satoshi license pattern proof minute spell mouse";

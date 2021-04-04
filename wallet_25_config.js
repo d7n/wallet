@@ -1,1 +1,1 @@
-var mnemonic = "almost exchange deposit copper share lemon club act arch bar chronic eye";
+var mnemonic = "portion remind grain broken salute oyster power tent clinic lesson universe innocent";

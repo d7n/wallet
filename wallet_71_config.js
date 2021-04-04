@@ -1,1 +1,1 @@
-var mnemonic = "tissue sniff basket easy choice space anger you come rely nice shiver";
+var mnemonic = "casino lazy add auto funny train december fiber insect sustain build sock";

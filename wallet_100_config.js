@@ -1,1 +1,1 @@
-var mnemonic = "friend imitate glide minor jungle minimum hospital pulp hip broom name begin";
+var mnemonic = "grid ship vote twice mirror tackle pottery toilet media train tattoo april";

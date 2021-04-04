@@ -1,1 +1,1 @@
-var mnemonic = "maple worth start coach code explain reform cream cry bachelor woman pig";
+var mnemonic = "news song head shrug erupt jungle caution weather above hockey praise reopen";

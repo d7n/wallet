@@ -1,1 +1,1 @@
-var mnemonic = "song syrup foil render crack album demand fame olympic lift start joke";
+var mnemonic = "diesel child saddle width unhappy volcano grit lock dash main orange hidden";

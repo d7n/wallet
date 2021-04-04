@@ -1,1 +1,1 @@
-var mnemonic = "witness little mansion evolve crater infant creek shadow noodle exile unique cupboard";
+var mnemonic = "sing carry toast betray impose nasty mobile scrap below chief wonder color";

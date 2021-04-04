@@ -1,1 +1,1 @@
-var mnemonic = "dove mimic leaf elbow enable card tube face drink cluster solution luxury";
+var mnemonic = "guide pulp loud myself genuine among spawn crime valid drastic nurse mercy";

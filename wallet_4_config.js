@@ -1,1 +1,1 @@
-var mnemonic = "october describe decrease hen bargain estate choose pass forum forward carpet candy";
+var mnemonic = "timber practice kind alien fade vehicle hover hole lecture inch risk angle";

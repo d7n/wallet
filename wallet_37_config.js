@@ -1,1 +1,1 @@
-var mnemonic = "away disagree window dizzy flush snow grace come chuckle humble blind meadow";
+var mnemonic = "eight jacket social mad globe raise art pulse jazz pelican fluid motor";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt element crazy immune prosper manual damp situate solve wild sight news";
+var mnemonic = "voice wrist cake dynamic aisle curtain easy sell cover input gasp enough";

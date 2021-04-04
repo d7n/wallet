@@ -1,1 +1,1 @@
-var mnemonic = "nasty often abandon document maximum boss trigger bronze visit can essence carbon";
+var mnemonic = "yellow unable cup section slender copy forward chronic butter inform grunt net";

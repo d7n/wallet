@@ -1,1 +1,1 @@
-var mnemonic = "meadow boil artist tray design scene all twenty danger pluck update text";
+var mnemonic = "bachelor spatial picnic chief nothing mammal federal burden volume conduct clap hand";

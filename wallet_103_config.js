@@ -1,1 +1,1 @@
-var mnemonic = "ridge shed pool extra text drop upper gospel lake avoid lecture habit";
+var mnemonic = "close category among flip program shove seat want heavy ocean illegal have";

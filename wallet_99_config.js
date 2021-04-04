@@ -1,1 +1,1 @@
-var mnemonic = "era maple old animal flag rule favorite force banana health cluster entire";
+var mnemonic = "science deal menu flame easily quality surface void case danger sugar garlic";

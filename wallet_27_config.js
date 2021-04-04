@@ -1,1 +1,1 @@
-var mnemonic = "insect poverty lecture comfort stereo blade census soap viable reward list range";
+var mnemonic = "athlete keep famous pelican couple sense venture elbow offer roof first artist";

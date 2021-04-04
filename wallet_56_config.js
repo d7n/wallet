@@ -1,1 +1,1 @@
-var mnemonic = "climb picnic donkey finish blast ability aim rocket fringe frown trigger detail";
+var mnemonic = "candy seek side click tortoise aware robust weird cancel life source stamp";

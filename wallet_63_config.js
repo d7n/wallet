@@ -1,1 +1,1 @@
-var mnemonic = "tourist render uncover cherry wild first letter degree trade sorry melody vote";
+var mnemonic = "grab dinosaur lobster vanish between anchor axis firm develop announce actress child";

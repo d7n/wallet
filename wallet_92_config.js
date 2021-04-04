@@ -1,1 +1,1 @@
-var mnemonic = "maid joke prize caution popular wait immense kingdom accuse acquire digital junior";
+var mnemonic = "supreme month scale keen blade salmon safe student fantasy vivid swear salute";

@@ -1,1 +1,1 @@
-var mnemonic = "deer helmet acquire battle globe shrimp hedgehog program guilt tired kick divorce";
+var mnemonic = "spawn flat broccoli bounce dignity curious sound home virus allow bachelor identify";
