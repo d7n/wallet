@@ -1,1 +1,1 @@
-var mnemonic = "athlete nerve filter chief economy trim exhibit used wedding source broccoli misery";
+var mnemonic = "horror pave brain chalk round option cement grow absorb snack lumber rival";

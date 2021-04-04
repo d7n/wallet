@@ -1,1 +1,1 @@
-var mnemonic = "friend suggest grab lava price special denial blind coral cousin push wine";
+var mnemonic = "tail pencil topic cage bounce clinic brisk conduct brisk cancel place frown";

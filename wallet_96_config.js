@@ -1,1 +1,1 @@
-var mnemonic = "easily end frown trophy prosper spell when again fade later grid glimpse";
+var mnemonic = "nothing chef until syrup future exhaust already able edge action there gather";

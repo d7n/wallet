@@ -1,1 +1,1 @@
-var mnemonic = "paddle board ribbon hand capital obvious cake venture thank carry ritual act";
+var mnemonic = "tide provide measure phrase craft embody jewel reward hen gown number purse";

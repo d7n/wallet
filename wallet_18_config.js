@@ -1,1 +1,1 @@
-var mnemonic = "seek chapter defy exclude donkey lock biology tool dawn lawsuit near install";
+var mnemonic = "educate misery resist window mule post craft below clog train firm pig";

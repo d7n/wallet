@@ -1,1 +1,1 @@
-var mnemonic = "estate marble shuffle noble expire damage extra ice else agree move purity";
+var mnemonic = "brother guess grid hard goat edit sunny reveal same country write impulse";

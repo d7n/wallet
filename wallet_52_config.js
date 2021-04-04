@@ -1,1 +1,1 @@
-var mnemonic = "basic armed much harbor pretty century monitor coach sustain opinion oak canyon";
+var mnemonic = "pupil exercise term holiday put stairs melody scatter inform ski fine busy";

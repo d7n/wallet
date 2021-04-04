@@ -1,1 +1,1 @@
-var mnemonic = "yard school wonder upgrade search patient organ frozen check beyond giraffe remove";
+var mnemonic = "vast friend path piano mosquito inquiry oxygen file culture valley orange bottom";

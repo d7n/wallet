@@ -1,1 +1,1 @@
-var mnemonic = "vendor much entire public wreck nasty awkward call coast enroll emerge obey";
+var mnemonic = "fatigue involve today steak math critic skate capable achieve eternal jewel chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis seed emotion immune pluck brown vacuum update distance horn belt foam";
+var mnemonic = "appear ranch wheat term device illegal question police they cupboard bless power";

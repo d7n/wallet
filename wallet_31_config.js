@@ -1,1 +1,1 @@
-var mnemonic = "law brass circle drill company spirit side suffer tuition lend taxi plunge";
+var mnemonic = "wise million reject grace agent voyage lunar couple wash tuition mechanic divert";

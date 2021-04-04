@@ -1,1 +1,1 @@
-var mnemonic = "stomach goddess certain labor vehicle ball naive hip cigar wide flee dice";
+var mnemonic = "sand february clip govern inform proud cradle coral human beach real grocery";

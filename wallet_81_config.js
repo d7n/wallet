@@ -1,1 +1,1 @@
-var mnemonic = "mention cost pupil coin wet apple parrot claw purchase despair route street";
+var mnemonic = "follow vicious green good tenant pill taste club month decorate orbit spray";

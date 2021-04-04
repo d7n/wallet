@@ -1,1 +1,1 @@
-var mnemonic = "card motor permit bottom brave south evolve pencil mechanic effort food ski";
+var mnemonic = "genuine monitor fade put welcome hole adjust inside embody kidney tuna pact";

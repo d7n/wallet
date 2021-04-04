@@ -1,1 +1,1 @@
-var mnemonic = "clog twist napkin fever crunch interest affair kind ski charge risk then";
+var mnemonic = "alert quantum arm drop chase spot trigger shine bone joke refuse step";

@@ -1,1 +1,1 @@
-var mnemonic = "scout clump rain exhibit dentist unable venture isolate mule jump tree insect";
+var mnemonic = "divorce dolphin valid banner robot flat husband scheme use filter rotate fire";

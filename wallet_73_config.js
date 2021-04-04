@@ -1,1 +1,1 @@
-var mnemonic = "journey excite collect taste gaze mention crane afford keep magnet same squirrel";
+var mnemonic = "trust exist one finish ignore coil surround manage hint between clog float";

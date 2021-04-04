@@ -1,1 +1,1 @@
-var mnemonic = "sort time rain equal hungry dolphin glow picture vital number right spray";
+var mnemonic = "benefit peace nerve proof text bronze green canyon gown left siren border";

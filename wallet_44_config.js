@@ -1,1 +1,1 @@
-var mnemonic = "program uniform plunge mind caution bulk pink layer warfare curtain feed lava";
+var mnemonic = "oven use shove dish silent hard sibling web choose shove summer picture";

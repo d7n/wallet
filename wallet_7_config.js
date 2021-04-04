@@ -1,1 +1,1 @@
-var mnemonic = "cave still dream medal trouble ramp away risk uncover truly sunset transfer";
+var mnemonic = "erosion wagon divert arrange mosquito enemy observe motor sing hold skate match";

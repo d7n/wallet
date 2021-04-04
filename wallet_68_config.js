@@ -1,1 +1,1 @@
-var mnemonic = "response mixed laptop gadget hungry welcome fabric horse senior recycle alcohol view";
+var mnemonic = "frequent swear snake remain crunch equip poet talent direct chronic example capital";

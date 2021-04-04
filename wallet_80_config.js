@@ -1,1 +1,1 @@
-var mnemonic = "next traffic hole spread journey popular plastic maid kit journey follow exclude";
+var mnemonic = "dream room release addict rival asthma alter museum language dwarf armed debris";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow defense vicious snake struggle viable vital beach hood flash opinion ready";
+var mnemonic = "violin device pupil meat catch know miss safe uniform chronic rookie spirit";

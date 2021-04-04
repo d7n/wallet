@@ -1,1 +1,1 @@
-var mnemonic = "pepper offer cinnamon above hip unit easy unlock color whip remain agree";
+var mnemonic = "never sunny wire squeeze slam cloth topple useless grape young virus indoor";

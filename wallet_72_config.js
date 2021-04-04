@@ -1,1 +1,1 @@
-var mnemonic = "avoid scale final sad depth post vessel height recall winter elegant hurdle";
+var mnemonic = "wish nephew file feel season forward uniform runway system cheese science arrange";

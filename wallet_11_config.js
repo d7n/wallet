@@ -1,1 +1,1 @@
-var mnemonic = "art plunge equip quiz cool height wave penalty robust name behind toddler";
+var mnemonic = "media bind danger describe ride nurse approve devote accuse unhappy fade dust";

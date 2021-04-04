@@ -1,1 +1,1 @@
-var mnemonic = "attitude spell mean when camera loud begin pact humor orphan frog dumb";
+var mnemonic = "total buyer shop share decline earn bachelor sugar wear other skin usual";

@@ -1,1 +1,1 @@
-var mnemonic = "toilet grass erosion blossom mirror similar memory general tail pioneer bar illness";
+var mnemonic = "junk night chuckle curve glue struggle drop say unaware game poet donkey";

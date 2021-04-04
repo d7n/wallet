@@ -1,1 +1,1 @@
-var mnemonic = "various local open giggle group liar there jeans approve worth labor drastic";
+var mnemonic = "merit sadness fun dentist wheat clerk monitor destroy attend next verb first";

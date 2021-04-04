@@ -1,1 +1,1 @@
-var mnemonic = "file huge chuckle useful code morning summer panel split eternal crack distance";
+var mnemonic = "coral genre daughter dentist festival renew beef surprise category purchase feel advice";

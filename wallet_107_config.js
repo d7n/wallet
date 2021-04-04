@@ -1,1 +1,1 @@
-var mnemonic = "dirt actual coyote expect when capable logic tomato term east dutch vapor";
+var mnemonic = "inject thank dizzy bulk bullet basket arctic glide man quit bicycle glory";

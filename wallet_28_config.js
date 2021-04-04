@@ -1,1 +1,1 @@
-var mnemonic = "arctic garden copper menu alcohol south crush purpose hub fancy gain worth";
+var mnemonic = "tissue celery poverty bonus raise retreat sense shallow loan seed client story";

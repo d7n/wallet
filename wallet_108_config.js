@@ -1,1 +1,1 @@
-var mnemonic = "rough woman kitchen suffer evoke napkin lift jazz depend pigeon pluck jar";
+var mnemonic = "uncover hero account guitar violin bird design deny cake lend brick outer";

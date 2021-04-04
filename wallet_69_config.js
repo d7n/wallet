@@ -1,1 +1,1 @@
-var mnemonic = "wear leaf message pigeon spirit topic unaware autumn amazing game fat arrow";
+var mnemonic = "broken predict upgrade truck protect ask leaf gain clutch recipe blast glad";

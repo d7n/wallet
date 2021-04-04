@@ -1,1 +1,1 @@
-var mnemonic = "surround secret baby network castle fold have secret either govern sunny peasant";
+var mnemonic = "festival know hover pupil axis produce alarm supreme cause jaguar they orchard";

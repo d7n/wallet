@@ -1,1 +1,1 @@
-var mnemonic = "rule unfair quick wide kit craft explain brave dismiss grow sorry verify";
+var mnemonic = "team tennis layer once melt tragic lawsuit train once speed clerk athlete";

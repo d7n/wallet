@@ -1,1 +1,1 @@
-var mnemonic = "squeeze whisper leg age admit used twelve display seven item scrub face";
+var mnemonic = "gloom flash raccoon glad march insect food member final together differ catch";

@@ -1,1 +1,1 @@
-var mnemonic = "person chair blind toast deny bomb outdoor negative also job excuse brass";
+var mnemonic = "identify real coral surround valve output delay kiwi asset decorate monitor divide";

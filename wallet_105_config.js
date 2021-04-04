@@ -1,1 +1,1 @@
-var mnemonic = "birth drama social company injury mechanic pigeon flag short clinic lava cart";
+var mnemonic = "donkey bird empower indoor quote trouble rally catalog powder vacant virus guess";

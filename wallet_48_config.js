@@ -1,1 +1,1 @@
-var mnemonic = "away bulk era case female trumpet party shrimp humble immense true wear";
+var mnemonic = "lock alarm orient three sample aspect just execute donor proud polar release";

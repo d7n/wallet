@@ -1,1 +1,1 @@
-var mnemonic = "now blouse distance hole try gap zero dignity hole surprise drastic over";
+var mnemonic = "airport dragon live gate solution immune better junk garlic symptom ladder cargo";

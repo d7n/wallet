@@ -1,1 +1,1 @@
-var mnemonic = "estate patient insect piano husband elegant lift sun churn lucky wet myth";
+var mnemonic = "office paper either eternal happy olive company gun museum trend grass liar";

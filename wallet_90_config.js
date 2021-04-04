@@ -1,1 +1,1 @@
-var mnemonic = "enemy nasty segment tobacco breeze message silent major patient into artefact response";
+var mnemonic = "cross shoot keen soccer blanket trend pipe fence wear toddler destroy female";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk runway orphan history arrive earth inquiry layer frown praise involve orient";
+var mnemonic = "own brush require open kid problem reveal police sweet patch club wish";

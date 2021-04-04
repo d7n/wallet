@@ -1,1 +1,1 @@
-var mnemonic = "burger empty destroy cradle author inquiry anchor winter supply clock force ghost";
+var mnemonic = "liar blame clutch save close diesel marble interest length leader slow organ";

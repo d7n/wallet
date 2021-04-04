@@ -1,1 +1,1 @@
-var mnemonic = "desk online paddle shock resource opinion give metal concert behind series camera";
+var mnemonic = "blouse verify quiz desk extra awkward throw execute enrich margin seven detail";

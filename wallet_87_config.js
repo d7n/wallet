@@ -1,1 +1,1 @@
-var mnemonic = "task tag scan absurd weather arena smile silent mean ship inner office";
+var mnemonic = "sing math cherry over stuff fantasy team dry bird ride solution list";

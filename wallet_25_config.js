@@ -1,1 +1,1 @@
-var mnemonic = "glare vacant hurdle fringe hedgehog narrow lend rent home fatigue stock tool";
+var mnemonic = "despair fortune please modify woman usage check they fragile human circle rude";

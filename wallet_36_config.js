@@ -1,1 +1,1 @@
-var mnemonic = "brush sell sustain duty vault steel need food brass amateur sound shove";
+var mnemonic = "drink job media myth palm garbage obscure dizzy trust target rebel dirt";

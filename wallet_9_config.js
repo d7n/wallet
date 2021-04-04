@@ -1,1 +1,1 @@
-var mnemonic = "engine poet tumble tortoise crouch mimic cross three uncover film quarter liquid";
+var mnemonic = "pear obscure mask bunker caught frown embark error flash jeans gaze remind";

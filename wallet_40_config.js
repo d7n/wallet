@@ -1,1 +1,1 @@
-var mnemonic = "snake weapon favorite virtual unfold oblige fortune soda stock network idle yard";
+var mnemonic = "hammer volume apple width service pill another surround hamster search project lobster";

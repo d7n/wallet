@@ -1,1 +1,1 @@
-var mnemonic = "melt local buyer welcome wait tank guess garage dragon van eyebrow quiz";
+var mnemonic = "fringe more bike tragic used school effort eight mad toy cram rent";

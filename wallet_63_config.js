@@ -1,1 +1,1 @@
-var mnemonic = "task member able bright hero soft stadium potato clutch avocado birth cram";
+var mnemonic = "novel blanket season always device arrange wash agree outdoor save chuckle reveal";

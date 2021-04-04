@@ -1,1 +1,1 @@
-var mnemonic = "loud twenty exhaust embark train nuclear swallow romance two smart odor gallery";
+var mnemonic = "ginger abstract various method calm salon later today canal galaxy insane whisper";

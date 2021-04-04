@@ -1,1 +1,1 @@
-var mnemonic = "radio art benefit census soldier elite push fit unaware light stone icon";
+var mnemonic = "expire bus napkin father finger general twin chase any rescue olive force";

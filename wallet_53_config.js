@@ -1,1 +1,1 @@
-var mnemonic = "never void garlic salon husband trumpet chaos spot tent evoke scheme topic";
+var mnemonic = "fence mother peanut park shy snack park burden choice nephew ladder between";

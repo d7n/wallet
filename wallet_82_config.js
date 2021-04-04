@@ -1,1 +1,1 @@
-var mnemonic = "dice reveal addict cherry melt piece theory typical armor chief grab royal";
+var mnemonic = "awkward space weird private shield spring elder flag kite olympic slight crush";

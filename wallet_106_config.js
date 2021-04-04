@@ -1,1 +1,1 @@
-var mnemonic = "skull boring step mechanic bomb south evolve gym toddler simple pudding book";
+var mnemonic = "violin artist leisure feel right pony orient cloth sword any rich action";

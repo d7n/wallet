@@ -1,1 +1,1 @@
-var mnemonic = "opera absurd jar match next host roof cook van hurt mammal main";
+var mnemonic = "squeeze stamp yard emotion glass skin wheat object orbit expire model cancel";

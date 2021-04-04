@@ -1,1 +1,1 @@
-var mnemonic = "wife course sock design clap buzz remain finger decide under lumber round";
+var mnemonic = "license oblige fluid tent check blood forget spray taste series crumble salad";

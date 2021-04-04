@@ -1,1 +1,1 @@
-var mnemonic = "gold arrow tank dial shoot now pioneer announce iron junior palm theory";
+var mnemonic = "army position lock sudden mandate shift slot flock junk rare antenna strike";

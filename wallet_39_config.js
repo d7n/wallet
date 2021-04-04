@@ -1,1 +1,1 @@
-var mnemonic = "arrange hobby mercy useless renew resemble mountain paper badge mirror broken orchard";
+var mnemonic = "crack mushroom case weapon stomach parrot glide pattern analyst mosquito ramp utility";

@@ -1,1 +1,1 @@
-var mnemonic = "bar pair vacuum rather black palace aisle scan license license concert satoshi";
+var mnemonic = "ripple knee cry leg afford fatal glance favorite indicate cube silver afraid";

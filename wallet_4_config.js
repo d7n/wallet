@@ -1,1 +1,1 @@
-var mnemonic = "unfold firm lava drama great manage news goat wish manual immense item";
+var mnemonic = "top require heart bus wealth palm equal share trigger sad mention circle";

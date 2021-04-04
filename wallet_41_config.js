@@ -1,1 +1,1 @@
-var mnemonic = "inquiry duty cousin gravity point protect frequent all drama future fix predict";
+var mnemonic = "rate knee mention kit disagree reject luggage student axis habit emotion sugar";

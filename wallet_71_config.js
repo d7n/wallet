@@ -1,1 +1,1 @@
-var mnemonic = "mansion doll imitate program flower october dream left dune adjust lounge silk";
+var mnemonic = "knock cabin royal large foot output when wave long eager secret hand";

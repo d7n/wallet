@@ -1,1 +1,1 @@
-var mnemonic = "since stamp border skate top lava gauge pipe fiber rose because creek";
+var mnemonic = "audit now flight six flee aunt wage grant sibling tape night around";

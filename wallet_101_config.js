@@ -1,1 +1,1 @@
-var mnemonic = "wisdom wild almost brown practice rain end accuse rigid giraffe other inch";
+var mnemonic = "indicate seat rich kitchen maid nation scatter nut fantasy method ancient order";

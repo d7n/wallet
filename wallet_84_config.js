@@ -1,1 +1,1 @@
-var mnemonic = "armed pink hover oyster fever extra filter liar rule blouse cattle float";
+var mnemonic = "regret swamp aspect test arch urban main various evoke sunny explain air";

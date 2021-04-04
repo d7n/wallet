@@ -1,1 +1,1 @@
-var mnemonic = "master now pioneer immense fluid scrub wait sort rabbit push razor become";
+var mnemonic = "menu access age viable vapor lucky change voice stool twice ridge hospital";

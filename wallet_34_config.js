@@ -1,1 +1,1 @@
-var mnemonic = "mutual art hedgehog envelope detail across oblige simple nice inherit biology country";
+var mnemonic = "melody option turkey crew spoon same hurt fade cram rally easy nut";

@@ -1,1 +1,1 @@
-var mnemonic = "now fossil unhappy frown shop among robust ignore power trouble scout address";
+var mnemonic = "only october disease gauge battle poem attack stand stumble private coast ride";

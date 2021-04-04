@@ -1,1 +1,1 @@
-var mnemonic = "expire riot bomb buffalo lens jealous aisle process system process travel century";
+var mnemonic = "banana over lawsuit clay number dad satisfy card dentist debate raw slight";

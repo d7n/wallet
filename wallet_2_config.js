@@ -1,1 +1,1 @@
-var mnemonic = "giggle turn common account siege muscle antenna inspire chuckle puppy food isolate";
+var mnemonic = "purse switch note actor sight boy meadow trophy clap luggage wear elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "problem envelope good lion kid benefit join share crystal pottery decade legal";
+var mnemonic = "vital maximum crazy fetch coin core uncover art taxi bind slush alcohol";

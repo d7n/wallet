@@ -1,1 +1,1 @@
-var mnemonic = "trial select relief wrong purchase kangaroo estate index viable gun rigid captain";
+var mnemonic = "debris neutral orient tape tree extra regular broom offer gather tornado soldier";

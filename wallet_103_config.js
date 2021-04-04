@@ -1,1 +1,1 @@
-var mnemonic = "author industry nut neglect funny rotate tent man galaxy diamond strike next";
+var mnemonic = "glance web august stick luxury alley snow around mean wreck moment tell";

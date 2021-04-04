@@ -1,1 +1,1 @@
-var mnemonic = "unknown recycle dinosaur toilet month protect junior goose judge valve random material";
+var mnemonic = "save photo suspect radio sail play private whale exercise present meadow tank";

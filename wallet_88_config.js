@@ -1,1 +1,1 @@
-var mnemonic = "critic damp toward settle abandon stomach prison doll item power buffalo post";
+var mnemonic = "west degree economy agent viable veteran blossom hurdle tape peanut dirt find";

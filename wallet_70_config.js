@@ -1,1 +1,1 @@
-var mnemonic = "mask girl tube buyer become banner sunset snack patrol cute beef adapt";
+var mnemonic = "fun brisk combine limb sound beyond lion junk cause champion novel pigeon";

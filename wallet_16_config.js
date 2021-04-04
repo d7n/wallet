@@ -1,1 +1,1 @@
-var mnemonic = "spell ranch crystal category symbol eye banana dizzy coin shrimp slab fresh";
+var mnemonic = "city crisp glue chest river coral ripple rail payment cup exchange voice";

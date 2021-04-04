@@ -1,1 +1,1 @@
-var mnemonic = "mouse twin march window wine drop eight quit shoe shuffle distance also";
+var mnemonic = "roof that off sock sponsor scout collect theme help salute trumpet nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon sun seat caution custom guess reform soft step tray call segment";
+var mnemonic = "tip satoshi sorry among stay surprise acid sure rapid else million town";

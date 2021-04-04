@@ -1,1 +1,1 @@
-var mnemonic = "topic timber monitor until mimic today finish drink reward picture frog wrist";
+var mnemonic = "slim quiz outer hold rain scorpion bike tired school axis churn glare";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch matter crash morning stick tattoo wink use ski patrol gaze swarm";
+var mnemonic = "still coast service game salmon pond cannon dream concert poet canvas possible";

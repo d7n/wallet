@@ -1,1 +1,1 @@
-var mnemonic = "middle stomach swallow pioneer mechanic truth immense easy receive spell believe keen";
+var mnemonic = "rubber cloth dolphin pluck grid hamster primary narrow gym wood toast sheriff";

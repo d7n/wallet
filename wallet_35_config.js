@@ -1,1 +1,1 @@
-var mnemonic = "pigeon torch check census pudding ankle expose flag spell cousin vendor junk";
+var mnemonic = "stumble song solve iron ensure suggest hotel quote tail topple emerge evolve";

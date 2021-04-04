@@ -1,1 +1,1 @@
-var mnemonic = "click benefit traffic rail cram another divorce grape acoustic feel snack rival";
+var mnemonic = "pottery world mind spirit toward sick thought woman sunny scale cricket goddess";

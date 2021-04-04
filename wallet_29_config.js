@@ -1,1 +1,1 @@
-var mnemonic = "raise desert exotic intact lion nuclear salt wage anchor ritual envelope moment";
+var mnemonic = "giraffe gym govern engage clock rose midnight abandon marriage combine adult manual";
