@@ -1,1 +1,1 @@
-var mnemonic = "crack pony woman hammer opera visa stadium rack convince fashion industry circle";
+var mnemonic = "snack symbol dance dial brass toy eight verb nerve top column innocent";

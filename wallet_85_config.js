@@ -1,1 +1,1 @@
-var mnemonic = "nominee trouble clean unable nominee math outside trigger people spatial dance wheel";
+var mnemonic = "crush blur enable cabbage north guard state cost attitude unlock tragic theme";

@@ -1,1 +1,1 @@
-var mnemonic = "quote oyster cattle silk glance fever raccoon glance leopard snow bind obscure";
+var mnemonic = "want size crumble judge guess boy flower category diamond damage inside treat";

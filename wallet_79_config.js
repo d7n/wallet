@@ -1,1 +1,1 @@
-var mnemonic = "guitar confirm bone tourist autumn catalog harsh leopard rent sting dignity tiny";
+var mnemonic = "indicate crisp injury field loud volume pitch tobacco mix dust fiber amused";

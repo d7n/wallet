@@ -1,1 +1,1 @@
-var mnemonic = "calm color appear void trouble soda raw differ medal essence what skirt";
+var mnemonic = "unusual write boil shallow typical blue nasty execute cost wall denial turn";

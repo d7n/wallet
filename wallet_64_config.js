@@ -1,1 +1,1 @@
-var mnemonic = "soup heavy put net brown coin radar window carry miss private space";
+var mnemonic = "candy pistol moon punch saddle message sister chalk burden culture three attitude";

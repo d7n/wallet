@@ -1,1 +1,1 @@
-var mnemonic = "age admit myself ecology grant boring garage pilot result family mammal limb";
+var mnemonic = "claim apology fat arrive jacket casual cart truly cash stock slight timber";

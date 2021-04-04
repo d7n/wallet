@@ -1,1 +1,1 @@
-var mnemonic = "rule become grief way electric inform figure village cram second swap swing";
+var mnemonic = "napkin area weasel myself raccoon circle pilot lake audit wink chair lunch";

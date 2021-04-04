@@ -1,1 +1,1 @@
-var mnemonic = "mask good picnic island belt cannon royal summer symbol phrase initial august";
+var mnemonic = "artwork insect coffee truck syrup favorite capital kingdom kite luggage recipe elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "glad mention weasel viable alley worth capital motion zone order badge sweet";
+var mnemonic = "month piano better car approve private cat vibrant appear unique hire utility";

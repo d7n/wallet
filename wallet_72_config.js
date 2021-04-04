@@ -1,1 +1,1 @@
-var mnemonic = "roof alpha primary estate minor core law food hammer turkey isolate someone";
+var mnemonic = "reveal word job afraid patch rule indoor bracket fragile wedding hip turkey";

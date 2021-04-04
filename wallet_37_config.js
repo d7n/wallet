@@ -1,1 +1,1 @@
-var mnemonic = "lonely father robot guitar shallow vacant chalk audit disorder water milk insect";
+var mnemonic = "kidney hip special uncover arm wagon cup detail join school fashion twice";

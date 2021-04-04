@@ -1,1 +1,1 @@
-var mnemonic = "photo deal boss army group opera lizard glue dad increase limb suffer";
+var mnemonic = "evidence wing seek soldier plunge erase print alter october spare flag luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "begin about pilot work switch home either pause universe sort dog obtain";
+var mnemonic = "olympic narrow option forget pride second glue bulk anchor knock dilemma then";

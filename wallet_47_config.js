@@ -1,1 +1,1 @@
-var mnemonic = "whale solar climb produce range joke suspect crew summer salute frame law";
+var mnemonic = "mask gospel comic proud valid brick feed angle sentence pilot orange shallow";

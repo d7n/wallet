@@ -1,1 +1,1 @@
-var mnemonic = "daughter garden horror police cancel heart shrug host snack glow caught room";
+var mnemonic = "balcony brave arrive denial leopard lesson crazy cushion improve civil rack course";

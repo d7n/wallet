@@ -1,1 +1,1 @@
-var mnemonic = "lift head nest credit vendor top evidence funny ahead used spike tree";
+var mnemonic = "survey street critic loud relax hamster another oven disorder inside tonight error";

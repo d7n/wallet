@@ -1,1 +1,1 @@
-var mnemonic = "express palm wonder spread devote rice know nose degree youth embrace story";
+var mnemonic = "easily income curve live execute unveil edge occur vacuum now direct diagram";

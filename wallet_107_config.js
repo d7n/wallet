@@ -1,1 +1,1 @@
-var mnemonic = "garlic wave empower remind guard miracle popular seven chimney nothing unable surge";
+var mnemonic = "decide refuse opinion muscle post inject runway common chase just half invite";

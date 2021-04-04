@@ -1,1 +1,1 @@
-var mnemonic = "sunset harbor clay lawsuit mosquito debate safe frozen announce police type change";
+var mnemonic = "drill glad find butter ten engage believe sudden vacant into ecology oil";

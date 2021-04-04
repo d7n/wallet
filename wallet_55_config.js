@@ -1,1 +1,1 @@
-var mnemonic = "green make gesture today grow mail second sail patrol friend dutch brother";
+var mnemonic = "carpet hotel inflict cube gossip walk sure hawk please champion picture auction";

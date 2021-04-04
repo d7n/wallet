@@ -1,1 +1,1 @@
-var mnemonic = "rough super whip pink pet expose city space crowd strike breeze time";
+var mnemonic = "final satoshi east hybrid rural shoulder heavy grid rude tent entire fog";

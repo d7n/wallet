@@ -1,1 +1,1 @@
-var mnemonic = "churn cradle color able round buddy poet believe nominee enroll sting toast";
+var mnemonic = "helmet throw emotion race wing height category alpha man cool rack sunny";

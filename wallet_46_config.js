@@ -1,1 +1,1 @@
-var mnemonic = "spoil mention assault luggage medal excess stuff chuckle quantum foot busy pony";
+var mnemonic = "cool almost pottery garden feature envelope answer spoon bread worry toy grab";

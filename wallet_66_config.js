@@ -1,1 +1,1 @@
-var mnemonic = "welcome total lyrics crop owner video maple vacuum gaze marble oblige nerve";
+var mnemonic = "energy select easily stomach time sign moment recycle hard hazard repair retire";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse practice diary media marble nephew divorce nature sense more tired carry";
+var mnemonic = "bubble craft wood usage afford spare leg copper refuse strategy chief north";

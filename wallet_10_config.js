@@ -1,1 +1,1 @@
-var mnemonic = "ride will response minimum gate casino grid shine hunt engage whale author";
+var mnemonic = "print join strike enrich slim frown check delay marine actress bullet attack";

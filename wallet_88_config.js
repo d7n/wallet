@@ -1,1 +1,1 @@
-var mnemonic = "begin dirt arrest never during size drink bleak squeeze multiply fiber one";
+var mnemonic = "harsh name end toss add exile mountain dignity promote first company control";

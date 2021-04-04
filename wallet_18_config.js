@@ -1,1 +1,1 @@
-var mnemonic = "case swamp swap crystal guitar debate ivory black concert plunge inhale flavor";
+var mnemonic = "cave step lazy kite since merge glide blouse tone anchor recall security";

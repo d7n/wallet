@@ -1,1 +1,1 @@
-var mnemonic = "fetch practice unfold mutual reward give play stumble tank swap toward female";
+var mnemonic = "tail tourist swallow goat practice route fade island priority observe awesome please";

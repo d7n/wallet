@@ -1,1 +1,1 @@
-var mnemonic = "title mandate coffee speak leisure lake peanut school meat jaguar ramp best";
+var mnemonic = "divorce doll fuel bargain wife artwork crop hen fuel frequent employ estate";

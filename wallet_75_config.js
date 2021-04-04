@@ -1,1 +1,1 @@
-var mnemonic = "jacket trade wool cram gather blur syrup cup circle pluck occur unaware";
+var mnemonic = "decade crisp human ice quiz flush air renew addict vacant buffalo arrange";

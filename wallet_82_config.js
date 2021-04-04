@@ -1,1 +1,1 @@
-var mnemonic = "turkey coach piece dad skull alley dance supreme photo use fiscal clip";
+var mnemonic = "minimum segment luggage predict wheel describe involve spring dirt wedding script fruit";

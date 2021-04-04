@@ -1,1 +1,1 @@
-var mnemonic = "fan chalk talent web path owner ostrich auto must orbit coast broom";
+var mnemonic = "lounge swamp attack east fee valve innocent behave humor review range lava";

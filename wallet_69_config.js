@@ -1,1 +1,1 @@
-var mnemonic = "rich focus clean neglect stomach palm chuckle punch excite image icon absent";
+var mnemonic = "drum unlock real divide action vital fold also awkward evoke good antique";

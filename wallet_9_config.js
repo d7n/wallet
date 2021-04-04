@@ -1,1 +1,1 @@
-var mnemonic = "milk hello today universe canyon stumble proof slogan often salmon bronze depth";
+var mnemonic = "female weekend torch toilet find shine garbage shock tonight thrive silly copper";

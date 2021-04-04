@@ -1,1 +1,1 @@
-var mnemonic = "obscure member stock maid discover sample buyer offer bicycle skin pigeon educate";
+var mnemonic = "bomb copy walnut ginger river honey foam task current track equal snack";

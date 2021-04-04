@@ -1,1 +1,1 @@
-var mnemonic = "scout differ visual climb high regret school stay crouch order proof assault";
+var mnemonic = "time turkey bullet chase item seminar key fly north tonight bless rocket";

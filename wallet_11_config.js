@@ -1,1 +1,1 @@
-var mnemonic = "gate emerge shallow harvest swallow canal legal way mimic buddy share sing";
+var mnemonic = "blouse general exact menu flag grain final reflect position economy tattoo other";

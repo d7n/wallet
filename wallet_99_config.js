@@ -1,1 +1,1 @@
-var mnemonic = "bottom grant debris captain rule pond tired snack rifle add cigar glory";
+var mnemonic = "power board peanut abstract valve test escape cabin rice silk life fan";

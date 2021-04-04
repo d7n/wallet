@@ -1,1 +1,1 @@
-var mnemonic = "artwork seat alien castle ill almost absurd depart muscle danger concert shoulder";
+var mnemonic = "motor round hand meadow census infant still moral rice delay label media";

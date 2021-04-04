@@ -1,1 +1,1 @@
-var mnemonic = "gaze doctor sentence void axis limb illegal taste reunion excite uniform narrow";
+var mnemonic = "tribe cheap amateur seven cost rude protect turkey bus daring hire then";

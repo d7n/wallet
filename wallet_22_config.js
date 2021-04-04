@@ -1,1 +1,1 @@
-var mnemonic = "liar vault behave inch farm gaze pear glow very guess under silk";
+var mnemonic = "boat appear script people holiday glare choose month grid reunion swallow salt";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean badge chapter include apart suspect loan apple ghost copy bundle nuclear";
+var mnemonic = "maximum flag harvest horror onion random pretty defense couch left raccoon recycle";

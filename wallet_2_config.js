@@ -1,1 +1,1 @@
-var mnemonic = "labor addict edit afraid speed moral hazard advice item always identify utility";
+var mnemonic = "remove click lecture trial seven wire bench pistol unique squeeze donkey inform";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier deposit subject quarter fatal produce analyst notable card curious tornado arena";
+var mnemonic = "play hour sand grief bronze miracle better sister pilot yard castle casino";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor journey good admit capable jeans kite couple shuffle divide theme siren";
+var mnemonic = "keen carpet boss sell carbon water arrive trial awake rent horn crumble";

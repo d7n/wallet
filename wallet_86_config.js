@@ -1,1 +1,1 @@
-var mnemonic = "spy alone because control curious minimum wealth grunt ozone strike cheap tired";
+var mnemonic = "float boil entire since sauce social quality group tuna spatial below library";

@@ -1,1 +1,1 @@
-var mnemonic = "logic any jealous bread result ramp acquire ostrich room wink tennis omit";
+var mnemonic = "carbon melody hole foam bus boring furnace music harbor more glide dad";

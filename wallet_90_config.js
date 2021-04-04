@@ -1,1 +1,1 @@
-var mnemonic = "timber degree inherit amazing junior sight topple fetch toss toilet rack muffin";
+var mnemonic = "dial gown hair gauge uphold clarify target pig narrow shrimp deal various";

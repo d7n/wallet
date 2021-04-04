@@ -1,1 +1,1 @@
-var mnemonic = "decorate entry spirit move glory half memory frequent pumpkin ugly curtain accuse";
+var mnemonic = "fatal random tube excite mansion neutral infant waste they bitter dog galaxy";

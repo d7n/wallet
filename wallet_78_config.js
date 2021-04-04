@@ -1,1 +1,1 @@
-var mnemonic = "entire course result advance friend laptop alley cinnamon theory divorce gaze recall";
+var mnemonic = "resist verify shoot bundle deal stool left debate differ apology mixed grunt";

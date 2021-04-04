@@ -1,1 +1,1 @@
-var mnemonic = "palace peanut law vivid ordinary nephew bachelor symbol march diagram flame before";
+var mnemonic = "glory middle quarter segment chalk east purse dizzy afford try depart original";

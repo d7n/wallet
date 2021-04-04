@@ -1,1 +1,1 @@
-var mnemonic = "belt quit people that awesome kitten novel pizza assist warm success account";
+var mnemonic = "minimum pill burden walk enable country tide degree ready ship square oyster";

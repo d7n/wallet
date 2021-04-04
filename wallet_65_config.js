@@ -1,1 +1,1 @@
-var mnemonic = "rate rail nation much client alter depart scout thrive depart logic portion";
+var mnemonic = "carpet combine clarify reflect circle produce laundry tissue burden armed box hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "toast section share dinosaur kidney avocado fabric wild prefer absent village improve";
+var mnemonic = "dinosaur bicycle trial toward left depart enforce eye mesh mystery ten good";

@@ -1,1 +1,1 @@
-var mnemonic = "casual shell club net illness item smile often transfer abandon brand father";
+var mnemonic = "satoshi item lady roof risk clutch alley steel pistol live soccer address";

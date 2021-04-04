@@ -1,1 +1,1 @@
-var mnemonic = "increase impact trend tenant napkin chuckle awake moment fabric spot era unique";
+var mnemonic = "pottery basic pulp case spend toilet person never slab few rebuild hammer";

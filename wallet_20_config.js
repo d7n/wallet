@@ -1,1 +1,1 @@
-var mnemonic = "off disagree dignity fork miss elevator major bubble spirit feature awful comic";
+var mnemonic = "provide service buddy sauce tobacco swear ball bounce yellow heavy float hello";

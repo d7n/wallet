@@ -1,1 +1,1 @@
-var mnemonic = "sick law victory solid fresh symptom lemon disease wagon favorite canyon kite";
+var mnemonic = "correct fresh health globe anchor ready soda vacuum smile among coil affair";

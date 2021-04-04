@@ -1,1 +1,1 @@
-var mnemonic = "real submit find under school session oppose suggest bonus bomb act select";
+var mnemonic = "unusual retreat consider barely online spend scale negative surge original blind tornado";

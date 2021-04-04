@@ -1,1 +1,1 @@
-var mnemonic = "squirrel cute about ball return flat object code tiger enact balance invest";
+var mnemonic = "payment mask drive parent chimney suspect idea patient spatial spell razor now";

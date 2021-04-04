@@ -1,1 +1,1 @@
-var mnemonic = "thumb turkey cover elephant brisk fluid huge used choice hawk carry autumn";
+var mnemonic = "express raccoon question orchard nature garage dial decline present decorate junior tip";

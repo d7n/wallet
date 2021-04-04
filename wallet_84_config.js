@@ -1,1 +1,1 @@
-var mnemonic = "wise retreat office exact slam wink possible barely problem claim major possible";
+var mnemonic = "sorry tortoise gown dad ask duty side beach purpose stamp cake airport";

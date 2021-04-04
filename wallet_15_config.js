@@ -1,1 +1,1 @@
-var mnemonic = "cupboard occur toilet fiber alien dentist possible shed language decade coast river";
+var mnemonic = "radar zero cupboard minor awful glad where swear woman warfare prevent impose";

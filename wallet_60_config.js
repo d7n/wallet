@@ -1,1 +1,1 @@
-var mnemonic = "make tip essay strong length nephew kitchen walk ribbon pulp sting settle";
+var mnemonic = "orbit series flush exercise exclude mother vault hope hedgehog gravity fun apart";

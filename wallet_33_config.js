@@ -1,1 +1,1 @@
-var mnemonic = "tail draw enjoy arrive sure scrub raven desk bag trade chicken lab";
+var mnemonic = "renew photo ribbon clog mansion solar antenna glide error dice bridge uniform";

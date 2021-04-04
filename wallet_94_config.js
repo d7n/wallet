@@ -1,1 +1,1 @@
-var mnemonic = "evidence recall decade culture bicycle world canyon picnic leisure another current day";
+var mnemonic = "cash punch learn penalty ready fabric patrol segment increase vessel about riot";

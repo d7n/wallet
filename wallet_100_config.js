@@ -1,1 +1,1 @@
-var mnemonic = "argue custom message easy desert volcano inch audit shock evoke series thrive";
+var mnemonic = "prevent post excuse trade spy wise grass roast spatial boring purpose flag";

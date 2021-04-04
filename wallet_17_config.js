@@ -1,1 +1,1 @@
-var mnemonic = "battle jar have shed tomorrow robust gas matrix artist garbage club own";
+var mnemonic = "file vibrant excuse diagram prepare confirm cotton gauge wool pipe catalog bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra crime eight wealth crop quantum stone install ghost clinic furnace pigeon";
+var mnemonic = "ahead runway push dash fun awake caught pave myself camera piano ring";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse velvet record such bench pulse veteran wrap bread prepare sponsor indicate";
+var mnemonic = "melody sketch marble under lake text dose decide agent face filter glow";

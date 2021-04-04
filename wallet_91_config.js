@@ -1,1 +1,1 @@
-var mnemonic = "about quality coffee kingdom buffalo isolate virus menu jewel tape liar glad";
+var mnemonic = "coffee negative keep idea forum rookie appear copper worth claw antenna again";

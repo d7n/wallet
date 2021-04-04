@@ -1,1 +1,1 @@
-var mnemonic = "soda flash fortune tide spot kick vendor reopen elbow cricket inner sentence";
+var mnemonic = "kingdom leaf reveal plate hotel recycle retreat subject room design reflect kid";

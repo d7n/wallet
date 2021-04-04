@@ -1,1 +1,1 @@
-var mnemonic = "unveil curve negative blue play sunny burden bomb gospel clump fiction project";
+var mnemonic = "beef away claw reward blouse orphan coach click ancient illegal mansion neutral";

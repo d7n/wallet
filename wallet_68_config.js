@@ -1,1 +1,1 @@
-var mnemonic = "father couch hip arena bracket client traffic cycle town material twenty call";
+var mnemonic = "casual upgrade jelly honey wolf scatter cash soccer field mule half flight";

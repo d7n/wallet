@@ -1,1 +1,1 @@
-var mnemonic = "giggle razor actor glide acoustic evil report symbol parade lens whip latin";
+var mnemonic = "produce aim acoustic present pet rigid liar twelve excite pool trade force";

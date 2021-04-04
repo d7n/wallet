@@ -1,1 +1,1 @@
-var mnemonic = "mosquito vacant name salute wrong robot victory egg limit purchase slice siren";
+var mnemonic = "tomato december pole student worry cart burst theme girl pupil govern proud";

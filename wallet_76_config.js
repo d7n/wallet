@@ -1,1 +1,1 @@
-var mnemonic = "coast knife december favorite base such wolf hamster resemble tide thrive inspire";
+var mnemonic = "left liberty device reflect jungle puppy apology help brave error inmate wolf";

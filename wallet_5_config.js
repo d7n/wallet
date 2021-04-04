@@ -1,1 +1,1 @@
-var mnemonic = "submit answer token kit month cage remove blast panel figure caught uncover";
+var mnemonic = "step smoke genius tower raise lyrics east vague pulp noodle donkey slender";

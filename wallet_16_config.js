@@ -1,1 +1,1 @@
-var mnemonic = "prosper sing sadness home define join emotion affair beef awesome flush fury";
+var mnemonic = "loop mimic iron purpose cricket hedgehog heavy use urban economy order base";

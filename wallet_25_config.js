@@ -1,1 +1,1 @@
-var mnemonic = "mixture peace garment hint uncle scheme denial author biology market various lesson";
+var mnemonic = "wonder since humble sauce capital auto laptop market huge special bleak magic";

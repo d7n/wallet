@@ -1,1 +1,1 @@
-var mnemonic = "assume term wheel museum tiger present crunch steak veteran track balcony ten";
+var mnemonic = "what sight crumble net puzzle goose buddy valley lucky reopen usual uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse pizza fluid profit enemy balance mention city like city fabric cereal";
+var mnemonic = "absurd always ripple common path now review animal cream topic squirrel citizen";

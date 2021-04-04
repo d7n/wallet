@@ -1,1 +1,1 @@
-var mnemonic = "silent oak october before stuff valve turtle shallow warfare dwarf domain rate";
+var mnemonic = "such husband sample sad gather pen derive medal hurt love immense slight";

@@ -1,1 +1,1 @@
-var mnemonic = "keen lift agree aerobic color picture sun upgrade snow kangaroo cycle boil";
+var mnemonic = "bunker trophy castle match grab remove nephew dog scan enlist perfect alone";

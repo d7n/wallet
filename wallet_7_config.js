@@ -1,1 +1,1 @@
-var mnemonic = "leader borrow protect truly oblige industry fire then muscle radar quiz video";
+var mnemonic = "fold used aspect beach middle order much aisle vital skate modify open";

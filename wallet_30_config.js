@@ -1,1 +1,1 @@
-var mnemonic = "violin diesel humor dolphin iron insect earn child jar soda apart actual";
+var mnemonic = "naive badge wrap bullet whale title company gallery hire armed hood couch";

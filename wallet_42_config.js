@@ -1,1 +1,1 @@
-var mnemonic = "famous ten park educate extra trade exist reopen bargain above trend scissors";
+var mnemonic = "resemble stay chuckle vocal exhibit very stool perfect bag coconut air imitate";

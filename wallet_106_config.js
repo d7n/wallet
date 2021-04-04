@@ -1,1 +1,1 @@
-var mnemonic = "try project curtain program random margin deny virtual sniff valid voice marriage";
+var mnemonic = "midnight rather engine reduce box swing lock genius assault once prevent spare";

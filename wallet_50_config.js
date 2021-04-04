@@ -1,1 +1,1 @@
-var mnemonic = "slot cool upgrade guilt tortoise tone suit city clay thing cactus believe";
+var mnemonic = "tattoo walk kiwi clown zoo rescue snap hawk resemble option attitude inquiry";

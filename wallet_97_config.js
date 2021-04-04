@@ -1,1 +1,1 @@
-var mnemonic = "airport bacon lab inspire ready hobby monster hedgehog poem color protect sorry";
+var mnemonic = "attend page asthma roof believe decorate nothing drop purity beyond drink nothing";
