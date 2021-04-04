@@ -1,1 +1,1 @@
-var mnemonic = "left coconut spell field now word grocery vendor gather behind buyer review";
+var mnemonic = "point voyage artefact sell account area stone palace fabric lens defy much";

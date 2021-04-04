@@ -1,1 +1,1 @@
-var mnemonic = "cattle ensure remove today since elephant enjoy modify gift wink wire rack";
+var mnemonic = "strategy such critic bomb fault purchase limb clip approve repair alley dolphin";

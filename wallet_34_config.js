@@ -1,1 +1,1 @@
-var mnemonic = "alcohol point canal acquire misery city pride true code doctor beauty humble";
+var mnemonic = "foam setup lobster fresh abstract opinion kidney scene biology forward clown mouse";

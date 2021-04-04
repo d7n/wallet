@@ -1,1 +1,1 @@
-var mnemonic = "bar spawn cloud virus parade like core spatial cloth loud success eye";
+var mnemonic = "tail cheese raccoon agent invite robot square noble gasp soap verify cage";

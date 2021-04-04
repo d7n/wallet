@@ -1,1 +1,1 @@
-var mnemonic = "demise zero hand blade erosion wage reason clean display only garbage glory";
+var mnemonic = "horse uphold slight shrimp core famous gravity pill impose regret inject drop";

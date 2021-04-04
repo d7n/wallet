@@ -1,1 +1,1 @@
-var mnemonic = "street ecology spoil liberty task strike obtain excuse what push pupil mango";
+var mnemonic = "december verify eye result essence spray update sausage hamster tilt toddler unknown";

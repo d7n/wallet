@@ -1,1 +1,1 @@
-var mnemonic = "alone clump enemy pear bar inside distance slice video key tobacco awkward";
+var mnemonic = "suspect muscle side grunt pyramid ginger lawn creek goose extend mystery roof";

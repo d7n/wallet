@@ -1,1 +1,1 @@
-var mnemonic = "unfair faith chat clip taxi bomb verify diary bulb universe antique toss";
+var mnemonic = "talent deputy begin brisk top wash any trick cotton lucky possible emotion";

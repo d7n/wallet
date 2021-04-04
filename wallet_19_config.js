@@ -1,1 +1,1 @@
-var mnemonic = "huge draw unlock record lock blur hybrid crucial lens message toddler number";
+var mnemonic = "task person actor brief claim guide buzz injury predict maid nest stool";

@@ -1,1 +1,1 @@
-var mnemonic = "consider room space match gentle now relief sport desert cotton frog wear";
+var mnemonic = "response firm slab annual demise lab dignity clutch hole poem truly evil";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut tunnel pudding miracle open mail tackle shaft rescue language clock weasel";
+var mnemonic = "upon trouble kingdom song pencil enroll slush guilt juice desert repair lamp";

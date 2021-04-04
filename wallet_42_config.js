@@ -1,1 +1,1 @@
-var mnemonic = "idle confirm avocado innocent giant avoid frame cereal taxi globe buyer peanut";
+var mnemonic = "category pair leisure special joy toward stereo man junk naive half hover";

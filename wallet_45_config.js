@@ -1,1 +1,1 @@
-var mnemonic = "gate relax confirm defy small key entire letter author daring priority high";
+var mnemonic = "opinion opinion rotate loop section little wire lazy mixed cattle try develop";

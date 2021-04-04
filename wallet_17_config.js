@@ -1,1 +1,1 @@
-var mnemonic = "enhance girl boring garbage float wide expire refuse veteran grunt service repair";
+var mnemonic = "lonely mushroom ugly crouch spy citizen build initial pelican glow sword tent";

@@ -1,1 +1,1 @@
-var mnemonic = "position prize rigid rain fat illegal exist crouch cream mask raw drum";
+var mnemonic = "female famous fame proof galaxy can wave innocent surge jungle resource stay";

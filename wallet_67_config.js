@@ -1,1 +1,1 @@
-var mnemonic = "can frozen impulse pave club inform puppy eye quote pear broccoli bamboo";
+var mnemonic = "interest focus three garden bone inner stool mirror puppy slam strategy web";

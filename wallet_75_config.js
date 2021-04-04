@@ -1,1 +1,1 @@
-var mnemonic = "injury sponsor inmate lunch creek dog kiss cargo witness lamp machine trip";
+var mnemonic = "bullet earn breeze flag perfect atom step loan short thumb lady express";

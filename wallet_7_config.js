@@ -1,1 +1,1 @@
-var mnemonic = "nerve relief volcano bread judge exit airport peace tissue lake hover device";
+var mnemonic = "caution kingdom celery fruit leaf south fat attack fringe simple burger gas";

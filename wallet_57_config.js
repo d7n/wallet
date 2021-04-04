@@ -1,1 +1,1 @@
-var mnemonic = "stumble since thank blast merit fire amateur donate worth trash village absorb";
+var mnemonic = "display hen copy judge edge double excuse chronic group dentist practice energy";

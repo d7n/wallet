@@ -1,1 +1,1 @@
-var mnemonic = "noise clap exercise drift spread humor output oxygen social chair journey motion";
+var mnemonic = "ritual globe scout arrange fix endorse today silent crazy waste kit later";

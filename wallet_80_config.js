@@ -1,1 +1,1 @@
-var mnemonic = "gaze slab repair still speak envelope dentist click coach they raccoon awful";
+var mnemonic = "snake stomach slice green mother joy vault switch game price sponsor home";

@@ -1,1 +1,1 @@
-var mnemonic = "vault draft stamp step glove enrich air split fluid vital click deal";
+var mnemonic = "palm fancy region dynamic hold boil fish sorry van spice feel boss";

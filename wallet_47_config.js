@@ -1,1 +1,1 @@
-var mnemonic = "exact jar shine region holiday glow knife icon never jaguar ring result";
+var mnemonic = "trip odor wagon praise usual fit search village early slot blood congress";

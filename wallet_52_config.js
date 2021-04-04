@@ -1,1 +1,1 @@
-var mnemonic = "park clay cream drama volcano south term little sunset idea erupt decrease";
+var mnemonic = "parrot army liar stuff dinner sun price saddle donate oval treat edge";

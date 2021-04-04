@@ -1,1 +1,1 @@
-var mnemonic = "senior phrase wine junk bomb wage urban pencil school present moment second";
+var mnemonic = "when blanket erode chest plate table include kit cube void flavor name";

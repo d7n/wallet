@@ -1,1 +1,1 @@
-var mnemonic = "spawn sign found piece march ball erupt used work stomach pistol video";
+var mnemonic = "merry rival cruel patient side pulse multiply off march salad cricket team";

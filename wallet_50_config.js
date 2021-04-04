@@ -1,1 +1,1 @@
-var mnemonic = "panda secret shaft ignore drum salt come relief type unaware canvas lava";
+var mnemonic = "insect inhale stumble primary safe among lizard cover borrow canoe phrase elegant";

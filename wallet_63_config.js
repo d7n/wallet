@@ -1,1 +1,1 @@
-var mnemonic = "vivid cruise foil length sunny voyage notice decade mechanic wage process ask";
+var mnemonic = "radio number mixture mistake duty wrestle crawl tortoise hurdle affair elephant total";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain road arch boring reduce gaze globe vicious long fox jacket have";
+var mnemonic = "pole local alien outdoor response danger start donor assume output swear path";

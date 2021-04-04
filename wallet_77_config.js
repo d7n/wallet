@@ -1,1 +1,1 @@
-var mnemonic = "draw appear panda donor wage genuine green retire purse long exotic primary";
+var mnemonic = "pole guilt setup scene chest expire sketch taste drama slice scene dentist";

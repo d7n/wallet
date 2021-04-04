@@ -1,1 +1,1 @@
-var mnemonic = "flavor pulp glad okay badge garbage confirm bronze brick valve inquiry hobby";
+var mnemonic = "exclude call sing stove effort enroll boss oil stamp flee among victory";

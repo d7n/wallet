@@ -1,1 +1,1 @@
-var mnemonic = "practice adult enrich electric artist wing crater defense ignore happy myth butter";
+var mnemonic = "uniform fold symbol able immune awful end harsh dove chaos distance planet";

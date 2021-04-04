@@ -1,1 +1,1 @@
-var mnemonic = "electric increase venue payment noise true car corn puzzle husband runway capable";
+var mnemonic = "decorate simple sad nose fan scare age license direct recipe hello saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty knock cover region diary fruit grass magnet solid topple erode ramp";
+var mnemonic = "mean panic scan civil alcohol camp rude rapid lab alley flower actress";

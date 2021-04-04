@@ -1,1 +1,1 @@
-var mnemonic = "plate near curious great dress orient spot beach smile moral fix vapor";
+var mnemonic = "side client august potato plug exit option spider monster lucky script borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum adult boy pilot danger bless acoustic wheel letter unit trade token";
+var mnemonic = "account lawsuit route expire core table parade online salute insect episode laptop";

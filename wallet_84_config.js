@@ -1,1 +1,1 @@
-var mnemonic = "oven yard cruel demise stand supply right reject become unit chair trade";
+var mnemonic = "holiday dish feel general weasel web chimney physical uncover sign puzzle vast";

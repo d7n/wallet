@@ -1,1 +1,1 @@
-var mnemonic = "jar bleak gain uphold between rib tiny pond borrow save letter audit";
+var mnemonic = "hand course brand select furnace judge dolphin wool acid letter hip wife";

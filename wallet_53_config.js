@@ -1,1 +1,1 @@
-var mnemonic = "attract hotel door curtain silver swim decade seat observe survey review dizzy";
+var mnemonic = "win episode news execute mystery swear air ensure such pond hub crack";

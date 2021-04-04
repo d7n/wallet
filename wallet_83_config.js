@@ -1,1 +1,1 @@
-var mnemonic = "retreat indicate sword frame shiver tragic elegant essay pair suggest gap erosion";
+var mnemonic = "very tip nose romance cluster segment rough spy mother utility easy favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "index alter segment scheme sample expect pipe perfect can answer hurry unusual";
+var mnemonic = "loan confirm salad blur oak digital anchor now good start cube leader";

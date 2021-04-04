@@ -1,1 +1,1 @@
-var mnemonic = "web expect true slush today boil dentist august drip control view wink";
+var mnemonic = "typical leaf involve indicate soft current proof visa tilt awesome quantum thrive";

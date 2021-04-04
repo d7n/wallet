@@ -1,1 +1,1 @@
-var mnemonic = "grant debris split speak direct idea fringe display cancel asset grit horror";
+var mnemonic = "wedding primary oppose machine save laugh defy write emerge great unaware help";

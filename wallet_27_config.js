@@ -1,1 +1,1 @@
-var mnemonic = "inherit gun either spoon mutual manual update ramp victory onion scan promote";
+var mnemonic = "spin blood advance expand knife beef fog other improve truly symptom suit";

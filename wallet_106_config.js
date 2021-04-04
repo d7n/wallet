@@ -1,1 +1,1 @@
-var mnemonic = "trouble silver manual stem invest grief sick power maximum soccer slab there";
+var mnemonic = "video rebuild sting cross face kite hotel evil nerve chief empower twelve";

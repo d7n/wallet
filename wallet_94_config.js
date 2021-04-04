@@ -1,1 +1,1 @@
-var mnemonic = "cart seven scatter control tool major distance wasp where gauge modify multiply";
+var mnemonic = "jungle course wink divide tank local isolate bullet whale trade screen bird";

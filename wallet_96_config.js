@@ -1,1 +1,1 @@
-var mnemonic = "inhale supreme cherry ice relief save scissors reform lab speed sentence cherry";
+var mnemonic = "foam educate burst sort return mail tiny arch crucial wealth oval skin";

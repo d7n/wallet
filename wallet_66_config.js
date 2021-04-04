@@ -1,1 +1,1 @@
-var mnemonic = "pulse artist inner pink tourist armor unveil charge able essence reveal reunion";
+var mnemonic = "venture weapon switch bicycle online render noodle identify cruel sausage vital tide";

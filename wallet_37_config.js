@@ -1,1 +1,1 @@
-var mnemonic = "kit game term surface flower present adapt lizard huge velvet olympic ship";
+var mnemonic = "midnight ribbon setup unlock virtual crack comic antique tilt master track aerobic";

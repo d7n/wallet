@@ -1,1 +1,1 @@
-var mnemonic = "gallery caught crane relief view stove health solution group whisper february dentist";
+var mnemonic = "story muffin patch fox pluck taxi angry seminar quality amateur tuna width";

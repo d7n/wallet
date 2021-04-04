@@ -1,1 +1,1 @@
-var mnemonic = "skate jewel curious wide sausage birth adapt suit crazy sauce ladder tray";
+var mnemonic = "ribbon slight renew sick prosper hover quick side bundle rude balcony grit";

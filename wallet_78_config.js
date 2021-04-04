@@ -1,1 +1,1 @@
-var mnemonic = "body already trap nose slow cheap fetch fit patrol usage scatter aspect";
+var mnemonic = "unique secret sweet wife spray empty recall heavy uncover chimney mass labor";

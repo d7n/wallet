@@ -1,1 +1,1 @@
-var mnemonic = "month sad swear reform involve olive noble tag spoon olympic rebel ramp";
+var mnemonic = "blind grocery gown ring gasp problem curve enhance improve recycle various business";

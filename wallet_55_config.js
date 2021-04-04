@@ -1,1 +1,1 @@
-var mnemonic = "author funny rural upgrade foot alert famous dawn coffee hawk champion build";
+var mnemonic = "expire lawsuit thank race afford stove bachelor topic danger crowd cactus surface";

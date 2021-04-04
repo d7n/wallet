@@ -1,1 +1,1 @@
-var mnemonic = "grant install detail cousin hen give motor security conduct denial sense teach";
+var mnemonic = "anxiety sell industry tree bid half use weird hard embody evoke rug";

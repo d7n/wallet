@@ -1,1 +1,1 @@
-var mnemonic = "december breeze space shed father whisper pulse oil fancy deposit uphold spend";
+var mnemonic = "water laugh banana sibling venture scout civil party strike drop butter venture";

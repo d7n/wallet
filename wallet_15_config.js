@@ -1,1 +1,1 @@
-var mnemonic = "material edge history imitate someone famous lawsuit vocal theory model proof bracket";
+var mnemonic = "switch apart spoil amazing flip december jealous sister tornado bounce reason close";

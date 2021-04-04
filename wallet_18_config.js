@@ -1,1 +1,1 @@
-var mnemonic = "pond pluck minimum tennis leisure scare bargain announce venue wire hen match";
+var mnemonic = "infant artwork bitter cliff gate pulp ability holiday safe fish medal series";

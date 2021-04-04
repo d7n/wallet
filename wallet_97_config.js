@@ -1,1 +1,1 @@
-var mnemonic = "way debris sight foam purse cute only garden arrow carpet express bracket";
+var mnemonic = "grunt vault page follow fun little brain beach dragon wire abandon favorite";

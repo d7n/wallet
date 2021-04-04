@@ -1,1 +1,1 @@
-var mnemonic = "south plunge left motor tray scissors aunt nature small announce debate choice";
+var mnemonic = "boy maximum fire shed skill scene illness fat amateur wall eagle notice";

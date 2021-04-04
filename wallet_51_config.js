@@ -1,1 +1,1 @@
-var mnemonic = "rate spike diesel borrow half like pulse wealth treat firm piece mean";
+var mnemonic = "man century twenty clean dance bridge axis nerve accident catch wolf observe";

@@ -1,1 +1,1 @@
-var mnemonic = "usual school copper sand lock switch drama mountain replace globe outdoor twelve";
+var mnemonic = "paddle fabric input alter despair denial film tilt office portion camera surprise";

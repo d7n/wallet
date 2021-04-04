@@ -1,1 +1,1 @@
-var mnemonic = "bridge someone music gaze stable parade green keep limb toast cushion idle";
+var mnemonic = "scheme harvest meadow dice crystal present trumpet tank conduct beach shoot diamond";

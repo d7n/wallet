@@ -1,1 +1,1 @@
-var mnemonic = "squirrel dentist hint candy festival goose chest pledge found snap length library";
+var mnemonic = "climb ivory shoe check nose robot strong issue resemble dad grocery solar";

@@ -1,1 +1,1 @@
-var mnemonic = "riot garden whale night admit adjust hammer onion light luggage mask crane";
+var mnemonic = "leader health sister job stereo opinion bulb benefit enrich conduct nephew credit";

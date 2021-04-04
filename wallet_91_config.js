@@ -1,1 +1,1 @@
-var mnemonic = "cook uniform ghost shrug mesh tell grape milk immune either scrub evolve";
+var mnemonic = "enlist cable tomato victory radio area come radar coast catch peace kid";

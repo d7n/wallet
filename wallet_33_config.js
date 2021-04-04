@@ -1,1 +1,1 @@
-var mnemonic = "girl find potato coin since poet club squirrel shuffle grab lawn relax";
+var mnemonic = "episode derive farm sail tank price crash napkin inquiry double funny bean";

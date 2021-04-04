@@ -1,1 +1,1 @@
-var mnemonic = "toast describe dish robot income tuna mountain mass layer river robust amateur";
+var mnemonic = "soup uniform dawn exclude amateur hen bar reject broken mention truck canal";

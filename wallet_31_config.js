@@ -1,1 +1,1 @@
-var mnemonic = "unveil pledge screen vague blur bulb village cricket razor settle point cave";
+var mnemonic = "artist dress canvas donkey voice ranch rug frost gadget settle hungry youth";

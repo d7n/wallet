@@ -1,1 +1,1 @@
-var mnemonic = "envelope impact useless cushion three impulse couch guitar dial shy enforce jazz";
+var mnemonic = "spike law home mistake attack lamp detect fury curtain globe false vibrant";

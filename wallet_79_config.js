@@ -1,1 +1,1 @@
-var mnemonic = "that divide author chimney salt burst duty valid upon sport casual load";
+var mnemonic = "secret benefit sustain ignore simple frozen unusual fan hub shop phrase orient";

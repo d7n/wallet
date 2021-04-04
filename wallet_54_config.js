@@ -1,1 +1,1 @@
-var mnemonic = "gate hat welcome zero shell walk sea legal wolf guess post easily";
+var mnemonic = "theme unfold letter clock metal decide expand estate execute brain tooth enforce";

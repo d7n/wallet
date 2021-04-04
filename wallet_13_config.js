@@ -1,1 +1,1 @@
-var mnemonic = "swing misery harbor series below outer churn double neither canyon giraffe ranch";
+var mnemonic = "blanket keep crew display hollow wagon gift remind drill upon chase ketchup";

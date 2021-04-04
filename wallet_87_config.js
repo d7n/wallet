@@ -1,1 +1,1 @@
-var mnemonic = "truly police drift assist find bachelor bunker upgrade advance doctor person cruel";
+var mnemonic = "castle jealous bird assist casual piano purse access measure idea creek cancel";

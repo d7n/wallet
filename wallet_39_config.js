@@ -1,1 +1,1 @@
-var mnemonic = "crouch rapid scene antenna outer adapt adjust odor baby almost salute rural";
+var mnemonic = "found dilemma beauty garden burger original fortune host renew since sorry talk";

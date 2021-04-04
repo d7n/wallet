@@ -1,1 +1,1 @@
-var mnemonic = "version hover flag shoot hawk start excuse talent wish wet scout neck";
+var mnemonic = "kid rookie parade maximum salute adapt lumber inspire scheme tortoise apple throw";

@@ -1,1 +1,1 @@
-var mnemonic = "square tongue gloom review general mass loop thumb world seek easy joke";
+var mnemonic = "quote laugh can dilemma fall item column omit stadium drift way child";

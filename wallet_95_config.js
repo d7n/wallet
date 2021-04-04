@@ -1,1 +1,1 @@
-var mnemonic = "emerge turtle ensure day truly check elevator grain final master fade blue";
+var mnemonic = "daughter milk deal silk flee pen sustain media remind junior hurry theory";

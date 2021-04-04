@@ -1,1 +1,1 @@
-var mnemonic = "present someone like skin seminar enable rich session sort churn trust burden";
+var mnemonic = "cream demand similar spot long crack strike stool bonus cost crack palace";

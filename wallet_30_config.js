@@ -1,1 +1,1 @@
-var mnemonic = "ignore refuse ask camera cry host deposit region marriage icon milk crazy";
+var mnemonic = "egg person canoe flush chimney metal alcohol tornado dad pluck grit possible";

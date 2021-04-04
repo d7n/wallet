@@ -1,1 +1,1 @@
-var mnemonic = "robust problem wink pear shock engine caution light leader duck vibrant keen";
+var mnemonic = "mixed inmate hunt slogan repeat earth gift left shoe hollow critic surround";

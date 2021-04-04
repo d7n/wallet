@@ -1,1 +1,1 @@
-var mnemonic = "shiver hedgehog rough village dinosaur file young when consider success autumn boil";
+var mnemonic = "divert drama same field robot attack visual bid uphold surprise cute more";

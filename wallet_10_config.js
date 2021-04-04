@@ -1,1 +1,1 @@
-var mnemonic = "flight typical thought gain soccer pear organ actual brass gorilla arctic math";
+var mnemonic = "valley correct figure seed sure cloud monitor cradle ice oyster outer trick";

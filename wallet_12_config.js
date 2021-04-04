@@ -1,1 +1,1 @@
-var mnemonic = "write magnet mosquito woman rent oak sword raccoon silent work awake era";
+var mnemonic = "teach genius remain august vicious scissors combine prevent differ fresh fortune actress";

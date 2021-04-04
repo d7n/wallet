@@ -1,1 +1,1 @@
-var mnemonic = "meadow guide mention kind cabbage unfair rigid utility area inflict guess make";
+var mnemonic = "practice code nothing annual velvet ensure join road meat space audit few";

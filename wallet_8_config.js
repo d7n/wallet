@@ -1,1 +1,1 @@
-var mnemonic = "tumble boring shrug shield ocean cactus local glare own desk destroy cushion";
+var mnemonic = "divorce camera vintage pool lonely ranch already shoot lawsuit more rich shadow";

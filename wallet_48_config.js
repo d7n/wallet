@@ -1,1 +1,1 @@
-var mnemonic = "sleep trust science scan situate document crime onion dizzy margin honey arrest";
+var mnemonic = "decorate spread beef pretty river shield october door explain syrup bronze depart";

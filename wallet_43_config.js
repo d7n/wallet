@@ -1,1 +1,1 @@
-var mnemonic = "predict tilt pumpkin same document height attitude awake fantasy pink save edit";
+var mnemonic = "crop window census rotate surface attack pottery tail zoo pistol wink leisure";

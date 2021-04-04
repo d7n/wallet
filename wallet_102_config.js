@@ -1,1 +1,1 @@
-var mnemonic = "follow spy path canvas skin maze brass south candy fury rack bottom";
+var mnemonic = "theme pudding thank devote just snow want indicate law excite much stuff";

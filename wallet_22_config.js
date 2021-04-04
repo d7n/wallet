@@ -1,1 +1,1 @@
-var mnemonic = "elder enrich syrup exhaust educate soft mention industry manual hawk vast laundry";
+var mnemonic = "job episode margin account lava answer enemy add stairs tumble parent orchard";

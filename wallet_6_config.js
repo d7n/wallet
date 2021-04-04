@@ -1,1 +1,1 @@
-var mnemonic = "hood climb drift humor mammal tomato sight wear unhappy father vendor assault";
+var mnemonic = "today name panda icon avocado robot daughter provide forest fade pull zebra";

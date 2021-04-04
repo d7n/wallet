@@ -1,1 +1,1 @@
-var mnemonic = "wish pistol frown pattern debris say fault warfare can weekend jaguar cigar";
+var mnemonic = "afraid return broken half diesel suffer quarter drive ranch velvet ugly wink";
