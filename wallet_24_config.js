@@ -1,1 +1,1 @@
-var mnemonic = "winter mimic adult include reason ritual liberty promote level usage video relax";
+var mnemonic = "cushion cost actress bonus lazy morning case peasant grunt code brief moment";

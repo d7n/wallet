@@ -1,1 +1,1 @@
-var mnemonic = "sport merge ethics bachelor gadget cattle outdoor upgrade cousin earn glare extend";
+var mnemonic = "hair medal helmet saddle mix around castle cactus palace illness window concert";

@@ -1,1 +1,1 @@
-var mnemonic = "almost adjust jealous slush accuse alter grid bonus admit fossil toward quick";
+var mnemonic = "spread involve honey deal reveal drop head slush life usual system popular";

@@ -1,1 +1,1 @@
-var mnemonic = "crew beef course oblige ivory kite degree auction release immune happy flee";
+var mnemonic = "tiny clown seek antenna mention equal latin advance invest tube imitate motor";

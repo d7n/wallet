@@ -1,1 +1,1 @@
-var mnemonic = "vanish wink catalog cup tent ride online risk silk stumble brisk cruise";
+var mnemonic = "small physical average congress useful fashion fault north garage dizzy upset mercy";

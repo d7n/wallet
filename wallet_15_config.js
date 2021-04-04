@@ -1,1 +1,1 @@
-var mnemonic = "tuna crater resist work van neck cradle party brain walk quote salon";
+var mnemonic = "color great shove prize wear tuna winter quiz model echo offer absent";

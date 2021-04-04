@@ -1,1 +1,1 @@
-var mnemonic = "garage tonight canvas verb field luggage mix trigger scorpion give layer board";
+var mnemonic = "usual input north shed tide thing reveal blouse surround record negative spray";

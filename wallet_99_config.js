@@ -1,1 +1,1 @@
-var mnemonic = "grant turn frown play tool bargain thumb cattle swing tilt grief orbit";
+var mnemonic = "parrot recipe clap staff arm return faint together tonight useless creek innocent";

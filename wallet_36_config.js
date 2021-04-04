@@ -1,1 +1,1 @@
-var mnemonic = "nerve rail horse antique check autumn proud beauty model grain you attitude";
+var mnemonic = "device ribbon misery album history trend wire champion lava traffic useless tennis";

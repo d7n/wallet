@@ -1,1 +1,1 @@
-var mnemonic = "damage banner power puppy hair various stand seven meat horn pave later";
+var mnemonic = "young major dismiss blue sphere unknown chicken nerve critic special device unusual";

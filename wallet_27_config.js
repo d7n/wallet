@@ -1,1 +1,1 @@
-var mnemonic = "retire save more crisp void pave history gate fade speak village cigar";
+var mnemonic = "crop matrix glad maid achieve worry purity palace genuine rapid robust million";

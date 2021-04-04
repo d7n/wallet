@@ -1,1 +1,1 @@
-var mnemonic = "unit grass basket skin brush addict leave blast sudden drum pause comfort";
+var mnemonic = "reunion appear element hidden century around orient host delay vehicle leisure shoulder";

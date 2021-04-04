@@ -1,1 +1,1 @@
-var mnemonic = "risk icon dad fatigue leader kit brisk bring slab organ kid pulse";
+var mnemonic = "luxury gravity safe bottom truly noodle wing awake stage frequent pear sniff";

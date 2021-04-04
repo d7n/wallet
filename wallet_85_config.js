@@ -1,1 +1,1 @@
-var mnemonic = "fee purpose inhale tool dress away spot smooth breeze whip wage weather";
+var mnemonic = "twice number cactus donkey civil invest monkey subject umbrella table kangaroo verify";

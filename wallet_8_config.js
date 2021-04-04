@@ -1,1 +1,1 @@
-var mnemonic = "fault rally trick famous umbrella arrow more screen olive hawk filter topic";
+var mnemonic = "gym seminar pill ahead shiver crop snap bulk coach aunt clutch never";

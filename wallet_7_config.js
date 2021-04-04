@@ -1,1 +1,1 @@
-var mnemonic = "mother advice lion lunar slender random episode funny select drip interest diesel";
+var mnemonic = "aisle oblige will guess universe act elder cook lyrics museum neglect rain";

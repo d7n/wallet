@@ -1,1 +1,1 @@
-var mnemonic = "space belt pioneer expose pool bullet fox bar damp menu arrest coffee";
+var mnemonic = "defense ladder depart hazard canoe arena sniff float there spoil meadow buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "they sorry fortune dinner exhaust source neutral impose wide suit replace wife";
+var mnemonic = "gold open area dilemma bubble item holiday lend force route rubber swift";

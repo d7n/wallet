@@ -1,1 +1,1 @@
-var mnemonic = "spice use replace exile arrange meat tool market boring proof evidence devote";
+var mnemonic = "below outside appear wall mouse husband start bag chapter auto motion blade";

@@ -1,1 +1,1 @@
-var mnemonic = "wagon glass coffee rigid base marine pool wood anxiety load type author";
+var mnemonic = "cruel opinion switch strike two prepare talent sick iron net give kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "debris pattern domain deer prefer clerk cream napkin high glad palace eager";
+var mnemonic = "across gate utility gap erupt swift erase shuffle gain roast unable grief";

@@ -1,1 +1,1 @@
-var mnemonic = "offer spell angle umbrella mix myth popular boss tag piano loyal cupboard";
+var mnemonic = "color envelope radar pencil prevent hair hello planet decorate soon shell brown";

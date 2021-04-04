@@ -1,1 +1,1 @@
-var mnemonic = "arrive welcome gain deer fancy famous orchard sword idea grief canal feel";
+var mnemonic = "tumble decide spread faculty forget comic hub tray wise debris crash tide";

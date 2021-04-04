@@ -1,1 +1,1 @@
-var mnemonic = "news answer average gift spell actor ceiling sing fruit cash tooth worry";
+var mnemonic = "spot use oppose range horror powder oak hidden wild voyage flock ankle";

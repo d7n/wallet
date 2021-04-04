@@ -1,1 +1,1 @@
-var mnemonic = "silent achieve series couch enforce where manual good pioneer knock action error";
+var mnemonic = "state symptom alter gadget such song select version gun fragile attack canvas";

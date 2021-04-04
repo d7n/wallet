@@ -1,1 +1,1 @@
-var mnemonic = "hawk found future click half seed couple knife flock wall energy horse";
+var mnemonic = "impact own love zebra anger advice daring matter rebuild camera sort erosion";

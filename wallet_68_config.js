@@ -1,1 +1,1 @@
-var mnemonic = "battle merit month choice pitch kite real hour clarify visit fantasy dust";
+var mnemonic = "code phrase buzz never life mule hello razor hold three business vanish";

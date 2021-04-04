@@ -1,1 +1,1 @@
-var mnemonic = "dizzy series raven rural table hen join giraffe drive start duty edit";
+var mnemonic = "fat concert hammer annual jacket reunion design kitten cause arch remain space";

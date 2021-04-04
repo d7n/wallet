@@ -1,1 +1,1 @@
-var mnemonic = "define foil unit avocado glimpse deny wheel crazy lamp bring used key";
+var mnemonic = "axis game slice trumpet clap spice cat program balcony equal extend okay";

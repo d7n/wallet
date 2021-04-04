@@ -1,1 +1,1 @@
-var mnemonic = "invite outdoor moon silly hill crash unlock fetch style cruise rural mirror";
+var mnemonic = "marble area kind there turtle fly alley bamboo lecture typical choice mercy";

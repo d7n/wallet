@@ -1,1 +1,1 @@
-var mnemonic = "offer space visit divert banner banana antenna unable woman invest indoor point";
+var mnemonic = "kit regular room tower soda gallery junk portion nominee dentist twenty audit";

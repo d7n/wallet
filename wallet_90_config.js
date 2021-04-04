@@ -1,1 +1,1 @@
-var mnemonic = "awkward slide vast suit truly rigid margin believe town arctic favorite portion";
+var mnemonic = "endless stamp attend crazy tooth job crouch step donor vanish ripple crew";

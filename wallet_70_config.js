@@ -1,1 +1,1 @@
-var mnemonic = "odor reflect car helmet merry mail pumpkin tank unfold mystery crystal struggle";
+var mnemonic = "glue sail expand trade sponsor camera chair lonely inspire occur desert pepper";

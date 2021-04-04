@@ -1,1 +1,1 @@
-var mnemonic = "inhale cabin wash cream any aspect black smooth vintage often chapter draft";
+var mnemonic = "evoke spread quick curtain toward hour donate flower trouble cement imitate battle";

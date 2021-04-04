@@ -1,1 +1,1 @@
-var mnemonic = "fruit saddle honey consider script poet crunch door perfect position wide unaware";
+var mnemonic = "victory kidney foil current father there bread leopard hamster warfare divorce seek";

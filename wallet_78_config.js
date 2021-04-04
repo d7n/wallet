@@ -1,1 +1,1 @@
-var mnemonic = "claim valve swamp try fan fetch prison this deny street traffic zoo";
+var mnemonic = "thing ball glimpse onion erosion indicate concert grow brown scale charge direct";

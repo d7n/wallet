@@ -1,1 +1,1 @@
-var mnemonic = "cradle myself cushion chair frog vapor fuel emotion street rebel cabbage cluster";
+var mnemonic = "example shock above garlic law wait day thumb kite canal elite news";

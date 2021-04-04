@@ -1,1 +1,1 @@
-var mnemonic = "fiber mirror laundry reward remain town acquire surge topple clock drama iron";
+var mnemonic = "crack produce blast drastic fault harvest volcano local carpet conduct smile master";

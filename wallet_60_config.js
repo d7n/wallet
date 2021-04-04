@@ -1,1 +1,1 @@
-var mnemonic = "figure neutral tide snake tribe wrong print wrap attack tenant bid notice";
+var mnemonic = "occur cry replace hurt nuclear mimic talk argue celery fog skill modify";

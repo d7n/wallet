@@ -1,1 +1,1 @@
-var mnemonic = "chuckle sunny response social toddler garbage curious assault scout pottery ancient olympic";
+var mnemonic = "grow exclude spy supreme token ceiling moon venture fly weather iron wave";

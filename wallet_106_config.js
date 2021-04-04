@@ -1,1 +1,1 @@
-var mnemonic = "faint unaware deliver shoot add fluid crouch plunge oven turn choose cup";
+var mnemonic = "creek real pond become youth chuckle vacant control brother agree consider bid";

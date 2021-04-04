@@ -1,1 +1,1 @@
-var mnemonic = "view bag hour core punch minimum puppy valid brief baby crisp nominee";
+var mnemonic = "auto later regret another deer idle join thrive endless liquid tornado fold";

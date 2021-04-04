@@ -1,1 +1,1 @@
-var mnemonic = "hundred mind jump artwork train push enlist dog meat woman wet embark";
+var mnemonic = "capital team upset thrive day apple pretty torch equip garage develop gown";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse neglect antenna gadget attend achieve goddess fossil blouse custom home salmon";
+var mnemonic = "ketchup year life fall move marine domain story control dinosaur devote sustain";

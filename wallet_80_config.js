@@ -1,1 +1,1 @@
-var mnemonic = "push letter jar group sell bubble regret room rice spare tank accuse";
+var mnemonic = "crack fabric green fold tiger just retreat enhance ancient surround rich artwork";

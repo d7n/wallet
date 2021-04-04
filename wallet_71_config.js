@@ -1,1 +1,1 @@
-var mnemonic = "list solar police grocery release maximum tooth reward verify update plunge income";
+var mnemonic = "physical dose rebel leader toy about fluid mean erase oven spy welcome";

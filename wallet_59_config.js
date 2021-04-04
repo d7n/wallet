@@ -1,1 +1,1 @@
-var mnemonic = "quit capable cart bundle guess hen again hill denial uphold word mixed";
+var mnemonic = "rebuild menu office tragic satisfy photo absorb install ribbon audit salute manual";

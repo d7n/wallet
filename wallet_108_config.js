@@ -1,1 +1,1 @@
-var mnemonic = "goat banana because dog moon stone great few leave bright mind dance";
+var mnemonic = "happy liar canal affair sick brave debate garment push afraid mouse issue";

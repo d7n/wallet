@@ -1,1 +1,1 @@
-var mnemonic = "over object crisp alone worth modify sure blind inside patch monitor chuckle";
+var mnemonic = "loan select good aunt drastic chapter soccer enact what army stock acquire";

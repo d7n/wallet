@@ -1,1 +1,1 @@
-var mnemonic = "earth negative major rookie science wave glad record copy million refuse trip";
+var mnemonic = "slush panther cloud blush gun elbow orbit vacant ride room fatal length";

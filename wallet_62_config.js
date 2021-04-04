@@ -1,1 +1,1 @@
-var mnemonic = "giant seek slam universe syrup demise engine bounce casual twice tattoo love";
+var mnemonic = "purpose wreck course draft worry sausage doll sister frozen tiger diet gaze";

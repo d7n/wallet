@@ -1,1 +1,1 @@
-var mnemonic = "board used alarm leopard pond wagon charge unknown polar cinnamon steel laugh";
+var mnemonic = "canyon flame blouse enter region capable any similar mimic dust weekend alpha";

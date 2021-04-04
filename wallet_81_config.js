@@ -1,1 +1,1 @@
-var mnemonic = "poem isolate fan horse filter one giggle host chapter van blue original";
+var mnemonic = "broom shy defense cage bless pass dragon stage slogan glass raw possible";

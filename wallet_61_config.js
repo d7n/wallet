@@ -1,1 +1,1 @@
-var mnemonic = "track pen clarify scrub senior surge parade record sell plastic kid make";
+var mnemonic = "capital much order spot patch list viable zero imitate power brush renew";

@@ -1,1 +1,1 @@
-var mnemonic = "situate silk dune multiply tackle grant mother expand identify mercy noodle tonight";
+var mnemonic = "reward desk polar crack strike jazz estate since attitude local close resemble";

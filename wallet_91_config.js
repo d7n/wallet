@@ -1,1 +1,1 @@
-var mnemonic = "movie typical swift wise best train quit aware allow hello attack knock";
+var mnemonic = "major welcome shed mechanic either sorry soul member transfer supreme legend more";

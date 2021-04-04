@@ -1,1 +1,1 @@
-var mnemonic = "rookie voyage month fence bus depend harvest bench mango between claw wheat";
+var mnemonic = "weird dish moon stomach desk exit opera object picture light erase narrow";

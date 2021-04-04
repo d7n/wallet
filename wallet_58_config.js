@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tenant exotic like pencil round fun student behave price arrive month";
+var mnemonic = "girl diagram tower echo tape claw runway school purse screen cattle toast";

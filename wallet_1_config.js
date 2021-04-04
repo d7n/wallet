@@ -1,1 +1,1 @@
-var mnemonic = "jar hill mad weird autumn hundred endorse vendor around multiply wrist green";
+var mnemonic = "doctor stuff march safe release inflict merit bright rapid fossil final fat";

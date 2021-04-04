@@ -1,1 +1,1 @@
-var mnemonic = "motor hurdle youth desert rubber remove place motor scheme device bulk spy";
+var mnemonic = "pilot give biology cost upper image noble daughter victory brand stereo organ";

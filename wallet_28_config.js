@@ -1,1 +1,1 @@
-var mnemonic = "lake afford manual version lunar inch tuition sketch jewel random axis trouble";
+var mnemonic = "combine fragile quality opinion weather soup mansion razor boy witness panel bomb";

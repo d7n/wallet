@@ -1,1 +1,1 @@
-var mnemonic = "dizzy bargain zebra nut van reunion person capable protect sword display sphere";
+var mnemonic = "curious balcony away month hero business average collect disease funny leopard invite";

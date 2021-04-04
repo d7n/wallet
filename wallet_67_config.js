@@ -1,1 +1,1 @@
-var mnemonic = "scrub turtle mountain wrap dice steel hip crisp total second grief crawl";
+var mnemonic = "rescue pencil text aunt property announce hundred monkey average chalk term lend";

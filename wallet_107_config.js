@@ -1,1 +1,1 @@
-var mnemonic = "unit approve brisk sick together orchard matrix lemon release will hockey desert";
+var mnemonic = "defense jaguar oyster round obscure spoil either smile fold pelican satisfy winner";

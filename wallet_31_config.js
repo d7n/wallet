@@ -1,1 +1,1 @@
-var mnemonic = "sponsor symbol round frog recipe long green merry series raccoon wrestle nuclear";
+var mnemonic = "evoke require hawk antenna fruit melody body object excess clock pottery insane";

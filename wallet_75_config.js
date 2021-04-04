@@ -1,1 +1,1 @@
-var mnemonic = "judge hello ethics noble organ pride suspect impulse twin trend coin nature";
+var mnemonic = "across worry fiscal planet left isolate release margin depart text uphold hip";

@@ -1,1 +1,1 @@
-var mnemonic = "speed crop scout hint basic tongue drip enough owner also risk crazy";
+var mnemonic = "spice hold wait law ghost receive length gravity private height stock include";

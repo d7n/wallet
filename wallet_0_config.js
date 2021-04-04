@@ -1,1 +1,1 @@
-var mnemonic = "myself unusual buffalo fiscal heart gain dad action theme enhance position rose";
+var mnemonic = "pull enrich true prize stem ask weapon subject bundle gym earn gold";

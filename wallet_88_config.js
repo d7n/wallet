@@ -1,1 +1,1 @@
-var mnemonic = "nice where like remove robust energy label few modify situate horn beauty";
+var mnemonic = "quote under hello surprise advice toddler need floor auction service trophy differ";

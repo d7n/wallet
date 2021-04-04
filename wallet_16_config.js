@@ -1,1 +1,1 @@
-var mnemonic = "caught matter wall false goat spin together siren please barely blouse fortune";
+var mnemonic = "hello payment inside sad muscle wedding cost pony aspect excuse tag unknown";

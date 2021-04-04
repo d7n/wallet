@@ -1,1 +1,1 @@
-var mnemonic = "oval minor clog rural permit wear illegal satoshi sound spy song picnic";
+var mnemonic = "current ranch where reason intact flight impact stove cool unique current stairs";

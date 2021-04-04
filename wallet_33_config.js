@@ -1,1 +1,1 @@
-var mnemonic = "agent tonight thumb address private kid sport novel outer gym drill silent";
+var mnemonic = "hammer capital crash rent speed submit can capable subway vault umbrella title";

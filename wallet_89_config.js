@@ -1,1 +1,1 @@
-var mnemonic = "sick step damp common tourist robust throw gate size vital cinnamon tongue";
+var mnemonic = "arrange whale merry fan firm average cinnamon logic aisle pitch begin permit";

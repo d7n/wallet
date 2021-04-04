@@ -1,1 +1,1 @@
-var mnemonic = "pool tonight attract supply repair same tower claw have tissue reform clip";
+var mnemonic = "area snake eye farm toward service slush adult neglect ginger theme snow";

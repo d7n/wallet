@@ -1,1 +1,1 @@
-var mnemonic = "liquid help base venture crush bar hybrid moon music end drum boring";
+var mnemonic = "hurry angry harsh bicycle few observe gun fetch velvet isolate food general";

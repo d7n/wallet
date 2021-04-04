@@ -1,1 +1,1 @@
-var mnemonic = "soccer area coyote network spread try butter sing host daring snack start";
+var mnemonic = "roof round brand oxygen boat globe junk index hero uphold matter devote";

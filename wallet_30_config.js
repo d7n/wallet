@@ -1,1 +1,1 @@
-var mnemonic = "wash close hidden season order subject title maze rotate fiscal leopard delay";
+var mnemonic = "brave approve sell grape cluster snake nerve illegal much planet shoot kingdom";

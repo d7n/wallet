@@ -1,1 +1,1 @@
-var mnemonic = "blast alien vivid level company silver census wealth large decide come planet";
+var mnemonic = "uncover party release miracle grace lobster female boring pizza foster horn glimpse";

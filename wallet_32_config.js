@@ -1,1 +1,1 @@
-var mnemonic = "loan parrot promote conduct elephant disease comfort easily away ritual mistake dream";
+var mnemonic = "public august kid deputy proof adapt hedgehog trip chapter begin laptop maze";

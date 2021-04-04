@@ -1,1 +1,1 @@
-var mnemonic = "mass moral salute cover digital hill rival elegant during cousin slot ski";
+var mnemonic = "entry mesh exhibit hospital sausage witness choose pitch gap worth dance impact";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce praise pink useful tent naive awesome resource what dinner arrive sustain";
+var mnemonic = "loop casino ancient knock rough alpha fun argue violin legend arrow easy";

@@ -1,1 +1,1 @@
-var mnemonic = "energy lens spawn loud home kid express try emerge tiny link suffer";
+var mnemonic = "safe jelly general blue town abuse abstract judge door garden evidence exotic";

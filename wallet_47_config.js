@@ -1,1 +1,1 @@
-var mnemonic = "print dose answer innocent again crumble coffee play enable series depth orchard";
+var mnemonic = "print domain ecology best jacket talk danger electric flight shove rude measure";

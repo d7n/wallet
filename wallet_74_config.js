@@ -1,1 +1,1 @@
-var mnemonic = "damage deal comic subway control earn joke neglect wave stadium february winter";
+var mnemonic = "message crucial student muscle ring night odor stable naive dance denial bless";

@@ -1,1 +1,1 @@
-var mnemonic = "quote guilt unable blush cruise mother output fresh craft patrol neglect federal";
+var mnemonic = "proof aspect enroll caution entry poverty regular able cattle require feel elder";

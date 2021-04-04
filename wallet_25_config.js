@@ -1,1 +1,1 @@
-var mnemonic = "symptom anchor excuse cycle carbon grid other pool speed degree mosquito tennis";
+var mnemonic = "tuition worry ghost exit garlic citizen exchange option race bless paddle pulp";
