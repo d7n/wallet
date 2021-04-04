@@ -1,1 +1,1 @@
-var mnemonic = "farm danger search print weapon cloud hungry frog town clip lesson divorce";
+var mnemonic = "cute march coast luggage idea scheme legal angle master dignity ready honey";

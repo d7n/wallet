@@ -1,1 +1,1 @@
-var mnemonic = "brown pave hazard vendor kick spring catch sponsor cram parade unable report";
+var mnemonic = "when honey social input diamond forest leg gadget razor excuse give when";

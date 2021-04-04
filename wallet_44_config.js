@@ -1,1 +1,1 @@
-var mnemonic = "album hour network rack crunch direct alpha victory bullet rapid vintage bid";
+var mnemonic = "ill thing boss buffalo arrow grant mimic notice sibling toss destroy romance";

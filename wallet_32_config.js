@@ -1,1 +1,1 @@
-var mnemonic = "inch crawl addict rival hand scrub eyebrow owner beef public wide talk";
+var mnemonic = "stable midnight outdoor arch tourist path notable spirit fatal frequent crime marine";

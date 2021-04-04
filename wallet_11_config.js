@@ -1,1 +1,1 @@
-var mnemonic = "grass chaos garden medal glory demise total deposit room scheme opera leaf";
+var mnemonic = "physical spend supply hundred opera increase vintage broccoli hurt alarm enhance forward";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern banner banana anxiety rule next possible deal away harsh actor flame";
+var mnemonic = "dash raise logic burst diagram coil cancel deny abandon hill great note";

@@ -1,1 +1,1 @@
-var mnemonic = "grief online transfer inch solve stove scare essay life electric citizen grocery";
+var mnemonic = "skill junior ocean escape honey gold gasp skull version raven step seminar";

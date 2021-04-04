@@ -1,1 +1,1 @@
-var mnemonic = "valley seven depart decorate collect joke tumble breeze find ask catch awful";
+var mnemonic = "soap print strategy hollow diary lock summer record timber cattle inquiry bind";

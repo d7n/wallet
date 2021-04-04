@@ -1,1 +1,1 @@
-var mnemonic = "tourist angle fly heavy brick trophy cloud cram iron risk place protect";
+var mnemonic = "spider during license roof outside link movie way arctic price eagle energy";

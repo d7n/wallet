@@ -1,1 +1,1 @@
-var mnemonic = "detect team kiwi kind network robot soup inhale swim cute income captain";
+var mnemonic = "hand fire absurd country basic ice fortune until zone emerge immune call";

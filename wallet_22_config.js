@@ -1,1 +1,1 @@
-var mnemonic = "fury asset rare throw local naive bracket toss bachelor ecology sheriff capable";
+var mnemonic = "obtain time hat evil join lyrics curtain bless joke fox error fortune";

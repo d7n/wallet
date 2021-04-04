@@ -1,1 +1,1 @@
-var mnemonic = "control ring glad banner caution vault limit focus barely voice hidden napkin";
+var mnemonic = "chief stuff phrase bind give magnet approve bomb festival habit dance enter";

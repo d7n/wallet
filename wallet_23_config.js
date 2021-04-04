@@ -1,1 +1,1 @@
-var mnemonic = "food paper subway ticket habit door tenant orient across attitude cannon achieve";
+var mnemonic = "believe flag polar impulse gate wrist sort proud fetch rebuild goose cabin";

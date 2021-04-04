@@ -1,1 +1,1 @@
-var mnemonic = "have clump kind abstract perfect dwarf fold execute rather crystal inherit sibling";
+var mnemonic = "vocal help train water quiz all banana alarm tray defense deposit picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "theory alley pool hurry legal salute soul symptom debate olympic manage card";
+var mnemonic = "nominee gospel poem sick kind comfort idea later dolphin sweet area laptop";

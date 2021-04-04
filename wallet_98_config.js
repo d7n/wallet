@@ -1,1 +1,1 @@
-var mnemonic = "bomb scare pistol calm cube galaxy force reason boy enough muscle panther";
+var mnemonic = "hawk wrong carry bench multiply recipe because success neither coin tube slow";

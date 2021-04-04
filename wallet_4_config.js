@@ -1,1 +1,1 @@
-var mnemonic = "vibrant suggest crumble shuffle east prefer fancy blanket vivid trigger unusual mercy";
+var mnemonic = "version enable tunnel sponsor sight path flag topic hip mammal diamond sell";

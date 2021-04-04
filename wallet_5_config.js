@@ -1,1 +1,1 @@
-var mnemonic = "romance online anchor diet garbage blush title squirrel huge vicious sister jungle";
+var mnemonic = "dawn aisle curious mule car normal allow visual loan venue route split";

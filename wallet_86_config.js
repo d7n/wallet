@@ -1,1 +1,1 @@
-var mnemonic = "rally alarm rich barely chef float moment renew lizard impose enable all";
+var mnemonic = "negative base brass eagle parent midnight fatal atom pupil maximum subway rather";

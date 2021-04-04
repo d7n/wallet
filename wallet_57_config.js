@@ -1,1 +1,1 @@
-var mnemonic = "obvious memory oyster dove boat elephant sibling seven annual major defy lounge";
+var mnemonic = "betray spider outside correct describe swift lady polar notice organ sauce emerge";

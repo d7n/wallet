@@ -1,1 +1,1 @@
-var mnemonic = "vacuum cool adult link hunt goat butter cool expand eager quick alien";
+var mnemonic = "oxygen link good journey bind omit future crack fan trend lemon enlist";

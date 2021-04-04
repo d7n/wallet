@@ -1,1 +1,1 @@
-var mnemonic = "index almost tattoo disagree powder hour bulb balcony dumb armor police atom";
+var mnemonic = "hurdle track blush canyon key rebel talent time ready what afraid explain";

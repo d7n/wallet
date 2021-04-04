@@ -1,1 +1,1 @@
-var mnemonic = "prepare animal invest taste dumb soup sleep maximum wreck subject bacon tuition";
+var mnemonic = "govern casual buffalo fault virus bridge brave chimney spray relief leisure crowd";

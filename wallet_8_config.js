@@ -1,1 +1,1 @@
-var mnemonic = "result frozen marble ask green body clock fancy beach horse slogan claw";
+var mnemonic = "code modify satoshi cricket unusual repair couple hero between fever window bounce";

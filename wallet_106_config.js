@@ -1,1 +1,1 @@
-var mnemonic = "depth job cereal virus question tribe voice legend enter evolve adapt link";
+var mnemonic = "nothing depth fossil wheat excess sample rail seed mixture frequent family scatter";

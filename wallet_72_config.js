@@ -1,1 +1,1 @@
-var mnemonic = "kid little inflict because ribbon nothing round slush wine chest nerve ride";
+var mnemonic = "glory spy anchor elephant attitude witness sand budget defy phone suggest dress";

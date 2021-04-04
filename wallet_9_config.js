@@ -1,1 +1,1 @@
-var mnemonic = "toy grant sword coast spring live path spring pistol change connect just";
+var mnemonic = "make also jacket absurd erupt please file usual enjoy catalog live scrub";

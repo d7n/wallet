@@ -1,1 +1,1 @@
-var mnemonic = "wish cancel actress rifle shell atom mutual vital salon volume scrub wall";
+var mnemonic = "valley pistol denial addict saddle next spend forget tube expose bitter clock";

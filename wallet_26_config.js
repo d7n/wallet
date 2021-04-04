@@ -1,1 +1,1 @@
-var mnemonic = "into expose coyote friend measure notable defy noble chief anchor feed lab";
+var mnemonic = "adapt helmet brown tone ignore special then mistake eternal music atom rude";

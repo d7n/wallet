@@ -1,1 +1,1 @@
-var mnemonic = "ankle lava example guard stem gesture congress inherit canyon else retire uniform";
+var mnemonic = "galaxy insect strategy own rhythm honey cage number shoe pilot bundle head";

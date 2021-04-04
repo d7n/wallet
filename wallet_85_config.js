@@ -1,1 +1,1 @@
-var mnemonic = "mystery phrase agent broccoli tell admit author ten tooth simple behind exchange";
+var mnemonic = "reflect security dream view bomb symbol oxygen adapt spoon garage supply chaos";

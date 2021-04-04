@@ -1,1 +1,1 @@
-var mnemonic = "useless phrase violin nice weapon love beyond stand hero crime soup horror";
+var mnemonic = "combine belt inflict demand panda enter trap east squirrel lecture cricket edge";

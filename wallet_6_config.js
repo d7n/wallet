@@ -1,1 +1,1 @@
-var mnemonic = "taste ankle abandon castle nothing mammal rifle alarm march ritual couch daughter";
+var mnemonic = "filter cage sample chaos paper youth fringe royal shallow success canoe beauty";

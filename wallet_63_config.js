@@ -1,1 +1,1 @@
-var mnemonic = "age eight original dismiss ability seat bomb search erode finish donkey cruel";
+var mnemonic = "evoke web bicycle birth mask dust pelican joke rug priority whip fork";

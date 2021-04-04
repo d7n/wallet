@@ -1,1 +1,1 @@
-var mnemonic = "minor minimum bring charge monkey fee toward brand truck dumb define rabbit";
+var mnemonic = "undo allow pulse cash brush man nature transfer limb talk surprise music";

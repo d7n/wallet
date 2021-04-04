@@ -1,1 +1,1 @@
-var mnemonic = "spoil race river accuse police trash coach love jazz crime soldier much";
+var mnemonic = "case tuna agent unable tribe mansion sing name age crash consider under";

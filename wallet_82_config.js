@@ -1,1 +1,1 @@
-var mnemonic = "together hood fever edge discover daring when tone soap divert thing oxygen";
+var mnemonic = "trigger nest favorite album glue inspire identify warfare better tennis denial monster";

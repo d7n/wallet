@@ -1,1 +1,1 @@
-var mnemonic = "donor brisk slab galaxy coyote average supply pioneer vast tuna vote ignore";
+var mnemonic = "bleak blossom warfare rival travel caution problem knock wheel pattern census smart";

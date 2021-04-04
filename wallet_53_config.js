@@ -1,1 +1,1 @@
-var mnemonic = "embody corn enforce quote they laptop ice merry choice staff dolphin shaft";
+var mnemonic = "fame notable orient fiscal crisp razor rhythm spike any young ladder spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor describe rubber flavor trust popular entire session elbow assault weasel scene";
+var mnemonic = "insane they under bamboo confirm observe use measure picture below stamp glue";

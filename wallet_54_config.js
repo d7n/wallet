@@ -1,1 +1,1 @@
-var mnemonic = "cushion quantum profit effort want unaware nasty rule cigar grape club castle";
+var mnemonic = "luggage split south lottery pluck seminar limb mind theme injury edit fat";

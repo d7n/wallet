@@ -1,1 +1,1 @@
-var mnemonic = "cigar rich artefact mango transfer minor calm awake close grass pause ripple";
+var mnemonic = "quiz physical pizza nation recall conduct accuse blouse gap abandon satisfy seat";

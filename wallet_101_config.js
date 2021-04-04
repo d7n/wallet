@@ -1,1 +1,1 @@
-var mnemonic = "blade spoil duty alert myself cliff glow result proud robot humor scrub";
+var mnemonic = "employ mention scissors infant sense defy legal pattern moon resist know group";

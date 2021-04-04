@@ -1,1 +1,1 @@
-var mnemonic = "fly social barely merit topple spend senior resemble bird toe tree zoo";
+var mnemonic = "differ fluid error ability daughter critic fall catalog during major corn humble";

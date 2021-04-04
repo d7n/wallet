@@ -1,1 +1,1 @@
-var mnemonic = "sugar apology divert enemy donate round fatigue mushroom access picture exotic village";
+var mnemonic = "mind era easy treat original acquire year blur hamster crash hope salt";

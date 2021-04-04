@@ -1,1 +1,1 @@
-var mnemonic = "borrow basic dog buyer aisle domain wool early reduce equip shock ticket";
+var mnemonic = "shiver horn air laptop menu laundry liberty side magnet piano universe antique";

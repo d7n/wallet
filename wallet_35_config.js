@@ -1,1 +1,1 @@
-var mnemonic = "moral object useless van shiver script inform state engine omit illegal network";
+var mnemonic = "garbage solution salmon wedding evoke vanish regret weekend senior cabbage ankle trust";

@@ -1,1 +1,1 @@
-var mnemonic = "humor near feed wealth creek library lecture energy three erode summer public";
+var mnemonic = "wisdom school salmon genre fossil rent minimum hold knife release shock ecology";

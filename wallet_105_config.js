@@ -1,1 +1,1 @@
-var mnemonic = "volcano hard truck elder custom manual view raw lottery harvest garbage domain";
+var mnemonic = "hard between bonus father wet device panda zoo window alter multiply flock";

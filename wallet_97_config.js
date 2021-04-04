@@ -1,1 +1,1 @@
-var mnemonic = "choice guess float empower text gospel become reopen safe green lawsuit phrase";
+var mnemonic = "little rich praise length between reason size coast chronic outer mother flame";

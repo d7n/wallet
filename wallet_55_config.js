@@ -1,1 +1,1 @@
-var mnemonic = "bird omit desert beach basic romance quarter domain mushroom path local ketchup";
+var mnemonic = "wide fame educate scout verify major loud amused grit target road develop";

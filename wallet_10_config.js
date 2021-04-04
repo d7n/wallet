@@ -1,1 +1,1 @@
-var mnemonic = "question hip gun armor gate disease monster film pitch injury zero square";
+var mnemonic = "equip charge mammal drama enroll pride stay harvest vehicle draft tongue culture";

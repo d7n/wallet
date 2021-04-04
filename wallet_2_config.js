@@ -1,1 +1,1 @@
-var mnemonic = "setup dwarf observe manual rally parade diet senior report crouch skate cabin";
+var mnemonic = "crater abstract thought fee hip inhale whisper cancel increase olympic trial faith";

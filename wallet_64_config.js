@@ -1,1 +1,1 @@
-var mnemonic = "survey various champion parade tattoo barely nephew advice summer layer coast accuse";
+var mnemonic = "idle zoo flight option busy cruel champion giraffe differ leopard maid brief";

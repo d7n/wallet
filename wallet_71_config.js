@@ -1,1 +1,1 @@
-var mnemonic = "girl skin voice sample current onion fury airport tonight manual candy benefit";
+var mnemonic = "balance slam earn grow ignore duty amount occur mimic scissors siege edge";

@@ -1,1 +1,1 @@
-var mnemonic = "property employ doctor addict morning vicious sock cute eager dentist safe over";
+var mnemonic = "height blame excess eye crisp flush oyster rather minimum mango what creek";

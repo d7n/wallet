@@ -1,1 +1,1 @@
-var mnemonic = "wrap sustain smart wage torch lawsuit trip rifle chunk weekend window avoid";
+var mnemonic = "cricket traffic kingdom circle same supply athlete lock mesh include island shop";

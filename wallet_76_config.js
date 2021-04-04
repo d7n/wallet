@@ -1,1 +1,1 @@
-var mnemonic = "local token barely eye safe pony cereal blouse regular pulse actor bleak";
+var mnemonic = "abstract member decorate ginger egg voyage crumble retreat cram neutral filter pupil";

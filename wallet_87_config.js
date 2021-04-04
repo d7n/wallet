@@ -1,1 +1,1 @@
-var mnemonic = "tattoo tobacco power horror flavor trophy unusual world embrace speed shaft such";
+var mnemonic = "muffin follow federal tent wood impact expose define sea book organ video";

@@ -1,1 +1,1 @@
-var mnemonic = "stable patient hunt cream fetch develop valve abstract tape bid swift labor";
+var mnemonic = "road injury air draft cement ocean story because mixed disagree sudden review";

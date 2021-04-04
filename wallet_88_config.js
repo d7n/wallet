@@ -1,1 +1,1 @@
-var mnemonic = "shove hotel apple sell onion rough cruise baby notice amazing dune limit";
+var mnemonic = "leopard thrive cherry bless below quarter main chapter soup cruise engine cool";

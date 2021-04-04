@@ -1,1 +1,1 @@
-var mnemonic = "current culture lazy salute youth border among awake thing winner syrup frame";
+var mnemonic = "mystery soda cost strike tube convince else chair skin prepare lazy music";

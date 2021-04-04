@@ -1,1 +1,1 @@
-var mnemonic = "perfect advice bachelor swift clean sun detail remember disorder flame slot fruit";
+var mnemonic = "flock empower coil suspect proud worth input inform buffalo chronic any deny";

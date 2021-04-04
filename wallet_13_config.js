@@ -1,1 +1,1 @@
-var mnemonic = "list shield buyer jaguar owner income busy census tobacco disagree venue south";
+var mnemonic = "club exhibit inject custom turkey history twin bounce law vapor lonely wear";

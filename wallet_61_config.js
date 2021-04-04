@@ -1,1 +1,1 @@
-var mnemonic = "dolphin violin era leopard gallery will coffee fiscal cradle daughter segment dignity";
+var mnemonic = "drum rule flame dust cactus door cram pigeon capital theme evolve volume";

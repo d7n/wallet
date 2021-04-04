@@ -1,1 +1,1 @@
-var mnemonic = "people enter venue smile creek course hedgehog sunset near vocal endless escape";
+var mnemonic = "soccer confirm craft vacant health priority panic random dilemma admit observe coconut";

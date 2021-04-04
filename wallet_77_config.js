@@ -1,1 +1,1 @@
-var mnemonic = "brave add top canal merit noble glimpse mesh news nothing enlist exhibit";
+var mnemonic = "close wasp group crumble true miracle reduce ride bring worth romance onion";

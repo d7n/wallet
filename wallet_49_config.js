@@ -1,1 +1,1 @@
-var mnemonic = "box toddler recycle connect mouse area learn tone roast original leopard detect";
+var mnemonic = "figure garden leaf manual main coach december oxygen toe inflict ugly salute";

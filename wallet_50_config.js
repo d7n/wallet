@@ -1,1 +1,1 @@
-var mnemonic = "right chalk brick indoor month stool property connect nurse loan shoulder impact";
+var mnemonic = "pattern code seek spare sell regret debate foster bamboo filter drastic bonus";

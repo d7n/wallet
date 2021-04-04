@@ -1,1 +1,1 @@
-var mnemonic = "surprise merge various yard feed sport rapid bullet sudden dad tuition announce";
+var mnemonic = "uncle coffee believe upper grace test joy woman pause consider culture fall";

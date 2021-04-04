@@ -1,1 +1,1 @@
-var mnemonic = "busy december museum lumber token level exist husband mind harbor shoulder reopen";
+var mnemonic = "situate marble hard bunker version enter alone few cotton diet vacant render";

@@ -1,1 +1,1 @@
-var mnemonic = "stable item possible spike false hybrid private gift proud knife review ozone";
+var mnemonic = "sauce danger family crazy chronic sister vast chest round okay plastic amazing";

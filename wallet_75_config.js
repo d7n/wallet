@@ -1,1 +1,1 @@
-var mnemonic = "wheel impact deny walnut area impulse nurse chat bean little purity warrior";
+var mnemonic = "body deer furnace tattoo media sword broom hill benefit banana stamp assume";

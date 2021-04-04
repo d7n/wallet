@@ -1,1 +1,1 @@
-var mnemonic = "yard open actor ethics can latin match claim blind end dinner course";
+var mnemonic = "wrap render palm crane swing wrestle inmate town media atom danger utility";

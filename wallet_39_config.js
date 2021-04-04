@@ -1,1 +1,1 @@
-var mnemonic = "bread drip mask asset grit wash theme web resource cement region result";
+var mnemonic = "undo sport weird dolphin critic inquiry half basket genuine west fun drip";

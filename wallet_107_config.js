@@ -1,1 +1,1 @@
-var mnemonic = "age lawsuit worth dove upper bundle ranch casino taste cart abuse initial";
+var mnemonic = "vintage thank engine dove unaware guess toilet confirm expose dish jazz cream";

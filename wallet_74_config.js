@@ -1,1 +1,1 @@
-var mnemonic = "pitch amount pact goddess crush pair inflict garage bone purity tragic gallery";
+var mnemonic = "system ship advance tube casino coconut slim explain foster fish exit young";

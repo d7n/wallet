@@ -1,1 +1,1 @@
-var mnemonic = "select lottery husband uncover quantum pattern inside garage onion strong seed leaf";
+var mnemonic = "atom mind jar mirror danger stove cake pig lift define cup mountain";

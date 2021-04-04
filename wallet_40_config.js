@@ -1,1 +1,1 @@
-var mnemonic = "lesson monkey cover area caught hope hand regret liberty expire snap autumn";
+var mnemonic = "sadness wash talk click elbow grace senior unhappy boil melody catalog glide";

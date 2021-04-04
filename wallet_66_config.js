@@ -1,1 +1,1 @@
-var mnemonic = "garlic where apology adult stumble police rich girl light glass general screen";
+var mnemonic = "dolphin film brand naive gown sock seven border lunar coil salon grab";

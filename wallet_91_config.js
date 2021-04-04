@@ -1,1 +1,1 @@
-var mnemonic = "tenant achieve cupboard course hello verb curious despair squeeze volcano swarm angle";
+var mnemonic = "note utility actual robust february excuse degree link elder enter borrow bulb";

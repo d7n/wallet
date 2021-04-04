@@ -1,1 +1,1 @@
-var mnemonic = "behind genius extend bachelor announce tackle message volume core push suspect clap";
+var mnemonic = "ozone boy grief thrive need forest conduct surge online quiz loan save";

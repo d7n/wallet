@@ -1,1 +1,1 @@
-var mnemonic = "elite cousin ice aerobic question choose false now hub cream hover garment";
+var mnemonic = "mean dove shoulder enroll arrest square want fine shaft flat crater step";

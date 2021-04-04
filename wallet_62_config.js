@@ -1,1 +1,1 @@
-var mnemonic = "praise fit orphan brush alter furnace tuna canyon burger exercise flame split";
+var mnemonic = "list tent glimpse surround judge catch wish olive remain cup save west";

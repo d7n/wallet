@@ -1,1 +1,1 @@
-var mnemonic = "repair utility hurdle story pull spy brown art pulp icon scheme peace";
+var mnemonic = "tenant verb kind another canvas illegal rural cattle mammal glove fat inform";

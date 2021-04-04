@@ -1,1 +1,1 @@
-var mnemonic = "track unfair blush fee turtle arrange desert usual smile return rapid spoon";
+var mnemonic = "earth bitter wide mosquito twice until garage candy swift dizzy cement fence";

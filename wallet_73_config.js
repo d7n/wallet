@@ -1,1 +1,1 @@
-var mnemonic = "kitten add add pony near raw sword ripple vast lens about stomach";
+var mnemonic = "gadget rough client smile lawsuit account rude lounge provide venture case access";

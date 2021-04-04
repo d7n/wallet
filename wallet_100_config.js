@@ -1,1 +1,1 @@
-var mnemonic = "throw tide leaf economy return brush bracket level wrestle limb hurdle club";
+var mnemonic = "deposit ketchup goose brief medal lava donate bracket choose harbor collect screen";

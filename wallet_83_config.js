@@ -1,1 +1,1 @@
-var mnemonic = "blue job pear harvest sentence search pottery gift confirm ocean coin capital";
+var mnemonic = "visit extra craft autumn candy evidence often manual receive lava space punch";
