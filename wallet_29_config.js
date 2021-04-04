@@ -1,1 +1,1 @@
-var mnemonic = "quantum silk harbor topic similar agree mango goddess again maze noise walk";
+var mnemonic = "identify mango kangaroo action urban thing future check fit pluck mad pill";

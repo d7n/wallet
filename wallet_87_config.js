@@ -1,1 +1,1 @@
-var mnemonic = "glance error clump legal prefer glare pave magnet swallow shine flash impulse";
+var mnemonic = "erase illness bid mushroom valve clock slim tag dinosaur disease hair gain";

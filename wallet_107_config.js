@@ -1,1 +1,1 @@
-var mnemonic = "snake web voyage brass point virtual project sibling sleep core pole sunny";
+var mnemonic = "husband apology replace staff engine east bomb mushroom fiscal razor apology art";

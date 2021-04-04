@@ -1,1 +1,1 @@
-var mnemonic = "gold spend nephew second glad nominee glare burst damp flight leader shiver";
+var mnemonic = "upper kiss undo because sign problem ankle gift cruel online around desert";

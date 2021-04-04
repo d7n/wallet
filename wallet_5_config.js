@@ -1,1 +1,1 @@
-var mnemonic = "tissue limb dinosaur tank trip convince cargo together enhance side device rhythm";
+var mnemonic = "tunnel coin genius social polar dinosaur general entry carry chronic firm crumble";

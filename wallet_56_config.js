@@ -1,1 +1,1 @@
-var mnemonic = "frequent fresh hamster virtual hill purity smooth proof noble hedgehog agree reflect";
+var mnemonic = "upset cart budget safe typical whisper actual sniff rural uncover kitten zero";

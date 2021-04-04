@@ -1,1 +1,1 @@
-var mnemonic = "funny debate basket coin allow clip pelican coin effort code version frame";
+var mnemonic = "sponsor cancel blossom inform fancy board vessel seek alcohol file degree option";

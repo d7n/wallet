@@ -1,1 +1,1 @@
-var mnemonic = "boy globe rapid kick member trick romance gospel grow fault belt muscle";
+var mnemonic = "grid green balcony spare federal cry ill garden zebra special close steel";

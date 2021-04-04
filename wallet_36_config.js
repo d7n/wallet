@@ -1,1 +1,1 @@
-var mnemonic = "lion strike burden amused prefer legend original face island drive just admit";
+var mnemonic = "merry lady moral napkin flavor term misery swear grid pelican health claw";

@@ -1,1 +1,1 @@
-var mnemonic = "secret early dust park mouse snake crash relax place old bottom ordinary";
+var mnemonic = "long payment furnace power second enhance cotton lonely holiday genuine spawn appear";

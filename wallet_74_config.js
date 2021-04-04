@@ -1,1 +1,1 @@
-var mnemonic = "muscle total obscure slender local fancy stamp gossip evolve hospital fault foster";
+var mnemonic = "embark army arctic chat find absurd usage kit essay scorpion illegal brick";

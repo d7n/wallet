@@ -1,1 +1,1 @@
-var mnemonic = "father legal feel domain rural stable rebuild panther special actress pepper bridge";
+var mnemonic = "trade orchard dial volume portion make win magnet judge gym fox predict";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar shed toilet wing daughter october oxygen early legal deputy stand pause";
+var mnemonic = "between girl pottery hamster dance team advance fire coast whip prize cave";

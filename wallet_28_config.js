@@ -1,1 +1,1 @@
-var mnemonic = "same price breeze small piano exclude opera use novel over sample tape";
+var mnemonic = "flip oppose neutral person smooth update fluid soap kingdom power buffalo draft";

@@ -1,1 +1,1 @@
-var mnemonic = "duck story excuse sweet any mystery nest extend gloom tattoo coral diamond";
+var mnemonic = "quarter toss inside purity equal media outdoor art fossil fantasy glow clump";

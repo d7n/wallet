@@ -1,1 +1,1 @@
-var mnemonic = "village series donkey visual view circle rain pattern multiply word love grunt";
+var mnemonic = "foster income path coffee capable banana misery strong child rally grape sport";

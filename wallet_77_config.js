@@ -1,1 +1,1 @@
-var mnemonic = "deputy absurd ill piece lucky trap bench page surge betray kick just";
+var mnemonic = "punch school elevator acoustic combine foster survey slide gadget blush praise soda";

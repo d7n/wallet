@@ -1,1 +1,1 @@
-var mnemonic = "giggle capital situate whale field victory favorite urge mix embark blast adapt";
+var mnemonic = "hammer slot soda congress scene basket lumber east ship hard badge shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "find tide obey gift assist trouble portion caught cruel indoor ticket snake";
+var mnemonic = "wrap accuse bachelor borrow loan person vault skin frog erase wagon term";

@@ -1,1 +1,1 @@
-var mnemonic = "taste admit diary olive inherit post problem grow invest lemon ivory also";
+var mnemonic = "drum animal silver utility lens session theme dinner fame season forget hen";

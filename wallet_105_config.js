@@ -1,1 +1,1 @@
-var mnemonic = "quick acquire mirror subject beauty barely hungry evil correct cart direct slim";
+var mnemonic = "train poet taxi silver anxiety ignore matter priority extra result grief neutral";

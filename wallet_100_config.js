@@ -1,1 +1,1 @@
-var mnemonic = "useful lock romance genius analyst fault vast mystery update lake enact bacon";
+var mnemonic = "tree move memory photo crane under defy verify avoid test public evolve";

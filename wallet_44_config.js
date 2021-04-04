@@ -1,1 +1,1 @@
-var mnemonic = "alert basket enter grain dolphin material tourist asthma thrive home lab people";
+var mnemonic = "airport fame radio hood theme hero glass renew grid cruise album child";

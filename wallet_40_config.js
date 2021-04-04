@@ -1,1 +1,1 @@
-var mnemonic = "immune vote razor pioneer skin curious grocery sniff enjoy already daring ask";
+var mnemonic = "excess race ribbon neglect rhythm enact emerge syrup gaze manage find modify";

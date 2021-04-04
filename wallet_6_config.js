@@ -1,1 +1,1 @@
-var mnemonic = "staff talk resist nominee inhale vault team snake depth course vicious peasant";
+var mnemonic = "spy pig normal wrist drift frame clinic crisp suffer gold mean exact";

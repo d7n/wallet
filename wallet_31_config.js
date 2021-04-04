@@ -1,1 +1,1 @@
-var mnemonic = "book neither image tonight buyer fade only gown fiber salad board useless";
+var mnemonic = "lucky rain slot sibling vacuum long melody ready inform evolve wash trash";

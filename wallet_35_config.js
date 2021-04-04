@@ -1,1 +1,1 @@
-var mnemonic = "blanket candy unaware awful explain scrap easily stand sketch poverty dilemma fortune";
+var mnemonic = "awkward avoid express simple empty armor cave pretty brave volume stool photo";

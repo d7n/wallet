@@ -1,1 +1,1 @@
-var mnemonic = "age such zone rib practice access price soon couch unfair diet humor";
+var mnemonic = "drum absorb narrow village bracket snack december flash identify usual peasant mixture";

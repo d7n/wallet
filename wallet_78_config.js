@@ -1,1 +1,1 @@
-var mnemonic = "local panic demand noble bamboo banana between swim similar hold erupt slice";
+var mnemonic = "limb trick syrup unveil dwarf ill jewel brave below try tag detail";

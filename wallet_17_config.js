@@ -1,1 +1,1 @@
-var mnemonic = "major garden tip explain captain elder rookie ribbon apple joke night lens";
+var mnemonic = "soap document twin stamp reunion siren rich sell illegal step gate wing";

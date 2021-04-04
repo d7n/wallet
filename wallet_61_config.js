@@ -1,1 +1,1 @@
-var mnemonic = "kite trim chase first ocean suggest uncover upset broken palm pyramid divert";
+var mnemonic = "rare tell naive rice soap undo announce whip giant retire enhance corn";

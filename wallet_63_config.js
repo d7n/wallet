@@ -1,1 +1,1 @@
-var mnemonic = "review cake park kick cram member chef immune umbrella small weasel cable";
+var mnemonic = "alone ill wrestle blast rose direct green avoid have indicate plate casual";

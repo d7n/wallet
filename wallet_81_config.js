@@ -1,1 +1,1 @@
-var mnemonic = "pair report virus spot truly hurdle valley orbit twin book away twin";
+var mnemonic = "lumber amount broken zoo sing ghost chaos cover cinnamon confirm defy violin";

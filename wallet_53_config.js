@@ -1,1 +1,1 @@
-var mnemonic = "spend tag regret bag citizen like dizzy six awkward nasty goddess pluck";
+var mnemonic = "build tired ozone fringe gospel cat devote risk hill rebuild like code";

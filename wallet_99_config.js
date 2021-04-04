@@ -1,1 +1,1 @@
-var mnemonic = "song sure animal away vacuum equal second tuition thank lumber skirt session";
+var mnemonic = "shove rural risk twice father follow afford original round pond feel actress";

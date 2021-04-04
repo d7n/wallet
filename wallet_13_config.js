@@ -1,1 +1,1 @@
-var mnemonic = "add empty tired magic medal keep fatigue defense limb extra piano habit";
+var mnemonic = "party spawn crime innocent exclude either risk oxygen animal average flock museum";

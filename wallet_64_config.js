@@ -1,1 +1,1 @@
-var mnemonic = "device era obtain dinosaur lumber brother chase dose clever dream friend merge";
+var mnemonic = "salute present express cliff road aerobic amazing patch solve siege profit parent";

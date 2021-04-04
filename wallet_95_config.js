@@ -1,1 +1,1 @@
-var mnemonic = "fluid help point stereo explain inhale scrap scene kangaroo finger oak middle";
+var mnemonic = "banana clip tent track draw chimney unfair about future relief perfect radio";

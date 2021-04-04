@@ -1,1 +1,1 @@
-var mnemonic = "adult orient dynamic loop plastic venture whip road spray find open pizza";
+var mnemonic = "swarm theme grid tail ozone cigar cat trap close weasel number weapon";

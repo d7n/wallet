@@ -1,1 +1,1 @@
-var mnemonic = "huge capital insane survey admit upon pattern hedgehog lawsuit sponsor surface menu";
+var mnemonic = "inflict drink bulb exact jeans indoor point tiny monster slot wonder code";

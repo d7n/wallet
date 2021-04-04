@@ -1,1 +1,1 @@
-var mnemonic = "dignity tourist fatigue weekend cost romance reflect survey struggle wide depend degree";
+var mnemonic = "boss super hurry digital march fog rice cotton long trumpet aware advice";

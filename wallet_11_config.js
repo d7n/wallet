@@ -1,1 +1,1 @@
-var mnemonic = "fossil olympic annual tent exact marine eye pond angry above invest program";
+var mnemonic = "marine leopard stay twenty want fetch expect mistake toilet betray wage bomb";

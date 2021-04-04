@@ -1,1 +1,1 @@
-var mnemonic = "divorce satoshi kingdom raccoon oval dinner lava scale mind lady wash push";
+var mnemonic = "cheese panda unusual dice coral expire fall rigid fresh derive rate observe";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel figure want strategy elbow border finish possible pulp virus silent merit";
+var mnemonic = "oven damp pair naive marriage stomach skill adapt beyond limit group shove";

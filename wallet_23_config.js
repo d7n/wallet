@@ -1,1 +1,1 @@
-var mnemonic = "salon jacket afraid angle assist mirror kiss sort decide bean tower seminar";
+var mnemonic = "embrace civil borrow situate shine lemon decrease acid patch left legend dynamic";

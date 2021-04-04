@@ -1,1 +1,1 @@
-var mnemonic = "bird endorse avoid chest quality chimney divide camp addict illegal monitor illness";
+var mnemonic = "front rule version slam answer law plunge shift eye test memory fringe";

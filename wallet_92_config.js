@@ -1,1 +1,1 @@
-var mnemonic = "use human cousin tape royal real motion swarm scatter wait learn people";
+var mnemonic = "between actress floor panda example rotate comic dune palm carry vast game";

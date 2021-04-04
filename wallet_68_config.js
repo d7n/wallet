@@ -1,1 +1,1 @@
-var mnemonic = "wish address frame position myth ill brick electric cry cousin destroy chair";
+var mnemonic = "valley observe february quote pluck village vapor job bike home stereo treat";

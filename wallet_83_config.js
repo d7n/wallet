@@ -1,1 +1,1 @@
-var mnemonic = "pig choose surround thank horse vessel blush lucky dignity town dish crawl";
+var mnemonic = "sphere cage jelly catalog top dentist title moon mimic three feel finish";

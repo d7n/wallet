@@ -1,1 +1,1 @@
-var mnemonic = "strategy wasp cherry poet region space apple trouble bring accuse observe better";
+var mnemonic = "theme balance panther else someone tape near time attend area fox nerve";

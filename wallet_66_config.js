@@ -1,1 +1,1 @@
-var mnemonic = "develop error sphere visa skull uncover fiber truck shoulder man home extend";
+var mnemonic = "grain raccoon narrow twice seven betray power boil among budget concert fragile";

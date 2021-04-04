@@ -1,1 +1,1 @@
-var mnemonic = "jewel cabbage cruise hat ask truly cherry pair budget join reform endorse";
+var mnemonic = "junior pumpkin injury blue wrap inmate cost poet grain remain legal gorilla";

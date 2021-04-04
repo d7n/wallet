@@ -1,1 +1,1 @@
-var mnemonic = "kite list cloud volcano rack amused dinosaur misery guitar jaguar friend blanket";
+var mnemonic = "rely search old leopard update wool scene chimney fruit ticket provide air";

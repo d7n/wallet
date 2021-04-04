@@ -1,1 +1,1 @@
-var mnemonic = "donate way struggle eager cool horn soccer umbrella come embody skull mutual";
+var mnemonic = "casino narrow barely access differ family adjust sun shiver author notice hybrid";

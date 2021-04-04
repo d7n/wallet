@@ -1,1 +1,1 @@
-var mnemonic = "beauty shell syrup account enforce glad attack tuna alcohol clerk remember retire";
+var mnemonic = "face jacket true spoil ripple globe enroll shiver blur share scare smart";

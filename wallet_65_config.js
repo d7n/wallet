@@ -1,1 +1,1 @@
-var mnemonic = "chicken lizard nest sleep force rapid copy thank silly twelve flag canyon";
+var mnemonic = "erosion stone clarify bronze gun mix brick upgrade phone trend lunar rubber";

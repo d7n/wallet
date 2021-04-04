@@ -1,1 +1,1 @@
-var mnemonic = "option muscle voice human wing family upon tired explain predict snake pretty";
+var mnemonic = "kid learn property muffin siege hungry february tent there envelope crumble bid";

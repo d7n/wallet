@@ -1,1 +1,1 @@
-var mnemonic = "range forest okay side upset lady either harbor famous pool engage history";
+var mnemonic = "spirit cabin asset wing useful fiction suspect bulb memory cube enhance smooth";

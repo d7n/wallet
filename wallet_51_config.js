@@ -1,1 +1,1 @@
-var mnemonic = "rough bag shed sun stadium jump lucky eagle neutral slush sure summer";
+var mnemonic = "typical correct garage assault interest heart width time limb retire amateur noodle";

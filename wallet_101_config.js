@@ -1,1 +1,1 @@
-var mnemonic = "bird fat knock safe plug violin casino cart review vintage robust federal";
+var mnemonic = "memory canal cereal slogan legend stereo sample minute video gasp leader edge";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn alien sauce retire sign buzz dial box oppose twin frozen judge";
+var mnemonic = "notable another smooth floor reopen aspect repeat camp idea ring galaxy trigger";

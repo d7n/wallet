@@ -1,1 +1,1 @@
-var mnemonic = "brush input diagram edit affair auto candy muscle nurse laugh garlic grass";
+var mnemonic = "gossip gym guard pelican antique prevent enact feel silver rate post brisk";

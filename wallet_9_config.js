@@ -1,1 +1,1 @@
-var mnemonic = "arm brick differ rotate drink wine utility dismiss gasp tissue only fence";
+var mnemonic = "snap cotton reward noodle riot wonder core coyote manual metal only delay";

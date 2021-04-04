@@ -1,1 +1,1 @@
-var mnemonic = "bronze remember crime sword case index swing punch position broccoli brain enable";
+var mnemonic = "drill toe march burden laundry before toward between genuine voice tiny skate";

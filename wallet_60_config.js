@@ -1,1 +1,1 @@
-var mnemonic = "load until drum conduct all ancient push join anxiety kidney ill mean";
+var mnemonic = "furnace illegal faint drastic develop together improve audit express barely shy laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "certain design keep dress believe jungle bubble front slide behind where patient";
+var mnemonic = "dragon pull physical coffee exhibit length oblige close goose scissors degree dream";

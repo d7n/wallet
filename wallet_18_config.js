@@ -1,1 +1,1 @@
-var mnemonic = "grit deputy crunch palace clump tumble try sing galaxy fold attitude west";
+var mnemonic = "decorate find blanket general wink escape demise wool property lesson fence kidney";

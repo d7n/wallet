@@ -1,1 +1,1 @@
-var mnemonic = "dial human avocado vendor social rotate subway method discover initial oppose adult";
+var mnemonic = "time release hero solution panic gospel payment reflect coral magic enforce cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "kid genuine pave pretty report road surround coach key torch differ print";
+var mnemonic = "distance people talk margin tuna run provide cross acid embrace spell mountain";

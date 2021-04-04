@@ -1,1 +1,1 @@
-var mnemonic = "cliff spring level another monster pond resemble deal explain obvious wagon special";
+var mnemonic = "knock badge monkey strategy you similar detail picnic hen donkey crew below";

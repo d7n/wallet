@@ -1,1 +1,1 @@
-var mnemonic = "refuse feel exit craft trial whisper pitch forest change domain donor kingdom";
+var mnemonic = "taxi payment imitate dad example school impact trust casino improve adult smile";

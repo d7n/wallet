@@ -1,1 +1,1 @@
-var mnemonic = "law volcano album joke monster cart audit veteran cherry very survey youth";
+var mnemonic = "alert traffic menu humor never tragic health swap segment flush raccoon appear";

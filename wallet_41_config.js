@@ -1,1 +1,1 @@
-var mnemonic = "fame retreat enlist poem flee custom company venue chronic zebra hunt page";
+var mnemonic = "grief wild social goat neglect prevent dwarf people sudden box pistol dust";

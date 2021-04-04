@@ -1,1 +1,1 @@
-var mnemonic = "theme old review dish shove mix fade trumpet little dress seed dizzy";
+var mnemonic = "guess curve rather clarify cereal style run actor enjoy swamp output fancy";

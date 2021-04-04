@@ -1,1 +1,1 @@
-var mnemonic = "two this chaos sketch property cinnamon enough cave reflect any action thrive";
+var mnemonic = "bulb popular mixed atom pride flame roof hunt mesh fit trim venture";

@@ -1,1 +1,1 @@
-var mnemonic = "escape company moral equal unit monkey witness squirrel trigger excite used clutch";
+var mnemonic = "raven aerobic often member shaft renew flip pledge wisdom awful cave inflict";

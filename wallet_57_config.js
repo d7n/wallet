@@ -1,1 +1,1 @@
-var mnemonic = "seven bundle skate advice age defy need cruise manual glass cherry kiwi";
+var mnemonic = "october laptop often thunder budget anger bind enough dismiss develop involve regular";

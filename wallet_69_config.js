@@ -1,1 +1,1 @@
-var mnemonic = "rice palace happy injury local gasp cash fever alpha acoustic pony image";
+var mnemonic = "logic gift noodle smooth evoke noble never impact combine warfare around autumn";

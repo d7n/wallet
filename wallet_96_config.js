@@ -1,1 +1,1 @@
-var mnemonic = "interest guitar service celery olive own salmon lend exit radio concert bunker";
+var mnemonic = "fitness forget license beyond horse phone pen shove coffee slim crack develop";

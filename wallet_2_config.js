@@ -1,1 +1,1 @@
-var mnemonic = "label tree satisfy sausage bird danger month public album knock voice offer";
+var mnemonic = "april level faculty modify bulb boost siren chat crisp valve junior bird";

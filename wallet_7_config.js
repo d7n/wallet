@@ -1,1 +1,1 @@
-var mnemonic = "inch worry loan inflict soldier icon top pyramid casino cycle frog silk";
+var mnemonic = "ride adapt rude wrong step cheap amazing hospital upset scout ceiling soldier";

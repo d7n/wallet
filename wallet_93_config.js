@@ -1,1 +1,1 @@
-var mnemonic = "load early leisure worth awesome dash chicken laugh cause develop oyster aim";
+var mnemonic = "school raw heart cook milk escape indoor crack hint meat result collect";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog kiss call essence cat wave limb attend measure skate injury absurd";
+var mnemonic = "stairs film advance size celery click split elevator beach science recipe agree";

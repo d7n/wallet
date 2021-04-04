@@ -1,1 +1,1 @@
-var mnemonic = "rely guard give better hollow garbage brisk hole boil ice artwork dilemma";
+var mnemonic = "west meadow educate husband radar dwarf ankle physical dwarf frame wear nuclear";

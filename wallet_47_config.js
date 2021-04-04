@@ -1,1 +1,1 @@
-var mnemonic = "arrest item stumble tool clump orchard design deposit blanket business shoulder grunt";
+var mnemonic = "night crunch lava skull staff local anger blouse just today sound depart";

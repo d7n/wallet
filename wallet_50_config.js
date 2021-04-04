@@ -1,1 +1,1 @@
-var mnemonic = "worry cigar biology auto remain miss puzzle surface since remind zebra tortoise";
+var mnemonic = "kid can mango belt panic dismiss pelican inner fringe extend hole text";

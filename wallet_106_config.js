@@ -1,1 +1,1 @@
-var mnemonic = "ahead pool marine cloth decline gain team above please taste nest include";
+var mnemonic = "bubble boy lens setup page father science indicate drive solar tragic atom";

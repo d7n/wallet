@@ -1,1 +1,1 @@
-var mnemonic = "spread jacket record horror decline acquire staff attitude abuse matter atom hamster";
+var mnemonic = "nose unaware party chef area oblige cheap rely ethics wasp design arm";

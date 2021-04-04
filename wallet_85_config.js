@@ -1,1 +1,1 @@
-var mnemonic = "gain pave cost light door game first apart oven mandate slim elephant";
+var mnemonic = "carry battle fresh orphan mention memory clap leisure maid payment gorilla immune";

@@ -1,1 +1,1 @@
-var mnemonic = "age author stay keep curtain hat begin insane sight rent faculty lava";
+var mnemonic = "learn cable danger sight father fever erase gown sock solid about day";

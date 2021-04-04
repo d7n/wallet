@@ -1,1 +1,1 @@
-var mnemonic = "tail dry art volcano autumn auto timber grocery mammal promote deer ketchup";
+var mnemonic = "gap increase side carry quality crucial bargain core volcano muscle canal boring";

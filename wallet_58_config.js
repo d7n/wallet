@@ -1,1 +1,1 @@
-var mnemonic = "april mammal industry analyst vacuum face critic earth clown climb vessel core";
+var mnemonic = "great vivid broken pizza lizard prepare dynamic parrot emotion mutual outdoor suit";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous casual typical kiss artwork gown outdoor deny tiger reform thrive goddess";
+var mnemonic = "equip indicate access great debris kite prosper bone fabric nasty nut ozone";

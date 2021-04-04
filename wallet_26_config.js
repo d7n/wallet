@@ -1,1 +1,1 @@
-var mnemonic = "board apple robot guitar enroll among dash find two walk approve aerobic";
+var mnemonic = "tissue treat traffic salmon follow hurdle shove message rain bulk three unaware";

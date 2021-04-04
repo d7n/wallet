@@ -1,1 +1,1 @@
-var mnemonic = "sing employ play push prize close casino grass label quote news drop";
+var mnemonic = "lawsuit tip figure stamp dust harsh online rookie shoe spoil supply isolate";
