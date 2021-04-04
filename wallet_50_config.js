@@ -1,1 +1,1 @@
-var mnemonic = "brick abstract various eight wage peanut surge predict dice horn hub alcohol";
+var mnemonic = "mad arm add accident task young dash marriage raise thought perfect picture";

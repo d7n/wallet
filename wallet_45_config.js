@@ -1,1 +1,1 @@
-var mnemonic = "egg congress high undo apology include green alcohol banana ginger just antique";
+var mnemonic = "process pond copy brown space crowd inch trial carbon curtain sustain jewel";

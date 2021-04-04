@@ -1,1 +1,1 @@
-var mnemonic = "behave inquiry radar inch float force boost resist bind squeeze turkey pond";
+var mnemonic = "typical enact dawn deny rival behind network furnace quality hen flash dove";

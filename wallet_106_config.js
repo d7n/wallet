@@ -1,1 +1,1 @@
-var mnemonic = "sure save add aware emerge hospital fiction business clip agent flavor truly";
+var mnemonic = "stable gift good fault laundry wise make ivory diary custom august track";

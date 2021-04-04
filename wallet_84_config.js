@@ -1,1 +1,1 @@
-var mnemonic = "volcano moon priority sign man gesture slender define drama never dolphin pencil";
+var mnemonic = "hungry voyage series speed suspect popular rabbit hamster olympic great spike heavy";

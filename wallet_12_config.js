@@ -1,1 +1,1 @@
-var mnemonic = "horror column enrich sad room young captain rail portion gauge mention unknown";
+var mnemonic = "attend legend inside mirror adjust work ghost mention rather reject put asset";

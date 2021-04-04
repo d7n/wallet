@@ -1,1 +1,1 @@
-var mnemonic = "gun vacuum assault state lamp pause defense learn discover cattle stairs else";
+var mnemonic = "coconut order beef hood account hair arch base lake reduce dry ghost";

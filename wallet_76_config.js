@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon bring unaware produce margin april pig dash spell tribe feed fetch";
+var mnemonic = "blind shrimp worth main setup matter embrace soon anger speed circle ability";

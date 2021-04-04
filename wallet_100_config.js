@@ -1,1 +1,1 @@
-var mnemonic = "stage reveal story hunt only above whip screen royal action this hungry";
+var mnemonic = "trophy float business among number vital little oak lava calm foster title";

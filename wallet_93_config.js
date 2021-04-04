@@ -1,1 +1,1 @@
-var mnemonic = "act jealous enroll employ episode silent mosquito rather gaze broom ceiling situate";
+var mnemonic = "equip lion random alpha palace wool miracle ten oil since evil soldier";

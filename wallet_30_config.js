@@ -1,1 +1,1 @@
-var mnemonic = "myth rice use common wall torch object nasty wise elephant cross april";
+var mnemonic = "brief drive apart improve together other century enough waste warfare cruel already";

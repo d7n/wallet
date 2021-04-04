@@ -1,1 +1,1 @@
-var mnemonic = "ozone visa arch equip sniff sheriff empower liberty vocal ripple divorce actress";
+var mnemonic = "broom slide cliff matter forum open uncle parent mirror expand history hamster";

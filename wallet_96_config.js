@@ -1,1 +1,1 @@
-var mnemonic = "still night purse casino system post surface mail demand frequent crop scheme";
+var mnemonic = "pioneer average burst baby odor cigar foil fly demand leg pumpkin shell";

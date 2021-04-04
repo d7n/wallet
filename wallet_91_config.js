@@ -1,1 +1,1 @@
-var mnemonic = "ketchup milk anchor arena bless loyal hat ten purse dust act honey";
+var mnemonic = "develop fly nation reject infant first today grain man ugly pave butter";

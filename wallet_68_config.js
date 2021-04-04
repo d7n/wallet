@@ -1,1 +1,1 @@
-var mnemonic = "blue person amused what soon human crumble clinic often spray smoke say";
+var mnemonic = "chef ticket slim door lab person swear borrow excess can ignore legend";

@@ -1,1 +1,1 @@
-var mnemonic = "loan blanket wonder lab photo orbit animal ladder foot awful cruise extra";
+var mnemonic = "vendor bus odor excite ceiling dirt flower verb inherit across tenant scrap";

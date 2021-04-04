@@ -1,1 +1,1 @@
-var mnemonic = "remember drum shallow say pencil pave balance hockey arrive venture indoor gasp";
+var mnemonic = "guard record mass into session easily tone speed modify scrap repair private";

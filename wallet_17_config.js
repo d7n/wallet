@@ -1,1 +1,1 @@
-var mnemonic = "trash code stick kick sustain brisk increase turkey youth auction consider dentist";
+var mnemonic = "arrive foil viable drift alpha together crater digital toilet goose tunnel duty";

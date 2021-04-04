@@ -1,1 +1,1 @@
-var mnemonic = "pluck fork cover eyebrow stone arena essence almost inhale seven error similar";
+var mnemonic = "dance paper later drop earth barrel north gauge flat tag shuffle olive";

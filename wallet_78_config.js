@@ -1,1 +1,1 @@
-var mnemonic = "vicious someone saddle strike vocal bind blood become unable text cost intact";
+var mnemonic = "armed merry satoshi dismiss tone ticket vital learn result primary bachelor corn";

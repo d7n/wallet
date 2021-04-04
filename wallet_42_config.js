@@ -1,1 +1,1 @@
-var mnemonic = "vacuum senior pistol enforce topic music exchange horn exchange blur glue stadium";
+var mnemonic = "body engine nest power square enlist surface pudding observe wish subway vacant";

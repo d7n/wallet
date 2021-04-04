@@ -1,1 +1,1 @@
-var mnemonic = "choice duck business horse conduct tackle very market original pool gym electric";
+var mnemonic = "once forum seek merit ahead company kit cave fruit common shrug saddle";

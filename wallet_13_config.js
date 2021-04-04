@@ -1,1 +1,1 @@
-var mnemonic = "crash trust token erase payment mechanic tonight morning leader regular tube moral";
+var mnemonic = "emotion bachelor future real evidence people smoke cloud prefer box gun soldier";

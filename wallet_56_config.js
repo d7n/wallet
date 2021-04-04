@@ -1,1 +1,1 @@
-var mnemonic = "rapid age blossom obvious chimney success industry predict laundry error seat expect";
+var mnemonic = "sick festival erode chaos east junk romance cover fetch flip fun essay";

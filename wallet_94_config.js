@@ -1,1 +1,1 @@
-var mnemonic = "pizza crystal flip milk news monster long describe struggle caught rib since";
+var mnemonic = "armed prison toe disorder program alien coil sand rescue shrimp unable buffalo";

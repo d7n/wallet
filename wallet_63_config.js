@@ -1,1 +1,1 @@
-var mnemonic = "dentist pumpkin today adjust judge fade fever noble dinner alpha exotic poet";
+var mnemonic = "traffic deliver quit truck they junk kidney photo inflict badge apple glove";

@@ -1,1 +1,1 @@
-var mnemonic = "situate comic visa phrase lunar scare remain stage fluid thank satoshi pool";
+var mnemonic = "useless rapid drift negative aerobic coyote love guitar sibling exhaust ridge dignity";

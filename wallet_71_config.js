@@ -1,1 +1,1 @@
-var mnemonic = "put exit federal uncle shine decorate mango number same way sweet face";
+var mnemonic = "turkey cloud document engine learn leave blue arrive spy guitar thank power";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin oil believe mechanic sugar curious blade praise middle super evil human";
+var mnemonic = "write another twenty awesome gun dynamic adjust payment couple ticket glass doll";

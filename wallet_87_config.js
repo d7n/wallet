@@ -1,1 +1,1 @@
-var mnemonic = "wife daring glare slab boost indicate pill fold satisfy mistake bar grab";
+var mnemonic = "forest surround poet never finger physical spare fabric gloom engage maid sick";

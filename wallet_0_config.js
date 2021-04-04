@@ -1,1 +1,1 @@
-var mnemonic = "business tell siege royal yard life short grief senior suggest public glue";
+var mnemonic = "leg immune gadget debris hen library glare bag gesture icon forest weapon";

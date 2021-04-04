@@ -1,1 +1,1 @@
-var mnemonic = "motion river today weasel vocal steel increase bamboo genre tobacco moral caught";
+var mnemonic = "eager recycle idle own already aware oblige trim quality welcome lobster vessel";

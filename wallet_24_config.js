@@ -1,1 +1,1 @@
-var mnemonic = "math situate wife repeat garment label match mad mercy fold over special";
+var mnemonic = "denial cat critic health click pulp rail marine verify fragile trust clip";

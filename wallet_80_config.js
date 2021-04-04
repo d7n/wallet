@@ -1,1 +1,1 @@
-var mnemonic = "bid cactus awake must industry else distance tired clap life list world";
+var mnemonic = "camera exact diary broken useless elder miss ecology cricket balcony adapt universe";

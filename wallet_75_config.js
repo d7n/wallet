@@ -1,1 +1,1 @@
-var mnemonic = "frozen soon ball ankle live celery pitch fiction armed myth genius claim";
+var mnemonic = "hazard crisp rain senior under project omit skirt melody trouble six crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase alcohol adapt risk forward more poem answer nephew stable regular fame";
+var mnemonic = "magic potato crouch vendor junk keep insect change frost siege hero joy";

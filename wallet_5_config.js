@@ -1,1 +1,1 @@
-var mnemonic = "ice three coast dutch hybrid actual acid like thunder cycle matrix aerobic";
+var mnemonic = "detect fan next hotel scene elbow inmate grain fame omit solid stem";

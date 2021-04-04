@@ -1,1 +1,1 @@
-var mnemonic = "kid cigar baby rare regular spray shiver chunk cricket lobster predict glare";
+var mnemonic = "off mansion seed blush type message person evil basic write junior quit";

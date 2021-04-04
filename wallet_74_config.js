@@ -1,1 +1,1 @@
-var mnemonic = "luxury abuse banner present people breeze goose fever olympic drop mimic arena";
+var mnemonic = "blur shed riot entry remind salad bid chief aspect first right ring";

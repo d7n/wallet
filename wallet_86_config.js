@@ -1,1 +1,1 @@
-var mnemonic = "doctor divorce blame exclude input attend snow sure inch ignore capable churn";
+var mnemonic = "ski giggle pet render december huge mirror pause wedding base orange cook";

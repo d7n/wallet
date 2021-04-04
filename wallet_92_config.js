@@ -1,1 +1,1 @@
-var mnemonic = "food donate drop good anxiety destroy own stadium thing order pave leg";
+var mnemonic = "fun soul lesson acid tent season coconut hen quarter check develop sniff";

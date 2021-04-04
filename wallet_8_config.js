@@ -1,1 +1,1 @@
-var mnemonic = "beauty change rice avocado floor little search faculty hockey oak change purpose";
+var mnemonic = "call breeze response inform sting maple trumpet plate cinnamon churn spring ensure";

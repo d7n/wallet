@@ -1,1 +1,1 @@
-var mnemonic = "exhaust inquiry embrace faint around twice fun clarify screen siren side alter";
+var mnemonic = "crew trick fatal anchor afraid song fruit project atom humor advice draft";

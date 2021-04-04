@@ -1,1 +1,1 @@
-var mnemonic = "chronic salad want kitten chimney armor speak sense cigar genius clog giraffe";
+var mnemonic = "angry fantasy glow comfort orange produce sugar provide razor shoulder goose style";

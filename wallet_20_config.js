@@ -1,1 +1,1 @@
-var mnemonic = "chef inside travel produce tongue cry athlete throw artwork beef harsh desert";
+var mnemonic = "service legend media ginger bachelor power room thunder animal avocado globe car";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney execute armor choice bomb palm absent mirror seven unique boil surface";
+var mnemonic = "ranch trash theme pluck recipe steak summer nice recycle heavy leaf fever";

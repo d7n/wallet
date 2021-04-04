@@ -1,1 +1,1 @@
-var mnemonic = "urge open celery situate unit laptop wide input canoe link move local";
+var mnemonic = "close merit better suspect humble rabbit magnet differ room valid soft ticket";

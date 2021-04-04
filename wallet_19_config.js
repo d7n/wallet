@@ -1,1 +1,1 @@
-var mnemonic = "duck stock fatigue shoot galaxy awake believe solar flush wagon stone sniff";
+var mnemonic = "result bone service absent never dance face feature potato pink portion future";

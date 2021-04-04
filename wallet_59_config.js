@@ -1,1 +1,1 @@
-var mnemonic = "assume lunar purchase document tank ill guitar cash spare uncover you tenant";
+var mnemonic = "science stomach average mango slim either auto warrior matter define squirrel predict";

@@ -1,1 +1,1 @@
-var mnemonic = "rose service gather bid chair taxi hello toilet pair giraffe father toward";
+var mnemonic = "crop output sorry crush carbon defy fresh exist stumble like secret essence";

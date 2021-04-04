@@ -1,1 +1,1 @@
-var mnemonic = "someone shrug debate artwork crack misery voyage ship diagram above option law";
+var mnemonic = "loan embrace bean coral discover task auction sentence entire park canoe enrich";

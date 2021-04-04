@@ -1,1 +1,1 @@
-var mnemonic = "toy autumn doll area switch bright museum column page squeeze mixed panic";
+var mnemonic = "deny pulse general endorse frozen trick deposit buffalo admit brick buddy result";

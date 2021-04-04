@@ -1,1 +1,1 @@
-var mnemonic = "absorb morning kiss dish kidney immense young busy mother core border drift";
+var mnemonic = "citizen chalk escape valley office cover matrix assume prosper require next awkward";

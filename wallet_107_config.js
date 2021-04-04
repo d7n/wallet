@@ -1,1 +1,1 @@
-var mnemonic = "warrior lawsuit album quarter monkey fork mystery shell hole clinic behind common";
+var mnemonic = "job call lesson taxi palm patch puppy gather denial sadness number park";

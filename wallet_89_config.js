@@ -1,1 +1,1 @@
-var mnemonic = "crane salmon action brick category bone lock rain asset faculty sail taxi";
+var mnemonic = "door dignity remind domain wagon video thumb wise borrow educate man security";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold story praise coconut hard judge help obtain quote pepper suffer march";
+var mnemonic = "scrap empower hour dress ticket already aunt atom cattle exclude forum entry";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer duck misery lock pipe poverty beef envelope pole flash also tornado";
+var mnemonic = "zone parrot coin kiwi frog busy trash potato brand parade surround aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "staff slim raven kiwi street donkey recycle alien citizen bunker possible radio";
+var mnemonic = "coin act option ability release sister surround once glue record devote session";

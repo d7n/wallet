@@ -1,1 +1,1 @@
-var mnemonic = "ship paper battle like outside close erode weird record vault hurdle unhappy";
+var mnemonic = "action educate will taste infant ritual edge repeat turkey wave riot outdoor";

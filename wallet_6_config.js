@@ -1,1 +1,1 @@
-var mnemonic = "tell spin much buffalo journey hazard assault acid junior cool wife axis";
+var mnemonic = "flee ostrich powder acid large crucial spoon clever ritual monkey bright alert";

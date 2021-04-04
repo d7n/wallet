@@ -1,1 +1,1 @@
-var mnemonic = "normal cabbage ridge witness scatter atom fabric dance junior march grunt crash";
+var mnemonic = "address laptop tumble regular caught present minute derive hazard ship harvest enable";

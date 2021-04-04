@@ -1,1 +1,1 @@
-var mnemonic = "pilot evoke click habit heavy easy human appear wish love either disease";
+var mnemonic = "avocado busy invite movie average click fossil rifle term canoe fan slogan";

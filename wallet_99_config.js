@@ -1,1 +1,1 @@
-var mnemonic = "window knife onion coyote clinic topic fatigue van foil solar company detect";
+var mnemonic = "milk emotion ramp dial chicken web hard satoshi clip senior guilt fine";

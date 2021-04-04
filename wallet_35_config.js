@@ -1,1 +1,1 @@
-var mnemonic = "video budget mystery bunker fence special glide split hawk glove plastic pumpkin";
+var mnemonic = "upper avoid adapt pole recall assault venture buzz vehicle badge cement tired";

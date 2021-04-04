@@ -1,1 +1,1 @@
-var mnemonic = "estate stool time hedgehog half object type surround toast merry unit pony";
+var mnemonic = "explain blast rival wish bike fish shed what torch material youth arena";

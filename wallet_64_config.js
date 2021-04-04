@@ -1,1 +1,1 @@
-var mnemonic = "siren shuffle barely country dance empower potato maximum poem gospel crumble few";
+var mnemonic = "sustain wheat onion husband inch jungle hurdle upon result trash equal target";

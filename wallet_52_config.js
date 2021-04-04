@@ -1,1 +1,1 @@
-var mnemonic = "secret payment hood mirror betray slush embrace already nephew entire apology renew";
+var mnemonic = "enjoy erode reunion add key advance shoulder goat episode effort favorite provide";

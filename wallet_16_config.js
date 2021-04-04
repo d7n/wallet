@@ -1,1 +1,1 @@
-var mnemonic = "cabbage ostrich soft orbit reduce situate patient elite rain oyster soul patrol";
+var mnemonic = "stereo mechanic mandate say focus stuff riot mass clerk dust monkey marble";

@@ -1,1 +1,1 @@
-var mnemonic = "guide online symbol beyond noble skill naive often ripple grocery motor brain";
+var mnemonic = "boy later evolve sunny man surround tongue believe casual behind maid mention";

@@ -1,1 +1,1 @@
-var mnemonic = "poem limb afford swift path hedgehog health unaware unfold glory matter wedding";
+var mnemonic = "genius model flame stay grass such cricket female moral bargain victory oblige";

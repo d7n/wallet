@@ -1,1 +1,1 @@
-var mnemonic = "rescue cube track left shield soldier excuse path wash bicycle dutch oblige";
+var mnemonic = "type forget enhance visit wolf liar clump arch misery adapt wild stamp";

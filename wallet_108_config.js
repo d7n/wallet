@@ -1,1 +1,1 @@
-var mnemonic = "demand omit scatter cruise virtual wink solid romance female letter smile defy";
+var mnemonic = "carbon aisle curious anxiety tumble provide frequent toy duck muffin wrap invest";

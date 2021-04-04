@@ -1,1 +1,1 @@
-var mnemonic = "desert raven turtle wedding prison admit exchange demise then cluster oil business";
+var mnemonic = "math palm solution win taxi economy include frost near churn bus hover";

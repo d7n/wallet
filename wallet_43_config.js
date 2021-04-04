@@ -1,1 +1,1 @@
-var mnemonic = "gun useful coral movie wine erosion wild bind uniform uncover bracket armor";
+var mnemonic = "invite turtle start mixed fiber paper catalog lesson innocent moon circle turkey";

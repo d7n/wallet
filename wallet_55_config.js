@@ -1,1 +1,1 @@
-var mnemonic = "picnic maid because omit volume carbon great middle jeans hard nuclear play";
+var mnemonic = "father hover forward course lamp course power amount embody bread check major";

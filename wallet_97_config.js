@@ -1,1 +1,1 @@
-var mnemonic = "frown taste glide alcohol agree snap liquid spawn antenna visit slush tonight";
+var mnemonic = "climb student check spirit matter entry waste warfare excite reflect fog erase";

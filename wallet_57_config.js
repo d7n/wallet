@@ -1,1 +1,1 @@
-var mnemonic = "bomb find pair move drip planet novel bundle reason wait talk unfair";
+var mnemonic = "fruit since square want road donkey elegant shaft toward primary credit category";

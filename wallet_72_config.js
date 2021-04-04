@@ -1,1 +1,1 @@
-var mnemonic = "tumble bachelor total expose indicate profit advice result gesture gaze athlete announce";
+var mnemonic = "enroll coconut observe same concert luggage amused horse bicycle beauty adjust radio";

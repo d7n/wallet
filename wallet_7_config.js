@@ -1,1 +1,1 @@
-var mnemonic = "client mansion whisper lift casino month easily autumn letter gate member learn";
+var mnemonic = "palm tone match tone wide spike pink slender pill lava street setup";

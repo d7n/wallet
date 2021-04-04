@@ -1,1 +1,1 @@
-var mnemonic = "mean hope cable rate course rebuild build adult scissors cube decline display";
+var mnemonic = "vote blue gift team casual arm force injury always grace feed fantasy";

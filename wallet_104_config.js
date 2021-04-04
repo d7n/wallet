@@ -1,1 +1,1 @@
-var mnemonic = "portion danger deer glass fire blanket mixed license cereal frame soul hidden";
+var mnemonic = "elder ball antique target brother divert awful already clean kitten print napkin";

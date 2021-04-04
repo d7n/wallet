@@ -1,1 +1,1 @@
-var mnemonic = "around tuna crisp arrive round achieve abstract weather inform picnic symptom rocket";
+var mnemonic = "vessel element describe reopen cinnamon trumpet blossom supreme miracle gaze surge pepper";

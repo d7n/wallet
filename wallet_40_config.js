@@ -1,1 +1,1 @@
-var mnemonic = "decade empty across ticket meadow way uncle art broccoli pilot tower rabbit";
+var mnemonic = "submit wink hotel hint ostrich drama kiwi comfort middle pull book person";
