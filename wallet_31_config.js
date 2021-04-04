@@ -1,1 +1,1 @@
-var mnemonic = "satisfy dolphin friend width food mobile urban glass original wash hope begin";
+var mnemonic = "element phone bright surprise swear walk glory leg crush husband minimum gloom";

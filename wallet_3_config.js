@@ -1,1 +1,1 @@
-var mnemonic = "drill impose basic melody clog silly excite giant track expose trial improve";
+var mnemonic = "saddle clinic tide stone tortoise genius pony gas wood talk menu arrange";

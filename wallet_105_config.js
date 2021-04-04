@@ -1,1 +1,1 @@
-var mnemonic = "swarm news humor trip simple labor ugly gauge slight craft pear twenty";
+var mnemonic = "pencil note submit carbon square example cruise banner fee junk meat parrot";

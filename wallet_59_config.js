@@ -1,1 +1,1 @@
-var mnemonic = "shoe law album share sense token pole crunch tuition gap hamster modify";
+var mnemonic = "invest topic scheme twin cube occur tortoise sibling salad tilt ceiling because";

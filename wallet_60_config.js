@@ -1,1 +1,1 @@
-var mnemonic = "hurdle trouble index estate lumber sort believe such tube identify under catalog";
+var mnemonic = "couple pond domain leader order exhibit yellow muscle pyramid man primary sustain";

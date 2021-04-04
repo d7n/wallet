@@ -1,1 +1,1 @@
-var mnemonic = "drill inmate finger hand mango valley option edge ginger diamond what rough";
+var mnemonic = "holiday cycle insane nest journey turn boost bubble hole stereo early dawn";

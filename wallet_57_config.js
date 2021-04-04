@@ -1,1 +1,1 @@
-var mnemonic = "oak setup turtle coin dwarf tent they adapt shrug can silent stick";
+var mnemonic = "town ship tiger decide paddle hire oven lady phone domain august teach";

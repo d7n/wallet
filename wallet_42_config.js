@@ -1,1 +1,1 @@
-var mnemonic = "bundle rebel bench message trend pave romance blast pulse casual basket cigar";
+var mnemonic = "seven escape town despair doll bulb always gorilla roof bicycle panther bamboo";

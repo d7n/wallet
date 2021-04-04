@@ -1,1 +1,1 @@
-var mnemonic = "horror vacant elephant acid used peace spawn quality shoot stand cliff cool";
+var mnemonic = "still kitten dentist matrix goddess bamboo order hedgehog bullet demise merit already";

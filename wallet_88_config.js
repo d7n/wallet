@@ -1,1 +1,1 @@
-var mnemonic = "awake actual guitar stove lunch quick return mesh poverty custom okay mouse";
+var mnemonic = "boring fantasy book illness into model rude quarter opera tissue sting label";

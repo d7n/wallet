@@ -1,1 +1,1 @@
-var mnemonic = "energy false large grief antenna excess harvest cake earn office barrel knock";
+var mnemonic = "era margin warm juice debris law orient bring attitude sentence buddy basic";

@@ -1,1 +1,1 @@
-var mnemonic = "collect run roof artwork summer duck ordinary when husband three account luggage";
+var mnemonic = "rare moment theme bone toilet pave invest bottom federal hammer gift regret";

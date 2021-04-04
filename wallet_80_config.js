@@ -1,1 +1,1 @@
-var mnemonic = "ivory squeeze hungry cake tribe away half execute sketch link rail dismiss";
+var mnemonic = "exhaust ship price bunker accident winner poem patient tomorrow sport bitter final";

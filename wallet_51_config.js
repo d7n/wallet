@@ -1,1 +1,1 @@
-var mnemonic = "certain valve machine quantum quality power fashion robot calm awake anger project";
+var mnemonic = "stable cereal rose negative super amused analyst walk glide nut pioneer describe";

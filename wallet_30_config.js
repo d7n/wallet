@@ -1,1 +1,1 @@
-var mnemonic = "faith able arrange electric make impose quote magic trick weather trap drink";
+var mnemonic = "verify disease where depend piano clerk bunker scan hurdle conduct pink avoid";

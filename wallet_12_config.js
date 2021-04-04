@@ -1,1 +1,1 @@
-var mnemonic = "dragon panda step floor split usage develop stone kitchen invite process spice";
+var mnemonic = "access harsh weather region barrel detect engine giggle genuine type know final";

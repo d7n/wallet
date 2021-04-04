@@ -1,1 +1,1 @@
-var mnemonic = "parade track refuse degree area version hero lion short oak evolve inquiry";
+var mnemonic = "oak train install affair blast coach budget long theory globe hill sweet";

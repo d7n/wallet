@@ -1,1 +1,1 @@
-var mnemonic = "betray pelican helmet club refuse fortune pride vocal bullet guide vacant trophy";
+var mnemonic = "spin fix sound smile energy answer control divert ski frozen hat dutch";

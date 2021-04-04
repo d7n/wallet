@@ -1,1 +1,1 @@
-var mnemonic = "forest slogan goat flash keep rural honey senior hungry south quarter romance";
+var mnemonic = "laundry all riot old burst girl kick caution slice deposit cushion spread";

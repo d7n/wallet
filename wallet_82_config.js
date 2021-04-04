@@ -1,1 +1,1 @@
-var mnemonic = "allow upgrade year search sample pear hole carpet love divide open youth";
+var mnemonic = "stamp nation good receive helmet moon pill balcony chicken raven object depart";

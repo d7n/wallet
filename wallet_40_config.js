@@ -1,1 +1,1 @@
-var mnemonic = "hurry desert pepper give vote notable turkey odor series hurt reason canvas";
+var mnemonic = "moon note digital receive glory april boy quality pigeon multiply race toilet";

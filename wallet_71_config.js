@@ -1,1 +1,1 @@
-var mnemonic = "often van there gallery camp opera borrow style popular frost ignore inhale";
+var mnemonic = "mass portion decade quarter clump hard robust elegant obtain illness glue boss";

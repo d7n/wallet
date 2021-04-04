@@ -1,1 +1,1 @@
-var mnemonic = "lucky smoke notable tiny input guide urge sand parrot magic place fiction";
+var mnemonic = "announce undo enlist siren music pluck heart mandate step robust start apart";

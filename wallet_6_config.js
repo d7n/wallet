@@ -1,1 +1,1 @@
-var mnemonic = "legend puzzle verify connect attend tree please absurd anger total cruise voice";
+var mnemonic = "breeze purity ahead supply cross square insect garbage boat lunch allow memory";

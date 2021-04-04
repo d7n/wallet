@@ -1,1 +1,1 @@
-var mnemonic = "lunar timber economy pencil remember reopen duck force citizen idle chat aerobic";
+var mnemonic = "shuffle tiger garden cat carbon clerk couple pepper ski skirt reduce luxury";

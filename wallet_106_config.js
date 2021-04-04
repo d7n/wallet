@@ -1,1 +1,1 @@
-var mnemonic = "inside service remove heavy exotic require firm milk draw that slide bamboo";
+var mnemonic = "soccer nest hurdle genre melody about wonder real lion dignity visit link";

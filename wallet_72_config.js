@@ -1,1 +1,1 @@
-var mnemonic = "coil churn traffic fatal soft price swift canvas photo mix avocado planet";
+var mnemonic = "brown disorder sand twice shiver toy trip monitor link grunt tonight smart";

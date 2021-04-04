@@ -1,1 +1,1 @@
-var mnemonic = "industry evidence hero midnight flag album just just envelope obvious impose obscure";
+var mnemonic = "obtain hat shadow labor live shift enroll total another sound silver lab";

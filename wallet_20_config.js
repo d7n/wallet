@@ -1,1 +1,1 @@
-var mnemonic = "sand behind lizard bid twelve over hunt attend fat used prison copper";
+var mnemonic = "lesson pencil veteran amateur honey index vehicle uncle gap teach yellow enroll";

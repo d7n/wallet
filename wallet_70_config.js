@@ -1,1 +1,1 @@
-var mnemonic = "grain denial office shuffle bring speed quarter ensure artefact snow shrimp isolate";
+var mnemonic = "unit calm neglect kit dash tobacco sniff shoulder mad beauty clock kidney";

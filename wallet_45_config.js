@@ -1,1 +1,1 @@
-var mnemonic = "amateur then destroy morning pilot only embrace affair work debris voyage aisle";
+var mnemonic = "airport knee mixed isolate answer butter sample brown marriage federal peanut rigid";

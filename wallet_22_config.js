@@ -1,1 +1,1 @@
-var mnemonic = "wool camp turkey office city pact receive december cable hand estate black";
+var mnemonic = "civil attend clinic chicken despair street skull mirror boil senior slow hockey";

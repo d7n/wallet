@@ -1,1 +1,1 @@
-var mnemonic = "leopard square lucky outer maximum distance end claw rally evil insect exist";
+var mnemonic = "dynamic custom usage farm aisle chest travel stomach judge wait lift dirt";

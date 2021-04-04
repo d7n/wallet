@@ -1,1 +1,1 @@
-var mnemonic = "cake easy surface syrup labor section october predict resource pepper reveal bracket";
+var mnemonic = "race ceiling love aerobic reflect curve praise equal staff select clerk under";

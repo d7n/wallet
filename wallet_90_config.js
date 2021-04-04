@@ -1,1 +1,1 @@
-var mnemonic = "begin rather settle toast assist nose salon casual pole they congress canvas";
+var mnemonic = "door issue cupboard midnight type divorce energy excess town acoustic fat vocal";

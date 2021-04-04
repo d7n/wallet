@@ -1,1 +1,1 @@
-var mnemonic = "nose suit strategy iron end young deny fire alcohol dentist modify miss";
+var mnemonic = "attitude index purpose purchase fire tomato remain help actress kiss van enhance";

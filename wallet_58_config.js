@@ -1,1 +1,1 @@
-var mnemonic = "run audit jump buddy steak gown oak sustain rely squirrel cycle poem";
+var mnemonic = "crystal race birth ask deer bid illness surface session bundle wrong vote";

@@ -1,1 +1,1 @@
-var mnemonic = "wave inch middle guide rice wet insane album theme pulse bargain drama";
+var mnemonic = "caution ceiling swing spell wolf connect path glue clog agree document honey";

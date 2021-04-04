@@ -1,1 +1,1 @@
-var mnemonic = "impact elephant scorpion kid dinner squirrel year once toss edge giraffe like";
+var mnemonic = "edge tiger mixed party shadow health where popular clinic figure empower viable";

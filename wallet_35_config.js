@@ -1,1 +1,1 @@
-var mnemonic = "elephant heavy add frown degree ketchup sign response explain radar enemy awkward";
+var mnemonic = "protect manual book dice advice guess swallow thunder behave raven angry maze";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy ramp stool day body know angry latin salmon poverty food sure";
+var mnemonic = "gravity snack bundle door industry apology scissors pumpkin slender walnut super lab";

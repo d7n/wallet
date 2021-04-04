@@ -1,1 +1,1 @@
-var mnemonic = "armed lazy excess laundry alert under foster vague sustain surprise chicken april";
+var mnemonic = "guess labor oxygen negative way approve portion captain police indicate adult canyon";

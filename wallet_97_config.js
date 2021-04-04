@@ -1,1 +1,1 @@
-var mnemonic = "upgrade decorate little globe radar ugly climb angle lyrics work cheap brisk";
+var mnemonic = "used pipe kingdom flight exhaust guard worry palm clinic crumble main planet";

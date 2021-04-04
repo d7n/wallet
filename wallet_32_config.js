@@ -1,1 +1,1 @@
-var mnemonic = "answer seat either announce assume luggage chunk prefer kind vintage then follow";
+var mnemonic = "tail subject retire fiber bicycle empower win wreck struggle bamboo until uphold";

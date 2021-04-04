@@ -1,1 +1,1 @@
-var mnemonic = "diamond stadium reject raccoon supreme truck spray rely moral assist speed act";
+var mnemonic = "trip warfare will order cactus cave victory agree primary end rich tiger";

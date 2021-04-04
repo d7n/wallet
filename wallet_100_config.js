@@ -1,1 +1,1 @@
-var mnemonic = "pave twist position merit viable onion soldier sure front remain lonely figure";
+var mnemonic = "lonely update capable undo ski lawsuit guard unusual between addict basket border";

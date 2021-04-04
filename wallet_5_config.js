@@ -1,1 +1,1 @@
-var mnemonic = "tongue air chronic apple spell matter broken ceiling federal blood special reject";
+var mnemonic = "meadow desert image umbrella mansion ghost enroll inhale toy pistol reward news";

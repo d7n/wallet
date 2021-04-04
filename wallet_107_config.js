@@ -1,1 +1,1 @@
-var mnemonic = "ivory page letter crisp suggest rose trust monster music raccoon just certain";
+var mnemonic = "holiday educate soccer settle join fog fall scheme review spike symbol rent";

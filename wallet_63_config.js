@@ -1,1 +1,1 @@
-var mnemonic = "model royal soda acquire agree project shield cloud mad police speed right";
+var mnemonic = "decade like defense copy marine manual portion shaft curve false north hood";

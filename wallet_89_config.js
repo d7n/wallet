@@ -1,1 +1,1 @@
-var mnemonic = "report body peanut focus major need video reunion tone clerk lucky strong";
+var mnemonic = "correct mixed ancient risk door mention online awesome dose unhappy street keen";

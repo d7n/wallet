@@ -1,1 +1,1 @@
-var mnemonic = "oyster battle firm garlic mixture episode dove wash rhythm industry second century";
+var mnemonic = "keep spray hammer stuff gossip already huge dry minor witness hockey ordinary";

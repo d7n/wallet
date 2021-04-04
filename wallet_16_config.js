@@ -1,1 +1,1 @@
-var mnemonic = "exist sentence kind cargo voyage health example sauce observe example retreat trial";
+var mnemonic = "dad swim bullet female frog sorry roast view chat hair purity oil";

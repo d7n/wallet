@@ -1,1 +1,1 @@
-var mnemonic = "flip truth stuff edge obscure belt mimic saddle welcome smile habit senior";
+var mnemonic = "cake horror useful all brass cage tube uncover power concert skill clutch";

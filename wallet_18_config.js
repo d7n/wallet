@@ -1,1 +1,1 @@
-var mnemonic = "dwarf act buyer lucky tray art antenna maid result miracle squirrel place";
+var mnemonic = "around idle april afraid dice subway soon fold uncover rack hotel eight";

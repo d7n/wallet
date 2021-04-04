@@ -1,1 +1,1 @@
-var mnemonic = "body sample evil helmet leaf oppose cute consider crater ramp predict disease";
+var mnemonic = "evoke prefer juice wealth lottery submit benefit pistol offer royal century lava";

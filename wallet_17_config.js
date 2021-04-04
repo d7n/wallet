@@ -1,1 +1,1 @@
-var mnemonic = "force much cat wolf stove airport predict drastic leaf fire food improve";
+var mnemonic = "boy limb idle nuclear crack couch access lonely bone process crater oven";

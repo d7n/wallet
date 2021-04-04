@@ -1,1 +1,1 @@
-var mnemonic = "child green shy dignity ask give barrel curve circle flag bubble dad";
+var mnemonic = "danger bag fame program exact bid spin please obscure permit eight truck";

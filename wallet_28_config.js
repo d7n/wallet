@@ -1,1 +1,1 @@
-var mnemonic = "gold easily dose episode pepper borrow urban valley disorder country early trip";
+var mnemonic = "hen social shoulder six expose wheel opera narrow physical alley toward neck";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar rebuild iron cry cage virus ecology traffic bring wish eyebrow autumn";
+var mnemonic = "fine chuckle sunset feed feed comic network peasant side labor assist divide";

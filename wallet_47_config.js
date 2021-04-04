@@ -1,1 +1,1 @@
-var mnemonic = "student hurdle immense opinion stereo pole play rail person wagon shaft warrior";
+var mnemonic = "display double buffalo memory elephant expire lazy awful output favorite select suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "powder hawk yard grace foil repeat nature guess manual subject news pair";
+var mnemonic = "habit differ dose afford number soldier advice wisdom box fragile install shadow";

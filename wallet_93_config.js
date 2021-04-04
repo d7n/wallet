@@ -1,1 +1,1 @@
-var mnemonic = "neglect blush attitude acid recall put lake brush amateur manual pet project";
+var mnemonic = "music steel air conduct mask inject afford question wear evidence gold october";

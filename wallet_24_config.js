@@ -1,1 +1,1 @@
-var mnemonic = "exhibit logic feed lucky describe another excess property glory wheel letter ugly";
+var mnemonic = "dish strong main vast focus palm style chuckle wolf ankle kite tank";

@@ -1,1 +1,1 @@
-var mnemonic = "giant explain pig raven they hawk engage boost drip object furnace bubble";
+var mnemonic = "glimpse suspect stable project tube truly between neutral assault current huge draw";

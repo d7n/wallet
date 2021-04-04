@@ -1,1 +1,1 @@
-var mnemonic = "spider that fitness decline prison venture absurd isolate sausage heavy mandate friend";
+var mnemonic = "doctor river gauge leader hand weather proof truck stove actual gauge trip";

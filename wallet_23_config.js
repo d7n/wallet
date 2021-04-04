@@ -1,1 +1,1 @@
-var mnemonic = "travel own able square captain city pond soap despair duck alert until";
+var mnemonic = "piece private october egg cloud mom lawn pink spare health fall since";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion immune random hire emerge crunch olympic twin start spider wrist open";
+var mnemonic = "shop can pyramid rally one write airport age play coil pen mule";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin tank link ozone enter hobby scatter offer gentle jacket like minute";
+var mnemonic = "weather series common mom strike myself catch monitor palace social affair always";

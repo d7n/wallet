@@ -1,1 +1,1 @@
-var mnemonic = "effort shoot around cake december boat hospital equip bean sketch satoshi release";
+var mnemonic = "unaware dolphin dignity plastic fine yard apple midnight tomato minor wage shock";

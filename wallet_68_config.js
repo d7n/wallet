@@ -1,1 +1,1 @@
-var mnemonic = "inside blush vault prison company flip door observe tribe tomato guard prefer";
+var mnemonic = "above cart pole hamster sign degree situate suspect leopard dice occur hill";

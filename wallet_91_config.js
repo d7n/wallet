@@ -1,1 +1,1 @@
-var mnemonic = "pledge attack include maze giraffe stadium asset coast another season develop brick";
+var mnemonic = "father cram sauce cross tunnel absorb spirit velvet erosion business obey swear";

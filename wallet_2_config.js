@@ -1,1 +1,1 @@
-var mnemonic = "flavor glad nuclear myself like unknown parade rice since giraffe scene lens";
+var mnemonic = "during identify noise lumber tribe turn stereo cross happy patch unusual public";

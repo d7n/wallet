@@ -1,1 +1,1 @@
-var mnemonic = "little poet skill tackle amused enjoy dinner victory topple insect infant acid";
+var mnemonic = "olive calm robust exclude unknown shiver sweet guilt virtual skirt walnut delay";

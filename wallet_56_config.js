@@ -1,1 +1,1 @@
-var mnemonic = "figure deer primary donate vault noise north viable mule tide load snack";
+var mnemonic = "angry egg impulse reduce isolate urban bicycle indicate chaos brick stem parade";

@@ -1,1 +1,1 @@
-var mnemonic = "season enact half web grid during budget interest culture doctor opinion thumb";
+var mnemonic = "accident sauce sword pass earth custom camp negative chalk edit history imitate";

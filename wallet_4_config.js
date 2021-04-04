@@ -1,1 +1,1 @@
-var mnemonic = "glory asset cute napkin monster curve group slab spice law average tourist";
+var mnemonic = "riot warrior must velvet toss account lava decline loyal upon tourist clerk";

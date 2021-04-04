@@ -1,1 +1,1 @@
-var mnemonic = "chat vacuum fury layer reform liquid fantasy plug eight keen ribbon fitness";
+var mnemonic = "adapt tray slender cloth perfect you act body nurse bargain feel depth";

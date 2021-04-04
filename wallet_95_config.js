@@ -1,1 +1,1 @@
-var mnemonic = "sure truly diesel donkey subject velvet among coyote early member escape destroy";
+var mnemonic = "seed coil auction lobster hole spot repeat beach chief slim service math";

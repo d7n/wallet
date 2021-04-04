@@ -1,1 +1,1 @@
-var mnemonic = "bike sunny radar south castle glass injury actress speed mechanic fossil alarm";
+var mnemonic = "pencil syrup embody habit already favorite column brick report pencil oxygen outdoor";

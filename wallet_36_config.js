@@ -1,1 +1,1 @@
-var mnemonic = "bonus used human theory cement slender home flock destroy april extra cloth";
+var mnemonic = "always opera crane great method burden raw cute bundle regular choice fame";

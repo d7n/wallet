@@ -1,1 +1,1 @@
-var mnemonic = "earn crouch horror palace great strong attack famous safe erosion assist midnight";
+var mnemonic = "gravity screen enrich weasel siege assault flash pause hollow pencil seed suffer";

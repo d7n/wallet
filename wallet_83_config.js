@@ -1,1 +1,1 @@
-var mnemonic = "devote pluck sketch major hundred manage wear muscle demise venue panel slice";
+var mnemonic = "salmon essay peasant they love random comfort clarify town sauce prefer shield";

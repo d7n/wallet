@@ -1,1 +1,1 @@
-var mnemonic = "fetch because spring clutch flag remember team quality casual duck dream raw";
+var mnemonic = "measure soccer people alert soft vacuum remind thought attract glimpse wrap wait";

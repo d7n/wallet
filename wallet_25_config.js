@@ -1,1 +1,1 @@
-var mnemonic = "casual choice host person toy teach force want top cement blue shed";
+var mnemonic = "movie defense fiscal jump decline senior interest security panther joy limit opinion";

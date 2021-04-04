@@ -1,1 +1,1 @@
-var mnemonic = "obvious soda purpose position slow cost umbrella two spatial kidney orchard annual";
+var mnemonic = "decide news only rent echo exotic globe picnic fall quiz have police";

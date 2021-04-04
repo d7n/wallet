@@ -1,1 +1,1 @@
-var mnemonic = "sketch slam saddle eight breeze essence loop main expose parent winner offer";
+var mnemonic = "sentence lend brand surface month surge similar lady jeans response sweet jewel";

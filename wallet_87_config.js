@@ -1,1 +1,1 @@
-var mnemonic = "blouse drastic salute blame flock obtain orient expect usage humor deposit marriage";
+var mnemonic = "start hair barely hill visual police uphold achieve album meat appear inch";

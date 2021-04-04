@@ -1,1 +1,1 @@
-var mnemonic = "obey flavor weather toe wool dynamic fault lion figure video royal innocent";
+var mnemonic = "salad tennis mansion feed false ill stuff type wife super bracket tobacco";
