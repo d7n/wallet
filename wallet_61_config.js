@@ -1,1 +1,1 @@
-var mnemonic = "album kiwi vacant scissors inherit canyon march panther firm violin odor right";
+var mnemonic = "thought dirt unfair spend divide option early rally insect history faith sort";

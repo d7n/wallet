@@ -1,1 +1,1 @@
-var mnemonic = "bless swarm gaze elevator embark define club digital skill again way stick";
+var mnemonic = "equip shell two novel space inch inject wear mixture candy fence dish";

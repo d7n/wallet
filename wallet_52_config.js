@@ -1,1 +1,1 @@
-var mnemonic = "egg boss embark spare energy shiver much prefer denial trial lizard shell";
+var mnemonic = "fox laundry measure finger praise crop employ loan nephew family game please";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure rabbit access you aware brain walk extend diet fence remember frame";
+var mnemonic = "awkward job above divorce brown simple bitter awful vacant obscure you electric";

@@ -1,1 +1,1 @@
-var mnemonic = "core utility token sustain negative mention merry funny earn corn busy chef";
+var mnemonic = "lyrics quantum example gaze athlete design ketchup spin angry poverty fantasy country";

@@ -1,1 +1,1 @@
-var mnemonic = "awful border atom thing ozone awake shoe labor weasel column column suggest";
+var mnemonic = "supply limb weekend skull amateur sting conduct seven february arrow fresh amused";

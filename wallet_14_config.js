@@ -1,1 +1,1 @@
-var mnemonic = "harbor hold visual grow atom change power huge flat better horn swim";
+var mnemonic = "enter huge virus lazy side reason leg push record sunset insane slush";

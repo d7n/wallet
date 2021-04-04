@@ -1,1 +1,1 @@
-var mnemonic = "noble dust biology awesome original rather dash congress riot wire friend disease";
+var mnemonic = "script flip better receive tuition addict fun mom tree absent sustain clean";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon light climb motion add slogan theme umbrella vocal cute brisk universe";
+var mnemonic = "angry stay life embark tortoise stairs evidence prevent sea paper drill kind";

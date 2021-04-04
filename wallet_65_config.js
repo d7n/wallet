@@ -1,1 +1,1 @@
-var mnemonic = "viable bench dish camera topple two despair scene devote worry humor crater";
+var mnemonic = "length injury limit frequent eagle average print hotel hand slide paddle disease";

@@ -1,1 +1,1 @@
-var mnemonic = "oval chef obscure nest timber logic pupil frost harsh pull snap oblige";
+var mnemonic = "romance fringe sail siege spot month sick clog sock palace gain join";

@@ -1,1 +1,1 @@
-var mnemonic = "road yard october bronze yellow excite manage like banner chicken tongue little";
+var mnemonic = "inherit silver luggage gauge fetch civil black urge general hill layer term";

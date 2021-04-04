@@ -1,1 +1,1 @@
-var mnemonic = "entire alley link cry front nut blossom spy cup army cupboard opinion";
+var mnemonic = "mass any must broom attack gasp waste alarm jazz hunt glass slab";

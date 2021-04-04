@@ -1,1 +1,1 @@
-var mnemonic = "boy tiger license ski time iron help consider season bright trick dinner";
+var mnemonic = "amazing jump impact hamster convince company hazard enough reward filter session awake";

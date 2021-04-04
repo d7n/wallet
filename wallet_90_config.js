@@ -1,1 +1,1 @@
-var mnemonic = "secret glow notice amateur lady armor youth work muffin sphere cement tired";
+var mnemonic = "sign young shove siege awful entire radio ancient weather tone salmon cycle";

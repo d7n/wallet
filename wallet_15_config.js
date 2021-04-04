@@ -1,1 +1,1 @@
-var mnemonic = "dish obvious pencil uniform tuition lift brisk heart bleak ritual excite icon";
+var mnemonic = "defense perfect build body quick there tired village crunch merit assume zebra";

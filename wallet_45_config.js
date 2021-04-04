@@ -1,1 +1,1 @@
-var mnemonic = "pilot remain follow typical relax inmate dad rough next pitch subject parrot";
+var mnemonic = "lottery collect axis eternal improve source caution cricket faint fish arch arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch remove place there settle urge begin maple iron mandate abstract awful";
+var mnemonic = "auto damage area mammal action axis tool rotate electric tobacco knee obey";

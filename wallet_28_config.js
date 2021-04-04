@@ -1,1 +1,1 @@
-var mnemonic = "laptop obscure drastic circle sail embark horror twice write myth pioneer coyote";
+var mnemonic = "also solar alcohol blast scout habit lottery theory punch this vivid excess";

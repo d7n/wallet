@@ -1,1 +1,1 @@
-var mnemonic = "claw toy poverty major witness ivory recycle crawl vacuum alert slam scatter";
+var mnemonic = "first assist prison faint spend judge rescue cat stadium radar amused spend";

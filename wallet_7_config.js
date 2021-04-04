@@ -1,1 +1,1 @@
-var mnemonic = "master fluid announce beauty present crew worry empty cabin eternal antenna because";
+var mnemonic = "view oxygen fantasy rally phone moral debris twist this video jewel utility";

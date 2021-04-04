@@ -1,1 +1,1 @@
-var mnemonic = "depth october unlock type canal wrong never leopard better expand express under";
+var mnemonic = "apart endorse initial harsh predict feed recall exist enroll permit burst basket";

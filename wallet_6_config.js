@@ -1,1 +1,1 @@
-var mnemonic = "devote ensure image stick sniff steak hurdle number crawl unlock permit best";
+var mnemonic = "health direct surface kiss bonus appear inside item rural young wine pear";

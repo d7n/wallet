@@ -1,1 +1,1 @@
-var mnemonic = "gain unit tackle they elder current public because number fabric scrub shaft";
+var mnemonic = "front supply cake bullet doll install food butter know submit rack blossom";

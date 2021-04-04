@@ -1,1 +1,1 @@
-var mnemonic = "wrong guitar fix vacant seven list leaf lucky draw sound wave caution";
+var mnemonic = "absent music input burden truth exhibit champion exile obvious clay attack viable";

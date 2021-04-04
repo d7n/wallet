@@ -1,1 +1,1 @@
-var mnemonic = "era income wool desert black drip smile topic quiz bring plate claim";
+var mnemonic = "they carry brush describe scissors live kiss bubble ribbon fat task frost";

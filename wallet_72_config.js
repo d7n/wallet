@@ -1,1 +1,1 @@
-var mnemonic = "melody blame edit decade core dose inner glide brick wolf ostrich proof";
+var mnemonic = "fuel input already purpose begin message confirm tornado kind head top talk";

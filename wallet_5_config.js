@@ -1,1 +1,1 @@
-var mnemonic = "supply rule hub lizard adapt imitate drip object tissue tank tourist tower";
+var mnemonic = "myself group ten minor arrest innocent decade mansion mountain salmon rug dune";

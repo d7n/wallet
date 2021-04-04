@@ -1,1 +1,1 @@
-var mnemonic = "wood season speed great tower dinner push salmon neglect ladder reject pigeon";
+var mnemonic = "strong tenant strategy buyer strategy play mixture exact envelope purchase eyebrow orphan";

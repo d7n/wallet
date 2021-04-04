@@ -1,1 +1,1 @@
-var mnemonic = "shiver subway medal pretty upset diamond garden fluid about humble chunk fame";
+var mnemonic = "rely clean gift snow deliver cigar brother eager horror budget vocal waste";

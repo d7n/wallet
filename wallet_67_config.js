@@ -1,1 +1,1 @@
-var mnemonic = "enter chimney stable flip confirm novel pitch legend flag army alarm coconut";
+var mnemonic = "now oil oak sick believe series alert tent borrow slam mean spare";

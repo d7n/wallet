@@ -1,1 +1,1 @@
-var mnemonic = "shock faith hammer surface innocent vacuum survey good piece pass mean brown";
+var mnemonic = "join sound split express rule near clump release account flight horror luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar pluck sell machine promote door nice gold drip shoot frown broken";
+var mnemonic = "crisp kingdom sustain fence female famous behind degree legend mesh spoil cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "interest rebel garlic assume cushion remove cricket capital sunny result choice team";
+var mnemonic = "wasp fragile undo poem ball waste decade aunt alarm version matter wrap";

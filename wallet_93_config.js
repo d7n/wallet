@@ -1,1 +1,1 @@
-var mnemonic = "session ancient verb basket wheel leisure trim night merry cute decide adjust";
+var mnemonic = "kiss task milk acoustic prize clump jewel want weasel cart betray proof";

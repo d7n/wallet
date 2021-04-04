@@ -1,1 +1,1 @@
-var mnemonic = "betray travel rule flower cactus doll busy gasp mouse slice chimney nest";
+var mnemonic = "always december pumpkin trust broccoli turtle snake typical frog banana club festival";

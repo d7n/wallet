@@ -1,1 +1,1 @@
-var mnemonic = "syrup market account give crunch team capital mention push visit hedgehog hint";
+var mnemonic = "blast capable favorite region pen palace uphold anchor lawsuit pride exist today";

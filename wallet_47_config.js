@@ -1,1 +1,1 @@
-var mnemonic = "ozone seat appear horse consider nature collect divert fitness crumble monster lamp";
+var mnemonic = "utility hello orange february dawn chest camera air topic window jar sudden";

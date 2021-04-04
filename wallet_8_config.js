@@ -1,1 +1,1 @@
-var mnemonic = "ladder trouble vehicle inhale record grief subway upset ask wolf loan sphere";
+var mnemonic = "decade limit write lake enough catalog wrap top slender weasel layer other";

@@ -1,1 +1,1 @@
-var mnemonic = "now shine gold come era mirror always mask tool flash town explain";
+var mnemonic = "east monster icon leave globe demand burst gown fiction wise decorate today";

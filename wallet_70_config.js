@@ -1,1 +1,1 @@
-var mnemonic = "twelve hybrid churn purchase luggage rapid rough sure zebra visit scissors scrap";
+var mnemonic = "above dilemma evil denial wild blade resist purse oven critic early loud";

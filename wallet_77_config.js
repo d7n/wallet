@@ -1,1 +1,1 @@
-var mnemonic = "borrow vacant repeat vehicle author knife asset ring hill donate sauce shiver";
+var mnemonic = "oyster mail bicycle antenna swear seed patch ugly defense gather dish raven";

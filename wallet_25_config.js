@@ -1,1 +1,1 @@
-var mnemonic = "pencil swim vague gown bleak resource immense provide spatial history travel delay";
+var mnemonic = "general deny speed please napkin wave vocal hawk split refuse armor marble";

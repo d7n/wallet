@@ -1,1 +1,1 @@
-var mnemonic = "tackle city patient correct jungle nut crawl office drift excite steel wink";
+var mnemonic = "menu vehicle play october sign crater recycle select swear bean cream hill";

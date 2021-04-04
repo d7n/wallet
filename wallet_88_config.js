@@ -1,1 +1,1 @@
-var mnemonic = "exhaust above exist area shed opera bubble beauty beef crazy orange raccoon";
+var mnemonic = "strike fine avocado decline stable wrestle glare type edit flush web attract";

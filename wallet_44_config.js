@@ -1,1 +1,1 @@
-var mnemonic = "they clay slender total time sign boss alone void kangaroo panel broken";
+var mnemonic = "ginger fuel toilet cabbage apple famous shadow stool steel solve remain globe";

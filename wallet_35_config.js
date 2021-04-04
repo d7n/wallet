@@ -1,1 +1,1 @@
-var mnemonic = "few water squeeze spy hobby home fiction cute brisk ability scare dad";
+var mnemonic = "film polar dutch skin nerve tag document timber input memory stereo describe";

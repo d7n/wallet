@@ -1,1 +1,1 @@
-var mnemonic = "comic fine benefit walk ten sheriff glare message aerobic board whip wink";
+var mnemonic = "modify carpet february order update access addict satisfy pause pause outer salmon";

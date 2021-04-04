@@ -1,1 +1,1 @@
-var mnemonic = "crater pluck never damage gloom begin acoustic emotion jaguar absurd night top";
+var mnemonic = "present trial surface youth trend require embrace tooth trap change armor cactus";

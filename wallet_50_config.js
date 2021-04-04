@@ -1,1 +1,1 @@
-var mnemonic = "gauge typical welcome uncle leisure custom enjoy coral peasant clock wisdom toilet";
+var mnemonic = "emerge exhaust joy patch number suit anxiety mule engine flash culture tag";

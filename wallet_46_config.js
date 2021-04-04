@@ -1,1 +1,1 @@
-var mnemonic = "all aisle wall obscure assume ginger mammal sight certain obscure actual rather";
+var mnemonic = "next smoke income play short mobile faint equal hedgehog laundry world help";

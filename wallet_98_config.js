@@ -1,1 +1,1 @@
-var mnemonic = "lock hundred arm vault clip yard busy object brick miss base snow";
+var mnemonic = "vault kangaroo begin fringe danger pave window gauge wrap wall syrup stem";

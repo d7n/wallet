@@ -1,1 +1,1 @@
-var mnemonic = "giant school around occur essence dinosaur program hill people board sweet inner";
+var mnemonic = "body slam slot exhibit ramp bag piano plate antenna wave yellow claw";

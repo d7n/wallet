@@ -1,1 +1,1 @@
-var mnemonic = "illegal uphold trophy client horn neither unhappy differ culture shop two odor";
+var mnemonic = "neck protect barrel kitten home wink concert hold immune improve violin style";

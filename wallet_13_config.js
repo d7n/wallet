@@ -1,1 +1,1 @@
-var mnemonic = "aunt attitude demand elbow visual art polar resource civil spice twist ball";
+var mnemonic = "stem hard boss nasty stomach cat agent cannon champion reflect wisdom confirm";

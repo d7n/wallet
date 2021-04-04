@@ -1,1 +1,1 @@
-var mnemonic = "average cruel crisp glare crumble prefer need blouse alcohol harbor maximum midnight";
+var mnemonic = "wagon engine cross latin debate arrest art basket present defy dentist horse";

@@ -1,1 +1,1 @@
-var mnemonic = "day myself layer famous upgrade affair blast shaft someone wet track actor";
+var mnemonic = "image check category risk crawl south planet page cotton rival public dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "agent boss story sponsor update left butter ready garbage attack write guard";
+var mnemonic = "volume fame moral whip layer adult earth category despair crisp room honey";

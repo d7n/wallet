@@ -1,1 +1,1 @@
-var mnemonic = "virus wisdom attract faculty dust virus annual glory genius forum boat marine";
+var mnemonic = "deliver skirt rookie mixture pencil add series stove outer fashion balcony budget";

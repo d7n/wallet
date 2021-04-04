@@ -1,1 +1,1 @@
-var mnemonic = "alley mesh ugly basic sun page discover solid stuff unable oven wood";
+var mnemonic = "squirrel forum super banana peace chunk tongue shuffle reduce radar test bicycle";

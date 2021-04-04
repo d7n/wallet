@@ -1,1 +1,1 @@
-var mnemonic = "foster improve flash sweet fresh thrive change street rebel foster tired glide";
+var mnemonic = "about roast wrap rice shell off tone brief behind cruel adjust phrase";

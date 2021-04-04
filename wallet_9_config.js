@@ -1,1 +1,1 @@
-var mnemonic = "file size hard never ignore pool yard erosion electric element timber pole";
+var mnemonic = "dignity maid detect oyster put prosper rebel powder lens wreck cycle any";

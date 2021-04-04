@@ -1,1 +1,1 @@
-var mnemonic = "friend mom clean music captain frame charge dream because rebel mask bunker";
+var mnemonic = "north sample dawn fluid nerve toilet census swear torch april assume garment";

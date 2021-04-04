@@ -1,1 +1,1 @@
-var mnemonic = "exotic resemble general winner dignity sister tumble cargo private together vocal version";
+var mnemonic = "indicate next decide match program million rug grass drink picnic employ mule";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow vessel amused label million spare improve position hidden prison width address";
+var mnemonic = "grunt smile record panther night mosquito island frog announce head essence fiction";

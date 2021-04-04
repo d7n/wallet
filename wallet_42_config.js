@@ -1,1 +1,1 @@
-var mnemonic = "bomb butter token puzzle smile flock melt lucky next welcome toast tree";
+var mnemonic = "boost behind barrel drum nature vibrant ridge evoke history enact guard floor";

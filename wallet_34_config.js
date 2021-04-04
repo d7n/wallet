@@ -1,1 +1,1 @@
-var mnemonic = "veteran test girl sphere illegal tomato century prevent basket crack grocery master";
+var mnemonic = "vocal cream stove calm trend pole noodle explain learn mom phrase execute";

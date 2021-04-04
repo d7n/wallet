@@ -1,1 +1,1 @@
-var mnemonic = "grape leg hamster company find step favorite useful person kit regular drastic";
+var mnemonic = "series harbor toss three glimpse extend skin loan gain flee already patch";

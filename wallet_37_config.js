@@ -1,1 +1,1 @@
-var mnemonic = "food ginger seat infant below only swift jealous edit panel draw tip";
+var mnemonic = "ring type organ mouse allow wheel require window absent adjust source hamster";

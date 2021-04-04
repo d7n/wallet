@@ -1,1 +1,1 @@
-var mnemonic = "cream second coffee lake baby grain rabbit urban rack good hen stadium";
+var mnemonic = "hammer hollow upset practice peanut fun jelly element draft tell mystery lamp";

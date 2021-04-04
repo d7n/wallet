@@ -1,1 +1,1 @@
-var mnemonic = "nose bulk battle trim lion vocal round suspect solid sting knife erode";
+var mnemonic = "decade random demise squeeze walk security truth asthma van mountain habit portion";

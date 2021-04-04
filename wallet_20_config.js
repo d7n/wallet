@@ -1,1 +1,1 @@
-var mnemonic = "method work island orbit fence fat mass chapter raw cactus evolve patrol";
+var mnemonic = "senior stand regret barrel service machine wire flat inside puzzle review festival";

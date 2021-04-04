@@ -1,1 +1,1 @@
-var mnemonic = "ordinary attend bomb material edge shove advance usual impose route close motion";
+var mnemonic = "cage shop sleep labor pride buffalo outside oxygen ordinary lift degree square";

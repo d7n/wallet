@@ -1,1 +1,1 @@
-var mnemonic = "logic police nothing impact office miracle call syrup motor expand dune canal";
+var mnemonic = "earth glow daughter cushion job minor resemble salon edit cream cost piano";

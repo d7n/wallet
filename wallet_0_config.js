@@ -1,1 +1,1 @@
-var mnemonic = "genius pony language wrong engage liquid school gasp cliff napkin cluster forget";
+var mnemonic = "culture suspect marine rib control pluck sort lunch whale toddler around memory";

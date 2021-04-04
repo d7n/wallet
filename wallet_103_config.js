@@ -1,1 +1,1 @@
-var mnemonic = "enter surprise lake sniff pudding floor marriage cart bind remain top meat";
+var mnemonic = "drop champion hat monitor inmate member retreat face where chronic before version";

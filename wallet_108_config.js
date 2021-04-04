@@ -1,1 +1,1 @@
-var mnemonic = "guilt delay retire outer iron require science report genius kind chef knife";
+var mnemonic = "pelican combine short vocal purse you trade december ivory trend pull robot";

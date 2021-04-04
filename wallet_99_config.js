@@ -1,1 +1,1 @@
-var mnemonic = "stove favorite share certain wave horse raccoon govern path small ethics leopard";
+var mnemonic = "task sibling special tent grape wage stamp dance coil surprise another satoshi";

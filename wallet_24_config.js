@@ -1,1 +1,1 @@
-var mnemonic = "borrow cash blood fork miss term seven slot moment vendor park father";
+var mnemonic = "universe wage urban blossom doll beyond brother thing anxiety pattern beach blush";

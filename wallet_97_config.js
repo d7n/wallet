@@ -1,1 +1,1 @@
-var mnemonic = "valley door jacket then legend cushion culture tourist soft then trap require";
+var mnemonic = "input endorse cash album beef yellow walnut cook sugar trash inherit blouse";

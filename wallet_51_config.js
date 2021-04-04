@@ -1,1 +1,1 @@
-var mnemonic = "sunset refuse only limb dove candy weasel chunk receive head hundred example";
+var mnemonic = "liquid swallow way alert vessel vast learn come birth lounge unlock motor";

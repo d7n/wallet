@@ -1,1 +1,1 @@
-var mnemonic = "hidden slender prize pipe uncover forget blue rescue time embody hover memory";
+var mnemonic = "narrow because wine veteran mail party estate outside client addict worry fortune";

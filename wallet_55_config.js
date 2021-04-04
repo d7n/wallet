@@ -1,1 +1,1 @@
-var mnemonic = "skin carbon cannon dove puzzle bamboo increase try best ability snake skill";
+var mnemonic = "mean body rifle raw release layer unknown leaf gravity vault chase foster";

@@ -1,1 +1,1 @@
-var mnemonic = "better rival write six link hunt gate student eternal quick pave alcohol";
+var mnemonic = "lava rival flock draw inch various coil acquire crater blast keep trick";

@@ -1,1 +1,1 @@
-var mnemonic = "excite canvas struggle term scatter dragon soda marble noble deny raise dial";
+var mnemonic = "crack range umbrella dawn barrel velvet solve educate riot wage jeans song";

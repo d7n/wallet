@@ -1,1 +1,1 @@
-var mnemonic = "flight roast walk answer media sniff kite income denial install orchard unknown";
+var mnemonic = "there giraffe warfare machine nature crisp stamp usage merge top reflect vehicle";

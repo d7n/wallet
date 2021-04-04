@@ -1,1 +1,1 @@
-var mnemonic = "true first marble inch save guide april economy foam caution field together";
+var mnemonic = "change outer stove trash lizard midnight lamp finish task until rubber collect";

@@ -1,1 +1,1 @@
-var mnemonic = "assault steel flip siege nuclear witness thought dress style guitar harsh catch";
+var mnemonic = "anxiety digital diagram length ordinary bean garlic bracket easy taste harbor weather";

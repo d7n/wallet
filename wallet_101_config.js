@@ -1,1 +1,1 @@
-var mnemonic = "bounce banner cinnamon oppose better coral disorder piece width zebra mushroom wine";
+var mnemonic = "mountain grow document man review junk release gloom teach barely offer sail";
