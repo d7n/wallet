@@ -1,1 +1,1 @@
-var mnemonic = "perfect kid kick lion chimney orphan laptop shoulder october crane drastic stick";
+var mnemonic = "ivory endless knee orchard process hurry program grocery ticket snake canyon warrior";

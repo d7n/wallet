@@ -1,1 +1,1 @@
-var mnemonic = "shrug whisper glimpse avocado must good water carry flush talent state honey";
+var mnemonic = "short erode song where ancient face athlete spider famous sort cushion bicycle";

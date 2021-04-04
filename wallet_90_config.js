@@ -1,1 +1,1 @@
-var mnemonic = "anxiety happy song since century picnic hair aspect swing small van web";
+var mnemonic = "any course torch apple cousin wrestle ability keen nasty excuse lobster spoil";

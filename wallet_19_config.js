@@ -1,1 +1,1 @@
-var mnemonic = "ready clinic regular cancel album obscure accident air cheese entire merry build";
+var mnemonic = "bridge motor sting health celery dress rug flat humble theme glove screen";

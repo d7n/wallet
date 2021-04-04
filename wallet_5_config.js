@@ -1,1 +1,1 @@
-var mnemonic = "ticket elegant foam assault stock vacant creek found february auction rack funny";
+var mnemonic = "hurdle frog vault cabbage leaf best original comic ordinary gold budget border";

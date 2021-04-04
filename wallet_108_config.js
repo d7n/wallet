@@ -1,1 +1,1 @@
-var mnemonic = "execute more story symbol upset trade laptop refuse update desert asthma lend";
+var mnemonic = "degree erode reject provide boil climb dolphin veteran cousin album village voice";

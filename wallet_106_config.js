@@ -1,1 +1,1 @@
-var mnemonic = "assist gloom burden curtain brief amazing put depend fold donor force dilemma";
+var mnemonic = "climb night radar end retire task thunder evil script topple sign require";

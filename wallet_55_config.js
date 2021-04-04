@@ -1,1 +1,1 @@
-var mnemonic = "west music saddle image front banana salmon border ozone damage kit lobster";
+var mnemonic = "evoke floor spoil tank hamster endorse near high tissue animal response teach";

@@ -1,1 +1,1 @@
-var mnemonic = "tree doll distance coast artwork word table captain champion mesh sister morning";
+var mnemonic = "pluck pulp turtle anchor luxury crumble insect together crowd demand frown detail";

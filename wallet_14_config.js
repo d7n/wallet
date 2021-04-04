@@ -1,1 +1,1 @@
-var mnemonic = "episode animal drill intact curious allow swarm journey click raccoon result walnut";
+var mnemonic = "pill shed chunk satoshi carbon impose table crystal agree oven sick outdoor";

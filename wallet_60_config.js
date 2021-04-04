@@ -1,1 +1,1 @@
-var mnemonic = "kidney eight melt census atom moon ginger great sword soldier fluid joke";
+var mnemonic = "rural worry punch eyebrow run hunt slam atom eye clinic duty camp";

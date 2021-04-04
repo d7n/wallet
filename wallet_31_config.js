@@ -1,1 +1,1 @@
-var mnemonic = "satoshi cover shell elephant slow anger eagle critic group grocery east dinner";
+var mnemonic = "cause plastic giggle bundle chief report key exclude tissue coast future shaft";

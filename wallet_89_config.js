@@ -1,1 +1,1 @@
-var mnemonic = "lion logic will buyer gown benefit when run assist mandate dish search";
+var mnemonic = "indoor slim off lumber cruise rebel pioneer light chalk civil swift elbow";

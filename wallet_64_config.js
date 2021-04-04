@@ -1,1 +1,1 @@
-var mnemonic = "similar exile over student shock diagram divide trip symbol oval black demand";
+var mnemonic = "often cloud kitten palm radar cause fringe style crumble rhythm subway exclude";

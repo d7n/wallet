@@ -1,1 +1,1 @@
-var mnemonic = "giggle unusual bus erode blue deny insect before better seven say fresh";
+var mnemonic = "banana inform sock leg leisure note use bleak extend resource car desert";

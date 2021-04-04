@@ -1,1 +1,1 @@
-var mnemonic = "surround island give veteran champion kid spatial resemble arrive magic voyage chief";
+var mnemonic = "object night ignore mail bitter cover agent blanket double page doctor now";

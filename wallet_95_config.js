@@ -1,1 +1,1 @@
-var mnemonic = "trap pill estate equip average sausage anger apple rich enemy shove valid";
+var mnemonic = "ice scale whale manual audit little find panda coach say nothing govern";

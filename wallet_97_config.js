@@ -1,1 +1,1 @@
-var mnemonic = "orphan extra mean arrange year prison bulb original oxygen much depth error";
+var mnemonic = "visit duty cricket garlic stay consider step rice write moral marine remove";

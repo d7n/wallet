@@ -1,1 +1,1 @@
-var mnemonic = "clinic increase woman magic thought shuffle kitchen detail ticket viable repair clean";
+var mnemonic = "energy assume citizen observe devote omit truck ladder brush champion library above";

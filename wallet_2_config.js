@@ -1,1 +1,1 @@
-var mnemonic = "vote sorry blue fossil orange real wine snap artefact ethics any borrow";
+var mnemonic = "tomorrow patch extra march island leisure tuna dash jungle scrap anchor wink";

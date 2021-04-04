@@ -1,1 +1,1 @@
-var mnemonic = "evil maid spawn hand thrive lunch cupboard honey about picture picnic riot";
+var mnemonic = "upset jeans whale citizen trigger pave deliver anger inflict artwork more horror";

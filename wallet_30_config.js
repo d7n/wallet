@@ -1,1 +1,1 @@
-var mnemonic = "just shop near mule stay diesel frown gasp bone best polar stable";
+var mnemonic = "carpet walnut submit stable punch merry catalog reduce bone pause girl ghost";

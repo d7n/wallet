@@ -1,1 +1,1 @@
-var mnemonic = "quote legal town chronic museum portion voice ring sure trust gadget test";
+var mnemonic = "aspect mobile wisdom genius humor smile obtain video conduct spy hat surface";

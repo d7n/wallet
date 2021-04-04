@@ -1,1 +1,1 @@
-var mnemonic = "athlete company acoustic ship science among confirm behave bounce century help spray";
+var mnemonic = "foam nephew bargain brass tip always cluster example turkey sniff home gun";

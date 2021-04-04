@@ -1,1 +1,1 @@
-var mnemonic = "reject letter usual thumb wolf blood purse any envelope eight multiply cliff";
+var mnemonic = "air begin blast cool rather pear dog genre embody school mixture thing";

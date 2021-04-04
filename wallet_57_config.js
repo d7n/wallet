@@ -1,1 +1,1 @@
-var mnemonic = "blanket drum region parrot enough oval limb cage inhale erode trust moment";
+var mnemonic = "daughter body length welcome easy link income man attack price nut hat";

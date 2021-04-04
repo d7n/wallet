@@ -1,1 +1,1 @@
-var mnemonic = "hybrid teach strategy friend legal element symptom abandon tennis light face ocean";
+var mnemonic = "catch pair frost physical path shrug cycle usual occur devote soldier fringe";

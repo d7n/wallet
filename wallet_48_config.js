@@ -1,1 +1,1 @@
-var mnemonic = "village cover test abuse narrow issue settle west tomato midnight nut hurt";
+var mnemonic = "worth rice certain deny cash joy whip crater dog marriage write high";

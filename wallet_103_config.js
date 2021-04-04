@@ -1,1 +1,1 @@
-var mnemonic = "quarter swift trim prefer decide hybrid elephant ice toilet modify stove donate";
+var mnemonic = "solution switch upper swap short truly input shine rule arm swing mad";

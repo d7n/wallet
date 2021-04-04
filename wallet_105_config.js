@@ -1,1 +1,1 @@
-var mnemonic = "avoid middle cousin dilemma unit profit put bubble appear pledge argue ball";
+var mnemonic = "during soccer chalk patch visit axis trumpet asthma artefact boat frown nominee";

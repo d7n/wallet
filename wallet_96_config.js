@@ -1,1 +1,1 @@
-var mnemonic = "join civil rail wedding lend action mansion daughter exile foot normal patient";
+var mnemonic = "link water garbage utility among naive moral correct famous edge crucial vocal";

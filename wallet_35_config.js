@@ -1,1 +1,1 @@
-var mnemonic = "become name chuckle pottery tube bulb depend vault element sweet business east";
+var mnemonic = "charge symptom crouch into retreat soon radar recall afford meadow public volume";

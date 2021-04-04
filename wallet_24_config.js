@@ -1,1 +1,1 @@
-var mnemonic = "attitude height believe gauge caution spoil welcome heart improve raven swallow steak";
+var mnemonic = "virtual same alien south guilt ticket struggle talk frame hover vicious distance";

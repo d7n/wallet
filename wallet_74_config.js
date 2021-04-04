@@ -1,1 +1,1 @@
-var mnemonic = "today humor buffalo slim fame unable sunny critic surge call rug sad";
+var mnemonic = "adjust light fun clip clown shuffle rubber high amazing square marriage gasp";

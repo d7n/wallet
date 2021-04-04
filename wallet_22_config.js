@@ -1,1 +1,1 @@
-var mnemonic = "fruit alter excite paddle fatal silly rose kiwi fury vehicle glimpse burger";
+var mnemonic = "tower toilet myth hold rotate casual walnut fit fancy version ripple oven";

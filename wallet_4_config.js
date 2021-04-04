@@ -1,1 +1,1 @@
-var mnemonic = "fade cricket sheriff off kiwi service merge brain unable rose office moral";
+var mnemonic = "pulse beyond soul exhibit mass rifle metal sure future gate tuition census";

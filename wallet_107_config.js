@@ -1,1 +1,1 @@
-var mnemonic = "tip nice arctic jacket champion limb obvious crazy gift mix owner fragile";
+var mnemonic = "island million party spoil october basic idea panda current rely power actress";

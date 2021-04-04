@@ -1,1 +1,1 @@
-var mnemonic = "produce lawsuit address gold glue open bomb kingdom good casino lunar cradle";
+var mnemonic = "tongue pledge ready buzz struggle polar expand camera shadow okay paper focus";

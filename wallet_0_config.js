@@ -1,1 +1,1 @@
-var mnemonic = "radio produce maid argue oblige brown copper trouble chimney govern old lend";
+var mnemonic = "flee model board large frost eternal agree artist human again avoid public";

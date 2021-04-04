@@ -1,1 +1,1 @@
-var mnemonic = "decline marble uncle light journey one payment meadow daughter nothing goat urban";
+var mnemonic = "source buffalo wild hobby brick endorse sentence drink fragile horror expand focus";

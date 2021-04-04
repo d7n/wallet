@@ -1,1 +1,1 @@
-var mnemonic = "heavy hurry jacket gaze cute connect leave injury obey humor oil process";
+var mnemonic = "found rail river response fee digital skate hope coach demise bubble injury";

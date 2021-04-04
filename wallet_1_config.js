@@ -1,1 +1,1 @@
-var mnemonic = "frequent seat scan subject obscure regret shuffle parade copper thumb miracle rotate";
+var mnemonic = "orbit saddle glory fit invite pear body ordinary success time cactus install";

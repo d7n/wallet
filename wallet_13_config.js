@@ -1,1 +1,1 @@
-var mnemonic = "mix bargain globe total paddle wisdom hurt remain forward festival arm oval";
+var mnemonic = "two shop void judge expect catch quick sound desert include airport believe";

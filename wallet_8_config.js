@@ -1,1 +1,1 @@
-var mnemonic = "cement review wide purpose iron diesel project used mango athlete nominee ribbon";
+var mnemonic = "barrel maid point accuse success once gym member nest clip arena hub";

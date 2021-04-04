@@ -1,1 +1,1 @@
-var mnemonic = "zero number sample guitar arrest mandate clay term universe saddle dust chaos";
+var mnemonic = "style flip roof faith letter stock letter judge kitten grain enlist dignity";

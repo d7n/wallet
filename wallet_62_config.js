@@ -1,1 +1,1 @@
-var mnemonic = "hollow auction truly month drill audit unaware crystal text three omit either";
+var mnemonic = "response volume cover drum know law curve elder ahead reflect sphere smooth";

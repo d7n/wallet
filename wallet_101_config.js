@@ -1,1 +1,1 @@
-var mnemonic = "menu holiday truth wasp lottery rigid supreme cage nut time wall portion";
+var mnemonic = "piece universe evoke credit resist clean legend melt chaos dry client share";

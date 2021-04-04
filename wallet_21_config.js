@@ -1,1 +1,1 @@
-var mnemonic = "grape soup reflect educate alley wire goddess walnut defense amount lemon chronic";
+var mnemonic = "hurt crystal access artefact grant true march smoke staff deliver draft pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb glory glad grant truth point want auto fence have hurt shy";
+var mnemonic = "crunch ride rebuild gold margin voice donate column spoil volcano tail wood";

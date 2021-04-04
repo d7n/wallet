@@ -1,1 +1,1 @@
-var mnemonic = "sibling indicate grow bar erosion boy cattle into armor wasp essay expire";
+var mnemonic = "begin finish void forest occur dream train shield ball business robust rabbit";

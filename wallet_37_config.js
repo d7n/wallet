@@ -1,1 +1,1 @@
-var mnemonic = "about puppy ritual balcony young mix sample spawn damage census light zero";
+var mnemonic = "dose strong crop swarm wedding kidney volcano puzzle swear wear chief ceiling";

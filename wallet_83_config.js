@@ -1,1 +1,1 @@
-var mnemonic = "fragile loud denial connect angry young exchange toilet puppy eight finger obtain";
+var mnemonic = "defense excuse base fetch degree culture disagree shell country moral excite disease";

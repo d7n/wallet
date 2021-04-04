@@ -1,1 +1,1 @@
-var mnemonic = "black robot east outside wait arm fit sample upgrade wear page glare";
+var mnemonic = "crater remind symptom rose tackle patrol daughter imitate start comfort moment category";

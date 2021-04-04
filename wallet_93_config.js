@@ -1,1 +1,1 @@
-var mnemonic = "target pepper toss smart shallow put order addict trip extend input monster";
+var mnemonic = "repair scrub water erode inhale nerve bitter kiwi attend twelve ready fun";

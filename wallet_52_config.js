@@ -1,1 +1,1 @@
-var mnemonic = "acoustic brave news cliff when remind bird reason small outer year canyon";
+var mnemonic = "measure dial test gown wagon arm aspect provide secret reason try broken";

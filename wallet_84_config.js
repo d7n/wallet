@@ -1,1 +1,1 @@
-var mnemonic = "remind clock quantum mail hundred bless soap fault vault fine drift lottery";
+var mnemonic = "inside potato wrap plunge table autumn motion sign sock dawn similar loop";

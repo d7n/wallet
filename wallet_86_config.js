@@ -1,1 +1,1 @@
-var mnemonic = "slot celery blood patch bar warrior trick hover general hedgehog whip basket";
+var mnemonic = "category now since tiny used egg top voyage pact decade toward alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "mask step rare panther man history reduce rib argue dry adapt chat";
+var mnemonic = "lawsuit hello blush ancient matrix maze ready december fatal crush length confirm";

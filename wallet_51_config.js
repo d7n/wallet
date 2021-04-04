@@ -1,1 +1,1 @@
-var mnemonic = "modify child mistake window habit garment praise color kitchen rely wheel bubble";
+var mnemonic = "ceiling time silly various photo owner bread small grace husband clown someone";

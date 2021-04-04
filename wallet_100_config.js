@@ -1,1 +1,1 @@
-var mnemonic = "job flight hub genre main void defy humor quick middle few dice";
+var mnemonic = "pencil grab media half language mobile antique accuse super dawn volcano until";

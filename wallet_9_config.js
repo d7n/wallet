@@ -1,1 +1,1 @@
-var mnemonic = "first column pistol virtual lawsuit key truck regret buyer immune wagon notable";
+var mnemonic = "lamp resource post brain reveal tide globe exact alarm fiscal gospel battle";

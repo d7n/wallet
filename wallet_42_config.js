@@ -1,1 +1,1 @@
-var mnemonic = "stick flock large december purpose nature reward fitness category multiply husband woman";
+var mnemonic = "delay surprise green snack illness bonus hawk reward front same stage real";

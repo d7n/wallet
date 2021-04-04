@@ -1,1 +1,1 @@
-var mnemonic = "super manual concert cigar cannon kiss estate media ugly funny april lecture";
+var mnemonic = "beach slogan remain false shaft drop happy vanish grape involve syrup trigger";

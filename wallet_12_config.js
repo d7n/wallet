@@ -1,1 +1,1 @@
-var mnemonic = "trumpet motion task harvest disagree stamp fall glad area spirit notice upper";
+var mnemonic = "air eight odor pause auction march observe consider dynamic mandate novel note";

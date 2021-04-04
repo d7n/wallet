@@ -1,1 +1,1 @@
-var mnemonic = "please napkin retreat regular dust ship radio still clap move taxi upper";
+var mnemonic = "club place around obscure power floor puppy come nerve quality body patch";

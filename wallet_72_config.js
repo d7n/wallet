@@ -1,1 +1,1 @@
-var mnemonic = "view omit toilet lion thought evil robot size spread puzzle pattern candy";
+var mnemonic = "must simple electric layer traffic misery armed place describe royal tray corn";

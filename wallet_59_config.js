@@ -1,1 +1,1 @@
-var mnemonic = "tired south food treat balance depend fork demand asthma mammal frame tongue";
+var mnemonic = "toilet squeeze daughter elephant custom point phrase choice fossil soda impulse unusual";

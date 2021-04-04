@@ -1,1 +1,1 @@
-var mnemonic = "exotic appear bright romance annual bundle throw boss pet adjust fury wrestle";
+var mnemonic = "able discover morning moment admit gain action divorce boring energy plastic panel";

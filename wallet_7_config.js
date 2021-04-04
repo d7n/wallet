@@ -1,1 +1,1 @@
-var mnemonic = "priority tomorrow add bright vast possible weird train jaguar air like mask";
+var mnemonic = "noble invest appear fever body upper enroll drive wing repeat method film";

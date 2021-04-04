@@ -1,1 +1,1 @@
-var mnemonic = "maid dawn vast rather rebuild only dismiss refuse vast piece disorder frame";
+var mnemonic = "artwork girl time exclude sadness party extra unknown cliff kiwi excite erase";

@@ -1,1 +1,1 @@
-var mnemonic = "quick always aim salute pipe park debris sick exclude news crash hurry";
+var mnemonic = "elevator ignore song trap diamond pass antique elder trip kitten cool year";

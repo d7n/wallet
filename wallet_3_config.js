@@ -1,1 +1,1 @@
-var mnemonic = "caution update donor will update hollow detect utility daring usual hour rich";
+var mnemonic = "soft eternal loud detect leave error comic tag noise noise zoo decrease";

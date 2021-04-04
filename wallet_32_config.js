@@ -1,1 +1,1 @@
-var mnemonic = "dice coral vicious surge cargo cargo exist paddle special rich orient flip";
+var mnemonic = "toast flush history slow casino churn van hat alarm kitten basket suit";

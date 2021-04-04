@@ -1,1 +1,1 @@
-var mnemonic = "divide cheap spirit arm okay cancel pioneer airport tree fence wisdom gather";
+var mnemonic = "shallow surge veteran nest oil worth deposit riot crash mango want scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "solid slim march slab page salon unhappy matter kick please season cram";
+var mnemonic = "stadium detail onion hidden royal domain matrix symbol employ patch menu gospel";

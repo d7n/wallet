@@ -1,1 +1,1 @@
-var mnemonic = "usual burst captain target salt animal bicycle wool sniff unit filter strike";
+var mnemonic = "marble knock sock begin soccer climb say design calm unable minute field";

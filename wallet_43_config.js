@@ -1,1 +1,1 @@
-var mnemonic = "program piano wreck view snow bid tide soda swap scale ship engage";
+var mnemonic = "tuition nothing art truck time rule recipe sting anchor scene rural climb";

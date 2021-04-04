@@ -1,1 +1,1 @@
-var mnemonic = "until usual toilet leaf image vanish cook soccer name puzzle welcome ask";
+var mnemonic = "salute alert bubble minute awesome punch fall bus sudden display pistol veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle visa oppose catch puzzle taxi beach omit power basket moon icon";
+var mnemonic = "cage moral drama violin galaxy scatter pen gap boil spice garden hood";

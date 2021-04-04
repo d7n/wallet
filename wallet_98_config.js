@@ -1,1 +1,1 @@
-var mnemonic = "manage purity possible rough illegal hospital faith art final speak spy balcony";
+var mnemonic = "umbrella hero usual spy argue gather foil measure spread control bid coffee";

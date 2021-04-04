@@ -1,1 +1,1 @@
-var mnemonic = "barely vessel into basket begin ahead enforce design rate payment zoo reason";
+var mnemonic = "cloth fog ball fetch volcano anxiety escape monitor anxiety ski number host";

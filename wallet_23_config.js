@@ -1,1 +1,1 @@
-var mnemonic = "slam purity broccoli right depend tumble stove ignore model demise powder figure";
+var mnemonic = "leaf category tattoo coast liquid chunk between leopard veteran science april average";

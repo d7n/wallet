@@ -1,1 +1,1 @@
-var mnemonic = "solar spray viable stage banner garden dose glimpse will double vault close";
+var mnemonic = "swift liberty angry target half course clever pink like gospel tomato all";

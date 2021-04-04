@@ -1,1 +1,1 @@
-var mnemonic = "dance marriage piece pool mercy umbrella intact start update menu mountain hub";
+var mnemonic = "palace clap parent special bullet kiss benefit picture beef front ugly relax";

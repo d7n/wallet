@@ -1,1 +1,1 @@
-var mnemonic = "spatial leader frown snake figure cloth grocery protect horn impulse chuckle dwarf";
+var mnemonic = "distance spirit cliff super volume beef tray wonder scissors tiny slam boost";

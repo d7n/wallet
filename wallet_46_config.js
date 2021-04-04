@@ -1,1 +1,1 @@
-var mnemonic = "secret bachelor ship split pink warm bicycle keen trouble clever south kitchen";
+var mnemonic = "jewel bind close slice ring danger lawsuit obey say faint border ripple";

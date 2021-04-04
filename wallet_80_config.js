@@ -1,1 +1,1 @@
-var mnemonic = "weapon sorry roast pen giggle already black hungry father humor wage sure";
+var mnemonic = "harbor plug tooth magnet risk lonely pulse client clip few prevent hire";

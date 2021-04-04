@@ -1,1 +1,1 @@
-var mnemonic = "hidden treat kind laptop pledge case brave bulb slush twenty diamond kitchen";
+var mnemonic = "jealous shrug plastic pond silk gossip grace fork valley asset aim runway";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure ozone paper shaft invite ghost inspire combine raccoon slush metal blast";
+var mnemonic = "symbol help fame honey rough carbon mammal settle evolve spin beyond another";

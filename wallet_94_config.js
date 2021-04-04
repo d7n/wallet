@@ -1,1 +1,1 @@
-var mnemonic = "roof guess debris help rack venture odor club script boat shadow shallow";
+var mnemonic = "matrix casual virtual luxury hen used certain ignore market random giraffe vendor";

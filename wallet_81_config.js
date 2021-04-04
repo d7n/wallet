@@ -1,1 +1,1 @@
-var mnemonic = "pear disagree stage protect barely twice unique nation alarm biology wife start";
+var mnemonic = "twelve copper salad learn state feel donate canal ginger enjoy outside hover";
