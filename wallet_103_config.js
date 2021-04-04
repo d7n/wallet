@@ -1,1 +1,1 @@
-var mnemonic = "output there blood drill year menu repeat curious ethics rude sugar robot";
+var mnemonic = "alpha inspire tragic exclude silly daughter lawn castle galaxy purse engine where";

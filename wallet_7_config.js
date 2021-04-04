@@ -1,1 +1,1 @@
-var mnemonic = "symptom exchange flight notice attend alley rule chair drastic lucky skull tissue";
+var mnemonic = "rookie purity tool assist crystal food tunnel another abstract unfold aunt shock";

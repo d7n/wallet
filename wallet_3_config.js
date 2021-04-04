@@ -1,1 +1,1 @@
-var mnemonic = "earth clog dog come twice pause torch humble retire night kit pair";
+var mnemonic = "foster bubble domain enter pet dust jelly pink evidence dynamic knee gauge";

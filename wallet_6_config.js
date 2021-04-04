@@ -1,1 +1,1 @@
-var mnemonic = "wool stadium ring deputy employ mixed visa gravity spell attitude hawk relax";
+var mnemonic = "dune system hazard spray physical opera absent jealous comic position armed kidney";

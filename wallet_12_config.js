@@ -1,1 +1,1 @@
-var mnemonic = "ceiling review blush pride legal never other enjoy clog jazz annual reunion";
+var mnemonic = "bicycle wine balcony toe alcohol right word alpha trust burger option giant";

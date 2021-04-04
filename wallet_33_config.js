@@ -1,1 +1,1 @@
-var mnemonic = "truly afford pet pelican oxygen vendor news aisle wolf sugar shoot similar";
+var mnemonic = "source industry choose scan sniff subway busy gadget chalk diet mansion fresh";

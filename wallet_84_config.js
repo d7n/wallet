@@ -1,1 +1,1 @@
-var mnemonic = "grant vivid upset inhale build narrow gym sunny skill sniff hint surround";
+var mnemonic = "maximum uphold mechanic wait nurse print pencil put flag trim pioneer soft";

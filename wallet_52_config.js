@@ -1,1 +1,1 @@
-var mnemonic = "detect crouch net old grain hub innocent unknown notice upset begin owner";
+var mnemonic = "wide novel search jaguar struggle burger depart elite tank among sport orange";

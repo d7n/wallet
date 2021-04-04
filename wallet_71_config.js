@@ -1,1 +1,1 @@
-var mnemonic = "august taste jealous between muscle funny share jar buzz blanket night lecture";
+var mnemonic = "assume public train render demand silver pulse gorilla cram sugar column belt";

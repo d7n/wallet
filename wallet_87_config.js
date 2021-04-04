@@ -1,1 +1,1 @@
-var mnemonic = "palace pipe pact tourist collect derive tribe actor belt lounge convince random";
+var mnemonic = "paper kit embrace empty puppy divorce sword grid enrich panda bachelor jazz";

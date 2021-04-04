@@ -1,1 +1,1 @@
-var mnemonic = "must idea mushroom churn deposit avoid admit cotton unveil produce gorilla sand";
+var mnemonic = "wine spring benefit camp once magnet upper drive civil lake ahead candy";

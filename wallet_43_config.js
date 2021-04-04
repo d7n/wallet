@@ -1,1 +1,1 @@
-var mnemonic = "glove gentle lamp pet enough foil split jacket traffic candy lunar foam";
+var mnemonic = "scorpion online afraid exclude situate also elevator bulk shiver fancy adjust throw";

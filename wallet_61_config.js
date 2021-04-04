@@ -1,1 +1,1 @@
-var mnemonic = "load love thrive blood recipe market planet fitness target rotate bring village";
+var mnemonic = "kiwi master any bird photo cloud negative civil spoil liar unknown tail";

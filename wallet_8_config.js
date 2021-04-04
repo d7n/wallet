@@ -1,1 +1,1 @@
-var mnemonic = "ripple simple have account sick sign pattern bicycle iron sure green say";
+var mnemonic = "crystal dirt rebuild dose accuse garage horror vote maid share gather blouse";

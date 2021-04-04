@@ -1,1 +1,1 @@
-var mnemonic = "rack warfare man fetch ripple exercise flock hungry core utility brave elevator";
+var mnemonic = "scale enemy cereal tobacco priority rare diesel bonus caution woman baby firm";

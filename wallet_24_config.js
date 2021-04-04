@@ -1,1 +1,1 @@
-var mnemonic = "cherry unveil next very spirit lemon remain egg stadium begin body peace";
+var mnemonic = "document arch tooth ability swim expect very clever drink confirm world oval";

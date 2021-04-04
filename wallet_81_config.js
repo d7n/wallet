@@ -1,1 +1,1 @@
-var mnemonic = "carry plug benefit aunt lottery room weekend submit art fiscal promote panther";
+var mnemonic = "female neck dwarf spirit animal usage physical usage attack cushion coffee execute";

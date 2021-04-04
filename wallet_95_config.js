@@ -1,1 +1,1 @@
-var mnemonic = "glare spawn peace girl letter cram kangaroo ask salt random cradle famous";
+var mnemonic = "smile venture scissors flat fiber loan weapon duck coyote escape farm never";

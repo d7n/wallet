@@ -1,1 +1,1 @@
-var mnemonic = "census garbage umbrella urban provide bar rotate taxi client one coral device";
+var mnemonic = "final goat gas clinic fitness avocado eagle cover blush soldier spirit vehicle";

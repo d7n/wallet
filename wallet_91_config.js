@@ -1,1 +1,1 @@
-var mnemonic = "false orange enable chair nurse truth inside staff coconut flush garment nominee";
+var mnemonic = "mail museum despair close soup rack spider upper increase melody fossil verb";

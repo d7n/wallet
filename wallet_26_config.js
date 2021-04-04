@@ -1,1 +1,1 @@
-var mnemonic = "trumpet soda local loan lounge soccer elevator noise cry abstract muffin tuna";
+var mnemonic = "sentence honey grid caution man brief result inmate voyage board door cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "will pole wonder enact affair deal magic oil copper notice involve solar";
+var mnemonic = "appear silver argue mimic marriage cousin patrol festival artefact chest soft elite";

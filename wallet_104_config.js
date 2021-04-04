@@ -1,1 +1,1 @@
-var mnemonic = "nation leisure milk lucky keep member advance chat crew pact below job";
+var mnemonic = "guess obey disorder craft sheriff inside exercise lounge farm another strong range";

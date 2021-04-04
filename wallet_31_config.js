@@ -1,1 +1,1 @@
-var mnemonic = "across track property echo manual note clock above blame phone dawn bicycle";
+var mnemonic = "forward method this urge farm gain poem blossom abstract enlist snack fold";

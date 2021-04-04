@@ -1,1 +1,1 @@
-var mnemonic = "coil balcony bring fat forward catalog pink police bleak hungry strategy organ";
+var mnemonic = "public pill waste spell slight food lemon dolphin slam program powder broccoli";

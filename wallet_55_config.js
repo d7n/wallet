@@ -1,1 +1,1 @@
-var mnemonic = "diagram recycle soup stone erosion unfold quiz vicious very hospital save shine";
+var mnemonic = "long scheme strike boy insect chronic pulse vintage parent hundred sock again";

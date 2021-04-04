@@ -1,1 +1,1 @@
-var mnemonic = "craft lake vendor mean stadium gauge duck gospel enemy believe recycle curtain";
+var mnemonic = "peace era simple genius slow always ensure oxygen where rail zoo child";

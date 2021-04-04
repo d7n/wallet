@@ -1,1 +1,1 @@
-var mnemonic = "cross absent matrix deer solid pride face forest cage special check mother";
+var mnemonic = "romance have ride federal like twin tiger wage comic either initial mammal";

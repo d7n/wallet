@@ -1,1 +1,1 @@
-var mnemonic = "skirt dynamic analyst orange powder empower truck stem unveil behave rhythm logic";
+var mnemonic = "disagree wish exchange vicious globe whale program hand mechanic parent method dizzy";

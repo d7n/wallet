@@ -1,1 +1,1 @@
-var mnemonic = "install dwarf expire drastic lens rival birth negative harbor more expect nut";
+var mnemonic = "scrap fossil garbage involve divorce bridge person nothing tree window square secret";

@@ -1,1 +1,1 @@
-var mnemonic = "nice desert fish prison reason rent tell veteran title hurry merry army";
+var mnemonic = "gravity easy east shine merge husband mandate depend village waste joke envelope";

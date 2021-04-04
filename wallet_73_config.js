@@ -1,1 +1,1 @@
-var mnemonic = "buffalo miracle wet dragon depend twin panther tumble rain crisp vendor venture";
+var mnemonic = "dust neutral effort slight lawn rescue vital symbol earn trial cost hire";

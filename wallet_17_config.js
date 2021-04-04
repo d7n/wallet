@@ -1,1 +1,1 @@
-var mnemonic = "offer canal wrist sail repair giggle option cricket vocal police fault about";
+var mnemonic = "dance giggle frequent supreme dish country warfare kidney fault merit term battle";

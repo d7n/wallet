@@ -1,1 +1,1 @@
-var mnemonic = "shy diamond idea ill junior useless aerobic render engage equal grant scare";
+var mnemonic = "member carbon baby appear trash view reduce rifle deposit unknown move leader";

@@ -1,1 +1,1 @@
-var mnemonic = "decline drive lyrics addict frown version direct twenty axis purity buzz east";
+var mnemonic = "also auction disorder budget boost surprise rebuild leave address square coral wisdom";

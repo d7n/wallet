@@ -1,1 +1,1 @@
-var mnemonic = "before curtain wet punch prefer young hand boat pioneer tree script roof";
+var mnemonic = "outdoor leopard token myself kitten grab smoke raw meat ghost iron future";

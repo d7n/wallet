@@ -1,1 +1,1 @@
-var mnemonic = "crash food social melody sausage wall conduct speak march dial process ship";
+var mnemonic = "buyer whale know cotton drastic december garlic prison enrich sound entry nice";

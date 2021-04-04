@@ -1,1 +1,1 @@
-var mnemonic = "flush drama violin unique universe among industry code typical result fatigue man";
+var mnemonic = "cancel tag deer conduct length chuckle crunch riot horror update dragon warrior";

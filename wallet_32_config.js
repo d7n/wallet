@@ -1,1 +1,1 @@
-var mnemonic = "muffin rotate myself praise latin fine wire diamond embrace eight funny company";
+var mnemonic = "only blanket stable sock wrap ship impulse journey fiction corn derive tonight";

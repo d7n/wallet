@@ -1,1 +1,1 @@
-var mnemonic = "glove run size iron shallow topic business cake guilt federal test tunnel";
+var mnemonic = "plunge fault gym swim wash label empower gain crop web veteran execute";

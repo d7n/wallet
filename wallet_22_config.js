@@ -1,1 +1,1 @@
-var mnemonic = "cram relax sleep margin goat salmon decline diary hazard luggage dilemma firm";
+var mnemonic = "mechanic salmon visual pencil match above balance bamboo lounge squirrel original say";

@@ -1,1 +1,1 @@
-var mnemonic = "tired inflict alarm protect custom impact rotate govern enact else actor minor";
+var mnemonic = "figure summer topple rely seminar hammer reject truly insane defy square romance";

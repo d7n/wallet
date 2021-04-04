@@ -1,1 +1,1 @@
-var mnemonic = "recycle risk comfort digital picnic fun mushroom course verify churn goddess coral";
+var mnemonic = "correct differ custom gap hover express interest aware discover route hedgehog under";

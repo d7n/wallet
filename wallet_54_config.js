@@ -1,1 +1,1 @@
-var mnemonic = "harbor body spawn palm habit uniform inject spare voyage shadow coral emerge";
+var mnemonic = "caution almost endless what onion supply tribe sport craft amused ocean expose";

@@ -1,1 +1,1 @@
-var mnemonic = "knee hire tobacco any erode illness cause inside soul dry dutch envelope";
+var mnemonic = "sport mask chapter lens tube artist juice coach alpha defense pride hint";

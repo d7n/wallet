@@ -1,1 +1,1 @@
-var mnemonic = "noise bread check picnic trade other latin bonus sphere paddle sport outdoor";
+var mnemonic = "bus lava news nuclear half fiscal disease uphold chronic artist lucky woman";

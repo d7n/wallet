@@ -1,1 +1,1 @@
-var mnemonic = "journey harbor plate shrimp setup autumn galaxy aspect grab diamond there harsh";
+var mnemonic = "shop saddle hen pattern session dove funny hold wood cattle village agree";

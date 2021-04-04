@@ -1,1 +1,1 @@
-var mnemonic = "where day viable away large admit side stool shoot hood base smart";
+var mnemonic = "mercy danger grape spawn torch employ ozone poet shift pride plug matrix";

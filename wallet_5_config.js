@@ -1,1 +1,1 @@
-var mnemonic = "chalk drink danger neglect practice exclude swim observe humor barely print labor";
+var mnemonic = "royal surge frown clip fatigue coyote throw bunker inner eagle protect sorry";

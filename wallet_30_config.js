@@ -1,1 +1,1 @@
-var mnemonic = "sheriff become very safe salt purity orient clump copper future pencil invest";
+var mnemonic = "aisle turtle faith differ wedding patch nose box day payment dismiss mass";

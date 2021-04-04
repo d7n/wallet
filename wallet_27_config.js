@@ -1,1 +1,1 @@
-var mnemonic = "noble hamster stove direct whisper clock awesome position scout cinnamon hidden dirt";
+var mnemonic = "total number tiny deliver mom kingdom heart keep slow curious execute input";

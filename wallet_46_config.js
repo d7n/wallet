@@ -1,1 +1,1 @@
-var mnemonic = "priority airport coin fever lens evil blanket become start offer law fabric";
+var mnemonic = "trade visa fine dose sleep cross monster below lobster between trouble salt";

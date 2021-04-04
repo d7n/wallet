@@ -1,1 +1,1 @@
-var mnemonic = "kick praise consider maple fancy essay spin card music primary capital phone";
+var mnemonic = "clump chaos region subway front toast use vital east artwork half priority";

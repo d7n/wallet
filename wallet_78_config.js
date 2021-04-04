@@ -1,1 +1,1 @@
-var mnemonic = "inhale window future pass issue exchange depart flat wide kick habit solar";
+var mnemonic = "furnace sphere involve day business depth tone garbage clarify crisp frequent brief";

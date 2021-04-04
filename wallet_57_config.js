@@ -1,1 +1,1 @@
-var mnemonic = "physical color rent volcano luxury mechanic stay dance income give catalog unaware";
+var mnemonic = "retire awesome link estate cube arch story gossip whisper rocket envelope gold";

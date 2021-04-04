@@ -1,1 +1,1 @@
-var mnemonic = "cry sniff drive balcony stem crouch magic focus leaf blast color rescue";
+var mnemonic = "skate crawl supreme silent pitch bread scan swing atom demand yellow cry";

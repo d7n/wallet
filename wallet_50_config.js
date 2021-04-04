@@ -1,1 +1,1 @@
-var mnemonic = "check system alpha crucial kind captain noble pilot kite fatigue easily path";
+var mnemonic = "sport bike security normal fortune chapter gentle claim debate keen glad enable";

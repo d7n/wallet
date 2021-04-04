@@ -1,1 +1,1 @@
-var mnemonic = "village find beef rural side topple regular sad jelly desk tornado armor";
+var mnemonic = "wrap lounge mammal blossom swamp skirt useless correct day argue simple lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "swear shop plate circle beauty edit exhaust now female social weird tomorrow";
+var mnemonic = "anxiety hurt bronze senior absurd heavy jaguar swear core twist mercy agent";

@@ -1,1 +1,1 @@
-var mnemonic = "follow tiger behind lake cheese portion agree heart convince execute bag sauce";
+var mnemonic = "print party elbow present regular wing pelican battle empty artefact chimney donkey";

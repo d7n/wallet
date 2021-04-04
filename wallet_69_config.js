@@ -1,1 +1,1 @@
-var mnemonic = "slide imitate solve holiday dwarf toddler fringe august boat chicken horse virus";
+var mnemonic = "wrestle field flight sand access zone seminar chest expose pretty surprise offer";

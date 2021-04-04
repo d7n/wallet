@@ -1,1 +1,1 @@
-var mnemonic = "portion nerve nest wide napkin until assault draft portion frost crunch gown";
+var mnemonic = "sorry twin stage ten magic stamp world amateur appear cry raven eternal";

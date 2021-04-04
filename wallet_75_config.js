@@ -1,1 +1,1 @@
-var mnemonic = "visit slot cousin debate wedding mandate addict father member dune cushion later";
+var mnemonic = "twist wish digital image razor neck action toddler major trigger truly broccoli";

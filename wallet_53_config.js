@@ -1,1 +1,1 @@
-var mnemonic = "cherry cook gadget armor typical tortoise arrange dress crunch between title cream";
+var mnemonic = "planet glow celery hub sausage public kangaroo border salad appear output auction";

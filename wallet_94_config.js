@@ -1,1 +1,1 @@
-var mnemonic = "diet depend trend quiz crop elder fame canoe aspect post tennis shrimp";
+var mnemonic = "awkward beef state hip lawn blade nurse power maid exist envelope chest";

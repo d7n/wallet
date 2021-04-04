@@ -1,1 +1,1 @@
-var mnemonic = "chase away close provide wrestle sweet love sure mechanic prison warrior slam";
+var mnemonic = "acoustic bomb sadness size face van poverty act bitter include timber leopard";

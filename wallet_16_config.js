@@ -1,1 +1,1 @@
-var mnemonic = "carry sea miss day swarm juice common ill foot fragile raise cotton";
+var mnemonic = "disorder ring patrol palm glory arm transfer bullet beauty cloth bunker cart";

@@ -1,1 +1,1 @@
-var mnemonic = "clap hidden stick memory master glide elite pioneer bench wide throw fan";
+var mnemonic = "armed earn earth clip carpet super syrup hollow quarter head vibrant bring";

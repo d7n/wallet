@@ -1,1 +1,1 @@
-var mnemonic = "birth crunch palace elite obvious penalty fresh crime diet husband blame shaft";
+var mnemonic = "above wrist letter various cereal grain laugh leopard act bless valve fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "output denial wine win spawn orbit grid over salad consider vague unlock";
+var mnemonic = "notable slice neither input camp diagram alpha extend ice old under direct";

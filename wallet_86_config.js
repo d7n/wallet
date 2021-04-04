@@ -1,1 +1,1 @@
-var mnemonic = "play flip dinosaur hamster fiction machine stereo clean hurry burst tone genre";
+var mnemonic = "medal version top twist search mutual asthma extend sudden eight slim silent";

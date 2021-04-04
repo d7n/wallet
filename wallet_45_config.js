@@ -1,1 +1,1 @@
-var mnemonic = "weather guard mistake middle exile soup energy make approve used young scan";
+var mnemonic = "nature toast arrange journey above tool palm spray suffer mix height tired";

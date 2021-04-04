@@ -1,1 +1,1 @@
-var mnemonic = "split genuine culture fiscal smile forward connect advice relief memory elevator object";
+var mnemonic = "fuel believe rely cheese solution grit amount figure body actor pumpkin above";

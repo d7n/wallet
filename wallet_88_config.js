@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog reform shoulder comic cabbage fold swamp light apology banner alley fade";
+var mnemonic = "okay rescue chapter ahead level nut weird switch acquire master coyote happy";

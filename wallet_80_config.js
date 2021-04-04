@@ -1,1 +1,1 @@
-var mnemonic = "hold couple submit tent inner letter leg oven tree proof extend genre";
+var mnemonic = "where wall magnet scissors gym essay walk fossil embody bacon bread mask";

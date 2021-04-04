@@ -1,1 +1,1 @@
-var mnemonic = "ugly smooth adult dolphin isolate west scale ask concert noble doctor elbow";
+var mnemonic = "energy bounce rebel major robust grunt water lobster kidney dad eager canoe";

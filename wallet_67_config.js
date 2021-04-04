@@ -1,1 +1,1 @@
-var mnemonic = "truly uncover town rather type borrow night degree purpose month object snack";
+var mnemonic = "affair drastic tide advance grief mistake company front patrol valid often sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "agent sudden door obvious runway pigeon arena harvest pass city hockey dirt";
+var mnemonic = "drastic garlic endless interest spoil acquire naive phone diagram note tired ensure";

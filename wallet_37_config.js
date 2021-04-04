@@ -1,1 +1,1 @@
-var mnemonic = "enable swallow sphere two scatter turkey give asset suit polar pudding attitude";
+var mnemonic = "toy pipe crew remember offer project make judge can win world inspire";

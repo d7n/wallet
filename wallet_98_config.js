@@ -1,1 +1,1 @@
-var mnemonic = "need direct occur render device local lady hair tell act admit exhibit";
+var mnemonic = "decorate run hip panther someone angry basket soldier correct kite zone poet";

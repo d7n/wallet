@@ -1,1 +1,1 @@
-var mnemonic = "ocean bean feel garden jaguar drink venture fruit table ignore wire biology";
+var mnemonic = "vital prize tooth poem exercise bundle nose kangaroo coffee gallery poet help";

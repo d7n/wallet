@@ -1,1 +1,1 @@
-var mnemonic = "angry tribe symbol food swear rescue fatigue bean mesh gesture hero slice";
+var mnemonic = "news pudding small mammal follow roast balcony salad symbol early diary student";

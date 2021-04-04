@@ -1,1 +1,1 @@
-var mnemonic = "follow army orange battle dilemma tree theme office frown resource answer bar";
+var mnemonic = "recall tennis emerge myth beef surprise trigger climb sport skirt online april";

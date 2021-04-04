@@ -1,1 +1,1 @@
-var mnemonic = "apart there embrace ignore fury year usage shaft private struggle puppy document";
+var mnemonic = "upon either return cross elephant transfer vague duty sleep village quit purchase";

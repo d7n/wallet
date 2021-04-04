@@ -1,1 +1,1 @@
-var mnemonic = "tortoise crack hard lawsuit carbon above infant various nature brave security chalk";
+var mnemonic = "twist jazz beyond also access act embark draw clerk now cliff moment";

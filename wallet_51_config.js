@@ -1,1 +1,1 @@
-var mnemonic = "mercy below ocean vendor water screen hollow frog clever fragile remind dune";
+var mnemonic = "lady embark apart bachelor blame soup scissors quiz outdoor cost eager reveal";

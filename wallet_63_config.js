@@ -1,1 +1,1 @@
-var mnemonic = "fetch ripple canvas eye combine crime echo small tobacco wash decrease artist";
+var mnemonic = "just degree festival turkey glide canoe satisfy episode cook want gasp orient";

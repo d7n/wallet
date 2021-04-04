@@ -1,1 +1,1 @@
-var mnemonic = "rather paper vibrant must need dash common train ostrich easily crystal pony";
+var mnemonic = "pact onion check lift about uncle depart off eyebrow gown brown artist";

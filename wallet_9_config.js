@@ -1,1 +1,1 @@
-var mnemonic = "unfair outer demise retire that either renew lift dad over beach hole";
+var mnemonic = "clog cycle genius dirt ball weapon basic air mushroom pill struggle snap";

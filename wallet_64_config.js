@@ -1,1 +1,1 @@
-var mnemonic = "update lady list umbrella simple ramp slush peace lunch fury layer prevent";
+var mnemonic = "rotate crowd olive ostrich tree thrive era survey pulp typical head easy";
