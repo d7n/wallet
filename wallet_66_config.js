@@ -1,1 +1,1 @@
-var mnemonic = "better vacant deer between pipe scout rain sort stove ugly coconut already";
+var mnemonic = "regret emotion inspire baby afraid rookie super kite document cable seven option";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak scissors omit churn cash camera input identify effort polar later boat";
+var mnemonic = "current endless plate pencil art myth warrior bird prison gospel trade street";

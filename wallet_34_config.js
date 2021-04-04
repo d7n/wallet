@@ -1,1 +1,1 @@
-var mnemonic = "situate inquiry prison foam lottery accident secret napkin cause hungry girl survey";
+var mnemonic = "trip dawn audit crucial lava animal then tornado because parent core reopen";

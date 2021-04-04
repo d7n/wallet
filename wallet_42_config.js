@@ -1,1 +1,1 @@
-var mnemonic = "journey boy cherry shock direct keep correct cube report what vague pen";
+var mnemonic = "drink frog medal seven tent nice reveal search snack chat evolve scheme";

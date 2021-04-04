@@ -1,1 +1,1 @@
-var mnemonic = "undo income course century panther rather leave document live tiny list faith";
+var mnemonic = "dizzy breeze interest hamster orbit shadow wing wisdom creek concert lawn decline";

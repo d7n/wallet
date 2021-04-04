@@ -1,1 +1,1 @@
-var mnemonic = "iron asthma crew act derive main topic laundry smile horn roof buyer";
+var mnemonic = "chronic paddle syrup panther before unfold couple humble trade rent mask employ";

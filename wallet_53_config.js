@@ -1,1 +1,1 @@
-var mnemonic = "sibling double noise scheme cattle shield inform shoot muffin aspect found episode";
+var mnemonic = "speak surface peace riot arrest deposit exist digital action cement wish provide";

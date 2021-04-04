@@ -1,1 +1,1 @@
-var mnemonic = "detect void security hour coconut movie warm palace soon guide announce tuna";
+var mnemonic = "uniform stadium ice junior sketch rare afraid lava tide guard supply endorse";

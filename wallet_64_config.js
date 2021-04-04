@@ -1,1 +1,1 @@
-var mnemonic = "girl sorry bread drastic flip symbol bread habit soccer tortoise wonder hurdle";
+var mnemonic = "because hedgehog resemble better catch display pioneer art gold hawk there logic";

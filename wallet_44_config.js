@@ -1,1 +1,1 @@
-var mnemonic = "slight drop number resist nuclear grape middle renew voice health hockey analyst";
+var mnemonic = "win robust what thing kit try lesson miss bitter wool prison choose";

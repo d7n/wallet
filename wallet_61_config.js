@@ -1,1 +1,1 @@
-var mnemonic = "fiscal boy victory disagree account inside car dolphin fit domain lesson climb";
+var mnemonic = "anxiety input jungle machine spatial slight reunion giggle fatigue laptop repair finger";

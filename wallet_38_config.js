@@ -1,1 +1,1 @@
-var mnemonic = "diary crystal vendor cram grocery stem father found catch struggle multiply visual";
+var mnemonic = "palace traffic trend today reason apart magic voyage food convince explain boring";

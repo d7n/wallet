@@ -1,1 +1,1 @@
-var mnemonic = "bundle duty sick dizzy umbrella tent own hover salt pulse april lucky";
+var mnemonic = "buyer pipe canvas cream you fog extra crime kick grab erase marine";

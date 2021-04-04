@@ -1,1 +1,1 @@
-var mnemonic = "isolate credit vessel side best open crush settle educate clump prepare annual";
+var mnemonic = "bamboo deliver lizard useless blade drop fun urban ten flush kidney under";

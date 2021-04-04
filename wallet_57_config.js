@@ -1,1 +1,1 @@
-var mnemonic = "explain ordinary sand coral concert upper ethics bamboo motion rare pact oval";
+var mnemonic = "this skull treat fee soon swarm coach review race dove say island";

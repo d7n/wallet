@@ -1,1 +1,1 @@
-var mnemonic = "tumble medal gold very edge amateur snake blur sadness soul suit embody";
+var mnemonic = "trumpet follow wool raw concert clarify popular sponsor black flee employ piano";

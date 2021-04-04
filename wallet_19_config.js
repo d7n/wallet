@@ -1,1 +1,1 @@
-var mnemonic = "naive motor volume end glad salute protect sleep any crowd dizzy draft";
+var mnemonic = "attitude escape force devote build science wedding tomato verb quarter pair price";

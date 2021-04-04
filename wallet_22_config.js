@@ -1,1 +1,1 @@
-var mnemonic = "review brain cry seek once shock wife ranch lion consider dial comic";
+var mnemonic = "midnight pluck survey busy cloud lecture urge host cup endorse client price";

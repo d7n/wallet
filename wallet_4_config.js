@@ -1,1 +1,1 @@
-var mnemonic = "busy menu talk fold humor sadness hip grit work crew habit market";
+var mnemonic = "maximum race talent drastic between cloud happy gentle float save fence tackle";

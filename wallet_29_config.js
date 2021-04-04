@@ -1,1 +1,1 @@
-var mnemonic = "outside random cushion foot ripple inmate exist shove guitar teach equal east";
+var mnemonic = "notable youth alter horn fragile disorder priority soul humor priority napkin blossom";

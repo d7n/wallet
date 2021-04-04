@@ -1,1 +1,1 @@
-var mnemonic = "own distance tired measure claim acquire super parrot favorite fan pottery oil";
+var mnemonic = "artwork cloth mixture leg adult hard strike like neck under monkey theory";

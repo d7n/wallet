@@ -1,1 +1,1 @@
-var mnemonic = "that circle math eternal february dad accident reflect repeat either equal total";
+var mnemonic = "attack zebra crunch faculty health office depend neutral surge mistake arm race";

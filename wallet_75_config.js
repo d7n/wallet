@@ -1,1 +1,1 @@
-var mnemonic = "verify journey expand trigger supreme afraid accident forum outdoor faith joy artwork";
+var mnemonic = "aunt now border frequent potato truck episode protect quote setup monster misery";

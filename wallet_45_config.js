@@ -1,1 +1,1 @@
-var mnemonic = "defy ginger party quality peasant opera save fluid enjoy involve whale have";
+var mnemonic = "math please regular remind industry loop member mansion laptop throw people wool";

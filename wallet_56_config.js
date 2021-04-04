@@ -1,1 +1,1 @@
-var mnemonic = "tunnel silly inmate spring whale clog mechanic pigeon club fence ocean uphold";
+var mnemonic = "canyon step duck input dizzy monitor age outer beef improve sign segment";

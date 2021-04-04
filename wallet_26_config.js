@@ -1,1 +1,1 @@
-var mnemonic = "switch melt world echo code entire rare casual noise panel must peace";
+var mnemonic = "license voice spin top guitar kiss garden fantasy quit fine source culture";

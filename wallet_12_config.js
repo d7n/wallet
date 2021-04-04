@@ -1,1 +1,1 @@
-var mnemonic = "company cheap social pool medal news parrot stock frozen camera swamp dog";
+var mnemonic = "brain flee hello meadow legend repair sleep entire group pattern seven mistake";

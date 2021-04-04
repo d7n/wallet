@@ -1,1 +1,1 @@
-var mnemonic = "sport proud blood illness then day sign gasp glory combine east retreat";
+var mnemonic = "drink beauty satisfy final decline hour truck pony mountain abandon window obtain";

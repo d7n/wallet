@@ -1,1 +1,1 @@
-var mnemonic = "multiply wrong glow galaxy jump satoshi runway island sorry trumpet brother lunar";
+var mnemonic = "dizzy simple search cherry dance number annual napkin hint black island auction";

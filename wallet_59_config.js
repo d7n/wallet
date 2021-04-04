@@ -1,1 +1,1 @@
-var mnemonic = "canvas battle dog home wagon decorate sunset pause awful accident waste lumber";
+var mnemonic = "arrest vivid garbage mountain script rail direct rigid govern twin scheme mobile";

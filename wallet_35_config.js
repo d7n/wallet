@@ -1,1 +1,1 @@
-var mnemonic = "grass response wash same silk subject enlist nation else later kitten honey";
+var mnemonic = "endless paper try test rifle tired door heavy wrap suffer next table";

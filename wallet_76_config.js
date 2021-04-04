@@ -1,1 +1,1 @@
-var mnemonic = "scheme story lumber flat federal worth stumble barrel cross process front skull";
+var mnemonic = "liar zero explain then coral wage negative inform loop attack motor misery";

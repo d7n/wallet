@@ -1,1 +1,1 @@
-var mnemonic = "wine stage ball session meat later total churn excess tennis any addict";
+var mnemonic = "ring drift patrol aisle space switch enforce detail text deputy outside connect";

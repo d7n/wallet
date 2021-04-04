@@ -1,1 +1,1 @@
-var mnemonic = "wealth melt explain where snake fly suspect mandate chief another gospel pet";
+var mnemonic = "tape nasty deposit fine metal frog erase patch pitch horn black pigeon";

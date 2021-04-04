@@ -1,1 +1,1 @@
-var mnemonic = "ten napkin noodle category broken stamp same spice beef tunnel chalk visa";
+var mnemonic = "scrap install youth sunset staff avocado base safe mean envelope shoot found";

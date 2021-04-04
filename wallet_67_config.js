@@ -1,1 +1,1 @@
-var mnemonic = "about genuine ranch major attend noble fox motor wash drama gospel quote";
+var mnemonic = "antenna waste canvas daring acoustic return once grant shove sea hope brief";

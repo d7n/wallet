@@ -1,1 +1,1 @@
-var mnemonic = "accident inmate bring brush donor coach pulse broom else danger exhibit ready";
+var mnemonic = "fan drip satisfy bracket thumb amateur potato surround agree lunch rug affair";

@@ -1,1 +1,1 @@
-var mnemonic = "negative invite jewel yard affair settle hidden write below negative normal sibling";
+var mnemonic = "custom such gas install canal speak van romance valve audit pet response";

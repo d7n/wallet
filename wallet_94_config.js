@@ -1,1 +1,1 @@
-var mnemonic = "fever battle stove broom video antique old design pen garden glare sheriff";
+var mnemonic = "boost brother turtle bag actress pipe bamboo consider squeeze mixed net denial";

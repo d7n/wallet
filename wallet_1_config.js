@@ -1,1 +1,1 @@
-var mnemonic = "maple crew table invite ramp sure shiver betray retire cat elephant picnic";
+var mnemonic = "panda logic doctor abstract blood fitness brass put ability airport paddle vapor";

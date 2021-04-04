@@ -1,1 +1,1 @@
-var mnemonic = "obtain found dust tube quality path wage grab maple patient shock window";
+var mnemonic = "note again trust oppose clerk iron rely inquiry project upset alpha grit";

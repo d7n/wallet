@@ -1,1 +1,1 @@
-var mnemonic = "explain fold conduct pig wheel oil enough spoil script sweet elevator broccoli";
+var mnemonic = "father pioneer spread seed ticket process filter million tragic infant palace quit";

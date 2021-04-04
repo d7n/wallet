@@ -1,1 +1,1 @@
-var mnemonic = "yard uncle father essay brain quick inquiry amateur frown century indicate divert";
+var mnemonic = "decrease pen race conduct scorpion tape drama reveal alter enemy bar sphere";

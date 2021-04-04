@@ -1,1 +1,1 @@
-var mnemonic = "digital desert rug arrive deal follow clown maple daring faith harsh flame";
+var mnemonic = "history panda elevator unhappy twin joy artwork powder another divide couch firm";

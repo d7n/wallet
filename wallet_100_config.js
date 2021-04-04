@@ -1,1 +1,1 @@
-var mnemonic = "bottom thunder insect vehicle item offer crop struggle truth trust ivory adjust";
+var mnemonic = "hybrid attract talk device odor switch bunker dragon flower flush pair opera";

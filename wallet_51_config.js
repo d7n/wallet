@@ -1,1 +1,1 @@
-var mnemonic = "valve depth clown setup inform point flock travel detail sentence diary warfare";
+var mnemonic = "silver office piano boring churn kite absurd claim carry member dynamic credit";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog this fault skill farm marine observe coconut general youth pill zoo";
+var mnemonic = "ahead morning deliver plug local modify title leader stadium drip secret reduce";

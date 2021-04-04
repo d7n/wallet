@@ -1,1 +1,1 @@
-var mnemonic = "milk voyage cruel wall vibrant force entire fetch wild gentle marriage concert";
+var mnemonic = "prefer radio load reason aerobic awkward legal lunch defy grunt else enforce";

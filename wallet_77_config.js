@@ -1,1 +1,1 @@
-var mnemonic = "mercy sight awful lawsuit lunar define bus dumb repair senior best amazing";
+var mnemonic = "disagree uncover delay ozone guard magic just melody soft hip simple elegant";

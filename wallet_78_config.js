@@ -1,1 +1,1 @@
-var mnemonic = "response swamp vocal quick rapid payment turn normal fluid decrease treat logic";
+var mnemonic = "nation gaze exit delay dream quote measure material fine mom dust admit";

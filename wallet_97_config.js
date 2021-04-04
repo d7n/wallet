@@ -1,1 +1,1 @@
-var mnemonic = "peace chronic alley slot oblige tide sleep enroll service churn nose genre";
+var mnemonic = "web kick sing sweet expand situate inherit genuine puzzle fabric pupil approve";

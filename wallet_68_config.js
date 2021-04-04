@@ -1,1 +1,1 @@
-var mnemonic = "festival belt federal glimpse clerk senior stage stairs evidence cram list bread";
+var mnemonic = "alley hand market pretty cheese invest merry way antique gadget proud avoid";

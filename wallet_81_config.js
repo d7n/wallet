@@ -1,1 +1,1 @@
-var mnemonic = "owner want announce boss parade faculty build wrestle review nut have fashion";
+var mnemonic = "young soldier elegant spider school fringe split palm race orange pride avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess assist alert sleep hunt castle define fire announce planet upon accuse";
+var mnemonic = "blame size secret letter grab gap tired toddler road finger negative pause";

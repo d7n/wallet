@@ -1,1 +1,1 @@
-var mnemonic = "always injury loop earth arena loop cycle remove all scatter hospital floor";
+var mnemonic = "invest man frame aerobic carbon motion dilemma sustain midnight what reason vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "father then goose rhythm fold earn float bargain elbow enjoy drop awkward";
+var mnemonic = "palm round cook try pitch income slice area slow tell repeat achieve";

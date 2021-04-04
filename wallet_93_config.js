@@ -1,1 +1,1 @@
-var mnemonic = "skate library achieve limit move diesel boring fiction asthma course detect gown";
+var mnemonic = "rabbit chase gather maple convince mixture tired lend eight laundry radar buzz";

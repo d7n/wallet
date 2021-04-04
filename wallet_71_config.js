@@ -1,1 +1,1 @@
-var mnemonic = "debris cost cute february curious memory sense satoshi cover chef bind cushion";
+var mnemonic = "cargo youth differ shoe icon select vehicle dinosaur gather hobby slim express";

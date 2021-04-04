@@ -1,1 +1,1 @@
-var mnemonic = "indoor size pizza skate ghost example bonus ring what pulp suit spend";
+var mnemonic = "news time dolphin minor tent betray live pen into develop glory shoe";

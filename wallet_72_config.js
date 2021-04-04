@@ -1,1 +1,1 @@
-var mnemonic = "intact grain toss blanket retreat tomorrow middle speak lawn regret sphere pear";
+var mnemonic = "desert catalog fiscal wagon turn easy lizard much joke anger fiscal wing";

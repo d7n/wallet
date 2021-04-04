@@ -1,1 +1,1 @@
-var mnemonic = "tired tongue zone gauge vendor wash wrestle float rose rely jar truck";
+var mnemonic = "blur test sugar turn strong improve visa mercy offer mesh uncle sock";

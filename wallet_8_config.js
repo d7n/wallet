@@ -1,1 +1,1 @@
-var mnemonic = "short panda park one cruise cycle local later topic laptop carry cactus";
+var mnemonic = "disease flat soft apart exhibit music merit first suffer reunion cart unusual";

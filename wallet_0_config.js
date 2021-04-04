@@ -1,1 +1,1 @@
-var mnemonic = "twelve vote average flight pear similar fee first industry guilt acid diamond";
+var mnemonic = "normal toy street lend sword sausage farm dynamic empty correct mask curious";

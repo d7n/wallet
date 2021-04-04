@@ -1,1 +1,1 @@
-var mnemonic = "patrol wave stomach bid echo kiss almost skin wave gallery jelly orchard";
+var mnemonic = "same female fee spice element ball match banana example elevator month lava";

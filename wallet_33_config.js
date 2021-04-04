@@ -1,1 +1,1 @@
-var mnemonic = "owner toilet estate kit exchange glide iron blur mansion roof ethics welcome";
+var mnemonic = "couple immune creek tube bundle oblige hold fire magnet price crunch render";

@@ -1,1 +1,1 @@
-var mnemonic = "jar sibling prefer margin area upon frame style vital pact say reflect";
+var mnemonic = "cube spin alley manual demand upset jar anchor fish maze frequent gun";

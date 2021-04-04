@@ -1,1 +1,1 @@
-var mnemonic = "material illness ketchup zero bread rapid social tongue canyon cushion token outside";
+var mnemonic = "fox monster blur crush label repeat dry venue double light myself hurt";

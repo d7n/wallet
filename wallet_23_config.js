@@ -1,1 +1,1 @@
-var mnemonic = "expect raw genre amount edge popular crumble fall uncle accuse primary frog";
+var mnemonic = "card lyrics found pool stadium test peace clinic special crime position avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid gadget paper keen rapid combine involve donkey style lock cousin pledge";
+var mnemonic = "chat camp grunt obtain half beach forum inside nurse write indicate tide";

@@ -1,1 +1,1 @@
-var mnemonic = "paper burger park outer olive prize around shadow profit universe addict broom";
+var mnemonic = "foam atom morning curious long talent kangaroo where math forward praise spin";

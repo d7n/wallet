@@ -1,1 +1,1 @@
-var mnemonic = "road cruise swift primary key apart second barely obscure plastic notable blossom";
+var mnemonic = "lesson ridge harbor depth curtain nephew federal pair cupboard mammal indicate connect";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle burger patch cushion proof deal coast actress wait body satoshi soda";
+var mnemonic = "scissors crucial club south leader unable quantum paddle sign swing version lion";

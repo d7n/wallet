@@ -1,1 +1,1 @@
-var mnemonic = "exact public error two sugar taxi borrow wonder until used total unfair";
+var mnemonic = "add crush glory ability high pole kitten latin april memory fan canoe";

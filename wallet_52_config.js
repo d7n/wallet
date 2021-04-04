@@ -1,1 +1,1 @@
-var mnemonic = "venue left mix rural custom scan appear talk matter tonight whale window";
+var mnemonic = "ethics spirit appear oyster debate tree banner love noodle punch frown away";

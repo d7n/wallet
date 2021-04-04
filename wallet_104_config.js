@@ -1,1 +1,1 @@
-var mnemonic = "frame pupil recycle broken brain name absent window pistol act frame donor";
+var mnemonic = "fury meadow current chief dice glow basic taxi air still portion stereo";

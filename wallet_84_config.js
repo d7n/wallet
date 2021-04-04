@@ -1,1 +1,1 @@
-var mnemonic = "love burden best grace furnace apple lift monster bind ankle unknown trap";
+var mnemonic = "add palm comic weapon develop cool weekend help parade swift pottery bamboo";

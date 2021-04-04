@@ -1,1 +1,1 @@
-var mnemonic = "gown vicious tobacco wine second lock climb legend employ cup balcony beef";
+var mnemonic = "liberty immune learn veteran girl camera fiscal suspect keen web easy collect";

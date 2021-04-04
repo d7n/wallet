@@ -1,1 +1,1 @@
-var mnemonic = "skin easy give limit grant copy reflect learn virtual dawn leopard cup";
+var mnemonic = "check primary sentence check stumble car place hold kiss prosper owner stool";

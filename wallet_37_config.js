@@ -1,1 +1,1 @@
-var mnemonic = "exhibit concert pyramid sunset pen odor engine catalog false joke struggle trade";
+var mnemonic = "innocent dad shadow skirt gasp city slot bicycle sport frown dragon universe";

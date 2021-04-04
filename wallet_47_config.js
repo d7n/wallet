@@ -1,1 +1,1 @@
-var mnemonic = "tooth aspect brand color coil path defy rare music antique pony inspire";
+var mnemonic = "ten clever doll zoo height window put virtual prefer cycle super practice";

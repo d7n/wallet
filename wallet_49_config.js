@@ -1,1 +1,1 @@
-var mnemonic = "arch item hedgehog egg symptom entry poverty insect symptom enact dash vital";
+var mnemonic = "taste chaos weapon define exhaust oxygen chief raw wasp october talent notice";

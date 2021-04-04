@@ -1,1 +1,1 @@
-var mnemonic = "silent fantasy film bike boost trumpet penalty dial six sick width vacant";
+var mnemonic = "allow giraffe inhale paper envelope entry output subway frost slush suit harvest";

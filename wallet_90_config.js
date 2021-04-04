@@ -1,1 +1,1 @@
-var mnemonic = "decide left panther catalog erupt panel banner upper arrow bachelor follow napkin";
+var mnemonic = "feel draft open enlist coin snow result pattern stomach crazy exercise expire";

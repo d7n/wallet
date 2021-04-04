@@ -1,1 +1,1 @@
-var mnemonic = "robot mass allow discover favorite kangaroo guilt tool tail soda slender vendor";
+var mnemonic = "provide payment pave confirm winter basket happy spatial girl winner around bench";

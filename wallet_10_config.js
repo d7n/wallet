@@ -1,1 +1,1 @@
-var mnemonic = "upset gentle sport famous nurse key joy skirt bicycle egg jealous vague";
+var mnemonic = "brisk dutch glance fabric uncle proud layer churn crater mammal medal rebel";

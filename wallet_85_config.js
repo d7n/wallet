@@ -1,1 +1,1 @@
-var mnemonic = "siege lawn abandon butter absorb arrow spell wise humble couch muscle wealth";
+var mnemonic = "bright violin holiday puzzle clerk asthma boil scorpion help topic depart shield";

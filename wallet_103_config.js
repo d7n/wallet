@@ -1,1 +1,1 @@
-var mnemonic = "embody polar renew misery grass coin lumber decorate camp borrow story work";
+var mnemonic = "purse fatigue raise toy kite boss tree truth miracle stock father grain";
