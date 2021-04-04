@@ -1,1 +1,1 @@
-var mnemonic = "auto fashion auto future eager bag village goose pencil open bottom glove";
+var mnemonic = "sick step damp common tourist robust throw gate size vital cinnamon tongue";

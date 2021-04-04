@@ -1,1 +1,1 @@
-var mnemonic = "squirrel forum super banana peace chunk tongue shuffle reduce radar test bicycle";
+var mnemonic = "dizzy series raven rural table hen join giraffe drive start duty edit";

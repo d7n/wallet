@@ -1,1 +1,1 @@
-var mnemonic = "cage shop sleep labor pride buffalo outside oxygen ordinary lift degree square";
+var mnemonic = "battle merit month choice pitch kite real hour clarify visit fantasy dust";

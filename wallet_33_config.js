@@ -1,1 +1,1 @@
-var mnemonic = "series harbor toss three glimpse extend skin loan gain flee already patch";
+var mnemonic = "agent tonight thumb address private kid sport novel outer gym drill silent";

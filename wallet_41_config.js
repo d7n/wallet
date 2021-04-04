@@ -1,1 +1,1 @@
-var mnemonic = "first assist prison faint spend judge rescue cat stadium radar amused spend";
+var mnemonic = "motor hurdle youth desert rubber remove place motor scheme device bulk spy";

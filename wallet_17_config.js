@@ -1,1 +1,1 @@
-var mnemonic = "blast capable favorite region pen palace uphold anchor lawsuit pride exist today";
+var mnemonic = "kid label favorite casual pig luxury laugh aware victory thing pupil best";

@@ -1,1 +1,1 @@
-var mnemonic = "search energy casual valid era key total stumble account way fiction over";
+var mnemonic = "news answer average gift spell actor ceiling sing fruit cash tooth worry";

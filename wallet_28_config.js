@@ -1,1 +1,1 @@
-var mnemonic = "also solar alcohol blast scout habit lottery theory punch this vivid excess";
+var mnemonic = "lake afford manual version lunar inch tuition sketch jewel random axis trouble";

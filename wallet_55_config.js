@@ -1,1 +1,1 @@
-var mnemonic = "mean body rifle raw release layer unknown leaf gravity vault chase foster";
+var mnemonic = "utility sheriff only jazz truck happy lunch case divert aerobic noodle border";

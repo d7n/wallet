@@ -1,1 +1,1 @@
-var mnemonic = "pelican combine short vocal purse you trade december ivory trend pull robot";
+var mnemonic = "goat banana because dog moon stone great few leave bright mind dance";

@@ -1,1 +1,1 @@
-var mnemonic = "enter huge virus lazy side reason leg push record sunset insane slush";
+var mnemonic = "over object crisp alone worth modify sure blind inside patch monitor chuckle";

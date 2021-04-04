@@ -1,1 +1,1 @@
-var mnemonic = "grunt smile record panther night mosquito island frog announce head essence fiction";
+var mnemonic = "praise lab tissue someone pause flight air relax slice buffalo silver gesture";

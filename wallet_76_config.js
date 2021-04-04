@@ -1,1 +1,1 @@
-var mnemonic = "lava rival flock draw inch various coil acquire crater blast keep trick";
+var mnemonic = "invite outdoor moon silly hill crash unlock fetch style cruise rural mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble simple chair shoot broken pole giraffe maximum dirt need crack forest";
+var mnemonic = "offer spell angle umbrella mix myth popular boss tag piano loyal cupboard";

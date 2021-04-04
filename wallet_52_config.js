@@ -1,1 +1,1 @@
-var mnemonic = "fox laundry measure finger praise crop employ loan nephew family game please";
+var mnemonic = "rookie voyage month fence bus depend harvest bench mango between claw wheat";

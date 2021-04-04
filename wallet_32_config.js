@@ -1,1 +1,1 @@
-var mnemonic = "image check category risk crawl south planet page cotton rival public dinosaur";
+var mnemonic = "loan parrot promote conduct elephant disease comfort easily away ritual mistake dream";

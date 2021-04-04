@@ -1,1 +1,1 @@
-var mnemonic = "task sibling special tent grape wage stamp dance coil surprise another satoshi";
+var mnemonic = "grant turn frown play tool bargain thumb cattle swing tilt grief orbit";

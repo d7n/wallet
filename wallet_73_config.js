@@ -1,1 +1,1 @@
-var mnemonic = "body slam slot exhibit ramp bag piano plate antenna wave yellow claw";
+var mnemonic = "fine inch elbow motor empower general remain trigger family wonder dream need";

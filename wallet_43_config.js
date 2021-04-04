@@ -1,1 +1,1 @@
-var mnemonic = "candy avocado try fuel river gallery salon accident evoke unusual mechanic phrase";
+var mnemonic = "dizzy bargain zebra nut van reunion person capable protect sword display sphere";

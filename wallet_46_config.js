@@ -1,1 +1,1 @@
-var mnemonic = "next smoke income play short mobile faint equal hedgehog laundry world help";
+var mnemonic = "crew beef course oblige ivory kite degree auction release immune happy flee";

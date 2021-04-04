@@ -1,1 +1,1 @@
-var mnemonic = "culture suspect marine rib control pluck sort lunch whale toddler around memory";
+var mnemonic = "myself unusual buffalo fiscal heart gain dad action theme enhance position rose";

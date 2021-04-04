@@ -1,1 +1,1 @@
-var mnemonic = "earth glow daughter cushion job minor resemble salon edit cream cost piano";
+var mnemonic = "blast alien vivid level company silver census wealth large decide come planet";

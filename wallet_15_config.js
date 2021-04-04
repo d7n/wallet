@@ -1,1 +1,1 @@
-var mnemonic = "defense perfect build body quick there tired village crunch merit assume zebra";
+var mnemonic = "tuna crater resist work van neck cradle party brain walk quote salon";

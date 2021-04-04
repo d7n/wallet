@@ -1,1 +1,1 @@
-var mnemonic = "health direct surface kiss bonus appear inside item rural young wine pear";
+var mnemonic = "define foil unit avocado glimpse deny wheel crazy lamp bring used key";

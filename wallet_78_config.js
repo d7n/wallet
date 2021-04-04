@@ -1,1 +1,1 @@
-var mnemonic = "cage render chase entry humble pottery valid effort urge together media shed";
+var mnemonic = "claim valve swamp try fan fetch prison this deny street traffic zoo";

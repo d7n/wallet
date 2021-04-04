@@ -1,1 +1,1 @@
-var mnemonic = "rely clean gift snow deliver cigar brother eager horror budget vocal waste";
+var mnemonic = "push letter jar group sell bubble regret room rice spare tank accuse";

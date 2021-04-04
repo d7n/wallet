@@ -1,1 +1,1 @@
-var mnemonic = "now oil oak sick believe series alert tent borrow slam mean spare";
+var mnemonic = "scrub turtle mountain wrap dice steel hip crisp total second grief crawl";

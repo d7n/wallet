@@ -1,1 +1,1 @@
-var mnemonic = "wrap sword tortoise also blur across cancel wise engage bitter field envelope";
+var mnemonic = "slab scan dignity vocal fog valve impulse food boss onion law eye";

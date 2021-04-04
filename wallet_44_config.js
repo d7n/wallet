@@ -1,1 +1,1 @@
-var mnemonic = "ginger fuel toilet cabbage apple famous shadow stool steel solve remain globe";
+var mnemonic = "man silk state globe umbrella size doctor grass document spring language wave";

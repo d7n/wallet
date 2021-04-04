@@ -1,1 +1,1 @@
-var mnemonic = "boost behind barrel drum nature vibrant ridge evoke history enact guard floor";
+var mnemonic = "sport merge ethics bachelor gadget cattle outdoor upgrade cousin earn glare extend";

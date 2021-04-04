@@ -1,1 +1,1 @@
-var mnemonic = "front supply cake bullet doll install food butter know submit rack blossom";
+var mnemonic = "earth negative major rookie science wave glad record copy million refuse trip";

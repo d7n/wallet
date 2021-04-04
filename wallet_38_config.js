@@ -1,1 +1,1 @@
-var mnemonic = "pave fatal december better inspire citizen venture glimpse tunnel pass dish lock";
+var mnemonic = "they sorry fortune dinner exhaust source neutral impose wide suit replace wife";

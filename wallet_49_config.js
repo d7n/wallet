@@ -1,1 +1,1 @@
-var mnemonic = "course end enjoy body general sting custom skate total apple retreat grain";
+var mnemonic = "oak iron miss broken source basic apple festival valley neglect recipe solar";

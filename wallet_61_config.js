@@ -1,1 +1,1 @@
-var mnemonic = "thought dirt unfair spend divide option early rally insect history faith sort";
+var mnemonic = "track pen clarify scrub senior surge parade record sell plastic kid make";

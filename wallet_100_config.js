@@ -1,1 +1,1 @@
-var mnemonic = "hammer hollow upset practice peanut fun jelly element draft tell mystery lamp";
+var mnemonic = "tree fatal foil drip seven improve roast air remove divorce discover idea";

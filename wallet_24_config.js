@@ -1,1 +1,1 @@
-var mnemonic = "universe wage urban blossom doll beyond brother thing anxiety pattern beach blush";
+var mnemonic = "winter mimic adult include reason ritual liberty promote level usage video relax";

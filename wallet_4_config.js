@@ -1,1 +1,1 @@
-var mnemonic = "small liar pear property cabin frequent initial lesson amount change foam exhaust";
+var mnemonic = "funny parade possible quiz swamp save oyster future electric inspire buddy visa";

@@ -1,1 +1,1 @@
-var mnemonic = "agent quantum involve erase raw cliff okay grace open reason exhibit replace";
+var mnemonic = "figure neutral tide snake tribe wrong print wrap attack tenant bid notice";

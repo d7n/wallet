@@ -1,1 +1,1 @@
-var mnemonic = "mass any must broom attack gasp waste alarm jazz hunt glass slab";
+var mnemonic = "giant seek slam universe syrup demise engine bounce casual twice tattoo love";

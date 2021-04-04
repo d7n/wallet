@@ -1,1 +1,1 @@
-var mnemonic = "volume fame moral whip layer adult earth category despair crisp room honey";
+var mnemonic = "situate silk dune multiply tackle grant mother expand identify mercy noodle tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "menu vehicle play october sign crater recycle select swear bean cream hill";
+var mnemonic = "damage deal comic subway control earn joke neglect wave stadium february winter";

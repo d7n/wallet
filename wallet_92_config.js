@@ -1,1 +1,1 @@
-var mnemonic = "north sample dawn fluid nerve toilet census swear torch april assume garment";
+var mnemonic = "flavor flash sister disease wagon shift parade badge advice dismiss twelve seminar";

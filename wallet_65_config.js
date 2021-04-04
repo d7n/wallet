@@ -1,1 +1,1 @@
-var mnemonic = "length injury limit frequent eagle average print hotel hand slide paddle disease";
+var mnemonic = "unit grass basket skin brush addict leave blast sudden drum pause comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "decade limit write lake enough catalog wrap top slender weasel layer other";
+var mnemonic = "fault rally trick famous umbrella arrow more screen olive hawk filter topic";

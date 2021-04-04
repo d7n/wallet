@@ -1,1 +1,1 @@
-var mnemonic = "angry razor coast castle spot cool gorilla save know breeze provide rain";
+var mnemonic = "jar hill mad weird autumn hundred endorse vendor around multiply wrist green";

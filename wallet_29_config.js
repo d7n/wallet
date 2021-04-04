@@ -1,1 +1,1 @@
-var mnemonic = "there giraffe warfare machine nature crisp stamp usage merge top reflect vehicle";
+var mnemonic = "soccer area coyote network spread try butter sing host daring snack start";

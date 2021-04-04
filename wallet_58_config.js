@@ -1,1 +1,1 @@
-var mnemonic = "inherit silver luggage gauge fetch civil black urge general hill layer term";
+var mnemonic = "kingdom tenant exotic like pencil round fun student behave price arrive month";

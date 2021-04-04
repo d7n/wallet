@@ -1,1 +1,1 @@
-var mnemonic = "wasp fragile undo poem ball waste decade aunt alarm version matter wrap";
+var mnemonic = "silent achieve series couch enforce where manual good pioneer knock action error";

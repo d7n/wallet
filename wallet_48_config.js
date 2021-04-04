@@ -1,1 +1,1 @@
-var mnemonic = "they carry brush describe scissors live kiss bubble ribbon fat task frost";
+var mnemonic = "damage banner power puppy hair various stand seven meat horn pave later";

@@ -1,1 +1,1 @@
-var mnemonic = "present trial surface youth trend require embrace tooth trap change armor cactus";
+var mnemonic = "quit capable cart bundle guess hen again hill denial uphold word mixed";

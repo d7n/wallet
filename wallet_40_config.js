@@ -1,1 +1,1 @@
-var mnemonic = "spare twice hobby song brave wrist best autumn strong hedgehog remove chunk";
+var mnemonic = "exist tiny balcony shiver universe mistake barrel candy salt island tribe rain";

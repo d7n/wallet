@@ -1,1 +1,1 @@
-var mnemonic = "salad swamp book crash enforce pause enter diagram indoor subway steak photo";
+var mnemonic = "offer space visit divert banner banana antenna unable woman invest indoor point";

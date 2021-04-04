@@ -1,1 +1,1 @@
-var mnemonic = "strong tenant strategy buyer strategy play mixture exact envelope purchase eyebrow orphan";
+var mnemonic = "inhale cabin wash cream any aspect black smooth vintage often chapter draft";

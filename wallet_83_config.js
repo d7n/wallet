@@ -1,1 +1,1 @@
-var mnemonic = "romance fringe sail siege spot month sick clog sock palace gain join";
+var mnemonic = "oval minor clog rural permit wear illegal satoshi sound spy song picnic";

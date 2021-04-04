@@ -1,1 +1,1 @@
-var mnemonic = "supply limb weekend skull amateur sting conduct seven february arrow fresh amused";
+var mnemonic = "board used alarm leopard pond wagon charge unknown polar cinnamon steel laugh";

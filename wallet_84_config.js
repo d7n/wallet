@@ -1,1 +1,1 @@
-var mnemonic = "amazing jump impact hamster convince company hazard enough reward filter session awake";
+var mnemonic = "debris pattern domain deer prefer clerk cream napkin high glad palace eager";

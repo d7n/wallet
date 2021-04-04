@@ -1,1 +1,1 @@
-var mnemonic = "crouch hover sugar pair option distance enter ignore critic piano shield hint";
+var mnemonic = "poem isolate fan horse filter one giggle host chapter van blue original";

@@ -1,1 +1,1 @@
-var mnemonic = "decade random demise squeeze walk security truth asthma van mountain habit portion";
+var mnemonic = "sponsor symbol round frog recipe long green merry series raccoon wrestle nuclear";

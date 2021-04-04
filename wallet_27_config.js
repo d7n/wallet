@@ -1,1 +1,1 @@
-var mnemonic = "about roast wrap rice shell off tone brief behind cruel adjust phrase";
+var mnemonic = "retire save more crisp void pave history gate fade speak village cigar";

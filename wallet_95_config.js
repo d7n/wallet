@@ -1,1 +1,1 @@
-var mnemonic = "morning east wisdom combine adapt round kingdom sibling exact festival mechanic joy";
+var mnemonic = "green supreme betray left poet pipe school size census charge meadow raise";

@@ -1,1 +1,1 @@
-var mnemonic = "north crash vanish thought inject prison marine they quantum salad frozen maximum";
+var mnemonic = "wash close hidden season order subject title maze rotate fiscal leopard delay";

@@ -1,1 +1,1 @@
-var mnemonic = "absent music input burden truth exhibit champion exile obvious clay attack viable";
+var mnemonic = "tribe coffee ostrich hotel about vapor suit wrong solid gym solid opinion";

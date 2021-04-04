@@ -1,1 +1,1 @@
-var mnemonic = "property digital valid north rapid beef fall wedding present sauce diamond mistake";
+var mnemonic = "wagon glass coffee rigid base marine pool wood anxiety load type author";

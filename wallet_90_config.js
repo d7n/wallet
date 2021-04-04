@@ -1,1 +1,1 @@
-var mnemonic = "sign young shove siege awful entire radio ancient weather tone salmon cycle";
+var mnemonic = "awkward slide vast suit truly rigid margin believe town arctic favorite portion";

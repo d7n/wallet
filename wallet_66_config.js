@@ -1,1 +1,1 @@
-var mnemonic = "awkward job above divorce brown simple bitter awful vacant obscure you electric";
+var mnemonic = "energy lens spawn loud home kid express try emerge tiny link suffer";

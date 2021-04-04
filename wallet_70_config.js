@@ -1,1 +1,1 @@
-var mnemonic = "above dilemma evil denial wild blade resist purse oven critic early loud";
+var mnemonic = "odor reflect car helmet merry mail pumpkin tank unfold mystery crystal struggle";

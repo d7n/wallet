@@ -1,1 +1,1 @@
-var mnemonic = "view oxygen fantasy rally phone moral debris twist this video jewel utility";
+var mnemonic = "mother advice lion lunar slender random episode funny select drip interest diesel";

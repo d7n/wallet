@@ -1,1 +1,1 @@
-var mnemonic = "script flip better receive tuition addict fun mom tree absent sustain clean";
+var mnemonic = "risk icon dad fatigue leader kit brisk bring slab organ kid pulse";

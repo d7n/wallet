@@ -1,1 +1,1 @@
-var mnemonic = "apart endorse initial harsh predict feed recall exist enroll permit burst basket";
+var mnemonic = "view bag hour core punch minimum puppy valid brief baby crisp nominee";

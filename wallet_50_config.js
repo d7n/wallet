@@ -1,1 +1,1 @@
-var mnemonic = "emerge exhaust joy patch number suit anxiety mule engine flash culture tag";
+var mnemonic = "cradle myself cushion chair frog vapor fuel emotion street rebel cabbage cluster";

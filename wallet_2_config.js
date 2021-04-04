@@ -1,1 +1,1 @@
-var mnemonic = "talk rapid breeze tourist flag crouch just arrange tunnel cat female paper";
+var mnemonic = "chuckle sunny response social toddler garbage curious assault scout pottery ancient olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "stem hard boss nasty stomach cat agent cannon champion reflect wisdom confirm";
+var mnemonic = "liquid help base venture crush bar hybrid moon music end drum boring";

@@ -1,1 +1,1 @@
-var mnemonic = "strike fine avocado decline stable wrestle glare type edit flush web attract";
+var mnemonic = "nice where like remove robust energy label few modify situate horn beauty";

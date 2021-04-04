@@ -1,1 +1,1 @@
-var mnemonic = "lottery collect axis eternal improve source caution cricket faint fish arch arctic";
+var mnemonic = "hawk found future click half seed couple knife flock wall energy horse";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate next decide match program million rug grass drink picnic employ mule";
+var mnemonic = "shop scorpion bicycle gown divide struggle catch nasty job poverty robot over";

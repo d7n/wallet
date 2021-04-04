@@ -1,1 +1,1 @@
-var mnemonic = "wagon engine cross latin debate arrest art basket present defy dentist horse";
+var mnemonic = "list solar police grocery release maximum tooth reward verify update plunge income";

@@ -1,1 +1,1 @@
-var mnemonic = "general deny speed please napkin wave vocal hawk split refuse armor marble";
+var mnemonic = "symptom anchor excuse cycle carbon grid other pool speed degree mosquito tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver skirt rookie mixture pencil add series stove outer fashion balcony budget";
+var mnemonic = "excuse neglect antenna gadget attend achieve goddess fossil blouse custom home salmon";

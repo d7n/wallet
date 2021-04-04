@@ -1,1 +1,1 @@
-var mnemonic = "mountain grow document man review junk release gloom teach barely offer sail";
+var mnemonic = "work ranch old skirt weather winter buyer cool hover mass regular omit";

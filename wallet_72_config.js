@@ -1,1 +1,1 @@
-var mnemonic = "fuel input already purpose begin message confirm tornado kind head top talk";
+var mnemonic = "garage tonight canvas verb field luggage mix trigger scorpion give layer board";

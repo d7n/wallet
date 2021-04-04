@@ -1,1 +1,1 @@
-var mnemonic = "dignity maid detect oyster put prosper rebel powder lens wreck cycle any";
+var mnemonic = "injury chat kiwi stem stamp struggle cover avoid lonely vehicle decrease veteran";

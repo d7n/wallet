@@ -1,1 +1,1 @@
-var mnemonic = "equip shell two novel space inch inject wear mixture candy fence dish";
+var mnemonic = "live promote tackle write butter girl group chase guide april express engine";

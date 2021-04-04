@@ -1,1 +1,1 @@
-var mnemonic = "neck protect barrel kitten home wink concert hold immune improve violin style";
+var mnemonic = "faint unaware deliver shoot add fluid crouch plunge oven turn choose cup";

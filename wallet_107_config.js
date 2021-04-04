@@ -1,1 +1,1 @@
-var mnemonic = "change outer stove trash lizard midnight lamp finish task until rubber collect";
+var mnemonic = "unit approve brisk sick together orchard matrix lemon release will hockey desert";

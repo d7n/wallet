@@ -1,1 +1,1 @@
-var mnemonic = "vault kangaroo begin fringe danger pave window gauge wrap wall syrup stem";
+var mnemonic = "divorce praise pink useful tent naive awesome resource what dinner arrive sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid swallow way alert vessel vast learn come birth lounge unlock motor";
+var mnemonic = "polar culture century chef ten holiday flavor ask faint legal action usual";

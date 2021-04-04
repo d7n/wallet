@@ -1,1 +1,1 @@
-var mnemonic = "narrow because wine veteran mail party estate outside client addict worry fortune";
+var mnemonic = "fruit saddle honey consider script poet crunch door perfect position wide unaware";

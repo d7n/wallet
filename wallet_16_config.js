@@ -1,1 +1,1 @@
-var mnemonic = "angry stay life embark tortoise stairs evidence prevent sea paper drill kind";
+var mnemonic = "caught matter wall false goat spin together siren please barely blouse fortune";

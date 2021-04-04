@@ -1,1 +1,1 @@
-var mnemonic = "ring type organ mouse allow wheel require window absent adjust source hamster";
+var mnemonic = "space belt pioneer expose pool bullet fox bar damp menu arrest coffee";

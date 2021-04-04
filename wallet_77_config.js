@@ -1,1 +1,1 @@
-var mnemonic = "oyster mail bicycle antenna swear seed patch ugly defense gather dish raven";
+var mnemonic = "raccoon stable ritual approve upper rude dose oppose agent use cycle total";
