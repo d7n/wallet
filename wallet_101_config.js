@@ -1,1 +1,1 @@
-var mnemonic = "toy orange toward manage powder charge phrase notice tumble impose practice switch";
+var mnemonic = "oyster battle firm garlic mixture episode dove wash rhythm industry second century";

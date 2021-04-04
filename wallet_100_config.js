@@ -1,1 +1,1 @@
-var mnemonic = "prevent post excuse trade spy wise grass roast spatial boring purpose flag";
+var mnemonic = "pave twist position merit viable onion soldier sure front remain lonely figure";

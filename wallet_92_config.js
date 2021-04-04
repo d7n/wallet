@@ -1,1 +1,1 @@
-var mnemonic = "time turkey bullet chase item seminar key fly north tonight bless rocket";
+var mnemonic = "cool okay aware toddler urban alpha caught keep glass tuna core royal";

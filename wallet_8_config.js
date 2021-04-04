@@ -1,1 +1,1 @@
-var mnemonic = "bunker trophy castle match grab remove nephew dog scan enlist perfect alone";
+var mnemonic = "collect run roof artwork summer duck ordinary when husband three account luggage";

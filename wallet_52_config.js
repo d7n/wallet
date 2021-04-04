@@ -1,1 +1,1 @@
-var mnemonic = "keen carpet boss sell carbon water arrive trial awake rent horn crumble";
+var mnemonic = "twice defense evidence seminar sentence shrimp imitate cheese hobby remove spread recycle";

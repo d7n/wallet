@@ -1,1 +1,1 @@
-var mnemonic = "mistake flame panther upset barrel join notable copy beauty sentence vault address";
+var mnemonic = "figure deer primary donate vault noise north viable mule tide load snack";

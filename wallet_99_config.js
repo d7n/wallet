@@ -1,1 +1,1 @@
-var mnemonic = "power board peanut abstract valve test escape cabin rice silk life fan";
+var mnemonic = "ticket ocean situate electric hand wild squirrel hawk tail type develop trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "goose van side foot piano pioneer slim maze lion evil behind camp";
+var mnemonic = "industry evidence hero midnight flag album just just envelope obvious impose obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "express raccoon question orchard nature garage dial decline present decorate junior tip";
+var mnemonic = "flip truth stuff edge obscure belt mimic saddle welcome smile habit senior";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse general exact menu flag grain final reflect position economy tattoo other";
+var mnemonic = "pumpkin tank link ozone enter hobby scatter offer gentle jacket like minute";

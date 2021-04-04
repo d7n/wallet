@@ -1,1 +1,1 @@
-var mnemonic = "melody sketch marble under lake text dose decide agent face filter glow";
+var mnemonic = "cream umbrella search stick cruise thumb talk hollow valve remember calm used";

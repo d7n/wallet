@@ -1,1 +1,1 @@
-var mnemonic = "uncover mail seat raw fluid repeat system attract solution guilt dutch hundred";
+var mnemonic = "dragon panda step floor split usage develop stone kitchen invite process spice";

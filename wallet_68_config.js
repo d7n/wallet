@@ -1,1 +1,1 @@
-var mnemonic = "casual upgrade jelly honey wolf scatter cash soccer field mule half flight";
+var mnemonic = "inside blush vault prison company flip door observe tribe tomato guard prefer";

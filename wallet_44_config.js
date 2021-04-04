@@ -1,1 +1,1 @@
-var mnemonic = "want size crumble judge guess boy flower category diamond damage inside treat";
+var mnemonic = "infant quit hurdle elegant enhance crater program beauty slight salon useless spend";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony brave arrive denial leopard lesson crazy cushion improve civil rack course";
+var mnemonic = "spider that fitness decline prison venture absurd isolate sausage heavy mandate friend";

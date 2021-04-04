@@ -1,1 +1,1 @@
-var mnemonic = "bubble craft wood usage afford spare leg copper refuse strategy chief north";
+var mnemonic = "nose suit strategy iron end young deny fire alcohol dentist modify miss";

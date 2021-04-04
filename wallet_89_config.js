@@ -1,1 +1,1 @@
-var mnemonic = "absorb siren admit dove velvet pupil mean head prosper welcome offer length";
+var mnemonic = "report body peanut focus major need video reunion tone clerk lucky strong";

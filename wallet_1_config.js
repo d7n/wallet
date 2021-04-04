@@ -1,1 +1,1 @@
-var mnemonic = "bomb copy walnut ginger river honey foam task current track equal snack";
+var mnemonic = "drill inmate finger hand mango valley option edge ginger diamond what rough";

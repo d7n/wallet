@@ -1,1 +1,1 @@
-var mnemonic = "maximum flag harvest horror onion random pretty defense couch left raccoon recycle";
+var mnemonic = "body sample evil helmet leaf oppose cute consider crater ramp predict disease";

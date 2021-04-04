@@ -1,1 +1,1 @@
-var mnemonic = "carbon melody hole foam bus boring furnace music harbor more glide dad";
+var mnemonic = "lunar timber economy pencil remember reopen duck force citizen idle chat aerobic";

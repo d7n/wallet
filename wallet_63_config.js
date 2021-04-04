@@ -1,1 +1,1 @@
-var mnemonic = "divorce doll fuel bargain wife artwork crop hen fuel frequent employ estate";
+var mnemonic = "model royal soda acquire agree project shield cloud mad police speed right";

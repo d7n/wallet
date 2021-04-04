@@ -1,1 +1,1 @@
-var mnemonic = "harsh name end toss add exile mountain dignity promote first company control";
+var mnemonic = "awake actual guitar stove lunch quick return mesh poverty custom okay mouse";

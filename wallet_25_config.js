@@ -1,1 +1,1 @@
-var mnemonic = "wonder since humble sauce capital auto laptop market huge special bleak magic";
+var mnemonic = "casual choice host person toy teach force want top cement blue shed";

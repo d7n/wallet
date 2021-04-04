@@ -1,1 +1,1 @@
-var mnemonic = "tomato december pole student worry cart burst theme girl pupil govern proud";
+var mnemonic = "then tennis walnut spare cross company caught piano prevent music maple unaware";

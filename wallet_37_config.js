@@ -1,1 +1,1 @@
-var mnemonic = "kidney hip special uncover arm wagon cup detail join school fashion twice";
+var mnemonic = "fetch because spring clutch flag remember team quality casual duck dream raw";

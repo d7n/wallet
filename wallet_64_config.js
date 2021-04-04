@@ -1,1 +1,1 @@
-var mnemonic = "candy pistol moon punch saddle message sister chalk burden culture three attitude";
+var mnemonic = "forest slogan goat flash keep rural honey senior hungry south quarter romance";

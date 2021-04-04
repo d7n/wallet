@@ -1,1 +1,1 @@
-var mnemonic = "tattoo walk kiwi clown zoo rescue snap hawk resemble option attitude inquiry";
+var mnemonic = "energy false large grief antenna excess harvest cake earn office barrel knock";

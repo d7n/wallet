@@ -1,1 +1,1 @@
-var mnemonic = "absurd always ripple common path now review animal cream topic squirrel citizen";
+var mnemonic = "grain denial office shuffle bring speed quarter ensure artefact snow shrimp isolate";

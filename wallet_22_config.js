@@ -1,1 +1,1 @@
-var mnemonic = "boat appear script people holiday glare choose month grid reunion swallow salt";
+var mnemonic = "wool camp turkey office city pact receive december cable hand estate black";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead runway push dash fun awake caught pave myself camera piano ring";
+var mnemonic = "neglect blush attitude acid recall put lake brush amateur manual pet project";

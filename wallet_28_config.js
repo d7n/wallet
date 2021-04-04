@@ -1,1 +1,1 @@
-var mnemonic = "fruit cannon demise old hurdle online shop grit robust shallow journey chicken";
+var mnemonic = "gold easily dose episode pepper borrow urban valley disorder country early trip";

@@ -1,1 +1,1 @@
-var mnemonic = "bulb soup churn disagree anger warfare hobby expire pink fire practice omit";
+var mnemonic = "chat vacuum fury layer reform liquid fantasy plug eight keen ribbon fitness";

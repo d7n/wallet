@@ -1,1 +1,1 @@
-var mnemonic = "minimum pill burden walk enable country tide degree ready ship square oyster";
+var mnemonic = "answer seat either announce assume luggage chunk prefer kind vintage then follow";

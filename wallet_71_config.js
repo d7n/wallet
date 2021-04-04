@@ -1,1 +1,1 @@
-var mnemonic = "boil helmet dragon unfold check aisle unfair segment coffee brisk acoustic february";
+var mnemonic = "often van there gallery camp opera borrow style popular frost ignore inhale";

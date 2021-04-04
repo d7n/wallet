@@ -1,1 +1,1 @@
-var mnemonic = "erase blue pill pen already ozone draft tuna hard bean dust caution";
+var mnemonic = "betray pelican helmet club refuse fortune pride vocal bullet guide vacant trophy";

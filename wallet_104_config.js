@@ -1,1 +1,1 @@
-var mnemonic = "payment mask drive parent chimney suspect idea patient spatial spell razor now";
+var mnemonic = "season enact half web grid during budget interest culture doctor opinion thumb";

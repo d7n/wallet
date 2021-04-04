@@ -1,1 +1,1 @@
-var mnemonic = "final satoshi east hybrid rural shoulder heavy grid rude tent entire fog";
+var mnemonic = "sure truly diesel donkey subject velvet among coyote early member escape destroy";

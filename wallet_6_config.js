@@ -1,1 +1,1 @@
-var mnemonic = "kingdom leaf reveal plate hotel recycle retreat subject room design reflect kid";
+var mnemonic = "legend puzzle verify connect attend tree please absurd anger total cruise voice";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum segment luggage predict wheel describe involve spring dirt wedding script fruit";
+var mnemonic = "allow upgrade year search sample pear hole carpet love divide open youth";

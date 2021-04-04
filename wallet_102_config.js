@@ -1,1 +1,1 @@
-var mnemonic = "evidence wing seek soldier plunge erase print alter october spare flag luxury";
+var mnemonic = "obey flavor weather toe wool dynamic fault lion figure video royal innocent";

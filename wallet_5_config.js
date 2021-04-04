@@ -1,1 +1,1 @@
-var mnemonic = "step smoke genius tower raise lyrics east vague pulp noodle donkey slender";
+var mnemonic = "tongue air chronic apple spell matter broken ceiling federal blood special reject";

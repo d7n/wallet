@@ -1,1 +1,1 @@
-var mnemonic = "helmet throw emotion race wing height category alpha man cool rack sunny";
+var mnemonic = "giant explain pig raven they hawk engage boost drip object furnace bubble";

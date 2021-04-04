@@ -1,1 +1,1 @@
-var mnemonic = "reveal word job afraid patch rule indoor bracket fragile wedding hip turkey";
+var mnemonic = "coil churn traffic fatal soft price swift canvas photo mix avocado planet";

@@ -1,1 +1,1 @@
-var mnemonic = "file vibrant excuse diagram prepare confirm cotton gauge wool pipe catalog bacon";
+var mnemonic = "force much cat wolf stove airport predict drastic leaf fire food improve";

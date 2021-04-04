@@ -1,1 +1,1 @@
-var mnemonic = "midnight rather engine reduce box swing lock genius assault once prevent spare";
+var mnemonic = "inside service remove heavy exotic require firm milk draw that slide bamboo";

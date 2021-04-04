@@ -1,1 +1,1 @@
-var mnemonic = "what sight crumble net puzzle goose buddy valley lucky reopen usual uniform";
+var mnemonic = "bike sunny radar south castle glass injury actress speed mechanic fossil alarm";

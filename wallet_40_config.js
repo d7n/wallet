@@ -1,1 +1,1 @@
-var mnemonic = "wet wing main puzzle ozone notable indicate bomb proud elbow layer absorb";
+var mnemonic = "hurry desert pepper give vote notable turkey odor series hurt reason canvas";

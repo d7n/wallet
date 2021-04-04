@@ -1,1 +1,1 @@
-var mnemonic = "left liberty device reflect jungle puppy apology help brave error inmate wolf";
+var mnemonic = "wave inch middle guide rice wet insane album theme pulse bargain drama";

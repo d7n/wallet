@@ -1,1 +1,1 @@
-var mnemonic = "such husband sample sad gather pen derive medal hurt love immense slight";
+var mnemonic = "travel own able square captain city pond soap despair duck alert until";

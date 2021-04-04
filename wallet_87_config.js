@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur bicycle trial toward left depart enforce eye mesh mystery ten good";
+var mnemonic = "blouse drastic salute blame flock obtain orient expect usage humor deposit marriage";

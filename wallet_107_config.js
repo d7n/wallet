@@ -1,1 +1,1 @@
-var mnemonic = "decide refuse opinion muscle post inject runway common chase just half invite";
+var mnemonic = "ivory page letter crisp suggest rose trust monster music raccoon just certain";

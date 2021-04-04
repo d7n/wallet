@@ -1,1 +1,1 @@
-var mnemonic = "large vault subject hamster laptop sand interest bind thought image crazy insane";
+var mnemonic = "casino know hockey top whale glory climb same bread trumpet motion hero";

@@ -1,1 +1,1 @@
-var mnemonic = "resemble stay chuckle vocal exhibit very stool perfect bag coconut air imitate";
+var mnemonic = "bundle rebel bench message trend pave romance blast pulse casual basket cigar";

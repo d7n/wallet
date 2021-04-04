@@ -1,1 +1,1 @@
-var mnemonic = "drill glad find butter ten engage believe sudden vacant into ecology oil";
+var mnemonic = "drill impose basic melody clog silly excite giant track expose trial improve";

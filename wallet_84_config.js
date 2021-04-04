@@ -1,1 +1,1 @@
-var mnemonic = "sorry tortoise gown dad ask duty side beach purpose stamp cake airport";
+var mnemonic = "type tortoise fuel change quick enter upgrade weird inside project vessel expire";

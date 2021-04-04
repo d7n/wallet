@@ -1,1 +1,1 @@
-var mnemonic = "remove click lecture trial seven wire bench pistol unique squeeze donkey inform";
+var mnemonic = "flavor glad nuclear myself like unknown parade rice since giraffe scene lens";

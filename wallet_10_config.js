@@ -1,1 +1,1 @@
-var mnemonic = "print join strike enrich slim frown check delay marine actress bullet attack";
+var mnemonic = "cake easy surface syrup labor section october predict resource pepper reveal bracket";

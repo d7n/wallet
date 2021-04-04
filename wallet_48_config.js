@@ -1,1 +1,1 @@
-var mnemonic = "claim apology fat arrive jacket casual cart truly cash stock slight timber";
+var mnemonic = "obvious soda purpose position slow cost umbrella two spatial kidney orchard annual";

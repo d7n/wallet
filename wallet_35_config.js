@@ -1,1 +1,1 @@
-var mnemonic = "glory middle quarter segment chalk east purse dizzy afford try depart original";
+var mnemonic = "elephant heavy add frown degree ketchup sign response explain radar enemy awkward";

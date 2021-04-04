@@ -1,1 +1,1 @@
-var mnemonic = "loop mimic iron purpose cricket hedgehog heavy use urban economy order base";
+var mnemonic = "exist sentence kind cargo voyage health example sauce observe example retreat trial";

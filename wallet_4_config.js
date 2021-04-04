@@ -1,1 +1,1 @@
-var mnemonic = "easily income curve live execute unveil edge occur vacuum now direct diagram";
+var mnemonic = "glory asset cute napkin monster curve group slab spice law average tourist";

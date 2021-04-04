@@ -1,1 +1,1 @@
-var mnemonic = "napkin area weasel myself raccoon circle pilot lake audit wink chair lunch";
+var mnemonic = "happy dance flock empower talk write palace goose below split flush wet";

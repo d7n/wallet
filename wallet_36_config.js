@@ -1,1 +1,1 @@
-var mnemonic = "survey street critic loud relax hamster another oven disorder inside tonight error";
+var mnemonic = "bonus used human theory cement slender home flock destroy april extra cloth";

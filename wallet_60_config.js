@@ -1,1 +1,1 @@
-var mnemonic = "orbit series flush exercise exclude mother vault hope hedgehog gravity fun apart";
+var mnemonic = "hurdle trouble index estate lumber sort believe such tube identify under catalog";

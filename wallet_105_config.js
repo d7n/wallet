@@ -1,1 +1,1 @@
-var mnemonic = "fatal random tube excite mansion neutral infant waste they bitter dog galaxy";
+var mnemonic = "swarm news humor trip simple labor ugly gauge slight craft pear twenty";

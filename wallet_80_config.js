@@ -1,1 +1,1 @@
-var mnemonic = "thunder benefit double federal grab dumb ignore fiction cart shell giggle great";
+var mnemonic = "ivory squeeze hungry cake tribe away half execute sketch link rail dismiss";

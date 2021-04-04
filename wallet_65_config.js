@@ -1,1 +1,1 @@
-var mnemonic = "carpet combine clarify reflect circle produce laundry tissue burden armed box hollow";
+var mnemonic = "girl border rug gospel good across tide depth broccoli wave current stadium";

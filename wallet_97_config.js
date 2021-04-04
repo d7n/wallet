@@ -1,1 +1,1 @@
-var mnemonic = "attend page asthma roof believe decorate nothing drop purity beyond drink nothing";
+var mnemonic = "upgrade decorate little globe radar ugly climb angle lyrics work cheap brisk";

@@ -1,1 +1,1 @@
-var mnemonic = "snack symbol dance dial brass toy eight verb nerve top column innocent";
+var mnemonic = "patrol foam survey hobby object another oval cargo trash dry episode acid";

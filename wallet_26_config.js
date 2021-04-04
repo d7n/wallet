@@ -1,1 +1,1 @@
-var mnemonic = "unusual retreat consider barely online spend scale negative surge original blind tornado";
+var mnemonic = "effort shoot around cake december boat hospital equip bean sketch satoshi release";

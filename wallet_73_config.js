@@ -1,1 +1,1 @@
-var mnemonic = "play hour sand grief bronze miracle better sister pilot yard castle casino";
+var mnemonic = "sketch slam saddle eight breeze essence loop main expose parent winner offer";

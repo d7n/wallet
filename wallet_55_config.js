@@ -1,1 +1,1 @@
-var mnemonic = "carpet hotel inflict cube gossip walk sure hawk please champion picture auction";
+var mnemonic = "surface position clinic enforce sniff grace then later crater copper only muffin";

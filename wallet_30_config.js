@@ -1,1 +1,1 @@
-var mnemonic = "naive badge wrap bullet whale title company gallery hire armed hood couch";
+var mnemonic = "faith able arrange electric make impose quote magic trick weather trap drink";

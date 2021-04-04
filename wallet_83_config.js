@@ -1,1 +1,1 @@
-var mnemonic = "already fan deposit thank balance hen enemy twelve royal negative drum buffalo";
+var mnemonic = "devote pluck sketch major hundred manage wear muscle demise venue panel slice";

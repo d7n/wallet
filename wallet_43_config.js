@@ -1,1 +1,1 @@
-var mnemonic = "produce aim acoustic present pet rigid liar twelve excite pool trade force";
+var mnemonic = "dress frog staff pelican trend reject easy review soda advance essence group";

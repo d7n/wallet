@@ -1,1 +1,1 @@
-var mnemonic = "female weekend torch toilet find shine garbage shock tonight thrive silly copper";
+var mnemonic = "parade track refuse degree area version hero lion short oak evolve inquiry";

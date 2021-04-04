@@ -1,1 +1,1 @@
-var mnemonic = "rhythm panther sport bounce guard alley wave giraffe odor gentle awesome shallow";
+var mnemonic = "child green shy dignity ask give barrel curve circle flag bubble dad";

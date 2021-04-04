@@ -1,1 +1,1 @@
-var mnemonic = "correct fresh health globe anchor ready soda vacuum smile among coil affair";
+var mnemonic = "repeat reveal engage country horn alter embody ancient noble act found mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "drum unlock real divide action vital fold also awkward evoke good antique";
+var mnemonic = "grocery reduce impulse hurt squeeze place like myth solar local amateur put";

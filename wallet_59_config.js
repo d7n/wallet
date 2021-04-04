@@ -1,1 +1,1 @@
-var mnemonic = "pottery basic pulp case spend toilet person never slab few rebuild hammer";
+var mnemonic = "shoe law album share sense token pole crunch tuition gap hamster modify";

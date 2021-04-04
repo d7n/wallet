@@ -1,1 +1,1 @@
-var mnemonic = "beef away claw reward blouse orphan coach click ancient illegal mansion neutral";
+var mnemonic = "amateur then destroy morning pilot only embrace affair work debris voyage aisle";

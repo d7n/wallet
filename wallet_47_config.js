@@ -1,1 +1,1 @@
-var mnemonic = "mask gospel comic proud valid brick feed angle sentence pilot orange shallow";
+var mnemonic = "student hurdle immense opinion stereo pole play rail person wagon shaft warrior";

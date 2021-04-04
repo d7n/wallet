@@ -1,1 +1,1 @@
-var mnemonic = "radar zero cupboard minor awful glad where swear woman warfare prevent impose";
+var mnemonic = "diamond stadium reject raccoon supreme truck spray rely moral assist speed act";

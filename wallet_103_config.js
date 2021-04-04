@@ -1,1 +1,1 @@
-var mnemonic = "olympic narrow option forget pride second glue bulk anchor knock dilemma then";
+var mnemonic = "horror vacant elephant acid used peace spawn quality shoot stand cliff cool";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate crisp injury field loud volume pitch tobacco mix dust fiber amused";
+var mnemonic = "glue figure sleep jungle van page winner doll item sweet still notice";

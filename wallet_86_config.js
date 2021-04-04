@@ -1,1 +1,1 @@
-var mnemonic = "float boil entire since sauce social quality group tuna spatial below library";
+var mnemonic = "leopard square lucky outer maximum distance end claw rally evil insect exist";

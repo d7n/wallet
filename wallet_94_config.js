@@ -1,1 +1,1 @@
-var mnemonic = "cash punch learn penalty ready fabric patrol segment increase vessel about riot";
+var mnemonic = "broom job soul venue among spring neglect aspect beyond oyster future staff";

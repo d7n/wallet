@@ -1,1 +1,1 @@
-var mnemonic = "tail tourist swallow goat practice route fade island priority observe awesome please";
+var mnemonic = "exhibit logic feed lucky describe another excess property glory wheel letter ugly";

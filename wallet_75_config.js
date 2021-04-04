@@ -1,1 +1,1 @@
-var mnemonic = "decade crisp human ice quiz flush air renew addict vacant buffalo arrange";
+var mnemonic = "device muscle fury ginger swap improve wasp congress tourist foam elevator lemon";

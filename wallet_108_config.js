@@ -1,1 +1,1 @@
-var mnemonic = "record dream flee trend route describe disagree program arrow taxi water ability";
+var mnemonic = "funny crowd knife later economy parade fantasy token hurt general try deer";
