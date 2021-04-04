@@ -1,1 +1,1 @@
-var mnemonic = "bargain table chapter connect flag stable photo novel combine ceiling wool funny";
+var mnemonic = "robot mass allow discover favorite kangaroo guilt tool tail soda slender vendor";

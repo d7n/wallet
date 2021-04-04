@@ -1,1 +1,1 @@
-var mnemonic = "vacuum river entry word clog flip fence milk fence version ribbon enough";
+var mnemonic = "skate library achieve limit move diesel boring fiction asthma course detect gown";

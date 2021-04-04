@@ -1,1 +1,1 @@
-var mnemonic = "shell very august symbol actual unfold tumble captain knife way cabin bachelor";
+var mnemonic = "indoor size pizza skate ghost example bonus ring what pulp suit spend";

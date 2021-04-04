@@ -1,1 +1,1 @@
-var mnemonic = "cruise uncover kiwi dynamic tourist library excite dream use inch tortoise prepare";
+var mnemonic = "shield whip envelope opera social process ethics process exact purse merge habit";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy glance account torch february voyage border tower skate venue auto insane";
+var mnemonic = "milk voyage cruel wall vibrant force entire fetch wild gentle marriage concert";

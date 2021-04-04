@@ -1,1 +1,1 @@
-var mnemonic = "jacket avocado become theme object tower cross castle luggage annual there twice";
+var mnemonic = "bleak scissors omit churn cash camera input identify effort polar later boat";

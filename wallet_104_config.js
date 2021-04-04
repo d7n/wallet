@@ -1,1 +1,1 @@
-var mnemonic = "grape alley retire health horror grow sugar flower special rich prepare chaos";
+var mnemonic = "frame pupil recycle broken brain name absent window pistol act frame donor";

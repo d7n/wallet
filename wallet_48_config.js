@@ -1,1 +1,1 @@
-var mnemonic = "tool patrol make race above switch inquiry jazz flush science omit element";
+var mnemonic = "ten napkin noodle category broken stamp same spice beef tunnel chalk visa";

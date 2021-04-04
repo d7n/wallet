@@ -1,1 +1,1 @@
-var mnemonic = "spy neutral stay toddler stable urge burst describe chunk valid energy faint";
+var mnemonic = "review brain cry seek once shock wife ranch lion consider dial comic";

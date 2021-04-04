@@ -1,1 +1,1 @@
-var mnemonic = "clerk fossil exotic cheese cushion jelly ginger arm frame athlete cruise hip";
+var mnemonic = "verify journey expand trigger supreme afraid accident forum outdoor faith joy artwork";

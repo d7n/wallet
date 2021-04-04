@@ -1,1 +1,1 @@
-var mnemonic = "message story paddle leg odor buddy skin armor radio essence size code";
+var mnemonic = "amateur acoustic true hold diesel gold parade glass pact wink theory wise";

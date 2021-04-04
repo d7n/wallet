@@ -1,1 +1,1 @@
-var mnemonic = "cross weapon lunar public bulk today mobile execute guess orbit wait prefer";
+var mnemonic = "expect raw genre amount edge popular crumble fall uncle accuse primary frog";

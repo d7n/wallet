@@ -1,1 +1,1 @@
-var mnemonic = "onion hammer atom spoon air syrup puppy forget van wine urge engage";
+var mnemonic = "raw source drip poet glove nest welcome spread club silly holiday crew";

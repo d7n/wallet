@@ -1,1 +1,1 @@
-var mnemonic = "renew broccoli stereo subject owner soda exit message various extra pass today";
+var mnemonic = "debris cost cute february curious memory sense satoshi cover chef bind cushion";

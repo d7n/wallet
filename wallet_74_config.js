@@ -1,1 +1,1 @@
-var mnemonic = "buzz ripple buffalo lawsuit rack result sunset hotel figure aunt throw youth";
+var mnemonic = "wealth melt explain where snake fly suspect mandate chief another gospel pet";

@@ -1,1 +1,1 @@
-var mnemonic = "senior twin hold occur grant dune fury kidney nest toy miracle drink";
+var mnemonic = "student volcano come illness venture merit situate media mix shoot coast disease";

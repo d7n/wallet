@@ -1,1 +1,1 @@
-var mnemonic = "finish eye series angry donor risk second service inch trick expect solid";
+var mnemonic = "welcome protect online attitude poet elbow sentence chimney scorpion slush canyon sign";

@@ -1,1 +1,1 @@
-var mnemonic = "tone left pond miracle prevent dolphin dial walk time hero saddle range";
+var mnemonic = "girl sorry bread drastic flip symbol bread habit soccer tortoise wonder hurdle";

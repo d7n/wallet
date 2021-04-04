@@ -1,1 +1,1 @@
-var mnemonic = "cigar pause tent obey yard front huge wide magic win cash solution";
+var mnemonic = "better vacant deer between pipe scout rain sort stove ugly coconut already";

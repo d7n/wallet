@@ -1,1 +1,1 @@
-var mnemonic = "better pen inner episode unlock hood sting proud own gap trap rich";
+var mnemonic = "company cheap social pool medal news parrot stock frozen camera swamp dog";

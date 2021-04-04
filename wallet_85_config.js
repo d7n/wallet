@@ -1,1 +1,1 @@
-var mnemonic = "final hire glide proud salmon crash penalty fiction easily kangaroo position oppose";
+var mnemonic = "siege lawn abandon butter absorb arrow spell wise humble couch muscle wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "silk family occur away nature lava come legal remember gossip tell rude";
+var mnemonic = "explain fold conduct pig wheel oil enough spoil script sweet elevator broccoli";

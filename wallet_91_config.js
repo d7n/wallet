@@ -1,1 +1,1 @@
-var mnemonic = "history liquid parrot normal fitness appear journey antique hello assault desert bright";
+var mnemonic = "rapid gadget paper keen rapid combine involve donkey style lock cousin pledge";

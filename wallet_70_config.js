@@ -1,1 +1,1 @@
-var mnemonic = "bird mountain menu floor must observe traffic interest scale unknown swing cave";
+var mnemonic = "security volcano sleep staff supply iron feel stadium monkey dry detail trust";

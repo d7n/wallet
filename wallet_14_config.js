@@ -1,1 +1,1 @@
-var mnemonic = "kick release negative powder tiger develop accident diamond motion neutral blur agree";
+var mnemonic = "insect alter sheriff autumn regret slim sound quick pyramid need expect farm";

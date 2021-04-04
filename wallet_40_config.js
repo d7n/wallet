@@ -1,1 +1,1 @@
-var mnemonic = "call upgrade wrong whip ketchup era creek forward afraid isolate imitate vanish";
+var mnemonic = "that circle math eternal february dad accident reflect repeat either equal total";

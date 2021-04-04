@@ -1,1 +1,1 @@
-var mnemonic = "comic leisure uncover creek horror fringe mass actual reunion produce song orient";
+var mnemonic = "naive motor volume end glad salute protect sleep any crowd dizzy draft";

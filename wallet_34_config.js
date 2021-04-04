@@ -1,1 +1,1 @@
-var mnemonic = "there cost play base border acquire movie waste vehicle appear aspect tornado";
+var mnemonic = "situate inquiry prison foam lottery accident secret napkin cause hungry girl survey";

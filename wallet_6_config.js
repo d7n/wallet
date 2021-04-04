@@ -1,1 +1,1 @@
-var mnemonic = "happy okay blue eye alert doctor romance scale media nest matter business";
+var mnemonic = "neck phone over raise gravity cat dismiss clip foil ready sea opera";

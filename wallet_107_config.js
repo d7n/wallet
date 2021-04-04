@@ -1,1 +1,1 @@
-var mnemonic = "fragile region afraid yellow negative lemon capable parent arrange pattern cattle art";
+var mnemonic = "undo income course century panther rather leave document live tiny list faith";

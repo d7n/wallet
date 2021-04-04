@@ -1,1 +1,1 @@
-var mnemonic = "guide humor snap cancel exit together faint knee sure first trash chicken";
+var mnemonic = "jar sibling prefer margin area upon frame style vital pact say reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "crime dash educate lottery whip evidence leave over catch galaxy giant frost";
+var mnemonic = "sport proud blood illness then day sign gasp glory combine east retreat";

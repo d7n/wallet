@@ -1,1 +1,1 @@
-var mnemonic = "web moon island lesson case view script similar wrestle describe pioneer name";
+var mnemonic = "owner want announce boss parade faculty build wrestle review nut have fashion";

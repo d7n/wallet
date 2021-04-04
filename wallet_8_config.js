@@ -1,1 +1,1 @@
-var mnemonic = "trigger cruise lamp crystal mutual balance grape gallery width square trouble decade";
+var mnemonic = "short panda park one cruise cycle local later topic laptop carry cactus";

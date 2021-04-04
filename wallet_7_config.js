@@ -1,1 +1,1 @@
-var mnemonic = "old weird defy plate goddess abstract drastic next grant casual often subject";
+var mnemonic = "hedgehog this fault skill farm marine observe coconut general youth pill zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "will rough license umbrella scout mention target ticket awesome wolf day wool";
+var mnemonic = "isolate credit vessel side best open crush settle educate clump prepare annual";

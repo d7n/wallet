@@ -1,1 +1,1 @@
-var mnemonic = "flash face coil second rate chest morning error area observe alert discover";
+var mnemonic = "switch melt world echo code entire rare casual noise panel must peace";

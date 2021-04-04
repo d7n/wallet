@@ -1,1 +1,1 @@
-var mnemonic = "mouse steel wool proud goddess column choice own foil acid edit month";
+var mnemonic = "audit gift town key smile sport custom hazard casual trap runway reason";

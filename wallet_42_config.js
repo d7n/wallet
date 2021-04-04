@@ -1,1 +1,1 @@
-var mnemonic = "uniform find gorilla mutual bean demise post cycle impact photo comfort silk";
+var mnemonic = "journey boy cherry shock direct keep correct cube report what vague pen";

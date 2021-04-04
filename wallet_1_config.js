@@ -1,1 +1,1 @@
-var mnemonic = "finger scare upon address siege improve tackle thunder differ drum evidence pond";
+var mnemonic = "maple crew table invite ramp sure shiver betray retire cat elephant picnic";

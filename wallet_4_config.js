@@ -1,1 +1,1 @@
-var mnemonic = "twin wide claim float cat they manage arrive awkward now sentence drive";
+var mnemonic = "busy menu talk fold humor sadness hip grit work crew habit market";

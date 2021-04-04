@@ -1,1 +1,1 @@
-var mnemonic = "claim north pledge settle furnace fantasy material enact voice short nephew orchard";
+var mnemonic = "bundle duty sick dizzy umbrella tent own hover salt pulse april lucky";

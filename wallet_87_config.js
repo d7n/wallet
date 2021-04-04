@@ -1,1 +1,1 @@
-var mnemonic = "one reflect cover brave charge swear soup dilemma brand only life shy";
+var mnemonic = "seven avoid cube useless poet frown farm never birth female joke foil";

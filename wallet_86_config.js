@@ -1,1 +1,1 @@
-var mnemonic = "travel illegal fade tongue journey august shoulder consider creek reopen cruise chat";
+var mnemonic = "skin easy give limit grant copy reflect learn virtual dawn leopard cup";

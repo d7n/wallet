@@ -1,1 +1,1 @@
-var mnemonic = "clump already noise daughter begin goose rate update scrub away pink impact";
+var mnemonic = "canvas battle dog home wagon decorate sunset pause awful accident waste lumber";

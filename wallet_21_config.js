@@ -1,1 +1,1 @@
-var mnemonic = "sting situate narrow spoon shoulder list cute vast wrist now orchard forget";
+var mnemonic = "accident inmate bring brush donor coach pulse broom else danger exhibit ready";

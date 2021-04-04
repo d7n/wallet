@@ -1,1 +1,1 @@
-var mnemonic = "business tattoo glimpse lottery goddess castle couple pizza leader review defy denial";
+var mnemonic = "scale sunset glimpse melody connect animal burst ozone total rule cloud boost";

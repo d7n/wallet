@@ -1,1 +1,1 @@
-var mnemonic = "legend ritual crack mule hard happy candy average honey renew joy neck";
+var mnemonic = "forward approve dry world crouch animal bracket retreat identify impact giant team";

@@ -1,1 +1,1 @@
-var mnemonic = "ten vocal extra embrace pluck trash earth camp aunt ivory street grass";
+var mnemonic = "mercy sight awful lawsuit lunar define bus dumb repair senior best amazing";

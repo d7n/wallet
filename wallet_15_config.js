@@ -1,1 +1,1 @@
-var mnemonic = "lady earn collect drink lesson cloud economy evidence corn evolve hollow grit";
+var mnemonic = "person decrease dress sell void control wisdom coconut mom unhappy pottery middle";

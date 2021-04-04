@@ -1,1 +1,1 @@
-var mnemonic = "dutch oxygen dose drift minimum arrive wild harvest lake sunset vapor flame";
+var mnemonic = "negative invite jewel yard affair settle hidden write below negative normal sibling";

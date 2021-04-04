@@ -1,1 +1,1 @@
-var mnemonic = "machine wife share wild aspect tortoise dove lift adjust describe uniform question";
+var mnemonic = "festival belt federal glimpse clerk senior stage stairs evidence cram list bread";

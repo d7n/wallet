@@ -1,1 +1,1 @@
-var mnemonic = "pistol cup history grace hunt blind cool dial insane cause chimney elder";
+var mnemonic = "upset gentle sport famous nurse key joy skirt bicycle egg jealous vague";

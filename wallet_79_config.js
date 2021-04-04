@@ -1,1 +1,1 @@
-var mnemonic = "mask pupil slim believe energy virus fantasy alpha violin silk bounce history";
+var mnemonic = "unable solar metal remain discover space prosper travel release uncle keen auto";

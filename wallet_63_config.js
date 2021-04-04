@@ -1,1 +1,1 @@
-var mnemonic = "industry exercise depend hedgehog convince adult fence stamp warm lake middle love";
+var mnemonic = "exact public error two sugar taxi borrow wonder until used total unfair";

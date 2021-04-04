@@ -1,1 +1,1 @@
-var mnemonic = "shrug width habit message pulse miracle skate hand priority busy oyster brand";
+var mnemonic = "tired tongue zone gauge vendor wash wrestle float rose rely jar truck";

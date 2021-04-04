@@ -1,1 +1,1 @@
-var mnemonic = "interest popular wall remove tackle silver between turkey actor poet mushroom ugly";
+var mnemonic = "yard uncle father essay brain quick inquiry amateur frown century indicate divert";

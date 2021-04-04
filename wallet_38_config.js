@@ -1,1 +1,1 @@
-var mnemonic = "mixed visual advice bird moment occur ride farm achieve knife strike false";
+var mnemonic = "diary crystal vendor cram grocery stem father found catch struggle multiply visual";

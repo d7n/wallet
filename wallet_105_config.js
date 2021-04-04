@@ -1,1 +1,1 @@
-var mnemonic = "glow calm gun hawk bottom tenant develop tumble copper fatigue garlic problem";
+var mnemonic = "destroy ladder switch moral dance interest sister critic brick convince auction earth";

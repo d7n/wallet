@@ -1,1 +1,1 @@
-var mnemonic = "vacant engine cradle grab elevator picnic ecology turtle engage talent lottery liar";
+var mnemonic = "iron asthma crew act derive main topic laundry smile horn roof buyer";

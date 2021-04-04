@@ -1,1 +1,1 @@
-var mnemonic = "route math rebuild gaze occur mean update hidden curious slogan element disorder";
+var mnemonic = "own distance tired measure claim acquire super parrot favorite fan pottery oil";

@@ -1,1 +1,1 @@
-var mnemonic = "ahead bacon peanut unable scan invest oblige lawsuit mansion flight yard panel";
+var mnemonic = "slight drop number resist nuclear grape middle renew voice health hockey analyst";

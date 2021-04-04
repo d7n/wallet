@@ -1,1 +1,1 @@
-var mnemonic = "faculty fit demand action useful relax oval bomb item priority ability anger";
+var mnemonic = "goddess assist alert sleep hunt castle define fire announce planet upon accuse";

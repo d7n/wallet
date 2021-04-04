@@ -1,1 +1,1 @@
-var mnemonic = "clean captain culture high atom major drive address screen exotic lady employ";
+var mnemonic = "sibling double noise scheme cattle shield inform shoot muffin aspect found episode";

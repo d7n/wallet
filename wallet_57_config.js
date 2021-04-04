@@ -1,1 +1,1 @@
-var mnemonic = "deliver nest solid leader wet tool try bacon coil silly unfair gesture";
+var mnemonic = "explain ordinary sand coral concert upper ethics bamboo motion rare pact oval";

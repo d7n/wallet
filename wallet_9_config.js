@@ -1,1 +1,1 @@
-var mnemonic = "nut hero shop cotton indicate cram sunset champion escape february extend trim";
+var mnemonic = "giggle burger patch cushion proof deal coast actress wait body satoshi soda";

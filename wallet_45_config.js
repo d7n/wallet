@@ -1,1 +1,1 @@
-var mnemonic = "recall prison demise learn bullet mouse kitchen pepper alpha picnic ivory age";
+var mnemonic = "defy ginger party quality peasant opera save fluid enjoy involve whale have";

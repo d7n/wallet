@@ -1,1 +1,1 @@
-var mnemonic = "undo language spoil vanish host family typical aisle sail cushion symbol poverty";
+var mnemonic = "road cruise swift primary key apart second barely obscure plastic notable blossom";

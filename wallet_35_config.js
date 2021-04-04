@@ -1,1 +1,1 @@
-var mnemonic = "liberty rack park alien panic mesh copper student artefact shy tonight noble";
+var mnemonic = "grass response wash same silk subject enlist nation else later kitten honey";

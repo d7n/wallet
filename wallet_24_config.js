@@ -1,1 +1,1 @@
-var mnemonic = "woman clinic deliver fossil roof laptop diagram cook car magic anxiety income";
+var mnemonic = "paper burger park outer olive prize around shadow profit universe addict broom";

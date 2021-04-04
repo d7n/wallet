@@ -1,1 +1,1 @@
-var mnemonic = "cereal bullet inch output express there slim short force client hello badge";
+var mnemonic = "material illness ketchup zero bread rapid social tongue canyon cushion token outside";

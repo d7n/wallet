@@ -1,1 +1,1 @@
-var mnemonic = "leopard lottery assume loan grief cactus because soap aunt bless ramp script";
+var mnemonic = "rabbit where alpha trash hurdle music duck soap evil local ecology fetch";

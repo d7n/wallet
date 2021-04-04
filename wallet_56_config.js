@@ -1,1 +1,1 @@
-var mnemonic = "ribbon frame joy unhappy enforce rhythm flash mobile design velvet poem siege";
+var mnemonic = "tunnel silly inmate spring whale clog mechanic pigeon club fence ocean uphold";

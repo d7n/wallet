@@ -1,1 +1,1 @@
-var mnemonic = "orient this gesture snow scatter effort mystery canvas north laugh alpha indoor";
+var mnemonic = "bottom thunder insect vehicle item offer crop struggle truth trust ivory adjust";

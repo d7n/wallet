@@ -1,1 +1,1 @@
-var mnemonic = "ancient frozen narrow private civil carpet usage pencil kid educate six train";
+var mnemonic = "wine stage ball session meat later total churn excess tennis any addict";

@@ -1,1 +1,1 @@
-var mnemonic = "author raccoon blade hungry name twice glory abstract fitness exercise trumpet praise";
+var mnemonic = "apple retire churn quarter scheme shoot rebel utility have grocery sentence scheme";

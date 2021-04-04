@@ -1,1 +1,1 @@
-var mnemonic = "reject unusual where eagle visa keen brother danger raven diet pet novel";
+var mnemonic = "decide left panther catalog erupt panel banner upper arrow bachelor follow napkin";

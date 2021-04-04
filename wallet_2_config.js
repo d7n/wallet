@@ -1,1 +1,1 @@
-var mnemonic = "dash payment hidden right essence approve hole trash trust slight myself survey";
+var mnemonic = "detect void security hour coconut movie warm palace soon guide announce tuna";

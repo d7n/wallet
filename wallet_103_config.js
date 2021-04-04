@@ -1,1 +1,1 @@
-var mnemonic = "ridge suggest wall because thought later cup bench oyster body party file";
+var mnemonic = "embody polar renew misery grass coin lumber decorate camp borrow story work";

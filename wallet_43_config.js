@@ -1,1 +1,1 @@
-var mnemonic = "clerk bargain roast mobile unfair motion sniff random inherit aerobic drift maple";
+var mnemonic = "success clown final cheap imitate lawn mass injury atom lens believe sadness";

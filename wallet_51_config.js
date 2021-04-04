@@ -1,1 +1,1 @@
-var mnemonic = "noble opinion fluid robot sun soup maze please brother pelican sick mouse";
+var mnemonic = "valve depth clown setup inform point flock travel detail sentence diary warfare";

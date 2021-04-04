@@ -1,1 +1,1 @@
-var mnemonic = "uphold subway wide garlic hill news town dog million bone evidence art";
+var mnemonic = "silent fantasy film bike boost trumpet penalty dial six sick width vacant";

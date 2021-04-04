@@ -1,1 +1,1 @@
-var mnemonic = "project spring lava myself trend disease corn resource abstract kidney arctic vocal";
+var mnemonic = "venue left mix rural custom scan appear talk matter tonight whale window";

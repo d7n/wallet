@@ -1,1 +1,1 @@
-var mnemonic = "powder scheme rifle pudding tribe fit arrow slight muscle share evolve congress";
+var mnemonic = "tooth aspect brand color coil path defy rare music antique pony inspire";

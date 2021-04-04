@@ -1,1 +1,1 @@
-var mnemonic = "phrase typical display border noise current inner oil birth true buddy bacon";
+var mnemonic = "response swamp vocal quick rapid payment turn normal fluid decrease treat logic";

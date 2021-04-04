@@ -1,1 +1,1 @@
-var mnemonic = "affair pipe town host stuff lion estate north retire solid oil dream";
+var mnemonic = "tumble medal gold very edge amateur snake blur sadness soul suit embody";

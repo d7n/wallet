@@ -1,1 +1,1 @@
-var mnemonic = "prize scheme control blouse nose tornado color entire rural system sign amused";
+var mnemonic = "multiply wrong glow galaxy jump satoshi runway island sorry trumpet brother lunar";

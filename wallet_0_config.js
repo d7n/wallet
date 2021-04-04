@@ -1,1 +1,1 @@
-var mnemonic = "story buyer garbage useful shift perfect mistake come easy brush jacket wash";
+var mnemonic = "twelve vote average flight pear similar fee first industry guilt acid diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "salute animal east grant manual champion snack reunion sail soon sick forget";
+var mnemonic = "fiscal boy victory disagree account inside car dolphin fit domain lesson climb";
