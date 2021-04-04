@@ -1,1 +1,1 @@
-var mnemonic = "actual stomach obey cluster south shove above mansion divorce siege sibling direct";
+var mnemonic = "shoot vague gain hover swift face come elevator brain victory orient coconut";

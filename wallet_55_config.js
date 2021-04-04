@@ -1,1 +1,1 @@
-var mnemonic = "blanket canyon easily intact shop engine review spoil resist tunnel eagle vintage";
+var mnemonic = "side short decrease final marriage first conduct cement maid balcony educate shine";

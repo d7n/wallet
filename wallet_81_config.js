@@ -1,1 +1,1 @@
-var mnemonic = "fiction speak music elder board dog era assume chuckle kite distance blur";
+var mnemonic = "combine artist vibrant bacon will census skull jewel escape mistake special lady";

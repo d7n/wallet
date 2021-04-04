@@ -1,1 +1,1 @@
-var mnemonic = "humble liberty mother sibling journey actual object garment news ticket neglect sample";
+var mnemonic = "shoulder cotton wire water drastic image return lunar curtain best genius youth";

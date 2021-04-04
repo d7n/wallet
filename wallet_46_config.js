@@ -1,1 +1,1 @@
-var mnemonic = "erosion stone middle chef problem inhale wage gospel ivory horn column negative";
+var mnemonic = "crouch pattern crystal dizzy wedding afraid source hurry earth kangaroo miracle vital";

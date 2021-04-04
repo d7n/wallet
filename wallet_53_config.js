@@ -1,1 +1,1 @@
-var mnemonic = "uncover finish property flag onion egg argue punch also egg excite mail";
+var mnemonic = "travel blur wear pupil liberty hub churn mistake flash spot dream govern";

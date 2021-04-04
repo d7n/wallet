@@ -1,1 +1,1 @@
-var mnemonic = "exile profit renew twenty pioneer ladder later dirt together soul fitness awkward";
+var mnemonic = "shell forest pupil manual very impact vacant tiny pride liar search sign";

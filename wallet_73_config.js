@@ -1,1 +1,1 @@
-var mnemonic = "kiss coil rent point genuine spend tourist beauty reunion collect heavy kick";
+var mnemonic = "prize timber talent mercy balcony over body outer fury permit obtain fossil";

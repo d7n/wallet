@@ -1,1 +1,1 @@
-var mnemonic = "lift define submit trip kitten segment material cattle hidden try rescue wine";
+var mnemonic = "catch trap twin bike custom basic secret dynamic donor ocean basic almost";

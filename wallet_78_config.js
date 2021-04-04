@@ -1,1 +1,1 @@
-var mnemonic = "winner path law kid almost plastic grace produce table legend valley rib";
+var mnemonic = "vacuum enact amateur sketch world draw dilemma volume debris average knock debris";

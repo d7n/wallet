@@ -1,1 +1,1 @@
-var mnemonic = "place toss element ensure burden delay fantasy cake fuel entire olympic vendor";
+var mnemonic = "fly ten since cycle shed inmate flight pottery sunny viable day deny";

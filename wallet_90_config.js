@@ -1,1 +1,1 @@
-var mnemonic = "time owner hawk good reward matter future source same defy convince wonder";
+var mnemonic = "joke long ensure network margin sight old juice resemble medal endorse ridge";

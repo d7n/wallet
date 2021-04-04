@@ -1,1 +1,1 @@
-var mnemonic = "approve smooth pact notable almost hidden joke latin sure faint interest session";
+var mnemonic = "all master crop mosquito jacket key actor agree tip armed please twist";

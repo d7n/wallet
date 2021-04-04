@@ -1,1 +1,1 @@
-var mnemonic = "milk wet quote gather typical science evidence portion circle asthma breeze peace";
+var mnemonic = "cry target clump cube fiber open brass shoulder wink gun bone solution";

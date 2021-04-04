@@ -1,1 +1,1 @@
-var mnemonic = "faculty toast trim citizen coral deposit monitor poet fun boss return raccoon";
+var mnemonic = "media reveal galaxy film silver machine minimum injury power moon wish narrow";

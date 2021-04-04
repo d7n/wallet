@@ -1,1 +1,1 @@
-var mnemonic = "beauty story fun deer replace foot vote pole clown shoe type silk";
+var mnemonic = "merry absurd know announce forest silly liquid wolf quarter clown nominee ask";

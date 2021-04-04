@@ -1,1 +1,1 @@
-var mnemonic = "mix fix hen lava before pact leisure unit issue salon mouse lake";
+var mnemonic = "figure enough uncover please double trim unusual goose purse odor almost perfect";

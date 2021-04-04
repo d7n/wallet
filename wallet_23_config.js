@@ -1,1 +1,1 @@
-var mnemonic = "chest ridge dad act cruel tip just another apology sense end search";
+var mnemonic = "regret soap use flee obey grit subject someone second young nurse dismiss";

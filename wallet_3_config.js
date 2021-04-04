@@ -1,1 +1,1 @@
-var mnemonic = "slide champion area record business brisk elegant home light air private double";
+var mnemonic = "mobile attack quit sand liar divide giraffe evoke truth guard media move";

@@ -1,1 +1,1 @@
-var mnemonic = "spider train traffic bid kitchen pigeon radar first cram month dutch surprise";
+var mnemonic = "speak gorilla river confirm route dance lumber copper message lamp uncle math";

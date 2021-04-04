@@ -1,1 +1,1 @@
-var mnemonic = "whale robot puzzle name lumber ordinary lift beef bacon cruel vital swift";
+var mnemonic = "object animal poem mutual control winter shoulder attack cash theme magic grit";

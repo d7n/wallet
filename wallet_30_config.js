@@ -1,1 +1,1 @@
-var mnemonic = "way match off unfair island divert dove federal van increase frozen snack";
+var mnemonic = "chapter daring used swarm match reopen use pigeon bone body daughter surprise";

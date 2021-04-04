@@ -1,1 +1,1 @@
-var mnemonic = "reveal until found narrow table filter gain retire spring prison youth soccer";
+var mnemonic = "achieve stool wrong always tribe copper devote ship bind hotel absent estate";

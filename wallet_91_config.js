@@ -1,1 +1,1 @@
-var mnemonic = "allow never leopard van exile advance wrong spatial trust level random first";
+var mnemonic = "crop enforce safe pear scrub canvas bright beach original turn short tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "depart anger awful produce sleep possible cost false hat escape walnut chest";
+var mnemonic = "perfect link base require great toy seek diamond luxury giraffe bomb agree";

@@ -1,1 +1,1 @@
-var mnemonic = "either invite walk raccoon quiz crop duck glory unable seek dice hidden";
+var mnemonic = "quote number pulp blade chapter pluck february hollow tonight used clown violin";

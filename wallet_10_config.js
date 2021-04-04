@@ -1,1 +1,1 @@
-var mnemonic = "struggle cattle traffic ball potato dust enough public junk glare cool frequent";
+var mnemonic = "cycle example snack price innocent question glove proof extend auction drum drastic";

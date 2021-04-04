@@ -1,1 +1,1 @@
-var mnemonic = "voyage catalog later assist source base dynamic ritual minute spike mushroom lady";
+var mnemonic = "broken voyage clay thunder narrow creek fitness whale theme spawn rhythm inside";

@@ -1,1 +1,1 @@
-var mnemonic = "survey poverty dirt orient affair purchase select ring property knee exact kit";
+var mnemonic = "still tonight wonder guitar position quit dinner today trophy decrease cactus code";

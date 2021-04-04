@@ -1,1 +1,1 @@
-var mnemonic = "bridge shrimp quit recall warm essence faint fence chase enlist infant mushroom";
+var mnemonic = "method eternal travel naive emotion art clay mixed catalog example town cart";

@@ -1,1 +1,1 @@
-var mnemonic = "render company twist chaos february boost message test weekend weird myth charge";
+var mnemonic = "gas edge father decline tackle draft split innocent impulse blanket furnace remove";

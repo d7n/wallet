@@ -1,1 +1,1 @@
-var mnemonic = "excite south prosper profit poet bamboo tag brother author between coin absent";
+var mnemonic = "photo ankle plate traffic make length fringe portion section dynamic mandate success";

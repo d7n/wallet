@@ -1,1 +1,1 @@
-var mnemonic = "front route romance cheap pledge address consider aim avocado parrot scene mother";
+var mnemonic = "winner hole bike decade north pelican gift galaxy saddle enable reward electric";

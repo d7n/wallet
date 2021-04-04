@@ -1,1 +1,1 @@
-var mnemonic = "neutral original confirm clerk list culture fancy excite upset father craft pyramid";
+var mnemonic = "loyal habit life oil scrap broken quality siren metal chaos skill decline";

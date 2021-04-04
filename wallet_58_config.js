@@ -1,1 +1,1 @@
-var mnemonic = "champion devote tortoise install weasel quality member empty wasp sting floor glimpse";
+var mnemonic = "situate trip boost miracle person orient turtle early visit winter clinic height";

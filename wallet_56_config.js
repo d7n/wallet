@@ -1,1 +1,1 @@
-var mnemonic = "scene bulk much clerk subject stone else argue banner cactus come quarter";
+var mnemonic = "slice toy fresh ignore gold space tone share child drop inmate cruise";

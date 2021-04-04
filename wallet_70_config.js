@@ -1,1 +1,1 @@
-var mnemonic = "tent shine assume fuel black decide fly crouch turtle flight margin fiscal";
+var mnemonic = "tongue train better ankle two torch spot echo six master pluck convince";

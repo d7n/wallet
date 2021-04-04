@@ -1,1 +1,1 @@
-var mnemonic = "virus museum produce few medal always ten view inch pet lunch rocket";
+var mnemonic = "lawsuit solid jump govern smile inhale hidden alert source mandate release motor";

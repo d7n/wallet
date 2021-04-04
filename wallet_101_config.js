@@ -1,1 +1,1 @@
-var mnemonic = "element junk monitor bid ring stadium dwarf glass topple obvious early skill";
+var mnemonic = "spider tent grocery endorse heart coach senior just business creek scene panther";

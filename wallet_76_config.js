@@ -1,1 +1,1 @@
-var mnemonic = "sustain plug quiz glare debate young exercise never foil planet antique raise";
+var mnemonic = "trumpet include reopen happy crush decrease fitness flag ring mule baby awful";

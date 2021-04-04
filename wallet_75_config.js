@@ -1,1 +1,1 @@
-var mnemonic = "bomb require pony affair give thing fatal blush metal skull road estate";
+var mnemonic = "potato elegant chunk nest trend amused pave crystal canal episode wear ribbon";

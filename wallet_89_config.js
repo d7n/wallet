@@ -1,1 +1,1 @@
-var mnemonic = "final nation vocal ten steel mansion casino shed usual bag mammal swallow";
+var mnemonic = "find fence angle garden borrow climb lion auto train just arrange ghost";

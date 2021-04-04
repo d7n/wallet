@@ -1,1 +1,1 @@
-var mnemonic = "deny order brush net minute office fix harvest maple interest ozone matrix";
+var mnemonic = "certain raven breeze suit sniff neglect dinosaur game trend banana kangaroo parent";

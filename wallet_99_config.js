@@ -1,1 +1,1 @@
-var mnemonic = "orchard pill awesome add music empower chronic illegal diesel ask dream explain";
+var mnemonic = "vacant drum gloom entire panther table kind govern duty dash siege disagree";

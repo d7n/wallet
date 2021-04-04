@@ -1,1 +1,1 @@
-var mnemonic = "guard chapter auction rural fossil antenna trend soda defy cash glass banner";
+var mnemonic = "melt return program gravity heavy prize chaos hood unit unit eight idle";

@@ -1,1 +1,1 @@
-var mnemonic = "match science horn crystal crunch submit dutch grit prefer odor coin leader";
+var mnemonic = "pitch matter bubble distance south dutch wash august panda consider wool salmon";

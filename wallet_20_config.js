@@ -1,1 +1,1 @@
-var mnemonic = "kit reunion box alien shell runway harvest before adjust virtual annual gift";
+var mnemonic = "ceiling donate always warm avoid blood strong wedding clean banana index young";

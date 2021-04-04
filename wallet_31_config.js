@@ -1,1 +1,1 @@
-var mnemonic = "scissors inject tissue people dwarf cat system right sadness track denial scan";
+var mnemonic = "swing august neck derive swift exclude private miracle tongue fish quote denial";

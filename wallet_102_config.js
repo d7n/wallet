@@ -1,1 +1,1 @@
-var mnemonic = "turkey valid fury evolve ecology cloth orient way copper mule blossom doll";
+var mnemonic = "legend flight boring boy senior believe situate attitude auction illegal worry buddy";

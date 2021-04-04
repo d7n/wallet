@@ -1,1 +1,1 @@
-var mnemonic = "clown wish army grow smart avoid sting build soup actor rain crew";
+var mnemonic = "scale swallow furnace document enemy dismiss blanket miracle soup wink rent fine";

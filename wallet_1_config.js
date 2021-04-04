@@ -1,1 +1,1 @@
-var mnemonic = "aware success accuse borrow floor flavor nuclear blur dash negative burst book";
+var mnemonic = "jar miss series brave great logic field caught brass prosper level require";

@@ -1,1 +1,1 @@
-var mnemonic = "duty harbor aspect pave lucky inquiry tape glove baby lawn have all";
+var mnemonic = "drift network lizard hood divorce accident slide exit valid quiz orchard notable";

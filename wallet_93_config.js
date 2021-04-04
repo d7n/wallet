@@ -1,1 +1,1 @@
-var mnemonic = "amateur enforce joke rival column journey mask ticket wear abuse put cargo";
+var mnemonic = "need bubble trumpet celery uncle satoshi just trouble jewel lesson undo scrub";

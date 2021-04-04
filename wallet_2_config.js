@@ -1,1 +1,1 @@
-var mnemonic = "purse table bunker potato illegal input thumb possible audit speed item evoke";
+var mnemonic = "beauty cousin sphere voice cheese offer arch ordinary clown blanket cart knife";

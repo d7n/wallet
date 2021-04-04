@@ -1,1 +1,1 @@
-var mnemonic = "route staff reward elbow bike better safe roof love beauty secret skirt";
+var mnemonic = "digital raw kiwi sugar fold knock glide coyote banner blossom jazz network";

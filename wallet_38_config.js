@@ -1,1 +1,1 @@
-var mnemonic = "update never exotic head museum often cart orbit weapon embark fix salad";
+var mnemonic = "try chalk toe crop peasant matter course season index morning snack language";

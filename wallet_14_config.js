@@ -1,1 +1,1 @@
-var mnemonic = "supreme oxygen chronic grow pear coconut cash uphold wide car own excess";
+var mnemonic = "you melt original inform six enable bitter friend device renew ill army";

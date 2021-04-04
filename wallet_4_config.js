@@ -1,1 +1,1 @@
-var mnemonic = "steel favorite alpha sea office curtain cabbage sheriff must demise party oil";
+var mnemonic = "slush auto tired initial need voyage inner gravity scene require social chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "man piano place vague onion loop produce flash amused weird cost parent";
+var mnemonic = "worth maximum layer asset chimney immense potato soccer section final foam employ";

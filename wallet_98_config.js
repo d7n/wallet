@@ -1,1 +1,1 @@
-var mnemonic = "primary kingdom echo draft lunar uncle cabbage squeeze scatter faculty track wrestle";
+var mnemonic = "priority fly east lawsuit ride vanish hour marble mushroom news gossip cradle";

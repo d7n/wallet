@@ -1,1 +1,1 @@
-var mnemonic = "echo pitch mercy arrow round example people dune balcony pulse peasant erupt";
+var mnemonic = "napkin inject come guess kind ring bachelor rocket club mobile boss struggle";

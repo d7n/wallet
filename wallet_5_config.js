@@ -1,1 +1,1 @@
-var mnemonic = "brass cup soft minimum notice ribbon envelope arch hello advance plunge february";
+var mnemonic = "crane tribe tuition essence bag wheel consider unusual glare stuff limb mind";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog match neither capable head camera crop guard pony wish dinosaur surge";
+var mnemonic = "ocean brother later hen dish urban height spirit false service addict long";

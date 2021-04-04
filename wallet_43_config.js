@@ -1,1 +1,1 @@
-var mnemonic = "pact brief mutual between success reopen bomb drill shock avocado disorder record";
+var mnemonic = "limb visa hurdle author embody icon chimney siege impulse connect valve elephant";

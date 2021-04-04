@@ -1,1 +1,1 @@
-var mnemonic = "theory dinosaur machine slogan awake gravity elder suit screen duty thing ride";
+var mnemonic = "cycle assault afford illness toward census flight domain discover dinner child under";

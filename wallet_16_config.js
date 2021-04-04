@@ -1,1 +1,1 @@
-var mnemonic = "stomach hammer hurry mountain blood avocado improve hurry describe laundry ghost swim";
+var mnemonic = "smart foam sad script absorb clock receive usual isolate scatter twin note";

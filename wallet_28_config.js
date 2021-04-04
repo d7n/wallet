@@ -1,1 +1,1 @@
-var mnemonic = "chair escape winter fee rent enter asthma mad comic gadget organ tennis";
+var mnemonic = "sting minor ripple tilt space stick civil swift honey picture host owner";

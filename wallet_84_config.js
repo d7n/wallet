@@ -1,1 +1,1 @@
-var mnemonic = "sister unusual nothing vast wrestle alter certain health avoid today will eye";
+var mnemonic = "debris absurd topic type rack crush shell swarm giraffe digital dad today";

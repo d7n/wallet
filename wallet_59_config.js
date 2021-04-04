@@ -1,1 +1,1 @@
-var mnemonic = "fruit reason asthma keep private panel joke certain initial live sauce arctic";
+var mnemonic = "foil fancy snap border feed green width useful yellow lemon cradle again";

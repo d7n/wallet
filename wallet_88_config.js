@@ -1,1 +1,1 @@
-var mnemonic = "maple kind simple audit trophy cloth cost void advance carry toward resource";
+var mnemonic = "draft style subway machine strong strategy right before where laptop smart ginger";

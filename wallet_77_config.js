@@ -1,1 +1,1 @@
-var mnemonic = "congress ostrich tuition match must more prize target alter detail subject couple";
+var mnemonic = "liquid dinner tower body hip smile kiwi morning file rescue damage source";

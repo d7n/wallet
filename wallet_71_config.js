@@ -1,1 +1,1 @@
-var mnemonic = "modify club client unaware clip sail sheriff push million bag enhance minor";
+var mnemonic = "maximum cannon erase skin cabbage peace child estate hunt bread shallow firm";

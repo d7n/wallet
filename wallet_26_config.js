@@ -1,1 +1,1 @@
-var mnemonic = "exact virtual property satisfy guess omit muscle torch someone kiss soon fiber";
+var mnemonic = "camera immense hour where reveal pride ahead sentence vehicle spray letter suspect";

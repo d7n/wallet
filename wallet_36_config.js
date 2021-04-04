@@ -1,1 +1,1 @@
-var mnemonic = "secret sleep filter cool crew impose token neutral sheriff game stomach coast";
+var mnemonic = "quiz quit twin stomach gap wheat primary adult bounce offer apart twice";

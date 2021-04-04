@@ -1,1 +1,1 @@
-var mnemonic = "asset october attend era ketchup gravity glory office wear wet when glue";
+var mnemonic = "vibrant elder arctic myth harsh divide marriage escape unknown stem document brown";

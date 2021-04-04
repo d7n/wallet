@@ -1,1 +1,1 @@
-var mnemonic = "frame paddle purity object approve parade fluid exotic horror island sure current";
+var mnemonic = "hand correct effort below holiday fall utility soccer affair beyond floor typical";

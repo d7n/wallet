@@ -1,1 +1,1 @@
-var mnemonic = "gentle sure file bright bright robust clay maximum govern oak follow soon";
+var mnemonic = "globe quit diagram ghost traffic split cancel race arctic pistol sibling upset";

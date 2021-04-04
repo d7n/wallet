@@ -1,1 +1,1 @@
-var mnemonic = "vocal party panda clerk oyster tooth grape palm plunge ready aisle embark";
+var mnemonic = "rely consider unveil mandate spend wild marine void elevator suffer present theory";

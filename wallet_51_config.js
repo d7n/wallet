@@ -1,1 +1,1 @@
-var mnemonic = "pair fragile illness give olympic carry market onion exist skill galaxy talk";
+var mnemonic = "laundry spoil only aisle ball vicious party rookie collect invest reward win";

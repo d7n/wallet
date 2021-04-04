@@ -1,1 +1,1 @@
-var mnemonic = "canoe cave stone stem dice gather attend north satoshi start vacuum easy";
+var mnemonic = "certain stay game top tornado job term stem leaf panther girl equal";

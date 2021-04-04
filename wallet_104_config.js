@@ -1,1 +1,1 @@
-var mnemonic = "pencil when foil throw always fluid monitor credit rebuild elbow top perfect";
+var mnemonic = "claim must hole veteran torch salon inch innocent smile rail interest wife";

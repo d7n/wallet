@@ -1,1 +1,1 @@
-var mnemonic = "basket reopen birth loud egg focus omit camera moral pull harsh mom";
+var mnemonic = "stone jungle glad wool lawsuit battle tide buzz rug link strike trick";

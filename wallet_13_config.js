@@ -1,1 +1,1 @@
-var mnemonic = "swap door famous minute novel valley drive vital zoo almost egg assist";
+var mnemonic = "bring fabric unlock help thought rival snack among ski slice swarm oil";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain media shy receive supply exit erode hospital balcony scare reunion punch";
+var mnemonic = "youth install safe hunt grant echo virus rib direct toward roof pave";

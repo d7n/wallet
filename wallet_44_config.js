@@ -1,1 +1,1 @@
-var mnemonic = "buffalo panic age clip daring witness expect fan drive gift jaguar attack";
+var mnemonic = "evolve install fly slim pelican improve balance group broom lava sausage material";

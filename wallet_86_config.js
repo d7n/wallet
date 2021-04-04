@@ -1,1 +1,1 @@
-var mnemonic = "damp rail lake trophy virtual goddess process kid dilemma gate across nothing";
+var mnemonic = "run evolve improve cargo lava basket moment swallow fix oxygen planet armed";

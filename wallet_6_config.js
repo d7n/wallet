@@ -1,1 +1,1 @@
-var mnemonic = "lecture nation still scout gold old state pluck timber vocal offer squeeze";
+var mnemonic = "power vintage kit have bicycle vacuum cat clip empty ten cabbage rally";

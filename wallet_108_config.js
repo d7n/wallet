@@ -1,1 +1,1 @@
-var mnemonic = "category gauge acid adapt differ that monster poet turkey orphan release idle";
+var mnemonic = "robot misery exact remove frog kidney expire bar target dinner crack install";

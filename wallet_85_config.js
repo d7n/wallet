@@ -1,1 +1,1 @@
-var mnemonic = "derive glove october luggage leader cabbage deal skate miracle enjoy woman mom";
+var mnemonic = "race city gorilla version warm again figure panther gym pond planet enemy";
