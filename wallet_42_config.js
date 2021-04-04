@@ -1,1 +1,1 @@
-var mnemonic = "forward novel answer word mercy cause boost hood erosion assume top actor";
+var mnemonic = "inhale address situate shift reflect hen win all wagon worry amazing verify";

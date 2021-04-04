@@ -1,1 +1,1 @@
-var mnemonic = "promote chuckle fortune chef immune inside another jaguar lazy avoid basic cat";
+var mnemonic = "attack topple hour double spy bulb vocal erosion indoor hobby cactus there";

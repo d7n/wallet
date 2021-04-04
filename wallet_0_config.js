@@ -1,1 +1,1 @@
-var mnemonic = "bleak local sister begin arrive sting grant toss party fatigue attitude family";
+var mnemonic = "mesh split employ another air cattle clean garlic march ticket access rural";

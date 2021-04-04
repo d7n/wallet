@@ -1,1 +1,1 @@
-var mnemonic = "pulse stamp arrow rather planet valve mystery aspect train evil grape movie";
+var mnemonic = "danger panel love depth physical gain race soap master emerge injury bacon";

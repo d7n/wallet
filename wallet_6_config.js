@@ -1,1 +1,1 @@
-var mnemonic = "ignore ship friend supreme patient ride tourist sibling august sick yellow amateur";
+var mnemonic = "chair chat door ranch large tube spell office palace black card apology";

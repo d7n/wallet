@@ -1,1 +1,1 @@
-var mnemonic = "belt girl forward fancy reveal flee rigid approve huge symbol lizard submit";
+var mnemonic = "miracle idea isolate clerk flavor lawsuit broccoli burden paddle poem inch kingdom";

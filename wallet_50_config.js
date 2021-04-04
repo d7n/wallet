@@ -1,1 +1,1 @@
-var mnemonic = "catalog horn punch bullet yard hope hint nominee believe question until view";
+var mnemonic = "hawk uphold team fire casual keen tribe slide legend extra fluid hen";

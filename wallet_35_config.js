@@ -1,1 +1,1 @@
-var mnemonic = "often general panel arrest pilot gate endorse canyon pull early gasp wagon";
+var mnemonic = "scare road joy hold teach trust summer style fee raccoon improve beyond";

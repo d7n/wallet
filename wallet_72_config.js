@@ -1,1 +1,1 @@
-var mnemonic = "market anger item runway shrug title divide answer lawsuit syrup flight chimney";
+var mnemonic = "plastic ocean rely banner drastic soldier fade mistake outside need used dynamic";

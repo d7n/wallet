@@ -1,1 +1,1 @@
-var mnemonic = "story nose timber swear walnut gold traffic cram clock math name foster";
+var mnemonic = "fold step tiny sunny casino left truly decade rate awful lake spice";

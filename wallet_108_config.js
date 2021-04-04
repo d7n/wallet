@@ -1,1 +1,1 @@
-var mnemonic = "above blouse apart nut pink turkey gate patch science cash calm artwork";
+var mnemonic = "swarm jeans nurse jelly chapter true say frame undo resist satisfy awake";

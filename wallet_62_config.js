@@ -1,1 +1,1 @@
-var mnemonic = "cash erosion jealous banana hard pilot crop regret age vintage put patient";
+var mnemonic = "usual huge split hair fish cream deal spin elbow alien sunny dish";

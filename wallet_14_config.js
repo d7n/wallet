@@ -1,1 +1,1 @@
-var mnemonic = "clinic brand draft reunion drill dress buddy banana flight turtle kite result";
+var mnemonic = "enrich bike segment found crucial eagle earn love alarm quantum estate session";

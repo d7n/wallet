@@ -1,1 +1,1 @@
-var mnemonic = "issue riot holiday awesome autumn client script torch vital choose clump join";
+var mnemonic = "pitch dinner harbor torch fabric rookie detail frown amused solution canvas upgrade";

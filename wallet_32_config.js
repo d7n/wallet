@@ -1,1 +1,1 @@
-var mnemonic = "brown salt obey blast frost breeze brother bird strike million vicious clog";
+var mnemonic = "gas ticket brother ritual improve rescue unit stadium wagon knee outer dismiss";

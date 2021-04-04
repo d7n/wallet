@@ -1,1 +1,1 @@
-var mnemonic = "survey cart trophy loyal sketch match garage novel lonely dismiss divide bird";
+var mnemonic = "arrange hurt what vicious tackle lamp loud wish beauty gesture match strategy";

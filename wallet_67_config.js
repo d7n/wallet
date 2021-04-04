@@ -1,1 +1,1 @@
-var mnemonic = "misery case simple flag keen model mirror nasty obtain drill picnic horror";
+var mnemonic = "convince latin glide sell stage curious speed trouble broken seek unit artwork";

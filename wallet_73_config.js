@@ -1,1 +1,1 @@
-var mnemonic = "bitter dial slice undo equip pride crash match oval danger diagram frozen";
+var mnemonic = "shift ten basket need judge mango engine invite grass amused salt dutch";

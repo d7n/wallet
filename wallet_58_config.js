@@ -1,1 +1,1 @@
-var mnemonic = "course finger tragic vacuum there lucky oblige sister method organ stage draft";
+var mnemonic = "honey bridge silly garbage cabbage glory beef lumber six glue debate junior";

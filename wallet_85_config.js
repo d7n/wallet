@@ -1,1 +1,1 @@
-var mnemonic = "submit exchange fork leopard green shiver chase squirrel divide swamp punch benefit";
+var mnemonic = "hair convince rapid face special whisper faint hole add because snack transfer";

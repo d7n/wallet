@@ -1,1 +1,1 @@
-var mnemonic = "clutch excuse found number brief trend regular act future poem reduce input";
+var mnemonic = "glance antique improve snack ice crane cram future surface switch cake artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum position spoon task donkey clip chalk project saddle borrow else spider";
+var mnemonic = "face crowd rotate resist ugly ginger aware melody group guide bar stairs";

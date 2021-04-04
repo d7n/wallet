@@ -1,1 +1,1 @@
-var mnemonic = "winter mail water oil memory enhance merit impulse adjust drum gallery stand";
+var mnemonic = "refuse crime always true confirm food income latin magnet fantasy figure west";

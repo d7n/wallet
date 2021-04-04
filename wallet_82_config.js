@@ -1,1 +1,1 @@
-var mnemonic = "drip electric sign pause chest guitar arrow lecture congress tide word outdoor";
+var mnemonic = "genuine reason debate april swear code busy arrow off normal case nominee";

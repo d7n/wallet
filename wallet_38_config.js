@@ -1,1 +1,1 @@
-var mnemonic = "panther among unknown raw ladder decade silver typical festival buddy tool cabin";
+var mnemonic = "estate excess glove border wine purse pistol blue give cousin clever race";

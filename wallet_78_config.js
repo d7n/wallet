@@ -1,1 +1,1 @@
-var mnemonic = "labor motion blast bridge ticket idle charge reward slab toilet spring heavy";
+var mnemonic = "elder lumber conduct morning you egg canoe photo sniff amazing issue find";

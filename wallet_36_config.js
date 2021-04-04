@@ -1,1 +1,1 @@
-var mnemonic = "mixture rib define fragile envelope afford trend orient raven start way retreat";
+var mnemonic = "man problem foot laugh page equal balance rural behave above anxiety dignity";

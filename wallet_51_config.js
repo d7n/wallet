@@ -1,1 +1,1 @@
-var mnemonic = "crisp stomach glory label squirrel galaxy save punch virus glory sad ahead";
+var mnemonic = "reject couch grab dad eagle cargo utility prevent cruel exact biology innocent";

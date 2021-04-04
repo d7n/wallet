@@ -1,1 +1,1 @@
-var mnemonic = "throw review tomato before excite neglect sound position alter chief guess bring";
+var mnemonic = "grow nerve pudding dragon direct merit visa embody biology sleep fine ostrich";

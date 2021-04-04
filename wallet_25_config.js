@@ -1,1 +1,1 @@
-var mnemonic = "rug auction want fade process tomato service estate salt between inspire swap";
+var mnemonic = "craft police smooth obvious west heavy strong worry soldier attack dinosaur orient";

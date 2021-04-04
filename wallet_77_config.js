@@ -1,1 +1,1 @@
-var mnemonic = "eagle main exile hood win husband category judge cool horse curve easily";
+var mnemonic = "nasty bleak whisper host talent nerve wait improve harbor buffalo noise guess";

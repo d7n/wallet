@@ -1,1 +1,1 @@
-var mnemonic = "identify before youth chair merry mandate agree weapon impulse people angle lesson";
+var mnemonic = "short famous couch bless victory badge scrub bread behave soda broom jacket";

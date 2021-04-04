@@ -1,1 +1,1 @@
-var mnemonic = "secret fault mechanic side draft height gentle stairs until oppose spoil muffin";
+var mnemonic = "trust obvious school faint utility orchard truck maid afraid system miracle train";

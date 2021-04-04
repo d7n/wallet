@@ -1,1 +1,1 @@
-var mnemonic = "cram gospel fix patrol digital lesson resource dish quick inmate leader disagree";
+var mnemonic = "forum recall arm silk later hurry victory library unhappy lady clay reform";

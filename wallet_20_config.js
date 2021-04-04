@@ -1,1 +1,1 @@
-var mnemonic = "help charge scene void light advance blade obtain ball mail fiction connect";
+var mnemonic = "crash armed release elegant throw soldier worth sister one become uncover thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "mango inhale vacuum bounce risk congress tray mask manage walk beyond crazy";
+var mnemonic = "soon cabin huge maximum pigeon math crumble grace biology sustain dilemma liar";

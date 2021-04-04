@@ -1,1 +1,1 @@
-var mnemonic = "cargo world bronze teach between job donor private october gospel any spot";
+var mnemonic = "faint fever bid lunar ready goat taste repeat copper expire absorb cube";

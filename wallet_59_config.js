@@ -1,1 +1,1 @@
-var mnemonic = "uncle flee drama real lava walnut public pony initial sudden eyebrow violin";
+var mnemonic = "wise lottery violin secret bridge icon repair rate dust virtual shoulder cherry";

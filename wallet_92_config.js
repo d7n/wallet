@@ -1,1 +1,1 @@
-var mnemonic = "glimpse rude lunar broom spot chest vibrant luggage practice hotel sun work";
+var mnemonic = "indoor enhance sad script supreme spy battle stone clarify runway fiction earth";

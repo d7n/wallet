@@ -1,1 +1,1 @@
-var mnemonic = "fold domain mention renew drift dinner civil narrow more basic flee much";
+var mnemonic = "remember margin foil someone focus celery royal marriage orchard crazy flush birth";

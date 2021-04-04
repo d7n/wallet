@@ -1,1 +1,1 @@
-var mnemonic = "shoot actress tongue mansion wish define practice drastic solar dynamic clap rib";
+var mnemonic = "feed reduce rib example broccoli injury swing hire tackle ride panda primary";

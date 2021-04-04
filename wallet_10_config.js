@@ -1,1 +1,1 @@
-var mnemonic = "water cheese run wall utility person hotel crush cake gown reflect melody";
+var mnemonic = "inquiry you online slice alarm alter spoil thank write bid inmate stone";

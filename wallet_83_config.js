@@ -1,1 +1,1 @@
-var mnemonic = "simple hockey fitness report language allow convince chicken shy rent control witness";
+var mnemonic = "walnut problem tuition document step fatigue gesture spend shadow ranch trophy review";

@@ -1,1 +1,1 @@
-var mnemonic = "brother measure off goose bomb forget police hole settle brief basic fold";
+var mnemonic = "broken near aware upon lazy powder achieve citizen deal common mystery other";

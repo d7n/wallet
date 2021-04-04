@@ -1,1 +1,1 @@
-var mnemonic = "picnic math link disease exotic sick desert roast despair wall fork wonder";
+var mnemonic = "rose system level vivid way twelve rocket miss catch say seminar laundry";

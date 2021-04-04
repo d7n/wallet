@@ -1,1 +1,1 @@
-var mnemonic = "cradle earn prevent agree bitter question stool master head plastic ribbon agree";
+var mnemonic = "fluid aunt crystal alley laptop author expand define antique they powder smart";

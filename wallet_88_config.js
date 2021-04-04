@@ -1,1 +1,1 @@
-var mnemonic = "reflect soccer work rhythm estate once dust hold begin luggage feed great";
+var mnemonic = "page enhance person army quantum vessel release blade replace audit naive museum";

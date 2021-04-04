@@ -1,1 +1,1 @@
-var mnemonic = "steel gym panic pink embark couple pave cash nerve mad insane bright";
+var mnemonic = "old squeeze exit dial reflect butter fee social luggage region fatal usage";

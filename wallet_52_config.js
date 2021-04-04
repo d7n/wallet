@@ -1,1 +1,1 @@
-var mnemonic = "absorb seven illness slide sunny typical undo moral taste panic belt zebra";
+var mnemonic = "work forward coin shadow enjoy core raven crowd breeze merge family verb";

@@ -1,1 +1,1 @@
-var mnemonic = "remember bring spend rookie candy display pig beauty fox series valley finger";
+var mnemonic = "achieve unfold rural simple nice rack cart spend impulse protect divorce beyond";

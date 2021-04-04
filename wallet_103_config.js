@@ -1,1 +1,1 @@
-var mnemonic = "faculty empower suggest river inmate topple nuclear reject anxiety tunnel sight lottery";
+var mnemonic = "replace stool hawk only school road note fresh produce orbit true merit";

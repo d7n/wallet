@@ -1,1 +1,1 @@
-var mnemonic = "lunch toss shove gown burden glimpse ocean ugly fetch slow enhance dentist";
+var mnemonic = "panda usage rigid burger legend fabric memory rule rely useless profit tool";

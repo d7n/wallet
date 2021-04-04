@@ -1,1 +1,1 @@
-var mnemonic = "tent hidden must ladder amateur rifle guess capital plug orchard curve milk";
+var mnemonic = "receive onion job fan wreck proof evolve escape tag song prefer prosper";

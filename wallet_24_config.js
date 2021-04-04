@@ -1,1 +1,1 @@
-var mnemonic = "evoke attitude shine secret sock plunge kind myself cotton math wet position";
+var mnemonic = "among device sign zebra distance fantasy main shove clay short thought raven";

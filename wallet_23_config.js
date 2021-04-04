@@ -1,1 +1,1 @@
-var mnemonic = "control cupboard patch library lens coin color mercy drop bind grace wise";
+var mnemonic = "excess dumb assist mushroom two ripple wall acoustic project unfold buffalo forget";

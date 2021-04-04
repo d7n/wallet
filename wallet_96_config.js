@@ -1,1 +1,1 @@
-var mnemonic = "remain canvas dress silly barely team scare total math wild marble ahead";
+var mnemonic = "win menu pulp upon jeans random dentist donkey sure indicate emerge until";

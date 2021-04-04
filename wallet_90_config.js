@@ -1,1 +1,1 @@
-var mnemonic = "region chunk chapter business loyal fold moon clean chalk harvest able unusual";
+var mnemonic = "era vanish try basic chase asthma swift still boring interest elbow permit";

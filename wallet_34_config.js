@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog host math sign door type habit sport patient often bid syrup";
+var mnemonic = "cheap elevator fame balcony grass stay shift gravity update cactus voice chest";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion penalty tone fix profit refuse receive property tissue wool season drama";
+var mnemonic = "staff radio normal glory present local priority blanket wasp edit palm era";

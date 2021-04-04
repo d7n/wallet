@@ -1,1 +1,1 @@
-var mnemonic = "brother drip lazy design banner sound session sunny bid umbrella fiber wall";
+var mnemonic = "pottery jacket insane high boil circle chat badge charge only park album";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum crop bone trouble cricket portion phone digital dynamic apart noise car";
+var mnemonic = "step reward head absent ketchup daughter slice reveal aunt case tool bind";

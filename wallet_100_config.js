@@ -1,1 +1,1 @@
-var mnemonic = "faith romance burden leave fork purity hurt enable stock feature staff wine";
+var mnemonic = "cluster walk elder inspire matter profit armor equip manage seminar vault salon";

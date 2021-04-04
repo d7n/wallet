@@ -1,1 +1,1 @@
-var mnemonic = "exile that pen gentle inside enact roof escape profit program mystery exclude";
+var mnemonic = "mass grain novel girl bargain fiction route trend usual unfair kind holiday";

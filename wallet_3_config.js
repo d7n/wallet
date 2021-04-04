@@ -1,1 +1,1 @@
-var mnemonic = "save bracket split input isolate monkey soap elder you monkey obvious sense";
+var mnemonic = "dizzy volcano element salmon habit pond october close example inhale describe bean";

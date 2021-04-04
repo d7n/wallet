@@ -1,1 +1,1 @@
-var mnemonic = "sudden hold race cricket fury live spice ball clump sentence bag purse";
+var mnemonic = "argue link nephew civil around humble dilemma hire pepper leg swamp repeat";

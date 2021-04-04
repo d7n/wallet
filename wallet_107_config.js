@@ -1,1 +1,1 @@
-var mnemonic = "bring trip sun often speed taxi fork twist marriage wing scorpion cheese";
+var mnemonic = "pottery govern tooth borrow mercy fog pole fee icon client grid enforce";

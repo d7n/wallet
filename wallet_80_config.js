@@ -1,1 +1,1 @@
-var mnemonic = "what erosion alien strategy labor make lucky plate enter lyrics marriage agree";
+var mnemonic = "shoot assume elbow hamster mammal expire together direct toy legend employ option";

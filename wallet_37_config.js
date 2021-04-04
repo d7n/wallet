@@ -1,1 +1,1 @@
-var mnemonic = "add tuna police zoo ladder violin must waste album turn smoke resist";
+var mnemonic = "knife fit horse country palm true honey license island rebuild correct code";

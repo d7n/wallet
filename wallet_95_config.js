@@ -1,1 +1,1 @@
-var mnemonic = "task sentence glance right wood saddle dinosaur run replace forward useless shiver";
+var mnemonic = "february adult option diet elephant bright unable spike over arrest ski inhale";

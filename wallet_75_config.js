@@ -1,1 +1,1 @@
-var mnemonic = "nurse ivory ramp choice shuffle news tiger must dance ride bunker middle";
+var mnemonic = "few castle child arrive skin journey grab result tongue position garden focus";

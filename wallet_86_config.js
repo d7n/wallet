@@ -1,1 +1,1 @@
-var mnemonic = "auction palace slot swim bag outer make excess direct cost cube vicious";
+var mnemonic = "bread act ginger feel lens thunder mad crowd marriage fitness reward bacon";

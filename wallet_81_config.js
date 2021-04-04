@@ -1,1 +1,1 @@
-var mnemonic = "anger clarify mosquito verify awkward fury open social retreat journey swarm mountain";
+var mnemonic = "tail turtle smart banana prefer bring toilet hedgehog master balcony hat bulk";

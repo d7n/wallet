@@ -1,1 +1,1 @@
-var mnemonic = "zone increase fame bargain nominee sing eternal scheme shield timber family task";
+var mnemonic = "kitchen flash eager tomato must spice spirit fence company gallery journey genre";

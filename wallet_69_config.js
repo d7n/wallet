@@ -1,1 +1,1 @@
-var mnemonic = "calm circle confirm frequent bullet code measure lion peace barrel voyage change";
+var mnemonic = "analyst educate rain hint blade strategy liar frog toss few daughter keen";

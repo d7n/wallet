@@ -1,1 +1,1 @@
-var mnemonic = "matter install alone resource wild arrive dawn soap uphold seven bundle craft";
+var mnemonic = "switch drastic digital assume rate roof frown cute oak critic must impose";

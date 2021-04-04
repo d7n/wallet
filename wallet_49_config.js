@@ -1,1 +1,1 @@
-var mnemonic = "more book antenna foam process captain raise upset pencil pear latin local";
+var mnemonic = "portion spot label paddle swift insane box leader agent comfort left taxi";

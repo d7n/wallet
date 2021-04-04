@@ -1,1 +1,1 @@
-var mnemonic = "luggage tragic actual ritual document stable loan pottery adult bag step glad";
+var mnemonic = "display action extend digital tonight interest buffalo swamp coast drive boring aerobic";

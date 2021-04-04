@@ -1,1 +1,1 @@
-var mnemonic = "garden educate buffalo welcome rebel ordinary gift exercise reunion bundle viable document";
+var mnemonic = "fun true umbrella audit arrow project fine exercise tackle antique enjoy matter";

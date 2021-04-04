@@ -1,1 +1,1 @@
-var mnemonic = "rabbit abandon reject naive remind ridge electric can jacket mandate lab stone";
+var mnemonic = "arch once bless use account buzz cement search hungry bargain lazy kite";

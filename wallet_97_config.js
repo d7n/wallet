@@ -1,1 +1,1 @@
-var mnemonic = "kingdom cabbage chief emerge mosquito hybrid merit wash fish unhappy echo until";
+var mnemonic = "vast cave suspect blue donor pull illness surface north theory keen frost";

@@ -1,1 +1,1 @@
-var mnemonic = "city sudden copper prize cotton accident february excuse person hair detail burden";
+var mnemonic = "differ escape volume century ocean tell elite together science sure indicate rapid";

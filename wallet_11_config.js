@@ -1,1 +1,1 @@
-var mnemonic = "motor swim bid bamboo sea distance health border scrap hotel execute spend";
+var mnemonic = "entire apology cinnamon more guess various proof gun position omit dutch economy";

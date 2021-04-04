@@ -1,1 +1,1 @@
-var mnemonic = "cool leisure debris aspect rabbit spy ball begin appear verb timber bind";
+var mnemonic = "roof jungle fringe protect bulb biology punch jungle harsh way math dash";

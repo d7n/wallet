@@ -1,1 +1,1 @@
-var mnemonic = "detect embody reopen pioneer theme proud swallow west ill mind beef planet";
+var mnemonic = "defy snack prefer drink guide upgrade core planet follow nose bottom forest";

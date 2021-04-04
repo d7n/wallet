@@ -1,1 +1,1 @@
-var mnemonic = "harvest anger album search frequent reform curious labor come struggle focus piano";
+var mnemonic = "tooth twenty egg admit wool town slide obvious require body climb panther";

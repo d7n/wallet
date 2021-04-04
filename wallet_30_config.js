@@ -1,1 +1,1 @@
-var mnemonic = "slush pulp educate collect found vehicle gaze rally finger doctor slab alone";
+var mnemonic = "explain lottery hint message senior feed animal rate concert ship feel leg";
