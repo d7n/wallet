@@ -1,1 +1,1 @@
-var mnemonic = "future topple dust treat transfer actress blood caution circle payment before slush";
+var mnemonic = "sure save add aware emerge hospital fiction business clip agent flavor truly";

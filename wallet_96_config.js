@@ -1,1 +1,1 @@
-var mnemonic = "crew best carry park almost hazard leaf forum giraffe idea arrest anchor";
+var mnemonic = "still night purse casino system post surface mail demand frequent crop scheme";

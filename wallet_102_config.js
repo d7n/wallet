@@ -1,1 +1,1 @@
-var mnemonic = "street easily equip wear size float brush judge blanket plunge olympic pole";
+var mnemonic = "rescue cube track left shield soldier excuse path wash bicycle dutch oblige";

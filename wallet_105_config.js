@@ -1,1 +1,1 @@
-var mnemonic = "snack nice scheme dad color palm provide gold stamp soul annual wood";
+var mnemonic = "caution spot scatter screen aware donkey mystery pistol deputy two fluid tower";

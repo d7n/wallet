@@ -1,1 +1,1 @@
-var mnemonic = "ridge mansion kind glue argue horse piece odor awkward message journey walnut";
+var mnemonic = "casino invite amazing two crash analyst mystery resist hair disease silly hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "drift luggage network film cinnamon desk dizzy legend flee suspect upset wall";
+var mnemonic = "bind fragile switch dignity time puzzle post client wine embrace vote base";

@@ -1,1 +1,1 @@
-var mnemonic = "engage acquire buyer cruise history brisk trouble impulse vital beauty card faint";
+var mnemonic = "pluck fork cover eyebrow stone arena essence almost inhale seven error similar";

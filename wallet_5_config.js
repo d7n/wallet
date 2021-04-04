@@ -1,1 +1,1 @@
-var mnemonic = "visa sort judge phrase success dish pumpkin merry magic main brand sand";
+var mnemonic = "ice three coast dutch hybrid actual acid like thunder cycle matrix aerobic";

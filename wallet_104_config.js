@@ -1,1 +1,1 @@
-var mnemonic = "cause gain gadget fix gown fantasy logic banana that soap remain sustain";
+var mnemonic = "portion danger deer glass fire blanket mixed license cereal frame soul hidden";

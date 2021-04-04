@@ -1,1 +1,1 @@
-var mnemonic = "spatial random twice exchange chronic result work become receive annual bounce fog";
+var mnemonic = "normal cabbage ridge witness scatter atom fabric dance junior march grunt crash";

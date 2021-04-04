@@ -1,1 +1,1 @@
-var mnemonic = "tonight climb brush frog stereo celery true north popular breeze sound keep";
+var mnemonic = "tool giant pass turkey forward poverty skirt vanish ginger visit dumb recycle";

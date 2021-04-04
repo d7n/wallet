@@ -1,1 +1,1 @@
-var mnemonic = "tissue viable swap tribe dial solid ensure then online sponsor home bounce";
+var mnemonic = "nominee ready good snow face health elevator art emotion naive calm truck";

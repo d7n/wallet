@@ -1,1 +1,1 @@
-var mnemonic = "hawk pilot panel measure will buyer vehicle melt goose idle kiwi suit";
+var mnemonic = "cinnamon bring unaware produce margin april pig dash spell tribe feed fetch";

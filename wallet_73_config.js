@@ -1,1 +1,1 @@
-var mnemonic = "friend blossom human planet giraffe jealous champion orient expire inherit arrive scatter";
+var mnemonic = "mosquito easy garbage fossil elegant cabbage barrel truck ticket milk shy expose";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow demand link model fruit visit resemble assault shock bring stable bright";
+var mnemonic = "put exit federal uncle shine decorate mango number same way sweet face";

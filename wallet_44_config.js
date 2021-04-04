@@ -1,1 +1,1 @@
-var mnemonic = "ladder medal snake vintage stuff crash puppy breeze warrior adult cart system";
+var mnemonic = "correct era grow include fruit loop unique faint spread frame album range";

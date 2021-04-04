@@ -1,1 +1,1 @@
-var mnemonic = "modify during resource crumble abuse siren nephew today twenty laptop cigar hundred";
+var mnemonic = "chef inside travel produce tongue cry athlete throw artwork beef harsh desert";

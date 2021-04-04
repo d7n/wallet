@@ -1,1 +1,1 @@
-var mnemonic = "manual broken engage bitter mansion alter evoke gown today cement name trumpet";
+var mnemonic = "math situate wife repeat garment label match mad mercy fold over special";

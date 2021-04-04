@@ -1,1 +1,1 @@
-var mnemonic = "route gap nut exile brisk still ecology meat gesture lab exotic crater";
+var mnemonic = "exercise jump scare keep head imitate become dizzy clerk fancy alien market";

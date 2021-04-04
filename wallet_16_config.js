@@ -1,1 +1,1 @@
-var mnemonic = "decade tribe weather lawsuit snap congress swear reunion loud unfair frequent vacant";
+var mnemonic = "cabbage ostrich soft orbit reduce situate patient elite rain oyster soul patrol";

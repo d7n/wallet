@@ -1,1 +1,1 @@
-var mnemonic = "charge echo vast sample edit okay buyer sadness throw very wheel away";
+var mnemonic = "vacuum senior pistol enforce topic music exchange horn exchange blur glue stadium";

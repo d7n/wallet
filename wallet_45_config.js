@@ -1,1 +1,1 @@
-var mnemonic = "urge lock acoustic express gospel prefer news basket hidden require cart final";
+var mnemonic = "egg congress high undo apology include green alcohol banana ginger just antique";

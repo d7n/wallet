@@ -1,1 +1,1 @@
-var mnemonic = "recipe lava satisfy liquid twelve sugar verb surprise sure seat cart practice";
+var mnemonic = "pioneer duck misery lock pipe poverty beef envelope pole flash also tornado";

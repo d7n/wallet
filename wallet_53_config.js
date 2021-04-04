@@ -1,1 +1,1 @@
-var mnemonic = "token adapt bleak dance broccoli kitchen phrase menu choose sword scan broccoli";
+var mnemonic = "gun vacuum assault state lamp pause defense learn discover cattle stairs else";

@@ -1,1 +1,1 @@
-var mnemonic = "metal head art duck valve heart sing prosper vault cycle wide lawsuit";
+var mnemonic = "beauty change rice avocado floor little search faculty hockey oak change purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "much rival short lesson exercise install mimic soap useful more actual pill";
+var mnemonic = "planet coral romance hockey fatigue industry gloom access dress home endless nut";

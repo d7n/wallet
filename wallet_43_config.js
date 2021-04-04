@@ -1,1 +1,1 @@
-var mnemonic = "crisp problem staff proof quantum trouble drip entry furnace tragic seminar hard";
+var mnemonic = "gun useful coral movie wine erosion wild bind uniform uncover bracket armor";

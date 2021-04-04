@@ -1,1 +1,1 @@
-var mnemonic = "pink inch excuse hip swamp denial equal soft divorce prize fault develop";
+var mnemonic = "food donate drop good anxiety destroy own stadium thing order pave leg";

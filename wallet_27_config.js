@@ -1,1 +1,1 @@
-var mnemonic = "slide tomato exist upon claim decline below goddess script vague habit tattoo";
+var mnemonic = "motion river today weasel vocal steel increase bamboo genre tobacco moral caught";

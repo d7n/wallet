@@ -1,1 +1,1 @@
-var mnemonic = "occur broken slab cricket couple walk foam board library exact luggage enhance";
+var mnemonic = "pizza crystal flip milk news monster long describe struggle caught rib since";

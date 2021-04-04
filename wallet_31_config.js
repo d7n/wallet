@@ -1,1 +1,1 @@
-var mnemonic = "twenty bunker police behave spy raw airport barrel engine price young issue";
+var mnemonic = "poem limb afford swift path hedgehog health unaware unfold glory matter wedding";

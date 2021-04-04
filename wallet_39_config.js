@@ -1,1 +1,1 @@
-var mnemonic = "recipe butter stick local copy figure chair risk diary wire icon crane";
+var mnemonic = "pilot evoke click habit heavy easy human appear wish love either disease";

@@ -1,1 +1,1 @@
-var mnemonic = "crisp jazz glow time senior again august usage shuffle fun leader spot";
+var mnemonic = "trash code stick kick sustain brisk increase turkey youth auction consider dentist";

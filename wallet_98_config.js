@@ -1,1 +1,1 @@
-var mnemonic = "spin burst setup surge nose ill unique embark lamp trust tooth crop";
+var mnemonic = "someone shrug debate artwork crack misery voyage ship diagram above option law";

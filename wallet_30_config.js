@@ -1,1 +1,1 @@
-var mnemonic = "author vacant enrich merry usage mesh scrub paper knock reason river civil";
+var mnemonic = "myth rice use common wall torch object nasty wise elephant cross april";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter soft mixture struggle uniform panic alpha echo strategy penalty mirror above";
+var mnemonic = "client mansion whisper lift casino month easily autumn letter gate member learn";

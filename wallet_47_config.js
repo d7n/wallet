@@ -1,1 +1,1 @@
-var mnemonic = "balcony trophy bulk portion fade account leopard business manage execute stone emerge";
+var mnemonic = "torch code bundle velvet power process surprise island myth midnight silver truck";

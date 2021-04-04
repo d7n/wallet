@@ -1,1 +1,1 @@
-var mnemonic = "valid destroy scissors sweet message gym harsh execute judge link private step";
+var mnemonic = "warrior lawsuit album quarter monkey fork mystery shell hole clinic behind common";

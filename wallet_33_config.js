@@ -1,1 +1,1 @@
-var mnemonic = "age young improve magic winner unhappy grain cactus wrestle few hero creek";
+var mnemonic = "kid cigar baby rare regular spray shiver chunk cricket lobster predict glare";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol maple shy forward update length onion speed right drastic radio good";
+var mnemonic = "situate comic visa phrase lunar scare remain stage fluid thank satoshi pool";

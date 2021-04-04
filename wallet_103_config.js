@@ -1,1 +1,1 @@
-var mnemonic = "rural finger artwork daring logic bleak mouse carbon tuna purse simple lobster";
+var mnemonic = "behave inquiry radar inch float force boost resist bind squeeze turkey pond";

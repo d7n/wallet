@@ -1,1 +1,1 @@
-var mnemonic = "useless awake disagree key august list siren drive harbor mutual crumble rich";
+var mnemonic = "guide online symbol beyond noble skill naive often ripple grocery motor brain";

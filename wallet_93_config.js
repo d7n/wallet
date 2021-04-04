@@ -1,1 +1,1 @@
-var mnemonic = "crawl oppose rely ignore hill cement belt sample mimic east black field";
+var mnemonic = "act jealous enroll employ episode silent mosquito rather gaze broom ceiling situate";

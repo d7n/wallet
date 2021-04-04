@@ -1,1 +1,1 @@
-var mnemonic = "spring plate mother invite escape suffer reunion cluster search future demand flip";
+var mnemonic = "decade empty across ticket meadow way uncle art broccoli pilot tower rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "census rapid arrow canvas grit error spoil tiny number mistake foot clay";
+var mnemonic = "mean hope cable rate course rebuild build adult scissors cube decline display";

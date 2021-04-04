@@ -1,1 +1,1 @@
-var mnemonic = "awkward ten actual zone pig dinosaur tuna remember gravity sea fossil crush";
+var mnemonic = "rapid age blossom obvious chimney success industry predict laundry error seat expect";

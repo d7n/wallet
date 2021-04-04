@@ -1,1 +1,1 @@
-var mnemonic = "move chimney swing vital gate story collect dilemma lyrics gesture noodle race";
+var mnemonic = "trial upon false idea course amazing example toe water lens dwarf toy";

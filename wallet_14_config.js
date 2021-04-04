@@ -1,1 +1,1 @@
-var mnemonic = "sketch satisfy this play asset chef settle book system intact memory cruel";
+var mnemonic = "loan blanket wonder lab photo orbit animal ladder foot awful cruise extra";

@@ -1,1 +1,1 @@
-var mnemonic = "seek coyote hospital donor symptom ready loud jewel frozen second junk fun";
+var mnemonic = "reveal salmon snow artwork clinic romance dumb sail grass then very bitter";

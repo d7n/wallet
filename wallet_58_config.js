@@ -1,1 +1,1 @@
-var mnemonic = "merge prosper found fiction unit way season divert aware floor wear usual";
+var mnemonic = "office level act wave average produce edge today ostrich dawn hire profit";

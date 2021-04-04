@@ -1,1 +1,1 @@
-var mnemonic = "cement usage fossil again canvas sorry chronic abandon welcome season actual own";
+var mnemonic = "dentist reveal close real try kid cannon hill trumpet cruel lady card";

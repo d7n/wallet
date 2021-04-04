@@ -1,1 +1,1 @@
-var mnemonic = "trigger frost couple adult such salad bean noise panther witness fence oppose";
+var mnemonic = "crime puppy hat street catch route tribe sing motor rotate enjoy style";

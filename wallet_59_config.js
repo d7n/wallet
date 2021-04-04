@@ -1,1 +1,1 @@
-var mnemonic = "seek search job vague wink quality smoke kiss post garlic monster tongue";
+var mnemonic = "assume lunar purchase document tank ill guitar cash spare uncover you tenant";

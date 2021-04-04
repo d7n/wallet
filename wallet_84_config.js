@@ -1,1 +1,1 @@
-var mnemonic = "female release brown kid source card inhale card clutch aim father tribe";
+var mnemonic = "volcano moon priority sign man gesture slender define drama never dolphin pencil";

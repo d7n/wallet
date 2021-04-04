@@ -1,1 +1,1 @@
-var mnemonic = "outdoor club cancel add motor bike prize aunt artist clarify share fiction";
+var mnemonic = "settle chuckle mad document verb output city again disease ceiling canoe orange";

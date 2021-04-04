@@ -1,1 +1,1 @@
-var mnemonic = "year excuse notice candy woman until egg myself letter soccer online nominee";
+var mnemonic = "chronic salad want kitten chimney armor speak sense cigar genius clog giraffe";

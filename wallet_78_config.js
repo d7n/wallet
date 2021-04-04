@@ -1,1 +1,1 @@
-var mnemonic = "just wild check myth void chaos clock episode pony among endorse wheat";
+var mnemonic = "vicious someone saddle strike vocal bind blood become unable text cost intact";

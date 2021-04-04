@@ -1,1 +1,1 @@
-var mnemonic = "token admit sound brand brave tray dawn concert memory vintage close diamond";
+var mnemonic = "sustain rubber layer scale quarter depth cherry avocado marriage state ensure galaxy";

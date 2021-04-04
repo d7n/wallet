@@ -1,1 +1,1 @@
-var mnemonic = "clump roof carry delay picture venture put jelly boss rapid scorpion cook";
+var mnemonic = "dentist pumpkin today adjust judge fade fever noble dinner alpha exotic poet";

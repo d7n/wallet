@@ -1,1 +1,1 @@
-var mnemonic = "afraid girl skirt motion example pull advice outdoor enter produce write honey";
+var mnemonic = "remember drum shallow say pencil pave balance hockey arrive venture indoor gasp";

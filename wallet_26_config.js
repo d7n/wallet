@@ -1,1 +1,1 @@
-var mnemonic = "approve uphold cloth genuine dismiss glimpse reunion wood flip portion cement nest";
+var mnemonic = "unfold story praise coconut hard judge help obtain quote pepper suffer march";

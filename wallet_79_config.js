@@ -1,1 +1,1 @@
-var mnemonic = "culture fall sweet uphold absorb program offer absurd glue escape dignity patch";
+var mnemonic = "estate stool time hedgehog half object type surround toast merry unit pony";

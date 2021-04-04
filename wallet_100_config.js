@@ -1,1 +1,1 @@
-var mnemonic = "hat ankle verify have predict portion rather approve produce galaxy tourist tank";
+var mnemonic = "stage reveal story hunt only above whip screen royal action this hungry";

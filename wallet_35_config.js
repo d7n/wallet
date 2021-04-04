@@ -1,1 +1,1 @@
-var mnemonic = "judge foot practice marble giraffe spin labor afraid hour shrug mind oak";
+var mnemonic = "video budget mystery bunker fence special glide split hawk glove plastic pumpkin";

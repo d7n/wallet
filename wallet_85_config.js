@@ -1,1 +1,1 @@
-var mnemonic = "peanut april vessel vehicle eternal suggest mechanic federal mouse mercy token neither";
+var mnemonic = "alcohol lion chunk fashion valley slot guard upon bean liar citizen humble";

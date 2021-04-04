@@ -1,1 +1,1 @@
-var mnemonic = "charge art sugar cereal vast lobster swift mad stuff expire soap deal";
+var mnemonic = "brick abstract various eight wage peanut surge predict dice horn hub alcohol";

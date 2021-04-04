@@ -1,1 +1,1 @@
-var mnemonic = "combine slice shrug warfare outdoor pear shoulder toddler ozone border helmet seat";
+var mnemonic = "tumble bachelor total expose indicate profit advice result gesture gaze athlete announce";

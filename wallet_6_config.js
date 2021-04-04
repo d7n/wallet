@@ -1,1 +1,1 @@
-var mnemonic = "industry pair goat gorilla danger mask cute pipe core virus melody clog";
+var mnemonic = "tell spin much buffalo journey hazard assault acid junior cool wife axis";

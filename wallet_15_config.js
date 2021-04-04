@@ -1,1 +1,1 @@
-var mnemonic = "real animal devote verb unit anxiety struggle rib retreat between crystal library";
+var mnemonic = "cupboard endless shuffle cruel paper cake keep finish direct prepare include glass";

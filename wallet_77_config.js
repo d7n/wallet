@@ -1,1 +1,1 @@
-var mnemonic = "flock dinner pet slab edit cook craft cool mansion series duty amount";
+var mnemonic = "purchase alcohol adapt risk forward more poem answer nephew stable regular fame";

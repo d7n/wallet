@@ -1,1 +1,1 @@
-var mnemonic = "flight hurry oppose notable truly pigeon battle cloth basic duty mom school";
+var mnemonic = "ship paper battle like outside close erode weird record vault hurdle unhappy";

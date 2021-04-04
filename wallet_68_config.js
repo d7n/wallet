@@ -1,1 +1,1 @@
-var mnemonic = "human merry deliver pig mandate praise alcohol push muscle multiply asthma filter";
+var mnemonic = "blue person amused what soon human crumble clinic often spray smoke say";

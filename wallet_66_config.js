@@ -1,1 +1,1 @@
-var mnemonic = "thrive spray pitch ready sun iron peasant toward inmate target fashion cigar";
+var mnemonic = "choice duck business horse conduct tackle very market original pool gym electric";

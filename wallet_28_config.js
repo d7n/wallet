@@ -1,1 +1,1 @@
-var mnemonic = "attend antenna produce glass pattern input possible magic chimney nest grief indicate";
+var mnemonic = "govern wet grocery peanut runway twice tumble banana hub zone crisp cave";

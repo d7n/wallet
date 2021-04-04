@@ -1,1 +1,1 @@
-var mnemonic = "frozen garage shiver topic midnight deputy spare music angry farm mirror hospital";
+var mnemonic = "trim current hundred near will until arch oak million second tornado find";

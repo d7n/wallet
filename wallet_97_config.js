@@ -1,1 +1,1 @@
-var mnemonic = "fiscal apple phone soup cheap tragic very humor memory delay calm unknown";
+var mnemonic = "frown taste glide alcohol agree snap liquid spawn antenna visit slush tonight";

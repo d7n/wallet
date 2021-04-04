@@ -1,1 +1,1 @@
-var mnemonic = "upon retreat piece series awful gossip ivory very shop either minor embrace";
+var mnemonic = "desert raven turtle wedding prison admit exchange demise then cluster oil business";

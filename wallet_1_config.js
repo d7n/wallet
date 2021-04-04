@@ -1,1 +1,1 @@
-var mnemonic = "type hold ribbon talent priority bachelor gossip because faith game raise canyon";
+var mnemonic = "refuse shove brother biology bean sell giggle blade about screen follow join";

@@ -1,1 +1,1 @@
-var mnemonic = "return finger pave biology soft decline slush moon artwork usual sea muffin";
+var mnemonic = "inside armor test joy install oven assume junior girl avocado huge couple";

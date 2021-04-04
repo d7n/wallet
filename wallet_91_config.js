@@ -1,1 +1,1 @@
-var mnemonic = "drink estate pave inquiry hurry material shiver scorpion problem depend error oyster";
+var mnemonic = "ketchup milk anchor arena bless loyal hat ten purse dust act honey";

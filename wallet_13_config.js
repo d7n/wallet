@@ -1,1 +1,1 @@
-var mnemonic = "run minor axis flee bird weasel eyebrow cram what balcony book warm";
+var mnemonic = "crash trust token erase payment mechanic tonight morning leader regular tube moral";

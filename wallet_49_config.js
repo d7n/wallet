@@ -1,1 +1,1 @@
-var mnemonic = "corn hockey ozone chuckle just produce nephew maple truly silk episode jump";
+var mnemonic = "minimum neither rice near speak play finger border account about judge dolphin";

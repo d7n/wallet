@@ -1,1 +1,1 @@
-var mnemonic = "rule almost super disorder project flush light trip tired juice denial blue";
+var mnemonic = "quote neck business album planet foil iron actual gravity below moment label";

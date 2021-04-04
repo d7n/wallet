@@ -1,1 +1,1 @@
-var mnemonic = "ensure fee raise slush advice trash south rough pole term label call";
+var mnemonic = "kidney execute armor choice bomb palm absent mirror seven unique boil surface";

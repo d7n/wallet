@@ -1,1 +1,1 @@
-var mnemonic = "goddess cluster narrow hand velvet roast milk soul slow sphere apple joy";
+var mnemonic = "picnic maid because omit volume carbon great middle jeans hard nuclear play";

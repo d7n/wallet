@@ -1,1 +1,1 @@
-var mnemonic = "bracket coconut job use when youth sure kiwi point ask cattle benefit";
+var mnemonic = "bomb find pair move drip planet novel bundle reason wait talk unfair";
