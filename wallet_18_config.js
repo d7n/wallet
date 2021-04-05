@@ -1,1 +1,1 @@
-var mnemonic = "noodle edge crane nurse kid reject exclude punch extend bullet sunny laugh";
+var mnemonic = "action dragon amused save gain squeeze sword early hand measure voyage lake";

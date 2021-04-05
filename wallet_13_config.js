@@ -1,1 +1,1 @@
-var mnemonic = "together treat cancel sugar borrow good produce brand mosquito curious syrup quit";
+var mnemonic = "afraid become loud stove volcano census frame cattle primary promote spend situate";

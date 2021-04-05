@@ -1,1 +1,1 @@
-var mnemonic = "stay media alley calm consider dad clinic regret census glove expand sleep";
+var mnemonic = "couch proof program cigar leader blue december slam battle divert slender loop";

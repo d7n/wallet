@@ -1,1 +1,1 @@
-var mnemonic = "saddle common heart spell art catch tone grid unaware slender carpet purchase";
+var mnemonic = "hat useless ceiling guide cigar fresh sick response original basic biology shoot";

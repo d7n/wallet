@@ -1,1 +1,1 @@
-var mnemonic = "scissors they ribbon nasty fold close shift recycle clean range excess insane";
+var mnemonic = "arrange absurd rather obscure egg surge ranch trade document punch allow valid";

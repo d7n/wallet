@@ -1,1 +1,1 @@
-var mnemonic = "message rail endless seven fever pencil green point infant keep sell magic";
+var mnemonic = "copper illness dance frog high habit version warfare oxygen cliff gauge enroll";

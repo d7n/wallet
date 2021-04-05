@@ -1,1 +1,1 @@
-var mnemonic = "type depend onion tuna refuse middle write decrease welcome purpose hope stadium";
+var mnemonic = "lounge report left raw knock unable nerve vapor monster jealous power arrange";

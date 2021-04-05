@@ -1,1 +1,1 @@
-var mnemonic = "draft despair make unaware shaft float dove gym chat congress shadow torch";
+var mnemonic = "match argue motion harsh arch globe tuition skin morning meadow legend garbage";

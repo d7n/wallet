@@ -1,1 +1,1 @@
-var mnemonic = "cherry clinic ecology million gaze evolve wear arm throw tonight level volume";
+var mnemonic = "siren tissue history hidden cook delay hood dose ridge ability armor junk";

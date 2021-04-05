@@ -1,1 +1,1 @@
-var mnemonic = "purchase trumpet gas title tent winner club galaxy junior roof endless eight";
+var mnemonic = "report help winter play hero napkin brick december next core resemble vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp budget ladder wisdom coyote wheat upset burden inner ketchup middle open";
+var mnemonic = "pilot poverty acid board skill raw rally spare maximum disagree have vanish";

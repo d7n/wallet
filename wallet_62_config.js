@@ -1,1 +1,1 @@
-var mnemonic = "again found famous claw position scheme reward canyon way fog lake raise";
+var mnemonic = "report novel pave glue chunk maximum axis grocery suggest ride decline lock";

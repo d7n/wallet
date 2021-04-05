@@ -1,1 +1,1 @@
-var mnemonic = "useless illegal erode solar response top raccoon cheap trick idea upper swap";
+var mnemonic = "belt myth melody jungle pattern surface trash dice monster unknown demand define";

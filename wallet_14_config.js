@@ -1,1 +1,1 @@
-var mnemonic = "patient recall tiny extra panther high segment warfare sand proof common possible";
+var mnemonic = "reflect language winter common load dream famous sign mad income artefact twin";

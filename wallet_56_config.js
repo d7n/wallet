@@ -1,1 +1,1 @@
-var mnemonic = "wealth figure dry route learn shop once police brave shoe iron rebuild";
+var mnemonic = "theme goddess medal face access seminar capital boil immense hole struggle solve";

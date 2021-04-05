@@ -1,1 +1,1 @@
-var mnemonic = "era fish humor frog type thought suspect evoke tone lizard expire total";
+var mnemonic = "trash canvas celery truth protect heart broccoli taxi tone pony stereo erase";

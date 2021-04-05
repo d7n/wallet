@@ -1,1 +1,1 @@
-var mnemonic = "minute crystal wagon skull across index list reduce dirt gentle indoor play";
+var mnemonic = "nerve manual knee select bind orange panda fish beyond finger peasant disease";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict valid pupil rigid cargo cargo dismiss craft clarify road veteran common";
+var mnemonic = "unusual man genuine pigeon marine unveil fat stomach outer attract spy tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "leader hour polar capital inject limb enlist process fetch suspect glow phone";
+var mnemonic = "awake enable deposit quarter notice penalty velvet slender between catalog sick spread";

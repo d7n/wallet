@@ -1,1 +1,1 @@
-var mnemonic = "oyster devote health turkey spoon grab maple rabbit marine right rich maze";
+var mnemonic = "shrug monitor cloud weasel amount simple episode estate rely hammer maximum panda";

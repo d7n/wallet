@@ -1,1 +1,1 @@
-var mnemonic = "comic pet skin burst arctic slide box track confirm concert behave convince";
+var mnemonic = "awkward tuition salad olive canvas monitor banner cute office draft cute journey";

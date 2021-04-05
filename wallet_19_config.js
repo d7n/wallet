@@ -1,1 +1,1 @@
-var mnemonic = "since above betray shed milk evoke scheme invest author deal hair execute";
+var mnemonic = "provide urban wise bunker trial card attack silly catalog spy mail almost";

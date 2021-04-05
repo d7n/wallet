@@ -1,1 +1,1 @@
-var mnemonic = "deposit razor vivid disease unfair hurdle struggle toilet trap tide leader zero";
+var mnemonic = "cotton grass essay crack theory topple pen scorpion crime permit dad bacon";

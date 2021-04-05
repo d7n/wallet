@@ -1,1 +1,1 @@
-var mnemonic = "typical fish impulse day pen frog man head nominee tomorrow topple phrase";
+var mnemonic = "luxury elegant dust throw pattern oxygen sketch sentence clip lounge record scale";

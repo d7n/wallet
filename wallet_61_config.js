@@ -1,1 +1,1 @@
-var mnemonic = "warm ring ill weasel rug egg vessel salmon dentist camera about still";
+var mnemonic = "snow fiction raven sick future develop true million skin siege stock cotton";

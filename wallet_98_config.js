@@ -1,1 +1,1 @@
-var mnemonic = "mimic total impose arrest occur audit tonight laundry use dumb divert thing";
+var mnemonic = "oak wise sound erode onion general canvas convince talent laugh kite song";

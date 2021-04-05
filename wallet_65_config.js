@@ -1,1 +1,1 @@
-var mnemonic = "forget audit noise emerge oppose atom slogan joke one eager timber fade";
+var mnemonic = "glare razor prefer arrow mouse rabbit face announce original stumble often leisure";

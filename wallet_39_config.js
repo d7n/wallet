@@ -1,1 +1,1 @@
-var mnemonic = "pen pizza patch supreme claw social kangaroo wait carpet build now ostrich";
+var mnemonic = "magic little employ twist actor pyramid syrup umbrella almost arrow spawn inner";

@@ -1,1 +1,1 @@
-var mnemonic = "access sport upper cabin basket uncle fresh tourist sketch mouse recipe wild";
+var mnemonic = "pigeon dose loan inside medal obvious meat echo recipe shove draw tone";

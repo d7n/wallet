@@ -1,1 +1,1 @@
-var mnemonic = "smile arrest group dream boat bench beauty gate expect now inmate win";
+var mnemonic = "fix evoke laundry alcohol enroll effort roast express crack illness behind raw";

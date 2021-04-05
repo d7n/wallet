@@ -1,1 +1,1 @@
-var mnemonic = "kitchen tuna prepare baby pole math fossil chair oven engine drastic assume";
+var mnemonic = "electric buyer silent leisure job word boy nephew need pull adjust turtle";

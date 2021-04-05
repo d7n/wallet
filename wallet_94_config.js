@@ -1,1 +1,1 @@
-var mnemonic = "sample you able rebel bachelor duck fetch recipe board grit race parent";
+var mnemonic = "spin crisp mom orient shadow choose broom rain renew during rally virtual";

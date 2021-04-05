@@ -1,1 +1,1 @@
-var mnemonic = "accuse doctor hip first wife purity across hazard exotic aisle thought chase";
+var mnemonic = "scorpion notable steak ribbon april then power first like stick loop lady";

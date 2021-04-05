@@ -1,1 +1,1 @@
-var mnemonic = "life defense win fan squirrel little message crawl duck palace submit cherry";
+var mnemonic = "country merit update nerve case young thumb final over busy fever border";

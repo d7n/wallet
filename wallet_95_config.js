@@ -1,1 +1,1 @@
-var mnemonic = "hood window viable harbor catch cruel kiwi next bonus permit oyster language";
+var mnemonic = "alcohol pistol book mandate trash mention doctor plunge aspect gain grant public";

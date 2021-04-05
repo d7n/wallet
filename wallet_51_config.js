@@ -1,1 +1,1 @@
-var mnemonic = "exit toe grass word canoe family wash mad rural loop unfair bamboo";
+var mnemonic = "humble language lamp space eager amateur deliver wasp fox truly farm crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "true soda way begin paper trust tattoo argue frozen dignity moment salon";
+var mnemonic = "path click next mule cable enjoy where fortune tower outdoor pave rhythm";

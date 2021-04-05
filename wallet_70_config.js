@@ -1,1 +1,1 @@
-var mnemonic = "own lunar notice turn else captain rough flat dutch help text summer";
+var mnemonic = "tube hole school mixture sad tree indoor gain organ vintage annual snow";

@@ -1,1 +1,1 @@
-var mnemonic = "involve anxiety monitor order expand daring spell home aware tattoo person cinnamon";
+var mnemonic = "record course erupt emerge fatigue rug once penalty human pioneer wine total";

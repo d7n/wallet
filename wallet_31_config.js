@@ -1,1 +1,1 @@
-var mnemonic = "tent blood zoo goose inherit plunge roof purpose tube cradle round smoke";
+var mnemonic = "human fan ahead kick select glad theme unhappy trend half chest depend";

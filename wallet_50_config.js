@@ -1,1 +1,1 @@
-var mnemonic = "rose save basic seek guide record dinner casino joke brush believe whisper";
+var mnemonic = "teach soft topple marriage tell visit despair frequent noble empty kitchen donor";

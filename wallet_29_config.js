@@ -1,1 +1,1 @@
-var mnemonic = "toe light horror hazard erosion link cash scrap music double believe trial";
+var mnemonic = "divide cloth exist globe choice caution file morning lunar rail layer pill";

@@ -1,1 +1,1 @@
-var mnemonic = "agree oak pole interest warfare awkward absurd evoke essay retire economy enjoy";
+var mnemonic = "approve resist educate diet calm tattoo already diary pink half whip emerge";

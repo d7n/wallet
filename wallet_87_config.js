@@ -1,1 +1,1 @@
-var mnemonic = "often fault fabric oyster struggle play eternal swallow output right pass crucial";
+var mnemonic = "laugh curtain whip ready advance wise illness ice borrow trophy actress milk";

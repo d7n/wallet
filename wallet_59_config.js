@@ -1,1 +1,1 @@
-var mnemonic = "topic old clock human senior lobster retire grit rubber vague fame certain";
+var mnemonic = "hole ticket mirror scissors snake wrist rebel life mother chunk title chair";

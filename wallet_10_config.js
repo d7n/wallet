@@ -1,1 +1,1 @@
-var mnemonic = "elegant refuse physical soap snow fine modify execute pelican educate repair doctor";
+var mnemonic = "absorb orient snack curtain huge junior allow scale venue drill expose judge";

@@ -1,1 +1,1 @@
-var mnemonic = "report wish shield cause online cash inherit tuition empty hope story age";
+var mnemonic = "tenant kidney dish grief coffee suit dial other hold wild garlic nut";

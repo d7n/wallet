@@ -1,1 +1,1 @@
-var mnemonic = "flag strong blanket mail subject total afford cloud device abstract term tail";
+var mnemonic = "laptop tip feature bless surround ensure they blossom kite pilot pole kidney";

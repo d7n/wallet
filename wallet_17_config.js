@@ -1,1 +1,1 @@
-var mnemonic = "search toilet exotic brush receive derive crystal wash fee glass cousin seminar";
+var mnemonic = "liar shrug tuition edge luxury tilt similar uncle case good duty proud";

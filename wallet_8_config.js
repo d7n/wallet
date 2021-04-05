@@ -1,1 +1,1 @@
-var mnemonic = "scout climb purchase suspect monkey pulp card trade grass lady canoe menu";
+var mnemonic = "grit divert seat suffer witness clinic mechanic fitness acquire wild talk tonight";

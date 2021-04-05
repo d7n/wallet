@@ -1,1 +1,1 @@
-var mnemonic = "whale coil master opinion public wage series chalk boy cram exile wrestle";
+var mnemonic = "connect antenna smooth crater bicycle slot risk input rich track inflict kitchen";

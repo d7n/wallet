@@ -1,1 +1,1 @@
-var mnemonic = "attract motion garment inmate anxiety quantum champion friend adult surprise tent pact";
+var mnemonic = "situate leg problem festival cool wall car powder sick begin beef boat";

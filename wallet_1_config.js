@@ -1,1 +1,1 @@
-var mnemonic = "salute cement bulk come alpha salt tattoo huge broom usual mandate engine";
+var mnemonic = "elite into slab grit certain first scare push carbon deposit vessel undo";

@@ -1,1 +1,1 @@
-var mnemonic = "audit educate hire acoustic family tobacco error winner dizzy loan gaze lens";
+var mnemonic = "pond comfort rent civil dawn fame arctic now echo trigger pool net";

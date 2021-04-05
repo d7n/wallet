@@ -1,1 +1,1 @@
-var mnemonic = "swallow include tree maple hope crystal robot prevent civil million armed chaos";
+var mnemonic = "scare seed alter young syrup will engine raccoon possible sword option vintage";

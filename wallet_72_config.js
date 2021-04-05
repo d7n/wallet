@@ -1,1 +1,1 @@
-var mnemonic = "cupboard sight lumber minute draft fog patrol desert seminar virtual sauce brisk";
+var mnemonic = "shop ensure rapid leaf curtain random edit steel satoshi student verify sauce";

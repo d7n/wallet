@@ -1,1 +1,1 @@
-var mnemonic = "surround elite coconut fame ugly scale bargain away juice base sample slush";
+var mnemonic = "onion maximum child harsh exhaust used payment disorder theory truly picture round";

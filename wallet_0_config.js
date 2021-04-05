@@ -1,1 +1,1 @@
-var mnemonic = "forget empower parrot number hill broom battle drive dash once rally section";
+var mnemonic = "uniform patient steel increase wide strategy senior damp evidence surge cliff buddy";

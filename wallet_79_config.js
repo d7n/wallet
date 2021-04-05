@@ -1,1 +1,1 @@
-var mnemonic = "order anger session announce clock reflect velvet hover finger obey blade cotton";
+var mnemonic = "gold grow circle regret super spice wing renew steel lawsuit hint news";

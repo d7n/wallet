@@ -1,1 +1,1 @@
-var mnemonic = "inquiry magic fine peanut suit west wisdom rich behave bind answer favorite";
+var mnemonic = "belt wise athlete exercise palace wage canvas police use sketch usual sustain";

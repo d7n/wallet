@@ -1,1 +1,1 @@
-var mnemonic = "life print vibrant day track speed episode scissors blade shield alpha predict";
+var mnemonic = "cereal strike grocery quote celery network scare hockey enact horse shaft love";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle innocent decline breeze connect where habit solution artist term toddler sport";
+var mnemonic = "source pilot frog calm stay family march ball bind slight raven index";

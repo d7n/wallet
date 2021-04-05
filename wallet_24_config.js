@@ -1,1 +1,1 @@
-var mnemonic = "bracket token album push silk pole diesel toy paddle sting noise where";
+var mnemonic = "alcohol topic viable good saddle rhythm leader caution nut nasty vanish old";

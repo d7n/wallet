@@ -1,1 +1,1 @@
-var mnemonic = "nut enable window daring panther charge ripple oven excess dumb liquid school";
+var mnemonic = "install emerge casual vintage season segment crash melt runway reopen head equal";

@@ -1,1 +1,1 @@
-var mnemonic = "present gown antenna surface mind strong creek first ribbon honey already bamboo";
+var mnemonic = "fatal similar victory doll speak huge brass already galaxy verify peanut install";

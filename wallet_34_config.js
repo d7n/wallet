@@ -1,1 +1,1 @@
-var mnemonic = "exotic waste elder live super sing final fringe oval alone trust false";
+var mnemonic = "depend hold recycle raise goddess helmet potato like system universe they stay";

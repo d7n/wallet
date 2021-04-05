@@ -1,1 +1,1 @@
-var mnemonic = "glimpse three emerge hood rifle version inner banana hub crouch donor squirrel";
+var mnemonic = "quarter keep save direct mail action cigar post barely pitch amount food";

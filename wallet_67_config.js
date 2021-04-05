@@ -1,1 +1,1 @@
-var mnemonic = "display guide awkward exist project enhance resemble actor weapon cannon casual guard";
+var mnemonic = "empty cage glass sudden visit dish pear already decline autumn popular broccoli";

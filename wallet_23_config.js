@@ -1,1 +1,1 @@
-var mnemonic = "reason run inmate gap assume hello pudding apple photo report bind tail";
+var mnemonic = "sibling risk fly ignore mesh pretty until dice baby bench celery exchange";

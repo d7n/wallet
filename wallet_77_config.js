@@ -1,1 +1,1 @@
-var mnemonic = "lesson express cannon service cigar among myself coyote blade height fit you";
+var mnemonic = "spot pave creek concert able select shuffle scatter essay domain move flavor";

@@ -1,1 +1,1 @@
-var mnemonic = "million found opinion swarm action inhale they boring original equip popular chalk";
+var mnemonic = "mandate journey make all label cook gain water recipe drum robot clerk";

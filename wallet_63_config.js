@@ -1,1 +1,1 @@
-var mnemonic = "door razor shaft plunge ordinary cactus decline panel exile soap south daring";
+var mnemonic = "charge stone two disagree zoo slush need emerge twenty spare meadow april";

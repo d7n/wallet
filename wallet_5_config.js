@@ -1,1 +1,1 @@
-var mnemonic = "tray bachelor raven voice notice surprise carry weather merge orient expose follow";
+var mnemonic = "hollow indoor liberty flee slab impact dizzy sample tourist robot phrase always";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz define then crowd normal peanut library shuffle firm giraffe lab then";
+var mnemonic = "art gaze high spoil neutral limb assume usual great salad ten lucky";

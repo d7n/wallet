@@ -1,1 +1,1 @@
-var mnemonic = "target fatal seek venue horn gloom toddler trust believe couch assume chicken";
+var mnemonic = "model firm fog inhale palace trash festival capable clinic hip assist siege";

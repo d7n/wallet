@@ -1,1 +1,1 @@
-var mnemonic = "earth lesson dwarf admit profit observe fall uphold crew ensure stairs swift";
+var mnemonic = "decorate crater member piano carbon spice occur shine ankle derive gauge entry";

@@ -1,1 +1,1 @@
-var mnemonic = "ride inherit flock absorb plug muffin distance high art exclude soon champion";
+var mnemonic = "evil absurd sketch sort rebel usage inherit duty lizard violin include potato";

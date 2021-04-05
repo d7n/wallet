@@ -1,1 +1,1 @@
-var mnemonic = "shell wire noodle range asthma feature destroy lunar between lottery stage diet";
+var mnemonic = "agree subway concert fish carpet fetch news multiply banana home someone wire";

@@ -1,1 +1,1 @@
-var mnemonic = "young primary wife service food rival first fetch harbor attend six grab";
+var mnemonic = "document aerobic need floor thing wine sad acid action breeze hello mistake";

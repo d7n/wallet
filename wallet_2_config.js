@@ -1,1 +1,1 @@
-var mnemonic = "shop dumb saddle claim outdoor right off mail duck try pigeon make";
+var mnemonic = "rough senior traffic cigar fog chronic thought ensure quote length joy rude";

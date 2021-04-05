@@ -1,1 +1,1 @@
-var mnemonic = "grass chat parent cloth gun excess narrow reject cancel scrap again lend";
+var mnemonic = "garden own rail script alley hole trick crack truck protect verify welcome";

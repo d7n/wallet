@@ -1,1 +1,1 @@
-var mnemonic = "core pizza disorder cable thank cat silk when melt wild chunk lyrics";
+var mnemonic = "smooth battle require casino fat slot oblige desert funny mutual mimic tourist";

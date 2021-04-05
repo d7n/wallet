@@ -1,1 +1,1 @@
-var mnemonic = "hint alter jeans one cruel october language fresh alarm sibling choose wire";
+var mnemonic = "bike evolve build muscle device force mother wait crack scan brain bronze";

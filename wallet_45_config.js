@@ -1,1 +1,1 @@
-var mnemonic = "obvious ask stomach across position assist ice holiday next reduce conduct nose";
+var mnemonic = "fox plastic nut punch crater advance voice hedgehog tiger party prize brain";

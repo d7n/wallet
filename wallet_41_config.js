@@ -1,1 +1,1 @@
-var mnemonic = "assault tilt chaos rail quarter disease animal master spirit release file pistol";
+var mnemonic = "rebuild drum sense enforce decorate divert blur moral honey view hundred nurse";

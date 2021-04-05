@@ -1,1 +1,1 @@
-var mnemonic = "icon lounge decide key injury slight actress piano myth intact kick you";
+var mnemonic = "lunch gym soda purchase setup link rail chase expose laugh prison boss";

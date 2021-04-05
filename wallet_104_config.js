@@ -1,1 +1,1 @@
-var mnemonic = "thought canoe engage grace slight cactus nut solve real size mutual walk";
+var mnemonic = "earn harvest phrase lecture endorse offer call wool cargo gain swift near";

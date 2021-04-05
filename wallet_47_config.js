@@ -1,1 +1,1 @@
-var mnemonic = "wedding novel depart volcano mango summer travel open glance brave filter drift";
+var mnemonic = "wait almost argue notable infant dismiss dynamic soft panther law toast outdoor";
