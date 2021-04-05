@@ -1,1 +1,1 @@
-var mnemonic = "museum recall illegal grit cradle excuse adapt dwarf detect knock settle number";
+var mnemonic = "elbow assist buffalo cost easily entire excuse ceiling exhibit dwarf sugar beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd setup expand spin boat upon around region swear flock tired remain";
+var mnemonic = "basket captain opera effort current because resist camp drama common number vanish";

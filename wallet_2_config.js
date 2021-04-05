@@ -1,1 +1,1 @@
-var mnemonic = "group autumn grow east average round area common staff economy sight purse";
+var mnemonic = "later group scale enrich casino income celery apology wreck appear nominee giggle";

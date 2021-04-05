@@ -1,1 +1,1 @@
-var mnemonic = "magnet field tape skate small announce cheese symptom rent panther wish delay";
+var mnemonic = "limit boat car crew property cover tattoo novel salt ketchup hand space";

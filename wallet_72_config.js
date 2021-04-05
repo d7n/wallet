@@ -1,1 +1,1 @@
-var mnemonic = "guess april baby brick crazy fun erupt poverty render liquid ribbon parent";
+var mnemonic = "electric valid rhythm friend move lemon insect august run box uncover trophy";

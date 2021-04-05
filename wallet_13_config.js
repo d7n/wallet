@@ -1,1 +1,1 @@
-var mnemonic = "retreat bubble flock unveil copy elder settle worth vehicle around loyal confirm";
+var mnemonic = "kidney direct beauty visual photo mother length grief calm sheriff bamboo length";

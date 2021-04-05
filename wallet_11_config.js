@@ -1,1 +1,1 @@
-var mnemonic = "first bronze reform trade book palace disease bridge exotic lion dinosaur seminar";
+var mnemonic = "place august ramp adapt shoulder farm thank panel item year settle doctor";

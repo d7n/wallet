@@ -1,1 +1,1 @@
-var mnemonic = "base pyramid inch shadow saddle labor dwarf smart next member torch forget";
+var mnemonic = "museum jar track cactus figure age canyon finger hour language similar between";

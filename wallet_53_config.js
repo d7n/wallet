@@ -1,1 +1,1 @@
-var mnemonic = "boost mother disease pepper rocket bread february swim lawn goose pistol put";
+var mnemonic = "tape beach rich canvas shuffle actress bunker labor cricket word useful social";

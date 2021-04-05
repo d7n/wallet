@@ -1,1 +1,1 @@
-var mnemonic = "voyage strong drama fork perfect pulse hidden sort spawn essay column dolphin";
+var mnemonic = "inspire long clutch range clutch certain across fix include kiwi vendor valve";

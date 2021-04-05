@@ -1,1 +1,1 @@
-var mnemonic = "strong banana among toy inject beach retreat cry grocery lobster fluid furnace";
+var mnemonic = "table raise post borrow lemon learn effort mammal under fluid extra flower";

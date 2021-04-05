@@ -1,1 +1,1 @@
-var mnemonic = "pilot next congress tilt sick outer expire combine metal guilt parade trumpet";
+var mnemonic = "ivory under pattern pulse purpose grid story random plate skull rough verb";

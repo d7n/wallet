@@ -1,1 +1,1 @@
-var mnemonic = "awesome gasp amateur adapt brown age mixture three tonight skill walnut nature";
+var mnemonic = "wash kiwi school admit seat produce winner permit steel more vibrant device";

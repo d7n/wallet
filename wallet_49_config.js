@@ -1,1 +1,1 @@
-var mnemonic = "pudding uphold gate loud arrow glad huge organ method first worth swing";
+var mnemonic = "twist claw random volcano crater elephant dog minimum orbit liberty salute manual";

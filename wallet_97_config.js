@@ -1,1 +1,1 @@
-var mnemonic = "tuna toe october grunt uncover shoe slogan erode mistake favorite eternal gospel";
+var mnemonic = "trade define dentist tired silk six define release version short seed insane";

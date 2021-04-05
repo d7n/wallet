@@ -1,1 +1,1 @@
-var mnemonic = "ski over air surface brown tent voice lyrics effort praise oval estate";
+var mnemonic = "truck emerge harsh various promote worth together bless stereo dawn convince kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate polar slim south useless bright matrix mule benefit cost chest possible";
+var mnemonic = "mom fragile bacon alien change exotic frame produce anger twelve dismiss ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "result coral cost twist electric use hat voyage raccoon pave grace model";
+var mnemonic = "kingdom awful viable solve month judge route front habit fence future wear";

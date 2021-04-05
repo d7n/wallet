@@ -1,1 +1,1 @@
-var mnemonic = "foster across ostrich sustain enemy segment major direct knee velvet seek village";
+var mnemonic = "hamster often cart amateur ginger swarm fish tenant awake thank kidney reward";

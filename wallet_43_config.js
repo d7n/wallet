@@ -1,1 +1,1 @@
-var mnemonic = "worth voice lumber trophy glow pencil angle worry absorb shiver where inner";
+var mnemonic = "way across stairs hello comfort today trumpet pepper leave beach chalk carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "around diary elder flash economy payment ticket stick ostrich member amazing used";
+var mnemonic = "orchard wreck area favorite trouble stomach solve develop demand hat dice tourist";

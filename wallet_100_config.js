@@ -1,1 +1,1 @@
-var mnemonic = "sure box mass rebel announce slot fetch sample syrup purity situate length";
+var mnemonic = "negative screen spin parrot design oblige shy soon rally unveil aerobic under";

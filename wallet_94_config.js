@@ -1,1 +1,1 @@
-var mnemonic = "silent breeze leisure innocent column unveil include vintage trial glimpse same carry";
+var mnemonic = "there legend engage dinosaur surround relax twice lazy human young guess elite";

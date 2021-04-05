@@ -1,1 +1,1 @@
-var mnemonic = "scatter welcome net cable trap jacket hammer notice verify unfair robot hope";
+var mnemonic = "edit song lesson feel category sleep screen certain capable trumpet gentle night";

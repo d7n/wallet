@@ -1,1 +1,1 @@
-var mnemonic = "rich search angle liberty method charge silk lizard prosper plug category hole";
+var mnemonic = "giggle become anger recycle guide coast agent lyrics erase small weird brass";

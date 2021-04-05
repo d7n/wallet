@@ -1,1 +1,1 @@
-var mnemonic = "then ramp pudding flag lottery cradle table access hair cat normal around";
+var mnemonic = "unique blame anchor glimpse option dish surround month method whisper hair palm";

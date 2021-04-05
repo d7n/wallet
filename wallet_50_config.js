@@ -1,1 +1,1 @@
-var mnemonic = "anchor august rare left lucky crash buyer throw awake claim nut daring";
+var mnemonic = "trial raise crater oxygen wall soldier dune link gun pen load shove";

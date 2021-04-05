@@ -1,1 +1,1 @@
-var mnemonic = "purse outside luxury shift spy arrest flush slide antique rigid daring safe";
+var mnemonic = "there once monkey drop garlic melt fit exist roast sheriff shine shove";

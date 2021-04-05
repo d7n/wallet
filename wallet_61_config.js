@@ -1,1 +1,1 @@
-var mnemonic = "height fame asset palm virtual coyote window tent opera asset panda bracket";
+var mnemonic = "second subject horror jelly mobile shoot fence slogan toward beyond retreat undo";

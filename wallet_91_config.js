@@ -1,1 +1,1 @@
-var mnemonic = "fatal history friend zone will receive captain elbow album glad whip degree";
+var mnemonic = "upper fence cube material gloom thumb view canvas stick viable eyebrow thing";

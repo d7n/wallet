@@ -1,1 +1,1 @@
-var mnemonic = "fabric rule found verb decorate venue upper season prison divorce merry eternal";
+var mnemonic = "emotion cook abandon alpha barely hold pet excuse insane menu habit surface";

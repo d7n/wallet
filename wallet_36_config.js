@@ -1,1 +1,1 @@
-var mnemonic = "inch mean scissors hill exercise road describe moon tenant carpet travel virus";
+var mnemonic = "ability slam matrix uncle joke inform egg together mercy parent crime tilt";

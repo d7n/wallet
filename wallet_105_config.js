@@ -1,1 +1,1 @@
-var mnemonic = "despair black broken popular desert alert prize bleak wear arch monster clown";
+var mnemonic = "dignity devote scale clip lend glide snake canoe put athlete course oven";

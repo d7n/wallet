@@ -1,1 +1,1 @@
-var mnemonic = "rigid erode enhance level update melody desert load outside axis thank pupil";
+var mnemonic = "group stool movie flight catalog traffic cube snow taste mention swim trip";

@@ -1,1 +1,1 @@
-var mnemonic = "time small struggle rescue update blame rubber square cradle fun smoke olympic";
+var mnemonic = "total cause bench embark asthma bless glove also switch soft oval reason";

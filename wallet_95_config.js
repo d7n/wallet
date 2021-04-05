@@ -1,1 +1,1 @@
-var mnemonic = "stereo please honey essay analyst silk tube fortune strong dentist athlete sadness";
+var mnemonic = "menu fun rather melt across moment sight pink barely rich hedgehog opinion";

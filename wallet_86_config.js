@@ -1,1 +1,1 @@
-var mnemonic = "pitch thunder device kitchen flat gas spin initial trend process great polar";
+var mnemonic = "process royal ask solve safe crash door chief finish belt begin light";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse power charge bright raven brown high barrel science speak treat ocean";
+var mnemonic = "parade seed like trash purchase unveil venture club bacon cattle clap ranch";

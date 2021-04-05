@@ -1,1 +1,1 @@
-var mnemonic = "exhibit damp pause buddy slender grape tissue retreat unit raven day spare";
+var mnemonic = "picture siren thank detail enlist arena connect biology favorite oxygen birth cupboard";

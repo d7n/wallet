@@ -1,1 +1,1 @@
-var mnemonic = "buyer guitar merit stable essence runway shell culture venue wife predict blouse";
+var mnemonic = "humor odor purchase achieve push bitter hockey insane purchase dizzy claw soap";

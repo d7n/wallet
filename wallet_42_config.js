@@ -1,1 +1,1 @@
-var mnemonic = "forward field drastic double truth among about color cherry nice rescue label";
+var mnemonic = "hand fitness start talent umbrella shoe race harvest between pistol fade pride";

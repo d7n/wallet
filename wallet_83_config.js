@@ -1,1 +1,1 @@
-var mnemonic = "ginger emerge film swarm glimpse lyrics food catch gun guilt siege van";
+var mnemonic = "same purchase settle sunny erode magnet oven cube alcohol shop pelican miracle";

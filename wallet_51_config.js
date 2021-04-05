@@ -1,1 +1,1 @@
-var mnemonic = "reveal ivory job lucky purchase pass genre hood stay economy resist dream";
+var mnemonic = "fun meadow scan vacuum guilt bulk hidden attract junior minor shell rely";

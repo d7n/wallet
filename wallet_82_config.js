@@ -1,1 +1,1 @@
-var mnemonic = "trim grab biology excite vessel lend creek coyote second small thank heart";
+var mnemonic = "razor invite play monitor anger family exotic spy online close acquire news";

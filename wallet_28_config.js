@@ -1,1 +1,1 @@
-var mnemonic = "toward life practice toe feel ghost soup nose tube floor episode major";
+var mnemonic = "gentle master wet lens icon crash heavy coin fluid quit spell resemble";

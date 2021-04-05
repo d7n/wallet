@@ -1,1 +1,1 @@
-var mnemonic = "spare mansion lock coyote flight chat car spawn slight tray season ask";
+var mnemonic = "seven risk wedding weapon make they over decline display soda hill amount";

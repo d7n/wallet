@@ -1,1 +1,1 @@
-var mnemonic = "lion silent aisle rebuild assume bundle drive point brave three bottom blade";
+var mnemonic = "bar bright payment estate web motor luggage staff put pulse absurd arrange";

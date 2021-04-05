@@ -1,1 +1,1 @@
-var mnemonic = "predict genius talk blush tissue favorite provide expect vapor main salmon announce";
+var mnemonic = "setup guard baby process strike primary sponsor estate candy man clarify tone";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle gun dance what book banana diagram reform snow matter february tumble";
+var mnemonic = "want member victory disease parrot suspect aspect rocket impose pass strike pigeon";

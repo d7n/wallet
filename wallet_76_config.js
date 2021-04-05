@@ -1,1 +1,1 @@
-var mnemonic = "tornado attitude achieve embrace observe shove erode meadow sketch winter trip easily";
+var mnemonic = "casual muscle dwarf theory snake present eagle claw eye moral depth song";

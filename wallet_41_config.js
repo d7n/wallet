@@ -1,1 +1,1 @@
-var mnemonic = "annual more become crazy pledge answer slab wish toy animal example exile";
+var mnemonic = "slam giant already cream enable couch grape slender mesh summer between agent";

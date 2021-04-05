@@ -1,1 +1,1 @@
-var mnemonic = "interest educate best lounge south thing hint solution sphere skate educate correct";
+var mnemonic = "ginger mesh hair boat negative owner cup cement soup bargain axis kitten";

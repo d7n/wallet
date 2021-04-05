@@ -1,1 +1,1 @@
-var mnemonic = "exchange life head vibrant join female noise era insane hour tray door";
+var mnemonic = "theme ride cup fan pave wine danger core weekend defy tide shift";

@@ -1,1 +1,1 @@
-var mnemonic = "federal anger home palace tuition punch lock popular lamp above monkey treat";
+var mnemonic = "session radio wire property vivid deny shed method blush address train pass";

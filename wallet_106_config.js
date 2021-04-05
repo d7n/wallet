@@ -1,1 +1,1 @@
-var mnemonic = "panel boil swing radar mixed home dwarf force olive symbol cost imitate";
+var mnemonic = "risk figure repeat coffee torch taste pottery solution trash service enact emotion";

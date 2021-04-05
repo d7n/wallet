@@ -1,1 +1,1 @@
-var mnemonic = "never blood permit fringe off horn tennis wood aisle ozone six demand";
+var mnemonic = "release avoid lift wagon vacuum hybrid two rough sword hip jump squirrel";

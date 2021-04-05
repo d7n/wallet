@@ -1,1 +1,1 @@
-var mnemonic = "noise floor cable below device plug foil debris credit mix crush bacon";
+var mnemonic = "sense you dirt hat sausage cradle hedgehog happy worry main script wolf";

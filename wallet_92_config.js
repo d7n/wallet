@@ -1,1 +1,1 @@
-var mnemonic = "joke tent news arrange vote sock neither faint find clarify fashion timber";
+var mnemonic = "clutch master merry top depend chimney sock clown mammal warm make special";

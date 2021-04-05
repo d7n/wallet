@@ -1,1 +1,1 @@
-var mnemonic = "decorate announce shoe food state dust glance enroll husband mansion autumn famous";
+var mnemonic = "dust dumb quarter fun lady plastic void spawn example giant banner decorate";

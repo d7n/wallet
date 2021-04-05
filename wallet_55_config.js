@@ -1,1 +1,1 @@
-var mnemonic = "ripple figure forget require ladder firm improve orchard thing mushroom metal pioneer";
+var mnemonic = "find index feed quantum shuffle humble debate hobby puzzle base where walnut";

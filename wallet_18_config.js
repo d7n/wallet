@@ -1,1 +1,1 @@
-var mnemonic = "cute afraid culture print sheriff tomorrow mercy machine announce bronze shield squirrel";
+var mnemonic = "skin trip please orange gentle wing method execute erase park era episode";

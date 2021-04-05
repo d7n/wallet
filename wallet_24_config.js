@@ -1,1 +1,1 @@
-var mnemonic = "cousin arch side divide dune nephew talent reward truth assault pact jeans";
+var mnemonic = "angry black rice another anxiety surprise chunk battle junk army thunder enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "hold verify sustain cheese apple craft supreme sorry marine impulse result large";
+var mnemonic = "camera describe lottery survey fly guitar february sheriff group more sport label";

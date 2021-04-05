@@ -1,1 +1,1 @@
-var mnemonic = "maximum private long keen mimic smile remove image road like focus sock";
+var mnemonic = "manage actor must weapon try captain copy carry note west comic laugh";

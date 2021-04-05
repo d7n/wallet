@@ -1,1 +1,1 @@
-var mnemonic = "miracle fit element basic lawn flock then calm post picture amount warm";
+var mnemonic = "borrow aisle bracket mistake poet giant shoe caution quality chest burger tunnel";

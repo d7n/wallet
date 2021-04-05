@@ -1,1 +1,1 @@
-var mnemonic = "census original enter hire october stone venue scissors air sausage reflect garment";
+var mnemonic = "nose dose fix car cement web shell magic where share omit grid";

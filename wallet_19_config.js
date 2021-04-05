@@ -1,1 +1,1 @@
-var mnemonic = "genre sting mean need link debris health explain pelican odor rail scrub";
+var mnemonic = "miracle scrub canoe suspect spawn proof predict business wine embrace false true";

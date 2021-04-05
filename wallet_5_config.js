@@ -1,1 +1,1 @@
-var mnemonic = "dilemma cabin fall fury ski fire business clever remind race quarter limit";
+var mnemonic = "report gospel mesh saddle opinion chef guitar opinion danger more swap surround";

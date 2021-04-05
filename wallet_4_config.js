@@ -1,1 +1,1 @@
-var mnemonic = "squeeze pass pledge clump snack impact suggest cargo distance vehicle sea capital";
+var mnemonic = "vehicle since same shallow visit domain inch dune wreck element naive daughter";

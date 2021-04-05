@@ -1,1 +1,1 @@
-var mnemonic = "climb bind fantasy crawl draw adapt vacuum battle sock cup kit arrange";
+var mnemonic = "identify alley muscle lock cancel noble pony kidney merry circle culture aerobic";

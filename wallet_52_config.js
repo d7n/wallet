@@ -1,1 +1,1 @@
-var mnemonic = "okay crowd another vendor virtual weather talk mention wonder stem clarify glove";
+var mnemonic = "paper muscle carbon recipe control display yellow wife speed kid wreck viable";

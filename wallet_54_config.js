@@ -1,1 +1,1 @@
-var mnemonic = "pudding science six prize green civil shaft access cliff surge sponsor fault";
+var mnemonic = "bring uniform weather obvious banner matrix benefit win life gate space season";

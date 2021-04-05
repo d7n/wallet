@@ -1,1 +1,1 @@
-var mnemonic = "seat cannon aware alarm boring impose settle rib relax shop antenna injury";
+var mnemonic = "private video response interest torch room obscure outer police climb vessel brand";

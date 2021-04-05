@@ -1,1 +1,1 @@
-var mnemonic = "canoe spell valve walnut myself index spatial youth toddler solar evoke soon";
+var mnemonic = "abandon mammal tree hen mom avocado energy smile impulse miss siren excess";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe trick odor share six spare assist rule grace humor habit save";
+var mnemonic = "master artist pupil device script crawl unique stay receive tunnel steak repeat";

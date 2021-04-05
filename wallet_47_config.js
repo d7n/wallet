@@ -1,1 +1,1 @@
-var mnemonic = "rapid ten clip better rule mention wave reward outside custom atom erupt";
+var mnemonic = "scrub outdoor man salmon abandon civil inhale nice suggest search advice hollow";

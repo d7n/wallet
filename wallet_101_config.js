@@ -1,1 +1,1 @@
-var mnemonic = "crazy divorce top marble upset mercy winner already gentle road faith frog";
+var mnemonic = "tray planet satisfy bundle amazing tomorrow share invest myth cabbage dizzy gift";

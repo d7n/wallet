@@ -1,1 +1,1 @@
-var mnemonic = "fiber resist shed photo art ramp switch refuse belt crouch sausage gloom";
+var mnemonic = "lounge exclude lunch shop face monkey buffalo suggest guitar comfort ostrich seed";

@@ -1,1 +1,1 @@
-var mnemonic = "assault shuffle tiger virtual nominee unable patient smart cat present cannon again";
+var mnemonic = "toe sail combine diamond tired outer century luxury awesome patch bonus stumble";

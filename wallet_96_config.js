@@ -1,1 +1,1 @@
-var mnemonic = "december ridge fox salmon raw offer rare spawn sell common mutual water";
+var mnemonic = "wonder airport rose repair adapt prize shoot cupboard region farm burden breeze";

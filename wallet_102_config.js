@@ -1,1 +1,1 @@
-var mnemonic = "giggle where wolf around rug beach unique ritual exclude cry cradle strategy";
+var mnemonic = "castle rival wet crouch tomato moon process bunker cereal ribbon arena hamster";

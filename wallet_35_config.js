@@ -1,1 +1,1 @@
-var mnemonic = "wash render degree hybrid arrive lend shop fall inspire dwarf stable blush";
+var mnemonic = "almost north review resist tree panel grape boat seminar unhappy mercy powder";

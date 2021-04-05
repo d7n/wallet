@@ -1,1 +1,1 @@
-var mnemonic = "bid shallow fine kid bronze harvest review voice thunder erupt donate puzzle";
+var mnemonic = "spirit endorse dry image pony dinosaur crystal desert point tomato item cool";

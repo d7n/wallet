@@ -1,1 +1,1 @@
-var mnemonic = "exact comfort ill diet surge pelican mix elder worth point ride pill";
+var mnemonic = "response liar december like planet patrol tube grit snake much call identify";
