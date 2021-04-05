@@ -1,1 +1,1 @@
-var mnemonic = "ketchup box promote math parrot air round valve observe supreme faint tuition";
+var mnemonic = "album cabbage cute wet lemon mobile bamboo index feel stage machine saddle";

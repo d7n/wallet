@@ -1,1 +1,1 @@
-var mnemonic = "later ketchup behind velvet unit palace enhance bachelor miss priority roof veteran";
+var mnemonic = "wash joke usual news mechanic extra twelve spare stem similar fade scatter";

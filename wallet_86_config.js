@@ -1,1 +1,1 @@
-var mnemonic = "subway radar raven blouse type energy below legend oil bench slide lazy";
+var mnemonic = "negative future fold setup another sauce poverty claw imitate reward urge surprise";

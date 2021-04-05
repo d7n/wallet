@@ -1,1 +1,1 @@
-var mnemonic = "flight virus brass decrease cruise save giraffe vital lunar spot sure letter";
+var mnemonic = "segment silent need update aunt under risk onion refuse skate idea sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "merge voyage yard liberty burden connect satisfy capital cave metal oxygen clog";
+var mnemonic = "guess limb card tuition gallery account blush pelican utility maid honey educate";

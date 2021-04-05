@@ -1,1 +1,1 @@
-var mnemonic = "demand path alley mom tell canvas use vendor kid across raccoon viable";
+var mnemonic = "glue school ivory example clump shift weasel hurdle bitter grass naive spend";

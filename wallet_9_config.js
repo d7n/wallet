@@ -1,1 +1,1 @@
-var mnemonic = "purchase hamster smart unique ice analyst draw daring please fuel viable dizzy";
+var mnemonic = "bless alarm violin stereo make best breeze host control erosion child odor";

@@ -1,1 +1,1 @@
-var mnemonic = "height sorry come safe leopard match purpose police note lake sunset brick";
+var mnemonic = "desk task seven camera cloud pull venue problem fat gravity world tattoo";

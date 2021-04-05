@@ -1,1 +1,1 @@
-var mnemonic = "summer stadium exercise strategy above duck flavor estate behind solid federal panda";
+var mnemonic = "master away segment tortoise vessel allow vapor major animal dragon fancy female";

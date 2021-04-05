@@ -1,1 +1,1 @@
-var mnemonic = "satoshi float aim fatigue genius vivid power dirt tip strong situate science";
+var mnemonic = "income claw sport ride slide bus matter stage slight jump jaguar grit";

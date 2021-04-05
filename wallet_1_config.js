@@ -1,1 +1,1 @@
-var mnemonic = "eight hurry abandon celery feed issue slogan glove solution model present life";
+var mnemonic = "galaxy settle cruel learn badge rib inhale box stem dilemma raccoon notable";

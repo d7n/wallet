@@ -1,1 +1,1 @@
-var mnemonic = "record hat danger hood taxi twist feature prosper finish barely until rival";
+var mnemonic = "soccer transfer crowd pencil humor fatigue input trade obey patient sudden balance";

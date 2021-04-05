@@ -1,1 +1,1 @@
-var mnemonic = "budget naive remind weapon rare tomato upset track judge provide alter dizzy";
+var mnemonic = "tumble deny gauge narrow increase guide can urge gallery require promote range";

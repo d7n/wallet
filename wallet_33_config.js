@@ -1,1 +1,1 @@
-var mnemonic = "tornado exclude mushroom owner sadness senior harvest pause narrow badge next fatigue";
+var mnemonic = "scatter clinic umbrella approve soap identify panel object tourist isolate glass improve";

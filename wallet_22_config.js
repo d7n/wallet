@@ -1,1 +1,1 @@
-var mnemonic = "rule duck coil ride can item useful scorpion tomato inquiry around render";
+var mnemonic = "mountain hire choice target wolf negative glue chase tiger cycle still honey";

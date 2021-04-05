@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur pony public orchard sphere blade gauge achieve use pioneer wisdom price";
+var mnemonic = "romance transfer phone special merge sibling express leave visual goose grief remain";

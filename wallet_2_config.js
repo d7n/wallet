@@ -1,1 +1,1 @@
-var mnemonic = "double road cube over around absurd lunar visit correct hollow tiger clown";
+var mnemonic = "crater wood coconut view ill grain proof urban fresh mixture tag blast";

@@ -1,1 +1,1 @@
-var mnemonic = "install replace monitor bring gadget antenna ancient wave gauge scare main memory";
+var mnemonic = "canal buddy arctic project great glove orient collect essay nothing mention dice";

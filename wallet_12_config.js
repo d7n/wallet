@@ -1,1 +1,1 @@
-var mnemonic = "border acoustic gossip neutral album model click start canal drill hip produce";
+var mnemonic = "cargo style begin survey quote umbrella minimum blossom nurse boost among glimpse";

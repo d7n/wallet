@@ -1,1 +1,1 @@
-var mnemonic = "outer situate holiday maid adapt fancy escape awful ritual equal picture need";
+var mnemonic = "country rookie final type layer plate category dust language elevator dose random";

@@ -1,1 +1,1 @@
-var mnemonic = "pet cat gorilla inmate village raise benefit beauty first praise total abstract";
+var mnemonic = "rival balance core wire hungry door bacon render brick release excess awkward";

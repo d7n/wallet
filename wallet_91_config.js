@@ -1,1 +1,1 @@
-var mnemonic = "scrap column visual slow panda current famous puzzle vintage expose ethics safe";
+var mnemonic = "purpose sand unusual blanket apart bracket coral stairs fitness hotel noodle gym";

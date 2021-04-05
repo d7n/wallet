@@ -1,1 +1,1 @@
-var mnemonic = "monitor chronic recycle romance outer cousin rug cover fashion faith scorpion powder";
+var mnemonic = "write banana sauce enjoy pass weather double era dash truth income husband";

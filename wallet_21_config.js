@@ -1,1 +1,1 @@
-var mnemonic = "jungle canoe fringe anchor uniform combine violin crystal brown input room citizen";
+var mnemonic = "half seminar marine any mind donkey tray hunt dash either frame hero";

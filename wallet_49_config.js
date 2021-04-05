@@ -1,1 +1,1 @@
-var mnemonic = "observe mouse act profit property argue struggle actor logic master acquire carry";
+var mnemonic = "noodle yellow wild faculty people leave steel room fish venture ecology erase";

@@ -1,1 +1,1 @@
-var mnemonic = "moral garden moon dance lend rhythm injury enjoy sphere write candy level";
+var mnemonic = "cliff blanket pause afraid manage tower gate motion grape indoor goddess detect";

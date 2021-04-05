@@ -1,1 +1,1 @@
-var mnemonic = "exhibit patch salt absent catalog dog father story fix riot story pilot";
+var mnemonic = "panda innocent dragon charge grocery erosion oven barely baby hunt file autumn";

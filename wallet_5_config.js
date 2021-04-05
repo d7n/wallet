@@ -1,1 +1,1 @@
-var mnemonic = "welcome ball suspect palace bargain survey relax debris cloth museum ready fine";
+var mnemonic = "wagon fire attitude hotel promote shrimp caution staff creek silly position crop";

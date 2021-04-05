@@ -1,1 +1,1 @@
-var mnemonic = "gesture burger magic prepare amateur car arm mystery place you verify sunset";
+var mnemonic = "census object color flush champion monkey plunge razor large idea unaware argue";

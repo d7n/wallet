@@ -1,1 +1,1 @@
-var mnemonic = "bounce kick detect barrel click donkey cereal vault squirrel orange wage another";
+var mnemonic = "sort diet casual various scheme antenna shield trap march festival large story";

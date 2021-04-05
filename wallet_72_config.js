@@ -1,1 +1,1 @@
-var mnemonic = "law awkward verb cargo gold pill hip crop eternal focus web camera";
+var mnemonic = "six argue vapor pulse eternal car become useless hospital emotion narrow noise";

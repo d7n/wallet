@@ -1,1 +1,1 @@
-var mnemonic = "senior luxury slogan orchard plastic museum during upper section stumble turtle crawl";
+var mnemonic = "wreck drip salmon profit coral moral sister dinner rib earn chair oblige";

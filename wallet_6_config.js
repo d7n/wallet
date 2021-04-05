@@ -1,1 +1,1 @@
-var mnemonic = "forum barrel fetch movie slam unfair student practice original mimic chest grain";
+var mnemonic = "album volcano speed lion slush reveal curious cube hotel over swear live";

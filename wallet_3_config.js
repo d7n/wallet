@@ -1,1 +1,1 @@
-var mnemonic = "turn box song merge genius fold exhibit veteran dumb garlic kind gym";
+var mnemonic = "option already lyrics churn inside much lava glory toss label thought cargo";

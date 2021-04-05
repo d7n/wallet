@@ -1,1 +1,1 @@
-var mnemonic = "grunt exist female top target outdoor erupt drum tail actress ginger unknown";
+var mnemonic = "distance couple february fetch famous fiction object engine gasp tip crisp away";

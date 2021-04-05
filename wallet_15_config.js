@@ -1,1 +1,1 @@
-var mnemonic = "calm section leaf visit gesture glad adjust steak game despair brief ski";
+var mnemonic = "unfair jewel train draft senior burden dismiss chimney torch sting lottery weasel";

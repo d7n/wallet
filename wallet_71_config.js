@@ -1,1 +1,1 @@
-var mnemonic = "reveal project school erosion lift public save argue danger delay rare only";
+var mnemonic = "fan visa kangaroo little simple crash stadium oven lemon gaze rack witness";

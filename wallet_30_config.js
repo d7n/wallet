@@ -1,1 +1,1 @@
-var mnemonic = "pupil hip spy alley sweet apple size ladder exclude home wisdom alien";
+var mnemonic = "marine source sponsor ten aerobic cycle rapid slide again spring search chronic";

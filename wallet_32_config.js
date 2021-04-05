@@ -1,1 +1,1 @@
-var mnemonic = "remind gossip illness vicious comic still crowd novel project vote gorilla setup";
+var mnemonic = "lawn heavy enjoy say donor clump stumble public rescue plate clarify put";

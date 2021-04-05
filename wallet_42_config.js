@@ -1,1 +1,1 @@
-var mnemonic = "lonely humble wolf idle captain execute time stomach soda mask remain unfold";
+var mnemonic = "captain any divert concert staff tobacco adult add beyond fiscal trumpet vault";

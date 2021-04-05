@@ -1,1 +1,1 @@
-var mnemonic = "album gloom addict talk future beach where young divert predict decade ridge";
+var mnemonic = "embrace bird obscure language glare question genius illness seed tail slam simple";

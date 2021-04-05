@@ -1,1 +1,1 @@
-var mnemonic = "tenant length pill remind garlic cram switch atom habit tattoo express usual";
+var mnemonic = "gadget reason across finger dirt benefit glance weekend fossil fat equal album";

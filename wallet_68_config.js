@@ -1,1 +1,1 @@
-var mnemonic = "wrestle pond critic improve cable snow fall apple tenant cement feed unfold";
+var mnemonic = "undo that shadow people sister federal sunset egg deer walk feel rural";

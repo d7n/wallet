@@ -1,1 +1,1 @@
-var mnemonic = "notable regret item smooth fat include curious need feel gesture install stool";
+var mnemonic = "sister hand patrol kite future wall script bridge expose chalk valid busy";

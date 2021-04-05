@@ -1,1 +1,1 @@
-var mnemonic = "write novel pencil asthma example model benefit great hungry clarify inside stove";
+var mnemonic = "oblige casual sauce begin leg lady paddle blind buddy announce voice conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "pond obtain wish social grid require tuition topple better because result wasp";
+var mnemonic = "ridge sister inmate fragile around canyon dance deer seek heart egg ski";

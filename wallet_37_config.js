@@ -1,1 +1,1 @@
-var mnemonic = "owner debate luggage scorpion cactus wisdom winter latin hip steel current east";
+var mnemonic = "ocean use wish tide where hire sugar night frame used fitness fashion";

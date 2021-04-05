@@ -1,1 +1,1 @@
-var mnemonic = "rival crowd okay urge impulse entry life step street furnace oblige remain";
+var mnemonic = "make spike game elbow recall atom shoot boring dynamic wish average donate";

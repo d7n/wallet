@@ -1,1 +1,1 @@
-var mnemonic = "adapt script layer kind cloth bunker easy enough tide neither goose pool";
+var mnemonic = "joke price pluck slogan child corn capable frog gaze ability hole jungle";

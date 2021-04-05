@@ -1,1 +1,1 @@
-var mnemonic = "auction lady vibrant borrow pattern hint good hire beauty cruel become ahead";
+var mnemonic = "setup resist language erode tone buddy baby connect text wink water absurd";

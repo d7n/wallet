@@ -1,1 +1,1 @@
-var mnemonic = "eight food rose cushion mango shed fiction because gold promote purity lyrics";
+var mnemonic = "detail expire hazard bench reward monkey wife village hockey omit tragic rich";

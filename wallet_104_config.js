@@ -1,1 +1,1 @@
-var mnemonic = "wrap fiction check undo track tribe depth resource enact sock else people";
+var mnemonic = "rural screen parade travel flee legal result wink quarter alone isolate spring";

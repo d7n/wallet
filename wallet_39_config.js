@@ -1,1 +1,1 @@
-var mnemonic = "write square woman battle zoo thing half evidence plastic chest valid wine";
+var mnemonic = "honey van source size clip smart best amazing century mutual ugly miracle";

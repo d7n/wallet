@@ -1,1 +1,1 @@
-var mnemonic = "course potato nuclear swim trade grunt miss live glance tired account grocery";
+var mnemonic = "sniff humble wear theme equal visa story soda expire school busy diary";

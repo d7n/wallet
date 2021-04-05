@@ -1,1 +1,1 @@
-var mnemonic = "list sentence program put visit hip fragile wreck build urge team all";
+var mnemonic = "canal sentence acid gap maximum combine clerk story expand bless resource drive";

@@ -1,1 +1,1 @@
-var mnemonic = "combine win benefit beauty insect trust special relax chalk general arrest female";
+var mnemonic = "ankle old stadium leaf scan basic express disease member weekend remove beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect warm private network siege behave raise curious grit party ranch cream";
+var mnemonic = "ahead mask gorilla citizen test wife adjust escape chef begin wise staff";

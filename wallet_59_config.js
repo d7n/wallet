@@ -1,1 +1,1 @@
-var mnemonic = "fame room rice cradle bike almost cry despair quiz quarter fence alley";
+var mnemonic = "mercy scorpion kite enforce long split balance poem giraffe supply ancient mushroom";

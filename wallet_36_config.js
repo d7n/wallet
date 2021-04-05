@@ -1,1 +1,1 @@
-var mnemonic = "useless entry match horse indicate rapid skate rent oak floor wide velvet";
+var mnemonic = "save club couch radio town clog target inherit myself piece fish melt";

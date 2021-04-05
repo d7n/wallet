@@ -1,1 +1,1 @@
-var mnemonic = "trouble follow trust price agree trouble dirt atom draft waste calm bird";
+var mnemonic = "joke cheap kingdom marble cook lava arch lottery public way wealth north";

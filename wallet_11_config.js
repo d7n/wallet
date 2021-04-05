@@ -1,1 +1,1 @@
-var mnemonic = "main three bless danger praise garden describe list salad matrix sudden wave";
+var mnemonic = "quote once drink over cattle hen armor smile agree inch mountain sound";

@@ -1,1 +1,1 @@
-var mnemonic = "glad veteran correct boring system curious real interest raw same common ill";
+var mnemonic = "broken asset neutral hamster library maid pattern lesson network grocery urban modify";

@@ -1,1 +1,1 @@
-var mnemonic = "media ride excite safe spawn immense box bread hand genuine install choose";
+var mnemonic = "uncle kind plastic print image spoil admit uncle bag situate attract century";

@@ -1,1 +1,1 @@
-var mnemonic = "control lunch shed little explain bundle cable knock silent salon ring resist";
+var mnemonic = "bone force stadium pill danger quit post soul ability moon bean hand";

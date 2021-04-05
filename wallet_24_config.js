@@ -1,1 +1,1 @@
-var mnemonic = "reopen sock coral basic erupt siren obey wasp inner swift keep mutual";
+var mnemonic = "host organ south mobile region hammer cave copper rebel cruise pet buddy";

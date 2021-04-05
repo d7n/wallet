@@ -1,1 +1,1 @@
-var mnemonic = "middle motor brown elegant return gate cream mercy deer auto symbol lens";
+var mnemonic = "smooth nation derive invite exchange image patient crisp twin vote season west";

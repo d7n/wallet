@@ -1,1 +1,1 @@
-var mnemonic = "better use gauge sister lawn blanket bulb table false apology lottery okay";
+var mnemonic = "inhale acid elite choice next library can number security dial brave celery";

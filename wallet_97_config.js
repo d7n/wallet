@@ -1,1 +1,1 @@
-var mnemonic = "gauge series subway ribbon foil mule delay emotion proof pill kiwi miss";
+var mnemonic = "joke mechanic fantasy elephant client dizzy bid climb rice shallow assist simple";

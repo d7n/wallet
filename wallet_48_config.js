@@ -1,1 +1,1 @@
-var mnemonic = "act post cable lounge wave wire churn zero soon mushroom trial trim";
+var mnemonic = "ripple fame other meadow royal cradle screen salt century impact pudding reform";

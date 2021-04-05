@@ -1,1 +1,1 @@
-var mnemonic = "box orbit order salon rare laugh ugly pistol begin hire hidden orange";
+var mnemonic = "denial rule resist dress virtual pair senior fee begin flavor glide shadow";

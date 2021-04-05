@@ -1,1 +1,1 @@
-var mnemonic = "volume victory elbow robust lumber day elegant bleak poverty diesel gap dice";
+var mnemonic = "juice wing water reward share label position nothing couple junior ankle nation";

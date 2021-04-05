@@ -1,1 +1,1 @@
-var mnemonic = "stick blame empty remain inquiry jeans pet rifle silent shy expand patient";
+var mnemonic = "delay document original crunch promote state arrange omit next sister life refuse";

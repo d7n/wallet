@@ -1,1 +1,1 @@
-var mnemonic = "sand write cheap rose peasant fee wrestle ensure cushion clock copper blush";
+var mnemonic = "follow educate plate exotic word east eagle blush panel dash rule board";

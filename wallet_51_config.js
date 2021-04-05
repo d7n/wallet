@@ -1,1 +1,1 @@
-var mnemonic = "coin notice famous find shine vanish second afford hospital october foil clock";
+var mnemonic = "student disagree gauge payment garden axis vocal buzz have divorce spy paddle";

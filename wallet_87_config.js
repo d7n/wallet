@@ -1,1 +1,1 @@
-var mnemonic = "maid spider shock unveil orchard flat behind race have young together police";
+var mnemonic = "permit marble winter run nut disorder plug glow burden angry clean invite";

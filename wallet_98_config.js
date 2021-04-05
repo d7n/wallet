@@ -1,1 +1,1 @@
-var mnemonic = "only jungle disease draw business victory humble spirit sadness quote super magic";
+var mnemonic = "educate whisper cool marine indoor equip actress cup elegant foam approve feature";

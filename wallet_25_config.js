@@ -1,1 +1,1 @@
-var mnemonic = "order you woman wrap feed mobile slight grunt gauge bar soap topple";
+var mnemonic = "pig fragile man bridge ostrich employ thank soft bag accident eyebrow shop";

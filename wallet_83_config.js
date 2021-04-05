@@ -1,1 +1,1 @@
-var mnemonic = "priority globe hurry age brown spatial pull repeat absorb baby nature tiger";
+var mnemonic = "head capital festival fringe famous radio bag barely cattle border fiscal cost";

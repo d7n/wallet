@@ -1,1 +1,1 @@
-var mnemonic = "similar dance ivory country pelican swear upon card cereal all puppy abuse";
+var mnemonic = "pluck genius envelope horn flip child range point moral laundry swim vicious";

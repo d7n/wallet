@@ -1,1 +1,1 @@
-var mnemonic = "dizzy master risk never tone venture size mimic afraid market view polar";
+var mnemonic = "echo month enemy blouse expose need buyer below neglect young canyon violin";

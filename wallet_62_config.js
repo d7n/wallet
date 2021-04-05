@@ -1,1 +1,1 @@
-var mnemonic = "kid rib thunder diary canyon tenant island visit sure primary force october";
+var mnemonic = "adjust onion trick curious child camera clean spot right month brass hire";

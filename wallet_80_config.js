@@ -1,1 +1,1 @@
-var mnemonic = "empty fun fluid target fortune cool desk copper flame artist fragile soup";
+var mnemonic = "language october month include smile pact turtle retire caution repeat life matrix";

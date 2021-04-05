@@ -1,1 +1,1 @@
-var mnemonic = "van flower still remind taxi clean owner deer diary kit scissors follow";
+var mnemonic = "finish route rabbit pizza sadness cotton insect such endorse pause warrior type";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb minimum slight tribe talent shell limit clever nasty fire day dragon";
+var mnemonic = "slight tube swift sudden biology garage evidence salmon test cruel era render";

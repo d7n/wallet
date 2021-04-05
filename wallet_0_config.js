@@ -1,1 +1,1 @@
-var mnemonic = "project embark shine tip hollow blind short enemy board leave tiny leaf";
+var mnemonic = "ostrich drum curve security prize essence monitor lesson coil fashion jacket usage";

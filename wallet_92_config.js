@@ -1,1 +1,1 @@
-var mnemonic = "silk track race assault earth cruel swarm bag harsh wasp slam shallow";
+var mnemonic = "cherry hat design garden grant ignore trust shield monkey physical vapor obtain";

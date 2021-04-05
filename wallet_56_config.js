@@ -1,1 +1,1 @@
-var mnemonic = "lady now trade panda inherit repair obscure add person autumn nothing spray";
+var mnemonic = "distance glue vicious breeze fruit leisure outer modify sunset grocery feel prison";

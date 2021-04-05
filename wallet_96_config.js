@@ -1,1 +1,1 @@
-var mnemonic = "dignity tumble jungle glide pilot under walk sail grit canyon property radio";
+var mnemonic = "autumn hip minute warfare april palace lecture artwork execute donor menu cash";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer tilt ankle novel fashion around eye fancy entry chat path census";
+var mnemonic = "diary quality coast across frost flower vital topic metal hello avocado typical";
