@@ -1,1 +1,1 @@
-var mnemonic = "silk jealous sign elephant hockey fever nuclear sing now mimic visit beef";
+var mnemonic = "shiver multiply any chest romance steel uncle student snake loan drop vault";

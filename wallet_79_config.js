@@ -1,1 +1,1 @@
-var mnemonic = "bus bone chaos timber century mix child impose stage museum attract achieve";
+var mnemonic = "kangaroo always rhythm pet engine ramp festival remove divorce peace fiber wagon";

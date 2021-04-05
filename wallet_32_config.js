@@ -1,1 +1,1 @@
-var mnemonic = "exile rebuild jealous novel lawn upgrade two detail flat test sun oxygen";
+var mnemonic = "tenant van canvas stone boy there avoid vibrant swarm develop prize imitate";

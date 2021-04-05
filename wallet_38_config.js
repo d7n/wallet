@@ -1,1 +1,1 @@
-var mnemonic = "then room tree soft calm volume reform write love chat maximum token";
+var mnemonic = "female unusual still blue excite shine express head tuna seed scheme repair";

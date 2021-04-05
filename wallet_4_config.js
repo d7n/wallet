@@ -1,1 +1,1 @@
-var mnemonic = "way hawk jealous thrive you record warfare door person supply wink correct";
+var mnemonic = "goose bulb matter world stairs deposit tired alter core duck valley rich";

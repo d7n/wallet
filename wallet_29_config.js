@@ -1,1 +1,1 @@
-var mnemonic = "junk you reunion spread excite never umbrella gloom repeat melody nose ill";
+var mnemonic = "valid vicious best possible youth festival empower another miss robot gate kitten";

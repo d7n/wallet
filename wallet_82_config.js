@@ -1,1 +1,1 @@
-var mnemonic = "wait catalog pepper mountain wait dad glide work tiny height doctor over";
+var mnemonic = "mean peace patrol parrot major improve express gift leader inform define chunk";

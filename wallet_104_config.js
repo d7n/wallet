@@ -1,1 +1,1 @@
-var mnemonic = "access spike hat code book portion carbon fancy churn wife face script";
+var mnemonic = "can spell alarm miss link sphere grace zone castle gold ugly text";

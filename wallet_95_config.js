@@ -1,1 +1,1 @@
-var mnemonic = "diagram frost tail suspect race until arm snow visit network grow predict";
+var mnemonic = "excuse print husband library panic virus valid pear fetch skate stone tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "sand confirm salad lend bridge mercy hello argue lemon shrug innocent hobby";
+var mnemonic = "coast grab copper couch network retire trigger turtle snake van humble carry";

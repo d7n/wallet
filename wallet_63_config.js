@@ -1,1 +1,1 @@
-var mnemonic = "polar gaze jaguar ordinary lobster whisper aisle student skull mandate palm sand";
+var mnemonic = "symbol note dose hurdle hood dynamic domain seminar patient relax fluid door";

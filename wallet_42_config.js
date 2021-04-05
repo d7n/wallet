@@ -1,1 +1,1 @@
-var mnemonic = "chef frozen mother eyebrow salute course entry dog replace sell mask garage";
+var mnemonic = "hope high punch blast crazy harvest tide raise curve brief dune hammer";

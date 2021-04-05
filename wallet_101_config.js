@@ -1,1 +1,1 @@
-var mnemonic = "end gloom keen magnet lens moral weather lottery sweet initial satoshi lizard";
+var mnemonic = "grant sunny eagle knock huge easily record earn prefer steak easily fitness";

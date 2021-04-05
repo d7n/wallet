@@ -1,1 +1,1 @@
-var mnemonic = "torch quote local derive powder lunar width head fog humble script payment";
+var mnemonic = "negative kingdom record fresh month zone hello canal charge tobacco august either";

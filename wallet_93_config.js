@@ -1,1 +1,1 @@
-var mnemonic = "cable radio discover open laugh floor ride divert derive eternal between zoo";
+var mnemonic = "nurse monkey crush scissors skin middle copy oval eight frozen series galaxy";

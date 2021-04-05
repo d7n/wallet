@@ -1,1 +1,1 @@
-var mnemonic = "wave another unique work obscure wealth clinic carpet price plug dignity table";
+var mnemonic = "amazing sugar then lucky estate panda jealous fire cube mask control alien";

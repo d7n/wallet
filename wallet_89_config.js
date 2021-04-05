@@ -1,1 +1,1 @@
-var mnemonic = "rib sunset balcony turkey job brown idea swear armor patrol course coconut";
+var mnemonic = "rapid element ignore champion salmon deer mind chest retreat upgrade car come";

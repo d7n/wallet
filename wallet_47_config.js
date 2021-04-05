@@ -1,1 +1,1 @@
-var mnemonic = "street tackle tunnel monster winner kind fury medal idle unknown device chimney";
+var mnemonic = "laptop record flower window manage panther toy toss auto rough paddle often";

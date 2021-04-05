@@ -1,1 +1,1 @@
-var mnemonic = "engage wave fringe cabin fantasy hundred add other absent speak final youth";
+var mnemonic = "armed artist tenant frown noodle innocent orient quantum carry tilt forget insect";

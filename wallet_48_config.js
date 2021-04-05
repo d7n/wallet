@@ -1,1 +1,1 @@
-var mnemonic = "gasp learn walnut cherry humble sibling fiction tower profit surround nothing champion";
+var mnemonic = "differ typical neck stock virtual helmet injury apology pear horse slab shy";

@@ -1,1 +1,1 @@
-var mnemonic = "defense never catalog faint list sting junior stereo solve hidden loop avocado";
+var mnemonic = "barely income name note fit explain poverty crime income butter edge lounge";

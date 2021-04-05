@@ -1,1 +1,1 @@
-var mnemonic = "coffee clean spell onion balcony local south autumn rude tackle tell occur";
+var mnemonic = "coconut razor tube flag confirm budget song rhythm neutral produce ethics mixed";

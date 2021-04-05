@@ -1,1 +1,1 @@
-var mnemonic = "bottom glove saddle radar asthma cry night split repair crisp barely dance";
+var mnemonic = "scale champion model merry mirror mammal remain sample lake muffin marble index";

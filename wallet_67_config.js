@@ -1,1 +1,1 @@
-var mnemonic = "perfect flock main add thrive melt anchor cool castle gesture extend wool";
+var mnemonic = "rebel spring round urge square emerge wheel right stomach produce hamster lecture";

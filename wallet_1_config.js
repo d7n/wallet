@@ -1,1 +1,1 @@
-var mnemonic = "among afraid virus improve lunar sadness parrot river clarify neck cancel power";
+var mnemonic = "robust glimpse hour bachelor dentist cluster next network spread analyst bicycle gown";

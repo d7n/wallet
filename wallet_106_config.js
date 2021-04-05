@@ -1,1 +1,1 @@
-var mnemonic = "tiger all clay attitude fruit sport glue festival mechanic assault cat walnut";
+var mnemonic = "ceiling game pledge popular account virtual arch century oyster distance teach oxygen";

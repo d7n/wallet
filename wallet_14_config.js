@@ -1,1 +1,1 @@
-var mnemonic = "decade trap zoo sugar salt pumpkin finish size aware rival then matter";
+var mnemonic = "fish mobile expose armor nasty open fog elephant mixture benefit magic logic";

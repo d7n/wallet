@@ -1,1 +1,1 @@
-var mnemonic = "exchange clip coach express fatal develop leader script slow arrest cheap explain";
+var mnemonic = "vast sorry bird unit flip antique print toilet poem cereal gesture violin";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk saddle rude decorate bottom defense special derive fitness annual soldier butter";
+var mnemonic = "amused million hurdle tongue must elevator pizza merge mask sense dilemma search";

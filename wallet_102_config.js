@@ -1,1 +1,1 @@
-var mnemonic = "rather month nothing almost raccoon odor among thumb divorce claim always appear";
+var mnemonic = "record fat pool sugar open pyramid nephew joke pair will silly rack";

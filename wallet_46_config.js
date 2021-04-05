@@ -1,1 +1,1 @@
-var mnemonic = "annual notable enjoy pipe anxiety siege parent element weapon satoshi indicate space";
+var mnemonic = "judge swing output enemy argue always boy bacon grass elevator effort lazy";

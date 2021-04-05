@@ -1,1 +1,1 @@
-var mnemonic = "vacuum kid visa twenty point stock grunt engine speed innocent apart south";
+var mnemonic = "horn action advice fury inherit comfort night decline useful surge royal remember";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome false tag solid device edge sound purchase shove knife river dream";
+var mnemonic = "grain tree penalty dutch snack join minute chronic cement million rate famous";

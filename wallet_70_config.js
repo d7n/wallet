@@ -1,1 +1,1 @@
-var mnemonic = "twelve dream casino drive spider parade cricket twenty clutch address sister almost";
+var mnemonic = "permit wise people grocery undo consider drop view stem gentle video claw";

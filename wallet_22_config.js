@@ -1,1 +1,1 @@
-var mnemonic = "horror fog average giggle sweet boil unable typical used day enrich rubber";
+var mnemonic = "coffee illegal lawsuit victory focus access auto tide birth catalog upper embrace";

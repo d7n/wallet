@@ -1,1 +1,1 @@
-var mnemonic = "suggest advice fashion toss engage annual pencil ecology apart disagree estate float";
+var mnemonic = "own spawn combine dress produce almost brush warfare brave dice hold party";

@@ -1,1 +1,1 @@
-var mnemonic = "black glue clerk subject betray best basket culture toilet father unhappy enforce";
+var mnemonic = "turn horse banana gloom arrow grant source cook victory spoon another venue";

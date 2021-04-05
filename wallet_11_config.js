@@ -1,1 +1,1 @@
-var mnemonic = "plate anger mammal dog slide twenty dad wish find wave slab sing";
+var mnemonic = "reduce country attract journey maple toward timber promote connect asset loyal slush";

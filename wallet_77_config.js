@@ -1,1 +1,1 @@
-var mnemonic = "weapon army jelly crash donate buyer world exit version obey latin wave";
+var mnemonic = "plunge tray grief heart tribe copper inform actor first legal hungry other";

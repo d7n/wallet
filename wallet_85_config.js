@@ -1,1 +1,1 @@
-var mnemonic = "similar amused express seminar worry senior draft source exclude fresh theme curve";
+var mnemonic = "hobby pride little wing exist bulb jeans column wealth reunion digital moral";

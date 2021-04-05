@@ -1,1 +1,1 @@
-var mnemonic = "negative blur exact pig rain demise increase require across motion wheat call";
+var mnemonic = "surprise attack ostrich attitude link elite glide habit company brother hen burst";

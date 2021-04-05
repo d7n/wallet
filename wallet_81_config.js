@@ -1,1 +1,1 @@
-var mnemonic = "sibling gravity december rough charge disagree bunker acoustic impose boy arch expand";
+var mnemonic = "science square absorb board aspect aunt amused floor tent rapid believe nest";

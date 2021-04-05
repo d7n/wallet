@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur woman ghost breeze monster few flee tattoo case meadow cable require";
+var mnemonic = "leader alien dress arm ranch motor depth execute menu anxiety effort canvas";

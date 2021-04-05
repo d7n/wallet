@@ -1,1 +1,1 @@
-var mnemonic = "high toward ill weasel try trophy walnut current follow joy excite quality";
+var mnemonic = "inject problem future flip desert praise orbit bean love magic miracle hood";

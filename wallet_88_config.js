@@ -1,1 +1,1 @@
-var mnemonic = "job donkey moral lounge choice coral lens proud blame catch all bacon";
+var mnemonic = "gorilla report lecture host net leopard cushion motor gown dash surge tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle letter chair gift midnight normal thumb purse picnic second fan skull";
+var mnemonic = "machine laugh alter try wife garbage soldier degree vibrant broccoli float sense";

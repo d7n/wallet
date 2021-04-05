@@ -1,1 +1,1 @@
-var mnemonic = "doll powder civil salute fruit prize stereo arrow often vault impact exhibit";
+var mnemonic = "brick accuse avocado hundred roof hover minimum term nominee random kit dilemma";

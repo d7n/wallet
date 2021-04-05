@@ -1,1 +1,1 @@
-var mnemonic = "sick drip elephant tired match measure example identify fade flash employ crisp";
+var mnemonic = "betray size slam adjust mosquito cannon mesh grid consider vote rib bring";

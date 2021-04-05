@@ -1,1 +1,1 @@
-var mnemonic = "apple local leave spice banana dragon tray click wall science rely swarm";
+var mnemonic = "zoo shield loud spawn antique celery discover chuckle armed come fly butter";

@@ -1,1 +1,1 @@
-var mnemonic = "mango scorpion mouse desert phone fork bargain income prevent rule check powder";
+var mnemonic = "memory step time assume dove fresh coconut basket pole tattoo truck exercise";

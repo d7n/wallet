@@ -1,1 +1,1 @@
-var mnemonic = "survey rhythm cluster prison else bamboo angle badge fault gun amateur crucial";
+var mnemonic = "kid lottery chronic ordinary account voyage genuine permit awful lucky fury increase";

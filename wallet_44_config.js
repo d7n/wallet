@@ -1,1 +1,1 @@
-var mnemonic = "lizard add ship ask radio giggle suit length rhythm crowd decade theory";
+var mnemonic = "leg lake sight ice diet month tent street slogan skull story smoke";

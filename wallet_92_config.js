@@ -1,1 +1,1 @@
-var mnemonic = "target stomach garbage east senior near aunt exit east album entire material";
+var mnemonic = "range lucky detail illness crunch easily buffalo stand rabbit mass bulb wrist";

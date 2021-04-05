@@ -1,1 +1,1 @@
-var mnemonic = "display angle volcano tiny else spray engage thing bridge stool provide furnace";
+var mnemonic = "work peasant hair explain ensure siren room afford host stick wait kitten";

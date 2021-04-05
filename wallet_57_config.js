@@ -1,1 +1,1 @@
-var mnemonic = "scan mix crawl find swim skirt evoke visit royal water whale genre";
+var mnemonic = "boost bargain large forest curve convince bunker fitness suggest hat inside giant";

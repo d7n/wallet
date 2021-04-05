@@ -1,1 +1,1 @@
-var mnemonic = "elder eyebrow clip switch matter north attend interest until simple evidence cake";
+var mnemonic = "snap benefit swarm gain merit crash clock mother aspect response resemble clarify";

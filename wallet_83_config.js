@@ -1,1 +1,1 @@
-var mnemonic = "legend slide hair course estate detail shuffle snow media spatial crumble busy";
+var mnemonic = "spirit used useful general seed combine lift sweet patch law city exist";

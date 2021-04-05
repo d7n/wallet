@@ -1,1 +1,1 @@
-var mnemonic = "hood scare slot kangaroo mushroom gaze keep snake input tuna huge sauce";
+var mnemonic = "stove leg among senior labor truly tag learn wise term blind cabbage";

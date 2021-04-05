@@ -1,1 +1,1 @@
-var mnemonic = "mercy muscle tackle dry pride brother seek false remind grit auction hard";
+var mnemonic = "birth together teach math convince safe run admit glimpse velvet pupil patrol";

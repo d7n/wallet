@@ -1,1 +1,1 @@
-var mnemonic = "law caught ridge scissors uncover later jewel mad crystal sheriff silver switch";
+var mnemonic = "unknown pupil little bundle soldier wrap urge nation trend need naive describe";

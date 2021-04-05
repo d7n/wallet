@@ -1,1 +1,1 @@
-var mnemonic = "board butter power raise reform sorry vacant pave beach people pact first";
+var mnemonic = "brick dolphin feel ridge wide circle tape aisle behind balance they unknown";

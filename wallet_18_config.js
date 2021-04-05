@@ -1,1 +1,1 @@
-var mnemonic = "flush flame since idle humble super enact twice call unfold reflect physical";
+var mnemonic = "balcony arrive just catalog vacant dinosaur turn drip prison aerobic train protect";

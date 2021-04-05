@@ -1,1 +1,1 @@
-var mnemonic = "fan excuse street spray metal hospital piano prepare rescue indoor science range";
+var mnemonic = "orchard daring repair hub tone tank vote ball finish diet bottom party";

@@ -1,1 +1,1 @@
-var mnemonic = "insane before mimic pear armed orbit nut crew mad away rail sentence";
+var mnemonic = "peanut step skate base vicious kind half chat reject cheese addict chaos";

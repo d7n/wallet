@@ -1,1 +1,1 @@
-var mnemonic = "link fluid runway force inspire minimum winner poem razor bird aim despair";
+var mnemonic = "cabin client hammer shoulder test question bind emerge olympic alley today print";

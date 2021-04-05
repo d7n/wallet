@@ -1,1 +1,1 @@
-var mnemonic = "exit much rib toe state action woman alert tenant setup mimic mechanic";
+var mnemonic = "student august gain diagram impulse benefit yellow movie east subway top senior";

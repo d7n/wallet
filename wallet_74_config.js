@@ -1,1 +1,1 @@
-var mnemonic = "segment awesome crumble infant draw cage sad lab index book equip shift";
+var mnemonic = "cross tragic drastic topple fabric pool knee tooth repair carpet quarter fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow dune slush tiger curious face hire chapter lens where someone tooth";
+var mnemonic = "remember horror raise tuna olympic address crazy print pause slow gadget ride";

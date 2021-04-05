@@ -1,1 +1,1 @@
-var mnemonic = "relax spend staff neglect axis jacket tumble cause circle cruise trip bench";
+var mnemonic = "village satisfy two boil barely delay happy elder latin wolf noble problem";

@@ -1,1 +1,1 @@
-var mnemonic = "actor gossip differ breeze iron rough object office family harbor boss boil";
+var mnemonic = "buzz echo pitch village ethics leaf risk depend basic noble silver duck";

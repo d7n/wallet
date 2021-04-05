@@ -1,1 +1,1 @@
-var mnemonic = "inhale citizen discover cook point damp screen tongue moment defense gown battle";
+var mnemonic = "stomach clown speed inhale decide strike diary squeeze stick game catalog defense";

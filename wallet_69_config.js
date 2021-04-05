@@ -1,1 +1,1 @@
-var mnemonic = "income cheese cable satoshi spoon travel fire fever glove lava cupboard seat";
+var mnemonic = "tooth vessel increase edge candy erosion follow agent purse base tourist sound";

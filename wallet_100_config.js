@@ -1,1 +1,1 @@
-var mnemonic = "convince wife word van assist always cereal enhance often guard blush sauce";
+var mnemonic = "paper fury range stone lend casino box chaos acoustic length ceiling permit";

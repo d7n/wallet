@@ -1,1 +1,1 @@
-var mnemonic = "picture volume session secret bone lens lunar ready royal fatal nation funny";
+var mnemonic = "wet high sudden bench canyon expand drama blast keep mask kite rug";

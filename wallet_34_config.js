@@ -1,1 +1,1 @@
-var mnemonic = "crush mule scan gain crucial dice awake bag clutch produce coast income";
+var mnemonic = "token guitar detail mosquito once transfer bright spirit direct raw bridge hub";

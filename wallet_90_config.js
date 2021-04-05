@@ -1,1 +1,1 @@
-var mnemonic = "squirrel junior degree divert radar rotate sight rival chalk unlock dolphin can";
+var mnemonic = "lizard ugly zone shock stool comfort pitch glimpse giraffe witness supreme drop";

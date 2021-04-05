@@ -1,1 +1,1 @@
-var mnemonic = "spread order heavy change paddle rare alone patch suit erupt truth sugar";
+var mnemonic = "dinner item palm taste turtle remain badge chimney awesome attend mother pen";

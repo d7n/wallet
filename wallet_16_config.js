@@ -1,1 +1,1 @@
-var mnemonic = "mandate orphan mandate extra wool insect void casino dignity hip front buyer";
+var mnemonic = "cushion found sure pole recycle ship inform column nothing soldier give defy";

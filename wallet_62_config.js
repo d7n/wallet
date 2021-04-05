@@ -1,1 +1,1 @@
-var mnemonic = "funny pigeon apology brave donkey maze price settle chaos found say paper";
+var mnemonic = "energy tower imitate pudding depart identify agree boss buffalo piano veteran utility";

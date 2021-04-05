@@ -1,1 +1,1 @@
-var mnemonic = "note major elevator small few cattle vibrant mountain noise circle find ethics";
+var mnemonic = "detail saddle symbol place mix visit oppose off order renew business trap";
