@@ -1,1 +1,1 @@
-var mnemonic = "stand deposit wisdom tube public doctor veteran neglect total tortoise purpose culture";
+var mnemonic = "torch behind bike purse wife spare comic tobacco grass nest zebra stable";

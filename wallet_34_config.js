@@ -1,1 +1,1 @@
-var mnemonic = "distance couple february fetch famous fiction object engine gasp tip crisp away";
+var mnemonic = "meat token survey bread position taste magnet mosquito corn frequent chimney glow";

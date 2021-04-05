@@ -1,1 +1,1 @@
-var mnemonic = "flip used width endless guilt tomorrow liberty okay aim gap alter change";
+var mnemonic = "member same tuition rice crane soda only sudden tenant pipe catch thrive";

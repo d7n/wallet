@@ -1,1 +1,1 @@
-var mnemonic = "save club couch radio town clog target inherit myself piece fish melt";
+var mnemonic = "black slice sponsor mimic ill hold finger bench purchase text orbit march";

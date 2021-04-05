@@ -1,1 +1,1 @@
-var mnemonic = "gadget reason across finger dirt benefit glance weekend fossil fat equal album";
+var mnemonic = "point install prize melody mixed neither grain eight wood sell kit swing";

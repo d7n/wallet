@@ -1,1 +1,1 @@
-var mnemonic = "address invite lottery wear cage rice riot discover all lucky music forest";
+var mnemonic = "mountain dilemma grunt woman survey sponsor spare reward wonder brief smart total";

@@ -1,1 +1,1 @@
-var mnemonic = "panda innocent dragon charge grocery erosion oven barely baby hunt file autumn";
+var mnemonic = "drift artwork chicken goddess shrug wear evolve barrel indoor jacket another true";

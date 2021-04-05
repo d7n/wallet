@@ -1,1 +1,1 @@
-var mnemonic = "canal sentence acid gap maximum combine clerk story expand bless resource drive";
+var mnemonic = "flag pause van review cross gadget word job kick obscure winner sauce";

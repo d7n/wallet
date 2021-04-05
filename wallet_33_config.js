@@ -1,1 +1,1 @@
-var mnemonic = "scatter clinic umbrella approve soap identify panel object tourist isolate glass improve";
+var mnemonic = "actual there audit lake hold type blind spare cushion person asset taste";

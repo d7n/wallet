@@ -1,1 +1,1 @@
-var mnemonic = "blossom retreat daring submit shrimp divide bullet print fresh length rule witness";
+var mnemonic = "aisle category weapon ship knee frame indicate rain tongue abuse oven punch";

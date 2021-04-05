@@ -1,1 +1,1 @@
-var mnemonic = "quote once drink over cattle hen armor smile agree inch mountain sound";
+var mnemonic = "physical dish relief enact devote danger napkin require glide congress limit because";

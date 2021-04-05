@@ -1,1 +1,1 @@
-var mnemonic = "gravity wrap about divorce poem off order expire kingdom clinic person youth";
+var mnemonic = "shiver frame basic blood prize scrub video autumn bacon mimic vintage immense";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair jewel train draft senior burden dismiss chimney torch sting lottery weasel";
+var mnemonic = "dirt doll ceiling siege sense problem begin age desk also perfect shoot";

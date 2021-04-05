@@ -1,1 +1,1 @@
-var mnemonic = "diary quality coast across frost flower vital topic metal hello avocado typical";
+var mnemonic = "sunny hunt vacuum hawk wrist onion coconut pear popular flavor inner dragon";

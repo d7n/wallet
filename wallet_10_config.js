@@ -1,1 +1,1 @@
-var mnemonic = "smooth nation derive invite exchange image patient crisp twin vote season west";
+var mnemonic = "film omit car collect woman debris fruit actual toilet quote sail wide";

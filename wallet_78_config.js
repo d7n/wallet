@@ -1,1 +1,1 @@
-var mnemonic = "strategy amount risk certain smile choice crash food satisfy select piano record";
+var mnemonic = "chapter donor walk alien access junk track rather fiscal boss genius caught";

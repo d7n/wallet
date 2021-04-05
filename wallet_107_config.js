@@ -1,1 +1,1 @@
-var mnemonic = "finish route rabbit pizza sadness cotton insect such endorse pause warrior type";
+var mnemonic = "school forest shop ugly modify join neutral pretty civil jungle ridge find";

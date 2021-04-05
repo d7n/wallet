@@ -1,1 +1,1 @@
-var mnemonic = "uncle kind plastic print image spoil admit uncle bag situate attract century";
+var mnemonic = "giggle gauge deposit call patient reopen hunt coral sorry turtle rich odor";

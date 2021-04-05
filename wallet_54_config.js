@@ -1,1 +1,1 @@
-var mnemonic = "glue school ivory example clump shift weasel hurdle bitter grass naive spend";
+var mnemonic = "isolate hybrid planet swamp seat civil lake scare lawsuit direct exist crash";

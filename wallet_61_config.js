@@ -1,1 +1,1 @@
-var mnemonic = "guess limb card tuition gallery account blush pelican utility maid honey educate";
+var mnemonic = "solve jacket cigar open trouble modify face prison street luggage slight panda";

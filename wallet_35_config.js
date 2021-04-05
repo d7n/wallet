@@ -1,1 +1,1 @@
-var mnemonic = "ridge sister inmate fragile around canyon dance deer seek heart egg ski";
+var mnemonic = "cliff scout hurdle powder ship course ostrich rain picture student kick forest";

@@ -1,1 +1,1 @@
-var mnemonic = "bless alarm violin stereo make best breeze host control erosion child odor";
+var mnemonic = "author keep bamboo lamp fringe potato tobacco figure scare flight length cool";

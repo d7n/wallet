@@ -1,1 +1,1 @@
-var mnemonic = "identify clean icon glow pizza police vote apple aunt practice bonus mad";
+var mnemonic = "lyrics come jungle urban attitude trial since leaf master garage outer original";

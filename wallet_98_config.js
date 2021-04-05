@@ -1,1 +1,1 @@
-var mnemonic = "educate whisper cool marine indoor equip actress cup elegant foam approve feature";
+var mnemonic = "effort parrot noble velvet choose glory quick green step hire brand outer";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust onion trick curious child camera clean spot right month brass hire";
+var mnemonic = "real laptop dream wash gauge odor top airport garbage pipe vessel mean";

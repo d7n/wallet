@@ -1,1 +1,1 @@
-var mnemonic = "sister hand patrol kite future wall script bridge expose chalk valid busy";
+var mnemonic = "globe fruit tide creek flip much minute spoil know science bomb record";

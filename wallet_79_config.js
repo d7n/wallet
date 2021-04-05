@@ -1,1 +1,1 @@
-var mnemonic = "write banana sauce enjoy pass weather double era dash truth income husband";
+var mnemonic = "slide hamster cycle employ hungry obtain gas vital leader erupt slow scissors";

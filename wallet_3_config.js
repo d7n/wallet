@@ -1,1 +1,1 @@
-var mnemonic = "option already lyrics churn inside much lava glory toss label thought cargo";
+var mnemonic = "walnut express wrap life rent parade skate visit grain purpose daring distance";

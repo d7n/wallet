@@ -1,1 +1,1 @@
-var mnemonic = "census object color flush champion monkey plunge razor large idea unaware argue";
+var mnemonic = "use unit three segment kiss embrace swift glove captain soldier huge spike";

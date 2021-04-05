@@ -1,1 +1,1 @@
-var mnemonic = "undo that shadow people sister federal sunset egg deer walk feel rural";
+var mnemonic = "rib rebel kitten ozone lake deer comfort latin burden kite hurdle excuse";

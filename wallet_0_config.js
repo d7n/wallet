@@ -1,1 +1,1 @@
-var mnemonic = "ostrich drum curve security prize essence monitor lesson coil fashion jacket usage";
+var mnemonic = "mass gasp chapter provide gadget jelly better report cattle alpha hard abstract";

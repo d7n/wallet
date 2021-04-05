@@ -1,1 +1,1 @@
-var mnemonic = "inhale acid elite choice next library can number security dial brave celery";
+var mnemonic = "maze seven direct manage tent ankle into dragon arena custom web melody";

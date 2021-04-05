@@ -1,1 +1,1 @@
-var mnemonic = "denial rule resist dress virtual pair senior fee begin flavor glide shadow";
+var mnemonic = "build alone wood digital trophy shallow aspect real wood paper load horn";

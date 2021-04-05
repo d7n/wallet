@@ -1,1 +1,1 @@
-var mnemonic = "almost clump jacket novel dress beach net snack enact frequent theory hat";
+var mnemonic = "armor donate era cook universe behind tissue enroll execute vacuum allow cousin";

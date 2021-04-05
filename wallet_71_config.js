@@ -1,1 +1,1 @@
-var mnemonic = "fan visa kangaroo little simple crash stadium oven lemon gaze rack witness";
+var mnemonic = "green uniform strategy inch coach south ceiling rally used ski jelly alcohol";

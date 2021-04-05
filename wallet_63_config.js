@@ -1,1 +1,1 @@
-var mnemonic = "ribbon stay success tunnel during utility insect sibling someone people kitten around";
+var mnemonic = "lunch dinosaur loyal town found winter van session prepare panic enemy remember";

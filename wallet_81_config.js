@@ -1,1 +1,1 @@
-var mnemonic = "bone force stadium pill danger quit post soul ability moon bean hand";
+var mnemonic = "proof swift empower tribe feed civil music violin lizard fire easily liquid";

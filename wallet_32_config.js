@@ -1,1 +1,1 @@
-var mnemonic = "lawn heavy enjoy say donor clump stumble public rescue plate clarify put";
+var mnemonic = "confirm target circle gate utility accident mistake ready awesome zoo grain rail";

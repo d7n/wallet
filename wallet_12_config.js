@@ -1,1 +1,1 @@
-var mnemonic = "cargo style begin survey quote umbrella minimum blossom nurse boost among glimpse";
+var mnemonic = "pear liberty write half mom table oyster primary shop cup network fit";

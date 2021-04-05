@@ -1,1 +1,1 @@
-var mnemonic = "joke mechanic fantasy elephant client dizzy bid climb rice shallow assist simple";
+var mnemonic = "expect foot liquid shed have entire valid slam vibrant behave shove already";

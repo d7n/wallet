@@ -1,1 +1,1 @@
-var mnemonic = "ahead mask gorilla citizen test wife adjust escape chef begin wise staff";
+var mnemonic = "snap erase little find elbow cram imitate acid lottery marriage tumble loud";

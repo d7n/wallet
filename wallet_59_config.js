@@ -1,1 +1,1 @@
-var mnemonic = "mercy scorpion kite enforce long split balance poem giraffe supply ancient mushroom";
+var mnemonic = "steak similar wood print merit spot order any crash sand obey inch";

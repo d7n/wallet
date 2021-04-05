@@ -1,1 +1,1 @@
-var mnemonic = "embrace bird obscure language glare question genius illness seed tail slam simple";
+var mnemonic = "rapid culture success puzzle chicken system liquid inmate wine cup device rain";

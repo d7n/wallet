@@ -1,1 +1,1 @@
-var mnemonic = "envelope casino stamp sauce achieve impose bench fox tobacco device debate duty";
+var mnemonic = "marble father income shallow idle interest penalty load spike cushion very once";

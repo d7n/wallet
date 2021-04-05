@@ -1,1 +1,1 @@
-var mnemonic = "honey van source size clip smart best amazing century mutual ugly miracle";
+var mnemonic = "junior right smoke rib noble ridge nephew learn empty debate hungry ski";

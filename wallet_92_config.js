@@ -1,1 +1,1 @@
-var mnemonic = "cherry hat design garden grant ignore trust shield monkey physical vapor obtain";
+var mnemonic = "ozone album harvest noble tomorrow bubble warrior excess start nasty where air";

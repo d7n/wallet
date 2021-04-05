@@ -1,1 +1,1 @@
-var mnemonic = "canal buddy arctic project great glove orient collect essay nothing mention dice";
+var mnemonic = "false purpose tray blade physical rain tilt history exile quit blouse trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "captain any divert concert staff tobacco adult add beyond fiscal trumpet vault";
+var mnemonic = "clean swim retreat such neutral rigid empower cupboard shadow shoe mechanic curtain";

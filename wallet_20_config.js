@@ -1,1 +1,1 @@
-var mnemonic = "obvious bacon clean demand divide rigid mixture recycle garage wink field actor";
+var mnemonic = "very half brave nut man leader alarm muffin three chase pitch dove";

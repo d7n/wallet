@@ -1,1 +1,1 @@
-var mnemonic = "donkey coil feel pistol napkin flat connect woman door uncle giraffe vast";
+var mnemonic = "rail impose nerve segment bench alert critic scatter legend portion mansion tool";

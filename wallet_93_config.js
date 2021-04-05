@@ -1,1 +1,1 @@
-var mnemonic = "buzz alert sing poverty quality door medal render banner world own seat";
+var mnemonic = "photo deputy nice mom neck symbol credit beauty decrease trick stairs wheel";

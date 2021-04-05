@@ -1,1 +1,1 @@
-var mnemonic = "sort diet casual various scheme antenna shield trap march festival large story";
+var mnemonic = "ski problem bean silver exit exile grow caught prize above width emotion";

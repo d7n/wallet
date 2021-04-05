@@ -1,1 +1,1 @@
-var mnemonic = "wreck drip salmon profit coral moral sister dinner rib earn chair oblige";
+var mnemonic = "cotton iron diesel social organ come filter detail what issue leg spoon";

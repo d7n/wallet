@@ -1,1 +1,1 @@
-var mnemonic = "tumble deny gauge narrow increase guide can urge gallery require promote range";
+var mnemonic = "dream give nurse prize frost industry memory notable crew stage faint excite";

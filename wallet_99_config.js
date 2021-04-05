@@ -1,1 +1,1 @@
-var mnemonic = "joke price pluck slogan child corn capable frog gaze ability hole jungle";
+var mnemonic = "another avocado exchange zoo rifle picnic tent raccoon quit shallow hawk entire";

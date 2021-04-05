@@ -1,1 +1,1 @@
-var mnemonic = "host organ south mobile region hammer cave copper rebel cruise pet buddy";
+var mnemonic = "mystery pencil peace upon fortune execute atom rocket acoustic wedding frost salute";

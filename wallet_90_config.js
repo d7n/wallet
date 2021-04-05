@@ -1,1 +1,1 @@
-var mnemonic = "sniff humble wear theme equal visa story soda expire school busy diary";
+var mnemonic = "replace stadium repair tree time reopen number deposit thunder nose swap impulse";

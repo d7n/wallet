@@ -1,1 +1,1 @@
-var mnemonic = "physical galaxy planet pilot drink solid coyote conduct allow material west place";
+var mnemonic = "become pear remind indicate place panel order luxury behind silly chicken harvest";

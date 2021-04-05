@@ -1,1 +1,1 @@
-var mnemonic = "crater wood coconut view ill grain proof urban fresh mixture tag blast";
+var mnemonic = "parent humor burger abstract desert meadow model course burger index bone behind";

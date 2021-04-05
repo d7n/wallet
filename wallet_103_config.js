@@ -1,1 +1,1 @@
-var mnemonic = "desk task seven camera cloud pull venue problem fat gravity world tattoo";
+var mnemonic = "stuff invite behave page symptom ticket gaze damage month add win later";

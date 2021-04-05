@@ -1,1 +1,1 @@
-var mnemonic = "name cotton defy kite poet indicate develop sample comfort lecture expire moral";
+var mnemonic = "huge undo bounce country horror orchard mansion slim vibrant symptom tuna dance";

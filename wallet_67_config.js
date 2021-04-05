@@ -1,1 +1,1 @@
-var mnemonic = "tool post rabbit tilt device wash razor color resemble erode scene large";
+var mnemonic = "kind wreck ship include secret pilot strong bind stock blame mandate recall";

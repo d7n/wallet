@@ -1,1 +1,1 @@
-var mnemonic = "income claw sport ride slide bus matter stage slight jump jaguar grit";
+var mnemonic = "awake bean message cloud panda holiday grape shoe umbrella movie olympic airport";

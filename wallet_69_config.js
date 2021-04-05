@@ -1,1 +1,1 @@
-var mnemonic = "cliff blanket pause afraid manage tower gate motion grape indoor goddess detect";
+var mnemonic = "build forward nature artist awesome please later deputy tent loop current jeans";

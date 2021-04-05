@@ -1,1 +1,1 @@
-var mnemonic = "ocean use wish tide where hire sugar night frame used fitness fashion";
+var mnemonic = "hat leave draft caught process thing truly lens bargain scene alarm clarify";

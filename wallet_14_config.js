@@ -1,1 +1,1 @@
-var mnemonic = "slight tube swift sudden biology garage evidence salmon test cruel era render";
+var mnemonic = "save fossil beef memory account capital meadow velvet diesel direct green canvas";

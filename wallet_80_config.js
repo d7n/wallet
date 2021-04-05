@@ -1,1 +1,1 @@
-var mnemonic = "language october month include smile pact turtle retire caution repeat life matrix";
+var mnemonic = "gaze globe boss fitness silly peace again guide limit onion race snow";

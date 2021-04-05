@@ -1,1 +1,1 @@
-var mnemonic = "oblige casual sauce begin leg lady paddle blind buddy announce voice conduct";
+var mnemonic = "because arrange minute tattoo hundred hunt bargain piece differ border desert denial";

@@ -1,1 +1,1 @@
-var mnemonic = "half seminar marine any mind donkey tray hunt dash either frame hero";
+var mnemonic = "bus choose unlock system hole illegal safe cushion forum cruel senior naive";

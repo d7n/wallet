@@ -1,1 +1,1 @@
-var mnemonic = "detail expire hazard bench reward monkey wife village hockey omit tragic rich";
+var mnemonic = "dash seat tube tumble dove usage build else unfold brisk whisper vocal";

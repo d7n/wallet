@@ -1,1 +1,1 @@
-var mnemonic = "wash joke usual news mechanic extra twelve spare stem similar fade scatter";
+var mnemonic = "unfold escape entry strategy elephant love couple ten desert rely stand chair";

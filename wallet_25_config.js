@@ -1,1 +1,1 @@
-var mnemonic = "pig fragile man bridge ostrich employ thank soft bag accident eyebrow shop";
+var mnemonic = "choose inch depth bright energy clever dog tribe domain usual spin know";

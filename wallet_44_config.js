@@ -1,1 +1,1 @@
-var mnemonic = "setup resist language erode tone buddy baby connect text wink water absurd";
+var mnemonic = "gaze marine quality borrow remember clever effort six iron heavy detail shield";

@@ -1,1 +1,1 @@
-var mnemonic = "delay document original crunch promote state arrange omit next sister life refuse";
+var mnemonic = "sugar cause region profit entire swear praise pipe heavy palm acquire frozen";

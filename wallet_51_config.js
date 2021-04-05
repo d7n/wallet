@@ -1,1 +1,1 @@
-var mnemonic = "student disagree gauge payment garden axis vocal buzz have divorce spy paddle";
+var mnemonic = "wall busy pumpkin myth purpose toast normal shine strike skate subject gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer transfer crowd pencil humor fatigue input trade obey patient sudden balance";
+var mnemonic = "trial squeeze label seek public sleep badge income fault jeans empower sock";

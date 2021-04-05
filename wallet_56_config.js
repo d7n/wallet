@@ -1,1 +1,1 @@
-var mnemonic = "distance glue vicious breeze fruit leisure outer modify sunset grocery feel prison";
+var mnemonic = "pattern lab miss grocery people pottery month believe design innocent cable lumber";

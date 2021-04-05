@@ -1,1 +1,1 @@
-var mnemonic = "gas eyebrow corn foot struggle detail depth glare oyster almost clay special";
+var mnemonic = "pledge pause mercy fringe public ask poem load weekend stamp loyal clip";

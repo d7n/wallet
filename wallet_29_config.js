@@ -1,1 +1,1 @@
-var mnemonic = "romance transfer phone special merge sibling express leave visual goose grief remain";
+var mnemonic = "volcano flight rule loyal noble raccoon execute scale vital allow trash universe";

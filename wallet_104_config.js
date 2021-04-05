@@ -1,1 +1,1 @@
-var mnemonic = "rural screen parade travel flee legal result wink quarter alone isolate spring";
+var mnemonic = "wrist jelly symptom possible table kiss main pumpkin uphold caught audit height";

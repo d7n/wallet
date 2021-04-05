@@ -1,1 +1,1 @@
-var mnemonic = "galaxy settle cruel learn badge rib inhale box stem dilemma raccoon notable";
+var mnemonic = "disease forward pyramid off bleak horn fall head program provide frost tape";

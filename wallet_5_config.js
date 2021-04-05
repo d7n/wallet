@@ -1,1 +1,1 @@
-var mnemonic = "wagon fire attitude hotel promote shrimp caution staff creek silly position crop";
+var mnemonic = "fall birth print best sing robot broom weekend stem smart valley rally";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple fame other meadow royal cradle screen salt century impact pudding reform";
+var mnemonic = "alcohol grass stairs abandon possible vacuum burger clay confirm match bone lock";

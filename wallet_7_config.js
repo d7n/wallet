@@ -1,1 +1,1 @@
-var mnemonic = "broken asset neutral hamster library maid pattern lesson network grocery urban modify";
+var mnemonic = "hedgehog cradle left addict capable argue chronic huge satisfy diet dentist lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle old stadium leaf scan basic express disease member weekend remove beyond";
+var mnemonic = "hour cube put tourist oppose ahead myself track evolve make happy blood";

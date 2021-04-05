@@ -1,1 +1,1 @@
-var mnemonic = "purpose sand unusual blanket apart bracket coral stairs fitness hotel noodle gym";
+var mnemonic = "grit trumpet develop tube age weapon brother battle expire inflict roast appear";

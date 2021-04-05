@@ -1,1 +1,1 @@
-var mnemonic = "mountain hire choice target wolf negative glue chase tiger cycle still honey";
+var mnemonic = "fog pyramid option visual alien inherit system pattern worry bronze apology wrestle";

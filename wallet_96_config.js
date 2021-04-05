@@ -1,1 +1,1 @@
-var mnemonic = "autumn hip minute warfare april palace lecture artwork execute donor menu cash";
+var mnemonic = "yellow soldier stairs pilot lucky since more pony busy icon say brown";
