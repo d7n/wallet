@@ -1,1 +1,1 @@
-var mnemonic = "exchange uncover logic limb hospital dutch vessel vicious scene era mask season";
+var mnemonic = "steak blanket hammer source jelly sadness almost squirrel much material hospital relax";

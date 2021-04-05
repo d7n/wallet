@@ -1,1 +1,1 @@
-var mnemonic = "initial runway catalog beef doctor pudding race track sketch wagon satoshi fame";
+var mnemonic = "rib deny two poverty among journey host theme young february crisp exhibit";

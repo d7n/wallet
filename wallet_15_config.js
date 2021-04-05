@@ -1,1 +1,1 @@
-var mnemonic = "expect sibling oak sound team raise relax bridge obtain bunker usage nurse";
+var mnemonic = "sea master cool ability search drill proud appear fluid elder inherit present";

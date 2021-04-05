@@ -1,1 +1,1 @@
-var mnemonic = "lizard amazing alone produce electric sphere update pig just rapid alone negative";
+var mnemonic = "fog feel walk draft cake nephew discover december affair winner crystal inside";

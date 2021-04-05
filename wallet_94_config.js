@@ -1,1 +1,1 @@
-var mnemonic = "toy pistol home answer divorce fringe angry pond exile pet ramp drama";
+var mnemonic = "first shoe long army tooth entry faculty candy disagree humble lens comic";

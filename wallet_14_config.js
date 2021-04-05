@@ -1,1 +1,1 @@
-var mnemonic = "sport need spread little pulse fuel mango laptop high capable patient broccoli";
+var mnemonic = "mistake indicate divert cave convince rib wife region ceiling spend obey jelly";

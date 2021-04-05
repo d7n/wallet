@@ -1,1 +1,1 @@
-var mnemonic = "entry reject era more improve devote save forget tourist train follow entry";
+var mnemonic = "wine chair adapt avoid uncle stomach icon sponsor sea oxygen slow rib";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight mechanic flower eager capital excite business subway spray lawsuit moral prison";
+var mnemonic = "start neglect bronze clarify joke spoil tool nothing sail shop muffin wool";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond mule pencil april cactus october alcohol because zone lend anxiety rain";
+var mnemonic = "dish since intact rabbit cloud sugar cook acoustic audit bundle area glory";

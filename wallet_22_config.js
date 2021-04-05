@@ -1,1 +1,1 @@
-var mnemonic = "scorpion knife lab attend logic unit rose thrive main venture shoulder slush";
+var mnemonic = "renew add topic crystal alley festival loop tragic dawn frown only acid";

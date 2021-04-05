@@ -1,1 +1,1 @@
-var mnemonic = "upon bean mosquito cave guilt have soap kiwi degree velvet equip budget";
+var mnemonic = "grace seek guilt car february silk chapter abstract scan spoon close refuse";

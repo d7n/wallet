@@ -1,1 +1,1 @@
-var mnemonic = "scrap jaguar action stuff avoid indicate fragile hill garden urge erosion magnet";
+var mnemonic = "tone man march agent vocal flock item matrix produce mercy certain garlic";

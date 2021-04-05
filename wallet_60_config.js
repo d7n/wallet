@@ -1,1 +1,1 @@
-var mnemonic = "post polar consider label choose march wire female adult expand rail nephew";
+var mnemonic = "between air gadget uphold shaft media river select october visa decrease accuse";

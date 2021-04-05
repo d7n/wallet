@@ -1,1 +1,1 @@
-var mnemonic = "pulp century move possible immense author lecture blood acoustic employ robot half";
+var mnemonic = "kit when envelope desert false dirt phone whale carpet mouse truth orbit";

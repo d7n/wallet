@@ -1,1 +1,1 @@
-var mnemonic = "act wool deny among occur weather glad detect volume hole sketch employ";
+var mnemonic = "unfair venture giggle weather mask maximum news absurd damp fatigue essence gentle";

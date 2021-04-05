@@ -1,1 +1,1 @@
-var mnemonic = "twist negative oxygen abstract pride such glow exile rain click city slim";
+var mnemonic = "donate film private celery family miracle cluster mixture major patch gain usage";

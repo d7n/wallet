@@ -1,1 +1,1 @@
-var mnemonic = "box salad muscle fruit best sock custom popular light stomach powder asset";
+var mnemonic = "electric decide parent shift fun nose topic faint video cook mixed assist";

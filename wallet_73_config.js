@@ -1,1 +1,1 @@
-var mnemonic = "lonely make earth used record lion retreat connect crazy robot arctic gasp";
+var mnemonic = "blossom exit wisdom double puzzle heart kind before parade sword brave border";

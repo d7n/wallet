@@ -1,1 +1,1 @@
-var mnemonic = "eight subway zero auto episode penalty polar know fetch cage struggle author";
+var mnemonic = "convince visa unhappy endorse sock arrive valve together state tribe settle unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "key million country maze lesson enrich throw orchard promote display brand else";
+var mnemonic = "march false type manage flash glare crazy rule brave hole attack pen";

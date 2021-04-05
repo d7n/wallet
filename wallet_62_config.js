@@ -1,1 +1,1 @@
-var mnemonic = "proof accident stool fall bridge aerobic yellow lazy pledge innocent voice average";
+var mnemonic = "token spend awful prison loyal angle garlic limb session potato speak sister";

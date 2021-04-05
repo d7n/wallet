@@ -1,1 +1,1 @@
-var mnemonic = "stove lawsuit blind adapt cost click toward original kid brown dish chimney";
+var mnemonic = "tray nasty sun bronze turkey guilt uncover abandon click vault student glide";

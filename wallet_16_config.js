@@ -1,1 +1,1 @@
-var mnemonic = "zoo arrow copy spice vapor key thank craft cancel pudding rifle two";
+var mnemonic = "beef foil able weekend chest aerobic roast height permit jealous olympic math";

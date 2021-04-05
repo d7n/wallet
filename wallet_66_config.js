@@ -1,1 +1,1 @@
-var mnemonic = "crouch give scheme ability entire often canal tone aspect dilemma stock stumble";
+var mnemonic = "chief little know copper maze monkey junk fluid verb nation tuition bottom";

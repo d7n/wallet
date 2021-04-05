@@ -1,1 +1,1 @@
-var mnemonic = "twice cheese reform bean reduce avocado armed gloom rigid evil machine suit";
+var mnemonic = "lumber cotton memory age bamboo stove include feature holiday scorpion behind double";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly isolate stock swing various cabin stage dolphin brief fossil viable prosper";
+var mnemonic = "whale mom birth empower art cash confirm pledge brass series drip cool";

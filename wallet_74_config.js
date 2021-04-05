@@ -1,1 +1,1 @@
-var mnemonic = "blouse toddler yellow fantasy index bike inspire pledge scatter portion exact uniform";
+var mnemonic = "surge city aerobic daughter room verify risk horn museum balance book have";

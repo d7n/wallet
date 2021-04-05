@@ -1,1 +1,1 @@
-var mnemonic = "stem domain earn chaos test month jungle mule young manual despair win";
+var mnemonic = "ridge hospital rely defy celery science elite area blush tornado spy baby";

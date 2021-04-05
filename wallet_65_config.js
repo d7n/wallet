@@ -1,1 +1,1 @@
-var mnemonic = "chalk ball tackle coffee gap magnet matter science section bulk tourist glimpse";
+var mnemonic = "song agent type diary jazz enact weapon harsh glare helmet solar wink";

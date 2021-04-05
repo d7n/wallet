@@ -1,1 +1,1 @@
-var mnemonic = "spider lobster valve globe estate soccer opinion gloom edge hen genuine glove";
+var mnemonic = "eyebrow feed public future ocean opinion behind service erode grant rare trick";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter try near burden addict output author chunk stem sudden squeeze force";
+var mnemonic = "anchor twelve suspect interest venue evil galaxy grant mind dish essay oval";

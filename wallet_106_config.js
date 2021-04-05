@@ -1,1 +1,1 @@
-var mnemonic = "hurt onion sniff normal inner say give beach venture describe donate another";
+var mnemonic = "because taste twice affair captain rail toward universe version vapor final pipe";

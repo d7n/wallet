@@ -1,1 +1,1 @@
-var mnemonic = "valve address train knock uncle whip lava fold hole gasp loyal catalog";
+var mnemonic = "arrange laundry obvious clutch host park carry weasel inhale what yellow negative";

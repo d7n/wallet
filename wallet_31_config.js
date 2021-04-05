@@ -1,1 +1,1 @@
-var mnemonic = "beef struggle warfare hotel found taxi riot destroy ensure unveil unhappy silk";
+var mnemonic = "social emotion arrange fire hub bone shoot goddess cup unknown network senior";

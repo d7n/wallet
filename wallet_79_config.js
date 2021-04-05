@@ -1,1 +1,1 @@
-var mnemonic = "keen pretty win loud trim upper cigar today reduce horror race raw";
+var mnemonic = "husband news discover father crouch violin much derive answer rice cart drum";

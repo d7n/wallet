@@ -1,1 +1,1 @@
-var mnemonic = "right page possible cart focus recall canoe dirt start wife margin myself";
+var mnemonic = "element mass arrive legend oxygen deny salute flip scout puzzle bulb shock";

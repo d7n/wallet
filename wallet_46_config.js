@@ -1,1 +1,1 @@
-var mnemonic = "trust pear chronic soap clay siren impose sort stool asset student this";
+var mnemonic = "wife prefer bottom ritual ritual wool whale split afford film eye outer";

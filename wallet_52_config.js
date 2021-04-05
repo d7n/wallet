@@ -1,1 +1,1 @@
-var mnemonic = "photo tree curve mixture clog either inspire unaware follow injury result execute";
+var mnemonic = "south brand blossom anchor share truly found clerk unknown suit town faint";

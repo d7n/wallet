@@ -1,1 +1,1 @@
-var mnemonic = "main foam awake shaft charge blush alien bargain manage tuition alert shaft";
+var mnemonic = "they mind gossip update prevent blue elite length hybrid moral feed kite";

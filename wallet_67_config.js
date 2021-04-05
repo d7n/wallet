@@ -1,1 +1,1 @@
-var mnemonic = "rapid image grief usual health skull dwarf hazard ribbon rival attract talk";
+var mnemonic = "glow little swing cruel blind cupboard frequent dismiss sport power tilt imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "correct good ill buffalo resource valid kitchen asset borrow pyramid thrive person";
+var mnemonic = "print bitter news snack target glove slim anxiety voyage december calm way";

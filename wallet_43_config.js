@@ -1,1 +1,1 @@
-var mnemonic = "manual runway squeeze decline sweet battle doll direct evoke nature payment aim";
+var mnemonic = "duty stem royal slow excuse walk mail decade patient liar question vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "that loan major fitness absorb shell device minor crouch august winter female";
+var mnemonic = "decade crop shadow globe enjoy coach violin coast fade state hockey push";

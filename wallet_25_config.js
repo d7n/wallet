@@ -1,1 +1,1 @@
-var mnemonic = "better pepper advice gym federal style equal office hamster govern example butter";
+var mnemonic = "reason choose surge brisk dirt dice dice crush world torch bike stick";

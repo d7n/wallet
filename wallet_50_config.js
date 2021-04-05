@@ -1,1 +1,1 @@
-var mnemonic = "emotion indicate vendor physical caught stool essence unveil warrior way muscle frown";
+var mnemonic = "hawk clerk width present cousin paper edit anger myth narrow artwork kangaroo";

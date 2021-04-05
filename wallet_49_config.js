@@ -1,1 +1,1 @@
-var mnemonic = "drive argue velvet cricket cost hospital swim mixed wine sick involve access";
+var mnemonic = "mutual violin nose citizen rug enter admit scare kit outer educate limb";

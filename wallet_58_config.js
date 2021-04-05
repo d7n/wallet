@@ -1,1 +1,1 @@
-var mnemonic = "virtual giggle meadow mom minute equal theme agent play duck evolve cheap";
+var mnemonic = "loop tonight black shell author journey rather cannon program north holiday differ";

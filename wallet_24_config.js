@@ -1,1 +1,1 @@
-var mnemonic = "project snow turkey amount slam loud good wolf shrimp tail snap miss";
+var mnemonic = "color output use clever slush permit position access figure diet minimum salad";

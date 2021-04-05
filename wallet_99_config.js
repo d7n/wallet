@@ -1,1 +1,1 @@
-var mnemonic = "junk dress health famous holiday detect office boy ribbon vapor chimney age";
+var mnemonic = "laugh work attend gorilla length glimpse egg pluck wise special believe language";

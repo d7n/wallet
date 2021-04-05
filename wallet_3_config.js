@@ -1,1 +1,1 @@
-var mnemonic = "prefer enable nature broom whisper despair exchange lucky health grace session cargo";
+var mnemonic = "proud example combine enhance timber sponsor canvas welcome travel lab inch roast";

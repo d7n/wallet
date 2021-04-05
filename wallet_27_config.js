@@ -1,1 +1,1 @@
-var mnemonic = "ketchup someone river session wire square april explain expose trap fossil ladder";
+var mnemonic = "vague connect green biology tower category daring stay coral truth damage seminar";

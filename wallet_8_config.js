@@ -1,1 +1,1 @@
-var mnemonic = "rapid size opinion giggle spread bleak silver blur sister physical knife length";
+var mnemonic = "alert economy universe rich about casino kingdom any canoe loop surface abandon";

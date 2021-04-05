@@ -1,1 +1,1 @@
-var mnemonic = "page project know good tiny tackle silk elephant soft struggle click globe";
+var mnemonic = "ginger venture silk brass vote suffer sort tool frost great kind awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "body impulse try bonus expose situate plunge design fatigue rifle bamboo alarm";
+var mnemonic = "same enough material patch elder build meadow patch disorder tongue piece merry";

@@ -1,1 +1,1 @@
-var mnemonic = "august rookie install cereal pupil scatter people wagon assault merit luggage quarter";
+var mnemonic = "trade boring include brother proof charge vessel vintage weasel depend stomach trust";

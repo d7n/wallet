@@ -1,1 +1,1 @@
-var mnemonic = "pear guilt hill chalk rotate friend observe april room entire property tone";
+var mnemonic = "staff spot road table extra middle donkey link noodle hobby knock setup";

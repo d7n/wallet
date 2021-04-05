@@ -1,1 +1,1 @@
-var mnemonic = "people next phrase tip author hundred flower nature lecture soup virtual vault";
+var mnemonic = "whisper true debate vote toilet deer miss decrease problem purse combine myth";

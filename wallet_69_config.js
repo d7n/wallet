@@ -1,1 +1,1 @@
-var mnemonic = "ladder spatial mouse annual large accuse absent antenna praise vault still trouble";
+var mnemonic = "solid such purchase invest ankle nose perfect long despair staff gas laugh";

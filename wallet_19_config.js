@@ -1,1 +1,1 @@
-var mnemonic = "gloom holiday coast trap skate frost mosquito army exotic flight cinnamon sibling";
+var mnemonic = "bus truth cabin hood coil birth company few salon field fiction kit";

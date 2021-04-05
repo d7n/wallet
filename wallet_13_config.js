@@ -1,1 +1,1 @@
-var mnemonic = "emerge toss orbit welcome arrest network order fence trigger silk always answer";
+var mnemonic = "mistake degree hub deny armor foam focus churn flavor tent aisle heavy";

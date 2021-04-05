@@ -1,1 +1,1 @@
-var mnemonic = "hundred curious stuff collect draft cube renew pave tourist access fox pyramid";
+var mnemonic = "resemble flock grace shaft else scissors cushion camera pulp frog chronic path";

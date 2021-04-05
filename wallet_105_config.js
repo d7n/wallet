@@ -1,1 +1,1 @@
-var mnemonic = "seek base frost rubber gap ankle wall subject input have else taxi";
+var mnemonic = "armed rotate shadow tool usage lemon oak journey point corn short plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "book trophy make rug throw sponsor stamp assist quiz express river forest";
+var mnemonic = "spot seed pilot blanket donate cotton major vapor youth false dance hen";

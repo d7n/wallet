@@ -1,1 +1,1 @@
-var mnemonic = "apart vapor robust table enough ability search arena flame radio palace transfer";
+var mnemonic = "indoor acoustic among pupil license someone indoor erosion theme rude style opinion";

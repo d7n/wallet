@@ -1,1 +1,1 @@
-var mnemonic = "jazz mosquito negative palace very noble wild you inner shoulder enjoy awesome";
+var mnemonic = "city deny because kind boss audit void offer toast hammer always bracket";

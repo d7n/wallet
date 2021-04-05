@@ -1,1 +1,1 @@
-var mnemonic = "track sketch good until churn gravity network normal erosion draw door unit";
+var mnemonic = "cupboard trumpet industry nut vanish bleak ceiling cash donkey surge frozen regular";

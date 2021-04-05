@@ -1,1 +1,1 @@
-var mnemonic = "strong betray feed hurdle half knife nice seed verify panther slab enable";
+var mnemonic = "cloth model region bulb coin cry clarify gallery vicious fan kiwi possible";

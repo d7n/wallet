@@ -1,1 +1,1 @@
-var mnemonic = "lecture shoulder hobby better breeze about rib cook actual celery reveal fragile";
+var mnemonic = "happy decorate thank liar sense social wrestle entire neutral harvest tray wish";

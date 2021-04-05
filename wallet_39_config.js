@@ -1,1 +1,1 @@
-var mnemonic = "woman volcano hard cruise jump panther session stem marine prosper depth shove";
+var mnemonic = "rebel pattern sense inner normal kick cruise harvest tail enable frost assume";

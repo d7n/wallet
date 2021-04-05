@@ -1,1 +1,1 @@
-var mnemonic = "drop detect tag hand lamp harbor disorder sauce traffic sponsor female slot";
+var mnemonic = "like jump fitness thrive organ clerk crisp month north utility critic metal";

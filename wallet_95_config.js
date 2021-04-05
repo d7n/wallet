@@ -1,1 +1,1 @@
-var mnemonic = "sign diary glory rail present meadow case trial caution slush pretty quantum";
+var mnemonic = "crowd produce evolve secret that junk gym cement mechanic process manage curve";

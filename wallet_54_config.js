@@ -1,1 +1,1 @@
-var mnemonic = "letter marriage hover raise gas sorry episode identify patch wife space tool";
+var mnemonic = "vessel sell attend baby prosper kangaroo timber away save question truly tobacco";

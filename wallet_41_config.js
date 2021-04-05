@@ -1,1 +1,1 @@
-var mnemonic = "champion twelve rib light rigid wrestle cost guess spider noble shine envelope";
+var mnemonic = "draft crash alley obvious speed film again negative fog swift ladder evoke";

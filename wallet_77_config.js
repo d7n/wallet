@@ -1,1 +1,1 @@
-var mnemonic = "hidden tip narrow very sort card disorder quote silly multiply step dial";
+var mnemonic = "lumber wink manage about inhale hammer similar fault wonder opera bulb horse";

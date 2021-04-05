@@ -1,1 +1,1 @@
-var mnemonic = "avoid glue truth tourist crumble velvet frost swallow exhibit wash trip vicious";
+var mnemonic = "wall fatal eternal sign route property spice unable sausage tower ritual victory";

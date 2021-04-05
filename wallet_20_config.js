@@ -1,1 +1,1 @@
-var mnemonic = "dial slab soda medal reform brisk sort toe lonely knife choose benefit";
+var mnemonic = "grape fever frequent wealth upgrade vibrant camp enhance denial job swallow tip";

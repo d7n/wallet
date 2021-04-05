@@ -1,1 +1,1 @@
-var mnemonic = "promote finish family vendor split aware about just abstract crater then reopen";
+var mnemonic = "devote car donkey safe ill novel tail salmon raw neglect ask deliver";

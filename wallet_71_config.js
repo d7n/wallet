@@ -1,1 +1,1 @@
-var mnemonic = "position small famous ribbon amount fortune seek business unique window clown kid";
+var mnemonic = "annual brisk capable banana piece beach oval arrive lava square wedding strategy";

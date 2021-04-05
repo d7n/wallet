@@ -1,1 +1,1 @@
-var mnemonic = "betray dragon chef husband kind crazy wood ethics illness jungle category lunch";
+var mnemonic = "session purity pear genuine filter flavor door jazz welcome abstract bulk apology";

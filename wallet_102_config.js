@@ -1,1 +1,1 @@
-var mnemonic = "balance wood food omit alone fatal bread vacuum divorce whale cricket pottery";
+var mnemonic = "scale inform trade chest garden leader spawn reunion glimpse december radar involve";

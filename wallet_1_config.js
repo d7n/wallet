@@ -1,1 +1,1 @@
-var mnemonic = "limit detail region profit wrestle burden clean into famous humble conduct dice";
+var mnemonic = "outer daring twin lumber timber diary oak cool allow love about arrange";

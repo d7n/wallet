@@ -1,1 +1,1 @@
-var mnemonic = "churn wet farm seven future mountain federal electric father planet relief army";
+var mnemonic = "faculty return age focus wealth cook rocket bulb coral silent escape dose";

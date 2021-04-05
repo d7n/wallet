@@ -1,1 +1,1 @@
-var mnemonic = "verify cradle keep swim donor ice have torch deliver elbow order matter";
+var mnemonic = "tobacco another toilet voice kitten crane father age someone jungle target pill";

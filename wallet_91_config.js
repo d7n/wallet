@@ -1,1 +1,1 @@
-var mnemonic = "spare tip eye useless lucky budget man name blue obey grain filter";
+var mnemonic = "adapt flag lucky october distance extra purpose immune property insane below mammal";

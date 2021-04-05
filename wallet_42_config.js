@@ -1,1 +1,1 @@
-var mnemonic = "fade fitness mountain muscle quote glad danger arctic unlock mule click unit";
+var mnemonic = "song cycle kingdom odor gravity ripple stuff fly toy skirt false plastic";

@@ -1,1 +1,1 @@
-var mnemonic = "relief evil angle fever tornado tomato mansion blur ritual smart visit fitness";
+var mnemonic = "spoon gravity suspect general deliver velvet crystal bleak soon galaxy marriage hand";

@@ -1,1 +1,1 @@
-var mnemonic = "auction picture tank general kitchen human kite fan come napkin cereal maid";
+var mnemonic = "mandate patrol mother text call smooth shadow else maple rocket inmate cabin";

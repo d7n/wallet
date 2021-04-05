@@ -1,1 +1,1 @@
-var mnemonic = "ramp happy chimney crash tribe body foam ritual evolve balcony carbon myth";
+var mnemonic = "split lens brown glass segment amount age legal kangaroo gold deer among";

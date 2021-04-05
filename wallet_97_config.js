@@ -1,1 +1,1 @@
-var mnemonic = "decade snake since author brother shrug garment impulse inflict supreme detect better";
+var mnemonic = "hood squirrel gossip dash nominee height fetch argue humor dust volcano pill";

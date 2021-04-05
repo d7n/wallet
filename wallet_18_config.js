@@ -1,1 +1,1 @@
-var mnemonic = "symptom oppose rescue grain organ slice brief fashion mobile betray salt catalog";
+var mnemonic = "stone rotate visit ability tube cry brick knife sea steak dose oblige";

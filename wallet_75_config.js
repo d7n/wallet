@@ -1,1 +1,1 @@
-var mnemonic = "relax child cement farm curtain gate certain patrol depth apart barely million";
+var mnemonic = "report album pencil behind sauce spatial nuclear jar trumpet exclude vault chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "fox joke gadget beach funny garlic method home silent enter bounce lawsuit";
+var mnemonic = "gravity cash brand there spot blood roof flower update man energy rib";

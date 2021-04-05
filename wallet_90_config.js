@@ -1,1 +1,1 @@
-var mnemonic = "mesh sport lesson innocent rural relief theme coach wolf funny vintage arena";
+var mnemonic = "panel fashion fame either vehicle divert alpha thumb tribe insect nominee remain";

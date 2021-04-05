@@ -1,1 +1,1 @@
-var mnemonic = "pioneer skirt flag scan picture kiwi defense feature guide moral margin auto";
+var mnemonic = "whip response february club render turtle deer spell game raccoon cattle share";

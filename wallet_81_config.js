@@ -1,1 +1,1 @@
-var mnemonic = "fox deer globe camp visual chaos huge shop cry antique secret mail";
+var mnemonic = "climb rural amazing front fetch village mandate ability mind penalty make door";

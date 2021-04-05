@@ -1,1 +1,1 @@
-var mnemonic = "amused dinosaur video final size dog collect scrap script stove gown lens";
+var mnemonic = "abstract target embrace woman tonight else steel tone charge recall monster rice";

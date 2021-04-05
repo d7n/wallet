@@ -1,1 +1,1 @@
-var mnemonic = "harbor organ toe between horror flock laugh spray enforce gesture harbor coil";
+var mnemonic = "ladder purse two opera eternal quantum fire unaware grab country omit certain";

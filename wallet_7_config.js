@@ -1,1 +1,1 @@
-var mnemonic = "ceiling twice trap myself deny fossil above face margin horn book heart";
+var mnemonic = "school wait sport torch jar soon rose jar stairs they other quit";
