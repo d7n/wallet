@@ -1,1 +1,1 @@
-var mnemonic = "album grocery vote flat dwarf cherry special pelican bonus mushroom diamond tool";
+var mnemonic = "royal achieve main scatter carpet retire warm lake bread trim report unfold";

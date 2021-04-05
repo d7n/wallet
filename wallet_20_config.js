@@ -1,1 +1,1 @@
-var mnemonic = "wrestle will donor apple dignity swarm bubble frequent solution utility month ugly";
+var mnemonic = "vehicle butter couch all sorry medal front scene fitness runway february cotton";

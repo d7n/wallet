@@ -1,1 +1,1 @@
-var mnemonic = "local fit dust pear junior border tip minor vendor twist nice speed";
+var mnemonic = "write soul catch view chimney patient unique devote result modify survey bundle";

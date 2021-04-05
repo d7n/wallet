@@ -1,1 +1,1 @@
-var mnemonic = "paddle search leader size now glove extra biology suspect profit receive million";
+var mnemonic = "firm flame wide solve august prize gallery pupil lend pilot cave dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "fire shadow solve voice topic balcony negative gas century cream network crucial";
+var mnemonic = "crowd notice crop always vault time trip bottom rain relax limb minimum";

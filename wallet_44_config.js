@@ -1,1 +1,1 @@
-var mnemonic = "maple patient topic media split purity mother velvet regular grass coyote tattoo";
+var mnemonic = "special city awkward shed liberty motor duck select fun utility vast bundle";

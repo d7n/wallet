@@ -1,1 +1,1 @@
-var mnemonic = "polar horse ability churn load erupt canvas apple icon adult home fitness";
+var mnemonic = "cute animal matter stove hurry fiscal energy pulp focus base truck skill";

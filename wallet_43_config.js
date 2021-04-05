@@ -1,1 +1,1 @@
-var mnemonic = "viable remind divide genre permit then harsh popular toilet skill bar arch";
+var mnemonic = "client choose celery slow alert exercise prosper genre powder trophy shove stove";

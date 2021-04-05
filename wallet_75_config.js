@@ -1,1 +1,1 @@
-var mnemonic = "stamp inject fix farm cushion subway review stone conduct census resemble woman";
+var mnemonic = "stereo curve merit leaf logic mass fine jump only wise birth tilt";

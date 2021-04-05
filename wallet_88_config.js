@@ -1,1 +1,1 @@
-var mnemonic = "market pizza unique wheat scrub cabbage same crawl faint pepper office dumb";
+var mnemonic = "napkin road used clerk crumble kiwi floor dilemma ten mandate hedgehog cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "choice drastic announce keen grab convince sure page easy limit wrong hawk";
+var mnemonic = "fancy subject helmet chuckle pear smile actual allow ring identify hole local";

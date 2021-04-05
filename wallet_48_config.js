@@ -1,1 +1,1 @@
-var mnemonic = "juice measure long dizzy dune camera slab subway sudden elegant crush deer";
+var mnemonic = "olive brown much crawl donkey corn hero tide lady option side december";

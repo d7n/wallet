@@ -1,1 +1,1 @@
-var mnemonic = "retire sausage spoil scout trash total dumb rubber choice tip gift ginger";
+var mnemonic = "energy half lumber pitch enroll yellow vivid rice wall spell raise useless";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican razor width wish lift attend guitar wrist pool tower foam spy";
+var mnemonic = "chimney involve panda immense jazz vacuum dune skill immense advance citizen tail";

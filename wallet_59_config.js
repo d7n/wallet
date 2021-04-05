@@ -1,1 +1,1 @@
-var mnemonic = "avoid raven erupt mixed scan decide usage good snake patient sign nation";
+var mnemonic = "naive depth ride near ride spike surround better caution club hundred ready";

@@ -1,1 +1,1 @@
-var mnemonic = "join hard success cross unusual myth path design budget broccoli produce blouse";
+var mnemonic = "patient weekend casual mean bar unfair very ozone purpose dentist universe intact";

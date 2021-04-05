@@ -1,1 +1,1 @@
-var mnemonic = "expand trumpet tourist pottery borrow charge observe credit clever zoo drive scare";
+var mnemonic = "stand anxiety group forest then trash erode actress mad silver farm peasant";

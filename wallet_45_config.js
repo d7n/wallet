@@ -1,1 +1,1 @@
-var mnemonic = "humble put guess wreck nut notice size deliver onion core metal laugh";
+var mnemonic = "peasant recipe blind wood index box actress lumber size make push reject";

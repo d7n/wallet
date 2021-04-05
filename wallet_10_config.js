@@ -1,1 +1,1 @@
-var mnemonic = "income palace river bronze vacuum myself cross outdoor valid elder brief jump";
+var mnemonic = "task frequent warfare strike dice spend cattle scale super differ vintage order";

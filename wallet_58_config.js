@@ -1,1 +1,1 @@
-var mnemonic = "argue enable matrix surface owner lounge release habit undo human skull update";
+var mnemonic = "physical try rack mosquito issue gather slush grape reward sure cliff tower";

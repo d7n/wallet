@@ -1,1 +1,1 @@
-var mnemonic = "lesson inherit symptom valley voice absent erode slam enforce ladder voyage machine";
+var mnemonic = "champion want they embody iron evoke citizen neither shoulder screen armor web";

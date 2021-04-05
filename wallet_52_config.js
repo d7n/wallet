@@ -1,1 +1,1 @@
-var mnemonic = "burst blur boil february report benefit update join history print veteran anger";
+var mnemonic = "buffalo turkey auction hurt sell salt portion brief deal planet tennis call";

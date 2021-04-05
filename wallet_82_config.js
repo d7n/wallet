@@ -1,1 +1,1 @@
-var mnemonic = "enforce deer penalty catalog frog world online bind grid maximum begin glass";
+var mnemonic = "snap letter grow rescue disease scorpion harsh toe punch goose glimpse vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "now arrow brick stay tiger axis depart rival huge employ doctor fury";
+var mnemonic = "public enlist chase tattoo enact crunch lyrics tissue gossip reunion humble grid";

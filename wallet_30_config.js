@@ -1,1 +1,1 @@
-var mnemonic = "super dice cake suggest govern cool rocket nature float chef imitate aware";
+var mnemonic = "offer unlock fury health can permit pioneer ugly luggage ugly phone raven";

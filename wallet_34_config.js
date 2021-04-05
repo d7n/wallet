@@ -1,1 +1,1 @@
-var mnemonic = "act grain tragic rude empower super angle fun tomato bubble enroll exchange";
+var mnemonic = "dress vague accident pair combine salt police endless special what smart wood";

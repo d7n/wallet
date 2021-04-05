@@ -1,1 +1,1 @@
-var mnemonic = "coral dust media about foster zebra slam modify expose dance museum adapt";
+var mnemonic = "decide copy nature quit guide approve gadget kingdom tragic system window account";

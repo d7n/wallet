@@ -1,1 +1,1 @@
-var mnemonic = "path palm exist envelope staff ignore conduct summer digital stomach rival high";
+var mnemonic = "business bubble umbrella dad fade because gain fog chase inch vendor gap";

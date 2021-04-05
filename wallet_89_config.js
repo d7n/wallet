@@ -1,1 +1,1 @@
-var mnemonic = "sun above fiber census view ranch ahead someone media crush valid mouse";
+var mnemonic = "damage decide good question myself grass shed diamond pride garment indicate midnight";

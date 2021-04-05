@@ -1,1 +1,1 @@
-var mnemonic = "accident ordinary tumble bone summer clarify industry smart elevator bone life peace";
+var mnemonic = "system fabric pole supply pottery kingdom fresh glance burger vicious refuse wedding";

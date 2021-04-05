@@ -1,1 +1,1 @@
-var mnemonic = "gather wrist behave hub portion turkey truly offer noise net cushion task";
+var mnemonic = "interest spread advice cute uniform plug property wild chaos cute forum dove";

@@ -1,1 +1,1 @@
-var mnemonic = "earn office crumble west field utility luggage grocery raven chaos lemon token";
+var mnemonic = "injury solve enemy piano wool mean message retreat envelope elevator festival cruel";

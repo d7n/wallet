@@ -1,1 +1,1 @@
-var mnemonic = "unaware feature wolf thing this bicycle cloth bag erode chef genre like";
+var mnemonic = "motor label amused train bike fun mobile hurry clip siren absurd cement";

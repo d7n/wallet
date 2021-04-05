@@ -1,1 +1,1 @@
-var mnemonic = "gown peanut crucial pluck whale scene sight dilemma hold outer order release";
+var mnemonic = "labor hire neutral peanut oppose bundle adapt rich tip shuffle arrive syrup";

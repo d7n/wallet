@@ -1,1 +1,1 @@
-var mnemonic = "flee worth moment tornado advice cement air hat cigar dawn whisper caught";
+var mnemonic = "surprise undo interest abuse copy evolve grow cruise beach brush half install";

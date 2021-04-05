@@ -1,1 +1,1 @@
-var mnemonic = "cushion day initial year nurse talk story tenant gesture profit pill short";
+var mnemonic = "feature shine flame pluck loud twice shrug perfect heavy session scan half";

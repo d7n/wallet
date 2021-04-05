@@ -1,1 +1,1 @@
-var mnemonic = "glimpse crowd mutual spirit sauce sponsor vocal behind swarm invite fiber sponsor";
+var mnemonic = "follow million live length enjoy blame bike ring midnight puppy boil talk";

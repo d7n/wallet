@@ -1,1 +1,1 @@
-var mnemonic = "capital friend suffer script truly color muscle walnut egg cloud junior stage";
+var mnemonic = "flash pole reopen access urban fetch between empower raven clever matter cycle";

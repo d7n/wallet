@@ -1,1 +1,1 @@
-var mnemonic = "museum transfer frequent honey harbor march push axis argue like erupt sense";
+var mnemonic = "believe run youth consider speed flash syrup wild fence across tag hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "interest siren barely rack decade disorder delay inspire antique inside milk exhaust";
+var mnemonic = "worth damp tiger later lion era topic phone true plunge basic chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "people praise milk long agent inform business theory month submit way naive";
+var mnemonic = "diesel sport alien manage shock correct unveil glory area side repair type";

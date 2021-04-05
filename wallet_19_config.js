@@ -1,1 +1,1 @@
-var mnemonic = "wish bronze report warfare earn bless grab rose mimic soon kingdom consider";
+var mnemonic = "token satisfy oppose lunar elite receive century topic blast muscle artefact emerge";

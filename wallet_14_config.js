@@ -1,1 +1,1 @@
-var mnemonic = "nose vacuum century private toy ordinary popular frame surge cricket marriage other";
+var mnemonic = "slide parade dirt rubber fancy fruit enforce song cool faint urge bike";

@@ -1,1 +1,1 @@
-var mnemonic = "ski bring lizard seed engage onion march govern notice breeze photo edit";
+var mnemonic = "bundle adjust grape eight ivory orphan fine spatial swing vapor soon yellow";

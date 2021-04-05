@@ -1,1 +1,1 @@
-var mnemonic = "virus trap middle diamond happy regular private nurse garlic cake type trash";
+var mnemonic = "fever subject auction extra sort joke husband mosquito together twenty original ski";

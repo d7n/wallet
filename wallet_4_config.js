@@ -1,1 +1,1 @@
-var mnemonic = "strike secret luxury inspire similar battle tornado learn thank peanut employ genre";
+var mnemonic = "daughter catch empower orbit movie auto car still rally pink ice void";

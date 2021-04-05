@@ -1,1 +1,1 @@
-var mnemonic = "husband bottom hunt public jacket filter cliff neck master uncle gauge spare";
+var mnemonic = "include night cake pudding gadget thumb trap know sunset follow page behave";

@@ -1,1 +1,1 @@
-var mnemonic = "box bridge tribe busy spare orange viable stamp height toy flash hurt";
+var mnemonic = "empty sight buddy sand cup park proof body daring suggest pistol carbon";

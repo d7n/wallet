@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog still spice wreck argue sea history culture brush rapid praise educate";
+var mnemonic = "bridge fly pigeon step protect amazing display brave budget arena mask parent";

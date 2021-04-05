@@ -1,1 +1,1 @@
-var mnemonic = "gym piano process fame polar bid confirm piece donor coach purity link";
+var mnemonic = "volcano prefer jacket nasty debris voyage uncle pair surround spend detail give";

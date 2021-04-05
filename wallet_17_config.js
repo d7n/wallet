@@ -1,1 +1,1 @@
-var mnemonic = "medal squeeze curtain logic snow silk jeans hundred awful jealous boost vivid";
+var mnemonic = "wonder crisp treat dove voice report minute detect fat wheat text gain";

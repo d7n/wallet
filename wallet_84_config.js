@@ -1,1 +1,1 @@
-var mnemonic = "chunk token fruit enroll tiny toilet favorite cycle help ceiling dignity famous";
+var mnemonic = "okay broken assault siege limit cream decade afford inmate wrap vast craft";

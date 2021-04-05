@@ -1,1 +1,1 @@
-var mnemonic = "square enjoy between giggle daughter lens snake above visit scrap ensure solid";
+var mnemonic = "tail vault enough oval reform salmon snap spray oppose bone garden subway";

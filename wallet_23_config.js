@@ -1,1 +1,1 @@
-var mnemonic = "south trigger soldier milk bread dash lawsuit coral expect ugly loud flavor";
+var mnemonic = "any such space share common pluck material domain cannon write evil velvet";

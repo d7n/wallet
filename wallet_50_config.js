@@ -1,1 +1,1 @@
-var mnemonic = "thunder ski base sock document fatal wife issue govern hat chaos lottery";
+var mnemonic = "maid owner ski switch tumble sign increase trial police item vital you";

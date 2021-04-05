@@ -1,1 +1,1 @@
-var mnemonic = "remind whip guide response meat list upon trip picnic grass expand budget";
+var mnemonic = "boat exhaust ahead seven misery you escape option protect type food miss";

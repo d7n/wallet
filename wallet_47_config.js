@@ -1,1 +1,1 @@
-var mnemonic = "turkey edit bike eight undo fatal priority crowd secret horse sand reason";
+var mnemonic = "media school cycle seat palm strong lava brief marriage inhale toilet relief";

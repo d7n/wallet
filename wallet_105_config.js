@@ -1,1 +1,1 @@
-var mnemonic = "brave father gap tell actor matter burger clock fluid melody grit possible";
+var mnemonic = "spot butter letter juice curious divert dress able silver match purchase syrup";

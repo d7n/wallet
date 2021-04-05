@@ -1,1 +1,1 @@
-var mnemonic = "clay loyal royal garage ready shield victory slab bubble stomach champion plunge";
+var mnemonic = "tumble profit extra rhythm wrap control interest clog general void marriage dice";

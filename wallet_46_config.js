@@ -1,1 +1,1 @@
-var mnemonic = "feel access legend stable midnight harvest ketchup penalty issue betray broken settle";
+var mnemonic = "glad wagon digital cube need zone come shy flee cash fog wool";

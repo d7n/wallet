@@ -1,1 +1,1 @@
-var mnemonic = "copy choice story input sketch pyramid fine penalty during short two trouble";
+var mnemonic = "spirit trash cool fade barrel palace banner bullet afford eternal clog awesome";

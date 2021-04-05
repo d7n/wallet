@@ -1,1 +1,1 @@
-var mnemonic = "time harvest focus prefer cinnamon lawsuit deal chair predict manage used coin";
+var mnemonic = "aspect unit fancy tree mule orphan welcome note candy case toss drum";

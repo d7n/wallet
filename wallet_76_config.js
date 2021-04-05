@@ -1,1 +1,1 @@
-var mnemonic = "such humor sketch grit salt diet gossip cliff shine raw marriage green";
+var mnemonic = "mouse engine artwork arrow carpet wrestle pass mix across glare pilot eagle";

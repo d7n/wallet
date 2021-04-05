@@ -1,1 +1,1 @@
-var mnemonic = "ritual hockey kangaroo resource banana march name spring bundle enable night citizen";
+var mnemonic = "lizard gather inhale rail unfair result aisle private grab exchange myth boring";

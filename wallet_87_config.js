@@ -1,1 +1,1 @@
-var mnemonic = "delay harbor woman raven sentence pottery else galaxy heavy decade height kite";
+var mnemonic = "tennis develop consider just useful fan hunt chief twelve comfort inspire secret";

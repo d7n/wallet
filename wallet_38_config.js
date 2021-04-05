@@ -1,1 +1,1 @@
-var mnemonic = "donate state caught observe fault round aisle world mammal attract dentist tennis";
+var mnemonic = "photo midnight canal sausage defense west spend early control enjoy deny until";

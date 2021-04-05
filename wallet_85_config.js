@@ -1,1 +1,1 @@
-var mnemonic = "bacon dust hockey post favorite velvet exit popular trophy damp marriage garlic";
+var mnemonic = "super slender jewel general stadium invest trophy change fee math innocent leopard";

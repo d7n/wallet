@@ -1,1 +1,1 @@
-var mnemonic = "ridge option able add bonus delay angry brain normal put ensure engage";
+var mnemonic = "stone debris maid coyote mouse promote try baby dismiss program tortoise task";

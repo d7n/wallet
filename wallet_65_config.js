@@ -1,1 +1,1 @@
-var mnemonic = "joy cricket snake list border eternal bracket dwarf romance glove yellow cushion";
+var mnemonic = "lucky box box tourist alpha wall put truly glide drama fury voyage";

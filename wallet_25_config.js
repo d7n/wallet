@@ -1,1 +1,1 @@
-var mnemonic = "aim hip kid cushion sauce say category crew runway vicious color purse";
+var mnemonic = "rebel basket remember evidence defy civil hero orient shove bomb crowd believe";

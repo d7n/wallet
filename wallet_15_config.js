@@ -1,1 +1,1 @@
-var mnemonic = "olympic nut spread speak method hidden hair discover student bottom fault gesture";
+var mnemonic = "upset leopard govern group ring drum unfair silent you cake hour wealth";

@@ -1,1 +1,1 @@
-var mnemonic = "vast climb replace iron fox mutual guilt economy key subway brother still";
+var mnemonic = "sunset hobby group domain silk year movie charge asthma vocal wealth absorb";

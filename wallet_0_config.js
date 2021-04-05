@@ -1,1 +1,1 @@
-var mnemonic = "time best panel analyst afraid afford swear slight bounce atom chase make";
+var mnemonic = "crop sport acquire visual talent armor draft husband belt kitten annual uphold";

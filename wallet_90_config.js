@@ -1,1 +1,1 @@
-var mnemonic = "roast awesome velvet cancel equip sauce aerobic soon today glare filter tiny";
+var mnemonic = "robust ribbon iron young grab subject drastic wave approve blame urge urban";

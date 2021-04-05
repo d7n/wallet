@@ -1,1 +1,1 @@
-var mnemonic = "fragile inquiry artefact junk express below close stove initial museum life globe";
+var mnemonic = "essay mimic bamboo brother magnet chef text size curtain clap hint crane";

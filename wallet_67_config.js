@@ -1,1 +1,1 @@
-var mnemonic = "sign level trick shrug antenna plunge foot walk general beef flower rally";
+var mnemonic = "fitness impose spirit actress invite fiction pledge elder actor fault injury screen";

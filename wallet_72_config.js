@@ -1,1 +1,1 @@
-var mnemonic = "chair width soldier rigid trip beef already add river uphold wrist cloth";
+var mnemonic = "canyon claw boat turn strategy sister bulb split before suggest pattern gown";

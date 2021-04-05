@@ -1,1 +1,1 @@
-var mnemonic = "fix black glow shift success private put betray goat quit impulse ill";
+var mnemonic = "name convince unknown loud pen use dance scatter resemble arch wool ill";

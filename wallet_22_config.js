@@ -1,1 +1,1 @@
-var mnemonic = "century chair decide swarm material morning rely hat drink loud ribbon spoil";
+var mnemonic = "spare polar brave bus drastic evil plastic wall legend cushion state crazy";

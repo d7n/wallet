@@ -1,1 +1,1 @@
-var mnemonic = "elephant armor flash decade crime later blur wealth artefact symptom image broccoli";
+var mnemonic = "debate boat real company infant rally option butter have sick pet car";

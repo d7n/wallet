@@ -1,1 +1,1 @@
-var mnemonic = "melody hen list about frame cycle volume help unusual arch egg lemon";
+var mnemonic = "month lawsuit multiply total program diagram almost tonight trim frequent swift upgrade";

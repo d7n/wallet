@@ -1,1 +1,1 @@
-var mnemonic = "animal home avocado regular boss tuition picture crime track grace token foster";
+var mnemonic = "kiss rubber churn evidence smoke patient diagram beyond coil swing argue cart";

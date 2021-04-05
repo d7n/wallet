@@ -1,1 +1,1 @@
-var mnemonic = "system indoor banana quarter chat work robot derive coyote help online spray";
+var mnemonic = "wage void blossom limit audit amateur doll vague chapter electric cool seed";

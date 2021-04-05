@@ -1,1 +1,1 @@
-var mnemonic = "collect this spend never forum angry scan misery exit mimic jaguar wave";
+var mnemonic = "wet hand crisp equip illness tourist series actual unfair verify manual topple";

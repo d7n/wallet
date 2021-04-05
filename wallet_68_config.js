@@ -1,1 +1,1 @@
-var mnemonic = "sick lift snow amateur quality win expose rally initial dolphin soldier parade";
+var mnemonic = "venture genre puzzle spring sea panic enrich flight casual leader pipe expire";

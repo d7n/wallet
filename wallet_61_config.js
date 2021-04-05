@@ -1,1 +1,1 @@
-var mnemonic = "width saddle slogan vault funny undo mango trick issue dad hole dismiss";
+var mnemonic = "velvet chair demand clerk flavor current client puppy apart sentence regret rug";

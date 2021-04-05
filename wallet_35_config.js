@@ -1,1 +1,1 @@
-var mnemonic = "myself gap tenant grunt long eager fatigue dwarf slow tumble bring reopen";
+var mnemonic = "endless abandon surround jacket animal chase problem trip volume bless mechanic win";

@@ -1,1 +1,1 @@
-var mnemonic = "fox matter noodle domain educate execute team bonus slab sudden orbit travel";
+var mnemonic = "couch vote tackle harvest double slush kit anger spoil weather baby already";

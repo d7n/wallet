@@ -1,1 +1,1 @@
-var mnemonic = "robot leg drop hockey minimum expose remain harvest happy stereo divide slide";
+var mnemonic = "diet holiday oppose quantum pig capital skate two ancient mule fault pink";

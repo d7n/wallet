@@ -1,1 +1,1 @@
-var mnemonic = "camera dizzy squirrel insect bless hundred sand fantasy helmet critic just loan";
+var mnemonic = "demand section bunker affair photo foil window shield warm inmate clerk picnic";

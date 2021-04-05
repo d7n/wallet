@@ -1,1 +1,1 @@
-var mnemonic = "attract love number add blush that bachelor focus climb term glance matter";
+var mnemonic = "garment ivory skill pioneer like innocent stereo ball sponsor ripple embody grocery";

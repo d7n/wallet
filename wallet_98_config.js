@@ -1,1 +1,1 @@
-var mnemonic = "image ramp junk glue cabin sunset fantasy nasty hungry cage blind sausage";
+var mnemonic = "first various pause cushion car frequent helmet injury tiger laugh curve aim";

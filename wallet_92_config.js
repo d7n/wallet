@@ -1,1 +1,1 @@
-var mnemonic = "slow blanket bread popular sing sail solution write loop scheme disorder snap";
+var mnemonic = "wear dash oak joke avoid wear slam intact region load lottery version";

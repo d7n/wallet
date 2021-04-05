@@ -1,1 +1,1 @@
-var mnemonic = "color together salon duck morning brick code multiply inmate wing decline ghost";
+var mnemonic = "job patch guide mixture marine eager require noise physical filter okay duck";

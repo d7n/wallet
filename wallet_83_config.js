@@ -1,1 +1,1 @@
-var mnemonic = "glad awkward idle dune chat side lumber gap risk utility ketchup miracle";
+var mnemonic = "depth lion notable expire away list library pig spoon uncover uncle tennis";

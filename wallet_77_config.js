@@ -1,1 +1,1 @@
-var mnemonic = "rose ocean walnut grief chuckle filter bounce glue minimum oak version mind";
+var mnemonic = "grace similar bring student diesel level distance echo raise tackle margin unit";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon shallow release mammal twice photo office unfold swamp better tide illegal";
+var mnemonic = "swap large grid keep level blossom clerk obvious response soon festival daughter";
