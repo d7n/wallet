@@ -1,1 +1,1 @@
-var mnemonic = "shift design lunch female mansion debate hire gorilla swamp atom fit peasant";
+var mnemonic = "fringe above cave alcohol immune theory stereo cradle weather finger label excuse";

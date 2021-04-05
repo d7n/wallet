@@ -1,1 +1,1 @@
-var mnemonic = "marine sock have correct shoot giraffe giggle wise rack round walk mirror";
+var mnemonic = "present false final ginger clarify century foam craft blue submit multiply muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "insane blue depend define simple stuff entire unfair embody belt pulp foam";
+var mnemonic = "bonus resist regret produce bomb claim honey visit harvest alien lizard pink";

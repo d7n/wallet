@@ -1,1 +1,1 @@
-var mnemonic = "quarter trust model unusual horse rent furnace cousin news buyer moment security";
+var mnemonic = "cook over label crisp reward kitten quality employ legend item dentist step";

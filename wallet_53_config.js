@@ -1,1 +1,1 @@
-var mnemonic = "drink tongue moon connect puppy bid system parent camera festival hire glove";
+var mnemonic = "renew behind battle tattoo kind suit vapor lizard harsh wet adjust two";

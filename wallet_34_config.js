@@ -1,1 +1,1 @@
-var mnemonic = "earth casual broken awful fork fix buddy arm odor lottery attend flag";
+var mnemonic = "net label shiver seminar inner depart spell assist extra proof aware proud";

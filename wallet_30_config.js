@@ -1,1 +1,1 @@
-var mnemonic = "envelope oak catalog expect arm clay october search hurry brother town zero";
+var mnemonic = "crater student play churn blood travel cute edit ozone spread place sound";

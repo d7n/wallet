@@ -1,1 +1,1 @@
-var mnemonic = "sword oval once inquiry faith law brother educate inside swim naive legend";
+var mnemonic = "network daughter fiber title right hand fancy fan push great peace elegant";

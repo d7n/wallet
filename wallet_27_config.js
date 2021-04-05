@@ -1,1 +1,1 @@
-var mnemonic = "merge sight fury excess badge icon task major ozone absent moon vivid";
+var mnemonic = "gloom that air type solar knife dolphin dolphin light tongue convince knife";

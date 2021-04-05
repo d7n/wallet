@@ -1,1 +1,1 @@
-var mnemonic = "match elder oven salon wool humor elevator change resource prepare lyrics ignore";
+var mnemonic = "vault pitch girl kite hair impact account grass crack rally rubber moment";

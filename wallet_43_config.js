@@ -1,1 +1,1 @@
-var mnemonic = "transfer tortoise tongue surround circle alter useful hedgehog public artefact mammal lecture";
+var mnemonic = "peanut scatter vintage cave negative machine soldier symbol base client strategy pistol";

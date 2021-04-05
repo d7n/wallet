@@ -1,1 +1,1 @@
-var mnemonic = "predict device sock rule world mystery business want lunch gym stem aerobic";
+var mnemonic = "south black deliver nuclear chat large shoe shoot normal jazz rose panic";

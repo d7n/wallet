@@ -1,1 +1,1 @@
-var mnemonic = "oppose boost clap carpet yard supreme now rural lecture feature dinner just";
+var mnemonic = "humor chuckle potato damage melt place subway crucial grant tent tobacco cruise";

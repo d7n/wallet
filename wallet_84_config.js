@@ -1,1 +1,1 @@
-var mnemonic = "diet legend segment drive weapon liar tube what fat peace apart length";
+var mnemonic = "submit output return relief connect depth mobile chimney inflict false achieve void";

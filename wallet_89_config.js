@@ -1,1 +1,1 @@
-var mnemonic = "journey credit surface rookie grape glue more merit sick sustain cash space";
+var mnemonic = "civil pyramid lake often eyebrow music brain buyer unfair portion virus parade";

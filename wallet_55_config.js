@@ -1,1 +1,1 @@
-var mnemonic = "fluid divorce special junk regular category suggest reform puzzle disagree barrel area";
+var mnemonic = "palace advance live jar guitar medal bread pyramid history acquire album canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "opera pass thrive laptop cute ginger evil rich clerk matrix sheriff impose";
+var mnemonic = "wood divide salad physical guitar special attack mercy order twist share motor";

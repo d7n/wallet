@@ -1,1 +1,1 @@
-var mnemonic = "order believe because decade tattoo opera lizard mixed tide south keep insane";
+var mnemonic = "person sustain army office champion cloth indoor melt work cost original chapter";

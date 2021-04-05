@@ -1,1 +1,1 @@
-var mnemonic = "pledge satoshi borrow empower number legend project scene market nasty jungle feel";
+var mnemonic = "fire hen enact deny female will unlock ride walk grief security student";

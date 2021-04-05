@@ -1,1 +1,1 @@
-var mnemonic = "auto inmate huge chalk sample tourist trash trial spice vacuum fringe any";
+var mnemonic = "core pyramid magic unveil obtain develop cram lunch faculty bike hole exist";

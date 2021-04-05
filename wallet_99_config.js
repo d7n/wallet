@@ -1,1 +1,1 @@
-var mnemonic = "equip prepare gaze night switch hotel educate crew subject silent shift can";
+var mnemonic = "solid vault used fury edit bounce voice update assume hill rent service";

@@ -1,1 +1,1 @@
-var mnemonic = "notice tiny occur donkey dynamic much machine twice denial glare mosquito glide";
+var mnemonic = "run file world direct dust empower tree coyote reduce fossil wait output";

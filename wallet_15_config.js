@@ -1,1 +1,1 @@
-var mnemonic = "angle total install green change fix rug toward despair leader oblige alley";
+var mnemonic = "sphere mind mother shoot average horror arrow skirt hire fatigue buzz license";

@@ -1,1 +1,1 @@
-var mnemonic = "fault vibrant captain omit achieve dice ski screen build false coach chronic";
+var mnemonic = "improve curtain army rally divide struggle brave rifle win alley attack kingdom";

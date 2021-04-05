@@ -1,1 +1,1 @@
-var mnemonic = "boy knife mouse venue learn wedding cause media debris fire soon same";
+var mnemonic = "olive silk mixed enemy dolphin cross field sell crumble enact room extra";

@@ -1,1 +1,1 @@
-var mnemonic = "brain glide produce initial grab apology market barrel hawk symbol under run";
+var mnemonic = "oak envelope endorse tackle sentence grow level garment solve cushion quit flee";

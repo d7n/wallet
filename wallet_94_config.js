@@ -1,1 +1,1 @@
-var mnemonic = "brother provide safe hair walk festival seed sniff gather mercy anger write";
+var mnemonic = "ramp path immune beach intact small thunder wealth thank police silver cloud";

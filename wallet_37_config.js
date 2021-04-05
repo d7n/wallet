@@ -1,1 +1,1 @@
-var mnemonic = "know equip reflect dragon next lawn rack silent install food huge age";
+var mnemonic = "photo school verb fee coral volume van core pupil attack hover kangaroo";

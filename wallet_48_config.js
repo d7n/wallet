@@ -1,1 +1,1 @@
-var mnemonic = "name august juice busy uncover inch milk novel expire manual melt gaze";
+var mnemonic = "giggle mimic else grief swap digital order sword suit crime net rotate";

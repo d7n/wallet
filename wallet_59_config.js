@@ -1,1 +1,1 @@
-var mnemonic = "absent unveil tennis nut crop run glimpse hand hockey genuine drop detect";
+var mnemonic = "alarm marriage label leg connect garlic bone thunder strategy scene angry drama";

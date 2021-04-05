@@ -1,1 +1,1 @@
-var mnemonic = "lucky cupboard raw level path flame bird decide best shield just country";
+var mnemonic = "myth surface narrow melody tobacco fly labor endorse warm lake shy swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "famous response swap bless combine hotel tornado model slow social hip print";
+var mnemonic = "bind enlist warrior little tube abstract traffic grief sand flush render butter";

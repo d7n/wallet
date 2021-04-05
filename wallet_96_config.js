@@ -1,1 +1,1 @@
-var mnemonic = "across diary twenty load dawn comic divide end fade clock start usual";
+var mnemonic = "tube royal busy dismiss sick work state canyon wall repeat banner awake";

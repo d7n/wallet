@@ -1,1 +1,1 @@
-var mnemonic = "absent uphold beyond panel purity sauce fame give abandon wrap morning gym";
+var mnemonic = "awesome stock seek tip change depend filter damp know employ tragic sell";

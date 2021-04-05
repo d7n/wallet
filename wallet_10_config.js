@@ -1,1 +1,1 @@
-var mnemonic = "local burger fiscal stem valve fault quote image child matrix wife friend";
+var mnemonic = "version used behind keen clip tortoise pelican aspect quality document sadness drill";

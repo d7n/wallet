@@ -1,1 +1,1 @@
-var mnemonic = "supreme physical silent rebel wild tennis strategy unit pulse produce base throw";
+var mnemonic = "brave logic shy upper shed salmon actress scrub input reform glow number";

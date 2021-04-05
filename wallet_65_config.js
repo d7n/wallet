@@ -1,1 +1,1 @@
-var mnemonic = "return wreck useful outside barely miracle spoon pepper embark shoot someone horn";
+var mnemonic = "alert parent flock position sunset must relax beauty august teach speed work";

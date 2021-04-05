@@ -1,1 +1,1 @@
-var mnemonic = "embody label diet surface soup device craft dentist defense ten song over";
+var mnemonic = "early taxi anger snow bid lucky solve account traffic wet test result";

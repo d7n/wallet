@@ -1,1 +1,1 @@
-var mnemonic = "hen crumble popular island visa today joke heavy crunch sight tooth aerobic";
+var mnemonic = "bench rotate prepare thunder more process ahead lawn police priority chase proof";

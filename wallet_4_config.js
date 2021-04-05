@@ -1,1 +1,1 @@
-var mnemonic = "toy guard slogan uncle diagram chalk sustain jazz screen differ twice public";
+var mnemonic = "interest purity forum slush private narrow charge design lava memory category fuel";

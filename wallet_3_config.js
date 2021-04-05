@@ -1,1 +1,1 @@
-var mnemonic = "include slush abstract miss dragon leaf shoot casual future tone parrot spirit";
+var mnemonic = "fee embody boil wall miracle slim dose shadow avoid pause company steel";

@@ -1,1 +1,1 @@
-var mnemonic = "burger fortune quarter tornado detect glide absurd either egg term glow canyon";
+var mnemonic = "stay police connect rhythm drip tired dish mail market equip combine border";

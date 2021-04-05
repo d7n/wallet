@@ -1,1 +1,1 @@
-var mnemonic = "seven capable figure depth learn brother razor text cattle fade ritual quality";
+var mnemonic = "cool truck win medal mind main gospel agree supply genre angle diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "slab slim arena saddle vessel album dentist sick address bag useless suggest";
+var mnemonic = "report piece strategy jaguar jaguar tattoo lounge spell depart proud novel pony";

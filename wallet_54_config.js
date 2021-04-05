@@ -1,1 +1,1 @@
-var mnemonic = "black check defense stereo warfare again mushroom meadow industry camp hood quote";
+var mnemonic = "penalty chief kidney elder pill ride finger bronze smoke engine clay foil";

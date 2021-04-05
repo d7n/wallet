@@ -1,1 +1,1 @@
-var mnemonic = "buyer sheriff cable kitchen swamp put road sketch obey evil define scheme";
+var mnemonic = "easy wine flush shuffle cabbage leader patch unusual unhappy fatal spice tenant";

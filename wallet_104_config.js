@@ -1,1 +1,1 @@
-var mnemonic = "keep goose author income code hope space slogan elephant virtual exhaust width";
+var mnemonic = "document tag cousin street shove head basic tennis click aware distance patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace gate suspect current raw huge essence athlete myth rose easy balance";
+var mnemonic = "twist burst resist other gallery kitchen sting account merit toe orphan nation";

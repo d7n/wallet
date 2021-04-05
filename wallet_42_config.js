@@ -1,1 +1,1 @@
-var mnemonic = "middle must toe auto strategy vacuum pipe asthma struggle spice envelope coconut";
+var mnemonic = "lumber catch project negative patch clip census girl behave slight august wood";

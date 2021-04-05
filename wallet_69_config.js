@@ -1,1 +1,1 @@
-var mnemonic = "banner crop fluid shuffle pill liar pill material unfair menu yellow need";
+var mnemonic = "story object note liar weasel oblige polar photo shove luggage promote seven";

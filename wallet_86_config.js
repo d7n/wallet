@@ -1,1 +1,1 @@
-var mnemonic = "illness target rib practice lunar later romance kite age reward priority company";
+var mnemonic = "flip misery ball wool initial service wealth skill quiz sport globe pill";

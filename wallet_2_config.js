@@ -1,1 +1,1 @@
-var mnemonic = "shift about force lyrics crazy ritual pioneer minor change enrich orphan bleak";
+var mnemonic = "improve bag manage bag brush enlist baby bulk avocado exile team sudden";

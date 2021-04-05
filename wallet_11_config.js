@@ -1,1 +1,1 @@
-var mnemonic = "must style seek tell pause goat window arch hint bamboo surprise offer";
+var mnemonic = "script small lazy sausage balance wine already empty uphold syrup impose excite";

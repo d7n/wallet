@@ -1,1 +1,1 @@
-var mnemonic = "tag clip uncover front topic table aisle dolphin chaos net maple small";
+var mnemonic = "regular fiction hub evoke machine oval increase arm beef october panel jump";

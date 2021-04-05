@@ -1,1 +1,1 @@
-var mnemonic = "debate income iron kiss fatigue office wash between ball cycle short nation";
+var mnemonic = "novel dynamic safe track review purse nose secret enable science own into";

@@ -1,1 +1,1 @@
-var mnemonic = "job edge boring skirt easily polar burger gossip element myself world sleep";
+var mnemonic = "iron orange size defy hammer harsh vote wagon sand club obvious blouse";

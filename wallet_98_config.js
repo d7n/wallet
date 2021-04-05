@@ -1,1 +1,1 @@
-var mnemonic = "deal margin harvest thing drill top excuse school silk enlist debate small";
+var mnemonic = "gospel arena number hat time sample describe identify palace setup position friend";

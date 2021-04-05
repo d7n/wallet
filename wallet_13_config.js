@@ -1,1 +1,1 @@
-var mnemonic = "stairs rocket sail shock absent roast poet suspect devote arrange excite tumble";
+var mnemonic = "team settle galaxy crew radio mixed pink butter dolphin side coffee weekend";

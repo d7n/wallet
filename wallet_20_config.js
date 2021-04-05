@@ -1,1 +1,1 @@
-var mnemonic = "noodle clown virtual dove item wheat bicycle song universe spoon tell call";
+var mnemonic = "usage verb neglect pitch bonus glory affair very mail cattle dilemma surge";

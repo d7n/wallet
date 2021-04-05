@@ -1,1 +1,1 @@
-var mnemonic = "faith excite chicken hollow dawn strike silent mercy solar bridge fence pretty";
+var mnemonic = "bus trust doctor hope enroll style globe issue twice medal day scrub";

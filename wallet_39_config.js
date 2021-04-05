@@ -1,1 +1,1 @@
-var mnemonic = "crop grocery lyrics warm prevent finish seat junk act wear news creek";
+var mnemonic = "congress visual proof claim awkward plunge area sauce rally lab toast novel";

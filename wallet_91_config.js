@@ -1,1 +1,1 @@
-var mnemonic = "fortune beach drastic action picture twin card jazz into van common once";
+var mnemonic = "will spend volume upset soft carpet swap size honey glance hard jaguar";

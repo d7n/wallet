@@ -1,1 +1,1 @@
-var mnemonic = "transfer wheat exit destroy capable flip provide angry gaze expect capital pitch";
+var mnemonic = "eagle human ski supreme wrist recycle unknown immune defense foster doll family";

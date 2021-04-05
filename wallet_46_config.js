@@ -1,1 +1,1 @@
-var mnemonic = "globe trigger special table system gasp poet combine satisfy lunar nasty segment";
+var mnemonic = "casual smooth word average cook bid recycle neck autumn caution bottom vacuum";

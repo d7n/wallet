@@ -1,1 +1,1 @@
-var mnemonic = "indoor problem awkward ceiling stay price pull cradle bless high seat hazard";
+var mnemonic = "pole bean ability nest easy provide amused few south drill worth appear";

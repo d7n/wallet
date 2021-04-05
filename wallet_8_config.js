@@ -1,1 +1,1 @@
-var mnemonic = "sweet note olympic spare wish pioneer domain half burst jacket live south";
+var mnemonic = "rhythm name disagree table dry try walk kid hurdle purpose soup parent";

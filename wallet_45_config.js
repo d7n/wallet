@@ -1,1 +1,1 @@
-var mnemonic = "happy ask film wagon brief grape aunt hobby clump bounce search pretty";
+var mnemonic = "day cannon oil plate empower immune gorilla high combine legend beyond barely";

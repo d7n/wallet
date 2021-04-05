@@ -1,1 +1,1 @@
-var mnemonic = "cave push canyon color culture charge unveil lumber bronze sand blast spike";
+var mnemonic = "unfold celery horror slender wear female exile virus one flame idea burger";

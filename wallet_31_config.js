@@ -1,1 +1,1 @@
-var mnemonic = "seven winner play educate habit space plastic salt toast bird bridge anchor";
+var mnemonic = "ball curious history connect blood gesture van tomato fox client upset wrestle";

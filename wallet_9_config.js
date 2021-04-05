@@ -1,1 +1,1 @@
-var mnemonic = "glance pole phone shy gossip glance worth daring champion spot pumpkin satoshi";
+var mnemonic = "anxiety brass horror soon sting educate dove rotate scene fiscal home delay";

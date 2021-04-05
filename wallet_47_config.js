@@ -1,1 +1,1 @@
-var mnemonic = "enroll muffin multiply supply split proof warrior conduct vintage enforce knee decline";
+var mnemonic = "guilt foil pet armed light remind light outside salad midnight ostrich vapor";

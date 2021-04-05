@@ -1,1 +1,1 @@
-var mnemonic = "then over banner pass timber shoulder thumb swamp inhale tide fashion rain";
+var mnemonic = "tragic world hunt luxury basket when donor reform gesture husband flavor turn";

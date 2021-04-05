@@ -1,1 +1,1 @@
-var mnemonic = "tunnel sheriff peace pretty relief finger solar little allow era price exclude";
+var mnemonic = "sauce olympic recycle rude grid source behind razor cute congress buffalo yard";

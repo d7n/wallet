@@ -1,1 +1,1 @@
-var mnemonic = "body bachelor bar comic endorse lion you tide grant loop analyst garage";
+var mnemonic = "bird party all catch follow young lucky upper cost ridge venture shy";

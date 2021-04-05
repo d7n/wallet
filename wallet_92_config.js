@@ -1,1 +1,1 @@
-var mnemonic = "sort bonus cave skate autumn toast era cook wrist impulse diamond exist";
+var mnemonic = "cycle find few border stick push maze wear token guard cousin this";

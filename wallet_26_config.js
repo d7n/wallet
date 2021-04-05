@@ -1,1 +1,1 @@
-var mnemonic = "practice life first pride uphold fabric coil scheme outside someone old burst";
+var mnemonic = "floor never strategy twist match cream vivid cycle grant awful empower topple";

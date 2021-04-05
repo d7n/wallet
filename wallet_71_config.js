@@ -1,1 +1,1 @@
-var mnemonic = "sniff belt deny truth method wish limb often earn pave embark popular";
+var mnemonic = "room diet fancy artwork solve write diamond faculty pass napkin roast burger";
