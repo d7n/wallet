@@ -1,1 +1,1 @@
-var mnemonic = "fortune marine thank rule vocal rate lab rich father blind amount pulse";
+var mnemonic = "above hockey spray joke seminar lab rate city subway thank program shrimp";

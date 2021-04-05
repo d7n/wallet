@@ -1,1 +1,1 @@
-var mnemonic = "body mixed twenty drastic judge degree visa host rude strike scheme shock";
+var mnemonic = "spell vanish false ugly pen cricket life survey habit acquire culture deny";

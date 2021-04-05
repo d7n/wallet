@@ -1,1 +1,1 @@
-var mnemonic = "involve walnut sign punch three lock wife wrap receive original insane wife";
+var mnemonic = "size exhaust wrong remember catch before stay step year typical visa labor";

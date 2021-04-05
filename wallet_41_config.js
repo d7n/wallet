@@ -1,1 +1,1 @@
-var mnemonic = "vintage suit define illegal program short hundred tenant tortoise shove rescue found";
+var mnemonic = "omit search embrace enjoy crystal raise solid bamboo remember vintage acid piece";

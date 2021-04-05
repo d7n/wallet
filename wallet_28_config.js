@@ -1,1 +1,1 @@
-var mnemonic = "calm minor praise elevator able thought labor magic sauce latin aim loyal";
+var mnemonic = "leaf maple economy whip volume brand parent liberty input puppy fiber squirrel";

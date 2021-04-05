@@ -1,1 +1,1 @@
-var mnemonic = "supreme bonus clay harvest jeans fury library furnace purpose transfer bind consider";
+var mnemonic = "primary half start swap faint renew gown payment process slender winner cool";

@@ -1,1 +1,1 @@
-var mnemonic = "deer lottery edge inside crowd speak tone limit enlist luxury loop test";
+var mnemonic = "hammer tennis rabbit logic clerk sentence faint october cannon engage ostrich alert";

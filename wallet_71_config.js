@@ -1,1 +1,1 @@
-var mnemonic = "gym illegal relief drill stomach wash search boy hobby identify scheme thank";
+var mnemonic = "cradle need purity cycle cupboard yellow emotion glory boost cloth machine pill";

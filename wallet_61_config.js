@@ -1,1 +1,1 @@
-var mnemonic = "west layer home expose piece bargain once squeeze video elite music prevent";
+var mnemonic = "avocado tool pudding lottery bright recipe frown squirrel bounce mammal cotton exhaust";

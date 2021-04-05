@@ -1,1 +1,1 @@
-var mnemonic = "armor miracle this vehicle maximum road drift regret crime future ginger genius";
+var mnemonic = "night lock game acquire purchase library wave artwork cattle awkward ankle hover";

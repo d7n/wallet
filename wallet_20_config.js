@@ -1,1 +1,1 @@
-var mnemonic = "radio cable where agent rifle cotton direct you protect cruel fame patrol";
+var mnemonic = "soap ranch shoe topic west dignity oxygen echo divert nerve group shadow";

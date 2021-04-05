@@ -1,1 +1,1 @@
-var mnemonic = "prize make viable yard interest music march sentence ride orchard pill another";
+var mnemonic = "basket float peasant palm movie tennis kidney miracle skin enrich labor betray";

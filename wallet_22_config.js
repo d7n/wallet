@@ -1,1 +1,1 @@
-var mnemonic = "alarm tennis hotel spider outside riot special antenna west uncle panda service";
+var mnemonic = "cube guard ten prosper horn rural eyebrow left brain echo balcony knee";

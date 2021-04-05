@@ -1,1 +1,1 @@
-var mnemonic = "reform sweet radio under venue weapon digital add mask aspect injury throw";
+var mnemonic = "they pink evoke voyage device timber what endless trade floor tree smart";

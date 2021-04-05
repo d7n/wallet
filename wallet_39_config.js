@@ -1,1 +1,1 @@
-var mnemonic = "orient stairs deliver picture under erosion grocery risk faint sign assume figure";
+var mnemonic = "opera nest auction theme must effort hockey seat ahead bar weekend erosion";

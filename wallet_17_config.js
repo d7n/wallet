@@ -1,1 +1,1 @@
-var mnemonic = "can shock dragon dismiss undo foam alone giggle wonder crop mushroom monster";
+var mnemonic = "shine salute pitch laptop acoustic vintage square security chuckle joke ready click";

@@ -1,1 +1,1 @@
-var mnemonic = "violin bicycle slogan brisk school other oil joke street transfer lift actual";
+var mnemonic = "delay review twice few brown coil hurry turkey pledge chest vehicle cook";

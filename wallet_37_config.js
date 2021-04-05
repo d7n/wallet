@@ -1,1 +1,1 @@
-var mnemonic = "sweet seminar shock wash autumn mimic audit wise nothing mutual car roast";
+var mnemonic = "acid program story elite sick uphold slogan paddle garlic accident outer clinic";

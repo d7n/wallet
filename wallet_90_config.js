@@ -1,1 +1,1 @@
-var mnemonic = "merit spy lab snow auto spend robot hybrid before fun join barrel";
+var mnemonic = "unlock aerobic charge sausage spend whisper sick gym gym warrior warrior trip";

@@ -1,1 +1,1 @@
-var mnemonic = "alley wheel radio ancient symbol clay abstract arch narrow attack magnet tragic";
+var mnemonic = "asset fog scissors opinion enough welcome shell twin deal morning lobster usual";

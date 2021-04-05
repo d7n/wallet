@@ -1,1 +1,1 @@
-var mnemonic = "spot ocean whisper month flavor what account poverty practice feed crystal will";
+var mnemonic = "program right mask enemy cross curve net problem grunt render injury deposit";

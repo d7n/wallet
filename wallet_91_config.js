@@ -1,1 +1,1 @@
-var mnemonic = "bundle tree isolate soup mobile enact better parrot rude feed unusual bargain";
+var mnemonic = "valve session punch differ speak cabbage use fancy tackle regret video purity";

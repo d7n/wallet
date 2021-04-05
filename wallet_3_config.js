@@ -1,1 +1,1 @@
-var mnemonic = "upper swap indoor tennis income scene amused exile rule duty manage viable";
+var mnemonic = "tilt skin word gospel arctic arrow shell walk fabric actual topple phone";

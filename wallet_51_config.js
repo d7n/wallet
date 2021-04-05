@@ -1,1 +1,1 @@
-var mnemonic = "neutral leave sponsor wrist note frequent hospital injury slow dance wood brown";
+var mnemonic = "lobster brand scout track orchard undo legend useless affair merry note mutual";

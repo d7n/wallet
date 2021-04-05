@@ -1,1 +1,1 @@
-var mnemonic = "mind camp guitar doll lake just artwork soul blast angle test scale";
+var mnemonic = "stumble treat clarify logic toilet section sound soft scale path kidney height";

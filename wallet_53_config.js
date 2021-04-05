@@ -1,1 +1,1 @@
-var mnemonic = "next grunt yellow exotic humor ceiling friend blush love private pulp require";
+var mnemonic = "sponsor list woman federal hammer strong daughter carpet link broccoli boring goddess";

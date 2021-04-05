@@ -1,1 +1,1 @@
-var mnemonic = "pledge equip tilt place screen enjoy income observe hedgehog scene upper detect";
+var mnemonic = "stumble lamp clump fade buzz blast across popular claw guess diary divert";

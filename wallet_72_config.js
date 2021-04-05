@@ -1,1 +1,1 @@
-var mnemonic = "trend brush chronic chuckle subway kitten diet task east monster come mouse";
+var mnemonic = "debate walk can van when mammal wrong spy jealous chest wink pen";

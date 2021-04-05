@@ -1,1 +1,1 @@
-var mnemonic = "casino edit document lava subway design indoor quick quantum husband member category";
+var mnemonic = "main smoke rich empower explain night add truck arrest drill energy oxygen";

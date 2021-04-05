@@ -1,1 +1,1 @@
-var mnemonic = "rescue quick glare liberty mention absorb advance pioneer scrap clerk ice news";
+var mnemonic = "recycle wish equal tunnel image gospel economy exile turn wrap clump jeans";

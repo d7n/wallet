@@ -1,1 +1,1 @@
-var mnemonic = "fiscal orbit easily reduce floor multiply someone pair kitchen switch tissue cabin";
+var mnemonic = "depth increase assume siege marine problem another improve pause link record warm";

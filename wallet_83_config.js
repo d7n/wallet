@@ -1,1 +1,1 @@
-var mnemonic = "ridge token fitness slight thought fame noodle wisdom hybrid arrow above sunset";
+var mnemonic = "media before confirm amount bar sing crush combine drip cigar oak all";

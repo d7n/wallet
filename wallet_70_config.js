@@ -1,1 +1,1 @@
-var mnemonic = "pill input critic pink suit best day muscle curious craft annual mercy";
+var mnemonic = "bag phone spy rally beef smile hire fruit error kidney roast hood";

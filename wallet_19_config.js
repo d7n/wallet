@@ -1,1 +1,1 @@
-var mnemonic = "script afford foot east height super lion hamster boring share outside fantasy";
+var mnemonic = "volcano book copy betray wheel innocent supreme erode pole asset inmate radio";

@@ -1,1 +1,1 @@
-var mnemonic = "trust twelve solve flower snow little drastic limb spend essay unique aim";
+var mnemonic = "pause dilemma dumb student apple survey depart crush glimpse destroy faculty change";

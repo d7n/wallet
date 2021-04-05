@@ -1,1 +1,1 @@
-var mnemonic = "sibling current aware above age idea zero bargain motor require gadget cluster";
+var mnemonic = "rebel script mad once purchase cement dice dial donor decline dash space";

@@ -1,1 +1,1 @@
-var mnemonic = "feature valve spike alpha scheme lunch unique mom also timber wear include";
+var mnemonic = "milk fame nature orient donkey position fancy used battle pull elite adapt";

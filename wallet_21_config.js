@@ -1,1 +1,1 @@
-var mnemonic = "end earth believe brand sense napkin spring broken enter home invest field";
+var mnemonic = "gesture ugly gravity betray typical soccer width banner wealth clay scorpion asset";

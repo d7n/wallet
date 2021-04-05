@@ -1,1 +1,1 @@
-var mnemonic = "horror rabbit what pottery garden uncover indicate lemon trap able sell jar";
+var mnemonic = "pencil over critic shallow erupt render shaft thank position unfold hen type";

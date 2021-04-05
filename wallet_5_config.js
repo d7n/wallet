@@ -1,1 +1,1 @@
-var mnemonic = "mansion dinner custom among card vital cable arena tip glide nuclear moon";
+var mnemonic = "burden must own about spider slogan silent riot present wing bonus melt";

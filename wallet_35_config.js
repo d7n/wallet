@@ -1,1 +1,1 @@
-var mnemonic = "other follow spoon point album gain found festival mom liquid category mass";
+var mnemonic = "milk demand surround dress liberty syrup december erase jar future mass crew";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble salad fall cereal mule upgrade drum page weekend tragic mention enforce";
+var mnemonic = "doll year angry replace rapid siren good spend unhappy electric salmon bounce";

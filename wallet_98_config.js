@@ -1,1 +1,1 @@
-var mnemonic = "pear into mule fluid public siren flash cook brave awkward barely brand";
+var mnemonic = "genre zero expire sight daring venue review small letter stamp glow leaf";

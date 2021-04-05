@@ -1,1 +1,1 @@
-var mnemonic = "power cruise minimum brass adapt flush fruit country kingdom citizen session tornado";
+var mnemonic = "patient jeans lyrics melody search february citizen dizzy energy anchor negative friend";

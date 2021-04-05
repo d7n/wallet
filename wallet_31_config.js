@@ -1,1 +1,1 @@
-var mnemonic = "devote blanket major enforce primary copper title people clever beauty disorder ritual";
+var mnemonic = "remove explain survey shadow inner royal tree dance analyst thank tobacco truth";

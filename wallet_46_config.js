@@ -1,1 +1,1 @@
-var mnemonic = "much avocado angle stem canal rough avoid hire seed leader access tomato";
+var mnemonic = "grocery task defy blush broken abstract rally gloom solve mule elevator cement";

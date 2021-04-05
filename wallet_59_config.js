@@ -1,1 +1,1 @@
-var mnemonic = "wash evidence script voyage eternal jazz often top quiz cry pause electric";
+var mnemonic = "type online traffic whisper hour post enemy coral prepare item there confirm";

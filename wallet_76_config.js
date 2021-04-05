@@ -1,1 +1,1 @@
-var mnemonic = "glide depend actual lab visa diesel minute kangaroo cube shadow anger inmate";
+var mnemonic = "leopard oblige account girl luxury uncover divorce envelope actress measure coin ocean";

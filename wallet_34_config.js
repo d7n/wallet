@@ -1,1 +1,1 @@
-var mnemonic = "better track dry circle similar quit hawk time prefer vivid taste palace";
+var mnemonic = "riot mushroom bulk borrow march regular east deliver sound abandon seed amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "moment rubber problem buyer entire cause call genuine urban slight figure weasel";
+var mnemonic = "sick stool rare elephant asset fork goat involve before object snake horse";

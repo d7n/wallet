@@ -1,1 +1,1 @@
-var mnemonic = "comic liquid list warfare trophy airport awful render vocal weekend wonder party";
+var mnemonic = "expect soul fever fun gloom ripple morning broken day next gravity jaguar";

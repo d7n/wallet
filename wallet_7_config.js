@@ -1,1 +1,1 @@
-var mnemonic = "soccer riot network image account census cave clean alter argue tumble area";
+var mnemonic = "decrease sadness height portion pistol isolate thought actual outside blind trash vapor";

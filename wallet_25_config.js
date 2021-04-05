@@ -1,1 +1,1 @@
-var mnemonic = "era palm odor spider toss monster chair lens destroy victory party estate";
+var mnemonic = "human clock grab solve mirror dawn chronic sorry cattle sorry live skull";

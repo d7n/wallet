@@ -1,1 +1,1 @@
-var mnemonic = "clean olympic paper pupil volume quarter verb layer relax turtle alter riot";
+var mnemonic = "note liberty chaos act unveil sheriff box mail little celery veteran short";

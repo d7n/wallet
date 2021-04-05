@@ -1,1 +1,1 @@
-var mnemonic = "behind modify young silly pink label grid cream leader rice stage guitar";
+var mnemonic = "again century shine broom solve floor sort replace term expect tiny believe";

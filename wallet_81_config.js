@@ -1,1 +1,1 @@
-var mnemonic = "cabbage zebra lizard brick ethics beyond damp speak else outside subject claw";
+var mnemonic = "whip lucky maple subject mass fruit monkey empty prize ceiling car language";

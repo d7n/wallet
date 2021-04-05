@@ -1,1 +1,1 @@
-var mnemonic = "surge priority panther situate entry nothing invest canoe local funny shock settle";
+var mnemonic = "market rice canal tiger list armor giant camera decrease defy narrow often";

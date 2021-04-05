@@ -1,1 +1,1 @@
-var mnemonic = "spawn car shove weasel wasp basket include gravity garbage bargain hunt tomato";
+var mnemonic = "leader symbol hub fat mask concert shoe patrol uphold surge female during";

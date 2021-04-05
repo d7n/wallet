@@ -1,1 +1,1 @@
-var mnemonic = "decline knife cycle treat champion exit volume exact chair voyage mule clog";
+var mnemonic = "pig people rule basic slow room slab correct capable weather bring adjust";

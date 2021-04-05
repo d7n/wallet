@@ -1,1 +1,1 @@
-var mnemonic = "broccoli ramp patrol resemble citizen cute ceiling ski twist situate sport domain";
+var mnemonic = "pelican liquid judge faint orphan fame wine identify situate kiwi solid cube";

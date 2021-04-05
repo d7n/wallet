@@ -1,1 +1,1 @@
-var mnemonic = "divert resemble grid tell voyage vital connect fury enemy drive lyrics trophy";
+var mnemonic = "please edit tennis void coffee lawsuit state hat exclude shed input owner";

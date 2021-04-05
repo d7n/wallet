@@ -1,1 +1,1 @@
-var mnemonic = "aspect betray expand resource change aim brick snake gentle vacuum mystery pyramid";
+var mnemonic = "inform test smoke acquire liquid panda light lesson price art tray street";

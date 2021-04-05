@@ -1,1 +1,1 @@
-var mnemonic = "three mushroom apple dawn escape always indoor public advice wealth hunt gasp";
+var mnemonic = "luggage catalog fold mesh obey pumpkin fragile annual fitness settle jar radio";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology debris fade oxygen vocal leg report crazy ordinary mind category beauty";
+var mnemonic = "report language solve tank figure dentist ghost catalog foot virus favorite bag";

@@ -1,1 +1,1 @@
-var mnemonic = "supply pig inherit until favorite clump team remain isolate long pottery upon";
+var mnemonic = "example flag goddess large stick aware leisure frown early airport million there";

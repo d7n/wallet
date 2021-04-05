@@ -1,1 +1,1 @@
-var mnemonic = "arrow shaft symptom input physical kid safe slot second learn bone replace";
+var mnemonic = "rabbit desk turtle sample chat eagle hire ready entry tourist result basket";

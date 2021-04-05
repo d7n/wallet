@@ -1,1 +1,1 @@
-var mnemonic = "project idle attack tray dry job crane noise brand supply minute travel";
+var mnemonic = "rescue upgrade frame design mass lawn stairs simple blind view whisper basic";

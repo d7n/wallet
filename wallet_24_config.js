@@ -1,1 +1,1 @@
-var mnemonic = "suffer bachelor squeeze peasant suit charge young mammal moon sound oxygen leader";
+var mnemonic = "caught lumber shadow sock stomach mad radio tired quiz palace thought peasant";

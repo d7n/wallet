@@ -1,1 +1,1 @@
-var mnemonic = "hurt sort shift vivid loud liberty plastic define involve outer history hawk";
+var mnemonic = "fee tissue alarm faith embody critic write hedgehog doll ensure crisp student";

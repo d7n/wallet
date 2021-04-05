@@ -1,1 +1,1 @@
-var mnemonic = "brass spare infant dance correct power access space repeat ozone chicken before";
+var mnemonic = "lunar ridge soldier situate reopen route pottery off soul special phone nurse";

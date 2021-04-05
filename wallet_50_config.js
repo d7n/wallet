@@ -1,1 +1,1 @@
-var mnemonic = "cart forum asset unaware portion domain fever exercise observe frequent mercy visa";
+var mnemonic = "pyramid divert army surprise laundry destroy umbrella cruel mean bag panel news";

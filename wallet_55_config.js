@@ -1,1 +1,1 @@
-var mnemonic = "girl chalk identify hungry rib derive grape tenant between practice taste today";
+var mnemonic = "orange rough twist talent photo soul erosion wave solution quantum begin snap";

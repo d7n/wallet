@@ -1,1 +1,1 @@
-var mnemonic = "novel fee lumber abstract square code galaxy spy achieve original crater circle";
+var mnemonic = "skin scissors lobster shallow metal silk liar dolphin danger vivid short lunch";

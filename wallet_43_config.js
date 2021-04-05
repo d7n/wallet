@@ -1,1 +1,1 @@
-var mnemonic = "limb celery any town sample track wealth agent expect govern rain client";
+var mnemonic = "spare public soda divide only earn render describe pool acquire mango orange";

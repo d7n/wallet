@@ -1,1 +1,1 @@
-var mnemonic = "drift tragic hill certain drop army you rural faith gospel man sponsor";
+var mnemonic = "olive pear gym tuna cactus album tomorrow brick unusual drama expose much";

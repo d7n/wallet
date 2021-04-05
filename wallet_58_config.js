@@ -1,1 +1,1 @@
-var mnemonic = "adult chase auto climb minor oblige loop rebuild power argue vicious agree";
+var mnemonic = "wagon head ivory unveil wash outdoor around decline light ten oyster tube";

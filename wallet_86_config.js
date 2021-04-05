@@ -1,1 +1,1 @@
-var mnemonic = "chef gloom swim wreck toast liar drop source arrange document improve protect";
+var mnemonic = "toss planet pulse delay unfold jeans display soccer seven talk lawn relax";

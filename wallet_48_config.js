@@ -1,1 +1,1 @@
-var mnemonic = "priority flip phone soon nothing army team cage raven camp museum salt";
+var mnemonic = "glory pattern void never crowd obtain ranch ladder rural afraid lemon trigger";

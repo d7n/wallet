@@ -1,1 +1,1 @@
-var mnemonic = "degree lecture buzz fix tone perfect avocado quality ability situate fame worth";
+var mnemonic = "tattoo glare legend view sniff exile nose drop grace fringe abstract apology";

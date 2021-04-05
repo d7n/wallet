@@ -1,1 +1,1 @@
-var mnemonic = "audit suit era video dance replace chest earn earth cotton escape exhibit";
+var mnemonic = "health announce together lab rapid hub service spider valve vibrant much gift";

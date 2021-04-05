@@ -1,1 +1,1 @@
-var mnemonic = "click illegal valve trap fortune possible clever wheel snap emotion link decide";
+var mnemonic = "peasant search notice mechanic secret lounge pitch until push direct flight domain";

@@ -1,1 +1,1 @@
-var mnemonic = "sign blame obvious devote purity vapor cruise kangaroo design stay melt magic";
+var mnemonic = "leave slot hole chef wait surface fun street provide divert acoustic success";

@@ -1,1 +1,1 @@
-var mnemonic = "race energy science argue fruit cloth issue move vote easily ostrich cup";
+var mnemonic = "chicken glance select benefit doll kitten find tongue churn grape push chuckle";

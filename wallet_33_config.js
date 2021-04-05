@@ -1,1 +1,1 @@
-var mnemonic = "cannon mixed gasp dress suspect strike mountain require moon moral grain luxury";
+var mnemonic = "twelve suspect rate title banner maximum vessel source fiscal degree busy across";

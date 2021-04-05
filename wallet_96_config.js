@@ -1,1 +1,1 @@
-var mnemonic = "work slow gaze garment mixed other tomorrow nut earn solar true poet";
+var mnemonic = "replace two tunnel solid doctor swear embody kiss today run hip fox";

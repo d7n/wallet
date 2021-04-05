@@ -1,1 +1,1 @@
-var mnemonic = "insect raccoon charge seek caught struggle spawn force soup volcano water cover";
+var mnemonic = "cart fan vast arena leaf bounce ginger useless snack clump beyond busy";

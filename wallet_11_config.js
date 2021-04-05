@@ -1,1 +1,1 @@
-var mnemonic = "spike amazing wrestle laptop click clutch hub twist monkey deer catch carpet";
+var mnemonic = "chapter enough among solve tribe nice gaze casino shaft slow vehicle ankle";

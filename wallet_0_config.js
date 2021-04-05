@@ -1,1 +1,1 @@
-var mnemonic = "hybrid opinion issue release material uncle doll neither casual candy across essence";
+var mnemonic = "hockey voyage leaf green metal more escape fence ethics smoke deal shed";
