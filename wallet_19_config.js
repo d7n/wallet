@@ -1,1 +1,1 @@
-var mnemonic = "decrease monster helmet label primary pole harbor marine cup monitor slush paddle";
+var mnemonic = "rhythm thunder blast club cost shoulder meadow breeze control delay life expose";

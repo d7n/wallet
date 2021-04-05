@@ -1,1 +1,1 @@
-var mnemonic = "cereal mass pig noble lonely poet miracle dilemma cement gasp sad urge";
+var mnemonic = "immune weasel sport creek admit become title powder current shock vicious dizzy";

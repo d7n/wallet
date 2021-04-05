@@ -1,1 +1,1 @@
-var mnemonic = "vibrant blood hard off museum ring weapon glad squirrel clock prison badge";
+var mnemonic = "feel siren scan beauty small state bulk mirror phone scheme galaxy swear";

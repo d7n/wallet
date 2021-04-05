@@ -1,1 +1,1 @@
-var mnemonic = "manage soldier soccer bubble crush frost motor crumble wish flee aerobic cost";
+var mnemonic = "leisure duty math obvious tube sell fiscal drink swallow vehicle book essence";

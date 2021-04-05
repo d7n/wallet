@@ -1,1 +1,1 @@
-var mnemonic = "card ordinary jewel oval ready index sphere predict frame nothing skull pistol";
+var mnemonic = "cannon reunion reward tent pulp melt animal shaft panther legend run token";

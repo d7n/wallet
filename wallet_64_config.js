@@ -1,1 +1,1 @@
-var mnemonic = "veteran lava april smart tattoo boring canal orbit roast lizard limit banana";
+var mnemonic = "romance nest armed rapid monitor swing person social alien expose identify couple";

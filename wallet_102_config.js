@@ -1,1 +1,1 @@
-var mnemonic = "sustain scare buddy useless mule suspect payment require door aware garlic salute";
+var mnemonic = "wonder learn phrase excite vacuum rose globe merge purity clip sick pyramid";

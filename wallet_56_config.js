@@ -1,1 +1,1 @@
-var mnemonic = "iron brick room solid divide beauty estate seek bacon turn mention reveal";
+var mnemonic = "humble gallery tackle gain spice route tiny guilt crush lawsuit hundred degree";

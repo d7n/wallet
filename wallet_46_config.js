@@ -1,1 +1,1 @@
-var mnemonic = "dose search rib moment toy fame gather doll bullet benefit snow skin";
+var mnemonic = "pizza erase anxiety mom region amount episode differ volume wise property scatter";

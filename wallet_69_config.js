@@ -1,1 +1,1 @@
-var mnemonic = "tube priority rule post jungle mix universe gift salmon athlete blind theme";
+var mnemonic = "lucky intact angry forward present replace volume word erosion laptop axis poet";

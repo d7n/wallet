@@ -1,1 +1,1 @@
-var mnemonic = "inch patrol laugh april aim alcohol knee drop black front cheese pulse";
+var mnemonic = "attract else rival print inhale another strike confirm letter sting night transfer";

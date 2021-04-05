@@ -1,1 +1,1 @@
-var mnemonic = "inch brass rally blood sing apple duck venture eagle vessel fancy worry";
+var mnemonic = "crush invite insect there grape ability analyst thing situate tortoise emerge renew";

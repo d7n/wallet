@@ -1,1 +1,1 @@
-var mnemonic = "exchange lizard electric one permit dose rack lift zebra crane print pen";
+var mnemonic = "flight pattern ring away embark unhappy visit penalty energy result pair zone";

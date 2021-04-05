@@ -1,1 +1,1 @@
-var mnemonic = "attract picnic crush afford illegal refuse permit nose young add garbage meadow";
+var mnemonic = "render army dog table sick genuine oxygen tunnel bulk walnut eye viable";

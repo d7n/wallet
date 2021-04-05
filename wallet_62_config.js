@@ -1,1 +1,1 @@
-var mnemonic = "gorilla rose kangaroo rotate promote emotion proud top path title topic choice";
+var mnemonic = "sell empower replace wave merge plastic tenant code cart night private bless";

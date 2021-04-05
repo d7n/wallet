@@ -1,1 +1,1 @@
-var mnemonic = "you bronze put spike rotate evoke million romance focus crucial another butter";
+var mnemonic = "agent today access bargain eye story glow various eager naive action where";

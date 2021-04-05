@@ -1,1 +1,1 @@
-var mnemonic = "dose horn donkey rent run hour siege embrace caught tuna potato audit";
+var mnemonic = "thank husband gasp damage connect near stool trap dinosaur bid actor frog";

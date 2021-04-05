@@ -1,1 +1,1 @@
-var mnemonic = "blossom surface pepper seven hawk clump label clever elevator near want delay";
+var mnemonic = "fluid nation basket already access crunch index build blouse quality tongue bargain";

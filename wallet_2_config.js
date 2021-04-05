@@ -1,1 +1,1 @@
-var mnemonic = "athlete sibling entire fame arch able tooth program road shoulder horn hub";
+var mnemonic = "bamboo solid cattle venue flag bicycle machine risk brick loop display capable";

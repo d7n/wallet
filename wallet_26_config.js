@@ -1,1 +1,1 @@
-var mnemonic = "celery dinosaur drum identify lion shed jacket say galaxy puzzle sunset book";
+var mnemonic = "vendor hurdle useful helmet debris asthma horse uncover service verify suit bargain";

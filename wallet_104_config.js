@@ -1,1 +1,1 @@
-var mnemonic = "oblige walk lazy snow weekend portion fitness quote annual surge rack blush";
+var mnemonic = "zero model snap nature uphold busy priority small wing pass girl action";

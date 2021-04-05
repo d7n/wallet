@@ -1,1 +1,1 @@
-var mnemonic = "merge rack hamster foil moment repair heavy skull often angry mom idea";
+var mnemonic = "wasp subject language sort wave scout ritual gravity bulb trash charge into";

@@ -1,1 +1,1 @@
-var mnemonic = "search tomorrow buddy expire skate artwork afraid column antenna tenant walnut lucky";
+var mnemonic = "large private maze guess rely saddle fat hospital display join maze lion";

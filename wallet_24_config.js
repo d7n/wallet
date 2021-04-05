@@ -1,1 +1,1 @@
-var mnemonic = "fix argue auction repeat wall stage load bargain coconut inside cute empower";
+var mnemonic = "tooth produce push economy place airport moral fatigue rib short essay evil";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd song rate gadget film response lawn grief guide disorder resemble ask";
+var mnemonic = "whip yard stable nerve habit gift year sketch purchase nothing claim coral";

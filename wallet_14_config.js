@@ -1,1 +1,1 @@
-var mnemonic = "need fat tornado cushion verify bus deer toast unveil range female permit";
+var mnemonic = "forest sweet until forest security cloud flip swallow stumble just verb calm";

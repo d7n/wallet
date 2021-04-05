@@ -1,1 +1,1 @@
-var mnemonic = "refuse tape refuse security potato zebra lobster tell canvas echo hope ecology";
+var mnemonic = "crucial broken edge possible upper receive raccoon food crew kingdom peanut cruel";

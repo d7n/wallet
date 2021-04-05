@@ -1,1 +1,1 @@
-var mnemonic = "prefer pet nation used muffin diagram travel glad index candy bid festival";
+var mnemonic = "purchase tell artwork local sleep tooth pluck spirit valid define despair notice";

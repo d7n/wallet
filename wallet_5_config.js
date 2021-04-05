@@ -1,1 +1,1 @@
-var mnemonic = "fall cousin ensure icon scrap actor green tank pull leisure october night";
+var mnemonic = "figure twice region car skull open boy unknown kingdom popular nut stumble";

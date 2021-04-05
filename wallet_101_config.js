@@ -1,1 +1,1 @@
-var mnemonic = "gift warrior issue trial expire suffer message erupt hollow grocery conduct grow";
+var mnemonic = "enrich middle category relief tower put dove asthma pioneer glue dove shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt enable bottom label glove retire force material unknown soft when decrease";
+var mnemonic = "auto patient eyebrow patch initial nose gospel hospital miss jazz promote life";

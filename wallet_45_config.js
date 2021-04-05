@@ -1,1 +1,1 @@
-var mnemonic = "member combine over leader gate fetch disagree more cute tiny couch denial";
+var mnemonic = "room message olive disorder ostrich mule cement add forward decrease achieve stamp";

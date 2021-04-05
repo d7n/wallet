@@ -1,1 +1,1 @@
-var mnemonic = "critic position spike stool satoshi begin come maple mushroom space tip kid";
+var mnemonic = "fly visual rent north message eight twist web garden sea host permit";

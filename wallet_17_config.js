@@ -1,1 +1,1 @@
-var mnemonic = "pipe mother sound mercy gym select early year pause artefact rescue conduct";
+var mnemonic = "chaos toward seed ready torch charge like puppy apart gorilla answer hold";

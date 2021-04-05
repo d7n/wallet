@@ -1,1 +1,1 @@
-var mnemonic = "audit chat sunny enjoy egg magnet comfort wild announce barely dish hen";
+var mnemonic = "laundry clock arena forest dust danger online spice result shoot solid scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle glance void guide divert extend virus hub donor pear resist stairs";
+var mnemonic = "tonight crazy scorpion master hammer clever later wrist choice bird front vicious";

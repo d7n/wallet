@@ -1,1 +1,1 @@
-var mnemonic = "plate surprise dry deer cupboard remember faint fantasy guitar bulb push dizzy";
+var mnemonic = "visit comfort boil boy install loud similar sample strategy prefer hospital ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "glide undo genius jealous wrestle wheel chicken rich essay guilt vacant camera";
+var mnemonic = "wagon zebra decline gown fence pluck rain shoulder alter quantum release opinion";

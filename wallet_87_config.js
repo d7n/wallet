@@ -1,1 +1,1 @@
-var mnemonic = "fortune lumber unfair wrong nuclear vital refuse purse initial end peasant baby";
+var mnemonic = "bundle skill penalty village hello match energy execute hand drive ahead alley";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter myself purse option deal mesh shop congress wreck vault portion chair";
+var mnemonic = "keen three strong fever globe slice source final away worry fan thing";

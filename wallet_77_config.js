@@ -1,1 +1,1 @@
-var mnemonic = "wet change select runway rival talk trophy connect health pencil depth safe";
+var mnemonic = "about trap fog twelve image spin praise morning lazy segment believe limit";

@@ -1,1 +1,1 @@
-var mnemonic = "praise obtain hope that thank eight submit easy common view caught flip";
+var mnemonic = "biology actor crucial modify enlist nurse during agree language warm ripple pelican";

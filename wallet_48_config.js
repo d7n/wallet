@@ -1,1 +1,1 @@
-var mnemonic = "spare bread win bridge corn curve nest pulse liquid hunt clap else";
+var mnemonic = "scrub tower party arm valve sort topic seat brush identify scissors warm";

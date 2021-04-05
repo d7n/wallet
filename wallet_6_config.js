@@ -1,1 +1,1 @@
-var mnemonic = "exhaust morning giraffe text jacket negative rubber honey shed feed obvious effort";
+var mnemonic = "novel promote basic interest web fold shuffle struggle interest click disagree odor";

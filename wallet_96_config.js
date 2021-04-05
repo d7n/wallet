@@ -1,1 +1,1 @@
-var mnemonic = "own garment wild attitude they crazy voyage load clever shadow helmet rug";
+var mnemonic = "detail clog swap sure fitness spice hammer inspire eager myth excite gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery genuine gravity nominee radar pilot reunion claim orphan finger that jungle";
+var mnemonic = "rally muffin convince rose emotion capital gap glare oppose lake razor morning";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle enter piano leg title aim craft apology weather give off large";
+var mnemonic = "other sun dog arm accident youth impact ask ribbon such air forget";

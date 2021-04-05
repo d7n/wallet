@@ -1,1 +1,1 @@
-var mnemonic = "awful away under silly valid honey subway text aisle globe bus attract";
+var mnemonic = "brief extra helmet mask prize much lizard few crouch spring crystal poverty";

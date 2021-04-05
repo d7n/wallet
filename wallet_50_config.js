@@ -1,1 +1,1 @@
-var mnemonic = "tube clown army legend time convince favorite ripple zero kitchen comfort goat";
+var mnemonic = "jacket puzzle mutual effort twice nerve spice orient hungry crater coyote enrich";

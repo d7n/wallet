@@ -1,1 +1,1 @@
-var mnemonic = "satoshi pyramid orbit salon pelican cost gate trophy notice staff company test";
+var mnemonic = "intact layer mixture shuffle winner gown business pull heavy moon license high";

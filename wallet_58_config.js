@@ -1,1 +1,1 @@
-var mnemonic = "alone long lounge grit language teach run gadget mule poem poet slender";
+var mnemonic = "spoon track around stadium veteran clever hour cook daughter defy fetch draw";

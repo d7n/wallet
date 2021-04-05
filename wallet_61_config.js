@@ -1,1 +1,1 @@
-var mnemonic = "noodle height tiny rose copper vicious sun hire skull stairs club visit";
+var mnemonic = "alert concert copper tell duty patrol solution once result bar amateur used";

@@ -1,1 +1,1 @@
-var mnemonic = "fly leaf win beauty whisper basket long adapt hello armed rapid arctic";
+var mnemonic = "robust million genre truly puzzle hunt credit dinosaur hire gain quarter target";

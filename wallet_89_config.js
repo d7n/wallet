@@ -1,1 +1,1 @@
-var mnemonic = "sword crucial rescue blouse boil recipe cloth sell supply law melody coil";
+var mnemonic = "rubber electric advance smart knock hotel report grape circle vast wide project";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm blade feed bright flock team stage behind oak fault hole fire";
+var mnemonic = "tank vacuum jump call walk good crack stadium cliff desk eye barely";

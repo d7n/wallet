@@ -1,1 +1,1 @@
-var mnemonic = "merit maid myself stomach juice agent actress pitch pear tone betray mountain";
+var mnemonic = "pen wisdom sing peasant brown clerk clinic inmate disorder truck false index";

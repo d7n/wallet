@@ -1,1 +1,1 @@
-var mnemonic = "rather elbow have job member sport expire cloud board coin embark cargo";
+var mnemonic = "review empty name woman buddy state alpha guilt script dove project whale";

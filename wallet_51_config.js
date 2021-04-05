@@ -1,1 +1,1 @@
-var mnemonic = "beyond gown brush legal involve public snow chicken exotic wire identify genius";
+var mnemonic = "artwork hockey mushroom sweet once outer interest erode will elite search wife";

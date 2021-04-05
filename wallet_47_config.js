@@ -1,1 +1,1 @@
-var mnemonic = "thunder gadget erode split prevent sample range capital tower table family unfold";
+var mnemonic = "stone abstract lounge park badge culture lab foot leopard sentence only fiscal";

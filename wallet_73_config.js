@@ -1,1 +1,1 @@
-var mnemonic = "palace tornado toss you member live huge rapid ready custom afraid quarter";
+var mnemonic = "dash marble ugly jewel crumble stand unveil biology kind material drama over";

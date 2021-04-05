@@ -1,1 +1,1 @@
-var mnemonic = "country today price above swing now aspect theme man kingdom stage mask";
+var mnemonic = "narrow hip muffin tonight laugh drama hat agent napkin neck install shop";

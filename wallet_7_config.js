@@ -1,1 +1,1 @@
-var mnemonic = "ugly gate bless adapt will slot bulb east ivory decrease joy bounce";
+var mnemonic = "peace tenant ripple win vocal chat protect agree sting climb doll novel";

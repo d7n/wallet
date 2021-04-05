@@ -1,1 +1,1 @@
-var mnemonic = "firm rule town toe client oxygen fog vast hub sentence gloom never";
+var mnemonic = "flip asthma robust reflect orchard kitchen pupil cage inform bracket stool spot";

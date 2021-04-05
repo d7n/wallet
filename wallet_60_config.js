@@ -1,1 +1,1 @@
-var mnemonic = "rough derive jewel beach warrior manage choose aim private grain february fold";
+var mnemonic = "cram neutral dust situate antique donkey theme brick item brown unfair buyer";

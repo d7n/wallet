@@ -1,1 +1,1 @@
-var mnemonic = "discover foster make hurry gain famous jealous taxi soul silver solid drill";
+var mnemonic = "choice sure repeat section fury whale help moral bridge roof cart bless";

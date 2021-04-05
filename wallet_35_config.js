@@ -1,1 +1,1 @@
-var mnemonic = "merry leopard glimpse elder panther tide program current possible travel eagle motor";
+var mnemonic = "kitten jazz glove ocean often reject change report route fruit dust festival";

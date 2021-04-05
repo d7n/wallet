@@ -1,1 +1,1 @@
-var mnemonic = "afraid angry fade lawn elevator bicycle still swamp purse attack rotate security";
+var mnemonic = "fitness goat predict torch eager black early tattoo jealous divorce shadow humble";

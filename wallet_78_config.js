@@ -1,1 +1,1 @@
-var mnemonic = "home wonder hawk next polar push cave sound rib float recipe zone";
+var mnemonic = "share east pet despair burst slide sheriff parade floor gauge skin affair";

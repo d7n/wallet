@@ -1,1 +1,1 @@
-var mnemonic = "effort slush salt muffin able wreck season wonder inner huge fee neutral";
+var mnemonic = "auto when salad alert brand random panther cancel village innocent lift toy";

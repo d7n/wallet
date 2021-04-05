@@ -1,1 +1,1 @@
-var mnemonic = "explain stove device neither west jar cool ankle off cinnamon blush fold";
+var mnemonic = "never wheel laugh join gasp special index vibrant toddler broccoli tell swamp";

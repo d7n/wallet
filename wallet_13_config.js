@@ -1,1 +1,1 @@
-var mnemonic = "snake harvest source deliver mystery hospital extra pitch stamp vanish used excuse";
+var mnemonic = "dust moon practice bean raise puppy host school morning tackle ridge dentist";

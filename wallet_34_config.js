@@ -1,1 +1,1 @@
-var mnemonic = "letter vicious conduct tongue slide bomb worry slide gospel decide refuse fringe";
+var mnemonic = "transfer certain sword awake extra brave life melody mistake rebel arena leopard";

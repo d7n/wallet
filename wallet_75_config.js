@@ -1,1 +1,1 @@
-var mnemonic = "reform crouch final dutch draft because fix skirt aisle property spider image";
+var mnemonic = "express prefer write seek feel rail absorb arrest gallery nephew rough alpha";

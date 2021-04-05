@@ -1,1 +1,1 @@
-var mnemonic = "absent left enact police solution shadow velvet runway key visual plug endless";
+var mnemonic = "note love embrace duck asset security whale banner crowd trumpet resemble install";

@@ -1,1 +1,1 @@
-var mnemonic = "noble frame typical tomato neither alley quiz gentle strike reason captain ugly";
+var mnemonic = "express change neutral scare check identify pupil rice absorb dish upper salute";

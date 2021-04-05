@@ -1,1 +1,1 @@
-var mnemonic = "twelve donor market practice grow this shrug oyster apple predict company adapt";
+var mnemonic = "unable split trial cement empower dizzy blossom style crush tube junior wish";

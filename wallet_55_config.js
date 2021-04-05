@@ -1,1 +1,1 @@
-var mnemonic = "evoke thumb step furnace topple hover just sun guilt evidence inner final";
+var mnemonic = "test ring illegal liberty gown avoid lens vanish runway talk pupil draw";

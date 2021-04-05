@@ -1,1 +1,1 @@
-var mnemonic = "annual promote priority barely another tunnel point peasant velvet click sort sure";
+var mnemonic = "strategy ship shock slight mango gather april crucial tide rude tail parent";

@@ -1,1 +1,1 @@
-var mnemonic = "sad easy grief game lunar demise rare make slice debate crack twice";
+var mnemonic = "pact praise grocery dolphin climb ketchup name client destroy hire ozone trade";

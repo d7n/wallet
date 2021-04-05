@@ -1,1 +1,1 @@
-var mnemonic = "decade force picture solid birth benefit wave butter buzz food hidden rib";
+var mnemonic = "asset acquire keep dirt quality park cliff ten then habit skin arch";

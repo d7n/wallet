@@ -1,1 +1,1 @@
-var mnemonic = "reject clinic roast globe knock egg share earth step people sunny short";
+var mnemonic = "squeeze home team eyebrow change audit evidence logic finish shadow shed float";

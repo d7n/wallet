@@ -1,1 +1,1 @@
-var mnemonic = "release trade scale private lunch pact party quick pudding seek obey movie";
+var mnemonic = "success space pipe found model forward black ability detail crouch ill vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "evil trust anger royal deliver actor episode roof juice meadow sing special";
+var mnemonic = "slice street unit pink cool box property minimum forward kit small cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "sad tower ticket quarter feel before pond volume guitar piece replace universe";
+var mnemonic = "repair disagree fold shine split vital frame equal home art caution winter";

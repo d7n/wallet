@@ -1,1 +1,1 @@
-var mnemonic = "devote ride seed oxygen chicken grab indoor price dose year brother gold";
+var mnemonic = "rib gravity empower mistake cause enrich junior bind peace cart agent wrestle";

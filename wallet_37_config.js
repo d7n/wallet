@@ -1,1 +1,1 @@
-var mnemonic = "merit adapt caution diesel alpha town village deputy approve execute orange endorse";
+var mnemonic = "cotton police author observe summer envelope deal dance alley trigger pretty scan";

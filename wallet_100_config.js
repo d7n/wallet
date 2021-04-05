@@ -1,1 +1,1 @@
-var mnemonic = "tonight talent february blast health phone cupboard soft skate slim rival world";
+var mnemonic = "warfare nature unfair gossip lobster city noodle best brass huge matter admit";

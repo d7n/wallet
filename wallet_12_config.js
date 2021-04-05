@@ -1,1 +1,1 @@
-var mnemonic = "rain bubble naive witness apology expire action cousin century rice tooth twelve";
+var mnemonic = "course race cheese wall apple addict exit wall valley guilt much render";

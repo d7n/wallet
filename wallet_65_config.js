@@ -1,1 +1,1 @@
-var mnemonic = "copper awkward bundle donate orient tool ensure spare brick blast wealth account";
+var mnemonic = "rate rebuild rich suffer icon fine retreat board tower duty finger leisure";

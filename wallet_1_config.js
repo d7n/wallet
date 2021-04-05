@@ -1,1 +1,1 @@
-var mnemonic = "off scene topic index select example auto emerge spirit pole plug mask";
+var mnemonic = "flip gain defense sport dish patient assume brush obscure cement surge quality";
