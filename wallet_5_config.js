@@ -1,1 +1,1 @@
-var mnemonic = "memory occur mention animal later spawn rigid imitate tail present orchard present";
+var mnemonic = "saddle web toy casual mad credit suit humble blur salute weapon develop";

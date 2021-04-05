@@ -1,1 +1,1 @@
-var mnemonic = "believe foot illegal paddle amount palace nerve sing repeat car measure bag";
+var mnemonic = "label defy victory saddle gesture water subject hill mammal spatial team flee";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi pipe riot they guitar neither can record history country bag false";
+var mnemonic = "dance drill thank purchase swift actress dolphin cement frozen cluster lend bounce";

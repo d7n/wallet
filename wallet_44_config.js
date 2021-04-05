@@ -1,1 +1,1 @@
-var mnemonic = "buddy sock sure defy oblige test zebra favorite clock mirror essence earth";
+var mnemonic = "canoe piano price limit educate alter easy reason steak also reveal nothing";

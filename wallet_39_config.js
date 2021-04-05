@@ -1,1 +1,1 @@
-var mnemonic = "oppose insect buzz mix legend weapon prepare shoot forward bus table fatigue";
+var mnemonic = "clap slight spray mouse sail rotate endless diesel detect more hill twist";

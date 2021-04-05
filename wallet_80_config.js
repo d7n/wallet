@@ -1,1 +1,1 @@
-var mnemonic = "pill comfort science dog reopen grace where mom protect rebel stage essay";
+var mnemonic = "mammal inflict clump grow rival rhythm disorder judge avocado dwarf fiscal entire";

@@ -1,1 +1,1 @@
-var mnemonic = "city cave team limit ghost virtual spice pelican cactus refuse rival kangaroo";
+var mnemonic = "stem shift final beach balance shove promote family design answer palm monitor";

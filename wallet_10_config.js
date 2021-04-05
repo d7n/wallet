@@ -1,1 +1,1 @@
-var mnemonic = "hello monkey giggle please canal bind arrow peanut giant topple firm sniff";
+var mnemonic = "pause tree face link vapor loan base month nice road midnight typical";

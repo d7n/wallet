@@ -1,1 +1,1 @@
-var mnemonic = "option twelve reform submit aunt cost eight clinic beyond census picnic muscle";
+var mnemonic = "zebra rhythm foster cattle horror federal brother addict garage group hover trouble";

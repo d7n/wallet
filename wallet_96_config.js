@@ -1,1 +1,1 @@
-var mnemonic = "game adapt kind clog fuel hamster category congress index oak blur inmate";
+var mnemonic = "normal hybrid type mixture want scorpion frequent barely chair float banana stone";

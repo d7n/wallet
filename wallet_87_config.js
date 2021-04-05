@@ -1,1 +1,1 @@
-var mnemonic = "initial cannon high genuine burger amount evidence split blur deposit gap gas";
+var mnemonic = "cream tenant leisure always snack slam hollow apology worry step nature visa";

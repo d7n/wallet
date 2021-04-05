@@ -1,1 +1,1 @@
-var mnemonic = "essence doctor explain position treat theory chair very there around around topic";
+var mnemonic = "close arctic salon copper chest cruel educate heart super news cage border";

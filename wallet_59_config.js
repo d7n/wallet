@@ -1,1 +1,1 @@
-var mnemonic = "resource scale rabbit way brother scissors battle woman promote gold sound tennis";
+var mnemonic = "south sign cigar buddy parent green test invest road agent paddle rice";

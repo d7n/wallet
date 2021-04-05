@@ -1,1 +1,1 @@
-var mnemonic = "begin balance clerk more bunker choice enable over sad drill shine stock";
+var mnemonic = "vacant latin melody allow system one fly bleak dinner test delay trouble";

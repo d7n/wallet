@@ -1,1 +1,1 @@
-var mnemonic = "dragon old icon drift scan share icon flag pave parade appear excite";
+var mnemonic = "dove bunker either myself coconut boost jealous coil wood shallow situate filter";

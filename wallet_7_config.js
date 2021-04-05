@@ -1,1 +1,1 @@
-var mnemonic = "camp wing tomorrow virtual dove grass job satisfy panel raven organ photo";
+var mnemonic = "engine cereal document toilet beach expand captain subway despair ski loyal pony";

@@ -1,1 +1,1 @@
-var mnemonic = "keep current item net rack develop moment ahead divert reunion aspect build";
+var mnemonic = "gaze cricket just era glow bottom skull guard coast gossip sphere match";

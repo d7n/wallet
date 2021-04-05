@@ -1,1 +1,1 @@
-var mnemonic = "topic assault lift helmet daughter trim add lunch bike betray increase chase";
+var mnemonic = "company rural area chase family develop ability oven guess close habit walnut";

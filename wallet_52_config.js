@@ -1,1 +1,1 @@
-var mnemonic = "cherry slice shuffle net shoot economy capable walnut across ahead stairs inflict";
+var mnemonic = "exchange leisure barrel east sense grass excess alarm monkey live this fence";

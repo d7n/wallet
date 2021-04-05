@@ -1,1 +1,1 @@
-var mnemonic = "can topple stock wisdom ostrich opinion maple foot hurry inform couch post";
+var mnemonic = "ethics olive develop film regular hope play syrup meat example climb reveal";

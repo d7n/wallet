@@ -1,1 +1,1 @@
-var mnemonic = "party attract leopard rapid identify bicycle census inquiry salad faith surge federal";
+var mnemonic = "genius rubber corn virus avoid genuine language sight human cat hurdle auction";

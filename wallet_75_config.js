@@ -1,1 +1,1 @@
-var mnemonic = "decide hungry dance knock strategy robust face news slice vendor exile run";
+var mnemonic = "hire drive license hair lizard state music clutch decline school december prepare";

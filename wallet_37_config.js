@@ -1,1 +1,1 @@
-var mnemonic = "loop never decide wheel company bread tennis token gallery lady mom battle";
+var mnemonic = "wreck shove month hungry daring they style zero coin once random sing";

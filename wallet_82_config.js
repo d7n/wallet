@@ -1,1 +1,1 @@
-var mnemonic = "congress know resist wine repair scene dust era december hedgehog crash bacon";
+var mnemonic = "whisper invest laundry casual owner punch note often marriage tongue recipe mixed";

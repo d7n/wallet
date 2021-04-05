@@ -1,1 +1,1 @@
-var mnemonic = "crystal laptop script eagle paddle blade tumble upgrade picture mercy pave century";
+var mnemonic = "chef live travel abandon admit lounge first rural enemy alert target hollow";

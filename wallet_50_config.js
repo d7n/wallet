@@ -1,1 +1,1 @@
-var mnemonic = "shaft convince umbrella excess web online top transfer toddler again margin since";
+var mnemonic = "tuition install tree grab rose toilet bachelor lounge scheme chase motion force";

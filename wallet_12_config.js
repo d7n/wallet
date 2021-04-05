@@ -1,1 +1,1 @@
-var mnemonic = "broom short half shove apple carbon latin file arrow achieve apple student";
+var mnemonic = "depend night enemy coral cage focus wisdom clinic announce miracle essay diary";

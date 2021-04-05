@@ -1,1 +1,1 @@
-var mnemonic = "icon script forum agent slice lake avocado road obtain pipe donor total";
+var mnemonic = "inmate video bird claw book turkey lift artefact spare scale pass noodle";

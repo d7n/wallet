@@ -1,1 +1,1 @@
-var mnemonic = "camera lesson oblige tobacco erase acoustic laptop end primary lonely exist outside";
+var mnemonic = "lens crush hood tissue fine onion program world lake private fee error";

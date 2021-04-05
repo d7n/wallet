@@ -1,1 +1,1 @@
-var mnemonic = "inhale derive around poem off program elite design soldier zoo develop laugh";
+var mnemonic = "veteran panic ask despair coral dumb taste fresh bronze clown bike crop";

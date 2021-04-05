@@ -1,1 +1,1 @@
-var mnemonic = "calm exhibit expire affair equip feature cluster grid rose parrot busy edit";
+var mnemonic = "provide resist cliff suggest toe blast shiver major major dizzy piano point";

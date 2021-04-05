@@ -1,1 +1,1 @@
-var mnemonic = "job gentle ancient long mass crater voice cloud regular chat result melody";
+var mnemonic = "salon crunch zero engine mammal salad bar asset slide people child spin";

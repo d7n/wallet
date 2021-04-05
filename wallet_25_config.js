@@ -1,1 +1,1 @@
-var mnemonic = "drift primary tide embark jewel scale harsh region dinner few claw fan";
+var mnemonic = "tobacco mango kit concert cabin amount change view tourist bounce between dismiss";

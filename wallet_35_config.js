@@ -1,1 +1,1 @@
-var mnemonic = "filter measure casino remember rubber inch core moral school horn abstract wrong";
+var mnemonic = "flag caught monster woman remember head entry soccer resist crisp grief auction";

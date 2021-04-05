@@ -1,1 +1,1 @@
-var mnemonic = "clean oven list chest diagram near inherit safe fashion else walk depth";
+var mnemonic = "silver manual toast twist park pioneer struggle parrot viable gaze dinosaur off";

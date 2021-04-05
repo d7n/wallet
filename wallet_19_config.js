@@ -1,1 +1,1 @@
-var mnemonic = "excuse song juice actress attend image rescue parent cream sail whip great";
+var mnemonic = "fancy daring practice city hood actual area bag jump knee slight rain";

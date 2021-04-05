@@ -1,1 +1,1 @@
-var mnemonic = "put pond ladder spike base patrol what job cause virtual also tooth";
+var mnemonic = "cream hundred crunch appear book equal asthma shadow stool scene note foam";

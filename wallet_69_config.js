@@ -1,1 +1,1 @@
-var mnemonic = "mansion spider stumble saddle million retire prepare battle illness way destroy keen";
+var mnemonic = "wonder extend veteran boring unfair another salad three quote clarify angle knock";

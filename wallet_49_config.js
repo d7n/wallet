@@ -1,1 +1,1 @@
-var mnemonic = "thunder cattle provide urge similar tube coffee empty yard hello avocado cradle";
+var mnemonic = "truck position various stadium occur merry between stand gorilla coin sunny opera";

@@ -1,1 +1,1 @@
-var mnemonic = "miss avoid earn thumb album wreck lizard replace liar gold potato return";
+var mnemonic = "coral shadow rice water predict sadness enrich hero city thumb vast speed";

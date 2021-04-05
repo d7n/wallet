@@ -1,1 +1,1 @@
-var mnemonic = "chef vague rent must credit put above cat auction lonely glide chase";
+var mnemonic = "demise either erosion jaguar giraffe group good peanut ladder congress fitness false";

@@ -1,1 +1,1 @@
-var mnemonic = "elder curve salt also goose meadow volcano check soup remember elephant plate";
+var mnemonic = "claw fan shine dash zone balcony review boy oppose stick midnight stay";

@@ -1,1 +1,1 @@
-var mnemonic = "upset sustain point aisle market route endless amused average still fade gas";
+var mnemonic = "twin moral celery cupboard raven winter fluid gather awake forest beef fruit";

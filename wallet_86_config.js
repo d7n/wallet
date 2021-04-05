@@ -1,1 +1,1 @@
-var mnemonic = "faith feed song produce gun visa citizen logic century dice buddy reduce";
+var mnemonic = "country bright trend rapid relax month dawn degree decide luggage catch possible";

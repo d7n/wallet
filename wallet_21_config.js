@@ -1,1 +1,1 @@
-var mnemonic = "elephant evolve buyer legend observe original wing leopard slow away coral asthma";
+var mnemonic = "opinion flavor insane trick dog flee patient feel code flavor guitar eagle";

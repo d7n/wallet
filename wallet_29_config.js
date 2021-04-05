@@ -1,1 +1,1 @@
-var mnemonic = "lake priority kite deny hobby cool diagram material pact orange later detail";
+var mnemonic = "harsh major fox exhibit easily bleak iron garden current vacuum jazz change";

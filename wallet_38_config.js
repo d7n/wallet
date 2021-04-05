@@ -1,1 +1,1 @@
-var mnemonic = "canvas hedgehog decline carpet rookie ask bounce turn icon tuna december heart";
+var mnemonic = "mutual damp divert initial grocery hub across deposit matter joy risk visit";

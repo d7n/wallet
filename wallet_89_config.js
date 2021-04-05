@@ -1,1 +1,1 @@
-var mnemonic = "mad bulk comic any boy apology flock enhance worry capable wing wreck";
+var mnemonic = "rotate suit settle pretty book finger seat apart click volcano syrup claim";

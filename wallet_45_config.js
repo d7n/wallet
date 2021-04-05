@@ -1,1 +1,1 @@
-var mnemonic = "praise guilt crowd crazy awful trade donkey again miracle swim extra taxi";
+var mnemonic = "glove lens moral daring double ocean hurry primary worth find observe convince";

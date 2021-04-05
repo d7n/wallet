@@ -1,1 +1,1 @@
-var mnemonic = "myself piano found breeze until they unique afraid camera panda embark fitness";
+var mnemonic = "task radio kid fan boat put weird zero hat couple cable industry";

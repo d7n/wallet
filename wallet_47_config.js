@@ -1,1 +1,1 @@
-var mnemonic = "faith plunge fit prefer night tuna casual adult supreme saddle little diesel";
+var mnemonic = "dismiss script rhythm aware evil hood decide town news label width anxiety";

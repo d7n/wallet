@@ -1,1 +1,1 @@
-var mnemonic = "carpet trim amateur divorce alcohol profit pair remind hello use job urge";
+var mnemonic = "slogan game cousin assume season sand install bleak frozen kiwi peanut sword";

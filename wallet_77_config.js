@@ -1,1 +1,1 @@
-var mnemonic = "plug abstract exchange fun helmet actor permit galaxy donkey govern hour such";
+var mnemonic = "bag uphold agree obscure drive type dirt coil hen float canyon village";

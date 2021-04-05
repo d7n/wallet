@@ -1,1 +1,1 @@
-var mnemonic = "tooth awesome sunset valley gather man digital glue almost nation front diesel";
+var mnemonic = "return expire veteran element dragon credit thank couple cable aerobic cook again";

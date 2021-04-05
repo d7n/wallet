@@ -1,1 +1,1 @@
-var mnemonic = "blood leg gloom laundry ridge pony green option post either prison drip";
+var mnemonic = "roast hundred arrive problem comfort pave pill clerk ordinary embody nation thrive";

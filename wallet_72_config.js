@@ -1,1 +1,1 @@
-var mnemonic = "visit collect twist spoon upgrade sun service glare lock release corn small";
+var mnemonic = "cliff plug yellow unlock bounce medal shrimp excess refuse patient pause indicate";

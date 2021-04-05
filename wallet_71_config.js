@@ -1,1 +1,1 @@
-var mnemonic = "cigar depth firm kit unable early novel initial alert elder title issue";
+var mnemonic = "sweet cram stove tattoo inhale half sweet trim lava govern math radar";

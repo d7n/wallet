@@ -1,1 +1,1 @@
-var mnemonic = "cart ten clarify field insane enroll spot mesh broken salon festival wet";
+var mnemonic = "aware special swap cave uncle copper private powder code gallery number whip";

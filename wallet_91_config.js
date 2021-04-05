@@ -1,1 +1,1 @@
-var mnemonic = "beach deposit season credit exile face salute green doctor panic level also";
+var mnemonic = "inhale erode awful pottery height ahead vault mix nest earth mesh exchange";

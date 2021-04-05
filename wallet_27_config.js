@@ -1,1 +1,1 @@
-var mnemonic = "ten cause slot play clip spread accident analyst snake tilt famous cactus";
+var mnemonic = "orange olympic either online island hidden lend snake power club sound river";

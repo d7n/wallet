@@ -1,1 +1,1 @@
-var mnemonic = "train joke orphan antique country inherit spot bright scout raven boring menu";
+var mnemonic = "finish monster this hundred skin latin powder wealth spice correct similar rule";

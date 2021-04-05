@@ -1,1 +1,1 @@
-var mnemonic = "peasant basic grab below spawn possible west this month affair ginger cotton";
+var mnemonic = "inhale copy build parent mimic nation primary mutual ramp enroll glide jazz";

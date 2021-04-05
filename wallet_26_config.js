@@ -1,1 +1,1 @@
-var mnemonic = "move gas document bird nature diamond dilemma involve laptop banana enough large";
+var mnemonic = "adult play friend laptop piano reopen coral december apology target anger tube";

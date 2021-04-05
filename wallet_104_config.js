@@ -1,1 +1,1 @@
-var mnemonic = "grass smoke boil original element solve wet three thing proof tissue true";
+var mnemonic = "use width enjoy claw crush pepper fix sick word impulse leopard dirt";

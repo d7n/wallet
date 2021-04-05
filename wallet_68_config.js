@@ -1,1 +1,1 @@
-var mnemonic = "public include permit tiger stadium arctic twelve used main vintage large excess";
+var mnemonic = "festival rent learn okay you civil gauge access awkward jacket solve gallery";

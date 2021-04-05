@@ -1,1 +1,1 @@
-var mnemonic = "where favorite term either wild scheme month rally student cup very gesture";
+var mnemonic = "license width horse west busy tumble divert sea sense leave resemble chat";

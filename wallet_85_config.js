@@ -1,1 +1,1 @@
-var mnemonic = "alert word donate mass glad emerge morning mention say coral gesture mandate";
+var mnemonic = "shy furnace super custom treat gift exchange basket public rookie fury parade";

@@ -1,1 +1,1 @@
-var mnemonic = "camp wise swap crop around recall sock dry speak anger follow guide";
+var mnemonic = "alarm digital arm race draw file panel liar oxygen cute heavy dial";

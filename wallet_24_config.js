@@ -1,1 +1,1 @@
-var mnemonic = "pull salt ship plug layer culture rare inflict swarm move holiday bone";
+var mnemonic = "rigid cloth bachelor orphan today tomato asthma fence ladder mom beauty radio";

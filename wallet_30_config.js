@@ -1,1 +1,1 @@
-var mnemonic = "alpha aunt real text valid addict observe process obscure predict equip media";
+var mnemonic = "night brass fragile jealous meadow below two hold gesture decade game must";

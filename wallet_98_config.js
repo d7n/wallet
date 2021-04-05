@@ -1,1 +1,1 @@
-var mnemonic = "nasty abuse inmate blame action toast witness gather urge gravity emotion loop";
+var mnemonic = "file lazy enable toddler bid health case walk hidden canyon city forum";

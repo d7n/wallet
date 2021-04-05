@@ -1,1 +1,1 @@
-var mnemonic = "oven crunch hover topic story raise art observe scene cricket glue royal";
+var mnemonic = "trip pulse furnace illness fame give year glare voice beach deliver right";

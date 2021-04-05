@@ -1,1 +1,1 @@
-var mnemonic = "olympic squirrel inside region never pony absent attract glue exhibit bomb maple";
+var mnemonic = "upper where aspect apology defy quantum yellow adjust wine october planet quiz";

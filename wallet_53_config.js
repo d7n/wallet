@@ -1,1 +1,1 @@
-var mnemonic = "switch iron step across tomato diamond trigger saddle consider decade bike ignore";
+var mnemonic = "attract indicate tray clock broom sword brown lemon donate voyage catalog despair";

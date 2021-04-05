@@ -1,1 +1,1 @@
-var mnemonic = "shop prefer turtle cherry exist chimney follow behave snack scene renew badge";
+var mnemonic = "call soup gold invite damage knock butter stove solution admit net boil";

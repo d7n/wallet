@@ -1,1 +1,1 @@
-var mnemonic = "donor income guitar latin test uniform ticket tank street swim frequent soccer";
+var mnemonic = "exotic wide unaware neutral neglect blast scan retire swallow fiscal patrol fabric";

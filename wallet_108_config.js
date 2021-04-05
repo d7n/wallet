@@ -1,1 +1,1 @@
-var mnemonic = "cover pink thought recall giraffe noble panel trouble laptop become absent frown";
+var mnemonic = "tribe supreme manage snow prison truck reopen comic follow when clown defy";

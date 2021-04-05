@@ -1,1 +1,1 @@
-var mnemonic = "win silent super calm chair prison spin flock member tray sniff climb";
+var mnemonic = "melody slam various cattle size increase eager miss bounce piece dove message";

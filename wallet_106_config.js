@@ -1,1 +1,1 @@
-var mnemonic = "increase morning purpose execute cushion interest inflict innocent icon wolf daring imitate";
+var mnemonic = "junior when hard vibrant fortune legal rose rural ankle police stock feature";

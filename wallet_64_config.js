@@ -1,1 +1,1 @@
-var mnemonic = "clap trumpet news silk hybrid razor extend chicken deer solar reopen access";
+var mnemonic = "pledge easy trust egg oval goose object helmet escape ahead flat noodle";

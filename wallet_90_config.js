@@ -1,1 +1,1 @@
-var mnemonic = "obscure brisk daring cereal awake weather shoulder report universe easily recall evidence";
+var mnemonic = "nurse capital scene misery thrive bachelor float wreck cook crystal student supreme";

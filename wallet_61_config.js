@@ -1,1 +1,1 @@
-var mnemonic = "surface derive uncover lift figure swear pass portion yard smoke accident degree";
+var mnemonic = "open sorry bacon pattern mixture force rabbit beach top sad mail soft";
