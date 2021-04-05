@@ -1,1 +1,1 @@
-var mnemonic = "region regret foster absorb little satisfy voice video canoe attend wink gun";
+var mnemonic = "park season spot warfare rough domain spend element silk annual myth pledge";

@@ -1,1 +1,1 @@
-var mnemonic = "base pretty carbon tell scheme crew gather fault egg random laugh panic";
+var mnemonic = "shell thrive cattle virtual retire found loop real spread begin trip excite";

@@ -1,1 +1,1 @@
-var mnemonic = "key infant space popular recipe gadget holiday modify heavy bomb remain regret";
+var mnemonic = "tube menu teach sugar cube forest oven elegant enjoy execute law burst";

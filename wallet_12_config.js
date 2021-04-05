@@ -1,1 +1,1 @@
-var mnemonic = "company wave wall search garden hole now cool soul bind find axis";
+var mnemonic = "attack duck number credit example indicate palm rifle good leave please excess";

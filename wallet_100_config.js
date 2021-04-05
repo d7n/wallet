@@ -1,1 +1,1 @@
-var mnemonic = "wish escape buzz ginger simple focus cave frost recall describe wisdom zone";
+var mnemonic = "unusual spy pilot drink barely clarify measure flame release offer wagon brief";

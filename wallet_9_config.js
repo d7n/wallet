@@ -1,1 +1,1 @@
-var mnemonic = "bike secret need turn space race curious special enact monitor canal metal";
+var mnemonic = "bike purse tissue reward tube tray smooth birth off ocean swap virtual";

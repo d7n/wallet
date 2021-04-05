@@ -1,1 +1,1 @@
-var mnemonic = "relax great siege interest symbol soldier current start jungle glue unhappy aspect";
+var mnemonic = "govern start tiny entire little ceiling floor egg identify expect sphere wife";

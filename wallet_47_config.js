@@ -1,1 +1,1 @@
-var mnemonic = "warrior race soda day runway shine pair family audit achieve ladder camera";
+var mnemonic = "oblige ivory wolf physical motion wet rescue hold float option defy curious";

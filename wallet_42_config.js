@@ -1,1 +1,1 @@
-var mnemonic = "link pizza praise long fantasy skill click impulse multiply burden mirror describe";
+var mnemonic = "village output case faint mass dial swarm front topic woman wink lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "almost gauge crop evolve impulse young exile marine relief resource marriage cargo";
+var mnemonic = "flavor hungry hair off wash depend heavy term initial mistake spike silver";

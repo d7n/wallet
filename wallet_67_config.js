@@ -1,1 +1,1 @@
-var mnemonic = "success critic craft metal manage sight weasel near embark claim divide shrimp";
+var mnemonic = "oyster aerobic meadow tent donate original miss inject hero illness eight resource";

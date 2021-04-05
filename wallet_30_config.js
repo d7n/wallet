@@ -1,1 +1,1 @@
-var mnemonic = "visit head keep hamster notable mail surface bunker bring onion crisp chronic";
+var mnemonic = "bounce sign give monster fruit focus invite recipe fetch social now sail";

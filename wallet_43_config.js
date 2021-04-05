@@ -1,1 +1,1 @@
-var mnemonic = "jealous mammal struggle fashion trash brick post century same winter element unhappy";
+var mnemonic = "brick awkward great adapt moon turkey modify address leg canoe axis once";

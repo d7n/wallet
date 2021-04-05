@@ -1,1 +1,1 @@
-var mnemonic = "another style rubber swarm open matter equip mistake shrug carbon diesel kidney";
+var mnemonic = "tool thumb mask intact escape repair decorate essence park fog mango misery";

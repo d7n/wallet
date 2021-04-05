@@ -1,1 +1,1 @@
-var mnemonic = "bind repeat teach city become early march hurt enter deposit betray into";
+var mnemonic = "because sphere need endorse sock suffer nothing come park urban crime crowd";

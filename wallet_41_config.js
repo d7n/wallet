@@ -1,1 +1,1 @@
-var mnemonic = "radar ankle slide creek soul pulse radio sell bitter gain key come";
+var mnemonic = "possible mad unknown much derive finger purchase battle autumn cancel anger surprise";

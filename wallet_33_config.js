@@ -1,1 +1,1 @@
-var mnemonic = "observe during tiger midnight enemy symptom cupboard forget great produce mass derive";
+var mnemonic = "force legal night mirror brother dust friend echo mix trap crawl spatial";

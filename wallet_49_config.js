@@ -1,1 +1,1 @@
-var mnemonic = "seminar debate multiply eyebrow shine earn off moon field dad order black";
+var mnemonic = "toe exist expose valid solve allow grant strike month neither relax memory";

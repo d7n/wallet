@@ -1,1 +1,1 @@
-var mnemonic = "about estate betray silly casual path cry jump era tower snack convince";
+var mnemonic = "base luggage wagon sword moon defense square minute divide giggle tragic proud";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt ice trade little top month leader identify job grunt swear airport";
+var mnemonic = "rifle north true leave culture aim sand current denial energy scale trouble";

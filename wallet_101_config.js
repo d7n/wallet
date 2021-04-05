@@ -1,1 +1,1 @@
-var mnemonic = "define castle dizzy slide girl column carpet awful citizen actress crater fiber";
+var mnemonic = "emotion broccoli gather seminar deer stone estate during age foot holiday equal";

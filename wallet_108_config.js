@@ -1,1 +1,1 @@
-var mnemonic = "tongue eye panther jewel sad bracket divide capable danger cube summer pledge";
+var mnemonic = "frequent tilt chalk scare brief antique six monitor kid broccoli dune club";

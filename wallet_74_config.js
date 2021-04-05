@@ -1,1 +1,1 @@
-var mnemonic = "float flock medal join glance crew pilot neutral merry keen across load";
+var mnemonic = "theme frog only toss burden still offer refuse volcano royal topic twenty";

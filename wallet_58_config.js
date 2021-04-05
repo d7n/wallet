@@ -1,1 +1,1 @@
-var mnemonic = "demise weasel shuffle neglect other area student pottery once elephant talent tomato";
+var mnemonic = "muscle insect kitchen enable minimum stumble own about leisure life relief million";

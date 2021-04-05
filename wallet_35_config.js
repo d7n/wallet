@@ -1,1 +1,1 @@
-var mnemonic = "steel visual excuse hockey waste master chair drastic endless wise mail earth";
+var mnemonic = "glove direct protect model soul seven divide muffin busy doctor reunion lab";

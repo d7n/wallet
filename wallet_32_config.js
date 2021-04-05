@@ -1,1 +1,1 @@
-var mnemonic = "extend base next voice tail blame zoo episode seminar vital amateur link";
+var mnemonic = "album sister mule sock bubble icon cage public autumn believe level large";

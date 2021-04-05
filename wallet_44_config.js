@@ -1,1 +1,1 @@
-var mnemonic = "yard rabbit leisure impulse rubber cushion nose flee convince acquire barely explain";
+var mnemonic = "hazard head save area soon unveil warrior sibling indicate marine vault other";

@@ -1,1 +1,1 @@
-var mnemonic = "guide vicious broccoli train cause jeans trouble glimpse velvet jump cannon balcony";
+var mnemonic = "economy put there degree heart ankle tooth note canyon bone short fine";

@@ -1,1 +1,1 @@
-var mnemonic = "latin tattoo buzz repair pelican solar wild under bean confirm drip brave";
+var mnemonic = "motor reward few lava grass lumber wagon soul retire assume fatal girl";

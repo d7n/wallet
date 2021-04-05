@@ -1,1 +1,1 @@
-var mnemonic = "club survey say outdoor exile ten tip hurry nice use over climb";
+var mnemonic = "remind demise moral treat same stool autumn hire design meadow donor inject";

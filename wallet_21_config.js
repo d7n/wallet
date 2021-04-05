@@ -1,1 +1,1 @@
-var mnemonic = "stairs pottery exist under swift level prize super silk leaf crystal table";
+var mnemonic = "loud amazing chase act hazard author dial bachelor orphan denial write neglect";

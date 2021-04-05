@@ -1,1 +1,1 @@
-var mnemonic = "shop hair tag aerobic barrel spice cushion service gather pair rebel bunker";
+var mnemonic = "depart cereal calm roof note recall neglect dynamic grape crumble isolate drip";

@@ -1,1 +1,1 @@
-var mnemonic = "soul praise lens aisle wrestle tragic alter sea tennis tiger boat lunar";
+var mnemonic = "magnet belt bid sick ridge gauge tree march rely flash daring voyage";

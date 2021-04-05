@@ -1,1 +1,1 @@
-var mnemonic = "gate hundred unusual canyon solution coil beach upper sense exact whip tiny";
+var mnemonic = "build perfect throw jelly execute dismiss sponsor keep merge engage concert excuse";

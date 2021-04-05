@@ -1,1 +1,1 @@
-var mnemonic = "worth sail wagon meat ranch jaguar stool gap used around sadness wire";
+var mnemonic = "foam polar tank whale razor demand amount jump vital pyramid shove glove";

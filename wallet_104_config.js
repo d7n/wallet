@@ -1,1 +1,1 @@
-var mnemonic = "swallow rigid almost anxiety allow muscle order neck shine harbor betray trip";
+var mnemonic = "advance refuse ugly connect just furnace salon decorate use pave problem crash";

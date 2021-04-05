@@ -1,1 +1,1 @@
-var mnemonic = "front rich sorry truth renew club method logic width benefit still inspire";
+var mnemonic = "piece dream rain equip remain legal phrase south steel surge stamp pig";

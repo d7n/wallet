@@ -1,1 +1,1 @@
-var mnemonic = "tuna need emotion cabin knee tiger tuition drop elephant post popular video";
+var mnemonic = "initial cram grief razor mask flee fiscal two used price random fun";

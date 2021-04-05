@@ -1,1 +1,1 @@
-var mnemonic = "prize flight organ mammal across between random dynamic fashion client stool property";
+var mnemonic = "dirt about salt asthma when feed record hip sport you wisdom equip";

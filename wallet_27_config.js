@@ -1,1 +1,1 @@
-var mnemonic = "burger execute federal leopard patient gorilla dinner empty frown inner prosper dish";
+var mnemonic = "source fatal toy craft camera version female excuse wine puppy true purchase";

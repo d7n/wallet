@@ -1,1 +1,1 @@
-var mnemonic = "payment trap orchard message awake rabbit claw wide stuff tumble repair resemble";
+var mnemonic = "volume payment urban hip differ erosion combine tip dust afford reward luggage";

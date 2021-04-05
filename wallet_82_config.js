@@ -1,1 +1,1 @@
-var mnemonic = "monitor level exact glue bomb ask neither deputy pond that valid fog";
+var mnemonic = "various bean any dice basic sea diagram rail joke panic tube near";

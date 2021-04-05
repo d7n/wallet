@@ -1,1 +1,1 @@
-var mnemonic = "educate alarm blur dragon oyster foot true powder seed brisk tent drift";
+var mnemonic = "pupil else owner lottery skate soul upper amused pencil vehicle appear ankle";

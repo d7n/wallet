@@ -1,1 +1,1 @@
-var mnemonic = "rather swing dutch ill assist region bag powder road grant truly mansion";
+var mnemonic = "gasp mango middle ethics chapter obvious galaxy auction defy betray leave village";

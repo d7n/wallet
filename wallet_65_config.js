@@ -1,1 +1,1 @@
-var mnemonic = "outside beyond camera quote spell august simple claw clap sunset federal fly";
+var mnemonic = "oblige marble half barrel rain risk wisdom mechanic extend awful olympic abstract";

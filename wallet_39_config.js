@@ -1,1 +1,1 @@
-var mnemonic = "topic chuckle predict theme prepare host jaguar snake prize link debris trick";
+var mnemonic = "ensure topic lake diagram sheriff wide clap mixed affair core vendor bike";

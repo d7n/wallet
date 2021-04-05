@@ -1,1 +1,1 @@
-var mnemonic = "violin lens priority soft certain frog struggle hospital fresh armor cage manual";
+var mnemonic = "symbol coyote enact rival mail manage idle copper uncle dose grit van";

@@ -1,1 +1,1 @@
-var mnemonic = "elite stomach snap device reopen filter glory select crop hood unlock acquire";
+var mnemonic = "gossip wrist donor among add indoor attack basket erupt inhale cannon square";

@@ -1,1 +1,1 @@
-var mnemonic = "latin benefit shoot tennis scrub aunt double wet token nature test merge";
+var mnemonic = "square jaguar burst legal olympic swarm unfold receive purity tube reject boil";

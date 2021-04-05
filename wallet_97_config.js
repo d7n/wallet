@@ -1,1 +1,1 @@
-var mnemonic = "large debris because evil toe boy phone select hawk faculty text labor";
+var mnemonic = "maximum merry library dance notice gain easy able finger summer funny floor";

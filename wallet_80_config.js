@@ -1,1 +1,1 @@
-var mnemonic = "keep evolve vote will guide birth panther iron small able replace inner";
+var mnemonic = "scale connect soon path hat produce steel razor tower whale floor lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "exit shift push lab whip feed olympic margin soup payment taste sadness";
+var mnemonic = "screen train cheese asthma shoot thumb liar attitude ensure cross tuna oblige";

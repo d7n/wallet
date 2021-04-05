@@ -1,1 +1,1 @@
-var mnemonic = "labor primary dove canvas corn rug bench mirror desk mechanic off plug";
+var mnemonic = "biology title gossip know popular ritual doctor mango alcohol pepper dog text";

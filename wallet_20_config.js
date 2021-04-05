@@ -1,1 +1,1 @@
-var mnemonic = "sentence spatial raven begin exhaust sock again lens shove uphold treat family";
+var mnemonic = "lunar such peace approve mesh million decline noodle safe jewel frog width";

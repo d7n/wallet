@@ -1,1 +1,1 @@
-var mnemonic = "climb great inherit bright body gaze mystery festival burger ginger tissue turtle";
+var mnemonic = "hen reopen decide discover notable summer urban attitude approve noble spare disease";

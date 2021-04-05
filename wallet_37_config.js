@@ -1,1 +1,1 @@
-var mnemonic = "gift increase own zero action animal agent repair vessel insane life slim";
+var mnemonic = "blast wedding clarify version skill brass veteran rich jazz chuckle grain muscle";

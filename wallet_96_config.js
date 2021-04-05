@@ -1,1 +1,1 @@
-var mnemonic = "police brother bone furnace broken glide avocado merge thank car clump stand";
+var mnemonic = "rate shell bacon chest dentist fashion devote eyebrow holiday use siege genius";

@@ -1,1 +1,1 @@
-var mnemonic = "vote assist culture prison hockey visual nephew child subject grant float wine";
+var mnemonic = "mass noise marine switch elite anger stadium fee scare analyst tank horror";

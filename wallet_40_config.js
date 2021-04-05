@@ -1,1 +1,1 @@
-var mnemonic = "require yellow wise tired owner thought close laptop police tower thing conduct";
+var mnemonic = "ostrich resist very crazy manage carpet entry breeze month better slight grass";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity tide crumble spice noise time grace fish sword differ moment staff";
+var mnemonic = "word illegal this embody evil enhance tattoo install climb elbow estate student";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten life march dry chief patrol glare marine maid hazard vessel genuine";
+var mnemonic = "glove puzzle island novel lake sudden culture title bar nice winter panther";

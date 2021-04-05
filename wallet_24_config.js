@@ -1,1 +1,1 @@
-var mnemonic = "object pair ankle priority reduce cloth father clip bicycle device infant soft";
+var mnemonic = "slice inject shrug health album smoke seven naive orphan obey mansion dilemma";

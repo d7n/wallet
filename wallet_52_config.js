@@ -1,1 +1,1 @@
-var mnemonic = "fiction book scatter rug honey link pink cause track farm left coast";
+var mnemonic = "crash wedding stool solid proof stamp worth debris chronic aspect cave nest";

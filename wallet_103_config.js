@@ -1,1 +1,1 @@
-var mnemonic = "gather hybrid green nice canyon nasty usual dry cat clarify mixture mind";
+var mnemonic = "inner soon distance imitate kite chronic divorce cool soldier beyond thunder neck";

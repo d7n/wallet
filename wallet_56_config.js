@@ -1,1 +1,1 @@
-var mnemonic = "scare warrior little peace crop person million select polar canyon team follow";
+var mnemonic = "elegant ball input robust dove stove vicious grace ramp problem egg sight";

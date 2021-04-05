@@ -1,1 +1,1 @@
-var mnemonic = "mushroom question share abuse moon couple old chaos save exclude turn present";
+var mnemonic = "under hen wedding civil indoor stairs slam sock manage devote dial giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "journey busy nut short tube ship seek twin cram return winner slam";
+var mnemonic = "major trim kiss talent snap shaft east electric chronic zero census door";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge hobby wife flag orchard insane lobster silver quit demise confirm napkin";
+var mnemonic = "joke wide excite upset skirt cute nerve buzz weasel local smile decline";

@@ -1,1 +1,1 @@
-var mnemonic = "witness segment magic cram guide dove unaware enough trim cute effort talk";
+var mnemonic = "remind point valve gown enhance crucial front anchor duty pulp theory local";

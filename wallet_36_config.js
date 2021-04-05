@@ -1,1 +1,1 @@
-var mnemonic = "scissors critic private board fatigue flower area motion merry erase adapt record";
+var mnemonic = "planet pact input suspect hard sting pretty skill prepare tree charge degree";

@@ -1,1 +1,1 @@
-var mnemonic = "garage library glove blade heart stem device parade virus remove oval rabbit";
+var mnemonic = "speak mistake near recipe panel clay still language radar glove drip pottery";

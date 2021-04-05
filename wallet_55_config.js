@@ -1,1 +1,1 @@
-var mnemonic = "jeans girl require dignity mushroom pigeon shrug inside scene matter same modify";
+var mnemonic = "drift slush guess keep door glare tired route exchange buyer blue void";

@@ -1,1 +1,1 @@
-var mnemonic = "version business bench rifle mansion submit bottom fringe maid wheel broken rack";
+var mnemonic = "judge surprise dinosaur weekend minimum kiss more world erupt bid opera ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "runway abuse myth neutral twelve twenty loop alcohol cool distance scrub impact";
+var mnemonic = "surprise diet company ignore shoe anger manage true slow budget zoo use";

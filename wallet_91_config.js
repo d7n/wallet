@@ -1,1 +1,1 @@
-var mnemonic = "verify crane soul setup cliff surround mechanic culture safe employ puppy honey";
+var mnemonic = "green rally clip calm mom cube other people shiver steel job evil";

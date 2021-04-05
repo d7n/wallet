@@ -1,1 +1,1 @@
-var mnemonic = "kite raven casino napkin arctic connect trash seek orange off name slender";
+var mnemonic = "report delay amount worry economy fury muscle screen mesh midnight rebuild eyebrow";

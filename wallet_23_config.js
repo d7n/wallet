@@ -1,1 +1,1 @@
-var mnemonic = "affair invest matrix alone essay vote chair blind lady unaware acid friend";
+var mnemonic = "vessel famous recycle curtain inch cup hurdle accident vacant chair mail evidence";

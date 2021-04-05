@@ -1,1 +1,1 @@
-var mnemonic = "recipe heavy protect portion half mule edge profit ride chalk great wild";
+var mnemonic = "husband work giggle tobacco people spoon fog rotate grape kit helmet eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "square custom mercy dice skirt wrap abandon clip patrol actress vendor erode";
+var mnemonic = "hole strike aware bulk traffic glad diagram cup hobby way solar effort";

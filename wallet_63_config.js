@@ -1,1 +1,1 @@
-var mnemonic = "guide live wage arrange turtle inform perfect remind space indoor offer exist";
+var mnemonic = "hand maid matter artwork opinion parade swarm favorite infant issue scan cute";

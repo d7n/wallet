@@ -1,1 +1,1 @@
-var mnemonic = "finish fancy capable bind abuse purse memory remind comfort horror favorite keep";
+var mnemonic = "build present stage flee scale book ball model live shed shine tongue";

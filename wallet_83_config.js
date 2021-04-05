@@ -1,1 +1,1 @@
-var mnemonic = "chief force social couple wall laptop nothing clarify luxury dolphin cement grace";
+var mnemonic = "gospel index dentist gaze jealous surround maple cactus hollow seat deputy best";
