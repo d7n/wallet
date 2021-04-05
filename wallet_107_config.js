@@ -1,1 +1,1 @@
-var mnemonic = "custom bulb plate vacuum reunion start session disagree general another group author";
+var mnemonic = "cement leave season finger hour bulb ice awake improve hood quick mule";

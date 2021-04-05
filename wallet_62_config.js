@@ -1,1 +1,1 @@
-var mnemonic = "vacuum marble crowd puzzle collect device mixture sign runway rebuild loop tornado";
+var mnemonic = "match elder oven salon wool humor elevator change resource prepare lyrics ignore";

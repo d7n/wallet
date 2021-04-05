@@ -1,1 +1,1 @@
-var mnemonic = "charge easy orphan coral please envelope foster castle spread hunt carry matrix";
+var mnemonic = "auto inmate huge chalk sample tourist trash trial spice vacuum fringe any";

@@ -1,1 +1,1 @@
-var mnemonic = "slice resemble can ocean audit sell little effort dignity junk entire decade";
+var mnemonic = "transfer tortoise tongue surround circle alter useful hedgehog public artefact mammal lecture";

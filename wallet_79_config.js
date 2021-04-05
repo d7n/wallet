@@ -1,1 +1,1 @@
-var mnemonic = "roof next total success ginger soldier wage start day local clown debate";
+var mnemonic = "boy knife mouse venue learn wedding cause media debris fire soon same";

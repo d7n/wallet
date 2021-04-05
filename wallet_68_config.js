@@ -1,1 +1,1 @@
-var mnemonic = "camera okay reason true shock garment royal stereo valid pause clean convince";
+var mnemonic = "start day between jeans jealous damp mom chronic merit admit history shove";

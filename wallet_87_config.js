@@ -1,1 +1,1 @@
-var mnemonic = "security tobacco shop patient unknown proof age piece danger gauge pass nurse";
+var mnemonic = "pole year talk bulb elegant shift say best round unveil shuffle moon";

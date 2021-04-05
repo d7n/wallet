@@ -1,1 +1,1 @@
-var mnemonic = "escape seed pepper hold tiger razor cake small improve tomorrow above aware";
+var mnemonic = "noodle clown virtual dove item wheat bicycle song universe spoon tell call";

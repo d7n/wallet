@@ -1,1 +1,1 @@
-var mnemonic = "universe foster scan slam title catalog west emotion moral cable monkey ripple";
+var mnemonic = "body bachelor bar comic endorse lion you tide grant loop analyst garage";

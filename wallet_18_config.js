@@ -1,1 +1,1 @@
-var mnemonic = "thumb rebel retire illegal spin hobby afford circle rubber print usage food";
+var mnemonic = "square exit humor vehicle coral link run duty spin scrub legend bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin nephew match uncover second wash drastic strong minor guide diary person";
+var mnemonic = "predict device sock rule world mystery business want lunch gym stem aerobic";

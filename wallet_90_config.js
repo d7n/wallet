@@ -1,1 +1,1 @@
-var mnemonic = "mom year vessel diamond frost canvas today endless basic glow elevator drink";
+var mnemonic = "indoor problem awkward ceiling stay price pull cradle bless high seat hazard";

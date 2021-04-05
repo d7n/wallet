@@ -1,1 +1,1 @@
-var mnemonic = "trash bullet gas quiz vacuum actress clown stand feature day glare move";
+var mnemonic = "lyrics mandate rubber paddle useless reflect govern find tool betray casual over";

@@ -1,1 +1,1 @@
-var mnemonic = "another actor hint much slow buffalo bracket scrub jacket swim power one";
+var mnemonic = "power pizza spider net satisfy together obscure margin fine soft lake extra";

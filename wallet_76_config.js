@@ -1,1 +1,1 @@
-var mnemonic = "ankle iron income trap fruit little enhance artefact alpha ski silk below";
+var mnemonic = "then over banner pass timber shoulder thumb swamp inhale tide fashion rain";

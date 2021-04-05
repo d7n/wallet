@@ -1,1 +1,1 @@
-var mnemonic = "apology spirit repeat work aerobic comfort pool toward beauty pride duck riot";
+var mnemonic = "jaguar buddy alert library dwarf such vibrant diesel loop distance damage eagle";

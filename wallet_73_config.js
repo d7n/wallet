@@ -1,1 +1,1 @@
-var mnemonic = "engage illegal menu toast attract glare proud modify mobile ticket aspect physical";
+var mnemonic = "shift design lunch female mansion debate hire gorilla swamp atom fit peasant";

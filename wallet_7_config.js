@@ -1,1 +1,1 @@
-var mnemonic = "vendor bamboo toast barrel honey memory style goddess clerk kit scrap blue";
+var mnemonic = "web parade fresh renew cancel leisure extra tribe address vacant sell window";

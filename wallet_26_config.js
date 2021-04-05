@@ -1,1 +1,1 @@
-var mnemonic = "rack try match demise coin ill close allow citizen deer kit burst";
+var mnemonic = "practice life first pride uphold fabric coil scheme outside someone old burst";

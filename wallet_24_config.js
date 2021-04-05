@@ -1,1 +1,1 @@
-var mnemonic = "raven inmate baby hat puppy cricket merry demise define drastic twist unfold";
+var mnemonic = "embrace gate suspect current raw huge essence athlete myth rose easy balance";

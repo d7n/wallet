@@ -1,1 +1,1 @@
-var mnemonic = "fiscal acid card solid excess obscure aim grab digital vault trap athlete";
+var mnemonic = "equip prepare gaze night switch hotel educate crew subject silent shift can";

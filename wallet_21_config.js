@@ -1,1 +1,1 @@
-var mnemonic = "judge suit cute size shift alert board beef identify infant company weather";
+var mnemonic = "oppose boost clap carpet yard supreme now rural lecture feature dinner just";

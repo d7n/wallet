@@ -1,1 +1,1 @@
-var mnemonic = "label razor same scorpion glad rifle abuse prepare burger fee beef museum";
+var mnemonic = "salmon jacket rookie struggle aisle super title long blush pause hedgehog page";

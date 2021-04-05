@@ -1,1 +1,1 @@
-var mnemonic = "recycle announce margin hotel coconut lion honey divide ask label across boss";
+var mnemonic = "balance kick alien canyon edge toilet mercy mask finish coin bundle interest";

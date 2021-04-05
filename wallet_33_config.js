@@ -1,1 +1,1 @@
-var mnemonic = "rebel pill level ability rather side weird tower concert spare despair achieve";
+var mnemonic = "job edge boring skirt easily polar burger gossip element myself world sleep";

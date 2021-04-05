@@ -1,1 +1,1 @@
-var mnemonic = "tortoise round index old merry economy ski crucial vendor photo extend melt";
+var mnemonic = "crop grocery lyrics warm prevent finish seat junk act wear news creek";

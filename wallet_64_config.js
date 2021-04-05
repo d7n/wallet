@@ -1,1 +1,1 @@
-var mnemonic = "will what popular novel until arrange item section muscle teach during twelve";
+var mnemonic = "clever give noodle reduce plunge lunch region claim glare achieve grit crop";

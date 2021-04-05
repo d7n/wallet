@@ -1,1 +1,1 @@
-var mnemonic = "pudding panther lens minor awkward grape tape breeze sport shuffle above yard";
+var mnemonic = "must style seek tell pause goat window arch hint bamboo surprise offer";

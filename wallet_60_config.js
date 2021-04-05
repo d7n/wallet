@@ -1,1 +1,1 @@
-var mnemonic = "suffer ten laundry amazing balcony kiss lazy labor option auto engine cabin";
+var mnemonic = "sword oval once inquiry faith law brother educate inside swim naive legend";

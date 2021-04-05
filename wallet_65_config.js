@@ -1,1 +1,1 @@
-var mnemonic = "topic abstract exist curve disagree bus cook remind morning lab stable marriage";
+var mnemonic = "return wreck useful outside barely miracle spoon pepper embark shoot someone horn";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom match eight flat else gym raw fragile zebra cherry wrist gift";
+var mnemonic = "truth laptop attitude acid critic below mistake pass west brain width bone";

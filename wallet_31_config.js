@@ -1,1 +1,1 @@
-var mnemonic = "obvious skull client lava afraid afford worth behind coil truck undo very";
+var mnemonic = "seven winner play educate habit space plastic salt toast bird bridge anchor";

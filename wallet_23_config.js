@@ -1,1 +1,1 @@
-var mnemonic = "alcohol search mansion insect once crash symptom another neglect trust cat salon";
+var mnemonic = "unfair property today gravity fame bulk film category toy okay hybrid cook";

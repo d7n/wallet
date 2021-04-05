@@ -1,1 +1,1 @@
-var mnemonic = "visit okay amount mosquito actor option hawk rookie jaguar female lock balance";
+var mnemonic = "buddy forward taxi warrior sense great burst clap duck evoke tuition humor";

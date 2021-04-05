@@ -1,1 +1,1 @@
-var mnemonic = "federal depth fitness skate icon exist comfort ignore light term belt oak";
+var mnemonic = "employ funny adult absorb lucky arch unfold curve culture innocent twenty section";

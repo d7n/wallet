@@ -1,1 +1,1 @@
-var mnemonic = "prison helmet toe stay annual exercise strike lecture case blame oven parrot";
+var mnemonic = "notice tiny occur donkey dynamic much machine twice denial glare mosquito glide";

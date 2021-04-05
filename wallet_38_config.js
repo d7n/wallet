@@ -1,1 +1,1 @@
-var mnemonic = "barely hair elephant sign corn post wife veteran bulb scan leopard heavy";
+var mnemonic = "object hip repeat horse adjust orphan width regular fan bounce mosquito pottery";

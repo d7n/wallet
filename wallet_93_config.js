@@ -1,1 +1,1 @@
-var mnemonic = "bachelor impulse practice surround fork walnut fan face token dog fiber direct";
+var mnemonic = "embody label diet surface soup device craft dentist defense ten song over";

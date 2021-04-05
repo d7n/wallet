@@ -1,1 +1,1 @@
-var mnemonic = "critic car viable exchange bless olympic alien popular sting jealous admit photo";
+var mnemonic = "debate income iron kiss fatigue office wash between ball cycle short nation";

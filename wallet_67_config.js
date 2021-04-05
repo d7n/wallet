@@ -1,1 +1,1 @@
-var mnemonic = "trip release antenna tribe piano design chuckle car can cruise sting wage";
+var mnemonic = "slab slim arena saddle vessel album dentist sick address bag useless suggest";

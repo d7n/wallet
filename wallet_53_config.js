@@ -1,1 +1,1 @@
-var mnemonic = "maze actual lady phrase ladder alter frequent renew feed problem false cake";
+var mnemonic = "drink tongue moon connect puppy bid system parent camera festival hire glove";

@@ -1,1 +1,1 @@
-var mnemonic = "spend sick goose elegant dad demand gas onion material shed achieve nothing";
+var mnemonic = "lemon sibling stamp resemble mountain rib tent state best cotton loud service";

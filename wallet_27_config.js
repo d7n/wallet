@@ -1,1 +1,1 @@
-var mnemonic = "opinion lake true close jacket grunt vivid fancy proof zebra vendor alter";
+var mnemonic = "merge sight fury excess badge icon task major ozone absent moon vivid";

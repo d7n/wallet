@@ -1,1 +1,1 @@
-var mnemonic = "melody witness clean loud dentist december glory job blind amateur enable before";
+var mnemonic = "black check defense stereo warfare again mushroom meadow industry camp hood quote";

@@ -1,1 +1,1 @@
-var mnemonic = "include want client news fantasy candy tissue dry regular limb you pony";
+var mnemonic = "insane blue depend define simple stuff entire unfair embody belt pulp foam";

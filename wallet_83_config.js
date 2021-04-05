@@ -1,1 +1,1 @@
-var mnemonic = "abstract lunch side clap frog gold camera patient flash peasant puzzle swarm";
+var mnemonic = "where pumpkin begin street perfect sight reflect success favorite anxiety gloom orchard";

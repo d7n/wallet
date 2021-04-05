@@ -1,1 +1,1 @@
-var mnemonic = "oblige auction cupboard cup derive stadium found rival pave lift fury creek";
+var mnemonic = "angle total install green change fix rug toward despair leader oblige alley";

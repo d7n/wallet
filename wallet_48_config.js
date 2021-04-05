@@ -1,1 +1,1 @@
-var mnemonic = "interest title canoe valid ancient clay knife soldier excite runway unfold bar";
+var mnemonic = "name august juice busy uncover inch milk novel expire manual melt gaze";

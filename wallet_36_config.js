@@ -1,1 +1,1 @@
-var mnemonic = "flight blame setup addict easily misery all hockey steak hire pact ginger";
+var mnemonic = "yard nerve success melt radio sign kingdom boy mercy mango minimum bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "beach comfort boss walk junior fan meadow exile expand frown all sketch";
+var mnemonic = "earth casual broken awful fork fix buddy arm odor lottery attend flag";

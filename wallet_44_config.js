@@ -1,1 +1,1 @@
-var mnemonic = "patient tonight sword thrive burst brick client kick slow stick coyote innocent";
+var mnemonic = "lucky cupboard raw level path flame bird decide best shield just country";

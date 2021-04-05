@@ -1,1 +1,1 @@
-var mnemonic = "way rebuild jar illegal media catch garlic cancel collect course brief output";
+var mnemonic = "sniff belt deny truth method wish limb often earn pave embark popular";

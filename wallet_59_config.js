@@ -1,1 +1,1 @@
-var mnemonic = "lazy bullet trigger mention cook avoid spirit doll symbol output huge any";
+var mnemonic = "absent unveil tennis nut crop run glimpse hand hockey genuine drop detect";

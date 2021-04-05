@@ -1,1 +1,1 @@
-var mnemonic = "foot motor clarify before vessel atom minimum sauce brave material hurdle woman";
+var mnemonic = "local burger fiscal stem valve fault quote image child matrix wife friend";

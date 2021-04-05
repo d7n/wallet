@@ -1,1 +1,1 @@
-var mnemonic = "print thrive script patch celery bind enrich future giant world quick guide";
+var mnemonic = "tunnel sheriff peace pretty relief finger solar little allow era price exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant grit dish feature opera slide trust design argue cliff model curve";
+var mnemonic = "buyer sheriff cable kitchen swamp put road sketch obey evil define scheme";

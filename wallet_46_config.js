@@ -1,1 +1,1 @@
-var mnemonic = "mule purpose point solution coyote chef parent panel divert marble strike sadness";
+var mnemonic = "globe trigger special table system gasp poet combine satisfy lunar nasty segment";

@@ -1,1 +1,1 @@
-var mnemonic = "away club train feed hotel design warm olive recipe ill alley frost";
+var mnemonic = "order believe because decade tattoo opera lizard mixed tide south keep insane";

@@ -1,1 +1,1 @@
-var mnemonic = "cool shadow jazz author puppy riot subject north lunar term resist honey";
+var mnemonic = "sweet note olympic spare wish pioneer domain half burst jacket live south";

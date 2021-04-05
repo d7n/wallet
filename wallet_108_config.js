@@ -1,1 +1,1 @@
-var mnemonic = "quality fresh fork teach marble oxygen uncover multiply arrow hurdle destroy obvious";
+var mnemonic = "opera pass thrive laptop cute ginger evil rich clerk matrix sheriff impose";

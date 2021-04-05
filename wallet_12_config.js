@@ -1,1 +1,1 @@
-var mnemonic = "tackle concert lizard remain giant admit valve harbor rain nice silk sudden";
+var mnemonic = "absent uphold beyond panel purity sauce fame give abandon wrap morning gym";

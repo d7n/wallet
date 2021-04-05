@@ -1,1 +1,1 @@
-var mnemonic = "damp trend girl cotton dynamic decade bar pill gossip wait process bike";
+var mnemonic = "fruit shift rare enrich try certain short skirt cattle echo pitch yard";

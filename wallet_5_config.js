@@ -1,1 +1,1 @@
-var mnemonic = "among diesel immense desk usual view fiction glass pill round viable inherit";
+var mnemonic = "path provide corn bomb mad neutral erode pyramid soup habit weapon much";

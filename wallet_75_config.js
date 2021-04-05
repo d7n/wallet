@@ -1,1 +1,1 @@
-var mnemonic = "promote resist slush object obey beyond void worth fossil jeans nurse chalk";
+var mnemonic = "metal ketchup make aisle member trade snake eye check salute ginger summer";

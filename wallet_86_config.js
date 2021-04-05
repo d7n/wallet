@@ -1,1 +1,1 @@
-var mnemonic = "expand detail liberty enroll large ritual either expire coconut prosper betray federal";
+var mnemonic = "illness target rib practice lunar later romance kite age reward priority company";

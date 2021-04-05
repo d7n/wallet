@@ -1,1 +1,1 @@
-var mnemonic = "foster appear express brain victory blouse assault scheme explain taste cost rival";
+var mnemonic = "alien clever room candy phone trigger discover bean rocket select floor dismiss";

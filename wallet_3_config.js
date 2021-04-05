@@ -1,1 +1,1 @@
-var mnemonic = "limb cage horror word silly cattle sad pumpkin dwarf fiscal invite raccoon";
+var mnemonic = "include slush abstract miss dragon leaf shoot casual future tone parrot spirit";

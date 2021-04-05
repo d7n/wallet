@@ -1,1 +1,1 @@
-var mnemonic = "pulse wheel entry shadow hover wish minor shaft spy convince robust friend";
+var mnemonic = "seven capable figure depth learn brother razor text cattle fade ritual quality";

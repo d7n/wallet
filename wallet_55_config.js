@@ -1,1 +1,1 @@
-var mnemonic = "clap inspire snake ugly trick friend crash mango invite borrow heart crew";
+var mnemonic = "fluid divorce special junk regular category suggest reform puzzle disagree barrel area";

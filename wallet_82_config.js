@@ -1,1 +1,1 @@
-var mnemonic = "urge control grant hip apart swap blouse silk fit update vacuum apology";
+var mnemonic = "hen crumble popular island visa today joke heavy crunch sight tooth aerobic";

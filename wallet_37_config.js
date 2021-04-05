@@ -1,1 +1,1 @@
-var mnemonic = "snack rotate imitate width repair finger border attack pattern empty width convince";
+var mnemonic = "know equip reflect dragon next lawn rack silent install food huge age";

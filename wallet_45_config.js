@@ -1,1 +1,1 @@
-var mnemonic = "nature usage fault primary alone impact ride source knock bubble rookie host";
+var mnemonic = "happy ask film wagon brief grape aunt hobby clump bounce search pretty";

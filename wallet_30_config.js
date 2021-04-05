@@ -1,1 +1,1 @@
-var mnemonic = "panel expand film mosquito parade mixed upgrade boring excite advice dragon ring";
+var mnemonic = "envelope oak catalog expect arm clay october search hurry brother town zero";

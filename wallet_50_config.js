@@ -1,1 +1,1 @@
-var mnemonic = "fit clerk please machine jaguar box pond brand oval wing depart leopard";
+var mnemonic = "fan leg economy gorilla biology dinosaur cloth timber general assault marble off";

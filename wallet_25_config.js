@@ -1,1 +1,1 @@
-var mnemonic = "media true sea rifle brand vague frequent spell wage humble hundred million";
+var mnemonic = "cave push canyon color culture charge unveil lumber bronze sand blast spike";

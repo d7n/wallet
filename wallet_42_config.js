@@ -1,1 +1,1 @@
-var mnemonic = "aunt mimic raven foster expand banner kangaroo habit tobacco normal bounce leaf";
+var mnemonic = "middle must toe auto strategy vacuum pipe asthma struggle spice envelope coconut";

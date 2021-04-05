@@ -1,1 +1,1 @@
-var mnemonic = "leisure million pledge ancient drum sense depth crystal deny merry order language";
+var mnemonic = "supreme physical silent rebel wild tennis strategy unit pulse produce base throw";

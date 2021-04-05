@@ -1,1 +1,1 @@
-var mnemonic = "educate tag basket tone curious mirror leader drastic destroy sense imitate shrug";
+var mnemonic = "enroll muffin multiply supply split proof warrior conduct vintage enforce knee decline";

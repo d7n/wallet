@@ -1,1 +1,1 @@
-var mnemonic = "crew aim glow divorce mandate swap join wrestle garden blanket myself theme";
+var mnemonic = "journey credit surface rookie grape glue more merit sick sustain cash space";

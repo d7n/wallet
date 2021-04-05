@@ -1,1 +1,1 @@
-var mnemonic = "mad magic route doll panic twist mandate tag coffee guilt divorce pair";
+var mnemonic = "transfer wheat exit destroy capable flip provide angry gaze expect capital pitch";

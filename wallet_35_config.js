@@ -1,1 +1,1 @@
-var mnemonic = "village wreck child second alley please wide soap expand pave inject artist";
+var mnemonic = "famous response swap bless combine hotel tornado model slow social hip print";

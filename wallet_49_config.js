@@ -1,1 +1,1 @@
-var mnemonic = "balance love reform brain retreat scheme label repair bike drum vacuum laugh";
+var mnemonic = "tag clip uncover front topic table aisle dolphin chaos net maple small";

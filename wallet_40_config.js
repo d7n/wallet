@@ -1,1 +1,1 @@
-var mnemonic = "jar draft good often all film october duty fit coyote gown jazz";
+var mnemonic = "rather moral ranch river seed twice near brave foot diary sweet describe";

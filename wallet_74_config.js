@@ -1,1 +1,1 @@
-var mnemonic = "royal punch pull track often simple come sail busy ridge push auction";
+var mnemonic = "quarter trust model unusual horse rent furnace cousin news buyer moment security";

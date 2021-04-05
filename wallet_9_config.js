@@ -1,1 +1,1 @@
-var mnemonic = "violin duty electric tornado treat toy pizza profit suit borrow subway fringe";
+var mnemonic = "glance pole phone shy gossip glance worth daring champion spot pumpkin satoshi";

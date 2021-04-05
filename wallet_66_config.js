@@ -1,1 +1,1 @@
-var mnemonic = "miracle when route admit dentist ship fix toss field elite melody collect";
+var mnemonic = "problem summer hair junior entry report garlic upper sustain radio tube innocent";

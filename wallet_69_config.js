@@ -1,1 +1,1 @@
-var mnemonic = "say year salon bid virus issue federal crush rare rapid bone novel";
+var mnemonic = "banner crop fluid shuffle pill liar pill material unfair menu yellow need";

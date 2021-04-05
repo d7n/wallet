@@ -1,1 +1,1 @@
-var mnemonic = "fortune grunt original viable unfold spot family very direct fury alien idea";
+var mnemonic = "fortune beach drastic action picture twin card jazz into van common once";
