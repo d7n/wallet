@@ -1,1 +1,1 @@
-var mnemonic = "smart member cricket lumber north cheap beach recipe kid labor toast inject";
+var mnemonic = "rib pencil silk prefer seven bar extra reunion silver kingdom cable lift";

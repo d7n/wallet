@@ -1,1 +1,1 @@
-var mnemonic = "pluck during monster aim sock just involve core engine nature dune practice";
+var mnemonic = "message clip pet faculty renew quiz live behind tortoise kit either announce";

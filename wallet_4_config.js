@@ -1,1 +1,1 @@
-var mnemonic = "swift easily solid beyond anxiety pupil cat happy much crisp sea bronze";
+var mnemonic = "snow bracket picture sad off spatial force tenant empower mansion stone ranch";

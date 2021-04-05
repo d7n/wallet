@@ -1,1 +1,1 @@
-var mnemonic = "dress ritual broken steak edit tank inside shove slim hair dismiss ignore";
+var mnemonic = "rule poverty panda mule any protect lady gadget skin skull again fatigue";

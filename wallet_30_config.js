@@ -1,1 +1,1 @@
-var mnemonic = "boy ocean endless wreck material reflect winner decorate casual dragon odor they";
+var mnemonic = "fine canoe swallow educate lunch illegal inflict trend avocado federal proud sister";

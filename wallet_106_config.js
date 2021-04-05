@@ -1,1 +1,1 @@
-var mnemonic = "puppy loyal shuffle nothing garage relax gadget awesome hospital ten permit anchor";
+var mnemonic = "bridge resource shoe modify believe obscure flavor state junk hobby mention wagon";

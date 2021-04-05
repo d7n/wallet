@@ -1,1 +1,1 @@
-var mnemonic = "will effort trash differ shoulder host initial tired virtual judge trash surface";
+var mnemonic = "stumble stadium peasant limb mask super loan cupboard bonus venture kite bulk";

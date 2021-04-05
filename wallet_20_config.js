@@ -1,1 +1,1 @@
-var mnemonic = "mountain edit cabin hybrid salute crater evolve auto collect bronze fossil hero";
+var mnemonic = "suggest solar affair alley exclude squeeze artefact hotel random poet suffer blanket";

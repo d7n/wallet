@@ -1,1 +1,1 @@
-var mnemonic = "gospel future brick share wine harvest usual chair chat project pitch arch";
+var mnemonic = "betray cook exchange shed mean spice there glide warfare pumpkin happy adult";

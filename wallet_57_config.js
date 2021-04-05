@@ -1,1 +1,1 @@
-var mnemonic = "please gauge deny tongue horn rely athlete isolate trial wink parade output";
+var mnemonic = "increase tower mad derive note seat prepare borrow culture foster prize soda";

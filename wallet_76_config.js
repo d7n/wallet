@@ -1,1 +1,1 @@
-var mnemonic = "dust surge peasant morning stock monitor wealth enough grape strike razor police";
+var mnemonic = "soldier capital train gallery cross movie junk security hobby charge sick fine";

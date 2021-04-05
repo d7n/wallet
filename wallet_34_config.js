@@ -1,1 +1,1 @@
-var mnemonic = "ancient acid grit sad inch catch alarm hamster traffic make what cancel";
+var mnemonic = "vanish bleak kitten fee celery soul old defense capable typical edit fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon inspire gold dumb monitor oblige disagree diagram scrub short drama usage";
+var mnemonic = "gain object wink glory crop year symbol nothing seed gown mistake bone";

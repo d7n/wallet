@@ -1,1 +1,1 @@
-var mnemonic = "good erase shift net spy neither pudding squeeze grace foam vacuum industry";
+var mnemonic = "evidence matter ready mouse fragile regret accident service infant blind license trash";

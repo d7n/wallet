@@ -1,1 +1,1 @@
-var mnemonic = "gift noble reward kitten distance picnic grab fluid slide wrong ranch main";
+var mnemonic = "axis give tilt mushroom behave carry cereal sponsor saddle sudden mirror grid";

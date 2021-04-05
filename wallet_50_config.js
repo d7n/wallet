@@ -1,1 +1,1 @@
-var mnemonic = "second path area jelly spirit opera travel beef zone survey art grass";
+var mnemonic = "fluid bounce defense icon unknown armed odor you pool stock offer cousin";

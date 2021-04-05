@@ -1,1 +1,1 @@
-var mnemonic = "frog become chunk day equip follow unusual sock media fury private stamp";
+var mnemonic = "crane buyer vendor solid say pizza october piece never jacket then drift";

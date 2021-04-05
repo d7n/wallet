@@ -1,1 +1,1 @@
-var mnemonic = "document fly law gym junk feature rent drift swap rookie razor syrup";
+var mnemonic = "useful sight resource tornado rebuild glare uphold wide wisdom chicken toe humor";

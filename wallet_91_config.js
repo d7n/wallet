@@ -1,1 +1,1 @@
-var mnemonic = "ability enroll anger hunt grunt because matrix solid angle bundle orchard tape";
+var mnemonic = "coconut grocery index adult private smile dry force alone maze kangaroo wet";

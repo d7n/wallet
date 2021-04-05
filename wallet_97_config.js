@@ -1,1 +1,1 @@
-var mnemonic = "visual client warrior track toss aspect hen silk dog leader east start";
+var mnemonic = "forward gloom process route episode amount slice anxiety learn law rescue online";

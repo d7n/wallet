@@ -1,1 +1,1 @@
-var mnemonic = "click sock talent hazard balcony ill illegal pumpkin artwork scare electric judge";
+var mnemonic = "lemon diesel extra clock cycle bicycle silk young list club slab waste";

@@ -1,1 +1,1 @@
-var mnemonic = "hint matter music emotion opera twenty indoor ladder border enough vacuum maid";
+var mnemonic = "vault juice news hurdle ask machine victory before robust flower garden cargo";

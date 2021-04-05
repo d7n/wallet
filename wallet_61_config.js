@@ -1,1 +1,1 @@
-var mnemonic = "matrix path trophy unusual thank crazy armor fuel gaze dust fat census";
+var mnemonic = "enjoy define zero crowd warm worry foot city mirror replace stamp walk";

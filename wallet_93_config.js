@@ -1,1 +1,1 @@
-var mnemonic = "project eight elder rigid hero book tower gorilla between conduct exclude crucial";
+var mnemonic = "gaze gun length immense capital turn poem pride metal hockey wool faith";

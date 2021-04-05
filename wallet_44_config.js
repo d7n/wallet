@@ -1,1 +1,1 @@
-var mnemonic = "supply lecture drastic cube satoshi kitchen subject rather betray avoid clarify stay";
+var mnemonic = "couple advance special border lonely gather huge shoulder fresh pulp song flower";

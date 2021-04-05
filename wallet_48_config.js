@@ -1,1 +1,1 @@
-var mnemonic = "travel unit mind spray next elevator achieve roof hole filter violin pear";
+var mnemonic = "avocado crystal pelican elbow hammer illegal agree glide vehicle limit capable found";

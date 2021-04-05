@@ -1,1 +1,1 @@
-var mnemonic = "cousin flash enemy acoustic own truck unfold crater unfair jewel salt trial";
+var mnemonic = "bacon transfer raise atom priority electric before jacket twenty trick detail pitch";

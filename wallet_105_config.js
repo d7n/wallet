@@ -1,1 +1,1 @@
-var mnemonic = "scout sad flock police wedding essay taxi various roast vendor extra betray";
+var mnemonic = "nest vapor material insane legal insect erosion immense hybrid retreat pigeon tip";

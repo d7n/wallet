@@ -1,1 +1,1 @@
-var mnemonic = "master walk school inside mirror brisk cradle enact travel split gain artwork";
+var mnemonic = "woman opera bring fee sentence hour vague cement romance theory inquiry possible";

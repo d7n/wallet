@@ -1,1 +1,1 @@
-var mnemonic = "cream believe broken lazy want famous clever snap way bachelor pluck will";
+var mnemonic = "winter toe camera oppose battle wool hotel rival fox peace legend twin";

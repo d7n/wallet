@@ -1,1 +1,1 @@
-var mnemonic = "parent crop orange syrup pen machine excite aspect wage embody heavy property";
+var mnemonic = "sense joy company seek marriage easily shock father afraid nice screen actual";

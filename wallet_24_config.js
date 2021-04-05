@@ -1,1 +1,1 @@
-var mnemonic = "amused pear genre inside animal about deal loyal together earth distance ring";
+var mnemonic = "clip boring figure range derive enrich differ security dance affair hospital initial";

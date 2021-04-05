@@ -1,1 +1,1 @@
-var mnemonic = "student update pencil reflect club similar seminar between assume satisfy melody session";
+var mnemonic = "news elephant country episode boost across lounge leader knife symptom silver nice";

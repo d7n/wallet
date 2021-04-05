@@ -1,1 +1,1 @@
-var mnemonic = "interest benefit current tonight enact reflect drastic ability alcohol festival problem denial";
+var mnemonic = "label shine beauty wife flavor position cook student load frost sun rotate";

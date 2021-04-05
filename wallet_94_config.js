@@ -1,1 +1,1 @@
-var mnemonic = "print online uniform dumb fault eagle output together make buddy dish baby";
+var mnemonic = "group cliff light engine swing sorry olive valve picnic donor spoil stand";

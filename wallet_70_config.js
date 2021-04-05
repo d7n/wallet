@@ -1,1 +1,1 @@
-var mnemonic = "weird degree wide hybrid patient enhance donor minor two path art spray";
+var mnemonic = "margin repeat reveal long attract spatial rail hazard spread adjust better airport";

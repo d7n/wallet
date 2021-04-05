@@ -1,1 +1,1 @@
-var mnemonic = "museum gown mobile marine laundry accident maximum bacon narrow lady boost hazard";
+var mnemonic = "wide embark fit mango token panel between tide table cloth lawsuit duck";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone ladder scare clap shock session battle prison clown space start lonely";
+var mnemonic = "retreat void detect stairs climb lunar glide leader decade umbrella cream bird";

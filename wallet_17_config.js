@@ -1,1 +1,1 @@
-var mnemonic = "nerve arrive vapor update invest super grace royal olive define front welcome";
+var mnemonic = "setup ostrich album gift famous grab game era demise humble page clinic";

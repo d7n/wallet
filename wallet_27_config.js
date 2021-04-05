@@ -1,1 +1,1 @@
-var mnemonic = "fatal crazy ugly neither bubble make oil loud nice lady nose reform";
+var mnemonic = "lecture glad during scale trumpet phrase initial owner claw style defense joke";

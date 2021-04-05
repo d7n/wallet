@@ -1,1 +1,1 @@
-var mnemonic = "wrong lottery skate frame alert confirm concert close uniform yellow napkin response";
+var mnemonic = "miss innocent cause theory deer disorder glare retire abstract large hand wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "air marble upset execute rule prosper cat spot buffalo wife coach seminar";
+var mnemonic = "belt solution faint local next turtle winner shed pigeon manage annual mobile";

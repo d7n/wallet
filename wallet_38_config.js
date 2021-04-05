@@ -1,1 +1,1 @@
-var mnemonic = "bundle wine chase vote shock smooth keep sausage credit pen verify open";
+var mnemonic = "welcome fever upon fossil vague unlock gown super seed split use warfare";

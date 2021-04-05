@@ -1,1 +1,1 @@
-var mnemonic = "canoe quiz kiwi holiday desert alone raise surprise clap detect correct mercy";
+var mnemonic = "memory bridge twenty caution option vital okay glory pudding park protect claim";

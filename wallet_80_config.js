@@ -1,1 +1,1 @@
-var mnemonic = "unusual other walk rocket hidden trophy right height discover swim ankle lesson";
+var mnemonic = "mimic spoil hybrid happy sound kite crazy coyote canyon expect allow mystery";

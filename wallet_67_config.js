@@ -1,1 +1,1 @@
-var mnemonic = "divorce genius twelve tent isolate use autumn ostrich payment cave uncle trade";
+var mnemonic = "skin fragile differ midnight steak brother plunge faith royal embody business letter";

@@ -1,1 +1,1 @@
-var mnemonic = "increase place praise carbon gauge twin step extra access nuclear marble upon";
+var mnemonic = "train abandon artefact urge obscure omit best decorate toe energy lift wire";

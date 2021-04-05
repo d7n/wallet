@@ -1,1 +1,1 @@
-var mnemonic = "rib clock then waste crush allow view orphan west jaguar throw talent";
+var mnemonic = "stick urge acid arch stereo opera estate stamp kingdom six panic trade";

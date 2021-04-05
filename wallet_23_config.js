@@ -1,1 +1,1 @@
-var mnemonic = "inhale letter ahead note modify earth text argue obvious half crew stadium";
+var mnemonic = "kidney hunt van process magic grant organ add unique upset foam ankle";

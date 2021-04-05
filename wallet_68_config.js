@@ -1,1 +1,1 @@
-var mnemonic = "repeat conduct first absent today correct west legend best salt elbow disorder";
+var mnemonic = "private forum crazy midnight auto acoustic silly silk jacket firm gravity slight";

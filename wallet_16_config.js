@@ -1,1 +1,1 @@
-var mnemonic = "tell catalog hollow hammer market taxi lamp cloud leader era remind bleak";
+var mnemonic = "tiger pepper nest noise obey blossom exclude latin distance trade flip scatter";

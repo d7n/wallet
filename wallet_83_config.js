@@ -1,1 +1,1 @@
-var mnemonic = "inject unfold rabbit tissue solution farm harbor female glance dilemma solar always";
+var mnemonic = "metal owner label scheme spy best fold disagree father warm barrel name";

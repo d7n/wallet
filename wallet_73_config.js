@@ -1,1 +1,1 @@
-var mnemonic = "retreat hurt task crowd gift then avoid barely embark ecology hand sand";
+var mnemonic = "tank attend staff lava cricket crew inmate couple plug change kid act";

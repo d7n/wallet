@@ -1,1 +1,1 @@
-var mnemonic = "snake jump afraid bundle gown multiply yellow ritual also depend never figure";
+var mnemonic = "high tooth squirrel tower post later fox piano attack when eagle steak";

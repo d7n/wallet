@@ -1,1 +1,1 @@
-var mnemonic = "spring fault gas silent parade robot soldier debate property infant enough police";
+var mnemonic = "long scatter explain horror road witness digital memory super proof limit shield";

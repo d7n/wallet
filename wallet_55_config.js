@@ -1,1 +1,1 @@
-var mnemonic = "illegal pelican supply sugar can situate fatigue sister scrub leg detect mail";
+var mnemonic = "method pen erase hedgehog left shift crack afford olive awful meadow stable";

@@ -1,1 +1,1 @@
-var mnemonic = "phone cattle feature keen battle truck hurt prepare hat rebel muscle flame";
+var mnemonic = "cool olympic attack wage wrong simple arrest ozone today anxiety rural burger";

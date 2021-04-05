@@ -1,1 +1,1 @@
-var mnemonic = "cannon filter firm federal normal option employ foster say judge deposit letter";
+var mnemonic = "figure venture leg quick buddy host tiny unlock border total ignore inhale";

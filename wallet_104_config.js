@@ -1,1 +1,1 @@
-var mnemonic = "material job glove welcome glad library young smart unhappy away hat muffin";
+var mnemonic = "couch update find share twin opera dial same behind gesture duck frown";

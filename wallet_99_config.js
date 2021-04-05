@@ -1,1 +1,1 @@
-var mnemonic = "horror swift twin barrel must surprise evoke donkey lounge slot river abstract";
+var mnemonic = "inner flavor asthma often rug grit disease autumn pill rebel vault bike";

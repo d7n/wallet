@@ -1,1 +1,1 @@
-var mnemonic = "pink divide ready scheme lens shrug force choice myth original tourist photo";
+var mnemonic = "taxi fossil resist enforce discover normal actress kingdom will rural sorry protect";

@@ -1,1 +1,1 @@
-var mnemonic = "only chronic filter vanish gown invest design rubber turtle flock measure truly";
+var mnemonic = "direct village spot stone practice bicycle happy clap tent mammal cereal friend";

@@ -1,1 +1,1 @@
-var mnemonic = "potato acoustic three brush visit ring crush pizza east brass sport volcano";
+var mnemonic = "melt moral observe long burger baby father employ miracle want tell airport";

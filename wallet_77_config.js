@@ -1,1 +1,1 @@
-var mnemonic = "shove thought reward game hen crowd stick style marble shove nose enjoy";
+var mnemonic = "emotion boat recall rebuild spin fever broken camp amused illegal calm begin";

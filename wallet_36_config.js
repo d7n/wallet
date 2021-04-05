@@ -1,1 +1,1 @@
-var mnemonic = "false walnut capital focus answer garage scan betray member word echo cause";
+var mnemonic = "advance creek quarter deposit owner scorpion learn wolf fiscal meadow inhale knee";

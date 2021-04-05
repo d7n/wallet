@@ -1,1 +1,1 @@
-var mnemonic = "dwarf female device giant vacuum gorilla one north unveil portion borrow day";
+var mnemonic = "favorite virtual recipe copper pill evoke legal country pepper brick upper use";

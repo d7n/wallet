@@ -1,1 +1,1 @@
-var mnemonic = "window hedgehog flip gorilla degree clog any bar tackle dolphin snack gap";
+var mnemonic = "property silly prosper tourist course wreck save immense ordinary zebra own book";

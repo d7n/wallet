@@ -1,1 +1,1 @@
-var mnemonic = "reward long other federal teach crisp crawl crime hair steel beef bus";
+var mnemonic = "only finger favorite arrow update early bench rare slot mandate marriage day";

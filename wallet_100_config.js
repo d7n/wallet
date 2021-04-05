@@ -1,1 +1,1 @@
-var mnemonic = "argue hair paper problem swallow gun fame genius fine burden antenna brand";
+var mnemonic = "arm team cable cattle obtain cotton cup blast hunt athlete gap country";

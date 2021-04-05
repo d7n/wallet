@@ -1,1 +1,1 @@
-var mnemonic = "wide page radio lecture thumb nominee nasty defense potato sketch evoke near";
+var mnemonic = "wild twin alert aunt tenant exchange midnight disease injury height embrace side";

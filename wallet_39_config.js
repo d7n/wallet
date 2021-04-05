@@ -1,1 +1,1 @@
-var mnemonic = "sword bright proof crew snack hamster crazy metal sample soldier orchard cause";
+var mnemonic = "visual almost cement west indicate prize draft power sausage one clap like";

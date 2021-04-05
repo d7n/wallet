@@ -1,1 +1,1 @@
-var mnemonic = "nominee blast mammal follow innocent puppy adjust learn opinion inquiry chaos clean";
+var mnemonic = "mandate public describe hole chat sphere zebra puzzle library knee soccer spoil";

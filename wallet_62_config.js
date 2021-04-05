@@ -1,1 +1,1 @@
-var mnemonic = "vacant toilet blood armed power select notable typical rug poem health menu";
+var mnemonic = "evolve bench margin cargo federal layer route clap message lucky stay emerge";

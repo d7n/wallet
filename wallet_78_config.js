@@ -1,1 +1,1 @@
-var mnemonic = "strike rent tribe buddy craft key october spatial menu catch daring poet";
+var mnemonic = "belt worry strike useful blouse rely raise deposit alcohol wait mesh index";

@@ -1,1 +1,1 @@
-var mnemonic = "correct aim believe clever off screen ankle crater sustain daring hawk critic";
+var mnemonic = "sister entire coast multiply twin thunder nephew enhance burger field winner move";

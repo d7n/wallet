@@ -1,1 +1,1 @@
-var mnemonic = "name practice blue search birth wrap radar write useful dish hamster school";
+var mnemonic = "pelican debris language horror mass arrest stadium check universe chalk brown anchor";

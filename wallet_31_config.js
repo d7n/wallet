@@ -1,1 +1,1 @@
-var mnemonic = "whale potato safe wife deliver section busy state neutral pull tunnel riot";
+var mnemonic = "love crop barely anchor useful icon rule erosion grid strong any measure";

@@ -1,1 +1,1 @@
-var mnemonic = "allow nation memory comic lock curve pelican aspect middle divert receive must";
+var mnemonic = "yard crowd trouble calm figure brother member indoor mixture tube axis trend";

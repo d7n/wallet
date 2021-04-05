@@ -1,1 +1,1 @@
-var mnemonic = "net satisfy brother park inhale humor mansion brief tourist recipe bulb remember";
+var mnemonic = "express detail student happy bulb debate fix detail hybrid side deal miss";

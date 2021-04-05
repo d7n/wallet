@@ -1,1 +1,1 @@
-var mnemonic = "decade brand salmon same wave brain window quarter lonely age essay cry";
+var mnemonic = "appear weather aunt village beauty behind math blue exile tragic unable remain";

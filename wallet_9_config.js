@@ -1,1 +1,1 @@
-var mnemonic = "shuffle census call spoil brown also usual erase axis evolve leopard rough";
+var mnemonic = "spell girl tobacco pretty remove screen dolphin nominee raccoon chest cliff gospel";

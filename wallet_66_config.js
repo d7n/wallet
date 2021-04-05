@@ -1,1 +1,1 @@
-var mnemonic = "memory frequent spice lecture post during hood cluster you level fragile negative";
+var mnemonic = "wise pitch home crystal rack maze embody cry essence between mobile eye";

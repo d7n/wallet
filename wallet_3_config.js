@@ -1,1 +1,1 @@
-var mnemonic = "girl used shadow sibling chief face reward donkey illness cereal capital add";
+var mnemonic = "pet drill tired sword into wear please civil vague black material amazing";

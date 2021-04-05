@@ -1,1 +1,1 @@
-var mnemonic = "float trouble jacket miracle paper man turkey boring frown opinion attract pond";
+var mnemonic = "solve cargo print game tower defense current good curious erase moon hotel";

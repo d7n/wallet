@@ -1,1 +1,1 @@
-var mnemonic = "carry gauge primary above digital game sail three benefit shadow echo swim";
+var mnemonic = "enjoy avocado rebel shy smile slow script luxury clay spatial beef hold";

@@ -1,1 +1,1 @@
-var mnemonic = "learn february tobacco marble dawn win world round essence table trick snap";
+var mnemonic = "oyster stable climb flee bag cube regret machine floor surge water obtain";

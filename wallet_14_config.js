@@ -1,1 +1,1 @@
-var mnemonic = "balance raw master connect devote account tornado oblige trash permit next gentle";
+var mnemonic = "march normal feed spot duck abstract anxiety tomato drink chef token city";

@@ -1,1 +1,1 @@
-var mnemonic = "core roof found wrist brain father forward abuse people staff excuse smoke";
+var mnemonic = "picnic scorpion drink remain cream kit body inquiry ride tail truly alert";

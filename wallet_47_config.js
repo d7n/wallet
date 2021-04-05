@@ -1,1 +1,1 @@
-var mnemonic = "adult spatial wedding valley cram crane lounge park forward level parrot antique";
+var mnemonic = "danger earn method beauty jewel bright thank alarm similar symptom uncover bunker";

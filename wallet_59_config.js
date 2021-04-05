@@ -1,1 +1,1 @@
-var mnemonic = "hen kiss slender cliff innocent ethics credit demise unhappy beyond ready chest";
+var mnemonic = "mention venture net execute swing fade biology assault trick cruel ahead pony";
