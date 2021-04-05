@@ -1,1 +1,1 @@
-var mnemonic = "also short when barrel club large slender there neglect update coyote eagle";
+var mnemonic = "swift easily solid beyond anxiety pupil cat happy much crisp sea bronze";

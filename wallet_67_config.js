@@ -1,1 +1,1 @@
-var mnemonic = "fitness goat predict torch eager black early tattoo jealous divorce shadow humble";
+var mnemonic = "divorce genius twelve tent isolate use autumn ostrich payment cave uncle trade";

@@ -1,1 +1,1 @@
-var mnemonic = "zero model snap nature uphold busy priority small wing pass girl action";
+var mnemonic = "material job glove welcome glad library young smart unhappy away hat muffin";

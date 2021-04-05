@@ -1,1 +1,1 @@
-var mnemonic = "jacket pilot unaware again guess risk flee number orbit okay valid doll";
+var mnemonic = "people edit dynamic call quarter eye craft sauce senior fortune fish scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure duty math obvious tube sell fiscal drink swallow vehicle book essence";
+var mnemonic = "horror swift twin barrel must surprise evoke donkey lounge slot river abstract";

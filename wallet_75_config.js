@@ -1,1 +1,1 @@
-var mnemonic = "express prefer write seek feel rail absorb arrest gallery nephew rough alpha";
+var mnemonic = "wear magnet because video mother popular stool blame order short alpha boil";

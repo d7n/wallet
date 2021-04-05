@@ -1,1 +1,1 @@
-var mnemonic = "brief extra helmet mask prize much lizard few crouch spring crystal poverty";
+var mnemonic = "boy ocean endless wreck material reflect winner decorate casual dragon odor they";

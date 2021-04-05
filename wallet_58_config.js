@@ -1,1 +1,1 @@
-var mnemonic = "spoon track around stadium veteran clever hour cook daughter defy fetch draw";
+var mnemonic = "canoe quiz kiwi holiday desert alone raise surprise clap detect correct mercy";

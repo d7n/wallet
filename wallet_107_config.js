@@ -1,1 +1,1 @@
-var mnemonic = "dust better tomorrow vast sponsor winter music wild tip ticket spray lobster";
+var mnemonic = "name practice blue search birth wrap radar write useful dish hamster school";

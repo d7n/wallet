@@ -1,1 +1,1 @@
-var mnemonic = "large private maze guess rely saddle fat hospital display join maze lion";
+var mnemonic = "gospel future brick share wine harvest usual chair chat project pitch arch";

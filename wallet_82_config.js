@@ -1,1 +1,1 @@
-var mnemonic = "auto when salad alert brand random panther cancel village innocent lift toy";
+var mnemonic = "document fly law gym junk feature rent drift swap rookie razor syrup";

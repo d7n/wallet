@@ -1,1 +1,1 @@
-var mnemonic = "wasp subject language sort wave scout ritual gravity bulb trash charge into";
+var mnemonic = "please gauge deny tongue horn rely athlete isolate trial wink parade output";

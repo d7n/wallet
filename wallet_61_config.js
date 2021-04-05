@@ -1,1 +1,1 @@
-var mnemonic = "alert concert copper tell duty patrol solution once result bar amateur used";
+var mnemonic = "matrix path trophy unusual thank crazy armor fuel gaze dust fat census";

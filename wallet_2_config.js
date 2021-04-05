@@ -1,1 +1,1 @@
-var mnemonic = "bamboo solid cattle venue flag bicycle machine risk brick loop display capable";
+var mnemonic = "corn muffin ripple river blind radio canyon creek canoe canvas romance grid";

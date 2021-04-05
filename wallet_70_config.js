@@ -1,1 +1,1 @@
-var mnemonic = "review empty name woman buddy state alpha guilt script dove project whale";
+var mnemonic = "weird degree wide hybrid patient enhance donor minor two path art spray";

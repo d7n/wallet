@@ -1,1 +1,1 @@
-var mnemonic = "keen three strong fever globe slice source final away worry fan thing";
+var mnemonic = "parent crop orange syrup pen machine excite aspect wage embody heavy property";

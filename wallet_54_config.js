@@ -1,1 +1,1 @@
-var mnemonic = "write any suggest park ceiling exercise timber once cushion regret recycle vapor";
+var mnemonic = "aim creek olympic opera multiply segment tiger wall angry canal medal turn";

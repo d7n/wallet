@@ -1,1 +1,1 @@
-var mnemonic = "wagon zebra decline gown fence pluck rain shoulder alter quantum release opinion";
+var mnemonic = "rib clock then waste crush allow view orphan west jaguar throw talent";

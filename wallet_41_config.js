@@ -1,1 +1,1 @@
-var mnemonic = "crucial broken edge possible upper receive raccoon food crew kingdom peanut cruel";
+var mnemonic = "slow budget stadium orient advice quit absorb like ketchup blast poem foster";

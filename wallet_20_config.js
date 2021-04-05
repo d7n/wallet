@@ -1,1 +1,1 @@
-var mnemonic = "slice street unit pink cool box property minimum forward kit small cliff";
+var mnemonic = "mountain edit cabin hybrid salute crater evolve auto collect bronze fossil hero";

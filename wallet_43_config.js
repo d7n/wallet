@@ -1,1 +1,1 @@
-var mnemonic = "flight pattern ring away embark unhappy visit penalty energy result pair zone";
+var mnemonic = "potato acoustic three brush visit ring crush pizza east brass sport volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "flip gain defense sport dish patient assume brush obscure cement surge quality";
+var mnemonic = "two seed brisk blur learn matter select estate festival cheese payment monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket puzzle mutual effort twice nerve spice orient hungry crater coyote enrich";
+var mnemonic = "second path area jelly spirit opera travel beef zone survey art grass";

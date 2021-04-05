@@ -1,1 +1,1 @@
-var mnemonic = "romance nest armed rapid monitor swing person social alien expose identify couple";
+var mnemonic = "fold drive car educate acoustic clip sorry develop into frame evolve immense";

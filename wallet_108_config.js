@@ -1,1 +1,1 @@
-var mnemonic = "success space pipe found model forward black ability detail crouch ill vanish";
+var mnemonic = "cannon filter firm federal normal option employ foster say judge deposit letter";

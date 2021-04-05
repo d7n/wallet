@@ -1,1 +1,1 @@
-var mnemonic = "lucky intact angry forward present replace volume word erosion laptop axis poet";
+var mnemonic = "wild chat oven rule brief any drop decorate fox mushroom diary insect";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer certain sword awake extra brave life melody mistake rebel arena leopard";
+var mnemonic = "ancient acid grit sad inch catch alarm hamster traffic make what cancel";

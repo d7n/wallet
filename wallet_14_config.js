@@ -1,1 +1,1 @@
-var mnemonic = "forest sweet until forest security cloud flip swallow stumble just verb calm";
+var mnemonic = "balance raw master connect devote account tornado oblige trash permit next gentle";

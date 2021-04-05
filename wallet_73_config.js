@@ -1,1 +1,1 @@
-var mnemonic = "dash marble ugly jewel crumble stand unveil biology kind material drama over";
+var mnemonic = "retreat hurt task crowd gift then avoid barely embark ecology hand sand";

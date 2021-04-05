@@ -1,1 +1,1 @@
-var mnemonic = "sell empower replace wave merge plastic tenant code cart night private bless";
+var mnemonic = "vacant toilet blood armed power select notable typical rug poem health menu";

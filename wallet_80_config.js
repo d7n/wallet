@@ -1,1 +1,1 @@
-var mnemonic = "tank vacuum jump call walk good crack stadium cliff desk eye barely";
+var mnemonic = "unusual other walk rocket hidden trophy right height discover swim ankle lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton police author observe summer envelope deal dance alley trigger pretty scan";
+var mnemonic = "cousin flash enemy acoustic own truck unfold crater unfair jewel salt trial";

@@ -1,1 +1,1 @@
-var mnemonic = "pact praise grocery dolphin climb ketchup name client destroy hire ozone trade";
+var mnemonic = "tell catalog hollow hammer market taxi lamp cloud leader era remind bleak";

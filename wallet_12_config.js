@@ -1,1 +1,1 @@
-var mnemonic = "course race cheese wall apple addict exit wall valley guilt much render";
+var mnemonic = "only chronic filter vanish gown invest design rubber turtle flock measure truly";

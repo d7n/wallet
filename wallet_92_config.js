@@ -1,1 +1,1 @@
-var mnemonic = "other sun dog arm accident youth impact ask ribbon such air forget";
+var mnemonic = "medal bacon chuckle shaft member order hidden pet bright fetch basket inch";

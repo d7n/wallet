@@ -1,1 +1,1 @@
-var mnemonic = "intact layer mixture shuffle winner gown business pull heavy moon license high";
+var mnemonic = "will effort trash differ shoulder host initial tired virtual judge trash surface";

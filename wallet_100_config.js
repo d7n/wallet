@@ -1,1 +1,1 @@
-var mnemonic = "warfare nature unfair gossip lobster city noodle best brass huge matter admit";
+var mnemonic = "argue hair paper problem swallow gun fame genius fine burden antenna brand";

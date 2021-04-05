@@ -1,1 +1,1 @@
-var mnemonic = "grit vintage crush broom supreme unfold kite over crazy almost pool can";
+var mnemonic = "visual client warrior track toss aspect hen silk dog leader east start";

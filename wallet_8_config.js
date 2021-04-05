@@ -1,1 +1,1 @@
-var mnemonic = "fly visual rent north message eight twist web garden sea host permit";
+var mnemonic = "weapon inspire gold dumb monitor oblige disagree diagram scrub short drama usage";

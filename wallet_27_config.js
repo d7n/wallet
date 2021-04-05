@@ -1,1 +1,1 @@
-var mnemonic = "never wheel laugh join gasp special index vibrant toddler broccoli tell swamp";
+var mnemonic = "fatal crazy ugly neither bubble make oil loud nice lady nose reform";

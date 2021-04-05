@@ -1,1 +1,1 @@
-var mnemonic = "crush invite insect there grape ability analyst thing situate tortoise emerge renew";
+var mnemonic = "false walnut capital focus answer garage scan betray member word echo cause";

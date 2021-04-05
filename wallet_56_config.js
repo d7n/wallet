@@ -1,1 +1,1 @@
-var mnemonic = "humble gallery tackle gain spice route tiny guilt crush lawsuit hundred degree";
+var mnemonic = "decade brand salmon same wave brain window quarter lonely age essay cry";

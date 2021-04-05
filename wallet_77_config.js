@@ -1,1 +1,1 @@
-var mnemonic = "about trap fog twelve image spin praise morning lazy segment believe limit";
+var mnemonic = "shove thought reward game hen crowd stick style marble shove nose enjoy";

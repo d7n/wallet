@@ -1,1 +1,1 @@
-var mnemonic = "strategy ship shock slight mango gather april crucial tide rude tail parent";
+var mnemonic = "puppy loyal shuffle nothing garage relax gadget awesome hospital ten permit anchor";

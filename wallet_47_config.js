@@ -1,1 +1,1 @@
-var mnemonic = "stone abstract lounge park badge culture lab foot leopard sentence only fiscal";
+var mnemonic = "adult spatial wedding valley cram crane lounge park forward level parrot antique";

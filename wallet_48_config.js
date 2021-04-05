@@ -1,1 +1,1 @@
-var mnemonic = "scrub tower party arm valve sort topic seat brush identify scissors warm";
+var mnemonic = "travel unit mind spray next elevator achieve roof hole filter violin pear";

@@ -1,1 +1,1 @@
-var mnemonic = "room message olive disorder ostrich mule cement add forward decrease achieve stamp";
+var mnemonic = "student update pencil reflect club similar seminar between assume satisfy melody session";

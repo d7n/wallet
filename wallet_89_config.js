@@ -1,1 +1,1 @@
-var mnemonic = "rubber electric advance smart knock hotel report grape circle vast wide project";
+var mnemonic = "hint matter music emotion opera twenty indoor ladder border enough vacuum maid";

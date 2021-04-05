@@ -1,1 +1,1 @@
-var mnemonic = "hat media autumn cradle menu belt unfold ability father glimpse crouch confirm";
+var mnemonic = "net satisfy brother park inhale humor mansion brief tourist recipe bulb remember";

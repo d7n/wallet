@@ -1,1 +1,1 @@
-var mnemonic = "cram neutral dust situate antique donkey theme brick item brown unfair buyer";
+var mnemonic = "phone cattle feature keen battle truck hurt prepare hat rebel muscle flame";

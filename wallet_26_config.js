@@ -1,1 +1,1 @@
-var mnemonic = "vendor hurdle useful helmet debris asthma horse uncover service verify suit bargain";
+var mnemonic = "gift noble reward kitten distance picnic grab fluid slide wrong ranch main";

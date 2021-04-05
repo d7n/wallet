@@ -1,1 +1,1 @@
-var mnemonic = "novel promote basic interest web fold shuffle struggle interest click disagree odor";
+var mnemonic = "cream believe broken lazy want famous clever snap way bachelor pluck will";

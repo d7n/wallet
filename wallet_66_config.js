@@ -1,1 +1,1 @@
-var mnemonic = "clog frozen jungle thing act erode lawn salt empty senior unusual click";
+var mnemonic = "memory frequent spice lecture post during hood cluster you level fragile negative";

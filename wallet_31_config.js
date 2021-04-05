@@ -1,1 +1,1 @@
-var mnemonic = "whip yard stable nerve habit gift year sketch purchase nothing claim coral";
+var mnemonic = "whale potato safe wife deliver section busy state neutral pull tunnel riot";

@@ -1,1 +1,1 @@
-var mnemonic = "detail clog swap sure fitness spice hammer inspire eager myth excite gospel";
+var mnemonic = "window hedgehog flip gorilla degree clog any bar tackle dolphin snack gap";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos toward seed ready torch charge like puppy apart gorilla answer hold";
+var mnemonic = "nerve arrive vapor update invest super grace royal olive define front welcome";

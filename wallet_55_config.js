@@ -1,1 +1,1 @@
-var mnemonic = "test ring illegal liberty gown avoid lens vanish runway talk pupil draw";
+var mnemonic = "illegal pelican supply sugar can situate fatigue sister scrub leg detect mail";

@@ -1,1 +1,1 @@
-var mnemonic = "silly pipe economy cup brave rich tennis old dog own remember tide";
+var mnemonic = "click sock talent hazard balcony ill illegal pumpkin artwork scare electric judge";

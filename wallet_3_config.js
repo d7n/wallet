@@ -1,1 +1,1 @@
-var mnemonic = "beach fan choose cover glow relax siren vanish fresh worry unveil program";
+var mnemonic = "girl used shadow sibling chief face reward donkey illness cereal capital add";

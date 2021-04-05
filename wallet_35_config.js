@@ -1,1 +1,1 @@
-var mnemonic = "kitten jazz glove ocean often reject change report route fruit dust festival";
+var mnemonic = "nominee blast mammal follow innocent puppy adjust learn opinion inquiry chaos clean";

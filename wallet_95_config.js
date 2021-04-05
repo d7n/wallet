@@ -1,1 +1,1 @@
-var mnemonic = "laundry clock arena forest dust danger online spice result shoot solid scatter";
+var mnemonic = "snake jump afraid bundle gown multiply yellow ritual also depend never figure";

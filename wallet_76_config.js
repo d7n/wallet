@@ -1,1 +1,1 @@
-var mnemonic = "unable split trial cement empower dizzy blossom style crush tube junior wish";
+var mnemonic = "dust surge peasant morning stock monitor wealth enough grape strike razor police";

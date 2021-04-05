@@ -1,1 +1,1 @@
-var mnemonic = "rhythm thunder blast club cost shoulder meadow breeze control delay life expose";
+var mnemonic = "smart member cricket lumber north cheap beach recipe kid labor toast inject";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork hockey mushroom sweet once outer interest erode will elite search wife";
+var mnemonic = "wide page radio lecture thumb nominee nasty defense potato sketch evoke near";

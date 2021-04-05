@@ -1,1 +1,1 @@
-var mnemonic = "feel siren scan beauty small state bulk mirror phone scheme galaxy swear";
+var mnemonic = "spring fault gas silent parade robot soldier debate property infant enough police";

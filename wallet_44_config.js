@@ -1,1 +1,1 @@
-var mnemonic = "biology actor crucial modify enlist nurse during agree language warm ripple pelican";
+var mnemonic = "supply lecture drastic cube satoshi kitchen subject rather betray avoid clarify stay";

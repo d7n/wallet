@@ -1,1 +1,1 @@
-var mnemonic = "dust moon practice bean raise puppy host school morning tackle ridge dentist";
+var mnemonic = "ozone ladder scare clap shock session battle prison clown space start lonely";

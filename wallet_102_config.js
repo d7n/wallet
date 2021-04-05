@@ -1,1 +1,1 @@
-var mnemonic = "wonder learn phrase excite vacuum rose globe merge purity clip sick pyramid";
+var mnemonic = "museum gown mobile marine laundry accident maximum bacon narrow lady boost hazard";

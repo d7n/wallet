@@ -1,1 +1,1 @@
-var mnemonic = "thank husband gasp damage connect near stool trap dinosaur bid actor frog";
+var mnemonic = "inhale letter ahead note modify earth text argue obvious half crew stadium";

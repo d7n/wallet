@@ -1,1 +1,1 @@
-var mnemonic = "bundle skill penalty village hello match energy execute hand drive ahead alley";
+var mnemonic = "core roof found wrist brain father forward abuse people staff excuse smoke";

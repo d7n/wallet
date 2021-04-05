@@ -1,1 +1,1 @@
-var mnemonic = "agent today access bargain eye story glow various eager naive action where";
+var mnemonic = "scout sad flock police wedding essay taxi various roast vendor extra betray";

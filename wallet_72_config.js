@@ -1,1 +1,1 @@
-var mnemonic = "pen wisdom sing peasant brown clerk clinic inmate disorder truck false index";
+var mnemonic = "camera insane oven blood offer review weird income drastic theory nerve parrot";

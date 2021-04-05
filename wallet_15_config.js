@@ -1,1 +1,1 @@
-var mnemonic = "giraffe trip turtle concert enter ridge reason afford powder pumpkin ghost shoe";
+var mnemonic = "pluck during monster aim sock just involve core engine nature dune practice";

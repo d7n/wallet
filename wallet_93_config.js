@@ -1,1 +1,1 @@
-var mnemonic = "purchase tell artwork local sleep tooth pluck spirit valid define despair notice";
+var mnemonic = "project eight elder rigid hero book tower gorilla between conduct exclude crucial";

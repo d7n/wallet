@@ -1,1 +1,1 @@
-var mnemonic = "fluid nation basket already access crunch index build blouse quality tongue bargain";
+var mnemonic = "bundle wine chase vote shock smooth keep sausage credit pen verify open";

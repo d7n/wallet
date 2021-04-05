@@ -1,1 +1,1 @@
-var mnemonic = "visit comfort boil boy install loud similar sample strategy prefer hospital ridge";
+var mnemonic = "ceiling jelly seed spring assume alpha below parent express twice merit fire";

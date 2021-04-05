@@ -1,1 +1,1 @@
-var mnemonic = "cannon reunion reward tent pulp melt animal shaft panther legend run token";
+var mnemonic = "correct aim believe clever off screen ankle crater sustain daring hawk critic";

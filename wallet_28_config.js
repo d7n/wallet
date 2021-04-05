@@ -1,1 +1,1 @@
-var mnemonic = "hard average keen long swear ankle echo also rich rabbit emotion canyon";
+var mnemonic = "learn february tobacco marble dawn win world round essence table trick snap";

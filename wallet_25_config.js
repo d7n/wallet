@@ -1,1 +1,1 @@
-var mnemonic = "narrow hip muffin tonight laugh drama hat agent napkin neck install shop";
+var mnemonic = "pink divide ready scheme lens shrug force choice myth original tourist photo";

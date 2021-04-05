@@ -1,1 +1,1 @@
-var mnemonic = "include network depth code rate box siege globe exact minimum turtle point";
+var mnemonic = "wrong lottery skate frame alert confirm concert close uniform yellow napkin response";

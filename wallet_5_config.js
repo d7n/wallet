@@ -1,1 +1,1 @@
-var mnemonic = "figure twice region car skull open boy unknown kingdom popular nut stumble";
+var mnemonic = "reward long other federal teach crisp crawl crime hair steel beef bus";

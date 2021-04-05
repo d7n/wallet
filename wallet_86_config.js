@@ -1,1 +1,1 @@
-var mnemonic = "rally muffin convince rose emotion capital gap glare oppose lake razor morning";
+var mnemonic = "increase place praise carbon gauge twin step extra access nuclear marble upon";

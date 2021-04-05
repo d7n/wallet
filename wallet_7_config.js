@@ -1,1 +1,1 @@
-var mnemonic = "peace tenant ripple win vocal chat protect agree sting climb doll novel";
+var mnemonic = "train consider clutch perfect village shed forward furnace dream angry connect urge";

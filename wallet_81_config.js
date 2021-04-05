@@ -1,1 +1,1 @@
-var mnemonic = "asset acquire keep dirt quality park cliff ten then habit skin arch";
+var mnemonic = "dwarf female device giant vacuum gorilla one north unveil portion borrow day";

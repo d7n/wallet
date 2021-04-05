@@ -1,1 +1,1 @@
-var mnemonic = "robust million genre truly puzzle hunt credit dinosaur hire gain quarter target";
+var mnemonic = "shuffle census call spoil brown also usual erase axis evolve leopard rough";

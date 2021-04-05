@@ -1,1 +1,1 @@
-var mnemonic = "squeeze home team eyebrow change audit evidence logic finish shadow shed float";
+var mnemonic = "carry gauge primary above digital game sail three benefit shadow echo swim";

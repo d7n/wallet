@@ -1,1 +1,1 @@
-var mnemonic = "express change neutral scare check identify pupil rice absorb dish upper salute";
+var mnemonic = "memory lunch essence grow metal position phone base juice forward link say";

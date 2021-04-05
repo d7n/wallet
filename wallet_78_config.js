@@ -1,1 +1,1 @@
-var mnemonic = "share east pet despair burst slide sheriff parade floor gauge skin affair";
+var mnemonic = "strike rent tribe buddy craft key october spatial menu catch daring poet";
