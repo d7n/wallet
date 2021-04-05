@@ -1,1 +1,1 @@
-var mnemonic = "system fabric pole supply pottery kingdom fresh glance burger vicious refuse wedding";
+var mnemonic = "worry master trouble coil among believe wheel embrace guide crunch undo fold";

@@ -1,1 +1,1 @@
-var mnemonic = "bundle adjust grape eight ivory orphan fine spatial swing vapor soon yellow";
+var mnemonic = "hint alter jeans one cruel october language fresh alarm sibling choose wire";

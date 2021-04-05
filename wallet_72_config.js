@@ -1,1 +1,1 @@
-var mnemonic = "canyon claw boat turn strategy sister bulb split before suggest pattern gown";
+var mnemonic = "cupboard sight lumber minute draft fog patrol desert seminar virtual sauce brisk";

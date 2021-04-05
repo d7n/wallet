@@ -1,1 +1,1 @@
-var mnemonic = "photo midnight canal sausage defense west spend early control enjoy deny until";
+var mnemonic = "wave dizzy october door movie spirit prepare shiver open drink uniform canyon";

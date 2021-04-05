@@ -1,1 +1,1 @@
-var mnemonic = "lucky box box tourist alpha wall put truly glide drama fury voyage";
+var mnemonic = "forget audit noise emerge oppose atom slogan joke one eager timber fade";

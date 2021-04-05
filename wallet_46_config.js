@@ -1,1 +1,1 @@
-var mnemonic = "glad wagon digital cube need zone come shy flee cash fog wool";
+var mnemonic = "harsh lab method various roof all mystery tree draw change sunset casual";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil winner notice auto visit roof prevent piano arrange luxury excess shoe";
+var mnemonic = "tray bachelor raven voice notice surprise carry weather merge orient expose follow";

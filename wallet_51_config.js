@@ -1,1 +1,1 @@
-var mnemonic = "worth damp tiger later lion era topic phone true plunge basic chalk";
+var mnemonic = "exit toe grass word canoe family wash mad rural loop unfair bamboo";

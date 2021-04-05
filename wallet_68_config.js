@@ -1,1 +1,1 @@
-var mnemonic = "venture genre puzzle spring sea panic enrich flight casual leader pipe expire";
+var mnemonic = "oyster devote health turkey spoon grab maple rabbit marine right rich maze";

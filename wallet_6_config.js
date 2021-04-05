@@ -1,1 +1,1 @@
-var mnemonic = "wet hand crisp equip illness tourist series actual unfair verify manual topple";
+var mnemonic = "era fish humor frog type thought suspect evoke tone lizard expire total";

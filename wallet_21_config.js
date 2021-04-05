@@ -1,1 +1,1 @@
-var mnemonic = "kiss rubber churn evidence smoke patient diagram beyond coil swing argue cart";
+var mnemonic = "surround elite coconut fame ugly scale bargain away juice base sample slush";

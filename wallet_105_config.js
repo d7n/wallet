@@ -1,1 +1,1 @@
-var mnemonic = "spot butter letter juice curious divert dress able silver match purchase syrup";
+var mnemonic = "kitchen tuna prepare baby pole math fossil chair oven engine drastic assume";

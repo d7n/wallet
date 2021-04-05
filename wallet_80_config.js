@@ -1,1 +1,1 @@
-var mnemonic = "tumble profit extra rhythm wrap control interest clog general void marriage dice";
+var mnemonic = "glimpse three emerge hood rifle version inner banana hub crouch donor squirrel";

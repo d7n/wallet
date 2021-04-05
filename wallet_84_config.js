@@ -1,1 +1,1 @@
-var mnemonic = "okay broken assault siege limit cream decade afford inmate wrap vast craft";
+var mnemonic = "pattern action tongue elephant armed cigar captain pen critic donate unlock cute";

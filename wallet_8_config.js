@@ -1,1 +1,1 @@
-var mnemonic = "eye forward caught later rifle please occur cruise saddle dismiss answer rib";
+var mnemonic = "scout climb purchase suspect monkey pulp card trade grass lady canoe menu";

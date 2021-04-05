@@ -1,1 +1,1 @@
-var mnemonic = "couch vote tackle harvest double slush kit anger spoil weather baby already";
+var mnemonic = "noodle edge crane nurse kid reject exclude punch extend bullet sunny laugh";

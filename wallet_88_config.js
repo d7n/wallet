@@ -1,1 +1,1 @@
-var mnemonic = "napkin road used clerk crumble kiwi floor dilemma ten mandate hedgehog cluster";
+var mnemonic = "modify royal embody page stay cannon dwarf staff kiss organ swamp vapor";

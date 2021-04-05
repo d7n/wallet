@@ -1,1 +1,1 @@
-var mnemonic = "slide parade dirt rubber fancy fruit enforce song cool faint urge bike";
+var mnemonic = "patient recall tiny extra panther high segment warfare sand proof common possible";

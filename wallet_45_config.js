@@ -1,1 +1,1 @@
-var mnemonic = "peasant recipe blind wood index box actress lumber size make push reject";
+var mnemonic = "obvious ask stomach across position assist ice holiday next reduce conduct nose";

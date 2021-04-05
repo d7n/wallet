@@ -1,1 +1,1 @@
-var mnemonic = "illness curious execute empower vast muscle supply announce pause skin night observe";
+var mnemonic = "farm enjoy hazard humble pistol fire speed inherit kiss empower collect grid";

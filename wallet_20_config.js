@@ -1,1 +1,1 @@
-var mnemonic = "vehicle butter couch all sorry medal front scene fitness runway february cotton";
+var mnemonic = "million found opinion swarm action inhale they boring original equip popular chalk";

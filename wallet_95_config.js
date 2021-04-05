@@ -1,1 +1,1 @@
-var mnemonic = "diesel sport alien manage shock correct unveil glory area side repair type";
+var mnemonic = "hood window viable harbor catch cruel kiwi next bonus permit oyster language";

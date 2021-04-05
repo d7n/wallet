@@ -1,1 +1,1 @@
-var mnemonic = "suit gather athlete eye embark defense fresh evidence vicious inform girl rescue";
+var mnemonic = "scissors they ribbon nasty fold close shift recycle clean range excess insane";

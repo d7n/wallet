@@ -1,1 +1,1 @@
-var mnemonic = "offer unlock fury health can permit pioneer ugly luggage ugly phone raven";
+var mnemonic = "core pizza disorder cable thank cat silk when melt wild chunk lyrics";

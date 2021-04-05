@@ -1,1 +1,1 @@
-var mnemonic = "wage void blossom limit audit amateur doll vague chapter electric cool seed";
+var mnemonic = "report wish shield cause online cash inherit tuition empty hope story age";

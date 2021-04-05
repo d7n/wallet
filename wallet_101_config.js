@@ -1,1 +1,1 @@
-var mnemonic = "pitch museum sunny alert inquiry floor rally noodle margin black rigid magic";
+var mnemonic = "grass chat parent cloth gun excess narrow reject cancel scrap again lend";

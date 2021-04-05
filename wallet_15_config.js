@@ -1,1 +1,1 @@
-var mnemonic = "upset leopard govern group ring drum unfair silent you cake hour wealth";
+var mnemonic = "target fatal seek venue horn gloom toddler trust believe couch assume chicken";

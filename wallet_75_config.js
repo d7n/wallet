@@ -1,1 +1,1 @@
-var mnemonic = "stereo curve merit leaf logic mass fine jump only wise birth tilt";
+var mnemonic = "leader hour polar capital inject limb enlist process fetch suspect glow phone";

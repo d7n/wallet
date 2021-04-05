@@ -1,1 +1,1 @@
-var mnemonic = "crop sport acquire visual talent armor draft husband belt kitten annual uphold";
+var mnemonic = "forget empower parrot number hill broom battle drive dash once rally section";

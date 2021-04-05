@@ -1,1 +1,1 @@
-var mnemonic = "patient weekend casual mean bar unfair very ozone purpose dentist universe intact";
+var mnemonic = "order anger session announce clock reflect velvet hover finger obey blade cotton";

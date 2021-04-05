@@ -1,1 +1,1 @@
-var mnemonic = "surprise undo interest abuse copy evolve grow cruise beach brush half install";
+var mnemonic = "deny stamp destroy rubber slice unlock useful siren cube congress cannon duck";

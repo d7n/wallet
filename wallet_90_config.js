@@ -1,1 +1,1 @@
-var mnemonic = "robust ribbon iron young grab subject drastic wave approve blame urge urban";
+var mnemonic = "flag strong blanket mail subject total afford cloud device abstract term tail";

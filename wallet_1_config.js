@@ -1,1 +1,1 @@
-var mnemonic = "stone debris maid coyote mouse promote try baby dismiss program tortoise task";
+var mnemonic = "salute cement bulk come alpha salt tattoo huge broom usual mandate engine";

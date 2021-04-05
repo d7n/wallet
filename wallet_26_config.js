@@ -1,1 +1,1 @@
-var mnemonic = "month lawsuit multiply total program diagram almost tonight trim frequent swift upgrade";
+var mnemonic = "swamp budget ladder wisdom coyote wheat upset burden inner ketchup middle open";

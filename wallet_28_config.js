@@ -1,1 +1,1 @@
-var mnemonic = "aspect unit fancy tree mule orphan welcome note candy case toss drum";
+var mnemonic = "swallow include tree maple hope crystal robot prevent civil million armed chaos";

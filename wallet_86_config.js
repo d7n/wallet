@@ -1,1 +1,1 @@
-var mnemonic = "empty sight buddy sand cup park proof body daring suggest pistol carbon";
+var mnemonic = "ride inherit flock absorb plug muffin distance high art exclude soon champion";

@@ -1,1 +1,1 @@
-var mnemonic = "demand section bunker affair photo foil window shield warm inmate clerk picnic";
+var mnemonic = "comic pet skin burst arctic slide box track confirm concert behave convince";

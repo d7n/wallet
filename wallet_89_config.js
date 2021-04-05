@@ -1,1 +1,1 @@
-var mnemonic = "damage decide good question myself grass shed diamond pride garment indicate midnight";
+var mnemonic = "stay media alley calm consider dad clinic regret census glove expand sleep";

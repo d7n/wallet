@@ -1,1 +1,1 @@
-var mnemonic = "lizard gather inhale rail unfair result aisle private grab exchange myth boring";
+var mnemonic = "pen pizza patch supreme claw social kangaroo wait carpet build now ostrich";

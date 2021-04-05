@@ -1,1 +1,1 @@
-var mnemonic = "swap large grid keep level blossom clerk obvious response soon festival daughter";
+var mnemonic = "whale coil master opinion public wage series chalk boy cram exile wrestle";

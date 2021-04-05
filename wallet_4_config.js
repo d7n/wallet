@@ -1,1 +1,1 @@
-var mnemonic = "daughter catch empower orbit movie auto car still rally pink ice void";
+var mnemonic = "involve anxiety monitor order expand daring spell home aware tattoo person cinnamon";

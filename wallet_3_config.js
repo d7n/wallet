@@ -1,1 +1,1 @@
-var mnemonic = "champion want they embody iron evoke citizen neither shoulder screen armor web";
+var mnemonic = "shell wire noodle range asthma feature destroy lunar between lottery stage diet";

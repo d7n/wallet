@@ -1,1 +1,1 @@
-var mnemonic = "chimney involve panda immense jazz vacuum dune skill immense advance citizen tail";
+var mnemonic = "admit turn lawsuit pottery illness rubber same silent keep prize wrong health";

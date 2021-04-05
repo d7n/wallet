@@ -1,1 +1,1 @@
-var mnemonic = "fancy subject helmet chuckle pear smile actual allow ring identify hole local";
+var mnemonic = "february bless twice program able like lamp breeze course lab muscle offer";

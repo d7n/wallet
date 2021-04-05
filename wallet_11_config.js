@@ -1,1 +1,1 @@
-var mnemonic = "energy half lumber pitch enroll yellow vivid rice wall spell raise useless";
+var mnemonic = "useless illegal erode solar response top raccoon cheap trick idea upper swap";

@@ -1,1 +1,1 @@
-var mnemonic = "interest spread advice cute uniform plug property wild chaos cute forum dove";
+var mnemonic = "life print vibrant day track speed episode scissors blade shield alpha predict";

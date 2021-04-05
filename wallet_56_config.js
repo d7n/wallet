@@ -1,1 +1,1 @@
-var mnemonic = "essay mimic bamboo brother magnet chef text size curtain clap hint crane";
+var mnemonic = "wealth figure dry route learn shop once police brave shoe iron rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet chair demand clerk flavor current client puppy apart sentence regret rug";
+var mnemonic = "warm ring ill weasel rug egg vessel salmon dentist camera about still";

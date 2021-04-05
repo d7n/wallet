@@ -1,1 +1,1 @@
-var mnemonic = "grace similar bring student diesel level distance echo raise tackle margin unit";
+var mnemonic = "lesson express cannon service cigar among myself coyote blade height fit you";

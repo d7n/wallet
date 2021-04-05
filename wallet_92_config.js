@@ -1,1 +1,1 @@
-var mnemonic = "wear dash oak joke avoid wear slam intact region load lottery version";
+var mnemonic = "vehicle innocent decline breeze connect where habit solution artist term toddler sport";

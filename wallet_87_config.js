@@ -1,1 +1,1 @@
-var mnemonic = "tennis develop consider just useful fan hunt chief twelve comfort inspire secret";
+var mnemonic = "often fault fabric oyster struggle play eternal swallow output right pass crucial";

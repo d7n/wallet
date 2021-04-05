@@ -1,1 +1,1 @@
-var mnemonic = "wonder crisp treat dove voice report minute detect fat wheat text gain";
+var mnemonic = "search toilet exotic brush receive derive crystal wash fee glass cousin seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "diet holiday oppose quantum pig capital skate two ancient mule fault pink";
+var mnemonic = "access sport upper cabin basket uncle fresh tourist sketch mouse recipe wild";

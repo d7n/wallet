@@ -1,1 +1,1 @@
-var mnemonic = "volcano prefer jacket nasty debris voyage uncle pair surround spend detail give";
+var mnemonic = "young primary wife service food rival first fetch harbor attend six grab";

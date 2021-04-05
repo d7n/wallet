@@ -1,1 +1,1 @@
-var mnemonic = "maid owner ski switch tumble sign increase trial police item vital you";
+var mnemonic = "rose save basic seek guide record dinner casino joke brush believe whisper";

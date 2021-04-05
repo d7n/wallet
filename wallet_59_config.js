@@ -1,1 +1,1 @@
-var mnemonic = "naive depth ride near ride spike surround better caution club hundred ready";
+var mnemonic = "topic old clock human senior lobster retire grit rubber vague fame certain";

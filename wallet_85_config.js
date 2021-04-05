@@ -1,1 +1,1 @@
-var mnemonic = "super slender jewel general stadium invest trophy change fee math innocent leopard";
+var mnemonic = "typical fish impulse day pen frog man head nominee tomorrow topple phrase";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge fly pigeon step protect amazing display brave budget arena mask parent";
+var mnemonic = "smile arrest group dream boat bench beauty gate expect now inmate win";

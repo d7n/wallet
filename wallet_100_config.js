@@ -1,1 +1,1 @@
-var mnemonic = "job patch guide mixture marine eager require noise physical filter okay duck";
+var mnemonic = "audit educate hire acoustic family tobacco error winner dizzy loan gaze lens";

@@ -1,1 +1,1 @@
-var mnemonic = "debate boat real company infant rally option butter have sick pet car";
+var mnemonic = "agree oak pole interest warfare awkward absurd evoke essay retire economy enjoy";

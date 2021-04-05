@@ -1,1 +1,1 @@
-var mnemonic = "any such space share common pluck material domain cannon write evil velvet";
+var mnemonic = "reason run inmate gap assume hello pudding apple photo report bind tail";

@@ -1,1 +1,1 @@
-var mnemonic = "fever subject auction extra sort joke husband mosquito together twenty original ski";
+var mnemonic = "sample you able rebel bachelor duck fetch recipe board grit race parent";

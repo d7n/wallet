@@ -1,1 +1,1 @@
-var mnemonic = "token satisfy oppose lunar elite receive century topic blast muscle artefact emerge";
+var mnemonic = "since above betray shed milk evoke scheme invest author deal hair execute";

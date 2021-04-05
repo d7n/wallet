@@ -1,1 +1,1 @@
-var mnemonic = "cute animal matter stove hurry fiscal energy pulp focus base truck skill";
+var mnemonic = "erupt oil polar summer innocent glance slight car name dismiss ranch stool";

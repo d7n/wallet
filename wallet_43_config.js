@@ -1,1 +1,1 @@
-var mnemonic = "client choose celery slow alert exercise prosper genre powder trophy shove stove";
+var mnemonic = "present gown antenna surface mind strong creek first ribbon honey already bamboo";

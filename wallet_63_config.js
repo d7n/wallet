@@ -1,1 +1,1 @@
-var mnemonic = "tail vault enough oval reform salmon snap spray oppose bone garden subway";
+var mnemonic = "door razor shaft plunge ordinary cactus decline panel exile soap south daring";

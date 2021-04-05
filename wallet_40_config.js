@@ -1,1 +1,1 @@
-var mnemonic = "firm flame wide solve august prize gallery pupil lend pilot cave dinosaur";
+var mnemonic = "accuse doctor hip first wife purity across hazard exotic aisle thought chase";

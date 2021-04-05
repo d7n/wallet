@@ -1,1 +1,1 @@
-var mnemonic = "endless abandon surround jacket animal chase problem trip volume bless mechanic win";
+var mnemonic = "zoo share pink minor annual fortune marine danger enemy scatter south trust";

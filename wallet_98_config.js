@@ -1,1 +1,1 @@
-var mnemonic = "first various pause cushion car frequent helmet injury tiger laugh curve aim";
+var mnemonic = "mimic total impose arrest occur audit tonight laundry use dumb divert thing";

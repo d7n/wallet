@@ -1,1 +1,1 @@
-var mnemonic = "decide copy nature quit guide approve gadget kingdom tragic system window account";
+var mnemonic = "own advice cost night collect evidence hazard stadium snap remain multiply tornado";

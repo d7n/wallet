@@ -1,1 +1,1 @@
-var mnemonic = "royal achieve main scatter carpet retire warm lake bread trim report unfold";
+var mnemonic = "shop dumb saddle claim outdoor right off mail duck try pigeon make";

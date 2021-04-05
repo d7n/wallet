@@ -1,1 +1,1 @@
-var mnemonic = "olive brown much crawl donkey corn hero tide lady option side december";
+var mnemonic = "purchase trumpet gas title tent winner club galaxy junior roof endless eight";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo turkey auction hurt sell salt portion brief deal planet tennis call";
+var mnemonic = "life defense win fan squirrel little message crawl duck palace submit cherry";

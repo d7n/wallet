@@ -1,1 +1,1 @@
-var mnemonic = "feature shine flame pluck loud twice shrug perfect heavy session scan half";
+var mnemonic = "saddle common heart spell art catch tone grid unaware slender carpet purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "name convince unknown loud pen use dance scatter resemble arch wool ill";
+var mnemonic = "bracket token album push silk pole diesel toy paddle sting noise where";

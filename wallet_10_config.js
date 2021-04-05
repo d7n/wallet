@@ -1,1 +1,1 @@
-var mnemonic = "task frequent warfare strike dice spend cattle scale super differ vintage order";
+var mnemonic = "elegant refuse physical soap snow fine modify execute pelican educate repair doctor";

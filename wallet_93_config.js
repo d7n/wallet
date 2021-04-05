@@ -1,1 +1,1 @@
-var mnemonic = "garment ivory skill pioneer like innocent stereo ball sponsor ripple embody grocery";
+var mnemonic = "inquiry magic fine peanut suit west wisdom rich behave bind answer favorite";

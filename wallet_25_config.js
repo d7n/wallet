@@ -1,1 +1,1 @@
-var mnemonic = "rebel basket remember evidence defy civil hero orient shove bomb crowd believe";
+var mnemonic = "attract motion garment inmate anxiety quantum champion friend adult surprise tent pact";

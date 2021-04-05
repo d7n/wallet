@@ -1,1 +1,1 @@
-var mnemonic = "physical try rack mosquito issue gather slush grape reward sure cliff tower";
+var mnemonic = "deposit razor vivid disease unfair hurdle struggle toilet trap tide leader zero";

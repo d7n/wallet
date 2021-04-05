@@ -1,1 +1,1 @@
-var mnemonic = "crowd notice crop always vault time trip bottom rain relax limb minimum";
+var mnemonic = "true soda way begin paper trust tattoo argue frozen dignity moment salon";

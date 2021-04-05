@@ -1,1 +1,1 @@
-var mnemonic = "stand anxiety group forest then trash erode actress mad silver farm peasant";
+var mnemonic = "jazz define then crowd normal peanut library shuffle firm giraffe lab then";

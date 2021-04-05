@@ -1,1 +1,1 @@
-var mnemonic = "poem blade holiday tape flush make teach emotion mango gym claim toy";
+var mnemonic = "message rail endless seven fever pencil green point infant keep sell magic";

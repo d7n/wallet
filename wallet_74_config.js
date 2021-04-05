@@ -1,1 +1,1 @@
-var mnemonic = "public enlist chase tattoo enact crunch lyrics tissue gossip reunion humble grid";
+var mnemonic = "earth lesson dwarf admit profit observe fall uphold crew ensure stairs swift";

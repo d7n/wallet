@@ -1,1 +1,1 @@
-var mnemonic = "boat exhaust ahead seven misery you escape option protect type food miss";
+var mnemonic = "office wet service office laptop invest bullet summer feed twelve tail march";

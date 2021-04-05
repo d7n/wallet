@@ -1,1 +1,1 @@
-var mnemonic = "labor hire neutral peanut oppose bundle adapt rich tip shuffle arrive syrup";
+var mnemonic = "again found famous claw position scheme reward canyon way fog lake raise";

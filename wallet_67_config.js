@@ -1,1 +1,1 @@
-var mnemonic = "fitness impose spirit actress invite fiction pledge elder actor fault injury screen";
+var mnemonic = "display guide awkward exist project enhance resemble actor weapon cannon casual guard";

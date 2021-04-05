@@ -1,1 +1,1 @@
-var mnemonic = "special city awkward shed liberty motor duck select fun utility vast bundle";
+var mnemonic = "draft despair make unaware shaft float dove gym chat congress shadow torch";

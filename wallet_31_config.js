@@ -1,1 +1,1 @@
-var mnemonic = "believe run youth consider speed flash syrup wild fence across tag hammer";
+var mnemonic = "tent blood zoo goose inherit plunge roof purpose tube cradle round smoke";

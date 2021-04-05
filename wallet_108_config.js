@@ -1,1 +1,1 @@
-var mnemonic = "injury solve enemy piano wool mean message retreat envelope elevator festival cruel";
+var mnemonic = "already toward joke bounce craft unable improve install float hill increase agree";

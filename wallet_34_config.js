@@ -1,1 +1,1 @@
-var mnemonic = "dress vague accident pair combine salt police endless special what smart wood";
+var mnemonic = "exotic waste elder live super sing final fringe oval alone trust false";

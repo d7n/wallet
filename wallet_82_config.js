@@ -1,1 +1,1 @@
-var mnemonic = "snap letter grow rescue disease scorpion harsh toe punch goose glimpse vivid";
+var mnemonic = "icon lounge decide key injury slight actress piano myth intact kick you";

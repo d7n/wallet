@@ -1,1 +1,1 @@
-var mnemonic = "flip estate swift confirm fresh emotion news nominee pink twist suit soul";
+var mnemonic = "thought canoe engage grace slight cactus nut solve real size mutual walk";

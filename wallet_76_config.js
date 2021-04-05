@@ -1,1 +1,1 @@
-var mnemonic = "mouse engine artwork arrow carpet wrestle pass mix across glare pilot eagle";
+var mnemonic = "into limb medal control castle pretty sunny genuine network lizard year above";

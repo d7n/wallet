@@ -1,1 +1,1 @@
-var mnemonic = "media school cycle seat palm strong lava brief marriage inhale toilet relief";
+var mnemonic = "wedding novel depart volcano mango summer travel open glance brave filter drift";
