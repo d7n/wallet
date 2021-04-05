@@ -1,1 +1,1 @@
-var mnemonic = "loan stick pretty van farm claw crack unknown usual tube gap churn";
+var mnemonic = "wait kingdom portion summer jelly bless safe olympic own repeat nasty orange";

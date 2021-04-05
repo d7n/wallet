@@ -1,1 +1,1 @@
-var mnemonic = "path make win useful engage core update chronic ozone describe slender news";
+var mnemonic = "innocent empower silly capital suffer gold unit field animal stay child vivid";

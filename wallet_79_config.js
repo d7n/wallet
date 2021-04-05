@@ -1,1 +1,1 @@
-var mnemonic = "involve sugar cupboard glance toward own year cabin nation skirt library marriage";
+var mnemonic = "prefer mad problem fragile impulse saddle amazing weekend like rich rather jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "rather pole cheese major horse autumn popular indicate valid science negative metal";
+var mnemonic = "fiscal moon bulk verify stick source west glad square random opinion camera";

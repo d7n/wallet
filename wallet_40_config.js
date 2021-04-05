@@ -1,1 +1,1 @@
-var mnemonic = "vivid ticket jeans tissue alcohol tip easy pencil hire visit industry scissors";
+var mnemonic = "apple portion surge caution cause zone express road kangaroo mix success book";

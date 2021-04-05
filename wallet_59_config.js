@@ -1,1 +1,1 @@
-var mnemonic = "awkward stairs black round come front energy spirit palm sweet mail fiscal";
+var mnemonic = "motion hope slender behind impose friend blouse half build like news bacon";

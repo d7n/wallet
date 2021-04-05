@@ -1,1 +1,1 @@
-var mnemonic = "medal hurt jar hungry siege aim clutch cloth text sentence hospital tuition";
+var mnemonic = "silk kick topic party mule crumble issue stadium utility future monster then";

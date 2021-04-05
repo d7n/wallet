@@ -1,1 +1,1 @@
-var mnemonic = "broccoli success demise soda mom garden jaguar theory upset gun pluck arena";
+var mnemonic = "cake female long moon coin dizzy sword popular harsh boost margin question";

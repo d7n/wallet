@@ -1,1 +1,1 @@
-var mnemonic = "cancel trip spend reject velvet alert slogan hockey address record gasp present";
+var mnemonic = "expect garment head valid horror update lava piano ripple exchange east ranch";

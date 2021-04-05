@@ -1,1 +1,1 @@
-var mnemonic = "crew vibrant present castle vague never better tell seven patient march voice";
+var mnemonic = "industry slender lawn wedding office cancel donate sunset ring impulse wild such";

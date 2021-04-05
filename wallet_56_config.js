@@ -1,1 +1,1 @@
-var mnemonic = "remove shoe poverty solid switch beef diesel dirt muffin lock dwarf fetch";
+var mnemonic = "rigid peasant vote obscure twelve abstract improve casual vessel autumn acoustic shove";

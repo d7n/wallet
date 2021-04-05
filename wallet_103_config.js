@@ -1,1 +1,1 @@
-var mnemonic = "bind exotic usage nice figure industry luxury front early mimic pear vocal";
+var mnemonic = "guilt sentence ridge garment latin plate virtual hello chief ill switch alert";

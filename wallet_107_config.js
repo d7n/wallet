@@ -1,1 +1,1 @@
-var mnemonic = "someone math naive vast flame donor crumble worry label inside seminar reflect";
+var mnemonic = "monkey machine early brief orchard basic inform phrase bitter discover key vessel";

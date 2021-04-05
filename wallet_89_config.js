@@ -1,1 +1,1 @@
-var mnemonic = "pair pizza cheese flame walk anxiety disorder harvest ozone paper slogan subject";
+var mnemonic = "math damp puppy flat leader mind yellow warrior donate curtain boss joy";

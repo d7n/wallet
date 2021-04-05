@@ -1,1 +1,1 @@
-var mnemonic = "angle expire service auto shoe hawk great town canoe tube exclude stone";
+var mnemonic = "crush merit spot mistake shuffle ladder used ostrich catalog aerobic pipe surface";

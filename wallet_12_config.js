@@ -1,1 +1,1 @@
-var mnemonic = "click club stay credit hero dynamic border spy satoshi short affair account";
+var mnemonic = "skate tone message punch quit cabin robot faculty stove deal fuel palm";

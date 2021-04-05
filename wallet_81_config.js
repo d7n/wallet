@@ -1,1 +1,1 @@
-var mnemonic = "include orchard alarm smooth coyote era mixture moon captain fluid height step";
+var mnemonic = "acquire silver inject access apology slow picnic typical film jeans isolate virus";

@@ -1,1 +1,1 @@
-var mnemonic = "office harbor diet shock nest urge axis mad attract occur glass deputy";
+var mnemonic = "announce song zone dragon shaft rebuild dynamic forest tennis human never embrace";

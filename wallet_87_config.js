@@ -1,1 +1,1 @@
-var mnemonic = "grief desk offer actress tray inside front shed ask wrist diet enough";
+var mnemonic = "globe romance height book search tribe wrap anger smart recipe flee riot";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke choice opera shoe manage river quick good toss pull render cousin";
+var mnemonic = "spell large rally hair awake doctor clerk soup lounge essence update yellow";

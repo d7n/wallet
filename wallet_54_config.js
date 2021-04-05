@@ -1,1 +1,1 @@
-var mnemonic = "certain planet bracket today grace drop luggage subway host debate resource leisure";
+var mnemonic = "satisfy leisure jar lesson unveil intact school enter bring kite stable proof";

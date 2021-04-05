@@ -1,1 +1,1 @@
-var mnemonic = "flag cause define note wave metal decade cheap flush boil season vital";
+var mnemonic = "stomach fossil envelope clean panic cash pool accuse shoe market glare rifle";

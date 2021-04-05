@@ -1,1 +1,1 @@
-var mnemonic = "olympic animal recall betray opinion excuse favorite shaft mix wolf slam must";
+var mnemonic = "estate zoo margin today diet cram topple region mystery birth service emotion";

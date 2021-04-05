@@ -1,1 +1,1 @@
-var mnemonic = "lyrics gate another grape occur labor hero lyrics clever carry rain save";
+var mnemonic = "future potato stamp chalk tired risk adjust outside sudden run bitter admit";

@@ -1,1 +1,1 @@
-var mnemonic = "melody tone cave casino come file blossom inner since hip diary recipe";
+var mnemonic = "quiz puppy ginger inch dinner cream sustain evolve capable text call mammal";

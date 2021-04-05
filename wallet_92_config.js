@@ -1,1 +1,1 @@
-var mnemonic = "garden throw oblige warm anchor disease apart innocent carry black mobile favorite";
+var mnemonic = "soldier observe fiction screen blossom pole metal drop away cage peace usual";

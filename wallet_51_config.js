@@ -1,1 +1,1 @@
-var mnemonic = "little timber nephew sniff soap advance clap network snack horror super story";
+var mnemonic = "sniff glad prefer silk rough term comic innocent unfold science spy borrow";

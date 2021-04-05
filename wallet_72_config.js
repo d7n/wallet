@@ -1,1 +1,1 @@
-var mnemonic = "syrup suspect hockey trial muscle bless mammal coconut fatigue bulk test average";
+var mnemonic = "vanish abandon sight betray habit cloud region invite improve interest sun easy";

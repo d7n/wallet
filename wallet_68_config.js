@@ -1,1 +1,1 @@
-var mnemonic = "loyal match drive guitar person nothing infant price scrub language furnace merge";
+var mnemonic = "myself orient glare toward turkey winner fix field glare foster scan inch";

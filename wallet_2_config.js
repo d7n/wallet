@@ -1,1 +1,1 @@
-var mnemonic = "tuition draft camera inherit wing purpose culture stomach inflict speak hope donkey";
+var mnemonic = "essay until boy dice fresh answer emotion cluster taxi hurdle trip sock";

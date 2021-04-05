@@ -1,1 +1,1 @@
-var mnemonic = "august identify usual capital fresh jeans few put cash void useless toast";
+var mnemonic = "entire lock trash electric smile away april ripple indoor syrup laundry future";

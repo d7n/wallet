@@ -1,1 +1,1 @@
-var mnemonic = "define silk donate labor excess wheat version neither orchard crazy remember trial";
+var mnemonic = "gorilla resist reject notable choice offer gospel custom burger today alley spring";

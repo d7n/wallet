@@ -1,1 +1,1 @@
-var mnemonic = "motor toward liberty mansion detail romance basic rocket select series pigeon fiction";
+var mnemonic = "original hurt ceiling hub leader sweet seek switch dilemma crop beach paddle";

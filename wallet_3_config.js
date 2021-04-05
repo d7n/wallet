@@ -1,1 +1,1 @@
-var mnemonic = "bright grace donate loan fitness hamster fog flower chalk industry indoor bar";
+var mnemonic = "cloth label element cement danger oven garlic wedding scissors gossip copper monster";

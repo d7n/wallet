@@ -1,1 +1,1 @@
-var mnemonic = "scene decrease lumber volcano photo road drum reduce celery miss enemy walnut";
+var mnemonic = "champion absorb mosquito panel safe split robot advice vacant fossil erase monkey";

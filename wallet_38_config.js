@@ -1,1 +1,1 @@
-var mnemonic = "priority view satoshi play liar evidence injury burger teach diet fox father";
+var mnemonic = "target veteran must head myth hill captain access fluid giraffe sadness reward";

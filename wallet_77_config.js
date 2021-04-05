@@ -1,1 +1,1 @@
-var mnemonic = "soul panther wave carpet teach amused dilemma enrich suggest cable hamster slender";
+var mnemonic = "celery frozen taste stamp final lemon ring congress pilot ankle hold beyond";

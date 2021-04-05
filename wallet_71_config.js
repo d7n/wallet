@@ -1,1 +1,1 @@
-var mnemonic = "trophy grain spawn match credit crumble oven eight same print drastic morning";
+var mnemonic = "soon above type verb bar clap thank unveil dignity solar job find";

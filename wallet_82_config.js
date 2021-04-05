@@ -1,1 +1,1 @@
-var mnemonic = "suggest marine coffee ceiling power bring add black bright virtual gap case";
+var mnemonic = "shoot reward black voyage genius tip hurry muffin cement muffin clinic bracket";

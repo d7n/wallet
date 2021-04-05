@@ -1,1 +1,1 @@
-var mnemonic = "opinion inspire gas apart sing cactus unlock coffee luggage lemon junk either";
+var mnemonic = "baby utility hurry similar crane method tourist verify inmate album address patch";

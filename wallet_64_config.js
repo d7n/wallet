@@ -1,1 +1,1 @@
-var mnemonic = "phone hen nuclear rule butter neutral sadness dentist sort solar rural bicycle";
+var mnemonic = "exotic owner someone horn call laugh siren smile attitude upon hair observe";

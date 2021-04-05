@@ -1,1 +1,1 @@
-var mnemonic = "video toast render warrior success globe atom utility inherit alcohol trigger rail";
+var mnemonic = "bicycle hazard large brand maple antenna about pencil essay cage radar copy";

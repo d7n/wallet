@@ -1,1 +1,1 @@
-var mnemonic = "bottom club unusual razor lonely decide juice net thumb swear pizza snap";
+var mnemonic = "lawsuit motor latin machine chapter goddess system cupboard couch morning inform oven";

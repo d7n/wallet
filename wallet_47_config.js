@@ -1,1 +1,1 @@
-var mnemonic = "oven zero rely fence video muffin example bleak concert table property drip";
+var mnemonic = "addict finish among machine text very smile shoot essay badge doll member";

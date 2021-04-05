@@ -1,1 +1,1 @@
-var mnemonic = "crew sleep rural air pulse lobster sea mean donate fine practice perfect";
+var mnemonic = "try enemy cabbage nasty tape pluck guess lava style shed grass popular";

@@ -1,1 +1,1 @@
-var mnemonic = "account subway sword century gun now safe lava major toss room purity";
+var mnemonic = "tourist sell service point pride embrace success mechanic oyster pause bring brother";

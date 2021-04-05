@@ -1,1 +1,1 @@
-var mnemonic = "breeze mix donate language hood police security bounce seven panel vessel march";
+var mnemonic = "attract relax snack cliff guard cabbage width consider harvest scan phone educate";

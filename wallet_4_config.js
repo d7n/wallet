@@ -1,1 +1,1 @@
-var mnemonic = "spice ill wood picnic segment plate wave insect entire impact rescue orchard";
+var mnemonic = "collect window sentence inherit action cruise mystery card appear avoid mad depend";

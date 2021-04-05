@@ -1,1 +1,1 @@
-var mnemonic = "chronic height multiply choose time bitter warrior pluck found entry dice light";
+var mnemonic = "double neck verify short dance depart develop measure cook atom shoe where";

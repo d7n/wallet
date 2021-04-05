@@ -1,1 +1,1 @@
-var mnemonic = "hurdle mistake february quit success winner point sure allow ride august fabric";
+var mnemonic = "mimic wreck receive recipe habit change praise tail crater attend humor leisure";

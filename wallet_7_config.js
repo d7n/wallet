@@ -1,1 +1,1 @@
-var mnemonic = "fire hood dragon jelly stomach kiss august load industry focus scout left";
+var mnemonic = "view aerobic mystery foil oyster mansion spider purchase shrimp panda banner guitar";

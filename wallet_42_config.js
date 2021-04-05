@@ -1,1 +1,1 @@
-var mnemonic = "ridge improve machine duty maple grape lyrics couch wisdom path chef snake";
+var mnemonic = "quiz mule identify slab among village rail endorse machine bracket tape case";

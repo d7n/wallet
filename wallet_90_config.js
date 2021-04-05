@@ -1,1 +1,1 @@
-var mnemonic = "dose manual wet dizzy cushion amused stock trumpet local drive throw age";
+var mnemonic = "view wheel share pelican leader much buffalo describe butter creek sister someone";

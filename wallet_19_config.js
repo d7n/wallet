@@ -1,1 +1,1 @@
-var mnemonic = "desert flavor nominee cup liquid carbon medal silver father night industry soccer";
+var mnemonic = "estate master fashion nominee absurd basket upper because lounge insect poet frost";

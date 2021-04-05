@@ -1,1 +1,1 @@
-var mnemonic = "burst future cancel cream mass cherry exhaust health someone space uncle hover";
+var mnemonic = "ripple describe teach stumble sentence found scorpion census raw poverty emotion remain";

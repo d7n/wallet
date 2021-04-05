@@ -1,1 +1,1 @@
-var mnemonic = "uncover pluck brave choice crazy brief satoshi chair fortune advice sport grain";
+var mnemonic = "slot bind circle whale van pear siege awkward regret trap popular drink";

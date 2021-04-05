@@ -1,1 +1,1 @@
-var mnemonic = "cupboard hockey rebel rich example globe police truth sad eight evidence two";
+var mnemonic = "multiply safe athlete invite bid radio giraffe borrow lizard add coffee attract";

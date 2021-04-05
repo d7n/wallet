@@ -1,1 +1,1 @@
-var mnemonic = "shoot group skate puzzle version topic return stumble true bounce miss source";
+var mnemonic = "write earth kangaroo remind dinner twelve target rug false flip claw tube";

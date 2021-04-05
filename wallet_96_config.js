@@ -1,1 +1,1 @@
-var mnemonic = "town barrel angle wing van spider bubble tenant tunnel hill flee suggest";
+var mnemonic = "soup spatial damp cinnamon script shiver flavor inspire explain pigeon sure twenty";

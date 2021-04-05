@@ -1,1 +1,1 @@
-var mnemonic = "clean insect home wall forget fiscal acoustic kick increase east flag frame";
+var mnemonic = "aspect promote uncover equip embrace carpet act meat elevator world divert prize";

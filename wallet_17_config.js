@@ -1,1 +1,1 @@
-var mnemonic = "coffee inspire orient arena web super approve scheme emerge famous language oppose";
+var mnemonic = "close hole mix scrub goose target butter follow walk gain fetch add";

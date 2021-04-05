@@ -1,1 +1,1 @@
-var mnemonic = "cage young unfair hard index solar hub atom limb olive ice deer";
+var mnemonic = "spoil pioneer process paddle brown release devote elite sorry oblige maximum release";

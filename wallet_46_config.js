@@ -1,1 +1,1 @@
-var mnemonic = "view paddle wing garment pulse spin toss emotion warfare vital chalk select";
+var mnemonic = "valid mobile tackle property forget describe like rhythm wish force silly thing";

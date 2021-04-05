@@ -1,1 +1,1 @@
-var mnemonic = "champion boil solution false better float correct type topple quarter mountain life";
+var mnemonic = "occur all butter acquire proud ill language gap hour air blouse torch";

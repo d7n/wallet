@@ -1,1 +1,1 @@
-var mnemonic = "give delay add engine wish pink space hurt electric sudden gym tree";
+var mnemonic = "foam monster lake tumble direct hurdle muscle prosper become arena unfair enhance";

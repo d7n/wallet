@@ -1,1 +1,1 @@
-var mnemonic = "seminar flame kitten print juice beyond note junk sail burst uncle audit";
+var mnemonic = "bright club material future rough permit install write page menu abuse orphan";

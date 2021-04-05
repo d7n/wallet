@@ -1,1 +1,1 @@
-var mnemonic = "image lazy outside dinner cash month favorite wear fold tube good feature";
+var mnemonic = "dawn life slender sound castle stuff mammal unknown all journey rely carpet";

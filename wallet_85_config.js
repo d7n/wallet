@@ -1,1 +1,1 @@
-var mnemonic = "riot square recipe inquiry tornado crawl border shaft oxygen doctor weird copper";
+var mnemonic = "tube develop rug cereal must symbol broom boost forest shiver boring unusual";

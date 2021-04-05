@@ -1,1 +1,1 @@
-var mnemonic = "together play bird ecology unlock jeans shed hint similar ask question short";
+var mnemonic = "badge relief nominee trap genre lens suffer dynamic sing song clarify mimic";

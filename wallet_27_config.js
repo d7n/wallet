@@ -1,1 +1,1 @@
-var mnemonic = "another inspire transfer hurry elbow combine brave item retire salmon blue donate";
+var mnemonic = "fossil result shift lock rug remove nerve real there throw physical industry";

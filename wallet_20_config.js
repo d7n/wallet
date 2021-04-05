@@ -1,1 +1,1 @@
-var mnemonic = "husband arena gather green supply tray actor pupil night display payment fly";
+var mnemonic = "blame carpet feature task spider liquid effort lady blade spell oppose anxiety";

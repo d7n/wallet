@@ -1,1 +1,1 @@
-var mnemonic = "multiply balcony salt manual super student breeze supreme save library dash feature";
+var mnemonic = "empty hockey rebel boss east coin begin lonely fall occur flower dress";

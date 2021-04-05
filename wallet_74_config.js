@@ -1,1 +1,1 @@
-var mnemonic = "fun sense blush frown end disease spend room tackle square utility legend";
+var mnemonic = "empower sheriff grocery exile miss dial citizen sausage mountain rose corn cement";

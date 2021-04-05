@@ -1,1 +1,1 @@
-var mnemonic = "heart firm dry solid general paddle knock bargain version common toss canoe";
+var mnemonic = "cat sponsor basic mimic what world ring balcony awkward tell lamp disorder";

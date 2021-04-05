@@ -1,1 +1,1 @@
-var mnemonic = "unfold maple witness goat way casual trial weekend fury uncover wheat awkward";
+var mnemonic = "crew pool stick can quarter maid hero filter capable because exact pigeon";

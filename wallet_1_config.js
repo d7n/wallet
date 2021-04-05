@@ -1,1 +1,1 @@
-var mnemonic = "accident error rely pledge frame roast album field valley heart idea party";
+var mnemonic = "sweet alien spoon polar puppy banner buzz future pulp obvious curtain address";

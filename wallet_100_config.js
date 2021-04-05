@@ -1,1 +1,1 @@
-var mnemonic = "wash young asthma bonus neither frozen thumb artwork grow talk exotic leg";
+var mnemonic = "sound repeat trap blind advance wait prepare equip puppy bus company tragic";

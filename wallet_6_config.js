@@ -1,1 +1,1 @@
-var mnemonic = "require extra nest giant spider reason online dose toast unable census entry";
+var mnemonic = "business absorb where federal grain spin such soldier corn basic sunny volume";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror swallow often gospel dizzy virus wise replace leopard disease more stamp";
+var mnemonic = "fury ship sound victory awful explain input elevator shoulder visit rack ankle";

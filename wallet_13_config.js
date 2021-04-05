@@ -1,1 +1,1 @@
-var mnemonic = "picture process twice beauty iron stock confirm price section stereo cement concert";
+var mnemonic = "domain own library arena alpha beach poverty open cash head basket best";

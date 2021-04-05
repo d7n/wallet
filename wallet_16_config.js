@@ -1,1 +1,1 @@
-var mnemonic = "sell sun pond ask sister return spare member bridge item milk embark";
+var mnemonic = "negative knock first crush thumb ice bone couple broken argue horn entry";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder magic dutch soldier small become bottom squeeze amused awkward wrist fly";
+var mnemonic = "absurd cash daring pluck aunt dust clog account spy later mirror harsh";

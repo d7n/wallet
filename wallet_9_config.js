@@ -1,1 +1,1 @@
-var mnemonic = "fault burger cram because only exotic indicate balance three ahead cabin apology";
+var mnemonic = "oven crazy magic skate erupt airport into cupboard genius tired reunion awake";

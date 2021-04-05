@@ -1,1 +1,1 @@
-var mnemonic = "upper claim piece layer apart shoulder grocery short caught catalog pass actor";
+var mnemonic = "now frown piano same broccoli sponsor rural project edit apology curve scare";

@@ -1,1 +1,1 @@
-var mnemonic = "front dad develop travel become escape face turn throw tag moral carbon";
+var mnemonic = "they type wonder host script also toss laundry range demise reform health";

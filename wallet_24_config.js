@@ -1,1 +1,1 @@
-var mnemonic = "champion hold south neck paddle paper all planet setup illegal brief dirt";
+var mnemonic = "treat light palace inflict aunt vanish lumber cargo daughter fork ceiling forget";

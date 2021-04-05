@@ -1,1 +1,1 @@
-var mnemonic = "guide arrive gun spatial volume sweet size verify corn menu glance average";
+var mnemonic = "imitate random know position fortune pear super program correct solve visual torch";

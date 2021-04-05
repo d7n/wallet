@@ -1,1 +1,1 @@
-var mnemonic = "fortune carpet village rain dizzy daughter worry egg orchard edit dream worth";
+var mnemonic = "hip supreme country review thrive long visual kiss assault mistake never various";

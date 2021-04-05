@@ -1,1 +1,1 @@
-var mnemonic = "shoulder size excite six suggest medal diesel word bachelor honey practice hope";
+var mnemonic = "rebel bottom expose purse draft blur stool lizard estate narrow wood critic";
