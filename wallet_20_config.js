@@ -1,1 +1,1 @@
-var mnemonic = "nation chat company beach chair forum squirrel peasant install discover image increase";
+var mnemonic = "census original enter hire october stone venue scissors air sausage reflect garment";

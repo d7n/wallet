@@ -1,1 +1,1 @@
-var mnemonic = "voyage march illness october force smoke tennis fly victory behind language turkey";
+var mnemonic = "response worry recall reform brain observe annual host situate rain saddle slow";

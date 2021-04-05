@@ -1,1 +1,1 @@
-var mnemonic = "story inflict draw accuse cargo brave lab little panic symbol now kingdom";
+var mnemonic = "around fossil fantasy inquiry pitch spider hello sphere cupboard plate believe toward";

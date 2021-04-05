@@ -1,1 +1,1 @@
-var mnemonic = "coil seven conduct wine silly card guess image favorite debate poverty hint";
+var mnemonic = "obtain extra chase close total liquid seven road fury brain engage clay";

@@ -1,1 +1,1 @@
-var mnemonic = "interest miracle torch indicate vacant cup resist demand gap clinic method decline";
+var mnemonic = "genre sting mean need link debris health explain pelican odor rail scrub";

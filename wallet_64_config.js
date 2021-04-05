@@ -1,1 +1,1 @@
-var mnemonic = "man city gesture among general funny hedgehog sad select arrive trigger hire";
+var mnemonic = "fabric rule found verb decorate venue upper season prison divorce merry eternal";

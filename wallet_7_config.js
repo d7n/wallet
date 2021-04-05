@@ -1,1 +1,1 @@
-var mnemonic = "submit leg opera crisp symbol sense oyster refuse elite elite kidney track";
+var mnemonic = "hold verify sustain cheese apple craft supreme sorry marine impulse result large";

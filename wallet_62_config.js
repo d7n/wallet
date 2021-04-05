@@ -1,1 +1,1 @@
-var mnemonic = "latin firm head injury lumber roof barrel people farm exhibit domain reunion";
+var mnemonic = "wheat satoshi engage defense joy pull mind broken shoe pitch song ship";

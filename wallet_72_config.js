@@ -1,1 +1,1 @@
-var mnemonic = "dial judge vacant nose dirt vague crop rich twelve awake celery gate";
+var mnemonic = "guess april baby brick crazy fun erupt poverty render liquid ribbon parent";

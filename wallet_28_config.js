@@ -1,1 +1,1 @@
-var mnemonic = "pact tenant knife scale join pyramid owner put echo place donor anchor";
+var mnemonic = "toward life practice toe feel ghost soup nose tube floor episode major";

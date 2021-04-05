@@ -1,1 +1,1 @@
-var mnemonic = "minimum foot liar wave record mammal grant split where make rule balcony";
+var mnemonic = "forward field drastic double truth among about color cherry nice rescue label";

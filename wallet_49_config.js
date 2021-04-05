@@ -1,1 +1,1 @@
-var mnemonic = "field river gasp fossil girl element sponsor sauce defense shop various knife";
+var mnemonic = "pudding uphold gate loud arrow glad huge organ method first worth swing";

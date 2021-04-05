@@ -1,1 +1,1 @@
-var mnemonic = "miss humor average loop sort tuna sibling dizzy nerve yellow found captain";
+var mnemonic = "predict genius talk blush tissue favorite provide expect vapor main salmon announce";

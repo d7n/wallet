@@ -1,1 +1,1 @@
-var mnemonic = "wrist motion kitten ladder close economy happy kitchen almost success artwork price";
+var mnemonic = "ready drum busy view soft pupil high tree dove reject cave problem";

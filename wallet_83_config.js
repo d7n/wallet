@@ -1,1 +1,1 @@
-var mnemonic = "fee exclude trophy sweet height actual flight axis fee major push obtain";
+var mnemonic = "ginger emerge film swarm glimpse lyrics food catch gun guilt siege van";

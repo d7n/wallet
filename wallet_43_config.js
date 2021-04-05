@@ -1,1 +1,1 @@
-var mnemonic = "bicycle correct another tribe tower peasant announce brief original salute cry together";
+var mnemonic = "worth voice lumber trophy glow pencil angle worry absorb shiver where inner";

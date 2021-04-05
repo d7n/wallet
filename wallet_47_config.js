@@ -1,1 +1,1 @@
-var mnemonic = "glance grape tragic survey aisle arena bus inject margin jar stuff element";
+var mnemonic = "rapid ten clip better rule mention wave reward outside custom atom erupt";

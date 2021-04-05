@@ -1,1 +1,1 @@
-var mnemonic = "gorilla clutch host antique hire method grunt vintage umbrella planet claw poem";
+var mnemonic = "bounce capable faith never cruise siren wise draft view link jewel valve";

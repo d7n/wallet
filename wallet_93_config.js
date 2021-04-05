@@ -1,1 +1,1 @@
-var mnemonic = "stick crazy world skull soda urban attitude myth slot squeeze jewel robust";
+var mnemonic = "awesome gasp amateur adapt brown age mixture three tonight skill walnut nature";

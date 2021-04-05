@@ -1,1 +1,1 @@
-var mnemonic = "hole mercy negative beef milk zoo finger boost motor drastic boring roast";
+var mnemonic = "ask section arrange jealous curve snow trash moment hire liberty dumb donate";

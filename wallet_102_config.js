@@ -1,1 +1,1 @@
-var mnemonic = "grief response frown husband argue better can float play charge ensure tomato";
+var mnemonic = "giggle where wolf around rug beach unique ritual exclude cry cradle strategy";

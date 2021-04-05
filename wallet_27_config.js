@@ -1,1 +1,1 @@
-var mnemonic = "estate trap leave boat clock thumb device regular extra they home autumn";
+var mnemonic = "climb bind fantasy crawl draw adapt vacuum battle sock cup kit arrange";

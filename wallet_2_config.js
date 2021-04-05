@@ -1,1 +1,1 @@
-var mnemonic = "razor tip tent loud april fancy valid lizard advice latin song clean";
+var mnemonic = "group autumn grow east average round area common staff economy sight purse";

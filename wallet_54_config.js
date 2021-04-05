@@ -1,1 +1,1 @@
-var mnemonic = "biology name twelve wrap inmate cushion street excuse lamp elbow verify drum";
+var mnemonic = "pudding science six prize green civil shaft access cliff surge sponsor fault";

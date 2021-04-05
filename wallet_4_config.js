@@ -1,1 +1,1 @@
-var mnemonic = "treat notice mix life genuine angry victory already citizen rhythm century lawn";
+var mnemonic = "squeeze pass pledge clump snack impact suggest cargo distance vehicle sea capital";

@@ -1,1 +1,1 @@
-var mnemonic = "essence check jewel immense problem pumpkin boy want leaf merry squirrel picture";
+var mnemonic = "erosion office typical assault harsh bench current baby depart police summer bonus";

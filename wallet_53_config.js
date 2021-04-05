@@ -1,1 +1,1 @@
-var mnemonic = "relief interest genuine guard write rebel sauce chief jaguar genius concert icon";
+var mnemonic = "boost mother disease pepper rocket bread february swim lawn goose pistol put";

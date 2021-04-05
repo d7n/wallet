@@ -1,1 +1,1 @@
-var mnemonic = "sphere can muscle typical survey online divide layer pet arctic thing abuse";
+var mnemonic = "wash render degree hybrid arrive lend shop fall inspire dwarf stable blush";

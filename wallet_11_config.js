@@ -1,1 +1,1 @@
-var mnemonic = "dry where horse antique grain use bright mass elephant pumpkin aim next";
+var mnemonic = "first bronze reform trade book palace disease bridge exotic lion dinosaur seminar";

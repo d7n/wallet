@@ -1,1 +1,1 @@
-var mnemonic = "act embrace chef alcohol brass spring enlist eyebrow dinner lawsuit deer cruel";
+var mnemonic = "debris document urban quality ignore twice hub engage boat earn survey deer";

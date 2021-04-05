@@ -1,1 +1,1 @@
-var mnemonic = "until smoke quality trend ecology amused forget shy violin radio little hair";
+var mnemonic = "magnet field tape skate small announce cheese symptom rent panther wish delay";

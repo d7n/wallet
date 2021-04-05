@@ -1,1 +1,1 @@
-var mnemonic = "slow sight tennis juice marble palm panda bronze pumpkin submit erosion discover";
+var mnemonic = "fiber resist shed photo art ramp switch refuse belt crouch sausage gloom";

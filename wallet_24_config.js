@@ -1,1 +1,1 @@
-var mnemonic = "month current baby furnace sorry frost brain isolate like simple great exhibit";
+var mnemonic = "cousin arch side divide dune nephew talent reward truth assault pact jeans";

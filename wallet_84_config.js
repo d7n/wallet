@@ -1,1 +1,1 @@
-var mnemonic = "amazing tray bomb whisper fiscal symptom scout member exact card hold trash";
+var mnemonic = "exact comfort ill diet surge pelican mix elder worth point ride pill";

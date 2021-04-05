@@ -1,1 +1,1 @@
-var mnemonic = "sad amount differ urban volume infant strike brisk alone youth prison job";
+var mnemonic = "strong banana among toy inject beach retreat cry grocery lobster fluid furnace";

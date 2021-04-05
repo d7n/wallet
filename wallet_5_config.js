@@ -1,1 +1,1 @@
-var mnemonic = "filter wage knee hour book topic radio pyramid party shift sniff cattle";
+var mnemonic = "dilemma cabin fall fury ski fire business clever remind race quarter limit";

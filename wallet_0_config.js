@@ -1,1 +1,1 @@
-var mnemonic = "hunt whip system deer drum worry fee produce chicken unique abuse drop";
+var mnemonic = "absurd setup expand spin boat upon around region swear flock tired remain";

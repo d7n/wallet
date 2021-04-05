@@ -1,1 +1,1 @@
-var mnemonic = "media panda chair explain shiver give reform garbage royal number lion jewel";
+var mnemonic = "trust daughter popular pony virtual mail liar cause egg weather response absorb";

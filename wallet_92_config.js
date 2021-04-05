@@ -1,1 +1,1 @@
-var mnemonic = "discover crime document wise evidence barrel insane finger twist armor jaguar remind";
+var mnemonic = "joke tent news arrange vote sock neither faint find clarify fashion timber";

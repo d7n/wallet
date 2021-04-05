@@ -1,1 +1,1 @@
-var mnemonic = "worry under obscure kiss normal become modify cook vocal theory angle chat";
+var mnemonic = "rich search angle liberty method charge silk lizard prosper plug category hole";

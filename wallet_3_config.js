@@ -1,1 +1,1 @@
-var mnemonic = "vacant fatigue setup pride rival awake season object usage radio husband depend";
+var mnemonic = "museum recall illegal grit cradle excuse adapt dwarf detect knock settle number";

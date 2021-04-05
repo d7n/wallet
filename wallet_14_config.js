@@ -1,1 +1,1 @@
-var mnemonic = "garage yellow coral lecture abstract doll fuel pizza will square suspect aerobic";
+var mnemonic = "result coral cost twist electric use hat voyage raccoon pave grace model";

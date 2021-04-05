@@ -1,1 +1,1 @@
-var mnemonic = "attack donate goose side tip garbage taxi bread addict creek very hood";
+var mnemonic = "assault shuffle tiger virtual nominee unable patient smart cat present cannon again";

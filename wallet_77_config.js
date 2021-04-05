@@ -1,1 +1,1 @@
-var mnemonic = "nerve tongue clay gown develop bulb census anchor garlic proof debate fog";
+var mnemonic = "time small struggle rescue update blame rubber square cradle fun smoke olympic";

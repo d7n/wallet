@@ -1,1 +1,1 @@
-var mnemonic = "curious enter boil track beauty orient merry canvas produce arrive celery word";
+var mnemonic = "reveal ivory job lucky purchase pass genre hood stay economy resist dream";

@@ -1,1 +1,1 @@
-var mnemonic = "inch couch police position relief spider tail escape vast vendor focus verb";
+var mnemonic = "sure box mass rebel announce slot fetch sample syrup purity situate length";

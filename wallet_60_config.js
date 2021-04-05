@@ -1,1 +1,1 @@
-var mnemonic = "deal glue obey kingdom plastic slush bicycle drive mystery analyst warm measure";
+var mnemonic = "then ramp pudding flag lottery cradle table access hair cat normal around";

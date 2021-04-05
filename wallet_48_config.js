@@ -1,1 +1,1 @@
-var mnemonic = "photo hello lake inner inmate agree peace keen yellow panther illegal effort";
+var mnemonic = "never blood permit fringe off horn tennis wood aisle ozone six demand";

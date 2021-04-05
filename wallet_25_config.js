@@ -1,1 +1,1 @@
-var mnemonic = "latin peasant host april expose then casual tool gift invite garbage lesson";
+var mnemonic = "isolate polar slim south useless bright matrix mule benefit cost chest possible";

@@ -1,1 +1,1 @@
-var mnemonic = "hour blast scout mercy arrive win offer spawn eye crunch moment exclude";
+var mnemonic = "grace describe culture good road brief tool analyst supreme disease eight laundry";

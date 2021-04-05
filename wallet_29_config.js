@@ -1,1 +1,1 @@
-var mnemonic = "loud palm rough awake mom toss such shield bomb joy faint exhaust";
+var mnemonic = "endorse power charge bright raven brown high barrel science speak treat ocean";

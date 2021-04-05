@@ -1,1 +1,1 @@
-var mnemonic = "ridge source hazard below atom leaf lake jump half rhythm wrestle need";
+var mnemonic = "build hard alcohol later retire cup ripple humble asthma retreat illness fog";

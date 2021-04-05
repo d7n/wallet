@@ -1,1 +1,1 @@
-var mnemonic = "segment lonely metal success forward pear ice nuclear cat mutual radar oppose";
+var mnemonic = "december ridge fox salmon raw offer rare spawn sell common mutual water";

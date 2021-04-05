@@ -1,1 +1,1 @@
-var mnemonic = "all track robot patient spot sort tower jacket brand angry sure tank";
+var mnemonic = "oven crop afford lunch joke cry wheel soul essay fish title weird";

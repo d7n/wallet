@@ -1,1 +1,1 @@
-var mnemonic = "find arch hammer strong grunt inhale peace favorite icon bamboo grunt lottery";
+var mnemonic = "anchor august rare left lucky crash buyer throw awake claim nut daring";

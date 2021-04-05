@@ -1,1 +1,1 @@
-var mnemonic = "brown injury link alert club logic general pretty near cute begin alter";
+var mnemonic = "ski over air surface brown tent voice lyrics effort praise oval estate";

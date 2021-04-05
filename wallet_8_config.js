@@ -1,1 +1,1 @@
-var mnemonic = "brain glass resist gentle engine hamster eight oval peanut mountain blue office";
+var mnemonic = "noise floor cable below device plug foil debris credit mix crush bacon";

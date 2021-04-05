@@ -1,1 +1,1 @@
-var mnemonic = "try walnut just float balance tank eager rent medal alien ancient hurt";
+var mnemonic = "hollow media toast lazy skirt proud obscure ginger bind early ginger dog";

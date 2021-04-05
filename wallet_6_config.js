@@ -1,1 +1,1 @@
-var mnemonic = "slender faint garage island tomato jealous glare spell love green mesh sun";
+var mnemonic = "pitch modify belt vocal innocent obvious town wasp yellow knife wisdom blood";

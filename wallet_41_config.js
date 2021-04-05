@@ -1,1 +1,1 @@
-var mnemonic = "domain shy crowd skirt hobby ordinary screen force crawl credit palace hover";
+var mnemonic = "annual more become crazy pledge answer slab wish toy animal example exile";

@@ -1,1 +1,1 @@
-var mnemonic = "front identify promote claim hen episode student off bean into ahead rival";
+var mnemonic = "spare mansion lock coyote flight chat car spawn slight tray season ask";

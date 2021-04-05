@@ -1,1 +1,1 @@
-var mnemonic = "monster dwarf easily choice kite strike culture market ten actress distance among";
+var mnemonic = "that knock alone way spider hood awkward swallow reflect reform enact retire";

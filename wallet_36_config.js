@@ -1,1 +1,1 @@
-var mnemonic = "satisfy leisure visit today pass wood nothing obvious round figure settle kiss";
+var mnemonic = "inch mean scissors hill exercise road describe moon tenant carpet travel virus";

@@ -1,1 +1,1 @@
-var mnemonic = "gain turn sure staff mesh claw wool opera garage paddle phone outer";
+var mnemonic = "hip dolphin inside bar animal survey awesome choose census list churn ecology";

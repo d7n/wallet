@@ -1,1 +1,1 @@
-var mnemonic = "supply jaguar legend chapter hold crisp render monkey wealth slight check forward";
+var mnemonic = "tornado attitude achieve embrace observe shove erode meadow sketch winter trip easily";

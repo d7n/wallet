@@ -1,1 +1,1 @@
-var mnemonic = "huge news grass claim point clerk water embody inspire toddler pole kite";
+var mnemonic = "panel boil swing radar mixed home dwarf force olive symbol cost imitate";

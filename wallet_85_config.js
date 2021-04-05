@@ -1,1 +1,1 @@
-var mnemonic = "cake subject alter diesel domain voyage myself copy coyote lab usage biology";
+var mnemonic = "foster across ostrich sustain enemy segment major direct knee velvet seek village";

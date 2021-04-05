@@ -1,1 +1,1 @@
-var mnemonic = "section spend size team eye birth muffin carbon attitude focus radio tail";
+var mnemonic = "long ridge split grocery mango resemble pill sibling mother place shrug good";

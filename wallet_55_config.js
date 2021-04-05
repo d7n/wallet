@@ -1,1 +1,1 @@
-var mnemonic = "example crisp ghost icon family amazing betray shine slim else machine denial";
+var mnemonic = "ripple figure forget require ladder firm improve orchard thing mushroom metal pioneer";

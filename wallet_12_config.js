@@ -1,1 +1,1 @@
-var mnemonic = "year chuckle nasty dawn tourist leopard visit tower crater sustain team asset";
+var mnemonic = "federal anger home palace tuition punch lock popular lamp above monkey treat";

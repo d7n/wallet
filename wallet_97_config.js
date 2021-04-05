@@ -1,1 +1,1 @@
-var mnemonic = "sing engage easy purpose miracle bring okay bonus inch wine spot siege";
+var mnemonic = "tuna toe october grunt uncover shoe slogan erode mistake favorite eternal gospel";

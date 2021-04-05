@@ -1,1 +1,1 @@
-var mnemonic = "congress knock matter spoil mother only garden width exercise humble reject auction";
+var mnemonic = "voyage strong drama fork perfect pulse hidden sort spawn essay column dolphin";

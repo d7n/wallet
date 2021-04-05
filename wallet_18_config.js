@@ -1,1 +1,1 @@
-var mnemonic = "turtle island oil water vendor gloom dash start friend spoon theme mad";
+var mnemonic = "cute afraid culture print sheriff tomorrow mercy machine announce bronze shield squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "raven fish web year lady advice party normal uncle luggage pink cradle";
+var mnemonic = "retreat bubble flock unveil copy elder settle worth vehicle around loyal confirm";

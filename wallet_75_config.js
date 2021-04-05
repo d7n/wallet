@@ -1,1 +1,1 @@
-var mnemonic = "lonely august tunnel length pudding chase medal attitude inside man doctor evolve";
+var mnemonic = "base pyramid inch shadow saddle labor dwarf smart next member torch forget";

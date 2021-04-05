@@ -1,1 +1,1 @@
-var mnemonic = "breeze honey tube loop vapor comic never prison carry dirt catalog truth";
+var mnemonic = "scatter welcome net cable trap jacket hammer notice verify unfair robot hope";

@@ -1,1 +1,1 @@
-var mnemonic = "simple candy obey daring fold clutch whisper mimic frozen raw sheriff remove";
+var mnemonic = "fatal history friend zone will receive captain elbow album glad whip degree";

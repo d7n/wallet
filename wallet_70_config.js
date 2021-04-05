@@ -1,1 +1,1 @@
-var mnemonic = "radar act leisure tennis wood elephant genre goat fantasy wolf garden fossil";
+var mnemonic = "battle isolate kind aerobic acoustic pencil merry thumb grow hand daring level";

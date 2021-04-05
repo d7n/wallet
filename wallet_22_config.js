@@ -1,1 +1,1 @@
-var mnemonic = "cruise embark erase reflect car control element until river void very limb";
+var mnemonic = "cave ladder reduce mandate edit bus panther roast sentence crazy ceiling solar";

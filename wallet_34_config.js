@@ -1,1 +1,1 @@
-var mnemonic = "cost iron return school joke survey champion robot tell assume armed coyote";
+var mnemonic = "canoe spell valve walnut myself index spatial youth toddler solar evoke soon";

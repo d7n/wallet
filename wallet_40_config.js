@@ -1,1 +1,1 @@
-var mnemonic = "unknown embark sniff race bus aim vacuum depart video blame sheriff ability";
+var mnemonic = "lion silent aisle rebuild assume bundle drive point brave three bottom blade";

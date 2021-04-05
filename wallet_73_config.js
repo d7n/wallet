@@ -1,1 +1,1 @@
-var mnemonic = "eternal now priority bachelor resemble fame word settle thunder cook amazing install";
+var mnemonic = "neck sign episode chest motion parent already pass diesel victory baby tragic";

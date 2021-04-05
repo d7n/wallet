@@ -1,1 +1,1 @@
-var mnemonic = "humble velvet joy around wine harsh city medal crazy secret sunny give";
+var mnemonic = "crazy divorce top marble upset mercy winner already gentle road faith frog";

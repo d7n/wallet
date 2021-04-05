@@ -1,1 +1,1 @@
-var mnemonic = "vague property duty hello marine siege episode urban relief short web tonight";
+var mnemonic = "museum scale vessel dust initial kiwi palace thought mistake cabin amused lonely";

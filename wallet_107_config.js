@@ -1,1 +1,1 @@
-var mnemonic = "frost drip input metal rail fortune wink across debris burst wall green";
+var mnemonic = "around diary elder flash economy payment ticket stick ostrich member amazing used";

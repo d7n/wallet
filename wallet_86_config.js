@@ -1,1 +1,1 @@
-var mnemonic = "left cost galaxy track occur matter shine raven six easy people liar";
+var mnemonic = "pitch thunder device kitchen flat gas spin initial trend process great polar";

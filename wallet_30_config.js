@@ -1,1 +1,1 @@
-var mnemonic = "spoon install faint slice vessel flock nasty table stock satoshi gorilla empower";
+var mnemonic = "puzzle gun dance what book banana diagram reform snow matter february tumble";

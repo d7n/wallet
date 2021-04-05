@@ -1,1 +1,1 @@
-var mnemonic = "enact west match skill card timber fossil october income pledge loop tennis";
+var mnemonic = "decorate announce shoe food state dust glance enroll husband mansion autumn famous";

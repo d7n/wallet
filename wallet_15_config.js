@@ -1,1 +1,1 @@
-var mnemonic = "limit stay catalog void arctic vehicle virus anger anchor demand find sorry";
+var mnemonic = "interest educate best lounge south thing hint solution sphere skate educate correct";

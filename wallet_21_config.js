@@ -1,1 +1,1 @@
-var mnemonic = "soup magic later chaos stereo knee alert trigger atom audit sibling state";
+var mnemonic = "produce wait raw hill yellow hundred witness decade term copper best like";

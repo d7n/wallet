@@ -1,1 +1,1 @@
-var mnemonic = "narrow actress evolve cake imitate illegal owner dizzy scissors diet version else";
+var mnemonic = "okay crowd another vendor virtual weather talk mention wonder stem clarify glove";

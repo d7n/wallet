@@ -1,1 +1,1 @@
-var mnemonic = "repair impulse stool double pilot miracle juice able october sport confirm arctic";
+var mnemonic = "maximum private long keen mimic smile remove image road like focus sock";
