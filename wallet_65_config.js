@@ -1,1 +1,1 @@
-var mnemonic = "clap near flavor try steak quarter teach before deal mansion meat surface";
+var mnemonic = "harbor worry circle cart roast ramp wrong member vicious peasant exclude decade";

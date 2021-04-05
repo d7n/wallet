@@ -1,1 +1,1 @@
-var mnemonic = "boss employ injury stone prevent syrup critic crystal assist repeat primary wrestle";
+var mnemonic = "aim ecology analyst bomb rate race negative country auto medal hollow message";

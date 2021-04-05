@@ -1,1 +1,1 @@
-var mnemonic = "caught current bean cherry hybrid fatal task fun wish wrap blossom output";
+var mnemonic = "kidney various ring silk next fat motor below caution move jump hen";

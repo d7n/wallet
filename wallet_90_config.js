@@ -1,1 +1,1 @@
-var mnemonic = "cream cram noise prefer heart suffer obvious there jump garment round duck";
+var mnemonic = "width recall deputy detect interest remember panda insane play fine sign purity";

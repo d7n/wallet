@@ -1,1 +1,1 @@
-var mnemonic = "border prefer next candy prison rural wide win tuition primary hint gesture";
+var mnemonic = "general eye kind pistol imitate slender infant predict mutual mesh vibrant number";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner echo fish radio lamp silent rug donate police marble wage improve";
+var mnemonic = "derive loud letter wolf acquire grant slow smile dose asthma oppose install";

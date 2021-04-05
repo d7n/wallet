@@ -1,1 +1,1 @@
-var mnemonic = "essay great scout scout saddle intact exhibit surge this carbon fashion tide";
+var mnemonic = "describe wrestle eye rifle turkey tattoo fiber ketchup story crowd sad tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "meat attend fortune approve bread capable topic gravity artist faith used oak";
+var mnemonic = "emotion pitch sword minor pluck mean loop produce forum rocket strong wide";

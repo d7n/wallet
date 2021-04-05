@@ -1,1 +1,1 @@
-var mnemonic = "nation cloud rose thought pear rose thrive crush canoe opinion game rate";
+var mnemonic = "early dynamic deposit toilet siren pumpkin kind mad gold smoke month version";

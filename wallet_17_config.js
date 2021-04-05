@@ -1,1 +1,1 @@
-var mnemonic = "upset winner insect idle own gasp tissue smoke boy stadium retreat raise";
+var mnemonic = "process gentle mention lottery thumb brief artist ability valley amazing snap vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage room legend around barrel tiny double noodle april file able labor";
+var mnemonic = "oven admit hole hint ecology fever ramp become cycle adult illness absent";

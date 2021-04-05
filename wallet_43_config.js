@@ -1,1 +1,1 @@
-var mnemonic = "manual liquid crawl head antenna render nothing hope private advice dice ignore";
+var mnemonic = "occur endorse work matrix pact mystery wave upgrade sad burst sphere wet";

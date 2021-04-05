@@ -1,1 +1,1 @@
-var mnemonic = "add scan coast unknown season pluck own bronze orchard arrest shiver capable";
+var mnemonic = "tennis emerge will payment blade blame auto promote teach stool birth public";

@@ -1,1 +1,1 @@
-var mnemonic = "begin spy hover drink proof limb judge rely enter awful logic paddle";
+var mnemonic = "call mind below poet rotate pair indoor toe turkey cable dust total";

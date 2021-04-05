@@ -1,1 +1,1 @@
-var mnemonic = "empty pudding wisdom brisk remain key march witness science glide human differ";
+var mnemonic = "liquid genre nature main pudding story bachelor turkey aware join cake glad";

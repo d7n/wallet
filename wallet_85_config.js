@@ -1,1 +1,1 @@
-var mnemonic = "impose farm vacant purpose hat author faculty net motor effort fossil another";
+var mnemonic = "dentist figure impact neither number zebra found jaguar crush quick math follow";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt square century leg ankle rookie kind riot kite model student vapor";
+var mnemonic = "learn vast boy final more voyage artist use thrive eye retire nature";

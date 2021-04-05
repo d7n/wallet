@@ -1,1 +1,1 @@
-var mnemonic = "patient cliff demand peace wheat ketchup pulp tumble text zebra riot design";
+var mnemonic = "path butter capital insect wheat income appear typical light pony region net";

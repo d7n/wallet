@@ -1,1 +1,1 @@
-var mnemonic = "blood fossil person cost blood napkin arm broom subject enough grocery bulb";
+var mnemonic = "course cloth two ostrich scare drink monitor zoo nut tool damage enemy";

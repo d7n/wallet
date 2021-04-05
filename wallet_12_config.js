@@ -1,1 +1,1 @@
-var mnemonic = "erode horn soap drift stomach help language valve pause grow crop ride";
+var mnemonic = "ticket balcony load ship fix wrong flame shock clip royal inner before";

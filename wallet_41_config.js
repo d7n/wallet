@@ -1,1 +1,1 @@
-var mnemonic = "bleak rescue bench short knock can tail aspect this produce heart swing";
+var mnemonic = "index guide nasty spend find flat pilot cushion sun argue carbon shed";

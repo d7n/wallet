@@ -1,1 +1,1 @@
-var mnemonic = "cabin galaxy typical talent autumn very rescue gauge vacuum load return farm";
+var mnemonic = "assume erase heart funny issue panda grit dune pepper cross aerobic access";

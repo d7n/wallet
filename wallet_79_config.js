@@ -1,1 +1,1 @@
-var mnemonic = "dish ribbon captain number main autumn boost use dial drip feature wide";
+var mnemonic = "school token bamboo boss truly viable fox fade spend female shoulder across";

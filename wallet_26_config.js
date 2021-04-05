@@ -1,1 +1,1 @@
-var mnemonic = "pizza title air company limit behave width resemble dinner major guess energy";
+var mnemonic = "cruise faint tomorrow estate agent avocado quantum act alien wish zero insane";

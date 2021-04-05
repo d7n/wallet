@@ -1,1 +1,1 @@
-var mnemonic = "orphan bronze pen certain doll boat mixture local write wisdom card view";
+var mnemonic = "animal before gesture sock advance cross wheel neutral nature shiver orphan uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "potato leader impulse secret learn zero melt pepper exit frozen call nurse";
+var mnemonic = "remind banana chronic finger faint trash rose upset exhaust inside brisk grab";

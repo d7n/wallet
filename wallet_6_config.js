@@ -1,1 +1,1 @@
-var mnemonic = "quiz seed antique awesome silver galaxy slender gown solution weapon service screen";
+var mnemonic = "fame desk essence gown home flip butter couch chaos spring gospel lift";

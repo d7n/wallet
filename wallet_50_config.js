@@ -1,1 +1,1 @@
-var mnemonic = "sudden weekend split defense exchange blur artwork topic child wonder blur area";
+var mnemonic = "check notice install maze stuff brisk frog chat range alarm thumb scatter";

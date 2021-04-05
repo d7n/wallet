@@ -1,1 +1,1 @@
-var mnemonic = "motion brick route item sunny lens execute tree neither maple diet labor";
+var mnemonic = "twin lady pulse essence trust canal title else chicken planet tree winner";

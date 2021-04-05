@@ -1,1 +1,1 @@
-var mnemonic = "carry long ball question steak dismiss spring now charge love exercise glare";
+var mnemonic = "bomb dove school obscure grain rifle style spell tiger cruise logic initial";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo short retreat disease baby abandon debris opinion age rib essay future";
+var mnemonic = "pledge will twenty kit fly young kid canoe neglect squeeze staff regular";

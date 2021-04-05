@@ -1,1 +1,1 @@
-var mnemonic = "west mercy have stay cradle combine word aisle flight duck open match";
+var mnemonic = "typical noble trash vendor luggage print cube climb valid gravity abstract tiny";

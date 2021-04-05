@@ -1,1 +1,1 @@
-var mnemonic = "sunset guide goose similar century bacon wrap direct forest dress mixture demise";
+var mnemonic = "model exclude special permit mass arch guitar finger chapter rhythm lava chronic";

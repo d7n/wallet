@@ -1,1 +1,1 @@
-var mnemonic = "hockey dad quit latin ghost afraid citizen tissue wait velvet wrist school";
+var mnemonic = "section once athlete impose multiply omit mistake bulk portion puzzle situate dance";

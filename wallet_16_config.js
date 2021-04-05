@@ -1,1 +1,1 @@
-var mnemonic = "assume sing conduct stool feed planet excess creek flee horse guide garment";
+var mnemonic = "mom type sick disagree exhaust tag access salon escape barely offer rude";

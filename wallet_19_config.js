@@ -1,1 +1,1 @@
-var mnemonic = "recycle rare half pupil decade park outdoor water butter figure resist rally";
+var mnemonic = "juice oppose tortoise beach track silly boring foot dish trouble devote share";

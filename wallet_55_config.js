@@ -1,1 +1,1 @@
-var mnemonic = "produce tunnel digital debris topic rib medal duck this maze they need";
+var mnemonic = "rookie glove bulk shed female sea special unit device real recycle vehicle";

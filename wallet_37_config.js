@@ -1,1 +1,1 @@
-var mnemonic = "pipe whisper claw question push elevator path phrase ranch purse drastic pond";
+var mnemonic = "thing paper road water sorry else author jewel dumb remind stuff crouch";

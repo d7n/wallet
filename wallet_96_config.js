@@ -1,1 +1,1 @@
-var mnemonic = "hole potato flame measure spin silly you kingdom truth match online area";
+var mnemonic = "elite relief great sword predict elbow hand fly magnet analyst maze bind";

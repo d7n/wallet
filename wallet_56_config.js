@@ -1,1 +1,1 @@
-var mnemonic = "salt venue stick gym sleep betray zone error annual upset tackle shed";
+var mnemonic = "code fun salad green thing hen taste brick solve pupil test finger";

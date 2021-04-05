@@ -1,1 +1,1 @@
-var mnemonic = "amount chicken interest daughter maid hello enjoy brain hedgehog poem ready gospel";
+var mnemonic = "arrow involve empty forward puppy wet notice museum time gold guilt history";

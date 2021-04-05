@@ -1,1 +1,1 @@
-var mnemonic = "steak adult uncover focus bridge horn proof salmon device apology ethics illegal";
+var mnemonic = "debris security vital group rough eight notable elevator doctor enhance clog kiss";

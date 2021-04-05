@@ -1,1 +1,1 @@
-var mnemonic = "yellow visual robot captain grape plastic draw lobster slogan cloth goat catalog";
+var mnemonic = "able erode scene comfort city shrimp brush notice garden fitness science gauge";

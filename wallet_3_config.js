@@ -1,1 +1,1 @@
-var mnemonic = "orchard enhance hurdle head always type cluster clip canoe theme wall fox";
+var mnemonic = "mean save horror custom lottery light gain trick update furnace pipe seat";

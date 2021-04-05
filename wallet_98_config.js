@@ -1,1 +1,1 @@
-var mnemonic = "flock multiply patient topic large tide cup elevator trick regular doll unique";
+var mnemonic = "rare sentence afford obvious bar replace burst siege daring carry sentence perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "game buyer hour caught easily next increase fragile door call embody pigeon";
+var mnemonic = "fire series leopard unaware sure solid blanket video spare legend fever resemble";

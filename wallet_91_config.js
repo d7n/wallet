@@ -1,1 +1,1 @@
-var mnemonic = "note combine cat armor lift holiday used bread alert also quick misery";
+var mnemonic = "eight switch end doll warrior camera sweet calm bind stand auto just";

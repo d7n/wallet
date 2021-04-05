@@ -1,1 +1,1 @@
-var mnemonic = "enact melt artist win expire coffee hill ankle pride impact start accident";
+var mnemonic = "blame clerk trip easily lunch dumb second physical cargo figure change eyebrow";

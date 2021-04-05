@@ -1,1 +1,1 @@
-var mnemonic = "exotic tower edge feed coyote credit ticket middle canoe draw motion bamboo";
+var mnemonic = "cost final nice sting parent enemy frown object assist setup finish business";

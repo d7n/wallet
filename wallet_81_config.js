@@ -1,1 +1,1 @@
-var mnemonic = "fossil column imitate kitten cash example soon negative sing discover ugly remove";
+var mnemonic = "over digital govern humble equip river nest strategy eagle broccoli sock hope";

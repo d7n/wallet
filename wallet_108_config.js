@@ -1,1 +1,1 @@
-var mnemonic = "panic civil pole panic option peace property renew crop dinner popular wrong";
+var mnemonic = "design solve vague unusual hazard romance skirt couple month only afford rough";

@@ -1,1 +1,1 @@
-var mnemonic = "woman either pulp weather patrol embrace taste omit pistol aunt cool exact";
+var mnemonic = "above police foster agree museum stand switch estate satisfy carry autumn great";

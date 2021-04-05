@@ -1,1 +1,1 @@
-var mnemonic = "nothing glass month struggle disorder mobile noodle butter kitchen crime cube meat";
+var mnemonic = "soda lyrics captain prize degree erupt siege hazard fat page gravity always";

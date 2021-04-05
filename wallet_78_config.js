@@ -1,1 +1,1 @@
-var mnemonic = "banana under bread that spoil patient level fog deposit cloud squirrel analyst";
+var mnemonic = "nut task garage runway very peanut culture reflect play adapt umbrella tray";

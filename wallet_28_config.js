@@ -1,1 +1,1 @@
-var mnemonic = "dinner snake middle attack retreat mistake detect universe cable discover produce real";
+var mnemonic = "clinic credit thing practice fantasy regular observe swamp develop neither patrol nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "pull embody final frozen film frog obtain salute knock nature cruise news";
+var mnemonic = "biology tonight eagle among wood junior equal tribe notable fix whip anger";

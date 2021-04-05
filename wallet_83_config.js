@@ -1,1 +1,1 @@
-var mnemonic = "media grit wool artist solar vacuum eyebrow melody dolphin kid devote spread";
+var mnemonic = "stove can suit immense churn buyer radio engine waste bread aspect state";

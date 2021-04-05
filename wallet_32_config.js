@@ -1,1 +1,1 @@
-var mnemonic = "purchase soft hungry mind metal brand key unique wire beef buddy warrior";
+var mnemonic = "blast area logic radio lucky swarm ladder ranch never reward rather heart";

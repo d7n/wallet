@@ -1,1 +1,1 @@
-var mnemonic = "allow seed morning cable country connect wet cabin valid hotel tourist tenant";
+var mnemonic = "limb pioneer mechanic sure city spare half reason alpha you legend pilot";

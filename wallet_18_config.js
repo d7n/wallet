@@ -1,1 +1,1 @@
-var mnemonic = "voice blur width debate dwarf despair away oppose chronic pretty force same";
+var mnemonic = "relief arrive call rubber outdoor hen believe pair south yard romance above";

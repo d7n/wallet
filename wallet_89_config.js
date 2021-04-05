@@ -1,1 +1,1 @@
-var mnemonic = "word harbor biology student mask avocado trust blur clutch know people cliff";
+var mnemonic = "waste piano spare pyramid receive output ice position mind adult dinosaur knock";

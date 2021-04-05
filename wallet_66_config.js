@@ -1,1 +1,1 @@
-var mnemonic = "brother corn jaguar rail pear confirm hollow cabin crime only pull alpha";
+var mnemonic = "toe salon thing reduce hotel work slender bag anchor dust situate fly";

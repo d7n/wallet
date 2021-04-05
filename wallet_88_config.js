@@ -1,1 +1,1 @@
-var mnemonic = "disease canoe submit avoid blood symptom coast spawn medal together kick whale";
+var mnemonic = "announce order success prosper peasant high captain tooth column sunset island expect";

@@ -1,1 +1,1 @@
-var mnemonic = "method oil dinner little novel desert fine machine install dragon box region";
+var mnemonic = "symptom tragic foot alarm drive party salmon country civil coral genius eternal";

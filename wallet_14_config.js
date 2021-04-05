@@ -1,1 +1,1 @@
-var mnemonic = "tip quick wonder concert shrimp throw popular fence depart relax menu velvet";
+var mnemonic = "forget range veteran walnut machine various eye twin put demand title license";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare case cigar pole list tilt prosper century name gesture turtle potato";
+var mnemonic = "choose there climb icon bonus drama lemon between hotel hobby refuse morning";

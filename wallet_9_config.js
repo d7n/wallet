@@ -1,1 +1,1 @@
-var mnemonic = "nerve define amused doctor sport similar electric click snap shoot leopard shuffle";
+var mnemonic = "mountain school gravity pudding blur cross apart assume idea erase allow accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel myth paddle they ahead lava zebra secret oyster all balcony lawsuit";
+var mnemonic = "toward else chuckle devote cherry globe spider gym win vocal seminar shove";

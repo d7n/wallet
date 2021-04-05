@@ -1,1 +1,1 @@
-var mnemonic = "sadness orbit raw extend spike joke crucial awesome sphere gloom feature remain";
+var mnemonic = "park extra erupt expose load beef matrix design fire parent trade balance";

@@ -1,1 +1,1 @@
-var mnemonic = "hint shop dry marble magnet good prison neglect involve enroll mystery goddess";
+var mnemonic = "embrace hurt wink column fun abstract plastic fossil trick bargain foam clown";

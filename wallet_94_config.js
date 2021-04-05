@@ -1,1 +1,1 @@
-var mnemonic = "correct tone goddess twelve shuffle maple armed olive tobacco cup afraid law";
+var mnemonic = "universe cradle critic brave nasty alert evil certain fossil cave cheese scout";

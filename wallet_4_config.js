@@ -1,1 +1,1 @@
-var mnemonic = "craft senior universe hospital embrace dragon rely way liar biology little nose";
+var mnemonic = "adapt weasel patient enforce small muscle cabbage message learn crack mouse direct";

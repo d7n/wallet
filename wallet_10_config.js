@@ -1,1 +1,1 @@
-var mnemonic = "solve lake reduce clip drift race rebuild deal liquid angle barrel sibling";
+var mnemonic = "lazy topic fan switch betray unaware artist noise cloth hello interest judge";

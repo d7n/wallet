@@ -1,1 +1,1 @@
-var mnemonic = "unit turtle letter shallow vital hand taxi light clutch drive ancient paddle";
+var mnemonic = "pond morning roast floor eager boy response sell camp front kid screen";

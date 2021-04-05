@@ -1,1 +1,1 @@
-var mnemonic = "place six bachelor scatter pencil immense letter crop title diagram gallery wear";
+var mnemonic = "carbon biology fresh vote click doctor heavy affair educate flavor occur hazard";

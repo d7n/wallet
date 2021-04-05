@@ -1,1 +1,1 @@
-var mnemonic = "today tennis round invest quality replace before give settle sustain bleak sausage";
+var mnemonic = "ride never honey draft belt year can truck avocado twist train fury";

@@ -1,1 +1,1 @@
-var mnemonic = "toy rent pear coyote input round shuffle polar spell fetch hen provide";
+var mnemonic = "unfair skull slender fun public island gloom wear trial clutch tenant tail";

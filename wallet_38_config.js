@@ -1,1 +1,1 @@
-var mnemonic = "sentence retreat spice gift car merry gorilla milk card finish apart mom";
+var mnemonic = "verify trick rhythm agent know educate animal tongue family excess again oval";

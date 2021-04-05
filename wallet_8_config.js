@@ -1,1 +1,1 @@
-var mnemonic = "picnic pretty bulb attitude wage total wrist lounge fever double ribbon real";
+var mnemonic = "follow refuse quick add trick spice peace cradle govern permit march right";

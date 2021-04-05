@@ -1,1 +1,1 @@
-var mnemonic = "gain sunny violin fever miracle pride song bus fee local year surprise";
+var mnemonic = "view print term away skate embrace alcohol salmon tuna learn beyond patrol";

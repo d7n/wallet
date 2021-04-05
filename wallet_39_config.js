@@ -1,1 +1,1 @@
-var mnemonic = "follow blind hole episode print assist damage alert recall private course omit";
+var mnemonic = "zone unfair lady vibrant write inch level document black panther huge pretty";

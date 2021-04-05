@@ -1,1 +1,1 @@
-var mnemonic = "once road cheap host fat kitten tail embody route tumble cabin mobile";
+var mnemonic = "ketchup whale staff hamster world pact power jungle ready void repeat fiscal";

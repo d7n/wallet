@@ -1,1 +1,1 @@
-var mnemonic = "puzzle vapor boring century depend wave goat fit abuse fish cloud hedgehog";
+var mnemonic = "maximum primary original vacant scheme visit correct quiz fan jaguar cup cotton";

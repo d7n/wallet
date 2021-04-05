@@ -1,1 +1,1 @@
-var mnemonic = "expand dilemma save success dumb olympic limb tonight silk solar spice lift";
+var mnemonic = "power space link disagree bomb book awful sponsor answer notable twist witness";

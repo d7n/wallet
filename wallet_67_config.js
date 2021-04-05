@@ -1,1 +1,1 @@
-var mnemonic = "cabbage sentence cash eagle split service index feed remind power knife salmon";
+var mnemonic = "rare hello online cram people company attend crack ketchup man erupt device";

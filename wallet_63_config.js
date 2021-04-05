@@ -1,1 +1,1 @@
-var mnemonic = "burden language hire grunt ancient width involve sketch supply diamond cricket mule";
+var mnemonic = "night guess list amazing gun try board pause video dog income party";

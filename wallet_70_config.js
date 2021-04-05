@@ -1,1 +1,1 @@
-var mnemonic = "push bench ginger pave sausage cereal fee accident fashion shaft under crime";
+var mnemonic = "corn endless produce derive embody panel dash carbon angry same occur super";

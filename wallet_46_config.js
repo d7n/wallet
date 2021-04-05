@@ -1,1 +1,1 @@
-var mnemonic = "flight turkey camp extra over minimum decade limb enroll avoid sphere damage";
+var mnemonic = "report obey year involve scene tag hole silly gown sustain visit door";

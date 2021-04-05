@@ -1,1 +1,1 @@
-var mnemonic = "cross march basket remember evolve grow across retreat target unique enroll act";
+var mnemonic = "forest glance install calm install violin eternal luxury double claim resist glory";
