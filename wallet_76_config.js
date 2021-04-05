@@ -1,1 +1,1 @@
-var mnemonic = "leopard oblige account girl luxury uncover divorce envelope actress measure coin ocean";
+var mnemonic = "such humor sketch grit salt diet gossip cliff shine raw marriage green";

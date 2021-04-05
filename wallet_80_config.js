@@ -1,1 +1,1 @@
-var mnemonic = "sniff cram public taxi shed tornado rice climb bracket frequent tank hole";
+var mnemonic = "clay loyal royal garage ready shield victory slab bubble stomach champion plunge";

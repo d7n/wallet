@@ -1,1 +1,1 @@
-var mnemonic = "riot mushroom bulk borrow march regular east deliver sound abandon seed amateur";
+var mnemonic = "act grain tragic rude empower super angle fun tomato bubble enroll exchange";

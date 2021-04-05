@@ -1,1 +1,1 @@
-var mnemonic = "report language solve tank figure dentist ghost catalog foot virus favorite bag";
+var mnemonic = "ski bring lizard seed engage onion march govern notice breeze photo edit";

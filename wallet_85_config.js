@@ -1,1 +1,1 @@
-var mnemonic = "they pink evoke voyage device timber what endless trade floor tree smart";
+var mnemonic = "bacon dust hockey post favorite velvet exit popular trophy damp marriage garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "tilt skin word gospel arctic arrow shell walk fabric actual topple phone";
+var mnemonic = "lesson inherit symptom valley voice absent erode slam enforce ladder voyage machine";

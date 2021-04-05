@@ -1,1 +1,1 @@
-var mnemonic = "caught lumber shadow sock stomach mad radio tired quiz palace thought peasant";
+var mnemonic = "fix black glow shift success private put betray goat quit impulse ill";

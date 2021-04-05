@@ -1,1 +1,1 @@
-var mnemonic = "example flag goddess large stick aware leisure frown early airport million there";
+var mnemonic = "vast climb replace iron fox mutual guilt economy key subway brother still";

@@ -1,1 +1,1 @@
-var mnemonic = "glory pattern void never crowd obtain ranch ladder rural afraid lemon trigger";
+var mnemonic = "juice measure long dizzy dune camera slab subway sudden elegant crush deer";

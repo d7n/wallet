@@ -1,1 +1,1 @@
-var mnemonic = "basket float peasant palm movie tennis kidney miracle skin enrich labor betray";
+var mnemonic = "income palace river bronze vacuum myself cross outdoor valid elder brief jump";

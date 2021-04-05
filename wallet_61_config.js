@@ -1,1 +1,1 @@
-var mnemonic = "avocado tool pudding lottery bright recipe frown squirrel bounce mammal cotton exhaust";
+var mnemonic = "width saddle slogan vault funny undo mango trick issue dad hole dismiss";

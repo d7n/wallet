@@ -1,1 +1,1 @@
-var mnemonic = "opera nest auction theme must effort hockey seat ahead bar weekend erosion";
+var mnemonic = "ritual hockey kangaroo resource banana march name spring bundle enable night citizen";

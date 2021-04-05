@@ -1,1 +1,1 @@
-var mnemonic = "skin scissors lobster shallow metal silk liar dolphin danger vivid short lunch";
+var mnemonic = "path palm exist envelope staff ignore conduct summer digital stomach rival high";

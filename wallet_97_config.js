@@ -1,1 +1,1 @@
-var mnemonic = "night lock game acquire purchase library wave artwork cattle awkward ankle hover";
+var mnemonic = "camera dizzy squirrel insect bless hundred sand fantasy helmet critic just loan";

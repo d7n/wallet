@@ -1,1 +1,1 @@
-var mnemonic = "shine salute pitch laptop acoustic vintage square security chuckle joke ready click";
+var mnemonic = "medal squeeze curtain logic snow silk jeans hundred awful jealous boost vivid";

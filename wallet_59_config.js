@@ -1,1 +1,1 @@
-var mnemonic = "type online traffic whisper hour post enemy coral prepare item there confirm";
+var mnemonic = "avoid raven erupt mixed scan decide usage good snake patient sign nation";

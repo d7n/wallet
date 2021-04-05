@@ -1,1 +1,1 @@
-var mnemonic = "toss planet pulse delay unfold jeans display soccer seven talk lawn relax";
+var mnemonic = "box bridge tribe busy spare orange viable stamp height toy flash hurt";

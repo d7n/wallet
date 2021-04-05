@@ -1,1 +1,1 @@
-var mnemonic = "tattoo glare legend view sniff exile nose drop grace fringe abstract apology";
+var mnemonic = "robot leg drop hockey minimum expose remain harvest happy stereo divide slide";

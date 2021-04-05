@@ -1,1 +1,1 @@
-var mnemonic = "olive pear gym tuna cactus album tomorrow brick unusual drama expose much";
+var mnemonic = "glimpse crowd mutual spirit sauce sponsor vocal behind swarm invite fiber sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle wish equal tunnel image gospel economy exile turn wrap clump jeans";
+var mnemonic = "turkey edit bike eight undo fatal priority crowd secret horse sand reason";

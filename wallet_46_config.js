@@ -1,1 +1,1 @@
-var mnemonic = "grocery task defy blush broken abstract rally gloom solve mule elevator cement";
+var mnemonic = "feel access legend stable midnight harvest ketchup penalty issue betray broken settle";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer tennis rabbit logic clerk sentence faint october cannon engage ostrich alert";
+var mnemonic = "rose ocean walnut grief chuckle filter bounce glue minimum oak version mind";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar ridge soldier situate reopen route pottery off soul special phone nurse";
+var mnemonic = "expand trumpet tourist pottery borrow charge observe credit clever zoo drive scare";

@@ -1,1 +1,1 @@
-var mnemonic = "position essay answer advice decline ensure fade spread fit display misery turkey";
+var mnemonic = "gather wrist behave hub portion turkey truly offer noise net cushion task";

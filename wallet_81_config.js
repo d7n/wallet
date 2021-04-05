@@ -1,1 +1,1 @@
-var mnemonic = "whip lucky maple subject mass fruit monkey empty prize ceiling car language";
+var mnemonic = "elephant armor flash decade crime later blur wealth artefact symptom image broccoli";

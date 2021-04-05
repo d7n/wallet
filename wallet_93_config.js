@@ -1,1 +1,1 @@
-var mnemonic = "effort actual distance split response pottery imitate blood shock bread march perfect";
+var mnemonic = "attract love number add blush that bachelor focus climb term glance matter";

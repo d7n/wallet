@@ -1,1 +1,1 @@
-var mnemonic = "decrease sadness height portion pistol isolate thought actual outside blind trash vapor";
+var mnemonic = "capital friend suffer script truly color muscle walnut egg cloud junior stage";

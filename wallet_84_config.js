@@ -1,1 +1,1 @@
-var mnemonic = "stumble treat clarify logic toilet section sound soft scale path kidney height";
+var mnemonic = "chunk token fruit enroll tiny toilet favorite cycle help ceiling dignity famous";

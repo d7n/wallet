@@ -1,1 +1,1 @@
-var mnemonic = "peasant search notice mechanic secret lounge pitch until push direct flight domain";
+var mnemonic = "album grocery vote flat dwarf cherry special pelican bonus mushroom diamond tool";

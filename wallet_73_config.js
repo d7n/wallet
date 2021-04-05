@@ -1,1 +1,1 @@
-var mnemonic = "pencil over critic shallow erupt render shaft thank position unfold hen type";
+var mnemonic = "velvet together buyer trick depart seat usage riot feature put demise craft";

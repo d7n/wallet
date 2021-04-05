@@ -1,1 +1,1 @@
-var mnemonic = "lobster brand scout track orchard undo legend useless affair merry note mutual";
+var mnemonic = "interest siren barely rack decade disorder delay inspire antique inside milk exhaust";

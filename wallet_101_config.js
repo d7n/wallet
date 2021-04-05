@@ -1,1 +1,1 @@
-var mnemonic = "canvas trap trick suffer concert affair ramp miss danger fish dirt open";
+var mnemonic = "morning pass soap attract license woman lizard scan hedgehog race cat phrase";

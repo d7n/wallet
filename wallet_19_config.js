@@ -1,1 +1,1 @@
-var mnemonic = "volcano book copy betray wheel innocent supreme erode pole asset inmate radio";
+var mnemonic = "wish bronze report warfare earn bless grab rose mimic soon kingdom consider";

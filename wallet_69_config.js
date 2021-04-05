@@ -1,1 +1,1 @@
-var mnemonic = "expect soul fever fun gloom ripple morning broken day next gravity jaguar";
+var mnemonic = "choice drastic announce keen grab convince sure page easy limit wrong hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "disease ensure absurd wagon anchor problem name exist viable nut topic reject";
+var mnemonic = "olympic nut spread speak method hidden hair discover student bottom fault gesture";

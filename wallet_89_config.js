@@ -1,1 +1,1 @@
-var mnemonic = "vicious clown toast almost neglect very cabin sketch alien steel divorce canoe";
+var mnemonic = "sun above fiber census view ranch ahead someone media crush valid mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "devote involve stove belt online hood cause congress artefact jaguar recipe laptop";
+var mnemonic = "gym piano process fame polar bid confirm piece donor coach purity link";

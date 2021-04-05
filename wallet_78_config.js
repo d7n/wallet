@@ -1,1 +1,1 @@
-var mnemonic = "please edit tennis void coffee lawsuit state hat exclude shed input owner";
+var mnemonic = "accident ordinary tumble bone summer clarify industry smart elevator bone life peace";

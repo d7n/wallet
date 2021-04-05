@@ -1,1 +1,1 @@
-var mnemonic = "exit segment nature fall cheap bitter barely lens spoil dwarf canyon oven";
+var mnemonic = "super dice cake suggest govern cool rocket nature float chef imitate aware";

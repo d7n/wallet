@@ -1,1 +1,1 @@
-var mnemonic = "rally note lawn flower menu supply frog lawn scan repeat slush cheese";
+var mnemonic = "donate state caught observe fault round aisle world mammal attract dentist tennis";

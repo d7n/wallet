@@ -1,1 +1,1 @@
-var mnemonic = "armor spot summer brass subject plastic prize dad tuna evolve faith follow";
+var mnemonic = "nose vacuum century private toy ordinary popular frame surge cricket marriage other";

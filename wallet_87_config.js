@@ -1,1 +1,1 @@
-var mnemonic = "rabbit desk turtle sample chat eagle hire ready entry tourist result basket";
+var mnemonic = "delay harbor woman raven sentence pottery else galaxy heavy decade height kite";

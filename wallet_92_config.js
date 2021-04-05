@@ -1,1 +1,1 @@
-var mnemonic = "aunt depart inform kick chat vicious meadow sponsor captain laundry resist couple";
+var mnemonic = "slow blanket bread popular sing sail solution write loop scheme disorder snap";

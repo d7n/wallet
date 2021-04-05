@@ -1,1 +1,1 @@
-var mnemonic = "unlock aerobic charge sausage spend whisper sick gym gym warrior warrior trip";
+var mnemonic = "roast awesome velvet cancel equip sauce aerobic soon today glare filter tiny";

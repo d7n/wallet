@@ -1,1 +1,1 @@
-var mnemonic = "loyal accident donor honey present license sure eagle alone glide any lock";
+var mnemonic = "enforce deer penalty catalog frog world online bind grid maximum begin glass";

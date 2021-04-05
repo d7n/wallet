@@ -1,1 +1,1 @@
-var mnemonic = "twelve suspect rate title banner maximum vessel source fiscal degree busy across";
+var mnemonic = "hedgehog still spice wreck argue sea history culture brush rapid praise educate";

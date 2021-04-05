@@ -1,1 +1,1 @@
-var mnemonic = "media before confirm amount bar sing crush combine drip cigar oak all";
+var mnemonic = "glad awkward idle dune chat side lumber gap risk utility ketchup miracle";

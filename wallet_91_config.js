@@ -1,1 +1,1 @@
-var mnemonic = "valve session punch differ speak cabbage use fancy tackle regret video purity";
+var mnemonic = "polar horse ability churn load erupt canvas apple icon adult home fitness";

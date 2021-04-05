@@ -1,1 +1,1 @@
-var mnemonic = "primary half start swap faint renew gown payment process slender winner cool";
+var mnemonic = "ask loop moment belt tip metal observe donor arch jar despair siege";

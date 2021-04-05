@@ -1,1 +1,1 @@
-var mnemonic = "leaf maple economy whip volume brand parent liberty input puppy fiber squirrel";
+var mnemonic = "time harvest focus prefer cinnamon lawsuit deal chair predict manage used coin";

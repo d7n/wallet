@@ -1,1 +1,1 @@
-var mnemonic = "above hockey spray joke seminar lab rate city subway thank program shrimp";
+var mnemonic = "speak melody sweet era month alien hotel stomach try face hello indicate";

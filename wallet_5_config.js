@@ -1,1 +1,1 @@
-var mnemonic = "burden must own about spider slogan silent riot present wing bonus melt";
+var mnemonic = "argue appear twice sister arrange tooth lobster code receive document soccer bamboo";

@@ -1,1 +1,1 @@
-var mnemonic = "size exhaust wrong remember catch before stay step year typical visa labor";
+var mnemonic = "strike secret luxury inspire similar battle tornado learn thank peanut employ genre";

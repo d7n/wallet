@@ -1,1 +1,1 @@
-var mnemonic = "again century shine broom solve floor sort replace term expect tiny believe";
+var mnemonic = "earn office crumble west field utility luggage grocery raven chaos lemon token";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture ugly gravity betray typical soccer width banner wealth clay scorpion asset";
+var mnemonic = "animal home avocado regular boss tuition picture crime track grace token foster";

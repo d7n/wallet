@@ -1,1 +1,1 @@
-var mnemonic = "stumble lamp clump fade buzz blast across popular claw guess diary divert";
+var mnemonic = "market pizza unique wheat scrub cabbage same crawl faint pepper office dumb";

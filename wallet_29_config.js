@@ -1,1 +1,1 @@
-var mnemonic = "cart fan vast arena leaf bounce ginger useless snack clump beyond busy";
+var mnemonic = "bar slow neither wrap snack strategy inspire monitor off clever turkey essence";

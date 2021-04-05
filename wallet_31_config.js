@@ -1,1 +1,1 @@
-var mnemonic = "remove explain survey shadow inner royal tree dance analyst thank tobacco truth";
+var mnemonic = "museum transfer frequent honey harbor march push axis argue like erupt sense";

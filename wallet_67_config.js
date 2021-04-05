@@ -1,1 +1,1 @@
-var mnemonic = "depth increase assume siege marine problem another improve pause link record warm";
+var mnemonic = "sign level trick shrug antenna plunge foot walk general beef flower rally";

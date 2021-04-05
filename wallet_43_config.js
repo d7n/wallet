@@ -1,1 +1,1 @@
-var mnemonic = "spare public soda divide only earn render describe pool acquire mango orange";
+var mnemonic = "viable remind divide genre permit then harsh popular toilet skill bar arch";

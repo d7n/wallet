@@ -1,1 +1,1 @@
-var mnemonic = "judge heavy require actual donor nurse panic steak horn hill antique seek";
+var mnemonic = "cushion day initial year nurse talk story tenant gesture profit pill short";

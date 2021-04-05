@@ -1,1 +1,1 @@
-var mnemonic = "milk fame nature orient donkey position fancy used battle pull elite adapt";
+var mnemonic = "gown peanut crucial pluck whale scene sight dilemma hold outer order release";

@@ -1,1 +1,1 @@
-var mnemonic = "delay review twice few brown coil hurry turkey pledge chest vehicle cook";
+var mnemonic = "fragile inquiry artefact junk express below close stove initial museum life globe";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel script mad once purchase cement dice dial donor decline dash space";
+var mnemonic = "copy choice story input sketch pyramid fine penalty during short two trouble";

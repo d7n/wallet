@@ -1,1 +1,1 @@
-var mnemonic = "disagree pizza february effort credit level frost winner dog agent sword token";
+var mnemonic = "attend news wonder uncle proof palm dish brass glue subject sadness broom";

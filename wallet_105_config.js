@@ -1,1 +1,1 @@
-var mnemonic = "stairs coffee glimpse sell chase cousin fade grape funny merge carry gaze";
+var mnemonic = "brave father gap tell actor matter burger clock fluid melody grit possible";

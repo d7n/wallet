@@ -1,1 +1,1 @@
-var mnemonic = "hockey voyage leaf green metal more escape fence ethics smoke deal shed";
+var mnemonic = "time best panel analyst afraid afford swear slight bounce atom chase make";

@@ -1,1 +1,1 @@
-var mnemonic = "spell crazy flash agent aim immense blade mad defy friend equip artefact";
+var mnemonic = "paddle search leader size now glove extra biology suspect profit receive million";

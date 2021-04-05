@@ -1,1 +1,1 @@
-var mnemonic = "cube guard ten prosper horn rural eyebrow left brain echo balcony knee";
+var mnemonic = "century chair decide swarm material morning rely hat drink loud ribbon spoil";

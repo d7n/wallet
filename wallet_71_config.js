@@ -1,1 +1,1 @@
-var mnemonic = "cradle need purity cycle cupboard yellow emotion glory boost cloth machine pill";
+var mnemonic = "carbon shallow release mammal twice photo office unfold swamp better tide illegal";

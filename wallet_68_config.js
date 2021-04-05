@@ -1,1 +1,1 @@
-var mnemonic = "main smoke rich empower explain night add truck arrest drill energy oxygen";
+var mnemonic = "sick lift snow amateur quality win expose rally initial dolphin soldier parade";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue upgrade frame design mass lawn stairs simple blind view whisper basic";
+var mnemonic = "crater lucky salad skin snake distance expire rally shed wonder noble now";

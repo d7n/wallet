@@ -1,1 +1,1 @@
-var mnemonic = "omit search embrace enjoy crystal raise solid bamboo remember vintage acid piece";
+var mnemonic = "catch angry swing glory make census supreme path debris valley claim leopard";

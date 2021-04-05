@@ -1,1 +1,1 @@
-var mnemonic = "wagon head ivory unveil wash outdoor around decline light ten oyster tube";
+var mnemonic = "argue enable matrix surface owner lounge release habit undo human skull update";

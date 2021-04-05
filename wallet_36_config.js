@@ -1,1 +1,1 @@
-var mnemonic = "fee tissue alarm faith embody critic write hedgehog doll ensure crisp student";
+var mnemonic = "local fit dust pear junior border tip minor vendor twist nice speed";

@@ -1,1 +1,1 @@
-var mnemonic = "again ill couple replace history riot proud oxygen armor basic crash truck";
+var mnemonic = "join hard success cross unusual myth path design budget broccoli produce blouse";

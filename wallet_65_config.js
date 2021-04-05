@@ -1,1 +1,1 @@
-var mnemonic = "pig people rule basic slow room slab correct capable weather bring adjust";
+var mnemonic = "joy cricket snake list border eternal bracket dwarf romance glove yellow cushion";

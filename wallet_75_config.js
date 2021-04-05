@@ -1,1 +1,1 @@
-var mnemonic = "spell vanish false ugly pen cricket life survey habit acquire culture deny";
+var mnemonic = "stamp inject fix farm cushion subway review stone conduct census resemble woman";

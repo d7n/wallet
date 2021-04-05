@@ -1,1 +1,1 @@
-var mnemonic = "sick stool rare elephant asset fork goat involve before object snake horse";
+var mnemonic = "pelican razor width wish lift attend guitar wrist pool tower foam spy";

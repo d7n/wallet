@@ -1,1 +1,1 @@
-var mnemonic = "leave slot hole chef wait surface fun street provide divert acoustic success";
+var mnemonic = "collect this spend never forum angry scan misery exit mimic jaguar wave";

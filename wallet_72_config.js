@@ -1,1 +1,1 @@
-var mnemonic = "debate walk can van when mammal wrong spy jealous chest wink pen";
+var mnemonic = "chair width soldier rigid trip beef already add river uphold wrist cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "doll year angry replace rapid siren good spend unhappy electric salmon bounce";
+var mnemonic = "melody hen list about frame cycle volume help unusual arch egg lemon";

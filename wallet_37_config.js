@@ -1,1 +1,1 @@
-var mnemonic = "acid program story elite sick uphold slogan paddle garlic accident outer clinic";
+var mnemonic = "flee worth moment tornado advice cement air hat cigar dawn whisper caught";

@@ -1,1 +1,1 @@
-var mnemonic = "pen deny embrace polar oppose quiz become bacon system firm sense normal";
+var mnemonic = "dice talk push erase strategy typical tunnel circle appear attract metal prepare";

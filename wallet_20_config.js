@@ -1,1 +1,1 @@
-var mnemonic = "soap ranch shoe topic west dignity oxygen echo divert nerve group shadow";
+var mnemonic = "wrestle will donor apple dignity swarm bubble frequent solution utility month ugly";

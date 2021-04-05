@@ -1,1 +1,1 @@
-var mnemonic = "bag phone spy rally beef smile hire fruit error kidney roast hood";
+var mnemonic = "unaware feature wolf thing this bicycle cloth bag erode chef genre like";

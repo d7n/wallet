@@ -1,1 +1,1 @@
-var mnemonic = "sponsor list woman federal hammer strong daughter carpet link broccoli boring goddess";
+var mnemonic = "system indoor banana quarter chat work robot derive coyote help online spray";

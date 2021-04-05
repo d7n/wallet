@@ -1,1 +1,1 @@
-var mnemonic = "asset fog scissors opinion enough welcome shell twin deal morning lobster usual";
+var mnemonic = "south trigger soldier milk bread dash lawsuit coral expect ugly loud flavor";

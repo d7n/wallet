@@ -1,1 +1,1 @@
-var mnemonic = "patient jeans lyrics melody search february citizen dizzy energy anchor negative friend";
+var mnemonic = "husband bottom hunt public jacket filter cliff neck master uncle gauge spare";

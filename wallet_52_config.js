@@ -1,1 +1,1 @@
-var mnemonic = "leader symbol hub fat mask concert shoe patrol uphold surge female during";
+var mnemonic = "burst blur boil february report benefit update join history print veteran anger";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage catalog fold mesh obey pumpkin fragile annual fitness settle jar radio";
+var mnemonic = "fox matter noodle domain educate execute team bonus slab sudden orbit travel";

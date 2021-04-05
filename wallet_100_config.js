@@ -1,1 +1,1 @@
-var mnemonic = "motion awful village fan hawk stereo mobile ginger invite around wall degree";
+var mnemonic = "color together salon duck morning brick code multiply inmate wing decline ghost";

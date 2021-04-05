@@ -1,1 +1,1 @@
-var mnemonic = "note liberty chaos act unveil sheriff box mail little celery veteran short";
+var mnemonic = "able bicycle siren syrup blur family infant canal bamboo narrow beef pudding";

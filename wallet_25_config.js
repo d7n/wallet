@@ -1,1 +1,1 @@
-var mnemonic = "human clock grab solve mirror dawn chronic sorry cattle sorry live skull";
+var mnemonic = "aim hip kid cushion sauce say category crew runway vicious color purse";
