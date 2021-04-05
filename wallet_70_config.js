@@ -1,1 +1,1 @@
-var mnemonic = "milk prison cricket illness hip odor breeze love atom asset gown fall";
+var mnemonic = "medal hurt jar hungry siege aim clutch cloth text sentence hospital tuition";

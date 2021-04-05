@@ -1,1 +1,1 @@
-var mnemonic = "coral tuna father van law kingdom weird remind diet pool multiply keep";
+var mnemonic = "artist harvest circle banner among wife hobby pyramid happy resemble rubber question";

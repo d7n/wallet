@@ -1,1 +1,1 @@
-var mnemonic = "vault canvas baby inner chapter undo poet rule razor cannon retire tank";
+var mnemonic = "rather pole cheese major horse autumn popular indicate valid science negative metal";

@@ -1,1 +1,1 @@
-var mnemonic = "urge attend world twin rookie pitch there edit rule success slow color";
+var mnemonic = "give delay add engine wish pink space hurt electric sudden gym tree";

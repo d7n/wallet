@@ -1,1 +1,1 @@
-var mnemonic = "there try treat ahead husband theme print power guitar slide release arrive";
+var mnemonic = "view paddle wing garment pulse spin toss emotion warfare vital chalk select";

@@ -1,1 +1,1 @@
-var mnemonic = "link property atom tunnel major double arrange snake drive sustain shell cereal";
+var mnemonic = "flame side solid more local note lyrics merit neutral quote area bullet";

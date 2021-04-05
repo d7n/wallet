@@ -1,1 +1,1 @@
-var mnemonic = "dawn chicken loop come simple use weasel job island about avocado damp";
+var mnemonic = "farm message flight will best atom inmate apart essence debate ridge bring";

@@ -1,1 +1,1 @@
-var mnemonic = "slow corn skull program sphere include inmate poverty render tank doll inhale";
+var mnemonic = "teach cause coconut garden wash movie fiction gossip play age feed cruise";

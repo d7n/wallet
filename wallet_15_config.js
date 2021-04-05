@@ -1,1 +1,1 @@
-var mnemonic = "tired coyote actor plate surprise increase fiction top network place blood arctic";
+var mnemonic = "flock two sell faith ribbon few melt sniff pen best license first";

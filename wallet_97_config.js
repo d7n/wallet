@@ -1,1 +1,1 @@
-var mnemonic = "elephant damage zebra replace quote illegal inhale finger refuse predict clip puppy";
+var mnemonic = "decorate blade script sand where faint index keen direct deliver bicycle cover";

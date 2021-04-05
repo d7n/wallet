@@ -1,1 +1,1 @@
-var mnemonic = "math blind slight disease oven quarter congress spirit despair sample bridge cave";
+var mnemonic = "oven zero rely fence video muffin example bleak concert table property drip";

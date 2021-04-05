@@ -1,1 +1,1 @@
-var mnemonic = "roast mistake issue join alert dolphin mirror orient relief believe draft high";
+var mnemonic = "multiply balcony salt manual super student breeze supreme save library dash feature";

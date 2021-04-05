@@ -1,1 +1,1 @@
-var mnemonic = "wait morning ocean neutral burden ability royal public state okay verb neutral";
+var mnemonic = "involve sugar cupboard glance toward own year cabin nation skirt library marriage";

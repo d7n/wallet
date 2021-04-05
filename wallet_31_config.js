@@ -1,1 +1,1 @@
-var mnemonic = "blame fold pact recycle rapid omit dizzy donkey sand next bomb civil";
+var mnemonic = "hedgehog refuse exhaust equal party frost naive sock picnic exact divert fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "sand enroll toy truck weasel earn traffic coin depart name thought cattle";
+var mnemonic = "coffee inspire orient arena web super approve scheme emerge famous language oppose";

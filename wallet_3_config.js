@@ -1,1 +1,1 @@
-var mnemonic = "model detect garlic cruise half burst involve father column human cute hat";
+var mnemonic = "bright grace donate loan fitness hamster fog flower chalk industry indoor bar";

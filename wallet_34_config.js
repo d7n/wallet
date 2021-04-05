@@ -1,1 +1,1 @@
-var mnemonic = "multiply imitate start minor rifle pepper same clutch salad sample adapt space";
+var mnemonic = "cupboard hockey rebel rich example globe police truth sad eight evidence two";

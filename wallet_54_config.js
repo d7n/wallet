@@ -1,1 +1,1 @@
-var mnemonic = "inject explain wrong horn immense robot loyal mechanic smile tent second funny";
+var mnemonic = "certain planet bracket today grace drop luggage subway host debate resource leisure";

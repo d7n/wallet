@@ -1,1 +1,1 @@
-var mnemonic = "ivory emerge whale admit immense boil naive opinion cotton earth mobile claim";
+var mnemonic = "bind exotic usage nice figure industry luxury front early mimic pear vocal";

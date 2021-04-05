@@ -1,1 +1,1 @@
-var mnemonic = "pilot announce year clever network produce aspect top arrest volume remain pluck";
+var mnemonic = "front dad develop travel become escape face turn throw tag moral carbon";

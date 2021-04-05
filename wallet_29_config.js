@@ -1,1 +1,1 @@
-var mnemonic = "fault parrot huge object first mimic intact comic income galaxy someone favorite";
+var mnemonic = "chronic height multiply choose time bitter warrior pluck found entry dice light";

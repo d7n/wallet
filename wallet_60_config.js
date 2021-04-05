@@ -1,1 +1,1 @@
-var mnemonic = "siege hour call analyst cloth milk convince mule before fiction nut anger";
+var mnemonic = "olympic animal recall betray opinion excuse favorite shaft mix wolf slam must";

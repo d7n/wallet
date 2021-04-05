@@ -1,1 +1,1 @@
-var mnemonic = "captain ribbon please hair enable evil lens ecology horse okay zero obscure";
+var mnemonic = "grief desk offer actress tray inside front shed ask wrist diet enough";

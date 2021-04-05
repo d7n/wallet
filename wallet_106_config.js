@@ -1,1 +1,1 @@
-var mnemonic = "ugly shrug wash claw immune lend clown tool left ahead summer pepper";
+var mnemonic = "slide found odor equal announce lottery strategy such chimney above hip can";

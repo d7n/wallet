@@ -1,1 +1,1 @@
-var mnemonic = "design gather put light gain mandate stuff candy embark such shallow parade";
+var mnemonic = "pear mistake rather jeans rhythm only sustain notice analyst guide jaguar ahead";

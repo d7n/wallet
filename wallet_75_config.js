@@ -1,1 +1,1 @@
-var mnemonic = "faculty anger flush reflect bottom harsh rescue obvious together endorse noble scheme";
+var mnemonic = "august identify usual capital fresh jeans few put cash void useless toast";

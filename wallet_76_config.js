@@ -1,1 +1,1 @@
-var mnemonic = "hair collect fiction future man forest you update wall dilemma blade invite";
+var mnemonic = "hurdle mistake february quit success winner point sure allow ride august fabric";

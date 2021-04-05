@@ -1,1 +1,1 @@
-var mnemonic = "intact impose edge defy clinic end finish lazy chunk bless cheap click";
+var mnemonic = "sell sun pond ask sister return spare member bridge item milk embark";

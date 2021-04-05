@@ -1,1 +1,1 @@
-var mnemonic = "release champion excite again always someone session repeat dignity water boring sentence";
+var mnemonic = "garden throw oblige warm anchor disease apart innocent carry black mobile favorite";

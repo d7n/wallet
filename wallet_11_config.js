@@ -1,1 +1,1 @@
-var mnemonic = "stadium toe abstract pupil dignity traffic leg survey siege thought snow net";
+var mnemonic = "cage young unfair hard index solar hub atom limb olive ice deer";

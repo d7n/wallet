@@ -1,1 +1,1 @@
-var mnemonic = "issue pave adjust inject wild double game finish census magnet kiwi digital";
+var mnemonic = "dose manual wet dizzy cushion amused stock trumpet local drive throw age";

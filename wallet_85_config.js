@@ -1,1 +1,1 @@
-var mnemonic = "inmate warm pencil gallery draw vintage other shadow rival unlock quick sail";
+var mnemonic = "riot square recipe inquiry tornado crawl border shaft oxygen doctor weird copper";

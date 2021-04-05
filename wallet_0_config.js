@@ -1,1 +1,1 @@
-var mnemonic = "broom spider album puppy number weekend surprise flee spread always hire panther";
+var mnemonic = "melody tone cave casino come file blossom inner since hip diary recipe";

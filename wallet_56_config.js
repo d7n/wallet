@@ -1,1 +1,1 @@
-var mnemonic = "bridge critic actress purchase title bus jaguar race improve muscle way club";
+var mnemonic = "remove shoe poverty solid switch beef diesel dirt muffin lock dwarf fetch";

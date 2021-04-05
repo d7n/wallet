@@ -1,1 +1,1 @@
-var mnemonic = "oblige extend off dinosaur remove silent black census divorce punch vanish banner";
+var mnemonic = "pair pizza cheese flame walk anxiety disorder harvest ozone paper slogan subject";

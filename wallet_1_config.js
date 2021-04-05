@@ -1,1 +1,1 @@
-var mnemonic = "destroy keen athlete match vocal price opera news retire party resource little";
+var mnemonic = "accident error rely pledge frame roast album field valley heart idea party";

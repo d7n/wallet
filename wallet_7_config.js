@@ -1,1 +1,1 @@
-var mnemonic = "stadium comic garage fade tissue fire quiz pluck daring tail milk fortune";
+var mnemonic = "fire hood dragon jelly stomach kiss august load industry focus scout left";

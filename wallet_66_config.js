@@ -1,1 +1,1 @@
-var mnemonic = "metal picnic train void pulse replace country inch sun whale battle ladder";
+var mnemonic = "seminar flame kitten print juice beyond note junk sail burst uncle audit";

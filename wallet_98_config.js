@@ -1,1 +1,1 @@
-var mnemonic = "age movie antenna unlock trial sell lens scheme diet ready raven thumb";
+var mnemonic = "breeze mix donate language hood police security bounce seven panel vessel march";

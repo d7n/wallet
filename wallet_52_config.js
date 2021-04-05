@@ -1,1 +1,1 @@
-var mnemonic = "crouch salt spoil nasty wire company eyebrow report resource swallow tobacco sausage";
+var mnemonic = "image lazy outside dinner cash month favorite wear fold tube good feature";

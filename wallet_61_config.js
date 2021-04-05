@@ -1,1 +1,1 @@
-var mnemonic = "blur lamp marriage enter pact labor capital zebra unfold cheap night frame";
+var mnemonic = "cancel trip spend reject velvet alert slogan hockey address record gasp present";

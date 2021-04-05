@@ -1,1 +1,1 @@
-var mnemonic = "spoon silly return cave orbit cloth where youth any awful answer pear";
+var mnemonic = "spice ill wood picnic segment plate wave insect entire impact rescue orchard";

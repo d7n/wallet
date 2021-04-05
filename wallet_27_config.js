@@ -1,1 +1,1 @@
-var mnemonic = "frequent actress immune prize fluid under useful garage together come cave indoor";
+var mnemonic = "another inspire transfer hurry elbow combine brave item retire salmon blue donate";

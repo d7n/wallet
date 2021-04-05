@@ -1,1 +1,1 @@
-var mnemonic = "lend innocent nice behind lizard goddess adjust keep stay paper finish doll";
+var mnemonic = "heart firm dry solid general paddle knock bargain version common toss canoe";

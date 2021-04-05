@@ -1,1 +1,1 @@
-var mnemonic = "tank damage hurdle any wire quote gospel galaxy girl will tell lake";
+var mnemonic = "mirror swallow often gospel dizzy virus wise replace leopard disease more stamp";

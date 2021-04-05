@@ -1,1 +1,1 @@
-var mnemonic = "spell spray wise elevator antique afford fall tuna royal congress cost culture";
+var mnemonic = "crew sleep rural air pulse lobster sea mean donate fine practice perfect";

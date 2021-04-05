@@ -1,1 +1,1 @@
-var mnemonic = "blast list arrive rose transfer truly prosper swift music lamp list shove";
+var mnemonic = "path make win useful engage core update chronic ozone describe slender news";

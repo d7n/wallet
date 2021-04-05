@@ -1,1 +1,1 @@
-var mnemonic = "learn swear column hole chicken jealous uncover sick mansion camera space melody";
+var mnemonic = "scene decrease lumber volcano photo road drum reduce celery miss enemy walnut";

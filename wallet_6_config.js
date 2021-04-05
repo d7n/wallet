@@ -1,1 +1,1 @@
-var mnemonic = "mule marriage rival swift panther another current fragile vivid abstract health risk";
+var mnemonic = "require extra nest giant spider reason online dose toast unable census entry";

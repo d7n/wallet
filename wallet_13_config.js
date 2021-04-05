@@ -1,1 +1,1 @@
-var mnemonic = "topic between loyal bus sugar brave volume cram predict husband walk account";
+var mnemonic = "picture process twice beauty iron stock confirm price section stereo cement concert";

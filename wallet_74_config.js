@@ -1,1 +1,1 @@
-var mnemonic = "iron tell what zone noble fever final live peace pencil list alley";
+var mnemonic = "fun sense blush frown end disease spend room tackle square utility legend";

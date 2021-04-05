@@ -1,1 +1,1 @@
-var mnemonic = "laptop thank grab ball liar country vault private miracle police glad range";
+var mnemonic = "angle expire service auto shoe hawk great town canoe tube exclude stone";

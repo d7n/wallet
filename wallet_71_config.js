@@ -1,1 +1,1 @@
-var mnemonic = "ignore plunge erupt boat kingdom interest dinner web welcome end multiply share";
+var mnemonic = "trophy grain spawn match credit crumble oven eight same print drastic morning";

@@ -1,1 +1,1 @@
-var mnemonic = "habit unaware wrong game route coral maze reflect deny hazard resource donate";
+var mnemonic = "define silk donate labor excess wheat version neither orchard crazy remember trial";

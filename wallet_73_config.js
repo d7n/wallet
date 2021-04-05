@@ -1,1 +1,1 @@
-var mnemonic = "tip half oblige bus alpha shoulder call kangaroo monitor silly erase behind";
+var mnemonic = "palm abuse fade neglect enroll inner car stick protect little tiger annual";

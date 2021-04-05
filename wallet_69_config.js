@@ -1,1 +1,1 @@
-var mnemonic = "warrior suspect join rebel earth type vicious drill cousin chat save flame";
+var mnemonic = "shoot group skate puzzle version topic return stumble true bounce miss source";

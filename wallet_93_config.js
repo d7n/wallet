@@ -1,1 +1,1 @@
-var mnemonic = "fever foot limit bubble broom donor cement coral heavy keen scorpion split";
+var mnemonic = "loan stick pretty van farm claw crack unknown usual tube gap churn";

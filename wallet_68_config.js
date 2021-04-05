@@ -1,1 +1,1 @@
-var mnemonic = "edit dinosaur festival engine impose earth unique nose clap dice east fade";
+var mnemonic = "loyal match drive guitar person nothing infant price scrub language furnace merge";

@@ -1,1 +1,1 @@
-var mnemonic = "bring then myth small domain client head romance churn ball initial raw";
+var mnemonic = "click club stay credit hero dynamic border spy satoshi short affair account";

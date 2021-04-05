@@ -1,1 +1,1 @@
-var mnemonic = "ranch diet field brown nut orient they version fever share enact where";
+var mnemonic = "little timber nephew sniff soap advance clap network snack horror super story";

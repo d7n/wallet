@@ -1,1 +1,1 @@
-var mnemonic = "run observe cross oyster capable copy install bamboo trap cruise lawn bronze";
+var mnemonic = "wash young asthma bonus neither frozen thumb artwork grow talk exotic leg";

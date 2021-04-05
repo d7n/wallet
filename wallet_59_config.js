@@ -1,1 +1,1 @@
-var mnemonic = "dilemma claw vacuum guard oven defy cross grape install alter enough until";
+var mnemonic = "awkward stairs black round come front energy spirit palm sweet mail fiscal";

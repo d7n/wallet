@@ -1,1 +1,1 @@
-var mnemonic = "resist notice net result else bus faint kingdom ocean phone calm flat";
+var mnemonic = "priority view satoshi play liar evidence injury burger teach diet fox father";

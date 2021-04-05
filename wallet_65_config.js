@@ -1,1 +1,1 @@
-var mnemonic = "orient enemy cliff found cricket random artist horror angry couch trigger rotate";
+var mnemonic = "video toast render warrior success globe atom utility inherit alcohol trigger rail";

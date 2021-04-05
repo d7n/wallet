@@ -1,1 +1,1 @@
-var mnemonic = "profit yellow armed ivory place arrest suggest blast car toilet tongue index";
+var mnemonic = "someone math naive vast flame donor crumble worry label inside seminar reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp gadget worth liar office else govern magic price twenty toward exotic";
+var mnemonic = "together play bird ecology unlock jeans shed hint similar ask question short";

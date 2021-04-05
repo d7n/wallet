@@ -1,1 +1,1 @@
-var mnemonic = "subject slot candy tooth heavy laptop hawk word pencil random minor maid";
+var mnemonic = "silk comic quality donor joke enroll trophy mountain cargo this crop fury";

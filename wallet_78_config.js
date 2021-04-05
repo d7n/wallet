@@ -1,1 +1,1 @@
-var mnemonic = "quit juice electric slight abstract fiction ramp silent cube lock parrot can";
+var mnemonic = "bottom club unusual razor lonely decide juice net thumb swear pizza snap";

@@ -1,1 +1,1 @@
-var mnemonic = "dad rookie depend verify traffic fix intact ring toilet pattern mushroom crane";
+var mnemonic = "crew vibrant present castle vague never better tell seven patient march voice";

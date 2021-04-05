@@ -1,1 +1,1 @@
-var mnemonic = "service cause narrow salute hire mobile rural tissue tuition worry lumber gun";
+var mnemonic = "motor toward liberty mansion detail romance basic rocket select series pigeon fiction";

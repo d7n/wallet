@@ -1,1 +1,1 @@
-var mnemonic = "drive virus trade metal fury swap emerge lake point cabbage abstract hello";
+var mnemonic = "include orchard alarm smooth coyote era mixture moon captain fluid height step";

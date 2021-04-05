@@ -1,1 +1,1 @@
-var mnemonic = "unveil camera you there trade measure mango resist buffalo spare music stamp";
+var mnemonic = "desert flavor nominee cup liquid carbon medal silver father night industry soccer";

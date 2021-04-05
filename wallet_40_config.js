@@ -1,1 +1,1 @@
-var mnemonic = "report desk sugar zebra dream fly arm marriage glue century gesture word";
+var mnemonic = "vivid ticket jeans tissue alcohol tip easy pencil hire visit industry scissors";

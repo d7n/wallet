@@ -1,1 +1,1 @@
-var mnemonic = "doll enlist crew diagram bone frame whisper cost cook nurse cattle inject";
+var mnemonic = "fault burger cram because only exotic indicate balance three ahead cabin apology";

@@ -1,1 +1,1 @@
-var mnemonic = "cash tank reward equip trip budget penalty blade name denial ripple grief";
+var mnemonic = "judge energy afford candy permit whip amount throw group muscle fan ramp";

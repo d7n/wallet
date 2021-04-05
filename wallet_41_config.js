@@ -1,1 +1,1 @@
-var mnemonic = "actual undo cheese belt modify jewel judge pelican scrap roof thunder utility";
+var mnemonic = "burst future cancel cream mass cherry exhaust health someone space uncle hover";

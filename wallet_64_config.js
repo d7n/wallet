@@ -1,1 +1,1 @@
-var mnemonic = "blind toast very finish all time drastic board notable glare cattle blame";
+var mnemonic = "phone hen nuclear rule butter neutral sadness dentist sort solar rural bicycle";

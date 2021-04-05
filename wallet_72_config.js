@@ -1,1 +1,1 @@
-var mnemonic = "slice where chef hope phone seek mail denial gossip crouch split enact";
+var mnemonic = "syrup suspect hockey trial muscle bless mammal coconut fatigue bulk test average";

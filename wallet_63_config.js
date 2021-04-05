@@ -1,1 +1,1 @@
-var mnemonic = "certain snack captain vast mean goddess exotic general robust era winner appear";
+var mnemonic = "uncover pluck brave choice crazy brief satoshi chair fortune advice sport grain";

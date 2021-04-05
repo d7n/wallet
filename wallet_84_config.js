@@ -1,1 +1,1 @@
-var mnemonic = "clap math ancient dutch blind hotel injury kangaroo wild blossom hollow visit";
+var mnemonic = "flag cause define note wave metal decade cheap flush boil season vital";

@@ -1,1 +1,1 @@
-var mnemonic = "panic crane edge spy void federal glove only various select stay sibling";
+var mnemonic = "cram island blur flash thank leisure valve mean cereal noise puppy style";

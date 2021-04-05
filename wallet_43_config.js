@@ -1,1 +1,1 @@
-var mnemonic = "illegal crisp degree humor inherit access river lava field girl rookie crater";
+var mnemonic = "ice vote stock penalty speak banner park make object flavor sound mind";

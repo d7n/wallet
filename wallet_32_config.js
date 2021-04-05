@@ -1,1 +1,1 @@
-var mnemonic = "urge citizen kite false cool install erosion used valley sudden opinion august";
+var mnemonic = "tobacco cliff blanket obscure chase capital oyster other ankle october search session";

@@ -1,1 +1,1 @@
-var mnemonic = "pole write uncover smile uniform thing express park coral meadow village wing";
+var mnemonic = "guide arrive gun spatial volume sweet size verify corn menu glance average";

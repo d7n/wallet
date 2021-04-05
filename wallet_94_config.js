@@ -1,1 +1,1 @@
-var mnemonic = "deny sight order soldier stadium inch grow oval stay syrup sign route";
+var mnemonic = "ripple joy material ride cargo produce skate project name diary stadium sail";

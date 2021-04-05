@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow fat twist patch december acoustic book receive swing seek chunk reason";
+var mnemonic = "suggest marine coffee ceiling power bring add black bright virtual gap case";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp lesson leaf pear degree razor weasel moral atom tobacco agent soap";
+var mnemonic = "office harbor diet shock nest urge axis mad attract occur glass deputy";

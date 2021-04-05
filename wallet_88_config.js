@@ -1,1 +1,1 @@
-var mnemonic = "robot all sausage chat emerge oxygen fox flame panther fine chef bean";
+var mnemonic = "champion boil solution false better float correct type topple quarter mountain life";

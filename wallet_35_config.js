@@ -1,1 +1,1 @@
-var mnemonic = "grocery robust era option genre diesel average fury spy jar oval pulse";
+var mnemonic = "account subway sword century gun now safe lava major toss room purity";

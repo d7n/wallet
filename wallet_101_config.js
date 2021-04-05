@@ -1,1 +1,1 @@
-var mnemonic = "domain punch flavor rescue vocal hundred obtain cupboard outer opinion author strike";
+var mnemonic = "core hub hover glory film coach over success bar toss melt wear";

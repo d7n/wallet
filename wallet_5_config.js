@@ -1,1 +1,1 @@
-var mnemonic = "select thing ethics thought broom donate harvest wide purse version grape broken";
+var mnemonic = "broccoli success demise soda mom garden jaguar theory upset gun pluck arena";

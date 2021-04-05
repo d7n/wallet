@@ -1,1 +1,1 @@
-var mnemonic = "black sadness nominee follow muffin camera lunch elegant camp patch minor subject";
+var mnemonic = "fortune carpet village rain dizzy daughter worry egg orchard edit dream worth";
