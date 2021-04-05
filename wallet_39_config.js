@@ -1,1 +1,1 @@
-var mnemonic = "congress visual proof claim awkward plunge area sauce rally lab toast novel";
+var mnemonic = "gather finger affair priority also yard regular damp marble keep purpose idea";

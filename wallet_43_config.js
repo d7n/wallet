@@ -1,1 +1,1 @@
-var mnemonic = "peanut scatter vintage cave negative machine soldier symbol base client strategy pistol";
+var mnemonic = "that trust silent solid ecology brief exchange canoe kiss circle stomach gorilla";

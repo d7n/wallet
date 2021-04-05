@@ -1,1 +1,1 @@
-var mnemonic = "brave logic shy upper shed salmon actress scrub input reform glow number";
+var mnemonic = "exit lazy search drip charge jar document kind lecture inner test enough";

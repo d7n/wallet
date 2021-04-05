@@ -1,1 +1,1 @@
-var mnemonic = "photo school verb fee coral volume van core pupil attack hover kangaroo";
+var mnemonic = "cage art purpose disease sadness salon toast wash blame faith truly erode";

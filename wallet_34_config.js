@@ -1,1 +1,1 @@
-var mnemonic = "net label shiver seminar inner depart spell assist extra proof aware proud";
+var mnemonic = "spatial young waste year include earth great raccoon minor devote flag between";

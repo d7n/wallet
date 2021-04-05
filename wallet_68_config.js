@@ -1,1 +1,1 @@
-var mnemonic = "aspect female broken major merit steel uncle monkey license music cricket oak";
+var mnemonic = "holiday task conduct group neither erase matrix once romance opera exchange egg";

@@ -1,1 +1,1 @@
-var mnemonic = "surge above sure strong cage any cricket dry spin maple unaware hunt";
+var mnemonic = "avocado candy walk creek physical muscle foam between gaze boring member legal";

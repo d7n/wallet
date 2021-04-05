@@ -1,1 +1,1 @@
-var mnemonic = "leaf umbrella flee name umbrella original general twenty legend oblige auction deer";
+var mnemonic = "style ring lizard festival clever focus draft chest jazz reunion deputy measure";

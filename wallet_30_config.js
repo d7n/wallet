@@ -1,1 +1,1 @@
-var mnemonic = "crater student play churn blood travel cute edit ozone spread place sound";
+var mnemonic = "lunar city scrub biology there income unfold mammal tooth fold marine one";

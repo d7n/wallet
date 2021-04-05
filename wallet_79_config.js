@@ -1,1 +1,1 @@
-var mnemonic = "olive silk mixed enemy dolphin cross field sell crumble enact room extra";
+var mnemonic = "float brisk olympic home naive artist harsh rare three dutch portion finger";

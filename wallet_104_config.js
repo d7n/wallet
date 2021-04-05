@@ -1,1 +1,1 @@
-var mnemonic = "document tag cousin street shove head basic tennis click aware distance patrol";
+var mnemonic = "motor more dirt cargo history unlock dilemma observe above nasty speed health";

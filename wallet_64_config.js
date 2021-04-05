@@ -1,1 +1,1 @@
-var mnemonic = "pass clerk ocean wagon stairs dish mule leaf giggle stand around piece";
+var mnemonic = "ability reject over acid laundry avoid section fruit mixture mystery palace trust";

@@ -1,1 +1,1 @@
-var mnemonic = "picture drink siege elite speed color rival country addict common cousin stock";
+var mnemonic = "wreck powder wreck print dismiss fold flee tone height kitchen calm round";

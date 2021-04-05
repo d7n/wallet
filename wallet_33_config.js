@@ -1,1 +1,1 @@
-var mnemonic = "iron orange size defy hammer harsh vote wagon sand club obvious blouse";
+var mnemonic = "because arch local oyster laundry account three empower prize forum view file";

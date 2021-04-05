@@ -1,1 +1,1 @@
-var mnemonic = "person sustain army office champion cloth indoor melt work cost original chapter";
+var mnemonic = "slight cycle light laugh steel across soda nice snap nice coyote egg";

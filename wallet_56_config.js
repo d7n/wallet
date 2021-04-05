@@ -1,1 +1,1 @@
-var mnemonic = "congress gospel ripple metal cancel switch runway barrel chief board river mixture";
+var mnemonic = "view tumble hurt soul father image onion rely uniform wisdom illegal moon";

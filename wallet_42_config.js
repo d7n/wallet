@@ -1,1 +1,1 @@
-var mnemonic = "lumber catch project negative patch clip census girl behave slight august wood";
+var mnemonic = "ignore method thing inner height cereal sleep alpha sentence print bacon treat";

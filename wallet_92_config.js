@@ -1,1 +1,1 @@
-var mnemonic = "cycle find few border stick push maze wear token guard cousin this";
+var mnemonic = "thank scare furnace settle inside update music trap shift total truth box";

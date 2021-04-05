@@ -1,1 +1,1 @@
-var mnemonic = "present false final ginger clarify century foam craft blue submit multiply muscle";
+var mnemonic = "noise portion echo vivid lumber inside road chuckle volume develop husband please";

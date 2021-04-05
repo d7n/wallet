@@ -1,1 +1,1 @@
-var mnemonic = "tent sustain resist basket climb mind barrel virtual blush north swamp tornado";
+var mnemonic = "worth deputy deposit scan swap speak work reopen obtain hybrid announce promote";

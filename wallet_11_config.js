@@ -1,1 +1,1 @@
-var mnemonic = "script small lazy sausage balance wine already empty uphold syrup impose excite";
+var mnemonic = "miracle health police fetch feel toe over faith left congress anger nose";

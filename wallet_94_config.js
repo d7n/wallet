@@ -1,1 +1,1 @@
-var mnemonic = "ramp path immune beach intact small thunder wealth thank police silver cloud";
+var mnemonic = "mail senior provide nut select dilemma domain vendor radar fringe heavy reopen";

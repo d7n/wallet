@@ -1,1 +1,1 @@
-var mnemonic = "usage verb neglect pitch bonus glory affair very mail cattle dilemma surge";
+var mnemonic = "stand close razor retreat cricket extend pulse ring over settle clap puppy";

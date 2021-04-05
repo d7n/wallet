@@ -1,1 +1,1 @@
-var mnemonic = "giggle mimic else grief swap digital order sword suit crime net rotate";
+var mnemonic = "night cruise young cry blame violin pretty huge lucky travel shove session";

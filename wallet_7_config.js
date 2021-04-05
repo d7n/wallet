@@ -1,1 +1,1 @@
-var mnemonic = "pond ritual spend donor call carpet give lawn brave elder belt gadget";
+var mnemonic = "choice also kick priority cake doll swim embody size ivory art wrap";

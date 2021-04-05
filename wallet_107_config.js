@@ -1,1 +1,1 @@
-var mnemonic = "garbage unaware opinion senior refuse twist neither capital galaxy inch supply vanish";
+var mnemonic = "text unusual ripple excuse garlic world inspire assault true educate open clarify";

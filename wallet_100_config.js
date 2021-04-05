@@ -1,1 +1,1 @@
-var mnemonic = "core pyramid magic unveil obtain develop cram lunch faculty bike hole exist";
+var mnemonic = "dish palace south aisle shed visual ankle host salon market author puzzle";

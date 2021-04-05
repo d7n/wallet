@@ -1,1 +1,1 @@
-var mnemonic = "early taxi anger snow bid lucky solve account traffic wet test result";
+var mnemonic = "parrot torch decline tortoise minimum fee gas water busy credit sponsor bright";

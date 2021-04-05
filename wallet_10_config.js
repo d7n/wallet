@@ -1,1 +1,1 @@
-var mnemonic = "version used behind keen clip tortoise pelican aspect quality document sadness drill";
+var mnemonic = "deputy wall common venue assault remain affair update involve jelly panda old";

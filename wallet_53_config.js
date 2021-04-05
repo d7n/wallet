@@ -1,1 +1,1 @@
-var mnemonic = "renew behind battle tattoo kind suit vapor lizard harsh wet adjust two";
+var mnemonic = "brand donor scorpion runway echo game lake toe ripple own people flavor";

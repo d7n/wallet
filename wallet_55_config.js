@@ -1,1 +1,1 @@
-var mnemonic = "palace advance live jar guitar medal bread pyramid history acquire album canvas";
+var mnemonic = "elite matter among happy solution enrich north tool vivid drop label ticket";

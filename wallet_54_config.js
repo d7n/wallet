@@ -1,1 +1,1 @@
-var mnemonic = "penalty chief kidney elder pill ride finger bronze smoke engine clay foil";
+var mnemonic = "try broccoli famous twenty hood dust turtle huge input chaos fitness tool";

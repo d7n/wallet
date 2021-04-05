@@ -1,1 +1,1 @@
-var mnemonic = "sphere mind mother shoot average horror arrow skirt hire fatigue buzz license";
+var mnemonic = "immense merge goat hospital infant invite nuclear hint gauge say debris release";

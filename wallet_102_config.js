@@ -1,1 +1,1 @@
-var mnemonic = "brain flower jazz novel gorilla imitate near travel victory absent level battle";
+var mnemonic = "mouse other detect diamond paddle stage kit believe blind dwarf outer step";

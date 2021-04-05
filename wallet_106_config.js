@@ -1,1 +1,1 @@
-var mnemonic = "run file world direct dust empower tree coyote reduce fossil wait output";
+var mnemonic = "enlist rent basket maze blame vicious oak rookie dilemma pear siren end";

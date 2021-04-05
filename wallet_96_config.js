@@ -1,1 +1,1 @@
-var mnemonic = "tube royal busy dismiss sick work state canyon wall repeat banner awake";
+var mnemonic = "now pulse hidden animal mercy brush wreck buffalo describe script police narrow";

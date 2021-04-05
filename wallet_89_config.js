@@ -1,1 +1,1 @@
-var mnemonic = "civil pyramid lake often eyebrow music brain buyer unfair portion virus parade";
+var mnemonic = "enhance outdoor ship forest live shine steak execute use ankle require wash";

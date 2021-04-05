@@ -1,1 +1,1 @@
-var mnemonic = "anxiety brass horror soon sting educate dove rotate scene fiscal home delay";
+var mnemonic = "praise chaos lemon you diary earn museum surge drum face cliff artist";

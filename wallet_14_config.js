@@ -1,1 +1,1 @@
-var mnemonic = "forward behave skill client penalty where fashion text useless nerve work mouse";
+var mnemonic = "they angle ivory unit vendor space betray seat morning rice purse session";

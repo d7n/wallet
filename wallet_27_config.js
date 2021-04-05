@@ -1,1 +1,1 @@
-var mnemonic = "gloom that air type solar knife dolphin dolphin light tongue convince knife";
+var mnemonic = "feature stumble please mixture company client farm answer remind violin furnace cruel";

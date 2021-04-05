@@ -1,1 +1,1 @@
-var mnemonic = "interest purity forum slush private narrow charge design lava memory category fuel";
+var mnemonic = "supply chief comic ice swallow armor found anger spoon donor foot lens";

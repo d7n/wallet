@@ -1,1 +1,1 @@
-var mnemonic = "cloud good bread toilet clump lawn wish win dust tower purse state";
+var mnemonic = "canal duck idle suit future hip gasp ketchup umbrella glad van yard";

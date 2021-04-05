@@ -1,1 +1,1 @@
-var mnemonic = "region wonder buzz liberty beach ceiling permit wait weekend crash scare session";
+var mnemonic = "six dose repair gift sphere burst flame village few amount surge barely";

@@ -1,1 +1,1 @@
-var mnemonic = "bench rotate prepare thunder more process ahead lawn police priority chase proof";
+var mnemonic = "surface observe creek olympic real weapon web grow auto buffalo device dignity";

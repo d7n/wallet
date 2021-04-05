@@ -1,1 +1,1 @@
-var mnemonic = "improve curtain army rally divide struggle brave rifle win alley attack kingdom";
+var mnemonic = "output ozone skirt river bounce lunar zoo describe fringe speak educate major";

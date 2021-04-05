@@ -1,1 +1,1 @@
-var mnemonic = "rhythm you engine mobile zebra wear length mammal giggle identify harbor erupt";
+var mnemonic = "practice plate height stand sheriff cover egg give book silent fatal chuckle";

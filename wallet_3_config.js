@@ -1,1 +1,1 @@
-var mnemonic = "fee embody boil wall miracle slim dose shadow avoid pause company steel";
+var mnemonic = "intact earn acquire velvet ask pottery fitness torch alert upset peasant mutual";

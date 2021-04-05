@@ -1,1 +1,1 @@
-var mnemonic = "cool truck win medal mind main gospel agree supply genre angle diamond";
+var mnemonic = "spare wedding tribe crash caught energy scorpion start nest connect abuse pink";

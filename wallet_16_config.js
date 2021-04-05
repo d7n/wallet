@@ -1,1 +1,1 @@
-var mnemonic = "bird party all catch follow young lucky upper cost ridge venture shy";
+var mnemonic = "naive genre dinner leg cereal trap finger symptom answer seat chunk carbon";

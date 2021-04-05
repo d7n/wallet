@@ -1,1 +1,1 @@
-var mnemonic = "flip misery ball wool initial service wealth skill quiz sport globe pill";
+var mnemonic = "illness despair april come basic recipe protect jelly thrive genre kiwi reason";

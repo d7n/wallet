@@ -1,1 +1,1 @@
-var mnemonic = "humor chuckle potato damage melt place subway crucial grant tent tobacco cruise";
+var mnemonic = "patrol cake hollow ski field light body unfold say settle soda blur";

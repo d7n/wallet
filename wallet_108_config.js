@@ -1,1 +1,1 @@
-var mnemonic = "wood divide salad physical guitar special attack mercy order twist share motor";
+var mnemonic = "hurdle trade time rain detect stairs smart dolphin horse foot right quiz";

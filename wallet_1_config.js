@@ -1,1 +1,1 @@
-var mnemonic = "anger length humor patrol find divorce expand vibrant cool couple bicycle myth";
+var mnemonic = "trigger buffalo body wedding clinic seed rose release trick seminar walnut globe";

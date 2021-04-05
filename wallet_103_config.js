@@ -1,1 +1,1 @@
-var mnemonic = "bonus resist regret produce bomb claim honey visit harvest alien lizard pink";
+var mnemonic = "glide smoke eternal measure pistol vault polar only assist race chicken opinion";

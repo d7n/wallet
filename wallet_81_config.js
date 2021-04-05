@@ -1,1 +1,1 @@
-var mnemonic = "possible predict long bundle volume topple nice enlist cruise explain pudding effort";
+var mnemonic = "season escape voice bring flower intact rate account build dirt taxi goddess";

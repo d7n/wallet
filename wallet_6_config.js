@@ -1,1 +1,1 @@
-var mnemonic = "noise vendor logic glare loop expose urge carpet absent target blur bonus";
+var mnemonic = "gas animal awkward aim trick move spray vintage escape upset radio crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "battle express mail maximum grant odor amused wasp gate fringe unable nature";
+var mnemonic = "income space average liberty seven soft target faculty frequent tube parade grocery";

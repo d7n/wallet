@@ -1,1 +1,1 @@
-var mnemonic = "story object note liar weasel oblige polar photo shove luggage promote seven";
+var mnemonic = "cruise keen clever hello pulse uncle worth apart gain brisk jar gym";

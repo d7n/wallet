@@ -1,1 +1,1 @@
-var mnemonic = "bind enlist warrior little tube abstract traffic grief sand flush render butter";
+var mnemonic = "despair hub punch mushroom marriage female order angry cargo ginger addict popular";

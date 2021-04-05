@@ -1,1 +1,1 @@
-var mnemonic = "alarm marriage label leg connect garlic bone thunder strategy scene angry drama";
+var mnemonic = "fall swear enjoy evidence deer vanish bring sponsor fatigue vessel live parent";

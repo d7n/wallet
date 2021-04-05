@@ -1,1 +1,1 @@
-var mnemonic = "fire hen enact deny female will unlock ride walk grief security student";
+var mnemonic = "dove exotic embark draw iron document brother three clutch pledge main cliff";

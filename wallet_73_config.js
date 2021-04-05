@@ -1,1 +1,1 @@
-var mnemonic = "fringe above cave alcohol immune theory stereo cradle weather finger label excuse";
+var mnemonic = "famous material clay door curve lazy parade swear exhibit want kind bounce";

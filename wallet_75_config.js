@@ -1,1 +1,1 @@
-var mnemonic = "mango clean bar define odor horse tunnel loyal sniff artwork track possible";
+var mnemonic = "glove invite capable sorry tag grace second anger jewel bike leader camp";

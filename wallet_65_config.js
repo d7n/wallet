@@ -1,1 +1,1 @@
-var mnemonic = "alert parent flock position sunset must relax beauty august teach speed work";
+var mnemonic = "employ city firm regular problem genius assist pride flee chef fly plate";

@@ -1,1 +1,1 @@
-var mnemonic = "report piece strategy jaguar jaguar tattoo lounge spell depart proud novel pony";
+var mnemonic = "lyrics sweet abstract panel auction concert velvet minor stand dad roof spare";

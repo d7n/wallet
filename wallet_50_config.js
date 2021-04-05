@@ -1,1 +1,1 @@
-var mnemonic = "cattle image wage three auction enlist horror economy write estate bag often";
+var mnemonic = "taxi pattern wink whisper unfold pencil divide echo tennis merit doctor market";

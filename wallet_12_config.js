@@ -1,1 +1,1 @@
-var mnemonic = "awesome stock seek tip change depend filter damp know employ tragic sell";
+var mnemonic = "camp begin shock spike immense drip alien door purpose crunch jazz calm";

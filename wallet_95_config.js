@@ -1,1 +1,1 @@
-var mnemonic = "cement wagon sample wrong segment live pull story notice enable puppy fabric";
+var mnemonic = "index angle also donate mercy observe duck choose sheriff upgrade shoe powder";

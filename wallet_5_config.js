@@ -1,1 +1,1 @@
-var mnemonic = "innocent ginger relax post quarter wish mean fossil aspect target shove domain";
+var mnemonic = "ignore dignity salad derive bargain draw trial egg wolf hand code shed";

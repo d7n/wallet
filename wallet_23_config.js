@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur solar pill bracket wire number clump grant monkey dress spike truly";
+var mnemonic = "sign proof athlete first install uniform humble subject rare extend grape text";

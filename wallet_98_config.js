@@ -1,1 +1,1 @@
-var mnemonic = "gospel arena number hat time sample describe identify palace setup position friend";
+var mnemonic = "lunar snow dwarf flee canyon reopen number this kid endorse south urge";

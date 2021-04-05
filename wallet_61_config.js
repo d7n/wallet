@@ -1,1 +1,1 @@
-var mnemonic = "easy wine flush shuffle cabbage leader patch unusual unhappy fatal spice tenant";
+var mnemonic = "reunion drill interest arrange tail once nominee any emerge tuition amazing genius";

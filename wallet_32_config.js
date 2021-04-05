@@ -1,1 +1,1 @@
-var mnemonic = "thrive glance recall hand episode green notable sort thought click just axis";
+var mnemonic = "rocket mass senior unable poet venue garbage magnet food purpose amateur gaze";

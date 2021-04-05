@@ -1,1 +1,1 @@
-var mnemonic = "mesh animal note artwork magnet seven monitor pipe entry forum patient trap";
+var mnemonic = "rather busy ladder crop east spider uphold column kitchen exact jaguar obvious";

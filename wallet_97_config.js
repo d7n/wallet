@@ -1,1 +1,1 @@
-var mnemonic = "south black deliver nuclear chat large shoe shoot normal jazz rose panic";
+var mnemonic = "rally olive waste vacant bubble act ozone absurd agree scan modify prize";

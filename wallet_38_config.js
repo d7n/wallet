@@ -1,1 +1,1 @@
-var mnemonic = "pistol else engine reveal traffic strategy around zoo topic private iron knee";
+var mnemonic = "arctic door remain quantum angle guitar humor brief frost curtain under range";

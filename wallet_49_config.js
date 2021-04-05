@@ -1,1 +1,1 @@
-var mnemonic = "regular fiction hub evoke machine oval increase arm beef october panel jump";
+var mnemonic = "future envelope start velvet practice turn diet quote song age shoe pig";

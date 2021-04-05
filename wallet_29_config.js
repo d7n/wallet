@@ -1,1 +1,1 @@
-var mnemonic = "sauce olympic recycle rude grid source behind razor cute congress buffalo yard";
+var mnemonic = "toy school sport number analyst define roof snack damage refuse width arctic";

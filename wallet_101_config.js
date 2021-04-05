@@ -1,1 +1,1 @@
-var mnemonic = "famous foot goddess wall vivid spike resemble mammal drink chunk nest connect";
+var mnemonic = "nose news beyond gasp device yard tribe next awake argue rent roof";

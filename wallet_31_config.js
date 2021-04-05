@@ -1,1 +1,1 @@
-var mnemonic = "ball curious history connect blood gesture van tomato fox client upset wrestle";
+var mnemonic = "traffic finger enroll bar enroll wash attitude local opera any holiday album";

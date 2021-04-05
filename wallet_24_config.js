@@ -1,1 +1,1 @@
-var mnemonic = "twist burst resist other gallery kitchen sting account merit toe orphan nation";
+var mnemonic = "concert climb doll upset crawl coral old amount hospital tip purchase tissue";

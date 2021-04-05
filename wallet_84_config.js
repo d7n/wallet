@@ -1,1 +1,1 @@
-var mnemonic = "submit output return relief connect depth mobile chimney inflict false achieve void";
+var mnemonic = "gaze toward bleak lens wreck clock marble disorder desert company tiny fabric";

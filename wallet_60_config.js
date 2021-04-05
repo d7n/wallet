@@ -1,1 +1,1 @@
-var mnemonic = "network daughter fiber title right hand fancy fan push great peace elegant";
+var mnemonic = "ethics pudding elevator ghost employ banner modify senior salute genre involve video";

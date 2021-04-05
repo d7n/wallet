@@ -1,1 +1,1 @@
-var mnemonic = "stay police connect rhythm drip tired dish mail market equip combine border";
+var mnemonic = "attend impact next trigger slot salt output tired equip swift another elite";

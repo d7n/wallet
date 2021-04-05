@@ -1,1 +1,1 @@
-var mnemonic = "casual smooth word average cook bid recycle neck autumn caution bottom vacuum";
+var mnemonic = "dream leopard build promote village defy wasp hockey believe crumble deliver smoke";

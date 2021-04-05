@@ -1,1 +1,1 @@
-var mnemonic = "eagle human ski supreme wrist recycle unknown immune defense foster doll family";
+var mnemonic = "old claw pistol right siege tower mandate move program umbrella cabbage mutual";

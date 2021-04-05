@@ -1,1 +1,1 @@
-var mnemonic = "fix cloth video must laptop deposit dwarf great awake flat wolf uncle";
+var mnemonic = "little trick crystal gap party alter hour present ride spirit useless body";

@@ -1,1 +1,1 @@
-var mnemonic = "pole bean ability nest easy provide amused few south drill worth appear";
+var mnemonic = "february transfer soon exchange sure verb excite tenant toilet trust faith jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "will spend volume upset soft carpet swap size honey glance hard jaguar";
+var mnemonic = "shiver track expire island bargain disorder fortune cattle moon crucial merge jump";

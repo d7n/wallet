@@ -1,1 +1,1 @@
-var mnemonic = "team settle galaxy crew radio mixed pink butter dolphin side coffee weekend";
+var mnemonic = "boy fortune squirrel mansion coast panel auto pumpkin artist road female need";

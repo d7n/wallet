@@ -1,1 +1,1 @@
-var mnemonic = "loud artist unfold nephew depth artwork dog minute mercy oyster drum ostrich";
+var mnemonic = "ten anger dance horror fresh profit task measure three open better clog";

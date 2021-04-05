@@ -1,1 +1,1 @@
-var mnemonic = "solid vault used fury edit bounce voice update assume hill rent service";
+var mnemonic = "toddler fetch exact wealth egg real man shy train daring globe photo";

@@ -1,1 +1,1 @@
-var mnemonic = "room diet fancy artwork solve write diamond faculty pass napkin roast burger";
+var mnemonic = "term doll source okay slender panther picnic helmet exhaust obscure west depart";
