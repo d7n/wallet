@@ -1,1 +1,1 @@
-var mnemonic = "indicate vicious grace mule nation theme matrix zone rely luggage farm manual";
+var mnemonic = "leader element cloth hello cotton tuna error jacket wolf mirror mouse aspect";

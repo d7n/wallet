@@ -1,1 +1,1 @@
-var mnemonic = "patrol picnic multiply calm glove option judge glance frog brand true dash";
+var mnemonic = "chase satisfy walk exact chuckle shift fiscal limit floor finish grid celery";

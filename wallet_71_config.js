@@ -1,1 +1,1 @@
-var mnemonic = "erupt extend offer boy pudding novel below symptom enter control clever drive";
+var mnemonic = "sudden stamp pulp monkey buddy fly win couple chief nut material spread";

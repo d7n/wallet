@@ -1,1 +1,1 @@
-var mnemonic = "help current seminar sleep unaware mention survey liquid opinion walnut excess clown";
+var mnemonic = "connect toddler balance patch dog broom field word west always fox current";

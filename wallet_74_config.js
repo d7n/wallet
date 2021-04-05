@@ -1,1 +1,1 @@
-var mnemonic = "raw agent cinnamon pilot ethics find syrup ugly reward height enrich glow";
+var mnemonic = "own lady drink captain post repeat neck neglect meat patient adapt timber";

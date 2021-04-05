@@ -1,1 +1,1 @@
-var mnemonic = "total rifle inherit other hip invite cat swarm grape timber story lamp";
+var mnemonic = "jealous float discover feed rescue high edge often whale antenna execute burger";

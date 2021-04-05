@@ -1,1 +1,1 @@
-var mnemonic = "forest lucky celery thunder accuse scrub walnut sorry situate secret broom inform";
+var mnemonic = "exact address foil iron omit will space gun grain coast always reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "icon deny put brother reform orbit chaos board tower neutral brass tennis";
+var mnemonic = "staff moment bounce until retire busy plunge pull good crater modify rival";

@@ -1,1 +1,1 @@
-var mnemonic = "slab borrow cram claim round pool tuna ask want sphere make lounge";
+var mnemonic = "hockey early short dignity uniform hand danger neither lemon dwarf debate mercy";

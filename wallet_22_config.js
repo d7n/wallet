@@ -1,1 +1,1 @@
-var mnemonic = "afford reform post afford pear fit offer gospel surround season ice enough";
+var mnemonic = "pupil process library search shine region syrup inform page will suit royal";

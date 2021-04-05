@@ -1,1 +1,1 @@
-var mnemonic = "violin gap lemon velvet flower steel budget pipe attend weapon fruit hole";
+var mnemonic = "error uncle gossip age embrace equal device labor april release call vacuum";

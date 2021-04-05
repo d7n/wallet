@@ -1,1 +1,1 @@
-var mnemonic = "salmon chef creek aisle thing remain garlic gap milk hungry clip punch";
+var mnemonic = "hawk actual curious bid agree economy angry liquid volcano install forward enroll";

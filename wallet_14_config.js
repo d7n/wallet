@@ -1,1 +1,1 @@
-var mnemonic = "unlock later kit march sample network giggle name once guitar brand general";
+var mnemonic = "giggle uniform nurse mistake rebel zone venue cupboard portion arctic claw jealous";

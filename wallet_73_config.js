@@ -1,1 +1,1 @@
-var mnemonic = "correct inner toward catch hint jazz rose into creek exclude endorse cage";
+var mnemonic = "rail warrior jewel satoshi disagree critic panther feel bright until noodle write";

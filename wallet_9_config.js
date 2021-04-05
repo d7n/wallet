@@ -1,1 +1,1 @@
-var mnemonic = "little better doll fetch swing sad piano monitor stomach oyster midnight road";
+var mnemonic = "fog mean present oppose lucky attend dilemma pitch federal vibrant ancient melody";

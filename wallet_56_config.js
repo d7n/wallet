@@ -1,1 +1,1 @@
-var mnemonic = "flush thrive evoke rubber letter cheap corn ladder verify awkward eyebrow tragic";
+var mnemonic = "ready bean glory purchase odor boss broom army gorilla inquiry host razor";

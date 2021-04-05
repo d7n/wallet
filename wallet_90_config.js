@@ -1,1 +1,1 @@
-var mnemonic = "fossil faculty cream uncle unhappy gold burger mention section toast cube guide";
+var mnemonic = "surprise journey fame taste hard monitor table moment slender champion inject walk";

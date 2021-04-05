@@ -1,1 +1,1 @@
-var mnemonic = "search sleep immune congress true beyond banana layer ball tube lyrics above";
+var mnemonic = "satisfy west income market normal require vibrant joy leg snake chase vast";

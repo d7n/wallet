@@ -1,1 +1,1 @@
-var mnemonic = "crater dose mosquito pulp clog real casual pitch park rabbit employ that";
+var mnemonic = "analyst mass harsh law margin toss bicycle prison unaware balcony message detail";

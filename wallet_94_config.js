@@ -1,1 +1,1 @@
-var mnemonic = "catch risk correct pool hawk shove embrace assume market daring farm step";
+var mnemonic = "curious foster blind able power oyster clarify opinion family fix can burden";

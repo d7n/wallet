@@ -1,1 +1,1 @@
-var mnemonic = "finish laugh name cash alert hotel cram seek useless fork someone taste";
+var mnemonic = "glare song impose book drill train mix lesson run weapon reveal soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden fashion clip pudding behave sheriff mix aware town jazz item sauce";
+var mnemonic = "fetch cargo acid ask actual pyramid produce later enhance limit toast earth";

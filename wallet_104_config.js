@@ -1,1 +1,1 @@
-var mnemonic = "wait face shoot cash federal monkey genre pitch pride audit weekend venue";
+var mnemonic = "win retreat fine sausage pony daughter dish canyon gap diet kitchen muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "artwork orbit confirm lunar despair pudding alert recycle web zoo victory invite";
+var mnemonic = "industry wire saddle gas sorry wealth story small cash beef man globe";

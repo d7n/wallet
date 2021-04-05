@@ -1,1 +1,1 @@
-var mnemonic = "march motion wife slight pyramid rent credit junior silk mouse man venture";
+var mnemonic = "crouch portion rich scene vacuum run elbow seek broom around step movie";

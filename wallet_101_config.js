@@ -1,1 +1,1 @@
-var mnemonic = "hobby oven ill lava clump muscle march crouch patient vapor stay hollow";
+var mnemonic = "relief girl purity regular ridge swear betray appear siege tube vintage laugh";

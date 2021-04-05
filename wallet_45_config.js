@@ -1,1 +1,1 @@
-var mnemonic = "seat glove speak gloom dutch grant erode soap health sniff immune dose";
+var mnemonic = "twenty oak language bike ring detail hard cereal race soldier swarm brave";

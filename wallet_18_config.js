@@ -1,1 +1,1 @@
-var mnemonic = "envelope doctor globe enter jungle define ripple gallery cigar seat acquire country";
+var mnemonic = "mother tiger bubble luggage hip fluid stick addict pipe across question brief";

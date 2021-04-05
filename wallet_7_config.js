@@ -1,1 +1,1 @@
-var mnemonic = "seven conduct abandon member right alone chronic render payment found price swamp";
+var mnemonic = "ticket subject fly damage razor lonely soccer faith verb cradle detail typical";

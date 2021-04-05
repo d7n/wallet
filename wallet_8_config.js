@@ -1,1 +1,1 @@
-var mnemonic = "leader shaft never kick target rely exhaust warfare pipe electric clip window";
+var mnemonic = "surround dinner blush language raw advance trust march corn pet pond social";

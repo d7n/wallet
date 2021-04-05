@@ -1,1 +1,1 @@
-var mnemonic = "column library will silly parent absurd spatial little category eager unit hint";
+var mnemonic = "harbor discover yellow much boy chair milk task little twelve submit capital";

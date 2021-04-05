@@ -1,1 +1,1 @@
-var mnemonic = "stumble mistake jazz twin balcony depart gauge disorder tragic busy panic equal";
+var mnemonic = "figure electric strategy kangaroo chapter only blast oven sad island camp ugly";

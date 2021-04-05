@@ -1,1 +1,1 @@
-var mnemonic = "artwork ignore unlock govern trip response close category kitten dinner wall dry";
+var mnemonic = "horn shine dove wrestle hip useful dinosaur update gown kiwi seat detect";

@@ -1,1 +1,1 @@
-var mnemonic = "host radio sister armed sound luxury trouble claw cycle direct race wash";
+var mnemonic = "patrol food lizard test mixed brisk immense riot timber change caution decline";

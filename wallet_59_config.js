@@ -1,1 +1,1 @@
-var mnemonic = "pave crucial path luggage teach upgrade bacon letter frown dad flock pair";
+var mnemonic = "type treat save outdoor unusual oxygen rhythm method clinic beauty transfer excite";

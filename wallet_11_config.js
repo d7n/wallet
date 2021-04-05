@@ -1,1 +1,1 @@
-var mnemonic = "shield truly craft shield raise genuine public raven anxiety small picnic world";
+var mnemonic = "eagle fork annual bulb yard chuckle squeeze ignore object tornado bachelor olive";

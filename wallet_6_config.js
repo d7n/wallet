@@ -1,1 +1,1 @@
-var mnemonic = "liar scout coffee bonus lazy media very sport loyal much month crouch";
+var mnemonic = "change jacket cube fun fog throw cinnamon snap bulb click west group";

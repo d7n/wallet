@@ -1,1 +1,1 @@
-var mnemonic = "luxury sunset render promote stick aspect actress test require purse hip snap";
+var mnemonic = "cook illness drama minor glove forum blush riot sense trigger april acoustic";

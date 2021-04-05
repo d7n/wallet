@@ -1,1 +1,1 @@
-var mnemonic = "dignity peace wall nasty pattern rose nasty immense car chest right argue";
+var mnemonic = "piece unique style digital engine dove match tree run gasp time offer";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel spice picnic enlist reform thought border shield company tent grid dress";
+var mnemonic = "gain boy orange utility aunt weird cargo book when solid rather purse";

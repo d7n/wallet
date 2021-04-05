@@ -1,1 +1,1 @@
-var mnemonic = "inquiry pluck since cross hospital cheap wide humor obey shallow plug cricket";
+var mnemonic = "cereal outdoor tiger top giant unknown embark trophy dog advance outdoor defy";

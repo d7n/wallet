@@ -1,1 +1,1 @@
-var mnemonic = "face coconut occur frozen december rib fit cream phone horror dog endless";
+var mnemonic = "guide answer vague supreme rally such load home matter evil junior kidney";

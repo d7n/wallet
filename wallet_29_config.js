@@ -1,1 +1,1 @@
-var mnemonic = "news infant under misery spot hero aerobic ivory match latin appear sense";
+var mnemonic = "glance stone actor obtain shoot sauce output walnut stove razor intact weasel";

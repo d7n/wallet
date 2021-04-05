@@ -1,1 +1,1 @@
-var mnemonic = "record shield sunset dinner punch toe curve near exchange decade venue hole";
+var mnemonic = "dragon dial session abuse curious mechanic seminar core slogan olive evidence bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "neck endless father ball skate leader domain other radar measure agent actor";
+var mnemonic = "supply hundred outside neutral float parrot subject dolphin affair capable crew ethics";

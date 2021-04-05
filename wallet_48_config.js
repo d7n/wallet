@@ -1,1 +1,1 @@
-var mnemonic = "custom visit local census apple hobby keen cream lens book history trim";
+var mnemonic = "wool script protect layer hub upgrade magic sell cushion deputy slot woman";

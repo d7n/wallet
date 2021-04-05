@@ -1,1 +1,1 @@
-var mnemonic = "photo pulse session now barely lobster rude couple amazing argue humble beef";
+var mnemonic = "display rural nominee eight tail cat cloud lava make occur basic raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "plate tongue buddy deer help slide ticket volume gift mushroom mention alert";
+var mnemonic = "casual shy trip lounge puppy waste mutual arm near nothing donkey street";

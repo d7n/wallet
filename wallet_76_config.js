@@ -1,1 +1,1 @@
-var mnemonic = "lobster sister coral calm head omit toast extra express vacuum write stuff";
+var mnemonic = "mutual bubble donate company pottery remain glance hero box nuclear sort patient";

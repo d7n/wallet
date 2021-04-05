@@ -1,1 +1,1 @@
-var mnemonic = "regret squirrel enable license detail lucky habit stove later come vault fever";
+var mnemonic = "toddler talk animal access theory spatial conduct hope taste torch loyal tragic";

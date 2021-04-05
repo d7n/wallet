@@ -1,1 +1,1 @@
-var mnemonic = "farm inside chef when frequent strong refuse direct unhappy ghost fancy salute";
+var mnemonic = "shop candy digital hurt collect van bachelor industry receive give very magic";

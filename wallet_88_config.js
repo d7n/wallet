@@ -1,1 +1,1 @@
-var mnemonic = "era vintage gesture buyer fame action radio scrap sugar good fat will";
+var mnemonic = "buddy lemon artwork junk camp tilt artefact hamster visit top razor term";

@@ -1,1 +1,1 @@
-var mnemonic = "collect scare rather april party angle stool series path inform thumb thank";
+var mnemonic = "neutral cereal absent stay example come marble elegant palace opinion state duty";

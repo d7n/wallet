@@ -1,1 +1,1 @@
-var mnemonic = "wood achieve sentence hero ability seek innocent blind public dress brick remove";
+var mnemonic = "absurd funny ostrich phone market dose primary ivory damp title old giraffe";

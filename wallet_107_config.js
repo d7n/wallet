@@ -1,1 +1,1 @@
-var mnemonic = "blood hazard mountain warm hybrid endless man sport vital digital exotic floor";
+var mnemonic = "stick social slim stone lyrics expand ten vital rocket north sweet horror";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair royal bundle interest scan develop when miracle protect spawn enter apple";
+var mnemonic = "raccoon ticket rebuild edge enact foster require slow jump trophy upon police";

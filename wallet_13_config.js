@@ -1,1 +1,1 @@
-var mnemonic = "clever mandate combine tennis umbrella menu chest purchase weekend chair giggle end";
+var mnemonic = "planet lizard replace cook idea shallow uncover police olive broccoli lend dolphin";

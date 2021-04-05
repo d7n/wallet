@@ -1,1 +1,1 @@
-var mnemonic = "need praise gym sing seminar inner custom quantum six liquid this scout";
+var mnemonic = "effort affair load weasel nephew bottom kangaroo remove viable pencil mosquito drill";

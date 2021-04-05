@@ -1,1 +1,1 @@
-var mnemonic = "gloom any green distance board bitter dismiss story flag nation antique inside";
+var mnemonic = "dutch one park beach clerk aisle fault neglect route bike dirt walk";

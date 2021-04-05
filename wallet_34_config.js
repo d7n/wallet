@@ -1,1 +1,1 @@
-var mnemonic = "voice diary menu because work divide that foster thumb various cushion sweet";
+var mnemonic = "armed woman economy disease apple submit infant mosquito bicycle inject review crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "cry valid exotic media urban pelican ignore margin recipe theory quiz hold";
+var mnemonic = "evil enough lemon rule cinnamon patch humble arrive boss reveal replace have";

@@ -1,1 +1,1 @@
-var mnemonic = "drip sudden size robot stuff expire card price lift episode snap gorilla";
+var mnemonic = "rail math bench struggle limb orchard patch poem return believe toy toast";

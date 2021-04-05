@@ -1,1 +1,1 @@
-var mnemonic = "smart trick casual disease plug lobster poverty region flock label cradle just";
+var mnemonic = "owner labor random auction team harsh orphan sibling autumn nerve diamond come";

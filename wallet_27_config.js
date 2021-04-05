@@ -1,1 +1,1 @@
-var mnemonic = "chronic direct dance fatal clown raw success hard issue speak shop mirror";
+var mnemonic = "start hour wrap frog remain minimum tortoise public license blouse nation wink";

@@ -1,1 +1,1 @@
-var mnemonic = "piece tennis orphan unfold pet gospel tourist bind harsh inherit lawn spin";
+var mnemonic = "grid sport someone depend balance scene velvet panic pass grant life oven";

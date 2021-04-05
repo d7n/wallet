@@ -1,1 +1,1 @@
-var mnemonic = "toddler critic sudden theory globe reduce immune detect veteran produce drastic chunk";
+var mnemonic = "mirror kite leave boil envelope olympic glimpse glove solid pigeon valley rival";

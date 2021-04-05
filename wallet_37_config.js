@@ -1,1 +1,1 @@
-var mnemonic = "pepper canyon adjust arena payment slush recipe yellow mountain champion category fever";
+var mnemonic = "thought decide knife spy clarify chalk useful auction next walk sock lounge";

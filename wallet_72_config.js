@@ -1,1 +1,1 @@
-var mnemonic = "again fly despair mom toilet quality jelly camp oak modify buffalo dove";
+var mnemonic = "trophy mixture master velvet fan coyote grain manage text own tumble flag";

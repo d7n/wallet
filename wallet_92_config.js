@@ -1,1 +1,1 @@
-var mnemonic = "blame maple movie guilt dance then fabric raccoon evil topic rifle history";
+var mnemonic = "husband donate board type mother slogan rule inspire equal install normal soccer";

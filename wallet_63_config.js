@@ -1,1 +1,1 @@
-var mnemonic = "resemble happy museum smoke settle tired pig typical whisper position element tunnel";
+var mnemonic = "that shy pretty flag bulk clown picture tree exact glare firm owner";

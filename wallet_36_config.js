@@ -1,1 +1,1 @@
-var mnemonic = "mushroom moral goose worry position tiger wasp mushroom below mobile later direct";
+var mnemonic = "summer hover lunch lens board phrase celery misery immense just gold mesh";

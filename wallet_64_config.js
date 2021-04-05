@@ -1,1 +1,1 @@
-var mnemonic = "misery answer rough walnut oblige garbage come tower merry reflect swap throw";
+var mnemonic = "enlist enlist sunset asset despair render hint idea spoon trust kick garden";

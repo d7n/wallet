@@ -1,1 +1,1 @@
-var mnemonic = "flee mandate catch stove grass humor rebel trip diesel hero magic october";
+var mnemonic = "involve food loud spoil moon raven fix rate lottery stool permit circle";

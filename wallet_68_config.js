@@ -1,1 +1,1 @@
-var mnemonic = "cover possible equal tourist slam salmon elephant rail miracle sail color neck";
+var mnemonic = "bonus harvest couple motor fire symbol lottery bundle critic else decline conduct";

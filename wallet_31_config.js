@@ -1,1 +1,1 @@
-var mnemonic = "put grief fine laugh view field dream inner wagon game flame mutual";
+var mnemonic = "sing barely close shine people foot hidden exchange piano six alarm champion";

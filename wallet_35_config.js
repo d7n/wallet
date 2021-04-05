@@ -1,1 +1,1 @@
-var mnemonic = "main midnight harbor brush cinnamon chunk shine firm wild friend ice mimic";
+var mnemonic = "mail open chuckle craft give twice energy occur humble client giggle volume";

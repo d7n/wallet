@@ -1,1 +1,1 @@
-var mnemonic = "dignity sheriff column royal license bridge client list goose seek shrimp curtain";
+var mnemonic = "wagon behave push angle half prosper amount flee uphold wife return wage";

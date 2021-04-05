@@ -1,1 +1,1 @@
-var mnemonic = "cook purchase remember shrimp drip wise harsh home six fragile shrimp water";
+var mnemonic = "tobacco law fatigue space immense napkin glimpse hood together abuse cousin panel";

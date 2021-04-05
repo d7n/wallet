@@ -1,1 +1,1 @@
-var mnemonic = "public punch crumble economy fun vapor ball hand modify snow tuition rule";
+var mnemonic = "antique idea ghost tomato pistol empower bitter notable item broom lecture garage";

@@ -1,1 +1,1 @@
-var mnemonic = "glow evoke dice donkey legend begin comic scorpion couch secret time ready";
+var mnemonic = "another path quick change festival shed attend kiss paper doctor expire manage";

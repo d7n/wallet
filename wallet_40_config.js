@@ -1,1 +1,1 @@
-var mnemonic = "fury corn envelope summer depth shallow fun vacant typical series civil resist";
+var mnemonic = "decide window winter bronze reason shock clump run supreme kiss project favorite";

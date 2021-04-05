@@ -1,1 +1,1 @@
-var mnemonic = "huge tumble amount trick flame virtual traffic nephew cool usage already plunge";
+var mnemonic = "diet analyst saddle census smart zoo deposit over moment lion direct offer";

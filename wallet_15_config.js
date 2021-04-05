@@ -1,1 +1,1 @@
-var mnemonic = "point unlock bachelor purse erase mix ability they include trick cotton tissue";
+var mnemonic = "virus degree smoke hip trial below cause cargo guitar caution tumble chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "raise garment collect blouse whisper walk mobile category explain there derive review";
+var mnemonic = "certain jump antenna void month illness tattoo melt insane chimney kidney trial";

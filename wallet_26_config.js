@@ -1,1 +1,1 @@
-var mnemonic = "insect dance excite nothing solar fat found manual until dumb alter twin";
+var mnemonic = "vanish name spawn switch elder ladder disorder atom famous that ceiling stable";

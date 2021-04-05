@@ -1,1 +1,1 @@
-var mnemonic = "source pole pyramid sister return panic correct wall that drift permit sell";
+var mnemonic = "file stairs invite neck light army brush fitness quit over family leave";

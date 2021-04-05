@@ -1,1 +1,1 @@
-var mnemonic = "equal good mail clay story virus park erase sample switch cross reason";
+var mnemonic = "giraffe man neither spend urge assume envelope usage ramp prevent shift mule";

@@ -1,1 +1,1 @@
-var mnemonic = "snake practice submit unit when forum awake cruise track win chat fiction";
+var mnemonic = "file hard toe luxury maximum snack dial express display suggest mandate spoil";

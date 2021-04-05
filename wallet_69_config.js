@@ -1,1 +1,1 @@
-var mnemonic = "blind now dinner square onion cluster float moon body vague else debris";
+var mnemonic = "fetch service moment twist combine ability cactus trophy manage pulse faint main";

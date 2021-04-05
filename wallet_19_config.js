@@ -1,1 +1,1 @@
-var mnemonic = "pyramid record ten soul explain early tomorrow decrease exit ugly drink vault";
+var mnemonic = "monkey robust entry awful decide kiwi snow series limit supreme room panic";

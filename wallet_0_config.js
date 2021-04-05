@@ -1,1 +1,1 @@
-var mnemonic = "wrong device write innocent card salmon dirt memory coyote catch save dash";
+var mnemonic = "usual meat never bullet flock civil obey august forward define candy drink";

@@ -1,1 +1,1 @@
-var mnemonic = "dog scene witness vehicle stem seat boring exchange invest agent avoid mother";
+var mnemonic = "panic potato solar ginger thunder more fork field brass input pledge main";

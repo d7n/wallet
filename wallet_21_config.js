@@ -1,1 +1,1 @@
-var mnemonic = "sunny bag impulse ridge also engage install avoid problem supply match globe";
+var mnemonic = "false unknown first swamp minute arm yard indicate priority tuna prevent abandon";

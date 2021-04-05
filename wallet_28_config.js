@@ -1,1 +1,1 @@
-var mnemonic = "issue upper spirit famous food ranch orbit reason already vacuum hood author";
+var mnemonic = "decade staff imitate obtain inside delay tube improve hand armed often truly";
