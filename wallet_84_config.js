@@ -1,1 +1,1 @@
-var mnemonic = "hybrid ostrich monster often need candy dwarf suggest lift swim square buffalo";
+var mnemonic = "brick impact tired exist kangaroo wink gather throw middle banana before sudden";

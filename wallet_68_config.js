@@ -1,1 +1,1 @@
-var mnemonic = "limb wild plate have brain robot pause aerobic report chronic reopen cherry";
+var mnemonic = "rival pause shrimp midnight strategy pass silly lion seven gym alone tissue";

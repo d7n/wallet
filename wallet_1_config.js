@@ -1,1 +1,1 @@
-var mnemonic = "robust glimpse hour bachelor dentist cluster next network spread analyst bicycle gown";
+var mnemonic = "smoke cool bless eye acid unlock input taste area empty fall wet";

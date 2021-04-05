@@ -1,1 +1,1 @@
-var mnemonic = "nurse monkey crush scissors skin middle copy oval eight frozen series galaxy";
+var mnemonic = "lamp fragile claim powder foot scout tag awkward gym exist myself puzzle";

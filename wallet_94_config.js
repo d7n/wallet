@@ -1,1 +1,1 @@
-var mnemonic = "barely income name note fit explain poverty crime income butter edge lounge";
+var mnemonic = "shy kick rescue october mask hawk agree eight dragon midnight security tonight";

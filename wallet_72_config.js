@@ -1,1 +1,1 @@
-var mnemonic = "machine laugh alter try wife garbage soldier degree vibrant broccoli float sense";
+var mnemonic = "prefer swamp style fame above tattoo grunt prize east immense wagon review";

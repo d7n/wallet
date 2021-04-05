@@ -1,1 +1,1 @@
-var mnemonic = "coffee illegal lawsuit victory focus access auto tide birth catalog upper embrace";
+var mnemonic = "grass ill bunker tray west that dish hotel hedgehog random liberty debris";

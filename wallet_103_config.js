@@ -1,1 +1,1 @@
-var mnemonic = "zoo shield loud spawn antique celery discover chuckle armed come fly butter";
+var mnemonic = "dragon road tattoo evoke repeat until horror door among race social produce";

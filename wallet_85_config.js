@@ -1,1 +1,1 @@
-var mnemonic = "hobby pride little wing exist bulb jeans column wealth reunion digital moral";
+var mnemonic = "elephant steak kitten also base edge popular ready shallow twin glide region";

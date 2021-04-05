@@ -1,1 +1,1 @@
-var mnemonic = "boost bargain large forest curve convince bunker fitness suggest hat inside giant";
+var mnemonic = "minimum pill tissue rude vessel donate nation deer toward black witness vessel";

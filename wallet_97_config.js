@@ -1,1 +1,1 @@
-var mnemonic = "coconut razor tube flag confirm budget song rhythm neutral produce ethics mixed";
+var mnemonic = "two behind forward alcohol search slide valley certain famous damp holiday segment";

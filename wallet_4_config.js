@@ -1,1 +1,1 @@
-var mnemonic = "goose bulb matter world stairs deposit tired alter core duck valley rich";
+var mnemonic = "rally saddle imitate embody ring display winter live shop taste flag banner";

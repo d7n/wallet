@@ -1,1 +1,1 @@
-var mnemonic = "twice arrest term mutual safe curious reduce candy water hundred cousin lyrics";
+var mnemonic = "general scrub access stock camera fish remember tomato flag exile pottery detail";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust mandate napkin turn loud twice celery crawl wild jealous worth veteran";
+var mnemonic = "slot sail decorate suspect scissors unhappy joke excuse wisdom craft flock citizen";

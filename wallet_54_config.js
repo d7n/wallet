@@ -1,1 +1,1 @@
-var mnemonic = "squirrel rich want attack secret birth vote dirt shop letter liquid disorder";
+var mnemonic = "toy floor buzz text risk era exclude catch shuffle silent detail token";

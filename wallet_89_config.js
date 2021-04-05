@@ -1,1 +1,1 @@
-var mnemonic = "rapid element ignore champion salmon deer mind chest retreat upgrade car come";
+var mnemonic = "boat tomato firm pride ocean cage mom minute young summer audit else";

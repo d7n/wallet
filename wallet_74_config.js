@@ -1,1 +1,1 @@
-var mnemonic = "cross tragic drastic topple fabric pool knee tooth repair carpet quarter fabric";
+var mnemonic = "pipe awesome west bulk heavy tenant assist auto weasel gas basket awkward";

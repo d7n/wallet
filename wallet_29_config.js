@@ -1,1 +1,1 @@
-var mnemonic = "valid vicious best possible youth festival empower another miss robot gate kitten";
+var mnemonic = "skate husband project monster crack legal tongue loud violin era own brief";

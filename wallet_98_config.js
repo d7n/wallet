@@ -1,1 +1,1 @@
-var mnemonic = "noble horse enhance tank impulse blind perfect innocent chase aspect tape long";
+var mnemonic = "fly crop despair toy case floor access brave valid balcony dismiss beef";

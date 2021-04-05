@@ -1,1 +1,1 @@
-var mnemonic = "vast sorry bird unit flip antique print toilet poem cereal gesture violin";
+var mnemonic = "code art favorite hurdle position dragon another armor luxury trade sting disagree";

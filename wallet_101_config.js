@@ -1,1 +1,1 @@
-var mnemonic = "grant sunny eagle knock huge easily record earn prefer steak easily fitness";
+var mnemonic = "monkey abandon about grid stairs glove airport picnic uniform forum element husband";

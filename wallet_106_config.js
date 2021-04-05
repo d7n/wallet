@@ -1,1 +1,1 @@
-var mnemonic = "ceiling game pledge popular account virtual arch century oyster distance teach oxygen";
+var mnemonic = "cart latin burst output shoulder canyon hub enroll trash film birth all";

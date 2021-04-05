@@ -1,1 +1,1 @@
-var mnemonic = "lizard ugly zone shock stool comfort pitch glimpse giraffe witness supreme drop";
+var mnemonic = "pigeon improve toast wage trust balance canvas benefit crowd stadium news tiny";

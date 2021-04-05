@@ -1,1 +1,1 @@
-var mnemonic = "grain tree penalty dutch snack join minute chronic cement million rate famous";
+var mnemonic = "explain forum recipe physical logic fun sick exile marriage toilet talk spread";

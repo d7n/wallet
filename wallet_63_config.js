@@ -1,1 +1,1 @@
-var mnemonic = "symbol note dose hurdle hood dynamic domain seminar patient relax fluid door";
+var mnemonic = "nerve race tumble detect manual illegal chicken fitness deliver coil acquire endorse";

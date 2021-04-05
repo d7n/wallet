@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo always rhythm pet engine ramp festival remove divorce peace fiber wagon";
+var mnemonic = "noble toe add unique portion firm rough tackle fiction venue expose abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz echo pitch village ethics leaf risk depend basic noble silver duck";
+var mnemonic = "theme give all wait scare disorder armor royal vintage riot train error";

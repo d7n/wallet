@@ -1,1 +1,1 @@
-var mnemonic = "orient hour legal feed cereal subject tiger sell pattern appear night merge";
+var mnemonic = "scare tent gain rack assault confirm boat hood motor explain doctor festival";

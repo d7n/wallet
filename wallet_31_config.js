@@ -1,1 +1,1 @@
-var mnemonic = "student august gain diagram impulse benefit yellow movie east subway top senior";
+var mnemonic = "engine toss lake kidney erupt cover there shadow crawl expose fine capable";

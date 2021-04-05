@@ -1,1 +1,1 @@
-var mnemonic = "scale champion model merry mirror mammal remain sample lake muffin marble index";
+var mnemonic = "absorb world soccer antique fall taxi blush flag own donkey execute model";

@@ -1,1 +1,1 @@
-var mnemonic = "token guitar detail mosquito once transfer bright spirit direct raw bridge hub";
+var mnemonic = "cover grocery wheel repeat until mean various festival scrap mixed analyst inhale";

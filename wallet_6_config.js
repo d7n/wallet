@@ -1,1 +1,1 @@
-var mnemonic = "inform crop chuckle danger fit slim hub write calm immune prosper label";
+var mnemonic = "rule lava feel derive luxury ghost sketch flavor final best endorse quick";

@@ -1,1 +1,1 @@
-var mnemonic = "own spawn combine dress produce almost brush warfare brave dice hold party";
+var mnemonic = "answer veteran hen hedgehog craft budget envelope pave hold people average oven";

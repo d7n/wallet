@@ -1,1 +1,1 @@
-var mnemonic = "dinner item palm taste turtle remain badge chimney awesome attend mother pen";
+var mnemonic = "trial true armor culture scan brass day tank coin what raven okay";

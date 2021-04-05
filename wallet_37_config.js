@@ -1,1 +1,1 @@
-var mnemonic = "leopard weekend admit display coast between battle under rubber crush own please";
+var mnemonic = "spot during word model simple usage task dress page pulse labor scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "range lucky detail illness crunch easily buffalo stand rabbit mass bulb wrist";
+var mnemonic = "country october blade trial end pizza erode thumb space segment cycle youth";

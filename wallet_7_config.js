@@ -1,1 +1,1 @@
-var mnemonic = "horn action advice fury inherit comfort night decline useful surge royal remember";
+var mnemonic = "then aisle first matrix possible nation barrel evoke lobster oppose ring alley";

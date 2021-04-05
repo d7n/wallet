@@ -1,1 +1,1 @@
-var mnemonic = "leader alien dress arm ranch motor depth execute menu anxiety effort canvas";
+var mnemonic = "involve gospel rifle brown junk glow section equip immense believe wonder still";

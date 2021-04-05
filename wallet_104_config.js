@@ -1,1 +1,1 @@
-var mnemonic = "can spell alarm miss link sphere grace zone castle gold ugly text";
+var mnemonic = "dream where gate cat exile rifle jelly during win syrup right wire";

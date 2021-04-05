@@ -1,1 +1,1 @@
-var mnemonic = "gorilla report lecture host net leopard cushion motor gown dash surge tuition";
+var mnemonic = "buzz float pupil glory parent adjust feed staff skate sunny fatigue sausage";

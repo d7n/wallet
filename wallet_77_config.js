@@ -1,1 +1,1 @@
-var mnemonic = "plunge tray grief heart tribe copper inform actor first legal hungry other";
+var mnemonic = "outer arrow obtain print broken brick young detail lizard right minor february";

@@ -1,1 +1,1 @@
-var mnemonic = "birth together teach math convince safe run admit glimpse velvet pupil patrol";
+var mnemonic = "grocery bunker toilet enhance peanut exit skirt stool story tragic egg wide";

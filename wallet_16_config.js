@@ -1,1 +1,1 @@
-var mnemonic = "cushion found sure pole recycle ship inform column nothing soldier give defy";
+var mnemonic = "pigeon ship seek pet dynamic post party harvest cliff foam era skirt";

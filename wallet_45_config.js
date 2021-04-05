@@ -1,1 +1,1 @@
-var mnemonic = "arch near chef orchard task trust wide citizen prosper save home card";
+var mnemonic = "lonely guide evolve prosper shadow wheat daring random trash picnic goose rely";

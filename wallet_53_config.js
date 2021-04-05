@@ -1,1 +1,1 @@
-var mnemonic = "unknown pupil little bundle soldier wrap urge nation trend need naive describe";
+var mnemonic = "live find wage supreme season detect crew fragile razor clown pluck label";

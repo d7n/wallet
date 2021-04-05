@@ -1,1 +1,1 @@
-var mnemonic = "tenant van canvas stone boy there avoid vibrant swarm develop prize imitate";
+var mnemonic = "grow candy section tilt craft cannon wrist home foot story coach sound";

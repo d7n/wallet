@@ -1,1 +1,1 @@
-var mnemonic = "balcony arrive just catalog vacant dinosaur turn drip prison aerobic train protect";
+var mnemonic = "kiwi grape note box endorse uniform benefit syrup expect theory journey grid";

@@ -1,1 +1,1 @@
-var mnemonic = "fish mobile expose armor nasty open fog elephant mixture benefit magic logic";
+var mnemonic = "tilt attract lava pause sea farm abuse pretty unusual jaguar heart just";

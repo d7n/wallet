@@ -1,1 +1,1 @@
-var mnemonic = "betray size slam adjust mosquito cannon mesh grid consider vote rib bring";
+var mnemonic = "giraffe upon wing patrol urge coral enable thunder run lamp safe danger";

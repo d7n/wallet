@@ -1,1 +1,1 @@
-var mnemonic = "rebel spring round urge square emerge wheel right stomach produce hamster lecture";
+var mnemonic = "expect coast occur dragon next lady case purity sand vessel rotate critic";

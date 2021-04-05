@@ -1,1 +1,1 @@
-var mnemonic = "capital print traffic oppose drop state gaze gift crash follow leisure mango";
+var mnemonic = "reject struggle remain awful casino piece delay bright mention toast suggest balance";

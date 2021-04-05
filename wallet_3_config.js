@@ -1,1 +1,1 @@
-var mnemonic = "loyal transfer east session steak pave soon mixture arrive rude ill captain";
+var mnemonic = "island beach coffee neck afford reopen remain cargo logic prize sick maximum";

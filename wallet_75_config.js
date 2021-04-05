@@ -1,1 +1,1 @@
-var mnemonic = "wet high sudden bench canyon expand drama blast keep mask kite rug";
+var mnemonic = "syrup vivid doll silly rule vote soup pole hub ozone clay false";

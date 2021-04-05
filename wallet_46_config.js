@@ -1,1 +1,1 @@
-var mnemonic = "judge swing output enemy argue always boy bacon grass elevator effort lazy";
+var mnemonic = "basket depth pitch exchange settle vendor stick crush valley rural grass onion";

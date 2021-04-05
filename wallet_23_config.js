@@ -1,1 +1,1 @@
-var mnemonic = "purse two one key minimum burst plug rubber notice vacant history card";
+var mnemonic = "toss lazy salon knee equip lesson fortune rapid leg sad high rely";

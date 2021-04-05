@@ -1,1 +1,1 @@
-var mnemonic = "must sibling absorb come valid labor honey tornado logic visit try flash";
+var mnemonic = "angry loan twelve disorder bullet alert evolve strong february antenna smile crowd";

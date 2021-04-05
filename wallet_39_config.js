@@ -1,1 +1,1 @@
-var mnemonic = "amused million hurdle tongue must elevator pizza merge mask sense dilemma search";
+var mnemonic = "praise inhale explain used shadow noise tank coral cousin execute ethics steel";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise attack ostrich attitude link elite glide habit company brother hen burst";
+var mnemonic = "apart shuffle antique taste brother category wreck panther token noise aspect faith";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge february wedding call sleep govern veteran grid kit shine oven again";
+var mnemonic = "reflect record hundred regular jungle flock seat cricket cram mule angle upset";

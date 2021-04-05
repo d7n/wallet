@@ -1,1 +1,1 @@
-var mnemonic = "elbow figure derive congress wear inmate double abandon design latin absent quality";
+var mnemonic = "robot empty antique walk appear common indoor talk kick favorite collect child";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse print husband library panic virus valid pear fetch skate stone tomato";
+var mnemonic = "magnet present slide exclude also tomato hazard upgrade debate arrest suit trust";

@@ -1,1 +1,1 @@
-var mnemonic = "female unusual still blue excite shine express head tuna seed scheme repair";
+var mnemonic = "shift dwarf route tip adapt copy video adult hurry focus guitar switch";

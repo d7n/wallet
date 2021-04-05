@@ -1,1 +1,1 @@
-var mnemonic = "burger arena transfer dwarf mosquito bachelor bird tower throw hair top entire";
+var mnemonic = "glimpse trouble east setup scheme cover carry enable start enforce insane hover";

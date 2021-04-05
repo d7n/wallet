@@ -1,1 +1,1 @@
-var mnemonic = "hope high punch blast crazy harvest tide raise curve brief dune hammer";
+var mnemonic = "uncover key plug merit ivory wish rice mail orange flock install ride";

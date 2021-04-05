@@ -1,1 +1,1 @@
-var mnemonic = "sample kitten nominee path tired exit cruise cradle horn lawsuit hedgehog train";
+var mnemonic = "rent ecology brick youth miracle visual pill napkin decrease punch produce cave";

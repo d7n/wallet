@@ -1,1 +1,1 @@
-var mnemonic = "can frown captain dinosaur soup derive share chase mammal jelly myself organ";
+var mnemonic = "female dance act now picnic resource sense circle casino valley hammer paper";

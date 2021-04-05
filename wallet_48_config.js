@@ -1,1 +1,1 @@
-var mnemonic = "differ typical neck stock virtual helmet injury apology pear horse slab shy";
+var mnemonic = "achieve satisfy harsh exclude amount minimum mercy latin ozone lens gaze quick";

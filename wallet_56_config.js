@@ -1,1 +1,1 @@
-var mnemonic = "amazing sugar then lucky estate panda jealous fire cube mask control alien";
+var mnemonic = "remain cruise upset mandate expand then lift reopen boss bargain happy magnet";

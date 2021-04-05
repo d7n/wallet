@@ -1,1 +1,1 @@
-var mnemonic = "orchard daring repair hub tone tank vote ball finish diet bottom party";
+var mnemonic = "crime about term invest end false resource craft nuclear noodle depth attack";

@@ -1,1 +1,1 @@
-var mnemonic = "renew tiny answer people need today crisp expand hair govern canal damp";
+var mnemonic = "jazz dragon blast game cupboard spoil protect else pill swear domain feature";

@@ -1,1 +1,1 @@
-var mnemonic = "permit wise people grocery undo consider drop view stem gentle video claw";
+var mnemonic = "ancient hero general motion major purity strike tribe nephew search alley spin";

@@ -1,1 +1,1 @@
-var mnemonic = "negative kingdom record fresh month zone hello canal charge tobacco august either";
+var mnemonic = "sense lemon orient magnet tongue quick divert empty cereal pride lonely minimum";

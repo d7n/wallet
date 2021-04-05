@@ -1,1 +1,1 @@
-var mnemonic = "still iron pencil bone ship tide midnight shock vapor holiday calm elegant";
+var mnemonic = "deliver fit funny dress pudding radar rain impact width tragic gauge feel";

@@ -1,1 +1,1 @@
-var mnemonic = "inject problem future flip desert praise orbit bean love magic miracle hood";
+var mnemonic = "flee same scan pen adult add grief cash special tuna beauty super";

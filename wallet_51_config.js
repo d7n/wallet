@@ -1,1 +1,1 @@
-var mnemonic = "turn horse banana gloom arrow grant source cook victory spoon another venue";
+var mnemonic = "sword scorpion limit now supreme staff food onion what note spirit share";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach clown speed inhale decide strike diary squeeze stick game catalog defense";
+var mnemonic = "morning elephant innocent bird edit toss labor step wool mention ivory reject";

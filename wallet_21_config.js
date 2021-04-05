@@ -1,1 +1,1 @@
-var mnemonic = "bone pioneer song protect differ unfold banner cement pistol trophy tube general";
+var mnemonic = "destroy length olympic little bounce borrow because fragile motion need miss pottery";

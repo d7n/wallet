@@ -1,1 +1,1 @@
-var mnemonic = "remember horror raise tuna olympic address crazy print pause slow gadget ride";
+var mnemonic = "era battle mouse loop able perfect situate enroll buddy silk execute skate";

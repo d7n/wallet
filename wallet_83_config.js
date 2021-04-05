@@ -1,1 +1,1 @@
-var mnemonic = "spirit used useful general seed combine lift sweet patch law city exist";
+var mnemonic = "charge cross bottom sun gallery gauge length awful banana quantum egg rack";

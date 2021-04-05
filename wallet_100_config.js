@@ -1,1 +1,1 @@
-var mnemonic = "paper fury range stone lend casino box chaos acoustic length ceiling permit";
+var mnemonic = "property canyon fatigue fade search lens jar favorite alarm erase charge nut";
