@@ -1,1 +1,1 @@
-var mnemonic = "maze seven direct manage tent ankle into dragon arena custom web melody";
+var mnemonic = "option genre snow skill tape sure envelope tissue fox favorite wrong piece";

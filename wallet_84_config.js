@@ -1,1 +1,1 @@
-var mnemonic = "use unit three segment kiss embrace swift glove captain soldier huge spike";
+var mnemonic = "morning unlock behind summer armor marble bamboo album orbit tail screen wash";

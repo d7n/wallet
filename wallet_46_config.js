@@ -1,1 +1,1 @@
-var mnemonic = "unfold escape entry strategy elephant love couple ten desert rely stand chair";
+var mnemonic = "skate dwarf gentle today possible humor risk border cat cube wish thought";

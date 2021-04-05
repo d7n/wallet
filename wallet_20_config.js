@@ -1,1 +1,1 @@
-var mnemonic = "very half brave nut man leader alarm muffin three chase pitch dove";
+var mnemonic = "welcome valid angry winter unknown ostrich want celery develop black one tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "sunny hunt vacuum hawk wrist onion coconut pear popular flavor inner dragon";
+var mnemonic = "flavor matrix web oxygen razor access proof love gold start dash expose";

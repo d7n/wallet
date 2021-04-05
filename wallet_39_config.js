@@ -1,1 +1,1 @@
-var mnemonic = "junior right smoke rib noble ridge nephew learn empty debate hungry ski";
+var mnemonic = "slide average start hint erode foot advice reason present believe weasel spot";

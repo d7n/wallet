@@ -1,1 +1,1 @@
-var mnemonic = "chapter donor walk alien access junk track rather fiscal boss genius caught";
+var mnemonic = "ranch derive amateur expand mandate clutch noodle feature main confirm cute sort";

@@ -1,1 +1,1 @@
-var mnemonic = "build forward nature artist awesome please later deputy tent loop current jeans";
+var mnemonic = "olive major birth remove impulse modify pelican satoshi stem beyond sphere turn";

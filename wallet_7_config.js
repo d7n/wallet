@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog cradle left addict capable argue chronic huge satisfy diet dentist lecture";
+var mnemonic = "notable indicate payment share admit wait media horror tired debris board wife";

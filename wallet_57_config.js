@@ -1,1 +1,1 @@
-var mnemonic = "drift artwork chicken goddess shrug wear evolve barrel indoor jacket another true";
+var mnemonic = "waste soldier reunion fluid walk security toast endorse update broken drum crawl";

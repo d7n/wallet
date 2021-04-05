@@ -1,1 +1,1 @@
-var mnemonic = "badge tunnel neither output verb damage brother begin gaze misery zebra weekend";
+var mnemonic = "cereal series ugly ramp gauge mango visual wasp weapon behind bronze pool";

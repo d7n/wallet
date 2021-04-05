@@ -1,1 +1,1 @@
-var mnemonic = "mass gasp chapter provide gadget jelly better report cattle alpha hard abstract";
+var mnemonic = "hard magnet modify photo parent gesture rich cruel script junk upper stadium";

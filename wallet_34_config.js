@@ -1,1 +1,1 @@
-var mnemonic = "meat token survey bread position taste magnet mosquito corn frequent chimney glow";
+var mnemonic = "giggle taxi cruise uphold float pill memory upset truck enter gauge cage";

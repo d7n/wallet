@@ -1,1 +1,1 @@
-var mnemonic = "because arrange minute tattoo hundred hunt bargain piece differ border desert denial";
+var mnemonic = "kiss defense desk disagree average forest ocean essay injury carbon harsh junior";

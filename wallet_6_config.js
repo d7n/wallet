@@ -1,1 +1,1 @@
-var mnemonic = "north physical account afraid diamond popular journey industry merit gentle fragile flag";
+var mnemonic = "bind vicious release drift program pigeon slogan industry duty tenant bonus treat";

@@ -1,1 +1,1 @@
-var mnemonic = "member same tuition rice crane soda only sudden tenant pipe catch thrive";
+var mnemonic = "off toast buffalo repeat sauce remain grit walnut cool earn luxury squeeze";

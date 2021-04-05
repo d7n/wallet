@@ -1,1 +1,1 @@
-var mnemonic = "armor donate era cook universe behind tissue enroll execute vacuum allow cousin";
+var mnemonic = "pave skill salon index shrimp erosion forest salt argue day boy shed";

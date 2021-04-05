@@ -1,1 +1,1 @@
-var mnemonic = "fog pyramid option visual alien inherit system pattern worry bronze apology wrestle";
+var mnemonic = "valley humble cable best fog prefer grocery two auction knock solve air";

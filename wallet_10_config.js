@@ -1,1 +1,1 @@
-var mnemonic = "film omit car collect woman debris fruit actual toilet quote sail wide";
+var mnemonic = "execute decline spirit clip share only success leader craft agree submit bag";

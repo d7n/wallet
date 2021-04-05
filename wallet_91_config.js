@@ -1,1 +1,1 @@
-var mnemonic = "grit trumpet develop tube age weapon brother battle expire inflict roast appear";
+var mnemonic = "horror security champion brain cancel tray column maple picnic axis climb father";

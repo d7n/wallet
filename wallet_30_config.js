@@ -1,1 +1,1 @@
-var mnemonic = "awake soft coral there maze fix runway snap hour glass eyebrow hollow";
+var mnemonic = "shadow document forest purse quit layer banana half task squirrel assume absorb";

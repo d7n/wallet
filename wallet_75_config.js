@@ -1,1 +1,1 @@
-var mnemonic = "globe fruit tide creek flip much minute spoil know science bomb record";
+var mnemonic = "measure matrix title occur dismiss gentle fruit tent outer sample tag bridge";

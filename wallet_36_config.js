@@ -1,1 +1,1 @@
-var mnemonic = "black slice sponsor mimic ill hold finger bench purchase text orbit march";
+var mnemonic = "setup ankle turtle tube when beyond neck balance sight acquire gossip portion";

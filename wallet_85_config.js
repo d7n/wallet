@@ -1,1 +1,1 @@
-var mnemonic = "found oven reject dose net spend spread nature kingdom predict dial minute";
+var mnemonic = "warm emerge flip message vivid nothing air suggest april cabbage surprise champion";

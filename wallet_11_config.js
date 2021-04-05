@@ -1,1 +1,1 @@
-var mnemonic = "physical dish relief enact devote danger napkin require glide congress limit because";
+var mnemonic = "bitter tiger endless patch estate pony plunge slab people hard burden father";

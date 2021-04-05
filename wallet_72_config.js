@@ -1,1 +1,1 @@
-var mnemonic = "regret fame vicious slight dinner enjoy fruit pumpkin focus behind better scatter";
+var mnemonic = "left more evolve ripple input way million unfair typical world aware ivory";

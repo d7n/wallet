@@ -1,1 +1,1 @@
-var mnemonic = "walnut express wrap life rent parade skate visit grain purpose daring distance";
+var mnemonic = "depart hope february orange electric dolphin seven since extend hair asthma bomb";

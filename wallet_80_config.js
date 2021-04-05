@@ -1,1 +1,1 @@
-var mnemonic = "gaze globe boss fitness silly peace again guide limit onion race snow";
+var mnemonic = "actor crawl goat success sound another team answer interest typical magnet want";

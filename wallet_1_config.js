@@ -1,1 +1,1 @@
-var mnemonic = "disease forward pyramid off bleak horn fall head program provide frost tape";
+var mnemonic = "state pool ask diet radio glue minor combine public ghost chef private";

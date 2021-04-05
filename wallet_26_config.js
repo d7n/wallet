@@ -1,1 +1,1 @@
-var mnemonic = "exist tip reform display make edge rifle claw scissors stamp famous owner";
+var mnemonic = "base vocal dolphin decide flush coast thunder robot aspect rich vacuum dynamic";

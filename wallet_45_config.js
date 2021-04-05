@@ -1,1 +1,1 @@
-var mnemonic = "guitar useless kingdom sadness situate stereo valley case hire timber else away";
+var mnemonic = "piece swear plate ladder asset valve often primary organ dad guide liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "case taste flash approve social spoil glove flower execute butter choose ranch";
+var mnemonic = "space enroll bracket submit kidney hybrid hockey teach defy check gauge feed";

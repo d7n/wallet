@@ -1,1 +1,1 @@
-var mnemonic = "alcohol grass stairs abandon possible vacuum burger clay confirm match bone lock";
+var mnemonic = "slice elephant reduce wrestle blur thunder bargain faculty wine coach cycle garden";

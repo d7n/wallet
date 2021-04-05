@@ -1,1 +1,1 @@
-var mnemonic = "snap erase little find elbow cram imitate acid lottery marriage tumble loud";
+var mnemonic = "upgrade search sort laptop silk side insect talent warm craft grain pudding";

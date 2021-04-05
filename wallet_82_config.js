@@ -1,1 +1,1 @@
-var mnemonic = "history shrimp initial wash need cruel tiger visa siren whip gallery speed";
+var mnemonic = "steak under drink owner review art promote side obscure balcony never cradle";

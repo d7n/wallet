@@ -1,1 +1,1 @@
-var mnemonic = "confirm target circle gate utility accident mistake ready awesome zoo grain rail";
+var mnemonic = "artist guitar elegant citizen wide clarify letter filter permit tortoise network day";

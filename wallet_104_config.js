@@ -1,1 +1,1 @@
-var mnemonic = "wrist jelly symptom possible table kiss main pumpkin uphold caught audit height";
+var mnemonic = "banner alarm dirt man enjoy shop violin unlock alone fuel large strong";

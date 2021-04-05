@@ -1,1 +1,1 @@
-var mnemonic = "gaze marine quality borrow remember clever effort six iron heavy detail shield";
+var mnemonic = "hurdle theory make notable ocean fit market tennis swift husband fragile timber";

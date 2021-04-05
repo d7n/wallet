@@ -1,1 +1,1 @@
-var mnemonic = "mountain dilemma grunt woman survey sponsor spare reward wonder brief smart total";
+var mnemonic = "chalk fall rack call helmet wealth project actor fan illness exile icon";

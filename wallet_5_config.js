@@ -1,1 +1,1 @@
-var mnemonic = "fall birth print best sing robot broom weekend stem smart valley rally";
+var mnemonic = "south action zero what business robust parent pretty category issue adjust bottom";

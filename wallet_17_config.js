@@ -1,1 +1,1 @@
-var mnemonic = "dash seat tube tumble dove usage build else unfold brisk whisper vocal";
+var mnemonic = "stool accuse frequent silent already diet size mouse craft foam planet carpet";

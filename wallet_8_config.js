@@ -1,1 +1,1 @@
-var mnemonic = "torch behind bike purse wife spare comic tobacco grass nest zebra stable";
+var mnemonic = "hill nominee panic sure square wolf dilemma imitate hotel struggle always disorder";

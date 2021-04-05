@@ -1,1 +1,1 @@
-var mnemonic = "lyrics come jungle urban attitude trial since leaf master garage outer original";
+var mnemonic = "merry weasel cream glory daring side price addict behave east tribe impose";

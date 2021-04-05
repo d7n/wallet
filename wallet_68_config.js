@@ -1,1 +1,1 @@
-var mnemonic = "rib rebel kitten ozone lake deer comfort latin burden kite hurdle excuse";
+var mnemonic = "dream curve tone cloud total invite master maze vault cherry music vanish";

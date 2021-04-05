@@ -1,1 +1,1 @@
-var mnemonic = "rapid culture success puzzle chicken system liquid inmate wine cup device rain";
+var mnemonic = "picnic video gloom boost winter copy rate special fog hedgehog pact pave";

@@ -1,1 +1,1 @@
-var mnemonic = "kind wreck ship include secret pilot strong bind stock blame mandate recall";
+var mnemonic = "tell sorry decorate regular awkward barely jelly age boy prepare above rude";

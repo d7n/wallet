@@ -1,1 +1,1 @@
-var mnemonic = "cliff scout hurdle powder ship course ostrich rain picture student kick forest";
+var mnemonic = "airport mass order notice cricket retire remove where aware floor slogan ill";

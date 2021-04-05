@@ -1,1 +1,1 @@
-var mnemonic = "ski problem bean silver exit exile grow caught prize above width emotion";
+var mnemonic = "leave chase actual hair arm high snack brave harvest engage inject now";

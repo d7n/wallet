@@ -1,1 +1,1 @@
-var mnemonic = "hour cube put tourist oppose ahead myself track evolve make happy blood";
+var mnemonic = "danger blast heavy decorate crash buddy climb vote dice balance digital simple";

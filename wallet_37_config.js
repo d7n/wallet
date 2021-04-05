@@ -1,1 +1,1 @@
-var mnemonic = "hat leave draft caught process thing truly lens bargain scene alarm clarify";
+var mnemonic = "decrease hamster lawsuit real pudding child magic business glance glove impulse simple";

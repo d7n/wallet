@@ -1,1 +1,1 @@
-var mnemonic = "pledge pause mercy fringe public ask poem load weekend stamp loyal clip";
+var mnemonic = "swallow ski change toilet stay monster frequent unfold glow stadium frequent shy";

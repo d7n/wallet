@@ -1,1 +1,1 @@
-var mnemonic = "parent humor burger abstract desert meadow model course burger index bone behind";
+var mnemonic = "invest music pulp scene fork receive fade salon proof gun convince crunch";

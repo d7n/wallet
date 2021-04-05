@@ -1,1 +1,1 @@
-var mnemonic = "point install prize melody mixed neither grain eight wood sell kit swing";
+var mnemonic = "crazy girl rain mammal glide monkey bracket vintage smoke minute panel turn";

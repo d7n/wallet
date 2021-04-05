@@ -1,1 +1,1 @@
-var mnemonic = "pattern lab miss grocery people pottery month believe design innocent cable lumber";
+var mnemonic = "ethics banner world lady mimic time tattoo gauge pizza upgrade hope spoon";

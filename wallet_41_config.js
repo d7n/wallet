@@ -1,1 +1,1 @@
-var mnemonic = "marble father income shallow idle interest penalty load spike cushion very once";
+var mnemonic = "degree field hurt patient shock era chair property purchase hunt address supply";

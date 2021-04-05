@@ -1,1 +1,1 @@
-var mnemonic = "real laptop dream wash gauge odor top airport garbage pipe vessel mean";
+var mnemonic = "attract foam crane nice copper buffalo path firm arrive thumb fan flush";

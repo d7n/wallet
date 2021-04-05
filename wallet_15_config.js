@@ -1,1 +1,1 @@
-var mnemonic = "dirt doll ceiling siege sense problem begin age desk also perfect shoot";
+var mnemonic = "weapon tip cost siege leg day laptop conduct arctic fragile couple prepare";

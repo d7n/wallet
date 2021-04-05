@@ -1,1 +1,1 @@
-var mnemonic = "clean swim retreat such neutral rigid empower cupboard shadow shoe mechanic curtain";
+var mnemonic = "rich abuse strategy dawn remain extra mobile below together sheriff stamp atom";

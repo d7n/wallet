@@ -1,1 +1,1 @@
-var mnemonic = "actual there audit lake hold type blind spare cushion person asset taste";
+var mnemonic = "eyebrow trial smooth salon radio clarify thumb warm exist build dizzy trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "damage decorate below top ring grace federal item meat copy sorry omit";
+var mnemonic = "affair quantum forum iron divorce punch social raven picture leader green replace";

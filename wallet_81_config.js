@@ -1,1 +1,1 @@
-var mnemonic = "proof swift empower tribe feed civil music violin lizard fire easily liquid";
+var mnemonic = "vocal defy rookie diesel nut around wheel taste yard plate inform sheriff";

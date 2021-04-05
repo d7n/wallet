@@ -1,1 +1,1 @@
-var mnemonic = "install wool make spike upgrade marriage action suit angle kiwi dog tube";
+var mnemonic = "worth round scissors harsh card arm local tribe liar river chair vintage";

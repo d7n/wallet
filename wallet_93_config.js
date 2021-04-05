@@ -1,1 +1,1 @@
-var mnemonic = "photo deputy nice mom neck symbol credit beauty decrease trick stairs wheel";
+var mnemonic = "prepare grape plate evil subway purity box genre high drip scene unable";

@@ -1,1 +1,1 @@
-var mnemonic = "plug supply physical humble village spot file cricket fold hair aware sort";
+var mnemonic = "language card stuff moral intact position supply yellow reopen cool tomorrow enjoy";

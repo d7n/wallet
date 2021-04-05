@@ -1,1 +1,1 @@
-var mnemonic = "huge undo bounce country horror orchard mansion slim vibrant symptom tuna dance";
+var mnemonic = "bid medal start jealous magnet cage mix upset ability verify security link";

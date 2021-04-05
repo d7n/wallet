@@ -1,1 +1,1 @@
-var mnemonic = "cotton iron diesel social organ come filter detail what issue leg spoon";
+var mnemonic = "grid hood hour brick slender okay skate ride any patient lady goose";

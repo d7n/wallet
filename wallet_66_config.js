@@ -1,1 +1,1 @@
-var mnemonic = "liberty trip weasel unhappy wide toilet cheap grace task measure latin silent";
+var mnemonic = "enter turn medal gallery garlic success stick october style whip farm private";

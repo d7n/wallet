@@ -1,1 +1,1 @@
-var mnemonic = "sugar cause region profit entire swear praise pipe heavy palm acquire frozen";
+var mnemonic = "monkey adapt program purpose cradle motion average vintage alert test black paddle";

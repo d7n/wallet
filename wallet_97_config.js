@@ -1,1 +1,1 @@
-var mnemonic = "expect foot liquid shed have entire valid slam vibrant behave shove already";
+var mnemonic = "raccoon dog degree cable victory avoid garment kite upset matter please rocket";

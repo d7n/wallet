@@ -1,1 +1,1 @@
-var mnemonic = "discover actress depend flight rapid audit essence fall fortune color summer remain";
+var mnemonic = "test lumber squirrel exercise sound obey author return parade crazy fury rice";

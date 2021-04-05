@@ -1,1 +1,1 @@
-var mnemonic = "ozone album harvest noble tomorrow bubble warrior excess start nasty where air";
+var mnemonic = "name receive wagon artwork age pond maple dumb milk enemy text lyrics";

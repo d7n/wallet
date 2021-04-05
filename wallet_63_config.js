@@ -1,1 +1,1 @@
-var mnemonic = "lunch dinosaur loyal town found winter van session prepare panic enemy remember";
+var mnemonic = "code curious debate sunset climb old can reform chalk fit moment load";

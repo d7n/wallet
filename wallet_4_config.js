@@ -1,1 +1,1 @@
-var mnemonic = "build alone wood digital trophy shallow aspect real wood paper load horn";
+var mnemonic = "display drip armor enact vintage genuine arch wet child blush found century";

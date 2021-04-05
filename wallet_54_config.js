@@ -1,1 +1,1 @@
-var mnemonic = "isolate hybrid planet swamp seat civil lake scare lawsuit direct exist crash";
+var mnemonic = "romance kangaroo fade agent pioneer gravity decide kitten civil subway route weekend";

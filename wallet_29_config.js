@@ -1,1 +1,1 @@
-var mnemonic = "volcano flight rule loyal noble raccoon execute scale vital allow trash universe";
+var mnemonic = "place shrimp rival pulp very cheap casual memory mixture tide siren faint";

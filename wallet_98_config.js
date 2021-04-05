@@ -1,1 +1,1 @@
-var mnemonic = "effort parrot noble velvet choose glory quick green step hire brand outer";
+var mnemonic = "fun cook enrich foam creek illness series sponsor clutch mixture pull wait";

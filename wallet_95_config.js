@@ -1,1 +1,1 @@
-var mnemonic = "shiver frame basic blood prize scrub video autumn bacon mimic vintage immense";
+var mnemonic = "budget relief search roast brisk brisk milk giggle master three strike uphold";

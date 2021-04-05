@@ -1,1 +1,1 @@
-var mnemonic = "unlock staff bulk clap police frown tuition throw surround drink elevator industry";
+var mnemonic = "rural edit diet chuckle omit cram illness garment cloth cancel sentence marine";

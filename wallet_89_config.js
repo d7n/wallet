@@ -1,1 +1,1 @@
-var mnemonic = "logic another initial ask roof clap typical able print original copy panda";
+var mnemonic = "lonely blade close sense release smart noble twist hungry festival ladder motor";

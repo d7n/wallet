@@ -1,1 +1,1 @@
-var mnemonic = "mystery pencil peace upon fortune execute atom rocket acoustic wedding frost salute";
+var mnemonic = "latin black sadness depth chapter ability recall absent endless cream million moment";

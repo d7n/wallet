@@ -1,1 +1,1 @@
-var mnemonic = "dream give nurse prize frost industry memory notable crew stage faint excite";
+var mnemonic = "melody mule decline position evidence color flock will flee toddler citizen guess";

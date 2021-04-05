@@ -1,1 +1,1 @@
-var mnemonic = "steak similar wood print merit spot order any crash sand obey inch";
+var mnemonic = "prevent clump flat about sentence junk wet flee practice slogan remove people";

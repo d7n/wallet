@@ -1,1 +1,1 @@
-var mnemonic = "school forest shop ugly modify join neutral pretty civil jungle ridge find";
+var mnemonic = "market giggle always rifle hollow endorse tree choice gauge elder large language";

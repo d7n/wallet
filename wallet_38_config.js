@@ -1,1 +1,1 @@
-var mnemonic = "trial squeeze label seek public sleep badge income fault jeans empower sock";
+var mnemonic = "find clump venue pulse canvas stay ketchup spy deputy coral matrix vicious";

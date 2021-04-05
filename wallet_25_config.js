@@ -1,1 +1,1 @@
-var mnemonic = "choose inch depth bright energy clever dog tribe domain usual spin know";
+var mnemonic = "able student west come adjust essence plunge fruit near loud coach unfold";

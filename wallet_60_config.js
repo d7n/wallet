@@ -1,1 +1,1 @@
-var mnemonic = "become pear remind indicate place panel order luxury behind silly chicken harvest";
+var mnemonic = "slim cable recall visit clay argue ten resource hidden series recipe life";

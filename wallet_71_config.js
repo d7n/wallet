@@ -1,1 +1,1 @@
-var mnemonic = "green uniform strategy inch coach south ceiling rally used ski jelly alcohol";
+var mnemonic = "affair unfold turkey upgrade corn print logic injury ramp urge gate enact";

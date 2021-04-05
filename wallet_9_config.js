@@ -1,1 +1,1 @@
-var mnemonic = "author keep bamboo lamp fringe potato tobacco figure scare flight length cool";
+var mnemonic = "leg kiss joy produce arrest hill once chaos gasp twice hungry true";

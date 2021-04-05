@@ -1,1 +1,1 @@
-var mnemonic = "save fossil beef memory account capital meadow velvet diesel direct green canvas";
+var mnemonic = "entire rubber reduce sword eagle lens hundred bounce toe loud one pistol";

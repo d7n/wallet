@@ -1,1 +1,1 @@
-var mnemonic = "giggle gauge deposit call patient reopen hunt coral sorry turtle rich odor";
+var mnemonic = "waste arrow usual engine just horn erupt coffee distance space circle defense";
