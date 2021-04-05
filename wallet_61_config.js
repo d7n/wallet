@@ -1,1 +1,1 @@
-var mnemonic = "glove puzzle island novel lake sudden culture title bar nice winter panther";
+var mnemonic = "plug mystery prison awkward innocent copy movie tumble unfold story diagram announce";

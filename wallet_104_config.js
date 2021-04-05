@@ -1,1 +1,1 @@
-var mnemonic = "advance refuse ugly connect just furnace salon decorate use pave problem crash";
+var mnemonic = "anxiety hurdle almost color juice ice toilet eye interest above erosion drop";

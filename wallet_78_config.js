@@ -1,1 +1,1 @@
-var mnemonic = "motor reward few lava grass lumber wagon soul retire assume fatal girl";
+var mnemonic = "power outside employ dove offer arena antique exist hair catch pigeon edit";

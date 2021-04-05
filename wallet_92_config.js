@@ -1,1 +1,1 @@
-var mnemonic = "scene empower comfort search carbon spell execute monitor argue clever rural pluck";
+var mnemonic = "error sketch slide include pizza symbol pitch join other record jazz shock";

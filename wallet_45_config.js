@@ -1,1 +1,1 @@
-var mnemonic = "crowd input man choice eager fuel slow opera unhappy govern menu feed";
+var mnemonic = "success wage clump test like actual over expose clarify derive piano vivid";

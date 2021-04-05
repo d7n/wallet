@@ -1,1 +1,1 @@
-var mnemonic = "hazard head save area soon unveil warrior sibling indicate marine vault other";
+var mnemonic = "wild midnight fall bronze pipe drum shield wild betray music fade mixture";

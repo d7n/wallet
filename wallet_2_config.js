@@ -1,1 +1,1 @@
-var mnemonic = "stone crystal below pioneer best panel gloom goddess thing gas odor legal";
+var mnemonic = "prison truck genius damage job milk design rifle yard universe clutch venue";

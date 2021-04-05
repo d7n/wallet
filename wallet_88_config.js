@@ -1,1 +1,1 @@
-var mnemonic = "volume payment urban hip differ erosion combine tip dust afford reward luggage";
+var mnemonic = "document dismiss bicycle kid veteran derive rose great canal sun suit silly";

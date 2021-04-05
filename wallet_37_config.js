@@ -1,1 +1,1 @@
-var mnemonic = "blast wedding clarify version skill brass veteran rich jazz chuckle grain muscle";
+var mnemonic = "lady athlete useless orbit address equal devote capital sort glare trust arena";

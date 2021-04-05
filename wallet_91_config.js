@@ -1,1 +1,1 @@
-var mnemonic = "green rally clip calm mom cube other people shiver steel job evil";
+var mnemonic = "guess tomato later profit fan shoot gate head rabbit merry talent gadget";

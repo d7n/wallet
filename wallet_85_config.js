@@ -1,1 +1,1 @@
-var mnemonic = "under hen wedding civil indoor stairs slam sock manage devote dial giraffe";
+var mnemonic = "bench sword pelican defense cinnamon hire equip cycle ramp clerk around ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm flight crunch melt govern advance cream tiny imitate polar orbit lecture";
+var mnemonic = "only arch exhaust mesh brass since security logic north fee rely captain";

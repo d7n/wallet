@@ -1,1 +1,1 @@
-var mnemonic = "gospel index dentist gaze jealous surround maple cactus hollow seat deputy best";
+var mnemonic = "aware shallow path flower dose input option business great build popular trap";

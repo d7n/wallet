@@ -1,1 +1,1 @@
-var mnemonic = "mass noise marine switch elite anger stadium fee scare analyst tank horror";
+var mnemonic = "feed enact bargain street mango crouch choose candy because ladder crew jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "crash wedding stool solid proof stamp worth debris chronic aspect cave nest";
+var mnemonic = "motor engage slice very cruel rate remind shiver foot blue bunker this";

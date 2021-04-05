@@ -1,1 +1,1 @@
-var mnemonic = "elegant ball input robust dove stove vicious grace ramp problem egg sight";
+var mnemonic = "rigid essay miss phrase head dragon hero become dismiss brief game help";

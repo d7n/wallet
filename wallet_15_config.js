@@ -1,1 +1,1 @@
-var mnemonic = "speak mistake near recipe panel clay still language radar glove drip pottery";
+var mnemonic = "oyster age kiss wreck achieve pair invest stem present wage replace prevent";

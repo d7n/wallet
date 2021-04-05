@@ -1,1 +1,1 @@
-var mnemonic = "inner soon distance imitate kite chronic divorce cool soldier beyond thunder neck";
+var mnemonic = "recall spray usage sick clever chair picture pride digital seek puppy saddle";

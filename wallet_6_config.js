@@ -1,1 +1,1 @@
-var mnemonic = "service aim extra letter cage certain layer despair artist pill bone element";
+var mnemonic = "scare trick job begin trend hunt damage aware glance nose profit ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual spy pilot drink barely clarify measure flame release offer wagon brief";
+var mnemonic = "pond issue wedding hurry fancy because bonus blind become tape head display";

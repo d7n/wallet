@@ -1,1 +1,1 @@
-var mnemonic = "dirt about salt asthma when feed record hip sport you wisdom equip";
+var mnemonic = "lock employ blanket pepper alert project broccoli render half luggage assume senior";

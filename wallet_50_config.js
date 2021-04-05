@@ -1,1 +1,1 @@
-var mnemonic = "tube menu teach sugar cube forest oven elegant enjoy execute law burst";
+var mnemonic = "talent emerge initial enable summer gospel friend border hybrid nose wonder foster";

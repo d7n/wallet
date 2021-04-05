@@ -1,1 +1,1 @@
-var mnemonic = "emotion broccoli gather seminar deer stone estate during age foot holiday equal";
+var mnemonic = "symbol warfare process slogan word priority oblige rather pole wall aisle bone";

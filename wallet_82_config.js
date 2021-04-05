@@ -1,1 +1,1 @@
-var mnemonic = "various bean any dice basic sea diagram rail joke panic tube near";
+var mnemonic = "bargain hundred turkey sad machine rack oil three home cousin invite drama";

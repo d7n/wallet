@@ -1,1 +1,1 @@
-var mnemonic = "drift slush guess keep door glare tired route exchange buyer blue void";
+var mnemonic = "coral better loud abstract spread chief shiver narrow sight south ridge market";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent tilt chalk scare brief antique six monitor kid broccoli dune club";
+var mnemonic = "chalk oil purse soup solve isolate senior season device diesel brown ask";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel famous recycle curtain inch cup hurdle accident vacant chair mail evidence";
+var mnemonic = "bicycle task drastic abstract daring planet clay ketchup zero bottom outdoor suggest";

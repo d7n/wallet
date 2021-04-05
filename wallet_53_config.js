@@ -1,1 +1,1 @@
-var mnemonic = "biology title gossip know popular ritual doctor mango alcohol pepper dog text";
+var mnemonic = "affair spider online wasp float scene section artwork parent cradle token box";

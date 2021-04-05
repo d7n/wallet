@@ -1,1 +1,1 @@
-var mnemonic = "road cheese daughter want appear borrow prepare notable stairs worth consider tomato";
+var mnemonic = "jaguar bicycle mercy flush negative exit monitor champion force rubber heavy garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "album sister mule sock bubble icon cage public autumn believe level large";
+var mnemonic = "solar young gym student educate math legal dawn resource slide eternal coin";

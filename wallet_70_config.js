@@ -1,1 +1,1 @@
-var mnemonic = "flavor hungry hair off wash depend heavy term initial mistake spike silver";
+var mnemonic = "dove feed pepper prison danger window moon excess evoke essence object margin";

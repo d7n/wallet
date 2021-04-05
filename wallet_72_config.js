@@ -1,1 +1,1 @@
-var mnemonic = "joke wide excite upset skirt cute nerve buzz weasel local smile decline";
+var mnemonic = "derive hub during plate book cheese engage slender when ghost movie duck";

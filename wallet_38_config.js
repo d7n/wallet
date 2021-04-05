@@ -1,1 +1,1 @@
-var mnemonic = "stomach pass crowd return bronze dinosaur clog canoe auto that welcome amazing";
+var mnemonic = "path space promote fabric offer rich neglect camera opinion ball spread genre";

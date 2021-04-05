@@ -1,1 +1,1 @@
-var mnemonic = "frog input robust lock upset medal parade lizard lottery evoke crunch good";
+var mnemonic = "case critic amused radio tired champion trash icon letter chuckle region prevent";

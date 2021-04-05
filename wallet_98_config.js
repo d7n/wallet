@@ -1,1 +1,1 @@
-var mnemonic = "victory pride mosquito order flip field dilemma october woman dirt ride host";
+var mnemonic = "meadow donor sorry burden cabbage only milk old occur cradle dash veteran";

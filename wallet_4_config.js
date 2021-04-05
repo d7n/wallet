@@ -1,1 +1,1 @@
-var mnemonic = "remind point valve gown enhance crucial front anchor duty pulp theory local";
+var mnemonic = "journey three congress bid forum zero load three giggle spread client sock";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil else owner lottery skate soul upper amused pencil vehicle appear ankle";
+var mnemonic = "extend inflict doll swim desk silver steel spatial agree wood rotate mixture";

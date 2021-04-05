@@ -1,1 +1,1 @@
-var mnemonic = "loud amazing chase act hazard author dial bachelor orphan denial write neglect";
+var mnemonic = "load seminar kitchen offer patrol box trim dish smart track broom alone";

@@ -1,1 +1,1 @@
-var mnemonic = "bike purse tissue reward tube tray smooth birth off ocean swap virtual";
+var mnemonic = "travel motor engage fall scatter crush observe absurd marine leaf dilemma list";

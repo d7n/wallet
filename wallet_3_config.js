@@ -1,1 +1,1 @@
-var mnemonic = "delay long annual brave property version kitchen artist help recipe medal dash";
+var mnemonic = "eye lizard boat stumble script divide sudden couch only duty panel absurd";

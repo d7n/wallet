@@ -1,1 +1,1 @@
-var mnemonic = "judge surprise dinosaur weekend minimum kiss more world erupt bid opera ritual";
+var mnemonic = "once flee biology decade sauce visa place behind trick potato onion energy";

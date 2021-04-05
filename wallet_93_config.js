@@ -1,1 +1,1 @@
-var mnemonic = "screen train cheese asthma shoot thumb liar attitude ensure cross tuna oblige";
+var mnemonic = "tornado misery bullet deny praise sweet improve shoe green soul about tray";

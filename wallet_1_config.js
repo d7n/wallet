@@ -1,1 +1,1 @@
-var mnemonic = "build present stage flee scale book ball model live shed shine tongue";
+var mnemonic = "jar stereo patrol siege club luggage myth biology gossip recipe address lyrics";

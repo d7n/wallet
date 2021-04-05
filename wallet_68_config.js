@@ -1,1 +1,1 @@
-var mnemonic = "version cube cover math width version leader flavor mean torch captain seminar";
+var mnemonic = "escape rack occur dust view garment fan ancient shed coast movie shop";

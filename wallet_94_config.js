@@ -1,1 +1,1 @@
-var mnemonic = "hen reopen decide discover notable summer urban attitude approve noble spare disease";
+var mnemonic = "vintage cotton hunt warfare dash horn oil student smart amazing burden tuition";

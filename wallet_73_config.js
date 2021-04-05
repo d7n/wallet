@@ -1,1 +1,1 @@
-var mnemonic = "huge news income siren woman traffic situate carry icon anxiety peace equip";
+var mnemonic = "vehicle also husband extend unknown icon scan lucky retire install industry pet";

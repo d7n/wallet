@@ -1,1 +1,1 @@
-var mnemonic = "hole strike aware bulk traffic glad diagram cup hobby way solar effort";
+var mnemonic = "output must brand entry shift float talk dwarf clarify level clay grow";

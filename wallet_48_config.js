@@ -1,1 +1,1 @@
-var mnemonic = "license crime soon balance hub used system situate bleak whip actual can";
+var mnemonic = "use dwarf duty slide tattoo reject tube service there punch wasp wealth";

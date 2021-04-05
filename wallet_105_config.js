@@ -1,1 +1,1 @@
-var mnemonic = "husband work giggle tobacco people spoon fog rotate grape kit helmet eagle";
+var mnemonic = "theme betray lizard play taste chase sponsor play decide pledge rural cabbage";

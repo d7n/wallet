@@ -1,1 +1,1 @@
-var mnemonic = "planet pact input suspect hard sting pretty skill prepare tree charge degree";
+var mnemonic = "obvious horror concert ring mirror left trial usual lucky general behave carbon";

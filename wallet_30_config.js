@@ -1,1 +1,1 @@
-var mnemonic = "bounce sign give monster fruit focus invite recipe fetch social now sail";
+var mnemonic = "mind soft liar honey actress naive angle moon wear comfort civil indoor";

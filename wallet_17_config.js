@@ -1,1 +1,1 @@
-var mnemonic = "gossip wrist donor among add indoor attack basket erupt inhale cannon square";
+var mnemonic = "gown net destroy major code volume crisp flag party raven industry smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "village output case faint mass dial swarm front topic woman wink lawsuit";
+var mnemonic = "nice topic forget nest hobby better tourist sword equal auction invest scout";

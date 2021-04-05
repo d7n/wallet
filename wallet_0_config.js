@@ -1,1 +1,1 @@
-var mnemonic = "because sphere need endorse sock suffer nothing come park urban crime crowd";
+var mnemonic = "advance size flag case assault rhythm gun practice water style fork device";

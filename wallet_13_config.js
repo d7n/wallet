@@ -1,1 +1,1 @@
-var mnemonic = "govern start tiny entire little ceiling floor egg identify expect sphere wife";
+var mnemonic = "tube gas discover case audit poem object raise six never magic soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "major trim kiss talent snap shaft east electric chronic zero census door";
+var mnemonic = "three flip inherit acid double brick repair flight summer daring above slim";

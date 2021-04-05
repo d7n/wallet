@@ -1,1 +1,1 @@
-var mnemonic = "tool thumb mask intact escape repair decorate essence park fog mango misery";
+var mnemonic = "below fade maple athlete around whip fit fiber unveil body rebel penalty";

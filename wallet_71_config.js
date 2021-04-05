@@ -1,1 +1,1 @@
-var mnemonic = "symbol coyote enact rival mail manage idle copper uncle dose grit van";
+var mnemonic = "plunge project october pen ozone stove valve sugar tattoo repair fiscal tip";

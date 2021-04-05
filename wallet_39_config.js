@@ -1,1 +1,1 @@
-var mnemonic = "ensure topic lake diagram sheriff wide clap mixed affair core vendor bike";
+var mnemonic = "crazy senior deliver spy wheat few never inmate country hollow answer upon";

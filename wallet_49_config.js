@@ -1,1 +1,1 @@
-var mnemonic = "toe exist expose valid solve allow grant strike month neither relax memory";
+var mnemonic = "crew unhappy decide mimic infant awkward elder swear cage cry tilt rifle";

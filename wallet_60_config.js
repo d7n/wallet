@@ -1,1 +1,1 @@
-var mnemonic = "rubber column theory two buyer click kiwi umbrella order sugar cloth silk";
+var mnemonic = "discover hidden increase wing moment material lucky seven awful track paddle flock";

@@ -1,1 +1,1 @@
-var mnemonic = "attack duck number credit example indicate palm rifle good leave please excess";
+var mnemonic = "cheap tribe unusual mountain pulse author that prize opera sample script drip";

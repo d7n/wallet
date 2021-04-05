@@ -1,1 +1,1 @@
-var mnemonic = "produce margin hood vast this happy critic apart cradle crack organ endorse";
+var mnemonic = "second toss office mirror they music witness banana spoil throw destroy monster";

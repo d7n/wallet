@@ -1,1 +1,1 @@
-var mnemonic = "any enforce video name survey path blanket belt pudding window decorate rookie";
+var mnemonic = "narrow twelve boil dove filter guide garlic blur start stereo remind pride";

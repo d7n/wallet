@@ -1,1 +1,1 @@
-var mnemonic = "oblige ivory wolf physical motion wet rescue hold float option defy curious";
+var mnemonic = "team spin rude abandon filter element bike stage host laundry trust dutch";

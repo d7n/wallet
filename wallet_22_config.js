@@ -1,1 +1,1 @@
-var mnemonic = "modify blouse warfare street police parrot carpet keep garlic hungry dog valley";
+var mnemonic = "hamster ecology mixed nuclear elephant goose nuclear live oil miss always library";

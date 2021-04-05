@@ -1,1 +1,1 @@
-var mnemonic = "perfect consider dial cricket glad exact unusual question recycle olympic thought donkey";
+var mnemonic = "multiply lazy grab neglect list major box crack kingdom wrist symptom express";

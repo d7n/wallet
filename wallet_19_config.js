@@ -1,1 +1,1 @@
-var mnemonic = "park season spot warfare rough domain spend element silk annual myth pledge";
+var mnemonic = "great biology wealth check fiscal truck penalty kit enlist attend picture kingdom";

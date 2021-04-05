@@ -1,1 +1,1 @@
-var mnemonic = "rate shell bacon chest dentist fashion devote eyebrow holiday use siege genius";
+var mnemonic = "diary episode rough property cruel pumpkin elite camp hour mesh verify asset";

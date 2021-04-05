@@ -1,1 +1,1 @@
-var mnemonic = "rifle north true leave culture aim sand current denial energy scale trouble";
+var mnemonic = "buyer stay render inherit garlic gas thumb logic animal lend fly ancient";

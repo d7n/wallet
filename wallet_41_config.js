@@ -1,1 +1,1 @@
-var mnemonic = "possible mad unknown much derive finger purchase battle autumn cancel anger surprise";
+var mnemonic = "lottery minute galaxy canoe decide february swallow soap resemble object reduce high";

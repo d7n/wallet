@@ -1,1 +1,1 @@
-var mnemonic = "foam polar tank whale razor demand amount jump vital pyramid shove glove";
+var mnemonic = "theme walnut help pluck skate charge mansion salt math fall velvet protect";

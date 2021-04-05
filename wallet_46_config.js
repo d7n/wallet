@@ -1,1 +1,1 @@
-var mnemonic = "gasp mango middle ethics chapter obvious galaxy auction defy betray leave village";
+var mnemonic = "unfair mother ability climb relief fence present excess stone border ordinary ostrich";

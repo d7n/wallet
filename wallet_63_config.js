@@ -1,1 +1,1 @@
-var mnemonic = "hand maid matter artwork opinion parade swarm favorite infant issue scan cute";
+var mnemonic = "jazz net banana goddess runway solid desk cave fringe galaxy later spot";

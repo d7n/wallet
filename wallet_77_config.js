@@ -1,1 +1,1 @@
-var mnemonic = "report delay amount worry economy fury muscle screen mesh midnight rebuild eyebrow";
+var mnemonic = "vague course leisure glance catch pave proof nut top olympic welcome nerve";

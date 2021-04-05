@@ -1,1 +1,1 @@
-var mnemonic = "magnet belt bid sick ridge gauge tree march rely flash daring voyage";
+var mnemonic = "empty mean problem impulse salon keep dream tunnel voice alert toast mountain";

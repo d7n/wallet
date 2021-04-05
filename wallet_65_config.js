@@ -1,1 +1,1 @@
-var mnemonic = "oblige marble half barrel rain risk wisdom mechanic extend awful olympic abstract";
+var mnemonic = "define fly diesel plunge travel enable hope machine fog wrist early library";

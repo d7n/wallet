@@ -1,1 +1,1 @@
-var mnemonic = "build perfect throw jelly execute dismiss sponsor keep merge engage concert excuse";
+var mnemonic = "toast basket myth garden document ceiling vacuum rigid wink obtain develop hollow";

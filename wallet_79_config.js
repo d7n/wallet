@@ -1,1 +1,1 @@
-var mnemonic = "piece dream rain equip remain legal phrase south steel surge stamp pig";
+var mnemonic = "crumble elevator infant team slim extra private like tragic select sort wheat";

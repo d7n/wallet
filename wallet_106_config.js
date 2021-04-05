@@ -1,1 +1,1 @@
-var mnemonic = "scrub bargain destroy polar globe copper enroll devote sentence muscle paddle impact";
+var mnemonic = "own street almost blouse parent praise pretty soccer solve coast tumble camp";

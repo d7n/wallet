@@ -1,1 +1,1 @@
-var mnemonic = "remind demise moral treat same stool autumn hire design meadow donor inject";
+var mnemonic = "trouble isolate check convince fatigue zoo soap volume belt junk drift carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "source fatal toy craft camera version female excuse wine puppy true purchase";
+var mnemonic = "network comfort timber vibrant off nice puzzle gate prison recall disagree frown";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise diet company ignore shoe anger manage true slow budget zoo use";
+var mnemonic = "flee inspire lawn birth other quiz modify century shrug spice bring edge";

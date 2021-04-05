@@ -1,1 +1,1 @@
-var mnemonic = "oyster aerobic meadow tent donate original miss inject hero illness eight resource";
+var mnemonic = "clay congress best place village timber sight awful harbor february oven antenna";

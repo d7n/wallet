@@ -1,1 +1,1 @@
-var mnemonic = "base luggage wagon sword moon defense square minute divide giggle tragic proud";
+var mnemonic = "bitter finish opera one travel prize sunny orbit jazz clock rescue loan";

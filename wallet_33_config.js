@@ -1,1 +1,1 @@
-var mnemonic = "force legal night mirror brother dust friend echo mix trap crawl spatial";
+var mnemonic = "tuna chimney vibrant wrong vacuum object ability young else rhythm now mean";

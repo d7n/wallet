@@ -1,1 +1,1 @@
-var mnemonic = "economy put there degree heart ankle tooth note canyon bone short fine";
+var mnemonic = "prize menu next dinosaur wreck inquiry bar skull program account order spy";

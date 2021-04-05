@@ -1,1 +1,1 @@
-var mnemonic = "rate north street gadget clown topic truth wet reward boat shy arm";
+var mnemonic = "oxygen blossom siege doctor shop south teach degree there torch hip spray";

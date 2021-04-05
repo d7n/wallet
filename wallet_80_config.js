@@ -1,1 +1,1 @@
-var mnemonic = "scale connect soon path hat produce steel razor tower whale floor lunch";
+var mnemonic = "hold vocal exact slam pool input battle require spice hazard all gaze";

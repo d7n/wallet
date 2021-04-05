@@ -1,1 +1,1 @@
-var mnemonic = "theme frog only toss burden still offer refuse volcano royal topic twenty";
+var mnemonic = "gate indoor emerge north beach giant access range bicycle situate labor raven";

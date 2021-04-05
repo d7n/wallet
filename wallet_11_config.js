@@ -1,1 +1,1 @@
-var mnemonic = "polar slab ozone wish scene domain trade donor coffee plunge advice enter";
+var mnemonic = "okay surface lava region upgrade base theory mammal master rare primary knee";

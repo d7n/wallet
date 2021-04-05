@@ -1,1 +1,1 @@
-var mnemonic = "slice inject shrug health album smoke seven naive orphan obey mansion dilemma";
+var mnemonic = "lock icon galaxy method atom plunge sponsor drip margin forget banana submit";
