@@ -1,1 +1,1 @@
-var mnemonic = "entire lock trash electric smile away april ripple indoor syrup laundry future";
+var mnemonic = "notable regret item smooth fat include curious need feel gesture install stool";

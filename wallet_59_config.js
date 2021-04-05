@@ -1,1 +1,1 @@
-var mnemonic = "motion hope slender behind impose friend blouse half build like news bacon";
+var mnemonic = "fame room rice cradle bike almost cry despair quiz quarter fence alley";

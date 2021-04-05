@@ -1,1 +1,1 @@
-var mnemonic = "champion absorb mosquito panel safe split robot advice vacant fossil erase monkey";
+var mnemonic = "media ride excite safe spawn immense box bread hand genuine install choose";

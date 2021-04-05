@@ -1,1 +1,1 @@
-var mnemonic = "wonder domain ridge myth fantasy allow cereal detect voice fame squirrel palace";
+var mnemonic = "owner debate luggage scorpion cactus wisdom winter latin hip steel current east";

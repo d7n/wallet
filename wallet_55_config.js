@@ -1,1 +1,1 @@
-var mnemonic = "fiscal moon bulk verify stick source west glad square random opinion camera";
+var mnemonic = "better use gauge sister lawn blanket bulb table false apology lottery okay";

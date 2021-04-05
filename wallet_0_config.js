@@ -1,1 +1,1 @@
-var mnemonic = "quiz puppy ginger inch dinner cream sustain evolve capable text call mammal";
+var mnemonic = "project embark shine tip hollow blind short enemy board leave tiny leaf";

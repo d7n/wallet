@@ -1,1 +1,1 @@
-var mnemonic = "mimic wreck receive recipe habit change praise tail crater attend humor leisure";
+var mnemonic = "mistake option basic sponsor gorilla violin inhale silent crawl detail track festival";

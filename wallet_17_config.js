@@ -1,1 +1,1 @@
-var mnemonic = "close hole mix scrub goose target butter follow walk gain fetch add";
+var mnemonic = "eight food rose cushion mango shed fiction because gold promote purity lyrics";

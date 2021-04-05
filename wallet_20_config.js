@@ -1,1 +1,1 @@
-var mnemonic = "blame carpet feature task spider liquid effort lady blade spell oppose anxiety";
+var mnemonic = "dizzy celery volume vital mention frost faint giraffe file pepper medal toe";

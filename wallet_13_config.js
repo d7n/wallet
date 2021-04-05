@@ -1,1 +1,1 @@
-var mnemonic = "domain own library arena alpha beach poverty open cash head basket best";
+var mnemonic = "pet cat gorilla inmate village raise benefit beauty first praise total abstract";

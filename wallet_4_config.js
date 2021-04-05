@@ -1,1 +1,1 @@
-var mnemonic = "collect window sentence inherit action cruise mystery card appear avoid mad depend";
+var mnemonic = "box orbit order salon rare laugh ugly pistol begin hire hidden orange";

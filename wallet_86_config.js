@@ -1,1 +1,1 @@
-var mnemonic = "crew pool stick can quarter maid hero filter capable because exact pigeon";
+var mnemonic = "subway radar raven blouse type energy below legend oil bench slide lazy";

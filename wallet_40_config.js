@@ -1,1 +1,1 @@
-var mnemonic = "apple portion surge caution cause zone express road kangaroo mix success book";
+var mnemonic = "surge increase slogan domain wedding frozen gentle tip recipe decide valve teach";

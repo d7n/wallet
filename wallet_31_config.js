@@ -1,1 +1,1 @@
-var mnemonic = "boil swap giraffe target universe road poem fancy toddler chicken amount warrior";
+var mnemonic = "summer stadium exercise strategy above duck flavor estate behind solid federal panda";

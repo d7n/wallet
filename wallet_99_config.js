@@ -1,1 +1,1 @@
-var mnemonic = "spell large rally hair awake doctor clerk soup lounge essence update yellow";
+var mnemonic = "adapt script layer kind cloth bunker easy enough tide neither goose pool";

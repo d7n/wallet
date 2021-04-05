@@ -1,1 +1,1 @@
-var mnemonic = "menu matrix panel original twelve walk ivory quarter level denial large weird";
+var mnemonic = "rival crowd okay urge impulse entry life step street furnace oblige remain";

@@ -1,1 +1,1 @@
-var mnemonic = "try enemy cabbage nasty tape pluck guess lava style shed grass popular";
+var mnemonic = "stick blame empty remain inquiry jeans pet rifle silent shy expand patient";

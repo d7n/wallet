@@ -1,1 +1,1 @@
-var mnemonic = "moral special display device curious session green edit jealous peasant time lady";
+var mnemonic = "list sentence program put visit hip fragile wreck build urge team all";

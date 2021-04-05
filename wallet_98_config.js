@@ -1,1 +1,1 @@
-var mnemonic = "attract relax snack cliff guard cabbage width consider harvest scan phone educate";
+var mnemonic = "only jungle disease draw business victory humble spirit sadness quote super magic";

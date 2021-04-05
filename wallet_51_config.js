@@ -1,1 +1,1 @@
-var mnemonic = "sniff glad prefer silk rough term comic innocent unfold science spy borrow";
+var mnemonic = "coin notice famous find shine vanish second afford hospital october foil clock";

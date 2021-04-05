@@ -1,1 +1,1 @@
-var mnemonic = "slot bind circle whale van pear siege awkward regret trap popular drink";
+var mnemonic = "other stove lobster area army column oak weird radar early merge toy";

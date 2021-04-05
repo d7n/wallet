@@ -1,1 +1,1 @@
-var mnemonic = "oven crazy magic skate erupt airport into cupboard genius tired reunion awake";
+var mnemonic = "purchase hamster smart unique ice analyst draw daring please fuel viable dizzy";

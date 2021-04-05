@@ -1,1 +1,1 @@
-var mnemonic = "large first version brave donate joke pear primary denial olive problem leave";
+var mnemonic = "useless entry match horse indicate rapid skate rent oak floor wide velvet";

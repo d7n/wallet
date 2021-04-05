@@ -1,1 +1,1 @@
-var mnemonic = "satisfy leisure jar lesson unveil intact school enter bring kite stable proof";
+var mnemonic = "demand path alley mom tell canvas use vendor kid across raccoon viable";

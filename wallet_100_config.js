@@ -1,1 +1,1 @@
-var mnemonic = "sound repeat trap blind advance wait prepare equip puppy bus company tragic";
+var mnemonic = "member vapor scrub soft illegal atom wild hedgehog limit like decide emotion";

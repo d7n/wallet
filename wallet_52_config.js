@@ -1,1 +1,1 @@
-var mnemonic = "dawn life slender sound castle stuff mammal unknown all journey rely carpet";
+var mnemonic = "hammer tilt ankle novel fashion around eye fancy entry chat path census";

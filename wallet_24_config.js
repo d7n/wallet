@@ -1,1 +1,1 @@
-var mnemonic = "treat light palace inflict aunt vanish lumber cargo daughter fork ceiling forget";
+var mnemonic = "reopen sock coral basic erupt siren obey wasp inner swift keep mutual";

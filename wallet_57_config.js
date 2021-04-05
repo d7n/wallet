@@ -1,1 +1,1 @@
-var mnemonic = "inch jacket taste hungry rule borrow invest unfair enable midnight inquiry foot";
+var mnemonic = "exhibit patch salt absent catalog dog father story fix riot story pilot";

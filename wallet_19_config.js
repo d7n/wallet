@@ -1,1 +1,1 @@
-var mnemonic = "estate master fashion nominee absurd basket upper because lounge insect poet frost";
+var mnemonic = "combine win benefit beauty insect trust special relax chalk general arrest female";

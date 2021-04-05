@@ -1,1 +1,1 @@
-var mnemonic = "now frown piano same broccoli sponsor rural project edit apology curve scare";
+var mnemonic = "order you woman wrap feed mobile slight grunt gauge bar soap topple";

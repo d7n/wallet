@@ -1,1 +1,1 @@
-var mnemonic = "multiply safe athlete invite bid radio giraffe borrow lizard add coffee attract";
+var mnemonic = "grunt exist female top target outdoor erupt drum tail actress ginger unknown";

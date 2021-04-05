@@ -1,1 +1,1 @@
-var mnemonic = "quiz mule identify slab among village rail endorse machine bracket tape case";
+var mnemonic = "lonely humble wolf idle captain execute time stomach soda mask remain unfold";

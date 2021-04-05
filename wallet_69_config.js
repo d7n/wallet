@@ -1,1 +1,1 @@
-var mnemonic = "write earth kangaroo remind dinner twelve target rug false flip claw tube";
+var mnemonic = "moral garden moon dance lend rhythm injury enjoy sphere write candy level";

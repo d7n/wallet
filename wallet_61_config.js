@@ -1,1 +1,1 @@
-var mnemonic = "expect garment head valid horror update lava piano ripple exchange east ranch";
+var mnemonic = "merge voyage yard liberty burden connect satisfy capital cave metal oxygen clog";

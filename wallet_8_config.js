@@ -1,1 +1,1 @@
-var mnemonic = "decide jazz broken tube crouch obvious laundry judge powder inner diet master";
+var mnemonic = "bean rude scan reform skirt initial frequent ancient silent boring doll address";

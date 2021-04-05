@@ -1,1 +1,1 @@
-var mnemonic = "exotic owner someone horn call laugh siren smile attitude upon hair observe";
+var mnemonic = "sand write cheap rose peasant fee wrestle ensure cushion clock copper blush";

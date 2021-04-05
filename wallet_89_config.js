@@ -1,1 +1,1 @@
-var mnemonic = "math damp puppy flat leader mind yellow warrior donate curtain boss joy";
+var mnemonic = "ketchup box promote math parrot air round valve observe supreme faint tuition";

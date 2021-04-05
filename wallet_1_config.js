@@ -1,1 +1,1 @@
-var mnemonic = "sweet alien spoon polar puppy banner buzz future pulp obvious curtain address";
+var mnemonic = "eight hurry abandon celery feed issue slogan glove solution model present life";

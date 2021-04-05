@@ -1,1 +1,1 @@
-var mnemonic = "tourist sell service point pride embrace success mechanic oyster pause bring brother";
+var mnemonic = "pond obtain wish social grid require tuition topple better because result wasp";

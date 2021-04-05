@@ -1,1 +1,1 @@
-var mnemonic = "future potato stamp chalk tired risk adjust outside sudden run bitter admit";
+var mnemonic = "wrap fiction check undo track tribe depth resource enact sock else people";

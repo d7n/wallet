@@ -1,1 +1,1 @@
-var mnemonic = "celery frozen taste stamp final lemon ring congress pilot ankle hold beyond";
+var mnemonic = "police mesh dune sheriff caution match jaguar priority absurd gorilla party script";

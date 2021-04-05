@@ -1,1 +1,1 @@
-var mnemonic = "announce song zone dragon shaft rebuild dynamic forest tennis human never embrace";
+var mnemonic = "senior pool side toast equip stamp grid grow hungry wet price roast";

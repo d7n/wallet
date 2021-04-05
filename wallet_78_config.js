@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit motor latin machine chapter goddess system cupboard couch morning inform oven";
+var mnemonic = "economy cattle seat giraffe useless latin claim quiz witness width seminar master";

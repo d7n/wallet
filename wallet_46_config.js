@@ -1,1 +1,1 @@
-var mnemonic = "valid mobile tackle property forget describe like rhythm wish force silly thing";
+var mnemonic = "later ketchup behind velvet unit palace enhance bachelor miss priority roof veteran";

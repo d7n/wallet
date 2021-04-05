@@ -1,1 +1,1 @@
-var mnemonic = "skate tone message punch quit cabin robot faculty stove deal fuel palm";
+var mnemonic = "border acoustic gossip neutral album model click start canal drill hip produce";

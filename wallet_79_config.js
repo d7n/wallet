@@ -1,1 +1,1 @@
-var mnemonic = "prefer mad problem fragile impulse saddle amazing weekend like rich rather jazz";
+var mnemonic = "monitor chronic recycle romance outer cousin rug cover fashion faith scorpion powder";

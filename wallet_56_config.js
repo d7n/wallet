@@ -1,1 +1,1 @@
-var mnemonic = "rigid peasant vote obscure twelve abstract improve casual vessel autumn acoustic shove";
+var mnemonic = "lady now trade panda inherit repair obscure add person autumn nothing spray";

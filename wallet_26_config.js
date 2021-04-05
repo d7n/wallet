@@ -1,1 +1,1 @@
-var mnemonic = "harbor twice tree usage produce laundry imitate lesson method december gift beyond";
+var mnemonic = "similar dance ivory country pelican swear upon card cereal all puppy abuse";

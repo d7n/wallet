@@ -1,1 +1,1 @@
-var mnemonic = "aspect promote uncover equip embrace carpet act meat elevator world divert prize";
+var mnemonic = "tornado exclude mushroom owner sadness senior harvest pause narrow badge next fatigue";

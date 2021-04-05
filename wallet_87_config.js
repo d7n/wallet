@@ -1,1 +1,1 @@
-var mnemonic = "globe romance height book search tribe wrap anger smart recipe flee riot";
+var mnemonic = "maid spider shock unveil orchard flat behind race have young together police";

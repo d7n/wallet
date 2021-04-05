@@ -1,1 +1,1 @@
-var mnemonic = "soldier observe fiction screen blossom pole metal drop away cage peace usual";
+var mnemonic = "silk track race assault earth cruel swarm bag harsh wasp slam shallow";

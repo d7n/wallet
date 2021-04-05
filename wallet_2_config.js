@@ -1,1 +1,1 @@
-var mnemonic = "essay until boy dice fresh answer emotion cluster taxi hurdle trip sock";
+var mnemonic = "double road cube over around absurd lunar visit correct hollow tiger clown";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey machine early brief orchard basic inform phrase bitter discover key vessel";
+var mnemonic = "van flower still remind taxi clean owner deer diary kit scissors follow";

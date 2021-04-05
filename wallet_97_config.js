@@ -1,1 +1,1 @@
-var mnemonic = "hood giant upgrade happy coconut anger hamster oxygen afraid disagree rate panic";
+var mnemonic = "gauge series subway ribbon foil mule delay emotion proof pill kiwi miss";

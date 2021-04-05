@@ -1,1 +1,1 @@
-var mnemonic = "soon above type verb bar clap thank unveil dignity solar job find";
+var mnemonic = "reveal project school erosion lift public save argue danger delay rare only";

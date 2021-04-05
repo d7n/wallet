@@ -1,1 +1,1 @@
-var mnemonic = "will achieve marble bless genuine degree excite crowd gas pole route salute";
+var mnemonic = "rule duck coil ride can item useful scorpion tomato inquiry around render";

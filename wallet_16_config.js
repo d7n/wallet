@@ -1,1 +1,1 @@
-var mnemonic = "negative knock first crush thumb ice bone couple broken argue horn entry";
+var mnemonic = "satoshi float aim fatigue genius vivid power dirt tip strong situate science";

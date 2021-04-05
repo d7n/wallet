@@ -1,1 +1,1 @@
-var mnemonic = "stomach fossil envelope clean panic cash pool accuse shoe market glare rifle";
+var mnemonic = "gesture burger magic prepare amateur car arm mystery place you verify sunset";

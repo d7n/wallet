@@ -1,1 +1,1 @@
-var mnemonic = "bright club material future rough permit install write page menu abuse orphan";
+var mnemonic = "trouble follow trust price agree trouble dirt atom draft waste calm bird";

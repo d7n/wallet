@@ -1,1 +1,1 @@
-var mnemonic = "civil valley later someone maid pledge since forum chat donate taste analyst";
+var mnemonic = "remind gossip illness vicious comic still crowd novel project vote gorilla setup";

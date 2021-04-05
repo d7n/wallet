@@ -1,1 +1,1 @@
-var mnemonic = "myself orient glare toward turkey winner fix field glare foster scan inch";
+var mnemonic = "wrestle pond critic improve cable snow fall apple tenant cement feed unfold";

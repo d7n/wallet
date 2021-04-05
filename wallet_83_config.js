@@ -1,1 +1,1 @@
-var mnemonic = "empty hockey rebel boss east coin begin lonely fall occur flower dress";
+var mnemonic = "priority globe hurry age brown spatial pull repeat absorb baby nature tiger";

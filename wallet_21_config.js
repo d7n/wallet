@@ -1,1 +1,1 @@
-var mnemonic = "original hurt ceiling hub leader sweet seek switch dilemma crop beach paddle";
+var mnemonic = "jungle canoe fringe anchor uniform combine violin crystal brown input room citizen";

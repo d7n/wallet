@@ -1,1 +1,1 @@
-var mnemonic = "addict finish among machine text very smile shoot essay badge doll member";
+var mnemonic = "suspect warm private network siege behave raise curious grit party ranch cream";

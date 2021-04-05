@@ -1,1 +1,1 @@
-var mnemonic = "vanish abandon sight betray habit cloud region invite improve interest sun easy";
+var mnemonic = "law awkward verb cargo gold pill hip crop eternal focus web camera";

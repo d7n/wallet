@@ -1,1 +1,1 @@
-var mnemonic = "guilt sentence ridge garment latin plate virtual hello chief ill switch alert";
+var mnemonic = "height sorry come safe leopard match purpose police note lake sunset brick";

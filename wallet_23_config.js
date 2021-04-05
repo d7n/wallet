@@ -1,1 +1,1 @@
-var mnemonic = "crush merit spot mistake shuffle ladder used ostrich catalog aerobic pipe surface";
+var mnemonic = "nephew have clip economy tunnel debris suspect siege shaft hurry excess grocery";

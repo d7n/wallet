@@ -1,1 +1,1 @@
-var mnemonic = "estate zoo margin today diet cram topple region mystery birth service emotion";
+var mnemonic = "attend smoke index strike deny custom banana pistol long idea bonus route";

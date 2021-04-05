@@ -1,1 +1,1 @@
-var mnemonic = "describe rain shoulder wood unit magnet pig scale consider found crack credit";
+var mnemonic = "volume victory elbow robust lumber day elegant bleak poverty diesel gap dice";

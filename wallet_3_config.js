@@ -1,1 +1,1 @@
-var mnemonic = "cloth label element cement danger oven garlic wedding scissors gossip copper monster";
+var mnemonic = "turn box song merge genius fold exhibit veteran dumb garlic kind gym";

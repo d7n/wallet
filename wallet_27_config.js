@@ -1,1 +1,1 @@
-var mnemonic = "fossil result shift lock rug remove nerve real there throw physical industry";
+var mnemonic = "write novel pencil asthma example model benefit great hungry clarify inside stove";

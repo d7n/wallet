@@ -1,1 +1,1 @@
-var mnemonic = "view wheel share pelican leader much buffalo describe butter creek sister someone";
+var mnemonic = "course potato nuclear swim trade grunt miss live glance tired account grocery";

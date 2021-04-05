@@ -1,1 +1,1 @@
-var mnemonic = "envelope need suit chase hurdle track subway twenty view february fun economy";
+var mnemonic = "act post cable lounge wave wire churn zero soon mushroom trial trim";

@@ -1,1 +1,1 @@
-var mnemonic = "empower sheriff grocery exile miss dial citizen sausage mountain rose corn cement";
+var mnemonic = "bounce kick detect barrel click donkey cereal vault squirrel orange wage another";

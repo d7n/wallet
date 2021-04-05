@@ -1,1 +1,1 @@
-var mnemonic = "business absorb where federal grain spin such soldier corn basic sunny volume";
+var mnemonic = "forum barrel fetch movie slam unfair student practice original mimic chest grain";

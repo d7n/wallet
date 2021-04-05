@@ -1,1 +1,1 @@
-var mnemonic = "they way cube rebel coil weapon skin orchard repair fury people wine";
+var mnemonic = "observe mouse act profit property argue struggle actor logic master acquire carry";

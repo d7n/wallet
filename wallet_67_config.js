@@ -1,1 +1,1 @@
-var mnemonic = "baby utility hurry similar crane method tourist verify inmate album address patch";
+var mnemonic = "myself soccer own radio easily tide garden track lecture plastic melt tag";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel bottom expose purse draft blur stool lizard estate narrow wood critic";
+var mnemonic = "dumb minimum slight tribe talent shell limit clever nasty fire day dragon";

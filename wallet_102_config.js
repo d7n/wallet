@@ -1,1 +1,1 @@
-var mnemonic = "absurd cash daring pluck aunt dust clog account spy later mirror harsh";
+var mnemonic = "flight virus brass decrease cruise save giraffe vital lunar spot sure letter";

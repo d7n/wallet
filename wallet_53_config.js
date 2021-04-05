@@ -1,1 +1,1 @@
-var mnemonic = "hip supreme country review thrive long visual kiss assault mistake never various";
+var mnemonic = "install replace monitor bring gadget antenna ancient wave gauge scare main memory";

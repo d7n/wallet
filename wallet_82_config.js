@@ -1,1 +1,1 @@
-var mnemonic = "shoot reward black voyage genius tip hurry muffin cement muffin clinic bracket";
+var mnemonic = "dignity reveal unusual more prefer kind miss cube enable purpose wide capable";

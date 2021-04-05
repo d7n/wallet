@@ -1,1 +1,1 @@
-var mnemonic = "occur all butter acquire proud ill language gap hour air blouse torch";
+var mnemonic = "budget naive remind weapon rare tomato upset track judge provide alter dizzy";

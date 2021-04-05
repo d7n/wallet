@@ -1,1 +1,1 @@
-var mnemonic = "innocent empower silly capital suffer gold unit field animal stay child vivid";
+var mnemonic = "auction lady vibrant borrow pattern hint good hire beauty cruel become ahead";
