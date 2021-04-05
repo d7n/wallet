@@ -1,1 +1,1 @@
-var mnemonic = "believe permit cream slogan gate earn purchase excuse tower siren east armed";
+var mnemonic = "frequent lake know arrow wonder female ginger swing valid future usage clip";

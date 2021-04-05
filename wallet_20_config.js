@@ -1,1 +1,1 @@
-var mnemonic = "piano today average cactus festival immense ride know casual infant huge harbor";
+var mnemonic = "science forest ball matter cycle swim blue village you economy shock dash";

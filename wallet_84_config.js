@@ -1,1 +1,1 @@
-var mnemonic = "young grunt enable novel tip effort divorce across noodle kick original leisure";
+var mnemonic = "exhibit fury inflict tilt blush mule sense front when armor divert spoon";

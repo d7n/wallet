@@ -1,1 +1,1 @@
-var mnemonic = "cousin day notice current people replace laundry ghost reform unique luxury twenty";
+var mnemonic = "actress obtain flash mention arrest shove strike crash unaware vapor labor foster";

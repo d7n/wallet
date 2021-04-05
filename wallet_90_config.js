@@ -1,1 +1,1 @@
-var mnemonic = "fortune answer blur fluid switch beauty view bundle viable drop pizza wild";
+var mnemonic = "primary next limb photo twist violin team across like early sport distance";

@@ -1,1 +1,1 @@
-var mnemonic = "stay harbor salad message marriage chronic actual piece afraid minor cloud cloud";
+var mnemonic = "iron october right shed mouse measure clean sweet wrap model crumble faint";

@@ -1,1 +1,1 @@
-var mnemonic = "climb tobacco hat heavy return maid squirrel where person drum suggest mother";
+var mnemonic = "section aisle excuse talent lend bleak orbit trend explain off worth cruel";

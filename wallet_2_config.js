@@ -1,1 +1,1 @@
-var mnemonic = "copy expand cram bracket matrix marble violin boss parent laundry country fan";
+var mnemonic = "muscle heavy uniform estate jealous chicken mechanic twenty spatial awesome glad gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "left maximum uncle almost suspect gown method tiger wife manual tape art";
+var mnemonic = "upgrade cause shoulder cage subway project any wrestle airport comic sheriff health";

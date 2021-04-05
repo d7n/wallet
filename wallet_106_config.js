@@ -1,1 +1,1 @@
-var mnemonic = "legend speed heart plate pact library fit else buffalo stage weird spread";
+var mnemonic = "person more have coffee face absurd gravity roof maple uniform rib pottery";

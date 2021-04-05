@@ -1,1 +1,1 @@
-var mnemonic = "dove faint kit toward dove bulb demand fine asthma random soup legend";
+var mnemonic = "walk action artwork initial sketch bring arrange another december merge vote ball";

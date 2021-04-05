@@ -1,1 +1,1 @@
-var mnemonic = "vote payment palace slush custom stand entry green famous already certain process";
+var mnemonic = "wink section later must pyramid jazz appear derive desk very argue slab";

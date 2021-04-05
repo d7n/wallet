@@ -1,1 +1,1 @@
-var mnemonic = "shadow satoshi lunar denial helmet answer mix bulb cabbage scissors quick educate";
+var mnemonic = "stamp window path silk run usual cannon silk area rib comic chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "wood object strike device across hire world depend green erode solution drill";
+var mnemonic = "matter music nature camp describe boil review situate dial love chief width";

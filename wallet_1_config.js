@@ -1,1 +1,1 @@
-var mnemonic = "link wolf attitude donor roast omit boat execute awkward neck friend topic";
+var mnemonic = "size goose village tribe autumn best end remain nerve defy focus prefer";

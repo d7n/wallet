@@ -1,1 +1,1 @@
-var mnemonic = "reason bamboo mix olympic recycle enough image side lock trumpet noble cake";
+var mnemonic = "festival embody verify thumb verify donkey chase service embrace snack coach deposit";

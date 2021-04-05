@@ -1,1 +1,1 @@
-var mnemonic = "want discover seminar make biology simple cute snack ankle antique tribe tone";
+var mnemonic = "inject blush pink truck dinosaur forest coin always release left misery card";

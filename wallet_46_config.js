@@ -1,1 +1,1 @@
-var mnemonic = "claw capital lady stumble company weapon half film praise obey afford pluck";
+var mnemonic = "oblige beef wasp bean ceiling upon ice media mechanic borrow verify conduct";

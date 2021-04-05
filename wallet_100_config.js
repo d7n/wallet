@@ -1,1 +1,1 @@
-var mnemonic = "elephant pulse inmate camera addict grape hand safe fiction margin empty pond";
+var mnemonic = "gossip lucky world round squeeze fortune cover okay party fetch fresh divert";

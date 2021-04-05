@@ -1,1 +1,1 @@
-var mnemonic = "ski laptop palm vacant flag afraid cute cheap census piano excuse walnut";
+var mnemonic = "mixture beauty elephant grape purchase model minimum risk topple rural pattern sunset";

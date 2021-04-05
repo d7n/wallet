@@ -1,1 +1,1 @@
-var mnemonic = "entire panel cream annual rural shift birth escape ugly frequent wealth faculty";
+var mnemonic = "police want emotion unhappy deputy volume obey program advance burst source air";

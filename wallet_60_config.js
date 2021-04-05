@@ -1,1 +1,1 @@
-var mnemonic = "expand honey rapid valve face vacuum owner spray audit syrup thrive lens";
+var mnemonic = "leopard sword solid ecology bean rule fame garbage pledge off mansion seek";

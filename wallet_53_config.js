@@ -1,1 +1,1 @@
-var mnemonic = "truly tomato smoke never leg first piano friend weasel napkin auto paddle";
+var mnemonic = "update rare fee cruise donkey flock poet sunset option then infant shoot";

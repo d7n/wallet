@@ -1,1 +1,1 @@
-var mnemonic = "current gap ticket canyon frost lounge embrace pole height dismiss faint wood";
+var mnemonic = "chief breeze goat drill crouch route drum dice finish upgrade panic object";

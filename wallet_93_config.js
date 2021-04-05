@@ -1,1 +1,1 @@
-var mnemonic = "latin enemy rate syrup plate chunk trophy excuse end peanut mystery afford";
+var mnemonic = "coffee gravity recipe stuff pet enough prevent verb trophy first panel truth";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor region supreme buffalo loyal cliff mule party artefact try ill bonus";
+var mnemonic = "spin number wreck pilot grape raven result sound collect clerk sock erode";

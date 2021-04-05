@@ -1,1 +1,1 @@
-var mnemonic = "dilemma attract pen moment kitten assume fall charge cram left crane liberty";
+var mnemonic = "follow dwarf exhibit situate panel still two twenty height danger cotton salon";

@@ -1,1 +1,1 @@
-var mnemonic = "grab season plug special address bone pass usage veteran forget black embrace";
+var mnemonic = "scheme appear faculty lounge grow antenna what wrap grass filter satisfy tone";

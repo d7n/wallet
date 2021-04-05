@@ -1,1 +1,1 @@
-var mnemonic = "onion ask cheese february kite drastic shove access note lounge away sudden";
+var mnemonic = "glad head report level claim typical chunk auction narrow panic crowd grab";

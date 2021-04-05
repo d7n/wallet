@@ -1,1 +1,1 @@
-var mnemonic = "bring powder chronic arena clarify stadium diet nephew neutral helmet short riot";
+var mnemonic = "author insect crop order horse sample ocean shell wife token decide gain";

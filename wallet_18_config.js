@@ -1,1 +1,1 @@
-var mnemonic = "diagram lounge same jazz track dust celery energy lemon rapid wrist walnut";
+var mnemonic = "member isolate eye useless gap entire focus dynamic pull uncle coast question";

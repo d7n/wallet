@@ -1,1 +1,1 @@
-var mnemonic = "enforce thunder duty miracle vintage great ticket luxury broom library citizen filter";
+var mnemonic = "option blast bless trumpet glide poet cannon inhale soccer awkward artwork surge";

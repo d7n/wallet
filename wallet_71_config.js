@@ -1,1 +1,1 @@
-var mnemonic = "produce life double priority alcohol casino receive orbit link size repair penalty";
+var mnemonic = "tag bitter arrive model fatal ugly squirrel lazy various pepper actor laugh";

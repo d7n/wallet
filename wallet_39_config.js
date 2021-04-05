@@ -1,1 +1,1 @@
-var mnemonic = "hollow language above increase syrup reflect prosper glare wrong spread merry cruel";
+var mnemonic = "example typical buffalo decide shrimp truly legal region dumb stereo palace siren";

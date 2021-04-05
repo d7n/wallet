@@ -1,1 +1,1 @@
-var mnemonic = "hobby useless dice puppy execute culture among shallow peace affair gloom frog";
+var mnemonic = "elephant net hold giggle husband hurry jump heart horse fiscal brave jar";

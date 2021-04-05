@@ -1,1 +1,1 @@
-var mnemonic = "produce topple critic exhibit under photo talent income purpose enroll true suit";
+var mnemonic = "stool layer hire asthma skin soup know scrub tooth mind volcano erase";

@@ -1,1 +1,1 @@
-var mnemonic = "entry ship private hidden arrive wall twenty cupboard wrestle suggest culture service";
+var mnemonic = "recycle chest hero fever soup sustain debris knife remember access black afford";

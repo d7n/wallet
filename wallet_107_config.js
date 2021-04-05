@@ -1,1 +1,1 @@
-var mnemonic = "monkey recall require apart knock butter rather system because cream bundle twice";
+var mnemonic = "flush tape enable man galaxy blast cattle unveil impact marriage exhibit canyon";

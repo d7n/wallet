@@ -1,1 +1,1 @@
-var mnemonic = "silk number catch swear region harsh garbage sport bleak game inflict hope";
+var mnemonic = "crack direct disease flash debris evil hollow quantum youth loud raven harsh";

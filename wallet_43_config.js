@@ -1,1 +1,1 @@
-var mnemonic = "tilt saddle despair cook tail kiss begin silver left idea case lunch";
+var mnemonic = "broken ugly pen catch expire eagle visa curve twelve coral steak century";

@@ -1,1 +1,1 @@
-var mnemonic = "dress theme cactus notice enforce over issue success delay novel boost goddess";
+var mnemonic = "rail stool pencil unhappy lock else more corn media evoke duty yellow";

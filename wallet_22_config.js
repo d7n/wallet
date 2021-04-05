@@ -1,1 +1,1 @@
-var mnemonic = "tunnel twist inch order core inch thumb tool next iron game fine";
+var mnemonic = "name scrub episode leader must pole bike gain another deer embody lake";

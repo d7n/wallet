@@ -1,1 +1,1 @@
-var mnemonic = "truly street dilemma damp suffer planet rally tomato churn order acquire eternal";
+var mnemonic = "time foam unable fragile volume reject notice trust sniff penalty around shadow";

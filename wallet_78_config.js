@@ -1,1 +1,1 @@
-var mnemonic = "cloth slide tourist put promote mushroom doctor pigeon half confirm drink board";
+var mnemonic = "orchard spare general trust deal rookie wall tone ethics convince champion clay";

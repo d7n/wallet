@@ -1,1 +1,1 @@
-var mnemonic = "route seven food gap sure utility glance stuff chef illegal great liar";
+var mnemonic = "evoke regret puppy prosper trumpet check throw zoo resemble this outside phone";

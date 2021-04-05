@@ -1,1 +1,1 @@
-var mnemonic = "ugly limit monkey myself dose cause mouse draft beyond smile dose chair";
+var mnemonic = "volcano only peace wire twin unfair monkey grunt school dune milk tape";

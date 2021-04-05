@@ -1,1 +1,1 @@
-var mnemonic = "donkey leg mandate entire what coyote grit tomorrow cotton ring regret curtain";
+var mnemonic = "ring december slice smoke apart fine crop word autumn flat idle sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle scrap bag custom brisk oval neck collect permit jungle night hard";
+var mnemonic = "odor decrease term pig junior spring auto indoor sense tail year inner";

@@ -1,1 +1,1 @@
-var mnemonic = "private pole pioneer decline swarm home they vacant engage smooth speak churn";
+var mnemonic = "check maple bridge case regular kiwi plastic beauty cigar cross guide any";

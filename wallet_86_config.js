@@ -1,1 +1,1 @@
-var mnemonic = "taxi cycle fetch sign drive birth joy van happy mango find cliff";
+var mnemonic = "cheap dose recipe permit series lucky essence sing category cushion opera ribbon";

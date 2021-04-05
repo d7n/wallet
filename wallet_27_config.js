@@ -1,1 +1,1 @@
-var mnemonic = "action boring shy film recycle airport song harsh cherry shoot very yard";
+var mnemonic = "kind cost swap quarter valve valley dust quality truly manage august goat";

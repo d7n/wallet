@@ -1,1 +1,1 @@
-var mnemonic = "rude silver maze rather offer virus gain track anchor coral okay road";
+var mnemonic = "oblige tragic wedding canyon brown special color romance party click chase travel";

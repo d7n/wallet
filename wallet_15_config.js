@@ -1,1 +1,1 @@
-var mnemonic = "obey produce excuse custom cram large decrease animal unable reward version debris";
+var mnemonic = "animal consider sorry chimney magic gentle build glory marriage admit avoid brisk";

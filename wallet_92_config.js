@@ -1,1 +1,1 @@
-var mnemonic = "obscure zebra awful garlic surround cloud aspect shock pudding tuition reveal soap";
+var mnemonic = "imitate govern across town expose baby scrap beyond success degree cloth column";

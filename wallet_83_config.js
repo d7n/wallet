@@ -1,1 +1,1 @@
-var mnemonic = "jump typical flag utility boss wide monitor attitude velvet plate metal grain";
+var mnemonic = "imitate april clown curve fly suspect impose answer fox cram fetch cry";

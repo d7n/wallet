@@ -1,1 +1,1 @@
-var mnemonic = "size metal harvest sniff tail harvest flock boy trick human ready sense";
+var mnemonic = "random slender swallow valley upset silver boss obvious casino drip eagle develop";

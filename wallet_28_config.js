@@ -1,1 +1,1 @@
-var mnemonic = "cigar rebel merry attack zero upset element fork slight brief range deputy";
+var mnemonic = "fever rate legal true debris rather figure caught garbage vault balance addict";

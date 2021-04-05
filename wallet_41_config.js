@@ -1,1 +1,1 @@
-var mnemonic = "april boy alcohol burger feed ancient search curve armed verb attract lyrics";
+var mnemonic = "skate ivory ball gun prosper speed purse shoulder siege inject choice gate";

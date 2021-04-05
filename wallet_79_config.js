@@ -1,1 +1,1 @@
-var mnemonic = "naive grant friend gym gaze trash rose ritual decade glow wall crumble";
+var mnemonic = "badge undo express rival identify orange hold gym absurd example oil pond";

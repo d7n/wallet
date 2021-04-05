@@ -1,1 +1,1 @@
-var mnemonic = "glove cannon toilet coffee isolate cabbage caught sample valid chief plastic goddess";
+var mnemonic = "tooth arrive ankle truck hat session shy sail sample enough spray side";

@@ -1,1 +1,1 @@
-var mnemonic = "gown lazy gallery help one abuse young voice giggle suspect soldier right";
+var mnemonic = "hope behind trick cannon knock muscle tip tunnel trophy inmate initial behind";

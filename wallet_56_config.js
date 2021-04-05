@@ -1,1 +1,1 @@
-var mnemonic = "calm tuna extra crack eight solve ticket first myth alpha dry brain";
+var mnemonic = "annual seek attend motion duck property bamboo morning vote coral merge violin";

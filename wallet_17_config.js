@@ -1,1 +1,1 @@
-var mnemonic = "view trend omit leisure ordinary domain canoe organ erupt blush file almost";
+var mnemonic = "ecology bike emerge major beach orchard face axis turkey special fame crystal";

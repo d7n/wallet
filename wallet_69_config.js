@@ -1,1 +1,1 @@
-var mnemonic = "panther animal ball gloom loud margin planet clutch fitness champion define near";
+var mnemonic = "harbor magic debate piece clap ahead frown music found quiz ethics sail";

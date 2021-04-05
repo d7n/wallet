@@ -1,1 +1,1 @@
-var mnemonic = "spice winner smoke offer forward multiply gadget office palm dilemma water kid";
+var mnemonic = "leg problem donkey ritual neck primary replace fish spring help place twelve";

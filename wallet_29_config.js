@@ -1,1 +1,1 @@
-var mnemonic = "pull diesel giant chuckle rich spray build palace soap stuff artist avoid";
+var mnemonic = "obvious once act erode sorry body calm elder group ability solve prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon trouble eyebrow diesel good amused better exile family there into genre";
+var mnemonic = "direct exact hunt level able dose bone blouse rural pattern give define";

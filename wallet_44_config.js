@@ -1,1 +1,1 @@
-var mnemonic = "second spring mixed model tired ceiling tunnel sand letter issue science fresh";
+var mnemonic = "gasp cross deal future stone transfer fragile labor quarter permit insane jump";

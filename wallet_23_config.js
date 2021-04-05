@@ -1,1 +1,1 @@
-var mnemonic = "scissors fun reunion pepper leopard actual wise seek advance marriage time moon";
+var mnemonic = "ceiling satoshi egg outdoor acid ramp enrich rather syrup until fiscal duty";

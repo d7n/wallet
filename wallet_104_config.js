@@ -1,1 +1,1 @@
-var mnemonic = "bacon bargain source topple shift transfer parade goddess lens mango sustain toast";
+var mnemonic = "chalk dance borrow fluid tomorrow change treat dish crystal denial result wreck";

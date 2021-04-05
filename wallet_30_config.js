@@ -1,1 +1,1 @@
-var mnemonic = "property picture federal kiwi narrow bright device liquid barely furnace omit autumn";
+var mnemonic = "comfort water video donate jungle select strong cycle need then relax hover";

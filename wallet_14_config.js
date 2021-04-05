@@ -1,1 +1,1 @@
-var mnemonic = "define huge iron fragile task hollow net alter direct car click mixture";
+var mnemonic = "fit work possible dune year struggle inject run fold industry rack swamp";

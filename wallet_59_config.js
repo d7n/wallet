@@ -1,1 +1,1 @@
-var mnemonic = "wink supreme cable piece very repair glide giraffe own embody better prison";
+var mnemonic = "bunker modify defy timber actor ball notable nuclear source solution design school";

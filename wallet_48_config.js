@@ -1,1 +1,1 @@
-var mnemonic = "super upon great cereal master calm force proof rural day unhappy chat";
+var mnemonic = "cruise dream follow process void local thunder ahead tip bubble mind blossom";

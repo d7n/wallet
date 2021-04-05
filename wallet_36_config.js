@@ -1,1 +1,1 @@
-var mnemonic = "seat vault census slim ripple shallow apple shy odor that retire worth";
+var mnemonic = "rule avocado second book maximum right fall usual decline lady veteran universe";

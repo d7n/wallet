@@ -1,1 +1,1 @@
-var mnemonic = "stereo flavor misery gasp cushion venue muffin local orphan ability giggle cup";
+var mnemonic = "light merit ball scrap weekend design holiday trim regret glance version bullet";

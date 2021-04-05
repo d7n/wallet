@@ -1,1 +1,1 @@
-var mnemonic = "drift town right razor barrel today noise busy kind wash garment hurdle";
+var mnemonic = "fine punch legal cancel merit frame bag solid festival speak crystal fold";

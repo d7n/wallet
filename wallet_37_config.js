@@ -1,1 +1,1 @@
-var mnemonic = "nuclear stay welcome spread door runway shoulder child unfair amazing tell diagram";
+var mnemonic = "drastic almost scare rose satoshi useful wool evoke popular jungle glad swamp";

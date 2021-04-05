@@ -1,1 +1,1 @@
-var mnemonic = "ecology village speak away song stable section couch silent hat nerve defy";
+var mnemonic = "indicate repair force scale whisper hole iron feed sunny sense arena length";

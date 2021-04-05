@@ -1,1 +1,1 @@
-var mnemonic = "hunt gaze auction update virtual organ later legend medal wash surface ring";
+var mnemonic = "again electric smile disorder police gather garment blanket decorate coral glue shield";

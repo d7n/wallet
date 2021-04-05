@@ -1,1 +1,1 @@
-var mnemonic = "maple venture warfare load turn govern dinner insect risk token retire coil";
+var mnemonic = "fix help warrior sleep fancy right slot patch sort choose hero kitten";

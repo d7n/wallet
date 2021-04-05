@@ -1,1 +1,1 @@
-var mnemonic = "box similar girl venue you van urban ten shy lunar average entire";
+var mnemonic = "hold donor ancient never weapon mushroom deal wire fiscal avocado engine follow";

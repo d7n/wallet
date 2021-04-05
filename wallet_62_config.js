@@ -1,1 +1,1 @@
-var mnemonic = "bus walnut furnace fire layer elder ridge gravity liar coast cage toilet";
+var mnemonic = "smoke method resource act cotton modify wait point live swarm immune planet";

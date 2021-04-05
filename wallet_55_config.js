@@ -1,1 +1,1 @@
-var mnemonic = "suffer more patch assault shop nest silent actress jungle buyer armed vacant";
+var mnemonic = "orbit galaxy protect sugar access crater kidney security slab arena patrol divert";

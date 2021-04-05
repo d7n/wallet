@@ -1,1 +1,1 @@
-var mnemonic = "world rely neutral ride era coach absent weird outside spoon crush bright";
+var mnemonic = "wreck crumble sketch hedgehog exile primary differ return spring book original frame";

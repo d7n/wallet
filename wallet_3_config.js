@@ -1,1 +1,1 @@
-var mnemonic = "merge combine bean reason movie romance glass glory apple slab trim caution";
+var mnemonic = "family feel symbol hawk want spoon city resist harbor base museum later";
