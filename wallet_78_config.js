@@ -1,1 +1,1 @@
-var mnemonic = "ranch derive amateur expand mandate clutch noodle feature main confirm cute sort";
+var mnemonic = "remain empower private grit describe park web wool valid canvas cry sample";

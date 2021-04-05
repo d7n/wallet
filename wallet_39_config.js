@@ -1,1 +1,1 @@
-var mnemonic = "slide average start hint erode foot advice reason present believe weasel spot";
+var mnemonic = "act embrace chef alcohol brass spring enlist eyebrow dinner lawsuit deer cruel";

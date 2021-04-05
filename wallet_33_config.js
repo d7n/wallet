@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow trial smooth salon radio clarify thumb warm exist build dizzy trigger";
+var mnemonic = "wrist motion kitten ladder close economy happy kitchen almost success artwork price";

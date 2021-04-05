@@ -1,1 +1,1 @@
-var mnemonic = "latin black sadness depth chapter ability recall absent endless cream million moment";
+var mnemonic = "month current baby furnace sorry frost brain isolate like simple great exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "olive major birth remove impulse modify pelican satoshi stem beyond sphere turn";
+var mnemonic = "improve accident help impact welcome click fabric plunge plug task donor icon";

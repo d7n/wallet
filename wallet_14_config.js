@@ -1,1 +1,1 @@
-var mnemonic = "entire rubber reduce sword eagle lens hundred bounce toe loud one pistol";
+var mnemonic = "garage yellow coral lecture abstract doll fuel pizza will square suspect aerobic";

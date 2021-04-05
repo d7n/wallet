@@ -1,1 +1,1 @@
-var mnemonic = "edit stool ugly diet ketchup scout cattle crucial shuffle sunset poverty tree";
+var mnemonic = "year chuckle nasty dawn tourist leopard visit tower crater sustain team asset";

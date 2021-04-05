@@ -1,1 +1,1 @@
-var mnemonic = "picnic video gloom boost winter copy rate special fog hedgehog pact pave";
+var mnemonic = "section spend size team eye birth muffin carbon attitude focus radio tail";

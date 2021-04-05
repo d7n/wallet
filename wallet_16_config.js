@@ -1,1 +1,1 @@
-var mnemonic = "into issue three jewel unhappy win engage couch empower easily lawn plate";
+var mnemonic = "attack wrap pulse alert approve pottery story gorilla divorce amateur more brother";

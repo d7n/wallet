@@ -1,1 +1,1 @@
-var mnemonic = "grid hood hour brick slender okay skate ride any patient lady goose";
+var mnemonic = "radar act leisure tennis wood elephant genre goat fantasy wolf garden fossil";

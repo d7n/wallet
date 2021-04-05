@@ -1,1 +1,1 @@
-var mnemonic = "affair unfold turkey upgrade corn print logic injury ramp urge gate enact";
+var mnemonic = "miss humor average loop sort tuna sibling dizzy nerve yellow found captain";

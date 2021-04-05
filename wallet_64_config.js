@@ -1,1 +1,1 @@
-var mnemonic = "assist name profit size excess amazing envelope keep surge artist defy stage";
+var mnemonic = "man city gesture among general funny hedgehog sad select arrive trigger hire";

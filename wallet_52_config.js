@@ -1,1 +1,1 @@
-var mnemonic = "flavor matrix web oxygen razor access proof love gold start dash expose";
+var mnemonic = "narrow actress evolve cake imitate illegal owner dizzy scissors diet version else";

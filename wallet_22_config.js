@@ -1,1 +1,1 @@
-var mnemonic = "valley humble cable best fog prefer grocery two auction knock solve air";
+var mnemonic = "cruise embark erase reflect car control element until river void very limb";

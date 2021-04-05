@@ -1,1 +1,1 @@
-var mnemonic = "prepare grape plate evil subway purity box genre high drip scene unable";
+var mnemonic = "stick crazy world skull soda urban attitude myth slot squeeze jewel robust";

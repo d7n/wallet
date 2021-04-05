@@ -1,1 +1,1 @@
-var mnemonic = "language card stuff moral intact position supply yellow reopen cool tomorrow enjoy";
+var mnemonic = "huge news grass claim point clerk water embody inspire toddler pole kite";

@@ -1,1 +1,1 @@
-var mnemonic = "warm emerge flip message vivid nothing air suggest april cabbage surprise champion";
+var mnemonic = "cake subject alter diesel domain voyage myself copy coyote lab usage biology";

@@ -1,1 +1,1 @@
-var mnemonic = "web alter demise leaf cousin floor educate bird coral note powder flag";
+var mnemonic = "bicycle correct another tribe tower peasant announce brief original salute cry together";

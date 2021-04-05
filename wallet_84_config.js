@@ -1,1 +1,1 @@
-var mnemonic = "morning unlock behind summer armor marble bamboo album orbit tail screen wash";
+var mnemonic = "amazing tray bomb whisper fiscal symptom scout member exact card hold trash";

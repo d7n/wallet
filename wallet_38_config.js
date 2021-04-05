@@ -1,1 +1,1 @@
-var mnemonic = "find clump venue pulse canvas stay ketchup spy deputy coral matrix vicious";
+var mnemonic = "story inflict draw accuse cargo brave lab little panic symbol now kingdom";

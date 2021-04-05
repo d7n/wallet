@@ -1,1 +1,1 @@
-var mnemonic = "sudden despair main sword banana frog climb nothing south ring goose record";
+var mnemonic = "humble velvet joy around wine harsh city medal crazy secret sunny give";

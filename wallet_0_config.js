@@ -1,1 +1,1 @@
-var mnemonic = "hard magnet modify photo parent gesture rich cruel script junk upper stadium";
+var mnemonic = "hunt whip system deer drum worry fee produce chicken unique abuse drop";

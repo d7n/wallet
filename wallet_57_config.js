@@ -1,1 +1,1 @@
-var mnemonic = "waste soldier reunion fluid walk security toast endorse update broken drum crawl";
+var mnemonic = "calm lift much distance neither okay genuine ginger clown finish renew earth";

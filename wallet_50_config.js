@@ -1,1 +1,1 @@
-var mnemonic = "monkey adapt program purpose cradle motion average vintage alert test black paddle";
+var mnemonic = "find arch hammer strong grunt inhale peace favorite icon bamboo grunt lottery";

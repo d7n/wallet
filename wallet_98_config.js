@@ -1,1 +1,1 @@
-var mnemonic = "fun cook enrich foam creek illness series sponsor clutch mixture pull wait";
+var mnemonic = "enact west match skill card timber fossil october income pledge loop tennis";

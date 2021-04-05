@@ -1,1 +1,1 @@
-var mnemonic = "protect gain gloom price warfare okay unlock hidden hidden chat glory iron";
+var mnemonic = "cage beyond tape wire fringe sniff doll gas evoke live thought abandon";

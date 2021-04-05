@@ -1,1 +1,1 @@
-var mnemonic = "budget relief search roast brisk brisk milk giggle master three strike uphold";
+var mnemonic = "local try early remain beauty present predict between crucial speed cool group";

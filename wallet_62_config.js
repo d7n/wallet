@@ -1,1 +1,1 @@
-var mnemonic = "attract foam crane nice copper buffalo path firm arrive thumb fan flush";
+var mnemonic = "latin firm head injury lumber roof barrel people farm exhibit domain reunion";

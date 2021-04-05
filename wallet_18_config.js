@@ -1,1 +1,1 @@
-var mnemonic = "pave skill salon index shrimp erosion forest salt argue day boy shed";
+var mnemonic = "turtle island oil water vendor gloom dash start friend spoon theme mad";

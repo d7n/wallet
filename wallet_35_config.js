@@ -1,1 +1,1 @@
-var mnemonic = "airport mass order notice cricket retire remove where aware floor slogan ill";
+var mnemonic = "sphere can muscle typical survey online divide layer pet arctic thing abuse";

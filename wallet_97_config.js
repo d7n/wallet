@@ -1,1 +1,1 @@
-var mnemonic = "raccoon dog degree cable victory avoid garment kite upset matter please rocket";
+var mnemonic = "sing engage easy purpose miracle bring okay bonus inch wine spot siege";

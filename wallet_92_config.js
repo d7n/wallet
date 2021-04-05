@@ -1,1 +1,1 @@
-var mnemonic = "name receive wagon artwork age pond maple dumb milk enemy text lyrics";
+var mnemonic = "discover crime document wise evidence barrel insane finger twist armor jaguar remind";

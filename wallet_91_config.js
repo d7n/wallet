@@ -1,1 +1,1 @@
-var mnemonic = "horror security champion brain cancel tray column maple picnic axis climb father";
+var mnemonic = "simple candy obey daring fold clutch whisper mimic frozen raw sheriff remove";

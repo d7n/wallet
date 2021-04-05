@@ -1,1 +1,1 @@
-var mnemonic = "able student west come adjust essence plunge fruit near loud coach unfold";
+var mnemonic = "latin peasant host april expose then casual tool gift invite garbage lesson";

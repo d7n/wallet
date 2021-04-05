@@ -1,1 +1,1 @@
-var mnemonic = "stool accuse frequent silent already diet size mouse craft foam planet carpet";
+var mnemonic = "novel rough saddle play major lake trim garage when forget poet claim";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon tip cost siege leg day laptop conduct arctic fragile couple prepare";
+var mnemonic = "limit stay catalog void arctic vehicle virus anger anchor demand find sorry";

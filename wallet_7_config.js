@@ -1,1 +1,1 @@
-var mnemonic = "notable indicate payment share admit wait media horror tired debris board wife";
+var mnemonic = "submit leg opera crisp symbol sense oyster refuse elite elite kidney track";

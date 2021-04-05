@@ -1,1 +1,1 @@
-var mnemonic = "option genre snow skill tape sure envelope tissue fox favorite wrong piece";
+var mnemonic = "example crisp ghost icon family amazing betray shine slim else machine denial";

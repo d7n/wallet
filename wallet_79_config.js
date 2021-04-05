@@ -1,1 +1,1 @@
-var mnemonic = "blur opinion dawn cheap sustain robust various glue enable infant badge indicate";
+var mnemonic = "until smoke quality trend ecology amused forget shy violin radio little hair";

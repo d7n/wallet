@@ -1,1 +1,1 @@
-var mnemonic = "swallow ski change toilet stay monster frequent unfold glow stadium frequent shy";
+var mnemonic = "nerve tongue clay gown develop bulb census anchor garlic proof debate fog";

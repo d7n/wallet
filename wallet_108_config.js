@@ -1,1 +1,1 @@
-var mnemonic = "waste arrow usual engine just horn erupt coffee distance space circle defense";
+var mnemonic = "coil seven conduct wine silly card guess image favorite debate poverty hint";

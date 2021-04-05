@@ -1,1 +1,1 @@
-var mnemonic = "leave chase actual hair arm high snack brave harvest engage inject now";
+var mnemonic = "coconut club scout dad cook pride ozone beauty walk estate note ten";

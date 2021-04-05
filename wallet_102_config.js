@@ -1,1 +1,1 @@
-var mnemonic = "cereal series ugly ramp gauge mango visual wasp weapon behind bronze pool";
+var mnemonic = "grief response frown husband argue better can float play charge ensure tomato";

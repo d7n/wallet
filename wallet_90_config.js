@@ -1,1 +1,1 @@
-var mnemonic = "slogan venture blouse fiber salon custom roast loan cup trash mixed vacuum";
+var mnemonic = "media panda chair explain shiver give reform garbage royal number lion jewel";

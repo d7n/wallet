@@ -1,1 +1,1 @@
-var mnemonic = "state pool ask diet radio glue minor combine public ghost chef private";
+var mnemonic = "ridge source hazard below atom leaf lake jump half rhythm wrestle need";

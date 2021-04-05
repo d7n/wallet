@@ -1,1 +1,1 @@
-var mnemonic = "degree field hurt patient shock era chair property purchase hunt address supply";
+var mnemonic = "domain shy crowd skirt hobby ordinary screen force crawl credit palace hover";

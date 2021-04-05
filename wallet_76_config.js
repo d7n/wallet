@@ -1,1 +1,1 @@
-var mnemonic = "affair quantum forum iron divorce punch social raven picture leader green replace";
+var mnemonic = "supply jaguar legend chapter hold crisp render monkey wealth slight check forward";

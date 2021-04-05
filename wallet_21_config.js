@@ -1,1 +1,1 @@
-var mnemonic = "garage excess toddler close you stomach explain honey reward laptop december discover";
+var mnemonic = "soup magic later chaos stereo knee alert trigger atom audit sibling state";

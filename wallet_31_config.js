@@ -1,1 +1,1 @@
-var mnemonic = "test lumber squirrel exercise sound obey author return parade crazy fury rice";
+var mnemonic = "gain turn sure staff mesh claw wool opera garage paddle phone outer";

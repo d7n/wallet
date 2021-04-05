@@ -1,1 +1,1 @@
-var mnemonic = "slice elephant reduce wrestle blur thunder bargain faculty wine coach cycle garden";
+var mnemonic = "photo hello lake inner inmate agree peace keen yellow panther illegal effort";

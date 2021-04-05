@@ -1,1 +1,1 @@
-var mnemonic = "crane pulp mass cash furnace favorite final monkey vessel inside purpose surface";
+var mnemonic = "raven fish web year lady advice party normal uncle luggage pink cradle";

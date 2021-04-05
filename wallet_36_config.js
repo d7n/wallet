@@ -1,1 +1,1 @@
-var mnemonic = "setup ankle turtle tube when beyond neck balance sight acquire gossip portion";
+var mnemonic = "satisfy leisure visit today pass wood nothing obvious round figure settle kiss";

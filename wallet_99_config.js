@@ -1,1 +1,1 @@
-var mnemonic = "shift torch cream scissors narrow razor heart mom neither vintage mule estate";
+var mnemonic = "brown injury link alert club logic general pretty near cute begin alter";

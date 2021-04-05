@@ -1,1 +1,1 @@
-var mnemonic = "vocal defy rookie diesel nut around wheel taste yard plate inform sheriff";
+var mnemonic = "all track robot patient spot sort tower jacket brand angry sure tank";

@@ -1,1 +1,1 @@
-var mnemonic = "display drip armor enact vintage genuine arch wet child blush found century";
+var mnemonic = "treat notice mix life genuine angry victory already citizen rhythm century lawn";

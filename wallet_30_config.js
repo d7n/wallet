@@ -1,1 +1,1 @@
-var mnemonic = "shadow document forest purse quit layer banana half task squirrel assume absorb";
+var mnemonic = "spoon install faint slice vessel flock nasty table stock satoshi gorilla empower";

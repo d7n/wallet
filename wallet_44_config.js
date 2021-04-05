@@ -1,1 +1,1 @@
-var mnemonic = "hurdle theory make notable ocean fit market tennis swift husband fragile timber";
+var mnemonic = "gorilla clutch host antique hire method grunt vintage umbrella planet claw poem";

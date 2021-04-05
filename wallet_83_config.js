@@ -1,1 +1,1 @@
-var mnemonic = "worth round scissors harsh card arm local tribe liar river chair vintage";
+var mnemonic = "fee exclude trophy sweet height actual flight axis fee major push obtain";

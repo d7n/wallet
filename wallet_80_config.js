@@ -1,1 +1,1 @@
-var mnemonic = "actor crawl goat success sound another team answer interest typical magnet want";
+var mnemonic = "try walnut just float balance tank eager rent medal alien ancient hurt";

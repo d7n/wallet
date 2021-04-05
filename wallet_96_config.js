@@ -1,1 +1,1 @@
-var mnemonic = "cereal august talent appear blush sell adjust term once slender sad home";
+var mnemonic = "segment lonely metal success forward pear ice nuclear cat mutual radar oppose";

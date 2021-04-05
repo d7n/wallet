@@ -1,1 +1,1 @@
-var mnemonic = "crazy girl rain mammal glide monkey bracket vintage smoke minute panel turn";
+var mnemonic = "essence check jewel immense problem pumpkin boy want leaf merry squirrel picture";

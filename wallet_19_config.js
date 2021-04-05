@@ -1,1 +1,1 @@
-var mnemonic = "danger blast heavy decorate crash buddy climb vote dice balance digital simple";
+var mnemonic = "interest miracle torch indicate vacant cup resist demand gap clinic method decline";

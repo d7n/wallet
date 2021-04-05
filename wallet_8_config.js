@@ -1,1 +1,1 @@
-var mnemonic = "hill nominee panic sure square wolf dilemma imitate hotel struggle always disorder";
+var mnemonic = "brain glass resist gentle engine hamster eight oval peanut mountain blue office";

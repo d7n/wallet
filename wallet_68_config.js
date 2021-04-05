@@ -1,1 +1,1 @@
-var mnemonic = "dream curve tone cloud total invite master maze vault cherry music vanish";
+var mnemonic = "slow sight tennis juice marble palm panda bronze pumpkin submit erosion discover";

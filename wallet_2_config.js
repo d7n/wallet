@@ -1,1 +1,1 @@
-var mnemonic = "invest music pulp scene fork receive fade salon proof gun convince crunch";
+var mnemonic = "razor tip tent loud april fancy valid lizard advice latin song clean";

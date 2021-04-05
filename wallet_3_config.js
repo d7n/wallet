@@ -1,1 +1,1 @@
-var mnemonic = "depart hope february orange electric dolphin seven since extend hair asthma bomb";
+var mnemonic = "vacant fatigue setup pride rival awake season object usage radio husband depend";

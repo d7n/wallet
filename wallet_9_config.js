@@ -1,1 +1,1 @@
-var mnemonic = "leg kiss joy produce arrest hill once chaos gasp twice hungry true";
+var mnemonic = "frog neck work blanket nose shrimp put useful tool elegant silly best";

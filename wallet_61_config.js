@@ -1,1 +1,1 @@
-var mnemonic = "tonight deputy immense race require finish virus erode later shift until glimpse";
+var mnemonic = "stomach result expire ecology media piano kit chimney safe ghost innocent coffee";

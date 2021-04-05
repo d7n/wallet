@@ -1,1 +1,1 @@
-var mnemonic = "left more evolve ripple input way million unfair typical world aware ivory";
+var mnemonic = "dial judge vacant nose dirt vague crop rich twelve awake celery gate";

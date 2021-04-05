@@ -1,1 +1,1 @@
-var mnemonic = "melody mule decline position evidence color flock will flee toddler citizen guess";
+var mnemonic = "hole mercy negative beef milk zoo finger boost motor drastic boring roast";

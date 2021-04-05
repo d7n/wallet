@@ -1,1 +1,1 @@
-var mnemonic = "steak under drink owner review art promote side obscure balcony never cradle";
+var mnemonic = "joy usage hat essay seminar trick reflect floor weekend category wear cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "bid medal start jealous magnet cage mix upset ability verify security link";
+var mnemonic = "inch couch police position relief spider tail escape vast vendor focus verb";

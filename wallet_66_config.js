@@ -1,1 +1,1 @@
-var mnemonic = "enter turn medal gallery garlic success stick october style whip farm private";
+var mnemonic = "hour blast scout mercy arrive win offer spawn eye crunch moment exclude";

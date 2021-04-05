@@ -1,1 +1,1 @@
-var mnemonic = "lonely blade close sense release smart noble twist hungry festival ladder motor";
+var mnemonic = "breeze honey tube loop vapor comic never prison carry dirt catalog truth";

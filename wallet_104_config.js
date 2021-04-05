@@ -1,1 +1,1 @@
-var mnemonic = "banner alarm dirt man enjoy shop violin unlock alone fuel large strong";
+var mnemonic = "repair impulse stool double pilot miracle juice able october sport confirm arctic";

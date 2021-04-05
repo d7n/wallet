@@ -1,1 +1,1 @@
-var mnemonic = "artist guitar elegant citizen wide clarify letter filter permit tortoise network day";
+var mnemonic = "sad amount differ urban volume infant strike brisk alone youth prison job";

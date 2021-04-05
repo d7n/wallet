@@ -1,1 +1,1 @@
-var mnemonic = "decrease hamster lawsuit real pudding child magic business glance glove impulse simple";
+var mnemonic = "attack donate goose side tip garbage taxi bread addict creek very hood";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome valid angry winter unknown ostrich want celery develop black one tuition";
+var mnemonic = "nation chat company beach chair forum squirrel peasant install discover image increase";

@@ -1,1 +1,1 @@
-var mnemonic = "slim exist marine average hobby sign six hockey issue alpha magic amount";
+var mnemonic = "worry under obscure kiss normal become modify cook vocal theory angle chat";

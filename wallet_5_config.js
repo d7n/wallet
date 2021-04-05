@@ -1,1 +1,1 @@
-var mnemonic = "south action zero what business robust parent pretty category issue adjust bottom";
+var mnemonic = "filter wage knee hour book topic radio pyramid party shift sniff cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "duck pear route key vehicle love eagle spare flee slogan replace salmon";
+var mnemonic = "relief interest genuine guard write rebel sauce chief jaguar genius concert icon";

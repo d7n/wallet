@@ -1,1 +1,1 @@
-var mnemonic = "vessel speed island shine kiwi major sauce east hotel crystal black tissue";
+var mnemonic = "eternal now priority bachelor resemble fame word settle thunder cook amazing install";

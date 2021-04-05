@@ -1,1 +1,1 @@
-var mnemonic = "bitter tiger endless patch estate pony plunge slab people hard burden father";
+var mnemonic = "dry where horse antique grain use bright mass elephant pumpkin aim next";

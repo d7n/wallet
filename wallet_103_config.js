@@ -1,1 +1,1 @@
-var mnemonic = "damp club claim memory wink category uncle rather tragic resource thumb fog";
+var mnemonic = "front identify promote claim hen episode student off bean into ahead rival";

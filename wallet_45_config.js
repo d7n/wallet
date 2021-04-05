@@ -1,1 +1,1 @@
-var mnemonic = "piece swear plate ladder asset valve often primary organ dad guide liquid";
+var mnemonic = "monster dwarf easily choice kite strike culture market ten actress distance among";

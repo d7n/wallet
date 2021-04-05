@@ -1,1 +1,1 @@
-var mnemonic = "prevent clump flat about sentence junk wet flee practice slogan remove people";
+var mnemonic = "vague property duty hello marine siege episode urban relief short web tonight";

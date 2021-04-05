@@ -1,1 +1,1 @@
-var mnemonic = "rich abuse strategy dawn remain extra mobile below together sheriff stamp atom";
+var mnemonic = "minimum foot liar wave record mammal grant split where make rule balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "place shrimp rival pulp very cheap casual memory mixture tide siren faint";
+var mnemonic = "loud palm rough awake mom toss such shield bomb joy faint exhaust";

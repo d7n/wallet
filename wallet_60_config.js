@@ -1,1 +1,1 @@
-var mnemonic = "slim cable recall visit clay argue ten resource hidden series recipe life";
+var mnemonic = "deal glue obey kingdom plastic slush bicycle drive mystery analyst warm measure";

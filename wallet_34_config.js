@@ -1,1 +1,1 @@
-var mnemonic = "giggle taxi cruise uphold float pill memory upset truck enter gauge cage";
+var mnemonic = "cost iron return school joke survey champion robot tell assume armed coyote";

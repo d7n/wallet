@@ -1,1 +1,1 @@
-var mnemonic = "tell sorry decorate regular awkward barely jelly age boy prepare above rude";
+var mnemonic = "voice true object puzzle check rebel peasant dirt there leader video flee";

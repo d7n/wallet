@@ -1,1 +1,1 @@
-var mnemonic = "code curious debate sunset climb old can reform chalk fit moment load";
+var mnemonic = "voyage march illness october force smoke tennis fly victory behind language turkey";

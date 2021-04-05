@@ -1,1 +1,1 @@
-var mnemonic = "kiss defense desk disagree average forest ocean essay injury carbon harsh junior";
+var mnemonic = "estate trap leave boat clock thumb device regular extra they home autumn";
