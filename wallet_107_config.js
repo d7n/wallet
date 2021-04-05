@@ -1,1 +1,1 @@
-var mnemonic = "seminar music silver wrestle flight walnut glue knee shadow brown witness ocean";
+var mnemonic = "mercy muscle tackle dry pride brother seek false remind grit auction hard";

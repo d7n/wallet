@@ -1,1 +1,1 @@
-var mnemonic = "scrub zone total caught viable drip hedgehog nose rigid exact subway lady";
+var mnemonic = "catch sunny patient material reject blind thank hen drastic resist jewel detect";

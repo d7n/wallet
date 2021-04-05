@@ -1,1 +1,1 @@
-var mnemonic = "scheme pear wink keep traffic pond entry coast budget remind reward inspire";
+var mnemonic = "use spoon copy survey canyon fabric decade hover mixture extend tube age";

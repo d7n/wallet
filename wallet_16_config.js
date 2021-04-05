@@ -1,1 +1,1 @@
-var mnemonic = "agree picnic angle helmet dove stone rebel joy leg cross endorse useless";
+var mnemonic = "mandate orphan mandate extra wool insect void casino dignity hip front buyer";

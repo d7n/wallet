@@ -1,1 +1,1 @@
-var mnemonic = "tool hover jelly author thought auction affair such edge head gift champion";
+var mnemonic = "crush mule scan gain crucial dice awake bag clutch produce coast income";

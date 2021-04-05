@@ -1,1 +1,1 @@
-var mnemonic = "practice smile carbon wool inflict autumn riot chase any quarter call amount";
+var mnemonic = "among afraid virus improve lunar sadness parrot river clarify neck cancel power";

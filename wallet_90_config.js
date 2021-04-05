@@ -1,1 +1,1 @@
-var mnemonic = "hat stomach wonder august soft rack cycle pole opera turn health skirt";
+var mnemonic = "squirrel junior degree divert radar rotate sight rival chalk unlock dolphin can";

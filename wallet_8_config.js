@@ -1,1 +1,1 @@
-var mnemonic = "hundred ribbon record impact biology question surge potato voyage warm upon theory";
+var mnemonic = "fan excuse street spray metal hospital piano prepare rescue indoor science range";

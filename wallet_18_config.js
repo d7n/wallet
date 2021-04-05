@@ -1,1 +1,1 @@
-var mnemonic = "turkey health erosion tunnel erase thing lesson include submit foster grace grid";
+var mnemonic = "flush flame since idle humble super enact twice call unfold reflect physical";

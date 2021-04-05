@@ -1,1 +1,1 @@
-var mnemonic = "reduce neck stock exist embody day general cat scout grit hold feed";
+var mnemonic = "legend slide hair course estate detail shuffle snow media spatial crumble busy";

@@ -1,1 +1,1 @@
-var mnemonic = "panel tag misery cluster member response burger image corn salt artefact chief";
+var mnemonic = "picture volume session secret bone lens lunar ready royal fatal nation funny";

@@ -1,1 +1,1 @@
-var mnemonic = "faint favorite visa stuff spell leopard picnic torch velvet horn genius labor";
+var mnemonic = "convince wife word van assist always cereal enhance often guard blush sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "manage police lazy shoe angry exile hidden slice lizard island connect match";
+var mnemonic = "mango scorpion mouse desert phone fork bargain income prevent rule check powder";

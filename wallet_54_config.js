@@ -1,1 +1,1 @@
-var mnemonic = "wolf eager essay grief what clown swamp inner maple stuff wing level";
+var mnemonic = "eyebrow parent industry keen skin render until pledge seven stereo define dirt";

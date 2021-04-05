@@ -1,1 +1,1 @@
-var mnemonic = "relief aerobic forget depth snow gadget easy night coil token kite deny";
+var mnemonic = "rather month nothing almost raccoon odor among thumb divorce claim always appear";

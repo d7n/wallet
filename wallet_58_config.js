@@ -1,1 +1,1 @@
-var mnemonic = "dice shine guitar elbow achieve tank bubble grocery twist curious apple above";
+var mnemonic = "more enforce sort lunch mention avoid cycle short comfort west excuse slight";

@@ -1,1 +1,1 @@
-var mnemonic = "fox edge place during wire foot cousin index embark museum fury smoke";
+var mnemonic = "torch quote local derive powder lunar width head fog humble script payment";

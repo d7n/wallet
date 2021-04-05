@@ -1,1 +1,1 @@
-var mnemonic = "physical dress jewel matrix pull normal regular panic silly puppy letter chapter";
+var mnemonic = "black glue clerk subject betray best basket culture toilet father unhappy enforce";

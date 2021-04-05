@@ -1,1 +1,1 @@
-var mnemonic = "defy lecture thrive lock route reunion banner bring couch advice poem volume";
+var mnemonic = "weapon army jelly crash donate buyer world exit version obey latin wave";

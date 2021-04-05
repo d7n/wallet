@@ -1,1 +1,1 @@
-var mnemonic = "barrel please wall dish illness pool inner canal leisure song absurd viable";
+var mnemonic = "survey rhythm cluster prison else bamboo angle badge fault gun amateur crucial";

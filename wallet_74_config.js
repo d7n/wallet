@@ -1,1 +1,1 @@
-var mnemonic = "lounge scorpion moral summer wheel royal swear either escape eyebrow nasty ladder";
+var mnemonic = "segment awesome crumble infant draw cage sad lab index book equip shift";

@@ -1,1 +1,1 @@
-var mnemonic = "either wild clerk neither pluck project eye pigeon clip size heart finish";
+var mnemonic = "doll powder civil salute fruit prize stereo arrow often vault impact exhibit";

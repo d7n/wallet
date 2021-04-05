@@ -1,1 +1,1 @@
-var mnemonic = "hungry jump family antenna rescue runway oval bus gauge unhappy ribbon fine";
+var mnemonic = "bus bone chaos timber century mix child impose stage museum attract achieve";

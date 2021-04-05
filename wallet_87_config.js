@@ -1,1 +1,1 @@
-var mnemonic = "hawk ski under bronze fury panda hundred category south fork steel rely";
+var mnemonic = "dinosaur woman ghost breeze monster few flee tattoo case meadow cable require";

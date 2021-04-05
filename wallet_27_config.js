@@ -1,1 +1,1 @@
-var mnemonic = "opera gorilla drive picture high clap river loan exotic inmate bridge index";
+var mnemonic = "actor gossip differ breeze iron rough object office family harbor boss boil";

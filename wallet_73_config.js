@@ -1,1 +1,1 @@
-var mnemonic = "tonight alien acquire rent agree need stay giant afraid expire area cliff";
+var mnemonic = "wave brisk zero rotate engage dawn initial mountain badge approve poet tunnel";

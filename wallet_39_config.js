@@ -1,1 +1,1 @@
-var mnemonic = "service scene spot defy amateur much symptom dial blur almost decade actual";
+var mnemonic = "chunk saddle rude decorate bottom defense special derive fitness annual soldier butter";

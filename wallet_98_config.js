@@ -1,1 +1,1 @@
-var mnemonic = "october canyon episode country brick mobile bronze pen knee charge nice deputy";
+var mnemonic = "sniff champion angry cross unhappy say eternal south banana raise verify attack";

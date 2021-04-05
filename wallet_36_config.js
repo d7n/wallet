@@ -1,1 +1,1 @@
-var mnemonic = "recycle walk emerge company faith shrug echo wrong quality abuse garlic extra";
+var mnemonic = "offer syrup leopard pride virtual winner broken enrich design hospital bulb bulk";

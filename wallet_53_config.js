@@ -1,1 +1,1 @@
-var mnemonic = "spray cupboard chronic boring keen pet rigid final gym novel code need";
+var mnemonic = "law caught ridge scissors uncover later jewel mad crystal sheriff silver switch";

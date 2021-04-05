@@ -1,1 +1,1 @@
-var mnemonic = "raccoon cigar jeans figure limb omit enough mushroom few erode planet neglect";
+var mnemonic = "scan mix crawl find swim skirt evoke visit royal water whale genre";

@@ -1,1 +1,1 @@
-var mnemonic = "offer hope orange bid foot immense around veteran draw maple inch olympic";
+var mnemonic = "coffee clean spell onion balcony local south autumn rude tackle tell occur";

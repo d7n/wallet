@@ -1,1 +1,1 @@
-var mnemonic = "affair smooth come pattern switch drastic like crumble loud fun history upon";
+var mnemonic = "insane before mimic pear armed orbit nut crew mad away rail sentence";

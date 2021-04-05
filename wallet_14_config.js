@@ -1,1 +1,1 @@
-var mnemonic = "unusual core fog actress wrestle million crisp lunch avoid tackle march novel";
+var mnemonic = "decade trap zoo sugar salt pumpkin finish size aware rival then matter";

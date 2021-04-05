@@ -1,1 +1,1 @@
-var mnemonic = "harsh lion expire provide merge learn foot hospital annual holiday betray flush";
+var mnemonic = "high toward ill weasel try trophy walnut current follow joy excite quality";

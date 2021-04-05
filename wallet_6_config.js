@@ -1,1 +1,1 @@
-var mnemonic = "eagle issue napkin major until manual allow circle demise attitude cute cheese";
+var mnemonic = "news fringe garlic royal apple rescue situate autumn wisdom cradle evolve small";

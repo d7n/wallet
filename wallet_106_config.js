@@ -1,1 +1,1 @@
-var mnemonic = "snow credit comic august donor blind hover broccoli whip icon nut sweet";
+var mnemonic = "tiger all clay attitude fruit sport glue festival mechanic assault cat walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "absent solid tattoo viable pencil sauce fever course universe day cube page";
+var mnemonic = "funny pigeon apology brave donkey maze price settle chaos found say paper";

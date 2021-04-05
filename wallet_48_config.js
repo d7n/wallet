@@ -1,1 +1,1 @@
-var mnemonic = "board bind other bronze eager argue index suspect tell skull bench promote";
+var mnemonic = "gasp learn walnut cherry humble sibling fiction tower profit surround nothing champion";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber gossip dumb fork ghost uphold car alter endorse cry knife nominee";
+var mnemonic = "cradle modify repair roast suit chunk remind another accident hungry youth forum";

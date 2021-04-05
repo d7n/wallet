@@ -1,1 +1,1 @@
-var mnemonic = "guitar voice join dove filter elbow cannon rare way pact area system";
+var mnemonic = "arrow dune slush tiger curious face hire chapter lens where someone tooth";

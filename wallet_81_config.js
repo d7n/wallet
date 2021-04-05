@@ -1,1 +1,1 @@
-var mnemonic = "dizzy smart also barely slow question trouble polar captain danger violin cruel";
+var mnemonic = "sibling gravity december rough charge disagree bunker acoustic impose boy arch expand";

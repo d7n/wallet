@@ -1,1 +1,1 @@
-var mnemonic = "aim pudding scene toy cool search immense tribe credit fossil urban edge";
+var mnemonic = "then room tree soft calm volume reform write love chat maximum token";

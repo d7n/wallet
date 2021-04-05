@@ -1,1 +1,1 @@
-var mnemonic = "tongue stem spoil transfer offer gas move naive castle section mirror moral";
+var mnemonic = "water annual life exhibit mammal try dance among need book vibrant hurry";

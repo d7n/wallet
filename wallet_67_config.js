@@ -1,1 +1,1 @@
-var mnemonic = "desert loyal castle soup practice cry olive design embark jungle whip frequent";
+var mnemonic = "perfect flock main add thrive melt anchor cool castle gesture extend wool";

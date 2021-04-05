@@ -1,1 +1,1 @@
-var mnemonic = "thing beauty puppy fame nominee donor dentist still crunch magic weapon front";
+var mnemonic = "wait catalog pepper mountain wait dad glide work tiny height doctor over";

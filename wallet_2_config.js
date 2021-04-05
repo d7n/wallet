@@ -1,1 +1,1 @@
-var mnemonic = "swear jealous chronic maze rocket purpose dose drill flock render spoil choose";
+var mnemonic = "negative blur exact pig rain demise increase require across motion wheat call";

@@ -1,1 +1,1 @@
-var mnemonic = "infant fortune picnic hedgehog current clip region swift memory exile verify lesson";
+var mnemonic = "wave another unique work obscure wealth clinic carpet price plug dignity table";

@@ -1,1 +1,1 @@
-var mnemonic = "type secret office awful note table trial spike tragic art fresh group";
+var mnemonic = "silk jealous sign elephant hockey fever nuclear sing now mimic visit beef";

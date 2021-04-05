@@ -1,1 +1,1 @@
-var mnemonic = "wage hello open dizzy video slogan hurry member laundry gown fame winner";
+var mnemonic = "plate anger mammal dog slide twenty dad wish find wave slab sing";

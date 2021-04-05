@@ -1,1 +1,1 @@
-var mnemonic = "bargain gasp tonight wine toddler slice tag able object live misery amused";
+var mnemonic = "bundle display switch arrow steak purpose repeat excite describe bullet foot stomach";

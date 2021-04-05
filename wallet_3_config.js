@@ -1,1 +1,1 @@
-var mnemonic = "room beyond miracle paddle entry inmate hire attract alone powder plug tent";
+var mnemonic = "swim burden tape ghost assist puppy price follow wash leave season globe";

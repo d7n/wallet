@@ -1,1 +1,1 @@
-var mnemonic = "eagle pet inherit soldier claim dice brass phone awake engine before square";
+var mnemonic = "stand toast farm correct cause captain tongue night diamond tail vibrant cupboard";

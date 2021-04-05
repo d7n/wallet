@@ -1,1 +1,1 @@
-var mnemonic = "blush gun wealth divert noodle phrase exile blind artwork gaze soft cube";
+var mnemonic = "aisle letter chair gift midnight normal thumb purse picnic second fan skull";

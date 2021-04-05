@@ -1,1 +1,1 @@
-var mnemonic = "fix cigar kind labor battle income defy diet animal giraffe hero first";
+var mnemonic = "steak load pair rapid snow material dove street blush coach tunnel pet";

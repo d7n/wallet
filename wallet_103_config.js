@@ -1,1 +1,1 @@
-var mnemonic = "huge fold gaze desk rebuild master smart mansion milk borrow base echo";
+var mnemonic = "apple local leave spice banana dragon tray click wall science rely swarm";

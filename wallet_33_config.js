@@ -1,1 +1,1 @@
-var mnemonic = "prison huge divorce primary drum erupt squirrel indoor stock trouble grief patrol";
+var mnemonic = "link fluid runway force inspire minimum winner poem razor bird aim despair";

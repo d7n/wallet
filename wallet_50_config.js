@@ -1,1 +1,1 @@
-var mnemonic = "dragon skill travel flee nuclear noodle simple improve anxiety exist movie move";
+var mnemonic = "enough art parade system actual birth bundle health chalk upgrade gossip wing";

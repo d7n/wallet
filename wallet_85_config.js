@@ -1,1 +1,1 @@
-var mnemonic = "pluck float hover faculty seek enlist approve lunch later swim seek cushion";
+var mnemonic = "similar amused express seminar worry senior draft source exclude fresh theme curve";

@@ -1,1 +1,1 @@
-var mnemonic = "portion city country hello mimic garage civil frost happy buyer right swim";
+var mnemonic = "lizard add ship ask radio giggle suit length rhythm crowd decade theory";

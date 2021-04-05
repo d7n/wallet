@@ -1,1 +1,1 @@
-var mnemonic = "blade basket spring abandon increase nerve couple river push dutch possible afraid";
+var mnemonic = "focus tuition special item tag kite swap retreat connect mask boring affair";

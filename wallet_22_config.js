@@ -1,1 +1,1 @@
-var mnemonic = "few envelope action index poet tide confirm crash unfair blanket silk oyster";
+var mnemonic = "horror fog average giggle sweet boil unable typical used day enrich rubber";

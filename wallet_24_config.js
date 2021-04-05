@@ -1,1 +1,1 @@
-var mnemonic = "card letter cricket canal absurd paddle news moment tennis speak joke swift";
+var mnemonic = "hood scare slot kangaroo mushroom gaze keep snake input tuna huge sauce";

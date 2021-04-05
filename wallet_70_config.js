@@ -1,1 +1,1 @@
-var mnemonic = "cactus couple access know man process regret erode father spell source price";
+var mnemonic = "twelve dream casino drive spider parade cricket twenty clutch address sister almost";

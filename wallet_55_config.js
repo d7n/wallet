@@ -1,1 +1,1 @@
-var mnemonic = "museum rate beef unlock monkey empower travel pill split dynamic hidden jungle";
+var mnemonic = "spice siege prepare wool blast symbol style rose panic tilt exchange dune";

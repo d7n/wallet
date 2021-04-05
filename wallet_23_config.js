@@ -1,1 +1,1 @@
-var mnemonic = "saddle reflect disease best sting grab butter pioneer shield neither demise man";
+var mnemonic = "cup execute box sport friend slender juice acquire survey inmate black scale";

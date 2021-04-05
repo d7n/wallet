@@ -1,1 +1,1 @@
-var mnemonic = "hire make track glove arrest estate hollow mail earn gun window always";
+var mnemonic = "job donkey moral lounge choice coral lens proud blame catch all bacon";

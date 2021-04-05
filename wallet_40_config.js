@@ -1,1 +1,1 @@
-var mnemonic = "next marble like skirt steel ivory piece inmate can sell quit welcome";
+var mnemonic = "slot razor resist height speak erupt empower sadness crawl price token birth";

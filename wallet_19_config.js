@@ -1,1 +1,1 @@
-var mnemonic = "symptom foam trend myth pumpkin average rule absent intact sample icon post";
+var mnemonic = "sand confirm salad lend bridge mercy hello argue lemon shrug innocent hobby";

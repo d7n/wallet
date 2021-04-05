@@ -1,1 +1,1 @@
-var mnemonic = "vessel obvious winner correct couple cactus pony pencil next pioneer clutch wrap";
+var mnemonic = "relax spend staff neglect axis jacket tumble cause circle cruise trip bench";

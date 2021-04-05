@@ -1,1 +1,1 @@
-var mnemonic = "slice nice admit decade foam employ useless chef earn decade best hole";
+var mnemonic = "inhale citizen discover cook point damp screen tongue moment defense gown battle";

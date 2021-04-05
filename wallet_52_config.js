@@ -1,1 +1,1 @@
-var mnemonic = "solar ten ladder apple dust minute health magic morning penalty monitor saddle";
+var mnemonic = "gain brass model option album differ border subway beauty belt insane goddess";

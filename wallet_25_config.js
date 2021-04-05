@@ -1,1 +1,1 @@
-var mnemonic = "cost blossom upon input spatial royal glare meat moment possible exile loyal";
+var mnemonic = "exchange clip coach express fatal develop leader script slow arrest cheap explain";

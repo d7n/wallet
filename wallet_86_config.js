@@ -1,1 +1,1 @@
-var mnemonic = "little dutch word december dial rotate educate current boost dinner strategy tiger";
+var mnemonic = "elder eyebrow clip switch matter north attend interest until simple evidence cake";

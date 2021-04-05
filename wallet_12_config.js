@@ -1,1 +1,1 @@
-var mnemonic = "helmet addict someone era brother box crumble jewel parade note crush grape";
+var mnemonic = "casino taxi exist suffer young shoe stamp bunker system blade south six";

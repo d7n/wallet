@@ -1,1 +1,1 @@
-var mnemonic = "shy crop author caught omit gentle hero bargain alert scene easily secret";
+var mnemonic = "mention below kitchen practice popular answer pulse wave valley shadow crowd pupil";

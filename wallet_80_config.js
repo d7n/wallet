@@ -1,1 +1,1 @@
-var mnemonic = "inherit patch assist runway hover inhale tobacco lecture load client salute prevent";
+var mnemonic = "bottom glove saddle radar asthma cry night split repair crisp barely dance";

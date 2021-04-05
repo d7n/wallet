@@ -1,1 +1,1 @@
-var mnemonic = "version castle renew february broken opera luggage estate border mobile gorilla hamster";
+var mnemonic = "street tackle tunnel monster winner kind fury medal idle unknown device chimney";

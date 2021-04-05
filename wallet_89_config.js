@@ -1,1 +1,1 @@
-var mnemonic = "autumn simple medal trick desk piece shop arrow joke key grape apple";
+var mnemonic = "rib sunset balcony turkey job brown idea swear armor patrol course coconut";

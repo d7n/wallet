@@ -1,1 +1,1 @@
-var mnemonic = "old tuna order domain coast rapid lunar average own chair ghost various";
+var mnemonic = "exile rebuild jealous novel lawn upgrade two detail flat test sun oxygen";

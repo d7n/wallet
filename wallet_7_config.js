@@ -1,1 +1,1 @@
-var mnemonic = "eager cousin champion spy tattoo that task bitter truly input fossil embody";
+var mnemonic = "vacuum kid visa twenty point stock grunt engine speed innocent apart south";

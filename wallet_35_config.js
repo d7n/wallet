@@ -1,1 +1,1 @@
-var mnemonic = "fetch edit vote room lazy cup limb capable shield relief speed beach";
+var mnemonic = "process episode april now verify wild remove vacant wife novel addict occur";

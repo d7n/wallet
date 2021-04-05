@@ -1,1 +1,1 @@
-var mnemonic = "coffee end dial weekend rare expand three economy law web float token";
+var mnemonic = "spread order heavy change paddle rare alone patch suit erupt truth sugar";

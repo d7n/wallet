@@ -1,1 +1,1 @@
-var mnemonic = "search toilet scorpion pigeon negative icon broom bulk script marriage image blush";
+var mnemonic = "board butter power raise reform sorry vacant pave beach people pact first";

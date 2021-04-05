@@ -1,1 +1,1 @@
-var mnemonic = "wedding crew detect host awkward resist orphan school team onion start shiver";
+var mnemonic = "chef frozen mother eyebrow salute course entry dog replace sell mask garage";

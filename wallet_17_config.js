@@ -1,1 +1,1 @@
-var mnemonic = "foil document fiber name genuine glow rent sort pink eight vivid move";
+var mnemonic = "model egg expose display milk assume dune seat room embrace cook seed";

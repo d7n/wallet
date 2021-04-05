@@ -1,1 +1,1 @@
-var mnemonic = "tank unveil waste twelve sweet bottom visit common limit bridge pitch certain";
+var mnemonic = "suggest advice fashion toss engage annual pencil ecology apart disagree estate float";

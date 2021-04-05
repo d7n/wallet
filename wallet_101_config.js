@@ -1,1 +1,1 @@
-var mnemonic = "custom similar obtain like depth noble clinic airport craft monkey pet scheme";
+var mnemonic = "end gloom keen magnet lens moral weather lottery sweet initial satoshi lizard";
