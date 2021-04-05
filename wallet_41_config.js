@@ -1,1 +1,1 @@
-var mnemonic = "camp castle human alarm key upset surface close gentle pony april onion";
+var mnemonic = "enlist tunnel network absorb vivid dilemma okay salon prosper tobacco smart rubber";

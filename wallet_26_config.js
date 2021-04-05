@@ -1,1 +1,1 @@
-var mnemonic = "stand submit dove syrup include valley tube lounge behave equip breeze angle";
+var mnemonic = "gate slush input artist describe session city usage chair laugh floor found";

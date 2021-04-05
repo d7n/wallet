@@ -1,1 +1,1 @@
-var mnemonic = "distance series club squirrel drama sweet disorder century easily paper talk stomach";
+var mnemonic = "wheat blush zoo fog carpet install bind bone comic reflect grain vital";

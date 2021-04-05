@@ -1,1 +1,1 @@
-var mnemonic = "demise glass miss reflect front boost elbow element envelope picnic people tooth";
+var mnemonic = "pig brand habit fault spike civil weapon vicious spider fortune acquire favorite";

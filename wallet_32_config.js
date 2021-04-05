@@ -1,1 +1,1 @@
-var mnemonic = "increase return apology discover message luggage minimum aunt piano change card capable";
+var mnemonic = "trophy planet lizard sad suit crash steak female lumber promote super fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "invite depth cash forum mixture wasp shuffle prize aerobic venture jealous armor";
+var mnemonic = "when visual regular profit time boring merry oil weasel undo crouch tiger";

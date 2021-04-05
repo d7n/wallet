@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin fix maple version nurse street always because gun genuine online battle";
+var mnemonic = "series wine crack hat host cause before put travel wet remove obey";

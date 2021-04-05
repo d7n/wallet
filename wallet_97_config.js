@@ -1,1 +1,1 @@
-var mnemonic = "film old calm firm seven draft link reward visa canyon will raven";
+var mnemonic = "symbol little chimney bitter hidden weasel boil number eagle useless account build";

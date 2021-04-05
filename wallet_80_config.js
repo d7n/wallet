@@ -1,1 +1,1 @@
-var mnemonic = "aerobic install swarm leave rally dawn pistol grief recall tobacco lumber piano";
+var mnemonic = "cause crawl park margin deal side weather chapter fresh two tired glad";

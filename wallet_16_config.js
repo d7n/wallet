@@ -1,1 +1,1 @@
-var mnemonic = "phrase horse duty crime puppy busy predict poem leg sunset quantum music";
+var mnemonic = "also curve control boat citizen window weather excuse sea crowd innocent interest";

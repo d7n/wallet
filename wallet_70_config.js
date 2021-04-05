@@ -1,1 +1,1 @@
-var mnemonic = "orbit price example suggest knee quality axis clock rookie swamp unlock treat";
+var mnemonic = "gain cat input industry roof blossom avoid fence tower enemy focus attitude";

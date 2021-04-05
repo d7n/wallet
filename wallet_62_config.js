@@ -1,1 +1,1 @@
-var mnemonic = "destroy camera offer nest piece appear mask tilt love castle grocery forward";
+var mnemonic = "milk spoil path uncover actual behind fit poverty near deal vintage evil";

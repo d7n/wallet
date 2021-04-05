@@ -1,1 +1,1 @@
-var mnemonic = "together speak pupil table cushion clown asthma silly short salute lobster cousin";
+var mnemonic = "music rookie melody mesh liberty sport either know chapter census apple lock";

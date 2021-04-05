@@ -1,1 +1,1 @@
-var mnemonic = "then dial stairs panic camera level help elite ranch urge sound nest";
+var mnemonic = "execute denial blast match fruit satisfy shift belt proud entry width genre";

@@ -1,1 +1,1 @@
-var mnemonic = "palace spawn endorse quote divide address cube aunt grant repeat hospital tuition";
+var mnemonic = "violin quick happy measure voyage water rapid night concert blast across labor";

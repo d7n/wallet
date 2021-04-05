@@ -1,1 +1,1 @@
-var mnemonic = "this various armed payment beauty find hotel source feed hobby weather need";
+var mnemonic = "flat suspect scan fossil uncle fine icon cram search floor inspire woman";

@@ -1,1 +1,1 @@
-var mnemonic = "merry mountain escape jewel fox tail angle pulse stage fever pluck swing";
+var mnemonic = "stamp midnight tissue birth slender pear vanish sauce celery tenant meat crawl";

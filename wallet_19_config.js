@@ -1,1 +1,1 @@
-var mnemonic = "ethics poverty world foam force bamboo poverty soon party season help friend";
+var mnemonic = "baby symptom chair render where caught destroy pitch reform drift blood test";

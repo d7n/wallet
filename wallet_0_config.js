@@ -1,1 +1,1 @@
-var mnemonic = "under love enforce swim pink must cost decorate ripple say rapid rule";
+var mnemonic = "disagree trouble team bright excuse cancel omit whisper drive text trophy there";

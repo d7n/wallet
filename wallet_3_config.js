@@ -1,1 +1,1 @@
-var mnemonic = "polar crazy hidden trip alarm area vapor security sun drastic abandon spoil";
+var mnemonic = "night riot collect situate loyal sure inform elegant record remind verb debate";

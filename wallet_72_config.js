@@ -1,1 +1,1 @@
-var mnemonic = "spice risk witness upper clip gold tail during life cereal decide gloom";
+var mnemonic = "main zoo asthma isolate mule creek canvas sweet unaware cruise scene grace";

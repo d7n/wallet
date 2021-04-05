@@ -1,1 +1,1 @@
-var mnemonic = "this symbol cram nuclear busy require apart diesel wreck sorry sample please";
+var mnemonic = "gasp adjust debris letter link invest involve ensure lava dress relax city";

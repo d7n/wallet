@@ -1,1 +1,1 @@
-var mnemonic = "effort present panther false child narrow option stumble vocal snow burger truck";
+var mnemonic = "cousin daughter express nation race valid give long private quit negative true";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer defense senior grief host have orphan door perfect sketch stand attend";
+var mnemonic = "open lesson silent broom essay busy reason screen yard sure afraid exhibit";

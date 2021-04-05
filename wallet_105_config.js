@@ -1,1 +1,1 @@
-var mnemonic = "advice lift custom link melody program tree disorder tissue burger mouse pole";
+var mnemonic = "mixed galaxy manage bicycle cruise jacket expire shadow photo split misery length";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry piece parent vast outdoor flame spy exercise waste impulse reunion child";
+var mnemonic = "code tell small orbit prevent action issue poet door range badge trap";

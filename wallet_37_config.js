@@ -1,1 +1,1 @@
-var mnemonic = "delay mansion cluster crop puppy outdoor expect skill double pond hedgehog exact";
+var mnemonic = "course refuse child into apple replace treat endless suspect strong amount mention";

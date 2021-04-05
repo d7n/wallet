@@ -1,1 +1,1 @@
-var mnemonic = "horn front collect height sort shy depth pumpkin general runway produce correct";
+var mnemonic = "clock cart uphold smoke moment course team grow first resource hold open";

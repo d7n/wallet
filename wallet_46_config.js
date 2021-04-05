@@ -1,1 +1,1 @@
-var mnemonic = "glory ghost pupil jar bundle alcohol capable tunnel number crunch saddle blade";
+var mnemonic = "diary upgrade stamp census double minimum robot debate camp snow pill wage";

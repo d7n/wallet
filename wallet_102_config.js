@@ -1,1 +1,1 @@
-var mnemonic = "cliff uncover bird soul response rescue poverty ski response pen estate mind";
+var mnemonic = "entry peasant quiz myth uphold spray mechanic walk canvas adapt lend initial";

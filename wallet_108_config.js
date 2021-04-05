@@ -1,1 +1,1 @@
-var mnemonic = "sponsor noble upon all album carry nothing drink spot social film rotate";
+var mnemonic = "turtle true rival reunion acid run wire virtual sick minor chaos empty";

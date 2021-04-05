@@ -1,1 +1,1 @@
-var mnemonic = "escape travel inherit shoot fine grant settle cluster athlete rhythm mandate drum";
+var mnemonic = "tribe quick exhibit van pilot gym clock script match amateur conduct stem";

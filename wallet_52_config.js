@@ -1,1 +1,1 @@
-var mnemonic = "crew frown awake cigar ribbon collect scan base topple hen sweet scatter";
+var mnemonic = "one fine climb jungle boy echo cluster ensure zoo tennis job ankle";

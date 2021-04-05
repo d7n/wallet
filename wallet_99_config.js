@@ -1,1 +1,1 @@
-var mnemonic = "bargain oyster scheme pyramid rice naive crucial labor project pipe bridge error";
+var mnemonic = "bulb police phrase inmate country exchange earth glass parade garbage nuclear risk";

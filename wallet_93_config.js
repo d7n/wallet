@@ -1,1 +1,1 @@
-var mnemonic = "bicycle plug oyster prevent legal online dress ride gown plastic dizzy strong";
+var mnemonic = "extend tribe matrix market mutual patient thing swarm scissors swap medal hover";

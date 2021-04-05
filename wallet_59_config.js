@@ -1,1 +1,1 @@
-var mnemonic = "express sun split unable discover proof catch cage scare decade divide cactus";
+var mnemonic = "duty whip basket devote mind jelly master job oppose title mountain travel";

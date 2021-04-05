@@ -1,1 +1,1 @@
-var mnemonic = "dress veteran cactus install among tenant hotel simple switch civil wash one";
+var mnemonic = "drill source document opinion health typical capable noodle slogan advance alley jacket";

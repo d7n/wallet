@@ -1,1 +1,1 @@
-var mnemonic = "engage model skill frozen myself moon buffalo proud farm only name method";
+var mnemonic = "zone reveal indoor wisdom entry slab bitter afford satoshi awkward time smart";

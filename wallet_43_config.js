@@ -1,1 +1,1 @@
-var mnemonic = "abstract artwork exhaust empower name swamp sugar swift pitch boy nephew feed";
+var mnemonic = "cluster voyage earth safe wife abstract forest range phrase spider describe short";

@@ -1,1 +1,1 @@
-var mnemonic = "wool sibling copy canvas lawsuit melt horror pepper edit always ocean limit";
+var mnemonic = "tennis file cement doctor cheese rude curve era ghost history raw peace";

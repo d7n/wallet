@@ -1,1 +1,1 @@
-var mnemonic = "unknown high current remember awful harbor word cactus pudding picture autumn student";
+var mnemonic = "dentist document tone market reunion critic segment pitch blue oval have glue";

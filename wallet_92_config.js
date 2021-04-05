@@ -1,1 +1,1 @@
-var mnemonic = "anger real calm laugh arrive bright route disagree tiger traffic inspire nest";
+var mnemonic = "forget raise planet number zone scatter maple luxury chief shell weasel broccoli";

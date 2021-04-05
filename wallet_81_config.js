@@ -1,1 +1,1 @@
-var mnemonic = "bench aim sheriff kingdom boring nurse raven weather hub blood spider bunker";
+var mnemonic = "gentle soon solve hard access angry neutral outdoor rather cigar aspect torch";

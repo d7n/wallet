@@ -1,1 +1,1 @@
-var mnemonic = "slide cousin hungry brave endless utility doctor senior gesture fold vibrant occur";
+var mnemonic = "scorpion slim comic involve bullet gallery ladder season math notable half nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "noodle easy cause start mixture hip cousin equal deputy crowd move salute";
+var mnemonic = "normal forward wire uncover muscle plug wise dynamic script ride unit journey";

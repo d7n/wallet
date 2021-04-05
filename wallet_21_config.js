@@ -1,1 +1,1 @@
-var mnemonic = "sword bus cry mimic clay tackle still zone enrich report furnace way";
+var mnemonic = "various demise ribbon aisle spell find copper goddess hidden company release vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb tribe hat goose cloud riot abstract cage slogan soccer outside eye";
+var mnemonic = "high master cruel visual any orange possible menu student invest library protect";

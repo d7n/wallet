@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur gain sea eye mind sound chapter tired leg scare issue chicken";
+var mnemonic = "parrot shock depth invest life fire harbor you law degree climb trick";

@@ -1,1 +1,1 @@
-var mnemonic = "coyote loud hockey air supreme cram gravity usual own tiger crowd clap";
+var mnemonic = "medal judge upset mule faith head violin roast cabin pyramid garden work";

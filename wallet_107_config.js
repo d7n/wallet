@@ -1,1 +1,1 @@
-var mnemonic = "oval tortoise canal foil fence twin street great inherit mutual uniform erosion";
+var mnemonic = "veteran vicious tide poverty mansion strategy chuckle tortoise great blade lobster zoo";

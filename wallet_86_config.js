@@ -1,1 +1,1 @@
-var mnemonic = "force letter exile jaguar again various close subway coral keep worry artefact";
+var mnemonic = "under shrug hero script orchard prepare struggle bind theory wing record harbor";

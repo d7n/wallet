@@ -1,1 +1,1 @@
-var mnemonic = "gym motion aisle current flame hamster trick cherry minimum leader attract palm";
+var mnemonic = "danger bag tobacco creek adult reduce return top alert hurry provide pet";

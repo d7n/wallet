@@ -1,1 +1,1 @@
-var mnemonic = "honey dog gym tree prefer drop become rare elite outer eight hire";
+var mnemonic = "amazing custom chief early arrest stable toe patrol gospel puzzle mail repeat";

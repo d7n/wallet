@@ -1,1 +1,1 @@
-var mnemonic = "mutual slab addict fresh economy diagram bargain weapon dutch forest quality draw";
+var mnemonic = "betray arrow spin defense zoo question enjoy hollow ostrich blind stage reason";

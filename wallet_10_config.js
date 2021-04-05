@@ -1,1 +1,1 @@
-var mnemonic = "spot early check range author bracket demise grid buddy try involve maid";
+var mnemonic = "swap dose bulk between account train voyage this fire soldier fog night";

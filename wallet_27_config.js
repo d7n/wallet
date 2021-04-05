@@ -1,1 +1,1 @@
-var mnemonic = "exercise because pet clip need miss add into soul cereal ring main";
+var mnemonic = "kitten view scale enhance secret carpet invest rigid text moment rare carry";

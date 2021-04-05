@@ -1,1 +1,1 @@
-var mnemonic = "mushroom economy expect next select forest bleak rail report remain shoot token";
+var mnemonic = "soup mango question swarm stadium city sentence blue soap trick typical because";

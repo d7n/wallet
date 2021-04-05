@@ -1,1 +1,1 @@
-var mnemonic = "pass short educate badge dove crucial bag pen island mobile affair hip";
+var mnemonic = "imitate you moral buddy diary web panel tide tray suit test evil";

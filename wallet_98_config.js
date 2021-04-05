@@ -1,1 +1,1 @@
-var mnemonic = "comfort maze like crucial atom second witness rib dice erode grab trust";
+var mnemonic = "genre improve garbage midnight still expand dinosaur ticket pepper panda select sea";

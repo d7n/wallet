@@ -1,1 +1,1 @@
-var mnemonic = "crash film project black region avocado between accident remember address sustain crop";
+var mnemonic = "wait harvest because quarter evidence version letter wolf viable install observe gorilla";

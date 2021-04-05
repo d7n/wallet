@@ -1,1 +1,1 @@
-var mnemonic = "record number stock actual cute era saddle base axis inquiry settle december";
+var mnemonic = "basic laugh carry glue vicious zebra expand ghost chair crack laundry awful";

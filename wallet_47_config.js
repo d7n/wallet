@@ -1,1 +1,1 @@
-var mnemonic = "push dash measure erase citizen arena shoot vague weather decade ghost seminar";
+var mnemonic = "find lava goose solar cruise fashion tumble brother resemble lab trash candy";

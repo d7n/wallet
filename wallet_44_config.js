@@ -1,1 +1,1 @@
-var mnemonic = "rally arena peace unit volcano maximum domain pole copper example february remain";
+var mnemonic = "food pioneer thrive roof ginger horse company discover benefit duck crumble gloom";

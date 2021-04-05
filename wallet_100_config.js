@@ -1,1 +1,1 @@
-var mnemonic = "debate resist income hip slender inside pattern board section spike cat ketchup";
+var mnemonic = "calm elevator leave uncle cousin critic dawn flat eyebrow seed popular caught";

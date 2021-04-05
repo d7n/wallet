@@ -1,1 +1,1 @@
-var mnemonic = "ready fantasy swear goddess acquire long manage robust finish coach water confirm";
+var mnemonic = "oak between entire danger eternal attack always coil grant cotton salon window";

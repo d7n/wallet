@@ -1,1 +1,1 @@
-var mnemonic = "fever able athlete guide cruise reflect shrug skull capable grunt ten carpet";
+var mnemonic = "despair spatial mosquito regular crazy alert panel desk inside echo sunny metal";

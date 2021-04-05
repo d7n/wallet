@@ -1,1 +1,1 @@
-var mnemonic = "vicious world salute coin wisdom weird dune disease story couch congress lonely";
+var mnemonic = "captain approve useful talent boy reduce raven north forget employ version dance";

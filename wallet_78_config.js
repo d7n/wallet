@@ -1,1 +1,1 @@
-var mnemonic = "quality course segment detail vital rotate project only ski theme acid remove";
+var mnemonic = "deny misery second stereo dwarf hedgehog path dance come profit increase donor";

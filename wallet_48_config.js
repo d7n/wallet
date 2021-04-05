@@ -1,1 +1,1 @@
-var mnemonic = "call envelope spend pluck pipe custom behave neglect media exhibit local garbage";
+var mnemonic = "opinion apology loan always blouse naive ball able supply boost virtual happy";

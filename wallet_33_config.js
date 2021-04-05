@@ -1,1 +1,1 @@
-var mnemonic = "solution bargain permit maid luggage syrup carry prize opera cactus will rough";
+var mnemonic = "wide unfair suggest join pony fury picnic loyal scene mass large hidden";

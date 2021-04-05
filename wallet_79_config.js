@@ -1,1 +1,1 @@
-var mnemonic = "session harsh utility victory atom bachelor novel dial mixture answer abandon social";
+var mnemonic = "fork elbow catalog utility stone december tiny envelope stuff profit water jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "odor front scare employ kid sick advice nasty wrap hammer shell wish";
+var mnemonic = "able chunk helmet address present radar nephew laundry jump atom biology toward";

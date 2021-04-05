@@ -1,1 +1,1 @@
-var mnemonic = "record vicious seek room price divorce vibrant balcony regular pencil patch village";
+var mnemonic = "impulse rib argue damage want uncover report bomb plastic peasant parade minimum";

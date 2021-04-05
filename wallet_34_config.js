@@ -1,1 +1,1 @@
-var mnemonic = "ceiling ensure demise ribbon orchard blind measure jump final hand jealous inform";
+var mnemonic = "earn genius evidence just cabin fly sweet bench hip town denial apology";

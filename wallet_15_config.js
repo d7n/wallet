@@ -1,1 +1,1 @@
-var mnemonic = "eight shrimp bunker valid april mountain raise grass gaze virtual sweet volcano";
+var mnemonic = "filter bright buzz talk there deposit original kangaroo rhythm sea devote rather";

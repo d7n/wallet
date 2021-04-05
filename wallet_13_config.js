@@ -1,1 +1,1 @@
-var mnemonic = "come rescue crew excess gospel photo inch pattern sense inherit upset step";
+var mnemonic = "motor grocery unfold comic world book bounce scene regular solution nest trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "size type man spoil salmon brief carbon advance clean soup ticket iron";
+var mnemonic = "spirit quarter minimum walnut churn idle grab bamboo burden across measure swamp";

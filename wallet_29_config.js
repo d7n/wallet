@@ -1,1 +1,1 @@
-var mnemonic = "chapter future mutual slab cruise blush reopen alone dolphin beach poem frequent";
+var mnemonic = "service foot lucky tunnel neck spare chuckle collect party they figure pluck";

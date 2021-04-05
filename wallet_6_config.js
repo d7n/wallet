@@ -1,1 +1,1 @@
-var mnemonic = "neutral special labor cruise tree fall skin cloth crop upgrade scrub wool";
+var mnemonic = "duck nose track staff cloud notice bridge media mandate devote input special";

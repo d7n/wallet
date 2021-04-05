@@ -1,1 +1,1 @@
-var mnemonic = "mechanic country spoon machine view laundry system devote bargain skull joy girl";
+var mnemonic = "wink enable roof boss win useful obey fault question able light husband";

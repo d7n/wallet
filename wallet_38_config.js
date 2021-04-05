@@ -1,1 +1,1 @@
-var mnemonic = "abuse eye answer chat pole success fan tell holiday above track number";
+var mnemonic = "differ marine wisdom happy glide wedding lucky near sibling rich festival run";

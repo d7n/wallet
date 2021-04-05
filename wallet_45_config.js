@@ -1,1 +1,1 @@
-var mnemonic = "retire merit social cabbage day unfair muffin zero clip primary genius barely";
+var mnemonic = "dignity kite harvest hour word zero hello edit load evoke evolve silly";

@@ -1,1 +1,1 @@
-var mnemonic = "erode notable animal light shuffle dilemma guard tattoo side grow rice doll";
+var mnemonic = "bacon appear sail dash proof frog squeeze view spread museum mix erase";

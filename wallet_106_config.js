@@ -1,1 +1,1 @@
-var mnemonic = "artwork roof fork crawl rare shuffle veteran tag pattern ship question term";
+var mnemonic = "viable solve bread umbrella method movie position gym cotton build west prefer";

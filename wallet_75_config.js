@@ -1,1 +1,1 @@
-var mnemonic = "prize yellow combine remove middle member divert nation bulb fix mind amused";
+var mnemonic = "purpose misery caught imitate ride fix citizen false piece disorder click laptop";

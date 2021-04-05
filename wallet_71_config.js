@@ -1,1 +1,1 @@
-var mnemonic = "twenty island loyal bless dumb member clown news toy repeat social combine";
+var mnemonic = "code laptop ball topple cement piano miracle box blossom brisk theme neutral";

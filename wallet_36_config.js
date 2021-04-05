@@ -1,1 +1,1 @@
-var mnemonic = "barely process produce bleak crawl head thing angle vivid capable lawsuit device";
+var mnemonic = "valve sail equip border sting hybrid dish dolphin autumn easily target emerge";

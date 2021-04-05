@@ -1,1 +1,1 @@
-var mnemonic = "receive number inspire inner host clock jewel resemble solid elite sugar fetch";
+var mnemonic = "stable vibrant raw foster stem pause spike person frozen client fault song";
