@@ -1,1 +1,1 @@
-var mnemonic = "baby symptom chair render where caught destroy pitch reform drift blood test";
+var mnemonic = "syrup hour female twelve insane scrub table anchor regular climb random undo";

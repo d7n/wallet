@@ -1,1 +1,1 @@
-var mnemonic = "despair spatial mosquito regular crazy alert panel desk inside echo sunny metal";
+var mnemonic = "flag man warm mystery object clinic bean enlist tooth spatial egg huge";

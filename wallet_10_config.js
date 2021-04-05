@@ -1,1 +1,1 @@
-var mnemonic = "swap dose bulk between account train voyage this fire soldier fog night";
+var mnemonic = "foot motor clarify before vessel atom minimum sauce brave material hurdle woman";

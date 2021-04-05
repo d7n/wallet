@@ -1,1 +1,1 @@
-var mnemonic = "media burst siege collect topple slim claim dial father security short picture";
+var mnemonic = "cool shadow jazz author puppy riot subject north lunar term resist honey";

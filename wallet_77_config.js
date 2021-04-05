@@ -1,1 +1,1 @@
-var mnemonic = "zone reveal indoor wisdom entry slab bitter afford satoshi awkward time smart";
+var mnemonic = "foster appear express brain victory blouse assault scheme explain taste cost rival";

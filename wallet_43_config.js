@@ -1,1 +1,1 @@
-var mnemonic = "cluster voyage earth safe wife abstract forest range phrase spider describe short";
+var mnemonic = "slice resemble can ocean audit sell little effort dignity junk entire decade";

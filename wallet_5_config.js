@@ -1,1 +1,1 @@
-var mnemonic = "gasp adjust debris letter link invest involve ensure lava dress relax city";
+var mnemonic = "among diesel immense desk usual view fiction glass pill round viable inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke depend crystal raw youth much limit flee write near diamond timber";
+var mnemonic = "panel expand film mosquito parade mixed upgrade boring excite advice dragon ring";

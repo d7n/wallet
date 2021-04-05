@@ -1,1 +1,1 @@
-var mnemonic = "add together panther leisure orange oxygen sea scheme brisk okay pride wonder";
+var mnemonic = "urge control grant hip apart swap blouse silk fit update vacuum apology";

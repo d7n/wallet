@@ -1,1 +1,1 @@
-var mnemonic = "tennis file cement doctor cheese rude curve era ghost history raw peace";
+var mnemonic = "jar draft good often all film october duty fit coyote gown jazz";

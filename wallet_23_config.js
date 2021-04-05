@@ -1,1 +1,1 @@
-var mnemonic = "oak between entire danger eternal attack always coil grant cotton salon window";
+var mnemonic = "alcohol search mansion insect once crash symptom another neglect trust cat salon";

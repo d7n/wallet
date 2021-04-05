@@ -1,1 +1,1 @@
-var mnemonic = "earn genius evidence just cabin fly sweet bench hip town denial apology";
+var mnemonic = "beach comfort boss walk junior fan meadow exile expand frown all sketch";

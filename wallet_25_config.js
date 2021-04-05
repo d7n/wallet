@@ -1,1 +1,1 @@
-var mnemonic = "wheat blush zoo fog carpet install bind bone comic reflect grain vital";
+var mnemonic = "media true sea rifle brand vague frequent spell wage humble hundred million";

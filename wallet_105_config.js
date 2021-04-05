@@ -1,1 +1,1 @@
-var mnemonic = "mixed galaxy manage bicycle cruise jacket expire shadow photo split misery length";
+var mnemonic = "trash bullet gas quiz vacuum actress clown stand feature day glare move";

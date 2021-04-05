@@ -1,1 +1,1 @@
-var mnemonic = "when visual regular profit time boring merry oil weasel undo crouch tiger";
+var mnemonic = "violin duty electric tornado treat toy pizza profit suit borrow subway fringe";

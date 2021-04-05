@@ -1,1 +1,1 @@
-var mnemonic = "range enable exercise fitness filter daring claw unique noise lumber canal permit";
+var mnemonic = "another actor hint much slow buffalo bracket scrub jacket swim power one";

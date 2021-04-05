@@ -1,1 +1,1 @@
-var mnemonic = "stamp midnight tissue birth slender pear vanish sauce celery tenant meat crawl";
+var mnemonic = "village wreck child second alley please wide soap expand pave inject artist";

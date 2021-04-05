@@ -1,1 +1,1 @@
-var mnemonic = "amazing custom chief early arrest stable toe patrol gospel puzzle mail repeat";
+var mnemonic = "include want client news fantasy candy tissue dry regular limb you pony";

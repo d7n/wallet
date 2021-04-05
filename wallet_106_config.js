@@ -1,1 +1,1 @@
-var mnemonic = "viable solve bread umbrella method movie position gym cotton build west prefer";
+var mnemonic = "prison helmet toe stay annual exercise strike lecture case blame oven parrot";

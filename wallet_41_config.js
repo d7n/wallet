@@ -1,1 +1,1 @@
-var mnemonic = "enlist tunnel network absorb vivid dilemma okay salon prosper tobacco smart rubber";
+var mnemonic = "mad magic route doll panic twist mandate tag coffee guilt divorce pair";

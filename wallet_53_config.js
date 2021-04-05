@@ -1,1 +1,1 @@
-var mnemonic = "medal judge upset mule faith head violin roast cabin pyramid garden work";
+var mnemonic = "maze actual lady phrase ladder alter frequent renew feed problem false cake";

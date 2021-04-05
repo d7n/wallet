@@ -1,1 +1,1 @@
-var mnemonic = "fork elbow catalog utility stone december tiny envelope stuff profit water jelly";
+var mnemonic = "roof next total success ginger soldier wage start day local clown debate";

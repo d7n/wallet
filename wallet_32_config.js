@@ -1,1 +1,1 @@
-var mnemonic = "trophy planet lizard sad suit crash steak female lumber promote super fatal";
+var mnemonic = "chapter slab move accuse snake cotton rack neglect elder middle toy cloud";

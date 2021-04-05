@@ -1,1 +1,1 @@
-var mnemonic = "symbol little chimney bitter hidden weasel boil number eagle useless account build";
+var mnemonic = "cousin nephew match uncover second wash drastic strong minor guide diary person";

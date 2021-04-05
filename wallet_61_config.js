@@ -1,1 +1,1 @@
-var mnemonic = "spend vague float draft trigger sadness enter club eyebrow foam water describe";
+var mnemonic = "vibrant grit dish feature opera slide trust design argue cliff model curve";

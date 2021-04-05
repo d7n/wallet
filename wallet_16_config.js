@@ -1,1 +1,1 @@
-var mnemonic = "also curve control boat citizen window weather excuse sea crowd innocent interest";
+var mnemonic = "universe foster scan slam title catalog west emotion moral cable monkey ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion apology loan always blouse naive ball able supply boost virtual happy";
+var mnemonic = "interest title canoe valid ancient clay knife soldier excite runway unfold bar";

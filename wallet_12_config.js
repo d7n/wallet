@@ -1,1 +1,1 @@
-var mnemonic = "execute denial blast match fruit satisfy shift belt proud entry width genre";
+var mnemonic = "tackle concert lizard remain giant admit valve harbor rain nice silk sudden";

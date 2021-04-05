@@ -1,1 +1,1 @@
-var mnemonic = "high master cruel visual any orange possible menu student invest library protect";
+var mnemonic = "fuel document symbol announce own mass daughter hollow erosion journey alter inmate";

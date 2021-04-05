@@ -1,1 +1,1 @@
-var mnemonic = "betray arrow spin defense zoo question enjoy hollow ostrich blind stage reason";
+var mnemonic = "fortune grunt original viable unfold spot family very direct fury alien idea";

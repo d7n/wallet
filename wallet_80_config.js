@@ -1,1 +1,1 @@
-var mnemonic = "cause crawl park margin deal side weather chapter fresh two tired glad";
+var mnemonic = "mansion world oxygen glance fly nut dumb glad invest clock door accident";

@@ -1,1 +1,1 @@
-var mnemonic = "clock cart uphold smoke moment course team grow first resource hold open";
+var mnemonic = "stereo thing casino hollow wasp deer build motor bitter grace silent oil";

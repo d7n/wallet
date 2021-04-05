@@ -1,1 +1,1 @@
-var mnemonic = "main zoo asthma isolate mule creek canvas sweet unaware cruise scene grace";
+var mnemonic = "mutual remind host grunt predict quality flash arch helmet twist casual strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "diary upgrade stamp census double minimum robot debate camp snow pill wage";
+var mnemonic = "mule purpose point solution coyote chef parent panel divert marble strike sadness";

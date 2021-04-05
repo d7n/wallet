@@ -1,1 +1,1 @@
-var mnemonic = "cousin daughter express nation race valid give long private quit negative true";
+var mnemonic = "fit clerk please machine jaguar box pond brand oval wing depart leopard";

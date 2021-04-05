@@ -1,1 +1,1 @@
-var mnemonic = "violin quick happy measure voyage water rapid night concert blast across labor";
+var mnemonic = "raven inmate baby hat puppy cricket merry demise define drastic twist unfold";

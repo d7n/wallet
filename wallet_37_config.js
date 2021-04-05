@@ -1,1 +1,1 @@
-var mnemonic = "course refuse child into apple replace treat endless suspect strong amount mention";
+var mnemonic = "snack rotate imitate width repair finger border attack pattern empty width convince";

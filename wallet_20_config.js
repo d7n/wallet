@@ -1,1 +1,1 @@
-var mnemonic = "drill source document opinion health typical capable noodle slogan advance alley jacket";
+var mnemonic = "escape seed pepper hold tiger razor cake small improve tomorrow above aware";

@@ -1,1 +1,1 @@
-var mnemonic = "patch vapor strike blue want van pony bird gossip trend version reject";
+var mnemonic = "apple story input sustain neither erupt teach galaxy vital filter near explain";

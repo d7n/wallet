@@ -1,1 +1,1 @@
-var mnemonic = "fade virus proof treat basket cheese interest critic that river dwarf jacket";
+var mnemonic = "crew aim glow divorce mandate swap join wrestle garden blanket myself theme";

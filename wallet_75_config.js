@@ -1,1 +1,1 @@
-var mnemonic = "purpose misery caught imitate ride fix citizen false piece disorder click laptop";
+var mnemonic = "promote resist slush object obey beyond void worth fossil jeans nurse chalk";

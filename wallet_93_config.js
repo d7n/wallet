@@ -1,1 +1,1 @@
-var mnemonic = "extend tribe matrix market mutual patient thing swarm scissors swap medal hover";
+var mnemonic = "bachelor impulse practice surround fork walnut fan face token dog fiber direct";

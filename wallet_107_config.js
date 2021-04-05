@@ -1,1 +1,1 @@
-var mnemonic = "veteran vicious tide poverty mansion strategy chuckle tortoise great blade lobster zoo";
+var mnemonic = "custom bulb plate vacuum reunion start session disagree general another group author";

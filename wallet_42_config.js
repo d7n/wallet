@@ -1,1 +1,1 @@
-var mnemonic = "wait harvest because quarter evidence version letter wolf viable install observe gorilla";
+var mnemonic = "aunt mimic raven foster expand banner kangaroo habit tobacco normal bounce leaf";

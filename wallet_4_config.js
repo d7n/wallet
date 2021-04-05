@@ -1,1 +1,1 @@
-var mnemonic = "danger bag tobacco creek adult reduce return top alert hurry provide pet";
+var mnemonic = "rotate plate detect combine venture ankle banner swing coach device mountain habit";

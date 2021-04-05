@@ -1,1 +1,1 @@
-var mnemonic = "pig brand habit fault spike civil weapon vicious spider fortune acquire favorite";
+var mnemonic = "will what popular novel until arrange item section muscle teach during twelve";

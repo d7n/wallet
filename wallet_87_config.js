@@ -1,1 +1,1 @@
-var mnemonic = "tunnel hold license wine siren coin ethics tree favorite moral say reflect";
+var mnemonic = "security tobacco shop patient unknown proof age piece danger gauge pass nurse";

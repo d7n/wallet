@@ -1,1 +1,1 @@
-var mnemonic = "differ marine wisdom happy glide wedding lucky near sibling rich festival run";
+var mnemonic = "barely hair elephant sign corn post wife veteran bulb scan leopard heavy";

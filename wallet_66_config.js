@@ -1,1 +1,1 @@
-var mnemonic = "spirit quarter minimum walnut churn idle grab bamboo burden across measure swamp";
+var mnemonic = "miracle when route admit dentist ship fix toss field elite melody collect";

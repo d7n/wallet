@@ -1,1 +1,1 @@
-var mnemonic = "below render tribe elder ostrich entry either pupil off team high sphere";
+var mnemonic = "badge churn humble raven present mystery ten ship catch discover token garden";

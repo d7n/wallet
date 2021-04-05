@@ -1,1 +1,1 @@
-var mnemonic = "wide unfair suggest join pony fury picnic loyal scene mass large hidden";
+var mnemonic = "rebel pill level ability rather side weird tower concert spare despair achieve";

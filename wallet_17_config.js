@@ -1,1 +1,1 @@
-var mnemonic = "stable vibrant raw foster stem pause spike person frozen client fault song";
+var mnemonic = "wrong smooth glory ostrich ribbon skill upset nominee guard home ability force";

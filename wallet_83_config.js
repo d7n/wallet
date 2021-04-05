@@ -1,1 +1,1 @@
-var mnemonic = "bacon appear sail dash proof frog squeeze view spread museum mix erase";
+var mnemonic = "abstract lunch side clap frog gold camera patient flash peasant puzzle swarm";

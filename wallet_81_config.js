@@ -1,1 +1,1 @@
-var mnemonic = "gentle soon solve hard access angry neutral outdoor rather cigar aspect torch";
+var mnemonic = "apology spirit repeat work aerobic comfort pool toward beauty pride duck riot";

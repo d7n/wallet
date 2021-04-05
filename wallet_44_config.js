@@ -1,1 +1,1 @@
-var mnemonic = "food pioneer thrive roof ginger horse company discover benefit duck crumble gloom";
+var mnemonic = "patient tonight sword thrive burst brick client kick slow stick coyote innocent";

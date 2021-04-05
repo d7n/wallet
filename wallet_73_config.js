@@ -1,1 +1,1 @@
-var mnemonic = "music rookie melody mesh liberty sport either know chapter census apple lock";
+var mnemonic = "engage illegal menu toast attract glare proud modify mobile ticket aspect physical";

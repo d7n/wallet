@@ -1,1 +1,1 @@
-var mnemonic = "onion canyon garden noble bachelor rug globe frequent host young vacuum rally";
+var mnemonic = "mom year vessel diamond frost canvas today endless basic glow elevator drink";

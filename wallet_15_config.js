@@ -1,1 +1,1 @@
-var mnemonic = "filter bright buzz talk there deposit original kangaroo rhythm sea devote rather";
+var mnemonic = "oblige auction cupboard cup derive stadium found rival pave lift fury creek";

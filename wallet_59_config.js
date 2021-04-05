@@ -1,1 +1,1 @@
-var mnemonic = "duty whip basket devote mind jelly master job oppose title mountain travel";
+var mnemonic = "lazy bullet trigger mention cook avoid spirit doll symbol output huge any";

@@ -1,1 +1,1 @@
-var mnemonic = "dignity kite harvest hour word zero hello edit load evoke evolve silly";
+var mnemonic = "nature usage fault primary alone impact ride source knock bubble rookie host";

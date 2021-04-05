@@ -1,1 +1,1 @@
-var mnemonic = "fragile section short peanut entire enough crucial hospital segment obvious soft clutch";
+var mnemonic = "label razor same scorpion glad rifle abuse prepare burger fee beef museum";

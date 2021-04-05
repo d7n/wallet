@@ -1,1 +1,1 @@
-var mnemonic = "deny misery second stereo dwarf hedgehog path dance come profit increase donor";
+var mnemonic = "critic car viable exchange bless olympic alien popular sting jealous admit photo";

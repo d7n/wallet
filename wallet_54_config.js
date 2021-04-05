@@ -1,1 +1,1 @@
-var mnemonic = "dentist document tone market reunion critic segment pitch blue oval have glue";
+var mnemonic = "melody witness clean loud dentist december glory job blind amateur enable before";

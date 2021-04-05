@@ -1,1 +1,1 @@
-var mnemonic = "wink enable roof boss win useful obey fault question able light husband";
+var mnemonic = "figure volume mystery legend sunset side frost coral hello fox kangaroo genre";

@@ -1,1 +1,1 @@
-var mnemonic = "duck nose track staff cloud notice bridge media mandate devote input special";
+var mnemonic = "spend sick goose elegant dad demand gas onion material shed achieve nothing";

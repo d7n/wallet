@@ -1,1 +1,1 @@
-var mnemonic = "motor grocery unfold comic world book bounce scene regular solution nest trumpet";
+var mnemonic = "more blast salad muffin vivid surface crouch travel risk dress husband broken";

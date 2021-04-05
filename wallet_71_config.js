@@ -1,1 +1,1 @@
-var mnemonic = "code laptop ball topple cement piano miracle box blossom brisk theme neutral";
+var mnemonic = "way rebuild jar illegal media catch garlic cancel collect course brief output";

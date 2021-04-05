@@ -1,1 +1,1 @@
-var mnemonic = "parrot shock depth invest life fire harbor you law degree climb trick";
+var mnemonic = "trip release antenna tribe piano design chuckle car can cruise sting wage";

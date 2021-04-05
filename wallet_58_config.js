@@ -1,1 +1,1 @@
-var mnemonic = "code tell small orbit prevent action issue poet door range badge trap";
+var mnemonic = "away club train feed hotel design warm olive recipe ill alley frost";

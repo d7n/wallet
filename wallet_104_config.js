@@ -1,1 +1,1 @@
-var mnemonic = "tribe quick exhibit van pilot gym clock script match amateur conduct stem";
+var mnemonic = "below panic erase wagon fitness where label chat across excite receive illness";

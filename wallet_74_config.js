@@ -1,1 +1,1 @@
-var mnemonic = "captain approve useful talent boy reduce raven north forget employ version dance";
+var mnemonic = "royal punch pull track often simple come sail busy ridge push auction";

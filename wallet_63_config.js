@@ -1,1 +1,1 @@
-var mnemonic = "tip bacon inspire eagle indoor loyal ocean raven predict neck seat weather";
+var mnemonic = "piece water labor glory abuse ignore select toddler dutch control goose rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion slim comic involve bullet gallery ladder season math notable half nominee";
+var mnemonic = "balance love reform brain retreat scheme label repair bike drum vacuum laugh";

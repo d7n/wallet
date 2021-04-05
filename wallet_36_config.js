@@ -1,1 +1,1 @@
-var mnemonic = "valve sail equip border sting hybrid dish dolphin autumn easily target emerge";
+var mnemonic = "flight blame setup addict easily misery all hockey steak hire pact ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "kitten view scale enhance secret carpet invest rigid text moment rare carry";
+var mnemonic = "opinion lake true close jacket grunt vivid fancy proof zebra vendor alter";

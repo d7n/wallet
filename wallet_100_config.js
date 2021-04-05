@@ -1,1 +1,1 @@
-var mnemonic = "calm elevator leave uncle cousin critic dawn flat eyebrow seed popular caught";
+var mnemonic = "charge easy orphan coral please envelope foster castle spread hunt carry matrix";

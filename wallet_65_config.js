@@ -1,1 +1,1 @@
-var mnemonic = "tired animal cushion fun travel window trigger train breeze goddess blade seed";
+var mnemonic = "topic abstract exist curve disagree bus cook remind morning lab stable marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "one fine climb jungle boy echo cluster ensure zoo tennis job ankle";
+var mnemonic = "federal depth fitness skate icon exist comfort ignore light term belt oak";

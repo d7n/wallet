@@ -1,1 +1,1 @@
-var mnemonic = "service foot lucky tunnel neck spare chuckle collect party they figure pluck";
+var mnemonic = "print thrive script patch celery bind enrich future giant world quick guide";

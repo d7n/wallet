@@ -1,1 +1,1 @@
-var mnemonic = "gain cat input industry roof blossom avoid fence tower enemy focus attitude";
+var mnemonic = "imitate cat impose concert skate hotel accuse spare net dice clock fabric";

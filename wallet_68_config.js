@@ -1,1 +1,1 @@
-var mnemonic = "leisure two kiwi exhaust prison rice proof catalog excuse asset concert awesome";
+var mnemonic = "camera okay reason true shock garment royal stereo valid pause clean convince";

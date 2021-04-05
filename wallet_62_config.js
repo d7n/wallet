@@ -1,1 +1,1 @@
-var mnemonic = "milk spoil path uncover actual behind fit poverty near deal vintage evil";
+var mnemonic = "vacuum marble crowd puzzle collect device mixture sign runway rebuild loop tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "pride must wrestle winter minute busy river dash valve sun disorder knife";
+var mnemonic = "visit okay amount mosquito actor option hawk rookie jaguar female lock balance";

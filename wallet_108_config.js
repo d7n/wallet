@@ -1,1 +1,1 @@
-var mnemonic = "turtle true rival reunion acid run wire virtual sick minor chaos empty";
+var mnemonic = "quality fresh fork teach marble oxygen uncover multiply arrow hurdle destroy obvious";

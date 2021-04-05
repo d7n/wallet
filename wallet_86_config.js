@@ -1,1 +1,1 @@
-var mnemonic = "under shrug hero script orchard prepare struggle bind theory wing record harbor";
+var mnemonic = "expand detail liberty enroll large ritual either expire coconut prosper betray federal";

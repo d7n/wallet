@@ -1,1 +1,1 @@
-var mnemonic = "bulb police phrase inmate country exchange earth glass parade garbage nuclear risk";
+var mnemonic = "fiscal acid card solid excess obscure aim grab digital vault trap athlete";

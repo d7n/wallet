@@ -1,1 +1,1 @@
-var mnemonic = "series wine crack hat host cause before put travel wet remove obey";
+var mnemonic = "tortoise round index old merry economy ski crucial vendor photo extend melt";

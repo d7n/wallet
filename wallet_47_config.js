@@ -1,1 +1,1 @@
-var mnemonic = "find lava goose solar cruise fashion tumble brother resemble lab trash candy";
+var mnemonic = "educate tag basket tone curious mirror leader drastic destroy sense imitate shrug";

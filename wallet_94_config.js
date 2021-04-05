@@ -1,1 +1,1 @@
-var mnemonic = "normal forward wire uncover muscle plug wise dynamic script ride unit journey";
+var mnemonic = "one right access able taste sea better cable idea start broom orient";

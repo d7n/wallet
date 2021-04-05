@@ -1,1 +1,1 @@
-var mnemonic = "security team ecology craft toilet radio approve truck power brave retire total";
+var mnemonic = "clap inspire snake ugly trick friend crash mango invite borrow heart crew";

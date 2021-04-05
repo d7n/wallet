@@ -1,1 +1,1 @@
-var mnemonic = "open lesson silent broom essay busy reason screen yard sure afraid exhibit";
+var mnemonic = "kingdom match eight flat else gym raw fragile zebra cherry wrist gift";

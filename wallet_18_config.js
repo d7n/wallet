@@ -1,1 +1,1 @@
-var mnemonic = "morning nasty edit immense south pony day kitchen obtain toe crunch smoke";
+var mnemonic = "thumb rebel retire illegal spin hobby afford circle rubber print usage food";

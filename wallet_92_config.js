@@ -1,1 +1,1 @@
-var mnemonic = "forget raise planet number zone scatter maple luxury chief shell weasel broccoli";
+var mnemonic = "rebel student fall square draw cactus unique conduct short dolphin trap anger";

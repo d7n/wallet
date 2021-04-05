@@ -1,1 +1,1 @@
-var mnemonic = "gate slush input artist describe session city usage chair laugh floor found";
+var mnemonic = "rack try match demise coin ill close allow citizen deer kit burst";
