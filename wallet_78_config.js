@@ -1,1 +1,1 @@
-var mnemonic = "trip protect basic guilt school visa giraffe case mosquito invite nerve tower";
+var mnemonic = "goose rack scene milk stem patch patrol little apple dumb ketchup slogan";

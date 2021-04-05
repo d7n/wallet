@@ -1,1 +1,1 @@
-var mnemonic = "verb diet apart estate notice fall surround private truck rebel seek detail";
+var mnemonic = "clutch jealous van infant burger depend venue review hollow fetch vintage company";

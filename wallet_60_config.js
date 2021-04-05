@@ -1,1 +1,1 @@
-var mnemonic = "satoshi milk heavy opinion brown mango over rookie month base meat pilot";
+var mnemonic = "boost riot hurdle monkey thank thrive cause zebra drip position catch butter";

@@ -1,1 +1,1 @@
-var mnemonic = "genius thrive post analyst genre what alpha lucky arrange hand settle basket";
+var mnemonic = "toddler impact height review material decorate bind subway winter film next fever";

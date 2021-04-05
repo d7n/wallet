@@ -1,1 +1,1 @@
-var mnemonic = "affair angle wire burden video room already vote trip melody radio ignore";
+var mnemonic = "side chuckle gorilla parent youth crumble hello spend weekend quality tennis exist";

@@ -1,1 +1,1 @@
-var mnemonic = "drink eyebrow wagon palm sample feature song slight tomato street build helmet";
+var mnemonic = "dumb hazard leisure ancient poet alcohol pitch trim supreme two motor grant";

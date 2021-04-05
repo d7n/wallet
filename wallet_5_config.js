@@ -1,1 +1,1 @@
-var mnemonic = "walk produce fantasy general wave senior song wage profit furnace answer gather";
+var mnemonic = "session dinner blood cloud satisfy sing together cart ketchup tennis dance magic";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious jazz replace celery local mean morning sting tell luxury boy coil";
+var mnemonic = "popular else lazy load letter firm legal creek april uncover diagram acid";

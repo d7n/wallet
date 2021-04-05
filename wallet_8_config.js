@@ -1,1 +1,1 @@
-var mnemonic = "sort side fence tackle picnic point note rice moral spot shoulder medal";
+var mnemonic = "cinnamon purse clerk laugh build capable large sketch again recycle letter echo";

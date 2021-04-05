@@ -1,1 +1,1 @@
-var mnemonic = "neck current mouse velvet guilt identify symptom knee harbor lyrics play flee";
+var mnemonic = "shaft vague rib tourist feature citizen law travel skirt torch magnet twelve";

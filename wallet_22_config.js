@@ -1,1 +1,1 @@
-var mnemonic = "enact learn ritual talk deliver smooth off size security delay emerge rigid";
+var mnemonic = "offer butter salmon ivory reunion behave effort suit prevent tiger tumble garage";

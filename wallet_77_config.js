@@ -1,1 +1,1 @@
-var mnemonic = "coast paper goat body choice innocent annual pill lounge hazard scorpion clean";
+var mnemonic = "portion hour swallow case amused calm sort relief jar assault very pink";

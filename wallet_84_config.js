@@ -1,1 +1,1 @@
-var mnemonic = "goose later field stamp talk still cactus short sand reduce race gate";
+var mnemonic = "animal note advance phrase peace ivory protect egg again journey congress health";

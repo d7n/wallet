@@ -1,1 +1,1 @@
-var mnemonic = "usage egg office bitter hair solid toilet illegal belt firm flip lend";
+var mnemonic = "when infant carbon artist pet embark swear bomb duty custom risk mimic";

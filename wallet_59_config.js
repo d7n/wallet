@@ -1,1 +1,1 @@
-var mnemonic = "rather lounge liar patrol again menu obey crisp there kitten history choose";
+var mnemonic = "century truck pony lab glow eight health twist load steak blade sadness";

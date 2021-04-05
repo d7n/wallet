@@ -1,1 +1,1 @@
-var mnemonic = "barrel balance under culture left income glad final endless certain leave begin";
+var mnemonic = "fat trim grow law math pool behind weird flat inspire adapt thumb";

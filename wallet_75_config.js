@@ -1,1 +1,1 @@
-var mnemonic = "material banner shoulder consider sport giraffe athlete degree hen traffic tip space";
+var mnemonic = "tonight lawsuit sure rookie desk ankle bind hungry cabin wear pen catch";

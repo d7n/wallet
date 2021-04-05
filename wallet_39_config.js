@@ -1,1 +1,1 @@
-var mnemonic = "fall shield output rhythm movie job mansion jelly tenant hello just bench";
+var mnemonic = "iron manual lake type casual proud submit crop tree fiction ship shop";

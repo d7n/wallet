@@ -1,1 +1,1 @@
-var mnemonic = "evidence retire because flush apple retire inquiry skirt safe stable ill tragic";
+var mnemonic = "hand neglect message south confirm track pottery image kiwi mom hand expect";

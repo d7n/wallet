@@ -1,1 +1,1 @@
-var mnemonic = "buyer mother lemon yellow human shoot hire home derive slot outside wrist";
+var mnemonic = "bone galaxy mother canvas hedgehog panic rural aware permit bacon shine torch";

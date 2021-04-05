@@ -1,1 +1,1 @@
-var mnemonic = "husband there remember visit injury hole noodle harbor argue finger mountain type";
+var mnemonic = "key melt north army tail round diet absurd imitate bargain wolf junk";

@@ -1,1 +1,1 @@
-var mnemonic = "piano enter laugh cage forest suit peanut stable awesome style bright margin";
+var mnemonic = "crush pet income milk year museum that lamp seat immune swim shoulder";

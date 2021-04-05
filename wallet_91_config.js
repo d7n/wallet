@@ -1,1 +1,1 @@
-var mnemonic = "acoustic dry toward olive thunder pluck retreat clutch visual appear inspire glue";
+var mnemonic = "reveal salute they sort enter insect donkey blush double entire roast three";

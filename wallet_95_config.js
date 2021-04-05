@@ -1,1 +1,1 @@
-var mnemonic = "boring credit machine such egg much park empower climb very man odor";
+var mnemonic = "buffalo globe season beyond wide elegant spike miss source caution turtle climb";

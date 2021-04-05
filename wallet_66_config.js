@@ -1,1 +1,1 @@
-var mnemonic = "fame excess hamster moment raise erupt creek human slight rich trial horn";
+var mnemonic = "taxi flip cook chase update ranch chicken few sock main valley damage";

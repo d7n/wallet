@@ -1,1 +1,1 @@
-var mnemonic = "innocent program gown olive sentence switch trash notice bacon reduce carbon balance";
+var mnemonic = "estate gorilla maple pill lobster ritual spin trip stem romance leopard goat";

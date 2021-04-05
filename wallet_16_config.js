@@ -1,1 +1,1 @@
-var mnemonic = "sorry health wire start female hawk save unique yard island brain song";
+var mnemonic = "sunset spirit guide six public lottery virtual census urban member federal maple";

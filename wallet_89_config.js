@@ -1,1 +1,1 @@
-var mnemonic = "friend flush comic spoil puppy kitchen piano garage praise remove unknown word";
+var mnemonic = "fat output foster luxury sweet tooth tail prosper barrel left gravity measure";

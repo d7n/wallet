@@ -1,1 +1,1 @@
-var mnemonic = "intact wall shoulder wait fee scatter tray reform shy few foot balcony";
+var mnemonic = "banner blur range almost then cat found post school found call deputy";

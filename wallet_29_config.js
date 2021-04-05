@@ -1,1 +1,1 @@
-var mnemonic = "already since derive scheme practice result two review multiply because door sell";
+var mnemonic = "mom grace link swamp prepare drink verb art space glue current shift";

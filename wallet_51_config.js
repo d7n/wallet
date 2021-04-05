@@ -1,1 +1,1 @@
-var mnemonic = "screen author comfort grief worth gloom mad dilemma clay banana kit job";
+var mnemonic = "increase diet soccer garbage love settle endless lyrics decade crash gesture already";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar adjust just beef link walk police shed brand close spoon loop";
+var mnemonic = "ordinary puppy kiss carry mountain razor suit fabric boss roof drip lucky";

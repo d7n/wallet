@@ -1,1 +1,1 @@
-var mnemonic = "rug hello crop large dentist woman ill host ostrich ancient left shift";
+var mnemonic = "trick speak width require decide soccer aerobic team exercise marine subway minimum";

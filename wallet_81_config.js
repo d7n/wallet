@@ -1,1 +1,1 @@
-var mnemonic = "long edge practice potato solar funny usual curve appear shove violin fuel";
+var mnemonic = "senior avocado cheap solve evil image avoid frozen antique cement quantum orient";

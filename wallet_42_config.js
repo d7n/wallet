@@ -1,1 +1,1 @@
-var mnemonic = "dove chapter simple cruise pull olympic era win face vintage very gallery";
+var mnemonic = "genre absurd mirror asthma purpose assume jealous laundry silent wage please volume";

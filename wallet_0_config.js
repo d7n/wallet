@@ -1,1 +1,1 @@
-var mnemonic = "flat hundred nest harsh enable unfair maximum crucial nest invite transfer army";
+var mnemonic = "fit receive axis armor dilemma shop network motor notice rack seven urge";

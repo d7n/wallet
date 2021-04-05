@@ -1,1 +1,1 @@
-var mnemonic = "video like jar member bar flight belt scale panel screen misery steak";
+var mnemonic = "hen pool island gap rare bracket dice opera vehicle return famous tennis";

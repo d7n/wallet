@@ -1,1 +1,1 @@
-var mnemonic = "medal dial satisfy nephew sleep tube boat awful live have search animal";
+var mnemonic = "among blur sweet adapt hat business rally market raw annual jar impose";

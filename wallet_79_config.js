@@ -1,1 +1,1 @@
-var mnemonic = "little humble sand short boring bronze off resist legend fork hope update";
+var mnemonic = "come diet outer inject volume spray alley occur rule tattoo arrest physical";

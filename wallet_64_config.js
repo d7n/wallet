@@ -1,1 +1,1 @@
-var mnemonic = "trash caught random scorpion oyster gaze monitor cheap fruit boss render village";
+var mnemonic = "burger fat empower hotel fence abuse flower few gorilla patrol black remind";

@@ -1,1 +1,1 @@
-var mnemonic = "sport room favorite blade rule bean peace keep slot library kingdom bar";
+var mnemonic = "raccoon few pig few because romance pepper swear jar issue record neither";

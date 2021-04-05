@@ -1,1 +1,1 @@
-var mnemonic = "write news case bargain track police sadness choice dawn mouse arrest rival";
+var mnemonic = "habit much season transfer defy volcano begin under virus square question much";

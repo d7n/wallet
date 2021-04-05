@@ -1,1 +1,1 @@
-var mnemonic = "behind lake hurt design pyramid sail chalk pill bar web tired segment";
+var mnemonic = "rabbit title eager ship female cricket dune marine antique situate taxi satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "cage wedding brush letter coconut congress wide tiger rude width judge ahead";
+var mnemonic = "syrup avocado escape photo chest lucky load muffin conduct inmate adjust lottery";

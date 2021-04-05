@@ -1,1 +1,1 @@
-var mnemonic = "profit come topic erosion eyebrow menu middle prosper asthma knee plate cereal";
+var mnemonic = "thought model century tag number fly interest fantasy pig sport enlist road";

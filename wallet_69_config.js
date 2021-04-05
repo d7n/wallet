@@ -1,1 +1,1 @@
-var mnemonic = "sort coral assume bean agent knock follow domain fade oblige fault lucky";
+var mnemonic = "inquiry blush gossip script gospel orange figure brother pen avocado lab chase";

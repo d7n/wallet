@@ -1,1 +1,1 @@
-var mnemonic = "clarify hold denial deal kit sketch lock infant super gauge awesome foil";
+var mnemonic = "coach provide food mean ten loan damp ketchup fresh option tell actor";

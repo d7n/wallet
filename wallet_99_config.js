@@ -1,1 +1,1 @@
-var mnemonic = "much drip action dash feed either drama canvas pudding network scheme arrest";
+var mnemonic = "elephant shoulder actor coin text art throw art rough impact steak neutral";

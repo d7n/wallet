@@ -1,1 +1,1 @@
-var mnemonic = "lottery faint away mango image improve add trick struggle unaware kind wet";
+var mnemonic = "resemble maximum decorate vendor survey pyramid goddess rural draw road door stuff";

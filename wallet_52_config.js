@@ -1,1 +1,1 @@
-var mnemonic = "slice say above clump spider celery lady butter scout discover park adult";
+var mnemonic = "play hole brief have forum unusual champion kidney birth spread rose siren";

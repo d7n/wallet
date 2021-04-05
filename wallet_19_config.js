@@ -1,1 +1,1 @@
-var mnemonic = "auction then scale glimpse absent light cruel exile salt wonder unaware ancient";
+var mnemonic = "aerobic mansion very kick wife hen wood drift obey ramp time odor";

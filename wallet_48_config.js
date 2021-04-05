@@ -1,1 +1,1 @@
-var mnemonic = "assist repair rent inside peanut film forum walk enlist upon decide theme";
+var mnemonic = "huge ginger pelican public cute occur drift mass arctic remember ozone topic";

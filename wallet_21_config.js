@@ -1,1 +1,1 @@
-var mnemonic = "pill crumble mushroom derive invite dream rib link leopard junior game thumb";
+var mnemonic = "process split print whip cotton wire settle travel will chef forest child";

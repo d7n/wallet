@@ -1,1 +1,1 @@
-var mnemonic = "weekend lyrics flip educate marble zone trial tank youth royal find topple";
+var mnemonic = "ketchup comfort behave speak refuse main century angry daughter mad empty bronze";

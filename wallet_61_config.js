@@ -1,1 +1,1 @@
-var mnemonic = "system minor pigeon axis doll model injury crunch extend raw bracket more";
+var mnemonic = "equip hero skate blame process dune art dune eyebrow joke shy flush";

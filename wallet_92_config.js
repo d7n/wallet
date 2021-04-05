@@ -1,1 +1,1 @@
-var mnemonic = "woman duty body travel oil visit depth quick anchor lift reopen hybrid";
+var mnemonic = "thunder wheel receive quote almost chimney key upper like throw sure piano";

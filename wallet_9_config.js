@@ -1,1 +1,1 @@
-var mnemonic = "long key then science gun child disagree worth spike tragic door place";
+var mnemonic = "dinner state page vocal outside betray orange meat digital hint fire hub";

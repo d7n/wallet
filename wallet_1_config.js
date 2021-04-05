@@ -1,1 +1,1 @@
-var mnemonic = "bulk worry estate jazz gossip boy food battle festival merge bind luggage";
+var mnemonic = "fuel alley joke mean potato budget switch gasp remove excite gap slab";

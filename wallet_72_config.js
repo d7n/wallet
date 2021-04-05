@@ -1,1 +1,1 @@
-var mnemonic = "weasel cement front clock obscure top always hole car aunt book real";
+var mnemonic = "february remove pool world disease tiny wash like spell garden like body";

@@ -1,1 +1,1 @@
-var mnemonic = "because impose gun ability history enlist great present lunch group zone fish";
+var mnemonic = "suggest wait render bring seminar approve garment equal pulse enhance tube anger";

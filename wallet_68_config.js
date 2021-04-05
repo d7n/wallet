@@ -1,1 +1,1 @@
-var mnemonic = "detail elbow heart topple wear include survey mother detail whale travel plunge";
+var mnemonic = "door apology make credit accident message couch category excite know win ritual";

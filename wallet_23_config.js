@@ -1,1 +1,1 @@
-var mnemonic = "foil outer join panic risk border powder square gadget quote hedgehog tomorrow";
+var mnemonic = "level then rent abandon deliver paddle alien royal portion cage little caught";

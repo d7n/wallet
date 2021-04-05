@@ -1,1 +1,1 @@
-var mnemonic = "energy rather lens merry never icon deal rare split opinion name steak";
+var mnemonic = "sting point scatter subway minor giggle pet parade news expose snap bean";

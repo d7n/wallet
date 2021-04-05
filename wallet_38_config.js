@@ -1,1 +1,1 @@
-var mnemonic = "orient timber door salon expire erosion catch file wagon pole alien margin";
+var mnemonic = "exact digital shift stand stand bullet cube address inside scissors recall reward";

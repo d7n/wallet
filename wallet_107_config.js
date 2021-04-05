@@ -1,1 +1,1 @@
-var mnemonic = "search weather park cotton umbrella word car uncle atom wine wonder menu";
+var mnemonic = "buyer lemon cabbage call crush paper parent wonder cancel treat hidden west";

@@ -1,1 +1,1 @@
-var mnemonic = "reject anxiety stable help blast retreat gain dizzy give abuse differ secret";
+var mnemonic = "hill beauty rose maximum erupt latin gossip quality city category include also";

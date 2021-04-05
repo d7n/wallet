@@ -1,1 +1,1 @@
-var mnemonic = "rally poverty roof stairs alcohol donate congress smoke meat half exit sugar";
+var mnemonic = "story country donkey spoil idea gasp mention verb learn need motor siren";

@@ -1,1 +1,1 @@
-var mnemonic = "globe rescue ship paper cash actress dice famous income firm enemy shed";
+var mnemonic = "gap bargain two quote eagle maid there furnace chuckle assault tragic tree";

@@ -1,1 +1,1 @@
-var mnemonic = "trend goat soap age cool student disagree shell strategy tunnel regret finish";
+var mnemonic = "wet proof crew auto valid meat duck onion only drop critic horse";

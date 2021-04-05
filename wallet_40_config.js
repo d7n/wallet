@@ -1,1 +1,1 @@
-var mnemonic = "mom step cat ticket kind cloth renew inflict chunk shift purpose celery";
+var mnemonic = "slab ostrich yellow adult release blind urge pink oval spawn divert hat";

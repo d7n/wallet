@@ -1,1 +1,1 @@
-var mnemonic = "luxury salute item field same tool simple find manual impact panel marine";
+var mnemonic = "cart hotel canoe wire wealth today draft stadium order surface hunt pulse";

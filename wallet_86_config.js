@@ -1,1 +1,1 @@
-var mnemonic = "field boring luggage inside blind spray admit elbow federal unlock sad couple";
+var mnemonic = "review trend index mom total ahead genius walk uncle lawn dwarf tower";

@@ -1,1 +1,1 @@
-var mnemonic = "range pluck model feature sport grocery fence oppose arch topic bulk again";
+var mnemonic = "daring ill demise broom name finger skirt bring virus first absurd near";

@@ -1,1 +1,1 @@
-var mnemonic = "cry flush energy chaos leopard hair broom question sustain reflect put plate";
+var mnemonic = "surge poem away mix exist list crush used glove divert relief toilet";

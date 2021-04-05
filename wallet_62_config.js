@@ -1,1 +1,1 @@
-var mnemonic = "below next april grass congress art dust pistol square sheriff print bread";
+var mnemonic = "magnet dream clutch believe edge adult torch matrix diamond slam country leaf";

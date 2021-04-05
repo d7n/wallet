@@ -1,1 +1,1 @@
-var mnemonic = "april own source athlete sniff rug loud forest mosquito any abstract demand";
+var mnemonic = "input remain travel ticket vintage payment draft exit fatal orient grace seven";

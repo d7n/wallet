@@ -1,1 +1,1 @@
-var mnemonic = "antique they choice era giggle private grain rough theme shine mix average";
+var mnemonic = "nose abuse forget into fix one tonight voice chef casual air fault";

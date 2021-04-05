@@ -1,1 +1,1 @@
-var mnemonic = "episode patrol correct faint never alarm scorpion tomorrow trigger floor father immune";
+var mnemonic = "trumpet express donate fancy maximum cherry stamp person door salute comfort usual";

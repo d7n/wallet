@@ -1,1 +1,1 @@
-var mnemonic = "student patient domain visa creek right economy myth orange capable holiday squeeze";
+var mnemonic = "snake match gap force ski foam state crowd powder journey typical rival";

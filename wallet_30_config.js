@@ -1,1 +1,1 @@
-var mnemonic = "ethics street pizza dress train inherit pigeon quote material camera world steel";
+var mnemonic = "vital shadow gun way wife dynamic elbow clock laundry moment pottery pumpkin";

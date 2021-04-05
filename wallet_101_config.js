@@ -1,1 +1,1 @@
-var mnemonic = "nice plate wear mutual dog broccoli camp stem bullet media mercy defy";
+var mnemonic = "trial welcome address flee stage finger humor actress memory depart meat siege";

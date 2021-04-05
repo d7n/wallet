@@ -1,1 +1,1 @@
-var mnemonic = "inject saddle meadow answer hair slush shoulder thrive census census until stone";
+var mnemonic = "near bar popular turn adjust test volume patrol script nut reveal snap";

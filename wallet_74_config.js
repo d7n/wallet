@@ -1,1 +1,1 @@
-var mnemonic = "prefer crucial feature history picture crew tongue list extend torch spatial laundry";
+var mnemonic = "shy crop garlic narrow front surface acoustic parent differ cup fiction decrease";

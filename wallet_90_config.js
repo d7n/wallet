@@ -1,1 +1,1 @@
-var mnemonic = "sister parrot mechanic social rabbit grid dirt spirit record bless vacant twice";
+var mnemonic = "mystery mistake apart soccer album kitchen hat frozen sugar index build taxi";

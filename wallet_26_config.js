@@ -1,1 +1,1 @@
-var mnemonic = "slim photo reflect again civil abandon knee uncover trend radio nominee series";
+var mnemonic = "deposit such siren illegal trust boil taxi pause stage clay behind legend";

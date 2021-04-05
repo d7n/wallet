@@ -1,1 +1,1 @@
-var mnemonic = "steak confirm over drive turn net fame sibling mango close cover shove";
+var mnemonic = "stumble lock tip hello recipe finish essay ramp edge cherry betray prevent";

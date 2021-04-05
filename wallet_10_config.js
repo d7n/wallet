@@ -1,1 +1,1 @@
-var mnemonic = "teach parrot medal warrior april total lens heart reunion search vehicle cloud";
+var mnemonic = "limb someone apple random parrot speak congress can debris clever eye music";
