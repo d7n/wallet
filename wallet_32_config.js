@@ -1,1 +1,1 @@
-var mnemonic = "near bar popular turn adjust test volume patrol script nut reveal snap";
+var mnemonic = "clean olympic paper pupil volume quarter verb layer relax turtle alter riot";

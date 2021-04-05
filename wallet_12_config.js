@@ -1,1 +1,1 @@
-var mnemonic = "canyon sudden inmate upset torch figure film finger trap ready month solution";
+var mnemonic = "ecology debris fade oxygen vocal leg report crazy ordinary mind category beauty";

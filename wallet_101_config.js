@@ -1,1 +1,1 @@
-var mnemonic = "trial welcome address flee stage finger humor actress memory depart meat siege";
+var mnemonic = "grocery holiday tent basket snake gym amused document name enhance loan weather";

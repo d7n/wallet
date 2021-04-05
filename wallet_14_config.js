@@ -1,1 +1,1 @@
-var mnemonic = "entry code sunset tumble ethics actual include one sing perfect donkey kingdom";
+var mnemonic = "knock decline jungle night gym lamp oven prepare female wave zone guilt";

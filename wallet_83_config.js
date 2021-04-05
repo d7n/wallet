@@ -1,1 +1,1 @@
-var mnemonic = "sting point scatter subway minor giggle pet parade news expose snap bean";
+var mnemonic = "ridge token fitness slight thought fame noodle wisdom hybrid arrow above sunset";

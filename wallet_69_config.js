@@ -1,1 +1,1 @@
-var mnemonic = "inquiry blush gossip script gospel orange figure brother pen avocado lab chase";
+var mnemonic = "comic liquid list warfare trophy airport awful render vocal weekend wonder party";

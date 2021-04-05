@@ -1,1 +1,1 @@
-var mnemonic = "online meadow focus frog tomato lesson minimum noodle onion loyal six minimum";
+var mnemonic = "degree lecture buzz fix tone perfect avocado quality ability situate fame worth";

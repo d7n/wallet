@@ -1,1 +1,1 @@
-var mnemonic = "please fossil mother half refuse innocent bless live veteran rent govern joke";
+var mnemonic = "spot ocean whisper month flavor what account poverty practice feed crystal will";

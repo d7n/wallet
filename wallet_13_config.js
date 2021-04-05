@@ -1,1 +1,1 @@
-var mnemonic = "crush pet income milk year museum that lamp seat immune swim shoulder";
+var mnemonic = "supply pig inherit until favorite clump team remain isolate long pottery upon";

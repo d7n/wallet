@@ -1,1 +1,1 @@
-var mnemonic = "dinner state page vocal outside betray orange meat digital hint fire hub";
+var mnemonic = "moment rubber problem buyer entire cause call genuine urban slight figure weasel";

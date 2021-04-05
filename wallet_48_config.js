@@ -1,1 +1,1 @@
-var mnemonic = "huge ginger pelican public cute occur drift mass arctic remember ozone topic";
+var mnemonic = "priority flip phone soon nothing army team cage raven camp museum salt";

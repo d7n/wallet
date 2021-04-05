@@ -1,1 +1,1 @@
-var mnemonic = "equip hero skate blame process dune art dune eyebrow joke shy flush";
+var mnemonic = "west layer home expose piece bargain once squeeze video elite music prevent";

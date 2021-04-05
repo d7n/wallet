@@ -1,1 +1,1 @@
-var mnemonic = "key melt north army tail round diet absurd imitate bargain wolf junk";
+var mnemonic = "calm minor praise elevator able thought labor magic sauce latin aim loyal";

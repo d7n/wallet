@@ -1,1 +1,1 @@
-var mnemonic = "february remove pool world disease tiny wash like spell garden like body";
+var mnemonic = "trend brush chronic chuckle subway kitten diet task east monster come mouse";

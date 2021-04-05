@@ -1,1 +1,1 @@
-var mnemonic = "among blur sweet adapt hat business rally market raw annual jar impose";
+var mnemonic = "pledge equip tilt place screen enjoy income observe hedgehog scene upper detect";

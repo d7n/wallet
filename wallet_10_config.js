@@ -1,1 +1,1 @@
-var mnemonic = "limb someone apple random parrot speak congress can debris clever eye music";
+var mnemonic = "prize make viable yard interest music march sentence ride orchard pill another";

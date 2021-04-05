@@ -1,1 +1,1 @@
-var mnemonic = "senior avocado cheap solve evil image avoid frozen antique cement quantum orient";
+var mnemonic = "cabbage zebra lizard brick ethics beyond damp speak else outside subject claw";

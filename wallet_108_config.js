@@ -1,1 +1,1 @@
-var mnemonic = "hill beauty rose maximum erupt latin gossip quality city category include also";
+var mnemonic = "behind modify young silly pink label grid cream leader rice stage guitar";

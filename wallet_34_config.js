@@ -1,1 +1,1 @@
-var mnemonic = "nose abuse forget into fix one tonight voice chef casual air fault";
+var mnemonic = "better track dry circle similar quit hawk time prefer vivid taste palace";

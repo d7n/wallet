@@ -1,1 +1,1 @@
-var mnemonic = "dumb hazard leisure ancient poet alcohol pitch trim supreme two motor grant";
+var mnemonic = "around tag neglect issue replace roof motor spot emotion gym steel ladder";

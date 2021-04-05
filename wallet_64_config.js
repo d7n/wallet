@@ -1,1 +1,1 @@
-var mnemonic = "burger fat empower hotel fence abuse flower few gorilla patrol black remind";
+var mnemonic = "fortune marine thank rule vocal rate lab rich father blind amount pulse";

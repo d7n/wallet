@@ -1,1 +1,1 @@
-var mnemonic = "hand neglect message south confirm track pottery image kiwi mom hand expect";
+var mnemonic = "upon muffin silly daughter path draft fit moral either gospel foil cactus";

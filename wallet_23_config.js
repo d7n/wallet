@@ -1,1 +1,1 @@
-var mnemonic = "level then rent abandon deliver paddle alien royal portion cage little caught";
+var mnemonic = "alley wheel radio ancient symbol clay abstract arch narrow attack magnet tragic";

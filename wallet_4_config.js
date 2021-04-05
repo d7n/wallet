@@ -1,1 +1,1 @@
-var mnemonic = "surge poem away mix exist list crush used glove divert relief toilet";
+var mnemonic = "involve walnut sign punch three lock wife wrap receive original insane wife";

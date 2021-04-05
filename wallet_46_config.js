@@ -1,1 +1,1 @@
-var mnemonic = "trumpet express donate fancy maximum cherry stamp person door salute comfort usual";
+var mnemonic = "much avocado angle stem canal rough avoid hire seed leader access tomato";

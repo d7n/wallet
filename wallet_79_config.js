@@ -1,1 +1,1 @@
-var mnemonic = "come diet outer inject volume spray alley occur rule tattoo arrest physical";
+var mnemonic = "ancient domain drama soldier worry split time birth record gaze mix scale";

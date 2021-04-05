@@ -1,1 +1,1 @@
-var mnemonic = "quote oyster trigger cage smoke orient fiction access hazard sweet renew chunk";
+var mnemonic = "upper swap indoor tennis income scene amused exile rule duty manage viable";

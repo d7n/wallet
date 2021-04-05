@@ -1,1 +1,1 @@
-var mnemonic = "observe wild gospel vacant rent script menu need monster input barely clock";
+var mnemonic = "race energy science argue fruit cloth issue move vote easily ostrich cup";

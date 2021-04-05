@@ -1,1 +1,1 @@
-var mnemonic = "animal note advance phrase peace ivory protect egg again journey congress health";
+var mnemonic = "mind camp guitar doll lake just artwork soul blast angle test scale";

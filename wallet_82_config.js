@@ -1,1 +1,1 @@
-var mnemonic = "trick speak width require decide soccer aerobic team exercise marine subway minimum";
+var mnemonic = "kingdom odor denial syrup obtain bundle senior lawsuit brother catalog sustain lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "iron manual lake type casual proud submit crop tree fiction ship shop";
+var mnemonic = "orient stairs deliver picture under erosion grocery risk faint sign assume figure";

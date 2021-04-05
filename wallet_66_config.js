@@ -1,1 +1,1 @@
-var mnemonic = "taxi flip cook chase update ranch chicken few sock main valley damage";
+var mnemonic = "inquiry crane analyst denial chunk stereo input venue laptop divert this seat";

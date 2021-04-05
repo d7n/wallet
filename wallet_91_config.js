@@ -1,1 +1,1 @@
-var mnemonic = "reveal salute they sort enter insect donkey blush double entire roast three";
+var mnemonic = "bundle tree isolate soup mobile enact better parrot rude feed unusual bargain";

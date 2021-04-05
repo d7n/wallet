@@ -1,1 +1,1 @@
-var mnemonic = "float coffee spider member walk gate prepare tower hole crime knife bounce";
+var mnemonic = "hurt sort shift vivid loud liberty plastic define involve outer history hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "fat output foster luxury sweet tooth tail prosper barrel left gravity measure";
+var mnemonic = "gown tiny frame sure lava pumpkin smooth long around burden absorb alert";

@@ -1,1 +1,1 @@
-var mnemonic = "estate various wing naive congress funny prize issue theory rely echo inject";
+var mnemonic = "next grunt yellow exotic humor ceiling friend blush love private pulp require";

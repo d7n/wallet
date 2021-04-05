@@ -1,1 +1,1 @@
-var mnemonic = "orphan goat sing choose old royal loyal exercise plate oyster magic grace";
+var mnemonic = "violin bicycle slogan brisk school other oil joke street transfer lift actual";

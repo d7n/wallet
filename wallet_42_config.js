@@ -1,1 +1,1 @@
-var mnemonic = "genre absurd mirror asthma purpose assume jealous laundry silent wage please volume";
+var mnemonic = "supreme bonus clay harvest jeans fury library furnace purpose transfer bind consider";

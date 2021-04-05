@@ -1,1 +1,1 @@
-var mnemonic = "elephant shoulder actor coin text art throw art rough impact steak neutral";
+var mnemonic = "drift tragic hill certain drop army you rural faith gospel man sponsor";

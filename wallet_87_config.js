@@ -1,1 +1,1 @@
-var mnemonic = "gap bargain two quote eagle maid there furnace chuckle assault tragic tree";
+var mnemonic = "arrow shaft symptom input physical kid safe slot second learn bone replace";

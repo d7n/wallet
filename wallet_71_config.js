@@ -1,1 +1,1 @@
-var mnemonic = "render boy health elbow milk stage trend sunset churn sick firm emotion";
+var mnemonic = "gym illegal relief drill stomach wash search boy hobby identify scheme thank";

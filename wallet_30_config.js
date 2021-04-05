@@ -1,1 +1,1 @@
-var mnemonic = "vital shadow gun way wife dynamic elbow clock laundry moment pottery pumpkin";
+var mnemonic = "actor ramp scale elephant service media exhibit impact page horn purity gate";

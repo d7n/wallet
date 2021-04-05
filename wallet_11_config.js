@@ -1,1 +1,1 @@
-var mnemonic = "estate gorilla maple pill lobster ritual spin trip stem romance leopard goat";
+var mnemonic = "spike amazing wrestle laptop click clutch hub twist monkey deer catch carpet";

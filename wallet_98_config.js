@@ -1,1 +1,1 @@
-var mnemonic = "fatigue festival item spring hole security jar cheap mandate retreat angry sense";
+var mnemonic = "pear into mule fluid public siren flash cook brave awkward barely brand";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit title eager ship female cricket dune marine antique situate taxi satisfy";
+var mnemonic = "adult chase auto climb minor oblige loop rebuild power argue vicious agree";

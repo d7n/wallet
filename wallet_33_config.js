@@ -1,1 +1,1 @@
-var mnemonic = "thought model century tag number fly interest fantasy pig sport enlist road";
+var mnemonic = "cannon mixed gasp dress suspect strike mountain require moon moral grain luxury";

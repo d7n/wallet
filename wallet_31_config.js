@@ -1,1 +1,1 @@
-var mnemonic = "daring ill demise broom name finger skirt bring virus first absurd near";
+var mnemonic = "devote blanket major enforce primary copper title people clever beauty disorder ritual";

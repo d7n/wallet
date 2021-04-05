@@ -1,1 +1,1 @@
-var mnemonic = "goose rack scene milk stem patch patrol little apple dumb ketchup slogan";
+var mnemonic = "divert resemble grid tell voyage vital connect fury enemy drive lyrics trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle smooth labor steel liberty unfold flash cricket eyebrow three poverty canal";
+var mnemonic = "decline knife cycle treat champion exit volume exact chair voyage mule clog";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo globe season beyond wide elegant spike miss source caution turtle climb";
+var mnemonic = "trust twelve solve flower snow little drastic limb spend essay unique aim";

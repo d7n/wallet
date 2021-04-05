@@ -1,1 +1,1 @@
-var mnemonic = "resemble maximum decorate vendor survey pyramid goddess rural draw road door stuff";
+var mnemonic = "regret decrease casual rude improve digital tunnel weapon junior gas human toy";

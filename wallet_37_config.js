@@ -1,1 +1,1 @@
-var mnemonic = "stumble lock tip hello recipe finish essay ramp edge cherry betray prevent";
+var mnemonic = "sweet seminar shock wash autumn mimic audit wise nothing mutual car roast";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery mistake apart soccer album kitchen hat frozen sugar index build taxi";
+var mnemonic = "merit spy lab snow auto spend robot hybrid before fun join barrel";

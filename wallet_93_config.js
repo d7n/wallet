@@ -1,1 +1,1 @@
-var mnemonic = "fat trim grow law math pool behind weird flat inspire adapt thumb";
+var mnemonic = "trash until glass lamp doll distance nephew neck coffee middle aware kit";

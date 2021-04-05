@@ -1,1 +1,1 @@
-var mnemonic = "tip sword laugh track farm erosion pulp spatial match manage include inmate";
+var mnemonic = "vintage suit define illegal program short hundred tenant tortoise shove rescue found";

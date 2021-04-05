@@ -1,1 +1,1 @@
-var mnemonic = "popular else lazy load letter firm legal creek april uncover diagram acid";
+var mnemonic = "reform sweet radio under venue weapon digital add mask aspect injury throw";

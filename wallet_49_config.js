@@ -1,1 +1,1 @@
-var mnemonic = "ordinary puppy kiss carry mountain razor suit fabric boss roof drip lucky";
+var mnemonic = "extend moment stamp rural trophy scatter oak effort gallery fatal tent vintage";

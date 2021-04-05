@@ -1,1 +1,1 @@
-var mnemonic = "sunset spirit guide six public lottery virtual census urban member federal maple";
+var mnemonic = "power cruise minimum brass adapt flush fruit country kingdom citizen session tornado";

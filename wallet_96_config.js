@@ -1,1 +1,1 @@
-var mnemonic = "banner blur range almost then cat found post school found call deputy";
+var mnemonic = "work slow gaze garment mixed other tomorrow nut earn solar true poet";

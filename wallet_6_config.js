@@ -1,1 +1,1 @@
-var mnemonic = "story country donkey spoil idea gasp mention verb learn need motor siren";
+var mnemonic = "sign blame obvious devote purity vapor cruise kangaroo design stay melt magic";

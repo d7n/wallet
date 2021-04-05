@@ -1,1 +1,1 @@
-var mnemonic = "habit much season transfer defy volcano begin under virus square question much";
+var mnemonic = "rescue quick glare liberty mention absorb advance pioneer scrap clerk ice news";

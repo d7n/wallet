@@ -1,1 +1,1 @@
-var mnemonic = "play hole brief have forum unusual champion kidney birth spread rose siren";
+var mnemonic = "spawn car shove weasel wasp basket include gravity garbage bargain hunt tomato";

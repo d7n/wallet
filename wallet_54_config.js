@@ -1,1 +1,1 @@
-var mnemonic = "language cliff lend call either focus frozen select duty image escape light";
+var mnemonic = "novel fee lumber abstract square code galaxy spy achieve original crater circle";

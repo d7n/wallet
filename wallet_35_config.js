@@ -1,1 +1,1 @@
-var mnemonic = "wet proof crew auto valid meat duck onion only drop critic horse";
+var mnemonic = "other follow spoon point album gain found festival mom liquid category mass";

@@ -1,1 +1,1 @@
-var mnemonic = "door apology make credit accident message couch category excite know win ritual";
+var mnemonic = "casino edit document lava subway design indoor quick quantum husband member category";

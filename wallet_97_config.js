@@ -1,1 +1,1 @@
-var mnemonic = "hen pool island gap rare bracket dice opera vehicle return famous tennis";
+var mnemonic = "armor miracle this vehicle maximum road drift regret crime future ginger genius";

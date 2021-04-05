@@ -1,1 +1,1 @@
-var mnemonic = "tonight lawsuit sure rookie desk ankle bind hungry cabin wear pen catch";
+var mnemonic = "body mixed twenty drastic judge degree visa host rude strike scheme shock";

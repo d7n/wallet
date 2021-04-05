@@ -1,1 +1,1 @@
-var mnemonic = "garbage aware combine hospital gaze prize scout runway neither layer cube melt";
+var mnemonic = "three mushroom apple dawn escape always indoor public advice wealth hunt gasp";

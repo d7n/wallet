@@ -1,1 +1,1 @@
-var mnemonic = "syrup avocado escape photo chest lucky load muffin conduct inmate adjust lottery";
+var mnemonic = "pill input critic pink suit best day muscle curious craft annual mercy";

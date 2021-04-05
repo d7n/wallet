@@ -1,1 +1,1 @@
-var mnemonic = "bone galaxy mother canvas hedgehog panic rural aware permit bacon shine torch";
+var mnemonic = "cart forum asset unaware portion domain fever exercise observe frequent mercy visa";

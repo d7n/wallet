@@ -1,1 +1,1 @@
-var mnemonic = "deposit such siren illegal trust boil taxi pause stage clay behind legend";
+var mnemonic = "stumble salad fall cereal mule upgrade drum page weekend tragic mention enforce";

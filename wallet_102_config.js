@@ -1,1 +1,1 @@
-var mnemonic = "coach provide food mean ten loan damp ketchup fresh option tell actor";
+var mnemonic = "member funny require dial detail sleep slight joy moon carry list pipe";

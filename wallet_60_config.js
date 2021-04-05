@@ -1,1 +1,1 @@
-var mnemonic = "boost riot hurdle monkey thank thrive cause zebra drip position catch butter";
+var mnemonic = "loyal believe exercise wonder lonely lab shoulder wolf stereo example other amateur";

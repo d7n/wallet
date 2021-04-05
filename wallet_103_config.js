@@ -1,1 +1,1 @@
-var mnemonic = "throw welcome afraid veteran venture tiger horn enemy onion envelope fancy pony";
+var mnemonic = "sibling current aware above age idea zero bargain motor require gadget cluster";

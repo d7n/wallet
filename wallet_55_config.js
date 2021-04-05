@@ -1,1 +1,1 @@
-var mnemonic = "side chuckle gorilla parent youth crumble hello spend weekend quality tennis exist";
+var mnemonic = "girl chalk identify hungry rib derive grape tenant between practice taste today";

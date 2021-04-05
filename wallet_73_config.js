@@ -1,1 +1,1 @@
-var mnemonic = "ketchup comfort behave speak refuse main century angry daughter mad empty bronze";
+var mnemonic = "horror rabbit what pottery garden uncover indicate lemon trap able sell jar";

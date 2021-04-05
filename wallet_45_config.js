@@ -1,1 +1,1 @@
-var mnemonic = "suggest wait render bring seminar approve garment equal pulse enhance tube anger";
+var mnemonic = "aspect betray expand resource change aim brick snake gentle vacuum mystery pyramid";

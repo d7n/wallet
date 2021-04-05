@@ -1,1 +1,1 @@
-var mnemonic = "magnet dream clutch believe edge adult torch matrix diamond slam country leaf";
+var mnemonic = "feature valve spike alpha scheme lunch unique mom also timber wear include";

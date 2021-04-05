@@ -1,1 +1,1 @@
-var mnemonic = "shy crop garlic narrow front surface acoustic parent differ cup fiction decrease";
+var mnemonic = "suspect curve volcano firm fossil attend transfer glove blame oil wedding eagle";

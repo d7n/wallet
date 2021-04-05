@@ -1,1 +1,1 @@
-var mnemonic = "lobster cheap early nature vacant outer rocket sweet valid tide evolve mail";
+var mnemonic = "can shock dragon dismiss undo foam alone giggle wonder crop mushroom monster";

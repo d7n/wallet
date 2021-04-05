@@ -1,1 +1,1 @@
-var mnemonic = "increase diet soccer garbage love settle endless lyrics decade crash gesture already";
+var mnemonic = "neutral leave sponsor wrist note frequent hospital injury slow dance wood brown";

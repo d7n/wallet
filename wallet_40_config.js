@@ -1,1 +1,1 @@
-var mnemonic = "slab ostrich yellow adult release blind urge pink oval spawn divert hat";
+var mnemonic = "legend thing road ribbon assist vehicle alone future skill such hill eye";

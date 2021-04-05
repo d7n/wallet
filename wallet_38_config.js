@@ -1,1 +1,1 @@
-var mnemonic = "exact digital shift stand stand bullet cube address inside scissors recall reward";
+var mnemonic = "behave clap easily vague consider blouse debris conduct illegal govern hockey before";

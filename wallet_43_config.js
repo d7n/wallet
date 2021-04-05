@@ -1,1 +1,1 @@
-var mnemonic = "shaft vague rib tourist feature citizen law travel skirt torch magnet twelve";
+var mnemonic = "limb celery any town sample track wealth agent expect govern rain client";

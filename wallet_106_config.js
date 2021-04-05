@@ -1,1 +1,1 @@
-var mnemonic = "input remain travel ticket vintage payment draft exit fatal orient grace seven";
+var mnemonic = "audit suit era video dance replace chest earn earth cotton escape exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler impact height review material decorate bind subway winter film next fever";
+var mnemonic = "project idle attack tray dry job crane noise brand supply minute travel";

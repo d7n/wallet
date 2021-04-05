@@ -1,1 +1,1 @@
-var mnemonic = "fuel alley joke mean potato budget switch gasp remove excite gap slab";
+var mnemonic = "broccoli ramp patrol resemble citizen cute ceiling ski twist situate sport domain";
