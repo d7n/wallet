@@ -1,1 +1,1 @@
-var mnemonic = "absurd funny ostrich phone market dose primary ivory damp title old giraffe";
+var mnemonic = "drill toddler employ nut matter page brain such east coyote cheese ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "guide answer vague supreme rally such load home matter evil junior kidney";
+var mnemonic = "bless harbor armed lock burst daring vocal fly pulse harbor volcano tape";

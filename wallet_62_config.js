@@ -1,1 +1,1 @@
-var mnemonic = "analyst mass harsh law margin toss bicycle prison unaware balcony message detail";
+var mnemonic = "toward master rent boat melody soul clerk rural neutral educate much frozen";

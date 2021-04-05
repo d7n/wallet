@@ -1,1 +1,1 @@
-var mnemonic = "trophy mixture master velvet fan coyote grain manage text own tumble flag";
+var mnemonic = "clap raven cave garbage letter truck flat snack valve shaft donate renew";

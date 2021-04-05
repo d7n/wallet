@@ -1,1 +1,1 @@
-var mnemonic = "sing barely close shine people foot hidden exchange piano six alarm champion";
+var mnemonic = "fiber artefact board lazy defy puppy creek plate lesson smoke disorder flavor";

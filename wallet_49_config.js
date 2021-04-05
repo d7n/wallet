@@ -1,1 +1,1 @@
-var mnemonic = "rail math bench struggle limb orchard patch poem return believe toy toast";
+var mnemonic = "volume place vague whip sting embody very army illegal ball surge win";

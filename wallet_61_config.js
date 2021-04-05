@@ -1,1 +1,1 @@
-var mnemonic = "connect toddler balance patch dog broom field word west always fox current";
+var mnemonic = "hospital tiger chest stove spatial wink almost sword limit canvas rigid embark";

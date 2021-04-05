@@ -1,1 +1,1 @@
-var mnemonic = "casual shy trip lounge puppy waste mutual arm near nothing donkey street";
+var mnemonic = "reveal expect trim grocery detect pottery tattoo fringe multiply afford maximum gun";

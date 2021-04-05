@@ -1,1 +1,1 @@
-var mnemonic = "figure electric strategy kangaroo chapter only blast oven sad island camp ugly";
+var mnemonic = "avoid share angle equal recall differ save skin people hunt sing exist";

@@ -1,1 +1,1 @@
-var mnemonic = "another path quick change festival shed attend kiss paper doctor expire manage";
+var mnemonic = "great sure six nothing steak lab bar dismiss bachelor candy dwarf swear";

@@ -1,1 +1,1 @@
-var mnemonic = "owner labor random auction team harsh orphan sibling autumn nerve diamond come";
+var mnemonic = "aisle make leg party document outdoor mobile crawl reject market kiwi garment";

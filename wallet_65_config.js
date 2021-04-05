@@ -1,1 +1,1 @@
-var mnemonic = "damp midnight zoo bag whisper segment gift term erosion leisure hello rookie";
+var mnemonic = "wisdom increase type actual nut drip label trim upgrade later doll rally";

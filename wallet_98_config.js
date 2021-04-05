@@ -1,1 +1,1 @@
-var mnemonic = "dragon dial session abuse curious mechanic seminar core slogan olive evidence bonus";
+var mnemonic = "catalog tunnel final sing absurd patrol focus slogan cage movie stuff when";

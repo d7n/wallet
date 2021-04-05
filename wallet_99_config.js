@@ -1,1 +1,1 @@
-var mnemonic = "cook illness drama minor glove forum blush riot sense trigger april acoustic";
+var mnemonic = "patient group matrix country liar fancy soccer walk thumb nominee silver oxygen";

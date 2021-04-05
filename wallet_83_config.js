@@ -1,1 +1,1 @@
-var mnemonic = "certain jump antenna void month illness tattoo melt insane chimney kidney trial";
+var mnemonic = "talk puppy awake episode before thing detect skull cute black fury kiwi";

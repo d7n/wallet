@@ -1,1 +1,1 @@
-var mnemonic = "staff moment bounce until retire busy plunge pull good crater modify rival";
+var mnemonic = "robust frame pluck street together alarm rifle spoon extra cinnamon party life";

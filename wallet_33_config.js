@@ -1,1 +1,1 @@
-var mnemonic = "shop candy digital hurt collect van bachelor industry receive give very magic";
+var mnemonic = "flash subway badge cup client zoo glimpse tube people render faculty butter";

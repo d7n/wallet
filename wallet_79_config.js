@@ -1,1 +1,1 @@
-var mnemonic = "pen example around august dilemma enhance kiss enforce runway mention hurt agree";
+var mnemonic = "torch ladder deputy spot radio job result finger cube ordinary canal bullet";

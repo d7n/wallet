@@ -1,1 +1,1 @@
-var mnemonic = "change jacket cube fun fog throw cinnamon snap bulb click west group";
+var mnemonic = "loud prison agent lava keen wrong very express alley nominee hedgehog have";

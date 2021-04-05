@@ -1,1 +1,1 @@
-var mnemonic = "display rural nominee eight tail cat cloud lava make occur basic raccoon";
+var mnemonic = "motion behind slim version trip gadget inmate result various antique owner guard";

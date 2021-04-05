@@ -1,1 +1,1 @@
-var mnemonic = "tobacco law fatigue space immense napkin glimpse hood together abuse cousin panel";
+var mnemonic = "tree essence salt sentence car planet broccoli rapid portion foil symptom accident";

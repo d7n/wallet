@@ -1,1 +1,1 @@
-var mnemonic = "sudden stamp pulp monkey buddy fly win couple chief nut material spread";
+var mnemonic = "festival agree romance twenty wool inject humble grunt dove always summer shy";

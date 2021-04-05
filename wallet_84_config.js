@@ -1,1 +1,1 @@
-var mnemonic = "until rival aerobic city industry time during bicycle much flock nation night";
+var mnemonic = "shrug lens steel issue aware blood tobacco merit lemon flavor hamster blouse";

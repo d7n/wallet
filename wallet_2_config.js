@@ -1,1 +1,1 @@
-var mnemonic = "diet analyst saddle census smart zoo deposit over moment lion direct offer";
+var mnemonic = "north spoon awkward hobby final faith exit tobacco hospital silver chunk mango";

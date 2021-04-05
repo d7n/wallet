@@ -1,1 +1,1 @@
-var mnemonic = "leader element cloth hello cotton tuna error jacket wolf mirror mouse aspect";
+var mnemonic = "able adjust suit able devote carry dinner point leisure cattle monster merge";

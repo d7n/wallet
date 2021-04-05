@@ -1,1 +1,1 @@
-var mnemonic = "edit laptop eternal flavor patch enforce bullet finish year long style letter";
+var mnemonic = "sight embody frost blood coin donkey quality amount way report reflect sick";

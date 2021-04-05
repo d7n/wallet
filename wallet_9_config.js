@@ -1,1 +1,1 @@
-var mnemonic = "fog mean present oppose lucky attend dilemma pitch federal vibrant ancient melody";
+var mnemonic = "maximum merge rival capable sketch link amazing capable around brick coffee trap";

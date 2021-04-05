@@ -1,1 +1,1 @@
-var mnemonic = "surround dinner blush language raw advance trust march corn pet pond social";
+var mnemonic = "town fever security solid mind moment paper manage work draw pulp broccoli";

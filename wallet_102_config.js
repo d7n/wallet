@@ -1,1 +1,1 @@
-var mnemonic = "glare song impose book drill train mix lesson run weapon reveal soccer";
+var mnemonic = "involve defense load month police acoustic clinic easy debate giggle cube wear";

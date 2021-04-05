@@ -1,1 +1,1 @@
-var mnemonic = "matrix drama basic chat type behave absorb exhibit gesture admit wrist zoo";
+var mnemonic = "scrub antique ride roast hen fuel reduce law toe sunset guess inquiry";

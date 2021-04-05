@@ -1,1 +1,1 @@
-var mnemonic = "fetch cargo acid ask actual pyramid produce later enhance limit toast earth";
+var mnemonic = "mountain subject struggle income waste dinner nest clean unit wasp ship mushroom";

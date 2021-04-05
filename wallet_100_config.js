@@ -1,1 +1,1 @@
-var mnemonic = "owner ocean earth first unveil net sudden dove urban spin arrive company";
+var mnemonic = "flock combine valve snow panther eternal hold panic favorite unveil tip decrease";

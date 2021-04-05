@@ -1,1 +1,1 @@
-var mnemonic = "armed woman economy disease apple submit infant mosquito bicycle inject review crowd";
+var mnemonic = "wink glad swing fantasy escape jar acoustic crime chronic scan child arrest";

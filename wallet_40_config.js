@@ -1,1 +1,1 @@
-var mnemonic = "decide window winter bronze reason shock clump run supreme kiss project favorite";
+var mnemonic = "ten black silver hello glimpse amused range walk clump bonus truly link";

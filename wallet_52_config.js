@@ -1,1 +1,1 @@
-var mnemonic = "crouch portion rich scene vacuum run elbow seek broom around step movie";
+var mnemonic = "tube recipe rapid garment refuse hold they ozone tide possible youth broken";

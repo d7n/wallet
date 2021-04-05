@@ -1,1 +1,1 @@
-var mnemonic = "cereal outdoor tiger top giant unknown embark trophy dog advance outdoor defy";
+var mnemonic = "uncover path good clip butter ocean believe skin inside diamond thumb deputy";

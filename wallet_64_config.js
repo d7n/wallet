@@ -1,1 +1,1 @@
-var mnemonic = "enlist enlist sunset asset despair render hint idea spoon trust kick garden";
+var mnemonic = "urban bulb verify sea pulp drip mansion property receive receive various allow";

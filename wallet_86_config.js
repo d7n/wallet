@@ -1,1 +1,1 @@
-var mnemonic = "neutral cereal absent stay example come marble elegant palace opinion state duty";
+var mnemonic = "symbol snake simple museum resemble attend disorder elite open fix mosquito right";

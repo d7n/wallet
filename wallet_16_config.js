@@ -1,1 +1,1 @@
-var mnemonic = "wagon behave push angle half prosper amount flee uphold wife return wage";
+var mnemonic = "sweet loyal lottery sock major depart skin spot circle claw flip gift";

@@ -1,1 +1,1 @@
-var mnemonic = "piece unique style digital engine dove match tree run gasp time offer";
+var mnemonic = "muffin polar crack common spoon tiny sauce clinic duck father point situate";

@@ -1,1 +1,1 @@
-var mnemonic = "summer hover lunch lens board phrase celery misery immense just gold mesh";
+var mnemonic = "soon soda crime any walk seed match sweet wrestle rack west genius";

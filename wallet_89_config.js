@@ -1,1 +1,1 @@
-var mnemonic = "file hard toe luxury maximum snack dial express display suggest mandate spoil";
+var mnemonic = "reduce purpose stick choose color draw warfare rare other people moon effort";

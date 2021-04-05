@@ -1,1 +1,1 @@
-var mnemonic = "ticket subject fly damage razor lonely soccer faith verb cradle detail typical";
+var mnemonic = "wonder track pen mimic stone question chunk pig cheese shove owner exit";

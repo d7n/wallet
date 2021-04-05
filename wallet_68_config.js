@@ -1,1 +1,1 @@
-var mnemonic = "bonus harvest couple motor fire symbol lottery bundle critic else decline conduct";
+var mnemonic = "deal leopard rent chaos door palm room keep fragile bargain admit violin";

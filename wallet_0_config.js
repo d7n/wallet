@@ -1,1 +1,1 @@
-var mnemonic = "usual meat never bullet flock civil obey august forward define candy drink";
+var mnemonic = "record laugh allow debate bounce loyal dizzy require harbor vanish pen elephant";

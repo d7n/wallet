@@ -1,1 +1,1 @@
-var mnemonic = "cherry earth pave family sunset junior robust high remove assume north narrow";
+var mnemonic = "bachelor cake session ripple broken medal myself gravity scan survey eight hub";

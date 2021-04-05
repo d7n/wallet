@@ -1,1 +1,1 @@
-var mnemonic = "stick social slim stone lyrics expand ten vital rocket north sweet horror";
+var mnemonic = "bounce skin torch dawn fee opinion tooth estate satoshi virus lounge close";

@@ -1,1 +1,1 @@
-var mnemonic = "mother tiger bubble luggage hip fluid stick addict pipe across question brief";
+var mnemonic = "skill egg dress head cement like absurd scheme ability valid sphere prevent";

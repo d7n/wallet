@@ -1,1 +1,1 @@
-var mnemonic = "patrol food lizard test mixed brisk immense riot timber change caution decline";
+var mnemonic = "wide tone clog inject action tank afraid exhibit disease steel auction never";

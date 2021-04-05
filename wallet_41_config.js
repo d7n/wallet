@@ -1,1 +1,1 @@
-var mnemonic = "effort affair load weasel nephew bottom kangaroo remove viable pencil mosquito drill";
+var mnemonic = "remain almost fatigue trash rebel couch end marble visual scissors breeze snake";

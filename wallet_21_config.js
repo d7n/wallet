@@ -1,1 +1,1 @@
-var mnemonic = "false unknown first swamp minute arm yard indicate priority tuna prevent abandon";
+var mnemonic = "obscure three eye embrace happy color web mansion response race code oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk actual curious bid agree economy angry liquid volcano install forward enroll";
+var mnemonic = "mimic auction chair make logic sorry always curve chicken recycle toy fever";

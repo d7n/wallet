@@ -1,1 +1,1 @@
-var mnemonic = "supply hundred outside neutral float parrot subject dolphin affair capable crew ethics";
+var mnemonic = "echo business tumble medal clarify extra exhibit bubble blue boy entire slush";

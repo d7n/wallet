@@ -1,1 +1,1 @@
-var mnemonic = "hockey early short dignity uniform hand danger neither lemon dwarf debate mercy";
+var mnemonic = "edge tattoo glide resemble abandon under club nurse subject chunk sponsor shop";

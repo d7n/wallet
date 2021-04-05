@@ -1,1 +1,1 @@
-var mnemonic = "involve food loud spoil moon raven fix rate lottery stool permit circle";
+var mnemonic = "make light paper wood parade benefit excuse dose celery pear lawsuit maximum";

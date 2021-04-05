@@ -1,1 +1,1 @@
-var mnemonic = "above tip library tragic friend ozone defense congress letter spirit siren imitate";
+var mnemonic = "cable surround pig virus heart rhythm hello curtain file mixture reward miss";

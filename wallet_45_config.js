@@ -1,1 +1,1 @@
-var mnemonic = "twenty oak language bike ring detail hard cereal race soldier swarm brave";
+var mnemonic = "sentence settle recall mother middle skill wheat mixture just plastic age load";

@@ -1,1 +1,1 @@
-var mnemonic = "wool script protect layer hub upgrade magic sell cushion deputy slot woman";
+var mnemonic = "robot basic execute subject power goose stem rice tilt park pull stay";

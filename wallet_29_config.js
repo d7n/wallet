@@ -1,1 +1,1 @@
-var mnemonic = "glance stone actor obtain shoot sauce output walnut stove razor intact weasel";
+var mnemonic = "sword source lyrics robust gauge quit clerk able caution seminar nest small";

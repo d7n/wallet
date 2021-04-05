@@ -1,1 +1,1 @@
-var mnemonic = "evil enough lemon rule cinnamon patch humble arrive boss reveal replace have";
+var mnemonic = "runway magic anchor fantasy execute high menu ticket pledge delay below tape";

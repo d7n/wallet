@@ -1,1 +1,1 @@
-var mnemonic = "orange topple round palm seat clarify soap theory desert then hello core";
+var mnemonic = "alpha sauce coil matter admit random cause slim vault cruel embark vote";

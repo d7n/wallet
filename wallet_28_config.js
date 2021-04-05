@@ -1,1 +1,1 @@
-var mnemonic = "decade staff imitate obtain inside delay tube improve hand armed often truly";
+var mnemonic = "picnic attract glove hockey sound captain suffer real rival media slam photo";

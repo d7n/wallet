@@ -1,1 +1,1 @@
-var mnemonic = "fetch service moment twist combine ability cactus trophy manage pulse faint main";
+var mnemonic = "unique short machine initial maze lobster curious jealous slender immense caught balance";

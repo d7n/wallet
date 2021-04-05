@@ -1,1 +1,1 @@
-var mnemonic = "aware theme salad announce coil brick purse debate switch profit hero clog";
+var mnemonic = "very valve gospel horse denial change snake matter casino virtual buzz brass";

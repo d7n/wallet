@@ -1,1 +1,1 @@
-var mnemonic = "chase satisfy walk exact chuckle shift fiscal limit floor finish grid celery";
+var mnemonic = "decade suit core skull alien corn scatter vibrant dress use rice edge";

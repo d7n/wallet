@@ -1,1 +1,1 @@
-var mnemonic = "panic potato solar ginger thunder more fork field brass input pledge main";
+var mnemonic = "genre dash private danger skate gesture visual rare blade science seek hole";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon ticket rebuild edge enact foster require slow jump trophy upon police";
+var mnemonic = "response cancel fluid embody parent fame come review deal sound code normal";

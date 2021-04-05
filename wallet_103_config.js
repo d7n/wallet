@@ -1,1 +1,1 @@
-var mnemonic = "exact address foil iron omit will space gun grain coast always reduce";
+var mnemonic = "awesome frown ship jungle unhappy add series orphan smoke civil increase garment";

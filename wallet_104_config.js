@@ -1,1 +1,1 @@
-var mnemonic = "win retreat fine sausage pony daughter dish canyon gap diet kitchen muffin";
+var mnemonic = "best pretty scorpion sample yard worth slim harvest bullet eternal boy census";

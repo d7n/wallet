@@ -1,1 +1,1 @@
-var mnemonic = "vanish name spawn switch elder ladder disorder atom famous that ceiling stable";
+var mnemonic = "hard phone empty lucky anxiety latin where win mechanic heart alone order";

@@ -1,1 +1,1 @@
-var mnemonic = "mail open chuckle craft give twice energy occur humble client giggle volume";
+var mnemonic = "wisdom goddess mechanic board cancel measure planet car night cause assist loop";

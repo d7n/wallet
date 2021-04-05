@@ -1,1 +1,1 @@
-var mnemonic = "jealous float discover feed rescue high edge often whale antenna execute burger";
+var mnemonic = "aspect frozen air renew number naive category twin energy cliff soup embrace";

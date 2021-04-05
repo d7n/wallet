@@ -1,1 +1,1 @@
-var mnemonic = "assume champion judge hobby laugh south shove people evil note twin observe";
+var mnemonic = "gun neither diet adult lobster shield law brick coach great wool brush";

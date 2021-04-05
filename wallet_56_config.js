@@ -1,1 +1,1 @@
-var mnemonic = "ready bean glory purchase odor boss broom army gorilla inquiry host razor";
+var mnemonic = "usage aerobic way dizzy example sniff path street grit tobacco chalk journey";

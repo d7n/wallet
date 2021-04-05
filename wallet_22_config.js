@@ -1,1 +1,1 @@
-var mnemonic = "pupil process library search shine region syrup inform page will suit royal";
+var mnemonic = "item kit seed long spread kiss wealth library kind donkey learn gorilla";

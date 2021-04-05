@@ -1,1 +1,1 @@
-var mnemonic = "giraffe man neither spend urge assume envelope usage ramp prevent shift mule";
+var mnemonic = "carry vital length vault save stove joke planet bless detect laugh quiz";

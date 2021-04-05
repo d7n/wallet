@@ -1,1 +1,1 @@
-var mnemonic = "curious foster blind able power oyster clarify opinion family fix can burden";
+var mnemonic = "review abandon mutual height goddess horse sunny meat million angry trend multiply";

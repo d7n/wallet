@@ -1,1 +1,1 @@
-var mnemonic = "antique idea ghost tomato pistol empower bitter notable item broom lecture garage";
+var mnemonic = "comfort appear fiscal noodle exist fade retreat scheme balance check split solid";

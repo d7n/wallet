@@ -1,1 +1,1 @@
-var mnemonic = "hip swamp fly become viable lion room coast crush inhale boring east";
+var mnemonic = "category surge message mosquito wet grit student seminar trip digital fine collect";

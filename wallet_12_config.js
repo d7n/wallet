@@ -1,1 +1,1 @@
-var mnemonic = "sound illegal hedgehog scorpion huge million wage aware stumble enter name unaware";
+var mnemonic = "vibrant island insane game dolphin hub melt daughter food brief twist tired";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler talk animal access theory spatial conduct hope taste torch loyal tragic";
+var mnemonic = "curtain crowd clay breeze potato phrase lady snake element frog humor ceiling";

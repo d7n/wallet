@@ -1,1 +1,1 @@
-var mnemonic = "that shy pretty flag bulk clown picture tree exact glare firm owner";
+var mnemonic = "nothing beach error vague canal entry trend race burger inside fall coin";

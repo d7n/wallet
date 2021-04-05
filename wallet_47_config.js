@@ -1,1 +1,1 @@
-var mnemonic = "negative mom shoe ring foster bitter liberty pass route theme prison parrot";
+var mnemonic = "million reflect surge ethics embrace include cover lazy satoshi story produce flag";

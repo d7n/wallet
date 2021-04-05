@@ -1,1 +1,1 @@
-var mnemonic = "harbor discover yellow much boy chair milk task little twelve submit capital";
+var mnemonic = "arm destroy gold tiny welcome make live muffin deer soda scale army";

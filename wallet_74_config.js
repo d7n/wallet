@@ -1,1 +1,1 @@
-var mnemonic = "own lady drink captain post repeat neck neglect meat patient adapt timber";
+var mnemonic = "knife sting sentence moment scan rare escape panther busy icon photo slow";

@@ -1,1 +1,1 @@
-var mnemonic = "gain boy orange utility aunt weird cargo book when solid rather purse";
+var mnemonic = "husband album warrior tragic veteran sport shrimp project search dance thank rose";

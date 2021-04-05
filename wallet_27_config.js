@@ -1,1 +1,1 @@
-var mnemonic = "start hour wrap frog remain minimum tortoise public license blouse nation wink";
+var mnemonic = "goddess define client hollow pyramid box result six gesture giggle diamond typical";

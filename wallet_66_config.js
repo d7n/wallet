@@ -1,1 +1,1 @@
-var mnemonic = "mirror kite leave boil envelope olympic glimpse glove solid pigeon valley rival";
+var mnemonic = "harsh age opera actor black evoke video author supreme front jacket crystal";

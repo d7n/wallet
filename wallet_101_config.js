@@ -1,1 +1,1 @@
-var mnemonic = "relief girl purity regular ridge swear betray appear siege tube vintage laugh";
+var mnemonic = "monkey card rich radar head desk click night sell monitor tuition labor";

@@ -1,1 +1,1 @@
-var mnemonic = "predict balance multiply remind plastic student modify derive smoke spring pistol define";
+var mnemonic = "letter bunker west usage disease gaze unlock risk sugar uphold impose achieve";

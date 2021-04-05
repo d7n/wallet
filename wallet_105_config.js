@@ -1,1 +1,1 @@
-var mnemonic = "horn shine dove wrestle hip useful dinosaur update gown kiwi seat detect";
+var mnemonic = "loop attack remember depth weekend switch easy acquire farm tilt rather wedding";

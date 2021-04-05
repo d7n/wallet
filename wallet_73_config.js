@@ -1,1 +1,1 @@
-var mnemonic = "rail warrior jewel satoshi disagree critic panther feel bright until noodle write";
+var mnemonic = "real alarm tribe access quality ankle bunker stem element spray federal success";

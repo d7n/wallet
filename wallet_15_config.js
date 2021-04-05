@@ -1,1 +1,1 @@
-var mnemonic = "virus degree smoke hip trial below cause cargo guitar caution tumble chuckle";
+var mnemonic = "defy slab situate improve field cheap pledge addict mutual cradle donate chronic";
