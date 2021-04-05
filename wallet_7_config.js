@@ -1,1 +1,1 @@
-var mnemonic = "then aisle first matrix possible nation barrel evoke lobster oppose ring alley";
+var mnemonic = "ceiling twice trap myself deny fossil above face margin horn book heart";

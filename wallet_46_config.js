@@ -1,1 +1,1 @@
-var mnemonic = "basket depth pitch exchange settle vendor stick crush valley rural grass onion";
+var mnemonic = "trust pear chronic soap clay siren impose sort stool asset student this";

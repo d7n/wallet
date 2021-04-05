@@ -1,1 +1,1 @@
-var mnemonic = "swap art bamboo story media slow million normal indicate double cluster lemon";
+var mnemonic = "body impulse try bonus expose situate plunge design fatigue rifle bamboo alarm";

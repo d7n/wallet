@@ -1,1 +1,1 @@
-var mnemonic = "more shadow visit convince crane exclude level crystal upset photo mad rookie";
+var mnemonic = "pear guilt hill chalk rotate friend observe april room entire property tone";

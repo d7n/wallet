@@ -1,1 +1,1 @@
-var mnemonic = "nerve race tumble detect manual illegal chicken fitness deliver coil acquire endorse";
+var mnemonic = "exchange uncover logic limb hospital dutch vessel vicious scene era mask season";

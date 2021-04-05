@@ -1,1 +1,1 @@
-var mnemonic = "lamp fragile claim powder foot scout tag awkward gym exist myself puzzle";
+var mnemonic = "pride carpet pigeon danger rural elevator tongue link page harbor valve average";

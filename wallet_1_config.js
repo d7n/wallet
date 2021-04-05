@@ -1,1 +1,1 @@
-var mnemonic = "smoke cool bless eye acid unlock input taste area empty fall wet";
+var mnemonic = "limit detail region profit wrestle burden clean into famous humble conduct dice";

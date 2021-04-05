@@ -1,1 +1,1 @@
-var mnemonic = "flee same scan pen adult add grief cash special tuna beauty super";
+var mnemonic = "act wool deny among occur weather glad detect volume hole sketch employ";

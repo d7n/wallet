@@ -1,1 +1,1 @@
-var mnemonic = "pigeon ship seek pet dynamic post party harvest cliff foam era skirt";
+var mnemonic = "zoo arrow copy spice vapor key thank craft cancel pudding rifle two";

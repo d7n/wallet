@@ -1,1 +1,1 @@
-var mnemonic = "toy floor buzz text risk era exclude catch shuffle silent detail token";
+var mnemonic = "letter marriage hover raise gas sorry episode identify patch wife space tool";

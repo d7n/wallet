@@ -1,1 +1,1 @@
-var mnemonic = "glimpse trouble east setup scheme cover carry enable start enforce insane hover";
+var mnemonic = "strong betray feed hurdle half knife nice seed verify panther slab enable";

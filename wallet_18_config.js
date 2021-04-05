@@ -1,1 +1,1 @@
-var mnemonic = "kiwi grape note box endorse uniform benefit syrup expect theory journey grid";
+var mnemonic = "symptom oppose rescue grain organ slice brief fashion mobile betray salt catalog";

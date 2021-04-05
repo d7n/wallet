@@ -1,1 +1,1 @@
-var mnemonic = "country october blade trial end pizza erode thumb space segment cycle youth";
+var mnemonic = "sister oak win venue cinnamon valid summer doll say stone basic able";

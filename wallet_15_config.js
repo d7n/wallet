@@ -1,1 +1,1 @@
-var mnemonic = "sense lemon orient magnet tongue quick divert empty cereal pride lonely minimum";
+var mnemonic = "expect sibling oak sound team raise relax bridge obtain bunker usage nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient hero general motion major purity strike tribe nephew search alley spin";
+var mnemonic = "beyond mule pencil april cactus october alcohol because zone lend anxiety rain";

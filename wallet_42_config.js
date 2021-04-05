@@ -1,1 +1,1 @@
-var mnemonic = "uncover key plug merit ivory wish rice mail orange flock install ride";
+var mnemonic = "fade fitness mountain muscle quote glad danger arctic unlock mule click unit";

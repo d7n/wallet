@@ -1,1 +1,1 @@
-var mnemonic = "orange machine intact spice current code gloom lunar unfold snack vanish phrase";
+var mnemonic = "junk dress health famous holiday detect office boy ribbon vapor chimney age";

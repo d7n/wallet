@@ -1,1 +1,1 @@
-var mnemonic = "slot sail decorate suspect scissors unhappy joke excuse wisdom craft flock citizen";
+var mnemonic = "stomach clinic describe reward menu mix skate toe afraid company improve control";

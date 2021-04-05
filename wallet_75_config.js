@@ -1,1 +1,1 @@
-var mnemonic = "syrup vivid doll silly rule vote soup pole hub ozone clay false";
+var mnemonic = "relax child cement farm curtain gate certain patrol depth apart barely million";

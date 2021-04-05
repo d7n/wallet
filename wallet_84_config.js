@@ -1,1 +1,1 @@
-var mnemonic = "brick impact tired exist kangaroo wink gather throw middle banana before sudden";
+var mnemonic = "ugly isolate stock swing various cabin stage dolphin brief fossil viable prosper";

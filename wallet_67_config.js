@@ -1,1 +1,1 @@
-var mnemonic = "expect coast occur dragon next lady case purity sand vessel rotate critic";
+var mnemonic = "rapid image grief usual health skull dwarf hazard ribbon rival attract talk";

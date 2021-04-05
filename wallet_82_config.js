@@ -1,1 +1,1 @@
-var mnemonic = "strike network sort wasp december atom priority misery sentence lab swarm cereal";
+var mnemonic = "entry reject era more improve devote save forget tourist train follow entry";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle tumble strong jewel notable maze culture fog gift length detail tongue";
+var mnemonic = "promote finish family vendor split aware about just abstract crater then reopen";

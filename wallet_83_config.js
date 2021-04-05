@@ -1,1 +1,1 @@
-var mnemonic = "charge cross bottom sun gallery gauge length awful banana quantum egg rack";
+var mnemonic = "bitter try near burden addict output author chunk stem sudden squeeze force";

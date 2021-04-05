@@ -1,1 +1,1 @@
-var mnemonic = "code art favorite hurdle position dragon another armor luxury trade sting disagree";
+var mnemonic = "better pepper advice gym federal style equal office hamster govern example butter";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect record hundred regular jungle flock seat cricket cram mule angle upset";
+var mnemonic = "virtual giggle meadow mom minute equal theme agent play duck evolve cheap";

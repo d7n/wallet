@@ -1,1 +1,1 @@
-var mnemonic = "pass gesture width squirrel beauty romance gadget quiz shadow seminar smart exhaust";
+var mnemonic = "ladder spatial mouse annual large accuse absent antenna praise vault still trouble";

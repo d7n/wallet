@@ -1,1 +1,1 @@
-var mnemonic = "explain forum recipe physical logic fun sick exile marriage toilet talk spread";
+var mnemonic = "correct good ill buffalo resource valid kitchen asset borrow pyramid thrive person";

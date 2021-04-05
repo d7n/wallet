@@ -1,1 +1,1 @@
-var mnemonic = "lunch nerve glare denial cube since quick recipe three dry eagle suggest";
+var mnemonic = "betray dragon chef husband kind crazy wood ethics illness jungle category lunch";

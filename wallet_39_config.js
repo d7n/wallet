@@ -1,1 +1,1 @@
-var mnemonic = "praise inhale explain used shadow noise tank coral cousin execute ethics steel";
+var mnemonic = "woman volcano hard cruise jump panther session stem marine prosper depth shove";

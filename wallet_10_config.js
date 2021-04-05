@@ -1,1 +1,1 @@
-var mnemonic = "morning elephant innocent bird edit toss labor step wool mention ivory reject";
+var mnemonic = "scrap jaguar action stuff avoid indicate fragile hill garden urge erosion magnet";

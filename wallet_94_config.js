@@ -1,1 +1,1 @@
-var mnemonic = "shy kick rescue october mask hawk agree eight dragon midnight security tonight";
+var mnemonic = "toy pistol home answer divorce fringe angry pond exile pet ramp drama";

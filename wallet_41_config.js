@@ -1,1 +1,1 @@
-var mnemonic = "era battle mouse loop able perfect situate enroll buddy silk execute skate";
+var mnemonic = "champion twelve rib light rigid wrestle cost guess spider noble shine envelope";

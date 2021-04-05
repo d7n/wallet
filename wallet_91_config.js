@@ -1,1 +1,1 @@
-var mnemonic = "jazz dragon blast game cupboard spoil protect else pill swear domain feature";
+var mnemonic = "spare tip eye useless lucky budget man name blue obey grain filter";

@@ -1,1 +1,1 @@
-var mnemonic = "fly crop despair toy case floor access brave valid balcony dismiss beef";
+var mnemonic = "jazz mosquito negative palace very noble wild you inner shoulder enjoy awesome";

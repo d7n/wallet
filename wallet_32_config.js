@@ -1,1 +1,1 @@
-var mnemonic = "grow candy section tilt craft cannon wrist home foot story coach sound";
+var mnemonic = "verify cradle keep swim donor ice have torch deliver elbow order matter";

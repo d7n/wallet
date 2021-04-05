@@ -1,1 +1,1 @@
-var mnemonic = "scare tent gain rack assault confirm boat hood motor explain doctor festival";
+var mnemonic = "emotion indicate vendor physical caught stool essence unveil warrior way muscle frown";

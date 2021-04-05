@@ -1,1 +1,1 @@
-var mnemonic = "engine toss lake kidney erupt cover there shadow crawl expose fine capable";
+var mnemonic = "beef struggle warfare hotel found taxi riot destroy ensure unveil unhappy silk";

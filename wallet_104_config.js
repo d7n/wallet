@@ -1,1 +1,1 @@
-var mnemonic = "dream where gate cat exile rifle jelly during win syrup right wire";
+var mnemonic = "main foam awake shaft charge blush alien bargain manage tuition alert shaft";

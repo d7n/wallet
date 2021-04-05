@@ -1,1 +1,1 @@
-var mnemonic = "sword scorpion limit now supreme staff food onion what note spirit share";
+var mnemonic = "pulp century move possible immense author lecture blood acoustic employ robot half";

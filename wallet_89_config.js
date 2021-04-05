@@ -1,1 +1,1 @@
-var mnemonic = "boat tomato firm pride ocean cage mom minute young summer audit else";
+var mnemonic = "churn wet farm seven future mountain federal electric father planet relief army";

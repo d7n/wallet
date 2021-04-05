@@ -1,1 +1,1 @@
-var mnemonic = "magnet present slide exclude also tomato hazard upgrade debate arrest suit trust";
+var mnemonic = "sign diary glory rail present meadow case trial caution slush pretty quantum";

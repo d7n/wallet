@@ -1,1 +1,1 @@
-var mnemonic = "destroy length olympic little bounce borrow because fragile motion need miss pottery";
+var mnemonic = "apart vapor robust table enough ability search arena flame radio palace transfer";

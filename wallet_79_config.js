@@ -1,1 +1,1 @@
-var mnemonic = "noble toe add unique portion firm rough tackle fiction venue expose abuse";
+var mnemonic = "keen pretty win loud trim upper cigar today reduce horror race raw";

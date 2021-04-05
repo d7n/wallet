@@ -1,1 +1,1 @@
-var mnemonic = "pigeon improve toast wage trust balance canvas benefit crowd stadium news tiny";
+var mnemonic = "mesh sport lesson innocent rural relief theme coach wolf funny vintage arena";

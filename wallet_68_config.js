@@ -1,1 +1,1 @@
-var mnemonic = "rival pause shrimp midnight strategy pass silly lion seven gym alone tissue";
+var mnemonic = "arrive cheap grief danger bounce reform replace senior tackle erase demise open";

@@ -1,1 +1,1 @@
-var mnemonic = "general scrub access stock camera fish remember tomato flag exile pottery detail";
+var mnemonic = "chalk ball tackle coffee gap magnet matter science section bulk tourist glimpse";

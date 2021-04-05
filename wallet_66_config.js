@@ -1,1 +1,1 @@
-var mnemonic = "muffin march mind skin all helmet open badge disagree wash legend bullet";
+var mnemonic = "crouch give scheme ability entire often canal tone aspect dilemma stock stumble";

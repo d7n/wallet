@@ -1,1 +1,1 @@
-var mnemonic = "hammer valid doll lift soul enforce future deal tank pond false canyon";
+var mnemonic = "seek base frost rubber gap ankle wall subject input have else taxi";

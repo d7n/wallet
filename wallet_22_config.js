@@ -1,1 +1,1 @@
-var mnemonic = "grass ill bunker tray west that dish hotel hedgehog random liberty debris";
+var mnemonic = "scorpion knife lab attend logic unit rose thrive main venture shoulder slush";

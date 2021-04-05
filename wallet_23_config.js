@@ -1,1 +1,1 @@
-var mnemonic = "toss lazy salon knee equip lesson fortune rapid leg sad high rely";
+var mnemonic = "amused dinosaur video final size dog collect scrap script stove gown lens";

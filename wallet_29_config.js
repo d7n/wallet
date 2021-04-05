@@ -1,1 +1,1 @@
-var mnemonic = "skate husband project monster crack legal tongue loud violin era own brief";
+var mnemonic = "pioneer skirt flag scan picture kiwi defense feature guide moral margin auto";

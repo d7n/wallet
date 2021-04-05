@@ -1,1 +1,1 @@
-var mnemonic = "minimum pill tissue rude vessel donate nation deer toward black witness vessel";
+var mnemonic = "twist negative oxygen abstract pride such glow exile rain click city slim";

@@ -1,1 +1,1 @@
-var mnemonic = "property canyon fatigue fade search lens jar favorite alarm erase charge nut";
+var mnemonic = "stove lawsuit blind adapt cost click toward original kid brown dish chimney";

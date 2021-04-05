@@ -1,1 +1,1 @@
-var mnemonic = "elephant steak kitten also base edge popular ready shallow twin glide region";
+var mnemonic = "hundred curious stuff collect draft cube renew pave tourist access fox pyramid";

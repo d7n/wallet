@@ -1,1 +1,1 @@
-var mnemonic = "key casino exchange reward frown clerk chalk course theme vibrant buzz laugh";
+var mnemonic = "offer pluck either aim home glow flame steel teach elite core ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey abandon about grid stairs glove airport picnic uniform forum element husband";
+var mnemonic = "river magnet globe scorpion cheese token couple impulse course embody fuel thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "romance curve sense debris base cradle amazing hope pigeon cross army extra";
+var mnemonic = "age salad coast twin motor aspect proud tiger hen emotion special crazy";

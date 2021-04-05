@@ -1,1 +1,1 @@
-var mnemonic = "siege amount fly unusual quote soccer drama night ice walk salad now";
+var mnemonic = "fox deer globe camp visual chaos huge shop cry antique secret mail";

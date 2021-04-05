@@ -1,1 +1,1 @@
-var mnemonic = "choice blanket hunt attitude section unaware decide insect income drama law click";
+var mnemonic = "project snow turkey amount slam loud good wolf shrimp tail snap miss";

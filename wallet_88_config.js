@@ -1,1 +1,1 @@
-var mnemonic = "buzz float pupil glory parent adjust feed staff skate sunny fatigue sausage";
+var mnemonic = "initial runway catalog beef doctor pudding race track sketch wagon satoshi fame";

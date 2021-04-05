@@ -1,1 +1,1 @@
-var mnemonic = "grocery bunker toilet enhance peanut exit skirt stool story tragic egg wide";
+var mnemonic = "midnight mechanic flower eager capital excite business subway spray lawsuit moral prison";

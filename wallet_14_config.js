@@ -1,1 +1,1 @@
-var mnemonic = "tilt attract lava pause sea farm abuse pretty unusual jaguar heart just";
+var mnemonic = "sport need spread little pulse fuel mango laptop high capable patient broccoli";

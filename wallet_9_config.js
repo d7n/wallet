@@ -1,1 +1,1 @@
-var mnemonic = "muscle pitch spirit gun wink air praise blade delay head sign one";
+var mnemonic = "that loan major fitness absorb shell device minor crouch august winter female";

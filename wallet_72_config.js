@@ -1,1 +1,1 @@
-var mnemonic = "prefer swamp style fame above tattoo grunt prize east immense wagon review";
+var mnemonic = "upon bean mosquito cave guilt have soap kiwi degree velvet equip budget";

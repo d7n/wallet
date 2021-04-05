@@ -1,1 +1,1 @@
-var mnemonic = "catalog frame sponsor bone video sense floor great universe uniform pencil trash";
+var mnemonic = "stem domain earn chaos test month jungle mule young manual despair win";

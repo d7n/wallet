@@ -1,1 +1,1 @@
-var mnemonic = "involve gospel rifle brown junk glow section equip immense believe wonder still";
+var mnemonic = "fox joke gadget beach funny garlic method home silent enter bounce lawsuit";

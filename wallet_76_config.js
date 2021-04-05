@@ -1,1 +1,1 @@
-var mnemonic = "giraffe upon wing patrol urge coral enable thunder run lamp safe danger";
+var mnemonic = "avoid glue truth tourist crumble velvet frost swallow exhibit wash trip vicious";

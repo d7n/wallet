@@ -1,1 +1,1 @@
-var mnemonic = "theme give all wait scare disorder armor royal vintage riot train error";
+var mnemonic = "ketchup someone river session wire square april explain expose trap fossil ladder";

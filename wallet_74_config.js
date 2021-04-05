@@ -1,1 +1,1 @@
-var mnemonic = "pipe awesome west bulk heavy tenant assist auto weasel gas basket awkward";
+var mnemonic = "blouse toddler yellow fantasy index bike inspire pledge scatter portion exact uniform";

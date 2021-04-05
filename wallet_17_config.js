@@ -1,1 +1,1 @@
-var mnemonic = "rebuild owner model danger link ignore enrich engage carry infant midnight toss";
+var mnemonic = "valve address train knock uncle whip lava fold hole gasp loyal catalog";

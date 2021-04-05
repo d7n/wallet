@@ -1,1 +1,1 @@
-var mnemonic = "crazy tortoise leave acoustic rate idle feed garage addict pudding cannon brave";
+var mnemonic = "proof accident stool fall bridge aerobic yellow lazy pledge innocent voice average";

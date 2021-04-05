@@ -1,1 +1,1 @@
-var mnemonic = "island beach coffee neck afford reopen remain cargo logic prize sick maximum";
+var mnemonic = "prefer enable nature broom whisper despair exchange lucky health grace session cargo";

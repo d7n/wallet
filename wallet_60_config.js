@@ -1,1 +1,1 @@
-var mnemonic = "fury eagle swarm dilemma exile renew review eye guide salmon garment analyst";
+var mnemonic = "post polar consider label choose march wire female adult expand rail nephew";

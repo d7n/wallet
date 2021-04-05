@@ -1,1 +1,1 @@
-var mnemonic = "remember spell badge market sort stable side fiber bulb room juice satisfy";
+var mnemonic = "spider lobster valve globe estate soccer opinion gloom edge hen genuine glove";

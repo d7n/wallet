@@ -1,1 +1,1 @@
-var mnemonic = "live find wage supreme season detect crew fragile razor clown pluck label";
+var mnemonic = "twice cheese reform bean reduce avocado armed gloom rigid evil machine suit";

@@ -1,1 +1,1 @@
-var mnemonic = "peace viable off key ten neither evil armed mercy diamond anxiety vast";
+var mnemonic = "lizard amazing alone produce electric sphere update pig just rapid alone negative";

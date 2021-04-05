@@ -1,1 +1,1 @@
-var mnemonic = "rally saddle imitate embody ring display winter live shop taste flag banner";
+var mnemonic = "box salad muscle fruit best sock custom popular light stomach powder asset";

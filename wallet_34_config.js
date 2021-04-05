@@ -1,1 +1,1 @@
-var mnemonic = "cover grocery wheel repeat until mean various festival scrap mixed analyst inhale";
+var mnemonic = "relief evil angle fever tornado tomato mansion blur ritual smart visit fitness";

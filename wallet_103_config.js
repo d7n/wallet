@@ -1,1 +1,1 @@
-var mnemonic = "dragon road tattoo evoke repeat until horror door among race social produce";
+var mnemonic = "auction picture tank general kitchen human kite fan come napkin cereal maid";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb world soccer antique fall taxi blush flag own donkey execute model";
+var mnemonic = "eight subway zero auto episode penalty polar know fetch cage struggle author";

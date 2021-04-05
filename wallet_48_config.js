@@ -1,1 +1,1 @@
-var mnemonic = "achieve satisfy harsh exclude amount minimum mercy latin ozone lens gaze quick";
+var mnemonic = "book trophy make rug throw sponsor stamp assist quiz express river forest";

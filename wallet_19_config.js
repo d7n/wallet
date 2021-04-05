@@ -1,1 +1,1 @@
-var mnemonic = "trophy twelve kitchen truly sunny train trap heart cricket hammer cotton blade";
+var mnemonic = "gloom holiday coast trap skate frost mosquito army exotic flight cinnamon sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup eyebrow airport bulb employ sword horse lazy message warm lawsuit fine";
+var mnemonic = "manual runway squeeze decline sweet battle doll direct evoke nature payment aim";

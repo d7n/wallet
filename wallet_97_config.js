@@ -1,1 +1,1 @@
-var mnemonic = "two behind forward alcohol search slide valley certain famous damp holiday segment";
+var mnemonic = "decade snake since author brother shrug garment impulse inflict supreme detect better";

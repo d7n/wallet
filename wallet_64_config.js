@@ -1,1 +1,1 @@
-var mnemonic = "angry loan twelve disorder bullet alert evolve strong february antenna smile crowd";
+var mnemonic = "catch deer abandon eyebrow rookie push hotel strategy alone glow spread tunnel";

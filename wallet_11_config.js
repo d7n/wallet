@@ -1,1 +1,1 @@
-var mnemonic = "pilot obscure oval since oven first couple second pigeon rent indicate episode";
+var mnemonic = "tone diagram try quick mail canvas once cotton donate write disease wall";

@@ -1,1 +1,1 @@
-var mnemonic = "rule lava feel derive luxury ghost sketch flavor final best endorse quick";
+var mnemonic = "key million country maze lesson enrich throw orchard promote display brand else";

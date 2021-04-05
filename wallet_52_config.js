@@ -1,1 +1,1 @@
-var mnemonic = "reject struggle remain awful casino piece delay bright mention toast suggest balance";
+var mnemonic = "photo tree curve mixture clog either inspire unaware follow injury result execute";

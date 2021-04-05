@@ -1,1 +1,1 @@
-var mnemonic = "alcohol liberty tape bachelor carpet feel occur focus bunker vapor orbit deal";
+var mnemonic = "drive argue velvet cricket cost hospital swim mixed wine sick involve access";

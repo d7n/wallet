@@ -1,1 +1,1 @@
-var mnemonic = "alone reason town lumber box seven repeat harvest stand enrich liar group";
+var mnemonic = "emerge toss orbit welcome arrest network order fence trigger silk always answer";

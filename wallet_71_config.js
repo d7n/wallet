@@ -1,1 +1,1 @@
-var mnemonic = "deliver fit funny dress pudding radar rain impact width tragic gauge feel";
+var mnemonic = "position small famous ribbon amount fortune seek business unique window clown kid";

@@ -1,1 +1,1 @@
-var mnemonic = "spot during word model simple usage task dress page pulse labor scrub";
+var mnemonic = "drop detect tag hand lamp harbor disorder sauce traffic sponsor female slot";

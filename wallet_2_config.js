@@ -1,1 +1,1 @@
-var mnemonic = "apart shuffle antique taste brother category wreck panther token noise aspect faith";
+var mnemonic = "people next phrase tip author hundred flower nature lecture soup virtual vault";
