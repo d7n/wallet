@@ -1,1 +1,1 @@
-var mnemonic = "candy easy similar execute monkey skill dose suspect emotion wide trick catalog";
+var mnemonic = "garment immune copy sport exercise barrel cage among sphere vessel high crack";

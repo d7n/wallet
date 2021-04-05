@@ -1,1 +1,1 @@
-var mnemonic = "lucky oxygen frame problem wise invest guitar mind believe horn edit toss";
+var mnemonic = "aim pudding scene toy cool search immense tribe credit fossil urban edge";

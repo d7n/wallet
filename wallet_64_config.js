@@ -1,1 +1,1 @@
-var mnemonic = "tent monitor engage glance fruit beauty head curtain open similar slam property";
+var mnemonic = "shy crop author caught omit gentle hero bargain alert scene easily secret";

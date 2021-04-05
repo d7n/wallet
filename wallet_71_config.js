@@ -1,1 +1,1 @@
-var mnemonic = "burger trim airport enough position regular very document master rocket aim river";
+var mnemonic = "fix cigar kind labor battle income defy diet animal giraffe hero first";

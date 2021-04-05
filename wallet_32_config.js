@@ -1,1 +1,1 @@
-var mnemonic = "punch run swamp science chase lamp animal notable win view cherry shy";
+var mnemonic = "old tuna order domain coast rapid lunar average own chair ghost various";

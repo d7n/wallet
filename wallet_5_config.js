@@ -1,1 +1,1 @@
-var mnemonic = "can host awkward grief swallow draft bring must panel castle vehicle border";
+var mnemonic = "harsh lion expire provide merge learn foot hospital annual holiday betray flush";

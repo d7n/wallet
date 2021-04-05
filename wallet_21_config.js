@@ -1,1 +1,1 @@
-var mnemonic = "end possible steak enforce crowd casual illness exercise public monitor property tribe";
+var mnemonic = "scrub zone total caught viable drip hedgehog nose rigid exact subway lady";

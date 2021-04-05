@@ -1,1 +1,1 @@
-var mnemonic = "device process ankle exist museum spider catch expire flat rather wood tip";
+var mnemonic = "relief aerobic forget depth snow gadget easy night coil token kite deny";

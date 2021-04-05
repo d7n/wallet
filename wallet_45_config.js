@@ -1,1 +1,1 @@
-var mnemonic = "pull humor remind fancy absurd potato ostrich fiber extend equip blouse draw";
+var mnemonic = "tongue stem spoil transfer offer gas move naive castle section mirror moral";

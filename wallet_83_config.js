@@ -1,1 +1,1 @@
-var mnemonic = "biology trick luxury traffic mosquito silly blast beach toward shell speak sell";
+var mnemonic = "reduce neck stock exist embody day general cat scout grit hold feed";

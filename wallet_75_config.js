@@ -1,1 +1,1 @@
-var mnemonic = "clog deliver soft energy come milk neither door neutral foster laptop clean";
+var mnemonic = "panel tag misery cluster member response burger image corn salt artefact chief";

@@ -1,1 +1,1 @@
-var mnemonic = "grid fade viable hair impact atom mystery climb dance shiver drastic draw";
+var mnemonic = "seminar music silver wrestle flight walnut glue knee shadow brown witness ocean";

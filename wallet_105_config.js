@@ -1,1 +1,1 @@
-var mnemonic = "sure squirrel neglect gold empty pill brain interest club biology biology estate";
+var mnemonic = "type secret office awful note table trial spike tragic art fresh group";

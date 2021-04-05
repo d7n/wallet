@@ -1,1 +1,1 @@
-var mnemonic = "issue whip winter add token indoor rigid million stay club drift tragic";
+var mnemonic = "thing beauty puppy fame nominee donor dentist still crunch magic weapon front";

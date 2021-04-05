@@ -1,1 +1,1 @@
-var mnemonic = "live cable brush leopard token angle echo coral chief gorilla ignore matter";
+var mnemonic = "portion city country hello mimic garage civil frost happy buyer right swim";

@@ -1,1 +1,1 @@
-var mnemonic = "solve casino phone family require hunt trend develop poverty present virus save";
+var mnemonic = "cactus couple access know man process regret erode father spell source price";

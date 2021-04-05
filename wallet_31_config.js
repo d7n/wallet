@@ -1,1 +1,1 @@
-var mnemonic = "casual voyage trash syrup dad copy nose cat wedding analyst lonely lift";
+var mnemonic = "put wash renew lunar cave impose welcome anger party fetch similar oil";

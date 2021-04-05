@@ -1,1 +1,1 @@
-var mnemonic = "material shield found nominee radio scissors cargo just end armed exhaust finger";
+var mnemonic = "unusual core fog actress wrestle million crisp lunch avoid tackle march novel";

@@ -1,1 +1,1 @@
-var mnemonic = "rotate balance online lyrics army source hint athlete power arrive stool bridge";
+var mnemonic = "gift donor shoot come surround hurry cactus token parrot correct blush decrease";

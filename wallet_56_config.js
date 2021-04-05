@@ -1,1 +1,1 @@
-var mnemonic = "balcony hospital pitch shop creek drink pudding whale quarter anchor prevent nature";
+var mnemonic = "infant fortune picnic hedgehog current clip region swift memory exile verify lesson";

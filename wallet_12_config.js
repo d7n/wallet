@@ -1,1 +1,1 @@
-var mnemonic = "win tenant ripple warm cheap burden climb capital hood media project medal";
+var mnemonic = "helmet addict someone era brother box crumble jewel parade note crush grape";

@@ -1,1 +1,1 @@
-var mnemonic = "juice seed defense census scorpion giraffe note flame fog party sister slogan";
+var mnemonic = "huge fold gaze desk rebuild master smart mansion milk borrow base echo";

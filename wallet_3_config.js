@@ -1,1 +1,1 @@
-var mnemonic = "tunnel tennis loud coral keen canvas tiny march vapor panda shine negative";
+var mnemonic = "room beyond miracle paddle entry inmate hire attract alone powder plug tent";

@@ -1,1 +1,1 @@
-var mnemonic = "hint impose goat soap deal gospel come army web echo document want";
+var mnemonic = "hungry jump family antenna rescue runway oval bus gauge unhappy ribbon fine";

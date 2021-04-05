@@ -1,1 +1,1 @@
-var mnemonic = "leave illegal electric neglect number genius exchange kite hill duty client thrive";
+var mnemonic = "bargain gasp tonight wine toddler slice tag able object live misery amused";

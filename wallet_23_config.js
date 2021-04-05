@@ -1,1 +1,1 @@
-var mnemonic = "frequent gallery ugly income february inner glory inject cute cricket captain advice";
+var mnemonic = "saddle reflect disease best sting grab butter pioneer shield neither demise man";

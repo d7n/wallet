@@ -1,1 +1,1 @@
-var mnemonic = "strong treat into speak style genuine result hard spider bundle bike area";
+var mnemonic = "sponsor guide glide library provide volume remember useless priority rescue patient bacon";

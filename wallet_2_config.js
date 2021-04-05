@@ -1,1 +1,1 @@
-var mnemonic = "surge barrel stuff sing wealth material arrest diary forum garment verify absorb";
+var mnemonic = "swear jealous chronic maze rocket purpose dose drill flock render spoil choose";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder atom position economy assume denial mercy slim alien impose crack film";
+var mnemonic = "pledge system method tail give stage air position end slam what adult";

@@ -1,1 +1,1 @@
-var mnemonic = "recall park divide urban banner combine income sword derive wasp subject inmate";
+var mnemonic = "foil document fiber name genuine glow rent sort pink eight vivid move";

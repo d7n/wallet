@@ -1,1 +1,1 @@
-var mnemonic = "limb endless salmon chronic enforce wood thought friend border column enroll rabbit";
+var mnemonic = "guitar voice join dove filter elbow cannon rare way pact area system";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster wear wave exhibit reason ready strategy legal exist box antenna muscle";
+var mnemonic = "cake turtle steel marine soap method chicken spring remove room bargain arrange";

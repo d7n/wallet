@@ -1,1 +1,1 @@
-var mnemonic = "chronic clarify top alone inmate ecology ankle shed consider fortune slogan motor";
+var mnemonic = "tuna demise brand ketchup auto about baby school stereo common panda pet";

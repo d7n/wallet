@@ -1,1 +1,1 @@
-var mnemonic = "wool visit raven escape corn task sunset west there sketch rigid able";
+var mnemonic = "hire make track glove arrest estate hollow mail earn gun window always";

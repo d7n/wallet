@@ -1,1 +1,1 @@
-var mnemonic = "observe nation creek raise choose acoustic blur owner negative rival clip exhibit";
+var mnemonic = "recycle walk emerge company faith shrug echo wrong quality abuse garlic extra";

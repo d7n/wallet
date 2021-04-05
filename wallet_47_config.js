@@ -1,1 +1,1 @@
-var mnemonic = "bubble elite usage air basic film basket dignity cable zone village bracket";
+var mnemonic = "version castle renew february broken opera luggage estate border mobile gorilla hamster";

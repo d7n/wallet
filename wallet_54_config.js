@@ -1,1 +1,1 @@
-var mnemonic = "leopard when all tuna birth illness favorite menu emerge assist lion witness";
+var mnemonic = "wolf eager essay grief what clown swamp inner maple stuff wing level";

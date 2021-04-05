@@ -1,1 +1,1 @@
-var mnemonic = "tape comfort planet era lawsuit spy life soon middle unaware burger phrase";
+var mnemonic = "ticket like derive mask sunset object lend gaze book position bunker short";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan venture hammer improve frown unknown churn pistol give hour forum act";
+var mnemonic = "inherit patch assist runway hover inhale tobacco lecture load client salute prevent";

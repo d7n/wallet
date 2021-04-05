@@ -1,1 +1,1 @@
-var mnemonic = "grain trust assault fancy panel find embark doll produce shallow dish shock";
+var mnemonic = "hat stomach wonder august soft rack cycle pole opera turn health skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "torch exchange gallery wonder pony midnight hybrid pretty stem forest memory east";
+var mnemonic = "try bus jazz annual pitch produce nominee jacket vessel regular giggle outdoor";

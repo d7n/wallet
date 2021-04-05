@@ -1,1 +1,1 @@
-var mnemonic = "steak boss exhibit match glass host glue project stairs keen parade turtle";
+var mnemonic = "museum rate beef unlock monkey empower travel pill split dynamic hidden jungle";

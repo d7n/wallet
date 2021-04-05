@@ -1,1 +1,1 @@
-var mnemonic = "future hazard fossil bullet sausage raise father blind day climb until limb";
+var mnemonic = "hundred ribbon record impact biology question surge potato voyage warm upon theory";

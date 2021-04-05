@@ -1,1 +1,1 @@
-var mnemonic = "cool sight festival enact message obvious jazz flavor bachelor priority auction number";
+var mnemonic = "rubber gossip dumb fork ghost uphold car alter endorse cry knife nominee";

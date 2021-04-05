@@ -1,1 +1,1 @@
-var mnemonic = "legend hill catch able approve apple nominee angle tiny basic couple sustain";
+var mnemonic = "board bind other bronze eager argue index suspect tell skull bench promote";

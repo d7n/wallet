@@ -1,1 +1,1 @@
-var mnemonic = "situate giggle cross cargo city inquiry monitor evidence win lion tower safe";
+var mnemonic = "search toilet scorpion pigeon negative icon broom bulk script marriage image blush";

@@ -1,1 +1,1 @@
-var mnemonic = "slush put fork palm tennis dove glory gift gossip reduce good slogan";
+var mnemonic = "eagle issue napkin major until manual allow circle demise attitude cute cheese";

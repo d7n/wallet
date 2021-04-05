@@ -1,1 +1,1 @@
-var mnemonic = "wedding best army uniform flag expand avoid right web loyal cradle second";
+var mnemonic = "agree picnic angle helmet dove stone rebel joy leg cross endorse useless";

@@ -1,1 +1,1 @@
-var mnemonic = "throw flag blood museum dilemma balance sort shoulder gift eternal outer guilt";
+var mnemonic = "absent solid tattoo viable pencil sauce fever course universe day cube page";

@@ -1,1 +1,1 @@
-var mnemonic = "picture unknown december trophy debris soon moment organ tool word total night";
+var mnemonic = "raccoon cigar jeans figure limb omit enough mushroom few erode planet neglect";

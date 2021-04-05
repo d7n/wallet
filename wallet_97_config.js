@@ -1,1 +1,1 @@
-var mnemonic = "arch hold skirt speed version priority doctor egg valid few size shrug";
+var mnemonic = "offer hope orange bid foot immense around veteran draw maple inch olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dwarf cross profit angry vanish story nerve beauty label column name";
+var mnemonic = "few envelope action index poet tide confirm crash unfair blanket silk oyster";

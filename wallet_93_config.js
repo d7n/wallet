@@ -1,1 +1,1 @@
-var mnemonic = "rotate boring grab scrub deputy spray arena super depart ready course around";
+var mnemonic = "town secret biology desert card people design quick hen anchor luggage near";

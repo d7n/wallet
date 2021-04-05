@@ -1,1 +1,1 @@
-var mnemonic = "blue service salt symptom heart field space borrow arrive cinnamon hover floor";
+var mnemonic = "rookie guitar broom nominee cram delay jump cart pen rescue flee bargain";

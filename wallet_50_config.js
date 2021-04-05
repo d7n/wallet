@@ -1,1 +1,1 @@
-var mnemonic = "seminar unhappy faith elbow sentence enhance easily joy hunt skill isolate magic";
+var mnemonic = "dragon skill travel flee nuclear noodle simple improve anxiety exist movie move";

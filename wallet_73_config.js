@@ -1,1 +1,1 @@
-var mnemonic = "dune mind film tube mass eight unveil cactus kingdom flat cricket add";
+var mnemonic = "tonight alien acquire rent agree need stay giant afraid expire area cliff";

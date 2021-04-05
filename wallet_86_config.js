@@ -1,1 +1,1 @@
-var mnemonic = "approve drama output orient high present topple garbage consider clock basket tone";
+var mnemonic = "little dutch word december dial rotate educate current boost dinner strategy tiger";

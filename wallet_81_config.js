@@ -1,1 +1,1 @@
-var mnemonic = "inner connect crush pole position scatter excuse scissors teach wagon cigar rabbit";
+var mnemonic = "dizzy smart also barely slow question trouble polar captain danger violin cruel";

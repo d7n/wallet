@@ -1,1 +1,1 @@
-var mnemonic = "recall holiday deer unknown pyramid give fog auction front oyster nuclear mom";
+var mnemonic = "valid invest fence slide kitchen inmate safe tonight trash child record october";

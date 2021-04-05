@@ -1,1 +1,1 @@
-var mnemonic = "virtual absorb siege stairs aware foil throw direct idle garden wink humor";
+var mnemonic = "jaguar write churn deliver debate theory cricket battle surface gadget silk tent";

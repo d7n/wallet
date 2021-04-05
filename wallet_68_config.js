@@ -1,1 +1,1 @@
-var mnemonic = "sing chef shrug empty roof pride auction captain cream what awake kid";
+var mnemonic = "eagle pet inherit soldier claim dice brass phone awake engine before square";

@@ -1,1 +1,1 @@
-var mnemonic = "pen jazz jealous inquiry earth toe table party maze grunt open habit";
+var mnemonic = "affair smooth come pattern switch drastic like crumble loud fun history upon";

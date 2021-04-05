@@ -1,1 +1,1 @@
-var mnemonic = "solid green ask swallow grocery silver hazard month various parrot category casual";
+var mnemonic = "tool hover jelly author thought auction affair such edge head gift champion";

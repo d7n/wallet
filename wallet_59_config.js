@@ -1,1 +1,1 @@
-var mnemonic = "distance nominee pill clinic salmon evoke tennis fish donate error disagree have";
+var mnemonic = "coffee end dial weekend rare expand three economy law web float token";

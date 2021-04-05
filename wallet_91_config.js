@@ -1,1 +1,1 @@
-var mnemonic = "civil wisdom settle wrestle creek light document zero immune grab goose airport";
+var mnemonic = "vapor sausage thrive share clean market banana chunk melt embody surprise lunch";

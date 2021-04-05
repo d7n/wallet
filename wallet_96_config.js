@@ -1,1 +1,1 @@
-var mnemonic = "tenant glow siren square romance prize monster goose feel trap have episode";
+var mnemonic = "match kiss blush play math thrive core mountain neither audit aspect shine";

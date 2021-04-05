@@ -1,1 +1,1 @@
-var mnemonic = "fit surface captain forward quality maple art jacket race flee shallow round";
+var mnemonic = "blade basket spring abandon increase nerve couple river push dutch possible afraid";

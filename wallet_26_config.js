@@ -1,1 +1,1 @@
-var mnemonic = "night taxi city flight repair begin super mean enjoy arena region tomato";
+var mnemonic = "vessel obvious winner correct couple cactus pony pencil next pioneer clutch wrap";

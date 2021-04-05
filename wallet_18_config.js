@@ -1,1 +1,1 @@
-var mnemonic = "deliver sand alert aware half section blood supreme priority length animal long";
+var mnemonic = "turkey health erosion tunnel erase thing lesson include submit foster grace grid";

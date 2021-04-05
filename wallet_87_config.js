@@ -1,1 +1,1 @@
-var mnemonic = "famous soft charge tape butter just case spend issue until offer empty";
+var mnemonic = "hawk ski under bronze fury panda hundred category south fork steel rely";

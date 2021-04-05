@@ -1,1 +1,1 @@
-var mnemonic = "connect express chunk decide burden organ immense action chat mail film deputy";
+var mnemonic = "practice smile carbon wool inflict autumn riot chase any quarter call amount";

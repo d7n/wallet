@@ -1,1 +1,1 @@
-var mnemonic = "bottom uncle blur employ veteran hospital crowd shaft six type leave rocket";
+var mnemonic = "autumn simple medal trick desk piece shop arrow joke key grape apple";

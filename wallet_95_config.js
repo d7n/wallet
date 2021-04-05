@@ -1,1 +1,1 @@
-var mnemonic = "early learn movie happy charge charge text traffic guess coffee atom wrong";
+var mnemonic = "gaze remove range family defy curve clog use bean glass lecture remain";

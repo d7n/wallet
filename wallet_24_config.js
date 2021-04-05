@@ -1,1 +1,1 @@
-var mnemonic = "napkin alpha onion cat admit arrange clip zero record season river garment";
+var mnemonic = "card letter cricket canal absurd paddle news moment tennis speak joke swift";

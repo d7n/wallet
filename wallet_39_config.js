@@ -1,1 +1,1 @@
-var mnemonic = "smooth cute panda dune toy night afraid couch renew govern rhythm volume";
+var mnemonic = "service scene spot defy amateur much symptom dial blur almost decade actual";

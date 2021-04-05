@@ -1,1 +1,1 @@
-var mnemonic = "broccoli method remember claw bachelor jar burger episode alcohol token thrive intact";
+var mnemonic = "heart alcohol annual trial crush game swing sunset collect cricket celery nephew";

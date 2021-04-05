@@ -1,1 +1,1 @@
-var mnemonic = "plunge school reunion stumble furnace luggage shop next tone cliff force math";
+var mnemonic = "potato blue child tray surprise denial protect asset plunge fit run spin";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong shine boat excess grit affair disorder office pledge prefer nominee gas";
+var mnemonic = "solar ten ladder apple dust minute health magic morning penalty monitor saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "fun gesture fiscal gun rebuild warrior cave birth smoke physical lounge grain";
+var mnemonic = "next marble like skirt steel ivory piece inmate can sell quit welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "riot energy multiply circle draw matter spot install demand thank window pave";
+var mnemonic = "faint favorite visa stuff spell leopard picnic torch velvet horn genius labor";

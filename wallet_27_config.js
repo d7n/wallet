@@ -1,1 +1,1 @@
-var mnemonic = "pupil spawn clap design horse hammer tornado thunder logic share crane good";
+var mnemonic = "opera gorilla drive picture high clap river loan exotic inmate bridge index";

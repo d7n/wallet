@@ -1,1 +1,1 @@
-var mnemonic = "oil sad six fitness purpose govern cinnamon wide cost title nation alcohol";
+var mnemonic = "prison huge divorce primary drum erupt squirrel indoor stock trouble grief patrol";

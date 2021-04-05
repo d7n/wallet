@@ -1,1 +1,1 @@
-var mnemonic = "bonus jelly push fly agree between piano monster element rough bargain song";
+var mnemonic = "either wild clerk neither pluck project eye pigeon clip size heart finish";

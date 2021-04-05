@@ -1,1 +1,1 @@
-var mnemonic = "mass magnet salmon spare hero silver cream blame erosion online job learn";
+var mnemonic = "fox edge place during wire foot cousin index embark museum fury smoke";

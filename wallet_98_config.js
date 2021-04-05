@@ -1,1 +1,1 @@
-var mnemonic = "mind this rug park fatal object bunker picture banner flight mobile unable";
+var mnemonic = "october canyon episode country brick mobile bronze pen knee charge nice deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "torch coconut jaguar news sad interest endless unusual topple weapon pistol member";
+var mnemonic = "manage police lazy shoe angry exile hidden slice lizard island connect match";

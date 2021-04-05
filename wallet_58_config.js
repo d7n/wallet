@@ -1,1 +1,1 @@
-var mnemonic = "engine swing airport diary light latin bargain busy deal wild hub uphold";
+var mnemonic = "dice shine guitar elbow achieve tank bubble grocery twist curious apple above";

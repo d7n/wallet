@@ -1,1 +1,1 @@
-var mnemonic = "subject female fish menu assault clump change insect clean sauce jump trip";
+var mnemonic = "august festival defense kick city thrive wild doctor maple west tool tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive sadness glass reunion drill curtain shed juice require chaos inside certain";
+var mnemonic = "fetch edit vote room lazy cup limb capable shield relief speed beach";

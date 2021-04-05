@@ -1,1 +1,1 @@
-var mnemonic = "square index sorry idle mule cattle hawk kitten wire ignore erode degree";
+var mnemonic = "spray cupboard chronic boring keen pet rigid final gym novel code need";

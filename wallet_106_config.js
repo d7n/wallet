@@ -1,1 +1,1 @@
-var mnemonic = "ask cabbage area mammal enrich hat sugar item garlic lawn shaft oak";
+var mnemonic = "snow credit comic august donor blind hover broccoli whip icon nut sweet";

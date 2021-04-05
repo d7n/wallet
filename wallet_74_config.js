@@ -1,1 +1,1 @@
-var mnemonic = "sausage monster violin distance short stereo bless noodle game diamond bacon type";
+var mnemonic = "lounge scorpion moral summer wheel royal swear either escape eyebrow nasty ladder";

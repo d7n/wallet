@@ -1,1 +1,1 @@
-var mnemonic = "like lend rule pyramid expand powder glad zone clerk fragile earn flush";
+var mnemonic = "cost blossom upon input spatial royal glare meat moment possible exile loyal";
