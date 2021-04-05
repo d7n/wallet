@@ -1,1 +1,1 @@
-var mnemonic = "praise chaos lemon you diary earn museum surge drum face cliff artist";
+var mnemonic = "climb solve profit amount become curve honey lonely prison sunny ankle stand";

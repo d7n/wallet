@@ -1,1 +1,1 @@
-var mnemonic = "patrol cake hollow ski field light body unfold say settle soda blur";
+var mnemonic = "affair noble uniform access issue orient loud alter milk blood kangaroo purity";

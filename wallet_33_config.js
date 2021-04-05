@@ -1,1 +1,1 @@
-var mnemonic = "because arch local oyster laundry account three empower prize forum view file";
+var mnemonic = "peanut saddle jar host record liquid pause swift shift key illegal survey";

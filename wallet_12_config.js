@@ -1,1 +1,1 @@
-var mnemonic = "camp begin shock spike immense drip alien door purpose crunch jazz calm";
+var mnemonic = "stomach beauty bullet capital record ship submit zoo announce virtual gate coffee";

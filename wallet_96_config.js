@@ -1,1 +1,1 @@
-var mnemonic = "now pulse hidden animal mercy brush wreck buffalo describe script police narrow";
+var mnemonic = "denial universe skin flee birth tissue good blossom used gun sudden deny";

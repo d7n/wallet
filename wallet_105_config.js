@@ -1,1 +1,1 @@
-var mnemonic = "little trick crystal gap party alter hour present ride spirit useless body";
+var mnemonic = "emotion slice prosper oil monitor club infant wife shoulder ozone three hood";

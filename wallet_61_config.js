@@ -1,1 +1,1 @@
-var mnemonic = "reunion drill interest arrange tail once nominee any emerge tuition amazing genius";
+var mnemonic = "distance cry indicate error flush ignore swim peace width solve sketch mouse";

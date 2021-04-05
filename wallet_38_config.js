@@ -1,1 +1,1 @@
-var mnemonic = "arctic door remain quantum angle guitar humor brief frost curtain under range";
+var mnemonic = "subject scissors inflict globe wine donor print isolate choose boil remain infant";

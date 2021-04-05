@@ -1,1 +1,1 @@
-var mnemonic = "feature stumble please mixture company client farm answer remind violin furnace cruel";
+var mnemonic = "nation siren duty connect obtain kiwi clutch brave news announce bless endless";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle trade time rain detect stairs smart dolphin horse foot right quiz";
+var mnemonic = "alpha setup canoe accuse wish eyebrow flag alpha fossil property diamond smile";

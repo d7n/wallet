@@ -1,1 +1,1 @@
-var mnemonic = "surface observe creek olympic real weapon web grow auto buffalo device dignity";
+var mnemonic = "wise copy trophy wine improve royal lens mail penalty horror coast size";

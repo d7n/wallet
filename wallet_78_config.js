@@ -1,1 +1,1 @@
-var mnemonic = "input egg hello upon tribe fall cigar say uncover mail vanish sun";
+var mnemonic = "shift cry hawk zebra exit smooth execute furnace aim child uncle sketch";

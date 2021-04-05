@@ -1,1 +1,1 @@
-var mnemonic = "uncle blind narrow relief stereo voyage zoo label hunt earn denial enlist";
+var mnemonic = "joy rather leader pet page tree dynamic remove ivory again wife swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "six dose repair gift sphere burst flame village few amount surge barely";
+var mnemonic = "canyon cube sister diamond bullet odor bone maid dismiss surge vote edit";

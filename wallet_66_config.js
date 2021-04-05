@@ -1,1 +1,1 @@
-var mnemonic = "worth deputy deposit scan swap speak work reopen obtain hybrid announce promote";
+var mnemonic = "ostrich grit ancient table south caution hockey south auction lamp razor license";

@@ -1,1 +1,1 @@
-var mnemonic = "concert climb doll upset crawl coral old amount hospital tip purchase tissue";
+var mnemonic = "side raw guide desert salt return enable bridge high grab remain stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "float brisk olympic home naive artist harsh rare three dutch portion finger";
+var mnemonic = "sword bless grass tortoise border cannon slogan door limb write silent volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "room ladder legal occur garage thought miss refuse core dismiss glide envelope";
+var mnemonic = "hard life vital million play world tuition fun author roast hello produce";

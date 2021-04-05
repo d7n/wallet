@@ -1,1 +1,1 @@
-var mnemonic = "canal duck idle suit future hip gasp ketchup umbrella glad van yard";
+var mnemonic = "robot wing toe twin laugh crop fee hunt narrow minimum stick spider";

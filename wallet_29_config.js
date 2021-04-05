@@ -1,1 +1,1 @@
-var mnemonic = "toy school sport number analyst define roof snack damage refuse width arctic";
+var mnemonic = "diesel coin page banana soup already witness jazz craft parent razor alien";

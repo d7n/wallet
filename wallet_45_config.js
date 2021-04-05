@@ -1,1 +1,1 @@
-var mnemonic = "make setup reopen wrist shock daughter ancient decade bitter quiz truth faculty";
+var mnemonic = "victory nothing arrest try nut search scrub start blue wife slice fashion";

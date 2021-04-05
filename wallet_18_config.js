@@ -1,1 +1,1 @@
-var mnemonic = "avocado candy walk creek physical muscle foam between gaze boring member legal";
+var mnemonic = "century ribbon one priority local repeat tribe gather license ladder delay tuna";

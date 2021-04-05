@@ -1,1 +1,1 @@
-var mnemonic = "rather busy ladder crop east spider uphold column kitchen exact jaguar obvious";
+var mnemonic = "silly tornado deer antique hole mail era pause wrong disorder ordinary piano";

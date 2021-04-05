@@ -1,1 +1,1 @@
-var mnemonic = "shiver track expire island bargain disorder fortune cattle moon crucial merge jump";
+var mnemonic = "eight wing shallow baby duty urban amused stem thumb paper chuckle green";

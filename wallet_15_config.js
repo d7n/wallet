@@ -1,1 +1,1 @@
-var mnemonic = "immense merge goat hospital infant invite nuclear hint gauge say debris release";
+var mnemonic = "giant uncle genre noodle glove sugar nominee aerobic own usual lumber hidden";

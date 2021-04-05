@@ -1,1 +1,1 @@
-var mnemonic = "cruise keen clever hello pulse uncle worth apart gain brisk jar gym";
+var mnemonic = "invite admit muffin pulse royal outdoor empower wheat satisfy endless cushion verify";

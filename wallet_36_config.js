@@ -1,1 +1,1 @@
-var mnemonic = "struggle cycle rhythm harsh width student maze hedgehog citizen apart history ginger";
+var mnemonic = "earth saddle brisk paddle keep seminar core common action silent tail bird";

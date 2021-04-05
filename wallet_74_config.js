@@ -1,1 +1,1 @@
-var mnemonic = "eternal range dial under online mistake tomorrow dumb thunder survey together betray";
+var mnemonic = "matrix parent melody wine suggest pen flush toast always order concert rifle";

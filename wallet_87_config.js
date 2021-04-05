@@ -1,1 +1,1 @@
-var mnemonic = "ten anger dance horror fresh profit task measure three open better clog";
+var mnemonic = "before term birth distance staff tell fog never neutral seat audit hole";

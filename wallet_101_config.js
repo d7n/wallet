@@ -1,1 +1,1 @@
-var mnemonic = "nose news beyond gasp device yard tribe next awake argue rent roof";
+var mnemonic = "sword draw chef film eye clever time insane ozone home public toilet";

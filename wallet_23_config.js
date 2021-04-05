@@ -1,1 +1,1 @@
-var mnemonic = "sign proof athlete first install uniform humble subject rare extend grape text";
+var mnemonic = "follow arrange tissue match duty around ice drink copper stereo boat verb";

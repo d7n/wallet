@@ -1,1 +1,1 @@
-var mnemonic = "trigger buffalo body wedding clinic seed rose release trick seminar walnut globe";
+var mnemonic = "advance kiss zero cream minute creek budget course party corn term elbow";

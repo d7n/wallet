@@ -1,1 +1,1 @@
-var mnemonic = "myself woman spring pony demand wisdom neck frog update monster range midnight";
+var mnemonic = "skull chat proof gorilla bottom visit item increase story cycle asset before";

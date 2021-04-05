@@ -1,1 +1,1 @@
-var mnemonic = "glove invite capable sorry tag grace second anger jewel bike leader camp";
+var mnemonic = "make defense tribe want fade ill enlist fog evolve cabin alter denial";

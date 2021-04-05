@@ -1,1 +1,1 @@
-var mnemonic = "miracle health police fetch feel toe over faith left congress anger nose";
+var mnemonic = "sick leave muffin woman fluid copy else work pulse ball flip movie";

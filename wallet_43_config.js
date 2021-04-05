@@ -1,1 +1,1 @@
-var mnemonic = "that trust silent solid ecology brief exchange canoe kiss circle stomach gorilla";
+var mnemonic = "lady custom series skin hire exchange cannon trigger scrub chaos child husband";

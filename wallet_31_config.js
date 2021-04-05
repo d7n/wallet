@@ -1,1 +1,1 @@
-var mnemonic = "traffic finger enroll bar enroll wash attitude local opera any holiday album";
+var mnemonic = "forward seek total symbol index rescue liberty tissue clinic kitten because hazard";

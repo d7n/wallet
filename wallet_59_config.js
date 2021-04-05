@@ -1,1 +1,1 @@
-var mnemonic = "fall swear enjoy evidence deer vanish bring sponsor fatigue vessel live parent";
+var mnemonic = "wolf tooth dilemma boost oxygen once tenant paddle tell unveil cable scout";

@@ -1,1 +1,1 @@
-var mnemonic = "income space average liberty seven soft target faculty frequent tube parade grocery";
+var mnemonic = "tongue stool spike syrup used debate share useless life income speed gadget";

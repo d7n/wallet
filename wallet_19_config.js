@@ -1,1 +1,1 @@
-var mnemonic = "adult cricket egg tongue bus tragic fade soon reason motor surprise hunt";
+var mnemonic = "because matrix economy chef jaguar blossom slow affair dream venue illegal toddler";

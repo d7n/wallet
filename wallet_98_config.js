@@ -1,1 +1,1 @@
-var mnemonic = "lunar snow dwarf flee canyon reopen number this kid endorse south urge";
+var mnemonic = "grow dawn switch worry proud life fetch worry metal online govern solve";

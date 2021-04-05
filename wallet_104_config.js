@@ -1,1 +1,1 @@
-var mnemonic = "motor more dirt cargo history unlock dilemma observe above nasty speed health";
+var mnemonic = "duty prepare neck double address crowd woman soap eye undo stereo earth";

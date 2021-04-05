@@ -1,1 +1,1 @@
-var mnemonic = "text unusual ripple excuse garlic world inspire assault true educate open clarify";
+var mnemonic = "improve earth speak master damp fix maze buffalo lawsuit analyst clinic bring";

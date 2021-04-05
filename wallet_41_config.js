@@ -1,1 +1,1 @@
-var mnemonic = "old claw pistol right siege tower mandate move program umbrella cabbage mutual";
+var mnemonic = "goose feature web time web team vapor hood wait crime cause supply";

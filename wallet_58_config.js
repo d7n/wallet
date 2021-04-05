@@ -1,1 +1,1 @@
-var mnemonic = "slight cycle light laugh steel across soda nice snap nice coyote egg";
+var mnemonic = "worry caught coconut lock cattle sunny arm appear glow giggle uncle away";

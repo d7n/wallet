@@ -1,1 +1,1 @@
-var mnemonic = "enlist rent basket maze blame vicious oak rookie dilemma pear siren end";
+var mnemonic = "elder major verify position face crack waste depart defense fresh clown absorb";

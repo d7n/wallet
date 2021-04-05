@@ -1,1 +1,1 @@
-var mnemonic = "noise portion echo vivid lumber inside road chuckle volume develop husband please";
+var mnemonic = "range pepper donor hello pistol neutral alien reject exact neglect economy october";

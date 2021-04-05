@@ -1,1 +1,1 @@
-var mnemonic = "index angle also donate mercy observe duck choose sheriff upgrade shoe powder";
+var mnemonic = "stove cake viable plate hamster federal symbol pepper model tired option grid";

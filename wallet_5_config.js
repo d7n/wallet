@@ -1,1 +1,1 @@
-var mnemonic = "ignore dignity salad derive bargain draw trial egg wolf hand code shed";
+var mnemonic = "olive minor hobby beauty walnut voyage limit retreat paper sure exist option";

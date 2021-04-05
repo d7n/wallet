@@ -1,1 +1,1 @@
-var mnemonic = "enhance outdoor ship forest live shine steak execute use ankle require wash";
+var mnemonic = "book audit cruel steak advice more crop degree outdoor worry mesh picture";

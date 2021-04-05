@@ -1,1 +1,1 @@
-var mnemonic = "elite matter among happy solution enrich north tool vivid drop label ticket";
+var mnemonic = "impact century label true skill wash lock clap century fan blur outdoor";

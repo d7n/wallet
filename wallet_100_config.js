@@ -1,1 +1,1 @@
-var mnemonic = "dish palace south aisle shed visual ankle host salon market author puzzle";
+var mnemonic = "arrange tag robust medal field elegant better order regular walnut leg upon";

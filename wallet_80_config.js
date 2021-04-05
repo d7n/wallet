@@ -1,1 +1,1 @@
-var mnemonic = "dove exotic embark draw iron document brother three clutch pledge main cliff";
+var mnemonic = "icon emerge employ prefer begin sorry immune unaware captain sort patient witness";

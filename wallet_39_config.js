@@ -1,1 +1,1 @@
-var mnemonic = "gather finger affair priority also yard regular damp marble keep purpose idea";
+var mnemonic = "fit hand army vessel derive million walk jelly tourist pretty ancient limb";

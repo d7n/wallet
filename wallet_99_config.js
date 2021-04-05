@@ -1,1 +1,1 @@
-var mnemonic = "toddler fetch exact wealth egg real man shy train daring globe photo";
+var mnemonic = "moon bullet prepare palm inch sea ancient shrimp sustain scissors outdoor broccoli";

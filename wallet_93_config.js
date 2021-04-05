@@ -1,1 +1,1 @@
-var mnemonic = "parrot torch decline tortoise minimum fee gas water busy credit sponsor bright";
+var mnemonic = "hello tower blue tiger warm artist hat squeeze volcano solar disorder purity";

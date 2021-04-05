@@ -1,1 +1,1 @@
-var mnemonic = "boy fortune squirrel mansion coast panel auto pumpkin artist road female need";
+var mnemonic = "search limit civil drive base recycle youth car sound shiver torch napkin";

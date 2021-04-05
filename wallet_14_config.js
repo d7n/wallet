@@ -1,1 +1,1 @@
-var mnemonic = "they angle ivory unit vendor space betray seat morning rice purse session";
+var mnemonic = "change table journey flavor describe cannon exile review where wrestle exercise owner";

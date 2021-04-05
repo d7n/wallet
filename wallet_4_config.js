@@ -1,1 +1,1 @@
-var mnemonic = "supply chief comic ice swallow armor found anger spoon donor foot lens";
+var mnemonic = "lemon divorce horn decrease battle melt shiver neutral present siren oil final";

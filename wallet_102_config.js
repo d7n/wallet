@@ -1,1 +1,1 @@
-var mnemonic = "mouse other detect diamond paddle stage kit believe blind dwarf outer step";
+var mnemonic = "dish dinosaur anxiety doll sign gather coin vague avoid wire fat client";

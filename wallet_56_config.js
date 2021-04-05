@@ -1,1 +1,1 @@
-var mnemonic = "view tumble hurt soul father image onion rely uniform wisdom illegal moon";
+var mnemonic = "admit noodle energy cabbage shift clutch girl slide million fuel laugh bracket";

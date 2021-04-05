@@ -1,1 +1,1 @@
-var mnemonic = "lyrics sweet abstract panel auction concert velvet minor stand dad roof spare";
+var mnemonic = "common oblige select nut ginger pen bench message hair mouse name until";

@@ -1,1 +1,1 @@
-var mnemonic = "february transfer soon exchange sure verb excite tenant toilet trust faith jazz";
+var mnemonic = "fun portion equal now left member fix rebuild pupil say easy never";

@@ -1,1 +1,1 @@
-var mnemonic = "way soldier please reopen travel sport lecture maximum since sample paddle among";
+var mnemonic = "scrub swim rebuild leave else ignore tone burden base depart way jaguar";

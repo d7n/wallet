@@ -1,1 +1,1 @@
-var mnemonic = "mail senior provide nut select dilemma domain vendor radar fringe heavy reopen";
+var mnemonic = "wing quiz quarter senior impulse tongue lab noble science iron upset buzz";

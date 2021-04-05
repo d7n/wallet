@@ -1,1 +1,1 @@
-var mnemonic = "boil citizen rely valid brief cliff genius city shoulder ability domain spot";
+var mnemonic = "butter exhibit swim lonely stuff suffer candy indoor clock worry girl win";

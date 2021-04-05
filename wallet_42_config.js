@@ -1,1 +1,1 @@
-var mnemonic = "ignore method thing inner height cereal sleep alpha sentence print bacon treat";
+var mnemonic = "element lazy repeat diesel soap tape survey vast almost also delay lawn";

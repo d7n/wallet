@@ -1,1 +1,1 @@
-var mnemonic = "rocket mass senior unable poet venue garbage magnet food purpose amateur gaze";
+var mnemonic = "nominee olympic claim two identify roast call ill property spoon vessel solid";

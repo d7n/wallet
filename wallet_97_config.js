@@ -1,1 +1,1 @@
-var mnemonic = "rally olive waste vacant bubble act ozone absurd agree scan modify prize";
+var mnemonic = "hospital hole giggle congress three dynamic answer entry chef typical ill glad";

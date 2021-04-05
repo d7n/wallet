@@ -1,1 +1,1 @@
-var mnemonic = "season escape voice bring flower intact rate account build dirt taxi goddess";
+var mnemonic = "razor close daughter shrug jacket relax nation make boil inflict report ancient";

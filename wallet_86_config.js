@@ -1,1 +1,1 @@
-var mnemonic = "illness despair april come basic recipe protect jelly thrive genre kiwi reason";
+var mnemonic = "degree adjust weapon ripple reflect cycle catalog pride topple gown trust cricket";

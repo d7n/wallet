@@ -1,1 +1,1 @@
-var mnemonic = "ethics pudding elevator ghost employ banner modify senior salute genre involve video";
+var mnemonic = "proud upgrade prize torch regular display exclude faint cancel secret hedgehog dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "gas animal awkward aim trick move spray vintage escape upset radio crumble";
+var mnemonic = "expose fox join cement crack release hat dawn cake view fox buddy";

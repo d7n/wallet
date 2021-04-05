@@ -1,1 +1,1 @@
-var mnemonic = "thunder grass shaft mix sibling world acoustic quantum guard ramp match rude";
+var mnemonic = "pool business nature job elephant airport suffer now space bus program omit";

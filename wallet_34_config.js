@@ -1,1 +1,1 @@
-var mnemonic = "spatial young waste year include earth great raccoon minor devote flag between";
+var mnemonic = "armed domain absorb later peasant bird exercise appear normal rhythm axis valve";

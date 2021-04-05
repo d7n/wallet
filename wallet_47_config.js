@@ -1,1 +1,1 @@
-var mnemonic = "test help merge vintage feature unveil term blue dynamic solar jeans name";
+var mnemonic = "almost repair million symptom hub nuclear subway glass notable bunker blast rabbit";

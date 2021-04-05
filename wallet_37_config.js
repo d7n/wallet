@@ -1,1 +1,1 @@
-var mnemonic = "cage art purpose disease sadness salon toast wash blame faith truly erode";
+var mnemonic = "choice license ankle race web crunch argue whisper roof belt surge morning";

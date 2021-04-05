@@ -1,1 +1,1 @@
-var mnemonic = "try broccoli famous twenty hood dust turtle huge input chaos fitness tool";
+var mnemonic = "motion jeans blur joke client tortoise knife stamp carpet similar about casual";

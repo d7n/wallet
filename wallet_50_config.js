@@ -1,1 +1,1 @@
-var mnemonic = "taxi pattern wink whisper unfold pencil divide echo tennis merit doctor market";
+var mnemonic = "language bridge plug topple slim pride outer gravity meadow hire blush dune";

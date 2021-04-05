@@ -1,1 +1,1 @@
-var mnemonic = "holiday task conduct group neither erase matrix once romance opera exchange egg";
+var mnemonic = "electric arena adjust brand gospel sea suggest marble rather upset lounge because";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy wall common venue assault remain affair update involve jelly panda old";
+var mnemonic = "nest ranch defense goat chuckle ask umbrella quick general doll rhythm oil";

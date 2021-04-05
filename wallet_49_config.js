@@ -1,1 +1,1 @@
-var mnemonic = "future envelope start velvet practice turn diet quote song age shoe pig";
+var mnemonic = "hundred exotic category gym phone river income surface vast upgrade donor wool";

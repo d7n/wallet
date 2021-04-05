@@ -1,1 +1,1 @@
-var mnemonic = "attend impact next trigger slot salt output tired equip swift another elite";
+var mnemonic = "useless knock onion layer essay traffic glare surface defy crack zebra flip";

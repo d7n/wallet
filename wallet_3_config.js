@@ -1,1 +1,1 @@
-var mnemonic = "intact earn acquire velvet ask pottery fitness torch alert upset peasant mutual";
+var mnemonic = "siren alley dish dentist ecology scissors guess minimum voyage pistol have hotel";

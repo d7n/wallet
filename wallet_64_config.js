@@ -1,1 +1,1 @@
-var mnemonic = "ability reject over acid laundry avoid section fruit mixture mystery palace trust";
+var mnemonic = "dose dentist marble noodle wrong grant minute find two possible together good";

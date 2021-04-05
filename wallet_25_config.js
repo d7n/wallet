@@ -1,1 +1,1 @@
-var mnemonic = "embrace dirt search fog stairs blue zone pepper toward child option essay";
+var mnemonic = "loud stool gloom solar crash unlock fall hungry begin enough banner sniff";

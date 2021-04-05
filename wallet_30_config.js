@@ -1,1 +1,1 @@
-var mnemonic = "lunar city scrub biology there income unfold mammal tooth fold marine one";
+var mnemonic = "message tonight brief fetch gadget glove riot index want yard half brain";

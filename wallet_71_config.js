@@ -1,1 +1,1 @@
-var mnemonic = "term doll source okay slender panther picnic helmet exhaust obscure west depart";
+var mnemonic = "essay dish purity wave tilt glove ivory hawk penalty armed ten admit";
