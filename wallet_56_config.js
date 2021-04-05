@@ -1,1 +1,1 @@
-var mnemonic = "usage aerobic way dizzy example sniff path street grit tobacco chalk journey";
+var mnemonic = "bridge critic actress purchase title bus jaguar race improve muscle way club";

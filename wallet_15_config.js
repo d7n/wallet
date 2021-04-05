@@ -1,1 +1,1 @@
-var mnemonic = "defy slab situate improve field cheap pledge addict mutual cradle donate chronic";
+var mnemonic = "tired coyote actor plate surprise increase fiction top network place blood arctic";

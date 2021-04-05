@@ -1,1 +1,1 @@
-var mnemonic = "arrest outer slab decade square mistake minute plastic bottom erode current drip";
+var mnemonic = "robot all sausage chat emerge oxygen fox flame panther fine chef bean";

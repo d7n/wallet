@@ -1,1 +1,1 @@
-var mnemonic = "bachelor cake session ripple broken medal myself gravity scan survey eight hub";
+var mnemonic = "learn swear column hole chicken jealous uncover sick mansion camera space melody";

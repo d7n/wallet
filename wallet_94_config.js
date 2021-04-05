@@ -1,1 +1,1 @@
-var mnemonic = "review abandon mutual height goddess horse sunny meat million angry trend multiply";
+var mnemonic = "deny sight order soldier stadium inch grow oval stay syrup sign route";

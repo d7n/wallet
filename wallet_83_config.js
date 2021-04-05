@@ -1,1 +1,1 @@
-var mnemonic = "talk puppy awake episode before thing detect skull cute black fury kiwi";
+var mnemonic = "roast mistake issue join alert dolphin mirror orient relief believe draft high";

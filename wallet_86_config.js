@@ -1,1 +1,1 @@
-var mnemonic = "symbol snake simple museum resemble attend disorder elite open fix mosquito right";
+var mnemonic = "uncover consider jelly upset century trouble federal same hockey loyal deny asset";

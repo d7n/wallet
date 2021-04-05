@@ -1,1 +1,1 @@
-var mnemonic = "aisle make leg party document outdoor mobile crawl reject market kiwi garment";
+var mnemonic = "fever foot limit bubble broom donor cement coral heavy keen scorpion split";

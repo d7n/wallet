@@ -1,1 +1,1 @@
-var mnemonic = "best pretty scorpion sample yard worth slim harvest bullet eternal boy census";
+var mnemonic = "arrow tenant where fix pond chat nominee world bulb sell village cry";

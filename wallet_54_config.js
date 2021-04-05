@@ -1,1 +1,1 @@
-var mnemonic = "cable surround pig virus heart rhythm hello curtain file mixture reward miss";
+var mnemonic = "inject explain wrong horn immense robot loyal mechanic smile tent second funny";

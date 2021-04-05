@@ -1,1 +1,1 @@
-var mnemonic = "pole reject club glide vendor hint crash require spread battle chimney wet";
+var mnemonic = "ugly shrug wash claw immune lend clown tool left ahead summer pepper";

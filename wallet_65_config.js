@@ -1,1 +1,1 @@
-var mnemonic = "wisdom increase type actual nut drip label trim upgrade later doll rally";
+var mnemonic = "orient enemy cliff found cricket random artist horror angry couch trigger rotate";

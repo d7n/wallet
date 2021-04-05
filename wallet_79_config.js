@@ -1,1 +1,1 @@
-var mnemonic = "torch ladder deputy spot radio job result finger cube ordinary canal bullet";
+var mnemonic = "wait morning ocean neutral burden ability royal public state okay verb neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce purpose stick choose color draw warfare rare other people moon effort";
+var mnemonic = "oblige extend off dinosaur remove silent black census divorce punch vanish banner";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure three eye embrace happy color web mansion response race code oxygen";
+var mnemonic = "service cause narrow salute hire mobile rural tissue tuition worry lumber gun";

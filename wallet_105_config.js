@@ -1,1 +1,1 @@
-var mnemonic = "loop attack remember depth weekend switch easy acquire farm tilt rather wedding";
+var mnemonic = "dad rookie depend verify traffic fix intact ring toilet pattern mushroom crane";

@@ -1,1 +1,1 @@
-var mnemonic = "festival agree romance twenty wool inject humble grunt dove always summer shy";
+var mnemonic = "ignore plunge erupt boat kingdom interest dinner web welcome end multiply share";

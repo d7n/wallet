@@ -1,1 +1,1 @@
-var mnemonic = "urban bulb verify sea pulp drip mansion property receive receive various allow";
+var mnemonic = "blind toast very finish all time drastic board notable glare cattle blame";

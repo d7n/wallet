@@ -1,1 +1,1 @@
-var mnemonic = "make light paper wood parade benefit excuse dose celery pear lawsuit maximum";
+var mnemonic = "ranch diet field brown nut orient they version fever share enact where";

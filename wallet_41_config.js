@@ -1,1 +1,1 @@
-var mnemonic = "remain almost fatigue trash rebel couch end marble visual scissors breeze snake";
+var mnemonic = "actual undo cheese belt modify jewel judge pelican scrap roof thunder utility";

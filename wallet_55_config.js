@@ -1,1 +1,1 @@
-var mnemonic = "muffin polar crack common spoon tiny sauce clinic duck father point situate";
+var mnemonic = "vault canvas baby inner chapter undo poet rule razor cannon retire tank";

@@ -1,1 +1,1 @@
-var mnemonic = "spend light between rate able liberty rib uphold satisfy hedgehog crisp farm";
+var mnemonic = "hair collect fiction future man forest you update wall dilemma blade invite";

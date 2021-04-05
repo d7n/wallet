@@ -1,1 +1,1 @@
-var mnemonic = "scrub antique ride roast hen fuel reduce law toe sunset guess inquiry";
+var mnemonic = "siege hour call analyst cloth milk convince mule before fiction nut anger";

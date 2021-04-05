@@ -1,1 +1,1 @@
-var mnemonic = "aspect frozen air renew number naive category twin energy cliff soup embrace";
+var mnemonic = "stamp gadget worth liar office else govern magic price twenty toward exotic";

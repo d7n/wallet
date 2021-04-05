@@ -1,1 +1,1 @@
-var mnemonic = "nothing beach error vague canal entry trend race burger inside fall coin";
+var mnemonic = "certain snack captain vast mean goddess exotic general robust era winner appear";

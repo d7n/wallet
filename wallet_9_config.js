@@ -1,1 +1,1 @@
-var mnemonic = "maximum merge rival capable sketch link amazing capable around brick coffee trap";
+var mnemonic = "doll enlist crew diagram bone frame whisper cost cook nurse cattle inject";

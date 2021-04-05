@@ -1,1 +1,1 @@
-var mnemonic = "sight embody frost blood coin donkey quality amount way report reflect sick";
+var mnemonic = "black sadness nominee follow muffin camera lunch elegant camp patch minor subject";

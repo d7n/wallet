@@ -1,1 +1,1 @@
-var mnemonic = "plunge escape situate young garage forward draft hint mask stone dune typical";
+var mnemonic = "destroy keen athlete match vocal price opera news retire party resource little";

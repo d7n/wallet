@@ -1,1 +1,1 @@
-var mnemonic = "north spoon awkward hobby final faith exit tobacco hospital silver chunk mango";
+var mnemonic = "gauge humor label box price garden obtain scare pigeon beauty royal tiny";

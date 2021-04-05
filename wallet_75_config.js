@@ -1,1 +1,1 @@
-var mnemonic = "edge tattoo glide resemble abandon under club nurse subject chunk sponsor shop";
+var mnemonic = "faculty anger flush reflect bottom harsh rescue obvious together endorse noble scheme";

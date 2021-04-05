@@ -1,1 +1,1 @@
-var mnemonic = "mimic auction chair make logic sorry always curve chicken recycle toy fever";
+var mnemonic = "select thing ethics thought broom donate harvest wide purse version grape broken";

@@ -1,1 +1,1 @@
-var mnemonic = "flock combine valve snow panther eternal hold panic favorite unveil tip decrease";
+var mnemonic = "run observe cross oyster capable copy install bamboo trap cruise lawn bronze";

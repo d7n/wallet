@@ -1,1 +1,1 @@
-var mnemonic = "gun neither diet adult lobster shield law brick coach great wool brush";
+var mnemonic = "vanish disorder diary badge casual faint reward melt relief rich onion assume";

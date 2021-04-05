@@ -1,1 +1,1 @@
-var mnemonic = "carry vital length vault save stove joke planet bless detect laugh quiz";
+var mnemonic = "spell spray wise elevator antique afford fall tuna royal congress cost culture";

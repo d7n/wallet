@@ -1,1 +1,1 @@
-var mnemonic = "able adjust suit able devote carry dinner point leisure cattle monster merge";
+var mnemonic = "inmate warm pencil gallery draw vintage other shadow rival unlock quick sail";

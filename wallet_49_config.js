@@ -1,1 +1,1 @@
-var mnemonic = "volume place vague whip sting embody very army illegal ball surge win";
+var mnemonic = "subject slot candy tooth heavy laptop hawk word pencil random minor maid";

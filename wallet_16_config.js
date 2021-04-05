@@ -1,1 +1,1 @@
-var mnemonic = "sweet loyal lottery sock major depart skin spot circle claw flip gift";
+var mnemonic = "intact impose edge defy clinic end finish lazy chunk bless cheap click";

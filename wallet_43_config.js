@@ -1,1 +1,1 @@
-var mnemonic = "great sure six nothing steak lab bar dismiss bachelor candy dwarf swear";
+var mnemonic = "illegal crisp degree humor inherit access river lava field girl rookie crater";

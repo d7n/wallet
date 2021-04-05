@@ -1,1 +1,1 @@
-var mnemonic = "hip pottery dose medal puzzle illegal skull original where wheel drum pass";
+var mnemonic = "stadium toe abstract pupil dignity traffic leg survey siege thought snow net";

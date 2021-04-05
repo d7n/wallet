@@ -1,1 +1,1 @@
-var mnemonic = "million reflect surge ethics embrace include cover lazy satoshi story produce flag";
+var mnemonic = "math blind slight disease oven quarter congress spirit despair sample bridge cave";

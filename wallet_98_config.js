@@ -1,1 +1,1 @@
-var mnemonic = "catalog tunnel final sing absurd patrol focus slogan cage movie stuff when";
+var mnemonic = "age movie antenna unlock trial sell lens scheme diet ready raven thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "runway magic anchor fantasy execute high menu ticket pledge delay below tape";
+var mnemonic = "elephant damage zebra replace quote illegal inhale finger refuse predict clip puppy";

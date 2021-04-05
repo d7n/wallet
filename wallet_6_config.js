@@ -1,1 +1,1 @@
-var mnemonic = "loud prison agent lava keen wrong very express alley nominee hedgehog have";
+var mnemonic = "mule marriage rival swift panther another current fragile vivid abstract health risk";

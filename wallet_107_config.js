@@ -1,1 +1,1 @@
-var mnemonic = "bounce skin torch dawn fee opinion tooth estate satoshi virus lounge close";
+var mnemonic = "profit yellow armed ivory place arrest suggest blast car toilet tongue index";

@@ -1,1 +1,1 @@
-var mnemonic = "flash subway badge cup client zoo glimpse tube people render faculty butter";
+var mnemonic = "dignity box quote ozone venture kitchen rifle solid year leaf attitude taste";

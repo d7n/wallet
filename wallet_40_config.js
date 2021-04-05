@@ -1,1 +1,1 @@
-var mnemonic = "ten black silver hello glimpse amused range walk clump bonus truly link";
+var mnemonic = "report desk sugar zebra dream fly arm marriage glue century gesture word";

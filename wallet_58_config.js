@@ -1,1 +1,1 @@
-var mnemonic = "genre dash private danger skate gesture visual rare blade science seek hole";
+var mnemonic = "pilot announce year clever network produce aspect top arrest volume remain pluck";

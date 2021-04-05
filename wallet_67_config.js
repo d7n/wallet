@@ -1,1 +1,1 @@
-var mnemonic = "bless harbor armed lock burst daring vocal fly pulse harbor volcano tape";
+var mnemonic = "toddler mean danger inherit island joy tongue tourist autumn skate imitate fall";

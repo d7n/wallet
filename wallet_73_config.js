@@ -1,1 +1,1 @@
-var mnemonic = "real alarm tribe access quality ankle bunker stem element spray federal success";
+var mnemonic = "tip half oblige bus alpha shoulder call kangaroo monitor silly erase behind";

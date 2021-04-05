@@ -1,1 +1,1 @@
-var mnemonic = "total can access slam regret control ugly smile wagon mouse maximum fun";
+var mnemonic = "brush afraid bubble toast aerobic express social hire flush midnight host laundry";

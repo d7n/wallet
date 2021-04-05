@@ -1,1 +1,1 @@
-var mnemonic = "reveal expect trim grocery detect pottery tattoo fringe multiply afford maximum gun";
+var mnemonic = "spoon silly return cave orbit cloth where youth any awful answer pear";

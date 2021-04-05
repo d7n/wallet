@@ -1,1 +1,1 @@
-var mnemonic = "response cancel fluid embody parent fame come review deal sound code normal";
+var mnemonic = "accident typical nation taxi false inject scene acquire soap abandon unfold limb";

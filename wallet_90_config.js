@@ -1,1 +1,1 @@
-var mnemonic = "seed soccer thing special theory another achieve enable fire vacant penalty owner";
+var mnemonic = "issue pave adjust inject wild double game finish census magnet kiwi digital";

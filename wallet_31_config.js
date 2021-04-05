@@ -1,1 +1,1 @@
-var mnemonic = "fiber artefact board lazy defy puppy creek plate lesson smoke disorder flavor";
+var mnemonic = "blame fold pact recycle rapid omit dizzy donkey sand next bomb civil";

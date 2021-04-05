@@ -1,1 +1,1 @@
-var mnemonic = "tree essence salt sentence car planet broccoli rapid portion foil symptom accident";
+var mnemonic = "there try treat ahead husband theme print power guitar slide release arrive";

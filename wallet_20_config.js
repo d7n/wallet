@@ -1,1 +1,1 @@
-var mnemonic = "alpha sauce coil matter admit random cause slim vault cruel embark vote";
+var mnemonic = "guess ladder clump frown enact rather milk maid next flock humor search";

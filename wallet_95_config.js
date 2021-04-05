@@ -1,1 +1,1 @@
-var mnemonic = "very valve gospel horse denial change snake matter casino virtual buzz brass";
+var mnemonic = "lend innocent nice behind lizard goddess adjust keep stay paper finish doll";

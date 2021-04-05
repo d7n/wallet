@@ -1,1 +1,1 @@
-var mnemonic = "deal leopard rent chaos door palm room keep fragile bargain admit violin";
+var mnemonic = "edit dinosaur festival engine impose earth unique nose clap dice east fade";

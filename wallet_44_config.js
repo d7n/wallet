@@ -1,1 +1,1 @@
-var mnemonic = "avoid share angle equal recall differ save skin people hunt sing exist";
+var mnemonic = "blast list arrive rose transfer truly prosper swift music lamp list shove";

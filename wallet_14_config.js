@@ -1,1 +1,1 @@
-var mnemonic = "finger behind recipe chronic story jewel letter hole anchor admit retreat scale";
+var mnemonic = "pulp connect chimney cushion mask utility old swim apology awake empower upper";

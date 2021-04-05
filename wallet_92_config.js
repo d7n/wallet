@@ -1,1 +1,1 @@
-var mnemonic = "often throw pole wire fitness foster certain sister label long afford dash";
+var mnemonic = "release champion excite again always someone session repeat dignity water boring sentence";

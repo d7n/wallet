@@ -1,1 +1,1 @@
-var mnemonic = "wide tone clog inject action tank afraid exhibit disease steel auction never";
+var mnemonic = "habit unaware wrong game route coral maze reflect deny hazard resource donate";

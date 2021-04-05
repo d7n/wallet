@@ -1,1 +1,1 @@
-var mnemonic = "uncover path good clip butter ocean believe skin inside diamond thumb deputy";
+var mnemonic = "drive virus trade metal fury swap emerge lake point cabbage abstract hello";

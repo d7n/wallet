@@ -1,1 +1,1 @@
-var mnemonic = "letter bunker west usage disease gaze unlock risk sugar uphold impose achieve";
+var mnemonic = "pole write uncover smile uniform thing express park coral meadow village wing";

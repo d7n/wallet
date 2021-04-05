@@ -1,1 +1,1 @@
-var mnemonic = "awesome frown ship jungle unhappy add series orphan smoke civil increase garment";
+var mnemonic = "ivory emerge whale admit immense boil naive opinion cotton earth mobile claim";

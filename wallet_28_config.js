@@ -1,1 +1,1 @@
-var mnemonic = "picnic attract glove hockey sound captain suffer real rival media slam photo";
+var mnemonic = "urge attend world twin rookie pitch there edit rule success slow color";

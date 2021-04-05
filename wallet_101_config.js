@@ -1,1 +1,1 @@
-var mnemonic = "monkey card rich radar head desk click night sell monitor tuition labor";
+var mnemonic = "domain punch flavor rescue vocal hundred obtain cupboard outer opinion author strike";

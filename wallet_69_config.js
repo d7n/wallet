@@ -1,1 +1,1 @@
-var mnemonic = "unique short machine initial maze lobster curious jealous slender immense caught balance";
+var mnemonic = "warrior suspect join rebel earth type vicious drill cousin chat save flame";

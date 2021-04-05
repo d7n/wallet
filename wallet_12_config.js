@@ -1,1 +1,1 @@
-var mnemonic = "vibrant island insane game dolphin hub melt daughter food brief twist tired";
+var mnemonic = "bring then myth small domain client head romance churn ball initial raw";

@@ -1,1 +1,1 @@
-var mnemonic = "decade suit core skull alien corn scatter vibrant dress use rice edge";
+var mnemonic = "model detect garlic cruise half burst involve father column human cute hat";

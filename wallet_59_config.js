@@ -1,1 +1,1 @@
-var mnemonic = "tell sign wrap transfer eager seed slender dutch valid moment moral rare";
+var mnemonic = "dilemma claw vacuum guard oven defy cross grape install alter enough until";

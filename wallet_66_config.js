@@ -1,1 +1,1 @@
-var mnemonic = "harsh age opera actor black evoke video author supreme front jacket crystal";
+var mnemonic = "metal picnic train void pulse replace country inch sun whale battle ladder";

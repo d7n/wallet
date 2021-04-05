@@ -1,1 +1,1 @@
-var mnemonic = "town fever security solid mind moment paper manage work draw pulp broccoli";
+var mnemonic = "attract chalk social alcohol dice spell library extra occur open length affair";

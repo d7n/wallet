@@ -1,1 +1,1 @@
-var mnemonic = "upset festival rule proud mixed light wink step depart dentist better bike";
+var mnemonic = "laptop thank grab ball liar country vault private miracle police glad range";

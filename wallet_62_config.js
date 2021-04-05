@@ -1,1 +1,1 @@
-var mnemonic = "toward master rent boat melody soul clerk rural neutral educate much frozen";
+var mnemonic = "panic crane edge spy void federal glove only various select stay sibling";

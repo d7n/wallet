@@ -1,1 +1,1 @@
-var mnemonic = "hard phone empty lucky anxiety latin where win mechanic heart alone order";
+var mnemonic = "coral tuna father van law kingdom weird remind diet pool multiply keep";

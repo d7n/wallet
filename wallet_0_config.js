@@ -1,1 +1,1 @@
-var mnemonic = "record laugh allow debate bounce loyal dizzy require harbor vanish pen elephant";
+var mnemonic = "broom spider album puppy number weekend surprise flee spread always hire panther";

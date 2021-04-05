@@ -1,1 +1,1 @@
-var mnemonic = "clap raven cave garbage letter truck flat snack valve shaft donate renew";
+var mnemonic = "slice where chef hope phone seek mail denial gossip crouch split enact";

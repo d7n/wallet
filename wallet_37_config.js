@@ -1,1 +1,1 @@
-var mnemonic = "enroll knee income pupil salt fog pen setup club stuff note cube";
+var mnemonic = "dawn chicken loop come simple use weasel job island about avocado damp";

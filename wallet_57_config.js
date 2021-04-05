@@ -1,1 +1,1 @@
-var mnemonic = "drill toddler employ nut matter page brain such east coyote cheese ugly";
+var mnemonic = "scorpion ignore warfare hello south ivory open steel effort thunder night fantasy";

@@ -1,1 +1,1 @@
-var mnemonic = "involve defense load month police acoustic clinic easy debate giggle cube wear";
+var mnemonic = "puppy such visa know spy quantum hockey actress legend actual boring hobby";

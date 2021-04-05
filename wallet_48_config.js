@@ -1,1 +1,1 @@
-var mnemonic = "robot basic execute subject power goose stem rice tilt park pull stay";
+var mnemonic = "link property atom tunnel major double arrange snake drive sustain shell cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "sword source lyrics robust gauge quit clerk able caution seminar nest small";
+var mnemonic = "fault parrot huge object first mimic intact comic income galaxy someone favorite";

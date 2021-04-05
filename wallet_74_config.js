@@ -1,1 +1,1 @@
-var mnemonic = "knife sting sentence moment scan rare escape panther busy icon photo slow";
+var mnemonic = "iron tell what zone noble fever final live peace pencil list alley";

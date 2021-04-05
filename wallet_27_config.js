@@ -1,1 +1,1 @@
-var mnemonic = "goddess define client hollow pyramid box result six gesture giggle diamond typical";
+var mnemonic = "frequent actress immune prize fluid under useful garage together come cave indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "skill egg dress head cement like absurd scheme ability valid sphere prevent";
+var mnemonic = "ramp lesson leaf pear degree razor weasel moral atom tobacco agent soap";

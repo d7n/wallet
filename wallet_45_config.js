@@ -1,1 +1,1 @@
-var mnemonic = "sentence settle recall mother middle skill wheat mixture just plastic age load";
+var mnemonic = "tank damage hurdle any wire quote gospel galaxy girl will tell lake";

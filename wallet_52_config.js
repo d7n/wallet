@@ -1,1 +1,1 @@
-var mnemonic = "tube recipe rapid garment refuse hold they ozone tide possible youth broken";
+var mnemonic = "crouch salt spoil nasty wire company eyebrow report resource swallow tobacco sausage";

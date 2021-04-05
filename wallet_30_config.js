@@ -1,1 +1,1 @@
-var mnemonic = "arm destroy gold tiny welcome make live muffin deer soda scale army";
+var mnemonic = "cash tank reward equip trip budget penalty blade name denial ripple grief";

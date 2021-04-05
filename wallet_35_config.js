@@ -1,1 +1,1 @@
-var mnemonic = "wisdom goddess mechanic board cancel measure planet car night cause assist loop";
+var mnemonic = "grocery robust era option genre diesel average fury spy jar oval pulse";
