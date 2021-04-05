@@ -1,1 +1,1 @@
-var mnemonic = "embrace sad oven bracket thrive cigar second gap deputy garage pretty any";
+var mnemonic = "viable prevent end good pink educate spare multiply outside like what beef";

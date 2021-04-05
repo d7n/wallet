@@ -1,1 +1,1 @@
-var mnemonic = "uniform patient steel increase wide strategy senior damp evidence surge cliff buddy";
+var mnemonic = "race wheel race august baby divorce stand hope gorilla tissue more ordinary";

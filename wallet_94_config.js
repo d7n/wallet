@@ -1,1 +1,1 @@
-var mnemonic = "spin crisp mom orient shadow choose broom rain renew during rally virtual";
+var mnemonic = "concert spike autumn intact job dolphin length decade comic relax junk faculty";

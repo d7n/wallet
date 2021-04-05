@@ -1,1 +1,1 @@
-var mnemonic = "source pilot frog calm stay family march ball bind slight raven index";
+var mnemonic = "moment year vocal puzzle hair long simple cheese chaos series card depth";

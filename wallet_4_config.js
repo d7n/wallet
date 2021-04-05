@@ -1,1 +1,1 @@
-var mnemonic = "record course erupt emerge fatigue rug once penalty human pioneer wine total";
+var mnemonic = "keep current item net rack develop moment ahead divert reunion aspect build";

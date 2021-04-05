@@ -1,1 +1,1 @@
-var mnemonic = "scorpion notable steak ribbon april then power first like stick loop lady";
+var mnemonic = "bean diagram table gadget stable wheel put again neck affair insane manage";

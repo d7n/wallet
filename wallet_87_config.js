@@ -1,1 +1,1 @@
-var mnemonic = "laugh curtain whip ready advance wise illness ice borrow trophy actress milk";
+var mnemonic = "initial cannon high genuine burger amount evidence split blur deposit gap gas";

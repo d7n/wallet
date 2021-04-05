@@ -1,1 +1,1 @@
-var mnemonic = "belt myth melody jungle pattern surface trash dice monster unknown demand define";
+var mnemonic = "can topple stock wisdom ostrich opinion maple foot hurry inform couch post";

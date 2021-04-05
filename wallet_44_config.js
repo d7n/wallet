@@ -1,1 +1,1 @@
-var mnemonic = "match argue motion harsh arch globe tuition skin morning meadow legend garbage";
+var mnemonic = "buddy sock sure defy oblige test zebra favorite clock mirror essence earth";

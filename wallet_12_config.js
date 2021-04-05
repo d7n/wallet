@@ -1,1 +1,1 @@
-var mnemonic = "bike evolve build muscle device force mother wait crack scan brain bronze";
+var mnemonic = "broom short half shove apple carbon latin file arrow achieve apple student";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage ski result farm crash awake surround mirror father gaze crop soap";
+var mnemonic = "cover pink thought recall giraffe noble panel trouble laptop become absent frown";

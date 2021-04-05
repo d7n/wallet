@@ -1,1 +1,1 @@
-var mnemonic = "shop ensure rapid leaf curtain random edit steel satoshi student verify sauce";
+var mnemonic = "visit collect twist spoon upgrade sun service glare lock release corn small";

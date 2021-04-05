@@ -1,1 +1,1 @@
-var mnemonic = "teach soft topple marriage tell visit despair frequent noble empty kitchen donor";
+var mnemonic = "shaft convince umbrella excess web online top transfer toddler again margin since";

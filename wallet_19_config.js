@@ -1,1 +1,1 @@
-var mnemonic = "provide urban wise bunker trial card attack silly catalog spy mail almost";
+var mnemonic = "excuse song juice actress attend image rescue parent cream sail whip great";

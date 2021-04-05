@@ -1,1 +1,1 @@
-var mnemonic = "earn harvest phrase lecture endorse offer call wool cargo gain swift near";
+var mnemonic = "grass smoke boil original element solve wet three thing proof tissue true";

@@ -1,1 +1,1 @@
-var mnemonic = "charge stone two disagree zoo slush need emerge twenty spare meadow april";
+var mnemonic = "carpet trim amateur divorce alcohol profit pair remind hello use job urge";

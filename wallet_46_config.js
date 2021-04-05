@@ -1,1 +1,1 @@
-var mnemonic = "refuse identify affair april hawk damage flash sleep access orient among peasant";
+var mnemonic = "blood leg gloom laundry ridge pony green option post either prison drip";

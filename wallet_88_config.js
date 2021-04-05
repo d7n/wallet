@@ -1,1 +1,1 @@
-var mnemonic = "arctic buzz bid ladder upset treat nest else scatter announce blame broken";
+var mnemonic = "option twelve reform submit aunt cost eight clinic beyond census picnic muscle";

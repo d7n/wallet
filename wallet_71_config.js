@@ -1,1 +1,1 @@
-var mnemonic = "connect antenna smooth crater bicycle slot risk input rich track inflict kitchen";
+var mnemonic = "cigar depth firm kit unable early novel initial alert elder title issue";

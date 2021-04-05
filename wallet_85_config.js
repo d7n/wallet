@@ -1,1 +1,1 @@
-var mnemonic = "luxury elegant dust throw pattern oxygen sketch sentence clip lounge record scale";
+var mnemonic = "alert word donate mass glad emerge morning mention say coral gesture mandate";

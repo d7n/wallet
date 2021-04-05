@@ -1,1 +1,1 @@
-var mnemonic = "theme goddess medal face access seminar capital boil immense hole struggle solve";
+var mnemonic = "myself piano found breeze until they unique afraid camera panda embark fitness";

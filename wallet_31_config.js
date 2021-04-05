@@ -1,1 +1,1 @@
-var mnemonic = "human fan ahead kick select glad theme unhappy trend half chest depend";
+var mnemonic = "oven crunch hover topic story raise art observe scene cricket glue royal";

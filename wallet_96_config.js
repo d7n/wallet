@@ -1,1 +1,1 @@
-var mnemonic = "path click next mule cable enjoy where fortune tower outdoor pave rhythm";
+var mnemonic = "game adapt kind clog fuel hamster category congress index oak blur inmate";

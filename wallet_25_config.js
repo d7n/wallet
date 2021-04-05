@@ -1,1 +1,1 @@
-var mnemonic = "situate leg problem festival cool wall car powder sick begin beef boat";
+var mnemonic = "drift primary tide embark jewel scale harsh region dinner few claw fan";

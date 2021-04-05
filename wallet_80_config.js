@@ -1,1 +1,1 @@
-var mnemonic = "quarter keep save direct mail action cigar post barely pitch amount food";
+var mnemonic = "pill comfort science dog reopen grace where mom protect rebel stage essay";

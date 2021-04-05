@@ -1,1 +1,1 @@
-var mnemonic = "color gauge organ include farm acid witness spell giraffe legal stuff guess";
+var mnemonic = "camp wing tomorrow virtual dove grass job satisfy panel raven organ photo";

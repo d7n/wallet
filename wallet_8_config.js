@@ -1,1 +1,1 @@
-var mnemonic = "grit divert seat suffer witness clinic mechanic fitness acquire wild talk tonight";
+var mnemonic = "taxi pipe riot they guitar neither can record history country bag false";

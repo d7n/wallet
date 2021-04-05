@@ -1,1 +1,1 @@
-var mnemonic = "humble language lamp space eager amateur deliver wasp fox truly farm crisp";
+var mnemonic = "elder curve salt also goose meadow volcano check soup remember elephant plate";

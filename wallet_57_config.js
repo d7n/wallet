@@ -1,1 +1,1 @@
-var mnemonic = "art gaze high spoil neutral limb assume usual great salad ten lucky";
+var mnemonic = "camp wise swap crop around recall sock dry speak anger follow guide";

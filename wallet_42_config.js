@@ -1,1 +1,1 @@
-var mnemonic = "never river muscle receive era setup case sure parrot weekend human puppy";
+var mnemonic = "practice coyote print usual kid high mansion wool fame robust hire shiver";

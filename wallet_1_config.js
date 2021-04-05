@@ -1,1 +1,1 @@
-var mnemonic = "elite into slab grit certain first scare push carbon deposit vessel undo";
+var mnemonic = "clean oven list chest diagram near inherit safe fashion else walk depth";

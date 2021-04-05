@@ -1,1 +1,1 @@
-var mnemonic = "divide cloth exist globe choice caution file morning lunar rail layer pill";
+var mnemonic = "lake priority kite deny hobby cool diagram material pact orange later detail";

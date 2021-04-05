@@ -1,1 +1,1 @@
-var mnemonic = "rebuild drum sense enforce decorate divert blur moral honey view hundred nurse";
+var mnemonic = "topic assault lift helmet daughter trim add lunch bike betray increase chase";

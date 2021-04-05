@@ -1,1 +1,1 @@
-var mnemonic = "unusual man genuine pigeon marine unveil fat stomach outer attract spy tattoo";
+var mnemonic = "increase morning purpose execute cushion interest inflict innocent icon wolf daring imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling risk fly ignore mesh pretty until dice baby bench celery exchange";
+var mnemonic = "essence doctor explain position treat theory chair very there around around topic";

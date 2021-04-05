@@ -1,1 +1,1 @@
-var mnemonic = "smooth battle require casino fat slot oblige desert funny mutual mimic tourist";
+var mnemonic = "alpha aunt real text valid addict observe process obscure predict equip media";

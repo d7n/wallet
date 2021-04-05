@@ -1,1 +1,1 @@
-var mnemonic = "hole ticket mirror scissors snake wrist rebel life mother chunk title chair";
+var mnemonic = "resource scale rabbit way brother scissors battle woman promote gold sound tennis";

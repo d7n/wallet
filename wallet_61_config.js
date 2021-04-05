@@ -1,1 +1,1 @@
-var mnemonic = "snow fiction raven sick future develop true million skin siege stock cotton";
+var mnemonic = "surface derive uncover lift figure swear pass portion yard smoke accident degree";

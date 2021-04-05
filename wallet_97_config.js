@@ -1,1 +1,1 @@
-var mnemonic = "awkward tuition salad olive canvas monitor banner cute office draft cute journey";
+var mnemonic = "party attract leopard rapid identify bicycle census inquiry salad faith surge federal";

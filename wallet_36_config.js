@@ -1,1 +1,1 @@
-var mnemonic = "practice tree lottery double earth solution olive expire collect bread face forget";
+var mnemonic = "begin balance clerk more bunker choice enable over sad drill shine stock";

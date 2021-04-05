@@ -1,1 +1,1 @@
-var mnemonic = "fatal similar victory doll speak huge brass already galaxy verify peanut install";
+var mnemonic = "inhale derive around poem off program elite design soldier zoo develop laugh";

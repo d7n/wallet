@@ -1,1 +1,1 @@
-var mnemonic = "shrug monitor cloud weasel amount simple episode estate rely hammer maximum panda";
+var mnemonic = "public include permit tiger stadium arctic twelve used main vintage large excess";

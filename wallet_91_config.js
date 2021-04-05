@@ -1,1 +1,1 @@
-var mnemonic = "image long wreck sound wrong blood sun number basket response neither oil";
+var mnemonic = "beach deposit season credit exile face salute green doctor panic level also";

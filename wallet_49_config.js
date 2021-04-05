@@ -1,1 +1,1 @@
-var mnemonic = "general conduct dismiss super strike electric mushroom develop choice wing universe ocean";
+var mnemonic = "thunder cattle provide urge similar tube coffee empty yard hello avocado cradle";

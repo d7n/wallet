@@ -1,1 +1,1 @@
-var mnemonic = "cotton grass essay crack theory topple pen scorpion crime permit dad bacon";
+var mnemonic = "palace ketchup convince shuffle scatter crater gorilla pretty feel moon drive defy";

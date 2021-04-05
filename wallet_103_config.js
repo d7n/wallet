@@ -1,1 +1,1 @@
-var mnemonic = "install emerge casual vintage season segment crash melt runway reopen head equal";
+var mnemonic = "train joke orphan antique country inherit spot bright scout raven boring menu";

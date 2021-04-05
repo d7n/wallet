@@ -1,1 +1,1 @@
-var mnemonic = "rough senior traffic cigar fog chronic thought ensure quote length joy rude";
+var mnemonic = "elephant small lens around useful repair learn report smile february spare fence";

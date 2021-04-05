@@ -1,1 +1,1 @@
-var mnemonic = "siren tissue history hidden cook delay hood dose ridge ability armor junk";
+var mnemonic = "twist spray verb hood indicate alcohol artwork river one owner creek panda";

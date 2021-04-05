@@ -1,1 +1,1 @@
-var mnemonic = "tube hole school mixture sad tree indoor gain organ vintage annual snow";
+var mnemonic = "win silent super calm chair prison spin flock member tray sniff climb";

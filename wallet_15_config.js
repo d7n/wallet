@@ -1,1 +1,1 @@
-var mnemonic = "model firm fog inhale palace trash festival capable clinic hip assist siege";
+var mnemonic = "quiz prison blanket race gallery legend awesome husband entire office swallow leader";

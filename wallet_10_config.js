@@ -1,1 +1,1 @@
-var mnemonic = "absorb orient snack curtain huge junior allow scale venue drill expose judge";
+var mnemonic = "hello monkey giggle please canal bind arrow peanut giant topple firm sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "scare seed alter young syrup will engine raccoon possible sword option vintage";
+var mnemonic = "tooth awesome sunset valley gather man digital glue almost nation front diesel";

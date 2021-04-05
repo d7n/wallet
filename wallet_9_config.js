@@ -1,1 +1,1 @@
-var mnemonic = "occur kid sport brick vast grit attract lounge stone great elevator party";
+var mnemonic = "donor income guitar latin test uniform ticket tank street swim frequent soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "fix evoke laundry alcohol enroll effort roast express crack illness behind raw";
+var mnemonic = "job gentle ancient long mass crater voice cloud regular chat result melody";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon dose loan inside medal obvious meat echo recipe shove draw tone";
+var mnemonic = "ten cause slot play clip spread accident analyst snake tilt famous cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "space switch twelve cable hire call silver success calm armed fun harbor";
+var mnemonic = "attend unusual crater army evoke crash have shed oven pool smart loop";

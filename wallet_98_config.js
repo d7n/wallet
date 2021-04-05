@@ -1,1 +1,1 @@
-var mnemonic = "oak wise sound erode onion general canvas convince talent laugh kite song";
+var mnemonic = "nasty abuse inmate blame action toast witness gather urge gravity emotion loop";

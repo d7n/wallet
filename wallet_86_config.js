@@ -1,1 +1,1 @@
-var mnemonic = "evil absurd sketch sort rebel usage inherit duty lizard violin include potato";
+var mnemonic = "faith feed song produce gun visa citizen logic century dice buddy reduce";

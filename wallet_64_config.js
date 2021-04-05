@@ -1,1 +1,1 @@
-var mnemonic = "arrange absurd rather obscure egg surge ranch trade document punch allow valid";
+var mnemonic = "clap trumpet news silk hybrid razor extend chicken deer solar reopen access";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol topic viable good saddle rhythm leader caution nut nasty vanish old";
+var mnemonic = "pull salt ship plug layer culture rare inflict swarm move holiday bone";

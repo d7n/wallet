@@ -1,1 +1,1 @@
-var mnemonic = "decorate crater member piano carbon spice occur shine ankle derive gauge entry";
+var mnemonic = "shop prefer turtle cherry exist chimney follow behave snack scene renew badge";

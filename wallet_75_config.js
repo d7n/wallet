@@ -1,1 +1,1 @@
-var mnemonic = "awake enable deposit quarter notice penalty velvet slender between catalog sick spread";
+var mnemonic = "decide hungry dance knock strategy robust face news slice vendor exile run";

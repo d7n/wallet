@@ -1,1 +1,1 @@
-var mnemonic = "glare razor prefer arrow mouse rabbit face announce original stumble often leisure";
+var mnemonic = "feature duty accuse soccer express cliff then number air fall glow boy";

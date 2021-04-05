@@ -1,1 +1,1 @@
-var mnemonic = "lunch gym soda purchase setup link rail chase expose laugh prison boss";
+var mnemonic = "congress know resist wine repair scene dust era december hedgehog crash bacon";

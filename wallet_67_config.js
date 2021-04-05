@@ -1,1 +1,1 @@
-var mnemonic = "empty cage glass sudden visit dish pear already decline autumn popular broccoli";
+var mnemonic = "merit upset yellow fire essay remove eye scout bid maple simple lyrics";

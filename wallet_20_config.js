@@ -1,1 +1,1 @@
-var mnemonic = "mandate journey make all label cook gain water recipe drum robot clerk";
+var mnemonic = "miss avoid earn thumb album wreck lizard replace liar gold potato return";

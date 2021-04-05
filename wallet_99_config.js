@@ -1,1 +1,1 @@
-var mnemonic = "beauty sphere dentist tide attitude icon mail miracle combine able subway pitch";
+var mnemonic = "chef vague rent must credit put above cat auction lonely glide chase";

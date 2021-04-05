@@ -1,1 +1,1 @@
-var mnemonic = "pond comfort rent civil dawn fame arctic now echo trigger pool net";
+var mnemonic = "peasant basic grab below spawn possible west this month affair ginger cotton";

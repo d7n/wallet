@@ -1,1 +1,1 @@
-var mnemonic = "perfect security boss weapon click love since expect core gallery hidden nurse";
+var mnemonic = "put pond ladder spike base patrol what job cause virtual also tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect language winter common load dream famous sign mad income artefact twin";
+var mnemonic = "believe foot illegal paddle amount palace nerve sing repeat car measure bag";

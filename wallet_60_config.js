@@ -1,1 +1,1 @@
-var mnemonic = "cereal strike grocery quote celery network scare hockey enact horse shaft love";
+var mnemonic = "calm exhibit expire affair equip feature cluster grid rose parrot busy edit";

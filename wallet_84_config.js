@@ -1,1 +1,1 @@
-var mnemonic = "bicycle orange knee palace web alcohol blush shy burger bus team finger";
+var mnemonic = "puppy runway advance umbrella weekend essence ridge pizza heart unfair enter arctic";

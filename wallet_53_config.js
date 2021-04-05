@@ -1,1 +1,1 @@
-var mnemonic = "tenant kidney dish grief coffee suit dial other hold wild garlic nut";
+var mnemonic = "switch iron step across tomato diamond trigger saddle consider decade bike ignore";

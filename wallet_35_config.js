@@ -1,1 +1,1 @@
-var mnemonic = "hunt offer dawn noodle ability wheel choice erosion lonely twelve tonight leg";
+var mnemonic = "filter measure casino remember rubber inch core moral school horn abstract wrong";

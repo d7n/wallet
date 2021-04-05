@@ -1,1 +1,1 @@
-var mnemonic = "approve resist educate diet calm tattoo already diary pink half whip emerge";
+var mnemonic = "grow immune muscle sheriff poet push novel dad dynamic minimum rebel rich";

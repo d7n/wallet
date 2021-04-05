@@ -1,1 +1,1 @@
-var mnemonic = "village walnut depth chronic rather accident bounce talent apple avoid hurry tenant";
+var mnemonic = "canvas hedgehog decline carpet rookie ask bounce turn icon tuna december heart";

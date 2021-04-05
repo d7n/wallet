@@ -1,1 +1,1 @@
-var mnemonic = "electric buyer silent leisure job word boy nephew need pull adjust turtle";
+var mnemonic = "icon script forum agent slice lake avocado road obtain pipe donor total";

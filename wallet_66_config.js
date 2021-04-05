@@ -1,1 +1,1 @@
-var mnemonic = "nerve manual knee select bind orange panda fish beyond finger peasant disease";
+var mnemonic = "frame away slice visual end youth session imitate poverty blood achieve fresh";

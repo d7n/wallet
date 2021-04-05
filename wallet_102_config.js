@@ -1,1 +1,1 @@
-var mnemonic = "hat useless ceiling guide cigar fresh sick response original basic biology shoot";
+var mnemonic = "toddler cube cannon fashion neither ceiling below steel hurdle bullet amazing pelican";

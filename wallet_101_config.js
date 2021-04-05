@@ -1,1 +1,1 @@
-var mnemonic = "garden own rail script alley hole trick crack truck protect verify welcome";
+var mnemonic = "rabbit search theory sketch finish degree cushion always chat quantum dirt spray";

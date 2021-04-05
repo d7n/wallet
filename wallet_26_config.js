@@ -1,1 +1,1 @@
-var mnemonic = "pilot poverty acid board skill raw rally spare maximum disagree have vanish";
+var mnemonic = "move gas document bird nature diamond dilemma involve laptop banana enough large";

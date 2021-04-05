@@ -1,1 +1,1 @@
-var mnemonic = "report help winter play hero napkin brick december next core resemble vanish";
+var mnemonic = "risk wool term review best bicycle clip fury kiwi autumn forget leave";

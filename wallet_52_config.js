@@ -1,1 +1,1 @@
-var mnemonic = "country merit update nerve case young thumb final over busy fever border";
+var mnemonic = "cherry slice shuffle net shoot economy capable walnut across ahead stairs inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "fox plastic nut punch crater advance voice hedgehog tiger party prize brain";
+var mnemonic = "praise guilt crowd crazy awful trade donkey again miracle swim extra taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "liar shrug tuition edge luxury tilt similar uncle case good duty proud";
+var mnemonic = "olympic squirrel inside region never pony absent attract glue exhibit bomb maple";

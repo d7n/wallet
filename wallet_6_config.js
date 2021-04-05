@@ -1,1 +1,1 @@
-var mnemonic = "trash canvas celery truth protect heart broccoli taxi tone pony stereo erase";
+var mnemonic = "crystal laptop script eagle paddle blade tumble upgrade picture mercy pave century";

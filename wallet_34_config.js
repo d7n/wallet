@@ -1,1 +1,1 @@
-var mnemonic = "depend hold recycle raise goddess helmet potato like system universe they stay";
+var mnemonic = "upset sustain point aisle market route endless amused average still fade gas";

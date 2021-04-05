@@ -1,1 +1,1 @@
-var mnemonic = "inmate label purpose mixed absurd produce female paddle tell panda hybrid tower";
+var mnemonic = "dragon old icon drift scan share icon flag pave parade appear excite";

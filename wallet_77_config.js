@@ -1,1 +1,1 @@
-var mnemonic = "spot pave creek concert able select shuffle scatter essay domain move flavor";
+var mnemonic = "plug abstract exchange fun helmet actor permit galaxy donkey govern hour such";

@@ -1,1 +1,1 @@
-var mnemonic = "used slender bottom wheel correct blame gesture join credit space drill border";
+var mnemonic = "youth coral junk home sketch frog defy timber strategy better canoe stable";

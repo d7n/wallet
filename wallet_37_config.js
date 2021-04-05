@@ -1,1 +1,1 @@
-var mnemonic = "layer plastic dragon item harsh any nut eye enhance infant matrix spread";
+var mnemonic = "loop never decide wheel company bread tennis token gallery lady mom battle";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty access achieve across win situate slogan zoo spot deposit van devote";
+var mnemonic = "mansion spider stumble saddle million retire prepare battle illness way destroy keen";
