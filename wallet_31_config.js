@@ -1,1 +1,1 @@
-var mnemonic = "bomb dove school obscure grain rifle style spell tiger cruise logic initial";
+var mnemonic = "polar shoe ensure phone first unhappy mansion fee find curious quick obscure";

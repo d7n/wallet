@@ -1,1 +1,1 @@
-var mnemonic = "rare sentence afford obvious bar replace burst siege daring carry sentence perfect";
+var mnemonic = "short park retire tomato evoke evil evolve cushion humble tape skull minimum";

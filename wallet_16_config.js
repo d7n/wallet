@@ -1,1 +1,1 @@
-var mnemonic = "mom type sick disagree exhaust tag access salon escape barely offer rude";
+var mnemonic = "payment hockey seminar december fiber pilot possible load hunt divide stone trip";

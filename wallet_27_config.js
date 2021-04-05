@@ -1,1 +1,1 @@
-var mnemonic = "pledge will twenty kit fly young kid canoe neglect squeeze staff regular";
+var mnemonic = "rebuild pig orient obey reunion distance like flight anger action brush churn";

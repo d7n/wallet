@@ -1,1 +1,1 @@
-var mnemonic = "course cloth two ostrich scare drink monitor zoo nut tool damage enemy";
+var mnemonic = "minimum gold proud reopen buzz enable man success copper upon vibrant swarm";

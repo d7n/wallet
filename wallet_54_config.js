@@ -1,1 +1,1 @@
-var mnemonic = "learn vast boy final more voyage artist use thrive eye retire nature";
+var mnemonic = "snap stand spoil doctor amateur mail girl write eyebrow almost law false";

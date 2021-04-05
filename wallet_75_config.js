@@ -1,1 +1,1 @@
-var mnemonic = "blame clerk trip easily lunch dumb second physical cargo figure change eyebrow";
+var mnemonic = "worth obey pudding dinosaur bind narrow reason egg balcony insect suffer leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "nut task garage runway very peanut culture reflect play adapt umbrella tray";
+var mnemonic = "excite predict frozen soul history intact girl identify next reunion whisper prevent";

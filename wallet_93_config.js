@@ -1,1 +1,1 @@
-var mnemonic = "ketchup whale staff hamster world pact power jungle ready void repeat fiscal";
+var mnemonic = "bean display awkward anger act later pole bar gaze energy mango file";

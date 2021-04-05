@@ -1,1 +1,1 @@
-var mnemonic = "kidney various ring silk next fat motor below caution move jump hen";
+var mnemonic = "pitch dose sell you feature surprise movie cliff proud joke journey thumb";

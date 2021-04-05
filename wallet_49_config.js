@@ -1,1 +1,1 @@
-var mnemonic = "embrace hurt wink column fun abstract plastic fossil trick bargain foam clown";
+var mnemonic = "news lunch youth cable glare token able whisper foster rug slow grid";

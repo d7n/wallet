@@ -1,1 +1,1 @@
-var mnemonic = "able erode scene comfort city shrimp brush notice garden fitness science gauge";
+var mnemonic = "action emotion buddy century arrest chest admit guitar try employ indoor rule";

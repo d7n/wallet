@@ -1,1 +1,1 @@
-var mnemonic = "typical noble trash vendor luggage print cube climb valid gravity abstract tiny";
+var mnemonic = "steak hood horror subject degree volume face grain book horn innocent want";

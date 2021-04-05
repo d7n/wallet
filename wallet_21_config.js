@@ -1,1 +1,1 @@
-var mnemonic = "shield air only soap sausage fortune expect hood eagle timber seat material";
+var mnemonic = "peanut six chat develop feature someone ethics zebra knock witness weather valley";

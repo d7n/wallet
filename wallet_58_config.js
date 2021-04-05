@@ -1,1 +1,1 @@
-var mnemonic = "fire series leopard unaware sure solid blanket video spare legend fever resemble";
+var mnemonic = "narrow obscure various quit stage thank round paper club again segment hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "require together ticket boost punch turkey wrist waste hotel more train reveal";
+var mnemonic = "stamp warrior screen ball claw judge actress pottery stand unaware post code";

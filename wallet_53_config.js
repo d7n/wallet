@@ -1,1 +1,1 @@
-var mnemonic = "emotion pitch sword minor pluck mean loop produce forum rocket strong wide";
+var mnemonic = "deny first earth inmate apple churn erosion enable barrel young novel staff";

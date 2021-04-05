@@ -1,1 +1,1 @@
-var mnemonic = "park extra erupt expose load beef matrix design fire parent trade balance";
+var mnemonic = "near sentence dumb token smart keep gaze balance resource taste discover vacant";

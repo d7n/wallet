@@ -1,1 +1,1 @@
-var mnemonic = "eight switch end doll warrior camera sweet calm bind stand auto just";
+var mnemonic = "elder depth ceiling trouble creek what pottery author whisper amazing question sun";

@@ -1,1 +1,1 @@
-var mnemonic = "call mind below poet rotate pair indoor toe turkey cable dust total";
+var mnemonic = "judge deal unusual vicious pupil autumn where tilt bridge protect twice melt";

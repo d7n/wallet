@@ -1,1 +1,1 @@
-var mnemonic = "corn loyal globe absurd unveil bounce alter level wealth female joy deposit";
+var mnemonic = "shield boost crash water nature soul okay dry chaos small wait hood";

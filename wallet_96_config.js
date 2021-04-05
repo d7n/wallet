@@ -1,1 +1,1 @@
-var mnemonic = "elite relief great sword predict elbow hand fly magnet analyst maze bind";
+var mnemonic = "own arrow force issue remain similar choice cupboard apology illness clutch matrix";

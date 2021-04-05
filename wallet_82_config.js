@@ -1,1 +1,1 @@
-var mnemonic = "model exclude special permit mass arch guitar finger chapter rhythm lava chronic";
+var mnemonic = "idle undo bind true spring skirt forum celery valley visual catalog this";

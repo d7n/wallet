@@ -1,1 +1,1 @@
-var mnemonic = "biology tonight eagle among wood junior equal tribe notable fix whip anger";
+var mnemonic = "voice torch remember vibrant audit few sadness century child resemble mercy nose";

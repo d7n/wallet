@@ -1,1 +1,1 @@
-var mnemonic = "width recall deputy detect interest remember panda insane play fine sign purity";
+var mnemonic = "awful reject pizza swear hold snow spice fringe cart bar humble assist";

@@ -1,1 +1,1 @@
-var mnemonic = "choose there climb icon bonus drama lemon between hotel hobby refuse morning";
+var mnemonic = "engine sun country tilt vibrant hundred creek educate cook sentence verb capital";

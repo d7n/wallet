@@ -1,1 +1,1 @@
-var mnemonic = "woman shift actress question swamp message plug jump topic garment sustain obey";
+var mnemonic = "boost addict resource endorse music suit hard search canal broom prefer cliff";

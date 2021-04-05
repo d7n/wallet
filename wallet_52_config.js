@@ -1,1 +1,1 @@
-var mnemonic = "soda lyrics captain prize degree erupt siege hazard fat page gravity always";
+var mnemonic = "curve shoot flock tourist theory boat toddler cigar bamboo awful weasel practice";

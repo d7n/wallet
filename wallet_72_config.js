@@ -1,1 +1,1 @@
-var mnemonic = "derive loud letter wolf acquire grant slow smile dose asthma oppose install";
+var mnemonic = "oval solve upgrade enough chapter slice naive surprise black bottom only message";

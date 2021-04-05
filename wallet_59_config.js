@@ -1,1 +1,1 @@
-var mnemonic = "debris security vital group rough eight notable elevator doctor enhance clog kiss";
+var mnemonic = "add half exotic august repeat ceiling capable wish circle film crater address";

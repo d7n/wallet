@@ -1,1 +1,1 @@
-var mnemonic = "mountain school gravity pudding blur cross apart assume idea erase allow accuse";
+var mnemonic = "chaos rule question road viable feel orchard fence potato shy viable final";

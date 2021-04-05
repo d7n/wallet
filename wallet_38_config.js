@@ -1,1 +1,1 @@
-var mnemonic = "verify trick rhythm agent know educate animal tongue family excess again oval";
+var mnemonic = "broccoli there gadget daughter expand task great tennis novel gossip boil drink";

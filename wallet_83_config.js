@@ -1,1 +1,1 @@
-var mnemonic = "stove can suit immense churn buyer radio engine waste bread aspect state";
+var mnemonic = "level potato baby liquid young artwork often away tower tonight sort scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "remind banana chronic finger faint trash rose upset exhaust inside brisk grab";
+var mnemonic = "any system glide fish favorite debris crew puzzle old forum loud more";

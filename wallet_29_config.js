@@ -1,1 +1,1 @@
-var mnemonic = "forest glance install calm install violin eternal luxury double claim resist glory";
+var mnemonic = "buzz clump bless adapt float language elephant cheap special twist asthma engage";

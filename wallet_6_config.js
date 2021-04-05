@@ -1,1 +1,1 @@
-var mnemonic = "fame desk essence gown home flip butter couch chaos spring gospel lift";
+var mnemonic = "kick nuclear peanut draft category forest toilet town future carbon cloth recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "pen onion differ circle supreme index use monkey noodle flip dutch axis";
+var mnemonic = "disagree choice throw actor face kitten clock jump faculty animal aunt behave";

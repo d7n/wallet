@@ -1,1 +1,1 @@
-var mnemonic = "zone unfair lady vibrant write inch level document black panther huge pretty";
+var mnemonic = "pill cloud pudding behind shrug wage extend base craft false disagree useless";

@@ -1,1 +1,1 @@
-var mnemonic = "above police foster agree museum stand switch estate satisfy carry autumn great";
+var mnemonic = "gorilla basic trade during curious upper resource basic card team casual surprise";

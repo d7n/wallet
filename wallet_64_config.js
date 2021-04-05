@@ -1,1 +1,1 @@
-var mnemonic = "liquid genre nature main pudding story bachelor turkey aware join cake glad";
+var mnemonic = "evoke practice mammal shell twist soap priority mask notice rotate hub staff";

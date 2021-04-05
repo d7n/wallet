@@ -1,1 +1,1 @@
-var mnemonic = "describe wrestle eye rifle turkey tattoo fiber ketchup story crowd sad tennis";
+var mnemonic = "order jaguar camp spot aunt episode nuclear bus until wage merit local";

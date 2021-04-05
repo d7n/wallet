@@ -1,1 +1,1 @@
-var mnemonic = "thing paper road water sorry else author jewel dumb remind stuff crouch";
+var mnemonic = "bacon miss logic gap embody anger day blossom panel bomb gorilla nominee";

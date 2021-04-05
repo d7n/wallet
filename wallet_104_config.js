@@ -1,1 +1,1 @@
-var mnemonic = "toward else chuckle devote cherry globe spider gym win vocal seminar shove";
+var mnemonic = "shadow mobile transfer much grass deputy surface luggage enable inmate fossil game";

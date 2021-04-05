@@ -1,1 +1,1 @@
-var mnemonic = "arrow involve empty forward puppy wet notice museum time gold guilt history";
+var mnemonic = "peace trap wrist symbol version federal quarter record coach whisper artist couple";

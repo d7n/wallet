@@ -1,1 +1,1 @@
-var mnemonic = "myself goddess work lumber doctor cloth poet shine frown autumn fix upgrade";
+var mnemonic = "exclude please degree awful milk nature giant rural hedgehog guess mask mail";

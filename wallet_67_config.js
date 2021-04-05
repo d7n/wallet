@@ -1,1 +1,1 @@
-var mnemonic = "rare hello online cram people company attend crack ketchup man erupt device";
+var mnemonic = "hole account suffer unhappy alone miracle soft relax fresh word lab virtual";

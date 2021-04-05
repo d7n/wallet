@@ -1,1 +1,1 @@
-var mnemonic = "adapt weasel patient enforce small muscle cabbage message learn crack mouse direct";
+var mnemonic = "solution hawk motor number dish garlic leg web pattern harvest breeze donate";

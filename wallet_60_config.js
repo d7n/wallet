@@ -1,1 +1,1 @@
-var mnemonic = "view print term away skate embrace alcohol salmon tuna learn beyond patrol";
+var mnemonic = "dumb fence proud cruise alarm sun ripple guard olympic cereal violin message";

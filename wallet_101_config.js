@@ -1,1 +1,1 @@
-var mnemonic = "game drift wash excite pepper dad suffer body stereo amateur photo sight";
+var mnemonic = "protect merit topple armed wool minute train year cram task bicycle kidney";

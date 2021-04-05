@@ -1,1 +1,1 @@
-var mnemonic = "early dynamic deposit toilet siren pumpkin kind mad gold smoke month version";
+var mnemonic = "raw fringe dinosaur melody zebra elbow century venue emotion report season source";

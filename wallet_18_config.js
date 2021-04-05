@@ -1,1 +1,1 @@
-var mnemonic = "relief arrive call rubber outdoor hen believe pair south yard romance above";
+var mnemonic = "escape author cable lady stumble glue system mixed permit figure ski intact";

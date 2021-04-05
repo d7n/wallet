@@ -1,1 +1,1 @@
-var mnemonic = "bundle scale clock guitar devote dinosaur olive afraid mountain sure ship elephant";
+var mnemonic = "punch exile balcony comic mobile health accident genuine denial loud climb art";

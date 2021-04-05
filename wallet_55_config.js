@@ -1,1 +1,1 @@
-var mnemonic = "rookie glove bulk shed female sea special unit device real recycle vehicle";
+var mnemonic = "always learn movie plate swear hour rookie exchange flower rude expire manage";

@@ -1,1 +1,1 @@
-var mnemonic = "ride never honey draft belt year can truck avocado twist train fury";
+var mnemonic = "carry poem siege patch force vocal cream shaft flock high remind local";

@@ -1,1 +1,1 @@
-var mnemonic = "corn endless produce derive embody panel dash carbon angry same occur super";
+var mnemonic = "gas valley boost route then vital movie input undo coast physical check";

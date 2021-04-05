@@ -1,1 +1,1 @@
-var mnemonic = "index guide nasty spend find flat pilot cushion sun argue carbon shed";
+var mnemonic = "icon invite minor alpha rich rate universe monkey police crime birth gather";

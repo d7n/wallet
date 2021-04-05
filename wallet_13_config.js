@@ -1,1 +1,1 @@
-var mnemonic = "globe situate honey popular situate uncle lesson edge six apart shallow recycle";
+var mnemonic = "shuffle tower emotion buffalo divide buzz cute soda student behave suggest pony";

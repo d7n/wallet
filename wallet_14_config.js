@@ -1,1 +1,1 @@
-var mnemonic = "forget range veteran walnut machine various eye twin put demand title license";
+var mnemonic = "grace scorpion cover uncover attack medal require family genre pottery energy ability";

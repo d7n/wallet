@@ -1,1 +1,1 @@
-var mnemonic = "occur endorse work matrix pact mystery wave upgrade sad burst sphere wet";
+var mnemonic = "light prosper cluster topple snap caution crumble raccoon main glad remain wet";

@@ -1,1 +1,1 @@
-var mnemonic = "minute client say annual tool eternal sugar arrest south year solid royal";
+var mnemonic = "tired butter soul lizard before tackle address old save illness couch damage";

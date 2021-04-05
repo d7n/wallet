@@ -1,1 +1,1 @@
-var mnemonic = "ticket balcony load ship fix wrong flame shock clip royal inner before";
+var mnemonic = "roast rice outdoor census mandate fury cream spin chase interest flee dizzy";

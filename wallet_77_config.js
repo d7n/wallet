@@ -1,1 +1,1 @@
-var mnemonic = "carbon biology fresh vote click doctor heavy affair educate flavor occur hazard";
+var mnemonic = "science setup wage like despair sphere enlist speed force tuna senior thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "section once athlete impose multiply omit mistake bulk portion puzzle situate dance";
+var mnemonic = "acquire fragile mercy net situate angry famous brown later test diary shoulder";

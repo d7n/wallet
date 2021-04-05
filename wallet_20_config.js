@@ -1,1 +1,1 @@
-var mnemonic = "maximum primary original vacant scheme visit correct quiz fan jaguar cup cotton";
+var mnemonic = "inquiry rhythm parrot connect office leaf useful spring blind holiday cushion start";

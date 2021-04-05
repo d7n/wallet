@@ -1,1 +1,1 @@
-var mnemonic = "assume erase heart funny issue panda grit dune pepper cross aerobic access";
+var mnemonic = "book choice order bag era excite draft broccoli share below wheel lawsuit";

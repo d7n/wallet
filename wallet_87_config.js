@@ -1,1 +1,1 @@
-var mnemonic = "unfair skull slender fun public island gloom wear trial clutch tenant tail";
+var mnemonic = "access gate present emotion jar very cancel gain calm obvious child stable";

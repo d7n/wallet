@@ -1,1 +1,1 @@
-var mnemonic = "announce order success prosper peasant high captain tooth column sunset island expect";
+var mnemonic = "ripple again month capital spare card title cross volume nature media curious";

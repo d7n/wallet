@@ -1,1 +1,1 @@
-var mnemonic = "mandate shaft health soda across unlock oil cupboard task animal crane repeat";
+var mnemonic = "butter creek casual month tourist enter solar innocent write price draft syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "over digital govern humble equip river nest strategy eagle broccoli sock hope";
+var mnemonic = "fly strategy dirt sell funny hard skull reform gate guess benefit pass";

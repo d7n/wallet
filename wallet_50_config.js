@@ -1,1 +1,1 @@
-var mnemonic = "check notice install maze stuff brisk frog chat range alarm thumb scatter";
+var mnemonic = "puppy stool thrive eyebrow video glad title load warfare swallow jacket control";

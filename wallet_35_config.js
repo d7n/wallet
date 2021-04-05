@@ -1,1 +1,1 @@
-var mnemonic = "power space link disagree bomb book awful sponsor answer notable twist witness";
+var mnemonic = "crystal hollow uphold moon run orbit cactus eyebrow title coast smile flight";

@@ -1,1 +1,1 @@
-var mnemonic = "design solve vague unusual hazard romance skirt couple month only afford rough";
+var mnemonic = "napkin later vibrant nest child path rely genuine moon sign fence they";

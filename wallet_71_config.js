@@ -1,1 +1,1 @@
-var mnemonic = "oven admit hole hint ecology fever ramp become cycle adult illness absent";
+var mnemonic = "grief thing kind step diet trumpet apology carpet eight sentence galaxy make";

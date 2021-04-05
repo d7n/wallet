@@ -1,1 +1,1 @@
-var mnemonic = "limb pioneer mechanic sure city spare half reason alpha you legend pilot";
+var mnemonic = "throw mention piano spell idea ask menu clock regret rack clown uncover";

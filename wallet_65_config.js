@@ -1,1 +1,1 @@
-var mnemonic = "harbor worry circle cart roast ramp wrong member vicious peasant exclude decade";
+var mnemonic = "embrace drum flash possible wave spring exile loud public filter develop utility";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire doctor busy loan spread anger purchase write bamboo maximum height expire";
+var mnemonic = "fitness seven math because common seminar welcome poverty true exercise peasant execute";

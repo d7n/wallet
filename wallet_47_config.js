@@ -1,1 +1,1 @@
-var mnemonic = "beauty assume speak adapt proof merry immense cancel lake apology chapter merry";
+var mnemonic = "price daughter ritual quantum sure peace social true hand guilt hand summer";
