@@ -1,1 +1,1 @@
-var mnemonic = "hope behind trick cannon knock muscle tip tunnel trophy inmate initial behind";
+var mnemonic = "slice say above clump spider celery lady butter scout discover park adult";

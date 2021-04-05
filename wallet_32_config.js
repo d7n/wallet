@@ -1,1 +1,1 @@
-var mnemonic = "glad head report level claim typical chunk auction narrow panic crowd grab";
+var mnemonic = "inject saddle meadow answer hair slush shoulder thrive census census until stone";

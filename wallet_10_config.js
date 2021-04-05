@@ -1,1 +1,1 @@
-var mnemonic = "poverty mind switch float museum hole tone civil speak cute north smile";
+var mnemonic = "teach parrot medal warrior april total lens heart reunion search vehicle cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige tragic wedding canyon brown special color romance party click chase travel";
+var mnemonic = "sport room favorite blade rule bean peace keep slot library kingdom bar";

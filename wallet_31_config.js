@@ -1,1 +1,1 @@
-var mnemonic = "again electric smile disorder police gather garment blanket decorate coral glue shield";
+var mnemonic = "range pluck model feature sport grocery fence oppose arch topic bulk again";

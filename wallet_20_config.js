@@ -1,1 +1,1 @@
-var mnemonic = "science forest ball matter cycle swim blue village you economy shock dash";
+var mnemonic = "usage egg office bitter hair solid toilet illegal belt firm flip lend";

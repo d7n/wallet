@@ -1,1 +1,1 @@
-var mnemonic = "muscle heavy uniform estate jealous chicken mechanic twenty spatial awesome glad gasp";
+var mnemonic = "verb diet apart estate notice fall surround private truck rebel seek detail";

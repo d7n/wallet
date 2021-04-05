@@ -1,1 +1,1 @@
-var mnemonic = "odor decrease term pig junior spring auto indoor sense tail year inner";
+var mnemonic = "innocent program gown olive sentence switch trash notice bacon reduce carbon balance";

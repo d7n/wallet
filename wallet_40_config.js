@@ -1,1 +1,1 @@
-var mnemonic = "chief breeze goat drill crouch route drum dice finish upgrade panic object";
+var mnemonic = "mom step cat ticket kind cloth renew inflict chunk shift purpose celery";

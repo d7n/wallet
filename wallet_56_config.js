@@ -1,1 +1,1 @@
-var mnemonic = "annual seek attend motion duck property bamboo morning vote coral merge violin";
+var mnemonic = "design home shoe biology drill repair marine frog midnight pottery mouse monster";

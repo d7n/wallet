@@ -1,1 +1,1 @@
-var mnemonic = "orbit galaxy protect sugar access crater kidney security slab arena patrol divert";
+var mnemonic = "affair angle wire burden video room already vote trip melody radio ignore";

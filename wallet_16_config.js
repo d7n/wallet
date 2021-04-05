@@ -1,1 +1,1 @@
-var mnemonic = "yellow garlic wrist slab stable project fault quiz dry mandate amount invite";
+var mnemonic = "sorry health wire start female hawk save unique yard island brain song";

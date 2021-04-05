@@ -1,1 +1,1 @@
-var mnemonic = "kind cost swap quarter valve valley dust quality truly manage august goat";
+var mnemonic = "voyage hedgehog decade opinion hat scale vault clutch prefer canyon filter farm";

@@ -1,1 +1,1 @@
-var mnemonic = "broken ugly pen catch expire eagle visa curve twelve coral steak century";
+var mnemonic = "neck current mouse velvet guilt identify symptom knee harbor lyrics play flee";

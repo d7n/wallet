@@ -1,1 +1,1 @@
-var mnemonic = "name scrub episode leader must pole bike gain another deer embody lake";
+var mnemonic = "enact learn ritual talk deliver smooth off size security delay emerge rigid";

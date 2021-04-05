@@ -1,1 +1,1 @@
-var mnemonic = "matter music nature camp describe boil review situate dial love chief width";
+var mnemonic = "auction then scale glimpse absent light cruel exile salt wonder unaware ancient";

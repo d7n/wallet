@@ -1,1 +1,1 @@
-var mnemonic = "flush tape enable man galaxy blast cattle unveil impact marriage exhibit canyon";
+var mnemonic = "search weather park cotton umbrella word car uncle atom wine wonder menu";

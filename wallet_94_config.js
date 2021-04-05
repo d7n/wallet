@@ -1,1 +1,1 @@
-var mnemonic = "match spend code pitch crater group move very cash team beauty oak";
+var mnemonic = "that cook health detect punch unhappy valley load develop famous arch bread";

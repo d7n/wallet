@@ -1,1 +1,1 @@
-var mnemonic = "tonight youth write advice boy monitor liar swear ladder mercy survey fee";
+var mnemonic = "boring credit machine such egg much park empower climb very man odor";

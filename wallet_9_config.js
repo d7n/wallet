@@ -1,1 +1,1 @@
-var mnemonic = "wreck crumble sketch hedgehog exile primary differ return spring book original frame";
+var mnemonic = "long key then science gun child disagree worth spike tragic door place";

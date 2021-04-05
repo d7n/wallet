@@ -1,1 +1,1 @@
-var mnemonic = "drastic almost scare rose satoshi useful wool evoke popular jungle glad swamp";
+var mnemonic = "steak confirm over drive turn net fame sibling mango close cover shove";

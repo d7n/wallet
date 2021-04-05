@@ -1,1 +1,1 @@
-var mnemonic = "skate ivory ball gun prosper speed purse shoulder siege inject choice gate";
+var mnemonic = "summer attitude clean trash month blanket audit comfort mansion evoke budget debate";

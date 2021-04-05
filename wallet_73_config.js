@@ -1,1 +1,1 @@
-var mnemonic = "police want emotion unhappy deputy volume obey program advance burst source air";
+var mnemonic = "weekend lyrics flip educate marble zone trial tank youth royal find topple";

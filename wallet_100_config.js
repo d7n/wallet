@@ -1,1 +1,1 @@
-var mnemonic = "gossip lucky world round squeeze fortune cover okay party fetch fresh divert";
+var mnemonic = "lottery faint away mango image improve add trick struggle unaware kind wet";

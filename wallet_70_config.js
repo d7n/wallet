@@ -1,1 +1,1 @@
-var mnemonic = "check maple bridge case regular kiwi plastic beauty cigar cross guide any";
+var mnemonic = "cage wedding brush letter coconut congress wide tiger rude width judge ahead";

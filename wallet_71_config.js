@@ -1,1 +1,1 @@
-var mnemonic = "tag bitter arrive model fatal ugly squirrel lazy various pepper actor laugh";
+var mnemonic = "congress pitch already utility laundry client twelve solar main voyage review level";

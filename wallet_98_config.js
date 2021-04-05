@@ -1,1 +1,1 @@
-var mnemonic = "leg problem donkey ritual neck primary replace fish spring help place twelve";
+var mnemonic = "math dress grid trash river motor notable brief prevent shiver grass people";

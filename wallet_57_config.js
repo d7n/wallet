@@ -1,1 +1,1 @@
-var mnemonic = "stamp window path silk run usual cannon silk area rib comic chicken";
+var mnemonic = "prevent bone swarm frame pumpkin opinion chest access else kiwi sell hire";

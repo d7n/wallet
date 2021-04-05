@@ -1,1 +1,1 @@
-var mnemonic = "upgrade cause shoulder cage subway project any wrestle airport comic sheriff health";
+var mnemonic = "prefer crucial feature history picture crew tongue list extend torch spatial laundry";

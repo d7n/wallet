@@ -1,1 +1,1 @@
-var mnemonic = "cake seek fog inmate engine cluster embrace length donate predict rubber month";
+var mnemonic = "sort side fence tackle picnic point note rice moral spot shoulder medal";

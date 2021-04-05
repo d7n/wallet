@@ -1,1 +1,1 @@
-var mnemonic = "direct exact hunt level able dose bone blouse rural pattern give define";
+var mnemonic = "flat hundred nest harsh enable unfair maximum crucial nest invite transfer army";

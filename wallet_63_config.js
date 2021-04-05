@@ -1,1 +1,1 @@
-var mnemonic = "mixture beauty elephant grape purchase model minimum risk topple rural pattern sunset";
+var mnemonic = "luxury salute item field same tool simple find manual impact panel marine";

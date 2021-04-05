@@ -1,1 +1,1 @@
-var mnemonic = "cheap dose recipe permit series lucky essence sing category cushion opera ribbon";
+var mnemonic = "field boring luggage inside blind spray admit elbow federal unlock sad couple";

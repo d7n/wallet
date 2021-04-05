@@ -1,1 +1,1 @@
-var mnemonic = "person more have coffee face absurd gravity roof maple uniform rib pottery";
+var mnemonic = "april own source athlete sniff rug loud forest mosquito any abstract demand";

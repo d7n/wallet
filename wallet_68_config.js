@@ -1,1 +1,1 @@
-var mnemonic = "glove shiver craft stumble coin chest combine welcome craft together kit same";
+var mnemonic = "detail elbow heart topple wear include survey mother detail whale travel plunge";

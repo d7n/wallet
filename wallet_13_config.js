@@ -1,1 +1,1 @@
-var mnemonic = "fine punch legal cancel merit frame bag solid festival speak crystal fold";
+var mnemonic = "piano enter laugh cage forest suit peanut stable awesome style bright margin";

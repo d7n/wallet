@@ -1,1 +1,1 @@
-var mnemonic = "fit work possible dune year struggle inject run fold industry rack swamp";
+var mnemonic = "practice weird turn warm margin confirm speak upon trade parent chat draft";

@@ -1,1 +1,1 @@
-var mnemonic = "random slender swallow valley upset silver boss obvious casino drip eagle develop";
+var mnemonic = "much drip action dash feed either drama canvas pudding network scheme arrest";

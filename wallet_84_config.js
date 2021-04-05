@@ -1,1 +1,1 @@
-var mnemonic = "exhibit fury inflict tilt blush mule sense front when armor divert spoon";
+var mnemonic = "goose later field stamp talk still cactus short sand reduce race gate";

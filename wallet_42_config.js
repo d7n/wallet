@@ -1,1 +1,1 @@
-var mnemonic = "walk action artwork initial sketch bring arrange another december merge vote ball";
+var mnemonic = "dove chapter simple cruise pull olympic era win face vintage very gallery";

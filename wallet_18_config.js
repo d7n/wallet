@@ -1,1 +1,1 @@
-var mnemonic = "member isolate eye useless gap entire focus dynamic pull uncle coast question";
+var mnemonic = "offer pistol loud young trial name apart spice milk noodle kitten afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch talk leader snack unveil silk rebuild indicate clump excuse entire theory";
+var mnemonic = "swim boring victory muscle crumble voyage pattern question kind puzzle round wisdom";

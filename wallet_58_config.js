@@ -1,1 +1,1 @@
-var mnemonic = "follow dwarf exhibit situate panel still two twenty height danger cotton salon";
+var mnemonic = "behind lake hurt design pyramid sail chalk pill bar web tired segment";

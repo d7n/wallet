@@ -1,1 +1,1 @@
-var mnemonic = "evoke regret puppy prosper trumpet check throw zoo resemble this outside phone";
+var mnemonic = "walk produce fantasy general wave senior song wage profit furnace answer gather";

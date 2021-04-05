@@ -1,1 +1,1 @@
-var mnemonic = "orchard spare general trust deal rookie wall tone ethics convince champion clay";
+var mnemonic = "trip protect basic guilt school visa giraffe case mosquito invite nerve tower";

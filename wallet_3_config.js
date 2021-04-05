@@ -1,1 +1,1 @@
-var mnemonic = "family feel symbol hawk want spoon city resist harbor base museum later";
+var mnemonic = "virus escape exercise chuckle young leisure upon olive because employ rubber task";

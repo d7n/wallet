@@ -1,1 +1,1 @@
-var mnemonic = "imitate govern across town expose baby scrap beyond success degree cloth column";
+var mnemonic = "woman duty body travel oil visit depth quick anchor lift reopen hybrid";

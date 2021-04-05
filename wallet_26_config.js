@@ -1,1 +1,1 @@
-var mnemonic = "popular theory artist wet copper twelve glory chronic excite use grow belt";
+var mnemonic = "slim photo reflect again civil abandon knee uncover trend radio nominee series";

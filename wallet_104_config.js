@@ -1,1 +1,1 @@
-var mnemonic = "chalk dance borrow fluid tomorrow change treat dish crystal denial result wreck";
+var mnemonic = "genius thrive post analyst genre what alpha lucky arrange hand settle basket";

@@ -1,1 +1,1 @@
-var mnemonic = "stool layer hire asthma skin soup know scrub tooth mind volcano erase";
+var mnemonic = "enroll parrot such ignore avoid scorpion barely sheriff roast mind sudden swear";

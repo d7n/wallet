@@ -1,1 +1,1 @@
-var mnemonic = "change dish excite skin mind impulse dinner subway safe shaft dismiss rival";
+var mnemonic = "weasel cement front clock obscure top always hole car aunt book real";

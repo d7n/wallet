@@ -1,1 +1,1 @@
-var mnemonic = "rule avocado second book maximum right fall usual decline lady veteran universe";
+var mnemonic = "leaf poem below unveil air wine limit police annual feed sorry dance";

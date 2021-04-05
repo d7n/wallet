@@ -1,1 +1,1 @@
-var mnemonic = "size goose village tribe autumn best end remain nerve defy focus prefer";
+var mnemonic = "bulk worry estate jazz gossip boy food battle festival merge bind luggage";

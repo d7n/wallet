@@ -1,1 +1,1 @@
-var mnemonic = "tip flame argue hurt oppose ribbon rural food valve arena age alpha";
+var mnemonic = "orient timber door salon expire erosion catch file wagon pole alien margin";

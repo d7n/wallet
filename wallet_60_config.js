@@ -1,1 +1,1 @@
-var mnemonic = "leopard sword solid ecology bean rule fame garbage pledge off mansion seek";
+var mnemonic = "satoshi milk heavy opinion brown mango over rookie month base meat pilot";

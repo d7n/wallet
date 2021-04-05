@@ -1,1 +1,1 @@
-var mnemonic = "animal consider sorry chimney magic gentle build glory marriage admit avoid brisk";
+var mnemonic = "tide give cricket daring clog attend lottery hood dismiss iron swallow almost";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant net hold giggle husband hurry jump heart horse fiscal brave jar";
+var mnemonic = "video like jar member bar flight belt scale panel screen misery steak";

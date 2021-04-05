@@ -1,1 +1,1 @@
-var mnemonic = "example typical buffalo decide shrimp truly legal region dumb stereo palace siren";
+var mnemonic = "fall shield output rhythm movie job mansion jelly tenant hello just bench";

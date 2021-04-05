@@ -1,1 +1,1 @@
-var mnemonic = "slide vendor tail aerobic filter athlete twenty click first cousin post ensure";
+var mnemonic = "evidence retire because flush apple retire inquiry skirt safe stable ill tragic";

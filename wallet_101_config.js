@@ -1,1 +1,1 @@
-var mnemonic = "tooth arrive ankle truck hat session shy sail sample enough spray side";
+var mnemonic = "nice plate wear mutual dog broccoli camp stem bullet media mercy defy";

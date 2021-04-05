@@ -1,1 +1,1 @@
-var mnemonic = "rail stool pencil unhappy lock else more corn media evoke duty yellow";
+var mnemonic = "coast paper goat body choice innocent annual pill lounge hazard scorpion clean";

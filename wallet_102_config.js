@@ -1,1 +1,1 @@
-var mnemonic = "wink section later must pyramid jazz appear derive desk very argue slab";
+var mnemonic = "clarify hold denial deal kit sketch lock infant super gauge awesome foil";

@@ -1,1 +1,1 @@
-var mnemonic = "badge own chef document industry fury zoo oxygen canvas quantum exotic work";
+var mnemonic = "trend goat soap age cool student disagree shell strategy tunnel regret finish";

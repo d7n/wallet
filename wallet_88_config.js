@@ -1,1 +1,1 @@
-var mnemonic = "scheme appear faculty lounge grow antenna what wrap grass filter satisfy tone";
+var mnemonic = "medal dial satisfy nephew sleep tube boat awful live have search animal";

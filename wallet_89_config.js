@@ -1,1 +1,1 @@
-var mnemonic = "actress obtain flash mention arrest shove strike crash unaware vapor labor foster";
+var mnemonic = "friend flush comic spoil puppy kitchen piano garage praise remove unknown word";

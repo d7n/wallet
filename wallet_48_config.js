@@ -1,1 +1,1 @@
-var mnemonic = "cruise dream follow process void local thunder ahead tip bubble mind blossom";
+var mnemonic = "assist repair rent inside peanut film forum walk enlist upon decide theme";

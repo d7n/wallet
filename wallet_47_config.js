@@ -1,1 +1,1 @@
-var mnemonic = "pride prosper glance grunt check verb average expand lecture rotate wet cannon";
+var mnemonic = "write news case bargain track police sadness choice dawn mouse arrest rival";

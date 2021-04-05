@@ -1,1 +1,1 @@
-var mnemonic = "festival embody verify thumb verify donkey chase service embrace snack coach deposit";
+var mnemonic = "profit come topic erosion eyebrow menu middle prosper asthma knee plate cereal";

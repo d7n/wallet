@@ -1,1 +1,1 @@
-var mnemonic = "fever rate legal true debris rather figure caught garbage vault balance addict";
+var mnemonic = "husband there remember visit injury hole noodle harbor argue finger mountain type";

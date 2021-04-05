@@ -1,1 +1,1 @@
-var mnemonic = "oblige beef wasp bean ceiling upon ice media mechanic borrow verify conduct";
+var mnemonic = "episode patrol correct faint never alarm scorpion tomorrow trigger floor father immune";

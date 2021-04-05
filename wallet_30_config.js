@@ -1,1 +1,1 @@
-var mnemonic = "comfort water video donate jungle select strong cycle need then relax hover";
+var mnemonic = "ethics street pizza dress train inherit pigeon quote material camera world steel";

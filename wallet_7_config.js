@@ -1,1 +1,1 @@
-var mnemonic = "urban party rare amount brain behave unable aunt affair dutch step book";
+var mnemonic = "clump night cross mushroom street mobile neglect tilt little message soul tooth";

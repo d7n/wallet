@@ -1,1 +1,1 @@
-var mnemonic = "spin number wreck pilot grape raven result sound collect clerk sock erode";
+var mnemonic = "antique they choice era giggle private grain rough theme shine mix average";

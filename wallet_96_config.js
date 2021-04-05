@@ -1,1 +1,1 @@
-var mnemonic = "time foam unable fragile volume reject notice trust sniff penalty around shadow";
+var mnemonic = "intact wall shoulder wait fee scatter tray reform shy few foot balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "earn craft law inflict unfold quantum erosion party bar rebel crunch alcohol";
+var mnemonic = "drink eyebrow wagon palm sample feature song slight tomato street build helmet";

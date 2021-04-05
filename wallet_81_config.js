@@ -1,1 +1,1 @@
-var mnemonic = "stamp crumble zone ranch salt enrich amused market legend bomb green must";
+var mnemonic = "long edge practice potato solar funny usual curve appear shove violin fuel";

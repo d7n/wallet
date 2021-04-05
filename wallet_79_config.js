@@ -1,1 +1,1 @@
-var mnemonic = "badge undo express rival identify orange hold gym absurd example oil pond";
+var mnemonic = "little humble sand short boring bronze off resist legend fork hope update";

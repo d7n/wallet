@@ -1,1 +1,1 @@
-var mnemonic = "coffee gravity recipe stuff pet enough prevent verb trophy first panel truth";
+var mnemonic = "barrel balance under culture left income glad final endless certain leave begin";

@@ -1,1 +1,1 @@
-var mnemonic = "crack direct disease flash debris evil hollow quantum youth loud raven harsh";
+var mnemonic = "vicious jazz replace celery local mean morning sting tell luxury boy coil";

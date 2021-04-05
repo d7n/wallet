@@ -1,1 +1,1 @@
-var mnemonic = "section aisle excuse talent lend bleak orbit trend explain off worth cruel";
+var mnemonic = "pill crumble mushroom derive invite dream rib link leopard junior game thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "primary next limb photo twist violin team across like early sport distance";
+var mnemonic = "sister parrot mechanic social rabbit grid dirt spirit record bless vacant twice";

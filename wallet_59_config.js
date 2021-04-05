@@ -1,1 +1,1 @@
-var mnemonic = "bunker modify defy timber actor ball notable nuclear source solution design school";
+var mnemonic = "rather lounge liar patrol again menu obey crisp there kitten history choose";

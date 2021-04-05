@@ -1,1 +1,1 @@
-var mnemonic = "hold donor ancient never weapon mushroom deal wire fiscal avocado engine follow";
+var mnemonic = "buyer mother lemon yellow human shoot hire home derive slot outside wrist";

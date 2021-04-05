@@ -1,1 +1,1 @@
-var mnemonic = "inject blush pink truck dinosaur forest coin always release left misery card";
+var mnemonic = "system minor pigeon axis doll model injury crunch extend raw bracket more";

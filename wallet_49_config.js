@@ -1,1 +1,1 @@
-var mnemonic = "hair lumber play afford faith add entry baby produce soap seed action";
+var mnemonic = "seminar adjust just beef link walk police shed brand close spoon loop";

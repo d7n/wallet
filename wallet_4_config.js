@@ -1,1 +1,1 @@
-var mnemonic = "iron october right shed mouse measure clean sweet wrap model crumble faint";
+var mnemonic = "cry flush energy chaos leopard hair broom question sustain reflect put plate";
