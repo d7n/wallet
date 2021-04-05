@@ -1,1 +1,1 @@
-var mnemonic = "large unusual auction hour hungry resemble muffin stock vanish deer infant wonder";
+var mnemonic = "bicycle plug oyster prevent legal online dress ride gown plastic dizzy strong";

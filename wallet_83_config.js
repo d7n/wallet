@@ -1,1 +1,1 @@
-var mnemonic = "cream hundred crunch appear book equal asthma shadow stool scene note foam";
+var mnemonic = "erode notable animal light shuffle dilemma guard tattoo side grow rice doll";

@@ -1,1 +1,1 @@
-var mnemonic = "face toe force horror sense seed venture level solve insect know patch";
+var mnemonic = "runway script quality dune casual element hope course sniff more bracket embark";

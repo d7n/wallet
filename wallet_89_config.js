@@ -1,1 +1,1 @@
-var mnemonic = "rotate suit settle pretty book finger seat apart click volcano syrup claim";
+var mnemonic = "word double neither neither enemy rail mother gospel swamp casino evolve lemon";

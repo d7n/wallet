@@ -1,1 +1,1 @@
-var mnemonic = "festival rent learn okay you civil gauge access awkward jacket solve gallery";
+var mnemonic = "crumble hospital chase heart agree siren donor have future raccoon already loop";

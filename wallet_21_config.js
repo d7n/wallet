@@ -1,1 +1,1 @@
-var mnemonic = "opinion flavor insane trick dog flee patient feel code flavor guitar eagle";
+var mnemonic = "sword bus cry mimic clay tackle still zone enrich report furnace way";

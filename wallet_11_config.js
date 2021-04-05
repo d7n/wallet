@@ -1,1 +1,1 @@
-var mnemonic = "ethics olive develop film regular hope play syrup meat example climb reveal";
+var mnemonic = "certain invest tube wheel lawn coffee bullet promote pet calm issue pitch";

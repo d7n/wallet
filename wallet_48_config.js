@@ -1,1 +1,1 @@
-var mnemonic = "bench marine wealth pudding deer trash must recall refuse rotate educate museum";
+var mnemonic = "call envelope spend pluck pipe custom behave neglect media exhibit local garbage";

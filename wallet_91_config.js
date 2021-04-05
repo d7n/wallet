@@ -1,1 +1,1 @@
-var mnemonic = "inhale erode awful pottery height ahead vault mix nest earth mesh exchange";
+var mnemonic = "mutual slab addict fresh economy diagram bargain weapon dutch forest quality draw";

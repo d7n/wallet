@@ -1,1 +1,1 @@
-var mnemonic = "assume mention path future enhance mask quote dance garlic admit marble evoke";
+var mnemonic = "together speak pupil table cushion clown asthma silly short salute lobster cousin";

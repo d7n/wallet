@@ -1,1 +1,1 @@
-var mnemonic = "roast hundred arrive problem comfort pave pill clerk ordinary embody nation thrive";
+var mnemonic = "glory ghost pupil jar bundle alcohol capable tunnel number crunch saddle blade";

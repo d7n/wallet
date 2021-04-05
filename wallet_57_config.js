@@ -1,1 +1,1 @@
-var mnemonic = "alarm digital arm race draw file panel liar oxygen cute heavy dial";
+var mnemonic = "pass short educate badge dove crucial bag pen island mobile affair hip";

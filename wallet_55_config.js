@@ -1,1 +1,1 @@
-var mnemonic = "husband man thought depth coin gold anxiety saddle chat reason rotate sight";
+var mnemonic = "gaze pluck during crush arrow special energy truth wish dust erosion state";

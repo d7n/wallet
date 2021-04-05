@@ -1,1 +1,1 @@
-var mnemonic = "cliff plug yellow unlock bounce medal shrimp excess refuse patient pause indicate";
+var mnemonic = "spice risk witness upper clip gold tail during life cereal decide gloom";

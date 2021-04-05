@@ -1,1 +1,1 @@
-var mnemonic = "wonder extend veteran boring unfair another salad three quote clarify angle knock";
+var mnemonic = "mushroom economy expect next select forest bleak rail report remain shoot token";

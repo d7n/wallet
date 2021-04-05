@@ -1,1 +1,1 @@
-var mnemonic = "nurse capital scene misery thrive bachelor float wreck cook crystal student supreme";
+var mnemonic = "reunion alley company basic floor cannon soft stomach west avoid tape lucky";

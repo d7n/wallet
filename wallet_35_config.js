@@ -1,1 +1,1 @@
-var mnemonic = "flag caught monster woman remember head entry soccer resist crisp grief auction";
+var mnemonic = "merry mountain escape jewel fox tail angle pulse stage fever pluck swing";

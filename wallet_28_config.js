@@ -1,1 +1,1 @@
-var mnemonic = "return expire veteran element dragon credit thank couple cable aerobic cook again";
+var mnemonic = "mechanic country spoon machine view laundry system devote bargain skull joy girl";

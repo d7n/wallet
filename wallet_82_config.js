@@ -1,1 +1,1 @@
-var mnemonic = "whisper invest laundry casual owner punch note often marriage tongue recipe mixed";
+var mnemonic = "bachelor girl forum extend add goddess echo lake wide believe merry drum";

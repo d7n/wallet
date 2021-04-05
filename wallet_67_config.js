@@ -1,1 +1,1 @@
-var mnemonic = "hawk bring bachelor waste eyebrow spoil tone palace found prosper dutch repair";
+var mnemonic = "dinosaur gain sea eye mind sound chapter tired leg scare issue chicken";

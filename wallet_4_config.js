@@ -1,1 +1,1 @@
-var mnemonic = "gaze cricket just era glow bottom skull guard coast gossip sphere match";
+var mnemonic = "gym motion aisle current flame hamster trick cherry minimum leader attract palm";

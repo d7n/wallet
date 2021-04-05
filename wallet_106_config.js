@@ -1,1 +1,1 @@
-var mnemonic = "junior when hard vibrant fortune legal rose rural ankle police stock feature";
+var mnemonic = "artwork roof fork crawl rare shuffle veteran tag pattern ship question term";

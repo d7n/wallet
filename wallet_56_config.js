@@ -1,1 +1,1 @@
-var mnemonic = "task radio kid fan boat put weird zero hat couple cable industry";
+var mnemonic = "famous heart absurd magic rescue ginger viable planet rate ancient bamboo shield";

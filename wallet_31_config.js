@@ -1,1 +1,1 @@
-var mnemonic = "trip pulse furnace illness fame give year glare voice beach deliver right";
+var mnemonic = "decide fruit riot yellow alpha hedgehog bread home own mass hard peasant";

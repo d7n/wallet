@@ -1,1 +1,1 @@
-var mnemonic = "chef live travel abandon admit lounge first rural enemy alert target hollow";
+var mnemonic = "neutral special labor cruise tree fall skin cloth crop upgrade scrub wool";

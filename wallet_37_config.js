@@ -1,1 +1,1 @@
-var mnemonic = "wreck shove month hungry daring they style zero coin once random sing";
+var mnemonic = "delay mansion cluster crop puppy outdoor expect skill double pond hedgehog exact";

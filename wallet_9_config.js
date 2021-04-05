@@ -1,1 +1,1 @@
-var mnemonic = "exotic wide unaware neutral neglect blast scan retire swallow fiscal patrol fabric";
+var mnemonic = "invite depth cash forum mixture wasp shuffle prize aerobic venture jealous armor";

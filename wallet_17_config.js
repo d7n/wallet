@@ -1,1 +1,1 @@
-var mnemonic = "upper where aspect apology defy quantum yellow adjust wine october planet quiz";
+var mnemonic = "receive number inspire inner host clock jewel resemble solid elite sugar fetch";

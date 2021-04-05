@@ -1,1 +1,1 @@
-var mnemonic = "file lazy enable toddler bid health case walk hidden canyon city forum";
+var mnemonic = "comfort maze like crucial atom second witness rib dice erode grab trust";

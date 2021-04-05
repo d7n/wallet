@@ -1,1 +1,1 @@
-var mnemonic = "lens crush hood tissue fine onion program world lake private fee error";
+var mnemonic = "come rescue crew excess gospel photo inch pattern sense inherit upset step";

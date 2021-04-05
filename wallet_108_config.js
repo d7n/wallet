@@ -1,1 +1,1 @@
-var mnemonic = "tribe supreme manage snow prison truck reopen comic follow when clown defy";
+var mnemonic = "sponsor noble upon all album carry nothing drink spot social film rotate";

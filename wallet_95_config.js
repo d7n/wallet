@@ -1,1 +1,1 @@
-var mnemonic = "squirrel confirm near calm host car aspect stay initial push exchange quote";
+var mnemonic = "suffer defense senior grief host have orphan door perfect sketch stand attend";

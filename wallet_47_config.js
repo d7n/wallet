@@ -1,1 +1,1 @@
-var mnemonic = "dismiss script rhythm aware evil hood decide town news label width anxiety";
+var mnemonic = "push dash measure erase citizen arena shoot vague weather decade ghost seminar";

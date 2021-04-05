@@ -1,1 +1,1 @@
-var mnemonic = "tuition install tree grab rose toilet bachelor lounge scheme chase motion force";
+var mnemonic = "effort present panther false child narrow option stumble vocal snow burger truck";

@@ -1,1 +1,1 @@
-var mnemonic = "pause tree face link vapor loan base month nice road midnight typical";
+var mnemonic = "spot early check range author bracket demise grid buddy try involve maid";

@@ -1,1 +1,1 @@
-var mnemonic = "village toddler wish tumble rude risk decide turkey duck alarm away obtain";
+var mnemonic = "spell struggle planet flower quote mass six purse match protect abandon ridge";

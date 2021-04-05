@@ -1,1 +1,1 @@
-var mnemonic = "inhale copy build parent mimic nation primary mutual ramp enroll glide jazz";
+var mnemonic = "debate resist income hip slender inside pattern board section spike cat ketchup";

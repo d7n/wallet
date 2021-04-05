@@ -1,1 +1,1 @@
-var mnemonic = "truck position various stadium occur merry between stand gorilla coin sunny opera";
+var mnemonic = "slide cousin hungry brave endless utility doctor senior gesture fold vibrant occur";

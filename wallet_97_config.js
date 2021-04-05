@@ -1,1 +1,1 @@
-var mnemonic = "genius rubber corn virus avoid genuine language sight human cat hurdle auction";
+var mnemonic = "film old calm firm seven draft link reward visa canyon will raven";

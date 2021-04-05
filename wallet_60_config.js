@@ -1,1 +1,1 @@
-var mnemonic = "provide resist cliff suggest toe blast shiver major major dizzy piano point";
+var mnemonic = "humble question wink feed february anxiety spell major replace position hospital derive";

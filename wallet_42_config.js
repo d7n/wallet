@@ -1,1 +1,1 @@
-var mnemonic = "marble audit bargain angry rose this salmon pumpkin reflect camera derive cabin";
+var mnemonic = "crash film project black region avocado between accident remember address sustain crop";

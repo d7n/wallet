@@ -1,1 +1,1 @@
-var mnemonic = "post spell candy main side void speak economy virus legend awake rather";
+var mnemonic = "record number stock actual cute era saddle base axis inquiry settle december";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual damp divert initial grocery hub across deposit matter joy risk visit";
+var mnemonic = "abuse eye answer chat pole success fan tell holiday above track number";

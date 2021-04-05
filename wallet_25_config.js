@@ -1,1 +1,1 @@
-var mnemonic = "tobacco mango kit concert cabin amount change view tourist bounce between dismiss";
+var mnemonic = "distance series club squirrel drama sweet disorder century easily paper talk stomach";

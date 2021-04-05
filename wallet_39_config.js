@@ -1,1 +1,1 @@
-var mnemonic = "clap slight spray mouse sail rotate endless diesel detect more hill twist";
+var mnemonic = "pumpkin fix maple version nurse street always because gun genuine online battle";

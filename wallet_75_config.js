@@ -1,1 +1,1 @@
-var mnemonic = "hire drive license hair lizard state music clutch decline school december prepare";
+var mnemonic = "prize yellow combine remove middle member divert nation bulb fix mind amused";

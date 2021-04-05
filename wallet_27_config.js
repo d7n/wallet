@@ -1,1 +1,1 @@
-var mnemonic = "orange olympic either online island hidden lend snake power club sound river";
+var mnemonic = "exercise because pet clip need miss add into soul cereal ring main";

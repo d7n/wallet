@@ -1,1 +1,1 @@
-var mnemonic = "finish monster this hundred skin latin powder wealth spice correct similar rule";
+var mnemonic = "honey dog gym tree prefer drop become rare elite outer eight hire";

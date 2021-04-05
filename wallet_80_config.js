@@ -1,1 +1,1 @@
-var mnemonic = "mammal inflict clump grow rival rhythm disorder judge avocado dwarf fiscal entire";
+var mnemonic = "aerobic install swarm leave rally dawn pistol grief recall tobacco lumber piano";

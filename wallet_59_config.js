@@ -1,1 +1,1 @@
-var mnemonic = "south sign cigar buddy parent green test invest road agent paddle rice";
+var mnemonic = "express sun split unable discover proof catch cage scare decade divide cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet cram stove tattoo inhale half sweet trim lava govern math radar";
+var mnemonic = "twenty island loyal bless dumb member clown news toy repeat social combine";

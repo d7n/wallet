@@ -1,1 +1,1 @@
-var mnemonic = "fancy daring practice city hood actual area bag jump knee slight rain";
+var mnemonic = "ethics poverty world foam force bamboo poverty soon party season help friend";

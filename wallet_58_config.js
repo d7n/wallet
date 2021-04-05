@@ -1,1 +1,1 @@
-var mnemonic = "outside window drift toast web double deputy inform bacon double theory body";
+var mnemonic = "cherry piece parent vast outdoor flame spy exercise waste impulse reunion child";

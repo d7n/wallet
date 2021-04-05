@@ -1,1 +1,1 @@
-var mnemonic = "cream tenant leisure always snack slam hollow apology worry step nature visa";
+var mnemonic = "perfect stove cricket guess flat garlic chat olive since essence divert dilemma";

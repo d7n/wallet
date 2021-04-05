@@ -1,1 +1,1 @@
-var mnemonic = "country bright trend rapid relax month dawn degree decide luggage catch possible";
+var mnemonic = "force letter exile jaguar again various close subway coral keep worry artefact";

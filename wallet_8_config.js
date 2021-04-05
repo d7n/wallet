@@ -1,1 +1,1 @@
-var mnemonic = "dance drill thank purchase swift actress dolphin cement frozen cluster lend bounce";
+var mnemonic = "legal rose grace april fringe primary level label inside catch advice name";

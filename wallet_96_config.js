@@ -1,1 +1,1 @@
-var mnemonic = "normal hybrid type mixture want scorpion frequent barely chair float banana stone";
+var mnemonic = "horn front collect height sort shy depth pumpkin general runway produce correct";

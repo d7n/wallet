@@ -1,1 +1,1 @@
-var mnemonic = "must dismiss click skill flush broom success movie region involve better bar";
+var mnemonic = "noodle easy cause start mixture hip cousin equal deputy crowd move salute";

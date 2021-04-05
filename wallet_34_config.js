@@ -1,1 +1,1 @@
-var mnemonic = "twin moral celery cupboard raven winter fluid gather awake forest beef fruit";
+var mnemonic = "ceiling ensure demise ribbon orchard blind measure jump final hand jealous inform";

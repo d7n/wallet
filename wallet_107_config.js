@@ -1,1 +1,1 @@
-var mnemonic = "rather gossip skill curve allow sorry alpha review arm level believe certain";
+var mnemonic = "oval tortoise canal foil fence twin street great inherit mutual uniform erosion";

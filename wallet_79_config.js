@@ -1,1 +1,1 @@
-var mnemonic = "aware special swap cave uncle copper private powder code gallery number whip";
+var mnemonic = "session harsh utility victory atom bachelor novel dial mixture answer abandon social";

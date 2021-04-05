@@ -1,1 +1,1 @@
-var mnemonic = "saddle web toy casual mad credit suit humble blur salute weapon develop";
+var mnemonic = "this symbol cram nuclear busy require apart diesel wreck sorry sample please";

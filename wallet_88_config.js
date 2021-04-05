@@ -1,1 +1,1 @@
-var mnemonic = "zebra rhythm foster cattle horror federal brother addict garage group hover trouble";
+var mnemonic = "curtain genuine clump utility tag describe island hobby ritual romance mass noise";

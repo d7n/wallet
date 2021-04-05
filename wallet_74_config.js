@@ -1,1 +1,1 @@
-var mnemonic = "call soup gold invite damage knock butter stove solution admit net boil";
+var mnemonic = "vicious world salute coin wisdom weird dune disease story couch congress lonely";

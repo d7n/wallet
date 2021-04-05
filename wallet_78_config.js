@@ -1,1 +1,1 @@
-var mnemonic = "admit ride inmate recipe addict trim rigid scissors suggest trouble throw point";
+var mnemonic = "quality course segment detail vital rotate project only ski theme acid remove";

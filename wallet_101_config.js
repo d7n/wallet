@@ -1,1 +1,1 @@
-var mnemonic = "ride gift bullet weekend soldier tobacco tennis cube transfer document figure safe";
+var mnemonic = "bomb tribe hat goose cloud riot abstract cage slogan soccer outside eye";

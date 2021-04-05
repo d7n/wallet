@@ -1,1 +1,1 @@
-var mnemonic = "open sorry bacon pattern mixture force rabbit beach top sad mail soft";
+var mnemonic = "head kangaroo pen cactus cart infant post any general subject drift mad";

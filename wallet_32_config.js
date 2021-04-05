@@ -1,1 +1,1 @@
-var mnemonic = "stem shift final beach balance shove promote family design answer palm monitor";
+var mnemonic = "increase return apology discover message luggage minimum aunt piano change card capable";

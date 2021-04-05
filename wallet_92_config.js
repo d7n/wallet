@@ -1,1 +1,1 @@
-var mnemonic = "win glide rail verify ship dynamic taxi tonight joy top eternal syrup";
+var mnemonic = "anger real calm laugh arrive bright route disagree tiger traffic inspire nest";

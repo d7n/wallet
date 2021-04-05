@@ -1,1 +1,1 @@
-var mnemonic = "inmate video bird claw book turkey lift artefact spare scale pass noodle";
+var mnemonic = "advice lift custom link melody program tree disorder tissue burger mouse pole";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe piano price limit educate alter easy reason steak also reveal nothing";
+var mnemonic = "rally arena peace unit volcano maximum domain pole copper example february remain";

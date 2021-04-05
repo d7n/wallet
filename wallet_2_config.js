@@ -1,1 +1,1 @@
-var mnemonic = "twin boy inmate expand exclude lunar giggle disease suspect pencil lend december";
+var mnemonic = "fever able athlete guide cruise reflect shrug skull capable grunt ten carpet";

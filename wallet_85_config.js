@@ -1,1 +1,1 @@
-var mnemonic = "shy furnace super custom treat gift exchange basket public rookie fury parade";
+var mnemonic = "record vicious seek room price divorce vibrant balcony regular pencil patch village";

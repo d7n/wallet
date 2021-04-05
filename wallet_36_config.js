@@ -1,1 +1,1 @@
-var mnemonic = "vacant latin melody allow system one fly bleak dinner test delay trouble";
+var mnemonic = "barely process produce bleak crawl head thing angle vivid capable lawsuit device";

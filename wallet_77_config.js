@@ -1,1 +1,1 @@
-var mnemonic = "bag uphold agree obscure drive type dirt coil hen float canyon village";
+var mnemonic = "engage model skill frozen myself moon buffalo proud farm only name method";

@@ -1,1 +1,1 @@
-var mnemonic = "dove bunker either myself coconut boost jealous coil wood shallow situate filter";
+var mnemonic = "this various armed payment beauty find hotel source feed hobby weather need";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge easy trust egg oval goose object helmet escape ahead flat noodle";
+var mnemonic = "demise glass miss reflect front boost elbow element envelope picnic people tooth";

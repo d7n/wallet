@@ -1,1 +1,1 @@
-var mnemonic = "adult play friend laptop piano reopen coral december apology target anger tube";
+var mnemonic = "stand submit dove syrup include valley tube lounge behave equip breeze angle";

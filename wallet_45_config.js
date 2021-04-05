@@ -1,1 +1,1 @@
-var mnemonic = "glove lens moral daring double ocean hurry primary worth find observe convince";
+var mnemonic = "retire merit social cabbage day unfair muffin zero clip primary genius barely";

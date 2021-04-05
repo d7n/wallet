@@ -1,1 +1,1 @@
-var mnemonic = "night brass fragile jealous meadow below two hold gesture decade game must";
+var mnemonic = "erupt race produce topic royal poet unveil retire invite valve smooth calm";

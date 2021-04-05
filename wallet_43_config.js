@@ -1,1 +1,1 @@
-var mnemonic = "veteran panic ask despair coral dumb taste fresh bronze clown bike crop";
+var mnemonic = "abstract artwork exhaust empower name swamp sugar swift pitch boy nephew feed";

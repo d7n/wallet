@@ -1,1 +1,1 @@
-var mnemonic = "demise either erosion jaguar giraffe group good peanut ladder congress fitness false";
+var mnemonic = "bargain oyster scheme pyramid rice naive crucial labor project pipe bridge error";

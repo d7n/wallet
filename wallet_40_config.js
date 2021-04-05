@@ -1,1 +1,1 @@
-var mnemonic = "end echo story arrest gauge usage become purity seat cage pride blast";
+var mnemonic = "wool sibling copy canvas lawsuit melt horror pepper edit always ocean limit";

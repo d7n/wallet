@@ -1,1 +1,1 @@
-var mnemonic = "depend night enemy coral cage focus wisdom clinic announce miracle essay diary";
+var mnemonic = "then dial stairs panic camera level help elite ranch urge sound nest";

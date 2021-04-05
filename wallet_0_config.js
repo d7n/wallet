@@ -1,1 +1,1 @@
-var mnemonic = "field pig sentence despair increase rude junior pelican taste school jungle slab";
+var mnemonic = "under love enforce swim pink must cost decorate ripple say rapid rule";

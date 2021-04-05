@@ -1,1 +1,1 @@
-var mnemonic = "license width horse west busy tumble divert sea sense leave resemble chat";
+var mnemonic = "destroy camera offer nest piece appear mask tilt love castle grocery forward";

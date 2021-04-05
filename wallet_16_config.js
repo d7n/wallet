@@ -1,1 +1,1 @@
-var mnemonic = "intact random viable rose apart history ranch motor relief hobby property eagle";
+var mnemonic = "phrase horse duty crime puppy busy predict poem leg sunset quantum music";

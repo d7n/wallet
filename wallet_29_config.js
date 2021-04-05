@@ -1,1 +1,1 @@
-var mnemonic = "harsh major fox exhibit easily bleak iron garden current vacuum jazz change";
+var mnemonic = "chapter future mutual slab cruise blush reopen alone dolphin beach poem frequent";

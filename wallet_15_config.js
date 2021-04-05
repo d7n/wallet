@@ -1,1 +1,1 @@
-var mnemonic = "cause design also crush saddle rally benefit snow deer broken army patrol";
+var mnemonic = "eight shrimp bunker valid april mountain raise grass gaze virtual sweet volcano";

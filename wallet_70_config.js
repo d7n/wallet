@@ -1,1 +1,1 @@
-var mnemonic = "melody slam various cattle size increase eager miss bounce piece dove message";
+var mnemonic = "orbit price example suggest knee quality axis clock rookie swamp unlock treat";

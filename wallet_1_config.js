@@ -1,1 +1,1 @@
-var mnemonic = "silver manual toast twist park pioneer struggle parrot viable gaze dinosaur off";
+var mnemonic = "monitor sound one relax attack toy flavor wisdom claim dress vibrant mule";

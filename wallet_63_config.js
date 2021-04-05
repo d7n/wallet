@@ -1,1 +1,1 @@
-var mnemonic = "slogan game cousin assume season sand install bleak frozen kiwi peanut sword";
+var mnemonic = "margin toe quiz urge culture rescue alone south ecology fly ethics powder";

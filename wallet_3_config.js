@@ -1,1 +1,1 @@
-var mnemonic = "gentle midnight paper satoshi hybrid process scatter blade chicken snack symbol liberty";
+var mnemonic = "polar crazy hidden trip alarm area vapor security sun drastic abandon spoil";

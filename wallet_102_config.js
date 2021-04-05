@@ -1,1 +1,1 @@
-var mnemonic = "trigger girl police hire board coast rib cruel rally pig lend angry";
+var mnemonic = "cliff uncover bird soul response rescue poverty ski response pen estate mind";

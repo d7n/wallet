@@ -1,1 +1,1 @@
-var mnemonic = "symptom business fine sock nurse jeans error multiply bike warfare vacant author";
+var mnemonic = "unknown high current remember awful harbor word cactus pudding picture autumn student";
