@@ -1,1 +1,1 @@
-var mnemonic = "setup guard baby process strike primary sponsor estate candy man clarify tone";
+var mnemonic = "violin lens priority soft certain frog struggle hospital fresh armor cage manual";

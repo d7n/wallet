@@ -1,1 +1,1 @@
-var mnemonic = "master artist pupil device script crawl unique stay receive tunnel steak repeat";
+var mnemonic = "latin tattoo buzz repair pelican solar wild under bean confirm drip brave";

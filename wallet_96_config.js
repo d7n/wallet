@@ -1,1 +1,1 @@
-var mnemonic = "wonder airport rose repair adapt prize shoot cupboard region farm burden breeze";
+var mnemonic = "police brother bone furnace broken glide avocado merge thank car clump stand";

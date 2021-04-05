@@ -1,1 +1,1 @@
-var mnemonic = "risk figure repeat coffee torch taste pottery solution trash service enact emotion";
+var mnemonic = "phone daughter early slam utility soldier deer undo mushroom large tide door";

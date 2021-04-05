@@ -1,1 +1,1 @@
-var mnemonic = "vehicle since same shallow visit domain inch dune wreck element naive daughter";
+var mnemonic = "witness segment magic cram guide dove unaware enough trim cute effort talk";

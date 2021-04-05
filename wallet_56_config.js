@@ -1,1 +1,1 @@
-var mnemonic = "theme ride cup fan pave wine danger core weekend defy tide shift";
+var mnemonic = "scare warrior little peace crop person million select polar canyon team follow";

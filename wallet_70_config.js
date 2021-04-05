@@ -1,1 +1,1 @@
-var mnemonic = "render oyster occur pave vehicle glare gym attend source goose soda uncover";
+var mnemonic = "almost gauge crop evolve impulse young exile marine relief resource marriage cargo";

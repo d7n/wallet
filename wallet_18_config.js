@@ -1,1 +1,1 @@
-var mnemonic = "skin trip please orange gentle wing method execute erase park era episode";
+var mnemonic = "guide vicious broccoli train cause jeans trouble glimpse velvet jump cannon balcony";

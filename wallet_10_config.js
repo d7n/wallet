@@ -1,1 +1,1 @@
-var mnemonic = "picture siren thank detail enlist arena connect biology favorite oxygen birth cupboard";
+var mnemonic = "soul praise lens aisle wrestle tragic alter sea tennis tiger boat lunar";

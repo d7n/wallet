@@ -1,1 +1,1 @@
-var mnemonic = "parade seed like trash purchase unveil venture club bacon cattle clap ranch";
+var mnemonic = "beef spoon allow rescue diamond game trial canyon suggest face sell pen";

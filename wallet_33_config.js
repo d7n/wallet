@@ -1,1 +1,1 @@
-var mnemonic = "fold warrior hurry frown cause ritual boss caught jazz you melody subject";
+var mnemonic = "observe during tiger midnight enemy symptom cupboard forget great produce mass derive";

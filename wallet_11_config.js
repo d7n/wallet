@@ -1,1 +1,1 @@
-var mnemonic = "place august ramp adapt shoulder farm thank panel item year settle doctor";
+var mnemonic = "assault always orchard valley occur borrow crush language exhibit jealous trust boss";

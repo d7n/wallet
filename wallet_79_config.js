@@ -1,1 +1,1 @@
-var mnemonic = "limit boat car crew property cover tattoo novel salt ketchup hand space";
+var mnemonic = "front rich sorry truth renew club method logic width benefit still inspire";

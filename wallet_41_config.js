@@ -1,1 +1,1 @@
-var mnemonic = "slam giant already cream enable couch grape slender mesh summer between agent";
+var mnemonic = "radar ankle slide creek soul pulse radio sell bitter gain key come";

@@ -1,1 +1,1 @@
-var mnemonic = "toe sail combine diamond tired outer century luxury awesome patch bonus stumble";
+var mnemonic = "gift increase own zero action animal agent repair vessel insane life slim";

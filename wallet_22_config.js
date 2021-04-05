@@ -1,1 +1,1 @@
-var mnemonic = "abstract flavor bubble sausage donkey dash pave bus stereo bus match symbol";
+var mnemonic = "actress child lunar hobby pipe describe develop apple fit victory heart opinion";

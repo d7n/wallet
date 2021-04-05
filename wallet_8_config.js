@@ -1,1 +1,1 @@
-var mnemonic = "sense you dirt hat sausage cradle hedgehog happy worry main script wolf";
+var mnemonic = "vote assist culture prison hockey visual nephew child subject grant float wine";

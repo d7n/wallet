@@ -1,1 +1,1 @@
-var mnemonic = "open table cousin drip area embody little better gaze vault current glow";
+var mnemonic = "square custom mercy dice skirt wrap abandon clip patrol actress vendor erode";

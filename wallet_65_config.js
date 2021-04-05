@@ -1,1 +1,1 @@
-var mnemonic = "blade typical must other craft custom raw mask trial mask alien cabbage";
+var mnemonic = "outside beyond camera quote spell august simple claw clap sunset federal fly";

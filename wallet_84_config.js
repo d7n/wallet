@@ -1,1 +1,1 @@
-var mnemonic = "response liar december like planet patrol tube grit snake much call identify";
+var mnemonic = "base pretty carbon tell scheme crew gather fault egg random laugh panic";

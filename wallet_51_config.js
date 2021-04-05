@@ -1,1 +1,1 @@
-var mnemonic = "fun meadow scan vacuum guilt bulk hidden attract junior minor shell rely";
+var mnemonic = "educate alarm blur dragon oyster foot true powder seed brisk tent drift";

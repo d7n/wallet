@@ -1,1 +1,1 @@
-var mnemonic = "wash kiwi school admit seat produce winner permit steel more vibrant device";
+var mnemonic = "exit shift push lab whip feed olympic margin soup payment taste sadness";

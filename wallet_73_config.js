@@ -1,1 +1,1 @@
-var mnemonic = "survey give tribe client ritual lobster auction push wild wash certain inmate";
+var mnemonic = "soccer action task cloud annual panel swarm scheme field skin toss primary";

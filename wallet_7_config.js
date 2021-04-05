@@ -1,1 +1,1 @@
-var mnemonic = "camera describe lottery survey fly guitar february sheriff group more sport label";
+var mnemonic = "tuna need emotion cabin knee tiger tuition drop elephant post popular video";

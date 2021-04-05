@@ -1,1 +1,1 @@
-var mnemonic = "there legend engage dinosaur surround relax twice lazy human young guess elite";
+var mnemonic = "climb great inherit bright body gaze mystery festival burger ginger tissue turtle";

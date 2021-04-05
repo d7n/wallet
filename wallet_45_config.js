@@ -1,1 +1,1 @@
-var mnemonic = "powder decade load floor earth sauce alone strong betray dish deliver curtain";
+var mnemonic = "student include large alcohol soldier nuclear tortoise boss panther fashion that train";

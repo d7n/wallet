@@ -1,1 +1,1 @@
-var mnemonic = "session radio wire property vivid deny shed method blush address train pass";
+var mnemonic = "company wave wall search garden hole now cool soul bind find axis";

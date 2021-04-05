@@ -1,1 +1,1 @@
-var mnemonic = "trial raise crater oxygen wall soldier dune link gun pen load shove";
+var mnemonic = "key infant space popular recipe gadget holiday modify heavy bomb remain regret";

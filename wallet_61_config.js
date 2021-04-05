@@ -1,1 +1,1 @@
-var mnemonic = "second subject horror jelly mobile shoot fence slogan toward beyond retreat undo";
+var mnemonic = "kitten life march dry chief patrol glare marine maid hazard vessel genuine";

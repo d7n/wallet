@@ -1,1 +1,1 @@
-var mnemonic = "bring uniform weather obvious banner matrix benefit win life gate space season";
+var mnemonic = "three produce early tuna lucky battle boss other control helmet chapter alpha";

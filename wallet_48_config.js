@@ -1,1 +1,1 @@
-var mnemonic = "release avoid lift wagon vacuum hybrid two rough sword hip jump squirrel";
+var mnemonic = "virus delay creek smile limit student describe hard sound gaze camera bunker";

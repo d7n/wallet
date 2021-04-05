@@ -1,1 +1,1 @@
-var mnemonic = "crash good royal analyst warrior hover neither traffic brick soon detail view";
+var mnemonic = "affair invest matrix alone essay vote chair blind lady unaware acid friend";

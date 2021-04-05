@@ -1,1 +1,1 @@
-var mnemonic = "hand fitness start talent umbrella shoe race harvest between pistol fade pride";
+var mnemonic = "link pizza praise long fantasy skill click impulse multiply burden mirror describe";

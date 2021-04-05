@@ -1,1 +1,1 @@
-var mnemonic = "identify alley muscle lock cancel noble pony kidney merry circle culture aerobic";
+var mnemonic = "burger execute federal leopard patient gorilla dinner empty frown inner prosper dish";

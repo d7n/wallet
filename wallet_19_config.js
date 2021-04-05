@@ -1,1 +1,1 @@
-var mnemonic = "miracle scrub canoe suspect spawn proof predict business wine embrace false true";
+var mnemonic = "region regret foster absorb little satisfy voice video canoe attend wink gun";

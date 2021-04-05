@@ -1,1 +1,1 @@
-var mnemonic = "seven risk wedding weapon make they over decline display soda hill amount";
+var mnemonic = "gather hybrid green nice canyon nasty usual dry cat clarify mixture mind";

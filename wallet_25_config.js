@@ -1,1 +1,1 @@
-var mnemonic = "mom fragile bacon alien change exotic frame produce anger twelve dismiss ticket";
+var mnemonic = "brown unhappy upset expose divorce length tip math trade sentence face minor";

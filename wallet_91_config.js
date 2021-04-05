@@ -1,1 +1,1 @@
-var mnemonic = "upper fence cube material gloom thumb view canvas stick viable eyebrow thing";
+var mnemonic = "verify crane soul setup cliff surround mechanic culture safe employ puppy honey";

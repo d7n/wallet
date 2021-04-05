@@ -1,1 +1,1 @@
-var mnemonic = "emotion cook abandon alpha barely hold pet excuse insane menu habit surface";
+var mnemonic = "version business bench rifle mansion submit bottom fringe maid wheel broken rack";

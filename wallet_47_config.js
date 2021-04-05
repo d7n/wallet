@@ -1,1 +1,1 @@
-var mnemonic = "scrub outdoor man salmon abandon civil inhale nice suggest search advice hollow";
+var mnemonic = "warrior race soda day runway shine pair family audit achieve ladder camera";

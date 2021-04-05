@@ -1,1 +1,1 @@
-var mnemonic = "borrow aisle bracket mistake poet giant shoe caution quality chest burger tunnel";
+var mnemonic = "another style rubber swarm open matter equip mistake shrug carbon diesel kidney";

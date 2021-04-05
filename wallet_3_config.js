@@ -1,1 +1,1 @@
-var mnemonic = "elbow assist buffalo cost easily entire excuse ceiling exhibit dwarf sugar beauty";
+var mnemonic = "tourist torch jelly spot lend indicate galaxy snap cupboard series detail wrist";

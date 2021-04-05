@@ -1,1 +1,1 @@
-var mnemonic = "ivory under pattern pulse purpose grid story random plate skull rough verb";
+var mnemonic = "float flock medal join glance crew pilot neutral merry keen across load";

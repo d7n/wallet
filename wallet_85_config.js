@@ -1,1 +1,1 @@
-var mnemonic = "hamster often cart amateur ginger swarm fish tenant awake thank kidney reward";
+var mnemonic = "mushroom question share abuse moon couple old chaos save exclude turn present";

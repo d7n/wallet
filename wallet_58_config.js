@@ -1,1 +1,1 @@
-var mnemonic = "apart zone hold patient snap tooth sea female south dice vote grief";
+var mnemonic = "demise weasel shuffle neglect other area student pottery once elephant talent tomato";

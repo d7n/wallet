@@ -1,1 +1,1 @@
-var mnemonic = "humor odor purchase achieve push bitter hockey insane purchase dizzy claw soap";
+var mnemonic = "elite stomach snap device reopen filter glory select crop hood unlock acquire";

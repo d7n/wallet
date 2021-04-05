@@ -1,1 +1,1 @@
-var mnemonic = "anxiety crack relief pill glare swap pizza decade apart minute mistake party";
+var mnemonic = "stairs pottery exist under swift level prize super silk leaf crystal table";

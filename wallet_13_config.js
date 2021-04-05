@@ -1,1 +1,1 @@
-var mnemonic = "kidney direct beauty visual photo mother length grief calm sheriff bamboo length";
+var mnemonic = "relax great siege interest symbol soldier current start jungle glue unhappy aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "truck emerge harsh various promote worth together bless stereo dawn convince kidney";
+var mnemonic = "runway abuse myth neutral twelve twenty loop alcohol cool distance scrub impact";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit endorse dry image pony dinosaur crystal desert point tomato item cool";
+var mnemonic = "gate hundred unusual canyon solution coil beach upper sense exact whip tiny";

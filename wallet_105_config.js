@@ -1,1 +1,1 @@
-var mnemonic = "dignity devote scale clip lend glide snake canoe put athlete course oven";
+var mnemonic = "recipe heavy protect portion half mule edge profit ride chalk great wild";

@@ -1,1 +1,1 @@
-var mnemonic = "almost north review resist tree panel grape boat seminar unhappy mercy powder";
+var mnemonic = "steel visual excuse hockey waste master chair drastic endless wise mail earth";

@@ -1,1 +1,1 @@
-var mnemonic = "paper muscle carbon recipe control display yellow wife speed kid wreck viable";
+var mnemonic = "fiction book scatter rug honey link pink cause track farm left coast";

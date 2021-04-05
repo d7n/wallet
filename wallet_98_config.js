@@ -1,1 +1,1 @@
-var mnemonic = "dust dumb quarter fun lady plastic void spawn example giant banner decorate";
+var mnemonic = "live weird prosper round coconut right stable saddle please glide key layer";

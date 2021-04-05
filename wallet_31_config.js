@@ -1,1 +1,1 @@
-var mnemonic = "sign powder chronic wish anxiety dynamic coyote couch orphan achieve science misery";
+var mnemonic = "match review hand error width chimney machine assault ill barrel valley truck";

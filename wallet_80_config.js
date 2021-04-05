@@ -1,1 +1,1 @@
-var mnemonic = "fancy street point force village pair crash practice rely virtual install illness";
+var mnemonic = "keep evolve vote will guide birth panther iron small able replace inner";

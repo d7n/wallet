@@ -1,1 +1,1 @@
-var mnemonic = "abandon mammal tree hen mom avocado energy smile impulse miss siren excess";
+var mnemonic = "worth sail wagon meat ranch jaguar stool gap used around sadness wire";

@@ -1,1 +1,1 @@
-var mnemonic = "electric valid rhythm friend move lemon insect august run box uncover trophy";
+var mnemonic = "lounge hobby wife flag orchard insane lobster silver quit demise confirm napkin";

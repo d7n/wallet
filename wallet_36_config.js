@@ -1,1 +1,1 @@
-var mnemonic = "ability slam matrix uncle joke inform egg together mercy parent crime tilt";
+var mnemonic = "scissors critic private board fatigue flower area motion merry erase adapt record";

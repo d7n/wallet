@@ -1,1 +1,1 @@
-var mnemonic = "report gospel mesh saddle opinion chef guitar opinion danger more swap surround";
+var mnemonic = "gravity tide crumble spice noise time grace fish sword differ moment staff";

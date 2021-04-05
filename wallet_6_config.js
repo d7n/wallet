@@ -1,1 +1,1 @@
-var mnemonic = "season dinosaur siege spirit comfort leisure subway cube obscure stumble air rude";
+var mnemonic = "capable test amazing marriage segment author below payment buyer also crystal top";

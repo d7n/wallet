@@ -1,1 +1,1 @@
-var mnemonic = "later group scale enrich casino income celery apology wreck appear nominee giggle";
+var mnemonic = "tool kite element moon account nature merry vocal drill erosion credit resist";

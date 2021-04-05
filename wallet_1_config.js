@@ -1,1 +1,1 @@
-var mnemonic = "behind else route coyote fade scout fall vault forget flag trim primary";
+var mnemonic = "finish fancy capable bind abuse purse memory remind comfort horror favorite keep";

@@ -1,1 +1,1 @@
-var mnemonic = "start furnace amazing trend shrug roof luxury boring clerk vacant execute shy";
+var mnemonic = "tongue eye panther jewel sad bracket divide capable danger cube summer pledge";

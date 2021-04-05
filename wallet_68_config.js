@@ -1,1 +1,1 @@
-var mnemonic = "lounge exclude lunch shop face monkey buffalo suggest guitar comfort ostrich seed";
+var mnemonic = "indoor captain aunt aim mobile sudden exercise sunset erupt accident appear antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "nose dose fix car cement web shell magic where share omit grid";
+var mnemonic = "sentence spatial raven begin exhaust sock again lens shove uphold treat family";

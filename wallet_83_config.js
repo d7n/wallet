@@ -1,1 +1,1 @@
-var mnemonic = "same purchase settle sunny erode magnet oven cube alcohol shop pelican miracle";
+var mnemonic = "chief force social couple wall laptop nothing clarify luxury dolphin cement grace";

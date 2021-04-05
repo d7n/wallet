@@ -1,1 +1,1 @@
-var mnemonic = "find index feed quantum shuffle humble debate hobby puzzle base where walnut";
+var mnemonic = "jeans girl require dignity mushroom pigeon shrug inside scene matter same modify";

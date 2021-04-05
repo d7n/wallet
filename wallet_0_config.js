@@ -1,1 +1,1 @@
-var mnemonic = "basket captain opera effort current because resist camp drama common number vanish";
+var mnemonic = "bind repeat teach city become early march hurt enter deposit betray into";

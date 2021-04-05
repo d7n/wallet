@@ -1,1 +1,1 @@
-var mnemonic = "tape beach rich canvas shuffle actress bunker labor cricket word useful social";
+var mnemonic = "labor primary dove canvas corn rug bench mirror desk mechanic off plug";

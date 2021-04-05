@@ -1,1 +1,1 @@
-var mnemonic = "hurt unfold nose beyond absorb enlist hungry amateur city fiction curve peace";
+var mnemonic = "payment trap orchard message awake rabbit claw wide stuff tumble repair resemble";

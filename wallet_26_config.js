@@ -1,1 +1,1 @@
-var mnemonic = "inspire long clutch range clutch certain across fix include kiwi vendor valve";
+var mnemonic = "shop hair tag aerobic barrel spice cushion service gather pair rebel bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle master wet lens icon crash heavy coin fluid quit spell resemble";
+var mnemonic = "federal pass orbit when illegal dinner assist raise powder amateur goose patch";

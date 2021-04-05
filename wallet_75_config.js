@@ -1,1 +1,1 @@
-var mnemonic = "museum jar track cactus figure age canyon finger hour language similar between";
+var mnemonic = "journey busy nut short tube ship seek twin cram return winner slam";

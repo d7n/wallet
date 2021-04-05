@@ -1,1 +1,1 @@
-var mnemonic = "manage actor must weapon try captain copy carry note west comic laugh";
+var mnemonic = "swallow rigid almost anxiety allow muscle order neck shine harbor betray trip";

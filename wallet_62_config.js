@@ -1,1 +1,1 @@
-var mnemonic = "embark rhythm relax tip give dragon material hazard speak bronze indoor simple";
+var mnemonic = "humor order boy print aisle author canyon sea type resist measure vicious";

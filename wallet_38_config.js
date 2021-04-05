@@ -1,1 +1,1 @@
-var mnemonic = "holiday grit cloth place address video truck lemon file caution swim color";
+var mnemonic = "income rifle cat gun time uncle useless ability flat electric bachelor client";

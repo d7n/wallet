@@ -1,1 +1,1 @@
-var mnemonic = "want member victory disease parrot suspect aspect rocket impose pass strike pigeon";
+var mnemonic = "visit head keep hamster notable mail surface bunker bring onion crisp chronic";

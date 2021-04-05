@@ -1,1 +1,1 @@
-var mnemonic = "ginger mesh hair boat negative owner cup cement soup bargain axis kitten";
+var mnemonic = "garage library glove blade heart stem device parade virus remove oval rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "tray planet satisfy bundle amazing tomorrow share invest myth cabbage dizzy gift";
+var mnemonic = "define castle dizzy slide girl column carpet awful citizen actress crater fiber";

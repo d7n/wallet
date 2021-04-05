@@ -1,1 +1,1 @@
-var mnemonic = "kingdom awful viable solve month judge route front habit fence future wear";
+var mnemonic = "tissue later nut soccer metal win produce category slot version promote wine";

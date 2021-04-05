@@ -1,1 +1,1 @@
-var mnemonic = "total cause bench embark asthma bless glove also switch soft oval reason";
+var mnemonic = "kite raven casino napkin arctic connect trash seek orange off name slender";

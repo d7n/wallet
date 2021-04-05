@@ -1,1 +1,1 @@
-var mnemonic = "almost tourist yard market sponsor rely require enroll hobby scrub net evolve";
+var mnemonic = "bike secret need turn space race curious special enact monitor canal metal";

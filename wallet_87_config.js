@@ -1,1 +1,1 @@
-var mnemonic = "giggle become anger recycle guide coast agent lyrics erase small weird brass";
+var mnemonic = "media someone kiwi range style tail maximum jump obtain solid witness evil";

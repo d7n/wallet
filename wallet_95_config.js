@@ -1,1 +1,1 @@
-var mnemonic = "menu fun rather melt across moment sight pink barely rich hedgehog opinion";
+var mnemonic = "prize flight organ mammal across between random dynamic fashion client stool property";

@@ -1,1 +1,1 @@
-var mnemonic = "angry black rice another anxiety surprise chunk battle junk army thunder enforce";
+var mnemonic = "object pair ankle priority reduce cloth father clip bicycle device infant soft";

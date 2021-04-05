@@ -1,1 +1,1 @@
-var mnemonic = "there once monkey drop garlic melt fit exist roast sheriff shine shove";
+var mnemonic = "rather swing dutch ill assist region bag powder road grant truly mansion";

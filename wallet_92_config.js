@@ -1,1 +1,1 @@
-var mnemonic = "clutch master merry top depend chimney sock clown mammal warm make special";
+var mnemonic = "grace switch snake element fortune supply hold seat bird depart alcohol false";

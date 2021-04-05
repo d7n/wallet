@@ -1,1 +1,1 @@
-var mnemonic = "frog pudding question cruel toast affair giggle parent plastic bridge arrow horse";
+var mnemonic = "guide live wage arrange turtle inform perfect remind space indoor offer exist";

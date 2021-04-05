@@ -1,1 +1,1 @@
-var mnemonic = "orchard wreck area favorite trouble stomach solve develop demand hat dice tourist";
+var mnemonic = "about estate betray silly casual path cry jump era tower snack convince";

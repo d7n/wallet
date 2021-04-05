@@ -1,1 +1,1 @@
-var mnemonic = "edit song lesson feel category sleep screen certain capable trumpet gentle night";
+var mnemonic = "cheese pull grab inherit donkey jaguar essence stadium palm mix arm surface";
