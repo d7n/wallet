@@ -1,1 +1,1 @@
-var mnemonic = "example wedding crucial sauce fine spread smooth wear feature poverty net artwork";
+var mnemonic = "donkey leg mandate entire what coyote grit tomorrow cotton ring regret curtain";

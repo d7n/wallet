@@ -1,1 +1,1 @@
-var mnemonic = "few twenty control pipe kingdom day blush pulse chaos hedgehog luggage aware";
+var mnemonic = "diagram lounge same jazz track dust celery energy lemon rapid wrist walnut";

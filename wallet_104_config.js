@@ -1,1 +1,1 @@
-var mnemonic = "couch update find share twin opera dial same behind gesture duck frown";
+var mnemonic = "bacon bargain source topple shift transfer parade goddess lens mango sustain toast";

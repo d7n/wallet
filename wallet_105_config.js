@@ -1,1 +1,1 @@
-var mnemonic = "nest vapor material insane legal insect erosion immense hybrid retreat pigeon tip";
+var mnemonic = "put table dance discover federal option kitten increase labor wash fortune second";

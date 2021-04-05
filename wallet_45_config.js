@@ -1,1 +1,1 @@
-var mnemonic = "news elephant country episode boost across lounge leader knife symptom silver nice";
+var mnemonic = "ecology village speak away song stable section couch silent hat nerve defy";

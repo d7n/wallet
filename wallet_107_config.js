@@ -1,1 +1,1 @@
-var mnemonic = "pelican debris language horror mass arrest stadium check universe chalk brown anchor";
+var mnemonic = "monkey recall require apart knock butter rather system because cream bundle twice";

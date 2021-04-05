@@ -1,1 +1,1 @@
-var mnemonic = "spell girl tobacco pretty remove screen dolphin nominee raccoon chest cliff gospel";
+var mnemonic = "world rely neutral ride era coach absent weird outside spoon crush bright";

@@ -1,1 +1,1 @@
-var mnemonic = "axis give tilt mushroom behave carry cereal sponsor saddle sudden mirror grid";
+var mnemonic = "tower flock wrong blush carpet permit alter find crowd auction safe indoor";

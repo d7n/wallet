@@ -1,1 +1,1 @@
-var mnemonic = "heart alone position loud example dice wolf brush travel recipe loyal scissors";
+var mnemonic = "entry ship private hidden arrive wall twenty cupboard wrestle suggest culture service";

@@ -1,1 +1,1 @@
-var mnemonic = "only finger favorite arrow update early bench rare slot mandate marriage day";
+var mnemonic = "route seven food gap sure utility glance stuff chef illegal great liar";

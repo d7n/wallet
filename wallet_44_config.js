@@ -1,1 +1,1 @@
-var mnemonic = "couple advance special border lonely gather huge shoulder fresh pulp song flower";
+var mnemonic = "second spring mixed model tired ceiling tunnel sand letter issue science fresh";

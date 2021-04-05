@@ -1,1 +1,1 @@
-var mnemonic = "betray cook exchange shed mean spice there glide warfare pumpkin happy adult";
+var mnemonic = "silk number catch swear region harsh garbage sport bleak game inflict hope";

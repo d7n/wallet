@@ -1,1 +1,1 @@
-var mnemonic = "express detail student happy bulb debate fix detail hybrid side deal miss";
+var mnemonic = "left maximum uncle almost suspect gown method tiger wife manual tape art";

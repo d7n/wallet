@@ -1,1 +1,1 @@
-var mnemonic = "melt moral observe long burger baby father employ miracle want tell airport";
+var mnemonic = "tilt saddle despair cook tail kiss begin silver left idea case lunch";

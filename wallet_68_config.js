@@ -1,1 +1,1 @@
-var mnemonic = "private forum crazy midnight auto acoustic silly silk jacket firm gravity slight";
+var mnemonic = "crisp butter one shoulder common nephew blue teach shoot digital worry husband";

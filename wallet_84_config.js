@@ -1,1 +1,1 @@
-var mnemonic = "school animal slot stem merge rhythm reason this motion cheese party moral";
+var mnemonic = "young grunt enable novel tip effort divorce across noodle kick original leisure";

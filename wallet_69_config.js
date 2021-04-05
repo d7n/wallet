@@ -1,1 +1,1 @@
-var mnemonic = "regret ahead copper rotate immune monkey hero flavor zero police joy sing";
+var mnemonic = "panther animal ball gloom loud margin planet clutch fitness champion define near";

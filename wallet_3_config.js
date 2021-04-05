@@ -1,1 +1,1 @@
-var mnemonic = "pet drill tired sword into wear please civil vague black material amazing";
+var mnemonic = "merge combine bean reason movie romance glass glory apple slab trim caution";

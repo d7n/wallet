@@ -1,1 +1,1 @@
-var mnemonic = "bacon transfer raise atom priority electric before jacket twenty trick detail pitch";
+var mnemonic = "nuclear stay welcome spread door runway shoulder child unfair amazing tell diagram";

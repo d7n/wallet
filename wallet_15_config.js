@@ -1,1 +1,1 @@
-var mnemonic = "message clip pet faculty renew quiz live behind tortoise kit either announce";
+var mnemonic = "obey produce excuse custom cram large decrease animal unable reward version debris";

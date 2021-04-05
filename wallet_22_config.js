@@ -1,1 +1,1 @@
-var mnemonic = "lemon diesel extra clock cycle bicycle silk young list club slab waste";
+var mnemonic = "tunnel twist inch order core inch thumb tool next iron game fine";

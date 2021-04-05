@@ -1,1 +1,1 @@
-var mnemonic = "long scatter explain horror road witness digital memory super proof limit shield";
+var mnemonic = "reason bamboo mix olympic recycle enough image side lock trumpet noble cake";

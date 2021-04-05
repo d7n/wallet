@@ -1,1 +1,1 @@
-var mnemonic = "fluid bounce defense icon unknown armed odor you pool stock offer cousin";
+var mnemonic = "box similar girl venue you van urban ten shy lunar average entire";

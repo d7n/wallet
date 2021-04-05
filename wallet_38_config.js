@@ -1,1 +1,1 @@
-var mnemonic = "welcome fever upon fossil vague unlock gown super seed split use warfare";
+var mnemonic = "cannon opinion still pigeon exchange prize want pool search left affair secret";

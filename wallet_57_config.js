@@ -1,1 +1,1 @@
-var mnemonic = "increase tower mad derive note seat prepare borrow culture foster prize soda";
+var mnemonic = "shadow satoshi lunar denial helmet answer mix bulb cabbage scissors quick educate";

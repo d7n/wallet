@@ -1,1 +1,1 @@
-var mnemonic = "group cliff light engine swing sorry olive valve picnic donor spoil stand";
+var mnemonic = "lonely swear skirt master earth broccoli trouble card main force believe motor";

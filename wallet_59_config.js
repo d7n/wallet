@@ -1,1 +1,1 @@
-var mnemonic = "mention venture net execute swing fade biology assault trick cruel ahead pony";
+var mnemonic = "wink supreme cable piece very repair glide giraffe own embody better prison";

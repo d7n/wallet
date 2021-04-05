@@ -1,1 +1,1 @@
-var mnemonic = "mimic spoil hybrid happy sound kite crazy coyote canyon expect allow mystery";
+var mnemonic = "happy ability shy tornado attract flock finish poem gallery ankle kangaroo anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "forward gloom process route episode amount slice anxiety learn law rescue online";
+var mnemonic = "hobby useless dice puppy execute culture among shallow peace affair gloom frog";

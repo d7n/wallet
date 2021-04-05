@@ -1,1 +1,1 @@
-var mnemonic = "squeeze remove chunk broom coil remind oppose accuse excuse eagle expect giggle";
+var mnemonic = "spice winner smoke offer forward multiply gadget office palm dilemma water kid";

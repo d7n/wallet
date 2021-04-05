@@ -1,1 +1,1 @@
-var mnemonic = "wide embark fit mango token panel between tide table cloth lawsuit duck";
+var mnemonic = "vote payment palace slush custom stand entry green famous already certain process";

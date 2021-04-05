@@ -1,1 +1,1 @@
-var mnemonic = "rule poverty panda mule any protect lady gadget skin skull again fatigue";
+var mnemonic = "onion ask cheese february kite drastic shove access note lounge away sudden";

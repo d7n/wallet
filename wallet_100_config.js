@@ -1,1 +1,1 @@
-var mnemonic = "arm team cable cattle obtain cotton cup blast hunt athlete gap country";
+var mnemonic = "elephant pulse inmate camera addict grape hand safe fiction margin empty pond";

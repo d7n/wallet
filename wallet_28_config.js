@@ -1,1 +1,1 @@
-var mnemonic = "oyster stable climb flee bag cube regret machine floor surge water obtain";
+var mnemonic = "cigar rebel merry attack zero upset element fork slight brief range deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger pepper nest noise obey blossom exclude latin distance trade flip scatter";
+var mnemonic = "romance insane advice desk ticket modify way hidden word supply extra just";

@@ -1,1 +1,1 @@
-var mnemonic = "winter toe camera oppose battle wool hotel rival fox peace legend twin";
+var mnemonic = "yellow range art trip fee tobacco female push confirm recall network spell";

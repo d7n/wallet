@@ -1,1 +1,1 @@
-var mnemonic = "zone huge arch ethics also target dumb crisp prosper alien absent quiz";
+var mnemonic = "truly tomato smoke never leg first piano friend weasel napkin auto paddle";

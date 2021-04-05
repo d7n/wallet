@@ -1,1 +1,1 @@
-var mnemonic = "setup ostrich album gift famous grab game era demise humble page clinic";
+var mnemonic = "view trend omit leisure ordinary domain canoe organ erupt blush file almost";

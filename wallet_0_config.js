@@ -1,1 +1,1 @@
-var mnemonic = "woman opera bring fee sentence hour vague cement romance theory inquiry possible";
+var mnemonic = "dragon trouble eyebrow diesel good amused better exile family there into genre";

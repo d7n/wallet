@@ -1,1 +1,1 @@
-var mnemonic = "tank attend staff lava cricket crew inmate couple plug change kid act";
+var mnemonic = "entire panel cream annual rural shift birth escape ugly frequent wealth faculty";

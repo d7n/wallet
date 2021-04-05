@@ -1,1 +1,1 @@
-var mnemonic = "train abandon artefact urge obscure omit best decorate toe energy lift wire";
+var mnemonic = "taxi cycle fetch sign drive birth joy van happy mango find cliff";

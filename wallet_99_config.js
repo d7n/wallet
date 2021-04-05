@@ -1,1 +1,1 @@
-var mnemonic = "inner flavor asthma often rug grit disease autumn pill rebel vault bike";
+var mnemonic = "size metal harvest sniff tail harvest flock boy trick human ready sense";

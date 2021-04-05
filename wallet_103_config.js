@@ -1,1 +1,1 @@
-var mnemonic = "admit miracle salon trumpet mango taxi jelly universe tower because long shed";
+var mnemonic = "bring powder chronic arena clarify stadium diet nephew neutral helmet short riot";

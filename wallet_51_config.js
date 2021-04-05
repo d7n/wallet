@@ -1,1 +1,1 @@
-var mnemonic = "wild twin alert aunt tenant exchange midnight disease injury height embrace side";
+var mnemonic = "identify field space harvest math index knee motion crouch gym into talent";

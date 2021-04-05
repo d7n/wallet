@@ -1,1 +1,1 @@
-var mnemonic = "grape snap insect mosquito age fade insane nation album senior earn walk";
+var mnemonic = "garment write evolve awake hat trick scorpion wave error food clog oppose";

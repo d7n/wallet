@@ -1,1 +1,1 @@
-var mnemonic = "avocado crystal pelican elbow hammer illegal agree glide vehicle limit capable found";
+var mnemonic = "super upon great cereal master calm force proof rural day unhappy chat";

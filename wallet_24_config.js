@@ -1,1 +1,1 @@
-var mnemonic = "clip boring figure range derive enrich differ security dance affair hospital initial";
+var mnemonic = "ugly limit monkey myself dose cause mouse draft beyond smile dose chair";

@@ -1,1 +1,1 @@
-var mnemonic = "gain object wink glory crop year symbol nothing seed gown mistake bone";
+var mnemonic = "bachelor patrol token explain urban album pretty unusual speed brief radar kingdom";

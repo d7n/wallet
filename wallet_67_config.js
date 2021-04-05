@@ -1,1 +1,1 @@
-var mnemonic = "skin fragile differ midnight steak brother plunge faith royal embody business letter";
+var mnemonic = "success embody magic step diesel door gasp stairs dry pulse actor rhythm";

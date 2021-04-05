@@ -1,1 +1,1 @@
-var mnemonic = "vanish bleak kitten fee celery soul old defense capable typical edit fancy";
+var mnemonic = "indoor region supreme buffalo loyal cliff mule party artefact try ill bonus";

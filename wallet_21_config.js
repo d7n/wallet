@@ -1,1 +1,1 @@
-var mnemonic = "stumble stadium peasant limb mask super loan cupboard bonus venture kite bulk";
+var mnemonic = "climb tobacco hat heavy return maid squirrel where person drum suggest mother";

@@ -1,1 +1,1 @@
-var mnemonic = "solve cargo print game tower defense current good curious erase moon hotel";
+var mnemonic = "rough edit armed actor issue rule salon vintage clog celery truly pride";

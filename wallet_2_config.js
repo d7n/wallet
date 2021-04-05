@@ -1,1 +1,1 @@
-var mnemonic = "theme recycle bounce brother burger drill remember neutral mass genre manage buyer";
+var mnemonic = "copy expand cram bracket matrix marble violin boss parent laundry country fan";

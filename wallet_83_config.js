@@ -1,1 +1,1 @@
-var mnemonic = "metal owner label scheme spy best fold disagree father warm barrel name";
+var mnemonic = "jump typical flag utility boss wide monitor attitude velvet plate metal grain";

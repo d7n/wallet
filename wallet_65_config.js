@@ -1,1 +1,1 @@
-var mnemonic = "evidence matter ready mouse fragile regret accident service infant blind license trash";
+var mnemonic = "maple venture warfare load turn govern dinner insect risk token retire coil";

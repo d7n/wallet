@@ -1,1 +1,1 @@
-var mnemonic = "visual almost cement west indicate prize draft power sausage one clap like";
+var mnemonic = "hollow language above increase syrup reflect prosper glare wrong spread merry cruel";

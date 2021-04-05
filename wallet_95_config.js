@@ -1,1 +1,1 @@
-var mnemonic = "high tooth squirrel tower post later fox piano attack when eagle steak";
+var mnemonic = "shove devote merry avocado bean rebuild naive donor fantasy emerge gun replace";

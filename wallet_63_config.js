@@ -1,1 +1,1 @@
-var mnemonic = "sense joy company seek marriage easily shock father afraid nice screen actual";
+var mnemonic = "ski laptop palm vacant flag afraid cute cheap census piano excuse walnut";

@@ -1,1 +1,1 @@
-var mnemonic = "belt worry strike useful blouse rely raise deposit alcohol wait mesh index";
+var mnemonic = "cloth slide tourist put promote mushroom doctor pigeon half confirm drink board";

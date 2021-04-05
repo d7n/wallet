@@ -1,1 +1,1 @@
-var mnemonic = "crane buyer vendor solid say pizza october piece never jacket then drift";
+var mnemonic = "glove cannon toilet coffee isolate cabbage caught sample valid chief plastic goddess";

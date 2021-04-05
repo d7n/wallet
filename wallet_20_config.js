@@ -1,1 +1,1 @@
-var mnemonic = "suggest solar affair alley exclude squeeze artefact hotel random poet suffer blanket";
+var mnemonic = "piano today average cactus festival immense ride know casual infant huge harbor";

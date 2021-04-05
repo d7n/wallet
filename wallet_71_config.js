@@ -1,1 +1,1 @@
-var mnemonic = "label shine beauty wife flavor position cook student load frost sun rotate";
+var mnemonic = "produce life double priority alcohol casino receive orbit link size repair penalty";

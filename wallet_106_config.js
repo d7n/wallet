@@ -1,1 +1,1 @@
-var mnemonic = "bridge resource shoe modify believe obscure flavor state junk hobby mention wagon";
+var mnemonic = "legend speed heart plate pact library fit else buffalo stage weird spread";

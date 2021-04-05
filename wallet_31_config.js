@@ -1,1 +1,1 @@
-var mnemonic = "love crop barely anchor useful icon rule erosion grid strong any measure";
+var mnemonic = "hunt gaze auction update virtual organ later legend medal wash surface ring";

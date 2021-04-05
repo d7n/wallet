@@ -1,1 +1,1 @@
-var mnemonic = "fine canoe swallow educate lunch illegal inflict trend avocado federal proud sister";
+var mnemonic = "property picture federal kiwi narrow bright device liquid barely furnace omit autumn";

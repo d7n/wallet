@@ -1,1 +1,1 @@
-var mnemonic = "enjoy avocado rebel shy smile slow script luxury clay spatial beef hold";
+var mnemonic = "current gap ticket canyon frost lounge embrace pole height dismiss faint wood";

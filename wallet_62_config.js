@@ -1,1 +1,1 @@
-var mnemonic = "evolve bench margin cargo federal layer route clap message lucky stay emerge";
+var mnemonic = "bus walnut furnace fire layer elder ridge gravity liar coast cage toilet";

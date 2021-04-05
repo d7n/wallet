@@ -1,1 +1,1 @@
-var mnemonic = "retreat void detect stairs climb lunar glide leader decade umbrella cream bird";
+var mnemonic = "drift town right razor barrel today noise busy kind wash garment hurdle";

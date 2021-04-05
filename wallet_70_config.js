@@ -1,1 +1,1 @@
-var mnemonic = "margin repeat reveal long attract spatial rail hazard spread adjust better airport";
+var mnemonic = "private pole pioneer decline swarm home they vacant engage smooth speak churn";

@@ -1,1 +1,1 @@
-var mnemonic = "cool olympic attack wage wrong simple arrest ozone today anxiety rural burger";
+var mnemonic = "expand honey rapid valve face vacuum owner spray audit syrup thrive lens";

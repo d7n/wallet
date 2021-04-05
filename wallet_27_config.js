@@ -1,1 +1,1 @@
-var mnemonic = "lecture glad during scale trumpet phrase initial owner claw style defense joke";
+var mnemonic = "action boring shy film recycle airport song harsh cherry shoot very yard";

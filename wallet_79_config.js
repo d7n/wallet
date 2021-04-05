@@ -1,1 +1,1 @@
-var mnemonic = "belt solution faint local next turtle winner shed pigeon manage annual mobile";
+var mnemonic = "naive grant friend gym gaze trash rose ritual decade glow wall crumble";

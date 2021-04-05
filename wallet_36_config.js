@@ -1,1 +1,1 @@
-var mnemonic = "advance creek quarter deposit owner scorpion learn wolf fiscal meadow inhale knee";
+var mnemonic = "seat vault census slim ripple shallow apple shy odor that retire worth";

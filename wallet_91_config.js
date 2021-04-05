@@ -1,1 +1,1 @@
-var mnemonic = "coconut grocery index adult private smile dry force alone maze kangaroo wet";
+var mnemonic = "gas melody travel inherit laptop twenty benefit victory offer real stumble shell";

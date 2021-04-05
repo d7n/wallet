@@ -1,1 +1,1 @@
-var mnemonic = "vault juice news hurdle ask machine victory before robust flower garden cargo";
+var mnemonic = "cousin day notice current people replace laundry ghost reform unique luxury twenty";

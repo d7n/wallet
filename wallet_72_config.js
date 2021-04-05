@@ -1,1 +1,1 @@
-var mnemonic = "roof affair illegal safe divide session divorce table monitor virtual skate magnet";
+var mnemonic = "trigger regular turkey jungle quit leader dentist toe odor original tube elite";

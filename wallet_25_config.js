@@ -1,1 +1,1 @@
-var mnemonic = "taxi fossil resist enforce discover normal actress kingdom will rural sorry protect";
+var mnemonic = "sing decide govern chat upset need guitar voyage bike nominee invite ten";

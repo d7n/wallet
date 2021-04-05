@@ -1,1 +1,1 @@
-var mnemonic = "hungry relax husband enter umbrella ask frequent orphan suffer actress surface year";
+var mnemonic = "produce topple critic exhibit under photo talent income purpose enroll true suit";

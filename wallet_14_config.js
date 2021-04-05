@@ -1,1 +1,1 @@
-var mnemonic = "march normal feed spot duck abstract anxiety tomato drink chef token city";
+var mnemonic = "define huge iron fragile task hollow net alter direct car click mixture";

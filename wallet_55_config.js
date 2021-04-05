@@ -1,1 +1,1 @@
-var mnemonic = "method pen erase hedgehog left shift crack afford olive awful meadow stable";
+var mnemonic = "suffer more patch assault shop nest silent actress jungle buyer armed vacant";

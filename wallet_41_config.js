@@ -1,1 +1,1 @@
-var mnemonic = "eagle someone assume knife noodle calm elder hill cruel truck recipe notable";
+var mnemonic = "april boy alcohol burger feed ancient search curve armed verb attract lyrics";

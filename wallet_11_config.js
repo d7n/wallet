@@ -1,1 +1,1 @@
-var mnemonic = "sudden fox pledge swallow purse airport legal desert error silly lounge there";
+var mnemonic = "saddle scrap bag custom brisk oval neck collect permit jungle night hard";

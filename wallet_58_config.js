@@ -1,1 +1,1 @@
-var mnemonic = "memory bridge twenty caution option vital okay glory pudding park protect claim";
+var mnemonic = "dilemma attract pen moment kitten assume fall charge cram left crane liberty";

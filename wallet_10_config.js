@@ -1,1 +1,1 @@
-var mnemonic = "stick urge acid arch stereo opera estate stamp kingdom six panic trade";
+var mnemonic = "fancy attend purity cool recipe hurt trigger cloth topic comic fancy material";

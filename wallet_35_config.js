@@ -1,1 +1,1 @@
-var mnemonic = "mandate public describe hole chat sphere zebra puzzle library knee soccer spoil";
+var mnemonic = "return negative claim process basic check stadium siege stumble marble verify ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "direct village spot stone practice bicycle happy clap tent mammal cereal friend";
+var mnemonic = "enforce thunder duty miracle vintage great ticket luxury broom library citizen filter";

@@ -1,1 +1,1 @@
-var mnemonic = "danger earn method beauty jewel bright thank alarm similar symptom uncover bunker";
+var mnemonic = "post room box budget fiber lecture opinion notable nature rate grant wall";

@@ -1,1 +1,1 @@
-var mnemonic = "grit emerge long jump donate grid dragon erosion method permit mimic opera";
+var mnemonic = "obscure zebra awful garlic surround cloud aspect shock pudding tuition reveal soap";

@@ -1,1 +1,1 @@
-var mnemonic = "palm elite whisper media paddle vital pact toy trim differ crush oxygen";
+var mnemonic = "pull diesel giant chuckle rich spray build palace soap stuff artist avoid";

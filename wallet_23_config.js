@@ -1,1 +1,1 @@
-var mnemonic = "kidney hunt van process magic grant organ add unique upset foam ankle";
+var mnemonic = "scissors fun reunion pepper leopard actual wise seek advance marriage time moon";

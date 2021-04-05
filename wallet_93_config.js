@@ -1,1 +1,1 @@
-var mnemonic = "gaze gun length immense capital turn poem pride metal hockey wool faith";
+var mnemonic = "latin enemy rate syrup plate chunk trophy excuse end peanut mystery afford";

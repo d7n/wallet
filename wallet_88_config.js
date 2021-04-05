@@ -1,1 +1,1 @@
-var mnemonic = "miss innocent cause theory deer disorder glare retire abstract large hand wisdom";
+var mnemonic = "grab season plug special address bone pass usage veteran forget black embrace";

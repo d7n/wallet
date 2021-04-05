@@ -1,1 +1,1 @@
-var mnemonic = "wheat noise goddess cradle pitch quiz element stereo edge misery company exist";
+var mnemonic = "link wolf attitude donor roast omit boat execute awkward neck friend topic";

@@ -1,1 +1,1 @@
-var mnemonic = "pen update radar just priority magnet lady modify latin industry erase knife";
+var mnemonic = "gown lazy gallery help one abuse young voice giggle suspect soldier right";
