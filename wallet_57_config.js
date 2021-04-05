@@ -1,1 +1,1 @@
-var mnemonic = "sport paper profit front funny boost silly tennis height say tail pigeon";
+var mnemonic = "picture unknown december trophy debris soon moment organ tool word total night";

@@ -1,1 +1,1 @@
-var mnemonic = "click amused wool world february live aware crush enroll ritual maid roast";
+var mnemonic = "arch hold skirt speed version priority doctor egg valid few size shrug";

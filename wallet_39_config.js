@@ -1,1 +1,1 @@
-var mnemonic = "crazy senior deliver spy wheat few never inmate country hollow answer upon";
+var mnemonic = "smooth cute panda dune toy night afraid couch renew govern rhythm volume";

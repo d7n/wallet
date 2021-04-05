@@ -1,1 +1,1 @@
-var mnemonic = "second toss office mirror they music witness banana spoil throw destroy monster";
+var mnemonic = "like lend rule pyramid expand powder glad zone clerk fragile earn flush";

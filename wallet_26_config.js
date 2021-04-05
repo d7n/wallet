@@ -1,1 +1,1 @@
-var mnemonic = "mercy benefit possible around slide smart useful fiction void surge destroy expire";
+var mnemonic = "night taxi city flight repair begin super mean enjoy arena region tomato";

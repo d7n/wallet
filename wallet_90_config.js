@@ -1,1 +1,1 @@
-var mnemonic = "buyer stay render inherit garlic gas thumb logic animal lend fly ancient";
+var mnemonic = "grain trust assault fancy panel find embark doll produce shallow dish shock";

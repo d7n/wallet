@@ -1,1 +1,1 @@
-var mnemonic = "oxygen blossom siege doctor shop south teach degree there torch hip spray";
+var mnemonic = "casual voyage trash syrup dad copy nose cat wedding analyst lonely lift";

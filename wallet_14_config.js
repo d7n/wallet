@@ -1,1 +1,1 @@
-var mnemonic = "case critic amused radio tired champion trash icon letter chuckle region prevent";
+var mnemonic = "material shield found nominee radio scissors cargo just end armed exhaust finger";

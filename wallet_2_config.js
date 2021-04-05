@@ -1,1 +1,1 @@
-var mnemonic = "prison truck genius damage job milk design rifle yard universe clutch venue";
+var mnemonic = "surge barrel stuff sing wealth material arrest diary forum garment verify absorb";

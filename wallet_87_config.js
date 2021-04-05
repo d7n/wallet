@@ -1,1 +1,1 @@
-var mnemonic = "multiply lazy grab neglect list major box crack kingdom wrist symptom express";
+var mnemonic = "famous soft charge tape butter just case spend issue until offer empty";

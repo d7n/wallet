@@ -1,1 +1,1 @@
-var mnemonic = "hold vocal exact slam pool input battle require spice hazard all gaze";
+var mnemonic = "slogan venture hammer improve frown unknown churn pistol give hour forum act";

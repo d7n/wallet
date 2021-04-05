@@ -1,1 +1,1 @@
-var mnemonic = "clay congress best place village timber sight awful harbor february oven antenna";
+var mnemonic = "garment detail range join flee gasp start chapter funny disease genre horse";

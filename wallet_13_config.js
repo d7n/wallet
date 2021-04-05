@@ -1,1 +1,1 @@
-var mnemonic = "tube gas discover case audit poem object raise six never magic soldier";
+var mnemonic = "leave illegal electric neglect number genius exchange kite hill duty client thrive";

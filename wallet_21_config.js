@@ -1,1 +1,1 @@
-var mnemonic = "load seminar kitchen offer patrol box trim dish smart track broom alone";
+var mnemonic = "end possible steak enforce crowd casual illness exercise public monitor property tribe";

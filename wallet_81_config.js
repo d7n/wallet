@@ -1,1 +1,1 @@
-var mnemonic = "output must brand entry shift float talk dwarf clarify level clay grow";
+var mnemonic = "inner connect crush pole position scatter excuse scissors teach wagon cigar rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "affair spider online wasp float scene section artwork parent cradle token box";
+var mnemonic = "square index sorry idle mule cattle hawk kitten wire ignore erode degree";

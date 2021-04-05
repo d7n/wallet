@@ -1,1 +1,1 @@
-var mnemonic = "anchor tone young crouch crisp vehicle fruit bachelor fog link tray suffer";
+var mnemonic = "distance nominee pill clinic salmon evoke tennis fish donate error disagree have";

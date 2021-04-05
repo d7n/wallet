@@ -1,1 +1,1 @@
-var mnemonic = "bitter finish opera one travel prize sunny orbit jazz clock rescue loan";
+var mnemonic = "grid fade viable hair impact atom mystery climb dance shiver drastic draw";

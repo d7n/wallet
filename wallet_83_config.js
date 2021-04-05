@@ -1,1 +1,1 @@
-var mnemonic = "aware shallow path flower dose input option business great build popular trap";
+var mnemonic = "biology trick luxury traffic mosquito silly blast beach toward shell speak sell";

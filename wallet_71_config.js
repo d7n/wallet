@@ -1,1 +1,1 @@
-var mnemonic = "plunge project october pen ozone stove valve sugar tattoo repair fiscal tip";
+var mnemonic = "burger trim airport enough position regular very document master rocket aim river";

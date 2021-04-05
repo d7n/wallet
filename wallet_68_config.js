@@ -1,1 +1,1 @@
-var mnemonic = "escape rack occur dust view garment fan ancient shed coast movie shop";
+var mnemonic = "sing chef shrug empty roof pride auction captain cream what awake kid";

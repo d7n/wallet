@@ -1,1 +1,1 @@
-var mnemonic = "only arch exhaust mesh brass since security logic north fee rely captain";
+var mnemonic = "throw flag blood museum dilemma balance sort shoulder gift eternal outer guilt";

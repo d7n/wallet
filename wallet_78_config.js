@@ -1,1 +1,1 @@
-var mnemonic = "power outside employ dove offer arena antique exist hair catch pigeon edit";
+var mnemonic = "calm taste select hidden deer caught boat desk inhale town diamond egg";

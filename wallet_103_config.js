@@ -1,1 +1,1 @@
-var mnemonic = "recall spray usage sick clever chair picture pride digital seek puppy saddle";
+var mnemonic = "juice seed defense census scorpion giraffe note flame fog party sister slogan";

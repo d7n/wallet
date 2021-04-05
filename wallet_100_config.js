@@ -1,1 +1,1 @@
-var mnemonic = "pond issue wedding hurry fancy because bonus blind become tape head display";
+var mnemonic = "riot energy multiply circle draw matter spot install demand thank window pave";

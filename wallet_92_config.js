@@ -1,1 +1,1 @@
-var mnemonic = "error sketch slide include pizza symbol pitch join other record jazz shock";
+var mnemonic = "cluster wear wave exhibit reason ready strategy legal exist box antenna muscle";

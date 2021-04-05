@@ -1,1 +1,1 @@
-var mnemonic = "vague course leisure glance catch pave proof nut top olympic welcome nerve";
+var mnemonic = "fetch outer sadness engage riot figure planet destroy trap divert chronic royal";

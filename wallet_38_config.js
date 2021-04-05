@@ -1,1 +1,1 @@
-var mnemonic = "path space promote fabric offer rich neglect camera opinion ball spread genre";
+var mnemonic = "lucky oxygen frame problem wise invest guitar mind believe horn edit toss";

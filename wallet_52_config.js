@@ -1,1 +1,1 @@
-var mnemonic = "motor engage slice very cruel rate remind shiver foot blue bunker this";
+var mnemonic = "wrong shine boat excess grit affair disorder office pledge prefer nominee gas";

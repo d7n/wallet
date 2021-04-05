@@ -1,1 +1,1 @@
-var mnemonic = "great biology wealth check fiscal truck penalty kit enlist attend picture kingdom";
+var mnemonic = "table where various vintage cactus gather violin height pen umbrella offer hedgehog";

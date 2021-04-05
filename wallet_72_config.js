@@ -1,1 +1,1 @@
-var mnemonic = "derive hub during plate book cheese engage slender when ghost movie duck";
+var mnemonic = "proud lend despair napkin horror mesh infant mango ridge guard essence hold";

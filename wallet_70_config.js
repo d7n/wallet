@@ -1,1 +1,1 @@
-var mnemonic = "dove feed pepper prison danger window moon excess evoke essence object margin";
+var mnemonic = "solve casino phone family require hunt trend develop poverty present virus save";

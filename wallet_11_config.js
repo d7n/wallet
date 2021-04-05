@@ -1,1 +1,1 @@
-var mnemonic = "okay surface lava region upgrade base theory mammal master rare primary knee";
+var mnemonic = "wild sorry oil flower treat cargo wave caught assault dance ripple what";

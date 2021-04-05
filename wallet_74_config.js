@@ -1,1 +1,1 @@
-var mnemonic = "gate indoor emerge north beach giant access range bicycle situate labor raven";
+var mnemonic = "sausage monster violin distance short stereo bless noodle game diamond bacon type";

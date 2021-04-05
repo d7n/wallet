@@ -1,1 +1,1 @@
-var mnemonic = "rigid essay miss phrase head dragon hero become dismiss brief game help";
+var mnemonic = "balcony hospital pitch shop creek drink pudding whale quarter anchor prevent nature";

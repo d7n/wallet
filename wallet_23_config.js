@@ -1,1 +1,1 @@
-var mnemonic = "bicycle task drastic abstract daring planet clay ketchup zero bottom outdoor suggest";
+var mnemonic = "frequent gallery ugly income february inner glory inject cute cricket captain advice";

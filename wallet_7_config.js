@@ -1,1 +1,1 @@
-var mnemonic = "wild chalk naive tooth harvest interest race dinner enforce brother theory apology";
+var mnemonic = "trade stadium wisdom improve rebel calm public sound three fancy monkey cruise";

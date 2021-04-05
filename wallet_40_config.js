@@ -1,1 +1,1 @@
-var mnemonic = "holiday roast joy party sport wasp glimpse juice appear address own river";
+var mnemonic = "fun gesture fiscal gun rebuild warrior cave birth smoke physical lounge grain";

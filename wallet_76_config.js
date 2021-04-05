@@ -1,1 +1,1 @@
-var mnemonic = "famous knee ostrich expose long fatal version napkin dune maple frequent exotic";
+var mnemonic = "corn shiver spawn basket emotion slam powder melt glove tell napkin length";

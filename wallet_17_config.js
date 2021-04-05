@@ -1,1 +1,1 @@
-var mnemonic = "gown net destroy major code volume crisp flag party raven industry smoke";
+var mnemonic = "recall park divide urban banner combine income sword derive wasp subject inmate";

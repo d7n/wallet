@@ -1,1 +1,1 @@
-var mnemonic = "jaguar bicycle mercy flush negative exit monitor champion force rubber heavy garbage";
+var mnemonic = "bottom uncle blur employ veteran hospital crowd shaft six type leave rocket";

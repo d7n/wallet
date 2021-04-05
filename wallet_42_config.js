@@ -1,1 +1,1 @@
-var mnemonic = "nice topic forget nest hobby better tourist sword equal auction invest scout";
+var mnemonic = "stairs coffee office mask find capital earth game choose risk valve curve";

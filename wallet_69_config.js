@@ -1,1 +1,1 @@
-var mnemonic = "toast basket myth garden document ceiling vacuum rigid wink obtain develop hollow";
+var mnemonic = "rotate balance online lyrics army source hint athlete power arrive stool bridge";

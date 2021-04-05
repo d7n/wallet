@@ -1,1 +1,1 @@
-var mnemonic = "once flee biology decade sauce visa place behind trick potato onion energy";
+var mnemonic = "tent monitor engage glance fruit beauty head curtain open similar slam property";

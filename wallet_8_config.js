@@ -1,1 +1,1 @@
-var mnemonic = "feed enact bargain street mango crouch choose candy because ladder crew jelly";
+var mnemonic = "future hazard fossil bullet sausage raise father blind day climb until limb";

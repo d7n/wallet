@@ -1,1 +1,1 @@
-var mnemonic = "high ecology valve scheme rebel rally meadow raven shop swear company match";
+var mnemonic = "arrive sadness glass reunion drill curtain shed juice require chaos inside certain";

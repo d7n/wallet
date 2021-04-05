@@ -1,1 +1,1 @@
-var mnemonic = "eye lizard boat stumble script divide sudden couch only duty panel absurd";
+var mnemonic = "tunnel tennis loud coral keen canvas tiny march vapor panda shine negative";

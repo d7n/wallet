@@ -1,1 +1,1 @@
-var mnemonic = "narrow twelve boil dove filter guide garlic blur start stereo remind pride";
+var mnemonic = "leopard when all tuna birth illness favorite menu emerge assist lion witness";

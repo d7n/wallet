@@ -1,1 +1,1 @@
-var mnemonic = "travel motor engage fall scatter crush observe absurd marine leaf dilemma list";
+var mnemonic = "torch exchange gallery wonder pony midnight hybrid pretty stem forest memory east";

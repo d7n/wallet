@@ -1,1 +1,1 @@
-var mnemonic = "document dismiss bicycle kid veteran derive rose great canal sun suit silly";
+var mnemonic = "wool visit raven escape corn task sunset west there sketch rigid able";

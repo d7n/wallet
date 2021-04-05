@@ -1,1 +1,1 @@
-var mnemonic = "syrup extend kitten weasel defense mountain ugly mom few around target guilt";
+var mnemonic = "approve drama output orient high present topple garbage consider clock basket tone";

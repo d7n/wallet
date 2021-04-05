@@ -1,1 +1,1 @@
-var mnemonic = "grid stamp uncover rare route rival good hope jelly ritual hope drop";
+var mnemonic = "engine swing airport diary light latin bargain busy deal wild hub uphold";

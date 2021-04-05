@@ -1,1 +1,1 @@
-var mnemonic = "vehicle also husband extend unknown icon scan lucky retire install industry pet";
+var mnemonic = "dune mind film tube mass eight unveil cactus kingdom flat cricket add";

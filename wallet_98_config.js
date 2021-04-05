@@ -1,1 +1,1 @@
-var mnemonic = "meadow donor sorry burden cabbage only milk old occur cradle dash veteran";
+var mnemonic = "mind this rug park fatal object bunker picture banner flight mobile unable";

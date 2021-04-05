@@ -1,1 +1,1 @@
-var mnemonic = "oyster age kiss wreck achieve pair invest stem present wage replace prevent";
+var mnemonic = "mass magnet salmon spare hero silver cream blame erosion online job learn";

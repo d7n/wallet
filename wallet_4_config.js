@@ -1,1 +1,1 @@
-var mnemonic = "journey three congress bid forum zero load three giggle spread client sock";
+var mnemonic = "subject female fish menu assault clump change insect clean sauce jump trip";

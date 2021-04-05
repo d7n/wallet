@@ -1,1 +1,1 @@
-var mnemonic = "theme betray lizard play taste chase sponsor play decide pledge rural cabbage";
+var mnemonic = "sure squirrel neglect gold empty pill brain interest club biology biology estate";

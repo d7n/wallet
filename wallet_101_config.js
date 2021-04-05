@@ -1,1 +1,1 @@
-var mnemonic = "symbol warfare process slogan word priority oblige rather pole wall aisle bone";
+var mnemonic = "tooth push script cup task prize earth afford asthma language exact creek";

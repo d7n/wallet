@@ -1,1 +1,1 @@
-var mnemonic = "chalk oil purse soup solve isolate senior season device diesel brown ask";
+var mnemonic = "virtual absorb siege stairs aware foil throw direct idle garden wink humor";

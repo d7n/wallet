@@ -1,1 +1,1 @@
-var mnemonic = "success wage clump test like actual over expose clarify derive piano vivid";
+var mnemonic = "pull humor remind fancy absurd potato ostrich fiber extend equip blouse draw";

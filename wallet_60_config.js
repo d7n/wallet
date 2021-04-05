@@ -1,1 +1,1 @@
-var mnemonic = "discover hidden increase wing moment material lucky seven awful track paddle flock";
+var mnemonic = "pen jazz jealous inquiry earth toe table party maze grunt open habit";

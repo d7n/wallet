@@ -1,1 +1,1 @@
-var mnemonic = "lock icon galaxy method atom plunge sponsor drip margin forget banana submit";
+var mnemonic = "napkin alpha onion cat admit arrange clip zero record season river garment";

@@ -1,1 +1,1 @@
-var mnemonic = "three flip inherit acid double brick repair flight summer daring above slim";
+var mnemonic = "clog deliver soft energy come milk neither door neutral foster laptop clean";

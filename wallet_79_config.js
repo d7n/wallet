@@ -1,1 +1,1 @@
-var mnemonic = "crumble elevator infant team slim extra private like tragic select sort wheat";
+var mnemonic = "hint impose goat soap deal gospel come army web echo document want";

@@ -1,1 +1,1 @@
-var mnemonic = "jar stereo patrol siege club luggage myth biology gossip recipe address lyrics";
+var mnemonic = "connect express chunk decide burden organ immense action chat mail film deputy";

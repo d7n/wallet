@@ -1,1 +1,1 @@
-var mnemonic = "squirrel token sick teach omit identify salon kick dash treat chronic upset";
+var mnemonic = "plunge school reunion stumble furnace luggage shop next tone cliff force math";

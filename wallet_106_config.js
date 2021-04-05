@@ -1,1 +1,1 @@
-var mnemonic = "own street almost blouse parent praise pretty soccer solve coast tumble camp";
+var mnemonic = "ask cabbage area mammal enrich hat sugar item garlic lawn shaft oak";

@@ -1,1 +1,1 @@
-var mnemonic = "team spin rude abandon filter element bike stage host laundry trust dutch";
+var mnemonic = "bubble elite usage air basic film basket dignity cable zone village bracket";

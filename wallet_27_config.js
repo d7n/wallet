@@ -1,1 +1,1 @@
-var mnemonic = "network comfort timber vibrant off nice puzzle gate prison recall disagree frown";
+var mnemonic = "pupil spawn clap design horse hammer tornado thunder logic share crane good";

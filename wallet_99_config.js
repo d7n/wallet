@@ -1,1 +1,1 @@
-var mnemonic = "flee inspire lawn birth other quiz modify century shrug spice bring edge";
+var mnemonic = "torch coconut jaguar news sad interest endless unusual topple weapon pistol member";

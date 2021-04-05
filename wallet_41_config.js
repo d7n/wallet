@@ -1,1 +1,1 @@
-var mnemonic = "lottery minute galaxy canoe decide february swallow soap resemble object reduce high";
+var mnemonic = "limb endless salmon chronic enforce wood thought friend border column enroll rabbit";

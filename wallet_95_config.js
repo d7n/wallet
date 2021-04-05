@@ -1,1 +1,1 @@
-var mnemonic = "lock employ blanket pepper alert project broccoli render half luggage assume senior";
+var mnemonic = "early learn movie happy charge charge text traffic guess coffee atom wrong";

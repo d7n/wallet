@@ -1,1 +1,1 @@
-var mnemonic = "hamster ecology mixed nuclear elephant goose nuclear live oil miss always library";
+var mnemonic = "scorpion dwarf cross profit angry vanish story nerve beauty label column name";

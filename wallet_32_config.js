@@ -1,1 +1,1 @@
-var mnemonic = "solar young gym student educate math legal dawn resource slide eternal coin";
+var mnemonic = "punch run swamp science chase lamp animal notable win view cherry shy";

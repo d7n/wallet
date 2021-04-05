@@ -1,1 +1,1 @@
-var mnemonic = "guess tomato later profit fan shoot gate head rabbit merry talent gadget";
+var mnemonic = "civil wisdom settle wrestle creek light document zero immune grab goose airport";

@@ -1,1 +1,1 @@
-var mnemonic = "volume run hundred north digital stand plunge december skate brush stove liar";
+var mnemonic = "wonder atom position economy assume denial mercy slim alien impose crack film";

@@ -1,1 +1,1 @@
-var mnemonic = "round celery position program exact urge swing interest carpet humor plastic alert";
+var mnemonic = "device process ankle exist museum spider catch expire flat rather wood tip";

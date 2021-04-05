@@ -1,1 +1,1 @@
-var mnemonic = "tornado misery bullet deny praise sweet improve shoe green soul about tray";
+var mnemonic = "rotate boring grab scrub deputy spray arena super depart ready course around";

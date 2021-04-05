@@ -1,1 +1,1 @@
-var mnemonic = "unfair mother ability climb relief fence present excess stone border ordinary ostrich";
+var mnemonic = "ice laptop any dawn exchange snake scene vibrant train icon rookie cement";

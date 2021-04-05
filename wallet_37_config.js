@@ -1,1 +1,1 @@
-var mnemonic = "lady athlete useless orbit address equal devote capital sort glare trust arena";
+var mnemonic = "fit surface captain forward quality maple art jacket race flee shallow round";

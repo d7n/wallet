@@ -1,1 +1,1 @@
-var mnemonic = "advance size flag case assault rhythm gun practice water style fork device";
+var mnemonic = "candy easy similar execute monkey skill dose suspect emotion wide trick catalog";

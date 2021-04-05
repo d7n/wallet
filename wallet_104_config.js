@@ -1,1 +1,1 @@
-var mnemonic = "anxiety hurdle almost color juice ice toilet eye interest above erosion drop";
+var mnemonic = "blue service salt symptom heart field space borrow arrive cinnamon hover floor";

@@ -1,1 +1,1 @@
-var mnemonic = "primary legend mom bundle cloud snap tent game unfair volume vintage expire";
+var mnemonic = "can host awkward grief swallow draft bring must panel castle vehicle border";

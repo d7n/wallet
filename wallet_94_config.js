@@ -1,1 +1,1 @@
-var mnemonic = "vintage cotton hunt warfare dash horn oil student smart amazing burden tuition";
+var mnemonic = "recall holiday deer unknown pyramid give fog auction front oyster nuclear mom";

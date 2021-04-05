@@ -1,1 +1,1 @@
-var mnemonic = "extend inflict doll swim desk silver steel spatial agree wood rotate mixture";
+var mnemonic = "pigeon city unaware patrol narrow scale banner risk betray derive arrow mix";

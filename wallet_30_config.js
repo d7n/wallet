@@ -1,1 +1,1 @@
-var mnemonic = "mind soft liar honey actress naive angle moon wear comfort civil indoor";
+var mnemonic = "push call topic vault file approve mechanic brown best rocket domain myself";

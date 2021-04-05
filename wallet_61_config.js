@@ -1,1 +1,1 @@
-var mnemonic = "plug mystery prison awkward innocent copy movie tumble unfold story diagram announce";
+var mnemonic = "sport slender run drill cage clarify civil fiscal key crucial panic rigid";

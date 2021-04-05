@@ -1,1 +1,1 @@
-var mnemonic = "wild midnight fall bronze pipe drum shield wild betray music fade mixture";
+var mnemonic = "live cable brush leopard token angle echo coral chief gorilla ignore matter";
