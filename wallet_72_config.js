@@ -1,1 +1,1 @@
-var mnemonic = "grace seek guilt car february silk chapter abstract scan spoon close refuse";
+var mnemonic = "merit maid myself stomach juice agent actress pitch pear tone betray mountain";

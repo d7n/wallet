@@ -1,1 +1,1 @@
-var mnemonic = "check pigeon moment lend zebra aware grain endorse track school reason access";
+var mnemonic = "rain bubble naive witness apology expire action cousin century rice tooth twelve";

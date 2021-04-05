@@ -1,1 +1,1 @@
-var mnemonic = "resemble flock grace shaft else scissors cushion camera pulp frog chronic path";
+var mnemonic = "search tomorrow buddy expire skate artwork afraid column antenna tenant walnut lucky";

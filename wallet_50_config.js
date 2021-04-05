@@ -1,1 +1,1 @@
-var mnemonic = "hawk clerk width present cousin paper edit anger myth narrow artwork kangaroo";
+var mnemonic = "tube clown army legend time convince favorite ripple zero kitchen comfort goat";

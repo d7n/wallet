@@ -1,1 +1,1 @@
-var mnemonic = "proud example combine enhance timber sponsor canvas welcome travel lab inch roast";
+var mnemonic = "comic stage agent pistol baby music topic pluck family pen oven cradle";

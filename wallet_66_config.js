@@ -1,1 +1,1 @@
-var mnemonic = "chief little know copper maze monkey junk fluid verb nation tuition bottom";
+var mnemonic = "buyer black proof bench first edge lemon employ enable quantum legal escape";

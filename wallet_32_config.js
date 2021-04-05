@@ -1,1 +1,1 @@
-var mnemonic = "tobacco another toilet voice kitten crane father age someone jungle target pill";
+var mnemonic = "sad tower ticket quarter feel before pond volume guitar piece replace universe";

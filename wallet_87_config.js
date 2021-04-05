@@ -1,1 +1,1 @@
-var mnemonic = "gravity cash brand there spot blood roof flower update man energy rib";
+var mnemonic = "fortune lumber unfair wrong nuclear vital refuse purse initial end peasant baby";

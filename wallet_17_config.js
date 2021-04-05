@@ -1,1 +1,1 @@
-var mnemonic = "arrange laundry obvious clutch host park carry weasel inhale what yellow negative";
+var mnemonic = "pipe mother sound mercy gym select early year pause artefact rescue conduct";

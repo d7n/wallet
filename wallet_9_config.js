@@ -1,1 +1,1 @@
-var mnemonic = "decade crop shadow globe enjoy coach violin coast fade state hockey push";
+var mnemonic = "fly leaf win beauty whisper basket long adapt hello armed rapid arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow feed public future ocean opinion behind service erode grant rare trick";
+var mnemonic = "celery dinosaur drum identify lion shed jacket say galaxy puzzle sunset book";

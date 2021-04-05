@@ -1,1 +1,1 @@
-var mnemonic = "bus truth cabin hood coil birth company few salon field fiction kit";
+var mnemonic = "decrease monster helmet label primary pole harbor marine cup monitor slush paddle";

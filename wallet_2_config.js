@@ -1,1 +1,1 @@
-var mnemonic = "whisper true debate vote toilet deer miss decrease problem purse combine myth";
+var mnemonic = "athlete sibling entire fame arch able tooth program road shoulder horn hub";

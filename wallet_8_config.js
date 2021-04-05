@@ -1,1 +1,1 @@
-var mnemonic = "alert economy universe rich about casino kingdom any canoe loop surface abandon";
+var mnemonic = "critic position spike stool satoshi begin come maple mushroom space tip kid";

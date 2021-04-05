@@ -1,1 +1,1 @@
-var mnemonic = "veteran nominee ice issue loud hole example response slot lottery night chimney";
+var mnemonic = "prefer pet nation used muffin diagram travel glad index candy bid festival";

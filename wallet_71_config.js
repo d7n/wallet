@@ -1,1 +1,1 @@
-var mnemonic = "annual brisk capable banana piece beach oval arrive lava square wedding strategy";
+var mnemonic = "all nominee mouse tragic differ cloud photo lamp vibrant cradle century sock";

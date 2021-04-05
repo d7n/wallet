@@ -1,1 +1,1 @@
-var mnemonic = "same enough material patch elder build meadow patch disorder tongue piece merry";
+var mnemonic = "praise obtain hope that thank eight submit easy common view caught flip";

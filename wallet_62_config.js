@@ -1,1 +1,1 @@
-var mnemonic = "token spend awful prison loyal angle garlic limb session potato speak sister";
+var mnemonic = "gorilla rose kangaroo rotate promote emotion proud top path title topic choice";

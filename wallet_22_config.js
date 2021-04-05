@@ -1,1 +1,1 @@
-var mnemonic = "renew add topic crystal alley festival loop tragic dawn frown only acid";
+var mnemonic = "news stick assist palm cupboard arctic debate aisle winter ship canvas erosion";

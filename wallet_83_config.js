@@ -1,1 +1,1 @@
-var mnemonic = "anchor twelve suspect interest venue evil galaxy grant mind dish essay oval";
+var mnemonic = "cereal mass pig noble lonely poet miracle dilemma cement gasp sad urge";

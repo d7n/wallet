@@ -1,1 +1,1 @@
-var mnemonic = "start neglect bronze clarify joke spoil tool nothing sail shop muffin wool";
+var mnemonic = "play nation orange boss much clap casino fragile tag lobster elegant dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "stone rotate visit ability tube cry brick knife sea steak dose oblige";
+var mnemonic = "firm rule town toe client oxygen fog vast hub sentence gloom never";

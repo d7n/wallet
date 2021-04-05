@@ -1,1 +1,1 @@
-var mnemonic = "spoon gravity suspect general deliver velvet crystal bleak soon galaxy marriage hand";
+var mnemonic = "letter vicious conduct tongue slide bomb worry slide gospel decide refuse fringe";

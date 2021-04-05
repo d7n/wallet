@@ -1,1 +1,1 @@
-var mnemonic = "adapt flag lucky october distance extra purpose immune property insane below mammal";
+var mnemonic = "balance merry dragon priority safe roast muscle under brisk river glad grace";

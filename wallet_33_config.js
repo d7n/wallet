@@ -1,1 +1,1 @@
-var mnemonic = "fog feel walk draft cake nephew discover december affair winner crystal inside";
+var mnemonic = "vibrant blood hard off museum ring weapon glad squirrel clock prison badge";

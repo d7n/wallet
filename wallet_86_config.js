@@ -1,1 +1,1 @@
-var mnemonic = "ginger venture silk brass vote suffer sort tool frost great kind awkward";
+var mnemonic = "mystery genuine gravity nominee radar pilot reunion claim orphan finger that jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "whip response february club render turtle deer spell game raccoon cattle share";
+var mnemonic = "noble frame typical tomato neither alley quiz gentle strike reason captain ugly";

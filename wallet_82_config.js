@@ -1,1 +1,1 @@
-var mnemonic = "wine chair adapt avoid uncle stomach icon sponsor sea oxygen slow rib";
+var mnemonic = "effort slush salt muffin able wreck season wonder inner huge fee neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "city deny because kind boss audit void offer toast hammer always bracket";
+var mnemonic = "bronze tragic stand boost enjoy wing reduce park sing dinosaur super swim";

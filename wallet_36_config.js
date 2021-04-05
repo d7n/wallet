@@ -1,1 +1,1 @@
-var mnemonic = "devote car donkey safe ill novel tail salmon raw neglect ask deliver";
+var mnemonic = "inch brass rally blood sing apple duck venture eagle vessel fancy worry";

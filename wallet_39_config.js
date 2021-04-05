@@ -1,1 +1,1 @@
-var mnemonic = "rebel pattern sense inner normal kick cruise harvest tail enable frost assume";
+var mnemonic = "inch patrol laugh april aim alcohol knee drop black front cheese pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "print bitter news snack target glove slim anxiety voyage december calm way";
+var mnemonic = "physical sell capable alter entry wait museum winner park friend escape ahead";

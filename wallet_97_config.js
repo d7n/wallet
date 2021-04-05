@@ -1,1 +1,1 @@
-var mnemonic = "hood squirrel gossip dash nominee height fetch argue humor dust volcano pill";
+var mnemonic = "smart impact ankle salt oval notice bike season gentle october wagon grow";

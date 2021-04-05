@@ -1,1 +1,1 @@
-var mnemonic = "split lens brown glass segment amount age legal kangaroo gold deer among";
+var mnemonic = "member combine over leader gate fetch disagree more cute tiny couch denial";

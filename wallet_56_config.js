@@ -1,1 +1,1 @@
-var mnemonic = "trade boring include brother proof charge vessel vintage weasel depend stomach trust";
+var mnemonic = "iron brick room solid divide beauty estate seek bacon turn mention reveal";

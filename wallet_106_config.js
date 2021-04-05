@@ -1,1 +1,1 @@
-var mnemonic = "because taste twice affair captain rail toward universe version vapor final pipe";
+var mnemonic = "annual promote priority barely another tunnel point peasant velvet click sort sure";

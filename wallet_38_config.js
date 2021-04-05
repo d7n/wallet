@@ -1,1 +1,1 @@
-var mnemonic = "neutral front universe boss settle poem effort defense atom moral bench panic";
+var mnemonic = "blossom surface pepper seven hawk clump label clever elevator near want delay";

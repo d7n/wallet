@@ -1,1 +1,1 @@
-var mnemonic = "armed rotate shadow tool usage lemon oak journey point corn short plunge";
+var mnemonic = "you bronze put spike rotate evoke million romance focus crucial another butter";

@@ -1,1 +1,1 @@
-var mnemonic = "donate film private celery family miracle cluster mixture major patch gain usage";
+var mnemonic = "merge rack hamster foil moment repair heavy skull often angry mom idea";

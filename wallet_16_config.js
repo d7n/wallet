@@ -1,1 +1,1 @@
-var mnemonic = "beef foil able weekend chest aerobic roast height permit jealous olympic math";
+var mnemonic = "sad easy grief game lunar demise rare make slice debate crack twice";

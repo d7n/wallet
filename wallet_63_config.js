@@ -1,1 +1,1 @@
-var mnemonic = "steak blanket hammer source jelly sadness almost squirrel much material hospital relax";
+var mnemonic = "scatter myself purse option deal mesh shop congress wreck vault portion chair";

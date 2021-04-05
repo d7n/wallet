@@ -1,1 +1,1 @@
-var mnemonic = "march false type manage flash glare crazy rule brave hole attack pen";
+var mnemonic = "exhaust morning giraffe text jacket negative rubber honey shed feed obvious effort";

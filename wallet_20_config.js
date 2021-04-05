@@ -1,1 +1,1 @@
-var mnemonic = "grape fever frequent wealth upgrade vibrant camp enhance denial job swallow tip";
+var mnemonic = "evil trust anger royal deliver actor episode roof juice meadow sing special";

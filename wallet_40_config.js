@@ -1,1 +1,1 @@
-var mnemonic = "staff spot road table extra middle donkey link noodle hobby knock setup";
+var mnemonic = "reject clinic roast globe knock egg share earth step people sunny short";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake degree hub deny armor foam focus churn flavor tent aisle heavy";
+var mnemonic = "snake harvest source deliver mystery hospital extra pitch stamp vanish used excuse";

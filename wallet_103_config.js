@@ -1,1 +1,1 @@
-var mnemonic = "mandate patrol mother text call smooth shadow else maple rocket inmate cabin";
+var mnemonic = "absent left enact police solution shadow velvet runway key visual plug endless";

@@ -1,1 +1,1 @@
-var mnemonic = "ridge hospital rely defy celery science elite area blush tornado spy baby";
+var mnemonic = "thunder gadget erode split prevent sample range capital tower table family unfold";

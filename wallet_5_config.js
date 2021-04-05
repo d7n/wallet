@@ -1,1 +1,1 @@
-var mnemonic = "unfair venture giggle weather mask maximum news absurd damp fatigue essence gentle";
+var mnemonic = "fall cousin ensure icon scrap actor green tank pull leisure october night";

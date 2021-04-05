@@ -1,1 +1,1 @@
-var mnemonic = "draft crash alley obvious speed film again negative fog swift ladder evoke";
+var mnemonic = "refuse tape refuse security potato zebra lobster tell canvas echo hope ecology";

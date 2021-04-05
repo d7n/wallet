@@ -1,1 +1,1 @@
-var mnemonic = "blossom exit wisdom double puzzle heart kind before parade sword brave border";
+var mnemonic = "palace tornado toss you member live huge rapid ready custom afraid quarter";

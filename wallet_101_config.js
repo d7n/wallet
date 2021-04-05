@@ -1,1 +1,1 @@
-var mnemonic = "scout crowd typical pair bacon polar flip table drink brother novel click";
+var mnemonic = "gift warrior issue trial expire suffer message erupt hollow grocery conduct grow";

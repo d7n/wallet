@@ -1,1 +1,1 @@
-var mnemonic = "south brand blossom anchor share truly found clerk unknown suit town faint";
+var mnemonic = "struggle glance void guide divert extend virus hub donor pear resist stairs";

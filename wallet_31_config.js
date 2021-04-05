@@ -1,1 +1,1 @@
-var mnemonic = "social emotion arrange fire hub bone shoot goddess cup unknown network senior";
+var mnemonic = "absurd song rate gadget film response lawn grief guide disorder resemble ask";

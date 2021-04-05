@@ -1,1 +1,1 @@
-var mnemonic = "laugh work attend gorilla length glimpse egg pluck wise special believe language";
+var mnemonic = "manage soldier soccer bubble crush frost motor crumble wish flee aerobic cost";

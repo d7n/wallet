@@ -1,1 +1,1 @@
-var mnemonic = "indoor acoustic among pupil license someone indoor erosion theme rude style opinion";
+var mnemonic = "satoshi pyramid orbit salon pelican cost gate trophy notice staff company test";

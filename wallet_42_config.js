@@ -1,1 +1,1 @@
-var mnemonic = "song cycle kingdom odor gravity ripple stuff fly toy skirt false plastic";
+var mnemonic = "card ordinary jewel oval ready index sphere predict frame nothing skull pistol";

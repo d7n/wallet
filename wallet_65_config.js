@@ -1,1 +1,1 @@
-var mnemonic = "song agent type diary jazz enact weapon harsh glare helmet solar wink";
+var mnemonic = "copper awkward bundle donate orient tool ensure spare brick blast wealth account";

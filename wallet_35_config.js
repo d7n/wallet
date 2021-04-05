@@ -1,1 +1,1 @@
-var mnemonic = "session purity pear genuine filter flavor door jazz welcome abstract bulk apology";
+var mnemonic = "merry leopard glimpse elder panther tide program current possible travel eagle motor";

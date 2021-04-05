@@ -1,1 +1,1 @@
-var mnemonic = "crowd produce evolve secret that junk gym cement mechanic process manage curve";
+var mnemonic = "audit chat sunny enjoy egg magnet comfort wild announce barely dish hen";

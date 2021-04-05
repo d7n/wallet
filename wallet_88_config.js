@@ -1,1 +1,1 @@
-var mnemonic = "rib deny two poverty among journey host theme young february crisp exhibit";
+var mnemonic = "bless equip art leg human clap key work slab orient venue reflect";

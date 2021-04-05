@@ -1,1 +1,1 @@
-var mnemonic = "solid such purchase invest ankle nose perfect long despair staff gas laugh";
+var mnemonic = "tube priority rule post jungle mix universe gift salmon athlete blind theme";

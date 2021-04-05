@@ -1,1 +1,1 @@
-var mnemonic = "happy decorate thank liar sense social wrestle entire neutral harvest tray wish";
+var mnemonic = "noodle height tiny rose copper vicious sun hire skull stairs club visit";

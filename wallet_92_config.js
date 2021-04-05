@@ -1,1 +1,1 @@
-var mnemonic = "hospital edit ceiling space gaze era nothing random prison idea bid mosquito";
+var mnemonic = "tackle enter piano leg title aim craft apology weather give off large";

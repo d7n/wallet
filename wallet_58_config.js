@@ -1,1 +1,1 @@
-var mnemonic = "loop tonight black shell author journey rather cannon program north holiday differ";
+var mnemonic = "alone long lounge grit language teach run gadget mule poem poet slender";

@@ -1,1 +1,1 @@
-var mnemonic = "dish since intact rabbit cloud sugar cook acoustic audit bundle area glory";
+var mnemonic = "rather elbow have job member sport expire cloud board coin embark cargo";

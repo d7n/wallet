@@ -1,1 +1,1 @@
-var mnemonic = "panel fashion fame either vehicle divert alpha thumb tribe insect nominee remain";
+var mnemonic = "attract picnic crush afford illegal refuse permit nose young add garbage meadow";

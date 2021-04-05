@@ -1,1 +1,1 @@
-var mnemonic = "outer daring twin lumber timber diary oak cool allow love about arrange";
+var mnemonic = "off scene topic index select example auto emerge spirit pole plug mask";

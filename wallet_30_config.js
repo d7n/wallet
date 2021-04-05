@@ -1,1 +1,1 @@
-var mnemonic = "art poem verify switch party recall gym engage bulk lunch kid fetch";
+var mnemonic = "awful away under silly valid honey subway text aisle globe bus attract";

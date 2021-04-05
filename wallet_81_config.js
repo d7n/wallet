@@ -1,1 +1,1 @@
-var mnemonic = "climb rural amazing front fetch village mandate ability mind penalty make door";
+var mnemonic = "decade force picture solid birth benefit wave butter buzz food hidden rib";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel sell attend baby prosper kangaroo timber away save question truly tobacco";
+var mnemonic = "bounce balcony cereal child state transfer inherit broccoli indoor deposit curve way";

@@ -1,1 +1,1 @@
-var mnemonic = "scan case hip ceiling summer vanish defy drum spatial leaf purchase add";
+var mnemonic = "devote ride seed oxygen chicken grab indoor price dose year brother gold";

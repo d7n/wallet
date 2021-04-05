@@ -1,1 +1,1 @@
-var mnemonic = "scale inform trade chest garden leader spawn reunion glimpse december radar involve";
+var mnemonic = "sustain scare buddy useless mule suspect payment require door aware garlic salute";

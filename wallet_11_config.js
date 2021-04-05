@@ -1,1 +1,1 @@
-var mnemonic = "lift menu rule coach license humor box among aerobic arch tragic into";
+var mnemonic = "plate surprise dry deer cupboard remember faint fantasy guitar bulb push dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard trumpet industry nut vanish bleak ceiling cash donkey surge frozen regular";
+var mnemonic = "own garment wild attitude they crazy voyage load clever shadow helmet rug";

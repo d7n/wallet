@@ -1,1 +1,1 @@
-var mnemonic = "vague connect green biology tower category daring stay coral truth damage seminar";
+var mnemonic = "explain stove device neither west jar cool ankle off cinnamon blush fold";

@@ -1,1 +1,1 @@
-var mnemonic = "color output use clever slush permit position access figure diet minimum salad";
+var mnemonic = "fix argue auction repeat wall stage load bargain coconut inside cute empower";

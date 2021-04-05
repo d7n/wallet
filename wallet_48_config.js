@@ -1,1 +1,1 @@
-var mnemonic = "spot seed pilot blanket donate cotton major vapor youth false dance hen";
+var mnemonic = "spare bread win bridge corn curve nest pulse liquid hunt clap else";

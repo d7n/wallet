@@ -1,1 +1,1 @@
-var mnemonic = "join mobile struggle tribe bag civil conduct only seat popular stock injury";
+var mnemonic = "home wonder hawk next polar push cave sound rib float recipe zone";

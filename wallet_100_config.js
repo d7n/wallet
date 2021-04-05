@@ -1,1 +1,1 @@
-var mnemonic = "tray nasty sun bronze turkey guilt uncover abandon click vault student glide";
+var mnemonic = "tonight talent february blast health phone cupboard soft skate slim rival world";

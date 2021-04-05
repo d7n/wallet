@@ -1,1 +1,1 @@
-var mnemonic = "husband news discover father crouch violin much derive answer rice cart drum";
+var mnemonic = "aunt enable bottom label glove retire force material unknown soft when decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth model region bulb coin cry clarify gallery vicious fan kiwi possible";
+var mnemonic = "evoke thumb step furnace topple hover just sun guilt evidence inner final";

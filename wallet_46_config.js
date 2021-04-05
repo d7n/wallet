@@ -1,1 +1,1 @@
-var mnemonic = "wife prefer bottom ritual ritual wool whale split afford film eye outer";
+var mnemonic = "dose search rib moment toy fame gather doll bullet benefit snow skin";

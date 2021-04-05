@@ -1,1 +1,1 @@
-var mnemonic = "please galaxy relax suffer rail easy drop toddler seed ivory lesson fossil";
+var mnemonic = "veteran lava april smart tattoo boring canal orbit roast lizard limit banana";

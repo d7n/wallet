@@ -1,1 +1,1 @@
-var mnemonic = "kit when envelope desert false dirt phone whale carpet mouse truth orbit";
+var mnemonic = "beyond gown brush legal involve public snow chicken exotic wire identify genius";

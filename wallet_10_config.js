@@ -1,1 +1,1 @@
-var mnemonic = "tone man march agent vocal flock item matrix produce mercy certain garlic";
+var mnemonic = "glide undo genius jealous wrestle wheel chicken rich essay guilt vacant camera";

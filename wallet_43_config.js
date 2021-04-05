@@ -1,1 +1,1 @@
-var mnemonic = "duty stem royal slow excuse walk mail decade patient liar question vacant";
+var mnemonic = "exchange lizard electric one permit dose rack lift zebra crane print pen";

@@ -1,1 +1,1 @@
-var mnemonic = "reason choose surge brisk dirt dice dice crush world torch bike stick";
+var mnemonic = "country today price above swing now aspect theme man kingdom stage mask";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake indicate divert cave convince rib wife region ceiling spend obey jelly";
+var mnemonic = "need fat tornado cushion verify bus deer toast unveil range female permit";
