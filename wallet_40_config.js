@@ -1,1 +1,1 @@
-var mnemonic = "small envelope dignity wise extra menu salmon frame garden squeeze work moral";
+var mnemonic = "fury corn envelope summer depth shallow fun vacant typical series civil resist";

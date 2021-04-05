@@ -1,1 +1,1 @@
-var mnemonic = "bean display awkward anger act later pole bar gaze energy mango file";
+var mnemonic = "smart trick casual disease plug lobster poverty region flock label cradle just";

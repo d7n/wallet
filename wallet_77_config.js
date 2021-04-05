@@ -1,1 +1,1 @@
-var mnemonic = "science setup wage like despair sphere enlist speed force tuna senior thrive";
+var mnemonic = "moment fine plunge mention extend risk reopen order fit garbage stool grab";

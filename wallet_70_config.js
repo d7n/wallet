@@ -1,1 +1,1 @@
-var mnemonic = "gas valley boost route then vital movie input undo coast physical check";
+var mnemonic = "neck endless father ball skate leader domain other radar measure agent actor";

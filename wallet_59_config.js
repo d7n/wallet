@@ -1,1 +1,1 @@
-var mnemonic = "add half exotic august repeat ceiling capable wish circle film crater address";
+var mnemonic = "pave crucial path luggage teach upgrade bacon letter frown dad flock pair";

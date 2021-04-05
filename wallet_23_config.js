@@ -1,1 +1,1 @@
-var mnemonic = "daring mobile nerve captain surface above advance remove latin giraffe blur abstract";
+var mnemonic = "piece tennis orphan unfold pet gospel tourist bind harsh inherit lawn spin";

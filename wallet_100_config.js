@@ -1,1 +1,1 @@
-var mnemonic = "judge deal unusual vicious pupil autumn where tilt bridge protect twice melt";
+var mnemonic = "idea slogan trouble cradle feel wrestle mistake market festival cannon popular web";

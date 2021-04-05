@@ -1,1 +1,1 @@
-var mnemonic = "near sentence dumb token smart keep gaze balance resource taste discover vacant";
+var mnemonic = "collect scare rather april party angle stool series path inform thumb thank";

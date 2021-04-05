@@ -1,1 +1,1 @@
-var mnemonic = "order jaguar camp spot aunt episode nuclear bus until wage merit local";
+var mnemonic = "oxygen mandate humor hamster cattle crack portion stool chef cruel jar panther";

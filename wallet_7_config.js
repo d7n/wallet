@@ -1,1 +1,1 @@
-var mnemonic = "crush devote one silent bargain food design fatigue jar derive drift update";
+var mnemonic = "seven conduct abandon member right alone chronic render payment found price swamp";

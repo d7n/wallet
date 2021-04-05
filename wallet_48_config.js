@@ -1,1 +1,1 @@
-var mnemonic = "shield boost crash water nature soul okay dry chaos small wait hood";
+var mnemonic = "custom visit local census apple hobby keen cream lens book history trim";

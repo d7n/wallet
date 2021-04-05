@@ -1,1 +1,1 @@
-var mnemonic = "access gate present emotion jar very cancel gain calm obvious child stable";
+var mnemonic = "sudden fashion clip pudding behave sheriff mix aware town jazz item sauce";

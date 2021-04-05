@@ -1,1 +1,1 @@
-var mnemonic = "disagree choice throw actor face kitten clock jump faculty animal aunt behave";
+var mnemonic = "luxury sunset render promote stick aspect actress test require purse hip snap";

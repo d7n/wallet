@@ -1,1 +1,1 @@
-var mnemonic = "update risk fragile upset hamster treat fan dry taxi flee normal dry";
+var mnemonic = "pyramid record ten soul explain early tomorrow decrease exit ugly drink vault";

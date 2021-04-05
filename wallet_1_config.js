@@ -1,1 +1,1 @@
-var mnemonic = "earth speak resist kite hurdle garden frequent choose orphan glove cool gorilla";
+var mnemonic = "source pole pyramid sister return panic correct wall that drift permit sell";

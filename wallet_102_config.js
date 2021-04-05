@@ -1,1 +1,1 @@
-var mnemonic = "action emotion buddy century arrest chest admit guitar try employ indoor rule";
+var mnemonic = "finish laugh name cash alert hotel cram seek useless fork someone taste";

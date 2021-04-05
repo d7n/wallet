@@ -1,1 +1,1 @@
-var mnemonic = "copy exchange bus cause elder wise decade number pottery month prefer custom";
+var mnemonic = "indicate vicious grace mule nation theme matrix zone rely luggage farm manual";

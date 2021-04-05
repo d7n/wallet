@@ -1,1 +1,1 @@
-var mnemonic = "steak hood horror subject degree volume face grain book horn innocent want";
+var mnemonic = "blood hazard mountain warm hybrid endless man sport vital digital exotic floor";

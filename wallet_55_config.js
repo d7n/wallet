@@ -1,1 +1,1 @@
-var mnemonic = "always learn movie plate swear hour rookie exchange flower rude expire manage";
+var mnemonic = "dignity peace wall nasty pattern rose nasty immense car chest right argue";

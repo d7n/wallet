@@ -1,1 +1,1 @@
-var mnemonic = "fly strategy dirt sell funny hard skull reform gate guess benefit pass";
+var mnemonic = "inquiry pluck since cross hospital cheap wide humor obey shallow plug cricket";

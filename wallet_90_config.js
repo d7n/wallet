@@ -1,1 +1,1 @@
-var mnemonic = "awful reject pizza swear hold snow spice fringe cart bar humble assist";
+var mnemonic = "fossil faculty cream uncle unhappy gold burger mention section toast cube guide";

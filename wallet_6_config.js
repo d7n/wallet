@@ -1,1 +1,1 @@
-var mnemonic = "kick nuclear peanut draft category forest toilet town future carbon cloth recycle";
+var mnemonic = "liar scout coffee bonus lazy media very sport loyal much month crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle amazing stay injury seminar click ugly chronic east tape sick crucial";
+var mnemonic = "law auto trophy purse between close various inject crop grant casino skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary ritual glide ancient muffin biology worry image spend rely bullet much";
+var mnemonic = "flush thrive evoke rubber letter cheap corn ladder verify awkward eyebrow tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "pill cloud pudding behind shrug wage extend base craft false disagree useless";
+var mnemonic = "total rifle inherit other hip invite cat swarm grape timber story lamp";

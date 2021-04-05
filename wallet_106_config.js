@@ -1,1 +1,1 @@
-var mnemonic = "voice torch remember vibrant audit few sadness century child resemble mercy nose";
+var mnemonic = "violin gap lemon velvet flower steel budget pipe attend weapon fruit hole";

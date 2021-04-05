@@ -1,1 +1,1 @@
-var mnemonic = "fitness seven math because common seminar welcome poverty true exercise peasant execute";
+var mnemonic = "regret squirrel enable license detail lucky habit stove later come vault fever";

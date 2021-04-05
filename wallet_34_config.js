@@ -1,1 +1,1 @@
-var mnemonic = "minimum gold proud reopen buzz enable man success copper upon vibrant swarm";
+var mnemonic = "voice diary menu because work divide that foster thumb various cushion sweet";

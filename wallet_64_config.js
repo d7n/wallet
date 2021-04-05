@@ -1,1 +1,1 @@
-var mnemonic = "evoke practice mammal shell twist soap priority mask notice rotate hub staff";
+var mnemonic = "misery answer rough walnut oblige garbage come tower merry reflect swap throw";

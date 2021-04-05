@@ -1,1 +1,1 @@
-var mnemonic = "polar shoe ensure phone first unhappy mansion fee find curious quick obscure";
+var mnemonic = "put grief fine laugh view field dream inner wagon game flame mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "aim april rib brain diamond merry marine muscle escape narrow void crew";
+var mnemonic = "cover possible equal tourist slam salmon elephant rail miracle sail color neck";

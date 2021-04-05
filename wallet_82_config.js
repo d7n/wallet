@@ -1,1 +1,1 @@
-var mnemonic = "idle undo bind true spring skirt forum celery valley visual catalog this";
+var mnemonic = "public punch crumble economy fun vapor ball hand modify snow tuition rule";

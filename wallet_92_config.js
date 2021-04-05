@@ -1,1 +1,1 @@
-var mnemonic = "demand alcohol trick art hover easy lava answer list distance pupil deer";
+var mnemonic = "blame maple movie guilt dance then fabric raccoon evil topic rifle history";

@@ -1,1 +1,1 @@
-var mnemonic = "tired butter soul lizard before tackle address old save illness couch damage";
+var mnemonic = "column library will silly parent absurd spatial little category eager unit hint";

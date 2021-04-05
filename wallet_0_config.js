@@ -1,1 +1,1 @@
-var mnemonic = "carry poem siege patch force vocal cream shaft flock high remind local";
+var mnemonic = "wrong device write innocent card salmon dirt memory coyote catch save dash";

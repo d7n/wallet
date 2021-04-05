@@ -1,1 +1,1 @@
-var mnemonic = "light prosper cluster topple snap caution crumble raccoon main glad remain wet";
+var mnemonic = "glow evoke dice donkey legend begin comic scorpion couch secret time ready";

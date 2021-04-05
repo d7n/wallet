@@ -1,1 +1,1 @@
-var mnemonic = "digital room favorite wrap solve wrestle plunge spice fluid weasel lunar chaos";
+var mnemonic = "snake practice submit unit when forum awake cruise track win chat fiction";

@@ -1,1 +1,1 @@
-var mnemonic = "coin output early void upon key casino public rural term shaft city";
+var mnemonic = "leader shaft never kick target rely exhaust warfare pipe electric clip window";

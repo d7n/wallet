@@ -1,1 +1,1 @@
-var mnemonic = "short park retire tomato evoke evil evolve cushion humble tape skull minimum";
+var mnemonic = "record shield sunset dinner punch toe curve near exchange decade venue hole";

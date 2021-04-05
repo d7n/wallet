@@ -1,1 +1,1 @@
-var mnemonic = "broccoli there gadget daughter expand task great tennis novel gossip boil drink";
+var mnemonic = "rebel spice picnic enlist reform thought border shield company tent grid dress";

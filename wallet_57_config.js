@@ -1,1 +1,1 @@
-var mnemonic = "punch exile balcony comic mobile health accident genuine denial loud climb art";
+var mnemonic = "wood achieve sentence hero ability seek innocent blind public dress brick remove";

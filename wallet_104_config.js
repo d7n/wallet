@@ -1,1 +1,1 @@
-var mnemonic = "shadow mobile transfer much grass deputy surface luggage enable inmate fossil game";
+var mnemonic = "wait face shoot cash federal monkey genre pitch pride audit weekend venue";

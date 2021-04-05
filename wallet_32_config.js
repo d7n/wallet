@@ -1,1 +1,1 @@
-var mnemonic = "fold melt similar magic luxury verb bicycle coin reopen lady grace spike";
+var mnemonic = "artwork orbit confirm lunar despair pudding alert recycle web zoo victory invite";

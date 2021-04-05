@@ -1,1 +1,1 @@
-var mnemonic = "fall liquid bar oval auction clock melt spin food kingdom cram phrase";
+var mnemonic = "search sleep immune congress true beyond banana layer ball tube lyrics above";

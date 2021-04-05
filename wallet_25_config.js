@@ -1,1 +1,1 @@
-var mnemonic = "exclude please degree awful milk nature giant rural hedgehog guess mask mail";
+var mnemonic = "bird mail shrug glide fancy drill orient below maximum fatal siege link";

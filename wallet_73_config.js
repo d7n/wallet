@@ -1,1 +1,1 @@
-var mnemonic = "any system glide fish favorite debris crew puzzle old forum loud more";
+var mnemonic = "correct inner toward catch hint jazz rose into creek exclude endorse cage";

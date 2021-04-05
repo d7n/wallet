@@ -1,1 +1,1 @@
-var mnemonic = "crash brass total success stomach fabric eternal rough bleak under advice fall";
+var mnemonic = "photo pulse session now barely lobster rude couple amazing argue humble beef";

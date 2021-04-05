@@ -1,1 +1,1 @@
-var mnemonic = "payment hockey seminar december fiber pilot possible load hunt divide stone trip";
+var mnemonic = "dignity sheriff column royal license bridge client list goose seek shrimp curtain";

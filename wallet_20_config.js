@@ -1,1 +1,1 @@
-var mnemonic = "inquiry rhythm parrot connect office leaf useful spring blind holiday cushion start";
+var mnemonic = "august giggle raw unit grit pumpkin sick almost also asthma bonus captain";

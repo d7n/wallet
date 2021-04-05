@@ -1,1 +1,1 @@
-var mnemonic = "throw mention piano spell idea ask menu clock regret rack clown uncover";
+var mnemonic = "stumble mistake jazz twin balcony depart gauge disorder tragic busy panic equal";

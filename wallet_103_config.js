@@ -1,1 +1,1 @@
-var mnemonic = "stamp warrior screen ball claw judge actress pottery stand unaware post code";
+var mnemonic = "forest lucky celery thunder accuse scrub walnut sorry situate secret broom inform";

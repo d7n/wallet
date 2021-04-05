@@ -1,1 +1,1 @@
-var mnemonic = "excite predict frozen soul history intact girl identify next reunion whisper prevent";
+var mnemonic = "icon deny put brother reform orbit chaos board tower neutral brass tennis";

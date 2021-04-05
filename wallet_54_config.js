@@ -1,1 +1,1 @@
-var mnemonic = "snap stand spoil doctor amateur mail girl write eyebrow almost law false";
+var mnemonic = "razor vault include paddle opinion fine draft style soul rocket hedgehog glide";

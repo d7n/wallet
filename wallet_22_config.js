@@ -1,1 +1,1 @@
-var mnemonic = "crazy arctic session cluster success shallow dutch solid become peanut february gospel";
+var mnemonic = "afford reform post afford pear fit offer gospel surround season ice enough";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace drum flash possible wave spring exile loud public filter develop utility";
+var mnemonic = "shop shoot tortoise hair brain royal never sleep report cricket mass unit";

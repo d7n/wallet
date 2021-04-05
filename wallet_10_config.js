@@ -1,1 +1,1 @@
-var mnemonic = "index milk own enroll curious chief nasty ski february amused develop mean";
+var mnemonic = "gloom any green distance board bitter dismiss story flag nation antique inside";

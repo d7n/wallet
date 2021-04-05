@@ -1,1 +1,1 @@
-var mnemonic = "side achieve result reward wagon major guide glass car hobby force among";
+var mnemonic = "issue upper spirit famous food ranch orbit reason already vacuum hood author";

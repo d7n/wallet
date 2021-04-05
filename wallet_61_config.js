@@ -1,1 +1,1 @@
-var mnemonic = "escape marriage love frame lens usage satisfy knee coyote chuckle warrior note";
+var mnemonic = "help current seminar sleep unaware mention survey liquid opinion walnut excess clown";

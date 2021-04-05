@@ -1,1 +1,1 @@
-var mnemonic = "worth obey pudding dinosaur bind narrow reason egg balcony insect suffer leopard";
+var mnemonic = "slab borrow cram claim round pool tuna ask want sphere make lounge";

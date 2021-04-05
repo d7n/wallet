@@ -1,1 +1,1 @@
-var mnemonic = "finger toy holiday ranch proud letter try exercise album adapt marble soap";
+var mnemonic = "patrol picnic multiply calm glove option judge glance frog brand true dash";

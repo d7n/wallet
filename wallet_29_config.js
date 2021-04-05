@@ -1,1 +1,1 @@
-var mnemonic = "buzz clump bless adapt float language elephant cheap special twist asthma engage";
+var mnemonic = "news infant under misery spot hero aerobic ivory match latin appear sense";

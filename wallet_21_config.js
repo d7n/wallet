@@ -1,1 +1,1 @@
-var mnemonic = "peanut six chat develop feature someone ethics zebra knock witness weather valley";
+var mnemonic = "sunny bag impulse ridge also engage install avoid problem supply match globe";

@@ -1,1 +1,1 @@
-var mnemonic = "keep select hotel host install shadow sister final cake spell crush school";
+var mnemonic = "flee mandate catch stove grass humor rebel trip diesel hero magic october";

@@ -1,1 +1,1 @@
-var mnemonic = "solution hawk motor number dish garlic leg web pattern harvest breeze donate";
+var mnemonic = "plate tongue buddy deer help slide ticket volume gift mushroom mention alert";

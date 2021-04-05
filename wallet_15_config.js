@@ -1,1 +1,1 @@
-var mnemonic = "gorilla basic trade during curious upper resource basic card team casual surprise";
+var mnemonic = "point unlock bachelor purse erase mix ability they include trick cotton tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "curve shoot flock tourist theory boat toddler cigar bamboo awful weasel practice";
+var mnemonic = "march motion wife slight pyramid rent credit junior silk mouse man venture";

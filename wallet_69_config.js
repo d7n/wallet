@@ -1,1 +1,1 @@
-var mnemonic = "add churn silent gift prison fall napkin neck retreat hazard accuse govern";
+var mnemonic = "blind now dinner square onion cluster float moon body vague else debris";

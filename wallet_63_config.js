@@ -1,1 +1,1 @@
-var mnemonic = "phrase peanut oppose safe glory rain winter cram bullet excite priority lyrics";
+var mnemonic = "resemble happy museum smoke settle tired pig typical whisper position element tunnel";

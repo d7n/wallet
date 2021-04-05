@@ -1,1 +1,1 @@
-var mnemonic = "icon invite minor alpha rich rate universe monkey police crime birth gather";
+var mnemonic = "need praise gym sing seminar inner custom quantum six liquid this scout";

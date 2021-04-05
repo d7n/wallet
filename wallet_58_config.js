@@ -1,1 +1,1 @@
-var mnemonic = "narrow obscure various quit stage thank round paper club again segment hamster";
+var mnemonic = "dog scene witness vehicle stem seat boring exchange invest agent avoid mother";

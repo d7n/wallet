@@ -1,1 +1,1 @@
-var mnemonic = "oval solve upgrade enough chapter slice naive surprise black bottom only message";
+var mnemonic = "again fly despair mom toilet quality jelly camp oak modify buffalo dove";

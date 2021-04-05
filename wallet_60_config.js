@@ -1,1 +1,1 @@
-var mnemonic = "dumb fence proud cruise alarm sun ripple guard olympic cereal violin message";
+var mnemonic = "often drama mix heavy shy choice school cake cage enable hole sustain";

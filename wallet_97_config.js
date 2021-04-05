@@ -1,1 +1,1 @@
-var mnemonic = "pitch dose sell you feature surprise movie cliff proud joke journey thumb";
+var mnemonic = "cry valid exotic media urban pelican ignore margin recipe theory quiz hold";

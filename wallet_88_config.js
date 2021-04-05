@@ -1,1 +1,1 @@
-var mnemonic = "ripple again month capital spare card title cross volume nature media curious";
+var mnemonic = "era vintage gesture buyer fame action radio scrap sugar good fat will";

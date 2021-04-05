@@ -1,1 +1,1 @@
-var mnemonic = "puppy stool thrive eyebrow video glad title load warfare swallow jacket control";
+var mnemonic = "equal good mail clay story virus park erase sample switch cross reason";

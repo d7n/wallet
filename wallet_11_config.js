@@ -1,1 +1,1 @@
-var mnemonic = "degree topic nation wait model mad survey rabbit exhibit depth smoke figure";
+var mnemonic = "shield truly craft shield raise genuine public raven anxiety small picnic world";

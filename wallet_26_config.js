@@ -1,1 +1,1 @@
-var mnemonic = "cereal rib tube very skin orient tomorrow message dutch knife foot weather";
+var mnemonic = "insect dance excite nothing solar fat found manual until dumb alter twin";

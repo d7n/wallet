@@ -1,1 +1,1 @@
-var mnemonic = "butter creek casual month tourist enter solar innocent write price draft syrup";
+var mnemonic = "seat glove speak gloom dutch grant erode soap health sniff immune dose";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle tower emotion buffalo divide buzz cute soda student behave suggest pony";
+var mnemonic = "clever mandate combine tennis umbrella menu chest purchase weekend chair giggle end";

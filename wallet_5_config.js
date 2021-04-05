@@ -1,1 +1,1 @@
-var mnemonic = "book choice order bag era excite draft broccoli share below wheel lawsuit";
+var mnemonic = "salmon chef creek aisle thing remain garlic gap milk hungry clip punch";

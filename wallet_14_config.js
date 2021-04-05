@@ -1,1 +1,1 @@
-var mnemonic = "grace scorpion cover uncover attack medal require family genre pottery energy ability";
+var mnemonic = "unlock later kit march sample network giggle name once guitar brand general";

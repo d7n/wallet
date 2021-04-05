@@ -1,1 +1,1 @@
-var mnemonic = "escape author cable lady stumble glue system mixed permit figure ski intact";
+var mnemonic = "envelope doctor globe enter jungle define ripple gallery cigar seat acquire country";

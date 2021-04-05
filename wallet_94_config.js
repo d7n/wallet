@@ -1,1 +1,1 @@
-var mnemonic = "foster gauge bread pledge almost own scrap ability during memory final year";
+var mnemonic = "catch risk correct pool hawk shove embrace assume market daring farm step";

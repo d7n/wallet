@@ -1,1 +1,1 @@
-var mnemonic = "roast rice outdoor census mandate fury cream spin chase interest flee dizzy";
+var mnemonic = "inside another giraffe cousin arrange close mad squirrel attend outside equip estate";

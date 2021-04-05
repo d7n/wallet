@@ -1,1 +1,1 @@
-var mnemonic = "forward kit shop cave kiss bottom aerobic hour kidney unable calm insect";
+var mnemonic = "mushroom moral goose worry position tiger wasp mushroom below mobile later direct";

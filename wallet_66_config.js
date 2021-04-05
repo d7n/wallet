@@ -1,1 +1,1 @@
-var mnemonic = "fetch strong firm document unfair trumpet movie arch meat topic knife syrup";
+var mnemonic = "toddler critic sudden theory globe reduce immune detect veteran produce drastic chunk";

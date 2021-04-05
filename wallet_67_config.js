@@ -1,1 +1,1 @@
-var mnemonic = "hole account suffer unhappy alone miracle soft relax fresh word lab virtual";
+var mnemonic = "face coconut occur frozen december rib fit cream phone horror dog endless";
