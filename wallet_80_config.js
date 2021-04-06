@@ -1,1 +1,1 @@
-var mnemonic = "update execute alpha jelly tenant axis capable enact sphere erosion frost cheese";
+var mnemonic = "security mutual celery term walnut door unfair chuckle switch rare such weasel";

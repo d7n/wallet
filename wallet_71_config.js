@@ -1,1 +1,1 @@
-var mnemonic = "escape cloth secret daring damp unveil flavor miracle faith evidence meat double";
+var mnemonic = "slush curious melody effort recycle strike frost world level force armed extra";

@@ -1,1 +1,1 @@
-var mnemonic = "cross creek kidney post ice exhibit kidney tooth donate shrimp arrow gate";
+var mnemonic = "puzzle cycle uphold blood ivory rebuild lens ensure immense similar thing science";

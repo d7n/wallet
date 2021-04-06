@@ -1,1 +1,1 @@
-var mnemonic = "setup badge diesel arrest dance suspect impact machine nephew heart motion bulk";
+var mnemonic = "affair cloud federal board flag spin mad width joke process blanket govern";

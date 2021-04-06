@@ -1,1 +1,1 @@
-var mnemonic = "snap bargain waste arrive quiz drip dress still kitchen connect child tired";
+var mnemonic = "assume pioneer raven leisure lounge state find twice monkey drastic mushroom act";

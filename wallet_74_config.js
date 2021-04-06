@@ -1,1 +1,1 @@
-var mnemonic = "omit rent crucial kingdom target title vague miracle bleak under cart aspect";
+var mnemonic = "spread box easily shoe relax image invest cliff bitter over universe recall";

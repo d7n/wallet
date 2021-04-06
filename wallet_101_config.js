@@ -1,1 +1,1 @@
-var mnemonic = "connect jungle oil soldier walnut gun stove curious park project flash angle";
+var mnemonic = "ginger game detect gym swap employ tray pass throw knee silver arrow";

@@ -1,1 +1,1 @@
-var mnemonic = "omit oppose near shed vacuum sponsor target brave monkey spell bottom boy";
+var mnemonic = "category flower find electric stairs purpose soccer oven during blast empower craft";

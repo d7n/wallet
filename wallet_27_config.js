@@ -1,1 +1,1 @@
-var mnemonic = "phone earth gun have obvious spoil guard trick document movie scan inform";
+var mnemonic = "shrimp juice route equal cabbage unveil spy dawn stamp fresh excite common";

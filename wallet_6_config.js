@@ -1,1 +1,1 @@
-var mnemonic = "ill ready bike vital harvest opera want sure olive purchase tribe apple";
+var mnemonic = "clever excuse phone ship learn pulse cinnamon response mistake gallery short also";

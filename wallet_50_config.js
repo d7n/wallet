@@ -1,1 +1,1 @@
-var mnemonic = "chat health vicious wish noble dry bring north gospel sing craft pet";
+var mnemonic = "hire victory deposit clap exit fossil hurdle purity business margin ugly picnic";

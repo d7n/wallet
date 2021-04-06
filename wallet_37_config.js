@@ -1,1 +1,1 @@
-var mnemonic = "crisp vehicle unfold column slot slush funny pattern buzz job cook practice";
+var mnemonic = "baby erase local trumpet hurdle abuse quality gentle middle mind water supreme";

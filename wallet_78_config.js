@@ -1,1 +1,1 @@
-var mnemonic = "return flame aisle surprise step pumpkin hotel raccoon angry hollow boy torch";
+var mnemonic = "genius often dragon core truth crouch luxury feature quiz resource impact only";

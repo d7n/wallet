@@ -1,1 +1,1 @@
-var mnemonic = "stem produce quick plastic captain tornado repair crane inject wolf left color";
+var mnemonic = "innocent keen fat when dumb floor snow cigar soul bone dog faculty";

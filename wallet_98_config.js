@@ -1,1 +1,1 @@
-var mnemonic = "escape security smooth fancy turkey legal mirror caution original economy sausage wedding";
+var mnemonic = "eager recall veteran potato venue flee write pave caught deputy punch black";

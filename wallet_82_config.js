@@ -1,1 +1,1 @@
-var mnemonic = "acid home toddler sunset wedding know update coach marriage abstract spray diary";
+var mnemonic = "virus mansion recipe enjoy insect seat course toilet worth chronic dizzy model";

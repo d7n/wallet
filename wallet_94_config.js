@@ -1,1 +1,1 @@
-var mnemonic = "speed trophy amount able inside secret label express husband mushroom outside duty";
+var mnemonic = "various poet health now person tired cash time select impact bargain comic";

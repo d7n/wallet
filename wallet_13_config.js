@@ -1,1 +1,1 @@
-var mnemonic = "undo slim unknown museum olive lady order east click enlist hour gesture";
+var mnemonic = "horn clever decide topple obey duty album sand metal cake stamp song";

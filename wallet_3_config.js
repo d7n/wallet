@@ -1,1 +1,1 @@
-var mnemonic = "tape fee end wink virus object receive coach salad humble liquid exchange";
+var mnemonic = "cycle dad energy defense just similar focus palm place panda doctor satisfy";

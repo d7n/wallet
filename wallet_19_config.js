@@ -1,1 +1,1 @@
-var mnemonic = "zone cheese swallow mixed father warrior young donor very table alarm shop";
+var mnemonic = "announce only purity luxury bicycle bird phone garlic method album mushroom gravity";

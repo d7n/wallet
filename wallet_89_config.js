@@ -1,1 +1,1 @@
-var mnemonic = "lamp actress sign method glue before immense auction soft session hill evoke";
+var mnemonic = "produce inform gorilla toward almost pudding illness mercy liar three fury lift";

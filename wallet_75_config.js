@@ -1,1 +1,1 @@
-var mnemonic = "family middle hungry basic huge caught shoulder tomato steel olympic trust tuna";
+var mnemonic = "lazy pitch hazard scrap wasp box wasp nice mail ginger alpha rude";

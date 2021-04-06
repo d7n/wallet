@@ -1,1 +1,1 @@
-var mnemonic = "crater guilt slogan forward joke exhaust tiger please balance sail crowd kiss";
+var mnemonic = "student lunch ghost wing artist curious ensure vital devote opera tortoise blouse";

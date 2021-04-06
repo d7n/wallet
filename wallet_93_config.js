@@ -1,1 +1,1 @@
-var mnemonic = "merge label clown bulk alcohol term ladder average virus ability craft onion";
+var mnemonic = "deal hunt plug ginger pet clump toe acoustic december maid lion tunnel";

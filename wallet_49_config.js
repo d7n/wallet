@@ -1,1 +1,1 @@
-var mnemonic = "enrich predict call sunny door diamond notable ten throw write plug mutual";
+var mnemonic = "broom balcony wagon bracket little rack actor give stadium sweet sort art";

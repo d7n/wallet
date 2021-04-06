@@ -1,1 +1,1 @@
-var mnemonic = "type senior better fabric draw replace front hip add lounge strategy climb";
+var mnemonic = "rapid analyst issue history divide repeat mango gather tourist dumb whisper alley";

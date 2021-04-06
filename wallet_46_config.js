@@ -1,1 +1,1 @@
-var mnemonic = "coast vendor require theme run general runway mean bird truck give swear";
+var mnemonic = "oyster guide hybrid turn balcony million another social below student head raccoon";

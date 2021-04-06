@@ -1,1 +1,1 @@
-var mnemonic = "zero fix rely blue bike water conduct situate session claw tunnel lend";
+var mnemonic = "brand bleak summer bar build chimney invest dinosaur knife leaf keep shallow";

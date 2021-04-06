@@ -1,1 +1,1 @@
-var mnemonic = "vast crunch differ group hire pledge mountain blouse slender kitchen squeeze sound";
+var mnemonic = "hello run circle fancy traffic pretty autumn illegal own grit clutch waste";

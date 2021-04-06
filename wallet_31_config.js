@@ -1,1 +1,1 @@
-var mnemonic = "awake vicious dream donate coin youth bomb frost width letter retreat segment";
+var mnemonic = "annual glue hawk lucky guitar pumpkin pistol also chair habit session smile";

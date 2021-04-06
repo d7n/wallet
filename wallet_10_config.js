@@ -1,1 +1,1 @@
-var mnemonic = "action possible maple fruit fluid motor diet turtle doll measure resemble earn";
+var mnemonic = "urge note load example gauge horror catch maximum since supply bulk hotel";

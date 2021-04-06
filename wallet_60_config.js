@@ -1,1 +1,1 @@
-var mnemonic = "donate interest riot globe trade mention paper average like inch fantasy quiz";
+var mnemonic = "clip worth palace auction ivory right chimney galaxy rural alpha zero robust";

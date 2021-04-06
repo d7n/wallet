@@ -1,1 +1,1 @@
-var mnemonic = "turtle dilemma unusual curious pink execute trick blame talk fatal about tank";
+var mnemonic = "inherit kite best mountain quick decide bar cruise bird very excess adjust";

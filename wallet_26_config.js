@@ -1,1 +1,1 @@
-var mnemonic = "century refuse evoke maximum menu hotel guard dragon achieve fee acid place";
+var mnemonic = "memory lobster impact ankle search cancel middle always kingdom target trophy solution";

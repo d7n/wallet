@@ -1,1 +1,1 @@
-var mnemonic = "amount firm vanish open sudden tourist abstract author auto explain response glide";
+var mnemonic = "stable pave flat library pig monitor acoustic gesture scorpion birth firm access";

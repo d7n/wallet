@@ -1,1 +1,1 @@
-var mnemonic = "slender case family tennis leave neglect price monkey opera pull genre memory";
+var mnemonic = "dutch shift own clutch fancy valve inside invest tornado until obtain that";

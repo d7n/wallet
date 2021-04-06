@@ -1,1 +1,1 @@
-var mnemonic = "tongue snow recycle wet rib top try logic funny coffee vague table";
+var mnemonic = "news scissors term what sing treat discover remember cargo kidney music pave";

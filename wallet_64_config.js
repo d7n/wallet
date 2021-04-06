@@ -1,1 +1,1 @@
-var mnemonic = "tornado then main opinion reunion inherit crop chalk cushion scene empower bean";
+var mnemonic = "orbit market limb text rude roast glory novel cliff involve clump method";

@@ -1,1 +1,1 @@
-var mnemonic = "figure music travel blossom beach poem team extra chief achieve present panel";
+var mnemonic = "cram city trend cruise tuna learn live payment gift syrup tonight gaze";

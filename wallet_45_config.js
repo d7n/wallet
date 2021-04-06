@@ -1,1 +1,1 @@
-var mnemonic = "lamp almost student beef swallow quit define staff bike much issue tank";
+var mnemonic = "crew silver science opera cloud crush soccer thank world drop lottery hour";

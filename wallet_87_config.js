@@ -1,1 +1,1 @@
-var mnemonic = "report elder modify object awful prefer icon lion banner system issue rate";
+var mnemonic = "host holiday violin purse pipe inmate engage noble slim brand champion tourist";

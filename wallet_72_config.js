@@ -1,1 +1,1 @@
-var mnemonic = "pear give runway develop diet icon gaze sustain helmet rude grace permit";
+var mnemonic = "walnut floor tree hat approve power excite window add rain shoot enroll";

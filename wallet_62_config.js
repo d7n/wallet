@@ -1,1 +1,1 @@
-var mnemonic = "bachelor april identify easily tortoise west demise question size clump weekend since";
+var mnemonic = "kind delay rifle plunge pencil garbage tomorrow furnace emerge exchange tobacco suggest";

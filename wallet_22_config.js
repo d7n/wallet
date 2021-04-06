@@ -1,1 +1,1 @@
-var mnemonic = "kind scheme galaxy volume zoo pencil spike six plunge beef impulse wonder";
+var mnemonic = "bread elbow mass decrease surprise truth pill crisp front romance abuse devote";

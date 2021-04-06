@@ -1,1 +1,1 @@
-var mnemonic = "ozone country cage develop leaf income choose remember maid pluck scrub trash";
+var mnemonic = "toddler soccer frozen rabbit tunnel mouse actual ramp tide stage unlock wood";

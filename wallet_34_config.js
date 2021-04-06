@@ -1,1 +1,1 @@
-var mnemonic = "bus ketchup odor margin tuna sudden isolate ask auction enough project faith";
+var mnemonic = "mango enrich company harsh hollow index vocal bronze divide fence program ski";

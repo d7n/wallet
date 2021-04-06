@@ -1,1 +1,1 @@
-var mnemonic = "symptom acquire near solid print equip other erode buffalo pill bitter bottom";
+var mnemonic = "buddy valley dance salmon enlist rate wise mother thing mouse uniform below";

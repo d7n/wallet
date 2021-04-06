@@ -1,1 +1,1 @@
-var mnemonic = "junior post lion fan pigeon garden deny toast grape soup taste piano";
+var mnemonic = "bicycle theory live print chat topple clean remain achieve sentence endless kingdom";

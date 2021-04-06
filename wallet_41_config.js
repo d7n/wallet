@@ -1,1 +1,1 @@
-var mnemonic = "month crucial decline fault jar useless crime glide wing double collect prefer";
+var mnemonic = "parent entire lyrics glory print tonight sock model cycle grain patch negative";

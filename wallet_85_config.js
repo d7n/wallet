@@ -1,1 +1,1 @@
-var mnemonic = "disease program valid envelope mind canyon sausage also spoil point festival axis";
+var mnemonic = "side silver thank bunker grit measure scare business spawn book budget pigeon";

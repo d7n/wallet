@@ -1,1 +1,1 @@
-var mnemonic = "science prepare tag critic kidney vapor become mimic bean country bus rubber";
+var mnemonic = "endless collect crowd long result achieve worth ordinary found wall region ocean";

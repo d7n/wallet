@@ -1,1 +1,1 @@
-var mnemonic = "track suspect afford visa holiday vacant topple sudden patient monitor weird capable";
+var mnemonic = "awake kite tomato roof ordinary gloom pilot conduct erode vicious fire toddler";

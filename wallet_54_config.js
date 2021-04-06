@@ -1,1 +1,1 @@
-var mnemonic = "forum favorite when fat report tape clever plate eternal tail road future";
+var mnemonic = "nominee couch suffer catch chair insect indicate open across movie rather essay";

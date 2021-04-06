@@ -1,1 +1,1 @@
-var mnemonic = "recipe stay swing insect comfort open hold catch chase enable play bachelor";
+var mnemonic = "soup abuse disorder hobby treat coral riot galaxy scorpion unfair change rude";

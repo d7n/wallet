@@ -1,1 +1,1 @@
-var mnemonic = "artist blue sense devote federal uniform hammer food spring juice shoe wheel";
+var mnemonic = "primary stable debate unfair moon warrior lift audit hen piano scrap diagram";

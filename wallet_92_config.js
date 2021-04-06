@@ -1,1 +1,1 @@
-var mnemonic = "current west addict pyramid exhibit cycle toast giant sorry track slab select";
+var mnemonic = "wink circle above token trade shrimp senior leader session hotel acquire thumb";

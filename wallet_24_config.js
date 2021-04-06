@@ -1,1 +1,1 @@
-var mnemonic = "private wreck cool mixture leg ice quality only timber view elbow news";
+var mnemonic = "adult gravity quick exchange judge derive clap nothing pass spot spy buyer";

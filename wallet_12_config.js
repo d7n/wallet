@@ -1,1 +1,1 @@
-var mnemonic = "engine head confirm universe pyramid very aware park pink sword butter blame";
+var mnemonic = "farm urban cloth cousin garden stamp icon salmon quit stool wet carpet";

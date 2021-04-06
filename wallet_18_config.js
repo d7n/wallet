@@ -1,1 +1,1 @@
-var mnemonic = "ghost position asset seven fly kiss grit tomato differ company monster embody";
+var mnemonic = "parrot else region whisper enable battle enable palm purchase winner foam venture";

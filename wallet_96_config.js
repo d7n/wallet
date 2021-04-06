@@ -1,1 +1,1 @@
-var mnemonic = "spray trash garlic segment recall blade baby lesson firm rent gap desk";
+var mnemonic = "gasp lamp purse shoulder very film pelican ill unfair upon much mammal";

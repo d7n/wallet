@@ -1,1 +1,1 @@
-var mnemonic = "above palace erode oxygen tooth skate stairs symbol similar anchor pilot scan";
+var mnemonic = "exercise analyst smooth drift vapor spider police cloth bone extra wing talk";

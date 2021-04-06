@@ -1,1 +1,1 @@
-var mnemonic = "glass repair click imitate cross pluck around canvas insect vague unique conduct";
+var mnemonic = "slam fancy split dentist pluck tip boss physical tennis tiger cruel horror";

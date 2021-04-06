@@ -1,1 +1,1 @@
-var mnemonic = "time claw pumpkin solar turtle various entry equal atom measure daring raw";
+var mnemonic = "episode feed cage dash cool legal rule recall fit resemble traffic open";

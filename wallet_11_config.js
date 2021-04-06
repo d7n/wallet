@@ -1,1 +1,1 @@
-var mnemonic = "run candy page execute ensure doll eyebrow ugly thrive water file brother";
+var mnemonic = "venue dance secret that solution season pink pilot arctic honey obscure hazard";

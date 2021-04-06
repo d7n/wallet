@@ -1,1 +1,1 @@
-var mnemonic = "fruit silent remember child ignore gap lesson modify donor monster car remember";
+var mnemonic = "bleak purity gun recall elegant shuffle decorate prison banner muscle afraid owner";

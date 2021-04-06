@@ -1,1 +1,1 @@
-var mnemonic = "crater crumble bulb thumb accuse surprise boil wedding grid indoor feed eight";
+var mnemonic = "town office reject swing crater domain food cruise lion imitate thing style";

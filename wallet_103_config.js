@@ -1,1 +1,1 @@
-var mnemonic = "cabbage loud oppose wedding unaware despair park snow okay doll gesture target";
+var mnemonic = "sugar fancy buffalo crater umbrella illegal thing diet question harsh cruise verb";

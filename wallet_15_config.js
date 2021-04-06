@@ -1,1 +1,1 @@
-var mnemonic = "want agree guitar auto ask arctic violin company meat then slight language";
+var mnemonic = "leg balcony alien force worth palace critic merit wonder trim spawn wheat";

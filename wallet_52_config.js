@@ -1,1 +1,1 @@
-var mnemonic = "virus goat syrup slow meadow swarm blind uphold best glue flee walk";
+var mnemonic = "priority violin reunion try social slim fiscal enemy boring expect tail toe";

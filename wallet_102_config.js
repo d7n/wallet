@@ -1,1 +1,1 @@
-var mnemonic = "intact wink spatial endless social cram town purity sort brother lyrics hidden";
+var mnemonic = "salon define cinnamon render print liberty round civil rain street road enact";

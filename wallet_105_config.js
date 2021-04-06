@@ -1,1 +1,1 @@
-var mnemonic = "inhale disorder frost bronze drum merit rare bronze spike pen hybrid rhythm";
+var mnemonic = "direct pause develop dismiss naive choice armor leaf chat muffin family ethics";

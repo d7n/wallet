@@ -1,1 +1,1 @@
-var mnemonic = "recall require square ability unhappy short cheap lizard monster tonight giant wheel";
+var mnemonic = "ketchup exchange agree buddy grace neutral amazing grit measure volcano heavy unusual";

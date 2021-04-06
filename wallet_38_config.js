@@ -1,1 +1,1 @@
-var mnemonic = "trophy biology brief win margin reward blade unknown atom tail neither wrestle";
+var mnemonic = "arctic setup gasp unlock screen early romance spirit chalk okay goat tongue";

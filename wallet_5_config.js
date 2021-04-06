@@ -1,1 +1,1 @@
-var mnemonic = "toss edge start hand cargo crack weird alien become auto gather rail";
+var mnemonic = "purity gravity depth bean still coil pen soda real flock board garage";

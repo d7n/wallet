@@ -1,1 +1,1 @@
-var mnemonic = "cousin earth order cloth stand alien erupt oxygen bomb pair caught spring";
+var mnemonic = "scale spike float awkward please goose into gain candy famous supreme flight";

@@ -1,1 +1,1 @@
-var mnemonic = "blast elegant tag voice source biology distance admit resist fortune shop twice";
+var mnemonic = "income trade gospel photo crunch pitch ridge dust flat unfold clean shock";

@@ -1,1 +1,1 @@
-var mnemonic = "priority enroll morning quantum salmon pitch boy favorite weasel sign photo scheme";
+var mnemonic = "expect song broccoli dream lonely ship tank favorite door floor blast miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "immense pond pumpkin since file cable jump craft evidence deputy reject minimum";
+var mnemonic = "mammal decide coil eight any require dog follow cloud outdoor clump vicious";

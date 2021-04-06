@@ -1,1 +1,1 @@
-var mnemonic = "grief frozen bamboo lawsuit blanket project tree donkey host school dizzy exchange";
+var mnemonic = "endless purity arm fever punch learn blur surface angry fiscal brave nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "material again juice lend attract vague victory mobile siege play hover parent";
+var mnemonic = "execute goose uncover begin relax ahead donate better wasp spoil scan portion";

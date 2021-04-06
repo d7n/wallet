@@ -1,1 +1,1 @@
-var mnemonic = "awake pond skill bar glory acid salad this garlic tongue shoe stereo";
+var mnemonic = "youth manage cement wasp theme fortune myself wear used marble foot regular";

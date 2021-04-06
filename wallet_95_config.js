@@ -1,1 +1,1 @@
-var mnemonic = "rough pumpkin lazy sudden still loud act monkey excess light curve village";
+var mnemonic = "viable length live cram art ordinary waste replace pelican please sea gospel";

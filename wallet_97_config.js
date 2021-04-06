@@ -1,1 +1,1 @@
-var mnemonic = "dog brisk any require maze reveal day coast chunk thought tonight nephew";
+var mnemonic = "catalog second ring crisp hair smile birth tragic furnace aspect helmet answer";

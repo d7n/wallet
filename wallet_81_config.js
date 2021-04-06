@@ -1,1 +1,1 @@
-var mnemonic = "grid update endless engage unhappy gift rail orient left potato resource kit";
+var mnemonic = "bone menu gadget trend dragon rib song kangaroo fury seat west frame";

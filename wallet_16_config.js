@@ -1,1 +1,1 @@
-var mnemonic = "luxury resist monitor egg post mouse consider code truck link swamp more";
+var mnemonic = "limb half funny enable today movie basic pulse orphan under earn print";

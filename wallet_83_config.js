@@ -1,1 +1,1 @@
-var mnemonic = "estate crunch hunt piece butter seven cargo cliff rabbit flag regular borrow";
+var mnemonic = "before entry satisfy joke hold green disorder business can document slogan admit";

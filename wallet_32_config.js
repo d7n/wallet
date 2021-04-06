@@ -1,1 +1,1 @@
-var mnemonic = "forum dentist nominee muffin judge soda tonight hurdle govern hood mercy goddess";
+var mnemonic = "camp clinic target today nothing comfort chapter weasel disorder caught useless crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "famous bridge cousin clock march hedgehog idle old first note rate opera";
+var mnemonic = "walk ribbon core narrow lazy daring jazz upper ten stamp loan steel";

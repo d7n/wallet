@@ -1,1 +1,1 @@
-var mnemonic = "major boring survey require example behind vital table box walnut review able";
+var mnemonic = "hen story parrot public maid risk wet accuse enhance degree enemy service";
