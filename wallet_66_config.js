@@ -1,1 +1,1 @@
-var mnemonic = "dentist garage slender anger knee object that mechanic planet act rotate upper";
+var mnemonic = "call auction blossom mirror lion key later spare awake border slow couch";

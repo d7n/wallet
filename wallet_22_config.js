@@ -1,1 +1,1 @@
-var mnemonic = "laptop ensure slam garbage vocal such danger panther valley search permit helmet";
+var mnemonic = "identify album canvas tail unhappy broccoli sibling dry letter noodle canal area";

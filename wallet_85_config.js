@@ -1,1 +1,1 @@
-var mnemonic = "pipe brain example retire culture stone cushion pioneer over dignity bind auction";
+var mnemonic = "gate much sword loyal renew drum often suggest tower bridge feed pudding";

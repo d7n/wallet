@@ -1,1 +1,1 @@
-var mnemonic = "ocean master melt erase future enter maze enough limb fashion hockey during";
+var mnemonic = "come smile wisdom verify enact image teach grain wolf fabric border poverty";

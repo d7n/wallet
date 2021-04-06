@@ -1,1 +1,1 @@
-var mnemonic = "artefact fault debris twice pudding pen swim system outside team copy six";
+var mnemonic = "basic paddle amused cabin best then glow bonus shadow real save napkin";

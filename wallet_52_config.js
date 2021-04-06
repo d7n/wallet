@@ -1,1 +1,1 @@
-var mnemonic = "ship submit black shrimp spider cruise liberty plastic idea guard flash dress";
+var mnemonic = "humor fish trap cabbage roast tooth great rhythm virus smile tuition chuckle";

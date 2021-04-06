@@ -1,1 +1,1 @@
-var mnemonic = "worry result cotton easy shallow wall bone crime index near draft vacuum";
+var mnemonic = "foil claim tip destroy mistake wife shaft mammal reunion speak push catch";

@@ -1,1 +1,1 @@
-var mnemonic = "lava curtain snow alone used tuna tenant thumb quick swear rigid field";
+var mnemonic = "enemy fame crater stove endless strike wrap tomato accident dismiss stairs awake";

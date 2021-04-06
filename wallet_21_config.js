@@ -1,1 +1,1 @@
-var mnemonic = "attitude twice lesson perfect glimpse grab check learn simple legend color outdoor";
+var mnemonic = "man alone saddle modify tunnel change vapor quit worry spoon height foam";

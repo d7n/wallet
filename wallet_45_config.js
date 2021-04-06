@@ -1,1 +1,1 @@
-var mnemonic = "ranch heart electric cart west genius filter spray kitten slide surface frown";
+var mnemonic = "upgrade lady table glass current foot aspect tortoise width scorpion unit tide";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy hero robust admit estate item stool champion goddess clarify lucky shrimp";
+var mnemonic = "rose hawk leaf prevent begin security sudden enforce raise pulp return fence";

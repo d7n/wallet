@@ -1,1 +1,1 @@
-var mnemonic = "icon improve hen visa empower weasel bonus path female session claw chronic";
+var mnemonic = "uniform sound hurt demand renew shield journey subway romance weather door taxi";

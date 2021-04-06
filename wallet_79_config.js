@@ -1,1 +1,1 @@
-var mnemonic = "taste document clean super upon gentle frame happy rude volume actress genius";
+var mnemonic = "clean ranch immune text rent south action talk pitch boring crunch amount";

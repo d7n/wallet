@@ -1,1 +1,1 @@
-var mnemonic = "second hole cram path snow hundred chuckle near question pattern medal grape";
+var mnemonic = "merge curve crane enjoy borrow same novel luggage tribe venue vendor arctic";

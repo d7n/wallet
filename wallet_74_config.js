@@ -1,1 +1,1 @@
-var mnemonic = "draw body island trap quick blade crater naive cricket account shed obscure";
+var mnemonic = "tenant inherit chest afford eager hotel situate walk trophy round balance flight";

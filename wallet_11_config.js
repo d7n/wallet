@@ -1,1 +1,1 @@
-var mnemonic = "vibrant inside alarm clown tooth quality tonight hero robot unit vault purity";
+var mnemonic = "scrub latin reflect blade weapon update uncle crumble harsh vote economy claim";

@@ -1,1 +1,1 @@
-var mnemonic = "seat intact vehicle now flat traffic install topic hub reopen ceiling holiday";
+var mnemonic = "fresh flip what doctor frog leader actual any organ spell put script";

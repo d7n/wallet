@@ -1,1 +1,1 @@
-var mnemonic = "scissors rely reopen earth pair zone practice clap say exchange apple truth";
+var mnemonic = "slow shiver camp between grief fence bottom adult toss possible tuna enforce";

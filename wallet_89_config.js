@@ -1,1 +1,1 @@
-var mnemonic = "few rude good biology food castle unknown arrive civil custom glance citizen";
+var mnemonic = "leave super globe arch beef bag enter library total enlist guitar typical";

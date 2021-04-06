@@ -1,1 +1,1 @@
-var mnemonic = "pottery leader legend fatigue fee language ignore fine issue snack ice outer";
+var mnemonic = "north lonely bulb habit rare burger security noise swim common rich acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "pass resist pudding defy dad loyal oppose whale whip horn salute dutch";
+var mnemonic = "youth stumble kingdom rain final excess pulse very roof uniform include illness";

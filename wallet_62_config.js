@@ -1,1 +1,1 @@
-var mnemonic = "review siege stay fit run again region able sand dynamic void junior";
+var mnemonic = "amount evil gap glad there skin disease attend power cream aim wish";

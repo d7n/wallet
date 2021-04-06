@@ -1,1 +1,1 @@
-var mnemonic = "wedding style series cool cousin cry dove place reduce common hungry slight";
+var mnemonic = "daring bring crystal jewel camp impulse proud point common grab sand same";

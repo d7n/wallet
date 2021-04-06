@@ -1,1 +1,1 @@
-var mnemonic = "assist wreck habit chief gift sign slight empty brisk hockey silent rapid";
+var mnemonic = "recall ignore tape rain fragile panel enforce little field student edit yard";

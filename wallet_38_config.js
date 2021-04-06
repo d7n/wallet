@@ -1,1 +1,1 @@
-var mnemonic = "response cluster oak half crew chimney wrap nephew grant paddle satoshi upgrade";
+var mnemonic = "cruise mix rabbit tissue blanket explain midnight head random sugar engine prefer";

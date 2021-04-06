@@ -1,1 +1,1 @@
-var mnemonic = "error file palace tomato rely fat fame venue alcohol mean creek monkey";
+var mnemonic = "weapon crane secret okay dice monitor peace dose refuse miss fortune oppose";

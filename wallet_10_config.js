@@ -1,1 +1,1 @@
-var mnemonic = "odor noise aerobic vehicle profit oak lottery alpha famous save either monitor";
+var mnemonic = "weather letter venue arrow carbon elite romance twist parent search bind fee";

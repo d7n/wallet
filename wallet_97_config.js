@@ -1,1 +1,1 @@
-var mnemonic = "primary pilot urge inch warrior scissors fence squeeze couch enlist apology fatal";
+var mnemonic = "bind drive hotel note receive tennis response hip shift bid gasp region";

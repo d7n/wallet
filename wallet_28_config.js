@@ -1,1 +1,1 @@
-var mnemonic = "metal assist rotate horn quick hand monkey image elephant bamboo base sample";
+var mnemonic = "rocket cancel hidden slender supply winner broom youth unhappy immune exchange finish";

@@ -1,1 +1,1 @@
-var mnemonic = "flower spoon put celery screen profit same parent pretty alarm apology nasty";
+var mnemonic = "salad pen also tape gate deal traffic garbage valve original walk loyal";

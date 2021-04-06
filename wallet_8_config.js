@@ -1,1 +1,1 @@
-var mnemonic = "loan dinner come volcano coral scene immune universe people ring tag other";
+var mnemonic = "total earth fan spin manage stage arrest portion horror hockey snow arrange";

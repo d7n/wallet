@@ -1,1 +1,1 @@
-var mnemonic = "fitness much dumb detect online around stock steak speed they bulb mirror";
+var mnemonic = "frame ahead shiver brand barrel alcohol waste wedding few filter cause ignore";

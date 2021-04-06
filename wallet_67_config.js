@@ -1,1 +1,1 @@
-var mnemonic = "prevent blast learn reunion sand inner job small knock multiply action panic";
+var mnemonic = "dish large witness table side whisper issue moment swift rail wire shed";

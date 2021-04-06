@@ -1,1 +1,1 @@
-var mnemonic = "load urban panel toilet essay hurry view adjust media adjust system aerobic";
+var mnemonic = "gesture just gloom industry odor web poverty catch want question gloom rice";

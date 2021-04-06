@@ -1,1 +1,1 @@
-var mnemonic = "shrimp foil train town mad trip rather differ harbor royal monster acoustic";
+var mnemonic = "crane ethics matter curtain also high pizza wheel win online occur negative";

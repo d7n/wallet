@@ -1,1 +1,1 @@
-var mnemonic = "scissors mesh flight field frog train foot thrive still drill dignity embark";
+var mnemonic = "price cake hobby crane welcome excuse apology gesture purse vehicle brave birth";

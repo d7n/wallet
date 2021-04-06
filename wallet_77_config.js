@@ -1,1 +1,1 @@
-var mnemonic = "adult hurdle dinner flag plate episode bomb lunar sweet sign spike fog";
+var mnemonic = "beyond sketch atom exclude urge process this deer east enjoy similar pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "senior rate fat cave word child mosquito female private ensure turkey shrimp";
+var mnemonic = "zone typical wife swallow series bomb relief point clerk dash gift inflict";

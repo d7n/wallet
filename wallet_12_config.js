@@ -1,1 +1,1 @@
-var mnemonic = "local draw coyote state tennis spread view response barrel today salt mobile";
+var mnemonic = "again combine range monster cliff skull fold witness supreme setup oyster citizen";

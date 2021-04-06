@@ -1,1 +1,1 @@
-var mnemonic = "tray parade august monster sudden creek speak clown glimpse tilt spice normal";
+var mnemonic = "material garlic wreck burst muscle adjust phone broom gesture lock gadget style";

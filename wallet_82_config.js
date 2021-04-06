@@ -1,1 +1,1 @@
-var mnemonic = "luxury suffer weasel perfect common unlock spirit awkward rapid that chest action";
+var mnemonic = "reveal master happy nest night trophy youth february dinosaur blast collect chuckle";

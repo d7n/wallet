@@ -1,1 +1,1 @@
-var mnemonic = "enter reason increase bean indicate tornado noble window spell kitten coffee novel";
+var mnemonic = "rally popular ritual arch cost exchange deputy any thunder album width tent";

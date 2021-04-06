@@ -1,1 +1,1 @@
-var mnemonic = "slow lend twist industry stem fun mail boring hope another rich duty";
+var mnemonic = "feature wasp order script castle exhaust abuse head deposit real emotion trim";

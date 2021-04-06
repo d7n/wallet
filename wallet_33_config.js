@@ -1,1 +1,1 @@
-var mnemonic = "twice napkin palm select gun athlete oblige concert spider kiwi stem sphere";
+var mnemonic = "cruise cook deliver chuckle virus sleep unaware swarm relief next human blouse";

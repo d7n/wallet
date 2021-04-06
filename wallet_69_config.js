@@ -1,1 +1,1 @@
-var mnemonic = "rescue cinnamon display cotton duty fantasy bless promote velvet credit miss find";
+var mnemonic = "marriage marine space enable mention slice business bid sound hedgehog day balance";

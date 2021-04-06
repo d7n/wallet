@@ -1,1 +1,1 @@
-var mnemonic = "umbrella umbrella aerobic warrior praise estate word relax nominee upper marble resource";
+var mnemonic = "sunset six dilemma mimic charge nice rate fall paddle humble inner weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "ask antenna aim region churn beef gym measure merry owner champion holiday";
+var mnemonic = "girl brave sheriff inhale luggage history merry ivory tornado night brown filter";

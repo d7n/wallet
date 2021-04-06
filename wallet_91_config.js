@@ -1,1 +1,1 @@
-var mnemonic = "title erase prefer grow cupboard pill frog banner pull since indicate direct";
+var mnemonic = "wife guess bacon scale canvas raccoon effort donor prepare plastic buzz record";

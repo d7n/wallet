@@ -1,1 +1,1 @@
-var mnemonic = "retire lemon post present scrap enroll shell decrease easily average oak laugh";
+var mnemonic = "two husband task knee damage curve firm where attract fox vivid wolf";

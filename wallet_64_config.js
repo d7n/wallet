@@ -1,1 +1,1 @@
-var mnemonic = "beach swing prize pull logic oblige link exchange genius name denial curious";
+var mnemonic = "useless any album sail accident glare alter fish cruise inherit call switch";

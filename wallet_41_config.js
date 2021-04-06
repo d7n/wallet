@@ -1,1 +1,1 @@
-var mnemonic = "lady palm bachelor surprise gospel race remain repair super very charge say";
+var mnemonic = "dizzy warfare strong tumble room royal sign august magnet will sword switch";

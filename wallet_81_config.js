@@ -1,1 +1,1 @@
-var mnemonic = "brown future visit focus taxi traffic bright scatter fun ridge foam guess";
+var mnemonic = "boat disease defense phrase case expand shield hint elegant siren film laundry";

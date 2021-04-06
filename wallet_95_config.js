@@ -1,1 +1,1 @@
-var mnemonic = "solid puzzle index notable parade time frozen panic deny rhythm drill avoid";
+var mnemonic = "best oyster coast cattle obvious unaware essence remove bring action balcony frost";

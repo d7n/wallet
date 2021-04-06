@@ -1,1 +1,1 @@
-var mnemonic = "disorder cabin glass keen settle smile tiger shield pitch file work legend";
+var mnemonic = "extend bonus liberty small rib carbon broccoli six civil orient auto vacuum";

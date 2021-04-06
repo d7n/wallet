@@ -1,1 +1,1 @@
-var mnemonic = "recycle avoid clean salmon giggle convince enjoy area bridge tomato fashion dose";
+var mnemonic = "barely risk extend fade omit column peasant family tiny elegant midnight suffer";

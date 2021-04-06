@@ -1,1 +1,1 @@
-var mnemonic = "teach brick duck liar lens oven burger fragile horror kiwi favorite intact";
+var mnemonic = "tag jewel area bleak head wage squirrel circle about option cage come";

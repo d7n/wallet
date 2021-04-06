@@ -1,1 +1,1 @@
-var mnemonic = "cost business swear choose orange icon opinion virus conduct stove monkey sail";
+var mnemonic = "prison decrease identify base flat exact hurt card extra bar crazy inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle matter rocket ride easily want online link gorilla away motor hand";
+var mnemonic = "rubber target verb powder rose garment month leisure gauge ride example rigid";

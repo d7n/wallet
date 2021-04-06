@@ -1,1 +1,1 @@
-var mnemonic = "forget must thought sing direct hole core happy pledge great tourist trim";
+var mnemonic = "myth fade extend civil waste duck baby ready suit sadness syrup document";

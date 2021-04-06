@@ -1,1 +1,1 @@
-var mnemonic = "fabric buddy jeans merge correct quick alpha prepare enhance offer uniform pride";
+var mnemonic = "pony syrup monitor plunge owner jacket help client dose degree subject economy";

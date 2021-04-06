@@ -1,1 +1,1 @@
-var mnemonic = "deposit allow assault inside hobby chaos state fall joke cement abandon differ";
+var mnemonic = "again alpha virtual usage banner beef rival solution smooth scatter unknown fish";

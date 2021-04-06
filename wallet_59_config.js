@@ -1,1 +1,1 @@
-var mnemonic = "emotion glance dial immune alley auction jewel smooth camp kitten praise guard";
+var mnemonic = "drip conduct reopen warfare panther anger donate animal what supply moment spider";

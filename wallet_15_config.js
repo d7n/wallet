@@ -1,1 +1,1 @@
-var mnemonic = "subway hard gesture any merit online village predict capital year olympic obvious";
+var mnemonic = "forum satisfy blame parent end goose unit gloom daring improve identify heart";

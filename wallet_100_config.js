@@ -1,1 +1,1 @@
-var mnemonic = "lock shoot maple vessel print tenant toward flat work infant update motion";
+var mnemonic = "distance comic zoo worry truth pretty faint discover glue provide cover bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "often maid error visual coconut breeze odor define foil cloth prize reject";
+var mnemonic = "autumn knock sight used diamond merge joke dismiss curious buzz appear fox";

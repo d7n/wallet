@@ -1,1 +1,1 @@
-var mnemonic = "ugly donkey walk young vivid kangaroo forward soup balance large girl leg";
+var mnemonic = "dream ability lumber candy silk match october blue brother lava leave dinner";

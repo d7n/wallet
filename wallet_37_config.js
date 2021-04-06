@@ -1,1 +1,1 @@
-var mnemonic = "profit mass nasty train screen exact truly elephant erosion tired airport man";
+var mnemonic = "airport wage bounce early mention topple carpet gap chest also heart sick";

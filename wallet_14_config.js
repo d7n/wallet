@@ -1,1 +1,1 @@
-var mnemonic = "pass supreme submit poverty whisper mammal ignore clog leaf actress develop clump";
+var mnemonic = "until banana wealth now kiwi unfair amount switch repair lunch develop electric";

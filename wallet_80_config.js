@@ -1,1 +1,1 @@
-var mnemonic = "endorse lamp devote result screen conduct wealth crop giggle hurdle soft office";
+var mnemonic = "increase husband female knife trick salmon picture weird cable job frame nice";

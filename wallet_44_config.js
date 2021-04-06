@@ -1,1 +1,1 @@
-var mnemonic = "snap rare faculty sign parent until burden badge private coffee night frequent";
+var mnemonic = "fatal promote nothing fortune mesh basket horn rabbit dove vital more patch";

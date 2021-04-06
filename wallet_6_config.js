@@ -1,1 +1,1 @@
-var mnemonic = "trade until image sister assault unable gloom enforce rhythm place spend glimpse";
+var mnemonic = "vibrant vital atom crop bachelor guard cry social mobile congress bonus latin";

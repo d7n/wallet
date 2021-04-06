@@ -1,1 +1,1 @@
-var mnemonic = "upgrade water castle pony birth naive soap during fiber eager pipe affair";
+var mnemonic = "robot limit advice object awesome awful federal monkey absurd talk inflict uniform";

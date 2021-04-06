@@ -1,1 +1,1 @@
-var mnemonic = "ribbon party pepper legal silly barely proud force sleep clever now section";
+var mnemonic = "hill short dish welcome carpet behave brush easily throw whip suggest vacuum";

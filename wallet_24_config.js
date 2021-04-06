@@ -1,1 +1,1 @@
-var mnemonic = "envelope void van wreck aspect indoor catch school salmon hat north purpose";
+var mnemonic = "shrug just target about analyst office kind mobile sorry wish south front";

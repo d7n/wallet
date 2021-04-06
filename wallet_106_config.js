@@ -1,1 +1,1 @@
-var mnemonic = "sausage roast anchor length coast ceiling great basic pistol elder beef actor";
+var mnemonic = "oven crater rug during winter year host express deliver mystery unveil pizza";

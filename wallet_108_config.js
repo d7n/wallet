@@ -1,1 +1,1 @@
-var mnemonic = "travel mother swim maximum lazy vital decline modify include enroll scorpion bless";
+var mnemonic = "aware together blast various ten front clutch dumb where method rich combine";

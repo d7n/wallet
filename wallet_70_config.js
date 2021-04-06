@@ -1,1 +1,1 @@
-var mnemonic = "armed man actual unit swear grass legend true depart wink dance attract";
+var mnemonic = "curtain bean human anxiety patch orient method swear better argue useful hunt";

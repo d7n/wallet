@@ -1,1 +1,1 @@
-var mnemonic = "rail focus trust second diary repair exchange work celery keen shallow phone";
+var mnemonic = "piano anger oppose hint evidence busy mouse attitude negative page alcohol jelly";

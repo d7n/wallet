@@ -1,1 +1,1 @@
-var mnemonic = "office thumb second secret mesh few vapor mean innocent someone visit race";
+var mnemonic = "fancy circle piece wheel code kit tourist danger city broom neck kitten";

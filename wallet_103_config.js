@@ -1,1 +1,1 @@
-var mnemonic = "advice entry mango solid deer twenty border bar crawl make level giant";
+var mnemonic = "model sadness utility east glue trumpet evoke jelly sponsor filter other ankle";

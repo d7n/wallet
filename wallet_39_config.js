@@ -1,1 +1,1 @@
-var mnemonic = "reason clown logic across economy immune tree acid elegant glad usual bus";
+var mnemonic = "half defense neck cause inch east lamp afford rose hire side unfair";

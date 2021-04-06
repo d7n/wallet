@@ -1,1 +1,1 @@
-var mnemonic = "fee taxi rocket gesture hair boss novel logic pudding during indicate basket";
+var mnemonic = "sunset ketchup keep toe business midnight morning chicken deposit refuse hamster nurse";

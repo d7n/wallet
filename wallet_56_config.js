@@ -1,1 +1,1 @@
-var mnemonic = "wheat royal fog claw few mimic coconut trophy horn knife ripple focus";
+var mnemonic = "buffalo violin behave oak disagree beef boss glove cherry defense achieve warm";

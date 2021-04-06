@@ -1,1 +1,1 @@
-var mnemonic = "borrow game eye news good soon emotion note hat item element pride";
+var mnemonic = "govern opera play abstract loyal catch dumb vivid verb bundle point speak";

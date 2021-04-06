@@ -1,1 +1,1 @@
-var mnemonic = "suspect hope adjust crunch stove glare gym parent raven increase retire sound";
+var mnemonic = "crew kiss start barely climb must someone dizzy eager brush panther social";

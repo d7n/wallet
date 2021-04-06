@@ -1,1 +1,1 @@
-var mnemonic = "paddle candy stock lab cage strike small access auto bid problem digital";
+var mnemonic = "fuel slogan just garment mixed medal urge bargain lesson method one wish";

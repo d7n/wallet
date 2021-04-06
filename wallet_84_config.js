@@ -1,1 +1,1 @@
-var mnemonic = "upon quantum peanut timber alpha illness situate spare execute forest robot hybrid";
+var mnemonic = "satisfy diagram stadium lock example cash solve tribe income sell forget nerve";

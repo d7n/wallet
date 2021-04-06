@@ -1,1 +1,1 @@
-var mnemonic = "mosquito wait settle safe cabbage together outer mercy buffalo milk chief divert";
+var mnemonic = "region invite lamp stand siren argue rival velvet recall banner essay frame";

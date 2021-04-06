@@ -1,1 +1,1 @@
-var mnemonic = "essay plug omit admit clarify electric pigeon fitness quote satisfy venue invest";
+var mnemonic = "ethics height admit pretty access chapter lunar cloth crunch liberty budget page";
