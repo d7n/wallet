@@ -1,1 +1,1 @@
-var mnemonic = "wing secret fragile gate behave ugly drip battle donkey nasty nominee remind";
+var mnemonic = "catalog then valley source online board income portion century wing sad ship";

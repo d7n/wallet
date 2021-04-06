@@ -1,1 +1,1 @@
-var mnemonic = "index when company mosquito source display novel ripple dish grocery magnet invite";
+var mnemonic = "snake inhale secret float loop news subject priority fault glory appear deer";

@@ -1,1 +1,1 @@
-var mnemonic = "side broom letter mixed kingdom gap success term three sad craft vanish";
+var mnemonic = "soap lady toddler onion manual fault sweet royal crucial street pull banana";

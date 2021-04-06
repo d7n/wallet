@@ -1,1 +1,1 @@
-var mnemonic = "invest feel faint season remember grant struggle axis cram nephew lyrics shy";
+var mnemonic = "catch snap parrot mimic dish novel lesson useful disease text buzz author";

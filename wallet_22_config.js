@@ -1,1 +1,1 @@
-var mnemonic = "rely remove afford immense rhythm outer waste fold banner elegant jacket kangaroo";
+var mnemonic = "panic science diet tiny air speed daring bitter blame zoo thunder tide";

@@ -1,1 +1,1 @@
-var mnemonic = "snake welcome chaos problem credit coyote useful share blade unveil trend because";
+var mnemonic = "jeans damage major merge void time produce catch olympic eight news disorder";

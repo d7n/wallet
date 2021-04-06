@@ -1,1 +1,1 @@
-var mnemonic = "believe divert light midnight sell write funny exercise chat outside puzzle snack";
+var mnemonic = "coffee century ship execute token cruise race urban dish electric decade jar";

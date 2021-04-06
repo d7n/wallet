@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog usual man detect citizen network rack expose giggle alley decade hand";
+var mnemonic = "ski much gentle alter damage unhappy hurry forum learn helmet whisper amount";

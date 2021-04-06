@@ -1,1 +1,1 @@
-var mnemonic = "loop always skate lava spend barely father jeans valve close way sand";
+var mnemonic = "primary suggest issue tattoo hand dentist already alpha success velvet crisp employ";

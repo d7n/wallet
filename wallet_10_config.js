@@ -1,1 +1,1 @@
-var mnemonic = "foster combine wrap aerobic solution fossil mesh scene execute eager mom permit";
+var mnemonic = "dinner blind great father liberty nephew omit glow alcohol lemon rival total";

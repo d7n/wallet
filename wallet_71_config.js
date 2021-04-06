@@ -1,1 +1,1 @@
-var mnemonic = "churn license south begin immense obscure employ brown sign cave topic labor";
+var mnemonic = "ball grit argue miss wheel know supply lock client group ball fame";

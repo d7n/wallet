@@ -1,1 +1,1 @@
-var mnemonic = "ozone boat ceiling midnight donor room elite alert they mango sick believe";
+var mnemonic = "walnut raccoon decade laugh draw hobby coffee pencil saddle shaft say inject";

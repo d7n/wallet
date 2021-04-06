@@ -1,1 +1,1 @@
-var mnemonic = "science view narrow around control hip hover sound universe law plate mixed";
+var mnemonic = "cool fame face effort abstract car shield minimum keep hero rebel minor";

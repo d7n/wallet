@@ -1,1 +1,1 @@
-var mnemonic = "muffin tumble anger monster broccoli cause slow lift deny surround chuckle fit";
+var mnemonic = "warm lunch flip wrap naive speak brown consider siege anchor dumb stairs";

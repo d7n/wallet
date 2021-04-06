@@ -1,1 +1,1 @@
-var mnemonic = "street direct aunt swing enroll candy else absurd oblige cup federal stay";
+var mnemonic = "sibling attend tube join lazy bottom bomb seek cabin enlist tribe talk";

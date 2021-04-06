@@ -1,1 +1,1 @@
-var mnemonic = "train fault runway horse life wave fetch begin merge guard parrot exchange";
+var mnemonic = "approve buyer term execute cart category matrix anxiety human will dish slow";

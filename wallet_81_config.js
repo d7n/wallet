@@ -1,1 +1,1 @@
-var mnemonic = "idle soccer illness blade stage arch south enemy sport simple furnace draw";
+var mnemonic = "run staff such phrase grab scene oppose subway trim nose lonely swift";

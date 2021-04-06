@@ -1,1 +1,1 @@
-var mnemonic = "town adult economy shed gasp strategy woman menu retreat electric option distance";
+var mnemonic = "tip dinosaur humor inflict sibling prevent boost total life water giraffe define";

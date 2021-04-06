@@ -1,1 +1,1 @@
-var mnemonic = "inner toy general define maid defense fiction anxiety dinner grow bundle cheese";
+var mnemonic = "visual toast city leopard guilt false limit sting can twice sea egg";

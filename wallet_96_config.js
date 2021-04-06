@@ -1,1 +1,1 @@
-var mnemonic = "offer hidden genuine sword fiber decorate clinic garden mule pig educate feed";
+var mnemonic = "silent slim general creek dash cheap gloom ocean absorb fruit unfold sentence";

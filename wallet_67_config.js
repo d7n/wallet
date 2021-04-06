@@ -1,1 +1,1 @@
-var mnemonic = "gesture crouch mutual suit tail local butter bomb planet tower hedgehog sorry";
+var mnemonic = "amazing secret valve mobile season mail universe sustain warrior either into kind";

@@ -1,1 +1,1 @@
-var mnemonic = "portion goose kite pause nice loop human between antenna session save scout";
+var mnemonic = "kingdom okay hen boost future jump best sketch antique more okay ginger";

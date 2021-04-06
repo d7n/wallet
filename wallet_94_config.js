@@ -1,1 +1,1 @@
-var mnemonic = "tent obvious pride fatigue fashion spot twist genius crucial employ brown flock";
+var mnemonic = "farm innocent leave edge enlist dash furnace bracket excuse phrase joke morning";

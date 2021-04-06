@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur audit pill recycle mosquito life fat sad curve blue unable ensure";
+var mnemonic = "proof that slush immune survey depart crater grocery alter street seek left";

@@ -1,1 +1,1 @@
-var mnemonic = "palace bamboo aunt clog disease network sustain april shift ready submit secret";
+var mnemonic = "pipe empower screen month sphere alien prize nasty general world cloth broom";

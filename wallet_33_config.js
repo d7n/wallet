@@ -1,1 +1,1 @@
-var mnemonic = "obey prefer social travel fancy slogan scissors innocent bench relax mesh bomb";
+var mnemonic = "ugly produce shoe enter twice south aspect must assist tray rotate winter";

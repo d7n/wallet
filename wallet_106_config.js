@@ -1,1 +1,1 @@
-var mnemonic = "hobby win yellow gravity scrub history night crawl crawl element noble lock";
+var mnemonic = "case digital cabbage grief super walk walnut matrix brand total dove idea";

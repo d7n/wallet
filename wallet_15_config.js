@@ -1,1 +1,1 @@
-var mnemonic = "combine airport wire rule visual spring execute much nut wrist torch bird";
+var mnemonic = "pair pitch maximum critic tomorrow fish tunnel occur flash garden cute urban";

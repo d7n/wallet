@@ -1,1 +1,1 @@
-var mnemonic = "neck crunch vague crisp gather extra type general dragon neglect turn field";
+var mnemonic = "much arrange measure actor great evolve letter design fury shield return team";

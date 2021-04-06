@@ -1,1 +1,1 @@
-var mnemonic = "toddler usual talent identify bonus tooth curtain bunker hold shock empower vintage";
+var mnemonic = "taxi puppy forward come reform civil oppose romance inch excuse nest wrong";

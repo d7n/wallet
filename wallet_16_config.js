@@ -1,1 +1,1 @@
-var mnemonic = "duck tool result alpha unaware crash draft tank police focus coach drastic";
+var mnemonic = "project very surge space latin disease reflect mechanic tube stairs survey shield";

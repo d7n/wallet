@@ -1,1 +1,1 @@
-var mnemonic = "make obvious famous retire tide wealth horse spare buffalo heavy adjust swarm";
+var mnemonic = "purpose cricket lake mix twin fish maximum tray knee rifle eternal excuse";

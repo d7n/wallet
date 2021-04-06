@@ -1,1 +1,1 @@
-var mnemonic = "faculty limit crucial north finish insane bomb quiz address fuel nerve share";
+var mnemonic = "suffer wise token action they enhance blue topic bracket fox arm dragon";

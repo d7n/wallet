@@ -1,1 +1,1 @@
-var mnemonic = "verb wolf purity example match pride always trade proud tattoo multiply liberty";
+var mnemonic = "receive tobacco bright carbon cable carpet ski attract hill method uniform firm";

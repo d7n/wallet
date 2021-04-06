@@ -1,1 +1,1 @@
-var mnemonic = "reason say favorite nest layer border cereal rich please fork friend desk";
+var mnemonic = "snap such state dose menu now spare element false physical picnic sadness";

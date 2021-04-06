@@ -1,1 +1,1 @@
-var mnemonic = "witness belt damage comfort video come exile ivory rebuild arrow banana small";
+var mnemonic = "talent scatter oil acquire voyage cancel rocket menu lend salute wrist toast";

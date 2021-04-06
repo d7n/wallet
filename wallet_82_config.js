@@ -1,1 +1,1 @@
-var mnemonic = "power reunion brave virus position bullet cram hunt fruit segment reject honey";
+var mnemonic = "rival motor cluster wink alert sea that lonely misery choose furnace nest";

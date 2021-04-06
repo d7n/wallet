@@ -1,1 +1,1 @@
-var mnemonic = "monitor nose demise derive matter awesome expire wage language detect eye sample";
+var mnemonic = "raise burden click wash impose wise street next okay science hole glove";

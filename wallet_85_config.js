@@ -1,1 +1,1 @@
-var mnemonic = "muffin wool gas shift guess grace piece shoot empower famous oak satisfy";
+var mnemonic = "you ghost between profit hedgehog table legend flat south still rail elbow";

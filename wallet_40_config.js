@@ -1,1 +1,1 @@
-var mnemonic = "sample silly permit laugh number window island action step execute body render";
+var mnemonic = "skate myself hollow swallow limit float ordinary demand pizza royal ignore word";

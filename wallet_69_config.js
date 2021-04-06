@@ -1,1 +1,1 @@
-var mnemonic = "fork account flower upper polar include road adjust air strategy quality alcohol";
+var mnemonic = "diagram hat metal doll history midnight rocket place render wheel elephant dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "upon hedgehog gospel torch great era aerobic wedding human flip this wet";
+var mnemonic = "slam hub almost hood kiss glare depth absorb perfect view multiply violin";

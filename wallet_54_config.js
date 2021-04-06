@@ -1,1 +1,1 @@
-var mnemonic = "lunar nest please wisdom move body blur anchor cousin fan inch vintage";
+var mnemonic = "tomorrow spirit fiber sheriff shy ball exit brush rhythm maximum moment time";

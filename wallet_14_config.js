@@ -1,1 +1,1 @@
-var mnemonic = "melt street tenant divert also enjoy wing upon digital disagree ribbon until";
+var mnemonic = "uphold harbor betray lumber light major lock yard baby service uniform rapid";

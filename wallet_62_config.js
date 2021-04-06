@@ -1,1 +1,1 @@
-var mnemonic = "firm cup angle select wage ecology tip split idea hawk orient smooth";
+var mnemonic = "primary okay slender kind river current rose virtual dust load receive conduct";

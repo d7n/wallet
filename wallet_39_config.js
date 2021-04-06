@@ -1,1 +1,1 @@
-var mnemonic = "ritual capital chaos bacon state impact bachelor ask soup youth brush wedding";
+var mnemonic = "auction snake kit barely edge illegal lawn huge oven draft void ready";

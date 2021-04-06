@@ -1,1 +1,1 @@
-var mnemonic = "digital beyond cycle liquid pledge book cigar pattern use start evolve inform";
+var mnemonic = "indicate hover sign stock dice benefit raise match carpet equip picture mandate";

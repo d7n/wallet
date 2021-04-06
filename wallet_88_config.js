@@ -1,1 +1,1 @@
-var mnemonic = "fire river buyer amazing nominee toss push egg spin dance copy shield";
+var mnemonic = "tunnel promote puppy ranch drift mobile wheel fire pig maid vintage beef";

@@ -1,1 +1,1 @@
-var mnemonic = "joke chair document salmon duty key cake bring wheel mom jealous wage";
+var mnemonic = "slam room biology elbow airport brick duty bird soft pulp lounge already";

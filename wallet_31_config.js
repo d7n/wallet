@@ -1,1 +1,1 @@
-var mnemonic = "annual famous sniff tackle kingdom rubber normal sand orient sweet burden card";
+var mnemonic = "verify muffin wish vivid provide critic crash attitude grief seat soon federal";

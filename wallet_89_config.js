@@ -1,1 +1,1 @@
-var mnemonic = "amount seed concert property swear absorb survey affair mix skin spider demise";
+var mnemonic = "phone eternal slow peanut hollow horse defense stove hotel place night admit";

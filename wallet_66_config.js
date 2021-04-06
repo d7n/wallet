@@ -1,1 +1,1 @@
-var mnemonic = "asset ramp ship stuff swear kiss carry assist blue shuffle gloom tooth";
+var mnemonic = "december hunt stock race produce track number expect impact nose prevent host";

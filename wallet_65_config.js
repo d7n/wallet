@@ -1,1 +1,1 @@
-var mnemonic = "sorry desk height sad tuition adult limit glad foil spare history agree";
+var mnemonic = "scan author asset burst flat author allow category pool dwarf hobby worth";

@@ -1,1 +1,1 @@
-var mnemonic = "anger title lesson burst humor release gas fee screen cube industry satisfy";
+var mnemonic = "guitar fatal utility tenant caught funny job velvet among just margin pink";

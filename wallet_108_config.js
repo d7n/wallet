@@ -1,1 +1,1 @@
-var mnemonic = "family define electric three rival copper erosion wash curtain domain quarter obvious";
+var mnemonic = "debate boil boost oblige auto desert pave rose tongue garden link decorate";

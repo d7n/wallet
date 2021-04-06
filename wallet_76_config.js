@@ -1,1 +1,1 @@
-var mnemonic = "barely raw crawl universe stick wheat vault helmet trip mix festival draw";
+var mnemonic = "report advance erupt better mean once tenant miss universe churn child strike";

@@ -1,1 +1,1 @@
-var mnemonic = "fan rookie urban review junior border vault clay history filter riot know";
+var mnemonic = "robust indicate upper inspire fee muscle elephant animal ankle avoid manual pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "horror twin box cry wing era notable team ability pupil satoshi code";
+var mnemonic = "crack fish detect wet fall check float slight salt album also make";

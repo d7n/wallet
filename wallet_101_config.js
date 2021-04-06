@@ -1,1 +1,1 @@
-var mnemonic = "flag fresh together chase system sting rose major motion start require ancient";
+var mnemonic = "pilot black caught pride cover magic tobacco fiscal dragon cave match pitch";

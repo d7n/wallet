@@ -1,1 +1,1 @@
-var mnemonic = "portion chaos trophy stuff convince staff pear zone attack erase auction beef";
+var mnemonic = "differ install ticket receive idea napkin gadget advance fitness ordinary impulse lens";

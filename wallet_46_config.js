@@ -1,1 +1,1 @@
-var mnemonic = "city slim random game hybrid february arena upon tribe defense plastic bonus";
+var mnemonic = "glory nerve bleak crew soda layer obtain surge useless flock panther antenna";

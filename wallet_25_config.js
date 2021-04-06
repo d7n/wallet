@@ -1,1 +1,1 @@
-var mnemonic = "lunar pony shock grid essay wink right glimpse piano zone giggle cake";
+var mnemonic = "bag guilt future must hero elegant treat orient orange churn unknown segment";

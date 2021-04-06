@@ -1,1 +1,1 @@
-var mnemonic = "employ example negative success urban truck family rare warrior alpha powder owner";
+var mnemonic = "letter sentence release glue sing race cat buyer visit odor sentence fortune";

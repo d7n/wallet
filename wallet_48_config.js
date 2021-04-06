@@ -1,1 +1,1 @@
-var mnemonic = "result belt gym animal guilt neither physical tag margin absent clock trial";
+var mnemonic = "fold worry convince afraid glare trend run outside team ignore lunar orchard";

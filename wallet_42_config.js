@@ -1,1 +1,1 @@
-var mnemonic = "arctic glimpse already term exact nuclear donate december now mobile valid awesome";
+var mnemonic = "panel name autumn orchard sleep junior pig obvious legal rain hospital skull";

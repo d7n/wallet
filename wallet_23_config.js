@@ -1,1 +1,1 @@
-var mnemonic = "crop license amateur property health puzzle grab foster awesome dinner ship cattle";
+var mnemonic = "notable turn argue lunar vanish banner fire popular pupil gown connect oil";

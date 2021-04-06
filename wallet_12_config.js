@@ -1,1 +1,1 @@
-var mnemonic = "smoke piano include few bread sadness august place rubber bar dilemma hand";
+var mnemonic = "shop travel auto curious stable magic assume gate area depart jealous exhaust";

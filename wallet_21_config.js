@@ -1,1 +1,1 @@
-var mnemonic = "april trade mechanic biology pair topic sheriff quiz wage side garbage quote";
+var mnemonic = "inch north issue offer stamp snow only token acid clock coast host";

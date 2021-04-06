@@ -1,1 +1,1 @@
-var mnemonic = "cement card budget edge stock pause wife butter sunny museum today expire";
+var mnemonic = "brick believe excite portion sock corn supreme swallow lounge car shrimp punch";

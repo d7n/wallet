@@ -1,1 +1,1 @@
-var mnemonic = "forward utility together practice slim elbow peasant object art bronze couch media";
+var mnemonic = "island pizza lounge extend inch famous base door excite rally stock want";

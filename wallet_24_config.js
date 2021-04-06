@@ -1,1 +1,1 @@
-var mnemonic = "issue guilt jaguar front meat leaf deal prize hat engage raven lumber";
+var mnemonic = "fan cereal distance north antenna guilt canal index icon enable vessel ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "torch foot endorse oblige happy detail curtain artist margin board food dinner";
+var mnemonic = "there twenty coconut produce earth good giant blush stereo nut jelly art";

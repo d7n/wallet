@@ -1,1 +1,1 @@
-var mnemonic = "parade topic element icon shift lizard put puppy fence chicken focus point";
+var mnemonic = "pistol humble rabbit alarm find coral fog crunch speak donate gun together";

@@ -1,1 +1,1 @@
-var mnemonic = "apology inch law north maple evil inject transfer bitter juice shell viable";
+var mnemonic = "wolf rebel like stone tail inside solar below end owner method garbage";

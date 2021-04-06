@@ -1,1 +1,1 @@
-var mnemonic = "engage any begin feed unusual awesome relax rookie enemy crouch person better";
+var mnemonic = "diagram first praise ensure total gloom nest shock believe admit car because";

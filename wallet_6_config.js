@@ -1,1 +1,1 @@
-var mnemonic = "drink dog dinner piano economy lab prison topple head bacon sadness original";
+var mnemonic = "scorpion trash okay width twice syrup very plate violin vicious sword wrestle";

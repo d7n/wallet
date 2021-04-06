@@ -1,1 +1,1 @@
-var mnemonic = "drink barely biology hawk cargo pistol burden eyebrow behave cool feature wrestle";
+var mnemonic = "tackle beef aunt sword announce drift feature forward butter eyebrow weapon critic";

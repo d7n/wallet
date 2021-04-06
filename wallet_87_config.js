@@ -1,1 +1,1 @@
-var mnemonic = "eager turkey payment lobster ecology boss easy cousin clown shove input wear";
+var mnemonic = "guilt repair neither grid wool pigeon skill pink avoid entry coffee pause";

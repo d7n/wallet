@@ -1,1 +1,1 @@
-var mnemonic = "draw siege very breeze olive length swift negative join accuse mix taste";
+var mnemonic = "foot switch marine rival bitter setup wide buzz amount reunion type tennis";

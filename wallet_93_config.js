@@ -1,1 +1,1 @@
-var mnemonic = "dial laundry six fancy universe pupil casino elevator mask impose supply liquid";
+var mnemonic = "flee cost section thunder pass notable wealth paddle layer number become track";

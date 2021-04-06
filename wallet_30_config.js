@@ -1,1 +1,1 @@
-var mnemonic = "oyster verb steak ordinary useless check earn topple hamster dinner impact order";
+var mnemonic = "simple spawn slam ill hollow bonus tree fault entry joke bundle near";

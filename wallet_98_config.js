@@ -1,1 +1,1 @@
-var mnemonic = "arrest drill trophy toy fever system rain net post taste rude inner";
+var mnemonic = "task verify deer elder fabric gesture surface science mule present flush physical";

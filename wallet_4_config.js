@@ -1,1 +1,1 @@
-var mnemonic = "episode deliver hollow case exact upgrade slide barely winner blast analyst police";
+var mnemonic = "relax business point deposit interest often want ketchup forward bless announce nose";

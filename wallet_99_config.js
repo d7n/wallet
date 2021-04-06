@@ -1,1 +1,1 @@
-var mnemonic = "toss opera faith project opera young delay beef pony better foam brain";
+var mnemonic = "suspect pluck drama scrap divert body shed lyrics account skull laptop alien";

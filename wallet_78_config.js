@@ -1,1 +1,1 @@
-var mnemonic = "company robust predict demand dove example detect uncover arrange boil comfort kingdom";
+var mnemonic = "priority arrest town knee economy ramp corn guard beef elegant surprise weapon";

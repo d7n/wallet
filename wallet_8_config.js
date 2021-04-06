@@ -1,1 +1,1 @@
-var mnemonic = "balance rain shoe tuition puppy leaf shuffle cram seven that apology sport";
+var mnemonic = "olive lift nice globe slow security soap next deer west enter grace";

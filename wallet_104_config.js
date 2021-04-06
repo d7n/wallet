@@ -1,1 +1,1 @@
-var mnemonic = "clap logic inject screen session fragile soldier frog earn alien pepper father";
+var mnemonic = "various pelican trash grace frost occur exact hotel laugh shoulder uncle luggage";

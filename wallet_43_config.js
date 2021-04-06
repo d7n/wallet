@@ -1,1 +1,1 @@
-var mnemonic = "paper six popular arrow gallery merit hollow dinner simple mushroom warfare lady";
+var mnemonic = "erase client easy horn install apology pond wasp surge fault exile hundred";

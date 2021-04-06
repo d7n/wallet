@@ -1,1 +1,1 @@
-var mnemonic = "cup couple aim bachelor corn border pulse truck dwarf endorse sorry cereal";
+var mnemonic = "option oppose permit crew topic grunt safe guilt announce across issue seek";

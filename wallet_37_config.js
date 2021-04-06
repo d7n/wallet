@@ -1,1 +1,1 @@
-var mnemonic = "bottom off athlete portion rural force bullet unaware runway exist upgrade wise";
+var mnemonic = "budget glad fox address student turtle uniform warrior sand valve dwarf require";

@@ -1,1 +1,1 @@
-var mnemonic = "behind burden board crunch divert below neglect social tag public knee must";
+var mnemonic = "verify term shine hen wise merge distance barely ankle wrap latin sadness";

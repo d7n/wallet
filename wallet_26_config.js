@@ -1,1 +1,1 @@
-var mnemonic = "popular notable act illness enemy duty stable burden wisdom fix era tag";
+var mnemonic = "topple blush debris place maid protect shell brain snow kid unveil photo";

@@ -1,1 +1,1 @@
-var mnemonic = "picture mask company bulb action flight flower wheel joke good old idea";
+var mnemonic = "merit mushroom cheese crash curious divert wealth vessel slow fantasy soccer sound";
