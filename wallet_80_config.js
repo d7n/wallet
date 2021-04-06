@@ -1,1 +1,1 @@
-var mnemonic = "economy roast coin leaf domain disorder east glue garment table fire impose";
+var mnemonic = "funny draw country ship strategy loop december elephant cage west addict army";

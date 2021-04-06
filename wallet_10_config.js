@@ -1,1 +1,1 @@
-var mnemonic = "door monster joy relief bread inner stem enact army top isolate risk";
+var mnemonic = "upgrade kid one attitude track unknown produce execute brick rigid symptom delay";

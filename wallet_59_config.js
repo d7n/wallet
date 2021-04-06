@@ -1,1 +1,1 @@
-var mnemonic = "rail inject horror alarm old vital nest advice pulse brass detect year";
+var mnemonic = "shoe begin wagon volcano glow adult enlist cloud cloud globe claw seek";

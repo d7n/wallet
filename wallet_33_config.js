@@ -1,1 +1,1 @@
-var mnemonic = "energy sentence bike pave jaguar brain life orbit link kiss rebel palm";
+var mnemonic = "loan viable diamond vague deer confirm once undo great balance parent attack";

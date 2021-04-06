@@ -1,1 +1,1 @@
-var mnemonic = "resource canoe truly chaos mix defense worth any audit aisle laundry lecture";
+var mnemonic = "tank capital siren boil quote discover loop awful home lift rebuild border";

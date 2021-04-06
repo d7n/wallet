@@ -1,1 +1,1 @@
-var mnemonic = "mango auto pyramid stadium news pair object arrive moment aware arrive own";
+var mnemonic = "drop eternal shine joy lady simple cram patch nasty sort ring word";

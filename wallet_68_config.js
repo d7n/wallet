@@ -1,1 +1,1 @@
-var mnemonic = "pulse kiss range square mesh code message refuse lava cancel ahead frost";
+var mnemonic = "artwork inner solar opinion urban spatial note escape custom topic coconut goose";

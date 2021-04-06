@@ -1,1 +1,1 @@
-var mnemonic = "error fiscal cupboard peanut normal dance clarify pyramid rate gallery toss bird";
+var mnemonic = "siege book clump cube maximum flash voice unusual grief crush horror circle";

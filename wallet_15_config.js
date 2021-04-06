@@ -1,1 +1,1 @@
-var mnemonic = "sorry search exist weasel short rate round border voyage ozone tree outside";
+var mnemonic = "art police garment bounce kind change promote deal hip bring endless neck";

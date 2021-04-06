@@ -1,1 +1,1 @@
-var mnemonic = "suspect gloom rent agent stage speak entire vicious pen around clarify idea";
+var mnemonic = "confirm green crash coach habit replace hollow drive bread faculty cash flip";

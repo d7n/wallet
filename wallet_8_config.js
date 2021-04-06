@@ -1,1 +1,1 @@
-var mnemonic = "time jelly foam round album orbit below trumpet pizza fat rug near";
+var mnemonic = "panel flight hungry nut hour shell tape provide hub sand uniform embrace";

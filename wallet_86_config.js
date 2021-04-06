@@ -1,1 +1,1 @@
-var mnemonic = "suggest harbor disagree one weather monitor give december young cluster awful voyage";
+var mnemonic = "thumb crouch thing shove idea ridge help cheese ugly eagle onion pole";

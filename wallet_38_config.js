@@ -1,1 +1,1 @@
-var mnemonic = "metal there icon today need merry actual sniff tortoise mercy bone virtual";
+var mnemonic = "common blood half cloth embody lyrics taxi always venture barely critic saddle";

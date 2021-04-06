@@ -1,1 +1,1 @@
-var mnemonic = "member kingdom point coach retire excuse yellow fabric vicious sting decrease master";
+var mnemonic = "shoulder vacant prevent wing target document super useful inhale earth dwarf hobby";

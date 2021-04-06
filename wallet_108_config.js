@@ -1,1 +1,1 @@
-var mnemonic = "blood dad toilet input match plastic wild steak have mesh motion damage";
+var mnemonic = "above pepper indoor legend spoil connect exhibit artwork tip body female lend";

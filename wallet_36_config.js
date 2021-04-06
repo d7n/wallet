@@ -1,1 +1,1 @@
-var mnemonic = "clap barely stairs cable glass fiction tumble village word exit throw eager";
+var mnemonic = "clown cabbage very volume stereo analyst wise illness soda cruel crush alert";

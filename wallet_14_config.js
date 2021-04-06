@@ -1,1 +1,1 @@
-var mnemonic = "toe glide people help goose candy citizen lunch wonder element cannon dilemma";
+var mnemonic = "fiber try leaf around report nerve picture rice govern mushroom retreat phrase";

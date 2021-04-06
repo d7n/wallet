@@ -1,1 +1,1 @@
-var mnemonic = "text mutual zoo regular priority leg perfect photo core fatigue exit chronic";
+var mnemonic = "hire caution fame flush timber virus garden alien famous duck post miss";

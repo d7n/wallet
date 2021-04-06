@@ -1,1 +1,1 @@
-var mnemonic = "faint hundred ice inspire eyebrow artist famous example estate hint erosion trim";
+var mnemonic = "jealous assault athlete air answer coach wolf track patient decide galaxy blood";

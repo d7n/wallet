@@ -1,1 +1,1 @@
-var mnemonic = "morning word faculty shield light poverty code outdoor bacon surprise student suspect";
+var mnemonic = "choice shove diamond nominee era student raw flush tribe mad night beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "oil secret parent raw congress boss supply three boil dry object cream";
+var mnemonic = "black mammal rabbit moment wage throw version insane gentle skull physical hair";

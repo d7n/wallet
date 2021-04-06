@@ -1,1 +1,1 @@
-var mnemonic = "cool hidden mean dignity just pudding stamp water smile light attract other";
+var mnemonic = "hint reduce nurse crane rural common measure follow impact panic swamp give";

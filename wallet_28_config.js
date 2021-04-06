@@ -1,1 +1,1 @@
-var mnemonic = "help talent fatigue remain auction couple truth income earth sun forward obvious";
+var mnemonic = "blur course dish record tornado work anger obscure effort climb rigid copper";

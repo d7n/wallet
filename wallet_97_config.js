@@ -1,1 +1,1 @@
-var mnemonic = "rigid spin whisper exercise forward tide despair flush thunder toilet cross vintage";
+var mnemonic = "gasp club pond swing link toe nurse delay curtain type milk voyage";

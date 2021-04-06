@@ -1,1 +1,1 @@
-var mnemonic = "reunion oil visit cloth code exchange sustain fog cruise gather blind metal";
+var mnemonic = "moment soap neither model modify piano outdoor pool drastic recycle enlist wait";

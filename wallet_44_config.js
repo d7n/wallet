@@ -1,1 +1,1 @@
-var mnemonic = "cable below glad physical echo analyst sing pilot salute aisle illegal ordinary";
+var mnemonic = "tornado odor chair label nurse about roast panda patient crane arrow crew";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket gasp wool bleak rigid mobile viable end beauty poet deputy transfer";
+var mnemonic = "panda spring winner iron torch life radar easily thought clip you label";

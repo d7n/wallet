@@ -1,1 +1,1 @@
-var mnemonic = "slot dynamic ribbon primary absorb purchase dial stool pony demand fossil column";
+var mnemonic = "embrace team liar round system execute crime impact boring design tone service";

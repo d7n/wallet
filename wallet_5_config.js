@@ -1,1 +1,1 @@
-var mnemonic = "inform rate lyrics candy force spin inherit capable divorce index mom anger";
+var mnemonic = "faculty mistake float alter hire hand soul barrel off wheel banana shop";

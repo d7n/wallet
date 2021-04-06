@@ -1,1 +1,1 @@
-var mnemonic = "bleak around surround page truly man someone spawn equal city film enter";
+var mnemonic = "reveal insane peasant december unknown thing dinner rug marble vintage elegant duty";

@@ -1,1 +1,1 @@
-var mnemonic = "zero sketch chimney imitate junk ranch element throw cat sun note ramp";
+var mnemonic = "garden fetch coyote animal hover head click fog dragon reform grass oxygen";

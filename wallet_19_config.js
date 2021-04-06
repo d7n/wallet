@@ -1,1 +1,1 @@
-var mnemonic = "ship spread agree truck tiger alcohol mixed problem enable expire fiber color";
+var mnemonic = "side stadium exile vintage pink glove holiday dune legal soccer expose stable";

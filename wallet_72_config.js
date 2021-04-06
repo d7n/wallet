@@ -1,1 +1,1 @@
-var mnemonic = "aspect wheat refuse ready expire frown obtain tennis spin human good crisp";
+var mnemonic = "couple chef airport gauge erupt top birth during old rude lonely unlock";

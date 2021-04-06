@@ -1,1 +1,1 @@
-var mnemonic = "lounge salt witness issue shoot disorder crack leaf void wool carpet obvious";
+var mnemonic = "nest focus leave lonely attitude badge act catalog spawn galaxy dinosaur expand";

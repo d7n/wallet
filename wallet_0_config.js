@@ -1,1 +1,1 @@
-var mnemonic = "decrease install road torch book tired annual flame kidney attitude october attend";
+var mnemonic = "addict off bright kidney tribe gym accident build rose erosion have wise";

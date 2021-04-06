@@ -1,1 +1,1 @@
-var mnemonic = "control crazy sadness question iron under noise pet tongue else goat manual";
+var mnemonic = "autumn rug abuse drift upper spawn shrug garage photo plug bundle lady";

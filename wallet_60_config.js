@@ -1,1 +1,1 @@
-var mnemonic = "victory arch boss grain mercy inform slot april build blind tornado dinner";
+var mnemonic = "hood chat yard math similar reunion face reason swallow ramp tornado nerve";

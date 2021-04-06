@@ -1,1 +1,1 @@
-var mnemonic = "code dad gather ribbon confirm ride ginger insect car foot below slogan";
+var mnemonic = "boil obtain deposit close ozone edge bread ability ceiling area drill secret";

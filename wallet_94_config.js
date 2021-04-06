@@ -1,1 +1,1 @@
-var mnemonic = "engage copper banana cricket acquire sure canvas surround spoil slender stable tomorrow";
+var mnemonic = "buzz swamp stumble pen inspire warfare meadow solid palace element custom define";

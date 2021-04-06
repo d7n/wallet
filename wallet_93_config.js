@@ -1,1 +1,1 @@
-var mnemonic = "cliff keen security aim ask angle furnace drama capable asthma velvet social";
+var mnemonic = "enjoy immune media unable shed clay vivid island detect fade country make";

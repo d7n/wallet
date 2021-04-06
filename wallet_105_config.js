@@ -1,1 +1,1 @@
-var mnemonic = "scrub rare gallery tell true festival nest jaguar enemy argue spend brand";
+var mnemonic = "result casual sunset fury man captain avoid hold athlete wink floor slim";

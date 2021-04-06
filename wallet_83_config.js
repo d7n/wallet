@@ -1,1 +1,1 @@
-var mnemonic = "sponsor uphold shell clinic forward old error push zone deliver urge used";
+var mnemonic = "fish hint mimic moon sponsor hill craft help speak benefit course certain";

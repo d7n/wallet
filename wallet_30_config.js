@@ -1,1 +1,1 @@
-var mnemonic = "priority material resist lazy duck oak affair impose embody absent crime obvious";
+var mnemonic = "walnut section lake surge hunt laptop rebuild bring bread program region very";

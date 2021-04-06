@@ -1,1 +1,1 @@
-var mnemonic = "arrest sport denial situate carpet festival black bid forest picnic flock hammer";
+var mnemonic = "cereal that nose prevent virtual harsh spirit entry vintage board unfold world";

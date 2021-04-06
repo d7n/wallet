@@ -1,1 +1,1 @@
-var mnemonic = "unlock empower foil behave act nature fence donate valve medal green stamp";
+var mnemonic = "silk inside usual sausage lucky balance unusual mass fossil clean party amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "nest gossip march lend story laptop hair scout rebuild grow midnight pyramid";
+var mnemonic = "magnet certain feed stuff reunion scatter zebra under iron more pumpkin dune";

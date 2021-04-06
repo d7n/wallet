@@ -1,1 +1,1 @@
-var mnemonic = "vault rocket average promote seminar curious gate borrow crucial hammer equip fall";
+var mnemonic = "base trim grocery pottery shop skirt sick garment sight process someone state";

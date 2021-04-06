@@ -1,1 +1,1 @@
-var mnemonic = "miracle supreme window fluid usual final other suit intact clay phone pride";
+var mnemonic = "tray mule ice suggest diesel swap control spin various fancy episode link";

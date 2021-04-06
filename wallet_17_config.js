@@ -1,1 +1,1 @@
-var mnemonic = "grain spice immense episode apology arena slim express sustain dog magnet razor";
+var mnemonic = "chimney cross order execute antenna flower topple bridge fatigue phone fold cheese";

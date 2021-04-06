@@ -1,1 +1,1 @@
-var mnemonic = "crowd all demise fringe pool stay cook coin maximum dice sauce hidden";
+var mnemonic = "impact shock turtle sunny under gossip century detect bacon brain huge that";

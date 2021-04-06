@@ -1,1 +1,1 @@
-var mnemonic = "omit blind hobby anchor lake rocket one antique rapid lecture entry carry";
+var mnemonic = "inch next claim movie amazing dinosaur flash popular group sound galaxy pen";

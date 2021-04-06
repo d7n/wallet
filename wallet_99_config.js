@@ -1,1 +1,1 @@
-var mnemonic = "mask team develop april crack sample vehicle input jump leave rack display";
+var mnemonic = "whale update sleep tenant mom banner floor odor erode stone style chapter";

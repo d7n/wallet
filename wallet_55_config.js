@@ -1,1 +1,1 @@
-var mnemonic = "mother radar potato acquire comfort agent today unlock crime salute fix sentence";
+var mnemonic = "broken just law pig race repeat impose desk keep ordinary jelly endorse";

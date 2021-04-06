@@ -1,1 +1,1 @@
-var mnemonic = "jar skirt false accident catch vault annual input above inquiry alter repeat";
+var mnemonic = "inch fat twenty please come radar illness dash volume oval income knock";

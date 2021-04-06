@@ -1,1 +1,1 @@
-var mnemonic = "clean gold ball diesel legend unique prefer vanish weird eight student expand";
+var mnemonic = "match gospel arrest special mixture old eight wild mechanic veteran original west";

@@ -1,1 +1,1 @@
-var mnemonic = "story blush document shell loan hill arm grocery ability cement spell congress";
+var mnemonic = "model fatal like shrimp submit demand brain trouble candy cost trouble pen";

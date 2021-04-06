@@ -1,1 +1,1 @@
-var mnemonic = "burst cool dolphin scrub belt myself base split noble bicycle where shield";
+var mnemonic = "guard skin coast zebra candy impact random grow eight universe junior security";

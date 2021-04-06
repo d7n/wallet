@@ -1,1 +1,1 @@
-var mnemonic = "hat sad release oppose fly toddler talk rain swear jump sock globe";
+var mnemonic = "occur cargo labor clutch moment slogan quality weapon you rude tomorrow shell";

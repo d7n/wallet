@@ -1,1 +1,1 @@
-var mnemonic = "combine boss prosper arrest offer wish rigid dumb gas enter school snap";
+var mnemonic = "ask bonus ocean print awkward evolve all coach much clerk wedding okay";

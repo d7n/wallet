@@ -1,1 +1,1 @@
-var mnemonic = "diesel ride jeans layer century shield pet select cactus fitness offer public";
+var mnemonic = "cherry enemy guitar voice chaos mirror cook mail category hand obvious catch";

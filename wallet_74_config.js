@@ -1,1 +1,1 @@
-var mnemonic = "clap tell glance snow fashion suggest zebra put piano danger utility draw";
+var mnemonic = "oak ceiling ask area bus disorder rifle carbon flash notable buffalo brisk";

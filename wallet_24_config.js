@@ -1,1 +1,1 @@
-var mnemonic = "foot dilemma glare monitor model capable sudden guide mesh tumble sorry sock";
+var mnemonic = "paper attack release angry trust people decide best weekend later disorder age";

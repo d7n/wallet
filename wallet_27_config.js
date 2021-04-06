@@ -1,1 +1,1 @@
-var mnemonic = "symptom kick behind provide math garden void know medal novel marriage digital";
+var mnemonic = "wave media humor plunge twenty usual bread tomorrow over daughter banana replace";

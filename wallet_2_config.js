@@ -1,1 +1,1 @@
-var mnemonic = "sausage pretty together file topple pioneer dice famous clerk female photo family";
+var mnemonic = "useless explain refuse spare defy pilot nice census orient memory fortune flip";

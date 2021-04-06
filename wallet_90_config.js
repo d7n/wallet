@@ -1,1 +1,1 @@
-var mnemonic = "profit vibrant average drip sorry spawn question special sign news local whip";
+var mnemonic = "monster pass predict file morning staff menu raccoon term museum neutral corn";

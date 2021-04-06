@@ -1,1 +1,1 @@
-var mnemonic = "grit rude wool review celery misery erase control jewel build gorilla share";
+var mnemonic = "motion exchange embody will embark tornado fruit grape message cup creek aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet share fence endless section remove combine diary multiply climb magnet useful";
+var mnemonic = "rain rice globe tooth direct fresh adapt wrestle slab enlist kangaroo unable";

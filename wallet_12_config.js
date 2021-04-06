@@ -1,1 +1,1 @@
-var mnemonic = "entire mad guilt torch raven flower midnight destroy vendor warrior bean absent";
+var mnemonic = "spatial dose curious wrist nation leader acquire below maid gift bless nose";

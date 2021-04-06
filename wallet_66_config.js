@@ -1,1 +1,1 @@
-var mnemonic = "vapor firm uphold hip nothing large thumb thrive essence brass stadium phone";
+var mnemonic = "bright crane phone bless evil notable accuse cluster change heavy talent rescue";

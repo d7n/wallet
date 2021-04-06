@@ -1,1 +1,1 @@
-var mnemonic = "question torch vacant biology mass smile feel stay roast effort rely skull";
+var mnemonic = "report path crucial fence dog friend fly input educate fortune main ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "month welcome bus patient play welcome mobile defense upper alpha page broccoli";
+var mnemonic = "off book twist lyrics glove image subject depart luxury spare book civil";

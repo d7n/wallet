@@ -1,1 +1,1 @@
-var mnemonic = "business film burger surprise globe jacket fall tower oblige claw mountain doll";
+var mnemonic = "vintage nature lonely industry artefact damp melody venture service vessel beach tenant";

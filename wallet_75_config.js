@@ -1,1 +1,1 @@
-var mnemonic = "mass pizza nice eagle case effort antenna six solar beyond plunge warm";
+var mnemonic = "alert crash cliff task shell coach robot impulse exit anger print oyster";

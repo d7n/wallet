@@ -1,1 +1,1 @@
-var mnemonic = "castle actual unhappy stone bring alone swallow leisure worry stool embark rapid";
+var mnemonic = "cram deer replace patrol radar joke artwork beauty blanket tent maple kiwi";

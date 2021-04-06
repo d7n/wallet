@@ -1,1 +1,1 @@
-var mnemonic = "erase oppose tuna ivory duty luggage wise exclude lava funny flat spin";
+var mnemonic = "advice name escape choice street describe okay chuckle sunny flight real also";

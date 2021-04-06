@@ -1,1 +1,1 @@
-var mnemonic = "upon merry call keep few legend monkey hidden uniform poet opinion dove";
+var mnemonic = "example indoor bar travel square small enforce section potato tuna grace wrestle";

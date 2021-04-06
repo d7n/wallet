@@ -1,1 +1,1 @@
-var mnemonic = "connect wave ladder reopen grocery punch siege cage grow canyon sense win";
+var mnemonic = "album fiber year dance lady mad celery panel suggest castle gloom flash";

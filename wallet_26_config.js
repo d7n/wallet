@@ -1,1 +1,1 @@
-var mnemonic = "tribe explain elbow wrist foot valley insect decrease work object coach fee";
+var mnemonic = "jar liar sad resemble immense piano process coffee lock accuse turn roast";

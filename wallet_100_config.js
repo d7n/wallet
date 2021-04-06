@@ -1,1 +1,1 @@
-var mnemonic = "autumn winter winter donkey then squeeze quality region walk advice first vehicle";
+var mnemonic = "flush pig position assault achieve phone narrow dwarf vendor thank frown welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "own toss ride whip afraid observe gallery library hard script expire sphere";
+var mnemonic = "vehicle exercise veteran obscure bachelor primary exile poem abuse swallow impact frame";

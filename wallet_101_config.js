@@ -1,1 +1,1 @@
-var mnemonic = "cargo captain journey teach emerge decrease permit minute hint else morning clay";
+var mnemonic = "grace remove funny smooth roast demand polar shift rival yard custom know";

@@ -1,1 +1,1 @@
-var mnemonic = "basic tool hawk canvas walnut siren edit patient initial cactus double balance";
+var mnemonic = "protect problem lawn hair diamond lucky glory hedgehog disease shoot rent snack";

@@ -1,1 +1,1 @@
-var mnemonic = "essence rebuild core fit return valid help satoshi power embrace push purpose";
+var mnemonic = "pink focus media weather chuckle achieve place lamp tooth cancel clarify arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "nature frequent humor warrior sort organ list scatter museum bright race pitch";
+var mnemonic = "recipe online trash sudden ask random tiger endless accident desk anger tooth";

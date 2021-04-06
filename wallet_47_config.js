@@ -1,1 +1,1 @@
-var mnemonic = "member faculty inhale behind dog liar switch soap anchor about dilemma usage";
+var mnemonic = "horror surge brain fetch exotic neutral uncover toss minute oblige sort dizzy";

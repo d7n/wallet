@@ -1,1 +1,1 @@
-var mnemonic = "battle floor public awkward once net save excess fruit soda play phrase";
+var mnemonic = "forward clarify hundred hire cereal town myth fog remember unfold exile light";

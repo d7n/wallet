@@ -1,1 +1,1 @@
-var mnemonic = "spell cigar circle base stuff behave tumble dust actual entry purchase fruit";
+var mnemonic = "assault buyer pudding curtain avoid install repeat review sugar route shed priority";

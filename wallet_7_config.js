@@ -1,1 +1,1 @@
-var mnemonic = "acid aunt runway lawsuit blind copy tiny lonely bracket face when piece";
+var mnemonic = "abstract lecture anchor palace dumb team slogan access maple mirror valid sentence";

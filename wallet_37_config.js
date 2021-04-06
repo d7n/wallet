@@ -1,1 +1,1 @@
-var mnemonic = "orphan garbage hedgehog open duty banana worry umbrella say plastic hard until";
+var mnemonic = "unhappy health hole write poet resemble soda noodle search risk style tip";
