@@ -1,1 +1,1 @@
-var mnemonic = "mouse expire jump humor inquiry ramp merry cup fluid snow pig sense";
+var mnemonic = "fresh clip manage admit orient news duty couch rapid decline hurt desert";

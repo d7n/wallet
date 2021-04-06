@@ -1,1 +1,1 @@
-var mnemonic = "business desert sea setup canvas friend remove peanut spin mango ordinary fiction";
+var mnemonic = "spider silent mail mountain hello myth afford slam unlock giraffe comic salon";

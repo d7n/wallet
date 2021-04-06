@@ -1,1 +1,1 @@
-var mnemonic = "promote sketch update prepare spatial garlic escape portion edge treat hidden penalty";
+var mnemonic = "strong wish power traffic basic winter unable undo lucky click prefer label";

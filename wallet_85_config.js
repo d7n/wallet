@@ -1,1 +1,1 @@
-var mnemonic = "neglect couch sea section amused bread tennis cream parade scorpion glad warfare";
+var mnemonic = "polar submit any much prison home lunch mimic inside topple rice olympic";

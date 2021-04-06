@@ -1,1 +1,1 @@
-var mnemonic = "arch enforce decide party sing total spirit axis rebuild slight dove cannon";
+var mnemonic = "increase clip text genius bind delay sail lion certain learn home pause";

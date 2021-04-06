@@ -1,1 +1,1 @@
-var mnemonic = "clever tissue taxi certain tag agent sword supply shop emerge silly parent";
+var mnemonic = "damp year belt denial volume frame awkward poet bar rival slogan success";

@@ -1,1 +1,1 @@
-var mnemonic = "auction bench train clump deposit buddy speed start mask flush bonus suspect";
+var mnemonic = "control hammer magic shell bag couple van unknown base wild journey hole";

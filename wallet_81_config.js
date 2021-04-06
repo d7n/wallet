@@ -1,1 +1,1 @@
-var mnemonic = "figure obey faith faith talent cricket solid dinosaur short lemon about jewel";
+var mnemonic = "hammer balcony puzzle twenty increase tortoise hundred worry young across problem pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "travel tumble base weird best odor cave horn sleep man great pull";
+var mnemonic = "test original body attract situate upper train fold casino original huge fiscal";

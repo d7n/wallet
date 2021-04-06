@@ -1,1 +1,1 @@
-var mnemonic = "split prosper raw romance average cave this carry speed fruit soap subway";
+var mnemonic = "island decrease embody thrive midnight person left gasp carbon pipe unique patrol";

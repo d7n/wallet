@@ -1,1 +1,1 @@
-var mnemonic = "guess firm tunnel peace swear just bracket minute token finger post jewel";
+var mnemonic = "push paddle often stick aunt chapter coyote bless slush marine angle alarm";

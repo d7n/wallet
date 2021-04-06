@@ -1,1 +1,1 @@
-var mnemonic = "reflect tornado teach column cloth uphold expand thunder range own acid train";
+var mnemonic = "potato waste acquire bitter human now fox invest orchard attend usual celery";

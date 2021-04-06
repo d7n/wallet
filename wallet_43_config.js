@@ -1,1 +1,1 @@
-var mnemonic = "burst nurse bundle push car kick certain jaguar limit apple warm goose";
+var mnemonic = "slide usual round company world hip chief muscle dose ozone express small";

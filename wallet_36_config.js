@@ -1,1 +1,1 @@
-var mnemonic = "turkey clown side spot ceiling worry unfair wait first trap climb divorce";
+var mnemonic = "embody glimpse actress you woman tuition curve during response spread umbrella size";

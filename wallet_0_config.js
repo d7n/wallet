@@ -1,1 +1,1 @@
-var mnemonic = "predict normal empower bubble adapt uphold whip shrug about dust endorse orange";
+var mnemonic = "bunker lawn reopen hundred crop similar income amused act page mention winter";

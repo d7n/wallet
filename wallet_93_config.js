@@ -1,1 +1,1 @@
-var mnemonic = "pistol relax expand unfold awful jacket hidden mail endless engage shine exile";
+var mnemonic = "solve castle beach wise economy wash sword point note better earn chuckle";

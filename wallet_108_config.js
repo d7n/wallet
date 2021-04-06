@@ -1,1 +1,1 @@
-var mnemonic = "gentle rebel clump strategy pink raccoon merge media million cover more kingdom";
+var mnemonic = "derive area control curve weather repeat attend catch fossil mercy night tongue";

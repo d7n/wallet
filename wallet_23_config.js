@@ -1,1 +1,1 @@
-var mnemonic = "valve science security acid squirrel flock peanut panda there pencil quiz morning";
+var mnemonic = "filter ability cliff judge once help pave penalty chuckle bless now powder";

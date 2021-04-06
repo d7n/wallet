@@ -1,1 +1,1 @@
-var mnemonic = "bracket ethics olive wait rib robot ring season faculty someone nurse spend";
+var mnemonic = "type radar badge hood worth early define ahead merge release nest pelican";

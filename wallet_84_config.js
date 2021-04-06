@@ -1,1 +1,1 @@
-var mnemonic = "runway swap marriage address coin lesson between sister news visual wasp cheap";
+var mnemonic = "cannon shoot tube derive final oven bamboo pass sing wife answer meat";

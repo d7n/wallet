@@ -1,1 +1,1 @@
-var mnemonic = "weekend jeans ramp game poem success desk fiscal bright favorite fat language";
+var mnemonic = "father sudden lawsuit sick claim reunion forum sheriff vast ozone text debris";

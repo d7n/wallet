@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur benefit liar retreat foil sound wheel tornado utility actress income super";
+var mnemonic = "forward twelve purse fatal voyage resist pink push battle secret online learn";

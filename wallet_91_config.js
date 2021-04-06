@@ -1,1 +1,1 @@
-var mnemonic = "assume forum profit gap nut until emerge brisk crime figure divorce soldier";
+var mnemonic = "tip salad tiny seat replace program transfer bar drift elephant dust pyramid";

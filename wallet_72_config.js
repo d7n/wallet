@@ -1,1 +1,1 @@
-var mnemonic = "water popular label fitness recipe street gloom quality boring name space forest";
+var mnemonic = "furnace diesel cheap catalog neutral season derive hospital sniff then nasty daughter";

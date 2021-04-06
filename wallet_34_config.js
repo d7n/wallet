@@ -1,1 +1,1 @@
-var mnemonic = "tip must detect orient laundry shiver forward diesel possible ethics casino cook";
+var mnemonic = "end hold banana enact brand square record effort bachelor stereo describe stone";

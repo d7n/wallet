@@ -1,1 +1,1 @@
-var mnemonic = "network identify two iron rug lazy total small black scale begin cruise";
+var mnemonic = "tube erode winner radar sunset argue crash wage bargain enact glow language";

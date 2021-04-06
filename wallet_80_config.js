@@ -1,1 +1,1 @@
-var mnemonic = "wave gallery dinner scrap lounge blouse wrist capital hundred topple six auto";
+var mnemonic = "fantasy muscle waste wage add profit ripple river rotate harsh describe model";

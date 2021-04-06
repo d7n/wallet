@@ -1,1 +1,1 @@
-var mnemonic = "idea sudden nominee snap cry leisure tiger arrest smart kitten focus purity";
+var mnemonic = "dust process pet argue cheese clerk garden jeans smile olive spend party";

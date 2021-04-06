@@ -1,1 +1,1 @@
-var mnemonic = "excuse logic trim opinion paper island giggle derive hidden length grid apple";
+var mnemonic = "rate edit split witness divorce egg meadow uncle rely emotion traffic body";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug phone gain soon rifle airport impulse click sure side seed hollow";
+var mnemonic = "survey impulse field sister retire license subway remove benefit armor wife flock";

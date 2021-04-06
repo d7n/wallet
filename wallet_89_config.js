@@ -1,1 +1,1 @@
-var mnemonic = "fame episode blanket absent rabbit like clutch input very entry trade submit";
+var mnemonic = "humor husband retreat call delay panic enforce input broccoli tongue column priority";

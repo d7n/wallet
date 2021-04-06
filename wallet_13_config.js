@@ -1,1 +1,1 @@
-var mnemonic = "kingdom vital slender cry hub turkey across top hope used any thumb";
+var mnemonic = "smooth bar struggle another wave neck jaguar mushroom apology mesh indoor pill";

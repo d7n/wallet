@@ -1,1 +1,1 @@
-var mnemonic = "whip dance hint rubber favorite patrol disorder reflect good bamboo weapon cool";
+var mnemonic = "gadget better survey concert wild crop bomb miracle sudden metal violin danger";

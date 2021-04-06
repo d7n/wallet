@@ -1,1 +1,1 @@
-var mnemonic = "drift youth tortoise cannon rescue size ring fury strike unfair weekend slush";
+var mnemonic = "chuckle grain ankle genre crack discover flat crucial tourist tenant drastic warfare";

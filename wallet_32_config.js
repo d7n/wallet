@@ -1,1 +1,1 @@
-var mnemonic = "middle knock exist soldier mercy input flat benefit weapon parrot ozone fox";
+var mnemonic = "idea pig friend team clip element absent face culture short can remain";

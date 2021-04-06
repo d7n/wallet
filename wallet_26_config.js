@@ -1,1 +1,1 @@
-var mnemonic = "direct morning length cabbage rent hat police orphan wedding flag year poem";
+var mnemonic = "visa ten demand wild trend exist true diamond arm horror fringe swear";

@@ -1,1 +1,1 @@
-var mnemonic = "earn fatal bundle session hope usual wet wish repeat prevent cupboard boy";
+var mnemonic = "people promote garlic art know fat another retreat bus super warrior donate";

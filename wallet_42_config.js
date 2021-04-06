@@ -1,1 +1,1 @@
-var mnemonic = "bring hotel donate ignore barrel urban blade cable notice program awkward toast";
+var mnemonic = "zoo amazing woman document avocado abstract select episode brick hobby loop middle";

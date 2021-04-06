@@ -1,1 +1,1 @@
-var mnemonic = "neutral lecture pill cricket describe correct later cabbage admit front long beyond";
+var mnemonic = "group cat fork vacuum museum enroll bless crystal salmon remind hollow fabric";

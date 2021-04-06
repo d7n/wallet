@@ -1,1 +1,1 @@
-var mnemonic = "mirror bullet cigar solve goat split derive ritual labor truck lumber icon";
+var mnemonic = "old bargain camp hybrid six cycle neck curtain recipe hover ostrich proof";

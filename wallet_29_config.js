@@ -1,1 +1,1 @@
-var mnemonic = "breeze earth west ill include fortune prize moral poem iron until spread";
+var mnemonic = "corn top phone select junk into yard friend check poem saddle same";

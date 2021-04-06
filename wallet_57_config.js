@@ -1,1 +1,1 @@
-var mnemonic = "isolate mountain code clap amazing prize vacant chalk safe edit sponsor cart";
+var mnemonic = "sketch health purpose silly shrug sword already list slide hover mercy fiscal";

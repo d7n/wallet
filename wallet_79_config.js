@@ -1,1 +1,1 @@
-var mnemonic = "series corn pulp have elevator camera dry worry fetch lounge fade world";
+var mnemonic = "fade elevator glory later cancel elephant concert trash obscure step camp leopard";

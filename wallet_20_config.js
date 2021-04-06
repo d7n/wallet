@@ -1,1 +1,1 @@
-var mnemonic = "payment situate typical tumble nephew second champion armed gorilla cabin attend differ";
+var mnemonic = "drama certain word also ecology net web laundry develop tone rather noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "sell wild cigar scan exhibit ivory hurry sudden rose river demise team";
+var mnemonic = "frame recycle marble rural daughter street enrich street arm airport morning reflect";

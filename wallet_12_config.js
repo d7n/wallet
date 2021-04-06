@@ -1,1 +1,1 @@
-var mnemonic = "trust biology seek crash social swarm deal face man discover wide object";
+var mnemonic = "ecology measure rotate toward crater piece crop puzzle permit occur bind cute";

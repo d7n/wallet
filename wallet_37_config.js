@@ -1,1 +1,1 @@
-var mnemonic = "globe tuition few pulp glide stool state satisfy train goose trap month";
+var mnemonic = "picnic lonely you bus neck foil rice scene clean remember easily install";

@@ -1,1 +1,1 @@
-var mnemonic = "consider wife work market casual garden ghost cash winter dinner anger lemon";
+var mnemonic = "gap street worth front describe guard idea brand gorilla library gain ramp";

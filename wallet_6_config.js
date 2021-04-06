@@ -1,1 +1,1 @@
-var mnemonic = "organ rhythm final bench obey drill dash immune mention trouble address bunker";
+var mnemonic = "finish loop rent forward confirm clay tomato ten turn egg afford ability";

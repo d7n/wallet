@@ -1,1 +1,1 @@
-var mnemonic = "husband marble tip later gas theory year region chapter produce organ crime";
+var mnemonic = "have deposit sunny creek retreat mind animal wash problem mixed chef start";

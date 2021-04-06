@@ -1,1 +1,1 @@
-var mnemonic = "tribe rebuild erosion then few comic acid banana work stairs setup stock";
+var mnemonic = "spot silent tunnel place usage kid group vocal come dynamic receive visual";

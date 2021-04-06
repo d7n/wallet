@@ -1,1 +1,1 @@
-var mnemonic = "enough essence dust sugar buffalo half delay black device nature walnut parent";
+var mnemonic = "undo split black genre fame arrest train wedding public child seek cinnamon";

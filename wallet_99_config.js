@@ -1,1 +1,1 @@
-var mnemonic = "logic cricket dial develop scan busy gentle critic magnet normal tent stick";
+var mnemonic = "strong question expand memory artist duty lounge hen solid reflect either hold";

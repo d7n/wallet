@@ -1,1 +1,1 @@
-var mnemonic = "trust poet busy giraffe nut whisper excuse disagree apology cricket brief across";
+var mnemonic = "disagree best census inject movie monitor priority loan input false chef spoon";

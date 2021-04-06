@@ -1,1 +1,1 @@
-var mnemonic = "front trust copy easily pill drift board fringe impose document spike secret";
+var mnemonic = "unique roof repair afford lawsuit once express boil core fire ivory wage";

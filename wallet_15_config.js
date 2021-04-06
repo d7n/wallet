@@ -1,1 +1,1 @@
-var mnemonic = "oppose asthma oblige ceiling helmet cook reflect expect super refuse walnut yard";
+var mnemonic = "crime junior kind tank permit scatter music broom field average maximum category";

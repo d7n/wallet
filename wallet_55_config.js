@@ -1,1 +1,1 @@
-var mnemonic = "idea pull whisper verb raccoon scheme diagram inject torch ability leg high";
+var mnemonic = "evolve banana solution solve eyebrow essay child spread faculty sport account salmon";

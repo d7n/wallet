@@ -1,1 +1,1 @@
-var mnemonic = "spirit shift fiction over actress person once foil scene mansion leave feel";
+var mnemonic = "leisure cube online rifle tower gate party apple lift fiber since base";

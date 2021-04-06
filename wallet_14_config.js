@@ -1,1 +1,1 @@
-var mnemonic = "fiction recipe quality second bless wool host oval auto breeze dune glad";
+var mnemonic = "smoke uphold flame raw cruise auction desk hill file lucky into badge";

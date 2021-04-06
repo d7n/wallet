@@ -1,1 +1,1 @@
-var mnemonic = "region grit cart large link pear cart either middle health stick carry";
+var mnemonic = "confirm better glad silver solar elegant argue kiss face patient peasant entry";

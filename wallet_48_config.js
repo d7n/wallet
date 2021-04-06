@@ -1,1 +1,1 @@
-var mnemonic = "pool indicate civil stove canoe trial pigeon phrase evolve program chapter feel";
+var mnemonic = "pitch gain label merry school visa process fantasy neither execute possible over";

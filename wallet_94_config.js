@@ -1,1 +1,1 @@
-var mnemonic = "okay jazz title hamster salad maple right discover witness year category inject";
+var mnemonic = "resource party innocent clever dirt bitter orbit victory mail horn fiction sort";

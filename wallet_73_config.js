@@ -1,1 +1,1 @@
-var mnemonic = "script dice buddy vacuum donate typical shock length fortune horn raise daughter";
+var mnemonic = "initial spawn victory asthma deputy notice ability prepare inform dash two goat";

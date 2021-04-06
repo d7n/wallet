@@ -1,1 +1,1 @@
-var mnemonic = "number sure educate forest gown issue depend demand meat trim analyst rough";
+var mnemonic = "hard vote tree argue amused shoe worry opinion gorilla true ask business";

@@ -1,1 +1,1 @@
-var mnemonic = "labor ensure corn unveil dose flush atom bread quantum hockey soap gun";
+var mnemonic = "hello school ceiling blade hole clerk wolf parade jelly empower shallow mouse";

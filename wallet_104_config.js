@@ -1,1 +1,1 @@
-var mnemonic = "version clog angle evolve hungry slush infant taste long ability twin cricket";
+var mnemonic = "pull exist measure exclude super cart margin valve tiger path bench process";

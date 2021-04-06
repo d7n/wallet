@@ -1,1 +1,1 @@
-var mnemonic = "verify donate relief chapter dutch zoo tissue peasant tank ranch sudden grain";
+var mnemonic = "pottery discover patrol fade zone what found wing wealth busy two car";

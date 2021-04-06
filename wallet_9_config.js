@@ -1,1 +1,1 @@
-var mnemonic = "fence similar valve stick piece front crumble twenty load render require parade";
+var mnemonic = "math isolate tragic process taxi diesel differ maple empty normal speed lion";

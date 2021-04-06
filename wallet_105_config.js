@@ -1,1 +1,1 @@
-var mnemonic = "curtain trigger reward climb expect style egg turn velvet lava all firm";
+var mnemonic = "discover social light coral diamond harbor primary boring off tree rebuild blast";

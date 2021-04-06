@@ -1,1 +1,1 @@
-var mnemonic = "issue feel alert page away that brain feed arena casual help define";
+var mnemonic = "cruel gown price because either escape shed blast erode sugar similar item";

@@ -1,1 +1,1 @@
-var mnemonic = "flash enemy foot express tragic napkin enact side lawn topic sand sample";
+var mnemonic = "disorder comic glide argue say flower owner glad focus swap mansion chair";

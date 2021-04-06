@@ -1,1 +1,1 @@
-var mnemonic = "slice above real page tube minute lawn sail flash donkey dinner impulse";
+var mnemonic = "junk mango amazing inmate anxiety sweet fish tone awesome false beach frog";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan real wolf save fire strong benefit fan morning prefer balance second";
+var mnemonic = "novel swim legal obvious ride empower special damage side warm negative candy";

@@ -1,1 +1,1 @@
-var mnemonic = "design problem giggle lend supreme cradle network easily era pool physical pair";
+var mnemonic = "capital still negative mask easily verify still mechanic enough public echo text";

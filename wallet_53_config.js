@@ -1,1 +1,1 @@
-var mnemonic = "cloud cabbage spell stumble calm vicious upper unhappy bulk police garden hungry";
+var mnemonic = "enlist senior amused naive jazz retire story measure bullet pact floor exhaust";

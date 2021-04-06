@@ -1,1 +1,1 @@
-var mnemonic = "prison trend young six ask truck town culture net lecture follow resemble";
+var mnemonic = "horn approve hybrid envelope name visual debris comic bunker comfort final aware";

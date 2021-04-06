@@ -1,1 +1,1 @@
-var mnemonic = "own focus sea denial phrase artist exotic exact monkey access key century";
+var mnemonic = "august camera eager sunny delay vivid path armed math degree lake planet";

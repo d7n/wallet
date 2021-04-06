@@ -1,1 +1,1 @@
-var mnemonic = "tree tunnel medal neck elbow axis suspect jar coast true card recipe";
+var mnemonic = "canvas slush result either fatal comic afford target attack hen gap lift";

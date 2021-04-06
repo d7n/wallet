@@ -1,1 +1,1 @@
-var mnemonic = "mosquito trouble stool amused load glove jelly odor tribe crash glare sort";
+var mnemonic = "evil calm melt ugly monkey bullet luggage hill struggle filter follow train";

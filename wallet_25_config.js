@@ -1,1 +1,1 @@
-var mnemonic = "busy leaf ensure amused shock assume rare wish silver sock neither daughter";
+var mnemonic = "quantum ocean stumble robust thrive machine fabric chronic cliff region inflict rely";

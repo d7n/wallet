@@ -1,1 +1,1 @@
-var mnemonic = "depart shoot bright close galaxy inquiry human waste below forum material just";
+var mnemonic = "pulse around canal reform sniff edge essence fuel assault arrow label art";

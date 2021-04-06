@@ -1,1 +1,1 @@
-var mnemonic = "border wait sunset mandate cotton wealth seek before piece stool city seat";
+var mnemonic = "tiger width kit old capital involve goat parade family swim elder imitate";

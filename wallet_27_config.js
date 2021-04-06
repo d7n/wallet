@@ -1,1 +1,1 @@
-var mnemonic = "give defy decide second thought demand mother accident obey cheese pizza basket";
+var mnemonic = "half truck taste peasant split love chaos visit forward deny flag educate";

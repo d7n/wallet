@@ -1,1 +1,1 @@
-var mnemonic = "december dust slide humble eyebrow cart quick whip excess dice scatter position";
+var mnemonic = "fly vicious scrap food sauce risk trip shed city tower spoon cushion";

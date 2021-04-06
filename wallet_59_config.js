@@ -1,1 +1,1 @@
-var mnemonic = "lizard myself reward power rookie inject front air smile weasel differ surface";
+var mnemonic = "item universe produce aspect lesson parade sphere that ghost life bag peace";
