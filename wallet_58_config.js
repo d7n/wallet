@@ -1,1 +1,1 @@
-var mnemonic = "nothing reform cup battle leaf since price clip limb mansion always color";
+var mnemonic = "science view narrow around control hip hover sound universe law plate mixed";

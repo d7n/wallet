@@ -1,1 +1,1 @@
-var mnemonic = "sauce brush blossom bid roast shaft arrow wait illness deliver stumble rule";
+var mnemonic = "female feel combine great grace hazard side apart viable remain will clip";

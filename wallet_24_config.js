@@ -1,1 +1,1 @@
-var mnemonic = "minimum supreme asset reward balance attract excite journey buzz copper gun brief";
+var mnemonic = "issue guilt jaguar front meat leaf deal prize hat engage raven lumber";

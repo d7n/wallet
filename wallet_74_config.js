@@ -1,1 +1,1 @@
-var mnemonic = "double captain clap expand dash want thought bottom reject multiply voice control";
+var mnemonic = "sample actress team grain party oak help cancel mutual ordinary turkey bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "current ritual anxiety circle early invest input response inherit spider mystery sniff";
+var mnemonic = "idle soccer illness blade stage arch south enemy sport simple furnace draw";

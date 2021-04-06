@@ -1,1 +1,1 @@
-var mnemonic = "ginger female jacket robot captain soup eagle smile concert indoor domain couple";
+var mnemonic = "train fault runway horse life wave fetch begin merge guard parrot exchange";

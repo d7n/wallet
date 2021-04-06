@@ -1,1 +1,1 @@
-var mnemonic = "ribbon afford salad stone cup punch liberty engage catch small voice world";
+var mnemonic = "amount seed concert property swear absorb survey affair mix skin spider demise";

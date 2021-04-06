@@ -1,1 +1,1 @@
-var mnemonic = "kick agent debris spend onion recipe document steak sauce physical eyebrow hub";
+var mnemonic = "draw siege very breeze olive length swift negative join accuse mix taste";

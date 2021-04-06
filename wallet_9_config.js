@@ -1,1 +1,1 @@
-var mnemonic = "wheat shuffle arena prepare renew reform almost category ritual welcome umbrella maid";
+var mnemonic = "panel sick hello output reveal dove sadness fame visa symptom receive alpha";

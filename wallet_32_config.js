@@ -1,1 +1,1 @@
-var mnemonic = "tomato eager dirt wing empower comfort metal fragile erase deputy quiz suit";
+var mnemonic = "engage any begin feed unusual awesome relax rookie enemy crouch person better";

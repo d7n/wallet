@@ -1,1 +1,1 @@
-var mnemonic = "enforce frame burst feature crumble entry mouse merry turn hobby monkey decade";
+var mnemonic = "master remember harbor siege size script enforce tag notice plunge write alarm";

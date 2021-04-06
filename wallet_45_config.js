@@ -1,1 +1,1 @@
-var mnemonic = "shell abandon virtual depend obey fee message human require cause layer nothing";
+var mnemonic = "upon hedgehog gospel torch great era aerobic wedding human flip this wet";

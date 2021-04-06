@@ -1,1 +1,1 @@
-var mnemonic = "vendor reunion boring salad surface wheel bean speak inmate popular giraffe mom";
+var mnemonic = "eternal card verb direct metal scrub elder clog tail girl million strike";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel hover beef girl flash banana record truly ensure fever submit mirror";
+var mnemonic = "toss opera faith project opera young delay beef pony better foam brain";

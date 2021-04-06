@@ -1,1 +1,1 @@
-var mnemonic = "veteran cover inch crazy price element behave moral crash whisper mirror picture";
+var mnemonic = "believe divert light midnight sell write funny exercise chat outside puzzle snack";

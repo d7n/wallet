@@ -1,1 +1,1 @@
-var mnemonic = "code correct know tree race robust matter extend sorry toss shrug below";
+var mnemonic = "dial laundry six fancy universe pupil casino elevator mask impose supply liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "whip midnight such tortoise execute arena above polar upper air beef tissue";
+var mnemonic = "hobby win yellow gravity scrub history night crawl crawl element noble lock";

@@ -1,1 +1,1 @@
-var mnemonic = "normal leisure umbrella such core mask wire thunder market fuel inquiry blood";
+var mnemonic = "want embark twelve claw puzzle large party piano bring wealth fold glimpse";

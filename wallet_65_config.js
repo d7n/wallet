@@ -1,1 +1,1 @@
-var mnemonic = "giant mixture double warm real genre stable curve height maze staff curious";
+var mnemonic = "sorry desk height sad tuition adult limit glad foil spare history agree";

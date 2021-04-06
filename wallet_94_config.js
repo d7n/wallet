@@ -1,1 +1,1 @@
-var mnemonic = "test breeze distance gravity drum antique absorb song receive trick vague remove";
+var mnemonic = "tent obvious pride fatigue fashion spot twist genius crucial employ brown flock";

@@ -1,1 +1,1 @@
-var mnemonic = "affair hamster scissors biology cereal cactus sketch cheap dry feature ahead obscure";
+var mnemonic = "cement card budget edge stock pause wife butter sunny museum today expire";

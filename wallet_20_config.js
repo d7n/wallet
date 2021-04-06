@@ -1,1 +1,1 @@
-var mnemonic = "gossip anger other program wrong excess orchard wealth fix earth company honey";
+var mnemonic = "absent ostrich predict fan ostrich rigid volume lazy pet goat swarm gold";

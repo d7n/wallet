@@ -1,1 +1,1 @@
-var mnemonic = "tongue vehicle relax result federal peanut lend fiction spoon promote decrease buffalo";
+var mnemonic = "dinosaur audit pill recycle mosquito life fat sad curve blue unable ensure";

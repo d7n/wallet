@@ -1,1 +1,1 @@
-var mnemonic = "blind observe tooth ask phone hobby bike beef before left luxury door";
+var mnemonic = "paper six popular arrow gallery merit hollow dinner simple mushroom warfare lady";

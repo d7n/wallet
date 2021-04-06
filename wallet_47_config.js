@@ -1,1 +1,1 @@
-var mnemonic = "roast reject stem copy remain dumb loyal cushion air skull cry input";
+var mnemonic = "wing secret fragile gate behave ugly drip battle donkey nasty nominee remind";

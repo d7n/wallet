@@ -1,1 +1,1 @@
-var mnemonic = "excess margin lift focus meat they shell zebra leader stand change shock";
+var mnemonic = "rely remove afford immense rhythm outer waste fold banner elegant jacket kangaroo";

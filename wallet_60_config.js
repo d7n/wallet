@@ -1,1 +1,1 @@
-var mnemonic = "bulk accuse power truly like piano limb replace act chuckle snack year";
+var mnemonic = "horror twin box cry wing era notable team ability pupil satoshi code";

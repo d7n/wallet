@@ -1,1 +1,1 @@
-var mnemonic = "thunder winner loop scout virtual civil badge basket novel theme orphan security";
+var mnemonic = "episode deliver hollow case exact upgrade slide barely winner blast analyst police";

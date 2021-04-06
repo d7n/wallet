@@ -1,1 +1,1 @@
-var mnemonic = "impose crime save inherit allow scan sunset father scout tiny cupboard argue";
+var mnemonic = "forward utility together practice slim elbow peasant object art bronze couch media";

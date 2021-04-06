@@ -1,1 +1,1 @@
-var mnemonic = "curtain opera absorb payment rib couple melt order sport bleak obey kid";
+var mnemonic = "monitor nose demise derive matter awesome expire wage language detect eye sample";

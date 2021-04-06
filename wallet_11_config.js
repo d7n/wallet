@@ -1,1 +1,1 @@
-var mnemonic = "biology large rather trophy moment disorder donkey skin page burger cup prosper";
+var mnemonic = "muffin tumble anger monster broccoli cause slow lift deny surround chuckle fit";

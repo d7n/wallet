@@ -1,1 +1,1 @@
-var mnemonic = "prepare web bench prize mistake satoshi luxury large sketch lucky word virtual";
+var mnemonic = "portion chaos trophy stuff convince staff pear zone attack erase auction beef";

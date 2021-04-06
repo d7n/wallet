@@ -1,1 +1,1 @@
-var mnemonic = "brown amazing sphere oven album orange turkey armor boss garden process onion";
+var mnemonic = "palace bamboo aunt clog disease network sustain april shift ready submit secret";

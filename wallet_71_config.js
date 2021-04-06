@@ -1,1 +1,1 @@
-var mnemonic = "denial cabin twin wrong mistake enter twist need tail ivory text medal";
+var mnemonic = "churn license south begin immense obscure employ brown sign cave topic labor";

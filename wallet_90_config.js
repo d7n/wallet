@@ -1,1 +1,1 @@
-var mnemonic = "false have lucky horse solid scrap aware file defense rocket lawn mixed";
+var mnemonic = "drink barely biology hawk cargo pistol burden eyebrow behave cool feature wrestle";

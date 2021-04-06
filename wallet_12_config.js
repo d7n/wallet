@@ -1,1 +1,1 @@
-var mnemonic = "aerobic hundred bench abstract either reduce matter object mimic stool raven adult";
+var mnemonic = "smoke piano include few bread sadness august place rubber bar dilemma hand";

@@ -1,1 +1,1 @@
-var mnemonic = "old pistol rotate mercy plunge alone jazz cherry enable silk boring curious";
+var mnemonic = "oak eight glad liberty mutual kidney wolf pattern strong hidden scout seat";

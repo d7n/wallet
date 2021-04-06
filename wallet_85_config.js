@@ -1,1 +1,1 @@
-var mnemonic = "wash layer saddle elegant pipe icon leader worth agree shadow effort ignore";
+var mnemonic = "muffin wool gas shift guess grace piece shoot empower famous oak satisfy";

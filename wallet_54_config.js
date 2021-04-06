@@ -1,1 +1,1 @@
-var mnemonic = "token nest dawn stick armed again stick magic uphold cry honey poem";
+var mnemonic = "lunar nest please wisdom move body blur anchor cousin fan inch vintage";

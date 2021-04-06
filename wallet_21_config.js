@@ -1,1 +1,1 @@
-var mnemonic = "raw device cram file unit early wonder estate glimpse shaft grape upon";
+var mnemonic = "april trade mechanic biology pair topic sheriff quiz wage side garbage quote";

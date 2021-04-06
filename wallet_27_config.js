@@ -1,1 +1,1 @@
-var mnemonic = "rapid tunnel blue dove hotel tail noble loyal picnic denial hub legal";
+var mnemonic = "slab oak stuff lobster card general suffer door history common follow life";

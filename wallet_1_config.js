@@ -1,1 +1,1 @@
-var mnemonic = "drive infant appear glow slogan bag spawn offer icon segment point jeans";
+var mnemonic = "faculty limit crucial north finish insane bomb quiz address fuel nerve share";

@@ -1,1 +1,1 @@
-var mnemonic = "trim ask survey antenna still gadget tooth never permit federal cereal satoshi";
+var mnemonic = "crop license amateur property health puzzle grab foster awesome dinner ship cattle";

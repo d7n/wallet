@@ -1,1 +1,1 @@
-var mnemonic = "used shift stage sweet maximum panda front draft twelve wrestle between round";
+var mnemonic = "future boy comfort width tornado over hybrid female before bus ostrich impose";

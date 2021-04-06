@@ -1,1 +1,1 @@
-var mnemonic = "giraffe pact hire cigar filter crawl fit ketchup penalty hospital gasp simple";
+var mnemonic = "ritual capital chaos bacon state impact bachelor ask soup youth brush wedding";

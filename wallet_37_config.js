@@ -1,1 +1,1 @@
-var mnemonic = "adult tray half inject wet prize popular decorate bring extra accuse spare";
+var mnemonic = "bottom off athlete portion rural force bullet unaware runway exist upgrade wise";

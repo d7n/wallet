@@ -1,1 +1,1 @@
-var mnemonic = "cheap reject slot mechanic easy front fly genre dirt ladder web office";
+var mnemonic = "solar manage balcony pass wagon armed behave type piece lift world hard";

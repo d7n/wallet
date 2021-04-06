@@ -1,1 +1,1 @@
-var mnemonic = "silent build laundry silk donkey village snap old steak pen sleep head";
+var mnemonic = "toddler usual talent identify bonus tooth curtain bunker hold shock empower vintage";

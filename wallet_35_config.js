@@ -1,1 +1,1 @@
-var mnemonic = "urge quote rely silk clap buffalo human kite future melt cost verify";
+var mnemonic = "digital beyond cycle liquid pledge book cigar pattern use start evolve inform";

@@ -1,1 +1,1 @@
-var mnemonic = "empty panther mixed rose knock zone verb desk swarm era path awesome";
+var mnemonic = "spin purpose drip false crouch prosper merge dream rebuild twelve thank clinic";

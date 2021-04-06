@@ -1,1 +1,1 @@
-var mnemonic = "material poverty control trouble general service adult bright benefit brisk shallow dinner";
+var mnemonic = "arctic glimpse already term exact nuclear donate december now mobile valid awesome";

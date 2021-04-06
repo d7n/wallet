@@ -1,1 +1,1 @@
-var mnemonic = "ski income aunt clog wife excuse artist butter trophy system globe fat";
+var mnemonic = "clap logic inject screen session fragile soldier frog earn alien pepper father";

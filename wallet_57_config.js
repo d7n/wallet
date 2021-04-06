@@ -1,1 +1,1 @@
-var mnemonic = "uphold crush urban payment devote sight alley merit glare special name treat";
+var mnemonic = "joke chair document salmon duty key cake bring wheel mom jealous wage";

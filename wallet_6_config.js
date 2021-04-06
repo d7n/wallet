@@ -1,1 +1,1 @@
-var mnemonic = "fuel volcano wish have vibrant forward mixture grunt toe coin nasty peace";
+var mnemonic = "drink dog dinner piano economy lab prison topple head bacon sadness original";

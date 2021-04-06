@@ -1,1 +1,1 @@
-var mnemonic = "have olympic pause excite move shock cupboard lady grit fan two fabric";
+var mnemonic = "combine airport wire rule visual spring execute much nut wrist torch bird";

@@ -1,1 +1,1 @@
-var mnemonic = "custom river shiver rabbit ride spider bulb guide replace purchase oyster raccoon";
+var mnemonic = "fire river buyer amazing nominee toss push egg spin dance copy shield";

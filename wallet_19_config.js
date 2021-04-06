@@ -1,1 +1,1 @@
-var mnemonic = "donor total naive barrel camp unique together ten moon fold expire hobby";
+var mnemonic = "cup couple aim bachelor corn border pulse truck dwarf endorse sorry cereal";

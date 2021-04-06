@@ -1,1 +1,1 @@
-var mnemonic = "fortune where organ illness noble check suffer reopen recycle net fence wish";
+var mnemonic = "parade topic element icon shift lizard put puppy fence chicken focus point";

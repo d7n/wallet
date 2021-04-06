@@ -1,1 +1,1 @@
-var mnemonic = "comic rain asset vital depart sudden sing auto credit salad imitate devote";
+var mnemonic = "eager turkey payment lobster ecology boss easy cousin clown shove input wear";

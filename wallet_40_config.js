@@ -1,1 +1,1 @@
-var mnemonic = "forest warrior sad limb prepare cargo insane truth dolphin rent atom duty";
+var mnemonic = "sample silly permit laugh number window island action step execute body render";

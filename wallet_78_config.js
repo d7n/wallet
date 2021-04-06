@@ -1,1 +1,1 @@
-var mnemonic = "choose cloud spoil symbol exhaust cover suffer coach pulp mystery lucky chair";
+var mnemonic = "company robust predict demand dove example detect uncover arrange boil comfort kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "mail heavy remember eternal become issue same kind quit walnut chair win";
+var mnemonic = "invest feel faint season remember grant struggle axis cram nephew lyrics shy";

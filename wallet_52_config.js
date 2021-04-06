@@ -1,1 +1,1 @@
-var mnemonic = "capable morning patient rule because yard maid clump glove hint beef result";
+var mnemonic = "chicken fluid maximum acquire essence shaft rocket decrease educate receive success describe";

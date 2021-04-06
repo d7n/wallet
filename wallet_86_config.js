@@ -1,1 +1,1 @@
-var mnemonic = "endorse frost churn provide album vintage dune combine render olive amateur luxury";
+var mnemonic = "portion goose kite pause nice loop human between antenna session save scout";

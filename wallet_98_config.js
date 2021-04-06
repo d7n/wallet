@@ -1,1 +1,1 @@
-var mnemonic = "double nothing style lady inch need brush resist profit reflect step ghost";
+var mnemonic = "arrest drill trophy toy fever system rain net post taste rude inner";

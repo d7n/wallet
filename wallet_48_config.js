@@ -1,1 +1,1 @@
-var mnemonic = "champion echo wink wild gospel burger remember photo april pass fork culture";
+var mnemonic = "result belt gym animal guilt neither physical tag margin absent clock trial";

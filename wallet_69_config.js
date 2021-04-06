@@ -1,1 +1,1 @@
-var mnemonic = "cool length half crowd pet client struggle echo battle minor fury flock";
+var mnemonic = "fork account flower upper polar include road adjust air strategy quality alcohol";

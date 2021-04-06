@@ -1,1 +1,1 @@
-var mnemonic = "pitch outdoor buzz control consider walk element ridge base connect clinic nest";
+var mnemonic = "mention same gauge remain safe source jar brief resemble remind have all";

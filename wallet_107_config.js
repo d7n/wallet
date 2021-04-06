@@ -1,1 +1,1 @@
-var mnemonic = "bless captain spend never solar century fiber eternal race october retreat barrel";
+var mnemonic = "employ example negative success urban truck family rare warrior alpha powder owner";

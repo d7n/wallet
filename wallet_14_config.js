@@ -1,1 +1,1 @@
-var mnemonic = "grunt great drill silly actual entire label buzz salon country vintage adjust";
+var mnemonic = "melt street tenant divert also enjoy wing upon digital disagree ribbon until";

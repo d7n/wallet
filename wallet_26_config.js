@@ -1,1 +1,1 @@
-var mnemonic = "bench warrior cinnamon lion furnace garment fancy idle slot promote share evidence";
+var mnemonic = "popular notable act illness enemy duty stable burden wisdom fix era tag";

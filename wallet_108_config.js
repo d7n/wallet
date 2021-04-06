@@ -1,1 +1,1 @@
-var mnemonic = "note typical reduce drastic cruise possible gym jazz grocery inch enemy iron";
+var mnemonic = "family define electric three rival copper erosion wash curtain domain quarter obvious";

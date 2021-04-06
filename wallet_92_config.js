@@ -1,1 +1,1 @@
-var mnemonic = "depend initial verb stable sphere cupboard law submit state picnic tonight intact";
+var mnemonic = "picture mask company bulb action flight flower wheel joke good old idea";

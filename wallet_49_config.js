@@ -1,1 +1,1 @@
-var mnemonic = "proud shadow private buddy cable kid carry plastic horn warfare empty neutral";
+var mnemonic = "inner toy general define maid defense fiction anxiety dinner grow bundle cheese";

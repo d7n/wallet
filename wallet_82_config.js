@@ -1,1 +1,1 @@
-var mnemonic = "large life excite ride fortune couple coyote beach damage lab toe physical";
+var mnemonic = "power reunion brave virus position bullet cram hunt fruit segment reject honey";

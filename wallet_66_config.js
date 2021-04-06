@@ -1,1 +1,1 @@
-var mnemonic = "right focus meat nasty velvet wise october machine medal release donor gift";
+var mnemonic = "asset ramp ship stuff swear kiss carry assist blue shuffle gloom tooth";

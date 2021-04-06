@@ -1,1 +1,1 @@
-var mnemonic = "aerobic shrimp teach wire appear punch tortoise admit vital laugh coconut shiver";
+var mnemonic = "obey prefer social travel fancy slogan scissors innocent bench relax mesh bomb";

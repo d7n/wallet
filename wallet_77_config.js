@@ -1,1 +1,1 @@
-var mnemonic = "punch fire solution silk dinner pet spin tail breeze chief canal express";
+var mnemonic = "street direct aunt swing enroll candy else absurd oblige cup federal stay";

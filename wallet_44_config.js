@@ -1,1 +1,1 @@
-var mnemonic = "carpet hollow accuse indoor grass nature assist favorite ritual smart north payment";
+var mnemonic = "snake welcome chaos problem credit coyote useful share blade unveil trend because";

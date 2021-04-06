@@ -1,1 +1,1 @@
-var mnemonic = "jewel skirt holiday office proof daughter door volcano off beyond dolphin unfair";
+var mnemonic = "fan rookie urban review junior border vault clay history filter riot know";

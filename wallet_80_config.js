@@ -1,1 +1,1 @@
-var mnemonic = "notice snack fat knife expect skull gym whip armed result right joke";
+var mnemonic = "make obvious famous retire tide wealth horse spare buffalo heavy adjust swarm";

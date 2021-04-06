@@ -1,1 +1,1 @@
-var mnemonic = "abuse identify coil patient heavy network soccer jungle custom wait nuclear claw";
+var mnemonic = "apology inch law north maple evil inject transfer bitter juice shell viable";

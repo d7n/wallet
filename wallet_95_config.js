@@ -1,1 +1,1 @@
-var mnemonic = "always they moment recall system lunch draft artist begin crazy person topple";
+var mnemonic = "hedgehog usual man detect citizen network rack expose giggle alley decade hand";

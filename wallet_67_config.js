@@ -1,1 +1,1 @@
-var mnemonic = "kind vicious final author space evil rely enjoy toss broccoli together robust";
+var mnemonic = "gesture crouch mutual suit tail local butter bomb planet tower hedgehog sorry";

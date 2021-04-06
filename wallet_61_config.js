@@ -1,1 +1,1 @@
-var mnemonic = "require bicycle cannon coral wing recycle conduct lyrics emotion merge spin wide";
+var mnemonic = "behind burden board crunch divert below neglect social tag public knee must";

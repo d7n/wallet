@@ -1,1 +1,1 @@
-var mnemonic = "coconut plunge cover blood hockey affair frost review story beyond potato lazy";
+var mnemonic = "firm cup angle select wage ecology tip split idea hawk orient smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "enact exact chest monitor stool empower master charge echo next whale slogan";
+var mnemonic = "flag fresh together chase system sting rose major motion start require ancient";

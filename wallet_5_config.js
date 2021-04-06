@@ -1,1 +1,1 @@
-var mnemonic = "muffin ticket rally slogan finish claim regular match buzz used remember entire";
+var mnemonic = "neck crunch vague crisp gather extra type general dragon neglect turn field";

@@ -1,1 +1,1 @@
-var mnemonic = "mango kingdom limit lion roast lunar mammal clutch marriage extend better fiber";
+var mnemonic = "foster combine wrap aerobic solution fossil mesh scene execute eager mom permit";

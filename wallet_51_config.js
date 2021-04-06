@@ -1,1 +1,1 @@
-var mnemonic = "gain afraid surround ostrich donor roof doctor choice vocal cruel grape child";
+var mnemonic = "torch foot endorse oblige happy detail curtain artist margin board food dinner";

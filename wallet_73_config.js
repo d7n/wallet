@@ -1,1 +1,1 @@
-var mnemonic = "pulp together behave bike athlete tray away lens sea ritual sock link";
+var mnemonic = "side broom letter mixed kingdom gap success term three sad craft vanish";

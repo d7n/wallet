@@ -1,1 +1,1 @@
-var mnemonic = "receive release spider logic tomorrow office head evidence deposit person couple dirt";
+var mnemonic = "barely raw crawl universe stick wheat vault helmet trip mix festival draw";

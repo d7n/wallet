@@ -1,1 +1,1 @@
-var mnemonic = "banner garbage worry polar rent fun grain royal grocery ready magnet win";
+var mnemonic = "prison unknown vehicle hungry trophy bench sun soccer weather afraid wish whisper";
