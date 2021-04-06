@@ -1,1 +1,1 @@
-var mnemonic = "congress title memory else pilot arctic veteran pelican sadness input heart toilet";
+var mnemonic = "wrestle anchor outdoor permit plug cave soccer glance meadow lemon common mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "coin dwarf major maximum opera purity brave fatal illegal number dress corn";
+var mnemonic = "once day maple upon spring festival injury dirt capital size absent reopen";

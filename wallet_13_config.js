@@ -1,1 +1,1 @@
-var mnemonic = "acid quick prison crater code expect genre lecture romance awkward misery link";
+var mnemonic = "practice across easy pizza office program sound essence utility script key guide";

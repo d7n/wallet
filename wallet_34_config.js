@@ -1,1 +1,1 @@
-var mnemonic = "depart cannon picnic cause connect bar anchor drop snack lazy hybrid tape";
+var mnemonic = "uncle disagree dial build addict zone report expect lawsuit comic flip unusual";

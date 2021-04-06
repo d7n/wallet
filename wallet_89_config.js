@@ -1,1 +1,1 @@
-var mnemonic = "kid vapor valid pill call swallow boost engine know inmate approve release";
+var mnemonic = "occur transfer fringe when upon ankle tail address mail unit brown trend";

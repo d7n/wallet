@@ -1,1 +1,1 @@
-var mnemonic = "around small oxygen because diary fancy glance asset envelope doctor venture pet";
+var mnemonic = "share please always hover vocal farm slab pepper lens cupboard paddle wave";

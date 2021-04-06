@@ -1,1 +1,1 @@
-var mnemonic = "soft wire twin inquiry tornado pact valid panel envelope auction dwarf caution";
+var mnemonic = "fantasy chimney follow moment forget fantasy rebel book museum live virus oxygen";

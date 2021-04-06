@@ -1,1 +1,1 @@
-var mnemonic = "again color inner moment flame require bus mind enter key escape pass";
+var mnemonic = "isolate situate wedding switch lend giggle sword doctor asset surround people coil";

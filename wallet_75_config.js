@@ -1,1 +1,1 @@
-var mnemonic = "permit mutual canoe harbor tomorrow palace second swap mimic wife ecology picnic";
+var mnemonic = "rapid ahead bracket attitude twelve sword girl person vicious huge end spawn";

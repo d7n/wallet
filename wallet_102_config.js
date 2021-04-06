@@ -1,1 +1,1 @@
-var mnemonic = "tooth attract royal destroy envelope glow fence margin song distance short cram";
+var mnemonic = "garbage mother insect hotel away ship bounce cute scatter produce sister chair";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond fire spin robot critic deer stadium steak exhibit split also vault";
+var mnemonic = "spot rural daring sell truck connect injury benefit grant vault jump between";

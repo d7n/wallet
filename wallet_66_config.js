@@ -1,1 +1,1 @@
-var mnemonic = "analyst silk hello marriage talent park thunder hammer there flock hidden digital";
+var mnemonic = "ocean wheel swear torch bird immune stem winter emerge field loyal curve";

@@ -1,1 +1,1 @@
-var mnemonic = "trust human reduce know test base casino amused canyon digital boil add";
+var mnemonic = "razor result brother siege staff term ranch lake fury bind true people";

@@ -1,1 +1,1 @@
-var mnemonic = "average error wet bonus fantasy liberty spike image pigeon noble great lady";
+var mnemonic = "civil inspire satoshi predict rally depend confirm initial spider inject coyote local";

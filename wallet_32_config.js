@@ -1,1 +1,1 @@
-var mnemonic = "tumble main you ready throw chaos they pizza virtual cup layer gather";
+var mnemonic = "warrior combine wave tower cabin comic solution attract use turkey where kit";

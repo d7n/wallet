@@ -1,1 +1,1 @@
-var mnemonic = "warfare jungle ostrich autumn hood inner remain lock switch alley resist rapid";
+var mnemonic = "deputy truth combine debate antenna reflect million solve license coin youth camp";

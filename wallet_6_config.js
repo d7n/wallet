@@ -1,1 +1,1 @@
-var mnemonic = "goose host jaguar harvest segment turn wink chair valid tomato timber hair";
+var mnemonic = "cigar abandon era audit assume quick weekend behave aerobic hospital board cannon";

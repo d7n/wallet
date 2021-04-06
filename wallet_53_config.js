@@ -1,1 +1,1 @@
-var mnemonic = "ski history where puppy humor maximum live bomb moon prize lunch train";
+var mnemonic = "minimum goddess explain coast tide frequent village lazy genius already response hair";

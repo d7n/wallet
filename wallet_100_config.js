@@ -1,1 +1,1 @@
-var mnemonic = "peanut rely mushroom rubber abstract fatigue burger garment wide annual muscle arrest";
+var mnemonic = "oppose birth gravity day reduce smart craft destroy physical clever assume deliver";

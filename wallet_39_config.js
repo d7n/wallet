@@ -1,1 +1,1 @@
-var mnemonic = "seek festival purse jelly jewel shell captain seed humor wing cannon manage";
+var mnemonic = "cheese people south mechanic wall ordinary argue poverty diary truck another guess";

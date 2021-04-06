@@ -1,1 +1,1 @@
-var mnemonic = "toss fiber friend analyst express menu three pistol tired album pony own";
+var mnemonic = "tissue pupil diagram bunker couple tennis stairs hammer biology orient balcony subject";

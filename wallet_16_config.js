@@ -1,1 +1,1 @@
-var mnemonic = "edit laptop cake spider nation enjoy pyramid sort marble mirror where myth";
+var mnemonic = "height true snap cement patient claim burden just dust police lab cat";

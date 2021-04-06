@@ -1,1 +1,1 @@
-var mnemonic = "rookie journey strategy dust sibling safe old cat during disorder search jump";
+var mnemonic = "peasant ice kangaroo various liberty goddess excuse project maid myself combine job";

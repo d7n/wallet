@@ -1,1 +1,1 @@
-var mnemonic = "play approve liquid limit input author bacon pole pulse parade expect wrap";
+var mnemonic = "tortoise rookie wire cupboard photo drill arctic rebuild apart target dilemma torch";

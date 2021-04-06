@@ -1,1 +1,1 @@
-var mnemonic = "forest above system media aisle cupboard water grief profit tool over cabbage";
+var mnemonic = "huge minor visual alpha chaos rich warm pretty pupil sketch exact cream";

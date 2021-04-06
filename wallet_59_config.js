@@ -1,1 +1,1 @@
-var mnemonic = "fringe okay exchange laugh satisfy wear point cherry heavy eight tilt amount";
+var mnemonic = "shed search poet since answer detail spell wood eternal park town trial";

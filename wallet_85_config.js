@@ -1,1 +1,1 @@
-var mnemonic = "valid exercise open promote december snap drink accuse august stairs merit apology";
+var mnemonic = "hover advance fantasy flip immense sample open decrease tide piano smoke small";

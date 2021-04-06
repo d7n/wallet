@@ -1,1 +1,1 @@
-var mnemonic = "jeans poverty soda poet illness key dove table idea morning few vital";
+var mnemonic = "very pave father program now flip budget goddess pull sight wrap firm";

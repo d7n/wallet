@@ -1,1 +1,1 @@
-var mnemonic = "razor clever auto suffer poet element small thing glow goat illness canvas";
+var mnemonic = "random spice venture goddess outside romance problem orange hurry attend wild police";

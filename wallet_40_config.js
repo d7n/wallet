@@ -1,1 +1,1 @@
-var mnemonic = "attract danger tobacco certain giant glare metal often split oyster shop noble";
+var mnemonic = "mystery click debris waste clip chuckle tide smooth awkward foot debate quote";

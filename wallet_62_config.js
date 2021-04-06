@@ -1,1 +1,1 @@
-var mnemonic = "skin mask cradle arrest shop shop fossil alter stove shove trumpet nut";
+var mnemonic = "sorry sauce ghost reflect bless eternal crunch bid believe script violin zebra";

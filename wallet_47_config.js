@@ -1,1 +1,1 @@
-var mnemonic = "unknown deliver stairs gesture tuition agree sell draw lawsuit august diesel fiscal";
+var mnemonic = "liberty switch recall course toast area corn fruit diamond theory gain cereal";

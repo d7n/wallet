@@ -1,1 +1,1 @@
-var mnemonic = "believe type wage invest wash train brother bacon move cream wrestle flat";
+var mnemonic = "hour clock grace apart priority any faith speak sweet human vapor key";

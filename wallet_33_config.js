@@ -1,1 +1,1 @@
-var mnemonic = "inform vital type faith spider guitar ensure alcohol business salon repeat enjoy";
+var mnemonic = "filter shove art memory cave awful artwork knock autumn license learn average";

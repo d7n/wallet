@@ -1,1 +1,1 @@
-var mnemonic = "envelope laugh benefit path slight repeat labor federal swim seminar flower monster";
+var mnemonic = "curious unlock stairs priority item worry choice pair ski draw brain hollow";

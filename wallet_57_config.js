@@ -1,1 +1,1 @@
-var mnemonic = "liberty shrimp hazard unique gift mutual tragic want afraid dynamic body custom";
+var mnemonic = "traffic loop symptom runway wine feel edit misery curious often raise awesome";

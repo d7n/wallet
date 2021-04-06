@@ -1,1 +1,1 @@
-var mnemonic = "parrot van nation erase fluid cave cage depth wink carpet special taxi";
+var mnemonic = "flush wagon picture quote oval envelope pottery goose scorpion scatter repair step";

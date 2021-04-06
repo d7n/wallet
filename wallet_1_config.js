@@ -1,1 +1,1 @@
-var mnemonic = "civil ridge renew soda once depart blood knock educate bean scorpion behave";
+var mnemonic = "brief foam couple two sheriff click airport amused grain remember pen animal";

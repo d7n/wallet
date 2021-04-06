@@ -1,1 +1,1 @@
-var mnemonic = "pioneer bulb arrest above calm sister purse enable flock inquiry pulse edge";
+var mnemonic = "fault famous art unfold canal frost regular toilet easily two neutral say";

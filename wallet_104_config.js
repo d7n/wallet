@@ -1,1 +1,1 @@
-var mnemonic = "december sniff soon shoot today guess opinion lesson harsh bridge flight brush";
+var mnemonic = "this leg lawn expose square anxiety crew armed network behind loop waste";

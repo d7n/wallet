@@ -1,1 +1,1 @@
-var mnemonic = "network lamp move amazing ask arena sting park grass decline region initial";
+var mnemonic = "cool salute shiver aspect palm night nasty debris develop believe wave sun";

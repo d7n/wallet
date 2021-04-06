@@ -1,1 +1,1 @@
-var mnemonic = "funny ill what child student shaft laundry virus finish wood cheese hundred";
+var mnemonic = "tenant taxi merit load laptop naive ice slice insane praise copy reduce";

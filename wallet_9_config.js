@@ -1,1 +1,1 @@
-var mnemonic = "only spider bonus sorry argue transfer junk gaze stone father air hospital";
+var mnemonic = "snap duck rent left domain husband zero budget choose drop nut depart";

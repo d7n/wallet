@@ -1,1 +1,1 @@
-var mnemonic = "impact champion romance one wife vehicle pattern apart please local topple unaware";
+var mnemonic = "broccoli fluid glare endorse smart anchor draft owner spread dawn lens decide";

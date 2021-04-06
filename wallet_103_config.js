@@ -1,1 +1,1 @@
-var mnemonic = "almost poem gap truck fence enhance this dinosaur dumb base reform shrug";
+var mnemonic = "peace citizen spawn race poem coin govern feed appear right stable recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel pass slow blouse hold achieve vessel curve become stumble mimic noble";
+var mnemonic = "survey glove coral sense jacket destroy rice current bachelor tag wife erase";

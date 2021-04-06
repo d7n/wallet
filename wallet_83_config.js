@@ -1,1 +1,1 @@
-var mnemonic = "clutch slab fame position knife rather slide sea column canvas option utility";
+var mnemonic = "foam pride tape remain borrow add nose rent taxi produce room hood";

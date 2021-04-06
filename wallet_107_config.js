@@ -1,1 +1,1 @@
-var mnemonic = "very retreat employ huge antique calm offer develop miracle since biology cross";
+var mnemonic = "range unusual moment follow marine stuff decide radio shuffle bargain improve same";

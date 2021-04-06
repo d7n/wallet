@@ -1,1 +1,1 @@
-var mnemonic = "jump basic winter scatter north vendor merge canoe raise lyrics humor table";
+var mnemonic = "oxygen antenna cushion adjust section desert safe fork blanket vendor quick neglect";

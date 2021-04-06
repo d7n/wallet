@@ -1,1 +1,1 @@
-var mnemonic = "two toe turn chimney engine wreck genre enrich inner flag coil idle";
+var mnemonic = "trigger term board noodle old thank jungle enemy first tired host comic";

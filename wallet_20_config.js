@@ -1,1 +1,1 @@
-var mnemonic = "second broom violin render prison tuna write trick situate box position van";
+var mnemonic = "page differ theory feature gold school unlock oil chief issue creek manage";

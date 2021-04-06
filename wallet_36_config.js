@@ -1,1 +1,1 @@
-var mnemonic = "like slab gravity lounge energy measure height camp spoil peace shove hamster";
+var mnemonic = "trigger speed gather ensure lake little essay shift wild border topple start";

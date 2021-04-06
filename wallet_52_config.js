@@ -1,1 +1,1 @@
-var mnemonic = "giant click choose crowd limit weather salute right bleak cook nominee crystal";
+var mnemonic = "summer remind solid unfair travel deputy step congress rent review educate essay";

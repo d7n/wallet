@@ -1,1 +1,1 @@
-var mnemonic = "rule soft fee popular foam shove ugly coil zero flee aerobic pill";
+var mnemonic = "cargo actor woman dizzy dolphin across supreme hill inhale spend parrot divert";

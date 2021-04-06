@@ -1,1 +1,1 @@
-var mnemonic = "kiss duty general worry crumble quit crane marble manage volcano depth skill";
+var mnemonic = "scissors enough bid dutch dish tank syrup dizzy approve always vital spray";

@@ -1,1 +1,1 @@
-var mnemonic = "act gas index flame only grunt calm where sunset deposit receive index";
+var mnemonic = "suit state rapid similar payment muffin mimic acid weekend under bubble illness";

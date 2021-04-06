@@ -1,1 +1,1 @@
-var mnemonic = "erase brick giant oak prison basic foot kit frown decide wolf post";
+var mnemonic = "chat legal prepare donate stand hawk keen chef predict erode ready anchor";

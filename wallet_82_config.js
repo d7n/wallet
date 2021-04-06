@@ -1,1 +1,1 @@
-var mnemonic = "endless pride puppy among sunny swift glow gather sword mystery soccer detail";
+var mnemonic = "oxygen wisdom answer undo tube bounce arena cactus alley state seven prepare";

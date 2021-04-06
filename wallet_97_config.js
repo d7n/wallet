@@ -1,1 +1,1 @@
-var mnemonic = "strong hybrid mandate input raise reunion cigar quote crunch pulse nephew ship";
+var mnemonic = "blue modify profit envelope mandate damp raise brass call critic payment tennis";

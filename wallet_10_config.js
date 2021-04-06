@@ -1,1 +1,1 @@
-var mnemonic = "pluck provide debris cruel potato urban hunt canvas upset first rare bread";
+var mnemonic = "cherry cousin grape turn math average upper grape transfer cabin holiday ring";

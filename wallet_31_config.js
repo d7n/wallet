@@ -1,1 +1,1 @@
-var mnemonic = "vacuum still have right moon injury elder much bargain scan cup avoid";
+var mnemonic = "debate tribe prefer couch breeze can spoon oval eternal reform taxi hammer";

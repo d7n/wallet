@@ -1,1 +1,1 @@
-var mnemonic = "sword satoshi rotate own scheme game divide olive wait make trumpet sure";
+var mnemonic = "size phrase gauge course gift grab cousin swim flavor usage problem inflict";

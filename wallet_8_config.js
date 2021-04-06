@@ -1,1 +1,1 @@
-var mnemonic = "story bacon farm manage melt enjoy base gate small emotion ramp eight";
+var mnemonic = "behave agree author crumble wet ensure crime notable loan indicate receive borrow";

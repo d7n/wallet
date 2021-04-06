@@ -1,1 +1,1 @@
-var mnemonic = "web dove huge fruit utility inside tiny tackle party present describe patient";
+var mnemonic = "pause barrel uncle arrange airport waste pluck arrive option betray memory inform";

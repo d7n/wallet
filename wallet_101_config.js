@@ -1,1 +1,1 @@
-var mnemonic = "dragon mean exile exchange foster stairs drill invite curve infant assault depart";
+var mnemonic = "jazz drop hero giraffe confirm pencil angle busy quit start describe perfect";

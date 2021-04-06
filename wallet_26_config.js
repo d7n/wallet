@@ -1,1 +1,1 @@
-var mnemonic = "bird excuse invite tuition scene best prevent exercise business scan shell degree";
+var mnemonic = "tank breeze symptom empower total script pistol abstract flash window gospel right";

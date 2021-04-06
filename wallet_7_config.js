@@ -1,1 +1,1 @@
-var mnemonic = "cruel truth cluster detail sound sketch review cool disorder foot kite morning";
+var mnemonic = "foster flag employ stadium wood cupboard deliver spare finger tenant swarm brain";

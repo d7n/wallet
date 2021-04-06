@@ -1,1 +1,1 @@
-var mnemonic = "report inch install vibrant much spy knife canoe horse party subject doll";
+var mnemonic = "have cushion soldier twist order town simple rigid jacket rescue attract truth";

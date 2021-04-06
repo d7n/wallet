@@ -1,1 +1,1 @@
-var mnemonic = "client regular repair under bone tonight pottery offer hello damp shell salmon";
+var mnemonic = "onion mushroom lawsuit deny toast shed alien kick brown opinion around order";

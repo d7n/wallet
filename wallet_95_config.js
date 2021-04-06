@@ -1,1 +1,1 @@
-var mnemonic = "other scorpion olympic rate soup tomorrow acquire floor essay hold mutual future";
+var mnemonic = "drive hotel army scrap vote pond cute extend engage comic input math";

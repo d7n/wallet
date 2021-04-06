@@ -1,1 +1,1 @@
-var mnemonic = "dance accident pig scout catalog odor panther mango metal motion cook lift";
+var mnemonic = "problem shell couch potato silk pottery detect cover unhappy crunch crouch spirit";

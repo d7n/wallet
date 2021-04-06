@@ -1,1 +1,1 @@
-var mnemonic = "stand chef sister oak output buyer utility estate doctor velvet ride rough";
+var mnemonic = "found reveal flock race useful breeze they say around rib reopen glance";

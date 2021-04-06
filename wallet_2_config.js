@@ -1,1 +1,1 @@
-var mnemonic = "accuse cheap cake kick crucial region corn pony desert file double hero";
+var mnemonic = "wrong peace forget trick engage common coyote artist siren write game danger";

@@ -1,1 +1,1 @@
-var mnemonic = "plate artist rubber race trip shallow axis inch session void party west";
+var mnemonic = "trumpet sure joy bread lounge section zoo empty beyond olympic sketch panther";

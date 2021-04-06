@@ -1,1 +1,1 @@
-var mnemonic = "address setup frozen evil meadow until just call slice frog daring strong";
+var mnemonic = "friend index proof city sugar undo garment calm pottery hazard sad eagle";

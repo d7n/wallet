@@ -1,1 +1,1 @@
-var mnemonic = "crystal gap measure arctic setup uniform uncover claim glue embody excess tower";
+var mnemonic = "extend vintage cushion flower napkin wise vessel height lawn atom panda undo";

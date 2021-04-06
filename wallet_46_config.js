@@ -1,1 +1,1 @@
-var mnemonic = "sure enact wash scare rescue account cluster sniff tip push limb slab";
+var mnemonic = "spy rain swear hover book minimum math hotel lens recall coil tell";

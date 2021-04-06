@@ -1,1 +1,1 @@
-var mnemonic = "iron retreat trade quantum thunder price carpet nice pole village alter essence";
+var mnemonic = "chest outdoor cat step other stadium clap audit peasant course place quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "please renew link crowd canoe height logic west blush pioneer trigger umbrella";
+var mnemonic = "wet high ridge flag like verify major sudden snack sample cage veteran";

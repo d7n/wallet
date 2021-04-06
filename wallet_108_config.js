@@ -1,1 +1,1 @@
-var mnemonic = "gain damp soccer thing cinnamon reveal reveal impose jazz appear voice hope";
+var mnemonic = "level course cake slim comic soul flee symbol record tube mystery husband";

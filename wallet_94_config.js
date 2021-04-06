@@ -1,1 +1,1 @@
-var mnemonic = "alien slam blouse swing snack oxygen piece blossom mother often damage taste";
+var mnemonic = "casino purity ask animal wedding turkey sea post twenty person sign diamond";

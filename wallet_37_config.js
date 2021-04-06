@@ -1,1 +1,1 @@
-var mnemonic = "dragon absorb pipe explain move matter empower damp diary also cross exhibit";
+var mnemonic = "evil program history one police kiwi sun pull unfold credit clap ladder";

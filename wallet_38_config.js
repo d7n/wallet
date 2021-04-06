@@ -1,1 +1,1 @@
-var mnemonic = "junior zone response scissors suit arm clutch sing gift crop wait fatigue";
+var mnemonic = "mirror absurd town peanut hazard despair loyal require toast noodle adult divide";

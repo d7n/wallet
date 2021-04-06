@@ -1,1 +1,1 @@
-var mnemonic = "ignore carpet chief school skill maple mistake coral square cream thumb spirit";
+var mnemonic = "aerobic narrow another pilot because limit middle habit relax romance noble account";

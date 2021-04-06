@@ -1,1 +1,1 @@
-var mnemonic = "sadness nest pyramid board uphold brass response leaf seat spy actress twist";
+var mnemonic = "feature legend empower surface outside monitor layer nurse earth rough easily symbol";

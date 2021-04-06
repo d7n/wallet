@@ -1,1 +1,1 @@
-var mnemonic = "current nut remove dignity orange spell mule fat cheese symbol tag rubber";
+var mnemonic = "wide differ sunny senior artwork world elephant egg essence solar segment twenty";

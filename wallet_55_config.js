@@ -1,1 +1,1 @@
-var mnemonic = "since rough inform grace gift weapon another useless cattle unveil height absorb";
+var mnemonic = "caution great flee rare faint basket orient game wire census nurse person";

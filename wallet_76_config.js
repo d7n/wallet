@@ -1,1 +1,1 @@
-var mnemonic = "obvious youth minimum annual resource apology cupboard smoke between oak trap hill";
+var mnemonic = "hard ball sing whip dynamic bread kite cry wealth agree holiday other";

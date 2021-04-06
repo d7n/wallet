@@ -1,1 +1,1 @@
-var mnemonic = "property inquiry father keep dog carry screen cat subway damage flock fit";
+var mnemonic = "zero neither faculty wash disease health source refuse defy submit hold taste";

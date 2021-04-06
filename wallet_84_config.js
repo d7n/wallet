@@ -1,1 +1,1 @@
-var mnemonic = "flee holiday divide churn gauge category rapid clump old force disease garlic";
+var mnemonic = "fire pretty bottom tortoise section undo choose make load away junk pony";

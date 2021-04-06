@@ -1,1 +1,1 @@
-var mnemonic = "bunker drive chimney music leader squeeze lend miss crop better amazing raw";
+var mnemonic = "quality chef gain flavor island love neglect demand share hundred chase weird";

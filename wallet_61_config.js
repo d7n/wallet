@@ -1,1 +1,1 @@
-var mnemonic = "figure avoid tank eagle diary vendor stable desk hand candy level describe";
+var mnemonic = "home twelve verify awesome mule crawl resource surprise equal wing stock sport";

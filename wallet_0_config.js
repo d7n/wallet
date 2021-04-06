@@ -1,1 +1,1 @@
-var mnemonic = "arrive fresh sketch dove flush banner rug item pole oil barrel miss";
+var mnemonic = "text rebuild frame sponsor laundry shadow rescue pig trim clap young advance";

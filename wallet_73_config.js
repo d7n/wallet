@@ -1,1 +1,1 @@
-var mnemonic = "quarter ball access silent comic gun draw bubble film cargo glare lunar";
+var mnemonic = "obtain coil holiday mule stuff powder obvious cargo cheap middle dune gift";

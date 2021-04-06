@@ -1,1 +1,1 @@
-var mnemonic = "barely leave capable nerve alien fork believe chimney thrive confirm absorb broken";
+var mnemonic = "angle glove hover describe prefer warm inside master discover rescue pole horse";

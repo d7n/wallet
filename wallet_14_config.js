@@ -1,1 +1,1 @@
-var mnemonic = "dress lock apology near hair token define jealous fuel robot harsh knee";
+var mnemonic = "mad deputy devote toward eight olive virtual city rubber whale orbit crater";

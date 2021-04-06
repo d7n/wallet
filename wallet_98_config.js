@@ -1,1 +1,1 @@
-var mnemonic = "quick claw goddess surround thumb maximum animal evidence media midnight usual crack";
+var mnemonic = "gate myself win jaguar offer tattoo first wool bread welcome tube own";

@@ -1,1 +1,1 @@
-var mnemonic = "square jewel access entire crane toss paddle claw found theory will sand";
+var mnemonic = "dirt giggle luggage rude swap random rain secret team melody purse garlic";
