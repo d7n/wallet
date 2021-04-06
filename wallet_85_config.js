@@ -1,1 +1,1 @@
-var mnemonic = "side silver thank bunker grit measure scare business spawn book budget pigeon";
+var mnemonic = "insect invest already nest glimpse lift tobacco since spoil tag soldier rent";

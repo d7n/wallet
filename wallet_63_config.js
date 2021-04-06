@@ -1,1 +1,1 @@
-var mnemonic = "episode feed cage dash cool legal rule recall fit resemble traffic open";
+var mnemonic = "pipe car toe soon hub cruel cloth room clarify ostrich job toss";

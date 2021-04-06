@@ -1,1 +1,1 @@
-var mnemonic = "power indoor blur elbow float picture twelve couch hollow faith glove bridge";
+var mnemonic = "evidence oyster high flag sick acoustic mutual time slab before recipe antenna";

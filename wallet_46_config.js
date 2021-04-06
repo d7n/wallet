@@ -1,1 +1,1 @@
-var mnemonic = "oyster guide hybrid turn balcony million another social below student head raccoon";
+var mnemonic = "model pledge path desert suffer trip beyond parrot innocent alarm together critic";

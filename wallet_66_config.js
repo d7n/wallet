@@ -1,1 +1,1 @@
-var mnemonic = "perfect winter clinic usual autumn shoulder sister gasp chronic clog all survey";
+var mnemonic = "kingdom impose surprise squirrel crisp home body bleak similar fence custom shuffle";

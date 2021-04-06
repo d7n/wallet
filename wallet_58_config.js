@@ -1,1 +1,1 @@
-var mnemonic = "affair cloud federal board flag spin mad width joke process blanket govern";
+var mnemonic = "effort alcohol raw issue minor camp brick else brass super erupt label";

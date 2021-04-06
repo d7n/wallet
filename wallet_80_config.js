@@ -1,1 +1,1 @@
-var mnemonic = "security mutual celery term walnut door unfair chuckle switch rare such weasel";
+var mnemonic = "copper faith avoid involve sentence version flame car despair spoil quality outside";

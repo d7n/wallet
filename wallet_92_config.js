@@ -1,1 +1,1 @@
-var mnemonic = "wink circle above token trade shrimp senior leader session hotel acquire thumb";
+var mnemonic = "bamboo expand drum deposit spin dry library kit track arrive onion boat";

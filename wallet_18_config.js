@@ -1,1 +1,1 @@
-var mnemonic = "parrot else region whisper enable battle enable palm purchase winner foam venture";
+var mnemonic = "suspect lemon recipe clinic ecology nothing lobster section witness ice island bullet";

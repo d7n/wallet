@@ -1,1 +1,1 @@
-var mnemonic = "orbit market limb text rude roast glory novel cliff involve clump method";
+var mnemonic = "matrix feed canyon humble gather legal citizen motor rent okay vintage gas";

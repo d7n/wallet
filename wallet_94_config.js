@@ -1,1 +1,1 @@
-var mnemonic = "various poet health now person tired cash time select impact bargain comic";
+var mnemonic = "buyer grit invite blur horn before oyster meat couple doll ethics federal";

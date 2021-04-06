@@ -1,1 +1,1 @@
-var mnemonic = "naive crucial bunker pave know twin park valve door toward wood garden";
+var mnemonic = "since neglect veteran express flip tornado address subway distance surround skin ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "stay office call admit plastic eagle buyer narrow cycle arrive short old";
+var mnemonic = "live lunch label girl blush owner select noise confirm car grab anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "cram city trend cruise tuna learn live payment gift syrup tonight gaze";
+var mnemonic = "divorce critic robust canoe silk sadness school elegant smooth title crane spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "farm urban cloth cousin garden stamp icon salmon quit stool wet carpet";
+var mnemonic = "shell arrange close day you often cattle child tone afraid inhale cube";

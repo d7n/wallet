@@ -1,1 +1,1 @@
-var mnemonic = "parent entire lyrics glory print tonight sock model cycle grain patch negative";
+var mnemonic = "grief legend broccoli tumble chronic mom type material seat decline box edge";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog second ring crisp hair smile birth tragic furnace aspect helmet answer";
+var mnemonic = "rent syrup rely undo orient foster cloth gadget accident earn movie oak";

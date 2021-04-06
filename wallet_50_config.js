@@ -1,1 +1,1 @@
-var mnemonic = "hire victory deposit clap exit fossil hurdle purity business margin ugly picnic";
+var mnemonic = "earn very reduce purity fire fork panic symbol tool skate fold wage";

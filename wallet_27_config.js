@@ -1,1 +1,1 @@
-var mnemonic = "shrimp juice route equal cabbage unveil spy dawn stamp fresh excite common";
+var mnemonic = "network morning unknown erode gravity amateur junior father minimum bitter industry loyal";

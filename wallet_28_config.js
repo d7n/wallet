@@ -1,1 +1,1 @@
-var mnemonic = "town office reject swing crater domain food cruise lion imitate thing style";
+var mnemonic = "arch review call proof girl lend recipe noodle later output sea debate";

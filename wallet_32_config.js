@@ -1,1 +1,1 @@
-var mnemonic = "camp clinic target today nothing comfort chapter weasel disorder caught useless crucial";
+var mnemonic = "mass width attend average train render arctic collect modify increase drastic dizzy";

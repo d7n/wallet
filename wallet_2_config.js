@@ -1,1 +1,1 @@
-var mnemonic = "mother vendor village engage sunset boy jacket extend popular cute arm milk";
+var mnemonic = "minor minute cup clown mix illegal task whale assault bone deposit dignity";

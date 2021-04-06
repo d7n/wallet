@@ -1,1 +1,1 @@
-var mnemonic = "crew silver science opera cloud crush soccer thank world drop lottery hour";
+var mnemonic = "idea steel project depart merry solution general puzzle cupboard pistol coin arena";

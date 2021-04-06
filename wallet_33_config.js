@@ -1,1 +1,1 @@
-var mnemonic = "brand bleak summer bar build chimney invest dinosaur knife leaf keep shallow";
+var mnemonic = "extra entire margin split harbor become pole egg kiwi flag task select";

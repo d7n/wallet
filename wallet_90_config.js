@@ -1,1 +1,1 @@
-var mnemonic = "endless purity arm fever punch learn blur surface angry fiscal brave nephew";
+var mnemonic = "august moral diesel truck profit year caught calm artwork lens sibling embrace";

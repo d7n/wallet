@@ -1,1 +1,1 @@
-var mnemonic = "bicycle theory live print chat topple clean remain achieve sentence endless kingdom";
+var mnemonic = "news innocent panda delay machine horse assault web hedgehog chef false zone";

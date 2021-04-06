@@ -1,1 +1,1 @@
-var mnemonic = "scale spike float awkward please goose into gain candy famous supreme flight";
+var mnemonic = "reveal account correct hole buzz describe spoon earth key trade innocent side";

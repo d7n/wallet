@@ -1,1 +1,1 @@
-var mnemonic = "virus mansion recipe enjoy insect seat course toilet worth chronic dizzy model";
+var mnemonic = "immune elevator juice prosper nest make girl ensure step solution canal flock";

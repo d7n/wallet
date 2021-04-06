@@ -1,1 +1,1 @@
-var mnemonic = "endless collect crowd long result achieve worth ordinary found wall region ocean";
+var mnemonic = "fruit wage dwarf mention fire drop harsh mutual hole prevent dog atom";

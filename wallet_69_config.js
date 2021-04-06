@@ -1,1 +1,1 @@
-var mnemonic = "armed surge never pause casual high depart quit one relax palace resist";
+var mnemonic = "endless maximum age gasp morning cruise cousin adjust super alarm match lucky";

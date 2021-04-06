@@ -1,1 +1,1 @@
-var mnemonic = "deal hunt plug ginger pet clump toe acoustic december maid lion tunnel";
+var mnemonic = "void dentist program task silver increase dune erode adult cycle transfer stage";

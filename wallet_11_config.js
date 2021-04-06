@@ -1,1 +1,1 @@
-var mnemonic = "venue dance secret that solution season pink pilot arctic honey obscure hazard";
+var mnemonic = "abandon enable defense shuffle celery antenna opinion chief imitate caught aware ketchup";

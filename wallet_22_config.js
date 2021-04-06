@@ -1,1 +1,1 @@
-var mnemonic = "bread elbow mass decrease surprise truth pill crisp front romance abuse devote";
+var mnemonic = "please bar one teach foster health silk glare fitness enlist shuffle skill";

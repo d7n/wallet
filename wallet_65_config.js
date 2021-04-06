@@ -1,1 +1,1 @@
-var mnemonic = "dutch shift own clutch fancy valve inside invest tornado until obtain that";
+var mnemonic = "fatal identify tiger business horse purpose issue section fox palace dance print";

@@ -1,1 +1,1 @@
-var mnemonic = "eager recall veteran potato venue flee write pave caught deputy punch black";
+var mnemonic = "occur win brass camp idea arrange fold fit this owner disorder atom";

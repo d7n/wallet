@@ -1,1 +1,1 @@
-var mnemonic = "mammal decide coil eight any require dog follow cloud outdoor clump vicious";
+var mnemonic = "submit enforce evoke erode tennis poverty group lottery stable peasant vessel general";

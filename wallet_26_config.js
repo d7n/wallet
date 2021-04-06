@@ -1,1 +1,1 @@
-var mnemonic = "memory lobster impact ankle search cancel middle always kingdom target trophy solution";
+var mnemonic = "bind worry health love broom culture oak voyage ring palm vintage wing";

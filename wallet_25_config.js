@@ -1,1 +1,1 @@
-var mnemonic = "assume pioneer raven leisure lounge state find twice monkey drastic mushroom act";
+var mnemonic = "chapter credit pole zoo hurdle quit stable voyage wagon immense laugh please";

@@ -1,1 +1,1 @@
-var mnemonic = "youth manage cement wasp theme fortune myself wear used marble foot regular";
+var mnemonic = "box artwork world chalk moon immense keep knee exact large idle mutual";

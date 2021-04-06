@@ -1,1 +1,1 @@
-var mnemonic = "hello run circle fancy traffic pretty autumn illegal own grit clutch waste";
+var mnemonic = "rally keen soldier dirt brown denial travel rib often before cat candy";

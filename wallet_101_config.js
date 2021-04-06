@@ -1,1 +1,1 @@
-var mnemonic = "ginger game detect gym swap employ tray pass throw knee silver arrow";
+var mnemonic = "actual grace sunset outer negative person possible east slot fiction island use";

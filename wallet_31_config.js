@@ -1,1 +1,1 @@
-var mnemonic = "annual glue hawk lucky guitar pumpkin pistol also chair habit session smile";
+var mnemonic = "debris fold child genuine bicycle expose language advance hundred empower evoke shaft";

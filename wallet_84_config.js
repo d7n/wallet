@@ -1,1 +1,1 @@
-var mnemonic = "primary stable debate unfair moon warrior lift audit hen piano scrap diagram";
+var mnemonic = "traffic uniform castle bleak guard bacon long always alone gate latin female";

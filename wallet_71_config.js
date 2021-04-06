@@ -1,1 +1,1 @@
-var mnemonic = "slush curious melody effort recycle strike frost world level force armed extra";
+var mnemonic = "occur neck live wage damp devote marriage artefact fluid what push fit";

@@ -1,1 +1,1 @@
-var mnemonic = "rent carpet meat above stove urban large assault robust dry rely move";
+var mnemonic = "fork thought robot pool hazard actor ripple much twin galaxy rose avocado";

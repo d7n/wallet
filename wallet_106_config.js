@@ -1,1 +1,1 @@
-var mnemonic = "plastic trumpet vote joke easy pizza dog demise negative turtle potato tiny";
+var mnemonic = "monster march spirit mass quote arch brand shaft shuffle mercy dial object";

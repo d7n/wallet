@@ -1,1 +1,1 @@
-var mnemonic = "arctic setup gasp unlock screen early romance spirit chalk okay goat tongue";
+var mnemonic = "leopard average life similar soccer cushion club glue man image chuckle coin";

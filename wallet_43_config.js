@@ -1,1 +1,1 @@
-var mnemonic = "puzzle cycle uphold blood ivory rebuild lens ensure immense similar thing science";
+var mnemonic = "wealth solid bargain high taste alcohol jungle tackle helmet sure attract coffee";

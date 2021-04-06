@@ -1,1 +1,1 @@
-var mnemonic = "priority violin reunion try social slim fiscal enemy boring expect tail toe";
+var mnemonic = "broken farm acid athlete gap egg choose judge inhale sadness clock hotel";

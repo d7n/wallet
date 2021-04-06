@@ -1,1 +1,1 @@
-var mnemonic = "toddler soccer frozen rabbit tunnel mouse actual ramp tide stage unlock wood";
+var mnemonic = "stamp yellow project lobster female opera bean stuff song silent carry boil";

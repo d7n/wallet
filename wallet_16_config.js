@@ -1,1 +1,1 @@
-var mnemonic = "limb half funny enable today movie basic pulse orphan under earn print";
+var mnemonic = "vintage segment rice radar run ready scrap crime mother amount need evoke";

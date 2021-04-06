@@ -1,1 +1,1 @@
-var mnemonic = "horn clever decide topple obey duty album sand metal cake stamp song";
+var mnemonic = "retreat vivid kind valve valley crew spawn spell traffic stone govern reason";

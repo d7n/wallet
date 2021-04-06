@@ -1,1 +1,1 @@
-var mnemonic = "hen story parrot public maid risk wet accuse enhance degree enemy service";
+var mnemonic = "business warfare rather squirrel detail sure hockey exotic exotic entry carry mind";

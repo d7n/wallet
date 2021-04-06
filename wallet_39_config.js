@@ -1,1 +1,1 @@
-var mnemonic = "exercise seed protect across frost street excess taste output winner razor west";
+var mnemonic = "armed little dizzy suffer vast reform stay clap confirm because direct inspire";

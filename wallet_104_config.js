@@ -1,1 +1,1 @@
-var mnemonic = "awake kite tomato roof ordinary gloom pilot conduct erode vicious fire toddler";
+var mnemonic = "now flight deliver amused exile sleep tunnel plunge visa exist tonight flash";

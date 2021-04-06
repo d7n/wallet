@@ -1,1 +1,1 @@
-var mnemonic = "salon define cinnamon render print liberty round civil rain street road enact";
+var mnemonic = "until relax tree else retire wise spring negative mountain often cool cattle";

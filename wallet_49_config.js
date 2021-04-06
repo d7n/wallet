@@ -1,1 +1,1 @@
-var mnemonic = "broom balcony wagon bracket little rack actor give stadium sweet sort art";
+var mnemonic = "patrol gallery region foil sample primary dragon page salute junk ancient render";

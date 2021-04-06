@@ -1,1 +1,1 @@
-var mnemonic = "student lunch ghost wing artist curious ensure vital devote opera tortoise blouse";
+var mnemonic = "ten country iron galaxy tonight left night say bacon cement alien gun";

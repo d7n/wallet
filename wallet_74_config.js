@@ -1,1 +1,1 @@
-var mnemonic = "spread box easily shoe relax image invest cliff bitter over universe recall";
+var mnemonic = "seat top bachelor inflict office rescue omit globe door abstract coil leave";

@@ -1,1 +1,1 @@
-var mnemonic = "expect song broccoli dream lonely ship tank favorite door floor blast miracle";
+var mnemonic = "cross crime palace pyramid kite theme delay control meadow hint edit sign";

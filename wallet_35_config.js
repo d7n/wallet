@@ -1,1 +1,1 @@
-var mnemonic = "income trade gospel photo crunch pitch ridge dust flat unfold clean shock";
+var mnemonic = "venue over sword say ski devote lock labor confirm lamp motion bless";

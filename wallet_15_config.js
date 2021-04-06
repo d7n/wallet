@@ -1,1 +1,1 @@
-var mnemonic = "leg balcony alien force worth palace critic merit wonder trim spawn wheat";
+var mnemonic = "fruit pencil benefit empty execute hover spring tip track jewel ritual typical";

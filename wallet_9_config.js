@@ -1,1 +1,1 @@
-var mnemonic = "easy ride hundred impact swallow often forget speed december hammer private coyote";
+var mnemonic = "impulse very enlist wear answer trip skate sample fresh cable alcohol right";

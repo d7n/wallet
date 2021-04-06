@@ -1,1 +1,1 @@
-var mnemonic = "inherit kite best mountain quick decide bar cruise bird very excess adjust";
+var mnemonic = "spray route noise bread silly spirit shaft resist length afraid priority illness";

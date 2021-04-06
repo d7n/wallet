@@ -1,1 +1,1 @@
-var mnemonic = "walk ribbon core narrow lazy daring jazz upper ten stamp loan steel";
+var mnemonic = "engage obtain speed snack vast genre churn dog year card rack chuckle";

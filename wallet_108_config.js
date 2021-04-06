@@ -1,1 +1,1 @@
-var mnemonic = "knee laundry secret decide flip loan piano panel river bomb dumb thing";
+var mnemonic = "spike fish foster paddle shed misery broken myth upon eager fan dice";

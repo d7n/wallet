@@ -1,1 +1,1 @@
-var mnemonic = "genius often dragon core truth crouch luxury feature quiz resource impact only";
+var mnemonic = "stem good swim collect you reward vivid panda build vendor repair text";

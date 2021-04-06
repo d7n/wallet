@@ -1,1 +1,1 @@
-var mnemonic = "viable length live cram art ordinary waste replace pelican please sea gospel";
+var mnemonic = "muscle useful treat tribe sphere material legal crane glue fame limb year";

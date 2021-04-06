@@ -1,1 +1,1 @@
-var mnemonic = "bleak purity gun recall elegant shuffle decorate prison banner muscle afraid owner";
+var mnemonic = "spoon vast usual menu luxury excess elegant blossom state arena brief acid";

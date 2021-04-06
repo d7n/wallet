@@ -1,1 +1,1 @@
-var mnemonic = "clip worth palace auction ivory right chimney galaxy rural alpha zero robust";
+var mnemonic = "erupt audit apart match exist alley mechanic stem oxygen clarify rough cargo";

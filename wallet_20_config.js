@@ -1,1 +1,1 @@
-var mnemonic = "enough fiber mimic oak shrug large amount fuel verb voice sound hope";
+var mnemonic = "dumb stairs chest casino journey dune paper invest empower whip funny polar";

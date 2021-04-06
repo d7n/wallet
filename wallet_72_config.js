@@ -1,1 +1,1 @@
-var mnemonic = "walnut floor tree hat approve power excite window add rain shoot enroll";
+var mnemonic = "siren stand artwork ill toy oyster good lock cook emotion lumber social";

@@ -1,1 +1,1 @@
-var mnemonic = "before entry satisfy joke hold green disorder business can document slogan admit";
+var mnemonic = "will angle beef hip moment genuine certain cost fortune mail brother true";

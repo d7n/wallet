@@ -1,1 +1,1 @@
-var mnemonic = "rapid analyst issue history divide repeat mango gather tourist dumb whisper alley";
+var mnemonic = "abstract tray diary rack unique pride fine never damage cluster during unveil";

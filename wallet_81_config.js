@@ -1,1 +1,1 @@
-var mnemonic = "bone menu gadget trend dragon rib song kangaroo fury seat west frame";
+var mnemonic = "heavy wide turkey project drip news scorpion cushion top manual apology kitten";

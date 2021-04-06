@@ -1,1 +1,1 @@
-var mnemonic = "kind delay rifle plunge pencil garbage tomorrow furnace emerge exchange tobacco suggest";
+var mnemonic = "provide sketch grunt uniform cereal endorse expose chronic mention bleak ring belt";

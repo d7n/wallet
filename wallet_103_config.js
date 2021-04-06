@@ -1,1 +1,1 @@
-var mnemonic = "sugar fancy buffalo crater umbrella illegal thing diet question harsh cruise verb";
+var mnemonic = "flag patient diamond okay toe true trial casino link man suit ride";

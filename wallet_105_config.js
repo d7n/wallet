@@ -1,1 +1,1 @@
-var mnemonic = "direct pause develop dismiss naive choice armor leaf chat muffin family ethics";
+var mnemonic = "shed recall kick refuse sustain token walk artist extra credit gadget fork";

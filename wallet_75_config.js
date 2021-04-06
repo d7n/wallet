@@ -1,1 +1,1 @@
-var mnemonic = "lazy pitch hazard scrap wasp box wasp nice mail ginger alpha rude";
+var mnemonic = "kidney head ball world search long select funny impose brass board runway";

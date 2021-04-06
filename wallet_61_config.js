@@ -1,1 +1,1 @@
-var mnemonic = "rifle now disorder exhibit step crisp error assault child dynamic bounce point";
+var mnemonic = "amazing rifle book fiber kingdom cigar tennis proud skill display tower cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "purity gravity depth bean still coil pen soda real flock board garage";
+var mnemonic = "lamp film title slice fire round runway alien waste enrich panther mammal";

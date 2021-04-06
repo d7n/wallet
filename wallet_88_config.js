@@ -1,1 +1,1 @@
-var mnemonic = "cover blue song company pave snap suggest same adapt kangaroo imitate melt";
+var mnemonic = "rail empty divorce picnic square ostrich mother crop maximum sure keep inspire";

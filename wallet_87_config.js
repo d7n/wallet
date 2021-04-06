@@ -1,1 +1,1 @@
-var mnemonic = "host holiday violin purse pipe inmate engage noble slim brand champion tourist";
+var mnemonic = "endorse demand system into feed orbit light spend text alarm harbor rally";

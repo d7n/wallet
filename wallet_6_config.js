@@ -1,1 +1,1 @@
-var mnemonic = "clever excuse phone ship learn pulse cinnamon response mistake gallery short also";
+var mnemonic = "defense dress blame service tobacco expand melody sign guard depart clay output";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent keen fat when dumb floor snow cigar soul bone dog faculty";
+var mnemonic = "scale limit rice learn acid senior question walk case crane journey curve";

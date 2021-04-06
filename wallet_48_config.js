@@ -1,1 +1,1 @@
-var mnemonic = "slam fancy split dentist pluck tip boss physical tennis tiger cruel horror";
+var mnemonic = "input embody furnace south buzz pizza law urban work path task fatal";

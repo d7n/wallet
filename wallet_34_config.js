@@ -1,1 +1,1 @@
-var mnemonic = "mango enrich company harsh hollow index vocal bronze divide fence program ski";
+var mnemonic = "mistake capital ceiling speed chimney hub prize father focus chair plastic oven";

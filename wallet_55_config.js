@@ -1,1 +1,1 @@
-var mnemonic = "arrest lazy unaware mouse yard mixture welcome purpose magnet soul silent avocado";
+var mnemonic = "obscure whale ignore cricket crime atom legal cargo rifle clean ginger purse";
