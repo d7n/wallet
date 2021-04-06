@@ -1,1 +1,1 @@
-var mnemonic = "shoulder primary dinner outside labor aware define lift because fuel soda meat";
+var mnemonic = "sting start hill summer online industry alcohol avoid timber acid picture quit";

@@ -1,1 +1,1 @@
-var mnemonic = "fire honey couch legal senior predict neither pizza oppose maximum random piano";
+var mnemonic = "rely rare drift force mandate divert skill chronic swamp shuffle utility whale";

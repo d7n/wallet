@@ -1,1 +1,1 @@
-var mnemonic = "inform rent extra sure shine decade tank answer scale flag remain agree";
+var mnemonic = "gospel evil cart provide congress rough paddle deposit daring slow fall tribe";

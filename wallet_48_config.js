@@ -1,1 +1,1 @@
-var mnemonic = "open march radio goat love shop write allow yellow all suffer weasel";
+var mnemonic = "defense awake simple frown buffalo sell expect word circle vibrant fine can";

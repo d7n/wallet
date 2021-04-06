@@ -1,1 +1,1 @@
-var mnemonic = "wait beyond craft pill elder curve behind engine chronic domain budget miracle";
+var mnemonic = "belt save valve cruel horse attend check used purity wire army burger";

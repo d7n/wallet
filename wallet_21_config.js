@@ -1,1 +1,1 @@
-var mnemonic = "chase movie castle convince diamond december offer paddle rug object drip arrest";
+var mnemonic = "asthma voyage usage desk mouse traffic strong control deputy example key skirt";

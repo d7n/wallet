@@ -1,1 +1,1 @@
-var mnemonic = "woman hawk then eternal shuffle layer arrange era garage demise shuffle run";
+var mnemonic = "husband vintage fix struggle mind air business machine grunt around planet ship";

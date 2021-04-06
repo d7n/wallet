@@ -1,1 +1,1 @@
-var mnemonic = "voice engine cradle zero law govern lecture shoot melt animal release adapt";
+var mnemonic = "calm little six bunker shell mammal helmet marriage banner high strong food";

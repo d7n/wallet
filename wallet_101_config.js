@@ -1,1 +1,1 @@
-var mnemonic = "bottom dice section tail example pulse omit toss kiwi engine find under";
+var mnemonic = "sorry coral abstract canvas jelly mean edit depend creek lion speak off";

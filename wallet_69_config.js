@@ -1,1 +1,1 @@
-var mnemonic = "aware air defense gentle clip upper plug work wine sister slush dwarf";
+var mnemonic = "clown piece reject check artwork foam senior pupil goose sun plastic decline";

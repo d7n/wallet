@@ -1,1 +1,1 @@
-var mnemonic = "problem ecology certain vacuum alcohol marriage film travel flash duty fan bright";
+var mnemonic = "north noble husband update accident memory banner input bottom pretty exit fog";

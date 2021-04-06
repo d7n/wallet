@@ -1,1 +1,1 @@
-var mnemonic = "degree actress angle shadow thing element advance resemble unhappy chapter win when";
+var mnemonic = "age usual fancy panda kick market travel guess pink renew parade salad";

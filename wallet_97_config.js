@@ -1,1 +1,1 @@
-var mnemonic = "base prize express suggest planet feed erosion pencil prepare evolve poverty giggle";
+var mnemonic = "cake garage harsh clarify immune blue edit cigar reduce ride game lift";

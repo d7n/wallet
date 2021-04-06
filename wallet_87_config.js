@@ -1,1 +1,1 @@
-var mnemonic = "emotion poverty faith talk border jealous stomach rotate truck husband great useless";
+var mnemonic = "junk draft horn swear library gauge foot random april food minute thrive";

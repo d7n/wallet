@@ -1,1 +1,1 @@
-var mnemonic = "virtual cloth bargain impose expire swim meat artwork mercy shadow safe fever";
+var mnemonic = "actress unhappy volcano photo good hospital require output cotton slot guilt license";

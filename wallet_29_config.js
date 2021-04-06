@@ -1,1 +1,1 @@
-var mnemonic = "size virtual ghost viable umbrella gospel giggle sign offer close toss reward";
+var mnemonic = "weird safe joke shoe catch recycle pilot narrow midnight erupt olive rent";

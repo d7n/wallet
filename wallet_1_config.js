@@ -1,1 +1,1 @@
-var mnemonic = "ladder pelican coach chief deal frame dove ankle game stamp adjust embody";
+var mnemonic = "ignore relief start gate best fish near brass blush affair grass version";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle cushion note chunk deposit little height robot vibrant item fly either";
+var mnemonic = "front swim allow weekend save cliff symptom parade lion cement gain glance";

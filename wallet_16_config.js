@@ -1,1 +1,1 @@
-var mnemonic = "rocket divorce regret butter canyon toss toe tray accident mosquito latin agree";
+var mnemonic = "mosquito gloom vital wheel monster van dismiss unveil vintage antenna twelve lens";

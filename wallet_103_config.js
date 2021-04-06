@@ -1,1 +1,1 @@
-var mnemonic = "affair damp admit method woman music cook judge flush teach cupboard argue";
+var mnemonic = "sample mail toy sample genius cigar diesel lift chuckle scatter girl survey";

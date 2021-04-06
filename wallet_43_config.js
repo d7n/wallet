@@ -1,1 +1,1 @@
-var mnemonic = "blind mandate fat plate grass shock twin list tower yard host project";
+var mnemonic = "polar skin floor number bike snake demand student figure right turtle snap";

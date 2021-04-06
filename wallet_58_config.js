@@ -1,1 +1,1 @@
-var mnemonic = "beauty embrace mango episode assist indicate hammer truth badge smooth prefer behind";
+var mnemonic = "make humble mother slot visual master medal club hood curve buyer alter";

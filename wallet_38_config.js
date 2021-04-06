@@ -1,1 +1,1 @@
-var mnemonic = "since easy earn gun police split army category trust crash grief actor";
+var mnemonic = "power slush wrap grid pond side liberty inquiry anxiety output program cart";

@@ -1,1 +1,1 @@
-var mnemonic = "other marriage scissors detect rather expect chapter demand theme suffer wire resource";
+var mnemonic = "inspire isolate fashion visa segment era fantasy usage sniff waste wash print";

@@ -1,1 +1,1 @@
-var mnemonic = "price sort photo clay decade room protect cost parade vendor catch surround";
+var mnemonic = "deposit wedding poverty symbol defense equip upset can twin wave suspect radar";

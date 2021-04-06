@@ -1,1 +1,1 @@
-var mnemonic = "style hard fault spring toy tape owner story guitar food tissue wait";
+var mnemonic = "ignore truth unit nut gallery assist annual dune version uncover achieve else";

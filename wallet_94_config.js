@@ -1,1 +1,1 @@
-var mnemonic = "play industry giant tribe evil quantum art suggest airport grace spoil twice";
+var mnemonic = "recipe large mother ask inherit laugh enhance twin clutch diary cigar essay";

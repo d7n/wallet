@@ -1,1 +1,1 @@
-var mnemonic = "swim please regular field bread resemble silent thumb east fruit magnet myth";
+var mnemonic = "furnace wonder portion cook rookie auction bright desk include project surround liberty";

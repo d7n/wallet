@@ -1,1 +1,1 @@
-var mnemonic = "good butter job garden gauge either rally destroy funny seed tool couch";
+var mnemonic = "drill entire twelve elbow just surround wine lobster light control curve miss";

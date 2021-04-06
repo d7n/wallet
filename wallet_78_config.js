@@ -1,1 +1,1 @@
-var mnemonic = "drill panther cash box fortune throw stadium exchange noble core crater loud";
+var mnemonic = "note hen replace sleep possible portion photo order swing survey drip matrix";

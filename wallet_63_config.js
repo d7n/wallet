@@ -1,1 +1,1 @@
-var mnemonic = "virus cradle nest draw pioneer token punch cave infant corn dignity enlist";
+var mnemonic = "fragile until predict movie thank siren toast flavor another fever good secret";

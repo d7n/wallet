@@ -1,1 +1,1 @@
-var mnemonic = "olympic cancel fly chunk friend direct stadium forum hundred initial nothing hint";
+var mnemonic = "onion plunge belt churn fruit corn ice defy alter abandon gallery cream";

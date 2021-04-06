@@ -1,1 +1,1 @@
-var mnemonic = "element mirror arena wire human knock isolate valve again soda lecture raise";
+var mnemonic = "jewel strategy initial anger kid video survey shallow verb cup usage myself";

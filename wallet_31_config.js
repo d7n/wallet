@@ -1,1 +1,1 @@
-var mnemonic = "lawn rather proud essay coin east convince husband crowd soccer hospital antenna";
+var mnemonic = "reform steak pluck border cup divide thrive fly swap attack recall oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "carbon hurry pole skill furnace grass nominee donkey slice machine proud fix";
+var mnemonic = "skirt mixture obey brave organ cattle hope convince twenty whip bag unknown";

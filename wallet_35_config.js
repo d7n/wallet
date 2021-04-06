@@ -1,1 +1,1 @@
-var mnemonic = "address stock about avoid clarify soldier swamp burger caught install maple citizen";
+var mnemonic = "sudden orchard smile saddle horror sing unveil endless true stadium bean stove";

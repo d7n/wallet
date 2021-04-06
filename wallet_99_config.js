@@ -1,1 +1,1 @@
-var mnemonic = "throw soap live lonely nature metal pony milk idea shallow bind portion";
+var mnemonic = "fancy cash badge duck sugar ecology rebuild emerge sport maple media gown";

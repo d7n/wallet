@@ -1,1 +1,1 @@
-var mnemonic = "insect spend company portion hollow crowd sadness month excuse robust develop movie";
+var mnemonic = "gas sign move spice badge tragic solution concert shoe explain glad welcome";

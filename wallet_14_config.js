@@ -1,1 +1,1 @@
-var mnemonic = "exact catalog detect jazz direct engage baby ginger alert powder twin citizen";
+var mnemonic = "repeat two head teach have chef plastic employ breeze push route machine";

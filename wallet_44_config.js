@@ -1,1 +1,1 @@
-var mnemonic = "drama flat local answer hint matter first benefit basket water cute unveil";
+var mnemonic = "glance royal candy oppose bar december bridge globe barely gold old media";

@@ -1,1 +1,1 @@
-var mnemonic = "elder glow poet little lamp kiwi heart night artefact pilot gauge kangaroo";
+var mnemonic = "final trouble argue warfare oxygen sweet consider craft fine keep rural method";

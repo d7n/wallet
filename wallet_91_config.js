@@ -1,1 +1,1 @@
-var mnemonic = "crush yard cabbage cousin learn abandon neglect rotate force stem reason concert";
+var mnemonic = "medal cave ticket series output doll cook dumb distance fold double sell";

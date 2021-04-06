@@ -1,1 +1,1 @@
-var mnemonic = "position recall dismiss already road casual mountain blossom rifle decrease trophy accident";
+var mnemonic = "chef face source minute body chicken ecology deputy jealous gloom grocery inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "able soul hammer mirror pulse dirt glove shiver liar pole earn dutch";
+var mnemonic = "trip permit toward hour style jeans able skate hunt dose make sun";

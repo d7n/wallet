@@ -1,1 +1,1 @@
-var mnemonic = "emotion tip slim west cushion satisfy depend any clap donate pulse ride";
+var mnemonic = "prison slice charge wagon focus pink riot ticket skill frequent join enter";

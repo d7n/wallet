@@ -1,1 +1,1 @@
-var mnemonic = "earth inch cloth chef impulse toilet secret large globe age ridge report";
+var mnemonic = "marine scare version word throw prevent squirrel real luxury boost typical garden";

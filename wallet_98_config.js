@@ -1,1 +1,1 @@
-var mnemonic = "unfair theory arrest judge lamp atom model celery weasel twenty evil screen";
+var mnemonic = "bomb cement typical plastic address glow canal begin wrap stove undo head";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty scout brand belt gentle author apology number ordinary brick fiscal oppose";
+var mnemonic = "bubble reveal virtual reward cushion peanut buffalo practice divorce rebel noise tool";

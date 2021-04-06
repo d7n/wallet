@@ -1,1 +1,1 @@
-var mnemonic = "skirt license cactus huge visa true laugh husband view joke buddy twelve";
+var mnemonic = "elevator future arrange slab venue ridge climb panic symptom enforce run shallow";

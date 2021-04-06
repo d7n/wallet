@@ -1,1 +1,1 @@
-var mnemonic = "sound curious battle choose uncover net album version usual place audit rabbit";
+var mnemonic = "fire fine lonely funny fire sphere wisdom match nerve upper muscle scale";

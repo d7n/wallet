@@ -1,1 +1,1 @@
-var mnemonic = "decade lizard grass banner tell dirt analyst copper myself hundred unlock aerobic";
+var mnemonic = "barely rebuild salon begin program glory embark cereal antique broccoli gold scout";

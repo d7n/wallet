@@ -1,1 +1,1 @@
-var mnemonic = "motion come mixture goddess cat safe math soul clip simple art soon";
+var mnemonic = "decrease hint all judge kid skin combine develop mechanic surround huge review";

@@ -1,1 +1,1 @@
-var mnemonic = "click invite pledge style shoot allow erupt use inspire drum hint broom";
+var mnemonic = "awkward sight setup post impulse river alcohol retreat exit build check spin";

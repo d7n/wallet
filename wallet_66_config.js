@@ -1,1 +1,1 @@
-var mnemonic = "struggle blouse screen grass earn blanket alpha distance prevent okay sphere pitch";
+var mnemonic = "wide seven sand couple heart coconut erupt guilt steak spoon oblige enforce";

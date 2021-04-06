@@ -1,1 +1,1 @@
-var mnemonic = "between pulp sock pass lonely awful board extra input resist picture young";
+var mnemonic = "resist rent face punch oppose pact million second produce curtain dwarf meat";

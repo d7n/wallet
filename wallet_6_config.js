@@ -1,1 +1,1 @@
-var mnemonic = "neither rate excess accuse candy keep supply issue history crop lock team";
+var mnemonic = "stairs broccoli ignore caught consider bird broom pair travel dune sad grab";

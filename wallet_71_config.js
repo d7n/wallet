@@ -1,1 +1,1 @@
-var mnemonic = "various deputy cage thrive juice crawl dolphin cash vote team garden hard";
+var mnemonic = "release host expire tone ribbon panda swing when scheme squeeze core topple";

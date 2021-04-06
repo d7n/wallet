@@ -1,1 +1,1 @@
-var mnemonic = "battle voyage badge era latin bid draft dwarf blouse lottery window trap";
+var mnemonic = "game popular make square into wrist run twice wonder equip tray pelican";

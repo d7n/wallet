@@ -1,1 +1,1 @@
-var mnemonic = "tide crew meat elite truth silk glue sunny skill drink property van";
+var mnemonic = "chaos amateur ankle draft safe style tennis orchard thank panda phrase bread";

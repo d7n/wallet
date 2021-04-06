@@ -1,1 +1,1 @@
-var mnemonic = "arrange blast verb upper pelican ankle often pilot abandon joy logic nuclear";
+var mnemonic = "west object tongue scrub denial body dial result nation anxiety acquire into";

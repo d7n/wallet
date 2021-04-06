@@ -1,1 +1,1 @@
-var mnemonic = "devote tool agent inhale letter position film lake hover system cable trash";
+var mnemonic = "afraid attack club near ignore afford ancient analyst smooth race black scrap";

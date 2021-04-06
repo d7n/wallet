@@ -1,1 +1,1 @@
-var mnemonic = "sibling invest submit minute feel bench never enable abuse raw float bless";
+var mnemonic = "tree crystal whale upon valley step assist quality tuition shop blade misery";

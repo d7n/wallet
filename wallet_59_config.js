@@ -1,1 +1,1 @@
-var mnemonic = "figure hard prepare envelope royal place noble hundred seminar venture light long";
+var mnemonic = "little media mother note giraffe bag turn nominee wage grocery cloth display";

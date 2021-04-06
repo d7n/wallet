@@ -1,1 +1,1 @@
-var mnemonic = "involve few dog shallow sheriff seed envelope wise guard motor mansion text";
+var mnemonic = "genre dial wish wheat project proud stool shield modify thrive uniform proof";

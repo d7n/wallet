@@ -1,1 +1,1 @@
-var mnemonic = "zebra face leader salt lottery unfair frame surface damage canyon february oppose";
+var mnemonic = "piano water fiscal camp utility umbrella until clarify indoor swap quit still";

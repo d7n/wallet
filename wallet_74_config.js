@@ -1,1 +1,1 @@
-var mnemonic = "emotion dust helmet valid relax tray win harbor crime jar cake pink";
+var mnemonic = "joy excite music group jacket regret bulb day essay clarify opera cinnamon";

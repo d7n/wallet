@@ -1,1 +1,1 @@
-var mnemonic = "garage allow birth erode announce coffee abuse orient soul siren heart chaos";
+var mnemonic = "other toe save truck disorder alter siege pride cluster spray rotate ginger";

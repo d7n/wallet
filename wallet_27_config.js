@@ -1,1 +1,1 @@
-var mnemonic = "immense source evolve then steak nothing transfer swallow damage verb ceiling remove";
+var mnemonic = "salt foster indoor brand goat boy again stairs bamboo canoe prevent spider";

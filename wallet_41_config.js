@@ -1,1 +1,1 @@
-var mnemonic = "pistol juice brief ramp stumble fog virus volcano gold solar obey goddess";
+var mnemonic = "runway liar rack sadness elite bottom bless wild solve kid rough accuse";

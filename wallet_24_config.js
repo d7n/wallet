@@ -1,1 +1,1 @@
-var mnemonic = "spy position rib nice over man admit north rate milk salute below";
+var mnemonic = "vocal drive program again dust core virtual eager trade select emerge stomach";

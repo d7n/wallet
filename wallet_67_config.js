@@ -1,1 +1,1 @@
-var mnemonic = "cycle network little elite maid express narrow junk tool replace bacon merit";
+var mnemonic = "faculty artist guide about ripple direct captain tiger remind field lounge supply";

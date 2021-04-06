@@ -1,1 +1,1 @@
-var mnemonic = "begin please crucial blur crazy easy horror stereo soon will focus number";
+var mnemonic = "meat keep offer loyal front two hungry inquiry balance siege junior betray";

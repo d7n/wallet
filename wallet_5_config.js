@@ -1,1 +1,1 @@
-var mnemonic = "blue crane reunion mule urge mother theme behind tail rival unhappy egg";
+var mnemonic = "three exclude burst tragic glow tomorrow pudding burger horse scrap inhale tomorrow";

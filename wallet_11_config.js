@@ -1,1 +1,1 @@
-var mnemonic = "surface egg ice only cram year sorry ritual slide keep dress rule";
+var mnemonic = "wrist vague stay decorate husband pony bacon cricket rotate open now various";

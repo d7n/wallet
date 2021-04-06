@@ -1,1 +1,1 @@
-var mnemonic = "critic shiver donkey multiply behind other improve return chair rebuild wing odor";
+var mnemonic = "alley buffalo put grass custom usual sense bubble bullet parent coral buzz";

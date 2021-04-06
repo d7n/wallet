@@ -1,1 +1,1 @@
-var mnemonic = "use reduce rather ugly whip dismiss champion impact liquid cover grab decline";
+var mnemonic = "symbol drill arrest caution dynamic gift balcony illegal inner library clerk lamp";

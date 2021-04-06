@@ -1,1 +1,1 @@
-var mnemonic = "damp prize stock isolate author digital narrow author garment gift issue choice";
+var mnemonic = "rail pet extend become raw stay thank neutral motion thumb elbow forest";

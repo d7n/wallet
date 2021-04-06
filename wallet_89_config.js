@@ -1,1 +1,1 @@
-var mnemonic = "rate video before train cinnamon undo speed trial around online slush collect";
+var mnemonic = "omit hill note glide web journey lunch expire one hunt maximum poet";

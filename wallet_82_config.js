@@ -1,1 +1,1 @@
-var mnemonic = "track strike fun split drip puppy carbon amused drop judge donkey receive";
+var mnemonic = "toast parent apple nerve risk define avocado report crater warfare test vivid";

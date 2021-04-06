@@ -1,1 +1,1 @@
-var mnemonic = "also junk fashion include insect surround knock champion opinion latin legal alone";
+var mnemonic = "sausage honey grant wedding evoke flush deposit butter blame climb predict addict";

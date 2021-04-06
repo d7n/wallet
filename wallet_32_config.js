@@ -1,1 +1,1 @@
-var mnemonic = "month plunge unfair prosper lion cupboard wage creek piano erase kit else";
+var mnemonic = "coffee verify swarm olympic rabbit struggle hazard lemon add example fan wood";

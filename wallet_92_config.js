@@ -1,1 +1,1 @@
-var mnemonic = "fold pizza elite boss fancy liquid play tenant weapon hour viable imitate";
+var mnemonic = "riot tomato garden clay agent chronic liquid swallow gas hat multiply cupboard";

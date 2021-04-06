@@ -1,1 +1,1 @@
-var mnemonic = "cargo sign busy chat exit apart bid cement text sport type output";
+var mnemonic = "hour more injury popular emerge reject spike trim injury always situate horn";

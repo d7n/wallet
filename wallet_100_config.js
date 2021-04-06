@@ -1,1 +1,1 @@
-var mnemonic = "exile galaxy oblige coral wave slice daughter marble mercy main taste rabbit";
+var mnemonic = "pottery wood bargain inspire avoid mandate rebel keep hover perfect prepare trap";

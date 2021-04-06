@@ -1,1 +1,1 @@
-var mnemonic = "clap ski despair parent fatal arrive basic auction slow dash abuse that";
+var mnemonic = "dose end sell legal joke exact learn daring silver exotic trick brief";

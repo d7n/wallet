@@ -1,1 +1,1 @@
-var mnemonic = "fiction blade wise slush document metal stumble awesome noise popular rely giggle";
+var mnemonic = "real visit destroy empower minor blossom trade multiply depend hotel wrap expect";

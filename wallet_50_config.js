@@ -1,1 +1,1 @@
-var mnemonic = "swallow valley peasant panic carpet section grass ridge priority change spice phrase";
+var mnemonic = "pool rough car diamond close effort disagree fault gorilla coconut erupt grace";

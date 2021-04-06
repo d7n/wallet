@@ -1,1 +1,1 @@
-var mnemonic = "indoor you attract visual brick rebel smoke matrix problem flame wear mutual";
+var mnemonic = "gospel tail easily mountain ugly shy sea jungle genre dolphin surface rocket";

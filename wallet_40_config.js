@@ -1,1 +1,1 @@
-var mnemonic = "nice remind wheel lounge lemon turn valid lumber decide february deer wine";
+var mnemonic = "sail erosion cabbage faith secret album toss twenty morning arrow mass lemon";

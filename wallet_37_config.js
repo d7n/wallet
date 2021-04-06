@@ -1,1 +1,1 @@
-var mnemonic = "spring cube famous legal vintage industry royal chief fancy tilt series rabbit";
+var mnemonic = "lazy fury cram forget poet crater raven staff match urge second cricket";

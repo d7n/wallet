@@ -1,1 +1,1 @@
-var mnemonic = "powder cotton satoshi sponsor control zebra final into equal rude math truth";
+var mnemonic = "drop survey girl zone cry slide suit rescue limit pistol method twice";

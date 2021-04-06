@@ -1,1 +1,1 @@
-var mnemonic = "ridge pupil modify bar recall equip throw convince judge path merge despair";
+var mnemonic = "child reopen teach approve burden wear beach faint promote turtle boil victory";

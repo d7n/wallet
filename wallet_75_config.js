@@ -1,1 +1,1 @@
-var mnemonic = "merge quantum code ball talk fiscal monkey either mirror nose stage battle";
+var mnemonic = "regret mind obey glance tilt sign mad route mushroom gospel region ill";

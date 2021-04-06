@@ -1,1 +1,1 @@
-var mnemonic = "steak radar capable crime rally antenna jungle garage avoid soul category siege";
+var mnemonic = "injury exclude dad flower lava wrist effort order clock art cat merry";

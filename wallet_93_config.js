@@ -1,1 +1,1 @@
-var mnemonic = "kid tenant chimney differ glare dentist glare forum wife tray fall truly";
+var mnemonic = "pony educate average together elegant distance typical bag half dismiss raccoon member";
