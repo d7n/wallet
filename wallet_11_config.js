@@ -1,1 +1,1 @@
-var mnemonic = "dress isolate small song state pepper rate raw injury dad twelve inhale";
+var mnemonic = "surface egg ice only cram year sorry ritual slide keep dress rule";

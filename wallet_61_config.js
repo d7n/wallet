@@ -1,1 +1,1 @@
-var mnemonic = "crime city good party dignity force idea used giggle actual excite push";
+var mnemonic = "indoor you attract visual brick rebel smoke matrix problem flame wear mutual";

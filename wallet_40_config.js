@@ -1,1 +1,1 @@
-var mnemonic = "struggle baby tomorrow magic tumble bike canoe join mammal change improve step";
+var mnemonic = "nice remind wheel lounge lemon turn valid lumber decide february deer wine";

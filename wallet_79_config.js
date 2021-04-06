@@ -1,1 +1,1 @@
-var mnemonic = "install neck employ simple lecture until ketchup shine tuna term truth tomorrow";
+var mnemonic = "carbon hurry pole skill furnace grass nominee donkey slice machine proud fix";

@@ -1,1 +1,1 @@
-var mnemonic = "cluster topple gold photo food sphere verb abuse jungle connect skull release";
+var mnemonic = "garage allow birth erode announce coffee abuse orient soul siren heart chaos";

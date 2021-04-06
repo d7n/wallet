@@ -1,1 +1,1 @@
-var mnemonic = "coach fun coffee cotton region dove fatal tail radar section real repeat";
+var mnemonic = "wrestle enlist march mandate gold congress square quality curious food extend urge";

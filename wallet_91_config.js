@@ -1,1 +1,1 @@
-var mnemonic = "portion cram expect now two great dragon rack attend elephant radio ripple";
+var mnemonic = "crush yard cabbage cousin learn abandon neglect rotate force stem reason concert";

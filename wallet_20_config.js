@@ -1,1 +1,1 @@
-var mnemonic = "wonder rate spot flash what version early liar cause jungle impose document";
+var mnemonic = "fire honey couch legal senior predict neither pizza oppose maximum random piano";

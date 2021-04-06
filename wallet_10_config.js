@@ -1,1 +1,1 @@
-var mnemonic = "guard radio desk coyote hair cruise smoke similar modify win tonight history";
+var mnemonic = "other marriage scissors detect rather expect chapter demand theme suffer wire resource";

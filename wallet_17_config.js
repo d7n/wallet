@@ -1,1 +1,1 @@
-var mnemonic = "situate pause capable okay rib scare attitude latin exercise hedgehog develop cable";
+var mnemonic = "between pulp sock pass lonely awful board extra input resist picture young";

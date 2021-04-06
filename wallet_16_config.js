@@ -1,1 +1,1 @@
-var mnemonic = "organ usual draft gasp lucky advance spread quiz unit seek fruit because";
+var mnemonic = "rocket divorce regret butter canyon toss toe tray accident mosquito latin agree";

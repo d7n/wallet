@@ -1,1 +1,1 @@
-var mnemonic = "ladder jealous relief caught main pole artwork magnet reform knock snake fox";
+var mnemonic = "poverty scout brand belt gentle author apology number ordinary brick fiscal oppose";

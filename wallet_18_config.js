@@ -1,1 +1,1 @@
-var mnemonic = "dolphin shield move cool solution hair edge motion move promote south planet";
+var mnemonic = "auto ketchup casual reward month hill dragon cause giraffe farm student evil";

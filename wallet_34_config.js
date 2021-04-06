@@ -1,1 +1,1 @@
-var mnemonic = "lottery faith wasp shuffle twelve choice treat unknown wage sunset spike long";
+var mnemonic = "sound curious battle choose uncover net album version usual place audit rabbit";

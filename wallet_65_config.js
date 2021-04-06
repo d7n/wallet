@@ -1,1 +1,1 @@
-var mnemonic = "junk economy club runway produce uncle other embark thumb tape agree east";
+var mnemonic = "devote tool agent inhale letter position film lake hover system cable trash";

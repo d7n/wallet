@@ -1,1 +1,1 @@
-var mnemonic = "ask unfair resource acid clock already bronze direct sausage wave gasp rival";
+var mnemonic = "illness coconut brick equal abandon crowd whale betray bitter traffic furnace mule";

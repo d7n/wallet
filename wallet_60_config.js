@@ -1,1 +1,1 @@
-var mnemonic = "kite shaft often walk outside way cup then enough sting organ alarm";
+var mnemonic = "wait beyond craft pill elder curve behind engine chronic domain budget miracle";

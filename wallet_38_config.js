@@ -1,1 +1,1 @@
-var mnemonic = "hint street scrap toilet light welcome depth into either brisk truck snap";
+var mnemonic = "since easy earn gun police split army category trust crash grief actor";

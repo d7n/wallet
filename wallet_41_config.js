@@ -1,1 +1,1 @@
-var mnemonic = "drama window core swarm voyage case sunset drastic legal galaxy split secret";
+var mnemonic = "pistol juice brief ramp stumble fog virus volcano gold solar obey goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "injury maximum approve tribe health width arrow lounge settle upon opera group";
+var mnemonic = "various deputy cage thrive juice crawl dolphin cash vote team garden hard";

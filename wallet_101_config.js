@@ -1,1 +1,1 @@
-var mnemonic = "else fashion learn sadness primary clay advice dose saddle horror seven boring";
+var mnemonic = "bottom dice section tail example pulse omit toss kiwi engine find under";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude myself artwork boat six gain sister leaf eager since setup enjoy";
+var mnemonic = "olympic cancel fly chunk friend direct stadium forum hundred initial nothing hint";

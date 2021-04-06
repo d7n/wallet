@@ -1,1 +1,1 @@
-var mnemonic = "grass scatter hospital firm uniform pyramid refuse accident south segment travel dance";
+var mnemonic = "arrange blast verb upper pelican ankle often pilot abandon joy logic nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "ride note window alter swarm decorate repair pact pluck dentist observe guard";
+var mnemonic = "wrestle helmet father output round tide very tobacco empty box dial act";

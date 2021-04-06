@@ -1,1 +1,1 @@
-var mnemonic = "leave behave cabin token expire jacket report mosquito first gasp donkey culture";
+var mnemonic = "motor matrix absorb whale walk exist wealth supreme latin soon announce girl";

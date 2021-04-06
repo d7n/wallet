@@ -1,1 +1,1 @@
-var mnemonic = "approve taste addict bridge wink year language puzzle industry item dinner make";
+var mnemonic = "execute error cave goat festival bread enable laptop couple mesh furnace expect";

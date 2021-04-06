@@ -1,1 +1,1 @@
-var mnemonic = "mass siren scout melt witness pave top domain honey hope armor age";
+var mnemonic = "canal empty relax ride flush plate detail legend craft report scrub exhibit";

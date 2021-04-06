@@ -1,1 +1,1 @@
-var mnemonic = "depart kitten verb horse end loan sponsor buddy rather burst surface brave";
+var mnemonic = "battle voyage badge era latin bid draft dwarf blouse lottery window trap";

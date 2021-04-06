@@ -1,1 +1,1 @@
-var mnemonic = "option rapid canvas alter antenna fever slam slab wrestle ridge milk undo";
+var mnemonic = "degree actress angle shadow thing element advance resemble unhappy chapter win when";

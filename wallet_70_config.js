@@ -1,1 +1,1 @@
-var mnemonic = "cube crawl ski pet dilemma slot draft wheat sauce know way long";
+var mnemonic = "motion come mixture goddess cat safe math soul clip simple art soon";

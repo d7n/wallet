@@ -1,1 +1,1 @@
-var mnemonic = "smoke smoke toe easily yellow swallow beach ostrich verify case frost drink";
+var mnemonic = "exile galaxy oblige coral wave slice daughter marble mercy main taste rabbit";

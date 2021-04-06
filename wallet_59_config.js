@@ -1,1 +1,1 @@
-var mnemonic = "net insane already silk major pelican theory tip health begin pretty fix";
+var mnemonic = "figure hard prepare envelope royal place noble hundred seminar venture light long";

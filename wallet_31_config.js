@@ -1,1 +1,1 @@
-var mnemonic = "purse useful welcome sea reveal vast opinion version rack warrior hen obey";
+var mnemonic = "lawn rather proud essay coin east convince husband crowd soccer hospital antenna";

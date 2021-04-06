@@ -1,1 +1,1 @@
-var mnemonic = "sound leave tomorrow mail file wasp warfare salmon lazy chuckle print quality";
+var mnemonic = "lottery angry west cat valve cradle trade vocal tilt advance remind iron";

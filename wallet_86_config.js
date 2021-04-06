@@ -1,1 +1,1 @@
-var mnemonic = "come copper increase all aim fox crunch twist live civil bicycle chunk";
+var mnemonic = "beef term this spring clean absorb caution sibling artwork reward scrub awesome";

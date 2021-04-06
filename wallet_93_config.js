@@ -1,1 +1,1 @@
-var mnemonic = "faculty domain bleak museum glass copper quantum income broken urge concert space";
+var mnemonic = "kid tenant chimney differ glare dentist glare forum wife tray fall truly";

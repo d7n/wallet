@@ -1,1 +1,1 @@
-var mnemonic = "endless hurdle mixed favorite melt state ribbon target when snap forward young";
+var mnemonic = "exact catalog detect jazz direct engage baby ginger alert powder twin citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy bus physical myth accuse drama flavor mercy present easily fortune unfold";
+var mnemonic = "fiction blade wise slush document metal stumble awesome noise popular rely giggle";

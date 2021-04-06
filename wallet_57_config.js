@@ -1,1 +1,1 @@
-var mnemonic = "city melt scan flight sort undo combine private service reopen enjoy butter";
+var mnemonic = "also junk fashion include insect surround knock champion opinion latin legal alone";

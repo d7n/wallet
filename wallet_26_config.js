@@ -1,1 +1,1 @@
-var mnemonic = "cliff phrase goat measure length people elder proof equal push endorse theme";
+var mnemonic = "clap ski despair parent fatal arrive basic auction slow dash abuse that";

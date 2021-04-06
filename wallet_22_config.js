@@ -1,1 +1,1 @@
-var mnemonic = "silver nephew fog goat safe luggage utility wood tomorrow giggle divorce venture";
+var mnemonic = "problem ecology certain vacuum alcohol marriage film travel flash duty fan bright";

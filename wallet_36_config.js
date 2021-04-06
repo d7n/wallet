@@ -1,1 +1,1 @@
-var mnemonic = "accident foam park truck try food spare lab mad crowd orchard nation";
+var mnemonic = "powder cotton satoshi sponsor control zebra final into equal rude math truth";

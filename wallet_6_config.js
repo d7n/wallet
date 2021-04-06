@@ -1,1 +1,1 @@
-var mnemonic = "venue turkey you hammer piano cover admit apology rescue bamboo pause ozone";
+var mnemonic = "neither rate excess accuse candy keep supply issue history crop lock team";

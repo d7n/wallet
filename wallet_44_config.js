@@ -1,1 +1,1 @@
-var mnemonic = "hospital agent quiz master card mechanic welcome drift latin human blast audit";
+var mnemonic = "drama flat local answer hint matter first benefit basket water cute unveil";

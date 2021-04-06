@@ -1,1 +1,1 @@
-var mnemonic = "enemy adapt stem dilemma across strong submit heart dolphin program soup patrol";
+var mnemonic = "piece input want normal stairs direct penalty canyon tube weather sudden chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "supply ramp foil crane melt mouse major vapor slide strong monster dune";
+var mnemonic = "virtual cloth bargain impose expire swim meat artwork mercy shadow safe fever";

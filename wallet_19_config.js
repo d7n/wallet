@@ -1,1 +1,1 @@
-var mnemonic = "depart obscure silent asthma guess broccoli slender okay trade crash oxygen resist";
+var mnemonic = "earth inch cloth chef impulse toilet secret large globe age ridge report";

@@ -1,1 +1,1 @@
-var mnemonic = "urban remain neutral tired way final husband theory milk huge cat craft";
+var mnemonic = "cargo sign busy chat exit apart bid cement text sport type output";

@@ -1,1 +1,1 @@
-var mnemonic = "doll phone anger artefact copy later mouse hurry man thought invite toe";
+var mnemonic = "fold pizza elite boss fancy liquid play tenant weapon hour viable imitate";

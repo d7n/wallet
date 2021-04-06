@@ -1,1 +1,1 @@
-var mnemonic = "solution target leg humor traffic indicate rotate nephew fashion music gap label";
+var mnemonic = "size virtual ghost viable umbrella gospel giggle sign offer close toss reward";

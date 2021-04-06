@@ -1,1 +1,1 @@
-var mnemonic = "thumb trust deliver struggle riot silly clap initial divide puzzle again fiscal";
+var mnemonic = "base prize express suggest planet feed erosion pencil prepare evolve poverty giggle";

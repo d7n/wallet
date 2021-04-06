@@ -1,1 +1,1 @@
-var mnemonic = "dilemma season caught lumber power bone equal throw indoor language rigid diary";
+var mnemonic = "decade lizard grass banner tell dirt analyst copper myself hundred unlock aerobic";

@@ -1,1 +1,1 @@
-var mnemonic = "point thing pig original provide lake rookie surprise online october nut rubber";
+var mnemonic = "inform rent extra sure shine decade tank answer scale flag remain agree";

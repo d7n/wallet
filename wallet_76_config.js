@@ -1,1 +1,1 @@
-var mnemonic = "easily space one fix hedgehog above tissue leader tunnel adjust advice glass";
+var mnemonic = "paddle cushion note chunk deposit little height robot vibrant item fly either";

@@ -1,1 +1,1 @@
-var mnemonic = "title balcony gather law purpose still empower useless rich blouse captain fence";
+var mnemonic = "emotion tip slim west cushion satisfy depend any clap donate pulse ride";

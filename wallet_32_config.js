@@ -1,1 +1,1 @@
-var mnemonic = "jar suggest spatial forget analyst nephew much link tumble chef educate dream";
+var mnemonic = "month plunge unfair prosper lion cupboard wage creek piano erase kit else";

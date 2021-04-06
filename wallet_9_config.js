@@ -1,1 +1,1 @@
-var mnemonic = "cousin oxygen polar square swift alter cream pool absorb magnet estate require";
+var mnemonic = "insect spend company portion hollow crowd sadness month excuse robust develop movie";

@@ -1,1 +1,1 @@
-var mnemonic = "tail fault thrive lazy wrong name trick early elegant cactus memory offer";
+var mnemonic = "throw soap live lonely nature metal pony milk idea shallow bind portion";

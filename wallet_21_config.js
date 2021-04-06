@@ -1,1 +1,1 @@
-var mnemonic = "camp expect arm holiday mesh water entire this clog impact audit announce";
+var mnemonic = "chase movie castle convince diamond december offer paddle rug object drip arrest";

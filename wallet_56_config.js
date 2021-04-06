@@ -1,1 +1,1 @@
-var mnemonic = "what exhibit wonder spoil twice inside nature swing thought melt robust there";
+var mnemonic = "involve few dog shallow sheriff seed envelope wise guard motor mansion text";

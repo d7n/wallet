@@ -1,1 +1,1 @@
-var mnemonic = "erupt glance harvest latin neither fog crazy film ship scene patient such";
+var mnemonic = "unfair theory arrest judge lamp atom model celery weasel twenty evil screen";

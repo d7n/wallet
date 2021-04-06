@@ -1,1 +1,1 @@
-var mnemonic = "attract category smoke help shift clutch genius game replace erode vital nut";
+var mnemonic = "address stock about avoid clarify soldier swamp burger caught install maple citizen";

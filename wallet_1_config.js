@@ -1,1 +1,1 @@
-var mnemonic = "hotel breeze raise valid unfair goat pepper wool first seminar curve unfold";
+var mnemonic = "ladder pelican coach chief deal frame dove ankle game stamp adjust embody";

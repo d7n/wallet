@@ -1,1 +1,1 @@
-var mnemonic = "rug run perfect sell run limit vapor afraid wrestle diamond cement satoshi";
+var mnemonic = "woman hawk then eternal shuffle layer arrange era garage demise shuffle run";

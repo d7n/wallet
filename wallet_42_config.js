@@ -1,1 +1,1 @@
-var mnemonic = "into dune milk unlock split funny swallow boss wrist release heavy fit";
+var mnemonic = "sibling invest submit minute feel bench never enable abuse raw float bless";

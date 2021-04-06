@@ -1,1 +1,1 @@
-var mnemonic = "jaguar joke spider neck foam pear riot average supply response share grass";
+var mnemonic = "track strike fun split drip puppy carbon amused drop judge donkey receive";

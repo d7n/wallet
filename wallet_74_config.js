@@ -1,1 +1,1 @@
-var mnemonic = "margin unlock beef lumber crunch quantum broom athlete price spike crew february";
+var mnemonic = "emotion dust helmet valid relax tray win harbor crime jar cake pink";

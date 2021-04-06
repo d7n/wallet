@@ -1,1 +1,1 @@
-var mnemonic = "evil dirt budget struggle gentle dad one wonder pave tank differ trip";
+var mnemonic = "virus cradle nest draw pioneer token punch cave infant corn dignity enlist";

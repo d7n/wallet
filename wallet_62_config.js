@@ -1,1 +1,1 @@
-var mnemonic = "question token canvas snap tattoo obtain turkey check motion welcome deposit actress";
+var mnemonic = "tide crew meat elite truth silk glue sunny skill drink property van";

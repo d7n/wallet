@@ -1,1 +1,1 @@
-var mnemonic = "web happy rabbit bulk absorb wash march return enhance fox flag track";
+var mnemonic = "aware air defense gentle clip upper plug work wine sister slush dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs ethics spice abuse travel tourist reward round key food confirm midnight";
+var mnemonic = "blue crane reunion mule urge mother theme behind tail rival unhappy egg";

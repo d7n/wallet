@@ -1,1 +1,1 @@
-var mnemonic = "people memory huge alone source oxygen escape find pretty evoke blouse message";
+var mnemonic = "use reduce rather ugly whip dismiss champion impact liquid cover grab decline";

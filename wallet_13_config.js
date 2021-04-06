@@ -1,1 +1,1 @@
-var mnemonic = "alert struggle cinnamon shop session sell era erode step make donkey bubble";
+var mnemonic = "element mirror arena wire human knock isolate valve again soda lecture raise";

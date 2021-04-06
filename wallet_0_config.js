@@ -1,1 +1,1 @@
-var mnemonic = "ill elder pattern pull main estate retire deal try flame client stereo";
+var mnemonic = "elder glow poet little lamp kiwi heart night artefact pilot gauge kangaroo";

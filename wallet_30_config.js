@@ -1,1 +1,1 @@
-var mnemonic = "sock curtain hard page female range picnic surface quote extra dragon position";
+var mnemonic = "style hard fault spring toy tape owner story guitar food tissue wait";

@@ -1,1 +1,1 @@
-var mnemonic = "street cement mother host pen fresh section dutch rent holiday palm critic";
+var mnemonic = "damp prize stock isolate author digital narrow author garment gift issue choice";

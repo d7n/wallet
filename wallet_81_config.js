@@ -1,1 +1,1 @@
-var mnemonic = "draft sniff crucial immense aunt traffic force champion liar raven initial since";
+var mnemonic = "quarter father slam absorb funny firm tenant bring turkey spring vibrant inner";

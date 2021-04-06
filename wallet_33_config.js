@@ -1,1 +1,1 @@
-var mnemonic = "detect increase hard share ritual reward quarter citizen purse liquid feed spot";
+var mnemonic = "ridge pupil modify bar recall equip throw convince judge path merge despair";

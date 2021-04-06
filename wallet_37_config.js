@@ -1,1 +1,1 @@
-var mnemonic = "option harsh verb enlist sight wrist wine later derive alert prepare scorpion";
+var mnemonic = "spring cube famous legal vintage industry royal chief fancy tilt series rabbit";

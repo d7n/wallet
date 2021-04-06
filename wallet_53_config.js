@@ -1,1 +1,1 @@
-var mnemonic = "used brain segment immune suggest course wing law juice island stable slow";
+var mnemonic = "shoulder primary dinner outside labor aware define lift because fuel soda meat";

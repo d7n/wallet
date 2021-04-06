@@ -1,1 +1,1 @@
-var mnemonic = "palm cook trial scan struggle lock valley cat possible dumb detect leg";
+var mnemonic = "voice engine cradle zero law govern lecture shoot melt animal release adapt";

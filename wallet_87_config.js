@@ -1,1 +1,1 @@
-var mnemonic = "seminar farm forest upgrade oak neutral fog unlock proud output nut sign";
+var mnemonic = "emotion poverty faith talk border jealous stomach rotate truck husband great useless";

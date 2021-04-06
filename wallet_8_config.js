@@ -1,1 +1,1 @@
-var mnemonic = "outdoor cover april cake cereal duty sort object gate around bargain bid";
+var mnemonic = "position recall dismiss already road casual mountain blossom rifle decrease trophy accident";

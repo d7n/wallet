@@ -1,1 +1,1 @@
-var mnemonic = "seven unveil remember place kitten diagram wrong issue first about spy gadget";
+var mnemonic = "affair damp admit method woman music cook judge flush teach cupboard argue";

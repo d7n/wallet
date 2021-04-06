@@ -1,1 +1,1 @@
-var mnemonic = "rhythm emerge ignore reduce fold shove daring merit tourist guitar half shoe";
+var mnemonic = "swallow valley peasant panic carpet section grass ridge priority change spice phrase";

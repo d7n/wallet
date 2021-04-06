@@ -1,1 +1,1 @@
-var mnemonic = "siege business garment double human explain expire camp slender vague mass divorce";
+var mnemonic = "skirt license cactus huge visa true laugh husband view joke buddy twelve";

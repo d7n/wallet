@@ -1,1 +1,1 @@
-var mnemonic = "require erupt vital abstract mango tumble direct lunar cycle auction there snake";
+var mnemonic = "immense source evolve then steak nothing transfer swallow damage verb ceiling remove";
