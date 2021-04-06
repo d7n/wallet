@@ -1,1 +1,1 @@
-var mnemonic = "wife explain glad trial direct ring wisdom stay eight magnet owner around";
+var mnemonic = "image humor mountain discover cinnamon bundle like plastic between mouse cube bomb";

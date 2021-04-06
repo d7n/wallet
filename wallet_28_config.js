@@ -1,1 +1,1 @@
-var mnemonic = "bird live skate dance language act monitor industry venture firm kite online";
+var mnemonic = "example phrase version party giggle grunt truth claw heart invest refuse segment";

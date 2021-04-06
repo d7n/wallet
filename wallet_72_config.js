@@ -1,1 +1,1 @@
-var mnemonic = "catalog arrange gaze hair tide emerge puzzle roof voyage host habit metal";
+var mnemonic = "lend tool raccoon december order air odor wonder boss abuse monster tongue";

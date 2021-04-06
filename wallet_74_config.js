@@ -1,1 +1,1 @@
-var mnemonic = "cross famous present negative winner above rabbit stone drum street until crowd";
+var mnemonic = "gas develop angry arctic opinion cargo primary welcome cluster team silver benefit";

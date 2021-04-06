@@ -1,1 +1,1 @@
-var mnemonic = "country busy axis judge arch thumb segment arch draft code apart couple";
+var mnemonic = "dwarf banner blanket jaguar cake cable length amused obscure govern canvas force";

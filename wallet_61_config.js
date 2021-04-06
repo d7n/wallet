@@ -1,1 +1,1 @@
-var mnemonic = "when digital near series repeat tool series crew dinosaur panic boost soccer";
+var mnemonic = "erase rely crazy domain arm catch solve pipe huge utility reflect planet";

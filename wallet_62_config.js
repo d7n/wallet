@@ -1,1 +1,1 @@
-var mnemonic = "reunion chaos subject build neither coyote pave easily industry raw dash lemon";
+var mnemonic = "unique sweet kid fine tennis retreat bone erode romance link host pistol";

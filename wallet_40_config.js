@@ -1,1 +1,1 @@
-var mnemonic = "nephew tool wink hat rare shield fee napkin describe stadium forget pretty";
+var mnemonic = "shop supply weapon someone fiction marble pulse park milk enroll fun oak";

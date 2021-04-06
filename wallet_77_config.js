@@ -1,1 +1,1 @@
-var mnemonic = "antique clever catalog illness roof evolve veteran tone govern pyramid bubble syrup";
+var mnemonic = "solution detect earth oxygen champion horror ozone lava stage transfer affair order";

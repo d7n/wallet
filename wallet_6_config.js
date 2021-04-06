@@ -1,1 +1,1 @@
-var mnemonic = "void improve junior fatal alien trouble window love cage old piano hello";
+var mnemonic = "unknown upper clever century lottery piece slam educate call pumpkin price illness";

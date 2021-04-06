@@ -1,1 +1,1 @@
-var mnemonic = "genuine afford live vault armed mother enforce ethics gentle already keen spider";
+var mnemonic = "lift accident plunge woman push album buddy trap night vast asthma shiver";

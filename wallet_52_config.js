@@ -1,1 +1,1 @@
-var mnemonic = "face lucky expand wave speak angry minor medal grit hint convince mosquito";
+var mnemonic = "such quantum such spike basket chicken clean able fee lock expire innocent";

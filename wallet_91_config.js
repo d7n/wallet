@@ -1,1 +1,1 @@
-var mnemonic = "clerk allow clay bundle nephew awful supply light raw tourist table family";
+var mnemonic = "buyer noodle disease praise milk sketch dolphin kick chicken become corn model";

@@ -1,1 +1,1 @@
-var mnemonic = "whale announce illness snow rather desk prison draw frame elite allow junior";
+var mnemonic = "silly swear tomorrow end explain frozen fiscal tired damage acoustic earth drama";

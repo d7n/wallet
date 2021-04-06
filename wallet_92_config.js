@@ -1,1 +1,1 @@
-var mnemonic = "glance inmate prepare theory crane away will program country potato youth pause";
+var mnemonic = "rude chunk diary marriage any science rent rocket weekend crazy true clay";

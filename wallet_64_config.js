@@ -1,1 +1,1 @@
-var mnemonic = "beyond shrimp farm marriage globe mammal traffic struggle property bring craft admit";
+var mnemonic = "quality main share repair trip calm pilot that tube what poet drum";

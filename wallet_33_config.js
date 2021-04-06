@@ -1,1 +1,1 @@
-var mnemonic = "pyramid want diagram spoon cherry tide human steel risk client witness truck";
+var mnemonic = "symbol endless cloud bleak use rural omit decade tray fire current perfect";

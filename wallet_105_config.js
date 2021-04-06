@@ -1,1 +1,1 @@
-var mnemonic = "shuffle bind planet ecology eagle seed flight mesh noise subway video cigar";
+var mnemonic = "alien label fiscal delay cupboard frog mixed space venue wheel brain fury";

@@ -1,1 +1,1 @@
-var mnemonic = "doll author oblige state error caution chaos wood clever victory quality mansion";
+var mnemonic = "better edge uphold thumb train swallow kingdom spider script private tortoise stem";

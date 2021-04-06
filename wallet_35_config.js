@@ -1,1 +1,1 @@
-var mnemonic = "improve juice oyster april elite oblige wine curious leave owner satoshi dentist";
+var mnemonic = "inner galaxy acid priority dog banner scorpion shuffle inherit original early stable";

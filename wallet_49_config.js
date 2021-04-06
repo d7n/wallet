@@ -1,1 +1,1 @@
-var mnemonic = "sample escape foster satoshi exercise rate salmon speak frozen twenty alley coral";
+var mnemonic = "globe chalk speed peace young pool can try jeans giraffe surround shrimp";

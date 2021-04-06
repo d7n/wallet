@@ -1,1 +1,1 @@
-var mnemonic = "wood remain struggle slim woman true empty proud session tooth suspect decline";
+var mnemonic = "copper choice orange amount conduct metal delay month cricket tackle pipe dog";

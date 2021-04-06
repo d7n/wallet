@@ -1,1 +1,1 @@
-var mnemonic = "volcano portion copper carbon sister clock fabric fuel produce crew ship adapt";
+var mnemonic = "machine before uniform claim border atom nest afford ankle mad home faculty";

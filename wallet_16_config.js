@@ -1,1 +1,1 @@
-var mnemonic = "prepare super rose delay deposit sort happy move room category mask utility";
+var mnemonic = "card hurdle piano sun position wool legend else observe depend width vacuum";

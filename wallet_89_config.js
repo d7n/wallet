@@ -1,1 +1,1 @@
-var mnemonic = "desert nerve very coffee scatter route silly mobile pill labor jazz waste";
+var mnemonic = "melt latin pond glue candy horn afford rally sign dish glory bar";

@@ -1,1 +1,1 @@
-var mnemonic = "snack crater champion success juice grunt pattern zebra horse bench day market";
+var mnemonic = "apple innocent fatal key honey virtual client benefit aspect wink cry plunge";

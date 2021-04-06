@@ -1,1 +1,1 @@
-var mnemonic = "flip behind drum payment express trip long vital upper fit actress baby";
+var mnemonic = "helmet echo ugly tortoise achieve seven shine swift quick scheme bamboo spy";

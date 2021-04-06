@@ -1,1 +1,1 @@
-var mnemonic = "picture neglect average craft ability crime circle insect add upon call brass";
+var mnemonic = "doctor oven lemon olympic check kiss sock foster carry shield height come";

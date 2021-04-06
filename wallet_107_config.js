@@ -1,1 +1,1 @@
-var mnemonic = "culture sugar license rural fix sing dizzy invite slogan absorb swamp thought";
+var mnemonic = "toss grace north pumpkin donkey small icon grit pond say vehicle abuse";

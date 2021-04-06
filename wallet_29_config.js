@@ -1,1 +1,1 @@
-var mnemonic = "anxiety tape correct yard heart gospel shy exotic another wedding twist insect";
+var mnemonic = "curve napkin penalty paper subway repair liar quantum bundle farm crawl domain";

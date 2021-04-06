@@ -1,1 +1,1 @@
-var mnemonic = "thank distance scan universe napkin post pattern verify there still reduce bicycle";
+var mnemonic = "orphan fold liar tunnel breeze cake clutch cable office hawk local stable";

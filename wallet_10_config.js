@@ -1,1 +1,1 @@
-var mnemonic = "utility risk before enforce pigeon lazy merry six when similar quality boil";
+var mnemonic = "bright ozone odor need leisure marine mimic food cricket exit hood exchange";

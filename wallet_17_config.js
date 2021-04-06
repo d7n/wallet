@@ -1,1 +1,1 @@
-var mnemonic = "medal initial pledge spring magnet history dirt slender bean state thought joke";
+var mnemonic = "meadow program purse want shell silly dilemma night vendor plate stamp tobacco";

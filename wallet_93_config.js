@@ -1,1 +1,1 @@
-var mnemonic = "split pond erode cargo shock large silver tragic fly spatial nature tube";
+var mnemonic = "market must clean profit supply daring expand layer motor can debate mirror";

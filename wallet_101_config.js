@@ -1,1 +1,1 @@
-var mnemonic = "window symptom choose swift end fly cause winner castle smoke sorry topic";
+var mnemonic = "trust model keen shift bright armed gas phone shuffle great bone erode";

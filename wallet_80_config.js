@@ -1,1 +1,1 @@
-var mnemonic = "matrix today extend duty mixed reflect tenant film soda laptop must emerge";
+var mnemonic = "spray dog blossom bring veteran snake split fruit common order sort turtle";

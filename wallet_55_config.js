@@ -1,1 +1,1 @@
-var mnemonic = "day century average fame choice smile want copy bronze trial hotel deny";
+var mnemonic = "chunk hospital faculty dirt combine combine rely rigid genuine punch budget borrow";

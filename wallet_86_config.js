@@ -1,1 +1,1 @@
-var mnemonic = "shop focus lady phrase chuckle melody pet cancel disease resource member limit";
+var mnemonic = "course odor divert inform planet peace object follow term bench bid media";

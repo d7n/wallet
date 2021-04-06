@@ -1,1 +1,1 @@
-var mnemonic = "marble inspire burden rubber liar poverty lecture crash math busy seat immune";
+var mnemonic = "boat bounce nephew length chalk sustain heavy fold sort mesh divert stick";

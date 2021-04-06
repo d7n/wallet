@@ -1,1 +1,1 @@
-var mnemonic = "oppose inject now word have flight such artefact floor know lift together";
+var mnemonic = "afford local lottery spot consider letter exclude fee fine render response snake";

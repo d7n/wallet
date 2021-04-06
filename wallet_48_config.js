@@ -1,1 +1,1 @@
-var mnemonic = "manage aisle puzzle topple lizard lunar aisle lecture normal chunk soup remain";
+var mnemonic = "three track town dismiss rival stove order actor hood pill figure spend";

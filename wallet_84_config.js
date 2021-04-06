@@ -1,1 +1,1 @@
-var mnemonic = "quote planet trip purse tray away calm coin pink chunk obtain pig";
+var mnemonic = "lava door tomato vehicle stay defense visa over skirt taxi sell chair";

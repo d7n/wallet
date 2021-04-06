@@ -1,1 +1,1 @@
-var mnemonic = "earn town execute park pulp tooth orphan autumn game day abuse detect";
+var mnemonic = "guilt vibrant leader pottery bronze pitch eagle color nephew soap acquire media";

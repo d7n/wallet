@@ -1,1 +1,1 @@
-var mnemonic = "garage swap bar traffic clip ball amount expect visual royal congress nothing";
+var mnemonic = "smoke gaze another buddy fence ball total idle tank casual draft elephant";

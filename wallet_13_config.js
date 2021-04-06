@@ -1,1 +1,1 @@
-var mnemonic = "effort absurd lady series float wish grocery legend main hedgehog lawn fatal";
+var mnemonic = "right voyage aerobic sign valid pattern enable allow fantasy tribe soccer depend";

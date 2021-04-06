@@ -1,1 +1,1 @@
-var mnemonic = "jump desert fringe very thumb gentle rebuild doll stomach capable believe endless";
+var mnemonic = "gadget unhappy dilemma twice rookie hair boy tourist siege rice cry clay";

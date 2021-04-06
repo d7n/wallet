@@ -1,1 +1,1 @@
-var mnemonic = "level middle farm parent glory siren dolphin half focus good club often";
+var mnemonic = "ordinary ranch negative tumble duck kind task fossil update piano monitor web";

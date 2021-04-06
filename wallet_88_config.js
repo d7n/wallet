@@ -1,1 +1,1 @@
-var mnemonic = "album subway fossil defy pistol coral ginger leopard learn crawl budget regular";
+var mnemonic = "winner ignore omit can review lawn swift course shield churn green onion";

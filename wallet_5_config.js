@@ -1,1 +1,1 @@
-var mnemonic = "voyage canal purse divorce legal need marble snap anchor place jump range";
+var mnemonic = "nurse faint now salon august outdoor pretty hen measure final stool hammer";

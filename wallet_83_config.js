@@ -1,1 +1,1 @@
-var mnemonic = "health digital verify repair install rival peasant harvest surround draw because unfold";
+var mnemonic = "alert gospel tissue bag law input father foster hood notable screen swift";

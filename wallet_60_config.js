@@ -1,1 +1,1 @@
-var mnemonic = "put again famous live peace pact mean flat advance hockey program cradle";
+var mnemonic = "fly keep ugly sort tennis hidden gadget grab menu vessel hazard thank";

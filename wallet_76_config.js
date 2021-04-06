@@ -1,1 +1,1 @@
-var mnemonic = "violin deer stage start size narrow security buddy risk tag huge easy";
+var mnemonic = "breeze banner hand wagon fever law ticket hover wife ivory still then";

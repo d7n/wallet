@@ -1,1 +1,1 @@
-var mnemonic = "garden genuine seminar wish consider crawl virus property female knife hand slab";
+var mnemonic = "patient clock loud alert stone reopen only action garbage teach float swap";

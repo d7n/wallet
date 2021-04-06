@@ -1,1 +1,1 @@
-var mnemonic = "item slot check trip thrive menu shock sphere essence moon glad game";
+var mnemonic = "word beyond convince raise price resemble adult spend visa athlete debate proud";

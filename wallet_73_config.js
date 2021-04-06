@@ -1,1 +1,1 @@
-var mnemonic = "boss goddess bread resource clever across attitude ramp bone income shine recipe";
+var mnemonic = "gather can delay loud lottery unique sure idle review stadium bulb brother";

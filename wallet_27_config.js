@@ -1,1 +1,1 @@
-var mnemonic = "maple grow blossom shrimp upgrade essence shuffle black tank great uncle arctic";
+var mnemonic = "wash duck enhance drum advice crop exit scan ski broccoli lounge inherit";

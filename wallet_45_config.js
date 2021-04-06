@@ -1,1 +1,1 @@
-var mnemonic = "struggle private away dirt chief thank mushroom debris flush mixed child stable";
+var mnemonic = "pave sense pause fortune resemble camera puppy like miracle quit alter just";

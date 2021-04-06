@@ -1,1 +1,1 @@
-var mnemonic = "fault large buffalo vintage anxiety recipe series caught mad sauce crunch appear";
+var mnemonic = "soup brass during melody achieve monster survey hire parade portion corn priority";

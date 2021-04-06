@@ -1,1 +1,1 @@
-var mnemonic = "orange october normal spare right oven mobile toddler movie hobby survey derive";
+var mnemonic = "head lonely above right tell design slab slogan clever double find icon";

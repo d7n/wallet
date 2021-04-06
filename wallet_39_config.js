@@ -1,1 +1,1 @@
-var mnemonic = "expect speak argue north latin actor multiply enforce tuition virus welcome language";
+var mnemonic = "prosper announce horn diamond tray topic initial detail card spray engage hero";

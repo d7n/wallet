@@ -1,1 +1,1 @@
-var mnemonic = "hospital asthma option wonder door nuclear piece celery differ text local among";
+var mnemonic = "erode chuckle visa square mask want fluid decrease prosper gadget shrug olympic";

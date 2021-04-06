@@ -1,1 +1,1 @@
-var mnemonic = "ivory youth hood work rack exotic alcohol conduct wagon speak whisper nuclear";
+var mnemonic = "abandon soul industry virtual edge among wash educate various worth charge good";

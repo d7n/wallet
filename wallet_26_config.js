@@ -1,1 +1,1 @@
-var mnemonic = "brave smile myself slam net fantasy math prize mean seminar general buzz";
+var mnemonic = "never endless gym cradle helmet nature margin plate away merge flock blast";

@@ -1,1 +1,1 @@
-var mnemonic = "govern desk strong civil negative test tongue raise city virus shoe basic";
+var mnemonic = "cave print lion solar right stairs space mountain chimney vast tomato horn";

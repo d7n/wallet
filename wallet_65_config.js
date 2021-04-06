@@ -1,1 +1,1 @@
-var mnemonic = "dismiss unaware chalk fan nerve prefer view soap unhappy depart dog adapt";
+var mnemonic = "insect raccoon ecology can vacant crucial draft push tilt impact maple argue";

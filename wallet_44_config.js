@@ -1,1 +1,1 @@
-var mnemonic = "clean reflect stay melody surface need inherit into reform face fall useful";
+var mnemonic = "kangaroo power endless fitness noodle honey trust glide suggest unaware cash critic";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans panic flock favorite current fold absurd provide observe tool vast ramp";
+var mnemonic = "jelly reward oak hub tag delay simple prepare ghost embark angry vessel";

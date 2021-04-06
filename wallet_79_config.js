@@ -1,1 +1,1 @@
-var mnemonic = "height jewel retreat gloom fit mean cruel paddle usual glue swim sad";
+var mnemonic = "opinion sting globe disorder trust gentle bind mother step measure erosion win";

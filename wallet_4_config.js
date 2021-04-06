@@ -1,1 +1,1 @@
-var mnemonic = "marble swear two expose load venture drastic shop mango adjust kingdom ridge";
+var mnemonic = "that giggle middle teach august immune swift fitness bench someone maximum spare";

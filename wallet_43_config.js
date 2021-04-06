@@ -1,1 +1,1 @@
-var mnemonic = "tourist drive monster copy bottom uniform term divert sunset muscle citizen sentence";
+var mnemonic = "mention swift surface doll filter oblige bunker inside cereal rigid shoot expire";

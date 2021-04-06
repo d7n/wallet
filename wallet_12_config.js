@@ -1,1 +1,1 @@
-var mnemonic = "brave divide leopard food know spike south bottom switch female minor dance";
+var mnemonic = "pave found coral meadow chronic twenty secret stadium maximum march flag clog";

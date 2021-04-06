@@ -1,1 +1,1 @@
-var mnemonic = "syrup useful ranch chat program salmon mean episode primary found valid often";
+var mnemonic = "hold globe special gift pluck special super onion caution kiss board ability";

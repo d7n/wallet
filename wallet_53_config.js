@@ -1,1 +1,1 @@
-var mnemonic = "divert enlist bachelor survey curtain swim alien sample tackle mirror round disagree";
+var mnemonic = "begin hen useful castle angle anger acid century potato cable alien garlic";

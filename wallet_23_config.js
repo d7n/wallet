@@ -1,1 +1,1 @@
-var mnemonic = "merry badge stage faith struggle tape goddess eagle head describe inside farm";
+var mnemonic = "figure because vocal prepare hedgehog disease educate situate horror hill like crunch";

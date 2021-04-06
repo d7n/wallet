@@ -1,1 +1,1 @@
-var mnemonic = "guess father sister blush erase head visual tower benefit hope thing manual";
+var mnemonic = "dutch soft grocery rare into print explain amount attract crush tenant awkward";

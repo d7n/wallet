@@ -1,1 +1,1 @@
-var mnemonic = "mechanic salmon uncover hen course odor brother caught satoshi mammal initial inherit";
+var mnemonic = "cement enemy defense erupt polar steel humor debate pelican giggle size reopen";

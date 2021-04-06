@@ -1,1 +1,1 @@
-var mnemonic = "priority defense follow gadget middle domain dove gap slogan wink lift remove";
+var mnemonic = "eight receive faint enroll tree future during length episode engage ankle method";

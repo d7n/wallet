@@ -1,1 +1,1 @@
-var mnemonic = "royal property spot conduct frown staff own accuse coyote satisfy tape sausage";
+var mnemonic = "copy into before celery actual say false cycle device major drop black";

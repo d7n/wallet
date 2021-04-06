@@ -1,1 +1,1 @@
-var mnemonic = "deer pilot slender sleep bag hawk umbrella detail neck pepper away nose";
+var mnemonic = "tell snow good craft sphere rubber frog duty soda reject cave true";

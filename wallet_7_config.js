@@ -1,1 +1,1 @@
-var mnemonic = "second air fetch beyond robot unhappy sound luggage sentence hope emotion bright";
+var mnemonic = "negative truly essence behave dream kick club bullet quit laugh stick cushion";

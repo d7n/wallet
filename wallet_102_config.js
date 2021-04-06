@@ -1,1 +1,1 @@
-var mnemonic = "pencil rebel pool negative axis lake risk buddy club reduce clump wealth";
+var mnemonic = "collect slide alpha muscle cheese aspect country coach raise rent pumpkin across";

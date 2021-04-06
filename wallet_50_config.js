@@ -1,1 +1,1 @@
-var mnemonic = "sniff banner damp example observe tornado hair agent giant sort insect aim";
+var mnemonic = "dumb ladder remain miracle carpet remain eager minimum chimney install response media";

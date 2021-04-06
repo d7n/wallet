@@ -1,1 +1,1 @@
-var mnemonic = "guard wrestle maple bus shiver scrub topple brick exist evoke consider address";
+var mnemonic = "parent away marriage guard receive match aunt trend eye three slim reduce";

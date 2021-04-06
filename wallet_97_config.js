@@ -1,1 +1,1 @@
-var mnemonic = "whisper latin twin gap goddess glow slush neck sponsor disease fade huge";
+var mnemonic = "conduct foam ordinary all one lawsuit hat engage only sing infant hunt";

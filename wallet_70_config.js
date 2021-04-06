@@ -1,1 +1,1 @@
-var mnemonic = "together stay rotate void mind client attitude wood reflect blossom rude present";
+var mnemonic = "street buffalo sugar month guilt opinion video any effort reveal holiday cost";

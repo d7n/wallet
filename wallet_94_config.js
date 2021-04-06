@@ -1,1 +1,1 @@
-var mnemonic = "elephant board wire sentence buyer clog world gap enrich wife behave tank";
+var mnemonic = "argue yard gauge staff face rebel fatigue cinnamon copy title dynamic mercy";

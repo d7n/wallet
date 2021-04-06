@@ -1,1 +1,1 @@
-var mnemonic = "mix soda indicate sunset act parade match dutch case change foil dance";
+var mnemonic = "pepper rely shaft recipe auction until coin cabbage promote milk bring stove";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight together brass various jelly engage dutch mosquito scrub glove outer term";
+var mnemonic = "around word excess elephant ability elevator because zone wisdom profit surface swallow";

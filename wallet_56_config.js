@@ -1,1 +1,1 @@
-var mnemonic = "squeeze diagram this bargain depend way certain ship behave type rifle jelly";
+var mnemonic = "woman remain regular fade coconut subway goddess hip survey velvet pepper conduct";

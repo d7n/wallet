@@ -1,1 +1,1 @@
-var mnemonic = "cushion series summer rice play jungle airport now judge luxury crucial tackle";
+var mnemonic = "square anxiety spend rack pattern ginger palm execute risk display clay bounce";

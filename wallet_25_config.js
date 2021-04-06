@@ -1,1 +1,1 @@
-var mnemonic = "toe capital regret domain kind fuel pulp middle toilet apology strategy badge";
+var mnemonic = "enemy panda rate artefact quick twin leopard little silk innocent broken recipe";

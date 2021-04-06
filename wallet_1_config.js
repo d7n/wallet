@@ -1,1 +1,1 @@
-var mnemonic = "social strike trap cloth hollow luxury address copy brass behave walk inquiry";
+var mnemonic = "suit quote antenna smoke bone leopard inflict length reason body faith reduce";

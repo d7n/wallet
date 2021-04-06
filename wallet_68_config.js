@@ -1,1 +1,1 @@
-var mnemonic = "earth picture repair write grow ball reduce seek section game muscle ginger";
+var mnemonic = "shadow seed ivory crowd fantasy business tuition lesson forum shoe cluster unique";
