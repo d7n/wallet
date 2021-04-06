@@ -1,1 +1,1 @@
-var mnemonic = "bag sword must mean ozone gym side debris section case blossom ginger";
+var mnemonic = "amateur banner brand risk park invite tissue employ have salmon ethics snake";

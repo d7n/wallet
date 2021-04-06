@@ -1,1 +1,1 @@
-var mnemonic = "save clinic rescue drill silver noodle sustain maple assault athlete sure lake";
+var mnemonic = "tonight dilemma lesson awkward price child cute alter hole small switch chunk";

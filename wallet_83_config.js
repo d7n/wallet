@@ -1,1 +1,1 @@
-var mnemonic = "grid advance grocery treat cage imitate ring echo observe base save lecture";
+var mnemonic = "run surprise yard prize dish shaft wreck roof upon riot bicycle razor";

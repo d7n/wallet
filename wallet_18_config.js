@@ -1,1 +1,1 @@
-var mnemonic = "uniform awesome bleak reject gaze swing magnet illegal thing rapid onion split";
+var mnemonic = "calm purity strategy mystery approve party adult update upon march ceiling seven";

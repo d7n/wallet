@@ -1,1 +1,1 @@
-var mnemonic = "coyote hole canyon local talk behind air universe fiction twin hello grid";
+var mnemonic = "mixture post slab feature sorry furnace electric sand safe broom giggle real";

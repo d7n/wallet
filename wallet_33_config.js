@@ -1,1 +1,1 @@
-var mnemonic = "nurse grace letter catalog win flag try useless pave frown naive talk";
+var mnemonic = "blanket silly mammal leave peasant giant fee feel attack damp upgrade wrong";

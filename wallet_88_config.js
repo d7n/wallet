@@ -1,1 +1,1 @@
-var mnemonic = "crime mystery increase ship friend labor cash upper pause seek unhappy tape";
+var mnemonic = "damage virus firm hurt hospital wealth festival front snow zebra mimic legal";

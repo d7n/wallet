@@ -1,1 +1,1 @@
-var mnemonic = "veteran merit cage limit tag practice song twist slot turtle foot lens";
+var mnemonic = "usage position chunk muscle cannon fade comfort clutch buddy scorpion shop elbow";

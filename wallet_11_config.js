@@ -1,1 +1,1 @@
-var mnemonic = "wood island absorb window cupboard party dice bike stairs maple fold rabbit";
+var mnemonic = "pepper oil law tooth spread cupboard people scrap bitter brave grow cereal";

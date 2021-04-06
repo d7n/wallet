@@ -1,1 +1,1 @@
-var mnemonic = "decorate iron inside saddle rough squirrel lecture base expect engine library half";
+var mnemonic = "when trumpet favorite phone behave deny update soda error hammer robot clump";

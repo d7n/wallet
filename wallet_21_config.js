@@ -1,1 +1,1 @@
-var mnemonic = "february review index amazing boring consider easily enhance truck pool actual someone";
+var mnemonic = "life genius plastic federal merry health agree pond exile gossip few vote";

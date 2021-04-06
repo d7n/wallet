@@ -1,1 +1,1 @@
-var mnemonic = "crystal guess coach drink order shrug wink drift arrive home shoot clerk";
+var mnemonic = "orphan reject odor crush rocket wood shop diary glass cigar ketchup crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "vital arrow dash photo minimum obscure climb pull lottery symbol ridge spin";
+var mnemonic = "merge soda trigger basic father game rebuild leader rely peasant edit fork";

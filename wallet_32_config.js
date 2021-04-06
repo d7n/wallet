@@ -1,1 +1,1 @@
-var mnemonic = "must crack wine cannon furnace little lesson source admit awkward raven empty";
+var mnemonic = "similar wet pig gain next august expose rural border enemy banner horse";

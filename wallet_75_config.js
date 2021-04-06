@@ -1,1 +1,1 @@
-var mnemonic = "word oblige either require deputy region brick hip extra corn urge capital";
+var mnemonic = "laptop bless swift average mother honey place shift humble squirrel design run";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal upset ability sort rare find theory bomb card common piano utility";
+var mnemonic = "dry mosquito arctic rubber filter gaze scatter evidence peanut jazz lottery bless";

@@ -1,1 +1,1 @@
-var mnemonic = "loop follow become relax lumber plunge matter couch renew crane decorate budget";
+var mnemonic = "photo observe tragic ball yellow use neglect convince cabbage aspect reunion horn";

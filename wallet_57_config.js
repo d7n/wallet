@@ -1,1 +1,1 @@
-var mnemonic = "since autumn soap base green tube cereal few shed cousin guide large";
+var mnemonic = "pride tiger palm cigar cover lens purity scorpion spin version wall forget";

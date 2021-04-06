@@ -1,1 +1,1 @@
-var mnemonic = "traffic stomach have chief strike thumb file theory can know goat enter";
+var mnemonic = "surge learn peasant elbow history meat city sadness scrub license lock execute";

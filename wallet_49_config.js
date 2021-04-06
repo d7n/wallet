@@ -1,1 +1,1 @@
-var mnemonic = "evidence cloud special wedding exhibit focus brown swear unlock stem jelly measure";
+var mnemonic = "leader useless rain glow equal area remind mad tent ride split boy";

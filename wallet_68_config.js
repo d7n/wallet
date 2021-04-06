@@ -1,1 +1,1 @@
-var mnemonic = "general group scan attack exist intact domain crystal oval distance version sense";
+var mnemonic = "increase describe virus unaware borrow anxiety board lava number field oval shop";

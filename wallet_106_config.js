@@ -1,1 +1,1 @@
-var mnemonic = "abstract general clarify edit fortune flock upon junk kangaroo worry bone mother";
+var mnemonic = "evil resource illness chuckle shallow possible hen hill priority hope elite impact";

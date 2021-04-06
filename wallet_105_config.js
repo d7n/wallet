@@ -1,1 +1,1 @@
-var mnemonic = "chicken cricket sunset glad frost noise cluster soup gadget scatter ordinary vocal";
+var mnemonic = "engage pumpkin state humble regular era upon demise glory shell sibling promote";

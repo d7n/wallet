@@ -1,1 +1,1 @@
-var mnemonic = "leisure father enemy worth index frozen huge pencil puppy friend squirrel result";
+var mnemonic = "razor certain steak price solution lemon hand estate project city under silent";

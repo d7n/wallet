@@ -1,1 +1,1 @@
-var mnemonic = "order despair tube regret online step borrow direct shed defense dwarf forest";
+var mnemonic = "corn off vivid tooth sentence enlist where section hawk hockey real turkey";

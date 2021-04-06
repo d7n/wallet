@@ -1,1 +1,1 @@
-var mnemonic = "menu nose sad tool erupt dragon review mixed weapon initial width swing";
+var mnemonic = "harsh dose nerve found blind slow cram right moment owner romance laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "notice promote figure budget physical often grace involve host film power label";
+var mnemonic = "art sting wrap moral team normal nice anchor legal equal border never";

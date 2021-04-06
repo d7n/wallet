@@ -1,1 +1,1 @@
-var mnemonic = "shell tape napkin welcome style harsh bid seek patrol best grief resist";
+var mnemonic = "column hair spend venture advice hub skirt shallow float gather stairs position";

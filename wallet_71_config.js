@@ -1,1 +1,1 @@
-var mnemonic = "camp survey lyrics just dish father meadow limit second agree vehicle alpha";
+var mnemonic = "ancient unfold stick walnut among all knee they into celery comfort vague";

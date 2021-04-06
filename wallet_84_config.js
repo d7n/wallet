@@ -1,1 +1,1 @@
-var mnemonic = "tape strike obtain manual once ten child film rather club universe peanut";
+var mnemonic = "indicate favorite swamp middle stable obey siren reflect various extend immense staff";

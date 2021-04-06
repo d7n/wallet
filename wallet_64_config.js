@@ -1,1 +1,1 @@
-var mnemonic = "core crime honey honey rival plug tray fire hint light spare logic";
+var mnemonic = "pyramid cram silver intact radar rare scissors because fuel beyond short ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf key awful park flower since image head suggest demise nest put";
+var mnemonic = "shadow material spider zero baby century barrel evoke wrap final enact jaguar";

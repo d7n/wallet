@@ -1,1 +1,1 @@
-var mnemonic = "april alpha record fan sheriff like truck wrong into lyrics stock source";
+var mnemonic = "burger slim donate shoe delay prosper problem talent good copy remove sample";

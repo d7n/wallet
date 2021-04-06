@@ -1,1 +1,1 @@
-var mnemonic = "impulse ticket aisle special game now federal twist destroy approve dutch tennis";
+var mnemonic = "secret useful march flip answer box afford room strong tip crater seminar";

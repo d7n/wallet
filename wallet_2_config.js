@@ -1,1 +1,1 @@
-var mnemonic = "noble gas lab alone oyster connect method bomb sea swap goose outdoor";
+var mnemonic = "camera similar shaft stool pelican fork harbor arrow survey velvet young relief";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet truck concert render reduce asset clock excite demand buyer mammal era";
+var mnemonic = "filter ostrich liar cousin report pulp gadget team crop usual ribbon drive";

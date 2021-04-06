@@ -1,1 +1,1 @@
-var mnemonic = "print income thumb obvious charge quick require nature shove shift super metal";
+var mnemonic = "book remember host rocket elegant minimum joke awesome payment someone invest twenty";

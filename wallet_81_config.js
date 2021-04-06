@@ -1,1 +1,1 @@
-var mnemonic = "scrap middle firm display pumpkin kind dial acoustic hour lunar balcony artwork";
+var mnemonic = "since clinic boat slot canyon desert spray circle push wink gorilla squirrel";

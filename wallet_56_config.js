@@ -1,1 +1,1 @@
-var mnemonic = "nominee nasty parrot elite domain ghost practice miracle pony supreme denial bulk";
+var mnemonic = "switch crater humor order solar spot allow change tornado ship lesson tornado";

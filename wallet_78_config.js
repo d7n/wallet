@@ -1,1 +1,1 @@
-var mnemonic = "ordinary horn august point lab tobacco busy admit leader also before safe";
+var mnemonic = "expect flower impose apple tunnel traffic hidden topic involve mixture walk shaft";

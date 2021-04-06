@@ -1,1 +1,1 @@
-var mnemonic = "master tank cheese school infant eyebrow banana citizen labor glare camp chicken";
+var mnemonic = "ship snap episode alien survey sail brisk catch wedding cook captain dune";

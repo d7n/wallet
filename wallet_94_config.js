@@ -1,1 +1,1 @@
-var mnemonic = "identify genre head super two trap rapid book grocery table cover alter";
+var mnemonic = "glue raven habit piece ecology seek peace edge comfort humor can error";

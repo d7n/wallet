@@ -1,1 +1,1 @@
-var mnemonic = "manual hollow pull pool law fatigue panther quality venue boy sponsor leaf";
+var mnemonic = "vast help carry rate crazy curious sketch banner infant false dynamic quiz";

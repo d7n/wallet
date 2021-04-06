@@ -1,1 +1,1 @@
-var mnemonic = "scout spoon wage ozone fan must travel case dizzy orchard indoor method";
+var mnemonic = "goddess fun enjoy rally deny reopen match hero own bench junior tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "custom happy naive vast axis soup comic layer casual begin where road";
+var mnemonic = "divert prevent target near pact increase cradle forget tone disorder service goose";

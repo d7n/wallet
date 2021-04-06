@@ -1,1 +1,1 @@
-var mnemonic = "only journey timber balcony improve glove letter release accuse thunder nurse estate";
+var mnemonic = "gold just absent snow link material bind day game depth pause question";

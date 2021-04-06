@@ -1,1 +1,1 @@
-var mnemonic = "flower misery fly inspire stomach pudding horn celery thing wheel regular scare";
+var mnemonic = "solid cement youth skirt riot fox cluster afford one sign guard budget";

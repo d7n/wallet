@@ -1,1 +1,1 @@
-var mnemonic = "door antique suit list laundry early scan juice man cactus apart exhibit";
+var mnemonic = "bullet agree essay smooth burst ask resource rack black table engage soldier";

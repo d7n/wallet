@@ -1,1 +1,1 @@
-var mnemonic = "buddy force entry supply soap female execute what discover spike build allow";
+var mnemonic = "reject poem fossil segment duck predict birth track easy spirit aerobic waste";

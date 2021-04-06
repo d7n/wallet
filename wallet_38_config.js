@@ -1,1 +1,1 @@
-var mnemonic = "alien power sausage survey vague matter super coral unhappy fancy raven glory";
+var mnemonic = "kitchen bachelor sketch neither shine legal consider private faint junior settle lizard";

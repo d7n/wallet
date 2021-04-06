@@ -1,1 +1,1 @@
-var mnemonic = "follow nominee dream quarter snap filter walnut unit lemon life friend abstract";
+var mnemonic = "swim field arrive snow again lecture north clog patient win jaguar fever";

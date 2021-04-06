@@ -1,1 +1,1 @@
-var mnemonic = "trend aspect monster moral indicate rival twice critic virus penalty creek run";
+var mnemonic = "oblige fall alpha rough benefit game wet call salad cycle castle museum";

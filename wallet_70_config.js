@@ -1,1 +1,1 @@
-var mnemonic = "visit despair gossip forum music sell person now recipe will victory meat";
+var mnemonic = "north rich runway please swarm avoid grocery equip sugar foster gloom divorce";

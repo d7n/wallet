@@ -1,1 +1,1 @@
-var mnemonic = "pave obvious lonely spare border egg nature way excess uncover hire aisle";
+var mnemonic = "rug couple now together burst effort various sibling pond thought check fan";

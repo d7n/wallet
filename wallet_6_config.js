@@ -1,1 +1,1 @@
-var mnemonic = "solve skirt keen wing course broccoli empower excuse arctic creek basket stomach";
+var mnemonic = "kick symptom brief traffic today own reform faculty review nerve emerge toddler";

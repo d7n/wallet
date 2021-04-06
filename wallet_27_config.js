@@ -1,1 +1,1 @@
-var mnemonic = "empty hero summer loyal live special blame sweet glide forum mutual bleak";
+var mnemonic = "member dish cry ethics tube luggage erode ginger spring submit small know";

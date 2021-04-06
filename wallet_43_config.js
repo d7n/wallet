@@ -1,1 +1,1 @@
-var mnemonic = "place group syrup flock year ceiling upgrade whale siren gossip people congress";
+var mnemonic = "tree rate toy win island tiger salad glue immense foster item digital";

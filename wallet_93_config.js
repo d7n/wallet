@@ -1,1 +1,1 @@
-var mnemonic = "mushroom tag august uncle blue midnight demise wood century baby wine voice";
+var mnemonic = "fluid improve plate match board obtain stomach usage leisure trade scatter snap";

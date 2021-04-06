@@ -1,1 +1,1 @@
-var mnemonic = "enjoy off paddle follow quick gate talk shed blouse donkey worry toward";
+var mnemonic = "pilot peace approve royal midnight write brief noise spread interest credit mask";

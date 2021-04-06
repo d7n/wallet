@@ -1,1 +1,1 @@
-var mnemonic = "snow access clutch blouse sound scale flame nasty wheat habit stereo aim";
+var mnemonic = "finish manage argue device voyage vicious account fantasy trick silent parent flame";

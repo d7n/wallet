@@ -1,1 +1,1 @@
-var mnemonic = "rose angle spin come bunker oyster stick agent page behave umbrella action";
+var mnemonic = "hundred eternal estate wool zone shallow impact youth rare limb spawn crunch";

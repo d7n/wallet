@@ -1,1 +1,1 @@
-var mnemonic = "idea shoot whisper shallow prosper color turkey price annual wink kick correct";
+var mnemonic = "hybrid slogan divide two churn tribe bless core forward file cattle annual";

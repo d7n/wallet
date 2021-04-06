@@ -1,1 +1,1 @@
-var mnemonic = "grain feature equal surprise diagram holiday around banana hazard profit deer come";
+var mnemonic = "hill boss point casual thought unaware impose cave person limit point animal";

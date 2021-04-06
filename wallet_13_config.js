@@ -1,1 +1,1 @@
-var mnemonic = "bomb party lady case dial basket brave pet execute again dizzy cinnamon";
+var mnemonic = "anchor journey say ivory gesture sketch spread myself adult winter pride misery";

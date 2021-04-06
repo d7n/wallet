@@ -1,1 +1,1 @@
-var mnemonic = "stand firm danger virtual despair proof hover people birth final couple liar";
+var mnemonic = "cruise accuse beef page reopen market dream auto suspect fog grit tank";

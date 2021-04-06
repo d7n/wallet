@@ -1,1 +1,1 @@
-var mnemonic = "very car action parent delay photo squeeze cream two good image dolphin";
+var mnemonic = "bicycle radar stamp sheriff wrist aware note pencil fire cabin board mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder stadium column safe damp comic hour boost health diesel moon network";
+var mnemonic = "kiwi grid cost injury retreat sting sphere beach mandate modify clerk action";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs merit wear manual monitor erupt spring describe axis damp tree wreck";
+var mnemonic = "bullet battle pilot use ivory quantum tail relax used wagon element crop";

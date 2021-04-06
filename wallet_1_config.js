@@ -1,1 +1,1 @@
-var mnemonic = "bulk ceiling flag festival put bid add submit wealth grocery toy deny";
+var mnemonic = "elite satisfy make skin opera glory hospital idle advice before pretty stove";

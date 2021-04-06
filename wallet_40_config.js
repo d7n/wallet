@@ -1,1 +1,1 @@
-var mnemonic = "mix pink element ethics select slush wasp gaze man chunk wrong fork";
+var mnemonic = "uphold devote taste reopen pyramid tank yard pear wave custom dust digital";

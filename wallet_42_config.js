@@ -1,1 +1,1 @@
-var mnemonic = "green phrase distance rescue marble retreat acoustic wolf illegal chapter sweet fancy";
+var mnemonic = "music sing yellow utility wrestle oval crisp cook resemble permit ordinary under";

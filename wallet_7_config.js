@@ -1,1 +1,1 @@
-var mnemonic = "bone elder doll cook aunt chef dish cheese decline vault roast mixture";
+var mnemonic = "mom hub flight barely twist energy there escape assume outdoor upgrade guide";

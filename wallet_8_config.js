@@ -1,1 +1,1 @@
-var mnemonic = "cigar happy case gauge element urge gaze public calm amateur subject silly";
+var mnemonic = "palace despair awesome kick label damage smile light helmet travel inflict deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "recall elbow scorpion spawn want sign mobile someone unknown episode garage dragon";
+var mnemonic = "tourist pill tip syrup flat prevent dolphin swift legal race cabin survey";

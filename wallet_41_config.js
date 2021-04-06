@@ -1,1 +1,1 @@
-var mnemonic = "avocado want gate sunset novel bus possible genius enemy fish client book";
+var mnemonic = "club session mass crater access arrive scatter license predict spoon radar resist";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen there emerge away mystery engage immense depend memory pepper between version";
+var mnemonic = "hole cook cover yard armed chaos mouse disease agent color actor tortoise";

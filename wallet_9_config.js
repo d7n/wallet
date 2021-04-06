@@ -1,1 +1,1 @@
-var mnemonic = "opera pelican scare size ahead prize more eagle junk detect away mango";
+var mnemonic = "tree project daring sure magnet repair pigeon bullet border power display emotion";

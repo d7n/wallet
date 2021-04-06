@@ -1,1 +1,1 @@
-var mnemonic = "black ripple force pulp company thumb obey plug across emotion remove trumpet";
+var mnemonic = "wrist general exhibit firm screen oblige amused raven ecology grass hospital lock";

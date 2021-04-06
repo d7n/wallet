@@ -1,1 +1,1 @@
-var mnemonic = "language case nerve metal mask forum animal clerk music exact wrestle effort";
+var mnemonic = "dinner artist slab edge legal flame album lunar chat another trust equip";

@@ -1,1 +1,1 @@
-var mnemonic = "firm minor note divorce devote output key rent mutual forget cave spider";
+var mnemonic = "squeeze energy tone flame better direct verify daring spawn target frog guilt";

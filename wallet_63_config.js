@@ -1,1 +1,1 @@
-var mnemonic = "enlist actor adjust surprise ordinary glove normal chimney better merge adjust glad";
+var mnemonic = "fever cruel north junk potato rail exchange slice divert winner keen wink";

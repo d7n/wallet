@@ -1,1 +1,1 @@
-var mnemonic = "art seven sorry believe adult require situate ozone book venue zero juice";
+var mnemonic = "viable civil excite teach slice major glue clip retire anger labor ridge";

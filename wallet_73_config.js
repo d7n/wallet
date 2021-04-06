@@ -1,1 +1,1 @@
-var mnemonic = "turkey awful fit salute frost dinosaur duck state sibling window army grace";
+var mnemonic = "half group leader slogan smoke stomach drip canyon zebra hotel ridge inmate";

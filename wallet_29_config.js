@@ -1,1 +1,1 @@
-var mnemonic = "aisle volume project theory truck pitch love nature easily sail source climb";
+var mnemonic = "scheme example timber bird invest combine glare purse aisle fever devote inform";

@@ -1,1 +1,1 @@
-var mnemonic = "image notable muscle mad blast latin small option cross arrive crouch hip";
+var mnemonic = "animal thing season ladder bracket leopard survey boring despair employ urban abandon";

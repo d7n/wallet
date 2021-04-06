@@ -1,1 +1,1 @@
-var mnemonic = "giraffe multiply ethics pigeon person scorpion want rough reason price dumb bundle";
+var mnemonic = "liquid parent cherry peanut someone motor stage spot drill service forum veteran";

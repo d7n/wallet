@@ -1,1 +1,1 @@
-var mnemonic = "below turn brisk pet harvest crater summer height project hint green track";
+var mnemonic = "dose theme resemble blouse price surge view twice tomato lawn occur worry";

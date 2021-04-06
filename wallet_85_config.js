@@ -1,1 +1,1 @@
-var mnemonic = "aspect heavy drink merge provide deer rain mammal sheriff inmate apple explain";
+var mnemonic = "annual liberty shove enroll smart wine spray artist basket always degree bid";
