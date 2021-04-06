@@ -1,1 +1,1 @@
-var mnemonic = "evil guard hundred fame hurdle truck advice spider prefer pretty throw exhibit";
+var mnemonic = "layer install receive chaos affair involve logic rate blanket ball skill together";

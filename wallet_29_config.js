@@ -1,1 +1,1 @@
-var mnemonic = "ancient ask royal bitter stairs sound vacant express cash smooth wave meat";
+var mnemonic = "arrive wealth fabric armor huge erupt effort way wrestle soft suspect illness";

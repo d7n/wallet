@@ -1,1 +1,1 @@
-var mnemonic = "social fruit slide lecture corn margin fine kingdom gospel under potato this";
+var mnemonic = "glove shed brush cat scout vault churn leave wedding drastic topic come";

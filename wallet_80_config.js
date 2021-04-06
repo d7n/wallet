@@ -1,1 +1,1 @@
-var mnemonic = "climb lonely interest speak pretty girl answer rabbit better nation smile account";
+var mnemonic = "afraid liberty candy smart fiction defy over click boost spirit enter enhance";

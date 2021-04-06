@@ -1,1 +1,1 @@
-var mnemonic = "equal shuffle crystal pupil universe concert weird live knee recipe virus artist";
+var mnemonic = "erase scheme embody stool gospel source firm clutch client crystal utility program";

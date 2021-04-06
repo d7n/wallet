@@ -1,1 +1,1 @@
-var mnemonic = "eternal hamster gather lawsuit frequent maze toilet fence blind grant repair success";
+var mnemonic = "grain sunny gap brush drum either rocket fog tape fashion mammal future";

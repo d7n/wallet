@@ -1,1 +1,1 @@
-var mnemonic = "ability benefit crystal bundle satisfy cake sweet glance slender slide tool onion";
+var mnemonic = "gloom antenna depth equal pact tuna female modify aisle govern item curtain";

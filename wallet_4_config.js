@@ -1,1 +1,1 @@
-var mnemonic = "leave pave easily evil caught welcome behind rescue wire survey toddler manual";
+var mnemonic = "involve simple kick treat battle buffalo parent number delay lecture art eye";

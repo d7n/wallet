@@ -1,1 +1,1 @@
-var mnemonic = "check mammal source toy math sun fluid frequent option bubble reopen cliff";
+var mnemonic = "odor mixed bless food picture topic oak author wash carpet abandon antenna";

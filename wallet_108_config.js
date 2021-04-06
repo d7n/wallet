@@ -1,1 +1,1 @@
-var mnemonic = "about foil dry mystery dirt boy very photo detail brief live mistake";
+var mnemonic = "sand sugar ring apart brick type praise ten parent forest must old";

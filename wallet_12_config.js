@@ -1,1 +1,1 @@
-var mnemonic = "total early skin tube add answer gravity phrase evolve ask lesson strong";
+var mnemonic = "hamster among repeat report confirm memory kit vehicle matter danger skin medal";

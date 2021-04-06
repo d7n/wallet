@@ -1,1 +1,1 @@
-var mnemonic = "spy cake three type family river note involve kidney feel dilemma dolphin";
+var mnemonic = "leopard brave favorite picnic forward theme involve galaxy bless essence relax awesome";

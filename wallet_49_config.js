@@ -1,1 +1,1 @@
-var mnemonic = "kitten demise false sunset scene hawk easily gospel absent vacant tongue leopard";
+var mnemonic = "three motion alone lift invite response onion vast state organ pull rich";

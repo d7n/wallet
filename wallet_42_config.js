@@ -1,1 +1,1 @@
-var mnemonic = "depart whisper rug private engine soldier lottery slight glide edit dwarf palm";
+var mnemonic = "castle notice tiny battle miss brick lens into mandate acid steak thrive";

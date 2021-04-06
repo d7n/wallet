@@ -1,1 +1,1 @@
-var mnemonic = "pulp drama usual grunt cloth damage trade mystery wine spoil expand push";
+var mnemonic = "still erupt manual apart screen anxiety regret skate rib era card country";

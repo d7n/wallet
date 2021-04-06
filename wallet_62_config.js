@@ -1,1 +1,1 @@
-var mnemonic = "silly pony rose please buzz outside own kitten fault tourist host salad";
+var mnemonic = "peace steak example wreck pact damage aunt fence merge sting trial regular";

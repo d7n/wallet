@@ -1,1 +1,1 @@
-var mnemonic = "uphold food place tent still state lab extend venture knife school olympic";
+var mnemonic = "tip reform trick public way puzzle embrace broken clever cousin auto hen";

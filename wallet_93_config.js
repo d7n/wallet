@@ -1,1 +1,1 @@
-var mnemonic = "observe moment maximum mutual bid antenna utility good peasant code fatal letter";
+var mnemonic = "soon relax kiss scene six card pumpkin music boat sail accuse decorate";

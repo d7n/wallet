@@ -1,1 +1,1 @@
-var mnemonic = "climb tuna practice worry cream coast memory churn air neck net cable";
+var mnemonic = "echo quit pottery fish increase dress loan glare safe sound angle quality";

@@ -1,1 +1,1 @@
-var mnemonic = "film must wonder candy one nature alter drum record stadium jealous parade";
+var mnemonic = "until coyote kidney expose educate mean wine primary bread mammal fetch process";

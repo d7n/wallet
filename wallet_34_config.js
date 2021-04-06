@@ -1,1 +1,1 @@
-var mnemonic = "stool guard swamp snap bright kitten second material rack weapon visit hungry";
+var mnemonic = "ill laundry describe term vibrant employ plate garment sphere theory army jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "term chapter coral gym jewel mirror pottery history valid disagree object narrow";
+var mnemonic = "rare badge ripple shell dwarf around claw divide quiz session mirror chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "use save negative very nothing elevator divorce control try gesture smoke merge";
+var mnemonic = "chunk raven goat cliff repeat poet flavor shadow student oval stand tuna";

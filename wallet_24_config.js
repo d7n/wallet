@@ -1,1 +1,1 @@
-var mnemonic = "lion citizen divorce avocado record van art bid pill dilemma useful clarify";
+var mnemonic = "universe legend suggest matrix gloom domain audit like peace warfare wasp swear";

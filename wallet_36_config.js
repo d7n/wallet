@@ -1,1 +1,1 @@
-var mnemonic = "solid garden drill nuclear carbon whale box family sudden excite carbon range";
+var mnemonic = "rail list image guide outside resist dose enemy wait borrow transfer cross";

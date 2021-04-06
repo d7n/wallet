@@ -1,1 +1,1 @@
-var mnemonic = "piece daughter pass piece company hedgehog belt carry tomorrow core change clean";
+var mnemonic = "baby group puppy try very fork pretty luggage toward rely fork left";

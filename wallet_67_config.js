@@ -1,1 +1,1 @@
-var mnemonic = "cream dentist smooth secret solve smooth reason aim sleep gadget helmet false";
+var mnemonic = "faint extra slow sphere flag patch total flavor follow empower smooth reform";

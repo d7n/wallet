@@ -1,1 +1,1 @@
-var mnemonic = "industry earth puzzle vivid green nest typical coconut chef very reform bench";
+var mnemonic = "yellow artefact fever cousin urge bitter basic clog panic grocery stick spare";

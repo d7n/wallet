@@ -1,1 +1,1 @@
-var mnemonic = "popular jungle lady hire surprise odor index talk engine switch resemble pattern";
+var mnemonic = "defy learn anchor name digital old lawsuit magic own battle cruel wolf";

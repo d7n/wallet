@@ -1,1 +1,1 @@
-var mnemonic = "mixed mobile economy hamster glove stove charge gravity into blanket mask mansion";
+var mnemonic = "frame crew spread radar jump three resource proof finger maple custom okay";

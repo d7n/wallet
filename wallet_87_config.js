@@ -1,1 +1,1 @@
-var mnemonic = "middle lottery climb snow concert depth spice clock chalk type ozone obey";
+var mnemonic = "defy mercy father doll opera gadget tank desk noodle faith toy service";

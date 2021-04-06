@@ -1,1 +1,1 @@
-var mnemonic = "popular slice worth dune inch item awkward melt garlic survey forward radio";
+var mnemonic = "dumb case involve steak carpet tobacco category discover reason gift shoulder dwarf";

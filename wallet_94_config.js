@@ -1,1 +1,1 @@
-var mnemonic = "absent fitness quiz giant carbon hobby attitude gather replace ensure figure wise";
+var mnemonic = "spin ride accuse belt acoustic prize gas taste where tribe inquiry analyst";

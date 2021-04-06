@@ -1,1 +1,1 @@
-var mnemonic = "symbol under crunch myth tennis humble put wild opinion panel find rhythm";
+var mnemonic = "into actress better ancient elephant maximum scene plastic ancient sunny solve term";

@@ -1,1 +1,1 @@
-var mnemonic = "twice sun roof donor curious dress tunnel immune essay sand useful fancy";
+var mnemonic = "bargain ozone wonder borrow supreme choice insane fruit doll bean tenant shed";

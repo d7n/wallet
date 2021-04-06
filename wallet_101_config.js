@@ -1,1 +1,1 @@
-var mnemonic = "coast climb silk empty square toss order badge rebuild mystery yard inhale";
+var mnemonic = "bid observe timber slush fever winner whisper amount negative egg gadget split";

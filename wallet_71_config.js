@@ -1,1 +1,1 @@
-var mnemonic = "must token aisle shield globe unusual pill false perfect quiz lamp enrich";
+var mnemonic = "hunt quarter upgrade rib media used fossil father private warrior toward scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "predict unusual cool phone develop idle life game once clump force clinic";
+var mnemonic = "final visit river scene motion desert eagle sweet cat settle floor cry";

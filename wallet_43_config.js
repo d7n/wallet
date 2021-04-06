@@ -1,1 +1,1 @@
-var mnemonic = "universe casino deer crunch spatial debate yellow divide recall kiss evil flight";
+var mnemonic = "favorite spray man label soup property balance theme slender delay jeans lift";

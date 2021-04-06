@@ -1,1 +1,1 @@
-var mnemonic = "bubble misery mobile sweet night stuff culture search grain height lumber below";
+var mnemonic = "vicious summer buddy garlic powder hundred reunion opinion toward tide swarm van";

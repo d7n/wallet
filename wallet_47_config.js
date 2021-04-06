@@ -1,1 +1,1 @@
-var mnemonic = "wife volume report essay provide delay cheap plastic aisle park pave census";
+var mnemonic = "rabbit way great quit voyage better rebuild ethics bulb violin fame outside";

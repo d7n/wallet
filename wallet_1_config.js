@@ -1,1 +1,1 @@
-var mnemonic = "cricket fossil dress method equip attend paddle must burst usual divide pipe";
+var mnemonic = "present flat odor excuse surround barely under buyer brother response party lumber";

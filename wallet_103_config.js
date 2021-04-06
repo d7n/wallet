@@ -1,1 +1,1 @@
-var mnemonic = "word gather vacuum shrug else sight athlete give critic opera journey morning";
+var mnemonic = "pilot inquiry portion above west process mechanic moment fade festival visit robust";

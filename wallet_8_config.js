@@ -1,1 +1,1 @@
-var mnemonic = "laugh angry spare token joke dish embody sail arrow cool view wild";
+var mnemonic = "siege split doctor canoe clown floor describe music other tip cannon picnic";

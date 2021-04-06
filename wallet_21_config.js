@@ -1,1 +1,1 @@
-var mnemonic = "gadget tackle knife toilet base boil will sibling rebuild produce slogan cat";
+var mnemonic = "explain winner voice body mother again provide curve athlete unique junior liar";

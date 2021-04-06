@@ -1,1 +1,1 @@
-var mnemonic = "giant pride note page relief fix spell bid inspire hair bonus ahead";
+var mnemonic = "swarm hungry kid solve exact history antenna gym enrich expire caution miss";

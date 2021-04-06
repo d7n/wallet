@@ -1,1 +1,1 @@
-var mnemonic = "dwarf nothing sick sudden marine unusual faint tooth such tank book loan";
+var mnemonic = "income lawsuit brush draft flush police shop camp science horn subject stone";

@@ -1,1 +1,1 @@
-var mnemonic = "priority wise outside apart garbage anger oval cousin kingdom opera oyster waste";
+var mnemonic = "improve away timber balcony shallow ship end essence film enjoy seed fury";

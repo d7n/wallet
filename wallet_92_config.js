@@ -1,1 +1,1 @@
-var mnemonic = "truth another version rotate cute few wedding enrich pencil sight vibrant rough";
+var mnemonic = "display fork beach device tiger avoid glow school income add track coil";

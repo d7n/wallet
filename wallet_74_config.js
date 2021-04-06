@@ -1,1 +1,1 @@
-var mnemonic = "october undo surprise equip version photo symptom black nest naive other feature";
+var mnemonic = "vacuum wait garlic endless undo quantum wonder exclude identify coach forward logic";

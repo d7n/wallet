@@ -1,1 +1,1 @@
-var mnemonic = "install gasp twenty clip voice vapor nasty act whip hero swamp hole";
+var mnemonic = "wheat fiscal side arm ensure base bird prison bird sunny vivid benefit";

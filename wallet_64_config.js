@@ -1,1 +1,1 @@
-var mnemonic = "grow whip museum balance one home settle junior burst depend sign discover";
+var mnemonic = "leader bulk vivid patrol pumpkin wide joy woman lock auction key kiss";

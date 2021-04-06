@@ -1,1 +1,1 @@
-var mnemonic = "acquire destroy pelican decorate senior funny artwork endless abandon plunge solid emerge";
+var mnemonic = "disease sleep damp shoulder sweet agent illegal change flip crystal tomorrow cushion";

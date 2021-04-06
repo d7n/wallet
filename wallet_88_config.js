@@ -1,1 +1,1 @@
-var mnemonic = "fresh body weapon glue end milk theme thing law goddess produce control";
+var mnemonic = "very mouse garlic require cousin great art enable right empower method impose";

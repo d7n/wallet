@@ -1,1 +1,1 @@
-var mnemonic = "patient permit voyage tongue pudding angle super citizen fan emotion between lucky";
+var mnemonic = "false tortoise soda debris zoo stay runway expire renew fluid panda suffer";

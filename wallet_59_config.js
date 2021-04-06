@@ -1,1 +1,1 @@
-var mnemonic = "file eternal attitude vivid subject release gain spider cattle nerve symbol bless";
+var mnemonic = "shoulder rely office ski soldier also gather urge muffin device stem night";

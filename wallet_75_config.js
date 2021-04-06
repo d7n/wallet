@@ -1,1 +1,1 @@
-var mnemonic = "retire estate hamster fringe front hip alarm monster wrong view couple grape";
+var mnemonic = "derive angry bounce seminar click neutral rib puzzle speed almost anxiety chuckle";

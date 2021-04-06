@@ -1,1 +1,1 @@
-var mnemonic = "gym episode finish reopen target siege opinion weather solution occur rescue envelope";
+var mnemonic = "tip hobby wine kit wet mushroom weapon bounce moral riot action much";

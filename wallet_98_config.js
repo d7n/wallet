@@ -1,1 +1,1 @@
-var mnemonic = "tennis notable victory kangaroo amazing sample zone explain survey thought blood quote";
+var mnemonic = "parent twin easily hunt rhythm basic assault demand bleak husband item autumn";

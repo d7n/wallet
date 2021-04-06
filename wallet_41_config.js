@@ -1,1 +1,1 @@
-var mnemonic = "joke street seed enforce kingdom alarm truck demise possible cloth submit alcohol";
+var mnemonic = "detail raw blouse extra endless punch uncover decorate spray absent prosper bracket";

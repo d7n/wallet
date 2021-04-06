@@ -1,1 +1,1 @@
-var mnemonic = "damp view group bid clay good puzzle fee turkey snack modify salad";
+var mnemonic = "raise twist follow boat obey undo guilt need olympic detail live motor";

@@ -1,1 +1,1 @@
-var mnemonic = "bar rival spot hope cry duty wheat good tip globe cherry equip";
+var mnemonic = "vapor inherit erode scout only spread lottery recycle address kingdom token host";

@@ -1,1 +1,1 @@
-var mnemonic = "clever trouble cannon little asthma ensure indoor rain else cream cup lemon";
+var mnemonic = "gown please napkin toast habit punch casino liberty trick grunt picnic time";

@@ -1,1 +1,1 @@
-var mnemonic = "mom manage eye alone level mechanic casino venue design slush feature legal";
+var mnemonic = "nice happy learn truck buddy twin outer cradle best skate myself surge";

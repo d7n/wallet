@@ -1,1 +1,1 @@
-var mnemonic = "polar frost truck elevator bar power fence advice unknown when apology erase";
+var mnemonic = "analyst strike reopen angry snake myself never pave helmet family border truck";

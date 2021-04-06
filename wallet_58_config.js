@@ -1,1 +1,1 @@
-var mnemonic = "endorse suffer brand turtle begin rose forest jealous wise thank ignore improve";
+var mnemonic = "liar panther tortoise push ostrich bullet cover inform pave grant equip whale";

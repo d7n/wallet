@@ -1,1 +1,1 @@
-var mnemonic = "cabin barrel sphere tag hen squirrel catch area worth they valid sad";
+var mnemonic = "few monitor hole film drink kiss sister kidney cannon scare letter color";

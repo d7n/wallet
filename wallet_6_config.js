@@ -1,1 +1,1 @@
-var mnemonic = "spy fog fabric boost air again code panel keen view hotel manual";
+var mnemonic = "manual prison speed thrive citizen critic pledge false method quarter knee small";

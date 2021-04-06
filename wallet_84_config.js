@@ -1,1 +1,1 @@
-var mnemonic = "knee meadow stadium dove scrub twenty agree away east anxiety canal verify";
+var mnemonic = "type wall annual aspect clip infant whale custom truck kick shrimp spoon";

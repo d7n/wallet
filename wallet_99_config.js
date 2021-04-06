@@ -1,1 +1,1 @@
-var mnemonic = "fire later make throw priority three direct crunch scrap hidden relax dismiss";
+var mnemonic = "young weasel front bicycle antique bubble must tank exercise nurse horror drill";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp measure ramp fashion ritual fork height style crater cushion shine island";
+var mnemonic = "gather velvet wrist struggle cricket nut foam fix address upgrade torch gate";

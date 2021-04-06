@@ -1,1 +1,1 @@
-var mnemonic = "worth bind bamboo fossil pupil original arm unit volume enforce claim clinic";
+var mnemonic = "caught dilemma trend miss kid elegant memory keep west coach pyramid surround";

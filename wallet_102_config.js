@@ -1,1 +1,1 @@
-var mnemonic = "hire light welcome motion orbit loop cactus shock frown insect level episode";
+var mnemonic = "april never awkward develop print finish achieve way vocal case book ginger";

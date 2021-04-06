@@ -1,1 +1,1 @@
-var mnemonic = "tortoise aunt odor scorpion caution monster slush also gather copper slot call";
+var mnemonic = "uncover only usage payment jelly forest almost alarm loud enjoy luxury fork";

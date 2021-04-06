@@ -1,1 +1,1 @@
-var mnemonic = "congress blade accuse library deliver glare flag beach ghost please helmet second";
+var mnemonic = "segment question engage hidden notable sugar dog arena century mimic random unfold";

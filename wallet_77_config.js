@@ -1,1 +1,1 @@
-var mnemonic = "reopen saddle mom scrap clerk between donate country struggle glue lock motion";
+var mnemonic = "female milk tone add flock unfair always physical century leader tomato author";

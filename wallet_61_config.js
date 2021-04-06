@@ -1,1 +1,1 @@
-var mnemonic = "mule sound million cat setup recipe pulp inhale antenna element later stamp";
+var mnemonic = "balance enemy great ignore message rival left smile ice advice pigeon shuffle";

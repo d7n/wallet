@@ -1,1 +1,1 @@
-var mnemonic = "acoustic puppy tumble person soup hospital blast unhappy rebuild pigeon enroll elite";
+var mnemonic = "guilt lottery theory rigid absent rapid oblige wrist cereal unveil clarify title";

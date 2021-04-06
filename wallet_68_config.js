@@ -1,1 +1,1 @@
-var mnemonic = "supply asset cousin field allow truth judge radio mixed giant wrist fossil";
+var mnemonic = "assume perfect mad push spawn proof squeeze matrix illegal label crisp arch";

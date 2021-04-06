@@ -1,1 +1,1 @@
-var mnemonic = "chuckle summer ice hope wool issue boss diet major meadow race kiss";
+var mnemonic = "recipe awake slot degree mountain cost erupt please interest capable session fuel";

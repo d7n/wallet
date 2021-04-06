@@ -1,1 +1,1 @@
-var mnemonic = "spot detect version glove various tuition easy pony task organ own film";
+var mnemonic = "hockey traffic embark slam blouse milk local prison attitude frequent film hub";

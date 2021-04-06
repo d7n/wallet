@@ -1,1 +1,1 @@
-var mnemonic = "crush volume sibling garlic nice vivid unusual august amused smart trust summer";
+var mnemonic = "rebel buyer method champion slam shoot final quit minimum country coral medal";

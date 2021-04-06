@@ -1,1 +1,1 @@
-var mnemonic = "pigeon during deliver subject foot become toy cluster hobby wet cute paddle";
+var mnemonic = "enroll vendor coast list health frequent century sign ostrich divide shock once";

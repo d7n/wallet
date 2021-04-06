@@ -1,1 +1,1 @@
-var mnemonic = "secret blossom fluid spend guess husband bind devote turkey glow excuse marble";
+var mnemonic = "oxygen bless slot amused phrase voyage wealth practice thank leg lazy bright";
