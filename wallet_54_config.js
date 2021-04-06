@@ -1,1 +1,1 @@
-var mnemonic = "behind swift bundle merge crazy brain power lady oven affair cargo fluid";
+var mnemonic = "believe type wage invest wash train brother bacon move cream wrestle flat";

@@ -1,1 +1,1 @@
-var mnemonic = "debate iron hint mother decrease art duty gate leader holiday very rapid";
+var mnemonic = "trust human reduce know test base casino amused canyon digital boil add";

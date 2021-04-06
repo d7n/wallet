@@ -1,1 +1,1 @@
-var mnemonic = "canyon gown meat sword drip example among fine target flag pen solid";
+var mnemonic = "envelope laugh benefit path slight repeat labor federal swim seminar flower monster";

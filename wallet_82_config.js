@@ -1,1 +1,1 @@
-var mnemonic = "special inherit raccoon wheel sound list print brain stage gravity neither tonight";
+var mnemonic = "endless pride puppy among sunny swift glow gather sword mystery soccer detail";

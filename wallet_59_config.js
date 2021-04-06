@@ -1,1 +1,1 @@
-var mnemonic = "love candy mimic fancy buffalo humor discover that crane tiger often street";
+var mnemonic = "fringe okay exchange laugh satisfy wear point cherry heavy eight tilt amount";

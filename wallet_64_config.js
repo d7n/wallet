@@ -1,1 +1,1 @@
-var mnemonic = "credit gain frozen leave message awesome royal involve hazard always define feed";
+var mnemonic = "toss fiber friend analyst express menu three pistol tired album pony own";

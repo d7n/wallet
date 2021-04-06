@@ -1,1 +1,1 @@
-var mnemonic = "gallery nurse tower total feed network shrimp call accuse spray convince spoil";
+var mnemonic = "twenty remember easy miracle laptop mountain snack stable join reflect chicken bulb";

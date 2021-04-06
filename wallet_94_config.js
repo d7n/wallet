@@ -1,1 +1,1 @@
-var mnemonic = "umbrella whip member dune ask job inspire subject cabbage hospital abuse bachelor";
+var mnemonic = "alien slam blouse swing snack oxygen piece blossom mother often damage taste";

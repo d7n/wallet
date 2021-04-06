@@ -1,1 +1,1 @@
-var mnemonic = "outer slab coach sunny chuckle father insect bracket laugh raven mechanic offer";
+var mnemonic = "clutch slab fame position knife rather slide sea column canvas option utility";

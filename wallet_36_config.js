@@ -1,1 +1,1 @@
-var mnemonic = "major pact system raven cover inch rebuild spy dog travel stool embody";
+var mnemonic = "like slab gravity lounge energy measure height camp spoil peace shove hamster";

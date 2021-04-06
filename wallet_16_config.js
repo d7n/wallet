@@ -1,1 +1,1 @@
-var mnemonic = "jewel decline razor kite remove appear home dust kite indicate barrel arctic";
+var mnemonic = "edit laptop cake spider nation enjoy pyramid sort marble mirror where myth";

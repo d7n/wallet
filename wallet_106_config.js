@@ -1,1 +1,1 @@
-var mnemonic = "lucky forum round position slide ten million pride lizard better pencil twist";
+var mnemonic = "address setup frozen evil meadow until just call slice frog daring strong";

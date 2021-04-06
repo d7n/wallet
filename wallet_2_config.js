@@ -1,1 +1,1 @@
-var mnemonic = "tower net update hero excite direct detect fame celery sister demise toy";
+var mnemonic = "accuse cheap cake kick crucial region corn pony desert file double hero";

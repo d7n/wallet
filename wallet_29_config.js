@@ -1,1 +1,1 @@
-var mnemonic = "cloud rubber tone dose silly wife title shuffle liar payment crop lonely";
+var mnemonic = "wave any require else adapt fault goose main pyramid chair coast now";

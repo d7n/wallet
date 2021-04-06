@@ -1,1 +1,1 @@
-var mnemonic = "foster orient vendor degree give tuition creek quiz ridge draft frequent basic";
+var mnemonic = "kidney flush loop transfer jaguar become caught cigar age spring setup route";

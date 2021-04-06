@@ -1,1 +1,1 @@
-var mnemonic = "admit spawn exhibit pause seven click ill banner grain ski come equal";
+var mnemonic = "gain damp soccer thing cinnamon reveal reveal impose jazz appear voice hope";

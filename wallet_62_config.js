@@ -1,1 +1,1 @@
-var mnemonic = "admit order share actor link nuclear cool general sample put predict orbit";
+var mnemonic = "skin mask cradle arrest shop shop fossil alter stove shove trumpet nut";

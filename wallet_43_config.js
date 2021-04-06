@@ -1,1 +1,1 @@
-var mnemonic = "vessel spread swallow pigeon situate such fine tackle embark another typical urban";
+var mnemonic = "current nut remove dignity orange spell mule fat cheese symbol tag rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "ride laugh sibling erase dwarf can add traffic cream apology original unaware";
+var mnemonic = "funny ill what child student shaft laundry virus finish wood cheese hundred";

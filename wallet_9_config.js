@@ -1,1 +1,1 @@
-var mnemonic = "fragile void quantum travel spike ring helmet olive hurry gap grunt lunch";
+var mnemonic = "only spider bonus sorry argue transfer junk gaze stone father air hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt ecology lock dirt width curve core assault grab depend stage success";
+var mnemonic = "iron retreat trade quantum thunder price carpet nice pole village alter essence";

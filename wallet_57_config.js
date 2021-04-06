@@ -1,1 +1,1 @@
-var mnemonic = "method blue sorry ethics list fresh trim rug sport club penalty toy";
+var mnemonic = "liberty shrimp hazard unique gift mutual tragic want afraid dynamic body custom";

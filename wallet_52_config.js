@@ -1,1 +1,1 @@
-var mnemonic = "robot ramp tornado dad audit evidence social okay essence waste penalty mimic";
+var mnemonic = "giant click choose crowd limit weather salute right bleak cook nominee crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "option tomato symptom goat gain rookie liberty reopen scare stove order frost";
+var mnemonic = "client regular repair under bone tonight pottery offer hello damp shell salmon";

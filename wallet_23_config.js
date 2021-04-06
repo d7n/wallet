@@ -1,1 +1,1 @@
-var mnemonic = "bottom exhaust witness primary chicken turn taxi table infant enact nasty crash";
+var mnemonic = "rookie journey strategy dust sibling safe old cat during disorder search jump";

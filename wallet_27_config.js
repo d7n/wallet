@@ -1,1 +1,1 @@
-var mnemonic = "change gospel lottery blade police seat robust defy knock rhythm piece first";
+var mnemonic = "please renew link crowd canoe height logic west blush pioneer trigger umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "express vocal skull bar wear letter capital slide job annual bind approve";
+var mnemonic = "very retreat employ huge antique calm offer develop miracle since biology cross";

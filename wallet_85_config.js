@@ -1,1 +1,1 @@
-var mnemonic = "hungry jump sell cotton matter govern modify foot conduct crisp differ ivory";
+var mnemonic = "valid exercise open promote december snap drink accuse august stairs merit apology";

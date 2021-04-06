@@ -1,1 +1,1 @@
-var mnemonic = "embark chapter drastic venture gate mountain confirm energy piano allow flower bargain";
+var mnemonic = "dragon absorb pipe explain move matter empower damp diary also cross exhibit";

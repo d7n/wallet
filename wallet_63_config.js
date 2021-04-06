@@ -1,1 +1,1 @@
-var mnemonic = "best park title repeat problem net parrot undo wear huge black again";
+var mnemonic = "dance accident pig scout catalog odor panther mango metal motion cook lift";

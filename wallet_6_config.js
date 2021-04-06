@@ -1,1 +1,1 @@
-var mnemonic = "romance stumble nuclear amused clap surround cabin beef salmon patient used zone";
+var mnemonic = "goose host jaguar harvest segment turn wink chair valid tomato timber hair";

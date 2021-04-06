@@ -1,1 +1,1 @@
-var mnemonic = "inhale worry birth roof fortune warrior home again garlic guess spawn rug";
+var mnemonic = "again color inner moment flame require bus mind enter key escape pass";

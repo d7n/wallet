@@ -1,1 +1,1 @@
-var mnemonic = "arena absent fence crater order permit endless lava absorb prepare inner blue";
+var mnemonic = "anxiety pigeon glare seek laundry uphold female sound direct tube security laptop";

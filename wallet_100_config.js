@@ -1,1 +1,1 @@
-var mnemonic = "crumble imitate later victory extend drill very manual category position rigid video";
+var mnemonic = "peanut rely mushroom rubber abstract fatigue burger garment wide annual muscle arrest";

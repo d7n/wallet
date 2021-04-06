@@ -1,1 +1,1 @@
-var mnemonic = "give perfect advance frozen home similar shoot drill two tonight where detail";
+var mnemonic = "soft wire twin inquiry tornado pact valid panel envelope auction dwarf caution";

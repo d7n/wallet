@@ -1,1 +1,1 @@
-var mnemonic = "dose sunny wire initial corn month sure noise render dice tank neutral";
+var mnemonic = "depart cannon picnic cause connect bar anchor drop snack lazy hybrid tape";

@@ -1,1 +1,1 @@
-var mnemonic = "safe fox clump ancient stable rapid park pass stereo globe announce chicken";
+var mnemonic = "almost poem gap truck fence enhance this dinosaur dumb base reform shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "area oven west athlete tattoo pledge cancel sunset sail soccer subway neither";
+var mnemonic = "act gas index flame only grunt calm where sunset deposit receive index";

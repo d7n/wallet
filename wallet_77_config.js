@@ -1,1 +1,1 @@
-var mnemonic = "wedding fruit kit aerobic yard siren naive life base laugh space flag";
+var mnemonic = "congress title memory else pilot arctic veteran pelican sadness input heart toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty perfect bless drastic flock timber inside ordinary love ranch barely fever";
+var mnemonic = "story bacon farm manage melt enjoy base gate small emotion ramp eight";

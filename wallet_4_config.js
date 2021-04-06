@@ -1,1 +1,1 @@
-var mnemonic = "easy safe column ship leisure buddy olive border fall girl wire flock";
+var mnemonic = "impact champion romance one wife vehicle pattern apart please local topple unaware";

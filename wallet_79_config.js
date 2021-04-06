@@ -1,1 +1,1 @@
-var mnemonic = "mountain divorce antique retreat panda escape hunt junior ribbon movie connect source";
+var mnemonic = "become army manual genre stumble edge dad elephant coffee jacket summer fruit";

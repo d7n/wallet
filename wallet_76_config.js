@@ -1,1 +1,1 @@
-var mnemonic = "unit issue amount insane survey design tired cheap hotel reason scrub scene";
+var mnemonic = "obvious youth minimum annual resource apology cupboard smoke between oak trap hill";

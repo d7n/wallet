@@ -1,1 +1,1 @@
-var mnemonic = "together pull biology thrive boat poverty wisdom scheme pilot pyramid arena water";
+var mnemonic = "suggest toy horn pioneer unaware capital useless endorse chief curtain gravity defy";

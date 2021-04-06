@@ -1,1 +1,1 @@
-var mnemonic = "garden trick develop lazy ritual law address nest doll truth divorce eyebrow";
+var mnemonic = "unknown deliver stairs gesture tuition agree sell draw lawsuit august diesel fiscal";

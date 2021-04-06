@@ -1,1 +1,1 @@
-var mnemonic = "enjoy neutral summer canvas fitness bean planet river isolate barely prosper gauge";
+var mnemonic = "flee holiday divide churn gauge category rapid clump old force disease garlic";

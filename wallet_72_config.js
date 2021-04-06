@@ -1,1 +1,1 @@
-var mnemonic = "park supply genius profit casino embark uncover stage attack color comic faculty";
+var mnemonic = "jeans poverty soda poet illness key dove table idea morning few vital";

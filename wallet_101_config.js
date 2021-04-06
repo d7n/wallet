@@ -1,1 +1,1 @@
-var mnemonic = "brave royal citizen idea utility addict antique famous payment icon sad visual";
+var mnemonic = "dragon mean exile exchange foster stairs drill invite curve infant assault depart";

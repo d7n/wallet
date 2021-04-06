@@ -1,1 +1,1 @@
-var mnemonic = "soft eye whip arrest acoustic fashion cotton angle setup glimpse laundry ribbon";
+var mnemonic = "tumble main you ready throw chaos they pizza virtual cup layer gather";

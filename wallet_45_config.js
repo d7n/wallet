@@ -1,1 +1,1 @@
-var mnemonic = "praise wrestle rent ahead neglect today agent planet regular feel among rug";
+var mnemonic = "ignore carpet chief school skill maple mistake coral square cream thumb spirit";

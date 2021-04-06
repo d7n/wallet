@@ -1,1 +1,1 @@
-var mnemonic = "carpet side ceiling garden immense dream busy industry provide undo badge science";
+var mnemonic = "tooth attract royal destroy envelope glow fence margin song distance short cram";

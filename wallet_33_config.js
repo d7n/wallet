@@ -1,1 +1,1 @@
-var mnemonic = "borrow sponsor code unique dolphin moral absent easily nature all orphan quantum";
+var mnemonic = "inform vital type faith spider guitar ensure alcohol business salon repeat enjoy";

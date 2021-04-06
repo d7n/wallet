@@ -1,1 +1,1 @@
-var mnemonic = "disease excess lake lock bind attend slide glimpse medal tobacco spin like";
+var mnemonic = "ski history where puppy humor maximum live bomb moon prize lunch train";

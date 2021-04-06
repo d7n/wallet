@@ -1,1 +1,1 @@
-var mnemonic = "inform second start spell crunch oil antique trick giant icon sick sniff";
+var mnemonic = "razor clever auto suffer poet element small thing glow goat illness canvas";

@@ -1,1 +1,1 @@
-var mnemonic = "super symbol good jacket quality fade camp seed fresh surprise crumble impact";
+var mnemonic = "since rough inform grace gift weapon another useless cattle unveil height absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "brief banana picture escape various bundle stage fire grid now good two";
+var mnemonic = "rule soft fee popular foam shove ugly coil zero flee aerobic pill";

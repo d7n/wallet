@@ -1,1 +1,1 @@
-var mnemonic = "amount load yard tool script glare word avoid program apple agree afford";
+var mnemonic = "network lamp move amazing ask arena sting park grass decline region initial";

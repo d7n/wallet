@@ -1,1 +1,1 @@
-var mnemonic = "laugh company oval say dignity load accident law shrug cost misery van";
+var mnemonic = "square jewel access entire crane toss paddle claw found theory will sand";

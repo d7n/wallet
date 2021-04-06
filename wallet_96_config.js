@@ -1,1 +1,1 @@
-var mnemonic = "dynamic leopard expire easily typical rookie south ride luggage prevent song gather";
+var mnemonic = "report inch install vibrant much spy knife canoe horse party subject doll";

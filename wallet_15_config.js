@@ -1,1 +1,1 @@
-var mnemonic = "naive marriage horn potato twenty wreck such convince nasty oval crucial day";
+var mnemonic = "bunker drive chimney music leader squeeze lend miss crop better amazing raw";

@@ -1,1 +1,1 @@
-var mnemonic = "animal title scissors lesson taste topple monitor reveal manage mule disagree screen";
+var mnemonic = "pioneer bulb arrest above calm sister purse enable flock inquiry pulse edge";

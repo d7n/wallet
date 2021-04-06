@@ -1,1 +1,1 @@
-var mnemonic = "taste rich canvas damp animal spike away supply wing coconut imitate shuffle";
+var mnemonic = "seven success same measure worry seminar enrich just trumpet thought fun fix";

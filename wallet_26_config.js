@@ -1,1 +1,1 @@
-var mnemonic = "horror spoil electric giant april raccoon inquiry dragon faculty settle awkward clock";
+var mnemonic = "bird excuse invite tuition scene best prevent exercise business scan shell degree";

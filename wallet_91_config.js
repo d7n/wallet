@@ -1,1 +1,1 @@
-var mnemonic = "scrub camera carpet manual sunny topic crack vague target limb achieve tape";
+var mnemonic = "plate artist rubber race trip shallow axis inch session void party west";

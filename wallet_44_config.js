@@ -1,1 +1,1 @@
-var mnemonic = "drip crane lawn then total language exclude object dry butter cube vessel";
+var mnemonic = "property inquiry father keep dog carry screen cat subway damage flock fit";

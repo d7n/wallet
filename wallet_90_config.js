@@ -1,1 +1,1 @@
-var mnemonic = "private uniform chat input chimney solution square regular busy save tortoise cram";
+var mnemonic = "diamond fire spin robot critic deer stadium steak exhibit split also vault";

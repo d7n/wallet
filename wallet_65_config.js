@@ -1,1 +1,1 @@
-var mnemonic = "million actual cotton talent cook chalk siren easily replace vast what shift";
+var mnemonic = "web dove huge fruit utility inside tiny tackle party present describe patient";

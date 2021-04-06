@@ -1,1 +1,1 @@
-var mnemonic = "lucky fuel left myth hurt biology wedding choice awkward bomb boss asthma";
+var mnemonic = "dress lock apology near hair token define jealous fuel robot harsh knee";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp settle device cruel foil festival fork ship actor scorpion slow switch";
+var mnemonic = "salon title choice rebuild blouse shiver there define border road pumpkin miss";

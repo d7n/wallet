@@ -1,1 +1,1 @@
-var mnemonic = "fruit glide gadget thank saddle six ugly tattoo trumpet chest usage fabric";
+var mnemonic = "play approve liquid limit input author bacon pole pulse parade expect wrap";

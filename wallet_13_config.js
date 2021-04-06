@@ -1,1 +1,1 @@
-var mnemonic = "rule error present already knee pretty disease awake bulk such chest virtual";
+var mnemonic = "acid quick prison crater code expect genre lecture romance awkward misery link";

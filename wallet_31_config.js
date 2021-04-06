@@ -1,1 +1,1 @@
-var mnemonic = "because gospel play lyrics cabin illegal turkey proud drive term aerobic absurd";
+var mnemonic = "vacuum still have right moon injury elder much bargain scan cup avoid";

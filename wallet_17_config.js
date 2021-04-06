@@ -1,1 +1,1 @@
-var mnemonic = "bird bachelor avoid dizzy skirt rice man canoe theory soft weekend clutch";
+var mnemonic = "warfare jungle ostrich autumn hood inner remain lock switch alley resist rapid";

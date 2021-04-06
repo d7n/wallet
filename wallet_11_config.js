@@ -1,1 +1,1 @@
-var mnemonic = "latin unlock try pyramid icon nice unfold valid lab tuition trim soon";
+var mnemonic = "sadness nest pyramid board uphold brass response leaf seat spy actress twist";

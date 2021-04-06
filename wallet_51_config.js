@@ -1,1 +1,1 @@
-var mnemonic = "auto element galaxy victory coil daring usage canoe screen bulb moment expire";
+var mnemonic = "around small oxygen because diary fancy glance asset envelope doctor venture pet";

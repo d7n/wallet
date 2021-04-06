@@ -1,1 +1,1 @@
-var mnemonic = "range state post fluid fragile expect west into original hello hunt easily";
+var mnemonic = "kid vapor valid pill call swallow boost engine know inmate approve release";

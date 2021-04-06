@@ -1,1 +1,1 @@
-var mnemonic = "repair equip cloud useless tag twin install among forget climb voyage rabbit";
+var mnemonic = "figure avoid tank eagle diary vendor stable desk hand candy level describe";

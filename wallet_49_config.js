@@ -1,1 +1,1 @@
-var mnemonic = "mushroom nest hello cable hobby blush fine design deer winter flag spend";
+var mnemonic = "barely leave capable nerve alien fork believe chimney thrive confirm absorb broken";

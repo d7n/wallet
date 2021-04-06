@@ -1,1 +1,1 @@
-var mnemonic = "cool bulb win inherit argue high special result goat dilemma fiscal fine";
+var mnemonic = "december sniff soon shoot today guess opinion lesson harsh bridge flight brush";

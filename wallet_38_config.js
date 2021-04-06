@@ -1,1 +1,1 @@
-var mnemonic = "brush shrug range giant solve gun front file beach mesh grace wrong";
+var mnemonic = "junior zone response scissors suit arm clutch sing gift crop wait fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "chef guard critic animal sea curious ghost liquid cinnamon can warrior ritual";
+var mnemonic = "civil ridge renew soda once depart blood knock educate bean scorpion behave";

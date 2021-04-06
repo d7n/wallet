@@ -1,1 +1,1 @@
-var mnemonic = "boring cereal animal ketchup motion indicate barrel pilot episode home welcome traffic";
+var mnemonic = "strong hybrid mandate input raise reunion cigar quote crunch pulse nephew ship";

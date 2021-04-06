@@ -1,1 +1,1 @@
-var mnemonic = "much siege disagree present column undo visit goat fiber damage welcome bridge";
+var mnemonic = "second broom violin render prison tuna write trick situate box position van";

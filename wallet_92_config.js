@@ -1,1 +1,1 @@
-var mnemonic = "noble pet man budget page buzz ocean crazy multiply pact change soap";
+var mnemonic = "erase brick giant oak prison basic foot kit frown decide wolf post";

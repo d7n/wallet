@@ -1,1 +1,1 @@
-var mnemonic = "write enrich desk taste hollow silk confirm ability indicate boil blade dad";
+var mnemonic = "stand chef sister oak output buyer utility estate doctor velvet ride rough";

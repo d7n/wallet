@@ -1,1 +1,1 @@
-var mnemonic = "leave usual rather prefer delay height leisure banana run corn must subway";
+var mnemonic = "quick claw goddess surround thumb maximum animal evidence media midnight usual crack";

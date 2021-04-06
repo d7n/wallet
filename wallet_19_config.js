@@ -1,1 +1,1 @@
-var mnemonic = "coyote manage invite egg erode avocado hobby cushion sense pink surround quit";
+var mnemonic = "forest above system media aisle cupboard water grief profit tool over cabbage";
