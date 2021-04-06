@@ -1,1 +1,1 @@
-var mnemonic = "enrich zone blue quality nose sort word sphere crawl paddle ecology dynamic";
+var mnemonic = "wealth kitten correct struggle bean alley promote muscle grant wing zone decrease";

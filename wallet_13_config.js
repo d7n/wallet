@@ -1,1 +1,1 @@
-var mnemonic = "brief chapter celery perfect naive legend arrive limb crime state kitchen ordinary";
+var mnemonic = "lake cruise welcome change rural oxygen finish stem want goat pelican nose";

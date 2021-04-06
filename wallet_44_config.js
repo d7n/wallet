@@ -1,1 +1,1 @@
-var mnemonic = "guitar taxi cannon erupt found cover camera cancel bullet vibrant infant easily";
+var mnemonic = "clutch bubble muscle person dice message heart oak moon educate luggage embrace";

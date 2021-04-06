@@ -1,1 +1,1 @@
-var mnemonic = "animal hundred pioneer island hello cruel caught label bracket hospital wish rotate";
+var mnemonic = "trip diet also carry quote sausage wealth alone mesh enact cost truly";

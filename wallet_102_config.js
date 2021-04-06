@@ -1,1 +1,1 @@
-var mnemonic = "talent bunker choose chef zero total sweet three decorate good desk board";
+var mnemonic = "artist copy attitude tissue bench own boy security crane sleep best embark";

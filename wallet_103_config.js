@@ -1,1 +1,1 @@
-var mnemonic = "chunk entry toddler you warm echo hurry tumble palace region more memory";
+var mnemonic = "welcome gate tape hour damp health neglect custom chimney debris message project";

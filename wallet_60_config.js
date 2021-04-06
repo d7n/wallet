@@ -1,1 +1,1 @@
-var mnemonic = "rhythm shaft connect orange decade series clean entry process cricket citizen mean";
+var mnemonic = "rigid shadow element room stem clever river market brave sorry inspire muscle";

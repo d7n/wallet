@@ -1,1 +1,1 @@
-var mnemonic = "wreck nest enjoy damp jealous acquire moral pottery plastic future raccoon table";
+var mnemonic = "owner accident anger rail hole invite make tape animal lounge evidence undo";

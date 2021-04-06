@@ -1,1 +1,1 @@
-var mnemonic = "tuna series fork van rely enrich solution rare foster accuse hip culture";
+var mnemonic = "hood father waste dog moral athlete error age off strategy hundred chunk";

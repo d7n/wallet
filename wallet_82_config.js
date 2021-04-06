@@ -1,1 +1,1 @@
-var mnemonic = "news young gossip start frost impose twist brave place strike unfair cloud";
+var mnemonic = "clock notice struggle spot athlete reform curtain plunge whip uniform muscle caught";

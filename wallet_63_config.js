@@ -1,1 +1,1 @@
-var mnemonic = "fee mass myself fault feel junk canal donor van ticket position tree";
+var mnemonic = "blouse meadow pause neutral limb lemon erase dream fragile table rule bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "alone absent minimum inside list truck exile glad audit embrace laundry near";
+var mnemonic = "minor budget tunnel squirrel dash sure bundle language catch grab strike goat";

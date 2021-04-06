@@ -1,1 +1,1 @@
-var mnemonic = "sibling health hair evil scout fatal charge east history strong sugar blossom";
+var mnemonic = "gentle inform penalty economy absorb transfer topic grant great soul room easily";

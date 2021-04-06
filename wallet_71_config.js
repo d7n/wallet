@@ -1,1 +1,1 @@
-var mnemonic = "iron option potato exit faculty culture agent sight learn false tube gap";
+var mnemonic = "stand surge deliver grant daring path awake reopen income habit busy tackle";

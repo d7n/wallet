@@ -1,1 +1,1 @@
-var mnemonic = "gas parade faint cruel move title empower theory elephant item eagle zebra";
+var mnemonic = "today rent lounge warfare output praise skull zebra fiber zero mad rug";

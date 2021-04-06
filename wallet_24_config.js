@@ -1,1 +1,1 @@
-var mnemonic = "grow empty ten sphere blossom bone provide reflect enter local split gossip";
+var mnemonic = "else myth music random play okay base stadium echo inquiry doll stool";

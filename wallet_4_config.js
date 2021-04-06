@@ -1,1 +1,1 @@
-var mnemonic = "skirt flag shed east soul father hard cluster sadness voice draw scheme";
+var mnemonic = "clay gap film math blood omit crash rigid scale boat gloom inspire";

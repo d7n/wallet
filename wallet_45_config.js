@@ -1,1 +1,1 @@
-var mnemonic = "drop turkey clock cross income spread citizen hollow disorder collect student raise";
+var mnemonic = "choice quiz expose always armed quarter guard teach size size social memory";

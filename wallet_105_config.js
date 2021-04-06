@@ -1,1 +1,1 @@
-var mnemonic = "toy blouse soap avocado case monkey vague recipe joy pilot kick rack";
+var mnemonic = "all tuition fury cliff strike cruise human era rib will rhythm brass";

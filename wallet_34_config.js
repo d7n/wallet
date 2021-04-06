@@ -1,1 +1,1 @@
-var mnemonic = "camp banner sorry cube fuel alarm deputy guide message actual scout damage";
+var mnemonic = "shoe benefit window cry fever before search journey slab warm lend shift";

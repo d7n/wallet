@@ -1,1 +1,1 @@
-var mnemonic = "best exercise funny sure expire dinner hurdle left enjoy slam follow vocal";
+var mnemonic = "seed snow baby aim imitate head medal vote whisper paper couch since";

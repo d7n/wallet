@@ -1,1 +1,1 @@
-var mnemonic = "shell autumn lake wheat advice slight awful normal sure depth purse absorb";
+var mnemonic = "satoshi reward neck piano push table brush ocean cherry awesome couple zone";

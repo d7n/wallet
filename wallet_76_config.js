@@ -1,1 +1,1 @@
-var mnemonic = "post rebuild amazing purpose symptom teach cluster shop kingdom recycle neither auction";
+var mnemonic = "sudden scatter foot bind member arch hair vessel defense settle doll first";

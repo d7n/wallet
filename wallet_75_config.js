@@ -1,1 +1,1 @@
-var mnemonic = "deal keep town maximum scatter develop crane cancel annual net stone huge";
+var mnemonic = "broccoli hunt doll plate labor illegal front secret train weekend obscure armed";

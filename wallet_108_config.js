@@ -1,1 +1,1 @@
-var mnemonic = "math type winner position century social maple grief right element absent tide";
+var mnemonic = "accident hedgehog spell swarm digital december snack toast all dash oppose chicken";

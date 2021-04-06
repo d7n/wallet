@@ -1,1 +1,1 @@
-var mnemonic = "grow believe attend victory celery antique issue gap casino grass civil modify";
+var mnemonic = "badge smile warfare theme couple humor risk survey wall music region gift";

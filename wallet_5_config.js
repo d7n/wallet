@@ -1,1 +1,1 @@
-var mnemonic = "simple beauty still heart flip dinner item behave remain title unable sauce";
+var mnemonic = "fiscal when clarify later denial same drink mercy turtle rubber milk material";

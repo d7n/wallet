@@ -1,1 +1,1 @@
-var mnemonic = "inherit execute festival bar junior island neutral gesture flee wink blast brick";
+var mnemonic = "word faint timber slender unveil fan viable club brother squirrel choose comic";

@@ -1,1 +1,1 @@
-var mnemonic = "obey raccoon hair diagram awkward rival alpha talent spoon tree useful luxury";
+var mnemonic = "service gallery genius know stuff fortune weapon horse arrive recycle try ignore";

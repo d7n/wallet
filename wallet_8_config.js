@@ -1,1 +1,1 @@
-var mnemonic = "decline release together few beauty enough juice zebra bread worth flee large";
+var mnemonic = "degree grunt parrot alley ketchup absorb husband title saddle boss end identify";

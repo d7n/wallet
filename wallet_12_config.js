@@ -1,1 +1,1 @@
-var mnemonic = "thrive edge ranch myself adult direct admit hunt ready clinic fall together";
+var mnemonic = "divide cover all tilt empower insane soup column boil above diesel vague";

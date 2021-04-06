@@ -1,1 +1,1 @@
-var mnemonic = "fun pencil jaguar bulb fetch erode shoulder visit aunt box stamp deal";
+var mnemonic = "throw vapor tribe mind want arctic bright spring sheriff miss guilt puzzle";

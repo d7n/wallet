@@ -1,1 +1,1 @@
-var mnemonic = "imitate clown load nice gauge suffer hat ready worth parrot spoil hub";
+var mnemonic = "armed cupboard venue reflect lazy tower winter dolphin ghost radar spend love";

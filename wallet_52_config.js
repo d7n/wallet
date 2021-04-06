@@ -1,1 +1,1 @@
-var mnemonic = "slide style abuse perfect bitter theme accuse ceiling october meadow consider worry";
+var mnemonic = "situate fire weekend fish draw merit ten party elegant unhappy public acoustic";

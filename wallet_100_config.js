@@ -1,1 +1,1 @@
-var mnemonic = "enable elder cruel setup rather very chair cook carbon unable buffalo kingdom";
+var mnemonic = "endless affair family they hammer joke journey outdoor subject tourist tiger marble";

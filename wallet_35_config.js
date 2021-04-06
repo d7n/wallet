@@ -1,1 +1,1 @@
-var mnemonic = "science build occur popular average carbon flavor manage plunge club reunion phrase";
+var mnemonic = "carry render tunnel hawk dose endorse arch digital expect cabbage jealous alpha";

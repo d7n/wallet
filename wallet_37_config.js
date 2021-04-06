@@ -1,1 +1,1 @@
-var mnemonic = "grape immense once lunar plunge plate pole regular pole rigid husband loud";
+var mnemonic = "pull clarify few comic bubble invite member quarter taste devote modify stand";

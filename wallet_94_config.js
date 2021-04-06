@@ -1,1 +1,1 @@
-var mnemonic = "destroy earn front negative twelve eager magic stock immense couple exclude odor";
+var mnemonic = "theme sail multiply material display dad misery truly chef produce nothing carpet";

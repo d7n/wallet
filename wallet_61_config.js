@@ -1,1 +1,1 @@
-var mnemonic = "ask maid swift army clarify shaft casual vote increase junior load become";
+var mnemonic = "soap clay false picture crime anchor pair guide whale resemble behave narrow";

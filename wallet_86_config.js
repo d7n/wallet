@@ -1,1 +1,1 @@
-var mnemonic = "pistol upgrade measure dice proof decrease quarter also pipe silly permit work";
+var mnemonic = "awful apology potato mimic blur shiver coconut reject olive decorate cannon blade";

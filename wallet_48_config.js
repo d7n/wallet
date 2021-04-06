@@ -1,1 +1,1 @@
-var mnemonic = "wrap cattle result faint suffer stereo dream rotate nature this hover label";
+var mnemonic = "pistol rebuild polar exercise reflect castle control coast cluster kite fix junk";

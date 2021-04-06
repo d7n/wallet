@@ -1,1 +1,1 @@
-var mnemonic = "foam online cotton shiver please taste special brand total recycle hawk cereal";
+var mnemonic = "broken cage satoshi switch chat tube fossil feed network slab dash slight";

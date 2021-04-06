@@ -1,1 +1,1 @@
-var mnemonic = "love transfer best boss outdoor rally angle unable grab saddle vast front";
+var mnemonic = "argue hood survey vast process survey sight common music risk clerk insane";

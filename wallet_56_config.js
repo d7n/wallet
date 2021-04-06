@@ -1,1 +1,1 @@
-var mnemonic = "bean draw empty verb board width uphold perfect decide awkward invest gate";
+var mnemonic = "insect busy dress zero other wedding mesh tissue wheel cup hip taste";

@@ -1,1 +1,1 @@
-var mnemonic = "property mango connect say round aspect cabbage wealth best fiction spirit universe";
+var mnemonic = "search recipe inspire tuition claim comfort bulk battle hedgehog original leader sting";

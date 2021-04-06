@@ -1,1 +1,1 @@
-var mnemonic = "antique small execute shoot okay giant window comfort erode nation fiction october";
+var mnemonic = "common dwarf cliff toilet vocal issue atom always demise palm avocado tower";

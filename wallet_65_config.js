@@ -1,1 +1,1 @@
-var mnemonic = "endorse aisle genius cotton any paper arrow spin achieve empower arctic memory";
+var mnemonic = "tone broom belt tape finish extend nothing wisdom dentist elephant garden manual";

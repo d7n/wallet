@@ -1,1 +1,1 @@
-var mnemonic = "peace prison later finish silent hire amazing spike hungry make student enrich";
+var mnemonic = "wet much trouble flame journey trigger tape lucky chest doll result weekend";

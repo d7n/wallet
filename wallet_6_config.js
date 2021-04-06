@@ -1,1 +1,1 @@
-var mnemonic = "advice knee edit acquire rigid donor party unveil misery medal suit olympic";
+var mnemonic = "ladder base fragile attend faint task senior report toe follow dismiss coconut";

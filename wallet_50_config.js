@@ -1,1 +1,1 @@
-var mnemonic = "muffin hen pipe cave kiwi like whale awesome panic subject lunar carry";
+var mnemonic = "barrel pulse heavy spider prosper return chase two issue tray glue relax";

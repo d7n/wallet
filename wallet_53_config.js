@@ -1,1 +1,1 @@
-var mnemonic = "inject habit enact cannon oppose code tilt february addict bright miracle book";
+var mnemonic = "travel popular trim rhythm wood grass neutral exile flip divide ripple art";

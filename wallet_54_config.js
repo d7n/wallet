@@ -1,1 +1,1 @@
-var mnemonic = "buzz material garbage common language holiday foot visual original thrive humble entry";
+var mnemonic = "language surge best surge solve drink reduce harbor loan used mean violin";

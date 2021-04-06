@@ -1,1 +1,1 @@
-var mnemonic = "boring keen pottery track celery match young correct icon outer play settle";
+var mnemonic = "spare erosion dad they slender convince leaf forum cargo dolphin yellow bargain";

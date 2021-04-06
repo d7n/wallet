@@ -1,1 +1,1 @@
-var mnemonic = "clown great tunnel initial ask arctic sure correct equip yellow carry pulp";
+var mnemonic = "extra magnet blur motor pluck seminar govern candy foil reward divorce depth";

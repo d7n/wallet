@@ -1,1 +1,1 @@
-var mnemonic = "pistol grab abandon lunch ankle enroll daring candy hip gospel rice fence";
+var mnemonic = "amount crumble arctic document plate vanish visa cannon economy wild benefit name";

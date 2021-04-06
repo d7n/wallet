@@ -1,1 +1,1 @@
-var mnemonic = "record climb bullet glow position buyer wasp sleep struggle hurt merit art";
+var mnemonic = "rude claw expand laptop silly mistake weird swamp acquire bottom better vessel";

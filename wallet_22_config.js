@@ -1,1 +1,1 @@
-var mnemonic = "debate cloth tiger frost shoulder wrist state layer business prosper phrase mad";
+var mnemonic = "brick busy age broken check upgrade case lift sibling section armed broom";

@@ -1,1 +1,1 @@
-var mnemonic = "kind regret warrior knock helmet scissors kid dwarf clarify earth viable sustain";
+var mnemonic = "glance jelly fantasy song swear such awake cloth engine swing dose shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy harsh unique nation like bacon cream wrestle magic learn apart rigid";
+var mnemonic = "carpet deer update stove lunch flower grunt fossil visual tray guess solution";

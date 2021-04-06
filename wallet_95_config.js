@@ -1,1 +1,1 @@
-var mnemonic = "cake february property walnut park gauge copper abuse rose coin smile tunnel";
+var mnemonic = "pilot sudden math usage pottery about fragile eight prevent better genius phrase";

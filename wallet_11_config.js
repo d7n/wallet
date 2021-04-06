@@ -1,1 +1,1 @@
-var mnemonic = "lift enter vicious juice jar frown inch curve trim ritual slot patient";
+var mnemonic = "consider history ankle east frog tennis dose broken inspire rude wreck world";

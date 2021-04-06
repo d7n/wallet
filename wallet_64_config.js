@@ -1,1 +1,1 @@
-var mnemonic = "middle wall prize dial wall crack decorate shock panther ostrich carpet stereo";
+var mnemonic = "domain keen inmate lamp speak dish prison legal work index indicate magic";

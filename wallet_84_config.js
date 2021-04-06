@@ -1,1 +1,1 @@
-var mnemonic = "fork pottery fiber stereo panic never damp flag album real nephew dress";
+var mnemonic = "cry arrive wish puppy slot diamond tool space twin rely area river";

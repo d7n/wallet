@@ -1,1 +1,1 @@
-var mnemonic = "despair pattern butter scale quiz hat attract march crop chef car caught";
+var mnemonic = "thrive mountain broccoli hello repair hotel possible modify add course echo pond";

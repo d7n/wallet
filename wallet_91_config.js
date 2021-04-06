@@ -1,1 +1,1 @@
-var mnemonic = "fantasy wolf enemy bamboo wagon film degree enroll tilt project gesture order";
+var mnemonic = "favorite audit grit grant resist nice autumn evidence rough wedding behind price";

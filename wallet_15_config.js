@@ -1,1 +1,1 @@
-var mnemonic = "behind enact item age horn end rifle assault impose brush approve sand";
+var mnemonic = "pumpkin basic pupil husband bottom recall crew judge cannon modify nation thought";

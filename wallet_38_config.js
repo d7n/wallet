@@ -1,1 +1,1 @@
-var mnemonic = "depend frog poverty law scene aerobic demand manual race shell during hill";
+var mnemonic = "invest muffin magnet junior attitude gate pride giant jaguar fatal rocket wear";

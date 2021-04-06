@@ -1,1 +1,1 @@
-var mnemonic = "travel reunion become cereal base split island pink torch chat hair human";
+var mnemonic = "family dish obtain text degree inside wrestle green van choose prefer blame";

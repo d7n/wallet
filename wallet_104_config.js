@@ -1,1 +1,1 @@
-var mnemonic = "loud harbor ring govern flat slice outdoor odor stomach vacant clay thumb";
+var mnemonic = "salt seed embody foil puzzle reveal copper amused loyal later stand measure";

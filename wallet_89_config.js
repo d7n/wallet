@@ -1,1 +1,1 @@
-var mnemonic = "jewel thank average bubble phone silver raven sing van radar tomorrow flavor";
+var mnemonic = "supply music diesel wall inmate total tray abandon decline prize impulse endorse";

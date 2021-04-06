@@ -1,1 +1,1 @@
-var mnemonic = "hub sausage into cable wrong law sugar sea nasty welcome cream wool";
+var mnemonic = "more pioneer twenty normal syrup phrase police april version pond bomb cup";

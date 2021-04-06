@@ -1,1 +1,1 @@
-var mnemonic = "wave life pitch weasel lamp matrix bless calm fabric truck future letter";
+var mnemonic = "give grid health boy island awful inquiry group fabric leave absurd force";

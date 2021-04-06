@@ -1,1 +1,1 @@
-var mnemonic = "oak very bulb section marble insect item dove need guard joy river";
+var mnemonic = "loop square prevent public message exotic rely basket eye coral vessel calm";

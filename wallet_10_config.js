@@ -1,1 +1,1 @@
-var mnemonic = "appear tennis general wonder pumpkin advance napkin post pact nation much dress";
+var mnemonic = "olive antique orient language hip feed aerobic sadness foot scale man unfold";

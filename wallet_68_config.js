@@ -1,1 +1,1 @@
-var mnemonic = "mad sing embrace hockey finger cram moment confirm forest rare quit addict";
+var mnemonic = "exist cream erase fit live swarm crime deal setup crouch imitate bacon";

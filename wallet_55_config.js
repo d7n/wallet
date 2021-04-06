@@ -1,1 +1,1 @@
-var mnemonic = "shed winner member mutual unlock electric pause daring unit vehicle initial divide";
+var mnemonic = "tragic pact foil cabbage cover token mouse one fragile round female coil";

@@ -1,1 +1,1 @@
-var mnemonic = "find crack trophy honey few style mechanic visa asset local craft quarter";
+var mnemonic = "come casino pizza input leopard muscle job layer develop liquid near exact";

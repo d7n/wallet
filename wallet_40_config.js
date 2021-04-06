@@ -1,1 +1,1 @@
-var mnemonic = "chimney album traffic census flush convince mango six service sick fog cabbage";
+var mnemonic = "bulk judge couple quality answer tide dumb obtain broom stadium gain deer";

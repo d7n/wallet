@@ -1,1 +1,1 @@
-var mnemonic = "exact oyster bright tube spread zebra popular garden cool bullet viable hammer";
+var mnemonic = "lion remember satisfy pulse mosquito coin fever kick time vendor unusual bacon";

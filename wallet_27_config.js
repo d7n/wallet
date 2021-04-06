@@ -1,1 +1,1 @@
-var mnemonic = "inside quote dynamic immune eight kit gym garage avocado rocket report envelope";
+var mnemonic = "fault kind large saddle mercy elite erupt hedgehog liquid tackle lecture bright";

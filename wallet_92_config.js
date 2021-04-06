@@ -1,1 +1,1 @@
-var mnemonic = "album alone raven parent frozen summer any then royal cover nose loyal";
+var mnemonic = "today wear girl fork leisure design empower total bonus gospel setup category";

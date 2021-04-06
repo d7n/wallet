@@ -1,1 +1,1 @@
-var mnemonic = "salon double file bundle ticket valve involve lake frog amount win man";
+var mnemonic = "swing fork pig balance decade dutch burden arctic hint cargo gravity wrist";

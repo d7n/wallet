@@ -1,1 +1,1 @@
-var mnemonic = "grape mimic clever ginger leisure cook enjoy measure solid often general number";
+var mnemonic = "drastic canoe oil saddle economy access empower until great stove grab cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "coil letter release what blouse toddler arm road picture banana start airport";
+var mnemonic = "sail amazing seed quality exercise infant bunker photo equal oak recall better";

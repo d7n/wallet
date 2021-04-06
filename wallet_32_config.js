@@ -1,1 +1,1 @@
-var mnemonic = "chat kingdom eager enforce giggle baby onion wonder oxygen skull edge merge";
+var mnemonic = "answer require party mystery lesson spoon rule peasant bag thank arch exhibit";

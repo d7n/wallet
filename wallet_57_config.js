@@ -1,1 +1,1 @@
-var mnemonic = "large slim remove mule move car busy gun mom sock drama husband";
+var mnemonic = "weather era hand kind ignore brave change other deputy bronze creek iron";

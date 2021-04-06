@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo robot spatial toward bicycle ozone ecology skull noble pledge today stick";
+var mnemonic = "water program egg market thunder give have idea fault head dilemma utility";

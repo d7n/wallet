@@ -1,1 +1,1 @@
-var mnemonic = "hundred youth frame beach fence wheat range flush glimpse obscure inner celery";
+var mnemonic = "reason zebra effort boring bacon base orphan skill open rotate lumber adult";

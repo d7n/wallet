@@ -1,1 +1,1 @@
-var mnemonic = "health learn mesh original follow radar tuition stomach glory remain round fly";
+var mnemonic = "village pottery denial high brother avoid praise over inner ozone tooth razor";

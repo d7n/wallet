@@ -1,1 +1,1 @@
-var mnemonic = "idea erupt ball humor pink arrive chuckle please squirrel helmet box regret";
+var mnemonic = "text odor proof hospital project dirt sell occur lens cake amount barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "judge arch patient vessel observe marriage spare jazz trust crawl real forward";
+var mnemonic = "must fragile voyage small disagree valley expose sort below burst sunset monster";

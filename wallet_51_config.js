@@ -1,1 +1,1 @@
-var mnemonic = "sausage void wedding maid right space original surprise frog bullet check dash";
+var mnemonic = "recipe resemble panel crunch age luxury park now youth render put meadow";

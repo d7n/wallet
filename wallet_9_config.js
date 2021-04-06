@@ -1,1 +1,1 @@
-var mnemonic = "devote electric pyramid million donate delay flower together first bachelor feel planet";
+var mnemonic = "story program design shield crystal forward this skin cool walnut roast yard";

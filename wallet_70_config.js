@@ -1,1 +1,1 @@
-var mnemonic = "gate mammal sure small twin gloom prosper tourist unfold leisure dose anchor";
+var mnemonic = "dash obscure love country student envelope deliver relax medal boost enhance shove";
