@@ -1,1 +1,1 @@
-var mnemonic = "arena bounce gauge razor ball legal noble joke sadness find method soap";
+var mnemonic = "pencil situate salute garden evolve slight omit vibrant crunch oyster world size";

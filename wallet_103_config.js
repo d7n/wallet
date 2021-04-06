@@ -1,1 +1,1 @@
-var mnemonic = "other joy gallery bus breeze cage rebuild immune bunker velvet project simple";
+var mnemonic = "public soup coffee mechanic brief once express pill taxi lemon retreat insect";

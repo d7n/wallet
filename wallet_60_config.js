@@ -1,1 +1,1 @@
-var mnemonic = "frozen kitchen range naive pizza grab upgrade window hand boy pond adapt";
+var mnemonic = "journey park hole sweet client fade brave this matter siren crouch split";

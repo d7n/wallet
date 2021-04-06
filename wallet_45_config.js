@@ -1,1 +1,1 @@
-var mnemonic = "ancient you sun develop alpha since illness among approve cart thank brisk";
+var mnemonic = "obvious brother symptom volcano flat pupil language hundred enforce mansion galaxy lake";

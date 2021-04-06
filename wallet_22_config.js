@@ -1,1 +1,1 @@
-var mnemonic = "float grant piano gossip faculty icon inspire thought language more giraffe chimney";
+var mnemonic = "kind govern kiwi car buyer neither prize december section stumble harvest pelican";

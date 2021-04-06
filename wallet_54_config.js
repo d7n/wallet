@@ -1,1 +1,1 @@
-var mnemonic = "message grass flight battle light feed gas rifle define stadium space faint";
+var mnemonic = "govern ostrich plug donkey load faint ice guess input despair tell ritual";

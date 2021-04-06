@@ -1,1 +1,1 @@
-var mnemonic = "hero normal royal nerve degree nasty wagon scissors letter betray illness wave";
+var mnemonic = "dismiss sweet chunk anger machine liquid mixed acquire motor drama theory around";

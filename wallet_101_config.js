@@ -1,1 +1,1 @@
-var mnemonic = "pretty state elegant near dilemma weekend horn pulse oxygen hundred lift survey";
+var mnemonic = "flash large praise zero act milk expose bacon empty merit opinion fault";

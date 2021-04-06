@@ -1,1 +1,1 @@
-var mnemonic = "water radio east oven truth notice rural nerve world hockey embrace inmate";
+var mnemonic = "team double figure front eagle buzz tortoise mercy involve wide know scheme";

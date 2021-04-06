@@ -1,1 +1,1 @@
-var mnemonic = "chuckle bridge off slice laptop antenna melody width turkey twenty puppy fork";
+var mnemonic = "luxury buzz license fish mutual poem remain rail great rely flat chat";

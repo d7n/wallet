@@ -1,1 +1,1 @@
-var mnemonic = "allow today ritual board potato private peace kiwi crumble puppy reopen junk";
+var mnemonic = "chair force south bean salt unable proud shine multiply foot organ cook";

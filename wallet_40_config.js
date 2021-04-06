@@ -1,1 +1,1 @@
-var mnemonic = "frost exercise error genius letter student course crumble rotate cage rough scrap";
+var mnemonic = "aisle access blush tooth century auction peasant unfair act say typical anxiety";

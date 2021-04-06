@@ -1,1 +1,1 @@
-var mnemonic = "couple issue vapor rail meadow exhaust process pretty comic distance minute earn";
+var mnemonic = "mind border lift negative gallery topic gate antenna feature hurt winner bicycle";

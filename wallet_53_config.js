@@ -1,1 +1,1 @@
-var mnemonic = "yard man shoot surface sound legal prefer cat shoe grape culture bag";
+var mnemonic = "dad grace pact dynamic elevator broken produce creek maple grow critic beach";

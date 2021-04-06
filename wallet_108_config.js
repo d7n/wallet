@@ -1,1 +1,1 @@
-var mnemonic = "second lend gas loyal noodle weekend traffic start climb mind sentence pledge";
+var mnemonic = "fatal tragic across color frown fold logic rate rifle armor tide risk";

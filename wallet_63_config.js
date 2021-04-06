@@ -1,1 +1,1 @@
-var mnemonic = "accident bunker six entry title unveil ozone shell tumble position swim derive";
+var mnemonic = "until rich baby slide raw photo armor exist need oil win polar";

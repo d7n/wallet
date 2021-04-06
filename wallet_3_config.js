@@ -1,1 +1,1 @@
-var mnemonic = "grab aunt regret radar clean quiz talent ice sword blossom sound patch";
+var mnemonic = "cover enact utility athlete purse symptom release axis leisure tiny bundle cause";

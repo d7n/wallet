@@ -1,1 +1,1 @@
-var mnemonic = "shadow brave school fade dress subject cattle cinnamon devote oak pride possible";
+var mnemonic = "cluster degree rabbit wolf awesome crack farm predict unable favorite doll sunny";

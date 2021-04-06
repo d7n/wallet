@@ -1,1 +1,1 @@
-var mnemonic = "double endorse equip lemon abstract beach media steak tail distance crash leisure";
+var mnemonic = "quantum horn chair upgrade access develop nose aerobic skill comfort vault sock";

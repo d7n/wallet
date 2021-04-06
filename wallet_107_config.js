@@ -1,1 +1,1 @@
-var mnemonic = "gun gate bulk unfold frame sock busy face skill skate void wife";
+var mnemonic = "steel aisle nuclear beef agent renew gallery that hurdle tomato world common";

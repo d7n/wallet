@@ -1,1 +1,1 @@
-var mnemonic = "smooth short mouse cycle horn amused card sustain access make critic ranch";
+var mnemonic = "mistake glass merge scout vacant raise august regret brand fire protect piece";

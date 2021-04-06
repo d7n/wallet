@@ -1,1 +1,1 @@
-var mnemonic = "dentist relief absurd obvious sort pole space entry edit visit festival endless";
+var mnemonic = "seek object inflict drastic ghost shove tent relief lizard wood airport sister";

@@ -1,1 +1,1 @@
-var mnemonic = "equip shed vocal wasp mosquito mechanic segment order dice expose possible meat";
+var mnemonic = "virus door control actual present museum enact oak escape gorilla siren conduct";

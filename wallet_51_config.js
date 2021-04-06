@@ -1,1 +1,1 @@
-var mnemonic = "waste stadium rebuild october foot autumn sand rack cricket pony fatigue caught";
+var mnemonic = "deputy chase lizard love brush caught glove ancient bullet vocal praise cruise";

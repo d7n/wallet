@@ -1,1 +1,1 @@
-var mnemonic = "jewel home margin sunny alien way amateur gown smoke bulb mosquito tool";
+var mnemonic = "next pepper galaxy short fence bird gold couple perfect stand man glory";

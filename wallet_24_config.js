@@ -1,1 +1,1 @@
-var mnemonic = "grain follow page clarify reduce ask ring clock eternal vibrant guess puppy";
+var mnemonic = "siege alarm remember board ice category happy throw bridge critic price swim";

@@ -1,1 +1,1 @@
-var mnemonic = "census sell beauty gas truly arctic peace hire route skull volcano leg";
+var mnemonic = "stumble rookie dolphin upgrade assume thought sun topic bless prefer festival dune";

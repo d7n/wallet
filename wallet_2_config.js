@@ -1,1 +1,1 @@
-var mnemonic = "trash finish decrease bargain inject scatter lawn verify code body glory calm";
+var mnemonic = "amateur inherit win leisure under beach hard alter pair hold away alone";

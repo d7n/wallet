@@ -1,1 +1,1 @@
-var mnemonic = "electric dune awake cement audit work allow panther useless amazing upper empty";
+var mnemonic = "praise smooth endorse dwarf try mobile regular slot bounce version tennis lawsuit";

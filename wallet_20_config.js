@@ -1,1 +1,1 @@
-var mnemonic = "brain input dwarf timber evoke resist meadow oven artefact task captain knock";
+var mnemonic = "today razor paper place express robot hold favorite rocket tomorrow slight into";

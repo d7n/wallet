@@ -1,1 +1,1 @@
-var mnemonic = "edit embark fun damage brown wealth film stem collect item nose employ";
+var mnemonic = "expire open exile biology treat unfold extra embark chair shock weekend ten";

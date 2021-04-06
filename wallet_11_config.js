@@ -1,1 +1,1 @@
-var mnemonic = "armor lunch cry case myself base exotic couch item valve lottery urban";
+var mnemonic = "stuff wash still truly guard doctor hold vacuum decade myself palm impulse";

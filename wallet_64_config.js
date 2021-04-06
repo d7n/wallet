@@ -1,1 +1,1 @@
-var mnemonic = "burger car cable swim alpha desert attitude cluster bird enrich music height";
+var mnemonic = "enemy then frame math dash auction video earn beef chase season melt";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden hope enrich common arm doll title rare cherry glory used sausage";
+var mnemonic = "adult hand sail spin ill width initial torch road parrot icon useless";

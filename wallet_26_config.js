@@ -1,1 +1,1 @@
-var mnemonic = "velvet rack pitch ribbon make park palm jealous gun plug dust suggest";
+var mnemonic = "intact throw churn echo wheel area poverty morning matrix amount similar trap";

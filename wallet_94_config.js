@@ -1,1 +1,1 @@
-var mnemonic = "motion ticket entry quantum meat umbrella emerge fatigue motor fresh black asthma";
+var mnemonic = "pull off file online dutch gravity install object home silent peace roof";

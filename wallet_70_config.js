@@ -1,1 +1,1 @@
-var mnemonic = "steel vacuum camera blood lion volcano resist congress job response brass lazy";
+var mnemonic = "dose blur bounce west pair clutch amused wagon auction move lucky mandate";

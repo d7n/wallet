@@ -1,1 +1,1 @@
-var mnemonic = "cream bar useful suffer learn honey novel public holiday season ugly area";
+var mnemonic = "party broken garbage tourist outer what shove foil husband frost during they";

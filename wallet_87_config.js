@@ -1,1 +1,1 @@
-var mnemonic = "change cave panel foster edge waste rain social wrestle toe hammer sleep";
+var mnemonic = "flag later sustain warm kiwi junk race finger learn ancient shrimp cart";

@@ -1,1 +1,1 @@
-var mnemonic = "basic episode innocent border donor rabbit exotic other duty bulk broom party";
+var mnemonic = "twice nut civil critic attack coyote tube wrist gasp differ excuse oblige";

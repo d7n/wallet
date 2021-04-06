@@ -1,1 +1,1 @@
-var mnemonic = "web bracket cream ten cancel raw jeans exclude quality angry direct infant";
+var mnemonic = "salon primary version average flock dirt crash dentist slight mesh wear trip";

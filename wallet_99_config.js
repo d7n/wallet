@@ -1,1 +1,1 @@
-var mnemonic = "embark couch trend birth chef boring betray pony distance possible girl tool";
+var mnemonic = "side divide fade text trophy such cycle atom copper negative they nominee";

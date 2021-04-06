@@ -1,1 +1,1 @@
-var mnemonic = "volume grace code strike cloud ten all midnight turkey tilt island juice";
+var mnemonic = "crash cheese grief put when night dragon unveil vacuum episode dignity miracle";

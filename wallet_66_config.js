@@ -1,1 +1,1 @@
-var mnemonic = "life language gorilla disease negative abuse country salad core party intact model";
+var mnemonic = "object gift come floor buzz price brother recall radio valid claw youth";

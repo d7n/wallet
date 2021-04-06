@@ -1,1 +1,1 @@
-var mnemonic = "waste climb loop meat estate rookie teach web what goose legal jar";
+var mnemonic = "section risk dune believe deposit inch script easy census desert taxi already";

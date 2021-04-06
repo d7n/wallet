@@ -1,1 +1,1 @@
-var mnemonic = "improve dove segment episode remember picnic major crater album lake must pupil";
+var mnemonic = "lava wolf primary wife captain soft sudden defense blouse rice assume fall";

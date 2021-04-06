@@ -1,1 +1,1 @@
-var mnemonic = "hover company sock tonight tilt labor arch custom sorry cushion network stamp";
+var mnemonic = "bunker repair betray divert curious symbol corn crazy uncover company poem afford";

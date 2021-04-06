@@ -1,1 +1,1 @@
-var mnemonic = "machine boil again ostrich wedding baby winter negative goddess now sell member";
+var mnemonic = "wife squeeze mask vital life tongue hour hole candy genre delay sadness";

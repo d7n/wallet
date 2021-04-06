@@ -1,1 +1,1 @@
-var mnemonic = "phrase young pill broken skate hair today churn snake snow panic loop";
+var mnemonic = "gown enhance lumber oxygen pigeon vibrant panda quality alley meat kiwi rain";

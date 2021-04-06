@@ -1,1 +1,1 @@
-var mnemonic = "hat city approve repeat uncover noodle example female flock real cricket demise";
+var mnemonic = "recycle rug plunge brave total journey cube setup much intact traffic goddess";

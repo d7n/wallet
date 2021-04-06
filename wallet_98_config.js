@@ -1,1 +1,1 @@
-var mnemonic = "ring cream seat cool unaware cannon ethics number note trend party increase";
+var mnemonic = "cancel gesture easily consider sketch target stage action fitness buyer jazz leopard";

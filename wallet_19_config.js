@@ -1,1 +1,1 @@
-var mnemonic = "raw crumble lens echo gallery notable pulp loop organ affair chicken bind";
+var mnemonic = "correct fetch lawsuit little cycle inhale wheel gallery apology picnic render clean";

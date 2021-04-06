@@ -1,1 +1,1 @@
-var mnemonic = "purpose deal saddle tonight utility eyebrow cabin junior slogan claim novel neglect";
+var mnemonic = "leopard doll banana home diet indicate silk company wire fiber please thrive";

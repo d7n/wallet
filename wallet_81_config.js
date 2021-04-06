@@ -1,1 +1,1 @@
-var mnemonic = "humble mother scout swamp young soda flock web fit join fruit solution";
+var mnemonic = "hard hire pair arrange capital width amount hip bench appear fly raccoon";

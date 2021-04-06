@@ -1,1 +1,1 @@
-var mnemonic = "parrot danger walk decade chat grow short reveal agent excuse era fat";
+var mnemonic = "distance exhaust clinic voyage film guilt man permit glory piece pond glimpse";

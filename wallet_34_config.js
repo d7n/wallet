@@ -1,1 +1,1 @@
-var mnemonic = "wolf donor february inherit slush opinion rug vast ten loyal arena whip";
+var mnemonic = "normal spend orient rate industry swallow escape future dolphin head anger sample";

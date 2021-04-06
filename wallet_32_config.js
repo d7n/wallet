@@ -1,1 +1,1 @@
-var mnemonic = "lumber flat act truck crumble opera dune defy vague question file assist";
+var mnemonic = "yard arrive follow bleak camp vault apart onion loan math coast owner";

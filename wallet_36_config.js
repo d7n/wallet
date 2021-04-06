@@ -1,1 +1,1 @@
-var mnemonic = "lock exist garden panel impact castle orchard wealth elevator amused oven various";
+var mnemonic = "theory uphold celery exact fury cook code develop canvas will carpet spray";

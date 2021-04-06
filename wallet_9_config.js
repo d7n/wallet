@@ -1,1 +1,1 @@
-var mnemonic = "apology edge aim fiscal three velvet time milk survey rotate clap march";
+var mnemonic = "wealth local human upgrade thrive actress outer elevator fan critic ring champion";

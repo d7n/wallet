@@ -1,1 +1,1 @@
-var mnemonic = "depend thank super finger drink protect can pupil budget blast giant quality";
+var mnemonic = "cluster dutch tag tobacco govern actual address shield polar nut flock prize";

@@ -1,1 +1,1 @@
-var mnemonic = "raise riot artwork kid ceiling nut gap blue arrow topple model save";
+var mnemonic = "fresh often cry desk barrel master once morning curve trap special legend";

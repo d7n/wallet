@@ -1,1 +1,1 @@
-var mnemonic = "armed orchard boost edit monitor blood today possible october cherry home abstract";
+var mnemonic = "elevator inside alone tube decorate margin alley clump poverty fashion iron idle";

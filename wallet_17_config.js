@@ -1,1 +1,1 @@
-var mnemonic = "family about unlock grace lyrics sword olympic ride source spoon hen grow";
+var mnemonic = "outer shoe arrive because roof raccoon electric fuel assault chaos embrace hurry";

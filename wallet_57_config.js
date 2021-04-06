@@ -1,1 +1,1 @@
-var mnemonic = "abstract sorry refuse stamp seat carpet picture analyst advance street envelope dog";
+var mnemonic = "return dismiss issue lawn roof zero tank monkey worry crime silent cook";

@@ -1,1 +1,1 @@
-var mnemonic = "try scatter rubber hungry unit rebel park hobby trick clinic note country";
+var mnemonic = "excite solution forward net tissue slow original pottery gloom cinnamon domain page";

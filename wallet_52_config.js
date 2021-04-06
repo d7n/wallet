@@ -1,1 +1,1 @@
-var mnemonic = "turkey moon chase pen lunch patch strategy shrimp ripple kick urge young";
+var mnemonic = "boy edge bread skin spare art message person calm leave royal dose";

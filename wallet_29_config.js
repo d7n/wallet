@@ -1,1 +1,1 @@
-var mnemonic = "fortune chunk jar appear rice can type abuse melt bus year season";
+var mnemonic = "pair wire sniff foil attract radar empty notable chief almost allow burst";

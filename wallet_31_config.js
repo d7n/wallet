@@ -1,1 +1,1 @@
-var mnemonic = "hard toss harsh advance stereo frozen amateur doll other subject tree where";
+var mnemonic = "exercise stereo fog pair head source draw equal vintage spoon mad convince";

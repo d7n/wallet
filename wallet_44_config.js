@@ -1,1 +1,1 @@
-var mnemonic = "execute economy diagram parade rich online creek angle version initial poverty prevent";
+var mnemonic = "gold ticket option science fiber earn abuse leaf lady escape stomach despair";

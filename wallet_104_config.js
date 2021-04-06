@@ -1,1 +1,1 @@
-var mnemonic = "relax crowd essence illegal language poem size media dad cave solid giggle";
+var mnemonic = "own only enter risk group empower cover satoshi dust aim satisfy relief";

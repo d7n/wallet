@@ -1,1 +1,1 @@
-var mnemonic = "source actual goddess grant sight stable swift reward pledge glad ship purpose";
+var mnemonic = "almost muffin forget grab stem food wisdom swallow scrap maid enhance globe";

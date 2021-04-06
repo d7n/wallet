@@ -1,1 +1,1 @@
-var mnemonic = "cross thumb door addict actress quantum traffic bunker charge scare frame item";
+var mnemonic = "behave debate drama winner slow fit enjoy enlist together ship robot series";

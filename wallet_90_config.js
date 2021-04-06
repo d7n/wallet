@@ -1,1 +1,1 @@
-var mnemonic = "soul choose front nice tunnel catch affair water bus sauce crunch crawl";
+var mnemonic = "crime tent crew wet lyrics country wine hotel fortune panther jeans tell";

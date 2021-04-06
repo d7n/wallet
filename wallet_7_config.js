@@ -1,1 +1,1 @@
-var mnemonic = "liquid acid box derive banana picnic equal hard flash nut wise sketch";
+var mnemonic = "tip beach quote creek crucial atom burden grab kidney tongue sight belt";

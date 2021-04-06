@@ -1,1 +1,1 @@
-var mnemonic = "position fiscal manage couch kiwi extend legal give mixture outer ticket canyon";
+var mnemonic = "opera mosquito tumble page swarm follow immense decrease runway little shift math";

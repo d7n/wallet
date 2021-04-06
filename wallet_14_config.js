@@ -1,1 +1,1 @@
-var mnemonic = "recall art jar slam bean east almost entire control naive element husband";
+var mnemonic = "city pottery stick involve neglect shrimp fall there spirit small casual boost";

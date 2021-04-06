@@ -1,1 +1,1 @@
-var mnemonic = "gap mule twice security ignore blind method knock decide receive walk uphold";
+var mnemonic = "across penalty duty enhance speed junior future guitar weird check snow glove";

@@ -1,1 +1,1 @@
-var mnemonic = "alley super hunt powder case resemble album one cook snap process rescue";
+var mnemonic = "shoot cattle salt quote domain round drink apple offer almost aspect silent";

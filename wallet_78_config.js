@@ -1,1 +1,1 @@
-var mnemonic = "actual cloud powder leave bunker proud symbol lava term student float elegant";
+var mnemonic = "mammal current festival skull body expect word fly dress cycle warrior deer";

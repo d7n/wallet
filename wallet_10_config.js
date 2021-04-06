@@ -1,1 +1,1 @@
-var mnemonic = "bird deliver beauty process nephew grape glove cinnamon artefact forum buzz walk";
+var mnemonic = "unfold student hungry cactus enroll clap coral inspire arrange flame collect biology";

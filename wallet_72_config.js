@@ -1,1 +1,1 @@
-var mnemonic = "mask spot angle woman transfer begin casual survey humble awkward buffalo october";
+var mnemonic = "name hazard thought game vault hundred run mountain label spring sure inherit";

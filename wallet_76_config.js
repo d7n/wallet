@@ -1,1 +1,1 @@
-var mnemonic = "tobacco clown hazard craft street rescue apple tube rose please wheat clump";
+var mnemonic = "index easily minor army avoid menu arrow bulb left test hill ask";

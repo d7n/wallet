@@ -1,1 +1,1 @@
-var mnemonic = "hurry pumpkin cricket phrase wrong gasp learn isolate bag alley bridge lawn";
+var mnemonic = "mystery point category fat train perfect age liquid reopen green adjust describe";

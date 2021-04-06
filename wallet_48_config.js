@@ -1,1 +1,1 @@
-var mnemonic = "stadium ugly total attend tackle end give flight spider fatigue engine setup";
+var mnemonic = "grain pause direct maze undo rose vessel lobster youth apart jelly anxiety";

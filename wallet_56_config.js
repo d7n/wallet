@@ -1,1 +1,1 @@
-var mnemonic = "swallow kind wait unaware access cry skate before kite around vessel team";
+var mnemonic = "leaf quote nerve column genre penalty upset meadow shift pitch angle defy";

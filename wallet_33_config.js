@@ -1,1 +1,1 @@
-var mnemonic = "inflict wide skull arena size essay universe fragile refuse turn mixed zoo";
+var mnemonic = "erupt rich settle guess review sand pencil amateur explain coconut spice soup";

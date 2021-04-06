@@ -1,1 +1,1 @@
-var mnemonic = "kid spray zone veteran recall palm emotion decrease arctic phrase emotion gift";
+var mnemonic = "style chair honey wrong stereo fringe luggage arrest sad donor glory aerobic";

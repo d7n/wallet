@@ -1,1 +1,1 @@
-var mnemonic = "matter extend regret glide merge panther other armed rain meat traffic fix";
+var mnemonic = "small scare farm urban hood crash immense awesome frequent daring stem diet";

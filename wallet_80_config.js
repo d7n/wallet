@@ -1,1 +1,1 @@
-var mnemonic = "person fine load devote point urge leader early bomb exchange salute lens";
+var mnemonic = "lake purity depend welcome myth entry indoor during month feature truly pride";

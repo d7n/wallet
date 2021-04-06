@@ -1,1 +1,1 @@
-var mnemonic = "fee market lucky argue able wave assume slice owner derive general sauce";
+var mnemonic = "monitor purity shoot excuse include amused purchase eternal confirm car favorite frequent";

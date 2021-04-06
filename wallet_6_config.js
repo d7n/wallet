@@ -1,1 +1,1 @@
-var mnemonic = "convince tide kiwi fetch laugh moon antenna spend thumb tragic safe present";
+var mnemonic = "purpose spend turkey pulp entire vault jealous base grocery hold galaxy weasel";
