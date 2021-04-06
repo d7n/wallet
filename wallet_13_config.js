@@ -1,1 +1,1 @@
-var mnemonic = "huge cute depart nurse evoke wire capable baby science vendor unfold skirt";
+var mnemonic = "rule error present already knee pretty disease awake bulk such chest virtual";

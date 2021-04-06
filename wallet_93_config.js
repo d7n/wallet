@@ -1,1 +1,1 @@
-var mnemonic = "blouse credit mix wink margin hungry fuel alpha dilemma defy upper ignore";
+var mnemonic = "safe sauce claim inspire open question wheat suit chaos field snap ozone";

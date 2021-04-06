@@ -1,1 +1,1 @@
-var mnemonic = "cover child carbon thunder drip crunch search float scatter coil spot burden";
+var mnemonic = "smoke argue melody flavor material brother fluid flower brass life pet net";

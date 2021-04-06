@@ -1,1 +1,1 @@
-var mnemonic = "tissue miracle shed portion gold icon start dish material keen news large";
+var mnemonic = "inform second start spell crunch oil antique trick giant icon sick sniff";

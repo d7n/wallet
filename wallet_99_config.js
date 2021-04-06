@@ -1,1 +1,1 @@
-var mnemonic = "winter link blood hospital relief unusual pond skirt certain document pact sauce";
+var mnemonic = "you afraid buyer dice raw pitch donor hockey brother come mixed digital";

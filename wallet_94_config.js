@@ -1,1 +1,1 @@
-var mnemonic = "town treat eager potato garbage mind salt resist adult nature panel vital";
+var mnemonic = "umbrella whip member dune ask job inspire subject cabbage hospital abuse bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "asset voice book range subway tilt denial tackle clay vivid fiber ice";
+var mnemonic = "hungry jump sell cotton matter govern modify foot conduct crisp differ ivory";

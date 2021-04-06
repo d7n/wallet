@@ -1,1 +1,1 @@
-var mnemonic = "pencil black dismiss iron write favorite govern syrup tunnel tongue comic crucial";
+var mnemonic = "carry breeze video carbon health glare gift illegal trick media bread pause";

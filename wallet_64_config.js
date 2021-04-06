@@ -1,1 +1,1 @@
-var mnemonic = "bread into nice toilet orient oval expose clever orchard garbage vicious auto";
+var mnemonic = "credit gain frozen leave message awesome royal involve hazard always define feed";

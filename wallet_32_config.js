@@ -1,1 +1,1 @@
-var mnemonic = "one cover bone foot transfer refuse can bike arrive curve onion decorate";
+var mnemonic = "soft eye whip arrest acoustic fashion cotton angle setup glimpse laundry ribbon";

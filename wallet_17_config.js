@@ -1,1 +1,1 @@
-var mnemonic = "gas index mimic ready brass kiwi step bus survey eye couch energy";
+var mnemonic = "bird bachelor avoid dizzy skirt rice man canoe theory soft weekend clutch";

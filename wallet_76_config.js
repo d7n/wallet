@@ -1,1 +1,1 @@
-var mnemonic = "limb immense bargain enjoy panther action castle label leg trend negative apology";
+var mnemonic = "unit issue amount insane survey design tired cheap hotel reason scrub scene";

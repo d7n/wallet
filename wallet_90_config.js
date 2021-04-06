@@ -1,1 +1,1 @@
-var mnemonic = "swarm essence delay hard blast whisper spray bar arch damage illegal side";
+var mnemonic = "private uniform chat input chimney solution square regular busy save tortoise cram";

@@ -1,1 +1,1 @@
-var mnemonic = "grow wide vital nest dutch property tumble special layer end knee hint";
+var mnemonic = "inhale worry birth roof fortune warrior home again garlic guess spawn rug";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet balance rocket apple unveil forget inner note curious describe spatial laptop";
+var mnemonic = "write enrich desk taste hollow silk confirm ability indicate boil blade dad";

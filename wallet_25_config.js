@@ -1,1 +1,1 @@
-var mnemonic = "bleak reward ranch clown net member fade office august worth miracle fan";
+var mnemonic = "arena absent fence crater order permit endless lava absorb prepare inner blue";

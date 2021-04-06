@@ -1,1 +1,1 @@
-var mnemonic = "across also fabric private legend remove length note range trash slogan melt";
+var mnemonic = "swing today vibrant express burden grab make select wheat twin credit patrol";

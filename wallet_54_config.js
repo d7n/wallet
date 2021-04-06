@@ -1,1 +1,1 @@
-var mnemonic = "make fox curtain force income movie month level february adjust trim among";
+var mnemonic = "behind swift bundle merge crazy brain power lady oven affair cargo fluid";

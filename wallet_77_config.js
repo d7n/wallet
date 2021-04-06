@@ -1,1 +1,1 @@
-var mnemonic = "rocket ocean thing robust since eagle nest auction safe emerge label congress";
+var mnemonic = "wedding fruit kit aerobic yard siren naive life base laugh space flag";

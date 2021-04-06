@@ -1,1 +1,1 @@
-var mnemonic = "guide erase again damage august harbor leave limit river canal despair picture";
+var mnemonic = "amount load yard tool script glare word avoid program apple agree afford";

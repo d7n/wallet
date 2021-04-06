@@ -1,1 +1,1 @@
-var mnemonic = "large gauge skate another concert despair opinion much enlist wash end into";
+var mnemonic = "taste rich canvas damp animal spike away supply wing coconut imitate shuffle";

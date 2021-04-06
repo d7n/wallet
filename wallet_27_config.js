@@ -1,1 +1,1 @@
-var mnemonic = "flash ahead lesson much left brave traffic meat auto mammal push argue";
+var mnemonic = "change gospel lottery blade police seat robust defy knock rhythm piece first";

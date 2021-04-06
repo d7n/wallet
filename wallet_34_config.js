@@ -1,1 +1,1 @@
-var mnemonic = "brass approve artist erupt honey month cable belt kidney horse calm damage";
+var mnemonic = "dose sunny wire initial corn month sure noise render dice tank neutral";

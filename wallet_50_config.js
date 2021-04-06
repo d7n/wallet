@@ -1,1 +1,1 @@
-var mnemonic = "biology gaze surge bless laptop special core antique pudding dignity fire pipe";
+var mnemonic = "gallery nurse tower total feed network shrimp call accuse spray convince spoil";

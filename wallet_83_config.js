@@ -1,1 +1,1 @@
-var mnemonic = "robust skull vapor cluster tag soap carpet project grab giggle shed draw";
+var mnemonic = "outer slab coach sunny chuckle father insect bracket laugh raven mechanic offer";

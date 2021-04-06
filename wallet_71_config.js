@@ -1,1 +1,1 @@
-var mnemonic = "upon twice decrease trade genius eagle toast rescue manual radio input stereo";
+var mnemonic = "area oven west athlete tattoo pledge cancel sunset sail soccer subway neither";

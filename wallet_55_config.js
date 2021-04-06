@@ -1,1 +1,1 @@
-var mnemonic = "subway hello force oven field crane stick right under old urban canyon";
+var mnemonic = "super symbol good jacket quality fade camp seed fresh surprise crumble impact";

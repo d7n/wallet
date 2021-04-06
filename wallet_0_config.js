@@ -1,1 +1,1 @@
-var mnemonic = "pattern exile observe noise punch use blanket blossom remove render banner rug";
+var mnemonic = "liar soon gap call arm setup seven rib chief viable street witness";

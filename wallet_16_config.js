@@ -1,1 +1,1 @@
-var mnemonic = "degree birth lottery domain ring reject series exist unit kidney speak convince";
+var mnemonic = "jewel decline razor kite remove appear home dust kite indicate barrel arctic";

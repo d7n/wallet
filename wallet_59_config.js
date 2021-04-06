@@ -1,1 +1,1 @@
-var mnemonic = "muscle mind way trash glance tourist habit chief execute pretty pitch trouble";
+var mnemonic = "love candy mimic fancy buffalo humor discover that crane tiger often street";

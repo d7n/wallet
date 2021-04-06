@@ -1,1 +1,1 @@
-var mnemonic = "thumb few camp circle nerve phrase camera security pull dwarf solid drama";
+var mnemonic = "book rival wrap change pelican slide option excuse father tuna swing soda";

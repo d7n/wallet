@@ -1,1 +1,1 @@
-var mnemonic = "bonus coin never grace list replace mule fabric record picture jealous firm";
+var mnemonic = "canyon gown meat sword drip example among fine target flag pen solid";

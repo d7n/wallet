@@ -1,1 +1,1 @@
-var mnemonic = "razor unveil panda mind meat ostrich gentle hedgehog decide lift over define";
+var mnemonic = "forward soup loud glove become later repair dove skull trophy fog magic";

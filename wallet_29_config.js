@@ -1,1 +1,1 @@
-var mnemonic = "cactus science crane visual print pudding brass diesel profit concert museum pink";
+var mnemonic = "cloud rubber tone dose silly wife title shuffle liar payment crop lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "immense runway run seek dish timber bargain appear badge wage gold other";
+var mnemonic = "color afford frost ride false season olympic female grass oven royal kangaroo";

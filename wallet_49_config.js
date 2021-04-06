@@ -1,1 +1,1 @@
-var mnemonic = "rather tiny settle inform staff paper honey never below float kitten exercise";
+var mnemonic = "mushroom nest hello cable hobby blush fine design deer winter flag spend";

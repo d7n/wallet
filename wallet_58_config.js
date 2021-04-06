@@ -1,1 +1,1 @@
-var mnemonic = "plate reject replace empty ozone magnet jewel rhythm maximum shrug flock exclude";
+var mnemonic = "give perfect advance frozen home similar shoot drill two tonight where detail";

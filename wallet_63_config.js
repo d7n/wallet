@@ -1,1 +1,1 @@
-var mnemonic = "resist convince allow fault truck maze coil satoshi extend lamp south hospital";
+var mnemonic = "best park title repeat problem net parrot undo wear huge black again";

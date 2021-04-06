@@ -1,1 +1,1 @@
-var mnemonic = "permit ready whip become acid chat salute tray true seminar galaxy pepper";
+var mnemonic = "noble pet man budget page buzz ocean crazy multiply pact change soap";

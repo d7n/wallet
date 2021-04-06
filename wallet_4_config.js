@@ -1,1 +1,1 @@
-var mnemonic = "winter crane choice usual attend leader become derive moment cycle link tuna";
+var mnemonic = "easy safe column ship leisure buddy olive border fall girl wire flock";

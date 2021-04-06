@@ -1,1 +1,1 @@
-var mnemonic = "lemon main salmon fish bird offer ivory already because frog wish melody";
+var mnemonic = "coyote manage invite egg erode avocado hobby cushion sense pink surround quit";

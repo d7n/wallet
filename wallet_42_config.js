@@ -1,1 +1,1 @@
-var mnemonic = "improve knee myself latin general law burden pluck husband need broom scan";
+var mnemonic = "ride laugh sibling erase dwarf can add traffic cream apology original unaware";

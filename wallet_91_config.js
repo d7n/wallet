@@ -1,1 +1,1 @@
-var mnemonic = "grunt extend color slide depart road chuckle certain impose viable bike jaguar";
+var mnemonic = "scrub camera carpet manual sunny topic crack vague target limb achieve tape";

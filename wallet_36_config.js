@@ -1,1 +1,1 @@
-var mnemonic = "trigger vapor awful velvet staff elephant fashion future blind beyond left begin";
+var mnemonic = "major pact system raven cover inch rebuild spy dog travel stool embody";

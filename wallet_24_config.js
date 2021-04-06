@@ -1,1 +1,1 @@
-var mnemonic = "insane cereal tortoise erosion scan legend require olympic north trash lesson area";
+var mnemonic = "quiz expire bird biology lazy fine multiply hover cube basket mad village";

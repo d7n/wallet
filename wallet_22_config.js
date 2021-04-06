@@ -1,1 +1,1 @@
-var mnemonic = "trade enough unit tuition dawn organ seminar vendor close portion laugh before";
+var mnemonic = "degree blast echo glance rely clay letter fish assault aisle kidney vibrant";

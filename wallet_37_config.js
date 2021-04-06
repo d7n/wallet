@@ -1,1 +1,1 @@
-var mnemonic = "dismiss banner achieve frost lucky force pitch message olive upset finish shaft";
+var mnemonic = "embark chapter drastic venture gate mountain confirm energy piano allow flower bargain";

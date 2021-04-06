@@ -1,1 +1,1 @@
-var mnemonic = "spring beauty business pole pull galaxy camp warfare renew ensure stay flee";
+var mnemonic = "much siege disagree present column undo visit goat fiber damage welcome bridge";

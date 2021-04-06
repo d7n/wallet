@@ -1,1 +1,1 @@
-var mnemonic = "gentle apart juice crime position creek borrow ridge party flag matter retreat";
+var mnemonic = "vessel spread swallow pigeon situate such fine tackle embark another typical urban";

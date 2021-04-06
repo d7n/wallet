@@ -1,1 +1,1 @@
-var mnemonic = "cage exit apple ladder ignore alter settle such smile leg write simple";
+var mnemonic = "naive marriage horn potato twenty wreck such convince nasty oval crucial day";

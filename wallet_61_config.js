@@ -1,1 +1,1 @@
-var mnemonic = "lend quit stomach gather park couple where scheme six bind thought alarm";
+var mnemonic = "repair equip cloud useless tag twin install among forget climb voyage rabbit";

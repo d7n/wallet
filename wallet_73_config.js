@@ -1,1 +1,1 @@
-var mnemonic = "reunion power nothing dirt boat alpha gate oil muffin desk frost traffic";
+var mnemonic = "frog grocery attend much will hero creek aspect way thought evil space";

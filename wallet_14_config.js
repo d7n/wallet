@@ -1,1 +1,1 @@
-var mnemonic = "under web loyal slide bulb put stand rabbit total client brand genius";
+var mnemonic = "lucky fuel left myth hurt biology wedding choice awkward bomb boss asthma";

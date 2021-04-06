@@ -1,1 +1,1 @@
-var mnemonic = "cube rail render march ticket seminar toy road risk outdoor audit title";
+var mnemonic = "admit order share actor link nuclear cool general sample put predict orbit";

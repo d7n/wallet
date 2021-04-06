@@ -1,1 +1,1 @@
-var mnemonic = "mandate whale grief special slim beach hunt hunt buzz lumber regular border";
+var mnemonic = "praise wrestle rent ahead neglect today agent planet regular feel among rug";

@@ -1,1 +1,1 @@
-var mnemonic = "twist bar tiny topic essay detect peasant wing nasty employ output they";
+var mnemonic = "robot ramp tornado dad audit evidence social okay essence waste penalty mimic";

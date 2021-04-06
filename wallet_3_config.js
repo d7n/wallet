@@ -1,1 +1,1 @@
-var mnemonic = "mixture kite rug inmate hub battle churn alien device cycle scout mouse";
+var mnemonic = "animal title scissors lesson taste topple monitor reveal manage mule disagree screen";

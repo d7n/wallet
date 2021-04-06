@@ -1,1 +1,1 @@
-var mnemonic = "benefit amateur company amateur tourist goddess local shadow two indicate legal skill";
+var mnemonic = "method blue sorry ethics list fresh trim rug sport club penalty toy";

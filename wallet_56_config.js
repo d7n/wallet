@@ -1,1 +1,1 @@
-var mnemonic = "scorpion shield spoil gym lesson entry loyal achieve drip clerk suit zoo";
+var mnemonic = "foster orient vendor degree give tuition creek quiz ridge draft frequent basic";

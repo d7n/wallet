@@ -1,1 +1,1 @@
-var mnemonic = "girl ketchup chuckle host armor undo aunt jacket opera tunnel surface coyote";
+var mnemonic = "horror spoil electric giant april raccoon inquiry dragon faculty settle awkward clock";

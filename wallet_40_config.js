@@ -1,1 +1,1 @@
-var mnemonic = "calm country tape toward abuse obscure dice version delay screen dad panel";
+var mnemonic = "birth echo festival border lift silk industry mixed portion evoke midnight bid";

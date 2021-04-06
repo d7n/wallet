@@ -1,1 +1,1 @@
-var mnemonic = "select must close year inherit robust spray deal confirm gown warfare mistake";
+var mnemonic = "park supply genius profit casino embark uncover stage attack color comic faculty";

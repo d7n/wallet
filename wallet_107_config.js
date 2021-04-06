@@ -1,1 +1,1 @@
-var mnemonic = "kitchen east vanish describe normal tribe hedgehog north inject round citizen parrot";
+var mnemonic = "express vocal skull bar wear letter capital slide job annual bind approve";

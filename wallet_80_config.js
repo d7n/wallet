@@ -1,1 +1,1 @@
-var mnemonic = "ship cook funny acid syrup mass emerge sample climb lawn urge six";
+var mnemonic = "adapt ecology lock dirt width curve core assault grab depend stage success";

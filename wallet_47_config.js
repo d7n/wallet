@@ -1,1 +1,1 @@
-var mnemonic = "grain recycle jealous ice motor guitar evolve explain gaze gun arm spoil";
+var mnemonic = "garden trick develop lazy ritual law address nest doll truth divorce eyebrow";

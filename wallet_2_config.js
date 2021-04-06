@@ -1,1 +1,1 @@
-var mnemonic = "nation rely hybrid brush piano dawn throw seed rule cube main route";
+var mnemonic = "tower net update hero excite direct detect fame celery sister demise toy";

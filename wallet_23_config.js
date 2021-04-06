@@ -1,1 +1,1 @@
-var mnemonic = "way solid crime demand plug original cigar earth strike escape famous author";
+var mnemonic = "bottom exhaust witness primary chicken turn taxi table infant enact nasty crash";

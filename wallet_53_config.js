@@ -1,1 +1,1 @@
-var mnemonic = "often grunt snake erupt demand penalty width flash public faint cup brief";
+var mnemonic = "disease excess lake lock bind attend slide glimpse medal tobacco spin like";

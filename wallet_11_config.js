@@ -1,1 +1,1 @@
-var mnemonic = "fold rely shrug audit jewel balcony practice rigid clinic large cave trash";
+var mnemonic = "latin unlock try pyramid icon nice unfold valid lab tuition trim soon";

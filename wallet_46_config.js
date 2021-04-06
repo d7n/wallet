@@ -1,1 +1,1 @@
-var mnemonic = "wear coffee host monitor obey pact feel drip sorry hurry sick second";
+var mnemonic = "boil regular tortoise message violin marine horn carry pond color squirrel snow";

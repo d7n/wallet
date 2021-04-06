@@ -1,1 +1,1 @@
-var mnemonic = "leg magic paddle frog local pattern bonus burger rapid cake mistake income";
+var mnemonic = "cool bulb win inherit argue high special result goat dilemma fiscal fine";

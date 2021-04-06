@@ -1,1 +1,1 @@
-var mnemonic = "range badge cover ring render tray suggest awkward release cupboard fly insect";
+var mnemonic = "crumble imitate later victory extend drill very manual category position rigid video";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit rose neglect resist guilt spice lock injury prosper someone salute pluck";
+var mnemonic = "wasp settle device cruel foil festival fork ship actor scorpion slow switch";

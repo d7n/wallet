@@ -1,1 +1,1 @@
-var mnemonic = "circle genius virus update pottery basket suffer struggle debate gentle clump soccer";
+var mnemonic = "option tomato symptom goat gain rookie liberty reopen scare stove order frost";

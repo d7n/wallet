@@ -1,1 +1,1 @@
-var mnemonic = "know offer sketch cook winter credit school kidney forward double ridge sock";
+var mnemonic = "mountain divorce antique retreat panda escape hunt junior ribbon movie connect source";

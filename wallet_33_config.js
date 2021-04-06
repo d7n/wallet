@@ -1,1 +1,1 @@
-var mnemonic = "obscure base tourist cable half detect fabric trophy theme athlete spike under";
+var mnemonic = "borrow sponsor code unique dolphin moral absent easily nature all orphan quantum";

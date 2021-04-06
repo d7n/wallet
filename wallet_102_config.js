@@ -1,1 +1,1 @@
-var mnemonic = "stomach length little absorb someone water pottery popular learn calm equip grab";
+var mnemonic = "carpet side ceiling garden immense dream busy industry provide undo badge science";

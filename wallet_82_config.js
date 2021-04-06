@@ -1,1 +1,1 @@
-var mnemonic = "bottom boy relax cruise pattern tobacco gift walk ticket repeat blade hire";
+var mnemonic = "special inherit raccoon wheel sound list print brain stage gravity neither tonight";

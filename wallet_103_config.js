@@ -1,1 +1,1 @@
-var mnemonic = "engine trust uncle stay series square light angry top okay poem delay";
+var mnemonic = "safe fox clump ancient stable rapid park pass stereo globe announce chicken";

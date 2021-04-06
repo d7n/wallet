@@ -1,1 +1,1 @@
-var mnemonic = "permit one street disagree chapter already world volcano purpose hire just bid";
+var mnemonic = "stadium infant mass alarm demand wrestle easily sure cloth absurd horse table";

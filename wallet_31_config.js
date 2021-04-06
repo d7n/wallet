@@ -1,1 +1,1 @@
-var mnemonic = "click verify camp until vocal just theme truck uniform melt tomato risk";
+var mnemonic = "because gospel play lyrics cabin illegal turkey proud drive term aerobic absurd";

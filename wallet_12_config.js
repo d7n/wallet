@@ -1,1 +1,1 @@
-var mnemonic = "olympic wood today then raw net snake smart decorate oven honey option";
+var mnemonic = "video gaze pass buffalo entry antique exchange rapid toward slogan ghost brother";

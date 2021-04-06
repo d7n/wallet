@@ -1,1 +1,1 @@
-var mnemonic = "wing install ice wave gain salt pool minor confirm toilet history act";
+var mnemonic = "leave usual rather prefer delay height leisure banana run corn must subway";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket trophy solid payment ankle mean output pond crazy caution excuse outer";
+var mnemonic = "auto element galaxy victory coil daring usage canoe screen bulb moment expire";

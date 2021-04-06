@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit struggle remember rifle interest coil broom shed fan cat devote tide";
+var mnemonic = "fruit lonely leave point early loud police seed winner aunt range corn";

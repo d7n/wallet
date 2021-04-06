@@ -1,1 +1,1 @@
-var mnemonic = "increase roof grass deposit bid cereal latin flat dumb collect viable fly";
+var mnemonic = "chef guard critic animal sea curious ghost liquid cinnamon can warrior ritual";

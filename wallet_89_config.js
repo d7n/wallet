@@ -1,1 +1,1 @@
-var mnemonic = "build garden degree harbor step sure heart review water slide thing nature";
+var mnemonic = "range state post fluid fragile expect west into original hello hunt easily";

@@ -1,1 +1,1 @@
-var mnemonic = "predict surround brief phone unable box nice crane fog wife rabbit inner";
+var mnemonic = "company inform current indicate absent thing broom found sure fortune cup people";

@@ -1,1 +1,1 @@
-var mnemonic = "dream kite until liquid twelve used machine become issue client popular define";
+var mnemonic = "brave royal citizen idea utility addict antique famous payment icon sad visual";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost poem inflict useless search edit bring action tower picnic boss early";
+var mnemonic = "million actual cotton talent cook chalk siren easily replace vast what shift";

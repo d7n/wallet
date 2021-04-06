@@ -1,1 +1,1 @@
-var mnemonic = "orange survey install jazz gold whip autumn mystery undo error lounge boat";
+var mnemonic = "brush shrug range giant solve gun front file beach mesh grace wrong";

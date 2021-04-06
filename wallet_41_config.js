@@ -1,1 +1,1 @@
-var mnemonic = "cloth session spend birth track domain pilot wise elephant salmon donate run";
+var mnemonic = "eagle siren lucky lumber diet also into skill sketch scare supply culture";

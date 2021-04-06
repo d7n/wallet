@@ -1,1 +1,1 @@
-var mnemonic = "toast service scene glance birth green celery cotton clock grit swarm health";
+var mnemonic = "fragile void quantum travel spike ring helmet olive hurry gap grunt lunch";
