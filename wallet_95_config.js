@@ -1,1 +1,1 @@
-var mnemonic = "pilot sudden math usage pottery about fragile eight prevent better genius phrase";
+var mnemonic = "solid puzzle index notable parade time frozen panic deny rhythm drill avoid";

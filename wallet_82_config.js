@@ -1,1 +1,1 @@
-var mnemonic = "clock notice struggle spot athlete reform curtain plunge whip uniform muscle caught";
+var mnemonic = "luxury suffer weasel perfect common unlock spirit awkward rapid that chest action";

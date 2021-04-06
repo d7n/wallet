@@ -1,1 +1,1 @@
-var mnemonic = "shoe benefit window cry fever before search journey slab warm lend shift";
+var mnemonic = "recall lunch latin coil taste tomato subject motion quality update trouble true";

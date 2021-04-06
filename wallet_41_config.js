@@ -1,1 +1,1 @@
-var mnemonic = "amount crumble arctic document plate vanish visa cannon economy wild benefit name";
+var mnemonic = "lady palm bachelor surprise gospel race remain repair super very charge say";

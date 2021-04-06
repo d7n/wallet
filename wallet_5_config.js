@@ -1,1 +1,1 @@
-var mnemonic = "fiscal when clarify later denial same drink mercy turtle rubber milk material";
+var mnemonic = "often maid error visual coconut breeze odor define foil cloth prize reject";

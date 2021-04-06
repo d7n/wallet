@@ -1,1 +1,1 @@
-var mnemonic = "smile predict valid assault rally supreme crater pyramid length camp manual search";
+var mnemonic = "luggage expose cart trumpet album dwarf pond army index light eagle rib";

@@ -1,1 +1,1 @@
-var mnemonic = "text odor proof hospital project dirt sell occur lens cake amount barrel";
+var mnemonic = "fitness much dumb detect online around stock steak speed they bulb mirror";

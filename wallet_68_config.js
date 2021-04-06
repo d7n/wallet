@@ -1,1 +1,1 @@
-var mnemonic = "exist cream erase fit live swarm crime deal setup crouch imitate bacon";
+var mnemonic = "rail focus trust second diary repair exchange work celery keen shallow phone";

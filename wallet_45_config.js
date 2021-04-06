@@ -1,1 +1,1 @@
-var mnemonic = "choice quiz expose always armed quarter guard teach size size social memory";
+var mnemonic = "ranch heart electric cart west genius filter spray kitten slide surface frown";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive mountain broccoli hello repair hotel possible modify add course echo pond";
+var mnemonic = "disorder cabin glass keen settle smile tiger shield pitch file work legend";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth kitten correct struggle bean alley promote muscle grant wing zone decrease";
+var mnemonic = "twice napkin palm select gun athlete oblige concert spider kiwi stem sphere";

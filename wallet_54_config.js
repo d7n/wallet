@@ -1,1 +1,1 @@
-var mnemonic = "language surge best surge solve drink reduce harbor loan used mean violin";
+var mnemonic = "flag noise sick damage galaxy donate alcohol endless year raise elbow truly";

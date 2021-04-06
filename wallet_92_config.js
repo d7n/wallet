@@ -1,1 +1,1 @@
-var mnemonic = "today wear girl fork leisure design empower total bonus gospel setup category";
+var mnemonic = "office thumb second secret mesh few vapor mean innocent someone visit race";

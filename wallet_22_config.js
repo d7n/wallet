@@ -1,1 +1,1 @@
-var mnemonic = "brick busy age broken check upgrade case lift sibling section armed broom";
+var mnemonic = "laptop ensure slam garbage vocal such danger panther valley search permit helmet";

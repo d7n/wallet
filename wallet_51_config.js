@@ -1,1 +1,1 @@
-var mnemonic = "recipe resemble panel crunch age luxury park now youth render put meadow";
+var mnemonic = "teach brick duck liar lens oven burger fragile horror kiwi favorite intact";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch bubble muscle person dice message heart oak moon educate luggage embrace";
+var mnemonic = "snap rare faculty sign parent until burden badge private coffee night frequent";

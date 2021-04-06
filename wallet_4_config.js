@@ -1,1 +1,1 @@
-var mnemonic = "clay gap film math blood omit crash rigid scale boat gloom inspire";
+var mnemonic = "pass resist pudding defy dad loyal oppose whale whip horn salute dutch";

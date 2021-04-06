@@ -1,1 +1,1 @@
-var mnemonic = "situate fire weekend fish draw merit ten party elegant unhappy public acoustic";
+var mnemonic = "ship submit black shrimp spider cruise liberty plastic idea guard flash dress";

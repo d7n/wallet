@@ -1,1 +1,1 @@
-var mnemonic = "cry arrive wish puppy slot diamond tool space twin rely area river";
+var mnemonic = "upon quantum peanut timber alpha illness situate spare execute forest robot hybrid";

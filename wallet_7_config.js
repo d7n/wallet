@@ -1,1 +1,1 @@
-var mnemonic = "fish bronze calm december mystery mountain recall siren hybrid sister absurd cart";
+var mnemonic = "pottery leader legend fatigue fee language ignore fine issue snack ice outer";

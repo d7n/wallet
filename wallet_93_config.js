@@ -1,1 +1,1 @@
-var mnemonic = "reason zebra effort boring bacon base orphan skill open rotate lumber adult";
+var mnemonic = "seat intact vehicle now flat traffic install topic hub reopen ceiling holiday";

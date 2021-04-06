@@ -1,1 +1,1 @@
-var mnemonic = "trip diet also carry quote sausage wealth alone mesh enact cost truly";
+var mnemonic = "umbrella umbrella aerobic warrior praise estate word relax nominee upper marble resource";

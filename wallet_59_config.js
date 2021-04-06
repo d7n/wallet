@@ -1,1 +1,1 @@
-var mnemonic = "sister cage cigar chalk print biology turn teach torch bid tuna spike";
+var mnemonic = "emotion glance dial immune alley auction jewel smooth camp kitten praise guard";

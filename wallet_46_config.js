@@ -1,1 +1,1 @@
-var mnemonic = "bone now maximum vocal chief swarm gun boss system invest income thumb";
+var mnemonic = "tray parade august monster sudden creek speak clown glimpse tilt spice normal";

@@ -1,1 +1,1 @@
-var mnemonic = "only unit favorite steel differ spike cloud cherry budget parade brush place";
+var mnemonic = "service harsh bridge ridge gadget tower paddle marble trend tribe horse whisper";

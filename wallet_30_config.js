@@ -1,1 +1,1 @@
-var mnemonic = "satoshi reward neck piano push table brush ocean cherry awesome couple zone";
+var mnemonic = "budget film soon amateur radar cake veteran ripple dove cruel unveil winter";

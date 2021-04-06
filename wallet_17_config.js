@@ -1,1 +1,1 @@
-var mnemonic = "badge smile warfare theme couple humor risk survey wall music region gift";
+var mnemonic = "icon improve hen visa empower weasel bonus path female session claw chronic";

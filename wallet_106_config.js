@@ -1,1 +1,1 @@
-var mnemonic = "loop square prevent public message exotic rely basket eye coral vessel calm";
+var mnemonic = "sausage roast anchor length coast ceiling great basic pistol elder beef actor";

@@ -1,1 +1,1 @@
-var mnemonic = "endless affair family they hammer joke journey outdoor subject tourist tiger marble";
+var mnemonic = "lock shoot maple vessel print tenant toward flat work infant update motion";

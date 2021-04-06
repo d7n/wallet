@@ -1,1 +1,1 @@
-var mnemonic = "talent change game urban life beauty woman transfer talk view risk enable";
+var mnemonic = "worry result cotton easy shallow wall bone crime index near draft vacuum";

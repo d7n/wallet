@@ -1,1 +1,1 @@
-var mnemonic = "lake cruise welcome change rural oxygen finish stem want goat pelican nose";
+var mnemonic = "scissors mesh flight field frog train foot thrive still drill dignity embark";

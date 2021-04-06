@@ -1,1 +1,1 @@
-var mnemonic = "bulk judge couple quality answer tide dumb obtain broom stadium gain deer";
+var mnemonic = "borrow game eye news good soon emotion note hat item element pride";

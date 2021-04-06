@@ -1,1 +1,1 @@
-var mnemonic = "lion remember satisfy pulse mosquito coin fever kick time vendor unusual bacon";
+var mnemonic = "assist wreck habit chief gift sign slight empty brisk hockey silent rapid";

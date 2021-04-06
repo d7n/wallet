@@ -1,1 +1,1 @@
-var mnemonic = "awful apology potato mimic blur shiver coconut reject olive decorate cannon blade";
+var mnemonic = "flower spoon put celery screen profit same parent pretty alarm apology nasty";

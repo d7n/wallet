@@ -1,1 +1,1 @@
-var mnemonic = "glance jelly fantasy song swear such awake cloth engine swing dose shoot";
+var mnemonic = "fee taxi rocket gesture hair boss novel logic pudding during indicate basket";

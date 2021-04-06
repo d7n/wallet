@@ -1,1 +1,1 @@
-var mnemonic = "cradle slab ramp obscure misery acid observe inherit rare imitate turn merry";
+var mnemonic = "scissors rely reopen earth pair zone practice clap say exchange apple truth";

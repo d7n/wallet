@@ -1,1 +1,1 @@
-var mnemonic = "broccoli hunt doll plate labor illegal front secret train weekend obscure armed";
+var mnemonic = "paddle candy stock lab cage strike small access auto bid problem digital";

@@ -1,1 +1,1 @@
-var mnemonic = "anger beauty reform torch thunder rapid evolve inherit relief quit sad party";
+var mnemonic = "pipe brain example retire culture stone cushion pioneer over dignity bind auction";

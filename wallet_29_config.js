@@ -1,1 +1,1 @@
-var mnemonic = "word faint timber slender unveil fan viable club brother squirrel choose comic";
+var mnemonic = "ask antenna aim region churn beef gym measure merry owner champion holiday";

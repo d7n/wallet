@@ -1,1 +1,1 @@
-var mnemonic = "rude claw expand laptop silly mistake weird swamp acquire bottom better vessel";
+var mnemonic = "cigar furnace fragile gaze nephew better seek million obtain cushion breeze width";

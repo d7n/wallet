@@ -1,1 +1,1 @@
-var mnemonic = "armed cupboard venue reflect lazy tower winter dolphin ghost radar spend love";
+var mnemonic = "enter reason increase bean indicate tornado noble window spell kitten coffee novel";

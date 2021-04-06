@@ -1,1 +1,1 @@
-var mnemonic = "water program egg market thunder give have idea fault head dilemma utility";
+var mnemonic = "draw body island trap quick blade crater naive cricket account shed obscure";

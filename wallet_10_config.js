@@ -1,1 +1,1 @@
-var mnemonic = "olive antique orient language hip feed aerobic sadness foot scale man unfold";
+var mnemonic = "odor noise aerobic vehicle profit oak lottery alpha famous save either monitor";

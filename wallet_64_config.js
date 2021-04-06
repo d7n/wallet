@@ -1,1 +1,1 @@
-var mnemonic = "domain keen inmate lamp speak dish prison legal work index indicate magic";
+var mnemonic = "beach swing prize pull logic oblige link exchange genius name denial curious";

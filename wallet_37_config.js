@@ -1,1 +1,1 @@
-var mnemonic = "pull clarify few comic bubble invite member quarter taste devote modify stand";
+var mnemonic = "profit mass nasty train screen exact truly elephant erosion tired airport man";

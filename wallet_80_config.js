@@ -1,1 +1,1 @@
-var mnemonic = "common dwarf cliff toilet vocal issue atom always demise palm avocado tower";
+var mnemonic = "endorse lamp devote result screen conduct wealth crop giggle hurdle soft office";

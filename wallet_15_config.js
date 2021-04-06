@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin basic pupil husband bottom recall crew judge cannon modify nation thought";
+var mnemonic = "subway hard gesture any merit online village predict capital year olympic obvious";

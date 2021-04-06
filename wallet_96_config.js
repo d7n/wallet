@@ -1,1 +1,1 @@
-var mnemonic = "argue hood survey vast process survey sight common music risk clerk insane";
+var mnemonic = "recycle avoid clean salmon giggle convince enjoy area bridge tomato fashion dose";

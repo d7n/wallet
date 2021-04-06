@@ -1,1 +1,1 @@
-var mnemonic = "search recipe inspire tuition claim comfort bulk battle hedgehog original leader sting";
+var mnemonic = "review siege stay fit run again region able sand dynamic void junior";

@@ -1,1 +1,1 @@
-var mnemonic = "spare erosion dad they slender convince leaf forum cargo dolphin yellow bargain";
+var mnemonic = "pass supreme submit poverty whisper mammal ignore clog leaf actress develop clump";

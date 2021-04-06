@@ -1,1 +1,1 @@
-var mnemonic = "insect busy dress zero other wedding mesh tissue wheel cup hip taste";
+var mnemonic = "wheat royal fog claw few mimic coconut trophy horn knife ripple focus";

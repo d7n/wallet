@@ -1,1 +1,1 @@
-var mnemonic = "minor budget tunnel squirrel dash sure bundle language catch grab strike goat";
+var mnemonic = "someone shoulder mercy magic crash bean observe spider ozone large fox absorb";

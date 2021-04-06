@@ -1,1 +1,1 @@
-var mnemonic = "must fragile voyage small disagree valley expose sort below burst sunset monster";
+var mnemonic = "wedding style series cool cousin cry dove place reduce common hungry slight";

@@ -1,1 +1,1 @@
-var mnemonic = "give grid health boy island awful inquiry group fabric leave absurd force";
+var mnemonic = "adult science grunt soda damage shift analyst fringe kit muscle royal luxury";

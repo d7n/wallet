@@ -1,1 +1,1 @@
-var mnemonic = "barrel pulse heavy spider prosper return chase two issue tray glue relax";
+var mnemonic = "second hole cram path snow hundred chuckle near question pattern medal grape";

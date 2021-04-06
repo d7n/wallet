@@ -1,1 +1,1 @@
-var mnemonic = "drastic canoe oil saddle economy access empower until great stove grab cactus";
+var mnemonic = "dentist garage slender anger knee object that mechanic planet act rotate upper";

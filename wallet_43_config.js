@@ -1,1 +1,1 @@
-var mnemonic = "broken cage satoshi switch chat tube fossil feed network slab dash slight";
+var mnemonic = "lava curtain snow alone used tuna tenant thumb quick swear rigid field";

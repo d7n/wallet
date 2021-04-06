@@ -1,1 +1,1 @@
-var mnemonic = "trade night alpha marble collect weapon syrup wreck what humble because alpha";
+var mnemonic = "cycle matter rocket ride easily want online link gorilla away motor hand";

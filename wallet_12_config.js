@@ -1,1 +1,1 @@
-var mnemonic = "divide cover all tilt empower insane soup column boil above diesel vague";
+var mnemonic = "local draw coyote state tennis spread view response barrel today salt mobile";

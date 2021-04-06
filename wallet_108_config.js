@@ -1,1 +1,1 @@
-var mnemonic = "accident hedgehog spell swarm digital december snack toast all dash oppose chicken";
+var mnemonic = "travel mother swim maximum lazy vital decline modify include enroll scorpion bless";

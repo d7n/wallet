@@ -1,1 +1,1 @@
-var mnemonic = "fault kind large saddle mercy elite erupt hedgehog liquid tackle lecture bright";
+var mnemonic = "alcohol faint pottery review relax awake online high pill truly vehicle across";

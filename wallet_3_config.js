@@ -1,1 +1,1 @@
-var mnemonic = "seed snow baby aim imitate head medal vote whisper paper couch since";
+var mnemonic = "error file palace tomato rely fat fame venue alcohol mean creek monkey";

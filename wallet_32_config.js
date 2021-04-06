@@ -1,1 +1,1 @@
-var mnemonic = "answer require party mystery lesson spoon rule peasant bag thank arch exhibit";
+var mnemonic = "deposit allow assault inside hobby chaos state fall joke cement abandon differ";

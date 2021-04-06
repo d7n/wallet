@@ -1,1 +1,1 @@
-var mnemonic = "blouse meadow pause neutral limb lemon erase dream fragile table rule bullet";
+var mnemonic = "retire lemon post present scrap enroll shell decrease easily average oak laugh";

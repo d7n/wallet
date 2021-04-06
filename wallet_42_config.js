@@ -1,1 +1,1 @@
-var mnemonic = "crush educate cancel beauty drink bleak draft stem clean proud exhaust disease";
+var mnemonic = "acid uncover pill check goddess element cabbage lift spoon approve vague city";

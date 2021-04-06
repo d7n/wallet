@@ -1,1 +1,1 @@
-var mnemonic = "more pioneer twenty normal syrup phrase police april version pond bomb cup";
+var mnemonic = "primary pilot urge inch warrior scissors fence squeeze couch enlist apology fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite audit grit grant resist nice autumn evidence rough wedding behind price";
+var mnemonic = "title erase prefer grow cupboard pill frog banner pull since indicate direct";

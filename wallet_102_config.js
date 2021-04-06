@@ -1,1 +1,1 @@
-var mnemonic = "artist copy attitude tissue bench own boy security crane sleep best embark";
+var mnemonic = "slow lend twist industry stem fun mail boring hope another rich duty";

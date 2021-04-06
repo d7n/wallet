@@ -1,1 +1,1 @@
-var mnemonic = "wet much trouble flame journey trigger tape lucky chest doll result weekend";
+var mnemonic = "unhappy hero robust admit estate item stool champion goddess clarify lucky shrimp";

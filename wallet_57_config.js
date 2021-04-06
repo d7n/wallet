@@ -1,1 +1,1 @@
-var mnemonic = "weather era hand kind ignore brave change other deputy bronze creek iron";
+var mnemonic = "essay plug omit admit clarify electric pigeon fitness quote satisfy venue invest";

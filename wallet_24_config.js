@@ -1,1 +1,1 @@
-var mnemonic = "else myth music random play okay base stadium echo inquiry doll stool";
+var mnemonic = "envelope void van wreck aspect indoor catch school salmon hat north purpose";

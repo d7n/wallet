@@ -1,1 +1,1 @@
-var mnemonic = "dash obscure love country student envelope deliver relax medal boost enhance shove";
+var mnemonic = "armed man actual unit swear grass legend true depart wink dance attract";

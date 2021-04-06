@@ -1,1 +1,1 @@
-var mnemonic = "theme sail multiply material display dad misery truly chef produce nothing carpet";
+var mnemonic = "shell actual draw infant dream goat amateur lemon tent current long pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "sail amazing seed quality exercise infant bunker photo equal oak recall better";
+var mnemonic = "rescue cinnamon display cotton duty fantasy bless promote velvet credit miss find";

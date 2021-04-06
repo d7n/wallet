@@ -1,1 +1,1 @@
-var mnemonic = "invest muffin magnet junior attitude gate pride giant jaguar fatal rocket wear";
+var mnemonic = "response cluster oak half crew chimney wrap nephew grant paddle satoshi upgrade";

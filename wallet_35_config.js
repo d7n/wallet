@@ -1,1 +1,1 @@
-var mnemonic = "carry render tunnel hawk dose endorse arch digital expect cabbage jealous alpha";
+var mnemonic = "owner woman rice useless gospel leader pet hurry huge spray girl genius";

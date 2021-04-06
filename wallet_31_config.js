@@ -1,1 +1,1 @@
-var mnemonic = "gentle inform penalty economy absorb transfer topic grant great soul room easily";
+var mnemonic = "ocean master melt erase future enter maze enough limb fashion hockey during";

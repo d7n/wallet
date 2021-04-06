@@ -1,1 +1,1 @@
-var mnemonic = "pistol rebuild polar exercise reflect castle control coast cluster kite fix junk";
+var mnemonic = "shock need ozone thumb adult advance track fragile giggle ordinary remain small";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic pact foil cabbage cover token mouse one fragile round female coil";
+var mnemonic = "senior rate fat cave word child mosquito female private ensure turkey shrimp";

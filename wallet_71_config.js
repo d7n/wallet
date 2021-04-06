@@ -1,1 +1,1 @@
-var mnemonic = "stand surge deliver grant daring path awake reopen income habit busy tackle";
+var mnemonic = "shrimp foil train town mad trip rather differ harbor royal monster acoustic";

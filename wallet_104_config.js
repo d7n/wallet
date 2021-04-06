@@ -1,1 +1,1 @@
-var mnemonic = "salt seed embody foil puzzle reveal copper amused loyal later stand measure";
+var mnemonic = "ugly donkey walk young vivid kangaroo forward soup balance large girl leg";

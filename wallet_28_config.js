@@ -1,1 +1,1 @@
-var mnemonic = "throw vapor tribe mind want arctic bright spring sheriff miss guilt puzzle";
+var mnemonic = "metal assist rotate horn quick hand monkey image elephant bamboo base sample";

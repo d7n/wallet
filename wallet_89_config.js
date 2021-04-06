@@ -1,1 +1,1 @@
-var mnemonic = "supply music diesel wall inmate total tray abandon decline prize impulse endorse";
+var mnemonic = "few rude good biology food castle unknown arrive civil custom glance citizen";
