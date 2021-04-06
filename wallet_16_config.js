@@ -1,1 +1,1 @@
-var mnemonic = "where same degree feature loud pipe tank shallow castle hen rescue slight";
+var mnemonic = "elevator rival cushion insane stereo talk quantum citizen hundred chronic dolphin approve";

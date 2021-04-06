@@ -1,1 +1,1 @@
-var mnemonic = "work antique enter mad lazy manual lock evoke outer shuffle uphold execute";
+var mnemonic = "two horse admit canyon quit prize bitter what brief morning gauge nominee";

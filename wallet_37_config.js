@@ -1,1 +1,1 @@
-var mnemonic = "spend eight retire faint broken buffalo feed moral demise miss scout hedgehog";
+var mnemonic = "switch picture hurry slogan wheel offer voice donate super surprise candy permit";

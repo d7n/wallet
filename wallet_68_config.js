@@ -1,1 +1,1 @@
-var mnemonic = "ripple blanket item blur oyster bring ensure defense nuclear sting bench grab";
+var mnemonic = "praise puppy hood matrix nerve chalk add brief pelican spirit witness patch";

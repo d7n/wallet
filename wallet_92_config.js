@@ -1,1 +1,1 @@
-var mnemonic = "walnut liberty proud jungle setup sun stock miss miss idle right school";
+var mnemonic = "climb void poverty trim alter mansion wise clinic admit prosper penalty drastic";

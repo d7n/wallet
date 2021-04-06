@@ -1,1 +1,1 @@
-var mnemonic = "reward shop object eager sand close tackle weapon art walnut merry dismiss";
+var mnemonic = "scrub retreat isolate sword champion guilt dinosaur emerge cheap poet pluck bullet";

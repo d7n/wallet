@@ -1,1 +1,1 @@
-var mnemonic = "huge egg town resemble symbol strike giant price warfare sign avoid hero";
+var mnemonic = "erosion victory next bicycle resource doctor bitter walnut conduct stereo coral catalog";

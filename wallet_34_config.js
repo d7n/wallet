@@ -1,1 +1,1 @@
-var mnemonic = "chef silver bread lobster biology summer vague script gasp own turtle ticket";
+var mnemonic = "axis cost mention shrug trade team shy steak enforce mosquito brick hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "slight zone dumb shop huge leg winter album club course horn valve";
+var mnemonic = "carpet lizard neutral because noodle metal entire scare chief road hill bless";

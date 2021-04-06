@@ -1,1 +1,1 @@
-var mnemonic = "emerge maximum base keep chef peasant waste squeeze dirt cement slush drastic";
+var mnemonic = "today thing cave special shrug push income minute series clinic off soup";

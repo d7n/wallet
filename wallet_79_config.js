@@ -1,1 +1,1 @@
-var mnemonic = "drink track pencil appear ship clerk gasp excite cheese pipe embrace notice";
+var mnemonic = "roof wool earn naive census protect series cost piano caution satisfy shift";

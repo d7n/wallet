@@ -1,1 +1,1 @@
-var mnemonic = "resource mobile rifle hope island season dentist invest derive stumble grow junior";
+var mnemonic = "monster move notable loop load chat never drill hub inflict during canal";

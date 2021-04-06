@@ -1,1 +1,1 @@
-var mnemonic = "link atom crystal defy nation scissors champion make name ordinary shoulder dawn";
+var mnemonic = "acid flat lens thought more enough skate burger replace fever twin achieve";

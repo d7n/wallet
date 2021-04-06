@@ -1,1 +1,1 @@
-var mnemonic = "favorite panic exclude dignity crack giant modify sell seek upon shadow shoe";
+var mnemonic = "cousin chase tongue aisle wave awful mix ignore zebra brick access saddle";

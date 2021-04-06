@@ -1,1 +1,1 @@
-var mnemonic = "trend lizard file elite monitor future rifle rack vehicle myth mail sting";
+var mnemonic = "business labor success label thing wire course script hollow they common they";

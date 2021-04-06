@@ -1,1 +1,1 @@
-var mnemonic = "police since field danger monkey rapid dad hint rare reopen viable ensure";
+var mnemonic = "carbon raw neck success slogan surface entry library seat fiction relief ability";

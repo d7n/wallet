@@ -1,1 +1,1 @@
-var mnemonic = "fold need fork interest attend welcome lion win lizard tower car silk";
+var mnemonic = "salt iron tunnel sport squeeze nurse fish between find sleep cigar ticket";

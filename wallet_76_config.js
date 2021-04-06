@@ -1,1 +1,1 @@
-var mnemonic = "doctor lonely funny hungry valid hotel rescue milk region achieve dilemma try";
+var mnemonic = "letter waste hamster filter often sample because vast mansion initial reason account";

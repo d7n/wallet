@@ -1,1 +1,1 @@
-var mnemonic = "inquiry spell decrease penalty celery apology leisure maximum lab renew skill measure";
+var mnemonic = "resource beauty crime firm fever bridge end twelve always hood you intact";

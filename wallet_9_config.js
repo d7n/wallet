@@ -1,1 +1,1 @@
-var mnemonic = "ball derive dial expand field spin silk chaos vacant oppose coin dune";
+var mnemonic = "foot forum sleep mass neck surface side ten prize napkin kitchen diamond";

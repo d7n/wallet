@@ -1,1 +1,1 @@
-var mnemonic = "survey avocado rally birth coil quality cabin time rifle replace elite worry";
+var mnemonic = "chunk make summer sting sadness example cabbage supreme brush tongue prevent right";

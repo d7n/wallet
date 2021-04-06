@@ -1,1 +1,1 @@
-var mnemonic = "able much vibrant wasp rib clay become keep tooth maple enrich design";
+var mnemonic = "toe dragon museum dad napkin general thrive demand culture humor fee aunt";

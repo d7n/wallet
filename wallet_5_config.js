@@ -1,1 +1,1 @@
-var mnemonic = "artist rare regular scan purse picture cabbage copy mountain slab inch orange";
+var mnemonic = "cactus asset muscle exhaust zero leave age giant name spatial satisfy moment";

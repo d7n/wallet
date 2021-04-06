@@ -1,1 +1,1 @@
-var mnemonic = "bubble hover girl tray solve gain project release tower empower side concert";
+var mnemonic = "hen rifle round bean lobster lonely cream order champion direct marine toy";

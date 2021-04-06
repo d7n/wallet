@@ -1,1 +1,1 @@
-var mnemonic = "churn material scale jewel push merit van sing sport drop poet mistake";
+var mnemonic = "base heart fantasy oxygen stuff silver town weekend globe symptom silver tuna";

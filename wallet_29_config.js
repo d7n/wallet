@@ -1,1 +1,1 @@
-var mnemonic = "print brain flame awful describe life ocean visit lounge media dose provide";
+var mnemonic = "tooth match verb venue valve speak toward garage cricket filter black engage";

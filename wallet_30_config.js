@@ -1,1 +1,1 @@
-var mnemonic = "pulse unique stamp explain garage ghost tomorrow crowd switch energy foster perfect";
+var mnemonic = "ball excuse foot believe blame rigid diamond soap success fiction news rail";

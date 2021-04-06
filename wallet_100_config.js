@@ -1,1 +1,1 @@
-var mnemonic = "oven wife rapid trophy act alley hunt blast sugar plug harvest destroy";
+var mnemonic = "tiny guilt oxygen female tunnel limb route drip federal script clerk unique";

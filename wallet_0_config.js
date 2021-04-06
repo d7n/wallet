@@ -1,1 +1,1 @@
-var mnemonic = "another settle drift history delay mosquito defense lab banner expire panda merry";
+var mnemonic = "unknown scene mother either oblige pulp fish bundle brown hollow useless fix";

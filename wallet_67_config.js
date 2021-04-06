@@ -1,1 +1,1 @@
-var mnemonic = "priority aerobic spike medal buddy frog duty problem like month grape hobby";
+var mnemonic = "pond gadget dose cluster betray stumble elegant mad panther say like step";

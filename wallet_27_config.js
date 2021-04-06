@@ -1,1 +1,1 @@
-var mnemonic = "void badge satisfy recycle hazard strike move bulk path raw violin pink";
+var mnemonic = "always sell remain large priority furnace mother release mesh fragile fabric maze";

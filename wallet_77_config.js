@@ -1,1 +1,1 @@
-var mnemonic = "unveil start axis safe rally unit bone album gorilla shield harbor taxi";
+var mnemonic = "already extra spell paper explain hedgehog actor wreck hospital arrange accident chaos";

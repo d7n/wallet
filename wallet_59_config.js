@@ -1,1 +1,1 @@
-var mnemonic = "deal kite unable tower position warm engine original abandon hotel that edit";
+var mnemonic = "sorry silk account effort dawn island inhale festival measure hunt ball surprise";

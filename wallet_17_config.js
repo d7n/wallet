@@ -1,1 +1,1 @@
-var mnemonic = "quarter arrange exile obey upper elder glance tumble scout small caution twenty";
+var mnemonic = "decade broccoli echo start custom pear obscure whale shed lock unaware choice";

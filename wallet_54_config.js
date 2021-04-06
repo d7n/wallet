@@ -1,1 +1,1 @@
-var mnemonic = "east feed slow seminar decorate tackle rapid sunset clinic butter boost habit";
+var mnemonic = "reason pencil code stay able famous tornado feel topple bone foil fashion";

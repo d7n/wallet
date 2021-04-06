@@ -1,1 +1,1 @@
-var mnemonic = "hungry project rent sustain frozen gloom breeze empower column wrong panel rule";
+var mnemonic = "swap napkin mercy air fabric alley team fiction push wet curious apart";

@@ -1,1 +1,1 @@
-var mnemonic = "junior infant twice pupil cushion antenna shy split outer hazard anger film";
+var mnemonic = "pencil leaf level hollow wonder blossom nation reflect cluster weasel close always";

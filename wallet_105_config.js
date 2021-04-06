@@ -1,1 +1,1 @@
-var mnemonic = "junior misery nature equip tomato zero hammer neglect uniform moon special wash";
+var mnemonic = "spend piece fiscal degree strong consider segment pepper relief clay magnet easily";

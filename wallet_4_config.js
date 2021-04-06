@@ -1,1 +1,1 @@
-var mnemonic = "wealth good hybrid ketchup elephant move fly mansion stomach unfair cup hotel";
+var mnemonic = "kitchen you twenty comfort family stuff detect vacuum rapid own warm beef";

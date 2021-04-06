@@ -1,1 +1,1 @@
-var mnemonic = "frost teach dash consider main glove version panic patrol egg believe demise";
+var mnemonic = "wife lawsuit quick process order giant pilot discover cat mammal wool visa";

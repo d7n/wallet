@@ -1,1 +1,1 @@
-var mnemonic = "opinion type spray annual vintage ivory pave blanket employ sheriff achieve face";
+var mnemonic = "item left point skirt witness sibling hamster crash feed bicycle moment gesture";

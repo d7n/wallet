@@ -1,1 +1,1 @@
-var mnemonic = "print pact sauce ocean cargo all cabin protect glimpse stand record try";
+var mnemonic = "wrist lend sister maximum buyer tired budget girl raw cycle detect icon";

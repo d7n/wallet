@@ -1,1 +1,1 @@
-var mnemonic = "dust life cage blind response double click narrow crime shrug point fiber";
+var mnemonic = "unfair ecology they soft south dwarf beach maximum orphan aware desk world";

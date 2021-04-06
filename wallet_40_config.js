@@ -1,1 +1,1 @@
-var mnemonic = "foster mouse false only deal stay tongue couple uphold stone afford cargo";
+var mnemonic = "video energy focus shrug stand cute castle disorder math melt memory chicken";

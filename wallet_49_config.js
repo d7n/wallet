@@ -1,1 +1,1 @@
-var mnemonic = "smoke foster slab awkward blade bubble pitch giggle siren prevent gain six";
+var mnemonic = "scatter tip check kite relief term length lucky spin dry usage must";

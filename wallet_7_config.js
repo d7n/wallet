@@ -1,1 +1,1 @@
-var mnemonic = "brass code deny mail post analyst funny inflict crumble awful slab reflect";
+var mnemonic = "axis inhale because faith diamond chest theme glow leisure search culture list";

@@ -1,1 +1,1 @@
-var mnemonic = "range cat arrange work carry adult rally balcony position onion error earth";
+var mnemonic = "include version predict stairs bacon riot web rely twin moral secret client";

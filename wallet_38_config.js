@@ -1,1 +1,1 @@
-var mnemonic = "juice round lava knife crunch critic dish ahead wonder math tiny gold";
+var mnemonic = "begin scan regular earth outside amount arm clown buddy hub tank one";

@@ -1,1 +1,1 @@
-var mnemonic = "divorce barely used divide enrich body ankle click neck brass unfair pull";
+var mnemonic = "mountain valid coach skull math soccer prison snack liberty rally auto dust";

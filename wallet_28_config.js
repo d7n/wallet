@@ -1,1 +1,1 @@
-var mnemonic = "hole witness three easily engage treat confirm tape crisp two gun witness";
+var mnemonic = "latin choice grocery ocean either tackle volcano flock absurd swear behave crush";

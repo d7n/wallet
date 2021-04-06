@@ -1,1 +1,1 @@
-var mnemonic = "corn ill toy lunch kangaroo day crawl before exhibit owner neutral hope";
+var mnemonic = "badge rocket off swamp wash ranch pluck close cost arrest arrive inherit";

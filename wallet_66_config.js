@@ -1,1 +1,1 @@
-var mnemonic = "place know sleep laptop heavy industry memory deer level picnic mystery tube";
+var mnemonic = "cheese treat lizard mix fish pioneer want trick hurdle sugar verb hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer opinion leg document aerobic melody buffalo defense access drill filter attend";
+var mnemonic = "warfare act ginger awesome dance pizza abstract capable enlist under tomato tackle";

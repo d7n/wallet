@@ -1,1 +1,1 @@
-var mnemonic = "monkey gentle demand cradle six avoid vendor image able science repeat noble";
+var mnemonic = "ride wrestle actor filter pause click stool auto enemy vendor visual senior";

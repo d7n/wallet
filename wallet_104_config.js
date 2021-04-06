@@ -1,1 +1,1 @@
-var mnemonic = "metal enjoy immune december ten wear deliver unique size noble symptom picnic";
+var mnemonic = "rate ancient acquire steel hello they glove used impulse swarm claw rotate";

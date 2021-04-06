@@ -1,1 +1,1 @@
-var mnemonic = "volume salad neutral differ below swarm mobile decrease project have fiscal noise";
+var mnemonic = "road garden bird garage cliff federal unfair arrest bachelor country tennis private";

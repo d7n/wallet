@@ -1,1 +1,1 @@
-var mnemonic = "length camp virus opera sniff inner only loan lobster blanket bench wish";
+var mnemonic = "sense faint autumn ghost century despair shaft debris spread fossil blue pear";

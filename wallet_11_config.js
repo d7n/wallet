@@ -1,1 +1,1 @@
-var mnemonic = "happy tower green slide coach page chair patrol trigger jar analyst want";
+var mnemonic = "toss woman van suspect birth weekend plastic shadow stuff glass fetch chimney";

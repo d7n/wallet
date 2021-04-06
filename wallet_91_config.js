@@ -1,1 +1,1 @@
-var mnemonic = "brain twin bonus idea ice neglect bamboo wagon hair armor december bring";
+var mnemonic = "notable dune february rubber couch easily doctor monkey stumble comic drop armor";

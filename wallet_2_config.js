@@ -1,1 +1,1 @@
-var mnemonic = "shop thunder flock deer junk year stick supply switch please job vault";
+var mnemonic = "farm glass weapon slim wisdom column oyster unaware embrace modify what juice";

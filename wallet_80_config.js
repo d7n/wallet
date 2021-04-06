@@ -1,1 +1,1 @@
-var mnemonic = "leaf sunset silly chapter away stock miracle same erase shadow bleak paddle";
+var mnemonic = "aisle bullet tilt swim inside hammer plug magnet fossil motor pipe sport";

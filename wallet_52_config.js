@@ -1,1 +1,1 @@
-var mnemonic = "define car celery fade avocado resist vocal snake sustain isolate fall agent";
+var mnemonic = "ball fashion visual eager nut guess syrup devote purity response cannon recipe";

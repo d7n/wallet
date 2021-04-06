@@ -1,1 +1,1 @@
-var mnemonic = "exchange hard select assault trash bike island main shop pattern kiwi flower";
+var mnemonic = "cinnamon decrease person slide jaguar clerk note harbor next elephant envelope guard";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight spray sugar engine impulse unit design chimney prison require engine eyebrow";
+var mnemonic = "camp shed modify bachelor film poverty cart car square scrap version steak";

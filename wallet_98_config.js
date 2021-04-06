@@ -1,1 +1,1 @@
-var mnemonic = "fiber battle fringe frozen cabin nose mix problem clarify come all bag";
+var mnemonic = "style puppy size clock gospel crystal double abandon stand duck denial curious";

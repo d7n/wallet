@@ -1,1 +1,1 @@
-var mnemonic = "glimpse under monitor fancy average choose glance naive huge armed hurry obtain";
+var mnemonic = "tribe magic fun craft old also envelope denial firm short brain giant";

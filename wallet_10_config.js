@@ -1,1 +1,1 @@
-var mnemonic = "lend proud opinion butter clog zoo priority audit chat assault vicious endorse";
+var mnemonic = "potato gesture funny simple tornado history earth cinnamon beyond cook uncle tent";

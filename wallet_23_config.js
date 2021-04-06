@@ -1,1 +1,1 @@
-var mnemonic = "retire private goat minimum hood flight choice fine one predict stereo live";
+var mnemonic = "slot fruit glass swallow join renew record cushion fitness flat retire club";

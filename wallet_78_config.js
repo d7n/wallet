@@ -1,1 +1,1 @@
-var mnemonic = "victory connect evil ostrich expand certain blue height require dream recall cotton";
+var mnemonic = "wait truth spirit day spice false apart board since office afford roof";

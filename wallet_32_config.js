@@ -1,1 +1,1 @@
-var mnemonic = "pledge disorder leave major before taste shoot kitchen unhappy you sail palace";
+var mnemonic = "stand click monster garden oil coconut fantasy wild vessel drastic rent call";

@@ -1,1 +1,1 @@
-var mnemonic = "romance rifle input fish favorite ball poet field soft deposit boat captain";
+var mnemonic = "jacket learn feel negative buffalo social cost skill under chimney tower bless";

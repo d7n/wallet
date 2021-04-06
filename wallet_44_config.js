@@ -1,1 +1,1 @@
-var mnemonic = "boss party ill volcano demand physical draw enter rain soon actor clog";
+var mnemonic = "cement risk taste gauge clap help hungry seek mixed nice tiger burger";

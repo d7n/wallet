@@ -1,1 +1,1 @@
-var mnemonic = "tiny erode wedding can advance update skirt only reflect erosion solution execute";
+var mnemonic = "toilet remain shell witness pass fire thumb obey sniff wild lunch egg";

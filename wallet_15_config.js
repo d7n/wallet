@@ -1,1 +1,1 @@
-var mnemonic = "urge lab valid catch rebel decide suit dust crisp hamster milk treat";
+var mnemonic = "saddle excess awful fluid tree palm tower manage know provide kiwi hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle target enact clarify ribbon where innocent truly main song shop hurry";
+var mnemonic = "fossil vendor road monkey settle patch illness fancy prison remind snack way";

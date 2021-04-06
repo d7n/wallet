@@ -1,1 +1,1 @@
-var mnemonic = "finger pride slender scrap beyond wall hire tattoo tourist volume skirt power";
+var mnemonic = "pink expire correct manage sort round degree course review bicycle define song";

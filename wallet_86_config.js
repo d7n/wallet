@@ -1,1 +1,1 @@
-var mnemonic = "typical team this fun bullet gain exchange weather december burden correct awake";
+var mnemonic = "gold fluid improve outside ranch check cliff ethics safe vault fine tuna";

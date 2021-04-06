@@ -1,1 +1,1 @@
-var mnemonic = "grid collect real design hurt need fabric chronic fashion critic sport muffin";
+var mnemonic = "hybrid muffin gold one emotion begin salon marine jeans door pizza gallery";

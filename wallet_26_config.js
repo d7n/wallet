@@ -1,1 +1,1 @@
-var mnemonic = "autumn disorder search whisper effort stool slice logic cruel odor figure plunge";
+var mnemonic = "steak poem suggest squirrel auction cheese travel side unit welcome sell blind";

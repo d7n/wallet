@@ -1,1 +1,1 @@
-var mnemonic = "cannon whisper scout capable abuse already black gospel palace eagle hub mansion";
+var mnemonic = "idea pattern enhance arctic elephant world basic equal one copy grass announce";

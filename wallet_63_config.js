@@ -1,1 +1,1 @@
-var mnemonic = "margin guitar happy spread slush creek merit cactus bacon section tragic real";
+var mnemonic = "idea beauty concert convince armor season exchange diagram shoe betray you final";

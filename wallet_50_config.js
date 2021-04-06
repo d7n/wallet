@@ -1,1 +1,1 @@
-var mnemonic = "weekend grunt term length stove project echo glass motor produce keen copy";
+var mnemonic = "helmet arrange mouse detect spawn okay poverty fresh pink indoor purse pen";

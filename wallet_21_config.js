@@ -1,1 +1,1 @@
-var mnemonic = "camera weasel forward smoke expose found mom vessel dumb target lobster boat";
+var mnemonic = "trim scan hold ugly cinnamon laugh shoe spirit forward cook hawk animal";

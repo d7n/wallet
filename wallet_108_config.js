@@ -1,1 +1,1 @@
-var mnemonic = "mind comfort lava smooth slow twin link off antique quit define forward";
+var mnemonic = "stumble work clown exchange protect remember utility oil jar speed advice prefer";

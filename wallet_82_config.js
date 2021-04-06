@@ -1,1 +1,1 @@
-var mnemonic = "salmon exist old quit photo daring round bean flash problem nose maximum";
+var mnemonic = "final logic science pave tray gas network disease orchard control install patch";
