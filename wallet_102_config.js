@@ -1,1 +1,1 @@
-var mnemonic = "flame zone can stuff rule knee list waste core total breeze eight";
+var mnemonic = "decorate iron inside saddle rough squirrel lecture base expect engine library half";

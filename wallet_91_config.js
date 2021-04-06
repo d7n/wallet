@@ -1,1 +1,1 @@
-var mnemonic = "medal cave ticket series output doll cook dumb distance fold double sell";
+var mnemonic = "door antique suit list laundry early scan juice man cactus apart exhibit";

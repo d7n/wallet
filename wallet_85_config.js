@@ -1,1 +1,1 @@
-var mnemonic = "boss off shadow typical orchard innocent shop deposit raise stem insane replace";
+var mnemonic = "aspect heavy drink merge provide deer rain mammal sheriff inmate apple explain";

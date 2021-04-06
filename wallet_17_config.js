@@ -1,1 +1,1 @@
-var mnemonic = "resist rent face punch oppose pact million second produce curtain dwarf meat";
+var mnemonic = "useful erosion celery physical thought kit inflict business butter fringe because lawsuit";

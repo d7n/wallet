@@ -1,1 +1,1 @@
-var mnemonic = "rely rare drift force mandate divert skill chronic swamp shuffle utility whale";
+var mnemonic = "fix opinion misery toast sorry anxiety night pause beyond release curious fury";

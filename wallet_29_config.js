@@ -1,1 +1,1 @@
-var mnemonic = "weird safe joke shoe catch recycle pilot narrow midnight erupt olive rent";
+var mnemonic = "aisle volume project theory truck pitch love nature easily sail source climb";

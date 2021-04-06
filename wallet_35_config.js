@@ -1,1 +1,1 @@
-var mnemonic = "sudden orchard smile saddle horror sing unveil endless true stadium bean stove";
+var mnemonic = "art seven sorry believe adult require situate ozone book venue zero juice";

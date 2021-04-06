@@ -1,1 +1,1 @@
-var mnemonic = "deposit wedding poverty symbol defense equip upset can twin wave suspect radar";
+var mnemonic = "scout spoon wage ozone fan must travel case dizzy orchard indoor method";

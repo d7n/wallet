@@ -1,1 +1,1 @@
-var mnemonic = "rally game subject first behave spend vehicle stomach giggle desk tray ginger";
+var mnemonic = "ladder stadium column safe damp comic hour boost health diesel moon network";

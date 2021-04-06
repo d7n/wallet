@@ -1,1 +1,1 @@
-var mnemonic = "reform steak pluck border cup divide thrive fly swap attack recall oyster";
+var mnemonic = "excite wall laptop board excess ensure feel stick pet brain logic buddy";

@@ -1,1 +1,1 @@
-var mnemonic = "riot tomato garden clay agent chronic liquid swallow gas hat multiply cupboard";
+var mnemonic = "firm minor note divorce devote output key rent mutual forget cave spider";

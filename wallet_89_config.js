@@ -1,1 +1,1 @@
-var mnemonic = "omit hill note glide web journey lunch expire one hunt maximum poet";
+var mnemonic = "cherry wage clever fury winter poverty outdoor source market boss all vendor";

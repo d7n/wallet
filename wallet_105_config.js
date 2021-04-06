@@ -1,1 +1,1 @@
-var mnemonic = "alley buffalo put grass custom usual sense bubble bullet parent coral buzz";
+var mnemonic = "chicken cricket sunset glad frost noise cluster soup gadget scatter ordinary vocal";

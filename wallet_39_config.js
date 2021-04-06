@@ -1,1 +1,1 @@
-var mnemonic = "elevator future arrange slab venue ridge climb panic symptom enforce run shallow";
+var mnemonic = "endorse tortoise amount flee such trigger fuel middle misery retire bus report";

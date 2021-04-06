@@ -1,1 +1,1 @@
-var mnemonic = "defense awake simple frown buffalo sell expect word circle vibrant fine can";
+var mnemonic = "coyote hole canyon local talk behind air universe fiction twin hello grid";

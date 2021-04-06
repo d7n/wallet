@@ -1,1 +1,1 @@
-var mnemonic = "anger neglect nasty topic mango peanut category tattoo oak giant gold frozen";
+var mnemonic = "scrap middle firm display pumpkin kind dial acoustic hour lunar balcony artwork";

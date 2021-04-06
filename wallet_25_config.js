@@ -1,1 +1,1 @@
-var mnemonic = "remove mystery surprise mistake egg large service palace kitten vocal tone soda";
+var mnemonic = "success charge around picture orient base dove clean dove envelope material mail";

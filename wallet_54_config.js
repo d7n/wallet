@@ -1,1 +1,1 @@
-var mnemonic = "injury exclude dad flower lava wrist effort order clock art cat merry";
+var mnemonic = "master tank cheese school infant eyebrow banana citizen labor glare camp chicken";

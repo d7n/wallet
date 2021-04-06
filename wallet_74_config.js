@@ -1,1 +1,1 @@
-var mnemonic = "joy excite music group jacket regret bulb day essay clarify opera cinnamon";
+var mnemonic = "carry soldier defy excuse injury album oil true coach float tube winner";

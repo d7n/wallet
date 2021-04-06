@@ -1,1 +1,1 @@
-var mnemonic = "ignore relief start gate best fish near brass blush affair grass version";
+var mnemonic = "bulk ceiling flag festival put bid add submit wealth grocery toy deny";

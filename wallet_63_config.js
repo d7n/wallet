@@ -1,1 +1,1 @@
-var mnemonic = "fragile until predict movie thank siren toast flavor another fever good secret";
+var mnemonic = "enlist actor adjust surprise ordinary glove normal chimney better merge adjust glad";

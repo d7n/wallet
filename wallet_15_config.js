@@ -1,1 +1,1 @@
-var mnemonic = "actress unhappy volcano photo good hospital require output cotton slot guilt license";
+var mnemonic = "garage athlete small group winner truth report project spoon shell divide cotton";

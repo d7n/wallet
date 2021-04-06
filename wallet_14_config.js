@@ -1,1 +1,1 @@
-var mnemonic = "repeat two head teach have chef plastic employ breeze push route machine";
+var mnemonic = "save clinic rescue drill silver noodle sustain maple assault athlete sure lake";

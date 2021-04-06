@@ -1,1 +1,1 @@
-var mnemonic = "wide seven sand couple heart coconut erupt guilt steak spoon oblige enforce";
+var mnemonic = "warfare safe hour party future chimney palace risk knock ocean trouble marriage";

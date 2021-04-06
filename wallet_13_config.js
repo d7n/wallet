@@ -1,1 +1,1 @@
-var mnemonic = "jewel strategy initial anger kid video survey shallow verb cup usage myself";
+var mnemonic = "bomb party lady case dial basket brave pet execute again dizzy cinnamon";

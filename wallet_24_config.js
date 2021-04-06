@@ -1,1 +1,1 @@
-var mnemonic = "vocal drive program again dust core virtual eager trade select emerge stomach";
+var mnemonic = "legal rotate fatal stone patch round essence crater umbrella cement leopard struggle";

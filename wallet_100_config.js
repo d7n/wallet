@@ -1,1 +1,1 @@
-var mnemonic = "pottery wood bargain inspire avoid mandate rebel keep hover perfect prepare trap";
+var mnemonic = "custom happy naive vast axis soup comic layer casual begin where road";

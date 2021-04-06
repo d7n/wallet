@@ -1,1 +1,1 @@
-var mnemonic = "age usual fancy panda kick market travel guess pink renew parade salad";
+var mnemonic = "buddy force entry supply soap female execute what discover spike build allow";

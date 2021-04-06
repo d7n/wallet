@@ -1,1 +1,1 @@
-var mnemonic = "wine people muscle urge upgrade service awesome subway sand consider what spread";
+var mnemonic = "trend aspect monster moral indicate rival twice critic virus penalty creek run";

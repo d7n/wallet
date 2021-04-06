@@ -1,1 +1,1 @@
-var mnemonic = "drill entire twelve elbow just surround wine lobster light control curve miss";
+var mnemonic = "carpet truck concert render reduce asset clock excite demand buyer mammal era";

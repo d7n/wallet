@@ -1,1 +1,1 @@
-var mnemonic = "little media mother note giraffe bag turn nominee wage grocery cloth display";
+var mnemonic = "fluid kite pull enough tumble garage snow curious ridge unveil banner split";

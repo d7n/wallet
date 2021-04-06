@@ -1,1 +1,1 @@
-var mnemonic = "final trouble argue warfare oxygen sweet consider craft fine keep rural method";
+var mnemonic = "stairs merit wear manual monitor erupt spring describe axis damp tree wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "runway liar rack sadness elite bottom bless wild solve kid rough accuse";
+var mnemonic = "avocado want gate sunset novel bus possible genius enemy fish client book";

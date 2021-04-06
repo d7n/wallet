@@ -1,1 +1,1 @@
-var mnemonic = "prefer lunch file aim ignore noble balcony blade daughter town great helmet";
+var mnemonic = "uniform awesome bleak reject gaze swing magnet illegal thing rapid onion split";

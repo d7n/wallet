@@ -1,1 +1,1 @@
-var mnemonic = "dose end sell legal joke exact learn daring silver exotic trick brief";
+var mnemonic = "seek exile tonight infant this cousin total hover gaze online hub error";

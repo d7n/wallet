@@ -1,1 +1,1 @@
-var mnemonic = "lazy fury cram forget poet crater raven staff match urge second cricket";
+var mnemonic = "blame fury nature auction pear usage shuffle project lake brisk coin spare";

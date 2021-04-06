@@ -1,1 +1,1 @@
-var mnemonic = "salt foster indoor brand goat boy again stairs bamboo canoe prevent spider";
+var mnemonic = "empty hero summer loyal live special blame sweet glide forum mutual bleak";

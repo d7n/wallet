@@ -1,1 +1,1 @@
-var mnemonic = "prison slice charge wagon focus pink riot ticket skill frequent join enter";
+var mnemonic = "bone elder doll cook aunt chef dish cheese decline vault roast mixture";

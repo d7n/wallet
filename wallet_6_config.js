@@ -1,1 +1,1 @@
-var mnemonic = "stairs broccoli ignore caught consider bird broom pair travel dune sad grab";
+var mnemonic = "solve skirt keen wing course broccoli empower excuse arctic creek basket stomach";

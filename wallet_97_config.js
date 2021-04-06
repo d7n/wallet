@@ -1,1 +1,1 @@
-var mnemonic = "cake garage harsh clarify immune blue edit cigar reduce ride game lift";
+var mnemonic = "impulse ticket aisle special game now federal twist destroy approve dutch tennis";

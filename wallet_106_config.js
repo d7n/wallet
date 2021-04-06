@@ -1,1 +1,1 @@
-var mnemonic = "other toe save truck disorder alter siege pride cluster spray rotate ginger";
+var mnemonic = "abstract general clarify edit fortune flock upon junk kangaroo worry bone mother";

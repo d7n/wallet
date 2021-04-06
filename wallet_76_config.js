@@ -1,1 +1,1 @@
-var mnemonic = "front swim allow weekend save cliff symptom parade lion cement gain glance";
+var mnemonic = "april alpha record fan sheriff like truck wrong into lyrics stock source";

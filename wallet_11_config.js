@@ -1,1 +1,1 @@
-var mnemonic = "wrist vague stay decorate husband pony bacon cricket rotate open now various";
+var mnemonic = "wood island absorb window cupboard party dice bike stairs maple fold rabbit";

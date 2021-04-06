@@ -1,1 +1,1 @@
-var mnemonic = "meat keep offer loyal front two hungry inquiry balance siege junior betray";
+var mnemonic = "shell tape napkin welcome style harsh bid seek patrol best grief resist";

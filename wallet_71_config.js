@@ -1,1 +1,1 @@
-var mnemonic = "release host expire tone ribbon panda swing when scheme squeeze core topple";
+var mnemonic = "camp survey lyrics just dish father meadow limit second agree vehicle alpha";

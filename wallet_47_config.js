@@ -1,1 +1,1 @@
-var mnemonic = "west object tongue scrub denial body dial result nation anxiety acquire into";
+var mnemonic = "bag sword must mean ozone gym side debris section case blossom ginger";

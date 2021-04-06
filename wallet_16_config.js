@@ -1,1 +1,1 @@
-var mnemonic = "mosquito gloom vital wheel monster van dismiss unveil vintage antenna twelve lens";
+var mnemonic = "snow access clutch blouse sound scale flame nasty wheat habit stereo aim";

@@ -1,1 +1,1 @@
-var mnemonic = "clown piece reject check artwork foam senior pupil goose sun plastic decline";
+var mnemonic = "equip frame submit visual walk attitude panel unknown stamp relief primary arrange";

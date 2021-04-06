@@ -1,1 +1,1 @@
-var mnemonic = "game popular make square into wrist run twice wonder equip tray pelican";
+var mnemonic = "notice promote figure budget physical often grace involve host film power label";

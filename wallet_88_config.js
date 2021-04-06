@@ -1,1 +1,1 @@
-var mnemonic = "husband vintage fix struggle mind air business machine grunt around planet ship";
+var mnemonic = "crime mystery increase ship friend labor cash upper pause seek unhappy tape";

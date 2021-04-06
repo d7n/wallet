@@ -1,1 +1,1 @@
-var mnemonic = "sample mail toy sample genius cigar diesel lift chuckle scatter girl survey";
+var mnemonic = "language case nerve metal mask forum animal clerk music exact wrestle effort";

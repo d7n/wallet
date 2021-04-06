@@ -1,1 +1,1 @@
-var mnemonic = "approve payment quarter outer giant dumb quick invest rare drip betray such";
+var mnemonic = "core crime honey honey rival plug tray fire hint light spare logic";

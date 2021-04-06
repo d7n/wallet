@@ -1,1 +1,1 @@
-var mnemonic = "furnace wonder portion cook rookie auction bright desk include project surround liberty";
+var mnemonic = "noble gas lab alone oyster connect method bomb sea swap goose outdoor";

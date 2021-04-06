@@ -1,1 +1,1 @@
-var mnemonic = "make humble mother slot visual master medal club hood curve buyer alter";
+var mnemonic = "idea shoot whisper shallow prosper color turkey price annual wink kick correct";

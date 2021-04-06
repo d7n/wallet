@@ -1,1 +1,1 @@
-var mnemonic = "sausage honey grant wedding evoke flush deposit butter blame climb predict addict";
+var mnemonic = "since autumn soap base green tube cereal few shed cousin guide large";

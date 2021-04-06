@@ -1,1 +1,1 @@
-var mnemonic = "polar skin floor number bike snake demand student figure right turtle snap";
+var mnemonic = "place group syrup flock year ceiling upgrade whale siren gossip people congress";

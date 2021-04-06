@@ -1,1 +1,1 @@
-var mnemonic = "cat they smile situate afford grant rural empower matter comic crucial nephew";
+var mnemonic = "veteran merit cage limit tag practice song twist slot turtle foot lens";

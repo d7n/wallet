@@ -1,1 +1,1 @@
-var mnemonic = "chaos amateur ankle draft safe style tennis orchard thank panda phrase bread";
+var mnemonic = "order despair tube regret online step borrow direct shed defense dwarf forest";

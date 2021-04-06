@@ -1,1 +1,1 @@
-var mnemonic = "inspire isolate fashion visa segment era fantasy usage sniff waste wash print";
+var mnemonic = "pave obvious lonely spare border egg nature way excess uncover hire aisle";

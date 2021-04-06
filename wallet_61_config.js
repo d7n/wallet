@@ -1,1 +1,1 @@
-var mnemonic = "gospel tail easily mountain ugly shy sea jungle genre dolphin surface rocket";
+var mnemonic = "traffic stomach have chief strike thumb file theory can know goat enter";

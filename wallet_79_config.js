@@ -1,1 +1,1 @@
-var mnemonic = "skirt mixture obey brave organ cattle hope convince twenty whip bag unknown";
+var mnemonic = "below turn brisk pet harvest crater summer height project hint green track";

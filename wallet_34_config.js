@@ -1,1 +1,1 @@
-var mnemonic = "fire fine lonely funny fire sphere wisdom match nerve upper muscle scale";
+var mnemonic = "private viable chunk suit hungry direct script enrich pluck february deputy argue";

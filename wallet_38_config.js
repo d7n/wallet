@@ -1,1 +1,1 @@
-var mnemonic = "power slush wrap grid pond side liberty inquiry anxiety output program cart";
+var mnemonic = "alien power sausage survey vague matter super coral unhappy fancy raven glory";

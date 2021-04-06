@@ -1,1 +1,1 @@
-var mnemonic = "coffee verify swarm olympic rabbit struggle hazard lemon add example fan wood";
+var mnemonic = "must crack wine cannon furnace little lesson source admit awkward raven empty";

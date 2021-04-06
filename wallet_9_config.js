@@ -1,1 +1,1 @@
-var mnemonic = "gas sign move spice badge tragic solution concert shoe explain glad welcome";
+var mnemonic = "opera pelican scare size ahead prize more eagle junk detect away mango";

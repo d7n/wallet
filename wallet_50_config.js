@@ -1,1 +1,1 @@
-var mnemonic = "pool rough car diamond close effort disagree fault gorilla coconut erupt grace";
+var mnemonic = "pistol toss recipe puppy original detail jacket rely clay hurdle order remember";

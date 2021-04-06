@@ -1,1 +1,1 @@
-var mnemonic = "three exclude burst tragic glow tomorrow pudding burger horse scrap inhale tomorrow";
+var mnemonic = "stand firm danger virtual despair proof hover people birth final couple liar";

@@ -1,1 +1,1 @@
-var mnemonic = "toast parent apple nerve risk define avocado report crater warfare test vivid";
+var mnemonic = "recall elbow scorpion spawn want sign mobile someone unknown episode garage dragon";

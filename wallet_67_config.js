@@ -1,1 +1,1 @@
-var mnemonic = "faculty artist guide about ripple direct captain tiger remind field lounge supply";
+var mnemonic = "inch fiber hockey there scatter soap onion aware mirror cake snake pluck";

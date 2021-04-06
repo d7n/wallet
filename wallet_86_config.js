@@ -1,1 +1,1 @@
-var mnemonic = "nothing pelican meadow hill under mammal pluck lesson public fish strategy wasp";
+var mnemonic = "black ripple force pulp company thumb obey plug across emotion remove trumpet";

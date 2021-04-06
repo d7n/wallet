@@ -1,1 +1,1 @@
-var mnemonic = "genre dial wish wheat project proud stool shield modify thrive uniform proof";
+var mnemonic = "nominee nasty parrot elite domain ghost practice miracle pony supreme denial bulk";

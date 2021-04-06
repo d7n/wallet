@@ -1,1 +1,1 @@
-var mnemonic = "regret mind obey glance tilt sign mad route mushroom gospel region ill";
+var mnemonic = "word oblige either require deputy region brick hip extra corn urge capital";

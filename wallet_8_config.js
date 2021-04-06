@@ -1,1 +1,1 @@
-var mnemonic = "chef face source minute body chicken ecology deputy jealous gloom grocery inflict";
+var mnemonic = "cigar happy case gauge element urge gaze public calm amateur subject silly";

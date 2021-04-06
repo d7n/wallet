@@ -1,1 +1,1 @@
-var mnemonic = "tree crystal whale upon valley step assist quality tuition shop blade misery";
+var mnemonic = "green phrase distance rescue marble retreat acoustic wolf illegal chapter sweet fancy";

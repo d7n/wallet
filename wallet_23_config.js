@@ -1,1 +1,1 @@
-var mnemonic = "calm little six bunker shell mammal helmet marriage banner high strong food";
+var mnemonic = "follow nominee dream quarter snap filter walnut unit lemon life friend abstract";

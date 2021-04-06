@@ -1,1 +1,1 @@
-var mnemonic = "decrease hint all judge kid skin combine develop mechanic surround huge review";
+var mnemonic = "visit despair gossip forum music sell person now recipe will victory meat";

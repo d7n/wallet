@@ -1,1 +1,1 @@
-var mnemonic = "raise lawn dress march grid ecology crawl mirror mushroom ripple fetch sense";
+var mnemonic = "menu nose sad tool erupt dragon review mixed weapon initial width swing";

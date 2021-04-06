@@ -1,1 +1,1 @@
-var mnemonic = "recipe large mother ask inherit laugh enhance twin clutch diary cigar essay";
+var mnemonic = "identify genre head super two trap rapid book grocery table cover alter";

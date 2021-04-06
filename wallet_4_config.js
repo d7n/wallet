@@ -1,1 +1,1 @@
-var mnemonic = "piano water fiscal camp utility umbrella until clarify indoor swap quit still";
+var mnemonic = "image notable muscle mad blast latin small option cross arrive crouch hip";

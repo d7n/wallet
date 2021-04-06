@@ -1,1 +1,1 @@
-var mnemonic = "real visit destroy empower minor blossom trade multiply depend hotel wrap expect";
+var mnemonic = "evidence cloud special wedding exhibit focus brown swear unlock stem jelly measure";

@@ -1,1 +1,1 @@
-var mnemonic = "junk draft horn swear library gauge foot random april food minute thrive";
+var mnemonic = "flower misery fly inspire stomach pudding horn celery thing wheel regular scare";

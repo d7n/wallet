@@ -1,1 +1,1 @@
-var mnemonic = "sting start hill summer online industry alcohol avoid timber acid picture quit";
+var mnemonic = "only journey timber balcony improve glove letter release accuse thunder nurse estate";

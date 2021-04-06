@@ -1,1 +1,1 @@
-var mnemonic = "sail erosion cabbage faith secret album toss twenty morning arrow mass lemon";
+var mnemonic = "mix pink element ethics select slush wasp gaze man chunk wrong fork";

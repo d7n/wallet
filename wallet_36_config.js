@@ -1,1 +1,1 @@
-var mnemonic = "drop survey girl zone cry slide suit rescue limit pistol method twice";
+var mnemonic = "vital arrow dash photo minimum obscure climb pull lottery symbol ridge spin";

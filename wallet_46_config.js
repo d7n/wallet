@@ -1,1 +1,1 @@
-var mnemonic = "onion plunge belt churn fruit corn ice defy alter abandon gallery cream";
+var mnemonic = "rose angle spin come bunker oyster stick agent page behave umbrella action";
