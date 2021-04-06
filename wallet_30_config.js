@@ -1,1 +1,1 @@
-var mnemonic = "crane able nut guilt priority foot pet column limit floor next must";
+var mnemonic = "catch snap this remain toast faint marriage help bracket finger hip physical";

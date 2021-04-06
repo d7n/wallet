@@ -1,1 +1,1 @@
-var mnemonic = "already neglect tuition athlete trouble entry birth fox dutch sphere embody retreat";
+var mnemonic = "armed barely remember avocado trim ice visa crucial mother poverty assist punch";

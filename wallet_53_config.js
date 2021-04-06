@@ -1,1 +1,1 @@
-var mnemonic = "educate feed juice arrive toddler army dilemma deputy sentence trigger wear polar";
+var mnemonic = "design pen text nominee duty foil armor tenant lucky barrel primary noise";

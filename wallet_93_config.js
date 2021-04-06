@@ -1,1 +1,1 @@
-var mnemonic = "material trash north maze unhappy sausage side congress steak guide joke sea";
+var mnemonic = "inside bomb drip equal maid assault rescue loyal butter similar avoid assume";

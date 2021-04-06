@@ -1,1 +1,1 @@
-var mnemonic = "service essence absurd hood student vivid arrive dinner black provide tornado legal";
+var mnemonic = "orient hour close video episode number atom twenty chimney play mango machine";

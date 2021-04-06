@@ -1,1 +1,1 @@
-var mnemonic = "tornado clutch nothing pink sausage grief advance curve reject genre oppose fence";
+var mnemonic = "razor onion flight sign glimpse spread anxiety park cook rapid salute typical";

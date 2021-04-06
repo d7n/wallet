@@ -1,1 +1,1 @@
-var mnemonic = "auction member nature stuff you spare pink mistake arrange output similar use";
+var mnemonic = "swap devote cup enrich chest fall oval film quality frozen blame will";

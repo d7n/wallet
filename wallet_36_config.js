@@ -1,1 +1,1 @@
-var mnemonic = "uniform coconut stomach faculty oven will wear pelican fitness one tag again";
+var mnemonic = "estate tackle sea mouse slender buddy food exclude idea escape announce margin";

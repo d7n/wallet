@@ -1,1 +1,1 @@
-var mnemonic = "tuition crew ribbon bone grape mother credit dial oyster cigar fiscal squirrel";
+var mnemonic = "all afraid hello myself stay audit kitten six oppose shift equal exhibit";

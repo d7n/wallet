@@ -1,1 +1,1 @@
-var mnemonic = "hunt radar cry stage midnight excess category door fury green afraid pave";
+var mnemonic = "bronze funny agent pig truth south tiny marine innocent crash saddle advance";

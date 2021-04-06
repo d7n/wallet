@@ -1,1 +1,1 @@
-var mnemonic = "illegal elevator glow cherry toward curve bench bean magnet mammal already inquiry";
+var mnemonic = "hat sand argue vicious secret clown useful across input target scale slogan";

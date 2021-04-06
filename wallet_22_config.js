@@ -1,1 +1,1 @@
-var mnemonic = "science circle negative pilot tomato record blush actress expire release pond airport";
+var mnemonic = "parent doll address next acoustic space obtain silly artist update position fault";

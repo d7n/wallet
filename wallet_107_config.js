@@ -1,1 +1,1 @@
-var mnemonic = "grace champion message close salute cannon quit drop captain tomato tomorrow explain";
+var mnemonic = "symptom spatial genuine village wine draw great hockey flee hurdle coast toward";

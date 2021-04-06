@@ -1,1 +1,1 @@
-var mnemonic = "latin gate jaguar powder cricket solid clean filter slab antique occur clinic";
+var mnemonic = "knee sphere morning feel tomorrow know glide cactus great east cherry embody";

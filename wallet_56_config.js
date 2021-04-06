@@ -1,1 +1,1 @@
-var mnemonic = "update assist cave crisp round sign buffalo project elegant shoe basket ignore";
+var mnemonic = "demand excess elegant cross filter error audit network blush leader still trip";

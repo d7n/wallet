@@ -1,1 +1,1 @@
-var mnemonic = "rare napkin prosper fish oblige country donate silver anger avocado carry rigid";
+var mnemonic = "puzzle melody feel gloom near insane blouse assume trigger replace snap sort";

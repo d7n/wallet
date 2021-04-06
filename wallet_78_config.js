@@ -1,1 +1,1 @@
-var mnemonic = "liquid fever replace census budget width renew rebuild manual predict rib august";
+var mnemonic = "such private easy bind tent tourist identify vicious menu below web luggage";

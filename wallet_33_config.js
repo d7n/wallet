@@ -1,1 +1,1 @@
-var mnemonic = "seat reopen pottery sudden measure baby spot forget dinner section ocean harbor";
+var mnemonic = "couch assault trash hawk moon fiber resemble motor field arm tooth oven";

@@ -1,1 +1,1 @@
-var mnemonic = "biology staff lottery test crack dynamic invite spirit human comic deputy win";
+var mnemonic = "advice upon crew swallow march doll dinosaur bag dilemma find action click";

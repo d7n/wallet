@@ -1,1 +1,1 @@
-var mnemonic = "book interest chimney tip vessel syrup cost same smart write cruel bronze";
+var mnemonic = "strategy calm february require begin ask multiply verify zebra jaguar bonus tribe";

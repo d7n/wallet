@@ -1,1 +1,1 @@
-var mnemonic = "okay wink february half fluid toddler hint scrap gospel drive already catch";
+var mnemonic = "steak nothing dash mandate immense crack thrive quarter jump decade calm cost";

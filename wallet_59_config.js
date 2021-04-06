@@ -1,1 +1,1 @@
-var mnemonic = "small field jar vacuum real pelican blood oxygen jazz drill neglect broom";
+var mnemonic = "secret strong select security zoo monkey citizen paper battle legal season page";

@@ -1,1 +1,1 @@
-var mnemonic = "save shine february argue exist simple medal mom erosion daughter chest festival";
+var mnemonic = "kitchen lens heart syrup follow fortune learn mandate shield cloud wheel else";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual mobile evoke armor allow help weasel faculty man session boil tomorrow";
+var mnemonic = "omit scissors dilemma oxygen fatigue glass cycle fiction alert warrior suffer offer";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn aspect cup spirit result together promote receive hip dirt clog confirm";
+var mnemonic = "horse permit end chef multiply kiwi peasant frequent resist raven floor rug";

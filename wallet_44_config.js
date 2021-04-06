@@ -1,1 +1,1 @@
-var mnemonic = "else sugar venture pizza table enforce left napkin ribbon type diet hospital";
+var mnemonic = "prize rare thank erosion camp holiday tag debris north decide sister muscle";

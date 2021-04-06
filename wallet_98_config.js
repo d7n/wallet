@@ -1,1 +1,1 @@
-var mnemonic = "enter guilt panic prosper media eternal silver humble visa analyst start shiver";
+var mnemonic = "zebra demand warrior belt purity moon spend scrap timber display three heart";

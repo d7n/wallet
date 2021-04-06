@@ -1,1 +1,1 @@
-var mnemonic = "season traffic emerge relax tonight toward milk ripple gate calm screen about";
+var mnemonic = "ill galaxy radio destroy step tomorrow horn aerobic brain viable visual best";

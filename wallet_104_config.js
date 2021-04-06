@@ -1,1 +1,1 @@
-var mnemonic = "smile mass tiny thought path icon lunar kind stay bomb hard unhappy";
+var mnemonic = "mixture primary core faculty zoo ahead feature deal federal remove happy surge";

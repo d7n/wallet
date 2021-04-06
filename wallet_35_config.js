@@ -1,1 +1,1 @@
-var mnemonic = "type input flock tongue ten shrimp mutual build hat rifle glue make";
+var mnemonic = "daughter silent mistake inflict rare strike south diamond humble choose swamp daring";

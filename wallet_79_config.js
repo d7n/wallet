@@ -1,1 +1,1 @@
-var mnemonic = "repeat ramp rather betray van visual stem burst suffer caught ready monkey";
+var mnemonic = "robot fatal wonder kidney slide choose license bone response right brother order";

@@ -1,1 +1,1 @@
-var mnemonic = "huge crucial lens maid anxiety grab middle mimic diet entry file tonight";
+var mnemonic = "day banner seminar much youth brush crisp ice derive salmon rubber once";

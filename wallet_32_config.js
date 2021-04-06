@@ -1,1 +1,1 @@
-var mnemonic = "parade wink predict glide deposit metal whip pyramid uniform moon inflict clog";
+var mnemonic = "armor skate border atom disease kiss kangaroo devote couple table soup dinosaur";

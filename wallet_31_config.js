@@ -1,1 +1,1 @@
-var mnemonic = "orbit stage embark orient win potato memory rare run bomb impulse cycle";
+var mnemonic = "bind oven habit educate wrist say adjust winter river error recipe present";

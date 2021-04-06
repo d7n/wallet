@@ -1,1 +1,1 @@
-var mnemonic = "chimney scan toss betray favorite mistake obscure matter sample onion mean erode";
+var mnemonic = "quality much zero grab muffin garage daring into bone ordinary control chest";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf cake abuse mixed false discover skate stereo ethics loyal reflect okay";
+var mnemonic = "maid crash napkin visual need promote leader veteran when day story bronze";

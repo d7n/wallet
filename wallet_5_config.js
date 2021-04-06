@@ -1,1 +1,1 @@
-var mnemonic = "hybrid help orchard gather harsh abuse vacant jungle deliver future army almost";
+var mnemonic = "busy social adjust enter story potato latin vast float first next miracle";

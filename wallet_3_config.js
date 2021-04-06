@@ -1,1 +1,1 @@
-var mnemonic = "again gorilla silver blur slab eagle lonely cabbage daughter game habit quantum";
+var mnemonic = "congress glass chicken depend luxury ensure bomb wrong luxury avoid soul session";

@@ -1,1 +1,1 @@
-var mnemonic = "birth crazy traffic world chronic denial puzzle school captain teach mass library";
+var mnemonic = "betray frozen tomorrow spot employ seed into cruise vote stick enough laugh";

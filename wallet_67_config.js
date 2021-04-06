@@ -1,1 +1,1 @@
-var mnemonic = "diamond round canyon dilemma easily retreat flip fire monitor visual soon romance";
+var mnemonic = "cliff dad salute dismiss disagree vessel skirt ask error define flame bus";

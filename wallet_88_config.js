@@ -1,1 +1,1 @@
-var mnemonic = "dash together useful lounge menu angry typical pride arrange theme predict mass";
+var mnemonic = "diary code frown crush engage clean state race offer fork grace horror";

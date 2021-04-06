@@ -1,1 +1,1 @@
-var mnemonic = "analyst hybrid tide light lava accident ceiling laundry youth swamp sing warfare";
+var mnemonic = "armed equal relief shy speak lunar earn symbol pitch brush evil spider";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny vital lottery party cost disorder river immense unit wrap ramp copper";
+var mnemonic = "able foam liquid impose skin melody citizen throw ask first damp wife";

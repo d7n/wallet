@@ -1,1 +1,1 @@
-var mnemonic = "link gift ability dolphin person artefact plug oak lyrics bonus midnight never";
+var mnemonic = "surprise budget punch cabin unfair lesson future runway amount dash subject base";

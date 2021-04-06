@@ -1,1 +1,1 @@
-var mnemonic = "vast clown list regret whale captain banner enroll actress trim project slight";
+var mnemonic = "leopard harvest dune chaos giggle loyal energy unveil robot hope civil tip";

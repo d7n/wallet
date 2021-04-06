@@ -1,1 +1,1 @@
-var mnemonic = "test such prison blade slush swift bonus ramp plug staff cement tip";
+var mnemonic = "extra winter ride stumble bronze nuclear manual tape true rude inhale logic";

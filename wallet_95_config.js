@@ -1,1 +1,1 @@
-var mnemonic = "security kind produce elite chaos asthma dune refuse age valley absorb relax";
+var mnemonic = "cruise country powder ginger appear horn earth distance push escape submit figure";

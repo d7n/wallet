@@ -1,1 +1,1 @@
-var mnemonic = "into budget castle polar trick glory swamp original digital rather change hamster";
+var mnemonic = "fiber route earn thing always wear silent useful flavor keep nose expose";

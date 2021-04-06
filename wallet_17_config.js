@@ -1,1 +1,1 @@
-var mnemonic = "couple dizzy stove autumn main figure typical genuine unlock convince win dash";
+var mnemonic = "surround shoulder awful around become devote wave deal sphere domain adjust miracle";

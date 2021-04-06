@@ -1,1 +1,1 @@
-var mnemonic = "invest brick mistake change reflect woman entry crime sea camera bundle endless";
+var mnemonic = "wing account device ramp sketch destroy harvest sword hurt soap talent gesture";

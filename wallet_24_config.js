@@ -1,1 +1,1 @@
-var mnemonic = "gold punch purse pilot void bone firm similar alarm cake wagon panda";
+var mnemonic = "enroll firm pony shove symptom clay noise fantasy market trash outdoor science";

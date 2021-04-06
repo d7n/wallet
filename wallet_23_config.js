@@ -1,1 +1,1 @@
-var mnemonic = "embrace unique want giggle again snack often friend cherry sock antique expect";
+var mnemonic = "exercise cabbage artwork vault radar supreme afraid what unfold mix rude raven";

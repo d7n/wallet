@@ -1,1 +1,1 @@
-var mnemonic = "coffee antenna elite canyon either balance special fitness stuff suffer easy immense";
+var mnemonic = "quiz old era topic fruit marine festival erase stereo harsh unfold dream";

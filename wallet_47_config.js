@@ -1,1 +1,1 @@
-var mnemonic = "shuffle rail carpet session burst still exact cheap list brown exist bean";
+var mnemonic = "excite carbon barely agree open liar menu humble decorate swamp feed chase";

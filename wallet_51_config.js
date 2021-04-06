@@ -1,1 +1,1 @@
-var mnemonic = "own prefer save cabin certain upset keep life ice reward diagram still";
+var mnemonic = "vast transfer pride excite nothing cricket inspire web awake coyote snow blouse";

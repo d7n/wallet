@@ -1,1 +1,1 @@
-var mnemonic = "east know carry sail old deny coconut ship inflict flag fiscal license";
+var mnemonic = "monitor chimney fork shrimp curve join report high journey edit december decrease";

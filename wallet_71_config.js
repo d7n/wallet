@@ -1,1 +1,1 @@
-var mnemonic = "weasel between era keep rural enable cricket bar tennis success theory critic";
+var mnemonic = "polar carpet roast figure spy sentence elephant sibling wisdom blind volcano deal";

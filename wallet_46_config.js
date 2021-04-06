@@ -1,1 +1,1 @@
-var mnemonic = "bird lecture antique fun ask glide use path parrot nice must cause";
+var mnemonic = "property trash brand yellow sound seminar pause unveil file circle false ball";

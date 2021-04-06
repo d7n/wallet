@@ -1,1 +1,1 @@
-var mnemonic = "bubble estate lawn twenty stomach ridge hurdle paper dirt book swallow labor";
+var mnemonic = "bleak unlock security safe omit route forget hunt fluid cause category candy";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery prison lobster sword scrap lecture stumble antique milk purchase season crush";
+var mnemonic = "damp hole leg whale mesh toward blanket envelope old spawn aisle when";

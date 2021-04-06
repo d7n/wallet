@@ -1,1 +1,1 @@
-var mnemonic = "coral jump depth blind style real raccoon execute butter rally nominee quality";
+var mnemonic = "paddle picnic chaos allow jeans rotate extra there decline now bid lemon";

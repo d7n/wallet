@@ -1,1 +1,1 @@
-var mnemonic = "vast symptom dish crazy clump start author tuna dose grain grain prison";
+var mnemonic = "friend grant glad tumble spare strike cake chaos visit grain green nose";

@@ -1,1 +1,1 @@
-var mnemonic = "sing innocent defense cactus kangaroo joke toe fox inner walk own night";
+var mnemonic = "thought gas reunion access toward rather soul space alter frame barely defy";

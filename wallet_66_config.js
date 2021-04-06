@@ -1,1 +1,1 @@
-var mnemonic = "rail mirror hero truly below talent blur give page wet collect alien";
+var mnemonic = "cheap enough easily segment guard carry crunch evoke mean guitar keen annual";

@@ -1,1 +1,1 @@
-var mnemonic = "have clever actual pudding steak situate birth brief option jungle rice notable";
+var mnemonic = "rather cargo vivid three mushroom salon boat cram kit anchor farm time";

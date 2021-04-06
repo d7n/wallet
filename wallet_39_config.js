@@ -1,1 +1,1 @@
-var mnemonic = "scatter exit noble aspect pioneer dish truly panther viable bread dawn supreme";
+var mnemonic = "furnace gasp permit clarify please arm comic hint tank cargo neglect exclude";

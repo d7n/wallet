@@ -1,1 +1,1 @@
-var mnemonic = "fantasy symbol exercise midnight faculty junk unfold silver mushroom include course neutral";
+var mnemonic = "analyst evoke company creek vacuum clog will web add hip sock eyebrow";

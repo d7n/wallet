@@ -1,1 +1,1 @@
-var mnemonic = "addict cigar coach man walk claw turkey peace room blind awkward return";
+var mnemonic = "wave rare wear alert elite stock regret bacon cabbage ridge slam shuffle";

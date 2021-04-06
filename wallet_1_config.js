@@ -1,1 +1,1 @@
-var mnemonic = "label blur fabric machine wire name measure neck cherry bridge road inmate";
+var mnemonic = "concert kingdom very keep scissors hub kiwi analyst another relax assist degree";

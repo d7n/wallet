@@ -1,1 +1,1 @@
-var mnemonic = "enable cherry task author face pull snack swim success toy spirit giraffe";
+var mnemonic = "snake sustain couch lazy horn hungry clock square three keep major tomato";

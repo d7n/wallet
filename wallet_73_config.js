@@ -1,1 +1,1 @@
-var mnemonic = "effort sand adapt copper harvest drop cliff tell note rough usual derive";
+var mnemonic = "cricket huge copper company upon budget grocery coffee alley favorite pass butter";

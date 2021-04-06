@@ -1,1 +1,1 @@
-var mnemonic = "double hidden raise angle civil various error orient original labor wine treat";
+var mnemonic = "midnight polar senior own bus myself novel month clip amazing slam spell";

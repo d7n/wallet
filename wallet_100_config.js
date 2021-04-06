@@ -1,1 +1,1 @@
-var mnemonic = "trouble lend language globe coffee recall weird wage meat table bind plastic";
+var mnemonic = "patient access such glue skate tenant body dress kid emerge deposit olive";

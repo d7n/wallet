@@ -1,1 +1,1 @@
-var mnemonic = "number luggage chunk tower build key screen alley this second foot ocean";
+var mnemonic = "case harvest doll vanish strike clock member learn blood tube today hunt";

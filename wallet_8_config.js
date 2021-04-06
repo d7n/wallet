@@ -1,1 +1,1 @@
-var mnemonic = "twenty physical immense lawn civil confirm say card enroll hub now audit";
+var mnemonic = "harvest lottery point upset retire wolf start cost siren piano bicycle tissue";

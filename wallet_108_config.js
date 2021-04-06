@@ -1,1 +1,1 @@
-var mnemonic = "upon film electric book gravity stock actor include company sign shuffle absorb";
+var mnemonic = "sock position bullet catalog exile sketch session body renew power tiger shine";

@@ -1,1 +1,1 @@
-var mnemonic = "face wash despair worry text lift answer grace subway whale element endorse";
+var mnemonic = "impulse left half ready fat there code suit tiger witness century real";

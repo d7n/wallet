@@ -1,1 +1,1 @@
-var mnemonic = "tissue ghost tortoise gap oppose wrong mansion rather panda ignore clip verb";
+var mnemonic = "scrap earn wasp rude join vague cream pink aunt regret pool grape";

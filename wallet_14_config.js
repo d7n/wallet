@@ -1,1 +1,1 @@
-var mnemonic = "sure mean portion funny credit width flavor smooth guitar yard peace antique";
+var mnemonic = "weather improve car envelope owner oppose aspect weather expire legend bean innocent";

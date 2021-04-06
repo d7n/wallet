@@ -1,1 +1,1 @@
-var mnemonic = "photo result wide stuff wealth holiday garden place proof cheap mechanic annual";
+var mnemonic = "dolphin major stomach tray cruel crane actress burger vibrant imitate garment gaze";

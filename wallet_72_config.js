@@ -1,1 +1,1 @@
-var mnemonic = "grant title fatigue main bean paper valid ten episode truly run receive";
+var mnemonic = "original point monster assume catch mobile bar ivory across proof cheap couple";

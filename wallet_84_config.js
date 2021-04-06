@@ -1,1 +1,1 @@
-var mnemonic = "remember unveil giraffe pilot accident glue work rich wreck feature salt desk";
+var mnemonic = "nasty scan hood mansion chest world symptom wealth physical clown census pulp";

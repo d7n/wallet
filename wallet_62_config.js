@@ -1,1 +1,1 @@
-var mnemonic = "fluid tattoo second kid magic frost sport solve emerge measure wreck jungle";
+var mnemonic = "camera news cram pupil tissue twenty domain shove autumn silent royal whip";

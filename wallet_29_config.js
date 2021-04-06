@@ -1,1 +1,1 @@
-var mnemonic = "help income use clog pupil empower veteran outdoor source pupil clinic blur";
+var mnemonic = "confirm submit album off remain pottery stone dress guilt taxi cube practice";

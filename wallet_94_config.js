@@ -1,1 +1,1 @@
-var mnemonic = "aim amount chalk absent frequent extend stomach combine senior bullet water nuclear";
+var mnemonic = "bread poem swing dentist fame prosper minimum bundle display speed other dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter organ prize also ladder lizard latin grid hospital income always hospital";
+var mnemonic = "potato disease senior attitude tone inspire rather alcohol stool reveal aim speed";

@@ -1,1 +1,1 @@
-var mnemonic = "exit asthma ensure fence early clump critic verb bullet penalty differ audit";
+var mnemonic = "faint banana reduce unhappy estate flame amateur caution goat tone sick book";

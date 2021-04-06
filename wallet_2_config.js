@@ -1,1 +1,1 @@
-var mnemonic = "snow ignore hockey airport music warfare radar image thought cereal quality noble";
+var mnemonic = "index mutual hedgehog rescue outside cable thumb orange appear relief ride cross";

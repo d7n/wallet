@@ -1,1 +1,1 @@
-var mnemonic = "common armed industry omit account book sun noise submit glue fence vague";
+var mnemonic = "cover nuclear onion spider begin renew breeze glad today tennis snow ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "oak junk enemy host stamp ladder razor april spread mobile punch other";
+var mnemonic = "swap want produce security trick increase split limb soda oyster dolphin exact";

@@ -1,1 +1,1 @@
-var mnemonic = "begin vast wheat female charge drop become attract leisure novel giant design";
+var mnemonic = "stuff cream divide stamp raise suffer nest surface prosper sausage tissue child";

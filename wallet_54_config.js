@@ -1,1 +1,1 @@
-var mnemonic = "pledge exit cute noble trip tongue only balcony outdoor filter wife swallow";
+var mnemonic = "extra security address satisfy face plate husband volume museum destroy sight goose";

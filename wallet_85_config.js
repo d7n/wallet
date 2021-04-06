@@ -1,1 +1,1 @@
-var mnemonic = "flame trash bomb else animal siege bean alert hurdle nut soft seven";
+var mnemonic = "debate antenna enable order health grace gallery multiply aunt refuse wise lunar";
