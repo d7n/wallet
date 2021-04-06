@@ -1,1 +1,1 @@
-var mnemonic = "pull off file online dutch gravity install object home silent peace roof";
+var mnemonic = "network wine second check clerk enroll meat open clerk nice stay inquiry";

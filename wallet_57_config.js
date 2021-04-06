@@ -1,1 +1,1 @@
-var mnemonic = "return dismiss issue lawn roof zero tank monkey worry crime silent cook";
+var mnemonic = "bamboo select laundry toward seminar trip main dragon embark foil beyond major";

@@ -1,1 +1,1 @@
-var mnemonic = "grain pause direct maze undo rose vessel lobster youth apart jelly anxiety";
+var mnemonic = "venue wave spot answer scout door matter track hundred vital exercise wing";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator inside alone tube decorate margin alley clump poverty fashion iron idle";
+var mnemonic = "panther finger sister sand monkey error fatal whale always organ suggest trigger";

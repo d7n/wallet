@@ -1,1 +1,1 @@
-var mnemonic = "deputy chase lizard love brush caught glove ancient bullet vocal praise cruise";
+var mnemonic = "capital dismiss wage all keep slot squeeze someone trigger together fame coast";

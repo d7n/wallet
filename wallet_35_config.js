@@ -1,1 +1,1 @@
-var mnemonic = "pencil situate salute garden evolve slight omit vibrant crunch oyster world size";
+var mnemonic = "advice wall crawl burst note index artefact real mention trash void under";

@@ -1,1 +1,1 @@
-var mnemonic = "dose blur bounce west pair clutch amused wagon auction move lucky mandate";
+var mnemonic = "buddy ritual crisp climb blood thumb fetch laundry badge poet fish square";

@@ -1,1 +1,1 @@
-var mnemonic = "city pottery stick involve neglect shrimp fall there spirit small casual boost";
+var mnemonic = "slow drill moon sell hat enlist divert inhale task exhibit thunder lunar";

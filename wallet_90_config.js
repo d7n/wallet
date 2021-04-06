@@ -1,1 +1,1 @@
-var mnemonic = "crime tent crew wet lyrics country wine hotel fortune panther jeans tell";
+var mnemonic = "draw page admit recipe crazy reunion grief enter bid lazy eight own";

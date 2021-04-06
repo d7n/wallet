@@ -1,1 +1,1 @@
-var mnemonic = "excite solution forward net tissue slow original pottery gloom cinnamon domain page";
+var mnemonic = "recipe expect general tonight ketchup mesh sphere palace candy strategy decorate entire";

@@ -1,1 +1,1 @@
-var mnemonic = "object gift come floor buzz price brother recall radio valid claw youth";
+var mnemonic = "draft glass erase hazard lonely cube pig cement loud kangaroo region feed";

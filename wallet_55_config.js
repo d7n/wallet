@@ -1,1 +1,1 @@
-var mnemonic = "virus door control actual present museum enact oak escape gorilla siren conduct";
+var mnemonic = "warrior denial poverty divorce nut endorse oil physical pear close culture asset";

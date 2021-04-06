@@ -1,1 +1,1 @@
-var mnemonic = "only bomb fiscal rabbit guard love camp blame ritual gap entire bacon";
+var mnemonic = "enable dad lady front biology update coach height canyon receive used transfer";

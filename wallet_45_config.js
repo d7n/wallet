@@ -1,1 +1,1 @@
-var mnemonic = "obvious brother symptom volcano flat pupil language hundred enforce mansion galaxy lake";
+var mnemonic = "enroll remember state group radar text jazz riot happy armor please prepare";

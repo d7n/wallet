@@ -1,1 +1,1 @@
-var mnemonic = "siege alarm remember board ice category happy throw bridge critic price swim";
+var mnemonic = "joy fossil tobacco cherry error symbol crawl husband label color business okay";

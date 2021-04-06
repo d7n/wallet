@@ -1,1 +1,1 @@
-var mnemonic = "party broken garbage tourist outer what shove foil husband frost during they";
+var mnemonic = "stem wing canyon junior tribe pole cup stumble tragic bunker clay family";

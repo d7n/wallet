@@ -1,1 +1,1 @@
-var mnemonic = "govern ostrich plug donkey load faint ice guess input despair tell ritual";
+var mnemonic = "travel power book urban home elbow march across sentence zero heavy february";

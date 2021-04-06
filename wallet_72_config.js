@@ -1,1 +1,1 @@
-var mnemonic = "name hazard thought game vault hundred run mountain label spring sure inherit";
+var mnemonic = "wrestle yellow evidence gravity about moon noise hip choose dentist below idle";

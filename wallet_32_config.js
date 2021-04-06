@@ -1,1 +1,1 @@
-var mnemonic = "yard arrive follow bleak camp vault apart onion loan math coast owner";
+var mnemonic = "stadium board rely turtle scissors convince magic remind possible garlic hundred express";

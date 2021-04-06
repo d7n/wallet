@@ -1,1 +1,1 @@
-var mnemonic = "cover enact utility athlete purse symptom release axis leisure tiny bundle cause";
+var mnemonic = "pet ethics timber reject leisure answer weasel pond session shallow decorate pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "index easily minor army avoid menu arrow bulb left test hill ask";
+var mnemonic = "used right rhythm undo tape song onion they episode call column menu";

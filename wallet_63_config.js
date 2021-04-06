@@ -1,1 +1,1 @@
-var mnemonic = "until rich baby slide raw photo armor exist need oil win polar";
+var mnemonic = "include spring gorilla spin skill forward parrot warm ketchup moon critic school";

@@ -1,1 +1,1 @@
-var mnemonic = "evil outer access perfect fat loud inherit cook silk hard worth voyage";
+var mnemonic = "focus fiber begin rapid acid robust beauty lizard remain pottery worth gate";

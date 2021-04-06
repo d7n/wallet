@@ -1,1 +1,1 @@
-var mnemonic = "behave debate drama winner slow fit enjoy enlist together ship robot series";
+var mnemonic = "subway cinnamon rich crunch october gesture behave few finish expect scorpion inch";

@@ -1,1 +1,1 @@
-var mnemonic = "praise smooth endorse dwarf try mobile regular slot bounce version tennis lawsuit";
+var mnemonic = "cable prevent cage cliff cream intact stable certain surge require false skate";

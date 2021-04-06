@@ -1,1 +1,1 @@
-var mnemonic = "chair force south bean salt unable proud shine multiply foot organ cook";
+var mnemonic = "talk badge undo witness erupt robot adapt letter drop strategy small brief";

@@ -1,1 +1,1 @@
-var mnemonic = "twice nut civil critic attack coyote tube wrist gasp differ excuse oblige";
+var mnemonic = "swing proof orient summer answer aspect until always kitchen wish sting please";

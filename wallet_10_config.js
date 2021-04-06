@@ -1,1 +1,1 @@
-var mnemonic = "unfold student hungry cactus enroll clap coral inspire arrange flame collect biology";
+var mnemonic = "immense public improve gauge dentist diamond supreme thunder earth boil enforce select";

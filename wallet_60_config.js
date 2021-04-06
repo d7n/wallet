@@ -1,1 +1,1 @@
-var mnemonic = "journey park hole sweet client fade brave this matter siren crouch split";
+var mnemonic = "moment fame north chapter discover argue danger ability hazard left garden skull";

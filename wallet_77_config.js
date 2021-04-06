@@ -1,1 +1,1 @@
-var mnemonic = "bunker repair betray divert curious symbol corn crazy uncover company poem afford";
+var mnemonic = "unique collect foam because ozone box purpose april soldier ordinary million rival";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt rich settle guess review sand pencil amateur explain coconut spice soup";
+var mnemonic = "tumble lamp debris once voice wheel favorite edge isolate copper pill control";

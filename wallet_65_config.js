@@ -1,1 +1,1 @@
-var mnemonic = "cluster dutch tag tobacco govern actual address shield polar nut flock prize";
+var mnemonic = "churn shine near daughter hazard suggest forum collect advice enable offer describe";

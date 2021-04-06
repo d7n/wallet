@@ -1,1 +1,1 @@
-var mnemonic = "normal spend orient rate industry swallow escape future dolphin head anger sample";
+var mnemonic = "like misery milk pyramid arrow advance educate high garden monster buzz orange";

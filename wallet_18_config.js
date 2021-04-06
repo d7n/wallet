@@ -1,1 +1,1 @@
-var mnemonic = "fresh often cry desk barrel master once morning curve trap special legend";
+var mnemonic = "air travel stereo immense heart eyebrow empty history small beyond ripple nose";

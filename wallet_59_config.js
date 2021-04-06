@@ -1,1 +1,1 @@
-var mnemonic = "deal vendor panda credit slush spatial hamster tortoise genius security retreat rival";
+var mnemonic = "cart nuclear post three often broom copper program middle enough aunt case";

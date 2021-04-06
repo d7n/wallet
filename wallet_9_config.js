@@ -1,1 +1,1 @@
-var mnemonic = "wealth local human upgrade thrive actress outer elevator fan critic ring champion";
+var mnemonic = "rifle immense pair silly tunnel tube already fence cage expect tag extend";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss sweet chunk anger machine liquid mixed acquire motor drama theory around";
+var mnemonic = "hundred side diamond actress despair glue field gym visual acoustic birth gun";

@@ -1,1 +1,1 @@
-var mnemonic = "wife squeeze mask vital life tongue hour hole candy genre delay sadness";
+var mnemonic = "chuckle tissue shock notice student stock target fabric chair blue bachelor spoon";

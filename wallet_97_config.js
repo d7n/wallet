@@ -1,1 +1,1 @@
-var mnemonic = "canvas mirror course dove napkin window board enact ripple beyond naive inquiry";
+var mnemonic = "narrow walnut clog circle ugly rare grid valley scorpion diet filter section";

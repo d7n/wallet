@@ -1,1 +1,1 @@
-var mnemonic = "cluster degree rabbit wolf awesome crack farm predict unable favorite doll sunny";
+var mnemonic = "gauge like target buffalo spend journey monster fence ice job advance dry";

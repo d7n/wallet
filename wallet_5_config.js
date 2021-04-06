@@ -1,1 +1,1 @@
-var mnemonic = "team double figure front eagle buzz tortoise mercy involve wide know scheme";
+var mnemonic = "whip elbow baby buddy raw select lunar belt sketch often trade broccoli";

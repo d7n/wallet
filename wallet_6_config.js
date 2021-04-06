@@ -1,1 +1,1 @@
-var mnemonic = "purpose spend turkey pulp entire vault jealous base grocery hold galaxy weasel";
+var mnemonic = "year arena earn bomb letter august lamp uniform voice airport orphan panda";

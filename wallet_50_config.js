@@ -1,1 +1,1 @@
-var mnemonic = "mystery point category fat train perfect age liquid reopen green adjust describe";
+var mnemonic = "water alpha lyrics kind faculty echo express census enhance endless swift pool";

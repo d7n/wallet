@@ -1,1 +1,1 @@
-var mnemonic = "crash cheese grief put when night dragon unveil vacuum episode dignity miracle";
+var mnemonic = "industry car dance fury push raven flavor shiver narrow glimpse coast sudden";

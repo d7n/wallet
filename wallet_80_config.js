@@ -1,1 +1,1 @@
-var mnemonic = "lake purity depend welcome myth entry indoor during month feature truly pride";
+var mnemonic = "water swear useless nose sleep comic sausage bike huge divert stable sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "across penalty duty enhance speed junior future guitar weird check snow glove";
+var mnemonic = "glove viable crouch blossom mechanic select lock position twin riot rather elephant";

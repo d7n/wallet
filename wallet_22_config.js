@@ -1,1 +1,1 @@
-var mnemonic = "kind govern kiwi car buyer neither prize december section stumble harvest pelican";
+var mnemonic = "gallery stone expand there disease next high game post matrix pen practice";

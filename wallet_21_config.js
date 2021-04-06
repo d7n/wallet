@@ -1,1 +1,1 @@
-var mnemonic = "mistake address acoustic puzzle chaos meat bless hazard catch promote license weapon";
+var mnemonic = "snake receive upset city task brisk crush spike dynamic frequent human convince";

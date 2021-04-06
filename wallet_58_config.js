@@ -1,1 +1,1 @@
-var mnemonic = "click second symptom table vessel clean right brand maze core coconut brush";
+var mnemonic = "dream include clinic battle jungle dirt lonely tree cattle silent blind cube";

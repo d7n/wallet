@@ -1,1 +1,1 @@
-var mnemonic = "mind border lift negative gallery topic gate antenna feature hurt winner bicycle";
+var mnemonic = "gain issue memory cinnamon consider retreat catch remove canal badge crew become";

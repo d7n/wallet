@@ -1,1 +1,1 @@
-var mnemonic = "monitor purity shoot excuse include amused purchase eternal confirm car favorite frequent";
+var mnemonic = "flat another curtain unfair genius typical pill praise genre surge media garment";

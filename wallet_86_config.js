@@ -1,1 +1,1 @@
-var mnemonic = "crowd reduce pig cave denial just fetch wonder once vivid mercy rug";
+var mnemonic = "liar sea slush truth whisper enforce evil garbage camp worth baby violin";

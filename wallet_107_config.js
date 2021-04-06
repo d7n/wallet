@@ -1,1 +1,1 @@
-var mnemonic = "steel aisle nuclear beef agent renew gallery that hurdle tomato world common";
+var mnemonic = "salmon oak neither magnet donor fortune lizard garment motion human peace ecology";

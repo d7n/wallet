@@ -1,1 +1,1 @@
-var mnemonic = "section risk dune believe deposit inch script easy census desert taxi already";
+var mnemonic = "goat survey purse flush option monitor camera canoe immune snake affair dune";

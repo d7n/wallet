@@ -1,1 +1,1 @@
-var mnemonic = "hard hire pair arrange capital width amount hip bench appear fly raccoon";
+var mnemonic = "talk purse sting unknown fly fabric course key energy cousin since hurdle";

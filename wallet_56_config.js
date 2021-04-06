@@ -1,1 +1,1 @@
-var mnemonic = "leaf quote nerve column genre penalty upset meadow shift pitch angle defy";
+var mnemonic = "false daring hazard bonus drop donor nerve identify expand average correct shove";

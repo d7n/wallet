@@ -1,1 +1,1 @@
-var mnemonic = "mistake glass merge scout vacant raise august regret brand fire protect piece";
+var mnemonic = "paper jump uncle feature pudding iron tool ensure behind kind execute expose";

@@ -1,1 +1,1 @@
-var mnemonic = "correct fetch lawsuit little cycle inhale wheel gallery apology picnic render clean";
+var mnemonic = "traffic woman legal scorpion subject oblige antenna delay idle toilet burden beauty";

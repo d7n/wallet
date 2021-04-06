@@ -1,1 +1,1 @@
-var mnemonic = "flash large praise zero act milk expose bacon empty merit opinion fault";
+var mnemonic = "between update another approve trick fatigue memory street inhale victory wing adapt";

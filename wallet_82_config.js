@@ -1,1 +1,1 @@
-var mnemonic = "echo devote parade grid random magnet speed side wrap mesh profit february";
+var mnemonic = "prize health visit hold impose melody funny tired drum lava assume swamp";

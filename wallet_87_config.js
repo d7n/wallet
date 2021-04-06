@@ -1,1 +1,1 @@
-var mnemonic = "flag later sustain warm kiwi junk race finger learn ancient shrimp cart";
+var mnemonic = "where vote make uniform smoke lecture siege clinic discover acquire connect motion";

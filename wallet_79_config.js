@@ -1,1 +1,1 @@
-var mnemonic = "almost muffin forget grab stem food wisdom swallow scrap maid enhance globe";
+var mnemonic = "you layer reduce another riot erosion donate hub gorilla favorite fox company";

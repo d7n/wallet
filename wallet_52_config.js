@@ -1,1 +1,1 @@
-var mnemonic = "boy edge bread skin spare art message person calm leave royal dose";
+var mnemonic = "only keep tube bright brush alcohol embark utility example couple coach general";

@@ -1,1 +1,1 @@
-var mnemonic = "gold ticket option science fiber earn abuse leaf lady escape stomach despair";
+var mnemonic = "thumb ensure paper because sight flush urban illegal exit master soda cargo";

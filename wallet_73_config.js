@@ -1,1 +1,1 @@
-var mnemonic = "fuel energy act predict involve combine novel discover minute army cloth defy";
+var mnemonic = "chunk mirror wild giraffe flavor tooth never museum inch demise early brother";

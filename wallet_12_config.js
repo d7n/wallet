@@ -1,1 +1,1 @@
-var mnemonic = "opera mosquito tumble page swarm follow immense decrease runway little shift math";
+var mnemonic = "buffalo debate brisk budget tunnel sudden surround sister select royal response square";

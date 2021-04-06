@@ -1,1 +1,1 @@
-var mnemonic = "luxury buzz license fish mutual poem remain rail great rely flat chat";
+var mnemonic = "festival absent icon act whisper mushroom volume hundred gesture rather detail sun";

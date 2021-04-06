@@ -1,1 +1,1 @@
-var mnemonic = "public soup coffee mechanic brief once express pill taxi lemon retreat insect";
+var mnemonic = "copy arrow boring roast rotate earth pave fork solar say crumble clever";

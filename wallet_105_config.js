@@ -1,1 +1,1 @@
-var mnemonic = "swim year arrange parent garbage barrel arm suit cage hole mixed food";
+var mnemonic = "nose fresh vague rotate crumble torch labor range wrong jewel annual demise";

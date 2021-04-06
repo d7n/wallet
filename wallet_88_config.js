@@ -1,1 +1,1 @@
-var mnemonic = "remove spatial gesture sight portion dove excite tissue catch degree ankle sister";
+var mnemonic = "lecture buddy behind grab swift board athlete horse bundle rain begin kidney";

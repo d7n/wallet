@@ -1,1 +1,1 @@
-var mnemonic = "theory uphold celery exact fury cook code develop canvas will carpet spray";
+var mnemonic = "season bomb ritual exhibit wait custom stool trophy file soda sign gather";

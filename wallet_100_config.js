@@ -1,1 +1,1 @@
-var mnemonic = "shoot cattle salt quote domain round drink apple offer almost aspect silent";
+var mnemonic = "engage vapor topic metal brand letter antique rely amused quiz icon dice";

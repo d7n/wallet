@@ -1,1 +1,1 @@
-var mnemonic = "fan kitchen movie force client pepper person minute heavy issue fiber unlock";
+var mnemonic = "clump maple curve tragic over high clinic habit assist enhance bleak problem";

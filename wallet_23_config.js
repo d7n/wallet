@@ -1,1 +1,1 @@
-var mnemonic = "valley popular gorilla make badge exhibit bean sock innocent appear ankle virtual";
+var mnemonic = "hour fashion maid vanish relax wash stay sting recipe asset excuse tape";

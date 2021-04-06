@@ -1,1 +1,1 @@
-var mnemonic = "gown enhance lumber oxygen pigeon vibrant panda quality alley meat kiwi rain";
+var mnemonic = "sauce differ still device volume satoshi weekend tuna spot save law crouch";

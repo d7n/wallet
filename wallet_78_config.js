@@ -1,1 +1,1 @@
-var mnemonic = "mammal current festival skull body expect word fly dress cycle warrior deer";
+var mnemonic = "wear sadness sausage crunch chapter permit dust awesome avocado shiver arena heavy";

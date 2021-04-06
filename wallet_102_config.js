@@ -1,1 +1,1 @@
-var mnemonic = "frost resemble army ethics cart twenty cram hurt awesome spring vibrant license";
+var mnemonic = "oven tuna fun asset mind simple father print song act arrive lamp";

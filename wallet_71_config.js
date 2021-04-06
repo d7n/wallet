@@ -1,1 +1,1 @@
-var mnemonic = "leopard doll banana home diet indicate silk company wire fiber please thrive";
+var mnemonic = "physical boss cave solution soup drop catalog anchor plate benefit hurt reunion";

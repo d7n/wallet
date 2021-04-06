@@ -1,1 +1,1 @@
-var mnemonic = "salon primary version average flock dirt crash dentist slight mesh wear trip";
+var mnemonic = "visit dawn hurry day rigid become put stove insect anchor senior catalog";

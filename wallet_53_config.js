@@ -1,1 +1,1 @@
-var mnemonic = "dad grace pact dynamic elevator broken produce creek maple grow critic beach";
+var mnemonic = "general unfold early forward soup side chaos million expire island glare picnic";

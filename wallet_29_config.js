@@ -1,1 +1,1 @@
-var mnemonic = "pair wire sniff foil attract radar empty notable chief almost allow burst";
+var mnemonic = "host life square select pudding radio bar thank release point input fiction";

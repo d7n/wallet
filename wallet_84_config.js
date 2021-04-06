@@ -1,1 +1,1 @@
-var mnemonic = "stumble rookie dolphin upgrade assume thought sun topic bless prefer festival dune";
+var mnemonic = "account before gravity rural just avoid jazz salad chuckle school summer knife";

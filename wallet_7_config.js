@@ -1,1 +1,1 @@
-var mnemonic = "tip beach quote creek crucial atom burden grab kidney tongue sight belt";
+var mnemonic = "door flip oil dwarf exact endorse bid believe about practice chimney civil";

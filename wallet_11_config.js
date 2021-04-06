@@ -1,1 +1,1 @@
-var mnemonic = "stuff wash still truly guard doctor hold vacuum decade myself palm impulse";
+var mnemonic = "caution praise valve setup drastic transfer citizen mass energy crystal network arrange";

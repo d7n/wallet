@@ -1,1 +1,1 @@
-var mnemonic = "today razor paper place express robot hold favorite rocket tomorrow slight into";
+var mnemonic = "enhance rack vendor piece sugar air unveil fun nuclear rely benefit must";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy then frame math dash auction video earn beef chase season melt";
+var mnemonic = "chest milk abuse park flight cruel hill please air all confirm action";

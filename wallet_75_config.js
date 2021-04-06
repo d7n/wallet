@@ -1,1 +1,1 @@
-var mnemonic = "blanket possible diamond valve decrease razor use lawsuit dress know caution attitude";
+var mnemonic = "friend steak intact choose reform ready regular between timber remember thumb harsh";

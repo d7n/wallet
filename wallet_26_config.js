@@ -1,1 +1,1 @@
-var mnemonic = "intact throw churn echo wheel area poverty morning matrix amount similar trap";
+var mnemonic = "suspect when answer strong humor tree casual frame ordinary velvet churn fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur inherit win leisure under beach hard alter pair hold away alone";
+var mnemonic = "dragon cushion capable purpose slot distance buffalo tennis brave select offer organ";

@@ -1,1 +1,1 @@
-var mnemonic = "lava wolf primary wife captain soft sudden defense blouse rice assume fall";
+var mnemonic = "split car abuse trip enable lonely hazard enemy anger mail lecture cake";

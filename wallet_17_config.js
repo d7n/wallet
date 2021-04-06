@@ -1,1 +1,1 @@
-var mnemonic = "outer shoe arrive because roof raccoon electric fuel assault chaos embrace hurry";
+var mnemonic = "wave image cake brisk speed local direct again cry cheap remind parrot";
