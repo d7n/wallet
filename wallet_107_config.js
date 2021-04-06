@@ -1,1 +1,1 @@
-var mnemonic = "sunset ketchup keep toe business midnight morning chicken deposit refuse hamster nurse";
+var mnemonic = "charge field panda step rack pink vanish gather smile kangaroo lyrics they";

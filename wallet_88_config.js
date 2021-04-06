@@ -1,1 +1,1 @@
-var mnemonic = "extend bonus liberty small rib carbon broccoli six civil orient auto vacuum";
+var mnemonic = "various certain have salon front slab side brass snake news oak damage";

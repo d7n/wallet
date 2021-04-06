@@ -1,1 +1,1 @@
-var mnemonic = "half defense neck cause inch east lamp afford rose hire side unfair";
+var mnemonic = "leader fiscal guess example just smooth entire slogan ostrich orbit sausage exact";

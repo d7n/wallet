@@ -1,1 +1,1 @@
-var mnemonic = "foil claim tip destroy mistake wife shaft mammal reunion speak push catch";
+var mnemonic = "major vault attitude they country reason priority accuse drive capital ship ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "again combine range monster cliff skull fold witness supreme setup oyster citizen";
+var mnemonic = "miss faith top portion second intact unhappy owner jazz surprise auto drink";

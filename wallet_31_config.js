@@ -1,1 +1,1 @@
-var mnemonic = "come smile wisdom verify enact image teach grain wolf fabric border poverty";
+var mnemonic = "dad salt bright battle kite hungry purchase dutch require voice gas involve";

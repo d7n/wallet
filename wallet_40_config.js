@@ -1,1 +1,1 @@
-var mnemonic = "govern opera play abstract loyal catch dumb vivid verb bundle point speak";
+var mnemonic = "detail emotion exist mystery oak awful amazing light chimney coconut inject flavor";

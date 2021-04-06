@@ -1,1 +1,1 @@
-var mnemonic = "drip conduct reopen warfare panther anger donate animal what supply moment spider";
+var mnemonic = "prepare differ energy behind link neither budget dynamic ethics concert vote smoke";

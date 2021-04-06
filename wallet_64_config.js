@@ -1,1 +1,1 @@
-var mnemonic = "useless any album sail accident glare alter fish cruise inherit call switch";
+var mnemonic = "census uncle explain safe job floor banana quick income pave train error";

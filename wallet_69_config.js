@@ -1,1 +1,1 @@
-var mnemonic = "marriage marine space enable mention slice business bid sound hedgehog day balance";
+var mnemonic = "pupil stable shock wage volume auction ghost pear elder ginger bid replace";

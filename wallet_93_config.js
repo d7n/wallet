@@ -1,1 +1,1 @@
-var mnemonic = "fresh flip what doctor frog leader actual any organ spell put script";
+var mnemonic = "ordinary situate festival improve banner sense emerge drama renew vicious source draft";

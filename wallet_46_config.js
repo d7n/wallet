@@ -1,1 +1,1 @@
-var mnemonic = "material garlic wreck burst muscle adjust phone broom gesture lock gadget style";
+var mnemonic = "give purity series evil loyal drop kind peasant click scale until toilet";

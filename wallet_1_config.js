@@ -1,1 +1,1 @@
-var mnemonic = "slow shiver camp between grief fence bottom adult toss possible tuna enforce";
+var mnemonic = "question bring crisp run salon famous spray cat corn rate purity hello";

@@ -1,1 +1,1 @@
-var mnemonic = "feature wasp order script castle exhaust abuse head deposit real emotion trim";
+var mnemonic = "spatial ceiling honey loud knock bargain try hobby manual together height opera";

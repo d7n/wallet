@@ -1,1 +1,1 @@
-var mnemonic = "fancy circle piece wheel code kit tourist danger city broom neck kitten";
+var mnemonic = "wonder want engine feel disorder wasp tip true ivory plate crash machine";

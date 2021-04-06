@@ -1,1 +1,1 @@
-var mnemonic = "pony syrup monitor plunge owner jacket help client dose degree subject economy";
+var mnemonic = "abstract focus foot pause teach depend pledge monitor oyster brand cup finger";

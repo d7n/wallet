@@ -1,1 +1,1 @@
-var mnemonic = "boat disease defense phrase case expand shield hint elegant siren film laundry";
+var mnemonic = "pact rhythm vicious test rate carry sense cause place cry glue direct";

@@ -1,1 +1,1 @@
-var mnemonic = "wife guess bacon scale canvas raccoon effort donor prepare plastic buzz record";
+var mnemonic = "health emerge mother pig feed promote win budget moon cancel olive frown";

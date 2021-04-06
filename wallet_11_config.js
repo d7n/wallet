@@ -1,1 +1,1 @@
-var mnemonic = "scrub latin reflect blade weapon update uncle crumble harsh vote economy claim";
+var mnemonic = "engine laundry east elephant attitude attend online hollow game neck vague harvest";

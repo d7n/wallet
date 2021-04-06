@@ -1,1 +1,1 @@
-var mnemonic = "man alone saddle modify tunnel change vapor quit worry spoon height foam";
+var mnemonic = "express engine uniform clump exile decide crawl render proof vivid heart spy";

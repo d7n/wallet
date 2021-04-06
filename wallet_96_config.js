@@ -1,1 +1,1 @@
-var mnemonic = "barely risk extend fade omit column peasant family tiny elegant midnight suffer";
+var mnemonic = "labor age object food arrange climb lyrics door body cargo token lazy";

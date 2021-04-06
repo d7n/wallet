@@ -1,1 +1,1 @@
-var mnemonic = "upgrade lady table glass current foot aspect tortoise width scorpion unit tide";
+var mnemonic = "develop denial ahead hurt account scheme duck theory elephant bomb dove solution";

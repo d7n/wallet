@@ -1,1 +1,1 @@
-var mnemonic = "call auction blossom mirror lion key later spare awake border slow couch";
+var mnemonic = "craft town behind undo jeans address denial unable shop sibling cry budget";

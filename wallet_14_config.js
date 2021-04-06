@@ -1,1 +1,1 @@
-var mnemonic = "until banana wealth now kiwi unfair amount switch repair lunch develop electric";
+var mnemonic = "problem clap appear chunk sound cram quit farm end flower tonight radar";

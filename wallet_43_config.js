@@ -1,1 +1,1 @@
-var mnemonic = "enemy fame crater stove endless strike wrap tomato accident dismiss stairs awake";
+var mnemonic = "drop need behave elite youth glare funny inform bonus uphold area issue";

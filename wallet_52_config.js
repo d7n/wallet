@@ -1,1 +1,1 @@
-var mnemonic = "humor fish trap cabbage roast tooth great rhythm virus smile tuition chuckle";
+var mnemonic = "setup increase shoot enable about depart allow ostrich tonight order eight pave";

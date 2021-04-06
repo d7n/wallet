@@ -1,1 +1,1 @@
-var mnemonic = "crew kiss start barely climb must someone dizzy eager brush panther social";
+var mnemonic = "early inject walnut weapon keep model minor oil fabric wrestle maximum unhappy";

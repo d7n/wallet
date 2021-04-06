@@ -1,1 +1,1 @@
-var mnemonic = "girl brave sheriff inhale luggage history merry ivory tornado night brown filter";
+var mnemonic = "climb enroll coast anxiety trap issue success mad swamp shift answer credit";

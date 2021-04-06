@@ -1,1 +1,1 @@
-var mnemonic = "ethics height admit pretty access chapter lunar cloth crunch liberty budget page";
+var mnemonic = "seven notable pepper weird assist permit puzzle young tourist empower zebra addict";

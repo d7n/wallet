@@ -1,1 +1,1 @@
-var mnemonic = "tag jewel area bleak head wage squirrel circle about option cage come";
+var mnemonic = "hover mango pact fold wet soft carpet property thank cherry seek legal";

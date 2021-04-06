@@ -1,1 +1,1 @@
-var mnemonic = "slush muscle thumb utility caution space post display network alert horror near";
+var mnemonic = "truly boy enter mixture cup nut guard tennis crucial monitor make topple";

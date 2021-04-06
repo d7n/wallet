@@ -1,1 +1,1 @@
-var mnemonic = "planet sick chest potato current region stairs educate control patrol slim doctor";
+var mnemonic = "crack subway cry neglect address total file inject section giggle mutual gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "airport wage bounce early mention topple carpet gap chest also heart sick";
+var mnemonic = "echo rapid ice accident carpet decade loud step dutch process fan walk";

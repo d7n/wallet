@@ -1,1 +1,1 @@
-var mnemonic = "bind drive hotel note receive tennis response hip shift bid gasp region";
+var mnemonic = "warrior orange north audit open nation female boat decorate library riot faith";

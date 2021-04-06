@@ -1,1 +1,1 @@
-var mnemonic = "clean ranch immune text rent south action talk pitch boring crunch amount";
+var mnemonic = "funny disease emotion easily wire pupil silver enrich slow party dice naive";

@@ -1,1 +1,1 @@
-var mnemonic = "recall ignore tape rain fragile panel enforce little field student edit yard";
+var mnemonic = "round crazy dilemma early aisle weird hospital body any oak pitch excess";

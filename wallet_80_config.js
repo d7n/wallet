@@ -1,1 +1,1 @@
-var mnemonic = "increase husband female knife trick salmon picture weird cable job frame nice";
+var mnemonic = "drive club federal shove music lobster three twin lizard length response mushroom";

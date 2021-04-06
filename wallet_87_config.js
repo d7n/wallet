@@ -1,1 +1,1 @@
-var mnemonic = "basic paddle amused cabin best then glow bonus shadow real save napkin";
+var mnemonic = "life elevator paper improve rain cloud bitter era forum thank twenty elite";

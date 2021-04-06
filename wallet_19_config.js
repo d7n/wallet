@@ -1,1 +1,1 @@
-var mnemonic = "august gate enemy mail voice denial photo puzzle today attend volcano minor";
+var mnemonic = "liar observe civil concert identify upset demise voice ridge will liquid easily";

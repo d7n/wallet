@@ -1,1 +1,1 @@
-var mnemonic = "daring bring crystal jewel camp impulse proud point common grab sand same";
+var mnemonic = "aim bicycle knock lens because garbage change globe spatial beef grape describe";

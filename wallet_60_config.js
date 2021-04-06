@@ -1,1 +1,1 @@
-var mnemonic = "prison decrease identify base flat exact hurt card extra bar crazy inspire";
+var mnemonic = "gift elite web waste atom limb pond sense attitude wear dinosaur reopen";

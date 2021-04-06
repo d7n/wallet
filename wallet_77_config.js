@@ -1,1 +1,1 @@
-var mnemonic = "beyond sketch atom exclude urge process this deer east enjoy similar pyramid";
+var mnemonic = "cliff antenna stand hurry surface boost tobacco visa hotel coyote dinosaur certain";

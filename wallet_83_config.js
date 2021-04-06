@@ -1,1 +1,1 @@
-var mnemonic = "planet debate shop mystery faint candy merry coil unaware air tennis ignore";
+var mnemonic = "arena absurd camp maple actor first mixed brief someone satisfy moon brisk";

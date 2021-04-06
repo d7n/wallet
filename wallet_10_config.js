@@ -1,1 +1,1 @@
-var mnemonic = "weather letter venue arrow carbon elite romance twist parent search bind fee";
+var mnemonic = "talent achieve inject dove farm memory can ugly victory plate comfort kit";

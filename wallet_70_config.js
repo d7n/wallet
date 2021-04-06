@@ -1,1 +1,1 @@
-var mnemonic = "curtain bean human anxiety patch orient method swear better argue useful hunt";
+var mnemonic = "where much reunion text journey evoke top exhibit lumber sing price final";

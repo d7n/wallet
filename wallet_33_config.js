@@ -1,1 +1,1 @@
-var mnemonic = "cruise cook deliver chuckle virus sleep unaware swarm relief next human blouse";
+var mnemonic = "disagree resemble remind chronic pool borrow scare echo innocent glue chase ritual";

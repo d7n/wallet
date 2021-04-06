@@ -1,1 +1,1 @@
-var mnemonic = "total earth fan spin manage stage arrest portion horror hockey snow arrange";
+var mnemonic = "vague erase cable boost bundle deliver impulse hover upon twist update faith";

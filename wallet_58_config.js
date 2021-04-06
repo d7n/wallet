@@ -1,1 +1,1 @@
-var mnemonic = "rally popular ritual arch cost exchange deputy any thunder album width tent";
+var mnemonic = "trust vital million office blossom frog action oil avoid genre bundle confirm";

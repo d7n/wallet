@@ -1,1 +1,1 @@
-var mnemonic = "merge curve crane enjoy borrow same novel luggage tribe venue vendor arctic";
+var mnemonic = "giggle ticket table raise prepare outer emerge exchange lunch key girl put";

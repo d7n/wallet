@@ -1,1 +1,1 @@
-var mnemonic = "frame ahead shiver brand barrel alcohol waste wedding few filter cause ignore";
+var mnemonic = "file ceiling electric laugh labor swear point engine narrow funny glove brown";

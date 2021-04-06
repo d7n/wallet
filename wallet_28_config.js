@@ -1,1 +1,1 @@
-var mnemonic = "rocket cancel hidden slender supply winner broom youth unhappy immune exchange finish";
+var mnemonic = "potato pink moral public suffer miracle action allow clay despair have champion";

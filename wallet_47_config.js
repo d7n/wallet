@@ -1,1 +1,1 @@
-var mnemonic = "rose hawk leaf prevent begin security sudden enforce raise pulp return fence";
+var mnemonic = "impact leopard warfare almost kind castle wink aspect real defy dirt immense";

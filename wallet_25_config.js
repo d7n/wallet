@@ -1,1 +1,1 @@
-var mnemonic = "sunset six dilemma mimic charge nice rate fall paddle humble inner weapon";
+var mnemonic = "iron canyon obscure chest fiction clever nasty depart category pioneer evolve diary";

@@ -1,1 +1,1 @@
-var mnemonic = "amount evil gap glad there skin disease attend power cream aim wish";
+var mnemonic = "tobacco forward lend inhale any ten ill flat false want deal public";

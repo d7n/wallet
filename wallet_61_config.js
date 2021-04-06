@@ -1,1 +1,1 @@
-var mnemonic = "hamster ring other side pigeon flip where common diary tourist tell junior";
+var mnemonic = "number mandate erode orange fiction sense federal sense sweet fortune nephew ramp";

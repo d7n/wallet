@@ -1,1 +1,1 @@
-var mnemonic = "salad pen also tape gate deal traffic garbage valve original walk loyal";
+var mnemonic = "fiscal manage typical spend number strategy timber sustain feature doctor category twin";

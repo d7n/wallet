@@ -1,1 +1,1 @@
-var mnemonic = "identify album canvas tail unhappy broccoli sibling dry letter noodle canal area";
+var mnemonic = "distance ramp wolf destroy genuine coconut confirm enhance fit submit absorb common";

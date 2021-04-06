@@ -1,1 +1,1 @@
-var mnemonic = "robot baby knock true below giraffe acoustic eye man crumble two bleak";
+var mnemonic = "smile arm depart become gossip pool jewel season fatigue shoulder involve weapon";

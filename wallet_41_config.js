@@ -1,1 +1,1 @@
-var mnemonic = "dizzy warfare strong tumble room royal sign august magnet will sword switch";
+var mnemonic = "october electric floor palace lyrics rocket favorite van salute wrestle symbol virtual";

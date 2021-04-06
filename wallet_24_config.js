@@ -1,1 +1,1 @@
-var mnemonic = "shrug just target about analyst office kind mobile sorry wish south front";
+var mnemonic = "february violin mountain elder crime bone rug tornado carpet desk salt cram";

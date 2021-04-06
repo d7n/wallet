@@ -1,1 +1,1 @@
-var mnemonic = "gun scissors diet furnace prepare lunch bundle siege century clip correct laundry";
+var mnemonic = "author relief meat elegant equip sting truck genuine wreck all bicycle whale";

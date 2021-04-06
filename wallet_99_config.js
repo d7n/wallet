@@ -1,1 +1,1 @@
-var mnemonic = "purchase general congress plastic speed endorse humble render train gun assist bullet";
+var mnemonic = "agree mixture east away toddler tomorrow stable butter actor cram mutual come";

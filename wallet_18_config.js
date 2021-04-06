@@ -1,1 +1,1 @@
-var mnemonic = "rubber target verb powder rose garment month leisure gauge ride example rigid";
+var mnemonic = "replace large kiss stay spice negative season artist length sugar unfold grab";

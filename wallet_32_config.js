@@ -1,1 +1,1 @@
-var mnemonic = "again alpha virtual usage banner beef rival solution smooth scatter unknown fish";
+var mnemonic = "system nature wheel admit clean vicious leisure ability ship transfer top cotton";

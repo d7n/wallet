@@ -1,1 +1,1 @@
-var mnemonic = "spare victory mushroom inch flee mail salute corn various deputy mother water";
+var mnemonic = "protect bridge sweet place run play promote pipe minimum cost curve elephant";

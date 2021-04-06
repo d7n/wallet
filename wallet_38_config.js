@@ -1,1 +1,1 @@
-var mnemonic = "cruise mix rabbit tissue blanket explain midnight head random sugar engine prefer";
+var mnemonic = "essay budget close current method pause clown early ticket minimum legend bridge";

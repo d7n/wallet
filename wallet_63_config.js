@@ -1,1 +1,1 @@
-var mnemonic = "two husband task knee damage curve firm where attract fox vivid wolf";
+var mnemonic = "injury orbit ribbon they usual program tonight result current awful measure step";

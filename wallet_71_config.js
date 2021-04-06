@@ -1,1 +1,1 @@
-var mnemonic = "crane ethics matter curtain also high pizza wheel win online occur negative";
+var mnemonic = "toss amazing tool fee brick fan leg cheese fish salt half liberty";

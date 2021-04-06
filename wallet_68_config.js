@@ -1,1 +1,1 @@
-var mnemonic = "piano anger oppose hint evidence busy mouse attitude negative page alcohol jelly";
+var mnemonic = "slender anchor recall dose sugar catalog flee today relax arrange until foster";

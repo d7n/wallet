@@ -1,1 +1,1 @@
-var mnemonic = "weapon crane secret okay dice monitor peace dose refuse miss fortune oppose";
+var mnemonic = "armor mercy phrase spell village come point forest color husband consider hurt";

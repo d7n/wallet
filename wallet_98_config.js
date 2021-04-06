@@ -1,1 +1,1 @@
-var mnemonic = "region invite lamp stand siren argue rival velvet recall banner essay frame";
+var mnemonic = "donate mirror toddler element echo lonely tomato rural provide among mention dirt";

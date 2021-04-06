@@ -1,1 +1,1 @@
-var mnemonic = "autumn knock sight used diamond merge joke dismiss curious buzz appear fox";
+var mnemonic = "mosquito vacuum mask jelly zero planet travel smile game metal leg river";

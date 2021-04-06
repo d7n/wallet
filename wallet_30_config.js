@@ -1,1 +1,1 @@
-var mnemonic = "federal summer fossil shy mansion toward inner curve cycle video auto melt";
+var mnemonic = "obtain into diet memory deputy december typical portion possible resist front candy";

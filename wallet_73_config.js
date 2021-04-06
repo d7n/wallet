@@ -1,1 +1,1 @@
-var mnemonic = "hill short dish welcome carpet behave brush easily throw whip suggest vacuum";
+var mnemonic = "blossom correct chief robust parent deliver maple upgrade chest tuition liberty speak";

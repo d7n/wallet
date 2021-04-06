@@ -1,1 +1,1 @@
-var mnemonic = "review wrestle daring doll stock silver purse behind price choice race whip";
+var mnemonic = "opera invite present picnic century defy plug mix segment network radio marble";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture just gloom industry odor web poverty catch want question gloom rice";
+var mnemonic = "student organ rough horse skill session industry whisper milk journey enable heart";

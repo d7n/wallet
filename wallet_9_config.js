@@ -1,1 +1,1 @@
-var mnemonic = "myth fade extend civil waste duck baby ready suit sadness syrup document";
+var mnemonic = "exhibit quantum size marble slice nothing fashion disease congress junior used sample";

@@ -1,1 +1,1 @@
-var mnemonic = "dream ability lumber candy silk match october blue brother lava leave dinner";
+var mnemonic = "mango immune skin behind become song bind art couch setup giraffe segment";

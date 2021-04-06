@@ -1,1 +1,1 @@
-var mnemonic = "fuel slogan just garment mixed medal urge bargain lesson method one wish";
+var mnemonic = "verb fat cloth unusual artefact quick improve valid tiger estate pig concert";

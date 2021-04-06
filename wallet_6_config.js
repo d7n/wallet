@@ -1,1 +1,1 @@
-var mnemonic = "vibrant vital atom crop bachelor guard cry social mobile congress bonus latin";
+var mnemonic = "kiwi repair symptom grunt camera bus suit include quiz muffin myself topic";

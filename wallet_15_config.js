@@ -1,1 +1,1 @@
-var mnemonic = "forum satisfy blame parent end goose unit gloom daring improve identify heart";
+var mnemonic = "chief live stumble can ill toe meadow episode attack repair curious across";

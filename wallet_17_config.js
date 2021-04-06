@@ -1,1 +1,1 @@
-var mnemonic = "uniform sound hurt demand renew shield journey subway romance weather door taxi";
+var mnemonic = "renew venue grain clarify account bachelor sugar copy shine school debate over";

@@ -1,1 +1,1 @@
-var mnemonic = "matter sun tomorrow icon guess satisfy marine walnut special dove release tower";
+var mnemonic = "echo salute fix almost junior planet throw donkey amused eternal swear goose";

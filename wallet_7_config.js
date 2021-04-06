@@ -1,1 +1,1 @@
-var mnemonic = "north lonely bulb habit rare burger security noise swim common rich acquire";
+var mnemonic = "above child stove broken brave movie lift genuine torch coil club hunt";

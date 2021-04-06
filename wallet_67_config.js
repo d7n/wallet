@@ -1,1 +1,1 @@
-var mnemonic = "dish large witness table side whisper issue moment swift rail wire shed";
+var mnemonic = "brown fabric drip differ upgrade flavor echo census tourist easily deny nuclear";

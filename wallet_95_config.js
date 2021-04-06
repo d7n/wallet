@@ -1,1 +1,1 @@
-var mnemonic = "best oyster coast cattle obvious unaware essence remove bring action balcony frost";
+var mnemonic = "learn shallow absorb shoulder sudden boy divert want erosion gloom alarm immune";

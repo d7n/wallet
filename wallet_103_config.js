@@ -1,1 +1,1 @@
-var mnemonic = "model sadness utility east glue trumpet evoke jelly sponsor filter other ankle";
+var mnemonic = "loud industry escape bleak sign exhibit midnight render ethics blur tired found";

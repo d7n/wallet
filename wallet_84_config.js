@@ -1,1 +1,1 @@
-var mnemonic = "satisfy diagram stadium lock example cash solve tribe income sell forget nerve";
+var mnemonic = "gravity elegant blast myth already animal other plug road already siege else";

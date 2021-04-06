@@ -1,1 +1,1 @@
-var mnemonic = "reveal master happy nest night trophy youth february dinosaur blast collect chuckle";
+var mnemonic = "sister hamster foster universe prevent edge guess lake junk provide ladder quantum";

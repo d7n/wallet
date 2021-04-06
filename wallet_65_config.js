@@ -1,1 +1,1 @@
-var mnemonic = "divert dutch pool high process near ridge festival sniff three airport husband";
+var mnemonic = "pill rebel eternal almost illegal slab raw outside fine number suggest indoor";

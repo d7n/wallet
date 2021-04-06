@@ -1,1 +1,1 @@
-var mnemonic = "gate much sword loyal renew drum often suggest tower bridge feed pudding";
+var mnemonic = "cart defense equal monster enjoy type cluster gown clump release beyond wood";

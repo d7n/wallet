@@ -1,1 +1,1 @@
-var mnemonic = "tenant inherit chest afford eager hotel situate walk trophy round balance flight";
+var mnemonic = "faculty security tilt monkey only stable kingdom mail choose argue ethics now";
