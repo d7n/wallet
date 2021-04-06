@@ -1,1 +1,1 @@
-var mnemonic = "key lemon mule two nice toward inch length garbage betray fine fancy";
+var mnemonic = "must gasp square wreck repeat apple mountain setup paddle visit float wave";

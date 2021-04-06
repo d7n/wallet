@@ -1,1 +1,1 @@
-var mnemonic = "empty violin barely cactus boy attend youth kid garage frequent physical deputy";
+var mnemonic = "produce twice wish liar approve undo wealth remove impulse erode stage cruise";

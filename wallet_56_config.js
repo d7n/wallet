@@ -1,1 +1,1 @@
-var mnemonic = "air cruise vault treat theory season urge rebuild mask useless trigger dumb";
+var mnemonic = "network table umbrella erase student shed cup collect stomach interest panda able";

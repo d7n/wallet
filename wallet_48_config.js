@@ -1,1 +1,1 @@
-var mnemonic = "habit chimney avoid middle patient shop ancient raise open visit excuse body";
+var mnemonic = "east position mystery device pepper middle simple yard lion erosion toast lottery";

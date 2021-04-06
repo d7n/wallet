@@ -1,1 +1,1 @@
-var mnemonic = "refuse glad only session garage nation defy gap purse ticket sponsor borrow";
+var mnemonic = "salon trip feed consider width tuna follow siren assist bronze pave mixture";

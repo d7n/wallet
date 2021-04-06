@@ -1,1 +1,1 @@
-var mnemonic = "quarter wife female love jaguar gown double nose flame cream daughter bubble";
+var mnemonic = "dance juice inform screen office margin push speak slush adjust coast pink";

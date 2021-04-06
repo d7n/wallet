@@ -1,1 +1,1 @@
-var mnemonic = "direct remind average expand virtual melt edit rude industry essay service spy";
+var mnemonic = "wish attack mechanic mixed velvet verify defy caught lobster radar plate mushroom";

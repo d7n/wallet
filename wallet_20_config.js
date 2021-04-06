@@ -1,1 +1,1 @@
-var mnemonic = "buyer forward joke second giraffe owner police drink artist chat attitude spider";
+var mnemonic = "gym online tired hurdle supply health moon dream screen access erosion leisure";

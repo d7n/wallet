@@ -1,1 +1,1 @@
-var mnemonic = "sentence basket various mosquito episode control snow exercise plate laugh labor modify";
+var mnemonic = "layer just accuse category become camera welcome list blossom digital leisure obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "report erode shallow second convince relief cool general balcony need loop tissue";
+var mnemonic = "mystery then echo notice slot hunt carry burger ignore fame view retire";

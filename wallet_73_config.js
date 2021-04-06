@@ -1,1 +1,1 @@
-var mnemonic = "entry giggle imitate expect occur ice grass false journey weasel tomato tell";
+var mnemonic = "barrel link west assault outdoor refuse mandate people hurry craft smart catalog";

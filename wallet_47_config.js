@@ -1,1 +1,1 @@
-var mnemonic = "you dose rival fire engage kind kind perfect ramp beauty mansion burden";
+var mnemonic = "little kick fiber visit trick orphan undo shoulder mule noble stick gym";

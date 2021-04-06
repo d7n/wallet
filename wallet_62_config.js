@@ -1,1 +1,1 @@
-var mnemonic = "switch rich animal transfer delay useless lock cage worth similar response sing";
+var mnemonic = "toy jealous make night lawsuit pony tissue cereal awful eye sad battle";

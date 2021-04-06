@@ -1,1 +1,1 @@
-var mnemonic = "ask collect skate very never dream price access master reform spoon stamp";
+var mnemonic = "adult sentence uniform disorder interest sauce stick onion afford holiday next happy";

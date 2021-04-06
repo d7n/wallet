@@ -1,1 +1,1 @@
-var mnemonic = "artist limit decade trouble feel lesson proof reduce garment unfair cricket jump";
+var mnemonic = "option matrix portion valid confirm plunge loan twelve carbon sail chaos spy";

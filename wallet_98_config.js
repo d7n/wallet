@@ -1,1 +1,1 @@
-var mnemonic = "observe habit chuckle foil misery success vendor weather sphere key ship music";
+var mnemonic = "dress forum wage remember behind hour legal monitor race eye spin guess";

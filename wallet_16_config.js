@@ -1,1 +1,1 @@
-var mnemonic = "symptom ahead argue school pull hero man quote put reform stumble decade";
+var mnemonic = "priority hotel major oxygen jealous false orange ill depend what lab brother";

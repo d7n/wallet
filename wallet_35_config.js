@@ -1,1 +1,1 @@
-var mnemonic = "eye fix slice lunar summer portion lake entry disease connect anchor outside";
+var mnemonic = "battle purpose lend life bunker around slender history spoon please intact art";

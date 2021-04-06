@@ -1,1 +1,1 @@
-var mnemonic = "wonder rival intact october universe cruise episode endorse nephew wrist spray coin";
+var mnemonic = "supply food embrace grain office deputy gallery hour arena valid news purchase";

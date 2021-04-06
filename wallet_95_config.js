@@ -1,1 +1,1 @@
-var mnemonic = "foil leader thunder quick body surge image city surprise measure door ginger";
+var mnemonic = "sting cave view try common twenty focus minor wood eye become inform";

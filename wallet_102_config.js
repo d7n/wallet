@@ -1,1 +1,1 @@
-var mnemonic = "treat swarm decade pulp host task save night flame leaf jelly tragic";
+var mnemonic = "critic library cram ceiling drip color wave accuse brand brown method option";

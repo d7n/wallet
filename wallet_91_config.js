@@ -1,1 +1,1 @@
-var mnemonic = "egg bid silk hair elephant coral hard quarter deny owner right alcohol";
+var mnemonic = "mirror also comic glue fan sad loan luxury light cable young interest";

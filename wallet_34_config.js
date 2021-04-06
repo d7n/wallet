@@ -1,1 +1,1 @@
-var mnemonic = "trophy royal athlete result salmon cattle weapon grab almost property pledge tray";
+var mnemonic = "hurry baby top use crawl frequent kitchen immune simple glance truly mean";

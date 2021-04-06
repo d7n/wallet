@@ -1,1 +1,1 @@
-var mnemonic = "shy suit crime captain merry buddy denial begin offer shiver eyebrow clap";
+var mnemonic = "develop mercy music firm tongue trust found hybrid hat sad stock that";

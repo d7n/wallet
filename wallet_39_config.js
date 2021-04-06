@@ -1,1 +1,1 @@
-var mnemonic = "goose bargain salmon flat lobster match library ugly present fatal enjoy video";
+var mnemonic = "rebel pact pottery ability announce bone canvas kick battle snake name pipe";

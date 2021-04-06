@@ -1,1 +1,1 @@
-var mnemonic = "occur beach honey explain napkin still easily bronze puppy evolve toilet rabbit";
+var mnemonic = "aerobic dice foil bone rare genuine cabin unique mention resemble crystal inmate";

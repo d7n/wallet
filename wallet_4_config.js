@@ -1,1 +1,1 @@
-var mnemonic = "utility law destroy elite lens ethics act wheat slim forward spend purpose";
+var mnemonic = "nuclear abuse helmet credit choice plug episode dad later home cloud scrub";

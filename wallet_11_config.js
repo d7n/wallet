@@ -1,1 +1,1 @@
-var mnemonic = "narrow ginger athlete amount hen capable cluster traffic prosper wrist grant zero";
+var mnemonic = "rose obvious shy index dust october regret large myself hockey disease nut";

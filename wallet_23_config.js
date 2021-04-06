@@ -1,1 +1,1 @@
-var mnemonic = "frost bicycle pilot amateur actress oblige stem torch civil material castle state";
+var mnemonic = "snap dial rocket ready together copper zero paddle print dog agent tragic";

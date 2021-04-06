@@ -1,1 +1,1 @@
-var mnemonic = "lobster frog inquiry river antique donkey sell invest flee hill miss rule";
+var mnemonic = "dizzy unusual marble section exact plastic medal mutual pause inherit approve magic";

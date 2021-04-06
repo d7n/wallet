@@ -1,1 +1,1 @@
-var mnemonic = "nominee exhaust auto used royal cream card aware together body echo cube";
+var mnemonic = "relax fade turn warm focus decrease notice tiny goddess thing ozone symbol";

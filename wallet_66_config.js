@@ -1,1 +1,1 @@
-var mnemonic = "glory avocado dwarf flash device music wave poem answer color chunk desert";
+var mnemonic = "dynamic exile evil south joy bounce maze address evoke submit feature hair";

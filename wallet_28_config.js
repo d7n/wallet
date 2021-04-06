@@ -1,1 +1,1 @@
-var mnemonic = "opinion runway vocal hurdle various segment slogan wish misery dream kangaroo symptom";
+var mnemonic = "produce giant climb friend coach lonely glory lottery pact sure risk rare";

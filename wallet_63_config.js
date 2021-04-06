@@ -1,1 +1,1 @@
-var mnemonic = "opinion vacuum dish sugar extend theme pretty bike media blue gossip garment";
+var mnemonic = "traffic tooth scissors favorite suit cry choose goddess steak trap tray sister";

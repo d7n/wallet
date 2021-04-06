@@ -1,1 +1,1 @@
-var mnemonic = "help ecology digital fold adapt february theory grace rabbit zero perfect bronze";
+var mnemonic = "hammer claim become habit journey powder equip security humble tell child path";

@@ -1,1 +1,1 @@
-var mnemonic = "olive mixed little chalk loop clog you post follow monitor citizen slender";
+var mnemonic = "hair myself green light behind guilt salmon thing hurry great comic floor";

@@ -1,1 +1,1 @@
-var mnemonic = "echo coin input clarify bone prepare duty plug you loyal soldier cool";
+var mnemonic = "physical rough danger duty garage hover dose toy fantasy final nerve school";

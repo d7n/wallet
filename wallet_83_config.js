@@ -1,1 +1,1 @@
-var mnemonic = "group trumpet host brother walk divorce fantasy shove resource make slender mountain";
+var mnemonic = "before employ surround little emotion cake expire kick twenty eyebrow brain slight";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo seat bomb fatigue venue slim world observe put airport sponsor dwarf";
+var mnemonic = "unaware border build tube record dial install nurse civil vessel avocado genre";

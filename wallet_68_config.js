@@ -1,1 +1,1 @@
-var mnemonic = "youth seat sibling awesome enough crouch rare galaxy around corn waste duty";
+var mnemonic = "animal helmet identify length start spider bonus artist vicious misery lucky pulp";

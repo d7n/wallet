@@ -1,1 +1,1 @@
-var mnemonic = "across panic retire entry chest nominee best keen slot filter village category";
+var mnemonic = "parent penalty fabric grass amount shine feel elephant whale deer weekend lounge";

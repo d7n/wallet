@@ -1,1 +1,1 @@
-var mnemonic = "ridge shift crew wife cigar sunset potato among great coast range flush";
+var mnemonic = "blind hard rather kitten elder execute expect zoo belt skill tail crawl";

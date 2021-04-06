@@ -1,1 +1,1 @@
-var mnemonic = "price hamster vivid fever blast riot merit biology venue clean palm pause";
+var mnemonic = "artefact travel eye skate gate divorce depth ancient cycle satisfy true garbage";

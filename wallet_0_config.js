@@ -1,1 +1,1 @@
-var mnemonic = "glove leisure kid indoor protect bacon tragic urge cup transfer inflict alarm";
+var mnemonic = "post spell busy drum tenant image review cabbage purchase grain almost erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "that cave neither wheel shuffle just poverty police shove box become vivid";
+var mnemonic = "live boil horse mind ginger mistake point wrestle mountain clean enough develop";

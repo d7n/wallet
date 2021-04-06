@@ -1,1 +1,1 @@
-var mnemonic = "attend enable situate reunion execute uniform debris stereo sudden kitten enforce cancel";
+var mnemonic = "vote snake math chat glove orbit pulse silver people install regular box";

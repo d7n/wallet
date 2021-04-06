@@ -1,1 +1,1 @@
-var mnemonic = "parent predict false elbow party avocado release fork vibrant green hand erode";
+var mnemonic = "quick lady spray smoke later chuckle deer elite match kid smoke rate";

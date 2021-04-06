@@ -1,1 +1,1 @@
-var mnemonic = "romance rude dilemma grace angry priority better reveal cannon idle solution auto";
+var mnemonic = "hollow card manual unit quantum minute tongue spring punch wise stable image";

@@ -1,1 +1,1 @@
-var mnemonic = "work crucial expect improve flat average vicious topple bleak answer promote level";
+var mnemonic = "twelve unhappy expire power carpet airport spring behave unable scene accuse crystal";

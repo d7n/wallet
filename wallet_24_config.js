@@ -1,1 +1,1 @@
-var mnemonic = "tomato element shift sustain frown arm furnace mind wish stone flock lend";
+var mnemonic = "wrap soda banner abandon winter verify sudden interest envelope execute suit prepare";

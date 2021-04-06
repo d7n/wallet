@@ -1,1 +1,1 @@
-var mnemonic = "field surprise consider knock menu oval near narrow beyond purse lumber shy";
+var mnemonic = "banana tunnel girl sting elevator empower speak exotic float require rule rain";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle crumble deal rapid faculty common there scare entire time play frost";
+var mnemonic = "series reveal belt alert panel around rural crawl error stamp air sail";

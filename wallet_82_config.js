@@ -1,1 +1,1 @@
-var mnemonic = "great decline antique funny stable wide oven gauge cabin bonus sustain detect";
+var mnemonic = "nice salmon shuffle large duck young army resemble inside spare police wink";

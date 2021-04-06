@@ -1,1 +1,1 @@
-var mnemonic = "person frequent jewel news main fiber curtain reflect document sick protect armed";
+var mnemonic = "aware say thank apple energy wreck valve glue pass captain lunch unhappy";

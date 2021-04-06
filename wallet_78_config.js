@@ -1,1 +1,1 @@
-var mnemonic = "autumn mule child august front fatigue catch lottery cereal begin little cube";
+var mnemonic = "belt kidney panther shield chase glare uncle witness plate donate vivid clutch";

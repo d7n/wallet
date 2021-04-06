@@ -1,1 +1,1 @@
-var mnemonic = "news drip fatal warm trust solar spare buyer run degree suit agree";
+var mnemonic = "mimic isolate night roof mountain ensure orange end annual achieve soup bird";

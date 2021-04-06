@@ -1,1 +1,1 @@
-var mnemonic = "divide wise rookie kid noble maple turkey limb segment curious canyon oyster";
+var mnemonic = "kick tiger song mass gym biology mad tell entry question citizen range";

@@ -1,1 +1,1 @@
-var mnemonic = "busy lottery metal expand correct window silk host guide squirrel hotel you";
+var mnemonic = "curtain south risk glad blush curtain tattoo axis disease fancy relax one";

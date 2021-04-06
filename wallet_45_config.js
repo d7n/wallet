@@ -1,1 +1,1 @@
-var mnemonic = "square sketch eternal tomato lonely vessel ship blush eight patient supreme average";
+var mnemonic = "prefer crazy miss brave session owner intact unfair lucky ramp unusual bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "rural orient work pottery rapid best industry enemy prepare nice warm sick";
+var mnemonic = "rebel prevent earn course code interest real cattle husband genre love hole";

@@ -1,1 +1,1 @@
-var mnemonic = "viable damp enjoy battle error industry proud bounce rival shield alcohol essence";
+var mnemonic = "stomach actor direct ticket siren season lobster shield punch friend park brand";

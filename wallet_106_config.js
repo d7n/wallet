@@ -1,1 +1,1 @@
-var mnemonic = "chimney cute blast bottom leave usual copy blouse jacket trial wing health";
+var mnemonic = "fit sure decorate library pen cabbage fence rural fish orbit found fall";

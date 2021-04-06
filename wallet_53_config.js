@@ -1,1 +1,1 @@
-var mnemonic = "weasel rude own make goddess tired word balcony absent enlist waste dwarf";
+var mnemonic = "problem coral reduce improve useful skill nasty punch donate copper update supply";

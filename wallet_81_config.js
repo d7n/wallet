@@ -1,1 +1,1 @@
-var mnemonic = "border ticket execute goat debate satoshi eyebrow emerge dumb tilt apple rain";
+var mnemonic = "auction alone what truth impact lamp parade laundry margin because tube cube";

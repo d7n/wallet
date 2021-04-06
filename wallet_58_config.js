@@ -1,1 +1,1 @@
-var mnemonic = "balance grunt misery outer leisure tennis waste shell tube open empty pitch";
+var mnemonic = "crater wait silver wire outer anger vibrant gesture matter acid simple radio";

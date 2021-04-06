@@ -1,1 +1,1 @@
-var mnemonic = "original zebra tank gather shoot sadness say drink verb setup test innocent";
+var mnemonic = "success menu enroll spell fit cover coffee anger recycle usual kick worry";

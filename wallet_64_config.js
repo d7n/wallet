@@ -1,1 +1,1 @@
-var mnemonic = "buyer thunder dial pioneer clump olive plug fall hospital flavor foil play";
+var mnemonic = "prize write alert hurry desert judge zebra purchase core despair verb phrase";

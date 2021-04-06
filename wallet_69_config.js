@@ -1,1 +1,1 @@
-var mnemonic = "length video lottery ignore small bunker only fringe foam define smoke scorpion";
+var mnemonic = "pottery want injury claim snap walnut begin caution found soft install awesome";

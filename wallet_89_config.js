@@ -1,1 +1,1 @@
-var mnemonic = "desk used insane axis beauty piano opera angry burden smart vague what";
+var mnemonic = "setup question cluster carpet corn split profit real neither syrup grow derive";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch muffin inflict success alcohol faint license smart elder creek fun empty";
+var mnemonic = "sock yard absorb neither local wash cannon original ripple sick easy yard";

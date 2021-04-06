@@ -1,1 +1,1 @@
-var mnemonic = "paddle plunge slab pitch clarify blue door lemon burger august phone whip";
+var mnemonic = "profit know clown follow law eagle message enact sign any fault butter";

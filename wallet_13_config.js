@@ -1,1 +1,1 @@
-var mnemonic = "media flag upper tattoo soccer weasel subway control sock profit demise distance";
+var mnemonic = "ladder sick liberty refuse gain ticket virtual visa bone chuckle guide wave";

@@ -1,1 +1,1 @@
-var mnemonic = "season laugh state wagon indoor chat review wrist humble scout vacant hobby";
+var mnemonic = "expire correct glimpse hobby duty garlic expire sorry steel employ army own";

@@ -1,1 +1,1 @@
-var mnemonic = "file unveil globe nation shine snake borrow bracket real crater actor where";
+var mnemonic = "raccoon inner despair salute solution armed similar lunar embark artefact produce bamboo";

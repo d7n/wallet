@@ -1,1 +1,1 @@
-var mnemonic = "venue salute notable eye oven unfold harbor depth session library awake busy";
+var mnemonic = "vital master cluster puppy cluster couple garbage plunge aspect plate oven question";

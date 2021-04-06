@@ -1,1 +1,1 @@
-var mnemonic = "celery sand february romance lecture degree imitate velvet silk usual memory wagon";
+var mnemonic = "wet bulb warrior bless tenant rely animal about census churn banner puppy";

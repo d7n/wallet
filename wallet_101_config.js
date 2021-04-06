@@ -1,1 +1,1 @@
-var mnemonic = "snap crush nation end window lobster suspect author two increase desert comic";
+var mnemonic = "myth lounge mountain sword thumb door under blouse knee sibling gaze lunch";

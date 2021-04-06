@@ -1,1 +1,1 @@
-var mnemonic = "life that aim creek potato snap math address skate smile welcome sister";
+var mnemonic = "neck select weasel render gas inner toss develop ivory hundred mouse ability";

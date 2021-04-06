@@ -1,1 +1,1 @@
-var mnemonic = "dress cram festival royal before volcano green concert excite excuse demise fiscal";
+var mnemonic = "search effort seven sock salute item taste glide arch tortoise supply unable";

@@ -1,1 +1,1 @@
-var mnemonic = "feed melt disease pilot loud all slot toast jar sauce connect same";
+var mnemonic = "usage any first fragile eyebrow awake bread belt tired burst galaxy female";

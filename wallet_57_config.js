@@ -1,1 +1,1 @@
-var mnemonic = "shield wrist case off snow crop snake please canyon tool apart version";
+var mnemonic = "narrow eagle lock spell member cost stone actor trim meadow address invite";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet oxygen cousin lady type ceiling catch walnut monster come immune enlist";
+var mnemonic = "ready forest actual other beef nothing stock story inflict cliff this wine";

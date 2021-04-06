@@ -1,1 +1,1 @@
-var mnemonic = "prize rifle quote top layer treat lion venture soon timber trick adult";
+var mnemonic = "sail dash ball lab relax chimney forum welcome suspect air system snow";

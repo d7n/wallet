@@ -1,1 +1,1 @@
-var mnemonic = "path switch replace park retire film degree talent prepare island chronic shy";
+var mnemonic = "valid gas practice isolate armor nature bag bulb shock swamp female original";

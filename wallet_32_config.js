@@ -1,1 +1,1 @@
-var mnemonic = "auto giraffe distance canal chimney upon oyster rain venture subway key spike";
+var mnemonic = "discover side hobby edge capital bounce promote dutch gaze scene country invest";

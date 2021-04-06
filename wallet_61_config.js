@@ -1,1 +1,1 @@
-var mnemonic = "artist insane prefer ignore syrup lens giant season middle garbage setup wash";
+var mnemonic = "faith fit bid left wild visa mirror outer chest ostrich property satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "body fringe pill bullet remind network age clerk area muscle vacant order";
+var mnemonic = "trial local wave cross stamp point live give moment arrest endorse domain";

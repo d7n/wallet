@@ -1,1 +1,1 @@
-var mnemonic = "thing program arrive witness dinner party night chronic stay plastic twist cover";
+var mnemonic = "carry occur grass gospel noble scatter disagree purity human nose spare punch";

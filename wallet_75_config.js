@@ -1,1 +1,1 @@
-var mnemonic = "denial exit hobby joke maid tooth fetch panel deny speed reduce wife";
+var mnemonic = "health gentle autumn hood pulp memory prefer spoil bonus life secret oval";

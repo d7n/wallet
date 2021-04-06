@@ -1,1 +1,1 @@
-var mnemonic = "radio world people run whale powder gap gentle relax swallow pony quote";
+var mnemonic = "liar session dinosaur awesome balcony cook outdoor artist fun wolf hungry debris";

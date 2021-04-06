@@ -1,1 +1,1 @@
-var mnemonic = "wolf patrol now ketchup injury rough summer excite trouble hollow exile wine";
+var mnemonic = "three board badge involve cloth black arrest drip more quantum type wrestle";

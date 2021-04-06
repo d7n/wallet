@@ -1,1 +1,1 @@
-var mnemonic = "dry hurdle snow bulb tone wink pink deny invite husband symbol aunt";
+var mnemonic = "priority color diamond saddle crime awesome cause flat swarm derive addict churn";

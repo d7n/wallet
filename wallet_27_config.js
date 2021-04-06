@@ -1,1 +1,1 @@
-var mnemonic = "draw enforce october tonight stool retreat high flat spell amazing party actress";
+var mnemonic = "exchange cupboard foster abuse public fatal claim frog maze obtain shell jewel";
