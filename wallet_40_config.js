@@ -1,1 +1,1 @@
-var mnemonic = "series reveal belt alert panel around rural crawl error stamp air sail";
+var mnemonic = "tomato also black cradle gossip gold truly slogan amused maximum youth hotel";

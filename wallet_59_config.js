@@ -1,1 +1,1 @@
-var mnemonic = "hair myself green light behind guilt salmon thing hurry great comic floor";
+var mnemonic = "that trophy chaos stove gesture emotion range hundred soup boy purity punch";

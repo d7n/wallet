@@ -1,1 +1,1 @@
-var mnemonic = "pottery want injury claim snap walnut begin caution found soft install awesome";
+var mnemonic = "wine stumble need elbow link rotate flavor almost pulp room endorse salad";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic exile evil south joy bounce maze address evoke submit feature hair";
+var mnemonic = "rookie side alley valley couple vessel odor chat tree opera kitten quality";

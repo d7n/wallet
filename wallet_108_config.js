@@ -1,1 +1,1 @@
-var mnemonic = "hammer claim become habit journey powder equip security humble tell child path";
+var mnemonic = "useful ten arm mail deliver country unable mandate federal stomach legal lamp";

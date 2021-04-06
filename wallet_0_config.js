@@ -1,1 +1,1 @@
-var mnemonic = "post spell busy drum tenant image review cabbage purchase grain almost erosion";
+var mnemonic = "daring heavy protect predict exhaust aim vague wall laptop head average ivory";

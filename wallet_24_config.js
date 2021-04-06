@@ -1,1 +1,1 @@
-var mnemonic = "wrap soda banner abandon winter verify sudden interest envelope execute suit prepare";
+var mnemonic = "rely elegant picnic twin solution pet dwarf daring error sick finish powder";

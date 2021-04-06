@@ -1,1 +1,1 @@
-var mnemonic = "jazz slim book giant document caution code loud cactus sing ethics glass";
+var mnemonic = "forest idle list offer gentle delay another sketch end scissors entire rural";

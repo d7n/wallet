@@ -1,1 +1,1 @@
-var mnemonic = "quick lady spray smoke later chuckle deer elite match kid smoke rate";
+var mnemonic = "grow enhance raise light slight escape proof inhale confirm wool fox welcome";

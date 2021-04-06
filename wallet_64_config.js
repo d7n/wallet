@@ -1,1 +1,1 @@
-var mnemonic = "prize write alert hurry desert judge zebra purchase core despair verb phrase";
+var mnemonic = "popular swift rain file south sadness into fabric air roof ring attract";

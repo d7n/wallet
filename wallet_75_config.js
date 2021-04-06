@@ -1,1 +1,1 @@
-var mnemonic = "health gentle autumn hood pulp memory prefer spoil bonus life secret oval";
+var mnemonic = "wrist brown width pluck pepper fatigue term indoor desert outdoor jeans ahead";

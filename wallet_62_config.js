@@ -1,1 +1,1 @@
-var mnemonic = "toy jealous make night lawsuit pony tissue cereal awful eye sad battle";
+var mnemonic = "couch again feature unfold pumpkin action panel medal illegal alien select provide";

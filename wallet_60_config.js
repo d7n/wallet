@@ -1,1 +1,1 @@
-var mnemonic = "any salmon crop guide trial truly burst digital dream section odor under";
+var mnemonic = "gold tomorrow hill stem lawn abandon also together idea ramp tattoo inspire";

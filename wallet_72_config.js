@@ -1,1 +1,1 @@
-var mnemonic = "salute wolf height crack language ankle rival siren all error siren inject";
+var mnemonic = "surround joy matrix detect speak volcano bar need fan fat together veteran";

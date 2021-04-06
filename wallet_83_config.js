@@ -1,1 +1,1 @@
-var mnemonic = "before employ surround little emotion cake expire kick twenty eyebrow brain slight";
+var mnemonic = "birth surface observe shop economy reveal menu loud acquire glow oblige lottery";

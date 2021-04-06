@@ -1,1 +1,1 @@
-var mnemonic = "kick tiger song mass gym biology mad tell entry question citizen range";
+var mnemonic = "erase music hurry cricket mule donor cabbage hole where bundle crunch derive";

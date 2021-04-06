@@ -1,1 +1,1 @@
-var mnemonic = "trial local wave cross stamp point live give moment arrest endorse domain";
+var mnemonic = "hobby office fun zoo provide diet shoulder volume hurt trick soul bunker";

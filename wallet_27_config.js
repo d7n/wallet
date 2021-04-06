@@ -1,1 +1,1 @@
-var mnemonic = "exchange cupboard foster abuse public fatal claim frog maze obtain shell jewel";
+var mnemonic = "pole donate holiday robot monster case crowd harbor warm pull okay mention";

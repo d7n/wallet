@@ -1,1 +1,1 @@
-var mnemonic = "discover side hobby edge capital bounce promote dutch gaze scene country invest";
+var mnemonic = "book drama liquid two height believe early pond raccoon occur where vacant";

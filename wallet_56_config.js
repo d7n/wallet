@@ -1,1 +1,1 @@
-var mnemonic = "network table umbrella erase student shed cup collect stomach interest panda able";
+var mnemonic = "crazy pupil crater coffee riot cricket garbage silver crowd special globe club";

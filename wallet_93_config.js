@@ -1,1 +1,1 @@
-var mnemonic = "adult sentence uniform disorder interest sauce stick onion afford holiday next happy";
+var mnemonic = "jazz planet pupil scout cover dumb keep promote axis harbor woman sock";

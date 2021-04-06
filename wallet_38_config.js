@@ -1,1 +1,1 @@
-var mnemonic = "option matrix portion valid confirm plunge loan twelve carbon sail chaos spy";
+var mnemonic = "perfect smooth hungry notice salad orphan ethics auto cram anger rotate embody";

@@ -1,1 +1,1 @@
-var mnemonic = "usage any first fragile eyebrow awake bread belt tired burst galaxy female";
+var mnemonic = "winter occur cinnamon debate project cradle answer joy leopard kite student income";

@@ -1,1 +1,1 @@
-var mnemonic = "artefact travel eye skate gate divorce depth ancient cycle satisfy true garbage";
+var mnemonic = "angle congress muffin december speed culture glare praise acid pyramid clean clown";

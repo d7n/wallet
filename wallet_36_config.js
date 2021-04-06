@@ -1,1 +1,1 @@
-var mnemonic = "twelve unhappy expire power carpet airport spring behave unable scene accuse crystal";
+var mnemonic = "train project false deer tank inform second crush swamp abuse price harvest";

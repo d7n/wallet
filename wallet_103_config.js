@@ -1,1 +1,1 @@
-var mnemonic = "three board badge involve cloth black arrest drip more quantum type wrestle";
+var mnemonic = "salon staff caught copy bullet anxiety noble acquire nurse envelope pen useful";

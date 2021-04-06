@@ -1,1 +1,1 @@
-var mnemonic = "setup question cluster carpet corn split profit real neither syrup grow derive";
+var mnemonic = "gain maze blossom cash claim crack thing lumber merit lucky garment found";

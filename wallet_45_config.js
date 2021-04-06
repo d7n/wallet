@@ -1,1 +1,1 @@
-var mnemonic = "prefer crazy miss brave session owner intact unfair lucky ramp unusual bullet";
+var mnemonic = "echo clump van sudden frown ranch wait tornado network deal present lemon";

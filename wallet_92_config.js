@@ -1,1 +1,1 @@
-var mnemonic = "layer just accuse category become camera welcome list blossom digital leisure obtain";
+var mnemonic = "actress kiwi announce seminar multiply hurry upgrade ticket stick shift merit private";

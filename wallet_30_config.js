@@ -1,1 +1,1 @@
-var mnemonic = "abandon lift industry saddle own cereal junk rescue recycle outdoor ivory neither";
+var mnemonic = "latin sniff yellow board rebel exact ramp relax pen honey demise gym";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh play foster plunge vintage memory put capital drift put rebel because";
+var mnemonic = "cousin bonus stone travel power mercy resemble economy special edit brain tunnel";

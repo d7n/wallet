@@ -1,1 +1,1 @@
-var mnemonic = "physical rough danger duty garage hover dose toy fantasy final nerve school";
+var mnemonic = "day summer priority ancient scrub priority baby early glass gym news usage";

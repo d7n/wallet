@@ -1,1 +1,1 @@
-var mnemonic = "raccoon inner despair salute solution armed similar lunar embark artefact produce bamboo";
+var mnemonic = "box shy garment gloom allow glad engine learn basic toast morning language";

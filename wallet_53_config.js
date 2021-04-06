@@ -1,1 +1,1 @@
-var mnemonic = "problem coral reduce improve useful skill nasty punch donate copper update supply";
+var mnemonic = "trumpet delay order bleak chaos globe moment avoid wrap boss jealous inspire";

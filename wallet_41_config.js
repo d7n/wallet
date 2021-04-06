@@ -1,1 +1,1 @@
-var mnemonic = "vital master cluster puppy cluster couple garbage plunge aspect plate oven question";
+var mnemonic = "original raise buzz motor legend connect laundry swamp wide mask mean boring";

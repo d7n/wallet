@@ -1,1 +1,1 @@
-var mnemonic = "betray hockey loud document hospital biology network decorate among worth icon print";
+var mnemonic = "cube pattern guess area much eternal where carbon loyal trade deer crop";

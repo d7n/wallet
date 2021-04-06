@@ -1,1 +1,1 @@
-var mnemonic = "aerobic dice foil bone rare genuine cabin unique mention resemble crystal inmate";
+var mnemonic = "vibrant wide measure ski like drastic cram hurry flavor wolf board capable";

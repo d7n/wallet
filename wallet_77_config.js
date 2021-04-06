@@ -1,1 +1,1 @@
-var mnemonic = "produce twice wish liar approve undo wealth remove impulse erode stage cruise";
+var mnemonic = "meat flat casual suit shed interest fossil head assist duck bundle winter";

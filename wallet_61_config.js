@@ -1,1 +1,1 @@
-var mnemonic = "faith fit bid left wild visa mirror outer chest ostrich property satoshi";
+var mnemonic = "indoor foam frost denial problem raven inform tip dad race agent coil";

@@ -1,1 +1,1 @@
-var mnemonic = "fit sure decorate library pen cabbage fence rural fish orbit found fall";
+var mnemonic = "blame inspire awesome tower person valid apple buffalo elephant boost horse vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "carry occur grass gospel noble scatter disagree purity human nose spare punch";
+var mnemonic = "syrup tortoise invite pass goat found great year estate congress guitar farm";

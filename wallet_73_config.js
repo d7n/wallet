@@ -1,1 +1,1 @@
-var mnemonic = "barrel link west assault outdoor refuse mandate people hurry craft smart catalog";
+var mnemonic = "cinnamon fitness confirm desert age axis denial draw pledge alert argue carbon";

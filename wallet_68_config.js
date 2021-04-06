@@ -1,1 +1,1 @@
-var mnemonic = "animal helmet identify length start spider bonus artist vicious misery lucky pulp";
+var mnemonic = "assume figure aspect buffalo silent window lunar mother finish edit venture chronic";

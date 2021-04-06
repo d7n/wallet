@@ -1,1 +1,1 @@
-var mnemonic = "maid dream way advice inherit engine spring evoke club enter scheme future";
+var mnemonic = "all member carbon box echo dream scout rally prepare two beach omit";

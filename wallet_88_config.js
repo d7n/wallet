@@ -1,1 +1,1 @@
-var mnemonic = "liar session dinosaur awesome balcony cook outdoor artist fun wolf hungry debris";
+var mnemonic = "display detail paper amazing prevent edit cherry grief episode horror target want";

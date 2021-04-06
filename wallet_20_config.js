@@ -1,1 +1,1 @@
-var mnemonic = "gym online tired hurdle supply health moon dream screen access erosion leisure";
+var mnemonic = "suspect notice rib ankle refuse spot country crunch peace pipe fringe raven";

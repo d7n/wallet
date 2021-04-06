@@ -1,1 +1,1 @@
-var mnemonic = "critic library cram ceiling drip color wave accuse brand brown method option";
+var mnemonic = "useful fancy hub little panel try host accident crater young kick slow";

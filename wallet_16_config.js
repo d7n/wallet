@@ -1,1 +1,1 @@
-var mnemonic = "priority hotel major oxygen jealous false orange ill depend what lab brother";
+var mnemonic = "comfort clay unhappy turn provide number pave above spice vanish wet memory";

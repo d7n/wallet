@@ -1,1 +1,1 @@
-var mnemonic = "busy right reject west lecture title wear ride swing shoot leave security";
+var mnemonic = "orbit three adapt amused bacon trigger small sugar quiz unaware system cruel";

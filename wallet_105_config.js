@@ -1,1 +1,1 @@
-var mnemonic = "sock yard absorb neither local wash cannon original ripple sick easy yard";
+var mnemonic = "drive flush foster orphan scatter cloud range uniform crack cake wait beyond";

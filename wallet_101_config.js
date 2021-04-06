@@ -1,1 +1,1 @@
-var mnemonic = "myth lounge mountain sword thumb door under blouse knee sibling gaze lunch";
+var mnemonic = "myself palm elite truth nice spray emotion defy gentle any permit addict";

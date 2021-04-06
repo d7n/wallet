@@ -1,1 +1,1 @@
-var mnemonic = "pistol million screen badge biology hello awkward cave sauce spawn rebel say";
+var mnemonic = "envelope say ability enough mom animal sad junk balcony view govern card";

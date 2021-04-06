@@ -1,1 +1,1 @@
-var mnemonic = "sting cave view try common twenty focus minor wood eye become inform";
+var mnemonic = "olympic rate picnic cup favorite pudding eyebrow indicate again clog amused raccoon";

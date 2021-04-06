@@ -1,1 +1,1 @@
-var mnemonic = "relax fade turn warm focus decrease notice tiny goddess thing ozone symbol";
+var mnemonic = "like color island actual tooth wild breeze power forget submit gun boil";

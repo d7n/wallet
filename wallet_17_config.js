@@ -1,1 +1,1 @@
-var mnemonic = "search effort seven sock salute item taste glide arch tortoise supply unable";
+var mnemonic = "announce together steel human fly drink multiply resemble since meadow machine ivory";

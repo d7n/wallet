@@ -1,1 +1,1 @@
-var mnemonic = "sail dash ball lab relax chimney forum welcome suspect air system snow";
+var mnemonic = "also enact wait social what pepper describe thrive pet parent math insect";

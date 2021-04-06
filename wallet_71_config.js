@@ -1,1 +1,1 @@
-var mnemonic = "live boil horse mind ginger mistake point wrestle mountain clean enough develop";
+var mnemonic = "era banner stadium misery artefact upset time stairs warfare transfer fade jeans";

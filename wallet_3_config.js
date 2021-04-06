@@ -1,1 +1,1 @@
-var mnemonic = "expire correct glimpse hobby duty garlic expire sorry steel employ army own";
+var mnemonic = "attend legal retreat monitor envelope enforce powder film quote taxi road pulse";

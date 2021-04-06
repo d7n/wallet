@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog copper margin lumber security fiber move bar sunset popular gown east";
+var mnemonic = "candy opera thunder raven dizzy sure donor before usage gloom disease child";

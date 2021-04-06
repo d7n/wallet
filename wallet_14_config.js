@@ -1,1 +1,1 @@
-var mnemonic = "wish attack mechanic mixed velvet verify defy caught lobster radar plate mushroom";
+var mnemonic = "six curious dish mutual wonder cherry harvest medal ginger wolf place inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "supply food embrace grain office deputy gallery hour arena valid news purchase";
+var mnemonic = "absorb lyrics hamster lobster gym steel crowd album stick absorb file joke";

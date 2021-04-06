@@ -1,1 +1,1 @@
-var mnemonic = "traffic tooth scissors favorite suit cry choose goddess steak trap tray sister";
+var mnemonic = "improve client machine neither bench behind fat few shy twist daring sense";

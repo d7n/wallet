@@ -1,1 +1,1 @@
-var mnemonic = "rebel pact pottery ability announce bone canvas kick battle snake name pipe";
+var mnemonic = "involve elevator uniform index shoe oblige smooth comic fashion license glare retire";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder sick liberty refuse gain ticket virtual visa bone chuckle guide wave";
+var mnemonic = "segment shoe paddle lens crouch hobby common element way lion gift cash";

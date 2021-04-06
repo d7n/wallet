@@ -1,1 +1,1 @@
-var mnemonic = "develop mercy music firm tongue trust found hybrid hat sad stock that";
+var mnemonic = "swim eyebrow pledge ensure club sail work satoshi tuna rain sea shrimp";

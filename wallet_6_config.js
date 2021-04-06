@@ -1,1 +1,1 @@
-var mnemonic = "dizzy unusual marble section exact plastic medal mutual pause inherit approve magic";
+var mnemonic = "buyer embrace soldier interest thumb plug glare sign monitor fiber two pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "dress forum wage remember behind hour legal monitor race eye spin guess";
+var mnemonic = "front venue bomb climb ostrich motion foster bag jealous catalog custom million";

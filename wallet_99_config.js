@@ -1,1 +1,1 @@
-var mnemonic = "blind hard rather kitten elder execute expect zoo belt skill tail crawl";
+var mnemonic = "image start symbol attack scare lock surface hedgehog history injury bamboo grit";

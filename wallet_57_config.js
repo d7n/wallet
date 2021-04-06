@@ -1,1 +1,1 @@
-var mnemonic = "narrow eagle lock spell member cost stone actor trim meadow address invite";
+var mnemonic = "lobster one better scrub have fold priority glory divorce cinnamon venue execute";

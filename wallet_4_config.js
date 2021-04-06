@@ -1,1 +1,1 @@
-var mnemonic = "nuclear abuse helmet credit choice plug episode dad later home cloud scrub";
+var mnemonic = "pizza proud crane wage left hockey uncover know patient scissors indoor fresh";

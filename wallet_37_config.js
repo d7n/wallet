@@ -1,1 +1,1 @@
-var mnemonic = "mimic isolate night roof mountain ensure orange end annual achieve soup bird";
+var mnemonic = "agree repeat doctor shuffle enough photo amateur apology fluid exile ladder dragon";

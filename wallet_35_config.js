@@ -1,1 +1,1 @@
-var mnemonic = "battle purpose lend life bunker around slender history spoon please intact art";
+var mnemonic = "token trend wide unveil impose tragic universe lend fancy elite leg share";

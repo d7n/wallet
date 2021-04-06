@@ -1,1 +1,1 @@
-var mnemonic = "derive occur gun local orient rely around hybrid powder train possible winter";
+var mnemonic = "dance certain wreck blade trap insect surround radar ostrich check minute crisp";

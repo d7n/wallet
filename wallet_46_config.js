@@ -1,1 +1,1 @@
-var mnemonic = "rival viable execute fall engage glow team dismiss elder fall extend accuse";
+var mnemonic = "fringe install inhale blur rapid round donate original couch vivid sudden outer";

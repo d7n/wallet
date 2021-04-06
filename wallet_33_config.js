@@ -1,1 +1,1 @@
-var mnemonic = "upgrade want whip talk expose dove mango desert type empty fan blur";
+var mnemonic = "purse veteran lottery normal engine scissors brown bid afraid parrot mule section";

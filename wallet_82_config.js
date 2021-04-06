@@ -1,1 +1,1 @@
-var mnemonic = "nice salmon shuffle large duck young army resemble inside spare police wink";
+var mnemonic = "cargo mask flat pledge diary budget stock response forward item cactus almost";

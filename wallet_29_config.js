@@ -1,1 +1,1 @@
-var mnemonic = "valid gas practice isolate armor nature bag bulb shock swamp female original";
+var mnemonic = "drink uniform honey gate soldier jelly scare asthma fly novel stay inflict";

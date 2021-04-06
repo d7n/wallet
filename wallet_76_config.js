@@ -1,1 +1,1 @@
-var mnemonic = "curtain south risk glad blush curtain tattoo axis disease fancy relax one";
+var mnemonic = "column canal have twice vague hawk bird price honey six curtain gown";

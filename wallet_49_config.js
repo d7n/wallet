@@ -1,1 +1,1 @@
-var mnemonic = "priority color diamond saddle crime awesome cause flat swarm derive addict churn";
+var mnemonic = "erase spin lion solve bag powder shell design enter crack upset holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "dance juice inform screen office margin push speak slush adjust coast pink";
+var mnemonic = "lava outdoor uncle sorry crash gaze decline lucky attract occur motion view";

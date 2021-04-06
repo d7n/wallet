@@ -1,1 +1,1 @@
-var mnemonic = "little kick fiber visit trick orphan undo shoulder mule noble stick gym";
+var mnemonic = "acoustic ostrich develop label various rug wish ugly bronze used warrior boss";

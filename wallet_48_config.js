@@ -1,1 +1,1 @@
-var mnemonic = "east position mystery device pepper middle simple yard lion erosion toast lottery";
+var mnemonic = "brain speed latin lens daring dune radar pepper hazard parade bracket coil";

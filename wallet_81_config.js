@@ -1,1 +1,1 @@
-var mnemonic = "auction alone what truth impact lamp parade laundry margin because tube cube";
+var mnemonic = "open amazing draft guide total economy river apology usage oven tattoo defense";

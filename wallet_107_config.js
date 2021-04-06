@@ -1,1 +1,1 @@
-var mnemonic = "must gasp square wreck repeat apple mountain setup paddle visit float wave";
+var mnemonic = "shoot awesome october solve involve wool drip success spider brick walk diet";

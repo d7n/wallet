@@ -1,1 +1,1 @@
-var mnemonic = "produce giant climb friend coach lonely glory lottery pact sure risk rare";
+var mnemonic = "during maid cinnamon make picture choice crazy ceiling spread six piano denial";

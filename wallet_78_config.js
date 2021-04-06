@@ -1,1 +1,1 @@
-var mnemonic = "belt kidney panther shield chase glare uncle witness plate donate vivid clutch";
+var mnemonic = "fire music size pencil clump topple pottery panic private hybrid village chief";

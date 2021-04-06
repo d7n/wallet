@@ -1,1 +1,1 @@
-var mnemonic = "profit know clown follow law eagle message enact sign any fault butter";
+var mnemonic = "fish alone cheap naive subject alone agent toss enter outdoor borrow accuse";

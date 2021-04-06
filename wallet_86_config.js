@@ -1,1 +1,1 @@
-var mnemonic = "parent penalty fabric grass amount shine feel elephant whale deer weekend lounge";
+var mnemonic = "blood young aspect wage shield orphan genius grant someone habit flower say";

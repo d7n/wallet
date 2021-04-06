@@ -1,1 +1,1 @@
-var mnemonic = "hollow card manual unit quantum minute tongue spring punch wise stable image";
+var mnemonic = "disease shy skill loan melody motion medal climb calm nest common bonus";

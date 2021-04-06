@@ -1,1 +1,1 @@
-var mnemonic = "aware say thank apple energy wreck valve glue pass captain lunch unhappy";
+var mnemonic = "accuse avocado spot trim frog twist dinosaur flag culture giggle conduct unveil";

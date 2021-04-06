@@ -1,1 +1,1 @@
-var mnemonic = "rebel prevent earn course code interest real cattle husband genre love hole";
+var mnemonic = "skate offer area fold visit diamond drill brief dilemma hover apple crack";
