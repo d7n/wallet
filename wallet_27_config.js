@@ -1,1 +1,1 @@
-var mnemonic = "network pave bomb fine elevator various hammer wide found source bracket lumber";
+var mnemonic = "tragic pretty hood avoid horn this athlete teach develop useful wreck pen";

@@ -1,1 +1,1 @@
-var mnemonic = "explain unknown kingdom junk note arrive forward lecture begin shine crazy confirm";
+var mnemonic = "ancient ask royal bitter stairs sound vacant express cash smooth wave meat";

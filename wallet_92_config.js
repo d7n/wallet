@@ -1,1 +1,1 @@
-var mnemonic = "reform then tunnel hidden junk own blanket receive top supply keen tissue";
+var mnemonic = "truth another version rotate cute few wedding enrich pencil sight vibrant rough";

@@ -1,1 +1,1 @@
-var mnemonic = "donate source airport flat miss inform wish owner purpose pattern purse supreme";
+var mnemonic = "bar rival spot hope cry duty wheat good tip globe cherry equip";

@@ -1,1 +1,1 @@
-var mnemonic = "flip empower equip reason large habit yard coral judge public recycle sugar";
+var mnemonic = "mule sound million cat setup recipe pulp inhale antenna element later stamp";

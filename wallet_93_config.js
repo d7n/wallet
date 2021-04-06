@@ -1,1 +1,1 @@
-var mnemonic = "ordinary response erase salad skill top night clown remain symptom attend oyster";
+var mnemonic = "observe moment maximum mutual bid antenna utility good peasant code fatal letter";

@@ -1,1 +1,1 @@
-var mnemonic = "project year injury number issue whip gym tomorrow cradle industry guide balance";
+var mnemonic = "check mammal source toy math sun fluid frequent option bubble reopen cliff";

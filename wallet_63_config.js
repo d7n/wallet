@@ -1,1 +1,1 @@
-var mnemonic = "tonight that current cage unable jelly elder victory promote desk pony trigger";
+var mnemonic = "use save negative very nothing elevator divorce control try gesture smoke merge";

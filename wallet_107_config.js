@@ -1,1 +1,1 @@
-var mnemonic = "loyal hip park tenant clog fall draw real price tomorrow network unlock";
+var mnemonic = "panther inhale mistake uncle card object code play enact trim auction have";

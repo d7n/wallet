@@ -1,1 +1,1 @@
-var mnemonic = "million extra round bulk fault unveil also dish rent stairs drive best";
+var mnemonic = "industry earth puzzle vivid green nest typical coconut chef very reform bench";

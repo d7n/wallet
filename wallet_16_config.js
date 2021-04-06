@@ -1,1 +1,1 @@
-var mnemonic = "physical drum cave corn town interest blind snow lift addict front captain";
+var mnemonic = "social fruit slide lecture corn margin fine kingdom gospel under potato this";

@@ -1,1 +1,1 @@
-var mnemonic = "dune bubble van fortune mandate album skill toy column pulp peace garlic";
+var mnemonic = "parrot spy harbor fashion allow junk impose ignore foster rural ozone discover";

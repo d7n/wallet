@@ -1,1 +1,1 @@
-var mnemonic = "orbit ahead advice office swing message eyebrow afford broccoli option endorse index";
+var mnemonic = "dwarf nothing sick sudden marine unusual faint tooth such tank book loan";

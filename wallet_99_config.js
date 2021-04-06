@@ -1,1 +1,1 @@
-var mnemonic = "lab lazy float lamp talk snake century vault breeze price system giraffe";
+var mnemonic = "fire later make throw priority three direct crunch scrap hidden relax dismiss";

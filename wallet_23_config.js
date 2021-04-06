@@ -1,1 +1,1 @@
-var mnemonic = "holiday elder found two mix remind twin ozone cost junior capital crush";
+var mnemonic = "pigeon during deliver subject foot become toy cluster hobby wet cute paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty subway surface wrist exclude lend nation pipe thing scrub orient push";
+var mnemonic = "popular jungle lady hire surprise odor index talk engine switch resemble pattern";

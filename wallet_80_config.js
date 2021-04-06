@@ -1,1 +1,1 @@
-var mnemonic = "soda rapid drive vote invest output report notice agree cook chef apart";
+var mnemonic = "climb lonely interest speak pretty girl answer rabbit better nation smile account";

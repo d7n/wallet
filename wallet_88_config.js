@@ -1,1 +1,1 @@
-var mnemonic = "arch fall nurse better carry dentist wrist cabbage burst palace obscure summer";
+var mnemonic = "fresh body weapon glue end milk theme thing law goddess produce control";

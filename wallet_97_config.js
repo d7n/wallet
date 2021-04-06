@@ -1,1 +1,1 @@
-var mnemonic = "abandon field monster erode dream blouse wear fluid delay brush recall time";
+var mnemonic = "spot detect version glove various tuition easy pony task organ own film";

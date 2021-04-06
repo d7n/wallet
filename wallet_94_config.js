@@ -1,1 +1,1 @@
-var mnemonic = "clever dad pact parrot shuffle peanut festival trend fish truly wire hedgehog";
+var mnemonic = "absent fitness quiz giant carbon hobby attitude gather replace ensure figure wise";

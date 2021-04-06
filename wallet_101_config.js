@@ -1,1 +1,1 @@
-var mnemonic = "scrap vocal wreck turtle fiber young economy review switch valid raven trumpet";
+var mnemonic = "coast climb silk empty square toss order badge rebuild mystery yard inhale";

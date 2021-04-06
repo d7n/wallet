@@ -1,1 +1,1 @@
-var mnemonic = "usual tip defense gift mushroom panic this olive shop month planet vital";
+var mnemonic = "uphold food place tent still state lab extend venture knife school olympic";

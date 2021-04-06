@@ -1,1 +1,1 @@
-var mnemonic = "size crouch hunt banana shift pony someone weird civil chicken frown topic";
+var mnemonic = "october undo surprise equip version photo symptom black nest naive other feature";

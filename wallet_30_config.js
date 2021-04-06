@@ -1,1 +1,1 @@
-var mnemonic = "icon gesture hair across gorilla twice meadow ozone oval actor few magic";
+var mnemonic = "step axis kingdom camp parrot borrow usual assume output cheap stumble lava";

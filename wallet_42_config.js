@@ -1,1 +1,1 @@
-var mnemonic = "strategy cupboard rain potato doll blush maid online awful guard mercy cactus";
+var mnemonic = "depart whisper rug private engine soldier lottery slight glide edit dwarf palm";

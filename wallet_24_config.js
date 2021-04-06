@@ -1,1 +1,1 @@
-var mnemonic = "action door hand stamp person able engine session jaguar rabbit stand angle";
+var mnemonic = "lion citizen divorce avocado record van art bid pill dilemma useful clarify";

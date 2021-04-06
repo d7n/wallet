@@ -1,1 +1,1 @@
-var mnemonic = "today sound raw language virus spare state slight ripple quality smooth flee";
+var mnemonic = "cream dentist smooth secret solve smooth reason aim sleep gadget helmet false";

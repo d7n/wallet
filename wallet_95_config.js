@@ -1,1 +1,1 @@
-var mnemonic = "moon property sign slight until kitchen stick spice address north inherit mountain";
+var mnemonic = "term chapter coral gym jewel mirror pottery history valid disagree object narrow";

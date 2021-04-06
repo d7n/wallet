@@ -1,1 +1,1 @@
-var mnemonic = "dish force cinnamon chronic resist program vessel carpet dust frown tiger invest";
+var mnemonic = "legal snack culture unknown room earn glare solve pride next tourist uphold";

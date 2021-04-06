@@ -1,1 +1,1 @@
-var mnemonic = "check village bachelor scrub harvest wet tennis cigar whisper moon average local";
+var mnemonic = "tip kid capable fabric poverty cash noise lab find area diary repeat";

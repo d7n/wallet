@@ -1,1 +1,1 @@
-var mnemonic = "decline bomb protect seed embrace south start virus pudding smart material guide";
+var mnemonic = "pulp drama usual grunt cloth damage trade mystery wine spoil expand push";

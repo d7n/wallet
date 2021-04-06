@@ -1,1 +1,1 @@
-var mnemonic = "demise oblige benefit illegal hockey air dust excite indoor original cost ginger";
+var mnemonic = "film must wonder candy one nature alter drum record stadium jealous parade";

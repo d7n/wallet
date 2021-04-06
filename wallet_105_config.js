@@ -1,1 +1,1 @@
-var mnemonic = "satoshi music six fault thought stock report lonely kangaroo box loop mystery";
+var mnemonic = "damp view group bid clay good puzzle fee turkey snack modify salad";

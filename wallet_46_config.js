@@ -1,1 +1,1 @@
-var mnemonic = "address lens pass oyster nasty million bind curve belt mention buddy panther";
+var mnemonic = "cup charge north replace seek improve pepper gorilla furnace adult dolphin wife";

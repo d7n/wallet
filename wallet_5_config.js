@@ -1,1 +1,1 @@
-var mnemonic = "paper congress betray can sorry bunker rent eye wrestle virus health logic";
+var mnemonic = "acquire destroy pelican decorate senior funny artwork endless abandon plunge solid emerge";

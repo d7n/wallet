@@ -1,1 +1,1 @@
-var mnemonic = "market raw together harbor alcohol once cute belt advance thing oak vehicle";
+var mnemonic = "supply asset cousin field allow truth judge radio mixed giant wrist fossil";

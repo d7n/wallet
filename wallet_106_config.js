@@ -1,1 +1,1 @@
-var mnemonic = "sing ball stadium horse input hawk ignore two apology vault exercise oblige";
+var mnemonic = "equal shuffle crystal pupil universe concert weird live knee recipe virus artist";

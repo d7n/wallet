@@ -1,1 +1,1 @@
-var mnemonic = "blind lunar message where orient acid slow south asset stick camp police";
+var mnemonic = "endorse suffer brand turtle begin rose forest jealous wise thank ignore improve";

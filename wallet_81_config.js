@@ -1,1 +1,1 @@
-var mnemonic = "need actor smart empower garment daughter vibrant april repair youth liberty search";
+var mnemonic = "chuckle summer ice hope wool issue boss diet major meadow race kiss";

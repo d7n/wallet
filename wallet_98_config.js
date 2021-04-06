@@ -1,1 +1,1 @@
-var mnemonic = "soon short jazz blast bomb vote twenty guitar gasp like oil fresh";
+var mnemonic = "tennis notable victory kangaroo amazing sample zone explain survey thought blood quote";

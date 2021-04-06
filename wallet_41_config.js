@@ -1,1 +1,1 @@
-var mnemonic = "once avoid hair uncover thrive size tongue just climb bundle october two";
+var mnemonic = "joke street seed enforce kingdom alarm truck demise possible cloth submit alcohol";

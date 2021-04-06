@@ -1,1 +1,1 @@
-var mnemonic = "judge diesel hundred wrist vessel employ evidence misery cage rough dwarf shoot";
+var mnemonic = "priority wise outside apart garbage anger oval cousin kingdom opera oyster waste";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm glory reduce fall garlic little alarm target verb catalog sibling forget";
+var mnemonic = "story bind rural safe mushroom drive dash buffalo frame banana agent kidney";

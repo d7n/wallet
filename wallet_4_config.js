@@ -1,1 +1,1 @@
-var mnemonic = "umbrella large learn relief idea track ticket oak excuse wool napkin pepper";
+var mnemonic = "leave pave easily evil caught welcome behind rescue wire survey toddler manual";

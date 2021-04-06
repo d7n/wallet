@@ -1,1 +1,1 @@
-var mnemonic = "harbor race still exclude often offer useless custom grocery adapt limb chunk";
+var mnemonic = "universe casino deer crunch spatial debate yellow divide recall kiss evil flight";

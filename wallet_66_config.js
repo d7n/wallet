@@ -1,1 +1,1 @@
-var mnemonic = "hybrid science maximum fatigue impulse gorilla salad nerve office thrive alert category";
+var mnemonic = "reunion fire much celery write toward pepper know holiday mystery dash laundry";

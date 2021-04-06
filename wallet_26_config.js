@@ -1,1 +1,1 @@
-var mnemonic = "theory toddler target enact pig travel skull point save siren glue regular";
+var mnemonic = "symbol under crunch myth tennis humble put wild opinion panel find rhythm";

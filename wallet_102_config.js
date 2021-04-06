@@ -1,1 +1,1 @@
-var mnemonic = "mirror message north snack impulse final jacket year choice local essay enough";
+var mnemonic = "hire light welcome motion orbit loop cactus shock frown insect level episode";

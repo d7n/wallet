@@ -1,1 +1,1 @@
-var mnemonic = "cram peace alarm wheel enroll mammal snow carry clock super adjust false";
+var mnemonic = "predict unusual cool phone develop idle life game once clump force clinic";

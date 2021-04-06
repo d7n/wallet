@@ -1,1 +1,1 @@
-var mnemonic = "stadium cake chimney stick mandate lyrics time tired want middle image cruel";
+var mnemonic = "silly pony rose please buzz outside own kitten fault tourist host salad";

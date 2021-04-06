@@ -1,1 +1,1 @@
-var mnemonic = "evoke wing valley afford switch broccoli beach labor wall song school advice";
+var mnemonic = "climb tuna practice worry cream coast memory churn air neck net cable";

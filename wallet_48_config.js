@@ -1,1 +1,1 @@
-var mnemonic = "symptom tortoise caught fury gallery antenna cross damage blur oxygen empty beef";
+var mnemonic = "border patient emotion pilot bamboo warfare estate exhaust minor thank cabbage monkey";

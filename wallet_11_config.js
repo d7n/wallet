@@ -1,1 +1,1 @@
-var mnemonic = "aerobic drift uncle fix mask joy click symptom swarm use menu shadow";
+var mnemonic = "congress blade accuse library deliver glare flag beach ghost please helmet second";

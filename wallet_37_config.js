@@ -1,1 +1,1 @@
-var mnemonic = "wine hint ladder laugh margin special century trip test raven region trick";
+var mnemonic = "flip casual seminar young someone chapter wall excite early quantum fade rely";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar birth knee fuel relief load voyage crisp arch sea start enemy";
+var mnemonic = "patient permit voyage tongue pudding angle super citizen fan emotion between lucky";

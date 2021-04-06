@@ -1,1 +1,1 @@
-var mnemonic = "owner eager economy ten husband horn menu strong arch bitter now vapor";
+var mnemonic = "bubble misery mobile sweet night stuff culture search grain height lumber below";

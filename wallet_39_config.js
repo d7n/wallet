@@ -1,1 +1,1 @@
-var mnemonic = "famous fish shoot sentence twist climb vapor scan dog identify journey genre";
+var mnemonic = "quarter describe hammer tower prefer pyramid leave supply riot pony animal honey";

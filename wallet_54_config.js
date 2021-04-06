@@ -1,1 +1,1 @@
-var mnemonic = "fault east disagree dose cute salad merry leader foot twin shuffle lonely";
+var mnemonic = "giant pride note page relief fix spell bid inspire hair bonus ahead";

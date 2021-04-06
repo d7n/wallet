@@ -1,1 +1,1 @@
-var mnemonic = "hero kingdom topic blood disorder expose settle please hello obscure master feed";
+var mnemonic = "acoustic puppy tumble person soup hospital blast unhappy rebuild pigeon enroll elite";

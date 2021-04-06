@@ -1,1 +1,1 @@
-var mnemonic = "muscle ankle tide calm fever coast happy nothing chimney spring argue retreat";
+var mnemonic = "spy cake three type family river note involve kidney feel dilemma dolphin";

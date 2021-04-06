@@ -1,1 +1,1 @@
-var mnemonic = "jeans agree image fault dawn empower faculty trap shoot assault seat spin";
+var mnemonic = "section educate cactus analyst effort sure letter dumb cloud crawl true soup";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse across mimic total piano scrap large method bird critic gloom feed";
+var mnemonic = "mixed mobile economy hamster glove stove charge gravity into blanket mask mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder inner silk distance model advance leg survey spin drill orange table";
+var mnemonic = "obvious room matrix actor gravity kingdom doctor intact where alley reduce soldier";

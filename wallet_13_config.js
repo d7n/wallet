@@ -1,1 +1,1 @@
-var mnemonic = "ahead royal wild cloth embody winner cancel poet urban carry blue napkin";
+var mnemonic = "island elbow item satoshi comfort hood duty ugly pizza village fly junk";

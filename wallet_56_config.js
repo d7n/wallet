@@ -1,1 +1,1 @@
-var mnemonic = "success trophy stock dirt state banana remove wet work stamp print habit";
+var mnemonic = "crawl opera envelope subject erode virtual desert review soccer invite resource long";

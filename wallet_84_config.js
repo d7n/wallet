@@ -1,1 +1,1 @@
-var mnemonic = "try ski lock mixture elite upon dawn elegant cost next false sight";
+var mnemonic = "knee meadow stadium dove scrub twenty agree away east anxiety canal verify";

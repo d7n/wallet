@@ -1,1 +1,1 @@
-var mnemonic = "treat engage portion mom pole notable long section chronic crime clock diesel";
+var mnemonic = "worth age weasel sauce vicious promote scrub used kangaroo output tomato average";

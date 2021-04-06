@@ -1,1 +1,1 @@
-var mnemonic = "velvet input fine category couch mixture gossip castle cheese jelly also potato";
+var mnemonic = "spy fog fabric boost air again code panel keen view hotel manual";

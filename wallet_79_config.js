@@ -1,1 +1,1 @@
-var mnemonic = "side unit reject sheriff group trigger achieve captain safe demise sudden media";
+var mnemonic = "frown layer coast move leaf hospital stem fiscal oak aware shrimp car";

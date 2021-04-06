@@ -1,1 +1,1 @@
-var mnemonic = "monster capital romance clinic repeat column fiction type reopen okay rare answer";
+var mnemonic = "piece daughter pass piece company hedgehog belt carry tomorrow core change clean";

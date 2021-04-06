@@ -1,1 +1,1 @@
-var mnemonic = "crowd siren caught purchase kingdom between hope uncover ankle mountain glove field";
+var mnemonic = "laugh angry spare token joke dish embody sail arrow cool view wild";

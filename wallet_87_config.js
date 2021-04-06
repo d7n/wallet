@@ -1,1 +1,1 @@
-var mnemonic = "solar syrup rice raccoon script venture plunge seek rapid life acquire cousin";
+var mnemonic = "middle lottery climb snow concert depth spice clock chalk type ozone obey";

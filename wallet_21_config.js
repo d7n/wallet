@@ -1,1 +1,1 @@
-var mnemonic = "enforce uncle roof canyon tip front pink tomorrow divert spike silly answer";
+var mnemonic = "gadget tackle knife toilet base boil will sibling rebuild produce slogan cat";

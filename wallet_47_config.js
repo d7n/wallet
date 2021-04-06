@@ -1,1 +1,1 @@
-var mnemonic = "lesson about toss hair captain penalty huge chair enough involve huge midnight";
+var mnemonic = "wife volume report essay provide delay cheap plastic aisle park pave census";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce slide solid level climb attack game good topple season miracle typical";
+var mnemonic = "twice sun roof donor curious dress tunnel immune essay sand useful fancy";

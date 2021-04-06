@@ -1,1 +1,1 @@
-var mnemonic = "charge example banner leisure illness above alcohol kingdom cherry quantum joke school";
+var mnemonic = "view shock history kit blade column midnight echo announce jaguar garment hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "height finger axis above similar regret upset avocado patch meat maple salt";
+var mnemonic = "install gasp twenty clip voice vapor nasty act whip hero swamp hole";

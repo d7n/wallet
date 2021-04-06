@@ -1,1 +1,1 @@
-var mnemonic = "nothing bamboo miss bronze broom escape heavy true six never assault baby";
+var mnemonic = "gym episode finish reopen target siege opinion weather solution occur rescue envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "immune excite gift target color lawsuit obtain good already grief judge alcohol";
+var mnemonic = "grow whip museum balance one home settle junior burst depend sign discover";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant ostrich farm honey champion spice eager eyebrow faint library ribbon moral";
+var mnemonic = "cabin barrel sphere tag hen squirrel catch area worth they valid sad";

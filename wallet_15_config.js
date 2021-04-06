@@ -1,1 +1,1 @@
-var mnemonic = "indicate whisper giant will prison minute trumpet crop table account runway subject";
+var mnemonic = "stamp measure ramp fashion ritual fork height style crater cushion shine island";

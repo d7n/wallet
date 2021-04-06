@@ -1,1 +1,1 @@
-var mnemonic = "clock song gasp assume consider gain oblige pool screen cigar penalty waste";
+var mnemonic = "evil guard hundred fame hurdle truck advice spider prefer pretty throw exhibit";

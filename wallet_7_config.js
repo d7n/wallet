@@ -1,1 +1,1 @@
-var mnemonic = "night repeat buffalo camp together double dry narrow pupil hockey tennis budget";
+var mnemonic = "inch mass cash device engage purity leader entry rural bid cart thunder";

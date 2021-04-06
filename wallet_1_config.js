@@ -1,1 +1,1 @@
-var mnemonic = "scare practice mushroom bulk bid write toilet stairs monkey airport muffin level";
+var mnemonic = "cricket fossil dress method equip attend paddle must burst usual divide pipe";

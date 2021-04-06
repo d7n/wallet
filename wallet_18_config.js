@@ -1,1 +1,1 @@
-var mnemonic = "have voyage tag stereo control adult claw pink clever fame pistol board";
+var mnemonic = "canal public confirm okay rocket village mystery submit trial hybrid prosper master";

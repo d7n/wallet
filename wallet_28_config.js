@@ -1,1 +1,1 @@
-var mnemonic = "appear capital inquiry surge unaware blanket notice merry punch monitor love reduce";
+var mnemonic = "begin guitar mass cave rural patrol funny derive bottom force slush follow";

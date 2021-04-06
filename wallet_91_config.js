@@ -1,1 +1,1 @@
-var mnemonic = "sail frost margin blood main someone chapter ceiling crush ordinary heart obvious";
+var mnemonic = "popular slice worth dune inch item awkward melt garlic survey forward radio";

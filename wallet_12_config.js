@@ -1,1 +1,1 @@
-var mnemonic = "transfer eager demand faculty market near worry runway notice reward hello despair";
+var mnemonic = "total early skin tube add answer gravity phrase evolve ask lesson strong";

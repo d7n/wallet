@@ -1,1 +1,1 @@
-var mnemonic = "base regret glass rose congress easily fabric fine thing drip injury glow";
+var mnemonic = "clever trouble cannon little asthma ensure indoor rain else cream cup lemon";

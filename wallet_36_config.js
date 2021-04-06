@@ -1,1 +1,1 @@
-var mnemonic = "admit nephew wheel pencil afford symptom process grunt heavy venue bargain paddle";
+var mnemonic = "solid garden drill nuclear carbon whale box family sudden excite carbon range";

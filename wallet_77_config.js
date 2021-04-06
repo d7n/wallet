@@ -1,1 +1,1 @@
-var mnemonic = "lesson chapter crop drink dash humor boring wine satisfy duck lonely category";
+var mnemonic = "reopen saddle mom scrap clerk between donate country struggle glue lock motion";
