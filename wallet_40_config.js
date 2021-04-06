@@ -1,1 +1,1 @@
-var mnemonic = "type copper worry dizzy joy like hurdle swamp lock item bird song";
+var mnemonic = "chimney album traffic census flush convince mango six service sick fog cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "minute umbrella ring tag property bike attract cinnamon video garden dish frequent";
+var mnemonic = "chat kingdom eager enforce giggle baby onion wonder oxygen skull edge merge";

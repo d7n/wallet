@@ -1,1 +1,1 @@
-var mnemonic = "advance level cargo sudden evidence cruel industry boy parrot hedgehog broccoli relax";
+var mnemonic = "grape mimic clever ginger leisure cook enjoy measure solid often general number";

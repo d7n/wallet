@@ -1,1 +1,1 @@
-var mnemonic = "school outer maple slim utility dune valve always category neutral tilt wrong";
+var mnemonic = "grow believe attend victory celery antique issue gap casino grass civil modify";

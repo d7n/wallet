@@ -1,1 +1,1 @@
-var mnemonic = "turn boring rug discover long bleak skill coast twist angle voice text";
+var mnemonic = "clarify body change ecology anchor rebel glory hawk wrong illness grit permit";

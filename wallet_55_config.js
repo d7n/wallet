@@ -1,1 +1,1 @@
-var mnemonic = "fix caught boy dinner effort relief confirm emotion club sun mango evidence";
+var mnemonic = "shed winner member mutual unlock electric pause daring unit vehicle initial divide";

@@ -1,1 +1,1 @@
-var mnemonic = "inner crater position story jar exotic bright heavy eyebrow horn enable pumpkin";
+var mnemonic = "grape immense once lunar plunge plate pole regular pole rigid husband loud";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion become perfect credit loud strategy imitate hello inside firm until boss";
+var mnemonic = "foam online cotton shiver please taste special brand total recycle hawk cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "region era sauce scorpion wide excite tennis insane educate sure define maze";
+var mnemonic = "mad sing embrace hockey finger cram moment confirm forest rare quit addict";

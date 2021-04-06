@@ -1,1 +1,1 @@
-var mnemonic = "gain betray box pulse tissue rebuild banner enhance clown scout test finger";
+var mnemonic = "idea erupt ball humor pink arrive chuckle please squirrel helmet box regret";

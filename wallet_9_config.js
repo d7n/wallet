@@ -1,1 +1,1 @@
-var mnemonic = "gorilla beyond deputy true monitor fabric jaguar moral auto lift jump gas";
+var mnemonic = "devote electric pyramid million donate delay flower together first bachelor feel planet";

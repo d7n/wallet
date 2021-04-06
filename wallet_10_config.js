@@ -1,1 +1,1 @@
-var mnemonic = "aim all pass tool theme catalog tree cycle still mask harsh staff";
+var mnemonic = "appear tennis general wonder pumpkin advance napkin post pact nation much dress";

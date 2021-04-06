@@ -1,1 +1,1 @@
-var mnemonic = "service domain barrel sort pistol best cotton eternal trust taxi swing tone";
+var mnemonic = "drop turkey clock cross income spread citizen hollow disorder collect student raise";

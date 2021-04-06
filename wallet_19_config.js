@@ -1,1 +1,1 @@
-var mnemonic = "craft always garment you one orange hub useless empower taxi ignore happy";
+var mnemonic = "alone absent minimum inside list truck exile glad audit embrace laundry near";

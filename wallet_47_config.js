@@ -1,1 +1,1 @@
-var mnemonic = "nest shield clog buyer water check use phrase ride describe spend yard";
+var mnemonic = "peace prison later finish silent hire amazing spike hungry make student enrich";

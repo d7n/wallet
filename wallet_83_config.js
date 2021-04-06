@@ -1,1 +1,1 @@
-var mnemonic = "pilot pause tomato puppy dragon youth hair sick private attract obscure nerve";
+var mnemonic = "wave life pitch weasel lamp matrix bless calm fabric truck future letter";

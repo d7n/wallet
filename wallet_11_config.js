@@ -1,1 +1,1 @@
-var mnemonic = "phone pause toe weasel maple cliff feature main print space curve trend";
+var mnemonic = "lift enter vicious juice jar frown inch curve trim ritual slot patient";

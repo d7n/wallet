@@ -1,1 +1,1 @@
-var mnemonic = "busy few shiver planet steak boss estate correct ice super reform always";
+var mnemonic = "enrich zone blue quality nose sort word sphere crawl paddle ecology dynamic";

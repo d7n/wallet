@@ -1,1 +1,1 @@
-var mnemonic = "electric industry route essence fossil tongue brush bitter winter identify away want";
+var mnemonic = "antique small execute shoot okay giant window comfort erode nation fiction october";

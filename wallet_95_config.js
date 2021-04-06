@@ -1,1 +1,1 @@
-var mnemonic = "grocery clay cool laundry expose useful correct chair practice elbow spend virus";
+var mnemonic = "cake february property walnut park gauge copper abuse rose coin smile tunnel";

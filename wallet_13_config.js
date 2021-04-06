@@ -1,1 +1,1 @@
-var mnemonic = "unfair winter grid grow border script extend faint surge delay you base";
+var mnemonic = "brief chapter celery perfect naive legend arrive limb crime state kitchen ordinary";

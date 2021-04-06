@@ -1,1 +1,1 @@
-var mnemonic = "magnet virtual elegant miss step witness select normal town lawn cheese suit";
+var mnemonic = "hub sausage into cable wrong law sugar sea nasty welcome cream wool";

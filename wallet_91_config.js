@@ -1,1 +1,1 @@
-var mnemonic = "damp noble nothing celery consider solve lens suspect muscle bracket matrix until";
+var mnemonic = "fantasy wolf enemy bamboo wagon film degree enroll tilt project gesture order";

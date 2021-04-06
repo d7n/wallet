@@ -1,1 +1,1 @@
-var mnemonic = "exchange yard sibling column exhibit pond crane dance foam sport flavor program";
+var mnemonic = "bread penalty black despair guess night leader tumble maximum mandate thrive material";

@@ -1,1 +1,1 @@
-var mnemonic = "empty weasel exist cancel dove raccoon bachelor destroy walk culture auction angle";
+var mnemonic = "sausage void wedding maid right space original surprise frog bullet check dash";

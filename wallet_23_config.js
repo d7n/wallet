@@ -1,1 +1,1 @@
-var mnemonic = "flush genuine judge announce camera parrot grid actor fruit border middle always";
+var mnemonic = "topple end crew squeeze sick ring attend muscle net air three humor";

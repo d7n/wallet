@@ -1,1 +1,1 @@
-var mnemonic = "idle praise venue scale parrot split eager ride essence satoshi monkey car";
+var mnemonic = "guitar taxi cannon erupt found cover camera cancel bullet vibrant infant easily";

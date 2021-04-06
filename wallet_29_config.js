@@ -1,1 +1,1 @@
-var mnemonic = "renew board novel blood honey common oblige banner circle case subway turtle";
+var mnemonic = "inherit execute festival bar junior island neutral gesture flee wink blast brick";

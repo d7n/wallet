@@ -1,1 +1,1 @@
-var mnemonic = "roof captain imitate oppose motor mushroom cycle under excuse table able engage";
+var mnemonic = "hundred youth frame beach fence wheat range flush glimpse obscure inner celery";

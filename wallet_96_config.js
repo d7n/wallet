@@ -1,1 +1,1 @@
-var mnemonic = "burst execute degree slim milk glory elegant burst strike story manage grit";
+var mnemonic = "love transfer best boss outdoor rally angle unable grab saddle vast front";

@@ -1,1 +1,1 @@
-var mnemonic = "flash network panda top royal nature auction exotic item neglect dawn vapor";
+var mnemonic = "cereal length stick dentist unfold small process soccer unfair clinic intact nephew";

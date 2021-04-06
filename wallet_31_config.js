@@ -1,1 +1,1 @@
-var mnemonic = "favorite vacuum clap famous fabric citizen clap craft romance essay hip goddess";
+var mnemonic = "sibling health hair evil scout fatal charge east history strong sugar blossom";

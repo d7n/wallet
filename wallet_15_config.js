@@ -1,1 +1,1 @@
-var mnemonic = "escape margin current wrestle cargo omit pen century fashion cat now senior";
+var mnemonic = "behind enact item age horn end rifle assault impose brush approve sand";

@@ -1,1 +1,1 @@
-var mnemonic = "stem uphold avoid final morning two quiz month cousin twelve virtual neglect";
+var mnemonic = "obey raccoon hair diagram awkward rival alpha talent spoon tree useful luxury";

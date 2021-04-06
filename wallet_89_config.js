@@ -1,1 +1,1 @@
-var mnemonic = "board truth test pen wet then movie any melody forget gadget chest";
+var mnemonic = "jewel thank average bubble phone silver raven sing van radar tomorrow flavor";

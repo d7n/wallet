@@ -1,1 +1,1 @@
-var mnemonic = "cabbage resist february urban phone chalk west half proud emotion hat remember";
+var mnemonic = "oak very bulb section marble insect item dove need guard joy river";

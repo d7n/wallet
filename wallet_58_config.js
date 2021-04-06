@@ -1,1 +1,1 @@
-var mnemonic = "snake repair damage moment bronze card pen title feed place actress hobby";
+var mnemonic = "imitate clown load nice gauge suffer hat ready worth parrot spoil hub";

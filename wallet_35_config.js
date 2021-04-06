@@ -1,1 +1,1 @@
-var mnemonic = "ski fuel purse town gravity number ensure link story square lens pipe";
+var mnemonic = "science build occur popular average carbon flavor manage plunge club reunion phrase";

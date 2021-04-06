@@ -1,1 +1,1 @@
-var mnemonic = "elbow lumber mention crouch echo impact wrong picture electric enable quit inch";
+var mnemonic = "debate cloth tiger frost shoulder wrist state layer business prosper phrase mad";

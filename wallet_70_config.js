@@ -1,1 +1,1 @@
-var mnemonic = "purpose fence various cup army acoustic worth arrange garage winner priority capable";
+var mnemonic = "gate mammal sure small twin gloom prosper tourist unfold leisure dose anchor";

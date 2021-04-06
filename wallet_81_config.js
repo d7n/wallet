@@ -1,1 +1,1 @@
-var mnemonic = "mixed focus rough cupboard planet strong perfect spoil bone mouse six mule";
+var mnemonic = "travel reunion become cereal base split island pink torch chat hair human";

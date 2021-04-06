@@ -1,1 +1,1 @@
-var mnemonic = "hidden nature rail local online immune present intact program cattle culture bunker";
+var mnemonic = "ask maid swift army clarify shaft casual vote increase junior load become";

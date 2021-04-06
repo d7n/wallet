@@ -1,1 +1,1 @@
-var mnemonic = "vault core wire artwork chunk beef helmet trust hub divide fragile wonder";
+var mnemonic = "coil letter release what blouse toddler arm road picture banana start airport";

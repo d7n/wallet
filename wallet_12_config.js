@@ -1,1 +1,1 @@
-var mnemonic = "call force sample salad slush answer horror unveil remain material lend female";
+var mnemonic = "thrive edge ranch myself adult direct admit hunt ready clinic fall together";

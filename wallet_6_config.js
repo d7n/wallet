@@ -1,1 +1,1 @@
-var mnemonic = "ensure strong amount glove forward adult zero hockey ripple digital author mimic";
+var mnemonic = "advice knee edit acquire rigid donor party unveil misery medal suit olympic";

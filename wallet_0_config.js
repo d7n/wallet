@@ -1,1 +1,1 @@
-var mnemonic = "pact slight clerk chicken ribbon miss amount glue olive text all lottery";
+var mnemonic = "health learn mesh original follow radar tuition stomach glory remain round fly";

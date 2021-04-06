@@ -1,1 +1,1 @@
-var mnemonic = "mixture student strong oval smoke hair matrix find pride life kitchen office";
+var mnemonic = "skirt flag shed east soul father hard cluster sadness voice draw scheme";

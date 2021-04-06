@@ -1,1 +1,1 @@
-var mnemonic = "recall half sorry auto live stuff armor section joke twenty fork river";
+var mnemonic = "find crack trophy honey few style mechanic visa asset local craft quarter";

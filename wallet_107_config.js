@@ -1,1 +1,1 @@
-var mnemonic = "essence gadget theme regret across hand limit cheese finger broom bachelor coconut";
+var mnemonic = "kind regret warrior knock helmet scissors kid dwarf clarify earth viable sustain";

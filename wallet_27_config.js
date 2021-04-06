@@ -1,1 +1,1 @@
-var mnemonic = "detail bridge glass fence regular language night pluck aisle decide inch property";
+var mnemonic = "inside quote dynamic immune eight kit gym garage avocado rocket report envelope";

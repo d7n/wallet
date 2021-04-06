@@ -1,1 +1,1 @@
-var mnemonic = "margin share shoot unfold claw morning step pear meat gloom treat six";
+var mnemonic = "chunk entry toddler you warm echo hurry tumble palace region more memory";

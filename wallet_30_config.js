@@ -1,1 +1,1 @@
-var mnemonic = "butter between collect admit cliff upset priority village average acquire juice news";
+var mnemonic = "shell autumn lake wheat advice slight awful normal sure depth purse absorb";

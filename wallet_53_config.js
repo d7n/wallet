@@ -1,1 +1,1 @@
-var mnemonic = "program memory width ask cousin educate boil female order excess bubble switch";
+var mnemonic = "inject habit enact cannon oppose code tilt february addict bright miracle book";

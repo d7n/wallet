@@ -1,1 +1,1 @@
-var mnemonic = "cigar police lucky repair release slight horror reunion action output oblige person";
+var mnemonic = "iron option potato exit faculty culture agent sight learn false tube gap";

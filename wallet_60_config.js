@@ -1,1 +1,1 @@
-var mnemonic = "boring grief grief twenty parent gasp problem secret smart sport then cannon";
+var mnemonic = "rhythm shaft connect orange decade series clean entry process cricket citizen mean";

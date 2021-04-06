@@ -1,1 +1,1 @@
-var mnemonic = "access tackle repeat admit damp clay layer sniff increase kick three impose";
+var mnemonic = "voice horn undo crash wolf visual culture resource valve city rocket swamp";

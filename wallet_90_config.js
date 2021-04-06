@@ -1,1 +1,1 @@
-var mnemonic = "price wrong tumble order before pause alcohol world flush milk merry boat";
+var mnemonic = "deny above uphold sponsor pyramid enemy pulse bracket hard deer enough horror";

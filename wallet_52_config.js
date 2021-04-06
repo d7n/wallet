@@ -1,1 +1,1 @@
-var mnemonic = "cram correct addict slab simple rib tourist fiber nothing siege noble trap";
+var mnemonic = "slide style abuse perfect bitter theme accuse ceiling october meadow consider worry";

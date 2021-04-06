@@ -1,1 +1,1 @@
-var mnemonic = "young inhale deliver prefer intact sick era trouble foam harsh improve seminar";
+var mnemonic = "endorse aisle genius cotton any paper arrow spin achieve empower arctic memory";

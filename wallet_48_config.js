@@ -1,1 +1,1 @@
-var mnemonic = "video off misery ensure follow hire chronic slice true taxi kiss medal";
+var mnemonic = "wrap cattle result faint suffer stereo dream rotate nature this hover label";

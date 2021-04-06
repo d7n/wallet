@@ -1,1 +1,1 @@
-var mnemonic = "address coast amateur ski toilet fan pulse path one decline soul eyebrow";
+var mnemonic = "gym lumber anger horse permit media magnet plug celery extra awesome reveal";

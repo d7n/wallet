@@ -1,1 +1,1 @@
-var mnemonic = "convince drastic door forest draw butter bundle humble news asset chronic parade";
+var mnemonic = "argue slab note tree wood uncle cabbage avocado reward mushroom antenna tomorrow";

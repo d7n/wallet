@@ -1,1 +1,1 @@
-var mnemonic = "erase crush woman maximum awful someone trim shoe ordinary vague dizzy replace";
+var mnemonic = "record climb bullet glow position buyer wasp sleep struggle hurt merit art";

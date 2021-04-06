@@ -1,1 +1,1 @@
-var mnemonic = "smile proof genuine flame worry time carry giggle run type mechanic silk";
+var mnemonic = "news young gossip start frost impose twist brave place strike unfair cloud";

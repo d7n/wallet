@@ -1,1 +1,1 @@
-var mnemonic = "deal dawn silk balance strong salt strong media broken fame debris same";
+var mnemonic = "fun pencil jaguar bulb fetch erode shoulder visit aunt box stamp deal";

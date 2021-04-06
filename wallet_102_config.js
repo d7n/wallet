@@ -1,1 +1,1 @@
-var mnemonic = "scare item cover judge fever talent myself trust evil reform robot country";
+var mnemonic = "talent bunker choose chef zero total sweet three decorate good desk board";

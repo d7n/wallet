@@ -1,1 +1,1 @@
-var mnemonic = "borrow weather glimpse path inflict theory skull dream canvas ostrich crucial theme";
+var mnemonic = "enable elder cruel setup rather very chair cook carbon unable buffalo kingdom";

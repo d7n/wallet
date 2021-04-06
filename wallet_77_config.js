@@ -1,1 +1,1 @@
-var mnemonic = "amount oak ghost eight risk sudden push people across column people fever";
+var mnemonic = "payment increase journey yard cereal company brush liar sight wood lucky bid";

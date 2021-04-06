@@ -1,1 +1,1 @@
-var mnemonic = "they reason minimum physical jaguar inner guitar airport right cave tell craft";
+var mnemonic = "post rebuild amazing purpose symptom teach cluster shop kingdom recycle neither auction";

@@ -1,1 +1,1 @@
-var mnemonic = "payment skin art piano voyage crime knife become host image lucky engine";
+var mnemonic = "destroy earn front negative twelve eager magic stock immense couple exclude odor";

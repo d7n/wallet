@@ -1,1 +1,1 @@
-var mnemonic = "print sketch purchase spatial talk blossom secret oyster must fix brisk sauce";
+var mnemonic = "decline release together few beauty enough juice zebra bread worth flee large";

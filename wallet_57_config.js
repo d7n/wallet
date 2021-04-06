@@ -1,1 +1,1 @@
-var mnemonic = "conduct deposit maximum thought trim orbit cactus motor curve bubble extra knee";
+var mnemonic = "large slim remove mule move car busy gun mom sock drama husband";

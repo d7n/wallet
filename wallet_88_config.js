@@ -1,1 +1,1 @@
-var mnemonic = "over monster parent badge betray release inside smile swift maximum exhaust reflect";
+var mnemonic = "despair pattern butter scale quiz hat attract march crop chef car caught";

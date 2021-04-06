@@ -1,1 +1,1 @@
-var mnemonic = "typical office know light season engage can chimney swap shell bicycle speed";
+var mnemonic = "pistol grab abandon lunch ankle enroll daring candy hip gospel rice fence";

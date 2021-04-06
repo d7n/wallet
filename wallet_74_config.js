@@ -1,1 +1,1 @@
-var mnemonic = "primary absent solve praise beyond web imitate squeeze battle suggest crawl engage";
+var mnemonic = "kangaroo robot spatial toward bicycle ozone ecology skull noble pledge today stick";

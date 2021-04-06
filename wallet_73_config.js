@@ -1,1 +1,1 @@
-var mnemonic = "cupboard palace rather type unlock obscure brand fury fruit series brother empty";
+var mnemonic = "tuna series fork van rely enrich solution rare foster accuse hip culture";

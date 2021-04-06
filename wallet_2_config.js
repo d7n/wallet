@@ -1,1 +1,1 @@
-var mnemonic = "athlete ten protect visual hazard acid call beyond grid pattern bone crash";
+var mnemonic = "satisfy harsh unique nation like bacon cream wrestle magic learn apart rigid";

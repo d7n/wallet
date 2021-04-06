@@ -1,1 +1,1 @@
-var mnemonic = "second success coconut attack stamp cave fox use source guitar camera tooth";
+var mnemonic = "best exercise funny sure expire dinner hurdle left enjoy slam follow vocal";

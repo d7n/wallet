@@ -1,1 +1,1 @@
-var mnemonic = "atom grow artist finish hope anchor mobile never hammer party nerve draw";
+var mnemonic = "gas parade faint cruel move title empower theory elephant item eagle zebra";

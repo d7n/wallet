@@ -1,1 +1,1 @@
-var mnemonic = "output hope remain debate heart duty junior large make else brief valley";
+var mnemonic = "snake fame half hard coil embrace gate need hold athlete sample object";

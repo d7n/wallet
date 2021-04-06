@@ -1,1 +1,1 @@
-var mnemonic = "doctor agent length endless galaxy brief path hair chapter black autumn stomach";
+var mnemonic = "exact oyster bright tube spread zebra popular garden cool bullet viable hammer";

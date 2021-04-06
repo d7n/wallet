@@ -1,1 +1,1 @@
-var mnemonic = "field morning clarify street nut battle shadow number month inner buffalo forest";
+var mnemonic = "animal hundred pioneer island hello cruel caught label bracket hospital wish rotate";

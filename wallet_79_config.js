@@ -1,1 +1,1 @@
-var mnemonic = "blind rough review solution drastic inside base hurry erupt guitar impact tired";
+var mnemonic = "clown great tunnel initial ask arctic sure correct equip yellow carry pulp";

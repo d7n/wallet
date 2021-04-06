@@ -1,1 +1,1 @@
-var mnemonic = "mass elephant antenna health slim very actual alone garage crater never jaguar";
+var mnemonic = "fork pottery fiber stereo panic never damp flag album real nephew dress";

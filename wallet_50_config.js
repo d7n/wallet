@@ -1,1 +1,1 @@
-var mnemonic = "soccer awkward boil viable wild myth girl inch sea impact glimpse boy";
+var mnemonic = "muffin hen pipe cave kiwi like whale awesome panic subject lunar carry";

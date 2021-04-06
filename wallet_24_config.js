@@ -1,1 +1,1 @@
-var mnemonic = "hero fringe mimic click hamster race bless pig merry order border fade";
+var mnemonic = "grow empty ten sphere blossom bone provide reflect enter local split gossip";

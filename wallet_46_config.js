@@ -1,1 +1,1 @@
-var mnemonic = "false govern snow age basic off spoil just aisle enjoy glance romance";
+var mnemonic = "response spring stay tone urban basic skull session nurse drama indicate gap";

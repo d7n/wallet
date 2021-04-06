@@ -1,1 +1,1 @@
-var mnemonic = "buffalo night drift riot chef embark another skin chuckle slam buddy badge";
+var mnemonic = "buzz material garbage common language holiday foot visual original thrive humble entry";

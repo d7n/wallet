@@ -1,1 +1,1 @@
-var mnemonic = "chaos walk spray speak eye time lounge swift erase misery team brisk";
+var mnemonic = "wreck nest enjoy damp jealous acquire moral pottery plastic future raccoon table";
