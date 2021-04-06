@@ -1,1 +1,1 @@
-var mnemonic = "wing quiz quarter senior impulse tongue lab noble science iron upset buzz";
+var mnemonic = "payment skin art piano voyage crime knife become host image lucky engine";

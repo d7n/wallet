@@ -1,1 +1,1 @@
-var mnemonic = "weasel into subway connect pair off nose ethics turtle gym chimney aerobic";
+var mnemonic = "ghost clinic nothing auction course bicycle power garage coin weird custom tube";

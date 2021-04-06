@@ -1,1 +1,1 @@
-var mnemonic = "common oblige select nut ginger pen bench message hair mouse name until";
+var mnemonic = "chaos walk spray speak eye time lounge swift erase misery team brisk";

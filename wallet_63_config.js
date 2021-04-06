@@ -1,1 +1,1 @@
-var mnemonic = "useless knock onion layer essay traffic glare surface defy crack zebra flip";
+var mnemonic = "void music unfair decorate title profit domain day travel report absent autumn";

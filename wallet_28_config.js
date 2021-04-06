@@ -1,1 +1,1 @@
-var mnemonic = "scrub swim rebuild leave else ignore tone burden base depart way jaguar";
+var mnemonic = "deal dawn silk balance strong salt strong media broken fame debris same";

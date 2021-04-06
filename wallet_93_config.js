@@ -1,1 +1,1 @@
-var mnemonic = "hello tower blue tiger warm artist hat squeeze volcano solar disorder purity";
+var mnemonic = "roof captain imitate oppose motor mushroom cycle under excuse table able engage";

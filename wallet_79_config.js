@@ -1,1 +1,1 @@
-var mnemonic = "sword bless grass tortoise border cannon slogan door limb write silent volcano";
+var mnemonic = "blind rough review solution drastic inside base hurry erupt guitar impact tired";

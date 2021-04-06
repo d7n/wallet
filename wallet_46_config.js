@@ -1,1 +1,1 @@
-var mnemonic = "permit foot share student silk lobster omit magic animal cheese engage gloom";
+var mnemonic = "false govern snow age basic off spoil just aisle enjoy glance romance";

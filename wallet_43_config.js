@@ -1,1 +1,1 @@
-var mnemonic = "lady custom series skin hire exchange cannon trigger scrub chaos child husband";
+var mnemonic = "emotion become perfect credit loud strategy imitate hello inside firm until boss";

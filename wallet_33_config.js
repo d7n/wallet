@@ -1,1 +1,1 @@
-var mnemonic = "peanut saddle jar host record liquid pause swift shift key illegal survey";
+var mnemonic = "busy few shiver planet steak boss estate correct ice super reform always";

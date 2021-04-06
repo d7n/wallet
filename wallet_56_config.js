@@ -1,1 +1,1 @@
-var mnemonic = "admit noodle energy cabbage shift clutch girl slide million fuel laugh bracket";
+var mnemonic = "decline offer warfare focus gentle pipe december table science vicious hour elite";

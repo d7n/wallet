@@ -1,1 +1,1 @@
-var mnemonic = "toe stand kit stage garden eye citizen vendor unable various parade voyage";
+var mnemonic = "ski fuel purse town gravity number ensure link story square lens pipe";

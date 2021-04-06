@@ -1,1 +1,1 @@
-var mnemonic = "climb solve profit amount become curve honey lonely prison sunny ankle stand";
+var mnemonic = "gorilla beyond deputy true monitor fabric jaguar moral auto lift jump gas";

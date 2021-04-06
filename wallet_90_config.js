@@ -1,1 +1,1 @@
-var mnemonic = "fun portion equal now left member fix rebuild pupil say easy never";
+var mnemonic = "price wrong tumble order before pause alcohol world flush milk merry boat";

@@ -1,1 +1,1 @@
-var mnemonic = "guard hint lend gadget flat hidden render caution truth ring sugar rude";
+var mnemonic = "young inhale deliver prefer intact sick era trouble foam harsh improve seminar";

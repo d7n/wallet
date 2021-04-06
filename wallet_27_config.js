@@ -1,1 +1,1 @@
-var mnemonic = "nation siren duty connect obtain kiwi clutch brave news announce bless endless";
+var mnemonic = "detail bridge glass fence regular language night pluck aisle decide inch property";

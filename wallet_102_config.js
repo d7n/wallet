@@ -1,1 +1,1 @@
-var mnemonic = "dish dinosaur anxiety doll sign gather coin vague avoid wire fat client";
+var mnemonic = "scare item cover judge fever talent myself trust evil reform robot country";

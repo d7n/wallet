@@ -1,1 +1,1 @@
-var mnemonic = "matrix parent melody wine suggest pen flush toast always order concert rifle";
+var mnemonic = "primary absent solve praise beyond web imitate squeeze battle suggest crawl engage";

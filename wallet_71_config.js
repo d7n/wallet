@@ -1,1 +1,1 @@
-var mnemonic = "essay dish purity wave tilt glove ivory hawk penalty armed ten admit";
+var mnemonic = "cigar police lucky repair release slight horror reunion action output oblige person";

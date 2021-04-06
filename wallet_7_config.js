@@ -1,1 +1,1 @@
-var mnemonic = "tilt shadow album route puppy today inherit flag sheriff always pride entry";
+var mnemonic = "turn boring rug discover long bleak skill coast twist angle voice text";

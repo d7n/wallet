@@ -1,1 +1,1 @@
-var mnemonic = "hundred exotic category gym phone river income surface vast upgrade donor wool";
+var mnemonic = "atom grow artist finish hope anchor mobile never hammer party nerve draw";

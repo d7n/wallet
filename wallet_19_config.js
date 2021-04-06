@@ -1,1 +1,1 @@
-var mnemonic = "because matrix economy chef jaguar blossom slow affair dream venue illegal toddler";
+var mnemonic = "craft always garment you one orange hub useless empower taxi ignore happy";

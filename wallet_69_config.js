@@ -1,1 +1,1 @@
-var mnemonic = "invite admit muffin pulse royal outdoor empower wheat satisfy endless cushion verify";
+var mnemonic = "vault core wire artwork chunk beef helmet trust hub divide fragile wonder";

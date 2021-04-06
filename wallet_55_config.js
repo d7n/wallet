@@ -1,1 +1,1 @@
-var mnemonic = "impact century label true skill wash lock clap century fan blur outdoor";
+var mnemonic = "fix caught boy dinner effort relief confirm emotion club sun mango evidence";

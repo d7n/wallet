@@ -1,1 +1,1 @@
-var mnemonic = "boring leg settle claw embark outside copper scene flat delay goat clown";
+var mnemonic = "cause sing awake boring upgrade busy improve bulk essence alien luxury fragile";

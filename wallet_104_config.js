@@ -1,1 +1,1 @@
-var mnemonic = "duty prepare neck double address crowd woman soap eye undo stereo earth";
+var mnemonic = "aunt donkey wish slogan ship broccoli emerge jar cactus time sand swap";

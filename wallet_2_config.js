@@ -1,1 +1,1 @@
-var mnemonic = "load industry bread loop first helmet spice legend reflect infant voyage primary";
+var mnemonic = "athlete ten protect visual hazard acid call beyond grid pattern bone crash";

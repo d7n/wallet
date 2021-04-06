@@ -1,1 +1,1 @@
-var mnemonic = "hand there physical must razor ankle risk forward city they fatigue alley";
+var mnemonic = "margin share shoot unfold claw morning step pear meat gloom treat six";

@@ -1,1 +1,1 @@
-var mnemonic = "razor close daughter shrug jacket relax nation make boil inflict report ancient";
+var mnemonic = "mixed focus rough cupboard planet strong perfect spoil bone mouse six mule";

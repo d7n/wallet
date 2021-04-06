@@ -1,1 +1,1 @@
-var mnemonic = "eight wing shallow baby duty urban amused stem thumb paper chuckle green";
+var mnemonic = "damp noble nothing celery consider solve lens suspect muscle bracket matrix until";

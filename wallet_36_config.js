@@ -1,1 +1,1 @@
-var mnemonic = "earth saddle brisk paddle keep seminar core common action silent tail bird";
+var mnemonic = "erase crush woman maximum awful someone trim shoe ordinary vague dizzy replace";

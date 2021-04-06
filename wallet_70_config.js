@@ -1,1 +1,1 @@
-var mnemonic = "pool business nature job elephant airport suffer now space bus program omit";
+var mnemonic = "purpose fence various cup army acoustic worth arrange garage winner priority capable";

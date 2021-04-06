@@ -1,1 +1,1 @@
-var mnemonic = "skull chat proof gorilla bottom visit item increase story cycle asset before";
+var mnemonic = "idle praise venue scale parrot split eager ride essence satoshi monkey car";

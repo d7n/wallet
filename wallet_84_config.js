@@ -1,1 +1,1 @@
-var mnemonic = "rich time inherit song zone mansion swallow suspect version step lucky audit";
+var mnemonic = "mass elephant antenna health slim very actual alone garage crater never jaguar";

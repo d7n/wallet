@@ -1,1 +1,1 @@
-var mnemonic = "victory nothing arrest try nut search scrub start blue wife slice fashion";
+var mnemonic = "service domain barrel sort pistol best cotton eternal trust taxi swing tone";

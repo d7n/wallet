@@ -1,1 +1,1 @@
-var mnemonic = "diesel coin page banana soup already witness jazz craft parent razor alien";
+var mnemonic = "renew board novel blood honey common oblige banner circle case subway turtle";

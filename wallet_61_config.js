@@ -1,1 +1,1 @@
-var mnemonic = "distance cry indicate error flush ignore swim peace width solve sketch mouse";
+var mnemonic = "hidden nature rail local online immune present intact program cattle culture bunker";

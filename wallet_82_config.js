@@ -1,1 +1,1 @@
-var mnemonic = "wise copy trophy wine improve royal lens mail penalty horror coast size";
+var mnemonic = "smile proof genuine flame worry time carry giggle run type mechanic silk";

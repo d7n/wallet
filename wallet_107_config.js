@@ -1,1 +1,1 @@
-var mnemonic = "improve earth speak master damp fix maze buffalo lawsuit analyst clinic bring";
+var mnemonic = "essence gadget theme regret across hand limit cheese finger broom bachelor coconut";

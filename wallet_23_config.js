@@ -1,1 +1,1 @@
-var mnemonic = "follow arrange tissue match duty around ice drink copper stereo boat verb";
+var mnemonic = "flush genuine judge announce camera parrot grid actor fruit border middle always";

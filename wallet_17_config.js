@@ -1,1 +1,1 @@
-var mnemonic = "range pepper donor hello pistol neutral alien reject exact neglect economy october";
+var mnemonic = "school outer maple slim utility dune valve always category neutral tilt wrong";

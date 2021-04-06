@@ -1,1 +1,1 @@
-var mnemonic = "clump seek pencil fashion surround gravity exhaust exhibit swing jaguar hold journey";
+var mnemonic = "doctor agent length endless galaxy brief path hair chapter black autumn stomach";

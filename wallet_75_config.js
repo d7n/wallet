@@ -1,1 +1,1 @@
-var mnemonic = "make defense tribe want fade ill enlist fog evolve cabin alter denial";
+var mnemonic = "latin slight theory surface bread ketchup usual among once hurt autumn morning";

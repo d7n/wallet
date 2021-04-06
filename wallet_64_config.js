@@ -1,1 +1,1 @@
-var mnemonic = "dose dentist marble noodle wrong grant minute find two possible together good";
+var mnemonic = "famous few reunion bounce truly list once safe omit charge heart gold";

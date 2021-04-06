@@ -1,1 +1,1 @@
-var mnemonic = "element lazy repeat diesel soap tape survey vast almost also delay lawn";
+var mnemonic = "address coast amateur ski toilet fan pulse path one decline soul eyebrow";

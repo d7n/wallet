@@ -1,1 +1,1 @@
-var mnemonic = "virtual maze goose lawsuit trend there unit track picture march zoo brisk";
+var mnemonic = "video off misery ensure follow hire chronic slice true taxi kiss medal";

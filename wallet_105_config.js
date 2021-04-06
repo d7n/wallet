@@ -1,1 +1,1 @@
-var mnemonic = "emotion slice prosper oil monitor club infant wife shoulder ozone three hood";
+var mnemonic = "someone hedgehog lawn cousin crazy army caution bus bench turn cup margin";

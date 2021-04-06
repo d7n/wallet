@@ -1,1 +1,1 @@
-var mnemonic = "century ribbon one priority local repeat tribe gather license ladder delay tuna";
+var mnemonic = "exchange yard sibling column exhibit pond crane dance foam sport flavor program";

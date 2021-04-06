@@ -1,1 +1,1 @@
-var mnemonic = "joy rather leader pet page tree dynamic remove ivory again wife swamp";
+var mnemonic = "they reason minimum physical jaguar inner guitar airport right cave tell craft";

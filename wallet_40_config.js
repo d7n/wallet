@@ -1,1 +1,1 @@
-var mnemonic = "silly tornado deer antique hole mail era pause wrong disorder ordinary piano";
+var mnemonic = "type copper worry dizzy joy like hurdle swamp lock item bird song";

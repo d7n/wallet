@@ -1,1 +1,1 @@
-var mnemonic = "alpha setup canoe accuse wish eyebrow flag alpha fossil property diamond smile";
+var mnemonic = "canyon intact game notable atom control federal arctic cloud lazy patch fury";

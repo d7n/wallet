@@ -1,1 +1,1 @@
-var mnemonic = "goose feature web time web team vapor hood wait crime cause supply";
+var mnemonic = "typical office know light season engage can chimney swap shell bicycle speed";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon cube sister diamond bullet odor bone maid dismiss surge vote edit";
+var mnemonic = "gain betray box pulse tissue rebuild banner enhance clown scout test finger";

@@ -1,1 +1,1 @@
-var mnemonic = "forward seek total symbol index rescue liberty tissue clinic kitten because hazard";
+var mnemonic = "favorite vacuum clap famous fabric citizen clap craft romance essay hip goddess";

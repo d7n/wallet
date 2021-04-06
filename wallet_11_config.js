@@ -1,1 +1,1 @@
-var mnemonic = "sick leave muffin woman fluid copy else work pulse ball flip movie";
+var mnemonic = "phone pause toe weasel maple cliff feature main print space curve trend";

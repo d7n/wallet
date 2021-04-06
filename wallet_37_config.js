@@ -1,1 +1,1 @@
-var mnemonic = "choice license ankle race web crunch argue whisper roof belt surge morning";
+var mnemonic = "inner crater position story jar exotic bright heavy eyebrow horn enable pumpkin";

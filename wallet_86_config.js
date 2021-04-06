@@ -1,1 +1,1 @@
-var mnemonic = "degree adjust weapon ripple reflect cycle catalog pride topple gown trust cricket";
+var mnemonic = "orient goddess inquiry endless estate swap process maze refuse radar twin brass";

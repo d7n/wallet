@@ -1,1 +1,1 @@
-var mnemonic = "giant uncle genre noodle glove sugar nominee aerobic own usual lumber hidden";
+var mnemonic = "escape margin current wrestle cargo omit pen century fashion cat now senior";

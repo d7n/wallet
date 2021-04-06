@@ -1,1 +1,1 @@
-var mnemonic = "shift cry hawk zebra exit smooth execute furnace aim child uncle sketch";
+var mnemonic = "gesture bread jewel stage trip autumn village muscle post easy drip damp";

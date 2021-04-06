@@ -1,1 +1,1 @@
-var mnemonic = "abstract unaware myth little satisfy moment electric void slide scrap hip pave";
+var mnemonic = "amount oak ghost eight risk sudden push people across column people fever";

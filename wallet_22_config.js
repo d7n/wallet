@@ -1,1 +1,1 @@
-var mnemonic = "sauce ring net oak people sorry snake reunion convince army capital paper";
+var mnemonic = "elbow lumber mention crouch echo impact wrong picture electric enable quit inch";

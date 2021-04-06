@@ -1,1 +1,1 @@
-var mnemonic = "tomato slender negative flavor leave range eagle question false trash stove bitter";
+var mnemonic = "cupboard palace rather type unlock obscure brand fury fruit series brother empty";

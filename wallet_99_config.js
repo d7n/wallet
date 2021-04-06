@@ -1,1 +1,1 @@
-var mnemonic = "moon bullet prepare palm inch sea ancient shrimp sustain scissors outdoor broccoli";
+var mnemonic = "access tackle repeat admit damp clay layer sniff increase kick three impose";

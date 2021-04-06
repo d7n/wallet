@@ -1,1 +1,1 @@
-var mnemonic = "before term birth distance staff tell fog never neutral seat audit hole";
+var mnemonic = "output hope remain debate heart duty junior large make else brief valley";

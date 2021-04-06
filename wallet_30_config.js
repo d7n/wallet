@@ -1,1 +1,1 @@
-var mnemonic = "message tonight brief fetch gadget glove riot index want yard half brain";
+var mnemonic = "butter between collect admit cliff upset priority village average acquire juice news";

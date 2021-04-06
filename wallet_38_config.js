@@ -1,1 +1,1 @@
-var mnemonic = "subject scissors inflict globe wine donor print isolate choose boil remain infant";
+var mnemonic = "gain sand rifle unit enrich profit silent stuff square hunt trial fame";

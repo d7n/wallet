@@ -1,1 +1,1 @@
-var mnemonic = "fit hand army vessel derive million walk jelly tourist pretty ancient limb";
+var mnemonic = "mass cereal yellow churn rice neglect list wheat cinnamon betray farm tattoo";

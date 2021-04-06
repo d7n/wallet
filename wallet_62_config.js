@@ -1,1 +1,1 @@
-var mnemonic = "butter exhibit swim lonely stuff suffer candy indoor clock worry girl win";
+var mnemonic = "inhale become replace budget two cactus mad pelican inflict gown video salute";

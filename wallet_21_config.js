@@ -1,1 +1,1 @@
-var mnemonic = "affair noble uniform access issue orient loud alter milk blood kangaroo purity";
+var mnemonic = "flash network panda top royal nature auction exotic item neglect dawn vapor";

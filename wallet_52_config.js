@@ -1,1 +1,1 @@
-var mnemonic = "title hour van paper clock buddy expand minute delay chalk segment tool";
+var mnemonic = "cram correct addict slab simple rib tourist fiber nothing siege noble trap";

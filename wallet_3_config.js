@@ -1,1 +1,1 @@
-var mnemonic = "siren alley dish dentist ecology scissors guess minimum voyage pistol have hotel";
+var mnemonic = "second success coconut attack stamp cave fox use source guitar camera tooth";

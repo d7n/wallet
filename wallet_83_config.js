@@ -1,1 +1,1 @@
-var mnemonic = "tongue stool spike syrup used debate share useless life income speed gadget";
+var mnemonic = "pilot pause tomato puppy dragon youth hair sick private attract obscure nerve";

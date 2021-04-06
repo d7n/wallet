@@ -1,1 +1,1 @@
-var mnemonic = "luxury vivid usual rescue walk member tumble biology inflict aerobic chimney dirt";
+var mnemonic = "conduct deposit maximum thought trim orbit cactus motor curve bubble extra knee";

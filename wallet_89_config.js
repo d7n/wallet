@@ -1,1 +1,1 @@
-var mnemonic = "book audit cruel steak advice more crop degree outdoor worry mesh picture";
+var mnemonic = "board truth test pen wet then movie any melody forget gadget chest";

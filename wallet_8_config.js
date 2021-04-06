@@ -1,1 +1,1 @@
-var mnemonic = "hard life vital million play world tuition fun author roast hello produce";
+var mnemonic = "print sketch purchase spatial talk blossom secret oyster must fix brisk sauce";

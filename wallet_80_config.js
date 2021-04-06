@@ -1,1 +1,1 @@
-var mnemonic = "icon emerge employ prefer begin sorry immune unaware captain sort patient witness";
+var mnemonic = "electric industry route essence fossil tongue brush bitter winter identify away want";

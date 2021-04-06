@@ -1,1 +1,1 @@
-var mnemonic = "nominee olympic claim two identify roast call ill property spoon vessel solid";
+var mnemonic = "minute umbrella ring tag property bike attract cinnamon video garden dish frequent";

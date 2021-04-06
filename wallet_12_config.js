@@ -1,1 +1,1 @@
-var mnemonic = "stomach beauty bullet capital record ship submit zoo announce virtual gate coffee";
+var mnemonic = "call force sample salad slush answer horror unveil remain material lend female";

@@ -1,1 +1,1 @@
-var mnemonic = "elder major verify position face crack waste depart defense fresh clown absorb";
+var mnemonic = "cabbage resist february urban phone chalk west half proud emotion hat remember";

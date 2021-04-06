@@ -1,1 +1,1 @@
-var mnemonic = "barely all decade lecture day point motion buffalo enroll exotic region dismiss";
+var mnemonic = "pact slight clerk chicken ribbon miss amount glue olive text all lottery";

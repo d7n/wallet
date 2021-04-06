@@ -1,1 +1,1 @@
-var mnemonic = "lemon divorce horn decrease battle melt shiver neutral present siren oil final";
+var mnemonic = "mixture student strong oval smoke hair matrix find pride life kitchen office";

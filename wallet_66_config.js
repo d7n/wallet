@@ -1,1 +1,1 @@
-var mnemonic = "ostrich grit ancient table south caution hockey south auction lamp razor license";
+var mnemonic = "advance level cargo sudden evidence cruel industry boy parrot hedgehog broccoli relax";

@@ -1,1 +1,1 @@
-var mnemonic = "almost repair million symptom hub nuclear subway glass notable bunker blast rabbit";
+var mnemonic = "nest shield clog buyer water check use phrase ride describe spend yard";

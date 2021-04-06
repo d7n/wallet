@@ -1,1 +1,1 @@
-var mnemonic = "lunar income april evoke course coil lady minute enhance provide perfect humor";
+var mnemonic = "empty weasel exist cancel dove raccoon bachelor destroy walk culture auction angle";

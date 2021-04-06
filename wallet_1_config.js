@@ -1,1 +1,1 @@
-var mnemonic = "advance kiss zero cream minute creek budget course party corn term elbow";
+var mnemonic = "convince drastic door forest draw butter bundle humble news asset chronic parade";

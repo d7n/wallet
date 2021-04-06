@@ -1,1 +1,1 @@
-var mnemonic = "nest ranch defense goat chuckle ask umbrella quick general doll rhythm oil";
+var mnemonic = "aim all pass tool theme catalog tree cycle still mask harsh staff";

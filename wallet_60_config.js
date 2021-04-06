@@ -1,1 +1,1 @@
-var mnemonic = "proud upgrade prize torch regular display exclude faint cancel secret hedgehog dutch";
+var mnemonic = "boring grief grief twenty parent gasp problem secret smart sport then cannon";
