@@ -1,1 +1,1 @@
-var mnemonic = "peasant express random toy town walk castle caught brisk pumpkin siege need";
+var mnemonic = "real motor hedgehog rug pulp elite tent usage typical envelope return insect";

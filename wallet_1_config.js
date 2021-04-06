@@ -1,1 +1,1 @@
-var mnemonic = "behave wait produce blur reward digital almost tourist wait then belt smooth";
+var mnemonic = "quarter misery poet home enable regret treat crystal cry remove sentence salad";

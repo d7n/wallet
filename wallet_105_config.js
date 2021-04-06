@@ -1,1 +1,1 @@
-var mnemonic = "bamboo moon torch wreck move range weapon twist wrestle bridge shoulder lock";
+var mnemonic = "way element school old list grow roof crush mango bottom dentist odor";

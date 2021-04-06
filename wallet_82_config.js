@@ -1,1 +1,1 @@
-var mnemonic = "flag correct master spider equip mammal want job soft neutral slide sphere";
+var mnemonic = "vacant erosion uniform year remain satisfy dash repeat dentist violin about umbrella";

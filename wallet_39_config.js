@@ -1,1 +1,1 @@
-var mnemonic = "zoo dinosaur scale crop pink speed cruise target enable scale brass melt";
+var mnemonic = "elevator labor second elevator today comfort decorate extra word chest profit swift";

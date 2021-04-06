@@ -1,1 +1,1 @@
-var mnemonic = "blood remove sing into accident issue stick quit utility artefact clip mandate";
+var mnemonic = "birth motion ride useful interest draft giggle weather silent harvest staff alter";

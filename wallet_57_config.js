@@ -1,1 +1,1 @@
-var mnemonic = "infant smile fun million helmet fiction duck catch second tide inch solid";
+var mnemonic = "direct lumber animal winner drift nose fringe network token carry please design";

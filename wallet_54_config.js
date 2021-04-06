@@ -1,1 +1,1 @@
-var mnemonic = "gorilla sign abandon search visual raccoon sense tourist say thank ostrich arrow";
+var mnemonic = "dinner middle organ enforce recall save tomorrow remind smooth patient gauge hazard";

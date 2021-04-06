@@ -1,1 +1,1 @@
-var mnemonic = "isolate outer universe guard city frame good grape motion remain surround fitness";
+var mnemonic = "benefit auction grocery north observe shoe pitch coyote truck bid mystery bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "approve camera search farm hire chunk scrap normal clap cactus scene poet";
+var mnemonic = "clip option language cable sorry giggle sunny drastic call cream decrease abuse";

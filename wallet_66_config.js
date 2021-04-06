@@ -1,1 +1,1 @@
-var mnemonic = "genius tree chronic opinion tornado genius laundry ability super excess winner broom";
+var mnemonic = "panda chapter dignity drive any furnace trade rate private avocado hammer promote";

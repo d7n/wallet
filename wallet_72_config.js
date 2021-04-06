@@ -1,1 +1,1 @@
-var mnemonic = "question price work grace script act exact exclude celery buyer weird hub";
+var mnemonic = "turn food below smart seed miracle betray invest lunar rebel glory fruit";

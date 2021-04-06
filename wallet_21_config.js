@@ -1,1 +1,1 @@
-var mnemonic = "sword upper coyote spatial side chief car jacket nurse save air roof";
+var mnemonic = "priority inject engine pride coyote rookie patch tuition awesome lonely theme sibling";

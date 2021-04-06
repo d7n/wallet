@@ -1,1 +1,1 @@
-var mnemonic = "toward disagree decline between spread treat magnet chest letter blouse able ceiling";
+var mnemonic = "flag frame great kite guitar mirror cute lab whale grant evolve magnet";

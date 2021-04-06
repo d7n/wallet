@@ -1,1 +1,1 @@
-var mnemonic = "evil absent service crawl slender ocean blue edge thought chaos must luxury";
+var mnemonic = "fly quarter wage all either cancel gain dress tone moon hour glory";

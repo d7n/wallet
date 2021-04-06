@@ -1,1 +1,1 @@
-var mnemonic = "clump lobster license abandon label nuclear recall stem rotate gate alter slight";
+var mnemonic = "price make van family dilemma weather rapid code stage vessel camp pelican";

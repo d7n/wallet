@@ -1,1 +1,1 @@
-var mnemonic = "capital divide dignity rookie flame ordinary between verb birth father candy slot";
+var mnemonic = "message dune usual occur will space boil anger turn prosper bottom panther";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey inside neither tourist awful erase avoid gospel giraffe dynamic desk salt";
+var mnemonic = "either chronic trouble helmet appear acquire exist diary balance over purchase fashion";

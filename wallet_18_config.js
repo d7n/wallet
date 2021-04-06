@@ -1,1 +1,1 @@
-var mnemonic = "sail toe public symbol theory rich hundred design glass inmate resource vibrant";
+var mnemonic = "rotate shield unique tumble effort pulp scrub fall more tortoise armed palm";

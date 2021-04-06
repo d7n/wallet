@@ -1,1 +1,1 @@
-var mnemonic = "next pulp destroy capital wrist wrestle increase pistol pistol genre runway unknown";
+var mnemonic = "bracket jazz payment aisle dove piano trust canvas frame pigeon rally escape";

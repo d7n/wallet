@@ -1,1 +1,1 @@
-var mnemonic = "annual skin captain naive lion upgrade chase cause key payment render radio";
+var mnemonic = "point laptop poverty artwork another drastic album today blood two tissue truly";

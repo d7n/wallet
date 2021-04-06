@@ -1,1 +1,1 @@
-var mnemonic = "smile upset predict color regret bring blind envelope shoulder device interest twist";
+var mnemonic = "angle water sheriff chef job dial swing vendor curve whip rich pet";

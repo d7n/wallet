@@ -1,1 +1,1 @@
-var mnemonic = "undo squirrel rely visit lend follow alien fatal crane inform planet puppy";
+var mnemonic = "script tiger rose shift sniff actor attract spice shadow dad account portion";

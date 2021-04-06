@@ -1,1 +1,1 @@
-var mnemonic = "picture review jeans decide world tank gravity system music beef office ticket";
+var mnemonic = "tattoo total mistake oval seat bid keep minor spoil time allow goddess";

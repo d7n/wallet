@@ -1,1 +1,1 @@
-var mnemonic = "quality ramp dawn language absorb boil holiday fringe two recycle core stage";
+var mnemonic = "song swarm cloth nature rail top remind dust plug twelve cup panther";

@@ -1,1 +1,1 @@
-var mnemonic = "october never noise cherry float eternal salute flag balance adapt crystal end";
+var mnemonic = "tonight lion ice sausage cotton once dynamic throw lawsuit faint cute assault";

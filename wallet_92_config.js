@@ -1,1 +1,1 @@
-var mnemonic = "clown sleep recycle biology verify asset wheat dignity foam blush target excite";
+var mnemonic = "grocery setup stick panic live apart manual laundry south vendor health comic";

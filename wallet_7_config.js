@@ -1,1 +1,1 @@
-var mnemonic = "ceiling search glow potato confirm brown narrow hood bar dry push property";
+var mnemonic = "human coast mind swallow ceiling birth music mirror level orbit length peasant";

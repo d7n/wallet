@@ -1,1 +1,1 @@
-var mnemonic = "ketchup cave immune multiply fun panda view early butter peace young basic";
+var mnemonic = "leave attend company above idea better spin jealous else nominee panther tuition";

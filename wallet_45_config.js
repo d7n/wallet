@@ -1,1 +1,1 @@
-var mnemonic = "demand mango scan category alpha write nerve vote produce rookie online predict";
+var mnemonic = "decorate loan print expire cause ketchup abuse false oak slim road swear";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare enlist then film wolf artist gasp awesome sphere now glove misery";
+var mnemonic = "rigid zebra hundred song warrior maple mother hope mechanic hint travel venture";

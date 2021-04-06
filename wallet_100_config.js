@@ -1,1 +1,1 @@
-var mnemonic = "pepper wreck program tube bus used scrap test soul nut globe tornado";
+var mnemonic = "alpha interest guess taste old trouble bus rival crawl pluck hotel tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "special finish fee enter there oxygen private borrow skull diet budget mix";
+var mnemonic = "brisk blind shaft hire crater hood oven milk vessel security lecture never";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic chunk symptom afford hamster infant run derive diagram sorry depend ill";
+var mnemonic = "surge library lucky evil now refuse whale express churn logic tiger access";

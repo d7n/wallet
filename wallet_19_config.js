@@ -1,1 +1,1 @@
-var mnemonic = "more arrest utility decorate actress silver green forward train laugh fall glance";
+var mnemonic = "ketchup fetch muscle tube hospital denial spread width hawk retreat tape device";

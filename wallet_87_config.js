@@ -1,1 +1,1 @@
-var mnemonic = "bicycle obtain rally art tree gaze math hard pole quantum cricket carry";
+var mnemonic = "admit sister roast pupil ranch hub short proud unfold pretty myself balance";

@@ -1,1 +1,1 @@
-var mnemonic = "clock income love frozen rebuild quit family attract average sample service impulse";
+var mnemonic = "cat scare enough front slice impact upper find regular feed ball seed";

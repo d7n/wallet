@@ -1,1 +1,1 @@
-var mnemonic = "law long enrich news gift hill flame cereal plastic addict scale social";
+var mnemonic = "tunnel exist pulp cactus scorpion filter delay quote boat wear source away";

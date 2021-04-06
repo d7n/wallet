@@ -1,1 +1,1 @@
-var mnemonic = "mountain notable winner nation utility penalty scene assault seed brain twice holiday";
+var mnemonic = "grace vague bulb shadow lake zoo damp bless argue mean powder weird";

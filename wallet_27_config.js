@@ -1,1 +1,1 @@
-var mnemonic = "movie tennis foot crucial nephew blouse tomato silly lonely bunker item mule";
+var mnemonic = "voyage arena conduct sorry fine great worth wave shop amazing object upper";

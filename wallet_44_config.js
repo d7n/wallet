@@ -1,1 +1,1 @@
-var mnemonic = "search crazy mammal special text drop rice churn drop camera relief boil";
+var mnemonic = "anxiety there govern ice glare call surface large gift game force copy";

@@ -1,1 +1,1 @@
-var mnemonic = "elite dirt prison legal there cool copy material protect picture before divorce";
+var mnemonic = "slush canyon gun change lava pitch vital frequent noise clump host kitchen";

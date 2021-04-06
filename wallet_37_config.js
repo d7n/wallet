@@ -1,1 +1,1 @@
-var mnemonic = "month all pull income ahead club shoe small globe pulp elephant large";
+var mnemonic = "cradle focus phone alert pair kit deputy time shaft list lift kidney";

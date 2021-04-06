@@ -1,1 +1,1 @@
-var mnemonic = "math kiss online course run eager pilot black silver write glimpse orchard";
+var mnemonic = "sea cage below science gravity light also cup bonus satisfy amused dress";

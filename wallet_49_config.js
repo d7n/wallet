@@ -1,1 +1,1 @@
-var mnemonic = "regret angry diesel fresh absent carbon butter nurse fine another hole meat";
+var mnemonic = "flavor milk glance voice town illegal dry sun base kitchen razor promote";

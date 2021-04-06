@@ -1,1 +1,1 @@
-var mnemonic = "dutch wisdom liar harbor rare text bronze spirit alert connect nerve abstract";
+var mnemonic = "mystery body choice comfort wisdom eyebrow bulk earth fancy major toilet combine";

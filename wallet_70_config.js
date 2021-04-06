@@ -1,1 +1,1 @@
-var mnemonic = "rapid museum prosper cousin prosper dinner decrease hero tip trust piano oyster";
+var mnemonic = "subject media citizen feel cat horse position onion spider dynamic live auto";

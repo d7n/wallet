@@ -1,1 +1,1 @@
-var mnemonic = "physical dream quantum moment vibrant mean idle suffer toy swallow afford will";
+var mnemonic = "keen speed cricket earn gadget uphold ability gift unable private service mask";

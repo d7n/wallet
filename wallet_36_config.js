@@ -1,1 +1,1 @@
-var mnemonic = "reopen frequent abuse essence board digital mention manage valid water mouse film";
+var mnemonic = "task entry predict summer attend borrow maple spoon peace today ceiling conduct";

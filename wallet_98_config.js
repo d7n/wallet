@@ -1,1 +1,1 @@
-var mnemonic = "iron yard jump hill physical maple venue pyramid else jungle finish craft";
+var mnemonic = "double organ hope wise radar baby broom volcano buffalo bottom vast gentle";

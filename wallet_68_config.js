@@ -1,1 +1,1 @@
-var mnemonic = "imitate despair embark visual smile square vault reflect document private sister income";
+var mnemonic = "token punch dynamic festival reveal episode enemy tumble argue gasp spider about";

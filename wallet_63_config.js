@@ -1,1 +1,1 @@
-var mnemonic = "glance glass lake traffic comic hamster toddler coast second version group army";
+var mnemonic = "demise east split brass abandon same march lava pumpkin glove uphold exhibit";

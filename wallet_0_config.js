@@ -1,1 +1,1 @@
-var mnemonic = "tube february jump material float develop melt search blame village example turtle";
+var mnemonic = "area bring wrist attend critic dance resource hedgehog thunder normal menu theme";

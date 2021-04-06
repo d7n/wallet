@@ -1,1 +1,1 @@
-var mnemonic = "puppy spare glow head vehicle child raw frequent vague left harbor door";
+var mnemonic = "veteran truth grid elephant coast toilet off shoot predict offer rotate bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain style lawsuit gentle release logic basic mansion expand soap alien during";
+var mnemonic = "token click cream unable fury clay joy genuine calm loyal window note";

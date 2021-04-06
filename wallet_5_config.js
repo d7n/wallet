@@ -1,1 +1,1 @@
-var mnemonic = "movie mesh miracle volume piano forward arrest brick junior more corn slogan";
+var mnemonic = "cost knee crucial pass stereo pottery web atom addict poverty clock surround";

@@ -1,1 +1,1 @@
-var mnemonic = "term guitar follow asset defense clip salt ride resemble fat skill summer";
+var mnemonic = "strategy scorpion trap voyage magnet host useless rack fall defy roof gap";

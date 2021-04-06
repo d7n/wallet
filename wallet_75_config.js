@@ -1,1 +1,1 @@
-var mnemonic = "fine lake stable crop turn cargo silent net taste van lava slice";
+var mnemonic = "ahead tiger mirror joy planet medal flag crumble vendor theme require weapon";

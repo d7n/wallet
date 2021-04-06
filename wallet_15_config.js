@@ -1,1 +1,1 @@
-var mnemonic = "stadium bleak glory violin other visit gauge review dance wise unfold link";
+var mnemonic = "clay good strike hard film water emerge leg song month bounce trouble";

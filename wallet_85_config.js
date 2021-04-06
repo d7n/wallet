@@ -1,1 +1,1 @@
-var mnemonic = "sting metal unit glad draw render sound inject gadget scorpion soup truly";
+var mnemonic = "mansion crash impact horn vague isolate script unknown horror critic maze ride";

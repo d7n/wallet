@@ -1,1 +1,1 @@
-var mnemonic = "cereal tower object evil weekend purity over worth isolate industry volume dynamic";
+var mnemonic = "clerk apology diary fruit gloom ship close apple license foster fruit grit";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe dish theory thought artefact tag final donkey field badge copy stuff";
+var mnemonic = "world bottom address brief camera plate message salmon tortoise frequent rose exchange";

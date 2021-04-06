@@ -1,1 +1,1 @@
-var mnemonic = "huge toddler flag reject harvest crisp stage expire estate great stumble limb";
+var mnemonic = "load infant position abuse design dolphin fatigue six next material anger release";

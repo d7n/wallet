@@ -1,1 +1,1 @@
-var mnemonic = "stem still response helmet paddle parrot organ mouse cat social crime endorse";
+var mnemonic = "eight pause lyrics video whisper ethics joke appear secret dumb vacuum cable";

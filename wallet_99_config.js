@@ -1,1 +1,1 @@
-var mnemonic = "fan this mistake culture harsh buffalo design tomorrow captain spin skirt wife";
+var mnemonic = "shop crystal primary resource shaft feel fatigue boost sustain mass reveal book";

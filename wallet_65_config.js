@@ -1,1 +1,1 @@
-var mnemonic = "festival people cream clever ask method inspire panic panda perfect bulb digital";
+var mnemonic = "trash drastic catalog need problem casino myth battle alarm trick lend squirrel";

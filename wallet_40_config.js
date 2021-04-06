@@ -1,1 +1,1 @@
-var mnemonic = "add similar park level protect barrel riot title crew remind hill sport";
+var mnemonic = "short elevator comfort high gossip pear advance okay wish entry vast mobile";

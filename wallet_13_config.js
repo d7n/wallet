@@ -1,1 +1,1 @@
-var mnemonic = "quote crucial puzzle wage sound inside cupboard spin mobile evolve trash buyer";
+var mnemonic = "oven off tomorrow theme prize soup cushion puppy violin outdoor remind kangaroo";

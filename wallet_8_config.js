@@ -1,1 +1,1 @@
-var mnemonic = "boat draw alarm friend fish man vivid chaos inquiry decide mechanic attack";
+var mnemonic = "fatigue close warrior void list funny average east quantum steak chicken exhibit";

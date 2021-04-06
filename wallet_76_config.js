@@ -1,1 +1,1 @@
-var mnemonic = "quiz slide since person exact perfect lake awful quality crisp judge bone";
+var mnemonic = "retreat neck approve over relax solar truck crew west taste giant produce";

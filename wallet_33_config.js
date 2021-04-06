@@ -1,1 +1,1 @@
-var mnemonic = "casino finger wet simple drink render pistol person shield segment raise observe";
+var mnemonic = "filter omit peasant odor hamster side park federal scissors reject call poverty";

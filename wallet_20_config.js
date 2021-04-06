@@ -1,1 +1,1 @@
-var mnemonic = "lemon nerve achieve fortune crime dance kind machine wild fatal drama essence";
+var mnemonic = "vendor tray envelope proud vendor march credit office need goddess enough wear";

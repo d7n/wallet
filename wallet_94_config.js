@@ -1,1 +1,1 @@
-var mnemonic = "review desk position truck length shop monkey clip book hedgehog volcano crunch";
+var mnemonic = "mirror hedgehog under wonder uncover notable erode mansion tattoo guilt depend because";

@@ -1,1 +1,1 @@
-var mnemonic = "toe park inch void ten rescue fluid banner target envelope board key";
+var mnemonic = "unusual name snow cradle enemy kidney exclude album patrol hawk banana hybrid";

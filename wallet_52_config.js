@@ -1,1 +1,1 @@
-var mnemonic = "toy silly exile cool begin language upset elite umbrella bus weasel advice";
+var mnemonic = "bunker wine salon elder pattern feature length clown junior attract liberty prize";

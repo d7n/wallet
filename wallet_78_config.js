@@ -1,1 +1,1 @@
-var mnemonic = "legend answer almost duck when reduce cash device define object reduce chimney";
+var mnemonic = "control vibrant bargain fly roast vintage ghost forest invest praise library supply";

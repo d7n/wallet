@@ -1,1 +1,1 @@
-var mnemonic = "wonder onion crop strike survey farm cycle elevator garlic local daring neglect";
+var mnemonic = "ill false chunk result alpha alarm remain athlete hold hour among prefer";

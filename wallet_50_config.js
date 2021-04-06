@@ -1,1 +1,1 @@
-var mnemonic = "shuffle enhance moon prevent merit carpet blame teach large drift wish dice";
+var mnemonic = "misery abuse iron visit gossip surge scrub turkey like layer hero else";

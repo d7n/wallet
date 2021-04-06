@@ -1,1 +1,1 @@
-var mnemonic = "night crush outside table brief veteran gather ticket crowd target urge gloom";
+var mnemonic = "title blame jungle genius finger author hedgehog squirrel job valid brain inner";

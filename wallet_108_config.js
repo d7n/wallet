@@ -1,1 +1,1 @@
-var mnemonic = "visit thing loan better zebra lobster noodle wish author meat broccoli daring";
+var mnemonic = "diagram smooth city cattle measure satoshi visit august school remember rough marine";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve hair cancel vote gadget fuel bridge hand endorse blood fortune muscle";
+var mnemonic = "kind early alarm army lend disagree mirror act smooth mean cave venue";

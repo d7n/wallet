@@ -1,1 +1,1 @@
-var mnemonic = "fresh pioneer ten sadness critic survey rapid state avoid tomato gas photo";
+var mnemonic = "near alter motion version peace road rural report tooth belt allow perfect";

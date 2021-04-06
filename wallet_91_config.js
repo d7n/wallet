@@ -1,1 +1,1 @@
-var mnemonic = "cloud practice board dutch elegant deny help mad knee couple number champion";
+var mnemonic = "annual govern black glare local tuna feel coin nice online wool hint";

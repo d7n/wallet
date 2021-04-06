@@ -1,1 +1,1 @@
-var mnemonic = "music chat donor miracle shuffle absurd kit fresh rate thrive pattern level";
+var mnemonic = "across talent seminar mixed electric vault renew tilt expire stick short finish";

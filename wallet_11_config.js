@@ -1,1 +1,1 @@
-var mnemonic = "expand turtle drive year twin govern front walnut ring antique just render";
+var mnemonic = "velvet wreck margin large decide mistake party saddle cotton clerk home choice";

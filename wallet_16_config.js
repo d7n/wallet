@@ -1,1 +1,1 @@
-var mnemonic = "unfair crumble cry sphere derive chalk stage coffee ordinary raw pull capable";
+var mnemonic = "life delay seven embody scare inquiry rebuild together catch fog snap donor";

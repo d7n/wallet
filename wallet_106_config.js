@@ -1,1 +1,1 @@
-var mnemonic = "slow slow voice fiction problem diet plunge tunnel vibrant round prevent awkward";
+var mnemonic = "bonus calm add mystery deposit sword pig senior senior call vessel squeeze";

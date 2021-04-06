@@ -1,1 +1,1 @@
-var mnemonic = "skill ordinary salon nasty lawsuit good check grab pony cruel rug athlete";
+var mnemonic = "lonely retire weather below donor vicious group pitch grass erase music goat";

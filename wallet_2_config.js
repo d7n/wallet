@@ -1,1 +1,1 @@
-var mnemonic = "idea victory flight few tuna final jacket black hurdle ten public action";
+var mnemonic = "purity rule common outside sock gaze post use mercy swear cash skull";

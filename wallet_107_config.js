@@ -1,1 +1,1 @@
-var mnemonic = "twice actress school kind glass action actor cement wife alert habit bone";
+var mnemonic = "prize suggest autumn verb give modify second pear jaguar assault river emerge";

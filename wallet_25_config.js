@@ -1,1 +1,1 @@
-var mnemonic = "job vacuum choice sing fold bridge veteran permit nasty street always symbol";
+var mnemonic = "voice void labor mistake radar fork census seed immune kiwi novel invest";
