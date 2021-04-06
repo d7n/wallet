@@ -1,1 +1,1 @@
-var mnemonic = "brown unfair lend rigid lion sugar demise bike addict apple merit february";
+var mnemonic = "thing blush young response brother top lecture joy this escape bottom economy";

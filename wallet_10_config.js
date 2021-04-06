@@ -1,1 +1,1 @@
-var mnemonic = "exact step young lottery gather success grit immense obtain strike require syrup";
+var mnemonic = "upon fantasy hungry empty mail rapid female second ankle loud profit off";

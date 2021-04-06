@@ -1,1 +1,1 @@
-var mnemonic = "garage velvet outdoor salute change receive unique struggle crash wrist track rude";
+var mnemonic = "proud hair coconut friend film ridge since cannon refuse violin detect weapon";

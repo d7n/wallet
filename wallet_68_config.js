@@ -1,1 +1,1 @@
-var mnemonic = "token caution spatial reward park crime manual defy burst daring ginger leopard";
+var mnemonic = "power special hope tilt toss orchard swift fancy replace adult exclude conduct";

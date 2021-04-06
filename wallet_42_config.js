@@ -1,1 +1,1 @@
-var mnemonic = "illness various catalog farm snap develop swing cost clown priority afford stone";
+var mnemonic = "square hip play sea alien phrase pause nephew famous tomato glue fortune";

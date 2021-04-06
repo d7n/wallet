@@ -1,1 +1,1 @@
-var mnemonic = "wrestle misery lunch okay loan entry obvious airport insane mansion arm oppose";
+var mnemonic = "wool pledge clock slam advance mail luggage copy high cargo expect bag";

@@ -1,1 +1,1 @@
-var mnemonic = "calm cart ribbon volume year ginger empty snack vapor hollow nut opera";
+var mnemonic = "apart novel nasty topic decline legal clutch clerk science hundred have slow";

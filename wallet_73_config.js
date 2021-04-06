@@ -1,1 +1,1 @@
-var mnemonic = "offer blame vapor inform inflict cherry betray mechanic olive belt arm digital";
+var mnemonic = "duty jaguar viable sniff deal wrestle artwork muscle business cruel host upgrade";

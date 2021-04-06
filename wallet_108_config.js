@@ -1,1 +1,1 @@
-var mnemonic = "shove recipe victory iron slender popular develop scout eager sunny wisdom demise";
+var mnemonic = "bulb slow similar punch forget pluck crew edit between human solution hundred";

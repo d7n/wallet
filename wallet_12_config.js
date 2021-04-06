@@ -1,1 +1,1 @@
-var mnemonic = "blood release renew mansion bean clean canoe solar lend cement pigeon boost";
+var mnemonic = "match fit renew solar sheriff pond useless coach modify wolf rescue cupboard";

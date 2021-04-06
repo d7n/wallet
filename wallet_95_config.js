@@ -1,1 +1,1 @@
-var mnemonic = "kite mind drastic satoshi pear clever man master walnut news picture license";
+var mnemonic = "wrist slide secret gain dentist know palm trend list fan phone crush";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate able secret resemble time blanket where obvious electric scheme add empty";
+var mnemonic = "grief grief youth hazard medal rate hawk category clog clap govern nice";

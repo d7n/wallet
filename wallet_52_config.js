@@ -1,1 +1,1 @@
-var mnemonic = "master crop achieve cactus shoe olympic duck mom capable topple guard cotton";
+var mnemonic = "dinosaur inside matrix step cabin make fatigue margin height argue jealous swap";

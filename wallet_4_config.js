@@ -1,1 +1,1 @@
-var mnemonic = "then agree toe fuel middle napkin parrot paper expect lucky soccer rabbit";
+var mnemonic = "monkey arrow attack fiscal jungle rich swift cushion bag plunge wave average";

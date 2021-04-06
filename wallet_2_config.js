@@ -1,1 +1,1 @@
-var mnemonic = "urban lamp crime inside solid gas shuffle all van march offer champion";
+var mnemonic = "craft shock gaze peasant stumble blood escape sugar arena point feed across";

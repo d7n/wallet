@@ -1,1 +1,1 @@
-var mnemonic = "soda begin toy orchard twice volcano damage snack display salt mosquito dynamic";
+var mnemonic = "obtain infant fever slender trip great increase dawn claw age horn assault";

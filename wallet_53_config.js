@@ -1,1 +1,1 @@
-var mnemonic = "dynamic nature else happy phone second boil piano ranch lounge wear exist";
+var mnemonic = "dizzy humor attend wall provide light year calm uncover sudden appear typical";

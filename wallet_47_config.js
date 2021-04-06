@@ -1,1 +1,1 @@
-var mnemonic = "drip fame subject cloth purpose swift sort lecture stomach force grid theme";
+var mnemonic = "loan similar unit face convince subway wise base invest sign solve mask";

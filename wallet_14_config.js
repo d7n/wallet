@@ -1,1 +1,1 @@
-var mnemonic = "finish burger climb quiz scatter grant issue goat ball birth estate there";
+var mnemonic = "lens leopard found shoulder trend fly detail state diesel naive capable involve";

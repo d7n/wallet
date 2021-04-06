@@ -1,1 +1,1 @@
-var mnemonic = "saddle tray solar noodle start retreat trigger slush arctic social general end";
+var mnemonic = "board napkin detail hero plastic more bless short average erode prosper snow";

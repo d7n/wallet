@@ -1,1 +1,1 @@
-var mnemonic = "poverty bottom host water genius rely innocent hurdle leisure original food oblige";
+var mnemonic = "latin gas deer fossil insect dentist admit decide thunder matter soup swarm";

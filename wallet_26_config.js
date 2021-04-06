@@ -1,1 +1,1 @@
-var mnemonic = "then sea episode apart radio mixture garden rubber increase custom sand toy";
+var mnemonic = "giggle wise guilt number region around possible pioneer course ring ostrich silly";

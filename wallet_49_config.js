@@ -1,1 +1,1 @@
-var mnemonic = "cream grit deal despair cycle grocery health cigar just that empty wasp";
+var mnemonic = "hole collect snake invite act bullet comic kiss hard want avoid number";

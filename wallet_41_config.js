@@ -1,1 +1,1 @@
-var mnemonic = "goat someone ranch brown equal cruise find snow weather history maid grocery";
+var mnemonic = "poet item reunion bless wrap trial cactus chair flight subway divide surprise";

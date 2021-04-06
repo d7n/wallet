@@ -1,1 +1,1 @@
-var mnemonic = "palm valley pole sister convince symptom large open hour little tattoo captain";
+var mnemonic = "ignore imitate omit wrist fee earn mention young illegal pluck language loan";

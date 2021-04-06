@@ -1,1 +1,1 @@
-var mnemonic = "glass custom hello walk scale delay cherry birth share school open build";
+var mnemonic = "knock giant winner casual addict festival review enrich reflect wash theory client";

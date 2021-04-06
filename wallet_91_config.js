@@ -1,1 +1,1 @@
-var mnemonic = "decade vacant they voyage mix olive panda draft script hockey fence faculty";
+var mnemonic = "plunge give onion firm become vivid common birth organ dash effort list";

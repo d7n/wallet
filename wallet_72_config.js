@@ -1,1 +1,1 @@
-var mnemonic = "furnace rule disease coil mad true sketch silver apart menu owner reject";
+var mnemonic = "blame junior office stock assault cat veteran pipe such craft tumble climb";

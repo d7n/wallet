@@ -1,1 +1,1 @@
-var mnemonic = "once announce soft master note false congress viable blade ski car regular";
+var mnemonic = "museum galaxy present thank treat fun trim fragile dust fox vocal unusual";

@@ -1,1 +1,1 @@
-var mnemonic = "because bag abuse weapon ancient under cricket unit alcohol trigger snap beauty";
+var mnemonic = "spatial must treat together lens giant mixed faith village seat crane gesture";

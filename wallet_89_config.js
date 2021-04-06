@@ -1,1 +1,1 @@
-var mnemonic = "page frequent hard foster axis blood mixed history junk this census blanket";
+var mnemonic = "immune drip reopen diesel member alarm gadget angle icon name stick sorry";

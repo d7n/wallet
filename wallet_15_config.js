@@ -1,1 +1,1 @@
-var mnemonic = "wrong suffer network century craft plate parrot tonight prefer sample cabin calm";
+var mnemonic = "repair front category combine ivory absurd cause reveal gasp vessel ahead release";

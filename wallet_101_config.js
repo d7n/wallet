@@ -1,1 +1,1 @@
-var mnemonic = "acid vintage vibrant sick tomorrow gloom whip virus draft happy seat divert";
+var mnemonic = "race luggage oval virus dress scatter front control flip high venture capable";

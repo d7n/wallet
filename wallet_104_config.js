@@ -1,1 +1,1 @@
-var mnemonic = "clip tape avoid legend simple gossip cruise report road cradle slight panic";
+var mnemonic = "broken misery same group craft behave border surround evil feature ancient comic";

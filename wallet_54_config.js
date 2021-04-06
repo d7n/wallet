@@ -1,1 +1,1 @@
-var mnemonic = "dream side swear symbol token midnight harbor seek double engage hurdle surprise";
+var mnemonic = "dawn glance detail jealous link pink curious quantum meadow cost design diet";

@@ -1,1 +1,1 @@
-var mnemonic = "lion female palace path volcano stand prison box chaos kick powder hand";
+var mnemonic = "yard square carpet unknown table draw kit girl page photo subject desert";

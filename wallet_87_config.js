@@ -1,1 +1,1 @@
-var mnemonic = "cry puppy fence similar paper misery hip window phrase dad endless tobacco";
+var mnemonic = "immune verb digital curtain label acquire perfect promote august sibling blast cabbage";

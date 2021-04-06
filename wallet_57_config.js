@@ -1,1 +1,1 @@
-var mnemonic = "update rival course skull tumble diary pyramid animal duck you ski coffee";
+var mnemonic = "trip fork olive arrest upper crane detect punch burger jeans brief panda";

@@ -1,1 +1,1 @@
-var mnemonic = "actual observe property also car matter pistol debris bulb fix staff document";
+var mnemonic = "harsh shaft bus feel mix race fiction draw annual lottery require special";

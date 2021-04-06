@@ -1,1 +1,1 @@
-var mnemonic = "rice fancy inch seed try canvas scout street bid page once razor";
+var mnemonic = "history recycle spray coconut sing rifle jump corn angry lucky magic palm";

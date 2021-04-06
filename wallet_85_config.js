@@ -1,1 +1,1 @@
-var mnemonic = "vocal accuse soft grain hip invite design save duck path strategy border";
+var mnemonic = "board thumb unusual hold bench food answer make second evoke alley actual";

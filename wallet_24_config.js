@@ -1,1 +1,1 @@
-var mnemonic = "lesson install drip tobacco ahead amount rule situate ivory truck april tool";
+var mnemonic = "lamp panel attack twice brown replace spirit spot salt adapt spray effort";

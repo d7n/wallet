@@ -1,1 +1,1 @@
-var mnemonic = "depth sock glove exchange ecology metal salon extra loop help upgrade stairs";
+var mnemonic = "ramp sail exclude merry club valve donor play slow gift crisp issue";

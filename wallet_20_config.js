@@ -1,1 +1,1 @@
-var mnemonic = "gesture maple orphan pudding parrot hover laugh bracket end venture glad adult";
+var mnemonic = "must earth boss able correct symptom treat group oyster discover virus mirror";

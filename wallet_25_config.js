@@ -1,1 +1,1 @@
-var mnemonic = "feature game million you thunder month glove mutual danger bus tobacco police";
+var mnemonic = "price kangaroo labor banner series copy fine kiss deputy burden enemy guide";

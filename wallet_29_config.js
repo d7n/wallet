@@ -1,1 +1,1 @@
-var mnemonic = "sound engage half picture tide thunder lava tired betray else seat loop";
+var mnemonic = "chuckle lizard dose stairs link wing oven access dinner clock nominee bless";

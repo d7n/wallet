@@ -1,1 +1,1 @@
-var mnemonic = "busy ignore view crisp great sunny multiply rug ancient diet stumble sibling";
+var mnemonic = "happy liquid flavor pluck piece future blanket exercise sauce glare car ice";

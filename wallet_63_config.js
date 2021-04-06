@@ -1,1 +1,1 @@
-var mnemonic = "various large wish legend maple between term square digital sea guard firm";
+var mnemonic = "two together mistake radio twist course donate above comic regret toe hamster";

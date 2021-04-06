@@ -1,1 +1,1 @@
-var mnemonic = "arrive grain brain heart garment nurse betray basic dizzy ahead industry switch";
+var mnemonic = "follow beef mansion fringe witness start trophy company soft easy ankle twist";

@@ -1,1 +1,1 @@
-var mnemonic = "safe spray gate before daring vast mixture option aerobic faith witness harvest";
+var mnemonic = "govern any moment lake embody fantasy finish decorate insect solution blood brown";

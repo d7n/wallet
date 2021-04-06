@@ -1,1 +1,1 @@
-var mnemonic = "drink guide rigid million oven people alarm copper climb wreck vapor door";
+var mnemonic = "fox alone sword cushion opinion cup team elite drip join narrow maple";

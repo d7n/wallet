@@ -1,1 +1,1 @@
-var mnemonic = "margin sad other adapt once balcony erupt beef advance tent common monitor";
+var mnemonic = "whip catch party wasp cradle harbor frozen erase involve country nominee exhibit";

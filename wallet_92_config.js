@@ -1,1 +1,1 @@
-var mnemonic = "true common skill lemon lift you result stay void dice alcohol stamp";
+var mnemonic = "area code steak crater model among goose left utility scene fork observe";

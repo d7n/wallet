@@ -1,1 +1,1 @@
-var mnemonic = "pitch chicken soup brain alarm divide time decorate market budget grow flower";
+var mnemonic = "wood multiply motor shoot crush actual street feature nephew electric popular jelly";

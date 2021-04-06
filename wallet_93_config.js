@@ -1,1 +1,1 @@
-var mnemonic = "actress enjoy impulse ethics audit speak resemble major comic source fold drop";
+var mnemonic = "cheap estate animal dove noodle cheap coil fox source attack estate click";

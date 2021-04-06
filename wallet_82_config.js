@@ -1,1 +1,1 @@
-var mnemonic = "drum divide sunny chase object general runway spoon marble peace orange unique";
+var mnemonic = "wasp spirit chef onion raise egg result photo spray agree car cram";

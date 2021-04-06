@@ -1,1 +1,1 @@
-var mnemonic = "error yard iron stumble once hover wine execute fat sustain man bundle";
+var mnemonic = "clerk measure latin sauce base notable wheel bamboo chunk body song garden";

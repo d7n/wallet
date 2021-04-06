@@ -1,1 +1,1 @@
-var mnemonic = "peasant sail tortoise abuse cereal mind uphold cook fire chase staff era";
+var mnemonic = "mad gas exhaust jazz jacket tuna middle gloom insect you guilt genre";

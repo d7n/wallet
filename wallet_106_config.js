@@ -1,1 +1,1 @@
-var mnemonic = "artefact burger space earn comfort dilemma credit liquid vacant sentence stove chapter";
+var mnemonic = "name burst void acid borrow sniff panther produce marine avoid bargain humble";

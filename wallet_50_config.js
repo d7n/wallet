@@ -1,1 +1,1 @@
-var mnemonic = "aerobic duty provide chapter script merge source author walk warrior tiny crew";
+var mnemonic = "metal panic rural fish quit token draft chair phone mean chat mushroom";

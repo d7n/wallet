@@ -1,1 +1,1 @@
-var mnemonic = "rail clever avocado unfold sing embark certain dad gospel utility dove father";
+var mnemonic = "pigeon lawsuit over canal harvest diary true latin wrong release slender hamster";

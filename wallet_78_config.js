@@ -1,1 +1,1 @@
-var mnemonic = "dog magic trap ghost attack remind material robot bless media advice vessel";
+var mnemonic = "penalty host erase filter random learn trip wolf dice hidden brave task";

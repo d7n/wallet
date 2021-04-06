@@ -1,1 +1,1 @@
-var mnemonic = "make yellow replace erase gold cook razor clock receive frame lab cool";
+var mnemonic = "coyote panel antenna vocal imitate bar runway amazing kiwi grocery excess salmon";

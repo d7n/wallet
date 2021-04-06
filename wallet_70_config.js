@@ -1,1 +1,1 @@
-var mnemonic = "onion timber bonus release cancel torch actor elder trick certain okay winter";
+var mnemonic = "source nut north solve bamboo spy bitter clean tired bonus family error";

@@ -1,1 +1,1 @@
-var mnemonic = "exit dune limit slide happy fat lyrics shrimp arrest anger claim torch";
+var mnemonic = "better lake true plunge exhaust eternal castle anger okay foil tank bean";

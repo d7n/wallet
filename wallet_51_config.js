@@ -1,1 +1,1 @@
-var mnemonic = "crawl drill jump surround rough early despair science average narrow engage simple";
+var mnemonic = "carpet pioneer wise strategy smooth usage end box empower shaft horse twin";

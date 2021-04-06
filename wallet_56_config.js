@@ -1,1 +1,1 @@
-var mnemonic = "romance skate ketchup vendor bundle boy table display label glass shoulder before";
+var mnemonic = "high sustain jaguar punch amount logic pigeon exercise galaxy talent oppose soda";

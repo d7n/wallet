@@ -1,1 +1,1 @@
-var mnemonic = "tornado uncle actress enough push liar online debate steak vacant crack toilet";
+var mnemonic = "forget talk rule about beef virtual empower seat alien stock man announce";

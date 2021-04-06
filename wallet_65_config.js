@@ -1,1 +1,1 @@
-var mnemonic = "result knock devote rose emerge grow friend ivory assault blush erase monkey";
+var mnemonic = "artist melt animal shrimp element fiction tunnel snack duck palm spirit nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "roof road eagle tiny size regret payment snap purchase peace pluck gospel";
+var mnemonic = "sand olive confirm tenant blur gown reward grow toss mask mosquito blame";

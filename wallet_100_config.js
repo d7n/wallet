@@ -1,1 +1,1 @@
-var mnemonic = "pilot measure equip flower uphold satisfy lizard merry defy more sheriff arrange";
+var mnemonic = "tell pottery world mango cotton icon crater mouse slice spice any move";

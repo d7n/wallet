@@ -1,1 +1,1 @@
-var mnemonic = "stable cluster junior argue cannon blanket banana you joke erosion reduce spirit";
+var mnemonic = "seminar middle swim increase witness choose blossom arch problem note pelican village";

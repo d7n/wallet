@@ -1,1 +1,1 @@
-var mnemonic = "daring stove scrub doctor color approve inmate race gravity blanket very ostrich";
+var mnemonic = "vapor style vacant family swift upon feed snap fan table satisfy combine";

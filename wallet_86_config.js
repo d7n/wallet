@@ -1,1 +1,1 @@
-var mnemonic = "agent north then moment consider father sorry also put element raven bridge";
+var mnemonic = "minute undo vacuum scale enact caught siren town inflict abstract price armed";

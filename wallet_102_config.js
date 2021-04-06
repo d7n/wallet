@@ -1,1 +1,1 @@
-var mnemonic = "turn unusual force reject before invest slight orchard gossip royal attract shallow";
+var mnemonic = "gain oak grit reason useless rug advance crack long globe clock ozone";

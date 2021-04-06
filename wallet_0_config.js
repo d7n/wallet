@@ -1,1 +1,1 @@
-var mnemonic = "brick repair panda quick mandate limit escape gun maple match snake basket";
+var mnemonic = "orchard top arrow erosion smart frost blood air other harbor hurdle window";

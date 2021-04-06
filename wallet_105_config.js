@@ -1,1 +1,1 @@
-var mnemonic = "special false oyster school become grass drastic leave creek skirt father finger";
+var mnemonic = "razor top buffalo change orbit remove elephant timber noble injury answer spring";

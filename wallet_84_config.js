@@ -1,1 +1,1 @@
-var mnemonic = "critic ordinary crumble protect candy proof gospel olympic parrot derive present board";
+var mnemonic = "old afford front step start field shaft admit kingdom ranch call spider";

@@ -1,1 +1,1 @@
-var mnemonic = "decline voyage armed cloud room note angle pitch poverty fatal mail damp";
+var mnemonic = "public panther champion grace illegal begin loan slender theme uniform flush stool";

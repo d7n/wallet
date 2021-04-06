@@ -1,1 +1,1 @@
-var mnemonic = "nose reduce leader element party feature lottery review sniff joke obey cost";
+var mnemonic = "vivid report refuse auction senior term put tank garage fault member goat";

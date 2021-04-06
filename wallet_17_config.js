@@ -1,1 +1,1 @@
-var mnemonic = "beef lend pony ivory badge twelve palace chest cart fit chalk wink";
+var mnemonic = "alter tool soda road reunion soldier arrest orchard coconut grab grass expire";

@@ -1,1 +1,1 @@
-var mnemonic = "taste tunnel hawk current spirit artefact doll athlete winner mule bunker flash";
+var mnemonic = "surge quit later panda marriage ticket erupt kiwi switch exhibit chronic announce";

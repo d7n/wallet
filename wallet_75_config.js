@@ -1,1 +1,1 @@
-var mnemonic = "urge story slender fox govern pole abuse tilt country tonight asset visual";
+var mnemonic = "abuse humor exercise worth upgrade one cart journey flavor asthma misery shoe";

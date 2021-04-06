@@ -1,1 +1,1 @@
-var mnemonic = "fragile rain kid expose wedding icon slide drill rocket steak super anxiety";
+var mnemonic = "panel rhythm void armed margin nurse okay fat dust ramp turkey pulp";

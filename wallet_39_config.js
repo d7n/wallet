@@ -1,1 +1,1 @@
-var mnemonic = "enjoy deposit major ethics naive target action unhappy account foster name royal";
+var mnemonic = "impulse bleak bargain unhappy ocean gate garden whale record theme attract rigid";

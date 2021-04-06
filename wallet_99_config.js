@@ -1,1 +1,1 @@
-var mnemonic = "same fault accuse quantum ladder volume valid spend magic icon quit tube";
+var mnemonic = "awesome amount top inside dove before diary jacket taste rotate stage later";

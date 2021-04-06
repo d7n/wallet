@@ -1,1 +1,1 @@
-var mnemonic = "spread among thought forget soft walk correct lend anger draft bicycle logic";
+var mnemonic = "tree myth rescue mutual girl salmon talk fury gate flame demise mean";

@@ -1,1 +1,1 @@
-var mnemonic = "age road apple hint banner smart drive october marine office harvest fold";
+var mnemonic = "dinosaur dinner gain casual renew club muscle token shove wool distance jump";

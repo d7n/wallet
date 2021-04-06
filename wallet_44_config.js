@@ -1,1 +1,1 @@
-var mnemonic = "twelve pottery fit jealous venue buzz myth lemon patrol goddess strategy flash";
+var mnemonic = "essence shield cabbage beach once culture pluck elder excuse dune dance inherit";
