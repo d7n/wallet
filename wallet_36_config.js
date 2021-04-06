@@ -1,1 +1,1 @@
-var mnemonic = "hood trip category subway arrange stadium slogan ready ghost art mix decline";
+var mnemonic = "future day insect drastic oblige action gaze eternal minimum soon divide record";

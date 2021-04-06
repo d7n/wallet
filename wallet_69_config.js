@@ -1,1 +1,1 @@
-var mnemonic = "month cloth shell shift orphan hedgehog jelly basket web tiny orange someone";
+var mnemonic = "loop good useless update coconut bronze text clay black pledge glass record";

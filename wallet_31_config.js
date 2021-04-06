@@ -1,1 +1,1 @@
-var mnemonic = "tomato airport shaft fancy melody danger sample job essay split viable zoo";
+var mnemonic = "awake vicious dream donate coin youth bomb frost width letter retreat segment";

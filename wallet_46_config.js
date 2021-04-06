@@ -1,1 +1,1 @@
-var mnemonic = "anxiety ticket denial search horror atom salt north daughter erupt lounge business";
+var mnemonic = "coast vendor require theme run general runway mean bird truck give swear";

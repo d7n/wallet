@@ -1,1 +1,1 @@
-var mnemonic = "drama clay knife hundred seat glance river matter film penalty fix siege";
+var mnemonic = "zone cheese swallow mixed father warrior young donor very table alarm shop";

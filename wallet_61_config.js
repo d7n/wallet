@@ -1,1 +1,1 @@
-var mnemonic = "state nature sibling alpha error dizzy garden roof dog phrase blue broom";
+var mnemonic = "chicken manage accident resemble describe cram picture sick hospital list leopard people";

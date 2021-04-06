@@ -1,1 +1,1 @@
-var mnemonic = "mention brief turtle heavy mango drastic over mom vintage joy grass knock";
+var mnemonic = "merge label clown bulk alcohol term ladder average virus ability craft onion";

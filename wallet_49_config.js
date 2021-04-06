@@ -1,1 +1,1 @@
-var mnemonic = "minor stairs injury vacuum twin result student physical vital tape room movie";
+var mnemonic = "enrich predict call sunny door diamond notable ten throw write plug mutual";

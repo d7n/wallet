@@ -1,1 +1,1 @@
-var mnemonic = "dust girl alter network jazz lucky unknown rice change regular rice liberty";
+var mnemonic = "awake pond skill bar glory acid salad this garlic tongue shoe stereo";

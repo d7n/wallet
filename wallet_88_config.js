@@ -1,1 +1,1 @@
-var mnemonic = "fold decade cat axis purpose mixed night quarter will drum card decide";
+var mnemonic = "kid duty drive ask tobacco obscure thunder frame list scheme soul purpose";

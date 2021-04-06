@@ -1,1 +1,1 @@
-var mnemonic = "badge art that hero card coach athlete curious all decade ensure typical";
+var mnemonic = "trend mesh marriage invest small derive agree science maid shift kick select";

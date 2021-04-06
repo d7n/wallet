@@ -1,1 +1,1 @@
-var mnemonic = "lemon crack rare climb junior penalty jewel couch defense combine gift rally";
+var mnemonic = "estate crunch hunt piece butter seven cargo cliff rabbit flag regular borrow";

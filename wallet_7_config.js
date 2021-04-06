@@ -1,1 +1,1 @@
-var mnemonic = "plastic weekend unique useful jaguar other time point now elegant large approve";
+var mnemonic = "recall require square ability unhappy short cheap lizard monster tonight giant wheel";

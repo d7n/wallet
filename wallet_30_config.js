@@ -1,1 +1,1 @@
-var mnemonic = "potato tuna zone good drama discover hope burst track sheriff pen quote";
+var mnemonic = "science prepare tag critic kidney vapor become mimic bean country bus rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "famous paper tone milk cup coil desk balcony jelly drama clerk arrest";
+var mnemonic = "miracle hour deer list state uphold display define unfair virus erode outer";

@@ -1,1 +1,1 @@
-var mnemonic = "candy drink syrup move total since buddy caught student upset lonely session";
+var mnemonic = "above palace erode oxygen tooth skate stairs symbol similar anchor pilot scan";

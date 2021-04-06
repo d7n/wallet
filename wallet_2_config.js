@@ -1,1 +1,1 @@
-var mnemonic = "core load crop slim rich tray great bargain nephew that attack sad";
+var mnemonic = "moral flee lava camp stool track tonight define park select width giraffe";

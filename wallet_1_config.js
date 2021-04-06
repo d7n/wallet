@@ -1,1 +1,1 @@
-var mnemonic = "become carbon story raven change measure kid clump shine possible what level";
+var mnemonic = "elite magic course garlic eight couple miracle outdoor give capable rule army";

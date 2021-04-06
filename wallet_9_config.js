@@ -1,1 +1,1 @@
-var mnemonic = "settle vibrant chalk this slide frame venture fortune orchard cotton enrich afraid";
+var mnemonic = "drastic roof nothing frequent often section spice follow anger trouble have record";

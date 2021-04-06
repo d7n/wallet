@@ -1,1 +1,1 @@
-var mnemonic = "fault main fiction push token loop ahead aerobic enrich ask wink violin";
+var mnemonic = "artist blue sense devote federal uniform hammer food spring juice shoe wheel";

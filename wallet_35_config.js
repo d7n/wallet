@@ -1,1 +1,1 @@
-var mnemonic = "minute truck disagree water cotton result day index uncover square curious knock";
+var mnemonic = "blast elegant tag voice source biology distance admit resist fortune shop twice";

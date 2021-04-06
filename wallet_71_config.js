@@ -1,1 +1,1 @@
-var mnemonic = "taxi thank unit spice zebra leader fabric valley canvas keen fan riot";
+var mnemonic = "escape cloth secret daring damp unveil flavor miracle faith evidence meat double";

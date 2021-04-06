@@ -1,1 +1,1 @@
-var mnemonic = "sponsor rack finger festival pill never outdoor unknown patrol case year quote";
+var mnemonic = "famous bridge cousin clock march hedgehog idle old first note rate opera";

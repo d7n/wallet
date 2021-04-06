@@ -1,1 +1,1 @@
-var mnemonic = "upper panel act crater opinion boring sadness hole mind hat glass pitch";
+var mnemonic = "ghost position asset seven fly kiss grit tomato differ company monster embody";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric stage proof unknown off mask guide cancel grief panel lava type";
+var mnemonic = "type senior better fabric draw replace front hip add lounge strategy climb";

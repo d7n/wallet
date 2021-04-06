@@ -1,1 +1,1 @@
-var mnemonic = "turkey prosper fog laugh indicate price chuckle cool critic lemon put outdoor";
+var mnemonic = "phone earth gun have obvious spoil guard trick document movie scan inform";

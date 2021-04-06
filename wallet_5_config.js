@@ -1,1 +1,1 @@
-var mnemonic = "entry voyage bachelor spare park item buyer end search vast million hungry";
+var mnemonic = "toss edge start hand cargo crack weird alien become auto gather rail";

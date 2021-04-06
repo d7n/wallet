@@ -1,1 +1,1 @@
-var mnemonic = "join beyond solar trouble celery angry swear elite wait catch host length";
+var mnemonic = "want agree guitar auto ask arctic violin company meat then slight language";

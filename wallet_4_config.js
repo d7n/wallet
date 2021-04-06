@@ -1,1 +1,1 @@
-var mnemonic = "inspire cause marine hobby try harsh key link planet where truck solid";
+var mnemonic = "lesson parrot alarm door swallow aim neglect news impose clog guilt web";

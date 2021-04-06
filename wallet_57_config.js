@@ -1,1 +1,1 @@
-var mnemonic = "squirrel where toilet valve cricket spin sort jacket umbrella tiger chunk stock";
+var mnemonic = "rail dilemma antenna valley motion soft world iron enroll surround clarify will";

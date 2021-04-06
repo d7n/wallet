@@ -1,1 +1,1 @@
-var mnemonic = "unlock uphold kingdom cram oppose inform salmon arch kit axis logic boil";
+var mnemonic = "ill ready bike vital harvest opera want sure olive purchase tribe apple";

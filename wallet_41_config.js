@@ -1,1 +1,1 @@
-var mnemonic = "duck dad word income effort security live weapon session cattle food sign";
+var mnemonic = "month crucial decline fault jar useless crime glide wing double collect prefer";

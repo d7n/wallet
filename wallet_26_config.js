@@ -1,1 +1,1 @@
-var mnemonic = "black ball iron surround improve trigger proof lottery exit weekend shy sock";
+var mnemonic = "century refuse evoke maximum menu hotel guard dragon achieve fee acid place";

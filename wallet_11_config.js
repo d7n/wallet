@@ -1,1 +1,1 @@
-var mnemonic = "winner walk emotion please hour gaze use tower rely multiply wool biology";
+var mnemonic = "run candy page execute ensure doll eyebrow ugly thrive water file brother";

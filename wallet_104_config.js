@@ -1,1 +1,1 @@
-var mnemonic = "wine fruit snap drive penalty purity tell always blush grunt domain piano";
+var mnemonic = "track suspect afford visa holiday vacant topple sudden patient monitor weird capable";

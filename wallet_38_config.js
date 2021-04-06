@@ -1,1 +1,1 @@
-var mnemonic = "lemon address figure whale cement gap merit wreck slide coast orbit rocket";
+var mnemonic = "trophy biology brief win margin reward blade unknown atom tail neither wrestle";

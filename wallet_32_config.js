@@ -1,1 +1,1 @@
-var mnemonic = "secret gold plunge flag better void endorse hundred inherit jungle inflict security";
+var mnemonic = "forum dentist nominee muffin judge soda tonight hurdle govern hood mercy goddess";

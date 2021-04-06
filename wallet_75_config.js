@@ -1,1 +1,1 @@
-var mnemonic = "lazy snack hero mass slush lion liar success wave mushroom naive hard";
+var mnemonic = "family middle hungry basic huge caught shoulder tomato steel olympic trust tuna";

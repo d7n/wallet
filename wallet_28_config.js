@@ -1,1 +1,1 @@
-var mnemonic = "apple sleep shaft collect talk art erupt torch hello chair luggage result";
+var mnemonic = "crater crumble bulb thumb accuse surprise boil wedding grid indoor feed eight";

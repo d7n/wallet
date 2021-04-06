@@ -1,1 +1,1 @@
-var mnemonic = "ghost there congress flat venture injury wasp tiger caution certain clip item";
+var mnemonic = "tongue snow recycle wet rib top try logic funny coffee vague table";

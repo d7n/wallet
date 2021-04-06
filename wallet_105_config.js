@@ -1,1 +1,1 @@
-var mnemonic = "drill shed mango awkward all birth nose abuse praise fold picture perfect";
+var mnemonic = "inhale disorder frost bronze drum merit rare bronze spike pen hybrid rhythm";

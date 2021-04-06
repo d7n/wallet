@@ -1,1 +1,1 @@
-var mnemonic = "busy old mechanic truly gate sure roof hungry idea yellow turkey round";
+var mnemonic = "meat loud addict taste whisper nuclear entire casual staff wheel kidney prison";

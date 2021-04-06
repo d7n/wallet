@@ -1,1 +1,1 @@
-var mnemonic = "suspect wasp add uncover elite purse icon snack father find layer first";
+var mnemonic = "private wreck cool mixture leg ice quality only timber view elbow news";

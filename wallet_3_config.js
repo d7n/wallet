@@ -1,1 +1,1 @@
-var mnemonic = "output reject skull join jewel rug roast task alone stomach endless castle";
+var mnemonic = "tape fee end wink virus object receive coach salad humble liquid exchange";

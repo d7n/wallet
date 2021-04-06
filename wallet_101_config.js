@@ -1,1 +1,1 @@
-var mnemonic = "floor exhibit ritual easy pond science run february close ceiling drop robot";
+var mnemonic = "connect jungle oil soldier walnut gun stove curious park project flash angle";

@@ -1,1 +1,1 @@
-var mnemonic = "stick decrease assist charge web october loop toilet sing conduct scorpion claw";
+var mnemonic = "donate interest riot globe trade mention paper average like inch fantasy quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "sense typical unique object slight wish pulse indicate tape admit garden buffalo";
+var mnemonic = "tornado then main opinion reunion inherit crop chalk cushion scene empower bean";

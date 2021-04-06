@@ -1,1 +1,1 @@
-var mnemonic = "coach story laugh load apart network coral vague exotic round raven sort";
+var mnemonic = "spray trash garlic segment recall blade baby lesson firm rent gap desk";

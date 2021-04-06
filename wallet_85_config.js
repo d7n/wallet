@@ -1,1 +1,1 @@
-var mnemonic = "rebel stand brand leave fold pioneer either kitchen soda horror short hammer";
+var mnemonic = "disease program valid envelope mind canyon sausage also spoil point festival axis";

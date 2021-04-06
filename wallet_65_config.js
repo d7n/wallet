@@ -1,1 +1,1 @@
-var mnemonic = "drive dilemma magic tool pattern behind permit pink elevator theory prevent pigeon";
+var mnemonic = "slender case family tennis leave neglect price monkey opera pull genre memory";

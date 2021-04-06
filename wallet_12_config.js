@@ -1,1 +1,1 @@
-var mnemonic = "act sure diagram acoustic trim remember robust explain exclude tank raccoon educate";
+var mnemonic = "engine head confirm universe pyramid very aware park pink sword butter blame";

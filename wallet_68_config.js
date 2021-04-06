@@ -1,1 +1,1 @@
-var mnemonic = "never involve long alter decrease video digital inch off stem fossil buyer";
+var mnemonic = "vast crunch differ group hire pledge mountain blouse slender kitchen squeeze sound";

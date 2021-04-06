@@ -1,1 +1,1 @@
-var mnemonic = "meat large library slot cloth canvas celery naive ancient twist gloom milk";
+var mnemonic = "undo slim unknown museum olive lady order east click enlist hour gesture";

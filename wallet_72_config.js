@@ -1,1 +1,1 @@
-var mnemonic = "silver tent staff choice nephew surprise trash sea blossom elder become purity";
+var mnemonic = "pear give runway develop diet icon gaze sustain helmet rude grace permit";

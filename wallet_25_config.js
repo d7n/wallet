@@ -1,1 +1,1 @@
-var mnemonic = "crystal eagle motion already eager clever roast vapor stamp discover patient sunny";
+var mnemonic = "snap bargain waste arrive quiz drip dress still kitchen connect child tired";

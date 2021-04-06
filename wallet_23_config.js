@@ -1,1 +1,1 @@
-var mnemonic = "spike yard speak six force enact mobile there surprise cattle happy hospital";
+var mnemonic = "symptom acquire near solid print equip other erode buffalo pill bitter bottom";

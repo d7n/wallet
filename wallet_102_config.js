@@ -1,1 +1,1 @@
-var mnemonic = "census picture allow mansion clutch ship quote soda ball fever citizen bless";
+var mnemonic = "intact wink spatial endless social cram town purity sort brother lyrics hidden";

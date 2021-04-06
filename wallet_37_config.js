@@ -1,1 +1,1 @@
-var mnemonic = "edge ugly fork current must giraffe cover wood attract require conduct little";
+var mnemonic = "crisp vehicle unfold column slot slush funny pattern buzz job cook practice";

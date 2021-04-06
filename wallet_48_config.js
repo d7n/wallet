@@ -1,1 +1,1 @@
-var mnemonic = "moon initial sport forum marine opera armor abstract mobile kitten helmet assume";
+var mnemonic = "glass repair click imitate cross pluck around canvas insect vague unique conduct";

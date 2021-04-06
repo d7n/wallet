@@ -1,1 +1,1 @@
-var mnemonic = "attend tobacco manual rent impulse title bread smoke frozen winter indicate identify";
+var mnemonic = "return flame aisle surprise step pumpkin hotel raccoon angry hollow boy torch";

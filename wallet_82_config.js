@@ -1,1 +1,1 @@
-var mnemonic = "gadget creek waste cliff plug name come toss core siege fan mail";
+var mnemonic = "acid home toddler sunset wedding know update coach marriage abstract spray diary";

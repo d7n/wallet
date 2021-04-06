@@ -1,1 +1,1 @@
-var mnemonic = "mansion discover tone steel undo carry melody copy dad toast maid april";
+var mnemonic = "forum favorite when fat report tape clever plate eternal tail road future";

@@ -1,1 +1,1 @@
-var mnemonic = "patient print lottery winter expose deal machine seed skull purse echo lawn";
+var mnemonic = "dog brisk any require maze reveal day coast chunk thought tonight nephew";

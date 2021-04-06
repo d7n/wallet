@@ -1,1 +1,1 @@
-var mnemonic = "exile attract document face over vocal antique bus spirit transfer require offer";
+var mnemonic = "amount firm vanish open sudden tourist abstract author auto explain response glide";

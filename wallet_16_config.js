@@ -1,1 +1,1 @@
-var mnemonic = "punch core dirt way scorpion manage promote crumble brother artwork net south";
+var mnemonic = "luxury resist monitor egg post mouse consider code truck link swamp more";

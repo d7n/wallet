@@ -1,1 +1,1 @@
-var mnemonic = "found width rescue include resemble caught observe wasp often mercy tortoise stand";
+var mnemonic = "avocado horn acquire any piece cross scale couple absurd muffin thank utility";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter sail attitude curtain grit clump exercise humble pizza bronze narrow point";
+var mnemonic = "minor dentist melody alone honey wage cost swear parade need cushion bus";

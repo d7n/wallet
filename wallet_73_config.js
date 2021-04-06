@@ -1,1 +1,1 @@
-var mnemonic = "faith base situate regular million tool kick thing february leisure left connect";
+var mnemonic = "goose letter clerk fault tiny already risk idle pudding toy replace february";

@@ -1,1 +1,1 @@
-var mnemonic = "walk surprise silver organ nerve crop video elite shield predict setup kiss";
+var mnemonic = "chat health vicious wish noble dry bring north gospel sing craft pet";

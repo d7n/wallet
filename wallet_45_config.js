@@ -1,1 +1,1 @@
-var mnemonic = "interest tube fetch oblige ask that lunar van reform shine lyrics beef";
+var mnemonic = "lamp almost student beef swallow quit define staff bike much issue tank";

@@ -1,1 +1,1 @@
-var mnemonic = "vault health mirror meadow option smooth addict second adapt bridge vast foot";
+var mnemonic = "immense pond pumpkin since file cable jump craft evidence deputy reject minimum";

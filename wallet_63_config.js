@@ -1,1 +1,1 @@
-var mnemonic = "regular aunt relax dirt plastic immense hair tonight fiscal where miss age";
+var mnemonic = "time claw pumpkin solar turtle various entry equal atom measure daring raw";

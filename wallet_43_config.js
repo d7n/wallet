@@ -1,1 +1,1 @@
-var mnemonic = "print wet reduce ostrich fatal snow hand sphere evidence swim ordinary siren";
+var mnemonic = "cross creek kidney post ice exhibit kidney tooth donate shrimp arrow gate";

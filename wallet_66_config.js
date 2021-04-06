@@ -1,1 +1,1 @@
-var mnemonic = "can rule trend useful smooth brass ostrich skin wisdom decide swap cave";
+var mnemonic = "mind fly kitchen ill carbon umbrella kid piece addict churn nut fold";

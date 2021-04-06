@@ -1,1 +1,1 @@
-var mnemonic = "pause trick process assume jar bless pottery buffalo detail gun fury excuse";
+var mnemonic = "lamp actress sign method glue before immense auction soft session hill evoke";

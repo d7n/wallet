@@ -1,1 +1,1 @@
-var mnemonic = "lock visa piece grocery blast master crucial blouse thunder indicate end beach";
+var mnemonic = "cabbage loud oppose wedding unaware despair park snow okay doll gesture target";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic sunny dignity gym minimum ensure entry wide cash wide travel survey";
+var mnemonic = "recipe stay swing insect comfort open hold catch chase enable play bachelor";

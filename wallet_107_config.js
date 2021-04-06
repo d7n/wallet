@@ -1,1 +1,1 @@
-var mnemonic = "buffalo sister other patch inside foil float tube trust wet muscle nerve";
+var mnemonic = "priority enroll morning quantum salmon pitch boy favorite weasel sign photo scheme";

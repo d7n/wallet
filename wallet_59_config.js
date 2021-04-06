@@ -1,1 +1,1 @@
-var mnemonic = "side name finish that meadow bike thunder clerk unveil penalty gauge crush";
+var mnemonic = "crater guilt slogan forward joke exhaust tiger please balance sail crowd kiss";

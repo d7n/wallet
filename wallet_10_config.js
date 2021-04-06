@@ -1,1 +1,1 @@
-var mnemonic = "oil share unlock case member rare truth cliff armor range zone scorpion";
+var mnemonic = "action possible maple fruit fluid motor diet turtle doll measure resemble earn";

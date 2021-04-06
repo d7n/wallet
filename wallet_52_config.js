@@ -1,1 +1,1 @@
-var mnemonic = "august patch chat solid promote sign sustain water shallow victory gym fresh";
+var mnemonic = "virus goat syrup slow meadow swarm blind uphold best glue flee walk";

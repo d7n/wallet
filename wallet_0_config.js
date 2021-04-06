@@ -1,1 +1,1 @@
-var mnemonic = "media you grid balcony good slot excite grit maze voyage increase shallow";
+var mnemonic = "omit oppose near shed vacuum sponsor target brave monkey spell bottom boy";

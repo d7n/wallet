@@ -1,1 +1,1 @@
-var mnemonic = "ticket recipe coyote organ excite fiscal share auto devote object truck vanish";
+var mnemonic = "escape security smooth fancy turkey legal mirror caution original economy sausage wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "burden custom leave moral coyote beauty wood world cotton surround push vivid";
+var mnemonic = "report elder modify object awful prefer icon lion banner system issue rate";

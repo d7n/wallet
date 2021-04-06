@@ -1,1 +1,1 @@
-var mnemonic = "tide chapter happy whale rubber pulp salmon door about kingdom ability scene";
+var mnemonic = "rough pumpkin lazy sudden still loud act monkey excess light curve village";

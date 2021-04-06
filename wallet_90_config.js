@@ -1,1 +1,1 @@
-var mnemonic = "lonely any neutral angry bundle dawn fan knife mom arctic ancient ripple";
+var mnemonic = "grief frozen bamboo lawsuit blanket project tree donkey host school dizzy exchange";

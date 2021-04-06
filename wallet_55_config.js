@@ -1,1 +1,1 @@
-var mnemonic = "siege butter gate immune success donkey person catch left firm lazy pelican";
+var mnemonic = "gauge divorce ship execute popular woman evoke popular silk grit treat team";

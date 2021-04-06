@@ -1,1 +1,1 @@
-var mnemonic = "manual digital total write fuel together copper soup pioneer under gasp onion";
+var mnemonic = "brave face margin bike meadow oak anger fix mango tuition height south";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward success unique road hover way toast squeeze donkey stumble inherit cat";
+var mnemonic = "major boring survey require example behind vital table box walnut review able";

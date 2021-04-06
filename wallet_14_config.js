@@ -1,1 +1,1 @@
-var mnemonic = "bread state pond around hybrid burden rare confirm bonus dice pair weapon";
+var mnemonic = "pyramid pave blame travel another scorpion tooth jewel garment cherry claw ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "wear broken arena chef angry pattern auction pizza fortune deposit boil punch";
+var mnemonic = "material again juice lend attract vague victory mobile siege play hover parent";

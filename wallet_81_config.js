@@ -1,1 +1,1 @@
-var mnemonic = "large since panic amazing aerobic bachelor text drift entire bronze jungle still";
+var mnemonic = "grid update endless engage unhappy gift rail orient left potato resource kit";

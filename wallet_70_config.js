@@ -1,1 +1,1 @@
-var mnemonic = "fiction three amused artist vapor frost talk tell beef raven zero garlic";
+var mnemonic = "figure music travel blossom beach poem team extra chief achieve present panel";

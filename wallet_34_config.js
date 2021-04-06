@@ -1,1 +1,1 @@
-var mnemonic = "win roast joke cargo human seat system foil bread sorry wisdom spy";
+var mnemonic = "bus ketchup odor margin tuna sudden isolate ask auction enough project faith";

@@ -1,1 +1,1 @@
-var mnemonic = "genre peasant echo gossip polar absurd water cotton also melt afford valid";
+var mnemonic = "across valley original retreat hungry inherit monkey siege skill only dinner such";
