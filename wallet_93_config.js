@@ -1,1 +1,1 @@
-var mnemonic = "flee cost section thunder pass notable wealth paddle layer number become track";
+var mnemonic = "ring cushion online satoshi slide marriage material proud banana reflect taste shield";

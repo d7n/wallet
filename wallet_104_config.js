@@ -1,1 +1,1 @@
-var mnemonic = "various pelican trash grace frost occur exact hotel laugh shoulder uncle luggage";
+var mnemonic = "soda extend olympic chief chief egg alcohol need patrol caution alpha stage";

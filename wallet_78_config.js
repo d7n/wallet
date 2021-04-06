@@ -1,1 +1,1 @@
-var mnemonic = "priority arrest town knee economy ramp corn guard beef elegant surprise weapon";
+var mnemonic = "agent divorce camp grace collect turn round video awful strategy sing net";

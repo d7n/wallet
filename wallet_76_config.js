@@ -1,1 +1,1 @@
-var mnemonic = "report advance erupt better mean once tenant miss universe churn child strike";
+var mnemonic = "pelican alcohol dismiss usage skirt bullet august mammal behave sustain person kite";

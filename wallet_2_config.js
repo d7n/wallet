@@ -1,1 +1,1 @@
-var mnemonic = "floor mirror tree crystal join boss enough buzz diamond exotic grab zebra";
+var mnemonic = "elevator keep day eager enable purse ozone word shoe limb select hamster";

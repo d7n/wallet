@@ -1,1 +1,1 @@
-var mnemonic = "pilot black caught pride cover magic tobacco fiscal dragon cave match pitch";
+var mnemonic = "oval charge unable teach seven sentence pair gold style museum grow front";

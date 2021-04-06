@@ -1,1 +1,1 @@
-var mnemonic = "much arrange measure actor great evolve letter design fury shield return team";
+var mnemonic = "brother network version little stove dove quality visit eager direct body forward";

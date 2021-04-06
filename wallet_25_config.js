@@ -1,1 +1,1 @@
-var mnemonic = "bag guilt future must hero elegant treat orient orange churn unknown segment";
+var mnemonic = "any blood provide machine normal sugar wait trust name pony spend cheese";

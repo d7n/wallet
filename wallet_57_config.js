@@ -1,1 +1,1 @@
-var mnemonic = "slam room biology elbow airport brick duty bird soft pulp lounge already";
+var mnemonic = "cattle eyebrow cabbage dial weapon stamp shrug pledge menu rebel liar minimum";

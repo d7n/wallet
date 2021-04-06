@@ -1,1 +1,1 @@
-var mnemonic = "erase client easy horn install apology pond wasp surge fault exile hundred";
+var mnemonic = "peanut tank blast exercise moment hollow adapt artefact chair check recycle company";

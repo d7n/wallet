@@ -1,1 +1,1 @@
-var mnemonic = "shop travel auto curious stable magic assume gate area depart jealous exhaust";
+var mnemonic = "relief answer food busy skull insect powder multiply brain orphan suit play";

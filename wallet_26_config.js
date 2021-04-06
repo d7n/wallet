@@ -1,1 +1,1 @@
-var mnemonic = "topple blush debris place maid protect shell brain snow kid unveil photo";
+var mnemonic = "embark soon anchor park festival surprise fold depart absurd victory auto borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold harbor betray lumber light major lock yard baby service uniform rapid";
+var mnemonic = "napkin muffin height ship injury craft clever parrot hurt must section state";

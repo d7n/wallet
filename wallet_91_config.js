@@ -1,1 +1,1 @@
-var mnemonic = "foot switch marine rival bitter setup wide buzz amount reunion type tennis";
+var mnemonic = "valve anxiety hedgehog jazz rely way panel subject mail crawl motor earth";

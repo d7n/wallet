@@ -1,1 +1,1 @@
-var mnemonic = "among panel subway decrease chimney way woman thumb garlic little broken shift";
+var mnemonic = "saddle thought apart profit erupt city army license spare worry fortune park";

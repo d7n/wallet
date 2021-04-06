@@ -1,1 +1,1 @@
-var mnemonic = "simple spawn slam ill hollow bonus tree fault entry joke bundle near";
+var mnemonic = "mail west athlete flee mechanic hover strategy sadness enroll grocery trash term";

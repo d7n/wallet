@@ -1,1 +1,1 @@
-var mnemonic = "auction snake kit barely edge illegal lawn huge oven draft void ready";
+var mnemonic = "bottom army wide list glue false parent future captain empty when poem";

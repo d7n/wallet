@@ -1,1 +1,1 @@
-var mnemonic = "inch north issue offer stamp snow only token acid clock coast host";
+var mnemonic = "thank false trial tell budget enforce plate kitchen drum cushion fiscal moon";

@@ -1,1 +1,1 @@
-var mnemonic = "debate boil boost oblige auto desert pave rose tongue garden link decorate";
+var mnemonic = "sand clean bean nephew where kind tackle brother sauce position phone slow";

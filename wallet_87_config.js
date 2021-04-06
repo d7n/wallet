@@ -1,1 +1,1 @@
-var mnemonic = "guilt repair neither grid wool pigeon skill pink avoid entry coffee pause";
+var mnemonic = "march embody behave second kitten pen license captain donkey skirt onion perfect";

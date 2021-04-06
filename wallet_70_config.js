@@ -1,1 +1,1 @@
-var mnemonic = "primary suggest issue tattoo hand dentist already alpha success velvet crisp employ";
+var mnemonic = "now bulk rib guard party demise caution guard lab soccer wagon ripple";

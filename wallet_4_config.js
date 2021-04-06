@@ -1,1 +1,1 @@
-var mnemonic = "relax business point deposit interest often want ketchup forward bless announce nose";
+var mnemonic = "chef author odor involve clown tongue morning use asset assist elegant must";

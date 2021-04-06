@@ -1,1 +1,1 @@
-var mnemonic = "snake inhale secret float loop news subject priority fault glory appear deer";
+var mnemonic = "sight jazz brush use author decline enemy coconut steak fringe wine list";

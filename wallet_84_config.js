@@ -1,1 +1,1 @@
-var mnemonic = "island pizza lounge extend inch famous base door excite rally stock want";
+var mnemonic = "inner wife excite circle van employ negative author artwork allow ship merge";

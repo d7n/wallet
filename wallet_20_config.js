@@ -1,1 +1,1 @@
-var mnemonic = "sort skirt zone tomorrow patch slide remain guide couch tribe monkey uncover";
+var mnemonic = "curious split rebuild useless exile pool hill cricket athlete inquiry blade believe";

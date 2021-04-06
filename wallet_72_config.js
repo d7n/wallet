@@ -1,1 +1,1 @@
-var mnemonic = "catch snap parrot mimic dish novel lesson useful disease text buzz author";
+var mnemonic = "kitchen boring mandate gate title south end upon electric frame hour churn";

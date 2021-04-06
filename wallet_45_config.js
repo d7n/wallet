@@ -1,1 +1,1 @@
-var mnemonic = "slam hub almost hood kiss glare depth absorb perfect view multiply violin";
+var mnemonic = "region iron reason scrub rib property cry bright theme exit switch fabric";

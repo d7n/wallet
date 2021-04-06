@@ -1,1 +1,1 @@
-var mnemonic = "case digital cabbage grief super walk walnut matrix brand total dove idea";
+var mnemonic = "penalty hand apple sniff obey enrich kiwi crunch weird they bread sun";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog then valley source online board income portion century wing sad ship";
+var mnemonic = "cloud uniform mean south ritual trade type float nasty broccoli prepare reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "receive tobacco bright carbon cable carpet ski attract hill method uniform firm";
+var mnemonic = "uphold shop lawn daring adapt predict auction iron pool into flag harvest";

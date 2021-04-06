@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow spirit fiber sheriff shy ball exit brush rhythm maximum moment time";
+var mnemonic = "million nature pretty strategy valve rich galaxy soda outside magic drip because";

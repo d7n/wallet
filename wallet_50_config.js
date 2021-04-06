@@ -1,1 +1,1 @@
-var mnemonic = "betray laptop sorry virus subject fan fitness brush token announce dignity pluck";
+var mnemonic = "empower popular aunt bubble call hurdle merge engine muscle master witness expire";

@@ -1,1 +1,1 @@
-var mnemonic = "option oppose permit crew topic grunt safe guilt announce across issue seek";
+var mnemonic = "express basket lend kiwi canyon scale elephant body anger wide nerve define";

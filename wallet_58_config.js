@@ -1,1 +1,1 @@
-var mnemonic = "cool fame face effort abstract car shield minimum keep hero rebel minor";
+var mnemonic = "alert pupil quit accuse copper seek harsh fever setup same scatter glide";

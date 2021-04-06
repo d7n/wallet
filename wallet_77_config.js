@@ -1,1 +1,1 @@
-var mnemonic = "sibling attend tube join lazy bottom bomb seek cabin enlist tribe talk";
+var mnemonic = "blanket elegant cycle collect allow sister guitar viable weasel eternal cover tortoise";

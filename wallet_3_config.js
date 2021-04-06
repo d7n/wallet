@@ -1,1 +1,1 @@
-var mnemonic = "pistol humble rabbit alarm find coral fog crunch speak donate gun together";
+var mnemonic = "party chief pattern basket carry focus crash budget swift security chapter derive";

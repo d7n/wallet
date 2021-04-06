@@ -1,1 +1,1 @@
-var mnemonic = "rival motor cluster wink alert sea that lonely misery choose furnace nest";
+var mnemonic = "dash find affair rhythm aunt display occur unfold develop stamp search retreat";

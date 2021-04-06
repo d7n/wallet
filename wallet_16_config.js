@@ -1,1 +1,1 @@
-var mnemonic = "project very surge space latin disease reflect mechanic tube stairs survey shield";
+var mnemonic = "daring enlist cause allow screen aerobic apology suit walnut clown someone meat";

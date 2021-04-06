@@ -1,1 +1,1 @@
-var mnemonic = "crack fish detect wet fall check float slight salt album also make";
+var mnemonic = "grant order subject food edit color labor horror ethics crack judge tooth";

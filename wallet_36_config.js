@@ -1,1 +1,1 @@
-var mnemonic = "brick believe excite portion sock corn supreme swallow lounge car shrimp punch";
+var mnemonic = "just entry barely acquire midnight mercy skate swamp dirt organ guard school";

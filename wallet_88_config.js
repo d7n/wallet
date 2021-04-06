@@ -1,1 +1,1 @@
-var mnemonic = "tunnel promote puppy ranch drift mobile wheel fire pig maid vintage beef";
+var mnemonic = "abuse match gym anchor dust page world hello income include hurt upper";

@@ -1,1 +1,1 @@
-var mnemonic = "there twenty coconut produce earth good giant blush stereo nut jelly art";
+var mnemonic = "jacket radar ghost search foster radar kitten task unaware polar drink shift";

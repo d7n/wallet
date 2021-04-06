@@ -1,1 +1,1 @@
-var mnemonic = "you ghost between profit hedgehog table legend flat south still rail elbow";
+var mnemonic = "digital fabric drink power purpose output cake cart kiwi pioneer pizza finger";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar fatal utility tenant caught funny job velvet among just margin pink";
+var mnemonic = "clutch clown trophy health novel inform snow olive army inhale piano ladder";

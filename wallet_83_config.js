@@ -1,1 +1,1 @@
-var mnemonic = "impulse property board gauge fabric wife pilot drama illegal lucky worth history";
+var mnemonic = "secret peanut across thumb refuse cinnamon empower virus step start benefit color";

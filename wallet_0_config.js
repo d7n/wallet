@@ -1,1 +1,1 @@
-var mnemonic = "wolf rebel like stone tail inside solar below end owner method garbage";
+var mnemonic = "forum outdoor extend basic mouse federal bracket month cattle sunset asthma satoshi";

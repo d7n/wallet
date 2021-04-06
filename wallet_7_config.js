@@ -1,1 +1,1 @@
-var mnemonic = "possible depart cheese settle idle away odor primary unable attack broom clown";
+var mnemonic = "talk supply humor spoon impact knock cereal off adjust grow journey success";

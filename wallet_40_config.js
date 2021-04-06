@@ -1,1 +1,1 @@
-var mnemonic = "skate myself hollow swallow limit float ordinary demand pizza royal ignore word";
+var mnemonic = "song fun bottom apart pony dutch ivory mushroom toast prize organ subway";

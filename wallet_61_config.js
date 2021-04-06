@@ -1,1 +1,1 @@
-var mnemonic = "verify term shine hen wise merge distance barely ankle wrap latin sadness";
+var mnemonic = "cream wedding horror steak sudden cradle beauty wonder lake cry monster mule";

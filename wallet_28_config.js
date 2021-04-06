@@ -1,1 +1,1 @@
-var mnemonic = "tip dinosaur humor inflict sibling prevent boost total life water giraffe define";
+var mnemonic = "rare silly deposit team remember adjust mouse angle come main soup fever";

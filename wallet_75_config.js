@@ -1,1 +1,1 @@
-var mnemonic = "talent scatter oil acquire voyage cancel rocket menu lend salute wrist toast";
+var mnemonic = "segment frozen time punch various tank release cover recipe humor sea quiz";

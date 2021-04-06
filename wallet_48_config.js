@@ -1,1 +1,1 @@
-var mnemonic = "fold worry convince afraid glare trend run outside team ignore lunar orchard";
+var mnemonic = "link airport type absent sound city cook erode half country arrow medal";

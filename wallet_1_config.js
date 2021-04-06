@@ -1,1 +1,1 @@
-var mnemonic = "suffer wise token action they enhance blue topic bracket fox arm dragon";
+var mnemonic = "embrace onion glory awake stool nation ocean guard permit wear spot symbol";

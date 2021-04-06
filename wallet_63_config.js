@@ -1,1 +1,1 @@
-var mnemonic = "ice bacon actor solar best kite extra lobster wise ozone similar utility";
+var mnemonic = "worth snap best inject family empty warfare gate filter better flower race";

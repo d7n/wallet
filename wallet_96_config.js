@@ -1,1 +1,1 @@
-var mnemonic = "silent slim general creek dash cheap gloom ocean absorb fruit unfold sentence";
+var mnemonic = "label bitter walk oil hand turtle similar quit man improve flip act";

@@ -1,1 +1,1 @@
-var mnemonic = "title enter inspire across lawsuit invite task ketchup bubble sleep crop oyster";
+var mnemonic = "chuckle practice divide certain helmet time face pull spatial couch only field";

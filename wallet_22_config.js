@@ -1,1 +1,1 @@
-var mnemonic = "panic science diet tiny air speed daring bitter blame zoo thunder tide";
+var mnemonic = "fence silver gather decline hollow hedgehog body citizen base opera dance over";

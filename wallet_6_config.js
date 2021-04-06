@@ -1,1 +1,1 @@
-var mnemonic = "scorpion trash okay width twice syrup very plate violin vicious sword wrestle";
+var mnemonic = "bargain borrow someone middle pipe maple flock medal hamster twenty side motor";

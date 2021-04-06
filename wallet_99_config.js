@@ -1,1 +1,1 @@
-var mnemonic = "suspect pluck drama scrap divert body shed lyrics account skull laptop alien";
+var mnemonic = "earn virus butter rare one punch two remind inflict famous wine excite";

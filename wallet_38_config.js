@@ -1,1 +1,1 @@
-var mnemonic = "teach giraffe around pen ticket person record still wagon step kick crush";
+var mnemonic = "rubber coach regular chalk swift adapt anxiety voyage ocean foot pigeon banana";

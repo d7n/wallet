@@ -1,1 +1,1 @@
-var mnemonic = "proof that slush immune survey depart crater grocery alter street seek left";
+var mnemonic = "light middle climb cover slight fan helmet early chase reopen tone seed";

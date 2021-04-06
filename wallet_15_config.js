@@ -1,1 +1,1 @@
-var mnemonic = "pair pitch maximum critic tomorrow fish tunnel occur flash garden cute urban";
+var mnemonic = "achieve topple grunt rack junk draft lion nurse sauce gauge wing frozen";

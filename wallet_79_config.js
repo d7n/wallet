@@ -1,1 +1,1 @@
-var mnemonic = "pipe empower screen month sphere alien prize nasty general world cloth broom";
+var mnemonic = "dizzy float prefer laugh company manual brother flee program lesson frame vanish";

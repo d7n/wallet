@@ -1,1 +1,1 @@
-var mnemonic = "approve buyer term execute cart category matrix anxiety human will dish slow";
+var mnemonic = "leg toilet immense planet idle shove beauty garden unhappy barely neither exist";

@@ -1,1 +1,1 @@
-var mnemonic = "december hunt stock race produce track number expect impact nose prevent host";
+var mnemonic = "cabin glow curious receive broom exhaust wrestle charge point lunar erosion account";

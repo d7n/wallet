@@ -1,1 +1,1 @@
-var mnemonic = "tackle beef aunt sword announce drift feature forward butter eyebrow weapon critic";
+var mnemonic = "column entry hundred jewel tortoise kit planet squeeze check festival figure thought";

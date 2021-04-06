@@ -1,1 +1,1 @@
-var mnemonic = "diagram first praise ensure total gloom nest shock believe admit car because";
+var mnemonic = "roof earth dog believe before waste weather bulk select gossip civil cart";

@@ -1,1 +1,1 @@
-var mnemonic = "fan cereal distance north antenna guilt canal index icon enable vessel ozone";
+var mnemonic = "stem uphold inform hold spoon error bamboo shrimp oven matrix fringe stumble";

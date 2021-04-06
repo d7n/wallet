@@ -1,1 +1,1 @@
-var mnemonic = "indicate hover sign stock dice benefit raise match carpet equip picture mandate";
+var mnemonic = "organ acid august steak reject fitness snow blanket distance ivory knife notice";

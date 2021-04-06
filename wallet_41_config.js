@@ -1,1 +1,1 @@
-var mnemonic = "raise burden click wash impose wise street next okay science hole glove";
+var mnemonic = "letter will unveil sudden game ritual best antique hidden dash gesture fitness";

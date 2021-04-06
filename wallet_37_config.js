@@ -1,1 +1,1 @@
-var mnemonic = "budget glad fox address student turtle uniform warrior sand valve dwarf require";
+var mnemonic = "cage range detail pupil company session aware viable can direct wave story";

@@ -1,1 +1,1 @@
-var mnemonic = "panel name autumn orchard sleep junior pig obvious legal rain hospital skull";
+var mnemonic = "sick year clown series action canvas million accident already genre zero merge";

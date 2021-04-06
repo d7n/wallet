@@ -1,1 +1,1 @@
-var mnemonic = "snap such state dose menu now spare element false physical picnic sadness";
+var mnemonic = "matter clutch differ clip cradle ride foster humor winner dinner hurdle argue";

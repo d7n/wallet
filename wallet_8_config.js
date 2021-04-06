@@ -1,1 +1,1 @@
-var mnemonic = "olive lift nice globe slow security soap next deer west enter grace";
+var mnemonic = "skirt ticket crystal coil wealth alien ability actual shield keen tail obtain";

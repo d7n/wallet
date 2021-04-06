@@ -1,1 +1,1 @@
-var mnemonic = "amazing secret valve mobile season mail universe sustain warrior either into kind";
+var mnemonic = "yard letter island tobacco gadget ocean pet hill priority wedding fancy subway";

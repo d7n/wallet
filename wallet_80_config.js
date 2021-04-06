@@ -1,1 +1,1 @@
-var mnemonic = "purpose cricket lake mix twin fish maximum tray knee rifle eternal excuse";
+var mnemonic = "regret finger print lock anchor film torch chaos ankle destroy frozen assume";

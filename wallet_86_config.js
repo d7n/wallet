@@ -1,1 +1,1 @@
-var mnemonic = "kingdom okay hen boost future jump best sketch antique more okay ginger";
+var mnemonic = "vault settle aisle match math paper alone amused myself just civil faint";

@@ -1,1 +1,1 @@
-var mnemonic = "task verify deer elder fabric gesture surface science mule present flush physical";
+var mnemonic = "cake aware labor actor hill sniff oven pigeon erode smooth once kick";

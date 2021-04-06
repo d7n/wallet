@@ -1,1 +1,1 @@
-var mnemonic = "injury breeze carpet mule evil embody hen glow ability flush always couch";
+var mnemonic = "picture tube choice foot buffalo bounce estate guilt resemble decorate sign detail";

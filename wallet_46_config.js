@@ -1,1 +1,1 @@
-var mnemonic = "glory nerve bleak crew soda layer obtain surge useless flock panther antenna";
+var mnemonic = "wrap elephant forget attitude glad inhale forward impact wet slush peanut catalog";

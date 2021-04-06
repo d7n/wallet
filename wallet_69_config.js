@@ -1,1 +1,1 @@
-var mnemonic = "diagram hat metal doll history midnight rocket place render wheel elephant dizzy";
+var mnemonic = "surface reject pelican opinion wire danger fiscal sorry salt slow ketchup ivory";

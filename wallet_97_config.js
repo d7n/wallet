@@ -1,1 +1,1 @@
-var mnemonic = "differ install ticket receive idea napkin gadget advance fitness ordinary impulse lens";
+var mnemonic = "also insane truth cash famous later raccoon switch now name mystery kick";

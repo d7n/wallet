@@ -1,1 +1,1 @@
-var mnemonic = "letter sentence release glue sing race cat buyer visit odor sentence fortune";
+var mnemonic = "seminar awake helmet swamp celery keen hold celery mother regular device timber";

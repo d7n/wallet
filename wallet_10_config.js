@@ -1,1 +1,1 @@
-var mnemonic = "dinner blind great father liberty nephew omit glow alcohol lemon rival total";
+var mnemonic = "discover aware plunge grit yellow cliff spirit inherit prepare book loan true";

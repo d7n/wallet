@@ -1,1 +1,1 @@
-var mnemonic = "visual toast city leopard guilt false limit sting can twice sea egg";
+var mnemonic = "praise chunk veteran regret script hybrid mystery quick dolphin fuel claw regular";

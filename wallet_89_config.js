@@ -1,1 +1,1 @@
-var mnemonic = "phone eternal slow peanut hollow horse defense stove hotel place night admit";
+var mnemonic = "heavy believe elevator valley can cruel glad curve green pretty breeze toe";

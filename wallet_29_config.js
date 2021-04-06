@@ -1,1 +1,1 @@
-var mnemonic = "space penalty canal want soul process kid claim chase bid method smooth";
+var mnemonic = "island sibling usage enroll forum ginger session reward exact extend detail link";

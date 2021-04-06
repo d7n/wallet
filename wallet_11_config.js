@@ -1,1 +1,1 @@
-var mnemonic = "warm lunch flip wrap naive speak brown consider siege anchor dumb stairs";
+var mnemonic = "tent hotel real shadow obey prevent people cigar empty eager visit solar";

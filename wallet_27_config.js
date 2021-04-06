@@ -1,1 +1,1 @@
-var mnemonic = "jazz response early ancient jar drastic baby canyon until order achieve curious";
+var mnemonic = "clock whip reopen depth song alcohol account famous slogan mean inmate apology";

@@ -1,1 +1,1 @@
-var mnemonic = "short polar only budget hold nose display income blast shield fuel allow";
+var mnemonic = "fatal ghost enlist mom dose anxiety extend false train million dizzy minor";

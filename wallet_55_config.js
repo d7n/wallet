@@ -1,1 +1,1 @@
-var mnemonic = "walnut raccoon decade laugh draw hobby coffee pencil saddle shaft say inject";
+var mnemonic = "attack vessel hammer dress power attitude wire manage buddy torch excess disease";

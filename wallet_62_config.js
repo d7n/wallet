@@ -1,1 +1,1 @@
-var mnemonic = "primary okay slender kind river current rose virtual dust load receive conduct";
+var mnemonic = "basket swim meat art boil wave gauge machine despair alcohol same rotate";

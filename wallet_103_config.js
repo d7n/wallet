@@ -1,1 +1,1 @@
-var mnemonic = "taxi puppy forward come reform civil oppose romance inch excuse nest wrong";
+var mnemonic = "drum robust pilot forum bench patient control random stove confirm artefact usage";
