@@ -1,1 +1,1 @@
-var mnemonic = "bulk bright hidden bonus write seven imitate trumpet display door stadium agree";
+var mnemonic = "grunt great drill silly actual entire label buzz salon country vintage adjust";

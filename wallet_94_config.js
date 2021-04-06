@@ -1,1 +1,1 @@
-var mnemonic = "step source depend aspect mandate bargain almost cute member undo entry assume";
+var mnemonic = "test breeze distance gravity drum antique absorb song receive trick vague remove";

@@ -1,1 +1,1 @@
-var mnemonic = "answer hood minor dog spy coast visit attend language away salmon machine";
+var mnemonic = "loud approve session asset lucky weasel sort satisfy song nurse kitten maximum";

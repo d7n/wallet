@@ -1,1 +1,1 @@
-var mnemonic = "inspire category cheese payment boat junior opera flip hair drop release exercise";
+var mnemonic = "cheap reject slot mechanic easy front fly genre dirt ladder web office";

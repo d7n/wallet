@@ -1,1 +1,1 @@
-var mnemonic = "solve film cause donor happy estate wedding feel pyramid amateur fury horse";
+var mnemonic = "banner garbage worry polar rent fun grain royal grocery ready magnet win";

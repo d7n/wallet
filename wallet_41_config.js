@@ -1,1 +1,1 @@
-var mnemonic = "must float appear history grass relief depend hobby hospital fossil twin boil";
+var mnemonic = "curtain opera absorb payment rib couple melt order sport bleak obey kid";

@@ -1,1 +1,1 @@
-var mnemonic = "mother heart purity joy ceiling frame upgrade dawn pottery hero praise skill";
+var mnemonic = "mango kingdom limit lion roast lunar mammal clutch marriage extend better fiber";

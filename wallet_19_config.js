@@ -1,1 +1,1 @@
-var mnemonic = "cattle juice defy pair laugh foster inject better blush cruise sword clock";
+var mnemonic = "donor total naive barrel camp unique together ten moon fold expire hobby";

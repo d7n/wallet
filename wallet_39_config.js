@@ -1,1 +1,1 @@
-var mnemonic = "people caution require misery bike magic aspect screen harbor false oak thought";
+var mnemonic = "giraffe pact hire cigar filter crawl fit ketchup penalty hospital gasp simple";

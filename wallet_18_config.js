@@ -1,1 +1,1 @@
-var mnemonic = "cable arm aware october envelope margin scare observe diesel element also craft";
+var mnemonic = "ginger female jacket robot captain soup eagle smile concert indoor domain couple";

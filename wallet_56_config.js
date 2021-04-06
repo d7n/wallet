@@ -1,1 +1,1 @@
-var mnemonic = "analyst border squirrel wisdom physical hockey member cash ring stadium any embody";
+var mnemonic = "sauce brush blossom bid roast shaft arrow wait illness deliver stumble rule";

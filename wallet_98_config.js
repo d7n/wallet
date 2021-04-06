@@ -1,1 +1,1 @@
-var mnemonic = "oxygen top symbol click source captain morning toddler lock kitten exchange warrior";
+var mnemonic = "double nothing style lady inch need brush resist profit reflect step ghost";

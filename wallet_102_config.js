@@ -1,1 +1,1 @@
-var mnemonic = "broccoli document shiver invest trend consider plate system result portion rifle property";
+var mnemonic = "comfort dynamic oak put time same network pass erase hello during enjoy";

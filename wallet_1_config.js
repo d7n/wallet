@@ -1,1 +1,1 @@
-var mnemonic = "vicious icon current gun rotate today confirm blood almost divorce pitch waste";
+var mnemonic = "drive infant appear glow slogan bag spawn offer icon segment point jeans";

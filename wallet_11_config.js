@@ -1,1 +1,1 @@
-var mnemonic = "know trouble upgrade identify pet flock artist plate flame auto orphan tragic";
+var mnemonic = "biology large rather trophy moment disorder donkey skin page burger cup prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "label exact catch patrol hair use digital vacuum suffer jacket casual coconut";
+var mnemonic = "shell abandon virtual depend obey fee message human require cause layer nothing";

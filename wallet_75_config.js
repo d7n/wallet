@@ -1,1 +1,1 @@
-var mnemonic = "cat tattoo execute cross sorry runway agent ozone welcome riot pledge perfect";
+var mnemonic = "kangaroo limb slice found pelican basket color output drip dolphin drum two";

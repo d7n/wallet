@@ -1,1 +1,1 @@
-var mnemonic = "arm damp base moon saddle option action horn reform smooth energy three";
+var mnemonic = "veteran cover inch crazy price element behave moral crash whisper mirror picture";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding joy muscle grow canvas wood jewel chief snap unit movie dawn";
+var mnemonic = "rebel hover beef girl flash banana record truly ensure fever submit mirror";

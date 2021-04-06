@@ -1,1 +1,1 @@
-var mnemonic = "stomach miracle useless engine fitness dolphin pitch mind miracle family joy oil";
+var mnemonic = "choose cloud spoil symbol exhaust cover suffer coach pulp mystery lucky chair";

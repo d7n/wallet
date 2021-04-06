@@ -1,1 +1,1 @@
-var mnemonic = "deliver steak excuse subway time assault tilt head steak tree tray thought";
+var mnemonic = "kangaroo wagon buffalo elevator calm quote excite screen blade culture end flip";

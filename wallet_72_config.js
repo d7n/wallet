@@ -1,1 +1,1 @@
-var mnemonic = "judge fiber design waste tube whip push need turtle donor cherry idle";
+var mnemonic = "mail heavy remember eternal become issue same kind quit walnut chair win";

@@ -1,1 +1,1 @@
-var mnemonic = "blouse breeze comfort example clog oblige exit actual cabbage virtual decorate coral";
+var mnemonic = "tongue vehicle relax result federal peanut lend fiction spoon promote decrease buffalo";

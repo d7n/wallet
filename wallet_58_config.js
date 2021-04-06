@@ -1,1 +1,1 @@
-var mnemonic = "slam noodle salon front rug retire salon pool south burst sight pioneer";
+var mnemonic = "nothing reform cup battle leaf since price clip limb mansion always color";

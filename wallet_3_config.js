@@ -1,1 +1,1 @@
-var mnemonic = "resemble priority soft flight access fix cave special helmet have own where";
+var mnemonic = "fortune where organ illness noble check suffer reopen recycle net fence wish";

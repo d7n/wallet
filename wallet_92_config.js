@@ -1,1 +1,1 @@
-var mnemonic = "mobile tower bird venture warm mirror poet universe thunder coin panther arrow";
+var mnemonic = "depend initial verb stable sphere cupboard law submit state picnic tonight intact";

@@ -1,1 +1,1 @@
-var mnemonic = "wild happy wash disease aspect midnight attack witness green burst helmet chair";
+var mnemonic = "proud shadow private buddy cable kid carry plastic horn warfare empty neutral";

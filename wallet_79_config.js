@@ -1,1 +1,1 @@
-var mnemonic = "narrow movie loan swallow popular erupt treat category embrace nose real model";
+var mnemonic = "brown amazing sphere oven album orange turkey armor boss garden process onion";

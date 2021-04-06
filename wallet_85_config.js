@@ -1,1 +1,1 @@
-var mnemonic = "scare engage worth unit about shallow ship flock jazz much mobile usual";
+var mnemonic = "wash layer saddle elegant pipe icon leader worth agree shadow effort ignore";

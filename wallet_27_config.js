@@ -1,1 +1,1 @@
-var mnemonic = "hire crawl shell hip ethics kitten hope human access balance blame blouse";
+var mnemonic = "rapid tunnel blue dove hotel tail noble loyal picnic denial hub legal";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude wolf elegant volcano very symptom awful settle mistake repair angle fit";
+var mnemonic = "urge quote rely silk clap buffalo human kite future melt cost verify";

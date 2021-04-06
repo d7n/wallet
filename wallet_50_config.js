@@ -1,1 +1,1 @@
-var mnemonic = "rude escape squeeze stove cover sadness slab burden analyst remove open butter";
+var mnemonic = "twelve cry east arm series sense razor sell machine strike thunder donor";

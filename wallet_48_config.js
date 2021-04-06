@@ -1,1 +1,1 @@
-var mnemonic = "gift infant illegal mistake wing zone learn inmate rack fine hobby surface";
+var mnemonic = "champion echo wink wild gospel burger remember photo april pass fork culture";

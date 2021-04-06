@@ -1,1 +1,1 @@
-var mnemonic = "blue together charge repair alone raven frequent pelican moral lawn wrong leisure";
+var mnemonic = "minimum supreme asset reward balance attract excite journey buzz copper gun brief";

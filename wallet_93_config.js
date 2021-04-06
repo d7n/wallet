@@ -1,1 +1,1 @@
-var mnemonic = "mention another rack still person cage mouse ride entry negative note describe";
+var mnemonic = "code correct know tree race robust matter extend sorry toss shrug below";

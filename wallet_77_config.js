@@ -1,1 +1,1 @@
-var mnemonic = "traffic bounce board fade catalog remove gather ski cause wrong crack accuse";
+var mnemonic = "punch fire solution silk dinner pet spin tail breeze chief canal express";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle addict mercy dismiss juice finish avocado suffer shuffle sense method reflect";
+var mnemonic = "tomato eager dirt wing empower comfort metal fragile erase deputy quiz suit";

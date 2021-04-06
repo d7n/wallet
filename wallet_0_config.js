@@ -1,1 +1,1 @@
-var mnemonic = "ball asthma already employ negative size disagree raise grunt patch memory shed";
+var mnemonic = "abuse identify coil patient heavy network soccer jungle custom wait nuclear claw";

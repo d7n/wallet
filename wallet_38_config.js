@@ -1,1 +1,1 @@
-var mnemonic = "deal joy index result latin wolf school hover lonely fringe sniff able";
+var mnemonic = "old pistol rotate mercy plunge alone jazz cherry enable silk boring curious";

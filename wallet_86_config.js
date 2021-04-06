@@ -1,1 +1,1 @@
-var mnemonic = "flight average artist van found butter tongue draw name toe neither two";
+var mnemonic = "endorse frost churn provide album vintage dune combine render olive amateur luxury";

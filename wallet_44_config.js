@@ -1,1 +1,1 @@
-var mnemonic = "sad concert region canvas hamster embark mom flock faint upset pave win";
+var mnemonic = "carpet hollow accuse indoor grass nature assist favorite ritual smart north payment";

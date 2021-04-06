@@ -1,1 +1,1 @@
-var mnemonic = "enemy crucial grid cargo tail regret consider clinic reveal grace misery bounce";
+var mnemonic = "aerobic shrimp teach wire appear punch tortoise admit vital laugh coconut shiver";

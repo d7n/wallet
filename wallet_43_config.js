@@ -1,1 +1,1 @@
-var mnemonic = "talk lottery leader innocent frozen suspect crack indicate balance town sure zero";
+var mnemonic = "blind observe tooth ask phone hobby bike beef before left luxury door";

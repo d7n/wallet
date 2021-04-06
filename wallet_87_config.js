@@ -1,1 +1,1 @@
-var mnemonic = "sausage winter talent exotic cricket axis review alien cage hip north witness";
+var mnemonic = "comic rain asset vital depart sudden sing auto credit salad imitate devote";

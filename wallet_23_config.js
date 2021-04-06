@@ -1,1 +1,1 @@
-var mnemonic = "noise inner crunch lunch dog plunge turtle hint language detect cannon blood";
+var mnemonic = "trim ask survey antenna still gadget tooth never permit federal cereal satoshi";

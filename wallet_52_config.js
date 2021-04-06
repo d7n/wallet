@@ -1,1 +1,1 @@
-var mnemonic = "portion buyer slight clever bleak evoke vibrant mom copy enhance toward receive";
+var mnemonic = "capable morning patient rule because yard maid clump glove hint beef result";

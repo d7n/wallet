@@ -1,1 +1,1 @@
-var mnemonic = "oppose erode box cry soccer deliver family kingdom basket foil edge habit";
+var mnemonic = "forest warrior sad limb prepare cargo insane truth dolphin rent atom duty";

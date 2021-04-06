@@ -1,1 +1,1 @@
-var mnemonic = "bright stove pause split typical pause cheap divorce spatial laptop normal danger";
+var mnemonic = "kind vicious final author space evil rely enjoy toss broccoli together robust";

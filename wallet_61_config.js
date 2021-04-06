@@ -1,1 +1,1 @@
-var mnemonic = "under ridge mesh dad raw midnight custom patch device walk fatal vocal";
+var mnemonic = "require bicycle cannon coral wing recycle conduct lyrics emotion merge spin wide";

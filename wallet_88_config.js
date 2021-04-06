@@ -1,1 +1,1 @@
-var mnemonic = "roof jealous giraffe beyond fee inflict more mystery kiss crystal cry assume";
+var mnemonic = "custom river shiver rabbit ride spider bulb guide replace purchase oyster raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze behave base skate attend curve february equip portion elegant trial winner";
+var mnemonic = "wheat shuffle arena prepare renew reform almost category ritual welcome umbrella maid";

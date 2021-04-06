@@ -1,1 +1,1 @@
-var mnemonic = "evolve change rocket whale rude review slow entry cousin rifle during office";
+var mnemonic = "bulb cousin unit nephew labor veteran biology end they flee there fit";

@@ -1,1 +1,1 @@
-var mnemonic = "glance saddle pool burden impact fold pet transfer frozen father number globe";
+var mnemonic = "vendor reunion boring salad surface wheel bean speak inmate popular giraffe mom";

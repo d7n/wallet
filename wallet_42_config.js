@@ -1,1 +1,1 @@
-var mnemonic = "source few clutch infant north boost fade mean soda hollow churn purchase";
+var mnemonic = "material poverty control trouble general service adult bright benefit brisk shallow dinner";

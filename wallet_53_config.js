@@ -1,1 +1,1 @@
-var mnemonic = "myth equip open dream extend dad spirit rubber diesel debate debate knee";
+var mnemonic = "jewel skirt holiday office proof daughter door volcano off beyond dolphin unfair";

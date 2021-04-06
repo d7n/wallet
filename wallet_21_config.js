@@ -1,1 +1,1 @@
-var mnemonic = "dice ensure mother join water cricket taste thunder bachelor surround erosion portion";
+var mnemonic = "raw device cram file unit early wonder estate glimpse shaft grape upon";

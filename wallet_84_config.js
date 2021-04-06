@@ -1,1 +1,1 @@
-var mnemonic = "mimic addict carbon reject print buzz clock steak combine review between hospital";
+var mnemonic = "impose crime save inherit allow scan sunset father scout tiny cupboard argue";

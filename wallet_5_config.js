@@ -1,1 +1,1 @@
-var mnemonic = "response bacon drill among apart say captain chaos educate recycle resist core";
+var mnemonic = "muffin ticket rally slogan finish claim regular match buzz used remember entire";

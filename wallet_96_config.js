@@ -1,1 +1,1 @@
-var mnemonic = "aisle bamboo early trust oyster food turtle outer large seminar object gospel";
+var mnemonic = "muffin social gesture abuse version output gate jealous guitar damp pact demand";

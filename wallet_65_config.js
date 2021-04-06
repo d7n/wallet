@@ -1,1 +1,1 @@
-var mnemonic = "voice resemble chair ankle injury frog travel evoke clump print hover ethics";
+var mnemonic = "giant mixture double warm real genre stable curve height maze staff curious";

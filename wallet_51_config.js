@@ -1,1 +1,1 @@
-var mnemonic = "deputy public ginger wisdom dose illness power ritual cushion lift ridge onion";
+var mnemonic = "gain afraid surround ostrich donor roof doctor choice vocal cruel grape child";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion weapon square vicious boy motion limb edit else giraffe trial pencil";
+var mnemonic = "whip midnight such tortoise execute arena above polar upper air beef tissue";

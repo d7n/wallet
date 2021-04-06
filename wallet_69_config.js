@@ -1,1 +1,1 @@
-var mnemonic = "feel all pepper earth gate game mom pole nerve wage churn true";
+var mnemonic = "cool length half crowd pet client struggle echo battle minor fury flock";

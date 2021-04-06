@@ -1,1 +1,1 @@
-var mnemonic = "same genius fashion settle unknown reject symptom adult swear submit car token";
+var mnemonic = "lawn menu timber habit venture add involve mother egg day coach news";

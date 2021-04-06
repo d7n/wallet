@@ -1,1 +1,1 @@
-var mnemonic = "lock frown drop copper inner office sell cram purpose arrow tongue equip";
+var mnemonic = "uphold crush urban payment devote sight alley merit glare special name treat";

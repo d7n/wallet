@@ -1,1 +1,1 @@
-var mnemonic = "direct genre better couple inch give slender circle injury opera canvas include";
+var mnemonic = "exist tomato place frog that spot urban ignore black example yard certain";

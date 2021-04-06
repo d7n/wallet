@@ -1,1 +1,1 @@
-var mnemonic = "action push stock avocado reunion beef visa arch until ridge quick turtle";
+var mnemonic = "normal leisure umbrella such core mask wire thunder market fuel inquiry blood";

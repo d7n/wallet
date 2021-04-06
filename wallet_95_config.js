@@ -1,1 +1,1 @@
-var mnemonic = "walk legal sure spider rebuild lobster guide text rebuild lamp sad uphold";
+var mnemonic = "always they moment recall system lunch draft artist begin crazy person topple";

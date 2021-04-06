@@ -1,1 +1,1 @@
-var mnemonic = "echo control analyst earn knock region announce swing begin ethics test odor";
+var mnemonic = "tobacco beef soft orchard involve flip clap speak column venture adjust step";

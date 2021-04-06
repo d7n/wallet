@@ -1,1 +1,1 @@
-var mnemonic = "copy between renew sail salt muffin margin silly burger feature rate gain";
+var mnemonic = "receive release spider logic tomorrow office head evidence deposit person couple dirt";

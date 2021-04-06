@@ -1,1 +1,1 @@
-var mnemonic = "empower anger region ten move opera future paddle mercy begin raw verb";
+var mnemonic = "adult tray half inject wet prize popular decorate bring extra accuse spare";

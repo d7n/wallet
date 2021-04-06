@@ -1,1 +1,1 @@
-var mnemonic = "spoil wing type muscle call arrest worry scout hire depth speed kangaroo";
+var mnemonic = "aerobic hundred bench abstract either reduce matter object mimic stool raven adult";

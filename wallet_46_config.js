@@ -1,1 +1,1 @@
-var mnemonic = "night mean slush setup rib hover ritual issue legal puppy sleep music";
+var mnemonic = "become key floor top rotate flower blouse lend sock test girl december";

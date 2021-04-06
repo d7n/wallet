@@ -1,1 +1,1 @@
-var mnemonic = "brother belt asthma clarify alone mother card cross runway raise frozen citizen";
+var mnemonic = "enact exact chest monitor stool empower master charge echo next whale slogan";

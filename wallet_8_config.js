@@ -1,1 +1,1 @@
-var mnemonic = "broom ticket unaware timber dog stem plastic arena test creek wisdom cloud";
+var mnemonic = "pond consider tortoise walnut blind split subway siege muscle crater spring repair";

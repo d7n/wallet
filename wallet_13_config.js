@@ -1,1 +1,1 @@
-var mnemonic = "trophy rely vanish plunge spray satisfy menu dignity flip club gate alcohol";
+var mnemonic = "pitch outdoor buzz control consider walk element ridge base connect clinic nest";

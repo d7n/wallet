@@ -1,1 +1,1 @@
-var mnemonic = "nut scout forget mimic strategy utility cattle gain spawn lift confirm dog";
+var mnemonic = "double captain clap expand dash want thought bottom reject multiply voice control";

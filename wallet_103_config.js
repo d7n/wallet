@@ -1,1 +1,1 @@
-var mnemonic = "helmet winner among cry finger shell fiscal price dismiss garbage kitchen plate";
+var mnemonic = "silent build laundry silk donkey village snap old steak pen sleep head";

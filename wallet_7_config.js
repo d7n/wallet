@@ -1,1 +1,1 @@
-var mnemonic = "quantum swear dilemma daughter prefer feature shoot interest hub vault sadness quarter";
+var mnemonic = "used shift stage sweet maximum panda front draft twelve wrestle between round";

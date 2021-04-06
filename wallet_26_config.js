@@ -1,1 +1,1 @@
-var mnemonic = "loan actual decorate penalty matrix because priority blush invest book friend primary";
+var mnemonic = "bench warrior cinnamon lion furnace garment fancy idle slot promote share evidence";

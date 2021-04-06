@@ -1,1 +1,1 @@
-var mnemonic = "thrive depart ignore divorce snow hybrid cake muffin hover hurdle slab viable";
+var mnemonic = "note typical reduce drastic cruise possible gym jazz grocery inch enemy iron";

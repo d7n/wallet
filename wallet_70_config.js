@@ -1,1 +1,1 @@
-var mnemonic = "wool fine penalty nominee move pluck soap tail kangaroo either duck patrol";
+var mnemonic = "topic tribe claim veteran suggest width balance can arm prosper forest circle";

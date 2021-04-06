@@ -1,1 +1,1 @@
-var mnemonic = "spirit right short custom call slice nose vendor law long exhaust chapter";
+var mnemonic = "health lock sponsor lecture radar fossil top inherit rain clutch can today";

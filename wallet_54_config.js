@@ -1,1 +1,1 @@
-var mnemonic = "whale add private also stamp plate vote proof miracle question laugh law";
+var mnemonic = "token nest dawn stick armed again stick magic uphold cry honey poem";

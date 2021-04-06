@@ -1,1 +1,1 @@
-var mnemonic = "salmon filter piece clay sad rebel steak process inflict timber expose boring";
+var mnemonic = "ribbon afford salad stone cup punch liberty engage catch small voice world";

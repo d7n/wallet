@@ -1,1 +1,1 @@
-var mnemonic = "scare claw build syrup green ugly cancel deliver grape donkey long jeans";
+var mnemonic = "thunder winner loop scout virtual civil badge basket novel theme orphan security";

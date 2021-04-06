@@ -1,1 +1,1 @@
-var mnemonic = "night grain message blush elephant promote rebel sound response claw shoulder damage";
+var mnemonic = "empty panther mixed rose knock zone verb desk swarm era path awesome";
