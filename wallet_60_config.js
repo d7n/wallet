@@ -1,1 +1,1 @@
-var mnemonic = "moment fame north chapter discover argue danger ability hazard left garden skull";
+var mnemonic = "mom ceiling jealous pride boost tomorrow rug donkey later old doctor beauty";

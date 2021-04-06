@@ -1,1 +1,1 @@
-var mnemonic = "destroy tube bundle tribe nasty popular grant cargo tiger priority area total";
+var mnemonic = "begin vast wheat female charge drop become attract leisure novel giant design";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy ritual crisp climb blood thumb fetch laundry badge poet fish square";
+var mnemonic = "book interest chimney tip vessel syrup cost same smart write cruel bronze";

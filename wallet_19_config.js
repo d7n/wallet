@@ -1,1 +1,1 @@
-var mnemonic = "traffic woman legal scorpion subject oblige antenna delay idle toilet burden beauty";
+var mnemonic = "illegal elevator glow cherry toward curve bench bean magnet mammal already inquiry";

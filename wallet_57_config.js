@@ -1,1 +1,1 @@
-var mnemonic = "bamboo select laundry toward seminar trip main dragon embark foil beyond major";
+var mnemonic = "chimney scan toss betray favorite mistake obscure matter sample onion mean erode";

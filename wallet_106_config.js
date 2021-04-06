@@ -1,1 +1,1 @@
-var mnemonic = "panther finger sister sand monkey error fatal whale always organ suggest trigger";
+var mnemonic = "lawn aspect cup spirit result together promote receive hip dirt clog confirm";

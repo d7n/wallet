@@ -1,1 +1,1 @@
-var mnemonic = "sauce differ still device volume satoshi weekend tuna spot save law crouch";
+var mnemonic = "vast symptom dish crazy clump start author tuna dose grain grain prison";

@@ -1,1 +1,1 @@
-var mnemonic = "valley famous history lounge situate curve bitter tackle chronic cradle note faculty";
+var mnemonic = "exchange dose advance run strike loyal win garment between harvest honey zone";

@@ -1,1 +1,1 @@
-var mnemonic = "season bomb ritual exhibit wait custom stool trophy file soda sign gather";
+var mnemonic = "uniform coconut stomach faculty oven will wear pelican fitness one tag again";

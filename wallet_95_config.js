@@ -1,1 +1,1 @@
-var mnemonic = "talk badge undo witness erupt robot adapt letter drop strategy small brief";
+var mnemonic = "security kind produce elite chaos asthma dune refuse age valley absorb relax";

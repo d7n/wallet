@@ -1,1 +1,1 @@
-var mnemonic = "chunk mirror wild giraffe flavor tooth never museum inch demise early brother";
+var mnemonic = "effort sand adapt copper harvest drop cliff tell note rough usual derive";

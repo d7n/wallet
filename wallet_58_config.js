@@ -1,1 +1,1 @@
-var mnemonic = "dream include clinic battle jungle dirt lonely tree cattle silent blind cube";
+var mnemonic = "long ceiling grass fitness share food best daughter chair price bicycle pave";

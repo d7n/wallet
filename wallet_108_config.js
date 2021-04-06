@@ -1,1 +1,1 @@
-var mnemonic = "zebra swim ecology betray cat orchard replace mango expire cause unusual slush";
+var mnemonic = "upon film electric book gravity stock actor include company sign shuffle absorb";

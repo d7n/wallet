@@ -1,1 +1,1 @@
-var mnemonic = "joy fossil tobacco cherry error symbol crawl husband label color business okay";
+var mnemonic = "gold punch purse pilot void bone firm similar alarm cake wagon panda";

@@ -1,1 +1,1 @@
-var mnemonic = "enable dad lady front biology update coach height canyon receive used transfer";
+var mnemonic = "test such prison blade slush swift bonus ramp plug staff cement tip";

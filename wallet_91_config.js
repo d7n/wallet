@@ -1,1 +1,1 @@
-var mnemonic = "split car abuse trip enable lonely hazard enemy anger mail lecture cake";
+var mnemonic = "vast clown list regret whale captain banner enroll actress trim project slight";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge like target buffalo spend journey monster fence ice job advance dry";
+var mnemonic = "bird lecture antique fun ask glide use path parrot nice must cause";

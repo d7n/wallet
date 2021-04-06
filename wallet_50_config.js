@@ -1,1 +1,1 @@
-var mnemonic = "water alpha lyrics kind faculty echo express census enhance endless swift pool";
+var mnemonic = "try forward struggle twin myself bus kangaroo between fine youth junk keep";

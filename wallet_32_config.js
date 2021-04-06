@@ -1,1 +1,1 @@
-var mnemonic = "stadium board rely turtle scissors convince magic remind possible garlic hundred express";
+var mnemonic = "parade wink predict glide deposit metal whip pyramid uniform moon inflict clog";

@@ -1,1 +1,1 @@
-var mnemonic = "host life square select pudding radio bar thank release point input fiction";
+var mnemonic = "help income use clog pupil empower veteran outdoor source pupil clinic blur";

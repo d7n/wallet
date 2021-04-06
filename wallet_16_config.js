@@ -1,1 +1,1 @@
-var mnemonic = "exit file tackle blade sponsor bicycle oval library desk gold teach course";
+var mnemonic = "sing innocent defense cactus kangaroo joke toe fox inner walk own night";

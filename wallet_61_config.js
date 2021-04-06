@@ -1,1 +1,1 @@
-var mnemonic = "session ozone erode relax ice music trip hobby acid naive used mixture";
+var mnemonic = "coral jump depth blind style real raccoon execute butter rally nominee quality";

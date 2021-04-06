@@ -1,1 +1,1 @@
-var mnemonic = "copy arrow boring roast rotate earth pave fork solar say crumble clever";
+var mnemonic = "number luggage chunk tower build key screen alley this second foot ocean";

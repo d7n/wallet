@@ -1,1 +1,1 @@
-var mnemonic = "cart nuclear post three often broom copper program middle enough aunt case";
+var mnemonic = "small field jar vacuum real pelican blood oxygen jazz drill neglect broom";

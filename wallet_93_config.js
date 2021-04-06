@@ -1,1 +1,1 @@
-var mnemonic = "industry car dance fury push raven flavor shiver narrow glimpse coast sudden";
+var mnemonic = "material trash north maze unhappy sausage side congress steak guide joke sea";

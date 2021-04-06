@@ -1,1 +1,1 @@
-var mnemonic = "nose fresh vague rotate crumble torch labor range wrong jewel annual demise";
+var mnemonic = "fantasy symbol exercise midnight faculty junk unfold silver mushroom include course neutral";

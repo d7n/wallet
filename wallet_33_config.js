@@ -1,1 +1,1 @@
-var mnemonic = "tumble lamp debris once voice wheel favorite edge isolate copper pill control";
+var mnemonic = "seat reopen pottery sudden measure baby spot forget dinner section ocean harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "firm clinic indicate beach segment immune setup primary dinosaur quiz feature chef";
+var mnemonic = "smile mass tiny thought path icon lunar kind stay bomb hard unhappy";

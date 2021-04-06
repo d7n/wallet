@@ -1,1 +1,1 @@
-var mnemonic = "chest milk abuse park flight cruel hill please air all confirm action";
+var mnemonic = "rare napkin prosper fish oblige country donate silver anger avocado carry rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "false daring hazard bonus drop donor nerve identify expand average correct shove";
+var mnemonic = "update assist cave crisp round sign buffalo project elegant shoe basket ignore";

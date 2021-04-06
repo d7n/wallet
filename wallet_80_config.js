@@ -1,1 +1,1 @@
-var mnemonic = "water swear useless nose sleep comic sausage bike huge divert stable sweet";
+var mnemonic = "analyst hybrid tide light lava accident ceiling laundry youth swamp sing warfare";

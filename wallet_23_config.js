@@ -1,1 +1,1 @@
-var mnemonic = "hour fashion maid vanish relax wash stay sting recipe asset excuse tape";
+var mnemonic = "embrace unique want giggle again snack often friend cherry sock antique expect";

@@ -1,1 +1,1 @@
-var mnemonic = "forum plastic chuckle razor jealous armed indoor morning shoe reduce fish flavor";
+var mnemonic = "orbit stage embark orient win potato memory rare run bomb impulse cycle";

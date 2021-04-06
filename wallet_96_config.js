@@ -1,1 +1,1 @@
-var mnemonic = "swing proof orient summer answer aspect until always kitchen wish sting please";
+var mnemonic = "huge crucial lens maid anxiety grab middle mimic diet entry file tonight";

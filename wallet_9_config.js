@@ -1,1 +1,1 @@
-var mnemonic = "rifle immense pair silly tunnel tube already fence cage expect tag extend";
+var mnemonic = "hold crane sell duty wine border wrong certain notable churn minimum negative";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred side diamond actress despair glue field gym visual acoustic birth gun";
+var mnemonic = "scatter exit noble aspect pioneer dish truly panther viable bread dawn supreme";

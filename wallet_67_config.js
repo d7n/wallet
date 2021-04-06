@@ -1,1 +1,1 @@
-var mnemonic = "goat survey purse flush option monitor camera canoe immune snake affair dune";
+var mnemonic = "diamond round canyon dilemma easily retreat flip fire monitor visual soon romance";

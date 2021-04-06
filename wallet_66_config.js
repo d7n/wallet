@@ -1,1 +1,1 @@
-var mnemonic = "draft glass erase hazard lonely cube pig cement loud kangaroo region feed";
+var mnemonic = "rail mirror hero truly below talent blur give page wet collect alien";

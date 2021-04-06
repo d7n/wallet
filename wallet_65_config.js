@@ -1,1 +1,1 @@
-var mnemonic = "churn shine near daughter hazard suggest forum collect advice enable offer describe";
+var mnemonic = "okay wink february half fluid toddler hint scrap gospel drive already catch";

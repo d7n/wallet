@@ -1,1 +1,1 @@
-var mnemonic = "network wine second check clerk enroll meat open clerk nice stay inquiry";
+var mnemonic = "aim amount chalk absent frequent extend stomach combine senior bullet water nuclear";

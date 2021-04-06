@@ -1,1 +1,1 @@
-var mnemonic = "snake receive upset city task brisk crush spike dynamic frequent human convince";
+var mnemonic = "have clever actual pudding steak situate birth brief option jungle rice notable";

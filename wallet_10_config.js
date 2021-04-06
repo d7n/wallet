@@ -1,1 +1,1 @@
-var mnemonic = "immense public improve gauge dentist diamond supreme thunder earth boil enforce select";
+var mnemonic = "auction member nature stuff you spare pink mistake arrange output similar use";

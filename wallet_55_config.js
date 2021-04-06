@@ -1,1 +1,1 @@
-var mnemonic = "warrior denial poverty divorce nut endorse oil physical pear close culture asset";
+var mnemonic = "coffee antenna elite canyon either balance special fitness stuff suffer easy immense";

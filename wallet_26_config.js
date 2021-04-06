@@ -1,1 +1,1 @@
-var mnemonic = "suspect when answer strong humor tree casual frame ordinary velvet churn fitness";
+var mnemonic = "hunt radar cry stage midnight excess category door fury green afraid pave";

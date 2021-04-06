@@ -1,1 +1,1 @@
-var mnemonic = "enhance rack vendor piece sugar air unveil fun nuclear rely benefit must";
+var mnemonic = "enable cherry task author face pull snack swim success toy spirit giraffe";

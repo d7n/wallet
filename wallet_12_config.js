@@ -1,1 +1,1 @@
-var mnemonic = "buffalo debate brisk budget tunnel sudden surround sister select royal response square";
+var mnemonic = "spot confirm fold alcohol math trash brass onion risk text search ginger";

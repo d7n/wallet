@@ -1,1 +1,1 @@
-var mnemonic = "unique collect foam because ozone box purpose april soldier ordinary million rival";
+var mnemonic = "mosquito cram case wreck section uniform urge devote weekend venture ancient pyramid";

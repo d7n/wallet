@@ -1,1 +1,1 @@
-var mnemonic = "paper jump uncle feature pudding iron tool ensure behind kind execute expose";
+var mnemonic = "grief eyebrow tennis feel cushion sheriff caution chief seek seek leg tornado";

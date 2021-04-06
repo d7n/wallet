@@ -1,1 +1,1 @@
-var mnemonic = "lecture buddy behind grab swift board athlete horse bundle rain begin kidney";
+var mnemonic = "dash together useful lounge menu angry typical pride arrange theme predict mass";

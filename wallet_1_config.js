@@ -1,1 +1,1 @@
-var mnemonic = "focus fiber begin rapid acid robust beauty lizard remain pottery worth gate";
+var mnemonic = "label blur fabric machine wire name measure neck cherry bridge road inmate";

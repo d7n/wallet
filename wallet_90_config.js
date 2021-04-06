@@ -1,1 +1,1 @@
-var mnemonic = "draw page admit recipe crazy reunion grief enter bid lazy eight own";
+var mnemonic = "hub page artist cargo pear basket peasant river bronze vocal arctic amateur";

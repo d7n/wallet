@@ -1,1 +1,1 @@
-var mnemonic = "door flip oil dwarf exact endorse bid believe about practice chimney civil";
+var mnemonic = "addict cigar coach man walk claw turkey peace room blind awkward return";

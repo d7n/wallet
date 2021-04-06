@@ -1,1 +1,1 @@
-var mnemonic = "air travel stereo immense heart eyebrow empty history small beyond ripple nose";
+var mnemonic = "garden jeans short game indoor antenna indicate affair loud fiber position boss";

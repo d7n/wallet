@@ -1,1 +1,1 @@
-var mnemonic = "visit dawn hurry day rigid become put stove insect anchor senior catalog";
+var mnemonic = "into budget castle polar trick glory swamp original digital rather change hamster";

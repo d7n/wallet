@@ -1,1 +1,1 @@
-var mnemonic = "thumb ensure paper because sight flush urban illegal exit master soda cargo";
+var mnemonic = "else sugar venture pizza table enforce left napkin ribbon type diet hospital";

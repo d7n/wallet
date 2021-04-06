@@ -1,1 +1,1 @@
-var mnemonic = "caution praise valve setup drastic transfer citizen mass energy crystal network arrange";
+var mnemonic = "invest brick mistake change reflect woman entry crime sea camera bundle endless";

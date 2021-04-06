@@ -1,1 +1,1 @@
-var mnemonic = "used right rhythm undo tape song onion they episode call column menu";
+var mnemonic = "pipe siren zoo air sniff phone blossom minor paper flash throw narrow";

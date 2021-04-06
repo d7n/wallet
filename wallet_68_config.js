@@ -1,1 +1,1 @@
-var mnemonic = "motor swing keep ghost cake snack banner push iron negative food desk";
+var mnemonic = "tuition crew ribbon bone grape mother credit dial oyster cigar fiscal squirrel";

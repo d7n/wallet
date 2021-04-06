@@ -1,1 +1,1 @@
-var mnemonic = "turtle phone clock gravity click alter patient silent blossom girl predict fever";
+var mnemonic = "recipe volcano glad talent pizza rookie borrow forum valley corn win alley";

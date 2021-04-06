@@ -1,1 +1,1 @@
-var mnemonic = "dragon cushion capable purpose slot distance buffalo tennis brave select offer organ";
+var mnemonic = "snow ignore hockey airport music warfare radar image thought cereal quality noble";

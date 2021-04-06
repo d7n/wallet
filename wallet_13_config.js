@@ -1,1 +1,1 @@
-var mnemonic = "chuckle tissue shock notice student stock target fabric chair blue bachelor spoon";
+var mnemonic = "service essence absurd hood student vivid arrive dinner black provide tornado legal";

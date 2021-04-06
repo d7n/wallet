@@ -1,1 +1,1 @@
-var mnemonic = "engage vapor topic metal brand letter antique rely amused quiz icon dice";
+var mnemonic = "trouble lend language globe coffee recall weird wage meat table bind plastic";

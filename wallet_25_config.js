@@ -1,1 +1,1 @@
-var mnemonic = "glove viable crouch blossom mechanic select lock position twin riot rather elephant";
+var mnemonic = "east know carry sail old deny coconut ship inflict flag fiscal license";

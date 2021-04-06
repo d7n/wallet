@@ -1,1 +1,1 @@
-var mnemonic = "clutch market injury dream alcohol family weasel guide board voyage claim cabbage";
+var mnemonic = "fluid tattoo second kid magic frost sport solve emerge measure wreck jungle";

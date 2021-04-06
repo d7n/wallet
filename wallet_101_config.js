@@ -1,1 +1,1 @@
-var mnemonic = "between update another approve trick fatigue memory street inhale victory wing adapt";
+var mnemonic = "tiny vital lottery party cost disorder river immense unit wrap ramp copper";

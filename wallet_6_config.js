@@ -1,1 +1,1 @@
-var mnemonic = "year arena earn bomb letter august lamp uniform voice airport orphan panda";
+var mnemonic = "frown umbrella maid snow auto wrong can public original shaft miss despair";

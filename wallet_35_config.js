@@ -1,1 +1,1 @@
-var mnemonic = "advice wall crawl burst note index artefact real mention trash void under";
+var mnemonic = "type input flock tongue ten shrimp mutual build hat rifle glue make";

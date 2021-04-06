@@ -1,1 +1,1 @@
-var mnemonic = "property test alert awesome feature diamond hello pioneer penalty noodle help father";
+var mnemonic = "flame trash bomb else animal siege bean alert hurdle nut soft seven";

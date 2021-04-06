@@ -1,1 +1,1 @@
-var mnemonic = "flat another curtain unfair genius typical pill praise genre surge media garment";
+var mnemonic = "common armed industry omit account book sun noise submit glue fence vague";

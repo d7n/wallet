@@ -1,1 +1,1 @@
-var mnemonic = "cable prevent cage cliff cream intact stable certain surge require false skate";
+var mnemonic = "oak junk enemy host stamp ladder razor april spread mobile punch other";

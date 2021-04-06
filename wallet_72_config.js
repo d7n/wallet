@@ -1,1 +1,1 @@
-var mnemonic = "wrestle yellow evidence gravity about moon noise hip choose dentist below idle";
+var mnemonic = "grant title fatigue main bean paper valid ten episode truly run receive";

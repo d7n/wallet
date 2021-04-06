@@ -1,1 +1,1 @@
-var mnemonic = "include spring gorilla spin skill forward parrot warm ketchup moon critic school";
+var mnemonic = "photo result wide stuff wealth holiday garden place proof cheap mechanic annual";

@@ -1,1 +1,1 @@
-var mnemonic = "subway cinnamon rich crunch october gesture behave few finish expect scorpion inch";
+var mnemonic = "unusual mobile evoke armor allow help weasel faculty man session boil tomorrow";

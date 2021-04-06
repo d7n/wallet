@@ -1,1 +1,1 @@
-var mnemonic = "name tonight fan claim waste suffer property pizza omit milk kite rifle";
+var mnemonic = "birth crazy traffic world chronic denial puzzle school captain teach mass library";

@@ -1,1 +1,1 @@
-var mnemonic = "festival absent icon act whisper mushroom volume hundred gesture rather detail sun";
+var mnemonic = "double hidden raise angle civil various error orient original labor wine treat";

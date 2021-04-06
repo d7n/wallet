@@ -1,1 +1,1 @@
-var mnemonic = "salmon oak neither magnet donor fortune lizard garment motion human peace ecology";
+var mnemonic = "grace champion message close salute cannon quit drop captain tomato tomorrow explain";

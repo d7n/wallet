@@ -1,1 +1,1 @@
-var mnemonic = "replace mouse crystal tilt bean october despair cheese file eternal curtain urge";
+var mnemonic = "enter guilt panic prosper media eternal silver humble visa analyst start shiver";

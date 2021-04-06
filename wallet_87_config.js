@@ -1,1 +1,1 @@
-var mnemonic = "where vote make uniform smoke lecture siege clinic discover acquire connect motion";
+var mnemonic = "tornado clutch nothing pink sausage grief advance curve reject genre oppose fence";

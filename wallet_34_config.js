@@ -1,1 +1,1 @@
-var mnemonic = "like misery milk pyramid arrow advance educate high garden monster buzz orange";
+var mnemonic = "escape bright enforce dolphin hurry learn rural black inch artist clown wall";

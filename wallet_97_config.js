@@ -1,1 +1,1 @@
-var mnemonic = "narrow walnut clog circle ugly rare grid valley scorpion diet filter section";
+var mnemonic = "mad reject mechanic lava skirt income useful goddess vanish impact robust hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "please kitten zone remain hurdle enemy motion dignity want vicious fun device";
+var mnemonic = "season traffic emerge relax tonight toward milk ripple gate calm screen about";

@@ -1,1 +1,1 @@
-var mnemonic = "account before gravity rural just avoid jazz salad chuckle school summer knife";
+var mnemonic = "remember unveil giraffe pilot accident glue work rich wreck feature salt desk";

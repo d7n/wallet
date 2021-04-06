@@ -1,1 +1,1 @@
-var mnemonic = "enroll remember state group radar text jazz riot happy armor please prepare";
+var mnemonic = "biology staff lottery test crack dynamic invite spirit human comic deputy win";

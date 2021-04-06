@@ -1,1 +1,1 @@
-var mnemonic = "oven tuna fun asset mind simple father print song act arrive lamp";
+var mnemonic = "tissue ghost tortoise gap oppose wrong mansion rather panda ignore clip verb";

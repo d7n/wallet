@@ -1,1 +1,1 @@
-var mnemonic = "pet ethics timber reject leisure answer weasel pond session shallow decorate pupil";
+var mnemonic = "again gorilla silver blur slab eagle lonely cabbage daughter game habit quantum";

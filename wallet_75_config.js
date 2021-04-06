@@ -1,1 +1,1 @@
-var mnemonic = "friend steak intact choose reform ready regular between timber remember thumb harsh";
+var mnemonic = "latin gate jaguar powder cricket solid clean filter slab antique occur clinic";

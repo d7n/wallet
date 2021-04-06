@@ -1,1 +1,1 @@
-var mnemonic = "prize health visit hold impose melody funny tired drum lava assume swamp";
+var mnemonic = "exit asthma ensure fence early clump critic verb bullet penalty differ audit";

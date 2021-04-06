@@ -1,1 +1,1 @@
-var mnemonic = "wear sadness sausage crunch chapter permit dust awesome avocado shiver arena heavy";
+var mnemonic = "liquid fever replace census budget width renew rebuild manual predict rib august";
