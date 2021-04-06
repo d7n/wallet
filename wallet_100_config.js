@@ -1,1 +1,1 @@
-var mnemonic = "source twelve stairs marble shy fiction junior air reopen better census mammal";
+var mnemonic = "neutral lecture pill cricket describe correct later cabbage admit front long beyond";

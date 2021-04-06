@@ -1,1 +1,1 @@
-var mnemonic = "segment shoe paddle lens crouch hobby common element way lion gift cash";
+var mnemonic = "kingdom vital slender cry hub turkey across top hope used any thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture poem fun stuff flat rural key title purchase knife marriage best";
+var mnemonic = "prison trend young six ask truck town culture net lecture follow resemble";

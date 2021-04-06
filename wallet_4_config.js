@@ -1,1 +1,1 @@
-var mnemonic = "pizza proud crane wage left hockey uncover know patient scissors indoor fresh";
+var mnemonic = "guess firm tunnel peace swear just bracket minute token finger post jewel";

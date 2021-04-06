@@ -1,1 +1,1 @@
-var mnemonic = "front venue bomb climb ostrich motion foster bag jealous catalog custom million";
+var mnemonic = "consider wife work market casual garden ghost cash winter dinner anger lemon";

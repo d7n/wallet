@@ -1,1 +1,1 @@
-var mnemonic = "involve truck biology crowd spy oyster where material apple ankle inject glow";
+var mnemonic = "valve science security acid squirrel flock peanut panda there pencil quiz morning";

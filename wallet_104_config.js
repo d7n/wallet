@@ -1,1 +1,1 @@
-var mnemonic = "day summer priority ancient scrub priority baby early glass gym news usage";
+var mnemonic = "version clog angle evolve hungry slush infant taste long ability twin cricket";

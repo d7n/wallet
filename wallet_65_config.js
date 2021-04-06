@@ -1,1 +1,1 @@
-var mnemonic = "envelope say ability enough mom animal sad junk balcony view govern card";
+var mnemonic = "sell wild cigar scan exhibit ivory hurry sudden rose river demise team";

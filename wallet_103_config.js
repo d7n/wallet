@@ -1,1 +1,1 @@
-var mnemonic = "salon staff caught copy bullet anxiety noble acquire nurse envelope pen useful";
+var mnemonic = "region grit cart large link pear cart either middle health stick carry";

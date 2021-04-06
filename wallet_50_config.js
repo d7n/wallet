@@ -1,1 +1,1 @@
-var mnemonic = "cruise risk museum recycle vault office curious parent search ozone guilt cereal";
+var mnemonic = "mistake mind table deliver answer cupboard off mosquito oyster exhaust cute riot";

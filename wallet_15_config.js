@@ -1,1 +1,1 @@
-var mnemonic = "lazy proud tent clever rifle dolphin wide dial expand emerge donkey scan";
+var mnemonic = "oppose asthma oblige ceiling helmet cook reflect expect super refuse walnut yard";

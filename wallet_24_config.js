@@ -1,1 +1,1 @@
-var mnemonic = "rely elegant picnic twin solution pet dwarf daring error sick finish powder";
+var mnemonic = "drift youth tortoise cannon rescue size ring fury strike unfair weekend slush";

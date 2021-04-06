@@ -1,1 +1,1 @@
-var mnemonic = "column canal have twice vague hawk bird price honey six curtain gown";
+var mnemonic = "field decrease bone brown image adjust trend together peace reform motion kick";

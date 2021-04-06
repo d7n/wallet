@@ -1,1 +1,1 @@
-var mnemonic = "winter occur cinnamon debate project cradle answer joy leopard kite student income";
+var mnemonic = "series corn pulp have elevator camera dry worry fetch lounge fade world";

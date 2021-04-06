@@ -1,1 +1,1 @@
-var mnemonic = "orbit three adapt amused bacon trigger small sugar quiz unaware system cruel";
+var mnemonic = "burst nurse bundle push car kick certain jaguar limit apple warm goose";

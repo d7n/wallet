@@ -1,1 +1,1 @@
-var mnemonic = "all member carbon box echo dream scout rally prepare two beach omit";
+var mnemonic = "card property clog scorpion dish nerve famous unaware crush usage chaos mixture";

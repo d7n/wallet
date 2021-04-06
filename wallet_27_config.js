@@ -1,1 +1,1 @@
-var mnemonic = "pole donate holiday robot monster case crowd harbor warm pull okay mention";
+var mnemonic = "give defy decide second thought demand mother accident obey cheese pizza basket";

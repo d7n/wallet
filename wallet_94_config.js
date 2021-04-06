@@ -1,1 +1,1 @@
-var mnemonic = "like color island actual tooth wild breeze power forget submit gun boil";
+var mnemonic = "okay jazz title hamster salad maple right discover witness year category inject";

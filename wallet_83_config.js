@@ -1,1 +1,1 @@
-var mnemonic = "birth surface observe shop economy reveal menu loud acquire glow oblige lottery";
+var mnemonic = "excuse logic trim opinion paper island giggle derive hidden length grid apple";

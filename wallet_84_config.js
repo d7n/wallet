@@ -1,1 +1,1 @@
-var mnemonic = "lava outdoor uncle sorry crash gaze decline lucky attract occur motion view";
+var mnemonic = "runway swap marriage address coin lesson between sister news visual wasp cheap";

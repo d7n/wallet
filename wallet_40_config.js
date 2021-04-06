@@ -1,1 +1,1 @@
-var mnemonic = "tomato also black cradle gossip gold truly slogan amused maximum youth hotel";
+var mnemonic = "shrug phone gain soon rifle airport impulse click sure side seed hollow";

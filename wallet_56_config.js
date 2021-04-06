@@ -1,1 +1,1 @@
-var mnemonic = "crazy pupil crater coffee riot cricket garbage silver crowd special globe club";
+var mnemonic = "calm vault mechanic broccoli hope weasel early foil joke people brand protect";

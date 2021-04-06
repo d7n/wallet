@@ -1,1 +1,1 @@
-var mnemonic = "wine stumble need elbow link rotate flavor almost pulp room endorse salad";
+var mnemonic = "depart shoot bright close galaxy inquiry human waste below forum material just";

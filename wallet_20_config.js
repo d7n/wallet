@@ -1,1 +1,1 @@
-var mnemonic = "suspect notice rib ankle refuse spot country crunch peace pipe fringe raven";
+var mnemonic = "payment situate typical tumble nephew second champion armed gorilla cabin attend differ";

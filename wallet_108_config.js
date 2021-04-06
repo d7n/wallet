@@ -1,1 +1,1 @@
-var mnemonic = "useful ten arm mail deliver country unable mandate federal stomach legal lamp";
+var mnemonic = "gentle rebel clump strategy pink raccoon merge media million cover more kingdom";

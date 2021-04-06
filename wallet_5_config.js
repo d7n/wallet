@@ -1,1 +1,1 @@
-var mnemonic = "skate offer area fold visit diamond drill brief dilemma hover apple crack";
+var mnemonic = "phone head bulb pet shop once clutch interest rude parade guard siren";

@@ -1,1 +1,1 @@
-var mnemonic = "screen cycle barrel coral mango will album candy view minimum glory truth";
+var mnemonic = "wave gallery dinner scrap lounge blouse wrist capital hundred topple six auto";

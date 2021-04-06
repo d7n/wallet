@@ -1,1 +1,1 @@
-var mnemonic = "vibrant wide measure ski like drastic cram hurry flavor wolf board capable";
+var mnemonic = "december dust slide humble eyebrow cart quick whip excess dice scatter position";

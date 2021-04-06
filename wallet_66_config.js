@@ -1,1 +1,1 @@
-var mnemonic = "rookie side alley valley couple vessel odor chat tree opera kitten quality";
+var mnemonic = "object involve jump waste blast process honey pill alert decade noodle doctor";

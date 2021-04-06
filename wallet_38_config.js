@@ -1,1 +1,1 @@
-var mnemonic = "perfect smooth hungry notice salad orphan ethics auto cram anger rotate embody";
+var mnemonic = "mammal unlock mutual soup zone reward deputy word noble blur umbrella merit";

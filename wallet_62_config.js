@@ -1,1 +1,1 @@
-var mnemonic = "couch again feature unfold pumpkin action panel medal illegal alien select provide";
+var mnemonic = "matter divert vote cheap crowd tail win embrace fee universe maid eight";

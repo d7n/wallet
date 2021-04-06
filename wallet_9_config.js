@@ -1,1 +1,1 @@
-var mnemonic = "travel obvious ribbon quiz onion summer eternal corn seed law still damage";
+var mnemonic = "fence similar valve stick piece front crumble twenty load render require parade";

@@ -1,1 +1,1 @@
-var mnemonic = "during maid cinnamon make picture choice crazy ceiling spread six piano denial";
+var mnemonic = "travel tumble base weird best odor cave horn sleep man great pull";

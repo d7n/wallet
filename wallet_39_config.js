@@ -1,1 +1,1 @@
-var mnemonic = "involve elevator uniform index shoe oblige smooth comic fashion license glare retire";
+var mnemonic = "renew extra tape spawn observe scorpion review course meadow income snap uncle";

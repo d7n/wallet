@@ -1,1 +1,1 @@
-var mnemonic = "grow enhance raise light slight escape proof inhale confirm wool fox welcome";
+var mnemonic = "busy leaf ensure amused shock assume rare wish silver sock neither daughter";

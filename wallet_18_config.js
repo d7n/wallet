@@ -1,1 +1,1 @@
-var mnemonic = "also enact wait social what pepper describe thrive pet parent math insect";
+var mnemonic = "husband marble tip later gas theory year region chapter produce organ crime";

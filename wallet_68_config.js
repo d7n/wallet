@@ -1,1 +1,1 @@
-var mnemonic = "assume figure aspect buffalo silent window lunar mother finish edit venture chronic";
+var mnemonic = "network identify two iron rug lazy total small black scale begin cruise";

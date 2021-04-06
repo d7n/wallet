@@ -1,1 +1,1 @@
-var mnemonic = "shoot awesome october solve involve wool drip success spider brick walk diet";
+var mnemonic = "promote sketch update prepare spatial garlic escape portion edge treat hidden penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz planet pupil scout cover dumb keep promote axis harbor woman sock";
+var mnemonic = "pistol relax expand unfold awful jacket hidden mail endless engage shine exile";

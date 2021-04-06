@@ -1,1 +1,1 @@
-var mnemonic = "angle congress muffin december speed culture glare praise acid pyramid clean clown";
+var mnemonic = "direct morning length cabbage rent hat police orphan wedding flag year poem";

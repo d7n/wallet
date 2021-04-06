@@ -1,1 +1,1 @@
-var mnemonic = "swim eyebrow pledge ensure club sail work satoshi tuna rain sea shrimp";
+var mnemonic = "bring hotel donate ignore barrel urban blade cable notice program awkward toast";

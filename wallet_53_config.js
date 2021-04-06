@@ -1,1 +1,1 @@
-var mnemonic = "trumpet delay order bleak chaos globe moment avoid wrap boss jealous inspire";
+var mnemonic = "cloud cabbage spell stumble calm vicious upper unhappy bulk police garden hungry";

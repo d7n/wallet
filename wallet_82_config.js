@@ -1,1 +1,1 @@
-var mnemonic = "cargo mask flat pledge diary budget stock response forward item cactus almost";
+var mnemonic = "assault wish kick human globe moon myth stamp bread party submit shield";

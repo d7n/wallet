@@ -1,1 +1,1 @@
-var mnemonic = "surround joy matrix detect speak volcano bar need fan fat together veteran";
+var mnemonic = "water popular label fitness recipe street gloom quality boring name space forest";

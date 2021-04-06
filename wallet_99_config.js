@@ -1,1 +1,1 @@
-var mnemonic = "image start symbol attack scare lock surface hedgehog history injury bamboo grit";
+var mnemonic = "logic cricket dial develop scan busy gentle critic magnet normal tent stick";

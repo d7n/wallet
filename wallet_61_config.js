@@ -1,1 +1,1 @@
-var mnemonic = "indoor foam frost denial problem raven inform tip dad race agent coil";
+var mnemonic = "verify donate relief chapter dutch zoo tissue peasant tank ranch sudden grain";

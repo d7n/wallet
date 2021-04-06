@@ -1,1 +1,1 @@
-var mnemonic = "open amazing draft guide total economy river apology usage oven tattoo defense";
+var mnemonic = "figure obey faith faith talent cricket solid dinosaur short lemon about jewel";

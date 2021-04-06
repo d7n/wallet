@@ -1,1 +1,1 @@
-var mnemonic = "time duck general alien dismiss october cute price person friend labor clap";
+var mnemonic = "trust poet busy giraffe nut whisper excuse disagree apology cricket brief across";

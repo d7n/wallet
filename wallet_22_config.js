@@ -1,1 +1,1 @@
-var mnemonic = "accuse avocado spot trim frog twist dinosaur flag culture giggle conduct unveil";
+var mnemonic = "mosquito trouble stool amused load glove jelly odor tribe crash glare sort";

@@ -1,1 +1,1 @@
-var mnemonic = "myself palm elite truth nice spray emotion defy gentle any permit addict";
+var mnemonic = "issue feel alert page away that brain feed arena casual help define";

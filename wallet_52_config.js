@@ -1,1 +1,1 @@
-var mnemonic = "oil cry wedding you comic iron castle attend drastic point zero position";
+var mnemonic = "own focus sea denial phrase artist exotic exact monkey access key century";

@@ -1,1 +1,1 @@
-var mnemonic = "meat flat casual suit shed interest fossil head assist duck bundle winter";
+var mnemonic = "tribe rebuild erosion then few comic acid banana work stairs setup stock";

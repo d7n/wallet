@@ -1,1 +1,1 @@
-var mnemonic = "olympic rate picnic cup favorite pudding eyebrow indicate again clog amused raccoon";
+var mnemonic = "skate title pave vault flash wise grow flame above please system assume";

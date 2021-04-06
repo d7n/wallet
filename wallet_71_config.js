@@ -1,1 +1,1 @@
-var mnemonic = "era banner stadium misery artefact upset time stairs warfare transfer fade jeans";
+var mnemonic = "auction bench train clump deposit buddy speed start mask flush bonus suspect";

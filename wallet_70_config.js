@@ -1,1 +1,1 @@
-var mnemonic = "spirit pull guitar direct oppose never inject split humble tired strategy behind";
+var mnemonic = "rough fiscal census moon twelve obvious noise quiz knock soldier liquid taxi";

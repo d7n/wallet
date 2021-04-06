@@ -1,1 +1,1 @@
-var mnemonic = "axis close robust present toddler syrup cloth walnut employ flag select glide";
+var mnemonic = "tree tunnel medal neck elbow axis suspect jar coast true card recipe";

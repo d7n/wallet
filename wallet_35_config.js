@@ -1,1 +1,1 @@
-var mnemonic = "token trend wide unveil impose tragic universe lend fancy elite leg share";
+var mnemonic = "reflect tornado teach column cloth uphold expand thunder range own acid train";

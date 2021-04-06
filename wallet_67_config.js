@@ -1,1 +1,1 @@
-var mnemonic = "forest idle list offer gentle delay another sketch end scissors entire rural";
+var mnemonic = "clever tissue taxi certain tag agent sword supply shop emerge silly parent";

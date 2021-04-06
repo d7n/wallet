@@ -1,1 +1,1 @@
-var mnemonic = "purse veteran lottery normal engine scissors brown bid afraid parrot mule section";
+var mnemonic = "mirror bullet cigar solve goat split derive ritual labor truck lumber icon";

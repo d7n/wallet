@@ -1,1 +1,1 @@
-var mnemonic = "dance certain wreck blade trap insect surround radar ostrich check minute crisp";
+var mnemonic = "idea pull whisper verb raccoon scheme diagram inject torch ability leg high";

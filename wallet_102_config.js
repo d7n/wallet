@@ -1,1 +1,1 @@
-var mnemonic = "useful fancy hub little panel try host accident crater young kick slow";
+var mnemonic = "easily parade one twenty burden embark list clever element problem physical action";

@@ -1,1 +1,1 @@
-var mnemonic = "echo clump van sudden frown ranch wait tornado network deal present lemon";
+var mnemonic = "design problem giggle lend supreme cradle network easily era pool physical pair";

@@ -1,1 +1,1 @@
-var mnemonic = "culture cube giggle venture mosquito swing fuel park dilemma utility submit fix";
+var mnemonic = "assume forum profit gap nut until emerge brisk crime figure divorce soldier";

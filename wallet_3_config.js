@@ -1,1 +1,1 @@
-var mnemonic = "attend legal retreat monitor envelope enforce powder film quote taxi road pulse";
+var mnemonic = "truck leaf agree elegant negative nut scissors guard silk under unique heart";

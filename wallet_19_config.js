@@ -1,1 +1,1 @@
-var mnemonic = "hobby office fun zoo provide diet shoulder volume hurt trick soul bunker";
+var mnemonic = "idea sudden nominee snap cry leisure tiger arrest smart kitten focus purity";

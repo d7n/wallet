@@ -1,1 +1,1 @@
-var mnemonic = "cube pattern guess area much eternal where carbon loyal trade deer crop";
+var mnemonic = "gadget obey slender staff rigid admit awful beef speak cactus whisper tonight";

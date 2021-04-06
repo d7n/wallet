@@ -1,1 +1,1 @@
-var mnemonic = "latin sniff yellow board rebel exact ramp relax pen honey demise gym";
+var mnemonic = "fork cake yard traffic toddler giraffe sell city chest click rocket gorilla";

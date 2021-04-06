@@ -1,1 +1,1 @@
-var mnemonic = "drive flush foster orphan scatter cloud range uniform crack cake wait beyond";
+var mnemonic = "curtain trigger reward climb expect style egg turn velvet lava all firm";

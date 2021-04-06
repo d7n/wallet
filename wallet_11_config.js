@@ -1,1 +1,1 @@
-var mnemonic = "rhythm camera dignity cart describe arrange boost photo lemon paddle napkin royal";
+var mnemonic = "whip dance hint rubber favorite patrol disorder reflect good bamboo weapon cool";

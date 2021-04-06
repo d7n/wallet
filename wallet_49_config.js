@@ -1,1 +1,1 @@
-var mnemonic = "erase spin lion solve bag powder shell design enter crack upset holiday";
+var mnemonic = "weekend jeans ramp game poem success desk fiscal bright favorite fat language";

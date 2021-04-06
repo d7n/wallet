@@ -1,1 +1,1 @@
-var mnemonic = "comfort clay unhappy turn provide number pave above spice vanish wet memory";
+var mnemonic = "arch enforce decide party sing total spirit axis rebuild slight dove cannon";

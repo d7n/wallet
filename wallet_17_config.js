@@ -1,1 +1,1 @@
-var mnemonic = "announce together steel human fly drink multiply resemble since meadow machine ivory";
+var mnemonic = "labor ensure corn unveil dose flush atom bread quantum hockey soap gun";

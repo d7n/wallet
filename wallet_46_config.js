@@ -1,1 +1,1 @@
-var mnemonic = "fringe install inhale blur rapid round donate original couch vivid sudden outer";
+var mnemonic = "business desert sea setup canvas friend remove peanut spin mango ordinary fiction";

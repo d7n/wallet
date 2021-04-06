@@ -1,1 +1,1 @@
-var mnemonic = "unlock piano boil polar crater try situate acoustic simple hen depth cook";
+var mnemonic = "tip must detect orient laundry shiver forward diesel possible ethics casino cook";

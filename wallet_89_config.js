@@ -1,1 +1,1 @@
-var mnemonic = "gain maze blossom cash claim crack thing lumber merit lucky garment found";
+var mnemonic = "fame episode blanket absent rabbit like clutch input very entry trade submit";

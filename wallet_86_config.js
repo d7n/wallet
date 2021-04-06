@@ -1,1 +1,1 @@
-var mnemonic = "blood young aspect wage shield orphan genius grant someone habit flower say";
+var mnemonic = "dinosaur benefit liar retreat foil sound wheel tornado utility actress income super";

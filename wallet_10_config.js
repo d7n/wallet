@@ -1,1 +1,1 @@
-var mnemonic = "disease shy skill loan melody motion medal climb calm nest common bonus";
+var mnemonic = "dentist claw rose borrow cheese during between park leisure fame traffic fossil";

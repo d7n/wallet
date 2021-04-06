@@ -1,1 +1,1 @@
-var mnemonic = "drink uniform honey gate soldier jelly scare asthma fly novel stay inflict";
+var mnemonic = "breeze earth west ill include fortune prize moral poem iron until spread";

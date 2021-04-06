@@ -1,1 +1,1 @@
-var mnemonic = "train project false deer tank inform second crush swamp abuse price harvest";
+var mnemonic = "turkey clown side spot ceiling worry unfair wait first trap climb divorce";

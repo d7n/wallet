@@ -1,1 +1,1 @@
-var mnemonic = "emotion badge outer ancient mandate peanut volume relief pig double close squeeze";
+var mnemonic = "slogan real wolf save fire strong benefit fan morning prefer balance second";

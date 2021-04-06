@@ -1,1 +1,1 @@
-var mnemonic = "vintage enact carpet honey melt concert frog strong spot honey scare film";
+var mnemonic = "earn fatal bundle session hope usual wet wish repeat prevent cupboard boy";

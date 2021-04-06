@@ -1,1 +1,1 @@
-var mnemonic = "lobster one better scrub have fold priority glory divorce cinnamon venue execute";
+var mnemonic = "isolate mountain code clap amazing prize vacant chalk safe edit sponsor cart";

@@ -1,1 +1,1 @@
-var mnemonic = "blame inspire awesome tower person valid apple buffalo elephant boost horse vibrant";
+var mnemonic = "mushroom sibling online flag heavy cheese wonder logic marriage exhaust tumble chimney";

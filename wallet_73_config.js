@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon fitness confirm desert age axis denial draw pledge alert argue carbon";
+var mnemonic = "script dice buddy vacuum donate typical shock length fortune horn raise daughter";

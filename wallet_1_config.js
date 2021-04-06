@@ -1,1 +1,1 @@
-var mnemonic = "fish alone cheap naive subject alone agent toss enter outdoor borrow accuse";
+var mnemonic = "direct stomach tongue arrest elder glimpse nest crew onion moment video cousin";

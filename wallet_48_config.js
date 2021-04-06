@@ -1,1 +1,1 @@
-var mnemonic = "brain speed latin lens daring dune radar pepper hazard parade bracket coil";
+var mnemonic = "pool indicate civil stove canoe trial pigeon phrase evolve program chapter feel";

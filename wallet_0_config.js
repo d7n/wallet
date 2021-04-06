@@ -1,1 +1,1 @@
-var mnemonic = "daring heavy protect predict exhaust aim vague wall laptop head average ivory";
+var mnemonic = "predict normal empower bubble adapt uphold whip shrug about dust endorse orange";

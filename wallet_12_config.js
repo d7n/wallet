@@ -1,1 +1,1 @@
-var mnemonic = "end coast skate aerobic inform artefact prepare senior audit neither chuckle subway";
+var mnemonic = "trust biology seek crash social swarm deal face man discover wide object";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin bonus stone travel power mercy resemble economy special edit brain tunnel";
+var mnemonic = "neglect couch sea section amused bread tennis cream parade scorpion glad warfare";

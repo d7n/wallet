@@ -1,1 +1,1 @@
-var mnemonic = "six curious dish mutual wonder cherry harvest medal ginger wolf place inhale";
+var mnemonic = "fiction recipe quality second bless wool host oval auto breeze dune glad";

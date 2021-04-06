@@ -1,1 +1,1 @@
-var mnemonic = "wrist brown width pluck pepper fatigue term indoor desert outdoor jeans ahead";
+var mnemonic = "flash enemy foot express tragic napkin enact side lawn topic sand sample";

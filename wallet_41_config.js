@@ -1,1 +1,1 @@
-var mnemonic = "original raise buzz motor legend connect laundry swamp wide mask mean boring";
+var mnemonic = "enough essence dust sugar buffalo half delay black device nature walnut parent";

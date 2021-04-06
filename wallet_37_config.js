@@ -1,1 +1,1 @@
-var mnemonic = "agree repeat doctor shuffle enough photo amateur apology fluid exile ladder dragon";
+var mnemonic = "globe tuition few pulp glide stool state satisfy train goose trap month";

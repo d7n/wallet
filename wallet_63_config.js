@@ -1,1 +1,1 @@
-var mnemonic = "improve client machine neither bench behind fat few shy twist daring sense";
+var mnemonic = "spirit shift fiction over actress person once foil scene mansion leave feel";

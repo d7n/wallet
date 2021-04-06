@@ -1,1 +1,1 @@
-var mnemonic = "that trophy chaos stove gesture emotion range hundred soup boy purity punch";
+var mnemonic = "lizard myself reward power rookie inject front air smile weasel differ surface";
