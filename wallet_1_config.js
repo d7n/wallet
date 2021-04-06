@@ -1,1 +1,1 @@
-var mnemonic = "concert kingdom very keep scissors hub kiwi analyst another relax assist degree";
+var mnemonic = "social strike trap cloth hollow luxury address copy brass behave walk inquiry";

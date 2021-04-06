@@ -1,1 +1,1 @@
-var mnemonic = "ill galaxy radio destroy step tomorrow horn aerobic brain viable visual best";
+var mnemonic = "cross famous present negative winner above rabbit stone drum street until crowd";

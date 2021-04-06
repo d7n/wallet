@@ -1,1 +1,1 @@
-var mnemonic = "all afraid hello myself stay audit kitten six oppose shift equal exhibit";
+var mnemonic = "earth picture repair write grow ball reduce seek section game muscle ginger";

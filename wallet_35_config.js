@@ -1,1 +1,1 @@
-var mnemonic = "daughter silent mistake inflict rare strike south diamond humble choose swamp daring";
+var mnemonic = "improve juice oyster april elite oblige wine curious leave owner satoshi dentist";

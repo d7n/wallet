@@ -1,1 +1,1 @@
-var mnemonic = "excite carbon barely agree open liar menu humble decorate swamp feed chase";
+var mnemonic = "priority defense follow gadget middle domain dove gap slogan wink lift remove";

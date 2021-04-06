@@ -1,1 +1,1 @@
-var mnemonic = "weather improve car envelope owner oppose aspect weather expire legend bean innocent";
+var mnemonic = "mix soda indicate sunset act parade match dutch case change foil dance";

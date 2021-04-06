@@ -1,1 +1,1 @@
-var mnemonic = "betray frozen tomorrow spot employ seed into cruise vote stick enough laugh";
+var mnemonic = "asthma lonely inner tilt address kiss coral silver share west snack suggest";

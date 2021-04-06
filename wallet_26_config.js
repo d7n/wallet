@@ -1,1 +1,1 @@
-var mnemonic = "bronze funny agent pig truth south tiny marine innocent crash saddle advance";
+var mnemonic = "brave smile myself slam net fantasy math prize mean seminar general buzz";

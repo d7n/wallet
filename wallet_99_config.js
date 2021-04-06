@@ -1,1 +1,1 @@
-var mnemonic = "potato disease senior attitude tone inspire rather alcohol stool reveal aim speed";
+var mnemonic = "flip behind drum payment express trip long vital upper fit actress baby";

@@ -1,1 +1,1 @@
-var mnemonic = "estate tackle sea mouse slender buddy food exclude idea escape announce margin";
+var mnemonic = "fault large buffalo vintage anxiety recipe series caught mad sauce crunch appear";

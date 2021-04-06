@@ -1,1 +1,1 @@
-var mnemonic = "quality much zero grab muffin garage daring into bone ordinary control chest";
+var mnemonic = "deer pilot slender sleep bag hawk umbrella detail neck pepper away nose";

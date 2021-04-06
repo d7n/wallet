@@ -1,1 +1,1 @@
-var mnemonic = "design pen text nominee duty foil armor tenant lucky barrel primary noise";
+var mnemonic = "divert enlist bachelor survey curtain swim alien sample tackle mirror round disagree";

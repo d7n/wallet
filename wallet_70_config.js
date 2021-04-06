@@ -1,1 +1,1 @@
-var mnemonic = "strategy calm february require begin ask multiply verify zebra jaguar bonus tribe";
+var mnemonic = "together stay rotate void mind client attitude wood reflect blossom rude present";

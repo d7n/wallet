@@ -1,1 +1,1 @@
-var mnemonic = "body border limb sing kiwi copper earth excess midnight hello shine involve";
+var mnemonic = "relief couch ability double account saddle pet depend future elevator secret tragic";

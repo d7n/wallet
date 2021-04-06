@@ -1,1 +1,1 @@
-var mnemonic = "friend grant glad tumble spare strike cake chaos visit grain green nose";
+var mnemonic = "jeans panic flock favorite current fold absurd provide observe tool vast ramp";

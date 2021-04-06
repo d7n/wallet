@@ -1,1 +1,1 @@
-var mnemonic = "robot fatal wonder kidney slide choose license bone response right brother order";
+var mnemonic = "height jewel retreat gloom fit mean cruel paddle usual glue swim sad";

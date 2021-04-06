@@ -1,1 +1,1 @@
-var mnemonic = "surround shoulder awful around become devote wave deal sphere domain adjust miracle";
+var mnemonic = "medal initial pledge spring magnet history dirt slender bean state thought joke";

@@ -1,1 +1,1 @@
-var mnemonic = "camera news cram pupil tissue twenty domain shove autumn silent royal whip";
+var mnemonic = "reunion chaos subject build neither coyote pave easily industry raw dash lemon";

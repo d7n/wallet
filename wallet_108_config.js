@@ -1,1 +1,1 @@
-var mnemonic = "sock position bullet catalog exile sketch session body renew power tiger shine";
+var mnemonic = "person ski relax normal gentle mule cost train off shoulder movie chair";

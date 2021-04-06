@@ -1,1 +1,1 @@
-var mnemonic = "wing account device ramp sketch destroy harvest sword hurt soap talent gesture";
+var mnemonic = "marble inspire burden rubber liar poverty lecture crash math busy seat immune";

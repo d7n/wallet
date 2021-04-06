@@ -1,1 +1,1 @@
-var mnemonic = "fiber route earn thing always wear silent useful flavor keep nose expose";
+var mnemonic = "health digital verify repair install rival peasant harvest surround draw because unfold";

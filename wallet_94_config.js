@@ -1,1 +1,1 @@
-var mnemonic = "bread poem swing dentist fame prosper minimum bundle display speed other dismiss";
+var mnemonic = "elephant board wire sentence buyer clog world gap enrich wife behave tank";

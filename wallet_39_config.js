@@ -1,1 +1,1 @@
-var mnemonic = "furnace gasp permit clarify please arm comic hint tank cargo neglect exclude";
+var mnemonic = "expect speak argue north latin actor multiply enforce tuition virus welcome language";

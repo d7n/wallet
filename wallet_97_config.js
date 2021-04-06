@@ -1,1 +1,1 @@
-var mnemonic = "steak same hawk future disagree piece mask outside loud manual labor wave";
+var mnemonic = "whisper latin twin gap goddess glow slush neck sponsor disease fade huge";

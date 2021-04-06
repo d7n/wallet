@@ -1,1 +1,1 @@
-var mnemonic = "puzzle expire library rose peace arctic essence disease below outside spawn measure";
+var mnemonic = "garden genuine seminar wish consider crawl virus property female knife hand slab";

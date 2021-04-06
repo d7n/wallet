@@ -1,1 +1,1 @@
-var mnemonic = "bind oven habit educate wrist say adjust winter river error recipe present";
+var mnemonic = "plastic ivory scorpion alter harsh decline decide topic clever library baby fantasy";

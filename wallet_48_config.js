@@ -1,1 +1,1 @@
-var mnemonic = "impulse left half ready fat there code suit tiger witness century real";
+var mnemonic = "manage aisle puzzle topple lizard lunar aisle lecture normal chunk soup remain";

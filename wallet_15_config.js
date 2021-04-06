@@ -1,1 +1,1 @@
-var mnemonic = "swap want produce security trick increase split limb soda oyster dolphin exact";
+var mnemonic = "elbow normal smart poet umbrella undo fine such note milk foam riot";

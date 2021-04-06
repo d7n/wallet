@@ -1,1 +1,1 @@
-var mnemonic = "voyage inhale bunker initial math reunion tail strike capable gallery cluster humor";
+var mnemonic = "oppose inject now word have flight such artefact floor know lift together";

@@ -1,1 +1,1 @@
-var mnemonic = "peace frog roof cube jungle blue mad nature bus always prefer raccoon";
+var mnemonic = "sample escape foster satoshi exercise rate salmon speak frozen twenty alley coral";

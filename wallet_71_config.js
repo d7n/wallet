@@ -1,1 +1,1 @@
-var mnemonic = "polar carpet roast figure spy sentence elephant sibling wisdom blind volcano deal";
+var mnemonic = "genuine afford live vault armed mother enforce ethics gentle already keen spider";

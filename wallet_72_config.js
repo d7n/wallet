@@ -1,1 +1,1 @@
-var mnemonic = "original point monster assume catch mobile bar ivory across proof cheap couple";
+var mnemonic = "catalog arrange gaze hair tide emerge puzzle roof voyage host habit metal";

@@ -1,1 +1,1 @@
-var mnemonic = "steak nothing dash mandate immense crack thrive quarter jump decade calm cost";
+var mnemonic = "dismiss unaware chalk fan nerve prefer view soap unhappy depart dog adapt";

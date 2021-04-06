@@ -1,1 +1,1 @@
-var mnemonic = "extra security address satisfy face plate husband volume museum destroy sight goose";
+var mnemonic = "cushion series summer rice play jungle airport now judge luxury crucial tackle";

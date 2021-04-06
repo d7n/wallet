@@ -1,1 +1,1 @@
-var mnemonic = "patient access such glue skate tenant body dress kid emerge deposit olive";
+var mnemonic = "mechanic salmon uncover hen course odor brother caught satoshi mammal initial inherit";

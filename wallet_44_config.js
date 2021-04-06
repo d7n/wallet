@@ -1,1 +1,1 @@
-var mnemonic = "prize rare thank erosion camp holiday tag debris north decide sister muscle";
+var mnemonic = "clean reflect stay melody surface need inherit into reform face fall useful";

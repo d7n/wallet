@@ -1,1 +1,1 @@
-var mnemonic = "bleak unlock security safe omit route forget hunt fluid cause category candy";
+var mnemonic = "enroll glow library burger juice loop few flock gorilla tackle sound decrease";

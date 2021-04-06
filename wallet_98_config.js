@@ -1,1 +1,1 @@
-var mnemonic = "zebra demand warrior belt purity moon spend scrap timber display three heart";
+var mnemonic = "tackle office miss term movie narrow turn tape biology tell elbow bus";

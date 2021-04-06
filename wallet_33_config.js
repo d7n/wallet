@@ -1,1 +1,1 @@
-var mnemonic = "couch assault trash hawk moon fiber resemble motor field arm tooth oven";
+var mnemonic = "pyramid want diagram spoon cherry tide human steel risk client witness truck";

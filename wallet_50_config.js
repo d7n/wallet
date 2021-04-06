@@ -1,1 +1,1 @@
-var mnemonic = "jaguar twice toy plastic kind decide design right style effort knock until";
+var mnemonic = "sniff banner damp example observe tornado hair agent giant sort insect aim";

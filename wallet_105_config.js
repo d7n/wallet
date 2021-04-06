@@ -1,1 +1,1 @@
-var mnemonic = "analyst evoke company creek vacuum clog will web add hip sock eyebrow";
+var mnemonic = "shuffle bind planet ecology eagle seed flight mesh noise subway video cigar";

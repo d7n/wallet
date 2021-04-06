@@ -1,1 +1,1 @@
-var mnemonic = "educate sort grief wall mixture distance limb bus merry tomato leaf mechanic";
+var mnemonic = "brave divide leopard food know spike south bottom switch female minor dance";

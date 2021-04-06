@@ -1,1 +1,1 @@
-var mnemonic = "knee sphere morning feel tomorrow know glide cactus great east cherry embody";
+var mnemonic = "guess father sister blush erase head visual tower benefit hope thing manual";

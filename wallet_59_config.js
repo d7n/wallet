@@ -1,1 +1,1 @@
-var mnemonic = "secret strong select security zoo monkey citizen paper battle legal season page";
+var mnemonic = "tonight together brass various jelly engage dutch mosquito scrub glove outer term";

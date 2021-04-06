@@ -1,1 +1,1 @@
-var mnemonic = "enroll firm pony shove symptom clay noise fantasy market trash outdoor science";
+var mnemonic = "stool gun theory popular grief rubber rug basket someone eyebrow tunnel child";

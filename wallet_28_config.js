@@ -1,1 +1,1 @@
-var mnemonic = "room excite hair fiscal floor ramp inside game bench decrease audit room";
+var mnemonic = "bird live skate dance language act monitor industry venture firm kite online";

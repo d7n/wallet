@@ -1,1 +1,1 @@
-var mnemonic = "scrap earn wasp rude join vague cream pink aunt regret pool grape";
+var mnemonic = "pencil rebel pool negative axis lake risk buddy club reduce clump wealth";

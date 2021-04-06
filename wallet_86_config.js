@@ -1,1 +1,1 @@
-var mnemonic = "damp hole leg whale mesh toward blanket envelope old spawn aisle when";
+var mnemonic = "shop focus lady phrase chuckle melody pet cancel disease resource member limit";

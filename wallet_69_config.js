@@ -1,1 +1,1 @@
-var mnemonic = "stuff cream divide stamp raise suffer nest surface prosper sausage tissue child";
+var mnemonic = "exist random rebuild embody future agent link develop punch potato wink dirt";

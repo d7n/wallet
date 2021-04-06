@@ -1,1 +1,1 @@
-var mnemonic = "debate antenna enable order health grace gallery multiply aunt refuse wise lunar";
+var mnemonic = "guard wrestle maple bus shiver scrub topple brick exist evoke consider address";

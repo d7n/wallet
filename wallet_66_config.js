@@ -1,1 +1,1 @@
-var mnemonic = "cheap enough easily segment guard carry crunch evoke mean guitar keen annual";
+var mnemonic = "garage swap bar traffic clip ball amount expect visual royal congress nothing";

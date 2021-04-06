@@ -1,1 +1,1 @@
-var mnemonic = "parent doll address next acoustic space obtain silly artist update position fault";
+var mnemonic = "snack crater champion success juice grunt pattern zebra horse bench day market";

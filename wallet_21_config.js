@@ -1,1 +1,1 @@
-var mnemonic = "rather cargo vivid three mushroom salon boat cram kit anchor farm time";
+var mnemonic = "earn town execute park pulp tooth orphan autumn game day abuse detect";

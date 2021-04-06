@@ -1,1 +1,1 @@
-var mnemonic = "confirm submit album off remain pottery stone dress guilt taxi cube practice";
+var mnemonic = "anxiety tape correct yard heart gospel shy exotic another wedding twist insect";

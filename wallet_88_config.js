@@ -1,1 +1,1 @@
-var mnemonic = "diary code frown crush engage clean state race offer fork grace horror";
+var mnemonic = "album subway fossil defy pistol coral ginger leopard learn crawl budget regular";

@@ -1,1 +1,1 @@
-var mnemonic = "such private easy bind tent tourist identify vicious menu below web luggage";
+var mnemonic = "govern desk strong civil negative test tongue raise city virus shoe basic";

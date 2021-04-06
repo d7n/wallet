@@ -1,1 +1,1 @@
-var mnemonic = "surprise budget punch cabin unfair lesson future runway amount dash subject base";
+var mnemonic = "crater basic foam meat find female jump very universe eagle found worry";

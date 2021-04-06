@@ -1,1 +1,1 @@
-var mnemonic = "trigger loop random swarm bleak hotel harbor fiction axis night then embody";
+var mnemonic = "picture neglect average craft ability crime circle insect add upon call brass";

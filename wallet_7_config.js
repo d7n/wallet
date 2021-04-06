@@ -1,1 +1,1 @@
-var mnemonic = "wave rare wear alert elite stock regret bacon cabbage ridge slam shuffle";
+var mnemonic = "second air fetch beyond robot unhappy sound luggage sentence hope emotion bright";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle melody feel gloom near insane blouse assume trigger replace snap sort";
+var mnemonic = "beyond shrimp farm marriage globe mammal traffic struggle property bring craft admit";

@@ -1,1 +1,1 @@
-var mnemonic = "property trash brand yellow sound seminar pause unveil file circle false ball";
+var mnemonic = "royal property spot conduct frown staff own accuse coyote satisfy tape sausage";

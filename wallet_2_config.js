@@ -1,1 +1,1 @@
-var mnemonic = "index mutual hedgehog rescue outside cable thumb orange appear relief ride cross";
+var mnemonic = "thank distance scan universe napkin post pattern verify there still reduce bicycle";

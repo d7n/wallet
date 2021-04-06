@@ -1,1 +1,1 @@
-var mnemonic = "leopard harvest dune chaos giggle loyal energy unveil robot hope civil tip";
+var mnemonic = "clerk allow clay bundle nephew awful supply light raw tourist table family";

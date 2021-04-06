@@ -1,1 +1,1 @@
-var mnemonic = "harvest lottery point upset retire wolf start cost siren piano bicycle tissue";
+var mnemonic = "country busy axis judge arch thumb segment arch draft code apart couple";

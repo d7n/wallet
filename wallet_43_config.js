@@ -1,1 +1,1 @@
-var mnemonic = "cover nuclear onion spider begin renew breeze glad today tennis snow ordinary";
+var mnemonic = "tourist drive monster copy bottom uniform term divert sunset muscle citizen sentence";

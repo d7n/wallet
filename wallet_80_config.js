@@ -1,1 +1,1 @@
-var mnemonic = "armed equal relief shy speak lunar earn symbol pitch brush evil spider";
+var mnemonic = "matrix today extend duty mixed reflect tenant film soda laptop must emerge";

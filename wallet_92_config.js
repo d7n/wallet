@@ -1,1 +1,1 @@
-var mnemonic = "midnight polar senior own bus myself novel month clip amazing slam spell";
+var mnemonic = "glance inmate prepare theory crane away will program country potato youth pause";

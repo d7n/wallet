@@ -1,1 +1,1 @@
-var mnemonic = "dolphin major stomach tray cruel crane actress burger vibrant imitate garment gaze";
+var mnemonic = "doll author oblige state error caution chaos wood clever victory quality mansion";

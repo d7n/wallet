@@ -1,1 +1,1 @@
-var mnemonic = "snake sustain couch lazy horn hungry clock square three keep major tomato";
+var mnemonic = "unable coin flight infant gallery tourist repeat invite wave subject minute mammal";

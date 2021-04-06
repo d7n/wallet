@@ -1,1 +1,1 @@
-var mnemonic = "armor skate border atom disease kiss kangaroo devote couple table soup dinosaur";
+var mnemonic = "jump desert fringe very thumb gentle rebuild doll stomach capable believe endless";

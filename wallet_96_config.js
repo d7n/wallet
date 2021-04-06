@@ -1,1 +1,1 @@
-var mnemonic = "day banner seminar much youth brush crisp ice derive salmon rubber once";
+var mnemonic = "awkward possible casino lens hope fox young subway buddy traffic erode drill";

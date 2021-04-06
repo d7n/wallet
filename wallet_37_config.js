@@ -1,1 +1,1 @@
-var mnemonic = "maid crash napkin visual need promote leader veteran when day story bronze";
+var mnemonic = "hire culture fiscal message update slight absorb subway fame furnace child ostrich";

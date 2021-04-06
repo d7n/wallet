@@ -1,1 +1,1 @@
-var mnemonic = "symptom spatial genuine village wine draw great hockey flee hurdle coast toward";
+var mnemonic = "culture sugar license rural fix sing dizzy invite slogan absorb swamp thought";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz old era topic fruit marine festival erase stereo harsh unfold dream";
+var mnemonic = "day century average fame choice smile want copy bronze trial hotel deny";

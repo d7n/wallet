@@ -1,1 +1,1 @@
-var mnemonic = "exercise cabbage artwork vault radar supreme afraid what unfold mix rude raven";
+var mnemonic = "merry badge stage faith struggle tape goddess eagle head describe inside farm";

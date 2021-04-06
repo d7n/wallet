@@ -1,1 +1,1 @@
-var mnemonic = "thought gas reunion access toward rather soul space alter frame barely defy";
+var mnemonic = "prepare super rose delay deposit sort happy move room category mask utility";

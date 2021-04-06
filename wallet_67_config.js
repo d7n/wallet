@@ -1,1 +1,1 @@
-var mnemonic = "cliff dad salute dismiss disagree vessel skirt ask error define flame bus";
+var mnemonic = "volcano portion copper carbon sister clock fabric fuel produce crew ship adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "congress glass chicken depend luxury ensure bomb wrong luxury avoid soul session";
+var mnemonic = "wood remain struggle slim woman true empty proud session tooth suspect decline";

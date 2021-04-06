@@ -1,1 +1,1 @@
-var mnemonic = "busy social adjust enter story potato latin vast float first next miracle";
+var mnemonic = "voyage canal purse divorce legal need marble snap anchor place jump range";

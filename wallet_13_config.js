@@ -1,1 +1,1 @@
-var mnemonic = "orient hour close video episode number atom twenty chimney play mango machine";
+var mnemonic = "effort absurd lady series float wish grocery legend main hedgehog lawn fatal";

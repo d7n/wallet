@@ -1,1 +1,1 @@
-var mnemonic = "advice upon crew swallow march doll dinosaur bag dilemma find action click";
+var mnemonic = "struggle private away dirt chief thank mushroom debris flush mixed child stable";

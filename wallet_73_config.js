@@ -1,1 +1,1 @@
-var mnemonic = "cricket huge copper company upon budget grocery coffee alley favorite pass butter";
+var mnemonic = "boss goddess bread resource clever across attitude ramp bone income shine recipe";

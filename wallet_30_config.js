@@ -1,1 +1,1 @@
-var mnemonic = "catch snap this remain toast faint marriage help bracket finger hip physical";
+var mnemonic = "charge soft flavor door remind margin lizard violin visa security wine admit";

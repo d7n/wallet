@@ -1,1 +1,1 @@
-var mnemonic = "cruise country powder ginger appear horn earth distance push escape submit figure";
+var mnemonic = "grape owner dirt shoot flight seminar fit clean exit shoot fine shrug";

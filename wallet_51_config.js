@@ -1,1 +1,1 @@
-var mnemonic = "vast transfer pride excite nothing cricket inspire web awake coyote snow blouse";
+var mnemonic = "whale announce illness snow rather desk prison draw frame elite allow junior";

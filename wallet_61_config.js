@@ -1,1 +1,1 @@
-var mnemonic = "paddle picnic chaos allow jeans rotate extra there decline now bid lemon";
+var mnemonic = "when digital near series repeat tool series crew dinosaur panic boost soccer";

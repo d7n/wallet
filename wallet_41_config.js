@@ -1,1 +1,1 @@
-var mnemonic = "armed barely remember avocado trim ice visa crucial mother poverty assist punch";
+var mnemonic = "orange october normal spare right oven mobile toddler movie hobby survey derive";

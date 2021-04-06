@@ -1,1 +1,1 @@
-var mnemonic = "cloud vacuum talent response annual enroll broccoli oppose feed weird boat lonely";
+var mnemonic = "marble swear two expose load venture drastic shop mango adjust kingdom ridge";

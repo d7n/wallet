@@ -1,1 +1,1 @@
-var mnemonic = "flock burden valid cotton economy soon pilot rescue there boring nuclear exact";
+var mnemonic = "void improve junior fatal alien trouble window love cage old piano hello";

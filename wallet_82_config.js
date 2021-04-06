@@ -1,1 +1,1 @@
-var mnemonic = "faint banana reduce unhappy estate flame amateur caution goat tone sick book";
+var mnemonic = "syrup useful ranch chat program salmon mean episode primary found valid often";

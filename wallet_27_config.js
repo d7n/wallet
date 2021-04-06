@@ -1,1 +1,1 @@
-var mnemonic = "omit scissors dilemma oxygen fatigue glass cycle fiction alert warrior suffer offer";
+var mnemonic = "maple grow blossom shrimp upgrade essence shuffle black tank great uncle arctic";

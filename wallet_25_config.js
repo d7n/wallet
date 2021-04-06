@@ -1,1 +1,1 @@
-var mnemonic = "monitor chimney fork shrimp curve join report high journey edit december decrease";
+var mnemonic = "toe capital regret domain kind fuel pulp middle toilet apology strategy badge";
