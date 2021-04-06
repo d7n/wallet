@@ -1,1 +1,1 @@
-var mnemonic = "obtain infant fever slender trip great increase dawn claw age horn assault";
+var mnemonic = "outdoor cover april cake cereal duty sort object gate around bargain bid";

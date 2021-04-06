@@ -1,1 +1,1 @@
-var mnemonic = "two together mistake radio twist course donate above comic regret toe hamster";
+var mnemonic = "evil dirt budget struggle gentle dad one wonder pave tank differ trip";

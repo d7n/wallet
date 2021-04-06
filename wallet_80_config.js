@@ -1,1 +1,1 @@
-var mnemonic = "grief grief youth hazard medal rate hawk category clog clap govern nice";
+var mnemonic = "fly sting zebra school exact when hover thought link habit proud track";

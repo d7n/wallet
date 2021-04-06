@@ -1,1 +1,1 @@
-var mnemonic = "high sustain jaguar punch amount logic pigeon exercise galaxy talent oppose soda";
+var mnemonic = "what exhibit wonder spoil twice inside nature swing thought melt robust there";

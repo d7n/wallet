@@ -1,1 +1,1 @@
-var mnemonic = "term tooth lift wolf festival seed staff gauge gather point journey cliff";
+var mnemonic = "require erupt vital abstract mango tumble direct lunar cycle auction there snake";

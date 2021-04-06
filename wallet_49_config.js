@@ -1,1 +1,1 @@
-var mnemonic = "hole collect snake invite act bullet comic kiss hard want avoid number";
+var mnemonic = "strategy bus physical myth accuse drama flavor mercy present easily fortune unfold";

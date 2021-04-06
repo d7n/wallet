@@ -1,1 +1,1 @@
-var mnemonic = "source nut north solve bamboo spy bitter clean tired bonus family error";
+var mnemonic = "cube crawl ski pet dilemma slot draft wheat sauce know way long";

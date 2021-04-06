@@ -1,1 +1,1 @@
-var mnemonic = "clerk measure latin sauce base notable wheel bamboo chunk body song garden";
+var mnemonic = "kite shaft often walk outside way cup then enough sting organ alarm";

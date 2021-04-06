@@ -1,1 +1,1 @@
-var mnemonic = "immune verb digital curtain label acquire perfect promote august sibling blast cabbage";
+var mnemonic = "seminar farm forest upgrade oak neutral fog unlock proud output nut sign";

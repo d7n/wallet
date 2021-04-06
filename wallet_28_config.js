@@ -1,1 +1,1 @@
-var mnemonic = "govern any moment lake embody fantasy finish decorate insect solution blood brown";
+var mnemonic = "people memory huge alone source oxygen escape find pretty evoke blouse message";

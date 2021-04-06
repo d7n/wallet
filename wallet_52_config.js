@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur inside matrix step cabin make fatigue margin height argue jealous swap";
+var mnemonic = "sound leave tomorrow mail file wasp warfare salmon lazy chuckle print quality";

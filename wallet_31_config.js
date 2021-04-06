@@ -1,1 +1,1 @@
-var mnemonic = "tree myth rescue mutual girl salmon talk fury gate flame demise mean";
+var mnemonic = "purse useful welcome sea reveal vast opinion version rack warrior hen obey";

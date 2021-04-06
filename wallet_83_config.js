@@ -1,1 +1,1 @@
-var mnemonic = "knock giant winner casual addict festival review enrich reflect wash theory client";
+var mnemonic = "ask unfair resource acid clock already bronze direct sausage wave gasp rival";

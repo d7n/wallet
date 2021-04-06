@@ -1,1 +1,1 @@
-var mnemonic = "tell pottery world mango cotton icon crater mouse slice spice any move";
+var mnemonic = "smoke smoke toe easily yellow swallow beach ostrich verify case frost drink";

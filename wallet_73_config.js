@@ -1,1 +1,1 @@
-var mnemonic = "duty jaguar viable sniff deal wrestle artwork muscle business cruel host upgrade";
+var mnemonic = "dilemma season caught lumber power bone equal throw indoor language rigid diary";

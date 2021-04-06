@@ -1,1 +1,1 @@
-var mnemonic = "board thumb unusual hold bench food answer make second evoke alley actual";
+var mnemonic = "step magic beauty leaf maple school renew unusual child kite bunker spoil";

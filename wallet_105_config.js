@@ -1,1 +1,1 @@
-var mnemonic = "razor top buffalo change orbit remove elephant timber noble injury answer spring";
+var mnemonic = "slide cart raise plug lawn shop leave afraid avoid despair pond rare";

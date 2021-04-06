@@ -1,1 +1,1 @@
-var mnemonic = "surge quit later panda marriage ticket erupt kiwi switch exhibit chronic announce";
+var mnemonic = "wine trap divide fire hospital tuition until host whale flame amazing ripple";

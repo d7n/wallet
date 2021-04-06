@@ -1,1 +1,1 @@
-var mnemonic = "wool pledge clock slam advance mail luggage copy high cargo expect bag";
+var mnemonic = "detect increase hard share ritual reward quarter citizen purse liquid feed spot";

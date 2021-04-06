@@ -1,1 +1,1 @@
-var mnemonic = "pigeon lawsuit over canal harvest diary true latin wrong release slender hamster";
+var mnemonic = "dress isolate small song state pepper rate raw injury dad twelve inhale";

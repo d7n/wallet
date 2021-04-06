@@ -1,1 +1,1 @@
-var mnemonic = "jump arrive narrow parrot harsh enlist foot dog coin abstract sniff nephew";
+var mnemonic = "easily space one fix hedgehog above tissue leader tunnel adjust advice glass";

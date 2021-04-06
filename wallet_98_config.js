@@ -1,1 +1,1 @@
-var mnemonic = "coyote panel antenna vocal imitate bar runway amazing kiwi grocery excess salmon";
+var mnemonic = "erupt glance harvest latin neither fog crazy film ship scene patient such";

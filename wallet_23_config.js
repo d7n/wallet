@@ -1,1 +1,1 @@
-var mnemonic = "census afraid trophy shaft flush enhance buddy inquiry viable jelly cloud fragile";
+var mnemonic = "palm cook trial scan struggle lock valley cat possible dumb detect leg";

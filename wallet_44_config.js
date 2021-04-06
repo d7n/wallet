@@ -1,1 +1,1 @@
-var mnemonic = "essence shield cabbage beach once culture pluck elder excuse dune dance inherit";
+var mnemonic = "hospital agent quiz master card mechanic welcome drift latin human blast audit";

@@ -1,1 +1,1 @@
-var mnemonic = "riot season infant adapt song build toward neck spatial city leisure taste";
+var mnemonic = "urban remain neutral tired way final husband theory milk huge cat craft";

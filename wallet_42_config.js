@@ -1,1 +1,1 @@
-var mnemonic = "square hip play sea alien phrase pause nephew famous tomato glue fortune";
+var mnemonic = "into dune milk unlock split funny swallow boss wrist release heavy fit";

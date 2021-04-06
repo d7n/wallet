@@ -1,1 +1,1 @@
-var mnemonic = "immune drip reopen diesel member alarm gadget angle icon name stick sorry";
+var mnemonic = "farm spatial chuckle figure talent shell casino expose casual badge neck struggle";

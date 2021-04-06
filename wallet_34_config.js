@@ -1,1 +1,1 @@
-var mnemonic = "apart novel nasty topic decline legal clutch clerk science hundred have slow";
+var mnemonic = "lottery faith wasp shuffle twelve choice treat unknown wage sunset spike long";

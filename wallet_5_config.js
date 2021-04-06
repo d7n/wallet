@@ -1,1 +1,1 @@
-var mnemonic = "spatial must treat together lens giant mixed faith village seat crane gesture";
+var mnemonic = "stairs ethics spice abuse travel tourist reward round key food confirm midnight";

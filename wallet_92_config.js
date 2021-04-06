@@ -1,1 +1,1 @@
-var mnemonic = "area code steak crater model among goose left utility scene fork observe";
+var mnemonic = "doll phone anger artefact copy later mouse hurry man thought invite toe";

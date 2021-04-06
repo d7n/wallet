@@ -1,1 +1,1 @@
-var mnemonic = "ramp sail exclude merry club valve donor play slow gift crisp issue";
+var mnemonic = "ladder jealous relief caught main pole artwork magnet reform knock snake fox";

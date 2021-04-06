@@ -1,1 +1,1 @@
-var mnemonic = "race luggage oval virus dress scatter front control flip high venture capable";
+var mnemonic = "else fashion learn sadness primary clay advice dose saddle horror seven boring";

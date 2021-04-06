@@ -1,1 +1,1 @@
-var mnemonic = "thing blush young response brother top lecture joy this escape bottom economy";
+var mnemonic = "install neck employ simple lecture until ketchup shine tuna term truth tomorrow";

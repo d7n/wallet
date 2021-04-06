@@ -1,1 +1,1 @@
-var mnemonic = "power special hope tilt toss orchard swift fancy replace adult exclude conduct";
+var mnemonic = "approve taste addict bridge wink year language puzzle industry item dinner make";

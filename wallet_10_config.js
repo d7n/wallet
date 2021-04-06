@@ -1,1 +1,1 @@
-var mnemonic = "upon fantasy hungry empty mail rapid female second ankle loud profit off";
+var mnemonic = "guard radio desk coyote hair cruise smoke similar modify win tonight history";

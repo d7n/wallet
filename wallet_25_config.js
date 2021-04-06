@@ -1,1 +1,1 @@
-var mnemonic = "price kangaroo labor banner series copy fine kiss deputy burden enemy guide";
+var mnemonic = "leave behave cabin token expire jacket report mosquito first gasp donkey culture";

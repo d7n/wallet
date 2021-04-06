@@ -1,1 +1,1 @@
-var mnemonic = "loud water fault globe excite frog height barrel detect pretty mountain plug";
+var mnemonic = "net win evidence any toast amateur ice buzz fall place wrestle flip";

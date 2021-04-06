@@ -1,1 +1,1 @@
-var mnemonic = "match fit renew solar sheriff pond useless coach modify wolf rescue cupboard";
+var mnemonic = "depart kitten verb horse end loan sponsor buddy rather burst surface brave";

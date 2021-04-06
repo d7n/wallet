@@ -1,1 +1,1 @@
-var mnemonic = "seminar middle swim increase witness choose blossom arch problem note pelican village";
+var mnemonic = "thumb trust deliver struggle riot silly clap initial divide puzzle again fiscal";

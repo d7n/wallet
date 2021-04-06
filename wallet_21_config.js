@@ -1,1 +1,1 @@
-var mnemonic = "ignore imitate omit wrist fee earn mention young illegal pluck language loan";
+var mnemonic = "camp expect arm holiday mesh water entire this clog impact audit announce";

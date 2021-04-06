@@ -1,1 +1,1 @@
-var mnemonic = "what front meat fantasy wide busy olympic oven rather hundred spatial milk";
+var mnemonic = "margin unlock beef lumber crunch quantum broom athlete price spike crew february";

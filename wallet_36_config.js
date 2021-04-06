@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur dinner gain casual renew club muscle token shove wool distance jump";
+var mnemonic = "accident foam park truck try food spare lab mad crowd orchard nation";

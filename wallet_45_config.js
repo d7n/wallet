@@ -1,1 +1,1 @@
-var mnemonic = "forget talk rule about beef virtual empower seat alien stock man announce";
+var mnemonic = "point thing pig original provide lake rookie surprise online october nut rubber";

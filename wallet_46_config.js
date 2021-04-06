@@ -1,1 +1,1 @@
-var mnemonic = "latin gas deer fossil insect dentist admit decide thunder matter soup swarm";
+var mnemonic = "exclude myself artwork boat six gain sister leaf eager since setup enjoy";

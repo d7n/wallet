@@ -1,1 +1,1 @@
-var mnemonic = "city earn steak omit govern master eye equip lemon song episode rookie";
+var mnemonic = "jar suggest spatial forget analyst nephew much link tumble chef educate dream";

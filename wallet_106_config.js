@@ -1,1 +1,1 @@
-var mnemonic = "name burst void acid borrow sniff panther produce marine avoid bargain humble";
+var mnemonic = "cluster topple gold photo food sphere verb abuse jungle connect skull release";

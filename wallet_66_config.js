@@ -1,1 +1,1 @@
-var mnemonic = "board napkin detail hero plastic more bless short average erode prosper snow";
+var mnemonic = "guard carry observe country milk tool front net camera surface lawsuit barely";

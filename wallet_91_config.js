@@ -1,1 +1,1 @@
-var mnemonic = "plunge give onion firm become vivid common birth organ dash effort list";
+var mnemonic = "portion cram expect now two great dragon rack attend elephant radio ripple";

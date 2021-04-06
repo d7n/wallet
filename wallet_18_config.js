@@ -1,1 +1,1 @@
-var mnemonic = "museum galaxy present thank treat fun trim fragile dust fox vocal unusual";
+var mnemonic = "dolphin shield move cool solution hair edge motion move promote south planet";

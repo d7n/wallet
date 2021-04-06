@@ -1,1 +1,1 @@
-var mnemonic = "bulb slow similar punch forget pluck crew edit between human solution hundred";
+var mnemonic = "foot private scatter deal nominee grit choice skate december six wheat raw";

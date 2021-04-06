@@ -1,1 +1,1 @@
-var mnemonic = "carpet pioneer wise strategy smooth usage end box empower shaft horse twin";
+var mnemonic = "other intact habit rich gym detect believe upgrade quality east tool blast";

@@ -1,1 +1,1 @@
-var mnemonic = "whip catch party wasp cradle harbor frozen erase involve country nominee exhibit";
+var mnemonic = "web happy rabbit bulk absorb wash march return enhance fox flag track";

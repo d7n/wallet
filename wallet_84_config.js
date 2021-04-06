@@ -1,1 +1,1 @@
-var mnemonic = "old afford front step start field shaft admit kingdom ranch call spider";
+var mnemonic = "street cement mother host pen fresh section dutch rent holiday palm critic";

@@ -1,1 +1,1 @@
-var mnemonic = "abuse humor exercise worth upgrade one cart journey flavor asthma misery shoe";
+var mnemonic = "public inflict admit ginger hazard win ahead eye minimum hawk leave raven";

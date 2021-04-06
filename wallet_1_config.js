@@ -1,1 +1,1 @@
-var mnemonic = "public panther champion grace illegal begin loan slender theme uniform flush stool";
+var mnemonic = "hotel breeze raise valid unfair goat pepper wool first seminar curve unfold";

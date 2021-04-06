@@ -1,1 +1,1 @@
-var mnemonic = "poet item reunion bless wrap trial cactus chair flight subway divide surprise";
+var mnemonic = "drama window core swarm voyage case sunset drastic legal galaxy split secret";

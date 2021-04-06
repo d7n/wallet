@@ -1,1 +1,1 @@
-var mnemonic = "artefact speed blur cloud use either glide invite issue caught nephew world";
+var mnemonic = "organ usual draft gasp lucky advance spread quiz unit seek fruit because";

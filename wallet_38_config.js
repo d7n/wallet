@@ -1,1 +1,1 @@
-var mnemonic = "vivid report refuse auction senior term put tank garage fault member goat";
+var mnemonic = "hint street scrap toilet light welcome depth into either brisk truck snap";

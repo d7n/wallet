@@ -1,1 +1,1 @@
-var mnemonic = "follow beef mansion fringe witness start trophy company soft easy ankle twist";
+var mnemonic = "option rapid canvas alter antenna fever slam slab wrestle ridge milk undo";

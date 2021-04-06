@@ -1,1 +1,1 @@
-var mnemonic = "lens leopard found shoulder trend fly detail state diesel naive capable involve";
+var mnemonic = "endless hurdle mixed favorite melt state ribbon target when snap forward young";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle wise guilt number region around possible pioneer course ring ostrich silly";
+var mnemonic = "cliff phrase goat measure length people elder proof equal push endorse theme";

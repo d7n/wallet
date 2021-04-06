@@ -1,1 +1,1 @@
-var mnemonic = "fox alone sword cushion opinion cup team elite drip join narrow maple";
+var mnemonic = "seven unveil remember place kitten diagram wrong issue first about spy gadget";

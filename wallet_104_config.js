@@ -1,1 +1,1 @@
-var mnemonic = "broken misery same group craft behave border surround evil feature ancient comic";
+var mnemonic = "enemy adapt stem dilemma across strong submit heart dolphin program soup patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "mad gas exhaust jazz jacket tuna middle gloom insect you guilt genre";
+var mnemonic = "alert struggle cinnamon shop session sell era erode step make donkey bubble";

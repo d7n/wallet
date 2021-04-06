@@ -1,1 +1,1 @@
-var mnemonic = "trip fork olive arrest upper crane detect punch burger jeans brief panda";
+var mnemonic = "city melt scan flight sort undo combine private service reopen enjoy butter";

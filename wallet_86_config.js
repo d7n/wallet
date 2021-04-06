@@ -1,1 +1,1 @@
-var mnemonic = "minute undo vacuum scale enact caught siren town inflict abstract price armed";
+var mnemonic = "come copper increase all aim fox crunch twist live civil bicycle chunk";

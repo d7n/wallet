@@ -1,1 +1,1 @@
-var mnemonic = "clap palace mushroom direct west describe horn grass will regret keep isolate";
+var mnemonic = "draft sniff crucial immense aunt traffic force champion liar raven initial since";

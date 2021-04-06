@@ -1,1 +1,1 @@
-var mnemonic = "orchard top arrow erosion smart frost blood air other harbor hurdle window";
+var mnemonic = "ill elder pattern pull main estate retire deal try flame client stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "history recycle spray coconut sing rifle jump corn angry lucky magic palm";
+var mnemonic = "silver nephew fog goat safe luggage utility wood tomorrow giggle divorce venture";

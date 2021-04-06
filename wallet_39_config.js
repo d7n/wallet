@@ -1,1 +1,1 @@
-var mnemonic = "impulse bleak bargain unhappy ocean gate garden whale record theme attract rigid";
+var mnemonic = "siege business garment double human explain expire camp slender vague mass divorce";

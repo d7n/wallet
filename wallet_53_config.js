@@ -1,1 +1,1 @@
-var mnemonic = "dizzy humor attend wall provide light year calm uncover sudden appear typical";
+var mnemonic = "used brain segment immune suggest course wing law juice island stable slow";

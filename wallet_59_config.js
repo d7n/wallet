@@ -1,1 +1,1 @@
-var mnemonic = "local exotic abstract cigar rain trouble pepper laundry fold useless wise hint";
+var mnemonic = "net insane already silk major pelican theory tip health begin pretty fix";

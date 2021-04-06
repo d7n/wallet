@@ -1,1 +1,1 @@
-var mnemonic = "alter tool soda road reunion soldier arrest orchard coconut grab grass expire";
+var mnemonic = "situate pause capable okay rib scare attitude latin exercise hedgehog develop cable";

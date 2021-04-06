@@ -1,1 +1,1 @@
-var mnemonic = "yard square carpet unknown table draw kit girl page photo subject desert";
+var mnemonic = "cousin oxygen polar square swift alter cream pool absorb magnet estate require";

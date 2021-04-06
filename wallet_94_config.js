@@ -1,1 +1,1 @@
-var mnemonic = "piano remain galaxy insect whale chaos rival bone lend skirt ritual spoon";
+var mnemonic = "swap donate undo old balcony hidden grant wide clerk balance usual music";

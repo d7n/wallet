@@ -1,1 +1,1 @@
-var mnemonic = "gain oak grit reason useless rug advance crack long globe clock ozone";
+var mnemonic = "scrub gold speak certain home person toddler chase saddle super river normal";

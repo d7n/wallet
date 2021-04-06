@@ -1,1 +1,1 @@
-var mnemonic = "metal panic rural fish quit token draft chair phone mean chat mushroom";
+var mnemonic = "rhythm emerge ignore reduce fold shove daring merit tourist guitar half shoe";

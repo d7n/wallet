@@ -1,1 +1,1 @@
-var mnemonic = "better lake true plunge exhaust eternal castle anger okay foil tank bean";
+var mnemonic = "attract category smoke help shift clutch genius game replace erode vital nut";

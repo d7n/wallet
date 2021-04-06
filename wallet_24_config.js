@@ -1,1 +1,1 @@
-var mnemonic = "lamp panel attack twice brown replace spirit spot salt adapt spray effort";
+var mnemonic = "alpha brave shop cart fun vital stadium garbage dove lucky ripple access";

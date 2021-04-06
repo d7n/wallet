@@ -1,1 +1,1 @@
-var mnemonic = "float topple produce absorb summer common rookie citizen expand hammer trouble axis";
+var mnemonic = "sock curtain hard page female range picnic surface quote extra dragon position";

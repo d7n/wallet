@@ -1,1 +1,1 @@
-var mnemonic = "wrist slide secret gain dentist know palm trend list fan phone crush";
+var mnemonic = "dwarf fetch link city village limit memory kitten upon dynamic valve elite";

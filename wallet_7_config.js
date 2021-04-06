@@ -1,1 +1,1 @@
-var mnemonic = "panel rhythm void armed margin nurse okay fat dust ramp turkey pulp";
+var mnemonic = "title balcony gather law purpose still empower useless rich blouse captain fence";

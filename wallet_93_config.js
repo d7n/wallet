@@ -1,1 +1,1 @@
-var mnemonic = "cheap estate animal dove noodle cheap coil fox source attack estate click";
+var mnemonic = "faculty domain bleak museum glass copper quantum income broken urge concert space";

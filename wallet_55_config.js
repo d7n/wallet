@@ -1,1 +1,1 @@
-var mnemonic = "vapor style vacant family swift upon feed snap fan table satisfy combine";
+var mnemonic = "coach fun coffee cotton region dove fatal tail radar section real repeat";

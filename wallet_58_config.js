@@ -1,1 +1,1 @@
-var mnemonic = "wood multiply motor shoot crush actual street feature nephew electric popular jelly";
+var mnemonic = "hello only flavor abandon party art dice bridge accuse mention purse spy";

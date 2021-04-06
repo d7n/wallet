@@ -1,1 +1,1 @@
-var mnemonic = "width pioneer despair eternal argue note oblige fork protect hybrid fold snake";
+var mnemonic = "struggle baby tomorrow magic tumble bike canoe join mammal change improve step";
