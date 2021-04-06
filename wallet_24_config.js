@@ -1,1 +1,1 @@
-var mnemonic = "paper attack release angry trust people decide best weekend later disorder age";
+var mnemonic = "suspect wasp add uncover elite purse icon snack father find layer first";

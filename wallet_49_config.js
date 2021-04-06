@@ -1,1 +1,1 @@
-var mnemonic = "shy once banner mad title issue dune blouse cloth manage student noodle";
+var mnemonic = "minor stairs injury vacuum twin result student physical vital tape room movie";

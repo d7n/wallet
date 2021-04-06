@@ -1,1 +1,1 @@
-var mnemonic = "flush pig position assault achieve phone narrow dwarf vendor thank frown welcome";
+var mnemonic = "sponsor rack finger festival pill never outdoor unknown patrol case year quote";

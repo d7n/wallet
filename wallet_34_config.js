@@ -1,1 +1,1 @@
-var mnemonic = "culture quantum heavy inner angle record accident guilt luggage candy promote gate";
+var mnemonic = "win roast joke cargo human seat system foil bread sorry wisdom spy";

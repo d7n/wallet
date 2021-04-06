@@ -1,1 +1,1 @@
-var mnemonic = "strategy evolve piano income shrug leg cargo ticket enlist quit slot brush";
+var mnemonic = "secret gold plunge flag better void endorse hundred inherit jungle inflict security";

@@ -1,1 +1,1 @@
-var mnemonic = "possible cluster powder vessel sail exchange rug tube humor sniff unveil zebra";
+var mnemonic = "famous paper tone milk cup coil desk balcony jelly drama clerk arrest";

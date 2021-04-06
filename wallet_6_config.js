@@ -1,1 +1,1 @@
-var mnemonic = "tank capital siren boil quote discover loop awful home lift rebuild border";
+var mnemonic = "unlock uphold kingdom cram oppose inform salmon arch kit axis logic boil";

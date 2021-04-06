@@ -1,1 +1,1 @@
-var mnemonic = "fish hint mimic moon sponsor hill craft help speak benefit course certain";
+var mnemonic = "lemon crack rare climb junior penalty jewel couch defense combine gift rally";

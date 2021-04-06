@@ -1,1 +1,1 @@
-var mnemonic = "rain rice globe tooth direct fresh adapt wrestle slab enlist kangaroo unable";
+var mnemonic = "rebel stand brand leave fold pioneer either kitchen soda horror short hammer";

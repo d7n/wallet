@@ -1,1 +1,1 @@
-var mnemonic = "jealous assault athlete air answer coach wolf track patient decide galaxy blood";
+var mnemonic = "genre peasant echo gossip polar absurd water cotton also melt afford valid";

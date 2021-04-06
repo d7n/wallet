@@ -1,1 +1,1 @@
-var mnemonic = "black mammal rabbit moment wage throw version insane gentle skull physical hair";
+var mnemonic = "ghost there congress flat venture injury wasp tiger caution certain clip item";

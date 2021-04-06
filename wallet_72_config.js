@@ -1,1 +1,1 @@
-var mnemonic = "couple chef airport gauge erupt top birth during old rude lonely unlock";
+var mnemonic = "silver tent staff choice nephew surprise trash sea blossom elder become purity";

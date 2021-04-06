@@ -1,1 +1,1 @@
-var mnemonic = "cereal that nose prevent virtual harsh spirit entry vintage board unfold world";
+var mnemonic = "badge art that hero card coach athlete curious all decade ensure typical";

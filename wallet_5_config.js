@@ -1,1 +1,1 @@
-var mnemonic = "faculty mistake float alter hire hand soul barrel off wheel banana shop";
+var mnemonic = "entry voyage bachelor spare park item buyer end search vast million hungry";

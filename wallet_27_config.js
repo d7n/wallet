@@ -1,1 +1,1 @@
-var mnemonic = "wave media humor plunge twenty usual bread tomorrow over daughter banana replace";
+var mnemonic = "turkey prosper fog laugh indicate price chuckle cool critic lemon put outdoor";

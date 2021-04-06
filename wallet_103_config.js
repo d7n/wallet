@@ -1,1 +1,1 @@
-var mnemonic = "nest focus leave lonely attitude badge act catalog spawn galaxy dinosaur expand";
+var mnemonic = "lock visa piece grocery blast master crucial blouse thunder indicate end beach";

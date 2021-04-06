@@ -1,1 +1,1 @@
-var mnemonic = "example indoor bar travel square small enforce section potato tuna grace wrestle";
+var mnemonic = "candy drink syrup move total since buddy caught student upset lonely session";

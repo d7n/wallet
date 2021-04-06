@@ -1,1 +1,1 @@
-var mnemonic = "useless explain refuse spare defy pilot nice census orient memory fortune flip";
+var mnemonic = "core load crop slim rich tray great bargain nephew that attack sad";

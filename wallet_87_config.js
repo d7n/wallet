@@ -1,1 +1,1 @@
-var mnemonic = "ask bonus ocean print awkward evolve all coach much clerk wedding okay";
+var mnemonic = "burden custom leave moral coyote beauty wood world cotton surround push vivid";

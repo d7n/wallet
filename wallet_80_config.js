@@ -1,1 +1,1 @@
-var mnemonic = "funny draw country ship strategy loop december elephant cage west addict army";
+var mnemonic = "joy oil fuel drink outer rug pave inmate energy oblige harbor sugar";

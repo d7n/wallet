@@ -1,1 +1,1 @@
-var mnemonic = "art police garment bounce kind change promote deal hip bring endless neck";
+var mnemonic = "join beyond solar trouble celery angry swear elite wait catch host length";

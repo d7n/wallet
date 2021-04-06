@@ -1,1 +1,1 @@
-var mnemonic = "addict off bright kidney tribe gym accident build rose erosion have wise";
+var mnemonic = "media you grid balcony good slot excite grit maze voyage increase shallow";

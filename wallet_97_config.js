@@ -1,1 +1,1 @@
-var mnemonic = "gasp club pond swing link toe nurse delay curtain type milk voyage";
+var mnemonic = "patient print lottery winter expose deal machine seed skull purse echo lawn";

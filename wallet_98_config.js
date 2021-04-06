@@ -1,1 +1,1 @@
-var mnemonic = "impact shock turtle sunny under gossip century detect bacon brain huge that";
+var mnemonic = "ticket recipe coyote organ excite fiscal share auto devote object truck vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "jar liar sad resemble immense piano process coffee lock accuse turn roast";
+var mnemonic = "black ball iron surround improve trigger proof lottery exit weekend shy sock";

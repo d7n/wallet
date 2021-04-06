@@ -1,1 +1,1 @@
-var mnemonic = "blade pool eager dice help mechanic tide adjust still increase divorce board";
+var mnemonic = "moon initial sport forum marine opera armor abstract mobile kitten helmet assume";

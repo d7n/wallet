@@ -1,1 +1,1 @@
-var mnemonic = "enjoy immune media unable shed clay vivid island detect fade country make";
+var mnemonic = "mention brief turtle heavy mango drastic over mom vintage joy grass knock";

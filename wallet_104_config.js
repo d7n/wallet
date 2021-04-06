@@ -1,1 +1,1 @@
-var mnemonic = "off book twist lyrics glove image subject depart luxury spare book civil";
+var mnemonic = "wine fruit snap drive penalty purity tell always blush grunt domain piano";

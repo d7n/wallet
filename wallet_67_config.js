@@ -1,1 +1,1 @@
-var mnemonic = "model fatal like shrimp submit demand brain trouble candy cost trouble pen";
+var mnemonic = "gentle father crumble peanut armor real rely scatter appear school lab panel";

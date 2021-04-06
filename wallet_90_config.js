@@ -1,1 +1,1 @@
-var mnemonic = "monster pass predict file morning staff menu raccoon term museum neutral corn";
+var mnemonic = "lonely any neutral angry bundle dawn fan knife mom arctic ancient ripple";

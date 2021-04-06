@@ -1,1 +1,1 @@
-var mnemonic = "clean total hip sibling bridge snow ticket design announce course seat extend";
+var mnemonic = "minute truck disagree water cotton result day index uncover square curious knock";

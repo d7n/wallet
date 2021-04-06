@@ -1,1 +1,1 @@
-var mnemonic = "hint reduce nurse crane rural common measure follow impact panic swamp give";
+var mnemonic = "census picture allow mansion clutch ship quote soda ball fever citizen bless";

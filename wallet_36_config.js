@@ -1,1 +1,1 @@
-var mnemonic = "clown cabbage very volume stereo analyst wise illness soda cruel crush alert";
+var mnemonic = "hood trip category subway arrange stadium slogan ready ghost art mix decline";

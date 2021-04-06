@@ -1,1 +1,1 @@
-var mnemonic = "walnut section lake surge hunt laptop rebuild bring bread program region very";
+var mnemonic = "potato tuna zone good drama discover hope burst track sheriff pen quote";

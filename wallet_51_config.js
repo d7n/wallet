@@ -1,1 +1,1 @@
-var mnemonic = "pink focus media weather chuckle achieve place lamp tooth cancel clarify arrive";
+var mnemonic = "awkward success unique road hover way toast squeeze donkey stumble inherit cat";

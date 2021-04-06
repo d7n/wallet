@@ -1,1 +1,1 @@
-var mnemonic = "match gospel arrest special mixture old eight wild mechanic veteran original west";
+var mnemonic = "month cloth shell shift orphan hedgehog jelly basket web tiny orange someone";

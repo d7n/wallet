@@ -1,1 +1,1 @@
-var mnemonic = "panel flight hungry nut hour shell tape provide hub sand uniform embrace";
+var mnemonic = "chronic sunny dignity gym minimum ensure entry wide cash wide travel survey";

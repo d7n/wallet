@@ -1,1 +1,1 @@
-var mnemonic = "garden fetch coyote animal hover head click fog dragon reform grass oxygen";
+var mnemonic = "mansion discover tone steel undo carry melody copy dad toast maid april";

@@ -1,1 +1,1 @@
-var mnemonic = "horror surge brain fetch exotic neutral uncover toss minute oblige sort dizzy";
+var mnemonic = "noise bulb monster coach hand warfare transfer satoshi answer seek finish runway";

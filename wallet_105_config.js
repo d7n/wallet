@@ -1,1 +1,1 @@
-var mnemonic = "result casual sunset fury man captain avoid hold athlete wink floor slim";
+var mnemonic = "drill shed mango awkward all birth nose abuse praise fold picture perfect";

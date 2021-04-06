@@ -1,1 +1,1 @@
-var mnemonic = "segment random target crunch myth end hire strategy music famous ankle furnace";
+var mnemonic = "output reject skull join jewel rug roast task alone stomach endless castle";

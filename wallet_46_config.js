@@ -1,1 +1,1 @@
-var mnemonic = "shoulder vacant prevent wing target document super useful inhale earth dwarf hobby";
+var mnemonic = "anxiety ticket denial search horror atom salt north daughter erupt lounge business";

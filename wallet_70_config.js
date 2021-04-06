@@ -1,1 +1,1 @@
-var mnemonic = "enhance second isolate verify chaos cushion desert bulk govern across basket card";
+var mnemonic = "fiction three amused artist vapor frost talk tell beef raven zero garlic";

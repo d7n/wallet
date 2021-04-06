@@ -1,1 +1,1 @@
-var mnemonic = "assault buyer pudding curtain avoid install repeat review sugar route shed priority";
+var mnemonic = "inspire cause marine hobby try harsh key link planet where truck solid";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage nature lonely industry artefact damp melody venture service vessel beach tenant";
+var mnemonic = "winner walk emotion please hour gaze use tower rely multiply wool biology";

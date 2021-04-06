@@ -1,1 +1,1 @@
-var mnemonic = "meadow stomach coach indicate august caught skull abandon solid tray twice cousin";
+var mnemonic = "print wet reduce ostrich fatal snow hand sphere evidence swim ordinary siren";

@@ -1,1 +1,1 @@
-var mnemonic = "salad mutual embody artwork pool season stone priority bus flat oblige hair";
+var mnemonic = "result left consider silent loud elite scout winner crowd food surface crew";

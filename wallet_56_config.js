@@ -1,1 +1,1 @@
-var mnemonic = "moment soap neither model modify piano outdoor pool drastic recycle enlist wait";
+var mnemonic = "fabric stage proof unknown off mask guide cancel grief panel lava type";

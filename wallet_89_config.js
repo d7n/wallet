@@ -1,1 +1,1 @@
-var mnemonic = "album fiber year dance lady mad celery panel suggest castle gloom flash";
+var mnemonic = "pause trick process assume jar bless pottery buffalo detail gun fury excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "panda spring winner iron torch life radar easily thought clip you label";
+var mnemonic = "regular aunt relax dirt plastic immense hair tonight fiscal where miss age";

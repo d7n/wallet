@@ -1,1 +1,1 @@
-var mnemonic = "siege book clump cube maximum flash voice unusual grief crush horror circle";
+var mnemonic = "fault main fiction push token loop ahead aerobic enrich ask wink violin";

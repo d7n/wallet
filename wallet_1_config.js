@@ -1,1 +1,1 @@
-var mnemonic = "confirm green crash coach habit replace hollow drive bread faculty cash flip";
+var mnemonic = "become carbon story raven change measure kid clump shine possible what level";

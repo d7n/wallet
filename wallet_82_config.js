@@ -1,1 +1,1 @@
-var mnemonic = "guard skin coast zebra candy impact random grow eight universe junior security";
+var mnemonic = "gadget creek waste cliff plug name come toss core siege fan mail";

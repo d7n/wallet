@@ -1,1 +1,1 @@
-var mnemonic = "artwork inner solar opinion urban spatial note escape custom topic coconut goose";
+var mnemonic = "never involve long alter decrease video digital inch off stem fossil buyer";

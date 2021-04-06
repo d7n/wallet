@@ -1,1 +1,1 @@
-var mnemonic = "unhappy health hole write poet resemble soda noodle search risk style tip";
+var mnemonic = "edge ugly fork current must giraffe cover wood attract require conduct little";

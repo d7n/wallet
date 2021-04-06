@@ -1,1 +1,1 @@
-var mnemonic = "inch fat twenty please come radar illness dash volume oval income knock";
+var mnemonic = "large since panic amazing aerobic bachelor text drift entire bronze jungle still";

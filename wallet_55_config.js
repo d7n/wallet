@@ -1,1 +1,1 @@
-var mnemonic = "broken just law pig race repeat impose desk keep ordinary jelly endorse";
+var mnemonic = "siege butter gate immune success donkey person catch left firm lazy pelican";

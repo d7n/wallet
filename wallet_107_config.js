@@ -1,1 +1,1 @@
-var mnemonic = "boost core unaware clog cost immense forest december quiz better move shuffle";
+var mnemonic = "buffalo sister other patch inside foil float tube trust wet muscle nerve";

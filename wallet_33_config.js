@@ -1,1 +1,1 @@
-var mnemonic = "loan viable diamond vague deer confirm once undo great balance parent attack";
+var mnemonic = "emotion arrive corn invest announce canoe father advice giraffe pride solution skin";

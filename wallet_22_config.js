@@ -1,1 +1,1 @@
-var mnemonic = "hire caution fame flush timber virus garden alien famous duck post miss";
+var mnemonic = "emerge carry focus leaf sort subway gown gas nerve claim supreme spider";

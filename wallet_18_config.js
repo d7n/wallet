@@ -1,1 +1,1 @@
-var mnemonic = "drop eternal shine joy lady simple cram patch nasty sort ring word";
+var mnemonic = "upper panel act crater opinion boring sadness hole mind hat glass pitch";

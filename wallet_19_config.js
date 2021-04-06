@@ -1,1 +1,1 @@
-var mnemonic = "side stadium exile vintage pink glove holiday dune legal soccer expose stable";
+var mnemonic = "drama clay knife hundred seat glance river matter film penalty fix siege";

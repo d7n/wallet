@@ -1,1 +1,1 @@
-var mnemonic = "cruel win hero borrow quit ghost come found purse illness since hospital";
+var mnemonic = "busy old mechanic truly gate sure roof hungry idea yellow turkey round";

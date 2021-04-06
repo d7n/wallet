@@ -1,1 +1,1 @@
-var mnemonic = "fiber try leaf around report nerve picture rice govern mushroom retreat phrase";
+var mnemonic = "bread state pond around hybrid burden rare confirm bonus dice pair weapon";

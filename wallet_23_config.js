@@ -1,1 +1,1 @@
-var mnemonic = "exit key around shadow stadium genius oven tennis holiday dinner carpet bridge";
+var mnemonic = "spike yard speak six force enact mobile there surprise cattle happy hospital";

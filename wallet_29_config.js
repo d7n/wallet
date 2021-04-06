@@ -1,1 +1,1 @@
-var mnemonic = "brave surprise seek tent risk air unhappy search rate scare ivory cry";
+var mnemonic = "vault health mirror meadow option smooth addict second adapt bridge vast foot";

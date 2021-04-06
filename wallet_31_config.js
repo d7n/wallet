@@ -1,1 +1,1 @@
-var mnemonic = "tray mule ice suggest diesel swap control spin various fancy episode link";
+var mnemonic = "tomato airport shaft fancy melody danger sample job essay split viable zoo";

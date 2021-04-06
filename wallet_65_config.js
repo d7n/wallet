@@ -1,1 +1,1 @@
-var mnemonic = "appear sick deposit crane alone language ankle quantum develop behave badge produce";
+var mnemonic = "drive dilemma magic tool pattern behind permit pink elevator theory prevent pigeon";

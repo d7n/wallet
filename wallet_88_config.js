@@ -1,1 +1,1 @@
-var mnemonic = "report path crucial fence dog friend fly input educate fortune main ridge";
+var mnemonic = "fold decade cat axis purpose mixed night quarter will drum card decide";

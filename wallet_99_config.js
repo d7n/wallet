@@ -1,1 +1,1 @@
-var mnemonic = "whale update sleep tenant mom banner floor odor erode stone style chapter";
+var mnemonic = "pencil salmon actress price satisfy end adjust toilet gasp pave buddy april";

@@ -1,1 +1,1 @@
-var mnemonic = "above pepper indoor legend spoil connect exhibit artwork tip body female lend";
+var mnemonic = "daughter sail attitude curtain grit clump exercise humble pizza bronze narrow point";

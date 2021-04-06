@@ -1,1 +1,1 @@
-var mnemonic = "shoe begin wagon volcano glow adult enlist cloud cloud globe claw seek";
+var mnemonic = "side name finish that meadow bike thunder clerk unveil penalty gauge crush";

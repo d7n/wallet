@@ -1,1 +1,1 @@
-var mnemonic = "deal siege assist floor real decline city hold wagon seed hobby wrong";
+var mnemonic = "dust girl alter network jazz lucky unknown rice change regular rice liberty";

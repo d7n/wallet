@@ -1,1 +1,1 @@
-var mnemonic = "common blood half cloth embody lyrics taxi always venture barely critic saddle";
+var mnemonic = "lemon address figure whale cement gap merit wreck slide coast orbit rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "science lock fuel used cake absorb eternal cheap safe protect hero amused";
+var mnemonic = "taxi thank unit spice zebra leader fabric valley canvas keen fan riot";

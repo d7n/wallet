@@ -1,1 +1,1 @@
-var mnemonic = "recipe online trash sudden ask random tiger endless accident desk anger tooth";
+var mnemonic = "erupt slogan monkey puppy undo way middle monitor rice fatigue erosion memory";

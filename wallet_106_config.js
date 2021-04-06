@@ -1,1 +1,1 @@
-var mnemonic = "inch next claim movie amazing dinosaur flash popular group sound galaxy pen";
+var mnemonic = "manual digital total write fuel together copper soup pioneer under gasp onion";

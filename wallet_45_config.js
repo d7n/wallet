@@ -1,1 +1,1 @@
-var mnemonic = "choice shove diamond nominee era student raw flush tribe mad night beauty";
+var mnemonic = "interest tube fetch oblige ask that lunar van reform shine lyrics beef";

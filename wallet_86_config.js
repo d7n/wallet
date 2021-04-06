@@ -1,1 +1,1 @@
-var mnemonic = "thumb crouch thing shove idea ridge help cheese ugly eagle onion pole";
+var mnemonic = "wear broken arena chef angry pattern auction pizza fortune deposit boil punch";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch license beef chase anchor bean reflect discover blue lobster town onion";
+var mnemonic = "meat large library slot cloth canvas celery naive ancient twist gloom milk";

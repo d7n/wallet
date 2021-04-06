@@ -1,1 +1,1 @@
-var mnemonic = "autumn rug abuse drift upper spawn shrug garage photo plug bundle lady";
+var mnemonic = "faith base situate regular million tool kick thing february leisure left connect";

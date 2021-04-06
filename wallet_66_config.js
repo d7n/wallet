@@ -1,1 +1,1 @@
-var mnemonic = "bright crane phone bless evil notable accuse cluster change heavy talent rescue";
+var mnemonic = "can rule trend useful smooth brass ostrich skin wisdom decide swap cave";

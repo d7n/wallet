@@ -1,1 +1,1 @@
-var mnemonic = "gauge slow major tired evolve matter ecology ramp section teach lemon fan";
+var mnemonic = "coach story laugh load apart network coral vague exotic round raven sort";

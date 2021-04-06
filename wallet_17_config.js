@@ -1,1 +1,1 @@
-var mnemonic = "chimney cross order execute antenna flower topple bridge fatigue phone fold cheese";
+var mnemonic = "reunion cable domain soldier vague twin soccer skirt rally bone cannon deposit";

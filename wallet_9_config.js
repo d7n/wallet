@@ -1,1 +1,1 @@
-var mnemonic = "base trim grocery pottery shop skirt sick garment sight process someone state";
+var mnemonic = "settle vibrant chalk this slide frame venture fortune orchard cotton enrich afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "protect problem lawn hair diamond lucky glory hedgehog disease shoot rent snack";
+var mnemonic = "sense typical unique object slight wish pulse indicate tape admit garden buffalo";

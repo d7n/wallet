@@ -1,1 +1,1 @@
-var mnemonic = "buzz swamp stumble pen inspire warfare meadow solid palace element custom define";
+var mnemonic = "dinosaur fragile lucky mirror boat nature smooth humor nut clutch couch pumpkin";

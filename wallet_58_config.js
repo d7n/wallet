@@ -1,1 +1,1 @@
-var mnemonic = "reveal insane peasant december unknown thing dinner rug marble vintage elegant duty";
+var mnemonic = "awake cool found easy bomb awesome permit victory matrix actor floor push";

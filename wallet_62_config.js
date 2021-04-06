@@ -1,1 +1,1 @@
-var mnemonic = "occur cargo labor clutch moment slogan quality weapon you rude tomorrow shell";
+var mnemonic = "lounge obey spot rice advice monkey safe hobby strategy museum doll salad";

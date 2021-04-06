@@ -1,1 +1,1 @@
-var mnemonic = "oak ceiling ask area bus disorder rifle carbon flash notable buffalo brisk";
+var mnemonic = "dutch wish track fancy river decade tonight eye nerve axis egg field";
