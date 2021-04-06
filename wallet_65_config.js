@@ -1,1 +1,1 @@
-var mnemonic = "pause barrel uncle arrange airport waste pluck arrive option betray memory inform";
+var mnemonic = "cram peace alarm wheel enroll mammal snow carry clock super adjust false";

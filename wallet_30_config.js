@@ -1,1 +1,1 @@
-var mnemonic = "tortoise rookie wire cupboard photo drill arctic rebuild apart target dilemma torch";
+var mnemonic = "icon gesture hair across gorilla twice meadow ozone oval actor few magic";

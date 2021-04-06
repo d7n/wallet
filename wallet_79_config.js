@@ -1,1 +1,1 @@
-var mnemonic = "above time bitter raise between grid mix have whip reveal depend pen";
+var mnemonic = "side unit reject sheriff group trigger achieve captain safe demise sudden media";

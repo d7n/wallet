@@ -1,1 +1,1 @@
-var mnemonic = "game rice model install once bless ticket nut office own gesture you";
+var mnemonic = "abuse across mimic total piano scrap large method bird critic gloom feed";

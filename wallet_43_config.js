@@ -1,1 +1,1 @@
-var mnemonic = "wide differ sunny senior artwork world elephant egg essence solar segment twenty";
+var mnemonic = "harbor race still exclude often offer useless custom grocery adapt limb chunk";

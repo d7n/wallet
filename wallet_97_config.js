@@ -1,1 +1,1 @@
-var mnemonic = "blue modify profit envelope mandate damp raise brass call critic payment tennis";
+var mnemonic = "abandon field monster erode dream blouse wear fluid delay brush recall time";

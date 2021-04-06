@@ -1,1 +1,1 @@
-var mnemonic = "feature legend empower surface outside monitor layer nurse earth rough easily symbol";
+var mnemonic = "aerobic drift uncle fix mask joy click symptom swarm use menu shadow";

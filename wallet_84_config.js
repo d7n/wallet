@@ -1,1 +1,1 @@
-var mnemonic = "fire pretty bottom tortoise section undo choose make load away junk pony";
+var mnemonic = "try ski lock mixture elite upon dawn elegant cost next false sight";

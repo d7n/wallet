@@ -1,1 +1,1 @@
-var mnemonic = "mirror absurd town peanut hazard despair loyal require toast noodle adult divide";
+var mnemonic = "clock song gasp assume consider gain oblige pool screen cigar penalty waste";

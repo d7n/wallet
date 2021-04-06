@@ -1,1 +1,1 @@
-var mnemonic = "cherry cousin grape turn math average upper grape transfer cabin holiday ring";
+var mnemonic = "judge diesel hundred wrist vessel employ evidence misery cage rough dwarf shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "fault famous art unfold canal frost regular toilet easily two neutral say";
+var mnemonic = "vibrant ostrich farm honey champion spice eager eyebrow faint library ribbon moral";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle disagree dial build addict zone report expect lawsuit comic flip unusual";
+var mnemonic = "cousin cement answer aim bitter kitchen february absorb about hammer census soul";

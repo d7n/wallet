@@ -1,1 +1,1 @@
-var mnemonic = "submit sunset siege still echo lounge industry best plate clarify wool luggage";
+var mnemonic = "explain unknown kingdom junk note arrive forward lecture begin shine crazy confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid ahead bracket attitude twelve sword girl person vicious huge end spawn";
+var mnemonic = "begin anger leopard habit frost promote doll sheriff arctic jaguar latin nose";

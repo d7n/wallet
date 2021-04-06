@@ -1,1 +1,1 @@
-var mnemonic = "minimum goddess explain coast tide frequent village lazy genius already response hair";
+var mnemonic = "muscle ankle tide calm fever coast happy nothing chimney spring argue retreat";

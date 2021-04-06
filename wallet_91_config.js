@@ -1,1 +1,1 @@
-var mnemonic = "trumpet sure joy bread lounge section zoo empty beyond olympic sketch panther";
+var mnemonic = "sail frost margin blood main someone chapter ceiling crush ordinary heart obvious";

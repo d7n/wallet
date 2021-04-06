@@ -1,1 +1,1 @@
-var mnemonic = "huge minor visual alpha chaos rich warm pretty pupil sketch exact cream";
+var mnemonic = "owner eager economy ten husband horn menu strong arch bitter now vapor";

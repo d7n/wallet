@@ -1,1 +1,1 @@
-var mnemonic = "foam pride tape remain borrow add nose rent taxi produce room hood";
+var mnemonic = "method humor detail trend regret length fatigue bottom parade amused inflict sphere";

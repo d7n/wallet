@@ -1,1 +1,1 @@
-var mnemonic = "height true snap cement patient claim burden just dust police lab cat";
+var mnemonic = "physical drum cave corn town interest blind snow lift addict front captain";

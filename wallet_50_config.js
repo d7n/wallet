@@ -1,1 +1,1 @@
-var mnemonic = "rapid arrive shield midnight leader common hammer parade undo jazz wrong drop";
+var mnemonic = "alarm glory reduce fall garlic little alarm target verb catalog sibling forget";

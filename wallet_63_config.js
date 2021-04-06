@@ -1,1 +1,1 @@
-var mnemonic = "problem shell couch potato silk pottery detect cover unhappy crunch crouch spirit";
+var mnemonic = "tonight that current cage unable jelly elder victory promote desk pony trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "brief foam couple two sheriff click airport amused grain remember pen animal";
+var mnemonic = "scare practice mushroom bulk bid write toilet stairs monkey airport muffin level";

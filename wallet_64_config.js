@@ -1,1 +1,1 @@
-var mnemonic = "tissue pupil diagram bunker couple tennis stairs hammer biology orient balcony subject";
+var mnemonic = "immune excite gift target color lawsuit obtain good already grief judge alcohol";

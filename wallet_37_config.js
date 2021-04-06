@@ -1,1 +1,1 @@
-var mnemonic = "evil program history one police kiwi sun pull unfold credit clap ladder";
+var mnemonic = "wine hint ladder laugh margin special century trip test raven region trick";

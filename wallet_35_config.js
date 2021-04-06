@@ -1,1 +1,1 @@
-var mnemonic = "once day maple upon spring festival injury dirt capital size absent reopen";
+var mnemonic = "donate source airport flat miss inform wish owner purpose pattern purse supreme";

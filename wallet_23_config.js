@@ -1,1 +1,1 @@
-var mnemonic = "peasant ice kangaroo various liberty goddess excuse project maid myself combine job";
+var mnemonic = "holiday elder found two mix remind twin ozone cost junior capital crush";

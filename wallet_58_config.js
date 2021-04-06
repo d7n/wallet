@@ -1,1 +1,1 @@
-var mnemonic = "fantasy chimney follow moment forget fantasy rebel book museum live virus oxygen";
+var mnemonic = "blind lunar message where orient acid slow south asset stick camp police";

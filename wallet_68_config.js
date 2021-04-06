@@ -1,1 +1,1 @@
-var mnemonic = "isolate situate wedding switch lend giggle sword doctor asset surround people coil";
+var mnemonic = "market raw together harbor alcohol once cute belt advance thing oak vehicle";

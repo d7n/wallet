@@ -1,1 +1,1 @@
-var mnemonic = "very pave father program now flip budget goddess pull sight wrap firm";
+var mnemonic = "wise require edge wise shrug alpha build yellow between accuse glory dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "have cushion soldier twist order town simple rigid jacket rescue attract truth";
+var mnemonic = "monster capital romance clinic repeat column fiction type reopen okay rare answer";

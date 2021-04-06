@@ -1,1 +1,1 @@
-var mnemonic = "mystery click debris waste clip chuckle tide smooth awkward foot debate quote";
+var mnemonic = "dish force cinnamon chronic resist program vessel carpet dust frown tiger invest";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy truth combine debate antenna reflect million solve license coin youth camp";
+var mnemonic = "charge example banner leisure illness above alcohol kingdom cherry quantum joke school";

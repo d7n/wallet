@@ -1,1 +1,1 @@
-var mnemonic = "friend index proof city sugar undo garment calm pottery hazard sad eagle";
+var mnemonic = "sing ball stadium horse input hawk ignore two apology vault exercise oblige";

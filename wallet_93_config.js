@@ -1,1 +1,1 @@
-var mnemonic = "chair fetch fringe pledge evidence offer logic crouch margin practice glimpse color";
+var mnemonic = "ordinary response erase salad skill top night clown remain symptom attend oyster";

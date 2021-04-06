@@ -1,1 +1,1 @@
-var mnemonic = "this leg lawn expose square anxiety crew armed network behind loop waste";
+var mnemonic = "bounce slide solid level climb attack game good topple season miracle typical";

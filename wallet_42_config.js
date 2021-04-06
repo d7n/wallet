@@ -1,1 +1,1 @@
-var mnemonic = "tenant taxi merit load laptop naive ice slice insane praise copy reduce";
+var mnemonic = "strategy cupboard rain potato doll blush maid online awful guard mercy cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "zero neither faculty wash disease health source refuse defy submit hold taste";
+var mnemonic = "treat engage portion mom pole notable long section chronic crime clock diesel";

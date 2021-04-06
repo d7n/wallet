@@ -1,1 +1,1 @@
-var mnemonic = "home twelve verify awesome mule crawl resource surprise equal wing stock sport";
+var mnemonic = "flip empower equip reason large habit yard coral judge public recycle sugar";

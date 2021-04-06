@@ -1,1 +1,1 @@
-var mnemonic = "drive hotel army scrap vote pond cute extend engage comic input math";
+var mnemonic = "moon property sign slight until kitchen stick spice address north inherit mountain";

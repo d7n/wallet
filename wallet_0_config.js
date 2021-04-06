@@ -1,1 +1,1 @@
-var mnemonic = "text rebuild frame sponsor laundry shadow rescue pig trim clap young advance";
+var mnemonic = "jeans agree image fault dawn empower faculty trap shoot assault seat spin";

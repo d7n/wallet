@@ -1,1 +1,1 @@
-var mnemonic = "liberty switch recall course toast area corn fruit diamond theory gain cereal";
+var mnemonic = "lesson about toss hair captain penalty huge chair enough involve huge midnight";

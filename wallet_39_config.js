@@ -1,1 +1,1 @@
-var mnemonic = "cheese people south mechanic wall ordinary argue poverty diary truck another guess";
+var mnemonic = "famous fish shoot sentence twist climb vapor scan dog identify journey genre";

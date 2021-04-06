@@ -1,1 +1,1 @@
-var mnemonic = "chat legal prepare donate stand hawk keen chef predict erode ready anchor";
+var mnemonic = "reform then tunnel hidden junk own blanket receive top supply keen tissue";

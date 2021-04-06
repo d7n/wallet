@@ -1,1 +1,1 @@
-var mnemonic = "enroll lens clap thought favorite mystery shuffle exhibit earn coyote broken pioneer";
+var mnemonic = "decline bomb protect seed embrace south start virus pudding smart material guide";

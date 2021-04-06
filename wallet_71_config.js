@@ -1,1 +1,1 @@
-var mnemonic = "suit state rapid similar payment muffin mimic acid weekend under bubble illness";
+var mnemonic = "view course regular ice joy lumber unhappy catch often scrub life cereal";

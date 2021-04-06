@@ -1,1 +1,1 @@
-var mnemonic = "tank breeze symptom empower total script pistol abstract flash window gospel right";
+var mnemonic = "theory toddler target enact pig travel skull point save siren glue regular";

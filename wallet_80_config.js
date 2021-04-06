@@ -1,1 +1,1 @@
-var mnemonic = "chest outdoor cat step other stadium clap audit peasant course place quantum";
+var mnemonic = "soda rapid drive vote invest output report notice agree cook chef apart";

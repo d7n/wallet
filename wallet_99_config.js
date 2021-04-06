@@ -1,1 +1,1 @@
-var mnemonic = "scissors enough bid dutch dish tank syrup dizzy approve always vital spray";
+var mnemonic = "lab lazy float lamp talk snake century vault breeze price system giraffe";

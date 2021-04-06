@@ -1,1 +1,1 @@
-var mnemonic = "hover advance fantasy flip immense sample open decrease tide piano smoke small";
+var mnemonic = "air tribe canal inherit album private stable history wisdom admit modify expand";

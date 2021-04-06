@@ -1,1 +1,1 @@
-var mnemonic = "range unusual moment follow marine stuff decide radio shuffle bargain improve same";
+var mnemonic = "loyal hip park tenant clog fall draw real price tomorrow network unlock";

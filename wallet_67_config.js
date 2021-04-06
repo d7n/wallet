@@ -1,1 +1,1 @@
-var mnemonic = "civil inspire satoshi predict rally depend confirm initial spider inject coyote local";
+var mnemonic = "today sound raw language virus spare state slight ripple quality smooth flee";

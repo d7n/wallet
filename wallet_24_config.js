@@ -1,1 +1,1 @@
-var mnemonic = "trigger term board noodle old thank jungle enemy first tired host comic";
+var mnemonic = "action door hand stamp person able engine session jaguar rabbit stand angle";

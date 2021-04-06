@@ -1,1 +1,1 @@
-var mnemonic = "sorry sauce ghost reflect bless eternal crunch bid believe script violin zebra";
+var mnemonic = "stadium cake chimney stick mandate lyrics time tired want middle image cruel";

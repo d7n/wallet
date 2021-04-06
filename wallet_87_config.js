@@ -1,1 +1,1 @@
-var mnemonic = "question conduct trial issue owner bacon bamboo cabbage tongue sadness theme trash";
+var mnemonic = "solar syrup rice raccoon script venture plunge seek rapid life acquire cousin";

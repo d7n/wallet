@@ -1,1 +1,1 @@
-var mnemonic = "obtain coil holiday mule stuff powder obvious cargo cheap middle dune gift";
+var mnemonic = "hero kingdom topic blood disorder expose settle please hello obscure master feed";

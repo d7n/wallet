@@ -1,1 +1,1 @@
-var mnemonic = "casino purity ask animal wedding turkey sea post twenty person sign diamond";
+var mnemonic = "clever dad pact parrot shuffle peanut festival trend fish truly wire hedgehog";

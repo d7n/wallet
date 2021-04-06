@@ -1,1 +1,1 @@
-var mnemonic = "spot rural daring sell truck connect injury benefit grant vault jump between";
+var mnemonic = "million extra round bulk fault unveil also dish rent stairs drive best";

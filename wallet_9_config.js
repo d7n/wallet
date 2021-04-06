@@ -1,1 +1,1 @@
-var mnemonic = "snap duck rent left domain husband zero budget choose drop nut depart";
+var mnemonic = "orbit ahead advice office swing message eyebrow afford broccoli option endorse index";

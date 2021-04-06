@@ -1,1 +1,1 @@
-var mnemonic = "extend vintage cushion flower napkin wise vessel height lawn atom panda undo";
+var mnemonic = "transfer eager demand faculty market near worry runway notice reward hello despair";

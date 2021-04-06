@@ -1,1 +1,1 @@
-var mnemonic = "page differ theory feature gold school unlock oil chief issue creek manage";
+var mnemonic = "check village bachelor scrub harvest wet tennis cigar whisper moon average local";

@@ -1,1 +1,1 @@
-var mnemonic = "foster flag employ stadium wood cupboard deliver spare finger tenant swarm brain";
+var mnemonic = "night repeat buffalo camp together double dry narrow pupil hockey tennis budget";

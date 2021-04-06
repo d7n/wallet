@@ -1,1 +1,1 @@
-var mnemonic = "oxygen antenna cushion adjust section desert safe fork blanket vendor quick neglect";
+var mnemonic = "satoshi music six fault thought stock report lonely kangaroo box loop mystery";

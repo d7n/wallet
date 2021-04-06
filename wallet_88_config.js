@@ -1,1 +1,1 @@
-var mnemonic = "cargo actor woman dizzy dolphin across supreme hill inhale spend parrot divert";
+var mnemonic = "arch fall nurse better carry dentist wrist cabbage burst palace obscure summer";

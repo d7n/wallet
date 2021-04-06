@@ -1,1 +1,1 @@
-var mnemonic = "level course cake slim comic soul flee symbol record tube mystery husband";
+var mnemonic = "sword copy gate tuna fuel warm toast bicycle beef cheap champion calm";

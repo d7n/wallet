@@ -1,1 +1,1 @@
-var mnemonic = "practice across easy pizza office program sound essence utility script key guide";
+var mnemonic = "ahead royal wild cloth embody winner cancel poet urban carry blue napkin";

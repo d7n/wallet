@@ -1,1 +1,1 @@
-var mnemonic = "occur transfer fringe when upon ankle tail address mail unit brown trend";
+var mnemonic = "evoke wing valley afford switch broccoli beach labor wall song school advice";

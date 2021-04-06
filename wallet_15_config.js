@@ -1,1 +1,1 @@
-var mnemonic = "quality chef gain flavor island love neglect demand share hundred chase weird";
+var mnemonic = "indicate whisper giant will prison minute trumpet crop table account runway subject";

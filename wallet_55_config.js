@@ -1,1 +1,1 @@
-var mnemonic = "caution great flee rare faint basket orient game wire census nurse person";
+var mnemonic = "usual tip defense gift mushroom panic this olive shop month planet vital";

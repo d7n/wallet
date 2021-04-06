@@ -1,1 +1,1 @@
-var mnemonic = "two success salad chunk rebuild peace road heavy deal fire mask body";
+var mnemonic = "success trophy stock dirt state banana remove wet work stamp print habit";

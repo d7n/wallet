@@ -1,1 +1,1 @@
-var mnemonic = "oxygen wisdom answer undo tube bounce arena cactus alley state seven prepare";
+var mnemonic = "episode glove silent replace awful palace cart brisk tuition shock school dragon";

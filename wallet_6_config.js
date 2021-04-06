@@ -1,1 +1,1 @@
-var mnemonic = "cigar abandon era audit assume quick weekend behave aerobic hospital board cannon";
+var mnemonic = "velvet input fine category couch mixture gossip castle cheese jelly also potato";

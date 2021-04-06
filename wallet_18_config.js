@@ -1,1 +1,1 @@
-var mnemonic = "close wrap flip camp income kangaroo board acid gift success boss winter";
+var mnemonic = "have voyage tag stereo control adult claw pink clever fame pistol board";

@@ -1,1 +1,1 @@
-var mnemonic = "shed search poet since answer detail spell wood eternal park town trial";
+var mnemonic = "carpet sweet skate flock hello economy carpet machine island crater ignore flock";

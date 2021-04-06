@@ -1,1 +1,1 @@
-var mnemonic = "behave agree author crumble wet ensure crime notable loan indicate receive borrow";
+var mnemonic = "crowd siren caught purchase kingdom between hope uncover ankle mountain glove field";

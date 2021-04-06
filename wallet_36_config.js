@@ -1,1 +1,1 @@
-var mnemonic = "trigger speed gather ensure lake little essay shift wild border topple start";
+var mnemonic = "admit nephew wheel pencil afford symptom process grunt heavy venue bargain paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "angle glove hover describe prefer warm inside master discover rescue pole horse";
+var mnemonic = "office rib inflict clown pioneer poverty play debate perfect name system select";

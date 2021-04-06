@@ -1,1 +1,1 @@
-var mnemonic = "survey glove coral sense jacket destroy rice current bachelor tag wife erase";
+var mnemonic = "once avoid hair uncover thrive size tongue just climb bundle october two";

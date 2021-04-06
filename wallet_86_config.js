@@ -1,1 +1,1 @@
-var mnemonic = "random spice venture goddess outside romance problem orange hurry attend wild police";
+var mnemonic = "cigar birth knee fuel relief load voyage crisp arch sea start enemy";

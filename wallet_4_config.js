@@ -1,1 +1,1 @@
-var mnemonic = "broccoli fluid glare endorse smart anchor draft owner spread dawn lens decide";
+var mnemonic = "umbrella large learn relief idea track ticket oak excuse wool napkin pepper";

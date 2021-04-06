@@ -1,1 +1,1 @@
-var mnemonic = "gate myself win jaguar offer tattoo first wool bread welcome tube own";
+var mnemonic = "soon short jazz blast bomb vote twenty guitar gasp like oil fresh";

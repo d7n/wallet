@@ -1,1 +1,1 @@
-var mnemonic = "garbage mother insect hotel away ship bounce cute scatter produce sister chair";
+var mnemonic = "mirror message north snack impulse final jacket year choice local essay enough";

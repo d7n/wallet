@@ -1,1 +1,1 @@
-var mnemonic = "filter shove art memory cave awful artwork knock autumn license learn average";
+var mnemonic = "lobster dolphin three warm year regret angry actual oblige course volume replace";

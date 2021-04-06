@@ -1,1 +1,1 @@
-var mnemonic = "found reveal flock race useful breeze they say around rib reopen glance";
+var mnemonic = "appear capital inquiry surge unaware blanket notice merry punch monitor love reduce";

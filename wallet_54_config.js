@@ -1,1 +1,1 @@
-var mnemonic = "hour clock grace apart priority any faith speak sweet human vapor key";
+var mnemonic = "fault east disagree dose cute salad merry leader foot twin shuffle lonely";

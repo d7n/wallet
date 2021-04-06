@@ -1,1 +1,1 @@
-var mnemonic = "curious unlock stairs priority item worry choice pair ski draw brain hollow";
+var mnemonic = "height finger axis above similar regret upset avocado patch meat maple salt";

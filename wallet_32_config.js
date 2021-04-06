@@ -1,1 +1,1 @@
-var mnemonic = "warrior combine wave tower cabin comic solution attract use turkey where kit";
+var mnemonic = "demise oblige benefit illegal hockey air dust excite indoor original cost ginger";

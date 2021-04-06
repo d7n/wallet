@@ -1,1 +1,1 @@
-var mnemonic = "razor result brother siege staff term ranch lake fury bind true people";
+var mnemonic = "demand brother disagree report wrap junk always fat ribbon vessel decide egg";
