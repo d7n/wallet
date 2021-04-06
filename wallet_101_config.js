@@ -1,1 +1,1 @@
-var mnemonic = "oval charge unable teach seven sentence pair gold style museum grow front";
+var mnemonic = "dream kite until liquid twelve used machine become issue client popular define";

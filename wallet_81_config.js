@@ -1,1 +1,1 @@
-var mnemonic = "birth believe loud tone pink mask trade total traffic salute birth buffalo";
+var mnemonic = "circle genius virus update pottery basket suffer struggle debate gentle clump soccer";

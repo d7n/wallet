@@ -1,1 +1,1 @@
-var mnemonic = "also insane truth cash famous later raccoon switch now name mystery kick";
+var mnemonic = "gain reason payment minimum profit future flight fade typical steak scan boy";

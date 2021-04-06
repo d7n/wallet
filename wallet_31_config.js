@@ -1,1 +1,1 @@
-var mnemonic = "pulp talk reason fox blouse charge salmon vanish erase market develop way";
+var mnemonic = "click verify camp until vocal just theme truck uniform melt tomato risk";

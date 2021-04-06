@@ -1,1 +1,1 @@
-var mnemonic = "link airport type absent sound city cook erode half country arrow medal";
+var mnemonic = "west venue suit tackle utility legend genuine tone slice mansion hover rent";

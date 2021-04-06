@@ -1,1 +1,1 @@
-var mnemonic = "regret finger print lock anchor film torch chaos ankle destroy frozen assume";
+var mnemonic = "ship cook funny acid syrup mass emerge sample climb lawn urge six";

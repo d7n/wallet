@@ -1,1 +1,1 @@
-var mnemonic = "pass usual balcony gather rough document evidence bachelor toward fatigue desert record";
+var mnemonic = "world flame lazy employ kingdom day rebel anxiety able one stock duty";

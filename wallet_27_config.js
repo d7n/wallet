@@ -1,1 +1,1 @@
-var mnemonic = "clock whip reopen depth song alcohol account famous slogan mean inmate apology";
+var mnemonic = "flash ahead lesson much left brave traffic meat auto mammal push argue";

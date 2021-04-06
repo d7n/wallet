@@ -1,1 +1,1 @@
-var mnemonic = "tent hotel real shadow obey prevent people cigar empty eager visit solar";
+var mnemonic = "fold rely shrug audit jewel balcony practice rigid clinic large cave trash";

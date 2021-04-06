@@ -1,1 +1,1 @@
-var mnemonic = "million nature pretty strategy valve rich galaxy soda outside magic drip because";
+var mnemonic = "make fox curtain force income movie month level february adjust trim among";

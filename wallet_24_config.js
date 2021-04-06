@@ -1,1 +1,1 @@
-var mnemonic = "stem uphold inform hold spoon error bamboo shrimp oven matrix fringe stumble";
+var mnemonic = "insane cereal tortoise erosion scan legend require olympic north trash lesson area";

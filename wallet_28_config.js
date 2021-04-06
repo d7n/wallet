@@ -1,1 +1,1 @@
-var mnemonic = "rare silly deposit team remember adjust mouse angle come main soup fever";
+var mnemonic = "bullet balance rocket apple unveil forget inner note curious describe spatial laptop";

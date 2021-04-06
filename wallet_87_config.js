@@ -1,1 +1,1 @@
-var mnemonic = "march embody behave second kitten pen license captain donkey skirt onion perfect";
+var mnemonic = "large gauge skate another concert despair opinion much enlist wash end into";

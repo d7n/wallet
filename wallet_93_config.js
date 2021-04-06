@@ -1,1 +1,1 @@
-var mnemonic = "ring cushion online satoshi slide marriage material proud banana reflect taste shield";
+var mnemonic = "blouse credit mix wink margin hungry fuel alpha dilemma defy upper ignore";

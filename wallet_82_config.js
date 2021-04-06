@@ -1,1 +1,1 @@
-var mnemonic = "dash find affair rhythm aunt display occur unfold develop stamp search retreat";
+var mnemonic = "bottom boy relax cruise pattern tobacco gift walk ticket repeat blade hire";

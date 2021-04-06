@@ -1,1 +1,1 @@
-var mnemonic = "twin later dust injury search artefact rough spice cinnamon raise hobby stadium";
+var mnemonic = "way solid crime demand plug original cigar earth strike escape famous author";

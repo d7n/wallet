@@ -1,1 +1,1 @@
-var mnemonic = "thank false trial tell budget enforce plate kitchen drum cushion fiscal moon";
+var mnemonic = "guide erase again damage august harbor leave limit river canal despair picture";

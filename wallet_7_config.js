@@ -1,1 +1,1 @@
-var mnemonic = "talk supply humor spoon impact knock cereal off adjust grow journey success";
+var mnemonic = "immense runway run seek dish timber bargain appear badge wage gold other";

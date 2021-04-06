@@ -1,1 +1,1 @@
-var mnemonic = "blanket elegant cycle collect allow sister guitar viable weasel eternal cover tortoise";
+var mnemonic = "rocket ocean thing robust since eagle nest auction safe emerge label congress";

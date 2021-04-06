@@ -1,1 +1,1 @@
-var mnemonic = "slab world only twelve boring where stairs orchard student eye ecology prevent";
+var mnemonic = "cover child carbon thunder drip crunch search float scatter coil spot burden";

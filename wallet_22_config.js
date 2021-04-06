@@ -1,1 +1,1 @@
-var mnemonic = "fence silver gather decline hollow hedgehog body citizen base opera dance over";
+var mnemonic = "trade enough unit tuition dawn organ seminar vendor close portion laugh before";

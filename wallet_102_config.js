@@ -1,1 +1,1 @@
-var mnemonic = "matter clutch differ clip cradle ride foster humor winner dinner hurdle argue";
+var mnemonic = "stomach length little absorb someone water pottery popular learn calm equip grab";

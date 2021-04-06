@@ -1,1 +1,1 @@
-var mnemonic = "cloud uniform mean south ritual trade type float nasty broccoli prepare reopen";
+var mnemonic = "grain recycle jealous ice motor guitar evolve explain gaze gun arm spoil";

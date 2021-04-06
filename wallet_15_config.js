@@ -1,1 +1,1 @@
-var mnemonic = "achieve topple grunt rack junk draft lion nurse sauce gauge wing frozen";
+var mnemonic = "cage exit apple ladder ignore alter settle such smile leg write simple";

@@ -1,1 +1,1 @@
-var mnemonic = "praise chunk veteran regret script hybrid mystery quick dolphin fuel claw regular";
+var mnemonic = "rather tiny settle inform staff paper honey never below float kitten exercise";

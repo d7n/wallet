@@ -1,1 +1,1 @@
-var mnemonic = "cake aware labor actor hill sniff oven pigeon erode smooth once kick";
+var mnemonic = "wing install ice wave gain salt pool minor confirm toilet history act";

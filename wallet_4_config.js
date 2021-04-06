@@ -1,1 +1,1 @@
-var mnemonic = "chef author odor involve clown tongue morning use asset assist elegant must";
+var mnemonic = "winter crane choice usual attend leader become derive moment cycle link tuna";

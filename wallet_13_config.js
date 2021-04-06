@@ -1,1 +1,1 @@
-var mnemonic = "chuckle practice divide certain helmet time face pull spatial couch only field";
+var mnemonic = "huge cute depart nurse evoke wire capable baby science vendor unfold skirt";

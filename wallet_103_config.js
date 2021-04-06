@@ -1,1 +1,1 @@
-var mnemonic = "drum robust pilot forum bench patient control random stove confirm artefact usage";
+var mnemonic = "engine trust uncle stay series square light angry top okay poem delay";

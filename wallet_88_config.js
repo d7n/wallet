@@ -1,1 +1,1 @@
-var mnemonic = "abuse match gym anchor dust page world hello income include hurt upper";
+var mnemonic = "giggle air thrive sweet slice truth raise dune bunker spray old piano";

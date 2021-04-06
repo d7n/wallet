@@ -1,1 +1,1 @@
-var mnemonic = "surface reject pelican opinion wire danger fiscal sorry salt slow ketchup ivory";
+var mnemonic = "exhibit rose neglect resist guilt spice lock injury prosper someone salute pluck";

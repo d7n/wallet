@@ -1,1 +1,1 @@
-var mnemonic = "hurdle rent foam close impact iron share door throw divert inmate blush";
+var mnemonic = "reunion power nothing dirt boat alpha gate oil muffin desk frost traffic";

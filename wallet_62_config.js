@@ -1,1 +1,1 @@
-var mnemonic = "basket swim meat art boil wave gauge machine despair alcohol same rotate";
+var mnemonic = "cube rail render march ticket seminar toy road risk outdoor audit title";

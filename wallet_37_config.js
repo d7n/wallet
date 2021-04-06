@@ -1,1 +1,1 @@
-var mnemonic = "cage range detail pupil company session aware viable can direct wave story";
+var mnemonic = "dismiss banner achieve frost lucky force pitch message olive upset finish shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "daring enlist cause allow screen aerobic apology suit walnut clown someone meat";
+var mnemonic = "degree birth lottery domain ring reject series exist unit kidney speak convince";

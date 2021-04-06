@@ -1,1 +1,1 @@
-var mnemonic = "attack vessel hammer dress power attitude wire manage buddy torch excess disease";
+var mnemonic = "subway hello force oven field crane stick right under old urban canyon";

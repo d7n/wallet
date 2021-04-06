@@ -1,1 +1,1 @@
-var mnemonic = "dizzy float prefer laugh company manual brother flee program lesson frame vanish";
+var mnemonic = "know offer sketch cook winter credit school kidney forward double ridge sock";

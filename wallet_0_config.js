@@ -1,1 +1,1 @@
-var mnemonic = "forum outdoor extend basic mouse federal bracket month cattle sunset asthma satoshi";
+var mnemonic = "pattern exile observe noise punch use blanket blossom remove render banner rug";

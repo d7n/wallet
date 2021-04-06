@@ -1,1 +1,1 @@
-var mnemonic = "island sibling usage enroll forum ginger session reward exact extend detail link";
+var mnemonic = "cactus science crane visual print pudding brass diesel profit concert museum pink";

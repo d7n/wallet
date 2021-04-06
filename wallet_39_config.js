@@ -1,1 +1,1 @@
-var mnemonic = "bottom army wide list glue false parent future captain empty when poem";
+var mnemonic = "pencil black dismiss iron write favorite govern syrup tunnel tongue comic crucial";

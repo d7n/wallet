@@ -1,1 +1,1 @@
-var mnemonic = "wrap elephant forget attitude glad inhale forward impact wet slush peanut catalog";
+var mnemonic = "wear coffee host monitor obey pact feel drip sorry hurry sick second";

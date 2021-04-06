@@ -1,1 +1,1 @@
-var mnemonic = "letter will unveil sudden game ritual best antique hidden dash gesture fitness";
+var mnemonic = "cloth session spend birth track domain pilot wise elephant salmon donate run";

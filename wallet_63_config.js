@@ -1,1 +1,1 @@
-var mnemonic = "worth snap best inject family empty warfare gate filter better flower race";
+var mnemonic = "resist convince allow fault truck maze coil satoshi extend lamp south hospital";

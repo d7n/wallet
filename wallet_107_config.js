@@ -1,1 +1,1 @@
-var mnemonic = "seminar awake helmet swamp celery keen hold celery mother regular device timber";
+var mnemonic = "kitchen east vanish describe normal tribe hedgehog north inject round citizen parrot";

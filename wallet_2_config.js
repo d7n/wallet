@@ -1,1 +1,1 @@
-var mnemonic = "elevator keep day eager enable purse ozone word shoe limb select hamster";
+var mnemonic = "nation rely hybrid brush piano dawn throw seed rule cube main route";

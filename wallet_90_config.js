@@ -1,1 +1,1 @@
-var mnemonic = "column entry hundred jewel tortoise kit planet squeeze check festival figure thought";
+var mnemonic = "swarm essence delay hard blast whisper spray bar arch damage illegal side";

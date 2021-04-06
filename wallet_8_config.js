@@ -1,1 +1,1 @@
-var mnemonic = "skirt ticket crystal coil wealth alien ability actual shield keen tail obtain";
+var mnemonic = "response antenna such army convince menu bomb economy pitch scheme stomach social";

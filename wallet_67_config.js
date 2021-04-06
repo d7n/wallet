@@ -1,1 +1,1 @@
-var mnemonic = "yard letter island tobacco gadget ocean pet hill priority wedding fancy subway";
+var mnemonic = "flip holiday guide access above shaft gown enroll transfer exile sound grape";

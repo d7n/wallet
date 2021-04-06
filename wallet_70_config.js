@@ -1,1 +1,1 @@
-var mnemonic = "now bulk rib guard party demise caution guard lab soccer wagon ripple";
+var mnemonic = "predict surround brief phone unable box nice crane fog wife rabbit inner";

@@ -1,1 +1,1 @@
-var mnemonic = "discover aware plunge grit yellow cliff spirit inherit prepare book loan true";
+var mnemonic = "gallery evidence open rose differ left this piano rally immense egg purity";

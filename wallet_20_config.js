@@ -1,1 +1,1 @@
-var mnemonic = "curious split rebuild useless exile pool hill cricket athlete inquiry blade believe";
+var mnemonic = "spring beauty business pole pull galaxy camp warfare renew ensure stay flee";

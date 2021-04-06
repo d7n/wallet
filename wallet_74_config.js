@@ -1,1 +1,1 @@
-var mnemonic = "saddle thought apart profit erupt city army license spare worry fortune park";
+var mnemonic = "thumb few camp circle nerve phrase camera security pull dwarf solid drama";

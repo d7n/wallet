@@ -1,1 +1,1 @@
-var mnemonic = "kitchen boring mandate gate title south end upon electric frame hour churn";
+var mnemonic = "select must close year inherit robust spray deal confirm gown warfare mistake";

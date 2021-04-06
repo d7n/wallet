@@ -1,1 +1,1 @@
-var mnemonic = "express basket lend kiwi canyon scale elephant body anger wide nerve define";
+var mnemonic = "lemon main salmon fish bird offer ivory already because frog wish melody";

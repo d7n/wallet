@@ -1,1 +1,1 @@
-var mnemonic = "cream wedding horror steak sudden cradle beauty wonder lake cry monster mule";
+var mnemonic = "lend quit stomach gather park couple where scheme six bind thought alarm";

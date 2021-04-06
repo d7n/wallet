@@ -1,1 +1,1 @@
-var mnemonic = "secret peanut across thumb refuse cinnamon empower virus step start benefit color";
+var mnemonic = "robust skull vapor cluster tag soap carpet project grab giggle shed draw";

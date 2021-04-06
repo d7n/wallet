@@ -1,1 +1,1 @@
-var mnemonic = "embark soon anchor park festival surprise fold depart absurd victory auto borrow";
+var mnemonic = "girl ketchup chuckle host armor undo aunt jacket opera tunnel surface coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "roof earth dog believe before waste weather bulk select gossip civil cart";
+var mnemonic = "one cover bone foot transfer refuse can bike arrive curve onion decorate";

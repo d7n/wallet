@@ -1,1 +1,1 @@
-var mnemonic = "light middle climb cover slight fan helmet early chase reopen tone seed";
+var mnemonic = "garbage emerge screen wrap radar crumble despair funny bounce alert snake comic";

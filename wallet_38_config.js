@@ -1,1 +1,1 @@
-var mnemonic = "rubber coach regular chalk swift adapt anxiety voyage ocean foot pigeon banana";
+var mnemonic = "orange survey install jazz gold whip autumn mystery undo error lounge boat";

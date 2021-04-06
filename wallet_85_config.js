@@ -1,1 +1,1 @@
-var mnemonic = "digital fabric drink power purpose output cake cart kiwi pioneer pizza finger";
+var mnemonic = "asset voice book range subway tilt denial tackle clay vivid fiber ice";

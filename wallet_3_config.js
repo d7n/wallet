@@ -1,1 +1,1 @@
-var mnemonic = "party chief pattern basket carry focus crash budget swift security chapter derive";
+var mnemonic = "mixture kite rug inmate hub battle churn alien device cycle scout mouse";

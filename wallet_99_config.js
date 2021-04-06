@@ -1,1 +1,1 @@
-var mnemonic = "earn virus butter rare one punch two remind inflict famous wine excite";
+var mnemonic = "winter link blood hospital relief unusual pond skirt certain document pact sauce";

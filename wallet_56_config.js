@@ -1,1 +1,1 @@
-var mnemonic = "picture tube choice foot buffalo bounce estate guilt resemble decorate sign detail";
+var mnemonic = "scorpion shield spoil gym lesson entry loyal achieve drip clerk suit zoo";

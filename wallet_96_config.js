@@ -1,1 +1,1 @@
-var mnemonic = "label bitter walk oil hand turtle similar quit man improve flip act";
+var mnemonic = "sea much announce case tell left scan daughter puzzle earn pact solid";

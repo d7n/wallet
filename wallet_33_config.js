@@ -1,1 +1,1 @@
-var mnemonic = "pride shoulder speed illness luggage office envelope rule cart mention use jacket";
+var mnemonic = "obscure base tourist cable half detect fabric trophy theme athlete spike under";

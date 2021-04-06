@@ -1,1 +1,1 @@
-var mnemonic = "any blood provide machine normal sugar wait trust name pony spend cheese";
+var mnemonic = "bleak reward ranch clown net member fade office august worth miracle fan";

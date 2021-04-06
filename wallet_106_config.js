@@ -1,1 +1,1 @@
-var mnemonic = "penalty hand apple sniff obey enrich kiwi crunch weird they bread sun";
+var mnemonic = "wagon scrub urban erase slam choice april endless hero cereal bring harbor";

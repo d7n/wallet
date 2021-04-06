@@ -1,1 +1,1 @@
-var mnemonic = "usual figure manual vibrant verb again submit nature cruise banana hire sell";
+var mnemonic = "brass approve artist erupt honey month cable belt kidney horse calm damage";

@@ -1,1 +1,1 @@
-var mnemonic = "segment frozen time punch various tank release cover recipe humor sea quiz";
+var mnemonic = "across also fabric private legend remove length note range trash slogan melt";

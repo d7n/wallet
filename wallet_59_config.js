@@ -1,1 +1,1 @@
-var mnemonic = "inhale hammer rude twelve fiber track disagree mix team original record rifle";
+var mnemonic = "muscle mind way trash glance tourist habit chief execute pretty pitch trouble";

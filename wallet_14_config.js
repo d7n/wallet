@@ -1,1 +1,1 @@
-var mnemonic = "napkin muffin height ship injury craft clever parrot hurt must section state";
+var mnemonic = "under web loyal slide bulb put stand rabbit total client brand genius";

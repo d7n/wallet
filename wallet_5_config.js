@@ -1,1 +1,1 @@
-var mnemonic = "brother network version little stove dove quality visit eager direct body forward";
+var mnemonic = "razor unveil panda mind meat ostrich gentle hedgehog decide lift over define";

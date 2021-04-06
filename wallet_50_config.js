@@ -1,1 +1,1 @@
-var mnemonic = "empower popular aunt bubble call hurdle merge engine muscle master witness expire";
+var mnemonic = "biology gaze surge bless laptop special core antique pudding dignity fire pipe";

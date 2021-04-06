@@ -1,1 +1,1 @@
-var mnemonic = "alert pupil quit accuse copper seek harsh fever setup same scatter glide";
+var mnemonic = "plate reject replace empty ozone magnet jewel rhythm maximum shrug flock exclude";

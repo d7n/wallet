@@ -1,1 +1,1 @@
-var mnemonic = "peanut tank blast exercise moment hollow adapt artefact chair check recycle company";
+var mnemonic = "gentle apart juice crime position creek borrow ridge party flag matter retreat";

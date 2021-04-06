@@ -1,1 +1,1 @@
-var mnemonic = "inner wife excite circle van employ negative author artwork allow ship merge";
+var mnemonic = "license enroll demand sphere place weather deer steel little crawl elegant frown";

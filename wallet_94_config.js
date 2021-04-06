@@ -1,1 +1,1 @@
-var mnemonic = "coach other priority rude build power isolate paddle nature giraffe provide farm";
+var mnemonic = "town treat eager potato garbage mind salt resist adult nature panel vital";

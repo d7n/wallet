@@ -1,1 +1,1 @@
-var mnemonic = "issue advance syrup wall promote away ancient elevator dinosaur twin remove jungle";
+var mnemonic = "upon twice decrease trade genius eagle toast rescue manual radio input stereo";

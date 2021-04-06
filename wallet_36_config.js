@@ -1,1 +1,1 @@
-var mnemonic = "just entry barely acquire midnight mercy skate swamp dirt organ guard school";
+var mnemonic = "trigger vapor awful velvet staff elephant fashion future blind beyond left begin";

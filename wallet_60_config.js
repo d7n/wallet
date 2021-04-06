@@ -1,1 +1,1 @@
-var mnemonic = "grant order subject food edit color labor horror ethics crack judge tooth";
+var mnemonic = "surround marble truck utility output obtain mosquito bench clown globe spirit orbit";

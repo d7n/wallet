@@ -1,1 +1,1 @@
-var mnemonic = "cattle eyebrow cabbage dial weapon stamp shrug pledge menu rebel liar minimum";
+var mnemonic = "benefit amateur company amateur tourist goddess local shadow two indicate legal skill";

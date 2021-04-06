@@ -1,1 +1,1 @@
-var mnemonic = "jacket radar ghost search foster radar kitten task unaware polar drink shift";
+var mnemonic = "blanket trophy solid payment ankle mean output pond crazy caution excuse outer";

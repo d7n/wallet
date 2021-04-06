@@ -1,1 +1,1 @@
-var mnemonic = "mail west athlete flee mechanic hover strategy sadness enroll grocery trash term";
+var mnemonic = "hollow pear clutch present provide stock tree sail device school garment avocado";

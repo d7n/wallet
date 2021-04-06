@@ -1,1 +1,1 @@
-var mnemonic = "relief answer food busy skull insect powder multiply brain orphan suit play";
+var mnemonic = "olympic wood today then raw net snake smart decorate oven honey option";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin glow curious receive broom exhaust wrestle charge point lunar erosion account";
+var mnemonic = "permit one street disagree chapter already world volcano purpose hire just bid";

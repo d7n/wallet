@@ -1,1 +1,1 @@
-var mnemonic = "organ acid august steak reject fitness snow blanket distance ivory knife notice";
+var mnemonic = "lawsuit struggle remember rifle interest coil broom shed fan cat devote tide";

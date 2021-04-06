@@ -1,1 +1,1 @@
-var mnemonic = "valve anxiety hedgehog jazz rely way panel subject mail crawl motor earth";
+var mnemonic = "grunt extend color slide depart road chuckle certain impose viable bike jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "soda extend olympic chief chief egg alcohol need patrol caution alpha stage";
+var mnemonic = "leg magic paddle frog local pattern bonus burger rapid cake mistake income";

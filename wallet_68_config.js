@@ -1,1 +1,1 @@
-var mnemonic = "fatal ghost enlist mom dose anxiety extend false train million dizzy minor";
+var mnemonic = "grow wide vital nest dutch property tumble special layer end knee hint";

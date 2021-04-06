@@ -1,1 +1,1 @@
-var mnemonic = "embrace onion glory awake stool nation ocean guard permit wear spot symbol";
+var mnemonic = "increase roof grass deposit bid cereal latin flat dumb collect viable fly";

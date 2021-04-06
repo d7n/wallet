@@ -1,1 +1,1 @@
-var mnemonic = "sand clean bean nephew where kind tackle brother sauce position phone slow";
+var mnemonic = "soccer make extend poem below multiply bomb erupt arctic jump ramp wrist";

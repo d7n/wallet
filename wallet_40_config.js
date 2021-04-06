@@ -1,1 +1,1 @@
-var mnemonic = "song fun bottom apart pony dutch ivory mushroom toast prize organ subway";
+var mnemonic = "calm country tape toward abuse obscure dice version delay screen dad panel";

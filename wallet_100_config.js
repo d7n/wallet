@@ -1,1 +1,1 @@
-var mnemonic = "clutch clown trophy health novel inform snow olive army inhale piano ladder";
+var mnemonic = "range badge cover ring render tray suggest awkward release cupboard fly insect";

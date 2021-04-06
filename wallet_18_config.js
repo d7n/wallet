@@ -1,1 +1,1 @@
-var mnemonic = "leg toilet immense planet idle shove beauty garden unhappy barely neither exist";
+var mnemonic = "chase host soap news hope aim lyrics defy high history frozen brush";
