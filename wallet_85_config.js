@@ -1,1 +1,1 @@
-var mnemonic = "exist jump sauce end girl finger sauce patient length toss cute metal";
+var mnemonic = "vocal accuse soft grain hip invite design save duck path strategy border";

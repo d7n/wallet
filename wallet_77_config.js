@@ -1,1 +1,1 @@
-var mnemonic = "fatal tape title hybrid fiber ramp pipe point chunk much next glove";
+var mnemonic = "depth sock glove exchange ecology metal salon extra loop help upgrade stairs";

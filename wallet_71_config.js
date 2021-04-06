@@ -1,1 +1,1 @@
-var mnemonic = "hurt judge seat various soap scene joke pigeon radio ten bitter ride";
+var mnemonic = "actual observe property also car matter pistol debris bulb fix staff document";

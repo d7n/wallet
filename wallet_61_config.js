@@ -1,1 +1,1 @@
-var mnemonic = "noise chunk evoke quality seek party spell fluid beef act volume phone";
+var mnemonic = "ethics simple dirt fall nothing deposit flat manage oval rookie amused eager";

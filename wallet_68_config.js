@@ -1,1 +1,1 @@
-var mnemonic = "bind urban nut coral cruise mandate reward dizzy case nuclear pigeon wait";
+var mnemonic = "token caution spatial reward park crime manual defy burst daring ginger leopard";

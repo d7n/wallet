@@ -1,1 +1,1 @@
-var mnemonic = "trend public crisp assume surface sock forward mystery cloth pistol average solid";
+var mnemonic = "garage velvet outdoor salute change receive unique struggle crash wrist track rude";

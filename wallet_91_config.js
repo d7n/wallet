@@ -1,1 +1,1 @@
-var mnemonic = "six devote hello rocket aware rookie time style cigar snow sell strategy";
+var mnemonic = "decade vacant they voyage mix olive panda draft script hockey fence faculty";

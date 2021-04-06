@@ -1,1 +1,1 @@
-var mnemonic = "member local female stand hollow alien time bunker knee notable awful trash";
+var mnemonic = "brown unfair lend rigid lion sugar demise bike addict apple merit february";

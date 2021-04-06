@@ -1,1 +1,1 @@
-var mnemonic = "crime case round cheap shove wood grace reopen uncle daughter inhale crowd";
+var mnemonic = "fragile rain kid expose wedding icon slide drill rocket steak super anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "tube elder swift ride palace mutual stomach crazy select today repair divorce";
+var mnemonic = "page frequent hard foster axis blood mixed history junk this census blanket";

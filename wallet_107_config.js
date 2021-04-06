@@ -1,1 +1,1 @@
-var mnemonic = "person energy economy busy tumble supply slot abandon music proof thing pistol";
+var mnemonic = "column shadow rhythm sun violin course pottery reform expand unable armed answer";

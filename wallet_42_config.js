@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow finish jelly outside genre wink turkey soon mask okay famous check";
+var mnemonic = "illness various catalog farm snap develop swing cost clown priority afford stone";

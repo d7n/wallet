@@ -1,1 +1,1 @@
-var mnemonic = "edge month end beauty agent mean blood initial inner clay denial salmon";
+var mnemonic = "twelve pottery fit jealous venue buzz myth lemon patrol goddess strategy flash";

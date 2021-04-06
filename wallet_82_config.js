@@ -1,1 +1,1 @@
-var mnemonic = "win obey bless alpha project case outside trust layer right during picnic";
+var mnemonic = "drum divide sunny chase object general runway spoon marble peace orange unique";

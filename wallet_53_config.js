@@ -1,1 +1,1 @@
-var mnemonic = "fly amount sample first maximum ranch tornado much glass early guilt family";
+var mnemonic = "dynamic nature else happy phone second boil piano ranch lounge wear exist";

@@ -1,1 +1,1 @@
-var mnemonic = "immune portion sauce wolf enrich one double cabbage science cloud language universe";
+var mnemonic = "because bag abuse weapon ancient under cricket unit alcohol trigger snap beauty";

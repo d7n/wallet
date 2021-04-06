@@ -1,1 +1,1 @@
-var mnemonic = "dinner cattle forum pluck corn ocean giant oil sorry basket change cute";
+var mnemonic = "cream grit deal despair cycle grocery health cigar just that empty wasp";

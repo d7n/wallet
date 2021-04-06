@@ -1,1 +1,1 @@
-var mnemonic = "much report maid violin unfold evolve miracle congress east catch uniform donor";
+var mnemonic = "enjoy deposit major ethics naive target action unhappy account foster name royal";

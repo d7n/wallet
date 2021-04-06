@@ -1,1 +1,1 @@
-var mnemonic = "repair chunk hire blast admit track hurry damage lumber caution toddler orient";
+var mnemonic = "true common skill lemon lift you result stay void dice alcohol stamp";

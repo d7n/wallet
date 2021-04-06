@@ -1,1 +1,1 @@
-var mnemonic = "error bonus tape crowd enrich move search dentist still minimum deny child";
+var mnemonic = "acid vintage vibrant sick tomorrow gloom whip virus draft happy seat divert";

@@ -1,1 +1,1 @@
-var mnemonic = "devote car strategy mad wash soon frown kidney arrive tired kangaroo wide";
+var mnemonic = "margin sad other adapt once balcony erupt beef advance tent common monitor";

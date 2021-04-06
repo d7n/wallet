@@ -1,1 +1,1 @@
-var mnemonic = "doctor loud elevator affair crawl purpose length merit equal frozen urge bunker";
+var mnemonic = "various large wish legend maple between term square digital sea guard firm";

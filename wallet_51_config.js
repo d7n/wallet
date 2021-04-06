@@ -1,1 +1,1 @@
-var mnemonic = "conduct urban monitor just margin ordinary pen cube double pink display awake";
+var mnemonic = "crawl drill jump surround rough early despair science average narrow engage simple";

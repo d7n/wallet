@@ -1,1 +1,1 @@
-var mnemonic = "muffin caution resist lumber involve gloom chief work repeat symptom ostrich egg";
+var mnemonic = "future path whip lady curve boat anxiety office little call skate mutual";

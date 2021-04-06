@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fuel middle approve used cereal license exist series bag satisfy evolve";
+var mnemonic = "update rival course skull tumble diary pyramid animal duck you ski coffee";

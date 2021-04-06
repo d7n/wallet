@@ -1,1 +1,1 @@
-var mnemonic = "moon hospital toast wreck sword monitor winter achieve mask general summer goat";
+var mnemonic = "blood release renew mansion bean clean canoe solar lend cement pigeon boost";

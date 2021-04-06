@@ -1,1 +1,1 @@
-var mnemonic = "evil melody expose radar multiply calm kiss rocket drastic primary gaze rescue";
+var mnemonic = "age road apple hint banner smart drive october marine office harvest fold";

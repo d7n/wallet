@@ -1,1 +1,1 @@
-var mnemonic = "skirt uphold element bulk resist bitter song reject limb possible network stairs";
+var mnemonic = "wrong suffer network century craft plate parrot tonight prefer sample cabin calm";

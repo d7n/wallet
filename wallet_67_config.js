@@ -1,1 +1,1 @@
-var mnemonic = "dwarf saddle tree record field flight motion best patch ceiling smoke bottom";
+var mnemonic = "shield shallow mention educate drop before six ready permit legal high unable";

@@ -1,1 +1,1 @@
-var mnemonic = "friend voyage hobby bounce become auction head donate young hip chalk amazing";
+var mnemonic = "dog magic trap ghost attack remind material robot bless media advice vessel";

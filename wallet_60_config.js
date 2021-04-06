@@ -1,1 +1,1 @@
-var mnemonic = "borrow physical during nest enable web race siren place lizard exhaust kangaroo";
+var mnemonic = "error yard iron stumble once hover wine execute fat sustain man bundle";

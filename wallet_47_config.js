@@ -1,1 +1,1 @@
-var mnemonic = "estate reopen story clay nation old often service page fruit auto maximum";
+var mnemonic = "drip fame subject cloth purpose swift sort lecture stomach force grid theme";

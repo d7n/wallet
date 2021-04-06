@@ -1,1 +1,1 @@
-var mnemonic = "actor sister ski skull chuckle flush wine food siege calm door fitness";
+var mnemonic = "actress enjoy impulse ethics audit speak resemble major comic source fold drop";

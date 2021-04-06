@@ -1,1 +1,1 @@
-var mnemonic = "normal bag filter confirm clock knee merge melt hungry police salt main";
+var mnemonic = "result knock devote rose emerge grow friend ivory assault blush erase monkey";

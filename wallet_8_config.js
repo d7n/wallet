@@ -1,1 +1,1 @@
-var mnemonic = "devote imitate mix approve festival atom dwarf crazy gasp dilemma charge course";
+var mnemonic = "soda begin toy orchard twice volcano damage snack display salt mosquito dynamic";

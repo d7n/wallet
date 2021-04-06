@@ -1,1 +1,1 @@
-var mnemonic = "helmet detail salon quit swap arena behind nasty visual ramp chair glory";
+var mnemonic = "then sea episode apart radio mixture garden rubber increase custom sand toy";

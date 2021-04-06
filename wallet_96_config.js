@@ -1,1 +1,1 @@
-var mnemonic = "where behave cream tortoise adult seat muscle level double mother skin crew";
+var mnemonic = "taste tunnel hawk current spirit artefact doll athlete winner mule bunker flash";

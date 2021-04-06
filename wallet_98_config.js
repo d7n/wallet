@@ -1,1 +1,1 @@
-var mnemonic = "doctor wheel warrior gorilla run zoo burden badge jump cheese despair leader";
+var mnemonic = "make yellow replace erase gold cook razor clock receive frame lab cool";

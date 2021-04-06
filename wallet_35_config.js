@@ -1,1 +1,1 @@
-var mnemonic = "shoot supply borrow art output make end retreat old major beyond matter";
+var mnemonic = "exit dune limit slide happy fat lyrics shrimp arrest anger claim torch";

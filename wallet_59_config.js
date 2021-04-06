@@ -1,1 +1,1 @@
-var mnemonic = "outdoor eyebrow tent room bracket guitar inhale transfer moon move melody canvas";
+var mnemonic = "violin machine scheme elevator prize civil blind segment reopen pioneer virtual grab";

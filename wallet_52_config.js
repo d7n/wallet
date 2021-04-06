@@ -1,1 +1,1 @@
-var mnemonic = "motion fragile hip trade word raccoon spider venture tone satisfy husband design";
+var mnemonic = "master crop achieve cactus shoe olympic duck mom capable topple guard cotton";

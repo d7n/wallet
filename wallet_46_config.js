@@ -1,1 +1,1 @@
-var mnemonic = "smooth name note tobacco debate uniform snap health cheap birth awful under";
+var mnemonic = "poverty bottom host water genius rely innocent hurdle leisure original food oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "draft genius injury random harbor metal ridge snow patch base fatigue soccer";
+var mnemonic = "feature game million you thunder month glove mutual danger bus tobacco police";

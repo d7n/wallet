@@ -1,1 +1,1 @@
-var mnemonic = "cotton tail conduct require party ticket laundry gauge fame swallow monster caution";
+var mnemonic = "aerobic duty provide chapter script merge source author walk warrior tiny crew";

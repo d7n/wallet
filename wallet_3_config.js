@@ -1,1 +1,1 @@
-var mnemonic = "fatigue model fat buffalo noble catalog release auction flock sock lunar cash";
+var mnemonic = "blame dinner useful hammer update baby supreme idea north burst deliver eager";

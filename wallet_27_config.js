@@ -1,1 +1,1 @@
-var mnemonic = "soup father ancient grant rally lobster urge tooth awake excuse unveil normal";
+var mnemonic = "ridge relax emerge chronic bomb pyramid warrior glance thank guide arm tone";

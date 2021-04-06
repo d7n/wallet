@@ -1,1 +1,1 @@
-var mnemonic = "staff timber suggest program midnight reopen total they glad enact poem wife";
+var mnemonic = "imitate able secret resemble time blanket where obvious electric scheme add empty";

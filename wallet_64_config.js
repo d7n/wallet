@@ -1,1 +1,1 @@
-var mnemonic = "veteran climb special unusual office layer flee satisfy example height any cake";
+var mnemonic = "illegal frequent symbol ahead shy bread wonder nest prison mosquito cable humble";

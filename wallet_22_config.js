@@ -1,1 +1,1 @@
-var mnemonic = "rebuild frequent century unlock label announce yellow coast island brain harsh deer";
+var mnemonic = "rice fancy inch seed try canvas scout street bid page once razor";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome problem retreat donor shoe vacant measure mind despair depart patch inner";
+var mnemonic = "glass custom hello walk scale delay cherry birth share school open build";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise riot civil trend turkey vessel hurdle lunar shove inflict identify title";
+var mnemonic = "soldier door topic gaze attract raccoon deputy abuse street point theme sketch";

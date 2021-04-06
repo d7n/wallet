@@ -1,1 +1,1 @@
-var mnemonic = "noise suit purity photo cute when front sheriff vapor apology make donor";
+var mnemonic = "wrestle misery lunch okay loan entry obvious airport insane mansion arm oppose";

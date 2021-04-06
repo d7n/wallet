@@ -1,1 +1,1 @@
-var mnemonic = "town vote hand together whale elegant local fatigue napkin renew calm snow";
+var mnemonic = "wish lyrics increase latin three wonder medal ability split abandon ripple auction";

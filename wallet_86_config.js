@@ -1,1 +1,1 @@
-var mnemonic = "minimum attitude creek genuine library input fuel vast marriage glow duty build";
+var mnemonic = "agent north then moment consider father sorry also put element raven bridge";

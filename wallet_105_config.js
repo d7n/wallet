@@ -1,1 +1,1 @@
-var mnemonic = "daughter spring error lyrics dream soccer cattle pause goose jungle puzzle found";
+var mnemonic = "special false oyster school become grass drastic leave creek skirt father finger";

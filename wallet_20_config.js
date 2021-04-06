@@ -1,1 +1,1 @@
-var mnemonic = "broken expand city saddle plunge saddle patrol reunion decide stand avocado tenant";
+var mnemonic = "gesture maple orphan pudding parrot hover laugh bracket end venture glad adult";

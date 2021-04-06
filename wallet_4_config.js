@@ -1,1 +1,1 @@
-var mnemonic = "link tired person song negative speak chalk group donor gap demand element";
+var mnemonic = "then agree toe fuel middle napkin parrot paper expect lucky soccer rabbit";

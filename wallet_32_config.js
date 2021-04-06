@@ -1,1 +1,1 @@
-var mnemonic = "toy title vintage scale juice boat multiply great mammal first march naive";
+var mnemonic = "flat horn tissue game velvet mass vanish devote account super omit feed";

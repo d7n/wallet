@@ -1,1 +1,1 @@
-var mnemonic = "gain someone melt ketchup height mechanic diagram dawn across win hurt trouble";
+var mnemonic = "area diet lecture desert gasp develop fuel laptop tribe point tennis maximum";

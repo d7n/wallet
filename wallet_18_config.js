@@ -1,1 +1,1 @@
-var mnemonic = "input fitness cave void chunk chicken hazard path satisfy cable vote misery";
+var mnemonic = "once announce soft master note false congress viable blade ski car regular";

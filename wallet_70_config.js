@@ -1,1 +1,1 @@
-var mnemonic = "daughter enjoy liquid fit jump pipe size ship federal domain hurry lumber";
+var mnemonic = "onion timber bonus release cancel torch actor elder trick certain okay winter";

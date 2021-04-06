@@ -1,1 +1,1 @@
-var mnemonic = "swift goose catalog engine economy foil divorce slush female toe zoo dove";
+var mnemonic = "shove recipe victory iron slender popular develop scout eager sunny wisdom demise";

@@ -1,1 +1,1 @@
-var mnemonic = "swift aunt what famous lawsuit pony glare humor regular cereal tennis mouse";
+var mnemonic = "arrive grain brain heart garment nurse betray basic dizzy ahead industry switch";

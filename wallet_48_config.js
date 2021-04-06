@@ -1,1 +1,1 @@
-var mnemonic = "plunge occur perfect defense embody before network brother panic tide harvest kiss";
+var mnemonic = "busy ignore view crisp great sunny multiply rug ancient diet stumble sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "weasel push banner senior apart deal measure vendor arrest skill humble peasant";
+var mnemonic = "lesson install drip tobacco ahead amount rule situate ivory truck april tool";

@@ -1,1 +1,1 @@
-var mnemonic = "salute sponsor practice enter injury shield glare accident distance erupt siege trumpet";
+var mnemonic = "pen couple document follow metal barely blush gift current balcony amateur arrow";

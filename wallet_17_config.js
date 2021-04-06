@@ -1,1 +1,1 @@
-var mnemonic = "release rack engage shed oxygen sadness term subject wise execute effort wasp";
+var mnemonic = "beef lend pony ivory badge twelve palace chest cart fit chalk wink";

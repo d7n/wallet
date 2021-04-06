@@ -1,1 +1,1 @@
-var mnemonic = "web book square antenna royal crawl truck oyster cause almost kiwi artist";
+var mnemonic = "decline voyage armed cloud room note angle pitch poverty fatal mail damp";

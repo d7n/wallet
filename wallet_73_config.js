@@ -1,1 +1,1 @@
-var mnemonic = "crime prize fame embody salute cup stone frequent talent addict rule hungry";
+var mnemonic = "offer blame vapor inform inflict cherry betray mechanic olive belt arm digital";

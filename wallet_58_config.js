@@ -1,1 +1,1 @@
-var mnemonic = "year hawk motor waste flash sense soft close fossil shallow pink guard";
+var mnemonic = "pitch chicken soup brain alarm divide time decorate market budget grow flower";

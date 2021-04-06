@@ -1,1 +1,1 @@
-var mnemonic = "mercy inspire release position wrestle cute theme mosquito enter denial hospital glass";
+var mnemonic = "pledge gasp word say embody salmon purpose sick push embody enrich solid";

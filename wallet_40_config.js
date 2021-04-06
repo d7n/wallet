@@ -1,1 +1,1 @@
-var mnemonic = "net subway humor echo eagle head animal race foster artefact puppy cargo";
+var mnemonic = "phone misery hen urge boy artwork chunk trim reject mail almost street";

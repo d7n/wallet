@@ -1,1 +1,1 @@
-var mnemonic = "tool glimpse rigid possible quote light ensure melt gorilla deposit inhale item";
+var mnemonic = "calm cart ribbon volume year ginger empty snack vapor hollow nut opera";

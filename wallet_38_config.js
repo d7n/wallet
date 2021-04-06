@@ -1,1 +1,1 @@
-var mnemonic = "web brand glass naive weather menu goddess skin genuine trophy rain garage";
+var mnemonic = "nose reduce leader element party feature lottery review sniff joke obey cost";

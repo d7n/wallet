@@ -1,1 +1,1 @@
-var mnemonic = "muffin crawl bleak print share early clock intact ball youth broccoli income";
+var mnemonic = "palm valley pole sister convince symptom large open hour little tattoo captain";

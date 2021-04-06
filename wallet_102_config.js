@@ -1,1 +1,1 @@
-var mnemonic = "treat sudden capital often fold gallery zoo know proud steel table sadness";
+var mnemonic = "turn unusual force reject before invest slight orchard gossip royal attract shallow";

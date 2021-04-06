@@ -1,1 +1,1 @@
-var mnemonic = "indoor outside ceiling seek upper layer exist write hurry title surge siege";
+var mnemonic = "clip tape avoid legend simple gossip cruise report road cradle slight panic";

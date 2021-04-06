@@ -1,1 +1,1 @@
-var mnemonic = "pledge cactus receive robust menu nephew hurdle edge ordinary omit uncover major";
+var mnemonic = "urge story slender fox govern pole abuse tilt country tonight asset visual";

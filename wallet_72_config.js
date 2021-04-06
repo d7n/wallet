@@ -1,1 +1,1 @@
-var mnemonic = "innocent twice mountain gorilla cattle make clay sheriff future maple try inside";
+var mnemonic = "furnace rule disease coil mad true sketch silver apart menu owner reject";

@@ -1,1 +1,1 @@
-var mnemonic = "lift attitude subway neglect entire pepper budget shrug salute similar venture nose";
+var mnemonic = "tornado uncle actress enough push liar online debate steak vacant crack toilet";

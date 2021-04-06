@@ -1,1 +1,1 @@
-var mnemonic = "corn tank size hospital service snack loan kitchen mutual rough runway twelve";
+var mnemonic = "critic ordinary crumble protect candy proof gospel olympic parrot derive present board";

@@ -1,1 +1,1 @@
-var mnemonic = "violin practice position book control school woman broccoli earth become ride echo";
+var mnemonic = "daring stove scrub doctor color approve inmate race gravity blanket very ostrich";

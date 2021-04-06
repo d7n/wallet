@@ -1,1 +1,1 @@
-var mnemonic = "duck fever turn luggage sound exist corn always slice morning process steak";
+var mnemonic = "kite mind drastic satoshi pear clever man master walnut news picture license";

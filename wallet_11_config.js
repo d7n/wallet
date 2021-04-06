@@ -1,1 +1,1 @@
-var mnemonic = "bacon party squirrel rug enact cactus student ivory kid easily biology comfort";
+var mnemonic = "rail clever avocado unfold sing embark certain dad gospel utility dove father";

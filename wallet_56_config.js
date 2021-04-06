@@ -1,1 +1,1 @@
-var mnemonic = "upon sick boy outdoor drum spatial lamp icon nut sand black amount";
+var mnemonic = "romance skate ketchup vendor bundle boy table display label glass shoulder before";

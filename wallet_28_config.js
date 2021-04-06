@@ -1,1 +1,1 @@
-var mnemonic = "roast can garden tell blur despair spring heavy gossip enjoy sweet endless";
+var mnemonic = "safe spray gate before daring vast mixture option aerobic faith witness harvest";
