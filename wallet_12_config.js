@@ -1,1 +1,1 @@
-var mnemonic = "until express lucky avoid quote essence hotel deliver require strike rug height";
+var mnemonic = "nose portion oyster hunt damp perfect bring shrimp genuine net weasel mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "horror picture immune wink tag lawn month immune elbow large virtual term";
+var mnemonic = "stem still response helmet paddle parrot organ mouse cat social crime endorse";

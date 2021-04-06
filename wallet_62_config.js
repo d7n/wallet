@@ -1,1 +1,1 @@
-var mnemonic = "pink expire correct manage sort round degree course review bicycle define song";
+var mnemonic = "peasant express random toy town walk castle caught brisk pumpkin siege need";

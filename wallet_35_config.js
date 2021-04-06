@@ -1,1 +1,1 @@
-var mnemonic = "mountain valid coach skull math soccer prison snack liberty rally auto dust";
+var mnemonic = "ridge twice deposit airport tobacco shed virus fix ski moment exile badge";

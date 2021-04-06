@@ -1,1 +1,1 @@
-var mnemonic = "spatial boy pull truck cheap attract top betray ride stool toss critic";
+var mnemonic = "festival people cream clever ask method inspire panic panda perfect bulb digital";

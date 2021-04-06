@@ -1,1 +1,1 @@
-var mnemonic = "rate ancient acquire steel hello they glove used impulse swarm claw rotate";
+var mnemonic = "blood remove sing into accident issue stick quit utility artefact clip mandate";

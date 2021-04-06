@@ -1,1 +1,1 @@
-var mnemonic = "notable dune february rubber couch easily doctor monkey stumble comic drop armor";
+var mnemonic = "cloud practice board dutch elegant deny help mad knee couple number champion";

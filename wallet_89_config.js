@@ -1,1 +1,1 @@
-var mnemonic = "scrub retreat isolate sword champion guilt dinosaur emerge cheap poet pluck bullet";
+var mnemonic = "huge toddler flag reject harvest crisp stage expire estate great stumble limb";

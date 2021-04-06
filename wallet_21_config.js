@@ -1,1 +1,1 @@
-var mnemonic = "trim scan hold ugly cinnamon laugh shoe spirit forward cook hawk animal";
+var mnemonic = "sword upper coyote spatial side chief car jacket nurse save air roof";

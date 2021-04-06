@@ -1,1 +1,1 @@
-var mnemonic = "style puppy size clock gospel crystal double abandon stand duck denial curious";
+var mnemonic = "iron yard jump hill physical maple venue pyramid else jungle finish craft";

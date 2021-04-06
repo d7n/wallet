@@ -1,1 +1,1 @@
-var mnemonic = "cement risk taste gauge clap help hungry seek mixed nice tiger burger";
+var mnemonic = "search crazy mammal special text drop rice churn drop camera relief boil";

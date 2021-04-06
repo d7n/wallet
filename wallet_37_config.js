@@ -1,1 +1,1 @@
-var mnemonic = "switch picture hurry slogan wheel offer voice donate super surprise candy permit";
+var mnemonic = "month all pull income ahead club shoe small globe pulp elephant large";

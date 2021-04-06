@@ -1,1 +1,1 @@
-var mnemonic = "weapon ocean bright shine enemy celery orbit lonely pudding resource adjust economy";
+var mnemonic = "question price work grace script act exact exclude celery buyer weird hub";

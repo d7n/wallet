@@ -1,1 +1,1 @@
-var mnemonic = "video energy focus shrug stand cute castle disorder math melt memory chicken";
+var mnemonic = "add similar park level protect barrel riot title crew remind hill sport";

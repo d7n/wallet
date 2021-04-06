@@ -1,1 +1,1 @@
-var mnemonic = "february humble lens pioneer want cake sister egg addict wealth country link";
+var mnemonic = "sting metal unit glad draw render sound inject gadget scorpion soup truly";

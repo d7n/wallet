@@ -1,1 +1,1 @@
-var mnemonic = "slot fruit glass swallow join renew record cushion fitness flat retire club";
+var mnemonic = "quality ramp dawn language absorb boil holiday fringe two recycle core stage";

@@ -1,1 +1,1 @@
-var mnemonic = "saddle excess awful fluid tree palm tower manage know provide kiwi hunt";
+var mnemonic = "stadium bleak glory violin other visit gauge review dance wise unfold link";

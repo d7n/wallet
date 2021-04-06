@@ -1,1 +1,1 @@
-var mnemonic = "ride wrestle actor filter pause click stool auto enemy vendor visual senior";
+var mnemonic = "ketchup cave immune multiply fun panda view early butter peace young basic";

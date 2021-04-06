@@ -1,1 +1,1 @@
-var mnemonic = "pencil leaf level hollow wonder blossom nation reflect cluster weasel close always";
+var mnemonic = "twice actress school kind glass action actor cement wife alert habit bone";

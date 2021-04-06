@@ -1,1 +1,1 @@
-var mnemonic = "spend piece fiscal degree strong consider segment pepper relief clay magnet easily";
+var mnemonic = "bamboo moon torch wreck move range weapon twist wrestle bridge shoulder lock";

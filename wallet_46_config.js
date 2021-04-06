@@ -1,1 +1,1 @@
-var mnemonic = "road garden bird garage cliff federal unfair arrest bachelor country tennis private";
+var mnemonic = "clinic chunk symptom afford hamster infant run derive diagram sorry depend ill";

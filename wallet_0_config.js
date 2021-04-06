@@ -1,1 +1,1 @@
-var mnemonic = "unknown scene mother either oblige pulp fish bundle brown hollow useless fix";
+var mnemonic = "tube february jump material float develop melt search blame village example turtle";

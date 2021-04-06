@@ -1,1 +1,1 @@
-var mnemonic = "stand click monster garden oil coconut fantasy wild vessel drastic rent call";
+var mnemonic = "credit discover crime essay ugly color valve access bone radio credit save";

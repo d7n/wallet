@@ -1,1 +1,1 @@
-var mnemonic = "hen rifle round bean lobster lonely cream order champion direct marine toy";
+var mnemonic = "casino finger wet simple drink render pistol person shield segment raise observe";

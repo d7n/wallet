@@ -1,1 +1,1 @@
-var mnemonic = "wait truth spirit day spice false apart board since office afford roof";
+var mnemonic = "legend answer almost duck when reduce cash device define object reduce chimney";

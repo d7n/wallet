@@ -1,1 +1,1 @@
-var mnemonic = "ball excuse foot believe blame rigid diamond soap success fiction news rail";
+var mnemonic = "wheel squeeze other melody butter since ribbon slice fence north funny shoe";

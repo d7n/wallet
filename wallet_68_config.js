@@ -1,1 +1,1 @@
-var mnemonic = "praise puppy hood matrix nerve chalk add brief pelican spirit witness patch";
+var mnemonic = "imitate despair embark visual smile square vault reflect document private sister income";

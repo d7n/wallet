@@ -1,1 +1,1 @@
-var mnemonic = "stumble work clown exchange protect remember utility oil jar speed advice prefer";
+var mnemonic = "visit thing loan better zebra lobster noodle wish author meat broccoli daring";

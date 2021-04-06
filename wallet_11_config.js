@@ -1,1 +1,1 @@
-var mnemonic = "toss woman van suspect birth weekend plastic shadow stuff glass fetch chimney";
+var mnemonic = "expand turtle drive year twin govern front walnut ring antique just render";

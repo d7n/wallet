@@ -1,1 +1,1 @@
-var mnemonic = "cheese treat lizard mix fish pioneer want trick hurdle sugar verb hockey";
+var mnemonic = "genius tree chronic opinion tornado genius laundry ability super excess winner broom";

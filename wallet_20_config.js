@@ -1,1 +1,1 @@
-var mnemonic = "fossil vendor road monkey settle patch illness fancy prison remind snack way";
+var mnemonic = "lemon nerve achieve fortune crime dance kind machine wild fatal drama essence";

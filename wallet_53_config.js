@@ -1,1 +1,1 @@
-var mnemonic = "diesel flower equip lonely nest salt gentle lawn cherry tenant fiction engine";
+var mnemonic = "industry unique neutral angry census approve robust fiction deputy orbit core fetch";

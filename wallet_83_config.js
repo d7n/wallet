@@ -1,1 +1,1 @@
-var mnemonic = "enjoy tourist loan index estate thank fence sunny jar east accuse detect";
+var mnemonic = "crunch denial account injury worth junior join expose element damp west flower";

@@ -1,1 +1,1 @@
-var mnemonic = "empower snow head doctor guide cradle script pottery library decrease panel wife";
+var mnemonic = "isolate outer universe guard city frame good grape motion remain surround fitness";

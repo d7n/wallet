@@ -1,1 +1,1 @@
-var mnemonic = "dice mad insect achieve runway private labor egg come festival lava rival";
+var mnemonic = "turkey inside neither tourist awful erase avoid gospel giraffe dynamic desk salt";

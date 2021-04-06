@@ -1,1 +1,1 @@
-var mnemonic = "jacket learn feel negative buffalo social cost skill under chimney tower bless";
+var mnemonic = "giraffe dish theory thought artefact tag final donkey field badge copy stuff";

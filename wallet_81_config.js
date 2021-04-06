@@ -1,1 +1,1 @@
-var mnemonic = "warfare act ginger awesome dance pizza abstract capable enlist under tomato tackle";
+var mnemonic = "mountain notable winner nation utility penalty scene assault seed brain twice holiday";

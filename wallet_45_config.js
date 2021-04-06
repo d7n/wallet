@@ -1,1 +1,1 @@
-var mnemonic = "hybrid muffin gold one emotion begin salon marine jeans door pizza gallery";
+var mnemonic = "demand mango scan category alpha write nerve vote produce rookie online predict";

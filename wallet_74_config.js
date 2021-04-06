@@ -1,1 +1,1 @@
-var mnemonic = "resource beauty crime firm fever bridge end twelve always hood you intact";
+var mnemonic = "love rule detect opinion unfold detect border connect luxury aisle asset valley";

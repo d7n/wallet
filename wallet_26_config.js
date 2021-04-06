@@ -1,1 +1,1 @@
-var mnemonic = "steak poem suggest squirrel auction cheese travel side unit welcome sell blind";
+var mnemonic = "action baby segment chunk then baby medal because step century caught render";

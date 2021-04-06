@@ -1,1 +1,1 @@
-var mnemonic = "edge open embrace shine high endless chat truth middle smooth swallow defy";
+var mnemonic = "night crush outside table brief veteran gather ticket crowd target urge gloom";

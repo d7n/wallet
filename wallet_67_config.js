@@ -1,1 +1,1 @@
-var mnemonic = "pond gadget dose cluster betray stumble elegant mad panther say like step";
+var mnemonic = "warfare enlist then film wolf artist gasp awesome sphere now glove misery";

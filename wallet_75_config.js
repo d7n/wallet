@@ -1,1 +1,1 @@
-var mnemonic = "item left point skirt witness sibling hamster crash feed bicycle moment gesture";
+var mnemonic = "fine lake stable crop turn cargo silent net taste van lava slice";

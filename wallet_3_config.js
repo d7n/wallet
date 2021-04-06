@@ -1,1 +1,1 @@
-var mnemonic = "cousin chase tongue aisle wave awful mix ignore zebra brick access saddle";
+var mnemonic = "law long enrich news gift hill flame cereal plastic addict scale social";

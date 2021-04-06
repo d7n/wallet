@@ -1,1 +1,1 @@
-var mnemonic = "perfect fatal vicious analyst brick gap draw lend author squeeze cat want";
+var mnemonic = "zoo dinosaur scale crop pink speed cruise target enable scale brass melt";

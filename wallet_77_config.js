@@ -1,1 +1,1 @@
-var mnemonic = "already extra spell paper explain hedgehog actor wreck hospital arrange accident chaos";
+var mnemonic = "income add amused saddle again insane spray galaxy lonely pipe female shoe";

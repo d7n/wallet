@@ -1,1 +1,1 @@
-var mnemonic = "idea pattern enhance arctic elephant world basic equal one copy grass announce";
+var mnemonic = "more arrest utility decorate actress silver green forward train laugh fall glance";

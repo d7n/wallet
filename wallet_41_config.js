@@ -1,1 +1,1 @@
-var mnemonic = "unfair ecology they soft south dwarf beach maximum orphan aware desk world";
+var mnemonic = "cereal tower object evil weekend purity over worth isolate industry volume dynamic";

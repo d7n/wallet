@@ -1,1 +1,1 @@
-var mnemonic = "today thing cave special shrug push income minute series clinic off soup";
+var mnemonic = "dutch wisdom liar harbor rare text bronze spirit alert connect nerve abstract";

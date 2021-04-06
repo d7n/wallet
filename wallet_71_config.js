@@ -1,1 +1,1 @@
-var mnemonic = "acid flat lens thought more enough skate burger replace fever twin achieve";
+var mnemonic = "math kiss online course run eager pilot black silver write glimpse orchard";

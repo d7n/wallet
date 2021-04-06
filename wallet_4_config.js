@@ -1,1 +1,1 @@
-var mnemonic = "kitchen you twenty comfort family stuff detect vacuum rapid own warm beef";
+var mnemonic = "rent dust soup city analyst patch vote wolf buffalo radar expand student";

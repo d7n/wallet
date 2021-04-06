@@ -1,1 +1,1 @@
-var mnemonic = "idea beauty concert convince armor season exchange diagram shoe betray you final";
+var mnemonic = "glance glass lake traffic comic hamster toddler coast second version group army";

@@ -1,1 +1,1 @@
-var mnemonic = "shove biology resemble gather indicate lake link eye find drill draft blanket";
+var mnemonic = "puppy spare glow head vehicle child raw frequent vague left harbor door";

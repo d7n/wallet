@@ -1,1 +1,1 @@
-var mnemonic = "chunk make summer sting sadness example cabbage supreme brush tongue prevent right";
+var mnemonic = "approve camera search farm hire chunk scrap normal clap cactus scene poet";

@@ -1,1 +1,1 @@
-var mnemonic = "two horse admit canyon quit prize bitter what brief morning gauge nominee";
+var mnemonic = "bicycle obtain rally art tree gaze math hard pole quantum cricket carry";

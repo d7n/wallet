@@ -1,1 +1,1 @@
-var mnemonic = "carbon raw neck success slogan surface entry library seat fiction relief ability";
+var mnemonic = "physical dream quantum moment vibrant mean idle suffer toy swallow afford will";

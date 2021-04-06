@@ -1,1 +1,1 @@
-var mnemonic = "aisle bullet tilt swim inside hammer plug magnet fossil motor pipe sport";
+var mnemonic = "undo squirrel rely visit lend follow alien fatal crane inform planet puppy";

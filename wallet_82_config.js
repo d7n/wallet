@@ -1,1 +1,1 @@
-var mnemonic = "final logic science pave tray gas network disease orchard control install patch";
+var mnemonic = "flag correct master spider equip mammal want job soft neutral slide sphere";

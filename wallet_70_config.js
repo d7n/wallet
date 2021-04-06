@@ -1,1 +1,1 @@
-var mnemonic = "erosion victory next bicycle resource doctor bitter walnut conduct stereo coral catalog";
+var mnemonic = "rapid museum prosper cousin prosper dinner decrease hero tip trust piano oyster";

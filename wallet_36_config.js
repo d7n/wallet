@@ -1,1 +1,1 @@
-var mnemonic = "tribe magic fun craft old also envelope denial firm short brain giant";
+var mnemonic = "reopen frequent abuse essence board digital mention manage valid water mouse film";

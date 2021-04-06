@@ -1,1 +1,1 @@
-var mnemonic = "gold fluid improve outside ranch check cliff ethics safe vault fine tuna";
+var mnemonic = "clump lobster license abandon label nuclear recall stem rotate gate alter slight";

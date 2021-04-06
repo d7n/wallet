@@ -1,1 +1,1 @@
-var mnemonic = "helmet arrange mouse detect spawn okay poverty fresh pink indoor purse pen";
+var mnemonic = "shuffle enhance moon prevent merit carpet blame teach large drift wish dice";

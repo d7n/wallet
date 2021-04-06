@@ -1,1 +1,1 @@
-var mnemonic = "include version predict stairs bacon riot web rely twin moral secret client";
+var mnemonic = "fan this mistake culture harsh buffalo design tomorrow captain spin skirt wife";

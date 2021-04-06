@@ -1,1 +1,1 @@
-var mnemonic = "pink wood caught mosquito also brain top faint cinnamon episode pool relief";
+var mnemonic = "music chat donor miracle shuffle absurd kit fresh rate thrive pattern level";

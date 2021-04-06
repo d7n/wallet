@@ -1,1 +1,1 @@
-var mnemonic = "ball fashion visual eager nut guess syrup devote purity response cannon recipe";
+var mnemonic = "toy silly exile cool begin language upset elite umbrella bus weasel advice";

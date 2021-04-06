@@ -1,1 +1,1 @@
-var mnemonic = "monster move notable loop load chat never drill hub inflict during canal";
+var mnemonic = "sustain style lawsuit gentle release logic basic mansion expand soap alien during";

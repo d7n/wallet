@@ -1,1 +1,1 @@
-var mnemonic = "decide doll panda slim lunch record desert sting sunset foil day have";
+var mnemonic = "next pulp destroy capital wrist wrestle increase pistol pistol genre runway unknown";

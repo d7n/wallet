@@ -1,1 +1,1 @@
-var mnemonic = "decade broccoli echo start custom pear obscure whale shed lock unaware choice";
+var mnemonic = "canoe patient jar wait regular upgrade exchange apart hedgehog whip distance eager";

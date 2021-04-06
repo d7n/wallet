@@ -1,1 +1,1 @@
-var mnemonic = "climb void poverty trim alter mansion wise clinic admit prosper penalty drastic";
+var mnemonic = "clown sleep recycle biology verify asset wheat dignity foam blush target excite";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter tip check kite relief term length lucky spin dry usage must";
+var mnemonic = "regret angry diesel fresh absent carbon butter nurse fine another hole meat";

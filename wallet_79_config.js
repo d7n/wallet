@@ -1,1 +1,1 @@
-var mnemonic = "roof wool earn naive census protect series cost piano caution satisfy shift";
+var mnemonic = "wonder onion crop strike survey farm cycle elevator garlic local daring neglect";

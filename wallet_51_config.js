@@ -1,1 +1,1 @@
-var mnemonic = "crawl beef betray bag dilemma gate mean duty tongue whale anchor share";
+var mnemonic = "term guitar follow asset defense clip salt ride resemble fat skill summer";

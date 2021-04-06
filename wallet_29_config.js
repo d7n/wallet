@@ -1,1 +1,1 @@
-var mnemonic = "tooth match verb venue valve speak toward garage cricket filter black engage";
+var mnemonic = "chair audit merge box trick chief dust broccoli timber soldier wheat tiny";

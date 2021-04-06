@@ -1,1 +1,1 @@
-var mnemonic = "cactus asset muscle exhaust zero leave age giant name spatial satisfy moment";
+var mnemonic = "movie mesh miracle volume piano forward arrest brick junior more corn slogan";

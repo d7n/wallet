@@ -1,1 +1,1 @@
-var mnemonic = "swap napkin mercy air fabric alley team fiction push wet curious apart";
+var mnemonic = "toe park inch void ten rescue fluid banner target envelope board key";

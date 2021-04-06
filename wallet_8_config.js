@@ -1,1 +1,1 @@
-var mnemonic = "badge rocket off swamp wash ranch pluck close cost arrest arrive inherit";
+var mnemonic = "boat draw alarm friend fish man vivid chaos inquiry decide mechanic attack";

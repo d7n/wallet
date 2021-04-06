@@ -1,1 +1,1 @@
-var mnemonic = "jelly wish ten feature juice valve double oblige brown trip assault ring";
+var mnemonic = "elite dirt prison legal there cool copy material protect picture before divorce";

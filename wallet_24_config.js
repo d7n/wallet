@@ -1,1 +1,1 @@
-var mnemonic = "wrist lend sister maximum buyer tired budget girl raw cycle detect icon";
+var mnemonic = "deal visit adult harsh submit legend wage viable duck father castle buzz";

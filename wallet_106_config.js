@@ -1,1 +1,1 @@
-var mnemonic = "can shrug muffin kingdom whip pottery spawn laptop rescue amateur typical bottom";
+var mnemonic = "slow slow voice fiction problem diet plunge tunnel vibrant round prevent awkward";

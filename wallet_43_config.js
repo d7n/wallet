@@ -1,1 +1,1 @@
-var mnemonic = "sense faint autumn ghost century despair shaft debris spread fossil blue pear";
+var mnemonic = "evil absent service crawl slender ocean blue edge thought chaos must luxury";

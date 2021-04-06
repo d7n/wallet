@@ -1,1 +1,1 @@
-var mnemonic = "wife lawsuit quick process order giant pilot discover cat mammal wool visa";
+var mnemonic = "sail toe public symbol theory rich hundred design glass inmate resource vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "axis cost mention shrug trade team shy steak enforce mosquito brick hunt";
+var mnemonic = "repeat wet fresh better evolve squeeze upgrade another almost illness finish top";

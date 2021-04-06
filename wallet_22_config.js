@@ -1,1 +1,1 @@
-var mnemonic = "toilet remain shell witness pass fire thumb obey sniff wild lunch egg";
+var mnemonic = "motor stool buddy front crop impose certain enhance deliver polar label stay";

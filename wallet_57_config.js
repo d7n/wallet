@@ -1,1 +1,1 @@
-var mnemonic = "rifle embark east situate simple betray tape broken derive choose truth crush";
+var mnemonic = "infant smile fun million helmet fiction duck catch second tide inch solid";

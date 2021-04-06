@@ -1,1 +1,1 @@
-var mnemonic = "visit street harvest fat cushion symbol soccer mask balance loop boost age";
+var mnemonic = "review desk position truck length shop monkey clip book hedgehog volcano crunch";

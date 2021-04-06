@@ -1,1 +1,1 @@
-var mnemonic = "praise biology inflict sign luxury split bargain present armor urban cousin unaware";
+var mnemonic = "asset hazard climb obscure trouble dumb swamp insane depend cigar detail right";

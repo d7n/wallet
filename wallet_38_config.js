@@ -1,1 +1,1 @@
-var mnemonic = "begin scan regular earth outside amount arm clown buddy hub tank one";
+var mnemonic = "picture review jeans decide world tank gravity system music beef office ticket";

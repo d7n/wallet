@@ -1,1 +1,1 @@
-var mnemonic = "farm glass weapon slim wisdom column oyster unaware embrace modify what juice";
+var mnemonic = "idea victory flight few tuna final jacket black hurdle ten public action";

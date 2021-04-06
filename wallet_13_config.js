@@ -1,1 +1,1 @@
-var mnemonic = "carpet lizard neutral because noodle metal entire scare chief road hill bless";
+var mnemonic = "quote crucial puzzle wage sound inside cupboard spin mobile evolve trash buyer";
