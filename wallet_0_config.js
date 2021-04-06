@@ -1,1 +1,1 @@
-var mnemonic = "area bring wrist attend critic dance resource hedgehog thunder normal menu theme";
+var mnemonic = "glove leisure kid indoor protect bacon tragic urge cup transfer inflict alarm";

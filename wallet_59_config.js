@@ -1,1 +1,1 @@
-var mnemonic = "cat scare enough front slice impact upper find regular feed ball seed";
+var mnemonic = "olive mixed little chalk loop clog you post follow monitor citizen slender";

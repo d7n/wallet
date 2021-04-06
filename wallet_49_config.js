@@ -1,1 +1,1 @@
-var mnemonic = "flavor milk glance voice town illegal dry sun base kitchen razor promote";
+var mnemonic = "dry hurdle snow bulb tone wink pink deny invite husband symbol aunt";

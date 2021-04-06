@@ -1,1 +1,1 @@
-var mnemonic = "local inquiry truck own analyst captain cry vessel flock tilt guide deal";
+var mnemonic = "price hamster vivid fever blast riot merit biology venue clean palm pause";

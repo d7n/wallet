@@ -1,1 +1,1 @@
-var mnemonic = "title blame jungle genius finger author hedgehog squirrel job valid brain inner";
+var mnemonic = "shy suit crime captain merry buddy denial begin offer shiver eyebrow clap";

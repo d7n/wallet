@@ -1,1 +1,1 @@
-var mnemonic = "angle water sheriff chef job dial swing vendor curve whip rich pet";
+var mnemonic = "opinion runway vocal hurdle various segment slogan wish misery dream kangaroo symptom";

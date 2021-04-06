@@ -1,1 +1,1 @@
-var mnemonic = "oven off tomorrow theme prize soup cushion puppy violin outdoor remind kangaroo";
+var mnemonic = "media flag upper tattoo soccer weasel subway control sock profit demise distance";

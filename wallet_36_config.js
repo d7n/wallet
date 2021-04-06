@@ -1,1 +1,1 @@
-var mnemonic = "task entry predict summer attend borrow maple spoon peace today ceiling conduct";
+var mnemonic = "work crucial expect improve flat average vicious topple bleak answer promote level";

@@ -1,1 +1,1 @@
-var mnemonic = "defense mammal assume faith shoulder bag tourist receive stuff pizza deer since";
+var mnemonic = "path switch replace park retire film degree talent prepare island chronic shy";

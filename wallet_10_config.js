@@ -1,1 +1,1 @@
-var mnemonic = "message dune usual occur will space boil anger turn prosper bottom panther";
+var mnemonic = "romance rude dilemma grace angry priority better reveal cannon idle solution auto";

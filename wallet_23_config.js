@@ -1,1 +1,1 @@
-var mnemonic = "song swarm cloth nature rail top remind dust plug twelve cup panther";
+var mnemonic = "frost bicycle pilot amateur actress oblige stem torch civil material castle state";

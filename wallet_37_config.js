@@ -1,1 +1,1 @@
-var mnemonic = "cradle focus phone alert pair kit deputy time shaft list lift kidney";
+var mnemonic = "news drip fatal warm trust solar spare buyer run degree suit agree";

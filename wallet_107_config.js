@@ -1,1 +1,1 @@
-var mnemonic = "prize suggest autumn verb give modify second pear jaguar assault river emerge";
+var mnemonic = "key lemon mule two nice toward inch length garbage betray fine fancy";

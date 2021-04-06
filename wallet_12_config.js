@@ -1,1 +1,1 @@
-var mnemonic = "sheriff rain siren provide allow screen thunder someone offer math like oven";
+var mnemonic = "viable damp enjoy battle error industry proud bounce rival shield alcohol essence";

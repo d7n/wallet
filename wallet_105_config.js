@@ -1,1 +1,1 @@
-var mnemonic = "way element school old list grow roof crush mango bottom dentist odor";
+var mnemonic = "dutch muffin inflict success alcohol faint license smart elder creek fun empty";

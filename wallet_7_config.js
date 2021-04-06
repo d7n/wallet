@@ -1,1 +1,1 @@
-var mnemonic = "human coast mind swallow ceiling birth music mirror level orbit length peasant";
+var mnemonic = "occur beach honey explain napkin still easily bronze puppy evolve toilet rabbit";

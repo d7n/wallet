@@ -1,1 +1,1 @@
-var mnemonic = "rigid zebra hundred song warrior maple mother hope mechanic hint travel venture";
+var mnemonic = "breeze mechanic innocent fantasy trial mule harbor park scan average cupboard wrist";

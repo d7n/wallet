@@ -1,1 +1,1 @@
-var mnemonic = "ahead tiger mirror joy planet medal flag crumble vendor theme require weapon";
+var mnemonic = "denial exit hobby joke maid tooth fetch panel deny speed reduce wife";

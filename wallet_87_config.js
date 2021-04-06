@@ -1,1 +1,1 @@
-var mnemonic = "admit sister roast pupil ranch hub short proud unfold pretty myself balance";
+var mnemonic = "original zebra tank gather shoot sadness say drink verb setup test innocent";

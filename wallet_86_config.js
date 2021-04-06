@@ -1,1 +1,1 @@
-var mnemonic = "price make van family dilemma weather rapid code stage vessel camp pelican";
+var mnemonic = "across panic retire entry chest nominee best keen slot filter village category";

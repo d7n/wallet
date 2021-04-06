@@ -1,1 +1,1 @@
-var mnemonic = "eight pause lyrics video whisper ethics joke appear secret dumb vacuum cable";
+var mnemonic = "divide wise rookie kid noble maple turkey limb segment curious canyon oyster";

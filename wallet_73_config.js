@@ -1,1 +1,1 @@
-var mnemonic = "tonight lion ice sausage cotton once dynamic throw lawsuit faint cute assault";
+var mnemonic = "entry giggle imitate expect occur ice grass false journey weasel tomato tell";

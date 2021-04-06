@@ -1,1 +1,1 @@
-var mnemonic = "direct lumber animal winner drift nose fringe network token carry please design";
+var mnemonic = "shield wrist case off snow crop snake please canyon tool apart version";

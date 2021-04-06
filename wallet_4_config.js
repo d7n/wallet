@@ -1,1 +1,1 @@
-var mnemonic = "large tomato alert lonely easy bright exercise grass exact letter empty stove";
+var mnemonic = "utility law destroy elite lens ethics act wheat slim forward spend purpose";

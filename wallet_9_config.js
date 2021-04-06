@@ -1,1 +1,1 @@
-var mnemonic = "flag frame great kite guitar mirror cute lab whale grant evolve magnet";
+var mnemonic = "clinic forward audit net make culture raw resist price fame damp squeeze";

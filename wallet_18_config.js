@@ -1,1 +1,1 @@
-var mnemonic = "rotate shield unique tumble effort pulp scrub fall more tortoise armed palm";
+var mnemonic = "prize rifle quote top layer treat lion venture soon timber trick adult";

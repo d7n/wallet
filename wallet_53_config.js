@@ -1,1 +1,1 @@
-var mnemonic = "adapt half license cube yellow tiny online lazy uncle pretty mechanic resource";
+var mnemonic = "weasel rude own make goddess tired word balcony absent enlist waste dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "voice void labor mistake radar fork census seed immune kiwi novel invest";
+var mnemonic = "parent predict false elbow party avocado release fork vibrant green hand erode";

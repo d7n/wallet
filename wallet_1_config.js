@@ -1,1 +1,1 @@
-var mnemonic = "quarter misery poet home enable regret treat crystal cry remove sentence salad";
+var mnemonic = "paddle plunge slab pitch clarify blue door lemon burger august phone whip";

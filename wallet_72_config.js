@@ -1,1 +1,1 @@
-var mnemonic = "turn food below smart seed miracle betray invest lunar rebel glory fruit";
+var mnemonic = "end repeat crystal screen smile move cat cheap close material end good";

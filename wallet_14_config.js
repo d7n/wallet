@@ -1,1 +1,1 @@
-var mnemonic = "slush canyon gun change lava pitch vital frequent noise clump host kitchen";
+var mnemonic = "direct remind average expand virtual melt edit rude industry essay service spy";

@@ -1,1 +1,1 @@
-var mnemonic = "surge library lucky evil now refuse whale express churn logic tiger access";
+var mnemonic = "crush hidden erupt ensure verify royal label cloth satisfy disagree slide hill";

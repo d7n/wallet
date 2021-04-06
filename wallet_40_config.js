@@ -1,1 +1,1 @@
-var mnemonic = "short elevator comfort high gossip pear advance okay wish entry vast mobile";
+var mnemonic = "tackle crumble deal rapid faculty common there scare entire time play frost";

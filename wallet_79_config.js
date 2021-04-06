@@ -1,1 +1,1 @@
-var mnemonic = "ill false chunk result alpha alarm remain athlete hold hour among prefer";
+var mnemonic = "feed melt disease pilot loud all slot toast jar sauce connect same";

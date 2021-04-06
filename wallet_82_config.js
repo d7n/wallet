@@ -1,1 +1,1 @@
-var mnemonic = "vacant erosion uniform year remain satisfy dash repeat dentist violin about umbrella";
+var mnemonic = "great decline antique funny stable wide oven gauge cabin bonus sustain detect";

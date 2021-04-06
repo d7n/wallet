@@ -1,1 +1,1 @@
-var mnemonic = "vendor tray envelope proud vendor march credit office need goddess enough wear";
+var mnemonic = "buyer forward joke second giraffe owner police drink artist chat attitude spider";

@@ -1,1 +1,1 @@
-var mnemonic = "clay good strike hard film water emerge leg song month bounce trouble";
+var mnemonic = "bullet oxygen cousin lady type ceiling catch walnut monster come immune enlist";

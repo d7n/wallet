@@ -1,1 +1,1 @@
-var mnemonic = "panda chapter dignity drive any furnace trade rate private avocado hammer promote";
+var mnemonic = "glory avocado dwarf flash device music wave poem answer color chunk desert";

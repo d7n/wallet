@@ -1,1 +1,1 @@
-var mnemonic = "antique camp soft apart unlock shoulder close tomato room father skirt carpet";
+var mnemonic = "refuse glad only session garage nation defy gap purse ticket sponsor borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator labor second elevator today comfort decorate extra word chest profit swift";
+var mnemonic = "goose bargain salmon flat lobster match library ugly present fatal enjoy video";

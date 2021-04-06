@@ -1,1 +1,1 @@
-var mnemonic = "clip option language cable sorry giggle sunny drastic call cream decrease abuse";
+var mnemonic = "lobster frog inquiry river antique donkey sell invest flee hill miss rule";

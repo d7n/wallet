@@ -1,1 +1,1 @@
-var mnemonic = "grace vague bulb shadow lake zoo damp bless argue mean powder weird";
+var mnemonic = "border ticket execute goat debate satoshi eyebrow emerge dumb tilt apple rain";

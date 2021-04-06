@@ -1,1 +1,1 @@
-var mnemonic = "shop crystal primary resource shaft feel fatigue boost sustain mass reveal book";
+var mnemonic = "ridge shift crew wife cigar sunset potato among great coast range flush";

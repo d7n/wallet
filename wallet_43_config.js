@@ -1,1 +1,1 @@
-var mnemonic = "fly quarter wage all either cancel gain dress tone moon hour glory";
+var mnemonic = "live make open jewel weekend prosper balcony insect picture aunt jar fun";

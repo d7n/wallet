@@ -1,1 +1,1 @@
-var mnemonic = "life delay seven embody scare inquiry rebuild together catch fog snap donor";
+var mnemonic = "symptom ahead argue school pull hero man quote put reform stumble decade";

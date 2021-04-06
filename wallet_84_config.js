@@ -1,1 +1,1 @@
-var mnemonic = "token click cream unable fury clay joy genuine calm loyal window note";
+var mnemonic = "quarter wife female love jaguar gown double nose flame cream daughter bubble";

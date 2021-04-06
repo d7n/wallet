@@ -1,1 +1,1 @@
-var mnemonic = "leave attend company above idea better spin jealous else nominee panther tuition";
+var mnemonic = "length video lottery ignore small bunker only fringe foam define smoke scorpion";

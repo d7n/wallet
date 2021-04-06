@@ -1,1 +1,1 @@
-var mnemonic = "mansion crash impact horn vague isolate script unknown horror critic maze ride";
+var mnemonic = "name garlic broom art common rain where inspire diagram panel refuse egg";

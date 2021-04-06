@@ -1,1 +1,1 @@
-var mnemonic = "script tiger rose shift sniff actor attract spice shadow dad account portion";
+var mnemonic = "error bread secret melody fly tape old wise february praise bone unique";

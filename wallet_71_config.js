@@ -1,1 +1,1 @@
-var mnemonic = "sea cage below science gravity light also cup bonus satisfy amused dress";
+var mnemonic = "that cave neither wheel shuffle just poverty police shove box become vivid";

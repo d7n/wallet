@@ -1,1 +1,1 @@
-var mnemonic = "brisk blind shaft hire crater hood oven milk vessel security lecture never";
+var mnemonic = "life that aim creek potato snap math address skate smile welcome sister";

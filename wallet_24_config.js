@@ -1,1 +1,1 @@
-var mnemonic = "toe slender clump lawn proof oval exchange swap network dove just grocery";
+var mnemonic = "tomato element shift sustain frown arm furnace mind wish stone flock lend";

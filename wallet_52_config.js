@@ -1,1 +1,1 @@
-var mnemonic = "bunker wine salon elder pattern feature length clown junior attract liberty prize";
+var mnemonic = "attend enable situate reunion execute uniform debris stereo sudden kitten enforce cancel";

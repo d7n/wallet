@@ -1,1 +1,1 @@
-var mnemonic = "fortune spy ring poverty number scissors symptom require solar inquiry noise stumble";
+var mnemonic = "empty violin barely cactus boy attend youth kid garage frequent physical deputy";

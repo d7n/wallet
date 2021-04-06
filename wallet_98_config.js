@@ -1,1 +1,1 @@
-var mnemonic = "double organ hope wise radar baby broom volcano buffalo bottom vast gentle";
+var mnemonic = "observe habit chuckle foil misery success vendor weather sphere key ship music";

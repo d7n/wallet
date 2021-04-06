@@ -1,1 +1,1 @@
-var mnemonic = "tunnel exist pulp cactus scorpion filter delay quote boat wear source away";
+var mnemonic = "season laugh state wagon indoor chat review wrist humble scout vacant hobby";

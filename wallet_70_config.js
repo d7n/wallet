@@ -1,1 +1,1 @@
-var mnemonic = "subject media citizen feel cat horse position onion spider dynamic live auto";
+var mnemonic = "buffalo seat bomb fatigue venue slim world observe put airport sponsor dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo total mistake oval seat bid keep minor spoil time allow goddess";
+var mnemonic = "artist limit decade trouble feel lesson proof reduce garment unfair cricket jump";

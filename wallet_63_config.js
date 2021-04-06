@@ -1,1 +1,1 @@
-var mnemonic = "demise east split brass abandon same march lava pumpkin glove uphold exhibit";
+var mnemonic = "opinion vacuum dish sugar extend theme pretty bike media blue gossip garment";

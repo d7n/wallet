@@ -1,1 +1,1 @@
-var mnemonic = "retreat neck approve over relax solar truck crew west taste giant produce";
+var mnemonic = "busy lottery metal expand correct window silk host guide squirrel hotel you";

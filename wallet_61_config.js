@@ -1,1 +1,1 @@
-var mnemonic = "unusual name snow cradle enemy kidney exclude album patrol hawk banana hybrid";
+var mnemonic = "artist insane prefer ignore syrup lens giant season middle garbage setup wash";

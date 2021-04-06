@@ -1,1 +1,1 @@
-var mnemonic = "world bottom address brief camera plate message salmon tortoise frequent rose exchange";
+var mnemonic = "radio world people run whale powder gap gentle relax swallow pony quote";

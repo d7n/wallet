@@ -1,1 +1,1 @@
-var mnemonic = "point laptop poverty artwork another drastic album today blood two tissue truly";
+var mnemonic = "energy situate when fabric shoulder dish horse flight pulse belt service ice";

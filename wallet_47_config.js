@@ -1,1 +1,1 @@
-var mnemonic = "bright bar trust couple wrestle upon peanut impose pepper rival deer number";
+var mnemonic = "you dose rival fire engage kind kind perfect ramp beauty mansion burden";

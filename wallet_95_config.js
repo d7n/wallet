@@ -1,1 +1,1 @@
-var mnemonic = "bracket jazz payment aisle dove piano trust canvas frame pigeon rally escape";
+var mnemonic = "foil leader thunder quick body surge image city surprise measure door ginger";

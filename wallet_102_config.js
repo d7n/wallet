@@ -1,1 +1,1 @@
-var mnemonic = "either chronic trouble helmet appear acquire exist diary balance over purchase fashion";
+var mnemonic = "treat swarm decade pulp host task save night flame leaf jelly tragic";

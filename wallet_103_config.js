@@ -1,1 +1,1 @@
-var mnemonic = "across talent seminar mixed electric vault renew tilt expire stick short finish";
+var mnemonic = "wolf patrol now ketchup injury rough summer excite trouble hollow exile wine";

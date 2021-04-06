@@ -1,1 +1,1 @@
-var mnemonic = "lonely retire weather below donor vicious group pitch grass erase music goat";
+var mnemonic = "buyer thunder dial pioneer clump olive plug fall hospital flavor foil play";

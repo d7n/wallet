@@ -1,1 +1,1 @@
-var mnemonic = "dinner middle organ enforce recall save tomorrow remind smooth patient gauge hazard";
+var mnemonic = "report erode shallow second convince relief cool general balcony need loop tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "actress ugly aspect narrow rather royal sea output mango famous need balance";
+var mnemonic = "person frequent jewel news main fiber curtain reflect document sick protect armed";

@@ -1,1 +1,1 @@
-var mnemonic = "force weasel office water silver daughter million leopard curtain spirit used strike";
+var mnemonic = "ship hybrid carry arch drastic cool sunset maximum student prison whale arch";

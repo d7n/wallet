@@ -1,1 +1,1 @@
-var mnemonic = "strategy scorpion trap voyage magnet host useless rack fall defy roof gap";
+var mnemonic = "cycle patrol question carbon damage border embark caught amateur team access unfold";

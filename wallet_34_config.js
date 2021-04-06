@@ -1,1 +1,1 @@
-var mnemonic = "quality dawn globe venture square olive diamond pool index ritual fiscal music";
+var mnemonic = "trophy royal athlete result salmon cattle weapon grab almost property pledge tray";

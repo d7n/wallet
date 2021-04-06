@@ -1,1 +1,1 @@
-var mnemonic = "decorate loan print expire cause ketchup abuse false oak slim road swear";
+var mnemonic = "square sketch eternal tomato lonely vessel ship blush eight patient supreme average";

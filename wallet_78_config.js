@@ -1,1 +1,1 @@
-var mnemonic = "control vibrant bargain fly roast vintage ghost forest invest praise library supply";
+var mnemonic = "autumn mule child august front fatigue catch lottery cereal begin little cube";

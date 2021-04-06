@@ -1,1 +1,1 @@
-var mnemonic = "filter omit peasant odor hamster side park federal scissors reject call poverty";
+var mnemonic = "artist mammal such renew insane jelly square hub twist allow dinosaur coast";

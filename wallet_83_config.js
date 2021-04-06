@@ -1,1 +1,1 @@
-var mnemonic = "run trial joke aware fruit end switch year dance enhance habit slab";
+var mnemonic = "group trumpet host brother walk divorce fantasy shove resource make slender mountain";

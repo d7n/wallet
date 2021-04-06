@@ -1,1 +1,1 @@
-var mnemonic = "annual govern black glare local tuna feel coin nice online wool hint";
+var mnemonic = "egg bid silk hair elephant coral hard quarter deny owner right alcohol";

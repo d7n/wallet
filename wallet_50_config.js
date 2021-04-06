@@ -1,1 +1,1 @@
-var mnemonic = "misery abuse iron visit gossip surge scrub turkey like layer hero else";
+var mnemonic = "field surprise consider knock menu oval near narrow beyond purse lumber shy";

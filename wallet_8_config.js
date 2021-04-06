@@ -1,1 +1,1 @@
-var mnemonic = "fatigue close warrior void list funny average east quantum steak chicken exhibit";
+var mnemonic = "wonder rival intact october universe cruise episode endorse nephew wrist spray coin";

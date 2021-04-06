@@ -1,1 +1,1 @@
-var mnemonic = "load infant position abuse design dolphin fatigue six next material anger release";
+var mnemonic = "desk used insane axis beauty piano opera angry burden smart vague what";

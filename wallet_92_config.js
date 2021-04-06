@@ -1,1 +1,1 @@
-var mnemonic = "grocery setup stick panic live apart manual laundry south vendor health comic";
+var mnemonic = "sentence basket various mosquito episode control snow exercise plate laugh labor modify";

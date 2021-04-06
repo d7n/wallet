@@ -1,1 +1,1 @@
-var mnemonic = "siren trigger garment price inmate fat interest impact ketchup adjust dance smart";
+var mnemonic = "dress cram festival royal before volcano green concert excite excuse demise fiscal";

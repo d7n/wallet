@@ -1,1 +1,1 @@
-var mnemonic = "birth motion ride useful interest draft giggle weather silent harvest staff alter";
+var mnemonic = "echo coin input clarify bone prepare duty plug you loyal soldier cool";

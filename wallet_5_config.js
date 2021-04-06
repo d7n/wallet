@@ -1,1 +1,1 @@
-var mnemonic = "cost knee crucial pass stereo pottery web atom addict poverty clock surround";
+var mnemonic = "rural orient work pottery rapid best industry enemy prepare nice warm sick";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit auction grocery north observe shoe pitch coyote truck bid mystery bargain";
+var mnemonic = "ask collect skate very never dream price access master reform spoon stamp";

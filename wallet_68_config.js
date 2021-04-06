@@ -1,1 +1,1 @@
-var mnemonic = "token punch dynamic festival reveal episode enemy tumble argue gasp spider about";
+var mnemonic = "youth seat sibling awesome enough crouch rare galaxy around corn waste duty";

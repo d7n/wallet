@@ -1,1 +1,1 @@
-var mnemonic = "alpha interest guess taste old trouble bus rival crawl pluck hotel tenant";
+var mnemonic = "celery sand february romance lecture degree imitate velvet silk usual memory wagon";

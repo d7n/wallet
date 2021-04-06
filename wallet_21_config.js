@@ -1,1 +1,1 @@
-var mnemonic = "priority inject engine pride coyote rookie patch tuition awesome lonely theme sibling";
+var mnemonic = "stable dwarf menu street noise easily rival blast hobby siren glove type";

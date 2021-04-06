@@ -1,1 +1,1 @@
-var mnemonic = "clerk apology diary fruit gloom ship close apple license foster fruit grit";
+var mnemonic = "venue salute notable eye oven unfold harbor depth session library awake busy";

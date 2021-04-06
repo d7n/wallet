@@ -1,1 +1,1 @@
-var mnemonic = "anxiety there govern ice glare call surface large gift game force copy";
+var mnemonic = "thing program arrive witness dinner party night chronic stay plastic twist cover";

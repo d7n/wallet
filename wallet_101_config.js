@@ -1,1 +1,1 @@
-var mnemonic = "system honey wool spirit arrow often essay helmet shiver jungle ski salt";
+var mnemonic = "snap crush nation end window lobster suspect author two increase desert comic";

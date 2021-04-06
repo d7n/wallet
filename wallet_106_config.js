@@ -1,1 +1,1 @@
-var mnemonic = "bonus calm add mystery deposit sword pig senior senior call vessel squeeze";
+var mnemonic = "chimney cute blast bottom leave usual copy blouse jacket trial wing health";

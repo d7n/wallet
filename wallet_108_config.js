@@ -1,1 +1,1 @@
-var mnemonic = "diagram smooth city cattle measure satoshi visit august school remember rough marine";
+var mnemonic = "help ecology digital fold adapt february theory grace rabbit zero perfect bronze";

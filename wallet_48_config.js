@@ -1,1 +1,1 @@
-var mnemonic = "near alter motion version peace road rural report tooth belt allow perfect";
+var mnemonic = "habit chimney avoid middle patient shop ancient raise open visit excuse body";

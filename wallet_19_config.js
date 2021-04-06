@@ -1,1 +1,1 @@
-var mnemonic = "ketchup fetch muscle tube hospital denial spread width hawk retreat tape device";
+var mnemonic = "body fringe pill bullet remind network age clerk area muscle vacant order";

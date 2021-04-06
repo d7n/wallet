@@ -1,1 +1,1 @@
-var mnemonic = "purity rule common outside sock gaze post use mercy swear cash skull";
+var mnemonic = "syrup rail apology quiz black add beyond discover champion reform shift nominee";

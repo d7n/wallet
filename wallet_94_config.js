@@ -1,1 +1,1 @@
-var mnemonic = "mirror hedgehog under wonder uncover notable erode mansion tattoo guilt depend because";
+var mnemonic = "nominee exhaust auto used royal cream card aware together body echo cube";

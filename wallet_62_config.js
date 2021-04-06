@@ -1,1 +1,1 @@
-var mnemonic = "real motor hedgehog rug pulp elite tent usage typical envelope return insect";
+var mnemonic = "switch rich animal transfer delay useless lock cage worth similar response sing";

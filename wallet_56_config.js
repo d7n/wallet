@@ -1,1 +1,1 @@
-var mnemonic = "keen speed cricket earn gadget uphold ability gift unable private service mask";
+var mnemonic = "air cruise vault treat theory season urge rebuild mask useless trigger dumb";
