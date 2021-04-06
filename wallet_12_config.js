@@ -1,1 +1,1 @@
-var mnemonic = "miss faith top portion second intact unhappy owner jazz surprise auto drink";
+var mnemonic = "position fiscal manage couch kiwi extend legal give mixture outer ticket canyon";

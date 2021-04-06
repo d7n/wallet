@@ -1,1 +1,1 @@
-var mnemonic = "loud industry escape bleak sign exhibit midnight render ethics blur tired found";
+var mnemonic = "other joy gallery bus breeze cage rebuild immune bunker velvet project simple";

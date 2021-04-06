@@ -1,1 +1,1 @@
-var mnemonic = "give purity series evil loyal drop kind peasant click scale until toilet";
+var mnemonic = "shadow brave school fade dress subject cattle cinnamon devote oak pride possible";

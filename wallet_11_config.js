@@ -1,1 +1,1 @@
-var mnemonic = "engine laundry east elephant attitude attend online hollow game neck vague harvest";
+var mnemonic = "armor lunch cry case myself base exotic couch item valve lottery urban";

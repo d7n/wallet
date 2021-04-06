@@ -1,1 +1,1 @@
-var mnemonic = "mutual senior grass gain repeat illness approve grow fade visa timber canal";
+var mnemonic = "arrow dog method sleep blush ignore main margin hope cabin play tree";

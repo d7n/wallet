@@ -1,1 +1,1 @@
-var mnemonic = "dad salt bright battle kite hungry purchase dutch require voice gas involve";
+var mnemonic = "hard toss harsh advance stereo frozen amateur doll other subject tree where";

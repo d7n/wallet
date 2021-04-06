@@ -1,1 +1,1 @@
-var mnemonic = "mango immune skin behind become song bind art couch setup giraffe segment";
+var mnemonic = "relax crowd essence illegal language poem size media dad cave solid giggle";

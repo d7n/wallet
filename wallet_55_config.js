@@ -1,1 +1,1 @@
-var mnemonic = "creek tongue rain fashion gift twin boost melody spy grace draw fence";
+var mnemonic = "equip shed vocal wasp mosquito mechanic segment order dice expose possible meat";

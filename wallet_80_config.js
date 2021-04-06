@@ -1,1 +1,1 @@
-var mnemonic = "drive club federal shove music lobster three twin lizard length response mushroom";
+var mnemonic = "person fine load devote point urge leader early bomb exchange salute lens";

@@ -1,1 +1,1 @@
-var mnemonic = "close argue slim balcony light capable citizen vital mistake sweet agent shed";
+var mnemonic = "cross thumb door addict actress quantum traffic bunker charge scare frame item";

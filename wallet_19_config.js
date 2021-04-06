@@ -1,1 +1,1 @@
-var mnemonic = "liar observe civil concert identify upset demise voice ridge will liquid easily";
+var mnemonic = "raw crumble lens echo gallery notable pulp loop organ affair chicken bind";

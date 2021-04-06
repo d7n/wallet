@@ -1,1 +1,1 @@
-var mnemonic = "agree mixture east away toddler tomorrow stable butter actor cram mutual come";
+var mnemonic = "embark couch trend birth chef boring betray pony distance possible girl tool";

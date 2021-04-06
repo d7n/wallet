@@ -1,1 +1,1 @@
-var mnemonic = "punch bus random invite auto swarm assist post glimpse decide dinosaur enemy";
+var mnemonic = "second lend gas loyal noodle weekend traffic start climb mind sentence pledge";

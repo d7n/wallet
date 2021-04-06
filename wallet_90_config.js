@@ -1,1 +1,1 @@
-var mnemonic = "author relief meat elegant equip sting truck genuine wreck all bicycle whale";
+var mnemonic = "soul choose front nice tunnel catch affair water bus sauce crunch crawl";

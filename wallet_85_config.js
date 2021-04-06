@@ -1,1 +1,1 @@
-var mnemonic = "cart defense equal monster enjoy type cluster gown clump release beyond wood";
+var mnemonic = "jewel home margin sunny alien way amateur gown smoke bulb mosquito tool";

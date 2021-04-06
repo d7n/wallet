@@ -1,1 +1,1 @@
-var mnemonic = "pupil stable shock wage volume auction ghost pear elder ginger bid replace";
+var mnemonic = "hat city approve repeat uncover noodle example female flock real cricket demise";

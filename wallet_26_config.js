@@ -1,1 +1,1 @@
-var mnemonic = "early inject walnut weapon keep model minor oil fabric wrestle maximum unhappy";
+var mnemonic = "velvet rack pitch ribbon make park palm jealous gun plug dust suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract focus foot pause teach depend pledge monitor oyster brand cup finger";
+var mnemonic = "yard man shoot surface sound legal prefer cat shoe grape culture bag";

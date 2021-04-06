@@ -1,1 +1,1 @@
-var mnemonic = "spatial ceiling honey loud knock bargain try hobby manual together height opera";
+var mnemonic = "wisdom attack gift disease culture airport erase retreat duty ecology jungle tent";

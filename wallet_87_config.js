@@ -1,1 +1,1 @@
-var mnemonic = "life elevator paper improve rain cloud bitter era forum thank twenty elite";
+var mnemonic = "change cave panel foster edge waste rain social wrestle toe hammer sleep";

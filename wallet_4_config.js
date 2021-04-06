@@ -1,1 +1,1 @@
-var mnemonic = "island gain sail oppose minimum torch crop neck napkin bring end member";
+var mnemonic = "matter extend regret glide merge panther other armed rain meat traffic fix";

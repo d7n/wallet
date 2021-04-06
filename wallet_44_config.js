@@ -1,1 +1,1 @@
-var mnemonic = "ride genius travel toy text culture stone name ordinary energy buddy drop";
+var mnemonic = "execute economy diagram parade rich online creek angle version initial poverty prevent";

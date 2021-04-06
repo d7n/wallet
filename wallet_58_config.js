@@ -1,1 +1,1 @@
-var mnemonic = "trust vital million office blossom frog action oil avoid genre bundle confirm";
+var mnemonic = "abuse divorce hub mystery scare hollow grunt train catalog asthma genuine dial";

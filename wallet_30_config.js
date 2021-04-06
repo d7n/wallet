@@ -1,1 +1,1 @@
-var mnemonic = "obtain into diet memory deputy december typical portion possible resist front candy";
+var mnemonic = "dentist relief absurd obvious sort pole space entry edit visit festival endless";

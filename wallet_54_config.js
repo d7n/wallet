@@ -1,1 +1,1 @@
-var mnemonic = "crack subway cry neglect address total file inject section giggle mutual gesture";
+var mnemonic = "message grass flight battle light feed gas rifle define stadium space faint";

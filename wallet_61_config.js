@@ -1,1 +1,1 @@
-var mnemonic = "number mandate erode orange fiction sense federal sense sweet fortune nephew ramp";
+var mnemonic = "hidden hope enrich common arm doll title rare cherry glory used sausage";

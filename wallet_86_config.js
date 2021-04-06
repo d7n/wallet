@@ -1,1 +1,1 @@
-var mnemonic = "fiscal manage typical spend number strategy timber sustain feature doctor category twin";
+var mnemonic = "domain enter canvas trim gap juice spell cup output chronic donor furnace";

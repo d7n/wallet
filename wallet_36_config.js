@@ -1,1 +1,1 @@
-var mnemonic = "armor elbow poem chief seat tooth tobacco tone bag roof flash salute";
+var mnemonic = "lock exist garden panel impact castle orchard wealth elevator amused oven various";

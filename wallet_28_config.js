@@ -1,1 +1,1 @@
-var mnemonic = "potato pink moral public suffer miracle action allow clay despair have champion";
+var mnemonic = "double endorse equip lemon abstract beach media steak tail distance crash leisure";

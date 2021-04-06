@@ -1,1 +1,1 @@
-var mnemonic = "mango company urban doll peasant neutral cook relax prize bullet pulp roof";
+var mnemonic = "alley super hunt powder case resemble album one cook snap process rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "october electric floor palace lyrics rocket favorite van salute wrestle symbol virtual";
+var mnemonic = "try scatter rubber hungry unit rebel park hobby trick clinic note country";

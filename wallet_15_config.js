@@ -1,1 +1,1 @@
-var mnemonic = "chief live stumble can ill toe meadow episode attack repair curious across";
+var mnemonic = "electric dune awake cement audit work allow panther useless amazing upper empty";

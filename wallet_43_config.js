@@ -1,1 +1,1 @@
-var mnemonic = "drop need behave elite youth glare funny inform bonus uphold area issue";
+var mnemonic = "fee market lucky argue able wave assume slice owner derive general sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "craft town behind undo jeans address denial unable shop sibling cry budget";
+var mnemonic = "life language gorilla disease negative abuse country salad core party intact model";

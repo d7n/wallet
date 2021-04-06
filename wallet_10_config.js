@@ -1,1 +1,1 @@
-var mnemonic = "talent achieve inject dove farm memory can ugly victory plate comfort kit";
+var mnemonic = "bird deliver beauty process nephew grape glove cinnamon artefact forum buzz walk";

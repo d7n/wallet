@@ -1,1 +1,1 @@
-var mnemonic = "leader fiscal guess example just smooth entire slogan ostrich orbit sausage exact";
+var mnemonic = "hero normal royal nerve degree nasty wagon scissors letter betray illness wave";

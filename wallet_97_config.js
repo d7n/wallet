@@ -1,1 +1,1 @@
-var mnemonic = "warrior orange north audit open nation female boat decorate library riot faith";
+var mnemonic = "nothing faculty reopen leisure move inner modify inquiry advice page also clerk";

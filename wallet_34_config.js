@@ -1,1 +1,1 @@
-var mnemonic = "journey virus peanut work alien submit grunt small health junk slogan unlock";
+var mnemonic = "wolf donor february inherit slush opinion rug vast ten loyal arena whip";

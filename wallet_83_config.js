@@ -1,1 +1,1 @@
-var mnemonic = "arena absurd camp maple actor first mixed brief someone satisfy moon brisk";
+var mnemonic = "web bracket cream ten cancel raw jeans exclude quality angry direct infant";

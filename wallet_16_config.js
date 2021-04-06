@@ -1,1 +1,1 @@
-var mnemonic = "round crazy dilemma early aisle weird hospital body any oak pitch excess";
+var mnemonic = "juice anger fall ginger purchase rely ranch cool viable time amazing guilt";

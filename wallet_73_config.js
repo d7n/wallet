@@ -1,1 +1,1 @@
-var mnemonic = "blossom correct chief robust parent deliver maple upgrade chest tuition liberty speak";
+var mnemonic = "scale agree theory later often marriage pattern tilt people mercy pass harvest";

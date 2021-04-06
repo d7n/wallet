@@ -1,1 +1,1 @@
-var mnemonic = "problem clap appear chunk sound cram quit farm end flower tonight radar";
+var mnemonic = "recall art jar slam bean east almost entire control naive element husband";

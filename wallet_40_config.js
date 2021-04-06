@@ -1,1 +1,1 @@
-var mnemonic = "detail emotion exist mystery oak awful amazing light chimney coconut inject flavor";
+var mnemonic = "frost exercise error genius letter student course crumble rotate cage rough scrap";

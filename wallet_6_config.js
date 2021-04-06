@@ -1,1 +1,1 @@
-var mnemonic = "kiwi repair symptom grunt camera bus suit include quiz muffin myself topic";
+var mnemonic = "convince tide kiwi fetch laugh moon antenna spend thumb tragic safe present";

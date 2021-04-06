@@ -1,1 +1,1 @@
-var mnemonic = "express engine uniform clump exile decide crawl render proof vivid heart spy";
+var mnemonic = "advance empty axis zoo enough pluck video bicycle note gift usage among";

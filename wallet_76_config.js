@@ -1,1 +1,1 @@
-var mnemonic = "blanket fog crawl inspire cluster rifle police craft fantasy very today abstract";
+var mnemonic = "tobacco clown hazard craft street rescue apple tube rose please wheat clump";

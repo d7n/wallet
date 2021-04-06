@@ -1,1 +1,1 @@
-var mnemonic = "smile arm depart become gossip pool jewel season fatigue shoulder involve weapon";
+var mnemonic = "arena bounce gauge razor ball legal noble joke sadness find method soap";

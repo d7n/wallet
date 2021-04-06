@@ -1,1 +1,1 @@
-var mnemonic = "opera invite present picnic century defy plug mix segment network radio marble";
+var mnemonic = "brain input dwarf timber evoke resist meadow oven artefact task captain knock";

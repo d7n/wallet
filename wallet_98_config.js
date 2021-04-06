@@ -1,1 +1,1 @@
-var mnemonic = "donate mirror toddler element echo lonely tomato rural provide among mention dirt";
+var mnemonic = "ring cream seat cool unaware cannon ethics number note trend party increase";

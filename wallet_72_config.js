@@ -1,1 +1,1 @@
-var mnemonic = "file ceiling electric laugh labor swear point engine narrow funny glove brown";
+var mnemonic = "mask spot angle woman transfer begin casual survey humble awkward buffalo october";

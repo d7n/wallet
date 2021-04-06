@@ -1,1 +1,1 @@
-var mnemonic = "crater paper joy gap typical share mask ripple jar size voice major";
+var mnemonic = "armed orchard boost edit monitor blood today possible october cherry home abstract";

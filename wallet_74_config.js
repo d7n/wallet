@@ -1,1 +1,1 @@
-var mnemonic = "faculty security tilt monkey only stable kingdom mail choose argue ethics now";
+var mnemonic = "kid spray zone veteran recall palm emotion decrease arctic phrase emotion gift";

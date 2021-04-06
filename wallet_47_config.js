@@ -1,1 +1,1 @@
-var mnemonic = "impact leopard warfare almost kind castle wink aspect real defy dirt immense";
+var mnemonic = "slot nothing define buddy loan outdoor nominee barely knee submit grunt feature";

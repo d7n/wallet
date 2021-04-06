@@ -1,1 +1,1 @@
-var mnemonic = "disagree resemble remind chronic pool borrow scare echo innocent glue chase ritual";
+var mnemonic = "inflict wide skull arena size essay universe fragile refuse turn mixed zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "essay budget close current method pause clown early ticket minimum legend bridge";
+var mnemonic = "cream bar useful suffer learn honey novel public holiday season ugly area";

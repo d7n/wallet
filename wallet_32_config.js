@@ -1,1 +1,1 @@
-var mnemonic = "system nature wheel admit clean vicious leisure ability ship transfer top cotton";
+var mnemonic = "lumber flat act truck crumble opera dune defy vague question file assist";

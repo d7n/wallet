@@ -1,1 +1,1 @@
-var mnemonic = "gift elite web waste atom limb pond sense attitude wear dinosaur reopen";
+var mnemonic = "frozen kitchen range naive pizza grab upgrade window hand boy pond adapt";

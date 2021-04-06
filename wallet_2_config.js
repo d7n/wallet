@@ -1,1 +1,1 @@
-var mnemonic = "echo salute fix almost junior planet throw donkey amused eternal swear goose";
+var mnemonic = "trash finish decrease bargain inject scatter lawn verify code body glory calm";

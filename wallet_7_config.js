@@ -1,1 +1,1 @@
-var mnemonic = "above child stove broken brave movie lift genuine torch coil club hunt";
+var mnemonic = "liquid acid box derive banana picnic equal hard flash nut wise sketch";

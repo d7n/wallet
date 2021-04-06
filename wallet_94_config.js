@@ -1,1 +1,1 @@
-var mnemonic = "purse just simple black sun stick remember juice record jaguar lamp become";
+var mnemonic = "motion ticket entry quantum meat umbrella emerge fatigue motor fresh black asthma";

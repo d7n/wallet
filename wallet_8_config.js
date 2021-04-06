@@ -1,1 +1,1 @@
-var mnemonic = "vague erase cable boost bundle deliver impulse hover upon twist update faith";
+var mnemonic = "edit embark fun damage brown wealth film stem collect item nose employ";

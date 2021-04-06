@@ -1,1 +1,1 @@
-var mnemonic = "various certain have salon front slab side brass snake news oak damage";
+var mnemonic = "height fossil cost race dizzy turtle wrong rubber wall ridge gym anger";

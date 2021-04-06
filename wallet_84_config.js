@@ -1,1 +1,1 @@
-var mnemonic = "gravity elegant blast myth already animal other plug road already siege else";
+var mnemonic = "census sell beauty gas truly arctic peace hire route skull volcano leg";

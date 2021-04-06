@@ -1,1 +1,1 @@
-var mnemonic = "distance ramp wolf destroy genuine coconut confirm enhance fit submit absorb common";
+var mnemonic = "float grant piano gossip faculty icon inspire thought language more giraffe chimney";

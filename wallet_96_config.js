@@ -1,1 +1,1 @@
-var mnemonic = "labor age object food arrange climb lyrics door body cargo token lazy";
+var mnemonic = "basic episode innocent border donor rabbit exotic other duty bulk broom party";

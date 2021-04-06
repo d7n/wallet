@@ -1,1 +1,1 @@
-var mnemonic = "wonder want engine feel disorder wasp tip true ivory plate crash machine";
+var mnemonic = "chuckle bridge off slice laptop antenna melody width turkey twenty puppy fork";

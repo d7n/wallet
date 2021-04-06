@@ -1,1 +1,1 @@
-var mnemonic = "prepare differ energy behind link neither budget dynamic ethics concert vote smoke";
+var mnemonic = "barely swallow shoulder soap grow warm embrace despair axis trend plastic drip";

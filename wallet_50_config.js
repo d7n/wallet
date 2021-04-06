@@ -1,1 +1,1 @@
-var mnemonic = "giggle ticket table raise prepare outer emerge exchange lunch key girl put";
+var mnemonic = "hurry pumpkin cricket phrase wrong gasp learn isolate bag alley bridge lawn";

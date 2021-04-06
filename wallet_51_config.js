@@ -1,1 +1,1 @@
-var mnemonic = "hover mango pact fold wet soft carpet property thank cherry seek legal";
+var mnemonic = "waste stadium rebuild october foot autumn sand rack cricket pony fatigue caught";

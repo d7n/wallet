@@ -1,1 +1,1 @@
-var mnemonic = "mosquito vacuum mask jelly zero planet travel smile game metal leg river";
+var mnemonic = "water radio east oven truth notice rural nerve world hockey embrace inmate";

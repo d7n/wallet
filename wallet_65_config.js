@@ -1,1 +1,1 @@
-var mnemonic = "pill rebel eternal almost illegal slab raw outside fine number suggest indoor";
+var mnemonic = "depend thank super finger drink protect can pupil budget blast giant quality";

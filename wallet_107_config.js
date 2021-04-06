@@ -1,1 +1,1 @@
-var mnemonic = "charge field panda step rack pink vanish gather smile kangaroo lyrics they";
+var mnemonic = "gun gate bulk unfold frame sock busy face skill skate void wife";

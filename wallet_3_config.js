@@ -1,1 +1,1 @@
-var mnemonic = "armor mercy phrase spell village come point forest color husband consider hurt";
+var mnemonic = "grab aunt regret radar clean quiz talent ice sword blossom sound patch";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence original decide pave riot obtain rich wasp lecture tumble frozen assault";
+var mnemonic = "pretty state elegant near dilemma weekend horn pulse oxygen hundred lift survey";

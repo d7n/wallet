@@ -1,1 +1,1 @@
-var mnemonic = "develop denial ahead hurt account scheme duck theory elephant bomb dove solution";
+var mnemonic = "ancient you sun develop alpha since illness among approve cart thank brisk";

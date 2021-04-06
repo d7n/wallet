@@ -1,1 +1,1 @@
-var mnemonic = "tobacco forward lend inhale any ten ill flat false want deal public";
+var mnemonic = "mercy north cram pattern surface slender twin muscle income fame tray tiny";

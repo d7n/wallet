@@ -1,1 +1,1 @@
-var mnemonic = "iron canyon obscure chest fiction clever nasty depart category pioneer evolve diary";
+var mnemonic = "gap mule twice security ignore blind method knock decide receive walk uphold";

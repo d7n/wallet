@@ -1,1 +1,1 @@
-var mnemonic = "february violin mountain elder crime bone rug tornado carpet desk salt cram";
+var mnemonic = "grain follow page clarify reduce ask ring clock eternal vibrant guess puppy";

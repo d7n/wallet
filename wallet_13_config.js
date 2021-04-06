@@ -1,1 +1,1 @@
-var mnemonic = "tunnel bless mom worth win have alter hotel ride rose pulp frozen";
+var mnemonic = "machine boil again ostrich wedding baby winter negative goddess now sell member";

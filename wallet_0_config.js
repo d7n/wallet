@@ -1,1 +1,1 @@
-var mnemonic = "student organ rough horse skill session industry whisper milk journey enable heart";
+var mnemonic = "phrase young pill broken skate hair today churn snake snow panic loop";
