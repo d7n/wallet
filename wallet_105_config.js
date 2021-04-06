@@ -1,1 +1,1 @@
-var mnemonic = "discover social light coral diamond harbor primary boring off tree rebuild blast";
+var mnemonic = "blouse breeze comfort example clog oblige exit actual cabbage virtual decorate coral";

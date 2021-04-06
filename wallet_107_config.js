@@ -1,1 +1,1 @@
-var mnemonic = "strong wish power traffic basic winter unable undo lucky click prefer label";
+var mnemonic = "muscle course scorpion indicate giraffe vapor cliff walk volume dice mimic normal";

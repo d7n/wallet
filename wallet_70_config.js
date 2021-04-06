@@ -1,1 +1,1 @@
-var mnemonic = "vehicle desk nephew hybrid garlic tenant just perfect chase minute render question";
+var mnemonic = "wool fine penalty nominee move pluck soap tail kangaroo either duck patrol";

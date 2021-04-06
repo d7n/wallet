@@ -1,1 +1,1 @@
-var mnemonic = "fly vicious scrap food sauce risk trip shed city tower spoon cushion";
+var mnemonic = "quantum swear dilemma daughter prefer feature shoot interest hub vault sadness quarter";

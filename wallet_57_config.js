@@ -1,1 +1,1 @@
-var mnemonic = "sketch health purpose silly shrug sword already list slide hover mercy fiscal";
+var mnemonic = "lock frown drop copper inner office sell cram purpose arrow tongue equip";

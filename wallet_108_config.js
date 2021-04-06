@@ -1,1 +1,1 @@
-var mnemonic = "derive area control curve weather repeat attend catch fossil mercy night tongue";
+var mnemonic = "thrive depart ignore divorce snow hybrid cake muffin hover hurdle slab viable";

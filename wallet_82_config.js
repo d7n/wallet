@@ -1,1 +1,1 @@
-var mnemonic = "swing honey calm woman teach mouse hungry casual palm book speak marine";
+var mnemonic = "antenna moment denial custom ripple keen awful furnace nerve notice agree apple";

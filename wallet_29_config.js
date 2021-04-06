@@ -1,1 +1,1 @@
-var mnemonic = "corn top phone select junk into yard friend check poem saddle same";
+var mnemonic = "step clay armed carbon chicken raise humor matrix unit refuse sausage another";

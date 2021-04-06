@@ -1,1 +1,1 @@
-var mnemonic = "novel swim legal obvious ride empower special damage side warm negative candy";
+var mnemonic = "dice ensure mother join water cricket taste thunder bachelor surround erosion portion";

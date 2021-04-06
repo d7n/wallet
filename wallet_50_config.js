@@ -1,1 +1,1 @@
-var mnemonic = "coin thought duty nose rib siren crane govern organ humor run blue";
+var mnemonic = "rude escape squeeze stove cover sadness slab burden analyst remove open butter";

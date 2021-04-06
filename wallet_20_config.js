@@ -1,1 +1,1 @@
-var mnemonic = "drama certain word also ecology net web laundry develop tone rather noodle";
+var mnemonic = "phone mimic appear merge occur help wet slender say consider gesture shiver";

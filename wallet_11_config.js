@@ -1,1 +1,1 @@
-var mnemonic = "gadget better survey concert wild crop bomb miracle sudden metal violin danger";
+var mnemonic = "know trouble upgrade identify pet flock artist plate flame auto orphan tragic";

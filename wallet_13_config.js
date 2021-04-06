@@ -1,1 +1,1 @@
-var mnemonic = "smooth bar struggle another wave neck jaguar mushroom apology mesh indoor pill";
+var mnemonic = "trophy rely vanish plunge spray satisfy menu dignity flip club gate alcohol";

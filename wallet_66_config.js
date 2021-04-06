@@ -1,1 +1,1 @@
-var mnemonic = "govern sausage liar hurry awesome guess addict hat fiction submit outdoor bunker";
+var mnemonic = "cube depend net art inject vault police lazy like foil wide smooth";

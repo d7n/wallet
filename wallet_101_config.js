@@ -1,1 +1,1 @@
-var mnemonic = "cruel gown price because either escape shed blast erode sugar similar item";
+var mnemonic = "brother belt asthma clarify alone mother card cross runway raise frozen citizen";

@@ -1,1 +1,1 @@
-var mnemonic = "forward twelve purse fatal voyage resist pink push battle secret online learn";
+var mnemonic = "flight average artist van found butter tongue draw name toe neither two";

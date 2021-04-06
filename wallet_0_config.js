@@ -1,1 +1,1 @@
-var mnemonic = "bunker lawn reopen hundred crop similar income amused act page mention winter";
+var mnemonic = "ball asthma already employ negative size disagree raise grunt patch memory shed";

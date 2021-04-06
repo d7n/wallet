@@ -1,1 +1,1 @@
-var mnemonic = "resource party innocent clever dirt bitter orbit victory mail horn fiction sort";
+var mnemonic = "step source depend aspect mandate bargain almost cute member undo entry assume";

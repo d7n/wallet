@@ -1,1 +1,1 @@
-var mnemonic = "disagree best census inject movie monitor priority loan input false chef spoon";
+var mnemonic = "pudding gold stay picnic black sketch badge grid edge clay shock segment";

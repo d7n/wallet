@@ -1,1 +1,1 @@
-var mnemonic = "filter ability cliff judge once help pave penalty chuckle bless now powder";
+var mnemonic = "noise inner crunch lunch dog plunge turtle hint language detect cannon blood";

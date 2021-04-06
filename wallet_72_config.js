@@ -1,1 +1,1 @@
-var mnemonic = "furnace diesel cheap catalog neutral season derive hospital sniff then nasty daughter";
+var mnemonic = "judge fiber design waste tube whip push need turtle donor cherry idle";

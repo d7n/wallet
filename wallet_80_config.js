@@ -1,1 +1,1 @@
-var mnemonic = "fantasy muscle waste wage add profit ripple river rotate harsh describe model";
+var mnemonic = "mammal bacon elevator awful palm pool bridge pistol add clarify total happy";

@@ -1,1 +1,1 @@
-var mnemonic = "slide usual round company world hip chief muscle dose ozone express small";
+var mnemonic = "talk lottery leader innocent frozen suspect crack indicate balance town sure zero";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon shoot tube derive final oven bamboo pass sing wife answer meat";
+var mnemonic = "mimic addict carbon reject print buzz clock steak combine review between hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "group cat fork vacuum museum enroll bless crystal salmon remind hollow fabric";
+var mnemonic = "echo control analyst earn knock region announce swing begin ethics test odor";

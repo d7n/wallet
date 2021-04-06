@@ -1,1 +1,1 @@
-var mnemonic = "tube erode winner radar sunset argue crash wage bargain enact glow language";
+var mnemonic = "night grain message blush elephant promote rebel sound response claw shoulder damage";

@@ -1,1 +1,1 @@
-var mnemonic = "idea pig friend team clip element absent face culture short can remain";
+var mnemonic = "rifle addict mercy dismiss juice finish avocado suffer shuffle sense method reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "potato waste acquire bitter human now fox invest orchard attend usual celery";
+var mnemonic = "attitude wolf elegant volcano very symptom awful settle mistake repair angle fit";

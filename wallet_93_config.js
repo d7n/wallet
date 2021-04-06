@@ -1,1 +1,1 @@
-var mnemonic = "solve castle beach wise economy wash sword point note better earn chuckle";
+var mnemonic = "mention another rack still person cage mouse ride entry negative note describe";

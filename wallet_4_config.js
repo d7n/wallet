@@ -1,1 +1,1 @@
-var mnemonic = "push paddle often stick aunt chapter coyote bless slush marine angle alarm";
+var mnemonic = "scare claw build syrup green ugly cancel deliver grape donkey long jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "have deposit sunny creek retreat mind animal wash problem mixed chef start";
+var mnemonic = "cable arm aware october envelope margin scare observe diesel element also craft";

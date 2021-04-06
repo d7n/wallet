@@ -1,1 +1,1 @@
-var mnemonic = "pull exist measure exclude super cart margin valve tiger path bench process";
+var mnemonic = "quarter bean dash major emerge club wonder rebel pupil describe onion glide";

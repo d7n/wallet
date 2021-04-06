@@ -1,1 +1,1 @@
-var mnemonic = "chuckle grain ankle genre crack discover flat crucial tourist tenant drastic warfare";
+var mnemonic = "blue together charge repair alone raven frequent pelican moral lawn wrong leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic lonely you bus neck foil rice scene clean remember easily install";
+var mnemonic = "empower anger region ten move opera future paddle mercy begin raw verb";

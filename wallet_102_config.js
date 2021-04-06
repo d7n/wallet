@@ -1,1 +1,1 @@
-var mnemonic = "monkey almost educate yellow assault keen puppy brave infant battle desert cement";
+var mnemonic = "broccoli document shiver invest trend consider plate system result portion rifle property";

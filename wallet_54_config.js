@@ -1,1 +1,1 @@
-var mnemonic = "people promote garlic art know fat another retreat bus super warrior donate";
+var mnemonic = "whale add private also stamp plate vote proof miracle question laugh law";

@@ -1,1 +1,1 @@
-var mnemonic = "capital still negative mask easily verify still mechanic enough public echo text";
+var mnemonic = "label exact catch patrol hair use digital vacuum suffer jacket casual coconut";

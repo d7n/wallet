@@ -1,1 +1,1 @@
-var mnemonic = "confirm better glad silver solar elegant argue kiss face patient peasant entry";
+var mnemonic = "helmet winner among cry finger shell fiscal price dismiss garbage kitchen plate";

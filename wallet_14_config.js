@@ -1,1 +1,1 @@
-var mnemonic = "smoke uphold flame raw cruise auction desk hill file lucky into badge";
+var mnemonic = "bulk bright hidden bonus write seven imitate trumpet display door stadium agree";

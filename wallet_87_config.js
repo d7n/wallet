@@ -1,1 +1,1 @@
-var mnemonic = "horn approve hybrid envelope name visual debris comic bunker comfort final aware";
+var mnemonic = "sausage winter talent exotic cricket axis review alien cage hip north witness";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum ocean stumble robust thrive machine fabric chronic cliff region inflict rely";
+var mnemonic = "answer hood minor dog spy coast visit attend language away salmon machine";

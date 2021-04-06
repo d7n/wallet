@@ -1,1 +1,1 @@
-var mnemonic = "dust process pet argue cheese clerk garden jeans smile olive spend party";
+var mnemonic = "cattle juice defy pair laugh foster inject better blush cruise sword clock";

@@ -1,1 +1,1 @@
-var mnemonic = "father sudden lawsuit sick claim reunion forum sheriff vast ozone text debris";
+var mnemonic = "wild happy wash disease aspect midnight attack witness green burst helmet chair";

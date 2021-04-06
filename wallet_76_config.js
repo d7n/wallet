@@ -1,1 +1,1 @@
-var mnemonic = "city roast seven artefact rent mean armor near tonight federal own dizzy";
+var mnemonic = "copy between renew sail salt muffin margin silly burger feature rate gain";

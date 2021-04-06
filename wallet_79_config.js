@@ -1,1 +1,1 @@
-var mnemonic = "fade elevator glory later cancel elephant concert trash obscure step camp leopard";
+var mnemonic = "narrow movie loan swallow popular erupt treat category embrace nose real model";

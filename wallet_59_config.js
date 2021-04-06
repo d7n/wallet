@@ -1,1 +1,1 @@
-var mnemonic = "item universe produce aspect lesson parade sphere that ghost life bag peace";
+var mnemonic = "solve film cause donor happy estate wedding feel pyramid amateur fury horse";

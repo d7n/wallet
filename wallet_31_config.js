@@ -1,1 +1,1 @@
-var mnemonic = "diagram public mobile upper cause obtain unfair spread venture spoil response chicken";
+var mnemonic = "deliver steak excuse subway time assault tilt head steak tree tray thought";

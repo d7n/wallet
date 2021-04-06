@@ -1,1 +1,1 @@
-var mnemonic = "initial spawn victory asthma deputy notice ability prepare inform dash two goat";
+var mnemonic = "talent disagree keep welcome license galaxy orient ill clean elder rack immune";

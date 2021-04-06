@@ -1,1 +1,1 @@
-var mnemonic = "tip salad tiny seat replace program transfer bar drift elephant dust pyramid";
+var mnemonic = "shield response airport vessel pig enact borrow there occur labor moon toward";

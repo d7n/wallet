@@ -1,1 +1,1 @@
-var mnemonic = "embody glimpse actress you woman tuition curve during response spread umbrella size";
+var mnemonic = "loan language bomb aware wisdom hotel omit oval iron nurse love female";

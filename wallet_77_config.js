@@ -1,1 +1,1 @@
-var mnemonic = "spot silent tunnel place usage kid group vocal come dynamic receive visual";
+var mnemonic = "traffic bounce board fade catalog remove gather ski cause wrong crack accuse";

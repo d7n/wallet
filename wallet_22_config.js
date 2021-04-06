@@ -1,1 +1,1 @@
-var mnemonic = "evil calm melt ugly monkey bullet luggage hill struggle filter follow train";
+var mnemonic = "lift live market lawsuit lunch depth gallery reflect nation duty dose forest";

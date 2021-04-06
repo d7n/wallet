@@ -1,1 +1,1 @@
-var mnemonic = "damp year belt denial volume frame awkward poet bar rival slogan success";
+var mnemonic = "bright stove pause split typical pause cheap divorce spatial laptop normal danger";

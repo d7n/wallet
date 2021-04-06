@@ -1,1 +1,1 @@
-var mnemonic = "dawn combine pistol excuse farm tourist day salmon firm rain hood still";
+var mnemonic = "response bacon drill among apart say captain chaos educate recycle resist core";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer balcony puzzle twenty increase tortoise hundred worry young across problem pioneer";
+var mnemonic = "okay focus tomorrow cause drop weapon gaze fire jaguar book come inside";

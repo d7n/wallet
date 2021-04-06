@@ -1,1 +1,1 @@
-var mnemonic = "pitch gain label merry school visa process fantasy neither execute possible over";
+var mnemonic = "gift infant illegal mistake wing zone learn inmate rack fine hobby surface";

@@ -1,1 +1,1 @@
-var mnemonic = "junk mango amazing inmate anxiety sweet fish tone awesome false beach frog";
+var mnemonic = "rabbit travel wink aware need civil spawn crop finish side eager vendor";

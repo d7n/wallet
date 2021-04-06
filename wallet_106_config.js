@@ -1,1 +1,1 @@
-var mnemonic = "mixed turkey afford alter gentle humble stamp abstract fit immune gorilla height";
+var mnemonic = "erosion weapon square vicious boy motion limb edit else giraffe trial pencil";

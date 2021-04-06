@@ -1,1 +1,1 @@
-var mnemonic = "unique roof repair afford lawsuit once express boil core fire ivory wage";
+var mnemonic = "mobile tower bird venture warm mirror poet universe thunder coin panther arrow";

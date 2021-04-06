@@ -1,1 +1,1 @@
-var mnemonic = "transfer cost ivory network viable cost exact hunt illegal attitude cup better";
+var mnemonic = "resemble priority soft flight access fix cave special helmet have own where";

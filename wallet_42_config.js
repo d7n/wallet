@@ -1,1 +1,1 @@
-var mnemonic = "zoo amazing woman document avocado abstract select episode brick hobby loop middle";
+var mnemonic = "source few clutch infant north boost fade mean soda hollow churn purchase";

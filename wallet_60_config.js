@@ -1,1 +1,1 @@
-var mnemonic = "fresh clip manage admit orient news duty couch rapid decline hurt desert";
+var mnemonic = "fitness camp assist rug list false solve garbage around village similar cash";

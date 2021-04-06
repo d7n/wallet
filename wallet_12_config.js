@@ -1,1 +1,1 @@
-var mnemonic = "ecology measure rotate toward crater piece crop puzzle permit occur bind cute";
+var mnemonic = "spoil wing type muscle call arrest worry scout hire depth speed kangaroo";

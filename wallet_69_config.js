@@ -1,1 +1,1 @@
-var mnemonic = "pulse around canal reform sniff edge essence fuel assault arrow label art";
+var mnemonic = "feel all pepper earth gate game mom pole nerve wage churn true";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas slush result either fatal comic afford target attack hen gap lift";
+var mnemonic = "slam noodle salon front rug retire salon pool south burst sight pioneer";

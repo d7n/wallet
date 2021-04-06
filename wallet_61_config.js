@@ -1,1 +1,1 @@
-var mnemonic = "pottery discover patrol fade zone what found wing wealth busy two car";
+var mnemonic = "under ridge mesh dad raw midnight custom patch device walk fatal vocal";

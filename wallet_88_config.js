@@ -1,1 +1,1 @@
-var mnemonic = "subway inform edit account charge case talk rabbit dinosaur custom churn tuna";
+var mnemonic = "roof jealous giraffe beyond fee inflict more mystery kiss crystal cry assume";

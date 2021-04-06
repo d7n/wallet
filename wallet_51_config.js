@@ -1,1 +1,1 @@
-var mnemonic = "rack skull bright obtain person raise delay pause jealous life wild battle";
+var mnemonic = "deputy public ginger wisdom dose illness power ritual cushion lift ridge onion";

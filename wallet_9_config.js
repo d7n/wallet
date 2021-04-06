@@ -1,1 +1,1 @@
-var mnemonic = "math isolate tragic process taxi diesel differ maple empty normal speed lion";
+var mnemonic = "bronze behave base skate attend curve february equip portion elegant trial winner";

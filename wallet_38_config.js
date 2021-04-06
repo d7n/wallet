@@ -1,1 +1,1 @@
-var mnemonic = "unusual curve minimum disease ensure kick twin sea exhibit clump ridge royal";
+var mnemonic = "deal joy index result latin wolf school hover lonely fringe sniff able";

@@ -1,1 +1,1 @@
-var mnemonic = "vague girl mushroom depend wave february hundred wreck alpha dinosaur deny swift";
+var mnemonic = "analyst border squirrel wisdom physical hockey member cash ring stadium any embody";

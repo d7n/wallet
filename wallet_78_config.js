@@ -1,1 +1,1 @@
-var mnemonic = "hard vote tree argue amused shoe worry opinion gorilla true ask business";
+var mnemonic = "stomach miracle useless engine fitness dolphin pitch mind miracle family joy oil";

@@ -1,1 +1,1 @@
-var mnemonic = "visa ten demand wild trend exist true diamond arm horror fringe swear";
+var mnemonic = "loan actual decorate penalty matrix because priority blush invest book friend primary";

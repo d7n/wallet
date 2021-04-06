@@ -1,1 +1,1 @@
-var mnemonic = "element work unlock ostrich antique spoon ceiling picture half drum apple ankle";
+var mnemonic = "vicious icon current gun rotate today confirm blood almost divorce pitch waste";

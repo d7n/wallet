@@ -1,1 +1,1 @@
-var mnemonic = "shift humor direct drop dynamic reunion smart later liquid shoot indicate become";
+var mnemonic = "inspire category cheese payment boat junior opera flip hair drop release exercise";

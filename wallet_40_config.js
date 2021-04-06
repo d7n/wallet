@@ -1,1 +1,1 @@
-var mnemonic = "survey impulse field sister retire license subway remove benefit armor wife flock";
+var mnemonic = "oppose erode box cry soccer deliver family kingdom basket foil edge habit";

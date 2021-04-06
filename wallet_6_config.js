@@ -1,1 +1,1 @@
-var mnemonic = "finish loop rent forward confirm clay tomato ten turn egg afford ability";
+var mnemonic = "club dose siege pear perfect slab gospel harvest man twelve sauce beach";

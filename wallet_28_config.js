@@ -1,1 +1,1 @@
-var mnemonic = "test original body attract situate upper train fold casino original huge fiscal";
+var mnemonic = "hamster ecology glue coin caution street short lunch divide hard bean clerk";

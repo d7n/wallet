@@ -1,1 +1,1 @@
-var mnemonic = "oven mountain aim flock grow nose wink surprise order rib siren solar";
+var mnemonic = "purse find goddess stove card donate throw refuse shiver ridge detail suit";

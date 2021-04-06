@@ -1,1 +1,1 @@
-var mnemonic = "august camera eager sunny delay vivid path armed math degree lake planet";
+var mnemonic = "portion buyer slight clever bleak evoke vibrant mom copy enhance toward receive";

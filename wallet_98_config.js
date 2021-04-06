@@ -1,1 +1,1 @@
-var mnemonic = "gap street worth front describe guard idea brand gorilla library gain ramp";
+var mnemonic = "oxygen top symbol click source captain morning toddler lock kitten exchange warrior";

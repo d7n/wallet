@@ -1,1 +1,1 @@
-var mnemonic = "hello school ceiling blade hole clerk wolf parade jelly empower shallow mouse";
+var mnemonic = "much leisure consider tattoo avoid hybrid mirror permit section answer used practice";

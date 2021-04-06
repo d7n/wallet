@@ -1,1 +1,1 @@
-var mnemonic = "polar submit any much prison home lunch mimic inside topple rice olympic";
+var mnemonic = "scare engage worth unit about shallow ship flock jazz much mobile usual";

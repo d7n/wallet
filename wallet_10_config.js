@@ -1,1 +1,1 @@
-var mnemonic = "mixture switch vicious valley syrup renew scheme congress spread crop clock brief";
+var mnemonic = "mother heart purity joy ceiling frame upgrade dawn pottery hero praise skill";

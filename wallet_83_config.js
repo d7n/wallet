@@ -1,1 +1,1 @@
-var mnemonic = "rate edit split witness divorce egg meadow uncle rely emotion traffic body";
+var mnemonic = "glance saddle pool burden impact fold pet transfer frozen father number globe";

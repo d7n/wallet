@@ -1,1 +1,1 @@
-var mnemonic = "end hold banana enact brand square record effort bachelor stereo describe stone";
+var mnemonic = "arm damp base moon saddle option action horn reform smooth energy three";

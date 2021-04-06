@@ -1,1 +1,1 @@
-var mnemonic = "finger weekend now melody aim tone grain teach wet wasp fringe clever";
+var mnemonic = "muscle sniff twice bullet video torch message ball open surround antique miss";

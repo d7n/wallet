@@ -1,1 +1,1 @@
-var mnemonic = "increase clip text genius bind delay sail lion certain learn home pause";
+var mnemonic = "evolve change rocket whale rude review slow entry cousin rifle during office";
