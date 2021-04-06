@@ -1,1 +1,1 @@
-var mnemonic = "kiwi grid cost injury retreat sting sphere beach mandate modify clerk action";
+var mnemonic = "define car celery fade avocado resist vocal snake sustain isolate fall agent";

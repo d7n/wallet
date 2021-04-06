@@ -1,1 +1,1 @@
-var mnemonic = "mixture post slab feature sorry furnace electric sand safe broom giggle real";
+var mnemonic = "moment moral couple gym mass admit wrap offer sleep stadium other sight";

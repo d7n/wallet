@@ -1,1 +1,1 @@
-var mnemonic = "camera similar shaft stool pelican fork harbor arrow survey velvet young relief";
+var mnemonic = "shop thunder flock deer junk year stick supply switch please job vault";

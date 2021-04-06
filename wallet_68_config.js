@@ -1,1 +1,1 @@
-var mnemonic = "increase describe virus unaware borrow anxiety board lava number field oval shop";
+var mnemonic = "ripple blanket item blur oyster bring ensure defense nuclear sting bench grab";

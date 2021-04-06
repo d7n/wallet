@@ -1,1 +1,1 @@
-var mnemonic = "calm purity strategy mystery approve party adult update upon march ceiling seven";
+var mnemonic = "frost teach dash consider main glove version panic patrol egg believe demise";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid slogan divide two churn tribe bless core forward file cattle annual";
+var mnemonic = "select dismiss cash jaguar play artist swap heavy brand pony beef repeat";

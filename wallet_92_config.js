@@ -1,1 +1,1 @@
-var mnemonic = "squeeze energy tone flame better direct verify daring spawn target frog guilt";
+var mnemonic = "walnut liberty proud jungle setup sun stock miss miss idle right school";

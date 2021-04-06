@@ -1,1 +1,1 @@
-var mnemonic = "column hair spend venture advice hub skirt shallow float gather stairs position";
+var mnemonic = "leaf sunset silly chapter away stock miracle same erase shadow bleak paddle";

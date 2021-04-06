@@ -1,1 +1,1 @@
-var mnemonic = "filter ostrich liar cousin report pulp gadget team crop usual ribbon drive";
+var mnemonic = "adapt brush habit scale six ready armor upset police script toddler until";

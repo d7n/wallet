@@ -1,1 +1,1 @@
-var mnemonic = "ship snap episode alien survey sail brisk catch wedding cook captain dune";
+var mnemonic = "east feed slow seminar decorate tackle rapid sunset clinic butter boost habit";

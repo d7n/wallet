@@ -1,1 +1,1 @@
-var mnemonic = "secret useful march flip answer box afford room strong tip crater seminar";
+var mnemonic = "tonight spray sugar engine impulse unit design chimney prison require engine eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige fall alpha rough benefit game wet call salad cycle castle museum";
+var mnemonic = "junior infant twice pupil cushion antenna shy split outer hazard anger film";

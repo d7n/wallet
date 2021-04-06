@@ -1,1 +1,1 @@
-var mnemonic = "ancient unfold stick walnut among all knee they into celery comfort vague";
+var mnemonic = "link atom crystal defy nation scissors champion make name ordinary shoulder dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "finish manage argue device voyage vicious account fantasy trick silent parent flame";
+var mnemonic = "where same degree feature loud pipe tank shallow castle hen rescue slight";

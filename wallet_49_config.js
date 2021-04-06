@@ -1,1 +1,1 @@
-var mnemonic = "leader useless rain glow equal area remind mad tent ride split boy";
+var mnemonic = "smoke foster slab awkward blade bubble pitch giggle siren prevent gain six";

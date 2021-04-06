@@ -1,1 +1,1 @@
-var mnemonic = "since clinic boat slot canyon desert spray circle push wink gorilla squirrel";
+var mnemonic = "buyer opinion leg document aerobic melody buffalo defense access drill filter attend";

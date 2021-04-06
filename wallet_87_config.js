@@ -1,1 +1,1 @@
-var mnemonic = "solid cement youth skirt riot fox cluster afford one sign guard budget";
+var mnemonic = "work antique enter mad lazy manual lock evoke outer shuffle uphold execute";

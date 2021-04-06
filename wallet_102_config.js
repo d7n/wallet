@@ -1,1 +1,1 @@
-var mnemonic = "when trumpet favorite phone behave deny update soda error hammer robot clump";
+var mnemonic = "enrich response green lounge brisk table slide country prize almost wrong magic";

@@ -1,1 +1,1 @@
-var mnemonic = "member dish cry ethics tube luggage erode ginger spring submit small know";
+var mnemonic = "void badge satisfy recycle hazard strike move bulk path raw violin pink";

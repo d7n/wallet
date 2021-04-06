@@ -1,1 +1,1 @@
-var mnemonic = "indicate favorite swamp middle stable obey siren reflect various extend immense staff";
+var mnemonic = "resource mobile rifle hope island season dentist invest derive stumble grow junior";

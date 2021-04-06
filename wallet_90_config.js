@@ -1,1 +1,1 @@
-var mnemonic = "reject poem fossil segment duck predict birth track easy spirit aerobic waste";
+var mnemonic = "athlete fade creek city laptop lens exhaust squirrel stool palm please glad";

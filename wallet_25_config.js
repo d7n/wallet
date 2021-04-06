@@ -1,1 +1,1 @@
-var mnemonic = "nurse trouble glow slight game wine vintage mean actual ocean crawl ivory";
+var mnemonic = "churn material scale jewel push merit van sing sport drop poet mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "under green hub primary kid anchor rhythm remind panther duty day man";
+var mnemonic = "weekend grunt term length stove project echo glass motor produce keen copy";

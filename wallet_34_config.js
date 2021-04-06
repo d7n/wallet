@@ -1,1 +1,1 @@
-var mnemonic = "pig border where during primary office camp endless fire express smooth seat";
+var mnemonic = "chef silver bread lobster biology summer vague script gasp own turtle ticket";

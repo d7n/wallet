@@ -1,1 +1,1 @@
-var mnemonic = "corn off vivid tooth sentence enlist where section hawk hockey real turkey";
+var mnemonic = "finger pride slender scrap beyond wall hire tattoo tourist volume skirt power";

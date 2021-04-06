@@ -1,1 +1,1 @@
-var mnemonic = "scheme example timber bird invest combine glare purse aisle fever devote inform";
+var mnemonic = "print brain flame awful describe life ocean visit lounge media dose provide";

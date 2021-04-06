@@ -1,1 +1,1 @@
-var mnemonic = "tool purpose mail light edit age shock great label size news reunion";
+var mnemonic = "place know sleep laptop heavy industry memory deer level picnic mystery tube";

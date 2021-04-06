@@ -1,1 +1,1 @@
-var mnemonic = "hole cook cover yard armed chaos mouse disease agent color actor tortoise";
+var mnemonic = "grid collect real design hurt need fabric chronic fashion critic sport muffin";

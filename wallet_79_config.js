@@ -1,1 +1,1 @@
-var mnemonic = "dose theme resemble blouse price surge view twice tomato lawn occur worry";
+var mnemonic = "drink track pencil appear ship clerk gasp excite cheese pipe embrace notice";

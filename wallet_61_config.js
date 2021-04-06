@@ -1,1 +1,1 @@
-var mnemonic = "surge learn peasant elbow history meat city sadness scrub license lock execute";
+var mnemonic = "hungry project rent sustain frozen gloom breeze empower column wrong panel rule";

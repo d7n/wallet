@@ -1,1 +1,1 @@
-var mnemonic = "merge soda trigger basic father game rebuild leader rely peasant edit fork";
+var mnemonic = "glimpse under monitor fancy average choose glance naive huge armed hurry obtain";

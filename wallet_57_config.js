@@ -1,1 +1,1 @@
-var mnemonic = "pride tiger palm cigar cover lens purity scorpion spin version wall forget";
+var mnemonic = "wool calm duty road canoe crane echo prevent depth claw card delay";

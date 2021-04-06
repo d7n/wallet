@@ -1,1 +1,1 @@
-var mnemonic = "cruise usage umbrella short follow swap voice news method crouch choice about";
+var mnemonic = "myth crack teach below dilemma spray impose siren faith fatal level mass";

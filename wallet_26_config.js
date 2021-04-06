@@ -1,1 +1,1 @@
-var mnemonic = "phone evolve blouse ranch never month dilemma birth over horse pill throw";
+var mnemonic = "autumn disorder search whisper effort stool slice logic cruel odor figure plunge";

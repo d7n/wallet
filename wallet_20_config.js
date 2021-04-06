@@ -1,1 +1,1 @@
-var mnemonic = "steak hard property cash skirt music level region shrug spoil quality energy";
+var mnemonic = "shuffle target enact clarify ribbon where innocent truly main song shop hurry";

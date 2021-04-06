@@ -1,1 +1,1 @@
-var mnemonic = "anchor journey say ivory gesture sketch spread myself adult winter pride misery";
+var mnemonic = "slight zone dumb shop huge leg winter album club course horn valve";

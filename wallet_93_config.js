@@ -1,1 +1,1 @@
-var mnemonic = "fluid improve plate match board obtain stomach usage leisure trade scatter snap";
+var mnemonic = "reason inspire various logic fade pudding paper pipe youth maple critic cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "boost soft best tag hero erode real hammer bulb long yellow ocean";
+var mnemonic = "print pact sauce ocean cargo all cabin protect glimpse stand record try";

@@ -1,1 +1,1 @@
-var mnemonic = "switch crater humor order solar spot allow change tornado ship lesson tornado";
+var mnemonic = "police since field danger monkey rapid dad hint rare reopen viable ensure";

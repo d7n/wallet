@@ -1,1 +1,1 @@
-var mnemonic = "vast help carry rate crazy curious sketch banner infant false dynamic quiz";
+var mnemonic = "fiber battle fringe frozen cabin nose mix problem clarify come all bag";

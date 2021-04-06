@@ -1,1 +1,1 @@
-var mnemonic = "hundred eternal estate wool zone shallow impact youth rare limb spawn crunch";
+var mnemonic = "volume salad neutral differ below swarm mobile decrease project have fiscal noise";

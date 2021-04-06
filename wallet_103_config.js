@@ -1,1 +1,1 @@
-var mnemonic = "dinner artist slab edge legal flame album lunar chat another trust equip";
+var mnemonic = "vast quiz image bread wife citizen educate swim harbor expand tattoo explain";

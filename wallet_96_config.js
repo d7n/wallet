@@ -1,1 +1,1 @@
-var mnemonic = "pilot peace approve royal midnight write brief noise spread interest credit mask";
+var mnemonic = "ahead seed brown doll pig head amazing broken exhaust spoon skull share";

@@ -1,1 +1,1 @@
-var mnemonic = "similar wet pig gain next august expose rural border enemy banner horse";
+var mnemonic = "pledge disorder leave major before taste shoot kitchen unhappy you sail palace";

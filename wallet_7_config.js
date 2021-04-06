@@ -1,1 +1,1 @@
-var mnemonic = "mom hub flight barely twist energy there escape assume outdoor upgrade guide";
+var mnemonic = "brass code deny mail post analyst funny inflict crumble awful slab reflect";

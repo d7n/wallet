@@ -1,1 +1,1 @@
-var mnemonic = "pyramid cram silver intact radar rare scissors because fuel beyond short ritual";
+var mnemonic = "able much vibrant wasp rib clay become keep tooth maple enrich design";

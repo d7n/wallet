@@ -1,1 +1,1 @@
-var mnemonic = "kitchen bachelor sketch neither shine legal consider private faint junior settle lizard";
+var mnemonic = "juice round lava knife crunch critic dish ahead wonder math tiny gold";

@@ -1,1 +1,1 @@
-var mnemonic = "north rich runway please swarm avoid grocery equip sugar foster gloom divorce";
+var mnemonic = "huge egg town resemble symbol strike giant price warfare sign avoid hero";

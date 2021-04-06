@@ -1,1 +1,1 @@
-var mnemonic = "perfect buffalo vague satisfy thing task judge crisp project rhythm neutral glimpse";
+var mnemonic = "urge lab valid catch rebel decide suit dust crisp hamster milk treat";

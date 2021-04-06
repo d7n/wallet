@@ -1,1 +1,1 @@
-var mnemonic = "expect flower impose apple tunnel traffic hidden topic involve mixture walk shaft";
+var mnemonic = "victory connect evil ostrich expand certain blue height require dream recall cotton";

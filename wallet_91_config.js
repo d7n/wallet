@@ -1,1 +1,1 @@
-var mnemonic = "bullet agree essay smooth burst ask resource rack black table engage soldier";
+var mnemonic = "brain twin bonus idea ice neglect bamboo wagon hair armor december bring";

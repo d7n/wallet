@@ -1,1 +1,1 @@
-var mnemonic = "tree rate toy win island tiger salad glue immense foster item digital";
+var mnemonic = "length camp virus opera sniff inner only loan lobster blanket bench wish";

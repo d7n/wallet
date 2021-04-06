@@ -1,1 +1,1 @@
-var mnemonic = "arch total humor canal horse say public loan champion online ribbon huge";
+var mnemonic = "priority aerobic spike medal buddy frog duty problem like month grape hobby";

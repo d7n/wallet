@@ -1,1 +1,1 @@
-var mnemonic = "usage position chunk muscle cannon fade comfort clutch buddy scorpion shop elbow";
+var mnemonic = "emerge maximum base keep chef peasant waste squeeze dirt cement slush drastic";

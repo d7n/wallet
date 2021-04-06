@@ -1,1 +1,1 @@
-var mnemonic = "music sing yellow utility wrestle oval crisp cook resemble permit ordinary under";
+var mnemonic = "egg around aunt nuclear what ramp task cinnamon ketchup must shy oppose";

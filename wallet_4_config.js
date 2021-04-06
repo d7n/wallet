@@ -1,1 +1,1 @@
-var mnemonic = "animal thing season ladder bracket leopard survey boring despair employ urban abandon";
+var mnemonic = "wealth good hybrid ketchup elephant move fly mansion stomach unfair cup hotel";

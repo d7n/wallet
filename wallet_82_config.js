@@ -1,1 +1,1 @@
-var mnemonic = "tourist pill tip syrup flat prevent dolphin swift legal race cabin survey";
+var mnemonic = "salmon exist old quit photo daring round bean flash problem nose maximum";

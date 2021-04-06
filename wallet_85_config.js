@@ -1,1 +1,1 @@
-var mnemonic = "annual liberty shove enroll smart wine spray artist basket always degree bid";
+var mnemonic = "pelican solar youth snap ceiling crumble track fuel garbage thing element assist";

@@ -1,1 +1,1 @@
-var mnemonic = "depart behave sell firm elephant syrup harvest shy develop accuse diet steak";
+var mnemonic = "reward shop object eager sand close tackle weapon art walnut merry dismiss";

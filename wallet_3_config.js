@@ -1,1 +1,1 @@
-var mnemonic = "horror resource rather velvet animal onion baby peace sock gallery two bag";
+var mnemonic = "favorite panic exclude dignity crack giant modify sell seek upon shadow shoe";

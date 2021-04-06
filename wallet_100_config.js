@@ -1,1 +1,1 @@
-var mnemonic = "divert prevent target near pact increase cradle forget tone disorder service goose";
+var mnemonic = "oven wife rapid trophy act alley hunt blast sugar plug harvest destroy";

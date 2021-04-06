@@ -1,1 +1,1 @@
-var mnemonic = "hill boss point casual thought unaware impose cave person limit point animal";
+var mnemonic = "range cat arrange work carry adult rally balcony position onion error earth";

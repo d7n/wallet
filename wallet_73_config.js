@@ -1,1 +1,1 @@
-var mnemonic = "half group leader slogan smoke stomach drip canyon zebra hotel ridge inmate";
+var mnemonic = "trend lizard file elite monitor future rifle rack vehicle myth mail sting";

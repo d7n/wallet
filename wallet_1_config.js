@@ -1,1 +1,1 @@
-var mnemonic = "elite satisfy make skin opera glory hospital idle advice before pretty stove";
+var mnemonic = "exchange hard select assault trash bike island main shop pattern kiwi flower";

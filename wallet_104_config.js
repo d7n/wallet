@@ -1,1 +1,1 @@
-var mnemonic = "shadow material spider zero baby century barrel evoke wrap final enact jaguar";
+var mnemonic = "metal enjoy immune december ten wear deliver unique size noble symptom picnic";

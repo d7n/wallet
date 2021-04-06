@@ -1,1 +1,1 @@
-var mnemonic = "orphan reject odor crush rocket wood shop diary glass cigar ketchup crucial";
+var mnemonic = "tiny erode wedding can advance update skirt only reflect erosion solution execute";

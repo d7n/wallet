@@ -1,1 +1,1 @@
-var mnemonic = "pepper oil law tooth spread cupboard people scrap bitter brave grow cereal";
+var mnemonic = "happy tower green slide coach page chair patrol trigger jar analyst want";

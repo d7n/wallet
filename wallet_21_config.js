@@ -1,1 +1,1 @@
-var mnemonic = "life genius plastic federal merry health agree pond exile gossip few vote";
+var mnemonic = "camera weasel forward smoke expose found mom vessel dumb target lobster boat";

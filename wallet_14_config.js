@@ -1,1 +1,1 @@
-var mnemonic = "tonight dilemma lesson awkward price child cute alter hole small switch chunk";
+var mnemonic = "lucky thing rival hard mail earn reject park vacant donate resemble immune";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise accuse beef page reopen market dream auto suspect fog grit tank";
+var mnemonic = "artist rare regular scan purse picture cabbage copy mountain slab inch orange";

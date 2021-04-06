@@ -1,1 +1,1 @@
-var mnemonic = "dry mosquito arctic rubber filter gaze scatter evidence peanut jazz lottery bless";
+var mnemonic = "north planet word defense model pioneer lift ceiling steel myth actress base";

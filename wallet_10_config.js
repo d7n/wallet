@@ -1,1 +1,1 @@
-var mnemonic = "rug couple now together burst effort various sibling pond thought check fan";
+var mnemonic = "lend proud opinion butter clog zoo priority audit chat assault vicious endorse";

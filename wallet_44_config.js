@@ -1,1 +1,1 @@
-var mnemonic = "razor certain steak price solution lemon hand estate project city under silent";
+var mnemonic = "boss party ill volcano demand physical draw enter rain soon actor clog";

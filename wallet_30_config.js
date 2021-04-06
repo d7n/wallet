@@ -1,1 +1,1 @@
-var mnemonic = "photo observe tragic ball yellow use neglect convince cabbage aspect reunion horn";
+var mnemonic = "pulse unique stamp explain garage ghost tomorrow crowd switch energy foster perfect";

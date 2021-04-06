@@ -1,1 +1,1 @@
-var mnemonic = "gold just absent snow link material bind day game depth pause question";
+var mnemonic = "symptom lounge cat host inform canoe differ armor cage boat gossip public";

@@ -1,1 +1,1 @@
-var mnemonic = "club session mass crater access arrive scatter license predict spoon radar resist";
+var mnemonic = "dust life cage blind response double click narrow crime shrug point fiber";

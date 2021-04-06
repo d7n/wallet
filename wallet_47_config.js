@@ -1,1 +1,1 @@
-var mnemonic = "amateur banner brand risk park invite tissue employ have salmon ethics snake";
+var mnemonic = "juice slow target bring endless dwarf mechanic episode critic short suit unlock";

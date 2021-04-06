@@ -1,1 +1,1 @@
-var mnemonic = "damage virus firm hurt hospital wealth festival front snow zebra mimic legal";
+var mnemonic = "romance rifle input fish favorite ball poet field soft deposit boat captain";

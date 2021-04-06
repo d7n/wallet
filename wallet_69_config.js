@@ -1,1 +1,1 @@
-var mnemonic = "stable pelican hidden video chair elegant fossil undo floor parade sail mad";
+var mnemonic = "monkey gentle demand cradle six avoid vendor image able science repeat noble";

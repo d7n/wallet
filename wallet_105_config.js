@@ -1,1 +1,1 @@
-var mnemonic = "engage pumpkin state humble regular era upon demise glory shell sibling promote";
+var mnemonic = "junior misery nature equip tomato zero hammer neglect uniform moon special wash";

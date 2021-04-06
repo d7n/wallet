@@ -1,1 +1,1 @@
-var mnemonic = "goddess fun enjoy rally deny reopen match hero own bench junior tomato";
+var mnemonic = "tone few sun culture rug sell meadow search lend renew motion punch";

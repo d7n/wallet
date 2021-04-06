@@ -1,1 +1,1 @@
-var mnemonic = "alert limit stomach raven pigeon force flavor sauce street melody help erode";
+var mnemonic = "quarter arrange exile obey upper elder glance tumble scout small caution twenty";

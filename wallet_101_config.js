@@ -1,1 +1,1 @@
-var mnemonic = "empty ketchup exhaust scale clerk usual tumble recipe harbor detect cigar ball";
+var mnemonic = "fold need fork interest attend welcome lion win lizard tower car silk";

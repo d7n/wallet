@@ -1,1 +1,1 @@
-var mnemonic = "kick symptom brief traffic today own reform faculty review nerve emerge toddler";
+var mnemonic = "survey avocado rally birth coil quality cabin time rifle replace elite worry";

@@ -1,1 +1,1 @@
-var mnemonic = "tree project daring sure magnet repair pigeon bullet border power display emotion";
+var mnemonic = "ball derive dial expand field spin silk chaos vacant oppose coin dune";

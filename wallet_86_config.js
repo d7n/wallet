@@ -1,1 +1,1 @@
-var mnemonic = "wrist general exhibit firm screen oblige amused raven ecology grass hospital lock";
+var mnemonic = "typical team this fun bullet gain exchange weather december burden correct awake";

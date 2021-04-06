@@ -1,1 +1,1 @@
-var mnemonic = "stomach age truck main lab ranch spray sight idle turn work damage";
+var mnemonic = "hole witness three easily engage treat confirm tape crisp two gun witness";

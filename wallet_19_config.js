@@ -1,1 +1,1 @@
-var mnemonic = "book remember host rocket elegant minimum joke awesome payment someone invest twenty";
+var mnemonic = "cannon whisper scout capable abuse already black gospel palace eagle hub mansion";

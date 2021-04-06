@@ -1,1 +1,1 @@
-var mnemonic = "burger slim donate shoe delay prosper problem talent good copy remove sample";
+var mnemonic = "doctor lonely funny hungry valid hotel rescue milk region achieve dilemma try";

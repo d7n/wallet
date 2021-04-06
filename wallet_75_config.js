@@ -1,1 +1,1 @@
-var mnemonic = "laptop bless swift average mother honey place shift humble squirrel design run";
+var mnemonic = "opinion type spray annual vintage ivory pave blanket employ sheriff achieve face";

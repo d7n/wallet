@@ -1,1 +1,1 @@
-var mnemonic = "uphold devote taste reopen pyramid tank yard pear wave custom dust digital";
+var mnemonic = "foster mouse false only deal stay tongue couple uphold stone afford cargo";

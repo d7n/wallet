@@ -1,1 +1,1 @@
-var mnemonic = "bicycle radar stamp sheriff wrist aware note pencil fire cabin board mobile";
+var mnemonic = "mind comfort lava smooth slow twin link off antique quit define forward";
