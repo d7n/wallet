@@ -1,1 +1,1 @@
-var mnemonic = "spin ride accuse belt acoustic prize gas taste where tribe inquiry analyst";
+var mnemonic = "engage copper banana cricket acquire sure canvas surround spoil slender stable tomorrow";

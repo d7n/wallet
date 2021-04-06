@@ -1,1 +1,1 @@
-var mnemonic = "defy mercy father doll opera gadget tank desk noodle faith toy service";
+var mnemonic = "combine boss prosper arrest offer wish rigid dumb gas enter school snap";

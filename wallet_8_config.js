@@ -1,1 +1,1 @@
-var mnemonic = "siege split doctor canoe clown floor describe music other tip cannon picnic";
+var mnemonic = "time jelly foam round album orbit below trumpet pizza fat rug near";

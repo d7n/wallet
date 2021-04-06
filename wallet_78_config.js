@@ -1,1 +1,1 @@
-var mnemonic = "wheat fiscal side arm ensure base bird prison bird sunny vivid benefit";
+var mnemonic = "unlock empower foil behave act nature fence donate valve medal green stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "board tourist note benefit used energy custom patrol jealous anchor banner south";
+var mnemonic = "scissors asset strong curve around wood impulse empty orphan journey address tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "into actress better ancient elephant maximum scene plastic ancient sunny solve term";
+var mnemonic = "tribe explain elbow wrist foot valley insect decrease work object coach fee";

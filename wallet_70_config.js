@@ -1,1 +1,1 @@
-var mnemonic = "negative believe equip yard alert gift such insane celery soldier marble first";
+var mnemonic = "expect praise smart subway skin order this wine warfare fresh pear hip";

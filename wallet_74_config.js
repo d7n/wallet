@@ -1,1 +1,1 @@
-var mnemonic = "vacuum wait garlic endless undo quantum wonder exclude identify coach forward logic";
+var mnemonic = "clap tell glance snow fashion suggest zebra put piano danger utility draw";

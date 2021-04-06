@@ -1,1 +1,1 @@
-var mnemonic = "segment question engage hidden notable sugar dog arena century mimic random unfold";
+var mnemonic = "business film burger surprise globe jacket fall tower oblige claw mountain doll";

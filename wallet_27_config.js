@@ -1,1 +1,1 @@
-var mnemonic = "picnic scare glue wish series metal wheat equal lecture resource notable sing";
+var mnemonic = "symptom kick behind provide math garden void know medal novel marriage digital";

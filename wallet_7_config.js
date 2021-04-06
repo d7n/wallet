@@ -1,1 +1,1 @@
-var mnemonic = "hair bag gas duck rapid fiber beauty tongue shift middle virtual tiny";
+var mnemonic = "acid aunt runway lawsuit blind copy tiny lonely bracket face when piece";

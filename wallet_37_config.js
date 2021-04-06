@@ -1,1 +1,1 @@
-var mnemonic = "dirt gossip adjust puzzle click portion jacket cereal couple sand seat picture";
+var mnemonic = "orphan garbage hedgehog open duty banana worry umbrella say plastic hard until";

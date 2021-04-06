@@ -1,1 +1,1 @@
-var mnemonic = "leopard brave favorite picnic forward theme involve galaxy bless essence relax awesome";
+var mnemonic = "arrest sport denial situate carpet festival black bid forest picnic flock hammer";

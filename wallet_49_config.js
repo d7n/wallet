@@ -1,1 +1,1 @@
-var mnemonic = "three motion alone lift invite response onion vast state organ pull rich";
+var mnemonic = "depart hard bag divide diesel cancel moon resemble ghost dizzy suit harbor";

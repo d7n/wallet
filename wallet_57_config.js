@@ -1,1 +1,1 @@
-var mnemonic = "cradle stomach skill lesson wonder hope join waste left velvet donate myth";
+var mnemonic = "own toss ride whip afraid observe gallery library hard script expire sphere";

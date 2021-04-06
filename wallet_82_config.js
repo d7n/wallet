@@ -1,1 +1,1 @@
-var mnemonic = "nice happy learn truck buddy twin outer cradle best skate myself surge";
+var mnemonic = "burst cool dolphin scrub belt myself base split noble bicycle where shield";

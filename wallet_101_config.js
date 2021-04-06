@@ -1,1 +1,1 @@
-var mnemonic = "bid observe timber slush fever winner whisper amount negative egg gadget split";
+var mnemonic = "cargo captain journey teach emerge decrease permit minute hint else morning clay";

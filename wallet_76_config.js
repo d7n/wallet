@@ -1,1 +1,1 @@
-var mnemonic = "gloom antenna depth equal pact tuna female modify aisle govern item curtain";
+var mnemonic = "chest decide addict update net broccoli trust symbol major budget before own";

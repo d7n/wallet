@@ -1,1 +1,1 @@
-var mnemonic = "dumb case involve steak carpet tobacco category discover reason gift shoulder dwarf";
+var mnemonic = "oil secret parent raw congress boss supply three boil dry object cream";

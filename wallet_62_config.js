@@ -1,1 +1,1 @@
-var mnemonic = "peace steak example wreck pact damage aunt fence merge sting trial regular";
+var mnemonic = "hat sad release oppose fly toddler talk rain swear jump sock globe";

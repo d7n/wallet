@@ -1,1 +1,1 @@
-var mnemonic = "drift youth special jacket rate zebra actress stem gossip scrap group refuse";
+var mnemonic = "priority material resist lazy duck oak affair impose embody absent crime obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "manual prison speed thrive citizen critic pledge false method quarter knee small";
+var mnemonic = "resource canoe truly chaos mix defense worth any audit aisle laundry lecture";

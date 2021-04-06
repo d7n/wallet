@@ -1,1 +1,1 @@
-var mnemonic = "modify one sort swarm impact seek prize siege timber blanket capital boring";
+var mnemonic = "member kingdom point coach retire excuse yellow fabric vicious sting decrease master";

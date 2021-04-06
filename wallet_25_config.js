@@ -1,1 +1,1 @@
-var mnemonic = "frame crew spread radar jump three resource proof finger maple custom okay";
+var mnemonic = "nest gossip march lend story laptop hair scout rebuild grow midnight pyramid";

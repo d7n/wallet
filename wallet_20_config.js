@@ -1,1 +1,1 @@
-var mnemonic = "rhythm leaf wear lamp copper puzzle merry smile gun erase yard swing";
+var mnemonic = "faint hundred ice inspire eyebrow artist famous example estate hint erosion trim";

@@ -1,1 +1,1 @@
-var mnemonic = "disease sleep damp shoulder sweet agent illegal change flip crystal tomorrow cushion";
+var mnemonic = "inform rate lyrics candy force spin inherit capable divorce index mom anger";

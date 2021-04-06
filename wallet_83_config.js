@@ -1,1 +1,1 @@
-var mnemonic = "analyst strike reopen angry snake myself never pave helmet family border truck";
+var mnemonic = "sponsor uphold shell clinic forward old error push zone deliver urge used";

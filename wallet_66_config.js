@@ -1,1 +1,1 @@
-var mnemonic = "orient route lobster style crowd know object north tuition much wing tip";
+var mnemonic = "vapor firm uphold hip nothing large thumb thrive essence brass stadium phone";

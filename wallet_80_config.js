@@ -1,1 +1,1 @@
-var mnemonic = "afraid liberty candy smart fiction defy over click boost spirit enter enhance";
+var mnemonic = "economy roast coin leaf domain disorder east glue garment table fire impose";

@@ -1,1 +1,1 @@
-var mnemonic = "rather palm debris work answer flavor sing cycle ketchup sugar about ribbon";
+var mnemonic = "gadget echo vital addict spare pet misery kingdom smart giant tribe junk";

@@ -1,1 +1,1 @@
-var mnemonic = "defy learn anchor name digital old lawsuit magic own battle cruel wolf";
+var mnemonic = "candy powder armor camera step genre plug tattoo lemon early story garlic";

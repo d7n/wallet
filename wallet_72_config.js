@@ -1,1 +1,1 @@
-var mnemonic = "sense hundred impose finger hip fork display throw nothing rival vicious gasp";
+var mnemonic = "aspect wheat refuse ready expire frown obtain tennis spin human good crisp";

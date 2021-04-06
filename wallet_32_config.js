@@ -1,1 +1,1 @@
-var mnemonic = "until coyote kidney expose educate mean wine primary bread mammal fetch process";
+var mnemonic = "produce bitter host harvest donor apple split mimic toast coral abstract sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot inquiry portion above west process mechanic moment fade festival visit robust";
+var mnemonic = "lounge salt witness issue shoot disorder crack leaf void wool carpet obvious";

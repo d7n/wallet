@@ -1,1 +1,1 @@
-var mnemonic = "assume perfect mad push spawn proof squeeze matrix illegal label crisp arch";
+var mnemonic = "pulse kiss range square mesh code message refuse lava cancel ahead frost";

@@ -1,1 +1,1 @@
-var mnemonic = "involve simple kick treat battle buffalo parent number delay lecture art eye";
+var mnemonic = "spell cigar circle base stuff behave tumble dust actual entry purchase fruit";

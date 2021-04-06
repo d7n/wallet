@@ -1,1 +1,1 @@
-var mnemonic = "erase scheme embody stool gospel source firm clutch client crystal utility program";
+var mnemonic = "omit blind hobby anchor lake rocket one antique rapid lecture entry carry";

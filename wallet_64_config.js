@@ -1,1 +1,1 @@
-var mnemonic = "leader bulk vivid patrol pumpkin wide joy woman lock auction key kiss";
+var mnemonic = "basic tool hawk canvas walnut siren edit patient initial cactus double balance";

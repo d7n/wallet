@@ -1,1 +1,1 @@
-var mnemonic = "arrive wealth fabric armor huge erupt effort way wrestle soft suspect illness";
+var mnemonic = "young pupil rabbit wave gadget online around elegant frown learn motion hold";

@@ -1,1 +1,1 @@
-var mnemonic = "young weasel front bicycle antique bubble must tank exercise nurse horror drill";
+var mnemonic = "mask team develop april crack sample vehicle input jump leave rack display";

@@ -1,1 +1,1 @@
-var mnemonic = "decade assault caught child magnet chuckle become crunch beef differ prosper only";
+var mnemonic = "help talent fatigue remain auction couple truth income earth sun forward obvious";

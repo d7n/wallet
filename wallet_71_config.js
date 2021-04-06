@@ -1,1 +1,1 @@
-var mnemonic = "hunt quarter upgrade rib media used fossil father private warrior toward scrub";
+var mnemonic = "remember siege humor hire conduct limit antenna inflict hotel clay peasant embrace";

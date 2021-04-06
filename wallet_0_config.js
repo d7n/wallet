@@ -1,1 +1,1 @@
-var mnemonic = "this next pistol spoil ride innocent green cinnamon cushion involve detail emerge";
+var mnemonic = "decrease install road torch book tired annual flame kidney attitude october attend";

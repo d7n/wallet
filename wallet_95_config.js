@@ -1,1 +1,1 @@
-var mnemonic = "rare badge ripple shell dwarf around claw divide quiz session mirror chronic";
+var mnemonic = "grit rude wool review celery misery erase control jewel build gorilla share";

@@ -1,1 +1,1 @@
-var mnemonic = "soon relax kiss scene six card pumpkin music boat sail accuse decorate";
+var mnemonic = "cliff keen security aim ask angle furnace drama capable asthma velvet social";

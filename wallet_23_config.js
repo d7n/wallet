@@ -1,1 +1,1 @@
-var mnemonic = "enroll vendor coast list health frequent century sign ostrich divide shock once";
+var mnemonic = "whisper ketchup bleak injury cover price danger cry off hammer royal eye";

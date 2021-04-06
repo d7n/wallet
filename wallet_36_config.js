@@ -1,1 +1,1 @@
-var mnemonic = "rail list image guide outside resist dose enemy wait borrow transfer cross";
+var mnemonic = "clap barely stairs cable glass fiction tumble village word exit throw eager";

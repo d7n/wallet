@@ -1,1 +1,1 @@
-var mnemonic = "grain sunny gap brush drum either rocket fog tape fashion mammal future";
+var mnemonic = "energy sentence bike pave jaguar brain life orbit link kiss rebel palm";

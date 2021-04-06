@@ -1,1 +1,1 @@
-var mnemonic = "ill laundry describe term vibrant employ plate garment sphere theory army jazz";
+var mnemonic = "plastic frown egg garbage knock bubble local size umbrella increase you front";

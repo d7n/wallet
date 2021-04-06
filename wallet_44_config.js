@@ -1,1 +1,1 @@
-var mnemonic = "spare limb note spray grocery advice south train tuition clever pretty cousin";
+var mnemonic = "cable below glad physical echo analyst sing pilot salute aisle illegal ordinary";

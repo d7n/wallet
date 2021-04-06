@@ -1,1 +1,1 @@
-var mnemonic = "female milk tone add flock unfair always physical century leader tomato author";
+var mnemonic = "erase oppose tuna ivory duty luggage wise exclude lava funny flat spin";

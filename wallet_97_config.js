@@ -1,1 +1,1 @@
-var mnemonic = "hockey traffic embark slam blouse milk local prison attitude frequent film hub";
+var mnemonic = "rigid spin whisper exercise forward tide despair flush thunder toilet cross vintage";

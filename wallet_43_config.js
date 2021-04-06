@@ -1,1 +1,1 @@
-var mnemonic = "favorite spray man label soup property balance theme slender delay jeans lift";
+var mnemonic = "combine outer boring execute jar height error flush below betray sick setup";

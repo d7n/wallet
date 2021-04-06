@@ -1,1 +1,1 @@
-var mnemonic = "uncover only usage payment jelly forest almost alarm loud enjoy luxury fork";
+var mnemonic = "victory arch boss grain mercy inform slot april build blind tornado dinner";

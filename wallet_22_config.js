@@ -1,1 +1,1 @@
-var mnemonic = "still erupt manual apart screen anxiety regret skate rib era card country";
+var mnemonic = "text mutual zoo regular priority leg perfect photo core fatigue exit chronic";

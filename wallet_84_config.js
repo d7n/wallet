@@ -1,1 +1,1 @@
-var mnemonic = "type wall annual aspect clip infant whale custom truck kick shrimp spoon";
+var mnemonic = "error fiscal cupboard peanut normal dance clarify pyramid rate gallery toss bird";

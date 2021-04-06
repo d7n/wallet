@@ -1,1 +1,1 @@
-var mnemonic = "pool inch great spoil hawk pride enforce erupt warfare brush lazy dad";
+var mnemonic = "code dad gather ribbon confirm ride ginger insect car foot below slogan";

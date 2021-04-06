@@ -1,1 +1,1 @@
-var mnemonic = "liar panther tortoise push ostrich bullet cover inform pave grant equip whale";
+var mnemonic = "bleak around surround page truly man someone spawn equal city film enter";

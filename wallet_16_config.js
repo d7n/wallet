@@ -1,1 +1,1 @@
-var mnemonic = "glove shed brush cat scout vault churn leave wedding drastic topic come";
+var mnemonic = "slot dynamic ribbon primary absorb purchase dial stool pony demand fossil column";

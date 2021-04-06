@@ -1,1 +1,1 @@
-var mnemonic = "explain winner voice body mother again provide curve athlete unique junior liar";
+var mnemonic = "pumpkin outside puzzle thought trip mother arm van ghost mother robust advice";

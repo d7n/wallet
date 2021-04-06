@@ -1,1 +1,1 @@
-var mnemonic = "barely repeat bind boss float swap paddle useless alien maid piano valve";
+var mnemonic = "air enroll city vacuum rain grape junior act manage flame hand wisdom";

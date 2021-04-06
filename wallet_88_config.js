@@ -1,1 +1,1 @@
-var mnemonic = "very mouse garlic require cousin great art enable right empower method impose";
+var mnemonic = "question torch vacant biology mass smile feel stay roast effort rely skull";

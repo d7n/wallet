@@ -1,1 +1,1 @@
-var mnemonic = "odor mixed bless food picture topic oak author wash carpet abandon antenna";
+var mnemonic = "morning word faculty shield light poverty code outdoor bacon surprise student suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "faint extra slow sphere flag patch total flavor follow empower smooth reform";
+var mnemonic = "story blush document shell loan hill arm grocery ability cement spell congress";

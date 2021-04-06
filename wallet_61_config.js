@@ -1,1 +1,1 @@
-var mnemonic = "balance enemy great ignore message rival left smile ice advice pigeon shuffle";
+var mnemonic = "castle actual unhappy stone bring alone swallow leisure worry stool embark rapid";

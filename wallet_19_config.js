@@ -1,1 +1,1 @@
-var mnemonic = "vicious summer buddy garlic powder hundred reunion opinion toward tide swarm van";
+var mnemonic = "ship spread agree truck tiger alcohol mixed problem enable expire fiber color";

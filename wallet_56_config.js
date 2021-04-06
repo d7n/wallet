@@ -1,1 +1,1 @@
-var mnemonic = "frown way bunker vapor now finish mad cluster lottery word bid hard";
+var mnemonic = "reunion oil visit cloth code exchange sustain fog cruise gather blind metal";

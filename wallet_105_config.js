@@ -1,1 +1,1 @@
-var mnemonic = "raise twist follow boat obey undo guilt need olympic detail live motor";
+var mnemonic = "scrub rare gallery tell true festival nest jaguar enemy argue spend brand";

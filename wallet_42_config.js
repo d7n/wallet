@@ -1,1 +1,1 @@
-var mnemonic = "castle notice tiny battle miss brick lens into mandate acid steak thrive";
+var mnemonic = "ancient office depart assume echo false turtle shine cement always network dash";

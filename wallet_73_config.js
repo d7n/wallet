@@ -1,1 +1,1 @@
-var mnemonic = "guilt lottery theory rigid absent rapid oblige wrist cereal unveil clarify title";
+var mnemonic = "control crazy sadness question iron under noise pet tongue else goat manual";

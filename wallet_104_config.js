@@ -1,1 +1,1 @@
-var mnemonic = "bargain ozone wonder borrow supreme choice insane fruit doll bean tenant shed";
+var mnemonic = "month welcome bus patient play welcome mobile defense upper alpha page broccoli";

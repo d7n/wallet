@@ -1,1 +1,1 @@
-var mnemonic = "rebel buyer method champion slam shoot final quit minimum country coral medal";
+var mnemonic = "miracle supreme window fluid usual final other suit intact clay phone pride";

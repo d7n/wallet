@@ -1,1 +1,1 @@
-var mnemonic = "echo quit pottery fish increase dress loan glare safe sound angle quality";
+var mnemonic = "connect wave ladder reopen grocery punch siege cage grow canyon sense win";

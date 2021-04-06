@@ -1,1 +1,1 @@
-var mnemonic = "resemble fiber square human awkward scissors pill swarm finish clog cattle cruel";
+var mnemonic = "essence rebuild core fit return valid help satoshi power embrace push purpose";

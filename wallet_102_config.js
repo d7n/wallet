@@ -1,1 +1,1 @@
-var mnemonic = "april never awkward develop print finish achieve way vocal case book ginger";
+var mnemonic = "cool hidden mean dignity just pudding stamp water smile light attract other";

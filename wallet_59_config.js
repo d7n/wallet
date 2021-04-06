@@ -1,1 +1,1 @@
-var mnemonic = "shoulder rely office ski soldier also gather urge muffin device stem night";
+var mnemonic = "rail inject horror alarm old vital nest advice pulse brass detect year";

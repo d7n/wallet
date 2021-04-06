@@ -1,1 +1,1 @@
-var mnemonic = "baby group puppy try very fork pretty luggage toward rely fork left";
+var mnemonic = "sort alcohol bronze manual erupt raven outdoor transfer victory disorder disorder galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "universe legend suggest matrix gloom domain audit like peace warfare wasp swear";
+var mnemonic = "foot dilemma glare monitor model capable sudden guide mesh tumble sorry sock";

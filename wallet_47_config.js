@@ -1,1 +1,1 @@
-var mnemonic = "rabbit way great quit voyage better rebuild ethics bulb violin fame outside";
+var mnemonic = "member faculty inhale behind dog liar switch soap anchor about dilemma usage";

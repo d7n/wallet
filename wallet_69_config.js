@@ -1,1 +1,1 @@
-var mnemonic = "tip hobby wine kit wet mushroom weapon bounce moral riot action much";
+var mnemonic = "clean gold ball diesel legend unique prefer vanish weird eight student expand";

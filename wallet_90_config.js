@@ -1,1 +1,1 @@
-var mnemonic = "yellow artefact fever cousin urge bitter basic clog panic grocery stick spare";
+var mnemonic = "profit vibrant average drip sorry spawn question special sign news local whip";

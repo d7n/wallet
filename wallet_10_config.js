@@ -1,1 +1,1 @@
-var mnemonic = "improve away timber balcony shallow ship end essence film enjoy seed fury";
+var mnemonic = "door monster joy relief bread inner stem enact army top isolate risk";

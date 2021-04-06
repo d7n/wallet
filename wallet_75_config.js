@@ -1,1 +1,1 @@
-var mnemonic = "derive angry bounce seminar click neutral rib puzzle speed almost anxiety chuckle";
+var mnemonic = "mass pizza nice eagle case effort antenna six solar beyond plunge warm";

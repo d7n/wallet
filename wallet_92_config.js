@@ -1,1 +1,1 @@
-var mnemonic = "display fork beach device tiger avoid glow school income add track coil";
+var mnemonic = "diesel ride jeans layer century shield pet select cactus fitness offer public";

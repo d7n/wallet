@@ -1,1 +1,1 @@
-var mnemonic = "hamster among repeat report confirm memory kit vehicle matter danger skin medal";
+var mnemonic = "entire mad guilt torch raven flower midnight destroy vendor warrior bean absent";

@@ -1,1 +1,1 @@
-var mnemonic = "gown please napkin toast habit punch casino liberty trick grunt picnic time";
+var mnemonic = "toe glide people help goose candy citizen lunch wonder element cannon dilemma";

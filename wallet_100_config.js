@@ -1,1 +1,1 @@
-var mnemonic = "oxygen bless slot amused phrase voyage wealth practice thank leg lazy bright";
+var mnemonic = "autumn winter winter donkey then squeeze quality region walk advice first vehicle";

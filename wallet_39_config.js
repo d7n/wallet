@@ -1,1 +1,1 @@
-var mnemonic = "inject indicate hurdle auto pool announce zoo rely client demand genuine garage";
+var mnemonic = "gate shy assume car tourist fork people price debate crouch side ripple";

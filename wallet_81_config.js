@@ -1,1 +1,1 @@
-var mnemonic = "recipe awake slot degree mountain cost erupt please interest capable session fuel";
+var mnemonic = "jar skirt false accident catch vault annual input above inquiry alter repeat";

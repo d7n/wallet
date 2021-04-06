@@ -1,1 +1,1 @@
-var mnemonic = "pluck sunset dress avocado oven void emotion purity speak push purity grass";
+var mnemonic = "mango auto pyramid stadium news pair object arrive moment aware arrive own";

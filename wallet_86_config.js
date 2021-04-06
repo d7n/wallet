@@ -1,1 +1,1 @@
-var mnemonic = "false tortoise soda debris zoo stay runway expire renew fluid panda suffer";
+var mnemonic = "suggest harbor disagree one weather monitor give december young cluster awful voyage";

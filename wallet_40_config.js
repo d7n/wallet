@@ -1,1 +1,1 @@
-var mnemonic = "afford quit manage divide thank cup alter arrive observe hurry direct grain";
+var mnemonic = "nature frequent humor warrior sort organ list scatter museum bright race pitch";

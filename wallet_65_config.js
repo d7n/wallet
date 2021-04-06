@@ -1,1 +1,1 @@
-var mnemonic = "final visit river scene motion desert eagle sweet cat settle floor cry";
+var mnemonic = "depart swamp sorry nominee outer off man protect face episode lyrics uphold";

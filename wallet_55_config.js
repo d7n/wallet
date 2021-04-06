@@ -1,1 +1,1 @@
-var mnemonic = "tip reform trick public way puzzle embrace broken clever cousin auto hen";
+var mnemonic = "mother radar potato acquire comfort agent today unlock crime salute fix sentence";

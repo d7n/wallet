@@ -1,1 +1,1 @@
-var mnemonic = "drastic above amused hat earth chronic fall myth notable rally trial idle";
+var mnemonic = "upon merry call keep few legend monkey hidden uniform poet opinion dove";
