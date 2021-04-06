@@ -1,1 +1,1 @@
-var mnemonic = "insect raccoon ecology can vacant crucial draft push tilt impact maple argue";
+var mnemonic = "normal bag filter confirm clock knee merge melt hungry police salt main";

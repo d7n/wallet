@@ -1,1 +1,1 @@
-var mnemonic = "alien label fiscal delay cupboard frog mixed space venue wheel brain fury";
+var mnemonic = "daughter spring error lyrics dream soccer cattle pause goose jungle puzzle found";

@@ -1,1 +1,1 @@
-var mnemonic = "card hurdle piano sun position wool legend else observe depend width vacuum";
+var mnemonic = "muffin caution resist lumber involve gloom chief work repeat symptom ostrich egg";

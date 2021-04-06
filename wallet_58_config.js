@@ -1,1 +1,1 @@
-var mnemonic = "ordinary ranch negative tumble duck kind task fossil update piano monitor web";
+var mnemonic = "year hawk motor waste flash sense soft close fossil shallow pink guard";

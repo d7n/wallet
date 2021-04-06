@@ -1,1 +1,1 @@
-var mnemonic = "smoke gaze another buddy fence ball total idle tank casual draft elephant";
+var mnemonic = "fringe rough sauce wave bargain explain pull lift supreme permit parade common";

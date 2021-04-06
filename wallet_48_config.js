@@ -1,1 +1,1 @@
-var mnemonic = "three track town dismiss rival stove order actor hood pill figure spend";
+var mnemonic = "plunge occur perfect defense embody before network brother panic tide harvest kiss";

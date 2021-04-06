@@ -1,1 +1,1 @@
-var mnemonic = "pave found coral meadow chronic twenty secret stadium maximum march flag clog";
+var mnemonic = "moon hospital toast wreck sword monitor winter achieve mask general summer goat";

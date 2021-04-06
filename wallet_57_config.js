@@ -1,1 +1,1 @@
-var mnemonic = "tell snow good craft sphere rubber frog duty soda reject cave true";
+var mnemonic = "ketchup fuel middle approve used cereal license exist series bag satisfy evolve";

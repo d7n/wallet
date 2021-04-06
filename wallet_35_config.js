@@ -1,1 +1,1 @@
-var mnemonic = "inner galaxy acid priority dog banner scorpion shuffle inherit original early stable";
+var mnemonic = "shoot supply borrow art output make end retreat old major beyond matter";

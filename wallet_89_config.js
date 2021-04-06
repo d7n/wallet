@@ -1,1 +1,1 @@
-var mnemonic = "melt latin pond glue candy horn afford rally sign dish glory bar";
+var mnemonic = "tube elder swift ride palace mutual stomach crazy select today repair divorce";

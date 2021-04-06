@@ -1,1 +1,1 @@
-var mnemonic = "scrub vapor always wage remove frame control sketch model melt sweet loan";
+var mnemonic = "tortoise riot civil trend turkey vessel hurdle lunar shove inflict identify title";

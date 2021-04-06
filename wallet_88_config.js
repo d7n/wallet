@@ -1,1 +1,1 @@
-var mnemonic = "winner ignore omit can review lawn swift course shield churn green onion";
+var mnemonic = "gain someone melt ketchup height mechanic diagram dawn across win hurt trouble";

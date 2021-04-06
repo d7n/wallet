@@ -1,1 +1,1 @@
-var mnemonic = "gather can delay loud lottery unique sure idle review stadium bulb brother";
+var mnemonic = "crime prize fame embody salute cup stone frequent talent addict rule hungry";

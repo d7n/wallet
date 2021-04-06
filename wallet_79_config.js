@@ -1,1 +1,1 @@
-var mnemonic = "opinion sting globe disorder trust gentle bind mother step measure erosion win";
+var mnemonic = "member local female stand hollow alien time bunker knee notable awful trash";

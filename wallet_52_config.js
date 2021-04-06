@@ -1,1 +1,1 @@
-var mnemonic = "such quantum such spike basket chicken clean able fee lock expire innocent";
+var mnemonic = "motion fragile hip trade word raccoon spider venture tone satisfy husband design";

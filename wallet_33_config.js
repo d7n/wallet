@@ -1,1 +1,1 @@
-var mnemonic = "symbol endless cloud bleak use rural omit decade tray fire current perfect";
+var mnemonic = "noise suit purity photo cute when front sheriff vapor apology make donor";

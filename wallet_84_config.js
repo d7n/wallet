@@ -1,1 +1,1 @@
-var mnemonic = "lava door tomato vehicle stay defense visa over skirt taxi sell chair";
+var mnemonic = "corn tank size hospital service snack loan kitchen mutual rough runway twelve";

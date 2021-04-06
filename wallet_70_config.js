@@ -1,1 +1,1 @@
-var mnemonic = "street buffalo sugar month guilt opinion video any effort reveal holiday cost";
+var mnemonic = "daughter enjoy liquid fit jump pipe size ship federal domain hurry lumber";

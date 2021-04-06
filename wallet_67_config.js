@@ -1,1 +1,1 @@
-var mnemonic = "machine before uniform claim border atom nest afford ankle mad home faculty";
+var mnemonic = "dwarf saddle tree record field flight motion best patch ceiling smoke bottom";

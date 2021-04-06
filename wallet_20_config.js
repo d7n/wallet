@@ -1,1 +1,1 @@
-var mnemonic = "scale worry guess olive fashion candy claim rely marriage twin trigger fish";
+var mnemonic = "broken expand city saddle plunge saddle patrol reunion decide stand avocado tenant";

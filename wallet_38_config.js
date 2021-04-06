@@ -1,1 +1,1 @@
-var mnemonic = "day sock crater turn naive science riot junior renew select olive broken";
+var mnemonic = "web brand glass naive weather menu goddess skin genuine trophy rain garage";

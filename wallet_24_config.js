@@ -1,1 +1,1 @@
-var mnemonic = "stove aware rural whip sphere scan service army clap employ direct brother";
+var mnemonic = "weasel push banner senior apart deal measure vendor arrest skill humble peasant";

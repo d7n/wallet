@@ -1,1 +1,1 @@
-var mnemonic = "toss grace north pumpkin donkey small icon grit pond say vehicle abuse";
+var mnemonic = "person energy economy busy tumble supply slot abandon music proof thing pistol";

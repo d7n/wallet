@@ -1,1 +1,1 @@
-var mnemonic = "quality main share repair trip calm pilot that tube what poet drum";
+var mnemonic = "veteran climb special unusual office layer flee satisfy example height any cake";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo power endless fitness noodle honey trust glide suggest unaware cash critic";
+var mnemonic = "edge month end beauty agent mean blood initial inner clay denial salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "bright ozone odor need leisure marine mimic food cricket exit hood exchange";
+var mnemonic = "comic knee slight spend record balance dinner stable spawn visit canyon twist";

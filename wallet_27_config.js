@@ -1,1 +1,1 @@
-var mnemonic = "wash duck enhance drum advice crop exit scan ski broccoli lounge inherit";
+var mnemonic = "soup father ancient grant rally lobster urge tooth awake excuse unveil normal";

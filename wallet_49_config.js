@@ -1,1 +1,1 @@
-var mnemonic = "globe chalk speed peace young pool can try jeans giraffe surround shrimp";
+var mnemonic = "dinner cattle forum pluck corn ocean giant oil sorry basket change cute";

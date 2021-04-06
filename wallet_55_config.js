@@ -1,1 +1,1 @@
-var mnemonic = "chunk hospital faculty dirt combine combine rely rigid genuine punch budget borrow";
+var mnemonic = "violin practice position book control school woman broccoli earth become ride echo";

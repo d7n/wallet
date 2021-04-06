@@ -1,1 +1,1 @@
-var mnemonic = "conduct foam ordinary all one lawsuit hat engage only sing infant hunt";
+var mnemonic = "success volcano casual illegal town erosion defy smooth brush chef spawn prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "provide reveal join magnet spawn spider trend ask only curtain unfair letter";
+var mnemonic = "duck fever turn luggage sound exist corn always slice morning process steak";

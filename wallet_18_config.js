@@ -1,1 +1,1 @@
-var mnemonic = "afford local lottery spot consider letter exclude fee fine render response snake";
+var mnemonic = "input fitness cave void chunk chicken hazard path satisfy cable vote misery";

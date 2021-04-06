@@ -1,1 +1,1 @@
-var mnemonic = "image humor mountain discover cinnamon bundle like plastic between mouse cube bomb";
+var mnemonic = "dash buyer replace nose shrimp enroll unable spread mixture breeze split fee";

@@ -1,1 +1,1 @@
-var mnemonic = "solution detect earth oxygen champion horror ozone lava stage transfer affair order";
+var mnemonic = "fatal tape title hybrid fiber ramp pipe point chunk much next glove";

@@ -1,1 +1,1 @@
-var mnemonic = "boat bounce nephew length chalk sustain heavy fold sort mesh divert stick";
+var mnemonic = "bacon party squirrel rug enact cactus student ivory kid easily biology comfort";

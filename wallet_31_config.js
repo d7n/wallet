@@ -1,1 +1,1 @@
-var mnemonic = "aerobic transfer oven village resource hunt neglect one other volume mail blanket";
+var mnemonic = "basic situate survey achieve spell lava mix grain vicious concert diesel pass";

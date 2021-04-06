@@ -1,1 +1,1 @@
-var mnemonic = "fluid note host swim define frog sing square flame scissors scheme bridge";
+var mnemonic = "indoor outside ceiling seek upper layer exist write hurry title surge siege";

@@ -1,1 +1,1 @@
-var mnemonic = "cement enemy defense erupt polar steel humor debate pelican giggle size reopen";
+var mnemonic = "cake work under life inquiry vanish zoo then sick employ gloom million";

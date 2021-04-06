@@ -1,1 +1,1 @@
-var mnemonic = "unknown upper clever century lottery piece slam educate call pumpkin price illness";
+var mnemonic = "town vote hand together whale elegant local fatigue napkin renew calm snow";

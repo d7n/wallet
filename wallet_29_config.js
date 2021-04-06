@@ -1,1 +1,1 @@
-var mnemonic = "curve napkin penalty paper subway repair liar quantum bundle farm crawl domain";
+var mnemonic = "paddle track random rival advance payment useless dune brave birth float nuclear";

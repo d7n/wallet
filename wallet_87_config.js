@@ -1,1 +1,1 @@
-var mnemonic = "erode chuckle visa square mask want fluid decrease prosper gadget shrug olympic";
+var mnemonic = "try chunk isolate liquid ship carpet mistake crumble taxi wink solid science";

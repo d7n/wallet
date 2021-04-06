@@ -1,1 +1,1 @@
-var mnemonic = "gas develop angry arctic opinion cargo primary welcome cluster team silver benefit";
+var mnemonic = "mercy inspire release position wrestle cute theme mosquito enter denial hospital glass";

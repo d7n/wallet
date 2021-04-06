@@ -1,1 +1,1 @@
-var mnemonic = "spray dog blossom bring veteran snake split fruit common order sort turtle";
+var mnemonic = "staff timber suggest program midnight reopen total they glad enact poem wife";

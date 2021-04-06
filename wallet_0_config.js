@@ -1,1 +1,1 @@
-var mnemonic = "jelly reward oak hub tag delay simple prepare ghost embark angry vessel";
+var mnemonic = "gate image select visit lesson approve bright suspect december guard arrow entry";

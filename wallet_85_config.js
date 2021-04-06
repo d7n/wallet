@@ -1,1 +1,1 @@
-var mnemonic = "parent away marriage guard receive match aunt trend eye three slim reduce";
+var mnemonic = "exist jump sauce end girl finger sauce patient length toss cute metal";

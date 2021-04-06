@@ -1,1 +1,1 @@
-var mnemonic = "lend tool raccoon december order air odor wonder boss abuse monster tongue";
+var mnemonic = "innocent twice mountain gorilla cattle make clay sheriff future maple try inside";

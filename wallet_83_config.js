@@ -1,1 +1,1 @@
-var mnemonic = "alert gospel tissue bag law input father foster hood notable screen swift";
+var mnemonic = "awesome problem retreat donor shoe vacant measure mind despair depart patch inner";

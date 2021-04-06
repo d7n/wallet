@@ -1,1 +1,1 @@
-var mnemonic = "better edge uphold thumb train swallow kingdom spider script private tortoise stem";
+var mnemonic = "doctor loud elevator affair crawl purpose length merit equal frozen urge bunker";

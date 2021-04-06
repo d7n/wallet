@@ -1,1 +1,1 @@
-var mnemonic = "breeze banner hand wagon fever law ticket hover wife ivory still then";
+var mnemonic = "world era deposit surprise fetch gesture early shoe begin swarm relief sudden";

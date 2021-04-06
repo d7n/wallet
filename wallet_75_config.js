@@ -1,1 +1,1 @@
-var mnemonic = "dutch soft grocery rare into print explain amount attract crush tenant awkward";
+var mnemonic = "pledge cactus receive robust menu nephew hurdle edge ordinary omit uncover major";

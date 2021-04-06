@@ -1,1 +1,1 @@
-var mnemonic = "copy into before celery actual say false cycle device major drop black";
+var mnemonic = "smooth name note tobacco debate uniform snap health cheap birth awful under";

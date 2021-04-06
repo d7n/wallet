@@ -1,1 +1,1 @@
-var mnemonic = "helmet echo ugly tortoise achieve seven shine swift quick scheme bamboo spy";
+var mnemonic = "uncle conduct race chest elbow juice snake now butter post involve round";

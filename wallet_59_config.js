@@ -1,1 +1,1 @@
-var mnemonic = "around word excess elephant ability elevator because zone wisdom profit surface swallow";
+var mnemonic = "outdoor eyebrow tent room bracket guitar inhale transfer moon move melody canvas";

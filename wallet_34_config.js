@@ -1,1 +1,1 @@
-var mnemonic = "patient clock loud alert stone reopen only action garbage teach float swap";
+var mnemonic = "tool glimpse rigid possible quote light ensure melt gorilla deposit inhale item";

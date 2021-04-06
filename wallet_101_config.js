@@ -1,1 +1,1 @@
-var mnemonic = "trust model keen shift bright armed gas phone shuffle great bone erode";
+var mnemonic = "error bonus tape crowd enrich move search dentist still minimum deny child";

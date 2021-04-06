@@ -1,1 +1,1 @@
-var mnemonic = "buyer noodle disease praise milk sketch dolphin kick chicken become corn model";
+var mnemonic = "six devote hello rocket aware rookie time style cigar snow sell strategy";

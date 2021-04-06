@@ -1,1 +1,1 @@
-var mnemonic = "faint shoe evolve valve vendor click ride awful wreck rural climb soul";
+var mnemonic = "weather dream truly hungry divide vault paper boring creek duty oil burger";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb ladder remain miracle carpet remain eager minimum chimney install response media";
+var mnemonic = "cotton tail conduct require party ticket laundry gauge fame swallow monster caution";

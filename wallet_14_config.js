@@ -1,1 +1,1 @@
-var mnemonic = "pepper rely shaft recipe auction until coin cabbage promote milk bring stove";
+var mnemonic = "spare cute erode start glass year toss auto note decide legend flash";

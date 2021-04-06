@@ -1,1 +1,1 @@
-var mnemonic = "lift accident plunge woman push album buddy trap night vast asthma shiver";
+var mnemonic = "hurt judge seat various soap scene joke pigeon radio ten bitter ride";

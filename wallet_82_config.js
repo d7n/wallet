@@ -1,1 +1,1 @@
-var mnemonic = "hold globe special gift pluck special super onion caution kiss board ability";
+var mnemonic = "win obey bless alpha project case outside trust layer right during picnic";

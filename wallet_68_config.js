@@ -1,1 +1,1 @@
-var mnemonic = "shadow seed ivory crowd fantasy business tuition lesson forum shoe cluster unique";
+var mnemonic = "bind urban nut coral cruise mandate reward dizzy case nuclear pigeon wait";

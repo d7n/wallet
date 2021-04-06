@@ -1,1 +1,1 @@
-var mnemonic = "square anxiety spend rack pattern ginger palm execute risk display clay bounce";
+var mnemonic = "tent gain indoor casino junior tuna axis chef faith action luxury debate";

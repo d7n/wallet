@@ -1,1 +1,1 @@
-var mnemonic = "mention swift surface doll filter oblige bunker inside cereal rigid shoot expire";
+var mnemonic = "diet palace vivid lyrics lazy south gentle field fee patch mountain corn";

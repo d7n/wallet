@@ -1,1 +1,1 @@
-var mnemonic = "head lonely above right tell design slab slogan clever double find icon";
+var mnemonic = "sauce anxiety paper flag try alert erode transfer essence puppy oyster lazy";

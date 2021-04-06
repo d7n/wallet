@@ -1,1 +1,1 @@
-var mnemonic = "abandon soul industry virtual edge among wash educate various worth charge good";
+var mnemonic = "vacuum soup around slide gospel type lend rocket bind boat boss return";

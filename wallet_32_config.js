@@ -1,1 +1,1 @@
-var mnemonic = "gadget unhappy dilemma twice rookie hair boy tourist siege rice cry clay";
+var mnemonic = "toy title vintage scale juice boat multiply great mammal first march naive";

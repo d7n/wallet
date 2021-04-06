@@ -1,1 +1,1 @@
-var mnemonic = "woman remain regular fade coconut subway goddess hip survey velvet pepper conduct";
+var mnemonic = "upon sick boy outdoor drum spatial lamp icon nut sand black amount";

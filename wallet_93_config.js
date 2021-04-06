@@ -1,1 +1,1 @@
-var mnemonic = "market must clean profit supply daring expand layer motor can debate mirror";
+var mnemonic = "actor sister ski skull chuckle flush wine food siege calm door fitness";

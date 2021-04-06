@@ -1,1 +1,1 @@
-var mnemonic = "dwarf banner blanket jaguar cake cable length amused obscure govern canvas force";
+var mnemonic = "devote imitate mix approve festival atom dwarf crazy gasp dilemma charge course";

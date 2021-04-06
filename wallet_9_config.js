@@ -1,1 +1,1 @@
-var mnemonic = "excess lunch upon marriage body nurse potato novel reunion rug brown shell";
+var mnemonic = "upon hint interest apart income hospital kiss dust laundry forum review trial";

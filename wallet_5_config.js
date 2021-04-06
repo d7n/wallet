@@ -1,1 +1,1 @@
-var mnemonic = "nurse faint now salon august outdoor pretty hen measure final stool hammer";
+var mnemonic = "immune portion sauce wolf enrich one double cabbage science cloud language universe";

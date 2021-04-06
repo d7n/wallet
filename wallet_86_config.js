@@ -1,1 +1,1 @@
-var mnemonic = "course odor divert inform planet peace object follow term bench bid media";
+var mnemonic = "minimum attitude creek genuine library input fuel vast marriage glow duty build";

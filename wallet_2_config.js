@@ -1,1 +1,1 @@
-var mnemonic = "orphan fold liar tunnel breeze cake clutch cable office hawk local stable";
+var mnemonic = "opinion outside ball give round local genuine narrow tuna grocery crouch cake";

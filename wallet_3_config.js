@@ -1,1 +1,1 @@
-var mnemonic = "copper choice orange amount conduct metal delay month cricket tackle pipe dog";
+var mnemonic = "fatigue model fat buffalo noble catalog release auction flock sock lunar cash";

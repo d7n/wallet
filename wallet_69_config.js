@@ -1,1 +1,1 @@
-var mnemonic = "item calm tag blouse yard rigid pill future hello acquire salad gesture";
+var mnemonic = "devote car strategy mad wash soon frown kidney arrive tired kangaroo wide";

@@ -1,1 +1,1 @@
-var mnemonic = "unique sweet kid fine tennis retreat bone erode romance link host pistol";
+var mnemonic = "trend public crisp assume surface sock forward mystery cloth pistol average solid";

@@ -1,1 +1,1 @@
-var mnemonic = "cave print lion solar right stairs space mountain chimney vast tomato horn";
+var mnemonic = "friend voyage hobby bounce become auction head donate young hip chalk amazing";

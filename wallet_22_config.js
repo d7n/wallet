@@ -1,1 +1,1 @@
-var mnemonic = "apple innocent fatal key honey virtual client benefit aspect wink cry plunge";
+var mnemonic = "rebuild frequent century unlock label announce yellow coast island brain harsh deer";

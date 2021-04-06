@@ -1,1 +1,1 @@
-var mnemonic = "negative truly essence behave dream kick club bullet quit laugh stick cushion";
+var mnemonic = "crime case round cheap shove wood grace reopen uncle daughter inhale crowd";

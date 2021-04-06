@@ -1,1 +1,1 @@
-var mnemonic = "prosper announce horn diamond tray topic initial detail card spray engage hero";
+var mnemonic = "much report maid violin unfold evolve miracle congress east catch uniform donor";

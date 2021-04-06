@@ -1,1 +1,1 @@
-var mnemonic = "begin hen useful castle angle anger acid century potato cable alien garlic";
+var mnemonic = "fly amount sample first maximum ranch tornado much glass early guilt family";

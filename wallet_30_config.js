@@ -1,1 +1,1 @@
-var mnemonic = "car practice pistol volume destroy float panel alpha cabin second situate apart";
+var mnemonic = "salute sponsor practice enter injury shield glare accident distance erupt siege trumpet";

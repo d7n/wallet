@@ -1,1 +1,1 @@
-var mnemonic = "collect slide alpha muscle cheese aspect country coach raise rent pumpkin across";
+var mnemonic = "treat sudden capital often fold gallery zoo know proud steel table sadness";

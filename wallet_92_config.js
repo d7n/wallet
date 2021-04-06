@@ -1,1 +1,1 @@
-var mnemonic = "rude chunk diary marriage any science rent rocket weekend crazy true clay";
+var mnemonic = "repair chunk hire blast admit track hurry damage lumber caution toddler orient";

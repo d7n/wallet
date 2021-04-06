@@ -1,1 +1,1 @@
-var mnemonic = "suit quote antenna smoke bone leopard inflict length reason body faith reduce";
+var mnemonic = "web book square antenna royal crawl truck oyster cause almost kiwi artist";

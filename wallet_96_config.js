@@ -1,1 +1,1 @@
-var mnemonic = "mean glance vivid acoustic design craft output fortune mountain truck select bicycle";
+var mnemonic = "where behave cream tortoise adult seat muscle level double mother skin crew";

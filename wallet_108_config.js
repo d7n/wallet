@@ -1,1 +1,1 @@
-var mnemonic = "hole picnic quit original vacuum upper alcohol cruel bachelor garlic obvious guard";
+var mnemonic = "swift goose catalog engine economy foil divorce slush female toe zoo dove";

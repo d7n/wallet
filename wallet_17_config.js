@@ -1,1 +1,1 @@
-var mnemonic = "meadow program purse want shell silly dilemma night vendor plate stamp tobacco";
+var mnemonic = "release rack engage shed oxygen sadness term subject wise execute effort wasp";
