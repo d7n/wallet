@@ -1,1 +1,1 @@
-var mnemonic = "door flower exile outside miracle gossip rug perfect decorate profit injury spin";
+var mnemonic = "rally breeze monitor copy online raccoon unhappy float narrow close sound control";

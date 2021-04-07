@@ -1,1 +1,1 @@
-var mnemonic = "nuclear much eternal above spot door decade boy zoo panda foam business";
+var mnemonic = "glide minimum job venture small abuse skin glance search tired spring topic";

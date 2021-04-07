@@ -1,1 +1,1 @@
-var mnemonic = "smile front powder ring mind slow two antenna disorder grape tobacco forum";
+var mnemonic = "clay flat deputy acid dream jewel peasant release document manage nerve absurd";

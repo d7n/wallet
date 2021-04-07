@@ -1,1 +1,1 @@
-var mnemonic = "expand frown decide mad advance wheat phrase cram lobster open model document";
+var mnemonic = "loop lake brown charge advance curious eyebrow midnight afraid junk around solve";

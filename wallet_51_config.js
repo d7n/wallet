@@ -1,1 +1,1 @@
-var mnemonic = "zoo disorder insect stereo student near drive under debate breeze soldier exchange";
+var mnemonic = "lady focus mutual mechanic theory frost choice melt basic height knock kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin surface thrive stereo menu man fox hospital tank hole elite blade";
+var mnemonic = "indoor real toe divide gather pole talk romance magic human toast polar";

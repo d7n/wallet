@@ -1,1 +1,1 @@
-var mnemonic = "chief forest resemble grow pet pink jump wagon civil type kingdom apple";
+var mnemonic = "step damage news symbol stem daughter remind raw olympic whip scorpion stuff";

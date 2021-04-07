@@ -1,1 +1,1 @@
-var mnemonic = "system describe busy gossip business fish enemy maple minimum hand divert tray";
+var mnemonic = "jeans chief tennis question transfer cave quit sing grape autumn entry clump";

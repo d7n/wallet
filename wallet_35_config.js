@@ -1,1 +1,1 @@
-var mnemonic = "vicious quote front nurse rent version balance glare coconut give review usual";
+var mnemonic = "guitar correct special snap bubble color climb shed educate culture rare asset";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt coffee stock rather october humble poet galaxy slab sibling section shrug";
+var mnemonic = "begin square urge squirrel shock stairs matter produce addict bacon erupt announce";

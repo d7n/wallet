@@ -1,1 +1,1 @@
-var mnemonic = "ketchup motion burst output punch alert sun jewel oblige document egg disease";
+var mnemonic = "broccoli ticket grunt engage sock riot very setup road seminar skull slice";

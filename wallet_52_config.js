@@ -1,1 +1,1 @@
-var mnemonic = "document mail gown also focus diary pistol foster tortoise giant bracket dice";
+var mnemonic = "boat scissors sight online noodle skirt fashion begin oppose olive eternal rally";

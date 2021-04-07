@@ -1,1 +1,1 @@
-var mnemonic = "grain crunch crawl correct real symptom mystery animal simple awake flight enroll";
+var mnemonic = "wear legal turtle destroy drill nut abuse salad alert second decorate quit";

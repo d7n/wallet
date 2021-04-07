@@ -1,1 +1,1 @@
-var mnemonic = "slide daring decrease job chapter another desert one matter alert eager riot";
+var mnemonic = "industry increase employ clog bridge trigger heavy outdoor lake neither couple earn";

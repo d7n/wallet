@@ -1,1 +1,1 @@
-var mnemonic = "manage depth duck step april silly ugly annual destroy blur stove surround";
+var mnemonic = "worry illegal fee caution catch tragic village similar flee neck chalk symptom";

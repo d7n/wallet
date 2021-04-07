@@ -1,1 +1,1 @@
-var mnemonic = "trip what prepare motor eye wrong hat calm open ahead soldier ill";
+var mnemonic = "reject list field gadget vast fence salt flower slush rapid economy trim";

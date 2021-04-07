@@ -1,1 +1,1 @@
-var mnemonic = "banner tool boring region problem rescue display fury broken frame crunch wave";
+var mnemonic = "drama ten record wagon rural spike doctor word fringe copy model sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "scale olympic real middle cause forum area lecture burger account robust travel";
+var mnemonic = "jewel pool myth huge today venue switch around expand pulse diamond rescue";

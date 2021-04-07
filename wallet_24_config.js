@@ -1,1 +1,1 @@
-var mnemonic = "guard flight usual piece climb catch any donate enough spoil time tide";
+var mnemonic = "tragic allow fruit bird spare soup jewel gentle rebel cost spoil credit";

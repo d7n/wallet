@@ -1,1 +1,1 @@
-var mnemonic = "travel offer laptop author trim donkey coach silent radio quit glance glow";
+var mnemonic = "urge vessel race oppose order degree climb increase apology occur nuclear orbit";

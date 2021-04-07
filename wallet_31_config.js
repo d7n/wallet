@@ -1,1 +1,1 @@
-var mnemonic = "boost deposit east gasp ice south silver funny hurdle lock giraffe survey";
+var mnemonic = "sword vacant divide bronze orange shield decade concert north edit shoot cream";

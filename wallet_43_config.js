@@ -1,1 +1,1 @@
-var mnemonic = "rocket umbrella vendor collect cheese beef winter festival buzz nominee book trial";
+var mnemonic = "pioneer west arena dizzy resist cereal link dirt lazy toward idle old";

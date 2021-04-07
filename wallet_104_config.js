@@ -1,1 +1,1 @@
-var mnemonic = "ritual absent enough valve veteran tiny pyramid orchard season clock seven virtual";
+var mnemonic = "point afraid series verb spice ivory prepare cook spare motor season woman";

@@ -1,1 +1,1 @@
-var mnemonic = "viable engage bleak slice model caution inmate fluid run tunnel raise caution";
+var mnemonic = "mesh summer burden example leave grace stairs prosper stuff occur live prize";

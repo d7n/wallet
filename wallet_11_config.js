@@ -1,1 +1,1 @@
-var mnemonic = "use true fatal column student creek issue medal domain include dress opera";
+var mnemonic = "multiply guitar draw spot wage casual unfair roof cloth eyebrow lake capital";

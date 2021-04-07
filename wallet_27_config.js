@@ -1,1 +1,1 @@
-var mnemonic = "push nurse rather cancel clump crash enact vapor hour picnic version vicious";
+var mnemonic = "journey arrange million leave wild general violin option fury fold electric grab";

@@ -1,1 +1,1 @@
-var mnemonic = "copper apology visit weekend border business gasp denial infant evidence stomach abandon";
+var mnemonic = "avocado speed person extra sister hawk resemble glue tool entry minute visual";

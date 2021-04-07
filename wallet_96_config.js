@@ -1,1 +1,1 @@
-var mnemonic = "fat olive kit expose panda success rose sentence impact distance extend uphold";
+var mnemonic = "family impose almost circle negative feel artwork crush hamster summer bachelor loud";

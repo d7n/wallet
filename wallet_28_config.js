@@ -1,1 +1,1 @@
-var mnemonic = "master express shield use nurse quit load special tornado girl cabbage dismiss";
+var mnemonic = "tone opinion topic wine ride bring globe school caution gym impact patch";

@@ -1,1 +1,1 @@
-var mnemonic = "physical bind knock speak foam pill virus tip melody bid bean sauce";
+var mnemonic = "project debate asthma initial source aim arrange salt food quote approve weapon";

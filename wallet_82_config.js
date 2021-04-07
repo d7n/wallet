@@ -1,1 +1,1 @@
-var mnemonic = "tourist sting amateur slim bunker model minor manual mother slender resource bachelor";
+var mnemonic = "word local increase tiny enough inform subject nasty today chicken sand slight";

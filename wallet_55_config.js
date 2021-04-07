@@ -1,1 +1,1 @@
-var mnemonic = "vehicle render oval spend switch zebra knock horn mansion spawn rule slogan";
+var mnemonic = "diamond damp once angle census cable record prison know quiz black advance";

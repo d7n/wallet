@@ -1,1 +1,1 @@
-var mnemonic = "dad install organ august embody grief rigid credit expire accident talk champion";
+var mnemonic = "fire essay hidden boring strong engine puzzle faith prepare dolphin club inquiry";

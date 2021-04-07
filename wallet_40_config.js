@@ -1,1 +1,1 @@
-var mnemonic = "senior upper unveil tunnel master barely employ dust dog sausage visual forget";
+var mnemonic = "dish coffee under diamond media isolate enroll liberty umbrella million document stage";

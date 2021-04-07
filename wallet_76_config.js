@@ -1,1 +1,1 @@
-var mnemonic = "lion display swift village beef talk suffer heart either clock fresh wrist";
+var mnemonic = "access reject anxiety rocket leave when online drum olympic autumn corn rare";

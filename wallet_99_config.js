@@ -1,1 +1,1 @@
-var mnemonic = "fault seat heart system gaze jar slab flag mixed bonus write science";
+var mnemonic = "avocado slot lobster test drum weapon jealous essence captain allow join shy";

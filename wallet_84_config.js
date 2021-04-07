@@ -1,1 +1,1 @@
-var mnemonic = "organ glimpse friend spawn glory train update diamond exclude secret layer spike";
+var mnemonic = "kingdom autumn quick arrive mass neglect pact relief flee second sustain dinosaur";

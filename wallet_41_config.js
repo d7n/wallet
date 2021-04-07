@@ -1,1 +1,1 @@
-var mnemonic = "green ensure valley exclude unusual tip mail sad crucial slight exhibit hungry";
+var mnemonic = "penalty join leave area order envelope asthma heavy atom ripple because twice";

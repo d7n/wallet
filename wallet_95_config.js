@@ -1,1 +1,1 @@
-var mnemonic = "pitch fiction unaware original avoid swamp essay budget dust shy grain dry";
+var mnemonic = "review there current also sign chaos betray welcome kitchen farm kitchen remember";

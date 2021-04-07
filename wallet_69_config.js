@@ -1,1 +1,1 @@
-var mnemonic = "firm uphold health pluck oxygen media citizen luxury reveal ride amused stomach";
+var mnemonic = "company carbon perfect borrow multiply cook describe lion anxiety educate scrub grunt";

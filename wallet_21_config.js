@@ -1,1 +1,1 @@
-var mnemonic = "onion govern enact since measure conduct couple hint diary seven screen decade";
+var mnemonic = "inner dumb dawn fee solve effort brick multiply private wealth collect win";

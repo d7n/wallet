@@ -1,1 +1,1 @@
-var mnemonic = "jewel fatigue wrap direct upset tired consider repeat proud estate twelve cheese";
+var mnemonic = "trash dragon thrive bag later sing gadget cotton steel dune large race";

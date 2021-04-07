@@ -1,1 +1,1 @@
-var mnemonic = "paddle guard steel wet thought spare jaguar toilet library announce input trophy";
+var mnemonic = "diagram pause olympic adult mango boat capital chase about devote foster flame";

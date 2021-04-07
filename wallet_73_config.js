@@ -1,1 +1,1 @@
-var mnemonic = "bright actor radar betray mule element conduct sleep impact unable simple section";
+var mnemonic = "return present slim century useless mosquito mountain effort stereo dad echo pulp";

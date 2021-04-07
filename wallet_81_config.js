@@ -1,1 +1,1 @@
-var mnemonic = "visit exchange axis enemy vacuum summer sustain merry novel neck odor still";
+var mnemonic = "enact egg humor unknown glory promote baby vocal east proud belt pair";

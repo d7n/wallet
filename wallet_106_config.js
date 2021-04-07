@@ -1,1 +1,1 @@
-var mnemonic = "rent solution someone save join reflect sound nation baby broken exact lazy";
+var mnemonic = "found trap fly sister chase whip cube amount afford hobby timber favorite";

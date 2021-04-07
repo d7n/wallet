@@ -1,1 +1,1 @@
-var mnemonic = "inside bid energy inject industry injury turn paper adult grid grit submit";
+var mnemonic = "section couch flag unit warfare town tank merit sniff theme detect rude";

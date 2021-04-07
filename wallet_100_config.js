@@ -1,1 +1,1 @@
-var mnemonic = "vast visa bottom abandon horse broom twelve addict attack special helmet funny";
+var mnemonic = "claw come beach old job pistol pulse lobster midnight pole daughter furnace";

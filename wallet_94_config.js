@@ -1,1 +1,1 @@
-var mnemonic = "among spend winter ladder law sister flower cry hotel boil focus above";
+var mnemonic = "hurt easily battle illegal flight unusual cabbage layer trial sweet despair addict";

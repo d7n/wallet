@@ -1,1 +1,1 @@
-var mnemonic = "pig sibling extend price lyrics napkin extra satoshi fetch toss annual easily";
+var mnemonic = "neglect rabbit sunny fortune chimney road degree pigeon abuse unhappy chat best";

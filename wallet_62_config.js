@@ -1,1 +1,1 @@
-var mnemonic = "window win sound behind recycle citizen between face actual pool zoo oval";
+var mnemonic = "valve script love either wage number swap shine correct sample alert alley";

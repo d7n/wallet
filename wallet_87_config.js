@@ -1,1 +1,1 @@
-var mnemonic = "fabric decorate glory segment amateur subway warfare movie seven vapor suffer august";
+var mnemonic = "absent old melody ramp group timber guard inch alcohol trigger lounge unfold";

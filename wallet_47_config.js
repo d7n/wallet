@@ -1,1 +1,1 @@
-var mnemonic = "ankle hotel talent solve bubble assume toddler error eyebrow debris harvest reflect";
+var mnemonic = "pioneer column copper purchase inmate park liar pony weapon rich ordinary either";

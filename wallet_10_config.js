@@ -1,1 +1,1 @@
-var mnemonic = "cupboard trigger endorse palm category manage oblige pitch blood burger belt soft";
+var mnemonic = "seat stock convince absurd interest all catalog gaze common life enhance ball";

@@ -1,1 +1,1 @@
-var mnemonic = "exist release opinion replace until ripple prosper method gap walk glad vibrant";
+var mnemonic = "eyebrow equal wise trial stock beach news april become wagon own umbrella";

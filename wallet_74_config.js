@@ -1,1 +1,1 @@
-var mnemonic = "stick cabbage cross rice ecology buyer cupboard prize profit owner define parrot";
+var mnemonic = "walnut slide fetch current defy equal assume custom hobby brown strong sketch";

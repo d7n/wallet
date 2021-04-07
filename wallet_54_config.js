@@ -1,1 +1,1 @@
-var mnemonic = "style tooth mirror multiply fire social trophy love ahead truth wreck grit";
+var mnemonic = "target raw visual balcony clip tongue thunder group certain wrestle motor ripple";

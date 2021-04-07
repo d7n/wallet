@@ -1,1 +1,1 @@
-var mnemonic = "emerge repair unfair citizen rather sentence vanish edit quote rack minute scorpion";
+var mnemonic = "jump attitude silk tower curious ship beach decline almost corn hawk sort";

@@ -1,1 +1,1 @@
-var mnemonic = "brand audit meat letter spring gossip champion define actress canoe surprise clown";
+var mnemonic = "pact turn involve wild expand traffic absorb garbage brother hockey drama require";

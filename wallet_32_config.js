@@ -1,1 +1,1 @@
-var mnemonic = "home sunny execute then forget lounge girl dismiss fitness cause coyote execute";
+var mnemonic = "apple vault extra submit knife venture trade tortoise raven silly supply raw";

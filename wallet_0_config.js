@@ -1,1 +1,1 @@
-var mnemonic = "space athlete ball wild blossom toilet friend ring arena cargo example oil";
+var mnemonic = "merge pumpkin produce beef work crisp length easily hollow truth aspect equip";

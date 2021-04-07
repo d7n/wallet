@@ -1,1 +1,1 @@
-var mnemonic = "fortune chef note clever gloom forest fancy swap same afford birth spy";
+var mnemonic = "fence hope range cabin reduce photo bone urge news drive pen horn";

@@ -1,1 +1,1 @@
-var mnemonic = "pact rich speed buzz cycle curve cable village glove beef gloom illness";
+var mnemonic = "slush kid aware annual mean element grit cat police night helmet sight";

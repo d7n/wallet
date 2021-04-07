@@ -1,1 +1,1 @@
-var mnemonic = "cancel then burst park soap pottery humble tired decide imitate comic sphere";
+var mnemonic = "nominee guard pet estate result poem hero army tortoise journey genre idle";

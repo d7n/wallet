@@ -1,1 +1,1 @@
-var mnemonic = "bag arrest all toast regular pudding pool summer weird please soda boss";
+var mnemonic = "moon misery ship craft echo give stool priority where interest resist own";

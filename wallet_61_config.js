@@ -1,1 +1,1 @@
-var mnemonic = "left pelican discover alpha sponsor illegal squirrel female latin jar rural dance";
+var mnemonic = "axis proud income ladder find cliff struggle volcano reduce gentle typical thumb";

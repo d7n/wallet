@@ -1,1 +1,1 @@
-var mnemonic = "evoke biology silent end aunt remind uncover relax image immune mirror acquire";
+var mnemonic = "inform weapon scrap prevent visa weapon lizard drastic dumb human rookie edge";

@@ -1,1 +1,1 @@
-var mnemonic = "blur civil blossom flip coin index jump head pistol hole choice cargo";
+var mnemonic = "relax session depth force ignore rug time either mimic oval pond build";

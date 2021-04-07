@@ -1,1 +1,1 @@
-var mnemonic = "absorb unusual vintage citizen cup purchase release rail lumber flavor artefact palace";
+var mnemonic = "pull offer client sheriff nasty follow behind verify blue foam south kid";

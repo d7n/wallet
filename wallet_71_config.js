@@ -1,1 +1,1 @@
-var mnemonic = "forest napkin judge barely sunny clap address response scene screen harbor rude";
+var mnemonic = "sweet fury nose antique misery course blue regret gravity extra price teach";

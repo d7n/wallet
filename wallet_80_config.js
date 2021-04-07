@@ -1,1 +1,1 @@
-var mnemonic = "entire melt clinic crack mom engage number decade cargo physical speak clarify";
+var mnemonic = "luggage effort hold host fly domain isolate small uphold sick virtual gift";

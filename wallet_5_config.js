@@ -1,1 +1,1 @@
-var mnemonic = "super key much fame convince rigid crawl actress piece noise camp soul";
+var mnemonic = "cotton special truth asset satisfy scan eternal void brief turtle key arctic";

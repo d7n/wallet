@@ -1,1 +1,1 @@
-var mnemonic = "upper urban work exact meat insect pumpkin clever lottery crisp dirt express";
+var mnemonic = "level liberty shop always kid love piece film derive hair voice early";

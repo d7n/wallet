@@ -1,1 +1,1 @@
-var mnemonic = "bless prefer frozen burden baby text swap speak syrup stadium autumn hurdle";
+var mnemonic = "square proof team lawn net dumb box assault achieve column frozen skill";

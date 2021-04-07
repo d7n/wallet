@@ -1,1 +1,1 @@
-var mnemonic = "term history escape element glare abandon talent emerge clutch twenty that hood";
+var mnemonic = "lock online dash brown label hurry lottery reveal affair reduce sort observe";

@@ -1,1 +1,1 @@
-var mnemonic = "viable climb fury magic suffer easily fatigue flush absent pear enemy pink";
+var mnemonic = "domain wheat they improve tide stomach rotate avoid gaze begin image session";

@@ -1,1 +1,1 @@
-var mnemonic = "need economy stable leisure brand retire mom enhance illness fury vacuum region";
+var mnemonic = "mystery accuse say seek unfold feature icon satisfy document airport weasel wolf";

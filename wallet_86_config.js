@@ -1,1 +1,1 @@
-var mnemonic = "frequent pulse coyote oak decorate drastic deposit weird version excuse curious giant";
+var mnemonic = "kidney card update energy winter trap high quiz garment dash arrive tape";

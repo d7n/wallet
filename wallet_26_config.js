@@ -1,1 +1,1 @@
-var mnemonic = "immense fashion vacuum various waste brass law coral nephew child fence physical";
+var mnemonic = "fox green chair replace love design park amount easily water prefer napkin";

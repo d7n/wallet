@@ -1,1 +1,1 @@
-var mnemonic = "shoe bike neutral grit hybrid stand measure worth mimic chicken tired swap";
+var mnemonic = "range spring attend print rapid circle lecture poem fatigue digital trumpet crop";

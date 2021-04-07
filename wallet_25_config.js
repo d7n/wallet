@@ -1,1 +1,1 @@
-var mnemonic = "fat rough enemy absent weather meadow fan upper friend please seven material";
+var mnemonic = "cry choice current hip ability mouse eight pole clutch summer review dress";

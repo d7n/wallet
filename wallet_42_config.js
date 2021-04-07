@@ -1,1 +1,1 @@
-var mnemonic = "book rude correct absorb update bunker captain drip symbol identify grape blood";
+var mnemonic = "thumb soup excite odor put radar adapt exhibit jealous enact trophy return";

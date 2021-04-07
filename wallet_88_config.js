@@ -1,1 +1,1 @@
-var mnemonic = "liberty wheel already pulp govern brown hard ecology scatter shine book twin";
+var mnemonic = "collect narrow click fossil alarm worry april stereo choice offer term powder";

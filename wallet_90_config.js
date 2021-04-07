@@ -1,1 +1,1 @@
-var mnemonic = "slender rich maple beach maid dumb north tongue camp number topic tuna";
+var mnemonic = "basket depend clip another spread opinion tenant visit december good snow predict";
