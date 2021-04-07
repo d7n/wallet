@@ -1,1 +1,1 @@
-var mnemonic = "magic neutral wrestle entire keen hockey submit diary volcano twelve joy object";
+var mnemonic = "draw real okay acquire exit forum spike hood fossil salad ivory slice";

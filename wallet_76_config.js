@@ -1,1 +1,1 @@
-var mnemonic = "truly elder brisk satisfy bright aim client ketchup risk winner offer fit";
+var mnemonic = "need permit armed cradle lecture awful patch banana tornado action slot alter";

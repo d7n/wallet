@@ -1,1 +1,1 @@
-var mnemonic = "fade green garment erode target green will melt swift tower motion yard";
+var mnemonic = "normal boring what habit company need bullet general blood cinnamon ignore option";

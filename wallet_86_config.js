@@ -1,1 +1,1 @@
-var mnemonic = "puzzle armed hungry surprise picture noble renew once bread solution cable produce";
+var mnemonic = "sword sniff palace scout rug blast ivory program grab feed exercise feed";

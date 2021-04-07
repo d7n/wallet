@@ -1,1 +1,1 @@
-var mnemonic = "unit country pride cable behind limit picnic school wasp grain issue hamster";
+var mnemonic = "same thought canvas fame erase imitate winner trophy tray blossom festival uphold";

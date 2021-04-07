@@ -1,1 +1,1 @@
-var mnemonic = "seed find click situate visual task december drastic please mandate distance improve";
+var mnemonic = "just smile uphold canvas august pigeon spice hint grocery knife hold salon";

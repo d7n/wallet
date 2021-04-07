@@ -1,1 +1,1 @@
-var mnemonic = "cousin foster inmate world wet chest screen inhale inject gun oppose bachelor";
+var mnemonic = "bullet swallow sword tragic cycle buffalo sentence chase comfort dish abuse vague";

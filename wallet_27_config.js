@@ -1,1 +1,1 @@
-var mnemonic = "file holiday budget insane crane emerge muffin federal brush arctic check happy";
+var mnemonic = "cheap dice open acoustic defy hungry order rookie square shop sentence promote";

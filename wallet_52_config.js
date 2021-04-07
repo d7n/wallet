@@ -1,1 +1,1 @@
-var mnemonic = "tip tape end shoot style away oxygen system wild pitch maximum helmet";
+var mnemonic = "blood roast jelly captain clay message actual sugar chronic agree cheese figure";

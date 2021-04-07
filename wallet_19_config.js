@@ -1,1 +1,1 @@
-var mnemonic = "artwork gentle join permit moral stage sail tribe safe sand sauce autumn";
+var mnemonic = "donor stable next play hat face pudding educate genius nasty ketchup best";

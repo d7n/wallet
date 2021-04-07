@@ -1,1 +1,1 @@
-var mnemonic = "attitude pause rally unfold surround stove fence main helmet final guard fiction";
+var mnemonic = "behind home husband blind slot grief light grunt enrich kid bulb nominee";

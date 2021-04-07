@@ -1,1 +1,1 @@
-var mnemonic = "grit green noble cargo reject remind spot satisfy off typical tone retreat";
+var mnemonic = "sausage basket solution bench differ ripple crop eternal shallow milk medal outdoor";

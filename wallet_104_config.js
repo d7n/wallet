@@ -1,1 +1,1 @@
-var mnemonic = "conduct sunset spray lyrics state discover same tourist fantasy fence output deal";
+var mnemonic = "head list antenna drive kind tent town bomb seminar torch burst approve";

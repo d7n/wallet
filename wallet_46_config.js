@@ -1,1 +1,1 @@
-var mnemonic = "fantasy pipe virus usage depth galaxy mimic either idle caution baby pelican";
+var mnemonic = "whip before pattern online dune wrist tower name corn common vehicle drama";

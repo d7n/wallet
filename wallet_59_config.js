@@ -1,1 +1,1 @@
-var mnemonic = "alone sure tourist giggle vacuum million boring damage taste road stomach love";
+var mnemonic = "tackle say cry fork traffic lucky slice fiction doll torch blade auto";

@@ -1,1 +1,1 @@
-var mnemonic = "useful degree coconut indoor extend trash artist jazz protect spend magnet about";
+var mnemonic = "sport code way float actual amused merit solid arrow outside route trend";

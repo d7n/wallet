@@ -1,1 +1,1 @@
-var mnemonic = "junk will one play abuse tongue slot coast party discover auction exclude";
+var mnemonic = "ceiling table buyer jewel float proof science fine mechanic great possible laptop";

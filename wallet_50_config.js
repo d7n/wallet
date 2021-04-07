@@ -1,1 +1,1 @@
-var mnemonic = "drum talent salute exchange keep slush device finish need prison device warfare";
+var mnemonic = "beach minor vibrant aerobic rubber venue gospel day artwork anger debris expect";

@@ -1,1 +1,1 @@
-var mnemonic = "clever comic acquire denial famous vacuum jewel improve gap elevator knife swift";
+var mnemonic = "sort immune differ ahead reunion raise net census hurdle print culture glide";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious coil flight near mammal again void clap sketch try draft fortune";
+var mnemonic = "robot view fruit brain lunch palace knife crack slim artwork venture scrub";

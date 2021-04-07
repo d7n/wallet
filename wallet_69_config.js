@@ -1,1 +1,1 @@
-var mnemonic = "magic drive off north slow list critic cool burger ginger cup notice";
+var mnemonic = "combine veteran merry remain hospital shift gorilla boring own style color address";

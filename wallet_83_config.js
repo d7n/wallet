@@ -1,1 +1,1 @@
-var mnemonic = "quit turtle empty old borrow void drop spray hamster spray receive find";
+var mnemonic = "nurse unique material outdoor rely faint swear empty join settle program require";

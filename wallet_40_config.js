@@ -1,1 +1,1 @@
-var mnemonic = "seven false ship castle toward tragic popular celery near kangaroo cycle section";
+var mnemonic = "bunker drastic mesh cousin comic race iron job lyrics address picture force";

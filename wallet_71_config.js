@@ -1,1 +1,1 @@
-var mnemonic = "cage boat thunder student deer now sock proof neck market wear expose";
+var mnemonic = "brand pulse zebra room foil clown script junior mystery beef enlist dragon";

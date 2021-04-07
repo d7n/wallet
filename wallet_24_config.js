@@ -1,1 +1,1 @@
-var mnemonic = "gossip shock host able square faint escape maid eye beyond cable era";
+var mnemonic = "term boss enact embark finish hope cloud danger emerge vacant useful top";

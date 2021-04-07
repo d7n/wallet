@@ -1,1 +1,1 @@
-var mnemonic = "special problem laundry glove cabbage west fury waste either glide fault rotate";
+var mnemonic = "letter chuckle sketch army air message expand naive promote grocery jazz uncover";

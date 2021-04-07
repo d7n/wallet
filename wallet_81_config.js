@@ -1,1 +1,1 @@
-var mnemonic = "false tuna clap shoot keen another say retire bus price purchase shed";
+var mnemonic = "wine daughter wish future attend awesome movie unlock alert surround outside salt";

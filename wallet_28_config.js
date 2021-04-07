@@ -1,1 +1,1 @@
-var mnemonic = "broken garage cute balance answer pair fabric number nuclear meat battle safe";
+var mnemonic = "shell slight more unusual height bright jazz alert ignore sail rice best";

@@ -1,1 +1,1 @@
-var mnemonic = "win throw plate nice valve deal artwork tissue nice absorb zone property";
+var mnemonic = "awake bitter trend recycle space outdoor best castle else topic wet youth";

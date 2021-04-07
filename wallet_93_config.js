@@ -1,1 +1,1 @@
-var mnemonic = "vendor genius pull canoe end crush order chalk enable trash glance lion";
+var mnemonic = "grow ocean young uncover myth junior cram acquire twin peace clutch behave";

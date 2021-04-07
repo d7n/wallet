@@ -1,1 +1,1 @@
-var mnemonic = "garage long balance churn believe inhale yellow ancient shoulder slice flash long";
+var mnemonic = "envelope response wet upgrade wire high direct unusual gown trumpet enforce shaft";

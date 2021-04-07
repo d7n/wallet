@@ -1,1 +1,1 @@
-var mnemonic = "dizzy barely rally convince monster syrup brief airport wage spend only mandate";
+var mnemonic = "food divert must tone reveal execute choice mean lunar dragon vacant solution";

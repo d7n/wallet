@@ -1,1 +1,1 @@
-var mnemonic = "bean myself guard actress work bronze razor runway neither tobacco bargain tone";
+var mnemonic = "draw buddy side swap marriage excuse execute wet vacuum gorilla assist worry";

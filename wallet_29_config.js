@@ -1,1 +1,1 @@
-var mnemonic = "illegal usage matter canvas average romance venue genuine quit humble assist magnet";
+var mnemonic = "pen govern alpha quality grid intact session mistake diesel pyramid novel furnace";

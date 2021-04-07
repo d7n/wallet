@@ -1,1 +1,1 @@
-var mnemonic = "drift famous proud plug tomato service captain liberty lumber miracle phone laptop";
+var mnemonic = "forward promote jump senior enhance treat crane excess paper foot other garage";

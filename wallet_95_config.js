@@ -1,1 +1,1 @@
-var mnemonic = "inner cost table tornado knife unfold rail canoe cover ethics bike hamster";
+var mnemonic = "heart wrong fury hundred echo another vapor fat fall kid direct desk";

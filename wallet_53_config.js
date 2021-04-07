@@ -1,1 +1,1 @@
-var mnemonic = "response hundred crawl exist rhythm lounge lab blood cheap destroy author defy";
+var mnemonic = "judge sustain garment task arctic will assist abandon weapon course actress earth";

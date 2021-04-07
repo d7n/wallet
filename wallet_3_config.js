@@ -1,1 +1,1 @@
-var mnemonic = "bring alien tooth kingdom wrestle bean evidence silly weather caution dose isolate";
+var mnemonic = "senior lazy window glare casino velvet verify boy board bid skin excess";

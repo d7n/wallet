@@ -1,1 +1,1 @@
-var mnemonic = "school ignore across fame bright supply delay zoo wrong absorb shaft enable";
+var mnemonic = "ladder sock good more human diesel forget hold expand peanut hood glance";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic tuition latin aware around ramp exit glide carry view reduce visual";
+var mnemonic = "hold silly present liquid tuna wealth salmon reflect book script cloud praise";

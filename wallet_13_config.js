@@ -1,1 +1,1 @@
-var mnemonic = "border thank curious damp scatter inmate first debate rebuild glow round transfer";
+var mnemonic = "uphold minute survey resource nose couple praise time swarm remove defy area";

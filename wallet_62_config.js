@@ -1,1 +1,1 @@
-var mnemonic = "effort sponsor empower guitar skate trim know nominee weapon unaware blossom help";
+var mnemonic = "wrap winner know flat trumpet pair disagree grain soda coin forest battle";

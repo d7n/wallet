@@ -1,1 +1,1 @@
-var mnemonic = "entire click peanut rifle friend aunt glide high van wine fresh nose";
+var mnemonic = "black welcome assume life jeans abandon hurry sphere equal mutual reopen author";

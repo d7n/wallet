@@ -1,1 +1,1 @@
-var mnemonic = "envelope turkey tomato pitch type era charge soft engine expect small brain";
+var mnemonic = "neutral plunge crazy olive law enemy lens credit auction loyal submit rain";

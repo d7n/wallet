@@ -1,1 +1,1 @@
-var mnemonic = "castle refuse question vendor enemy equip stand spoon boring demand ice recall";
+var mnemonic = "chicken gas useless fun another almost runway cup budget start festival lawn";

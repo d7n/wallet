@@ -1,1 +1,1 @@
-var mnemonic = "sketch brick myself drink enable garbage novel innocent swap remind blue run";
+var mnemonic = "bulk into clean ritual fragile stove science jaguar shallow drum purity awesome";

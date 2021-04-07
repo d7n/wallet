@@ -1,1 +1,1 @@
-var mnemonic = "boring join lunar correct inhale carbon access wagon course ordinary parade sheriff";
+var mnemonic = "beach message core way desert fetch drum lend sail angle beef onion";

@@ -1,1 +1,1 @@
-var mnemonic = "fit fabric radio siren orbit flavor rotate balance famous river tonight review";
+var mnemonic = "demise anger cream boy soul identify barely cabbage fatal nose sunny keen";

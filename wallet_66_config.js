@@ -1,1 +1,1 @@
-var mnemonic = "expose man cash peace coast solar verb season little view judge gas";
+var mnemonic = "increase harsh pepper quick oppose grass clinic wet pill poverty language inch";

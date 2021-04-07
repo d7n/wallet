@@ -1,1 +1,1 @@
-var mnemonic = "spare crack evolve tiny mirror odor void milk bleak happy border climb";
+var mnemonic = "derive dwarf viable canoe resist best grace can call shop remember miracle";

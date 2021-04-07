@@ -1,1 +1,1 @@
-var mnemonic = "enemy swear trial tribe vacant thunder hard ocean quiz useful scene bacon";
+var mnemonic = "average fashion right brick pilot few build change maple junior soccer empower";

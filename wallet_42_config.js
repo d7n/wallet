@@ -1,1 +1,1 @@
-var mnemonic = "trial harsh home kid chalk little side obey hedgehog situate trust kit";
+var mnemonic = "carpet merry surround scrap mass police divide island way they crowd own";

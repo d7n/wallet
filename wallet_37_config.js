@@ -1,1 +1,1 @@
-var mnemonic = "bus piano require earn submit kick puzzle one avocado cement rail over";
+var mnemonic = "warrior moral wrist fruit inject shock photo cool lesson echo length best";

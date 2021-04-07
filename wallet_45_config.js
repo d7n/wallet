@@ -1,1 +1,1 @@
-var mnemonic = "post radio wolf gadget shock cross direct plug roof gadget joy universe";
+var mnemonic = "stereo arena gospel chuckle dentist poem defy venture hamster inherit myself either";

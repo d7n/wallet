@@ -1,1 +1,1 @@
-var mnemonic = "marine patient remove deputy blanket juice lift liar pear end absent ship";
+var mnemonic = "coral where move vivid silly appear quality ten boat sadness video core";

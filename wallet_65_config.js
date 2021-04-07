@@ -1,1 +1,1 @@
-var mnemonic = "world garage inspire fruit intact clap plug mosquito lonely claw usual wheat";
+var mnemonic = "vessel upset grab group scatter cave gallery stem alone lunch comfort host";

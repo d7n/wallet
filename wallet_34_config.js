@@ -1,1 +1,1 @@
-var mnemonic = "wire ask favorite scout ticket material harvest decade human father elegant hover";
+var mnemonic = "dolphin emerge budget manual egg name flight camera benefit venture broken inspire";

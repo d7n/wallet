@@ -1,1 +1,1 @@
-var mnemonic = "bulb reward eagle rude moon bachelor frame kit cross rotate bullet purity";
+var mnemonic = "make pear sadness glad bar cream retreat stamp fiscal pluck atom canal";

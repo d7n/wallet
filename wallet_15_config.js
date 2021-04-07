@@ -1,1 +1,1 @@
-var mnemonic = "undo pink cargo cake spell ozone link camp dismiss rough antenna mandate";
+var mnemonic = "dynamic school surprise taxi simple visit vast fault excess breeze youth recipe";

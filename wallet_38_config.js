@@ -1,1 +1,1 @@
-var mnemonic = "click virtual mention differ foam kidney mad hole stand awkward bind visit";
+var mnemonic = "sting wage peasant cabbage casino shiver tower brass enough green slab typical";

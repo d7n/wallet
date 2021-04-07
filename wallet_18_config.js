@@ -1,1 +1,1 @@
-var mnemonic = "east require exit hundred morning mass message organ object school pipe tornado";
+var mnemonic = "purse harvest surround inform entry ticket tell fence gate traffic doll tragic";

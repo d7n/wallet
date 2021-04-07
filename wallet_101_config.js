@@ -1,1 +1,1 @@
-var mnemonic = "speed debris crunch inject crater pig fitness few pair receive middle inflict";
+var mnemonic = "north gun pretty they frame bacon shallow sign gauge churn pill team";

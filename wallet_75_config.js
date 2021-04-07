@@ -1,1 +1,1 @@
-var mnemonic = "unaware anger sun magnet predict turn agree impose carbon parent twin board";
+var mnemonic = "annual biology boring sign essence elbow act mother spread resist opera reduce";

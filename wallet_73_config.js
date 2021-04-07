@@ -1,1 +1,1 @@
-var mnemonic = "gentle castle donor attitude pupil test canvas casino fun gadget hat cereal";
+var mnemonic = "report front mammal fortune make flock crime post silver allow online soda";

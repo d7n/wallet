@@ -1,1 +1,1 @@
-var mnemonic = "truly happy input mammal breeze viable gossip axis record fancy rifle square";
+var mnemonic = "mule certain nurse century coyote worth frog taxi youth turkey table urge";

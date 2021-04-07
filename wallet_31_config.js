@@ -1,1 +1,1 @@
-var mnemonic = "company upon elbow huge novel size motion push alpha cream fruit radar";
+var mnemonic = "initial practice cricket battle blouse shell draw fury host guitar force elegant";

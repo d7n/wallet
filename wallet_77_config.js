@@ -1,1 +1,1 @@
-var mnemonic = "decorate fluid orange stage divert side hawk nerve witness deny vibrant guard";
+var mnemonic = "flight husband twice tide provide chicken sound pear rifle goddess update offer";

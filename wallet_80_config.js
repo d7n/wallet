@@ -1,1 +1,1 @@
-var mnemonic = "problem dove bench book quote choice rally radio nuclear quote tray fragile";
+var mnemonic = "answer frown donkey awake inflict other walnut invest spy tray diamond neutral";

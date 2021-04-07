@@ -1,1 +1,1 @@
-var mnemonic = "cash census will machine faith friend assume hunt exhaust catch foil clever";
+var mnemonic = "match orange swarm tunnel develop two between hen liar neglect various switch";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon night sleep buffalo february ritual core spot pen tuna soft discover";
+var mnemonic = "shove clump obscure prize disease shaft waste scrub pupil amazing version vast";

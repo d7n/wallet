@@ -1,1 +1,1 @@
-var mnemonic = "since certain decrease tree kick west canal blush crash doctor size unique";
+var mnemonic = "weather country kind swear purse army loop guitar diet original hero awesome";

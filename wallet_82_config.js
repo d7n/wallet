@@ -1,1 +1,1 @@
-var mnemonic = "domain enemy dose term eternal hobby bird hurdle transfer parade what very";
+var mnemonic = "rich essay curve meadow during bronze advice pair carry exit appear chef";

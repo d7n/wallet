@@ -1,1 +1,1 @@
-var mnemonic = "cement sing final laugh spread leader pioneer oblige private burst blouse explain";
+var mnemonic = "similar enforce iron galaxy nephew canoe boring speed define dilemma indoor winter";

@@ -1,1 +1,1 @@
-var mnemonic = "settle sniff roof nurse feed volcano thunder quality ketchup slim true scrub";
+var mnemonic = "safe fall plug medal sick govern manual old minimum ripple birth bar";

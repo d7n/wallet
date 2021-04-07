@@ -1,1 +1,1 @@
-var mnemonic = "traffic quarter sustain gallery flush math viable float success vapor stable woman";
+var mnemonic = "acquire recipe logic net village shield turn bus loud avocado balcony nose";

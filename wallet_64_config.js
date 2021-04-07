@@ -1,1 +1,1 @@
-var mnemonic = "decide require payment sight erosion copper below reduce argue leaf shaft fox";
+var mnemonic = "remember bean net prepare best direct prefer lady husband have water drive";

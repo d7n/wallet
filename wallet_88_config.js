@@ -1,1 +1,1 @@
-var mnemonic = "razor devote sketch blind shuffle magnet layer cheap trick cradle afraid flush";
+var mnemonic = "exhaust keep file spoon mixture body little lake cash board tray fatigue";

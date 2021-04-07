@@ -1,1 +1,1 @@
-var mnemonic = "wisdom fall ball kind ankle video voice language grab advance danger suffer";
+var mnemonic = "music float tissue purse peasant wagon order awesome payment roast mask acquire";

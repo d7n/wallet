@@ -1,1 +1,1 @@
-var mnemonic = "dirt video rice canyon tuna quantum release imitate roast service remain pyramid";
+var mnemonic = "raise unaware bone taste you deputy afford step trade lawn power dish";

@@ -1,1 +1,1 @@
-var mnemonic = "swing dragon crouch insane daughter poem mind lens coconut letter weather survey";
+var mnemonic = "orphan blossom miss web vote scare ticket tumble east similar cage reopen";

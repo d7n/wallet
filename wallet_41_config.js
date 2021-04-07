@@ -1,1 +1,1 @@
-var mnemonic = "tackle bring tuition detect bitter box earth argue slam reward card say";
+var mnemonic = "remember orbit tribe kiss helmet tornado pear absent boat finish across blur";

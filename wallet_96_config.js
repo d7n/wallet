@@ -1,1 +1,1 @@
-var mnemonic = "dutch solar radio bench wife long decade child master dial into inch";
+var mnemonic = "tower input reason update accuse valve tiny hospital spawn angry surprise ceiling";

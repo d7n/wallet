@@ -1,1 +1,1 @@
-var mnemonic = "tired pull service picnic below whisper visual obscure street write cruise infant";
+var mnemonic = "check west picture toilet endorse force render fatigue subway air cement auction";

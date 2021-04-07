@@ -1,1 +1,1 @@
-var mnemonic = "mercy father enlist inherit curtain deputy visa print trouble salmon clutch direct";
+var mnemonic = "rude salmon alone day best mixture inspire place world deer timber junk";

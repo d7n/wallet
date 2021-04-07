@@ -1,1 +1,1 @@
-var mnemonic = "cable sell faint piece lunar rebel young outdoor one maid evoke logic";
+var mnemonic = "staff basket chunk portion abstract swamp lava leopard beach ozone rack armed";

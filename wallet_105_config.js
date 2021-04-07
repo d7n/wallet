@@ -1,1 +1,1 @@
-var mnemonic = "pony bag tray squeeze expect off brain cotton sustain upon conduct become";
+var mnemonic = "leader spatial fringe provide payment huge ahead wheat page artefact spawn jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "climb captain bicycle bus penalty deer pond alpha tree crawl almost uncover";
+var mnemonic = "speak vocal enroll cup coral ignore exchange distance pluck scrap park tail";

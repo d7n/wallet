@@ -1,1 +1,1 @@
-var mnemonic = "traffic glove remind tape limit assist worry attend unhappy captain start vacant";
+var mnemonic = "digital truly poem miracle only suit brush announce top large special symptom";

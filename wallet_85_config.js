@@ -1,1 +1,1 @@
-var mnemonic = "useful unlock allow knee off net nerve duty knock leave ready family";
+var mnemonic = "delay nature assault lunch bleak bundle cricket devote spread planet bulb kitten";

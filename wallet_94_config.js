@@ -1,1 +1,1 @@
-var mnemonic = "marriage slide renew across cabbage pull camp salute myth drip recall topple";
+var mnemonic = "panic field large lock sausage into meadow club umbrella tooth weekend sun";

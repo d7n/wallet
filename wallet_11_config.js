@@ -1,1 +1,1 @@
-var mnemonic = "social sting bacon detail upon black sugar gun faint camp giant ordinary";
+var mnemonic = "arm junior bike write fee wonder pencil edit fee blue fabric merge";

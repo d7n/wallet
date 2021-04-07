@@ -1,1 +1,1 @@
-var mnemonic = "acid rely alley harvest wolf right squeeze clock never oil exhaust giggle";
+var mnemonic = "youth clarify crawl famous rigid surround mercy august peace bulk token law";

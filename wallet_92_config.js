@@ -1,1 +1,1 @@
-var mnemonic = "flat plug faint rude spoon situate crack cost grocery jealous ecology hurdle";
+var mnemonic = "bike cause theme urban general labor boost machine enact protect pave dinosaur";

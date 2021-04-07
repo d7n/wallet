@@ -1,1 +1,1 @@
-var mnemonic = "silent slush warfare bean chalk obey agent sword find rain capital kick";
+var mnemonic = "social truck armor peace father slight crunch life gift ticket creek phone";

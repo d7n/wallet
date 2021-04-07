@@ -1,1 +1,1 @@
-var mnemonic = "patch now seat toe peasant shell old scorpion mimic embrace depart sheriff";
+var mnemonic = "depend deny session palm arm evil mom fit tree diamond unveil second";

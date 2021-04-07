@@ -1,1 +1,1 @@
-var mnemonic = "portion grab excess mom large firm clean decline quarter voice surround renew";
+var mnemonic = "fit cradle battle solar hurdle air viable eagle fine corn blue rely";

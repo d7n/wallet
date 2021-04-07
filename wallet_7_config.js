@@ -1,1 +1,1 @@
-var mnemonic = "discover year abuse inmate humor friend lunar flat impact image boat razor";
+var mnemonic = "ladder evoke churn child enhance genre add flock cotton route final help";
