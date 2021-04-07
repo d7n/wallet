@@ -1,1 +1,1 @@
-var mnemonic = "opera clown main useless wing carbon weather mountain peace capital glare venture";
+var mnemonic = "april kit veteran blame forget dutch sort plug cash regret ignore height";

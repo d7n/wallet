@@ -1,1 +1,1 @@
-var mnemonic = "skull second lyrics harvest oyster inform flip confirm suffer window trash indoor";
+var mnemonic = "layer need rally water link involve dash vintage sausage luggage diet media";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics relief human wise wedding stable night arena drive crane island dove";
+var mnemonic = "pumpkin exercise black replace dress elephant wagon defense bread much unfair inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "leave alpha cute design ankle liquid shock token echo more maze child";
+var mnemonic = "inhale dress hair finish second bar rent autumn bounce shiver impact hockey";

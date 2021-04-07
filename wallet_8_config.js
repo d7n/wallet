@@ -1,1 +1,1 @@
-var mnemonic = "will peace must end rapid now cool lobster urge emerge confirm oblige";
+var mnemonic = "advice early moral bundle cycle sell inside bright people orange issue rare";

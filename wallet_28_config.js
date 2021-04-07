@@ -1,1 +1,1 @@
-var mnemonic = "mask poem mosquito slab boil resemble dish nurse core educate normal brown";
+var mnemonic = "what hybrid brave table cigar fiscal question raccoon film purchase group hat";

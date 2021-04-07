@@ -1,1 +1,1 @@
-var mnemonic = "decorate round strike hamster silk sign scout update soon post bike peanut";
+var mnemonic = "over essay poet sausage broken bring develop dumb alley radar record drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup bounce exist water toy flight pool absurd panel correct total era";
+var mnemonic = "trigger lunar illness glory segment tenant airport current alarm aunt parent vault";

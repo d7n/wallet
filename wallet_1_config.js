@@ -1,1 +1,1 @@
-var mnemonic = "regular organ floor hurry loyal hello scorpion undo riot please ladder kick";
+var mnemonic = "track embrace message file silent half load accident beef ancient question black";

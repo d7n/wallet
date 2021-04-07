@@ -1,1 +1,1 @@
-var mnemonic = "seek spice tail announce equip photo select buddy pass there way once";
+var mnemonic = "put predict ugly you road silk fox control legal bargain mixed decide";

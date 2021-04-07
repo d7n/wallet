@@ -1,1 +1,1 @@
-var mnemonic = "churn praise mule verb valve ordinary foam rubber neck worry hybrid ostrich";
+var mnemonic = "clean calm measure crystal critic stable mouse rival liar brother warfare match";

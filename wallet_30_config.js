@@ -1,1 +1,1 @@
-var mnemonic = "cute suffer abuse employ junk tent school ozone trap spice draw enlist";
+var mnemonic = "prize report merit gown pelican bag lady absorb matrix able spot sense";

@@ -1,1 +1,1 @@
-var mnemonic = "expose inject chest bulb isolate unable skill alpha rather never injury dutch";
+var mnemonic = "stomach match primary drastic pattern strong wire clog grunt rate mammal athlete";

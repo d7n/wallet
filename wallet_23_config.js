@@ -1,1 +1,1 @@
-var mnemonic = "village execute force glad express network confirm thank purity scheme file frog";
+var mnemonic = "steel reflect coconut timber stairs main naive window pumpkin margin cause sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic alien ten amount manual illness roof middle trophy brick merge rent";
+var mnemonic = "shove walnut quick humble any olympic elephant scatter river junk suggest execute";

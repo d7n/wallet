@@ -1,1 +1,1 @@
-var mnemonic = "jaguar symbol trip lumber decline tornado loan rail fade humor club exhibit";
+var mnemonic = "crucial inquiry negative medal clock friend curve guitar hour fiscal alley dash";

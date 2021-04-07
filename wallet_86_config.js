@@ -1,1 +1,1 @@
-var mnemonic = "cram fatal dry liquid like tent bulb mixed brown among fire harbor";
+var mnemonic = "oval buffalo derive net shrimp slush virtual head decide coconut disorder pet";

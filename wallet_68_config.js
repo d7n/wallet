@@ -1,1 +1,1 @@
-var mnemonic = "half extend usage tomorrow buddy cost forward cool garage error venture cloud";
+var mnemonic = "biology town taste unique local fragile local cannon garlic hold casual aware";

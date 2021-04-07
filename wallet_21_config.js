@@ -1,1 +1,1 @@
-var mnemonic = "anger popular option install small afford window chest network suggest crazy quarter";
+var mnemonic = "dentist release suspect enlist trend drift sea spoil purity alley kit unable";

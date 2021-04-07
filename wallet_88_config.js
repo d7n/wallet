@@ -1,1 +1,1 @@
-var mnemonic = "network lift project double comic wait next sponsor spare wide thumb disorder";
+var mnemonic = "bottom kidney dry carbon input delay angle jelly zebra fit silly right";

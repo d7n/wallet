@@ -1,1 +1,1 @@
-var mnemonic = "mom accident plug firm news easy decide all paper loyal crash water";
+var mnemonic = "will prize task advice what banner broken very device beach energy response";

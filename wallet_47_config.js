@@ -1,1 +1,1 @@
-var mnemonic = "stick nasty length village tray dynamic dry dutch promote robot thing excess";
+var mnemonic = "dentist way they hawk cable hen occur identify swarm visual camera movie";

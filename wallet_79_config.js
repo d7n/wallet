@@ -1,1 +1,1 @@
-var mnemonic = "puzzle blouse humble vapor stick advice upon cave emerge pony human adult";
+var mnemonic = "spray swap crucial legend goose chimney famous auction river butter riot hawk";

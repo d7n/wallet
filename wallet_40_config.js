@@ -1,1 +1,1 @@
-var mnemonic = "category slim deposit high call clip injury cement endorse rally game negative";
+var mnemonic = "old wait cricket maple ship slow depart mad river lens road again";

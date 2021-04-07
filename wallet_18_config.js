@@ -1,1 +1,1 @@
-var mnemonic = "column model tip educate climb puppy figure weather left version spray tape";
+var mnemonic = "sausage habit grain message thought spell rally empty desk keen burden news";

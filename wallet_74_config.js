@@ -1,1 +1,1 @@
-var mnemonic = "butter pudding object super keep rose boat know lucky boat visit fee";
+var mnemonic = "wait empower never edit wool rival unhappy since camera useful pig define";

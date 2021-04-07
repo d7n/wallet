@@ -1,1 +1,1 @@
-var mnemonic = "wisdom coin color ten east village alien risk neither soon program captain";
+var mnemonic = "puppy butter defy purse spend armor winner trouble online mobile family devote";

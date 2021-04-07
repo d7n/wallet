@@ -1,1 +1,1 @@
-var mnemonic = "engage mass perfect pigeon frequent nephew close pattern lazy mercy satoshi merit";
+var mnemonic = "multiply start protect knife wear frame eagle eternal butter enforce team exit";

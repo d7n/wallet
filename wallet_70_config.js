@@ -1,1 +1,1 @@
-var mnemonic = "wreck ribbon scale juice tenant math venture issue unaware put pave doctor";
+var mnemonic = "memory popular furnace swarm core copper together tilt runway globe devote asset";

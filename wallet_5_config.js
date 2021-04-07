@@ -1,1 +1,1 @@
-var mnemonic = "later frequent million embody raw quote bag code truth liar slush taxi";
+var mnemonic = "coral tree list apple age turn own crowd joy frozen shaft scan";

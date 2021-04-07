@@ -1,1 +1,1 @@
-var mnemonic = "concert unique patrol divorce final envelope village sentence brave valve found resemble";
+var mnemonic = "trigger atom possible produce concert crew keep biology return million neither appear";

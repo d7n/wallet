@@ -1,1 +1,1 @@
-var mnemonic = "baby pulse jeans fee panther churn rib interest song joke recycle dizzy";
+var mnemonic = "filter salt feel group math street glow mix vessel bottom practice uncle";

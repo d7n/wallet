@@ -1,1 +1,1 @@
-var mnemonic = "abuse width author truth include february blush subject venue manage power fall";
+var mnemonic = "shaft protect pyramid cement ball carbon perfect brisk neither speed wrestle play";

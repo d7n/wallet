@@ -1,1 +1,1 @@
-var mnemonic = "measure drama document tornado olympic cause disorder hunt segment cream bag matter";
+var mnemonic = "modify truth panel profit negative window away scare unit brother obscure rain";

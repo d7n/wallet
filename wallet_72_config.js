@@ -1,1 +1,1 @@
-var mnemonic = "slim crisp amused flag salute olive provide mind raw fat behind web";
+var mnemonic = "sketch dune acquire game beach arrow myself concert theme ramp dinosaur attitude";

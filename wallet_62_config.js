@@ -1,1 +1,1 @@
-var mnemonic = "pizza melt merit wall ensure season usual bicycle level size piece recall";
+var mnemonic = "rib trade hero figure install urge romance dizzy decade alter crystal salt";

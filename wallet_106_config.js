@@ -1,1 +1,1 @@
-var mnemonic = "bar luggage north cereal beach wear auto develop fee lonely language pony";
+var mnemonic = "can popular chimney range miss snack armed parade base adapt picture visual";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep hint tube swim assist price better garbage cousin drama soup burst";
+var mnemonic = "subject defy insect vapor patient execute ridge green strike apology dream spoon";

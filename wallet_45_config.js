@@ -1,1 +1,1 @@
-var mnemonic = "hope they pattern faculty wise trap sauce fiction toy close slam train";
+var mnemonic = "level rude learn shed fantasy razor since hammer picnic check bulb frozen";

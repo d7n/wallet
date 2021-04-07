@@ -1,1 +1,1 @@
-var mnemonic = "multiply fat because desk debate fitness office three music deliver narrow combine";
+var mnemonic = "pigeon kind benefit street festival few cruise wire capable civil enact message";

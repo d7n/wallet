@@ -1,1 +1,1 @@
-var mnemonic = "talk test organ wisdom tide innocent gun brave void fat crunch fiction";
+var mnemonic = "atom answer pledge reveal struggle list when tank gadget student donate simple";

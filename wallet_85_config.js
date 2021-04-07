@@ -1,1 +1,1 @@
-var mnemonic = "tone cannon robust tide pattern capable fun flash method together upon safe";
+var mnemonic = "shift stool soup coral leader possible interest add accident multiply gospel odor";

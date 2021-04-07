@@ -1,1 +1,1 @@
-var mnemonic = "ride over input owner permit member lounge symbol vacuum group element letter";
+var mnemonic = "kiss flush reunion owner easily outer idea meat wire box develop below";

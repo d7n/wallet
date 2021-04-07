@@ -1,1 +1,1 @@
-var mnemonic = "seminar olympic cargo cat series open salute fine weekend earn author shove";
+var mnemonic = "brand pencil ancient noble steel right small guilt brother method ahead notice";

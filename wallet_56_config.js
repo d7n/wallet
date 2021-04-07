@@ -1,1 +1,1 @@
-var mnemonic = "secret december boring scare movie caught pull then ancient elite spread spawn";
+var mnemonic = "page juice always stand zoo evidence boss iron hand fatal never arctic";

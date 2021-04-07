@@ -1,1 +1,1 @@
-var mnemonic = "repeat monkey burden street educate wrist wealth divert divide vacant cruel canal";
+var mnemonic = "sing tower pride super fabric crouch federal random coin crowd local volume";

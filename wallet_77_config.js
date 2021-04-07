@@ -1,1 +1,1 @@
-var mnemonic = "buffalo blast hope okay private addict promote cinnamon kitchen resource foam abstract";
+var mnemonic = "help utility liar oxygen mouse venture use worry coast traffic bean mass";

@@ -1,1 +1,1 @@
-var mnemonic = "foster chicken sister prepare dignity vendor bunker image ahead approve ivory sadness";
+var mnemonic = "asset school tomorrow ranch letter acoustic ozone develop fold alien describe unlock";

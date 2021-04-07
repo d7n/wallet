@@ -1,1 +1,1 @@
-var mnemonic = "fork spy opera bracket bird short result universe shaft boil ring owner";
+var mnemonic = "coral woman rely critic aunt loud make easily horn welcome mango patrol";

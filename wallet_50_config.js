@@ -1,1 +1,1 @@
-var mnemonic = "coin captain iron quarter noodle reunion flash unfold local hello inquiry antique";
+var mnemonic = "bring sorry lab oblige march enough rack meat defense scheme wool someone";

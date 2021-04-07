@@ -1,1 +1,1 @@
-var mnemonic = "ugly assault keep symptom route trick sell summer sight portion true tomorrow";
+var mnemonic = "often company rescue alone prevent priority decorate margin panda fragile ozone rally";

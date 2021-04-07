@@ -1,1 +1,1 @@
-var mnemonic = "silk circle easily cannon plunge wonder team scan fetch cream snake buyer";
+var mnemonic = "move supreme denial empower patch coil loan crowd someone alien rug relief";

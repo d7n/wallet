@@ -1,1 +1,1 @@
-var mnemonic = "almost rail arrive tuna more firm sibling fee leader priority unhappy submit";
+var mnemonic = "energy issue jeans crumble fortune ketchup transfer obscure piano regular include close";

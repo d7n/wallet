@@ -1,1 +1,1 @@
-var mnemonic = "cannon reduce deer help cook public doctor divide resemble choice major erupt";
+var mnemonic = "viable absent tone kiss burden angle enlist rival admit cheap saddle little";

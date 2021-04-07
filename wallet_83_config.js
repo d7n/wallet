@@ -1,1 +1,1 @@
-var mnemonic = "pipe brand adapt one flag kangaroo sustain sadness twelve river culture mouse";
+var mnemonic = "adjust perfect shiver say foot reflect arch bachelor slot spawn feel federal";

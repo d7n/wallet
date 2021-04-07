@@ -1,1 +1,1 @@
-var mnemonic = "champion shrug bomb retire become find frequent erase cigar coach priority radar";
+var mnemonic = "awesome erosion ice audit apple capital advice column little drip label vocal";

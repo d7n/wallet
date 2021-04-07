@@ -1,1 +1,1 @@
-var mnemonic = "machine rough hand floor squeeze morning obvious employ struggle celery have tree";
+var mnemonic = "anxiety suffer shoulder camp engine sign rookie actor decline broccoli awake hip";

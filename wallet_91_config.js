@@ -1,1 +1,1 @@
-var mnemonic = "skirt zone avocado hard spread box erase autumn purse mansion romance hope";
+var mnemonic = "door car enhance obscure tank budget glove country conduct vault grow fluid";

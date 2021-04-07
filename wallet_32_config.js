@@ -1,1 +1,1 @@
-var mnemonic = "knife trip great million parade assume jungle ill roast state dilemma hurdle";
+var mnemonic = "much omit real harvest marine verb burden begin mutual legend catch chicken";

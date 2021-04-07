@@ -1,1 +1,1 @@
-var mnemonic = "correct obscure calm hedgehog surge wrong shuffle ankle mail front crop keep";
+var mnemonic = "test penalty orbit embody sting replace ice flock case surround reject wrong";

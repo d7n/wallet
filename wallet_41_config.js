@@ -1,1 +1,1 @@
-var mnemonic = "tube siege shine monster oblige embrace leader vessel garbage security profit write";
+var mnemonic = "course extend survey sweet sudden crisp vital sadness drum crop chest outer";

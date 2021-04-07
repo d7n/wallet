@@ -1,1 +1,1 @@
-var mnemonic = "tired middle cook stem search use aware orchard boil umbrella small salmon";
+var mnemonic = "urge soap camera code laptop slice mobile future toe wine spike airport";

@@ -1,1 +1,1 @@
-var mnemonic = "scissors blanket curve cloth draft pepper daring marine abstract minute rocket follow";
+var mnemonic = "poet rug annual buyer decorate wise asset glory nice leg sheriff royal";

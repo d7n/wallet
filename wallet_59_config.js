@@ -1,1 +1,1 @@
-var mnemonic = "target zone seat flock destroy era beach mountain fork action tomato chapter";
+var mnemonic = "earn wear various romance flight reveal puppy credit find design practice symbol";

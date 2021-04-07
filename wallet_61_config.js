@@ -1,1 +1,1 @@
-var mnemonic = "boring genuine isolate promote stuff please club buzz outdoor gasp light whale";
+var mnemonic = "salmon around pink rich pink world pudding dizzy anxiety toilet rug spot";

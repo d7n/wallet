@@ -1,1 +1,1 @@
-var mnemonic = "exhibit little leaf hub wage luxury opinion eager tortoise region evoke equip";
+var mnemonic = "warrior useful toss canvas harvest defy cushion elephant slot custom leaf adult";

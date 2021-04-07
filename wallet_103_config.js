@@ -1,1 +1,1 @@
-var mnemonic = "limit car attract critic famous infant raise trap blind act catalog chat";
+var mnemonic = "glue hold noodle match surge present muffin chronic velvet innocent craft retire";

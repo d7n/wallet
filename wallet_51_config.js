@@ -1,1 +1,1 @@
-var mnemonic = "beach convince series trip satoshi miss buffalo stumble friend imitate fold upon";
+var mnemonic = "dirt axis kit sure scale dirt emotion essence already pledge melt comic";

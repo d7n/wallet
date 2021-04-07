@@ -1,1 +1,1 @@
-var mnemonic = "guide churn airport weasel know surround question split decide sentence fix future";
+var mnemonic = "opinion main border expect neutral runway ugly hurt badge immense mobile first";

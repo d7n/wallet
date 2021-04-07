@@ -1,1 +1,1 @@
-var mnemonic = "bring outdoor woman power moment target gadget sunny orient brass garment alley";
+var mnemonic = "estate love attend nothing sustain candy father regret novel post pistol awake";

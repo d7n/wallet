@@ -1,1 +1,1 @@
-var mnemonic = "cereal tired stadium traffic brisk metal test movie depth social sting anchor";
+var mnemonic = "inner combine twice jump depth coin record about federal item deputy citizen";

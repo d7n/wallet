@@ -1,1 +1,1 @@
-var mnemonic = "pluck breeze hero bonus glow rookie leopard news bird monster rate mom";
+var mnemonic = "talent mad clinic friend circle discover jealous enough crater tail metal give";

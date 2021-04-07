@@ -1,1 +1,1 @@
-var mnemonic = "repair saddle era audit service off during deposit barrel easily cash kitchen";
+var mnemonic = "answer powder ten rally congress apology evolve choose scan near pony chimney";

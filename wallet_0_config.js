@@ -1,1 +1,1 @@
-var mnemonic = "oblige table harvest flame into travel matter sustain blossom short learn master";
+var mnemonic = "burden rug limit melody garlic giraffe disease caught enjoy board spend sketch";

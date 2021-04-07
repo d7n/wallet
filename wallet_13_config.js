@@ -1,1 +1,1 @@
-var mnemonic = "shrimp produce merge inform myth dragon visa floor hand affair upset bronze";
+var mnemonic = "case ghost wet biology ribbon now cry forum turtle champion ill pact";

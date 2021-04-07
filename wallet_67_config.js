@@ -1,1 +1,1 @@
-var mnemonic = "space super save cup witness wrestle dose ugly dismiss hungry pool nest";
+var mnemonic = "culture symbol tuna discover claim knife hurry easily injury pulp unfold bunker";

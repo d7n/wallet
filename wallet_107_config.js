@@ -1,1 +1,1 @@
-var mnemonic = "diet south situate enforce release flower conduct lift image ride suspect element";
+var mnemonic = "edge crystal pony segment renew neck march deer horn lecture power clay";

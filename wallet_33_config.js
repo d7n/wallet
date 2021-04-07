@@ -1,1 +1,1 @@
-var mnemonic = "feature fit erode room clown equip anxiety extend index exit leave catch";
+var mnemonic = "clump wrong depart half scan nominee zebra alcohol square hockey dust finger";

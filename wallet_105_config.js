@@ -1,1 +1,1 @@
-var mnemonic = "slogan lamp oven swear cricket want area embrace mouse hidden heart spice";
+var mnemonic = "result jar nut canal brick good sunset glimpse make universe usage good";

@@ -1,1 +1,1 @@
-var mnemonic = "mask shoot kid spy sail produce pet side rabbit point critic negative";
+var mnemonic = "frost recipe text gain broccoli shadow cart body youth leaf daring enlist";

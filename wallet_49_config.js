@@ -1,1 +1,1 @@
-var mnemonic = "enough tide basket someone grape message child prefer position join educate access";
+var mnemonic = "struggle also tattoo loud penalty purse blanket toilet warrior plug over tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt item auto ribbon exhibit match exist humble raven jewel promote fatal";
+var mnemonic = "muscle episode bullet artwork prevent history together stomach bicycle prize blast donkey";

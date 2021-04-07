@@ -1,1 +1,1 @@
-var mnemonic = "icon metal finger great immune math cook ranch welcome walnut timber nasty";
+var mnemonic = "use sweet vibrant bounce spatial over song era sword local awkward quit";

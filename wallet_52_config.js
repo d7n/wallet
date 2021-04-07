@@ -1,1 +1,1 @@
-var mnemonic = "nut wolf cover parent forget ladder rifle odor review ability unable lava";
+var mnemonic = "arch elbow print negative solid green banner heart tongue entire whale tilt";

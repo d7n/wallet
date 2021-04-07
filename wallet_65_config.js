@@ -1,1 +1,1 @@
-var mnemonic = "curve win verify antique trim receive gun dawn junior vibrant mandate lonely";
+var mnemonic = "wine sample crazy organ upset arctic feature illegal begin stay enrich grain";

@@ -1,1 +1,1 @@
-var mnemonic = "camp snack alley gloom promote web auction help base indicate despair orbit";
+var mnemonic = "arena fit trigger second strike reveal prefer demand unlock differ camp laugh";

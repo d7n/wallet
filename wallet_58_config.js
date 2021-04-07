@@ -1,1 +1,1 @@
-var mnemonic = "random split hero unfair mimic spider lumber expose survey trophy wealth artwork";
+var mnemonic = "pet drill admit ginger brand stand market bargain fence better actual decide";

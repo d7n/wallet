@@ -1,1 +1,1 @@
-var mnemonic = "certain repeat feel sign cattle depart total volcano pumpkin abstract assist broccoli";
+var mnemonic = "dose alone bone rail verify kid short guilt copper cross hungry chalk";
