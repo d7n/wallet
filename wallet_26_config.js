@@ -1,1 +1,1 @@
-var mnemonic = "improve write install catalog prevent tube cute destroy wink holiday cause powder";
+var mnemonic = "plunge rice rib solution rural super pull case inhale load network modify";

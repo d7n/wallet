@@ -1,1 +1,1 @@
-var mnemonic = "drill blind broken slow someone digital horror obtain remind learn craft unit";
+var mnemonic = "interest cover wealth cabin close card castle maid glue loud lab lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "quit range soldier mango faith slush fetch source diary arrange step shield";
+var mnemonic = "mobile clerk fringe sleep often slot palace sibling style cannon forum sword";

@@ -1,1 +1,1 @@
-var mnemonic = "soul scan region dream lonely item agent foster fury parade hat magnet";
+var mnemonic = "drastic fetch summer cloth jewel adapt census risk siege rebel pony total";

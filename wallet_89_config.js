@@ -1,1 +1,1 @@
-var mnemonic = "industry aspect object awkward hobby flavor seat near push total spare dial";
+var mnemonic = "margin example boat scene oak collect lazy child clever blame surprise neither";

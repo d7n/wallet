@@ -1,1 +1,1 @@
-var mnemonic = "unable social use circle erase crop three away scrap plug wrist kid";
+var mnemonic = "alone alpha brother whale used income deer order sponsor nut trap bring";

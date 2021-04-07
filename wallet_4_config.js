@@ -1,1 +1,1 @@
-var mnemonic = "merge later fence deny vague naive share annual project waste remain install";
+var mnemonic = "vacuum kitten clay tourist ship attack gain enough tell typical person lemon";

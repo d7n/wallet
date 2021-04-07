@@ -1,1 +1,1 @@
-var mnemonic = "opinion purse cover advice elbow episode cherry time spray hold aim text";
+var mnemonic = "fault soup moment meadow mix stock saddle glance session dad hand until";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle obey soon foil punch father vicious purse oppose clock vicious cool";
+var mnemonic = "three diesel snap unlock crumble pulse test draft distance rescue half produce";

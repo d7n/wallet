@@ -1,1 +1,1 @@
-var mnemonic = "sponsor brass liberty merit fun jungle crucial bundle flight soldier measure fluid";
+var mnemonic = "market dance screen parent require lonely blame doll cool chicken fancy all";

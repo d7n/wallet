@@ -1,1 +1,1 @@
-var mnemonic = "defense express cotton ecology visual staff nice harvest clap fortune long illegal";
+var mnemonic = "cover sample six ask business pumpkin weekend devote any box film invest";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion pond jealous miss accuse design muffin world track open small magnet";
+var mnemonic = "lonely announce dial voyage imitate wise decorate arrest hood sure imitate daughter";

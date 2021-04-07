@@ -1,1 +1,1 @@
-var mnemonic = "business thank twice mosquito frown vessel brand common pass rotate glass good";
+var mnemonic = "coffee hill leaf pride symptom jungle already stereo hill universe canyon shield";

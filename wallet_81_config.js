@@ -1,1 +1,1 @@
-var mnemonic = "proof unique village bamboo damage october ghost rural cool outer maximum birth";
+var mnemonic = "example correct surround ancient fish vendor area venue direct lamp bundle forest";

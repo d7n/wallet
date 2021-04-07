@@ -1,1 +1,1 @@
-var mnemonic = "key early legend either basket sad path boil suit share resemble also";
+var mnemonic = "guard enroll grape before wealth sun run sport escape paddle coconut wage";

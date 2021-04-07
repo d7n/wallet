@@ -1,1 +1,1 @@
-var mnemonic = "wreck have void snow pluck either vocal decade cream call milk can";
+var mnemonic = "fun rose easily hint loud supreme staff duck child club fall shine";

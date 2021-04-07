@@ -1,1 +1,1 @@
-var mnemonic = "vessel convince neither unlock ribbon move someone morning flame actor zebra weekend";
+var mnemonic = "mansion enable effort draw donate during love cousin degree beyond embody dumb";

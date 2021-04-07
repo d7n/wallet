@@ -1,1 +1,1 @@
-var mnemonic = "arrange evil filter asset sing keep torch soap used melody affair glory";
+var mnemonic = "kingdom claw vintage steak scale human attract believe swear size debris engine";

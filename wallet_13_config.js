@@ -1,1 +1,1 @@
-var mnemonic = "dial kiss way omit marine gym square thrive enough clinic false tray";
+var mnemonic = "cloth stone soft roof genuine aim between summer travel knife basic provide";

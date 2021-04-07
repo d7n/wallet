@@ -1,1 +1,1 @@
-var mnemonic = "online fashion aware file basic tonight infant security super city february make";
+var mnemonic = "empty absorb brick trigger case matrix summer order eternal lady vapor icon";

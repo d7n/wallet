@@ -1,1 +1,1 @@
-var mnemonic = "goddess lend borrow depth noble earn approve sister chicken juice item oblige";
+var mnemonic = "sudden pigeon candy apple enhance ten valid spray dust siren swing quality";

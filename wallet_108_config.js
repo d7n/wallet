@@ -1,1 +1,1 @@
-var mnemonic = "runway satisfy deal tomorrow seven ginger girl play outer smart cube glimpse";
+var mnemonic = "decade wait regular fan tortoise table unveil matter level slim initial ankle";

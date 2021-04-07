@@ -1,1 +1,1 @@
-var mnemonic = "today keep aerobic august sun initial must primary sauce account staff torch";
+var mnemonic = "giraffe strong cross concert invite album carry busy client cotton circle garbage";

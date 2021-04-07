@@ -1,1 +1,1 @@
-var mnemonic = "surprise rack rival blade cricket tide volume fly soap describe vocal interest";
+var mnemonic = "ready renew shuffle verb banana charge among museum lift toss metal plastic";

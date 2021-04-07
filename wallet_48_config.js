@@ -1,1 +1,1 @@
-var mnemonic = "little olive walnut bread circle warrior reopen bitter question stay bus collect";
+var mnemonic = "supply lake music slice ignore lumber truly calm country prosper subject orange";

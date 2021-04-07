@@ -1,1 +1,1 @@
-var mnemonic = "cute valid group trophy common mention mistake ritual outside art alter rapid";
+var mnemonic = "liquid govern enlist film rain crouch fashion satisfy spring camera glue leisure";

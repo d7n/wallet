@@ -1,1 +1,1 @@
-var mnemonic = "today huge ride island atom lesson guilt behave dust inflict twelve chuckle";
+var mnemonic = "female lens sand shed stuff walnut route scout apple slow cloth purse";

@@ -1,1 +1,1 @@
-var mnemonic = "news remember donkey float category sibling code mind oil run mirror work";
+var mnemonic = "birth brick palm smile vanish digital identify bitter maximum circle token quote";

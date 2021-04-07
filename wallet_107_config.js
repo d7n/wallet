@@ -1,1 +1,1 @@
-var mnemonic = "youth wagon oval oval memory control buzz monitor spend adapt bacon airport";
+var mnemonic = "trumpet erase motor card runway fabric sunset kidney gate topple ozone want";

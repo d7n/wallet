@@ -1,1 +1,1 @@
-var mnemonic = "wool match mouse forget luxury squeeze bind warfare midnight labor letter own";
+var mnemonic = "dwarf digital gloom rifle mixture scheme slender water gravity shield soft tornado";

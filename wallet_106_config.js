@@ -1,1 +1,1 @@
-var mnemonic = "sister pen blast palm youth verb analyst pitch grace whale next add";
+var mnemonic = "often coach hurry cannon law plate way sphere quantum horror unique discover";

@@ -1,1 +1,1 @@
-var mnemonic = "inject decorate inhale cost depend rally evidence flat bean tape drill bleak";
+var mnemonic = "glare swamp couple yellow flight afford uncle master frown web electric include";

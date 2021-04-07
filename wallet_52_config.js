@@ -1,1 +1,1 @@
-var mnemonic = "ecology suit bottom daring rookie glow smoke price photo unique other input";
+var mnemonic = "gun august citizen multiply zoo lobster write mad secret sugar obtain radar";

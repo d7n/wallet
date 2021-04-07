@@ -1,1 +1,1 @@
-var mnemonic = "suggest blade search prefer cave affair purse school meadow once shift unaware";
+var mnemonic = "index body kit profit gather since palm tent surge brick genius file";

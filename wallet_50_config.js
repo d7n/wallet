@@ -1,1 +1,1 @@
-var mnemonic = "egg exile gospel accident tuition cart weapon misery door vacant expire panic";
+var mnemonic = "doctor disease ridge media now enable jelly salad skull hard dirt swamp";

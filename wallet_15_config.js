@@ -1,1 +1,1 @@
-var mnemonic = "calm bomb stereo breeze spoon behind arch device inspire drink denial execute";
+var mnemonic = "glare radio table portion desert remember duck nature buffalo quote share position";

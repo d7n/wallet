@@ -1,1 +1,1 @@
-var mnemonic = "birth street erode bitter muscle damage cable guilt dose unhappy light north";
+var mnemonic = "absent supreme menu cradle cry sea lens carbon bicycle device general feel";

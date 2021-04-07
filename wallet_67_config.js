@@ -1,1 +1,1 @@
-var mnemonic = "book fatal nephew dentist core half fall swarm embark bus october letter";
+var mnemonic = "almost seminar keen gospel cream myself toward crater bridge arrest wing deal";

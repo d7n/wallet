@@ -1,1 +1,1 @@
-var mnemonic = "noodle cat blame earth fit grab zero ugly liar banana agree success";
+var mnemonic = "buddy sudden rough century curve decline fashion image castle kiss able seven";

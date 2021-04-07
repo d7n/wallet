@@ -1,1 +1,1 @@
-var mnemonic = "average sibling slender auto family draft harsh impose spoil comic scorpion box";
+var mnemonic = "when rescue census outdoor uniform cram task portion depth catalog hat engine";

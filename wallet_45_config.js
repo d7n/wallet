@@ -1,1 +1,1 @@
-var mnemonic = "detect blur just remember wool have pepper climb blade draft obscure slam";
+var mnemonic = "gadget obvious order ball corn display option wood explain bone turn stable";

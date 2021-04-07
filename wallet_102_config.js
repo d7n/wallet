@@ -1,1 +1,1 @@
-var mnemonic = "resemble square must love announce blame all vanish allow wrap select width";
+var mnemonic = "spot replace impulse clutch tortoise column divorce badge crush coil place ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "behind mirror toast rapid castle lava fame royal discover vessel follow outside";
+var mnemonic = "expire jazz blast clown polar favorite undo vendor tail cart wool session";

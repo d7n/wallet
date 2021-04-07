@@ -1,1 +1,1 @@
-var mnemonic = "select provide win later license load diamond police behave notable gospel ecology";
+var mnemonic = "cabin robot weapon slogan pear rude chief food clown country journey point";

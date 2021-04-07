@@ -1,1 +1,1 @@
-var mnemonic = "call forget assume crew glory bamboo refuse loyal close skirt open must";
+var mnemonic = "together act penalty broccoli vendor crane song agree property conduct unfold iron";

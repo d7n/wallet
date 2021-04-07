@@ -1,1 +1,1 @@
-var mnemonic = "hospital side proud forum medal exchange version oblige illness best speed good";
+var mnemonic = "guide scrub impose siren pupil major tackle melody easy brisk loyal ring";

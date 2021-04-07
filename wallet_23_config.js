@@ -1,1 +1,1 @@
-var mnemonic = "coconut salmon rice mango brush where grid sail bunker small nerve evidence";
+var mnemonic = "nice cycle cruise post reveal custom vault trouble fog affair appear hard";

@@ -1,1 +1,1 @@
-var mnemonic = "cement right coil clump public perfect hundred sauce quarter coyote kitchen result";
+var mnemonic = "horror crop amused rely transfer swift wish make behave panel silly dutch";

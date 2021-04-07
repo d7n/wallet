@@ -1,1 +1,1 @@
-var mnemonic = "industry water ask this lion banner course audit wheel hazard citizen report";
+var mnemonic = "best firm hockey large hello salute album shell gather photo unaware pilot";

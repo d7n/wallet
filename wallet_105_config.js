@@ -1,1 +1,1 @@
-var mnemonic = "used wrestle motion bounce endless ice submit safe culture nerve divert scrap";
+var mnemonic = "toe noble bind option never garage rifle blossom pear orchard sun tone";

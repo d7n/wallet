@@ -1,1 +1,1 @@
-var mnemonic = "similar judge leg brave scale barrel wire gravity topic decrease slide bench";
+var mnemonic = "story shrug employ injury attract wash hungry seminar ten horn later love";

@@ -1,1 +1,1 @@
-var mnemonic = "fat uniform stand use element slender favorite luxury exclude reform cinnamon wire";
+var mnemonic = "car market rural main unveil pause aspect upon first below rifle rebuild";

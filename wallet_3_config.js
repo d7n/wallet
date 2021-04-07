@@ -1,1 +1,1 @@
-var mnemonic = "castle team magic raw renew cage erode vehicle economy answer suffer father";
+var mnemonic = "toward raccoon width exhaust yellow art lab glad donkey vibrant fashion reform";

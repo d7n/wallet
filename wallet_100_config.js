@@ -1,1 +1,1 @@
-var mnemonic = "combine tone quantum almost pair tortoise tell athlete connect loyal vivid dizzy";
+var mnemonic = "decide method garment price alley river vintage cave vibrant sting odor glare";

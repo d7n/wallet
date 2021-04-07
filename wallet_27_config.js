@@ -1,1 +1,1 @@
-var mnemonic = "donate honey pudding give roast build pottery observe solar common frequent barrel";
+var mnemonic = "gas crime decide ask cram ready climb hub inherit custom rent sibling";

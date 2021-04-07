@@ -1,1 +1,1 @@
-var mnemonic = "magnet chimney erosion economy need antenna bar record area degree zoo local";
+var mnemonic = "foam tragic service myth soda inside couple antenna team start razor another";

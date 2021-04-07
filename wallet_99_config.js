@@ -1,1 +1,1 @@
-var mnemonic = "chief please boost trade huge turtle step mail second inmate laptop move";
+var mnemonic = "inmate affair indoor ginger lens exercise sniff harvest curtain exchange shiver wink";

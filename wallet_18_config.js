@@ -1,1 +1,1 @@
-var mnemonic = "pledge extend source furnace spare sail bunker convince current narrow shell inform";
+var mnemonic = "unaware license noodle oak welcome entry doll oven local receive push choice";

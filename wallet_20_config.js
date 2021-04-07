@@ -1,1 +1,1 @@
-var mnemonic = "hundred all buyer senior gown hard dirt hidden sure ill shine stadium";
+var mnemonic = "clock surge appear picnic crystal island vocal tag nerve lake rapid affair";

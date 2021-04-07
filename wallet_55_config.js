@@ -1,1 +1,1 @@
-var mnemonic = "elite camera crunch again boat gold memory gate panda quiz sadness clock";
+var mnemonic = "also skate obey grunt embark solid scorpion resist resist immune gloom squeeze";

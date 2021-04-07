@@ -1,1 +1,1 @@
-var mnemonic = "door prefer sorry grape drill twice merry excite tragic code scatter table";
+var mnemonic = "sport endorse drill noble draft sort coin size sister select anchor mushroom";

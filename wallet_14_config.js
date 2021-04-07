@@ -1,1 +1,1 @@
-var mnemonic = "heart awesome team satoshi gasp federal actor orbit trophy local exile island";
+var mnemonic = "agree palace stem illness kick valid simple give sense elite forest ice";

@@ -1,1 +1,1 @@
-var mnemonic = "coast broccoli erupt elbow exist hotel light hat pupil rate school pottery";
+var mnemonic = "tiger evidence talent offer solid armor velvet annual build theory slush cabbage";

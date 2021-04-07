@@ -1,1 +1,1 @@
-var mnemonic = "frog index lucky boy pipe best drink rifle robust game hood slim";
+var mnemonic = "tag stamp process surprise battle swing wage orbit foot fiber loyal shadow";

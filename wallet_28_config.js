@@ -1,1 +1,1 @@
-var mnemonic = "school divide right century solution combine language farm stereo submit van drive";
+var mnemonic = "reason field october quality remember scheme borrow toilet couple naive pulp lunar";

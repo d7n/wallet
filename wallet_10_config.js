@@ -1,1 +1,1 @@
-var mnemonic = "apple sponsor oven peanut digital combine seven zebra shiver permit domain song";
+var mnemonic = "response cancel ensure crush coconut nature purity wheat panther today soldier sphere";

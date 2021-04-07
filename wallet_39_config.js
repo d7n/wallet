@@ -1,1 +1,1 @@
-var mnemonic = "puppy worry coyote pride man remind inspire family fashion belt shadow often";
+var mnemonic = "prevent cannon frown receive envelope wink tissue mammal employ shaft light industry";

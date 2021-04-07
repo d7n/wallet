@@ -1,1 +1,1 @@
-var mnemonic = "believe uniform page bundle analyst forget leader image arrow giant spoon pull";
+var mnemonic = "favorite pelican blast code unable lawsuit sword moon rack noodle crunch neglect";

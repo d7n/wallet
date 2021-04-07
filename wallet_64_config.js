@@ -1,1 +1,1 @@
-var mnemonic = "depart domain myth few tomorrow sausage inch degree narrow van grace pretty";
+var mnemonic = "glove pass ramp position left opera verify member cover case scissors sibling";

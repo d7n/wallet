@@ -1,1 +1,1 @@
-var mnemonic = "cash minimum garlic flee mosquito solution car average six time essay face";
+var mnemonic = "travel pole strike bread relief elder increase pluck clog album split sauce";

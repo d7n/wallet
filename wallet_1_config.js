@@ -1,1 +1,1 @@
-var mnemonic = "scatter require raw people trade tragic pledge garbage time renew canvas illness";
+var mnemonic = "romance whale offer arrest warm fiscal quantum bounce rough reject glide robot";

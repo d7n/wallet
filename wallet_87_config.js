@@ -1,1 +1,1 @@
-var mnemonic = "yellow stage wheel sudden breeze fitness inhale dial blanket eagle wave issue";
+var mnemonic = "ugly puzzle guilt mean purpose movie donor rib skirt wrist select release";

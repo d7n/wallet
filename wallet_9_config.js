@@ -1,1 +1,1 @@
-var mnemonic = "local quantum gentle rifle firm prosper north goose employ globe energy dilemma";
+var mnemonic = "scorpion ginger sting decrease crisp tumble region history train sure mixed toddler";

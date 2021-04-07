@@ -1,1 +1,1 @@
-var mnemonic = "legend frame method video eagle brick door talent fold lock diagram rebuild";
+var mnemonic = "tonight luggage refuse term film satisfy obtain ball rhythm shove infant quarter";

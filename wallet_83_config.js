@@ -1,1 +1,1 @@
-var mnemonic = "cause monster ten series awful sustain acoustic lawn cheap blur piano still";
+var mnemonic = "wasp flag corn just spider social shift enter marine pipe inner spatial";

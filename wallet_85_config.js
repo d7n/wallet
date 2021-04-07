@@ -1,1 +1,1 @@
-var mnemonic = "venture project beyond salon account pool deposit kick common bronze deny laptop";
+var mnemonic = "share board gesture festival face answer output bicycle oblige giggle weasel turtle";

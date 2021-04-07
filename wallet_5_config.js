@@ -1,1 +1,1 @@
-var mnemonic = "december admit budget canal private glow unable famous skate blade volume this";
+var mnemonic = "ghost upper clean describe goddess flag swing real crack first check ship";

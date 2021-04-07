@@ -1,1 +1,1 @@
-var mnemonic = "muscle trust ignore grant entry velvet clutch slide husband dad cross tiny";
+var mnemonic = "brother eternal cradle bench afraid grace will erase spike hollow aspect figure";

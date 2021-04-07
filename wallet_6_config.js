@@ -1,1 +1,1 @@
-var mnemonic = "flame nothing smooth hub patrol breeze teach sure face dove denial trash";
+var mnemonic = "flat snack tackle broom country believe load guide lady turn city resource";

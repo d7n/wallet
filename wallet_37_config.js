@@ -1,1 +1,1 @@
-var mnemonic = "silk good snow junior slide athlete canal cereal giant mouse merry rule";
+var mnemonic = "inject point miss element flock derive left mistake couple motor race private";

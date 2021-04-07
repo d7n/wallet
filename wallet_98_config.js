@@ -1,1 +1,1 @@
-var mnemonic = "unaware document minimum absurd police daughter salmon orient vacuum invest convince bunker";
+var mnemonic = "equal grace another invest cactus wheat average fury labor float hundred drum";

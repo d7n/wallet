@@ -1,1 +1,1 @@
-var mnemonic = "poem century mosquito club arrow give narrow picture fat brand matrix inhale";
+var mnemonic = "fun episode vintage renew easily mirror analyst vapor twelve voyage peace fury";

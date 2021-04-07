@@ -1,1 +1,1 @@
-var mnemonic = "produce foster decide snap clutch bind envelope predict blur chicken garlic nature";
+var mnemonic = "deliver embrace shift current approve tongue brief error boy art outside clock";

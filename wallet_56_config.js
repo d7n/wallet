@@ -1,1 +1,1 @@
-var mnemonic = "grant pool cave try engage off various album state picnic armed sheriff";
+var mnemonic = "typical cricket tag analyst sing nature escape since nation calm wedding since";

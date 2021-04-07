@@ -1,1 +1,1 @@
-var mnemonic = "penalty easy clever cradle wrist rebuild boost potato oyster error camera middle";
+var mnemonic = "sun glare hidden around post inner solar equip nominee casual upgrade elite";

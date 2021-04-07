@@ -1,1 +1,1 @@
-var mnemonic = "heavy flag budget party soft candy truck agree desk involve ensure wait";
+var mnemonic = "basket wine whale forget slide drip slight bring old assault circle cool";
