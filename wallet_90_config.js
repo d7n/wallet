@@ -1,1 +1,1 @@
-var mnemonic = "doctor since someone pool leg enlist design appear suit horse clerk hour";
+var mnemonic = "horror erosion high goat connect equal wreck equal true damp must step";

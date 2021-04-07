@@ -1,1 +1,1 @@
-var mnemonic = "curve rude rather beyond promote double struggle recall long summer avocado object";
+var mnemonic = "patch chat sun frequent sell mind prison snap space rather size exercise";

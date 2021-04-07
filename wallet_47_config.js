@@ -1,1 +1,1 @@
-var mnemonic = "insect smile enrich gown observe unaware hello path chest time camera subject";
+var mnemonic = "veteran phone middle civil certain long bright deny lava world project furnace";

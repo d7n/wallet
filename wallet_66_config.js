@@ -1,1 +1,1 @@
-var mnemonic = "library defense slot forest tomato junior foster summer attack chef shoulder goat";
+var mnemonic = "sister teach embody repeat board recycle wrist chapter slam demand biology cart";

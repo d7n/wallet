@@ -1,1 +1,1 @@
-var mnemonic = "token abstract pilot act vapor blade echo reform viable tray smoke wet";
+var mnemonic = "appear swift chat inherit smile cloth frequent orphan piece arrest elder source";

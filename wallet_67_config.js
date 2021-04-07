@@ -1,1 +1,1 @@
-var mnemonic = "valley pave edge vacant enforce image wing rate dirt join team plate";
+var mnemonic = "pumpkin gather letter tag wasp volcano rely direct asset desert harbor two";

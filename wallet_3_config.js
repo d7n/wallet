@@ -1,1 +1,1 @@
-var mnemonic = "omit cake again describe scheme cliff army quantum fold invest typical fiber";
+var mnemonic = "toward sheriff simple initial mad virus reunion hundred birth position artist mail";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome track together shuffle excite army vocal reason expose labor sustain awake";
+var mnemonic = "skill pool equip crime spring capital food embark tackle shiver lizard winter";

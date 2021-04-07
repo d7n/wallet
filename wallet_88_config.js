@@ -1,1 +1,1 @@
-var mnemonic = "satoshi deer refuse injury supreme cheese scale trigger powder such slice inspire";
+var mnemonic = "palm rain pig shrug rule bring recycle ancient outside dirt suit risk";

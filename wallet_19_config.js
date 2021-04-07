@@ -1,1 +1,1 @@
-var mnemonic = "usual couch fiction amazing extra wolf frequent swim cannon woman hidden effort";
+var mnemonic = "jump utility explain obvious indoor coil boy baby maple then maid wide";

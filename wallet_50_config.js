@@ -1,1 +1,1 @@
-var mnemonic = "crisp hobby grant grow february normal atom scare then grain faint love";
+var mnemonic = "cup wink relief story van learn forum inform above deposit okay dragon";

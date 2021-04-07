@@ -1,1 +1,1 @@
-var mnemonic = "ten wealth blush debris crime broken nature flash mercy fox embark super";
+var mnemonic = "speed ankle concert type border olive frozen steel panda slush monster calm";

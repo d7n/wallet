@@ -1,1 +1,1 @@
-var mnemonic = "usual atom kind warfare parade genre series airport scare melody position under";
+var mnemonic = "thank sound harsh hub credit glide level bundle pond powder hand mango";

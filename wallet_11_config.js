@@ -1,1 +1,1 @@
-var mnemonic = "mixed monitor express cool release lumber region vicious rally ensure canvas parade";
+var mnemonic = "steel shield symbol rail dizzy advance pyramid curve measure tired noise tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "credit sentence cabin volcano narrow lunch peasant cactus tree method trophy senior";
+var mnemonic = "rhythm deposit flip shove topic voice buyer warrior claim trash fame lottery";

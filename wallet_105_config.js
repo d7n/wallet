@@ -1,1 +1,1 @@
-var mnemonic = "clever casino cram biology surge burden enjoy odor skate cross shrimp fresh";
+var mnemonic = "drink trash sphere pact pledge figure boost guard paper demand patch art";

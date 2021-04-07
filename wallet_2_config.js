@@ -1,1 +1,1 @@
-var mnemonic = "pull suggest enjoy excite tiny deliver advice smoke bridge renew spot fetch";
+var mnemonic = "deliver ripple exercise target uncle fetch collect choice track element hold boy";

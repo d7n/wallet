@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cluster place oak travel reason become captain picture eager burst acoustic";
+var mnemonic = "power bargain six sea window parent version stick resemble lazy unfair wreck";

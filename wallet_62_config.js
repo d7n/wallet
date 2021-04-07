@@ -1,1 +1,1 @@
-var mnemonic = "coil garage wave decade cabbage target palm inhale before valve add police";
+var mnemonic = "caution lion traffic finger scissors ball rifle curve please damage morning marriage";

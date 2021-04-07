@@ -1,1 +1,1 @@
-var mnemonic = "strong pretty topple alcohol school text arena cricket odor surface violin chat";
+var mnemonic = "decrease hockey guard vacuum remember neutral wink lumber source snow spring citizen";

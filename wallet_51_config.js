@@ -1,1 +1,1 @@
-var mnemonic = "system inherit seven hello age rain hedgehog push person jar track blur";
+var mnemonic = "wasp frown drive borrow gain risk video sun west habit vintage close";

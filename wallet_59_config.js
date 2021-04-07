@@ -1,1 +1,1 @@
-var mnemonic = "icon ugly clarify ship conduct whip rocket scrub mosquito bachelor weekend boy";
+var mnemonic = "monster drink cruise wrestle this fetch rain ticket topic common recall poverty";

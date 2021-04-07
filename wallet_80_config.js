@@ -1,1 +1,1 @@
-var mnemonic = "enter blue sentence code lecture toy bacon fat trim second entire kitchen";
+var mnemonic = "wealth payment weekend lock wear game kind girl peasant guide sight tape";

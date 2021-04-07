@@ -1,1 +1,1 @@
-var mnemonic = "undo gift method sing rebuild buyer dragon rotate average enter segment one";
+var mnemonic = "item tornado drift broom security butter dream ankle elite table dismiss night";

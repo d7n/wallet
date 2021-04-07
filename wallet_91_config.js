@@ -1,1 +1,1 @@
-var mnemonic = "clerk castle lesson anxiety latin parrot shrug try busy stamp ribbon void";
+var mnemonic = "fatal finish slender seminar any town nominee paddle regular avoid subway asthma";

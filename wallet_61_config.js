@@ -1,1 +1,1 @@
-var mnemonic = "what sure access annual forum father cherry entry blur lyrics excite antenna";
+var mnemonic = "fork weird interest pipe review often rain sign circle consider yard vibrant";

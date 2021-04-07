@@ -1,1 +1,1 @@
-var mnemonic = "mixture hen detect uncover tongue neck garage agent shell rare make tray";
+var mnemonic = "write shadow front flush genre goose naive nurse analyst ship diary world";

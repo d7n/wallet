@@ -1,1 +1,1 @@
-var mnemonic = "avoid scan abandon sentence decorate curtain fox lucky demand allow logic inch";
+var mnemonic = "nature unaware fresh west judge ivory social abandon rally rely boss casino";

@@ -1,1 +1,1 @@
-var mnemonic = "theory maximum sort match acid match jump anxiety clay elbow burden twin";
+var mnemonic = "bronze goddess demise seven valid fly credit rule cool unusual train shock";

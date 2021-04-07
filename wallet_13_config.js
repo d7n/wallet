@@ -1,1 +1,1 @@
-var mnemonic = "fade grape lift boring color engine retire ranch rough purse spoil genius";
+var mnemonic = "charge fluid identify green story theme ankle inch six file diesel galaxy";

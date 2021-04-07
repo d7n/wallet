@@ -1,1 +1,1 @@
-var mnemonic = "end term rude tooth picture push amateur grant corn truth congress erupt";
+var mnemonic = "drink jazz frog swap nephew fly keep shell trap curve reform card";

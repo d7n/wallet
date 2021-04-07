@@ -1,1 +1,1 @@
-var mnemonic = "random three parade mango tilt dog fuel violin robot reunion alert carbon";
+var mnemonic = "cycle evolve audit gather engage annual miss exist family uphold until actual";

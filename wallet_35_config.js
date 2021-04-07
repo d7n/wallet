@@ -1,1 +1,1 @@
-var mnemonic = "region satisfy evoke whisper sniff corn once glove dash velvet timber coffee";
+var mnemonic = "sketch fetch neck gap when various amused ladder clip cage salon coyote";

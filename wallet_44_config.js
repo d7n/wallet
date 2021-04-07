@@ -1,1 +1,1 @@
-var mnemonic = "boy frost december expect joke field hungry beyond people snow mail tape";
+var mnemonic = "eager tray birth believe say imitate lend harsh cluster bubble hobby industry";

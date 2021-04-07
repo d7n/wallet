@@ -1,1 +1,1 @@
-var mnemonic = "lyrics alarm before all abstract super eagle arena meadow priority custom glove";
+var mnemonic = "fork hotel expect napkin digital vacant slam this verify canyon upgrade bone";

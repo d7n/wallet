@@ -1,1 +1,1 @@
-var mnemonic = "nice casual lemon thumb beyond random other dash slight effort tattoo over";
+var mnemonic = "kangaroo truly wine fold cube slender pride federal hobby gadget weather sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "address achieve crew hundred offer ice perfect deposit best bachelor bullet hidden";
+var mnemonic = "include core make hedgehog pretty car pumpkin industry boat forget process chaos";

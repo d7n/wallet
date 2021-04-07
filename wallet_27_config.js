@@ -1,1 +1,1 @@
-var mnemonic = "garment youth clutch pole river engine milk advance traffic tortoise buffalo wolf";
+var mnemonic = "pudding devote horror such bottom west half road turn poem corn butter";

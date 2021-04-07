@@ -1,1 +1,1 @@
-var mnemonic = "manage era rug bar piece hybrid silk word salad version clock security";
+var mnemonic = "soft cross effort invest amateur unfold area camp attend random case hidden";

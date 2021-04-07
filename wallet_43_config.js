@@ -1,1 +1,1 @@
-var mnemonic = "again require legend grass soft enhance solve blue check sudden police file";
+var mnemonic = "edit waste have gold rookie ghost unveil course balance rack toe human";

@@ -1,1 +1,1 @@
-var mnemonic = "embark unique tool flip recipe sustain good concert enjoy junior purchase stomach";
+var mnemonic = "nothing miss tongue unusual tobacco loop liquid throw media cook distance weekend";

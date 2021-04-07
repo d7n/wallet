@@ -1,1 +1,1 @@
-var mnemonic = "tilt exist remind wheel remember charge quick frost jewel illness address jungle";
+var mnemonic = "crop network grace trigger cry token brain arena tongue vacuum deputy pulse";

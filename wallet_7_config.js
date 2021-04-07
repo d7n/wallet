@@ -1,1 +1,1 @@
-var mnemonic = "laugh cream liberty add soccer yellow measure album protect party moment panic";
+var mnemonic = "guide inherit frog economy disagree boy evolve tenant then clever heavy time";

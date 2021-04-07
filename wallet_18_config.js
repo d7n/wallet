@@ -1,1 +1,1 @@
-var mnemonic = "foam vintage shrimp code try hidden table again riot butter sting tuna";
+var mnemonic = "angle birth pull still segment coffee hub often size crater hamster debris";

@@ -1,1 +1,1 @@
-var mnemonic = "domain nasty fluid identify tone romance dumb accuse cherry drum labor decade";
+var mnemonic = "forest wheel science cloud only universe detail subject error film barrel fat";

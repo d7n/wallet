@@ -1,1 +1,1 @@
-var mnemonic = "learn puppy juice sketch code develop tribe unable broken render cabbage auction";
+var mnemonic = "fortune april entry draft popular educate either odor trick surge nose slice";

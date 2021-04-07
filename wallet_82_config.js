@@ -1,1 +1,1 @@
-var mnemonic = "barrel hover scout law switch process gauge amused forum lumber warrior test";
+var mnemonic = "glide scissors worth neck curve impact window come involve man fabric become";

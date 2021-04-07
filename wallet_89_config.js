@@ -1,1 +1,1 @@
-var mnemonic = "question pass shiver front raw fine scrap crisp leaf peasant zone noise";
+var mnemonic = "someone cable blanket record furnace sail decorate attend picture wine pair scissors";

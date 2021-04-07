@@ -1,1 +1,1 @@
-var mnemonic = "raise please obscure sail arrest bamboo talk mushroom chunk winter isolate earth";
+var mnemonic = "shoe decade design deal term artefact hard ahead more fix mushroom swallow";

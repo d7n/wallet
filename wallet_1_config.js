@@ -1,1 +1,1 @@
-var mnemonic = "tunnel useful already common blur member job foam device relax box define";
+var mnemonic = "beef mystery maze nice into host salad dutch foster skull brave cool";

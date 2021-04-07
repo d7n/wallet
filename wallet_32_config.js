@@ -1,1 +1,1 @@
-var mnemonic = "nurse toe frame act outside glory license rebel later coil pill couple";
+var mnemonic = "attitude foot upper sudden yellow valley saddle surprise dismiss crisp limit cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "museum shadow enemy thing kangaroo bomb clap unable copper polar finish book";
+var mnemonic = "sock scrub rival scrap inject reduce vital lecture lava end bicycle wool";

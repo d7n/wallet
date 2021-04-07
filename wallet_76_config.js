@@ -1,1 +1,1 @@
-var mnemonic = "behind toss bicycle engage average minute ski correct dragon tuition system reject";
+var mnemonic = "embrace today deer express loop smile quiz bullet virus enlist there aerobic";

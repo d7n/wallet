@@ -1,1 +1,1 @@
-var mnemonic = "episode door permit general agree ceiling trial alien brisk shield impact autumn";
+var mnemonic = "need squirrel ranch device afraid future project smile forward tonight order pave";

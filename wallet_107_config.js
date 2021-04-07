@@ -1,1 +1,1 @@
-var mnemonic = "flight position senior evidence rice screen forget require evolve wrestle little clown";
+var mnemonic = "mansion assist current camera vehicle village snow random produce nurse rival beyond";

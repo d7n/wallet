@@ -1,1 +1,1 @@
-var mnemonic = "distance safe jar crash soon repeat bridge cancel uphold promote come decide";
+var mnemonic = "found organ clog juice health habit loop bulb bar forward yellow often";

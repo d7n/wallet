@@ -1,1 +1,1 @@
-var mnemonic = "range exhaust moral rug item unique coconut inject gossip observe fit document";
+var mnemonic = "will gloom autumn desk matrix chronic opinion unaware reason review nature possible";

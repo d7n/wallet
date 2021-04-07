@@ -1,1 +1,1 @@
-var mnemonic = "autumn tobacco drop wife private defy exile daring exit famous tiny hybrid";
+var mnemonic = "tissue way roof spell milk regret attract cotton spot napkin output already";

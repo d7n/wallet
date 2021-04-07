@@ -1,1 +1,1 @@
-var mnemonic = "tilt explain draw depend combine bronze embody rapid viable differ token title";
+var mnemonic = "earn lyrics kiwi broom ready upon account inch social like match upon";

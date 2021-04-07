@@ -1,1 +1,1 @@
-var mnemonic = "guide pilot idle survey soft art trip flag umbrella ceiling same hurdle";
+var mnemonic = "glance latin wine finish resource insect capital someone rich access wisdom monster";

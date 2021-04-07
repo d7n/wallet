@@ -1,1 +1,1 @@
-var mnemonic = "faculty inform canvas frog taste dove mention danger fluid topic choice crunch";
+var mnemonic = "seed screen jelly quarter casino answer energy boy employ program despair child";

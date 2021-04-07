@@ -1,1 +1,1 @@
-var mnemonic = "learn churn note find brave buyer staff crash broccoli kitten able corn";
+var mnemonic = "loud mesh close dry slam season hen find fine radar distance laptop";

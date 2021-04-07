@@ -1,1 +1,1 @@
-var mnemonic = "script essay curious nature better hood someone alpha receive please chest awful";
+var mnemonic = "practice lock debate veteran report sustain agent flip junior ski local brown";

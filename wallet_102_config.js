@@ -1,1 +1,1 @@
-var mnemonic = "tragic sound banner gym wrestle this sound broccoli scout robust rhythm recipe";
+var mnemonic = "differ future imitate enemy earth give online symbol spoon only ski busy";

@@ -1,1 +1,1 @@
-var mnemonic = "inch tiny bridge desert oven laugh cotton another sand trumpet guitar club";
+var mnemonic = "dune dragon betray capital night eight romance pattern find inject language forget";

@@ -1,1 +1,1 @@
-var mnemonic = "interest legend message danger source crop echo carbon exotic leaf wrist cool";
+var mnemonic = "ridge harvest aim panic rubber seed purchase hidden coral rate liberty umbrella";

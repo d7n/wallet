@@ -1,1 +1,1 @@
-var mnemonic = "remind sadness output giggle similar amazing curious employ february rice bridge setup";
+var mnemonic = "sudden enjoy fruit shy elite when connect team cattle punch canal regular";

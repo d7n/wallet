@@ -1,1 +1,1 @@
-var mnemonic = "enemy long end put rare mom cave tortoise garden smile onion deputy";
+var mnemonic = "glimpse bitter verify whale radar urban wine cube photo ship toe diesel";

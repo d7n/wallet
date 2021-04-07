@@ -1,1 +1,1 @@
-var mnemonic = "adjust hidden page antique attract bind win behave bar crazy plunge inflict";
+var mnemonic = "year squirrel eyebrow quick chair escape fan rug robust maze energy few";

@@ -1,1 +1,1 @@
-var mnemonic = "garden drastic route build hen gym fat bright expand artefact welcome check";
+var mnemonic = "kid forget rack wasp setup stone scrub crew monkey garbage visa receive";

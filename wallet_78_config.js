@@ -1,1 +1,1 @@
-var mnemonic = "chalk decorate rug betray shock night forest zone slim friend panda panther";
+var mnemonic = "deputy middle fog warfare ocean finger walnut trim butter term order horror";

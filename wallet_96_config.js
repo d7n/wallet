@@ -1,1 +1,1 @@
-var mnemonic = "poet isolate post better mixture script rescue first pond left gossip damp";
+var mnemonic = "ripple drum shed reform banner syrup vintage rate fossil post left artwork";

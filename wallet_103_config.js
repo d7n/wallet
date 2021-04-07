@@ -1,1 +1,1 @@
-var mnemonic = "shaft wool humor split long cloud cry carpet weasel guilt rescue actor";
+var mnemonic = "grow enter wise ball wool tomorrow rubber fitness shiver negative dolphin foam";

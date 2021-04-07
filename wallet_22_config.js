@@ -1,1 +1,1 @@
-var mnemonic = "cube remind profit copy item horn wedding change hood state west birth";
+var mnemonic = "predict giggle hawk load improve kid wealth curve fog hello truck pride";

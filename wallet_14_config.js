@@ -1,1 +1,1 @@
-var mnemonic = "object owner topple ethics speak indoor twin senior seek evidence copy sad";
+var mnemonic = "rain truck arrive blue another protect grocery lazy photo clever globe tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "nice timber waste beyond diamond filter gauge skull age switch goat nephew";
+var mnemonic = "sea humor review father buzz jealous receive fashion pony robot tower easy";

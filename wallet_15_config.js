@@ -1,1 +1,1 @@
-var mnemonic = "apart enjoy property depend change buzz brush slender speed fence ancient teach";
+var mnemonic = "screen spell laundry pledge arch raccoon rate glove adjust anxiety bag fat";

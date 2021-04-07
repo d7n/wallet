@@ -1,1 +1,1 @@
-var mnemonic = "crack way actress ocean balance crunch draw chalk cry pottery vivid rib";
+var mnemonic = "sad body during naive round climb analyst guitar caught squeeze lizard diary";

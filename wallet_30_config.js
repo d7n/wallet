@@ -1,1 +1,1 @@
-var mnemonic = "deer view kidney remind oval enact asset region youth baby alpha hundred";
+var mnemonic = "clown chief split height beach state choice film harvest nature syrup slam";

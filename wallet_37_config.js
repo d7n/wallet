@@ -1,1 +1,1 @@
-var mnemonic = "west approve proud ivory purity length govern interest army hero pipe addict";
+var mnemonic = "brush also peasant achieve life lock churn enable gift air wisdom light";

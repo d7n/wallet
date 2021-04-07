@@ -1,1 +1,1 @@
-var mnemonic = "sign horror narrow ill talk legal wise wire brain smile wife pony";
+var mnemonic = "allow hover prevent chaos private boss voice below live project great eyebrow";

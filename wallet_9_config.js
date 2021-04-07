@@ -1,1 +1,1 @@
-var mnemonic = "minute fade detail tank wall dutch evoke useless indicate property crucial smart";
+var mnemonic = "envelope daughter country neither forget sunny work farm resist peace exhaust inquiry";

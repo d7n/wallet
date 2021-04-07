@@ -1,1 +1,1 @@
-var mnemonic = "cheese reflect purchase clever very attack candy carry future isolate between lemon";
+var mnemonic = "taxi stand wild hollow box town caught art people frequent badge document";

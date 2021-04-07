@@ -1,1 +1,1 @@
-var mnemonic = "case hurry dish worth pair tray cause excess pond claim damp theme";
+var mnemonic = "speak forum radio shallow post bunker gloom measure include season tilt chunk";

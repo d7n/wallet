@@ -1,1 +1,1 @@
-var mnemonic = "soda frequent arm trouble man divorce shaft property accident dry canoe slogan";
+var mnemonic = "beach marble bid domain world jewel bargain lady finish field screen tree";

@@ -1,1 +1,1 @@
-var mnemonic = "keen chronic crane inhale actual chat range season arch web good six";
+var mnemonic = "twenty empower steak faint clarify guide vehicle hub latin unusual inform fortune";

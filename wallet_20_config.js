@@ -1,1 +1,1 @@
-var mnemonic = "odor program night usage fix update render sphere occur unaware kind gown";
+var mnemonic = "capital night elder gaze ticket limb salt tell trouble tiny vanish sibling";

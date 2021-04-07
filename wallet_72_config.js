@@ -1,1 +1,1 @@
-var mnemonic = "have melt hobby offer chunk jump swear decrease robot clutch cloth cheese";
+var mnemonic = "broccoli bronze fee satoshi rocket garlic chaos oil gym fork sight dish";

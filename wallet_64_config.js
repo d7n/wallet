@@ -1,1 +1,1 @@
-var mnemonic = "crime park neither december unfair mammal hedgehog artefact guilt team buyer satoshi";
+var mnemonic = "shiver tag vapor zebra satoshi great educate they wage sister secret slide";

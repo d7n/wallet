@@ -1,1 +1,1 @@
-var mnemonic = "camera poet pattern skin tattoo hobby fee pride wrong guide gain trade";
+var mnemonic = "winter frost wolf jelly draft inch cart useful music say history proud";

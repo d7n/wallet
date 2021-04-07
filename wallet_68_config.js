@@ -1,1 +1,1 @@
-var mnemonic = "utility leave erase company meat poet exchange kidney inject spare token timber";
+var mnemonic = "stove arrange deny throw steak emerge future prefer hawk cabbage toward country";

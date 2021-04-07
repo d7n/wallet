@@ -1,1 +1,1 @@
-var mnemonic = "zebra dice quarter current blame senior stem reject whale topple era win";
+var mnemonic = "regret used slice pistol general property remember road funny swift cream phone";

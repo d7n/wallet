@@ -1,1 +1,1 @@
-var mnemonic = "funny sure uncover super emotion apple scrap teach before advice stone gallery";
+var mnemonic = "toe head hand demand young human soul medal shuffle slot exit slab";

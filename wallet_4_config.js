@@ -1,1 +1,1 @@
-var mnemonic = "bicycle accuse siren fox dress reason essence pepper feel print pulp case";
+var mnemonic = "sing chief hurry alcohol hammer concert goat biology shallow tennis rack ready";

@@ -1,1 +1,1 @@
-var mnemonic = "someone life escape toss manage monitor bring slot save trial palm emerge";
+var mnemonic = "chaos car advance marble original toy bleak alert erupt easy also denial";

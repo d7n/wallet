@@ -1,1 +1,1 @@
-var mnemonic = "girl enforce execute opera cattle fragile abuse season canvas unfold friend sausage";
+var mnemonic = "cactus pottery excite scorpion script loud piece student worth mansion unable enjoy";

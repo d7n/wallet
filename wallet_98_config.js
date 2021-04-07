@@ -1,1 +1,1 @@
-var mnemonic = "rival repeat rubber luggage ball protect rack drama column beach relief penalty";
+var mnemonic = "flower steel stuff immune gas fetch seek position region mix genius shrug";
