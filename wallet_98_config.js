@@ -1,1 +1,1 @@
-var mnemonic = "ahead nasty dinosaur decline grief swallow domain strong evoke pattern cereal way";
+var mnemonic = "cause lawn possible gate tobacco cement assist grant doctor approve empower grit";

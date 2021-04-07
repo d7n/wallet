@@ -1,1 +1,1 @@
-var mnemonic = "refuse slam yard soft sketch pig scan fantasy drill public decline time";
+var mnemonic = "core spring snow taxi person royal tag girl orphan core mind toward";

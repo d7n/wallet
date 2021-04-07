@@ -1,1 +1,1 @@
-var mnemonic = "filter hip setup hood adjust swallow problem category planet visa random online";
+var mnemonic = "toilet benefit barrel plastic trouble athlete surface found spring phrase ready popular";

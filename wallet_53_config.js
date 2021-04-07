@@ -1,1 +1,1 @@
-var mnemonic = "test toilet mix always repeat nation manual drift wild jump milk planet";
+var mnemonic = "angry wet victory beef palm edge jeans spice abandon reopen lobster cabin";

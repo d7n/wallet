@@ -1,1 +1,1 @@
-var mnemonic = "mixture direct burden regret spin salon supreme feel sting maze engage solve";
+var mnemonic = "pledge kitchen toilet hotel crisp mango turkey symptom similar bullet boring hockey";

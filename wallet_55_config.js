@@ -1,1 +1,1 @@
-var mnemonic = "spirit situate voice tube dilemma initial magic educate present thumb motor wash";
+var mnemonic = "crumble barely ten that bamboo capable bright mail deliver keep please three";

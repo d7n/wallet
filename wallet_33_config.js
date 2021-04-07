@@ -1,1 +1,1 @@
-var mnemonic = "suspect mule index vibrant pony hazard honey nest kitchen aunt hole penalty";
+var mnemonic = "tuition galaxy faculty dust slim remain fold episode athlete what oblige note";

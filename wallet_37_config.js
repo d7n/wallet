@@ -1,1 +1,1 @@
-var mnemonic = "aunt leave seven amazing text vessel legal circle mango round imitate reopen";
+var mnemonic = "cherry wage friend denial evoke laugh other daughter solution marriage panel inch";

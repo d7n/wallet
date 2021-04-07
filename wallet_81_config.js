@@ -1,1 +1,1 @@
-var mnemonic = "december coast myself bullet manual truck flip yellow practice uncle select lecture";
+var mnemonic = "embark frog pledge century plate voice champion mobile neglect foster limb cake";

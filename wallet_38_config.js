@@ -1,1 +1,1 @@
-var mnemonic = "double sick surround violin small potato fitness praise helmet minute glare erode";
+var mnemonic = "fault casual alert area vehicle cotton cloth alley chimney visit weasel smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "below vague slow squeeze agree crime wise sport fatal century noodle prevent";
+var mnemonic = "fog magnet cargo sick pair future tooth liar obvious patch fiscal combine";

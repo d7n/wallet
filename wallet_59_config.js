@@ -1,1 +1,1 @@
-var mnemonic = "field coconut zebra country problem onion entire hobby eager hire minute large";
+var mnemonic = "guess among sun disorder cereal flag country review text order innocent sentence";

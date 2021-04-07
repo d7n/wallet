@@ -1,1 +1,1 @@
-var mnemonic = "cattle fuel blast swarm cabin rough room clerk require elbow coral nasty";
+var mnemonic = "dress vital alter write kit siege venue vital couple grain usage bleak";

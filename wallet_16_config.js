@@ -1,1 +1,1 @@
-var mnemonic = "warrior vacuum large copy dragon bread cat attack jar mistake humble mechanic";
+var mnemonic = "diamond torch bird citizen dove miss degree match index toast galaxy visual";

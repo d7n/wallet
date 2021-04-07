@@ -1,1 +1,1 @@
-var mnemonic = "nut involve guess talk physical endorse swim mind monkey mercy whale tornado";
+var mnemonic = "pluck broom aspect possible girl gather utility hurt chapter core observe entire";

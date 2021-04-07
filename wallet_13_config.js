@@ -1,1 +1,1 @@
-var mnemonic = "piano common trap valley income cool venue patient position town car kind";
+var mnemonic = "solar amateur polar lunch height topple illegal until web crush veteran will";

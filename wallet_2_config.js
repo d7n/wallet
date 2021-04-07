@@ -1,1 +1,1 @@
-var mnemonic = "globe quote question toilet mechanic daring long welcome unveil debris jump age";
+var mnemonic = "differ tennis yard glory false choice sand turkey guess bachelor then kit";

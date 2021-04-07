@@ -1,1 +1,1 @@
-var mnemonic = "kiwi menu lawn manage tornado match once where actual property hybrid ability";
+var mnemonic = "chunk tank enter inner major anger vibrant tackle mask dinner modify embody";

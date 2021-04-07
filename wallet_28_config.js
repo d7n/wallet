@@ -1,1 +1,1 @@
-var mnemonic = "egg fabric pride arena follow retire talk churn involve hospital maximum soccer";
+var mnemonic = "notable chicken afraid suggest train more praise moment injury there file cotton";

@@ -1,1 +1,1 @@
-var mnemonic = "stick spin achieve someone siege flame move speed west donkey evil misery";
+var mnemonic = "grass stuff aim audit suspect refuse again emerge duty decline sniff velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "garage client thrive pigeon cabbage bitter ridge hybrid swift dose observe tennis";
+var mnemonic = "identify keen message crystal never jeans predict rib silly fury observe below";

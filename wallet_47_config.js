@@ -1,1 +1,1 @@
-var mnemonic = "family invite seat permit kite august fitness bleak pepper mammal alter job";
+var mnemonic = "number jazz beyond guard cream bean mechanic view lonely travel giggle usage";

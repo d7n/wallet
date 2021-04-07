@@ -1,1 +1,1 @@
-var mnemonic = "cat marine produce drill enough appear theory jacket danger jump media cotton";
+var mnemonic = "soldier east insect just auction alley same door firm actress like amazing";

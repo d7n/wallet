@@ -1,1 +1,1 @@
-var mnemonic = "exhaust sight tennis oak end inform jewel black park slim ensure miracle";
+var mnemonic = "liberty coconut develop hole notable wood clock panther rate pave raw sense";

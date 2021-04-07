@@ -1,1 +1,1 @@
-var mnemonic = "mule life adjust hand want lens cat ability foam bridge advance thunder";
+var mnemonic = "decorate wire devote confirm example fiscal notable essay olympic learn illegal middle";

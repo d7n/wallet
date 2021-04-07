@@ -1,1 +1,1 @@
-var mnemonic = "acquire since diamond rather husband predict inherit crumble differ donor armor pear";
+var mnemonic = "fetch cake punch pupil inquiry copper size stadium noble scorpion faculty engine";

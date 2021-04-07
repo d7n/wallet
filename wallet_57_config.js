@@ -1,1 +1,1 @@
-var mnemonic = "patient bean glimpse already city middle pig indoor target glow add canal";
+var mnemonic = "romance gap young maze nasty build hover assault term lock bunker clay";

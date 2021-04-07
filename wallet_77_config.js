@@ -1,1 +1,1 @@
-var mnemonic = "pitch slice apart tower oblige bullet raven host street remember vast sugar";
+var mnemonic = "exist kind enlist below system despair distance tomorrow soda rather dilemma oil";

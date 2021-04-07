@@ -1,1 +1,1 @@
-var mnemonic = "wool together cute debris loyal bachelor silent harsh satoshi only judge absent";
+var mnemonic = "fringe property cupboard crawl define explain fragile brain course educate hamster system";

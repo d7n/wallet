@@ -1,1 +1,1 @@
-var mnemonic = "chronic surround dolphin kick pause smooth plug blood arrange ramp coast bargain";
+var mnemonic = "nephew fringe today tone still present ostrich copy viable space rose snap";

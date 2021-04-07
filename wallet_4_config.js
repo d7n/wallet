@@ -1,1 +1,1 @@
-var mnemonic = "buyer walnut scorpion try middle alert bamboo diary half tonight addict faint";
+var mnemonic = "artwork eight resemble minute hire alley table shrimp affair punch asthma enough";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid smooth clarify will tower acoustic dream ostrich knee ripple umbrella uncover";
+var mnemonic = "avocado announce debate depart all guitar release mix random balance fine intact";

@@ -1,1 +1,1 @@
-var mnemonic = "panic lab ill just illegal fossil sign custom vocal love choice clinic";
+var mnemonic = "device nurse ribbon apology solid dilemma like must gesture hundred together other";

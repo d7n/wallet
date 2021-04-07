@@ -1,1 +1,1 @@
-var mnemonic = "track uncover educate nurse crystal egg neither lava simple reveal regret element";
+var mnemonic = "laptop amount title coin earth bind tobacco obscure repeat fly judge document";

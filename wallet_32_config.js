@@ -1,1 +1,1 @@
-var mnemonic = "receive bulb else crush yard hard sugar hollow game puzzle cry girl";
+var mnemonic = "truly slogan autumn eternal mixture tuna figure case impulse opera hat cigar";

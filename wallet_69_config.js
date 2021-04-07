@@ -1,1 +1,1 @@
-var mnemonic = "aspect smoke trick hurt hotel inform nice exile inquiry enjoy logic dutch";
+var mnemonic = "daring library genre crater boring manual into stage science taste faculty evil";

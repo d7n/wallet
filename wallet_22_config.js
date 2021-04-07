@@ -1,1 +1,1 @@
-var mnemonic = "oval gadget announce parade goddess people thought poet screen shy cause relax";
+var mnemonic = "casual oppose lady protect rival love pepper usual wolf junior nasty aware";

@@ -1,1 +1,1 @@
-var mnemonic = "run century reopen nephew polar tiger beef north price shop champion quick";
+var mnemonic = "bind saddle double file catch industry swap chapter tobacco earth stone gossip";

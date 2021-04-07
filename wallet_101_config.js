@@ -1,1 +1,1 @@
-var mnemonic = "convince armor quiz boy bachelor owner meat frame syrup trial leave cabbage";
+var mnemonic = "harsh example toy glass fly annual grace ride lawsuit loop moment keen";

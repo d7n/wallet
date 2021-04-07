@@ -1,1 +1,1 @@
-var mnemonic = "bracket dinner impose celery pull razor cactus catalog tornado goat bone angry";
+var mnemonic = "bacon belt lucky raven arrow invest plunge spawn crumble gather defy dizzy";

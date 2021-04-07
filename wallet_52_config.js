@@ -1,1 +1,1 @@
-var mnemonic = "oblige decorate pave piano pact regret drift express report attitude lonely shrug";
+var mnemonic = "toe fat need frequent slogan among scorpion below useless kind company heart";

@@ -1,1 +1,1 @@
-var mnemonic = "update patch universe head because expire resemble relax pioneer topic desert bid";
+var mnemonic = "leave decorate any powder similar strong bargain tumble humble fury tongue toddler";

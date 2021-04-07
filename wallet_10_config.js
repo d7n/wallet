@@ -1,1 +1,1 @@
-var mnemonic = "over river require flame truck metal universe blush able ankle capable rough";
+var mnemonic = "rather sheriff sad pole match remain saddle permit network order nuclear actor";

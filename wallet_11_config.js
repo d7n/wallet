@@ -1,1 +1,1 @@
-var mnemonic = "click melt stomach demise forget rich custom they topic diet quiz galaxy";
+var mnemonic = "enact always style police long define tooth limit brief clever essay pair";

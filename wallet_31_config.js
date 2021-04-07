@@ -1,1 +1,1 @@
-var mnemonic = "test narrow february prefer badge impose slogan blast transfer tray leaf aspect";
+var mnemonic = "drink keen domain dismiss marine fall crawl hotel stand seminar lucky electric";

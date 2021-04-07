@@ -1,1 +1,1 @@
-var mnemonic = "blood gentle update any poem soda lady review shell sweet essence beef";
+var mnemonic = "pave island claim future tree split media umbrella lobster magic marriage lecture";

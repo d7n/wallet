@@ -1,1 +1,1 @@
-var mnemonic = "sea aisle trim mad hidden destroy story cheese obtain tissue arrest thank";
+var mnemonic = "involve fog critic champion profit trigger frost either just hybrid add pizza";

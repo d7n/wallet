@@ -1,1 +1,1 @@
-var mnemonic = "affair rapid shop chronic rose settle employ tube oval verb give shrimp";
+var mnemonic = "away chest donkey face bless lounge frog salmon palm setup cool belt";

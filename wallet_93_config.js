@@ -1,1 +1,1 @@
-var mnemonic = "orchard core govern laugh sentence float swing employ early emerge idle vital";
+var mnemonic = "lady photo museum laundry earn medal seminar lend wreck fall echo shield";

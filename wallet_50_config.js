@@ -1,1 +1,1 @@
-var mnemonic = "term siren item heart clay remind another banner game then swallow hotel";
+var mnemonic = "picnic laugh course melt text ankle push paper fiscal stamp uncover enough";

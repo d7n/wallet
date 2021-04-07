@@ -1,1 +1,1 @@
-var mnemonic = "parent glow spring cup recipe cattle forget insect choose current gauge old";
+var mnemonic = "market culture mom bless old fringe oak welcome pigeon sentence ice smart";

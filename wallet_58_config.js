@@ -1,1 +1,1 @@
-var mnemonic = "tenant lion reject clown member surge step drill cover denial decide crawl";
+var mnemonic = "zebra judge tell episode leader finish volcano eager depend ecology frog good";

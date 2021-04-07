@@ -1,1 +1,1 @@
-var mnemonic = "cactus canvas sting believe fabric angle often emotion nose label badge record";
+var mnemonic = "fan reward fitness burst blossom resist earn pluck thing attack level final";

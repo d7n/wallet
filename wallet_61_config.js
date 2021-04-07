@@ -1,1 +1,1 @@
-var mnemonic = "trip jaguar carbon choice fatal bridge other hill claw camp autumn universe";
+var mnemonic = "frozen pattern tumble exercise hand mutual slab practice dwarf egg pigeon bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit illegal forget eight various gap patch nasty verb cute decorate display";
+var mnemonic = "inch alter dolphin dynamic edit enroll code grief path until average pink";

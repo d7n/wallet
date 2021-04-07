@@ -1,1 +1,1 @@
-var mnemonic = "soul romance receive hurry maple weird wide trap fashion parade force media";
+var mnemonic = "truck force twin impose term brush fame clump glue basket summer warfare";

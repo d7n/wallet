@@ -1,1 +1,1 @@
-var mnemonic = "hip frog tip long match dose embrace cabbage case cricket alter unique";
+var mnemonic = "audit system pudding raccoon bar kind soft order domain patient citizen adjust";

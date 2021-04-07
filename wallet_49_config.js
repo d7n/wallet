@@ -1,1 +1,1 @@
-var mnemonic = "bike empower excuse then width gentle hair cube spider student draw kiwi";
+var mnemonic = "two mirror sort element cancel air force adult observe siren acquire aware";

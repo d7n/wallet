@@ -1,1 +1,1 @@
-var mnemonic = "move industry horror junk focus address memory leader picnic board wish sunny";
+var mnemonic = "life drum beef cinnamon peace marble rally maid patch identify youth pencil";

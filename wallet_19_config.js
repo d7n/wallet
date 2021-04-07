@@ -1,1 +1,1 @@
-var mnemonic = "grain outdoor middle remember you someone magic wool chase dinosaur awful upset";
+var mnemonic = "hedgehog glance breeze fat trap grocery circle risk rabbit era flavor raw";

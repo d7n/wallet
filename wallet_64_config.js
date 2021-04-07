@@ -1,1 +1,1 @@
-var mnemonic = "deal alarm bag pigeon poet area owner churn orphan festival candy world";
+var mnemonic = "farm system jump dish small opinion stadium fancy keen grocery solar clock";

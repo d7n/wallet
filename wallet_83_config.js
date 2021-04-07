@@ -1,1 +1,1 @@
-var mnemonic = "cat more person spirit desk end crumble era lizard total rare pause";
+var mnemonic = "uniform knee end symptom destroy bullet destroy core barrel keen physical traffic";

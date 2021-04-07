@@ -1,1 +1,1 @@
-var mnemonic = "cup long perfect squeeze middle recipe rain piece fox adjust grass weather";
+var mnemonic = "confirm develop uphold lemon gadget pulse silk napkin canyon echo over share";

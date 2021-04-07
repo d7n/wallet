@@ -1,1 +1,1 @@
-var mnemonic = "museum much stamp mechanic relief mask primary vicious ecology zoo vanish deposit";
+var mnemonic = "slight quantum custom tackle mention old blade shell sport humble crystal stock";

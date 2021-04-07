@@ -1,1 +1,1 @@
-var mnemonic = "balance base sing input clay nothing ozone congress build assume section design";
+var mnemonic = "lucky raise term vessel appear volcano loud section fold pencil talk patch";

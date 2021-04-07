@@ -1,1 +1,1 @@
-var mnemonic = "zero stadium thought reject drill girl coast fluid call region gaze field";
+var mnemonic = "output begin vocal ordinary lunch extra defense tomato usage glance omit virtual";

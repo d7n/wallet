@@ -1,1 +1,1 @@
-var mnemonic = "cost term almost alien oak festival forest replace sauce wave mouse siege";
+var mnemonic = "engage gym mercy scorpion ready patch strike sock velvet north search trend";

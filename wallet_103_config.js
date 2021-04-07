@@ -1,1 +1,1 @@
-var mnemonic = "elegant resemble bitter strategy affair online burden stuff oppose human there nothing";
+var mnemonic = "bridge universe private target love balcony trophy apart shy early share weather";

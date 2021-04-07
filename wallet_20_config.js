@@ -1,1 +1,1 @@
-var mnemonic = "airport legal impose witness grunt street resource frame organ outside weather silent";
+var mnemonic = "depart atom task noodle argue employ promote ring olive angle share pill";

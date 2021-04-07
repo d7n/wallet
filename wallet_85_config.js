@@ -1,1 +1,1 @@
-var mnemonic = "image guitar wall view armed claim direct palace peasant gain next room";
+var mnemonic = "peanut tank category ivory void soft dune city please dumb beach yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "wife during rate kidney mention accident output brush talk gossip hand woman";
+var mnemonic = "monster solve frost pilot arctic phrase betray uncover minimum spin detect word";

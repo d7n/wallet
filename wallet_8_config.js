@@ -1,1 +1,1 @@
-var mnemonic = "anchor void neglect soup polar prepare tourist rug waste sausage oyster blush";
+var mnemonic = "powder solution skin payment sand fly merit tide label couple six pony";

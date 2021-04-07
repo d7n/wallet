@@ -1,1 +1,1 @@
-var mnemonic = "time disorder shaft hurry service law couch extra life alert put steak";
+var mnemonic = "beyond lizard expose flush buffalo pattern verb satisfy pupil asset curtain neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "minute erode someone empower alcohol boy candy shop toast salute treat amused";
+var mnemonic = "clinic prefer labor eyebrow miracle recipe spell blanket pause answer improve trip";

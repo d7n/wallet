@@ -1,1 +1,1 @@
-var mnemonic = "cycle want peace throw metal inject attack tent water inject slow blast";
+var mnemonic = "burst tiger bonus inform car title couch royal spin true pass you";

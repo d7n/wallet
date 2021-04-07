@@ -1,1 +1,1 @@
-var mnemonic = "dog first odor stuff pencil woman size eyebrow muffin buffalo club mixture";
+var mnemonic = "three cabbage music ill twin month defy weapon defy account winter horn";

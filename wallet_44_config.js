@@ -1,1 +1,1 @@
-var mnemonic = "present cousin plug absent boost oyster render velvet betray maze excess city";
+var mnemonic = "much path ten leisure woman bitter float tip squirrel melt garment habit";

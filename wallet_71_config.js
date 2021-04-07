@@ -1,1 +1,1 @@
-var mnemonic = "impact consider athlete shrug flame version predict settle knee ball faith genuine";
+var mnemonic = "sad model shiver nature fever verify trade ship kidney park assault consider";

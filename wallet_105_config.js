@@ -1,1 +1,1 @@
-var mnemonic = "sorry soon bird sword humble stuff shoot fiber wreck wild holiday night";
+var mnemonic = "opera young universe obvious lawsuit forget husband model impact dizzy amused crane";

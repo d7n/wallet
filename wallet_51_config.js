@@ -1,1 +1,1 @@
-var mnemonic = "volume similar index evil treat eight icon puppy initial foster exchange cupboard";
+var mnemonic = "begin hard chapter soft cycle give myth exit bright joy mutual twenty";

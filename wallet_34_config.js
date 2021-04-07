@@ -1,1 +1,1 @@
-var mnemonic = "flat head mixed february will muscle escape globe weapon awesome unfold night";
+var mnemonic = "rare hedgehog ozone another throw bar dog adult swim believe pull boat";

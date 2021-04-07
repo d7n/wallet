@@ -1,1 +1,1 @@
-var mnemonic = "people mimic among steak sketch author mail peanut negative milk sad egg";
+var mnemonic = "omit scorpion else response ski heart gather start fashion kitten office aspect";

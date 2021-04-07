@@ -1,1 +1,1 @@
-var mnemonic = "frost tattoo year torch rally keen million pear entry uniform enrich load";
+var mnemonic = "tumble become gauge coach bean panther remember drink what come purse distance";

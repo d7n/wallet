@@ -1,1 +1,1 @@
-var mnemonic = "apple check account estate panther sauce echo fine clean impact wedding chuckle";
+var mnemonic = "chuckle spin car minimum uncover pattern curious problem setup chronic motion amateur";

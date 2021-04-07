@@ -1,1 +1,1 @@
-var mnemonic = "kingdom fox juice tumble dilemma wolf pluck swim dose scorpion skull yellow";
+var mnemonic = "naive pupil general loyal below average chronic piano surprise benefit grain scorpion";

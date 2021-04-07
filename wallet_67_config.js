@@ -1,1 +1,1 @@
-var mnemonic = "pull quantum vivid cement charge dice clerk select hero harvest south face";
+var mnemonic = "frame parrot seek ribbon bench share bone crew viable vote force tooth";

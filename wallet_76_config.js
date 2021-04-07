@@ -1,1 +1,1 @@
-var mnemonic = "broken web mother payment tip parrot discover jealous improve little wreck elder";
+var mnemonic = "drift flight arctic raven season lion table dismiss soft ethics outdoor until";

@@ -1,1 +1,1 @@
-var mnemonic = "staff fish dinosaur crouch umbrella thrive fortune disease toast unhappy used axis";
+var mnemonic = "flip capital swim razor program mountain garage minute keen just silly enjoy";
