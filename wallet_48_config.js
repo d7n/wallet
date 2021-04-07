@@ -1,1 +1,1 @@
-var mnemonic = "stock spice relief sheriff fragile mirror dial property electric gown original next";
+var mnemonic = "notable balcony fold rebuild loan say intact cement celery throw judge base";

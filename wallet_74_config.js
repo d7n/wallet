@@ -1,1 +1,1 @@
-var mnemonic = "upon game sound frost dutch unfold tree clown dizzy milk region grab";
+var mnemonic = "thought release olive consider ostrich favorite gloom abandon matter hockey steel return";

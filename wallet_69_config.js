@@ -1,1 +1,1 @@
-var mnemonic = "winner make cave news depth any shed card odor slim acquire update";
+var mnemonic = "park decide wire gown bubble human ecology meadow north crumble enforce view";

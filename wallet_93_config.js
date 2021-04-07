@@ -1,1 +1,1 @@
-var mnemonic = "stairs dinosaur great lecture picture term square crew below recall pigeon deputy";
+var mnemonic = "reveal gas topic gown enough also depth urban snake sting teach lava";

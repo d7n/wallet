@@ -1,1 +1,1 @@
-var mnemonic = "august slow dilemma toilet risk sunset first project reason lecture trim dentist";
+var mnemonic = "kite basket cake rival virtual business ghost boss cheap clown caught fire";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce addict edit wolf secret balcony dynamic heart reunion execute good write";
+var mnemonic = "feel shift view dilemma victory lamp used lawsuit charge curtain rose insect";

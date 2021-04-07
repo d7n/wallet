@@ -1,1 +1,1 @@
-var mnemonic = "salt blossom animal outer alley park shove boring joy maze talk alcohol";
+var mnemonic = "then hour pause frozen view era legend chair census common behind arch";

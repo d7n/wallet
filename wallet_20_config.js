@@ -1,1 +1,1 @@
-var mnemonic = "discover tiger describe belt flat raven crisp debris torch damp wash hello";
+var mnemonic = "doll admit convince excess brass popular object fire ivory learn wish ridge";

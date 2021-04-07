@@ -1,1 +1,1 @@
-var mnemonic = "mammal vanish dish comfort sketch kind trust churn glide host almost very";
+var mnemonic = "super measure cool puzzle audit expand drop whale birth differ spatial truck";

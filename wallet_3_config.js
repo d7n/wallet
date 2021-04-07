@@ -1,1 +1,1 @@
-var mnemonic = "asset purse dizzy opera latin dish element symbol emerge juice diet visa";
+var mnemonic = "glass useful owner exile soccer crawl truly crawl either proud feel typical";

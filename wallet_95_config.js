@@ -1,1 +1,1 @@
-var mnemonic = "robot awkward brain cover pumpkin shed uncover where silly sword item valve";
+var mnemonic = "awkward very shed wing arctic theme vital sheriff radio flip quick gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum student useless inquiry beauty hospital fiber snack indicate blade project kind";
+var mnemonic = "tray under shiver staff donkey laugh vocal vast common spoon develop life";

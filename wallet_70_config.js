@@ -1,1 +1,1 @@
-var mnemonic = "nominee result bomb manage myth peanut zero later try economy decade gaze";
+var mnemonic = "burst seat video trophy hobby bicycle spoon surge boring story gather phone";

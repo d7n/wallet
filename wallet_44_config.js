@@ -1,1 +1,1 @@
-var mnemonic = "resemble anxiety control maple father pride eight leopard force oppose icon trash";
+var mnemonic = "usual beef deputy solve permit sister ski pact gate knife kid decide";

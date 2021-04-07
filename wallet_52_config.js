@@ -1,1 +1,1 @@
-var mnemonic = "blur bridge chronic museum snap glass raw own lounge defense rail strategy";
+var mnemonic = "lounge devote problem twist exotic analyst short chimney topple danger file wheat";

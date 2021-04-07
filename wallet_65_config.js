@@ -1,1 +1,1 @@
-var mnemonic = "game anchor tilt twist ticket breeze office ginger okay boat diamond purse";
+var mnemonic = "sick light quality autumn genre figure shaft oak blade leisure barely equip";

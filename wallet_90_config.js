@@ -1,1 +1,1 @@
-var mnemonic = "require enhance civil depart crop aspect under panther faculty hover install kiss";
+var mnemonic = "guilt cradle toddler swap piece hope test crane earth resource ripple vivid";

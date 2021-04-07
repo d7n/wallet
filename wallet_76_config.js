@@ -1,1 +1,1 @@
-var mnemonic = "detail version puppy shine insect outer notice crash genre rescue weather angry";
+var mnemonic = "crop belt inform cruise upset shoe erupt upset blossom wedding electric program";

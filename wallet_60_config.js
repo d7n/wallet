@@ -1,1 +1,1 @@
-var mnemonic = "process appear lunch select spy puzzle until judge couple like firm noise";
+var mnemonic = "sock fiscal box neglect deposit tray design before coral stairs major arm";

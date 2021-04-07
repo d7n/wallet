@@ -1,1 +1,1 @@
-var mnemonic = "carpet exclude august fortune solution timber gorilla hunt enough stuff crash fuel";
+var mnemonic = "exercise anger aunt pizza habit orphan grocery globe forget miracle predict crazy";

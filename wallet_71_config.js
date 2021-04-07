@@ -1,1 +1,1 @@
-var mnemonic = "cotton bike become rival person list odor carry identify armor junk entry";
+var mnemonic = "tooth vibrant gaze make squirrel exercise vote fog multiply essence kangaroo economy";

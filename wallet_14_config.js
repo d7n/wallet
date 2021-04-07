@@ -1,1 +1,1 @@
-var mnemonic = "foam use talent dust gadget silly jelly various slight glow laugh dream";
+var mnemonic = "fault pull pizza mom dial panic frog face camp praise manual diet";

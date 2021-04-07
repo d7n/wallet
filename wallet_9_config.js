@@ -1,1 +1,1 @@
-var mnemonic = "answer vicious heart pear ensure ability pull love glory excite worry alarm";
+var mnemonic = "combine spy ski impulse clean enlist worry state suspect dinosaur pulse chef";

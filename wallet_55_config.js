@@ -1,1 +1,1 @@
-var mnemonic = "raw carbon donkey draw human tomato unit february into rib carpet middle";
+var mnemonic = "chest motor ensure short web prize obtain filter minute subject creek smooth";

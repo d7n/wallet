@@ -1,1 +1,1 @@
-var mnemonic = "gas cute wide aerobic leave market rescue multiply bench harvest pistol useless";
+var mnemonic = "ketchup civil narrow motion siren pulse february shrug guard stairs mule ask";

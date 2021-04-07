@@ -1,1 +1,1 @@
-var mnemonic = "range nest denial spare volume across talk sound check explain switch ski";
+var mnemonic = "monkey shield frame dragon novel despair capital escape tenant history melt dutch";

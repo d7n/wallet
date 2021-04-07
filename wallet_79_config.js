@@ -1,1 +1,1 @@
-var mnemonic = "one bread two modify blast flat engage learn palm lizard same apology";
+var mnemonic = "deer alley ensure solve cost thrive reward violin someone differ business render";

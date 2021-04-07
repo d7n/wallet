@@ -1,1 +1,1 @@
-var mnemonic = "summer display suffer later blur side volcano trouble rubber crop topple jazz";
+var mnemonic = "cancel trumpet citizen subject stairs tray agree slice risk august actual ten";

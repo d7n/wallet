@@ -1,1 +1,1 @@
-var mnemonic = "cheap warrior hobby bone dynamic burger blue cement interest indicate canoe burger";
+var mnemonic = "upgrade few reject cross mountain water shield flock rocket impose wrestle opinion";

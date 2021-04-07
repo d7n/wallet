@@ -1,1 +1,1 @@
-var mnemonic = "crumble before tornado hunt blood husband another insect curious candy moon round";
+var mnemonic = "congress town panther emerge category drastic swarm side robust dress snake token";

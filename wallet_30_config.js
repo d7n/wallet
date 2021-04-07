@@ -1,1 +1,1 @@
-var mnemonic = "exhaust start steel sunny story net total upset case village unit vessel";
+var mnemonic = "party toddler dad absorb scheme patch debate pipe arena quote govern unhappy";

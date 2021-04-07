@@ -1,1 +1,1 @@
-var mnemonic = "immense team humor change muscle mechanic cat giant dove candy fault age";
+var mnemonic = "person blind pool table cupboard scheme tray local atom then fiber hire";

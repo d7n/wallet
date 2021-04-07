@@ -1,1 +1,1 @@
-var mnemonic = "one cactus question charge stock shove action zoo brand wife boost advance";
+var mnemonic = "prevent wasp whale rug envelope tongue ostrich under aspect deputy ignore alpha";

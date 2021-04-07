@@ -1,1 +1,1 @@
-var mnemonic = "snake life column finish cinnamon bind peanut impose index bonus shrug oval";
+var mnemonic = "slam unfold later illegal author call fall coil retreat fossil select total";

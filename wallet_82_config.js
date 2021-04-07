@@ -1,1 +1,1 @@
-var mnemonic = "dentist satisfy huge adapt weather parade stick mirror news mixed head song";
+var mnemonic = "scatter absurd party note sign poet science uphold message culture clip nut";

@@ -1,1 +1,1 @@
-var mnemonic = "grant bulb tip sibling wink electric gift pulse talent grant possible federal";
+var mnemonic = "father earn essay shed hawk hurry quote very knee tattoo dune steak";

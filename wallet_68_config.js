@@ -1,1 +1,1 @@
-var mnemonic = "shell plunge bicycle vital fun car enemy sibling exist family limb repair";
+var mnemonic = "ocean inhale rely hip risk purse butter grape foster sing vague public";

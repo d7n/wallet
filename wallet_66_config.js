@@ -1,1 +1,1 @@
-var mnemonic = "admit middle amateur decide rebel erase flock expect yellow reason distance crater";
+var mnemonic = "army photo mosquito story puzzle fence brave gather fitness shock chef mean";

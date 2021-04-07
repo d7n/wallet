@@ -1,1 +1,1 @@
-var mnemonic = "december scout payment render isolate boss vocal patch answer spy soda goat";
+var mnemonic = "custom task oil minimum inch shadow exile trumpet fruit truth spell jacket";

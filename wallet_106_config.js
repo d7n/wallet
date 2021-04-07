@@ -1,1 +1,1 @@
-var mnemonic = "race clump core size swarm dog stadium jacket because alert cigar notable";
+var mnemonic = "twist rocket fan trade very hunt diary delay violin grunt wall earn";

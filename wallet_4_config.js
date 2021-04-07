@@ -1,1 +1,1 @@
-var mnemonic = "hand gun machine tag code pink spot picture man kingdom master wonder";
+var mnemonic = "comfort damp rain sense portion mechanic unknown sunny fancy rather daughter govern";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst dog answer roast rose miss night lock joke feel wall situate";
+var mnemonic = "upset bargain rifle leader basket history drum unveil steel poverty punch sound";

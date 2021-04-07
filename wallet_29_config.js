@@ -1,1 +1,1 @@
-var mnemonic = "rely need gas trend fever rule skirt script response write glow stumble";
+var mnemonic = "federal miss wheel aerobic detect expand buzz eyebrow around tuition rail peanut";

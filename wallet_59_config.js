@@ -1,1 +1,1 @@
-var mnemonic = "direct kangaroo chair pitch knock title either pass trial simple zebra session";
+var mnemonic = "control drastic version ancient tissue globe exile country main increase annual dry";

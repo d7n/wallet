@@ -1,1 +1,1 @@
-var mnemonic = "transfer garment surprise crisp shoot tuna bottom struggle gossip turkey valve practice";
+var mnemonic = "swallow tail skirt garage pig lecture drill bomb warrior phrase divide then";

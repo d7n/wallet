@@ -1,1 +1,1 @@
-var mnemonic = "slogan word capital blue coffee budget sniff capable tip escape observe estate";
+var mnemonic = "scrap foster virus night estate gloom caught pilot earth slab bring issue";

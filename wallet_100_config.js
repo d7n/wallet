@@ -1,1 +1,1 @@
-var mnemonic = "design swamp torch equip denial chest assist mom kind rescue morning cream";
+var mnemonic = "novel dignity fossil law gallery mercy alcohol crop library tissue physical cattle";

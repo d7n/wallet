@@ -1,1 +1,1 @@
-var mnemonic = "alert salon frame conduct immense raw dove remove faith physical goat wealth";
+var mnemonic = "web bulb current trim change misery hope rug canoe robot visa pave";

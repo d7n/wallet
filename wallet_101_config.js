@@ -1,1 +1,1 @@
-var mnemonic = "until unknown sand pony stem capital enforce cloth citizen kingdom fatigue rubber";
+var mnemonic = "position muscle park visa wool announce betray name illegal critic fan slight";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry wave gaze tape inquiry whip gap upgrade coil warfare celery kingdom";
+var mnemonic = "rural artwork mouse march client resist turkey rabbit payment general together fashion";

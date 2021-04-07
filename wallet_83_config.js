@@ -1,1 +1,1 @@
-var mnemonic = "this lesson melody dial potato jealous girl sick stone odor result coffee";
+var mnemonic = "coral pattern judge silent rail differ vintage rabbit animal wait journey universe";

@@ -1,1 +1,1 @@
-var mnemonic = "sound armor invest wing sorry awful quantum alien benefit replace will ripple";
+var mnemonic = "job palm margin peanut hello peace enlist laundry donkey trophy hungry wear";

@@ -1,1 +1,1 @@
-var mnemonic = "brave rescue fold trophy diesel cattle chest coconut picnic love transfer crime";
+var mnemonic = "session blue upset cattle sleep rotate crawl news replace twist educate spoil";

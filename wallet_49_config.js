@@ -1,1 +1,1 @@
-var mnemonic = "hope night stomach much camp mind diary frog video crunch wear legend";
+var mnemonic = "rapid iron wheat hover idle process tide suit stage beef nerve coyote";

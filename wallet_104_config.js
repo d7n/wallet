@@ -1,1 +1,1 @@
-var mnemonic = "artwork stand pudding buddy goddess light purpose govern wine mirror scheme naive";
+var mnemonic = "adjust recall sun divorce table together blind spatial off home skate feel";

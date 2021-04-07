@@ -1,1 +1,1 @@
-var mnemonic = "velvet initial couch document rich blade avoid galaxy tackle sniff target harvest";
+var mnemonic = "asset pet trip leopard north neck number arm federal dirt dry snake";

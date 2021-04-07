@@ -1,1 +1,1 @@
-var mnemonic = "soul insane beauty script humble manual sure monkey dutch topic cry poet";
+var mnemonic = "tape gospel talk cause leader torch much kidney ice grace raven dolphin";

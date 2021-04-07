@@ -1,1 +1,1 @@
-var mnemonic = "truth olympic distance cinnamon margin spring present snap pottery lava blood view";
+var mnemonic = "spoon surround lion scheme possible parade heart cram language gaze crouch black";

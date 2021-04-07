@@ -1,1 +1,1 @@
-var mnemonic = "diagram solar prison nice limb walk upgrade expect run bundle vault explain";
+var mnemonic = "spy acoustic tragic oven strike canyon proud fetch share tennis order clown";

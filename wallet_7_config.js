@@ -1,1 +1,1 @@
-var mnemonic = "dose grow found twelve sister pencil grant save spice six athlete physical";
+var mnemonic = "afraid assist erase motor profit cinnamon discover hip cream kitchen prison mention";

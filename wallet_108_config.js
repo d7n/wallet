@@ -1,1 +1,1 @@
-var mnemonic = "glove thought emerge ocean soul pen fortune rebel crash people cliff crater";
+var mnemonic = "climb sort walnut print detail prevent stock trade vessel act update rely";

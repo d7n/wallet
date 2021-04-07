@@ -1,1 +1,1 @@
-var mnemonic = "piece flat hill student tower exact warfare around step gate bachelor imitate";
+var mnemonic = "tackle blood match slender follow media rug harvest panel dog cram deer";

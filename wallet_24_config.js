@@ -1,1 +1,1 @@
-var mnemonic = "hollow impact tonight flip grape goat weird amount urge can jewel what";
+var mnemonic = "horn maple pool infant piece skill smooth knife avoid eight seat dismiss";

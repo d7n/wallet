@@ -1,1 +1,1 @@
-var mnemonic = "damp detail afraid unique easily message turtle mean romance open cycle blanket";
+var mnemonic = "giggle pole avocado produce dynamic turkey minimum mandate world cart wolf approve";

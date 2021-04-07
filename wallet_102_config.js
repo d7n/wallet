@@ -1,1 +1,1 @@
-var mnemonic = "horse fork legend affair square poet eager can penalty radar liberty close";
+var mnemonic = "potato script double arrest left viable sign film melody lemon finger village";

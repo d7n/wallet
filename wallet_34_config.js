@@ -1,1 +1,1 @@
-var mnemonic = "giggle okay ostrich poem fancy property vintage canvas luggage attitude enjoy rotate";
+var mnemonic = "arrow drill popular column bar emerge fan fame bus fancy gym cruise";

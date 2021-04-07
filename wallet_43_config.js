@@ -1,1 +1,1 @@
-var mnemonic = "visit slam umbrella interest acquire culture syrup own else remind year myself";
+var mnemonic = "transfer barely nothing soap whisper fortune bracket that giggle make live anchor";

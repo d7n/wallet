@@ -1,1 +1,1 @@
-var mnemonic = "trap wait room prefer rare gaze neglect swamp range machine wood bring";
+var mnemonic = "snake exotic arctic present doll spawn excite visual empty lottery grief slow";

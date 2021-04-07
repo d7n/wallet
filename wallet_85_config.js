@@ -1,1 +1,1 @@
-var mnemonic = "balance physical observe biology small marriage wet version excuse trophy toe fee";
+var mnemonic = "affair icon wreck beauty ceiling subway normal nuclear either across ceiling theme";

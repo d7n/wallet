@@ -1,1 +1,1 @@
-var mnemonic = "combine conduct long expect dry early scorpion turtle wish among wrong van";
+var mnemonic = "code post sock update fat joke next idle retire claim pulse media";

@@ -1,1 +1,1 @@
-var mnemonic = "index resemble orphan sand crush cake buzz mistake scan rack know ankle";
+var mnemonic = "cycle express ahead depth true belt vital success scene deny wheat quiz";

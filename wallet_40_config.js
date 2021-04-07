@@ -1,1 +1,1 @@
-var mnemonic = "reward sort vocal palace churn mountain crop muffin empty clever liar story";
+var mnemonic = "gap begin august swim hill blind top eternal fat tongue noble side";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow bulk nature visual regular tube gym around rate portion state audit";
+var mnemonic = "room erupt toward month feel frost bottom virtual ticket obey crucial light";

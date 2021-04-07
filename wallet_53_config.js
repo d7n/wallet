@@ -1,1 +1,1 @@
-var mnemonic = "cycle trap december travel seven perfect drink relief erupt spider pave skull";
+var mnemonic = "question future hybrid welcome human swear matter leaf purse visa slight orange";

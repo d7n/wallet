@@ -1,1 +1,1 @@
-var mnemonic = "owner orphan table pig order group laptop fiscal raven civil taste wolf";
+var mnemonic = "upgrade pudding dinosaur become piano head hedgehog skate wet decorate wonder news";

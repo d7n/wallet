@@ -1,1 +1,1 @@
-var mnemonic = "farm aisle enforce page glare curious review train own ripple pony lucky";
+var mnemonic = "ill trumpet jar equal roof trash holiday depth husband finish fat west";

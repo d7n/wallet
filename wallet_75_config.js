@@ -1,1 +1,1 @@
-var mnemonic = "mesh tattoo cruel shoot exit throw huge veteran barrel honey clarify either";
+var mnemonic = "bird nerve silent junk stove assist name copy situate chimney host donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle dance screen tennis stuff twice wave around stable inhale goat fiber";
+var mnemonic = "holiday finish water token miss gossip strategy board dirt cushion enable year";

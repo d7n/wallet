@@ -1,1 +1,1 @@
-var mnemonic = "sorry half humor moon scatter sport grit mouse fringe method rival island";
+var mnemonic = "raise galaxy jar drill stool december music banana stage ill flower floor";

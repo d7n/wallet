@@ -1,1 +1,1 @@
-var mnemonic = "gospel naive bring hospital town bitter viable umbrella unaware orbit fiscal put";
+var mnemonic = "length budget build foam blur shrug glow uncover day wealth object merit";

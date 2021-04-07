@@ -1,1 +1,1 @@
-var mnemonic = "garlic awesome scheme frequent potato piece predict eagle lunar trust renew random";
+var mnemonic = "social twist dolphin speed lift require zebra wreck rare stadium luggage mail";

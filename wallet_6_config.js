@@ -1,1 +1,1 @@
-var mnemonic = "era buffalo aspect myth hour silent disorder bargain certain novel much split";
+var mnemonic = "process scatter voyage worry double hollow noise tunnel powder network there favorite";

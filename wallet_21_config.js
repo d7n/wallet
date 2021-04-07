@@ -1,1 +1,1 @@
-var mnemonic = "broken drum frozen vibrant green goat ecology scare expand twelve tree creek";
+var mnemonic = "empower squeeze glance exit clerk tomato trial champion dumb orchard net script";
