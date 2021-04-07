@@ -1,1 +1,1 @@
-var mnemonic = "other lazy fade elder situate river trend armed invest use midnight bless";
+var mnemonic = "remain slush anger vanish quote attract multiply next kingdom exhibit march pencil";

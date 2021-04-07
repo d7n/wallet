@@ -1,1 +1,1 @@
-var mnemonic = "cotton welcome pumpkin slide dice glory route rabbit cancel trim much dust";
+var mnemonic = "forget scan wrist exercise flee leave place dizzy shove range appear knife";

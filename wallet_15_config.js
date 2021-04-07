@@ -1,1 +1,1 @@
-var mnemonic = "globe apart measure sand ladder filter tree hockey accident slogan pulse direct";
+var mnemonic = "device glue echo foster people stable such valid also island finish faith";

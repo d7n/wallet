@@ -1,1 +1,1 @@
-var mnemonic = "leg wife fade athlete topic mixture parent any license enforce abstract domain";
+var mnemonic = "prison great monitor luxury media leader remain liquid dinosaur strike harvest squeeze";

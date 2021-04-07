@@ -1,1 +1,1 @@
-var mnemonic = "neglect snack share few throw country fatigue general tray price defense predict";
+var mnemonic = "orbit forget glance rent fork wood royal inch grocery illness pony useless";

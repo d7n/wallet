@@ -1,1 +1,1 @@
-var mnemonic = "emotion verb immense notable common citizen trick seat dawn chicken pet post";
+var mnemonic = "short ocean few exact action tumble kiss swap crawl ankle oblige fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "fix penalty carpet raw loud time rib sad leaf mushroom hunt pretty";
+var mnemonic = "buyer become identify meat ginger sort health grass state wire office tent";

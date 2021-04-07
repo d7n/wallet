@@ -1,1 +1,1 @@
-var mnemonic = "ostrich usual dice negative front margin wait inform fade wait combine high";
+var mnemonic = "tiger need say mind soul renew public banner captain bag deal marriage";

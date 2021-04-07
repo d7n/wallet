@@ -1,1 +1,1 @@
-var mnemonic = "energy topple tell helmet dust outside dawn flock easily pattern test army";
+var mnemonic = "tooth surround blade pilot section forward staff use chimney win dragon emotion";

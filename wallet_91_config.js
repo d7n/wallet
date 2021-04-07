@@ -1,1 +1,1 @@
-var mnemonic = "bar twenty ceiling segment common town brief pretty ten panda anchor fury";
+var mnemonic = "kingdom bike cluster need perfect warm rifle soldier basket enrich bronze attract";

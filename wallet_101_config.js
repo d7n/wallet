@@ -1,1 +1,1 @@
-var mnemonic = "such payment armor limb true lion damage roast venture dust rabbit green";
+var mnemonic = "wedding remain entire film student old topic fatigue project slab nation gauge";

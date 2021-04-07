@@ -1,1 +1,1 @@
-var mnemonic = "idle proof type infant question detect steak toss begin hand pelican ribbon";
+var mnemonic = "wrestle sign sand upset journey armed broccoli detail side fold frequent skirt";

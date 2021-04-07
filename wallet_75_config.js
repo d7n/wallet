@@ -1,1 +1,1 @@
-var mnemonic = "vague prize pair soon foot chair annual shoe coral story health taxi";
+var mnemonic = "grant broken melt color denial sand unveil nature motor scrap glide timber";

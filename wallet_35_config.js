@@ -1,1 +1,1 @@
-var mnemonic = "letter rate pizza peanut federal sadness gaze knock ozone conduct gain comic";
+var mnemonic = "film slice tooth family ocean drip wheat craft alcohol drop average ivory";

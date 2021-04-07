@@ -1,1 +1,1 @@
-var mnemonic = "economy pair magic dragon invite donate demise school enrich garlic sunny sphere";
+var mnemonic = "system weird awful supreme virtual picnic affair will hope security rich puppy";

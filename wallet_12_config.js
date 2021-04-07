@@ -1,1 +1,1 @@
-var mnemonic = "truck alert across artist transfer level essay sleep plate dish island soon";
+var mnemonic = "thunder cement eternal unhappy mammal suspect spend push steel naive spice point";

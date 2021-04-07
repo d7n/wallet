@@ -1,1 +1,1 @@
-var mnemonic = "math border december worry short stone boss pass seek short sauce oak";
+var mnemonic = "flush quick wear hospital winner pact umbrella update glass click monster taste";

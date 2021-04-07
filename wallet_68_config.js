@@ -1,1 +1,1 @@
-var mnemonic = "miss comfort patch lion mix raw defy under win indoor delay load";
+var mnemonic = "bullet critic sock stomach polar knock music throw noise abuse culture drift";

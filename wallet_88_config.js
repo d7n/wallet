@@ -1,1 +1,1 @@
-var mnemonic = "jewel bench pen please educate enroll collect clip toward grain rescue race";
+var mnemonic = "divide jaguar april during fabric beef liquid biology explain audit split curious";

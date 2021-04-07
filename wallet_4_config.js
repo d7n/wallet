@@ -1,1 +1,1 @@
-var mnemonic = "process involve vicious saddle library girl morning robust year maid strike evoke";
+var mnemonic = "sting orphan differ deposit ecology faint neck luggage emerge seminar pilot average";

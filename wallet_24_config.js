@@ -1,1 +1,1 @@
-var mnemonic = "ticket great nuclear rack much punch proud thank art error group elder";
+var mnemonic = "near parade recall gadget intact garage harsh expect race dragon february strategy";

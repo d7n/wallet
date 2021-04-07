@@ -1,1 +1,1 @@
-var mnemonic = "cancel elder exchange dash useless when tornado trade nominee amused now company";
+var mnemonic = "autumn strike quiz express idea gravity swallow left eight anger vessel attack";

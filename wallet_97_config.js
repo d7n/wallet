@@ -1,1 +1,1 @@
-var mnemonic = "motion review near cross draw smooth topic spread size tag creek grace";
+var mnemonic = "sustain song obvious cluster middle person flip replace verify crunch rabbit few";

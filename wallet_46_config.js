@@ -1,1 +1,1 @@
-var mnemonic = "round hold begin olive sugar pulse alpha girl easily must fatal bicycle";
+var mnemonic = "present pigeon foot indicate defy honey outer vital treat jar fire camp";

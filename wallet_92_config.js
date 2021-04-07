@@ -1,1 +1,1 @@
-var mnemonic = "trend multiply weird dish butter beef supreme reason carbon jump trigger movie";
+var mnemonic = "upper insane mercy dignity pizza hybrid canyon happy ethics else slot eternal";

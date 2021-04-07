@@ -1,1 +1,1 @@
-var mnemonic = "imitate holiday ivory machine water crater dog radio film reward outer oblige";
+var mnemonic = "bonus enemy layer furnace volcano galaxy define game report network exile tornado";

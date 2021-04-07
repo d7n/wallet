@@ -1,1 +1,1 @@
-var mnemonic = "garlic young fold real square chat spare street one bridge mansion remain";
+var mnemonic = "planet crystal net pyramid person win coyote series wheel obvious breeze arch";

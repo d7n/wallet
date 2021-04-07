@@ -1,1 +1,1 @@
-var mnemonic = "door cable kick jungle unfold broken virtual street river gentle couch toast";
+var mnemonic = "truck dwarf brother sight bean pluck visit gorilla pledge spring wheat spot";

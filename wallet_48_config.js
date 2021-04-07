@@ -1,1 +1,1 @@
-var mnemonic = "canvas lonely sunset bird carry uniform master ramp then message struggle angry";
+var mnemonic = "flame nerve orbit salad actual acquire husband kiwi emotion boring noise youth";

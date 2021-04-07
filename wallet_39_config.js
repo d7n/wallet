@@ -1,1 +1,1 @@
-var mnemonic = "august voice day milk scale oxygen cash kid weasel olympic pool wait";
+var mnemonic = "gasp furnace three rookie wire toe puzzle steel afraid creek object spoil";

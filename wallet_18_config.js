@@ -1,1 +1,1 @@
-var mnemonic = "radio iron wrist degree rookie ghost focus acquire input potato firm sock";
+var mnemonic = "figure hospital convince tonight discover catch hunt profit neither anxiety illegal find";

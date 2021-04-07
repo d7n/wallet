@@ -1,1 +1,1 @@
-var mnemonic = "cliff paper raw resist all category noise pipe chef win move educate";
+var mnemonic = "barely soap seat inner easy upset develop silk tooth later thrive tape";

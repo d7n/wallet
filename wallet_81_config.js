@@ -1,1 +1,1 @@
-var mnemonic = "answer siren front name sand tumble axis pledge govern mutual deny era";
+var mnemonic = "keen wrestle level act solar exact anxiety fiber voice number glad truth";

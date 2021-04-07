@@ -1,1 +1,1 @@
-var mnemonic = "suggest shell final candy bamboo clip detail tomorrow panel sustain vote buddy";
+var mnemonic = "boost police essence member food hawk script ranch current uphold someone erosion";

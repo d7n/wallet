@@ -1,1 +1,1 @@
-var mnemonic = "spy muffin sock wet walk budget verify eager cancel switch turkey parrot";
+var mnemonic = "rare humble filter ribbon obvious demand garden very kiss smile twist rare";

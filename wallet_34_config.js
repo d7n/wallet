@@ -1,1 +1,1 @@
-var mnemonic = "meadow quarter flame canal crouch anxiety scorpion start merge stadium puzzle visual";
+var mnemonic = "predict farm indicate inside erupt effort story hunt brother surprise find february";

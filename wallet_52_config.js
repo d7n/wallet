@@ -1,1 +1,1 @@
-var mnemonic = "power result tattoo town danger praise alter tone kitten bottom trigger bacon";
+var mnemonic = "clarify witness blame mandate stomach earth alter oven pet field bargain depth";

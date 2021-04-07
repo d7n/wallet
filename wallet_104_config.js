@@ -1,1 +1,1 @@
-var mnemonic = "head valve afford film hammer muscle guard nice vehicle blouse sustain begin";
+var mnemonic = "hip glimpse claim obtain vacant subway beef blanket struggle stereo punch loyal";

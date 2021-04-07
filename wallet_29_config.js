@@ -1,1 +1,1 @@
-var mnemonic = "venue picnic gospel reduce curious dice purse hour argue settle improve loyal";
+var mnemonic = "invite vital decorate quality visa business skill vapor spring sock door labor";

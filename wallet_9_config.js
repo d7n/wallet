@@ -1,1 +1,1 @@
-var mnemonic = "thumb dress memory define tissue simple member profit this weather odor motor";
+var mnemonic = "trap icon forward main because damp lesson absorb million ensure clean whip";

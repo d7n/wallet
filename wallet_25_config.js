@@ -1,1 +1,1 @@
-var mnemonic = "slam deer resist item mouse wealth vacant local unusual unusual water pistol";
+var mnemonic = "neither group leopard predict horn crane boil skin faith drink mammal cancel";

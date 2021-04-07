@@ -1,1 +1,1 @@
-var mnemonic = "lizard cross clay prize couch program excuse apart net lizard portion depend";
+var mnemonic = "bundle flight danger air denial inch ring wild exact shadow fire broom";

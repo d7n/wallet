@@ -1,1 +1,1 @@
-var mnemonic = "motion enforce final warm wing fog resemble setup lucky salmon pudding memory";
+var mnemonic = "taste sniff success pigeon decorate grape runway history invest valve noodle poverty";

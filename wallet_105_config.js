@@ -1,1 +1,1 @@
-var mnemonic = "future find welcome enable purpose below jump initial modify west friend trigger";
+var mnemonic = "usual satoshi remember curious rack loyal session clap evidence employ banana mesh";

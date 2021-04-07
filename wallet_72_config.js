@@ -1,1 +1,1 @@
-var mnemonic = "trash venture fly retire garage pig harvest gun father sun faint picture";
+var mnemonic = "diagram fix alcohol glow again assume tray frog wrong skill pony helmet";

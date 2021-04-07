@@ -1,1 +1,1 @@
-var mnemonic = "lunch stadium fury notable face impulse hat endorse spider neutral spatial sunset";
+var mnemonic = "snap pony mechanic slide human actual become double segment actual plastic turkey";

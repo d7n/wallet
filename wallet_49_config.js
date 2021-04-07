@@ -1,1 +1,1 @@
-var mnemonic = "plate clip ugly lend razor seed mask celery fetch mountain purity kick";
+var mnemonic = "spring innocent material elevator soap where main pulse merit pole hurry can";

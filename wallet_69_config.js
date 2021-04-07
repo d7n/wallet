@@ -1,1 +1,1 @@
-var mnemonic = "tackle enjoy brush pipe have choice meadow essence blind mouse bamboo ridge";
+var mnemonic = "december brand clap curve rabbit era hand almost sun hour crater insane";

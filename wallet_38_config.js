@@ -1,1 +1,1 @@
-var mnemonic = "morning swarm afford opinion ginger hybrid various struggle shrimp advice armed trash";
+var mnemonic = "ten entire strong drink quiz view diary crime neutral provide atom color";

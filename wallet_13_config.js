@@ -1,1 +1,1 @@
-var mnemonic = "west cup flat monitor science hour sense transfer half method anchor toy";
+var mnemonic = "fashion defy glass uniform address enable margin poet farm funny core coffee";

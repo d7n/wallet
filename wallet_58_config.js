@@ -1,1 +1,1 @@
-var mnemonic = "glimpse divorce proud snow echo delay tool talk detail car okay thank";
+var mnemonic = "spy hat chuckle recycle comic core firm arch coach token future ordinary";

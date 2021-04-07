@@ -1,1 +1,1 @@
-var mnemonic = "foot belt endless debate dragon hint health buyer congress pretty jungle category";
+var mnemonic = "include decorate master sick filter mom open metal crowd autumn salad melody";

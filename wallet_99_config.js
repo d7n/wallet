@@ -1,1 +1,1 @@
-var mnemonic = "kite spend sunset okay camp satisfy hybrid wear hover glare glow sense";
+var mnemonic = "hockey amused total nasty swallow vague record recycle shoe series balcony wide";

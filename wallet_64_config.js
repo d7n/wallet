@@ -1,1 +1,1 @@
-var mnemonic = "rural equip battle soon spawn orchard denial head delay exercise coral neither";
+var mnemonic = "west rhythm occur lazy top route genuine rough tenant gate first laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic clip wool animal ask gold helmet all yellow rival update stem";
+var mnemonic = "capital sad twin where exchange father wash recall expect scout romance chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "shift client unfair swarm glass dose fatal bundle place cement giraffe pipe";
+var mnemonic = "field adjust trial grocery ginger rose pluck best frog echo appear first";

@@ -1,1 +1,1 @@
-var mnemonic = "gate clap wrong buddy spread pass winner kit cave donate loud gift";
+var mnemonic = "cash setup balcony drill exact stumble sleep ribbon nothing oven peace answer";

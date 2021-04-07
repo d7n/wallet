@@ -1,1 +1,1 @@
-var mnemonic = "toast shoe come agent warrior exotic column march bubble afford combine celery";
+var mnemonic = "boss menu spider song cover disorder cancel hope balance liar recall naive";

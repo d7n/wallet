@@ -1,1 +1,1 @@
-var mnemonic = "chair pilot seven become example cycle oven cattle issue skirt decrease sadness";
+var mnemonic = "blue used hollow field accident calm erosion erupt uncover nephew move wing";

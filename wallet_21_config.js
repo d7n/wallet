@@ -1,1 +1,1 @@
-var mnemonic = "wrestle solution amused trial river unable betray sock doll save train submit";
+var mnemonic = "coil bread switch animal dawn assume guide become vintage company subject crisp";

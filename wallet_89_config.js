@@ -1,1 +1,1 @@
-var mnemonic = "release success column young path slim clean slam toast cement spoil ensure";
+var mnemonic = "skull liberty memory fitness achieve pipe nurse either program identify jaguar jaguar";

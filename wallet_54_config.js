@@ -1,1 +1,1 @@
-var mnemonic = "october record okay submit liquid goddess clutch exist royal tissue file write";
+var mnemonic = "merry pill track produce wine bracket retreat poverty parade aerobic access festival";

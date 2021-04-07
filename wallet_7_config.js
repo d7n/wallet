@@ -1,1 +1,1 @@
-var mnemonic = "lake kiwi tank expire water welcome rice inner wedding era solve absurd";
+var mnemonic = "devote local renew pulp bright mirror blur gesture artist candy innocent cage";

@@ -1,1 +1,1 @@
-var mnemonic = "stool unable because teach zebra legend nice exclude example pudding cover gaze";
+var mnemonic = "solar fortune smoke century become emerge grid letter silk blue wage public";

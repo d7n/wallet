@@ -1,1 +1,1 @@
-var mnemonic = "olympic extra album soon typical gym soda resemble bus health crawl enforce";
+var mnemonic = "address quiz idle caught verb mad lunch tumble start kidney alone push";

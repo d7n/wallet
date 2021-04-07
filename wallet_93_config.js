@@ -1,1 +1,1 @@
-var mnemonic = "way year license symbol produce layer pony sustain suffer wrap involve mistake";
+var mnemonic = "tooth ceiling sound comic trip shallow thumb inject mandate sword symbol print";

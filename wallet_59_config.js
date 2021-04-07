@@ -1,1 +1,1 @@
-var mnemonic = "summer faith youth ship mesh tourist behave mandate truth suggest party either";
+var mnemonic = "style evoke camera echo beach people acquire convince green sell warm flash";

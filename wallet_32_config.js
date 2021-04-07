@@ -1,1 +1,1 @@
-var mnemonic = "goose convince sister this spoil maid armor quiz sting elegant peace domain";
+var mnemonic = "tonight surface accuse phone regular unfold melt solar nature soldier okay solid";

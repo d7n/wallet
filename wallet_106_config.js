@@ -1,1 +1,1 @@
-var mnemonic = "series engage cube brave insect swamp flush involve donate march bread blast";
+var mnemonic = "mercy client picnic swarm wool annual kite chicken tree achieve sample team";

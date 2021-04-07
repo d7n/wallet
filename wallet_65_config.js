@@ -1,1 +1,1 @@
-var mnemonic = "income parrot either real turtle staff field rigid soon focus drift position";
+var mnemonic = "lucky doctor alpha dilemma shiver symptom usual cover joke protect carpet dust";

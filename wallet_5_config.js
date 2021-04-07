@@ -1,1 +1,1 @@
-var mnemonic = "silly build popular sunset extra hat lounge behind busy example arrest eagle";
+var mnemonic = "winner model neither ride execute pilot physical goddess foot pizza blur coin";

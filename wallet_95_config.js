@@ -1,1 +1,1 @@
-var mnemonic = "style picnic weasel key jewel relief crunch vibrant online clinic excite thumb";
+var mnemonic = "warrior gift reform science replace sure symptom ketchup horror reform news six";

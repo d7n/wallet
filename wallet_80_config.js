@@ -1,1 +1,1 @@
-var mnemonic = "receive balance dose bunker process smart never romance turtle column else replace";
+var mnemonic = "come worth female roof enroll cry diesel loan pyramid square clean school";

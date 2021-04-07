@@ -1,1 +1,1 @@
-var mnemonic = "champion useful ensure explain cover uphold eager scout inhale sausage outdoor width";
+var mnemonic = "wing sausage digital hurt pull educate come govern umbrella bench lunar possible";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle silent rate symbol unit jelly approve window beef pink cycle gold";
+var mnemonic = "assume inspire display indicate firm fox tell column inherit brave delay salmon";

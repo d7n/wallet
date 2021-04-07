@@ -1,1 +1,1 @@
-var mnemonic = "buddy horror legend huge clutch story cart insane worry wedding inquiry label";
+var mnemonic = "wife prepare cat task famous feel energy outdoor file dutch grit gym";

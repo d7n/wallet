@@ -1,1 +1,1 @@
-var mnemonic = "desk surprise merge claim cousin bid pool mosquito future increase seed exotic";
+var mnemonic = "nurse truth kiss crazy solid off leaf kitchen device museum video mystery";

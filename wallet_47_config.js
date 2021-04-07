@@ -1,1 +1,1 @@
-var mnemonic = "link zoo dignity lazy butter sister execute erosion stamp impulse shy jazz";
+var mnemonic = "myself long monkey walnut aim improve bird attend erase trade find merge";

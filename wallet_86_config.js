@@ -1,1 +1,1 @@
-var mnemonic = "armed early decide aisle album provide found quick dutch rich track mixed";
+var mnemonic = "hurdle comfort village health mesh rival true until enhance senior much color";

@@ -1,1 +1,1 @@
-var mnemonic = "boy ride cement grow mask truth scale faith mercy bunker chunk cradle";
+var mnemonic = "match must gun abandon segment similar control absurd emotion quality foil arrive";

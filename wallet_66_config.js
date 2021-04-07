@@ -1,1 +1,1 @@
-var mnemonic = "impact crack cargo sock minute hint bracket indicate news foil response woman";
+var mnemonic = "bomb feel stuff ordinary random deer tube shock check return decrease know";

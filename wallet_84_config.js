@@ -1,1 +1,1 @@
-var mnemonic = "hazard modify hair reward hole ladder scrub glove raise trip evolve below";
+var mnemonic = "cable vibrant art night hat pistol grant tooth happy alien glance equal";

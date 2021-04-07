@@ -1,1 +1,1 @@
-var mnemonic = "pig gate captain web quality dad prevent negative sell increase orange drift";
+var mnemonic = "knee salute capital gun point file mad offer embody seven car never";

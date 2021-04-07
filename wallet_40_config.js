@@ -1,1 +1,1 @@
-var mnemonic = "crane duty syrup wool unique alpha material steak blame stumble suspect team";
+var mnemonic = "place suggest female blast weapon pulse certain salon pattern keep brisk seek";

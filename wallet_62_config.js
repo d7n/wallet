@@ -1,1 +1,1 @@
-var mnemonic = "faint setup barrel attitude habit size donate sea smoke control raw repeat";
+var mnemonic = "entry bag mixture sample symptom city alert impact ramp knife fashion win";

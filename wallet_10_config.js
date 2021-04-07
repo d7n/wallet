@@ -1,1 +1,1 @@
-var mnemonic = "else layer stomach camp gadget auction negative gaze youth slice raccoon circle";
+var mnemonic = "jealous crumble spare knee urge monkey fuel main sure never picnic actual";

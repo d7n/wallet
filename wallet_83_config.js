@@ -1,1 +1,1 @@
-var mnemonic = "sport subway chaos spend spirit coast riot pull suspect similar hotel awful";
+var mnemonic = "drama dilemma vocal slam hollow hover dentist add boy upgrade resemble rival";

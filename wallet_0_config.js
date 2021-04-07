@@ -1,1 +1,1 @@
-var mnemonic = "cable obtain bulb polar aunt suffer order dish wet alcohol paddle section";
+var mnemonic = "actor casual praise garlic robot excess island caution hunt romance extra mad";

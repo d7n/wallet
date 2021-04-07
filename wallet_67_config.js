@@ -1,1 +1,1 @@
-var mnemonic = "enjoy vintage mix either hero distance easily bind spin must mixed dry";
+var mnemonic = "angry bubble motion belt tobacco tube notice long alpha receive chair mix";

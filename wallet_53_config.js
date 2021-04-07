@@ -1,1 +1,1 @@
-var mnemonic = "rose river jacket penalty undo wasp isolate memory volcano hawk return slush";
+var mnemonic = "still area glad various one crash dove travel knock pyramid endorse auto";

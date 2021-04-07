@@ -1,1 +1,1 @@
-var mnemonic = "mystery birth lumber finish strong service satisfy boil glide special sign enable";
+var mnemonic = "figure check fury cruise nerve shed tennis match lizard memory amount color";
