@@ -1,1 +1,1 @@
-var mnemonic = "feature try innocent shoe duck inform path ostrich silk minute motion squeeze";
+var mnemonic = "age hamster file track bounce fix notable hotel shaft flip climb throw";

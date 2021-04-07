@@ -1,1 +1,1 @@
-var mnemonic = "venture battle expect pupil vanish struggle review rapid visit evoke envelope glide";
+var mnemonic = "lizard pet sauce pelican average venture agree human often chest high amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "enrich purity retreat inhale beef eagle outside sponsor tool congress medal reason";
+var mnemonic = "endorse carbon dismiss betray grab topple cream indoor piano bamboo else behind";

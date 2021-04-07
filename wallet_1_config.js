@@ -1,1 +1,1 @@
-var mnemonic = "comic entire chat guitar bus enjoy cereal prize carry segment issue clap";
+var mnemonic = "crack claw midnight limb siren office genius model flock upset horn educate";

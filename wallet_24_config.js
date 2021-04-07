@@ -1,1 +1,1 @@
-var mnemonic = "shed later income rate badge analyst squirrel chef orchard mail cover organ";
+var mnemonic = "method across confirm allow valley super ship assume kiss marriage source blind";

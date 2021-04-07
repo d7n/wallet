@@ -1,1 +1,1 @@
-var mnemonic = "human mind door arrow vacant flame bind setup pipe allow rib book";
+var mnemonic = "income gallery theme scorpion real urge concert side universe present ticket million";

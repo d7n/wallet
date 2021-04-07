@@ -1,1 +1,1 @@
-var mnemonic = "miracle certain grace velvet broken slight exclude record perfect blouse lemon among";
+var mnemonic = "robot found gallery humble sugar slow vague connect they fiscal phone seed";

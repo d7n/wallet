@@ -1,1 +1,1 @@
-var mnemonic = "kingdom resource nothing feel glass apart episode assume trick chest heart aware";
+var mnemonic = "impose fall foster frown usage room wreck coin remind tackle author truth";

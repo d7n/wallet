@@ -1,1 +1,1 @@
-var mnemonic = "aim favorite twenty pass cloth guide collect swear caught shadow scorpion drink";
+var mnemonic = "lazy project found retreat above escape panda basket bronze panel chunk alter";

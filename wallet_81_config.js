@@ -1,1 +1,1 @@
-var mnemonic = "clap reopen glass judge announce place boy volume tragic security despair adjust";
+var mnemonic = "stone tank adult issue dynamic exchange until trash give order dish attack";

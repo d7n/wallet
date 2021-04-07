@@ -1,1 +1,1 @@
-var mnemonic = "poet unfair rookie helmet consider number boost prize tip brother tourist ceiling";
+var mnemonic = "student catalog brown perfect sugar coach near order prison undo panda wife";

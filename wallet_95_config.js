@@ -1,1 +1,1 @@
-var mnemonic = "alter upset laugh organ security color flip process hammer pioneer fan mansion";
+var mnemonic = "crucial choice photo salmon brown tooth wrong fossil salmon castle local symptom";

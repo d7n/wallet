@@ -1,1 +1,1 @@
-var mnemonic = "toilet december anchor fee fault soccer crime slow genius orbit spider globe";
+var mnemonic = "need cube now bright direct harsh fence tonight execute travel lumber liberty";

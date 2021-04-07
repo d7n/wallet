@@ -1,1 +1,1 @@
-var mnemonic = "antenna poverty boring harbor age card frame observe involve click property argue";
+var mnemonic = "sand easy winter dutch recycle remind volcano consider wrist fuel tongue evil";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle busy squeeze maple remember neither script raven close border exhaust accident";
+var mnemonic = "truth about flag squirrel write harbor ivory december expect voice addict raccoon";

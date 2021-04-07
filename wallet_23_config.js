@@ -1,1 +1,1 @@
-var mnemonic = "artist vehicle cancel vast frozen hawk shaft invest drop ripple neutral palace";
+var mnemonic = "snake grid mixed exotic rough sure radio mouse sausage oyster train give";

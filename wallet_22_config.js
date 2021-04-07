@@ -1,1 +1,1 @@
-var mnemonic = "milk crawl afford focus peanut time chase skull wonder announce mask doctor";
+var mnemonic = "onion various wall crystal gorilla huge when wisdom exotic song genius bamboo";

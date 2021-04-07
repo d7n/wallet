@@ -1,1 +1,1 @@
-var mnemonic = "supreme purpose beef dragon mad portion barrel aware raise column banner during";
+var mnemonic = "giraffe fury oak cabin excess random actual twin legal fuel hidden budget";

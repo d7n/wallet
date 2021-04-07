@@ -1,1 +1,1 @@
-var mnemonic = "current what certain hidden foot hello luggage almost install picture february spin";
+var mnemonic = "between defy reduce finish voice crystal miracle adjust keen trade census dawn";

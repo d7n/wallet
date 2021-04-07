@@ -1,1 +1,1 @@
-var mnemonic = "dumb lesson category luggage series vapor grab glove profit kitten differ adult";
+var mnemonic = "doctor order rather drama fetch crew into fog summer resemble mountain universe";

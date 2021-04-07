@@ -1,1 +1,1 @@
-var mnemonic = "public father lecture section alpha swing energy brick wild adapt truly hen";
+var mnemonic = "magic floor pepper various curious check pizza purpose sniff cluster online method";

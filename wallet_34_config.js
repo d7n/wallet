@@ -1,1 +1,1 @@
-var mnemonic = "foster hurdle crime venue lobster attend other pen require entire tide cricket";
+var mnemonic = "lesson marriage illegal laugh distance swarm excite unknown rotate deputy loud method";

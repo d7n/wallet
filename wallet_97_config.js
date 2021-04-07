@@ -1,1 +1,1 @@
-var mnemonic = "hospital candy rescue produce toilet blouse chicken unknown note they forum coach";
+var mnemonic = "tiger planet crystal end fiscal system side happy theme film power super";

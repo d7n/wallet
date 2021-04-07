@@ -1,1 +1,1 @@
-var mnemonic = "brain cloud swamp curve village bulk survey inmate bind duty roast twice";
+var mnemonic = "forget adapt polar craft slide disorder buddy arena helmet organ chair slush";

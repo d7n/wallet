@@ -1,1 +1,1 @@
-var mnemonic = "fiction oblige modify reunion seat water fortune obtain slab broom impact employ";
+var mnemonic = "scatter injury tent stool bind banner often story pupil account service attend";

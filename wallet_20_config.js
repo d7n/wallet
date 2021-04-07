@@ -1,1 +1,1 @@
-var mnemonic = "earth abandon regular monster huge lake identify couple rule kitchen spread thank";
+var mnemonic = "unusual artist fan kangaroo region kid subject hope wife voice street small";

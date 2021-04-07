@@ -1,1 +1,1 @@
-var mnemonic = "service onion turtle number praise adapt scheme toast torch tip owner oxygen";
+var mnemonic = "group approve income sentence decade razor kingdom trigger ball involve anchor hazard";

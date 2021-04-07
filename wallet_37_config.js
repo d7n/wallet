@@ -1,1 +1,1 @@
-var mnemonic = "mixed judge guard casino scissors nation health merge brief square ensure shrug";
+var mnemonic = "explain atom carbon inner humor boy coach fashion twin this rain right";

@@ -1,1 +1,1 @@
-var mnemonic = "club pepper taste lobster glide exhibit teach olive invite spice notable dog";
+var mnemonic = "size uniform story kick outdoor dignity delay crucial wrap pull know live";

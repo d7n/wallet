@@ -1,1 +1,1 @@
-var mnemonic = "lens rocket pond input plate renew pluck alter unknown mind whip marine";
+var mnemonic = "brother control chief wait tennis gadget belt mad doctor baby brother wreck";

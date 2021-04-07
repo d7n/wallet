@@ -1,1 +1,1 @@
-var mnemonic = "hand lobster ice matrix afraid mimic foil tiny cattle way shed oyster";
+var mnemonic = "card rebel stomach infant blood small actual skate praise accident canoe flush";

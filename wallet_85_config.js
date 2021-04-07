@@ -1,1 +1,1 @@
-var mnemonic = "web portion lobster milk machine blur review script castle legal bright hero";
+var mnemonic = "mask bus humble pepper buffalo rude cry crater steak explain you dune";

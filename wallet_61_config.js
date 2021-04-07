@@ -1,1 +1,1 @@
-var mnemonic = "fall lyrics improve also frost enable kidney strategy coil phrase other deny";
+var mnemonic = "kick rhythm dash short coast uncle pole save clump usual exclude ecology";

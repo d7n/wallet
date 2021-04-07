@@ -1,1 +1,1 @@
-var mnemonic = "upgrade fruit envelope blade nurse leopard age life account profit cousin enrich";
+var mnemonic = "coach crane undo bamboo accuse slight tumble trim rubber frost plastic dance";

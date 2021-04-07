@@ -1,1 +1,1 @@
-var mnemonic = "brief oyster increase path edit cushion crouch profit above gauge drop sand";
+var mnemonic = "tuna dream feel labor project power diary wish actress taxi endorse heavy";

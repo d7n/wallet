@@ -1,1 +1,1 @@
-var mnemonic = "broken repair coil exact huge will anxiety era measure blue tackle cabin";
+var mnemonic = "wrestle cave media chat silk lift unit horror auto bread laundry congress";

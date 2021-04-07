@@ -1,1 +1,1 @@
-var mnemonic = "obscure orange shrimp spawn work federal pride draw version route crowd shell";
+var mnemonic = "bridge mansion will fade warrior title tortoise faculty rug mind steak duty";

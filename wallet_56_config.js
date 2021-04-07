@@ -1,1 +1,1 @@
-var mnemonic = "media plate shaft fiber aisle card fabric deliver derive rule snow sword";
+var mnemonic = "vendor desk promote script boring goddess orchard cloth glance luggage chase doll";

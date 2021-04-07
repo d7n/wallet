@@ -1,1 +1,1 @@
-var mnemonic = "pyramid name tape unknown field lift urge kiss ginger knife discover bench";
+var mnemonic = "raw problem tone bulk swift diary soccer whisper gossip mirror regret control";

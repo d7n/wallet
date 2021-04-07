@@ -1,1 +1,1 @@
-var mnemonic = "stem actress special frown concert library fiscal nominee raven menu ghost print";
+var mnemonic = "retreat flee adjust basic invest table rely helmet warm lonely federal ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "outer wolf bag lonely lawsuit sadness deliver hold ensure merry reason rent";
+var mnemonic = "special canyon lens jealous spy physical brass soldier flower ticket nose range";

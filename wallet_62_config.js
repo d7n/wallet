@@ -1,1 +1,1 @@
-var mnemonic = "alien spawn raise slush coffee seven move party shop afraid volume topic";
+var mnemonic = "auction spice inspire rose runway stomach snack romance item yellow angry bomb";

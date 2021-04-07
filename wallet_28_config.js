@@ -1,1 +1,1 @@
-var mnemonic = "tissue rib differ regular heart witness what market dish chuckle young rapid";
+var mnemonic = "absurd force blur liberty silver inhale federal minimum category town move kit";

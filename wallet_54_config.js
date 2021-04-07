@@ -1,1 +1,1 @@
-var mnemonic = "plastic outer animal kick brand candy quick distance stable dinosaur brown fringe";
+var mnemonic = "answer ready north simple clay people hint twist suspect chunk mask win";

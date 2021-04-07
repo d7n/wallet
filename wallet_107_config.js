@@ -1,1 +1,1 @@
-var mnemonic = "insane garage hundred example wash then feed noise team reopen betray idle";
+var mnemonic = "cram ridge useless plate concert evil leave atom east powder vehicle flight";

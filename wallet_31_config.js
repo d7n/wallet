@@ -1,1 +1,1 @@
-var mnemonic = "frequent wink label youth broom celery alien play champion just unique also";
+var mnemonic = "wonder erode tent muffin school kit toy brick blur elevator egg warrior";

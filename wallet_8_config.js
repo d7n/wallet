@@ -1,1 +1,1 @@
-var mnemonic = "balcony jelly entry evoke tilt leaf tackle puppy cigar term clinic pave";
+var mnemonic = "result border video hurdle member frost rail always imitate need lunar theory";

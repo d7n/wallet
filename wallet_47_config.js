@@ -1,1 +1,1 @@
-var mnemonic = "erupt casino skill panther gate uncover off divert worry nature judge slogan";
+var mnemonic = "will stairs gold genuine peace boil long rug unlock review reward bless";

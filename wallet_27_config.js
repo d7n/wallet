@@ -1,1 +1,1 @@
-var mnemonic = "income buffalo level output boring talk same rhythm photo custom stadium property";
+var mnemonic = "chronic tiny motor seed wait liquid butter guard scissors style place harsh";

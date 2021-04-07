@@ -1,1 +1,1 @@
-var mnemonic = "soul better dismiss drama fish pluck minute help figure say sphere cradle";
+var mnemonic = "genre clap scare gas bachelor point oil below scare junior razor illness";

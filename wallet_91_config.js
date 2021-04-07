@@ -1,1 +1,1 @@
-var mnemonic = "mother desk jacket swear merge phrase wrap genre cube weird orchard dignity";
+var mnemonic = "buzz empty pistol hidden clinic talk wrestle frame banana anxiety belt delay";

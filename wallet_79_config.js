@@ -1,1 +1,1 @@
-var mnemonic = "inflict wine water myth buzz cover budget expand reduce soup ribbon gauge";
+var mnemonic = "crystal dwarf fit silk service marriage volcano fever public police raccoon provide";

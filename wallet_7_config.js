@@ -1,1 +1,1 @@
-var mnemonic = "member sure elder float monkey logic thumb task hybrid romance good matter";
+var mnemonic = "unlock radar question rotate again consider client shop gate bus craft hundred";

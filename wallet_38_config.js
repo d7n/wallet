@@ -1,1 +1,1 @@
-var mnemonic = "glimpse spring salute desk already planet velvet gym cream taste unaware donor";
+var mnemonic = "assault nature order fall treat winner plug apple network island panther spoil";

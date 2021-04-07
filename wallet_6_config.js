@@ -1,1 +1,1 @@
-var mnemonic = "release cement system taste shoe remain borrow knee current clarify random install";
+var mnemonic = "account maze alien popular expect baby say crumble what measure curious winner";

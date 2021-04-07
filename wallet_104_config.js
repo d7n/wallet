@@ -1,1 +1,1 @@
-var mnemonic = "pupil pilot spot celery radio lucky eyebrow despair amateur ketchup hood always";
+var mnemonic = "next original fall crowd begin trim acoustic board ordinary point doll protect";

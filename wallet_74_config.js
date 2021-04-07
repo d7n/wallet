@@ -1,1 +1,1 @@
-var mnemonic = "beauty critic fiscal stock animal enroll fury type school much private divide";
+var mnemonic = "palm cherry bread anger inform amount purchase antenna path type bracket agree";

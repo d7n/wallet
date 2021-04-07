@@ -1,1 +1,1 @@
-var mnemonic = "over beach space autumn ribbon clarify wink member menu situate teach resemble";
+var mnemonic = "child reunion win exhibit intact twenty help steel pass powder name dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry antique scout vivid walk discover arch afraid blanket skill crater raw";
+var mnemonic = "frost rocket endless menu year toilet forget tank kid detect shield century";

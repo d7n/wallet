@@ -1,1 +1,1 @@
-var mnemonic = "magic whale pear film equip satisfy ticket forum coin gap lock rate";
+var mnemonic = "wage web snap injury effort else super blouse deliver always curtain left";

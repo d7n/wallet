@@ -1,1 +1,1 @@
-var mnemonic = "gossip engage drill equip typical defy risk tragic rapid drill stem draw";
+var mnemonic = "plate vessel mad sport render found lady large street salute olive cushion";

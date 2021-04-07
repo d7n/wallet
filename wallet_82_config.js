@@ -1,1 +1,1 @@
-var mnemonic = "diagram enact gain nature quarter collect decide fluid tag endless change youth";
+var mnemonic = "penalty fence once turn dream quantum predict copy phrase liberty ancient kiss";

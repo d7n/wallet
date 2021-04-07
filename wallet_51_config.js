@@ -1,1 +1,1 @@
-var mnemonic = "shield seat april prevent bargain latin accident entry erase increase journey reform";
+var mnemonic = "rookie side fee message add eternal rookie dentist minimum secret catch edge";

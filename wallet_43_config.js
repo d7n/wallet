@@ -1,1 +1,1 @@
-var mnemonic = "balance caution unable envelope twelve extend silent can attend inch summer guitar";
+var mnemonic = "strong detail student unique silver short confirm scrap vote cage tape deliver";

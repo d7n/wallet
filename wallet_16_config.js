@@ -1,1 +1,1 @@
-var mnemonic = "sample hint mystery clerk call hunt ceiling dust mirror gain dawn common";
+var mnemonic = "rain pepper fantasy field stereo combine brush scheme must basket jealous remember";

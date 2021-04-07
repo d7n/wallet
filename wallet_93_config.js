@@ -1,1 +1,1 @@
-var mnemonic = "voyage around crush season crunch runway bid decline wire teach team naive";
+var mnemonic = "spy cliff cruise alter diet race twenty raise verify enforce august cupboard";

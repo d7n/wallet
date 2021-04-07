@@ -1,1 +1,1 @@
-var mnemonic = "garlic state brief electric dignity stable laptop fork maid tool nuclear pull";
+var mnemonic = "inform dentist car plate inhale gorilla leave special fog float rail bracket";

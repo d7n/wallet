@@ -1,1 +1,1 @@
-var mnemonic = "various become green power roast lunar autumn yellow mask pole neither daughter";
+var mnemonic = "paddle truth owner hamster open moon zoo camera trouble category sudden flame";

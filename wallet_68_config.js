@@ -1,1 +1,1 @@
-var mnemonic = "math child bundle once display pluck image host drift small walk ginger";
+var mnemonic = "guide tag useless dragon dismiss wood bag retreat laundry cement vital apple";

@@ -1,1 +1,1 @@
-var mnemonic = "work case thumb write hard industry same nothing web cave dignity electric";
+var mnemonic = "bid seat diet quarter drop chest canoe pretty object verb fringe tape";

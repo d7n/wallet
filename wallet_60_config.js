@@ -1,1 +1,1 @@
-var mnemonic = "degree hurry true cement door boat rely report rib erase churn flavor";
+var mnemonic = "enrich oblige praise then gaze rally grant exotic account doctor curious neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "raw subject melody plastic elite beach voice unknown waste quiz inmate gold";
+var mnemonic = "intact skirt inflict double monitor trick fossil muscle runway judge win open";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas dial next main shiver pond assault small dove rebel kid debate";
+var mnemonic = "runway deer distance empty youth twist method sense all viable hungry skate";

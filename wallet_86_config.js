@@ -1,1 +1,1 @@
-var mnemonic = "trigger spirit history bicycle math course neck asthma stadium flag token glass";
+var mnemonic = "tool hungry total throw outer habit eyebrow mandate boss eye like dinner";

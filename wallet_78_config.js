@@ -1,1 +1,1 @@
-var mnemonic = "cart enemy quantum lizard gym clip review garlic nice desert term amount";
+var mnemonic = "intact exercise quick merry transfer skirt naive child glory awkward pyramid this";

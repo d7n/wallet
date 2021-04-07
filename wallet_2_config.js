@@ -1,1 +1,1 @@
-var mnemonic = "clay doctor north gain very regret rotate then what guess quantum type";
+var mnemonic = "village pass scrub price clog avoid destroy thunder vocal concert obey quiz";

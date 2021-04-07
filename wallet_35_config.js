@@ -1,1 +1,1 @@
-var mnemonic = "enrich almost output accident sing increase sick decrease grab motor borrow afraid";
+var mnemonic = "upgrade parrot destroy pipe path web vintage museum since erupt define defense";

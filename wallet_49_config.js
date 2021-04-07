@@ -1,1 +1,1 @@
-var mnemonic = "never paddle brick fringe palm question blanket much sister average convince wisdom";
+var mnemonic = "ozone canvas unaware renew badge adapt clock dog humble bike giant burst";

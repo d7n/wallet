@@ -1,1 +1,1 @@
-var mnemonic = "absurd rain raccoon wide there sing guess steel valley improve december cloud";
+var mnemonic = "satoshi muscle satoshi animal scheme dynamic march answer own broccoli movie wink";

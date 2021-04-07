@@ -1,1 +1,1 @@
-var mnemonic = "survey ramp rookie stomach lift govern morning dress hair salt box spray";
+var mnemonic = "reflect bubble pear gloom away rent virtual oblige crash just stool plug";

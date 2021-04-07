@@ -1,1 +1,1 @@
-var mnemonic = "dune slender palm crane vanish cactus humble finish exchange company undo idea";
+var mnemonic = "manage surround strategy mesh salute stick lounge butter oil velvet cave plate";

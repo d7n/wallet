@@ -1,1 +1,1 @@
-var mnemonic = "junk manage jar dutch deny message left diary wear harsh mistake replace";
+var mnemonic = "mountain depart kid prosper fee wolf gate audit sense flag silly wisdom";

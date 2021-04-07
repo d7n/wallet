@@ -1,1 +1,1 @@
-var mnemonic = "jump valley sponsor random prefer trim rival village eternal cash wage bottom";
+var mnemonic = "stomach almost result mean maze mobile return daring public banana account recycle";

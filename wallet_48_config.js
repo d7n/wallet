@@ -1,1 +1,1 @@
-var mnemonic = "energy anchor blush zone gloom essay expect month wink spend define moral";
+var mnemonic = "hour toward limit girl riot nuclear type hobby recycle bargain super arrow";

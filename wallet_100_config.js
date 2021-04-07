@@ -1,1 +1,1 @@
-var mnemonic = "unit ridge ugly actual input imitate deputy clown rebel twelve dinner six";
+var mnemonic = "bomb result embark excuse cannon midnight safe walnut pelican anger tell pond";

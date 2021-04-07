@@ -1,1 +1,1 @@
-var mnemonic = "quote truly mistake magic magic bus ticket urban any kiss minor there";
+var mnemonic = "bicycle hover fold noodle enlist bless novel mosquito snap peace mosquito asset";

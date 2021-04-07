@@ -1,1 +1,1 @@
-var mnemonic = "treat master crawl doctor quote license edge cream door bicycle above enable";
+var mnemonic = "dragon embark immune dumb screen they task brown casual woman galaxy social";

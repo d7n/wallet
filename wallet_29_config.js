@@ -1,1 +1,1 @@
-var mnemonic = "gauge trigger famous tree congress pact body hedgehog under six glance crop";
+var mnemonic = "exclude pen two arena autumn lift turtle scissors hip balance later uncover";

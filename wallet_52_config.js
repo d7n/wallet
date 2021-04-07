@@ -1,1 +1,1 @@
-var mnemonic = "maze clay seat loud refuse method maple orient peace canyon rubber spray";
+var mnemonic = "verb never library short silly safe struggle parrot remove flee swamp junk";
