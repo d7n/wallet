@@ -1,1 +1,1 @@
-var mnemonic = "whale next offer dad series brief intact tone crew gravity hunt mango";
+var mnemonic = "meadow casino error pet muffin avocado scare fever heart tower pizza unfair";

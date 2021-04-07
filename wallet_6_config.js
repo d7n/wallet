@@ -1,1 +1,1 @@
-var mnemonic = "key sheriff dynamic lazy credit sad answer wave fury gym cable senior";
+var mnemonic = "harbor solution bridge receive rack resist garden leave morning snap reduce point";

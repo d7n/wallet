@@ -1,1 +1,1 @@
-var mnemonic = "file rural gadget tired kangaroo desert modify naive expire autumn expose lion";
+var mnemonic = "cost circle large spin gasp shuffle rib order pen chase essence strong";

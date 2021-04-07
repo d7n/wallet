@@ -1,1 +1,1 @@
-var mnemonic = "question sting problem fashion scissors menu custom settle purse debate bomb february";
+var mnemonic = "panel place vicious this ritual melt key around fix gallery net foster";

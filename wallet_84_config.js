@@ -1,1 +1,1 @@
-var mnemonic = "alien inherit mom top solve resist abandon reduce jar average cave move";
+var mnemonic = "always square convince other mom fault modify train damage unveil there bird";

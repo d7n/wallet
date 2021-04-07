@@ -1,1 +1,1 @@
-var mnemonic = "spawn noise olive assume sudden close similar empty enroll blush lucky oblige";
+var mnemonic = "involve unfold sunny armor dial wood banner wink build walnut amused denial";

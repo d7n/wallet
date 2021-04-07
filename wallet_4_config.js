@@ -1,1 +1,1 @@
-var mnemonic = "print dust near armed mirror jelly life sunny orphan bus skirt practice";
+var mnemonic = "endless grief coil salon marriage shoulder shy pattern hurdle visual picture furnace";

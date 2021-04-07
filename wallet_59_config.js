@@ -1,1 +1,1 @@
-var mnemonic = "repeat differ gate primary year roast blame wink drift happy reject liquid";
+var mnemonic = "minute hundred pepper liberty diamond smile pair lamp spare bench broken call";

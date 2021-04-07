@@ -1,1 +1,1 @@
-var mnemonic = "resist huge observe stay unique divert voice cancel wave again near delay";
+var mnemonic = "mandate pumpkin blue pigeon connect hour solid write reward toward rubber sunset";

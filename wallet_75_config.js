@@ -1,1 +1,1 @@
-var mnemonic = "lend novel pond plug veteran void profit empty fortune cricket side lemon";
+var mnemonic = "eager clay plate teach paper hamster cause help attack curve dress erupt";

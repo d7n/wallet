@@ -1,1 +1,1 @@
-var mnemonic = "orange luxury brisk crane old aim ski shell crystal explain differ couch";
+var mnemonic = "base lottery office front way raccoon source insane load broom cause thrive";

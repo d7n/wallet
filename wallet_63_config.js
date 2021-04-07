@@ -1,1 +1,1 @@
-var mnemonic = "obey element note busy type exact pause mirror first gift ask paddle";
+var mnemonic = "easy beauty staff still south orchard maze slight honey coast guide educate";

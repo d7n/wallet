@@ -1,1 +1,1 @@
-var mnemonic = "moral hotel gentle board hover wear silent door west amateur seek grief";
+var mnemonic = "they rich bargain decrease nasty dynamic brisk gold stuff humble doctor produce";

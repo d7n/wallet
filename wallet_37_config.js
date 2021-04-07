@@ -1,1 +1,1 @@
-var mnemonic = "discover just describe glare code echo organ relax athlete reopen hill knife";
+var mnemonic = "print tape bid chief sight accident wait finger about soul alien silk";

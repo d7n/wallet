@@ -1,1 +1,1 @@
-var mnemonic = "once hour hair liar before express fork omit awkward space army sing";
+var mnemonic = "fork century orange honey invest mammal install smooth kid uniform amused father";

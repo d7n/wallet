@@ -1,1 +1,1 @@
-var mnemonic = "slogan service finger sword series wealth brain slice tooth force message soft";
+var mnemonic = "subject return section desk brave dutch prison team street cactus tomato olympic";

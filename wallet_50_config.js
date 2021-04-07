@@ -1,1 +1,1 @@
-var mnemonic = "universe convince lyrics soap kick steak churn control video coffee result sun";
+var mnemonic = "face robust two anger certain summer naive assume buyer border cross utility";

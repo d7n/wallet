@@ -1,1 +1,1 @@
-var mnemonic = "brass laugh jealous legal parrot option kiwi eternal among height timber moral";
+var mnemonic = "edit distance million depth marble slide slight comfort simple west version finger";

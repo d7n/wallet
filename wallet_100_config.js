@@ -1,1 +1,1 @@
-var mnemonic = "helmet attract vast vessel weapon onion that gate wing welcome loyal sister";
+var mnemonic = "educate giggle pistol legend exercise fossil someone upper night resource deliver peace";

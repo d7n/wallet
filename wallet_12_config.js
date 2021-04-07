@@ -1,1 +1,1 @@
-var mnemonic = "fly reason adult case butter remain idle filter inmate soon defy great";
+var mnemonic = "return catch venture lemon spy destroy search exit thing young cable antenna";

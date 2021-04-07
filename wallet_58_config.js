@@ -1,1 +1,1 @@
-var mnemonic = "talk close face soul diary fence clock brick economy spot spider stomach";
+var mnemonic = "stock north decrease orbit ball attract duck noble loud sock reject kingdom";

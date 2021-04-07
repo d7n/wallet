@@ -1,1 +1,1 @@
-var mnemonic = "else cloud violin wreck picture zone broom calm clock farm orbit anxiety";
+var mnemonic = "stay axis monitor always provide announce table surprise cart believe hint click";

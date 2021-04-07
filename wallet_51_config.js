@@ -1,1 +1,1 @@
-var mnemonic = "bachelor enemy fit leg shoot airport relax slab clinic bonus select chimney";
+var mnemonic = "fade return label alien mind monitor zero shove bullet unveil motion media";

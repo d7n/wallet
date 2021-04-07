@@ -1,1 +1,1 @@
-var mnemonic = "warrior trial mistake silly acid electric buzz spawn panther shoulder next trial";
+var mnemonic = "silk cotton multiply order congress carbon demand worry among hammer design enable";

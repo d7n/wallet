@@ -1,1 +1,1 @@
-var mnemonic = "category marriage service artist symptom trumpet proof loyal sentence chimney eternal gate";
+var mnemonic = "sniff name census can glove lady pair slush prosper choice nasty submit";

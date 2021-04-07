@@ -1,1 +1,1 @@
-var mnemonic = "inflict aware lesson people hospital divide oxygen citizen crane dragon summer guilt";
+var mnemonic = "cruel quarter rocket huge cotton fan smoke infant imitate aspect attract sense";

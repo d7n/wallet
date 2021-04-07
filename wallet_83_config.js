@@ -1,1 +1,1 @@
-var mnemonic = "six engine voyage minimum ill clock item carpet strike model please rubber";
+var mnemonic = "stone december strategy demise session dad era burger little bag spell jump";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn enroll diamond mixed expand fiscal family deputy soon casual milk evolve";
+var mnemonic = "autumn milk cause siren rebuild hurdle sketch payment cage reopen lobster warfare";

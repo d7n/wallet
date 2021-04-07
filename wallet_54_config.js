@@ -1,1 +1,1 @@
-var mnemonic = "fork symbol drum coffee biology just phone lecture pluck power female dance";
+var mnemonic = "bottom crew possible main dog motion body lunar fitness vapor tissue screen";

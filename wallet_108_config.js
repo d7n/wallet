@@ -1,1 +1,1 @@
-var mnemonic = "misery govern rent wide thrive coach mixture scout easy bargain caution satisfy";
+var mnemonic = "oven joy oyster deal twice wisdom rent blind toast solar breeze hunt";

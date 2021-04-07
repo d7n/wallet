@@ -1,1 +1,1 @@
-var mnemonic = "wrap garage gather change town ensure tribe average slogan swift bag solar";
+var mnemonic = "tomato unit build leaf token remind pony silent noise topple sign vast";

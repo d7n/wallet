@@ -1,1 +1,1 @@
-var mnemonic = "venture month sphere anchor transfer title cannon wash poet drip maple struggle";
+var mnemonic = "gesture oven exit smoke token text inherit bunker exotic soap spatial cruel";

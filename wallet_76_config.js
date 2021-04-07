@@ -1,1 +1,1 @@
-var mnemonic = "transfer gloom bike chat flavor aisle wife element duty drip table dinosaur";
+var mnemonic = "trumpet execute ocean crater now expire broccoli grant actor caught spot modify";

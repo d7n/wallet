@@ -1,1 +1,1 @@
-var mnemonic = "sustain year cluster gauge fire style flavor asset example notable maid foil";
+var mnemonic = "film because spend image cancel record island warfare skate marriage accuse prosper";

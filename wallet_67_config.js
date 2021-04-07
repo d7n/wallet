@@ -1,1 +1,1 @@
-var mnemonic = "wet armor swallow crucial among super diary degree pudding service original help";
+var mnemonic = "mad tip sugar foot scene tornado mansion holiday core priority stomach connect";

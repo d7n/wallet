@@ -1,1 +1,1 @@
-var mnemonic = "hobby slogan blue fun silent credit reunion middle rude gold proud clog";
+var mnemonic = "motor talent upper detail client object lunar please rain chef educate edit";

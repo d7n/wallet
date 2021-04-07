@@ -1,1 +1,1 @@
-var mnemonic = "lesson museum clap promote raw execute rookie wage city crunch fluid cram";
+var mnemonic = "cabbage surge double spell second boss topple elder exclude define lend cherry";

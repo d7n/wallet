@@ -1,1 +1,1 @@
-var mnemonic = "host toy debate charge account wheat fabric patrol normal tragic laptop absurd";
+var mnemonic = "gauge gift mother dose myth sort chat latin tide cream wire frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic clump ecology deny large exact mutual merit laugh volume museum screen";
+var mnemonic = "tooth tobacco coconut outside people clutch impulse exhaust depend muscle lizard flush";

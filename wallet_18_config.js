@@ -1,1 +1,1 @@
-var mnemonic = "embrace island evidence exact rescue remember dolphin mask guard exchange soon such";
+var mnemonic = "lesson elegant rifle toe best gold library attract diagram detect punch surface";

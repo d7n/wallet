@@ -1,1 +1,1 @@
-var mnemonic = "hat goose drum eye speak ranch damage spray lyrics warm anxiety fabric";
+var mnemonic = "uniform truth pigeon divert better pelican success honey reveal hen valid cruise";

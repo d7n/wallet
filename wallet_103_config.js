@@ -1,1 +1,1 @@
-var mnemonic = "column daughter toe erosion maze bus cost ankle minor virtual indicate list";
+var mnemonic = "debate loop myself dish town dune humor advice blame distance unveil announce";

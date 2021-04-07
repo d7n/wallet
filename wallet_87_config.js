@@ -1,1 +1,1 @@
-var mnemonic = "excuse vivid fat talk label great stove engine estate crater battle flush";
+var mnemonic = "concert sister trend exhaust ankle science surprise such provide tilt doctor sound";

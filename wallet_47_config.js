@@ -1,1 +1,1 @@
-var mnemonic = "one ensure roof army jacket rely congress shed buffalo favorite pluck antique";
+var mnemonic = "charge jump noise omit anchor math fruit powder young craft lawsuit obey";

@@ -1,1 +1,1 @@
-var mnemonic = "tape obvious melt icon document corn arctic virus phone swift course neutral";
+var mnemonic = "timber dignity loud rug almost music success obtain empty acquire bottom project";

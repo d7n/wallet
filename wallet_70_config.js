@@ -1,1 +1,1 @@
-var mnemonic = "blind crack skull dose hope square maple humor faculty drip night crowd";
+var mnemonic = "enroll treat swap merit smooth practice crowd fresh usage punch seminar common";

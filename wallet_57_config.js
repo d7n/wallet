@@ -1,1 +1,1 @@
-var mnemonic = "oppose flip road alter focus robot green dynamic shrug kangaroo attend resist";
+var mnemonic = "kiss ankle next art forget clutch hour hint love recycle tired result";

@@ -1,1 +1,1 @@
-var mnemonic = "polar home gather gap umbrella range pull cruise december fine into height";
+var mnemonic = "uncle pass oblige palm any cement record disorder violin country biology old";

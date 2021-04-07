@@ -1,1 +1,1 @@
-var mnemonic = "genuine neck gain very pony nature solid skin riot cloth hospital invite";
+var mnemonic = "pelican scrap spare smart intact state junk smoke label camp member leaf";

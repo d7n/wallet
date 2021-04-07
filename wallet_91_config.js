@@ -1,1 +1,1 @@
-var mnemonic = "blossom hospital push napkin beyond reduce frame index ball fatal maze news";
+var mnemonic = "problem simple identify strategy squeeze essence fame aerobic bracket neck cheap merry";

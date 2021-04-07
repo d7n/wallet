@@ -1,1 +1,1 @@
-var mnemonic = "festival hip giraffe easy pause sorry mind typical mango series park shrug";
+var mnemonic = "betray major maximum spatial brush traffic assist gasp warm dizzy feel skate";

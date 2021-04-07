@@ -1,1 +1,1 @@
-var mnemonic = "income shove fitness dance video soccer trigger actress saddle avocado update leg";
+var mnemonic = "noise gauge pitch snack little insect debris coach car also edge mirror";

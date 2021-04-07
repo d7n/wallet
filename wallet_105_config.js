@@ -1,1 +1,1 @@
-var mnemonic = "own strategy achieve pool clog dance door naive endless affair busy bring";
+var mnemonic = "jewel scale approve genius strike select visual actor humor host avoid frown";

@@ -1,1 +1,1 @@
-var mnemonic = "decide dutch tribe lend reveal alert tuition kid super dance term surprise";
+var mnemonic = "bag sponsor mean grow behind media amazing method genre waste weasel club";

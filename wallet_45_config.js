@@ -1,1 +1,1 @@
-var mnemonic = "shrimp steel drift sort garment pipe romance jelly tent business assist fault";
+var mnemonic = "lend dignity world maid moral model patient rocket surprise wash fence chair";

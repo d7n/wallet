@@ -1,1 +1,1 @@
-var mnemonic = "congress jelly crumble near success gravity practice answer mobile flip lemon catalog";
+var mnemonic = "friend lobster enter swamp name science patch tail zebra giggle scrap scorpion";

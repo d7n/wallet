@@ -1,1 +1,1 @@
-var mnemonic = "wonder pilot brisk pill bind nephew silly prepare before antique legal evolve";
+var mnemonic = "matter wrap yard uncle birth treat buzz reduce hollow lazy country buffalo";

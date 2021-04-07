@@ -1,1 +1,1 @@
-var mnemonic = "gain impact west rough evolve throw parrot rule hunt rule enrich marriage";
+var mnemonic = "lawsuit muscle ripple cancel six vacuum outer okay legal story universe amount";

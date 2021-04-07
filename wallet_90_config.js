@@ -1,1 +1,1 @@
-var mnemonic = "surround pony hidden inquiry can bronze test dizzy steak express rebel trouble";
+var mnemonic = "sad artist process behind tide dinosaur you into twenty urge grass scout";

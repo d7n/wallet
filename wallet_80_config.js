@@ -1,1 +1,1 @@
-var mnemonic = "reason tunnel rabbit scissors develop they mad fault absent focus snap gauge";
+var mnemonic = "blind divorce neither weather inside about maid fat torch ordinary chalk whip";

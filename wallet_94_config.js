@@ -1,1 +1,1 @@
-var mnemonic = "helmet steel betray rule middle drama derive canal endorse wage switch achieve";
+var mnemonic = "shallow husband lock catalog shine curtain table jazz eyebrow rabbit army enrich";

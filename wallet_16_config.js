@@ -1,1 +1,1 @@
-var mnemonic = "tower require normal eager amount choose innocent canyon tent raw thank course";
+var mnemonic = "lonely bone apology index tenant nose miss wink practice element muffin course";

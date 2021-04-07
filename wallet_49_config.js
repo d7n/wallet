@@ -1,1 +1,1 @@
-var mnemonic = "buffalo snake forget vanish acoustic draft ripple angle warm ritual deliver endorse";
+var mnemonic = "scene install load girl vintage broom stadium sauce rookie amused gasp border";

@@ -1,1 +1,1 @@
-var mnemonic = "faculty knife forward easy opera capital fat immense essence comfort turkey picnic";
+var mnemonic = "food exhaust rack language small forum stairs trip express apology symbol size";

@@ -1,1 +1,1 @@
-var mnemonic = "regret grocery magnet sniff paper thank opinion column lizard speed ugly scissors";
+var mnemonic = "magnet state cluster feel cube panic gym anxiety coffee owner era basket";

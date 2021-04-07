@@ -1,1 +1,1 @@
-var mnemonic = "salute zebra nose resist health crouch whip wheat power violin focus tunnel";
+var mnemonic = "peanut mutual print client comic orient husband finger reopen rule lucky one";

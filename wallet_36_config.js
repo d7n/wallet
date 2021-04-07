@@ -1,1 +1,1 @@
-var mnemonic = "wisdom enroll donor little entry rough rain someone wheat lobster crowd window";
+var mnemonic = "picnic size test cluster movie large crew crime good pilot motion elevator";

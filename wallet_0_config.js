@@ -1,1 +1,1 @@
-var mnemonic = "corn embody west speed dream exhibit bid tip endorse siren drink loop";
+var mnemonic = "fault march pull elder smile return journey battle purse shoulder hope oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "scare salmon kiwi planet snake noble often chuckle half coral focus sheriff";
+var mnemonic = "old lake liquid primary wolf finish report inch depart test decide chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard promote happy accuse include rude wonder ecology drip pledge veteran exist";
+var mnemonic = "random depend peasant rabbit again junior loop session boring giant tomato resource";

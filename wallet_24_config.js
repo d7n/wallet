@@ -1,1 +1,1 @@
-var mnemonic = "settle assist supply pair snack quick maple hamster logic bacon muffin moral";
+var mnemonic = "swift dinosaur street bird nephew actress grass soap you inmate pelican cereal";

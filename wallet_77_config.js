@@ -1,1 +1,1 @@
-var mnemonic = "exotic powder room able spy insect subway man glance expand permit shadow";
+var mnemonic = "find arrow morning quote subway holiday frequent gravity head nuclear forest similar";

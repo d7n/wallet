@@ -1,1 +1,1 @@
-var mnemonic = "nation laundry dove bottom various umbrella sleep forget author atom infant broken";
+var mnemonic = "debate tank miracle narrow audit social border guilt future derive bachelor pole";

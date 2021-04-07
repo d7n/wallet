@@ -1,1 +1,1 @@
-var mnemonic = "confirm face pistol fortune slice dream marble ride bullet fold usual blush";
+var mnemonic = "energy super guilt way minimum useless anxiety half type offer casino slab";

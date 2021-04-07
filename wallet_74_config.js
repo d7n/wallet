@@ -1,1 +1,1 @@
-var mnemonic = "nurse letter confirm boring robot soup melody grant color right congress coach";
+var mnemonic = "skate kiwi practice onion lemon useful embody blade device absurd setup antique";

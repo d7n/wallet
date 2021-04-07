@@ -1,1 +1,1 @@
-var mnemonic = "boy connect window satoshi album theory shoe naive public rude draft unaware";
+var mnemonic = "real black cotton moral reveal biology cushion shoot daring lounge broom hawk";

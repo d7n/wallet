@@ -1,1 +1,1 @@
-var mnemonic = "measure fabric issue twin cave adapt script skill immense liberty below hill";
+var mnemonic = "daring hurdle solve object strategy favorite judge sponsor alcohol interest borrow sponsor";

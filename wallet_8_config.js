@@ -1,1 +1,1 @@
-var mnemonic = "settle fault cake wedding glass meat oil dish practice thunder improve kind";
+var mnemonic = "prefer release media exotic quality strike common coral govern real trophy expire";

@@ -1,1 +1,1 @@
-var mnemonic = "visit sugar pink advance exotic rule vanish stereo someone stamp nothing increase";
+var mnemonic = "arena kangaroo kidney spatial risk point lab middle wolf true device airport";

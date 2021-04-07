@@ -1,1 +1,1 @@
-var mnemonic = "save pistol proof blue hill pact profit easily buyer oppose first broken";
+var mnemonic = "pledge now romance surround nice talk load frost slide dragon expire vault";

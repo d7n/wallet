@@ -1,1 +1,1 @@
-var mnemonic = "father length front hockey repeat swallow wheel bright science mixed shaft note";
+var mnemonic = "divert run chest cabbage symptom destroy stadium soft emerge build between seminar";

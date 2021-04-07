@@ -1,1 +1,1 @@
-var mnemonic = "flower oblige ordinary jaguar blind arctic absent police sphere lecture own near";
+var mnemonic = "service grunt clean powder horse chuckle canal pill rare solution number color";

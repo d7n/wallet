@@ -1,1 +1,1 @@
-var mnemonic = "else misery sense spray bridge peasant misery angry march update educate inherit";
+var mnemonic = "dish motion above enforce brand judge sphere celery arrow ill wink vintage";

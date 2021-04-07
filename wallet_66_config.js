@@ -1,1 +1,1 @@
-var mnemonic = "album planet resource second quit piano cinnamon tennis situate void omit source";
+var mnemonic = "menu sentence pen year glow smooth host jump aware alley else glow";

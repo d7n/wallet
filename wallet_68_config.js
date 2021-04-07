@@ -1,1 +1,1 @@
-var mnemonic = "planet grocery behind sense rotate magnet install shine family category begin scheme";
+var mnemonic = "umbrella ancient noise coast scatter call margin deny mention risk reform sound";

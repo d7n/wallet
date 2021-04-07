@@ -1,1 +1,1 @@
-var mnemonic = "critic net leisure extra dinosaur intact excuse someone recycle limit mammal eyebrow";
+var mnemonic = "riot sure rubber element parrot marriage vault trade fine attend object orange";

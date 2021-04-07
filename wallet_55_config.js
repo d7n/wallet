@@ -1,1 +1,1 @@
-var mnemonic = "huge barrel dirt dolphin force shock category someone celery actress neglect blame";
+var mnemonic = "pole bind industry soccer palm pink cry rent all paddle visa before";

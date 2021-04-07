@@ -1,1 +1,1 @@
-var mnemonic = "sell eyebrow agent excite skirt skate wedding toss ladder genius picture student";
+var mnemonic = "cake hobby ginger donkey stuff image task fire chase fine outside silent";

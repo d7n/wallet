@@ -1,1 +1,1 @@
-var mnemonic = "wait sniff invite angry interest cinnamon charge patch isolate trip turn must";
+var mnemonic = "tent affair version weasel truck shed option ranch recipe weather interest media";

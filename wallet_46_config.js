@@ -1,1 +1,1 @@
-var mnemonic = "secret possible dream orient image squeeze govern roast gift vintage food shallow";
+var mnemonic = "chalk protect tube kitchen snack interest woman gospel injury protect custom tissue";
