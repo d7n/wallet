@@ -1,1 +1,1 @@
-var mnemonic = "age polar glad enter next vivid robot force must olympic stuff apology";
+var mnemonic = "match fortune ketchup coyote proof toy skirt upgrade fine laugh water shallow";

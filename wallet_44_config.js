@@ -1,1 +1,1 @@
-var mnemonic = "stool arrive crazy slab brush attitude high duck alarm viable drink fork";
+var mnemonic = "want they ribbon enough wrestle file silent width solid blast skirt exercise";

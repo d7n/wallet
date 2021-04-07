@@ -1,1 +1,1 @@
-var mnemonic = "eagle wreck again forest myself fitness edge load winner success frozen wear";
+var mnemonic = "isolate happy dentist beyond gesture history until knee meadow remove pupil have";

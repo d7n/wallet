@@ -1,1 +1,1 @@
-var mnemonic = "volume mule screen ethics crazy bleak quote wrist multiply cup deny dinner";
+var mnemonic = "sweet impact raccoon regret clown jelly involve knife globe another fashion insane";

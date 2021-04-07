@@ -1,1 +1,1 @@
-var mnemonic = "shock ankle sad camera category rhythm ginger top else tiny dog change";
+var mnemonic = "mule stadium seminar sort gaze cup slide anxiety glue neglect awesome kidney";

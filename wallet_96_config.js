@@ -1,1 +1,1 @@
-var mnemonic = "pistol reform dog resemble father dutch alter purchase oxygen diesel end flat";
+var mnemonic = "uncover latin exile run census embody firm story number rebel fabric license";

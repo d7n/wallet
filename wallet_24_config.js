@@ -1,1 +1,1 @@
-var mnemonic = "obscure sea token rocket wide actor scan chair body mother spike noise";
+var mnemonic = "book exit once across panther paper glove thing boat follow practice broken";

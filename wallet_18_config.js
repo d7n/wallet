@@ -1,1 +1,1 @@
-var mnemonic = "tackle raven jealous own pig behave place aspect soup table extend mean";
+var mnemonic = "admit rack cherry charge expire have round notable tag soft dress need";

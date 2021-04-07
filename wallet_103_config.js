@@ -1,1 +1,1 @@
-var mnemonic = "picnic voice reduce canal arena space age reform chase speak sample hen";
+var mnemonic = "warrior cherry left tool make real ring list sign bread calm ten";

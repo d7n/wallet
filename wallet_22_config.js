@@ -1,1 +1,1 @@
-var mnemonic = "future earth reason pigeon diesel where lock shy need orange device lemon";
+var mnemonic = "devote result only pill carry trap stove turkey essay oak athlete fox";

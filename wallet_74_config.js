@@ -1,1 +1,1 @@
-var mnemonic = "key shove slight tiny recipe saddle zero hint crystal envelope cruise awake";
+var mnemonic = "champion eight leader museum venue mountain glad century cheese antique motor glide";

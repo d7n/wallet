@@ -1,1 +1,1 @@
-var mnemonic = "guide donor senior auction door much lounge right punch diet silent lawn";
+var mnemonic = "smooth nature bunker tired logic upon deny inch iron act affair pledge";

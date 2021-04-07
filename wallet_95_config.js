@@ -1,1 +1,1 @@
-var mnemonic = "bright civil sniff holiday ginger scorpion bar hotel supply start normal shoulder";
+var mnemonic = "desk term pulse screen grocery small truly power expire smart marriage box";

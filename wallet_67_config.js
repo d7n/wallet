@@ -1,1 +1,1 @@
-var mnemonic = "inside tower upon seven wagon narrow ticket science fix kite network gain";
+var mnemonic = "scheme ugly three train unlock island during trophy aisle seed place erase";

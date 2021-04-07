@@ -1,1 +1,1 @@
-var mnemonic = "thank ancient teach rail tent tunnel crunch blue share cheap erode ladder";
+var mnemonic = "number tent frame visit wave cost swamp enough loud hurry aim trumpet";

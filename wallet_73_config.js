@@ -1,1 +1,1 @@
-var mnemonic = "affair close subway burger slide spray state drink spoon name choice liberty";
+var mnemonic = "reduce team faculty coin decorate reject alpha burden loan spray tell pond";

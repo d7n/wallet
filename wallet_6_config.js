@@ -1,1 +1,1 @@
-var mnemonic = "baby surge inquiry side lion unhappy embark hollow depth identify two fortune";
+var mnemonic = "hamster sausage observe muscle evil mask faculty shaft coffee chimney deposit episode";

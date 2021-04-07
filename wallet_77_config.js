@@ -1,1 +1,1 @@
-var mnemonic = "impulse swap identify since gown myth decade hotel venue source identify nurse";
+var mnemonic = "elevator print else funny unfair true crystal profit immune once proof stereo";

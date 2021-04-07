@@ -1,1 +1,1 @@
-var mnemonic = "ordinary fix sword physical demise black orchard seat awful they tooth network";
+var mnemonic = "pledge shop excite wrap margin book item ripple traffic force rebuild dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "primary draw laptop brain almost cluster dog option crisp ordinary wood banana";
+var mnemonic = "waste entire home endless beach shield crystal creek body cram release arctic";

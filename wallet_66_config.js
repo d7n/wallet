@@ -1,1 +1,1 @@
-var mnemonic = "skull nature mom gather young spider wild soup twenty talk onion example";
+var mnemonic = "chaos infant bright wrestle join laugh orange parrot away walk mixed nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "debate model physical vintage plate taste rail dune harvest bunker bind increase";
+var mnemonic = "tornado update sorry frequent obey nuclear feel situate reopen mixture siren start";

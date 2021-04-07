@@ -1,1 +1,1 @@
-var mnemonic = "ticket nominee dad flag ceiling warfare survey cheap wisdom credit hurdle relief";
+var mnemonic = "sea there hire similar faculty mix near erode uniform ramp access tip";

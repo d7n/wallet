@@ -1,1 +1,1 @@
-var mnemonic = "domain all skate lyrics city defense near leader hurt rubber country math";
+var mnemonic = "spend rubber elder panda upon goddess type ability spare army push scorpion";

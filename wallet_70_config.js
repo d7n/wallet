@@ -1,1 +1,1 @@
-var mnemonic = "attack rack glove provide upper prevent street castle alter buddy wire shy";
+var mnemonic = "three jacket sausage ivory size crowd cluster left leopard moral planet critic";

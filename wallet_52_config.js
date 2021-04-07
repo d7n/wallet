@@ -1,1 +1,1 @@
-var mnemonic = "twelve cabbage tomato seat betray argue civil sustain feature pistol produce number";
+var mnemonic = "sample capable educate crazy situate double primary submit estate tribe extend radio";

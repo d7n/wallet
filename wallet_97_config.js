@@ -1,1 +1,1 @@
-var mnemonic = "invest frozen catch steak ladder often unaware together creek depth stock burger";
+var mnemonic = "badge cycle space episode two day learn clown garden zero capital quit";

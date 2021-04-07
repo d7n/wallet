@@ -1,1 +1,1 @@
-var mnemonic = "fuel mask flip off genuine federal style census kangaroo moral system bar";
+var mnemonic = "fresh off burden keen canvas echo either sense creek gossip initial kitchen";

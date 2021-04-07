@@ -1,1 +1,1 @@
-var mnemonic = "select clump image country rate joy quarter phrase river paddle bounce absent";
+var mnemonic = "update march wrap nominee fever sorry teach weird frequent mystery undo sudden";

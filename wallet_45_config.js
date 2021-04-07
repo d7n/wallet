@@ -1,1 +1,1 @@
-var mnemonic = "myth essence action perfect wagon helmet issue miss visa tunnel cry leisure";
+var mnemonic = "caught slow tone daughter home trial bus across trial maximum theme recipe";

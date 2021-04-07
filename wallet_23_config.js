@@ -1,1 +1,1 @@
-var mnemonic = "sleep few genuine junk layer cup purity youth sick avoid hobby poet";
+var mnemonic = "tape notable journey feature agree hill first shoe beyond kidney vocal pitch";

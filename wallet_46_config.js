@@ -1,1 +1,1 @@
-var mnemonic = "monkey horn click tribe fiber stadium spike enact time melody mystery capital";
+var mnemonic = "pelican palm clog heart clip attitude bind raven lens vast source release";

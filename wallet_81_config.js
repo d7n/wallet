@@ -1,1 +1,1 @@
-var mnemonic = "image morning gown first other cube pledge imitate obscure around range umbrella";
+var mnemonic = "joy make grace upon penalty damage vanish cricket honey search happy skill";

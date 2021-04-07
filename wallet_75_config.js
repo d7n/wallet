@@ -1,1 +1,1 @@
-var mnemonic = "sample brief message olive umbrella picnic beef clarify rare feed pencil craft";
+var mnemonic = "issue insane axis skill shoot secret twelve shadow merit shell tag universe";

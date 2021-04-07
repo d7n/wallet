@@ -1,1 +1,1 @@
-var mnemonic = "travel need mimic flip fire type casual frequent goddess shield tumble goat";
+var mnemonic = "host arrive jealous effort subject educate hen grid please number kangaroo talk";

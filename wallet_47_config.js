@@ -1,1 +1,1 @@
-var mnemonic = "phrase junk already obey ask virus review name want save second cancel";
+var mnemonic = "kangaroo design early cherry smooth dolphin ill body timber ask vintage amateur";

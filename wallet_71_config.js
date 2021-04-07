@@ -1,1 +1,1 @@
-var mnemonic = "trash blame dust local federal pumpkin slight argue rib camp craft waste";
+var mnemonic = "milk blood brother check sure arctic coconut coach exhibit crazy mask pistol";

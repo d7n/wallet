@@ -1,1 +1,1 @@
-var mnemonic = "weekend swim trick team whip illegal gorilla soul present apple angry leopard";
+var mnemonic = "climb also island attitude fiction fade symbol gallery case obscure music clump";

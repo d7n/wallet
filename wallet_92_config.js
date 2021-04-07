@@ -1,1 +1,1 @@
-var mnemonic = "vibrant fly one kingdom soft hero media abstract number cotton trim forum";
+var mnemonic = "raven pool square detect camera humor dolphin raccoon miss timber tape kitten";

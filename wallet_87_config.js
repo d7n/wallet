@@ -1,1 +1,1 @@
-var mnemonic = "style snake inhale absent destroy keep floor trial session hand motor rescue";
+var mnemonic = "razor life middle country call rigid open ski orphan recycle eagle grace";

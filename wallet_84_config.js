@@ -1,1 +1,1 @@
-var mnemonic = "devote square salute divorce virtual cluster absurd violin suffer resource pass sunset";
+var mnemonic = "flip nut salon crater gloom wish bitter venture radar cute wheat address";

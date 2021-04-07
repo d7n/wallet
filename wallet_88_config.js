@@ -1,1 +1,1 @@
-var mnemonic = "before floor letter post duck disagree merge neither orient pledge mesh limit";
+var mnemonic = "season tool electric cash abandon party point nose noble fatigue ensure dilemma";

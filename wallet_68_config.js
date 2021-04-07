@@ -1,1 +1,1 @@
-var mnemonic = "deputy knife foil cake impose melt protect filter fog never people bachelor";
+var mnemonic = "title basic visit situate just hard roof estate reason sense barrel embark";

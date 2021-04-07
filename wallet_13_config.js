@@ -1,1 +1,1 @@
-var mnemonic = "advance virus soft green business among space cost device together mail identify";
+var mnemonic = "material clean reason teach jaguar water example leopard trial gift aunt cover";

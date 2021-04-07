@@ -1,1 +1,1 @@
-var mnemonic = "bright chunk wheat exercise better vibrant exercise jelly town whip color flip";
+var mnemonic = "effort cute describe believe roast agree pilot sample sell alcohol stock access";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen beauty merge shuffle mammal hood fabric urban brush cradle rhythm noble";
+var mnemonic = "swarm liquid visit trade practice drift moon emerge story gather neither lobster";

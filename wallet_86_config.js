@@ -1,1 +1,1 @@
-var mnemonic = "almost toss arrest hospital gym beyond sad nephew rent team canyon crumble";
+var mnemonic = "race trip fork must zoo wife upon quantum dream poem north idea";

@@ -1,1 +1,1 @@
-var mnemonic = "cool feature home loop ship buyer problem gift wreck gossip reopen digital";
+var mnemonic = "laundry yard exit ignore caught govern sting spike train follow fatigue retreat";

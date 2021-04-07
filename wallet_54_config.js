@@ -1,1 +1,1 @@
-var mnemonic = "message swear tribe online pupil busy fatal panda rescue cactus post once";
+var mnemonic = "sick pave diamond rebuild potato group rebuild siege actor oxygen poem aerobic";

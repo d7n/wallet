@@ -1,1 +1,1 @@
-var mnemonic = "hero quit master service elder essay want one citizen sponsor fashion sample";
+var mnemonic = "piano faculty pistol program achieve someone lawsuit useful large couple giggle screen";

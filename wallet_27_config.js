@@ -1,1 +1,1 @@
-var mnemonic = "retire damage marriage busy grace balcony great aunt olive dutch dismiss wide";
+var mnemonic = "entire badge family lunar test benefit abandon pupil move large bid regular";

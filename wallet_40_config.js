@@ -1,1 +1,1 @@
-var mnemonic = "various celery cost glass odor roof gown weekend stable unit dream peasant";
+var mnemonic = "flat scheme weird true festival oppose knife column scale satisfy aim myself";

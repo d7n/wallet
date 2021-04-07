@@ -1,1 +1,1 @@
-var mnemonic = "world phrase exchange brass example spider rocket rather consider broccoli slam dilemma";
+var mnemonic = "elder misery model penalty error weapon sound isolate verify ten usage sauce";

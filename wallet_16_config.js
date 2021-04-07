@@ -1,1 +1,1 @@
-var mnemonic = "sweet solution tent journey elevator soon business clarify average shield desk inject";
+var mnemonic = "magic time pair junk way bargain front join shrimp creek wealth produce";

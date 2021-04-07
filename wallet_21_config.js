@@ -1,1 +1,1 @@
-var mnemonic = "agree ankle caught gift phone switch youth soldier identify awesome cat deliver";
+var mnemonic = "toe cradle assault negative unique bean medal crop slide upon interest tomato";

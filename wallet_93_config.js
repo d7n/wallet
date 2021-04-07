@@ -1,1 +1,1 @@
-var mnemonic = "involve yard stumble already undo kind media mandate resist destroy regret life";
+var mnemonic = "all cricket champion auto broccoli dilemma very omit bridge riot silk someone";

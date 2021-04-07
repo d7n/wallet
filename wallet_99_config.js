@@ -1,1 +1,1 @@
-var mnemonic = "total stomach empower because please hedgehog travel ten swamp bronze voyage sustain";
+var mnemonic = "call proof unknown elder shoot vast acquire print pill foot calm equip";

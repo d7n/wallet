@@ -1,1 +1,1 @@
-var mnemonic = "hover hundred pulp lift proud side potato brave ghost spike face other";
+var mnemonic = "chalk have private exile bus deer agent illegal taxi load junior trap";

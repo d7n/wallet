@@ -1,1 +1,1 @@
-var mnemonic = "sign blast drill sick hub october few farm whip pelican bullet rapid";
+var mnemonic = "issue word wagon brand silly suspect kitchen artist water toast stable oven";

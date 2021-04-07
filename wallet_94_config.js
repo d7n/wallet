@@ -1,1 +1,1 @@
-var mnemonic = "venue lab comfort february tag clap tip gift find congress erosion catalog";
+var mnemonic = "gallery lunch praise alley fix tobacco name mean shine sudden express adapt";

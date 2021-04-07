@@ -1,1 +1,1 @@
-var mnemonic = "script jungle ketchup party cereal style blouse rabbit phrase guide crazy alien";
+var mnemonic = "feel super cereal sustain lobster slush next define timber tooth clown organ";

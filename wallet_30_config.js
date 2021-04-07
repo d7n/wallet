@@ -1,1 +1,1 @@
-var mnemonic = "since acid guitar short shaft artefact person cigar lady uphold gas keen";
+var mnemonic = "knee exist assume crack typical cause permit soap lottery clap open employ";

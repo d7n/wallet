@@ -1,1 +1,1 @@
-var mnemonic = "two hood feed fee until library garlic organ pupil orchard very strategy";
+var mnemonic = "strike club tail grape brass correct flash disagree concert split amused finish";

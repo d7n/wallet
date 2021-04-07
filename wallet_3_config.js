@@ -1,1 +1,1 @@
-var mnemonic = "mule best maze indoor disease neglect little struggle blade cube first winner";
+var mnemonic = "split buddy steel dice protect dawn enjoy agent brass gun walk screen";

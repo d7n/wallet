@@ -1,1 +1,1 @@
-var mnemonic = "ladder base crucial bind option vivid pact unhappy harbor fringe museum boss";
+var mnemonic = "lawn later reason burger loyal during ozone palace sausage ticket auction among";

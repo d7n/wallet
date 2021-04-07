@@ -1,1 +1,1 @@
-var mnemonic = "crash table inform mixture clarify road there because humble glance quote clarify";
+var mnemonic = "model acoustic inspire zone double select sudden onion normal monitor renew push";

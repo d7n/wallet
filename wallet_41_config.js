@@ -1,1 +1,1 @@
-var mnemonic = "atom treat maximum inflict index target cotton busy scorpion sun general collect";
+var mnemonic = "squirrel empower sad estate shiver design globe novel mechanic actor inmate throw";

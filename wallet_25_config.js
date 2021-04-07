@@ -1,1 +1,1 @@
-var mnemonic = "merge demise shield leg book abandon direct adult baby blossom entire venue";
+var mnemonic = "write filter process craft eternal priority cinnamon first image furnace caught merit";

@@ -1,1 +1,1 @@
-var mnemonic = "try love already hurry choice tank mystery trend stomach trial season day";
+var mnemonic = "conduct index recycle anger horror fringe area heavy warfare slow soon name";

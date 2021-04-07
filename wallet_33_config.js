@@ -1,1 +1,1 @@
-var mnemonic = "grief improve drop morning doll member pear grape enrich enact cave mix";
+var mnemonic = "advance peasant elephant club feel juice fun absent place era toe regular";

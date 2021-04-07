@@ -1,1 +1,1 @@
-var mnemonic = "couple syrup butter strong weird pig flip belt grocery awkward leg jewel";
+var mnemonic = "scatter envelope pull skull economy require cancel inspire silent weapon spider leaf";

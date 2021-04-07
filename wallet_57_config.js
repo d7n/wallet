@@ -1,1 +1,1 @@
-var mnemonic = "mango sand come short distance promote survey bleak source drop protect style";
+var mnemonic = "excuse alpha disagree hammer weird manage prison labor day join month veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure attend custom judge swarm egg write festival aware shoe minute giraffe";
+var mnemonic = "casual impact start disagree absorb turkey aerobic motion furnace home bird shop";

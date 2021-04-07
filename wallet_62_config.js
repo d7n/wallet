@@ -1,1 +1,1 @@
-var mnemonic = "issue gauge parade hollow breeze useless fly frost next hole canal wheel";
+var mnemonic = "exit blossom error try mosquito sock term escape utility harbor ankle small";

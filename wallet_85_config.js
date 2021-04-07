@@ -1,1 +1,1 @@
-var mnemonic = "pride barrel coral skin mansion jewel beef chicken puppy vacuum dice retire";
+var mnemonic = "flavor thought flavor arctic orange print dog napkin guilt picnic glide add";

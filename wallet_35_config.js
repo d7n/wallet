@@ -1,1 +1,1 @@
-var mnemonic = "hundred forward corn nurse spoil obtain aunt media banana pizza banner raise";
+var mnemonic = "unit castle crucial spoon way spatial pumpkin body envelope violin bone shock";

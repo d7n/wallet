@@ -1,1 +1,1 @@
-var mnemonic = "once fancy keen fence execute cross distance wear prison core busy okay";
+var mnemonic = "cheese anger parrot magic enable exit danger hidden clever easily popular motion";

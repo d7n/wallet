@@ -1,1 +1,1 @@
-var mnemonic = "cost sadness above like indicate fancy grace speed canvas battle foot horror";
+var mnemonic = "van ramp garbage alley moment taxi remind theme bottom ancient rebuild snake";

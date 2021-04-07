@@ -1,1 +1,1 @@
-var mnemonic = "series gasp clean rally alter extra confirm nose swear sudden about cigar";
+var mnemonic = "fruit offer real bridge gospel mountain collect moment exist shy can arrow";

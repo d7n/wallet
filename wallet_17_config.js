@@ -1,1 +1,1 @@
-var mnemonic = "pattern peanut chair public spatial mushroom broken jungle glass inquiry sugar act";
+var mnemonic = "pet trophy light spare bonus badge slogan august gloom father salt emerge";

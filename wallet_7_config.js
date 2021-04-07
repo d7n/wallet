@@ -1,1 +1,1 @@
-var mnemonic = "arrest supply peasant ocean wedding welcome ensure aware stage possible broom onion";
+var mnemonic = "original theory work rotate panther dish focus bright west return road goat";

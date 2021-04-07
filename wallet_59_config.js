@@ -1,1 +1,1 @@
-var mnemonic = "trick reform exercise broccoli permit outside then smile surface industry match believe";
+var mnemonic = "assault someone supreme vague phrase good later reward outside upgrade armor practice";

@@ -1,1 +1,1 @@
-var mnemonic = "situate soda index wide general jaguar case trial viable scissors fix accuse";
+var mnemonic = "miss hood swing truth toast polar slide exchange invite rose upon wine";

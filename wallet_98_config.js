@@ -1,1 +1,1 @@
-var mnemonic = "viable flee rail invest wait enter case bunker defy cute runway minor";
+var mnemonic = "clinic position crawl split spot under upgrade chicken hover move mixture idle";

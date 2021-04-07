@@ -1,1 +1,1 @@
-var mnemonic = "sword reunion marriage immune stable climb teach you fossil camp electric whisper";
+var mnemonic = "school woman fossil brand coin occur essay kick fine pet sad drink";

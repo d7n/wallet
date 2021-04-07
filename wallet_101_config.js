@@ -1,1 +1,1 @@
-var mnemonic = "swing subway dignity ocean smile hamster torch interest drastic van cluster spring";
+var mnemonic = "comfort small type member conduct apology copper crucial health oven reward debate";

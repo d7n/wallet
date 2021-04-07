@@ -1,1 +1,1 @@
-var mnemonic = "exile medal doctor unique barely wolf hotel warm vicious make clay century";
+var mnemonic = "rubber ivory castle excite chunk animal legend young tool hospital bracket common";

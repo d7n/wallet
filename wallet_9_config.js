@@ -1,1 +1,1 @@
-var mnemonic = "artwork much teach photo permit beef budget diesel truck veteran vanish damp";
+var mnemonic = "earn soccer net enforce flock day cheese honey dwarf gadget duty consider";

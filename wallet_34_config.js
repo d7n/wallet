@@ -1,1 +1,1 @@
-var mnemonic = "choose mixture gadget antique sausage ahead thunder ranch gate better hurt gloom";
+var mnemonic = "carry certain crop begin stereo job cup subject express tuition system shallow";

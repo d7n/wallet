@@ -1,1 +1,1 @@
-var mnemonic = "myth protect level yard biology cable table spread ride odor save fuel";
+var mnemonic = "tunnel powder vacant olympic tape body food small weird rate twice slush";
