@@ -1,1 +1,1 @@
-var mnemonic = "prefer gift olive very fluid hybrid call timber magic help burden improve";
+var mnemonic = "garbage odor curve grain rookie reflect fury bring supreme ten alley tank";

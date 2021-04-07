@@ -1,1 +1,1 @@
-var mnemonic = "soon maple misery dawn kid exotic sunny glow kingdom peasant armor repair";
+var mnemonic = "flush panda orbit valve produce state erode squirrel suit addict voice genius";

@@ -1,1 +1,1 @@
-var mnemonic = "letter speed switch enemy party daring orchard light cost cash rigid math";
+var mnemonic = "seat double silent unfold sketch biology search essay stadium kind arctic leopard";

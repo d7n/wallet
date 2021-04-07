@@ -1,1 +1,1 @@
-var mnemonic = "just twice affair regret beyond patch idle saddle anger obvious video cram";
+var mnemonic = "old wave cherry age narrow fruit arrive strong slab dilemma smooth together";

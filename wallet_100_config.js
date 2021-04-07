@@ -1,1 +1,1 @@
-var mnemonic = "multiply pony ostrich wheat outside casual ability gloom crane tragic carry naive";
+var mnemonic = "cushion monster focus song taste fire unfold practice midnight river toss rate";

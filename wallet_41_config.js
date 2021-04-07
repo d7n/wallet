@@ -1,1 +1,1 @@
-var mnemonic = "cup claim shine vendor now ready final train soccer tone off inform";
+var mnemonic = "nice remove powder bottom dove spot pottery tent pet vendor finger depart";

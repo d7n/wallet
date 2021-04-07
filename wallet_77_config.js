@@ -1,1 +1,1 @@
-var mnemonic = "rely damage issue horror consider leopard problem humble jump pledge add crater";
+var mnemonic = "load marble popular tooth skill prison tool assault bleak produce absent exhaust";

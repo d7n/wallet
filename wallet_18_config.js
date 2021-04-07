@@ -1,1 +1,1 @@
-var mnemonic = "give position stone theory toy slab history labor flip anger envelope hawk";
+var mnemonic = "pistol stock deny clerk husband dose organ catalog diamond daring fresh minor";

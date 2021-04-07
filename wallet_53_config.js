@@ -1,1 +1,1 @@
-var mnemonic = "major long attitude kiss dolphin uphold strategy tobacco skin hurry better silk";
+var mnemonic = "blossom trap vault device concert weekend reopen size dry bread bubble hidden";

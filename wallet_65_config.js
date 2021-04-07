@@ -1,1 +1,1 @@
-var mnemonic = "door grit youth blind length depth alpha suit kingdom bright tribe argue";
+var mnemonic = "notice govern defy rubber clog unaware length again pattern snap foot gossip";

@@ -1,1 +1,1 @@
-var mnemonic = "verb flip logic poverty hammer wise social fish fault board advance matter";
+var mnemonic = "corn section key monster exact major myself nothing firm main duck life";

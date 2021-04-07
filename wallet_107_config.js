@@ -1,1 +1,1 @@
-var mnemonic = "fog orphan fish exercise foster vicious learn water tourist supply key gold";
+var mnemonic = "happy expand spoil orchard kingdom believe sound candy stool hard flight only";

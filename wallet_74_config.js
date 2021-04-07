@@ -1,1 +1,1 @@
-var mnemonic = "brown tonight gaze road utility begin panic member bulb find author damage";
+var mnemonic = "path green scene write vacuum limb monitor hen cradle vault actual tiger";

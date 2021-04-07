@@ -1,1 +1,1 @@
-var mnemonic = "rapid suit news dragon timber bless region trial turn jazz obey prefer";
+var mnemonic = "message say hill salmon armor couple rain include hour useful average juice";

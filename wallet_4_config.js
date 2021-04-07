@@ -1,1 +1,1 @@
-var mnemonic = "dish pulp zoo smart final simple mask gas bargain pluck orbit lonely";
+var mnemonic = "also oil soap citizen during village aware fox about corn royal dawn";

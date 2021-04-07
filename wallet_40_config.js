@@ -1,1 +1,1 @@
-var mnemonic = "rack middle drip spare dog demand axis pitch evoke benefit digital sphere";
+var mnemonic = "clutch spy grant sock table tooth slice describe sick august fame ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "fit auto hurdle ancient onion trial hen chunk deposit shrug kiwi neutral";
+var mnemonic = "record remain arch damage master release giggle one stone bacon collect joy";

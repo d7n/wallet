@@ -1,1 +1,1 @@
-var mnemonic = "paddle bargain analyst thank blur patch senior hundred alley easily absent bracket";
+var mnemonic = "away near script type expire marriage shrug choose hood sunny country size";

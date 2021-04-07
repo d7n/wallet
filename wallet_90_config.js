@@ -1,1 +1,1 @@
-var mnemonic = "situate forum game lab network square place protect inch only vapor keep";
+var mnemonic = "busy moon doctor rookie noise stage hope snap mystery hand humor marriage";

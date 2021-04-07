@@ -1,1 +1,1 @@
-var mnemonic = "job focus fox pond cheap toilet stomach idle frog art broken neglect";
+var mnemonic = "club veteran regret surface travel vivid mistake tower usage sand cheese oven";

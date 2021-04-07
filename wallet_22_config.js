@@ -1,1 +1,1 @@
-var mnemonic = "alter photo detect sound green swamp palm caught cost language sleep girl";
+var mnemonic = "degree butter pair memory orchard come large fiber card cruel forest bicycle";

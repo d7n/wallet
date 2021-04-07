@@ -1,1 +1,1 @@
-var mnemonic = "already motion scatter unit slot huge glove aspect shop fan item era";
+var mnemonic = "tortoise common usual enhance bulk pupil pelican waste auto amused token favorite";

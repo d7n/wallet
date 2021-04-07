@@ -1,1 +1,1 @@
-var mnemonic = "half crane gossip banana school burst wide view latin ankle laundry chase";
+var mnemonic = "kitchen wheat month kitten update shoe envelope juice scissors lottery sheriff dignity";

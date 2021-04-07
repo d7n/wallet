@@ -1,1 +1,1 @@
-var mnemonic = "document mule toilet poem pet merit sustain purchase piece paddle vague idle";
+var mnemonic = "author man veteran truly file ritual member admit captain food cupboard bone";

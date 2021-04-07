@@ -1,1 +1,1 @@
-var mnemonic = "injury eternal endless bracket urge sadness wasp prosper near mind nerve zebra";
+var mnemonic = "used ivory volcano stereo curious furnace tooth word sort marble change worth";

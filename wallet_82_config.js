@@ -1,1 +1,1 @@
-var mnemonic = "blind bind sure pause canoe weird round weasel assume coyote need retire";
+var mnemonic = "ankle approve exchange gate dizzy penalty snake modify never track story favorite";

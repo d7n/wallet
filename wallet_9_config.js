@@ -1,1 +1,1 @@
-var mnemonic = "laptop tunnel spoil later help volcano shine globe secret federal shallow sort";
+var mnemonic = "wedding defense snow floor nasty zone enact across castle lounge course page";

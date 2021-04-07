@@ -1,1 +1,1 @@
-var mnemonic = "despair cake abandon claw odor patrol document dish mosquito cruise profit you";
+var mnemonic = "stone surprise hotel bunker raw just item head cluster dance gentle reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle butter spatial limit argue admit rally clutch indoor mutual thing hunt";
+var mnemonic = "comic escape way frozen upgrade frown among arrange wrong child trick pledge";

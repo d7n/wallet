@@ -1,1 +1,1 @@
-var mnemonic = "fork day flee round jelly ignore correct sentence abstract skill link slogan";
+var mnemonic = "tortoise try balance evolve noble bone bargain solar budget sad forum argue";

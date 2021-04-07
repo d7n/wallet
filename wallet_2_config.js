@@ -1,1 +1,1 @@
-var mnemonic = "vessel voice swarm father road decade laugh theme whip gadget dream please";
+var mnemonic = "boss dream pigeon like inflict bulk science fringe ugly recipe treat helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy mind resist rack luxury deputy luggage body coyote recall escape pipe";
+var mnemonic = "pencil velvet panda seven clever palace squeeze humor rescue curtain chaos crouch";

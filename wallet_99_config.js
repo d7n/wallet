@@ -1,1 +1,1 @@
-var mnemonic = "begin quick swap jelly daring gossip wide member forget income panic minor";
+var mnemonic = "gym elite lens audit alter predict goose zero dutch post focus vendor";

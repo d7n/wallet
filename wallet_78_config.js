@@ -1,1 +1,1 @@
-var mnemonic = "rule erase rate cluster strategy tuna limit best cigar reason sunset velvet";
+var mnemonic = "february orchard prepare protect output wild roof jar until plug tail velvet";

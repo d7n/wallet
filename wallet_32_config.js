@@ -1,1 +1,1 @@
-var mnemonic = "lunar harvest ahead demand dentist tag fire decade crush label vanish wonder";
+var mnemonic = "duty derive fall tooth solar heavy split angry despair venue spin exact";

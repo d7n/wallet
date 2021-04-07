@@ -1,1 +1,1 @@
-var mnemonic = "unhappy canoe print ahead draw hundred jacket cave alone humor elegant melt";
+var mnemonic = "mind east achieve wolf short orchard foam artefact shed happy wood frown";

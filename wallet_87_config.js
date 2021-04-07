@@ -1,1 +1,1 @@
-var mnemonic = "brave bread move chuckle december zoo grace fetch fresh code base above";
+var mnemonic = "desert portion grape globe marble narrow gym echo pipe now shine slender";

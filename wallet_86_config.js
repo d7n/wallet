@@ -1,1 +1,1 @@
-var mnemonic = "orient frown cousin disease check used apple roast style hedgehog charge later";
+var mnemonic = "omit aerobic diesel stage opinion unhappy legal alcohol rose wolf argue recall";

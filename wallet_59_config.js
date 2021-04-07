@@ -1,1 +1,1 @@
-var mnemonic = "antenna idea blue wish bomb jar mouse bubble final heart turtle behind";
+var mnemonic = "erode jungle board clown tenant rather raven license cram cute hotel episode";

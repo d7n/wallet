@@ -1,1 +1,1 @@
-var mnemonic = "rural print genuine day flash cry skin enemy high gown snap budget";
+var mnemonic = "sweet loyal sail coyote minute three early silly injury crouch arrow carpet";

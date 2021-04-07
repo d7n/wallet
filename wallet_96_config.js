@@ -1,1 +1,1 @@
-var mnemonic = "upper ranch cabbage can profit program milk purchase arrive lemon timber open";
+var mnemonic = "candy bonus lazy screen razor security link sleep faith forget divert grant";

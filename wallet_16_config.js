@@ -1,1 +1,1 @@
-var mnemonic = "possible extend glow brain affair express unable peasant mercy man water slot";
+var mnemonic = "surge unlock merit clerk grief liquid clever wing next hint unaware second";

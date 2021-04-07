@@ -1,1 +1,1 @@
-var mnemonic = "bean stamp speak help joy leopard debate bind pull metal edit endorse";
+var mnemonic = "vote idea service bike cluster gloom wash uniform cycle foam steel armor";

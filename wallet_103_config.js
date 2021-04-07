@@ -1,1 +1,1 @@
-var mnemonic = "siren relief need clever butter cousin rail senior update civil image rescue";
+var mnemonic = "broccoli army ignore solution crash wing crucial original park wall almost flight";

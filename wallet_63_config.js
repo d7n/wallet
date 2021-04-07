@@ -1,1 +1,1 @@
-var mnemonic = "symptom unique tobacco term happy muscle ribbon rice congress excite any satisfy";
+var mnemonic = "aim ribbon enforce stand rent know garment slim river celery race apart";

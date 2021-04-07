@@ -1,1 +1,1 @@
-var mnemonic = "robot damp curve cinnamon jelly blush extend toss genius base collect rude";
+var mnemonic = "flavor sniff novel tribe frequent curious bike share fee monster goose axis";

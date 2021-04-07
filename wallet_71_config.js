@@ -1,1 +1,1 @@
-var mnemonic = "minimum flag stock head animal legal sample staff zoo example rare embark";
+var mnemonic = "dash bind sting logic elegant busy novel guitar brave ancient sausage stand";

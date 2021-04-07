@@ -1,1 +1,1 @@
-var mnemonic = "aunt flush breeze color flavor crouch air convince smile fog pluck amount";
+var mnemonic = "rookie brick forum wool relax safe loud tonight cereal dirt note gesture";

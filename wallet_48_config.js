@@ -1,1 +1,1 @@
-var mnemonic = "what right list cake thought alone note high snap zero slush gentle";
+var mnemonic = "walnut army frozen town exercise castle decide cat doll hand fun during";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster news canoe hurry soldier vivid waste toddler tackle honey pave carbon";
+var mnemonic = "debris arrange addict mutual gentle wife fade shell before history gown lonely";

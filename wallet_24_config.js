@@ -1,1 +1,1 @@
-var mnemonic = "erupt exhibit hole term legend destroy pave lunar frequent net sail history";
+var mnemonic = "stem correct brush sketch vendor between emerge smart define fashion actual million";

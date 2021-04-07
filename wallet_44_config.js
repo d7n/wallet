@@ -1,1 +1,1 @@
-var mnemonic = "tank erupt share lend salad myth silent cram hint salute history write";
+var mnemonic = "undo close patch school either depart perfect shove seek other brass scene";

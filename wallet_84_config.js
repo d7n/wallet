@@ -1,1 +1,1 @@
-var mnemonic = "unable morning anger resemble trade junior extend convince success cattle super world";
+var mnemonic = "safe cannon couch library message parent section find earth skate evidence exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "hole net speak outside hub solution clay conduct position wing soul science";
+var mnemonic = "tray blanket squirrel man blast topic dignity grit pilot turtle copper sister";

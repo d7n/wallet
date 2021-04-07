@@ -1,1 +1,1 @@
-var mnemonic = "chase lock violin enroll agree firm blood clock town unlock bounce vessel";
+var mnemonic = "salute better pool weapon rough solution chimney slender robust scatter beach egg";

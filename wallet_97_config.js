@@ -1,1 +1,1 @@
-var mnemonic = "balcony supply stereo border jar undo mango adapt test buddy congress essence";
+var mnemonic = "weapon bullet snow direct domain orbit tired pear game repeat sugar segment";

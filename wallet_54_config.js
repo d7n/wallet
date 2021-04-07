@@ -1,1 +1,1 @@
-var mnemonic = "enact embrace arm smart silly armed female wagon regret rally auto camp";
+var mnemonic = "universe naive collect animal protect sustain sick face unusual today business portion";

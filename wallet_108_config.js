@@ -1,1 +1,1 @@
-var mnemonic = "scale pitch click alter range piano typical crisp glad brick stereo duty";
+var mnemonic = "idea bless sweet vibrant van gown aisle tell bamboo another awake area";

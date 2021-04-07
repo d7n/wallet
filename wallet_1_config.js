@@ -1,1 +1,1 @@
-var mnemonic = "toward mushroom boat inmate short enrich recycle that spawn calm circle derive";
+var mnemonic = "coil neither gasp wrist estate patch mercy mean stage marble leader spring";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic guilt approve stadium motion keen unaware bridge fire pretty normal caught";
+var mnemonic = "embody pride list ketchup misery behave since brown resource lottery clean rug";

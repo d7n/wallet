@@ -1,1 +1,1 @@
-var mnemonic = "much cruel open allow advance method tank kitchen valid symptom humble super";
+var mnemonic = "abandon lamp skate task input resist skin lock manual surprise grape apart";

@@ -1,1 +1,1 @@
-var mnemonic = "day inspire noise differ empty economy unusual illegal fatal dice pulse lady";
+var mnemonic = "cool airport clarify tragic deliver behave expire tenant gate analyst resource nephew";

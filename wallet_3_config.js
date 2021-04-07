@@ -1,1 +1,1 @@
-var mnemonic = "duck burger congress gravity crane guide maze wise civil frequent cupboard arrest";
+var mnemonic = "prepare scout live turn margin toss wire steel chapter lab alter misery";

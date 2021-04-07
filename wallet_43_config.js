@@ -1,1 +1,1 @@
-var mnemonic = "garment card outside deer company deer paper jewel east swallow lock know";
+var mnemonic = "pulp promote smart duty mandate guard chuckle hybrid hidden bone sausage miracle";

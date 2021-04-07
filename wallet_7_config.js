@@ -1,1 +1,1 @@
-var mnemonic = "cable afraid verify lawn clay require box library stage electric case lemon";
+var mnemonic = "march blood canoe anxiety feel census uphold judge satisfy select matrix beyond";

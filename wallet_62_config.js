@@ -1,1 +1,1 @@
-var mnemonic = "ghost tooth hockey grab key fun window biology carry still bag yard";
+var mnemonic = "eternal pudding dog frog mercy donkey unique level sick degree energy bachelor";

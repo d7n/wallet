@@ -1,1 +1,1 @@
-var mnemonic = "resist wagon human orient quantum real peace zebra shift today broom intact";
+var mnemonic = "hundred awesome amount palace winter upgrade country train mandate tissue ribbon frown";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch stage index destroy key hurdle seven fun deal interest camera seat";
+var mnemonic = "margin blind auction escape yellow search senior brief twist cloth basic light";

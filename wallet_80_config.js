@@ -1,1 +1,1 @@
-var mnemonic = "rally nice ski possible dirt stairs country road spend comfort staff execute";
+var mnemonic = "corn destroy cereal human picture kangaroo jelly ship device topic situate assume";

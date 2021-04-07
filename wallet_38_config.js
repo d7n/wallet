@@ -1,1 +1,1 @@
-var mnemonic = "idle toe culture section case lawsuit slender inch ocean circle shock hazard";
+var mnemonic = "result silent foam thought sibling they argue glow blouse need zone kingdom";

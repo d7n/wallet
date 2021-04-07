@@ -1,1 +1,1 @@
-var mnemonic = "monkey dad august express frown brush twelve ostrich general front repair sentence";
+var mnemonic = "melt absorb bleak execute attend toast mirror announce system ring bunker economy";

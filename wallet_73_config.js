@@ -1,1 +1,1 @@
-var mnemonic = "ask insane slight chest light view panel return grace stone kiss soap";
+var mnemonic = "furnace taxi good next embark final embrace urban maximum inhale divert great";

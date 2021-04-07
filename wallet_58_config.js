@@ -1,1 +1,1 @@
-var mnemonic = "fee tired shadow umbrella kitchen prevent cotton avocado olive illness enhance forum";
+var mnemonic = "goddess discover letter pizza fiscal dress worth laundry electric warfare inspire clog";

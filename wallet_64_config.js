@@ -1,1 +1,1 @@
-var mnemonic = "blossom harsh lab retire school attract black arch draw hunt review offer";
+var mnemonic = "hello film awesome ensure oak food spoon medal bounce finger blue drama";

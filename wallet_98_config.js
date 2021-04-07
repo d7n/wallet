@@ -1,1 +1,1 @@
-var mnemonic = "series hawk layer accuse then lend winter soap antenna isolate satisfy evoke";
+var mnemonic = "anxiety liar reduce decide nature name copper broken bubble pear club evil";

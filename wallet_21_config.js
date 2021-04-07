@@ -1,1 +1,1 @@
-var mnemonic = "confirm dizzy permit panda dream resist awake vague mesh pencil protect barely";
+var mnemonic = "wrestle spray ancient logic disorder mammal friend bomb mix kangaroo property slight";

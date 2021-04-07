@@ -1,1 +1,1 @@
-var mnemonic = "deal switch cup faculty cereal rose code tonight name mass tooth sure";
+var mnemonic = "input enable monitor hockey nation express nephew betray off arrive frost call";

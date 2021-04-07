@@ -1,1 +1,1 @@
-var mnemonic = "oppose tent head artefact act quote shaft area try into pear purpose";
+var mnemonic = "ice have chunk announce taxi keep assault damage grant dawn dial lyrics";

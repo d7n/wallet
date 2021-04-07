@@ -1,1 +1,1 @@
-var mnemonic = "doll sleep derive build route habit trophy staff cushion wall immense mix";
+var mnemonic = "dog lounge engage sketch tonight timber tobacco eternal congress transfer display desert";

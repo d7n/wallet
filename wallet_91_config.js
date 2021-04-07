@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur decade reason pottery broom vacant invite olive fan action chalk million";
+var mnemonic = "canvas swap vehicle fun simple front fence cloth custom popular prepare exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "segment torch rebuild speak assume common mammal cute permit tornado market rookie";
+var mnemonic = "celery wreck question addict shop leisure badge track post dose argue metal";

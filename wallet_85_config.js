@@ -1,1 +1,1 @@
-var mnemonic = "name noise video recall property cash sketch plunge super chair start patch";
+var mnemonic = "shift visit risk amused safe enroll account athlete lyrics reject shell rookie";

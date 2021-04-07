@@ -1,1 +1,1 @@
-var mnemonic = "prefer seminar extend art cat wasp canal arrange stay festival balcony base";
+var mnemonic = "credit kid post time okay second velvet round cycle salon warrior matrix";

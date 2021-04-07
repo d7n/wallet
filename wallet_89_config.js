@@ -1,1 +1,1 @@
-var mnemonic = "globe matter vicious snake treat mammal zoo much best slot engine invite";
+var mnemonic = "strike fog quiz million galaxy demise fire obey above innocent vicious twice";

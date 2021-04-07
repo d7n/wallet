@@ -1,1 +1,1 @@
-var mnemonic = "initial puzzle use bottom tool elder play boat sleep gadget wonder unfair";
+var mnemonic = "whip whale ivory crater muscle tonight place decline left swallow return shadow";
