@@ -1,1 +1,1 @@
-var mnemonic = "zoo law orbit very repair kingdom guilt machine music pigeon scan gaze";
+var mnemonic = "rose river jacket penalty undo wasp isolate memory volcano hawk return slush";

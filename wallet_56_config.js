@@ -1,1 +1,1 @@
-var mnemonic = "dance artefact expose next smile upset delay airport oyster genre notable share";
+var mnemonic = "cliff paper raw resist all category noise pipe chef win move educate";

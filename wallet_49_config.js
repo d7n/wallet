@@ -1,1 +1,1 @@
-var mnemonic = "laptop flavor eagle width permit there bunker crazy man milk guard team";
+var mnemonic = "plate clip ugly lend razor seed mask celery fetch mountain purity kick";

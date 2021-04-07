@@ -1,1 +1,1 @@
-var mnemonic = "cupboard coffee calm spice mammal burger shrimp shallow task write cable tortoise";
+var mnemonic = "fix penalty carpet raw loud time rib sad leaf mushroom hunt pretty";

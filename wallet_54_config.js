@@ -1,1 +1,1 @@
-var mnemonic = "fee ahead remind canoe code perfect sort shop auction panel supreme survey";
+var mnemonic = "october record okay submit liquid goddess clutch exist royal tissue file write";

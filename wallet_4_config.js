@@ -1,1 +1,1 @@
-var mnemonic = "glare job tuna truly antenna rapid clean quality seed dwarf inject clown";
+var mnemonic = "process involve vicious saddle library girl morning robust year maid strike evoke";

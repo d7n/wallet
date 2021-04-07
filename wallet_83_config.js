@@ -1,1 +1,1 @@
-var mnemonic = "lend kangaroo sweet floor field rubber remind summer quick diagram woman trip";
+var mnemonic = "sport subway chaos spend spirit coast riot pull suspect similar hotel awful";

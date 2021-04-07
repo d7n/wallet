@@ -1,1 +1,1 @@
-var mnemonic = "okay sunset pudding boy cream wait proof grief swamp pretty normal future";
+var mnemonic = "meadow quarter flame canal crouch anxiety scorpion start merge stadium puzzle visual";

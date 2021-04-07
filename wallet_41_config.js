@@ -1,1 +1,1 @@
-var mnemonic = "dragon verb caution absent rebuild welcome pen dawn retire bind lottery robot";
+var mnemonic = "cancel elder exchange dash useless when tornado trade nominee amused now company";

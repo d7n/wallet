@@ -1,1 +1,1 @@
-var mnemonic = "drastic fitness also weekend vibrant floor focus rubber luggage spider harsh faith";
+var mnemonic = "goose convince sister this spoil maid armor quiz sting elegant peace domain";

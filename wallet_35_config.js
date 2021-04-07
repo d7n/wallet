@@ -1,1 +1,1 @@
-var mnemonic = "fortune sand quote found market home tackle category gather beauty armed tourist";
+var mnemonic = "letter rate pizza peanut federal sadness gaze knock ozone conduct gain comic";

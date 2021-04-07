@@ -1,1 +1,1 @@
-var mnemonic = "gap crowd where unknown friend dish toe time fish cereal blind fluid";
+var mnemonic = "wrestle solution amused trial river unable betray sock doll save train submit";

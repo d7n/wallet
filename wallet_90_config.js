@@ -1,1 +1,1 @@
-var mnemonic = "undo cook crucial worth easily canyon quality clean hollow program airport spring";
+var mnemonic = "economy pair magic dragon invite donate demise school enrich garlic sunny sphere";

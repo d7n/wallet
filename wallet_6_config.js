@@ -1,1 +1,1 @@
-var mnemonic = "magic history upon nasty ski truly name marine squirrel quarter doctor chaos";
+var mnemonic = "other lazy fade elder situate river trend armed invest use midnight bless";

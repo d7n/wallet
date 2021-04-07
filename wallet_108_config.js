@@ -1,1 +1,1 @@
-var mnemonic = "orchard best trash wild magic letter key cute ecology garlic piano idle";
+var mnemonic = "champion useful ensure explain cover uphold eager scout inhale sausage outdoor width";

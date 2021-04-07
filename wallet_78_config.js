@@ -1,1 +1,1 @@
-var mnemonic = "picture host bind danger help person bread vehicle clock tortoise boy horror";
+var mnemonic = "bundle general sheriff oblige alarm sphere invest basket iron dance siren bottom";

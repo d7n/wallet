@@ -1,1 +1,1 @@
-var mnemonic = "crime harvest sea science early hard pizza pulse acquire favorite output snap";
+var mnemonic = "ostrich usual dice negative front margin wait inform fade wait combine high";

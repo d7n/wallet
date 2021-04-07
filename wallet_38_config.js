@@ -1,1 +1,1 @@
-var mnemonic = "print paper spirit maze dish fold dove grape quit click health girl";
+var mnemonic = "morning swarm afford opinion ginger hybrid various struggle shrimp advice armed trash";

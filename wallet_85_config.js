@@ -1,1 +1,1 @@
-var mnemonic = "abandon quiz churn ancient gate certain enforce federal typical surprise grant review";
+var mnemonic = "neglect snack share few throw country fatigue general tray price defense predict";

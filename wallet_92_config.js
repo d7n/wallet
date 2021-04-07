@@ -1,1 +1,1 @@
-var mnemonic = "guitar fame forum divorce cover usage size drift cattle attend latin bird";
+var mnemonic = "trend multiply weird dish butter beef supreme reason carbon jump trigger movie";

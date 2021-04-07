@@ -1,1 +1,1 @@
-var mnemonic = "syrup ostrich decline wheel afford champion glad initial music whisper top kiwi";
+var mnemonic = "idle proof type infant question detect steak toss begin hand pelican ribbon";

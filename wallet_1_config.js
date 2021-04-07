@@ -1,1 +1,1 @@
-var mnemonic = "sketch gun scorpion emotion notice remember toy hip kangaroo kite cousin life";
+var mnemonic = "olympic extra album soon typical gym soda resemble bus health crawl enforce";

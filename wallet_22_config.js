@@ -1,1 +1,1 @@
-var mnemonic = "cake eight idea cannon virtual lounge section mosquito funny balcony aunt recall";
+var mnemonic = "pupil grain observe moral erode vast trim dizzy tissue salt mango risk";

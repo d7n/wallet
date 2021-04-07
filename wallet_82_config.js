@@ -1,1 +1,1 @@
-var mnemonic = "road stand dismiss exhaust soldier quality swap wasp orient olive deposit account";
+var mnemonic = "lizard cross clay prize couch program excuse apart net lizard portion depend";

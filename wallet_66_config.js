@@ -1,1 +1,1 @@
-var mnemonic = "demise lottery diet creek hollow remain flag company present mom utility empty";
+var mnemonic = "impact crack cargo sock minute hint bracket indicate news foil response woman";

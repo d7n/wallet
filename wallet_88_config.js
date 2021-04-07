@@ -1,1 +1,1 @@
-var mnemonic = "floor tackle abuse material girl size vault match pause usage truly wreck";
+var mnemonic = "jewel bench pen please educate enroll collect clip toward grain rescue race";

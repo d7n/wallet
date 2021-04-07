@@ -1,1 +1,1 @@
-var mnemonic = "loud mirror bounce whale point divide cement goose abuse offer face summer";
+var mnemonic = "slam deer resist item mouse wealth vacant local unusual unusual water pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain young damp guitar pill calm rescue keep alter hybrid coral desk";
+var mnemonic = "future find welcome enable purpose below jump initial modify west friend trigger";

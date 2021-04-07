@@ -1,1 +1,1 @@
-var mnemonic = "indicate play direct wall absorb own guide gossip about claw economy thrive";
+var mnemonic = "summer faith youth ship mesh tourist behave mandate truth suggest party either";

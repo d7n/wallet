@@ -1,1 +1,1 @@
-var mnemonic = "increase edge practice sniff marriage abuse plunge speak spatial author tube ridge";
+var mnemonic = "imitate holiday ivory machine water crater dog radio film reward outer oblige";

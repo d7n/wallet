@@ -1,1 +1,1 @@
-var mnemonic = "fury piano medal furnace attitude quit chaos original behind slab will athlete";
+var mnemonic = "cotton welcome pumpkin slide dice glory route rabbit cancel trim much dust";

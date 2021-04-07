@@ -1,1 +1,1 @@
-var mnemonic = "matrix state zone beauty coyote half vendor control fog dismiss model curve";
+var mnemonic = "power result tattoo town danger praise alter tone kitten bottom trigger bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "this stamp buffalo inherit ice income crew seed silk gospel sport decline";
+var mnemonic = "rural equip battle soon spawn orchard denial head delay exercise coral neither";

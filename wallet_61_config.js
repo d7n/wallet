@@ -1,1 +1,1 @@
-var mnemonic = "tenant mammal trial wreck axis announce exotic stomach cupboard fragile pony own";
+var mnemonic = "boy ride cement grow mask truth scale faith mercy bunker chunk cradle";

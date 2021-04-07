@@ -1,1 +1,1 @@
-var mnemonic = "update result diagram unusual blossom day siren evil feel example cage grain";
+var mnemonic = "pig gate captain web quality dad prevent negative sell increase orange drift";

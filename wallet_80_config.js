@@ -1,1 +1,1 @@
-var mnemonic = "ritual cheese olympic process sign still essay century grant deposit stove answer";
+var mnemonic = "receive balance dose bunker process smart never romance turtle column else replace";

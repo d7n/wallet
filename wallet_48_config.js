@@ -1,1 +1,1 @@
-var mnemonic = "permit salmon drip fault manage hobby retreat west neither pride office merge";
+var mnemonic = "canvas lonely sunset bird carry uniform master ramp then message struggle angry";

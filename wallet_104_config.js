@@ -1,1 +1,1 @@
-var mnemonic = "gun ethics step sense what auction air almost drive edge inflict fury";
+var mnemonic = "head valve afford film hammer muscle guard nice vehicle blouse sustain begin";

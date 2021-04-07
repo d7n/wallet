@@ -1,1 +1,1 @@
-var mnemonic = "ripple swallow level enhance enhance tiny few climb indicate asthma catalog monkey";
+var mnemonic = "vague prize pair soon foot chair annual shoe coral story health taxi";

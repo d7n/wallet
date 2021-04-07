@@ -1,1 +1,1 @@
-var mnemonic = "dry track able provide bullet horror sketch dragon earn stove pistol achieve";
+var mnemonic = "crane duty syrup wool unique alpha material steak blame stumble suspect team";

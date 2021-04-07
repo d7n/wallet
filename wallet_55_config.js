@@ -1,1 +1,1 @@
-var mnemonic = "soup casual jar miss sunny drum during elite document online choice crop";
+var mnemonic = "gate clap wrong buddy spread pass winner kit cave donate loud gift";

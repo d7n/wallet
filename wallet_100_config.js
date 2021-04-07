@@ -1,1 +1,1 @@
-var mnemonic = "divide approve cabbage dignity jelly wheel few teach spy shoot junk drastic";
+var mnemonic = "emotion verb immense notable common citizen trick seat dawn chicken pet post";

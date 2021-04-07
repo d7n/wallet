@@ -1,1 +1,1 @@
-var mnemonic = "rule plastic grace brisk scrub risk major confirm start cable gadget buffalo";
+var mnemonic = "door cable kick jungle unfold broken virtual street river gentle couch toast";

@@ -1,1 +1,1 @@
-var mnemonic = "room dentist loop cup verb popular elegant road foot better there flush";
+var mnemonic = "spy muffin sock wet walk budget verify eager cancel switch turkey parrot";

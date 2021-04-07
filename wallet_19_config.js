@@ -1,1 +1,1 @@
-var mnemonic = "medal pilot artefact nerve genuine cook derive hood famous shop sure visual";
+var mnemonic = "brand clip fall knee horror swallow catalog praise boat attack rich nice";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest spoil artwork there trial axis vicious basket evoke opinion topple mesh";
+var mnemonic = "chair pilot seven become example cycle oven cattle issue skirt decrease sadness";

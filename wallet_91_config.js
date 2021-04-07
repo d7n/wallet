@@ -1,1 +1,1 @@
-var mnemonic = "rib creek velvet grace detail secret bunker try dove zebra once gate";
+var mnemonic = "bar twenty ceiling segment common town brief pretty ten panda anchor fury";

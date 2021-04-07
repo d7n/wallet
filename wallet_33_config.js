@@ -1,1 +1,1 @@
-var mnemonic = "panel muffin pulse lava fruit mercy sister unusual mandate word meat kidney";
+var mnemonic = "hold race smile wool spin about choice glue jealous shadow grain gain";

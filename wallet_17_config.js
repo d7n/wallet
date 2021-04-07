@@ -1,1 +1,1 @@
-var mnemonic = "alcohol derive find infant thought belt deliver chase again fatal salad peace";
+var mnemonic = "leg wife fade athlete topic mixture parent any license enforce abstract domain";

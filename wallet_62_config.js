@@ -1,1 +1,1 @@
-var mnemonic = "bracket snack summer frown join clump invite remain wage pet tackle sausage";
+var mnemonic = "faint setup barrel attitude habit size donate sea smoke control raw repeat";

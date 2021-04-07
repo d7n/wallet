@@ -1,1 +1,1 @@
-var mnemonic = "ability trick million prison shaft battle mutual ring drift rug hat stomach";
+var mnemonic = "way year license symbol produce layer pony sustain suffer wrap involve mistake";

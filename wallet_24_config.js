@@ -1,1 +1,1 @@
-var mnemonic = "omit paddle charge select goat puppy farm derive despair steak switch ginger";
+var mnemonic = "ticket great nuclear rack much punch proud thank art error group elder";

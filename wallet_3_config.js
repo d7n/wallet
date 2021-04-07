@@ -1,1 +1,1 @@
-var mnemonic = "autumn exchange canoe fish clay version enable shadow short cannon release grow";
+var mnemonic = "depth either spot bullet essence nature turkey miracle latin shield friend unable";

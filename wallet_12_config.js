@@ -1,1 +1,1 @@
-var mnemonic = "stage rent mountain hidden sign rug spot domain void property soup spatial";
+var mnemonic = "truck alert across artist transfer level essay sleep plate dish island soon";

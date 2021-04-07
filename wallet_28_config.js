@@ -1,1 +1,1 @@
-var mnemonic = "gown ecology dolphin draw father void flag critic property edit awesome piece";
+var mnemonic = "math border december worry short stone boss pass seek short sauce oak";

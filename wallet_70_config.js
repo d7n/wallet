@@ -1,1 +1,1 @@
-var mnemonic = "absorb oxygen organ reject edge there tumble cause wrong blade entry misery";
+var mnemonic = "please sauce able kitten shed cushion quarter fashion brush decide floor portion";

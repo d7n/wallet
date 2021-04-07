@@ -1,1 +1,1 @@
-var mnemonic = "dose indicate donate zero tribe mosquito candy very orchard carpet able glad";
+var mnemonic = "medal regret street regret angle tower pumpkin toilet yard better denial cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "dress shield boat weekend gate race couch movie high slush vanish soda";
+var mnemonic = "motion enforce final warm wing fog resemble setup lucky salmon pudding memory";

@@ -1,1 +1,1 @@
-var mnemonic = "youth buzz bread salute fancy used spot across pond truck purpose upon";
+var mnemonic = "tackle enjoy brush pipe have choice meadow essence blind mouse bamboo ridge";

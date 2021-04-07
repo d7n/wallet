@@ -1,1 +1,1 @@
-var mnemonic = "because sun remain matrix peasant inner tank dove ensure garage hungry include";
+var mnemonic = "else layer stomach camp gadget auction negative gaze youth slice raccoon circle";

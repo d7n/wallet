@@ -1,1 +1,1 @@
-var mnemonic = "cabin champion tobacco assist thunder banana shaft garbage glimpse immune more section";
+var mnemonic = "release success column young path slim clean slam toast cement spoil ensure";

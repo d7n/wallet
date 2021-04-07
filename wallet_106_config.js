@@ -1,1 +1,1 @@
-var mnemonic = "picnic multiply despair original bubble project dove concert boil sweet census frown";
+var mnemonic = "series engage cube brave insect swamp flush involve donate march bread blast";

@@ -1,1 +1,1 @@
-var mnemonic = "fox else hazard exile sunny dirt waste return truly bless brisk win";
+var mnemonic = "such payment armor limb true lion damage roast venture dust rabbit green";

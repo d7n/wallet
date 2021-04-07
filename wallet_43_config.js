@@ -1,1 +1,1 @@
-var mnemonic = "good unique aerobic absurd between elephant mystery box solid distance curtain room";
+var mnemonic = "suggest shell final candy bamboo clip detail tomorrow panel sustain vote buddy";

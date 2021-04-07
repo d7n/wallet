@@ -1,1 +1,1 @@
-var mnemonic = "grab car bag degree second develop avoid mango scare public gauge divide";
+var mnemonic = "canal occur amount slice layer fine famous bike weird virus snow casino";

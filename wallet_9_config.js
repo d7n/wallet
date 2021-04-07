@@ -1,1 +1,1 @@
-var mnemonic = "gate pet orbit whale brush lucky catch slight wide depart uncover advice";
+var mnemonic = "thumb dress memory define tissue simple member profit this weather odor motor";

@@ -1,1 +1,1 @@
-var mnemonic = "glance change page expect fun session suggest bounce liberty mouse wood brave";
+var mnemonic = "hazard modify hair reward hole ladder scrub glove raise trip evolve below";

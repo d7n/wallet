@@ -1,1 +1,1 @@
-var mnemonic = "solve shuffle lobster fly muffin canoe exile unit clown barrel reopen sport";
+var mnemonic = "enjoy vintage mix either hero distance easily bind spin must mixed dry";

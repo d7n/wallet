@@ -1,1 +1,1 @@
-var mnemonic = "session rich forward laundry artefact dress meadow sibling rent brother key maid";
+var mnemonic = "cable obtain bulb polar aunt suffer order dish wet alcohol paddle section";

@@ -1,1 +1,1 @@
-var mnemonic = "radio unable inmate blast armed weekend armor bar economy bench delay region";
+var mnemonic = "rice ignore champion mirror garment tree upgrade shield kick shy lend this";

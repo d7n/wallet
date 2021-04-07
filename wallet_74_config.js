@@ -1,1 +1,1 @@
-var mnemonic = "february mountain toddler produce absent wink finish main forum barely deputy ship";
+var mnemonic = "soft party tired visit ready age believe thumb job entry age blue";

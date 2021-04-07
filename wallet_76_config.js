@@ -1,1 +1,1 @@
-var mnemonic = "combine nose execute blanket sudden shallow derive cram flock panther exit biology";
+var mnemonic = "buddy horror legend huge clutch story cart insane worry wedding inquiry label";

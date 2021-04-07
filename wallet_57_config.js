@@ -1,1 +1,1 @@
-var mnemonic = "ethics rate famous fuel setup maze joke motor quiz rather blue tree";
+var mnemonic = "slam field jeans novel image salt happy gown true plastic curtain bean";

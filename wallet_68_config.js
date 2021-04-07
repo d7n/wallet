@@ -1,1 +1,1 @@
-var mnemonic = "utility current jump heavy dance juice radar employ omit gadget define august";
+var mnemonic = "miss comfort patch lion mix raw defy under win indoor delay load";

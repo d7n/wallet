@@ -1,1 +1,1 @@
-var mnemonic = "hundred laundry easily say outdoor control mask envelope real garlic roof bubble";
+var mnemonic = "shift client unfair swarm glass dose fatal bundle place cement giraffe pipe";

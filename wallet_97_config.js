@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin fan major parrot ill park ridge human giraffe tackle tennis cigar";
+var mnemonic = "motion review near cross draw smooth topic spread size tag creek grace";

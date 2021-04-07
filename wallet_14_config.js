@@ -1,1 +1,1 @@
-var mnemonic = "into exclude song fruit blast finger capital short organ guide noise kitten";
+var mnemonic = "lunch stadium fury notable face impulse hat endorse spider neutral spatial sunset";

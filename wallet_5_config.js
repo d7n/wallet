@@ -1,1 +1,1 @@
-var mnemonic = "coin saddle latin add adjust gesture vocal wing opera budget firm stem";
+var mnemonic = "silly build popular sunset extra hat lounge behind busy example arrest eagle";

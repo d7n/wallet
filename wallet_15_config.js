@@ -1,1 +1,1 @@
-var mnemonic = "science pilot shadow shrimp hazard page achieve security rug diamond vital comfort";
+var mnemonic = "globe apart measure sand ladder filter tree hockey accident slogan pulse direct";

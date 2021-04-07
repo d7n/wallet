@@ -1,1 +1,1 @@
-var mnemonic = "pause penalty gasp club problem sweet decline shallow kingdom blur borrow bulb";
+var mnemonic = "venue picnic gospel reduce curious dice purse hour argue settle improve loyal";

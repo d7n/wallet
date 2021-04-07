@@ -1,1 +1,1 @@
-var mnemonic = "spoil vehicle frozen staff fruit glory print member lunch husband lesson tennis";
+var mnemonic = "stool unable because teach zebra legend nice exclude example pudding cover gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "dice moon salon entire slide soft crowd stereo seed document hen present";
+var mnemonic = "august voice day milk scale oxygen cash kid weasel olympic pool wait";

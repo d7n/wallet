@@ -1,1 +1,1 @@
-var mnemonic = "water put lawsuit already glimpse crucial minor stable awesome ordinary search bright";
+var mnemonic = "link zoo dignity lazy butter sister execute erosion stamp impulse shy jazz";

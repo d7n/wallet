@@ -1,1 +1,1 @@
-var mnemonic = "upset reflect lucky account opera demand skirt bubble trend just voyage carpet";
+var mnemonic = "west cup flat monitor science hour sense transfer half method anchor toy";

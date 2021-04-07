@@ -1,1 +1,1 @@
-var mnemonic = "fit broken shoe stuff inquiry axis august share hurry code detail mammal";
+var mnemonic = "picnic clip wool animal ask gold helmet all yellow rival update stem";

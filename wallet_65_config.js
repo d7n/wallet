@@ -1,1 +1,1 @@
-var mnemonic = "file stamp season curtain border picture olive raven come vacuum crucial tragic";
+var mnemonic = "income parrot either real turtle staff field rigid soon focus drift position";

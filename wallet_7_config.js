@@ -1,1 +1,1 @@
-var mnemonic = "firm delay suggest wool accident leopard volcano idle gaze permit cruise receive";
+var mnemonic = "lake kiwi tank expire water welcome rice inner wedding era solve absurd";

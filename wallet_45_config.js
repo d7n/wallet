@@ -1,1 +1,1 @@
-var mnemonic = "pattern report emerge furnace select hard connect run wait sunny scissors spray";
+var mnemonic = "desk surprise merge claim cousin bid pool mosquito future increase seed exotic";

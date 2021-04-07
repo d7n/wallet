@@ -1,1 +1,1 @@
-var mnemonic = "action between globe long mango credit embark else vibrant garbage home cost";
+var mnemonic = "emotion private odor diagram drink depart magic guess settle century power furnace";

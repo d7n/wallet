@@ -1,1 +1,1 @@
-var mnemonic = "issue melody birth gesture leopard cage kingdom target arrow romance saddle cage";
+var mnemonic = "cattle silent rate symbol unit jelly approve window beef pink cycle gold";

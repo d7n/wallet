@@ -1,1 +1,1 @@
-var mnemonic = "novel soda example donate horse gorilla relax fetch essay rescue logic card";
+var mnemonic = "style picnic weasel key jewel relief crunch vibrant online clinic excite thumb";

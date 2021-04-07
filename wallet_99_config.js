@@ -1,1 +1,1 @@
-var mnemonic = "bread jeans style slice boil tube abuse quality speed matrix boy seed";
+var mnemonic = "kite spend sunset okay camp satisfy hybrid wear hover glare glow sense";

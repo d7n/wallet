@@ -1,1 +1,1 @@
-var mnemonic = "traffic strong furnace lake stairs baby worth step city misery humble loan";
+var mnemonic = "coil lunch load great beyond town layer climb visit ticket evidence climb";

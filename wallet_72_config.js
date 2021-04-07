@@ -1,1 +1,1 @@
-var mnemonic = "pipe cabbage napkin unable rural wolf book saddle fix label protect ugly";
+var mnemonic = "trash venture fly retire garage pig harvest gun father sun faint picture";

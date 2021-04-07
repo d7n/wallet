@@ -1,1 +1,1 @@
-var mnemonic = "total dinner praise lazy sand soap debate icon hope marble side exercise";
+var mnemonic = "radio iron wrist degree rookie ghost focus acquire input potato firm sock";

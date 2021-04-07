@@ -1,1 +1,1 @@
-var mnemonic = "toddler symptom enough broken absent unfair donkey remove eager gym banana vanish";
+var mnemonic = "foot belt endless debate dragon hint health buyer congress pretty jungle category";

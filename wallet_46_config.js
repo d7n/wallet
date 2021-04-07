@@ -1,1 +1,1 @@
-var mnemonic = "impact sphere federal embody provide dice oak orient family slight draw spend";
+var mnemonic = "round hold begin olive sugar pulse alpha girl easily must fatal bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "school ball lecture great patch theme about shrimp census crunch cruise fatigue";
+var mnemonic = "answer siren front name sand tumble axis pledge govern mutual deny era";
