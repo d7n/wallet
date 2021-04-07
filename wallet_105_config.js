@@ -1,1 +1,1 @@
-var mnemonic = "drink trash sphere pact pledge figure boost guard paper demand patch art";
+var mnemonic = "lumber fall ahead inch cargo festival afford lawsuit spider lion swear flight";

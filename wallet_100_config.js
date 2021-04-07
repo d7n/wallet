@@ -1,1 +1,1 @@
-var mnemonic = "palm album negative royal arrow snow suggest network media spray dance pet";
+var mnemonic = "source coconut filter section banana miracle move blind cricket soldier cliff shallow";

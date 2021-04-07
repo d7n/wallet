@@ -1,1 +1,1 @@
-var mnemonic = "grow enter wise ball wool tomorrow rubber fitness shiver negative dolphin foam";
+var mnemonic = "turkey eyebrow minute way glue believe brass basket infant sword ill depend";

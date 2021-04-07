@@ -1,1 +1,1 @@
-var mnemonic = "deliver ripple exercise target uncle fetch collect choice track element hold boy";
+var mnemonic = "elephant nut wool alter pony light flower immense damp lava eagle today";

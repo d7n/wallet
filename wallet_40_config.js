@@ -1,1 +1,1 @@
-var mnemonic = "glimpse bitter verify whale radar urban wine cube photo ship toe diesel";
+var mnemonic = "rich crazy praise planet master proud float width mom jar kiwi soon";

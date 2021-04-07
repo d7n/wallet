@@ -1,1 +1,1 @@
-var mnemonic = "need squirrel ranch device afraid future project smile forward tonight order pave";
+var mnemonic = "fish decrease silent review juice doctor hurry scheme faint bird dragon vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle evolve audit gather engage annual miss exist family uphold until actual";
+var mnemonic = "movie lamp afraid lumber core valid bulk train pride neck swear cement";

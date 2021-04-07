@@ -1,1 +1,1 @@
-var mnemonic = "shoe decade design deal term artefact hard ahead more fix mushroom swallow";
+var mnemonic = "jar purchase beyond prevent science duck elite kid human coin innocent brave";

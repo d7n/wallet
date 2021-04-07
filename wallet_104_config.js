@@ -1,1 +1,1 @@
-var mnemonic = "dune dragon betray capital night eight romance pattern find inject language forget";
+var mnemonic = "news such tourist valve taxi robust volcano famous trap method average rally";

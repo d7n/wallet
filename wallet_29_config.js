@@ -1,1 +1,1 @@
-var mnemonic = "appear swift chat inherit smile cloth frequent orphan piece arrest elder source";
+var mnemonic = "unit nasty old curious vacuum fluid depart violin camera cash winter resource";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud tide fame document snow lake cereal orange immune funny lunch width";
+var mnemonic = "top foot slogan birth city pair female letter broccoli design decline warrior";

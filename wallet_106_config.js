@@ -1,1 +1,1 @@
-var mnemonic = "ridge harvest aim panic rubber seed purchase hidden coral rate liberty umbrella";
+var mnemonic = "matrix law rib beauty evoke property wheat because oven illness arch mechanic";

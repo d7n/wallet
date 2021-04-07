@@ -1,1 +1,1 @@
-var mnemonic = "power bargain six sea window parent version stick resemble lazy unfair wreck";
+var mnemonic = "moral profit conduct bid increase mountain teach agent brisk quarter holiday upset";

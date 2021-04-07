@@ -1,1 +1,1 @@
-var mnemonic = "beef mystery maze nice into host salad dutch foster skull brave cool";
+var mnemonic = "fuel other labor twin shoot praise quarter upgrade win duty east stick";

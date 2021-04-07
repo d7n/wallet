@@ -1,1 +1,1 @@
-var mnemonic = "guide inherit frog economy disagree boy evolve tenant then clever heavy time";
+var mnemonic = "switch unfair coach certain flame bean fine dentist admit sunny fatal office";

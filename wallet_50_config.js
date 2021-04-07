@@ -1,1 +1,1 @@
-var mnemonic = "cup wink relief story van learn forum inform above deposit okay dragon";
+var mnemonic = "jazz feed portion earth tourist magic rain latin bullet blouse replace wrong";

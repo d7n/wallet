@@ -1,1 +1,1 @@
-var mnemonic = "clown chief split height beach state choice film harvest nature syrup slam";
+var mnemonic = "field source shock fatal normal market boil siege ghost diesel kingdom pledge";

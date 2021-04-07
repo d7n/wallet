@@ -1,1 +1,1 @@
-var mnemonic = "pelican shed truth noise pulse walk spot youth forget harsh tourist meat";
+var mnemonic = "kangaroo guitar gadget flash joke middle december visit horn method feel half";

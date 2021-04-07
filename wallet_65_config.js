@@ -1,1 +1,1 @@
-var mnemonic = "patch chat sun frequent sell mind prison snap space rather size exercise";
+var mnemonic = "crime neutral pave razor heavy advance envelope champion gesture kiwi advice organ";

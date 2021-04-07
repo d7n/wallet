@@ -1,1 +1,1 @@
-var mnemonic = "twenty empower steak faint clarify guide vehicle hub latin unusual inform fortune";
+var mnemonic = "bag split canoe smart city job advice cute fantasy seminar joy zone";

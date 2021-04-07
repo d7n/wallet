@@ -1,1 +1,1 @@
-var mnemonic = "mansion assist current camera vehicle village snow random produce nurse rival beyond";
+var mnemonic = "satisfy prosper bread regret when smart enrich audit essence spot pair reopen";

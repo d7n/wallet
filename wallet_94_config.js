@@ -1,1 +1,1 @@
-var mnemonic = "practice lock debate veteran report sustain agent flip junior ski local brown";
+var mnemonic = "exile phone initial eternal energy agent make rebel desk toddler stock youth";

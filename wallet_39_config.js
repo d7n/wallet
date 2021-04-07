@@ -1,1 +1,1 @@
-var mnemonic = "thank sound harsh hub credit glide level bundle pond powder hand mango";
+var mnemonic = "gown build hundred glove lawn jungle mistake rapid pioneer amount robust bid";

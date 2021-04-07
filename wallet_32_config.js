@@ -1,1 +1,1 @@
-var mnemonic = "attitude foot upper sudden yellow valley saddle surprise dismiss crisp limit cigar";
+var mnemonic = "pistol rebuild area cash coast ritual execute poverty cradle blouse manual cool";

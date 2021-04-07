@@ -1,1 +1,1 @@
-var mnemonic = "regret used slice pistol general property remember road funny swift cream phone";
+var mnemonic = "when disease shiver spoon medal ketchup loan network clump test device cup";

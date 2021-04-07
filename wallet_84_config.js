@@ -1,1 +1,1 @@
-var mnemonic = "loud mesh close dry slam season hen find fine radar distance laptop";
+var mnemonic = "vendor chalk lens sock post lemon trigger laugh video obtain jungle veteran";

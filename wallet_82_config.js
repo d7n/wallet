@@ -1,1 +1,1 @@
-var mnemonic = "glide scissors worth neck curve impact window come involve man fabric become";
+var mnemonic = "mom grow gas extra decrease reform already pass vault embody situate pink";

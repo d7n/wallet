@@ -1,1 +1,1 @@
-var mnemonic = "embrace today deer express loop smile quiz bullet virus enlist there aerobic";
+var mnemonic = "kidney offer genuine idea helmet boss season say cat faculty love border";

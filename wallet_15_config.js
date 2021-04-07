@@ -1,1 +1,1 @@
-var mnemonic = "screen spell laundry pledge arch raccoon rate glove adjust anxiety bag fat";
+var mnemonic = "major lock exhibit already recycle diary model warrior deer target magic chef";

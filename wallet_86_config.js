@@ -1,1 +1,1 @@
-var mnemonic = "include core make hedgehog pretty car pumpkin industry boat forget process chaos";
+var mnemonic = "layer basket staff drastic sad assault orphan dawn welcome use prefer seven";

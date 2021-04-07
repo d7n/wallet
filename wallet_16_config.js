@@ -1,1 +1,1 @@
-var mnemonic = "fork hotel expect napkin digital vacant slam this verify canyon upgrade bone";
+var mnemonic = "reduce note sea dinner seek chimney beef dolphin gaze dry south ritual";

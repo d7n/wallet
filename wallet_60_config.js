@@ -1,1 +1,1 @@
-var mnemonic = "seed screen jelly quarter casino answer energy boy employ program despair child";
+var mnemonic = "gorilla miracle vivid protect draw shield kangaroo shrimp chest cotton access hello";

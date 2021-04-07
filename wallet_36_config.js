@@ -1,1 +1,1 @@
-var mnemonic = "soft absent box engage address tip result whale certain dish arrive ticket";
+var mnemonic = "alcohol ring battle tiny warrior hockey napkin host clap liquid pitch ozone";

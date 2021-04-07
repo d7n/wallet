@@ -1,1 +1,1 @@
-var mnemonic = "angle birth pull still segment coffee hub often size crater hamster debris";
+var mnemonic = "switch rather result road math come fiber powder real margin earn legend";

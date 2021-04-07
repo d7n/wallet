@@ -1,1 +1,1 @@
-var mnemonic = "shiver tag vapor zebra satoshi great educate they wage sister secret slide";
+var mnemonic = "pulp ranch toilet box bargain addict tool where fresh reopen green junior";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit acquire local science worry ensure oil welcome identify jaguar much glove";
+var mnemonic = "pattern frog tortoise ramp luxury much talent warrior recipe clump able loan";

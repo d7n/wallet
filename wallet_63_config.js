@@ -1,1 +1,1 @@
-var mnemonic = "write shadow front flush genre goose naive nurse analyst ship diary world";
+var mnemonic = "over fix input talk vibrant engage route disorder output omit hood subject";

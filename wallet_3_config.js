@@ -1,1 +1,1 @@
-var mnemonic = "toward sheriff simple initial mad virus reunion hundred birth position artist mail";
+var mnemonic = "copper dry nasty estate walnut waste fold business quick loan purpose ensure";

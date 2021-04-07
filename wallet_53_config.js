@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo truly wine fold cube slender pride federal hobby gadget weather sauce";
+var mnemonic = "cactus bench census recycle battle cherry kitchen result inch face shock report";

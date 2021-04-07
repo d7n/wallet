@@ -1,1 +1,1 @@
-var mnemonic = "nut buffalo absent seek giraffe tag sand sauce blush lamp special blossom";
+var mnemonic = "crucial click diet nature outdoor pear either song unit bus allow repeat";

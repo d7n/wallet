@@ -1,1 +1,1 @@
-var mnemonic = "envelope daughter country neither forget sunny work farm resist peace exhaust inquiry";
+var mnemonic = "industry palace umbrella pride correct layer curve dismiss glory glare wet question";

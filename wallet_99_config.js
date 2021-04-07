@@ -1,1 +1,1 @@
-var mnemonic = "will gloom autumn desk matrix chronic opinion unaware reason review nature possible";
+var mnemonic = "renew push scout swim target van into like half judge figure ahead";

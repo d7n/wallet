@@ -1,1 +1,1 @@
-var mnemonic = "horror erosion high goat connect equal wreck equal true damp must step";
+var mnemonic = "human voice glimpse mercy average amount imitate column enlist violin again page";

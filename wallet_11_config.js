@@ -1,1 +1,1 @@
-var mnemonic = "steel shield symbol rail dizzy advance pyramid curve measure tired noise tooth";
+var mnemonic = "reunion monkey keen hold armor rent taxi unhappy foil bulk cheese device";

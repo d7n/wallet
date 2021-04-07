@@ -1,1 +1,1 @@
-var mnemonic = "someone cable blanket record furnace sail decorate attend picture wine pair scissors";
+var mnemonic = "torch surround slow stuff slam forward speed floor exact sock series teach";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos car advance marble original toy bleak alert erupt easy also denial";
+var mnemonic = "chalk gravity jewel april any enter castle method combine shoot decide change";

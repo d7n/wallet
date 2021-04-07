@@ -1,1 +1,1 @@
-var mnemonic = "palm rain pig shrug rule bring recycle ancient outside dirt suit risk";
+var mnemonic = "adapt deer cool habit step wood expire tell manage world outside gold";

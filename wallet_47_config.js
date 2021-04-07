@@ -1,1 +1,1 @@
-var mnemonic = "veteran phone middle civil certain long bright deny lava world project furnace";
+var mnemonic = "toddler extra mushroom page push disease flavor midnight include humble same olympic";

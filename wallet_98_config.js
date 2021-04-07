@@ -1,1 +1,1 @@
-var mnemonic = "flower steel stuff immune gas fetch seek position region mix genius shrug";
+var mnemonic = "degree curious kind unlock unique evidence toy write ignore two purse lonely";

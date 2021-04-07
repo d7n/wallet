@@ -1,1 +1,1 @@
-var mnemonic = "rhythm deposit flip shove topic voice buyer warrior claim trash fame lottery";
+var mnemonic = "lemon kitchen sleep spring cigar bomb kitten fish sunny syrup glad put";

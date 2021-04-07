@@ -1,1 +1,1 @@
-var mnemonic = "fatal finish slender seminar any town nominee paddle regular avoid subway asthma";
+var mnemonic = "couple detail champion eternal panic cabin fetch fetch furnace arm rocket sword";

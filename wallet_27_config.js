@@ -1,1 +1,1 @@
-var mnemonic = "pudding devote horror such bottom west half road turn poem corn butter";
+var mnemonic = "announce later explain narrow segment quit angle whale cargo ozone sauce vast";

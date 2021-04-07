@@ -1,1 +1,1 @@
-var mnemonic = "winter frost wolf jelly draft inch cart useful music say history proud";
+var mnemonic = "emotion play combine include must mouse trick festival kind narrow saddle ten";

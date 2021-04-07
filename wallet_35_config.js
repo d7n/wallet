@@ -1,1 +1,1 @@
-var mnemonic = "sketch fetch neck gap when various amused ladder clip cage salon coyote";
+var mnemonic = "arctic inject like urge rich lion expose apology grass tree defy chalk";

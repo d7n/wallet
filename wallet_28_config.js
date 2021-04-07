@@ -1,1 +1,1 @@
-var mnemonic = "allow hover prevent chaos private boss voice below live project great eyebrow";
+var mnemonic = "dose trend universe warrior barely avocado frog unknown solar antique animal payment";

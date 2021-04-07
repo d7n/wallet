@@ -1,1 +1,1 @@
-var mnemonic = "cactus pottery excite scorpion script loud piece student worth mansion unable enjoy";
+var mnemonic = "subject material fluid cruise boring crawl canvas shift juice soldier enemy oil";

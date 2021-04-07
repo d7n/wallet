@@ -1,1 +1,1 @@
-var mnemonic = "kid forget rack wasp setup stone scrub crew monkey garbage visa receive";
+var mnemonic = "language physical slim brand repair fit suffer inquiry ladder range notable whale";

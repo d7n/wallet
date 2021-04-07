@@ -1,1 +1,1 @@
-var mnemonic = "deputy middle fog warfare ocean finger walnut trim butter term order horror";
+var mnemonic = "tackle dream strong fly device ugly another just goose explain detect grain";

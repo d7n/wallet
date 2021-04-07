@@ -1,1 +1,1 @@
-var mnemonic = "item tornado drift broom security butter dream ankle elite table dismiss night";
+var mnemonic = "resource miss dinosaur pull outdoor spoon destroy inherit afford behind mother consider";

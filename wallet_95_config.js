@@ -1,1 +1,1 @@
-var mnemonic = "gospel employ trophy harbor confirm drive marble train blood dutch lens turn";
+var mnemonic = "access dinner slide dutch pair royal float dinosaur segment hip measure whale";

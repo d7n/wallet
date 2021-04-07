@@ -1,1 +1,1 @@
-var mnemonic = "wasp frown drive borrow gain risk video sun west habit vintage close";
+var mnemonic = "neglect sausage evil six battle clay observe basket lamp thing main suspect";

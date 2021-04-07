@@ -1,1 +1,1 @@
-var mnemonic = "differ future imitate enemy earth give online symbol spoon only ski busy";
+var mnemonic = "mind put estate cost barely mind genius city mirror screen diesel crowd";

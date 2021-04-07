@@ -1,1 +1,1 @@
-var mnemonic = "ripple drum shed reform banner syrup vintage rate fossil post left artwork";
+var mnemonic = "purity already miracle ship float casino talk allow raise level protect either";

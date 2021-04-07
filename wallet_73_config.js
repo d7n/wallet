@@ -1,1 +1,1 @@
-var mnemonic = "awful unhappy capable work liberty satisfy shed argue noodle debris never leopard";
+var mnemonic = "decorate shrimp ocean razor coin dry demand margin wild setup vacuum strike";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli bronze fee satoshi rocket garlic chaos oil gym fork sight dish";
+var mnemonic = "control order radio addict own couple mandate latin level town swim couple";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi stand wild hollow box town caught art people frequent badge document";
+var mnemonic = "strong vicious library canvas veteran dismiss vacuum bright rabbit ginger olympic mimic";

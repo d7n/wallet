@@ -1,1 +1,1 @@
-var mnemonic = "found organ clog juice health habit loop bulb bar forward yellow often";
+var mnemonic = "hand over canyon cabbage fame figure pretty parrot angle crew broken crew";

@@ -1,1 +1,1 @@
-var mnemonic = "stove arrange deny throw steak emerge future prefer hawk cabbage toward country";
+var mnemonic = "oblige media acoustic keep catalog key owner physical airport airport ticket indoor";

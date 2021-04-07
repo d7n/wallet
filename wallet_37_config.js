@@ -1,1 +1,1 @@
-var mnemonic = "brush also peasant achieve life lock churn enable gift air wisdom light";
+var mnemonic = "harsh churn nurse early magnet pact scatter relax decorate theme clog teach";

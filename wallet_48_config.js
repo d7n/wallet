@@ -1,1 +1,1 @@
-var mnemonic = "nature unaware fresh west judge ivory social abandon rally rely boss casino";
+var mnemonic = "banana adult refuse elder endorse kitchen either object welcome lonely shy envelope";

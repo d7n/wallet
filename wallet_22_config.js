@@ -1,1 +1,1 @@
-var mnemonic = "predict giggle hawk load improve kid wealth curve fog hello truck pride";
+var mnemonic = "bus predict cinnamon wait brand predict decade middle melt media theme since";

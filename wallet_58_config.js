@@ -1,1 +1,1 @@
-var mnemonic = "earn lyrics kiwi broom ready upon account inch social like match upon";
+var mnemonic = "profit brown save fresh satisfy mad tuna sound during once supply flame";

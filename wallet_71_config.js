@@ -1,1 +1,1 @@
-var mnemonic = "cup damage regret angry person screen pause smile purity erosion alert equip";
+var mnemonic = "basic that capital one vanish horror become brother benefit stable play height";

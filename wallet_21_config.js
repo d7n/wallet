@@ -1,1 +1,1 @@
-var mnemonic = "catch east embrace equip fence tribe click access exhibit calm immune urge";
+var mnemonic = "woman erupt wise indoor describe assist simple gadget suffer must midnight bench";

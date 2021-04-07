@@ -1,1 +1,1 @@
-var mnemonic = "toilet engine guilt day arch midnight fiber boring diagram glow skull shoulder";
+var mnemonic = "library explain answer time hollow hazard miss wagon panther reveal already rather";

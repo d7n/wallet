@@ -1,1 +1,1 @@
-var mnemonic = "charge fluid identify green story theme ankle inch six file diesel galaxy";
+var mnemonic = "apology ten nominee job butter section fly cute eyebrow virtual kitchen wage";

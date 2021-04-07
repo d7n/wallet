@@ -1,1 +1,1 @@
-var mnemonic = "toe head hand demand young human soul medal shuffle slot exit slab";
+var mnemonic = "episode beauty couple stuff camp ski loan ridge shrimp host hedgehog garden";

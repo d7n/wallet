@@ -1,1 +1,1 @@
-var mnemonic = "fork weird interest pipe review often rain sign circle consider yard vibrant";
+var mnemonic = "puzzle promote grain thing only element shed diet fine elite claw disease";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin gather letter tag wasp volcano rely direct asset desert harbor two";
+var mnemonic = "obey power beef orange exhaust utility come follow trap naive group expect";

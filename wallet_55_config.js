@@ -1,1 +1,1 @@
-var mnemonic = "forest wheel science cloud only universe detail subject error film barrel fat";
+var mnemonic = "demise dentist vacant great annual jump have saddle vapor sleep grain keep";

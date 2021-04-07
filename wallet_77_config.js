@@ -1,1 +1,1 @@
-var mnemonic = "sudden enjoy fruit shy elite when connect team cattle punch canal regular";
+var mnemonic = "open have high fold office setup message jelly fly broken empty idea";

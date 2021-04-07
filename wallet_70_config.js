@@ -1,1 +1,1 @@
-var mnemonic = "sock scrub rival scrap inject reduce vital lecture lava end bicycle wool";
+var mnemonic = "length witness interest stamp solve dinner time near badge bind believe guard";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue way roof spell milk regret attract cotton spot napkin output already";
+var mnemonic = "bundle assume window suffer pave ten traffic matter vocal obvious fish source";

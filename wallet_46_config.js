@@ -1,1 +1,1 @@
-var mnemonic = "soft cross effort invest amateur unfold area camp attend random case hidden";
+var mnemonic = "tree keep bright army regular horror patrol quote merit lady amused clown";

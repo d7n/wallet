@@ -1,1 +1,1 @@
-var mnemonic = "jump utility explain obvious indoor coil boy baby maple then maid wide";
+var mnemonic = "left analyst once action hungry urban exercise notice churn chaos wage cricket";

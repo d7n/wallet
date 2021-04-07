@@ -1,1 +1,1 @@
-var mnemonic = "sad body during naive round climb analyst guitar caught squeeze lizard diary";
+var mnemonic = "point favorite fat axis charge west boil hollow autumn exist join provide";

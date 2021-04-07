@@ -1,1 +1,1 @@
-var mnemonic = "eager tray birth believe say imitate lend harsh cluster bubble hobby industry";
+var mnemonic = "brass piece charge coffee gym athlete still book song base ladder excess";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth payment weekend lock wear game kind girl peasant guide sight tape";
+var mnemonic = "grief juice decide soup turn rapid hybrid health exclude seek staff swift";

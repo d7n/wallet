@@ -1,1 +1,1 @@
-var mnemonic = "speed ankle concert type border olive frozen steel panda slush monster calm";
+var mnemonic = "rough iron choose forum rain door snake comfort scare grape use master";

@@ -1,1 +1,1 @@
-var mnemonic = "glance latin wine finish resource insect capital someone rich access wisdom monster";
+var mnemonic = "emotion rain soft chalk job mother possible danger raw rule local nurse";

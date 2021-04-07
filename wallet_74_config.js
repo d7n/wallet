@@ -1,1 +1,1 @@
-var mnemonic = "skill pool equip crime spring capital food embark tackle shiver lizard winter";
+var mnemonic = "sleep voice broken wink glove artwork reopen muffin hold acid jungle energy";
