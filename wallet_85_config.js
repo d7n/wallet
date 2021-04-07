@@ -1,1 +1,1 @@
-var mnemonic = "mask bus humble pepper buffalo rude cry crater steak explain you dune";
+var mnemonic = "image guitar wall view armed claim direct palace peasant gain next room";

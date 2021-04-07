@@ -1,1 +1,1 @@
-var mnemonic = "wonder erode tent muffin school kit toy brick blur elevator egg warrior";
+var mnemonic = "test narrow february prefer badge impose slogan blast transfer tray leaf aspect";

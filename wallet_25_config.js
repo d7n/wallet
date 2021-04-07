@@ -1,1 +1,1 @@
-var mnemonic = "goddess check lock pretty extra cage act settle local guilt dry curtain";
+var mnemonic = "balance base sing input clay nothing ozone congress build assume section design";

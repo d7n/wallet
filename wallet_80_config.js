@@ -1,1 +1,1 @@
-var mnemonic = "income gallery theme scorpion real urge concert side universe present ticket million";
+var mnemonic = "assault pottery mansion airport dentist transfer arrive trip proof antique drift cradle";

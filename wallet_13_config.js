@@ -1,1 +1,1 @@
-var mnemonic = "endorse carbon dismiss betray grab topple cream indoor piano bamboo else behind";
+var mnemonic = "piano common trap valley income cool venue patient position town car kind";

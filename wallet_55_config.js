@@ -1,1 +1,1 @@
-var mnemonic = "bracket large alert satoshi object rely story large index brisk deny pioneer";
+var mnemonic = "spirit situate voice tube dilemma initial magic educate present thumb motor wash";

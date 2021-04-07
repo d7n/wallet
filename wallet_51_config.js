@@ -1,1 +1,1 @@
-var mnemonic = "rookie side fee message add eternal rookie dentist minimum secret catch edge";
+var mnemonic = "volume similar index evil treat eight icon puppy initial foster exchange cupboard";

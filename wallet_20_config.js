@@ -1,1 +1,1 @@
-var mnemonic = "unusual artist fan kangaroo region kid subject hope wife voice street small";
+var mnemonic = "airport legal impose witness grunt street resource frame organ outside weather silent";

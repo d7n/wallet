@@ -1,1 +1,1 @@
-var mnemonic = "auction spice inspire rose runway stomach snack romance item yellow angry bomb";
+var mnemonic = "hybrid smooth clarify will tower acoustic dream ostrich knee ripple umbrella uncover";

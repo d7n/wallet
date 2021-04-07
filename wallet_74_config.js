@@ -1,1 +1,1 @@
-var mnemonic = "palm cherry bread anger inform amount purchase antenna path type bracket agree";
+var mnemonic = "cactus canvas sting believe fabric angle often emotion nose label badge record";

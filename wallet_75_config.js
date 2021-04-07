@@ -1,1 +1,1 @@
-var mnemonic = "wage web snap injury effort else super blouse deliver always curtain left";
+var mnemonic = "bid observe obtain remain year power nature know horn enter fiber slogan";

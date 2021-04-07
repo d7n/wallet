@@ -1,1 +1,1 @@
-var mnemonic = "verb never library short silly safe struggle parrot remove flee swamp junk";
+var mnemonic = "oblige decorate pave piano pact regret drift express report attitude lonely shrug";

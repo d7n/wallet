@@ -1,1 +1,1 @@
-var mnemonic = "plate vessel mad sport render found lady large street salute olive cushion";
+var mnemonic = "cost term almost alien oak festival forest replace sauce wave mouse siege";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge mansion will fade warrior title tortoise faculty rug mind steak duty";
+var mnemonic = "dog first odor stuff pencil woman size eyebrow muffin buffalo club mixture";

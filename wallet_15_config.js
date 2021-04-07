@@ -1,1 +1,1 @@
-var mnemonic = "mountain depart kid prosper fee wolf gate audit sense flag silly wisdom";
+var mnemonic = "between profit myself note appear grape perfect web digital taxi eye grass";

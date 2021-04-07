@@ -1,1 +1,1 @@
-var mnemonic = "rain pepper fantasy field stereo combine brush scheme must basket jealous remember";
+var mnemonic = "warrior vacuum large copy dragon bread cat attack jar mistake humble mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial choice photo salmon brown tooth wrong fossil salmon castle local symptom";
+var mnemonic = "cup long perfect squeeze middle recipe rain piece fox adjust grass weather";

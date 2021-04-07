@@ -1,1 +1,1 @@
-var mnemonic = "crack claw midnight limb siren office genius model flock upset horn educate";
+var mnemonic = "practice swallow memory insect pond goose setup minute enjoy step march more";

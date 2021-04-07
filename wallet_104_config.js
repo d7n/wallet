@@ -1,1 +1,1 @@
-var mnemonic = "next original fall crowd begin trim acoustic board ordinary point doll protect";
+var mnemonic = "rule guitar across dilemma face measure true catch start park core cabin";

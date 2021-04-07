@@ -1,1 +1,1 @@
-var mnemonic = "guide tag useless dragon dismiss wood bag retreat laundry cement vital apple";
+var mnemonic = "strategy jeans obvious unknown legend speed file area asthma text mixture slim";

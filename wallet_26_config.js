@@ -1,1 +1,1 @@
-var mnemonic = "intact skirt inflict double monitor trick fossil muscle runway judge win open";
+var mnemonic = "minute erode someone empower alcohol boy candy shop toast salute treat amused";

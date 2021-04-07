@@ -1,1 +1,1 @@
-var mnemonic = "size uniform story kick outdoor dignity delay crucial wrap pull know live";
+var mnemonic = "nest faith bone usage oil electric sponsor fatal audit anchor rate enemy";

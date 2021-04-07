@@ -1,1 +1,1 @@
-var mnemonic = "ticket size dynamic strong ordinary space plunge common snack rival myself equal";
+var mnemonic = "click melt stomach demise forget rich custom they topic diet quiz galaxy";

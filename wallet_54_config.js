@@ -1,1 +1,1 @@
-var mnemonic = "answer ready north simple clay people hint twist suspect chunk mask win";
+var mnemonic = "move industry horror junk focus address memory leader picnic board wish sunny";

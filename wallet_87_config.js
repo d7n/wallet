@@ -1,1 +1,1 @@
-var mnemonic = "between defy reduce finish voice crystal miracle adjust keen trade census dawn";
+var mnemonic = "dawn police abandon fruit quit lounge bulk saddle connect acoustic alone fragile";

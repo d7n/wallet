@@ -1,1 +1,1 @@
-var mnemonic = "ozone canvas unaware renew badge adapt clock dog humble bike giant burst";
+var mnemonic = "bike empower excuse then width gentle hair cube spider student draw kiwi";

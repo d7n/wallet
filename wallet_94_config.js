@@ -1,1 +1,1 @@
-var mnemonic = "bid seat diet quarter drop chest canoe pretty object verb fringe tape";
+var mnemonic = "spray grocery goose chicken hurdle can confirm energy wash urban prison arrange";

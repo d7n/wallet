@@ -1,1 +1,1 @@
-var mnemonic = "gap skin cable choose limit debris slam trust measure ticket rubber trouble";
+var mnemonic = "deal alarm bag pigeon poet area owner churn orphan festival candy world";

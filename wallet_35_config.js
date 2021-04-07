@@ -1,1 +1,1 @@
-var mnemonic = "upgrade parrot destroy pipe path web vintage museum since erupt define defense";
+var mnemonic = "mutual lamp arrange bone air town disagree enemy double town ahead access";

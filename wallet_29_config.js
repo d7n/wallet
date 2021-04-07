@@ -1,1 +1,1 @@
-var mnemonic = "exclude pen two arena autumn lift turtle scissors hip balance later uncover";
+var mnemonic = "carry endless puppy vocal farm feature under enrich flush room demand soul";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach almost result mean maze mobile return daring public banana account recycle";
+var mnemonic = "present cousin plug absent boost oyster render velvet betray maze excess city";

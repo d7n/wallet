@@ -1,1 +1,1 @@
-var mnemonic = "age hamster file track bounce fix notable hotel shaft flip climb throw";
+var mnemonic = "sorry soon bird sword humble stuff shoot fiber wreck wild holiday night";

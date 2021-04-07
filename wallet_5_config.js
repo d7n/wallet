@@ -1,1 +1,1 @@
-var mnemonic = "child reunion win exhibit intact twenty help steel pass powder name dinosaur";
+var mnemonic = "kiwi menu lawn manage tornado match once where actual property hybrid ability";

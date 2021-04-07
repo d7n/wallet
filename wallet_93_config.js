@@ -1,1 +1,1 @@
-var mnemonic = "spy cliff cruise alter diet race twenty raise verify enforce august cupboard";
+var mnemonic = "orchard core govern laugh sentence float swing employ early emerge idle vital";

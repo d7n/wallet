@@ -1,1 +1,1 @@
-var mnemonic = "impose fall foster frown usage room wreck coin remind tackle author truth";
+var mnemonic = "broken web mother payment tip parrot discover jealous improve little wreck elder";

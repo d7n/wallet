@@ -1,1 +1,1 @@
-var mnemonic = "stone tank adult issue dynamic exchange until trash give order dish attack";
+var mnemonic = "december coast myself bullet manual truck flip yellow practice uncle select lecture";

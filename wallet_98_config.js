@@ -1,1 +1,1 @@
-var mnemonic = "need cube now bright direct harsh fence tonight execute travel lumber liberty";
+var mnemonic = "ahead nasty dinosaur decline grief swallow domain strong evoke pattern cereal way";

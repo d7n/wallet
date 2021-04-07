@@ -1,1 +1,1 @@
-var mnemonic = "magic floor pepper various curious check pizza purpose sniff cluster online method";
+var mnemonic = "pull quantum vivid cement charge dice clerk select hero harvest south face";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle cave media chat silk lift unit horror auto bread laundry congress";
+var mnemonic = "congress loop glance term loop soda dirt neglect paper zero uphold story";

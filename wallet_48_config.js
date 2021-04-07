@@ -1,1 +1,1 @@
-var mnemonic = "hour toward limit girl riot nuclear type hobby recycle bargain super arrow";
+var mnemonic = "soul romance receive hurry maple weird wide trap fashion parade force media";

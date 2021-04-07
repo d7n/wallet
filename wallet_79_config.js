@@ -1,1 +1,1 @@
-var mnemonic = "crystal dwarf fit silk service marriage volcano fever public police raccoon provide";
+var mnemonic = "kingdom fox juice tumble dilemma wolf pluck swim dose scorpion skull yellow";

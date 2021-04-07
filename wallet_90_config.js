@@ -1,1 +1,1 @@
-var mnemonic = "group approve income sentence decade razor kingdom trigger ball involve anchor hazard";
+var mnemonic = "zero stadium thought reject drill girl coast fluid call region gaze field";

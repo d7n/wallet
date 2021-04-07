@@ -1,1 +1,1 @@
-var mnemonic = "vendor desk promote script boring goddess orchard cloth glance luggage chase doll";
+var mnemonic = "matrix mouse chat cause slot brother hat neutral mushroom panic obscure appear";

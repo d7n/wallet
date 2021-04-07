@@ -1,1 +1,1 @@
-var mnemonic = "inform dentist car plate inhale gorilla leave special fog float rail bracket";
+var mnemonic = "festival dignity notable celery pulse lumber enforce odor recipe cost arrive hospital";

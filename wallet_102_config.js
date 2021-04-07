@@ -1,1 +1,1 @@
-var mnemonic = "satoshi muscle satoshi animal scheme dynamic march answer own broccoli movie wink";
+var mnemonic = "deposit illegal forget eight various gap patch nasty verb cute decorate display";

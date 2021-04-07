@@ -1,1 +1,1 @@
-var mnemonic = "sand easy winter dutch recycle remind volcano consider wrist fuel tongue evil";
+var mnemonic = "buyer walnut scorpion try middle alert bamboo diary half tonight addict faint";

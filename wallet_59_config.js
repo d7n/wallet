@@ -1,1 +1,1 @@
-var mnemonic = "release birth source vault matrix cat because tuition suggest injury critic sing";
+var mnemonic = "field coconut zebra country problem onion entire hobby eager hire minute large";

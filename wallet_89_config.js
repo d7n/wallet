@@ -1,1 +1,1 @@
-var mnemonic = "giraffe fury oak cabin excess random actual twin legal fuel hidden budget";
+var mnemonic = "wife during rate kidney mention accident output brush talk gossip hand woman";

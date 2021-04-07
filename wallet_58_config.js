@@ -1,1 +1,1 @@
-var mnemonic = "lazy project found retreat above escape panda basket bronze panel chunk alter";
+var mnemonic = "tenant lion reject clown member surge step drill cover denial decide crawl";

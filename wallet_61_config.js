@@ -1,1 +1,1 @@
-var mnemonic = "kick rhythm dash short coast uncle pole save clump usual exclude ecology";
+var mnemonic = "trip jaguar carbon choice fatal bridge other hill claw camp autumn universe";

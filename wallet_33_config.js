@@ -1,1 +1,1 @@
-var mnemonic = "tuna dream feel labor project power diary wish actress taxi endorse heavy";
+var mnemonic = "suspect mule index vibrant pony hazard honey nest kitchen aunt hole penalty";

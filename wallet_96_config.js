@@ -1,1 +1,1 @@
-var mnemonic = "frost rocket endless menu year toilet forget tank kid detect shield century";
+var mnemonic = "blood gentle update any poem soda lady review shell sweet essence beef";

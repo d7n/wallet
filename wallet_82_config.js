@@ -1,1 +1,1 @@
-var mnemonic = "penalty fence once turn dream quantum predict copy phrase liberty ancient kiss";
+var mnemonic = "wool together cute debris loyal bachelor silent harsh satoshi only judge absent";

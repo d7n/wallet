@@ -1,1 +1,1 @@
-var mnemonic = "unlock radar question rotate again consider client shop gate bus craft hundred";
+var mnemonic = "hip frog tip long match dose embrace cabbage case cricket alter unique";

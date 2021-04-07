@@ -1,1 +1,1 @@
-var mnemonic = "will stairs gold genuine peace boil long rug unlock review reward bless";
+var mnemonic = "family invite seat permit kite august fitness bleak pepper mammal alter job";

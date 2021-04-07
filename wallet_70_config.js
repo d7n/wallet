@@ -1,1 +1,1 @@
-var mnemonic = "gravity patient custom shed federal indoor grant until worth blossom oppose thunder";
+var mnemonic = "apple check account estate panther sauce echo fine clean impact wedding chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "assault nature order fall treat winner plug apple network island panther spoil";
+var mnemonic = "double sick surround violin small potato fitness praise helmet minute glare erode";

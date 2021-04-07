@@ -1,1 +1,1 @@
-var mnemonic = "impose nose oval annual lamp clerk trend scorpion trophy domain add bright";
+var mnemonic = "chronic surround dolphin kick pause smooth plug blood arrange ramp coast bargain";

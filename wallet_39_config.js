@@ -1,1 +1,1 @@
-var mnemonic = "lizard pet sauce pelican average venture agree human often chest high amateur";
+var mnemonic = "frost tattoo year torch rally keen million pear entry uniform enrich load";

@@ -1,1 +1,1 @@
-var mnemonic = "card rebel stomach infant blood small actual skate praise accident canoe flush";
+var mnemonic = "pitch slice apart tower oblige bullet raven host street remember vast sugar";

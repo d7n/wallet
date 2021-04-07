@@ -1,1 +1,1 @@
-var mnemonic = "retreat flee adjust basic invest table rely helmet warm lonely federal ceiling";
+var mnemonic = "panic lab ill just illegal fossil sign custom vocal love choice clinic";

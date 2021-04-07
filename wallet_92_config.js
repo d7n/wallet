@@ -1,1 +1,1 @@
-var mnemonic = "genre clap scare gas bachelor point oil below scare junior razor illness";
+var mnemonic = "stick spin achieve someone siege flame move speed west donkey evil misery";

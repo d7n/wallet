@@ -1,1 +1,1 @@
-var mnemonic = "similar describe hope adjust siege industry silk output unhappy evidence grain west";
+var mnemonic = "acquire since diamond rather husband predict inherit crumble differ donor armor pear";

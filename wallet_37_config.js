@@ -1,1 +1,1 @@
-var mnemonic = "explain atom carbon inner humor boy coach fashion twin this rain right";
+var mnemonic = "aunt leave seven amazing text vessel legal circle mango round imitate reopen";

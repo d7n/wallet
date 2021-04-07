@@ -1,1 +1,1 @@
-var mnemonic = "onion various wall crystal gorilla huge when wisdom exotic song genius bamboo";
+var mnemonic = "oval gadget announce parade goddess people thought poet screen shy cause relax";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon embark immune dumb screen they task brown casual woman galaxy social";
+var mnemonic = "below vague slow squeeze agree crime wise sport fatal century noodle prevent";

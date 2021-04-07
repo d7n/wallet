@@ -1,1 +1,1 @@
-var mnemonic = "absurd force blur liberty silver inhale federal minimum category town move kit";
+var mnemonic = "egg fabric pride arena follow retire talk churn involve hospital maximum soccer";

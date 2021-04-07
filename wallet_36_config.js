@@ -1,1 +1,1 @@
-var mnemonic = "oyster famous protect lend glimpse lizard laundry know rigid undo dust soon";
+var mnemonic = "people mimic among steak sketch author mail peanut negative milk sad egg";

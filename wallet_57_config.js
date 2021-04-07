@@ -1,1 +1,1 @@
-var mnemonic = "scatter injury tent stool bind banner often story pupil account service attend";
+var mnemonic = "patient bean glimpse already city middle pig indoor target glow add canal";

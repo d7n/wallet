@@ -1,1 +1,1 @@
-var mnemonic = "account maze alien popular expect baby say crumble what measure curious winner";
+var mnemonic = "museum much stamp mechanic relief mask primary vicious ecology zoo vanish deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "close typical deer arctic gentle voyage repair bottom story physical nice since";
+var mnemonic = "test toilet mix always repeat nation manual drift wild jump milk planet";

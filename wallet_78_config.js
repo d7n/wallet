@@ -1,1 +1,1 @@
-var mnemonic = "intact exercise quick merry transfer skirt naive child glory awkward pyramid this";
+var mnemonic = "cat marine produce drill enough appear theory jacket danger jump media cotton";

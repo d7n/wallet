@@ -1,1 +1,1 @@
-var mnemonic = "tiger planet crystal end fiscal system side happy theme film power super";
+var mnemonic = "mule life adjust hand want lens cat ability foam bridge advance thunder";

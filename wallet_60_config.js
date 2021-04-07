@@ -1,1 +1,1 @@
-var mnemonic = "enrich oblige praise then gaze rally grant exotic account doctor curious neglect";
+var mnemonic = "mixture direct burden regret spin salon supreme feel sting maze engage solve";

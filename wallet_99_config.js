@@ -1,1 +1,1 @@
-var mnemonic = "truth about flag squirrel write harbor ivory december expect voice addict raccoon";
+var mnemonic = "chest swim apart lamp true obvious myth hard decorate toilet squirrel boat";

@@ -1,1 +1,1 @@
-var mnemonic = "tool hungry total throw outer habit eyebrow mandate boss eye like dinner";
+var mnemonic = "visual east sample moral olive salmon imitate oil machine juice grass neglect";

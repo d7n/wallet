@@ -1,1 +1,1 @@
-var mnemonic = "wise uncover estate private cabbage theme fringe muffin oxygen famous vote equal";
+var mnemonic = "sea aisle trim mad hidden destroy story cheese obtain tissue arrest thank";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz empty pistol hidden clinic talk wrestle frame banana anxiety belt delay";
+var mnemonic = "nut involve guess talk physical endorse swim mind monkey mercy whale tornado";

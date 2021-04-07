@@ -1,1 +1,1 @@
-var mnemonic = "cram ridge useless plate concert evil leave atom east powder vehicle flight";
+var mnemonic = "garage client thrive pigeon cabbage bitter ridge hybrid swift dose observe tennis";

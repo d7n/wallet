@@ -1,1 +1,1 @@
-var mnemonic = "result border video hurdle member frost rail always imitate need lunar theory";
+var mnemonic = "anchor void neglect soup polar prepare tourist rug waste sausage oyster blush";

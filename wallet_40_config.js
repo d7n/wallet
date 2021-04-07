@@ -1,1 +1,1 @@
-var mnemonic = "bicycle hover fold noodle enlist bless novel mosquito snap peace mosquito asset";
+var mnemonic = "time disorder shaft hurry service law couch extra life alert put steak";

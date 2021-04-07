@@ -1,1 +1,1 @@
-var mnemonic = "silly sure found lobster nose ethics hurt outdoor spawn father crazy surprise";
+var mnemonic = "track uncover educate nurse crystal egg neither lava simple reveal regret element";

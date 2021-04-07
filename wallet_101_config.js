@@ -1,1 +1,1 @@
-var mnemonic = "raw problem tone bulk swift diary soccer whisper gossip mirror regret control";
+var mnemonic = "convince armor quiz boy bachelor owner meat frame syrup trial leave cabbage";

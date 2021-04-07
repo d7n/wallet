@@ -1,1 +1,1 @@
-var mnemonic = "strong detail student unique silver short confirm scrap vote cage tape deliver";
+var mnemonic = "refuse slam yard soft sketch pig scan fantasy drill public decline time";

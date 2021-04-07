@@ -1,1 +1,1 @@
-var mnemonic = "chronic tiny motor seed wait liquid butter guard scissors style place harsh";
+var mnemonic = "bracket dinner impose celery pull razor cactus catalog tornado goat bone angry";

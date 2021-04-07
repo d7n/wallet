@@ -1,1 +1,1 @@
-var mnemonic = "village pass scrub price clog avoid destroy thunder vocal concert obey quiz";
+var mnemonic = "globe quote question toilet mechanic daring long welcome unveil debris jump age";

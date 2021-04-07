@@ -1,1 +1,1 @@
-var mnemonic = "trophy crumble turkey shine alien replace hole dismiss profit humble clump more";
+var mnemonic = "impact consider athlete shrug flame version predict settle knee ball faith genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "manage surround strategy mesh salute stick lounge butter oil velvet cave plate";
+var mnemonic = "cat more person spirit desk end crumble era lizard total rare pause";

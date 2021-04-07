@@ -1,1 +1,1 @@
-var mnemonic = "robot found gallery humble sugar slow vague connect they fiscal phone seed";
+var mnemonic = "patrol exact sick response dose rhythm invite bicycle lady behave carry grunt";

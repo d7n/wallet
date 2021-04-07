@@ -1,1 +1,1 @@
-var mnemonic = "lesson marriage illegal laugh distance swarm excite unknown rotate deputy loud method";
+var mnemonic = "flat head mixed february will muscle escape globe weapon awesome unfold night";
