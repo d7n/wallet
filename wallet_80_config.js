@@ -1,1 +1,1 @@
-var mnemonic = "come worth female roof enroll cry diesel loan pyramid square clean school";
+var mnemonic = "bounce addict edit wolf secret balcony dynamic heart reunion execute good write";

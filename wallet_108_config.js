@@ -1,1 +1,1 @@
-var mnemonic = "wing sausage digital hurt pull educate come govern umbrella bench lunar possible";
+var mnemonic = "glove thought emerge ocean soul pen fortune rebel crash people cliff crater";

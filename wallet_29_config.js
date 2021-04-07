@@ -1,1 +1,1 @@
-var mnemonic = "invite vital decorate quality visa business skill vapor spring sock door labor";
+var mnemonic = "rely need gas trend fever rule skirt script response write glow stumble";

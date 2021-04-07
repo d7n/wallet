@@ -1,1 +1,1 @@
-var mnemonic = "spring innocent material elevator soap where main pulse merit pole hurry can";
+var mnemonic = "hope night stomach much camp mind diary frog video crunch wear legend";

@@ -1,1 +1,1 @@
-var mnemonic = "spy hat chuckle recycle comic core firm arch coach token future ordinary";
+var mnemonic = "immense team humor change muscle mechanic cat giant dove candy fault age";

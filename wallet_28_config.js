@@ -1,1 +1,1 @@
-var mnemonic = "flush quick wear hospital winner pact umbrella update glass click monster taste";
+var mnemonic = "one cactus question charge stock shove action zoo brand wife boost advance";

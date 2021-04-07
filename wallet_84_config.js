@@ -1,1 +1,1 @@
-var mnemonic = "cable vibrant art night hat pistol grant tooth happy alien glance equal";
+var mnemonic = "owner orphan table pig order group laptop fiscal raven civil taste wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "increase doctor pride lecture nurse myth wife divert pill wall swift fine";
+var mnemonic = "seminar slide battle recall coyote open eye record sense october crystal strong";

@@ -1,1 +1,1 @@
-var mnemonic = "barely soap seat inner easy upset develop silk tooth later thrive tape";
+var mnemonic = "carpet exclude august fortune solution timber gorilla hunt enough stuff crash fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth surround blade pilot section forward staff use chimney win dragon emotion";
+var mnemonic = "damp detail afraid unique easily message turtle mean romance open cycle blanket";

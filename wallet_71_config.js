@@ -1,1 +1,1 @@
-var mnemonic = "solar fortune smoke century become emerge grid letter silk blue wage public";
+var mnemonic = "cotton bike become rival person list odor carry identify armor junk entry";

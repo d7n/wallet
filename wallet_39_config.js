@@ -1,1 +1,1 @@
-var mnemonic = "gasp furnace three rookie wire toe puzzle steel afraid creek object spoil";
+var mnemonic = "gas cute wide aerobic leave market rescue multiply bench harvest pistol useless";

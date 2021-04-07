@@ -1,1 +1,1 @@
-var mnemonic = "hip glimpse claim obtain vacant subway beef blanket struggle stereo punch loyal";
+var mnemonic = "artwork stand pudding buddy goddess light purpose govern wine mirror scheme naive";

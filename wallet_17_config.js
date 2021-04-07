@@ -1,1 +1,1 @@
-var mnemonic = "prison great monitor luxury media leader remain liquid dinosaur strike harvest squeeze";
+var mnemonic = "slogan word capital blue coffee budget sniff capable tip escape observe estate";

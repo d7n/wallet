@@ -1,1 +1,1 @@
-var mnemonic = "tonight surface accuse phone regular unfold melt solar nature soldier okay solid";
+var mnemonic = "come harvest use pause inquiry option dragon rich arrange chaos negative novel";

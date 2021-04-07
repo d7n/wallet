@@ -1,1 +1,1 @@
-var mnemonic = "neither group leopard predict horn crane boil skin faith drink mammal cancel";
+var mnemonic = "maximum student useless inquiry beauty hospital fiber snack indicate blade project kind";

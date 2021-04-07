@@ -1,1 +1,1 @@
-var mnemonic = "orbit forget glance rent fork wood royal inch grocery illness pony useless";
+var mnemonic = "balance physical observe biology small marriage wet version excuse trophy toe fee";

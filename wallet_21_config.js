@@ -1,1 +1,1 @@
-var mnemonic = "coil bread switch animal dawn assume guide become vintage company subject crisp";
+var mnemonic = "broken drum frozen vibrant green goat ecology scare expand twelve tree creek";

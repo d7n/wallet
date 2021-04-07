@@ -1,1 +1,1 @@
-var mnemonic = "kingdom bike cluster need perfect warm rifle soldier basket enrich bronze attract";
+var mnemonic = "potato soldier solar high settle strike slide bag find embrace tattoo canoe";

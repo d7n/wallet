@@ -1,1 +1,1 @@
-var mnemonic = "lucky doctor alpha dilemma shiver symptom usual cover joke protect carpet dust";
+var mnemonic = "game anchor tilt twist ticket breeze office ginger okay boat diamond purse";

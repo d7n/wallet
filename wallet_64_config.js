@@ -1,1 +1,1 @@
-var mnemonic = "west rhythm occur lazy top route genuine rough tenant gate first laugh";
+var mnemonic = "sound atom second credit patch thrive round height decorate side turtle prize";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle sign sand upset journey armed broccoli detail side fold frequent skirt";
+var mnemonic = "mammal vanish dish comfort sketch kind trust churn glide host almost very";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor ozone mixture theme sock miss push toast glove error embark tell";
+var mnemonic = "permit arena few popular barrel proud magnet chicken cash language yellow february";

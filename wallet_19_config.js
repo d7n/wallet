@@ -1,1 +1,1 @@
-var mnemonic = "record winner turkey moment type embody toy topple protect student join juice";
+var mnemonic = "crumble before tornado hunt blood husband another insect curious candy moon round";

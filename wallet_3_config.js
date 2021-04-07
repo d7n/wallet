@@ -1,1 +1,1 @@
-var mnemonic = "furnace embark wife rely sure shine sand mirror pluck cream document culture";
+var mnemonic = "asset purse dizzy opera latin dish element symbol emerge juice diet visa";

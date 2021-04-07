@@ -1,1 +1,1 @@
-var mnemonic = "sting orphan differ deposit ecology faint neck luggage emerge seminar pilot average";
+var mnemonic = "hand gun machine tag code pink spot picture man kingdom master wonder";

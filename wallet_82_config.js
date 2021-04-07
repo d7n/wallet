@@ -1,1 +1,1 @@
-var mnemonic = "bundle flight danger air denial inch ring wild exact shadow fire broom";
+var mnemonic = "dentist satisfy huge adapt weather parade stick mirror news mixed head song";

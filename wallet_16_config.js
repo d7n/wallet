@@ -1,1 +1,1 @@
-var mnemonic = "taste sniff success pigeon decorate grape runway history invest valve noodle poverty";
+var mnemonic = "sorry half humor moon scatter sport grit mouse fringe method rival island";

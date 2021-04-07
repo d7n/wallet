@@ -1,1 +1,1 @@
-var mnemonic = "bomb feel stuff ordinary random deer tube shock check return decrease know";
+var mnemonic = "admit middle amateur decide rebel erase flock expect yellow reason distance crater";

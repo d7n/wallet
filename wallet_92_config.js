@@ -1,1 +1,1 @@
-var mnemonic = "upper insane mercy dignity pizza hybrid canyon happy ethics else slot eternal";
+var mnemonic = "velvet initial couch document rich blade avoid galaxy tackle sniff target harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "knee salute capital gun point file mad offer embody seven car never";
+var mnemonic = "cake name drift stereo ensure session brave wise domain secret advance step";

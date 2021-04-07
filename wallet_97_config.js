@@ -1,1 +1,1 @@
-var mnemonic = "sustain song obvious cluster middle person flip replace verify crunch rabbit few";
+var mnemonic = "farm aisle enforce page glare curious review train own ripple pony lucky";

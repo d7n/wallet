@@ -1,1 +1,1 @@
-var mnemonic = "angry bubble motion belt tobacco tube notice long alpha receive chair mix";
+var mnemonic = "august slow dilemma toilet risk sunset first project reason lecture trim dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe polar plunge aunt bonus radio hazard chapter dial ski room brass";
+var mnemonic = "december scout payment render isolate boss vocal patch answer spy soda goat";

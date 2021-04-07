@@ -1,1 +1,1 @@
-var mnemonic = "present pigeon foot indicate defy honey outer vital treat jar fire camp";
+var mnemonic = "summer display suffer later blur side volcano trouble rubber crop topple jazz";

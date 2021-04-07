@@ -1,1 +1,1 @@
-var mnemonic = "myself long monkey walnut aim improve bird attend erase trade find merge";
+var mnemonic = "horror wolf master treat usual dawn pioneer actual million arch aware special";

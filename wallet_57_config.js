@@ -1,1 +1,1 @@
-var mnemonic = "erosion toy derive prepare sense net federal trial hello bunker match file";
+var mnemonic = "gospel naive bring hospital town bitter viable umbrella unaware orbit fiscal put";

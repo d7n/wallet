@@ -1,1 +1,1 @@
-var mnemonic = "ten entire strong drink quiz view diary crime neutral provide atom color";
+var mnemonic = "index resemble orphan sand crush cake buzz mistake scan rack know ankle";

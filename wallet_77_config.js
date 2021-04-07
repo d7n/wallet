@@ -1,1 +1,1 @@
-var mnemonic = "rare humble filter ribbon obvious demand garden very kiss smile twist rare";
+var mnemonic = "trap wait room prefer rare gaze neglect swamp range machine wood bring";

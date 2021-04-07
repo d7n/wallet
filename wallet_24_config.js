@@ -1,1 +1,1 @@
-var mnemonic = "near parade recall gadget intact garage harsh expect race dragon february strategy";
+var mnemonic = "hollow impact tonight flip grape goat weird amount urge can jewel what";

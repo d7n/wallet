@@ -1,1 +1,1 @@
-var mnemonic = "truck dwarf brother sight bean pluck visit gorilla pledge spring wheat spot";
+var mnemonic = "exhaust start steel sunny story net total upset case village unit vessel";

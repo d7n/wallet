@@ -1,1 +1,1 @@
-var mnemonic = "refuse genuine patrol suggest empty tag tattoo siege rice rose poem bind";
+var mnemonic = "salt blossom animal outer alley park shove boring joy maze talk alcohol";

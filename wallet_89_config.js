@@ -1,1 +1,1 @@
-var mnemonic = "skull liberty memory fitness achieve pipe nurse either program identify jaguar jaguar";
+var mnemonic = "round grid addict theme ripple luxury violin notable ranch bike quarter broccoli";

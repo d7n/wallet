@@ -1,1 +1,1 @@
-var mnemonic = "buyer become identify meat ginger sort health grass state wire office tent";
+var mnemonic = "forward angle setup north inject observe van leg joy material melt predict";

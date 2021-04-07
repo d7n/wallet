@@ -1,1 +1,1 @@
-var mnemonic = "capital sad twin where exchange father wash recall expect scout romance chalk";
+var mnemonic = "arrow bulk nature visual regular tube gym around rate portion state audit";

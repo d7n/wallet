@@ -1,1 +1,1 @@
-var mnemonic = "coach abuse dumb pipe grit travel nose enrich palace critic toward business";
+var mnemonic = "nominee result bomb manage myth peanut zero later try economy decade gaze";

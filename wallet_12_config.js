@@ -1,1 +1,1 @@
-var mnemonic = "thunder cement eternal unhappy mammal suspect spend push steel naive spice point";
+var mnemonic = "garlic awesome scheme frequent potato piece predict eagle lunar trust renew random";

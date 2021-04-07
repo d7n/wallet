@@ -1,1 +1,1 @@
-var mnemonic = "place suggest female blast weapon pulse certain salon pattern keep brisk seek";
+var mnemonic = "reward sort vocal palace churn mountain crop muffin empty clever liar story";

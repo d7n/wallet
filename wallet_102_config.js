@@ -1,1 +1,1 @@
-var mnemonic = "boss menu spider song cover disorder cancel hope balance liar recall naive";
+var mnemonic = "horse fork legend affair square poet eager can penalty radar liberty close";

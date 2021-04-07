@@ -1,1 +1,1 @@
-var mnemonic = "bullet critic sock stomach polar knock music throw noise abuse culture drift";
+var mnemonic = "shell plunge bicycle vital fun car enemy sibling exist family limb repair";

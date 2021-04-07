@@ -1,1 +1,1 @@
-var mnemonic = "kiss tooth pepper call price clever pigeon drastic ship clap key faint";
+var mnemonic = "cheap warrior hobby bone dynamic burger blue cement interest indicate canoe burger";

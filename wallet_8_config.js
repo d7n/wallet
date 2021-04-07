@@ -1,1 +1,1 @@
-var mnemonic = "blue used hollow field accident calm erosion erupt uncover nephew move wing";
+var mnemonic = "soul insane beauty script humble manual sure monkey dutch topic cry poet";

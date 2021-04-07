@@ -1,1 +1,1 @@
-var mnemonic = "winner model neither ride execute pilot physical goddess foot pizza blur coin";
+var mnemonic = "mixture version taxi tumble celery invite know glory gospel amazing minimum basic";

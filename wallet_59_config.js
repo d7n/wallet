@@ -1,1 +1,1 @@
-var mnemonic = "style evoke camera echo beach people acquire convince green sell warm flash";
+var mnemonic = "direct kangaroo chair pitch knock title either pass trial simple zebra session";

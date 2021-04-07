@@ -1,1 +1,1 @@
-var mnemonic = "grant broken melt color denial sand unveil nature motor scrap glide timber";
+var mnemonic = "mesh tattoo cruel shoot exit throw huge veteran barrel honey clarify either";

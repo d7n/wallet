@@ -1,1 +1,1 @@
-var mnemonic = "planet crystal net pyramid person win coyote series wheel obvious breeze arch";
+var mnemonic = "resemble anxiety control maple father pride eight leopard force oppose icon trash";

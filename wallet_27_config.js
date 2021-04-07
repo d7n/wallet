@@ -1,1 +1,1 @@
-var mnemonic = "wise outside quick choose crash myself picture poverty business toe toilet dumb";
+var mnemonic = "diagram solar prison nice limb walk upgrade expect run bundle vault explain";

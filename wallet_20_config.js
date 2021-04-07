@@ -1,1 +1,1 @@
-var mnemonic = "tiger need say mind soul renew public banner captain bag deal marriage";
+var mnemonic = "discover tiger describe belt flat raven crisp debris torch damp wash hello";

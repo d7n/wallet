@@ -1,1 +1,1 @@
-var mnemonic = "mercy client picnic swarm wool annual kite chicken tree achieve sample team";
+var mnemonic = "race clump core size swarm dog stadium jacket because alert cigar notable";

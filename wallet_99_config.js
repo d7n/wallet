@@ -1,1 +1,1 @@
-var mnemonic = "hockey amused total nasty swallow vague record recycle shoe series balcony wide";
+var mnemonic = "hurry wave gaze tape inquiry whip gap upgrade coil warfare celery kingdom";

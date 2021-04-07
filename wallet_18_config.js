@@ -1,1 +1,1 @@
-var mnemonic = "figure hospital convince tonight discover catch hunt profit neither anxiety illegal find";
+var mnemonic = "miracle dance screen tennis stuff twice wave around stable inhale goat fiber";

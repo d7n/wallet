@@ -1,1 +1,1 @@
-var mnemonic = "fashion defy glass uniform address enable margin poet farm funny core coffee";
+var mnemonic = "program village dilemma near trick fine ten innocent taxi kind hunt manual";

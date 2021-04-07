@@ -1,1 +1,1 @@
-var mnemonic = "cash setup balcony drill exact stumble sleep ribbon nothing oven peace answer";
+var mnemonic = "raw carbon donkey draw human tomato unit february into rib carpet middle";

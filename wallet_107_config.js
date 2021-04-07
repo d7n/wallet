@@ -1,1 +1,1 @@
-var mnemonic = "fiscal always flock local close practice decrease repair leopard cage indoor say";
+var mnemonic = "catalog inquiry nerve topic concert bargain squirrel element erosion upset swing convince";

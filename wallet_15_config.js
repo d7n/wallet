@@ -1,1 +1,1 @@
-var mnemonic = "device glue echo foster people stable such valid also island finish faith";
+var mnemonic = "brave rescue fold trophy diesel cattle chest coconut picnic love transfer crime";

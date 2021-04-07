@@ -1,1 +1,1 @@
-var mnemonic = "drama dilemma vocal slam hollow hover dentist add boy upgrade resemble rival";
+var mnemonic = "this lesson melody dial potato jealous girl sick stone odor result coffee";

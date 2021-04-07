@@ -1,1 +1,1 @@
-var mnemonic = "bonus enemy layer furnace volcano galaxy define game report network exile tornado";
+var mnemonic = "combine conduct long expect dry early scorpion turtle wish among wrong van";

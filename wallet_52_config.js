@@ -1,1 +1,1 @@
-var mnemonic = "clarify witness blame mandate stomach earth alter oven pet field bargain depth";
+var mnemonic = "blur bridge chronic museum snap glass raw own lounge defense rail strategy";

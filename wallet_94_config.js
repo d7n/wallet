@@ -1,1 +1,1 @@
-var mnemonic = "assume inspire display indicate firm fox tell column inherit brave delay salmon";
+var mnemonic = "truth olympic distance cinnamon margin spring present snap pottery lava blood view";

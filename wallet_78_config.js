@@ -1,1 +1,1 @@
-var mnemonic = "dance erupt flush shadow harsh stove elder idle tunnel goddess tag today";
+var mnemonic = "snake life column finish cinnamon bind peanut impose index bonus shrug oval";

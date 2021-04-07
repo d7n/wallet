@@ -1,1 +1,1 @@
-var mnemonic = "devote local renew pulp bright mirror blur gesture artist candy innocent cage";
+var mnemonic = "dose grow found twelve sister pencil grant save spice six athlete physical";

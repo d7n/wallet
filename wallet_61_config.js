@@ -1,1 +1,1 @@
-var mnemonic = "match must gun abandon segment similar control absurd emotion quality foil arrive";
+var mnemonic = "range nest denial spare volume across talk sound check explain switch ski";

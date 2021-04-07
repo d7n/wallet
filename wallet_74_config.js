@@ -1,1 +1,1 @@
-var mnemonic = "arm used lend axis adjust mule team gentle gasp provide neither click";
+var mnemonic = "upon game sound frost dutch unfold tree clown dizzy milk region grab";

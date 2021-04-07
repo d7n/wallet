@@ -1,1 +1,1 @@
-var mnemonic = "wife prepare cat task famous feel energy outdoor file dutch grit gym";
+var mnemonic = "detail version puppy shine insect outer notice crash genre rescue weather angry";

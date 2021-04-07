@@ -1,1 +1,1 @@
-var mnemonic = "jealous crumble spare knee urge monkey fuel main sure never picnic actual";
+var mnemonic = "various fantasy inmate monitor slam edge million midnight walk appear mandate potato";

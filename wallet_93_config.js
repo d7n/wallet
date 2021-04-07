@@ -1,1 +1,1 @@
-var mnemonic = "tooth ceiling sound comic trip shallow thumb inject mandate sword symbol print";
+var mnemonic = "stairs dinosaur great lecture picture term square crew below recall pigeon deputy";

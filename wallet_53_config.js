@@ -1,1 +1,1 @@
-var mnemonic = "still area glad various one crash dove travel knock pyramid endorse auto";
+var mnemonic = "cycle trap december travel seven perfect drink relief erupt spider pave skull";

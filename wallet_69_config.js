@@ -1,1 +1,1 @@
-var mnemonic = "december brand clap curve rabbit era hand almost sun hour crater insane";
+var mnemonic = "winner make cave news depth any shed card odor slim acquire update";

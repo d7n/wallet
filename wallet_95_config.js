@@ -1,1 +1,1 @@
-var mnemonic = "warrior gift reform science replace sure symptom ketchup horror reform news six";
+var mnemonic = "robot awkward brain cover pumpkin shed uncover where silly sword item valve";

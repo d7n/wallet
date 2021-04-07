@@ -1,1 +1,1 @@
-var mnemonic = "snap pony mechanic slide human actual become double segment actual plastic turkey";
+var mnemonic = "foam use talent dust gadget silly jelly various slight glow laugh dream";

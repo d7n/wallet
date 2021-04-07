@@ -1,1 +1,1 @@
-var mnemonic = "tower beef tilt select armor left rally pupil return valid advance struggle";
+var mnemonic = "hub inch reduce rail school outside silk aware degree violin believe bacon";

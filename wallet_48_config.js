@@ -1,1 +1,1 @@
-var mnemonic = "flame nerve orbit salad actual acquire husband kiwi emotion boring noise youth";
+var mnemonic = "stock spice relief sheriff fragile mirror dial property electric gown original next";

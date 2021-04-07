@@ -1,1 +1,1 @@
-var mnemonic = "usual satoshi remember curious rack loyal session clap evidence employ banana mesh";
+var mnemonic = "analyst dog answer roast rose miss night lock joke feel wall situate";

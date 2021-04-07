@@ -1,1 +1,1 @@
-var mnemonic = "figure check fury cruise nerve shed tennis match lizard memory amount color";
+var mnemonic = "edit domain try traffic jump monster crucial course light tourist cushion impact";

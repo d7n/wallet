@@ -1,1 +1,1 @@
-var mnemonic = "forget scan wrist exercise flee leave place dizzy shove range appear knife";
+var mnemonic = "one bread two modify blast flat engage learn palm lizard same apology";
