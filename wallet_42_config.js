@@ -1,1 +1,1 @@
-var mnemonic = "supreme vital next offer knock host force regular sniff curious awesome appear";
+var mnemonic = "monkey dad august express frown brush twelve ostrich general front repair sentence";

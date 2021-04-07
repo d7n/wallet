@@ -1,1 +1,1 @@
-var mnemonic = "blush often diet digital coconut category chaos ensure gentle rare fee shell";
+var mnemonic = "series hawk layer accuse then lend winter soap antenna isolate satisfy evoke";

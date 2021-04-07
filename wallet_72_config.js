@@ -1,1 +1,1 @@
-var mnemonic = "casino accuse slot know letter toast coffee almost tumble blade field guess";
+var mnemonic = "assist grace panic step oyster immune ribbon brand pledge person mosquito picnic";

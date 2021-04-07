@@ -1,1 +1,1 @@
-var mnemonic = "grunt board ride just poet attack piece nerve silent worry daring august";
+var mnemonic = "oppose tent head artefact act quote shaft area try into pear purpose";

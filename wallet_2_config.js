@@ -1,1 +1,1 @@
-var mnemonic = "spirit flash glove carpet retire spy harbor mom erosion senior october recycle";
+var mnemonic = "vessel voice swarm father road decade laugh theme whip gadget dream please";

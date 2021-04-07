@@ -1,1 +1,1 @@
-var mnemonic = "orient boy lucky guard abstract syrup enforce mistake endless quiz atom argue";
+var mnemonic = "just twice affair regret beyond patch idle saddle anger obvious video cram";

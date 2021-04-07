@@ -1,1 +1,1 @@
-var mnemonic = "top venture holiday spot know pulp dragon first desk unlock try dinner";
+var mnemonic = "dinosaur decade reason pottery broom vacant invite olive fan action chalk million";

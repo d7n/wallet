@@ -1,1 +1,1 @@
-var mnemonic = "liberty wear apology cat erode table raven once steel favorite hill absent";
+var mnemonic = "ensure ghost mad tone alcohol clump pledge edge alcohol seminar fresh captain";

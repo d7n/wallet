@@ -1,1 +1,1 @@
-var mnemonic = "lawn rail sample exist perfect valley light lens inquiry toss lyrics milk";
+var mnemonic = "idle toe culture section case lawsuit slender inch ocean circle shock hazard";

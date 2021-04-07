@@ -1,1 +1,1 @@
-var mnemonic = "float trade relief kitten animal drink veteran harvest salon later suspect guard";
+var mnemonic = "minimum flag stock head animal legal sample staff zoo example rare embark";

@@ -1,1 +1,1 @@
-var mnemonic = "distance blush cement that head oil cake tourist forum cake scatter young";
+var mnemonic = "blossom harsh lab retire school attract black arch draw hunt review offer";

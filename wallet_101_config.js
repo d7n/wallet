@@ -1,1 +1,1 @@
-var mnemonic = "brief peasant boat knee across left clerk shoulder topic weekend primary alone";
+var mnemonic = "letter speed switch enemy party daring orchard light cost cash rigid math";

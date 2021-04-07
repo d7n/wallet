@@ -1,1 +1,1 @@
-var mnemonic = "finish grape alley mystery pledge slim make learn warfare soap walk nuclear";
+var mnemonic = "resist wagon human orient quantum real peace zebra shift today broom intact";

@@ -1,1 +1,1 @@
-var mnemonic = "renew warm twelve museum garden sniff auction tent banana baby party nut";
+var mnemonic = "casino few decide pass affair cat crouch debris denial gun two erupt";

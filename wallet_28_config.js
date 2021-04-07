@@ -1,1 +1,1 @@
-var mnemonic = "silly nature purchase clip reward maple morning wet ridge spawn recipe riot";
+var mnemonic = "aunt flush breeze color flavor crouch air convince smile fog pluck amount";

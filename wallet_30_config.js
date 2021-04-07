@@ -1,1 +1,1 @@
-var mnemonic = "nest spirit cross grit cover language sugar guitar member soap cross warm";
+var mnemonic = "chase lock violin enroll agree firm blood clock town unlock bounce vessel";

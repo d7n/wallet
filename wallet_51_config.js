@@ -1,1 +1,1 @@
-var mnemonic = "rhythm govern jaguar satisfy squeeze kitten prevent retire obvious left defy fat";
+var mnemonic = "job focus fox pond cheap toilet stomach idle frog art broken neglect";

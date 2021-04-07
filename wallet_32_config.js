@@ -1,1 +1,1 @@
-var mnemonic = "deliver enough auto high trash rural spray purpose random choose myself bundle";
+var mnemonic = "lunar harvest ahead demand dentist tag fire decade crush label vanish wonder";

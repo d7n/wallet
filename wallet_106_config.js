@@ -1,1 +1,1 @@
-var mnemonic = "smoke step evidence goddess bird ready tackle song describe path hole much";
+var mnemonic = "paddle bargain analyst thank blur patch senior hundred alley easily absent bracket";

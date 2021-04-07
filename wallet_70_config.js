@@ -1,1 +1,1 @@
-var mnemonic = "half baby domain must hammer mercy fashion oil solar innocent robust act";
+var mnemonic = "day inspire noise differ empty economy unusual illegal fatal dice pulse lady";

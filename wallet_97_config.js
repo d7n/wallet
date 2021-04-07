@@ -1,1 +1,1 @@
-var mnemonic = "royal maximum elbow try fiscal debris skull globe pitch electric brain dawn";
+var mnemonic = "balcony supply stereo border jar undo mango adapt test buddy congress essence";

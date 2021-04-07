@@ -1,1 +1,1 @@
-var mnemonic = "neglect betray crane appear harvest buzz melt claim seat notable ticket voyage";
+var mnemonic = "toward mushroom boat inmate short enrich recycle that spawn calm circle derive";

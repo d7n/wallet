@@ -1,1 +1,1 @@
-var mnemonic = "circle enlist symptom mad spread barely turkey access dragon have they depart";
+var mnemonic = "ahead record puzzle recycle ankle attend beef bike choice sell nothing bring";

@@ -1,1 +1,1 @@
-var mnemonic = "weird comic ripple total middle deposit process once aunt mixture chaos cement";
+var mnemonic = "oyster news canoe hurry soldier vivid waste toddler tackle honey pave carbon";

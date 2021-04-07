@@ -1,1 +1,1 @@
-var mnemonic = "mask cruel main buyer purse garlic arrest mosquito income laptop artist bamboo";
+var mnemonic = "prefer gift olive very fluid hybrid call timber magic help burden improve";

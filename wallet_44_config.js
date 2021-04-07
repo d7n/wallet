@@ -1,1 +1,1 @@
-var mnemonic = "ensure endorse mesh exhibit unfair anxiety tide critic keen gadget twist evolve";
+var mnemonic = "tank erupt share lend salad myth silent cram hint salute history write";

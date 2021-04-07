@@ -1,1 +1,1 @@
-var mnemonic = "allow mansion elegant random kick achieve next casino hedgehog eight sense believe";
+var mnemonic = "globe matter vicious snake treat mammal zoo much best slot engine invite";

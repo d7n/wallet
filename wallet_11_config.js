@@ -1,1 +1,1 @@
-var mnemonic = "zoo add impact ring dream possible phrase music board jacket steak poem";
+var mnemonic = "fit auto hurdle ancient onion trial hen chunk deposit shrug kiwi neutral";

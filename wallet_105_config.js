@@ -1,1 +1,1 @@
-var mnemonic = "jazz net universe electric usual cereal hole logic icon city forum purchase";
+var mnemonic = "unhappy canoe print ahead draw hundred jacket cave alone humor elegant melt";

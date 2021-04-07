@@ -1,1 +1,1 @@
-var mnemonic = "public calm cruel unusual print can hurt sure derive trash nut oil";
+var mnemonic = "hen pencil cause silk donate wish cart curtain asset strong warfare left";

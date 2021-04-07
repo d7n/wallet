@@ -1,1 +1,1 @@
-var mnemonic = "fat bonus cement hammer blue item squirrel flat appear expand grab coral";
+var mnemonic = "dutch stage index destroy key hurdle seven fun deal interest camera seat";

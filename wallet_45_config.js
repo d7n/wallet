@@ -1,1 +1,1 @@
-var mnemonic = "insane fork grid above amount execute pepper impact capable ordinary eternal lawn";
+var mnemonic = "segment torch rebuild speak assume common mammal cute permit tornado market rookie";

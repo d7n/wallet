@@ -1,1 +1,1 @@
-var mnemonic = "keep dune impulse match term stay marine misery ridge flash tonight stumble";
+var mnemonic = "project select ozone lesson gold clerk burger hope clerk pupil seat family";

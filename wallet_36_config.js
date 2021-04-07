@@ -1,1 +1,1 @@
-var mnemonic = "track buddy excite talent filter jump civil holiday deal flower cradle echo";
+var mnemonic = "verb flip logic poverty hammer wise social fish fault board advance matter";

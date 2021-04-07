@@ -1,1 +1,1 @@
-var mnemonic = "traffic phone half main aim beach response stuff bubble sorry theory enjoy";
+var mnemonic = "multiply pony ostrich wheat outside casual ability gloom crane tragic carry naive";

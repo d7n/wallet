@@ -1,1 +1,1 @@
-var mnemonic = "luggage dune mother cheese hover duty defy corn bracket honey soccer detect";
+var mnemonic = "rally nice ski possible dirt stairs country road spend comfort staff execute";

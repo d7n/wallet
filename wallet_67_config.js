@@ -1,1 +1,1 @@
-var mnemonic = "pitch expire donor danger slow hello fitness pupil blind lion weapon scorpion";
+var mnemonic = "document mule toilet poem pet merit sustain purchase piece paddle vague idle";

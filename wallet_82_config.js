@@ -1,1 +1,1 @@
-var mnemonic = "talent defy purity such can raise garment magnet parrot offer cricket spirit";
+var mnemonic = "blind bind sure pause canoe weird round weasel assume coyote need retire";

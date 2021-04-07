@@ -1,1 +1,1 @@
-var mnemonic = "divert prefer secret thumb initial online betray zebra glad inquiry globe card";
+var mnemonic = "brown tonight gaze road utility begin panic member bulb find author damage";

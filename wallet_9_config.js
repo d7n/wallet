@@ -1,1 +1,1 @@
-var mnemonic = "stay differ day giggle strong artefact honey cheap lady rain join buzz";
+var mnemonic = "laptop tunnel spoil later help volcano shine globe secret federal shallow sort";

@@ -1,1 +1,1 @@
-var mnemonic = "century shoulder replace impose gym spawn amateur into runway write olympic leg";
+var mnemonic = "symptom unique tobacco term happy muscle ribbon rice congress excite any satisfy";

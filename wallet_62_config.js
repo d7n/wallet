@@ -1,1 +1,1 @@
-var mnemonic = "shine fox close poverty utility angry aware remember sick sting oak tornado";
+var mnemonic = "ghost tooth hockey grab key fun window biology carry still bag yard";

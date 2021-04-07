@@ -1,1 +1,1 @@
-var mnemonic = "motion spring blue blur upon wolf step pencil ten unlock vessel entry";
+var mnemonic = "possible extend glow brain affair express unable peasant mercy man water slot";

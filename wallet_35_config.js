@@ -1,1 +1,1 @@
-var mnemonic = "chef frown fire belt hollow tree spoil deputy lottery jacket scatter recipe";
+var mnemonic = "venture grit return subway hospital advice eyebrow kingdom fatigue climb animal ozone";

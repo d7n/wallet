@@ -1,1 +1,1 @@
-var mnemonic = "profit tube easy exclude adjust fitness fossil clump letter sure neither rifle";
+var mnemonic = "enact embrace arm smart silly armed female wagon regret rally auto camp";

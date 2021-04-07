@@ -1,1 +1,1 @@
-var mnemonic = "print rate void gossip kangaroo section lens burden unknown keep glad donate";
+var mnemonic = "orient frown cousin disease check used apple roast style hedgehog charge later";

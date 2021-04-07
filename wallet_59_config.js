@@ -1,1 +1,1 @@
-var mnemonic = "neither chat require decide three ripple oval work buzz fun inform column";
+var mnemonic = "antenna idea blue wish bomb jar mouse bubble final heart turtle behind";

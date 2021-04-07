@@ -1,1 +1,1 @@
-var mnemonic = "luxury traffic project convince clip spell walnut image journey mention guide century";
+var mnemonic = "fantasy mind resist rack luxury deputy luggage body coyote recall escape pipe";

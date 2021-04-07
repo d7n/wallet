@@ -1,1 +1,1 @@
-var mnemonic = "tumble common length differ lion divide fox search play prize uncover web";
+var mnemonic = "bean stamp speak help joy leopard debate bind pull metal edit endorse";

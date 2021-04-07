@@ -1,1 +1,1 @@
-var mnemonic = "move boil napkin bench strike word scan rhythm forget fatal have gas";
+var mnemonic = "garment card outside deer company deer paper jewel east swallow lock know";

@@ -1,1 +1,1 @@
-var mnemonic = "soup immune swap heart amazing meat stage pelican monitor invest game glare";
+var mnemonic = "confirm dizzy permit panda dream resist awake vague mesh pencil protect barely";

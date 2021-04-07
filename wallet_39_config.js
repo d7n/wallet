@@ -1,1 +1,1 @@
-var mnemonic = "supreme debate finish pride pistol club asset time badge answer silent hip";
+var mnemonic = "rural print genuine day flash cry skin enemy high gown snap budget";

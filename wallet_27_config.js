@@ -1,1 +1,1 @@
-var mnemonic = "link ill flower twin cram cost raccoon stamp street wire hungry exclude";
+var mnemonic = "gentle butter spatial limit argue admit rally clutch indoor mutual thing hunt";

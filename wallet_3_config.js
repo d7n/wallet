@@ -1,1 +1,1 @@
-var mnemonic = "leave column wealth scorpion hedgehog avoid source gauge among foil rail clog";
+var mnemonic = "duck burger congress gravity crane guide maze wise civil frequent cupboard arrest";

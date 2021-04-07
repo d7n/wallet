@@ -1,1 +1,1 @@
-var mnemonic = "april size bleak fringe fee suffer deliver fun creek already lyrics crime";
+var mnemonic = "already motion scatter unit slot huge glove aspect shop fan item era";

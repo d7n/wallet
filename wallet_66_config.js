@@ -1,1 +1,1 @@
-var mnemonic = "humble daughter good arena cactus hood gap true scatter rabbit enemy whip";
+var mnemonic = "dove hand wrestle great blanket text initial misery option pool evolve census";

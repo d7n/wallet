@@ -1,1 +1,1 @@
-var mnemonic = "twist food cool talk vehicle ring proud warrior chalk issue maze kingdom";
+var mnemonic = "despair cake abandon claw odor patrol document dish mosquito cruise profit you";

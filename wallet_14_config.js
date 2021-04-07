@@ -1,1 +1,1 @@
-var mnemonic = "disorder remain cable unfold wage message enroll fatal height clutch traffic front";
+var mnemonic = "guess library tiny keen retire door owner huge write wrong pulse thrive";

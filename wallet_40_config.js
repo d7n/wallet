@@ -1,1 +1,1 @@
-var mnemonic = "page elite slush hip dentist visual spell orange grow glance raccoon random";
+var mnemonic = "rack middle drip spare dog demand axis pitch evoke benefit digital sphere";

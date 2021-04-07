@@ -1,1 +1,1 @@
-var mnemonic = "hope dash cloth crazy hedgehog miracle library comic under lottery load cannon";
+var mnemonic = "oil business pipe certain peanut abandon found ticket certain bleak twelve mutual";

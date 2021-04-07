@@ -1,1 +1,1 @@
-var mnemonic = "enroll eyebrow inhale fluid throw old regret note stone yard delay nurse";
+var mnemonic = "soon maple misery dawn kid exotic sunny glow kingdom peasant armor repair";

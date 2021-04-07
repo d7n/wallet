@@ -1,1 +1,1 @@
-var mnemonic = "equal brisk dry relief kind torch silver century injury fault tunnel ritual";
+var mnemonic = "catch subway veteran maid siege rebuild analyst milk uphold dad adjust guide";

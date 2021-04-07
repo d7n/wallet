@@ -1,1 +1,1 @@
-var mnemonic = "exact input smoke pink nephew ankle room nothing detail strike enlist margin";
+var mnemonic = "knife prison purse mechanic plug monster affair armed symbol put rescue enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "capable teach prison logic cliff shoulder reopen bean connect sadness seed error";
+var mnemonic = "begin quick swap jelly daring gossip wide member forget income panic minor";

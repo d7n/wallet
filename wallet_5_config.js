@@ -1,1 +1,1 @@
-var mnemonic = "bulb fiber smile length engine address flag banana release culture earn minute";
+var mnemonic = "refuse ticket neutral agree mandate frame crawl idle accident minimum ability paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "together juice access document thrive vendor oak simple pilot mass flush roof";
+var mnemonic = "simple unveil yellow proof include upper cricket interest actual tissue funny left";

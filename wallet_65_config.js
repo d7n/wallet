@@ -1,1 +1,1 @@
-var mnemonic = "zone open cousin cricket churn brown law outer replace damage pave decade";
+var mnemonic = "door grit youth blind length depth alpha suit kingdom bright tribe argue";

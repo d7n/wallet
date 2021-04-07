@@ -1,1 +1,1 @@
-var mnemonic = "initial dream what avoid romance sample find alley type recall target square";
+var mnemonic = "scale pitch click alter range piano typical crisp glad brick stereo duty";

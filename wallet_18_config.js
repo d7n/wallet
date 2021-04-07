@@ -1,1 +1,1 @@
-var mnemonic = "build company own educate blouse start harvest spell enact copy neither believe";
+var mnemonic = "give position stone theory toy slab history labor flip anger envelope hawk";

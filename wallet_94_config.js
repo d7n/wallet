@@ -1,1 +1,1 @@
-var mnemonic = "vague hurdle depart ski clarify beyond lawsuit moral twelve admit squeeze limit";
+var mnemonic = "initial puzzle use bottom tool elder play boat sleep gadget wonder unfair";

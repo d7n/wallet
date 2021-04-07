@@ -1,1 +1,1 @@
-var mnemonic = "chase dwarf parent swing powder pony educate ordinary early aisle trade rocket";
+var mnemonic = "submit chef hammer sheriff average regret smart armor foster consider drill okay";

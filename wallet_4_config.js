@@ -1,1 +1,1 @@
-var mnemonic = "bread riot tuition wasp sketch inform crumble use final stable keep hand";
+var mnemonic = "dish pulp zoo smart final simple mask gas bargain pluck orbit lonely";

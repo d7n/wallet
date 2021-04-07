@@ -1,1 +1,1 @@
-var mnemonic = "scrub dance infant agent vacant image oven ring doll rain loop yellow";
+var mnemonic = "swamp model walnut ski theory bind nasty orient visual raven audit need";

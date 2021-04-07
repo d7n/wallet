@@ -1,1 +1,1 @@
-var mnemonic = "rule gym wagon home nephew vanish finger cabin drip tomorrow urge around";
+var mnemonic = "combine mango muffin valley flame pill limit field alter bid wink slide";

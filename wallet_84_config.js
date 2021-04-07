@@ -1,1 +1,1 @@
-var mnemonic = "six bone slender face tornado rookie canoe try diamond own cancel oyster";
+var mnemonic = "unable morning anger resemble trade junior extend convince success cattle super world";

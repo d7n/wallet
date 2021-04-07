@@ -1,1 +1,1 @@
-var mnemonic = "calm bachelor mention weapon ostrich soft short model boring emerge battle shrimp";
+var mnemonic = "name noise video recall property cash sketch plunge super chair start patch";

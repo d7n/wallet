@@ -1,1 +1,1 @@
-var mnemonic = "hood fiction pact shoe family foster absurd system hat deal swift arrest";
+var mnemonic = "cup claim shine vendor now ready final train soccer tone off inform";

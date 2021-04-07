@@ -1,1 +1,1 @@
-var mnemonic = "illegal fix fork donor heavy misery select comfort prefer zoo oppose city";
+var mnemonic = "connect gas rate enough monitor lion midnight baby enough spring tell differ";

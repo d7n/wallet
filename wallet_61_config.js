@@ -1,1 +1,1 @@
-var mnemonic = "call explain soda grape emotion winner ivory finish stuff forum space mammal";
+var mnemonic = "doll sleep derive build route habit trophy staff cushion wall immense mix";

@@ -1,1 +1,1 @@
-var mnemonic = "pen soccer okay ocean knee sorry pupil object wage awesome capable cheese";
+var mnemonic = "hole net speak outside hub solution clay conduct position wing soul science";

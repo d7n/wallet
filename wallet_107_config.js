@@ -1,1 +1,1 @@
-var mnemonic = "casino fiscal cattle elegant life cart output pumpkin endless because meat crystal";
+var mnemonic = "fog orphan fish exercise foster vicious learn water tourist supply key gold";

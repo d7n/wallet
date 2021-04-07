@@ -1,1 +1,1 @@
-var mnemonic = "major bike weekend umbrella dune chapter acoustic mercy enact shoot achieve width";
+var mnemonic = "deal switch cup faculty cereal rose code tonight name mass tooth sure";

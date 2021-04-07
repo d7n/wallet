@@ -1,1 +1,1 @@
-var mnemonic = "double clown ginger sleep scrap fix illegal oval immune option blue radio";
+var mnemonic = "rule erase rate cluster strategy tuna limit best cigar reason sunset velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "question mention cement focus divert keen begin primary firm visual dance pizza";
+var mnemonic = "brave bread move chuckle december zoo grace fetch fresh code base above";

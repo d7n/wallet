@@ -1,1 +1,1 @@
-var mnemonic = "shrimp solid play focus menu bench merge lecture path base animal century";
+var mnemonic = "much cruel open allow advance method tank kitchen valid symptom humble super";

@@ -1,1 +1,1 @@
-var mnemonic = "december miracle rib peasant abandon squeeze sugar history lumber day brother daring";
+var mnemonic = "boss ahead hover venture dutch frost slice try lamp hamster source use";
