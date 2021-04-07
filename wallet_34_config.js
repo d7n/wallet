@@ -1,1 +1,1 @@
-var mnemonic = "design panther join verify immune hero attract trumpet install cycle column owner";
+var mnemonic = "behave right tone canvas talk please glad friend match drift cannon rapid";

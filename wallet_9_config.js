@@ -1,1 +1,1 @@
-var mnemonic = "tragic tumble upon length ring confirm jaguar embody fantasy tongue equip funny";
+var mnemonic = "protect place dinosaur nephew visual above giraffe neglect dawn uniform letter luggage";

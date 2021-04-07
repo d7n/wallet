@@ -1,1 +1,1 @@
-var mnemonic = "enrich know acquire double hungry tray mansion lumber divert true poem strike";
+var mnemonic = "entry predict drip derive easy review upgrade snap merry report egg immune";

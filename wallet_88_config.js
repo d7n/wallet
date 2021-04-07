@@ -1,1 +1,1 @@
-var mnemonic = "index stereo remind stay clip bacon traffic crop shield claim royal copper";
+var mnemonic = "fabric hundred believe symbol twenty bronze extend exact between deposit update gospel";

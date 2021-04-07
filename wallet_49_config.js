@@ -1,1 +1,1 @@
-var mnemonic = "eye fringe skate century object discover weekend open pulp argue grit forest";
+var mnemonic = "antique parrot brass before crystal hint build lion arch keep video angry";

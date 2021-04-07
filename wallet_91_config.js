@@ -1,1 +1,1 @@
-var mnemonic = "song tourist sun fluid knife vapor color long victory network shaft portion";
+var mnemonic = "ranch elder arch april finger alpha soap caution cave ancient canvas mirror";

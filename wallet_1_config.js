@@ -1,1 +1,1 @@
-var mnemonic = "carry topic evolve clean hungry deal want nice pulse planet athlete level";
+var mnemonic = "clump chalk pave swing blast mesh smooth race submit uncover lunch vital";

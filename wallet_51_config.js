@@ -1,1 +1,1 @@
-var mnemonic = "blur sand borrow clutch mistake post outside foam curve click law cupboard";
+var mnemonic = "tail crisp absorb excess tool curve enough eye park hurt merge color";

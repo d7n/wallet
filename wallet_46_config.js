@@ -1,1 +1,1 @@
-var mnemonic = "slow leopard kiss supreme anchor dress absorb anxiety junk olympic cruise rural";
+var mnemonic = "point include stereo adapt afraid tower envelope wedding nut drip buddy eyebrow";

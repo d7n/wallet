@@ -1,1 +1,1 @@
-var mnemonic = "expect avocado absurd swap zero auto bounce recipe tumble train wing great";
+var mnemonic = "level profit width fix rigid inflict employ adjust mask loyal sand remove";

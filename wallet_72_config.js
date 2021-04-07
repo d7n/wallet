@@ -1,1 +1,1 @@
-var mnemonic = "month any correct achieve float fiscal height outer unfold code useless neck";
+var mnemonic = "tail dumb hybrid dinosaur uniform east defense tent object jaguar human baby";

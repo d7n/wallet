@@ -1,1 +1,1 @@
-var mnemonic = "stable crucial reason height elevator glow raccoon skirt assault defy because duty";
+var mnemonic = "reject material lizard race fat salad spy engage robust kite mad real";

@@ -1,1 +1,1 @@
-var mnemonic = "mother junk motion mushroom cycle minor mountain video hedgehog wool then game";
+var mnemonic = "ketchup kitchen solution fat tail pull tide opinion sausage sunset loop height";

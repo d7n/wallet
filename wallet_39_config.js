@@ -1,1 +1,1 @@
-var mnemonic = "train soap answer adjust turtle girl chronic mix cabbage answer gas domain";
+var mnemonic = "slow hidden outside adjust toast topple general eagle general upper pole embrace";

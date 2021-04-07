@@ -1,1 +1,1 @@
-var mnemonic = "under leisure endorse canoe laptop chuckle mixture warm diamond whisper base mean";
+var mnemonic = "news ring junk century party offer nasty warm price dinner crazy tomorrow";

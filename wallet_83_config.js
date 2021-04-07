@@ -1,1 +1,1 @@
-var mnemonic = "meat attitude gown decide wait else pet flower gravity mind clip remember";
+var mnemonic = "biology transfer process soup quiz quit unfair claw element furnace split attract";

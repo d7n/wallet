@@ -1,1 +1,1 @@
-var mnemonic = "minor spread brass digital aware best talk grief autumn public nice man";
+var mnemonic = "tribe ankle execute ketchup spy art slot dutch live quick purity early";

@@ -1,1 +1,1 @@
-var mnemonic = "before harbor latin easily crumble business wear rare ugly involve bottom sign";
+var mnemonic = "click vacant pulse enact perfect toy topple grid rabbit trade know word";

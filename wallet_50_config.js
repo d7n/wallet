@@ -1,1 +1,1 @@
-var mnemonic = "cradle abuse cream lawsuit nut involve puppy shove render network judge core";
+var mnemonic = "nut pride cook mercy cabin total buyer lake motor speak bench boil";

@@ -1,1 +1,1 @@
-var mnemonic = "claim item engine daughter amateur era cliff matrix dish hen erupt timber";
+var mnemonic = "cube pause type tiny trumpet ostrich advance ride disorder feed head check";

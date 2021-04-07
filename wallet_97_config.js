@@ -1,1 +1,1 @@
-var mnemonic = "elegant library talk weekend gown gym disease puzzle web dizzy pretty swing";
+var mnemonic = "humor habit orient bright ignore summer access awesome custom picture size help";

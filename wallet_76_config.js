@@ -1,1 +1,1 @@
-var mnemonic = "tobacco punch mechanic fine corn fox together agree pair detail joke harsh";
+var mnemonic = "celery total beyond improve voice sunny citizen arrest undo suspect right glimpse";

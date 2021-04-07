@@ -1,1 +1,1 @@
-var mnemonic = "rate repair strike term coach clerk clump poem green waste indoor doctor";
+var mnemonic = "bread coast powder violin follow initial route behave sound canoe mystery combine";

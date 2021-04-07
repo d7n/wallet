@@ -1,1 +1,1 @@
-var mnemonic = "success hockey woman range coral chimney dignity door bind medal great sleep";
+var mnemonic = "wine extend breeze fork remain elder era awesome behind increase autumn sure";

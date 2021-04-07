@@ -1,1 +1,1 @@
-var mnemonic = "assault funny culture forest drum husband curtain hour rookie harvest pottery remove";
+var mnemonic = "public bounce comfort oval cable valve concert again soda tail fly major";

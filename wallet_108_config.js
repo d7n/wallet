@@ -1,1 +1,1 @@
-var mnemonic = "involve share tag clap zero tunnel cloud arrive now east lawsuit pause";
+var mnemonic = "quick brown answer trash afford mystery trick expand wait agree monitor forest";

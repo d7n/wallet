@@ -1,1 +1,1 @@
-var mnemonic = "picture bike test what decade device net ecology mystery bargain holiday goddess";
+var mnemonic = "flag essence cliff silk tiny car oblige crowd outer wet mutual caught";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant common benefit liberty tuna joke ability slush plug repair fame jeans";
+var mnemonic = "master ring imitate grant soon fringe hospital board favorite owner owner novel";

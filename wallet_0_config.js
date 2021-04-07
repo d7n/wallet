@@ -1,1 +1,1 @@
-var mnemonic = "apple circle bless candy upset pact twice bulb sing extra achieve error";
+var mnemonic = "rug coast carpet poem typical garbage thing prize swarm skull picnic auction";

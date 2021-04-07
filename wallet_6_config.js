@@ -1,1 +1,1 @@
-var mnemonic = "price grain hub bulb welcome device boil guitar comfort shell abandon unfair";
+var mnemonic = "churn unaware delay today random candy when flame onion wheel oyster season";

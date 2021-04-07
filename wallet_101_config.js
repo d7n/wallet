@@ -1,1 +1,1 @@
-var mnemonic = "lazy dish notice resist paddle apology mystery pelican property quit curious poet";
+var mnemonic = "soul seven scan dawn eternal frog wife learn april invest twice true";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit book anchor gas harvest boring bottom list envelope result poem unusual";
+var mnemonic = "swing demise normal cube good battle blade present enough emotion elevator paddle";

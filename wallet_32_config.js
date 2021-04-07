@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit orchard pizza debris hedgehog slogan project until resource craft habit during";
+var mnemonic = "curtain reform lock shield picture misery insane celery clock tennis fitness general";

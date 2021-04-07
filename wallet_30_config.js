@@ -1,1 +1,1 @@
-var mnemonic = "whisper cotton voice unaware bulk cry video ecology make neutral wonder soon";
+var mnemonic = "fortune blood high blue intact expire decide solar pause dune bonus smoke";

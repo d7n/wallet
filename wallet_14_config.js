@@ -1,1 +1,1 @@
-var mnemonic = "speak crime burden belt local crush olympic enrich matrix taste curve kiss";
+var mnemonic = "basic fever enlist drift tourist legal woman settle machine position gorilla need";

@@ -1,1 +1,1 @@
-var mnemonic = "hour phone silent unique negative harvest prize submit able rich seven sort";
+var mnemonic = "upper potato enroll budget suit point inform small gravity possible ride impose";

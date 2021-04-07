@@ -1,1 +1,1 @@
-var mnemonic = "bless major erase smoke phone donate total party around valid pen advice";
+var mnemonic = "save minimum nerve luggage blue phrase pink rail leg hunt combine cram";

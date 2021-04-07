@@ -1,1 +1,1 @@
-var mnemonic = "fluid vital expose oak rhythm stomach polar stock volcano enter shaft face";
+var mnemonic = "happy tumble wagon valid gauge across recycle athlete broken glove proof want";

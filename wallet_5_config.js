@@ -1,1 +1,1 @@
-var mnemonic = "galaxy arrive trial age dust outdoor boat grace lizard august finger cruel";
+var mnemonic = "orbit use loyal cram festival vicious spoil various derive glance render little";

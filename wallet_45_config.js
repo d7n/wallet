@@ -1,1 +1,1 @@
-var mnemonic = "upgrade slight found double cake recipe derive napkin regular episode giggle wrist";
+var mnemonic = "craft stone tackle left other transfer unable pear garlic obey cattle crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "foot service turn dismiss lemon comic federal side south slim admit genius";
+var mnemonic = "banana shaft lottery harvest task response dynamic subway walk extra warfare chicken";

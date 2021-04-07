@@ -1,1 +1,1 @@
-var mnemonic = "weapon push resist yellow mule tiny entire bike world message multiply skirt";
+var mnemonic = "area pretty kite enjoy measure endorse service basket quit pill fire mystery";

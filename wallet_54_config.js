@@ -1,1 +1,1 @@
-var mnemonic = "easy grab whip board valid minute decorate travel card rich bulk resist";
+var mnemonic = "chase clever memory sunny void visual spot hotel excite coach repeat burger";

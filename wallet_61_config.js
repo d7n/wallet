@@ -1,1 +1,1 @@
-var mnemonic = "abuse album course skate family window waste better asset viable kangaroo category";
+var mnemonic = "radar clock panel army crash finger scare nut seven end about cattle";

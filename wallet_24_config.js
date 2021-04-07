@@ -1,1 +1,1 @@
-var mnemonic = "unhappy curtain drink invest nice sign soul century parade daring husband method";
+var mnemonic = "common hip snow project myself list become twist term grape crash video";

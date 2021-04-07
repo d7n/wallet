@@ -1,1 +1,1 @@
-var mnemonic = "laugh patrol scatter become raven mirror title prefer dragon minute push glass";
+var mnemonic = "broccoli disorder spot garbage dish cabin oyster connect west carbon draw senior";

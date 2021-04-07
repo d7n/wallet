@@ -1,1 +1,1 @@
-var mnemonic = "word scrub teach silent loud there bracket struggle jewel ranch heavy dose";
+var mnemonic = "smooth leaf lumber gown notable civil jacket beyond print custom spoon ethics";

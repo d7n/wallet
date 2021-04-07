@@ -1,1 +1,1 @@
-var mnemonic = "dragon pass quote employ empty stand brick royal destroy trust develop uniform";
+var mnemonic = "gallery seven lunch lesson daring praise buzz conduct manage invest pride hurt";

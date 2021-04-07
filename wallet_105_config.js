@@ -1,1 +1,1 @@
-var mnemonic = "frown inmate head juice pupil warm sample pulp biology input among curious";
+var mnemonic = "detect olive payment trim piano inject abuse public valve caught honey broccoli";

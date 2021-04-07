@@ -1,1 +1,1 @@
-var mnemonic = "tip audit solution club ranch zone notice siren half reward twenty rocket";
+var mnemonic = "vote oak where phrase error false arrest citizen picture present basket once";

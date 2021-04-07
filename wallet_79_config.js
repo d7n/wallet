@@ -1,1 +1,1 @@
-var mnemonic = "anxiety window price audit matter dilemma budget someone pole total repeat hope";
+var mnemonic = "spoil noise patient rice very century divert where attend gadget curious kid";

@@ -1,1 +1,1 @@
-var mnemonic = "vague switch idea nature please match manage style social february question choice";
+var mnemonic = "syrup false cabin raven toward decide dress loyal luggage bind online sad";

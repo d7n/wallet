@@ -1,1 +1,1 @@
-var mnemonic = "rude dinosaur exile list jealous depart vote borrow diary then rail talent";
+var mnemonic = "lucky broken bundle museum solution olympic father scale wave shrimp fragile whale";

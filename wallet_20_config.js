@@ -1,1 +1,1 @@
-var mnemonic = "junk absurd stereo adapt cause light alien sense boil notice outer curious";
+var mnemonic = "volume gift ocean jungle cactus tunnel sense nation patient very hole bar";

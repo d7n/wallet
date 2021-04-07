@@ -1,1 +1,1 @@
-var mnemonic = "dose cannon student supply news zebra circle bridge cherry emotion current limb";
+var mnemonic = "myth loan traffic autumn result violin stadium spin bomb wish alpha screen";

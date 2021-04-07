@@ -1,1 +1,1 @@
-var mnemonic = "swallow hand muffin order dream gaze stand case cream screen alcohol staff";
+var mnemonic = "ginger gap fiscal shuffle marine weekend bracket gasp field pizza horse remove";

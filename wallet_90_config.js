@@ -1,1 +1,1 @@
-var mnemonic = "trust make yard tobacco swamp obtain pudding range network virus title this";
+var mnemonic = "robot cream gossip gate cigar picture kit alien film addict patch join";

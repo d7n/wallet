@@ -1,1 +1,1 @@
-var mnemonic = "split buddy solar crime clock myth skill mass void swear chimney destroy";
+var mnemonic = "chapter august ride clinic fringe odor gaze grocery addict below treat memory";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale celery fiscal around awesome filter market unfair cup design ahead tag";
+var mnemonic = "update cream typical square circle wall isolate right sunset visit air castle";

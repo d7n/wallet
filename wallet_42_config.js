@@ -1,1 +1,1 @@
-var mnemonic = "excess exhaust evidence fall basket dynamic grit dwarf december horror squeeze system";
+var mnemonic = "inmate fox proof wish balcony rescue benefit decline negative destroy tail borrow";

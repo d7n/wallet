@@ -1,1 +1,1 @@
-var mnemonic = "make bench party snack pizza home town inform club cactus thank gold";
+var mnemonic = "physical ball fun found gold able dilemma secret please toilet master topple";

@@ -1,1 +1,1 @@
-var mnemonic = "image message noodle receive share sweet slogan better truly eager puzzle pact";
+var mnemonic = "toilet cushion second wagon response barrel average garlic flower police purchase mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon raw box marriage diagram deposit embark asset club rely apple income";
+var mnemonic = "diamond flag chair fabric vital length brown praise parrot unusual fruit clean";

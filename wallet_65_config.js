@@ -1,1 +1,1 @@
-var mnemonic = "float lazy give rival team million drop search sun bike wire series";
+var mnemonic = "charge cement orange senior million sample undo glad year trip luxury swap";

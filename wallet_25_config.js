@@ -1,1 +1,1 @@
-var mnemonic = "ostrich turn secret pilot leisure better disorder tide swarm better census often";
+var mnemonic = "position primary eye bubble notable steel economy various film choose blanket public";

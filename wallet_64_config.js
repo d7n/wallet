@@ -1,1 +1,1 @@
-var mnemonic = "usage reason faith aware winner depend uncover endless slam hour public divert";
+var mnemonic = "lonely bulk bicycle friend used pride audit globe wait tree hope wire";

@@ -1,1 +1,1 @@
-var mnemonic = "casino lunar possible blade curtain wage twenty inquiry rural select field village";
+var mnemonic = "dish clown feature ceiling act sleep beach drill spy brief filter consider";

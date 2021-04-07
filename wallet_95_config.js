@@ -1,1 +1,1 @@
-var mnemonic = "work toe gentle afford online brown expire walnut tongue mesh layer member";
+var mnemonic = "fun federal refuse vocal cereal umbrella gasp bread addict quality hazard flag";

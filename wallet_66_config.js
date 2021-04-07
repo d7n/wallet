@@ -1,1 +1,1 @@
-var mnemonic = "believe dawn mass enhance delay match jar material code act tray limb";
+var mnemonic = "hobby cash artwork grid filter rubber aim twelve industry grow remain language";

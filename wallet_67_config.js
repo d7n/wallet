@@ -1,1 +1,1 @@
-var mnemonic = "school tribe priority rhythm add menu basic anchor will stick annual brand";
+var mnemonic = "control update crater loan run fashion tide zero mountain math weasel spray";

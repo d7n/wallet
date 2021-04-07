@@ -1,1 +1,1 @@
-var mnemonic = "heart invite cat ignore damp elbow roast man night cave report warm";
+var mnemonic = "rescue govern emotion maze plastic hurt seek trouble soccer current spatial hotel";

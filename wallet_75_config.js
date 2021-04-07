@@ -1,1 +1,1 @@
-var mnemonic = "slam man hotel panic daring abuse ordinary dentist luxury father various farm";
+var mnemonic = "put swim immune brush child bring sheriff addict culture orbit atom brown";

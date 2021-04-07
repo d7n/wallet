@@ -1,1 +1,1 @@
-var mnemonic = "also hour tip drop foster lizard else setup romance cake ice vacuum";
+var mnemonic = "glare cloth spatial earth tragic cradle subject clay medal valve clarify ball";

@@ -1,1 +1,1 @@
-var mnemonic = "truck heart faculty record wolf limit hand vehicle leopard absent asset immune";
+var mnemonic = "fiscal nurse mass marriage marine stool zero prevent grow height climb present";

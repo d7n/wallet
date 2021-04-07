@@ -1,1 +1,1 @@
-var mnemonic = "truth load tool addict canal border grocery ill correct sound catch belt";
+var mnemonic = "gun silk recipe decade athlete intact element taxi ivory monster elder solar";

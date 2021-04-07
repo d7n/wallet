@@ -1,1 +1,1 @@
-var mnemonic = "exist autumn energy flame poverty fever lonely scheme relax ordinary type ribbon";
+var mnemonic = "wage upper very finish advance shop initial silent pet heart near couple";

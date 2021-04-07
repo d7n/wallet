@@ -1,1 +1,1 @@
-var mnemonic = "trip tobacco fragile beach capable judge decline ice combine volume ladder sadness";
+var mnemonic = "acquire garment clean orbit course luxury job alter tourist nest master deny";

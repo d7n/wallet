@@ -1,1 +1,1 @@
-var mnemonic = "route thrive able leave crop else phone purpose doctor fashion return audit";
+var mnemonic = "hawk laptop real eternal august atom hood exact fiction problem bullet work";

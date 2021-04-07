@@ -1,1 +1,1 @@
-var mnemonic = "bounce salmon pipe broccoli chief traffic faculty prepare visa dose monitor minor";
+var mnemonic = "vague train suggest eyebrow zoo roof sand carpet main purse clap hire";

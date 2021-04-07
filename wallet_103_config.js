@@ -1,1 +1,1 @@
-var mnemonic = "baby elite better stamp crash extend business possible cause bunker offer silver";
+var mnemonic = "chaos diamond grit core trouble congress endorse sure veteran wave lock follow";

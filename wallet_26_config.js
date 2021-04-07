@@ -1,1 +1,1 @@
-var mnemonic = "aspect venture dream code mercy basic census asthma diamond series bomb street";
+var mnemonic = "jelly cash pig believe host column notice physical refuse legal ordinary weird";

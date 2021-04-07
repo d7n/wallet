@@ -1,1 +1,1 @@
-var mnemonic = "deny shadow hundred wrong deliver pioneer correct live material clip jar people";
+var mnemonic = "edge circle genre obscure permit depth lounge split unusual canvas wage cluster";
