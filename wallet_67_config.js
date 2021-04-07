@@ -1,1 +1,1 @@
-var mnemonic = "news innocent panda delay machine horse assault web hedgehog chef false zone";
+var mnemonic = "valley pave edge vacant enforce image wing rate dirt join team plate";

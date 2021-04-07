@@ -1,1 +1,1 @@
-var mnemonic = "shell arrange close day you often cattle child tone afraid inhale cube";
+var mnemonic = "case hurry dish worth pair tray cause excess pond claim damp theme";

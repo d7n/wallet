@@ -1,1 +1,1 @@
-var mnemonic = "muscle useful treat tribe sphere material legal crane glue fame limb year";
+var mnemonic = "ship alley humor relax cable nation hybrid shaft soft raccoon once neutral";

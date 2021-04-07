@@ -1,1 +1,1 @@
-var mnemonic = "cloud party canvas embark novel juice zoo pyramid half reflect draft soda";
+var mnemonic = "theory maximum sort match acid match jump anxiety clay elbow burden twin";

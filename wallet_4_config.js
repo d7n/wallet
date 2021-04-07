@@ -1,1 +1,1 @@
-var mnemonic = "more real sadness tongue cat original tree turn keep firm plastic repair";
+var mnemonic = "bicycle accuse siren fox dress reason essence pepper feel print pulp case";

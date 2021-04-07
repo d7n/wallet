@@ -1,1 +1,1 @@
-var mnemonic = "minor minute cup clown mix illegal task whale assault bone deposit dignity";
+var mnemonic = "pull suggest enjoy excite tiny deliver advice smoke bridge renew spot fetch";

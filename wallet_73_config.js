@@ -1,1 +1,1 @@
-var mnemonic = "sugar divide verify crawl margin nice join dinosaur innocent sauce token blush";
+var mnemonic = "electric leg day luggage cycle scan diary sketch ship river response winter";

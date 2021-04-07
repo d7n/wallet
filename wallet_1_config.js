@@ -1,1 +1,1 @@
-var mnemonic = "since neglect veteran express flip tornado address subway distance surround skin ancient";
+var mnemonic = "tunnel useful already common blur member job foam device relax box define";

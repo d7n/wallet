@@ -1,1 +1,1 @@
-var mnemonic = "rally keen soldier dirt brown denial travel rib often before cat candy";
+var mnemonic = "utility leave erase company meat poet exchange kidney inject spare token timber";

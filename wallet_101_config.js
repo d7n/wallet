@@ -1,1 +1,1 @@
-var mnemonic = "actual grace sunset outer negative person possible east slot fiction island use";
+var mnemonic = "strong pretty topple alcohol school text arena cricket odor surface violin chat";

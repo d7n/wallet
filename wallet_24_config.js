@@ -1,1 +1,1 @@
-var mnemonic = "honey huge life list job exclude drill electric tower twin argue grocery";
+var mnemonic = "someone life escape toss manage monitor bring slot save trial palm emerge";

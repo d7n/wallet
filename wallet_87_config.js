@@ -1,1 +1,1 @@
-var mnemonic = "endorse demand system into feed orbit light spend text alarm harbor rally";
+var mnemonic = "guide pilot idle survey soft art trip flag umbrella ceiling same hurdle";

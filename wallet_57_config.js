@@ -1,1 +1,1 @@
-var mnemonic = "evidence oyster high flag sick acoustic mutual time slab before recipe antenna";
+var mnemonic = "tilt exist remind wheel remember charge quick frost jewel illness address jungle";

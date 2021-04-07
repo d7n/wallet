@@ -1,1 +1,1 @@
-var mnemonic = "amazing rifle book fiber kingdom cigar tennis proud skill display tower cargo";
+var mnemonic = "what sure access annual forum father cherry entry blur lyrics excite antenna";

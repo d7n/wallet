@@ -1,1 +1,1 @@
-var mnemonic = "idea steel project depart merry solution general puzzle cupboard pistol coin arena";
+var mnemonic = "safe lucky number vast decide lazy uncover divide diamond spray observe ten";

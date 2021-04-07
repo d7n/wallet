@@ -1,1 +1,1 @@
-var mnemonic = "dumb stairs chest casino journey dune paper invest empower whip funny polar";
+var mnemonic = "odor program night usage fix update render sphere occur unaware kind gown";

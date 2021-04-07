@@ -1,1 +1,1 @@
-var mnemonic = "input embody furnace south buzz pizza law urban work path task fatal";
+var mnemonic = "avoid scan abandon sentence decorate curtain fox lucky demand allow logic inch";

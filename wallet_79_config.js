@@ -1,1 +1,1 @@
-var mnemonic = "unveil aim survey month life salad movie winner arrest you family uphold";
+var mnemonic = "learn puppy juice sketch code develop tribe unable broken render cabbage auction";

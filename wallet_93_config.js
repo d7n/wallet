@@ -1,1 +1,1 @@
-var mnemonic = "void dentist program task silver increase dune erode adult cycle transfer stage";
+var mnemonic = "broccoli cluster place oak travel reason become captain picture eager burst acoustic";

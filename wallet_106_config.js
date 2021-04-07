@@ -1,1 +1,1 @@
-var mnemonic = "monster march spirit mass quote arch brand shaft shuffle mercy dial object";
+var mnemonic = "interest legend message danger source crop echo carbon exotic leaf wrist cool";

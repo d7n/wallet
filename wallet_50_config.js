@@ -1,1 +1,1 @@
-var mnemonic = "earn very reduce purity fire fork panic symbol tool skate fold wage";
+var mnemonic = "crisp hobby grant grow february normal atom scare then grain faint love";

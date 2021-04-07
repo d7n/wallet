@@ -1,1 +1,1 @@
-var mnemonic = "pipe car toe soon hub cruel cloth room clarify ostrich job toss";
+var mnemonic = "mixture hen detect uncover tongue neck garage agent shell rare make tray";

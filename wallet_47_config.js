@@ -1,1 +1,1 @@
-var mnemonic = "scale limit rice learn acid senior question walk case crane journey curve";
+var mnemonic = "insect smile enrich gown observe unaware hello path chest time camera subject";

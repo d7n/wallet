@@ -1,1 +1,1 @@
-var mnemonic = "kingdom impose surprise squirrel crisp home body bleak similar fence custom shuffle";
+var mnemonic = "library defense slot forest tomato junior foster summer attack chef shoulder goat";

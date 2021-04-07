@@ -1,1 +1,1 @@
-var mnemonic = "ten country iron galaxy tonight left night say bacon cement alien gun";
+var mnemonic = "icon ugly clarify ship conduct whip rocket scrub mosquito bachelor weekend boy";

@@ -1,1 +1,1 @@
-var mnemonic = "broken farm acid athlete gap egg choose judge inhale sadness clock hotel";
+var mnemonic = "episode door permit general agree ceiling trial alien brisk shield impact autumn";

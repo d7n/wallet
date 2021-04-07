@@ -1,1 +1,1 @@
-var mnemonic = "box artwork world chalk moon immense keep knee exact large idle mutual";
+var mnemonic = "behind toss bicycle engage average minute ski correct dragon tuition system reject";

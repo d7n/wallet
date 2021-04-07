@@ -1,1 +1,1 @@
-var mnemonic = "occur neck live wage damp devote marriage artefact fluid what push fit";
+var mnemonic = "knee rocket defense outside lion essay camera concert modify now throw world";

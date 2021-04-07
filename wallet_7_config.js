@@ -1,1 +1,1 @@
-var mnemonic = "minute coach buzz offer floor before spend scatter enjoy island quality powder";
+var mnemonic = "laugh cream liberty add soccer yellow measure album protect party moment panic";

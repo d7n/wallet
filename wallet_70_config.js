@@ -1,1 +1,1 @@
-var mnemonic = "divorce critic robust canoe silk sadness school elegant smooth title crane spatial";
+var mnemonic = "museum shadow enemy thing kangaroo bomb clap unable copper polar finish book";

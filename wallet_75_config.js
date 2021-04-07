@@ -1,1 +1,1 @@
-var mnemonic = "kidney head ball world search long select funny impose brass board runway";
+var mnemonic = "distance safe jar crash soon repeat bridge cancel uphold promote come decide";

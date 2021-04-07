@@ -1,1 +1,1 @@
-var mnemonic = "fatal identify tiger business horse purpose issue section fox palace dance print";
+var mnemonic = "curve rude rather beyond promote double struggle recall long summer avocado object";

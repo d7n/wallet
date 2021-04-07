@@ -1,1 +1,1 @@
-var mnemonic = "appear believe bargain success current skin absorb violin push correct tool dad";
+var mnemonic = "remind sadness output giggle similar amazing curious employ february rice bridge setup";

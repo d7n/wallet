@@ -1,1 +1,1 @@
-var mnemonic = "impulse very enlist wear answer trip skate sample fresh cable alcohol right";
+var mnemonic = "minute fade detail tank wall dutch evoke useless indicate property crucial smart";

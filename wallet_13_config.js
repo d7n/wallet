@@ -1,1 +1,1 @@
-var mnemonic = "retreat vivid kind valve valley crew spawn spell traffic stone govern reason";
+var mnemonic = "fade grape lift boring color engine retire ranch rough purse spoil genius";

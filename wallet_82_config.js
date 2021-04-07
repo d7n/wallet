@@ -1,1 +1,1 @@
-var mnemonic = "immune elevator juice prosper nest make girl ensure step solution canal flock";
+var mnemonic = "barrel hover scout law switch process gauge amused forum lumber warrior test";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon enable defense shuffle celery antenna opinion chief imitate caught aware ketchup";
+var mnemonic = "mixed monitor express cool release lumber region vicious rally ensure canvas parade";

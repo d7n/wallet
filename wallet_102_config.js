@@ -1,1 +1,1 @@
-var mnemonic = "until relax tree else retire wise spring negative mountain often cool cattle";
+var mnemonic = "tragic sound banner gym wrestle this sound broccoli scout robust rhythm recipe";

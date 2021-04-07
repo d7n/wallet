@@ -1,1 +1,1 @@
-var mnemonic = "fruit wage dwarf mention fire drop harsh mutual hole prevent dog atom";
+var mnemonic = "deer view kidney remind oval enact asset region youth baby alpha hundred";

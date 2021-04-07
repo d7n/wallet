@@ -1,1 +1,1 @@
-var mnemonic = "stem good swim collect you reward vivid panda build vendor repair text";
+var mnemonic = "chalk decorate rug betray shock night forest zone slim friend panda panther";

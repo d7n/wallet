@@ -1,1 +1,1 @@
-var mnemonic = "arch review call proof girl lend recipe noodle later output sea debate";
+var mnemonic = "sign horror narrow ill talk legal wise wire brain smile wife pony";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth solid bargain high taste alcohol jungle tackle helmet sure attract coffee";
+var mnemonic = "again require legend grass soft enhance solve blue check sudden police file";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard average life similar soccer cushion club glue man image chuckle coin";
+var mnemonic = "credit sentence cabin volcano narrow lunch peasant cactus tree method trophy senior";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage segment rice radar run ready scrap crime mother amount need evoke";
+var mnemonic = "lyrics alarm before all abstract super eagle arena meadow priority custom glove";

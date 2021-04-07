@@ -1,1 +1,1 @@
-var mnemonic = "rally used robot stage brush few shrimp discover boy tooth drum sketch";
+var mnemonic = "funny sure uncover super emotion apple scrap teach before advice stone gallery";

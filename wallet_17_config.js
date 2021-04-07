@@ -1,1 +1,1 @@
-var mnemonic = "spoon vast usual menu luxury excess elegant blossom state arena brief acid";
+var mnemonic = "adjust hidden page antique attract bind win behave bar crazy plunge inflict";

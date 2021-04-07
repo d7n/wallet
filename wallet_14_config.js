@@ -1,1 +1,1 @@
-var mnemonic = "domain select tree suit draw wing humble link heavy ring mansion social";
+var mnemonic = "object owner topple ethics speak indoor twin senior seek evidence copy sad";

@@ -1,1 +1,1 @@
-var mnemonic = "armed little dizzy suffer vast reform stay clap confirm because direct inspire";
+var mnemonic = "usual atom kind warfare parade genre series airport scare melody position under";

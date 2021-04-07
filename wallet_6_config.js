@@ -1,1 +1,1 @@
-var mnemonic = "defense dress blame service tobacco expand melody sign guard depart clay output";
+var mnemonic = "garden drastic route build hen gym fat bright expand artefact welcome check";

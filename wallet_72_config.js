@@ -1,1 +1,1 @@
-var mnemonic = "siren stand artwork ill toy oyster good lock cook emotion lumber social";
+var mnemonic = "have melt hobby offer chunk jump swear decrease robot clutch cloth cheese";

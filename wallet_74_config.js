@@ -1,1 +1,1 @@
-var mnemonic = "seat top bachelor inflict office rescue omit globe door abstract coil leave";
+var mnemonic = "awesome track together shuffle excite army vocal reason expose labor sustain awake";

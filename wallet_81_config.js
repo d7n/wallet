@@ -1,1 +1,1 @@
-var mnemonic = "heavy wide turkey project drip news scorpion cushion top manual apology kitten";
+var mnemonic = "crack way actress ocean balance crunch draw chalk cry pottery vivid rib";

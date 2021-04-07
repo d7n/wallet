@@ -1,1 +1,1 @@
-var mnemonic = "venue over sword say ski devote lock labor confirm lamp motion bless";
+var mnemonic = "region satisfy evoke whisper sniff corn once glove dash velvet timber coffee";

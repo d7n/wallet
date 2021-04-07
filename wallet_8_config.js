@@ -1,1 +1,1 @@
-var mnemonic = "split puppy tobacco power wing monster ticket boy toy glance move average";
+var mnemonic = "undo gift method sing rebuild buyer dragon rotate average enter segment one";

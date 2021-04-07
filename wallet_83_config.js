@@ -1,1 +1,1 @@
-var mnemonic = "will angle beef hip moment genuine certain cost fortune mail brother true";
+var mnemonic = "random three parade mango tilt dog fuel violin robot reunion alert carbon";

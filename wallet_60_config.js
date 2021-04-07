@@ -1,1 +1,1 @@
-var mnemonic = "erupt audit apart match exist alley mechanic stem oxygen clarify rough cargo";
+var mnemonic = "faculty inform canvas frog taste dove mention danger fluid topic choice crunch";

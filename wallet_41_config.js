@@ -1,1 +1,1 @@
-var mnemonic = "grief legend broccoli tumble chronic mom type material seat decline box edge";
+var mnemonic = "embark unique tool flip recipe sustain good concert enjoy junior purchase stomach";

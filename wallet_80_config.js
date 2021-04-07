@@ -1,1 +1,1 @@
-var mnemonic = "copper faith avoid involve sentence version flame car despair spoil quality outside";
+var mnemonic = "enter blue sentence code lecture toy bacon fat trim second entire kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol gallery region foil sample primary dragon page salute junk ancient render";
+var mnemonic = "original all main final exotic artwork fish kid betray glue devote arctic";

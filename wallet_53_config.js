@@ -1,1 +1,1 @@
-var mnemonic = "travel camp oyster awful move tilt fringe roast mushroom embody enhance middle";
+var mnemonic = "nice casual lemon thumb beyond random other dash slight effort tattoo over";

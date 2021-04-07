@@ -1,1 +1,1 @@
-var mnemonic = "burden design novel adapt swarm help crane feel again uncle record inherit";
+var mnemonic = "omit cake again describe scheme cliff army quantum fold invest typical fiber";

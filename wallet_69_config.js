@@ -1,1 +1,1 @@
-var mnemonic = "endless maximum age gasp morning cruise cousin adjust super alarm match lucky";
+var mnemonic = "end term rude tooth picture push amateur grant corn truth congress erupt";

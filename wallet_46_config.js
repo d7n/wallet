@@ -1,1 +1,1 @@
-var mnemonic = "model pledge path desert suffer trip beyond parrot innocent alarm together critic";
+var mnemonic = "manage era rug bar piece hybrid silk word salad version clock security";

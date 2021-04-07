@@ -1,1 +1,1 @@
-var mnemonic = "fruit pencil benefit empty execute hover spring tip track jewel ritual typical";
+var mnemonic = "apart enjoy property depend change buzz brush slender speed fence ancient teach";

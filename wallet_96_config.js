@@ -1,1 +1,1 @@
-var mnemonic = "wheat child actor brave together verb song tide work report kiwi bless";
+var mnemonic = "poet isolate post better mixture script rescue first pond left gossip damp";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix feed canyon humble gather legal citizen motor rent okay vintage gas";
+var mnemonic = "crime park neither december unfair mammal hedgehog artefact guilt team buyer satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "cross crime palace pyramid kite theme delay control meadow hint edit sign";
+var mnemonic = "flight position senior evidence rice screen forget require evolve wrestle little clown";

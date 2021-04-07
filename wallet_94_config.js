@@ -1,1 +1,1 @@
-var mnemonic = "buyer grit invite blur horn before oyster meat couple doll ethics federal";
+var mnemonic = "script essay curious nature better hood someone alpha receive please chest awful";

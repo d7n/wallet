@@ -1,1 +1,1 @@
-var mnemonic = "lamp film title slice fire round runway alien waste enrich panther mammal";
+var mnemonic = "camera poet pattern skin tattoo hobby fee pride wrong guide gain trade";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal account correct hole buzz describe spoon earth key trade innocent side";
+var mnemonic = "enemy long end put rare mom cave tortoise garden smile onion deputy";

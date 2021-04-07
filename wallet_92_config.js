@@ -1,1 +1,1 @@
-var mnemonic = "bamboo expand drum deposit spin dry library kit track arrive onion boat";
+var mnemonic = "grass company carry daughter float adjust ocean marble like puppy enable arch";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter credit pole zoo hurdle quit stable voyage wagon immense laugh please";
+var mnemonic = "zebra dice quarter current blame senior stem reject whale topple era win";

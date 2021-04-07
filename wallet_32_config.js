@@ -1,1 +1,1 @@
-var mnemonic = "mass width attend average train render arctic collect modify increase drastic dizzy";
+var mnemonic = "nurse toe frame act outside glory license rebel later coil pill couple";

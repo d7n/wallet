@@ -1,1 +1,1 @@
-var mnemonic = "traffic uniform castle bleak guard bacon long always alone gate latin female";
+var mnemonic = "learn churn note find brave buyer staff crash broccoli kitten able corn";

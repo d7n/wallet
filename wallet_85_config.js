@@ -1,1 +1,1 @@
-var mnemonic = "insect invest already nest glimpse lift tobacco since spoil tag soldier rent";
+var mnemonic = "ten wealth blush debris crime broken nature flash mercy fox embark super";

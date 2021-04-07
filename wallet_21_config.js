@@ -1,1 +1,1 @@
-var mnemonic = "fork thought robot pool hazard actor ripple much twin galaxy rose avocado";
+var mnemonic = "alcohol lens memory defy course slim mad victory pepper you gesture coral";

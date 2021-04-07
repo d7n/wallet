@@ -1,1 +1,1 @@
-var mnemonic = "rail empty divorce picnic square ostrich mother crop maximum sure keep inspire";
+var mnemonic = "satoshi deer refuse injury supreme cheese scale trigger powder such slice inspire";

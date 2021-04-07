@@ -1,1 +1,1 @@
-var mnemonic = "stamp yellow project lobster female opera bean stuff song silent carry boil";
+var mnemonic = "range exhaust moral rug item unique coconut inject gossip observe fit document";

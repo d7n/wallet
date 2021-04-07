@@ -1,1 +1,1 @@
-var mnemonic = "antique sense always reopen deputy century own desk fly very lunch smile";
+var mnemonic = "west approve proud ivory purity length govern interest army hero pipe addict";

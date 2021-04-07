@@ -1,1 +1,1 @@
-var mnemonic = "provide sketch grunt uniform cereal endorse expose chronic mention bleak ring belt";
+var mnemonic = "coil garage wave decade cabbage target palm inhale before valve add police";

@@ -1,1 +1,1 @@
-var mnemonic = "live lunch label girl blush owner select noise confirm car grab anchor";
+var mnemonic = "sad bridge ensure bulb menu poverty okay cable carpet mad luxury sorry";

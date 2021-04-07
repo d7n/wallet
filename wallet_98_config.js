@@ -1,1 +1,1 @@
-var mnemonic = "occur win brass camp idea arrange fold fit this owner disorder atom";
+var mnemonic = "rival repeat rubber luggage ball protect rack drama column beach relief penalty";

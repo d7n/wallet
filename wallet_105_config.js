@@ -1,1 +1,1 @@
-var mnemonic = "shed recall kick refuse sustain token walk artist extra credit gadget fork";
+var mnemonic = "clever casino cram biology surge burden enjoy odor skate cross shrimp fresh";

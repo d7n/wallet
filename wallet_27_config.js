@@ -1,1 +1,1 @@
-var mnemonic = "network morning unknown erode gravity amateur junior father minimum bitter industry loyal";
+var mnemonic = "garment youth clutch pole river engine milk advance traffic tortoise buffalo wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "effort alcohol raw issue minor camp brick else brass super erupt label";
+var mnemonic = "tilt explain draw depend combine bronze embody rapid viable differ token title";

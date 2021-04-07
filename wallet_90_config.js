@@ -1,1 +1,1 @@
-var mnemonic = "august moral diesel truck profit year caught calm artwork lens sibling embrace";
+var mnemonic = "doctor since someone pool leg enlist design appear suit horse clerk hour";

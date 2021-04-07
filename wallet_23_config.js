@@ -1,1 +1,1 @@
-var mnemonic = "culture degree myself south reflect supply awake pigeon rather slim cycle lift";
+var mnemonic = "broom right draft sight select field piece scout cousin problem digital bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "submit enforce evoke erode tennis poverty group lottery stable peasant vessel general";
+var mnemonic = "token abstract pilot act vapor blade echo reform viable tray smoke wet";

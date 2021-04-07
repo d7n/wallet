@@ -1,1 +1,1 @@
-var mnemonic = "flag patient diamond okay toe true trial casino link man suit ride";
+var mnemonic = "shaft wool humor split long cloud cry carpet weasel guilt rescue actor";
