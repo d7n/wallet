@@ -1,1 +1,1 @@
-var mnemonic = "sorry gospel oppose maid action tube bean soup rug strong scissors ritual";
+var mnemonic = "climb captain bicycle bus penalty deer pond alpha tree crawl almost uncover";

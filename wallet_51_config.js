@@ -1,1 +1,1 @@
-var mnemonic = "amount theme flock lift silk gadget hungry despair chief wedding track defy";
+var mnemonic = "traffic glove remind tape limit assist worry attend unhappy captain start vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "profit there mother worth fog grape window license sell half enough middle";
+var mnemonic = "junk will one play abuse tongue slot coast party discover auction exclude";

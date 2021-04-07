@@ -1,1 +1,1 @@
-var mnemonic = "atom reunion toy display waste bulb poem play fade fire spike century";
+var mnemonic = "effort sponsor empower guitar skate trim know nominee weapon unaware blossom help";

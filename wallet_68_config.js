@@ -1,1 +1,1 @@
-var mnemonic = "people solution goose hamster romance market firm govern seat skirt student able";
+var mnemonic = "clever comic acquire denial famous vacuum jewel improve gap elevator knife swift";

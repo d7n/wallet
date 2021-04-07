@@ -1,1 +1,1 @@
-var mnemonic = "myth shuffle like supply benefit agent sphere very profit collect chapter use";
+var mnemonic = "tragic tuition latin aware around ramp exit glide carry view reduce visual";

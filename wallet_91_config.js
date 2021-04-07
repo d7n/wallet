@@ -1,1 +1,1 @@
-var mnemonic = "rural ask guitar camera raw jealous question plastic tourist champion huge stick";
+var mnemonic = "two zone load tourist glad merge case ahead orphan flame chronic pill";

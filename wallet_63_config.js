@@ -1,1 +1,1 @@
-var mnemonic = "move brave ill surprise biology milk velvet social clever coconut trophy shaft";
+var mnemonic = "truly happy input mammal breeze viable gossip axis record fancy rifle square";

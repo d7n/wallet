@@ -1,1 +1,1 @@
-var mnemonic = "green regular manual explain search ramp burger planet section race wood time";
+var mnemonic = "envelope turkey tomato pitch type era charge soft engine expect small brain";

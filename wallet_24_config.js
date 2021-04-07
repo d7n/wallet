@@ -1,1 +1,1 @@
-var mnemonic = "gold vault expose trouble forward vessel exhaust magic table genuine gown option";
+var mnemonic = "gossip shock host able square faint escape maid eye beyond cable era";

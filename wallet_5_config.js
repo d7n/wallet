@@ -1,1 +1,1 @@
-var mnemonic = "cute depend ribbon expand swallow combine minor sting isolate skill wonder fury";
+var mnemonic = "market act purchase ski elevator chuckle hockey village habit saddle exhaust trap";

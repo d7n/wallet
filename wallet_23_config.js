@@ -1,1 +1,1 @@
-var mnemonic = "divorce sample dynamic rival figure kitten vast fossil gallery opinion era punch";
+var mnemonic = "dirt video rice canyon tuna quantum release imitate roast service remain pyramid";

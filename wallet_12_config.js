@@ -1,1 +1,1 @@
-var mnemonic = "history time kiss flower pitch crane major knock category alone tent okay";
+var mnemonic = "fit fabric radio siren orbit flavor rotate balance famous river tonight review";

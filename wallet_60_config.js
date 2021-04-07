@@ -1,1 +1,1 @@
-var mnemonic = "ankle island wave color panther please rack render index salt student shoe";
+var mnemonic = "swing dragon crouch insane daughter poem mind lens coconut letter weather survey";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse escape cat slot swift choice street great strike aisle maple nominee";
+var mnemonic = "speed debris crunch inject crater pig fitness few pair receive middle inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange dress lyrics height hour curve permit fiber observe correct apart ship";
+var mnemonic = "dizzy barely rally convince monster syrup brief airport wage spend only mandate";

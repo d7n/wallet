@@ -1,1 +1,1 @@
-var mnemonic = "cactus myself sustain forward media answer series amount next hour around pole";
+var mnemonic = "world garage inspire fruit intact clap plug mosquito lonely claw usual wheat";

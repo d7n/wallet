@@ -1,1 +1,1 @@
-var mnemonic = "summer order swing blossom assist lumber shrimp raise vocal inject century throw";
+var mnemonic = "dutch solar radio bench wife long decade child master dial into inch";

@@ -1,1 +1,1 @@
-var mnemonic = "paper win boss secret sick slow final cute dinner this transfer bitter";
+var mnemonic = "marine patient remove deputy blanket juice lift liar pear end absent ship";

@@ -1,1 +1,1 @@
-var mnemonic = "patient sell polar tell turtle level jacket gospel kind crumble shine suit";
+var mnemonic = "absurd endless biology power brand damage blame radio horse embark fold snack";

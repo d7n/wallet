@@ -1,1 +1,1 @@
-var mnemonic = "young pet angry steak scene elephant habit ghost grant speak cheese enlist";
+var mnemonic = "pitch eye chaos pride chuckle rescue roast vault blame throw bean liberty";

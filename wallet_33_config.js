@@ -1,1 +1,1 @@
-var mnemonic = "fiction car antique quantum present oblige assault ostrich dentist shoot general punch";
+var mnemonic = "garage long balance churn believe inhale yellow ancient shoulder slice flash long";

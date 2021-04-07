@@ -1,1 +1,1 @@
-var mnemonic = "alcohol inject dignity plug emerge still chuckle together matrix silk erode domain";
+var mnemonic = "truly elder brisk satisfy bright aim client ketchup risk winner offer fit";

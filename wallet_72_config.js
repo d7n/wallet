@@ -1,1 +1,1 @@
-var mnemonic = "among vault double evoke fire game diesel include face basic oil top";
+var mnemonic = "since certain decrease tree kick west canal blush crash doctor size unique";

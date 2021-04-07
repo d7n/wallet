@@ -1,1 +1,1 @@
-var mnemonic = "car can sting tide corn school bag table horse pond tribe man";
+var mnemonic = "useful unlock allow knee off net nerve duty knock leave ready family";

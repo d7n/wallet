@@ -1,1 +1,1 @@
-var mnemonic = "rib picture erode awful fancy village bone rib kingdom bitter away vicious";
+var mnemonic = "sketch brick myself drink enable garbage novel innocent swap remind blue run";

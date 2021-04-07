@@ -1,1 +1,1 @@
-var mnemonic = "public camera flame vault poet clown steak mystery absorb equip weird flag";
+var mnemonic = "trial harsh home kid chalk little side obey hedgehog situate trust kit";

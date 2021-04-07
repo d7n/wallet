@@ -1,1 +1,1 @@
-var mnemonic = "more pretty sunny unfold top render swap unveil mimic better journey effort";
+var mnemonic = "silent slush warfare bean chalk obey agent sword find rain capital kick";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom object noodle inside occur attack another flight barely gaze brisk consider";
+var mnemonic = "click virtual mention differ foam kidney mad hole stand awkward bind visit";

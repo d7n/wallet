@@ -1,1 +1,1 @@
-var mnemonic = "camera school sting write alarm cliff add mushroom bright alone cliff gun";
+var mnemonic = "boring join lunar correct inhale carbon access wagon course ordinary parade sheriff";

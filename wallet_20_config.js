@@ -1,1 +1,1 @@
-var mnemonic = "glove double license maximum circle mother prevent sibling length multiply auction alien";
+var mnemonic = "entire click peanut rifle friend aunt glide high van wine fresh nose";

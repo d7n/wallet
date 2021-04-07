@@ -1,1 +1,1 @@
-var mnemonic = "kingdom mobile repeat few risk liquid cave fashion hire file now keen";
+var mnemonic = "enemy swear trial tribe vacant thunder hard ocean quiz useful scene bacon";

@@ -1,1 +1,1 @@
-var mnemonic = "flight lake mix caught gate early consider confirm seat install mule deputy";
+var mnemonic = "cage boat thunder student deer now sock proof neck market wear expose";

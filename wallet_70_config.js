@@ -1,1 +1,1 @@
-var mnemonic = "dumb shoot lava home worth symbol clip income guide tomato host inherit";
+var mnemonic = "ribbon pyramid industry level cactus banana consider maid quality caught tail jelly";

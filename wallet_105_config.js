@@ -1,1 +1,1 @@
-var mnemonic = "lift powder receive ball duck frozen manual fever remove mixed turkey squeeze";
+var mnemonic = "pony bag tray squeeze expect off brain cotton sustain upon conduct become";

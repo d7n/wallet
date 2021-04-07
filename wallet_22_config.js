@@ -1,1 +1,1 @@
-var mnemonic = "manual thing funny sheriff spike soldier build village share view print like";
+var mnemonic = "grit green noble cargo reject remind spot satisfy off typical tone retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "disagree winter badge average coach limit interest bread rigid square matrix barely";
+var mnemonic = "domain enemy dose term eternal hobby bird hurdle transfer parade what very";

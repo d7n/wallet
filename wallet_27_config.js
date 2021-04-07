@@ -1,1 +1,1 @@
-var mnemonic = "tent jewel float undo cart there people south bottom state enhance junior";
+var mnemonic = "file holiday budget insane crane emerge muffin federal brush arctic check happy";

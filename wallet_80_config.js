@@ -1,1 +1,1 @@
-var mnemonic = "asset edge apology pistol country whip install lab blue build excite warm";
+var mnemonic = "problem dove bench book quote choice rally radio nuclear quote tray fragile";

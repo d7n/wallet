@@ -1,1 +1,1 @@
-var mnemonic = "insect say plate apology toast cycle soda inflict net course pet industry";
+var mnemonic = "hen honey fitness today visit short wish catalog biology excess perfect monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "gain post clap own turkey better direct year knife brain place daughter";
+var mnemonic = "alone sure tourist giggle vacuum million boring damage taste road stomach love";

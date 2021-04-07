@@ -1,1 +1,1 @@
-var mnemonic = "advance silk cruise better energy party refuse window reform cram loud hurry";
+var mnemonic = "magic neutral wrestle entire keen hockey submit diary volcano twelve joy object";

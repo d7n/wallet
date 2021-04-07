@@ -1,1 +1,1 @@
-var mnemonic = "inject more expect aisle explain client olive shuffle floor boost trip frog";
+var mnemonic = "cement sing final laugh spread leader pioneer oblige private burst blouse explain";

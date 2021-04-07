@@ -1,1 +1,1 @@
-var mnemonic = "myth talent bunker transfer fun boost adapt caught harvest join tattoo voyage";
+var mnemonic = "tip tape end shoot style away oxygen system wild pitch maximum helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "logic prevent pole orphan wheel silver steel casino emerge congress electric tortoise";
+var mnemonic = "bus piano require earn submit kick puzzle one avocado cement rail over";

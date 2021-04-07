@@ -1,1 +1,1 @@
-var mnemonic = "cream inherit parent crouch energy tattoo flush they silly traffic clerk head";
+var mnemonic = "east require exit hundred morning mass message organ object school pipe tornado";

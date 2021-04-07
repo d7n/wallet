@@ -1,1 +1,1 @@
-var mnemonic = "cheese clinic snack special dismiss prize badge cruise violin gauge praise physical";
+var mnemonic = "razor devote sketch blind shuffle magnet layer cheap trick cradle afraid flush";

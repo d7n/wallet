@@ -1,1 +1,1 @@
-var mnemonic = "burden web weapon will annual flush winner tornado thought coconut enrich door";
+var mnemonic = "portion grab excess mom large firm clean decline quarter voice surround renew";

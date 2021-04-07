@@ -1,1 +1,1 @@
-var mnemonic = "arm craft armed cigar immune doll caught almost reopen state squirrel devote";
+var mnemonic = "inner cost table tornado knife unfold rail canoe cover ethics bike hamster";

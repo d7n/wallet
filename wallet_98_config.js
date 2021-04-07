@@ -1,1 +1,1 @@
-var mnemonic = "aim riot peace frame still whale render catch hero gallery invite trust";
+var mnemonic = "unit country pride cable behind limit picnic school wasp grain issue hamster";

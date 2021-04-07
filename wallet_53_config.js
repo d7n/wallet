@@ -1,1 +1,1 @@
-var mnemonic = "resemble ginger barely school random mix solve system canvas barrel wheat roast";
+var mnemonic = "response hundred crawl exist rhythm lounge lab blood cheap destroy author defy";

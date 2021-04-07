@@ -1,1 +1,1 @@
-var mnemonic = "giggle drama olive negative harbor private push artefact hidden mango satisfy define";
+var mnemonic = "hotel inspire clutch cliff member erase disagree grass poet bacon that oxygen";

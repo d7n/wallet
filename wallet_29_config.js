@@ -1,1 +1,1 @@
-var mnemonic = "milk taxi bulk long pig brief grocery exercise cattle fabric asthma attack";
+var mnemonic = "illegal usage matter canvas average romance venue genuine quit humble assist magnet";

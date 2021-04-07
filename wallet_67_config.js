@@ -1,1 +1,1 @@
-var mnemonic = "near bench fitness sign tired ice affair universe boat shrimp congress build";
+var mnemonic = "mercy father enlist inherit curtain deputy visa print trouble salmon clutch direct";

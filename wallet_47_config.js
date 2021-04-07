@@ -1,1 +1,1 @@
-var mnemonic = "teach equip figure tray reduce parade effort barely route pet exchange merge";
+var mnemonic = "tired pull service picnic below whisper visual obscure street write cruise infant";

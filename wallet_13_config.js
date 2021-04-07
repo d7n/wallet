@@ -1,1 +1,1 @@
-var mnemonic = "smart daring feel human motion caught such pull sure autumn dove kiwi";
+var mnemonic = "border thank curious damp scatter inmate first debate rebuild glow round transfer";

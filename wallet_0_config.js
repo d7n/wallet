@@ -1,1 +1,1 @@
-var mnemonic = "skull differ motor sight ramp garment wear there muffin because aisle tonight";
+var mnemonic = "useful degree coconut indoor extend trash artist jazz protect spend magnet about";

@@ -1,1 +1,1 @@
-var mnemonic = "theory close limb client code release satisfy garden core pistol struggle settle";
+var mnemonic = "drum talent salute exchange keep slush device finish need prison device warfare";

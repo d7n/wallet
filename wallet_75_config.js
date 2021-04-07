@@ -1,1 +1,1 @@
-var mnemonic = "sugar vibrant glass general tonight cup crazy put agree picnic purse earn";
+var mnemonic = "unaware anger sun magnet predict turn agree impose carbon parent twin board";

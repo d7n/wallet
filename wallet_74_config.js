@@ -1,1 +1,1 @@
-var mnemonic = "giraffe pepper enrich garage salon large bike response solution club october light";
+var mnemonic = "harsh awake viable course usage pole scan budget wise style charge lake";

@@ -1,1 +1,1 @@
-var mnemonic = "bind mail remain stadium course rigid divorce ability moon budget awful impact";
+var mnemonic = "cable sell faint piece lunar rebel young outdoor one maid evoke logic";

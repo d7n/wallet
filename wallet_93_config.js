@@ -1,1 +1,1 @@
-var mnemonic = "ensure state arch ignore biology kiss edge bring will liquid quality snap";
+var mnemonic = "vendor genius pull canoe end crush order chalk enable trash glance lion";

@@ -1,1 +1,1 @@
-var mnemonic = "brown alarm giggle talk blur extra drop stage acquire ketchup box input";
+var mnemonic = "attack dawn roast pumpkin width cage pioneer talent scout jazz common donor";

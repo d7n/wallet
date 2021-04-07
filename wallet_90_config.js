@@ -1,1 +1,1 @@
-var mnemonic = "fury execute lesson night copy devote pulp learn various pave flat when";
+var mnemonic = "output ridge olive myth glimpse gadget finger just pistol pig spoil canyon";

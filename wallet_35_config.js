@@ -1,1 +1,1 @@
-var mnemonic = "winner gossip borrow gather pluck van uphold street kitchen adult essay chat";
+var mnemonic = "acid rely alley harvest wolf right squeeze clock never oil exhaust giggle";

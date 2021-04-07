@@ -1,1 +1,1 @@
-var mnemonic = "mule great inject boost cinnamon purpose scout quiz inch nuclear orbit slab";
+var mnemonic = "special problem laundry glove cabbage west fury waste either glide fault rotate";

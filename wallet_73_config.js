@@ -1,1 +1,1 @@
-var mnemonic = "blossom brass hollow expire middle aware wave replace utility net hammer coyote";
+var mnemonic = "gentle castle donor attitude pupil test canvas casino fun gadget hat cereal";

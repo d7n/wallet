@@ -1,1 +1,1 @@
-var mnemonic = "essence edge tiny run lottery island bottom calm unique zero feed either";
+var mnemonic = "attitude pause rally unfold surround stove fence main helmet final guard fiction";

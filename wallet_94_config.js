@@ -1,1 +1,1 @@
-var mnemonic = "hunt alpha hill sample girl casino jacket best review process process theme";
+var mnemonic = "marriage slide renew across cabbage pull camp salute myth drip recall topple";

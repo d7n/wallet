@@ -1,1 +1,1 @@
-var mnemonic = "video forest video uphold view eight rebel effort runway kitten thunder warrior";
+var mnemonic = "undo pink cargo cake spell ozone link camp dismiss rough antenna mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "purity access buyer smile void term huge calm stick chunk cargo illegal";
+var mnemonic = "conduct sunset spray lyrics state discover same tourist fantasy fence output deal";

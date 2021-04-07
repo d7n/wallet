@@ -1,1 +1,1 @@
-var mnemonic = "echo sister bottom ready chair share adult limb excite card calm few";
+var mnemonic = "settle sniff roof nurse feed volcano thunder quality ketchup slim true scrub";

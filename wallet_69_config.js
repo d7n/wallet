@@ -1,1 +1,1 @@
-var mnemonic = "pond donkey size puzzle purpose subject rain unknown soup amused spend retreat";
+var mnemonic = "magic drive off north slow list critic cool burger ginger cup notice";

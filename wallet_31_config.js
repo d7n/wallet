@@ -1,1 +1,1 @@
-var mnemonic = "feed wedding hurry business shiver lecture arrow layer sister crop uniform face";
+var mnemonic = "company upon elbow huge novel size motion push alpha cream fruit radar";

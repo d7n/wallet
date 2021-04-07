@@ -1,1 +1,1 @@
-var mnemonic = "blood dice loop bronze wolf essay family hotel road absorb observe scout";
+var mnemonic = "post radio wolf gadget shock cross direct plug roof gadget joy universe";

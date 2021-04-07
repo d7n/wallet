@@ -1,1 +1,1 @@
-var mnemonic = "sell amazing wire curve analyst grow license silent orient decrease gentle swim";
+var mnemonic = "drift famous proud plug tomato service captain liberty lumber miracle phone laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom pistol tooth list dish polar shove april day volume modify arctic";
+var mnemonic = "expose man cash peace coast solar verb season little view judge gas";

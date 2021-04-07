@@ -1,1 +1,1 @@
-var mnemonic = "whale occur mesh inside town saddle attack only uniform clarify riot endless";
+var mnemonic = "traffic quarter sustain gallery flush math viable float success vapor stable woman";

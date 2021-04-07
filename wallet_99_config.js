@@ -1,1 +1,1 @@
-var mnemonic = "machine siren bid catch toss whale summer direct frozen problem bacon stable";
+var mnemonic = "feel isolate enemy hurt replace gain area south sick spread suggest fancy";

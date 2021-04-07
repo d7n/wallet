@@ -1,1 +1,1 @@
-var mnemonic = "job grant spice monster safe galaxy fire wall original table swap shrug";
+var mnemonic = "patch now seat toe peasant shell old scorpion mimic embrace depart sheriff";

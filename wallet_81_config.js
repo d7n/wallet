@@ -1,1 +1,1 @@
-var mnemonic = "fossil lecture express memory this renew brief beauty cause guilt tiger curious";
+var mnemonic = "false tuna clap shoot keen another say retire bus price purchase shed";

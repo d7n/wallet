@@ -1,1 +1,1 @@
-var mnemonic = "spy broccoli there demise hold obvious clever onion save enemy seat catch";
+var mnemonic = "quit turtle empty old borrow void drop spray hamster spray receive find";

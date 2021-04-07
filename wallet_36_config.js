@@ -1,1 +1,1 @@
-var mnemonic = "clap ghost alien runway need region forum cross weather impulse salmon hospital";
+var mnemonic = "castle refuse question vendor enemy equip stand spoon boring demand ice recall";

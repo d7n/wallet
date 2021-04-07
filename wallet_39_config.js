@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog brave resource federal fatigue object arrange wool nephew rocket speak advice";
+var mnemonic = "school ignore across fame bright supply delay zoo wrong absorb shaft enable";

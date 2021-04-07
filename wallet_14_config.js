@@ -1,1 +1,1 @@
-var mnemonic = "window elegant icon horse cigar outer twist fun hollow artwork kiwi deposit";
+var mnemonic = "cousin foster inmate world wet chest screen inhale inject gun oppose bachelor";

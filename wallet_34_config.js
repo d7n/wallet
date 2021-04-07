@@ -1,1 +1,1 @@
-var mnemonic = "receive speed doll vast rail proud cradle before million possible jaguar attack";
+var mnemonic = "wire ask favorite scout ticket material harvest decade human father elegant hover";

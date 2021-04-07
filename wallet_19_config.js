@@ -1,1 +1,1 @@
-var mnemonic = "party already brick ask exhaust script asthma social quarter picture square foster";
+var mnemonic = "artwork gentle join permit moral stage sail tribe safe sand sauce autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy pelican just crater zoo truck gun deposit catalog stumble junk pill";
+var mnemonic = "cash census will machine faith friend assume hunt exhaust catch foil clever";

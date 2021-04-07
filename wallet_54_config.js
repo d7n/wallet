@@ -1,1 +1,1 @@
-var mnemonic = "lemon balance inform movie song sphere pulp glare lift where seminar noble";
+var mnemonic = "icon bottom person lucky letter wisdom frequent aim wet route bar toilet";
