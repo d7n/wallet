@@ -1,1 +1,1 @@
-var mnemonic = "cabin robot weapon slogan pear rude chief food clown country journey point";
+var mnemonic = "suggest veteran path vital curtain subject prepare favorite spend stay fringe hip";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden pigeon candy apple enhance ten valid spray dust siren swing quality";
+var mnemonic = "minor pretty purchase decide fox hidden stereo garment inspire wrap soldier decline";

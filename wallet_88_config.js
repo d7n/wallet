@@ -1,1 +1,1 @@
-var mnemonic = "banana tip immense unfold joy blanket magic execute ready latin judge tiger";
+var mnemonic = "assist summer attract aware remember shell where vacuum coffee all mechanic wear";

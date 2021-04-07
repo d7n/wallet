@@ -1,1 +1,1 @@
-var mnemonic = "link wrestle fine essence cake insane front badge code witness adapt close";
+var mnemonic = "pulp injury deputy novel model zoo timber swift grunt call comfort property";

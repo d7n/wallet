@@ -1,1 +1,1 @@
-var mnemonic = "mansion enable effort draw donate during love cousin degree beyond embody dumb";
+var mnemonic = "narrow eyebrow flip pencil abuse choose awesome shoot sing lucky modify wide";

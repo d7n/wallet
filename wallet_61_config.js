@@ -1,1 +1,1 @@
-var mnemonic = "battle citizen uncover utility denial inherit cliff annual clean royal century upon";
+var mnemonic = "muscle camera peace soda rotate ice feel swamp danger wire bulb pulp";

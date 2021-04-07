@@ -1,1 +1,1 @@
-var mnemonic = "mobile clerk fringe sleep often slot palace sibling style cannon forum sword";
+var mnemonic = "basic divide palm raise call powder name mandate actor image coyote company";

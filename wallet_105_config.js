@@ -1,1 +1,1 @@
-var mnemonic = "toe noble bind option never garage rifle blossom pear orchard sun tone";
+var mnemonic = "envelope deposit skirt dust luxury close quarter oxygen claim verb discover hawk";

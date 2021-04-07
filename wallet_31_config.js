@@ -1,1 +1,1 @@
-var mnemonic = "fun rose easily hint loud supreme staff duck child club fall shine";
+var mnemonic = "enough tumble lottery hold sorry access moral fame toward powder beach kitten";

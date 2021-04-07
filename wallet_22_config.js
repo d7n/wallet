@@ -1,1 +1,1 @@
-var mnemonic = "salad grief copy sport relief gather leopard title warrior coral slab soup";
+var mnemonic = "crisp relax ask fortune lunch teach idea office grass supreme machine false";

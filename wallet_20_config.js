@@ -1,1 +1,1 @@
-var mnemonic = "clock surge appear picnic crystal island vocal tag nerve lake rapid affair";
+var mnemonic = "eagle shoot kiwi begin senior hello build panda find that hen mango";

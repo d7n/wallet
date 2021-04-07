@@ -1,1 +1,1 @@
-var mnemonic = "nice cycle cruise post reveal custom vault trouble fog affair appear hard";
+var mnemonic = "steel network shop provide flag vacuum swarm bike borrow dove pink test";

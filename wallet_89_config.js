@@ -1,1 +1,1 @@
-var mnemonic = "margin example boat scene oak collect lazy child clever blame surprise neither";
+var mnemonic = "reveal position wagon student globe abuse issue tip easy hero pitch stone";

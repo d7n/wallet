@@ -1,1 +1,1 @@
-var mnemonic = "often coach hurry cannon law plate way sphere quantum horror unique discover";
+var mnemonic = "tray citizen myth margin crash smooth unveil pencil merit brown pizza spot";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver embrace shift current approve tongue brief error boy art outside clock";
+var mnemonic = "elder warrior twin aim marine panda ring tray monitor jar chicken welcome";

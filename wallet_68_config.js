@@ -1,1 +1,1 @@
-var mnemonic = "sun glare hidden around post inner solar equip nominee casual upgrade elite";
+var mnemonic = "empty then teach afford margin focus essence modify genuine bright arena flower";

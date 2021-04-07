@@ -1,1 +1,1 @@
-var mnemonic = "fun episode vintage renew easily mirror analyst vapor twelve voyage peace fury";
+var mnemonic = "gift gain steak main intact motion portion burden liar spy cook neglect";

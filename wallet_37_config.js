@@ -1,1 +1,1 @@
-var mnemonic = "inject point miss element flock derive left mistake couple motor race private";
+var mnemonic = "horror winner betray circle glory faint core civil session laugh junior tape";

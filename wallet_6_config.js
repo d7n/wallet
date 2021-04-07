@@ -1,1 +1,1 @@
-var mnemonic = "flat snack tackle broom country believe load guide lady turn city resource";
+var mnemonic = "exchange wave liar idle begin yard paper own crash jeans rescue fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "negative magic once level damp damage garden fossil planet cart proof noise";
+var mnemonic = "winner piano drastic orphan blue will labor provide sick buzz dumb balance";

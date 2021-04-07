@@ -1,1 +1,1 @@
-var mnemonic = "buddy sudden rough century curve decline fashion image castle kiss able seven";
+var mnemonic = "innocent miracle maple test goat predict talk general eight attract rival inner";

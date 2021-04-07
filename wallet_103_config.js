@@ -1,1 +1,1 @@
-var mnemonic = "travel pole strike bread relief elder increase pluck clog album split sauce";
+var mnemonic = "about ball scheme thought august imitate rabbit inherit surround orange drum boat";

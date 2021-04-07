@@ -1,1 +1,1 @@
-var mnemonic = "share board gesture festival face answer output bicycle oblige giggle weasel turtle";
+var mnemonic = "cream cloth fruit powder result panic since depth dutch early consider daring";

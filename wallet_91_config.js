@@ -1,1 +1,1 @@
-var mnemonic = "female lens sand shed stuff walnut route scout apple slow cloth purse";
+var mnemonic = "voice suspect protect possible sign chest evil estate online buzz raven mandate";

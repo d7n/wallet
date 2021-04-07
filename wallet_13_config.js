@@ -1,1 +1,1 @@
-var mnemonic = "cloth stone soft roof genuine aim between summer travel knife basic provide";
+var mnemonic = "oppose chef will bullet act logic replace easy immune number sail crumble";

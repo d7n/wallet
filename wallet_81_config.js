@@ -1,1 +1,1 @@
-var mnemonic = "example correct surround ancient fish vendor area venue direct lamp bundle forest";
+var mnemonic = "expose entry suit curious park curve whip bamboo eager ordinary culture reunion";

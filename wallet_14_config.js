@@ -1,1 +1,1 @@
-var mnemonic = "agree palace stem illness kick valid simple give sense elite forest ice";
+var mnemonic = "key hip slender since donor tortoise section canoe acid magnet raise knock";

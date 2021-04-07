@@ -1,1 +1,1 @@
-var mnemonic = "wasp flag corn just spider social shift enter marine pipe inner spatial";
+var mnemonic = "garbage key relief stuff inquiry carry lonely mother uncover track unable rate";

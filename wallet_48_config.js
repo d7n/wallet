@@ -1,1 +1,1 @@
-var mnemonic = "supply lake music slice ignore lumber truly calm country prosper subject orange";
+var mnemonic = "creek cruise sleep metal parade someone able plastic digital apart tourist come";

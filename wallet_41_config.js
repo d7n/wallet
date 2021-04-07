@@ -1,1 +1,1 @@
-var mnemonic = "tag stamp process surprise battle swing wage orbit foot fiber loyal shadow";
+var mnemonic = "adult night region copy transfer pupil around scrub grid buffalo stomach dumb";

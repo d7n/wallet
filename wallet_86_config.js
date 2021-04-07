@@ -1,1 +1,1 @@
-var mnemonic = "resource clown lucky december funny tennis butter alien crucial bean mail medal";
+var mnemonic = "impose vault brick legend logic will hat another window okay clump virtual";

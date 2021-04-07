@@ -1,1 +1,1 @@
-var mnemonic = "vacuum kitten clay tourist ship attack gain enough tell typical person lemon";
+var mnemonic = "much simple tree strike drop stomach material void level memory fun below";

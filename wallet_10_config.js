@@ -1,1 +1,1 @@
-var mnemonic = "response cancel ensure crush coconut nature purity wheat panther today soldier sphere";
+var mnemonic = "pistol media tragic thumb vanish turkey knife luggage alert theory assault rhythm";

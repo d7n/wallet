@@ -1,1 +1,1 @@
-var mnemonic = "interest cover wealth cabin close card castle maid glue loud lab lucky";
+var mnemonic = "valve steel manual dinosaur battle laundry effort famous clutch before simple cross";

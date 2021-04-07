@@ -1,1 +1,1 @@
-var mnemonic = "foam tragic service myth soda inside couple antenna team start razor another";
+var mnemonic = "zebra wish wreck scene awesome brave feed govern barely wagon kiwi always";

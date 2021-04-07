@@ -1,1 +1,1 @@
-var mnemonic = "picnic mail entire inspire come grass undo drill tilt antenna current silver";
+var mnemonic = "patrol prepare punch utility vast multiply rally dice lunar chaos cram concert";

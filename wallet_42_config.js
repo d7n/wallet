@@ -1,1 +1,1 @@
-var mnemonic = "can uncover increase lounge spatial pig word engine mountain mushroom window labor";
+var mnemonic = "bachelor nose boy spot naive hill afford attack shock relief recipe type";

@@ -1,1 +1,1 @@
-var mnemonic = "alone alpha brother whale used income deer order sponsor nut trap bring";
+var mnemonic = "unveil virtual brush inmate flush climb broom aim waste predict stay nation";

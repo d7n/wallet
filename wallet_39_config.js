@@ -1,1 +1,1 @@
-var mnemonic = "prevent cannon frown receive envelope wink tissue mammal employ shaft light industry";
+var mnemonic = "employ next release tooth brass snack bunker neither engine next frog night";

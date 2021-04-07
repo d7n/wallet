@@ -1,1 +1,1 @@
-var mnemonic = "glare swamp couple yellow flight afford uncle master frown web electric include";
+var mnemonic = "paper push latin visa dust symbol attract like leg fruit latin crop";

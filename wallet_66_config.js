@@ -1,1 +1,1 @@
-var mnemonic = "kingdom claw vintage steak scale human attract believe swear size debris engine";
+var mnemonic = "secret dragon elbow pottery enforce coil strike dog ranch grass smoke camera";

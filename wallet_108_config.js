@@ -1,1 +1,1 @@
-var mnemonic = "decade wait regular fan tortoise table unveil matter level slim initial ankle";
+var mnemonic = "right slogan sting mention once image essay fresh host federal swarm hunt";

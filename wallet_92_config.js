@@ -1,1 +1,1 @@
-var mnemonic = "expire jazz blast clown polar favorite undo vendor tail cart wool session";
+var mnemonic = "rack cause length salad car kit point absurd mosquito direct dose jewel";

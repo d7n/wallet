@@ -1,1 +1,1 @@
-var mnemonic = "reason field october quality remember scheme borrow toilet couple naive pulp lunar";
+var mnemonic = "trim club can vote attack climb cloth marble journey clarify ancient fit";

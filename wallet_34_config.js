@@ -1,1 +1,1 @@
-var mnemonic = "index body kit profit gather since palm tent surge brick genius file";
+var mnemonic = "rough month become pause earn enhance cupboard nasty salad attack trip nominee";

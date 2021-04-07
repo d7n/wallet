@@ -1,1 +1,1 @@
-var mnemonic = "velvet multiply field wine select trouble drift force honey metal knock feed";
+var mnemonic = "marine banner concert glow shine illegal normal steel soon ensure exclude hello";

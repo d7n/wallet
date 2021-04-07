@@ -1,1 +1,1 @@
-var mnemonic = "story shrug employ injury attract wash hungry seminar ten horn later love";
+var mnemonic = "anxiety tool eight awful sister shuffle host element rural you gas breeze";

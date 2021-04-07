@@ -1,1 +1,1 @@
-var mnemonic = "favorite pelican blast code unable lawsuit sword moon rack noodle crunch neglect";
+var mnemonic = "trap supreme ribbon song swift diesel few spoon angry swap believe silk";

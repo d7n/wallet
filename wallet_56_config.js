@@ -1,1 +1,1 @@
-var mnemonic = "typical cricket tag analyst sing nature escape since nation calm wedding since";
+var mnemonic = "pencil together risk wet crisp humble travel dutch holiday elephant improve once";

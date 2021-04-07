@@ -1,1 +1,1 @@
-var mnemonic = "belt burst minor phrase snack bullet bid clarify during soul monitor lecture";
+var mnemonic = "north vanish swim envelope parrot earth appear unaware modify laptop believe hotel";

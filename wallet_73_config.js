@@ -1,1 +1,1 @@
-var mnemonic = "basket wine whale forget slide drip slight bring old assault circle cool";
+var mnemonic = "off category couple cabin doctor square mother genius type boss joy author";

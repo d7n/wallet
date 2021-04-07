@@ -1,1 +1,1 @@
-var mnemonic = "gadget obvious order ball corn display option wood explain bone turn stable";
+var mnemonic = "deliver siege climb pair voice note render axis find tilt pig promote";

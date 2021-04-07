@@ -1,1 +1,1 @@
-var mnemonic = "tiger evidence talent offer solid armor velvet annual build theory slush cabbage";
+var mnemonic = "smoke charge cliff once crush sign kidney round ethics candy total tunnel";

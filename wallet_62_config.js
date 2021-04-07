@@ -1,1 +1,1 @@
-var mnemonic = "broom illegal betray rapid exotic method distance pave original picture sustain rule";
+var mnemonic = "ivory endless disagree define movie tank place cluster mirror heavy lumber uniform";

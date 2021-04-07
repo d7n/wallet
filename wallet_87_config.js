@@ -1,1 +1,1 @@
-var mnemonic = "ugly puzzle guilt mean purpose movie donor rib skirt wrist select release";
+var mnemonic = "electric wrist history guide pig media leaf trophy print patient acoustic avoid";

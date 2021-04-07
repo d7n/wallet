@@ -1,1 +1,1 @@
-var mnemonic = "bike capable siege curtain empower blade exchange column egg door deposit rescue";
+var mnemonic = "item feed stadium disease cheese sadness curve brand olive radar one undo";

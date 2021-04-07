@@ -1,1 +1,1 @@
-var mnemonic = "brother eternal cradle bench afraid grace will erase spike hollow aspect figure";
+var mnemonic = "inch wave orchard thought ivory balcony absurd wrap cotton volume wide cage";

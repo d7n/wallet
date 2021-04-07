@@ -1,1 +1,1 @@
-var mnemonic = "gas crime decide ask cram ready climb hub inherit custom rent sibling";
+var mnemonic = "wave stadium cloth unfold frown rate sword boat kangaroo note palm excite";

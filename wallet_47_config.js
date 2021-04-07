@@ -1,1 +1,1 @@
-var mnemonic = "husband museum attend analyst angry clarify syrup lonely initial account close gloom";
+var mnemonic = "now solid crumble alpha auction purpose tongue federal angry intact face census";

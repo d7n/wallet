@@ -1,1 +1,1 @@
-var mnemonic = "tonight luggage refuse term film satisfy obtain ball rhythm shove infant quarter";
+var mnemonic = "whisper coffee smoke couple mail rate exact kiwi grab man pluck senior";

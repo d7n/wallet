@@ -1,1 +1,1 @@
-var mnemonic = "toward raccoon width exhaust yellow art lab glad donkey vibrant fashion reform";
+var mnemonic = "expand genre rigid spell include identify behind biology tail typical soda stereo";

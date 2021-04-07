@@ -1,1 +1,1 @@
-var mnemonic = "parrot card heavy equip funny first close mosquito gaze material flower pledge";
+var mnemonic = "cotton diet recipe suspect inform feed chaos sibling scatter blame harvest blush";

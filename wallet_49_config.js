@@ -1,1 +1,1 @@
-var mnemonic = "together act penalty broccoli vendor crane song agree property conduct unfold iron";
+var mnemonic = "rocket run shoulder firm glimpse special decide fetch skill image employ already";

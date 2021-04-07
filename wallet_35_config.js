@@ -1,1 +1,1 @@
-var mnemonic = "liquid govern enlist film rain crouch fashion satisfy spring camera glue leisure";
+var mnemonic = "leave funny guard verify universe level jealous copper they glare another valley";

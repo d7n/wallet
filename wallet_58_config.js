@@ -1,1 +1,1 @@
-var mnemonic = "when rescue census outdoor uniform cram task portion depth catalog hat engine";
+var mnemonic = "use order faith leaf erase initial birth pupil cheese benefit opera elite";

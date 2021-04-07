@@ -1,1 +1,1 @@
-var mnemonic = "glove pass ramp position left opera verify member cover case scissors sibling";
+var mnemonic = "involve month truck kitchen prison outer verify vehicle hockey segment shine become";

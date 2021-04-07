@@ -1,1 +1,1 @@
-var mnemonic = "horror crop amused rely transfer swift wish make behave panel silly dutch";
+var mnemonic = "timber monkey report scrap organ mom split april hazard critic galaxy fever";

@@ -1,1 +1,1 @@
-var mnemonic = "guide scrub impose siren pupil major tackle melody easy brisk loyal ring";
+var mnemonic = "forget include path butter foam fold path industry toddler march hover guard";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck agent lucky around organ property minor session base glass ceiling emotion";
+var mnemonic = "cup mango method impulse wealth vivid myself laptop glare monitor absent crane";

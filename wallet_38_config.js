@@ -1,1 +1,1 @@
-var mnemonic = "sport endorse drill noble draft sort coin size sister select anchor mushroom";
+var mnemonic = "laugh manage tiger please depend deer giraffe sorry other frequent silly lamp";

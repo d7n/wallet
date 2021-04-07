@@ -1,1 +1,1 @@
-var mnemonic = "forward divorce double pen case enter correct vacant help stone thunder chronic";
+var mnemonic = "carry zone mango fault tell private misery rib fee forget protect draw";

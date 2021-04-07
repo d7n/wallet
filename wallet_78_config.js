@@ -1,1 +1,1 @@
-var mnemonic = "awake enemy vacuum hedgehog purpose bomb palace fever obvious animal inquiry seat";
+var mnemonic = "chest desert position blast recipe breeze axis cupboard scene core intact sail";

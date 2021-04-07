@@ -1,1 +1,1 @@
-var mnemonic = "guard enroll grape before wealth sun run sport escape paddle coconut wage";
+var mnemonic = "letter enhance security injury six baby wire spike must casual cradle copy";

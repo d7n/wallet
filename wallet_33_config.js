@@ -1,1 +1,1 @@
-var mnemonic = "fog faint chimney access permit dwarf fork great gain screen response injury";
+var mnemonic = "dance frequent point napkin blossom agree peasant laugh ticket congress erode unique";

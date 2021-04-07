@@ -1,1 +1,1 @@
-var mnemonic = "market dance screen parent require lonely blame doll cool chicken fancy all";
+var mnemonic = "pulp alter spend liquid treat broken scissors chronic differ abuse shallow program";

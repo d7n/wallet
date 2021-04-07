@@ -1,1 +1,1 @@
-var mnemonic = "absent supreme menu cradle cry sea lens carbon bicycle device general feel";
+var mnemonic = "provide mirror finish garage frown hard frozen impose tank that addict absorb";

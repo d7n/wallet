@@ -1,1 +1,1 @@
-var mnemonic = "glare radio table portion desert remember duck nature buffalo quote share position";
+var mnemonic = "rough boil adapt chunk carbon ghost dilemma discover where bus damp middle";

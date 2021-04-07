@@ -1,1 +1,1 @@
-var mnemonic = "three diesel snap unlock crumble pulse test draft distance rescue half produce";
+var mnemonic = "couch select sing motor umbrella often memory river retreat home stamp follow";

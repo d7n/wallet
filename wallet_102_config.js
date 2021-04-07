@@ -1,1 +1,1 @@
-var mnemonic = "spot replace impulse clutch tortoise column divorce badge crush coil place ocean";
+var mnemonic = "armed sword ketchup very gorilla pupil tiny effort mix valid enforce hammer";

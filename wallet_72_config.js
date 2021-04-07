@@ -1,1 +1,1 @@
-var mnemonic = "empty absorb brick trigger case matrix summer order eternal lady vapor icon";
+var mnemonic = "wall myth wide illegal soft avocado mammal auction dutch lawsuit mammal approve";

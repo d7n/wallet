@@ -1,1 +1,1 @@
-var mnemonic = "equal grace another invest cactus wheat average fury labor float hundred drum";
+var mnemonic = "success cabbage glow unveil work twice wasp pulp ranch donor wheel endless";

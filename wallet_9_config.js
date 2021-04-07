@@ -1,1 +1,1 @@
-var mnemonic = "scorpion ginger sting decrease crisp tumble region history train sure mixed toddler";
+var mnemonic = "train expect raw gaze aim crouch clutch damp coast town lemon actor";

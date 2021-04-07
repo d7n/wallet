@@ -1,1 +1,1 @@
-var mnemonic = "birth brick palm smile vanish digital identify bitter maximum circle token quote";
+var mnemonic = "good public gentle diesel execute forest mass razor resist list large gallery";

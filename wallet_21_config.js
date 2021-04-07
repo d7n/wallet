@@ -1,1 +1,1 @@
-var mnemonic = "lonely announce dial voyage imitate wise decorate arrest hood sure imitate daughter";
+var mnemonic = "harbor accident unable aspect hair hire melt spring copper luggage ice shoot";

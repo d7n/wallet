@@ -1,1 +1,1 @@
-var mnemonic = "issue maid two you loud skate food fringe shoe dentist public stock";
+var mnemonic = "only detail rent stuff run salon excuse present nasty exit october swift";

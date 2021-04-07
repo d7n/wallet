@@ -1,1 +1,1 @@
-var mnemonic = "doctor disease ridge media now enable jelly salad skull hard dirt swamp";
+var mnemonic = "camera ribbon raccoon cup tool flame label all near rich joy now";

@@ -1,1 +1,1 @@
-var mnemonic = "cover sample six ask business pumpkin weekend devote any box film invest";
+var mnemonic = "bid crumble panel side subway noble submit need sign endless alert regular";

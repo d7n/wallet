@@ -1,1 +1,1 @@
-var mnemonic = "fault soup moment meadow mix stock saddle glance session dad hand until";
+var mnemonic = "radio nuclear half maple group volume panda blade rhythm please story boost";

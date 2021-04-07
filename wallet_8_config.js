@@ -1,1 +1,1 @@
-var mnemonic = "foot beauty census mobile brave head credit police wash soon exhibit depth";
+var mnemonic = "team ensure two skin smoke random bundle drastic mix buddy quantum brass";

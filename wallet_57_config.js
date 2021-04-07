@@ -1,1 +1,1 @@
-var mnemonic = "car market rural main unveil pause aspect upon first below rifle rebuild";
+var mnemonic = "source robot gospel remove culture prefer believe target mass oblige drop edge";

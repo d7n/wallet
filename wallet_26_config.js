@@ -1,1 +1,1 @@
-var mnemonic = "plunge rice rib solution rural super pull case inhale load network modify";
+var mnemonic = "apology shoulder fence suffer various tuition frame reason foot property legal habit";

@@ -1,1 +1,1 @@
-var mnemonic = "best firm hockey large hello salute album shell gather photo unaware pilot";
+var mnemonic = "unaware sing galaxy category denial pepper stumble senior match stock clump tonight";
