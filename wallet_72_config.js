@@ -1,1 +1,1 @@
-var mnemonic = "web bulb current trim change misery hope rug canoe robot visa pave";
+var mnemonic = "frown trumpet bright car hip ritual bronze weird unique uphold prepare easy";

@@ -1,1 +1,1 @@
-var mnemonic = "code post sock update fat joke next idle retire claim pulse media";
+var mnemonic = "enough network repeat tuna initial velvet number hill fit fence disagree million";

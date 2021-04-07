@@ -1,1 +1,1 @@
-var mnemonic = "holiday finish water token miss gossip strategy board dirt cushion enable year";
+var mnemonic = "belt quick error between duck strike scan autumn host rich ginger february";

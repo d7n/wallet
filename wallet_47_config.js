@@ -1,1 +1,1 @@
-var mnemonic = "note chat winter together bundle emerge myself sketch result potato salon fly";
+var mnemonic = "lyrics fault sudden sword sphere toddler spy design gym figure thunder soccer";

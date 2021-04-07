@@ -1,1 +1,1 @@
-var mnemonic = "cart setup celery rug add cereal orphan print slab affair budget deal";
+var mnemonic = "enough gas guess wedding head orphan stadium grief much chalk trade raw";

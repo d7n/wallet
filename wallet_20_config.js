@@ -1,1 +1,1 @@
-var mnemonic = "doll admit convince excess brass popular object fire ivory learn wish ridge";
+var mnemonic = "proud moon tomorrow sniff usage chair elite start shy above ride ladder";

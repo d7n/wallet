@@ -1,1 +1,1 @@
-var mnemonic = "tackle blood match slender follow media rug harvest panel dog cram deer";
+var mnemonic = "find beauty spare crouch sand embrace please glare demise enforce throw earth";

@@ -1,1 +1,1 @@
-var mnemonic = "raise galaxy jar drill stool december music banana stage ill flower floor";
+var mnemonic = "little hunt input mirror wing holiday exact speak genuine inflict random endorse";

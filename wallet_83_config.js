@@ -1,1 +1,1 @@
-var mnemonic = "coral pattern judge silent rail differ vintage rabbit animal wait journey universe";
+var mnemonic = "park right mule depart face obscure romance host strike diary ridge sweet";

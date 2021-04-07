@@ -1,1 +1,1 @@
-var mnemonic = "scatter absurd party note sign poet science uphold message culture clip nut";
+var mnemonic = "inquiry tackle foam accuse flat ability curious marriage unit priority stumble core";

@@ -1,1 +1,1 @@
-var mnemonic = "you tail remind apart ethics year soul gather next room flag fresh";
+var mnemonic = "gospel fever pull seat what drop figure left cabbage firm opinion insane";

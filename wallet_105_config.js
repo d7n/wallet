@@ -1,1 +1,1 @@
-var mnemonic = "upset bargain rifle leader basket history drum unveil steel poverty punch sound";
+var mnemonic = "lecture oval lamp chase index oven elite balcony uniform wolf private paper";

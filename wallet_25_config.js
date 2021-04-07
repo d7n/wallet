@@ -1,1 +1,1 @@
-var mnemonic = "tray under shiver staff donkey laugh vocal vast common spoon develop life";
+var mnemonic = "swarm flower left hip situate will bachelor pilot call salad helmet afraid";

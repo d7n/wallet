@@ -1,1 +1,1 @@
-var mnemonic = "dune spirit target domain cool awesome forward exotic guess spot jelly payment";
+var mnemonic = "shoe recipe quiz brave sibling cushion eyebrow fine sell spell budget prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid assist erase motor profit cinnamon discover hip cream kitchen prison mention";
+var mnemonic = "wrist clog reunion earn excite ring course biology doll isolate arena churn";

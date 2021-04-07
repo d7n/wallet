@@ -1,1 +1,1 @@
-var mnemonic = "potato script double arrest left viable sign film melody lemon finger village";
+var mnemonic = "mirror clinic giraffe know cute clinic salon abandon waste number expire fork";

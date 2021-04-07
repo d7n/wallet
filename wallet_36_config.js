@@ -1,1 +1,1 @@
-var mnemonic = "have salon casino bonus gym gun indicate risk turkey garage dolphin rhythm";
+var mnemonic = "high act ridge security census glory main sail peanut hidden luxury belt";

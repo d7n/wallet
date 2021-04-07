@@ -1,1 +1,1 @@
-var mnemonic = "arrow drill popular column bar emerge fan fame bus fancy gym cruise";
+var mnemonic = "canvas quick cruel wool message input range pause polar transfer true deliver";

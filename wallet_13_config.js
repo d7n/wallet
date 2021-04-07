@@ -1,1 +1,1 @@
-var mnemonic = "fury useful federal will satoshi domain fox shoot pudding brand private split";
+var mnemonic = "butter public cram guard giant eternal funny help picnic infant identify jungle";

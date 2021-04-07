@@ -1,1 +1,1 @@
-var mnemonic = "never brisk rib asthma deal across leader wild child frog cement manage";
+var mnemonic = "wasp swift theme outdoor lyrics shrimp spice awake treat you parade improve";

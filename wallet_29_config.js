@@ -1,1 +1,1 @@
-var mnemonic = "federal miss wheel aerobic detect expand buzz eyebrow around tuition rail peanut";
+var mnemonic = "copy artist special gaze valve donor engine prefer clown distance wing wait";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent wasp whale rug envelope tongue ostrich under aspect deputy ignore alpha";
+var mnemonic = "clay sword outside fitness south vendor bronze step crime father lift crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "control drastic version ancient tissue globe exile country main increase annual dry";
+var mnemonic = "laptop often diet seed surprise cook push torch claim garbage wine dragon";

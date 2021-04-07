@@ -1,1 +1,1 @@
-var mnemonic = "park decide wire gown bubble human ecology meadow north crumble enforce view";
+var mnemonic = "receive grunt volcano business cram trim again gadget opinion trend observe talent";

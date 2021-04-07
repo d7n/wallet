@@ -1,1 +1,1 @@
-var mnemonic = "custom task oil minimum inch shadow exile trumpet fruit truth spell jacket";
+var mnemonic = "eager swing helmet swift drill mammal surge hover float inhale vote such";

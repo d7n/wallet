@@ -1,1 +1,1 @@
-var mnemonic = "negative sugar able laugh judge pen iron arm party tank curve toe";
+var mnemonic = "embrace film client valid draw enemy genius tide style worth emerge weather";

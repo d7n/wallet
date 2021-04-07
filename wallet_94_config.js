@@ -1,1 +1,1 @@
-var mnemonic = "spoon surround lion scheme possible parade heart cram language gaze crouch black";
+var mnemonic = "demand trick wonder recipe wink water feel fruit pencil reward travel soup";

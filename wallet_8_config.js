@@ -1,1 +1,1 @@
-var mnemonic = "tape gospel talk cause leader torch much kidney ice grace raven dolphin";
+var mnemonic = "lock false aspect conduct also winter unit false ranch green beef regular";

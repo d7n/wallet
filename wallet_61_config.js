@@ -1,1 +1,1 @@
-var mnemonic = "monkey shield frame dragon novel despair capital escape tenant history melt dutch";
+var mnemonic = "control ring wine cable ball list ask material fetch weird roof wear";

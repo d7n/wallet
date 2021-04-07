@@ -1,1 +1,1 @@
-var mnemonic = "olive citizen tenant diamond chase decorate volume endorse detail audit chimney awful";
+var mnemonic = "accident saddle enroll float return truck remember almost young ready calm mountain";

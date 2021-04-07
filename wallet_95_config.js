@@ -1,1 +1,1 @@
-var mnemonic = "awkward very shed wing arctic theme vital sheriff radio flip quick gloom";
+var mnemonic = "inspire peace museum report bar paddle cross junior purchase wheat endorse enhance";

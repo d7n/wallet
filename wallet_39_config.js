@@ -1,1 +1,1 @@
-var mnemonic = "ketchup civil narrow motion siren pulse february shrug guard stairs mule ask";
+var mnemonic = "knee topple crumble carbon poem proof lazy fork strong slab deer quick";

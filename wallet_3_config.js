@@ -1,1 +1,1 @@
-var mnemonic = "glass useful owner exile soccer crawl truly crawl either proud feel typical";
+var mnemonic = "box laundry quality oil fossil ridge avoid approve beyond habit soda utility";

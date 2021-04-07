@@ -1,1 +1,1 @@
-var mnemonic = "length budget build foam blur shrug glow uncover day wealth object merit";
+var mnemonic = "shine bamboo hint elite menu april ladder horse scene drip office average";

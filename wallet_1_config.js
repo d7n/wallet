@@ -1,1 +1,1 @@
-var mnemonic = "swallow tail skirt garage pig lecture drill bomb warrior phrase divide then";
+var mnemonic = "prison festival reduce physical hotel gym into typical ordinary boost suit shrug";

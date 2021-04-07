@@ -1,1 +1,1 @@
-var mnemonic = "guilt cradle toddler swap piece hope test crane earth resource ripple vivid";
+var mnemonic = "flag wheel episode diet truth forest clinic captain diagram witness eager silk";

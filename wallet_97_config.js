@@ -1,1 +1,1 @@
-var mnemonic = "ill trumpet jar equal roof trash holiday depth husband finish fat west";
+var mnemonic = "clip market local mother syrup hawk enjoy scrap kite spoil rally account";

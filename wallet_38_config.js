@@ -1,1 +1,1 @@
-var mnemonic = "cycle express ahead depth true belt vital success scene deny wheat quiz";
+var mnemonic = "dolphin legal midnight change chicken spare rabbit demise antenna auto upgrade soft";

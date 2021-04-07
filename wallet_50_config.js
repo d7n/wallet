@@ -1,1 +1,1 @@
-var mnemonic = "job palm margin peanut hello peace enlist laundry donkey trophy hungry wear";
+var mnemonic = "bargain eager wish pet addict rival spin over rate digital aisle rebuild";

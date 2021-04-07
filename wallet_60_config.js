@@ -1,1 +1,1 @@
-var mnemonic = "sock fiscal box neglect deposit tray design before coral stairs major arm";
+var mnemonic = "pigeon icon age cloth minute web spatial help upon hope wall increase";

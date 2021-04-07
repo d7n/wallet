@@ -1,1 +1,1 @@
-var mnemonic = "sick light quality autumn genre figure shaft oak blade leisure barely equip";
+var mnemonic = "program lyrics gold august blame pond over success vote unusual salon worth";

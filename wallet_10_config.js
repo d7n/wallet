@@ -1,1 +1,1 @@
-var mnemonic = "false dumb resource argue canyon region above pulp release flip mom core";
+var mnemonic = "memory flat throw clerk marble gorilla rack armed kitten agent advice number";

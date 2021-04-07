@@ -1,1 +1,1 @@
-var mnemonic = "climb sort walnut print detail prevent stock trade vessel act update rely";
+var mnemonic = "adjust entire mix wonder burden total like trick claw blood secret float";

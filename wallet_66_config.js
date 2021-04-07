@@ -1,1 +1,1 @@
-var mnemonic = "army photo mosquito story puzzle fence brave gather fitness shock chef mean";
+var mnemonic = "choose giant narrow build dwarf choose brand night oil boat shine prize";

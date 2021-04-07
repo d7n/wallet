@@ -1,1 +1,1 @@
-var mnemonic = "process scatter voyage worry double hollow noise tunnel powder network there favorite";
+var mnemonic = "retire census elder indicate dynamic fox wonder run eye detect hard problem";

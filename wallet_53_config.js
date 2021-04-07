@@ -1,1 +1,1 @@
-var mnemonic = "question future hybrid welcome human swear matter leaf purse visa slight orange";
+var mnemonic = "curious holiday transfer sheriff evolve scene hollow patient corn grant shift captain";

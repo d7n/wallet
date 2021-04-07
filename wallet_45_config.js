@@ -1,1 +1,1 @@
-var mnemonic = "wasp summer situate law sudden bid fatal either eager feed animal average";
+var mnemonic = "shrug debris knee marriage crash warm spike large disagree leave shed shop";

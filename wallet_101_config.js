@@ -1,1 +1,1 @@
-var mnemonic = "position muscle park visa wool announce betray name illegal critic fan slight";
+var mnemonic = "army attack number wheel treat strike category exotic crumble mistake detail youth";

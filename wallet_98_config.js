@@ -1,1 +1,1 @@
-var mnemonic = "super measure cool puzzle audit expand drop whale birth differ spatial truck";
+var mnemonic = "obvious quick large myth drop brush trade outer opinion reunion differ silent";

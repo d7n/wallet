@@ -1,1 +1,1 @@
-var mnemonic = "slam unfold later illegal author call fall coil retreat fossil select total";
+var mnemonic = "alcohol deny cherry midnight taste off cruel wave element select vibrant test";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle pole avocado produce dynamic turkey minimum mandate world cart wolf approve";
+var mnemonic = "bag pause orange method middle define occur victory ankle dumb wave section";

@@ -1,1 +1,1 @@
-var mnemonic = "student cage gesture report upon canal crush fury guard mouse forest jeans";
+var mnemonic = "burden flower cotton mutual wreck scene pool source subject gasp hood very";

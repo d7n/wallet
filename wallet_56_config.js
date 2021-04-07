@@ -1,1 +1,1 @@
-var mnemonic = "exercise anger aunt pizza habit orphan grocery globe forget miracle predict crazy";
+var mnemonic = "chimney have decide trial eight bomb salad flame pistol eagle foot erosion";

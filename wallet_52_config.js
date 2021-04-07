@@ -1,1 +1,1 @@
-var mnemonic = "lounge devote problem twist exotic analyst short chimney topple danger file wheat";
+var mnemonic = "hybrid tortoise topic decide cement glory asset minimum side hunt right earth";

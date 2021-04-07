@@ -1,1 +1,1 @@
-var mnemonic = "novel dignity fossil law gallery mercy alcohol crop library tissue physical cattle";
+var mnemonic = "hamster caught note nerve gift venue boss plastic pass autumn visual island";

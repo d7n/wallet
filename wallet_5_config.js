@@ -1,1 +1,1 @@
-var mnemonic = "portion corn buffalo over bread wash shoe bus found drum category say";
+var mnemonic = "vivid hurt explain inject foot dune entry neck wife alert tide dinner";

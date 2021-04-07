@@ -1,1 +1,1 @@
-var mnemonic = "scrap foster virus night estate gloom caught pilot earth slab bring issue";
+var mnemonic = "outside thank arm crack armed fatigue gentle stomach raw prepare foster usual";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic humor diagram puppy leopard manual bicycle awake radio cram unable dish";
+var mnemonic = "merge grape gesture squirrel injury journey nerve lake remind mechanic pool vote";

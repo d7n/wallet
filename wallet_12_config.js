@@ -1,1 +1,1 @@
-var mnemonic = "social twist dolphin speed lift require zebra wreck rare stadium luggage mail";
+var mnemonic = "ankle chief stage trick tooth easy mail comic code label tube barely";

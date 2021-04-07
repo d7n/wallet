@@ -1,1 +1,1 @@
-var mnemonic = "few member math swap trust peasant region pencil verb strong repeat analyst";
+var mnemonic = "beyond treat slow pair illegal people surprise credit armor buzz client thought";

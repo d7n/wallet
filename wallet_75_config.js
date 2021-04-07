@@ -1,1 +1,1 @@
-var mnemonic = "bird nerve silent junk stove assist name copy situate chimney host donkey";
+var mnemonic = "hungry start shuffle prize negative firm gate captain wrong require similar laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "room erupt toward month feel frost bottom virtual ticket obey crucial light";
+var mnemonic = "surprise climb media action fitness eye prosper subject struggle debate identify return";

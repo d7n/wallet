@@ -1,1 +1,1 @@
-var mnemonic = "rural artwork mouse march client resist turkey rabbit payment general together fashion";
+var mnemonic = "degree skill task front ostrich spider scrub usual unique loud quick harbor";

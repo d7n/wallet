@@ -1,1 +1,1 @@
-var mnemonic = "thought release olive consider ostrich favorite gloom abandon matter hockey steel return";
+var mnemonic = "approve mushroom diamond main faculty what slush magnet balcony prepare soldier zero";

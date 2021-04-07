@@ -1,1 +1,1 @@
-var mnemonic = "reveal gas topic gown enough also depth urban snake sting teach lava";
+var mnemonic = "path flat notable world kick bullet castle stage beef sketch zoo rent";

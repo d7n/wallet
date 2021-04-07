@@ -1,1 +1,1 @@
-var mnemonic = "input hockey economy cart inform behave easy public bundle gauge ginger october";
+var mnemonic = "small immune erosion during aerobic guilt birth weird monitor arctic post neck";

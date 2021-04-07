@@ -1,1 +1,1 @@
-var mnemonic = "now service clip basket burden square report gown palace where rookie survey";
+var mnemonic = "surface lend cart mail crumble harsh test maple capital rate slab fog";

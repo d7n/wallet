@@ -1,1 +1,1 @@
-var mnemonic = "combine spy ski impulse clean enlist worry state suspect dinosaur pulse chef";
+var mnemonic = "vapor oven cricket very short ship tribe home kingdom reveal point target";

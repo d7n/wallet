@@ -1,1 +1,1 @@
-var mnemonic = "kite basket cake rival virtual business ghost boss cheap clown caught fire";
+var mnemonic = "erosion shell verb clump equal jeans inquiry appear convince polar oven two";

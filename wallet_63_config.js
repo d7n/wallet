@@ -1,1 +1,1 @@
-var mnemonic = "inside save move mutual such raccoon rubber music deny fresh crazy gift";
+var mnemonic = "remember erupt sword fossil pilot include cabbage task gate fury shiver glance";

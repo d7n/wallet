@@ -1,1 +1,1 @@
-var mnemonic = "canvas hamster slab abstract horse possible price barrel penalty slow squeeze glance";
+var mnemonic = "kiwi school enforce favorite egg isolate zoo switch chest asset level diagram";

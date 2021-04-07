@@ -1,1 +1,1 @@
-var mnemonic = "gap begin august swim hill blind top eternal fat tongue noble side";
+var mnemonic = "omit emotion same embrace mind broom surface supply primary index east spring";

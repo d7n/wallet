@@ -1,1 +1,1 @@
-var mnemonic = "affair icon wreck beauty ceiling subway normal nuclear either across ceiling theme";
+var mnemonic = "judge pear jump card boy either purpose forward boil prepare mask increase";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel trumpet citizen subject stairs tray agree slice risk august actual ten";
+var mnemonic = "average door few what camera company road salon trust autumn play peace";

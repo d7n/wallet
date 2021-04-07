@@ -1,1 +1,1 @@
-var mnemonic = "father earn essay shed hawk hurry quote very knee tattoo dune steak";
+var mnemonic = "own sleep sad praise erase forest hawk enlist invite estate aware spider";

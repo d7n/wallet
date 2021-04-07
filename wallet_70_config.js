@@ -1,1 +1,1 @@
-var mnemonic = "burst seat video trophy hobby bicycle spoon surge boring story gather phone";
+var mnemonic = "oyster pattern clown rapid typical car stomach public badge mistake soul coffee";

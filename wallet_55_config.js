@@ -1,1 +1,1 @@
-var mnemonic = "chest motor ensure short web prize obtain filter minute subject creek smooth";
+var mnemonic = "reunion van pretty lucky upper fine people tank jar horse recall prison";

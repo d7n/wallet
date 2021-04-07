@@ -1,1 +1,1 @@
-var mnemonic = "congress town panther emerge category drastic swarm side robust dress snake token";
+var mnemonic = "shy evidence wing grocery motion other retire dolphin search hurt bar cart";

@@ -1,1 +1,1 @@
-var mnemonic = "snake exotic arctic present doll spawn excite visual empty lottery grief slow";
+var mnemonic = "future scheme calm zebra improve under swim swift injury rhythm fatal plug";

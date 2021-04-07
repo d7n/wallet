@@ -1,1 +1,1 @@
-var mnemonic = "comfort damp rain sense portion mechanic unknown sunny fancy rather daughter govern";
+var mnemonic = "scatter acquire grunt bird mouse weather sniff local ready loan film thank";

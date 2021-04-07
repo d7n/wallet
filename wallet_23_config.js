@@ -1,1 +1,1 @@
-var mnemonic = "broom toe volume public vibrant dust alone general shoulder soldier urban expand";
+var mnemonic = "brother labor rib surge joy shallow behind hazard circle special ethics machine";

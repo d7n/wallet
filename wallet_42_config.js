@@ -1,1 +1,1 @@
-var mnemonic = "edit they way arena match sister link rookie acid goose usage hub";
+var mnemonic = "canoe drop enroll coast slot joy remove board season chicken convince rug";

@@ -1,1 +1,1 @@
-var mnemonic = "empower squeeze glance exit clerk tomato trial champion dumb orchard net script";
+var mnemonic = "shield shrug spare trust vintage remind island drum save nerve write struggle";

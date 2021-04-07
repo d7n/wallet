@@ -1,1 +1,1 @@
-var mnemonic = "party toddler dad absorb scheme patch debate pipe arena quote govern unhappy";
+var mnemonic = "guitar crack school roof buffalo swallow inject autumn absurd humor brown damage";

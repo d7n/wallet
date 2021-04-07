@@ -1,1 +1,1 @@
-var mnemonic = "asset pet trip leopard north neck number arm federal dirt dry snake";
+var mnemonic = "inspire sun pen custom chuckle enable pottery lawsuit relief orchard coyote skirt";

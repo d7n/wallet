@@ -1,1 +1,1 @@
-var mnemonic = "argue unique tragic language lock head detect nothing barely shrimp embody gallery";
+var mnemonic = "unit purchase solar answer thought emotion giraffe view alcohol gadget clock maze";

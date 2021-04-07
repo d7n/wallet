@@ -1,1 +1,1 @@
-var mnemonic = "transfer barely nothing soap whisper fortune bracket that giggle make live anchor";
+var mnemonic = "cattle seed liberty loop marriage hat estate oxygen deal easily obtain fork";

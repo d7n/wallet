@@ -1,1 +1,1 @@
-var mnemonic = "icon cash bright orange truly renew captain ship idle pigeon shallow hybrid";
+var mnemonic = "pull grow hollow paper brown clutch wife web quiz concert elephant step";

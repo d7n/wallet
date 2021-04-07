@@ -1,1 +1,1 @@
-var mnemonic = "feel shift view dilemma victory lamp used lawsuit charge curtain rose insect";
+var mnemonic = "other wise elegant divorce doctor jump patrol jump blue enable hero stairs";

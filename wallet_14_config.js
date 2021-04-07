@@ -1,1 +1,1 @@
-var mnemonic = "fault pull pizza mom dial panic frog face camp praise manual diet";
+var mnemonic = "artefact moment pill side visit cluster glad gaze mail siren april vanish";
