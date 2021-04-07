@@ -1,1 +1,1 @@
-var mnemonic = "pepper trophy film great deputy pig surprise unusual lottery couch deputy music";
+var mnemonic = "visit exchange axis enemy vacuum summer sustain merry novel neck odor still";

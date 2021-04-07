@@ -1,1 +1,1 @@
-var mnemonic = "elite chapter hat blast insect name pilot shaft thumb mimic demand submit";
+var mnemonic = "forest napkin judge barely sunny clap address response scene screen harbor rude";

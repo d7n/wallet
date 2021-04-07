@@ -1,1 +1,1 @@
-var mnemonic = "lab siege float sudden fire any robot render ankle misery sweet large";
+var mnemonic = "hat author spread hero energy reason chapter draft elephant shed hawk price";

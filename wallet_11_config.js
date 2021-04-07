@@ -1,1 +1,1 @@
-var mnemonic = "exile auto until network skull empty true power gloom identify inquiry brisk";
+var mnemonic = "use true fatal column student creek issue medal domain include dress opera";

@@ -1,1 +1,1 @@
-var mnemonic = "reject thunder must inspire plug easy twenty devote ability faint inch farm";
+var mnemonic = "organ glimpse friend spawn glory train update diamond exclude secret layer spike";

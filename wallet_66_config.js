@@ -1,1 +1,1 @@
-var mnemonic = "frog aware awake dragon absorb matter spy supply grid blade swamp jar";
+var mnemonic = "upper urban work exact meat insect pumpkin clever lottery crisp dirt express";

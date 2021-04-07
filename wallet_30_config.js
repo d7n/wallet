@@ -1,1 +1,1 @@
-var mnemonic = "wonder unfold bulb walnut hammer blur farm phone garage special wall floor";
+var mnemonic = "radio scare supreme time dish bone bar evoke useless ship moment fossil";

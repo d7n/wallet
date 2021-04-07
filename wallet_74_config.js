@@ -1,1 +1,1 @@
-var mnemonic = "develop rent magnet like assist inside pulp corn pitch wait screen guess";
+var mnemonic = "stick cabbage cross rice ecology buyer cupboard prize profit owner define parrot";

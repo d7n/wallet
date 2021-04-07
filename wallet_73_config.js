@@ -1,1 +1,1 @@
-var mnemonic = "arrange future insane film kit rib horror produce clay stable fragile insect";
+var mnemonic = "bright actor radar betray mule element conduct sleep impact unable simple section";

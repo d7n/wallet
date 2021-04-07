@@ -1,1 +1,1 @@
-var mnemonic = "sight asthma virtual cage cherry crunch curve slot notice able grab sell";
+var mnemonic = "banner tool boring region problem rescue display fury broken frame crunch wave";

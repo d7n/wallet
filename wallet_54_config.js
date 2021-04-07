@@ -1,1 +1,1 @@
-var mnemonic = "distance bless bonus glad orbit snap alarm eager shift fix scissors monitor";
+var mnemonic = "style tooth mirror multiply fire social trophy love ahead truth wreck grit";

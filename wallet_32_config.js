@@ -1,1 +1,1 @@
-var mnemonic = "priority moon fish cart horror scorpion sniff twelve sword emerge target buzz";
+var mnemonic = "home sunny execute then forget lounge girl dismiss fitness cause coyote execute";

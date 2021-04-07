@@ -1,1 +1,1 @@
-var mnemonic = "uphold frown amount lemon grab fix guard explain satisfy fetch end grape";
+var mnemonic = "vast visa bottom abandon horse broom twelve addict attack special helmet funny";

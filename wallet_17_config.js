@@ -1,1 +1,1 @@
-var mnemonic = "decline repair weapon club claim monkey become butter slender robust coil surface";
+var mnemonic = "emerge repair unfair citizen rather sentence vanish edit quote rack minute scorpion";

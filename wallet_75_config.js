@@ -1,1 +1,1 @@
-var mnemonic = "mammal unknown race key depth relief square bid rebuild useful settle alter";
+var mnemonic = "bid scare label tissue cream giraffe plastic spy tail rotate quit dry";

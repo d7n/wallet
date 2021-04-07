@@ -1,1 +1,1 @@
-var mnemonic = "segment enter card meadow destroy maple absorb virus will bonus april glow";
+var mnemonic = "trip what prepare motor eye wrong hat calm open ahead soldier ill";

@@ -1,1 +1,1 @@
-var mnemonic = "science utility pear swift finish tilt source fine negative primary chuckle close";
+var mnemonic = "copper apology visit weekend border business gasp denial infant evidence stomach abandon";

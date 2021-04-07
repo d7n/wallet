@@ -1,1 +1,1 @@
-var mnemonic = "arrive coyote nothing dust exhaust tool citizen stage twelve swing puppy dumb";
+var mnemonic = "fat rough enemy absent weather meadow fan upper friend please seven material";

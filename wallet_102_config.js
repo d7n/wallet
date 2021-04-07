@@ -1,1 +1,1 @@
-var mnemonic = "time accuse fan scout helmet athlete pony vanish purse time punch choice";
+var mnemonic = "bless prefer frozen burden baby text swap speak syrup stadium autumn hurdle";

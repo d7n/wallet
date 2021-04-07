@@ -1,1 +1,1 @@
-var mnemonic = "chair fever phone fiber kitten sad wasp size dumb ask subject hour";
+var mnemonic = "ketchup motion burst output punch alert sun jewel oblige document egg disease";

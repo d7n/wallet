@@ -1,1 +1,1 @@
-var mnemonic = "jeans harvest elite snake puzzle build urge orchard grab ritual bonus crawl";
+var mnemonic = "pitch fiction unaware original avoid swamp essay budget dust shy grain dry";

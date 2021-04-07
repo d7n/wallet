@@ -1,1 +1,1 @@
-var mnemonic = "claw cross orchard sister move squirrel someone enable mercy absorb saddle spawn";
+var mnemonic = "spell pond vanish please game famous vanish civil fork twist security wall";

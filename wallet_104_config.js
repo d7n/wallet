@@ -1,1 +1,1 @@
-var mnemonic = "bone minute casual receive genius happy city supply patch test dance summer";
+var mnemonic = "ritual absent enough valve veteran tiny pyramid orchard season clock seven virtual";

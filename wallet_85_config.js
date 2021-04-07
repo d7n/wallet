@@ -1,1 +1,1 @@
-var mnemonic = "embrace weekend strong crucial globe rack can leave celery fiscal sheriff cruise";
+var mnemonic = "snack scale unable hollow point gap art tonight edge energy whisper fossil";

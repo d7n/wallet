@@ -1,1 +1,1 @@
-var mnemonic = "draft region task quiz multiply tissue enjoy noise output solve nose police";
+var mnemonic = "dwarf answer gesture because length trophy wave shoe stairs finger praise twelve";

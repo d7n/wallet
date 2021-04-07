@@ -1,1 +1,1 @@
-var mnemonic = "loyal seat clay lobster ramp slab conduct special tape icon toward mother";
+var mnemonic = "beach winter rack believe pigeon cloth orphan breeze mesh hawk size traffic";

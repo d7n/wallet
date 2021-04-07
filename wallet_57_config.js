@@ -1,1 +1,1 @@
-var mnemonic = "film only delay universe eyebrow lazy rigid saddle palm rigid lady doctor";
+var mnemonic = "expand frown decide mad advance wheat phrase cram lobster open model document";

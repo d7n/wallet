@@ -1,1 +1,1 @@
-var mnemonic = "stool install medal before board toy seed consider rotate problem candy decorate";
+var mnemonic = "cancel then burst park soap pottery humble tired decide imitate comic sphere";

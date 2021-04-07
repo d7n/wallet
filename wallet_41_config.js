@@ -1,1 +1,1 @@
-var mnemonic = "remove combine naive couch crush ribbon render like fox brisk they guitar";
+var mnemonic = "green ensure valley exclude unusual tip mail sad crucial slight exhibit hungry";

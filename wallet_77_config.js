@@ -1,1 +1,1 @@
-var mnemonic = "muffin hockey position envelope glove south fade lock boat rebel fault method";
+var mnemonic = "shoe bike neutral grit hybrid stand measure worth mimic chicken tired swap";

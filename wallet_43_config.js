@@ -1,1 +1,1 @@
-var mnemonic = "young clever swift height finger tube east thank man unique satoshi amateur";
+var mnemonic = "rocket umbrella vendor collect cheese beef winter festival buzz nominee book trial";

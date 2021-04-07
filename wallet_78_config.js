@@ -1,1 +1,1 @@
-var mnemonic = "rhythm lift airport robot bacon home envelope same decade vote climb thing";
+var mnemonic = "game group bean weasel sight paper profit client filter enlist road weapon";

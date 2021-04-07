@@ -1,1 +1,1 @@
-var mnemonic = "brick return rare actress affair arrange cruel lyrics draw logic kit chalk";
+var mnemonic = "swarm ladder slender salt machine remove member guard possible delay relax curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "master wink chaos trumpet receive about mixed addict glance wolf bulb utility";
+var mnemonic = "super key much fame convince rigid crawl actress piece noise camp soul";

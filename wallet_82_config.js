@@ -1,1 +1,1 @@
-var mnemonic = "inmate legend ten ladder soup gate guilt laundry minimum title program priority";
+var mnemonic = "tourist sting amateur slim bunker model minor manual mother slender resource bachelor";

@@ -1,1 +1,1 @@
-var mnemonic = "found loop race rifle ostrich oil fog ability purity amount draw night";
+var mnemonic = "push nurse rather cancel clump crash enact vapor hour picnic version vicious";

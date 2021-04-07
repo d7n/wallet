@@ -1,1 +1,1 @@
-var mnemonic = "blush plug female index solution vapor lumber sea peasant pledge victory pledge";
+var mnemonic = "fortune chef note clever gloom forest fancy swap same afford birth spy";

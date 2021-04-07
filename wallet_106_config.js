@@ -1,1 +1,1 @@
-var mnemonic = "tunnel sleep wagon cable wedding stereo quit gold afraid tuition robust believe";
+var mnemonic = "rent solution someone save join reflect sound nation baby broken exact lazy";

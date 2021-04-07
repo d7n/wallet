@@ -1,1 +1,1 @@
-var mnemonic = "analyst return soccer museum plate sight bulb disagree canvas quiz riot ghost";
+var mnemonic = "boost deposit east gasp ice south silver funny hurdle lock giraffe survey";

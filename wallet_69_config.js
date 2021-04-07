@@ -1,1 +1,1 @@
-var mnemonic = "fossil salute reform reopen primary alien rigid smooth leisure genre cigar symbol";
+var mnemonic = "firm uphold health pluck oxygen media citizen luxury reveal ride amused stomach";

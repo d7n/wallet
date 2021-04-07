@@ -1,1 +1,1 @@
-var mnemonic = "nose cupboard drum boil step short unit firm evidence slot nice fame";
+var mnemonic = "absorb unusual vintage citizen cup purchase release rail lumber flavor artefact palace";

@@ -1,1 +1,1 @@
-var mnemonic = "museum hope aspect bargain find knock peace lunar situate route crumble senior";
+var mnemonic = "describe blanket decline bacon slot shrimp aim burst program worth online actual";

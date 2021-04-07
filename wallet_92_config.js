@@ -1,1 +1,1 @@
-var mnemonic = "fence innocent secret absorb drive tell wife company diagram fragile prison render";
+var mnemonic = "dad install organ august embody grief rigid credit expire accident talk champion";

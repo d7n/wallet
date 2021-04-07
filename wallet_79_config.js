@@ -1,1 +1,1 @@
-var mnemonic = "mango fix cross swamp voyage provide three emotion vacant order rabbit brave";
+var mnemonic = "bag arrest all toast regular pudding pool summer weird please soda boss";

@@ -1,1 +1,1 @@
-var mnemonic = "pond special resource clown three true walk across impact hospital subway firm";
+var mnemonic = "lion display swift village beef talk suffer heart either clock fresh wrist";

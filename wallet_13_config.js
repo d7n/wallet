@@ -1,1 +1,1 @@
-var mnemonic = "section amused celery must knock flock half uniform age rely dial success";
+var mnemonic = "vicious exile refuse explain aspect shoulder aspect donkey ethics object pepper equip";

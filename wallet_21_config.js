@@ -1,1 +1,1 @@
-var mnemonic = "milk world fiscal primary toy supply myth actor common ethics rare ecology";
+var mnemonic = "onion govern enact since measure conduct couple hint diary seven screen decade";

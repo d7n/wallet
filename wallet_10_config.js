@@ -1,1 +1,1 @@
-var mnemonic = "auction stone fiscal nuclear define page flame lemon guide remain upon kangaroo";
+var mnemonic = "cupboard trigger endorse palm category manage oblige pitch blood burger belt soft";

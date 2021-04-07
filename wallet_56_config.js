@@ -1,1 +1,1 @@
-var mnemonic = "ball sample exclude isolate reason axis quality announce grit winner east potato";
+var mnemonic = "hurt coffee stock rather october humble poet galaxy slab sibling section shrug";

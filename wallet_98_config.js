@@ -1,1 +1,1 @@
-var mnemonic = "steak comic love drop panda great sorry afraid spider clock ethics crucial";
+var mnemonic = "manage depth duck step april silly ugly annual destroy blur stove surround";

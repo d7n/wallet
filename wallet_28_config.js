@@ -1,1 +1,1 @@
-var mnemonic = "eager distance safe regular release approve concert guard sunset puppy purpose city";
+var mnemonic = "master express shield use nurse quit load special tornado girl cabbage dismiss";

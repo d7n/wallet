@@ -1,1 +1,1 @@
-var mnemonic = "couple gesture wild section artist novel fade snack lunch regret test pitch";
+var mnemonic = "evoke biology silent end aunt remind uncover relax image immune mirror acquire";

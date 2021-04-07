@@ -1,1 +1,1 @@
-var mnemonic = "unknown print heavy spot remove cover drill mix agree cement sentence rebel";
+var mnemonic = "entire melt clinic crack mom engage number decade cargo physical speak clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "similar document certain breeze stone insect kiwi vapor clutch spice olive butter";
+var mnemonic = "slender rich maple beach maid dumb north tongue camp number topic tuna";

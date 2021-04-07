@@ -1,1 +1,1 @@
-var mnemonic = "custom tissue recipe cigar lion sheriff hotel reunion source satisfy side razor";
+var mnemonic = "romance kiwi seat square guess bamboo high pigeon catch anchor rally fat";

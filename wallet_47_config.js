@@ -1,1 +1,1 @@
-var mnemonic = "audit maximum badge little agree source hope engine accident time thought decide";
+var mnemonic = "ankle hotel talent solve bubble assume toddler error eyebrow debris harvest reflect";

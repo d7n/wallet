@@ -1,1 +1,1 @@
-var mnemonic = "cousin accident roast material move else exotic company liquid crush maid staff";
+var mnemonic = "vicious quote front nurse rent version balance glare coconut give review usual";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle also render giggle whisper grid scrap recall wreck cluster mask protect";
+var mnemonic = "viable engage bleak slice model caution inmate fluid run tunnel raise caution";

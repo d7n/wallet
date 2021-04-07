@@ -1,1 +1,1 @@
-var mnemonic = "switch wish ball unveil chef hurry zebra dynamic knock rent name size";
+var mnemonic = "position inject size primary address embark badge give impact girl border above";

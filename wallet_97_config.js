@@ -1,1 +1,1 @@
-var mnemonic = "special valve sea clutch search narrow tribe patch brush buzz mule achieve";
+var mnemonic = "physical bind knock speak foam pill virus tip melody bid bean sauce";

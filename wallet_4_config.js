@@ -1,1 +1,1 @@
-var mnemonic = "feel dentist tilt seat round alert shove afford arrange coyote suggest theory";
+var mnemonic = "exist release opinion replace until ripple prosper method gap walk glad vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "knee cinnamon sugar false fix report poet valid strike trade aspect jacket";
+var mnemonic = "grain crunch crawl correct real symptom mystery animal simple awake flight enroll";

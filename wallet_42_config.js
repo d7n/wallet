@@ -1,1 +1,1 @@
-var mnemonic = "viable buzz volcano example arm aspect science buzz brand orange column will";
+var mnemonic = "book rude correct absorb update bunker captain drip symbol identify grape blood";

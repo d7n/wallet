@@ -1,1 +1,1 @@
-var mnemonic = "escape sight cute staff forget song foot time provide utility drip magic";
+var mnemonic = "tortoise motion bid half pyramid idea install improve dentist aim future crawl";

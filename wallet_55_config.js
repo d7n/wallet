@@ -1,1 +1,1 @@
-var mnemonic = "another effort unit bitter turtle calm other nut meadow valid shop tragic";
+var mnemonic = "vehicle render oval spend switch zebra knock horn mansion spawn rule slogan";

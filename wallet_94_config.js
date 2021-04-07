@@ -1,1 +1,1 @@
-var mnemonic = "carpet address bubble process glue female system require wire rich gossip loud";
+var mnemonic = "among spend winter ladder law sister flower cry hotel boil focus above";

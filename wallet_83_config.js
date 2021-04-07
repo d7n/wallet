@@ -1,1 +1,1 @@
-var mnemonic = "charge affair wire object resist legend pumpkin such jungle runway seek toss";
+var mnemonic = "door flower exile outside miracle gossip rug perfect decorate profit injury spin";

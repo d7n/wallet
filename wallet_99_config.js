@@ -1,1 +1,1 @@
-var mnemonic = "model just expose apple skirt craft orchard speed clap small aunt game";
+var mnemonic = "fault seat heart system gaze jar slab flag mixed bonus write science";

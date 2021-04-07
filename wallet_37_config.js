@@ -1,1 +1,1 @@
-var mnemonic = "vast assume blue endorse left improve okay first elevator face sleep slight";
+var mnemonic = "scale olympic real middle cause forum area lecture burger account robust travel";

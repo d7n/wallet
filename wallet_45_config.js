@@ -1,1 +1,1 @@
-var mnemonic = "decrease pudding custom life age door plug curtain road antenna type rough";
+var mnemonic = "viable climb fury magic suffer easily fatigue flush absent pear enemy pink";

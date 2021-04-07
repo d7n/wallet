@@ -1,1 +1,1 @@
-var mnemonic = "abstract jeans dawn noise float suffer matrix table piece gas forward matrix";
+var mnemonic = "inside bid energy inject industry injury turn paper adult grid grit submit";

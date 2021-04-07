@@ -1,1 +1,1 @@
-var mnemonic = "what twelve fancy toilet leopard wide pave lady weird window guilt quit";
+var mnemonic = "pumpkin surface thrive stereo menu man fox hospital tank hole elite blade";

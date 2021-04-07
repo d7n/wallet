@@ -1,1 +1,1 @@
-var mnemonic = "collect west casual glad shuffle demand nurse track quote insane approve twin";
+var mnemonic = "nest usual work away pen crime child clever horror when else eagle";

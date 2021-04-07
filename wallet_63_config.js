@@ -1,1 +1,1 @@
-var mnemonic = "siren cliff jump summer argue call make embody bubble crawl salt fame";
+var mnemonic = "gaze river ill document friend eternal robust rare wrap wealth elevator uphold";

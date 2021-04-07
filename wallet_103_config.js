@@ -1,1 +1,1 @@
-var mnemonic = "prosper tissue warm dream piece regret evoke original nasty pipe phone service";
+var mnemonic = "slide daring decrease job chapter another desert one matter alert eager riot";

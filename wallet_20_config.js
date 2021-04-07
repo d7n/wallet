@@ -1,1 +1,1 @@
-var mnemonic = "hip goddess source pool van canoe quick move supply obscure strategy ride";
+var mnemonic = "thumb decorate vehicle tooth common kiss blade flavor height since universe forum";

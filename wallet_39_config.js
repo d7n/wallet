@@ -1,1 +1,1 @@
-var mnemonic = "nuclear bronze tent trip stock hard maid paddle brown side swim upon";
+var mnemonic = "blur civil blossom flip coin index jump head pistol hole choice cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "table hospital owner jeans stem robot outside harsh toast industry exit material";
+var mnemonic = "alarm sight duck world flee picnic ill frame leader sea pool frog";

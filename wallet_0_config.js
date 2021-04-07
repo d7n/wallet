@@ -1,1 +1,1 @@
-var mnemonic = "prize next tennis hire very slogan enact fever fire space loud prosper";
+var mnemonic = "space athlete ball wild blossom toilet friend ring arena cargo example oil";

@@ -1,1 +1,1 @@
-var mnemonic = "window swear drip oval hurry snow come retreat visit soul prosper high";
+var mnemonic = "paddle guard steel wet thought spare jaguar toilet library announce input trophy";

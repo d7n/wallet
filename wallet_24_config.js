@@ -1,1 +1,1 @@
-var mnemonic = "enrich will stock dumb witness dad addict oil believe avocado swing ecology";
+var mnemonic = "guard flight usual piece climb catch any donate enough spoil time tide";

@@ -1,1 +1,1 @@
-var mnemonic = "gorilla crime display proud siege whip video point short town reject horn";
+var mnemonic = "need economy stable leisure brand retire mom enhance illness fury vacuum region";

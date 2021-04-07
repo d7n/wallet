@@ -1,1 +1,1 @@
-var mnemonic = "round album cotton best settle dismiss defy bless member copper crop hen";
+var mnemonic = "chief forest resemble grow pet pink jump wagon civil type kingdom apple";

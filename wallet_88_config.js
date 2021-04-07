@@ -1,1 +1,1 @@
-var mnemonic = "uphold when noodle royal walk practice core bamboo burger number donate wolf";
+var mnemonic = "liberty wheel already pulp govern brown hard ecology scatter shine book twin";

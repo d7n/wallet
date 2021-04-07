@@ -1,1 +1,1 @@
-var mnemonic = "cup grunt dirt exist price suffer spare thumb connect pact language daughter";
+var mnemonic = "smile front powder ring mind slow two antenna disorder grape tobacco forum";

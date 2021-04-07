@@ -1,1 +1,1 @@
-var mnemonic = "fix jazz actor entire inspire inspire recipe during gap pond sail photo";
+var mnemonic = "pig sibling extend price lyrics napkin extra satoshi fetch toss annual easily";

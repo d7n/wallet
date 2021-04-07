@@ -1,1 +1,1 @@
-var mnemonic = "gaze follow sleep canvas pluck entry penalty keen critic talk mobile garlic";
+var mnemonic = "pact rich speed buzz cycle curve cable village glove beef gloom illness";

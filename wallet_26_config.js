@@ -1,1 +1,1 @@
-var mnemonic = "glide detect target punch model loop flip tomorrow fix recipe tenant boss";
+var mnemonic = "immense fashion vacuum various waste brass law coral nephew child fence physical";

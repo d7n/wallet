@@ -1,1 +1,1 @@
-var mnemonic = "junk leisure album adult frame rally taxi mind notice ranch artwork lift";
+var mnemonic = "zoo disorder insect stereo student near drive under debate breeze soldier exchange";

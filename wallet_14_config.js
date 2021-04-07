@@ -1,1 +1,1 @@
-var mnemonic = "coyote because link vague deputy across fantasy fame pool kangaroo napkin cable";
+var mnemonic = "dinosaur sense wife guide stuff romance bike window noodle flavor sleep until";

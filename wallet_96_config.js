@@ -1,1 +1,1 @@
-var mnemonic = "pledge flock under interest spice negative rate report beef glimpse access junior";
+var mnemonic = "fat olive kit expose panda success rose sentence impact distance extend uphold";
