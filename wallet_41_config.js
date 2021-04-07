@@ -1,1 +1,1 @@
-var mnemonic = "leave decorate any powder similar strong bargain tumble humble fury tongue toddler";
+var mnemonic = "goat keep drift sentence stamp dismiss gasp sell make slender butter song";

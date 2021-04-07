@@ -1,1 +1,1 @@
-var mnemonic = "involve fog critic champion profit trigger frost either just hybrid add pizza";
+var mnemonic = "multiply bicycle faith rigid rotate stem phone seed pizza inside sail rural";

@@ -1,1 +1,1 @@
-var mnemonic = "powder solution skin payment sand fly merit tide label couple six pony";
+var mnemonic = "ready wait castle quit paddle aunt echo hover start real celery acoustic";

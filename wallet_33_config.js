@@ -1,1 +1,1 @@
-var mnemonic = "tuition galaxy faculty dust slim remain fold episode athlete what oblige note";
+var mnemonic = "horn border match horn bird month grid raw winter knock file day";

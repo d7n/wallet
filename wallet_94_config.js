@@ -1,1 +1,1 @@
-var mnemonic = "foster orbit pond suit aisle slow grid goddess hospital breeze sauce mimic";
+var mnemonic = "relax talk error grass toast run dust risk run valid endless barrel";

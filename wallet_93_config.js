@@ -1,1 +1,1 @@
-var mnemonic = "lady photo museum laundry earn medal seminar lend wreck fall echo shield";
+var mnemonic = "object april praise over stone seminar warrior hat that shiver castle design";

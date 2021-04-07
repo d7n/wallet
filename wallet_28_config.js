@@ -1,1 +1,1 @@
-var mnemonic = "notable chicken afraid suggest train more praise moment injury there file cotton";
+var mnemonic = "pond fly buzz rough pitch swim giggle wool audit dash hybrid weird";

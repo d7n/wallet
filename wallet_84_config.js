@@ -1,1 +1,1 @@
-var mnemonic = "inner include punch sniff certain debris caught devote achieve assume appear pupil";
+var mnemonic = "time found indicate toy jungle bone decide service game rally private trash";

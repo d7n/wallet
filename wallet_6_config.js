@@ -1,1 +1,1 @@
-var mnemonic = "slight quantum custom tackle mention old blade shell sport humble crystal stock";
+var mnemonic = "water result surge cause local shine swim will mother tiger indoor talent";

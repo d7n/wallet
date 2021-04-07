@@ -1,1 +1,1 @@
-var mnemonic = "cherry wage friend denial evoke laugh other daughter solution marriage panel inch";
+var mnemonic = "path item ski burst hawk diamond game skirt exist bulk stem crop";

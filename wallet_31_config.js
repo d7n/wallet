@@ -1,1 +1,1 @@
-var mnemonic = "drink keen domain dismiss marine fall crawl hotel stand seminar lucky electric";
+var mnemonic = "entry early bubble supreme drip thumb armor onion forward law length multiply";

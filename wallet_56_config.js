@@ -1,1 +1,1 @@
-var mnemonic = "kitchen post antenna strike drill ahead crime course flag permit flower genre";
+var mnemonic = "never blast during another market list furnace wine cigar voice enhance virtual";

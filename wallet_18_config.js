@@ -1,1 +1,1 @@
-var mnemonic = "hope awesome retreat erode despair before orient person furnace pretty syrup pattern";
+var mnemonic = "grit tray first release clown smart insect slow purchase pitch blouse cash";

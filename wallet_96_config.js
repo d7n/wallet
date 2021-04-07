@@ -1,1 +1,1 @@
-var mnemonic = "pave island claim future tree split media umbrella lobster magic marriage lecture";
+var mnemonic = "wedding video dolphin hunt combine pave song bottom muffin moon end unique";

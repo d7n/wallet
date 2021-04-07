@@ -1,1 +1,1 @@
-var mnemonic = "number jazz beyond guard cream bean mechanic view lonely travel giggle usage";
+var mnemonic = "guilt swift reason staff task potato inquiry exile depend fame aspect style";

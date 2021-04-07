@@ -1,1 +1,1 @@
-var mnemonic = "rather sheriff sad pole match remain saddle permit network order nuclear actor";
+var mnemonic = "suspect logic brass young rack need shallow audit tilt hotel poem weasel";

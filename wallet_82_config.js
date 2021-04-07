@@ -1,1 +1,1 @@
-var mnemonic = "fringe property cupboard crawl define explain fragile brain course educate hamster system";
+var mnemonic = "midnight please spray group taxi carpet jewel post cereal celery wolf balance";

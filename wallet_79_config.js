@@ -1,1 +1,1 @@
-var mnemonic = "naive pupil general loyal below average chronic piano surprise benefit grain scorpion";
+var mnemonic = "deputy veteran purse lucky employ few mandate casino curve program nest attract";

@@ -1,1 +1,1 @@
-var mnemonic = "depart atom task noodle argue employ promote ring olive angle share pill";
+var mnemonic = "acoustic junk arrow unlock doctor trade middle lemon length heart tiger prevent";

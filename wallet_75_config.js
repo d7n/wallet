@@ -1,1 +1,1 @@
-var mnemonic = "inspire intact muffin dumb kind tank tell benefit acquire fatal shuffle trade";
+var mnemonic = "attract indoor vast twist dismiss hedgehog toilet chief project viable slice into";

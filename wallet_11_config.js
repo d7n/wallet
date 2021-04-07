@@ -1,1 +1,1 @@
-var mnemonic = "enact always style police long define tooth limit brief clever essay pair";
+var mnemonic = "luxury reflect episode poverty chef urban response dilemma gate pulse rib defy";

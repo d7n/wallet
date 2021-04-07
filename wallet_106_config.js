@@ -1,1 +1,1 @@
-var mnemonic = "bind saddle double file catch industry swap chapter tobacco earth stone gossip";
+var mnemonic = "few enable chase hurt unit daring penalty jewel that word amazing property";

@@ -1,1 +1,1 @@
-var mnemonic = "angry wet victory beef palm edge jeans spice abandon reopen lobster cabin";
+var mnemonic = "silk vicious utility gown valid access soft sphere multiply march error stairs";

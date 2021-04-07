@@ -1,1 +1,1 @@
-var mnemonic = "output begin vocal ordinary lunch extra defense tomato usage glance omit virtual";
+var mnemonic = "aerobic neglect fun flush service maximum obtain almost bus company danger cheap";

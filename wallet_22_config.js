@@ -1,1 +1,1 @@
-var mnemonic = "casual oppose lady protect rival love pepper usual wolf junior nasty aware";
+var mnemonic = "defy margin onion shoe crucial virtual repair village recycle grab immense absorb";

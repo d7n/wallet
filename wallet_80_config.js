@@ -1,1 +1,1 @@
-var mnemonic = "core charge typical whale carbon bundle between slush bunker kind rebuild coin";
+var mnemonic = "traffic autumn table merit outside fever warfare height trial limb ugly birth";

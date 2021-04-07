@@ -1,1 +1,1 @@
-var mnemonic = "embark frog pledge century plate voice champion mobile neglect foster limb cake";
+var mnemonic = "used door school tape field soup arm used empty blood slight search";

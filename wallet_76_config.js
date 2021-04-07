@@ -1,1 +1,1 @@
-var mnemonic = "drift flight arctic raven season lion table dismiss soft ethics outdoor until";
+var mnemonic = "physical visa diagram enough hungry embrace equip tomorrow myth top very sort";

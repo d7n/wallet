@@ -1,1 +1,1 @@
-var mnemonic = "cause lawn possible gate tobacco cement assist grant doctor approve empower grit";
+var mnemonic = "rookie exact cancel polar rely cabbage flash ask ask dinner secret script";

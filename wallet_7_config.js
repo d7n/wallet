@@ -1,1 +1,1 @@
-var mnemonic = "audit system pudding raccoon bar kind soft order domain patient citizen adjust";
+var mnemonic = "agree accident empty soccer today chicken mask draft sudden wink stumble crime";

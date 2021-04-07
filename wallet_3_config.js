@@ -1,1 +1,1 @@
-var mnemonic = "dress vital alter write kit siege venue vital couple grain usage bleak";
+var mnemonic = "recycle home dynamic video popular sustain usage tank script merit room kingdom";

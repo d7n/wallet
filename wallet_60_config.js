@@ -1,1 +1,1 @@
-var mnemonic = "pledge kitchen toilet hotel crisp mango turkey symptom similar bullet boring hockey";
+var mnemonic = "lens hawk wool color swim pen volcano retreat cable track double moon";

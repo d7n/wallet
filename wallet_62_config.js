@@ -1,1 +1,1 @@
-var mnemonic = "avocado announce debate depart all guitar release mix random balance fine intact";
+var mnemonic = "green rent above flee arrest core unhappy speed glimpse group deer praise";

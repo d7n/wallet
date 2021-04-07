@@ -1,1 +1,1 @@
-var mnemonic = "outdoor ability fox blouse hidden ancient august window alter milk timber ready";
+var mnemonic = "atom rely forget height donor chalk sniff game rally spot also basic";

@@ -1,1 +1,1 @@
-var mnemonic = "shove gap capital coral panther dinosaur flee safe setup isolate maze equip";
+var mnemonic = "stay punch census fever focus elder response sugar elder pistol robot minor";

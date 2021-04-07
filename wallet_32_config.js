@@ -1,1 +1,1 @@
-var mnemonic = "truly slogan autumn eternal mixture tuna figure case impulse opera hat cigar";
+var mnemonic = "galaxy roast gun guard bounce silver cute trade cabin open slogan spike";

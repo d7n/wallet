@@ -1,1 +1,1 @@
-var mnemonic = "decorate wire devote confirm example fiscal notable essay olympic learn illegal middle";
+var mnemonic = "village glance junk boat radar flash beef unusual cabbage spread observe priority";

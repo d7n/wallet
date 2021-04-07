@@ -1,1 +1,1 @@
-var mnemonic = "differ tennis yard glory false choice sand turkey guess bachelor then kit";
+var mnemonic = "lecture student equip observe install glove moon nice jelly cliff name stool";

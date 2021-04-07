@@ -1,1 +1,1 @@
-var mnemonic = "execute antique mule mandate flavor evidence moment science gasp salad issue chase";
+var mnemonic = "trigger emerge sound trial invite man dry risk grace rely february work";

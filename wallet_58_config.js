@@ -1,1 +1,1 @@
-var mnemonic = "zebra judge tell episode leader finish volcano eager depend ecology frog good";
+var mnemonic = "general black flower model dress cabbage equip raccoon olive lion someone once";

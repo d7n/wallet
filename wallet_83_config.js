@@ -1,1 +1,1 @@
-var mnemonic = "uniform knee end symptom destroy bullet destroy core barrel keen physical traffic";
+var mnemonic = "army empower modify innocent retire steel bitter heart ketchup margin virus vicious";

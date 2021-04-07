@@ -1,1 +1,1 @@
-var mnemonic = "summer video sleep exact vessel because coil rough second topic void bubble";
+var mnemonic = "boring trip voyage venue ranch flush coffee fatal awful solve flag tackle";

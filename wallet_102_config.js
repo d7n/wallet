@@ -1,1 +1,1 @@
-var mnemonic = "inch alter dolphin dynamic edit enroll code grief path until average pink";
+var mnemonic = "fiber category myself vote enemy elbow drill merry absurd chronic there auction";

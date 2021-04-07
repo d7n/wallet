@@ -1,1 +1,1 @@
-var mnemonic = "chunk tank enter inner major anger vibrant tackle mask dinner modify embody";
+var mnemonic = "soup month dutch velvet thought once foam lock tiger eagle submit venture";

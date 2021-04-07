@@ -1,1 +1,1 @@
-var mnemonic = "grass stuff aim audit suspect refuse again emerge duty decline sniff velvet";
+var mnemonic = "summer window arrange radio expose able often trophy relax erase snow black";

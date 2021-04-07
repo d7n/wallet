@@ -1,1 +1,1 @@
-var mnemonic = "fit basket glue human pipe fan say sketch comic blue cause stem";
+var mnemonic = "street trumpet round coral easily bamboo agree stem grape glare bacon dune";

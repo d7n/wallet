@@ -1,1 +1,1 @@
-var mnemonic = "olive stuff lobster palace horn merit rice drop fitness humble sample erode";
+var mnemonic = "collect empower flip advance balance symbol rule emotion sea pet strike misery";

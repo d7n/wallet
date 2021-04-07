@@ -1,1 +1,1 @@
-var mnemonic = "rare hedgehog ozone another throw bar dog adult swim believe pull boat";
+var mnemonic = "bonus gate cube typical lawsuit balance enroll service little supply amount escape";

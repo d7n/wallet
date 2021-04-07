@@ -1,1 +1,1 @@
-var mnemonic = "begin hard chapter soft cycle give myth exit bright joy mutual twenty";
+var mnemonic = "inmate axis surge frown small ripple sell atom bless rely smile media";

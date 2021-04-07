@@ -1,1 +1,1 @@
-var mnemonic = "fame work culture drill produce light citizen dutch lake bacon inmate kidney";
+var mnemonic = "matrix level hill cause speak split joy horse system work traffic proof";

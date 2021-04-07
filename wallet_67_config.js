@@ -1,1 +1,1 @@
-var mnemonic = "frame parrot seek ribbon bench share bone crew viable vote force tooth";
+var mnemonic = "edge guard inspire theme owner blame rubber skirt maze oblige eight notice";

@@ -1,1 +1,1 @@
-var mnemonic = "truck force twin impose term brush fame clump glue basket summer warfare";
+var mnemonic = "protect pole win foam recall curtain romance morning cram muffin olive federal";

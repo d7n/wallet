@@ -1,1 +1,1 @@
-var mnemonic = "three cabbage music ill twin month defy weapon defy account winter horn";
+var mnemonic = "dirt loan sort gas invite avocado pool loop again civil oven spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew fringe today tone still present ostrich copy viable space rose snap";
+var mnemonic = "proof blossom flee eagle reflect name route matter analyst side wait earth";

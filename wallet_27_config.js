@@ -1,1 +1,1 @@
-var mnemonic = "bacon belt lucky raven arrow invest plunge spawn crumble gather defy dizzy";
+var mnemonic = "tobacco consider gesture similar front letter ridge early require drink else produce";

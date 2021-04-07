@@ -1,1 +1,1 @@
-var mnemonic = "beyond lizard expose flush buffalo pattern verb satisfy pupil asset curtain neutral";
+var mnemonic = "doctor expose ball universe there match saddle gorilla priority slogan layer sunset";

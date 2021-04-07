@@ -1,1 +1,1 @@
-var mnemonic = "burst tiger bonus inform car title couch royal spin true pass you";
+var mnemonic = "wash correct into bird banner reduce cream few blossom three harbor liar";

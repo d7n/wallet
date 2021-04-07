@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog glance breeze fat trap grocery circle risk rabbit era flavor raw";
+var mnemonic = "plunge endless file lazy bachelor snake baby gap cheap limb circle stomach";

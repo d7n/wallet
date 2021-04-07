@@ -1,1 +1,1 @@
-var mnemonic = "fault casual alert area vehicle cotton cloth alley chimney visit weasel smooth";
+var mnemonic = "task crisp object absorb about material hen try casual attract robust cupboard";

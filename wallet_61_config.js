@@ -1,1 +1,1 @@
-var mnemonic = "frozen pattern tumble exercise hand mutual slab practice dwarf egg pigeon bundle";
+var mnemonic = "rocket suggest black spell behave fragile stool plastic hammer crucial code useless";

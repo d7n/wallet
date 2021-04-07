@@ -1,1 +1,1 @@
-var mnemonic = "liberty coconut develop hole notable wood clock panther rate pave raw sense";
+var mnemonic = "annual hour cycle produce route nephew tower donate gossip balance elephant glass";

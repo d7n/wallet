@@ -1,1 +1,1 @@
-var mnemonic = "artwork eight resemble minute hire alley table shrimp affair punch asthma enough";
+var mnemonic = "winter item reunion ankle slim swim cradle pretty finger squeeze bid blame";

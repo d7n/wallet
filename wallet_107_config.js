@@ -1,1 +1,1 @@
-var mnemonic = "identify keen message crystal never jeans predict rib silly fury observe below";
+var mnemonic = "scrap general cube reject mail lift clip side crime core wreck swim";

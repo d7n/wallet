@@ -1,1 +1,1 @@
-var mnemonic = "pluck broom aspect possible girl gather utility hurt chapter core observe entire";
+var mnemonic = "bounce green solve miracle mind order book bless dress offer correct buzz";

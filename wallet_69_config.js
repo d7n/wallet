@@ -1,1 +1,1 @@
-var mnemonic = "daring library genre crater boring manual into stage science taste faculty evil";
+var mnemonic = "history grocery lunch summer panther bus discover supreme piano praise survey rather";

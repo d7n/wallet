@@ -1,1 +1,1 @@
-var mnemonic = "analyst enroll advance feed judge taste local truly giant unfold panel promote";
+var mnemonic = "asset gossip beyond pause alarm scorpion captain brisk tank path enhance base";

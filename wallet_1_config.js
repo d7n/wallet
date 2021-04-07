@@ -1,1 +1,1 @@
-var mnemonic = "monitor subject tool swap disease panic copy when banner cross burger slam";
+var mnemonic = "pupil kiwi vivid inspire mosquito stool knife rice problem seed neglect sustain";

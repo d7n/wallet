@@ -1,1 +1,1 @@
-var mnemonic = "crumble barely ten that bamboo capable bright mail deliver keep please three";
+var mnemonic = "head spread awesome saddle island relief donkey report stool purity matter trust";

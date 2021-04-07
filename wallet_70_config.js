@@ -1,1 +1,1 @@
-var mnemonic = "chuckle spin car minimum uncover pattern curious problem setup chronic motion amateur";
+var mnemonic = "glare turn zoo neither cram summer buffalo mirror bike fan erode disorder";

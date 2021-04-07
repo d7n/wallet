@@ -1,1 +1,1 @@
-var mnemonic = "opera young universe obvious lawsuit forget husband model impact dizzy amused crane";
+var mnemonic = "say neglect final foot salad stem describe avoid myth kite boy require";

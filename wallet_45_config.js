@@ -1,1 +1,1 @@
-var mnemonic = "flip capital swim razor program mountain garage minute keen just silly enjoy";
+var mnemonic = "possible oven relief you jar above dial perfect tortoise rent bomb nose";

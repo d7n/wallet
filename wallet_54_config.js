@@ -1,1 +1,1 @@
-var mnemonic = "life drum beef cinnamon peace marble rally maid patch identify youth pencil";
+var mnemonic = "rich fence inspire grape reopen shiver essence mention peace rescue lava cruise";

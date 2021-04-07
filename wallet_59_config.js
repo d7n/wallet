@@ -1,1 +1,1 @@
-var mnemonic = "guess among sun disorder cereal flag country review text order innocent sentence";
+var mnemonic = "chief soap toward recall bullet resemble exact save grit gun open move";

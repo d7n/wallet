@@ -1,1 +1,1 @@
-var mnemonic = "harsh example toy glass fly annual grace ride lawsuit loop moment keen";
+var mnemonic = "cost price hat steak shell grocery chicken biology obtain mixed moon advance";

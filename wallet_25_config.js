@@ -1,1 +1,1 @@
-var mnemonic = "lucky raise term vessel appear volcano loud section fold pencil talk patch";
+var mnemonic = "balance simple assault exit lady name hover museum verify concert sheriff rent";

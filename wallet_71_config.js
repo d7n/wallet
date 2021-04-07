@@ -1,1 +1,1 @@
-var mnemonic = "sad model shiver nature fever verify trade ship kidney park assault consider";
+var mnemonic = "pigeon adjust muffin kite merry promote throw shadow warm match enter crumble";

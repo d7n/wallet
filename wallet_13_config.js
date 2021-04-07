@@ -1,1 +1,1 @@
-var mnemonic = "solar amateur polar lunch height topple illegal until web crush veteran will";
+var mnemonic = "crop board define culture future essay note ready machine crumble moon clog";

@@ -1,1 +1,1 @@
-var mnemonic = "layer end estate include swim tuna fortune stand join crime explain tomato";
+var mnemonic = "ostrich bargain bird drill patch entire stone bean breeze absurd program palm";

@@ -1,1 +1,1 @@
-var mnemonic = "away chest donkey face bless lounge frog salmon palm setup cool belt";
+var mnemonic = "wash despair flag kangaroo master summer dry give company common vacant correct";

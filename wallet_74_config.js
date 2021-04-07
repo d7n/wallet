@@ -1,1 +1,1 @@
-var mnemonic = "fan reward fitness burst blossom resist earn pluck thing attack level final";
+var mnemonic = "decorate tank tenant cluster pencil zoo cheap dust olympic arm option ginger";

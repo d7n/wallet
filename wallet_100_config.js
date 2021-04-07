@@ -1,1 +1,1 @@
-var mnemonic = "market culture mom bless old fringe oak welcome pigeon sentence ice smart";
+var mnemonic = "cage sick task pistol patch control credit carpet engine copper kidney isolate";

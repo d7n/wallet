@@ -1,1 +1,1 @@
-var mnemonic = "much path ten leisure woman bitter float tip squirrel melt garment habit";
+var mnemonic = "west tunnel birth blade mutual family bracket ozone rail squeeze borrow alien";

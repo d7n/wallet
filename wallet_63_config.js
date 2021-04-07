@@ -1,1 +1,1 @@
-var mnemonic = "device nurse ribbon apology solid dilemma like must gesture hundred together other";
+var mnemonic = "idea ensure champion pizza save dream turkey culture sail easy fruit chimney";

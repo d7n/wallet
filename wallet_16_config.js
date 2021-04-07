@@ -1,1 +1,1 @@
-var mnemonic = "diamond torch bird citizen dove miss degree match index toast galaxy visual";
+var mnemonic = "theory dawn armed move shoe move since clean sing gentle that improve";

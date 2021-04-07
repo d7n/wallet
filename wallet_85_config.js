@@ -1,1 +1,1 @@
-var mnemonic = "peanut tank category ivory void soft dune city please dumb beach yellow";
+var mnemonic = "canal game when brother armor surface enough flag art neglect outside enjoy";

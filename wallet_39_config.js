@@ -1,1 +1,1 @@
-var mnemonic = "tumble become gauge coach bean panther remember drink what come purse distance";
+var mnemonic = "keep keen wine current primary dilemma airport birth mask fantasy rice mosquito";

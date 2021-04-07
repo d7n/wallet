@@ -1,1 +1,1 @@
-var mnemonic = "engage gym mercy scorpion ready patch strike sock velvet north search trend";
+var mnemonic = "slow wheel update domain lunch frown bulb arrest invest become shaft spy";

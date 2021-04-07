@@ -1,1 +1,1 @@
-var mnemonic = "fog magnet cargo sick pair future tooth liar obvious patch fiscal combine";
+var mnemonic = "joy follow alone sentence host people shift put submit cat way era";
