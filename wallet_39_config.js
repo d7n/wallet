@@ -1,1 +1,1 @@
-var mnemonic = "cover cement pen beach cruel fury oxygen renew chimney clock couch gown";
+var mnemonic = "bracket evidence uncle bacon enlist top minor fence estate kitten guard already";

@@ -1,1 +1,1 @@
-var mnemonic = "hip topple nasty mask rough spoil gauge lottery limb view strong nephew";
+var mnemonic = "faculty mass frequent heavy review praise science surge moral taxi fragile fruit";

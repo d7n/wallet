@@ -1,1 +1,1 @@
-var mnemonic = "whip trade sort material next symptom wonder bicycle ocean mention cover tonight";
+var mnemonic = "small oyster term seed drama picture elder sting better lecture razor cannon";

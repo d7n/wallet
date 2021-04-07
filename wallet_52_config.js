@@ -1,1 +1,1 @@
-var mnemonic = "gas army salon penalty demise lend fit judge cluster noble shiver clown";
+var mnemonic = "ordinary sun come eight buzz choice lunch motion city offer iron inform";

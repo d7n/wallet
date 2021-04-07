@@ -1,1 +1,1 @@
-var mnemonic = "one twelve sausage price moment exact mean puppy trial duty answer assault";
+var mnemonic = "skill adapt dice cloud until isolate draw artefact suspect shoe level void";

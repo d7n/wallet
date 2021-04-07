@@ -1,1 +1,1 @@
-var mnemonic = "hidden private farm essence style wrap property trick fiction bachelor where faint";
+var mnemonic = "tuna say walnut oppose day orbit leg seven assume obey have naive";

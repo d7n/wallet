@@ -1,1 +1,1 @@
-var mnemonic = "genius knee tackle silver bright year clarify cute all series real build";
+var mnemonic = "future south eyebrow feature pelican trade churn vocal seminar security need half";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle opinion tree jazz catalog prepare wide rival glove gather tube lock";
+var mnemonic = "author bitter bachelor unaware balcony congress cinnamon confirm attract cage nephew derive";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel cheese trap frown remember type belt pulp inherit rude quantum inmate";
+var mnemonic = "group when clarify spend luggage able start best license monkey degree dish";

@@ -1,1 +1,1 @@
-var mnemonic = "siren tenant neglect public equip speak fall radar empty gas entire rich";
+var mnemonic = "only judge era crater enlist twist lab arrest crisp hockey staff forest";

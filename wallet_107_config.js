@@ -1,1 +1,1 @@
-var mnemonic = "hockey avocado crush spawn test tonight world resource south toss review suspect";
+var mnemonic = "border ribbon crawl sugar what tree peasant sibling drop rely custom used";

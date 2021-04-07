@@ -1,1 +1,1 @@
-var mnemonic = "raven mystery seminar smoke miss funny phrase armed record mechanic expire mesh";
+var mnemonic = "history tunnel stamp entire mirror weekend genuine upper net reform again owner";

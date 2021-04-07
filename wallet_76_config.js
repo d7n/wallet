@@ -1,1 +1,1 @@
-var mnemonic = "mosquito physical one melody crucial certain soda trust zero neglect quit mistake";
+var mnemonic = "enter rib position drive change mail increase bulk because fancy keen monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "dog issue brother tool begin oval shiver ribbon shed more timber culture";
+var mnemonic = "example bounce hip lawsuit mechanic minor puzzle analyst kangaroo damage enrich super";

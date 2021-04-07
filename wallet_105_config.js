@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow brush muscle taxi aim view gather position pottery scout black they";
+var mnemonic = "toy quit pony debris aim remove shed sunny corn find real short";

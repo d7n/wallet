@@ -1,1 +1,1 @@
-var mnemonic = "twin pitch stamp lazy absent choose head person pioneer awesome priority flat";
+var mnemonic = "behind crawl police urban pave satisfy satoshi already vehicle laptop arena illegal";

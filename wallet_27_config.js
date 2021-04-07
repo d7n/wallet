@@ -1,1 +1,1 @@
-var mnemonic = "neutral traffic lake tuition repeat disease junior social rail volume volume cattle";
+var mnemonic = "captain spin gravity coffee rule tunnel final century high enroll ship spoil";

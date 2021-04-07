@@ -1,1 +1,1 @@
-var mnemonic = "giggle loud claim they biology scare act way slim crash couch zoo";
+var mnemonic = "album course boil future assist tip stick hazard better zoo liar hint";

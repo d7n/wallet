@@ -1,1 +1,1 @@
-var mnemonic = "draft lobster flush happy cattle return lamp renew try lock tiny science";
+var mnemonic = "extra turtle appear stove fat cigar vacuum mail discover twin behind duty";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee quote dad parrot liquid joke company orphan tilt guide father tuna";
+var mnemonic = "faculty ball lumber clay insane build orchard tomato wife bullet estate melt";

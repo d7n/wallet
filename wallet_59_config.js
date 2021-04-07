@@ -1,1 +1,1 @@
-var mnemonic = "kid profit apart thumb soldier effort bench slab cannon salon stuff equip";
+var mnemonic = "deal will picture direct icon duck ready fold omit smooth business ill";

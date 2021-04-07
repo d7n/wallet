@@ -1,1 +1,1 @@
-var mnemonic = "blast assist fold choose wrist model fox ketchup bring armed object reject";
+var mnemonic = "tomorrow scout glare foam snow exclude gloom arena buzz pull lonely zone";

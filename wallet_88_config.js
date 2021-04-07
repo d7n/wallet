@@ -1,1 +1,1 @@
-var mnemonic = "gadget veteran law square around flavor unique remove true sight slab valve";
+var mnemonic = "inject silver collect chronic frown vocal panther undo math promote differ gap";

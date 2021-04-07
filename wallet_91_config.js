@@ -1,1 +1,1 @@
-var mnemonic = "session crew seek orient cup like hazard shell air until try famous";
+var mnemonic = "ordinary express announce object strong seminar off glare club faculty word cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety cup rug embark scene sand warrior puzzle cheese chronic stable sniff";
+var mnemonic = "december relief subway tape misery snack camera scout price motion nature blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "cute surprise february urge join gas engine choice casual amateur talent home";
+var mnemonic = "process myth gain clown disagree box obey hollow apple design wine logic";

@@ -1,1 +1,1 @@
-var mnemonic = "club kind page pause cash train average squeeze style maximum equal chuckle";
+var mnemonic = "lunch dune also program napkin mixed swamp tomorrow hunt often trash diary";

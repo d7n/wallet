@@ -1,1 +1,1 @@
-var mnemonic = "pole clog sing casino check habit castle pattern blood buffalo blast cluster";
+var mnemonic = "robot flame album blue swift deputy among hundred senior tail rival creek";

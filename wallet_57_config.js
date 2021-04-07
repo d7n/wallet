@@ -1,1 +1,1 @@
-var mnemonic = "fluid notable once limit dilemma attitude lazy tray damage fix narrow hedgehog";
+var mnemonic = "first remind away fluid bike topic tornado disease repair uphold very enemy";

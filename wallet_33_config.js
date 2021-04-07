@@ -1,1 +1,1 @@
-var mnemonic = "rigid before erosion stay crawl reopen join jaguar deposit rotate between gas";
+var mnemonic = "vicious danger scrap soul feel limb flee hurt divorce symptom initial current";

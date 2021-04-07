@@ -1,1 +1,1 @@
-var mnemonic = "uphold have keen where panel cattle web sample summer meadow enroll peanut";
+var mnemonic = "bar already neck become remove fork double joke dragon mean seat buzz";

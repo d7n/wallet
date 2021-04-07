@@ -1,1 +1,1 @@
-var mnemonic = "leisure cinnamon sing mutual nose slender false ghost ready express glove coyote";
+var mnemonic = "hole pottery element frozen special language desk include amused friend year infant";

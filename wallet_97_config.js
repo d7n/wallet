@@ -1,1 +1,1 @@
-var mnemonic = "tourist side century ramp fabric fiction scorpion together clown together axis talk";
+var mnemonic = "wife series weasel riot kitchen true robust wing bacon exit praise struggle";

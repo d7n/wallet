@@ -1,1 +1,1 @@
-var mnemonic = "junior canal hard snow latin stand tribe lamp essay defense actual gesture";
+var mnemonic = "turn job caught fly orchard sword side boss misery dizzy end argue";

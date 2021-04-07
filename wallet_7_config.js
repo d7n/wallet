@@ -1,1 +1,1 @@
-var mnemonic = "abuse draw firm mandate survey round music bless angry north tone drift";
+var mnemonic = "leader glory timber menu corn token panel sun lion setup into bonus";

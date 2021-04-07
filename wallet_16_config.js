@@ -1,1 +1,1 @@
-var mnemonic = "follow scout flame budget mystery gasp paper movie company inflict rookie adjust";
+var mnemonic = "slogan wrong net come knife cactus erase prevent host buffalo smart left";

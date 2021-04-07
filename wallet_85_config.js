@@ -1,1 +1,1 @@
-var mnemonic = "flip ketchup impulse blast say throw denial swallow anxiety burst vague gloom";
+var mnemonic = "wealth mix income section peasant wolf increase opinion also invest define latin";

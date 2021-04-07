@@ -1,1 +1,1 @@
-var mnemonic = "float climb above crowd where volcano early sure few stamp sound gravity";
+var mnemonic = "drama quiz dream blossom mandate during atom rare frozen struggle deer wrap";

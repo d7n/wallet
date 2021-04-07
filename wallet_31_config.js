@@ -1,1 +1,1 @@
-var mnemonic = "mushroom remove parrot fame sorry avoid visual illegal render confirm cattle surprise";
+var mnemonic = "can milk hurdle flee bike finish when bench ginger census fly fatal";

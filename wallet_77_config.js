@@ -1,1 +1,1 @@
-var mnemonic = "seek man elephant maze hollow tenant hair february ignore render this couple";
+var mnemonic = "bid vocal purity baby best humor gasp cactus bronze salon sort sister";

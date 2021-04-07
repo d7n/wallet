@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit bronze trend joke adapt exchange often ladder congress size crystal album";
+var mnemonic = "royal hen foam addict rescue damage hazard one fox hurdle fence gift";

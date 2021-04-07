@@ -1,1 +1,1 @@
-var mnemonic = "civil bid mirror income surround differ fan author unusual south virtual measure";
+var mnemonic = "cash canvas cannon dance three round ugly grunt city glass illegal fossil";

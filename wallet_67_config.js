@@ -1,1 +1,1 @@
-var mnemonic = "day school seed visa order arrest media tool weekend recipe market banner";
+var mnemonic = "sting fall brave pattern sing draft arrest mom apology immense verb renew";

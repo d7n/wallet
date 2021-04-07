@@ -1,1 +1,1 @@
-var mnemonic = "autumn oblige obscure shoot dinner blast verify grief artwork physical seed toward";
+var mnemonic = "one pioneer attract park orphan melody lab furnace bundle rail change snack";

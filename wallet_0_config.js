@@ -1,1 +1,1 @@
-var mnemonic = "shoe rich object box tourist avocado cake post nerve talk story dentist";
+var mnemonic = "cabin hybrid glimpse prosper gaze duty announce stem drop inspire disease defense";

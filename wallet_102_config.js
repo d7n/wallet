@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit fragile shadow minor primary vessel poet market liar castle series trouble";
+var mnemonic = "bind just screen couch very supply inform exhibit ribbon barely apart august";

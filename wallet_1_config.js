@@ -1,1 +1,1 @@
-var mnemonic = "coconut color dynamic shove walk woman gown raise flash inquiry tree path";
+var mnemonic = "evil demand volume super project unit wheel orange blush clown fault cupboard";

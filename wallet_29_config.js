@@ -1,1 +1,1 @@
-var mnemonic = "furnace piece slot prevent infant isolate glass found adjust length shuffle claim";
+var mnemonic = "roof business admit noble into crew museum large penalty lottery camp peanut";

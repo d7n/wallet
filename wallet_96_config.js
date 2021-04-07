@@ -1,1 +1,1 @@
-var mnemonic = "mutual tomorrow antique gauge rally daring ugly put random maximum feature visual";
+var mnemonic = "bounce fitness source frog cup power holiday energy critic sketch never document";

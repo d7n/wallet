@@ -1,1 +1,1 @@
-var mnemonic = "crouch elder task warfare spice puppy nice cube assault lonely afraid volcano";
+var mnemonic = "place talent walnut suffer fox vapor pull kitchen quit turtle barely bitter";

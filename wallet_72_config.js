@@ -1,1 +1,1 @@
-var mnemonic = "luxury lunch cliff twelve decline call job rather recipe seek crucial apart";
+var mnemonic = "duck miss fetch cool quarter afford goose coast reopen feature ghost option";

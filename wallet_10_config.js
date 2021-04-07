@@ -1,1 +1,1 @@
-var mnemonic = "balcony size enhance another response stock until toddler nice trust amused lobster";
+var mnemonic = "three raven often jealous busy scare almost artist fetch delay noise chapter";

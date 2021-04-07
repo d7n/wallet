@@ -1,1 +1,1 @@
-var mnemonic = "card snake shoulder buzz solution ramp dish winner random dragon move hub";
+var mnemonic = "symbol attack fantasy rally talent miracle away obvious clay stool space snack";

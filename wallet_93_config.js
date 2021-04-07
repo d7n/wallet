@@ -1,1 +1,1 @@
-var mnemonic = "puzzle device ripple account fine lesson feature open dutch quality oyster manage";
+var mnemonic = "come hint monitor dinner alley fat kick divert web pepper bargain film";

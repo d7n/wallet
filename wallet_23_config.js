@@ -1,1 +1,1 @@
-var mnemonic = "symbol rate window romance above grocery street office skate drip pool dish";
+var mnemonic = "wine debris imitate treat load miracle tongue salad zero leg during auction";

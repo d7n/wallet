@@ -1,1 +1,1 @@
-var mnemonic = "uncle elder public isolate dismiss van ugly exercise mouse aisle carbon receive";
+var mnemonic = "scorpion opera ladder reflect original gas illegal alone sell fatal slogan stone";

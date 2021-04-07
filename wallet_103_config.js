@@ -1,1 +1,1 @@
-var mnemonic = "belt walnut eye income unknown pattern ostrich injury spawn media receive dial";
+var mnemonic = "poem window climb you express priority budget marble judge crane float short";

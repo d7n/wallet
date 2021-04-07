@@ -1,1 +1,1 @@
-var mnemonic = "pigeon axis useless course seven donate woman tongue scan news inspire twelve";
+var mnemonic = "enter divert senior exhaust dune bomb bomb swallow submit path curtain fix";

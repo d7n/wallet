@@ -1,1 +1,1 @@
-var mnemonic = "rescue expect enrich drum few hurt capable type fuel catch leisure spin";
+var mnemonic = "glad pond scrap ability above express fantasy sister protect step script two";

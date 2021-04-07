@@ -1,1 +1,1 @@
-var mnemonic = "wisdom bike burger gravity base mask demise spray runway sand deer humble";
+var mnemonic = "absent effort raccoon buyer else car during illness firm bacon stock badge";

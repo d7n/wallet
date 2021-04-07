@@ -1,1 +1,1 @@
-var mnemonic = "taxi reform ridge dinner antenna bean sword trap huge member alley hole";
+var mnemonic = "gaze hollow save lyrics flower cushion piece erosion annual fish grid desk";

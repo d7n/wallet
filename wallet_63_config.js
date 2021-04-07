@@ -1,1 +1,1 @@
-var mnemonic = "express ridge fatal neutral globe feed corn potato east weapon frequent document";
+var mnemonic = "pact manage connect connect repair emerge session stay attract bachelor age junior";

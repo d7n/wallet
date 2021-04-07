@@ -1,1 +1,1 @@
-var mnemonic = "globe virtual sick firm toast isolate message catalog staff lecture corn drum";
+var mnemonic = "beef south only video metal gun warfare cruel cluster base flush local";

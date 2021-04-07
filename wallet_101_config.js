@@ -1,1 +1,1 @@
-var mnemonic = "park limit install stay pool bomb fiber medal find height recycle output";
+var mnemonic = "crash pen mutual motion release struggle shiver strike wild prison kangaroo life";

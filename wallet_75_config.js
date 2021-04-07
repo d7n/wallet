@@ -1,1 +1,1 @@
-var mnemonic = "salad casual under document loan rival luxury over army never shiver census";
+var mnemonic = "decrease vault junk twice foot lazy lava pass enemy ice answer deputy";

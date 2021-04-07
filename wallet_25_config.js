@@ -1,1 +1,1 @@
-var mnemonic = "gossip float fetch cabbage detail egg wisdom swallow tone what emerge good";
+var mnemonic = "enlist pact youth favorite gorilla bitter slide little negative margin inhale drastic";

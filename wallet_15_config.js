@@ -1,1 +1,1 @@
-var mnemonic = "skirt broken canoe alone theory side wide cousin gloom chuckle switch fall";
+var mnemonic = "air foil episode material attack stove ticket civil rifle whisper model obey";

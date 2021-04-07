@@ -1,1 +1,1 @@
-var mnemonic = "accuse deputy hope chest clump develop fan marble alien bacon jazz pitch";
+var mnemonic = "dose right raccoon essay reopen business capable account system prefer laundry mountain";

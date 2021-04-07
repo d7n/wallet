@@ -1,1 +1,1 @@
-var mnemonic = "approve federal duty nurse solve fever rapid quote shy tube kick broken";
+var mnemonic = "uncover fabric off endless member strategy various solve venture squeeze brain grace";

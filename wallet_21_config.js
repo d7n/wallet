@@ -1,1 +1,1 @@
-var mnemonic = "luxury inner announce inch much this sketch champion farm usage chef woman";
+var mnemonic = "peasant crunch kitchen debate praise badge swear charge winner steel chalk furnace";

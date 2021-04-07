@@ -1,1 +1,1 @@
-var mnemonic = "execute relief champion label rose awkward another zero solution gain over fee";
+var mnemonic = "liquid curious spray between topic bubble submit pupil gossip million miss route";

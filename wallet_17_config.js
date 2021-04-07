@@ -1,1 +1,1 @@
-var mnemonic = "cost ordinary file hammer chest elephant legend equal beach try inspire design";
+var mnemonic = "account echo section actor panic valve depth point poverty rare gentle moon";

@@ -1,1 +1,1 @@
-var mnemonic = "festival fantasy symptom wrestle seek inherit sphere bread orange coin alert scorpion";
+var mnemonic = "planet settle olympic tilt retreat parent smoke glimpse hotel cream equal link";

@@ -1,1 +1,1 @@
-var mnemonic = "size require pact alcohol spare exercise live burden base relief duck oil";
+var mnemonic = "coconut card develop brother pluck ugly price festival traffic gate early level";

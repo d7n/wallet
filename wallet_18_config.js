@@ -1,1 +1,1 @@
-var mnemonic = "stairs weapon submit wrestle pottery fever faint evoke shoot food ability guitar";
+var mnemonic = "move sword wall allow second minute swift west devote adult birth runway";

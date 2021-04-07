@@ -1,1 +1,1 @@
-var mnemonic = "web injury uncle baby fork maple gaze stamp sign club tobacco envelope";
+var mnemonic = "erupt under art loan load december museum noise glide force behave duck";

@@ -1,1 +1,1 @@
-var mnemonic = "offer siren label famous resist slender bargain people melt bicycle update crop";
+var mnemonic = "settle display finger chaos hundred unfair surge step push walnut antenna buddy";

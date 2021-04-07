@@ -1,1 +1,1 @@
-var mnemonic = "holiday female supreme banana eight alcohol subject timber obtain wine steak huge";
+var mnemonic = "satoshi twenty text menu bracket phone casual unknown vessel fruit abuse satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "develop metal extend ceiling stumble stairs swift awesome sponsor text donate scrap";
+var mnemonic = "gun wolf agree tennis decide forum honey mix execute inhale actress soup";

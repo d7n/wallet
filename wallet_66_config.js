@@ -1,1 +1,1 @@
-var mnemonic = "wet link shed gospel forest notable boring viable slight drum make bulb";
+var mnemonic = "shy general voyage pigeon glance bag rose fashion blood sketch middle twin";

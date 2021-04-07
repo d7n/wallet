@@ -1,1 +1,1 @@
-var mnemonic = "brisk planet injury asthma fancy blur reduce size syrup kiwi quick image";
+var mnemonic = "bus wear tornado rigid pond fruit offer mention bone catalog industry robot";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz surge maid galaxy marriage can inflict attend panel cool tragic powder";
+var mnemonic = "morning road certain cake message decrease purchase struggle bomb inner never express";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn later wool guide convince rocket inch fork join frame crew shift";
+var mnemonic = "gun original save equal start course jump suffer story east auto survey";

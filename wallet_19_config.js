@@ -1,1 +1,1 @@
-var mnemonic = "job intact text cluster unique aspect soul valid smoke arena soldier argue";
+var mnemonic = "imitate alley floor wreck flavor problem mammal extend sail zero brass night";

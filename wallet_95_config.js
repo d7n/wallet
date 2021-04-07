@@ -1,1 +1,1 @@
-var mnemonic = "sister frequent voyage use grain galaxy parent chief mad horror pluck also";
+var mnemonic = "shallow increase random hawk fly romance firm moment walnut raise rather vital";

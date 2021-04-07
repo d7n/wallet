@@ -1,1 +1,1 @@
-var mnemonic = "diamond garden water caught you arena access antique candy script another average";
+var mnemonic = "soldier license betray cigar farm anxiety matrix cube such acid situate close";

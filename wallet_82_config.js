@@ -1,1 +1,1 @@
-var mnemonic = "era endless tank assume initial embark salon trim ready student orange under";
+var mnemonic = "glance hero desk can furnace wealth demise pepper wrong truly copy blue";

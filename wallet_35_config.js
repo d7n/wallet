@@ -1,1 +1,1 @@
-var mnemonic = "tribe advance version course double reduce control thank cargo dust make wheat";
+var mnemonic = "address round grass devote twelve throw note nerve gas mail wonder ivory";

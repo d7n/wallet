@@ -1,1 +1,1 @@
-var mnemonic = "square clip barely enact raccoon ring deposit reform prefer cost nominee flavor";
+var mnemonic = "rare since base leave gasp silver again novel emotion avocado budget drip";
