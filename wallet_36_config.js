@@ -1,1 +1,1 @@
-var mnemonic = "broccoli ticket grunt engage sock riot very setup road seminar skull slice";
+var mnemonic = "track buddy excite talent filter jump civil holiday deal flower cradle echo";

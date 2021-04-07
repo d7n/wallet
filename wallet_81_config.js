@@ -1,1 +1,1 @@
-var mnemonic = "enact egg humor unknown glory promote baby vocal east proud belt pair";
+var mnemonic = "patch twin receive inject curious party balance foam negative forget sudden wood";

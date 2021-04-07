@@ -1,1 +1,1 @@
-var mnemonic = "loop lake brown charge advance curious eyebrow midnight afraid junk around solve";
+var mnemonic = "weird comic ripple total middle deposit process once aunt mixture chaos cement";

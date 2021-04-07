@@ -1,1 +1,1 @@
-var mnemonic = "access reject anxiety rocket leave when online drum olympic autumn corn rare";
+var mnemonic = "chase dwarf parent swing powder pony educate ordinary early aisle trade rocket";

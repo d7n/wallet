@@ -1,1 +1,1 @@
-var mnemonic = "avocado slot lobster test drum weapon jealous essence captain allow join shy";
+var mnemonic = "capable teach prison logic cliff shoulder reopen bean connect sadness seed error";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado speed person extra sister hawk resemble glue tool entry minute visual";
+var mnemonic = "scrub dance infant agent vacant image oven ring doll rain loop yellow";

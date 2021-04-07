@@ -1,1 +1,1 @@
-var mnemonic = "review there current also sign chaos betray welcome kitchen farm kitchen remember";
+var mnemonic = "equal brisk dry relief kind torch silver century injury fault tunnel ritual";

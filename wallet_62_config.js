@@ -1,1 +1,1 @@
-var mnemonic = "valve script love either wage number swap shine correct sample alert alley";
+var mnemonic = "shine fox close poverty utility angry aware remember sick sting oak tornado";

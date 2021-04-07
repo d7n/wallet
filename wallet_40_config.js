@@ -1,1 +1,1 @@
-var mnemonic = "dish coffee under diamond media isolate enroll liberty umbrella million document stage";
+var mnemonic = "page elite slush hip dentist visual spell orange grow glance raccoon random";

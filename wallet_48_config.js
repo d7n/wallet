@@ -1,1 +1,1 @@
-var mnemonic = "live fish patch deal olive switch dutch hard blossom organ subway torch";
+var mnemonic = "segment loan olympic comfort tank bargain drink body broom hood giggle ocean";

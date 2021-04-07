@@ -1,1 +1,1 @@
-var mnemonic = "point afraid series verb spice ivory prepare cook spare motor season woman";
+var mnemonic = "glare employ want issue aware fog disagree butter can law clever nerve";

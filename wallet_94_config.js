@@ -1,1 +1,1 @@
-var mnemonic = "hurt easily battle illegal flight unusual cabbage layer trial sweet despair addict";
+var mnemonic = "vague hurdle depart ski clarify beyond lawsuit moral twelve admit squeeze limit";

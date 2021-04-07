@@ -1,1 +1,1 @@
-var mnemonic = "seat stock convince absurd interest all catalog gaze common life enhance ball";
+var mnemonic = "renew warm twelve museum garden sniff auction tent banana baby party nut";

@@ -1,1 +1,1 @@
-var mnemonic = "fence hope range cabin reduce photo bone urge news drive pen horn";
+var mnemonic = "jazz net universe electric usual cereal hole logic icon city forum purchase";

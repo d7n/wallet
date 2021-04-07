@@ -1,1 +1,1 @@
-var mnemonic = "step damage news symbol stem daughter remind raw olympic whip scorpion stuff";
+var mnemonic = "april size bleak fringe fee suffer deliver fun creek already lyrics crime";

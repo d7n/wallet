@@ -1,1 +1,1 @@
-var mnemonic = "axis proud income ladder find cliff struggle volcano reduce gentle typical thumb";
+var mnemonic = "call explain soda grape emotion winner ivory finish stuff forum space mammal";

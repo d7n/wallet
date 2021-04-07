@@ -1,1 +1,1 @@
-var mnemonic = "collect narrow click fossil alarm worry april stereo choice offer term powder";
+var mnemonic = "shrimp solid play focus menu bench merge lecture path base animal century";

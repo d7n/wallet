@@ -1,1 +1,1 @@
-var mnemonic = "absent old melody ramp group timber guard inch alcohol trigger lounge unfold";
+var mnemonic = "question mention cement focus divert keen begin primary firm visual dance pizza";

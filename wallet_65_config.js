@@ -1,1 +1,1 @@
-var mnemonic = "pact turn involve wild expand traffic absorb garbage brother hockey drama require";
+var mnemonic = "zone open cousin cricket churn brown law outer replace damage pave decade";

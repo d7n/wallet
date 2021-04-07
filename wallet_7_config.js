@@ -1,1 +1,1 @@
-var mnemonic = "fee dog pole erupt wide zero sausage trade flash fun meat camp";
+var mnemonic = "flash time entry trade since rack story globe lucky laugh boost safe";

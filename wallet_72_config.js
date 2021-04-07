@@ -1,1 +1,1 @@
-var mnemonic = "neglect rabbit sunny fortune chimney road degree pigeon abuse unhappy chat best";
+var mnemonic = "casino accuse slot know letter toast coffee almost tumble blade field guess";

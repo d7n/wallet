@@ -1,1 +1,1 @@
-var mnemonic = "huge black work invite enforce leave pill fence swear noble flame guess";
+var mnemonic = "like action evolve repair desk snake zoo fan sausage resemble output thing";

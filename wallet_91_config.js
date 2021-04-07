@@ -1,1 +1,1 @@
-var mnemonic = "drama ten record wagon rural spike doctor word fringe copy model sweet";
+var mnemonic = "top venture holiday spot know pulp dragon first desk unlock try dinner";

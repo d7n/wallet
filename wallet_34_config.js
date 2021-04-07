@@ -1,1 +1,1 @@
-var mnemonic = "inform weapon scrap prevent visa weapon lizard drastic dumb human rookie edge";
+var mnemonic = "usual vocal inflict raise exact spell immense diamond genuine volume engage author";

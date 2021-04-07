@@ -1,1 +1,1 @@
-var mnemonic = "reject list field gadget vast fence salt flower slush rapid economy trim";
+var mnemonic = "december miracle rib peasant abandon squeeze sugar history lumber day brother daring";

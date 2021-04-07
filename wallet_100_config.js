@@ -1,1 +1,1 @@
-var mnemonic = "claw come beach old job pistol pulse lobster midnight pole daughter furnace";
+var mnemonic = "traffic phone half main aim beach response stuff bubble sorry theory enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble despair put mom elbow saddle champion bid sustain toss clown offer";
+var mnemonic = "neglect betray crane appear harvest buzz melt claim seat notable ticket voyage";

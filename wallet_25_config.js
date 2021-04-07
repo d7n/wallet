@@ -1,1 +1,1 @@
-var mnemonic = "cry choice current hip ability mouse eight pole clutch summer review dress";
+var mnemonic = "circle enlist symptom mad spread barely turkey access dragon have they depart";

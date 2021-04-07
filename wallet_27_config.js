@@ -1,1 +1,1 @@
-var mnemonic = "journey arrange million leave wild general violin option fury fold electric grab";
+var mnemonic = "link ill flower twin cram cost raccoon stamp street wire hungry exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "begin square urge squirrel shock stairs matter produce addict bacon erupt announce";
+var mnemonic = "mask cruel main buyer purse garlic arrest mosquito income laptop artist bamboo";

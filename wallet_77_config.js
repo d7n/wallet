@@ -1,1 +1,1 @@
-var mnemonic = "range spring attend print rapid circle lecture poem fatigue digital trumpet crop";
+var mnemonic = "virtual heart wise album garlic harbor that tooth rabbit bounce position vocal";

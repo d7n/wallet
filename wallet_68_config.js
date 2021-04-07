@@ -1,1 +1,1 @@
-var mnemonic = "diagram pause olympic adult mango boat capital chase about devote foster flame";
+var mnemonic = "glove budget ring embark milk rate garlic wine damp state bread master";

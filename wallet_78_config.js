@@ -1,1 +1,1 @@
-var mnemonic = "section fog open truck now lazy season forget pudding friend snap tone";
+var mnemonic = "double clown ginger sleep scrap fix illegal oval immune option blue radio";

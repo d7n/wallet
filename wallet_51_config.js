@@ -1,1 +1,1 @@
-var mnemonic = "lady focus mutual mechanic theory frost choice melt basic height knock kitchen";
+var mnemonic = "rhythm govern jaguar satisfy squeeze kitten prevent retire obvious left defy fat";

@@ -1,1 +1,1 @@
-var mnemonic = "apple vault extra submit knife venture trade tortoise raven silly supply raw";
+var mnemonic = "deliver enough auto high trash rural spray purpose random choose myself bundle";

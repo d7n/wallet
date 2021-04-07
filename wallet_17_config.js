@@ -1,1 +1,1 @@
-var mnemonic = "jump attitude silk tower curious ship beach decline almost corn hawk sort";
+var mnemonic = "lyrics finger cost differ devote sense assist sand stage general cradle outer";

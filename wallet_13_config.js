@@ -1,1 +1,1 @@
-var mnemonic = "vivid suggest horse memory prosper caught crowd umbrella issue weird evil walnut";
+var mnemonic = "rule gym wagon home nephew vanish finger cabin drip tomorrow urge around";

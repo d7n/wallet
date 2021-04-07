@@ -1,1 +1,1 @@
-var mnemonic = "walnut slide fetch current defy equal assume custom hobby brown strong sketch";
+var mnemonic = "divert prefer secret thumb initial online betray zebra glad inquiry globe card";

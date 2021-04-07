@@ -1,1 +1,1 @@
-var mnemonic = "glide minimum job venture small abuse skin glance search tired spring topic";
+var mnemonic = "tumble common length differ lion divide fox search play prize uncover web";

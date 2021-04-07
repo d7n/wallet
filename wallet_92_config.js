@@ -1,1 +1,1 @@
-var mnemonic = "fire essay hidden boring strong engine puzzle faith prepare dolphin club inquiry";
+var mnemonic = "exact input smoke pink nephew ankle room nothing detail strike enlist margin";

@@ -1,1 +1,1 @@
-var mnemonic = "dust skin unknown february ivory travel tonight math chat test wrap finish";
+var mnemonic = "build company own educate blouse start harvest spell enact copy neither believe";

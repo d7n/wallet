@@ -1,1 +1,1 @@
-var mnemonic = "found trap fly sister chase whip cube amount afford hobby timber favorite";
+var mnemonic = "smoke step evidence goddess bird ready tackle song describe path hole much";

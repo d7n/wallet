@@ -1,1 +1,1 @@
-var mnemonic = "lock online dash brown label hurry lottery reveal affair reduce sort observe";
+var mnemonic = "abuse kangaroo oak ship sphere actual affair word same water decorate edge";

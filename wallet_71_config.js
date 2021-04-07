@@ -1,1 +1,1 @@
-var mnemonic = "sweet fury nose antique misery course blue regret gravity extra price teach";
+var mnemonic = "float trade relief kitten animal drink veteran harvest salon later suspect guard";

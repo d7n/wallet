@@ -1,1 +1,1 @@
-var mnemonic = "toast either muffin repeat appear dose vanish response number lottery category category";
+var mnemonic = "leave column wealth scorpion hedgehog avoid source gauge among foil rail clog";

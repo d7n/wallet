@@ -1,1 +1,1 @@
-var mnemonic = "moon misery ship craft echo give stool priority where interest resist own";
+var mnemonic = "keep dune impulse match term stay marine misery ridge flash tonight stumble";

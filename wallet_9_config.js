@@ -1,1 +1,1 @@
-var mnemonic = "camera wreck pony neglect decline purpose black stone cram hunt subject orphan";
+var mnemonic = "stay differ day giggle strong artefact honey cheap lady rain join buzz";

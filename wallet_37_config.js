@@ -1,1 +1,1 @@
-var mnemonic = "jewel pool myth huge today venue switch around expand pulse diamond rescue";
+var mnemonic = "enroll eyebrow inhale fluid throw old regret note stone yard delay nurse";

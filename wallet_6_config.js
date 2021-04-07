@@ -1,1 +1,1 @@
-var mnemonic = "pull offer client sheriff nasty follow behind verify blue foam south kid";
+var mnemonic = "picture milk lab actual party amazing enter tragic first rifle horn bubble";

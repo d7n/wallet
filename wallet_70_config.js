@@ -1,1 +1,1 @@
-var mnemonic = "slight firm ostrich nasty region soldier work crack patch fiber anchor total";
+var mnemonic = "half baby domain must hammer mercy fashion oil solar innocent robust act";

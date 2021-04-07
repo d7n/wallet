@@ -1,1 +1,1 @@
-var mnemonic = "industry increase employ clog bridge trigger heavy outdoor lake neither couple earn";
+var mnemonic = "model nation guide shuffle weekend smile camp exchange peace entire river ability";

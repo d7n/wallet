@@ -1,1 +1,1 @@
-var mnemonic = "project debate asthma initial source aim arrange salt food quote approve weapon";
+var mnemonic = "royal maximum elbow try fiscal debris skull globe pitch electric brain dawn";

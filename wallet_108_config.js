@@ -1,1 +1,1 @@
-var mnemonic = "mystery accuse say seek unfold feature icon satisfy document airport weasel wolf";
+var mnemonic = "initial dream what avoid romance sample find alley type recall target square";

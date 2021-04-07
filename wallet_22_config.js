@@ -1,1 +1,1 @@
-var mnemonic = "mesh summer burden example leave grace stairs prosper stuff occur live prize";
+var mnemonic = "engine six yard spider secret wonder quarter child void panel know upon";

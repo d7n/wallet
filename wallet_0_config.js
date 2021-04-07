@@ -1,1 +1,1 @@
-var mnemonic = "merge pumpkin produce beef work crisp length easily hollow truth aspect equip";
+var mnemonic = "luxury traffic project convince clip spell walnut image journey mention guide century";

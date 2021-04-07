@@ -1,1 +1,1 @@
-var mnemonic = "cable brisk oven charge hill hero entire sign sample wise doctor accident";
+var mnemonic = "oil cherry scan mango ride symptom venue alley awake soccer still icon";

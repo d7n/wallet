@@ -1,1 +1,1 @@
-var mnemonic = "that purse arm topic hole journey million goose candy bus loyal pyramid";
+var mnemonic = "lawn rail sample exist perfect valley light lens inquiry toss lyrics milk";

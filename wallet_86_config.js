@@ -1,1 +1,1 @@
-var mnemonic = "kidney card update energy winter trap high quiz garment dash arrive tape";
+var mnemonic = "print rate void gossip kangaroo section lens burden unknown keep glad donate";

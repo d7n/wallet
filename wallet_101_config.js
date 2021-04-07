@@ -1,1 +1,1 @@
-var mnemonic = "nominee guard pet estate result poem hero army tortoise journey genre idle";
+var mnemonic = "brief peasant boat knee across left clerk shoulder topic weekend primary alone";

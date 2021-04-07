@@ -1,1 +1,1 @@
-var mnemonic = "tone opinion topic wine ride bring globe school caution gym impact patch";
+var mnemonic = "silly nature purchase clip reward maple morning wet ridge spawn recipe riot";

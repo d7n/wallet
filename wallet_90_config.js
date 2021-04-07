@@ -1,1 +1,1 @@
-var mnemonic = "basket depend clip another spread opinion tenant visit december good snow predict";
+var mnemonic = "intact kind lens cinnamon fresh crop iron lecture discover valley embrace season";

@@ -1,1 +1,1 @@
-var mnemonic = "section couch flag unit warfare town tank merit sniff theme detect rude";
+var mnemonic = "arch gap seven hint miracle bring genius van barely under file meat";

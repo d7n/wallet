@@ -1,1 +1,1 @@
-var mnemonic = "domain wheat they improve tide stomach rotate avoid gaze begin image session";
+var mnemonic = "insane fork grid above amount execute pepper impact capable ordinary eternal lawn";

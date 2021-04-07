@@ -1,1 +1,1 @@
-var mnemonic = "multiply guitar draw spot wage casual unfair roof cloth eyebrow lake capital";
+var mnemonic = "zoo add impact ring dream possible phrase music board jacket steak poem";

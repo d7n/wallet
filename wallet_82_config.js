@@ -1,1 +1,1 @@
-var mnemonic = "word local increase tiny enough inform subject nasty today chicken sand slight";
+var mnemonic = "talent defy purity such can raise garment magnet parrot offer cricket spirit";

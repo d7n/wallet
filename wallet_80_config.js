@@ -1,1 +1,1 @@
-var mnemonic = "luggage effort hold host fly domain isolate small uphold sick virtual gift";
+var mnemonic = "luggage dune mother cheese hover duty defy corn bracket honey soccer detect";

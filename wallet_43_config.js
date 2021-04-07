@@ -1,1 +1,1 @@
-var mnemonic = "pioneer west arena dizzy resist cereal link dirt lazy toward idle old";
+var mnemonic = "move boil napkin bench strike word scan rhythm forget fatal have gas";

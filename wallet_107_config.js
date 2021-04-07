@@ -1,1 +1,1 @@
-var mnemonic = "wear legal turtle destroy drill nut abuse salad alert second decorate quit";
+var mnemonic = "casino fiscal cattle elegant life cart output pumpkin endless because meat crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "boat scissors sight online noodle skirt fashion begin oppose olive eternal rally";
+var mnemonic = "finish grape alley mystery pledge slim make learn warfare soap walk nuclear";

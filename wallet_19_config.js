@@ -1,1 +1,1 @@
-var mnemonic = "trash dragon thrive bag later sing gadget cotton steel dune large race";
+var mnemonic = "grunt board ride just poet attack piece nerve silent worry daring august";

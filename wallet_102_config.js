@@ -1,1 +1,1 @@
-var mnemonic = "square proof team lawn net dumb box assault achieve column frozen skill";
+var mnemonic = "liberty wear apology cat erode table raven once steel favorite hill absent";

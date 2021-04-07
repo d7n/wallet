@@ -1,1 +1,1 @@
-var mnemonic = "head edit endorse menu follow typical smart wild advice about gauge vacuum";
+var mnemonic = "pitch expire donor danger slow hello fitness pupil blind lion weapon scorpion";

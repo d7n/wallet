@@ -1,1 +1,1 @@
-var mnemonic = "diamond damp once angle census cable record prison know quiz black advance";
+var mnemonic = "public calm cruel unusual print can hurt sure derive trash nut oil";

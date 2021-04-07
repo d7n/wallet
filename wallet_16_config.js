@@ -1,1 +1,1 @@
-var mnemonic = "palm wrap divorce castle cool flight leisure hollow proof initial fine skin";
+var mnemonic = "motion spring blue blur upon wolf step pencil ten unlock vessel entry";

@@ -1,1 +1,1 @@
-var mnemonic = "return present slim century useless mosquito mountain effort stereo dad echo pulp";
+var mnemonic = "census food narrow wild fatal bubble code rival fine real portion cattle";

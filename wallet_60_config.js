@@ -1,1 +1,1 @@
-var mnemonic = "urge vessel race oppose order degree climb increase apology occur nuclear orbit";
+var mnemonic = "major bike weekend umbrella dune chapter acoustic mercy enact shoot achieve width";

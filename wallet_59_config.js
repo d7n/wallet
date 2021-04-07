@@ -1,1 +1,1 @@
-var mnemonic = "jeans chief tennis question transfer cave quit sing grape autumn entry clump";
+var mnemonic = "neither chat require decide three ripple oval work buzz fun inform column";

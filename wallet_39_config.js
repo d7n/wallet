@@ -1,1 +1,1 @@
-var mnemonic = "relax session depth force ignore rug time either mimic oval pond build";
+var mnemonic = "supreme debate finish pride pistol club asset time badge answer silent hip";

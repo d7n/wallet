@@ -1,1 +1,1 @@
-var mnemonic = "inner dumb dawn fee solve effort brick multiply private wealth collect win";
+var mnemonic = "soup immune swap heart amazing meat stage pelican monitor invest game glare";

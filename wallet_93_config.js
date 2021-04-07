@@ -1,1 +1,1 @@
-var mnemonic = "open immune bread exercise general virtual bird finish nation warrior planet arrow";
+var mnemonic = "task organ razor position spy survey offer lazy course vintage much parent";

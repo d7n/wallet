@@ -1,1 +1,1 @@
-var mnemonic = "cotton special truth asset satisfy scan eternal void brief turtle key arctic";
+var mnemonic = "bulb fiber smile length engine address flag banana release culture earn minute";

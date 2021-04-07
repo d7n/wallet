@@ -1,1 +1,1 @@
-var mnemonic = "prevent swarm approve math violin punch phone tide roast rural name shuffle";
+var mnemonic = "disorder remain cable unfold wage message enroll fatal height clutch traffic front";

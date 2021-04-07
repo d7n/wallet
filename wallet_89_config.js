@@ -1,1 +1,1 @@
-var mnemonic = "steak inch walnut judge lyrics goddess disagree bubble edge dice donor open";
+var mnemonic = "allow mansion elegant random kick achieve next casino hedgehog eight sense believe";

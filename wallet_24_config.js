@@ -1,1 +1,1 @@
-var mnemonic = "tragic allow fruit bird spare soup jewel gentle rebel cost spoil credit";
+var mnemonic = "sibling drink option report foil video nest refuse direct exit vibrant husband";

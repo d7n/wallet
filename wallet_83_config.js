@@ -1,1 +1,1 @@
-var mnemonic = "rally breeze monitor copy online raccoon unhappy float narrow close sound control";
+var mnemonic = "illegal fix fork donor heavy misery select comfort prefer zoo oppose city";

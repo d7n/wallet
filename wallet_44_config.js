@@ -1,1 +1,1 @@
-var mnemonic = "school remind penalty simple nation imitate tribe search clay mail illegal crack";
+var mnemonic = "ensure endorse mesh exhibit unfair anxiety tide critic keen gadget twist evolve";

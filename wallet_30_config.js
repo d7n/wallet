@@ -1,1 +1,1 @@
-var mnemonic = "welcome toss eagle fish demand snow session gift anger label burden wing";
+var mnemonic = "nest spirit cross grit cover language sugar guitar member soap cross warm";

@@ -1,1 +1,1 @@
-var mnemonic = "sword vacant divide bronze orange shield decade concert north edit shoot cream";
+var mnemonic = "legal fabric mention amazing require venture during envelope better dilemma addict say";

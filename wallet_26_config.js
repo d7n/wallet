@@ -1,1 +1,1 @@
-var mnemonic = "fox green chair replace love design park amount easily water prefer napkin";
+var mnemonic = "twist food cool talk vehicle ring proud warrior chalk issue maze kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty join leave area order envelope asthma heavy atom ripple because twice";
+var mnemonic = "hood fiction pact shoe family foster absurd system hat deal swift arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "thumb soup excite odor put radar adapt exhibit jealous enact trophy return";
+var mnemonic = "supreme vital next offer knock host force regular sniff curious awesome appear";
