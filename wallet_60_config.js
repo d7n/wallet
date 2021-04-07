@@ -1,1 +1,1 @@
-var mnemonic = "laugh bulk cube picnic kangaroo almost ancient reveal limit napkin dinosaur child";
+var mnemonic = "champion shrug bomb retire become find frequent erase cigar coach priority radar";

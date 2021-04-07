@@ -1,1 +1,1 @@
-var mnemonic = "secret scissors inject laugh matter chuckle sphere embark rather that lonely chef";
+var mnemonic = "opera clown main useless wing carbon weather mountain peace capital glare venture";

@@ -1,1 +1,1 @@
-var mnemonic = "ready siren blouse pave clever fiscal session casual world field state symptom";
+var mnemonic = "concert unique patrol divorce final envelope village sentence brave valve found resemble";

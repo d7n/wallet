@@ -1,1 +1,1 @@
-var mnemonic = "claim kit idle essence kingdom blanket east ankle patch bread since romance";
+var mnemonic = "foster chicken sister prepare dignity vendor bunker image ahead approve ivory sadness";

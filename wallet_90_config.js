@@ -1,1 +1,1 @@
-var mnemonic = "spike mushroom bronze quarter slab door exhaust mushroom help vicious run grass";
+var mnemonic = "engage mass perfect pigeon frequent nephew close pattern lazy mercy satoshi merit";

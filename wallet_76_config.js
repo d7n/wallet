@@ -1,1 +1,1 @@
-var mnemonic = "noodle lion upgrade shiver puzzle pause tag ugly comic code beef hero";
+var mnemonic = "lyrics relief human wise wedding stable night arena drive crane island dove";

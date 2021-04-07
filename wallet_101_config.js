@@ -1,1 +1,1 @@
-var mnemonic = "boat world squeeze stage hurt giraffe news hurdle news guess struggle pelican";
+var mnemonic = "month cloud limb hammer grow forum raven educate guess essay kid sponsor";

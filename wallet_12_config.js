@@ -1,1 +1,1 @@
-var mnemonic = "capital subway bless fame junk off spread general firm gown ice rude";
+var mnemonic = "expose inject chest bulb isolate unable skill alpha rather never injury dutch";

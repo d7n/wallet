@@ -1,1 +1,1 @@
-var mnemonic = "chair million brisk improve sustain worry steak audit document tourist luggage estate";
+var mnemonic = "exhibit little leaf hub wage luxury opinion eager tortoise region evoke equip";

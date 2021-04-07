@@ -1,1 +1,1 @@
-var mnemonic = "twice purpose divorce mean female pledge cattle grid lunch embody fresh grow";
+var mnemonic = "wreck ribbon scale juice tenant math venture issue unaware put pave doctor";

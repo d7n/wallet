@@ -1,1 +1,1 @@
-var mnemonic = "language lamp quantum truly reason diet year family prefer sustain frame canvas";
+var mnemonic = "sentence catalog dust boring sad want quit sample genuine lemon radio chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "flee describe observe great cross beyond inspire address time off father lizard";
+var mnemonic = "tone cannon robust tide pattern capable fun flash method together upon safe";

@@ -1,1 +1,1 @@
-var mnemonic = "will rack either friend skin surface mushroom hint sugar because panther engage";
+var mnemonic = "traffic over gospel winner sign wheel lake machine imitate brain keen seminar";

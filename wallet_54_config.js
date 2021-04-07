@@ -1,1 +1,1 @@
-var mnemonic = "odor market short federal force illegal skill letter gospel atom have labor";
+var mnemonic = "seminar olympic cargo cat series open salute fine weekend earn author shove";

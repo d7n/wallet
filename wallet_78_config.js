@@ -1,1 +1,1 @@
-var mnemonic = "potato face indoor provide venue arrow drama spin dumb rookie inform debris";
+var mnemonic = "salon lend nest boost bounce whisper thought merge cousin quantum run flat";

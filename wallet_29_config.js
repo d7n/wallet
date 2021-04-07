@@ -1,1 +1,1 @@
-var mnemonic = "laptop dynamic suggest mesh high earth close wild cry advance town fault";
+var mnemonic = "there canal humor badge unveil budget survey bunker alone scene local depth";

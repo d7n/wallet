@@ -1,1 +1,1 @@
-var mnemonic = "pyramid share gallery grain weapon owner ready acid swift twelve pistol abstract";
+var mnemonic = "wisdom coin color ten east village alien risk neither soon program captain";

@@ -1,1 +1,1 @@
-var mnemonic = "history various school common require million need before maze neither vendor spider";
+var mnemonic = "wife tag beyond tiny dream case section save shine asthma quantum ankle";

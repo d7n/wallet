@@ -1,1 +1,1 @@
-var mnemonic = "host mobile draw enlist order year toast hollow armed abstract regular permit";
+var mnemonic = "category slim deposit high call clip injury cement endorse rally game negative";

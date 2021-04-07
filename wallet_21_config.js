@@ -1,1 +1,1 @@
-var mnemonic = "oven tiger kind window goose palace weather catalog fish blouse jealous earth";
+var mnemonic = "anger popular option install small afford window chest network suggest crazy quarter";

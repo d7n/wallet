@@ -1,1 +1,1 @@
-var mnemonic = "liar pulp width hill metal random one isolate domain april object draft";
+var mnemonic = "ketchup bounce exist water toy flight pool absurd panel correct total era";

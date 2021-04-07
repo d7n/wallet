@@ -1,1 +1,1 @@
-var mnemonic = "float mixed stool quote describe pigeon antenna this goddess estate expand penalty";
+var mnemonic = "knife trip great million parade assume jungle ill roast state dilemma hurdle";

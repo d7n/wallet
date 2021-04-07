@@ -1,1 +1,1 @@
-var mnemonic = "bless possible worry opera diamond cheese shrug chat bench wing hurdle cost";
+var mnemonic = "target zone seat flock destroy era beach mountain fork action tomato chapter";

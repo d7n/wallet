@@ -1,1 +1,1 @@
-var mnemonic = "robust economy crystal burger sadness toilet treat moral hobby lend turn cover";
+var mnemonic = "slogan lamp oven swear cricket want area embrace mouse hidden heart spice";

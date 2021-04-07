@@ -1,1 +1,1 @@
-var mnemonic = "admit maple dish supply raise struggle brand rib stem amateur hip dash";
+var mnemonic = "will peace must end rapid now cool lobster urge emerge confirm oblige";

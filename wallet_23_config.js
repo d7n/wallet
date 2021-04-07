@@ -1,1 +1,1 @@
-var mnemonic = "device near year wreck situate measure mushroom brass cart school expose artwork";
+var mnemonic = "village execute force glad express network confirm thank purity scheme file frog";

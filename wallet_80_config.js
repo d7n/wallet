@@ -1,1 +1,1 @@
-var mnemonic = "poem advice pottery replace immune fine hollow bar road combine loan vivid";
+var mnemonic = "guide churn airport weasel know surround question split decide sentence fix future";

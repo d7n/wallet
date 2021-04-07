@@ -1,1 +1,1 @@
-var mnemonic = "used antique connect guess near horn merge endless tape tobacco sunset green";
+var mnemonic = "vital own plate crop egg maximum reduce neutral twice health canvas gap";

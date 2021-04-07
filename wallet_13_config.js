@@ -1,1 +1,1 @@
-var mnemonic = "traffic fitness improve walk poem segment glance hurt culture seat team library";
+var mnemonic = "shrimp produce merge inform myth dragon visa floor hand affair upset bronze";

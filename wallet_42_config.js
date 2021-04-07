@@ -1,1 +1,1 @@
-var mnemonic = "apart gain erosion vessel memory nation web vessel saddle prison injury gas";
+var mnemonic = "leave alpha cute design ankle liquid shock token echo more maze child";

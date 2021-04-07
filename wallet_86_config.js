@@ -1,1 +1,1 @@
-var mnemonic = "fault vicious fragile afraid fury move produce mule treat alter survey ketchup";
+var mnemonic = "cram fatal dry liquid like tent bulb mixed brown among fire harbor";

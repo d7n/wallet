@@ -1,1 +1,1 @@
-var mnemonic = "cousin claw notable master text federal police average brass access ghost increase";
+var mnemonic = "skull second lyrics harvest oyster inform flip confirm suffer window trash indoor";

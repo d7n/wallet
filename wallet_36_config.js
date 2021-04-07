@@ -1,1 +1,1 @@
-var mnemonic = "famous tag window aerobic power into orbit gloom sketch exact nature mandate";
+var mnemonic = "icon metal finger great immune math cook ranch welcome walnut timber nasty";

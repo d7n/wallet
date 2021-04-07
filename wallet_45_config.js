@@ -1,1 +1,1 @@
-var mnemonic = "rally night cancel faith canvas food cereal era jump caught bronze oval";
+var mnemonic = "hope they pattern faculty wise trap sauce fiction toy close slam train";

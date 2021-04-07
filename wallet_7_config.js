@@ -1,1 +1,1 @@
-var mnemonic = "myself amount quantum develop symptom affair myth uniform gain cook solution jealous";
+var mnemonic = "cereal tired stadium traffic brisk metal test movie depth social sting anchor";

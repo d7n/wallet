@@ -1,1 +1,1 @@
-var mnemonic = "luxury eager original solution proof body cable blind kitten fork eagle renew";
+var mnemonic = "unveil peasant another way palm better ecology lazy verify aerobic guide address";

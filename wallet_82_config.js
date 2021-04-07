@@ -1,1 +1,1 @@
-var mnemonic = "volcano clarify warfare cost ribbon mask target change rice regret defense side";
+var mnemonic = "tennis clump resist shove glimpse furnace puzzle luxury fortune nose corn supreme";

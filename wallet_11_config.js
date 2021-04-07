@@ -1,1 +1,1 @@
-var mnemonic = "impact disease other tool tumble state melt blind arrest tragic old ahead";
+var mnemonic = "tired middle cook stem search use aware orchard boil umbrella small salmon";

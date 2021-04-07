@@ -1,1 +1,1 @@
-var mnemonic = "agent series pledge idea pig angle victory earth loud buyer armor portion";
+var mnemonic = "column model tip educate climb puppy figure weather left version spray tape";

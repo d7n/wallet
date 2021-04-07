@@ -1,1 +1,1 @@
-var mnemonic = "enter stage fury awesome sign grief member gown alter trust replace spot";
+var mnemonic = "ugly assault keep symptom route trick sell summer sight portion true tomorrow";

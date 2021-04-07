@@ -1,1 +1,1 @@
-var mnemonic = "flag digital fire interest drop bind cabin faculty siren syrup symbol left";
+var mnemonic = "space super save cup witness wrestle dose ugly dismiss hungry pool nest";

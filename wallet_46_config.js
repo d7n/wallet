@@ -1,1 +1,1 @@
-var mnemonic = "liquid fiction keep knock deposit twice ladder ignore alone ten inmate rough";
+var mnemonic = "dutch stem adjust sunny damp that lady absorb noodle barrel slide mixture";

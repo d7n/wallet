@@ -1,1 +1,1 @@
-var mnemonic = "pudding survey relax tell kingdom treat loan local swift silver beauty safe";
+var mnemonic = "feature fit erode room clown equip anxiety extend index exit leave catch";

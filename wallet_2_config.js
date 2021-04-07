@@ -1,1 +1,1 @@
-var mnemonic = "popular art since flame cry access asset three jungle van exhaust corn";
+var mnemonic = "repeat monkey burden street educate wrist wealth divert divide vacant cruel canal";

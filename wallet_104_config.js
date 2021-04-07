@@ -1,1 +1,1 @@
-var mnemonic = "alert review auto produce gallery frog tube claim direct hair sting guitar";
+var mnemonic = "mask shoot kid spy sail produce pet side rabbit point critic negative";

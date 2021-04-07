@@ -1,1 +1,1 @@
-var mnemonic = "abstract summer reduce glide help scene tennis evil actual embrace siren just";
+var mnemonic = "network lift project double comic wait next sponsor spare wide thumb disorder";

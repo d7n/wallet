@@ -1,1 +1,1 @@
-var mnemonic = "harsh flight buddy legal depth else bicycle puppy kangaroo believe notable young";
+var mnemonic = "nut wolf cover parent forget ladder rifle odor review ability unable lava";

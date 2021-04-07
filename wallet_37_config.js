@@ -1,1 +1,1 @@
-var mnemonic = "garbage cage stand street seminar survey talk help fat fan between catch";
+var mnemonic = "seek spice tail announce equip photo select buddy pass there way once";

@@ -1,1 +1,1 @@
-var mnemonic = "engine inch snack save payment liberty grit mercy urban rocket zebra unique";
+var mnemonic = "churn praise mule verb valve ordinary foam rubber neck worry hybrid ostrich";

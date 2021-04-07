@@ -1,1 +1,1 @@
-var mnemonic = "busy metal fiscal duty surround educate surge piano parrot fly neutral dose";
+var mnemonic = "warrior sudden island pride concert balcony traffic interest lounge boring shell mother";

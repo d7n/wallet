@@ -1,1 +1,1 @@
-var mnemonic = "hen toy view decide lady middle record pride enjoy zebra goose guess";
+var mnemonic = "camp snack alley gloom promote web auction help base indicate despair orbit";

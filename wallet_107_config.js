@@ -1,1 +1,1 @@
-var mnemonic = "come choice soda end same neck myself interest section middle hat salon";
+var mnemonic = "diet south situate enforce release flower conduct lift image ride suspect element";

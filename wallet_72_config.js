@@ -1,1 +1,1 @@
-var mnemonic = "blood bonus garden truly attend vacant tennis pink donate siren vintage resource";
+var mnemonic = "slim crisp amused flag salute olive provide mind raw fat behind web";

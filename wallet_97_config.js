@@ -1,1 +1,1 @@
-var mnemonic = "harvest burger basic child stumble violin host dash engine shop method cloth";
+var mnemonic = "candy begin zoo misery acoustic worth smooth success file food evoke field";

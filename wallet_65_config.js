@@ -1,1 +1,1 @@
-var mnemonic = "gadget ancient language clay then wrestle truth someone fly afford exact grocery";
+var mnemonic = "curve win verify antique trim receive gun dawn junior vibrant mandate lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "region fiber rent summer syrup bottom party soup kiss junk task rotate";
+var mnemonic = "half extend usage tomorrow buddy cost forward cool garage error venture cloud";

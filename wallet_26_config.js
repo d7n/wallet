@@ -1,1 +1,1 @@
-var mnemonic = "bubble spoon income curious scale limb rude meadow glide tell airport urge";
+var mnemonic = "erupt item auto ribbon exhibit match exist humble raven jewel promote fatal";

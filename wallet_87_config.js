@@ -1,1 +1,1 @@
-var mnemonic = "remain found match blame omit weasel surge unusual across post rail force";
+var mnemonic = "detect setup kiss olympic receive skull that upon antique begin cruise dragon";

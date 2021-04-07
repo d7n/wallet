@@ -1,1 +1,1 @@
-var mnemonic = "average accident snake snack correct antique use athlete sponsor shuffle rack boring";
+var mnemonic = "enough tide basket someone grape message child prefer position join educate access";

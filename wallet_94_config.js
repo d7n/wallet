@@ -1,1 +1,1 @@
-var mnemonic = "lens demise spice shaft garbage cloth easily south width apology accident unfair";
+var mnemonic = "tuition net scan foil month ecology paper obvious capital extend you spare";

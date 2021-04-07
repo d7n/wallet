@@ -1,1 +1,1 @@
-var mnemonic = "edge unit above together surround weapon hub outside remain cinnamon tunnel cruel";
+var mnemonic = "thought enroll second wisdom chuckle leave useless rely airport police harbor lunar";

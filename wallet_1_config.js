@@ -1,1 +1,1 @@
-var mnemonic = "age system canyon marriage ladder flush smart mask scissors already canvas garbage";
+var mnemonic = "regular organ floor hurry loyal hello scorpion undo riot please ladder kick";

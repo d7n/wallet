@@ -1,1 +1,1 @@
-var mnemonic = "supply melt reveal city celery alarm grid model frozen adult barrel vault";
+var mnemonic = "random split hero unfair mimic spider lumber expose survey trophy wealth artwork";

@@ -1,1 +1,1 @@
-var mnemonic = "use carry unhappy island settle chase uniform lyrics advance answer ozone earth";
+var mnemonic = "secret december boring scare movie caught pull then ancient elite spread spawn";

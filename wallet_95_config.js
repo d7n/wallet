@@ -1,1 +1,1 @@
-var mnemonic = "awake spray crunch because brother actor unaware spy cake aware spare multiply";
+var mnemonic = "jaguar symbol trip lumber decline tornado loan rail fade humor club exhibit";

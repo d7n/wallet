@@ -1,1 +1,1 @@
-var mnemonic = "enrich thing atom hire joke total hotel grunt target mistake certain hole";
+var mnemonic = "bottom border spider upon transfer habit cruise produce paper nasty very check";

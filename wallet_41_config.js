@@ -1,1 +1,1 @@
-var mnemonic = "forget speak gasp glance strong palace acquire chicken hammer risk gym excite";
+var mnemonic = "tube siege shine monster oblige embrace leader vessel garbage security profit write";

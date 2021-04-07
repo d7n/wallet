@@ -1,1 +1,1 @@
-var mnemonic = "social knife such legend beach true narrow innocent post silent mosquito friend";
+var mnemonic = "later frequent million embody raw quote bag code truth liar slush taxi";

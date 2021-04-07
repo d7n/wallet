@@ -1,1 +1,1 @@
-var mnemonic = "episode shock teach leg pony brown attend scrub police audit huge mistake";
+var mnemonic = "buffalo blast hope okay private addict promote cinnamon kitchen resource foam abstract";

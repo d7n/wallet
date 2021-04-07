@@ -1,1 +1,1 @@
-var mnemonic = "picture sponsor visa solve admit author enroll bid sketch buddy stumble wing";
+var mnemonic = "victory sibling install reveal spice endorse swear base intact humble salon state";

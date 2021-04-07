@@ -1,1 +1,1 @@
-var mnemonic = "faculty twenty senior elegant furnace bunker resource install balance fence fan client";
+var mnemonic = "almost rail arrive tuna more firm sibling fee leader priority unhappy submit";

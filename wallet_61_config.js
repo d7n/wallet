@@ -1,1 +1,1 @@
-var mnemonic = "help random bean novel gold crime cement river guilt twice again warrior";
+var mnemonic = "boring genuine isolate promote stuff please club buzz outdoor gasp light whale";

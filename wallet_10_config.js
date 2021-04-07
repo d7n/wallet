@@ -1,1 +1,1 @@
-var mnemonic = "garlic undo jaguar fresh blossom craft clever wool cake burst brother club";
+var mnemonic = "mom accident plug firm news easy decide all paper loyal crash water";

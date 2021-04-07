@@ -1,1 +1,1 @@
-var mnemonic = "tennis over ability huge damage relax sword crouch until excite primary jar";
+var mnemonic = "sleep hint tube swim assist price better garbage cousin drama soup burst";

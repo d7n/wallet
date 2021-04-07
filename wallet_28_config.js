@@ -1,1 +1,1 @@
-var mnemonic = "artwork update bamboo exit bachelor bargain virtual project scrap edit clerk guess";
+var mnemonic = "mask poem mosquito slab boil resemble dish nurse core educate normal brown";

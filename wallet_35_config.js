@@ -1,1 +1,1 @@
-var mnemonic = "onion fork fringe dash bracket face yellow ghost nest horn cram what";
+var mnemonic = "baby pulse jeans fee panther churn rib interest song joke recycle dizzy";

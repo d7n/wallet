@@ -1,1 +1,1 @@
-var mnemonic = "fashion garage mixed catalog guess scorpion spell apple pond blue wrist success";
+var mnemonic = "machine rough hand floor squeeze morning obvious employ struggle celery have tree";

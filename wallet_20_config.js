@@ -1,1 +1,1 @@
-var mnemonic = "reward feed spy unveil receive alien glance captain thank normal way quick";
+var mnemonic = "multiply fat because desk debate fitness office three music deliver narrow combine";

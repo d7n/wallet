@@ -1,1 +1,1 @@
-var mnemonic = "frequent feature credit evoke avoid gravity spend escape shed issue mango rug";
+var mnemonic = "pluck breeze hero bonus glow rookie leopard news bird monster rate mom";

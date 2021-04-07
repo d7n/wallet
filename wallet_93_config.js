@@ -1,1 +1,1 @@
-var mnemonic = "dirt split train quality envelope claw earn regular forget copy outdoor theory";
+var mnemonic = "certain repeat feel sign cattle depart total volcano pumpkin abstract assist broccoli";

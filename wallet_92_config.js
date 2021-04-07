@@ -1,1 +1,1 @@
-var mnemonic = "bacon dust maid pizza engine used muffin one kitten kind mansion surge";
+var mnemonic = "correct obscure calm hedgehog surge wrong shuffle ankle mail front crop keep";

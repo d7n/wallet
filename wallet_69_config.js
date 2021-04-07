@@ -1,1 +1,1 @@
-var mnemonic = "olympic route panel girl twelve waste oval expect attitude quiz unit sleep";
+var mnemonic = "stumble census soup argue maximum hollow finish walnut swallow analyst whip virus";

@@ -1,1 +1,1 @@
-var mnemonic = "brother simple crack ride future around visual bulk lounge ride action scheme";
+var mnemonic = "talk test organ wisdom tide innocent gun brave void fat crunch fiction";

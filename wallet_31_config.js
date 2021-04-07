@@ -1,1 +1,1 @@
-var mnemonic = "oven excess purpose hedgehog tiger sea van soon exile pencil horror divorce";
+var mnemonic = "bring outdoor woman power moment target gadget sunny orient brass garment alley";

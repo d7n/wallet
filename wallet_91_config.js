@@ -1,1 +1,1 @@
-var mnemonic = "slight knock mind dignity catch okay achieve sound certain cheese sniff venue";
+var mnemonic = "skirt zone avocado hard spread box erase autumn purse mansion romance hope";

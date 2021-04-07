@@ -1,1 +1,1 @@
-var mnemonic = "fun holiday razor ghost runway buffalo fuel hospital swallow acid oval knock";
+var mnemonic = "scissors blanket curve cloth draft pepper daring marine abstract minute rocket follow";

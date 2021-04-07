@@ -1,1 +1,1 @@
-var mnemonic = "daring merry chase struggle cloth arrow ketchup bicycle valley disease brave cluster";
+var mnemonic = "puzzle blouse humble vapor stick advice upon cave emerge pony human adult";

@@ -1,1 +1,1 @@
-var mnemonic = "retire safe cupboard rookie armed clap ivory attend crisp yellow joke glory";
+var mnemonic = "pipe brand adapt one flag kangaroo sustain sadness twelve river culture mouse";

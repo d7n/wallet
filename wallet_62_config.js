@@ -1,1 +1,1 @@
-var mnemonic = "limb antenna final rich fox fringe screen museum memory ship cruise feed";
+var mnemonic = "pizza melt merit wall ensure season usual bicycle level size piece recall";

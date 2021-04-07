@@ -1,1 +1,1 @@
-var mnemonic = "drip rather below test repeat effort acoustic weird coral tattoo remember swarm";
+var mnemonic = "beach convince series trip satoshi miss buffalo stumble friend imitate fold upon";

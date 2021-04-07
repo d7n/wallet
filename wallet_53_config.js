@@ -1,1 +1,1 @@
-var mnemonic = "theory obscure spider tornado distance real hole federal still east edge custom";
+var mnemonic = "repair saddle era audit service off during deposit barrel easily cash kitchen";
