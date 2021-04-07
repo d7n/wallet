@@ -1,1 +1,1 @@
-var mnemonic = "clip market local mother syrup hawk enjoy scrap kite spoil rally account";
+var mnemonic = "idle unknown hundred yard victory bottom large small lucky govern lounge very";

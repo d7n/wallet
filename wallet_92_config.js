@@ -1,1 +1,1 @@
-var mnemonic = "inspire sun pen custom chuckle enable pottery lawsuit relief orchard coyote skirt";
+var mnemonic = "tree drink orchard exercise capital fat anxiety festival talk desert first fuel";

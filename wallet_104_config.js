@@ -1,1 +1,1 @@
-var mnemonic = "viable mutual grid renew mean favorite connect rotate puzzle under census evolve";
+var mnemonic = "cave ten column come future general never connect isolate camera chunk dentist";

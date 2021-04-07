@@ -1,1 +1,1 @@
-var mnemonic = "course violin inmate permit together symbol write cross write educate sand best";
+var mnemonic = "dash pride slam awful drift first level promote expect helmet veteran staff";

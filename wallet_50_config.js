@@ -1,1 +1,1 @@
-var mnemonic = "bargain eager wish pet addict rival spin over rate digital aisle rebuild";
+var mnemonic = "try food strategy wonder cradle myth song receive true satisfy avocado crazy";

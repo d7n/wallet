@@ -1,1 +1,1 @@
-var mnemonic = "output tape iron nuclear silly village mirror drum grid hunt reveal exact";
+var mnemonic = "bless install insane horse answer chuckle avocado rent plate plastic annual brother";

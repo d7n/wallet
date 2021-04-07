@@ -1,1 +1,1 @@
-var mnemonic = "oyster pattern clown rapid typical car stomach public badge mistake soul coffee";
+var mnemonic = "easily scene hard wave theory cart lend craft girl swallow asthma glad";

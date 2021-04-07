@@ -1,1 +1,1 @@
-var mnemonic = "chimney have decide trial eight bomb salad flame pistol eagle foot erosion";
+var mnemonic = "orient blade luxury creek knife half two suit gather cruise across crater";

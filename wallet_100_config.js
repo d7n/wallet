@@ -1,1 +1,1 @@
-var mnemonic = "hamster caught note nerve gift venue boss plastic pass autumn visual island";
+var mnemonic = "domain fat ripple suffer unknown bullet rapid hint genre tackle device abstract";

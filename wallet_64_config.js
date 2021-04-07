@@ -1,1 +1,1 @@
-var mnemonic = "small immune erosion during aerobic guilt birth weird monitor arctic post neck";
+var mnemonic = "palace brand language visa tomato drum flash stumble baby utility kangaroo test";

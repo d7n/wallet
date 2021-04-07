@@ -1,1 +1,1 @@
-var mnemonic = "canvas quick cruel wool message input range pause polar transfer true deliver";
+var mnemonic = "make army boil exile timber entry antenna word ten lunar patrol law";

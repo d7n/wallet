@@ -1,1 +1,1 @@
-var mnemonic = "lyrics fault sudden sword sphere toddler spy design gym figure thunder soccer";
+var mnemonic = "bulb distance balance merge civil used tent real wasp detail bird talk";

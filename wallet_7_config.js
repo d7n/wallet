@@ -1,1 +1,1 @@
-var mnemonic = "wrist clog reunion earn excite ring course biology doll isolate arena churn";
+var mnemonic = "decrease trust palace picture frown own apple alter tissue adult basic ski";

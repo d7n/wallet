@@ -1,1 +1,1 @@
-var mnemonic = "box laundry quality oil fossil ridge avoid approve beyond habit soda utility";
+var mnemonic = "exclude envelope fluid plug fruit innocent minute obscure access bitter shift east";

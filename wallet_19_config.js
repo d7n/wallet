@@ -1,1 +1,1 @@
-var mnemonic = "shy evidence wing grocery motion other retire dolphin search hurt bar cart";
+var mnemonic = "dinosaur opinion whale admit illness draft play review cannon total lab satisfy";

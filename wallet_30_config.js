@@ -1,1 +1,1 @@
-var mnemonic = "guitar crack school roof buffalo swallow inject autumn absurd humor brown damage";
+var mnemonic = "catch more public future ethics blame modify report hurry swift invite host";

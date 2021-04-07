@@ -1,1 +1,1 @@
-var mnemonic = "prison festival reduce physical hotel gym into typical ordinary boost suit shrug";
+var mnemonic = "warm top cram sun hour emotion depend easy symptom bronze ivory hello";

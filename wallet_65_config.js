@@ -1,1 +1,1 @@
-var mnemonic = "program lyrics gold august blame pond over success vote unusual salon worth";
+var mnemonic = "hero drill cactus sugar solid inject rate rate spread polar today carbon";

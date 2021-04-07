@@ -1,1 +1,1 @@
-var mnemonic = "erosion shell verb clump equal jeans inquiry appear convince polar oven two";
+var mnemonic = "stumble around loyal slow dumb hope globe foam police galaxy sunset federal";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid tortoise topic decide cement glory asset minimum side hunt right earth";
+var mnemonic = "holiday resist camera nurse during kick slide burger cry toss ankle urge";

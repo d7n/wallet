@@ -1,1 +1,1 @@
-var mnemonic = "average door few what camera company road salon trust autumn play peace";
+var mnemonic = "crash concert fiber target hobby soda jealous lawsuit butter try credit degree";

@@ -1,1 +1,1 @@
-var mnemonic = "path flat notable world kick bullet castle stage beef sketch zoo rent";
+var mnemonic = "trash stairs harvest salt release cash tape black frog loan dolphin pass";

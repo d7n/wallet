@@ -1,1 +1,1 @@
-var mnemonic = "degree candy table poet dune trade ribbon say clown sign provide capital";
+var mnemonic = "cross income half trial saddle average banana worry wheat dice budget ocean";

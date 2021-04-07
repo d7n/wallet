@@ -1,1 +1,1 @@
-var mnemonic = "little hunt input mirror wing holiday exact speak genuine inflict random endorse";
+var mnemonic = "bone blame jewel village wire latin equip scare harsh rich hover ripple";

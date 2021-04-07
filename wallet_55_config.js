@@ -1,1 +1,1 @@
-var mnemonic = "reunion van pretty lucky upper fine people tank jar horse recall prison";
+var mnemonic = "twin festival fragile category solve tip convince suit rocket absent oval cart";

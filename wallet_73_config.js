@@ -1,1 +1,1 @@
-var mnemonic = "strategy light potato frown manage flock dawn soldier find enjoy snap similar";
+var mnemonic = "alpha stereo spell bread gain unfair tired muscle frown orchard private unfold";

@@ -1,1 +1,1 @@
-var mnemonic = "brother labor rib surge joy shallow behind hazard circle special ethics machine";
+var mnemonic = "office clever fuel light choice sketch beef hard renew tattoo winter rack";

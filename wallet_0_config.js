@@ -1,1 +1,1 @@
-var mnemonic = "kiwi school enforce favorite egg isolate zoo switch chest asset level diagram";
+var mnemonic = "width dash season lion mouse alter second powder oyster fuel bus mixed";

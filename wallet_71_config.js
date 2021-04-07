@@ -1,1 +1,1 @@
-var mnemonic = "orbit region flock visit expect wing fatal charge any luxury dune zero";
+var mnemonic = "shift yellow mask ride bonus come cigar salute indicate purity tobacco panda";

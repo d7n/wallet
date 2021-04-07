@@ -1,1 +1,1 @@
-var mnemonic = "obvious quick large myth drop brush trade outer opinion reunion differ silent";
+var mnemonic = "copper hotel rocket jump carbon scorpion section project diesel smile duty timber";

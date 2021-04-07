@@ -1,1 +1,1 @@
-var mnemonic = "ankle chief stage trick tooth easy mail comic code label tube barely";
+var mnemonic = "inform sorry pill force balance auto odor duty again oxygen cannon anxiety";

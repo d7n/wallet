@@ -1,1 +1,1 @@
-var mnemonic = "own sleep sad praise erase forest hawk enlist invite estate aware spider";
+var mnemonic = "cannon sustain either either cup when egg meadow secret try embody wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "other wise elegant divorce doctor jump patrol jump blue enable hero stairs";
+var mnemonic = "bridge cram borrow reunion maple key culture clip tube claim pencil bronze";

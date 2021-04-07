@@ -1,1 +1,1 @@
-var mnemonic = "twist rib spider express loyal turtle snake coconut question below income spawn";
+var mnemonic = "give frame crater smart pupil arena circle estate spirit gate mesh verb";

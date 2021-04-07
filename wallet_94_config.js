@@ -1,1 +1,1 @@
-var mnemonic = "demand trick wonder recipe wink water feel fruit pencil reward travel soup";
+var mnemonic = "come mobile exclude anxiety arrow believe exit reform antenna smooth castle mango";

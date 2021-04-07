@@ -1,1 +1,1 @@
-var mnemonic = "legend round vivid harvest winner west dilemma property arrest bike decide timber";
+var mnemonic = "vacant column they bunker quarter smooth summer power predict ignore trust crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "accident file perfect mansion license pioneer enrich health trick leisure arena stumble";
+var mnemonic = "parade atom jazz bronze stem symptom path goose inhale quote extra odor";

@@ -1,1 +1,1 @@
-var mnemonic = "unable have there this anger loud glass exile firm dial dwarf wire";
+var mnemonic = "phrase diet ride vapor tube chaos capable pass moon any oblige clay";

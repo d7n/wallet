@@ -1,1 +1,1 @@
-var mnemonic = "memory flat throw clerk marble gorilla rack armed kitten agent advice number";
+var mnemonic = "habit road exotic walnut purse shadow banner dream awesome circle grunt toddler";

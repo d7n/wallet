@@ -1,1 +1,1 @@
-var mnemonic = "curious holiday transfer sheriff evolve scene hollow patient corn grant shift captain";
+var mnemonic = "meat change chapter guide unique brick frost orchard essence salt cram wise";

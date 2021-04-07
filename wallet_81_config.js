@@ -1,1 +1,1 @@
-var mnemonic = "embrace film client valid draw enemy genius tide style worth emerge weather";
+var mnemonic = "crawl atom bird salmon work inquiry teach crowd before section forum connect";

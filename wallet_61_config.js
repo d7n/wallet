@@ -1,1 +1,1 @@
-var mnemonic = "control ring wine cable ball list ask material fetch weird roof wear";
+var mnemonic = "trumpet elite web opinion dolphin sing only brass squeeze there flame tobacco";

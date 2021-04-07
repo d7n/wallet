@@ -1,1 +1,1 @@
-var mnemonic = "shine bamboo hint elite menu april ladder horse scene drip office average";
+var mnemonic = "borrow vehicle strategy home chest method strong cup eye what base enter";

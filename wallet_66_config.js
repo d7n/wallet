@@ -1,1 +1,1 @@
-var mnemonic = "choose giant narrow build dwarf choose brand night oil boat shine prize";
+var mnemonic = "narrow hip dumb give about renew holiday extend laundry ketchup job jar";

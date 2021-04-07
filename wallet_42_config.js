@@ -1,1 +1,1 @@
-var mnemonic = "canoe drop enroll coast slot joy remove board season chicken convince rug";
+var mnemonic = "illness girl extend void later twice dutch argue call hundred perfect morning";

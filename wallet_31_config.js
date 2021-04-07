@@ -1,1 +1,1 @@
-var mnemonic = "bag pause orange method middle define occur victory ankle dumb wave section";
+var mnemonic = "flame involve soup bird person stamp tower green sketch spray script gasp";

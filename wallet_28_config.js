@@ -1,1 +1,1 @@
-var mnemonic = "clay sword outside fitness south vendor bronze step crime father lift crawl";
+var mnemonic = "survey quick expect scatter flavor tent sick stage review cross unlock craft";

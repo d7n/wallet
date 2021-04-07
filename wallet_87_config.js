@@ -1,1 +1,1 @@
-var mnemonic = "unit purchase solar answer thought emotion giraffe view alcohol gadget clock maze";
+var mnemonic = "guess across cool artwork core key bring tower stamp essay proof possible";

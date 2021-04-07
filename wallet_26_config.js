@@ -1,1 +1,1 @@
-var mnemonic = "enough network repeat tuna initial velvet number hill fit fence disagree million";
+var mnemonic = "ocean cancel gauge super tiny genre demise swift cradle erase lunar mercy";

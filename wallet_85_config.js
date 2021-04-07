@@ -1,1 +1,1 @@
-var mnemonic = "judge pear jump card boy either purpose forward boil prepare mask increase";
+var mnemonic = "wrestle next soul vacuum fan chuckle auto layer venture vicious survey tenant";

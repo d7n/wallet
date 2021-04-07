@@ -1,1 +1,1 @@
-var mnemonic = "remember erupt sword fossil pilot include cabbage task gate fury shiver glance";
+var mnemonic = "amount leg dog river demise twice trigger clown labor bone jeans envelope";

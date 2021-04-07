@@ -1,1 +1,1 @@
-var mnemonic = "high act ridge security census glory main sail peanut hidden luxury belt";
+var mnemonic = "early net network first differ front donate boat super convince welcome room";

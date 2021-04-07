@@ -1,1 +1,1 @@
-var mnemonic = "eager swing helmet swift drill mammal surge hover float inhale vote such";
+var mnemonic = "appear impact trigger eyebrow tackle usage pause capable clutch medal hard gallery";

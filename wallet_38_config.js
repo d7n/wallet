@@ -1,1 +1,1 @@
-var mnemonic = "dolphin legal midnight change chicken spare rabbit demise antenna auto upgrade soft";
+var mnemonic = "benefit trophy truth merit reduce whip fitness add apple nurse admit sunny";

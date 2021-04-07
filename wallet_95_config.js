@@ -1,1 +1,1 @@
-var mnemonic = "inspire peace museum report bar paddle cross junior purchase wheat endorse enhance";
+var mnemonic = "chicken tourist journey vague voice entire coast galaxy onion like because illness";

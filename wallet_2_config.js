@@ -1,1 +1,1 @@
-var mnemonic = "ensure grace topic weekend west train harbor super neither drift idea cancel";
+var mnemonic = "random tornado race execute between auction absent leopard blush timber opera tomato";

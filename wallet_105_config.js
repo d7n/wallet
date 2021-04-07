@@ -1,1 +1,1 @@
-var mnemonic = "lecture oval lamp chase index oven elite balcony uniform wolf private paper";
+var mnemonic = "quantum moment fatal winter member silk method over produce state wet artist";

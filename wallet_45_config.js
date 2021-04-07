@@ -1,1 +1,1 @@
-var mnemonic = "shrug debris knee marriage crash warm spike large disagree leave shed shop";
+var mnemonic = "easily surge artwork bonus that lawn random vocal country skill artefact someone";

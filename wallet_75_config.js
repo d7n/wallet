@@ -1,1 +1,1 @@
-var mnemonic = "hungry start shuffle prize negative firm gate captain wrong require similar laugh";
+var mnemonic = "few elder runway alpha clip desk glare chat local moon snap ordinary";

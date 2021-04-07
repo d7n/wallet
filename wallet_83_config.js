@@ -1,1 +1,1 @@
-var mnemonic = "park right mule depart face obscure romance host strike diary ridge sweet";
+var mnemonic = "swift when crew whip topple float inhale february party pet weird play";

@@ -1,1 +1,1 @@
-var mnemonic = "degree skill task front ostrich spider scrub usual unique loud quick harbor";
+var mnemonic = "blade army danger ability game feel cake wrong empower edge such chaos";

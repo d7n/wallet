@@ -1,1 +1,1 @@
-var mnemonic = "surprise climb media action fitness eye prosper subject struggle debate identify return";
+var mnemonic = "gather family tower wrestle input share balance clip wrestle lamp attack outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel fever pull seat what drop figure left cabbage firm opinion insane";
+var mnemonic = "curve shoulder world damp ivory grant bone lift chalk arena toast spin";

@@ -1,1 +1,1 @@
-var mnemonic = "retire census elder indicate dynamic fox wonder run eye detect hard problem";
+var mnemonic = "blue crisp west only bomb couch repair fault rose brown main energy";

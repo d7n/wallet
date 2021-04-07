@@ -1,1 +1,1 @@
-var mnemonic = "artefact moment pill side visit cluster glad gaze mail siren april vanish";
+var mnemonic = "purchase fatal modify verb trust monster wrong polar grab copy speed circle";

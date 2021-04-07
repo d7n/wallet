@@ -1,1 +1,1 @@
-var mnemonic = "shoe recipe quiz brave sibling cushion eyebrow fine sell spell budget prevent";
+var mnemonic = "attitude various coast gaze scout auto census describe multiply double satoshi festival";

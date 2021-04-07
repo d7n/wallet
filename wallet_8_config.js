@@ -1,1 +1,1 @@
-var mnemonic = "lock false aspect conduct also winter unit false ranch green beef regular";
+var mnemonic = "start panel thunder invest position track world common final mountain marriage curtain";

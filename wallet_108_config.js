@@ -1,1 +1,1 @@
-var mnemonic = "adjust entire mix wonder burden total like trick claw blood secret float";
+var mnemonic = "injury obvious few alter gather myth render ring fold poverty left copy";

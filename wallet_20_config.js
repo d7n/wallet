@@ -1,1 +1,1 @@
-var mnemonic = "proud moon tomorrow sniff usage chair elite start shy above ride ladder";
+var mnemonic = "offer accuse atom index tape cigar wrestle daughter picnic pig electric equip";

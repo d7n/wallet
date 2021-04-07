@@ -1,1 +1,1 @@
-var mnemonic = "pigeon icon age cloth minute web spatial help upon hope wall increase";
+var mnemonic = "pipe parent evidence collect ball erupt defy begin explain wage topple rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol deny cherry midnight taste off cruel wave element select vibrant test";
+var mnemonic = "strategy voice slide proof category tourist fragile resemble youth athlete stage tower";

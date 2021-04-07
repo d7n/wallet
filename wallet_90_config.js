@@ -1,1 +1,1 @@
-var mnemonic = "flag wheel episode diet truth forest clinic captain diagram witness eager silk";
+var mnemonic = "until foster flush scrap capable derive sibling illness forward heavy pumpkin guitar";

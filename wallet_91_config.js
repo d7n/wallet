@@ -1,1 +1,1 @@
-var mnemonic = "beyond treat slow pair illegal people surprise credit armor buzz client thought";
+var mnemonic = "nut walk tiny table often reopen dinner sad grass hold couple project";

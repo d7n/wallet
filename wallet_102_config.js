@@ -1,1 +1,1 @@
-var mnemonic = "mirror clinic giraffe know cute clinic salon abandon waste number expire fork";
+var mnemonic = "swarm neutral crater figure ill marriage scrub smoke allow garlic grid catalog";

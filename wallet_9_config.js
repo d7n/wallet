@@ -1,1 +1,1 @@
-var mnemonic = "vapor oven cricket very short ship tribe home kingdom reveal point target";
+var mnemonic = "celery jaguar total lawn present gasp accuse bundle response when attract diesel";

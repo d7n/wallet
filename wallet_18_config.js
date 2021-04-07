@@ -1,1 +1,1 @@
-var mnemonic = "belt quick error between duck strike scan autumn host rich ginger february";
+var mnemonic = "prepare base nature chaos type parade chapter repeat offer trash shrimp smoke";

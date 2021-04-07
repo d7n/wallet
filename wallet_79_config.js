@@ -1,1 +1,1 @@
-var mnemonic = "vote already process tomato swarm broom snap measure recall broom stomach wealth";
+var mnemonic = "exhibit nation leaf coil vault always buyer obvious source drill butter pet";

@@ -1,1 +1,1 @@
-var mnemonic = "enough gas guess wedding head orphan stadium grief much chalk trade raw";
+var mnemonic = "dial alley access inner cotton night vote sure civil elder pencil tank";

@@ -1,1 +1,1 @@
-var mnemonic = "receive grunt volcano business cram trim again gadget opinion trend observe talent";
+var mnemonic = "talent gun exile frown clock method wealth sketch diagram expose silver elegant";

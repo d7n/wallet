@@ -1,1 +1,1 @@
-var mnemonic = "accident saddle enroll float return truck remember almost young ready calm mountain";
+var mnemonic = "slogan blue label inform blush mechanic melt crater age regret foam tortoise";

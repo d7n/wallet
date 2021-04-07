@@ -1,1 +1,1 @@
-var mnemonic = "voyage embark must notice spoon include lawsuit dismiss broccoli lab normal outer";
+var mnemonic = "artwork mountain erode copper grant swift during human cute bid casual twelve";

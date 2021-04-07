@@ -1,1 +1,1 @@
-var mnemonic = "vivid hurt explain inject foot dune entry neck wife alert tide dinner";
+var mnemonic = "anxiety board amount brisk private sibling diagram bunker car inner slow warfare";

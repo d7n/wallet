@@ -1,1 +1,1 @@
-var mnemonic = "shield shrug spare trust vintage remind island drum save nerve write struggle";
+var mnemonic = "stereo glare equal they loan cost vintage mosquito torch bubble choose duty";

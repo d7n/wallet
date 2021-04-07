@@ -1,1 +1,1 @@
-var mnemonic = "crash error artist congress grass phrase move brass steak forest stove open";
+var mnemonic = "suggest guilt north tortoise remove cage client consider village monitor can smile";

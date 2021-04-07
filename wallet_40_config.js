@@ -1,1 +1,1 @@
-var mnemonic = "omit emotion same embrace mind broom surface supply primary index east spring";
+var mnemonic = "traffic jaguar evolve coil unusual promote habit hip couch cousin rug word";

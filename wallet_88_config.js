@@ -1,1 +1,1 @@
-var mnemonic = "pull grow hollow paper brown clutch wife web quiz concert elephant step";
+var mnemonic = "require game ostrich scrub torch camp only donor bamboo bag shoot elevator";

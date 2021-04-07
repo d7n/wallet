@@ -1,1 +1,1 @@
-var mnemonic = "approve mushroom diamond main faculty what slush magnet balcony prepare soldier zero";
+var mnemonic = "donor name mercy stool project off toast chicken flip title wave call";

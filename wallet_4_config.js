@@ -1,1 +1,1 @@
-var mnemonic = "scatter acquire grunt bird mouse weather sniff local ready loan film thank";
+var mnemonic = "volcano farm hire fatal siege gold lesson goose asset thunder shield awful";

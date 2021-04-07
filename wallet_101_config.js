@@ -1,1 +1,1 @@
-var mnemonic = "army attack number wheel treat strike category exotic crumble mistake detail youth";
+var mnemonic = "tenant differ alter brown hawk risk electric small soccer deliver recipe height";

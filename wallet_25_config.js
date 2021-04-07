@@ -1,1 +1,1 @@
-var mnemonic = "swarm flower left hip situate will bachelor pilot call salad helmet afraid";
+var mnemonic = "layer cousin dynamic author tissue nerve suggest seed fog initial marble emerge";
