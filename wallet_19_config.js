@@ -1,1 +1,1 @@
-var mnemonic = "during dilemma half knock guess gym index never master sample replace add";
+var mnemonic = "job intact text cluster unique aspect soul valid smoke arena soldier argue";

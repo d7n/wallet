@@ -1,1 +1,1 @@
-var mnemonic = "settle clerk distance cram delay reunion text social juice whisper other segment";
+var mnemonic = "hockey avocado crush spawn test tonight world resource south toss review suspect";

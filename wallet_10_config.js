@@ -1,1 +1,1 @@
-var mnemonic = "puppy hope congress wrestle present final guitar cinnamon vital west history sunny";
+var mnemonic = "balcony size enhance another response stock until toddler nice trust amused lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "garden gospel awkward height pig kick rich fan green three puppy another";
+var mnemonic = "globe virtual sick firm toast isolate message catalog staff lecture corn drum";

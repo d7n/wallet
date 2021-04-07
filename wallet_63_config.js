@@ -1,1 +1,1 @@
-var mnemonic = "forest original seat across destroy citizen furnace around enroll return skill rare";
+var mnemonic = "express ridge fatal neutral globe feed corn potato east weapon frequent document";

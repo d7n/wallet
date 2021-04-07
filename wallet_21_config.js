@@ -1,1 +1,1 @@
-var mnemonic = "sugar ramp behind outside honey rescue fox grid police liberty view tornado";
+var mnemonic = "luxury inner announce inch much this sketch champion farm usage chef woman";

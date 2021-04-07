@@ -1,1 +1,1 @@
-var mnemonic = "brother price acquire inner hub tail love acoustic problem rib mind already";
+var mnemonic = "execute relief champion label rose awkward another zero solution gain over fee";

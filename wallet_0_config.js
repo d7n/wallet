@@ -1,1 +1,1 @@
-var mnemonic = "giant find genre exist alley prefer profit twelve talk parrot left churn";
+var mnemonic = "shoe rich object box tourist avocado cake post nerve talk story dentist";

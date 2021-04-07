@@ -1,1 +1,1 @@
-var mnemonic = "axis furnace penalty dash sentence double shed hazard diagram transfer slice pipe";
+var mnemonic = "taxi reform ridge dinner antenna bean sword trap huge member alley hole";

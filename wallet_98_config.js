@@ -1,1 +1,1 @@
-var mnemonic = "degree ozone tape hedgehog ride spare write humor organ stomach fluid around";
+var mnemonic = "card snake shoulder buzz solution ramp dish winner random dragon move hub";

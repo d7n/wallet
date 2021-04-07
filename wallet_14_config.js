@@ -1,1 +1,1 @@
-var mnemonic = "midnight move change evil frown giraffe damage fresh judge table merge balance";
+var mnemonic = "gossip rabbit modify sniff danger shell soon mosquito dune morning embark outside";

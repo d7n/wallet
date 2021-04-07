@@ -1,1 +1,1 @@
-var mnemonic = "person march diamond urge stuff town wide ski stable cram party sponsor";
+var mnemonic = "gadget veteran law square around flavor unique remove true sight slab valve";

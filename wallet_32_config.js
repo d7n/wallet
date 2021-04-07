@@ -1,1 +1,1 @@
-var mnemonic = "resource office wool police estate gold pudding brain sing aim space seminar";
+var mnemonic = "turkey mistake finger quantum news gallery endless twenty luggage repair auto skin";

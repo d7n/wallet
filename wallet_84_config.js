@@ -1,1 +1,1 @@
-var mnemonic = "ceiling diagram math danger require found music chronic negative shaft prepare weapon";
+var mnemonic = "siren tenant neglect public equip speak fall radar empty gas entire rich";

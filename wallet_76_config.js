@@ -1,1 +1,1 @@
-var mnemonic = "mixed fatal usual paddle knife slush mechanic toe debate juice nut unveil";
+var mnemonic = "mosquito physical one melody crucial certain soda trust zero neglect quit mistake";

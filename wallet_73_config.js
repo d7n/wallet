@@ -1,1 +1,1 @@
-var mnemonic = "lounge lift weapon short local tooth ensure thing expand doctor coconut mask";
+var mnemonic = "uphold have keen where panel cattle web sample summer meadow enroll peanut";

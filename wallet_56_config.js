@@ -1,1 +1,1 @@
-var mnemonic = "same stumble flip prize hurt tonight pave sustain tool finish fragile action";
+var mnemonic = "muscle opinion tree jazz catalog prepare wide rival glove gather tube lock";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion table veteran anchor typical violin dirt sell dutch night faint alert";
+var mnemonic = "era endless tank assume initial embark salon trim ready student orange under";

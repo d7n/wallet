@@ -1,1 +1,1 @@
-var mnemonic = "weekend grant tiger actual oxygen divert smooth strong old turkey north viable";
+var mnemonic = "gas army salon penalty demise lend fit judge cluster noble shiver clown";

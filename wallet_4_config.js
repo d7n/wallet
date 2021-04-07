@@ -1,1 +1,1 @@
-var mnemonic = "sight before elevator light embark maze floor rail else town myth fiction";
+var mnemonic = "accuse deputy hope chest clump develop fan marble alien bacon jazz pitch";

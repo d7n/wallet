@@ -1,1 +1,1 @@
-var mnemonic = "assume blame pull disorder actual ranch tired arm umbrella first broom current";
+var mnemonic = "anxiety cup rug embark scene sand warrior puzzle cheese chronic stable sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "receive illegal group sun someone section destroy bleak sting goat panel company";
+var mnemonic = "furnace piece slot prevent infant isolate glass found adjust length shuffle claim";

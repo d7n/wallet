@@ -1,1 +1,1 @@
-var mnemonic = "broken wash loan fiscal post tragic wrong erupt hazard weekend raw trap";
+var mnemonic = "web injury uncle baby fork maple gaze stamp sign club tobacco envelope";

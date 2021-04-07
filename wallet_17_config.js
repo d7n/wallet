@@ -1,1 +1,1 @@
-var mnemonic = "mesh crush wedding cherry vintage science found open knife unable smoke bone";
+var mnemonic = "cost ordinary file hammer chest elephant legend equal beach try inspire design";

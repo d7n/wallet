@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon engage yellow trend column nice mail knock what obey hungry uncle";
+var mnemonic = "hotel cheese trap frown remember type belt pulp inherit rude quantum inmate";

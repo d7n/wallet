@@ -1,1 +1,1 @@
-var mnemonic = "chronic early deal install umbrella begin length grunt evidence nothing draw cycle";
+var mnemonic = "raven mystery seminar smoke miss funny phrase armed record mechanic expire mesh";

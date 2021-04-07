@@ -1,1 +1,1 @@
-var mnemonic = "rely ethics enact illness brick summer find stand extend artefact moment wrist";
+var mnemonic = "approve federal duty nurse solve fever rapid quote shy tube kick broken";

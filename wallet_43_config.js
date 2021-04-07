@@ -1,1 +1,1 @@
-var mnemonic = "find gas throw venture window tide divert surge reform story decrease crawl";
+var mnemonic = "arm seek cable used fiber reward impulse empty lottery horn weather bamboo";

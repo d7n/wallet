@@ -1,1 +1,1 @@
-var mnemonic = "clinic guess short exile monster crowd inmate museum appear basket ceiling mobile";
+var mnemonic = "mutual tomorrow antique gauge rally daring ugly put random maximum feature visual";

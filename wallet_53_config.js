@@ -1,1 +1,1 @@
-var mnemonic = "abuse team teach immense assault boost present bike guard miracle broccoli frost";
+var mnemonic = "brisk planet injury asthma fancy blur reduce size syrup kiwi quick image";

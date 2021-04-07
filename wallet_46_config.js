@@ -1,1 +1,1 @@
-var mnemonic = "wide fee pole leisure lazy story middle design subject scrub giant naive";
+var mnemonic = "advance sentence cargo such beyond lock else help place below palace skill";

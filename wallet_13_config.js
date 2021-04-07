@@ -1,1 +1,1 @@
-var mnemonic = "join trap apart purpose guard quote candy burst flavor enrich drum lemon";
+var mnemonic = "crouch elder task warfare spice puppy nice cube assault lonely afraid volcano";

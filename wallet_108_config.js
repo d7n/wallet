@@ -1,1 +1,1 @@
-var mnemonic = "only mountain sea eyebrow stone health ozone wash leg high ocean because";
+var mnemonic = "festival fantasy symptom wrestle seek inherit sphere bread orange coin alert scorpion";

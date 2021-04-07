@@ -1,1 +1,1 @@
-var mnemonic = "betray endless arm head mail life knife drip virus friend hover pyramid";
+var mnemonic = "kid profit apart thumb soldier effort bench slab cannon salon stuff equip";

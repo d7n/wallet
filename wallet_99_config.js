@@ -1,1 +1,1 @@
-var mnemonic = "around muscle material comfort write diet glimpse dumb start strategy run elbow";
+var mnemonic = "genius knee tackle silver bright year clarify cute all series real build";

@@ -1,1 +1,1 @@
-var mnemonic = "noble elite surge oil faith floor hand brand favorite door shoot day";
+var mnemonic = "pigeon axis useless course seven donate woman tongue scan news inspire twelve";

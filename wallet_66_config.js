@@ -1,1 +1,1 @@
-var mnemonic = "inch grid license eternal chalk notable range advance absent immune enlist grape";
+var mnemonic = "wet link shed gospel forest notable boring viable slight drum make bulb";

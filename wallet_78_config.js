@@ -1,1 +1,1 @@
-var mnemonic = "input slow empty twice choose shrimp audit page page cereal key boss";
+var mnemonic = "crucial token victory heavy select can during thunder deer grape access audit";

@@ -1,1 +1,1 @@
-var mnemonic = "banner humble conduct just insane report impact two kiwi close empty lock";
+var mnemonic = "puzzle device ripple account fine lesson feature open dutch quality oyster manage";

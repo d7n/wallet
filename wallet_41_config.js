@@ -1,1 +1,1 @@
-var mnemonic = "helmet conduct arena track senior bread wool sport nose buffalo success praise";
+var mnemonic = "dolphin cabbage legal federal harbor route arrive sort rapid finger essence sound";

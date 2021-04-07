@@ -1,1 +1,1 @@
-var mnemonic = "apple brother country wing item clay stone slide cost under erupt month";
+var mnemonic = "sister frequent voyage use grain galaxy parent chief mad horror pluck also";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle enroll margin wrestle poet theory letter radar resource earth soul pledge";
+var mnemonic = "hidden private farm essence style wrap property trick fiction bachelor where faint";

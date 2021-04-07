@@ -1,1 +1,1 @@
-var mnemonic = "video possible chef walnut logic mandate cram test glide boil remind clock";
+var mnemonic = "blast assist fold choose wrist model fox ketchup bring armed object reject";

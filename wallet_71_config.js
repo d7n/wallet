@@ -1,1 +1,1 @@
-var mnemonic = "auction cattle penalty ankle submit circle horn loop twenty panel gauge tragic";
+var mnemonic = "one twelve sausage price moment exact mean puppy trial duty answer assault";

@@ -1,1 +1,1 @@
-var mnemonic = "escape carbon special common fit vivid link ice come silly ceiling describe";
+var mnemonic = "giggle loud claim they biology scare act way slim crash couch zoo";

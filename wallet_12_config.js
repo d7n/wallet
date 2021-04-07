@@ -1,1 +1,1 @@
-var mnemonic = "cactus oxygen anchor scale conduct square decide odor include exclude labor smooth";
+var mnemonic = "one mandate gospel famous coffee doll bracket absorb lake feed era genuine";

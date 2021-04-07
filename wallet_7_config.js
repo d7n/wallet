@@ -1,1 +1,1 @@
-var mnemonic = "flavor leopard art brown inner crater claw egg start uniform pilot empower";
+var mnemonic = "abuse draw firm mandate survey round music bless angry north tone drift";

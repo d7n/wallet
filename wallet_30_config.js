@@ -1,1 +1,1 @@
-var mnemonic = "correct marine dog vibrant finish impact finish tell report jewel spawn laptop";
+var mnemonic = "hip topple nasty mask rough spoil gauge lottery limb view strong nephew";

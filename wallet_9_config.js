@@ -1,1 +1,1 @@
-var mnemonic = "hobby faculty junior chat swear cabbage letter disorder cost panther place desert";
+var mnemonic = "cute surprise february urge join gas engine choice casual amateur talent home";

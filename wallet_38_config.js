@@ -1,1 +1,1 @@
-var mnemonic = "bargain hawk good salt slot flash matter unit dwarf able cup border";
+var mnemonic = "square clip barely enact raccoon ring deposit reform prefer cost nominee flavor";

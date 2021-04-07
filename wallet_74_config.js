@@ -1,1 +1,1 @@
-var mnemonic = "crane address under same yard neck silly paper grit sleep concert toilet";
+var mnemonic = "rescue expect enrich drum few hurt capable type fuel catch leisure spin";

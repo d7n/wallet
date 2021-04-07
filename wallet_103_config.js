@@ -1,1 +1,1 @@
-var mnemonic = "mirror original tone key choose describe suspect because forest dune insane fossil";
+var mnemonic = "belt walnut eye income unknown pattern ostrich injury spawn media receive dial";

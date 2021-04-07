@@ -1,1 +1,1 @@
-var mnemonic = "genre yard you position lake sun engage market nut gasp tobacco primary";
+var mnemonic = "fluid notable once limit dilemma attitude lazy tray damage fix narrow hedgehog";

@@ -1,1 +1,1 @@
-var mnemonic = "provide promote garment grape manual enrich absurd kit enforce brief tornado lock";
+var mnemonic = "draft lobster flush happy cattle return lamp renew try lock tiny science";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom ill bench student into dash cargo bounce slight umbrella west thumb";
+var mnemonic = "develop metal extend ceiling stumble stairs swift awesome sponsor text donate scrap";

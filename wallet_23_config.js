@@ -1,1 +1,1 @@
-var mnemonic = "document have craft detail kingdom unhappy gossip dash decrease element blanket wisdom";
+var mnemonic = "symbol rate window romance above grocery street office skate drip pool dish";

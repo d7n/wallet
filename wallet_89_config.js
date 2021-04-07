@@ -1,1 +1,1 @@
-var mnemonic = "benefit fine blast bundle filter warrior diamond arm whisper flash fortune ginger";
+var mnemonic = "civil bid mirror income surround differ fan author unusual south virtual measure";

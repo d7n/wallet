@@ -1,1 +1,1 @@
-var mnemonic = "crystal entry absurd voyage pilot across mixed crumble local bleak sauce claim";
+var mnemonic = "lawsuit bronze trend joke adapt exchange often ladder congress size crystal album";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit chapter time dumb expand license gun suspect apart finger shop canvas";
+var mnemonic = "session crew seek orient cup like hazard shell air until try famous";

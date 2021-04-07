@@ -1,1 +1,1 @@
-var mnemonic = "mixed anchor coin ladder hope gold suspect robot heart route screen pave";
+var mnemonic = "recall pass stick shove february father curious century bid floor input truck";

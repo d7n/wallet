@@ -1,1 +1,1 @@
-var mnemonic = "possible twist broccoli advice pen sick grass sense stage grass stick pear";
+var mnemonic = "tribe advance version course double reduce control thank cargo dust make wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "denial junior say oval salmon then team undo abuse detect toilet tomorrow";
+var mnemonic = "marble buyer swamp gap fault average lamp end relax evil simple perfect";

@@ -1,1 +1,1 @@
-var mnemonic = "divide scrap mutual enact arctic proof draft access borrow between cupboard labor";
+var mnemonic = "pole clog sing casino check habit castle pattern blood buffalo blast cluster";

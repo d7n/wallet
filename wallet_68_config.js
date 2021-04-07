@@ -1,1 +1,1 @@
-var mnemonic = "increase truly track chuckle bundle receive beauty today must potato install destroy";
+var mnemonic = "spawn later wool guide convince rocket inch fork join frame crew shift";

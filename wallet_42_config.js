@@ -1,1 +1,1 @@
-var mnemonic = "disease memory gospel faint pride stairs learn story first acid satoshi cement";
+var mnemonic = "order sight pride they snack plate island remember kidney asset steak planet";

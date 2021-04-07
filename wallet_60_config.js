@@ -1,1 +1,1 @@
-var mnemonic = "crew spring head bicycle rail actual orbit tongue sketch misery better cactus";
+var mnemonic = "leisure cinnamon sing mutual nose slender false ghost ready express glove coyote";

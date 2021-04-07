@@ -1,1 +1,1 @@
-var mnemonic = "truly spot exile neck stadium connect flame margin session cross success toddler";
+var mnemonic = "salad casual under document loan rival luxury over army never shiver census";

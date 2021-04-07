@@ -1,1 +1,1 @@
-var mnemonic = "inch bird sweet artist school toy grocery lazy loan army pipe gallery";
+var mnemonic = "dog issue brother tool begin oval shiver ribbon shed more timber culture";

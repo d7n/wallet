@@ -1,1 +1,1 @@
-var mnemonic = "cave bone find aware arrow onion shoe elbow firm soda prize coil";
+var mnemonic = "coffee quote dad parrot liquid joke company orphan tilt guide father tuna";

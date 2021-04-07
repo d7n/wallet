@@ -1,1 +1,1 @@
-var mnemonic = "move today cool jar pass blame tail core walk goose vast unlock";
+var mnemonic = "stairs weapon submit wrestle pottery fever faint evoke shoot food ability guitar";

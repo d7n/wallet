@@ -1,1 +1,1 @@
-var mnemonic = "repair bundle strategy jazz kitten scissors farm roast wrong relax exotic vapor";
+var mnemonic = "lawsuit fragile shadow minor primary vessel poet market liar castle series trouble";

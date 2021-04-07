@@ -1,1 +1,1 @@
-var mnemonic = "finish credit pilot question hover segment roof loyal excite magnet path amused";
+var mnemonic = "size require pact alcohol spare exercise live burden base relief duck oil";

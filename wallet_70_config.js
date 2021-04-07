@@ -1,1 +1,1 @@
-var mnemonic = "vote gift boat average catalog satisfy able across you pitch empower version";
+var mnemonic = "target galaxy saddle prosper shed thumb lizard rebuild journey address example circle";

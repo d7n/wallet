@@ -1,1 +1,1 @@
-var mnemonic = "fatal inflict order know element token weapon include rail situate connect biology";
+var mnemonic = "wisdom bike burger gravity base mask demise spray runway sand deer humble";

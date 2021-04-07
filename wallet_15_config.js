@@ -1,1 +1,1 @@
-var mnemonic = "enter throw top leopard perfect length drop black gravity sick glance dwarf";
+var mnemonic = "skirt broken canoe alone theory side wide cousin gloom chuckle switch fall";

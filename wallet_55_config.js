@@ -1,1 +1,1 @@
-var mnemonic = "dance remain forward absorb woman civil example fade book napkin future sheriff";
+var mnemonic = "lunch roof trip replace edge run include spring demise just real melody";

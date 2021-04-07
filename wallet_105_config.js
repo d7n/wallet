@@ -1,1 +1,1 @@
-var mnemonic = "lizard flame play battle inflict raven figure arena heavy employ ticket sea";
+var mnemonic = "tomorrow brush muscle taxi aim view gather position pottery scout black they";

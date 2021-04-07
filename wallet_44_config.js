@@ -1,1 +1,1 @@
-var mnemonic = "develop float broken river egg proud range shield renew issue capital spider";
+var mnemonic = "holiday female supreme banana eight alcohol subject timber obtain wine steak huge";

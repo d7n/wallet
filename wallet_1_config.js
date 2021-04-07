@@ -1,1 +1,1 @@
-var mnemonic = "live elite spider habit track patient suspect scrap urban wink resemble ladder";
+var mnemonic = "coconut color dynamic shove walk woman gown raise flash inquiry tree path";

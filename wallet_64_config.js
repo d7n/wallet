@@ -1,1 +1,1 @@
-var mnemonic = "address defy broccoli bean aware toilet advance trust agent party spy nothing";
+var mnemonic = "pumpkin input riot wing resist appear govern guitar produce firm dish pigeon";

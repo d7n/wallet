@@ -1,1 +1,1 @@
-var mnemonic = "glow open glimpse humble inquiry foil truly feed stomach symbol picnic cable";
+var mnemonic = "move feature write eye asthma recipe tomato ivory bracket uniform hurt wall";

@@ -1,1 +1,1 @@
-var mnemonic = "flee nature ribbon gaze tortoise rebel gown clarify awkward lumber used term";
+var mnemonic = "cover cement pen beach cruel fury oxygen renew chimney clock couch gown";

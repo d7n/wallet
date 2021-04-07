@@ -1,1 +1,1 @@
-var mnemonic = "lounge special tobacco mad fault embody stamp cross rebuild crowd open buyer";
+var mnemonic = "whip trade sort material next symptom wonder bicycle ocean mention cover tonight";

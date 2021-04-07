@@ -1,1 +1,1 @@
-var mnemonic = "gorilla turn half public light abandon grape pole olympic rely party powder";
+var mnemonic = "mushroom remove parrot fame sorry avoid visual illegal render confirm cattle surprise";

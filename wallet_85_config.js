@@ -1,1 +1,1 @@
-var mnemonic = "weird library head hundred erase brisk weapon travel hair wild smoke approve";
+var mnemonic = "flip ketchup impulse blast say throw denial swallow anxiety burst vague gloom";

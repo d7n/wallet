@@ -1,1 +1,1 @@
-var mnemonic = "market ceiling video effort dinner myth mountain fiscal afraid foam pilot boy";
+var mnemonic = "luxury lunch cliff twelve decline call job rather recipe seek crucial apart";

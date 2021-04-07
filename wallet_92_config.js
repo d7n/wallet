@@ -1,1 +1,1 @@
-var mnemonic = "asthma plug kingdom nut drama laptop lend intact service resemble subject twenty";
+var mnemonic = "lounge sorry ill stage response learn extend lava pulp only assist vital";

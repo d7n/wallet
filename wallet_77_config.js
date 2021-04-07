@@ -1,1 +1,1 @@
-var mnemonic = "bubble misery goose picture guard wheel tobacco what inner pistol celery alert";
+var mnemonic = "seek man elephant maze hollow tenant hair february ignore render this couple";

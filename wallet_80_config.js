@@ -1,1 +1,1 @@
-var mnemonic = "lottery know audit damp nerve please rain aim speak say vapor trap";
+var mnemonic = "diamond garden water caught you arena access antique candy script another average";

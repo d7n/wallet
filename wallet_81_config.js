@@ -1,1 +1,1 @@
-var mnemonic = "alter crash scrub apology shallow one thrive nature body harbor shuffle sibling";
+var mnemonic = "agree pride library oval fluid effort need swallow explain better royal copper";

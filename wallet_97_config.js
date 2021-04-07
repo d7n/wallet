@@ -1,1 +1,1 @@
-var mnemonic = "shine network fame ticket poem arena current stairs industry outside near salute";
+var mnemonic = "tourist side century ramp fabric fiction scorpion together clown together axis talk";
