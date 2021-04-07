@@ -1,1 +1,1 @@
-var mnemonic = "saddle laundry someone giant inspire birth shrug name announce sting whale decline";
+var mnemonic = "combine tone quantum almost pair tortoise tell athlete connect loyal vivid dizzy";

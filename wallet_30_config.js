@@ -1,1 +1,1 @@
-var mnemonic = "pave invest candy dynamic cradle kingdom hat flip tube elephant wage mask";
+var mnemonic = "vessel convince neither unlock ribbon move someone morning flame actor zebra weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "measure extra laptop sketch museum adjust secret laugh kiwi action ice guard";
+var mnemonic = "similar judge leg brave scale barrel wire gravity topic decrease slide bench";

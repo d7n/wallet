@@ -1,1 +1,1 @@
-var mnemonic = "notice crack toe together mixture piano rice alone ice pond intact term";
+var mnemonic = "online fashion aware file basic tonight infant security super city february make";

@@ -1,1 +1,1 @@
-var mnemonic = "soul inhale surge neglect range drama hundred glory later short earth become";
+var mnemonic = "noodle cat blame earth fit grab zero ugly liar banana agree success";

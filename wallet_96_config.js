@@ -1,1 +1,1 @@
-var mnemonic = "divide name unusual awkward merge expand elegant build radio liar boring trap";
+var mnemonic = "draft comic swarm educate million output random antenna bus grocery wing thunder";

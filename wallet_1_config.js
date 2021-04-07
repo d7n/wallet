@@ -1,1 +1,1 @@
-var mnemonic = "quick balance depth leader monkey vendor regular modify team confirm canal lesson";
+var mnemonic = "scatter require raw people trade tragic pledge garbage time renew canvas illness";

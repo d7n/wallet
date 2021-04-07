@@ -1,1 +1,1 @@
-var mnemonic = "poverty before visa drop grant account innocent trend size vicious autumn level";
+var mnemonic = "surprise rack rival blade cricket tide volume fly soap describe vocal interest";

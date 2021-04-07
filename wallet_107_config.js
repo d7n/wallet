@@ -1,1 +1,1 @@
-var mnemonic = "orange material spawn index dolphin maximum insect music problem title muffin shoulder";
+var mnemonic = "youth wagon oval oval memory control buzz monitor spend adapt bacon airport";

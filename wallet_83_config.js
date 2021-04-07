@@ -1,1 +1,1 @@
-var mnemonic = "tilt awful bean cable exile echo junk fantasy congress theory noodle fortune";
+var mnemonic = "cause monster ten series awful sustain acoustic lawn cheap blur piano still";

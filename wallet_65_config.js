@@ -1,1 +1,1 @@
-var mnemonic = "thumb term retire civil that add idle sell milk wink chef kangaroo";
+var mnemonic = "business thank twice mosquito frown vessel brand common pass rotate glass good";

@@ -1,1 +1,1 @@
-var mnemonic = "faint gun hope man blind glare pulse stuff river day slender bitter";
+var mnemonic = "key early legend either basket sad path boil suit share resemble also";

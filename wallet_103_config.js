@@ -1,1 +1,1 @@
-var mnemonic = "suggest tiny price media stool evoke off quit round absurd gossip accuse";
+var mnemonic = "cash minimum garlic flee mosquito solution car average six time essay face";

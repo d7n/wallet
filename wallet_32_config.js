@@ -1,1 +1,1 @@
-var mnemonic = "nephew when prevent alert slab dash hockey damp eagle accident image area";
+var mnemonic = "quit range soldier mango faith slush fetch source diary arrange step shield";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff club tent man tooth bright trick impact message void one coyote";
+var mnemonic = "produce foster decide snap clutch bind envelope predict blur chicken garlic nature";

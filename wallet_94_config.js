@@ -1,1 +1,1 @@
-var mnemonic = "blouse arm disagree film crazy harsh unveil dawn rack design pink unit";
+var mnemonic = "burden ancient mention pulse mind metal ice evolve rotate three brick aisle";

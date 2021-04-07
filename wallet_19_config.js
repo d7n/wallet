@@ -1,1 +1,1 @@
-var mnemonic = "end over shift shift engine face sense carpet blossom conduct evoke include";
+var mnemonic = "opinion purse cover advice elbow episode cherry time spray hold aim text";

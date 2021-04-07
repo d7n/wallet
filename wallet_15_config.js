@@ -1,1 +1,1 @@
-var mnemonic = "moment obvious prefer army clarify danger dial unusual slice tiny boil render";
+var mnemonic = "calm bomb stereo breeze spoon behind arch device inspire drink denial execute";

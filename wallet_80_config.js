@@ -1,1 +1,1 @@
-var mnemonic = "blanket annual rural pitch exist swing guess catalog electric sell carbon spawn";
+var mnemonic = "today keep aerobic august sun initial must primary sauce account staff torch";

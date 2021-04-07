@@ -1,1 +1,1 @@
-var mnemonic = "ceiling human debris spirit cup pulp large moral flame thumb kingdom require";
+var mnemonic = "penalty easy clever cradle wrist rebuild boost potato oyster error camera middle";

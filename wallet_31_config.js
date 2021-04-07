@@ -1,1 +1,1 @@
-var mnemonic = "inquiry earn clock consider round usual fat vacuum heart away disorder twelve";
+var mnemonic = "wreck have void snow pluck either vocal decade cream call milk can";

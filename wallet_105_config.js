@@ -1,1 +1,1 @@
-var mnemonic = "emerge primary load grape ramp shock test absent taxi ship cloth zero";
+var mnemonic = "used wrestle motion bounce endless ice submit safe culture nerve divert scrap";

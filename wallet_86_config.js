@@ -1,1 +1,1 @@
-var mnemonic = "away avocado tiger abandon crumble please reduce gorilla arm once puppy misery";
+var mnemonic = "river paddle learn mimic woman until raven path omit mind side list";

@@ -1,1 +1,1 @@
-var mnemonic = "camera occur liar minimum party category tape spirit ladder access raven eagle";
+var mnemonic = "unable social use circle erase crop three away scrap plug wrist kid";

@@ -1,1 +1,1 @@
-var mnemonic = "husband cattle excess cream coast rain right dwarf quit gospel blush because";
+var mnemonic = "castle team magic raw renew cage erode vehicle economy answer suffer father";

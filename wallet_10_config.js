@@ -1,1 +1,1 @@
-var mnemonic = "good museum album favorite crime replace truth client silly young lyrics vapor";
+var mnemonic = "apple sponsor oven peanut digital combine seven zebra shiver permit domain song";

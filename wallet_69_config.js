@@ -1,1 +1,1 @@
-var mnemonic = "day worth quality fabric garage afraid nut economy bread taste permit cream";
+var mnemonic = "goddess lend borrow depth noble earn approve sister chicken juice item oblige";

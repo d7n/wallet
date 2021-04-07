@@ -1,1 +1,1 @@
-var mnemonic = "slice tray parent learn arrange grape hotel tool laptop purpose purse course";
+var mnemonic = "heart awesome team satoshi gasp federal actor orbit trophy local exile island";

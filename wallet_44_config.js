@@ -1,1 +1,1 @@
-var mnemonic = "dirt orange raven pupil green story outdoor cloth camp faculty marble recipe";
+var mnemonic = "defense express cotton ecology visual staff nice harvest clap fortune long illegal";

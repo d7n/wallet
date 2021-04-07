@@ -1,1 +1,1 @@
-var mnemonic = "humble wool borrow sport false say two labor cube response service crater";
+var mnemonic = "birth street erode bitter muscle damage cable guilt dose unhappy light north";

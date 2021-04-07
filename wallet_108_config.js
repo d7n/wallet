@@ -1,1 +1,1 @@
-var mnemonic = "yellow treat century turn cinnamon journey unknown renew place fish drive emotion";
+var mnemonic = "runway satisfy deal tomorrow seven ginger girl play outer smart cube glimpse";

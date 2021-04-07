@@ -1,1 +1,1 @@
-var mnemonic = "figure hammer elbow torch trap field awesome mushroom mask jealous pause glare";
+var mnemonic = "detect blur just remember wool have pepper climb blade draft obscure slam";

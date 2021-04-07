@@ -1,1 +1,1 @@
-var mnemonic = "minute dose senior shop scale sea repeat achieve large biology aware pyramid";
+var mnemonic = "dry they auction clerk cupboard trouble term crane bachelor double option drama";

@@ -1,1 +1,1 @@
-var mnemonic = "link front symptom whale lady opera original educate position total nasty lucky";
+var mnemonic = "giant later arrow harvest rack shoulder diet scrap swamp weekend glance tenant";

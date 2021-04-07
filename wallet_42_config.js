@@ -1,1 +1,1 @@
-var mnemonic = "mobile security island sight media crazy latin dog camp daughter sound wonder";
+var mnemonic = "tuition scan stock grass similar denial observe fault there modify shield trash";

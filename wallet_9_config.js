@@ -1,1 +1,1 @@
-var mnemonic = "atom cabbage ball there usual gym badge area stereo arch choose casino";
+var mnemonic = "local quantum gentle rifle firm prosper north goose employ globe energy dilemma";

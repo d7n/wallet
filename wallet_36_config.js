@@ -1,1 +1,1 @@
-var mnemonic = "monster village position amazing proof safe pudding juice merry shaft fan arrow";
+var mnemonic = "taxi exile course public orphan nuclear ignore display decorate unveil spring margin";

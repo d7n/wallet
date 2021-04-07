@@ -1,1 +1,1 @@
-var mnemonic = "later economy assault carpet act permit basket actor mind brand cheese buyer";
+var mnemonic = "elite camera crunch again boat gold memory gate panda quiz sadness clock";

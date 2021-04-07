@@ -1,1 +1,1 @@
-var mnemonic = "mechanic gentle olympic name pelican magic blade update toward hill divide afraid";
+var mnemonic = "believe uniform page bundle analyst forget leader image arrow giant spoon pull";

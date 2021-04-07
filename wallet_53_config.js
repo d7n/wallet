@@ -1,1 +1,1 @@
-var mnemonic = "report dry drift rebuild finger project knife control blood kingdom move swap";
+var mnemonic = "frozen layer grape matrix include ivory display inside phone sight cup dial";

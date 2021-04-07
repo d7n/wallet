@@ -1,1 +1,1 @@
-var mnemonic = "chef regret state margin among drastic wish promote genre rebel forest like";
+var mnemonic = "bronze crystal follow chest grain pipe biology prison warm unit rubber remind";

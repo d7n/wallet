@@ -1,1 +1,1 @@
-var mnemonic = "account taste eternal satisfy photo bless final stock float unfair define office";
+var mnemonic = "industry water ask this lion banner course audit wheel hazard citizen report";

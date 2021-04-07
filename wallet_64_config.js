@@ -1,1 +1,1 @@
-var mnemonic = "royal moment busy image reopen eyebrow candy host regular absent dwarf gossip";
+var mnemonic = "depart domain myth few tomorrow sausage inch degree narrow van grace pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "wear discover slight finger slow perfect defy toward wrestle observe priority cliff";
+var mnemonic = "magnet chimney erosion economy need antenna bar record area degree zoo local";

@@ -1,1 +1,1 @@
-var mnemonic = "oval dragon ivory guitar sorry casino bike soda clock bundle film visual";
+var mnemonic = "behind mirror toast rapid castle lava fame royal discover vessel follow outside";

@@ -1,1 +1,1 @@
-var mnemonic = "huge member parent spoon stamp eight wine stem improve convince rare miss";
+var mnemonic = "resemble square must love announce blame all vanish allow wrap select width";

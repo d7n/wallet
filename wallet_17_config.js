@@ -1,1 +1,1 @@
-var mnemonic = "embrace shop deer round shrimp phrase slot series drive ecology either dragon";
+var mnemonic = "hospital side proud forum medal exchange version oblige illness best speed good";

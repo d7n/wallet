@@ -1,1 +1,1 @@
-var mnemonic = "govern fork melt trust test drastic choice cloud galaxy engage dirt bundle";
+var mnemonic = "scorpion pond jealous miss accuse design muffin world track open small magnet";

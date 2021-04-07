@@ -1,1 +1,1 @@
-var mnemonic = "fiber social mule priority digital prosper fossil machine air empower reopen foot";
+var mnemonic = "distance reveal motor life bench edge limb sort strike rich try dilemma";

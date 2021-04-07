@@ -1,1 +1,1 @@
-var mnemonic = "chicken educate size test tobacco slice fever venue upset drastic slice crop";
+var mnemonic = "chief please boost trade huge turtle step mail second inmate laptop move";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle height fall game moral syrup any sheriff fire sell boost matrix";
+var mnemonic = "hundred all buyer senior gown hard dirt hidden sure ill shine stadium";

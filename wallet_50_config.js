@@ -1,1 +1,1 @@
-var mnemonic = "find simple eager resist bar clog unique reduce allow invest degree example";
+var mnemonic = "egg exile gospel accident tuition cart weapon misery door vacant expire panic";

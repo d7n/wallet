@@ -1,1 +1,1 @@
-var mnemonic = "print mandate cup guilt balance blush print race rotate mansion stomach essence";
+var mnemonic = "donate honey pudding give roast build pottery observe solar common frequent barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "local heart remove fancy account ready cattle latin silver crumble story balcony";
+var mnemonic = "poem century mosquito club arrow give narrow picture fat brand matrix inhale";

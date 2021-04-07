@@ -1,1 +1,1 @@
-var mnemonic = "mask when border own sweet boss bamboo long poem online purse oblige";
+var mnemonic = "cement right coil clump public perfect hundred sauce quarter coyote kitchen result";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk point february lion loyal business zebra upgrade ship enhance outside want";
+var mnemonic = "muscle trust ignore grant entry velvet clutch slide husband dad cross tiny";

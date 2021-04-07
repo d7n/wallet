@@ -1,1 +1,1 @@
-var mnemonic = "silent east relax sing addict gown aunt leaf outside across street electric";
+var mnemonic = "fat uniform stand use element slender favorite luxury exclude reform cinnamon wire";

@@ -1,1 +1,1 @@
-var mnemonic = "initial acid bounce merge civil unhappy ginger social cargo inspire turkey hotel";
+var mnemonic = "december admit budget canal private glow unable famous skate blade volume this";

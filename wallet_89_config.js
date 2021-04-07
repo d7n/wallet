@@ -1,1 +1,1 @@
-var mnemonic = "puzzle vacant punch choice target success slab tobacco cinnamon scare response beach";
+var mnemonic = "industry aspect object awkward hobby flavor seat near push total spare dial";

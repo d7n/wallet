@@ -1,1 +1,1 @@
-var mnemonic = "repeat subject drastic gravity chat unhappy dragon rely thing orchard clap enough";
+var mnemonic = "yellow stage wheel sudden breeze fitness inhale dial blanket eagle wave issue";

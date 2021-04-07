@@ -1,1 +1,1 @@
-var mnemonic = "aware exchange ridge spell way shallow escape donor emerge more media salmon";
+var mnemonic = "dial kiss way omit marine gym square thrive enough clinic false tray";

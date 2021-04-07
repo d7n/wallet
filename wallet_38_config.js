@@ -1,1 +1,1 @@
-var mnemonic = "bread weasel escape wasp paper way snow river uniform tree already express";
+var mnemonic = "door prefer sorry grape drill twice merry excite tragic code scatter table";

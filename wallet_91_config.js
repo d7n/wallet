@@ -1,1 +1,1 @@
-var mnemonic = "hurry also thrive family peasant weird balcony trick chair bachelor trust quality";
+var mnemonic = "today huge ride island atom lesson guilt behave dust inflict twelve chuckle";

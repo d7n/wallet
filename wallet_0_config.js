@@ -1,1 +1,1 @@
-var mnemonic = "note another slow artefact follow ridge spin walk render rain motion noise";
+var mnemonic = "sponsor brass liberty merit fun jungle crucial bundle flight soldier measure fluid";

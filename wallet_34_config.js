@@ -1,1 +1,1 @@
-var mnemonic = "horn zero eagle absurd outdoor pride dream muscle among pyramid learn tunnel";
+var mnemonic = "suggest blade search prefer cave affair purse school meadow once shift unaware";

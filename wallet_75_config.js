@@ -1,1 +1,1 @@
-var mnemonic = "decrease angry idea find negative concert such more mail office slush sort";
+var mnemonic = "inject decorate inhale cost depend rally evidence flat bean tape drill bleak";

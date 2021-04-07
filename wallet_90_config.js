@@ -1,1 +1,1 @@
-var mnemonic = "unfold offer plate decrease media supreme used model fabric cloth pear lens";
+var mnemonic = "drill blind broken slow someone digital horror obtain remind learn craft unit";

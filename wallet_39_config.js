@@ -1,1 +1,1 @@
-var mnemonic = "hollow swear equal hair liberty movie whale jazz ocean toast middle proof";
+var mnemonic = "puppy worry coyote pride man remind inspire family fashion belt shadow often";

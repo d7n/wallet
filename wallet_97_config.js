@@ -1,1 +1,1 @@
-var mnemonic = "celery decrease flush gown drift miracle mask rotate chase before comfort neutral";
+var mnemonic = "leader brick smart puppy mixture enforce tissue chuckle sign rough more stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado pretty attract thought small garden trade tank ready car cube address";
+var mnemonic = "unaware document minimum absurd police daughter salmon orient vacuum invest convince bunker";

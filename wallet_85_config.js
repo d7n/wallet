@@ -1,1 +1,1 @@
-var mnemonic = "vote trophy angle kiwi problem sport artist gaze tumble drama flash early";
+var mnemonic = "venture project beyond salon account pool deposit kick common bronze deny laptop";

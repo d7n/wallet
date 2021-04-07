@@ -1,1 +1,1 @@
-var mnemonic = "try memory around aspect sick frequent latin awkward spare frown swamp foot";
+var mnemonic = "month argue kick crash snack grief joke fork road mouse peace zoo";

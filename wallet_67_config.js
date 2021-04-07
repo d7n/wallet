@@ -1,1 +1,1 @@
-var mnemonic = "whisper become guilt slight girl early winter battle middle crew light three";
+var mnemonic = "book fatal nephew dentist core half fall swarm embark bus october letter";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget coyote admit mercy exit thrive assist gym detail wheat east filter";
+var mnemonic = "cute valid group trophy common mention mistake ritual outside art alter rapid";

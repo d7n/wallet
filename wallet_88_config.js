@@ -1,1 +1,1 @@
-var mnemonic = "robot organ sunset cricket desert want aware then off balcony practice group";
+var mnemonic = "shell conduct sheriff noodle stumble broken anger catalog agree oven purchase lift";

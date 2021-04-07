@@ -1,1 +1,1 @@
-var mnemonic = "excess stomach sense casino moon pyramid wink service move stamp describe invite";
+var mnemonic = "proof unique village bamboo damage october ghost rural cool outer maximum birth";

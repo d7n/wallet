@@ -1,1 +1,1 @@
-var mnemonic = "tilt lens album ignore despair enroll pact health horse topple divert stereo";
+var mnemonic = "wool match mouse forget luxury squeeze bind warfare midnight labor letter own";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger fade assault unlock battle wheat swift law inch reduce girl milk";
+var mnemonic = "pledge extend source furnace spare sail bunker convince current narrow shell inform";

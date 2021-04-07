@@ -1,1 +1,1 @@
-var mnemonic = "public shoe arrest body monster video owner relax run subway enhance inherit";
+var mnemonic = "merge later fence deny vague naive share annual project waste remain install";

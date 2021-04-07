@@ -1,1 +1,1 @@
-var mnemonic = "arch conduct quarter light fatal roof bullet fiscal exotic absurd best wild";
+var mnemonic = "ecology suit bottom daring rookie glow smoke price photo unique other input";

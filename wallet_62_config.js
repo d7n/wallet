@@ -1,1 +1,1 @@
-var mnemonic = "infant apology tower exhaust amused sport panda pretty federal ecology visual confirm";
+var mnemonic = "orbit busy cattle radio wasp rib say shiver emotion proof under pencil";

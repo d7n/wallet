@@ -1,1 +1,1 @@
-var mnemonic = "color protect assault pizza exotic sheriff sea machine language acid quarter sail";
+var mnemonic = "offer exhibit outdoor garbage nature still develop awful duck ostrich unlock into";

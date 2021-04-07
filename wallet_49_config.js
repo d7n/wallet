@@ -1,1 +1,1 @@
-var mnemonic = "left kitten fossil leisure surface oak extend later steel adult pear element";
+var mnemonic = "call forget assume crew glory bamboo refuse loyal close skirt open must";
