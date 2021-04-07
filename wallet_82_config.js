@@ -1,1 +1,1 @@
-var mnemonic = "inflict crystal genre rural certain medal armor brick pottery predict still lemon";
+var mnemonic = "dignity exile theme history hope kiwi cradle eagle weapon cactus menu pull";

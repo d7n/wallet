@@ -1,1 +1,1 @@
-var mnemonic = "curve shoulder world damp ivory grant bone lift chalk arena toast spin";
+var mnemonic = "proud room finger pen napkin critic fire monitor oppose exchange skirt change";

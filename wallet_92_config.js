@@ -1,1 +1,1 @@
-var mnemonic = "tree drink orchard exercise capital fat anxiety festival talk desert first fuel";
+var mnemonic = "series apart solar spider correct copper extend gentle agent shield hello marine";

@@ -1,1 +1,1 @@
-var mnemonic = "donor name mercy stool project off toast chicken flip title wave call";
+var mnemonic = "chunk lab educate bar cycle barely spin already car curve vintage deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "dash pride slam awful drift first level promote expect helmet veteran staff";
+var mnemonic = "disease clean release cook bid vote document scene cushion only stadium chicken";

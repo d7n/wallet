@@ -1,1 +1,1 @@
-var mnemonic = "easily surge artwork bonus that lawn random vocal country skill artefact someone";
+var mnemonic = "chunk float toilet charge obvious start dad possible salon love slogan bag";

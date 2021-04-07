@@ -1,1 +1,1 @@
-var mnemonic = "artwork mountain erode copper grant swift during human cute bid casual twelve";
+var mnemonic = "expire hint inject identify parent ancient powder long laugh thunder option net";

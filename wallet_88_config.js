@@ -1,1 +1,1 @@
-var mnemonic = "require game ostrich scrub torch camp only donor bamboo bag shoot elevator";
+var mnemonic = "indicate dinner purse main hockey intact pilot shell actress total silent estate";

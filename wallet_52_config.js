@@ -1,1 +1,1 @@
-var mnemonic = "holiday resist camera nurse during kick slide burger cry toss ankle urge";
+var mnemonic = "answer acid slow unknown question person pigeon latin joy cute grocery supply";

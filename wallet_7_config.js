@@ -1,1 +1,1 @@
-var mnemonic = "decrease trust palace picture frown own apple alter tissue adult basic ski";
+var mnemonic = "meadow adult piece already claim mandate rally wheel decline gun gasp total";

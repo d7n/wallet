@@ -1,1 +1,1 @@
-var mnemonic = "exhibit nation leaf coil vault always buyer obvious source drill butter pet";
+var mnemonic = "sick uphold second kingdom essence breeze siren stand custom feed long muscle";

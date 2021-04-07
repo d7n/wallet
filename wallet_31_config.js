@@ -1,1 +1,1 @@
-var mnemonic = "flame involve soup bird person stamp tower green sketch spray script gasp";
+var mnemonic = "warrior worth float urge trigger skull clip twin more apology fame web";

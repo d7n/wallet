@@ -1,1 +1,1 @@
-var mnemonic = "attitude various coast gaze scout auto census describe multiply double satoshi festival";
+var mnemonic = "army chef slab liar fashion picture guess burst kid weird mobile orange";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey produce riot label rural element pudding earth dismiss evolve gun solution";
+var mnemonic = "help divide glimpse olympic juice chuckle spin elder melody myth hungry skate";

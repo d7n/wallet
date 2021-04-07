@@ -1,1 +1,1 @@
-var mnemonic = "wrestle next soul vacuum fan chuckle auto layer venture vicious survey tenant";
+var mnemonic = "dynamic insect panel bread brisk barely drive win defy reunion shield worry";

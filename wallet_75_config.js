@@ -1,1 +1,1 @@
-var mnemonic = "few elder runway alpha clip desk glare chat local moon snap ordinary";
+var mnemonic = "clap cat indicate dice keep raccoon soon float time clean polar upgrade";

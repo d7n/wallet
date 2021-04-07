@@ -1,1 +1,1 @@
-var mnemonic = "office clever fuel light choice sketch beef hard renew tattoo winter rack";
+var mnemonic = "violin input calm pioneer valley such juice roast occur grunt dutch write";

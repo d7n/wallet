@@ -1,1 +1,1 @@
-var mnemonic = "start panel thunder invest position track world common final mountain marriage curtain";
+var mnemonic = "boy issue whip april census rebuild detail noble all diamond doll glove";

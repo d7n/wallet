@@ -1,1 +1,1 @@
-var mnemonic = "alpha stereo spell bread gain unfair tired muscle frown orchard private unfold";
+var mnemonic = "scatter cake bean old nerve turtle female replace tonight program engine trade";

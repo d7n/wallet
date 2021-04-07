@@ -1,1 +1,1 @@
-var mnemonic = "width dash season lion mouse alter second powder oyster fuel bus mixed";
+var mnemonic = "gym course prize walk snow dinner march utility prefer nurse exhibit gentle";

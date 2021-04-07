@@ -1,1 +1,1 @@
-var mnemonic = "strategy voice slide proof category tourist fragile resemble youth athlete stage tower";
+var mnemonic = "situate reduce thought rapid across stuff chat feed bamboo illegal method vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "parade atom jazz bronze stem symptom path goose inhale quote extra odor";
+var mnemonic = "escape vanish hurry gossip pet know chest knock food prison purchase trash";

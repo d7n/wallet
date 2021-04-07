@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur opinion whale admit illness draft play review cannon total lab satisfy";
+var mnemonic = "enlist bulk perfect carbon usual wall hold gap foam smoke topple raccoon";

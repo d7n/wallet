@@ -1,1 +1,1 @@
-var mnemonic = "tenant differ alter brown hawk risk electric small soccer deliver recipe height";
+var mnemonic = "tired fire check federal quiz wave intact apple topple dynamic moon patrol";

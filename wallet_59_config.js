@@ -1,1 +1,1 @@
-var mnemonic = "require puzzle air trumpet tunnel vault catalog box winter crime wealth unveil";
+var mnemonic = "blue trial antenna flame layer turn forest stove comic range museum letter";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant column they bunker quarter smooth summer power predict ignore trust crazy";
+var mnemonic = "pull release aim burst more strategy enforce around armed opinion offer entry";

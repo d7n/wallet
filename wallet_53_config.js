@@ -1,1 +1,1 @@
-var mnemonic = "meat change chapter guide unique brick frost orchard essence salt cram wise";
+var mnemonic = "goat trap choice humble obey school leisure capital river diesel coconut cinnamon";

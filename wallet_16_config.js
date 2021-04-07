@@ -1,1 +1,1 @@
-var mnemonic = "bone blame jewel village wire latin equip scare harsh rich hover ripple";
+var mnemonic = "market inject embody lazy spider defy object evoke initial regret cruel unusual";

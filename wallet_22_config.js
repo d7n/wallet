@@ -1,1 +1,1 @@
-var mnemonic = "appear impact trigger eyebrow tackle usage pause capable clutch medal hard gallery";
+var mnemonic = "coast where excess initial mixed affair another wet extend face still before";

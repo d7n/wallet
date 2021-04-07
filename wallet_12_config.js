@@ -1,1 +1,1 @@
-var mnemonic = "inform sorry pill force balance auto odor duty again oxygen cannon anxiety";
+var mnemonic = "motor stuff easily camp uncover grunt collect stomach barely use deny tribe";

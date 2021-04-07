@@ -1,1 +1,1 @@
-var mnemonic = "derive idle music chuckle kiwi ready question infant admit inspire vapor mixed";
+var mnemonic = "quiz milk author also soft document shrug tide wide meat olive denial";

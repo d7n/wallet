@@ -1,1 +1,1 @@
-var mnemonic = "easily scene hard wave theory cart lend craft girl swallow asthma glad";
+var mnemonic = "crash crop wish sock like buddy trash balance marine save kitchen govern";

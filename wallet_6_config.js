@@ -1,1 +1,1 @@
-var mnemonic = "blue crisp west only bomb couch repair fault rose brown main energy";
+var mnemonic = "polar raccoon slice vast month side energy foot imitate clock profit snap";

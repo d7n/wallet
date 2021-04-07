@@ -1,1 +1,1 @@
-var mnemonic = "exclude envelope fluid plug fruit innocent minute obscure access bitter shift east";
+var mnemonic = "useful fan material ill phone hockey crush engine wine special dry weekend";

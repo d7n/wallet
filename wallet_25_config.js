@@ -1,1 +1,1 @@
-var mnemonic = "layer cousin dynamic author tissue nerve suggest seed fog initial marble emerge";
+var mnemonic = "science vehicle word gate clever able skin lawsuit want busy unit grocery";

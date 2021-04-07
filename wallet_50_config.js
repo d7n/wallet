@@ -1,1 +1,1 @@
-var mnemonic = "try food strategy wonder cradle myth song receive true satisfy avocado crazy";
+var mnemonic = "weekend canyon album more question organ inflict already diagram abandon camp scale";

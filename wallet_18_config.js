@@ -1,1 +1,1 @@
-var mnemonic = "prepare base nature chaos type parade chapter repeat offer trash shrimp smoke";
+var mnemonic = "bundle corn scorpion elephant poet dolphin prison action help arrow move unfair";

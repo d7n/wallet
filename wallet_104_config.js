@@ -1,1 +1,1 @@
-var mnemonic = "cave ten column come future general never connect isolate camera chunk dentist";
+var mnemonic = "spatial hurdle dentist dinner sausage north wife crack snake vote royal topple";

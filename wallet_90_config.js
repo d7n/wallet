@@ -1,1 +1,1 @@
-var mnemonic = "until foster flush scrap capable derive sibling illness forward heavy pumpkin guitar";
+var mnemonic = "priority tell elephant creek health alpha matter decline garment pen broccoli gossip";

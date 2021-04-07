@@ -1,1 +1,1 @@
-var mnemonic = "bulb distance balance merge civil used tent real wasp detail bird talk";
+var mnemonic = "theme balcony bundle spin public wolf essay essay few canyon disease medal";

@@ -1,1 +1,1 @@
-var mnemonic = "early net network first differ front donate boat super convince welcome room";
+var mnemonic = "adapt moment weather oblige nephew useful defense era diary physical fantasy hotel";

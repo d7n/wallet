@@ -1,1 +1,1 @@
-var mnemonic = "blade army danger ability game feel cake wrong empower edge such chaos";
+var mnemonic = "disorder park supply soon mimic express firm jewel cart judge front nominee";

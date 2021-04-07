@@ -1,1 +1,1 @@
-var mnemonic = "slogan blue label inform blush mechanic melt crater age regret foam tortoise";
+var mnemonic = "peasant ghost slab thrive crop need couple shy black pelican defy myth";

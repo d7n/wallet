@@ -1,1 +1,1 @@
-var mnemonic = "borrow vehicle strategy home chest method strong cup eye what base enter";
+var mnemonic = "quick battle tilt soldier ranch mom profit treat craft maid space render";

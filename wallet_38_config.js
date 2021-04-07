@@ -1,1 +1,1 @@
-var mnemonic = "benefit trophy truth merit reduce whip fitness add apple nurse admit sunny";
+var mnemonic = "firm bright method cabin future catch crisp obtain pulp dolphin quiz move";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge cram borrow reunion maple key culture clip tube claim pencil bronze";
+var mnemonic = "crush now damage barrel type step ill jaguar whisper betray silk wheat";

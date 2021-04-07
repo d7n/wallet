@@ -1,1 +1,1 @@
-var mnemonic = "system near human column monkey seat hamster gossip park size innocent predict";
+var mnemonic = "hover repeat frame prepare crumble toe concert spice supreme injury junk boring";

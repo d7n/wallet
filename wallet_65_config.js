@@ -1,1 +1,1 @@
-var mnemonic = "hero drill cactus sugar solid inject rate rate spread polar today carbon";
+var mnemonic = "ordinary lock crack either army carbon crunch bread fringe inflict evil view";

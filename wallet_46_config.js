@@ -1,1 +1,1 @@
-var mnemonic = "crash concert fiber target hobby soda jealous lawsuit butter try credit degree";
+var mnemonic = "give cage truth tired during wage wood lab illness now view butter";

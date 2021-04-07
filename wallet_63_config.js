@@ -1,1 +1,1 @@
-var mnemonic = "amount leg dog river demise twice trigger clown labor bone jeans envelope";
+var mnemonic = "suspect glare neither royal giant ivory drink plug oxygen borrow memory feature";

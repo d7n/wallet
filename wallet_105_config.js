@@ -1,1 +1,1 @@
-var mnemonic = "quantum moment fatal winter member silk method over produce state wet artist";
+var mnemonic = "apple verify plug eagle blossom hurdle control toy admit couple alert inquiry";

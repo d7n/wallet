@@ -1,1 +1,1 @@
-var mnemonic = "suggest guilt north tortoise remove cage client consider village monitor can smile";
+var mnemonic = "noodle digital short sad report brass frown trigger obtain fiscal imitate novel";

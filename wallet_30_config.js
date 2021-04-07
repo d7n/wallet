@@ -1,1 +1,1 @@
-var mnemonic = "catch more public future ethics blame modify report hurry swift invite host";
+var mnemonic = "matter mind crane discover real beach camera arch ask trim game nest";

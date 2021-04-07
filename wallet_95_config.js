@@ -1,1 +1,1 @@
-var mnemonic = "chicken tourist journey vague voice entire coast galaxy onion like because illness";
+var mnemonic = "pepper wish bike town admit salmon lumber act cube cycle weather task";

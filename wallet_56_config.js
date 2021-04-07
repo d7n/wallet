@@ -1,1 +1,1 @@
-var mnemonic = "orient blade luxury creek knife half two suit gather cruise across crater";
+var mnemonic = "across pyramid sister robust object wheel grab rebel badge glue anchor bonus";

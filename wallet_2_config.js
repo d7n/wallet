@@ -1,1 +1,1 @@
-var mnemonic = "random tornado race execute between auction absent leopard blush timber opera tomato";
+var mnemonic = "tired reject problem horror panic hidden suffer dream comfort clinic chicken curious";

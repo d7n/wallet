@@ -1,1 +1,1 @@
-var mnemonic = "nut walk tiny table often reopen dinner sad grass hold couple project";
+var mnemonic = "peace life pond bottom welcome erase humor laptop uphold soldier maid extend";

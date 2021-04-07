@@ -1,1 +1,1 @@
-var mnemonic = "narrow hip dumb give about renew holiday extend laundry ketchup job jar";
+var mnemonic = "blue human prize load come champion six kidney food sock prefer into";

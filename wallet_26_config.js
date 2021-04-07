@@ -1,1 +1,1 @@
-var mnemonic = "ocean cancel gauge super tiny genre demise swift cradle erase lunar mercy";
+var mnemonic = "sausage lock report badge gate quality battle agent alpha finish brief slim";

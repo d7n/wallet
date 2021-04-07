@@ -1,1 +1,1 @@
-var mnemonic = "stereo glare equal they loan cost vintage mosquito torch bubble choose duty";
+var mnemonic = "shoulder amazing disagree process day tail tennis wet nurse venture horn stuff";

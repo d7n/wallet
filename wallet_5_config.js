@@ -1,1 +1,1 @@
-var mnemonic = "anxiety board amount brisk private sibling diagram bunker car inner slow warfare";
+var mnemonic = "fiber have vicious tribe notice vocal champion monkey robot risk actual drink";

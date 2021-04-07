@@ -1,1 +1,1 @@
-var mnemonic = "pipe parent evidence collect ball erupt defy begin explain wage topple rifle";
+var mnemonic = "actor force reject swear broccoli receive street tomorrow empower audit gather disorder";

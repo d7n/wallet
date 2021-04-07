@@ -1,1 +1,1 @@
-var mnemonic = "crawl atom bird salmon work inquiry teach crowd before section forum connect";
+var mnemonic = "left own laugh sphere smile team rent destroy bacon style engage winter";

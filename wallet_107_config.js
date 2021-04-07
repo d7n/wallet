@@ -1,1 +1,1 @@
-var mnemonic = "home clock upon region little twist wine breeze ahead resist acid oil";
+var mnemonic = "audit crash illness system fork exile afford anchor fence vacuum code donate";

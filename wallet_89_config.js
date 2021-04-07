@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog tilt round indicate give grain sight neutral soap human confirm multiply";
+var mnemonic = "fever swim motion someone fold habit stay mango protect hurdle spice innocent";

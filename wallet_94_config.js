@@ -1,1 +1,1 @@
-var mnemonic = "come mobile exclude anxiety arrow believe exit reform antenna smooth castle mango";
+var mnemonic = "bacon tooth embody thrive romance hurt seven hen quality bullet only isolate";

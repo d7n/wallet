@@ -1,1 +1,1 @@
-var mnemonic = "survey quick expect scatter flavor tent sick stage review cross unlock craft";
+var mnemonic = "evidence museum avoid narrow fatal code vicious cover ecology pitch energy behind";

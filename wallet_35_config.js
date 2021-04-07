@@ -1,1 +1,1 @@
-var mnemonic = "lab hobby gravity survey argue obey phrase gift devote bar unhappy city";
+var mnemonic = "thrive broccoli universe motion trick orchard crush ribbon sail snow patch panel";

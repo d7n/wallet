@@ -1,1 +1,1 @@
-var mnemonic = "purchase fatal modify verb trust monster wrong polar grab copy speed circle";
+var mnemonic = "market tooth alter garment neither penalty math lemon shock moral merge cement";

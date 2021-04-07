@@ -1,1 +1,1 @@
-var mnemonic = "phrase diet ride vapor tube chaos capable pass moon any oblige clay";
+var mnemonic = "desk sail old surface member truck stove vault clinic prison essay motion";

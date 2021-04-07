@@ -1,1 +1,1 @@
-var mnemonic = "warm top cram sun hour emotion depend easy symptom bronze ivory hello";
+var mnemonic = "slow clerk worth bitter hollow ill boy long wire mean permit cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney tissue dentist crime rally wet unique apology awesome frequent vocal sniff";
+var mnemonic = "hollow narrow rotate name clerk again whip scale erode ready city sketch";

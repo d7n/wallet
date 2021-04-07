@@ -1,1 +1,1 @@
-var mnemonic = "hockey potato endorse finger column exotic faith finger spy stomach myself play";
+var mnemonic = "now tag setup include purpose famous hope someone donor unfold bid come";

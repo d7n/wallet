@@ -1,1 +1,1 @@
-var mnemonic = "sketch coral brother antenna thunder gun fog unit lesson fashion humor script";
+var mnemonic = "energy devote kit purchase crater ozone danger promote tail spirit unaware glow";

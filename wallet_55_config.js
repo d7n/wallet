@@ -1,1 +1,1 @@
-var mnemonic = "twin festival fragile category solve tip convince suit rocket absent oval cart";
+var mnemonic = "pen equal special motor curious address bundle purse stand ski junior forget";

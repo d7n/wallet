@@ -1,1 +1,1 @@
-var mnemonic = "volcano farm hire fatal siege gold lesson goose asset thunder shield awful";
+var mnemonic = "street swift hedgehog fork assume bleak rhythm spin food bamboo pyramid wasp";

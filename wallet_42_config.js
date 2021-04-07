@@ -1,1 +1,1 @@
-var mnemonic = "illness girl extend void later twice dutch argue call hundred perfect morning";
+var mnemonic = "effort vivid mention flower arrive pioneer nut height water lamp carry vocal";

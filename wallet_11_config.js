@@ -1,1 +1,1 @@
-var mnemonic = "gather family tower wrestle input share balance clip wrestle lamp attack outdoor";
+var mnemonic = "runway warm favorite water topple gain possible spice client chicken goose great";

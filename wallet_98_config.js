@@ -1,1 +1,1 @@
-var mnemonic = "copper hotel rocket jump carbon scorpion section project diesel smile duty timber";
+var mnemonic = "scout usual busy fiction boil wedding dream reform beef kidney fame obscure";

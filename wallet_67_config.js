@@ -1,1 +1,1 @@
-var mnemonic = "stumble around loyal slow dumb hope globe foam police galaxy sunset federal";
+var mnemonic = "monkey brief cause tomorrow arrow remove winter clinic end yard just enhance";

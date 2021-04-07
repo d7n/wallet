@@ -1,1 +1,1 @@
-var mnemonic = "traffic jaguar evolve coil unusual promote habit hip couch cousin rug word";
+var mnemonic = "canyon anxiety achieve know license delay guide flee enable prepare monkey vague";

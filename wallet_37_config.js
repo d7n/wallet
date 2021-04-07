@@ -1,1 +1,1 @@
-var mnemonic = "dial alley access inner cotton night vote sure civil elder pencil tank";
+var mnemonic = "accuse dress cat arrive million toe toast detect cupboard very limit emotion";

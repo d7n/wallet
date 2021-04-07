@@ -1,1 +1,1 @@
-var mnemonic = "offer accuse atom index tape cigar wrestle daughter picnic pig electric equip";
+var mnemonic = "crash quantum venture exit wise project viable open typical act outdoor dice";

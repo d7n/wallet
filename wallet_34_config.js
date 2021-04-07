@@ -1,1 +1,1 @@
-var mnemonic = "make army boil exile timber entry antenna word ten lunar patrol law";
+var mnemonic = "weird borrow palm swallow together record music apple aunt second garage decade";

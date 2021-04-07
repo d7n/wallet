@@ -1,1 +1,1 @@
-var mnemonic = "cannon sustain either either cup when egg meadow secret try embody wrap";
+var mnemonic = "rack entry diagram melody fabric reject provide avocado curtain grit base timber";

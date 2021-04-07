@@ -1,1 +1,1 @@
-var mnemonic = "palace brand language visa tomato drum flash stumble baby utility kangaroo test";
+var mnemonic = "number shadow scare best mountain forget cave tomato blame hurry weekend direct";

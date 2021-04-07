@@ -1,1 +1,1 @@
-var mnemonic = "swarm neutral crater figure ill marriage scrub smoke allow garlic grid catalog";
+var mnemonic = "menu cotton hammer retire drill venture blast evoke fish behind plunge surprise";
