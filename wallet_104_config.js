@@ -1,1 +1,1 @@
-var mnemonic = "gift unknown card holiday decline upper rabbit sock arrest omit rule margin";
+var mnemonic = "verb fade balcony plunge chair venture digital bicycle assault photo quality announce";

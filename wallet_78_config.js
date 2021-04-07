@@ -1,1 +1,1 @@
-var mnemonic = "record swear prepare mirror visit fence casual job buffalo marine sort multiply";
+var mnemonic = "unit rate morning naive laugh grant arrest cart figure warfare witness treat";

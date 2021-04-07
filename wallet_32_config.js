@@ -1,1 +1,1 @@
-var mnemonic = "wood tank orbit double inhale used hood ensure rookie obey trip disease";
+var mnemonic = "amount enemy pole kiss material can expire fox perfect nominee capable worry";

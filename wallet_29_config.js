@@ -1,1 +1,1 @@
-var mnemonic = "voice recall ocean final throw cycle inside machine arrive romance relax goat";
+var mnemonic = "turtle oil grape tissue good dizzy gaze obvious bridge stamp kitchen peasant";

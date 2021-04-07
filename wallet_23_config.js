@@ -1,1 +1,1 @@
-var mnemonic = "vacant sheriff near asset angry have gloom copy art choice gallery hip";
+var mnemonic = "chat dose pitch twelve mention fold mesh divorce solve anchor gym amazing";

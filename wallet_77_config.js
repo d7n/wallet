@@ -1,1 +1,1 @@
-var mnemonic = "deliver wrong call toward mask fun finger despair scene margin wear myth";
+var mnemonic = "smoke index model gift circle lazy settle become slam pink quarter quick";

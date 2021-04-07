@@ -1,1 +1,1 @@
-var mnemonic = "vague giggle wage regret utility mistake maid capital program often betray quantum";
+var mnemonic = "saddle island color eyebrow dose update blood nuclear ecology peanut area slender";

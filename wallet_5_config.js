@@ -1,1 +1,1 @@
-var mnemonic = "useless region model addict route first avoid nose steel jelly slow advice";
+var mnemonic = "train shine inside mountain gravity feel pretty loop person organ issue street";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach soul tennis unknown bonus nose flock caught lumber shove genius success";
+var mnemonic = "horror theory riot inside hat window post various tower insect rude wonder";

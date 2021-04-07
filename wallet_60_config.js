@@ -1,1 +1,1 @@
-var mnemonic = "erode obscure tornado firm middle gossip please issue sadness prison cycle practice";
+var mnemonic = "river eager absent bundle dress tissue image account snake place hurdle measure";

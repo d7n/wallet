@@ -1,1 +1,1 @@
-var mnemonic = "spread pigeon inside opera utility aspect air couch cabin glide rhythm course";
+var mnemonic = "live walk tattoo response memory protect detect equip solar empty genre area";

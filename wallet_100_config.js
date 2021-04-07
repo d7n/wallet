@@ -1,1 +1,1 @@
-var mnemonic = "vendor chapter involve intact eagle afford minute echo weather catch amused cliff";
+var mnemonic = "episode erode jeans denial public theme pony column material list approve embody";

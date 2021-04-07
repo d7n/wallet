@@ -1,1 +1,1 @@
-var mnemonic = "fatal list arrive live fog diamond manual march bronze ocean machine lazy";
+var mnemonic = "tray sketch network glow mule wisdom swear dismiss blood hope mesh mirror";

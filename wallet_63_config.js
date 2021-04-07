@@ -1,1 +1,1 @@
-var mnemonic = "erode despair vivid taxi bicycle bacon link knock frame parrot pride ripple";
+var mnemonic = "spoon media nice super render dragon eye puzzle taste inquiry elbow cart";

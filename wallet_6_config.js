@@ -1,1 +1,1 @@
-var mnemonic = "october theory carry bag core forward profit salmon load number abuse unveil";
+var mnemonic = "artwork twenty ghost music essay capable curve average tuition segment mountain asset";

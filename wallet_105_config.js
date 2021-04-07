@@ -1,1 +1,1 @@
-var mnemonic = "ball suggest auction wrestle woman ability month crisp lens trophy burden one";
+var mnemonic = "turkey mosquito radar middle safe envelope future live leisure legend raven ability";

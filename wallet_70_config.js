@@ -1,1 +1,1 @@
-var mnemonic = "mouse pole adjust produce pond garlic bargain action airport casual snow there";
+var mnemonic = "route diesel reason snack spend category gasp coconut cliff clay crouch magnet";

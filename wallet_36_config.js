@@ -1,1 +1,1 @@
-var mnemonic = "nephew lyrics tiny rigid business common action great pull pencil enter differ";
+var mnemonic = "season attack teach that parade average library run rib issue clog second";

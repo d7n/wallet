@@ -1,1 +1,1 @@
-var mnemonic = "simple certain deputy glimpse behave trip deny sugar rubber only laptop spray";
+var mnemonic = "useful erase tortoise bonus ball upper brisk tumble evoke pole normal polar";

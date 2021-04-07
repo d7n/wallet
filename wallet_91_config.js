@@ -1,1 +1,1 @@
-var mnemonic = "switch clap law uncle cliff aware gossip glow violin agree text blush";
+var mnemonic = "thank among warm adapt crime cliff there thrive rose rescue sight idea";

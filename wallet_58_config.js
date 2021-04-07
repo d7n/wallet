@@ -1,1 +1,1 @@
-var mnemonic = "eternal tackle search century this ginger save zoo shoulder hip infant favorite";
+var mnemonic = "toast wire uncover tower crash fever please height fish problem plastic security";

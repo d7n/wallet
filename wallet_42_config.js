@@ -1,1 +1,1 @@
-var mnemonic = "category kit swamp leave leave yard cute jaguar manual effort network galaxy";
+var mnemonic = "soda blush good pear apology duty label inflict ozone orphan stuff expire";

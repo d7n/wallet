@@ -1,1 +1,1 @@
-var mnemonic = "symptom trouble possible spatial senior judge bar duty sentence load hospital cancel";
+var mnemonic = "buyer hedgehog emerge cake embody taste bachelor behave vacuum monster layer tongue";

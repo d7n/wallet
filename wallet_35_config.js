@@ -1,1 +1,1 @@
-var mnemonic = "abuse shoe squirrel water rapid put sand crumble dirt island trash ice";
+var mnemonic = "search display peasant memory dirt equal abandon enemy nut champion start basket";

@@ -1,1 +1,1 @@
-var mnemonic = "peace double fork subject inquiry lock voice coral olympic ankle brain decade";
+var mnemonic = "april rough similar roast file nominee track rude zero december one stairs";

@@ -1,1 +1,1 @@
-var mnemonic = "robot strike uniform loan office silly busy angle execute retire human buzz";
+var mnemonic = "corn model diagram theory kick fun giant valid trade over exist learn";

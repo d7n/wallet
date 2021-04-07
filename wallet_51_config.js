@@ -1,1 +1,1 @@
-var mnemonic = "quality huge hobby fan permit velvet cook behind comfort resource room van";
+var mnemonic = "wrist leave bus good park lunar olympic rookie away sweet typical always";

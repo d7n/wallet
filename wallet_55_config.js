@@ -1,1 +1,1 @@
-var mnemonic = "ball arrange include siege wasp shoulder glove snow field reunion toward impulse";
+var mnemonic = "hover fine great frozen payment element excite toss thrive gaze frog calm";

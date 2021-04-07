@@ -1,1 +1,1 @@
-var mnemonic = "good auto mystery prize fashion pitch account miss leisure orchard tragic badge";
+var mnemonic = "until glue help loud permit differ wrong remind return cinnamon normal sleep";

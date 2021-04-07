@@ -1,1 +1,1 @@
-var mnemonic = "buyer side wave frame giant leave food denial supply diamond exile dust";
+var mnemonic = "lyrics nut oven ticket mule awesome window theme vacuum range rain pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "fan radio increase surge swing dentist brother clinic desk inner tornado scare";
+var mnemonic = "slide design consider rail cloth talent ritual can garment soap little other";

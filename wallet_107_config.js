@@ -1,1 +1,1 @@
-var mnemonic = "caution remind what expand grant fox dove easily traffic lumber repair slam";
+var mnemonic = "impact ordinary noise warm crater favorite patrol arrive choose program keen verb";

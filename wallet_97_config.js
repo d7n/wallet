@@ -1,1 +1,1 @@
-var mnemonic = "tumble main width orange puppy comfort alone entry secret gallery fantasy lumber";
+var mnemonic = "cheap hospital river celery fancy door also thing human clean auto absurd";

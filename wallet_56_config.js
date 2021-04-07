@@ -1,1 +1,1 @@
-var mnemonic = "need curtain shine slow struggle purse inner gadget post clump kite second";
+var mnemonic = "symptom image remain brisk sleep electric slot accident gossip unfair solve media";

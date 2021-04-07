@@ -1,1 +1,1 @@
-var mnemonic = "much pattern scare twist patient gain frost excite liberty cream prize huge";
+var mnemonic = "claw give paper smart pitch suspect indoor version toward topic goose pole";

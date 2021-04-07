@@ -1,1 +1,1 @@
-var mnemonic = "dynamic capable convince frozen unknown hour write taste notable laundry void urge";
+var mnemonic = "grape hard palm domain cargo slot alien midnight pretty moral across start";

@@ -1,1 +1,1 @@
-var mnemonic = "matter other blouse real absurd mammal swift pelican shell invest beef powder";
+var mnemonic = "shop mystery orbit bag escape test knife silly good seat spoil apart";

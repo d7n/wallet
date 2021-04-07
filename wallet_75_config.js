@@ -1,1 +1,1 @@
-var mnemonic = "fresh soccer obvious upon analyst stamp tone over client force engage real";
+var mnemonic = "wear neither letter beach neither high puzzle biology section cake service pact";

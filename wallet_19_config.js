@@ -1,1 +1,1 @@
-var mnemonic = "price tower awful transfer food film sword cake ugly make glue jacket";
+var mnemonic = "exotic design skull embody very wasp okay guitar dad board tiger cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "crater science dress relax duty orphan deer oak enemy hybrid frozen rib";
+var mnemonic = "alien follow battle palace ceiling eye file napkin turn garlic hint shed";

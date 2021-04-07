@@ -1,1 +1,1 @@
-var mnemonic = "mountain mass adapt mad harsh when cotton foil grid vacant because arrive";
+var mnemonic = "truck conduct release lend indoor case admit trash shield refuse rubber sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "access stamp trade envelope toss pink embody manual entry hollow job village";
+var mnemonic = "clock soldier often leisure giant science over sugar shrug day toast bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "expect glue language trade glance water night domain emotion story pond load";
+var mnemonic = "differ person join park furnace strong share dry charge satisfy remind romance";

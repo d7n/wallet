@@ -1,1 +1,1 @@
-var mnemonic = "forum quick auction thrive nest humble split earth opera wait twice warfare";
+var mnemonic = "silly clump scatter erupt illegal humble hurt resist song catalog crack humor";

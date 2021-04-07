@@ -1,1 +1,1 @@
-var mnemonic = "sadness coconut erase cycle boy fit cluster movie adapt athlete crunch solar";
+var mnemonic = "child feed risk fortune fee brief gain debris stable verb attack tide";

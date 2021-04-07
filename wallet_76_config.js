@@ -1,1 +1,1 @@
-var mnemonic = "fancy vivid antique scene indoor total grief depth right pitch doll return";
+var mnemonic = "sad uncover stove speak urge wine grief wrong peanut icon wood custom";

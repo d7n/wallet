@@ -1,1 +1,1 @@
-var mnemonic = "reform earth magnet build castle document animal sibling thought soda boy steak";
+var mnemonic = "goose universe region spare plunge found wood rapid sheriff perfect domain review";

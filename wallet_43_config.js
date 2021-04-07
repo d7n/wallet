@@ -1,1 +1,1 @@
-var mnemonic = "welcome fossil cable say anchor silver sign diamond sand tuition vanish rent";
+var mnemonic = "ostrich share bread enrich aim home canoe fog doctor crop number license";

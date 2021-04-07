@@ -1,1 +1,1 @@
-var mnemonic = "supreme regular oyster broom wrestle miracle purpose tired interest melt degree height";
+var mnemonic = "rely observe wrong alley close arrest winter finish vanish mesh select maze";

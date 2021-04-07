@@ -1,1 +1,1 @@
-var mnemonic = "same clown march rate spike beauty fade reform require govern glow measure";
+var mnemonic = "point sight chuckle calm exclude clip nice wash brisk uphold toe oppose";

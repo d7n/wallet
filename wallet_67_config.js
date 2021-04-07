@@ -1,1 +1,1 @@
-var mnemonic = "burst board food perfect thunder donkey among such camera error sure citizen";
+var mnemonic = "wedding mercy spend menu smile horse vessel cover piece soap can notable";

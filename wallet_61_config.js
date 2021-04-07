@@ -1,1 +1,1 @@
-var mnemonic = "skirt float viable scrap smooth actress run sample category maze alter around";
+var mnemonic = "original edit party pig sibling sting valley sudden size sight clown salute";

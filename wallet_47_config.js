@@ -1,1 +1,1 @@
-var mnemonic = "fog badge simple hobby inherit harsh balance void increase welcome immune album";
+var mnemonic = "furnace trash mean lion news wagon girl machine unknown donkey eternal husband";

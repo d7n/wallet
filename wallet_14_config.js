@@ -1,1 +1,1 @@
-var mnemonic = "empower total squeeze cancel library wrap require wrong survey toddler room pledge";
+var mnemonic = "sister upper figure ghost material trap sword spot negative gas clump floor";

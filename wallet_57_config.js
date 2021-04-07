@@ -1,1 +1,1 @@
-var mnemonic = "bicycle success universe cycle skill device tank junior forget desert mechanic park";
+var mnemonic = "load behind salt myself tribe promote faint exhaust faculty resist float reflect";

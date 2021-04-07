@@ -1,1 +1,1 @@
-var mnemonic = "citizen strike upper garbage topic traffic hotel ladder brand trouble fine bottom";
+var mnemonic = "kiss prefer pass argue seminar blood action skill panther garbage era gold";

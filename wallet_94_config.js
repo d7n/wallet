@@ -1,1 +1,1 @@
-var mnemonic = "enrich believe isolate punch original grain write unusual devote tragic require banana";
+var mnemonic = "decade vast already pause carry best give arrow version salad bachelor spell";

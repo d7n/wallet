@@ -1,1 +1,1 @@
-var mnemonic = "segment clean wisdom unveil body inject skill below hello bridge peanut differ";
+var mnemonic = "enact course bullet soccer other clay demand uniform genre recycle mutual easily";

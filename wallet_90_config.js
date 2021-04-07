@@ -1,1 +1,1 @@
-var mnemonic = "decrease regret absurd health bacon copy winner uniform seminar dinosaur goose picture";
+var mnemonic = "deer tragic lottery issue cram dolphin region credit vehicle replace orchard recall";

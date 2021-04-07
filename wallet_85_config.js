@@ -1,1 +1,1 @@
-var mnemonic = "maze half weather menu spell bundle system salad horn outside slab warrior";
+var mnemonic = "impose original essence tool bid cool eyebrow attend allow unique hair miracle";

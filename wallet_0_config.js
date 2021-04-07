@@ -1,1 +1,1 @@
-var mnemonic = "tag veteran upon observe host between arena concert bean summer tortoise suit";
+var mnemonic = "inject inhale venue hard garbage assault liar bitter pear smoke wink payment";

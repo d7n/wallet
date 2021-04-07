@@ -1,1 +1,1 @@
-var mnemonic = "virus charge ill record window upper quick bonus kick sound fitness shoot";
+var mnemonic = "captain snack again shoulder flip actress print nothing empty change morning gate";

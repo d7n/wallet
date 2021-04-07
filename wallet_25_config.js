@@ -1,1 +1,1 @@
-var mnemonic = "monitor dress grocery sponsor balance tumble mesh lamp clutch elephant sadness dust";
+var mnemonic = "burst canoe assault column need off notice balcony more add farm moon";

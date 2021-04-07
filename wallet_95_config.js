@@ -1,1 +1,1 @@
-var mnemonic = "ankle curtain leader average host boost list deputy flip certain recycle october";
+var mnemonic = "prosper bring love charge plastic welcome veteran steak drift duck cruise dad";

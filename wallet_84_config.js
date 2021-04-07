@@ -1,1 +1,1 @@
-var mnemonic = "vessel game attend recipe salt oyster catalog proud grief shield drop party";
+var mnemonic = "forward lonely cart country grace also lonely alpha canal embody quit prison";

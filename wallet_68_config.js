@@ -1,1 +1,1 @@
-var mnemonic = "doll tonight produce general name drastic cheese reduce language essay wreck firm";
+var mnemonic = "humble pioneer outer life attack fan decrease velvet obey square country humor";

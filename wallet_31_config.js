@@ -1,1 +1,1 @@
-var mnemonic = "grain alert level moral marine you choose element fine magic elder egg";
+var mnemonic = "west enhance trap gap cross nice object orchard van legend hole brush";

@@ -1,1 +1,1 @@
-var mnemonic = "duck family primary clay eye vote share spoon dawn photo doctor gospel";
+var mnemonic = "must useful guitar rule benefit gallery strike dumb festival bunker topic divide";

@@ -1,1 +1,1 @@
-var mnemonic = "then cave shadow tray dream rude increase become enjoy hamster song coral";
+var mnemonic = "birth raise relief voice junior teach matrix valve quarter current drop pipe";

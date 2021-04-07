@@ -1,1 +1,1 @@
-var mnemonic = "stable apology tornado option cycle short hill accident hammer age reopen horse";
+var mnemonic = "arrange gadget never void raven picnic deal hamster carry opera legal diesel";

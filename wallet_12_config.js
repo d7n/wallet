@@ -1,1 +1,1 @@
-var mnemonic = "radio cup uncle shock gentle tag museum law outer adult magic math";
+var mnemonic = "kid truly cat daughter thing rookie east duty innocent burger book wrestle";

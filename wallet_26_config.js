@@ -1,1 +1,1 @@
-var mnemonic = "april siege knock sign disease beyond destroy charge nothing elite celery disorder";
+var mnemonic = "flip chronic seminar typical trap draw february donate electric cupboard female forest";

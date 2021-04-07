@@ -1,1 +1,1 @@
-var mnemonic = "silly castle fruit option sentence speed mystery creek fame churn enemy inquiry";
+var mnemonic = "arrow drip edge chimney shaft cupboard box moon wisdom portion quarter fatigue";

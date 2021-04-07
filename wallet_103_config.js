@@ -1,1 +1,1 @@
-var mnemonic = "aware aware record annual churn shiver harvest chronic weird shallow useless bird";
+var mnemonic = "pool holiday universe risk fun wolf sail weasel skate fold expose uncle";

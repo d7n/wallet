@@ -1,1 +1,1 @@
-var mnemonic = "cannon lizard mask vacant sausage pupil upgrade crew people barely ramp garden";
+var mnemonic = "pizza best garbage worth until stool enforce seed squeeze dilemma meadow loan";

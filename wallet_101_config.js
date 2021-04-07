@@ -1,1 +1,1 @@
-var mnemonic = "hungry where bulk coffee brother tiny token wealth response universe palace hockey";
+var mnemonic = "push pole ball catalog flower next board mutual picnic drink require tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus wonder stomach dish output limit draw mix youth dose cradle crash";
+var mnemonic = "art laugh present advice flip level disagree gadget cargo fossil quantum spare";

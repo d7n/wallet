@@ -1,1 +1,1 @@
-var mnemonic = "network service victory salmon month visa hold hat have property outdoor address";
+var mnemonic = "rival purity kind pelican seed blame swing volcano mean soul funny eye";

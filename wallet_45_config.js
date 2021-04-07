@@ -1,1 +1,1 @@
-var mnemonic = "cover thank true shine struggle enough favorite fox stay media coral snow";
+var mnemonic = "napkin play flush tray library step firm hunt permit tragic knock brother";

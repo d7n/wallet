@@ -1,1 +1,1 @@
-var mnemonic = "target small peasant direct prefer spring canal pole drift climb fringe female";
+var mnemonic = "trend club talent limb clean session brush pipe wrist express history actual";

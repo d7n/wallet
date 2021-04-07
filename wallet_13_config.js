@@ -1,1 +1,1 @@
-var mnemonic = "cigar march lend bread grass equal use life another welcome matter drip";
+var mnemonic = "river crunch imitate connect doll improve large vital enrich toe social swear";

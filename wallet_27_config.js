@@ -1,1 +1,1 @@
-var mnemonic = "pride any state loud shiver wool doctor ghost enter bonus power olympic";
+var mnemonic = "glow believe salute occur industry salon rural property alert gold market cage";

@@ -1,1 +1,1 @@
-var mnemonic = "affair album swift metal bargain slogan puzzle panda limit middle behave thought";
+var mnemonic = "neck outer gold final common faith pull cradle entry surge tuition display";

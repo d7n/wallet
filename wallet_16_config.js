@@ -1,1 +1,1 @@
-var mnemonic = "pulse steel hollow raw category gauge dignity lady release pride original moon";
+var mnemonic = "also layer chapter device stage gun digital little then spy monster yard";

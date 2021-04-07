@@ -1,1 +1,1 @@
-var mnemonic = "code wreck exhaust illness soup modify rubber annual please giraffe skill sleep";
+var mnemonic = "luxury loan multiply claim bargain build valve silk crunch attract social aim";

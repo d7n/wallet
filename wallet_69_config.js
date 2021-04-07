@@ -1,1 +1,1 @@
-var mnemonic = "bring sudden story thunder zero armor rough swamp ice ordinary erase flip";
+var mnemonic = "weapon return butter detect rare party wave mobile chalk square royal again";

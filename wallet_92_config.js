@@ -1,1 +1,1 @@
-var mnemonic = "frequent episode helmet input emotion crowd adult congress stay pistol cousin couple";
+var mnemonic = "pet lottery welcome rotate man liberty okay venture inquiry finger trap spread";

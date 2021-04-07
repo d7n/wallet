@@ -1,1 +1,1 @@
-var mnemonic = "girl predict polar park quarter arrive short grocery section march opera wrestle";
+var mnemonic = "love wish spring word hundred omit luggage genius illegal depend rhythm before";

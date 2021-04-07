@@ -1,1 +1,1 @@
-var mnemonic = "trade crane certain genius embark victory lonely thought file outside upon suffer";
+var mnemonic = "recipe relief switch trend inspire surprise happy kind few olive blush echo";

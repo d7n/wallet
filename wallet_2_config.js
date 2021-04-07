@@ -1,1 +1,1 @@
-var mnemonic = "naive region double roof more shell traffic student melt disease icon survey";
+var mnemonic = "ramp when surge liar mom fat bamboo stove beach amused stone gift";

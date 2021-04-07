@@ -1,1 +1,1 @@
-var mnemonic = "obey stay blame budget olive object arena report fish energy pet pioneer";
+var mnemonic = "chaos earth crawl dragon all gorilla ankle ripple erode crowd jewel castle";

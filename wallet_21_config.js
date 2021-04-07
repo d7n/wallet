@@ -1,1 +1,1 @@
-var mnemonic = "sea divorce noise bring travel happy lens green glove sing crew turkey";
+var mnemonic = "glance flash token dutch special throw weekend sing cruise wool stem dress";
