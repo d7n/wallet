@@ -1,1 +1,1 @@
-var mnemonic = "picture rather hair bar trick company control donkey there initial excess pull";
+var mnemonic = "frame song expose shallow drastic horror very impact achieve melt where trash";

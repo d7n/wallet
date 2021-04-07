@@ -1,1 +1,1 @@
-var mnemonic = "round major blame ship shallow toe jacket eyebrow attitude miss input brisk";
+var mnemonic = "squirrel trophy example lend course inherit survey joke enter pink enjoy place";

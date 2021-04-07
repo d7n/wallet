@@ -1,1 +1,1 @@
-var mnemonic = "zone have figure damp metal general federal salt rebuild obey unfold focus";
+var mnemonic = "flock fun poverty cancel unfold code girl praise crash length similar enjoy";

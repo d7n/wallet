@@ -1,1 +1,1 @@
-var mnemonic = "march rail ugly bicycle blush prosper spell tuition neither trend pact fatal";
+var mnemonic = "silent jealous fruit august divide naive slam vibrant bag twist domain federal";

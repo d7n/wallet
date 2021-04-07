@@ -1,1 +1,1 @@
-var mnemonic = "company rescue act green forward gift interest sorry execute fat attack globe";
+var mnemonic = "invest target nest shadow orchard sleep wink ethics bitter cushion coin example";

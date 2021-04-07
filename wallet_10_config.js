@@ -1,1 +1,1 @@
-var mnemonic = "corn floor defense nut clap ice knock marine announce bitter jump degree";
+var mnemonic = "bomb message kit easy assist auction ensure face aware modify punch monster";

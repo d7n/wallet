@@ -1,1 +1,1 @@
-var mnemonic = "replace system sword blur squirrel already dwarf outside model barrel wait kitten";
+var mnemonic = "advance order hotel normal uphold cushion confirm engine message purse guilt thought";

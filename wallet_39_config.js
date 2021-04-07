@@ -1,1 +1,1 @@
-var mnemonic = "faculty jazz tongue drink sting sister quantum decorate begin snow easily laugh";
+var mnemonic = "dentist infant tray pill juice mutual vendor alter mention require current push";

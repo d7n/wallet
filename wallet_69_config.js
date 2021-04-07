@@ -1,1 +1,1 @@
-var mnemonic = "artist focus never skirt february hockey twenty view legend verb believe strong";
+var mnemonic = "rude brush wrap ritual reflect return diesel cannon muffin index use heart";

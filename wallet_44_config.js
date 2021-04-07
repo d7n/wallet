@@ -1,1 +1,1 @@
-var mnemonic = "hen sun favorite salmon nerve fringe endless always mimic slender river donkey";
+var mnemonic = "rich window fabric book recall name ankle fence hire farm slender skate";

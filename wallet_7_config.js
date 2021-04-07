@@ -1,1 +1,1 @@
-var mnemonic = "found media warrior decade accuse recall trophy program quick six blanket sea";
+var mnemonic = "model razor gauge blouse fine below install promote unveil lizard brass fine";

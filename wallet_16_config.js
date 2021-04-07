@@ -1,1 +1,1 @@
-var mnemonic = "rookie office average eternal pretty sphere refuse tattoo diamond remember pony purity";
+var mnemonic = "dad knock snack virtual luxury animal also human engage dust hedgehog before";

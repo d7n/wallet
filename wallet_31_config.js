@@ -1,1 +1,1 @@
-var mnemonic = "bring recall lemon purity couple edge wasp seat metal panther earn cover";
+var mnemonic = "enact stereo draft define day install chimney uncover breeze various bone pen";

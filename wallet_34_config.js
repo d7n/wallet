@@ -1,1 +1,1 @@
-var mnemonic = "surface cheese cannon clog laundry infant hockey spoil soap lunch cluster rain";
+var mnemonic = "film onion fever zero kitchen fancy girl pill awake make egg combine";

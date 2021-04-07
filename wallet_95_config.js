@@ -1,1 +1,1 @@
-var mnemonic = "jacket shrimp already such extend pen dust finger reflect peanut market fashion";
+var mnemonic = "tent two poet labor cabin toss cost term note organ charge extra";

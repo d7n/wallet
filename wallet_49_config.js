@@ -1,1 +1,1 @@
-var mnemonic = "crew cabbage solution unaware warfare amount husband mirror couple vague under matrix";
+var mnemonic = "subject curious again goddess coil gas ball learn beach melt fiction eternal";

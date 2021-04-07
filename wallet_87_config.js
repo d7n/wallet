@@ -1,1 +1,1 @@
-var mnemonic = "prosper dice board pipe spy candy cattle dinosaur jealous napkin salt couple";
+var mnemonic = "fury found promote mouse butter cereal task ripple envelope tank army cannon";

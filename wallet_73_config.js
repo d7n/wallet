@@ -1,1 +1,1 @@
-var mnemonic = "resist impose tourist forget paper deliver include soup badge enemy icon average";
+var mnemonic = "cousin enforce modify bike glad kid defense tail spirit artefact property dragon";

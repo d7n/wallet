@@ -1,1 +1,1 @@
-var mnemonic = "save pepper floor sadness they lyrics draw off ticket scorpion oxygen ginger";
+var mnemonic = "evil lunar label mixed coffee injury glance alarm round orchard minute clock";

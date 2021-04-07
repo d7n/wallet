@@ -1,1 +1,1 @@
-var mnemonic = "sell welcome blanket absent leave mandate fan relief uncle student fit hundred";
+var mnemonic = "connect poverty electric panel cargo caution pencil unaware figure ritual duty stuff";

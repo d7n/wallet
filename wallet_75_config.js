@@ -1,1 +1,1 @@
-var mnemonic = "jump bomb track uphold destroy vocal equal maple autumn suffer indicate lounge";
+var mnemonic = "dust update border example extend panther task imitate display infant test fantasy";

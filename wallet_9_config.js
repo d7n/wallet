@@ -1,1 +1,1 @@
-var mnemonic = "recall fever gown sick session inch cycle peasant rich advance slim proof";
+var mnemonic = "penalty path december dirt cabin diesel find razor notable height search logic";

@@ -1,1 +1,1 @@
-var mnemonic = "grocery antenna security doll run tuition hundred february addict apology wisdom dragon";
+var mnemonic = "join region know helmet pole garage crunch search walnut vault creek hurdle";

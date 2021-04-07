@@ -1,1 +1,1 @@
-var mnemonic = "resist olympic buffalo hollow wait current there caught top begin animal cycle";
+var mnemonic = "dolphin always side stadium tide fossil swim blush tiger sheriff fix area";

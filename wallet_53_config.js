@@ -1,1 +1,1 @@
-var mnemonic = "awake erosion mind desk hammer system winter whale bid custom faint undo";
+var mnemonic = "region nice replace neglect penalty decorate minute trumpet oil music feature mesh";

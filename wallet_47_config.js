@@ -1,1 +1,1 @@
-var mnemonic = "little online antique planet fix like entire ozone pattern book train cage";
+var mnemonic = "trophy piece tent furnace mammal pioneer glue energy artwork purchase below boil";

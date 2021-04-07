@@ -1,1 +1,1 @@
-var mnemonic = "slab tattoo tank choice hollow vibrant swift lecture main twist beef illegal";
+var mnemonic = "price wonder grab decade increase total increase exclude attract auto sausage trumpet";

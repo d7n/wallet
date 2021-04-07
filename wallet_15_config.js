@@ -1,1 +1,1 @@
-var mnemonic = "cradle old solve wrong drive join source trust fence volcano regret update";
+var mnemonic = "wagon unveil evil ball tape cricket hockey drum disagree desert animal ahead";

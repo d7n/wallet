@@ -1,1 +1,1 @@
-var mnemonic = "mango digital matter target ride fork purchase provide belt ridge decorate unusual";
+var mnemonic = "library athlete first loop quantum young kidney network virtual steel seek attack";

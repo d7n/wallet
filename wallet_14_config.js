@@ -1,1 +1,1 @@
-var mnemonic = "romance tell various put rotate square fringe slogan tree basic helmet toss";
+var mnemonic = "current scrap emerge today fly insect accuse carry salad hamster check dog";

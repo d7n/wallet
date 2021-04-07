@@ -1,1 +1,1 @@
-var mnemonic = "vapor ridge bike fork topic morning cart motor glare flame slight ribbon";
+var mnemonic = "sadness ahead pigeon once alpha consider collect control network cigar dry strategy";

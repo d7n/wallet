@@ -1,1 +1,1 @@
-var mnemonic = "solar acid lemon target crater measure visual push aware edge divide supply";
+var mnemonic = "mistake frog arch glimpse garbage indoor slush ahead artefact zoo vanish guitar";

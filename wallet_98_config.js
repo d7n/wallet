@@ -1,1 +1,1 @@
-var mnemonic = "kingdom accident conduct icon hood jungle copper asset donor board myself demise";
+var mnemonic = "view insane poverty digital figure sing cash female elbow pretty shine lottery";

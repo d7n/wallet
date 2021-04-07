@@ -1,1 +1,1 @@
-var mnemonic = "orchard young chest vague vast hold advance size tobacco company liberty margin";
+var mnemonic = "foam explain power race frequent invite slam noodle year zebra exhaust leg";

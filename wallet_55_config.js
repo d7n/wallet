@@ -1,1 +1,1 @@
-var mnemonic = "reject decrease behave chat rally mystery vintage drink add grief light asthma";
+var mnemonic = "olive whip deal dose when eight attend more solar narrow dry that";

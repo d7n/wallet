@@ -1,1 +1,1 @@
-var mnemonic = "hover siren walk admit maid wrist bind over figure gravity turtle capital";
+var mnemonic = "west drift holiday onion marriage scene elbow inch lawsuit aim hotel renew";

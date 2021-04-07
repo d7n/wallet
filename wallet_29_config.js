@@ -1,1 +1,1 @@
-var mnemonic = "seven margin diet dish truth mixture initial august goose badge man matter";
+var mnemonic = "cost question juice winter limit embrace solve expose clarify virtual upper gun";

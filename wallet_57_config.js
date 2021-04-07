@@ -1,1 +1,1 @@
-var mnemonic = "ritual estate music bottom decade six vault leopard album caution theme bronze";
+var mnemonic = "glue sustain moment kitten roof salute omit hurry material carry skin banner";

@@ -1,1 +1,1 @@
-var mnemonic = "trend remain auction hurt tape insane sort nation hospital sail comfort jealous";
+var mnemonic = "mad genre mail mercy solar purpose small review load nurse trade pause";

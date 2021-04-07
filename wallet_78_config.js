@@ -1,1 +1,1 @@
-var mnemonic = "obey indoor soft differ ladder exhaust lumber unusual obscure skin swamp divide";
+var mnemonic = "often screen silver crack neglect filter afraid chef way exit wait curtain";

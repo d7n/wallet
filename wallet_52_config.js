@@ -1,1 +1,1 @@
-var mnemonic = "gun wrap brown health rare outer garden grace collect grain cushion find";
+var mnemonic = "review sunset demise portion manage same essence popular replace practice butter student";

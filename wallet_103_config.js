@@ -1,1 +1,1 @@
-var mnemonic = "noodle roof left life joke stumble convince isolate fine fancy marriage today";
+var mnemonic = "immense glimpse federal zero gorilla vivid pizza market worth topple view cherry";

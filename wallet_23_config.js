@@ -1,1 +1,1 @@
-var mnemonic = "napkin alone tray suspect maximum excess drop frost dolphin box merit whale";
+var mnemonic = "museum uncover release wrap goddess buffalo humor sheriff myself patient skate rally";

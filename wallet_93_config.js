@@ -1,1 +1,1 @@
-var mnemonic = "post push glad person rich grid laptop element armor very limit advice";
+var mnemonic = "insane pact novel category cheese saddle chaos already income stamp grow undo";

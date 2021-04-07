@@ -1,1 +1,1 @@
-var mnemonic = "regular calm naive original impact pole wedding climb bus broccoli art nasty";
+var mnemonic = "panel absorb enjoy blouse misery rich gossip stumble cluster tongue grant ghost";

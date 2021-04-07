@@ -1,1 +1,1 @@
-var mnemonic = "unique vicious entire father oil cargo electric drum delay fashion vault ten";
+var mnemonic = "under annual grace pact south there device benefit conduct garbage gossip roast";

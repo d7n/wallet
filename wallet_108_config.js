@@ -1,1 +1,1 @@
-var mnemonic = "enable picture task fiscal better predict lock game cupboard balcony found trend";
+var mnemonic = "brick bleak foam execute engine they add vital moral hard certain range";

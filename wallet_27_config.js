@@ -1,1 +1,1 @@
-var mnemonic = "consider toward focus trust gun cloth since virtual quick various salon claim";
+var mnemonic = "object soup mask birth ill grid argue wise satisfy rotate carpet fault";

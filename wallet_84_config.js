@@ -1,1 +1,1 @@
-var mnemonic = "water merge test pepper coast glue raw vast violin reopen shaft nuclear";
+var mnemonic = "profit check impose tent theme rely illness point opera toast local finish";

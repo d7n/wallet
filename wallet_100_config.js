@@ -1,1 +1,1 @@
-var mnemonic = "castle near athlete suit collect sadness window emerge agent update desk finger";
+var mnemonic = "tuition breeze fire trumpet joke rabbit cake copper aunt fire tube wrist";

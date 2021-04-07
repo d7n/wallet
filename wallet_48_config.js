@@ -1,1 +1,1 @@
-var mnemonic = "concert monster million industry another notice dinosaur collect embark can burden hedgehog";
+var mnemonic = "embody slogan hard hip kingdom jump odor web artwork have celery suggest";

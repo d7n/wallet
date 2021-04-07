@@ -1,1 +1,1 @@
-var mnemonic = "genre apple remember ozone kite illness width upper involve sell right goddess";
+var mnemonic = "swift mistake once long oblige assault ancient cause weasel bronze expect cost";

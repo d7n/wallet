@@ -1,1 +1,1 @@
-var mnemonic = "feel huge provide limit fluid collect man beef ostrich rival tribe crazy";
+var mnemonic = "easily discover tooth angle wild nurse stick inform echo satisfy spray humor";

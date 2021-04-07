@@ -1,1 +1,1 @@
-var mnemonic = "drum need neck case merge october movie urban test depart judge write";
+var mnemonic = "behave wing smart walk deputy uncover lawn rhythm throw circle planet oven";

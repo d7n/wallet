@@ -1,1 +1,1 @@
-var mnemonic = "convince fault dry cute purse business cinnamon dwarf lock melody clinic yard";
+var mnemonic = "east lesson sting typical stone range gentle anxiety shield trap permit recycle";

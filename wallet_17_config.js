@@ -1,1 +1,1 @@
-var mnemonic = "dust boat situate word spring have street record agent solve orbit scorpion";
+var mnemonic = "lobster runway thank trophy hazard weird vague shoe insane apart visual remember";

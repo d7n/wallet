@@ -1,1 +1,1 @@
-var mnemonic = "crop ethics bullet pave rifle dirt square torch sample economy sail brain";
+var mnemonic = "borrow life minor dream during account confirm unable odor mystery deputy grocery";

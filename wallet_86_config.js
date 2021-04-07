@@ -1,1 +1,1 @@
-var mnemonic = "enrich doctor slender clump unfair future talk fee recipe range spare round";
+var mnemonic = "vote retire hungry fantasy health winter rubber umbrella marine kidney weather ten";

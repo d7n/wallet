@@ -1,1 +1,1 @@
-var mnemonic = "mean gauge success artefact cannon sound laundry swallow sphere suggest assume supreme";
+var mnemonic = "luxury can market blast mango local armor eight video sign end another";

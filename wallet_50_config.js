@@ -1,1 +1,1 @@
-var mnemonic = "problem energy party blind general champion youth atom blossom absent dose genius";
+var mnemonic = "solution frame chief police rain rookie accident grocery drink brisk amount kite";

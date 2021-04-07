@@ -1,1 +1,1 @@
-var mnemonic = "already usage pudding hat hollow until disease mass artefact tragic crop broken";
+var mnemonic = "celery coconut normal service stove bird toddler disease gas dress crew ability";

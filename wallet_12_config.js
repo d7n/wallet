@@ -1,1 +1,1 @@
-var mnemonic = "piece time garment video present anxiety city smoke across trend increase car";
+var mnemonic = "return pulse grit drum spend soccer pull powder come ostrich quick suggest";

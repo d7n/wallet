@@ -1,1 +1,1 @@
-var mnemonic = "master adjust side lottery net banana bunker depend almost uphold snap call";
+var mnemonic = "huge suggest venue jazz hour fit insect hollow shoulder wait flash sketch";

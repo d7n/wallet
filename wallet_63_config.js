@@ -1,1 +1,1 @@
-var mnemonic = "next birth decade offer dial predict era base approve super balcony circle";
+var mnemonic = "maid vanish huge submit daring ridge spy under isolate claim culture grow";

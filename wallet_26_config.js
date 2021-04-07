@@ -1,1 +1,1 @@
-var mnemonic = "advance twenty vessel plate violin truly pony gossip time flip need immense";
+var mnemonic = "level blind bird alone priority enjoy subway pudding follow urge two labor";

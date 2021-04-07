@@ -1,1 +1,1 @@
-var mnemonic = "enable marble direct dance ice reason domain pair like hair erode reunion";
+var mnemonic = "outside sure style fitness blood sense limb main avoid fancy find plastic";

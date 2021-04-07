@@ -1,1 +1,1 @@
-var mnemonic = "huge kiwi ceiling lesson milk arrange one often funny spoil cousin noise";
+var mnemonic = "slender bird stone pigeon tomorrow code chat either praise burden casino trial";

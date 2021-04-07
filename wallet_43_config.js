@@ -1,1 +1,1 @@
-var mnemonic = "kingdom vanish stock prefer ordinary venture stuff plate raw mandate citizen fetch";
+var mnemonic = "tuition kiwi move burger truck blanket travel child enlist gravity public moon";

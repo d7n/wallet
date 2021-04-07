@@ -1,1 +1,1 @@
-var mnemonic = "express evolve someone lady trust warm riot because rebuild heavy rate arrange";
+var mnemonic = "allow point symbol flat short round attack position ice neck tip reduce";

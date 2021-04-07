@@ -1,1 +1,1 @@
-var mnemonic = "pudding chronic edit lazy transfer logic stock surround pizza great bubble scene";
+var mnemonic = "bag company honey vehicle boy disagree practice insane flower fog dignity ghost";

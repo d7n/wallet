@@ -1,1 +1,1 @@
-var mnemonic = "toy thumb curtain device olive spin segment vintage aisle into wealth trend";
+var mnemonic = "canal broken unit dad pistol proud thumb ecology because bless sail random";

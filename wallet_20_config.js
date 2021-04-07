@@ -1,1 +1,1 @@
-var mnemonic = "pledge radio wrong easy act laundry blush length delay sad answer circle";
+var mnemonic = "ripple must carpet media wage hazard recycle crouch denial health fever advice";

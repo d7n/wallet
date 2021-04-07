@@ -1,1 +1,1 @@
-var mnemonic = "night curve process accident bulb potato venture exist buyer doctor easily minimum";
+var mnemonic = "safe empower obscure wait vital dumb verify demise any time advice winner";

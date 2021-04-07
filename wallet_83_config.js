@@ -1,1 +1,1 @@
-var mnemonic = "woman machine social obey phrase grow yellow system nest ring ivory trust";
+var mnemonic = "what duty army clown annual light clean fetch foot grocery soldier embody";

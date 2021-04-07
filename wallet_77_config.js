@@ -1,1 +1,1 @@
-var mnemonic = "bike box defense primary moment work conduct divide moon thing cool thank";
+var mnemonic = "planet canyon useful huge mammal coil endorse forum level anchor later meadow";

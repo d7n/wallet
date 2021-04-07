@@ -1,1 +1,1 @@
-var mnemonic = "tonight token possible nothing similar extend ankle flight fine dignity umbrella actor";
+var mnemonic = "despair draft submit segment butter vessel column game relief off entry cabbage";

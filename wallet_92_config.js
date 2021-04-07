@@ -1,1 +1,1 @@
-var mnemonic = "help census trick tenant craft assume learn call cattle gallery digital crash";
+var mnemonic = "coach morning pill travel ill capable attack doctor laugh sheriff dentist hill";

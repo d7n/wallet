@@ -1,1 +1,1 @@
-var mnemonic = "invest master pull fossil mix curtain mind brain youth mutual salmon pretty";
+var mnemonic = "comfort put divert much rifle chapter noodle foster noodle tower dizzy pioneer";

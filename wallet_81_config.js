@@ -1,1 +1,1 @@
-var mnemonic = "dog venture chest news celery require luggage umbrella advice fossil defense buzz";
+var mnemonic = "depart gown you exit spice fetch pond length thank brave enough chest";
