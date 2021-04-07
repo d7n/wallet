@@ -1,1 +1,1 @@
-var mnemonic = "busy flip trial scissors recall lumber vapor ignore rail maximum feel siege";
+var mnemonic = "zoo law orbit very repair kingdom guilt machine music pigeon scan gaze";

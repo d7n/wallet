@@ -1,1 +1,1 @@
-var mnemonic = "warrior cherry left tool make real ring list sign bread calm ten";
+var mnemonic = "action between globe long mango credit embark else vibrant garbage home cost";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme ugly three train unlock island during trophy aisle seed place erase";
+var mnemonic = "solve shuffle lobster fly muffin canoe exile unit clown barrel reopen sport";

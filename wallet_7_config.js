@@ -1,1 +1,1 @@
-var mnemonic = "original theory work rotate panther dish focus bright west return road goat";
+var mnemonic = "firm delay suggest wool accident leopard volcano idle gaze permit cruise receive";

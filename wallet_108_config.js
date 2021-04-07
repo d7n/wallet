@@ -1,1 +1,1 @@
-var mnemonic = "tunnel powder vacant olympic tape body food small weird rate twice slush";
+var mnemonic = "orchard best trash wild magic letter key cute ecology garlic piano idle";

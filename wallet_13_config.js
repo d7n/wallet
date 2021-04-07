@@ -1,1 +1,1 @@
-var mnemonic = "material clean reason teach jaguar water example leopard trial gift aunt cover";
+var mnemonic = "upset reflect lucky account opera demand skirt bubble trend just voyage carpet";

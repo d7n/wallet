@@ -1,1 +1,1 @@
-var mnemonic = "spend rubber elder panda upon goddess type ability spare army push scorpion";
+var mnemonic = "fit broken shoe stuff inquiry axis august share hurry code detail mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster sausage observe muscle evil mask faculty shaft coffee chimney deposit episode";
+var mnemonic = "magic history upon nasty ski truly name marine squirrel quarter doctor chaos";

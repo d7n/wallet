@@ -1,1 +1,1 @@
-var mnemonic = "lawn later reason burger loyal during ozone palace sausage ticket auction among";
+var mnemonic = "knife pipe staff unfold crumble health sense invest common current assume sibling";

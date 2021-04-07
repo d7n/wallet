@@ -1,1 +1,1 @@
-var mnemonic = "entire badge family lunar test benefit abandon pupil move large bid regular";
+var mnemonic = "radio unable inmate blast armed weekend armor bar economy bench delay region";

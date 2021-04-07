@@ -1,1 +1,1 @@
-var mnemonic = "tornado update sorry frequent obey nuclear feel situate reopen mixture siren start";
+var mnemonic = "good unique aerobic absurd between elephant mystery box solid distance curtain room";

@@ -1,1 +1,1 @@
-var mnemonic = "feel super cereal sustain lobster slush next define timber tooth clown organ";
+var mnemonic = "mountain young damp guitar pill calm rescue keep alter hybrid coral desk";

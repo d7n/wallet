@@ -1,1 +1,1 @@
-var mnemonic = "carry certain crop begin stereo job cup subject express tuition system shallow";
+var mnemonic = "okay sunset pudding boy cream wait proof grief swamp pretty normal future";

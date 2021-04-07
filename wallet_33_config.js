@@ -1,1 +1,1 @@
-var mnemonic = "advance peasant elephant club feel juice fun absent place era toe regular";
+var mnemonic = "panel muffin pulse lava fruit mercy sister unusual mandate word meat kidney";

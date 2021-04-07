@@ -1,1 +1,1 @@
-var mnemonic = "crop slim together coconut mom dress silver during video foil resource clump";
+var mnemonic = "picture host bind danger help person bread vehicle clock tortoise boy horror";

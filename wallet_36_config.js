@@ -1,1 +1,1 @@
-var mnemonic = "sweet impact raccoon regret clown jelly involve knife globe another fashion insane";
+var mnemonic = "action comic genuine journey raw frown sausage around city urban cradle park";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover latin exile run census embody firm story number rebel fabric license";
+var mnemonic = "vacuum garage scheme april attack cheese equip usual office cram initial exact";

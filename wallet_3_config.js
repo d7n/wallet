@@ -1,1 +1,1 @@
-var mnemonic = "split buddy steel dice protect dawn enjoy agent brass gun walk screen";
+var mnemonic = "autumn exchange canoe fish clay version enable shadow short cannon release grow";

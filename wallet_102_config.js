@@ -1,1 +1,1 @@
-var mnemonic = "school woman fossil brand coin occur essay kick fine pet sad drink";
+var mnemonic = "foster tuition nose attitude tree ozone bounce radar blush delay radio small";

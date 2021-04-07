@@ -1,1 +1,1 @@
-var mnemonic = "rubber ivory castle excite chunk animal legend young tool hospital bracket common";
+var mnemonic = "cabin champion tobacco assist thunder banana shaft garbage glimpse immune more section";

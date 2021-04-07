@@ -1,1 +1,1 @@
-var mnemonic = "mutual spin bone cement initial usage define risk sentence benefit offer small";
+var mnemonic = "stage rent mountain hidden sign rug spot domain void property soup spatial";

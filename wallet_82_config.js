@@ -1,1 +1,1 @@
-var mnemonic = "waste entire home endless beach shield crystal creek body cram release arctic";
+var mnemonic = "road stand dismiss exhaust soldier quality swap wasp orient olive deposit account";

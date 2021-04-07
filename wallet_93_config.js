@@ -1,1 +1,1 @@
-var mnemonic = "all cricket champion auto broccoli dilemma very omit bridge riot silk someone";
+var mnemonic = "ability trick million prison shaft battle mutual ring drift rug hat stomach";

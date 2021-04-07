@@ -1,1 +1,1 @@
-var mnemonic = "piano faculty pistol program achieve someone lawsuit useful large couple giggle screen";
+var mnemonic = "fury piano medal furnace attitude quit chaos original behind slab will athlete";

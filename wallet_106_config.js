@@ -1,1 +1,1 @@
-var mnemonic = "match fortune ketchup coyote proof toy skirt upgrade fine laugh water shallow";
+var mnemonic = "picnic multiply despair original bubble project dove concert boil sweet census frown";

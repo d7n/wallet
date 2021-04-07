@@ -1,1 +1,1 @@
-var mnemonic = "sick pave diamond rebuild potato group rebuild siege actor oxygen poem aerobic";
+var mnemonic = "fee ahead remind canoe code perfect sort shop auction panel supreme survey";

@@ -1,1 +1,1 @@
-var mnemonic = "private heart approve pistol drop okay such fluid soon dinner follow orbit";
+var mnemonic = "sketch gun scorpion emotion notice remember toy hip kangaroo kite cousin life";

@@ -1,1 +1,1 @@
-var mnemonic = "assault someone supreme vague phrase good later reward outside upgrade armor practice";
+var mnemonic = "indicate play direct wall absorb own guide gossip about claw economy thrive";

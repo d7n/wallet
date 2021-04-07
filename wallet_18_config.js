@@ -1,1 +1,1 @@
-var mnemonic = "admit rack cherry charge expire have round notable tag soft dress need";
+var mnemonic = "total dinner praise lazy sand soap debate icon hope marble side exercise";

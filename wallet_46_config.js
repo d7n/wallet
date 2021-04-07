@@ -1,1 +1,1 @@
-var mnemonic = "pelican palm clog heart clip attitude bind raven lens vast source release";
+var mnemonic = "impact sphere federal embody provide dice oak orient family slight draw spend";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh off burden keen canvas echo either sense creek gossip initial kitchen";
+var mnemonic = "undo cook crucial worth easily canyon quality clean hollow program airport spring";

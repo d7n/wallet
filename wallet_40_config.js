@@ -1,1 +1,1 @@
-var mnemonic = "flat scheme weird true festival oppose knife column scale satisfy aim myself";
+var mnemonic = "dry track able provide bullet horror sketch dragon earn stove pistol achieve";

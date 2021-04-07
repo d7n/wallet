@@ -1,1 +1,1 @@
-var mnemonic = "isolate happy dentist beyond gesture history until knee meadow remove pupil have";
+var mnemonic = "pipe cabbage napkin unable rural wolf book saddle fix label protect ugly";

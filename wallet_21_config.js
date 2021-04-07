@@ -1,1 +1,1 @@
-var mnemonic = "toe cradle assault negative unique bean medal crop slide upon interest tomato";
+var mnemonic = "gap crowd where unknown friend dish toe time fish cereal blind fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter envelope pull skull economy require cancel inspire silent weapon spider leaf";
+var mnemonic = "arrest spoil artwork there trial axis vicious basket evoke opinion topple mesh";

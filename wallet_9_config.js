@@ -1,1 +1,1 @@
-var mnemonic = "earn soccer net enforce flock day cheese honey dwarf gadget duty consider";
+var mnemonic = "gate pet orbit whale brush lucky catch slight wide depart uncover advice";

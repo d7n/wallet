@@ -1,1 +1,1 @@
-var mnemonic = "reduce team faculty coin decorate reject alpha burden loan spray tell pond";
+var mnemonic = "debris sick select suffer spawn dignity glass bar resource exotic paper traffic";

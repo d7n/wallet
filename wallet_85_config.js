@@ -1,1 +1,1 @@
-var mnemonic = "flavor thought flavor arctic orange print dog napkin guilt picnic glide add";
+var mnemonic = "abandon quiz churn ancient gate certain enforce federal typical surprise grant review";

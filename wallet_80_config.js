@@ -1,1 +1,1 @@
-var mnemonic = "sea there hire similar faculty mix near erode uniform ramp access tip";
+var mnemonic = "ritual cheese olympic process sign still essay century grant deposit stove answer";

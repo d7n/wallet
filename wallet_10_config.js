@@ -1,1 +1,1 @@
-var mnemonic = "conduct index recycle anger horror fringe area heavy warfare slow soon name";
+var mnemonic = "because sun remain matrix peasant inner tank dove ensure garage hungry include";

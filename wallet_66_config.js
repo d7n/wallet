@@ -1,1 +1,1 @@
-var mnemonic = "chaos infant bright wrestle join laugh orange parrot away walk mixed nurse";
+var mnemonic = "demise lottery diet creek hollow remain flag company present mom utility empty";

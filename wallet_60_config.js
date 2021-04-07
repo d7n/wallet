@@ -1,1 +1,1 @@
-var mnemonic = "banner lady nasty another middle either bone goddess punch legal habit cactus";
+var mnemonic = "hundred laundry easily say outdoor control mask envelope real garlic roof bubble";

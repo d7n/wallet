@@ -1,1 +1,1 @@
-var mnemonic = "razor life middle country call rigid open ski orphan recycle eagle grace";
+var mnemonic = "source zoo either sweet citizen elegant mammal best certain song pottery absent";

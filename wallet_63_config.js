@@ -1,1 +1,1 @@
-var mnemonic = "giggle penalty barrel airport recall act monitor certain august harvest good museum";
+var mnemonic = "update result diagram unusual blossom day siren evil feel example cage grain";

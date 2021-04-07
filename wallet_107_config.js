@@ -1,1 +1,1 @@
-var mnemonic = "strike club tail grape brass correct flash disagree concert split amused finish";
+var mnemonic = "grab car bag degree second develop avoid mango scare public gauge divide";

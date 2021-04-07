@@ -1,1 +1,1 @@
-var mnemonic = "misery bring game gadget cargo sail enrich combine warm august rude moment";
+var mnemonic = "agree bitter easy hidden write small bomb change weapon arrive comic bike";

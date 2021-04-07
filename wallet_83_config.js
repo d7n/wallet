@@ -1,1 +1,1 @@
-var mnemonic = "chalk have private exile bus deer agent illegal taxi load junior trap";
+var mnemonic = "lend kangaroo sweet floor field rubber remind summer quick diagram woman trip";

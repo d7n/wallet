@@ -1,1 +1,1 @@
-var mnemonic = "title basic visit situate just hard roof estate reason sense barrel embark";
+var mnemonic = "utility current jump heavy dance juice radar employ omit gadget define august";

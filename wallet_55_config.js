@@ -1,1 +1,1 @@
-var mnemonic = "sponsor demise truth vibrant lucky enable isolate kitchen faint lawn topple sting";
+var mnemonic = "soup casual jar miss sunny drum during elite document online choice crop";

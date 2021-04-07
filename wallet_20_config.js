@@ -1,1 +1,1 @@
-var mnemonic = "van ramp garbage alley moment taxi remind theme bottom ancient rebuild snake";
+var mnemonic = "crime harvest sea science early hard pizza pulse acquire favorite output snap";

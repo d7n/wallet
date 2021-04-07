@@ -1,1 +1,1 @@
-var mnemonic = "host arrive jealous effort subject educate hen grid please number kangaroo talk";
+var mnemonic = "drastic fitness also weekend vibrant floor focus rubber luggage spider harsh faith";

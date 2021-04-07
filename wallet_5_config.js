@@ -1,1 +1,1 @@
-var mnemonic = "attend sphere sleep hold cabin river cheap forget comic legend uncover rural";
+var mnemonic = "coin saddle latin add adjust gesture vocal wing opera budget firm stem";

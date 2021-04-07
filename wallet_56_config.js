@@ -1,1 +1,1 @@
-var mnemonic = "weapon museum drop shrug awkward smooth brush stone flag oblige mix little";
+var mnemonic = "dance artefact expose next smile upset delay airport oyster genre notable share";

@@ -1,1 +1,1 @@
-var mnemonic = "race trip fork must zoo wife upon quantum dream poem north idea";
+var mnemonic = "uncover eye fiscal cigar disease giant sound peace drastic sketch candy vast";

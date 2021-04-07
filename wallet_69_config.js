@@ -1,1 +1,1 @@
-var mnemonic = "model acoustic inspire zone double select sudden onion normal monitor renew push";
+var mnemonic = "youth buzz bread salute fancy used spot across pond truck purpose upon";

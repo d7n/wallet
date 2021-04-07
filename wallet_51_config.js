@@ -1,1 +1,1 @@
-var mnemonic = "differ health deer donate weird crush business culture mistake gain believe anchor";
+var mnemonic = "cupboard coffee calm spice mammal burger shrimp shallow task write cable tortoise";

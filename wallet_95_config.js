@@ -1,1 +1,1 @@
-var mnemonic = "desk term pulse screen grocery small truly power expire smart marriage box";
+var mnemonic = "novel soda example donate horse gorilla relax fetch essay rescue logic card";

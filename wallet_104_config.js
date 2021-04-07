@@ -1,1 +1,1 @@
-var mnemonic = "crane innocent obey tattoo skin switch used daughter waste merry moment sort";
+var mnemonic = "gun ethics step sense what auction air almost drive edge inflict fury";

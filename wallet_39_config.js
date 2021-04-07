@@ -1,1 +1,1 @@
-var mnemonic = "cheese anger parrot magic enable exit danger hidden clever easily popular motion";
+var mnemonic = "dice moon salon entire slide soft crowd stereo seed document hen present";

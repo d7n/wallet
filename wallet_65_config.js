@@ -1,1 +1,1 @@
-var mnemonic = "mule stadium seminar sort gaze cup slide anxiety glue neglect awesome kidney";
+var mnemonic = "file stamp season curtain border picture olive raven come vacuum crucial tragic";

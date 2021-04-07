@@ -1,1 +1,1 @@
-var mnemonic = "pet trophy light spare bonus badge slogan august gloom father salt emerge";
+var mnemonic = "alcohol derive find infant thought belt deliver chase again fatal salad peace";

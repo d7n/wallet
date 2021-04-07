@@ -1,1 +1,1 @@
-var mnemonic = "smooth nature bunker tired logic upon deny inch iron act affair pledge";
+var mnemonic = "pause penalty gasp club problem sweet decline shallow kingdom blur borrow bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "exit blossom error try mosquito sock term escape utility harbor ankle small";
+var mnemonic = "bracket snack summer frown join clump invite remain wage pet tackle sausage";

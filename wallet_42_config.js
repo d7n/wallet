@@ -1,1 +1,1 @@
-var mnemonic = "smoke arrange patient sign outside junior cactus race filter float slot together";
+var mnemonic = "churn gospel method prize shiver human mask add emerge bring pledge reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "climb also island attitude fiction fade symbol gallery case obscure music clump";
+var mnemonic = "tenant mammal trial wreck axis announce exotic stomach cupboard fragile pony own";

@@ -1,1 +1,1 @@
-var mnemonic = "tape notable journey feature agree hill first shoe beyond kidney vocal pitch";
+var mnemonic = "payment march crazy shift denial kite liquid title fit entire word cricket";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery lunch praise alley fix tobacco name mean shine sudden express adapt";
+var mnemonic = "issue melody birth gesture leopard cage kingdom target arrow romance saddle cage";

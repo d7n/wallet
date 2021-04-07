@@ -1,1 +1,1 @@
-var mnemonic = "knee exist assume crack typical cause permit soap lottery clap open employ";
+var mnemonic = "rule plastic grace brisk scrub risk major confirm start cable gadget buffalo";

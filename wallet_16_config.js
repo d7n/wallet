@@ -1,1 +1,1 @@
-var mnemonic = "magic time pair junk way bargain front join shrimp creek wealth produce";
+var mnemonic = "dress shield boat weekend gate race couch movie high slush vanish soda";

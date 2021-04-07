@@ -1,1 +1,1 @@
-var mnemonic = "call proof unknown elder shoot vast acquire print pill foot calm equip";
+var mnemonic = "bread jeans style slice boil tube abuse quality speed matrix boy seed";

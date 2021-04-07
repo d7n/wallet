@@ -1,1 +1,1 @@
-var mnemonic = "drama kitten bean sausage exact miracle ice again obey regret test cancel";
+var mnemonic = "laptop flavor eagle width permit there bunker crazy man milk guard team";

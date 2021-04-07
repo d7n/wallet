@@ -1,1 +1,1 @@
-var mnemonic = "effort cute describe believe roast agree pilot sample sell alcohol stock access";
+var mnemonic = "dose indicate donate zero tribe mosquito candy very orchard carpet able glad";

@@ -1,1 +1,1 @@
-var mnemonic = "caught slow tone daughter home trial bus across trial maximum theme recipe";
+var mnemonic = "pattern report emerge furnace select hard connect run wait sunny scissors spray";

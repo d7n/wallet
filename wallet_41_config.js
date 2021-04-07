@@ -1,1 +1,1 @@
-var mnemonic = "squirrel empower sad estate shiver design globe novel mechanic actor inmate throw";
+var mnemonic = "dragon verb caution absent rebuild welcome pen dawn retire bind lottery robot";

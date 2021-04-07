@@ -1,1 +1,1 @@
-var mnemonic = "swarm liquid visit trade practice drift moon emerge story gather neither lobster";
+var mnemonic = "divide approve cabbage dignity jelly wheel few teach spy shoot junk drastic";

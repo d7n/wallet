@@ -1,1 +1,1 @@
-var mnemonic = "flip nut salon crater gloom wish bitter venture radar cute wheat address";
+var mnemonic = "glance change page expect fun session suggest bounce liberty mouse wood brave";

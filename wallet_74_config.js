@@ -1,1 +1,1 @@
-var mnemonic = "champion eight leader museum venue mountain glad century cheese antique motor glide";
+var mnemonic = "february mountain toddler produce absent wink finish main forum barely deputy ship";

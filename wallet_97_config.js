@@ -1,1 +1,1 @@
-var mnemonic = "badge cycle space episode two day learn clown garden zero capital quit";
+var mnemonic = "pumpkin fan major parrot ill park ridge human giraffe tackle tennis cigar";

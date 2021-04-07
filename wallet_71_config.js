@@ -1,1 +1,1 @@
-var mnemonic = "milk blood brother check sure arctic coconut coach exhibit crazy mask pistol";
+var mnemonic = "spoil vehicle frozen staff fruit glory print member lunch husband lesson tennis";

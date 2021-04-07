@@ -1,1 +1,1 @@
-var mnemonic = "excuse alpha disagree hammer weird manage prison labor day join month veteran";
+var mnemonic = "ethics rate famous fuel setup maze joke motor quiz rather blue tree";

@@ -1,1 +1,1 @@
-var mnemonic = "sample capable educate crazy situate double primary submit estate tribe extend radio";
+var mnemonic = "matrix state zone beauty coyote half vendor control fog dismiss model curve";

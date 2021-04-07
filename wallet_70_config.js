@@ -1,1 +1,1 @@
-var mnemonic = "three jacket sausage ivory size crowd cluster left leopard moral planet critic";
+var mnemonic = "absorb oxygen organ reject edge there tumble cause wrong blade entry misery";

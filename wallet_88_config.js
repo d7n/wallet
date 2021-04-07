@@ -1,1 +1,1 @@
-var mnemonic = "season tool electric cash abandon party point nose noble fatigue ensure dilemma";
+var mnemonic = "floor tackle abuse material girl size vault match pause usage truly wreck";

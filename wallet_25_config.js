@@ -1,1 +1,1 @@
-var mnemonic = "write filter process craft eternal priority cinnamon first image furnace caught merit";
+var mnemonic = "loud mirror bounce whale point divide cement goose abuse offer face summer";

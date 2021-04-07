@@ -1,1 +1,1 @@
-var mnemonic = "clinic position crawl split spot under upgrade chicken hover move mixture idle";
+var mnemonic = "syrup ostrich decline wheel afford champion glad initial music whisper top kiwi";

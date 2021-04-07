@@ -1,1 +1,1 @@
-var mnemonic = "pledge shop excite wrap margin book item ripple traffic force rebuild dirt";
+var mnemonic = "traffic strong furnace lake stairs baby worth step city misery humble loan";

@@ -1,1 +1,1 @@
-var mnemonic = "issue insane axis skill shoot secret twelve shadow merit shell tag universe";
+var mnemonic = "ripple swallow level enhance enhance tiny few climb indicate asthma catalog monkey";

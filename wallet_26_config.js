@@ -1,1 +1,1 @@
-var mnemonic = "update march wrap nominee fever sorry teach weird frequent mystery undo sudden";
+var mnemonic = "increase edge practice sniff marriage abuse plunge speak spatial author tube ridge";

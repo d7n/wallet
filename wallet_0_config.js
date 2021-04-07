@@ -1,1 +1,1 @@
-var mnemonic = "elder misery model penalty error weapon sound isolate verify ten usage sauce";
+var mnemonic = "session rich forward laundry artefact dress meadow sibling rent brother key maid";

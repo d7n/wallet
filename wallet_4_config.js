@@ -1,1 +1,1 @@
-var mnemonic = "trial shop describe final pattern future gaze parrot suggest begin learn salon";
+var mnemonic = "glare job tuna truly antenna rapid clean quality seed dwarf inject clown";

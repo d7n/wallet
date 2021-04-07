@@ -1,1 +1,1 @@
-var mnemonic = "issue word wagon brand silly suspect kitchen artist water toast stable oven";
+var mnemonic = "combine nose execute blanket sudden shallow derive cram flock panther exit biology";

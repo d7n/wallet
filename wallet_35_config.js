@@ -1,1 +1,1 @@
-var mnemonic = "unit castle crucial spoon way spatial pumpkin body envelope violin bone shock";
+var mnemonic = "fortune sand quote found market home tackle category gather beauty armed tourist";

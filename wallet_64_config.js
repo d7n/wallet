@@ -1,1 +1,1 @@
-var mnemonic = "miss hood swing truth toast polar slide exchange invite rose upon wine";
+var mnemonic = "this stamp buffalo inherit ice income crew seed silk gospel sport decline";
