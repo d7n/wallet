@@ -1,1 +1,1 @@
-var mnemonic = "either adapt puzzle buffalo dilemma need keen humble aunt verb spice voyage";
+var mnemonic = "guide donor senior auction door much lounge right punch diet silent lawn";

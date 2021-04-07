@@ -1,1 +1,1 @@
-var mnemonic = "unique connect convince perfect install hedgehog search switch method load repeat bonus";
+var mnemonic = "resemble donate brain employ ramp dial swing script sign rapid parade reject";

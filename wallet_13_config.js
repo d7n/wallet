@@ -1,1 +1,1 @@
-var mnemonic = "tower caution clean ship excess tragic symptom usual address apart friend airport";
+var mnemonic = "advance virus soft green business among space cost device together mail identify";

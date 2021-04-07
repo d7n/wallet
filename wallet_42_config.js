@@ -1,1 +1,1 @@
-var mnemonic = "trade twenty anxiety dose leaf rebel entire thought choose milk dinner true";
+var mnemonic = "hat pulse lecture good spawn salon defy plastic oxygen derive pepper used";

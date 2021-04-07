@@ -1,1 +1,1 @@
-var mnemonic = "cactus month jazz label bonus tooth crush illegal rich skill amused differ";
+var mnemonic = "invest frozen catch steak ladder often unaware together creek depth stock burger";

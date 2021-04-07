@@ -1,1 +1,1 @@
-var mnemonic = "demise puppy steak chat donor atom front domain ordinary whip envelope gloom";
+var mnemonic = "diagram misery advice fish talent memory bag garden bread recall furnace demise";

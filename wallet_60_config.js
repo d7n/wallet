@@ -1,1 +1,1 @@
-var mnemonic = "risk denial camp drama chair wash doctor velvet kidney grass stamp long";
+var mnemonic = "nothing equip donkey decade else sudden lucky movie finish vacant kite spoon";

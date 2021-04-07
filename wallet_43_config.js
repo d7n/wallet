@@ -1,1 +1,1 @@
-var mnemonic = "bomb ankle retreat wife before multiply wreck average scrub possible someone list";
+var mnemonic = "debate model physical vintage plate taste rail dune harvest bunker bind increase";

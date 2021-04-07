@@ -1,1 +1,1 @@
-var mnemonic = "skate tell aim remind ball crop mobile file change type once mother";
+var mnemonic = "skull nature mom gather young spider wild soup twenty talk onion example";

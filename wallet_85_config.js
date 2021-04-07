@@ -1,1 +1,1 @@
-var mnemonic = "nose stem pole lady maximum park art tornado special pledge office vapor";
+var mnemonic = "pride barrel coral skin mansion jewel beef chicken puppy vacuum dice retire";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow soup curtain air decrease torch acid verify labor dog gap cereal";
+var mnemonic = "primary draw laptop brain almost cluster dog option crisp ordinary wood banana";

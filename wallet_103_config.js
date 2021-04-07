@@ -1,1 +1,1 @@
-var mnemonic = "track glass embrace main expand butter brisk high rose swarm garment flower";
+var mnemonic = "picnic voice reduce canal arena space age reform chase speak sample hen";

@@ -1,1 +1,1 @@
-var mnemonic = "thank wash tool quote knock maid burst jaguar bunker dumb coffee deal";
+var mnemonic = "grief improve drop morning doll member pear grape enrich enact cave mix";

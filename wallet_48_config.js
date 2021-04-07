@@ -1,1 +1,1 @@
-var mnemonic = "cliff canvas pulp blue hungry rack mail love pattern glove news tank";
+var mnemonic = "alpha pair arctic output alcohol color cat rubber leisure mail mesh oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "sun trap clutch march dune crime sniff jaguar pumpkin pilot question pass";
+var mnemonic = "devote square salute divorce virtual cluster absurd violin suffer resource pass sunset";

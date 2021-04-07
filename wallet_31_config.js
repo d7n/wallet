@@ -1,1 +1,1 @@
-var mnemonic = "frame junior sight sick crystal crop unhappy run math fall proud tired";
+var mnemonic = "ladder base crucial bind option vivid pact unhappy harbor fringe museum boss";

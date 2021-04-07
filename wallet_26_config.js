@@ -1,1 +1,1 @@
-var mnemonic = "gesture onion cook sail enforce sketch pear march knee this remove cook";
+var mnemonic = "select clump image country rate joy quarter phrase river paddle bounce absent";

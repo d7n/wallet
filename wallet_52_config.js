@@ -1,1 +1,1 @@
-var mnemonic = "orchard expire virtual year sniff hockey system become phrase visit bounce south";
+var mnemonic = "twelve cabbage tomato seat betray argue civil sustain feature pistol produce number";

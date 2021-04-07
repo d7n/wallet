@@ -1,1 +1,1 @@
-var mnemonic = "control pact thank situate machine unknown civil degree select viable choose detail";
+var mnemonic = "brand hood unaware erase heart image history inject afford name coral review";

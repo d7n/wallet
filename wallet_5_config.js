@@ -1,1 +1,1 @@
-var mnemonic = "blood century steak regret pave brother music equip find shop robust ocean";
+var mnemonic = "model rich universe push embrace avocado wide retreat undo marriage walnut diet";

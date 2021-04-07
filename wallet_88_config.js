@@ -1,1 +1,1 @@
-var mnemonic = "title grid outer bench permit great muffin midnight desert kitchen mirror grunt";
+var mnemonic = "before floor letter post duck disagree merge neither orient pledge mesh limit";

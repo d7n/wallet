@@ -1,1 +1,1 @@
-var mnemonic = "honey mouse obscure tape improve kite control unlock tail step snow divorce";
+var mnemonic = "ordinary fix sword physical demise black orchard seat awful they tooth network";

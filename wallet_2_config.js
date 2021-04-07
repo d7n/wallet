@@ -1,1 +1,1 @@
-var mnemonic = "board athlete arm emotion group raise oven dance simple cave echo east";
+var mnemonic = "idea network olive rapid menu angry always alter bleak intact method devote";

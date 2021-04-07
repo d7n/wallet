@@ -1,1 +1,1 @@
-var mnemonic = "fly buddy emerge grab they cheese alter calm toilet ketchup run bone";
+var mnemonic = "sword reunion marriage immune stable climb teach you fossil camp electric whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "corn drum pig laptop furnace fruit search wonder cream filter invest rule";
+var mnemonic = "style snake inhale absent destroy keep floor trial session hand motor rescue";

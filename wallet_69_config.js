@@ -1,1 +1,1 @@
-var mnemonic = "mule hundred obvious idea image remain define small chicken setup cradle celery";
+var mnemonic = "crash table inform mixture clarify road there because humble glance quote clarify";

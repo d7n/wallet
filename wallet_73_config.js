@@ -1,1 +1,1 @@
-var mnemonic = "panda gloom salt winner fork voice quit huge copper observe execute dizzy";
+var mnemonic = "affair close subway burger slide spray state drink spoon name choice liberty";

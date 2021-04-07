@@ -1,1 +1,1 @@
-var mnemonic = "ancient gather card nose update major invest lamp cube length snack exotic";
+var mnemonic = "total stomach empower because please hedgehog travel ten swamp bronze voyage sustain";

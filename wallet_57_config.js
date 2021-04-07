@@ -1,1 +1,1 @@
-var mnemonic = "engage kite lottery toast deny genius giggle toy major harvest obscure guard";
+var mnemonic = "mango sand come short distance promote survey bleak source drop protect style";

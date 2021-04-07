@@ -1,1 +1,1 @@
-var mnemonic = "initial bike bleak custom leopard loan solve give extra casual section sign";
+var mnemonic = "shock ankle sad camera category rhythm ginger top else tiny dog change";

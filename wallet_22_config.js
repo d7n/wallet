@@ -1,1 +1,1 @@
-var mnemonic = "left jealous thrive predict fly occur embrace girl island square make deliver";
+var mnemonic = "future earth reason pigeon diesel where lock shy need orange device lemon";

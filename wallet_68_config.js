@@ -1,1 +1,1 @@
-var mnemonic = "session chuckle frozen obey nice exile scissors armor flavor fury lizard debate";
+var mnemonic = "deputy knife foil cake impose melt protect filter fog never people bachelor";

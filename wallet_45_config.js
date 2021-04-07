@@ -1,1 +1,1 @@
-var mnemonic = "below peasant deer slice deposit whale write mystery olympic obscure raw galaxy";
+var mnemonic = "myth essence action perfect wagon helmet issue miss visa tunnel cry leisure";

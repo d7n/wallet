@@ -1,1 +1,1 @@
-var mnemonic = "group follow make duty inherit diet mechanic claw walk page art chest";
+var mnemonic = "volume mule screen ethics crazy bleak quote wrist multiply cup deny dinner";

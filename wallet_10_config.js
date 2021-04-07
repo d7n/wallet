@@ -1,1 +1,1 @@
-var mnemonic = "lab task tail food maximum cushion essence consider outside scare analyst organ";
+var mnemonic = "try love already hurry choice tank mystery trend stomach trial season day";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter spread estate wine notable tuition kingdom fatal cotton verb wisdom city";
+var mnemonic = "situate soda index wide general jaguar case trial viable scissors fix accuse";

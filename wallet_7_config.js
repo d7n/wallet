@@ -1,1 +1,1 @@
-var mnemonic = "village pond gloom skate control stamp raise fresh lecture resemble kite spider";
+var mnemonic = "arrest supply peasant ocean wedding welcome ensure aware stage possible broom onion";

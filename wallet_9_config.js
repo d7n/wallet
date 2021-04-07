@@ -1,1 +1,1 @@
-var mnemonic = "rack narrow minimum present fence shoulder pretty answer toward enable erosion slam";
+var mnemonic = "artwork much teach photo permit beef budget diesel truck veteran vanish damp";

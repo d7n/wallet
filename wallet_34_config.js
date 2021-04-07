@@ -1,1 +1,1 @@
-var mnemonic = "kite way steak draft situate abstract speak repair try discover blush awful";
+var mnemonic = "choose mixture gadget antique sausage ahead thunder ranch gate better hurt gloom";

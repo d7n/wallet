@@ -1,1 +1,1 @@
-var mnemonic = "utility equip cactus mandate crazy manage snack possible exit stem poverty feed";
+var mnemonic = "bright civil sniff holiday ginger scorpion bar hotel supply start normal shoulder";

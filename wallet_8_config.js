@@ -1,1 +1,1 @@
-var mnemonic = "bargain drip space physical bullet alley air pumpkin voice since thumb teach";
+var mnemonic = "couple syrup butter strong weird pig flip belt grocery awkward leg jewel";

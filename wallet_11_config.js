@@ -1,1 +1,1 @@
-var mnemonic = "term win elder ghost pen stove speed atom burger radio economy duty";
+var mnemonic = "domain all skate lyrics city defense near leader hurt rubber country math";

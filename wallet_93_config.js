@@ -1,1 +1,1 @@
-var mnemonic = "veteran frame arm cigar merge sleep spoon tragic split blush pull shrug";
+var mnemonic = "involve yard stumble already undo kind media mandate resist destroy regret life";

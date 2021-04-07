@@ -1,1 +1,1 @@
-var mnemonic = "remind occur meadow matrix long unit purpose match open maze medal list";
+var mnemonic = "myth protect level yard biology cable table spread ride odor save fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic solid spoon rough rug wreck regret engine identify lady shell helmet";
+var mnemonic = "trick reform exercise broccoli permit outside then smile surface industry match believe";

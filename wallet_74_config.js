@@ -1,1 +1,1 @@
-var mnemonic = "rather pull equal wink tuna model parrot jaguar scout urban deposit diary";
+var mnemonic = "key shove slight tiny recipe saddle zero hint crystal envelope cruise awake";

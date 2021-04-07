@@ -1,1 +1,1 @@
-var mnemonic = "cabin banner logic beef seat group year frog eagle deliver park gun";
+var mnemonic = "atom treat maximum inflict index target cotton busy scorpion sun general collect";

@@ -1,1 +1,1 @@
-var mnemonic = "brass wheel happy danger erase recycle pioneer subject detail title output afford";
+var mnemonic = "sign blast drill sick hub october few farm whip pelican bullet rapid";

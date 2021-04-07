@@ -1,1 +1,1 @@
-var mnemonic = "frown caution possible useful join metal patient despair chunk stuff exhaust slight";
+var mnemonic = "phrase junk already obey ask virus review name want save second cancel";

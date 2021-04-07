@@ -1,1 +1,1 @@
-var mnemonic = "home fog cage divert work drastic bamboo office dice easily fall aware";
+var mnemonic = "hundred forward corn nurse spoil obtain aunt media banana pizza banner raise";

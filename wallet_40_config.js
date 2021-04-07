@@ -1,1 +1,1 @@
-var mnemonic = "accident cash surface shadow put salute pool home shuffle margin live fence";
+var mnemonic = "various celery cost glass odor roof gown weekend stable unit dream peasant";

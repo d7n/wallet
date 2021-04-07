@@ -1,1 +1,1 @@
-var mnemonic = "air pond this innocent become rookie acoustic erode seed wrong cause intact";
+var mnemonic = "age polar glad enter next vivid robot force must olympic stuff apology";

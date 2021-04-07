@@ -1,1 +1,1 @@
-var mnemonic = "police choose crew prosper meadow deposit force prosper property work number into";
+var mnemonic = "almost toss arrest hospital gym beyond sad nephew rent team canyon crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "elder happy company web list over vocal exact witness room emerge whale";
+var mnemonic = "cousin pear outside blue phone snack goose noble love unfair crazy add";

@@ -1,1 +1,1 @@
-var mnemonic = "advance stool project cable jazz tape adapt smile clerk hope evolve concert";
+var mnemonic = "two hood feed fee until library garlic organ pupil orchard very strategy";

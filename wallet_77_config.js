@@ -1,1 +1,1 @@
-var mnemonic = "issue exclude flush render stage nothing language owner wife caution recall ribbon";
+var mnemonic = "impulse swap identify since gown myth decade hotel venue source identify nurse";

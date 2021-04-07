@@ -1,1 +1,1 @@
-var mnemonic = "twenty inherit subway chair trigger kind hazard regret buyer help control stool";
+var mnemonic = "horse crisp gentle chest piece corn enable solid voyage head jaguar panel";

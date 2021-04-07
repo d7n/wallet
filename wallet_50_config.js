@@ -1,1 +1,1 @@
-var mnemonic = "quarter breeze neck fat immune merit paddle fashion shoot matrix leg project";
+var mnemonic = "bright chunk wheat exercise better vibrant exercise jelly town whip color flip";

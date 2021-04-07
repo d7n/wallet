@@ -1,1 +1,1 @@
-var mnemonic = "dance express guide crater little fiber buffalo chunk month sister above original";
+var mnemonic = "retire damage marriage busy grace balcony great aunt olive dutch dismiss wide";

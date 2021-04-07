@@ -1,1 +1,1 @@
-var mnemonic = "agree train process before rich ivory foot crawl casino furnace salon trip";
+var mnemonic = "swing subway dignity ocean smile hamster torch interest drastic van cluster spring";

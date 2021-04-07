@@ -1,1 +1,1 @@
-var mnemonic = "danger gold nurse cotton into conduct oak lumber badge theme mixed sausage";
+var mnemonic = "sample brief message olive umbrella picnic beef clarify rare feed pencil craft";

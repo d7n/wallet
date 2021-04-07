@@ -1,1 +1,1 @@
-var mnemonic = "allow garlic cherry senior jungle gap split injury axis dust charge promote";
+var mnemonic = "frozen beauty merge shuffle mammal hood fabric urban brush cradle rhythm noble";

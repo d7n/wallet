@@ -1,1 +1,1 @@
-var mnemonic = "beach girl wink layer state filter live wheel universe habit scale depth";
+var mnemonic = "monkey horn click tribe fiber stadium spike enact time melody mystery capital";

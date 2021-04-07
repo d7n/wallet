@@ -1,1 +1,1 @@
-var mnemonic = "update indoor elegant cinnamon large axis reduce nerve idea noodle injury yard";
+var mnemonic = "travel need mimic flip fire type casual frequent goddess shield tumble goat";

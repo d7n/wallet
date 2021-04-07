@@ -1,1 +1,1 @@
-var mnemonic = "original outside common core license flight canoe ritual caution creek happy scan";
+var mnemonic = "viable flee rail invest wait enter case bunker defy cute runway minor";

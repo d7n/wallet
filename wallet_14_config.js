@@ -1,1 +1,1 @@
-var mnemonic = "wage roof tragic kite occur child false jacket insane expect this list";
+var mnemonic = "hazard help goat crucial cactus brass century visit learn suspect clip vanish";

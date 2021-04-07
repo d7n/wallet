@@ -1,1 +1,1 @@
-var mnemonic = "script pride cousin room spike satisfy circle upgrade people mention cabbage code";
+var mnemonic = "venue lab comfort february tag clap tip gift find congress erosion catalog";

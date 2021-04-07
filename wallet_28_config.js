@@ -1,1 +1,1 @@
-var mnemonic = "cart bench dance situate army near radio chimney art subway step push";
+var mnemonic = "neither purity option travel van habit drip round promote mix act label";

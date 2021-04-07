@@ -1,1 +1,1 @@
-var mnemonic = "young oblige fan gap canvas local photo wish race swallow music mother";
+var mnemonic = "once fancy keen fence execute cross distance wear prison core busy okay";

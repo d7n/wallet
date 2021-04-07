@@ -1,1 +1,1 @@
-var mnemonic = "zone border fence clip diary romance umbrella edge nephew page result salute";
+var mnemonic = "traffic equal sugar aspect fiscal lend spray whale hood pull economy unfold";

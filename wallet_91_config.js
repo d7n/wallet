@@ -1,1 +1,1 @@
-var mnemonic = "moon cluster foot surface valid scatter together dog dune real voyage trigger";
+var mnemonic = "series gasp clean rally alter extra confirm nose swear sudden about cigar";

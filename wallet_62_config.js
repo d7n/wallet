@@ -1,1 +1,1 @@
-var mnemonic = "dentist real table curious walk trophy afford sniff vault sister sort just";
+var mnemonic = "issue gauge parade hollow breeze useless fly frost next hole canal wheel";

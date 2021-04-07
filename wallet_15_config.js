@@ -1,1 +1,1 @@
-var mnemonic = "camera wheat shrimp treat come face width economy shadow artwork example sadness";
+var mnemonic = "ensure attend custom judge swarm egg write festival aware shoe minute giraffe";

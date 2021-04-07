@@ -1,1 +1,1 @@
-var mnemonic = "scan peace parent grocery hockey bundle prefer unveil often memory lecture metal";
+var mnemonic = "trash blame dust local federal pumpkin slight argue rib camp craft waste";

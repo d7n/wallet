@@ -1,1 +1,1 @@
-var mnemonic = "green input baby sadness meat base assist saddle sock infant round injury";
+var mnemonic = "cross notable fruit very polar virtual nut chunk gentle bomb text dune";

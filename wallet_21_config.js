@@ -1,1 +1,1 @@
-var mnemonic = "endorse bring tobacco clump knock reduce flock forum vendor stumble erosion tag";
+var mnemonic = "agree ankle caught gift phone switch youth soldier identify awesome cat deliver";

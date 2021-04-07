@@ -1,1 +1,1 @@
-var mnemonic = "math round grief student scrub tomorrow moon animal talent behave stuff order";
+var mnemonic = "image morning gown first other cube pledge imitate obscure around range umbrella";

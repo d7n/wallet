@@ -1,1 +1,1 @@
-var mnemonic = "lady gym toddler birth govern monster region cushion genius weird panther damage";
+var mnemonic = "link blouse notice guitar denial cruel betray twist name village arm conduct";

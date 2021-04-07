@@ -1,1 +1,1 @@
-var mnemonic = "glad dwarf empower party fame name tower violin drill inspire museum wheat";
+var mnemonic = "world phrase exchange brass example spider rocket rather consider broccoli slam dilemma";

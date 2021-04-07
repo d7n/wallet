@@ -1,1 +1,1 @@
-var mnemonic = "garage humble this close increase diamond wonder begin miss conduct donor stick";
+var mnemonic = "misery lion oyster danger arrest embody ivory dial solar super coral author";

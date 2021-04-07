@@ -1,1 +1,1 @@
-var mnemonic = "soda laugh funny valley wife cinnamon text enlist wear image cereal oppose";
+var mnemonic = "inside tower upon seven wagon narrow ticket science fix kite network gain";

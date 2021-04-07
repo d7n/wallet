@@ -1,1 +1,1 @@
-var mnemonic = "online rabbit script area run offer ocean pioneer slab planet change humor";
+var mnemonic = "merge demise shield leg book abandon direct adult baby blossom entire venue";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn play immense oak flash tiny glass loop road tomato illegal man";
+var mnemonic = "ticket nominee dad flag ceiling warfare survey cheap wisdom credit hurdle relief";

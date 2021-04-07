@@ -1,1 +1,1 @@
-var mnemonic = "double mouse worry old real torch twist brother soap uncover daring extra";
+var mnemonic = "script jungle ketchup party cereal style blouse rabbit phrase guide crazy alien";

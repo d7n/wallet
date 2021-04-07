@@ -1,1 +1,1 @@
-var mnemonic = "slush autumn auction nature decrease orbit wire fiction banana upgrade soup liar";
+var mnemonic = "weekend swim trick team whip illegal gorilla soul present apple angry leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "cruel flush age window snow license desert special found tunnel grunt setup";
+var mnemonic = "sleep few genuine junk layer cup purity youth sick avoid hobby poet";

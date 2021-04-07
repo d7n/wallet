@@ -1,1 +1,1 @@
-var mnemonic = "bachelor ball hole half cousin ethics enter trade potato effort emotion plug";
+var mnemonic = "moon clarify exhibit example decorate clarify catch culture grow label method kitten";
