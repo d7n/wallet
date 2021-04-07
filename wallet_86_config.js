@@ -1,1 +1,1 @@
-var mnemonic = "ice airport room message whisper latin accuse orphan multiply pipe sketch bright";
+var mnemonic = "congress jelly crumble near success gravity practice answer mobile flip lemon catalog";

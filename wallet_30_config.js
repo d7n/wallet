@@ -1,1 +1,1 @@
-var mnemonic = "hire mixed narrow desk plastic lion judge hire chief earth process enlist";
+var mnemonic = "warrior trial mistake silly acid electric buzz spawn panther shoulder next trial";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty omit feed miss power stadium gaze cream mule spread invite twelve";
+var mnemonic = "once hour hair liar before express fork omit awkward space army sing";

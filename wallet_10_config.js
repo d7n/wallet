@@ -1,1 +1,1 @@
-var mnemonic = "bubble excite ostrich boost rare warm hundred barely license run mimic strong";
+var mnemonic = "wait sniff invite angry interest cinnamon charge patch isolate trip turn must";

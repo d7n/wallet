@@ -1,1 +1,1 @@
-var mnemonic = "glide collect art rapid segment night network collect bonus oblige road winter";
+var mnemonic = "divide text occur reflect build mansion album senior satisfy wire pioneer cover";

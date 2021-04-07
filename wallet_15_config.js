@@ -1,1 +1,1 @@
-var mnemonic = "cotton feature screen dose rude easily hammer carpet permit mosquito bundle beyond";
+var mnemonic = "cupboard promote happy accuse include rude wonder ecology drip pledge veteran exist";

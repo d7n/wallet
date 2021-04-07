@@ -1,1 +1,1 @@
-var mnemonic = "merge stomach canvas trap vessel mom hat reform olympic shine click tumble";
+var mnemonic = "radar gentle vanish unaware smoke please coast flag involve leg pool planet";

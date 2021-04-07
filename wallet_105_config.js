@@ -1,1 +1,1 @@
-var mnemonic = "worth space film zoo cotton edge hobby various arctic slogan add bind";
+var mnemonic = "own strategy achieve pool clog dance door naive endless affair busy bring";

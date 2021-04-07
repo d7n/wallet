@@ -1,1 +1,1 @@
-var mnemonic = "daring head lamp melt barely later skin olympic west sustain devote biology";
+var mnemonic = "resist huge observe stay unique divert voice cancel wave again near delay";

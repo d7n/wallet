@@ -1,1 +1,1 @@
-var mnemonic = "nuclear catalog tornado farm sign thank narrow sheriff series list best near";
+var mnemonic = "critic net leisure extra dinosaur intact excuse someone recycle limit mammal eyebrow";

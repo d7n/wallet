@@ -1,1 +1,1 @@
-var mnemonic = "unveil august license seat old grant risk insect make sun express march";
+var mnemonic = "polar home gather gap umbrella range pull cruise december fine into height";

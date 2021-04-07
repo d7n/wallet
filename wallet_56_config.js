@@ -1,1 +1,1 @@
-var mnemonic = "recipe obvious wine wrong federal convince review leopard ritual multiply busy latin";
+var mnemonic = "fat hundred ask yellow gown cigar address hat pretty bacon jealous heavy";

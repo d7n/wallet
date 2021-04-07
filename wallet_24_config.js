@@ -1,1 +1,1 @@
-var mnemonic = "wide lazy suggest atom proud marble dress decide layer coil elite monster";
+var mnemonic = "settle assist supply pair snack quick maple hamster logic bacon muffin moral";

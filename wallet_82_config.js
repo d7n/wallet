@@ -1,1 +1,1 @@
-var mnemonic = "because dry rule sell object phrase crop car outer report drum produce";
+var mnemonic = "hat goose drum eye speak ranch damage spray lyrics warm anxiety fabric";

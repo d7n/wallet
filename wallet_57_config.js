@@ -1,1 +1,1 @@
-var mnemonic = "merit emerge novel frog retreat slogan onion luxury erase away portion gospel";
+var mnemonic = "oppose flip road alter focus robot green dynamic shrug kangaroo attend resist";

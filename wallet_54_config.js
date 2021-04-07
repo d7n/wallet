@@ -1,1 +1,1 @@
-var mnemonic = "model faculty crater dune oil asthma fog track gap pattern fine guilt";
+var mnemonic = "fork symbol drum coffee biology just phone lecture pluck power female dance";

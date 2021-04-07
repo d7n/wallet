@@ -1,1 +1,1 @@
-var mnemonic = "wish truly pass able speed then cabin sail dinner hawk pistol peace";
+var mnemonic = "repeat differ gate primary year roast blame wink drift happy reject liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "detail erosion fox frequent recall radio penalty ahead accuse deliver fetch joy";
+var mnemonic = "helmet attract vast vessel weapon onion that gate wing welcome loyal sister";

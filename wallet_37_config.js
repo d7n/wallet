@@ -1,1 +1,1 @@
-var mnemonic = "spawn metal spin brown donate hammer will exact reflect seven practice betray";
+var mnemonic = "discover just describe glare code echo organ relax athlete reopen hill knife";

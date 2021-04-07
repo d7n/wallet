@@ -1,1 +1,1 @@
-var mnemonic = "dove fetch walnut neutral detail exhaust talk mirror faith enable pistol museum";
+var mnemonic = "spawn noise olive assume sudden close similar empty enroll blush lucky oblige";

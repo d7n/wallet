@@ -1,1 +1,1 @@
-var mnemonic = "snack bring gate menu remain era loud decide use multiply party poem";
+var mnemonic = "settle fault cake wedding glass meat oil dish practice thunder improve kind";

@@ -1,1 +1,1 @@
-var mnemonic = "snake figure escape pioneer seek artefact success bounce silly fall unlock steak";
+var mnemonic = "middle risk glide cry obtain rough fly body miss submit hard lady";

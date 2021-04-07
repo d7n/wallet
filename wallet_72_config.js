@@ -1,1 +1,1 @@
-var mnemonic = "tortoise online capable accuse maid volcano possible stone castle want ripple below";
+var mnemonic = "income shove fitness dance video soccer trigger actress saddle avocado update leg";

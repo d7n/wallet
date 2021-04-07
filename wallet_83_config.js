@@ -1,1 +1,1 @@
-var mnemonic = "extra toast trend success novel motor ridge worth icon space company either";
+var mnemonic = "six engine voyage minimum ill clock item carpet strike model please rubber";

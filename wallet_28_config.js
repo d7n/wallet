@@ -1,1 +1,1 @@
-var mnemonic = "wet disagree upper cart awkward leisure vendor pencil winner side assume cable";
+var mnemonic = "salute zebra nose resist health crouch whip wheat power violin focus tunnel";

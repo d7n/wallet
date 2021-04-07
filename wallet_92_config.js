@@ -1,1 +1,1 @@
-var mnemonic = "pencil flash love myth wheat asset grace avocado snow bronze nature name";
+var mnemonic = "tape obvious melt icon document corn arctic virus phone swift course neutral";

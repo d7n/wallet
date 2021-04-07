@@ -1,1 +1,1 @@
-var mnemonic = "catalog carpet enroll club hockey vault clay segment income arm trust provide";
+var mnemonic = "slogan service finger sword series wealth brain slice tooth force message soft";

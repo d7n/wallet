@@ -1,1 +1,1 @@
-var mnemonic = "boss enroll turn coast prize embody bunker novel protect forum glory imitate";
+var mnemonic = "misery govern rent wide thrive coach mixture scout easy bargain caution satisfy";

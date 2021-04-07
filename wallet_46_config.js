@@ -1,1 +1,1 @@
-var mnemonic = "carpet gasp awkward approve swing zoo female enhance soul review flush control";
+var mnemonic = "secret possible dream orient image squeeze govern roast gift vintage food shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "extend divert tongue romance over evolve mind turkey evoke decorate wish muscle";
+var mnemonic = "wet armor swallow crucial among super diary degree pudding service original help";

@@ -1,1 +1,1 @@
-var mnemonic = "appear city nest error stay boat arrest rich neutral purse unfold below";
+var mnemonic = "whale next offer dad series brief intact tone crew gravity hunt mango";

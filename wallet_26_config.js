@@ -1,1 +1,1 @@
-var mnemonic = "quick cupboard liar palace lock matter bundle owner couch side image turtle";
+var mnemonic = "measure fabric issue twin cave adapt script skill immense liberty below hill";

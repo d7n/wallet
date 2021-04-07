@@ -1,1 +1,1 @@
-var mnemonic = "slush coyote potato worth flower bright surge voyage deliver ten occur occur";
+var mnemonic = "moral hotel gentle board hover wear silent door west amateur seek grief";

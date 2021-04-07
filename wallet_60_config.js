@@ -1,1 +1,1 @@
-var mnemonic = "metal sight state noise front spell suspect case boy lens attend hamster";
+var mnemonic = "category marriage service artist symptom trumpet proof loyal sentence chimney eternal gate";

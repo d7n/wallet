@@ -1,1 +1,1 @@
-var mnemonic = "dog inside chimney cinnamon uniform shoe soldier fee strike infant toward tilt";
+var mnemonic = "scare salmon kiwi planet snake noble often chuckle half coral focus sheriff";

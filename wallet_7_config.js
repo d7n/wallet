@@ -1,1 +1,1 @@
-var mnemonic = "autumn myself truth direct rug thing island notice tomato copy special legend";
+var mnemonic = "file rural gadget tired kangaroo desert modify naive expire autumn expose lion";

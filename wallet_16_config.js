@@ -1,1 +1,1 @@
-var mnemonic = "own mass metal inherit valid use mail clay art slab grocery dove";
+var mnemonic = "tower require normal eager amount choose innocent canyon tent raw thank course";

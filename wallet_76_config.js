@@ -1,1 +1,1 @@
-var mnemonic = "subway token oppose patrol flock lava prefer nature sail thank fringe consider";
+var mnemonic = "transfer gloom bike chat flavor aisle wife element duty drip table dinosaur";

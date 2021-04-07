@@ -1,1 +1,1 @@
-var mnemonic = "shiver major ridge average pioneer answer zone device hint celery engine buyer";
+var mnemonic = "basket image wisdom demise wrestle acid dry envelope bench gaze poverty alien";

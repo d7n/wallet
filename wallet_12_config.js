@@ -1,1 +1,1 @@
-var mnemonic = "leave hawk armor uphold script issue vendor arm about nut hip icon";
+var mnemonic = "fly reason adult case butter remain idle filter inmate soon defy great";

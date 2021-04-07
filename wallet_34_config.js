@@ -1,1 +1,1 @@
-var mnemonic = "audit mixed depend fragile celery aerobic soup sleep provide cry lesson stage";
+var mnemonic = "decide dutch tribe lend reveal alert tuition kid super dance term surprise";

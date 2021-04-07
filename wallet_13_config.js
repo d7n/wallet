@@ -1,1 +1,1 @@
-var mnemonic = "someone logic birth athlete lady easily stereo company ridge oven retire spot";
+var mnemonic = "host toy debate charge account wheat fabric patrol normal tragic laptop absurd";

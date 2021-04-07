@@ -1,1 +1,1 @@
-var mnemonic = "awesome ugly cruel ski life shove tooth despair disagree just valve brief";
+var mnemonic = "father length front hockey repeat swallow wheel bright science mixed shaft note";

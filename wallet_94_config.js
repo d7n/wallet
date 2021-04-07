@@ -1,1 +1,1 @@
-var mnemonic = "carpet act climb mistake search gather super resemble adapt garlic valid name";
+var mnemonic = "helmet steel betray rule middle drama derive canal endorse wage switch achieve";

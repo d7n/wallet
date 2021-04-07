@@ -1,1 +1,1 @@
-var mnemonic = "action timber blind practice uncle review dismiss toe crumble medal neck effort";
+var mnemonic = "ritual resemble shiver amateur visit athlete claim wide fantasy side daring few";

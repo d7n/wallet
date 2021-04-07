@@ -1,1 +1,1 @@
-var mnemonic = "belt spike gold shadow bless sand focus sheriff muffin action cliff oval";
+var mnemonic = "planet grocery behind sense rotate magnet install shine family category begin scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "wing table vanish fix apple couch rocket interest dragon exact copper neglect";
+var mnemonic = "inflict aware lesson people hospital divide oxygen citizen crane dragon summer guilt";

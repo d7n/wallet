@@ -1,1 +1,1 @@
-var mnemonic = "chapter fame sugar author give popular gas firm talent galaxy lonely school";
+var mnemonic = "venture month sphere anchor transfer title cannon wash poet drip maple struggle";

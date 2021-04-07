@@ -1,1 +1,1 @@
-var mnemonic = "debate awake test digital note beauty nice economy stomach vanish tonight caught";
+var mnemonic = "nation laundry dove bottom various umbrella sleep forget author atom infant broken";

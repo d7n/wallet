@@ -1,1 +1,1 @@
-var mnemonic = "upset cream sugar father head unit sell horn region virtual ripple there";
+var mnemonic = "audit coyote just shallow action replace galaxy identify forget hill equip verify";

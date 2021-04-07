@@ -1,1 +1,1 @@
-var mnemonic = "olympic payment never cave author doctor abstract refuse cousin era tomato raise";
+var mnemonic = "boy connect window satoshi album theory shoe naive public rude draft unaware";

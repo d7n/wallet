@@ -1,1 +1,1 @@
-var mnemonic = "series head tank swift decide unable guide hand praise master betray ski";
+var mnemonic = "blossom hospital push napkin beyond reduce frame index ball fatal maze news";

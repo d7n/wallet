@@ -1,1 +1,1 @@
-var mnemonic = "spend bottom juice patient motion salmon chunk dry spin fluid silent riot";
+var mnemonic = "embrace island evidence exact rescue remember dolphin mask guard exchange soon such";

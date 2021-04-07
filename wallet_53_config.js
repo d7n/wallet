@@ -1,1 +1,1 @@
-var mnemonic = "flame mountain raise crunch spice keen document caught parade error gasp vacant";
+var mnemonic = "flower oblige ordinary jaguar blind arctic absent police sphere lecture own near";

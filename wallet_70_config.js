@@ -1,1 +1,1 @@
-var mnemonic = "sorry hospital sibling dial yard keen jump huge nuclear notable icon disagree";
+var mnemonic = "blind crack skull dose hope square maple humor faculty drip night crowd";

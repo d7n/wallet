@@ -1,1 +1,1 @@
-var mnemonic = "ride example enough attend swap depend shift coyote crumble hour tongue term";
+var mnemonic = "glow pizza hidden stem labor enroll jaguar bulb harbor gravity better session";

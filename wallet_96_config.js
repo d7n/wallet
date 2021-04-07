@@ -1,1 +1,1 @@
-var mnemonic = "hen salute tennis liar merry distance grab city guess coil text fresh";
+var mnemonic = "brass laugh jealous legal parrot option kiwi eternal among height timber moral";

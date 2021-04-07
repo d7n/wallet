@@ -1,1 +1,1 @@
-var mnemonic = "bottom replace swarm pet excuse odor thing simple pass embrace spoon waste";
+var mnemonic = "confirm face pistol fortune slice dream marble ride bullet fold usual blush";

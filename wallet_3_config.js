@@ -1,1 +1,1 @@
-var mnemonic = "valley crowd dolphin fitness clerk pupil raven initial turn army cradle sick";
+var mnemonic = "save pistol proof blue hill pact profit easily buyer oppose first broken";

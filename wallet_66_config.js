@@ -1,1 +1,1 @@
-var mnemonic = "syrup render casual forest fan volcano benefit bounce coach cross ugly diagram";
+var mnemonic = "album planet resource second quit piano cinnamon tennis situate void omit source";

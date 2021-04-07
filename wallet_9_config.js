@@ -1,1 +1,1 @@
-var mnemonic = "buffalo evidence raise blur raven two butter escape one shiver rather impulse";
+var mnemonic = "choice captain cruise lucky surface knee police cake pattern friend busy dilemma";

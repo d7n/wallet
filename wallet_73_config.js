@@ -1,1 +1,1 @@
-var mnemonic = "quick hundred disorder sister list awful siren human whip muffin friend debris";
+var mnemonic = "gain impact west rough evolve throw parrot rule hunt rule enrich marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "final verify wheat allow umbrella muffin category reopen burden hunt target arrive";
+var mnemonic = "talk close face soul diary fence clock brick economy spot spider stomach";

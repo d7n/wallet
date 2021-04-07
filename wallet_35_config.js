@@ -1,1 +1,1 @@
-var mnemonic = "track brick onion edge tree flavor throw crash apart auto key record";
+var mnemonic = "sell eyebrow agent excite skirt skate wedding toss ladder genius picture student";

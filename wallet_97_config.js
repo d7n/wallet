@@ -1,1 +1,1 @@
-var mnemonic = "pyramid sense grape wasp amount prefer peanut early series hood evolve feel";
+var mnemonic = "hobby slogan blue fun silent credit reunion middle rude gold proud clog";

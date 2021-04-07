@@ -1,1 +1,1 @@
-var mnemonic = "donor lounge degree valley dance section leader hurry begin bundle defy vote";
+var mnemonic = "corn embody west speed dream exhibit bid tip endorse siren drink loop";

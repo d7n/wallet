@@ -1,1 +1,1 @@
-var mnemonic = "deputy lumber divorce dust example boost suffer since usage man adapt suspect";
+var mnemonic = "else misery sense spray bridge peasant misery angry march update educate inherit";

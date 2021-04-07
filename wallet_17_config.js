@@ -1,1 +1,1 @@
-var mnemonic = "settle fit candy glad system image lesson enable poet wrestle entire fatal";
+var mnemonic = "question sting problem fashion scissors menu custom settle purse debate bomb february";

@@ -1,1 +1,1 @@
-var mnemonic = "priority smoke choice broom rail spread measure cliff talk aware cigar thank";
+var mnemonic = "excuse vivid fat talk label great stove engine estate crater battle flush";

@@ -1,1 +1,1 @@
-var mnemonic = "still grant online glue man unfold dirt rhythm park balcony mobile swim";
+var mnemonic = "alpha dice despair noble ocean text winner renew depend sun relax lawsuit";

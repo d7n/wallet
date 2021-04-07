@@ -1,1 +1,1 @@
-var mnemonic = "dust appear level quote whip boring neck inner ladder night lunar face";
+var mnemonic = "huge barrel dirt dolphin force shock category someone celery actress neglect blame";

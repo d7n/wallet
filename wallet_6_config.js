@@ -1,1 +1,1 @@
-var mnemonic = "era kind rookie across ready reason unable elite cigar weapon home age";
+var mnemonic = "key sheriff dynamic lazy credit sad answer wave fury gym cable senior";

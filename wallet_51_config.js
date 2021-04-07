@@ -1,1 +1,1 @@
-var mnemonic = "sausage ask legend make blue bread degree baby august health glue strategy";
+var mnemonic = "bachelor enemy fit leg shoot airport relax slab clinic bonus select chimney";

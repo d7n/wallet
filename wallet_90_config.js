@@ -1,1 +1,1 @@
-var mnemonic = "fiction state twin mouse glare corn potato swear seek need glide boost";
+var mnemonic = "surround pony hidden inquiry can bronze test dizzy steak express rebel trouble";

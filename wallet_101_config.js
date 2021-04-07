@@ -1,1 +1,1 @@
-var mnemonic = "average mind suggest about power follow hard fat replace tuition plunge rural";
+var mnemonic = "legal grid decrease differ victory run undo purse transfer stool ethics hollow";

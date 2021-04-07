@@ -1,1 +1,1 @@
-var mnemonic = "balance bike exact giggle depart talent spirit height gym omit upper glad";
+var mnemonic = "exotic powder room able spy insect subway man glance expand permit shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney tide elbow coach cannon plate beef mimic kick foil boss scrub";
+var mnemonic = "alien inherit mom top solve resist abandon reduce jar average cave move";

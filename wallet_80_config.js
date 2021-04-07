@@ -1,1 +1,1 @@
-var mnemonic = "order clever cricket exercise biology catalog bunker shoulder client helmet step potato";
+var mnemonic = "reason tunnel rabbit scissors develop they mad fault absent focus snap gauge";

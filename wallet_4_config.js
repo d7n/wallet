@@ -1,1 +1,1 @@
-var mnemonic = "later club bacon whisper video pen review glimpse iron arrive nurse client";
+var mnemonic = "print dust near armed mirror jelly life sunny orphan bus skirt practice";

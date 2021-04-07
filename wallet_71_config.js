@@ -1,1 +1,1 @@
-var mnemonic = "purchase gallery extra sample close basic myth boost vendor vote glory draft";
+var mnemonic = "wonder pilot brisk pill bind nephew silly prepare before antique legal evolve";

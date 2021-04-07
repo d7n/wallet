@@ -1,1 +1,1 @@
-var mnemonic = "such kite lock better bring mind pumpkin swift melody quarter toe breeze";
+var mnemonic = "core gather wink dune story soft lab misery account cause expand airport";

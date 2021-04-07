@@ -1,1 +1,1 @@
-var mnemonic = "tube minute mandate absurd swamp loyal report grocery scatter shallow tunnel unable";
+var mnemonic = "genuine neck gain very pony nature solid skin riot cloth hospital invite";

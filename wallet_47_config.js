@@ -1,1 +1,1 @@
-var mnemonic = "boat banana soldier inhale useful celery video exotic alter young jelly bench";
+var mnemonic = "one ensure roof army jacket rely congress shed buffalo favorite pluck antique";

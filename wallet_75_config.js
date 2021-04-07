@@ -1,1 +1,1 @@
-var mnemonic = "small parrot project river tumble among resource valve example tank rare solar";
+var mnemonic = "lend novel pond plug veteran void profit empty fortune cricket side lemon";

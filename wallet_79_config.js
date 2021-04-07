@@ -1,1 +1,1 @@
-var mnemonic = "peanut chuckle radar fury slight pact rival virtual like outer update strike";
+var mnemonic = "wrap garage gather change town ensure tribe average slogan swift bag solar";

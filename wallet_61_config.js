@@ -1,1 +1,1 @@
-var mnemonic = "soul crystal admit memory burger truly oak vicious stable raccoon whale sadness";
+var mnemonic = "mother menu maid loyal talk shuffle vault alert refuse zone oven horn";

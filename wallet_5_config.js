@@ -1,1 +1,1 @@
-var mnemonic = "exit asset cruise build burden short column estate tackle adult evolve twelve";
+var mnemonic = "attack number group phone word bounce art abuse airport adult burst magnet";

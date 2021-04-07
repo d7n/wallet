@@ -1,1 +1,1 @@
-var mnemonic = "group opinion ready joy soldier ketchup hood slight alley win weird know";
+var mnemonic = "orange luxury brisk crane old aim ski shell crystal explain differ couch";

@@ -1,1 +1,1 @@
-var mnemonic = "since insane direct change discover foam column pepper host evoke name dance";
+var mnemonic = "income achieve eagle blast tourist area expire remove recipe ramp tattoo mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin leopard decline dignity tenant citizen outer stone shell churn remove cart";
+var mnemonic = "dawn enroll diamond mixed expand fiscal family deputy soon casual milk evolve";

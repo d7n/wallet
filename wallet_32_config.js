@@ -1,1 +1,1 @@
-var mnemonic = "member spell cargo act toward puzzle grab lazy tent wear tube issue";
+var mnemonic = "regret grocery magnet sniff paper thank opinion column lizard speed ugly scissors";

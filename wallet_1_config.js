@@ -1,1 +1,1 @@
-var mnemonic = "trophy toe super oven yellow surge era spoon opera hour unit rule";
+var mnemonic = "sustain year cluster gauge fire style flavor asset example notable maid foil";

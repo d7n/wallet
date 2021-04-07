@@ -1,1 +1,1 @@
-var mnemonic = "slogan shed caution critic then clerk laundry dilemma canal cupboard secret rack";
+var mnemonic = "universe convince lyrics soap kick steak churn control video coffee result sun";

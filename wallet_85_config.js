@@ -1,1 +1,1 @@
-var mnemonic = "business devote twin hospital lamp fantasy second elegant pet next horror solid";
+var mnemonic = "else cloud violin wreck picture zone broom calm clock farm orbit anxiety";

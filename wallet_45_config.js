@@ -1,1 +1,1 @@
-var mnemonic = "slim pipe during budget amused connect reflect truth dinner huge define carpet";
+var mnemonic = "shrimp steel drift sort garment pipe romance jelly tent business assist fault";

@@ -1,1 +1,1 @@
-var mnemonic = "firm shop present vapor syrup october crane paddle ladder pride unhappy eye";
+var mnemonic = "visit sugar pink advance exotic rule vanish stereo someone stamp nothing increase";

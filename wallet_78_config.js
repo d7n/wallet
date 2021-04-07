@@ -1,1 +1,1 @@
-var mnemonic = "unfair morning wave genius weird taste repair shed rib swear ahead render";
+var mnemonic = "faculty knife forward easy opera capital fat immense essence comfort turkey picnic";
