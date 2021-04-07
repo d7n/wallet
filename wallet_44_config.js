@@ -1,1 +1,1 @@
-var mnemonic = "undo close patch school either depart perfect shove seek other brass scene";
+var mnemonic = "east teach general heart tragic nasty grunt pond say catch bacon rally";

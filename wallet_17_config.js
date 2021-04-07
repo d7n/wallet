@@ -1,1 +1,1 @@
-var mnemonic = "slight play pill awesome top horn title rely ugly leg quality design";
+var mnemonic = "describe unusual flight possible lend option already boil design palm service couch";

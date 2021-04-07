@@ -1,1 +1,1 @@
-var mnemonic = "margin blind auction escape yellow search senior brief twist cloth basic light";
+var mnemonic = "wrestle craft elegant ginger episode claw expire equip game record decide journey";

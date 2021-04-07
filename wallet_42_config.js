@@ -1,1 +1,1 @@
-var mnemonic = "melt absorb bleak execute attend toast mirror announce system ring bunker economy";
+var mnemonic = "build work reduce better meadow thought clinic color walk vapor pen mutual";

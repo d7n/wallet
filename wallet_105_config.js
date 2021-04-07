@@ -1,1 +1,1 @@
-var mnemonic = "mind east achieve wolf short orchard foam artefact shed happy wood frown";
+var mnemonic = "veteran faith omit puzzle put kangaroo close life super cloud beach parent";

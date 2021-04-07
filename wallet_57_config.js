@@ -1,1 +1,1 @@
-var mnemonic = "debris arrange addict mutual gentle wife fade shell before history gown lonely";
+var mnemonic = "wire snake ketchup horror domain cinnamon cherry latin sail radar coach pipe";

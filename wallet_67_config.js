@@ -1,1 +1,1 @@
-var mnemonic = "author man veteran truly file ritual member admit captain food cupboard bone";
+var mnemonic = "eight bike belt head one fiction skull palace enroll miracle sense vapor";

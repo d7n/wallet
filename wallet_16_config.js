@@ -1,1 +1,1 @@
-var mnemonic = "surge unlock merit clerk grief liquid clever wing next hint unaware second";
+var mnemonic = "slogan buddy spare candy fringe seven orbit bike music erupt choose laptop";

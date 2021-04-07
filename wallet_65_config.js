@@ -1,1 +1,1 @@
-var mnemonic = "notice govern defy rubber clog unaware length again pattern snap foot gossip";
+var mnemonic = "body steel muffin grunt harbor wet thunder planet time test inside forest";

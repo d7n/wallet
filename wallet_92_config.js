@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon mimic frame minimum call joy road repair uphold illegal young original";
+var mnemonic = "surge wreck edge wait make wreck venture quantum immune situate vendor method";

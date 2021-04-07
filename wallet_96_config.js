@@ -1,1 +1,1 @@
-var mnemonic = "candy bonus lazy screen razor security link sleep faith forget divert grant";
+var mnemonic = "work gadget text apple turkey belt pelican memory canoe floor dumb need";

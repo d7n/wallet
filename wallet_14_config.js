@@ -1,1 +1,1 @@
-var mnemonic = "snap tail lawsuit jaguar alien mixed trend spoil scale interest state glance";
+var mnemonic = "vacant shoot share renew armor axis lucky sign denial cute example snake";

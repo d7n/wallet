@@ -1,1 +1,1 @@
-var mnemonic = "bleak route rice extend narrow castle crawl benefit choice finger hint front";
+var mnemonic = "paper celery flag mean submit cement join raccoon entry speed enact base";

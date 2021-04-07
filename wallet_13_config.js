@@ -1,1 +1,1 @@
-var mnemonic = "novel cricket guard purse wish night gain tilt gallery display trouble fluid";
+var mnemonic = "element since siege arrest giggle toward member tree imitate gym destroy party";

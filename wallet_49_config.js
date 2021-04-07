@@ -1,1 +1,1 @@
-var mnemonic = "another hungry mention arena dream leader fiber blast armed student load gentle";
+var mnemonic = "scout agent game pudding vast unknown describe bronze bargain horror cliff couple";

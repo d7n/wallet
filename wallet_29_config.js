@@ -1,1 +1,1 @@
-var mnemonic = "muffin broccoli surprise invite cream paddle property pave visa tunnel express vanish";
+var mnemonic = "yellow pull caution echo any reopen coil load buzz peasant gown chef";

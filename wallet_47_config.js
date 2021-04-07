@@ -1,1 +1,1 @@
-var mnemonic = "hard joy noble enjoy ugly arm shaft lady unaware milk enact neglect";
+var mnemonic = "say damp domain column panic impact field biology south concert apart secret";

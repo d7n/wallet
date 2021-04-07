@@ -1,1 +1,1 @@
-var mnemonic = "erode jungle board clown tenant rather raven license cram cute hotel episode";
+var mnemonic = "push aware minute glide link way scissors balcony access agree creek catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli army ignore solution crash wing crucial original park wall almost flight";
+var mnemonic = "sword ski bag width main puzzle educate turkey hat margin legal popular";

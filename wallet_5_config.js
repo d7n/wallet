@@ -1,1 +1,1 @@
-var mnemonic = "luxury spirit asthma canal puppy prevent pudding transfer blood clean ritual cliff";
+var mnemonic = "juice drill opinion develop clap axis range vapor multiply dolphin review surround";

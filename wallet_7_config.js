@@ -1,1 +1,1 @@
-var mnemonic = "march blood canoe anxiety feel census uphold judge satisfy select matrix beyond";
+var mnemonic = "goddess total protect will weather emotion decorate gaze weasel trade federal change";

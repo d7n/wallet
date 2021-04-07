@@ -1,1 +1,1 @@
-var mnemonic = "result silent foam thought sibling they argue glow blouse need zone kingdom";
+var mnemonic = "elder winter tilt afraid rigid stereo dance shock there grit history despair";

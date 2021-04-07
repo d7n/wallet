@@ -1,1 +1,1 @@
-var mnemonic = "walnut army frozen town exercise castle decide cat doll hand fun during";
+var mnemonic = "left cake setup letter admit month stone side high later battle bamboo";

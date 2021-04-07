@@ -1,1 +1,1 @@
-var mnemonic = "gym elite lens audit alter predict goose zero dutch post focus vendor";
+var mnemonic = "occur pitch donkey rate similar disorder famous whale history pigeon toddler mango";

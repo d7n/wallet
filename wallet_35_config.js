@@ -1,1 +1,1 @@
-var mnemonic = "network casual south music play minor pencil poverty street steel mask sun";
+var mnemonic = "tennis elephant sock canvas innocent hundred nasty vocal ride fall spring bid";

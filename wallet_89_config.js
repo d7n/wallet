@@ -1,1 +1,1 @@
-var mnemonic = "strike fog quiz million galaxy demise fire obey above innocent vicious twice";
+var mnemonic = "muffin wrong access stadium atom whale chicken fashion switch pole invest adapt";

@@ -1,1 +1,1 @@
-var mnemonic = "glue cupboard knock exact bone negative box card obtain sausage usage armed";
+var mnemonic = "twin country wrong then bid advice coconut bundle below celery pact write";

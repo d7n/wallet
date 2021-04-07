@@ -1,1 +1,1 @@
-var mnemonic = "universe naive collect animal protect sustain sick face unusual today business portion";
+var mnemonic = "kitten dwarf grape small ethics noodle frog pear trick ticket annual order";

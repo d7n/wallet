@@ -1,1 +1,1 @@
-var mnemonic = "flavor sniff novel tribe frequent curious bike share fee monster goose axis";
+var mnemonic = "slight skirt notable front coil elbow judge truck display juice soda rural";

@@ -1,1 +1,1 @@
-var mnemonic = "coil neither gasp wrist estate patch mercy mean stage marble leader spring";
+var mnemonic = "gun logic hat beef head text chief behind blood style chapter tree";

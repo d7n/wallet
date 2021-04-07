@@ -1,1 +1,1 @@
-var mnemonic = "kitchen wheat month kitten update shoe envelope juice scissors lottery sheriff dignity";
+var mnemonic = "doll apple rabbit arm abandon hurry pelican poverty bridge enemy divert embark";

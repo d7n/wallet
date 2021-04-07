@@ -1,1 +1,1 @@
-var mnemonic = "goddess discover letter pizza fiscal dress worth laundry electric warfare inspire clog";
+var mnemonic = "shiver survey hope zero pause zero tray open upon explain toilet tomorrow";

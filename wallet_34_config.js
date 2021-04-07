@@ -1,1 +1,1 @@
-var mnemonic = "cotton west cabbage you sort gospel opera twin inspire vocal blind orient";
+var mnemonic = "forest know hire remove hawk funny detail legal conduct setup tide chair";

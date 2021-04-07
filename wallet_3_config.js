@@ -1,1 +1,1 @@
-var mnemonic = "prepare scout live turn margin toss wire steel chapter lab alter misery";
+var mnemonic = "lake tray zebra angle torch mountain discover air staff crush bamboo wet";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet loyal sail coyote minute three early silly injury crouch arrow carpet";
+var mnemonic = "lazy expose warrior stadium radar purity panda lens imitate jungle marble shrug";

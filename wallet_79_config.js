@@ -1,1 +1,1 @@
-var mnemonic = "amount stable impose almost possible invest easy hotel proof rain indicate cloth";
+var mnemonic = "stem again floor defense purse rather season survey strong mixed govern skill";

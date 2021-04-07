@@ -1,1 +1,1 @@
-var mnemonic = "path green scene write vacuum limb monitor hen cradle vault actual tiger";
+var mnemonic = "impact delay junk cruise omit fitness ensure cruel crazy issue another fix";

@@ -1,1 +1,1 @@
-var mnemonic = "stone surprise hotel bunker raw just item head cluster dance gentle reduce";
+var mnemonic = "crisp fatigue lyrics axis rifle lawsuit neglect very cube advance ancient rude";

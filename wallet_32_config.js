@@ -1,1 +1,1 @@
-var mnemonic = "duty derive fall tooth solar heavy split angry despair venue spin exact";
+var mnemonic = "there pattern later advice blue economy stable adjust promote beauty thunder antique";

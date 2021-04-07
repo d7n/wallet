@@ -1,1 +1,1 @@
-var mnemonic = "pencil velvet panda seven clever palace squeeze humor rescue curtain chaos crouch";
+var mnemonic = "glare punch patrol poverty tape message chaos arm still scale saddle evoke";

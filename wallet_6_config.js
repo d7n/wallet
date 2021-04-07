@@ -1,1 +1,1 @@
-var mnemonic = "credit kid post time okay second velvet round cycle salon warrior matrix";
+var mnemonic = "announce mutual front social gravity tomato swift design suspect silk junk together";

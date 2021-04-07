@@ -1,1 +1,1 @@
-var mnemonic = "vote idea service bike cluster gloom wash uniform cycle foam steel armor";
+var mnemonic = "desert lawsuit diagram daring vivid canoe novel cricket distance ankle rose turn";

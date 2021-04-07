@@ -1,1 +1,1 @@
-var mnemonic = "quote plastic venue opera drive thank wear toe fall bulk wine quantum";
+var mnemonic = "wrist decrease typical recall drum live solution grape quiz medal work thunder";

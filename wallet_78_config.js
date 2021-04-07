@@ -1,1 +1,1 @@
-var mnemonic = "february orchard prepare protect output wild roof jar until plug tail velvet";
+var mnemonic = "middle ship sugar identify crystal above april notable enemy ten obtain breeze";

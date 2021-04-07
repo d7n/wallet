@@ -1,1 +1,1 @@
-var mnemonic = "climb wasp unlock lizard aspect crane already glad lab thing sand reunion";
+var mnemonic = "until alert able seat return taste decide social include amazing gift ankle";

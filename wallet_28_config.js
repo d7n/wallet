@@ -1,1 +1,1 @@
-var mnemonic = "rookie brick forum wool relax safe loud tonight cereal dirt note gesture";
+var mnemonic = "aisle rain anger volcano supreme degree hybrid october notable improve chuckle type";

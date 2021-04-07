@@ -1,1 +1,1 @@
-var mnemonic = "shift visit risk amused safe enroll account athlete lyrics reject shell rookie";
+var mnemonic = "random forget stomach seat system loan outdoor front catch resemble pelican uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "tray blanket squirrel man blast topic dignity grit pilot turtle copper sister";
+var mnemonic = "bright kitten image eyebrow trend silk oven kitten grace social exotic rug";

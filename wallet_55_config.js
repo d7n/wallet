@@ -1,1 +1,1 @@
-var mnemonic = "sound tissue deliver bottom damp service text cloud mad such industry nerve";
+var mnemonic = "month seven phone stereo actress can just chair sell grocery apology enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "load marble popular tooth skill prison tool assault bleak produce absent exhaust";
+var mnemonic = "list loop flag page meadow nurse field amount nose lounge calm sell";

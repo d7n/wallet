@@ -1,1 +1,1 @@
-var mnemonic = "hello film awesome ensure oak food spoon medal bounce finger blue drama";
+var mnemonic = "poet point eyebrow royal bachelor online network glad connect evoke bonus suffer";

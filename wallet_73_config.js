@@ -1,1 +1,1 @@
-var mnemonic = "furnace taxi good next embark final embrace urban maximum inhale divert great";
+var mnemonic = "vehicle bomb doll scrub fever pride flag liquid neglect horse beef more";

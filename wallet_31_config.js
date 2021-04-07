@@ -1,1 +1,1 @@
-var mnemonic = "manage region scheme census veteran earth onion giant cram tomato inner neither";
+var mnemonic = "crop ignore fish glance bulk forward sadness diet buzz harbor real model";

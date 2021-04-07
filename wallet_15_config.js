@@ -1,1 +1,1 @@
-var mnemonic = "tortoise common usual enhance bulk pupil pelican waste auto amused token favorite";
+var mnemonic = "narrow room update noodle fold pitch busy slot arm basket random reveal";

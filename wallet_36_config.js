@@ -1,1 +1,1 @@
-var mnemonic = "corn section key monster exact major myself nothing firm main duck life";
+var mnemonic = "elite antique usage exhibit cushion entire invest super rival village truly fossil";

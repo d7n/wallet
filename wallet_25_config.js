@@ -1,1 +1,1 @@
-var mnemonic = "tape talk citizen voyage noodle accuse tongue write border praise ecology grass";
+var mnemonic = "ignore remove laugh lyrics napkin fee gaze valid region lunch airport pact";

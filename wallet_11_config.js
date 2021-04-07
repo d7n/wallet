@@ -1,1 +1,1 @@
-var mnemonic = "record remain arch damage master release giggle one stone bacon collect joy";
+var mnemonic = "planet sudden thrive address verify typical average fiscal bargain olive arctic ethics";

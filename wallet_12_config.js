@@ -1,1 +1,1 @@
-var mnemonic = "estate possible upon please surface copy open stable often lizard matter monster";
+var mnemonic = "potato hood dynamic ocean knife nothing reform air goose exact save acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "announce frog load bounce shed budget shoot various bottom glue movie cheese";
+var mnemonic = "put roast click copy torch pioneer humor intact glow ask equip stove";

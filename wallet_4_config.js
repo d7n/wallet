@@ -1,1 +1,1 @@
-var mnemonic = "also oil soap citizen during village aware fox about corn royal dawn";
+var mnemonic = "mandate feature achieve noise rough consider sleep junk card canyon spike mercy";

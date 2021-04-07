@@ -1,1 +1,1 @@
-var mnemonic = "away near script type expire marriage shrug choose hood sunny country size";
+var mnemonic = "media rocket security foot legend total offer orient faculty camera banana fork";

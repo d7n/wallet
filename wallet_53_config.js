@@ -1,1 +1,1 @@
-var mnemonic = "blossom trap vault device concert weekend reopen size dry bread bubble hidden";
+var mnemonic = "jealous also unaware stable feed prepare remember work group chicken cross tiny";

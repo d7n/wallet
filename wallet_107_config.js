@@ -1,1 +1,1 @@
-var mnemonic = "happy expand spoil orchard kingdom believe sound candy stool hard flight only";
+var mnemonic = "there expire belt develop say convince pumpkin demise lazy such eternal orchard";

@@ -1,1 +1,1 @@
-var mnemonic = "input enable monitor hockey nation express nephew betray off arrive frost call";
+var mnemonic = "crisp pause syrup neglect wealth predict chat grunt amazing verb amazing okay";

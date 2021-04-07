@@ -1,1 +1,1 @@
-var mnemonic = "boss dream pigeon like inflict bulk science fringe ugly recipe treat helmet";
+var mnemonic = "scan ensure bamboo ancient know fix home furnace treat alone spirit uphold";

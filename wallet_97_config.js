@@ -1,1 +1,1 @@
-var mnemonic = "weapon bullet snow direct domain orbit tired pear game repeat sugar segment";
+var mnemonic = "people glare thunder hero false gate cruise call latin mercy matrix trade";

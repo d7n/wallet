@@ -1,1 +1,1 @@
-var mnemonic = "dog lounge engage sketch tonight timber tobacco eternal congress transfer display desert";
+var mnemonic = "across emotion cage remind mansion sleep obtain transfer squeeze access chimney praise";

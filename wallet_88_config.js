@@ -1,1 +1,1 @@
-var mnemonic = "abandon lamp skate task input resist skin lock manual surprise grape apart";
+var mnemonic = "replace bacon enemy swing agent track guide traffic stage spray universe army";

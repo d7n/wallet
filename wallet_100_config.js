@@ -1,1 +1,1 @@
-var mnemonic = "cushion monster focus song taste fire unfold practice midnight river toss rate";
+var mnemonic = "ozone auto atom unhappy display chest term fury tissue nephew craft love";

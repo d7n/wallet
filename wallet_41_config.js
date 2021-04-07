@@ -1,1 +1,1 @@
-var mnemonic = "nice remove powder bottom dove spot pottery tent pet vendor finger depart";
+var mnemonic = "upon advice acoustic tool section food person city often document wreck blanket";

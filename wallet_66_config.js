@@ -1,1 +1,1 @@
-var mnemonic = "stock lazy school consider project olive race quote receive okay use noodle";
+var mnemonic = "tired palace buzz surge faculty make grass remove crowd alien rally stage";

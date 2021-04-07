@@ -1,1 +1,1 @@
-var mnemonic = "desert portion grape globe marble narrow gym echo pipe now shine slender";
+var mnemonic = "mystery draft onion cup fog depend infant swallow inspire piano cluster ceiling";

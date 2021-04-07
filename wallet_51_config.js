@@ -1,1 +1,1 @@
-var mnemonic = "club veteran regret surface travel vivid mistake tower usage sand cheese oven";
+var mnemonic = "cruel crumble list basket thought office winner hand lonely chunk shrimp cricket";

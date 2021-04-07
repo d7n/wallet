@@ -1,1 +1,1 @@
-var mnemonic = "whip whale ivory crater muscle tonight place decline left swallow return shadow";
+var mnemonic = "little season opinion spice typical because program fabric thumb resemble harvest tenant";

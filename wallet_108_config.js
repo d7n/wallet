@@ -1,1 +1,1 @@
-var mnemonic = "idea bless sweet vibrant van gown aisle tell bamboo another awake area";
+var mnemonic = "tree they donkey decorate library innocent blade jeans alley budget must resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "garden polar coil turn mansion symptom luggage oblige cycle process client destroy";
+var mnemonic = "faint stick lucky soon real dream bread wise owner spray horn suggest";

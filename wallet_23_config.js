@@ -1,1 +1,1 @@
-var mnemonic = "message say hill salmon armor couple rain include hour useful average juice";
+var mnemonic = "viable nuclear estate grab hill genuine visual question caution state rabbit also";

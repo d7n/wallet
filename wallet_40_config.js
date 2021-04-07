@@ -1,1 +1,1 @@
-var mnemonic = "clutch spy grant sock table tooth slice describe sick august fame ginger";
+var mnemonic = "enlist raw luxury found capable second during fence crime shell breeze gauge";

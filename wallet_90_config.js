@@ -1,1 +1,1 @@
-var mnemonic = "busy moon doctor rookie noise stage hope snap mystery hand humor marriage";
+var mnemonic = "peasant airport square scatter net crop link win able normal police rose";

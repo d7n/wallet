@@ -1,1 +1,1 @@
-var mnemonic = "cool airport clarify tragic deliver behave expire tenant gate analyst resource nephew";
+var mnemonic = "advice boil push garden that nuclear dirt soup hungry prevent market liquid";

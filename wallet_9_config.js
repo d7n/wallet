@@ -1,1 +1,1 @@
-var mnemonic = "wedding defense snow floor nasty zone enact across castle lounge course page";
+var mnemonic = "manual dash crane robust spring describe exercise above deputy amused area inmate";

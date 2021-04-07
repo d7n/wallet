@@ -1,1 +1,1 @@
-var mnemonic = "flush panda orbit valve produce state erode squirrel suit addict voice genius";
+var mnemonic = "gun gentle essence famous law life soon sword team sorry return easily";

@@ -1,1 +1,1 @@
-var mnemonic = "engine skin congress height shallow eight guitar essay hobby wall during kingdom";
+var mnemonic = "trash hundred forest clinic door multiply exact lion setup runway family brass";

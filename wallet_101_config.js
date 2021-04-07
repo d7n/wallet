@@ -1,1 +1,1 @@
-var mnemonic = "seat double silent unfold sketch biology search essay stadium kind arctic leopard";
+var mnemonic = "where camp unhappy access comfort ecology over piece pyramid soft loan legend";

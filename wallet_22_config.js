@@ -1,1 +1,1 @@
-var mnemonic = "degree butter pair memory orchard come large fiber card cruel forest bicycle";
+var mnemonic = "common anchor canyon iron rate wreck february cupboard gospel helmet nest beef";

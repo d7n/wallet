@@ -1,1 +1,1 @@
-var mnemonic = "salute better pool weapon rough solution chimney slender robust scatter beach egg";
+var mnemonic = "quit slab place cloth exact major tribe impulse firm mom vendor artwork";

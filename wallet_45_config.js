@@ -1,1 +1,1 @@
-var mnemonic = "celery wreck question addict shop leisure badge track post dose argue metal";
+var mnemonic = "change weird dad hamster mesh soap vanish hundred kick margin hurt tortoise";

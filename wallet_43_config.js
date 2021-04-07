@@ -1,1 +1,1 @@
-var mnemonic = "pulp promote smart duty mandate guard chuckle hybrid hidden bone sausage miracle";
+var mnemonic = "walk volume prepare bind sword siege hero derive season story ticket attract";

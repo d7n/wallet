@@ -1,1 +1,1 @@
-var mnemonic = "comic escape way frozen upgrade frown among arrange wrong child trick pledge";
+var mnemonic = "wrap abandon mixed dismiss payment clarify bronze another together nation weekend effort";

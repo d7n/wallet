@@ -1,1 +1,1 @@
-var mnemonic = "eternal pudding dog frog mercy donkey unique level sick degree energy bachelor";
+var mnemonic = "ramp engine paddle spend fantasy layer unveil cement click degree ridge culture";
