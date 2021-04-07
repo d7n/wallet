@@ -1,1 +1,1 @@
-var mnemonic = "ostrich bargain bird drill patch entire stone bean breeze absurd program palm";
+var mnemonic = "blossom brass hollow expire middle aware wave replace utility net hammer coyote";

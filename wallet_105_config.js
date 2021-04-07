@@ -1,1 +1,1 @@
-var mnemonic = "say neglect final foot salad stem describe avoid myth kite boy require";
+var mnemonic = "lift powder receive ball duck frozen manual fever remove mixed turkey squeeze";

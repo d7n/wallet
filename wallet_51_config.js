@@ -1,1 +1,1 @@
-var mnemonic = "inmate axis surge frown small ripple sell atom bless rely smile media";
+var mnemonic = "amount theme flock lift silk gadget hungry despair chief wedding track defy";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket suggest black spell behave fragile stool plastic hammer crucial code useless";
+var mnemonic = "myth shuffle like supply benefit agent sphere very profit collect chapter use";

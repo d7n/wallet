@@ -1,1 +1,1 @@
-var mnemonic = "atom rely forget height donor chalk sniff game rally spot also basic";
+var mnemonic = "advance silk cruise better energy party refuse window reform cram loud hurry";

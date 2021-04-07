@@ -1,1 +1,1 @@
-var mnemonic = "spread mention arrange pill infant neglect animal special cattle frog share proud";
+var mnemonic = "remind local recall useful now child ask slice define horse burst bid";

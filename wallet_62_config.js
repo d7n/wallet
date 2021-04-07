@@ -1,1 +1,1 @@
-var mnemonic = "green rent above flee arrest core unhappy speed glimpse group deer praise";
+var mnemonic = "atom reunion toy display waste bulb poem play fade fire spike century";

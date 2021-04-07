@@ -1,1 +1,1 @@
-var mnemonic = "history grocery lunch summer panther bus discover supreme piano praise survey rather";
+var mnemonic = "pond donkey size puzzle purpose subject rain unknown soup amused spend retreat";

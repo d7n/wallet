@@ -1,1 +1,1 @@
-var mnemonic = "cage sick task pistol patch control credit carpet engine copper kidney isolate";
+var mnemonic = "paper win boss secret sick slow final cute dinner this transfer bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture student equip observe install glove moon nice jelly cliff name stool";
+var mnemonic = "essence edge tiny run lottery island bottom calm unique zero feed either";

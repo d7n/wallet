@@ -1,1 +1,1 @@
-var mnemonic = "doctor expose ball universe there match saddle gorilla priority slogan layer sunset";
+var mnemonic = "soft shove entry return build detect sense ladder isolate column theme fade";

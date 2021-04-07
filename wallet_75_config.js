@@ -1,1 +1,1 @@
-var mnemonic = "attract indoor vast twist dismiss hedgehog toilet chief project viable slice into";
+var mnemonic = "sugar vibrant glass general tonight cup crazy put agree picnic purse earn";

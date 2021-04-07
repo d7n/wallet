@@ -1,1 +1,1 @@
-var mnemonic = "dirt loan sort gas invite avocado pool loop again civil oven spoon";
+var mnemonic = "whale occur mesh inside town saddle attack only uniform clarify riot endless";

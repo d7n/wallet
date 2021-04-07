@@ -1,1 +1,1 @@
-var mnemonic = "stay punch census fever focus elder response sugar elder pistol robot minor";
+var mnemonic = "profit there mother worth fog grape window license sell half enough middle";

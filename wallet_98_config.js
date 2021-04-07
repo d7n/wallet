@@ -1,1 +1,1 @@
-var mnemonic = "rookie exact cancel polar rely cabbage flash ask ask dinner secret script";
+var mnemonic = "aim riot peace frame still whale render catch hero gallery invite trust";

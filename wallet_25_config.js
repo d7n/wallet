@@ -1,1 +1,1 @@
-var mnemonic = "balance simple assault exit lady name hover museum verify concert sheriff rent";
+var mnemonic = "inject more expect aisle explain client olive shuffle floor boost trip frog";

@@ -1,1 +1,1 @@
-var mnemonic = "plunge endless file lazy bachelor snake baby gap cheap limb circle stomach";
+var mnemonic = "party already brick ask exhaust script asthma social quarter picture square foster";

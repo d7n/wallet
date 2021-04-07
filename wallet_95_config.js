@@ -1,1 +1,1 @@
-var mnemonic = "lottery scheme wood host daring border miss peace arch misery dutch deposit";
+var mnemonic = "arm craft armed cigar immune doll caught almost reopen state squirrel devote";

@@ -1,1 +1,1 @@
-var mnemonic = "water result surge cause local shine swim will mother tiger indoor talent";
+var mnemonic = "patient sell polar tell turtle level jacket gospel kind crumble shine suit";

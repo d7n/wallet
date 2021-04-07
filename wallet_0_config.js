@@ -1,1 +1,1 @@
-var mnemonic = "proof blossom flee eagle reflect name route matter analyst side wait earth";
+var mnemonic = "skull differ motor sight ramp garment wear there muffin because aisle tonight";

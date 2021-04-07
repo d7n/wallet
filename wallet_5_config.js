@@ -1,1 +1,1 @@
-var mnemonic = "soup month dutch velvet thought once foam lock tiger eagle submit venture";
+var mnemonic = "cute depend ribbon expand swallow combine minor sting isolate skill wonder fury";

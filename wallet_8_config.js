@@ -1,1 +1,1 @@
-var mnemonic = "ready wait castle quit paddle aunt echo hover start real celery acoustic";
+var mnemonic = "green regular manual explain search ramp burger planet section race wood time";

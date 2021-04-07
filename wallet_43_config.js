@@ -1,1 +1,1 @@
-var mnemonic = "cliff mobile language vehicle program become print detail fortune radio say wrist";
+var mnemonic = "convince random snake pudding return episode cram cricket weekend whale catch act";

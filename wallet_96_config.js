@@ -1,1 +1,1 @@
-var mnemonic = "wedding video dolphin hunt combine pave song bottom muffin moon end unique";
+var mnemonic = "summer order swing blossom assist lumber shrimp raise vocal inject century throw";

@@ -1,1 +1,1 @@
-var mnemonic = "idea ensure champion pizza save dream turkey culture sail easy fruit chimney";
+var mnemonic = "move brave ill surprise biology milk velvet social clever coconut trophy shaft";

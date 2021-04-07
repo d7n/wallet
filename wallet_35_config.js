@@ -1,1 +1,1 @@
-var mnemonic = "useful wash that someone flat sad love fix wheel tongue super claw";
+var mnemonic = "winner gossip borrow gather pluck van uphold street kitchen adult essay chat";

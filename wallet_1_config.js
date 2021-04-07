@@ -1,1 +1,1 @@
-var mnemonic = "pupil kiwi vivid inspire mosquito stool knife rice problem seed neglect sustain";
+var mnemonic = "insect say plate apology toast cycle soda inflict net course pet industry";

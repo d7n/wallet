@@ -1,1 +1,1 @@
-var mnemonic = "edge guard inspire theme owner blame rubber skirt maze oblige eight notice";
+var mnemonic = "near bench fitness sign tired ice affair universe boat shrimp congress build";

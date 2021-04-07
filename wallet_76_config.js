@@ -1,1 +1,1 @@
-var mnemonic = "physical visa diagram enough hungry embrace equip tomorrow myth top very sort";
+var mnemonic = "alcohol inject dignity plug emerge still chuckle together matrix silk erode domain";

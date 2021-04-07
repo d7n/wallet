@@ -1,1 +1,1 @@
-var mnemonic = "video chapter aim share anger skirt comic kidney leopard enough vacant tumble";
+var mnemonic = "history time kiss flower pitch crane major knock category alone tent okay";

@@ -1,1 +1,1 @@
-var mnemonic = "object april praise over stone seminar warrior hat that shiver castle design";
+var mnemonic = "ensure state arch ignore biology kiss edge bring will liquid quality snap";

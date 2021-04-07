@@ -1,1 +1,1 @@
-var mnemonic = "guitar loan dentist over common meadow loud fossil school catalog suit mixture";
+var mnemonic = "cheese clinic snack special dismiss prize badge cruise violin gauge praise physical";

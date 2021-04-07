@@ -1,1 +1,1 @@
-var mnemonic = "key soda hotel elegant make rescue craft grit cash depart maze share";
+var mnemonic = "sell amazing wire curve analyst grow license silent orient decrease gentle swim";

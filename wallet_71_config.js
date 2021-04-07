@@ -1,1 +1,1 @@
-var mnemonic = "pigeon adjust muffin kite merry promote throw shadow warm match enter crumble";
+var mnemonic = "flight lake mix caught gate early consider confirm seat install mule deputy";

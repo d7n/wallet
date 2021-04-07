@@ -1,1 +1,1 @@
-var mnemonic = "deputy veteran purse lucky employ few mandate casino curve program nest attract";
+var mnemonic = "brown alarm giggle talk blur extra drop stage acquire ketchup box input";

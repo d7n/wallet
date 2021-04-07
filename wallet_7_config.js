@@ -1,1 +1,1 @@
-var mnemonic = "agree accident empty soccer today chicken mask draft sudden wink stumble crime";
+var mnemonic = "display opera battle near jungle dance dwarf squeeze potato once twist addict";

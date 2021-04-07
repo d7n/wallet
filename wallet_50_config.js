@@ -1,1 +1,1 @@
-var mnemonic = "fatigue indicate fetch best will globe rhythm opera frog ostrich require odor";
+var mnemonic = "theory close limb client code release satisfy garden core pistol struggle settle";

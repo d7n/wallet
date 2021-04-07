@@ -1,1 +1,1 @@
-var mnemonic = "trigger emerge sound trial invite man dry risk grace rely february work";
+var mnemonic = "public camera flame vault poet clown steak mystery absorb equip weird flag";

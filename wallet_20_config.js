@@ -1,1 +1,1 @@
-var mnemonic = "acoustic junk arrow unlock doctor trade middle lemon length heart tiger prevent";
+var mnemonic = "glove double license maximum circle mother prevent sibling length multiply auction alien";

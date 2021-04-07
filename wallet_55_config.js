@@ -1,1 +1,1 @@
-var mnemonic = "head spread awesome saddle island relief donkey report stool purity matter trust";
+var mnemonic = "fancy pelican just crater zoo truck gun deposit catalog stumble junk pill";

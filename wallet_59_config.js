@@ -1,1 +1,1 @@
-var mnemonic = "chief soap toward recall bullet resemble exact save grit gun open move";
+var mnemonic = "gain post clap own turkey better direct year knife brain place daughter";

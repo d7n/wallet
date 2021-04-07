@@ -1,1 +1,1 @@
-var mnemonic = "galaxy roast gun guard bounce silver cute trade cabin open slogan spike";
+var mnemonic = "camera school sting write alarm cliff add mushroom bright alone cliff gun";

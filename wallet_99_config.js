@@ -1,1 +1,1 @@
-var mnemonic = "collect empower flip advance balance symbol rule emotion sea pet strike misery";
+var mnemonic = "machine siren bid catch toss whale summer direct frozen problem bacon stable";

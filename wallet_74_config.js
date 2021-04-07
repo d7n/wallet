@@ -1,1 +1,1 @@
-var mnemonic = "decorate tank tenant cluster pencil zoo cheap dust olympic arm option ginger";
+var mnemonic = "giraffe pepper enrich garage salon large bike response solution club october light";

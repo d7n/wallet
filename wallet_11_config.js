@@ -1,1 +1,1 @@
-var mnemonic = "luxury reflect episode poverty chef urban response dilemma gate pulse rib defy";
+var mnemonic = "plunge talk world fault truly hobby since furnace rotate style field impose";

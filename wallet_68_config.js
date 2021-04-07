@@ -1,1 +1,1 @@
-var mnemonic = "clip harbor lecture cup drill trick quarter library sell elder turn typical";
+var mnemonic = "people solution goose hamster romance market firm govern seat skirt student able";

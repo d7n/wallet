@@ -1,1 +1,1 @@
-var mnemonic = "slow wheel update domain lunch frown bulb arrest invest become shaft spy";
+var mnemonic = "cactus myself sustain forward media answer series amount next hour around pole";

@@ -1,1 +1,1 @@
-var mnemonic = "happy endless toilet behind stay blood history book fossil door interest pet";
+var mnemonic = "exchange dress lyrics height hour curve permit fiber observe correct apart ship";

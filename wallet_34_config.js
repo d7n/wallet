@@ -1,1 +1,1 @@
-var mnemonic = "bonus gate cube typical lawsuit balance enroll service little supply amount escape";
+var mnemonic = "receive speed doll vast rail proud cradle before million possible jaguar attack";

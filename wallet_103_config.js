@@ -1,1 +1,1 @@
-var mnemonic = "print extra lion frame member speak dune vacuum ball profit human monitor";
+var mnemonic = "adapt design post avocado arm trophy note anxiety afraid nasty head aim";

@@ -1,1 +1,1 @@
-var mnemonic = "protect pole win foam recall curtain romance morning cram muffin olive federal";
+var mnemonic = "pigeon excite snake gossip smile leave wasp day verify caught rude juice";

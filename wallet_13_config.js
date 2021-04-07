@@ -1,1 +1,1 @@
-var mnemonic = "crop board define culture future essay note ready machine crumble moon clog";
+var mnemonic = "smart daring feel human motion caught such pull sure autumn dove kiwi";

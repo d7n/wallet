@@ -1,1 +1,1 @@
-var mnemonic = "multiply bicycle faith rigid rotate stem phone seed pizza inside sail rural";
+var mnemonic = "mule great inject boost cinnamon purpose scout quiz inch nuclear orbit slab";

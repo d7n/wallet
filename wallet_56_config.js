@@ -1,1 +1,1 @@
-var mnemonic = "never blast during another market list furnace wine cigar voice enhance virtual";
+var mnemonic = "rib picture erode awful fancy village bone rib kingdom bitter away vicious";

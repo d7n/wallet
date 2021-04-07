@@ -1,1 +1,1 @@
-var mnemonic = "joy follow alone sentence host people shift put submit cat way era";
+var mnemonic = "injury this open easily middle deputy hungry midnight mention icon rhythm cool";

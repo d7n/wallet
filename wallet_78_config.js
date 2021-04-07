@@ -1,1 +1,1 @@
-var mnemonic = "main purity hub must tired file radar beef zone surge pond mango";
+var mnemonic = "giggle drama olive negative harbor private push artefact hidden mango satisfy define";

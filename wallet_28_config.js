@@ -1,1 +1,1 @@
-var mnemonic = "pond fly buzz rough pitch swim giggle wool audit dash hybrid weird";
+var mnemonic = "gaze sister family notice lend oxygen salon put produce kangaroo gun ordinary";

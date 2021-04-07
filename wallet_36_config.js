@@ -1,1 +1,1 @@
-var mnemonic = "lesson century gossip stadium shove vessel favorite table ship attend aerobic regular";
+var mnemonic = "clap ghost alien runway need region forum cross weather impulse salmon hospital";

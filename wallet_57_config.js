@@ -1,1 +1,1 @@
-var mnemonic = "fall excuse law when stay fossil subway ozone half bind ladder limit";
+var mnemonic = "sorry gospel oppose maid action tube bean soup rug strong scissors ritual";

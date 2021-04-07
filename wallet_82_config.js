@@ -1,1 +1,1 @@
-var mnemonic = "midnight please spray group taxi carpet jewel post cereal celery wolf balance";
+var mnemonic = "disagree winter badge average coach limit interest bread rigid square matrix barely";

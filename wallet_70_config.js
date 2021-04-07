@@ -1,1 +1,1 @@
-var mnemonic = "glare turn zoo neither cram summer buffalo mirror bike fan erode disorder";
+var mnemonic = "dumb shoot lava home worth symbol clip income guide tomato host inherit";

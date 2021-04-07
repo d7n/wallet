@@ -1,1 +1,1 @@
-var mnemonic = "cost price hat steak shell grocery chicken biology obtain mixed moon advance";
+var mnemonic = "pulse escape cat slot swift choice street great strike aisle maple nominee";

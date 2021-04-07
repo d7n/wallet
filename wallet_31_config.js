@@ -1,1 +1,1 @@
-var mnemonic = "entry early bubble supreme drip thumb armor onion forward law length multiply";
+var mnemonic = "feed wedding hurry business shiver lecture arrow layer sister crop uniform face";

@@ -1,1 +1,1 @@
-var mnemonic = "general black flower model dress cabbage equip raccoon olive lion someone once";
+var mnemonic = "burden web weapon will annual flush winner tornado thought coconut enrich door";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix level hill cause speak split joy horse system work traffic proof";
+var mnemonic = "video forest video uphold view eight rebel effort runway kitten thunder warrior";

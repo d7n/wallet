@@ -1,1 +1,1 @@
-var mnemonic = "annual hour cycle produce route nephew tower donate gossip balance elephant glass";
+var mnemonic = "blossom pistol tooth list dish polar shove april day volume modify arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "path item ski burst hawk diamond game skirt exist bulk stem crop";
+var mnemonic = "logic prevent pole orphan wheel silver steel casino emerge congress electric tortoise";

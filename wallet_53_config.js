@@ -1,1 +1,1 @@
-var mnemonic = "silk vicious utility gown valid access soft sphere multiply march error stairs";
+var mnemonic = "resemble ginger barely school random mix solve system canvas barrel wheat roast";

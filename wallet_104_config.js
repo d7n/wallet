@@ -1,1 +1,1 @@
-var mnemonic = "health venture enjoy flee audit base loan library urban card cabbage metal";
+var mnemonic = "purity access buyer smile void term huge calm stick chunk cargo illegal";

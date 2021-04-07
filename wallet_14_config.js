@@ -1,1 +1,1 @@
-var mnemonic = "asset gossip beyond pause alarm scorpion captain brisk tank path enhance base";
+var mnemonic = "window elegant icon horse cigar outer twist fun hollow artwork kiwi deposit";

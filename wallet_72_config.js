@@ -1,1 +1,1 @@
-var mnemonic = "clog oval simple wage imitate focus spend embrace upper danger monster friend";
+var mnemonic = "among vault double evoke fire game diesel include face basic oil top";

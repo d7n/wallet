@@ -1,1 +1,1 @@
-var mnemonic = "west tunnel birth blade mutual family bracket ozone rail squeeze borrow alien";
+var mnemonic = "coconut ready youth angle romance verb donkey floor home feature job ketchup";

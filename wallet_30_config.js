@@ -1,1 +1,1 @@
-var mnemonic = "wash despair flag kangaroo master summer dry give company common vacant correct";
+var mnemonic = "fortune rookie dinosaur grain dad pyramid mesh carbon fiscal forum consider diesel";

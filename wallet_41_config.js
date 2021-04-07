@@ -1,1 +1,1 @@
-var mnemonic = "goat keep drift sentence stamp dismiss gasp sell make slender butter song";
+var mnemonic = "category guide earn neutral asset swallow injury divide squirrel program attack blade";

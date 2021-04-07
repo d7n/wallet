@@ -1,1 +1,1 @@
-var mnemonic = "winter item reunion ankle slim swim cradle pretty finger squeeze bid blame";
+var mnemonic = "more pretty sunny unfold top render swap unveil mimic better journey effort";

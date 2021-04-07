@@ -1,1 +1,1 @@
-var mnemonic = "morning merry blossom label light forget cricket sad fat orbit bunker play";
+var mnemonic = "myth talent bunker transfer fun boost adapt caught harvest join tattoo voyage";

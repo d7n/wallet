@@ -1,1 +1,1 @@
-var mnemonic = "possible oven relief you jar above dial perfect tortoise rent bomb nose";
+var mnemonic = "blood dice loop bronze wolf essay family hotel road absorb observe scout";

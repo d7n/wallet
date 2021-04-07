@@ -1,1 +1,1 @@
-var mnemonic = "army empower modify innocent retire steel bitter heart ketchup margin virus vicious";
+var mnemonic = "spy broccoli there demise hold obvious clever onion save enemy seat catch";

@@ -1,1 +1,1 @@
-var mnemonic = "theory dawn armed move shoe move since clean sing gentle that improve";
+var mnemonic = "young pet angry steak scene elephant habit ghost grant speak cheese enlist";

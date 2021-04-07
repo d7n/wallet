@@ -1,1 +1,1 @@
-var mnemonic = "wash correct into bird banner reduce cream few blossom three harbor liar";
+var mnemonic = "gold vault expose trouble forward vessel exhaust magic table genuine gown option";

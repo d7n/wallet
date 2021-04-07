@@ -1,1 +1,1 @@
-var mnemonic = "steak tired slogan parent all space job pet fish just sock immune";
+var mnemonic = "filter female caution pupil heart brush desk actor orange pyramid ahead receive";

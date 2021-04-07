@@ -1,1 +1,1 @@
-var mnemonic = "boring trip voyage venue ranch flush coffee fatal awful solve flag tackle";
+var mnemonic = "bind mail remain stadium course rigid divorce ability moon budget awful impact";

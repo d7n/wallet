@@ -1,1 +1,1 @@
-var mnemonic = "defy margin onion shoe crucial virtual repair village recycle grab immense absorb";
+var mnemonic = "manual thing funny sheriff spike soldier build village share view print like";

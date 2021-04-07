@@ -1,1 +1,1 @@
-var mnemonic = "task crisp object absorb about material hen try casual attract robust cupboard";
+var mnemonic = "blossom object noodle inside occur attack another flight barely gaze brisk consider";
