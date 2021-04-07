@@ -1,1 +1,1 @@
-var mnemonic = "huge suggest venue jazz hour fit insect hollow shoulder wait flash sketch";
+var mnemonic = "mind idea garlic whale song win large chunk ripple title mistake neglect";

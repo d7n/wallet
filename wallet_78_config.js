@@ -1,1 +1,1 @@
-var mnemonic = "often screen silver crack neglect filter afraid chef way exit wait curtain";
+var mnemonic = "unfair morning wave genius weird taste repair shed rib swear ahead render";

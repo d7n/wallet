@@ -1,1 +1,1 @@
-var mnemonic = "dolphin always side stadium tide fossil swim blush tiger sheriff fix area";
+var mnemonic = "soul crystal admit memory burger truly oak vicious stable raccoon whale sadness";

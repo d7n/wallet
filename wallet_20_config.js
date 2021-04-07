@@ -1,1 +1,1 @@
-var mnemonic = "ripple must carpet media wage hazard recycle crouch denial health fever advice";
+var mnemonic = "group opinion ready joy soldier ketchup hood slight alley win weird know";

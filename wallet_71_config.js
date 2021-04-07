@@ -1,1 +1,1 @@
-var mnemonic = "safe empower obscure wait vital dumb verify demise any time advice winner";
+var mnemonic = "purchase gallery extra sample close basic myth boost vendor vote glory draft";

@@ -1,1 +1,1 @@
-var mnemonic = "rude brush wrap ritual reflect return diesel cannon muffin index use heart";
+var mnemonic = "catalog carpet enroll club hockey vault clay segment income arm trust provide";

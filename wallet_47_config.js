@@ -1,1 +1,1 @@
-var mnemonic = "trophy piece tent furnace mammal pioneer glue energy artwork purchase below boil";
+var mnemonic = "boat banana soldier inhale useful celery video exotic alter young jelly bench";

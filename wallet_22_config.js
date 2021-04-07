@@ -1,1 +1,1 @@
-var mnemonic = "indicate east aisle eyebrow tenant only census rule width cream bacon tourist";
+var mnemonic = "trumpet hurdle profit proof opera pair citizen abandon fly shoot rack tissue";

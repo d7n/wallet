@@ -1,1 +1,1 @@
-var mnemonic = "puzzle damage shift chest exclude change diet soda spoil nut balcony need";
+var mnemonic = "worth space film zoo cotton edge hobby various arctic slogan add bind";

@@ -1,1 +1,1 @@
-var mnemonic = "advance order hotel normal uphold cushion confirm engine message purse guilt thought";
+var mnemonic = "valley crowd dolphin fitness clerk pupil raven initial turn army cradle sick";

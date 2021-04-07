@@ -1,1 +1,1 @@
-var mnemonic = "swift mistake once long oblige assault ancient cause weasel bronze expect cost";
+var mnemonic = "daring head lamp melt barely later skin olympic west sustain devote biology";

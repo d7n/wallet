@@ -1,1 +1,1 @@
-var mnemonic = "connect poverty electric panel cargo caution pencil unaware figure ritual duty stuff";
+var mnemonic = "wet disagree upper cart awkward leisure vendor pencil winner side assume cable";

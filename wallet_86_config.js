@@ -1,1 +1,1 @@
-var mnemonic = "vote retire hungry fantasy health winter rubber umbrella marine kidney weather ten";
+var mnemonic = "ice airport room message whisper latin accuse orphan multiply pipe sketch bright";

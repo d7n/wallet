@@ -1,1 +1,1 @@
-var mnemonic = "dust update border example extend panther task imitate display infant test fantasy";
+var mnemonic = "small parrot project river tumble among resource valve example tank rare solar";

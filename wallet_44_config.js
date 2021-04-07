@@ -1,1 +1,1 @@
-var mnemonic = "rich window fabric book recall name ankle fence hire farm slender skate";
+var mnemonic = "since insane direct change discover foam column pepper host evoke name dance";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty path december dirt cabin diesel find razor notable height search logic";
+var mnemonic = "buffalo evidence raise blur raven two butter escape one shiver rather impulse";

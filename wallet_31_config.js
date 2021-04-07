@@ -1,1 +1,1 @@
-var mnemonic = "enact stereo draft define day install chimney uncover breeze various bone pen";
+var mnemonic = "awesome ugly cruel ski life shove tooth despair disagree just valve brief";

@@ -1,1 +1,1 @@
-var mnemonic = "silent jealous fruit august divide naive slam vibrant bag twist domain federal";
+var mnemonic = "exit asset cruise build burden short column estate tackle adult evolve twelve";

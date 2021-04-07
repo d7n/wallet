@@ -1,1 +1,1 @@
-var mnemonic = "despair draft submit segment butter vessel column game relief off entry cabbage";
+var mnemonic = "ride example enough attend swap depend shift coyote crumble hour tongue term";

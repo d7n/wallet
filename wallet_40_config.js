@@ -1,1 +1,1 @@
-var mnemonic = "frame song expose shallow drastic horror very impact achieve melt where trash";
+var mnemonic = "firm shop present vapor syrup october crane paddle ladder pride unhappy eye";

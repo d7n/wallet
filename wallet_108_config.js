@@ -1,1 +1,1 @@
-var mnemonic = "brick bleak foam execute engine they add vital moral hard certain range";
+var mnemonic = "boss enroll turn coast prize embody bunker novel protect forum glory imitate";

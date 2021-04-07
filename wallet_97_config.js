@@ -1,1 +1,1 @@
-var mnemonic = "under annual grace pact south there device benefit conduct garbage gossip roast";
+var mnemonic = "pyramid sense grape wasp amount prefer peanut early series hood evolve feel";

@@ -1,1 +1,1 @@
-var mnemonic = "rain pipe faith witness fun execute hero wheat crystal place syrup soon";
+var mnemonic = "syrup render casual forest fan volcano benefit bounce coach cross ugly diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "what duty army clown annual light clean fetch foot grocery soldier embody";
+var mnemonic = "extra toast trend success novel motor ridge worth icon space company either";

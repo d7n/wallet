@@ -1,1 +1,1 @@
-var mnemonic = "flock fun poverty cancel unfold code girl praise crash length similar enjoy";
+var mnemonic = "rule permit much awkward tube want tenant paper scan easy live banana";

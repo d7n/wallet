@@ -1,1 +1,1 @@
-var mnemonic = "weapon camera trophy region else huge evoke token end feed sibling legal";
+var mnemonic = "trophy toe super oven yellow surge era spoon opera hour unit rule";

@@ -1,1 +1,1 @@
-var mnemonic = "planet canyon useful huge mammal coil endorse forum level anchor later meadow";
+var mnemonic = "balance bike exact giggle depart talent spirit height gym omit upper glad";

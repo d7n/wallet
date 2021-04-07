@@ -1,1 +1,1 @@
-var mnemonic = "current scrap emerge today fly insect accuse carry salad hamster check dog";
+var mnemonic = "bottom replace swarm pet excuse odor thing simple pass embrace spoon waste";

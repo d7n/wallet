@@ -1,1 +1,1 @@
-var mnemonic = "embody slogan hard hip kingdom jump odor web artwork have celery suggest";
+var mnemonic = "deputy lumber divorce dust example boost suffer since usage man adapt suspect";

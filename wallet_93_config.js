@@ -1,1 +1,1 @@
-var mnemonic = "insane pact novel category cheese saddle chaos already income stamp grow undo";
+var mnemonic = "nuclear catalog tornado farm sign thank narrow sheriff series list best near";

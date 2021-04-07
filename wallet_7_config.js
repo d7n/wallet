@@ -1,1 +1,1 @@
-var mnemonic = "model razor gauge blouse fine below install promote unveil lizard brass fine";
+var mnemonic = "autumn myself truth direct rug thing island notice tomato copy special legend";

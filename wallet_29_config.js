@@ -1,1 +1,1 @@
-var mnemonic = "cost question juice winter limit embrace solve expose clarify virtual upper gun";
+var mnemonic = "dove fetch walnut neutral detail exhaust talk mirror faith enable pistol museum";

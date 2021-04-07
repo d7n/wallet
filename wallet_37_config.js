@@ -1,1 +1,1 @@
-var mnemonic = "puzzle nature boring quote stage task rail raven ready width spatial vehicle";
+var mnemonic = "spawn metal spin brown donate hammer will exact reflect seven practice betray";

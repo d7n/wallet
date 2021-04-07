@@ -1,1 +1,1 @@
-var mnemonic = "immense glimpse federal zero gorilla vivid pizza market worth topple view cherry";
+var mnemonic = "find chunk rescue dish lemon round expose attend flower favorite check guess";

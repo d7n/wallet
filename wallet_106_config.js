@@ -1,1 +1,1 @@
-var mnemonic = "sound toss order salad will school whip news mad predict real know";
+var mnemonic = "shiver major ridge average pioneer answer zone device hint celery engine buyer";

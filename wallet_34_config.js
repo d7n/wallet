@@ -1,1 +1,1 @@
-var mnemonic = "film onion fever zero kitchen fancy girl pill awake make egg combine";
+var mnemonic = "audit mixed depend fragile celery aerobic soup sleep provide cry lesson stage";

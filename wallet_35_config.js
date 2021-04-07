@@ -1,1 +1,1 @@
-var mnemonic = "canal broken unit dad pistol proud thumb ecology because bless sail random";
+var mnemonic = "track brick onion edge tree flavor throw crash apart auto key record";

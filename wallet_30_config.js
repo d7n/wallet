@@ -1,1 +1,1 @@
-var mnemonic = "scrap flip scissors senior decide display thumb shuffle orange video swim beyond";
+var mnemonic = "hire mixed narrow desk plastic lion judge hire chief earth process enlist";

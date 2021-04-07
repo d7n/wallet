@@ -1,1 +1,1 @@
-var mnemonic = "squirrel trophy example lend course inherit survey joke enter pink enjoy place";
+var mnemonic = "wish truly pass able speed then cabin sail dinner hawk pistol peace";

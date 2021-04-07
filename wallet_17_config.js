@@ -1,1 +1,1 @@
-var mnemonic = "lobster runway thank trophy hazard weird vague shoe insane apart visual remember";
+var mnemonic = "settle fit candy glad system image lesson enable poet wrestle entire fatal";

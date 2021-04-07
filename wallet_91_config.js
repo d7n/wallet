@@ -1,1 +1,1 @@
-var mnemonic = "sadness ahead pigeon once alpha consider collect control network cigar dry strategy";
+var mnemonic = "series head tank swift decide unable guide hand praise master betray ski";

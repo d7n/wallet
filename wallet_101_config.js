@@ -1,1 +1,1 @@
-var mnemonic = "mistake frog arch glimpse garbage indoor slush ahead artefact zoo vanish guitar";
+var mnemonic = "average mind suggest about power follow hard fat replace tuition plunge rural";

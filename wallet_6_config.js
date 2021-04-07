@@ -1,1 +1,1 @@
-var mnemonic = "pencil farm dinner leisure purchase globe flock tank face hat oil trade";
+var mnemonic = "era kind rookie across ready reason unable elite cigar weapon home age";

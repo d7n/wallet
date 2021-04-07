@@ -1,1 +1,1 @@
-var mnemonic = "easily discover tooth angle wild nurse stick inform echo satisfy spray humor";
+var mnemonic = "tortoise online capable accuse maid volcano possible stone castle want ripple below";

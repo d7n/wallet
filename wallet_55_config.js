@@ -1,1 +1,1 @@
-var mnemonic = "olive whip deal dose when eight attend more solar narrow dry that";
+var mnemonic = "dust appear level quote whip boring neck inner ladder night lunar face";

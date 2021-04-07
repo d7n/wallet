@@ -1,1 +1,1 @@
-var mnemonic = "mad genre mail mercy solar purpose small review load nurse trade pause";
+var mnemonic = "snack bring gate menu remain era loud decide use multiply party poem";

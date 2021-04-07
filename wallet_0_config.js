@@ -1,1 +1,1 @@
-var mnemonic = "west drift holiday onion marriage scene elbow inch lawsuit aim hotel renew";
+var mnemonic = "donor lounge degree valley dance section leader hurry begin bundle defy vote";

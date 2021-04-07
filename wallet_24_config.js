@@ -1,1 +1,1 @@
-var mnemonic = "service raven marriage burst satisfy curve system display night relax arrive demise";
+var mnemonic = "wide lazy suggest atom proud marble dress decide layer coil elite monster";

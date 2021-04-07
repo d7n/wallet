@@ -1,1 +1,1 @@
-var mnemonic = "negative same over carpet method pitch embark message swap abstract cup alley";
+var mnemonic = "subway token oppose patrol flock lava prefer nature sail thank fringe consider";

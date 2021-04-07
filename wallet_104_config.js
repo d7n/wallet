@@ -1,1 +1,1 @@
-var mnemonic = "slender bird stone pigeon tomorrow code chat either praise burden casino trial";
+var mnemonic = "someone clerk husband resemble wine child toilet tray blood like brief hazard";

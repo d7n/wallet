@@ -1,1 +1,1 @@
-var mnemonic = "allow point symbol flat short round attack position ice neck tip reduce";
+var mnemonic = "spend bottom juice patient motion salmon chunk dry spin fluid silent riot";

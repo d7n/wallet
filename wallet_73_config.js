@@ -1,1 +1,1 @@
-var mnemonic = "cousin enforce modify bike glad kid defense tail spirit artefact property dragon";
+var mnemonic = "quick hundred disorder sister list awful siren human whip muffin friend debris";

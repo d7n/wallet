@@ -1,1 +1,1 @@
-var mnemonic = "celery coconut normal service stove bird toddler disease gas dress crew ability";
+var mnemonic = "slim pipe during budget amused connect reflect truth dinner huge define carpet";

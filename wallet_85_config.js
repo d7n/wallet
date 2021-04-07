@@ -1,1 +1,1 @@
-var mnemonic = "liquid stem october provide festival chest vendor march tennis concert physical manual";
+var mnemonic = "business devote twin hospital lamp fantasy second elegant pet next horror solid";

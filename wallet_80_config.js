@@ -1,1 +1,1 @@
-var mnemonic = "luxury can market blast mango local armor eight video sign end another";
+var mnemonic = "order clever cricket exercise biology catalog bunker shoulder client helmet step potato";

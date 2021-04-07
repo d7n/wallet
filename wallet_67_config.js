@@ -1,1 +1,1 @@
-var mnemonic = "behave wing smart walk deputy uncover lawn rhythm throw circle planet oven";
+var mnemonic = "extend divert tongue romance over evolve mind turkey evoke decorate wish muscle";

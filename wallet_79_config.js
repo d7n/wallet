@@ -1,1 +1,1 @@
-var mnemonic = "beyond tray vintage salt another sustain gasp school fun mirror velvet bundle";
+var mnemonic = "peanut chuckle radar fury slight pact rival virtual like outer update strike";

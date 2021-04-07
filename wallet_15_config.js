@@ -1,1 +1,1 @@
-var mnemonic = "wagon unveil evil ball tape cricket hockey drum disagree desert animal ahead";
+var mnemonic = "cotton feature screen dose rude easily hammer carpet permit mosquito bundle beyond";

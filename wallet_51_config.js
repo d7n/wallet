@@ -1,1 +1,1 @@
-var mnemonic = "romance just garment beach hurt donkey treat layer trip tackle candy runway";
+var mnemonic = "sausage ask legend make blue bread degree baby august health glue strategy";

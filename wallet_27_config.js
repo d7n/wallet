@@ -1,1 +1,1 @@
-var mnemonic = "object soup mask birth ill grid argue wise satisfy rotate carpet fault";
+var mnemonic = "still grant online glue man unfold dirt rhythm park balcony mobile swim";

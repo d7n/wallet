@@ -1,1 +1,1 @@
-var mnemonic = "coral boil rebel wide aspect crane spoil kidney elder spirit fault nature";
+var mnemonic = "unveil august license seat old grant risk insect make sun express march";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition breeze fire trumpet joke rabbit cake copper aunt fire tube wrist";
+var mnemonic = "detail erosion fox frequent recall radio penalty ahead accuse deliver fetch joy";

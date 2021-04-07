@@ -1,1 +1,1 @@
-var mnemonic = "tent two poet labor cabin toss cost term note organ charge extra";
+var mnemonic = "slush coyote potato worth flower bright surge voyage deliver ten occur occur";

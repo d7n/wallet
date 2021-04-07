@@ -1,1 +1,1 @@
-var mnemonic = "view insane poverty digital figure sing cash female elbow pretty shine lottery";
+var mnemonic = "such kite lock better bring mind pumpkin swift melody quarter toe breeze";

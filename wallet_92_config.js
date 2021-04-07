@@ -1,1 +1,1 @@
-var mnemonic = "coach morning pill travel ill capable attack doctor laugh sheriff dentist hill";
+var mnemonic = "pencil flash love myth wheat asset grace avocado snow bronze nature name";

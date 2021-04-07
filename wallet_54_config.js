@@ -1,1 +1,1 @@
-var mnemonic = "muscle lizard dawn frozen refuse worth amateur element neck knife tobacco abuse";
+var mnemonic = "model faculty crater dune oil asthma fog track gap pattern fine guilt";

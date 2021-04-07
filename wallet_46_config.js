@@ -1,1 +1,1 @@
-var mnemonic = "glow tongue refuse session best photo balcony soup silly matter belt sing";
+var mnemonic = "carpet gasp awkward approve swing zoo female enhance soul review flush control";

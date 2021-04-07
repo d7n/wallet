@@ -1,1 +1,1 @@
-var mnemonic = "maid vanish huge submit daring ridge spy under isolate claim culture grow";
+var mnemonic = "ribbon symbol update swallow clever cycle disorder calm latin share pink mail";

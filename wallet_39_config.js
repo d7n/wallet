@@ -1,1 +1,1 @@
-var mnemonic = "dentist infant tray pill juice mutual vendor alter mention require current push";
+var mnemonic = "appear city nest error stay boat arrest rich neutral purse unfold below";

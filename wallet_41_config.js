@@ -1,1 +1,1 @@
-var mnemonic = "borrow life minor dream during account confirm unable odor mystery deputy grocery";
+var mnemonic = "liberty omit feed miss power stadium gaze cream mule spread invite twelve";

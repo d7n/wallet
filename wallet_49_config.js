@@ -1,1 +1,1 @@
-var mnemonic = "subject curious again goddess coil gas ball learn beach melt fiction eternal";
+var mnemonic = "modify slender road tent blur inch element twelve awkward physical field loop";

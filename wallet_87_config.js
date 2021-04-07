@@ -1,1 +1,1 @@
-var mnemonic = "fury found promote mouse butter cereal task ripple envelope tank army cannon";
+var mnemonic = "priority smoke choice broom rail spread measure cliff talk aware cigar thank";

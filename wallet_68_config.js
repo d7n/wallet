@@ -1,1 +1,1 @@
-var mnemonic = "east lesson sting typical stone range gentle anxiety shield trap permit recycle";
+var mnemonic = "belt spike gold shadow bless sand focus sheriff muffin action cliff oval";

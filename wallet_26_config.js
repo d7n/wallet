@@ -1,1 +1,1 @@
-var mnemonic = "level blind bird alone priority enjoy subway pudding follow urge two labor";
+var mnemonic = "quick cupboard liar palace lock matter bundle owner couch side image turtle";

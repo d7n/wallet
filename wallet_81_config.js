@@ -1,1 +1,1 @@
-var mnemonic = "depart gown you exit spice fetch pond length thank brave enough chest";
+var mnemonic = "dog inside chimney cinnamon uniform shoe soldier fee strike infant toward tilt";

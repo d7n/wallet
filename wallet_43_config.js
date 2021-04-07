@@ -1,1 +1,1 @@
-var mnemonic = "tuition kiwi move burger truck blanket travel child enlist gravity public moon";
+var mnemonic = "glide collect art rapid segment night network collect bonus oblige road winter";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm industry stand lawn record flight exchange defy artwork uphold index canoe";
+var mnemonic = "snake figure escape pioneer seek artefact success bounce silly fall unlock steak";

@@ -1,1 +1,1 @@
-var mnemonic = "similar slogan fold shed street music number sustain trial enlist limit palace";
+var mnemonic = "final verify wheat allow umbrella muffin category reopen burden hunt target arrive";

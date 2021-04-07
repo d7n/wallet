@@ -1,1 +1,1 @@
-var mnemonic = "glue sustain moment kitten roof salute omit hurry material carry skin banner";
+var mnemonic = "merit emerge novel frog retreat slogan onion luxury erase away portion gospel";

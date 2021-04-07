@@ -1,1 +1,1 @@
-var mnemonic = "library athlete first loop quantum young kidney network virtual steel seek attack";
+var mnemonic = "upset cream sugar father head unit sell horn region virtual ripple there";

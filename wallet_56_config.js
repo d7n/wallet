@@ -1,1 +1,1 @@
-var mnemonic = "zero inside blouse sword panther demand rally mountain local offer scissors else";
+var mnemonic = "recipe obvious wine wrong federal convince review leopard ritual multiply busy latin";

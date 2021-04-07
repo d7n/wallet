@@ -1,1 +1,1 @@
-var mnemonic = "join region know helmet pole garage crunch search walnut vault creek hurdle";
+var mnemonic = "tube minute mandate absurd swamp loyal report grocery scatter shallow tunnel unable";

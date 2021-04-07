@@ -1,1 +1,1 @@
-var mnemonic = "jeans turn trend sting current blanket parrot law saddle route analyst manage";
+var mnemonic = "laugh dose charge plastic entry rifle choose detail trash cost top match";

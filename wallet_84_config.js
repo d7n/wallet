@@ -1,1 +1,1 @@
-var mnemonic = "profit check impose tent theme rely illness point opera toast local finish";
+var mnemonic = "kidney tide elbow coach cannon plate beef mimic kick foil boss scrub";

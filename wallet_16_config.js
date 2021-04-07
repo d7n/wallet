@@ -1,1 +1,1 @@
-var mnemonic = "dad knock snack virtual luxury animal also human engage dust hedgehog before";
+var mnemonic = "own mass metal inherit valid use mail clay art slab grocery dove";

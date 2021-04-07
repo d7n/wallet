@@ -1,1 +1,1 @@
-var mnemonic = "outside sure style fitness blood sense limb main avoid fancy find plastic";
+var mnemonic = "later club bacon whisper video pen review glimpse iron arrive nurse client";

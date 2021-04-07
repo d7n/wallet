@@ -1,1 +1,1 @@
-var mnemonic = "quarter become monster urban bicycle win route helmet swing elegant legal gauge";
+var mnemonic = "foil kidney ceiling cereal spawn front bottom slight stay scrap excite group";

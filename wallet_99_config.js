@@ -1,1 +1,1 @@
-var mnemonic = "foam explain power race frequent invite slam noodle year zebra exhaust leg";
+var mnemonic = "action timber blind practice uncle review dismiss toe crumble medal neck effort";

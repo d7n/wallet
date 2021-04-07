@@ -1,1 +1,1 @@
-var mnemonic = "comfort put divert much rifle chapter noodle foster noodle tower dizzy pioneer";
+var mnemonic = "fiction state twin mouse glare corn potato swear seek need glide boost";

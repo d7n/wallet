@@ -1,1 +1,1 @@
-var mnemonic = "museum uncover release wrap goddess buffalo humor sheriff myself patient skate rally";
+var mnemonic = "merge stomach canvas trap vessel mom hat reform olympic shine click tumble";

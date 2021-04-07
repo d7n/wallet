@@ -1,1 +1,1 @@
-var mnemonic = "bomb message kit easy assist auction ensure face aware modify punch monster";
+var mnemonic = "bubble excite ostrich boost rare warm hundred barely license run mimic strong";

@@ -1,1 +1,1 @@
-var mnemonic = "evil lunar label mixed coffee injury glance alarm round orchard minute clock";
+var mnemonic = "sorry hospital sibling dial yard keen jump huge nuclear notable icon disagree";

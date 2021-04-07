@@ -1,1 +1,1 @@
-var mnemonic = "behave stool fine host cricket enact double attitude ask dilemma witness swift";
+var mnemonic = "wing table vanish fix apple couch rocket interest dragon exact copper neglect";
