@@ -1,1 +1,1 @@
-var mnemonic = "peasant airport square scatter net crop link win able normal police rose";
+var mnemonic = "suffer decline myself bird hard denial wood relax critic armor robot slow";

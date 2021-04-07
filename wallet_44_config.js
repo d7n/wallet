@@ -1,1 +1,1 @@
-var mnemonic = "east teach general heart tragic nasty grunt pond say catch bacon rally";
+var mnemonic = "language legal soup spawn ranch arm sting reduce primary harvest minor depart";

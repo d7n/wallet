@@ -1,1 +1,1 @@
-var mnemonic = "party alpha cement pioneer toast potato autumn major you increase cereal seat";
+var mnemonic = "lawn play immense oak flash tiny glass loop road tomato illegal man";

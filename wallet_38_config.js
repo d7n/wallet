@@ -1,1 +1,1 @@
-var mnemonic = "elder winter tilt afraid rigid stereo dance shock there grit history despair";
+var mnemonic = "unaware purchase waste answer soon crush curve cherry define subject rude alley";

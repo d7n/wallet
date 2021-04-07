@@ -1,1 +1,1 @@
-var mnemonic = "twin country wrong then bid advice coconut bundle below celery pact write";
+var mnemonic = "lab task tail food maximum cushion essence consider outside scare analyst organ";

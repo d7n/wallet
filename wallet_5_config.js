@@ -1,1 +1,1 @@
-var mnemonic = "juice drill opinion develop clap axis range vapor multiply dolphin review surround";
+var mnemonic = "blood century steak regret pave brother music equip find shop robust ocean";

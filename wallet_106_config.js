@@ -1,1 +1,1 @@
-var mnemonic = "media rocket security foot legend total offer orient faculty camera banana fork";
+var mnemonic = "air pond this innocent become rookie acoustic erode seed wrong cause intact";

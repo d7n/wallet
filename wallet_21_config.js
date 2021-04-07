@@ -1,1 +1,1 @@
-var mnemonic = "clean mule gospel predict horror naive praise amount salon adjust kit solid";
+var mnemonic = "endorse bring tobacco clump knock reduce flock forum vendor stumble erosion tag";

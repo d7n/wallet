@@ -1,1 +1,1 @@
-var mnemonic = "say damp domain column panic impact field biology south concert apart secret";
+var mnemonic = "frown caution possible useful join metal patient despair chunk stuff exhaust slight";

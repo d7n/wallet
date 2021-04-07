@@ -1,1 +1,1 @@
-var mnemonic = "scout agent game pudding vast unknown describe bronze bargain horror cliff couple";
+var mnemonic = "elder happy company web list over vocal exact witness room emerge whale";

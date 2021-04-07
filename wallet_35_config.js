@@ -1,1 +1,1 @@
-var mnemonic = "tennis elephant sock canvas innocent hundred nasty vocal ride fall spring bid";
+var mnemonic = "home fog cage divert work drastic bamboo office dice easily fall aware";

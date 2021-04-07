@@ -1,1 +1,1 @@
-var mnemonic = "gun logic hat beef head text chief behind blood style chapter tree";
+var mnemonic = "green input baby sadness meat base assist saddle sock infant round injury";

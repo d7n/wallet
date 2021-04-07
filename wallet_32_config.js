@@ -1,1 +1,1 @@
-var mnemonic = "there pattern later advice blue economy stable adjust promote beauty thunder antique";
+var mnemonic = "update indoor elegant cinnamon large axis reduce nerve idea noodle injury yard";

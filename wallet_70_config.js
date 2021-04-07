@@ -1,1 +1,1 @@
-var mnemonic = "advice boil push garden that nuclear dirt soup hungry prevent market liquid";
+var mnemonic = "park rail plug stem portion buddy tiny poverty rug push jeans correct";

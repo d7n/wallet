@@ -1,1 +1,1 @@
-var mnemonic = "year post hunt discover deny ostrich glance express scene viable funny piano";
+var mnemonic = "demise puppy steak chat donor atom front domain ordinary whip envelope gloom";

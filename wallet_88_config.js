@@ -1,1 +1,1 @@
-var mnemonic = "replace bacon enemy swing agent track guide traffic stage spray universe army";
+var mnemonic = "title grid outer bench permit great muffin midnight desert kitchen mirror grunt";

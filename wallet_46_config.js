@@ -1,1 +1,1 @@
-var mnemonic = "slight skirt notable front coil elbow judge truck display juice soda rural";
+var mnemonic = "beach girl wink layer state filter live wheel universe habit scale depth";

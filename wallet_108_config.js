@@ -1,1 +1,1 @@
-var mnemonic = "tree they donkey decorate library innocent blade jeans alley budget must resemble";
+var mnemonic = "remind occur meadow matrix long unit purpose match open maze medal list";

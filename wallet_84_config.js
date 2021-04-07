@@ -1,1 +1,1 @@
-var mnemonic = "label name repair extend voyage figure flavor hire maximum agree fog balcony";
+var mnemonic = "sun trap clutch march dune crime sniff jaguar pumpkin pilot question pass";

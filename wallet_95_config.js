@@ -1,1 +1,1 @@
-var mnemonic = "wrist decrease typical recall drum live solution grape quiz medal work thunder";
+var mnemonic = "utility equip cactus mandate crazy manage snack possible exit stem poverty feed";

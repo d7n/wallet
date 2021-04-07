@@ -1,1 +1,1 @@
-var mnemonic = "narrow room update noodle fold pitch busy slot arm basket random reveal";
+var mnemonic = "camera wheat shrimp treat come face width economy shadow artwork example sadness";

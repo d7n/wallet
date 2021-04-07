@@ -1,1 +1,1 @@
-var mnemonic = "achieve tree pair spy river question master foster ski mind ribbon easily";
+var mnemonic = "math round grief student scrub tomorrow moon animal talent behave stuff order";

@@ -1,1 +1,1 @@
-var mnemonic = "until alert able seat return taste decide social include amazing gift ankle";
+var mnemonic = "quarter breeze neck fat immune merit paddle fashion shoot matrix leg project";

@@ -1,1 +1,1 @@
-var mnemonic = "doll apple rabbit arm abandon hurry pelican poverty bridge enemy divert embark";
+var mnemonic = "danger gold nurse cotton into conduct oak lumber badge theme mixed sausage";

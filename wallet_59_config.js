@@ -1,1 +1,1 @@
-var mnemonic = "push aware minute glide link way scissors balcony access agree creek catalog";
+var mnemonic = "traffic solid spoon rough rug wreck regret engine identify lady shell helmet";

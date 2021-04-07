@@ -1,1 +1,1 @@
-var mnemonic = "mystery draft onion cup fog depend infant swallow inspire piano cluster ceiling";
+var mnemonic = "corn drum pig laptop furnace fruit search wonder cream filter invest rule";

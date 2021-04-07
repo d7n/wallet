@@ -1,1 +1,1 @@
-var mnemonic = "dad source legal sock example chicken depth brand aisle foam liar can";
+var mnemonic = "veteran frame arm cigar merge sleep spoon tragic split blush pull shrug";

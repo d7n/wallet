@@ -1,1 +1,1 @@
-var mnemonic = "gun gentle essence famous law life soon sword team sorry return easily";
+var mnemonic = "honey mouse obscure tape improve kite control unlock tail step snow divorce";

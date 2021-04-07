@@ -1,1 +1,1 @@
-var mnemonic = "occur pitch donkey rate similar disorder famous whale history pigeon toddler mango";
+var mnemonic = "ancient gather card nose update major invest lamp cube length snack exotic";

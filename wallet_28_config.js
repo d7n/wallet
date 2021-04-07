@@ -1,1 +1,1 @@
-var mnemonic = "aisle rain anger volcano supreme degree hybrid october notable improve chuckle type";
+var mnemonic = "cart bench dance situate army near radio chimney art subway step push";

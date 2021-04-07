@@ -1,1 +1,1 @@
-var mnemonic = "left cake setup letter admit month stone side high later battle bamboo";
+var mnemonic = "cliff canvas pulp blue hungry rack mail love pattern glove news tank";

@@ -1,1 +1,1 @@
-var mnemonic = "sword ski bag width main puzzle educate turkey hat margin legal popular";
+var mnemonic = "track glass embrace main expand butter brisk high rose swarm garment flower";

@@ -1,1 +1,1 @@
-var mnemonic = "speak safe expose possible first claim health truth figure dove robot master";
+var mnemonic = "original outside common core license flight canoe ritual caution creek happy scan";

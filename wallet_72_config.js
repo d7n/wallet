@@ -1,1 +1,1 @@
-var mnemonic = "paper celery flag mean submit cement join raccoon entry speed enact base";
+var mnemonic = "pupil broken erosion glow lottery lion fragile paddle blame blanket evil fetch";

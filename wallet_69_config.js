@@ -1,1 +1,1 @@
-var mnemonic = "mechanic ordinary seek favorite fish allow display citizen boat draw morning tennis";
+var mnemonic = "mule hundred obvious idea image remain define small chicken setup cradle celery";

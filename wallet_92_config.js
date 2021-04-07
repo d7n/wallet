@@ -1,1 +1,1 @@
-var mnemonic = "surge wreck edge wait make wreck venture quantum immune situate vendor method";
+var mnemonic = "page combine price force gaze outer meadow giggle celery rather hold card";

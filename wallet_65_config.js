@@ -1,1 +1,1 @@
-var mnemonic = "body steel muffin grunt harbor wet thunder planet time test inside forest";
+var mnemonic = "initial bike bleak custom leopard loan solve give extra casual section sign";

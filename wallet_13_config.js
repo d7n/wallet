@@ -1,1 +1,1 @@
-var mnemonic = "element since siege arrest giggle toward member tree imitate gym destroy party";
+var mnemonic = "tower caution clean ship excess tragic symptom usual address apart friend airport";

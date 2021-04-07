@@ -1,1 +1,1 @@
-var mnemonic = "scan ensure bamboo ancient know fix home furnace treat alone spirit uphold";
+var mnemonic = "board athlete arm emotion group raise oven dance simple cave echo east";

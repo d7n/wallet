@@ -1,1 +1,1 @@
-var mnemonic = "wrestle craft elegant ginger episode claw expire equip game record decide journey";
+var mnemonic = "bargain drip space physical bullet alley air pumpkin voice since thumb teach";

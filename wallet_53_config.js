@@ -1,1 +1,1 @@
-var mnemonic = "jealous also unaware stable feed prepare remember work group chicken cross tiny";
+var mnemonic = "zone border fence clip diary romance umbrella edge nephew page result salute";

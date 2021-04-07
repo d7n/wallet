@@ -1,1 +1,1 @@
-var mnemonic = "stem again floor defense purse rather season survey strong mixed govern skill";
+var mnemonic = "bargain bottom exit orchard better ghost spoon thought climb sport luxury stuff";

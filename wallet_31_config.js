@@ -1,1 +1,1 @@
-var mnemonic = "crop ignore fish glance bulk forward sadness diet buzz harbor real model";
+var mnemonic = "frame junior sight sick crystal crop unhappy run math fall proud tired";

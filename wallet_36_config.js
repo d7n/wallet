@@ -1,1 +1,1 @@
-var mnemonic = "elite antique usage exhibit cushion entire invest super rival village truly fossil";
+var mnemonic = "group follow make duty inherit diet mechanic claw walk page art chest";

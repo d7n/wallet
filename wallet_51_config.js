@@ -1,1 +1,1 @@
-var mnemonic = "cruel crumble list basket thought office winner hand lonely chunk shrimp cricket";
+var mnemonic = "garage humble this close increase diamond wonder begin miss conduct donor stick";

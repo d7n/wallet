@@ -1,1 +1,1 @@
-var mnemonic = "put roast click copy torch pioneer humor intact glow ask equip stove";
+var mnemonic = "brass wheel happy danger erase recycle pioneer subject detail title output afford";

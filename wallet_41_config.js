@@ -1,1 +1,1 @@
-var mnemonic = "upon advice acoustic tool section food person city often document wreck blanket";
+var mnemonic = "cabin banner logic beef seat group year frog eagle deliver park gun";

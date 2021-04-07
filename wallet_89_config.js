@@ -1,1 +1,1 @@
-var mnemonic = "muffin wrong access stadium atom whale chicken fashion switch pole invest adapt";
+var mnemonic = "size upgrade car one picture immense casual mean school number inflict prefer";

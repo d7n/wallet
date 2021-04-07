@@ -1,1 +1,1 @@
-var mnemonic = "announce mutual front social gravity tomato swift design suspect silk junk together";
+var mnemonic = "time key author excess this loyal inner illness online eyebrow someone increase";

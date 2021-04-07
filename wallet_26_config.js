@@ -1,1 +1,1 @@
-var mnemonic = "crisp fatigue lyrics axis rifle lawsuit neglect very cube advance ancient rude";
+var mnemonic = "gesture onion cook sail enforce sketch pear march knee this remove cook";

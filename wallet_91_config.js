@@ -1,1 +1,1 @@
-var mnemonic = "much blood valid dove autumn august seek transfer battle system pudding wrap";
+var mnemonic = "moon cluster foot surface valid scatter together dog dune real voyage trigger";

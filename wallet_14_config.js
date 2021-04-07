@@ -1,1 +1,1 @@
-var mnemonic = "vacant shoot share renew armor axis lucky sign denial cute example snake";
+var mnemonic = "wage roof tragic kite occur child false jacket insane expect this list";

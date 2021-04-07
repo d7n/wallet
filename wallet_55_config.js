@@ -1,1 +1,1 @@
-var mnemonic = "month seven phone stereo actress can just chair sell grocery apology enjoy";
+var mnemonic = "lady gym toddler birth govern monster region cushion genius weird panther damage";

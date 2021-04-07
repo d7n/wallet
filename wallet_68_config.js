@@ -1,1 +1,1 @@
-var mnemonic = "this ten thought rule ask family wedding ritual idle umbrella inject cabbage";
+var mnemonic = "session chuckle frozen obey nice exile scissors armor flavor fury lizard debate";

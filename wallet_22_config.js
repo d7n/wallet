@@ -1,1 +1,1 @@
-var mnemonic = "common anchor canyon iron rate wreck february cupboard gospel helmet nest beef";
+var mnemonic = "left jealous thrive predict fly occur embrace girl island square make deliver";

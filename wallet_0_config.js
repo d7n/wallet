@@ -1,1 +1,1 @@
-var mnemonic = "glare punch patrol poverty tape message chaos arm still scale saddle evoke";
+var mnemonic = "glad dwarf empower party fame name tower violin drill inspire museum wheat";

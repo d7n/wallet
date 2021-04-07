@@ -1,1 +1,1 @@
-var mnemonic = "vehicle bomb doll scrub fever pride flag liquid neglect horse beef more";
+var mnemonic = "panda gloom salt winner fork voice quit huge copper observe execute dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "human museum convince pave boil potato anxiety cross little vehicle puzzle cinnamon";
+var mnemonic = "bachelor ball hole half cousin ethics enter trade potato effort emotion plug";

@@ -1,1 +1,1 @@
-var mnemonic = "stool company scare volume upon bomb execute net moral round mule convince";
+var mnemonic = "wood network dice trick loyal echo design assume price kitten blind load";

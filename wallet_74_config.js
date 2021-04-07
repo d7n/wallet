@@ -1,1 +1,1 @@
-var mnemonic = "impact delay junk cruise omit fitness ensure cruel crazy issue another fix";
+var mnemonic = "rather pull equal wink tuna model parrot jaguar scout urban deposit diary";

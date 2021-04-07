@@ -1,1 +1,1 @@
-var mnemonic = "mandate feature achieve noise rough consider sleep junk card canyon spike mercy";
+var mnemonic = "twenty inherit subway chair trigger kind hazard regret buyer help control stool";

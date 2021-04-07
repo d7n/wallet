@@ -1,1 +1,1 @@
-var mnemonic = "people glare thunder hero false gate cruise call latin mercy matrix trade";
+var mnemonic = "cactus month jazz label bonus tooth crush illegal rich skill amused differ";

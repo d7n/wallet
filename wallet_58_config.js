@@ -1,1 +1,1 @@
-var mnemonic = "shiver survey hope zero pause zero tray open upon explain toilet tomorrow";
+var mnemonic = "control pact thank situate machine unknown civil degree select viable choose detail";

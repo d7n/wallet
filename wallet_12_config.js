@@ -1,1 +1,1 @@
-var mnemonic = "potato hood dynamic ocean knife nothing reform air goose exact save acquire";
+var mnemonic = "smooth rate escape hammer toe secret talent spring more hub want cram";

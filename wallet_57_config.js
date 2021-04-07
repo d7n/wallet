@@ -1,1 +1,1 @@
-var mnemonic = "wire snake ketchup horror domain cinnamon cherry latin sail radar coach pipe";
+var mnemonic = "engage kite lottery toast deny genius giggle toy major harvest obscure guard";

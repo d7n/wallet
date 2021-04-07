@@ -1,1 +1,1 @@
-var mnemonic = "bright kitten image eyebrow trend silk oven kitten grace social exotic rug";
+var mnemonic = "knife ski desert sunny wash scheme peanut bag school leg leave sting";

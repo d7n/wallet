@@ -1,1 +1,1 @@
-var mnemonic = "middle ship sugar identify crystal above april notable enemy ten obtain breeze";
+var mnemonic = "unique connect convince perfect install hedgehog search switch method load repeat bonus";

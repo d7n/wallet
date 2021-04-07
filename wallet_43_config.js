@@ -1,1 +1,1 @@
-var mnemonic = "walk volume prepare bind sword siege hero derive season story ticket attract";
+var mnemonic = "bomb ankle retreat wife before multiply wreck average scrub possible someone list";

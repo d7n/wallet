@@ -1,1 +1,1 @@
-var mnemonic = "forest know hire remove hawk funny detail legal conduct setup tide chair";
+var mnemonic = "kite way steak draft situate abstract speak repair try discover blush awful";

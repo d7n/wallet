@@ -1,1 +1,1 @@
-var mnemonic = "ignore remove laugh lyrics napkin fee gaze valid region lunch airport pact";
+var mnemonic = "online rabbit script area run offer ocean pioneer slab planet change humor";

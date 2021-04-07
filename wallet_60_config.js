@@ -1,1 +1,1 @@
-var mnemonic = "crisp pause syrup neglect wealth predict chat grunt amazing verb amazing okay";
+var mnemonic = "risk denial camp drama chair wash doctor velvet kidney grass stamp long";

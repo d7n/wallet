@@ -1,1 +1,1 @@
-var mnemonic = "slogan buddy spare candy fringe seven orbit bike music erupt choose laptop";
+var mnemonic = "galaxy trouble owner steel demise crucial vanish increase perfect razor phrase family";

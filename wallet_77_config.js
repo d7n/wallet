@@ -1,1 +1,1 @@
-var mnemonic = "list loop flag page meadow nurse field amount nose lounge calm sell";
+var mnemonic = "issue exclude flush render stage nothing language owner wife caution recall ribbon";

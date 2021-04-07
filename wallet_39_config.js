@@ -1,1 +1,1 @@
-var mnemonic = "lazy expose warrior stadium radar purity panda lens imitate jungle marble shrug";
+var mnemonic = "young oblige fan gap canvas local photo wish race swallow music mother";

@@ -1,1 +1,1 @@
-var mnemonic = "desert lawsuit diagram daring vivid canoe novel cricket distance ankle rose turn";
+var mnemonic = "thank wash tool quote knock maid burst jaguar bunker dumb coffee deal";

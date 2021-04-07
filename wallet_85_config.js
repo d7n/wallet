@@ -1,1 +1,1 @@
-var mnemonic = "random forget stomach seat system loan outdoor front catch resemble pelican uniform";
+var mnemonic = "nose stem pole lady maximum park art tornado special pledge office vapor";

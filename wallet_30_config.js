@@ -1,1 +1,1 @@
-var mnemonic = "quit slab place cloth exact major tribe impulse firm mom vendor artwork";
+var mnemonic = "inhale flee sting shift crash disease pitch taxi section torch divert team";

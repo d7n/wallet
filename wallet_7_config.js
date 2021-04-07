@@ -1,1 +1,1 @@
-var mnemonic = "goddess total protect will weather emotion decorate gaze weasel trade federal change";
+var mnemonic = "village pond gloom skate control stamp raise fresh lecture resemble kite spider";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist raw luxury found capable second during fence crime shell breeze gauge";
+var mnemonic = "accident cash surface shadow put salute pool home shuffle margin live fence";

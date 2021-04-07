@@ -1,1 +1,1 @@
-var mnemonic = "ozone auto atom unhappy display chest term fury tissue nephew craft love";
+var mnemonic = "allow garlic cherry senior jungle gap split injury axis dust charge promote";

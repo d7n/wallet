@@ -1,1 +1,1 @@
-var mnemonic = "across emotion cage remind mansion sleep obtain transfer squeeze access chimney praise";
+var mnemonic = "slush autumn auction nature decrease orbit wire fiction banana upgrade soup liar";

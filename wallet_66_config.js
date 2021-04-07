@@ -1,1 +1,1 @@
-var mnemonic = "tired palace buzz surge faculty make grass remove crowd alien rally stage";
+var mnemonic = "skate tell aim remind ball crop mobile file change type once mother";

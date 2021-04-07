@@ -1,1 +1,1 @@
-var mnemonic = "faint stick lucky soon real dream bread wise owner spray horn suggest";
+var mnemonic = "fly buddy emerge grab they cheese alter calm toilet ketchup run bone";

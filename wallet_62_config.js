@@ -1,1 +1,1 @@
-var mnemonic = "ramp engine paddle spend fantasy layer unveil cement click degree ridge culture";
+var mnemonic = "dentist real table curious walk trophy afford sniff vault sister sort just";

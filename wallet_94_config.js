@@ -1,1 +1,1 @@
-var mnemonic = "little season opinion spice typical because program fabric thumb resemble harvest tenant";
+var mnemonic = "script pride cousin room spike satisfy circle upgrade people mention cabbage code";

@@ -1,1 +1,1 @@
-var mnemonic = "drill shuffle trim float phone wage photo faint seek umbrella hard gorilla";
+var mnemonic = "meadow soup curtain air decrease torch acid verify labor dog gap cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow pull caution echo any reopen coil load buzz peasant gown chef";
+var mnemonic = "either adapt puzzle buffalo dilemma need keen humble aunt verb spice voyage";

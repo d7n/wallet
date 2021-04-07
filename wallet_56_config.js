@@ -1,1 +1,1 @@
-var mnemonic = "mom aware middle eagle romance cliff gesture uncover defy total play spike";
+var mnemonic = "just quote between city minor smoke speed gather funny predict nice gather";

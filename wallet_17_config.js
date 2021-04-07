@@ -1,1 +1,1 @@
-var mnemonic = "describe unusual flight possible lend option already boil design palm service couch";
+var mnemonic = "warfare anxiety monkey avoid chest surface prefer bundle blue husband slogan taste";

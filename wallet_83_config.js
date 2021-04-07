@@ -1,1 +1,1 @@
-var mnemonic = "trash hundred forest clinic door multiply exact lion setup runway family brass";
+var mnemonic = "stand sunny reopen inherit involve weekend feel bullet believe swim talk banner";
