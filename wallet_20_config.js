@@ -1,1 +1,1 @@
-var mnemonic = "science remember smart demise acoustic drop panda prize mushroom door only athlete";
+var mnemonic = "paddle height fall game moral syrup any sheriff fire sell boost matrix";

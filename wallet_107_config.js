@@ -1,1 +1,1 @@
-var mnemonic = "satisfy prosper bread regret when smart enrich audit essence spot pair reopen";
+var mnemonic = "orange material spawn index dolphin maximum insect music problem title muffin shoulder";

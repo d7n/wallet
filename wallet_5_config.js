@@ -1,1 +1,1 @@
-var mnemonic = "emotion play combine include must mouse trick festival kind narrow saddle ten";
+var mnemonic = "initial acid bounce merge civil unhappy ginger social cargo inspire turkey hotel";

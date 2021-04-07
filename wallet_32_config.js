@@ -1,1 +1,1 @@
-var mnemonic = "pistol rebuild area cash coast ritual execute poverty cradle blouse manual cool";
+var mnemonic = "nephew when prevent alert slab dash hockey damp eagle accident image area";

@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo guitar gadget flash joke middle december visit horn method feel half";
+var mnemonic = "inquiry earn clock consider round usual fat vacuum heart away disorder twelve";

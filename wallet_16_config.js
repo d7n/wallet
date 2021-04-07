@@ -1,1 +1,1 @@
-var mnemonic = "reduce note sea dinner seek chimney beef dolphin gaze dry south ritual";
+var mnemonic = "humble wool borrow sport false say two labor cube response service crater";

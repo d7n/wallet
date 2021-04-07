@@ -1,1 +1,1 @@
-var mnemonic = "fish decrease silent review juice doctor hurry scheme faint bird dragon vendor";
+var mnemonic = "arch conduct quarter light fatal roof bullet fiscal exotic absurd best wild";

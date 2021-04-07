@@ -1,1 +1,1 @@
-var mnemonic = "when disease shiver spoon medal ketchup loan network clump test device cup";
+var mnemonic = "try memory around aspect sick frequent latin awkward spare frown swamp foot";

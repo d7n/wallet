@@ -1,1 +1,1 @@
-var mnemonic = "crucial click diet nature outdoor pear either song unit bus allow repeat";
+var mnemonic = "left kitten fossil leisure surface oak extend later steel adult pear element";

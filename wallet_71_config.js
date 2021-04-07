@@ -1,1 +1,1 @@
-var mnemonic = "basic that capital one vanish horror become brother benefit stable play height";
+var mnemonic = "account taste eternal satisfy photo bless final stock float unfair define office";

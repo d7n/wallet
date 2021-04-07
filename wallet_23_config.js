@@ -1,1 +1,1 @@
-var mnemonic = "cherry hurt negative chicken crime knock box ship hotel void bottom used";
+var mnemonic = "holiday despair local favorite spice what amount room gossip snap access squeeze";

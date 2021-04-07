@@ -1,1 +1,1 @@
-var mnemonic = "bubble lizard ramp summer model switch idle wait practice will can alien";
+var mnemonic = "island muscle jar party token final sound oven metal balance keen horse";

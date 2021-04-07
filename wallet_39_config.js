@@ -1,1 +1,1 @@
-var mnemonic = "gown build hundred glove lawn jungle mistake rapid pioneer amount robust bid";
+var mnemonic = "hollow swear equal hair liberty movie whale jazz ocean toast middle proof";

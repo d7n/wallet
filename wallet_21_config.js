@@ -1,1 +1,1 @@
-var mnemonic = "woman erupt wise indoor describe assist simple gadget suffer must midnight bench";
+var mnemonic = "govern fork melt trust test drastic choice cloud galaxy engage dirt bundle";

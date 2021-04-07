@@ -1,1 +1,1 @@
-var mnemonic = "day alien enrich group alley skin author concert muscle donkey soccer glow";
+var mnemonic = "infant apology tower exhaust amused sport panda pretty federal ecology visual confirm";

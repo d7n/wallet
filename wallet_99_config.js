@@ -1,1 +1,1 @@
-var mnemonic = "renew push scout swim target van into like half judge figure ahead";
+var mnemonic = "chicken educate size test tobacco slice fever venue upset drastic slice crop";

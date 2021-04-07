@@ -1,1 +1,1 @@
-var mnemonic = "switch rather result road math come fiber powder real margin earn legend";
+var mnemonic = "ginger fade assault unlock battle wheat swift law inch reduce girl milk";

@@ -1,1 +1,1 @@
-var mnemonic = "mind put estate cost barely mind genius city mirror screen diesel crowd";
+var mnemonic = "huge member parent spoon stamp eight wine stem improve convince rare miss";

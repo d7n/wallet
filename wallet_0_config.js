@@ -1,1 +1,1 @@
-var mnemonic = "bundle assume window suffer pave ten traffic matter vocal obvious fish source";
+var mnemonic = "note another slow artefact follow ridge spin walk render rain motion noise";

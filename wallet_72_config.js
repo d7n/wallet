@@ -1,1 +1,1 @@
-var mnemonic = "control order radio addict own couple mandate latin level town swim couple";
+var mnemonic = "notice crack toe together mixture piano rice alone ice pond intact term";

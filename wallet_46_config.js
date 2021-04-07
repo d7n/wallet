@@ -1,1 +1,1 @@
-var mnemonic = "tree keep bright army regular horror patrol quote merit lady amused clown";
+var mnemonic = "upgrade top matrix crop beauty comic shrimp rapid identify company leaf error";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz feed portion earth tourist magic rain latin bullet blouse replace wrong";
+var mnemonic = "find simple eager resist bar clog unique reduce allow invest degree example";

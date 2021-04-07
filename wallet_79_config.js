@@ -1,1 +1,1 @@
-var mnemonic = "celery intact seven acid acid rebel hello hand useful ethics woman mass";
+var mnemonic = "soul inhale surge neglect range drama hundred glory later short earth become";

@@ -1,1 +1,1 @@
-var mnemonic = "announce later explain narrow segment quit angle whale cargo ozone sauce vast";
+var mnemonic = "print mandate cup guilt balance blush print race rotate mansion stomach essence";

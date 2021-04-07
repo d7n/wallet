@@ -1,1 +1,1 @@
-var mnemonic = "lemon kitchen sleep spring cigar bomb kitten fish sunny syrup glad put";
+var mnemonic = "bread weasel escape wasp paper way snow river uniform tree already express";

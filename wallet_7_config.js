@@ -1,1 +1,1 @@
-var mnemonic = "switch unfair coach certain flame bean fine dentist admit sunny fatal office";
+var mnemonic = "sheriff club tent man tooth bright trick impact message void one coyote";

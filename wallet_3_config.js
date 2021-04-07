@@ -1,1 +1,1 @@
-var mnemonic = "copper dry nasty estate walnut waste fold business quick loan purpose ensure";
+var mnemonic = "husband cattle excess cream coast rain right dwarf quit gospel blush because";

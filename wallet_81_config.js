@@ -1,1 +1,1 @@
-var mnemonic = "point favorite fat axis charge west boil hollow autumn exist join provide";
+var mnemonic = "excess stomach sense casino moon pyramid wink service move stamp describe invite";

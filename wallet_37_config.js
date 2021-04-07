@@ -1,1 +1,1 @@
-var mnemonic = "harsh churn nurse early magnet pact scatter relax decorate theme clog teach";
+var mnemonic = "empty task donor list grant plunge begin collect fold artwork loop unfold";

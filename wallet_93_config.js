@@ -1,1 +1,1 @@
-var mnemonic = "moral profit conduct bid increase mountain teach agent brisk quarter holiday upset";
+var mnemonic = "fiber social mule priority digital prosper fossil machine air empower reopen foot";

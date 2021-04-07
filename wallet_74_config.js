@@ -1,1 +1,1 @@
-var mnemonic = "sleep voice broken wink glove artwork reopen muffin hold acid jungle energy";
+var mnemonic = "quick icon bachelor december hammer brick cave flip indicate tomato manage celery";

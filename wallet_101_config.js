@@ -1,1 +1,1 @@
-var mnemonic = "guilt bachelor depart rude salute unaware film have flower circle sadness weird";
+var mnemonic = "camera occur liar minimum party category tape spirit ladder access raven eagle";

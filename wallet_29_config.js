@@ -1,1 +1,1 @@
-var mnemonic = "unit nasty old curious vacuum fluid depart violin camera cash winter resource";
+var mnemonic = "include left private blood major pistol soft suspect alert puppy upon help";

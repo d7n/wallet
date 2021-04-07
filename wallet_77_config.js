@@ -1,1 +1,1 @@
-var mnemonic = "open have high fold office setup message jelly fly broken empty idea";
+var mnemonic = "color protect assault pizza exotic sheriff sea machine language acid quarter sail";

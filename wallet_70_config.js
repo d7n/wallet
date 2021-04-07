@@ -1,1 +1,1 @@
-var mnemonic = "length witness interest stamp solve dinner time near badge bind believe guard";
+var mnemonic = "matrix diet siren behave duty hammer cage lawn little angle impulse thumb";

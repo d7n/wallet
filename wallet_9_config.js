@@ -1,1 +1,1 @@
-var mnemonic = "industry palace umbrella pride correct layer curve dismiss glory glare wet question";
+var mnemonic = "atom cabbage ball there usual gym badge area stereo arch choose casino";

@@ -1,1 +1,1 @@
-var mnemonic = "access dinner slide dutch pair royal float dinosaur segment hip measure whale";
+var mnemonic = "neglect fatigue fly layer anxiety convince sugar timber season bronze arctic pulse";

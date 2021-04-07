@@ -1,1 +1,1 @@
-var mnemonic = "fit bag code utility situate drum walnut wagon wheel glory secret screen";
+var mnemonic = "exotic session casual cause junior they task absent trend wool program neck";

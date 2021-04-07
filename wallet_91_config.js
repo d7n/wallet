@@ -1,1 +1,1 @@
-var mnemonic = "couple detail champion eternal panic cabin fetch fetch furnace arm rocket sword";
+var mnemonic = "hurry also thrive family peasant weird balcony trick chair bachelor trust quality";

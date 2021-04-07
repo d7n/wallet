@@ -1,1 +1,1 @@
-var mnemonic = "vendor chalk lens sock post lemon trigger laugh video obtain jungle veteran";
+var mnemonic = "cattle myself sure danger tomorrow winner flat west repair fit pause response";

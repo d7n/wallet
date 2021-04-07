@@ -1,1 +1,1 @@
-var mnemonic = "jar purchase beyond prevent science duck elite kid human coin innocent brave";
+var mnemonic = "link front symptom whale lady opera original educate position total nasty lucky";

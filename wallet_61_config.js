@@ -1,1 +1,1 @@
-var mnemonic = "puzzle promote grain thing only element shed diet fine elite claw disease";
+var mnemonic = "poem claim divide entire exit panel pitch patrol miss dove chalk elder";

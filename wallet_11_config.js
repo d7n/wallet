@@ -1,1 +1,1 @@
-var mnemonic = "reunion monkey keen hold armor rent taxi unhappy foil bulk cheese device";
+var mnemonic = "poverty before visa drop grant account innocent trend size vicious autumn level";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp ranch toilet box bargain addict tool where fresh reopen green junior";
+var mnemonic = "royal moment busy image reopen eyebrow candy host regular absent dwarf gossip";

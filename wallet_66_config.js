@@ -1,1 +1,1 @@
-var mnemonic = "ill lawn ship outside poverty always voyage labor wet expose either market";
+var mnemonic = "off chronic this horse planet deputy gaze gravity social yellow size rubber";

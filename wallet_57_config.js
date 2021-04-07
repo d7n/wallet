@@ -1,1 +1,1 @@
-var mnemonic = "apart consider sort bright suspect staff salad autumn drift sphere spider verb";
+var mnemonic = "silent east relax sing addict gown aunt leaf outside across street electric";

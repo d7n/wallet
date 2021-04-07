@@ -1,1 +1,1 @@
-var mnemonic = "teach lab giant robot brick shrug speak simple asthma rally sure govern";
+var mnemonic = "delay boost quantum detail toe solve mention jelly frown congress helmet upgrade";

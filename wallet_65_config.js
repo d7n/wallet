@@ -1,1 +1,1 @@
-var mnemonic = "crime neutral pave razor heavy advance envelope champion gesture kiwi advice organ";
+var mnemonic = "thumb term retire civil that add idle sell milk wink chef kangaroo";

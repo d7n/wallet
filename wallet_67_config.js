@@ -1,1 +1,1 @@
-var mnemonic = "obey power beef orange exhaust utility come follow trap naive group expect";
+var mnemonic = "whisper become guilt slight girl early winter battle middle crew light three";

@@ -1,1 +1,1 @@
-var mnemonic = "major lock exhibit already recycle diary model warrior deer target magic chef";
+var mnemonic = "moment obvious prefer army clarify danger dial unusual slice tiny boil render";

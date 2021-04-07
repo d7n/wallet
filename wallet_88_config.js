@@ -1,1 +1,1 @@
-var mnemonic = "adapt deer cool habit step wood expire tell manage world outside gold";
+var mnemonic = "robot organ sunset cricket desert want aware then off balcony practice group";

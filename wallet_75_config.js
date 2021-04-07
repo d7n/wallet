@@ -1,1 +1,1 @@
-var mnemonic = "hand over canyon cabbage fame figure pretty parrot angle crew broken crew";
+var mnemonic = "decrease angry idea find negative concert such more mail office slush sort";

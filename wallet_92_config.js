@@ -1,1 +1,1 @@
-var mnemonic = "top foot slogan birth city pair female letter broccoli design decline warrior";
+var mnemonic = "oval dragon ivory guitar sorry casino bike soda clock bundle film visual";

@@ -1,1 +1,1 @@
-var mnemonic = "cactus bench census recycle battle cherry kitchen result inch face shock report";
+var mnemonic = "report dry drift rebuild finger project knife control blood kingdom move swap";

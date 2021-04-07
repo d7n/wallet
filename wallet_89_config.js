@@ -1,1 +1,1 @@
-var mnemonic = "torch surround slow stuff slam forward speed floor exact sock series teach";
+var mnemonic = "puzzle vacant punch choice target success slab tobacco cinnamon scare response beach";

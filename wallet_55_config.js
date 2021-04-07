@@ -1,1 +1,1 @@
-var mnemonic = "demise dentist vacant great annual jump have saddle vapor sleep grain keep";
+var mnemonic = "later economy assault carpet act permit basket actor mind brand cheese buyer";

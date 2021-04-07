@@ -1,1 +1,1 @@
-var mnemonic = "apology ten nominee job butter section fly cute eyebrow virtual kitchen wage";
+var mnemonic = "aware exchange ridge spell way shallow escape donor emerge more media salmon";

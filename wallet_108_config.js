@@ -1,1 +1,1 @@
-var mnemonic = "stage stable figure addict skill shine inmate derive inject drum vote brick";
+var mnemonic = "yellow treat century turn cinnamon journey unknown renew place fish drive emotion";

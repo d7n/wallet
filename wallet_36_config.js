@@ -1,1 +1,1 @@
-var mnemonic = "alcohol ring battle tiny warrior hockey napkin host clap liquid pitch ozone";
+var mnemonic = "monster village position amazing proof safe pudding juice merry shaft fan arrow";

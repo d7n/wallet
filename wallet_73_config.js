@@ -1,1 +1,1 @@
-var mnemonic = "decorate shrimp ocean razor coin dry demand margin wild setup vacuum strike";
+var mnemonic = "also almost gift breeze sing cattle gorilla rifle book property cricket mail";

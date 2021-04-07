@@ -1,1 +1,1 @@
-var mnemonic = "neglect sausage evil six battle clay observe basket lamp thing main suspect";
+var mnemonic = "faint gun hope man blind glare pulse stuff river day slender bitter";

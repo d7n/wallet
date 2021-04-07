@@ -1,1 +1,1 @@
-var mnemonic = "believe broccoli weather physical actual fly boat mansion source concert begin crawl";
+var mnemonic = "slice tray parent learn arrange grape hotel tool laptop purpose purse course";

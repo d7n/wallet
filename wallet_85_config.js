@@ -1,1 +1,1 @@
-var mnemonic = "rough iron choose forum rain door snake comfort scare grape use master";
+var mnemonic = "vote trophy angle kiwi problem sport artist gaze tumble drama flash early";

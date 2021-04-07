@@ -1,1 +1,1 @@
-var mnemonic = "toddler extra mushroom page push disease flavor midnight include humble same olympic";
+var mnemonic = "forget canal gather magnet pyramid like fatigue laundry matter gauge attend future";

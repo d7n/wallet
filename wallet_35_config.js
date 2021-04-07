@@ -1,1 +1,1 @@
-var mnemonic = "arctic inject like urge rich lion expose apology grass tree defy chalk";
+var mnemonic = "gadget coyote admit mercy exit thrive assist gym detail wheat east filter";

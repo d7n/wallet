@@ -1,1 +1,1 @@
-var mnemonic = "lumber fall ahead inch cargo festival afford lawsuit spider lion swear flight";
+var mnemonic = "emerge primary load grape ramp shock test absent taxi ship cloth zero";

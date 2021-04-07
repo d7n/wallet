@@ -1,1 +1,1 @@
-var mnemonic = "emotion rain soft chalk job mother possible danger raw rule local nurse";
+var mnemonic = "repeat subject drastic gravity chat unhappy dragon rely thing orchard clap enough";

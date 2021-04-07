@@ -1,1 +1,1 @@
-var mnemonic = "subject material fluid cruise boring crawl canvas shift juice soldier enemy oil";
+var mnemonic = "mobile security island sight media crazy latin dog camp daughter sound wonder";

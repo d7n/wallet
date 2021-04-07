@@ -1,1 +1,1 @@
-var mnemonic = "banana adult refuse elder endorse kitchen either object welcome lonely shy envelope";
+var mnemonic = "animal tobacco add swallow sunny prosper lawsuit pig speak tool olympic path";

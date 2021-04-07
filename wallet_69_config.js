@@ -1,1 +1,1 @@
-var mnemonic = "help hungry buffalo degree captain venture slight inspire below trade subway injury";
+var mnemonic = "day worth quality fabric garage afraid nut economy bread taste permit cream";

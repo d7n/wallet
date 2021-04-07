@@ -1,1 +1,1 @@
-var mnemonic = "oblige media acoustic keep catalog key owner physical airport airport ticket indoor";
+var mnemonic = "ceiling human debris spirit cup pulp large moral flame thumb kingdom require";

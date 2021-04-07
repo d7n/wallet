@@ -1,1 +1,1 @@
-var mnemonic = "resource miss dinosaur pull outdoor spoon destroy inherit afford behind mother consider";
+var mnemonic = "sword dose mesh pass squirrel present feature join penalty reopen violin aunt";

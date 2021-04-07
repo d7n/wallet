@@ -1,1 +1,1 @@
-var mnemonic = "matrix law rib beauty evoke property wheat because oven illness arch mechanic";
+var mnemonic = "acid scatter admit soft abstract silk boss illegal truck size amount kitten";

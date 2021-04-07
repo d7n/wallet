@@ -1,1 +1,1 @@
-var mnemonic = "left analyst once action hungry urban exercise notice churn chaos wage cricket";
+var mnemonic = "end over shift shift engine face sense carpet blossom conduct evoke include";

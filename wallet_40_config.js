@@ -1,1 +1,1 @@
-var mnemonic = "rich crazy praise planet master proud float width mom jar kiwi soon";
+var mnemonic = "wear discover slight finger slow perfect defy toward wrestle observe priority cliff";

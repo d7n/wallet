@@ -1,1 +1,1 @@
-var mnemonic = "profit brown save fresh satisfy mad tuna sound during once supply flame";
+var mnemonic = "client crumble boost scan slogan actor hello leader tired galaxy calm taste";

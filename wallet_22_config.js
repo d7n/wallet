@@ -1,1 +1,1 @@
-var mnemonic = "bus predict cinnamon wait brand predict decade middle melt media theme since";
+var mnemonic = "chef regret state margin among drastic wish promote genre rebel forest like";

@@ -1,1 +1,1 @@
-var mnemonic = "episode beauty couple stuff camp ski loan ridge shrimp host hedgehog garden";
+var mnemonic = "good museum album favorite crime replace truth client silly young lyrics vapor";

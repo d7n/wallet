@@ -1,1 +1,1 @@
-var mnemonic = "elephant nut wool alter pony light flower immense damp lava eagle today";
+var mnemonic = "measure extra laptop sketch museum adjust secret laugh kiwi action ice guard";

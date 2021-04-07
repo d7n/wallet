@@ -1,1 +1,1 @@
-var mnemonic = "mom grow gas extra decrease reform already pass vault embody situate pink";
+var mnemonic = "local heart remove fancy account ready cattle latin silver crumble story balcony";

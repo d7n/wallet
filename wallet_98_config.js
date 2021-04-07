@@ -1,1 +1,1 @@
-var mnemonic = "degree curious kind unlock unique evidence toy write ignore two purse lonely";
+var mnemonic = "tornado pretty attract thought small garden trade tank ready car cube address";

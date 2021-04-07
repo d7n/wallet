@@ -1,1 +1,1 @@
-var mnemonic = "edge mention throw type drive govern stairs play spend swear light bind";
+var mnemonic = "embrace shop deer round shrimp phrase slot series drive ecology either dragon";

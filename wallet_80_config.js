@@ -1,1 +1,1 @@
-var mnemonic = "grief juice decide soup turn rapid hybrid health exclude seek staff swift";
+var mnemonic = "blanket annual rural pitch exist swing guess catalog electric sell carbon spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle dream strong fly device ugly another just goose explain detect grain";
+var mnemonic = "minute dose senior shop scale sea repeat achieve large biology aware pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel other labor twin shoot praise quarter upgrade win duty east stick";
+var mnemonic = "quick balance depth leader monkey vendor regular modify team confirm canal lesson";

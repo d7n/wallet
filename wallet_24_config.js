@@ -1,1 +1,1 @@
-var mnemonic = "chalk gravity jewel april any enter castle method combine shoot decide change";
+var mnemonic = "mask when border own sweet boss bamboo long poem online purse oblige";

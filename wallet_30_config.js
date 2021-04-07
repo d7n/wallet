@@ -1,1 +1,1 @@
-var mnemonic = "field source shock fatal normal market boil siege ghost diesel kingdom pledge";
+var mnemonic = "pave invest candy dynamic cradle kingdom hat flip tube elephant wage mask";

@@ -1,1 +1,1 @@
-var mnemonic = "feed globe toilet army crush drip near space sustain canal witness uniform";
+var mnemonic = "bid electric elbow december mandate shop dune notable option indoor crazy hero";

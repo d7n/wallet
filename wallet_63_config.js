@@ -1,1 +1,1 @@
-var mnemonic = "over fix input talk vibrant engage route disorder output omit hood subject";
+var mnemonic = "clerk point february lion loyal business zebra upgrade ship enhance outside want";
