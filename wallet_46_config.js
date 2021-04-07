@@ -1,1 +1,1 @@
-var mnemonic = "pulp injury deputy novel model zoo timber swift grunt call comfort property";
+var mnemonic = "slow leopard kiss supreme anchor dress absorb anxiety junk olympic cruise rural";

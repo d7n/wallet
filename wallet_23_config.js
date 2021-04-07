@@ -1,1 +1,1 @@
-var mnemonic = "steel network shop provide flag vacuum swarm bike borrow dove pink test";
+var mnemonic = "grit matrix assist trick phone better begin satisfy favorite news guard pair";

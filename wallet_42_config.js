@@ -1,1 +1,1 @@
-var mnemonic = "bachelor nose boy spot naive hill afford attack shock relief recipe type";
+var mnemonic = "excess exhaust evidence fall basket dynamic grit dwarf december horror squeeze system";

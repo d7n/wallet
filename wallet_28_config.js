@@ -1,1 +1,1 @@
-var mnemonic = "trim club can vote attack climb cloth marble journey clarify ancient fit";
+var mnemonic = "teach glare orient around okay chat sketch choice embrace food body exact";

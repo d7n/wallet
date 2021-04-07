@@ -1,1 +1,1 @@
-var mnemonic = "drum sing arctic ozone panel replace jacket coast box first onion farm";
+var mnemonic = "oil cloud stairs walnut roast awkward tube silly fork radar usage boat";

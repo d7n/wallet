@@ -1,1 +1,1 @@
-var mnemonic = "off category couple cabin doctor square mother genius type boss joy author";
+var mnemonic = "inhale celery fiscal around awesome filter market unfair cup design ahead tag";

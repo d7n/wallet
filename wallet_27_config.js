@@ -1,1 +1,1 @@
-var mnemonic = "wave stadium cloth unfold frown rate sword boat kangaroo note palm excite";
+var mnemonic = "minor spread brass digital aware best talk grief autumn public nice man";

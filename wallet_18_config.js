@@ -1,1 +1,1 @@
-var mnemonic = "agent bracket cloth galaxy have mosquito delay grow very alter fatigue bike";
+var mnemonic = "laugh patrol scatter become raven mirror title prefer dragon minute push glass";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit nephew glove umbrella alcohol pupil bronze liquid hundred hood globe cousin";
+var mnemonic = "float lazy give rival team million drop search sun bike wire series";

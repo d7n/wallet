@@ -1,1 +1,1 @@
-var mnemonic = "timber monkey report scrap organ mom split april hazard critic galaxy fever";
+var mnemonic = "unhappy curtain drink invest nice sign soul century parade daring husband method";

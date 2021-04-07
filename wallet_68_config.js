@@ -1,1 +1,1 @@
-var mnemonic = "empty then teach afford margin focus essence modify genuine bright arena flower";
+var mnemonic = "also hour tip drop foster lizard else setup romance cake ice vacuum";

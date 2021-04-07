@@ -1,1 +1,1 @@
-var mnemonic = "rocket run shoulder firm glimpse special decide fetch skill image employ already";
+var mnemonic = "eye fringe skate century object discover weekend open pulp argue grit forest";

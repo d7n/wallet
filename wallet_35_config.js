@@ -1,1 +1,1 @@
-var mnemonic = "leave funny guard verify universe level jealous copper they glare another valley";
+var mnemonic = "witness else marble light cigar enemy lens heavy swear tube decorate spoil";

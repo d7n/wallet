@@ -1,1 +1,1 @@
-var mnemonic = "voice suspect protect possible sign chest evil estate online buzz raven mandate";
+var mnemonic = "song tourist sun fluid knife vapor color long victory network shaft portion";

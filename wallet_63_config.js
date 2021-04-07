@@ -1,1 +1,1 @@
-var mnemonic = "inch wave orchard thought ivory balcony absurd wrap cotton volume wide cage";
+var mnemonic = "tip audit solution club ranch zone notice siren half reward twenty rocket";

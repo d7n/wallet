@@ -1,1 +1,1 @@
-var mnemonic = "valve steel manual dinosaur battle laundry effort famous clutch before simple cross";
+var mnemonic = "trust make yard tobacco swamp obtain pudding range network virus title this";

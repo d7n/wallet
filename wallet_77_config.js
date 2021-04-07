@@ -1,1 +1,1 @@
-var mnemonic = "only detail rent stuff run salon excuse present nasty exit october swift";
+var mnemonic = "assault funny culture forest drum husband curtain hour rookie harvest pottery remove";

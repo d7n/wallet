@@ -1,1 +1,1 @@
-var mnemonic = "source robot gospel remove culture prefer believe target mass oblige drop edge";
+var mnemonic = "identify develop air prevent odor provide quit verify foam common method gap";

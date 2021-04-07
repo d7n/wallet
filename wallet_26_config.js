@@ -1,1 +1,1 @@
-var mnemonic = "apology shoulder fence suffer various tuition frame reason foot property legal habit";
+var mnemonic = "aspect venture dream code mercy basic census asthma diamond series bomb street";

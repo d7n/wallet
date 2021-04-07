@@ -1,1 +1,1 @@
-var mnemonic = "horror winner betray circle glory faint core civil session laugh junior tape";
+var mnemonic = "fluid vital expose oak rhythm stomach polar stock volcano enter shaft face";

@@ -1,1 +1,1 @@
-var mnemonic = "spider lobster rule history reveal poet job patch more total base fish";
+var mnemonic = "school tribe priority rhythm add menu basic anchor will stick annual brand";

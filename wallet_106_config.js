@@ -1,1 +1,1 @@
-var mnemonic = "tray citizen myth margin crash smooth unveil pencil merit brown pizza spot";
+var mnemonic = "truck heart faculty record wolf limit hand vehicle leopard absent asset immune";

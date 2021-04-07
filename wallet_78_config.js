@@ -1,1 +1,1 @@
-var mnemonic = "chest desert position blast recipe breeze axis cupboard scene core intact sail";
+var mnemonic = "couch lounge exhibit rule talk shine squeeze cattle exile cup inherit eye";

@@ -1,1 +1,1 @@
-var mnemonic = "rack cause length salad car kit point absurd mosquito direct dose jewel";
+var mnemonic = "image message noodle receive share sweet slogan better truly eager puzzle pact";

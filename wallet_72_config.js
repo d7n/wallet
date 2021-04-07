@@ -1,1 +1,1 @@
-var mnemonic = "wall myth wide illegal soft avocado mammal auction dutch lawsuit mammal approve";
+var mnemonic = "month any correct achieve float fiscal height outer unfold code useless neck";

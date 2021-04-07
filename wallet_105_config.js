@@ -1,1 +1,1 @@
-var mnemonic = "envelope deposit skirt dust luxury close quarter oxygen claim verb discover hawk";
+var mnemonic = "frown inmate head juice pupil warm sample pulp biology input among curious";

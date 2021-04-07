@@ -1,1 +1,1 @@
-var mnemonic = "narrow eyebrow flip pencil abuse choose awesome shoot sing lucky modify wide";
+var mnemonic = "whisper cotton voice unaware bulk cry video ecology make neutral wonder soon";

@@ -1,1 +1,1 @@
-var mnemonic = "catch globe salon combine secret clown stay sugar super unhappy era era";
+var mnemonic = "word scrub teach silent loud there bracket struggle jewel ranch heavy dose";

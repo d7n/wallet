@@ -1,1 +1,1 @@
-var mnemonic = "creek cruise sleep metal parade someone able plastic digital apart tourist come";
+var mnemonic = "glimpse soap juice siege nose brick shop club surround veteran pair end";

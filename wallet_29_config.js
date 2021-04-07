@@ -1,1 +1,1 @@
-var mnemonic = "hand table life music another end crumble prison again stove exclude walk";
+var mnemonic = "vague switch idea nature please match manage style social february question choice";

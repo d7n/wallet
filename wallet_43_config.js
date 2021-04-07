@@ -1,1 +1,1 @@
-var mnemonic = "trap supreme ribbon song swift diesel few spoon angry swap believe silk";
+var mnemonic = "success hockey woman range coral chimney dignity door bind medal great sleep";

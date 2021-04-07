@@ -1,1 +1,1 @@
-var mnemonic = "dance frequent point napkin blossom agree peasant laugh ticket congress erode unique";
+var mnemonic = "crunch curve essay better service fossil journey doll borrow grunt any flee";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest veteran path vital curtain subject prepare favorite spend stay fringe hip";
+var mnemonic = "divide awesome maid word kidney machine adapt bird visual keen bottom random";

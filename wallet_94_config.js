@@ -1,1 +1,1 @@
-var mnemonic = "cotton diet recipe suspect inform feed chaos sibling scatter blame harvest blush";
+var mnemonic = "trap spare joke gravity grape fold ritual paper cute struggle fade obtain";

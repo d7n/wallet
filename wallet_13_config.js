@@ -1,1 +1,1 @@
-var mnemonic = "oppose chef will bullet act logic replace easy immune number sail crumble";
+var mnemonic = "picture bike test what decade device net ecology mystery bargain holiday goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal position wagon student globe abuse issue tip easy hero pitch stone";
+var mnemonic = "teach sail nuclear people divide ripple album team wise demise view ancient";

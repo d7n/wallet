@@ -1,1 +1,1 @@
-var mnemonic = "elder warrior twin aim marine panda ring tray monitor jar chicken welcome";
+var mnemonic = "way slim immense miracle scrap blur love frown tonight obvious figure pistol";

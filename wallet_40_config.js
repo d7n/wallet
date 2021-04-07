@@ -1,1 +1,1 @@
-var mnemonic = "zebra wish wreck scene awesome brave feed govern barely wagon kiwi always";
+var mnemonic = "mother junk motion mushroom cycle minor mountain video hedgehog wool then game";

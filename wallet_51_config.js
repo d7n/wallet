@@ -1,1 +1,1 @@
-var mnemonic = "letter enhance security injury six baby wire spike must casual cradle copy";
+var mnemonic = "blur sand borrow clutch mistake post outside foam curve click law cupboard";

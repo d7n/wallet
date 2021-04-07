@@ -1,1 +1,1 @@
-var mnemonic = "rookie rhythm surprise buzz announce clutch gravity proud juice valley warm silly";
+var mnemonic = "split buddy solar crime clock myth skill mass void swear chimney destroy";

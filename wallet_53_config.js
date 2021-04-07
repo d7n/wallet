@@ -1,1 +1,1 @@
-var mnemonic = "cup mango method impulse wealth vivid myself laptop glare monitor absent crane";
+var mnemonic = "route thrive able leave crop else phone purpose doctor fashion return audit";

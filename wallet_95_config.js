@@ -1,1 +1,1 @@
-var mnemonic = "couch select sing motor umbrella often memory river retreat home stamp follow";
+var mnemonic = "work toe gentle afford online brown expire walnut tongue mesh layer member";

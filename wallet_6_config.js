@@ -1,1 +1,1 @@
-var mnemonic = "exchange wave liar idle begin yard paper own crash jeans rescue fiber";
+var mnemonic = "price grain hub bulb welcome device boil guitar comfort shell abandon unfair";

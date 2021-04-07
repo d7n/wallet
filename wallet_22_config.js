@@ -1,1 +1,1 @@
-var mnemonic = "crisp relax ask fortune lunch teach idea office grass supreme machine false";
+var mnemonic = "dragon pass quote employ empty stand brick royal destroy trust develop uniform";

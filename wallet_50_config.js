@@ -1,1 +1,1 @@
-var mnemonic = "camera ribbon raccoon cup tool flame label all near rich joy now";
+var mnemonic = "cradle abuse cream lawsuit nut involve puppy shove render network judge core";

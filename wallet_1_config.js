@@ -1,1 +1,1 @@
-var mnemonic = "setup plug daring music rubber pitch gallery father cycle aunt charge pact";
+var mnemonic = "carry topic evolve clean hungry deal want nice pulse planet athlete level";

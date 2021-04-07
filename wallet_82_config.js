@@ -1,1 +1,1 @@
-var mnemonic = "gift gain steak main intact motion portion burden liar spy cook neglect";
+var mnemonic = "claim item engine daughter amateur era cliff matrix dish hen erupt timber";

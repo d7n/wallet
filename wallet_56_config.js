@@ -1,1 +1,1 @@
-var mnemonic = "pencil together risk wet crisp humble travel dutch holiday elephant improve once";
+var mnemonic = "under leisure endorse canoe laptop chuckle mixture warm diamond whisper base mean";

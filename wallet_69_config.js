@@ -1,1 +1,1 @@
-var mnemonic = "minor pretty purchase decide fox hidden stereo garment inspire wrap soldier decline";
+var mnemonic = "dose cannon student supply news zebra circle bridge cherry emotion current limb";

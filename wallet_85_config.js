@@ -1,1 +1,1 @@
-var mnemonic = "cream cloth fruit powder result panic since depth dutch early consider daring";
+var mnemonic = "net breeze turn bind that leopard return medal tooth next exit orient";

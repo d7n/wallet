@@ -1,1 +1,1 @@
-var mnemonic = "good public gentle diesel execute forest mass razor resist list large gallery";
+var mnemonic = "heart invite cat ignore damp elbow roast man night cave report warm";

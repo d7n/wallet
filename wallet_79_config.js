@@ -1,1 +1,1 @@
-var mnemonic = "innocent miracle maple test goat predict talk general eight attract rival inner";
+var mnemonic = "anxiety window price audit matter dilemma budget someone pole total repeat hope";

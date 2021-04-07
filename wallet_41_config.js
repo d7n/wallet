@@ -1,1 +1,1 @@
-var mnemonic = "adult night region copy transfer pupil around scrub grid buffalo stomach dumb";
+var mnemonic = "bounce salmon pipe broccoli chief traffic faculty prepare visa dose monitor minor";

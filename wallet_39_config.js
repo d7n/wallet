@@ -1,1 +1,1 @@
-var mnemonic = "employ next release tooth brass snack bunker neither engine next frog night";
+var mnemonic = "train soap answer adjust turtle girl chronic mix cabbage answer gas domain";

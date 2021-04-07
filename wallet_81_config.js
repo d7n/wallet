@@ -1,1 +1,1 @@
-var mnemonic = "expose entry suit curious park curve whip bamboo eager ordinary culture reunion";
+var mnemonic = "foot service turn dismiss lemon comic federal side south slim admit genius";

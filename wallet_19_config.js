@@ -1,1 +1,1 @@
-var mnemonic = "radio nuclear half maple group volume panda blade rhythm please story boost";
+var mnemonic = "exist autumn energy flame poverty fever lonely scheme relax ordinary type ribbon";

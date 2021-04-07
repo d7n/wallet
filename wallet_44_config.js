@@ -1,1 +1,1 @@
-var mnemonic = "bid crumble panel side subway noble submit need sign endless alert regular";
+var mnemonic = "truth load tool addict canal border grocery ill correct sound catch belt";

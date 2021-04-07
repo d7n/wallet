@@ -1,1 +1,1 @@
-var mnemonic = "team ensure two skin smoke random bundle drastic mix buddy quantum brass";
+var mnemonic = "weapon push resist yellow mule tiny entire bike world message multiply skirt";

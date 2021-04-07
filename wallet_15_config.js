@@ -1,1 +1,1 @@
-var mnemonic = "rough boil adapt chunk carbon ghost dilemma discover where bus damp middle";
+var mnemonic = "scare obey evil submit shoulder tell correct chunk ceiling valid educate people";

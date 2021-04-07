@@ -1,1 +1,1 @@
-var mnemonic = "provide mirror finish garage frown hard frozen impose tank that addict absorb";
+var mnemonic = "before harbor latin easily crumble business wear rare ugly involve bottom sign";

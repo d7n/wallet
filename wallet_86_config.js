@@ -1,1 +1,1 @@
-var mnemonic = "impose vault brick legend logic will hat another window okay clump virtual";
+var mnemonic = "casino lunar possible blade curtain wage twenty inquiry rural select field village";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil virtual brush inmate flush climb broom aim waste predict stay nation";
+var mnemonic = "lazy dish notice resist paddle apology mystery pelican property quit curious poet";

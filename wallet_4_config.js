@@ -1,1 +1,1 @@
-var mnemonic = "much simple tree strike drop stomach material void level memory fun below";
+var mnemonic = "beyond because midnight monkey harsh peanut paddle delay scene air deny barely";

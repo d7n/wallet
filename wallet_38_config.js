@@ -1,1 +1,1 @@
-var mnemonic = "laugh manage tiger please depend deer giraffe sorry other frequent silly lamp";
+var mnemonic = "rude dinosaur exile list jealous depart vote borrow diary then rail talent";

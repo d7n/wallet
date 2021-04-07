@@ -1,1 +1,1 @@
-var mnemonic = "whisper coffee smoke couple mail rate exact kiwi grab man pluck senior";
+var mnemonic = "tobacco punch mechanic fine corn fox together agree pair detail joke harsh";

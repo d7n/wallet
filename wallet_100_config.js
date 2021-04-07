@@ -1,1 +1,1 @@
-var mnemonic = "seat hat defy inject reject half betray evoke oppose various lunar fancy";
+var mnemonic = "trip tobacco fragile beach capable judge decline ice combine volume ladder sadness";

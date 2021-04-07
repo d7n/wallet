@@ -1,1 +1,1 @@
-var mnemonic = "marine banner concert glow shine illegal normal steel soon ensure exclude hello";
+var mnemonic = "vacant common benefit liberty tuna joke ability slush plug repair fame jeans";

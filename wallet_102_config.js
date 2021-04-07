@@ -1,1 +1,1 @@
-var mnemonic = "armed sword ketchup very gorilla pupil tiny effort mix valid enforce hammer";
+var mnemonic = "judge auction rally enjoy arctic solar clay icon fence glare come stand";

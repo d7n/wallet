@@ -1,1 +1,1 @@
-var mnemonic = "basic divide palm raise call powder name mandate actor image coyote company";
+var mnemonic = "lawsuit orchard pizza debris hedgehog slogan project until resource craft habit during";

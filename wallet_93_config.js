@@ -1,1 +1,1 @@
-var mnemonic = "carry zone mango fault tell private misery rib fee forget protect draw";
+var mnemonic = "various trash dad shuffle scale jacket dynamic flee parrot question economy health";

@@ -1,1 +1,1 @@
-var mnemonic = "crane solution belt tobacco fault hamster subject human thumb joy worth check";
+var mnemonic = "galaxy arrive trial age dust outdoor boat grace lizard august finger cruel";

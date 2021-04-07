@@ -1,1 +1,1 @@
-var mnemonic = "easily exit torch midnight tube abandon mandate wink satoshi trumpet amateur state";
+var mnemonic = "make bench party snack pizza home town inform club cactus thank gold";

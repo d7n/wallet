@@ -1,1 +1,1 @@
-var mnemonic = "patrol prepare punch utility vast multiply rally dice lunar chaos cram concert";
+var mnemonic = "easy grab whip board valid minute decorate travel card rich bulk resist";

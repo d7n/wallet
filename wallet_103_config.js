@@ -1,1 +1,1 @@
-var mnemonic = "about ball scheme thought august imitate rabbit inherit surround orange drum boat";
+var mnemonic = "baby elite better stamp crash extend business possible cause bunker offer silver";

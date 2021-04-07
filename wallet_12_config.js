@@ -1,1 +1,1 @@
-var mnemonic = "inform wasp average local route misery web amount ivory fun shine genius";
+var mnemonic = "stable crucial reason height elevator glow raccoon skirt assault defy because duty";

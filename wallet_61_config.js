@@ -1,1 +1,1 @@
-var mnemonic = "muscle camera peace soda rotate ice feel swamp danger wire bulb pulp";
+var mnemonic = "abuse album course skate family window waste better asset viable kangaroo category";

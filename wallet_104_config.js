@@ -1,1 +1,1 @@
-var mnemonic = "smoke charge cliff once crush sign kidney round ethics candy total tunnel";
+var mnemonic = "immense close senior enough real title endless visit drill misery execute chair";

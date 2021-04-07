@@ -1,1 +1,1 @@
-var mnemonic = "involve month truck kitchen prison outer verify vehicle hockey segment shine become";
+var mnemonic = "usage reason faith aware winner depend uncover endless slam hour public divert";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver siege climb pair voice note render axis find tilt pig promote";
+var mnemonic = "upgrade slight found double cake recipe derive napkin regular episode giggle wrist";

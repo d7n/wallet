@@ -1,1 +1,1 @@
-var mnemonic = "pulp alter spend liquid treat broken scissors chronic differ abuse shallow program";
+var mnemonic = "apple circle bless candy upset pact twice bulb sing extra achieve error";

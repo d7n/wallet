@@ -1,1 +1,1 @@
-var mnemonic = "garbage key relief stuff inquiry carry lonely mother uncover track unable rate";
+var mnemonic = "meat attitude gown decide wait else pet flower gravity mind clip remember";

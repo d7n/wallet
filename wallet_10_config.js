@@ -1,1 +1,1 @@
-var mnemonic = "pistol media tragic thumb vanish turkey knife luggage alert theory assault rhythm";
+var mnemonic = "rabbit book anchor gas harvest boring bottom list envelope result poem unusual";

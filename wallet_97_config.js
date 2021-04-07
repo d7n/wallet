@@ -1,1 +1,1 @@
-var mnemonic = "north vanish swim envelope parrot earth appear unaware modify laptop believe hotel";
+var mnemonic = "elegant library talk weekend gown gym disease puzzle web dizzy pretty swing";

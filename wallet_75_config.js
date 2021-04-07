@@ -1,1 +1,1 @@
-var mnemonic = "paper push latin visa dust symbol attract like leg fruit latin crop";
+var mnemonic = "slam man hotel panic daring abuse ordinary dentist luxury father various farm";

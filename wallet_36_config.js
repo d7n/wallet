@@ -1,1 +1,1 @@
-var mnemonic = "winner piano drastic orphan blue will labor provide sick buzz dumb balance";
+var mnemonic = "goose divorce defense cherry secret barely endorse fix dice beyond common move";

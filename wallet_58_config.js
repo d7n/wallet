@@ -1,1 +1,1 @@
-var mnemonic = "use order faith leaf erase initial birth pupil cheese benefit opera elite";
+var mnemonic = "canyon raw box marriage diagram deposit embark asset club rely apple income";

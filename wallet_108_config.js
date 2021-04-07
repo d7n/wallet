@@ -1,1 +1,1 @@
-var mnemonic = "right slogan sting mention once image essay fresh host federal swarm hunt";
+var mnemonic = "involve share tag clap zero tunnel cloud arrive now east lawsuit pause";

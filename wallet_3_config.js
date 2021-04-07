@@ -1,1 +1,1 @@
-var mnemonic = "expand genre rigid spell include identify behind biology tail typical soda stereo";
+var mnemonic = "vintage evoke glass enhance spirit ball flower parade hire bulk palace pupil";

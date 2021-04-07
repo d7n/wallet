@@ -1,1 +1,1 @@
-var mnemonic = "item feed stadium disease cheese sadness curve brand olive radar one undo";
+var mnemonic = "trumpet horn grace kitchen gospel avoid void banner gossip credit lamp energy";

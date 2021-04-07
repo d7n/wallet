@@ -1,1 +1,1 @@
-var mnemonic = "train expect raw gaze aim crouch clutch damp coast town lemon actor";
+var mnemonic = "tragic tumble upon length ring confirm jaguar embody fantasy tongue equip funny";

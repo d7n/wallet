@@ -1,1 +1,1 @@
-var mnemonic = "forget include path butter foam fold path industry toddler march hover guard";
+var mnemonic = "trash assault season approve dose coral reject okay yard click allow analyst";

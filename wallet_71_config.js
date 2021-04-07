@@ -1,1 +1,1 @@
-var mnemonic = "unaware sing galaxy category denial pepper stumble senior match stock clump tonight";
+var mnemonic = "deny shadow hundred wrong deliver pioneer correct live material clip jar people";

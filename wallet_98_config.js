@@ -1,1 +1,1 @@
-var mnemonic = "success cabbage glow unveil work twice wasp pulp ranch donor wheel endless";
+var mnemonic = "helmet weasel cute cube embark badge increase fox grain patch upon gallery";

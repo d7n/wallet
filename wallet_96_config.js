@@ -1,1 +1,1 @@
-var mnemonic = "elephant flash live cluster atom demand nominee ketchup fan age youth attract";
+var mnemonic = "expect avocado absurd swap zero auto bounce recipe tumble train wing great";
