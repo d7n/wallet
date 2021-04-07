@@ -1,1 +1,1 @@
-var mnemonic = "hello silk nest hurdle lemon cry employ audit resemble tribe goddess autumn";
+var mnemonic = "artist focus never skirt february hockey twenty view legend verb believe strong";

@@ -1,1 +1,1 @@
-var mnemonic = "crash crop wish sock like buddy trash balance marine save kitchen govern";
+var mnemonic = "save pepper floor sadness they lyrics draw off ticket scorpion oxygen ginger";

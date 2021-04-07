@@ -1,1 +1,1 @@
-var mnemonic = "pave dirt drum bag file produce cave valid isolate banner depth yellow";
+var mnemonic = "enable picture task fiscal better predict lock game cupboard balcony found trend";

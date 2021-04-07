@@ -1,1 +1,1 @@
-var mnemonic = "crash quantum venture exit wise project viable open typical act outdoor dice";
+var mnemonic = "pledge radio wrong easy act laundry blush length delay sad answer circle";

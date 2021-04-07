@@ -1,1 +1,1 @@
-var mnemonic = "bacon tooth embody thrive romance hurt seven hen quality bullet only isolate";
+var mnemonic = "sugar thank apple topple autumn danger daughter owner swallow fit innocent room";

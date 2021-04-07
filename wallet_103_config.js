@@ -1,1 +1,1 @@
-var mnemonic = "disease clean release cook bid vote document scene cushion only stadium chicken";
+var mnemonic = "noodle roof left life joke stumble convince isolate fine fancy marriage today";

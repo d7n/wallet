@@ -1,1 +1,1 @@
-var mnemonic = "actor force reject swear broccoli receive street tomorrow empower audit gather disorder";
+var mnemonic = "pudding chronic edit lazy transfer logic stock surround pizza great bubble scene";

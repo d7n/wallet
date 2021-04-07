@@ -1,1 +1,1 @@
-var mnemonic = "ocean desk adjust prize meat lounge mother wear cake grow submit labor";
+var mnemonic = "enrich doctor slender clump unfair future talk fee recipe range spare round";

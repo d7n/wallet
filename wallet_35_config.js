@@ -1,1 +1,1 @@
-var mnemonic = "thrive broccoli universe motion trick orchard crush ribbon sail snow patch panel";
+var mnemonic = "toy thumb curtain device olive spin segment vintage aisle into wealth trend";

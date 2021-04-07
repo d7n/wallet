@@ -1,1 +1,1 @@
-var mnemonic = "motor stuff easily camp uncover grunt collect stomach barely use deny tribe";
+var mnemonic = "piece time garment video present anxiety city smoke across trend increase car";

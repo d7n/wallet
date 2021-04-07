@@ -1,1 +1,1 @@
-var mnemonic = "hollow narrow rotate name clerk again whip scale erode ready city sketch";
+var mnemonic = "feel huge provide limit fluid collect man beef ostrich rival tribe crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "situate reduce thought rapid across stuff chat feed bamboo illegal method vocal";
+var mnemonic = "obey indoor soft differ ladder exhaust lumber unusual obscure skin swamp divide";

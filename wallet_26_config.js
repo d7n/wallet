@@ -1,1 +1,1 @@
-var mnemonic = "sausage lock report badge gate quality battle agent alpha finish brief slim";
+var mnemonic = "advance twenty vessel plate violin truly pony gossip time flip need immense";

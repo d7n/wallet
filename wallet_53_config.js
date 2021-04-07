@@ -1,1 +1,1 @@
-var mnemonic = "goat trap choice humble obey school leisure capital river diesel coconut cinnamon";
+var mnemonic = "awake erosion mind desk hammer system winter whale bid custom faint undo";

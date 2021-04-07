@@ -1,1 +1,1 @@
-var mnemonic = "flush soldier rice version favorite isolate security head rough enemy weird october";
+var mnemonic = "corn floor defense nut clap ice knock marine announce bitter jump degree";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend canyon album more question organ inflict already diagram abandon camp scale";
+var mnemonic = "problem energy party blind general champion youth atom blossom absent dose genius";

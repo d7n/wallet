@@ -1,1 +1,1 @@
-var mnemonic = "monkey brief cause tomorrow arrow remove winter clinic end yard just enhance";
+var mnemonic = "drum need neck case merge october movie urban test depart judge write";

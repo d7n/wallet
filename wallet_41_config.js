@@ -1,1 +1,1 @@
-var mnemonic = "hover repeat frame prepare crumble toe concert spice supreme injury junk boring";
+var mnemonic = "crop ethics bullet pave rifle dirt square torch sample economy sail brain";

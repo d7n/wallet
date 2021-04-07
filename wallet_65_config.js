@@ -1,1 +1,1 @@
-var mnemonic = "ordinary lock crack either army carbon crunch bread fringe inflict evil view";
+var mnemonic = "tonight token possible nothing similar extend ankle flight fine dignity umbrella actor";

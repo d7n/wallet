@@ -1,1 +1,1 @@
-var mnemonic = "blue trial antenna flame layer turn forest stove comic range museum letter";
+var mnemonic = "round major blame ship shallow toe jacket eyebrow attitude miss input brisk";

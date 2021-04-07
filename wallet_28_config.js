@@ -1,1 +1,1 @@
-var mnemonic = "evidence museum avoid narrow fatal code vicious cover ecology pitch energy behind";
+var mnemonic = "sell welcome blanket absent leave mandate fan relief uncle student fit hundred";

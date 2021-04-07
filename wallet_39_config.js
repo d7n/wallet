@@ -1,1 +1,1 @@
-var mnemonic = "now tag setup include purpose famous hope someone donor unfold bid come";
+var mnemonic = "faculty jazz tongue drink sting sister quantum decorate begin snow easily laugh";

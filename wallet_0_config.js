@@ -1,1 +1,1 @@
-var mnemonic = "gym course prize walk snow dinner march utility prefer nurse exhibit gentle";
+var mnemonic = "hover siren walk admit maid wrist bind over figure gravity turtle capital";

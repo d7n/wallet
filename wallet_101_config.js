@@ -1,1 +1,1 @@
-var mnemonic = "tired fire check federal quiz wave intact apple topple dynamic moon patrol";
+var mnemonic = "solar acid lemon target crater measure visual push aware edge divide supply";

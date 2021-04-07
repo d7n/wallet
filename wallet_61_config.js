@@ -1,1 +1,1 @@
-var mnemonic = "coconut tiger seat surround vendor leave spoil fix square net relief mad";
+var mnemonic = "resist olympic buffalo hollow wait current there caught top begin animal cycle";

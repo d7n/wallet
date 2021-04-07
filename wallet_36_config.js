@@ -1,1 +1,1 @@
-var mnemonic = "adapt moment weather oblige nephew useful defense era diary physical fantasy hotel";
+var mnemonic = "cabbage turn alley brown glove calm dress train junior follow print brick";

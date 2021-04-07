@@ -1,1 +1,1 @@
-var mnemonic = "boy issue whip april census rebuild detail noble all diamond doll glove";
+var mnemonic = "trend remain auction hurt tape insane sort nation hospital sail comfort jealous";

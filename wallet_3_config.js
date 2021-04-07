@@ -1,1 +1,1 @@
-var mnemonic = "useful fan material ill phone hockey crush engine wine special dry weekend";
+var mnemonic = "replace system sword blur squirrel already dwarf outside model barrel wait kitten";

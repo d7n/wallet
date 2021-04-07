@@ -1,1 +1,1 @@
-var mnemonic = "peasant ghost slab thrive crop need couple shy black pelican defy myth";
+var mnemonic = "company rescue act green forward gift interest sorry execute fat attack globe";

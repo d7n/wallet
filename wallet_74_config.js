@@ -1,1 +1,1 @@
-var mnemonic = "chunk lab educate bar cycle barely spin already car curve vintage deposit";
+var mnemonic = "chat toward lava violin desk exist laugh attend dial bone inherit split";

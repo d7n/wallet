@@ -1,1 +1,1 @@
-var mnemonic = "pen equal special motor curious address bundle purse stand ski junior forget";
+var mnemonic = "reject decrease behave chat rally mystery vintage drink add grief light asthma";

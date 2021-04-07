@@ -1,1 +1,1 @@
-var mnemonic = "market inject embody lazy spider defy object evoke initial regret cruel unusual";
+var mnemonic = "rookie office average eternal pretty sphere refuse tattoo diamond remember pony purity";

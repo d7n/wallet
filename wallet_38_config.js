@@ -1,1 +1,1 @@
-var mnemonic = "firm bright method cabin future catch crisp obtain pulp dolphin quiz move";
+var mnemonic = "zone have figure damp metal general federal salt rebuild obey unfold focus";

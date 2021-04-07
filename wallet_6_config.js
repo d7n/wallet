@@ -1,1 +1,1 @@
-var mnemonic = "polar raccoon slice vast month side energy foot imitate clock profit snap";
+var mnemonic = "elegant panic swap gun gold marine swarm conduct crane mother salute once";

@@ -1,1 +1,1 @@
-var mnemonic = "expire hint inject identify parent ancient powder long laugh thunder option net";
+var mnemonic = "hen sun favorite salmon nerve fringe endless always mimic slender river donkey";

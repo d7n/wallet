@@ -1,1 +1,1 @@
-var mnemonic = "matter mind crane discover real beach camera arch ask trim game nest";
+var mnemonic = "crash notice dry attack rib oblige spread hurdle glass october glove essay";

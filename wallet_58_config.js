@@ -1,1 +1,1 @@
-var mnemonic = "chef uphold riot arch body sister will income type bamboo kidney two";
+var mnemonic = "balance segment what visit broom version ceiling purpose junior seed mouse tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist bulk perfect carbon usual wall hold gap foam smoke topple raccoon";
+var mnemonic = "grocery antenna security doll run tuition hundred february addict apology wisdom dragon";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder park supply soon mimic express firm jewel cart judge front nominee";
+var mnemonic = "orchard young chest vague vast hold advance size tobacco company liberty margin";

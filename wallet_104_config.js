@@ -1,1 +1,1 @@
-var mnemonic = "spatial hurdle dentist dinner sausage north wife crack snake vote royal topple";
+var mnemonic = "huge kiwi ceiling lesson milk arrange one often funny spoil cousin noise";

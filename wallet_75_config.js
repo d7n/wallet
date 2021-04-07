@@ -1,1 +1,1 @@
-var mnemonic = "clap cat indicate dice keep raccoon soon float time clean polar upgrade";
+var mnemonic = "jump bomb track uphold destroy vocal equal maple autumn suffer indicate lounge";

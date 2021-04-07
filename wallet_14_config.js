@@ -1,1 +1,1 @@
-var mnemonic = "market tooth alter garment neither penalty math lemon shock moral merge cement";
+var mnemonic = "romance tell various put rotate square fringe slogan tree basic helmet toss";

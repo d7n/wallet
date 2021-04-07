@@ -1,1 +1,1 @@
-var mnemonic = "knife crane then push raven emotion dilemma carpet witness drift right quit";
+var mnemonic = "lonely never point salad hedgehog permit collect scale have rule right frozen";

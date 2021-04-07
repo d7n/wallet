@@ -1,1 +1,1 @@
-var mnemonic = "apple verify plug eagle blossom hurdle control toy admit couple alert inquiry";
+var mnemonic = "secret belt crush vehicle again unaware obscure income save trim admit purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "coast where excess initial mixed affair another wet extend face still before";
+var mnemonic = "arctic strategy suspect trim other prefer army team throw foster next fly";

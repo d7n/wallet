@@ -1,1 +1,1 @@
-var mnemonic = "desk sail old surface member truck stove vault clinic prison essay motion";
+var mnemonic = "concert monster million industry another notice dinosaur collect embark can burden hedgehog";

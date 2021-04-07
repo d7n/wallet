@@ -1,1 +1,1 @@
-var mnemonic = "home theme frame fire margin immense mystery magic school net slot state";
+var mnemonic = "sugar laundry similar issue cross they leopard body tilt embrace flame soap";

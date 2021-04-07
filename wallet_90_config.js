@@ -1,1 +1,1 @@
-var mnemonic = "priority tell elephant creek health alpha matter decline garment pen broccoli gossip";
+var mnemonic = "invest master pull fossil mix curtain mind brain youth mutual salmon pretty";

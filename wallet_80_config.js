@@ -1,1 +1,1 @@
-var mnemonic = "crush now damage barrel type step ill jaguar whisper betray silk wheat";
+var mnemonic = "mean gauge success artefact cannon sound laundry swallow sphere suggest assume supreme";

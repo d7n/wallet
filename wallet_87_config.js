@@ -1,1 +1,1 @@
-var mnemonic = "fragile rescue trade ankle alpha grass tail cradle echo attend clown nice";
+var mnemonic = "prosper dice board pipe spy candy cattle dinosaur jealous napkin salt couple";

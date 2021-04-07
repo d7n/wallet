@@ -1,1 +1,1 @@
-var mnemonic = "meadow adult piece already claim mandate rally wheel decline gun gasp total";
+var mnemonic = "found media warrior decade accuse recall trophy program quick six blanket sea";

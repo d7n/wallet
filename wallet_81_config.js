@@ -1,1 +1,1 @@
-var mnemonic = "left own laugh sphere smile team rent destroy bacon style engage winter";
+var mnemonic = "dog venture chest news celery require luggage umbrella advice fossil defense buzz";

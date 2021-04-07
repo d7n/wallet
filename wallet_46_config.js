@@ -1,1 +1,1 @@
-var mnemonic = "give cage truth tired during wage wood lab illness now view butter";
+var mnemonic = "trial pride sing rose grace banana above increase unfold already skin special";

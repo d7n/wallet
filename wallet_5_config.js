@@ -1,1 +1,1 @@
-var mnemonic = "fiber have vicious tribe notice vocal champion monkey robot risk actual drink";
+var mnemonic = "march rail ugly bicycle blush prosper spell tuition neither trend pact fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "early buzz lake detect elder filter jacket all nuclear mistake syrup invite";
+var mnemonic = "shoulder disease miracle coast drip time rifle welcome front people poverty what";

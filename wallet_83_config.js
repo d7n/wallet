@@ -1,1 +1,1 @@
-var mnemonic = "north surround faint mix empty inherit cannon outside wonder object phrase jewel";
+var mnemonic = "woman machine social obey phrase grow yellow system nest ring ivory trust";

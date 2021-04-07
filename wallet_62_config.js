@@ -1,1 +1,1 @@
-var mnemonic = "rack entry diagram melody fabric reject provide avocado curtain grit base timber";
+var mnemonic = "genre apple remember ozone kite illness width upper involve sell right goddess";

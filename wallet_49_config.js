@@ -1,1 +1,1 @@
-var mnemonic = "pull release aim burst more strategy enforce around armed opinion offer entry";
+var mnemonic = "crew cabbage solution unaware warfare amount husband mirror couple vague under matrix";

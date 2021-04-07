@@ -1,1 +1,1 @@
-var mnemonic = "spy predict include typical skate until wood ahead picture order chunk rebel";
+var mnemonic = "dust boat situate word spring have street record agent solve orbit scorpion";

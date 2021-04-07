@@ -1,1 +1,1 @@
-var mnemonic = "canyon anxiety achieve know license delay guide flee enable prepare monkey vague";
+var mnemonic = "picture rather hair bar trick company control donkey there initial excess pull";

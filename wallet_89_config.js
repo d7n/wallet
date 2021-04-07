@@ -1,1 +1,1 @@
-var mnemonic = "fever swim motion someone fold habit stay mango protect hurdle spice innocent";
+var mnemonic = "master adjust side lottery net banana bunker depend almost uphold snap call";

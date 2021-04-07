@@ -1,1 +1,1 @@
-var mnemonic = "effort vivid mention flower arrive pioneer nut height water lamp carry vocal";
+var mnemonic = "tourist real until gentle gloom check toy fame expire delay tourist mule";

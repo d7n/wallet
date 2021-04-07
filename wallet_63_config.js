@@ -1,1 +1,1 @@
-var mnemonic = "suspect glare neither royal giant ivory drink plug oxygen borrow memory feature";
+var mnemonic = "next birth decade offer dial predict era base approve super balcony circle";

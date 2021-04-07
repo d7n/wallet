@@ -1,1 +1,1 @@
-var mnemonic = "number shadow scare best mountain forget cave tomato blame hurry weekend direct";
+var mnemonic = "region iron plunge walnut okay auction spy doll ring novel deny tunnel";

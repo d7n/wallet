@@ -1,1 +1,1 @@
-var mnemonic = "bundle corn scorpion elephant poet dolphin prison action help arrow move unfair";
+var mnemonic = "express evolve someone lady trust warm riot because rebuild heavy rate arrange";

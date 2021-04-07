@@ -1,1 +1,1 @@
-var mnemonic = "weird borrow palm swallow together record music apple aunt second garage decade";
+var mnemonic = "surface cheese cannon clog laundry infant hockey spoil soap lunch cluster rain";

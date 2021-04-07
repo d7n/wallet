@@ -1,1 +1,1 @@
-var mnemonic = "shoulder amazing disagree process day tail tennis wet nurse venture horn stuff";
+var mnemonic = "regular calm naive original impact pole wedding climb bus broccoli art nasty";

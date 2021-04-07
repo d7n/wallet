@@ -1,1 +1,1 @@
-var mnemonic = "audit crash illness system fork exile afford anchor fence vacuum code donate";
+var mnemonic = "room awful crumble seat violin post guitar empower decide exhibit because screen";

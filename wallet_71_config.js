@@ -1,1 +1,1 @@
-var mnemonic = "list barrel fork gesture wolf doctor script disorder gadget almost ketchup warfare";
+var mnemonic = "night curve process accident bulb potato venture exist buyer doctor easily minimum";

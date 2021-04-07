@@ -1,1 +1,1 @@
-var mnemonic = "help divide glimpse olympic juice chuckle spin elder melody myth hungry skate";
+var mnemonic = "kingdom vanish stock prefer ordinary venture stuff plate raw mandate citizen fetch";

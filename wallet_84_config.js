@@ -1,1 +1,1 @@
-var mnemonic = "security tobacco deal advance observe recipe riot obtain cradle phrase seven clever";
+var mnemonic = "water merge test pepper coast glue raw vast violin reopen shaft nuclear";

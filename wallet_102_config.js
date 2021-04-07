@@ -1,1 +1,1 @@
-var mnemonic = "menu cotton hammer retire drill venture blast evoke fish behind plunge surprise";
+var mnemonic = "burger undo stereo dish shrug boost already onion shy catalog surface small";

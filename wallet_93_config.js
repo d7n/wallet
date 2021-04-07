@@ -1,1 +1,1 @@
-var mnemonic = "mixed priority wait leisure scan drop essence never finish sound river alone";
+var mnemonic = "post push glad person rich grid laptop element armor very limit advice";

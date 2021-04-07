@@ -1,1 +1,1 @@
-var mnemonic = "science vehicle word gate clever able skin lawsuit want busy unit grocery";
+var mnemonic = "energy rural again abuse hand say display motion release vote pulp because";

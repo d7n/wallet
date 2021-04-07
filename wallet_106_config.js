@@ -1,1 +1,1 @@
-var mnemonic = "escape vanish hurry gossip pet know chest knock food prison purchase trash";
+var mnemonic = "ethics patch open only chaos renew bag month special stamp vapor insect";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz milk author also soft document shrug tide wide meat olive denial";
+var mnemonic = "seven margin diet dish truth mixture initial august goose badge man matter";

@@ -1,1 +1,1 @@
-var mnemonic = "slow clerk worth bitter hollow ill boy long wire mean permit cabbage";
+var mnemonic = "void virus indicate lobster display fitness exhibit entire clip voyage ripple learn";

@@ -1,1 +1,1 @@
-var mnemonic = "cushion until soul fringe timber library vendor either sadness prepare giant brisk";
+var mnemonic = "castle near athlete suit collect sadness window emerge agent update desk finger";

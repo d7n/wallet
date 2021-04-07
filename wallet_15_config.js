@@ -1,1 +1,1 @@
-var mnemonic = "situate tree lunar pond click eager grape eagle lazy below wait inflict";
+var mnemonic = "cradle old solve wrong drive join source trust fence volcano regret update";

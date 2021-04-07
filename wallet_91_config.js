@@ -1,1 +1,1 @@
-var mnemonic = "peace life pond bottom welcome erase humor laptop uphold soldier maid extend";
+var mnemonic = "vapor ridge bike fork topic morning cart motor glare flame slight ribbon";

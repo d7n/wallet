@@ -1,1 +1,1 @@
-var mnemonic = "theme balcony bundle spin public wolf essay essay few canyon disease medal";
+var mnemonic = "little online antique planet fix like entire ozone pattern book train cage";

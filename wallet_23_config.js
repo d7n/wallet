@@ -1,1 +1,1 @@
-var mnemonic = "violin input calm pioneer valley such juice roast occur grunt dutch write";
+var mnemonic = "napkin alone tray suspect maximum excess drop frost dolphin box merit whale";

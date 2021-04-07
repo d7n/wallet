@@ -1,1 +1,1 @@
-var mnemonic = "scatter cake bean old nerve turtle female replace tonight program engine trade";
+var mnemonic = "resist impose tourist forget paper deliver include soup badge enemy icon average";

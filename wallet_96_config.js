@@ -1,1 +1,1 @@
-var mnemonic = "genuine wealth invest ghost nice embody length soft road coconut mail glimpse";
+var mnemonic = "trap swing digital cake airport coach capital august frequent relief winner draw";

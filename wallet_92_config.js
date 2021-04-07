@@ -1,1 +1,1 @@
-var mnemonic = "series apart solar spider correct copper extend gentle agent shield hello marine";
+var mnemonic = "help census trick tenant craft assume learn call cattle gallery digital crash";

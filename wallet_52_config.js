@@ -1,1 +1,1 @@
-var mnemonic = "answer acid slow unknown question person pigeon latin joy cute grocery supply";
+var mnemonic = "gun wrap brown health rare outer garden grace collect grain cushion find";

@@ -1,1 +1,1 @@
-var mnemonic = "scout usual busy fiction boil wedding dream reform beef kidney fame obscure";
+var mnemonic = "kingdom accident conduct icon hood jungle copper asset donor board myself demise";

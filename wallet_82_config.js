@@ -1,1 +1,1 @@
-var mnemonic = "dignity exile theme history hope kiwi cradle eagle weapon cactus menu pull";
+var mnemonic = "phrase flat viable despair gravity unusual coast cram weasel noodle brick pull";

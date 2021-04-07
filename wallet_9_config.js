@@ -1,1 +1,1 @@
-var mnemonic = "butter swim bottom that dismiss injury surround feed toy viable grain attitude";
+var mnemonic = "recall fever gown sick session inch cycle peasant rich advance slim proof";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb orbit company town project check rigid suffer chief caught bundle intact";
+var mnemonic = "bike box defense primary moment work conduct divide moon thing cool thank";

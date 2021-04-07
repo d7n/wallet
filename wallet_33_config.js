@@ -1,1 +1,1 @@
-var mnemonic = "army chef slab liar fashion picture guess burst kid weird mobile orange";
+var mnemonic = "mango digital matter target ride fork purchase provide belt ridge decorate unusual";

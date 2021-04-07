@@ -1,1 +1,1 @@
-var mnemonic = "noodle digital short sad report brass frown trigger obtain fiscal imitate novel";
+var mnemonic = "live stool improve nature video divide never vault stay oblige aunt peanut";

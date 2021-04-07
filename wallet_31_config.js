@@ -1,1 +1,1 @@
-var mnemonic = "warrior worth float urge trigger skull clip twin more apology fame web";
+var mnemonic = "bring recall lemon purity couple edge wasp seat metal panther earn cover";

@@ -1,1 +1,1 @@
-var mnemonic = "junior inquiry surge liar start cradle pet bridge mimic stadium pioneer pen";
+var mnemonic = "consider toward focus trust gun cloth since virtual quick various salon claim";

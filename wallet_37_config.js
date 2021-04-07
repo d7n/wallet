@@ -1,1 +1,1 @@
-var mnemonic = "accuse dress cat arrive million toe toast detect cupboard very limit emotion";
+var mnemonic = "flavor hurt friend attitude odor message recall zebra kidney coral consider witness";

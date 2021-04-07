@@ -1,1 +1,1 @@
-var mnemonic = "runway warm favorite water topple gain possible spice client chicken goose great";
+var mnemonic = "more spatial clap piano jewel nuclear fine come shine settle brass process";

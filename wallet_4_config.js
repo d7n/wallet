@@ -1,1 +1,1 @@
-var mnemonic = "street swift hedgehog fork assume bleak rhythm spin food bamboo pyramid wasp";
+var mnemonic = "enable marble direct dance ice reason domain pair like hair erode reunion";
