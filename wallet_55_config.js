@@ -1,1 +1,1 @@
-var mnemonic = "match orange swarm tunnel develop two between hen liar neglect various switch";
+var mnemonic = "another effort unit bitter turtle calm other nut meadow valid shop tragic";

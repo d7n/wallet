@@ -1,1 +1,1 @@
-var mnemonic = "same thought canvas fame erase imitate winner trophy tray blossom festival uphold";
+var mnemonic = "steak comic love drop panda great sorry afraid spider clock ethics crucial";

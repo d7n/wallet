@@ -1,1 +1,1 @@
-var mnemonic = "purse harvest surround inform entry ticket tell fence gate traffic doll tragic";
+var mnemonic = "denial science picture twelve donkey canyon source asthma board pupil quarter region";

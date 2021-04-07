@@ -1,1 +1,1 @@
-var mnemonic = "stereo arena gospel chuckle dentist poem defy venture hamster inherit myself either";
+var mnemonic = "decrease pudding custom life age door plug curtain road antenna type rough";

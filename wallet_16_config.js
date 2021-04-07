@@ -1,1 +1,1 @@
-var mnemonic = "umbrella laundry apology dance alpha crew metal giggle cheap gravity buffalo end";
+var mnemonic = "hard field father sadness dentist fat snake enable betray orphan lemon view";

@@ -1,1 +1,1 @@
-var mnemonic = "similar enforce iron galaxy nephew canoe boring speed define dilemma indoor winter";
+var mnemonic = "arrive coyote nothing dust exhaust tool citizen stage twelve swing puppy dumb";

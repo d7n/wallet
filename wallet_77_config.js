@@ -1,1 +1,1 @@
-var mnemonic = "flight husband twice tide provide chicken sound pear rifle goddess update offer";
+var mnemonic = "muffin hockey position envelope glove south fade lock boat rebel fault method";

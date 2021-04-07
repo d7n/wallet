@@ -1,1 +1,1 @@
-var mnemonic = "blood roast jelly captain clay message actual sugar chronic agree cheese figure";
+var mnemonic = "simple wrong card dune fine waste enemy hungry dream fork elder benefit";

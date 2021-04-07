@@ -1,1 +1,1 @@
-var mnemonic = "bunker drastic mesh cousin comic race iron job lyrics address picture force";
+var mnemonic = "attitude guitar hold remember battle right glad output mouse juice inject auto";

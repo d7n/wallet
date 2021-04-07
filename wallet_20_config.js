@@ -1,1 +1,1 @@
-var mnemonic = "black welcome assume life jeans abandon hurry sphere equal mutual reopen author";
+var mnemonic = "hip goddess source pool van canoe quick move supply obscure strategy ride";

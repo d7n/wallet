@@ -1,1 +1,1 @@
-var mnemonic = "delay nature assault lunch bleak bundle cricket devote spread planet bulb kitten";
+var mnemonic = "embrace weekend strong crucial globe rack can leave celery fiscal sheriff cruise";

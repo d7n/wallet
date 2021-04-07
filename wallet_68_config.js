@@ -1,1 +1,1 @@
-var mnemonic = "sort immune differ ahead reunion raise net census hurdle print culture glide";
+var mnemonic = "window swear drip oval hurry snow come retreat visit soul prosper high";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan blossom miss web vote scare ticket tumble east similar cage reopen";
+var mnemonic = "soon bracket science turkey empty harbor lift height narrow enhance cloud like";

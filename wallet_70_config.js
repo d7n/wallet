@@ -1,1 +1,1 @@
-var mnemonic = "fuel hamster chicken list index endless mixture little clinic play claim gentle";
+var mnemonic = "will monkey noble wall source fine donate dance retreat source maze stock";

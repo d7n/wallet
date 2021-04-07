@@ -1,1 +1,1 @@
-var mnemonic = "normal boring what habit company need bullet general blood cinnamon ignore option";
+var mnemonic = "wonder unfold bulb walnut hammer blur farm phone garage special wall floor";

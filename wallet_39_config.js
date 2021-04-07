@@ -1,1 +1,1 @@
-var mnemonic = "ladder sock good more human diesel forget hold expand peanut hood glance";
+var mnemonic = "nuclear bronze tent trip stock hard maid paddle brown side swim upon";

@@ -1,1 +1,1 @@
-var mnemonic = "ceiling table buyer jewel float proof science fine mechanic great possible laptop";
+var mnemonic = "response unable concert rabbit gym diamond scare divorce stay village nature range";

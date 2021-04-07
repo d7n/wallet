@@ -1,1 +1,1 @@
-var mnemonic = "depend deny session palm arm evil mom fit tree diamond unveil second";
+var mnemonic = "draft region task quiz multiply tissue enjoy noise output solve nose police";

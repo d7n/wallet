@@ -1,1 +1,1 @@
-var mnemonic = "pledge stick outer write note proof stage book forget purpose firm world";
+var mnemonic = "again anchor cloth quit unit sheriff retreat symptom clutch butter bottom ability";

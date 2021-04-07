@@ -1,1 +1,1 @@
-var mnemonic = "increase harsh pepper quick oppose grass clinic wet pill poverty language inch";
+var mnemonic = "frog aware awake dragon absorb matter spy supply grid blade swamp jar";

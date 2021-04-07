@@ -1,1 +1,1 @@
-var mnemonic = "remember orbit tribe kiss helmet tornado pear absent boat finish across blur";
+var mnemonic = "remove combine naive couch crush ribbon render like fox brisk they guitar";

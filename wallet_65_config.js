@@ -1,1 +1,1 @@
-var mnemonic = "vessel upset grab group scatter cave gallery stem alone lunch comfort host";
+var mnemonic = "cross hurry lonely original weapon course client favorite cancel install method gravity";

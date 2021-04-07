@@ -1,1 +1,1 @@
-var mnemonic = "panic field large lock sausage into meadow club umbrella tooth weekend sun";
+var mnemonic = "carpet address bubble process glue female system require wire rich gossip loud";

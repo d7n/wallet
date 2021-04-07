@@ -1,1 +1,1 @@
-var mnemonic = "hold silly present liquid tuna wealth salmon reflect book script cloud praise";
+var mnemonic = "reopen silver reason will certain lyrics maid axis habit endless spread stem";

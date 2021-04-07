@@ -1,1 +1,1 @@
-var mnemonic = "make pear sadness glad bar cream retreat stamp fiscal pluck atom canal";
+var mnemonic = "auction stone fiscal nuclear define page flame lemon guide remain upon kangaroo";

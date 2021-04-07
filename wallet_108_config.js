@@ -1,1 +1,1 @@
-var mnemonic = "staff basket chunk portion abstract swamp lava leopard beach ozone rack armed";
+var mnemonic = "gorilla crime display proud siege whip video point short town reject horn";

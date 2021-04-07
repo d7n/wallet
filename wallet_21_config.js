@@ -1,1 +1,1 @@
-var mnemonic = "letter chuckle sketch army air message expand naive promote grocery jazz uncover";
+var mnemonic = "milk world fiscal primary toy supply myth actor common ethics rare ecology";

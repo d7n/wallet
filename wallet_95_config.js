@@ -1,1 +1,1 @@
-var mnemonic = "heart wrong fury hundred echo another vapor fat fall kid direct desk";
+var mnemonic = "jeans harvest elite snake puzzle build urge orchard grab ritual bonus crawl";

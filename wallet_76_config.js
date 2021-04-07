@@ -1,1 +1,1 @@
-var mnemonic = "need permit armed cradle lecture awful patch banana tornado action slot alter";
+var mnemonic = "pond special resource clown three true walk across impact hospital subway firm";

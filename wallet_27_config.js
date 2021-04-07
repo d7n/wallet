@@ -1,1 +1,1 @@
-var mnemonic = "cheap dice open acoustic defy hungry order rookie square shop sentence promote";
+var mnemonic = "found loop race rifle ostrich oil fog ability purity amount draw night";

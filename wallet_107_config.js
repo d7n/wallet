@@ -1,1 +1,1 @@
-var mnemonic = "music float tissue purse peasant wagon order awesome payment roast mask acquire";
+var mnemonic = "knee cinnamon sugar false fix report poet valid strike trade aspect jacket";

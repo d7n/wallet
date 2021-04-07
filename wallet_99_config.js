@@ -1,1 +1,1 @@
-var mnemonic = "unlock jazz lobster eyebrow pig timber soap clerk wheel cause head sight";
+var mnemonic = "model just expose apple skirt craft orchard speed clap small aunt game";

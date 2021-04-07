@@ -1,1 +1,1 @@
-var mnemonic = "social truck armor peace father slight crunch life gift ticket creek phone";
+var mnemonic = "feel dentist tilt seat round alert shove afford arrange coyote suggest theory";

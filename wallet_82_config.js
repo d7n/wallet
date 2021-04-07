@@ -1,1 +1,1 @@
-var mnemonic = "rich essay curve meadow during bronze advice pair carry exit appear chef";
+var mnemonic = "inmate legend ten ladder soup gate guilt laundry minimum title program priority";

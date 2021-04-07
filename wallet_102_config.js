@@ -1,1 +1,1 @@
-var mnemonic = "derive dwarf viable canoe resist best grace can call shop remember miracle";
+var mnemonic = "time accuse fan scout helmet athlete pony vanish purse time punch choice";

@@ -1,1 +1,1 @@
-var mnemonic = "rude salmon alone day best mixture inspire place world deer timber junk";
+var mnemonic = "slim vacant elevator possible cause shiver arrive seed love sheriff remove cram";

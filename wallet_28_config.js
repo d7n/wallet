@@ -1,1 +1,1 @@
-var mnemonic = "shell slight more unusual height bright jazz alert ignore sail rice best";
+var mnemonic = "eager distance safe regular release approve concert guard sunset puppy purpose city";

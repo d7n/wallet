@@ -1,1 +1,1 @@
-var mnemonic = "youth clarify crawl famous rigid surround mercy august peace bulk token law";
+var mnemonic = "cousin accident roast material move else exotic company liquid crush maid staff";

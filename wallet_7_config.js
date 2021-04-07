@@ -1,1 +1,1 @@
-var mnemonic = "ladder evoke churn child enhance genre add flock cotton route final help";
+var mnemonic = "switch wish ball unveil chef hurry zebra dynamic knock rent name size";

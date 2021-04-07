@@ -1,1 +1,1 @@
-var mnemonic = "dolphin emerge budget manual egg name flight camera benefit venture broken inspire";
+var mnemonic = "couple gesture wild section artist novel fade snack lunch regret test pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "pen govern alpha quality grid intact session mistake diesel pyramid novel furnace";
+var mnemonic = "science utility pear swift finish tilt source fine negative primary chuckle close";

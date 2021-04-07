@@ -1,1 +1,1 @@
-var mnemonic = "envelope response wet upgrade wire high direct unusual gown trumpet enforce shaft";
+var mnemonic = "fold yard sick music dawn order sand scare swing cluster curious near";

@@ -1,1 +1,1 @@
-var mnemonic = "sausage basket solution bench differ ripple crop eternal shallow milk medal outdoor";
+var mnemonic = "paddle also render giggle whisper grid scrap recall wreck cluster mask protect";

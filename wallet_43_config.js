@@ -1,1 +1,1 @@
-var mnemonic = "awake bitter trend recycle space outdoor best castle else topic wet youth";
+var mnemonic = "young clever swift height finger tube east thank man unique satoshi amateur";

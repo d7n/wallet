@@ -1,1 +1,1 @@
-var mnemonic = "answer frown donkey awake inflict other walnut invest spy tray diamond neutral";
+var mnemonic = "unknown print heavy spot remove cover drill mix agree cement sentence rebel";

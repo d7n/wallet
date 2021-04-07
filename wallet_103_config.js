@@ -1,1 +1,1 @@
-var mnemonic = "shove clump obscure prize disease shaft waste scrub pupil amazing version vast";
+var mnemonic = "prosper tissue warm dream piece regret evoke original nasty pipe phone service";

@@ -1,1 +1,1 @@
-var mnemonic = "wine daughter wish future attend awesome movie unlock alert surround outside salt";
+var mnemonic = "pepper trophy film great deputy pig surprise unusual lottery couch deputy music";

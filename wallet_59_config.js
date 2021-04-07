@@ -1,1 +1,1 @@
-var mnemonic = "tackle say cry fork traffic lucky slice fiction doll torch blade auto";
+var mnemonic = "circle panel master father fabric such journey indicate stem today wheel fancy";

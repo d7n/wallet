@@ -1,1 +1,1 @@
-var mnemonic = "sword sniff palace scout rug blast ivory program grab feed exercise feed";
+var mnemonic = "group reward field lava rural siege gown decorate throw accident good fringe";

@@ -1,1 +1,1 @@
-var mnemonic = "grow ocean young uncover myth junior cram acquire twin peace clutch behave";
+var mnemonic = "auction lion original code marriage still layer expire rubber sure cherry track";

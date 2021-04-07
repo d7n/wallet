@@ -1,1 +1,1 @@
-var mnemonic = "neutral plunge crazy olive law enemy lens credit auction loyal submit rain";
+var mnemonic = "gaze follow sleep canvas pluck entry penalty keen critic talk mobile garlic";

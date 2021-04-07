@@ -1,1 +1,1 @@
-var mnemonic = "average fashion right brick pilot few build change maple junior soccer empower";
+var mnemonic = "reject thunder must inspire plug easy twenty devote ability faint inch farm";

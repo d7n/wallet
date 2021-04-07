@@ -1,1 +1,1 @@
-var mnemonic = "warrior moral wrist fruit inject shock photo cool lesson echo length best";
+var mnemonic = "vast assume blue endorse left improve okay first elevator face sleep slight";

@@ -1,1 +1,1 @@
-var mnemonic = "north gun pretty they frame bacon shallow sign gauge churn pill team";
+var mnemonic = "stool install medal before board toy seed consider rotate problem candy decorate";

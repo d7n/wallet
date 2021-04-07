@@ -1,1 +1,1 @@
-var mnemonic = "safe fall plug medal sick govern manual old minimum ripple birth bar";
+var mnemonic = "special valve sea clutch search narrow tribe patch brush buzz mule achieve";

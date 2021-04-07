@@ -1,1 +1,1 @@
-var mnemonic = "speak vocal enroll cup coral ignore exchange distance pluck scrap park tail";
+var mnemonic = "film only delay universe eyebrow lazy rigid saddle palm rigid lady doctor";

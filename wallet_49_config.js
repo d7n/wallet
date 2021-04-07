@@ -1,1 +1,1 @@
-var mnemonic = "food divert must tone reveal execute choice mean lunar dragon vacant solution";
+var mnemonic = "what twelve fancy toilet leopard wide pave lady weird window guilt quit";

@@ -1,1 +1,1 @@
-var mnemonic = "combine veteran merry remain hospital shift gorilla boring own style color address";
+var mnemonic = "fossil salute reform reopen primary alien rigid smooth leisure genre cigar symbol";

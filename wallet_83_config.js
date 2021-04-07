@@ -1,1 +1,1 @@
-var mnemonic = "nurse unique material outdoor rely faint swear empty join settle program require";
+var mnemonic = "charge affair wire object resist legend pumpkin such jungle runway seek toss";

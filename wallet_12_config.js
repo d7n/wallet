@@ -1,1 +1,1 @@
-var mnemonic = "demise anger cream boy soul identify barely cabbage fatal nose sunny keen";
+var mnemonic = "brick return rare actress affair arrange cruel lyrics draw logic kit chalk";

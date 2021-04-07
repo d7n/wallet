@@ -1,1 +1,1 @@
-var mnemonic = "brand pulse zebra room foil clown script junior mystery beef enlist dragon";
+var mnemonic = "elite chapter hat blast insect name pilot shaft thumb mimic demand submit";

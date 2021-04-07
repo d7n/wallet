@@ -1,1 +1,1 @@
-var mnemonic = "draw buddy side swap marriage excuse execute wet vacuum gorilla assist worry";
+var mnemonic = "custom tissue recipe cigar lion sheriff hotel reunion source satisfy side razor";

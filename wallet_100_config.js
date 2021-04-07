@@ -1,1 +1,1 @@
-var mnemonic = "coral where move vivid silly appear quality ten boat sadness video core";
+var mnemonic = "uphold frown amount lemon grab fix guard explain satisfy fetch end grape";

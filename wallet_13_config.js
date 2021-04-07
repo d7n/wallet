@@ -1,1 +1,1 @@
-var mnemonic = "uphold minute survey resource nose couple praise time swarm remove defy area";
+var mnemonic = "section amused celery must knock flock half uniform age rely dial success";

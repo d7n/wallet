@@ -1,1 +1,1 @@
-var mnemonic = "whip before pattern online dune wrist tower name corn common vehicle drama";
+var mnemonic = "abstract jeans dawn noise float suffer matrix table piece gas forward matrix";

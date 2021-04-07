@@ -1,1 +1,1 @@
-var mnemonic = "beach message core way desert fetch drum lend sail angle beef onion";
+var mnemonic = "priority moon fish cart horror scorpion sniff twelve sword emerge target buzz";

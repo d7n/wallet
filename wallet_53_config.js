@@ -1,1 +1,1 @@
-var mnemonic = "judge sustain garment task arctic will assist abandon weapon course actress earth";
+var mnemonic = "coin muffin blood flat buyer marine swim cross rice subway shrimp actor";

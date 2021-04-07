@@ -1,1 +1,1 @@
-var mnemonic = "dynamic school surprise taxi simple visit vast fault excess breeze youth recipe";
+var mnemonic = "round album cotton best settle dismiss defy bless member copper crop hen";

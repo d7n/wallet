@@ -1,1 +1,1 @@
-var mnemonic = "bullet swallow sword tragic cycle buffalo sentence chase comfort dish abuse vague";
+var mnemonic = "coyote because link vague deputy across fantasy fame pool kangaroo napkin cable";

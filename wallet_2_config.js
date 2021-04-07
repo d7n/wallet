@@ -1,1 +1,1 @@
-var mnemonic = "behind home husband blind slot grief light grunt enrich kid bulb nominee";
+var mnemonic = "lab siege float sudden fire any robot render ankle misery sweet large";

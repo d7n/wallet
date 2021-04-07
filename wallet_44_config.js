@@ -1,1 +1,1 @@
-var mnemonic = "robot view fruit brain lunch palace knife crack slim artwork venture scrub";
+var mnemonic = "claw cross orchard sister move squirrel someone enable mercy absorb saddle spawn";

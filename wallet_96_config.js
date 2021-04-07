@@ -1,1 +1,1 @@
-var mnemonic = "tower input reason update accuse valve tiny hospital spawn angry surprise ceiling";
+var mnemonic = "pledge flock under interest spice negative rate report beef glimpse access junior";

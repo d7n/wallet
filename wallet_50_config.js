@@ -1,1 +1,1 @@
-var mnemonic = "beach minor vibrant aerobic rubber venue gospel day artwork anger debris expect";
+var mnemonic = "segment enter card meadow destroy maple absorb virus will bonus april glow";

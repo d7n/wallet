@@ -1,1 +1,1 @@
-var mnemonic = "remember bean net prepare best direct prefer lady husband have water drive";
+var mnemonic = "table hospital owner jeans stem robot outside harsh toast industry exit material";

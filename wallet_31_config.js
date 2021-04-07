@@ -1,1 +1,1 @@
-var mnemonic = "initial practice cricket battle blouse shell draw fury host guitar force elegant";
+var mnemonic = "analyst return soccer museum plate sight bulb disagree canvas quiz riot ghost";

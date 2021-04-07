@@ -1,1 +1,1 @@
-var mnemonic = "annual biology boring sign essence elbow act mother spread resist opera reduce";
+var mnemonic = "mammal unknown race key depth relief square bid rebuild useful settle alter";

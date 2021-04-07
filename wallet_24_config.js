@@ -1,1 +1,1 @@
-var mnemonic = "term boss enact embark finish hope cloud danger emerge vacant useful top";
+var mnemonic = "enrich will stock dumb witness dad addict oil believe avocado swing ecology";

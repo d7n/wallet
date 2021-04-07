@@ -1,1 +1,1 @@
-var mnemonic = "bike cause theme urban general labor boost machine enact protect pave dinosaur";
+var mnemonic = "fence innocent secret absorb drive tell wife company diagram fragile prison render";

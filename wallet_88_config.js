@@ -1,1 +1,1 @@
-var mnemonic = "exhaust keep file spoon mixture body little lake cash board tray fatigue";
+var mnemonic = "uphold when noodle royal walk practice core bamboo burger number donate wolf";

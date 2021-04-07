@@ -1,1 +1,1 @@
-var mnemonic = "head list antenna drive kind tent town bomb seminar torch burst approve";
+var mnemonic = "bone minute casual receive genius happy city supply patch test dance summer";

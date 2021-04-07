@@ -1,1 +1,1 @@
-var mnemonic = "digital truly poem miracle only suit brush announce top large special symptom";
+var mnemonic = "junk leisure album adult frame rally taxi mind notice ranch artwork lift";

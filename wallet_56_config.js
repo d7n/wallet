@@ -1,1 +1,1 @@
-var mnemonic = "bulk into clean ritual fragile stove science jaguar shallow drum purity awesome";
+var mnemonic = "ball sample exclude isolate reason axis quality announce grit winner east potato";

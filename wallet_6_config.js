@@ -1,1 +1,1 @@
-var mnemonic = "owner unhappy caught smoke total cherry dice pattern resist fashion suit fame";
+var mnemonic = "nose cupboard drum boil step short unit firm evidence slot nice fame";

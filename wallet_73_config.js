@@ -1,1 +1,1 @@
-var mnemonic = "report front mammal fortune make flock crime post silver allow online soda";
+var mnemonic = "arrange future insane film kit rib horror produce clay stable fragile insect";

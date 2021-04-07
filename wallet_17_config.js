@@ -1,1 +1,1 @@
-var mnemonic = "draw real okay acquire exit forum spike hood fossil salad ivory slice";
+var mnemonic = "decline repair weapon club claim monkey become butter slender robust coil surface";

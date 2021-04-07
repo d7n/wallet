@@ -1,1 +1,1 @@
-var mnemonic = "sting wage peasant cabbage casino shiver tower brass enough green slab typical";
+var mnemonic = "loyal seat clay lobster ramp slab conduct special tape icon toward mother";

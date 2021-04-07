@@ -1,1 +1,1 @@
-var mnemonic = "skin acoustic spy submit truth various kidney shy inject track firm clip";
+var mnemonic = "similar document certain breeze stone insect kiwi vapor clutch spice olive butter";

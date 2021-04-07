@@ -1,1 +1,1 @@
-var mnemonic = "weather country kind swear purse army loop guitar diet original hero awesome";
+var mnemonic = "fix jazz actor entire inspire inspire recipe during gap pond sail photo";

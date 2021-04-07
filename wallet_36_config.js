@@ -1,1 +1,1 @@
-var mnemonic = "chicken gas useless fun another almost runway cup budget start festival lawn";
+var mnemonic = "chair fever phone fiber kitten sad wasp size dumb ask subject hour";

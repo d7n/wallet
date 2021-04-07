@@ -1,1 +1,1 @@
-var mnemonic = "mule certain nurse century coyote worth frog taxi youth turkey table urge";
+var mnemonic = "siren cliff jump summer argue call make embody bubble crawl salt fame";

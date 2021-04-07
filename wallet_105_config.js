@@ -1,1 +1,1 @@
-var mnemonic = "leader spatial fringe provide payment huge ahead wheat page artefact spawn jaguar";
+var mnemonic = "blush plug female index solution vapor lumber sea peasant pledge victory pledge";
