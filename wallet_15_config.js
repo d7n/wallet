@@ -1,1 +1,1 @@
-var mnemonic = "random depend peasant rabbit again junior loop session boring giant tomato resource";
+var mnemonic = "segment clean wisdom unveil body inject skill below hello bridge peanut differ";

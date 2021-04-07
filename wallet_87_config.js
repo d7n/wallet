@@ -1,1 +1,1 @@
-var mnemonic = "concert sister trend exhaust ankle science surprise such provide tilt doctor sound";
+var mnemonic = "stable apology tornado option cycle short hill accident hammer age reopen horse";

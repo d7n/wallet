@@ -1,1 +1,1 @@
-var mnemonic = "harbor solution bridge receive rack resist garden leave morning snap reduce point";
+var mnemonic = "october theory carry bag core forward profit salmon load number abuse unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss ankle next art forget clutch hour hint love recycle tired result";
+var mnemonic = "bicycle success universe cycle skill device tank junior forget desert mechanic park";

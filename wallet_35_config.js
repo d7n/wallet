@@ -1,1 +1,1 @@
-var mnemonic = "cake hobby ginger donkey stuff image task fire chase fine outside silent";
+var mnemonic = "abuse shoe squirrel water rapid put sand crumble dirt island trash ice";

@@ -1,1 +1,1 @@
-var mnemonic = "riot sure rubber element parrot marriage vault trade fine attend object orange";
+var mnemonic = "mountain mass adapt mad harsh when cotton foil grid vacant because arrive";

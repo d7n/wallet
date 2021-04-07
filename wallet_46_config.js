@@ -1,1 +1,1 @@
-var mnemonic = "chalk protect tube kitchen snack interest woman gospel injury protect custom tissue";
+var mnemonic = "matter other blouse real absurd mammal swift pelican shell invest beef powder";

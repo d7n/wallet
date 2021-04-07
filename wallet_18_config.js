@@ -1,1 +1,1 @@
-var mnemonic = "lesson elegant rifle toe best gold library attract diagram detect punch surface";
+var mnemonic = "cannon lizard mask vacant sausage pupil upgrade crew people barely ramp garden";

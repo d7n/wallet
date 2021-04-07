@@ -1,1 +1,1 @@
-var mnemonic = "food exhaust rack language small forum stairs trip express apology symbol size";
+var mnemonic = "record swear prepare mirror visit fence casual job buffalo marine sort multiply";

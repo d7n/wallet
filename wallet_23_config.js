@@ -1,1 +1,1 @@
-var mnemonic = "market pass series armor oil gloom bring episode gain device another tackle";
+var mnemonic = "vacant sheriff near asset angry have gloom copy art choice gallery hip";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer release media exotic quality strike common coral govern real trophy expire";
+var mnemonic = "pond puzzle one minimum protect tiger knife catch bird ancient anger story";

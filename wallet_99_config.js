@@ -1,1 +1,1 @@
-var mnemonic = "tonight child refuse spoil border flock social resist fancy huge prevent crane";
+var mnemonic = "symptom trouble possible spatial senior judge bar duty sentence load hospital cancel";

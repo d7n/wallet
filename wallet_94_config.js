@@ -1,1 +1,1 @@
-var mnemonic = "shallow husband lock catalog shine curtain table jazz eyebrow rabbit army enrich";
+var mnemonic = "enrich believe isolate punch original grain write unusual devote tragic require banana";

@@ -1,1 +1,1 @@
-var mnemonic = "stone december strategy demise session dad era burger little bag spell jump";
+var mnemonic = "good auto mystery prize fashion pitch account miss leisure orchard tragic badge";

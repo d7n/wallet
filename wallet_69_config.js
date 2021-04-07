@@ -1,1 +1,1 @@
-var mnemonic = "subject return section desk brave dutch prison team street cactus tomato olympic";
+var mnemonic = "bring sudden story thunder zero armor rough swamp ice ordinary erase flip";

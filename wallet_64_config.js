@@ -1,1 +1,1 @@
-var mnemonic = "sheriff deer jaguar junior whisper year blood ghost suggest pear road sing";
+var mnemonic = "forum quick auction thrive nest humble split earth opera wait twice warfare";

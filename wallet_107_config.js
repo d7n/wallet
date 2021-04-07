@@ -1,1 +1,1 @@
-var mnemonic = "cruel quarter rocket huge cotton fan smoke infant imitate aspect attract sense";
+var mnemonic = "caution remind what expand grant fox dove easily traffic lumber repair slam";

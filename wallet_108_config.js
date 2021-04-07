@@ -1,1 +1,1 @@
-var mnemonic = "oven joy oyster deal twice wisdom rent blind toast solar breeze hunt";
+var mnemonic = "limb alter wrong hunt spawn exile boost ski club mandate industry mother";

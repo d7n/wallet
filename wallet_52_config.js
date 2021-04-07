@@ -1,1 +1,1 @@
-var mnemonic = "real black cotton moral reveal biology cushion shoot daring lounge broom hawk";
+var mnemonic = "bonus wonder stomach dish output limit draw mix youth dose cradle crash";

@@ -1,1 +1,1 @@
-var mnemonic = "cost circle large spin gasp shuffle rib order pen chase essence strong";
+var mnemonic = "access stamp trade envelope toss pink embody manual entry hollow job village";

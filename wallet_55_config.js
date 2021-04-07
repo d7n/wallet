@@ -1,1 +1,1 @@
-var mnemonic = "pole bind industry soccer palm pink cry rent all paddle visa before";
+var mnemonic = "ball arrange include siege wasp shoulder glove snow field reunion toward impulse";

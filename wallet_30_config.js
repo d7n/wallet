@@ -1,1 +1,1 @@
-var mnemonic = "silk cotton multiply order congress carbon demand worry among hammer design enable";
+var mnemonic = "citizen strike upper garbage topic traffic hotel ladder brand trouble fine bottom";

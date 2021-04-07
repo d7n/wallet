@@ -1,1 +1,1 @@
-var mnemonic = "return catch venture lemon spy destroy search exit thing young cable antenna";
+var mnemonic = "radio cup uncle shock gentle tag museum law outer adult magic math";

@@ -1,1 +1,1 @@
-var mnemonic = "robust original strong fetch recycle crater road patrol combine flip fatigue buzz";
+var mnemonic = "welcome fossil cable say anchor silver sign diamond sand tuition vanish rent";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely bone apology index tenant nose miss wink practice element muffin course";
+var mnemonic = "pulse steel hollow raw category gauge dignity lady release pride original moon";

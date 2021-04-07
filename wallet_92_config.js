@@ -1,1 +1,1 @@
-var mnemonic = "timber dignity loud rug almost music success obtain empty acquire bottom project";
+var mnemonic = "frequent episode helmet input emotion crowd adult congress stay pistol cousin couple";

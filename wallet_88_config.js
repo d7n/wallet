@@ -1,1 +1,1 @@
-var mnemonic = "toe prefer raise parade buddy arctic ocean anger evil state pig ugly";
+var mnemonic = "obey stay blame budget olive object arena report fish energy pet pioneer";

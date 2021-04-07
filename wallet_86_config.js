@@ -1,1 +1,1 @@
-var mnemonic = "friend lobster enter swamp name science patch tail zebra giggle scrap scorpion";
+var mnemonic = "artist jelly topic squeeze tape hunt vacuum usual stand dinner trap basic";

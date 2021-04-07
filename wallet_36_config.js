@@ -1,1 +1,1 @@
-var mnemonic = "picnic size test cluster movie large crew crime good pilot motion elevator";
+var mnemonic = "nephew lyrics tiny rigid business common action great pull pencil enter differ";

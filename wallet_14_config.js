@@ -1,1 +1,1 @@
-var mnemonic = "energy super guilt way minimum useless anxiety half type offer casino slab";
+var mnemonic = "empower total squeeze cancel library wrap require wrong survey toddler room pledge";

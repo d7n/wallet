@@ -1,1 +1,1 @@
-var mnemonic = "skate kiwi practice onion lemon useful embody blade device absurd setup antique";
+var mnemonic = "ketchup meat pistol record rib coconut topic critic hungry witness faint crazy";

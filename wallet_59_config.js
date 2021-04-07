@@ -1,1 +1,1 @@
-var mnemonic = "minute hundred pepper liberty diamond smile pair lamp spare bench broken call";
+var mnemonic = "vague giggle wage regret utility mistake maid capital program often betray quantum";

@@ -1,1 +1,1 @@
-var mnemonic = "fade return label alien mind monitor zero shove bullet unveil motion media";
+var mnemonic = "quality huge hobby fan permit velvet cook behind comfort resource room van";

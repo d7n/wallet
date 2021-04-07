@@ -1,1 +1,1 @@
-var mnemonic = "menu sentence pen year glow smooth host jump aware alley else glow";
+var mnemonic = "fan radio increase surge swing dentist brother clinic desk inner tornado scare";

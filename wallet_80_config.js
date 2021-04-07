@@ -1,1 +1,1 @@
-var mnemonic = "blind divorce neither weather inside about maid fat torch ordinary chalk whip";
+var mnemonic = "super rather mix festival truly soon giggle dog believe moment inch quarter";

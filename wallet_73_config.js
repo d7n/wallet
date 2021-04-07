@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit muscle ripple cancel six vacuum outer okay legal story universe amount";
+var mnemonic = "fatal list arrive live fog diamond manual march bronze ocean machine lazy";

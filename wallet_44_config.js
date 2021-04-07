@@ -1,1 +1,1 @@
-var mnemonic = "sadness cabin pigeon inquiry myself wood resist style obey vapor coach vapor";
+var mnemonic = "trade crane certain genius embark victory lonely thought file outside upon suffer";

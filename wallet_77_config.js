@@ -1,1 +1,1 @@
-var mnemonic = "find arrow morning quote subway holiday frequent gravity head nuclear forest similar";
+var mnemonic = "deliver wrong call toward mask fun finger despair scene margin wear myth";

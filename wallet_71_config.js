@@ -1,1 +1,1 @@
-var mnemonic = "matter wrap yard uncle birth treat buzz reduce hollow lazy country buffalo";
+var mnemonic = "same clown march rate spike beauty fade reform require govern glow measure";

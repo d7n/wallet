@@ -1,1 +1,1 @@
-var mnemonic = "plastic wine chunk gauge same purse decide edge economy certain master congress";
+var mnemonic = "pride any state loud shiver wool doctor ghost enter bonus power olympic";

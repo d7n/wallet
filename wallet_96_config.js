@@ -1,1 +1,1 @@
-var mnemonic = "edit distance million depth marble slide slight comfort simple west version finger";
+var mnemonic = "peace double fork subject inquiry lock voice coral olympic ankle brain decade";

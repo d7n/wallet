@@ -1,1 +1,1 @@
-var mnemonic = "motor talent upper detail client object lunar please rain chef educate edit";
+var mnemonic = "tumble main width orange puppy comfort alone entry secret gallery fantasy lumber";

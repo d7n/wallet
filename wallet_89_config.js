@@ -1,1 +1,1 @@
-var mnemonic = "engine guide hammer slight across grab friend west wine cabin what vast";
+var mnemonic = "then cave shadow tray dream rude increase become enjoy hamster song coral";

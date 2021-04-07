@@ -1,1 +1,1 @@
-var mnemonic = "always square convince other mom fault modify train damage unveil there bird";
+var mnemonic = "vessel game attend recipe salt oyster catalog proud grief shield drop party";

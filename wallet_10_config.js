@@ -1,1 +1,1 @@
-var mnemonic = "tent affair version weasel truck shed option ranch recipe weather interest media";
+var mnemonic = "robot strike uniform loan office silly busy angle execute retire human buzz";

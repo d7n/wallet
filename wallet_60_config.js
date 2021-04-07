@@ -1,1 +1,1 @@
-var mnemonic = "sniff name census can glove lady pair slush prosper choice nasty submit";
+var mnemonic = "erode obscure tornado firm middle gossip please issue sadness prison cycle practice";

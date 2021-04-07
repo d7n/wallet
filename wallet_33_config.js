@@ -1,1 +1,1 @@
-var mnemonic = "coin profit promote off hen tornado comic use fluid hidden attract midnight";
+var mnemonic = "much pattern scare twist patient gain frost excite liberty cream prize huge";

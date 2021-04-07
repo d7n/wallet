@@ -1,1 +1,1 @@
-var mnemonic = "charge jump noise omit anchor math fruit powder young craft lawsuit obey";
+var mnemonic = "fog badge simple hobby inherit harsh balance void increase welcome immune album";

@@ -1,1 +1,1 @@
-var mnemonic = "divert run chest cabbage symptom destroy stadium soft emerge build between seminar";
+var mnemonic = "grain alert level moral marine you choose element fine magic elder egg";

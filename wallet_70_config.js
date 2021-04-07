@@ -1,1 +1,1 @@
-var mnemonic = "enroll treat swap merit smooth practice crowd fresh usage punch seminar common";
+var mnemonic = "mouse pole adjust produce pond garlic bargain action airport casual snow there";

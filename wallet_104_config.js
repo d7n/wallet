@@ -1,1 +1,1 @@
-var mnemonic = "notable unfair curtain off cereal afraid section pencil original warrior swing faculty";
+var mnemonic = "gift unknown card holiday decline upper rabbit sock arrest omit rule margin";

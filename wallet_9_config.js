@@ -1,1 +1,1 @@
-var mnemonic = "leg check amount same record example object theme lamp film nominee fence";
+var mnemonic = "affair album swift metal bargain slogan puzzle panda limit middle behave thought";

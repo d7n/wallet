@@ -1,1 +1,1 @@
-var mnemonic = "old lake liquid primary wolf finish report inch depart test decide chunk";
+var mnemonic = "chief run message install now mixed swarm garbage earth venture own before";

@@ -1,1 +1,1 @@
-var mnemonic = "bottom crew possible main dog motion body lunar fitness vapor tissue screen";
+var mnemonic = "spread pigeon inside opera utility aspect air couch cabin glide rhythm course";

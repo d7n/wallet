@@ -1,1 +1,1 @@
-var mnemonic = "dish motion above enforce brand judge sphere celery arrow ill wink vintage";
+var mnemonic = "sadness coconut erase cycle boy fit cluster movie adapt athlete crunch solar";

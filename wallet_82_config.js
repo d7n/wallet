@@ -1,1 +1,1 @@
-var mnemonic = "uniform truth pigeon divert better pelican success honey reveal hen valid cruise";
+var mnemonic = "dynamic capable convince frozen unknown hour write taste notable laundry void urge";

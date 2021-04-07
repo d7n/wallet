@@ -1,1 +1,1 @@
-var mnemonic = "they rich bargain decrease nasty dynamic brisk gold stuff humble doctor produce";
+var mnemonic = "ankle curtain leader average host boost list deputy flip certain recycle october";

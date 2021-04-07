@@ -1,1 +1,1 @@
-var mnemonic = "film because spend image cancel record island warfare skate marriage accuse prosper";
+var mnemonic = "expect glue language trade glance water night domain emotion story pond load";

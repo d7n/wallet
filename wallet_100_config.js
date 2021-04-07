@@ -1,1 +1,1 @@
-var mnemonic = "educate giggle pistol legend exercise fossil someone upper night resource deliver peace";
+var mnemonic = "vendor chapter involve intact eagle afford minute echo weather catch amused cliff";

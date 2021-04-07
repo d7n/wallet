@@ -1,1 +1,1 @@
-var mnemonic = "betray major maximum spatial brush traffic assist gasp warm dizzy feel skate";
+var mnemonic = "walnut spray forest forward decrease vapor expire sweet genuine have buyer level";

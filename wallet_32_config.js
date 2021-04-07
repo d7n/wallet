@@ -1,1 +1,1 @@
-var mnemonic = "magnet state cluster feel cube panic gym anxiety coffee owner era basket";
+var mnemonic = "wood tank orbit double inhale used hood ensure rookie obey trip disease";

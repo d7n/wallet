@@ -1,1 +1,1 @@
-var mnemonic = "problem simple identify strategy squeeze essence fame aerobic bracket neck cheap merry";
+var mnemonic = "switch clap law uncle cliff aware gossip glow violin agree text blush";

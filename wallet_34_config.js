@@ -1,1 +1,1 @@
-var mnemonic = "bag sponsor mean grow behind media amazing method genre waste weasel club";
+var mnemonic = "mask draft history surge cheap mistake viable pretty illness approve turkey acquire";

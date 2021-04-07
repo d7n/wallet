@@ -1,1 +1,1 @@
-var mnemonic = "pledge now romance surround nice talk load frost slide dragon expire vault";
+var mnemonic = "network service victory salmon month visa hold hat have property outdoor address";

@@ -1,1 +1,1 @@
-var mnemonic = "endless grief coil salon marriage shoulder shy pattern hurdle visual picture furnace";
+var mnemonic = "silly castle fruit option sentence speed mystery creek fame churn enemy inquiry";

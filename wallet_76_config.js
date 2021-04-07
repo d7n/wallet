@@ -1,1 +1,1 @@
-var mnemonic = "trumpet execute ocean crater now expire broccoli grant actor caught spot modify";
+var mnemonic = "fancy vivid antique scene indoor total grief depth right pitch doll return";

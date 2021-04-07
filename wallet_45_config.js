@@ -1,1 +1,1 @@
-var mnemonic = "lend dignity world maid moral model patient rocket surprise wash fence chair";
+var mnemonic = "cover thank true shine struggle enough favorite fox stay media coral snow";

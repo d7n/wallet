@@ -1,1 +1,1 @@
-var mnemonic = "arena kangaroo kidney spatial risk point lab middle wolf true device airport";
+var mnemonic = "girl predict polar park quarter arrive short grocery section march opera wrestle";

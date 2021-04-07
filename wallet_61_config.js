@@ -1,1 +1,1 @@
-var mnemonic = "fatal field mix survey purchase bullet pass street keen cinnamon demand brass";
+var mnemonic = "skirt float viable scrap smooth actress run sample category maze alter around";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge gift mother dose myth sort chat latin tide cream wire frozen";
+var mnemonic = "cigar march lend bread grass equal use life another welcome matter drip";

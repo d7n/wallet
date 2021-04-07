@@ -1,1 +1,1 @@
-var mnemonic = "stock north decrease orbit ball attract duck noble loud sock reject kingdom";
+var mnemonic = "eternal tackle search century this ginger save zoo shoulder hip infant favorite";

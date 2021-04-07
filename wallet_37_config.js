@@ -1,1 +1,1 @@
-var mnemonic = "print tape bid chief sight accident wait finger about soul alien silk";
+var mnemonic = "stomach soul tennis unknown bonus nose flock caught lumber shove genius success";

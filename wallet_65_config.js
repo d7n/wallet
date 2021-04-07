@@ -1,1 +1,1 @@
-var mnemonic = "truck hover pole almost prefer pepper frog dizzy very piano swear ticket";
+var mnemonic = "list settle february hero remove peanut warfare maple industry spring spare luxury";

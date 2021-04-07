@@ -1,1 +1,1 @@
-var mnemonic = "steak parrot feature usual busy injury bean razor cushion version topic beef";
+var mnemonic = "need curtain shine slow struggle purse inner gadget post clump kite second";

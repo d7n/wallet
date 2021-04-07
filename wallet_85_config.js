@@ -1,1 +1,1 @@
-var mnemonic = "stay axis monitor always provide announce table surprise cart believe hint click";
+var mnemonic = "maze half weather menu spell bundle system salad horn outside slab warrior";

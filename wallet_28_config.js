@@ -1,1 +1,1 @@
-var mnemonic = "peanut mutual print client comic orient husband finger reopen rule lucky one";
+var mnemonic = "virus charge ill record window upper quick bonus kick sound fitness shoot";

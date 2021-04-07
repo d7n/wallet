@@ -1,1 +1,1 @@
-var mnemonic = "mad tip sugar foot scene tornado mansion holiday core priority stomach connect";
+var mnemonic = "burst board food perfect thunder donkey among such camera error sure citizen";

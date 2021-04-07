@@ -1,1 +1,1 @@
-var mnemonic = "gesture oven exit smoke token text inherit bunker exotic soap spatial cruel";
+var mnemonic = "sea divorce noise bring travel happy lens green glove sing crew turkey";

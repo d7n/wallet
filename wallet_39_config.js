@@ -1,1 +1,1 @@
-var mnemonic = "meadow casino error pet muffin avocado scare fever heart tower pizza unfair";
+var mnemonic = "question walk fault index source recall end joy token parent voyage clown";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato unit build leaf token remind pony silent noise topple sign vast";
+var mnemonic = "rural unusual convince pause wagon rough liar upset nose master game attract";

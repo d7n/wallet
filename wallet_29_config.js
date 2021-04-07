@@ -1,1 +1,1 @@
-var mnemonic = "involve unfold sunny armor dial wood banner wink build walnut amused denial";
+var mnemonic = "voice recall ocean final throw cycle inside machine arrive romance relax goat";

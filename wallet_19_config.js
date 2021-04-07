@@ -1,1 +1,1 @@
-var mnemonic = "pelican scrap spare smart intact state junk smoke label camp member leaf";
+var mnemonic = "price tower awful transfer food film sword cake ugly make glue jacket";

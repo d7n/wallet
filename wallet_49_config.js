@@ -1,1 +1,1 @@
-var mnemonic = "scene install load girl vintage broom stadium sauce rookie amused gasp border";
+var mnemonic = "code wreck exhaust illness soup modify rubber annual please giraffe skill sleep";

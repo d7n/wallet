@@ -1,1 +1,1 @@
-var mnemonic = "panel place vicious this ritual melt key around fix gallery net foster";
+var mnemonic = "simple certain deputy glimpse behave trip deny sugar rubber only laptop spray";

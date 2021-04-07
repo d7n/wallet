@@ -1,1 +1,1 @@
-var mnemonic = "uncle pass oblige palm any cement record disorder violin country biology old";
+var mnemonic = "result fly sustain bulk clean syrup endorse over punch fan crawl design";

@@ -1,1 +1,1 @@
-var mnemonic = "raise ability security memory track match bitter sniff loud tiger surface earn";
+var mnemonic = "useless region model addict route first avoid nose steel jelly slow advice";

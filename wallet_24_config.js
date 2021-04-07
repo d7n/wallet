@@ -1,1 +1,1 @@
-var mnemonic = "swift dinosaur street bird nephew actress grass soap you inmate pelican cereal";
+var mnemonic = "local satisfy rate luxury jar field basket route ethics blush metal strategy";

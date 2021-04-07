@@ -1,1 +1,1 @@
-var mnemonic = "autumn milk cause siren rebuild hurdle sketch payment cage reopen lobster warfare";
+var mnemonic = "monitor dress grocery sponsor balance tumble mesh lamp clutch elephant sadness dust";

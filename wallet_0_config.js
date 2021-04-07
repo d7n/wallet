@@ -1,1 +1,1 @@
-var mnemonic = "fault march pull elder smile return journey battle purse shoulder hope oppose";
+var mnemonic = "tag veteran upon observe host between arena concert bean summer tortoise suit";

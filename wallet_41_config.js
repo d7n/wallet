@@ -1,1 +1,1 @@
-var mnemonic = "fork century orange honey invest mammal install smooth kid uniform amused father";
+var mnemonic = "crater science dress relax duty orphan deer oak enemy hybrid frozen rib";

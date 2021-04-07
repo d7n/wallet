@@ -1,1 +1,1 @@
-var mnemonic = "kid indicate atom elegant fog youth gospel dance else blush category over";
+var mnemonic = "naive region double roof more shell traffic student melt disease icon survey";

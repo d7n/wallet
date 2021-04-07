@@ -1,1 +1,1 @@
-var mnemonic = "service grunt clean powder horse chuckle canal pill rare solution number color";
+var mnemonic = "duck family primary clay eye vote share spoon dawn photo doctor gospel";
