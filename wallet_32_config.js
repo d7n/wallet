@@ -1,1 +1,1 @@
-var mnemonic = "amount enemy pole kiss material can expire fox perfect nominee capable worry";
+var mnemonic = "float mixed stool quote describe pigeon antenna this goddess estate expand penalty";

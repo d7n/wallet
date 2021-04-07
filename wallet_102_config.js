@@ -1,1 +1,1 @@
-var mnemonic = "ghost maze side engage shell maximum stuff cup side sport sand satisfy";
+var mnemonic = "auction often myself connect tiny later pudding below father month couch shock";

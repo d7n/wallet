@@ -1,1 +1,1 @@
-var mnemonic = "goose universe region spare plunge found wood rapid sheriff perfect domain review";
+var mnemonic = "engine inch snack save payment liberty grit mercy urban rocket zebra unique";

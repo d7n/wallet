@@ -1,1 +1,1 @@
-var mnemonic = "saddle island color eyebrow dose update blood nuclear ecology peanut area slender";
+var mnemonic = "bless possible worry opera diamond cheese shrug chat bench wing hurdle cost";

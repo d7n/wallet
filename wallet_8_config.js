@@ -1,1 +1,1 @@
-var mnemonic = "month sweet rabbit immense behave post copper come job believe forum fame";
+var mnemonic = "admit maple dish supply raise struggle brand rib stem amateur hip dash";

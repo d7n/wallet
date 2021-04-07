@@ -1,1 +1,1 @@
-var mnemonic = "prosper bring love charge plastic welcome veteran steak drift duck cruise dad";
+var mnemonic = "awake spray crunch because brother actor unaware spy cake aware spare multiply";

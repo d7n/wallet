@@ -1,1 +1,1 @@
-var mnemonic = "push pole ball catalog flower next board mutual picnic drink require tumble";
+var mnemonic = "boat world squeeze stage hurt giraffe news hurdle news guess struggle pelican";

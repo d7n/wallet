@@ -1,1 +1,1 @@
-var mnemonic = "flip chronic seminar typical trap draw february donate electric cupboard female forest";
+var mnemonic = "bubble spoon income curious scale limb rude meadow glide tell airport urge";

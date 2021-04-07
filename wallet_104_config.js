@@ -1,1 +1,1 @@
-var mnemonic = "verb fade balcony plunge chair venture digital bicycle assault photo quality announce";
+var mnemonic = "alert review auto produce gallery frog tube claim direct hair sting guitar";

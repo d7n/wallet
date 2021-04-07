@@ -1,1 +1,1 @@
-var mnemonic = "defy device wire laundry room forget smooth estate say saddle autumn sand";
+var mnemonic = "east bring clock blossom measure horror august eye that pride case file";

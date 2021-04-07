@@ -1,1 +1,1 @@
-var mnemonic = "corn model diagram theory kick fun giant valid trade over exist learn";
+var mnemonic = "garlic undo jaguar fresh blossom craft clever wool cake burst brother club";

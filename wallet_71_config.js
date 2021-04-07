@@ -1,1 +1,1 @@
-var mnemonic = "point sight chuckle calm exclude clip nice wash brisk uphold toe oppose";
+var mnemonic = "secret scissors inject laugh matter chuckle sphere embark rather that lonely chef";

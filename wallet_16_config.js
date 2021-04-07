@@ -1,1 +1,1 @@
-var mnemonic = "also layer chapter device stage gun digital little then spy monster yard";
+var mnemonic = "feed easy elegant solar spirit heart tide border agree attitude strong bullet";

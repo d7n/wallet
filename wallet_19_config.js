@@ -1,1 +1,1 @@
-var mnemonic = "exotic design skull embody very wasp okay guitar dad board tiger cabbage";
+var mnemonic = "cousin claw notable master text federal police average brass access ghost increase";

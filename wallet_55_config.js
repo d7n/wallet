@@ -1,1 +1,1 @@
-var mnemonic = "hover fine great frozen payment element excite toss thrive gaze frog calm";
+var mnemonic = "click club whip smart mix stick wave pact belt entire ring intact";

@@ -1,1 +1,1 @@
-var mnemonic = "river eager absent bundle dress tissue image account snake place hurdle measure";
+var mnemonic = "laugh bulk cube picnic kangaroo almost ancient reveal limit napkin dinosaur child";

@@ -1,1 +1,1 @@
-var mnemonic = "art laugh present advice flip level disagree gadget cargo fossil quantum spare";
+var mnemonic = "harsh flight buddy legal depth else bicycle puppy kangaroo believe notable young";

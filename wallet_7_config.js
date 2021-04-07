@@ -1,1 +1,1 @@
-var mnemonic = "clock soldier often leisure giant science over sugar shrug day toast bracket";
+var mnemonic = "myself amount quantum develop symptom affair myth uniform gain cook solution jealous";

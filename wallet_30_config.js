@@ -1,1 +1,1 @@
-var mnemonic = "kiss prefer pass argue seminar blood action skill panther garbage era gold";
+var mnemonic = "poet orient story bird trash token problem throw misery muffin salmon bone";

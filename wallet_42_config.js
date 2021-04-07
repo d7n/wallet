@@ -1,1 +1,1 @@
-var mnemonic = "soda blush good pear apology duty label inflict ozone orphan stuff expire";
+var mnemonic = "apart gain erosion vessel memory nation web vessel saddle prison injury gas";

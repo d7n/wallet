@@ -1,1 +1,1 @@
-var mnemonic = "rely observe wrong alley close arrest winter finish vanish mesh select maze";
+var mnemonic = "erode sphere neglect next bench mountain coach slim shadow tuition urge vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "impose original essence tool bid cool eyebrow attend allow unique hair miracle";
+var mnemonic = "flee describe observe great cross beyond inspire address time off father lizard";

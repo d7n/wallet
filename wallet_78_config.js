@@ -1,1 +1,1 @@
-var mnemonic = "unit rate morning naive laugh grant arrest cart figure warfare witness treat";
+var mnemonic = "potato face indoor provide venue arrow drama spin dumb rookie inform debris";

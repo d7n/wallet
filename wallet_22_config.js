@@ -1,1 +1,1 @@
-var mnemonic = "top close caution survey churn result clump clock summer card face fish";
+var mnemonic = "language lamp quantum truly reason diet year family prefer sustain frame canvas";

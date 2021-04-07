@@ -1,1 +1,1 @@
-var mnemonic = "furnace trash mean lion news wagon girl machine unknown donkey eternal husband";
+var mnemonic = "phrase sunny spare run dignity attract pyramid skate nuclear saddle someone gaze";

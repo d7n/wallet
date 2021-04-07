@@ -1,1 +1,1 @@
-var mnemonic = "until glue help loud permit differ wrong remind return cinnamon normal sleep";
+var mnemonic = "retire safe cupboard rookie armed clap ivory attend crisp yellow joke glory";

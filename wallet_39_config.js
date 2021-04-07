@@ -1,1 +1,1 @@
-var mnemonic = "people flavor explain pottery cancel agent spin festival apart grocery link deliver";
+var mnemonic = "enter stage fury awesome sign grief member gown alter trust replace spot";

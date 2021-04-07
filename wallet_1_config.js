@@ -1,1 +1,1 @@
-var mnemonic = "differ person join park furnace strong share dry charge satisfy remind romance";
+var mnemonic = "age system canyon marriage ladder flush smart mask scissors already canvas garbage";

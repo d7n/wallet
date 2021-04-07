@@ -1,1 +1,1 @@
-var mnemonic = "follow image drive bid come spare paddle toy property clerk kangaroo denial";
+var mnemonic = "gadget ancient language clay then wrestle truth someone fly afford exact grocery";

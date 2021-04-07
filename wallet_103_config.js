@@ -1,1 +1,1 @@
-var mnemonic = "pool holiday universe risk fun wolf sail weasel skate fold expose uncle";
+var mnemonic = "stay fee athlete hill display avocado weird tribe sugar chuckle reason random";

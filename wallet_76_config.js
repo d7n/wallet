@@ -1,1 +1,1 @@
-var mnemonic = "sad uncover stove speak urge wine grief wrong peanut icon wood custom";
+var mnemonic = "noodle lion upgrade shiver puzzle pause tag ugly comic code beef hero";

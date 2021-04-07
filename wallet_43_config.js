@@ -1,1 +1,1 @@
-var mnemonic = "ostrich share bread enrich aim home canoe fog doctor crop number license";
+var mnemonic = "frequent feature credit evoke avoid gravity spend escape shed issue mango rug";

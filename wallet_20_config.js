@@ -1,1 +1,1 @@
-var mnemonic = "trend club talent limb clean session brush pipe wrist express history actual";
+var mnemonic = "reward feed spy unveil receive alien glance captain thank normal way quick";

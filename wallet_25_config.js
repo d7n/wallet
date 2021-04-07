@@ -1,1 +1,1 @@
-var mnemonic = "burst canoe assault column need off notice balcony more add farm moon";
+var mnemonic = "number sleep waste budget volcano town coyote frog either dog odor tennis";

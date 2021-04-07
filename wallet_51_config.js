@@ -1,1 +1,1 @@
-var mnemonic = "wrist leave bus good park lunar olympic rookie away sweet typical always";
+var mnemonic = "drip rather below test repeat effort acoustic weird coral tattoo remember swarm";

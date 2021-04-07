@@ -1,1 +1,1 @@
-var mnemonic = "arrange gadget never void raven picnic deal hamster carry opera legal diesel";
+var mnemonic = "remain found match blame omit weasel surge unusual across post rail force";

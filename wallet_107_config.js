@@ -1,1 +1,1 @@
-var mnemonic = "impact ordinary noise warm crater favorite patrol arrive choose program keen verb";
+var mnemonic = "come choice soda end same neck myself interest section middle hat salon";

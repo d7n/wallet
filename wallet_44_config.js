@@ -1,1 +1,1 @@
-var mnemonic = "recipe relief switch trend inspire surprise happy kind few olive blush echo";
+var mnemonic = "liar pulp width hill metal random one isolate domain april object draft";

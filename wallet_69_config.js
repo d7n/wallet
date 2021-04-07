@@ -1,1 +1,1 @@
-var mnemonic = "weapon return butter detect rare party wave mobile chalk square royal again";
+var mnemonic = "olympic route panel girl twelve waste oval expect attitude quiz unit sleep";

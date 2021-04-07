@@ -1,1 +1,1 @@
-var mnemonic = "toast wire uncover tower crash fever please height fish problem plastic security";
+var mnemonic = "supply melt reveal city celery alarm grid model frozen adult barrel vault";

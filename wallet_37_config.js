@@ -1,1 +1,1 @@
-var mnemonic = "horror theory riot inside hat window post various tower insect rude wonder";
+var mnemonic = "garbage cage stand street seminar survey talk help fat fan between catch";

@@ -1,1 +1,1 @@
-var mnemonic = "claw give paper smart pitch suspect indoor version toward topic goose pole";
+var mnemonic = "pudding survey relax tell kingdom treat loan local swift silver beauty safe";

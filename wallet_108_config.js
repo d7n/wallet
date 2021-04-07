@@ -1,1 +1,1 @@
-var mnemonic = "load slight speak fan gallery actor wrong pause master jewel mother debris";
+var mnemonic = "faculty twenty senior elegant furnace bunker resource install balance fence fan client";

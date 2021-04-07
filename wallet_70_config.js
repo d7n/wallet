@@ -1,1 +1,1 @@
-var mnemonic = "route diesel reason snack spend category gasp coconut cliff clay crouch magnet";
+var mnemonic = "twice purpose divorce mean female pledge cattle grid lunch embody fresh grow";

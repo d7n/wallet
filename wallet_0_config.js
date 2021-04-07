@@ -1,1 +1,1 @@
-var mnemonic = "inject inhale venue hard garbage assault liar bitter pear smoke wink payment";
+var mnemonic = "material expand bus mail build invite shine over decorate genuine crucial wise";

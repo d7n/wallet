@@ -1,1 +1,1 @@
-var mnemonic = "humble pioneer outer life attack fan decrease velvet obey square country humor";
+var mnemonic = "region fiber rent summer syrup bottom party soup kiss junk task rotate";

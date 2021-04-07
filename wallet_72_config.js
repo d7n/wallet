@@ -1,1 +1,1 @@
-var mnemonic = "attack setup bronze tent slogan dutch have trial turn attitude thunder music";
+var mnemonic = "blood bonus garden truly attend vacant tennis pink donate siren vintage resource";

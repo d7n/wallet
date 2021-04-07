@@ -1,1 +1,1 @@
-var mnemonic = "useful erase tortoise bonus ball upper brisk tumble evoke pole normal polar";
+var mnemonic = "fun holiday razor ghost runway buffalo fuel hospital swallow acid oval knock";

@@ -1,1 +1,1 @@
-var mnemonic = "captain snack again shoulder flip actress print nothing empty change morning gate";
+var mnemonic = "artwork update bamboo exit bachelor bargain virtual project scrap edit clerk guess";

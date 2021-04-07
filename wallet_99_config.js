@@ -1,1 +1,1 @@
-var mnemonic = "buyer hedgehog emerge cake embody taste bachelor behave vacuum monster layer tongue";
+var mnemonic = "busy metal fiscal duty surround educate surge piano parrot fly neutral dose";

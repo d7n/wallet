@@ -1,1 +1,1 @@
-var mnemonic = "episode erode jeans denial public theme pony column material list approve embody";
+var mnemonic = "history various school common require million need before maze neither vendor spider";

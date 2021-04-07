@@ -1,1 +1,1 @@
-var mnemonic = "turtle oil grape tissue good dizzy gaze obvious bridge stamp kitchen peasant";
+var mnemonic = "laptop dynamic suggest mesh high earth close wild cry advance town fault";

@@ -1,1 +1,1 @@
-var mnemonic = "kid truly cat daughter thing rookie east duty innocent burger book wrestle";
+var mnemonic = "capital subway bless fame junk off spread general firm gown ice rude";

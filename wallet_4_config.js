@@ -1,1 +1,1 @@
-var mnemonic = "arrow drip edge chimney shaft cupboard box moon wisdom portion quarter fatigue";
+var mnemonic = "luxury eager original solution proof body cable blind kitten fork eagle renew";

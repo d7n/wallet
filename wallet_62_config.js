@@ -1,1 +1,1 @@
-var mnemonic = "spatial filter multiply stomach situate unlock hen select traffic soda share purity";
+var mnemonic = "limb antenna final rich fox fringe screen museum memory ship cruise feed";

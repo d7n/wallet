@@ -1,1 +1,1 @@
-var mnemonic = "cheap hospital river celery fancy door also thing human clean auto absurd";
+var mnemonic = "harvest burger basic child stumble violin host dash engine shop method cloth";

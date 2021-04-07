@@ -1,1 +1,1 @@
-var mnemonic = "west enhance trap gap cross nice object orchard van legend hole brush";
+var mnemonic = "oven excess purpose hedgehog tiger sea van soon exile pencil horror divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics nut oven ticket mule awesome window theme vacuum range rain pitch";
+var mnemonic = "inmate choose step desert tray pottery couple obey nest kingdom shell matter";

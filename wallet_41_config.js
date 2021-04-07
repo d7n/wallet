@@ -1,1 +1,1 @@
-var mnemonic = "alien follow battle palace ceiling eye file napkin turn garlic hint shed";
+var mnemonic = "forget speak gasp glance strong palace acquire chicken hammer risk gym excite";

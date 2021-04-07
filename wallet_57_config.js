@@ -1,1 +1,1 @@
-var mnemonic = "load behind salt myself tribe promote faint exhaust faculty resist float reflect";
+var mnemonic = "taxi merit sister unlock action dash ritual cement relax focus eye fruit";

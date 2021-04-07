@@ -1,1 +1,1 @@
-var mnemonic = "marine neutral smoke feel endorse voyage purchase evil fork veteran torch raise";
+var mnemonic = "spirit solar enroll about among town cake pave medal ketchup hello hen";

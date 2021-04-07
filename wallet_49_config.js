@@ -1,1 +1,1 @@
-var mnemonic = "luxury loan multiply claim bargain build valve silk crunch attract social aim";
+var mnemonic = "average accident snake snack correct antique use athlete sponsor shuffle rack boring";

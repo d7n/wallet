@@ -1,1 +1,1 @@
-var mnemonic = "slide design consider rail cloth talent ritual can garment soap little other";
+var mnemonic = "picture sponsor visa solve admit author enroll bid sketch buddy stumble wing";

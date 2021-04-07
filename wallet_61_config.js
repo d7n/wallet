@@ -1,1 +1,1 @@
-var mnemonic = "original edit party pig sibling sting valley sudden size sight clown salute";
+var mnemonic = "help random bean novel gold crime cement river guilt twice again warrior";

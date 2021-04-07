@@ -1,1 +1,1 @@
-var mnemonic = "wear neither letter beach neither high puzzle biology section cake service pact";
+var mnemonic = "chair million brisk improve sustain worry steak audit document tourist luggage estate";

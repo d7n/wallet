@@ -1,1 +1,1 @@
-var mnemonic = "live walk tattoo response memory protect detect equip solar empty genre area";
+var mnemonic = "odor market short federal force illegal skill letter gospel atom have labor";

@@ -1,1 +1,1 @@
-var mnemonic = "offer will resist slice broom spy judge client cattle year march riot";
+var mnemonic = "pyramid share gallery grain weapon owner ready acid swift twelve pistol abstract";

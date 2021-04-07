@@ -1,1 +1,1 @@
-var mnemonic = "chat dose pitch twelve mention fold mesh divorce solve anchor gym amazing";
+var mnemonic = "device near year wreck situate measure mushroom brass cart school expose artwork";

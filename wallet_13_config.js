@@ -1,1 +1,1 @@
-var mnemonic = "river crunch imitate connect doll improve large vital enrich toe social swear";
+var mnemonic = "traffic fitness improve walk poem segment glance hurt culture seat team library";

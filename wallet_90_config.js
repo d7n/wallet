@@ -1,1 +1,1 @@
-var mnemonic = "deer tragic lottery issue cram dolphin region credit vehicle replace orchard recall";
+var mnemonic = "spike mushroom bronze quarter slab door exhaust mushroom help vicious run grass";

@@ -1,1 +1,1 @@
-var mnemonic = "decade vast already pause carry best give arrow version salad bachelor spell";
+var mnemonic = "lens demise spice shaft garbage cloth easily south width apology accident unfair";

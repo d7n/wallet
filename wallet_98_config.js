@@ -1,1 +1,1 @@
-var mnemonic = "fresh danger vast yellow blossom fish mistake task worry leisure again party";
+var mnemonic = "reward oblige bread project labor mechanic ancient typical exact theory ramp farm";

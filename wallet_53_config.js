@@ -1,1 +1,1 @@
-var mnemonic = "must useful guitar rule benefit gallery strike dumb festival bunker topic divide";
+var mnemonic = "theory obscure spider tornado distance real hole federal still east edge custom";

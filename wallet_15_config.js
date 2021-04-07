@@ -1,1 +1,1 @@
-var mnemonic = "enact course bullet soccer other clay demand uniform genre recycle mutual easily";
+var mnemonic = "brother simple crack ride future around visual bulk lounge ride action scheme";

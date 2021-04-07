@@ -1,1 +1,1 @@
-var mnemonic = "tray sketch network glow mule wisdom swear dismiss blood hope mesh mirror";
+var mnemonic = "fashion garage mixed catalog guess scorpion spell apple pond blue wrist success";

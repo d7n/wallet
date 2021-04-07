@@ -1,1 +1,1 @@
-var mnemonic = "birth raise relief voice junior teach matrix valve quarter current drop pipe";
+var mnemonic = "will rack either friend skin surface mushroom hint sugar because panther engage";

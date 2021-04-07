@@ -1,1 +1,1 @@
-var mnemonic = "turkey mosquito radar middle safe envelope future live leisure legend raven ability";
+var mnemonic = "robust economy crystal burger sadness toilet treat moral hobby lend turn cover";

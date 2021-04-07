@@ -1,1 +1,1 @@
-var mnemonic = "grape hard palm domain cargo slot alien midnight pretty moral across start";
+var mnemonic = "volcano clarify warfare cost ribbon mask target change rice regret defense side";

@@ -1,1 +1,1 @@
-var mnemonic = "rival purity kind pelican seed blame swing volcano mean soul funny eye";
+var mnemonic = "claim kit idle essence kingdom blanket east ankle patch bread since romance";

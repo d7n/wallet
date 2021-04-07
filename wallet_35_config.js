@@ -1,1 +1,1 @@
-var mnemonic = "search display peasant memory dirt equal abandon enemy nut champion start basket";
+var mnemonic = "onion fork fringe dash bracket face yellow ghost nest horn cram what";

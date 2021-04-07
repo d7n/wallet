@@ -1,1 +1,1 @@
-var mnemonic = "season attack teach that parade average library run rib issue clog second";
+var mnemonic = "famous tag window aerobic power into orbit gloom sketch exact nature mandate";

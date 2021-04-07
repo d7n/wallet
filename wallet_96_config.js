@@ -1,1 +1,1 @@
-var mnemonic = "april rough similar roast file nominee track rude zero december one stairs";
+var mnemonic = "sad spoil stuff embody current case leopard ripple rude fossil wash disagree";

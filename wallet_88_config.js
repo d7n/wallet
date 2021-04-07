@@ -1,1 +1,1 @@
-var mnemonic = "chaos earth crawl dragon all gorilla ankle ripple erode crowd jewel castle";
+var mnemonic = "abstract summer reduce glide help scene tennis evil actual embrace siren just";

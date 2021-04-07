@@ -1,1 +1,1 @@
-var mnemonic = "ramp when surge liar mom fat bamboo stove beach amused stone gift";
+var mnemonic = "popular art since flame cry access asset three jungle van exhaust corn";

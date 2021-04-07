@@ -1,1 +1,1 @@
-var mnemonic = "train shine inside mountain gravity feel pretty loop person organ issue street";
+var mnemonic = "social knife such legend beach true narrow innocent post silent mosquito friend";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza best garbage worth until stool enforce seed squeeze dilemma meadow loan";
+var mnemonic = "agent series pledge idea pig angle victory earth loud buyer armor portion";

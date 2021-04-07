@@ -1,1 +1,1 @@
-var mnemonic = "smoke index model gift circle lazy settle become slam pink quarter quick";
+var mnemonic = "episode shock teach leg pony brown attend scrub police audit huge mistake";

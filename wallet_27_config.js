@@ -1,1 +1,1 @@
-var mnemonic = "glow believe salute occur industry salon rural property alert gold market cage";
+var mnemonic = "monkey dance release pear hamster cloth door ramp long utility debate vivid";

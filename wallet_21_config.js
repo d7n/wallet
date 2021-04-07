@@ -1,1 +1,1 @@
-var mnemonic = "glance flash token dutch special throw weekend sing cruise wool stem dress";
+var mnemonic = "oven tiger kind window goose palace weather catalog fish blouse jealous earth";
