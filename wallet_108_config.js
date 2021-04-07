@@ -1,1 +1,1 @@
-var mnemonic = "energy issue jeans crumble fortune ketchup transfer obscure piano regular include close";
+var mnemonic = "only mountain sea eyebrow stone health ozone wash leg high ocean because";

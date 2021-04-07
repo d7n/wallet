@@ -1,1 +1,1 @@
-var mnemonic = "adjust perfect shiver say foot reflect arch bachelor slot spawn feel federal";
+var mnemonic = "decade prefer multiply shadow rigid wedding ugly salute large energy wash mixed";

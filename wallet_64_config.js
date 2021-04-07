@@ -1,1 +1,1 @@
-var mnemonic = "coral woman rely critic aunt loud make easily horn welcome mango patrol";
+var mnemonic = "address defy broccoli bean aware toilet advance trust agent party spy nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "biology town taste unique local fragile local cannon garlic hold casual aware";
+var mnemonic = "increase truly track chuckle bundle receive beauty today must potato install destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "habit arrive stick monkey poem clutch address bottom daughter plunge early people";
+var mnemonic = "fashion table veteran anchor typical violin dirt sell dutch night faint alert";

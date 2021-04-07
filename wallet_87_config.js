@@ -1,1 +1,1 @@
-var mnemonic = "approve donor lemon mouse nature ridge fade enter solution busy shop wisdom";
+var mnemonic = "provide promote garment grape manual enrich absurd kit enforce brief tornado lock";

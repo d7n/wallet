@@ -1,1 +1,1 @@
-var mnemonic = "over essay poet sausage broken bring develop dumb alley radar record drastic";
+var mnemonic = "repair bundle strategy jazz kitten scissors farm roast wrong relax exotic vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "arena fit trigger second strike reveal prefer demand unlock differ camp laugh";
+var mnemonic = "alter crash scrub apology shallow one thrive nature body harbor shuffle sibling";

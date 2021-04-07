@@ -1,1 +1,1 @@
-var mnemonic = "poet rug annual buyer decorate wise asset glory nice leg sheriff royal";
+var mnemonic = "mesh crush wedding cherry vintage science found open knife unable smoke bone";

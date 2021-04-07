@@ -1,1 +1,1 @@
-var mnemonic = "diet skate laptop badge hockey hidden pave glue bullet rely near armor";
+var mnemonic = "input slow empty twice choose shrimp audit page page cereal key boss";

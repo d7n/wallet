@@ -1,1 +1,1 @@
-var mnemonic = "inhale dress hair finish second bar rent autumn bounce shiver impact hockey";
+var mnemonic = "disease memory gospel faint pride stairs learn story first acid satoshi cement";

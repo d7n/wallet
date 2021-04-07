@@ -1,1 +1,1 @@
-var mnemonic = "much omit real harvest marine verb burden begin mutual legend catch chicken";
+var mnemonic = "resource office wool police estate gold pudding brain sing aim space seminar";

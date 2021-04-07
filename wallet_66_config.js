@@ -1,1 +1,1 @@
-var mnemonic = "hire sword wasp ramp afraid share bitter jazz coin coach rate emotion";
+var mnemonic = "inch grid license eternal chalk notable range advance absent immune enlist grape";

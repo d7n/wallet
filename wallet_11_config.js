@@ -1,1 +1,1 @@
-var mnemonic = "urge soap camera code laptop slice mobile future toe wine spike airport";
+var mnemonic = "chronic early deal install umbrella begin length grunt evidence nothing draw cycle";

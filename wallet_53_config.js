@@ -1,1 +1,1 @@
-var mnemonic = "answer powder ten rally congress apology evolve choose scan near pony chimney";
+var mnemonic = "abuse team teach immense assault boost present bike guard miracle broccoli frost";

@@ -1,1 +1,1 @@
-var mnemonic = "oval buffalo derive net shrimp slush virtual head decide coconut disorder pet";
+var mnemonic = "garden gospel awkward height pig kick rich fan green three puppy another";

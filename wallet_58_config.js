@@ -1,1 +1,1 @@
-var mnemonic = "pet drill admit ginger brand stand market bargain fence better actual decide";
+var mnemonic = "reward measure solve display plunge tennis honey carbon rather venture worry subway";

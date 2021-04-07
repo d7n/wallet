@@ -1,1 +1,1 @@
-var mnemonic = "bottom kidney dry carbon input delay angle jelly zebra fit silly right";
+var mnemonic = "person march diamond urge stuff town wide ski stable cram party sponsor";

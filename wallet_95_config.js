@@ -1,1 +1,1 @@
-var mnemonic = "crucial inquiry negative medal clock friend curve guitar hour fiscal alley dash";
+var mnemonic = "apple brother country wing item clay stone slide cost under erupt month";

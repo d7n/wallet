@@ -1,1 +1,1 @@
-var mnemonic = "modify truth panel profit negative window away scare unit brother obscure rain";
+var mnemonic = "dance remain forward absorb woman civil example fade book napkin future sheriff";

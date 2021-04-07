@@ -1,1 +1,1 @@
-var mnemonic = "shaft protect pyramid cement ball carbon perfect brisk neither speed wrestle play";
+var mnemonic = "clinic guess short exile monster crowd inmate museum appear basket ceiling mobile";

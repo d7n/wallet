@@ -1,1 +1,1 @@
-var mnemonic = "glimpse depart exclude offer grant thing pig swarm girl speak wear orchard";
+var mnemonic = "benefit fine blast bundle filter warrior diamond arm whisper flash fortune ginger";

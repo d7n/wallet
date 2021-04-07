@@ -1,1 +1,1 @@
-var mnemonic = "old wait cricket maple ship slow depart mad river lens road again";
+var mnemonic = "absurd sign legal execute entry ribbon crisp hammer repair energy cart anchor";

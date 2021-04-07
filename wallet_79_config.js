@@ -1,1 +1,1 @@
-var mnemonic = "spray swap crucial legend goose chimney famous auction river butter riot hawk";
+var mnemonic = "shock learn bless moral helmet borrow script garment effort purchase chief spare";

@@ -1,1 +1,1 @@
-var mnemonic = "use sweet vibrant bounce spatial over song era sword local awkward quit";
+var mnemonic = "finish credit pilot question hover segment roof loyal excite magnet path amused";

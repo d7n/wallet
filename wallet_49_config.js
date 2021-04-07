@@ -1,1 +1,1 @@
-var mnemonic = "struggle also tattoo loud penalty purse blanket toilet warrior plug over tiger";
+var mnemonic = "glow open glimpse humble inquiry foil truly feed stomach symbol picnic cable";

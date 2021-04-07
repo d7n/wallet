@@ -1,1 +1,1 @@
-var mnemonic = "dirt axis kit sure scale dirt emotion essence already pledge melt comic";
+var mnemonic = "shove broken nominee matrix tumble visit crawl engine phrase later pluck december";

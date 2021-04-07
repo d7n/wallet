@@ -1,1 +1,1 @@
-var mnemonic = "dentist way they hawk cable hen occur identify swarm visual camera movie";
+var mnemonic = "video possible chef walnut logic mandate cram test glide boil remind clock";

@@ -1,1 +1,1 @@
-var mnemonic = "garage about couple sure scan solar catalog obtain horn thing voice code";
+var mnemonic = "around muscle material comfort write diet glimpse dumb start strategy run elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach match primary drastic pattern strong wire clog grunt rate mammal athlete";
+var mnemonic = "cactus oxygen anchor scale conduct square decide odor include exclude labor smooth";

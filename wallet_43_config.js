@@ -1,1 +1,1 @@
-var mnemonic = "talent mad clinic friend circle discover jealous enough crater tail metal give";
+var mnemonic = "find gas throw venture window tide divert surge reform story decrease crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon kind benefit street festival few cruise wire capable civil enact message";
+var mnemonic = "gloom ill bench student into dash cargo bounce slight umbrella west thumb";

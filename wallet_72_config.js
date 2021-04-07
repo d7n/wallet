@@ -1,1 +1,1 @@
-var mnemonic = "sketch dune acquire game beach arrow myself concert theme ramp dinosaur attitude";
+var mnemonic = "market ceiling video effort dinner myth mountain fiscal afraid foam pilot boy";

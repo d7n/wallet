@@ -1,1 +1,1 @@
-var mnemonic = "what hybrid brave table cigar fiscal question raccoon film purchase group hat";
+var mnemonic = "cave bone find aware arrow onion shoe elbow firm soda prize coil";

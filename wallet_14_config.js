@@ -1,1 +1,1 @@
-var mnemonic = "flag curve youth confirm wage ankle injury steak basket museum sniff crop";
+var mnemonic = "midnight move change evil frown giraffe damage fresh judge table merge balance";

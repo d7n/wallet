@@ -1,1 +1,1 @@
-var mnemonic = "coral tree list apple age turn own crowd joy frozen shaft scan";
+var mnemonic = "brother price acquire inner hub tail love acoustic problem rib mind already";

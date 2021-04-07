@@ -1,1 +1,1 @@
-var mnemonic = "earn wear various romance flight reveal puppy credit find design practice symbol";
+var mnemonic = "betray endless arm head mail life knife drip virus friend hover pyramid";

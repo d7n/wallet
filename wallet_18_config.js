@@ -1,1 +1,1 @@
-var mnemonic = "sausage habit grain message thought spell rally empty desk keen burden news";
+var mnemonic = "move today cool jar pass blame tail core walk goose vast unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "subject defy insect vapor patient execute ridge green strike apology dream spoon";
+var mnemonic = "hobby faculty junior chat swear cabbage letter disorder cost panther place desert";

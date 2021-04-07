@@ -1,1 +1,1 @@
-var mnemonic = "wait empower never edit wool rival unhappy since camera useful pig define";
+var mnemonic = "crane address under same yard neck silly paper grit sleep concert toilet";

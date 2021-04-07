@@ -1,1 +1,1 @@
-var mnemonic = "culture symbol tuna discover claim knife hurry easily injury pulp unfold bunker";
+var mnemonic = "expire setup moral wish loud warrior melody orange outer kiss desk knee";

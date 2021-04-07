@@ -1,1 +1,1 @@
-var mnemonic = "filter salt feel group math street glow mix vessel bottom practice uncle";
+var mnemonic = "possible twist broccoli advice pen sick grass sense stage grass stick pear";

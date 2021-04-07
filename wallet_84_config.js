@@ -1,1 +1,1 @@
-var mnemonic = "move supreme denial empower patch coil loan crowd someone alien rug relief";
+var mnemonic = "ceiling diagram math danger require found music chronic negative shaft prepare weapon";

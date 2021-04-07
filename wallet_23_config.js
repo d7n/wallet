@@ -1,1 +1,1 @@
-var mnemonic = "steel reflect coconut timber stairs main naive window pumpkin margin cause sudden";
+var mnemonic = "document have craft detail kingdom unhappy gossip dash decrease element blanket wisdom";

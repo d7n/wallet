@@ -1,1 +1,1 @@
-var mnemonic = "level rude learn shed fantasy razor since hammer picnic check bulb frozen";
+var mnemonic = "inch bird sweet artist school toy grocery lazy loan army pipe gallery";

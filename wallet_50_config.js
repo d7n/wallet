@@ -1,1 +1,1 @@
-var mnemonic = "bring sorry lab oblige march enough rack meat defense scheme wool someone";
+var mnemonic = "axis furnace penalty dash sentence double shed hazard diagram transfer slice pipe";

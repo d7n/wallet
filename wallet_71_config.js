@@ -1,1 +1,1 @@
-var mnemonic = "april kit veteran blame forget dutch sort plug cash regret ignore height";
+var mnemonic = "auction cattle penalty ankle submit circle horn loop twenty panel gauge tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "door car enhance obscure tank budget glove country conduct vault grow fluid";
+var mnemonic = "fruit chapter time dumb expand license gun suspect apart finger shop canvas";

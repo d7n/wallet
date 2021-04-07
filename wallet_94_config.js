@@ -1,1 +1,1 @@
-var mnemonic = "elbow cousin axis grow mango thank duck expand observe stamp when margin";
+var mnemonic = "broken wash loan fiscal post tragic wrong erupt hazard weekend raw trap";

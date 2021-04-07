@@ -1,1 +1,1 @@
-var mnemonic = "viable absent tone kiss burden angle enlist rival admit cheap saddle little";
+var mnemonic = "genre yard you position lake sun engage market nut gasp tobacco primary";

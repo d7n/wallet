@@ -1,1 +1,1 @@
-var mnemonic = "defy resist shock kind bind exit practice above want sport upper often";
+var mnemonic = "shine network fame ticket poem arena current stairs industry outside near salute";

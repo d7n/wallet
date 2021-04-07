@@ -1,1 +1,1 @@
-var mnemonic = "help utility liar oxygen mouse venture use worry coast traffic bean mass";
+var mnemonic = "bubble misery goose picture guard wheel tobacco what inner pistol celery alert";

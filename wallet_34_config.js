@@ -1,1 +1,1 @@
-var mnemonic = "puppy butter defy purse spend armor winner trouble online mobile family devote";
+var mnemonic = "rely ethics enact illness brick summer find stand extend artefact moment wrist";

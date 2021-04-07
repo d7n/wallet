@@ -1,1 +1,1 @@
-var mnemonic = "course extend survey sweet sudden crisp vital sadness drum crop chest outer";
+var mnemonic = "helmet conduct arena track senior bread wool sport nose buffalo success praise";

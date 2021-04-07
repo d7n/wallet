@@ -1,1 +1,1 @@
-var mnemonic = "opinion main border expect neutral runway ugly hurt badge immense mobile first";
+var mnemonic = "lottery know audit damp nerve please rain aim speak say vapor trap";

@@ -1,1 +1,1 @@
-var mnemonic = "put predict ugly you road silk fox control legal bargain mixed decide";
+var mnemonic = "crystal entry absurd voyage pilot across mixed crumble local bleak sauce claim";

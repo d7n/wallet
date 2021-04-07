@@ -1,1 +1,1 @@
-var mnemonic = "shove walnut quick humble any olympic elephant scatter river junk suggest execute";
+var mnemonic = "degree ozone tape hedgehog ride spare write humor organ stomach fluid around";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt little solid siren material orange suspect wine thought slush song lawn";
+var mnemonic = "sight before elevator light embark maze floor rail else town myth fiction";

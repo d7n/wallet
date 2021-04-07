@@ -1,1 +1,1 @@
-var mnemonic = "actor mixed police cluster icon noodle math meadow item pond mansion work";
+var mnemonic = "dove universe casino flash security diesel bronze wave protect strategy embark poverty";

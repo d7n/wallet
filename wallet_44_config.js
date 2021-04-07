@@ -1,1 +1,1 @@
-var mnemonic = "trigger lunar illness glory segment tenant airport current alarm aunt parent vault";
+var mnemonic = "develop float broken river egg proud range shield renew issue capital spider";

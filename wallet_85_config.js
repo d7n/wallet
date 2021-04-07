@@ -1,1 +1,1 @@
-var mnemonic = "shift stool soup coral leader possible interest add accident multiply gospel odor";
+var mnemonic = "weird library head hundred erase brisk weapon travel hair wild smoke approve";

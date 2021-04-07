@@ -1,1 +1,1 @@
-var mnemonic = "asset school tomorrow ranch letter acoustic ozone develop fold alien describe unlock";
+var mnemonic = "escape carbon special common fit vivid link ice come silly ceiling describe";

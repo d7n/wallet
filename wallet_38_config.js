@@ -1,1 +1,1 @@
-var mnemonic = "clean calm measure crystal critic stable mouse rival liar brother warfare match";
+var mnemonic = "bargain hawk good salt slot flash matter unit dwarf able cup border";

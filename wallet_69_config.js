@@ -1,1 +1,1 @@
-var mnemonic = "wrestle together fiscal hawk later area evolve spell empower insect lottery dance";
+var mnemonic = "mixed anchor coin ladder hope gold suspect robot heart route screen pave";

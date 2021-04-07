@@ -1,1 +1,1 @@
-var mnemonic = "warrior useful toss canvas harvest defy cushion elephant slot custom leaf adult";
+var mnemonic = "truly spot exile neck stadium connect flame margin session cross success toddler";

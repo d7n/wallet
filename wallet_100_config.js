@@ -1,1 +1,1 @@
-var mnemonic = "pride ritual seat journey spoon cost volcano announce champion stuff there ship";
+var mnemonic = "awake employ scout exotic chunk outdoor cover economy dumb vessel nose hair";

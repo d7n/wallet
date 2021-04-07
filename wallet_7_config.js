@@ -1,1 +1,1 @@
-var mnemonic = "inner combine twice jump depth coin record about federal item deputy citizen";
+var mnemonic = "flavor leopard art brown inner crater claw egg start uniform pilot empower";

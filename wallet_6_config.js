@@ -1,1 +1,1 @@
-var mnemonic = "jealous obvious evidence valve future strong shed token marine menu today walnut";
+var mnemonic = "abandon pattern dust casual wall song horn ocean leg style excess arrow";

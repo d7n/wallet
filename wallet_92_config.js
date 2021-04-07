@@ -1,1 +1,1 @@
-var mnemonic = "test penalty orbit embody sting replace ice flock case surround reject wrong";
+var mnemonic = "asthma plug kingdom nut drama laptop lend intact service resemble subject twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon around pink rich pink world pudding dizzy anxiety toilet rug spot";
+var mnemonic = "today mansion garlic abandon coconut health diesel axis charge reflect stock desk";

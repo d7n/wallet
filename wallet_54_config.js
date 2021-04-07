@@ -1,1 +1,1 @@
-var mnemonic = "brand pencil ancient noble steel right small guilt brother method ahead notice";
+var mnemonic = "divide scrap mutual enact arctic proof draft access borrow between cupboard labor";

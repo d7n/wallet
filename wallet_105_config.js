@@ -1,1 +1,1 @@
-var mnemonic = "result jar nut canal brick good sunset glimpse make universe usage good";
+var mnemonic = "lizard flame play battle inflict raven figure arena heavy employ ticket sea";

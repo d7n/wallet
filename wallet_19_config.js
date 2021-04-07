@@ -1,1 +1,1 @@
-var mnemonic = "layer need rally water link involve dash vintage sausage luggage diet media";
+var mnemonic = "during dilemma half knock guess gym index never master sample replace add";

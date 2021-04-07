@@ -1,1 +1,1 @@
-var mnemonic = "often company rescue alone prevent priority decorate margin panda fragile ozone rally";
+var mnemonic = "flee nature ribbon gaze tortoise rebel gown clarify awkward lumber used term";

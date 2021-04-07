@@ -1,1 +1,1 @@
-var mnemonic = "page juice always stand zoo evidence boss iron hand fatal never arctic";
+var mnemonic = "same stumble flip prize hurt tonight pave sustain tool finish fragile action";

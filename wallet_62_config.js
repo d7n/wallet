@@ -1,1 +1,1 @@
-var mnemonic = "rib trade hero figure install urge romance dizzy decade alter crystal salt";
+var mnemonic = "echo real artefact spring execute easily scene section gloom cause beauty girl";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome erosion ice audit apple capital advice column little drip label vocal";
+var mnemonic = "crew spring head bicycle rail actual orbit tongue sketch misery better cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "prize report merit gown pelican bag lady absorb matrix able spot sense";
+var mnemonic = "correct marine dog vibrant finish impact finish tell report jewel spawn laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss flush reunion owner easily outer idea meat wire box develop below";
+var mnemonic = "uncle club prefer double tank hockey gas coin mechanic tragic glide elbow";

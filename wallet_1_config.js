@@ -1,1 +1,1 @@
-var mnemonic = "track embrace message file silent half load accident beef ancient question black";
+var mnemonic = "live elite spider habit track patient suspect scrap urban wink resemble ladder";

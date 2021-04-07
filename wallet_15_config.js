@@ -1,1 +1,1 @@
-var mnemonic = "atom answer pledge reveal struggle list when tank gadget student donate simple";
+var mnemonic = "enter throw top leopard perfect length drop black gravity sick glance dwarf";

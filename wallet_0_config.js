@@ -1,1 +1,1 @@
-var mnemonic = "burden rug limit melody garlic giraffe disease caught enjoy board spend sketch";
+var mnemonic = "giant find genre exist alley prefer profit twelve talk parrot left churn";

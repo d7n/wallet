@@ -1,1 +1,1 @@
-var mnemonic = "dentist release suspect enlist trend drift sea spoil purity alley kit unable";
+var mnemonic = "sugar ramp behind outside honey rescue fox grid police liberty view tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "glue hold noodle match surge present muffin chronic velvet innocent craft retire";
+var mnemonic = "mirror original tone key choose describe suspect because forest dune insane fossil";

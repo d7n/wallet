@@ -1,1 +1,1 @@
-var mnemonic = "advice early moral bundle cycle sell inside bright people orange issue rare";
+var mnemonic = "assume finger rescue lens fragile toilet input allow connect window series circle";

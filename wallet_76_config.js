@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin exercise black replace dress elephant wagon defense bread much unfair inflict";
+var mnemonic = "mixed fatal usual paddle knife slush mechanic toe debate juice nut unveil";

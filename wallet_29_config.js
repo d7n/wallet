@@ -1,1 +1,1 @@
-var mnemonic = "hollow dirt myself ugly service fitness frequent convince candy light stay veteran";
+var mnemonic = "receive illegal group sun someone section destroy bleak sting goat panel company";

@@ -1,1 +1,1 @@
-var mnemonic = "memory popular furnace swarm core copper together tilt runway globe devote asset";
+var mnemonic = "vote gift boat average catalog satisfy able across you pitch empower version";

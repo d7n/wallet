@@ -1,1 +1,1 @@
-var mnemonic = "dose alone bone rail verify kid short guilt copper cross hungry chalk";
+var mnemonic = "banner humble conduct just insane report impact two kiwi close empty lock";

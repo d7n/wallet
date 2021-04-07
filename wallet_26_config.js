@@ -1,1 +1,1 @@
-var mnemonic = "muscle episode bullet artwork prevent history together stomach bicycle prize blast donkey";
+var mnemonic = "cattle enroll margin wrestle poet theory letter radar resource earth soul pledge";
