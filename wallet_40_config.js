@@ -1,1 +1,1 @@
-var mnemonic = "ketchup kitchen solution fat tail pull tide opinion sausage sunset loop height";
+var mnemonic = "quote truly mistake magic magic bus ticket urban any kiss minor there";

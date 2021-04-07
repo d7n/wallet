@@ -1,1 +1,1 @@
-var mnemonic = "area pretty kite enjoy measure endorse service basket quit pill fire mystery";
+var mnemonic = "balcony jelly entry evoke tilt leaf tackle puppy cigar term clinic pave";

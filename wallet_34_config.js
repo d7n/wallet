@@ -1,1 +1,1 @@
-var mnemonic = "behave right tone canvas talk please glad friend match drift cannon rapid";
+var mnemonic = "foster hurdle crime venue lobster attend other pen require entire tide cricket";

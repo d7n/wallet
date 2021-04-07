@@ -1,1 +1,1 @@
-var mnemonic = "antique parrot brass before crystal hint build lion arch keep video angry";
+var mnemonic = "never paddle brick fringe palm question blanket much sister average convince wisdom";

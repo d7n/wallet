@@ -1,1 +1,1 @@
-var mnemonic = "flag essence cliff silk tiny car oblige crowd outer wet mutual caught";
+var mnemonic = "enrich purity retreat inhale beef eagle outside sponsor tool congress medal reason";

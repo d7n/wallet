@@ -1,1 +1,1 @@
-var mnemonic = "happy tumble wagon valid gauge across recycle athlete broken glove proof want";
+var mnemonic = "mixed judge guard casino scissors nation health merge brief square ensure shrug";

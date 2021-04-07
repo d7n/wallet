@@ -1,1 +1,1 @@
-var mnemonic = "vague train suggest eyebrow zoo roof sand carpet main purse clap hire";
+var mnemonic = "lens rocket pond input plate renew pluck alter unknown mind whip marine";

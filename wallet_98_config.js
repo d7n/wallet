@@ -1,1 +1,1 @@
-var mnemonic = "diesel similar benefit walk letter drink comic cradle rack label grape decrease";
+var mnemonic = "toilet december anchor fee fault soccer crime slow genius orbit spider globe";

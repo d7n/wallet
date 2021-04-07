@@ -1,1 +1,1 @@
-var mnemonic = "spoil noise patient rice very century divert where attend gadget curious kid";
+var mnemonic = "inflict wine water myth buzz cover budget expand reduce soup ribbon gauge";

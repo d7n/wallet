@@ -1,1 +1,1 @@
-var mnemonic = "vote oak where phrase error false arrest citizen picture present basket once";
+var mnemonic = "stem actress special frown concert library fiscal nominee raven menu ghost print";

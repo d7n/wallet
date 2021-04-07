@@ -1,1 +1,1 @@
-var mnemonic = "glare cloth spatial earth tragic cradle subject clay medal valve clarify ball";
+var mnemonic = "math child bundle once display pluck image host drift small walk ginger";

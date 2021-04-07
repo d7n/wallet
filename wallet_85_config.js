@@ -1,1 +1,1 @@
-var mnemonic = "solve coil strategy warrior orbit oak lawn peace river quarter cereal end";
+var mnemonic = "web portion lobster milk machine blur review script castle legal bright hero";

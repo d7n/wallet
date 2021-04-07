@@ -1,1 +1,1 @@
-var mnemonic = "myth loan traffic autumn result violin stadium spin bomb wish alpha screen";
+var mnemonic = "survey ramp rookie stomach lift govern morning dress hair salt box spray";

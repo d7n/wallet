@@ -1,1 +1,1 @@
-var mnemonic = "slow hidden outside adjust toast topple general eagle general upper pole embrace";
+var mnemonic = "venture battle expect pupil vanish struggle review rapid visit evoke envelope glide";

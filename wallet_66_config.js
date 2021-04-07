@@ -1,1 +1,1 @@
-var mnemonic = "hobby cash artwork grid filter rubber aim twelve industry grow remain language";
+var mnemonic = "poet unfair rookie helmet consider number boost prize tip brother tourist ceiling";

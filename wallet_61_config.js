@@ -1,1 +1,1 @@
-var mnemonic = "radar clock panel army crash finger scare nut seven end about cattle";
+var mnemonic = "fall lyrics improve also frost enable kidney strategy coil phrase other deny";

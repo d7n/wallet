@@ -1,1 +1,1 @@
-var mnemonic = "physical ball fun found gold able dilemma secret please toilet master topple";
+var mnemonic = "maze clay seat loud refuse method maple orient peace canyon rubber spray";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter august ride clinic fringe odor gaze grocery addict below treat memory";
+var mnemonic = "human mind door arrow vacant flame bind setup pipe allow rib book";

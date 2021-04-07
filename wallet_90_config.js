@@ -1,1 +1,1 @@
-var mnemonic = "robot cream gossip gate cigar picture kit alien film addict patch join";
+var mnemonic = "service onion turtle number praise adapt scheme toast torch tip owner oxygen";

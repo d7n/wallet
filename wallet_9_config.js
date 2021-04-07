@@ -1,1 +1,1 @@
-var mnemonic = "protect place dinosaur nephew visual above giraffe neglect dawn uniform letter luggage";
+var mnemonic = "obscure orange shrimp spawn work federal pride draw version route crowd shell";

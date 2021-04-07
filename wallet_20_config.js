@@ -1,1 +1,1 @@
-var mnemonic = "volume gift ocean jungle cactus tunnel sense nation patient very hole bar";
+var mnemonic = "earth abandon regular monster huge lake identify couple rule kitchen spread thank";

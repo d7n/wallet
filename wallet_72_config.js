@@ -1,1 +1,1 @@
-var mnemonic = "tail dumb hybrid dinosaur uniform east defense tent object jaguar human baby";
+var mnemonic = "deposit leave grant exotic fame talent prepare avoid combine pause choose august";

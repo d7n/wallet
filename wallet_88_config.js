@@ -1,1 +1,1 @@
-var mnemonic = "fabric hundred believe symbol twenty bronze extend exact between deposit update gospel";
+var mnemonic = "attract song tumble grocery retire chair fun plate slim deer shell feel";

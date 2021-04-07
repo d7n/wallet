@@ -1,1 +1,1 @@
-var mnemonic = "afraid tone bronze diagram endorse friend shove tone absorb poverty say cable";
+var mnemonic = "young glance picnic fix suit hen tank route pony height street rifle";

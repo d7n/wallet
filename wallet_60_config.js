@@ -1,1 +1,1 @@
-var mnemonic = "entry predict drip derive easy review upgrade snap merry report egg immune";
+var mnemonic = "degree hurry true cement door boat rely report rib erase churn flavor";

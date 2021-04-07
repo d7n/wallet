@@ -1,1 +1,1 @@
-var mnemonic = "clean canoe use tree cross girl lawn matrix learn alcohol before replace";
+var mnemonic = "antenna poverty boring harbor age card frame observe involve click property argue";

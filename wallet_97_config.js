@@ -1,1 +1,1 @@
-var mnemonic = "humor habit orient bright ignore summer access awesome custom picture size help";
+var mnemonic = "hospital candy rescue produce toilet blouse chicken unknown note they forum coach";

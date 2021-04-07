@@ -1,1 +1,1 @@
-var mnemonic = "click vacant pulse enact perfect toy topple grid rabbit trade know word";
+var mnemonic = "sample hint mystery clerk call hunt ceiling dust mirror gain dawn common";

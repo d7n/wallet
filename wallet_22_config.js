@@ -1,1 +1,1 @@
-var mnemonic = "gallery seven lunch lesson daring praise buzz conduct manage invest pride hurt";
+var mnemonic = "milk crawl afford focus peanut time chase skull wonder announce mask doctor";

@@ -1,1 +1,1 @@
-var mnemonic = "biology transfer process soup quiz quit unfair claw element furnace split attract";
+var mnemonic = "dune slender palm crane vanish cactus humble finish exchange company undo idea";

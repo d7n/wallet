@@ -1,1 +1,1 @@
-var mnemonic = "board ski neither response bright virus birth chicken sand spice will escape";
+var mnemonic = "current what certain hidden foot hello luggage almost install picture february spin";

@@ -1,1 +1,1 @@
-var mnemonic = "gun silk recipe decade athlete intact element taxi ivory monster elder solar";
+var mnemonic = "jump valley sponsor random prefer trim rival village eternal cash wage bottom";

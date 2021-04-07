@@ -1,1 +1,1 @@
-var mnemonic = "craft stone tackle left other transfer unable pear garlic obey cattle crisp";
+var mnemonic = "army style fiction engine ask program noise strike popular future urban impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "edge circle genre obscure permit depth lounge split unusual canvas wage cluster";
+var mnemonic = "degree review spin wink shine material exhaust purchase rapid myself person quick";

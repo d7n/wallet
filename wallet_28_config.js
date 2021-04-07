@@ -1,1 +1,1 @@
-var mnemonic = "tonight rotate armed jar hotel old celery comic tiny purity feature window";
+var mnemonic = "tissue rib differ regular heart witness what market dish chuckle young rapid";

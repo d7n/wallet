@@ -1,1 +1,1 @@
-var mnemonic = "toilet cushion second wagon response barrel average garlic flower police purchase mimic";
+var mnemonic = "soul better dismiss drama fish pluck minute help figure say sphere cradle";

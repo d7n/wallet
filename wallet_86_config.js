@@ -1,1 +1,1 @@
-var mnemonic = "dish clown feature ceiling act sleep beach drill spy brief filter consider";
+var mnemonic = "trigger spirit history bicycle math course neck asthma stadium flag token glass";

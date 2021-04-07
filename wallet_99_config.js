@@ -1,1 +1,1 @@
-var mnemonic = "smooth leaf lumber gown notable civil jacket beyond print custom spoon ethics";
+var mnemonic = "muscle busy squeeze maple remember neither script raven close border exhaust accident";

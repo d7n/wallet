@@ -1,1 +1,1 @@
-var mnemonic = "tribe ankle execute ketchup spy art slot dutch live quick purity early";
+var mnemonic = "income buffalo level output boring talk same rhythm photo custom stadium property";

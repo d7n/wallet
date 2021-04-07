@@ -1,1 +1,1 @@
-var mnemonic = "ranch elder arch april finger alpha soap caution cave ancient canvas mirror";
+var mnemonic = "mother desk jacket swear merge phrase wrap genre cube weird orchard dignity";

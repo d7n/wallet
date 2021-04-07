@@ -1,1 +1,1 @@
-var mnemonic = "dry exile gesture apology physical melt morning human prize oblige layer degree";
+var mnemonic = "pupil pilot spot celery radio lucky eyebrow despair amateur ketchup hood always";

@@ -1,1 +1,1 @@
-var mnemonic = "swear wash hand damage puppy label rocket vanish album pistol trap exit";
+var mnemonic = "junk manage jar dutch deny message left diary wear harsh mistake replace";

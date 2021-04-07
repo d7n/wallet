@@ -1,1 +1,1 @@
-var mnemonic = "churn unaware delay today random candy when flame onion wheel oyster season";
+var mnemonic = "release cement system taste shoe remain borrow knee current clarify random install";

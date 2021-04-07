@@ -1,1 +1,1 @@
-var mnemonic = "swing demise normal cube good battle blade present enough emotion elevator paddle";
+var mnemonic = "trust joke great happy good slight donate pencil term lazy ill pig";

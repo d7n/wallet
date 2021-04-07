@@ -1,1 +1,1 @@
-var mnemonic = "cradle stairs renew suit impact ketchup recall frequent diary industry tortoise royal";
+var mnemonic = "insane garage hundred example wash then feed noise team reopen betray idle";

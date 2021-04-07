@@ -1,1 +1,1 @@
-var mnemonic = "cross snake act violin inform cruise desert client noodle episode visual orange";
+var mnemonic = "supreme purpose beef dragon mad portion barrel aware raise column banner during";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger gap fiscal shuffle marine weekend bracket gasp field pizza horse remove";
+var mnemonic = "frequent wink label youth broom celery alien play champion just unique also";

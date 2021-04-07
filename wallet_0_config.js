@@ -1,1 +1,1 @@
-var mnemonic = "rug coast carpet poem typical garbage thing prize swarm skull picnic auction";
+var mnemonic = "club badge during source pole pull rotate setup tomato zone unusual mobile";

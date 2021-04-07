@@ -1,1 +1,1 @@
-var mnemonic = "mad flame attend ill spoil pool typical orbit guess whisper barrel sugar";
+var mnemonic = "room puppy again moment inch skill adapt summer check ribbon that aspect";

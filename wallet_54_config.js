@@ -1,1 +1,1 @@
-var mnemonic = "chase clever memory sunny void visual spot hotel excite coach repeat burger";
+var mnemonic = "plastic outer animal kick brand candy quick distance stable dinosaur brown fringe";

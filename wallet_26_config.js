@@ -1,1 +1,1 @@
-var mnemonic = "jelly cash pig believe host column notice physical refuse legal ordinary weird";
+var mnemonic = "raw subject melody plastic elite beach voice unknown waste quiz inmate gold";

@@ -1,1 +1,1 @@
-var mnemonic = "news ring junk century party offer nasty warm price dinner crazy tomorrow";
+var mnemonic = "media plate shaft fiber aisle card fabric deliver derive rule snow sword";

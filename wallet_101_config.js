@@ -1,1 +1,1 @@
-var mnemonic = "soul seven scan dawn eternal frog wife learn april invest twice true";
+var mnemonic = "pyramid name tape unknown field lift urge kiss ginger knife discover bench";

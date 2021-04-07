@@ -1,1 +1,1 @@
-var mnemonic = "wine extend breeze fork remain elder era awesome behind increase autumn sure";
+var mnemonic = "balance caution unable envelope twelve extend silent can attend inch summer guitar";

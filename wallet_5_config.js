@@ -1,1 +1,1 @@
-var mnemonic = "orbit use loyal cram festival vicious spoil various derive glance render little";
+var mnemonic = "over beach space autumn ribbon clarify wink member menu situate teach resemble";

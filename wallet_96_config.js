@@ -1,1 +1,1 @@
-var mnemonic = "level profit width fix rigid inflict employ adjust mask loyal sand remove";
+var mnemonic = "hurry antique scout vivid walk discover arch afraid blanket skill crater raw";

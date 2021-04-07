@@ -1,1 +1,1 @@
-var mnemonic = "wage upper very finish advance shop initial silent pet heart near couple";
+var mnemonic = "dumb lesson category luggage series vapor grab glove profit kitten differ adult";

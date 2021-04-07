@@ -1,1 +1,1 @@
-var mnemonic = "broccoli disorder spot garbage dish cabin oyster connect west carbon draw senior";
+var mnemonic = "miracle certain grace velvet broken slight exclude record perfect blouse lemon among";

@@ -1,1 +1,1 @@
-var mnemonic = "reject material lizard race fat salad spy engage robust kite mad real";
+var mnemonic = "asset tortoise kidney cat throw stage easily moon main tape naive cannon";

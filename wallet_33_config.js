@@ -1,1 +1,1 @@
-var mnemonic = "grit relax disorder bronze okay again treat answer sick mind trigger under";
+var mnemonic = "brief oyster increase path edit cushion crouch profit above gauge drop sand";

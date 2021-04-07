@@ -1,1 +1,1 @@
-var mnemonic = "charge ice list device name weird destroy admit year fun extra airport";
+var mnemonic = "wave roof emotion blood gorilla visa keep fun enough safe price marble";

@@ -1,1 +1,1 @@
-var mnemonic = "cube pause type tiny trumpet ostrich advance ride disorder feed head check";
+var mnemonic = "diagram enact gain nature quarter collect decide fluid tag endless change youth";

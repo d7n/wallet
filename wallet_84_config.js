@@ -1,1 +1,1 @@
-var mnemonic = "master ring imitate grant soon fringe hospital board favorite owner owner novel";
+var mnemonic = "garlic state brief electric dignity stable laptop fork maid tool nuclear pull";

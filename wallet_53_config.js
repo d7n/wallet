@@ -1,1 +1,1 @@
-var mnemonic = "hawk laptop real eternal august atom hood exact fiction problem bullet work";
+var mnemonic = "slab chuckle riot warrior sport aerobic vital snake shoulder caution language dress";

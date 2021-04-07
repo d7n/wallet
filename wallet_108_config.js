@@ -1,1 +1,1 @@
-var mnemonic = "quick brown answer trash afford mystery trick expand wait agree monitor forest";
+var mnemonic = "various become green power roast lunar autumn yellow mask pole neither daughter";

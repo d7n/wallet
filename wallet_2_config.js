@@ -1,1 +1,1 @@
-var mnemonic = "save minimum nerve luggage blue phrase pink rail leg hunt combine cram";
+var mnemonic = "clay doctor north gain very regret rotate then what guess quantum type";

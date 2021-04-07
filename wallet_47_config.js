@@ -1,1 +1,1 @@
-var mnemonic = "bread coast powder violin follow initial route behave sound canoe mystery combine";
+var mnemonic = "erupt casino skill panther gate uncover off divert worry nature judge slogan";

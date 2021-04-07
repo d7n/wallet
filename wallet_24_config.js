@@ -1,1 +1,1 @@
-var mnemonic = "common hip snow project myself list become twist term grape crash video";
+var mnemonic = "shed later income rate badge analyst squirrel chef orchard mail cover organ";

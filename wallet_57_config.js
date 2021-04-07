@@ -1,1 +1,1 @@
-var mnemonic = "south radar sauce staff primary cake creek scare spatial below frost steak";
+var mnemonic = "fiction oblige modify reunion seat water fortune obtain slab broom impact employ";

@@ -1,1 +1,1 @@
-var mnemonic = "alcohol venture deal seminar kangaroo unique nose reward echo grit best leopard";
+var mnemonic = "enrich almost output accident sing increase sick decrease grab motor borrow afraid";

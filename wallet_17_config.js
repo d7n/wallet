@@ -1,1 +1,1 @@
-var mnemonic = "lamp layer patient ripple envelope slim rude village blood cute about fall";
+var mnemonic = "cactus gasp wolf vital fold few hungry music lazy history spatial flush";

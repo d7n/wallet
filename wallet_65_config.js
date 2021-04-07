@@ -1,1 +1,1 @@
-var mnemonic = "charge cement orange senior million sample undo glad year trip luxury swap";
+var mnemonic = "gossip engage drill equip typical defy risk tragic rapid drill stem draw";

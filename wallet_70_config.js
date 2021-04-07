@@ -1,1 +1,1 @@
-var mnemonic = "rescue govern emotion maze plastic hurt seek trouble soccer current spatial hotel";
+var mnemonic = "comic aerobic garlic now average thunder mixture embody all comic dream giant";

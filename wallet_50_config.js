@@ -1,1 +1,1 @@
-var mnemonic = "nut pride cook mercy cabin total buyer lake motor speak bench boil";
+var mnemonic = "upgrade fruit envelope blade nurse leopard age life account profit cousin enrich";

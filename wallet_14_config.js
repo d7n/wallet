@@ -1,1 +1,1 @@
-var mnemonic = "basic fever enlist drift tourist legal woman settle machine position gorilla need";
+var mnemonic = "canvas dial next main shiver pond assault small dove rebel kid debate";

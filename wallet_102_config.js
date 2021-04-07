@@ -1,1 +1,1 @@
-var mnemonic = "shiver direct urge coffee fence melt learn victory ramp reward easily throw";
+var mnemonic = "absurd rain raccoon wide there sing guess steel valley improve december cloud";

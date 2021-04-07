@@ -1,1 +1,1 @@
-var mnemonic = "left valve grape oval fiscal luxury move chalk bless erase aim snake";
+var mnemonic = "double limb unit merge tower repeat coast often multiply chalk border solid";

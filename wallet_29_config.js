@@ -1,1 +1,1 @@
-var mnemonic = "syrup false cabin raven toward decide dress loyal luggage bind online sad";
+var mnemonic = "gauge trigger famous tree congress pact body hedgehog under six glance crop";

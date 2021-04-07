@@ -1,1 +1,1 @@
-var mnemonic = "upper potato enroll budget suit point inform small gravity possible ride impose";
+var mnemonic = "unique wisdom jump slice brain access impose struggle family hybrid chapter purchase";

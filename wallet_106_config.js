@@ -1,1 +1,1 @@
-var mnemonic = "fiscal nurse mass marriage marine stool zero prevent grow height climb present";
+var mnemonic = "outer wolf bag lonely lawsuit sadness deliver hold ensure merry reason rent";

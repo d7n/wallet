@@ -1,1 +1,1 @@
-var mnemonic = "pool rail suit fitness wide pair defense gaze slush camera version release";
+var mnemonic = "cart enemy quantum lizard gym clip review garlic nice desert term amount";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky broken bundle museum solution olympic father scale wave shrimp fragile whale";
+var mnemonic = "glimpse spring salute desk already planet velvet gym cream taste unaware donor";

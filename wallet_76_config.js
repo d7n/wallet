@@ -1,1 +1,1 @@
-var mnemonic = "celery total beyond improve voice sunny citizen arrest undo suspect right glimpse";
+var mnemonic = "kingdom resource nothing feel glass apart episode assume trick chest heart aware";

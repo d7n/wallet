@@ -1,1 +1,1 @@
-var mnemonic = "position primary eye bubble notable steel economy various film choose blanket public";
+var mnemonic = "canal cup cushion mushroom trend patient sponsor radar program walk thank mention";

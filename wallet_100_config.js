@@ -1,1 +1,1 @@
-var mnemonic = "acquire garment clean orbit course luxury job alter tourist nest master deny";
+var mnemonic = "unit ridge ugly actual input imitate deputy clown rebel twelve dinner six";

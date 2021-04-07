@@ -1,1 +1,1 @@
-var mnemonic = "habit blanket robust danger beyond comic balcony ecology entire banner faint evoke";
+var mnemonic = "beauty critic fiscal stock animal enroll fury type school much private divide";

@@ -1,1 +1,1 @@
-var mnemonic = "picture vicious kingdom lift model spirit usage toss chase memory couch immune";
+var mnemonic = "alien spawn raise slush coffee seven move party shop afraid volume topic";
