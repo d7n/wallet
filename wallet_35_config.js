@@ -1,1 +1,1 @@
-var mnemonic = "razor lab allow win share chase crumble leaf chimney motion either glow";
+var mnemonic = "fetch royal gain kidney such wife year vault into juice tobacco auto";

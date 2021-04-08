@@ -1,1 +1,1 @@
-var mnemonic = "struggle young morning vicious episode kidney vanish deny cover hotel cat legend";
+var mnemonic = "logic nose poem afraid second walk that hill chicken moment float rate";

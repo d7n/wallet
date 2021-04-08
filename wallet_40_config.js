@@ -1,1 +1,1 @@
-var mnemonic = "develop fence easy ski suggest either uncover increase pistol drill rose load";
+var mnemonic = "verify arrange slice then opera mutual cover pluck task initial game float";

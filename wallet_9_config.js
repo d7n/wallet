@@ -1,1 +1,1 @@
-var mnemonic = "unfold crazy trend ethics again pen dynamic chronic smile rebuild egg manage";
+var mnemonic = "torch broken fitness squeeze year better adapt concert column lion furnace margin";

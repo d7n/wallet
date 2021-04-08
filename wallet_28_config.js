@@ -1,1 +1,1 @@
-var mnemonic = "dinner hundred useless fire virtual front palm anger whisper verb oyster enlist";
+var mnemonic = "modify soda observe congress blur muscle frozen fly measure barely dwarf vital";

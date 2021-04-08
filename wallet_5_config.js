@@ -1,1 +1,1 @@
-var mnemonic = "plate develop surround middle shed dinner icon much humble horn rocket armed";
+var mnemonic = "album envelope angle kitchen coast latin require inherit bomb fit jar relax";

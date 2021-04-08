@@ -1,1 +1,1 @@
-var mnemonic = "inject allow harvest ball parade force certain sentence carbon rain blossom snake";
+var mnemonic = "setup pupil gap youth measure slight regular leopard sphere rebel galaxy seminar";

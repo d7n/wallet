@@ -1,1 +1,1 @@
-var mnemonic = "speak universe version kitchen wisdom during mango first tuna mention country cook";
+var mnemonic = "tattoo idle solar nature regular better name fish link delay young frost";

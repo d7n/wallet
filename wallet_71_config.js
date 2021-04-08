@@ -1,1 +1,1 @@
-var mnemonic = "kick excite kitten message unique devote start bargain glass group collect suspect";
+var mnemonic = "fall charge theory drill saddle swamp model undo consider brave carbon become";

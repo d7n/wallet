@@ -1,1 +1,1 @@
-var mnemonic = "glory run love bicycle fever that turtle business health embrace husband defense";
+var mnemonic = "flush bonus tennis hover sand entire rule indoor outdoor blanket fury humble";

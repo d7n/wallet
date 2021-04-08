@@ -1,1 +1,1 @@
-var mnemonic = "marble tenant orbit seek already deal average trim baby right exhaust marble";
+var mnemonic = "wage roof wheat damage wave path peasant blanket jazz stable test below";

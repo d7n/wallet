@@ -1,1 +1,1 @@
-var mnemonic = "upon title wedding garage jump elegant gold novel stumble outside doll find";
+var mnemonic = "icon wide sick pond action behave increase client half tape pledge eyebrow";

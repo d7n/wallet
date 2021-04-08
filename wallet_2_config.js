@@ -1,1 +1,1 @@
-var mnemonic = "unlock few hover debris average gesture ready unable night keen element enforce";
+var mnemonic = "mind divert lamp kiwi curious crunch tell napkin weekend pole nominee over";

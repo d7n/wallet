@@ -1,1 +1,1 @@
-var mnemonic = "prize reason nest riot prepare document cinnamon pistol once isolate live clock";
+var mnemonic = "judge exit before trend also dream service faculty fortune adult april dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "same wagon layer divert put work wash hammer genius palm wood hood";
+var mnemonic = "model mean vapor arctic crucial deal patrol accuse soup similar unfold gown";

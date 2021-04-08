@@ -1,1 +1,1 @@
-var mnemonic = "render detect lawn local term theory reunion sponsor judge number verb rack";
+var mnemonic = "theme brass robot north lonely visa mention fetch pluck again pill leader";

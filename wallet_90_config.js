@@ -1,1 +1,1 @@
-var mnemonic = "unhappy shoe virtual tube fault veteran coyote wire october sudden anxiety yellow";
+var mnemonic = "square promote electric category plug original winter tone change lawn mesh pull";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce lucky swarm gossip neck render achieve olive caution joke wagon exotic";
+var mnemonic = "spare hawk vocal radar simple sting elite cruise grow feel phone faint";

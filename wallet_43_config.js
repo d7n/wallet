@@ -1,1 +1,1 @@
-var mnemonic = "arch early athlete tree danger catch coconut muffin witness age hospital nation";
+var mnemonic = "scan miss goat state suspect deer empower gentle swallow actor silk trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure object tag oil winter jealous muscle ridge scene negative gossip abuse";
+var mnemonic = "bench caught never valid three envelope husband settle scatter salute alpha oyster";

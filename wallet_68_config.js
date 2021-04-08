@@ -1,1 +1,1 @@
-var mnemonic = "merit stage consider vanish approve file hover rural rug egg chalk suggest";
+var mnemonic = "welcome subject wheel toilet million robot sleep artwork breeze orbit glimpse just";

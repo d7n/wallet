@@ -1,1 +1,1 @@
-var mnemonic = "drip young reform twin oven pig talent secret apart genre sadness carpet";
+var mnemonic = "high conduct portion pattern total live current clown gesture cinnamon mechanic south";

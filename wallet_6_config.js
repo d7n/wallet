@@ -1,1 +1,1 @@
-var mnemonic = "cave much napkin math place entry chunk enforce affair inspire exact author";
+var mnemonic = "camp country absurd wide ceiling hover melt spell supreme federal just soft";

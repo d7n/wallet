@@ -1,1 +1,1 @@
-var mnemonic = "wait balcony mail awake anchor sadness alert fly kid toe slender album";
+var mnemonic = "ranch torch tattoo there mistake camp common furnace vote income asset degree";

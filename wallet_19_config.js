@@ -1,1 +1,1 @@
-var mnemonic = "nose put wrist verify milk math movie admit camera essence garage poet";
+var mnemonic = "tent jewel fun unveil disorder tragic vault rib file night rocket survey";

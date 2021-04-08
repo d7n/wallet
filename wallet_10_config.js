@@ -1,1 +1,1 @@
-var mnemonic = "satisfy govern giant bargain renew muscle diary sense pudding minute bid inform";
+var mnemonic = "beach school novel engage island old nose twin diamond banana buyer bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond such belt crouch world bacon honey trick message grow viable cupboard";
+var mnemonic = "fruit finish genuine leg lounge game beach example desert avoid treat crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor library six outer virtual venture bone exhaust law actor open portion";
+var mnemonic = "hurt possible ice repair screen blind trend cross turn diagram sun measure";

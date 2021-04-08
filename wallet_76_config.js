@@ -1,1 +1,1 @@
-var mnemonic = "swear cream job food arrive spawn loud useless height solve marble hello";
+var mnemonic = "tool great sudden chuckle symptom survey fan border spin market wealth magic";

@@ -1,1 +1,1 @@
-var mnemonic = "april relax coral river flee father cart old eager liar diary brown";
+var mnemonic = "ship split lend venture flame clog disorder explain orange grid pioneer analyst";

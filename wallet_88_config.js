@@ -1,1 +1,1 @@
-var mnemonic = "document frog pulse chapter confirm tell twelve scissors seek later priority bone";
+var mnemonic = "hire absurd ceiling trial pledge tuna river crucial flag always pen icon";

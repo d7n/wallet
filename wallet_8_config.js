@@ -1,1 +1,1 @@
-var mnemonic = "enable dose winter rough man twin simple cattle trend afraid rain crystal";
+var mnemonic = "stand veteran saddle tackle logic index sun subway donor drink noise wise";

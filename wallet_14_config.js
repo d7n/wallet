@@ -1,1 +1,1 @@
-var mnemonic = "earn cause train vote tuna scatter clap three project pride salmon expect";
+var mnemonic = "buyer trip bronze sponsor admit blush uphold father math gate rude impact";

@@ -1,1 +1,1 @@
-var mnemonic = "term chimney sand dentist radar dizzy term comic glad aim clown right";
+var mnemonic = "consider boring suspect sting prize sauce know october gesture desk treat slight";

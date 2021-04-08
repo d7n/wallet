@@ -1,1 +1,1 @@
-var mnemonic = "scout myself orchard sauce hamster assault print apart ostrich globe expect injury";
+var mnemonic = "detail oil slight inhale noise chest promote response coin sphere lounge silent";

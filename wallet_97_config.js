@@ -1,1 +1,1 @@
-var mnemonic = "lunch useful benefit resemble globe come assault tattoo kidney cargo idle price";
+var mnemonic = "elbow design child birth announce right check token laptop dice athlete huge";

@@ -1,1 +1,1 @@
-var mnemonic = "congress assist mimic ready soda this broccoli tilt define chief rival pact";
+var mnemonic = "outside puzzle story train size glare opera tank situate choose stick solve";

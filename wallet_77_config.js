@@ -1,1 +1,1 @@
-var mnemonic = "desert lock syrup essence truck regular beach cable person mouse quality abandon";
+var mnemonic = "stone uncle bachelor bargain doll error when blur jungle room rabbit school";

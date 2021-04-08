@@ -1,1 +1,1 @@
-var mnemonic = "liar cactus year expect citizen cheap learn frequent lemon naive exhibit satoshi";
+var mnemonic = "screen library plunge adult hedgehog ostrich worth first owner uncover already embody";

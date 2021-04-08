@@ -1,1 +1,1 @@
-var mnemonic = "notable pulp street void rocket old view crack furnace doll faint distance";
+var mnemonic = "into bonus merry way trim tourist rare bicycle fence month bracket labor";

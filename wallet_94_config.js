@@ -1,1 +1,1 @@
-var mnemonic = "stumble tumble random asset often stone sample animal motion play coffee laptop";
+var mnemonic = "caution cactus taste replace immense purse suit fame rebel thrive gun explain";

@@ -1,1 +1,1 @@
-var mnemonic = "end poet normal trip feel clock laundry onion hover bacon coil pupil";
+var mnemonic = "clown hollow party breeze museum adult globe digital sad able drip middle";

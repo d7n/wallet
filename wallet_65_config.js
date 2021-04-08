@@ -1,1 +1,1 @@
-var mnemonic = "maximum pig gym burst bronze risk empty cloth zero end hunt tent";
+var mnemonic = "walk stadium mimic can scatter material hamster morning yellow correct duck glue";

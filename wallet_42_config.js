@@ -1,1 +1,1 @@
-var mnemonic = "regular reopen box secret own equip review jacket clip stumble bronze blue";
+var mnemonic = "boat speed album resource mesh strike ticket left note bronze physical popular";

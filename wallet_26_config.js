@@ -1,1 +1,1 @@
-var mnemonic = "sample pyramid denial skull squeeze foam tired collect dynamic foster lamp whip";
+var mnemonic = "build jazz group dinosaur garage success nerve awesome refuse history twice speak";

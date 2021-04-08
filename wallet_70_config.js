@@ -1,1 +1,1 @@
-var mnemonic = "pet company daughter puppy blood jewel transfer common remember neither hybrid grain";
+var mnemonic = "gasp first oil zebra wheel chalk silent vessel soft depend across off";

@@ -1,1 +1,1 @@
-var mnemonic = "digital coin olive initial royal laptop client victory error toddler hero swift";
+var mnemonic = "cargo friend tree match dignity picnic utility miss muscle later aware black";

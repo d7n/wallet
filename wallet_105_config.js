@@ -1,1 +1,1 @@
-var mnemonic = "demand attend bleak harvest artefact chaos waste word figure yellow husband dinosaur";
+var mnemonic = "goddess fetch patch taste radar fuel canvas advice delay body match blade";

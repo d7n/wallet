@@ -1,1 +1,1 @@
-var mnemonic = "acquire boss album final fall grit evidence assault parent hold drop rough";
+var mnemonic = "edge pretty indoor typical include misery weapon brick victory giant runway note";

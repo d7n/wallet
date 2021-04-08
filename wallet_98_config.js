@@ -1,1 +1,1 @@
-var mnemonic = "menu neglect trend sting tree ozone team front chronic purpose glass solution";
+var mnemonic = "web situate hobby height glass teach method cradle raw you feel minimum";

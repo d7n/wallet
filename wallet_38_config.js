@@ -1,1 +1,1 @@
-var mnemonic = "camera blast kingdom seven clinic deny frozen deal used canvas cushion elder";
+var mnemonic = "dose alone pretty space scan slight gallery announce evoke violin exist actual";

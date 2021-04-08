@@ -1,1 +1,1 @@
-var mnemonic = "design board abstract volume replace current fold impact crowd arena ride warfare";
+var mnemonic = "this round today steel moral enter acid chronic problem quiz host stock";

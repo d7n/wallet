@@ -1,1 +1,1 @@
-var mnemonic = "pluck analyst spawn devote warfare regret waste vital gas combine kind uniform";
+var mnemonic = "group sudden style drill exercise snake atom permit captain enable conduct season";

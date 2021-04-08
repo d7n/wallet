@@ -1,1 +1,1 @@
-var mnemonic = "token help term dish route insect captain clown later clerk tool menu";
+var mnemonic = "public fatigue advice bacon erase version coffee scale embody rack arrive wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "girl popular nominee effort filter soap frozen anchor alert adult duty street";
+var mnemonic = "leader answer critic code athlete critic tell sausage blast about cover track";

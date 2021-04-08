@@ -1,1 +1,1 @@
-var mnemonic = "plug category useless lend umbrella mind current fun spend timber vintage athlete";
+var mnemonic = "recall connect pottery duty monitor mouse kite ladder scrub auto borrow solution";

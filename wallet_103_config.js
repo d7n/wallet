@@ -1,1 +1,1 @@
-var mnemonic = "version rebuild drama era lobster inside canyon lawn pave daring term actress";
+var mnemonic = "tail news argue fabric radio piece tell awake worry once talk kick";

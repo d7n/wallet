@@ -1,1 +1,1 @@
-var mnemonic = "resemble diesel cable produce must indicate room tree dust intact message spatial";
+var mnemonic = "elegant puzzle trade embody various gauge spoon voice piano body yard visual";

@@ -1,1 +1,1 @@
-var mnemonic = "leader outside roast live write latin perfect innocent science palace defy oval";
+var mnemonic = "manual coin burger wage game bracket second youth trust usual cat trade";

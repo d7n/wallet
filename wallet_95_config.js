@@ -1,1 +1,1 @@
-var mnemonic = "poem awake buyer smart cool maid mixed ocean service rug vintage nerve";
+var mnemonic = "guide stick consider wing law goose budget candy deliver refuse together cave";

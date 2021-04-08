@@ -1,1 +1,1 @@
-var mnemonic = "car naive kangaroo gesture wet embrace repeat pave snap flush light doll";
+var mnemonic = "friend strategy hen mention river bring endorse expand staff couple taxi diary";

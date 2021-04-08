@@ -1,1 +1,1 @@
-var mnemonic = "wealth verb wing clarify one zone federal festival wall alien crunch broom";
+var mnemonic = "donor fine sing fence pretty seven settle hint total material prevent purchase";

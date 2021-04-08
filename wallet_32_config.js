@@ -1,1 +1,1 @@
-var mnemonic = "coach disagree marine ankle panel donkey destroy drastic organ sudden capable code";
+var mnemonic = "sad settle employ danger wet swallow rough enjoy fee patrol appear ignore";

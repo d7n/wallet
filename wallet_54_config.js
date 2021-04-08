@@ -1,1 +1,1 @@
-var mnemonic = "tape rely clay seminar circle frozen direct reveal ring coil segment filter";
+var mnemonic = "ensure regret sugar laugh marriage dress account head outside quit whip will";

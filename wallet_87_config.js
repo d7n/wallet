@@ -1,1 +1,1 @@
-var mnemonic = "core nephew devote middle funny control diet bamboo image simple proof habit";
+var mnemonic = "oval boy admit also cool monster dynamic child fame give divorce female";

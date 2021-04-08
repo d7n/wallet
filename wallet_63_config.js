@@ -1,1 +1,1 @@
-var mnemonic = "position north symbol enable legend where raven defense glass upper popular barrel";
+var mnemonic = "category motor denial giant elder wise final mad identify layer thrive science";

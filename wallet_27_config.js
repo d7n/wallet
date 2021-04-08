@@ -1,1 +1,1 @@
-var mnemonic = "omit tunnel rich entire coach blush rug betray orbit salad despair load";
+var mnemonic = "squirrel smile alpha violin palace distance adjust tumble high drama drift cup";

@@ -1,1 +1,1 @@
-var mnemonic = "release top brick inch apology muscle scale trust adult swap dad yard";
+var mnemonic = "rare wet grass across essence stool example heart fade industry alarm design";

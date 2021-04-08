@@ -1,1 +1,1 @@
-var mnemonic = "settle wagon lumber concert lava oblige nice avocado album figure mixture review";
+var mnemonic = "junk devote devote divide mammal old pill clinic blind scrub hobby symbol";

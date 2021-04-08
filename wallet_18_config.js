@@ -1,1 +1,1 @@
-var mnemonic = "dutch decrease extend curve sing kingdom useless amazing measure nation sibling else";
+var mnemonic = "forest dinner stove edge adult spray hope alien trash clean list alley";

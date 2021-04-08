@@ -1,1 +1,1 @@
-var mnemonic = "differ stove addict sting shrimp space midnight sibling design phone auto spend";
+var mnemonic = "canyon scorpion valve field couple rent maze cancel roof filter furnace giggle";

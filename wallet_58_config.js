@@ -1,1 +1,1 @@
-var mnemonic = "future crawl hurdle music very found infant celery sing head group lounge";
+var mnemonic = "tribe ordinary hammer calm strong develop fly include captain key imitate hour";

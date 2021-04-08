@@ -1,1 +1,1 @@
-var mnemonic = "various appear sing submit adjust mix pencil small various blame reopen dwarf";
+var mnemonic = "critic image virus wolf news shed achieve uncle ask nation coach picnic";

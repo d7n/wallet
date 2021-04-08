@@ -1,1 +1,1 @@
-var mnemonic = "evidence room vague useless issue walk insect trap nature swear license table";
+var mnemonic = "hybrid index shrimp settle essence near lesson click marble copper produce indicate";

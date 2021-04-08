@@ -1,1 +1,1 @@
-var mnemonic = "clerk oval weekend bachelor suit course oval fashion harbor draw surprise cake";
+var mnemonic = "type boy upgrade purity fossil glide ozone december awake manage swamp hotel";

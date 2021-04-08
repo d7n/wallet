@@ -1,1 +1,1 @@
-var mnemonic = "indicate flee twin jungle bird wink dwarf trouble account review pupil master";
+var mnemonic = "satoshi circle review spring plastic federal slice mandate dust scatter music chimney";

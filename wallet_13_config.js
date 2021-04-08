@@ -1,1 +1,1 @@
-var mnemonic = "during acquire jeans carpet shadow carpet clever maid screen lake hammer mystery";
+var mnemonic = "embrace impact drift decorate mushroom stove keen energy enemy spirit robust unique";

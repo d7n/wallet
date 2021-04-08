@@ -1,1 +1,1 @@
-var mnemonic = "tuition waste umbrella endless luxury click struggle update scout only field uncover";
+var mnemonic = "urban first spawn have alter target oven any wisdom embrace kite belt";

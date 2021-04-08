@@ -1,1 +1,1 @@
-var mnemonic = "rebel child under neither excite quit profit picture fix wish jump accident";
+var mnemonic = "add dry sad tortoise glass shed ceiling holiday clump glove napkin manage";

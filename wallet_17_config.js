@@ -1,1 +1,1 @@
-var mnemonic = "identify leisure few sea area pet envelope scale elbow absurd shoulder allow";
+var mnemonic = "predict cousin away mind ripple way marine link strong afford age year";

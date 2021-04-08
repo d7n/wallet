@@ -1,1 +1,1 @@
-var mnemonic = "glow festival depend wife because moment toast camera forum zebra hero excess";
+var mnemonic = "reject illness inform denial labor where bomb grief area hollow core alter";

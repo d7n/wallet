@@ -1,1 +1,1 @@
-var mnemonic = "universe hurdle you general soldier disagree envelope dress table napkin token crisp";
+var mnemonic = "person satisfy prevent million tuna virus sound vapor scrap donate cliff logic";

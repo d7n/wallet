@@ -1,1 +1,1 @@
-var mnemonic = "leader admit analyst trial bulk glue rescue firm purity much friend glue";
+var mnemonic = "brain gentle hamster boy chunk family dust tool sport absent orbit lawn";

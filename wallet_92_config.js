@@ -1,1 +1,1 @@
-var mnemonic = "brand figure pear pistol galaxy feed wasp night celery velvet detect rescue";
+var mnemonic = "gossip raise chair empower cricket clog fit dial clever volume solar burst";

@@ -1,1 +1,1 @@
-var mnemonic = "talk fringe program rookie suit pave palace service dutch drink vessel ghost";
+var mnemonic = "night insane embody above spice shine office various require parrot easy finish";

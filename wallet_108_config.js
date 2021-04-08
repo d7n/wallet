@@ -1,1 +1,1 @@
-var mnemonic = "table cluster sausage shop tortoise short true elephant cradle health brick pulse";
+var mnemonic = "solar kiss shoot engage utility rally paper toddler what cart raven toe";

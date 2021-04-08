@@ -1,1 +1,1 @@
-var mnemonic = "cotton journey expose roast during electric toilet duck brick reveal lens stairs";
+var mnemonic = "effort sadness gold radar soup nuclear scheme west palace elephant maze shine";

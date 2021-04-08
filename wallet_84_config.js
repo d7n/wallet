@@ -1,1 +1,1 @@
-var mnemonic = "blade interest abandon minimum boy trip belt gown blouse vast fat expose";
+var mnemonic = "near trend absent type lady impulse elephant market peasant eager allow eagle";

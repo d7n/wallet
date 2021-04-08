@@ -1,1 +1,1 @@
-var mnemonic = "pigeon talk afford cotton soap lion quality certain exile hamster pause enhance";
+var mnemonic = "yard spoon nothing help parent belt blossom name video prevent bread process";

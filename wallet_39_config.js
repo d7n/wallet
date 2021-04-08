@@ -1,1 +1,1 @@
-var mnemonic = "color olympic index fiber song grow brisk train glass reduce barely rate";
+var mnemonic = "wisdom original excuse network aisle exchange enroll harsh quarter maze click boost";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous ski upon trim hill payment version chest inside buffalo decline fancy";
+var mnemonic = "tray welcome album reunion pyramid layer hint anchor organ winner chicken motion";
