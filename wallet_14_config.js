@@ -1,1 +1,1 @@
-var mnemonic = "buyer trip bronze sponsor admit blush uphold father math gate rude impact";
+var mnemonic = "gain gym fiscal snap lunar filter point gold pole mother crane elite";

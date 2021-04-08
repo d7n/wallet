@@ -1,1 +1,1 @@
-var mnemonic = "dose fruit victory prosper thunder accident tone express lab expand example census";
+var mnemonic = "worry worry easily arrange apology riot they keep cheese ritual save illness";

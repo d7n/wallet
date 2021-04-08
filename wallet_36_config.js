@@ -1,1 +1,1 @@
-var mnemonic = "planet foam settle crystal win upper useful tide toe stay upset bullet";
+var mnemonic = "blast salad vendor laugh surge tail tobacco fan venture embark water science";

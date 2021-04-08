@@ -1,1 +1,1 @@
-var mnemonic = "theme brass robot north lonely visa mention fetch pluck again pill leader";
+var mnemonic = "clown oven quality strong news captain carpet lumber panda waste entire already";

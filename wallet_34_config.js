@@ -1,1 +1,1 @@
-var mnemonic = "cargo friend tree match dignity picnic utility miss muscle later aware black";
+var mnemonic = "index flock real ramp unknown moon detect tiny alone riot refuse arrive";

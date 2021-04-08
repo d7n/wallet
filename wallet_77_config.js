@@ -1,1 +1,1 @@
-var mnemonic = "stone uncle bachelor bargain doll error when blur jungle room rabbit school";
+var mnemonic = "guess matrix ready amused orphan bundle spoon bamboo sorry token gap dinosaur";

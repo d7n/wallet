@@ -1,1 +1,1 @@
-var mnemonic = "tool great sudden chuckle symptom survey fan border spin market wealth magic";
+var mnemonic = "slot fabric brief unknown rate search combine print sea oval fashion concert";

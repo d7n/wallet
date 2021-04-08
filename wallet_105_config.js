@@ -1,1 +1,1 @@
-var mnemonic = "goddess fetch patch taste radar fuel canvas advice delay body match blade";
+var mnemonic = "post bounce chief kitchen brown noodle color mistake way poem skirt grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "into bonus merry way trim tourist rare bicycle fence month bracket labor";
+var mnemonic = "nephew remove ring latin junior timber time result swap dumb student kite";

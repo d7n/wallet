@@ -1,1 +1,1 @@
-var mnemonic = "embrace impact drift decorate mushroom stove keen energy enemy spirit robust unique";
+var mnemonic = "tuition truth venue enact strong category volume you cabin vanish earth earth";

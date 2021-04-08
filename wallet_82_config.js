@@ -1,1 +1,1 @@
-var mnemonic = "sphere super disagree tube burger area print coconut strong group shoot warm";
+var mnemonic = "enough ice calm emerge quality chapter ocean leisure alcohol perfect doll release";

@@ -1,1 +1,1 @@
-var mnemonic = "urban first spawn have alter target oven any wisdom embrace kite belt";
+var mnemonic = "divert journey brave romance deer denial isolate century drift globe receive damage";

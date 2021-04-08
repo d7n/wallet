@@ -1,1 +1,1 @@
-var mnemonic = "person satisfy prevent million tuna virus sound vapor scrap donate cliff logic";
+var mnemonic = "half disagree ketchup husband donkey desk bullet under service good poem gentle";

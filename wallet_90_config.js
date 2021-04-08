@@ -1,1 +1,1 @@
-var mnemonic = "square promote electric category plug original winter tone change lawn mesh pull";
+var mnemonic = "adapt mesh glide naive either whip day cloth rough result depth actress";

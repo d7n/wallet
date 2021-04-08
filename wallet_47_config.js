@@ -1,1 +1,1 @@
-var mnemonic = "detail oil slight inhale noise chest promote response coin sphere lounge silent";
+var mnemonic = "invest diamond thing decorate mixture accident advance balance already come person upper";

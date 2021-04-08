@@ -1,1 +1,1 @@
-var mnemonic = "outside puzzle story train size glare opera tank situate choose stick solve";
+var mnemonic = "heavy sport answer expand van above fence similar salad truth chuckle toss";

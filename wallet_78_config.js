@@ -1,1 +1,1 @@
-var mnemonic = "blouse wheel struggle marriage salt foster believe caught alpha prize involve dinner";
+var mnemonic = "alert visit depend same school walnut enact awkward transfer mixed apple immense";

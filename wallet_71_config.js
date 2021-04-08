@@ -1,1 +1,1 @@
-var mnemonic = "fall charge theory drill saddle swamp model undo consider brave carbon become";
+var mnemonic = "deer stumble habit sword cruise finish hockey whip dinner mesh throw broccoli";

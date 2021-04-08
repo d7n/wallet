@@ -1,1 +1,1 @@
-var mnemonic = "metal favorite song bag meat gap bulb flee job annual crazy vibrant";
+var mnemonic = "image abstract produce donor leisure embody wise eternal people local humble service";

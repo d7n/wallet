@@ -1,1 +1,1 @@
-var mnemonic = "forest dinner stove edge adult spray hope alien trash clean list alley";
+var mnemonic = "shove chaos time kiwi system comic pool hamster riot approve knee unlock";

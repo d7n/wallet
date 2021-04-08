@@ -1,1 +1,1 @@
-var mnemonic = "tail news argue fabric radio piece tell awake worry once talk kick";
+var mnemonic = "parrot render noise since used display tide ribbon omit pave spell upset";

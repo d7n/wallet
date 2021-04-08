@@ -1,1 +1,1 @@
-var mnemonic = "ship split lend venture flame clog disorder explain orange grid pioneer analyst";
+var mnemonic = "walnut sand now already sibling main horn bargain velvet web amateur honey";

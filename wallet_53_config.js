@@ -1,1 +1,1 @@
-var mnemonic = "canyon scorpion valve field couple rent maze cancel roof filter furnace giggle";
+var mnemonic = "myself devote below differ tissue abstract runway skin mail swift mixed organ";

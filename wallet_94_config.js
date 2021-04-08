@@ -1,1 +1,1 @@
-var mnemonic = "caution cactus taste replace immense purse suit fame rebel thrive gun explain";
+var mnemonic = "glare stairs crumble tissue square kangaroo height display sorry link build volume";

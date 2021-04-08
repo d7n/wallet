@@ -1,1 +1,1 @@
-var mnemonic = "boat speed album resource mesh strike ticket left note bronze physical popular";
+var mnemonic = "gather around capital dad dream double smooth open stool paddle gasp bargain";

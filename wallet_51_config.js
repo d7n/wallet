@@ -1,1 +1,1 @@
-var mnemonic = "manual coin burger wage game bracket second youth trust usual cat trade";
+var mnemonic = "ripple alley assume spare dial suffer balcony reform puzzle inflict trust movie";

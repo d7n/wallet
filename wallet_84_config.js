@@ -1,1 +1,1 @@
-var mnemonic = "near trend absent type lady impulse elephant market peasant eager allow eagle";
+var mnemonic = "forest glance catch potato success hazard second earn dinner one stage emotion";

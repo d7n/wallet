@@ -1,1 +1,1 @@
-var mnemonic = "dose alone pretty space scan slight gallery announce evoke violin exist actual";
+var mnemonic = "cargo excuse faith lamp unaware submit castle father bronze across wear prepare";

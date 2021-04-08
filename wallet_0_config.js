@@ -1,1 +1,1 @@
-var mnemonic = "spare hawk vocal radar simple sting elite cruise grow feel phone faint";
+var mnemonic = "drastic miss essence maple brief inner away syrup rocket face correct orbit";

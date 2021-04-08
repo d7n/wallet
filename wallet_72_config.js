@@ -1,1 +1,1 @@
-var mnemonic = "logic nose poem afraid second walk that hill chicken moment float rate";
+var mnemonic = "season friend repair lava impact badge pet floor ready swear spend green";

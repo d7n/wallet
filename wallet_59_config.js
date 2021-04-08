@@ -1,1 +1,1 @@
-var mnemonic = "audit goat test wild genius motor victory utility galaxy jaguar witness meat";
+var mnemonic = "bronze problem popular pepper siren glance scene change tired away hidden kitchen";

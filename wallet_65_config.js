@@ -1,1 +1,1 @@
-var mnemonic = "walk stadium mimic can scatter material hamster morning yellow correct duck glue";
+var mnemonic = "believe autumn hammer scrap notable pool funny fantasy bleak control noodle finger";

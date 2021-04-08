@@ -1,1 +1,1 @@
-var mnemonic = "type boy upgrade purity fossil glide ozone december awake manage swamp hotel";
+var mnemonic = "drama elegant leisure soon danger exotic keen talent fitness tower proof improve";

@@ -1,1 +1,1 @@
-var mnemonic = "rare wet grass across essence stool example heart fade industry alarm design";
+var mnemonic = "series stairs victory desk truck primary spend wage conduct end boss duck";

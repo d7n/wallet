@@ -1,1 +1,1 @@
-var mnemonic = "gasp first oil zebra wheel chalk silent vessel soft depend across off";
+var mnemonic = "aunt verify tomorrow jump leave extend such trash finger oval when identify";

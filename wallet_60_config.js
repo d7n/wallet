@@ -1,1 +1,1 @@
-var mnemonic = "donor fine sing fence pretty seven settle hint total material prevent purchase";
+var mnemonic = "soccer manual fox claim hole glare actual enroll broken eternal happy session";

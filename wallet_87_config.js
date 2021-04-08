@@ -1,1 +1,1 @@
-var mnemonic = "oval boy admit also cool monster dynamic child fame give divorce female";
+var mnemonic = "moon normal forest arm return noise great escape video during crunch dentist";

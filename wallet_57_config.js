@@ -1,1 +1,1 @@
-var mnemonic = "tattoo idle solar nature regular better name fish link delay young frost";
+var mnemonic = "hollow huge marine guilt salmon test strong amazing easily also essay crumble";

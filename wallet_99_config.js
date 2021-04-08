@@ -1,1 +1,1 @@
-var mnemonic = "edge pretty indoor typical include misery weapon brick victory giant runway note";
+var mnemonic = "draw crash come disorder rail bacon spirit consider horror announce emotion eight";

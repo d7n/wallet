@@ -1,1 +1,1 @@
-var mnemonic = "wisdom original excuse network aisle exchange enroll harsh quarter maze click boost";
+var mnemonic = "wheel armed beef engine shift citizen provide hunt sphere million suit section";

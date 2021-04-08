@@ -1,1 +1,1 @@
-var mnemonic = "sad settle employ danger wet swallow rough enjoy fee patrol appear ignore";
+var mnemonic = "inmate mass relax club donor return odor mother immune unfair focus orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "guide stick consider wing law goose budget candy deliver refuse together cave";
+var mnemonic = "amateur mixed vacuum attract patrol nominee balance video palm session clip pelican";

@@ -1,1 +1,1 @@
-var mnemonic = "effort sadness gold radar soup nuclear scheme west palace elephant maze shine";
+var mnemonic = "project witness benefit chest mimic coin cool trim elite evidence army blanket";

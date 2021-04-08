@@ -1,1 +1,1 @@
-var mnemonic = "gossip raise chair empower cricket clog fit dial clever volume solar burst";
+var mnemonic = "faith stove asset lumber orient grain eternal they army captain rib unfair";

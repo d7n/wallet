@@ -1,1 +1,1 @@
-var mnemonic = "leader answer critic code athlete critic tell sausage blast about cover track";
+var mnemonic = "mesh crisp tattoo company choice cream easily reward skill stool weasel uniform";

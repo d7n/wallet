@@ -1,1 +1,1 @@
-var mnemonic = "web situate hobby height glass teach method cradle raw you feel minimum";
+var mnemonic = "glance cricket canal float box tenant shallow number wash remember rapid direct";

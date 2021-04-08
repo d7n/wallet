@@ -1,1 +1,1 @@
-var mnemonic = "category motor denial giant elder wise final mad identify layer thrive science";
+var mnemonic = "village travel balance brass lesson magic opinion potato runway double rabbit useless";

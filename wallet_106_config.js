@@ -1,1 +1,1 @@
-var mnemonic = "this round today steel moral enter acid chronic problem quiz host stock";
+var mnemonic = "roast figure file horn enact pencil merry bone purchase deposit adjust lunch";

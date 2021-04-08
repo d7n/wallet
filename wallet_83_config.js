@@ -1,1 +1,1 @@
-var mnemonic = "screen library plunge adult hedgehog ostrich worth first owner uncover already embody";
+var mnemonic = "glass merge chicken exhaust aim tooth dose wild wolf shadow note frozen";

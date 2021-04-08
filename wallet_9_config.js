@@ -1,1 +1,1 @@
-var mnemonic = "torch broken fitness squeeze year better adapt concert column lion furnace margin";
+var mnemonic = "title canal noble drum among denial believe parade alert people same brass";

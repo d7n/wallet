@@ -1,1 +1,1 @@
-var mnemonic = "verify arrange slice then opera mutual cover pluck task initial game float";
+var mnemonic = "advance coil guilt stick hurdle cat only evil minute toss labor gas";

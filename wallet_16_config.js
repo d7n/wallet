@@ -1,1 +1,1 @@
-var mnemonic = "sort update purchase knee maid elder consider cross barrel prison message front";
+var mnemonic = "jealous stomach bird property oblige injury cinnamon nest cabin hedgehog coach puppy";

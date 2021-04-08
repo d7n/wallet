@@ -1,1 +1,1 @@
-var mnemonic = "shoot huge shell gold gasp voyage elbow come poverty search roast bless";
+var mnemonic = "gentle couch escape wonder brown solution coral degree now suggest steel bind";

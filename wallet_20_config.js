@@ -1,1 +1,1 @@
-var mnemonic = "bench caught never valid three envelope husband settle scatter salute alpha oyster";
+var mnemonic = "supreme comfort special together teach devote correct dance stand youth toe axis";

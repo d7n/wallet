@@ -1,1 +1,1 @@
-var mnemonic = "icon wide sick pond action behave increase client half tape pledge eyebrow";
+var mnemonic = "spider stem thrive brush people tonight physical forum tumble avoid also load";

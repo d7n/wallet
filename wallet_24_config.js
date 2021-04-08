@@ -1,1 +1,1 @@
-var mnemonic = "ranch torch tattoo there mistake camp common furnace vote income asset degree";
+var mnemonic = "seminar unveil tired double hub chase ketchup else unknown agree member toe";

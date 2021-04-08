@@ -1,1 +1,1 @@
-var mnemonic = "group sudden style drill exercise snake atom permit captain enable conduct season";
+var mnemonic = "possible tomorrow amazing dove thunder ramp regret trophy mango height plastic obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm claw orchard distance number broken cause direct gown situate you across";
+var mnemonic = "lunch unhappy blossom course runway lava general visa remind mansion invite pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "mean spirit brown ride stable inhale know apart village faculty index confirm";
+var mnemonic = "gossip quantum decline shield fiber orbit make powder merry alley tip bike";

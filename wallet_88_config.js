@@ -1,1 +1,1 @@
-var mnemonic = "hire absurd ceiling trial pledge tuna river crucial flag always pen icon";
+var mnemonic = "wrap rough remove wedding sweet slab world kind valid cement shrug fatal";

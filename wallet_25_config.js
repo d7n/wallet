@@ -1,1 +1,1 @@
-var mnemonic = "hurt possible ice repair screen blind trend cross turn diagram sun measure";
+var mnemonic = "surface alone west proof force alone iron tilt retreat jacket energy chaos";

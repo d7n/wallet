@@ -1,1 +1,1 @@
-var mnemonic = "camp country absurd wide ceiling hover melt spell supreme federal just soft";
+var mnemonic = "trust evolve use stage tilt faculty virus gallery day manage board quarter";

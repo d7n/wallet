@@ -1,1 +1,1 @@
-var mnemonic = "beach school novel engage island old nose twin diamond banana buyer bracket";
+var mnemonic = "claw great rack project wear antenna clog any empty achieve dirt forest";

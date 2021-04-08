@@ -1,1 +1,1 @@
-var mnemonic = "spray excite creek adapt around purse fabric security pilot tomorrow wrestle soldier";
+var mnemonic = "wasp benefit belt square fresh sugar erase wasp broken cloud thank glass";

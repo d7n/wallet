@@ -1,1 +1,1 @@
-var mnemonic = "mind divert lamp kiwi curious crunch tell napkin weekend pole nominee over";
+var mnemonic = "carbon tired family forest slice shaft decide ahead banner exclude jump huge";

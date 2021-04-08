@@ -1,1 +1,1 @@
-var mnemonic = "wage roof wheat damage wave path peasant blanket jazz stable test below";
+var mnemonic = "wagon visual talk auto animal decrease width guard already shield vibrant gaze";

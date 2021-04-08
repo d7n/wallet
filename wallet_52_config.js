@@ -1,1 +1,1 @@
-var mnemonic = "judge exit before trend also dream service faculty fortune adult april dentist";
+var mnemonic = "analyst wide solution drink anger tail leg ring forest blame dream purpose";

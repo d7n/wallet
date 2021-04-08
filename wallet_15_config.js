@@ -1,1 +1,1 @@
-var mnemonic = "model mean vapor arctic crucial deal patrol accuse soup similar unfold gown";
+var mnemonic = "hundred credit cake trophy corn seat inhale candy able increase poet this";

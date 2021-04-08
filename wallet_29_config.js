@@ -1,1 +1,1 @@
-var mnemonic = "high conduct portion pattern total live current clown gesture cinnamon mechanic south";
+var mnemonic = "slight drastic forget salad voice code pool canvas pulp civil shuffle riot";

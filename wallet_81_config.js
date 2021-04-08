@@ -1,1 +1,1 @@
-var mnemonic = "fruit finish genuine leg lounge game beach example desert avoid treat crunch";
+var mnemonic = "march fitness make fee transfer black bread treat seat satoshi fall ancient";

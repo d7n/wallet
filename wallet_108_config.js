@@ -1,1 +1,1 @@
-var mnemonic = "solar kiss shoot engage utility rally paper toddler what cart raven toe";
+var mnemonic = "crouch loyal icon spare frog market cigar october muffin track grocery filter";

@@ -1,1 +1,1 @@
-var mnemonic = "ensure regret sugar laugh marriage dress account head outside quit whip will";
+var mnemonic = "prison enroll point jacket reveal base frost tortoise tourist such demise couch";

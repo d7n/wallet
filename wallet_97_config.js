@@ -1,1 +1,1 @@
-var mnemonic = "elbow design child birth announce right check token laptop dice athlete huge";
+var mnemonic = "visit soldier segment observe next despair produce garment rely swamp fold mixed";

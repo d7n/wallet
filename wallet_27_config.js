@@ -1,1 +1,1 @@
-var mnemonic = "squirrel smile alpha violin palace distance adjust tumble high drama drift cup";
+var mnemonic = "hello trim receive hundred ecology ten brisk keen eager blue jungle tree";

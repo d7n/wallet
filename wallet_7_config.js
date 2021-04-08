@@ -1,1 +1,1 @@
-var mnemonic = "brain gentle hamster boy chunk family dust tool sport absent orbit lawn";
+var mnemonic = "bid main wall snow tumble around window office hollow prevent napkin ice";

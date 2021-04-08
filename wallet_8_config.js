@@ -1,1 +1,1 @@
-var mnemonic = "stand veteran saddle tackle logic index sun subway donor drink noise wise";
+var mnemonic = "bargain curious what burden happy mushroom blood tent calm concert purpose exile";

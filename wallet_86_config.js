@@ -1,1 +1,1 @@
-var mnemonic = "small moral poet music relax gain century song furnace soul muffin repeat";
+var mnemonic = "raw keep skate height scan canal great two lawn rely crush found";

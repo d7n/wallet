@@ -1,1 +1,1 @@
-var mnemonic = "capital company omit alert stable visa rail language notice judge rubber hood";
+var mnemonic = "trend game journey devote wrong good absorb fringe apart globe win fluid";

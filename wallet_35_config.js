@@ -1,1 +1,1 @@
-var mnemonic = "fetch royal gain kidney such wife year vault into juice tobacco auto";
+var mnemonic = "card capable brief grid escape nothing waste shaft welcome ice camp middle";

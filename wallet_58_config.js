@@ -1,1 +1,1 @@
-var mnemonic = "tribe ordinary hammer calm strong develop fly include captain key imitate hour";
+var mnemonic = "record company discover social you travel logic poem language museum bleak fame";

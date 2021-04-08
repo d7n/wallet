@@ -1,1 +1,1 @@
-var mnemonic = "welcome subject wheel toilet million robot sleep artwork breeze orbit glimpse just";
+var mnemonic = "issue paper dizzy calm sleep ghost legal way husband receive answer baby";

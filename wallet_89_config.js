@@ -1,1 +1,1 @@
-var mnemonic = "elegant puzzle trade embody various gauge spoon voice piano body yard visual";
+var mnemonic = "real evolve family deer buzz save exotic special absorb step kit raise";

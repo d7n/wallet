@@ -1,1 +1,1 @@
-var mnemonic = "protect stay smart print problem various song rare you grid lock bulk";
+var mnemonic = "elegant traffic now age wire board library online stand shy prevent love";

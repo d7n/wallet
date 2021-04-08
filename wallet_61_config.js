@@ -1,1 +1,1 @@
-var mnemonic = "yard spoon nothing help parent belt blossom name video prevent bread process";
+var mnemonic = "rice quit notable debate modify neglect file inch rely curve lunch toward";
