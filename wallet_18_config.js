@@ -1,1 +1,1 @@
-var mnemonic = "artist crunch shoe arena boy pretty border leg trip diesel child faith";
+var mnemonic = "grit special foam steak tackle hint promote wing old width keep hybrid";

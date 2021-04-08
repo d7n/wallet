@@ -1,1 +1,1 @@
-var mnemonic = "doctor box group midnight maid avoid brass bounce truth farm turkey brick";
+var mnemonic = "embrace inch gap poverty wood buddy device sentence group mother suggest blouse";

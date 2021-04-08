@@ -1,1 +1,1 @@
-var mnemonic = "camp furnace achieve summer chief bar lock marriage wash napkin mandate side";
+var mnemonic = "spin donor taste trend bamboo quick mirror wet car beyond dial song";

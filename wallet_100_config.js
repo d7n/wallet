@@ -1,1 +1,1 @@
-var mnemonic = "photo crazy awesome piano dress quit snow fence perfect domain exact subway";
+var mnemonic = "gain number piano moral rain pitch hub purpose kitchen phrase caught slot";

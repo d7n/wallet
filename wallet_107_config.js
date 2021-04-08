@@ -1,1 +1,1 @@
-var mnemonic = "slide symptom juice clever fence shoe okay shoulder habit medal disease survey";
+var mnemonic = "film chase taste force market slam wrist spare trouble twenty smooth trouble";

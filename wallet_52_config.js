@@ -1,1 +1,1 @@
-var mnemonic = "start dismiss prison spring tongue wish oval elegant collect shadow print rifle";
+var mnemonic = "network ranch rapid neglect pair over beyond inform custom fog file find";

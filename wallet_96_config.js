@@ -1,1 +1,1 @@
-var mnemonic = "vibrant kitten image dolphin pool senior attitude cupboard light maze miracle tissue";
+var mnemonic = "emotion laundry sport dice drum zero language mixed main risk one gaze";

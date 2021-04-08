@@ -1,1 +1,1 @@
-var mnemonic = "ranch swap cabin pretty play stool child inject net beach remind item";
+var mnemonic = "mix grief merge chest inner cool wall brisk pepper expand current episode";

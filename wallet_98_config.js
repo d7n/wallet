@@ -1,1 +1,1 @@
-var mnemonic = "radar push antenna tail valid need chief share snap layer crunch carry";
+var mnemonic = "drastic merge bracket honey town anger explain circle bench mirror flower huge";

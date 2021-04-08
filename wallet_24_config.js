@@ -1,1 +1,1 @@
-var mnemonic = "fly nephew pole level race slender glad problem lift devote payment family";
+var mnemonic = "test good exit appear swap female near able long expect like attack";

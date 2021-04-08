@@ -1,1 +1,1 @@
-var mnemonic = "gather weird patrol punch bracket unknown more excess monster host orphan fever";
+var mnemonic = "drive else rain risk combine umbrella remain scare bulb grass walk funny";

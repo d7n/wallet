@@ -1,1 +1,1 @@
-var mnemonic = "direct elbow antenna exile rain busy grief hybrid flower organ cherry butter";
+var mnemonic = "power weekend cheese salt execute liar symbol harsh skull plate clever aspect";

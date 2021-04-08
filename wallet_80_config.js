@@ -1,1 +1,1 @@
-var mnemonic = "oven echo loyal stool render find avocado sample nephew glad morning dry";
+var mnemonic = "index mirror riot strategy easily horror conduct liberty horse secret slogan worth";

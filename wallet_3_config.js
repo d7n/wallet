@@ -1,1 +1,1 @@
-var mnemonic = "gas aspect oxygen inform pistol boy asthma embark blouse slender panther mention";
+var mnemonic = "defy useful type code donate shed consider blade project evolve middle panther";

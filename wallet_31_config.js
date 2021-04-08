@@ -1,1 +1,1 @@
-var mnemonic = "clog denial slim room dust gate dad dune income friend blast enrich";
+var mnemonic = "invest anger trigger rotate engine just cable flight basic swap drink shadow";

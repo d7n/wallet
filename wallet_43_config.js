@@ -1,1 +1,1 @@
-var mnemonic = "wild mask slush vendor mirror slide river observe digital bind discover universe";
+var mnemonic = "scheme sketch defense law patch load lazy oppose salon science chunk picture";

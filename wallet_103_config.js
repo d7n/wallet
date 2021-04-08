@@ -1,1 +1,1 @@
-var mnemonic = "employ media dial faith food dinosaur stove cabbage situate mandate major advance";
+var mnemonic = "mango paddle coach fossil acquire follow airport polar pact south setup wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom general debate pass expose visit make october kidney blood any comfort";
+var mnemonic = "piece jar leave kitten live slot season admit smoke toddler snow fox";

@@ -1,1 +1,1 @@
-var mnemonic = "orbit vehicle sauce science quick load true denial discover foam lamp melt";
+var mnemonic = "assume funny valid absurd laugh maid escape drum state pitch prevent left";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch timber because sorry holiday plate salmon ranch garlic roast harvest agree";
+var mnemonic = "quarter edit combine airport change design point improve bridge weasel style joy";

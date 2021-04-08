@@ -1,1 +1,1 @@
-var mnemonic = "black almost just rally skate upon caution cluster clean venue penalty rocket";
+var mnemonic = "robot north crop jewel catalog insane jazz south smart pen prevent donor";

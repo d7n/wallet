@@ -1,1 +1,1 @@
-var mnemonic = "liberty dog speed run century relief broccoli misery marble captain nurse penalty";
+var mnemonic = "include gadget gesture nice tennis fence truth loop reunion gown burden tank";

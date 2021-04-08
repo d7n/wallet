@@ -1,1 +1,1 @@
-var mnemonic = "beyond crumble green gasp assume wisdom pencil tell oil during glide faith";
+var mnemonic = "spoil bird unlock school space there sheriff exhibit borrow noise build radar";

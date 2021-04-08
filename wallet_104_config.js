@@ -1,1 +1,1 @@
-var mnemonic = "never patrol tube festival scare dice swamp power limit plate open proof";
+var mnemonic = "story culture confirm uphold hole dove enter abuse pair negative net proud";

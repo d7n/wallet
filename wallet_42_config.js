@@ -1,1 +1,1 @@
-var mnemonic = "wink diet since rose swear smooth plunge diamond appear girl reward cheese";
+var mnemonic = "leisure echo mansion dolphin field balcony off tape gesture humble life wide";

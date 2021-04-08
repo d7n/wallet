@@ -1,1 +1,1 @@
-var mnemonic = "survey fame tonight ozone doctor random abstract memory estate include scene resist";
+var mnemonic = "vacuum purity luxury pyramid word inherit wrong end grit photo permit cake";

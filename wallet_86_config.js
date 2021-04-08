@@ -1,1 +1,1 @@
-var mnemonic = "clump south caught boat bind record sell accident student beyond egg bird";
+var mnemonic = "about delay park flame dismiss mimic stock net black domain cloth story";

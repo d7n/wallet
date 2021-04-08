@@ -1,1 +1,1 @@
-var mnemonic = "frozen essence lemon level egg entry soul shield casual salad spend curve";
+var mnemonic = "subway tide system school puppy eyebrow romance shift wisdom warfare venture absurd";

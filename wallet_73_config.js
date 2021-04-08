@@ -1,1 +1,1 @@
-var mnemonic = "chaos domain number shrimp universe engage pudding science embody purpose nephew rib";
+var mnemonic = "destroy tuna average youth key consider index humble recall helmet boil season";

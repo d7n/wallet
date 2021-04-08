@@ -1,1 +1,1 @@
-var mnemonic = "bamboo clock innocent battle glance learn always mistake page evoke basic garment";
+var mnemonic = "sand slice plate near ripple myself february actor people cigar gravity property";

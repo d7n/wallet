@@ -1,1 +1,1 @@
-var mnemonic = "short meat stumble mountain either squirrel donkey letter dwarf peasant meat domain";
+var mnemonic = "guess explain beef correct accuse endless pig umbrella wild behind pear stomach";

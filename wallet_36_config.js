@@ -1,1 +1,1 @@
-var mnemonic = "design catalog calm involve utility dinner churn accuse because hundred east sudden";
+var mnemonic = "inherit fatigue magic south reform pig normal novel fan feature enable defy";

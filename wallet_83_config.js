@@ -1,1 +1,1 @@
-var mnemonic = "dismiss midnight nest daring taste enhance push panel ostrich romance diamond banner";
+var mnemonic = "grid shoot tortoise ribbon during uphold super renew very fox remain rose";

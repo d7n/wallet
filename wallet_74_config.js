@@ -1,1 +1,1 @@
-var mnemonic = "front social heavy release tennis nasty depth cube sure ivory inch learn";
+var mnemonic = "below together hurdle imitate beauty visa liar settle proud lamp regular guide";

@@ -1,1 +1,1 @@
-var mnemonic = "consider long wide erode narrow problem catch canvas embrace despair boat pass";
+var mnemonic = "uphold ankle segment destroy risk critic inspire offer cereal loan hungry bid";

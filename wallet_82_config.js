@@ -1,1 +1,1 @@
-var mnemonic = "infant point engage allow access popular elephant domain prize gather narrow nuclear";
+var mnemonic = "better rural joy tip ribbon account friend share sand air truly stem";

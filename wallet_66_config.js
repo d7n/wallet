@@ -1,1 +1,1 @@
-var mnemonic = "embrace gym transfer install actual human wink decade begin swim sail donkey";
+var mnemonic = "horn runway club bubble blush pottery garbage pigeon either draft fly curious";

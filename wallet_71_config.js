@@ -1,1 +1,1 @@
-var mnemonic = "ship festival unfair entry orbit proud help they proof tumble ahead moon";
+var mnemonic = "original summer fork mix save tilt source alpha inject loop faith detail";

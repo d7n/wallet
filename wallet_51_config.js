@@ -1,1 +1,1 @@
-var mnemonic = "gossip expand version novel lock scrap inflict multiply best jelly blind sudden";
+var mnemonic = "dismiss gentle vibrant metal curve order antenna adjust luggage chalk prefer goose";

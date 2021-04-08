@@ -1,1 +1,1 @@
-var mnemonic = "magnet rate august quote swarm neutral bright quality veteran double bone acquire";
+var mnemonic = "document hero slice hint spice eye fluid boss gauge step valid farm";

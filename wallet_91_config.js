@@ -1,1 +1,1 @@
-var mnemonic = "connect sniff setup sea feature elegant shop differ vintage hire damage glue";
+var mnemonic = "praise major cupboard demand shuffle mandate sure flat figure cruel apart reflect";

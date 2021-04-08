@@ -1,1 +1,1 @@
-var mnemonic = "depth alley sea foot hair carbon any analyst curve click arena dilemma";
+var mnemonic = "rubber cave immense party unfold increase broom funny farm subject magic provide";

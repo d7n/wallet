@@ -1,1 +1,1 @@
-var mnemonic = "pact lobster drama zoo mystery ladder dismiss process still reveal begin final";
+var mnemonic = "note dirt silent year drive sample venue near sauce bulb fiscal novel";

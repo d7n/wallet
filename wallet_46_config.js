@@ -1,1 +1,1 @@
-var mnemonic = "today very exit camera record kingdom follow pattern claim survey question stool";
+var mnemonic = "capable balcony dial cruise artwork state volume rapid food throw rookie napkin";

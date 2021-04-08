@@ -1,1 +1,1 @@
-var mnemonic = "echo victory elegant farm chronic guilt more garbage warfare caught unique decline";
+var mnemonic = "cattle over split remove knife quantum park hawk ignore claw couple income";

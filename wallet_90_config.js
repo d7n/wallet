@@ -1,1 +1,1 @@
-var mnemonic = "trial rather silver ill trust nose accident embody toilet fade kidney recycle";
+var mnemonic = "charge twin enforce lucky auction rely drill garbage hint people slim increase";

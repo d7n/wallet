@@ -1,1 +1,1 @@
-var mnemonic = "skill network win dog vanish baby behind dilemma bullet olive morning road";
+var mnemonic = "coach member test base enable now enroll suffer duty echo peasant interest";

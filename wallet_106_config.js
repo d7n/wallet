@@ -1,1 +1,1 @@
-var mnemonic = "observe antenna enforce add quick excess goddess misery robust style sort fuel";
+var mnemonic = "hazard tribe affair cave panel wreck miracle balcony wise tuition six hurt";

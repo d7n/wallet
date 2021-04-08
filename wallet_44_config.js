@@ -1,1 +1,1 @@
-var mnemonic = "sudden best december result dynamic frog best sign until chase again toe";
+var mnemonic = "van quarter rare three elephant surge husband eagle mandate tattoo hybrid charge";

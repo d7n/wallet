@@ -1,1 +1,1 @@
-var mnemonic = "pill sing fiscal avoid sibling hobby obtain region hollow area thunder evil";
+var mnemonic = "lizard area aerobic bulk detail trap used sense ivory afraid brave next";

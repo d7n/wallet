@@ -1,1 +1,1 @@
-var mnemonic = "smile wear outside beyond cool bubble position lumber chat wild dry october";
+var mnemonic = "say face inform turkey name mouse pluck actor drink finish fiscal vague";

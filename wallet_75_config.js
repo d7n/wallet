@@ -1,1 +1,1 @@
-var mnemonic = "betray retire border electric federal output opera reward father try unfair crucial";
+var mnemonic = "foot mouse bulb joke cruise frequent ketchup vibrant drum aisle extend olive";

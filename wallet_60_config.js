@@ -1,1 +1,1 @@
-var mnemonic = "bless rent error cruel soldier topic mail predict decorate blame torch child";
+var mnemonic = "victory hollow cancel skill comfort spot ivory execute three tower monitor spider";

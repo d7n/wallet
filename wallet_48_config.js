@@ -1,1 +1,1 @@
-var mnemonic = "frost response doctor follow swamp clarify october worry cactus practice bundle gun";
+var mnemonic = "demise abuse copper chaos flag vessel hello conduct dove super scrub fame";

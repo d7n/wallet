@@ -1,1 +1,1 @@
-var mnemonic = "axis basket nose barely stereo witness road target giraffe acoustic wear army";
+var mnemonic = "quick film blood cushion high coffee interest snake tiny genuine before own";

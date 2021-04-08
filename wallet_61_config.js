@@ -1,1 +1,1 @@
-var mnemonic = "pupil segment garlic flavor suffer radar bless ball diesel resemble tumble dizzy";
+var mnemonic = "jelly mandate deer focus learn raven decade bench sport run convince syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "dad cheese dinosaur arrow another tattoo treat coffee there leave simple enact";
+var mnemonic = "knock act same dynamic plug lens change candy measure street rural seminar";

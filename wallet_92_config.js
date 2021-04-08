@@ -1,1 +1,1 @@
-var mnemonic = "grain opinion chef argue only deputy quiz float salute avocado level pilot";
+var mnemonic = "art acid pony brass merry degree acoustic innocent victory draw dust slow";

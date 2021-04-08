@@ -1,1 +1,1 @@
-var mnemonic = "vicious ice arena mutual rib voyage photo flush sadness whisper ethics small";
+var mnemonic = "cool clown utility kidney bacon infant fury cat traffic anger century what";

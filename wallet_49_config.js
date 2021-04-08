@@ -1,1 +1,1 @@
-var mnemonic = "art auto quarter merit answer entire sibling equal mountain globe march witness";
+var mnemonic = "fashion lemon shield girl alarm joy alien gas tiny utility pistol about";

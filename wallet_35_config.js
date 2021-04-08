@@ -1,1 +1,1 @@
-var mnemonic = "flee crumble panda chest prepare doctor wedding pistol symbol zebra dish limit";
+var mnemonic = "question predict pear history raccoon certain absurd replace cliff wet blouse sport";

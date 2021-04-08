@@ -1,1 +1,1 @@
-var mnemonic = "height talent adult width toe ethics pear dove soldier end endless trouble";
+var mnemonic = "cart fall photo crater broccoli machine toast such eagle recipe trim tenant";

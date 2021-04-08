@@ -1,1 +1,1 @@
-var mnemonic = "cup task bless kiss dream boost smooth ski double thrive west exact";
+var mnemonic = "token magic rookie collect twelve vessel denial eyebrow cook bind spike grow";

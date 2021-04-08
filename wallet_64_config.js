@@ -1,1 +1,1 @@
-var mnemonic = "purse layer decide define blast return father mix stage attend ski path";
+var mnemonic = "woman basket venue umbrella item nephew escape trip true snap sun clean";

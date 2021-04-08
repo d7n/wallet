@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo embrace bridge oval stay object love tower vibrant broom sword pond";
+var mnemonic = "air hotel romance foil lesson birth peace life refuse fold develop nation";

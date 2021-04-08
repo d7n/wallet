@@ -1,1 +1,1 @@
-var mnemonic = "emerge lunar drive concert rival identify bulk furnace emerge crash menu sail";
+var mnemonic = "enemy whale lizard actual acquire toddler rescue little camp huge genius black";

@@ -1,1 +1,1 @@
-var mnemonic = "focus task ocean funny mean embrace paper amount tortoise material riot certain";
+var mnemonic = "roast supply member stumble antique black lady trade maximum donate acquire raven";

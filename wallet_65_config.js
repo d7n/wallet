@@ -1,1 +1,1 @@
-var mnemonic = "divide muffin satisfy board brave blade repeat mass family cluster brave rack";
+var mnemonic = "grunt result cute cry nominee scale tobacco uniform doctor occur edge argue";

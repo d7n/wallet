@@ -1,1 +1,1 @@
-var mnemonic = "social warfare train desk cup vivid swarm endorse infant renew goose volume";
+var mnemonic = "can pioneer energy tenant push away robust venue pizza fan jaguar fog";

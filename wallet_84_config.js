@@ -1,1 +1,1 @@
-var mnemonic = "affair run job lawsuit pioneer police resist trip junk useless produce tomorrow";
+var mnemonic = "cruel drama keep alley battle climb file focus section hunt harsh rack";

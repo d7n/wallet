@@ -1,1 +1,1 @@
-var mnemonic = "vocal cry sadness inform flag tool decline uncle stay luxury celery habit";
+var mnemonic = "youth tortoise lady pottery panic hood tomato zero glass twist color right";

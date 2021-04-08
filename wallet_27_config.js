@@ -1,1 +1,1 @@
-var mnemonic = "sniff average poet ankle casino mention please obtain visual zero victory involve";
+var mnemonic = "virus alley square web ecology plastic spatial horse common siege knee young";

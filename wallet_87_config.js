@@ -1,1 +1,1 @@
-var mnemonic = "orange sponsor victory swift mercy clock upgrade again final camera copy melt";
+var mnemonic = "gas flight waste live broom near throw leopard view actor gasp foot";

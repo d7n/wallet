@@ -1,1 +1,1 @@
-var mnemonic = "board spare ready fence olympic viable game tilt position foot typical vocal";
+var mnemonic = "father sail pudding tower spike note zero dice brain stone snake kiwi";

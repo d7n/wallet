@@ -1,1 +1,1 @@
-var mnemonic = "cushion parade border hold summer blame indicate entire trophy island mass later";
+var mnemonic = "system balance spike cycle neutral blade embody fancy similar razor vital inch";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor strong tribe mean animal seed tuition expect educate soup sing drastic";
+var mnemonic = "muffin drive large legend tag napkin trip owner six fury print exile";

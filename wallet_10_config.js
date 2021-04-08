@@ -1,1 +1,1 @@
-var mnemonic = "problem album kit regret thumb involve local heart helmet wolf upgrade time";
+var mnemonic = "away desk check zebra useful open door exact secret hub nasty sea";

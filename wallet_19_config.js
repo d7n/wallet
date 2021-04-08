@@ -1,1 +1,1 @@
-var mnemonic = "hour wool logic silver escape habit surface evoke despair capital agree board";
+var mnemonic = "false bridge cost profit dolphin express bike develop occur runway figure clock";

@@ -1,1 +1,1 @@
-var mnemonic = "connect number conduct tired hundred warrior bright flush that away badge rigid";
+var mnemonic = "guilt hello fog marine feed entry cereal museum popular quarter surround spike";

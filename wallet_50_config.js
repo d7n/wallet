@@ -1,1 +1,1 @@
-var mnemonic = "cabin sadness evolve panic gossip lamp rack beach betray cousin venue disorder";
+var mnemonic = "embark chicken world wife join menu curious call exclude tuition taste seminar";

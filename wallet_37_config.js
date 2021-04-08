@@ -1,1 +1,1 @@
-var mnemonic = "rapid salon usage pig honey walnut armor million fan interest stairs farm";
+var mnemonic = "merry start joke grain fetch menu patch shiver enrich inform shield oil";

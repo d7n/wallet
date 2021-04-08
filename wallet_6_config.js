@@ -1,1 +1,1 @@
-var mnemonic = "horn youth cushion inmate uncle split deliver donate chimney tattoo typical swallow";
+var mnemonic = "fun stomach obvious ritual jeans sibling upgrade laugh pigeon cart claw spike";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly crop lion wedding spike once surround cook mechanic switch cream term";
+var mnemonic = "adapt impulse degree claim giant dismiss broken endless grocery frame ankle artwork";

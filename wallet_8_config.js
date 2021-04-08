@@ -1,1 +1,1 @@
-var mnemonic = "wall alpha indicate main raven ability tunnel access clever disagree arrow edge";
+var mnemonic = "swift brass acid evil frost text comic used wink weird census canoe";

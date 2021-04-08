@@ -1,1 +1,1 @@
-var mnemonic = "acoustic smile explain local noble refuse auto path salmon silver quit manage";
+var mnemonic = "cruel goddess glass diagram once birth there benefit auction vicious mutual network";

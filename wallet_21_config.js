@@ -1,1 +1,1 @@
-var mnemonic = "license come welcome unhappy ethics client hockey amount ancient time solution grid";
+var mnemonic = "head engine rhythm actress risk sting present market only submit dress enemy";

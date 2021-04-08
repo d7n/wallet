@@ -1,1 +1,1 @@
-var mnemonic = "absent body couch worry symptom outdoor neglect cactus property march claim spatial";
+var mnemonic = "mango neck divert ketchup belt mountain put soldier fever jazz limit suggest";

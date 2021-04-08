@@ -1,1 +1,1 @@
-var mnemonic = "suit often fatigue indoor gym october domain tumble mandate south good close";
+var mnemonic = "price canyon blur onion build ignore nuclear story false blood miss warm";
