@@ -1,1 +1,1 @@
-var mnemonic = "please govern match love venue foil dolphin cry deliver cloth resist gloom";
+var mnemonic = "unusual author damage noodle gadget prefer clever pride harvest virus mutual double";

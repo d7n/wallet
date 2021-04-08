@@ -1,1 +1,1 @@
-var mnemonic = "history monkey solution artist sister negative proof wear rally guitar essence metal";
+var mnemonic = "stage car monitor crop ask record razor second gentle famous filter slight";

@@ -1,1 +1,1 @@
-var mnemonic = "toddler seminar goat rough earth stick story lazy country detect gate sense";
+var mnemonic = "inner knee fluid inside provide burst label mystery panda slight town artist";

@@ -1,1 +1,1 @@
-var mnemonic = "tank number air another suffer stamp ketchup rookie resist hollow jump enroll";
+var mnemonic = "submit snow doctor fee inside visual senior lock retire dose electric vote";

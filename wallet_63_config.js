@@ -1,1 +1,1 @@
-var mnemonic = "inflict razor category subject scare later unique major torch three width window";
+var mnemonic = "trade off hurt reward cry weasel fatigue remove spot rack reunion chair";

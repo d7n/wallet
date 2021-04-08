@@ -1,1 +1,1 @@
-var mnemonic = "evil icon surprise lend rule crucial claim fiscal maple accident rice emotion";
+var mnemonic = "ice define unveil prison man stay trip peanut luxury joke soap various";

@@ -1,1 +1,1 @@
-var mnemonic = "solar amount mule cube course steak source main still gorilla key circle";
+var mnemonic = "member bullet guess civil fashion attract north toast truth spend speak section";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper whisper wire flush since lava stove office laugh kind shrug fat";
+var mnemonic = "identify bonus dash feature video subject fan cigar genius advance survey trumpet";

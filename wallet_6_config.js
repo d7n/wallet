@@ -1,1 +1,1 @@
-var mnemonic = "skate reform gift cannon winter helmet vintage digital visual pet onion rib";
+var mnemonic = "render eight toast produce firm shoe render sphere mix attitude bomb mercy";

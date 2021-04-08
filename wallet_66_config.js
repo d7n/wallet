@@ -1,1 +1,1 @@
-var mnemonic = "liberty novel sad jar cloud loyal online comic urban stamp grant wrestle";
+var mnemonic = "female federal glue check club funny sea bind tongue wisdom change obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "stool disorder magnet undo lottery brother enter oil current mercy become negative";
+var mnemonic = "scrap game floor puppy swim spray someone ship connect pause enforce error";

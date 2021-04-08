@@ -1,1 +1,1 @@
-var mnemonic = "swap marine price world shaft tag possible paper wink hub universe alone";
+var mnemonic = "obscure door return wreck remember visual whisper gate hurt truly ivory defy";

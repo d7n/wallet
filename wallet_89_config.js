@@ -1,1 +1,1 @@
-var mnemonic = "spike eye undo lens food horn become grain forest shop normal hospital";
+var mnemonic = "member method depart picture dress meat meadow update crack host kiwi arch";

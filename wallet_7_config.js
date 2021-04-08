@@ -1,1 +1,1 @@
-var mnemonic = "increase corn merit start crucial joke palace myth phone document kite alert";
+var mnemonic = "easily exercise tip crew patch enroll weasel unhappy inject alpha open try";

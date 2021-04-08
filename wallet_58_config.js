@@ -1,1 +1,1 @@
-var mnemonic = "exchange crew canoe scorpion anger nominee index also dynamic glow glass ugly";
+var mnemonic = "neutral outer phone sock still distance illness river custom chef elegant switch";

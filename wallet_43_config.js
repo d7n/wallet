@@ -1,1 +1,1 @@
-var mnemonic = "glass lava burger scatter fall course diet taste supply rebel jump volcano";
+var mnemonic = "adapt asthma disagree rubber allow basic scrap powder trouble dragon fabric tuition";

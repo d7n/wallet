@@ -1,1 +1,1 @@
-var mnemonic = "gossip limb sign aunt fault roast gorilla sentence solid decide blush blind";
+var mnemonic = "plunge tool piece bring spring catalog trophy obey essay arrange decline twin";

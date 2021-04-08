@@ -1,1 +1,1 @@
-var mnemonic = "odor buddy level scorpion blur whip leader fabric panther fiction lens advance";
+var mnemonic = "lawn marriage priority sample tool trap car inch load fix vibrant sunset";

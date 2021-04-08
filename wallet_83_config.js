@@ -1,1 +1,1 @@
-var mnemonic = "glow later notable cupboard furnace what stuff keep student mobile equip upgrade";
+var mnemonic = "flush quality person problem invest noise catch quantum grass spring high renew";

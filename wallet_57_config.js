@@ -1,1 +1,1 @@
-var mnemonic = "install curve clerk gossip mercy panel essay correct focus divorce way sausage";
+var mnemonic = "nice oblige comic squirrel rent roof receive that radar surround maximum airport";

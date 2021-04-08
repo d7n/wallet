@@ -1,1 +1,1 @@
-var mnemonic = "aerobic host choice leave robot bind jeans slender witness capable divert sugar";
+var mnemonic = "dial north dove sibling demise actual rifle tower museum spend blame pet";

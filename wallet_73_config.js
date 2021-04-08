@@ -1,1 +1,1 @@
-var mnemonic = "major tribe welcome grit check all west summer segment push wide service";
+var mnemonic = "age assist picture hole process cupboard destroy sick old reveal hybrid myth";

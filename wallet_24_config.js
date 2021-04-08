@@ -1,1 +1,1 @@
-var mnemonic = "lonely crane mango spend pumpkin tool repair diary narrow average toy bring";
+var mnemonic = "reduce rubber define rotate fringe bracket turtle burst donkey unknown fork ensure";

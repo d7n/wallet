@@ -1,1 +1,1 @@
-var mnemonic = "camera sugar double wall calm pond bench jacket armor exclude humble goat";
+var mnemonic = "funny struggle balance sustain toddler office winter flavor sand soccer pull depth";

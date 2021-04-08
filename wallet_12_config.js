@@ -1,1 +1,1 @@
-var mnemonic = "wrestle doctor cat record insect nation enrich tongue festival apple jelly dirt";
+var mnemonic = "net deal fog flush offer bronze quantum pistol agent front cave own";

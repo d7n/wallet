@@ -1,1 +1,1 @@
-var mnemonic = "liar amused say hollow throw snap noodle kingdom cry release throw dog";
+var mnemonic = "teach cheap laptop latin category lake sound knee indoor basic easily joy";

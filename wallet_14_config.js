@@ -1,1 +1,1 @@
-var mnemonic = "egg crouch typical enroll ticket vapor village siren fatal tired lab act";
+var mnemonic = "once almost final zebra chest victory glad arrange that lamp view discover";

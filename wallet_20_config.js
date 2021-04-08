@@ -1,1 +1,1 @@
-var mnemonic = "flee grant sheriff wrist unknown rather crush flock student artefact coin find";
+var mnemonic = "human auto weapon great claim main poet negative pony mom obtain liberty";

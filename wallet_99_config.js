@@ -1,1 +1,1 @@
-var mnemonic = "alert distance hand genius wrong excuse renew flavor excite cotton wage call";
+var mnemonic = "milk water cactus glow hobby business shell stage radio weekend toddler shed";

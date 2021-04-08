@@ -1,1 +1,1 @@
-var mnemonic = "surge student opera lake process topple board stage orchard science pond fruit";
+var mnemonic = "pretty ostrich kangaroo shuffle intact orient order attack effort neither pelican name";

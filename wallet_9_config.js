@@ -1,1 +1,1 @@
-var mnemonic = "rack oval slender there shoot vast cross believe gap dismiss dress disease";
+var mnemonic = "pencil square budget icon balcony legal approve behind few giant stereo dutch";

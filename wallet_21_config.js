@@ -1,1 +1,1 @@
-var mnemonic = "elder business during cash able swing path betray escape bullet flee stool";
+var mnemonic = "ozone party cram salmon wink tent mad champion mammal win indicate pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "drama salad repair sauce ridge color margin define puppy art bleak vintage";
+var mnemonic = "mercy faith actress sand festival shadow reveal turn huge kangaroo fringe brush";

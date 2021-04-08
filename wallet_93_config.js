@@ -1,1 +1,1 @@
-var mnemonic = "mammal visual model skull amused sun puzzle proud tiger can tuna circle";
+var mnemonic = "cage moon motion salute report organ install toward much clutch embark naive";

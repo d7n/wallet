@@ -1,1 +1,1 @@
-var mnemonic = "setup cloth amazing hour text infant ritual sun mutual october there boat";
+var mnemonic = "this coach devote master twist autumn trash assist pudding judge globe apology";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit virus vault earth rib ability empower valve veteran hobby hero appear";
+var mnemonic = "hollow track athlete hope wedding athlete nice replace monkey record powder attend";

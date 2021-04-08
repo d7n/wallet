@@ -1,1 +1,1 @@
-var mnemonic = "sound black wrong witness creek soul erupt recycle trash echo bright dust";
+var mnemonic = "setup snow desert wall south frequent merge move bus nothing other candy";

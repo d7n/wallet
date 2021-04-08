@@ -1,1 +1,1 @@
-var mnemonic = "bomb either hand bracket fitness popular stove spell category else coin liquid";
+var mnemonic = "avoid special someone argue upset clinic east scale lion couple utility long";

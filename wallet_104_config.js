@@ -1,1 +1,1 @@
-var mnemonic = "boost decorate shuffle rescue cereal lab next bunker sword budget release light";
+var mnemonic = "cabbage close east sauce first gentle random evil deputy pepper letter scorpion";

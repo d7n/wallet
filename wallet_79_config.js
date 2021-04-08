@@ -1,1 +1,1 @@
-var mnemonic = "argue slogan hazard guitar nasty broken angle quality swallow defense risk floor";
+var mnemonic = "pigeon stick antique analyst talent heavy badge forum walnut pass drama agent";

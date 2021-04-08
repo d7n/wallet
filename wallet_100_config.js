@@ -1,1 +1,1 @@
-var mnemonic = "same budget merry fence exhibit time bullet social love dog survey toe";
+var mnemonic = "army rare common stable cabbage nation fat track junior neutral fork scatter";

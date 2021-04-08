@@ -1,1 +1,1 @@
-var mnemonic = "knife whisper forum rifle legal daring clarify essence brass canvas decade sign";
+var mnemonic = "cube gallery trade fuel drift mammal hold balcony metal home arctic bus";

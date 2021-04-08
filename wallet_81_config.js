@@ -1,1 +1,1 @@
-var mnemonic = "cannon fiction peanut question found usage casino approve critic young feature evoke";
+var mnemonic = "cruel room crisp luxury depend tuition track drill typical twice ignore play";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup pact truck hobby tooth captain frost drift dinner legend boat candy";
+var mnemonic = "elephant crouch uniform company virtual chest husband embrace squeeze destroy student amateur";

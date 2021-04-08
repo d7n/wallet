@@ -1,1 +1,1 @@
-var mnemonic = "vital erode mad swap scare soft mango stick price dial youth snap";
+var mnemonic = "essay tiny tumble spin adult test garment pyramid innocent peasant brick agent";

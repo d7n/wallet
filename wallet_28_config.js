@@ -1,1 +1,1 @@
-var mnemonic = "domain subject bitter oppose useful infant burden rain glide dawn plunge boost";
+var mnemonic = "helmet reduce planet royal shop bracket demise hundred mimic begin crunch flock";

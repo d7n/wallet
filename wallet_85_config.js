@@ -1,1 +1,1 @@
-var mnemonic = "nephew dizzy hammer another maze relax mixed huge friend weapon emerge abuse";
+var mnemonic = "adapt grass energy alien honey kiwi desk height timber expect slot scheme";

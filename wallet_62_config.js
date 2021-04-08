@@ -1,1 +1,1 @@
-var mnemonic = "evolve finger present flock flat only extra brain dawn run tube then";
+var mnemonic = "symbol test link sniff enhance oppose list skin shallow fit vintage guess";

@@ -1,1 +1,1 @@
-var mnemonic = "limit uncle town hill minute myth dose hurt color miracle magnet suggest";
+var mnemonic = "hair release learn birth assist win diagram culture outer sorry chief crucial";

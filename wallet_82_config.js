@@ -1,1 +1,1 @@
-var mnemonic = "autumn gentle apology purpose elbow payment step miracle spray tip globe disorder";
+var mnemonic = "interest remember alarm body fame boring usual actual cool circle twice control";

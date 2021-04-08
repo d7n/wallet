@@ -1,1 +1,1 @@
-var mnemonic = "mind call identify affair truly lock depart casual genre actor broom unhappy";
+var mnemonic = "picture segment exclude expand april vessel ecology slide garlic eager limit habit";

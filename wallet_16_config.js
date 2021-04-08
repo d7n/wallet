@@ -1,1 +1,1 @@
-var mnemonic = "pen uncover mask submit equip issue jazz onion error bench skate throw";
+var mnemonic = "elegant lottery panther grant security monster badge bone action valid all net";

@@ -1,1 +1,1 @@
-var mnemonic = "clip rapid media already usual session solution essay diamond dinosaur soap crazy";
+var mnemonic = "stone can voice short nurse clump lottery slight dance topple bird force";

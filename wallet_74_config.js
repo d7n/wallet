@@ -1,1 +1,1 @@
-var mnemonic = "same bring genre bronze monster urge emotion liquid banana donate goddess entry";
+var mnemonic = "sugar slice furnace gather plug any gadget slender trade earn salt original";

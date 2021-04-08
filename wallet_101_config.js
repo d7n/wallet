@@ -1,1 +1,1 @@
-var mnemonic = "rescue height penalty alter shield transfer random veteran tomato inside dynamic boy";
+var mnemonic = "flag shy when grit before happy general later scatter sock raw prefer";

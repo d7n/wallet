@@ -1,1 +1,1 @@
-var mnemonic = "learn churn exotic engage dinosaur oven cupboard differ february stairs photo town";
+var mnemonic = "pulse will distance spike hurt cave nature credit system agent original pepper";

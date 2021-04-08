@@ -1,1 +1,1 @@
-var mnemonic = "annual source elder stick top alcohol kangaroo skirt open east envelope spider";
+var mnemonic = "hair mobile midnight curve victory alley vacant winter mansion blur opinion notable";

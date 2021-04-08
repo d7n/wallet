@@ -1,1 +1,1 @@
-var mnemonic = "meat twelve thank vast monster tumble situate car script sugar silent snack";
+var mnemonic = "dog cereal inhale orphan shield skate crop fall faint buddy fade chief";

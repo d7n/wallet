@@ -1,1 +1,1 @@
-var mnemonic = "post shoulder match frog syrup season fashion badge emotion lottery tired recipe";
+var mnemonic = "certain speed much misery sea toddler permit bacon midnight immense club dwarf";

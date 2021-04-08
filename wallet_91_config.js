@@ -1,1 +1,1 @@
-var mnemonic = "praise control foster turkey dutch prison uncle alert open steel visual trick";
+var mnemonic = "cement vintage genre mesh island about wing tone require manage orphan struggle";

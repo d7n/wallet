@@ -1,1 +1,1 @@
-var mnemonic = "project tower entire crawl silly project wife bullet crumble letter size output";
+var mnemonic = "young zero vessel check clock scout pitch tomato firm bomb cricket tell";

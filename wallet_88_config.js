@@ -1,1 +1,1 @@
-var mnemonic = "begin wealth spike news critic paper cute credit side way embody agree";
+var mnemonic = "chapter route advice outer report august agree weird series reveal deal bronze";

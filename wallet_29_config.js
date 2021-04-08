@@ -1,1 +1,1 @@
-var mnemonic = "sense priority horse plate fashion quit day leopard rely announce brave year";
+var mnemonic = "wet seat suggest dutch vibrant bachelor gauge talk youth car clap differ";

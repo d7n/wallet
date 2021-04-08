@@ -1,1 +1,1 @@
-var mnemonic = "detail cigar immense square unknown rescue cattle whisper region must derive old";
+var mnemonic = "move output party priority pulp purchase feel veteran prize repeat assist thought";

@@ -1,1 +1,1 @@
-var mnemonic = "senior noise congress captain castle cable visit display state tobacco night trap";
+var mnemonic = "eagle make cause wine label response kit ripple advance property protect plastic";

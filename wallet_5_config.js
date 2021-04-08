@@ -1,1 +1,1 @@
-var mnemonic = "joke bargain connect bid govern balcony dial equip abandon blossom stumble black";
+var mnemonic = "reflect reflect early hover across clay area iron exit target panel couch";

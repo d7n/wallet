@@ -1,1 +1,1 @@
-var mnemonic = "either puppy culture suggest slam enemy example spider tag mechanic soda also";
+var mnemonic = "moment broom canyon swing afford traffic document antenna pact addict repair doctor";

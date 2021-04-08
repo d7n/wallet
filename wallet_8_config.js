@@ -1,1 +1,1 @@
-var mnemonic = "math garage run faith coach blast what fan favorite logic stable domain";
+var mnemonic = "canal must shine ivory biology silent alpha mesh exhibit fine usage limb";

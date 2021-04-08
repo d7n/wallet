@@ -1,1 +1,1 @@
-var mnemonic = "check outer evolve robust point nut dream soup brand dream brother fine";
+var mnemonic = "hospital junior ability hour over lake siren coyote blame illegal sketch strategy";

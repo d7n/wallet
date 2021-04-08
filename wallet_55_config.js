@@ -1,1 +1,1 @@
-var mnemonic = "rug renew track rose shield turtle mandate test road avocado physical clarify";
+var mnemonic = "sword cloth twice pact mimic piano battle sustain arrow inner gasp couch";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover assault usage spice tissue magnet find tide before sadness drill maid";
+var mnemonic = "obtain utility attitude absent level share cause lion rabbit honey merit vicious";

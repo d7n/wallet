@@ -1,1 +1,1 @@
-var mnemonic = "model minimum coral donor bar verify cluster suit raccoon exhibit wish exact";
+var mnemonic = "update leaf process force task occur shoot whale luxury novel toward onion";

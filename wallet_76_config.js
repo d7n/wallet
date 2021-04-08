@@ -1,1 +1,1 @@
-var mnemonic = "genre nation open horn file face silk debate century enough squeeze gadget";
+var mnemonic = "bracket carry east outside day figure since spare exercise visit unveil fine";

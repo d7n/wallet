@@ -1,1 +1,1 @@
-var mnemonic = "air woman cruel home diamond margin nose gossip sleep burden occur profit";
+var mnemonic = "pigeon tree cement pizza saddle purse acoustic market dove attend nuclear follow";

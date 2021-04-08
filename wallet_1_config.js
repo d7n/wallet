@@ -1,1 +1,1 @@
-var mnemonic = "ski page scene only hospital drink seek lab humor symbol shiver leader";
+var mnemonic = "deal little twist surface picnic perfect distance weekend empty snow aim latin";

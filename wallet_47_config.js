@@ -1,1 +1,1 @@
-var mnemonic = "action mother month fat gym cube sentence december choice shield easy satoshi";
+var mnemonic = "urban joke lazy fog resource indoor math faculty ridge museum defy tell";

@@ -1,1 +1,1 @@
-var mnemonic = "easy iron slogan reason coast buzz fame injury kite flight mango thought";
+var mnemonic = "hamster trip sadness flock smile bitter armor century hover diary ugly other";

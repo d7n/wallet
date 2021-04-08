@@ -1,1 +1,1 @@
-var mnemonic = "leisure lens water business cost ancient police chaos armor first blur viable";
+var mnemonic = "relief lesson damage crime chronic pave mystery hard possible boost dismiss wave";

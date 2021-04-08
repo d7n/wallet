@@ -1,1 +1,1 @@
-var mnemonic = "banner magnet pluck discover end heavy kitchen magnet december quality future margin";
+var mnemonic = "auction foam repeat mix edit tent rough wasp bike aisle upset fee";

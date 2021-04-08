@@ -1,1 +1,1 @@
-var mnemonic = "loan knife say weasel age example depth dutch rent amused tilt history";
+var mnemonic = "cook venue nerve need recipe valid guilt decide note absorb that destroy";

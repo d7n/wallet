@@ -1,1 +1,1 @@
-var mnemonic = "ranch brain police present deal poem opera empower tent crop desert brave";
+var mnemonic = "tell coffee garment tomorrow pond decade shell apple wave social comic tuna";

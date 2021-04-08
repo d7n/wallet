@@ -1,1 +1,1 @@
-var mnemonic = "access under dance buzz easy deal tribe cradle chair entry safe high";
+var mnemonic = "modify online divorce fetch noble will park tail raw guitar supreme have";

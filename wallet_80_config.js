@@ -1,1 +1,1 @@
-var mnemonic = "drift lion wedding hobby fox buzz what treat shoot width raven small";
+var mnemonic = "slogan couple artist amazing canal reward used diet genius arctic decade noble";

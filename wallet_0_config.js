@@ -1,1 +1,1 @@
-var mnemonic = "merit ugly express coyote average gather canvas sibling burger bacon energy chat";
+var mnemonic = "twin transfer source mammal remember jealous quick auction awesome arrow safe inmate";

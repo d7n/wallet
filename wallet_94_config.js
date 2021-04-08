@@ -1,1 +1,1 @@
-var mnemonic = "defense cook poet gold various cancel trigger fury pizza potato hair fly";
+var mnemonic = "situate vibrant oak change olive alert peace spy country drum output confirm";
