@@ -1,1 +1,1 @@
-var mnemonic = "math pitch allow nuclear walnut head turn fire list arrest apology enable";
+var mnemonic = "enable lady topic hero deposit metal essence session hole infant basic engine";

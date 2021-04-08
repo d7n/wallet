@@ -1,1 +1,1 @@
-var mnemonic = "electric away convince fashion exotic want attitude actress cigar into staff defy";
+var mnemonic = "already brass develop inhale rocket keen satoshi hour key amateur timber cause";

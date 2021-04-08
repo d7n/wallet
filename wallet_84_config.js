@@ -1,1 +1,1 @@
-var mnemonic = "reform wreck assault resemble gasp head job slice inject worth remind write";
+var mnemonic = "judge clump connect twin feed interest crystal tower fame jump dog approve";

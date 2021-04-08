@@ -1,1 +1,1 @@
-var mnemonic = "cabin topic theory spice setup dentist sick rough palace chaos jar version";
+var mnemonic = "embark someone year edge glue finger net suit inmate venture supreme hour";

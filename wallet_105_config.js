@@ -1,1 +1,1 @@
-var mnemonic = "fiscal width output clap cotton tool can demand pattern latin struggle position";
+var mnemonic = "pipe army used gauge pet end shield royal trial execute marriage ozone";

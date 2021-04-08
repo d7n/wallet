@@ -1,1 +1,1 @@
-var mnemonic = "angry claim pair devote involve crawl enforce bachelor similar gasp face goddess";
+var mnemonic = "answer ghost gather defy design excess flame once blue addict core ancient";

@@ -1,1 +1,1 @@
-var mnemonic = "field fancy piano mesh cruel exclude calm report parade mango senior design";
+var mnemonic = "pupil build enroll hurt chat brown crash disorder age green select balcony";

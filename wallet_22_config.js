@@ -1,1 +1,1 @@
-var mnemonic = "taste ivory rifle aunt sister physical van slush taxi symptom isolate tank";
+var mnemonic = "brief rice lunch donkey shift one media ability price stem walk woman";

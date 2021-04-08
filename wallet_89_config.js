@@ -1,1 +1,1 @@
-var mnemonic = "sphere certain vanish amateur drink section glory stove ride income summer person";
+var mnemonic = "stay reject wire toe pumpkin kitchen property venue sort nominee age add";

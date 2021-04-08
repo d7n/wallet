@@ -1,1 +1,1 @@
-var mnemonic = "slam lamp people cheap welcome cart shaft gauge digital shoulder tonight core";
+var mnemonic = "inform coin tank debris urge winter scissors army area reform coyote couple";

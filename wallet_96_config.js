@@ -1,1 +1,1 @@
-var mnemonic = "enemy leg all pen zoo endorse begin elder run more gospel maple";
+var mnemonic = "acoustic okay inmate quantum domain betray stuff upset soup cherry water lumber";

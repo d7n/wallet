@@ -1,1 +1,1 @@
-var mnemonic = "calm bounce vivid humor swarm brand prepare cabbage spoon autumn behind fan";
+var mnemonic = "vast lion breeze ankle planet trend surround physical staff any kick female";

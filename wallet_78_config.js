@@ -1,1 +1,1 @@
-var mnemonic = "rib enhance acid essence elite dog bamboo boost dumb sauce kick pen";
+var mnemonic = "elder lamp unlock tired multiply remind farm boat skill fiction vehicle child";

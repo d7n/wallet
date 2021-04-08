@@ -1,1 +1,1 @@
-var mnemonic = "actress group afraid upper bachelor fiber method drift chunk name amount birth";
+var mnemonic = "obvious story possible wish salon lab room raven exact toy bridge stick";

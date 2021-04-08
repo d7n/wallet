@@ -1,1 +1,1 @@
-var mnemonic = "mass file they wagon screen trophy record dawn stomach priority over few";
+var mnemonic = "group because gold predict ship elder crawl hello lake hazard fabric tragic";

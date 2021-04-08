@@ -1,1 +1,1 @@
-var mnemonic = "enlist odor arrow adjust warm blue canal pumpkin again sunny normal magnet";
+var mnemonic = "grit rough shine plug cover ancient hawk vessel oblige act pear infant";

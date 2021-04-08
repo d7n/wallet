@@ -1,1 +1,1 @@
-var mnemonic = "crunch spot vicious wolf among matrix document master device bring idle accuse";
+var mnemonic = "depart fiction poet three load valid flash edge clog monkey true quarter";

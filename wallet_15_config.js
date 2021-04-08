@@ -1,1 +1,1 @@
-var mnemonic = "habit food sorry couple legal bicycle cost pause prize bonus depth until";
+var mnemonic = "fruit atom tail gasp file control dad hope antique trap slogan solid";

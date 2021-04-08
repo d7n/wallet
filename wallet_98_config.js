@@ -1,1 +1,1 @@
-var mnemonic = "harbor charge fortune turkey guitar palace turtle federal pepper crash twenty devote";
+var mnemonic = "custom carpet offer amount noble keep gap smile priority clown vivid label";

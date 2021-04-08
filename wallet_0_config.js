@@ -1,1 +1,1 @@
-var mnemonic = "quality wave share six script file rubber zebra siege trouble patient unit";
+var mnemonic = "elegant arm stairs fiscal amazing wing permit deny since fat option regular";

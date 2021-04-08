@@ -1,1 +1,1 @@
-var mnemonic = "fringe thumb glimpse tiny ring drill inherit mystery deliver battle hard lunch";
+var mnemonic = "eager oak owner sad huge age boy permit deny proof love runway";

@@ -1,1 +1,1 @@
-var mnemonic = "uncover winner grief job tissue evil approve strategy power rigid tone wear";
+var mnemonic = "glimpse apology curve clean kitchen ladder route angle reduce that fortune lawn";

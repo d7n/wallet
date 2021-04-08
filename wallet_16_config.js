@@ -1,1 +1,1 @@
-var mnemonic = "produce renew fire possible robust like movie sustain monitor sudden subject shrimp";
+var mnemonic = "twenty similar punch foot upon check river luggage family note trumpet garlic";

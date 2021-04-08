@@ -1,1 +1,1 @@
-var mnemonic = "repeat cry seat profit awake inch exchange tired dose stand slice bright";
+var mnemonic = "album hockey either scrap car silly actor debris robust vault inner seven";

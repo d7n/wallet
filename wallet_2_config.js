@@ -1,1 +1,1 @@
-var mnemonic = "sting jump east chest artist outer ring column main only talent next";
+var mnemonic = "barely plunge left chase energy brass ethics reveal truck minor blade action";

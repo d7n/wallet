@@ -1,1 +1,1 @@
-var mnemonic = "anxiety corn ghost number file genuine traffic ecology vast volcano someone donor";
+var mnemonic = "crack parade humor hand clump addict hawk soon risk husband train lava";

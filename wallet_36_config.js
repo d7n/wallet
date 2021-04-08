@@ -1,1 +1,1 @@
-var mnemonic = "pull violin trigger valley lens assume wasp almost ask scale credit inspire";
+var mnemonic = "broom exhaust solution later chimney divorce flock wave must field zebra behind";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal misery supreme joy coach scout jar angry carpet original dry dream";
+var mnemonic = "theme only clump make copper argue prepare flavor obey news double topple";

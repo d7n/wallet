@@ -1,1 +1,1 @@
-var mnemonic = "topic rabbit stay resemble view point street fire hurdle clutch youth drift";
+var mnemonic = "rabbit resist cabbage slogan olympic rain crime leg fatal put junk hen";

@@ -1,1 +1,1 @@
-var mnemonic = "art sponsor pen cost carbon seed half mix turn army age swap";
+var mnemonic = "flee popular brother stuff magic sock bamboo myself news jealous place tomorrow";

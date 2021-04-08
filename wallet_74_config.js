@@ -1,1 +1,1 @@
-var mnemonic = "multiply coast pupil burden become jeans there forum lock blood season own";
+var mnemonic = "over library atom crazy wood endorse verify cross select nut ugly nest";

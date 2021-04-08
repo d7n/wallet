@@ -1,1 +1,1 @@
-var mnemonic = "rug feature merry reopen want mom rib cruise awful delay trap coil";
+var mnemonic = "shift broom quality service question same bundle strategy pumpkin tongue crater color";

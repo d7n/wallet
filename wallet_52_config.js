@@ -1,1 +1,1 @@
-var mnemonic = "crime among atom logic ride genre fit tent scorpion follow dress defense";
+var mnemonic = "disagree woman private recycle obscure edit vintage switch unlock clean purchase ghost";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz soda fire suffer army push affair ivory empty copper gap marine";
+var mnemonic = "sustain hamster turn raven echo nature skin penalty gain emotion canvas fashion";

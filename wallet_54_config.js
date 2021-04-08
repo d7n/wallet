@@ -1,1 +1,1 @@
-var mnemonic = "material come danger unaware advance category grab student want little future chase";
+var mnemonic = "panic easily enough rookie empower feature assume cry enough ridge address transfer";

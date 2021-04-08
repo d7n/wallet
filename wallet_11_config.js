@@ -1,1 +1,1 @@
-var mnemonic = "lunar ahead kick faint attack simple crack vast slide popular sadness student";
+var mnemonic = "adjust major amused similar salon finish inspire vessel dynamic ahead inflict crouch";

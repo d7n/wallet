@@ -1,1 +1,1 @@
-var mnemonic = "novel trumpet radio young mouse unfair little yellow nation cheese plastic conduct";
+var mnemonic = "easily pill original reward pond orient vacuum soft same absorb exit syrup";

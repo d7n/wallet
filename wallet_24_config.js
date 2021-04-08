@@ -1,1 +1,1 @@
-var mnemonic = "sauce attend term layer forum grit guide venture once dolphin two nose";
+var mnemonic = "jealous then heart gorilla write object agree obey find valley vivid chronic";

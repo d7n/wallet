@@ -1,1 +1,1 @@
-var mnemonic = "judge letter magnet twin error voice noble dinner ticket lock opinion any";
+var mnemonic = "answer float depend club clown clerk spend nut frame finish tide apology";

@@ -1,1 +1,1 @@
-var mnemonic = "runway educate ozone prison awful song resource solid rabbit squirrel gather addict";
+var mnemonic = "call hard review annual night wish giraffe task sand theme equal oppose";

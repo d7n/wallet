@@ -1,1 +1,1 @@
-var mnemonic = "seek welcome brief metal tourist crumble climb quantum leisure cash reveal champion";
+var mnemonic = "design route then desert remain toe swear million often aunt group solid";

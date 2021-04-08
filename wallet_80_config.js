@@ -1,1 +1,1 @@
-var mnemonic = "animal small thrive label road super owner quantum certain pistol vivid work";
+var mnemonic = "umbrella blind miss put dash error tree buzz wink detect sibling try";

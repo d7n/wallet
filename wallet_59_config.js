@@ -1,1 +1,1 @@
-var mnemonic = "manage settle legal assist romance cash shop immense wheel clay enough dizzy";
+var mnemonic = "tired connect critic hawk lumber smooth game grid trial person hire scout";

@@ -1,1 +1,1 @@
-var mnemonic = "circle confirm escape stereo scheme salon roast emerge artwork burger mixed lonely";
+var mnemonic = "party father squirrel force urban book message lemon quit cabbage match silk";

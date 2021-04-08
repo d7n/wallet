@@ -1,1 +1,1 @@
-var mnemonic = "struggle any quality prize ordinary cushion stock almost wear clinic buffalo various";
+var mnemonic = "obey shiver rookie good version barely target enrich scatter that innocent response";

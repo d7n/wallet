@@ -1,1 +1,1 @@
-var mnemonic = "depend inmate custom current pave nerve same core west fox badge burst";
+var mnemonic = "frozen range arrive fruit foil traffic february barrel vendor deputy hold heavy";

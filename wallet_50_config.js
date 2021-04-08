@@ -1,1 +1,1 @@
-var mnemonic = "pull adult legend mosquito tribe grief witness early verify pretty unknown visit";
+var mnemonic = "pig legend toddler remind idea misery delay corn boss dynamic marriage enact";

@@ -1,1 +1,1 @@
-var mnemonic = "venture buzz runway talent day swear thrive cool always dynamic scissors end";
+var mnemonic = "enhance woman breeze scan nut embark cruel boy paper provide shed scissors";

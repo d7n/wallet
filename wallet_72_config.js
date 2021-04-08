@@ -1,1 +1,1 @@
-var mnemonic = "mammal quick problem option record secret card sail sorry hurt cancel again";
+var mnemonic = "obey slender brave frog abandon club good mix venture town veteran core";

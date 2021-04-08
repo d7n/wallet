@@ -1,1 +1,1 @@
-var mnemonic = "bomb label pave pepper shrug elegant bachelor royal region anxiety turtle wear";
+var mnemonic = "control flock between essence grief chimney amateur rubber struggle caught damage grid";

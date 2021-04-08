@@ -1,1 +1,1 @@
-var mnemonic = "gadget nominee champion moral glow addict skirt wink little later legal raise";
+var mnemonic = "vivid rare tooth spike defy leader choice flavor knock spoon loan vapor";

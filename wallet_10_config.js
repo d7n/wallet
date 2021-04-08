@@ -1,1 +1,1 @@
-var mnemonic = "ozone satoshi evidence melody march economy dish dynamic job black barrel average";
+var mnemonic = "feature draft avocado pulp cancel neglect tissue trial talent pipe cement nest";

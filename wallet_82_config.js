@@ -1,1 +1,1 @@
-var mnemonic = "layer force riot useful flower enact jelly office oil sort before citizen";
+var mnemonic = "eyebrow dress scrap dignity mad turkey slush parent eternal drip like parent";

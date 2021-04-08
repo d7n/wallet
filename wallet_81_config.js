@@ -1,1 +1,1 @@
-var mnemonic = "village shrimp keep talent woman carpet anxiety thing high beef young cart";
+var mnemonic = "cheap bright swift jar trophy destroy divorce modify mesh bleak endorse sleep";

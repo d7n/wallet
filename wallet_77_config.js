@@ -1,1 +1,1 @@
-var mnemonic = "quote tonight wrestle another large announce error track deny arrive paddle reunion";
+var mnemonic = "future joy cinnamon inform awful pride arena donate decline situate dose breeze";

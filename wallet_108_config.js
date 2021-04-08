@@ -1,1 +1,1 @@
-var mnemonic = "hire seminar company stay bean mandate squeeze view subway erupt middle crop";
+var mnemonic = "casual kick sting marble perfect river priority robot depth sustain vapor photo";

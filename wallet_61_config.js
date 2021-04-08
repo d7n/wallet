@@ -1,1 +1,1 @@
-var mnemonic = "muscle neutral zebra crumble sniff ethics fade warfare clump course eight blood";
+var mnemonic = "vast ramp monitor genre sick parade donkey parade joy siege finger inspire";

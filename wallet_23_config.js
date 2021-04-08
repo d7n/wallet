@@ -1,1 +1,1 @@
-var mnemonic = "empty mimic cruel ensure another season isolate clean doll region student crisp";
+var mnemonic = "march empty best leg faculty near intact metal caught height taste frost";

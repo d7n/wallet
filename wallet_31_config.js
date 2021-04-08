@@ -1,1 +1,1 @@
-var mnemonic = "success fortune favorite illegal glad sight smooth olive erosion car two recall";
+var mnemonic = "stereo better artwork total fitness rubber mouse caution include craft vicious focus";

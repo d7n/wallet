@@ -1,1 +1,1 @@
-var mnemonic = "chalk remind tree eight muffin wonder matter loyal legal notice toddler baby";
+var mnemonic = "nature shallow voyage guide object moral cart next high anxiety render moral";

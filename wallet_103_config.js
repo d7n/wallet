@@ -1,1 +1,1 @@
-var mnemonic = "chronic soft only horse shadow donate rude fringe priority tomato rate fatal";
+var mnemonic = "response feature shrimp odor adapt paddle rubber replace hockey mercy oppose abandon";

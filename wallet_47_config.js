@@ -1,1 +1,1 @@
-var mnemonic = "slab chase drastic worry mail deliver call unable price review stock foil";
+var mnemonic = "tomorrow soon assault crash weird entry lawn canyon cause camera crowd candy";

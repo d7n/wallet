@@ -1,1 +1,1 @@
-var mnemonic = "spatial appear chuckle wire square drill police diet machine smoke chimney mushroom";
+var mnemonic = "kite deer diesel pumpkin silver sea alter critic husband race cause decide";

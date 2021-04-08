@@ -1,1 +1,1 @@
-var mnemonic = "cargo save liberty club embark rib pink essence place surface ivory castle";
+var mnemonic = "dolphin visit sand emotion alcohol leg derive food busy party blast perfect";

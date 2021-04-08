@@ -1,1 +1,1 @@
-var mnemonic = "plate village glad level depth march truck artwork option kingdom window orange";
+var mnemonic = "enact hunt more absent bright cart limit stable crime enemy square morning";

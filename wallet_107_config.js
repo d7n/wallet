@@ -1,1 +1,1 @@
-var mnemonic = "demand sting immense cross inject mean bar arch sustain series stay music";
+var mnemonic = "announce inform shop wreck feel bracket domain skull concert tumble garage kid";

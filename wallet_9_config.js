@@ -1,1 +1,1 @@
-var mnemonic = "grief toss quarter bomb town someone sign toast analyst bar spatial beach";
+var mnemonic = "nut cinnamon deny someone problem cook orchard cancel ketchup genuine refuse quantum";

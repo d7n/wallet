@@ -1,1 +1,1 @@
-var mnemonic = "setup three prize cage awesome arrest purse depth wonder room angry figure";
+var mnemonic = "spin loop ceiling oval lamp enrich risk load order metal december manual";

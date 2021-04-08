@@ -1,1 +1,1 @@
-var mnemonic = "vintage raise know provide where bracket pole army suggest sweet virus pen";
+var mnemonic = "hint toss female nasty grit original dream refuse adjust fatigue work coral";

@@ -1,1 +1,1 @@
-var mnemonic = "long intact brass pizza gadget eyebrow vacant usual demand home strike sniff";
+var mnemonic = "diagram emerge garage easily first vital cart rent boy problem lock pottery";

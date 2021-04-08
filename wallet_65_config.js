@@ -1,1 +1,1 @@
-var mnemonic = "black kit cry you tube material alpha dignity exhaust love ceiling olympic";
+var mnemonic = "code panel useless payment swing bulk adjust pledge employ conduct avocado hamster";

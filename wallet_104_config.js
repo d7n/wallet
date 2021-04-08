@@ -1,1 +1,1 @@
-var mnemonic = "rug magic energy other virus indoor earth true race sleep edge polar";
+var mnemonic = "property custom emerge escape music immense lucky panel oak catalog drill copper";

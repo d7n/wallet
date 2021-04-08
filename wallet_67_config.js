@@ -1,1 +1,1 @@
-var mnemonic = "hope net shove man film soul blush deer erase park fun hill";
+var mnemonic = "alien silver reward flavor cushion wash extra cruise pilot edge joke strategy";

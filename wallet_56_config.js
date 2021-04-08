@@ -1,1 +1,1 @@
-var mnemonic = "powder snack where curious thought ivory material destroy december glance scout vocal";
+var mnemonic = "hand abstract naive dragon food dice hurry artwork valid good park guide";

@@ -1,1 +1,1 @@
-var mnemonic = "letter pause spy between pink tornado injury aisle one jaguar country business";
+var mnemonic = "luxury palace level picture bacon calm debate accident between grocery lunar ask";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual raven boat admit street movie better behave expect thumb forward brand";
+var mnemonic = "fog vendor virus brush menu tilt welcome turn blush similar picnic husband";

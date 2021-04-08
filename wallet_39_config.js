@@ -1,1 +1,1 @@
-var mnemonic = "inflict crisp grant tuition beyond gravity kit replace armed still burden minute";
+var mnemonic = "spike feel eight pepper language material access orchard bicycle produce enlist minor";

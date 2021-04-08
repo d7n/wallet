@@ -1,1 +1,1 @@
-var mnemonic = "degree erosion hope enter ahead skill worry require infant safe glow fancy";
+var mnemonic = "drive crazy unfold tragic between zebra screen divert robust couch gown canvas";

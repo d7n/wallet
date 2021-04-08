@@ -1,1 +1,1 @@
-var mnemonic = "october debris social cricket cycle lend secret merry laundry group run shock";
+var mnemonic = "photo raven blood attack brave random exhaust hello spider wash flag birth";

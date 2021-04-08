@@ -1,1 +1,1 @@
-var mnemonic = "behave wear april swear exact inherit lift hen lab task twenty book";
+var mnemonic = "tragic baby pattern gloom chef hair defense route large famous swing gas";

@@ -1,1 +1,1 @@
-var mnemonic = "regular mimic two divide remove daring click sister bamboo install caution clarify";
+var mnemonic = "pave sugar tonight sell right jungle hen hello suit enact leg vague";

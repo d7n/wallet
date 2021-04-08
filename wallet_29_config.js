@@ -1,1 +1,1 @@
-var mnemonic = "addict hover repair cart toss online derive quote success either sail witness";
+var mnemonic = "decorate knee pottery treat usual close pupil small aim swamp pretty face";

@@ -1,1 +1,1 @@
-var mnemonic = "level dog lunar lyrics immune marble decade room wreck mention exile foot";
+var mnemonic = "treat annual size artwork attitude spirit asthma asset drum twenty mother sign";

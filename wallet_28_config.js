@@ -1,1 +1,1 @@
-var mnemonic = "simple elite grid innocent thrive catch catalog owner income loan budget main";
+var mnemonic = "wasp siren earth cheap motion ability torch average comic seat seed will";

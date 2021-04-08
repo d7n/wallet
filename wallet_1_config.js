@@ -1,1 +1,1 @@
-var mnemonic = "ecology point luxury pitch ahead person inquiry movie viable coil crowd cactus";
+var mnemonic = "garage timber distance silk situate donkey field jaguar vessel base physical enable";

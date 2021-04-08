@@ -1,1 +1,1 @@
-var mnemonic = "economy course column soda grit thing door pulse cricket dice twice key";
+var mnemonic = "message bicycle record pig surprise always concert business host file belt neglect";

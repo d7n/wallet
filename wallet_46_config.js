@@ -1,1 +1,1 @@
-var mnemonic = "source art pledge depend satisfy sheriff year oyster already lemon lava fork";
+var mnemonic = "brief cigar image broccoli drum modify giraffe uncover wagon country level describe";

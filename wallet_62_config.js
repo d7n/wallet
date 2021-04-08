@@ -1,1 +1,1 @@
-var mnemonic = "record garden alley either witness wet beef tourist decade answer math inject";
+var mnemonic = "water usual fade airport whisper dice celery uphold spend beyond action verb";

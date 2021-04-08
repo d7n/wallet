@@ -1,1 +1,1 @@
-var mnemonic = "pretty risk flag shine version worry wait boost coach inject trade range";
+var mnemonic = "ski crime alpha melt must monster bright elephant limit leopard mask crack";

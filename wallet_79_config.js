@@ -1,1 +1,1 @@
-var mnemonic = "barrel pride hedgehog garbage pool rotate online panic smoke year doll kiwi";
+var mnemonic = "trade kid spy jump bar oppose letter slight seed obvious spice normal";

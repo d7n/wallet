@@ -1,1 +1,1 @@
-var mnemonic = "salad benefit steel series viable only legend panther razor renew lab ginger";
+var mnemonic = "match keep tissue small inside velvet demand master nest close saddle depart";

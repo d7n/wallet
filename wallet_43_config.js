@@ -1,1 +1,1 @@
-var mnemonic = "gesture mention recipe into torch seminar delay salute enlist funny opera quote";
+var mnemonic = "action impact drum boost pipe behave wink couch nurse cash zoo tail";

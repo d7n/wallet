@@ -1,1 +1,1 @@
-var mnemonic = "lumber attack possible rich beef breeze voyage impulse glare flat same become";
+var mnemonic = "know sniff camera hub proud need scrub immense theory say fine grid";

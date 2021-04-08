@@ -1,1 +1,1 @@
-var mnemonic = "match omit afraid payment thought six size express ten price twice rate";
+var mnemonic = "end skill quick laundry giant zebra curtain toe lizard more cloud girl";

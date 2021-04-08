@@ -1,1 +1,1 @@
-var mnemonic = "awkward invest off bus impulse jazz fantasy merge pottery mail dose across";
+var mnemonic = "icon expect dad salon mammal armed gallery begin call scheme trigger device";

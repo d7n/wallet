@@ -1,1 +1,1 @@
-var mnemonic = "radio repeat hamster animal lab level game ridge snake erase swift level";
+var mnemonic = "spice orient nephew scatter ritual middle more whisper clutch salt post stand";

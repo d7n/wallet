@@ -1,1 +1,1 @@
-var mnemonic = "timber exhibit once cook matter garden secret autumn potato throw drama oyster";
+var mnemonic = "enroll claw proud square perfect such pact trash river bundle early polar";
