@@ -1,1 +1,1 @@
-var mnemonic = "year anxiety cat biology enemy gun table boat rack clay fuel volume";
+var mnemonic = "bomb either hand bracket fitness popular stove spell category else coin liquid";

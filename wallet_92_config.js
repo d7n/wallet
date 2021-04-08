@@ -1,1 +1,1 @@
-var mnemonic = "maximum mercy cereal boy symptom ice horse bind text govern strong way";
+var mnemonic = "woman grunt under ball where relief luggage symbol person hero word mountain";

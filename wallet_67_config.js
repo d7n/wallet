@@ -1,1 +1,1 @@
-var mnemonic = "bus question loyal anger trend snow tumble razor palace artwork victory only";
+var mnemonic = "setup cloth amazing hour text infant ritual sun mutual october there boat";

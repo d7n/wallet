@@ -1,1 +1,1 @@
-var mnemonic = "tobacco hazard despair wrestle angle switch person warfare armed rebel type dash";
+var mnemonic = "elder business during cash able swing path betray escape bullet flee stool";

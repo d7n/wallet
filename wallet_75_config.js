@@ -1,1 +1,1 @@
-var mnemonic = "decade keep donkey entry material clap vacant copper below guide foot word";
+var mnemonic = "gadget enable sell glimpse rifle visual chunk kid shuffle blast candy moral";

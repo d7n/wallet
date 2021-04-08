@@ -1,1 +1,1 @@
-var mnemonic = "kind nation caught suspect unveil steak rifle brief before replace mimic viable";
+var mnemonic = "liar amused say hollow throw snap noodle kingdom cry release throw dog";

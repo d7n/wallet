@@ -1,1 +1,1 @@
-var mnemonic = "enrich help mom service tomato earn green twelve field danger fury lake";
+var mnemonic = "style myself rack soldier announce eager marriage grit lecture ticket slender lamp";

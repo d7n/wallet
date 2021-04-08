@@ -1,1 +1,1 @@
-var mnemonic = "sleep ask sudden subject odor typical grab dune easily sound renew thank";
+var mnemonic = "easy iron slogan reason coast buzz fame injury kite flight mango thought";

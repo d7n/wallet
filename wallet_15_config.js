@@ -1,1 +1,1 @@
-var mnemonic = "clap diesel sad double endless head lens pizza hill field response human";
+var mnemonic = "post shoulder match frog syrup season fashion badge emotion lottery tired recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "differ castle talent route sample actor extra damage bundle mad priority derive";
+var mnemonic = "merit ugly express coyote average gather canvas sibling burger bacon energy chat";

@@ -1,1 +1,1 @@
-var mnemonic = "coral swim text lava drive shock token cruise know assume vapor grass";
+var mnemonic = "limit uncle town hill minute myth dose hurt color miracle magnet suggest";

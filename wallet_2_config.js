@@ -1,1 +1,1 @@
-var mnemonic = "nuclear warrior broom trash spend script never dragon chuckle excuse forward vapor";
+var mnemonic = "air woman cruel home diamond margin nose gossip sleep burden occur profit";

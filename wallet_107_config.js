@@ -1,1 +1,1 @@
-var mnemonic = "space tent among tobacco clay aunt clerk minor turtle spread fantasy canoe";
+var mnemonic = "vital erode mad swap scare soft mango stick price dial youth snap";

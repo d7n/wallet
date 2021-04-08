@@ -1,1 +1,1 @@
-var mnemonic = "intact razor echo toward female million joke situate air fruit damage forum";
+var mnemonic = "cancel palm lyrics coral cinnamon chaos brand feature notice agent shoot axis";

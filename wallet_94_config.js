@@ -1,1 +1,1 @@
-var mnemonic = "distance find crack follow faith jaguar moon when bridge found swear immune";
+var mnemonic = "defense cook poet gold various cancel trigger fury pizza potato hair fly";

@@ -1,1 +1,1 @@
-var mnemonic = "hint long sure normal okay toe image kiwi wagon elegant certain mixture";
+var mnemonic = "gaze thing pill comic daughter plate marine gallery narrow devote together pink";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen spike horn cigar rubber clock crack muffin accident vault tourist indoor";
+var mnemonic = "glow later notable cupboard furnace what stuff keep student mobile equip upgrade";

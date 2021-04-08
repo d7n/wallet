@@ -1,1 +1,1 @@
-var mnemonic = "erupt obscure ocean shove twenty industry silk wide drink illegal great hard";
+var mnemonic = "sound black wrong witness creek soul erupt recycle trash echo bright dust";

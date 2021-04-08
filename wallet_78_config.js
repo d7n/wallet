@@ -1,1 +1,1 @@
-var mnemonic = "leg gallery art amazing hour error million demand mandate below museum bleak";
+var mnemonic = "burger left used creek build certain creek vacant safe decorate salmon canvas";

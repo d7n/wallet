@@ -1,1 +1,1 @@
-var mnemonic = "voice problem jar photo hurt prevent upset sure boat depth exact smile";
+var mnemonic = "pen uncover mask submit equip issue jazz onion error bench skate throw";

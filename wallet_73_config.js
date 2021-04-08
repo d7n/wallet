@@ -1,1 +1,1 @@
-var mnemonic = "brass merry great bitter false slot possible token exist item gloom smile";
+var mnemonic = "major tribe welcome grit check all west summer segment push wide service";

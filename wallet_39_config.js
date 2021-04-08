@@ -1,1 +1,1 @@
-var mnemonic = "assume put weird horse crystal elder blush wealth quiz museum tenant keep";
+var mnemonic = "either puppy culture suggest slam enemy example spider tag mechanic soda also";

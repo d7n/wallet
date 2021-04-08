@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow turn planet attend drama much achieve report tobacco sister pear volcano";
+var mnemonic = "argue slogan hazard guitar nasty broken angle quality swallow defense risk floor";

@@ -1,1 +1,1 @@
-var mnemonic = "future material upper pluck tuition frog luggage ticket funny sight subject cement";
+var mnemonic = "evil icon surprise lend rule crucial claim fiscal maple accident rice emotion";

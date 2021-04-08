@@ -1,1 +1,1 @@
-var mnemonic = "rapid blind aisle dinner tumble load exclude kite false deal turn evil";
+var mnemonic = "arrest trial oblige accident estate earth phrase urge color pumpkin actual nasty";

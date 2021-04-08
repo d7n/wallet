@@ -1,1 +1,1 @@
-var mnemonic = "limb lunch private install glide truth unaware lazy whale spider amount noodle";
+var mnemonic = "leisure lens water business cost ancient police chaos armor first blur viable";

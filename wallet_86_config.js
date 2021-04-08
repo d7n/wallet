@@ -1,1 +1,1 @@
-var mnemonic = "badge crumble window comic fruit plug convince tonight enter flip awful race";
+var mnemonic = "surge student opera lake process topple board stage orchard science pond fruit";

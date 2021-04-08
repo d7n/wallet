@@ -1,1 +1,1 @@
-var mnemonic = "pill mutual deal grit exhaust furnace torch force twist erase muffin forest";
+var mnemonic = "ride base blade often camp square page knee strategy monster shoe aware";

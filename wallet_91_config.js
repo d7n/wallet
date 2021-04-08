@@ -1,1 +1,1 @@
-var mnemonic = "foam exist fresh tide ritual mercy taste clip bridge ill merge enjoy";
+var mnemonic = "praise control foster turkey dutch prison uncle alert open steel visual trick";

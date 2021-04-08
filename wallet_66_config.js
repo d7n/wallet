@@ -1,1 +1,1 @@
-var mnemonic = "tackle elite punch mimic crucial lemon cute thank black corn base aspect";
+var mnemonic = "liberty novel sad jar cloud loyal online comic urban stamp grant wrestle";

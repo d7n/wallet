@@ -1,1 +1,1 @@
-var mnemonic = "forget depart swift fan damage provide finger gap science vast sniff creek";
+var mnemonic = "salad success neither move rescue strong march ten reunion nest chest cricket";

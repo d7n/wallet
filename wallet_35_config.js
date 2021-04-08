@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit message indicate scrap wash original identify attend spatial secret rate hobby";
+var mnemonic = "model minimum coral donor bar verify cluster suit raccoon exhibit wish exact";

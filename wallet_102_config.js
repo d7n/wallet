@@ -1,1 +1,1 @@
-var mnemonic = "fee liar apple canyon mosquito camera print embody capable wrong rice basic";
+var mnemonic = "drama salad repair sauce ridge color margin define puppy art bleak vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "festival little velvet flight explain chase differ antique gaze zone bar version";
+var mnemonic = "install curve clerk gossip mercy panel essay correct focus divorce way sausage";

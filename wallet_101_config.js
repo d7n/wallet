@@ -1,1 +1,1 @@
-var mnemonic = "scrub much chat actor trigger arrest coffee long shield rescue enforce genre";
+var mnemonic = "rescue height penalty alter shield transfer random veteran tomato inside dynamic boy";

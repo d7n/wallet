@@ -1,1 +1,1 @@
-var mnemonic = "any pass hawk vendor employ ice thrive nation trade shine wrestle pitch";
+var mnemonic = "rack oval slender there shoot vast cross believe gap dismiss dress disease";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid leave power kind canyon lemon minute lend kit valid frozen gadget";
+var mnemonic = "swap marine price world shaft tag possible paper wink hub universe alone";

@@ -1,1 +1,1 @@
-var mnemonic = "spread once amateur clean cycle busy train endorse siren kitchen palm easy";
+var mnemonic = "clip rapid media already usual session solution essay diamond dinosaur soap crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "rude search upgrade system bicycle practice length joy remember coil quick broccoli";
+var mnemonic = "spirit virus vault earth rib ability empower valve veteran hobby hero appear";

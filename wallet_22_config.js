@@ -1,1 +1,1 @@
-var mnemonic = "seed birth beef chat congress casino defy mass prize exclude auto ridge";
+var mnemonic = "syrup pact truck hobby tooth captain frost drift dinner legend boat candy";

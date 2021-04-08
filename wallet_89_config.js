@@ -1,1 +1,1 @@
-var mnemonic = "melody estate broom proud bridge ladder crater transfer pig high left book";
+var mnemonic = "spike eye undo lens food horn become grain forest shop normal hospital";

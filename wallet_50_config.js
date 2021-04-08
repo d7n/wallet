@@ -1,1 +1,1 @@
-var mnemonic = "clip mistake broken host card awful split seek portion own weird crumble";
+var mnemonic = "undo news room very attack ghost infant gadget winner moral thunder table";

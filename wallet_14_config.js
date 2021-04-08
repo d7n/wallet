@@ -1,1 +1,1 @@
-var mnemonic = "say poverty there runway near weapon fatal result edit nephew predict juice";
+var mnemonic = "egg crouch typical enroll ticket vapor village siren fatal tired lab act";

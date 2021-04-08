@@ -1,1 +1,1 @@
-var mnemonic = "tongue joy apology lend friend dial other matter analyst example leave vivid";
+var mnemonic = "addict nuclear bid town man hire picnic own spot trade dust rude";

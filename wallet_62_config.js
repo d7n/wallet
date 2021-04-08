@@ -1,1 +1,1 @@
-var mnemonic = "strike soul forget firm acid random garage fabric already fitness slim slot";
+var mnemonic = "evolve finger present flock flat only extra brain dawn run tube then";

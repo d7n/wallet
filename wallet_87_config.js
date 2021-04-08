@@ -1,1 +1,1 @@
-var mnemonic = "crazy slow eager choose people entry purse cupboard double source march welcome";
+var mnemonic = "sustain short genre inject spike inspire scrub traffic daughter engage hat field";

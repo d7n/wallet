@@ -1,1 +1,1 @@
-var mnemonic = "tissue flower grocery meadow cupboard ahead square style photo lounge music expire";
+var mnemonic = "camera sugar double wall calm pond bench jacket armor exclude humble goat";

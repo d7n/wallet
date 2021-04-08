@@ -1,1 +1,1 @@
-var mnemonic = "expect taxi small tool water slow damage maple seek knock judge public";
+var mnemonic = "erode stamp tattoo current surface drastic wood scatter night animal regular latin";

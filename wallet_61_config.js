@@ -1,1 +1,1 @@
-var mnemonic = "minor please fat index auto adjust distance nephew front pizza lake cotton";
+var mnemonic = "stool disorder magnet undo lottery brother enter oil current mercy become negative";

@@ -1,1 +1,1 @@
-var mnemonic = "fall excess arena twelve market critic blind wine ozone model cricket need";
+var mnemonic = "skate reform gift cannon winter helmet vintage digital visual pet onion rib";

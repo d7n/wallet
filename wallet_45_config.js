@@ -1,1 +1,1 @@
-var mnemonic = "bitter repeat clip tissue ticket dumb invite throw left hedgehog keen chimney";
+var mnemonic = "senior noise congress captain castle cable visit display state tobacco night trap";

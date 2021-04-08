@@ -1,1 +1,1 @@
-var mnemonic = "utility nose able cruel good kingdom will elegant bitter since blanket pole";
+var mnemonic = "north eternal offer then miss detail can balcony broom explain example radar";

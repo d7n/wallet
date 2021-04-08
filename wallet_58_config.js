@@ -1,1 +1,1 @@
-var mnemonic = "august tag wire option comic valid warm rookie axis script lake normal";
+var mnemonic = "exchange crew canoe scorpion anger nominee index also dynamic glow glass ugly";

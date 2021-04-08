@@ -1,1 +1,1 @@
-var mnemonic = "stadium worry security shiver sight bulk divide forget viable legend vicious around";
+var mnemonic = "increase corn merit start crucial joke palace myth phone document kite alert";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy ostrich fish split artist vast visit globe resource right oval south";
+var mnemonic = "math garage run faith coach blast what fan favorite logic stable domain";

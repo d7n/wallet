@@ -1,1 +1,1 @@
-var mnemonic = "draft antique repeat little snack sad symptom coral add heart goat novel";
+var mnemonic = "joke bargain connect bid govern balcony dial equip abandon blossom stumble black";

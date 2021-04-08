@@ -1,1 +1,1 @@
-var mnemonic = "eternal worth empower cool neck weasel rare produce century twenty tide cube";
+var mnemonic = "mammal visual model skull amused sun puzzle proud tiger can tuna circle";

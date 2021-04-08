@@ -1,1 +1,1 @@
-var mnemonic = "unknown thrive faith flower coconut excuse protect smile badge strategy imitate issue";
+var mnemonic = "banner magnet pluck discover end heavy kitchen magnet december quality future margin";

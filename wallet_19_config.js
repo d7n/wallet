@@ -1,1 +1,1 @@
-var mnemonic = "loan foot kitten swarm hair major tomato power divide trumpet chest abstract";
+var mnemonic = "design spider spot west half buzz fossil cruise like funny upper emotion";

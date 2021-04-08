@@ -1,1 +1,1 @@
-var mnemonic = "warm same predict midnight earn purpose angry flee install panther wealth clock";
+var mnemonic = "action mother month fat gym cube sentence december choice shield easy satoshi";

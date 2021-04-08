@@ -1,1 +1,1 @@
-var mnemonic = "knee observe recipe excite act student author picture deputy soccer live slush";
+var mnemonic = "nephew dizzy hammer another maze relax mixed huge friend weapon emerge abuse";

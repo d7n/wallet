@@ -1,1 +1,1 @@
-var mnemonic = "cattle gate together member cloth recipe vapor crunch boil lyrics abandon expect";
+var mnemonic = "autumn gentle apology purpose elbow payment step miracle spray tip globe disorder";

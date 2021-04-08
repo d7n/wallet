@@ -1,1 +1,1 @@
-var mnemonic = "famous bridge clay scale mirror brass lion kidney collect current book exclude";
+var mnemonic = "history monkey solution artist sister negative proof wear rally guitar essence metal";

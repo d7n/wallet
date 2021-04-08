@@ -1,1 +1,1 @@
-var mnemonic = "holiday reunion middle unfold wine town fetch soup express culture load loan";
+var mnemonic = "whisper whisper wire flush since lava stove office laugh kind shrug fat";

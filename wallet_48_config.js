@@ -1,1 +1,1 @@
-var mnemonic = "fiscal uniform husband strike neck peace glass betray virtual civil vital awkward";
+var mnemonic = "orient panic inmate pink silver meat lava remember brisk slot govern trade";

@@ -1,1 +1,1 @@
-var mnemonic = "help glory bench bullet kitten refuse army intact three news road remove";
+var mnemonic = "tank number air another suffer stamp ketchup rookie resist hollow jump enroll";

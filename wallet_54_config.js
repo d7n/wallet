@@ -1,1 +1,1 @@
-var mnemonic = "gesture already behave excess biology floor oppose supreme hover crane walnut cupboard";
+var mnemonic = "project tower entire crawl silly project wife bullet crumble letter size output";

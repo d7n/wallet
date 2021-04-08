@@ -1,1 +1,1 @@
-var mnemonic = "carry ramp beyond useful cute rifle zebra cereal chaos soup ramp sustain";
+var mnemonic = "blind sniff degree filter nasty ozone dawn portion property liberty address fit";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue foot because neutral initial thank off clay relief story until noble";
+var mnemonic = "access under dance buzz easy deal tribe cradle chair entry safe high";

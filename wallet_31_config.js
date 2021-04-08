@@ -1,1 +1,1 @@
-var mnemonic = "tattoo domain crater memory shiver autumn word marine cover maze lecture judge";
+var mnemonic = "annual source elder stick top alcohol kangaroo skirt open east envelope spider";

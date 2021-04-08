@@ -1,1 +1,1 @@
-var mnemonic = "frozen lobster pony cover area message chicken hip verify rotate dad vital";
+var mnemonic = "museum link subway tortoise panda grace achieve awake misery canal hint response";

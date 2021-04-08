@@ -1,1 +1,1 @@
-var mnemonic = "inhale odor situate steak crack lift hazard allow swing rival shine fashion";
+var mnemonic = "spice pelican believe among clip muffin visit enjoy because flag juice observe";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper monster table night odor monitor curve glare stomach similar shine beach";
+var mnemonic = "drift lion wedding hobby fox buzz what treat shoot width raven small";

@@ -1,1 +1,1 @@
-var mnemonic = "concert bamboo vote enact absent place toe soap twin coast scale addict";
+var mnemonic = "uncover assault usage spice tissue magnet find tide before sadness drill maid";

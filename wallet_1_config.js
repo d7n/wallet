@@ -1,1 +1,1 @@
-var mnemonic = "lunar upon build rebuild grit bread behind material reduce casino elbow ozone";
+var mnemonic = "ski page scene only hospital drink seek lab humor symbol shiver leader";

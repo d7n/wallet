@@ -1,1 +1,1 @@
-var mnemonic = "memory next divide deny maid remove home boy digital vast cliff bean";
+var mnemonic = "sense priority horse plate fashion quit day leopard rely announce brave year";

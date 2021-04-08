@@ -1,1 +1,1 @@
-var mnemonic = "domain boil right winner matrix smart ahead play whale rib gain lounge";
+var mnemonic = "same bring genre bronze monster urge emotion liquid banana donate goddess entry";

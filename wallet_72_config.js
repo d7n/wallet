@@ -1,1 +1,1 @@
-var mnemonic = "laundry weekend polar camera lawsuit devote visa loop praise average adjust height";
+var mnemonic = "gossip limb sign aunt fault roast gorilla sentence solid decide blush blind";

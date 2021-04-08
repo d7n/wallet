@@ -1,1 +1,1 @@
-var mnemonic = "abstract cloth carpet hollow rent brush exact shine like labor hazard vendor";
+var mnemonic = "detail cigar immense square unknown rescue cattle whisper region must derive old";

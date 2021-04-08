@@ -1,1 +1,1 @@
-var mnemonic = "what rare siege baby shoe uniform state radar subject other letter win";
+var mnemonic = "game balcony friend intact other tonight hour bacon vocal left sauce mixture";

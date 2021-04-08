@@ -1,1 +1,1 @@
-var mnemonic = "lion oak month since battle churn level various umbrella derive flight forward";
+var mnemonic = "toddler seminar goat rough earth stick story lazy country detect gate sense";

@@ -1,1 +1,1 @@
-var mnemonic = "warm lake potato promote evoke swallow expect volcano auto shift flat hair";
+var mnemonic = "rug renew track rose shield turtle mandate test road avocado physical clarify";

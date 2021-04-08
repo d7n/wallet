@@ -1,1 +1,1 @@
-var mnemonic = "disorder ozone bind absent vanish road pencil fabric chunk unique maximum garment";
+var mnemonic = "aerobic host choice leave robot bind jeans slender witness capable divert sugar";

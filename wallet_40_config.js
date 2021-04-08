@@ -1,1 +1,1 @@
-var mnemonic = "man good nature over chuckle army spider fancy convince lend cushion slab";
+var mnemonic = "solar amount mule cube course steak source main still gorilla key circle";

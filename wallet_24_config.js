@@ -1,1 +1,1 @@
-var mnemonic = "marriage scatter sick rotate runway common absurd nest vocal easily kind giraffe";
+var mnemonic = "lonely crane mango spend pumpkin tool repair diary narrow average toy bring";

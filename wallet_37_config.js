@@ -1,1 +1,1 @@
-var mnemonic = "model vicious material rare duty hazard desert ribbon three vacuum dwarf approve";
+var mnemonic = "odor buddy level scorpion blur whip leader fabric panther fiction lens advance";

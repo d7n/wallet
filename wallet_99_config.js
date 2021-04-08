@@ -1,1 +1,1 @@
-var mnemonic = "vehicle butter win cost middle green member logic crime machine brush assume";
+var mnemonic = "alert distance hand genius wrong excuse renew flavor excite cotton wage call";

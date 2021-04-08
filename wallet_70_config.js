@@ -1,1 +1,1 @@
-var mnemonic = "history seminar result betray valve pilot demise upon festival torch analyst polar";
+var mnemonic = "open ancient void shield across mask mountain choice robot program muscle avoid";

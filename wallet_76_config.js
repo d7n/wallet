@@ -1,1 +1,1 @@
-var mnemonic = "visa target figure reform sister bacon agent jeans pilot follow delay boost";
+var mnemonic = "genre nation open horn file face silk debate century enough squeeze gadget";
