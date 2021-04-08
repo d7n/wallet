@@ -1,1 +1,1 @@
-var mnemonic = "coil execute session toe enroll busy again already exile town case library";
+var mnemonic = "remove pattern lunch warfare suspect cigar unlock advice shine remind lend patch";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital bid pride shock coconut ability dove novel famous live waste loud";
+var mnemonic = "define say crush truly shell require gloom juice parade ocean aware lobster";

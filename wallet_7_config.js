@@ -1,1 +1,1 @@
-var mnemonic = "wheat raw husband kitten cable other kitchen utility harvest brief ecology film";
+var mnemonic = "latin cruel farm scout jeans transfer wear draft recycle trash anxiety cotton";

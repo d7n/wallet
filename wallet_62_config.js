@@ -1,1 +1,1 @@
-var mnemonic = "pipe cereal cloud first family human warm panic sleep stage ordinary smooth";
+var mnemonic = "forward tell fox enrich fantasy high wild try journey fury coconut gallery";

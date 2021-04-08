@@ -1,1 +1,1 @@
-var mnemonic = "celery squirrel defense promote drip end music paddle auto miss stove engage";
+var mnemonic = "torch cradle inject program gadget fall extra kiss yellow you zero impose";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub artist van bulk limb total fat remind candy affair rebuild crucial";
+var mnemonic = "major puzzle debris theme flip define assault evidence result animal rice salon";

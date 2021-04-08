@@ -1,1 +1,1 @@
-var mnemonic = "thing also you follow check day step result neither current tissue angry";
+var mnemonic = "fog course observe road song name wire language trigger multiply regular ring";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply group use horn unusual popular witness gaze gesture someone stem loop";
+var mnemonic = "key inmate average few effort fog drum airport coffee about acoustic fragile";

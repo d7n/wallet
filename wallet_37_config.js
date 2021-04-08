@@ -1,1 +1,1 @@
-var mnemonic = "kick group clog wing huge wolf advice liberty frown artefact hint negative";
+var mnemonic = "drastic convince volume brisk good maze canal truth sight shift guess happy";

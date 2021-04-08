@@ -1,1 +1,1 @@
-var mnemonic = "banner hamster arrest walk sun old lawn frog message media dynamic lunch";
+var mnemonic = "spell wrap inside initial axis where spoil wrap name vivid cruel cloth";

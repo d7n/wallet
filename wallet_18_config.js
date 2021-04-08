@@ -1,1 +1,1 @@
-var mnemonic = "certain shove secret oblige myth tonight pretty safe illegal absorb mobile staff";
+var mnemonic = "autumn rocket can half use laptop practice spare busy ramp proof illegal";

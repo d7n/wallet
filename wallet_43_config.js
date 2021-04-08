@@ -1,1 +1,1 @@
-var mnemonic = "peasant ticket theory account zebra process surge census vast peace immune guard";
+var mnemonic = "method road brick life two resist swamp tumble ensure rebuild judge zebra";

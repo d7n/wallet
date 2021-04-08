@@ -1,1 +1,1 @@
-var mnemonic = "observe outer erode hire call file degree wish profit hope north next";
+var mnemonic = "model tornado lab satoshi rescue pulse right salon egg drum loan short";

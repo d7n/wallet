@@ -1,1 +1,1 @@
-var mnemonic = "plug monitor license exclude cook chest question butter rifle floor feed security";
+var mnemonic = "sample horse fringe bitter whisper ribbon select warrior law true shiver assume";

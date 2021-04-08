@@ -1,1 +1,1 @@
-var mnemonic = "seven oyster spawn jump inform remind public divide audit urban senior panther";
+var mnemonic = "conduct taxi asset sense wash flip first mom brother valley garlic cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "enforce worry allow canoe error supply cross cram kick laugh push cream";
+var mnemonic = "try swift quit siege eyebrow pulse tragic estate radar drift snap net";

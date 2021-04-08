@@ -1,1 +1,1 @@
-var mnemonic = "much forest calm sunny upper drop clinic waste helmet observe awkward enhance";
+var mnemonic = "penalty scatter squeeze artist opinion spring toddler project tired tumble planet brisk";

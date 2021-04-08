@@ -1,1 +1,1 @@
-var mnemonic = "voyage grit tiny pulp disagree pull exclude glimpse one inquiry umbrella pumpkin";
+var mnemonic = "hub marble diet advance cereal nephew addict mushroom summer boost index system";

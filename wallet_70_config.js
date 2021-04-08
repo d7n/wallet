@@ -1,1 +1,1 @@
-var mnemonic = "cube orange autumn alpha orbit rib poverty final scan attack myself burst";
+var mnemonic = "fit hub skin enhance badge stable erosion bunker strategy oven apology hidden";

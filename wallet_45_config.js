@@ -1,1 +1,1 @@
-var mnemonic = "sample unusual three sentence regret inside duty evoke people nerve arrive stage";
+var mnemonic = "warrior way typical way wing actress fog pizza benefit fish liquid proof";

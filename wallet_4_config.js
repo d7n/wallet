@@ -1,1 +1,1 @@
-var mnemonic = "buyer maze manual spot neglect size rigid false canvas correct limit glow";
+var mnemonic = "goose turn early crane fold live tide diagram around sell pair canal";

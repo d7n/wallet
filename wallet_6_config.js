@@ -1,1 +1,1 @@
-var mnemonic = "frost any glimpse notable quantum cattle trust gorilla manage electric top steel";
+var mnemonic = "course derive daughter city anger demand ramp run pause maid rotate educate";

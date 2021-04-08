@@ -1,1 +1,1 @@
-var mnemonic = "cheese always vacuum manual phrase sad excess rotate school paddle evoke close";
+var mnemonic = "frame stick rotate pistol room ankle popular surprise style first page photo";

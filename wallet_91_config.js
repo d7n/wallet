@@ -1,1 +1,1 @@
-var mnemonic = "draft pistol mad uniform sound film rough job output fox ready illegal";
+var mnemonic = "fire tiny engage horn merry box grief they unfair panic raise consider";

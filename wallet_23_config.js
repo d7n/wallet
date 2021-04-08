@@ -1,1 +1,1 @@
-var mnemonic = "blood puppy tobacco surge shield skate myself apple random leisure praise fetch";
+var mnemonic = "side immense glide usage bleak lottery project result remain tube twist explain";

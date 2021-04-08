@@ -1,1 +1,1 @@
-var mnemonic = "festival peace donate slab episode cart shine main suspect fix weasel useless";
+var mnemonic = "edit fire van napkin season napkin bike electric also habit drive fatigue";

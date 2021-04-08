@@ -1,1 +1,1 @@
-var mnemonic = "point garlic credit load jump jelly milk derive family sort dice skin";
+var mnemonic = "alone trumpet bunker garbage raccoon security focus piece way toy super hard";

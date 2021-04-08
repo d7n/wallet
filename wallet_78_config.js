@@ -1,1 +1,1 @@
-var mnemonic = "bless general manage machine scrub decide lounge maximum pumpkin now awake library";
+var mnemonic = "upgrade rich clay diagram scrub trend level season mix birth exclude swear";

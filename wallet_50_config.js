@@ -1,1 +1,1 @@
-var mnemonic = "open violin coast skin neither know capital reform length napkin churn chair";
+var mnemonic = "rival debris chef bridge system tooth lecture mix walnut stairs lift electric";

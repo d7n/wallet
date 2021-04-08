@@ -1,1 +1,1 @@
-var mnemonic = "gym bid rib quick popular jungle blush pear sad elegant person brave";
+var mnemonic = "before lens hazard harvest fetch wave usage resemble mechanic banana just mushroom";

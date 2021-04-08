@@ -1,1 +1,1 @@
-var mnemonic = "symptom must exclude glory cake enhance enter chronic loan valid virtual film";
+var mnemonic = "team float cigar hair borrow pond security world right tiny embody erase";

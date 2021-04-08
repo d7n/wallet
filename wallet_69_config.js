@@ -1,1 +1,1 @@
-var mnemonic = "enrich female frequent rose sudden glare sure notable involve wall success female";
+var mnemonic = "now unknown planet develop onion cage bench amazing artwork venue indicate boss";

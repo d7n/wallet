@@ -1,1 +1,1 @@
-var mnemonic = "tail print avoid document act planet little wild unable pepper disease release";
+var mnemonic = "alley mad asset electric ridge fabric rotate universe hood moon dream perfect";

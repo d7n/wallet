@@ -1,1 +1,1 @@
-var mnemonic = "assume liar shock box uncle cost habit mix vacant kidney affair ceiling";
+var mnemonic = "minor blanket quit blouse latin tackle wish another slogan arch reopen barrel";

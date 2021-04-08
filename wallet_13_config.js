@@ -1,1 +1,1 @@
-var mnemonic = "narrow episode fog dice essay bind ugly erosion female beyond such inhale";
+var mnemonic = "fatigue later daring bridge program proof lend away dignity flavor say coach";

@@ -1,1 +1,1 @@
-var mnemonic = "odor venue fork pass reveal spare drop summer wrong bar swim lift";
+var mnemonic = "pluck hello gorilla skull vote cross idea apple latin horror clutch monitor";

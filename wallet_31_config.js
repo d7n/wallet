@@ -1,1 +1,1 @@
-var mnemonic = "cross crazy frequent clap upper odor ensure repair jazz excite interest rally";
+var mnemonic = "more stool main blouse tuna win sponsor mercy outside talk few fiction";

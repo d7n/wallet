@@ -1,1 +1,1 @@
-var mnemonic = "brother issue attitude bean margin chest cool daring erupt bomb orbit label";
+var mnemonic = "brisk alpha parent measure jazz give dad guitar deal chair shoe ribbon";

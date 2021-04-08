@@ -1,1 +1,1 @@
-var mnemonic = "frame sister title goat acid orphan oxygen robot dial split seat mixed";
+var mnemonic = "receive eye real anxiety try accident miracle practice cement gospel science detect";

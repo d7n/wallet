@@ -1,1 +1,1 @@
-var mnemonic = "hint belt turn gossip phrase lonely jacket tongue harsh attract comic tower";
+var mnemonic = "auction comfort shy apology school anchor symbol shadow denial pigeon envelope identify";

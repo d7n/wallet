@@ -1,1 +1,1 @@
-var mnemonic = "what make current surround tent ordinary coconut twist multiply change drive sell";
+var mnemonic = "gasp tube correct piece fix lake inquiry blouse morning vocal method kick";

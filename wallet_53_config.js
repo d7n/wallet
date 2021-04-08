@@ -1,1 +1,1 @@
-var mnemonic = "piece milk fish save school cube kangaroo bamboo company mimic prison fence";
+var mnemonic = "middle else pull shield guess proud cool acquire mistake recall bench claim";

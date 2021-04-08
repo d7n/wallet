@@ -1,1 +1,1 @@
-var mnemonic = "tank device found trip manage armed secret prefer road north animal pitch";
+var mnemonic = "side pink kid such evil disease require fantasy view scene spare shield";

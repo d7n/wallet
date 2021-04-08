@@ -1,1 +1,1 @@
-var mnemonic = "broom urban giraffe language gospel much inch power opera all advance tortoise";
+var mnemonic = "myth inquiry hybrid shallow room idea burden arena favorite spot suspect wing";

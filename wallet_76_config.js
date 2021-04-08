@@ -1,1 +1,1 @@
-var mnemonic = "spring hand stereo episode paddle inspire snake end inform park mix foster";
+var mnemonic = "must jump margin dismiss erupt struggle when bid hunt tilt skin elephant";

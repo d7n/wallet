@@ -1,1 +1,1 @@
-var mnemonic = "matter unhappy click wear tennis hotel into arctic salt butter never actor";
+var mnemonic = "alien material sign license raven verify weather taxi dove harsh fix lounge";

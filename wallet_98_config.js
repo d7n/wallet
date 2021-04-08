@@ -1,1 +1,1 @@
-var mnemonic = "open audit pass train erode cloud cradle click asset shove keen live";
+var mnemonic = "party rule modify record silly bone manual label crater pony bread never";

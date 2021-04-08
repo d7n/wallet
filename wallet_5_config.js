@@ -1,1 +1,1 @@
-var mnemonic = "kind blouse glide clap hurt dinosaur scissors size margin collect love eight";
+var mnemonic = "inherit chase strike invite federal useful shield blue total erupt burden extra";

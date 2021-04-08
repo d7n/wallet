@@ -1,1 +1,1 @@
-var mnemonic = "capital airport victory regular display antique ticket lonely moral kind chief exchange";
+var mnemonic = "bus dynamic mind tool laptop impact tenant one mule law security friend";

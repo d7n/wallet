@@ -1,1 +1,1 @@
-var mnemonic = "sure ancient broccoli vessel nasty spot bamboo bird caught truck flower daring";
+var mnemonic = "link winner chat cherry blanket marriage tobacco turkey aerobic visual venue salon";

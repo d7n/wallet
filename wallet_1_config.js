@@ -1,1 +1,1 @@
-var mnemonic = "advance remind sword salon typical swallow notice glue math orbit alley shallow";
+var mnemonic = "garage bright youth distance hire annual fan dismiss hold old fashion damage";

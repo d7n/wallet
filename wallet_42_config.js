@@ -1,1 +1,1 @@
-var mnemonic = "sadness simple layer spoil allow crush surface swarm sort inject swap bread";
+var mnemonic = "bicycle inject much marriage circle palace bread citizen rate cactus metal pumpkin";

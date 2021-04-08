@@ -1,1 +1,1 @@
-var mnemonic = "lady sure kiwi property squirrel reveal buddy need dragon link switch captain";
+var mnemonic = "special teach wrong limb puzzle boost whip scorpion acid tongue deer vote";

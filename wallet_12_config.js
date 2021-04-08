@@ -1,1 +1,1 @@
-var mnemonic = "cabin machine runway dismiss void ship gorilla cube manage wish analyst jungle";
+var mnemonic = "all struggle trigger demand sight ivory bring uphold library spend loan skull";

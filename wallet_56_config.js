@@ -1,1 +1,1 @@
-var mnemonic = "dwarf runway truth boy laugh vague glove danger sign melt rubber virus";
+var mnemonic = "flash process donate cat cat buffalo cream annual need discover pattern like";

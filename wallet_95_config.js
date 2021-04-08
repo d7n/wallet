@@ -1,1 +1,1 @@
-var mnemonic = "multiply skirt vapor defy time side endless income mango boring leader helmet";
+var mnemonic = "again soccer pizza soon tribe sun idea trend grid steak august punch";

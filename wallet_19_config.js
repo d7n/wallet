@@ -1,1 +1,1 @@
-var mnemonic = "depend volume clever sunny stage impact shoe accident crane tone oven busy";
+var mnemonic = "harvest analyst fabric ankle soldier prison inner antique area jeans behind theme";

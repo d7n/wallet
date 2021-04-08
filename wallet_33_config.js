@@ -1,1 +1,1 @@
-var mnemonic = "liar chief cry month bring rib isolate hill public equal fall method";
+var mnemonic = "plug elegant ride tape resist fog struggle narrow chef crystal submit pipe";

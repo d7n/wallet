@@ -1,1 +1,1 @@
-var mnemonic = "play accident love erupt aerobic climb bomb regular fashion beyond art flight";
+var mnemonic = "embrace slide ring cupboard hungry sentence figure sick exotic hover morning crumble";

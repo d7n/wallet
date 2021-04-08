@@ -1,1 +1,1 @@
-var mnemonic = "physical hover series survey fruit ramp nose off tuition uncover mom vapor";
+var mnemonic = "gaze deputy slide spatial fee arena hello fee pudding victory photo blur";

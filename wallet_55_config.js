@@ -1,1 +1,1 @@
-var mnemonic = "screen volume step update desert high excess mad evolve snack mobile snake";
+var mnemonic = "friend check diary cloud grass earth inch man ladder dumb insane distance";

@@ -1,1 +1,1 @@
-var mnemonic = "undo width amount decrease private genre train robust guitar upset borrow myself";
+var mnemonic = "evoke text video addict fabric laugh horror supply atom census circle diagram";

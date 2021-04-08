@@ -1,1 +1,1 @@
-var mnemonic = "trumpet reflect tape smile provide reunion harsh angle illegal control blast nasty";
+var mnemonic = "judge owner tube dog skull spread seven ten admit decade virus law";

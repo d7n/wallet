@@ -1,1 +1,1 @@
-var mnemonic = "music forum hand nuclear regular height cake remove island pottery stove pilot";
+var mnemonic = "need enough fashion turtle earth frog link when chunk wrap spoon alert";

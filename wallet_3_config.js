@@ -1,1 +1,1 @@
-var mnemonic = "member assume pear renew crew sock luxury face benefit swear sadness front";
+var mnemonic = "leave force snow fancy metal adjust obtain remove blame olympic bonus civil";

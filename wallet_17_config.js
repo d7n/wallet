@@ -1,1 +1,1 @@
-var mnemonic = "luxury try stage great tiny glue protect pioneer again purpose connect pupil";
+var mnemonic = "edge replace limit ugly sustain laundry sad veteran fish title undo shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "desk smile simple sample decide exit shoe joke peace attack range mutual";
+var mnemonic = "bottom sniff sunny portion bid fatal coin series lumber tide trick genius";

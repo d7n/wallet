@@ -1,1 +1,1 @@
-var mnemonic = "park science crunch absorb depend comfort pen ramp one slide arrange wink";
+var mnemonic = "viable announce foot heavy dwarf erupt account filter flash found diamond latin";

@@ -1,1 +1,1 @@
-var mnemonic = "output oven what reason cattle antenna segment mutual tomorrow hurdle december water";
+var mnemonic = "cost boring check cricket target cable senior photo bitter hamster protect wall";

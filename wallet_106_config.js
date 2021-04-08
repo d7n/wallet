@@ -1,1 +1,1 @@
-var mnemonic = "pudding charge syrup win roof exhibit warrior appear idle era view inflict";
+var mnemonic = "ride meat mercy mango click exhaust torch myth budget spice easily afford";

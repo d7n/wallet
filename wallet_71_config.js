@@ -1,1 +1,1 @@
-var mnemonic = "voice humble album cash thing inspire erupt try ball genius pull toss";
+var mnemonic = "phrase train traffic destroy fog either amateur ticket hollow ordinary trophy want";

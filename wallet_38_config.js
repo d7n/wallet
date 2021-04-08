@@ -1,1 +1,1 @@
-var mnemonic = "enough pulse reveal museum infant bundle slogan click two infant supreme joke";
+var mnemonic = "point pilot ethics can tank shed right pluck rocket shoot recall inquiry";

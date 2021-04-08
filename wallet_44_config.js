@@ -1,1 +1,1 @@
-var mnemonic = "dilemma search place lonely title write liberty hold trust damp identify vehicle";
+var mnemonic = "split abstract already stove soldier swim honey cargo couch mosquito allow tip";

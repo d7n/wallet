@@ -1,1 +1,1 @@
-var mnemonic = "arm detect decorate divorce aware dry dial simple captain derive defy process";
+var mnemonic = "deer off captain coffee predict leisure hamster path jelly find stage usual";

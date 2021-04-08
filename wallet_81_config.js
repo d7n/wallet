@@ -1,1 +1,1 @@
-var mnemonic = "correct floor swamp frost quiz bottom garlic nuclear profit dignity scatter lonely";
+var mnemonic = "walnut visa wagon aerobic hero glance argue will final script stereo immense";

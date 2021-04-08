@@ -1,1 +1,1 @@
-var mnemonic = "song leave oak buyer iron mad dice infant squirrel soldier mosquito spin";
+var mnemonic = "library shallow exercise jazz border cloud pencil few palace few salt cannon";

@@ -1,1 +1,1 @@
-var mnemonic = "involve child toddler island useless script journey anchor powder genius section amazing";
+var mnemonic = "ecology path town index price ignore slam tree educate easy measure sentence";

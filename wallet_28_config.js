@@ -1,1 +1,1 @@
-var mnemonic = "lock income unhappy bridge margin start tuna crumble merit derive scout forget";
+var mnemonic = "scan alcohol basket faculty brand deputy start region entry fence police shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder antenna truck grab tennis team thought where deal wear file uniform";
+var mnemonic = "soldier enjoy estate orient tourist unable eagle blossom rate era caution faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "angry timber relief position want brave wonder chronic trust object fold people";
+var mnemonic = "wife genius aunt jelly cluster patient suggest copy guide food balcony vicious";

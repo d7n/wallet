@@ -1,1 +1,1 @@
-var mnemonic = "supreme craft poem private rude inmate reunion private bright address ice pilot";
+var mnemonic = "drink bullet asset energy rigid nominee subway travel devote shed spoon dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "grief tank usage immune brand edit vast vibrant know discover fantasy upon";
+var mnemonic = "arm slender fever clog erupt shine eye kangaroo people blame nature usual";

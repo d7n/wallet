@@ -1,1 +1,1 @@
-var mnemonic = "diet they random humble craft bundle nation hood ring cactus ribbon clutch";
+var mnemonic = "rough conduct purse list maid slam april then high share echo present";

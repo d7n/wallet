@@ -1,1 +1,1 @@
-var mnemonic = "awake chest raven manage grab pitch walk truth lizard arrive lobster dinosaur";
+var mnemonic = "trumpet siren bounce rent tube behave force priority tenant slogan once robot";

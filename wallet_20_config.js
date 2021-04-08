@@ -1,1 +1,1 @@
-var mnemonic = "enforce afford image outside saddle unable roast option build boost once replace";
+var mnemonic = "plug practice warfare other symbol outer donate yard swift pig donkey special";

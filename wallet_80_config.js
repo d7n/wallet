@@ -1,1 +1,1 @@
-var mnemonic = "awful lesson faint dizzy airport view scissors expand boost unfair myself march";
+var mnemonic = "vacuum action save abstract kiwi baby refuse depart shove habit mercy sting";

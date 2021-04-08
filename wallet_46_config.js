@@ -1,1 +1,1 @@
-var mnemonic = "bunker faculty issue tell situate gentle hammer brush joke snap figure tray";
+var mnemonic = "toe cactus quick stamp final term catalog ring tomorrow want okay assume";

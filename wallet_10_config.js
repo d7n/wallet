@@ -1,1 +1,1 @@
-var mnemonic = "trouble food myth slice meat barely quantum around unknown bunker theory together";
+var mnemonic = "dragon release spot thumb ability unusual capital napkin patient ignore solution opera";

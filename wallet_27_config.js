@@ -1,1 +1,1 @@
-var mnemonic = "project ensure saddle marble cigar then engage scare mirror day toddler when";
+var mnemonic = "acoustic gain abuse aware day orient dial proof tragic warm voyage guitar";
