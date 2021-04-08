@@ -1,1 +1,1 @@
-var mnemonic = "glare stairs crumble tissue square kangaroo height display sorry link build volume";
+var mnemonic = "giggle deputy cactus cheap fragile satoshi deal thumb fun drop fade carpet";

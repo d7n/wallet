@@ -1,1 +1,1 @@
-var mnemonic = "season friend repair lava impact badge pet floor ready swear spend green";
+var mnemonic = "raise skull case hope sand reflect balcony sting small brick consider broom";

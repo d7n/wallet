@@ -1,1 +1,1 @@
-var mnemonic = "agent morning hello walnut lunar spend couch oak sniff embody pencil swamp";
+var mnemonic = "select catch ignore advance antenna logic emerge brand say private fly obscure";

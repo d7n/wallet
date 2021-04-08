@@ -1,1 +1,1 @@
-var mnemonic = "index flock real ramp unknown moon detect tiny alone riot refuse arrive";
+var mnemonic = "project reunion gasp banner rack aisle lumber mask alpha never receive crowd";

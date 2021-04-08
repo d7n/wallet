@@ -1,1 +1,1 @@
-var mnemonic = "village travel balance brass lesson magic opinion potato runway double rabbit useless";
+var mnemonic = "weekend fatigue day veteran film gossip tourist hold jelly tiger glass pool";

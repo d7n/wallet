@@ -1,1 +1,1 @@
-var mnemonic = "glance cricket canal float box tenant shallow number wash remember rapid direct";
+var mnemonic = "zero ketchup suggest manual degree brand skate mansion fossil humble bid achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer manual fox claim hole glare actual enroll broken eternal happy session";
+var mnemonic = "slot sausage year add have obtain mule hawk hire beyond stool climb";

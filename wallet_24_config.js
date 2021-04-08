@@ -1,1 +1,1 @@
-var mnemonic = "seminar unveil tired double hub chase ketchup else unknown agree member toe";
+var mnemonic = "visual where phrase throw dad magnet talent regular push coconut discover almost";

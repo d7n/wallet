@@ -1,1 +1,1 @@
-var mnemonic = "travel false vacant trick force this off idea alarm frown square high";
+var mnemonic = "upset amused attract come dilemma shoot describe trophy rain surface dirt review";

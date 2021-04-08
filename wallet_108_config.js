@@ -1,1 +1,1 @@
-var mnemonic = "crouch loyal icon spare frog market cigar october muffin track grocery filter";
+var mnemonic = "shoot edge lift field slush consider close sadness cattle van stock face";

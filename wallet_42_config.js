@@ -1,1 +1,1 @@
-var mnemonic = "gather around capital dad dream double smooth open stool paddle gasp bargain";
+var mnemonic = "spot capital fade refuse exhaust liberty column victory lyrics cave lava play";

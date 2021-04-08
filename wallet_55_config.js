@@ -1,1 +1,1 @@
-var mnemonic = "crawl large shadow loop canvas uncover prefer noise library option lizard dilemma";
+var mnemonic = "forget enrich nuclear safe essence kitchen thrive screen awake file box select";

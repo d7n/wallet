@@ -1,1 +1,1 @@
-var mnemonic = "fine blood february image fat beyond session umbrella snap salmon cupboard fresh";
+var mnemonic = "marble glance ritual inhale easy shrug history stamp powder gravity discover gospel";

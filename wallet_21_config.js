@@ -1,1 +1,1 @@
-var mnemonic = "gossip quantum decline shield fiber orbit make powder merry alley tip bike";
+var mnemonic = "memory cart rhythm action wall north host ensure cancel alpha sick rapid";

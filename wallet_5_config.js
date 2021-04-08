@@ -1,1 +1,1 @@
-var mnemonic = "pig any tiny veteran install simple sustain hazard around purse arm feature";
+var mnemonic = "merit humor aspect myth science vapor lazy toe use liberty glide bicycle";

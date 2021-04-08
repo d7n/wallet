@@ -1,1 +1,1 @@
-var mnemonic = "expect energy fat original spy peasant black rack carpet early change extend";
+var mnemonic = "fiber enlist spider loop already fork setup shell program blouse slide task";

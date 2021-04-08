@@ -1,1 +1,1 @@
-var mnemonic = "heavy sport answer expand van above fence similar salad truth chuckle toss";
+var mnemonic = "since typical range jealous enter card panther tank neck bitter hand pudding";

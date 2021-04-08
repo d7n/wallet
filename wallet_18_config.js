@@ -1,1 +1,1 @@
-var mnemonic = "shove chaos time kiwi system comic pool hamster riot approve knee unlock";
+var mnemonic = "pottery version imitate crumble diet glide afraid recycle giraffe order come size";

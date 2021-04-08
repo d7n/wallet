@@ -1,1 +1,1 @@
-var mnemonic = "trust evolve use stage tilt faculty virus gallery day manage board quarter";
+var mnemonic = "focus kind endorse device comfort topic habit sport eternal crater wreck crucial";

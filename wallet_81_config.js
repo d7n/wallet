@@ -1,1 +1,1 @@
-var mnemonic = "march fitness make fee transfer black bread treat seat satoshi fall ancient";
+var mnemonic = "shock cruel rather life fatigue swim early grain squeeze fatal april replace";

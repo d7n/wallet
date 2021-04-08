@@ -1,1 +1,1 @@
-var mnemonic = "divert journey brave romance deer denial isolate century drift globe receive damage";
+var mnemonic = "sound margin license bachelor glimpse journey wolf enough dance extend fiber trim";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple alley assume spare dial suffer balcony reform puzzle inflict trust movie";
+var mnemonic = "mixture clutch elegant frog annual exact chuckle double focus minor summer fee";

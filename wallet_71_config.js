@@ -1,1 +1,1 @@
-var mnemonic = "deer stumble habit sword cruise finish hockey whip dinner mesh throw broccoli";
+var mnemonic = "bargain sport ill truck when misery clerk dash figure tent nature vague";

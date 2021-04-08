@@ -1,1 +1,1 @@
-var mnemonic = "drama elegant leisure soon danger exotic keen talent fitness tower proof improve";
+var mnemonic = "clarify convince also ridge expand bitter legend faculty february teach where reveal";

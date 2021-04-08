@@ -1,1 +1,1 @@
-var mnemonic = "found dress illness become nose cage display utility day adapt abandon quality";
+var mnemonic = "wise transfer joy file exclude pattern boost relax arm find elder draft";

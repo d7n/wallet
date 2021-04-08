@@ -1,1 +1,1 @@
-var mnemonic = "title canal noble drum among denial believe parade alert people same brass";
+var mnemonic = "detail twelve alpha relax pride olympic pelican close foam lyrics candy roast";

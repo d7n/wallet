@@ -1,1 +1,1 @@
-var mnemonic = "enough ice calm emerge quality chapter ocean leisure alcohol perfect doll release";
+var mnemonic = "board clerk ethics drum enable achieve stock marble benefit garbage awake ask";

@@ -1,1 +1,1 @@
-var mnemonic = "banner suit rival aware car crawl bid sad violin alien traffic apple";
+var mnemonic = "school excuse peanut three sample door green left measure second across front";

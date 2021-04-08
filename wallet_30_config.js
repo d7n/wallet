@@ -1,1 +1,1 @@
-var mnemonic = "wagon visual talk auto animal decrease width guard already shield vibrant gaze";
+var mnemonic = "liar hair copy chronic category seed struggle gap blur coin angry push";

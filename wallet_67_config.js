@@ -1,1 +1,1 @@
-var mnemonic = "project witness benefit chest mimic coin cool trim elite evidence army blanket";
+var mnemonic = "pudding net slow transfer sudden extend lunar simple this swift recycle ordinary";

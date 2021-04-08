@@ -1,1 +1,1 @@
-var mnemonic = "adapt mesh glide naive either whip day cloth rough result depth actress";
+var mnemonic = "moon tuna benefit captain brisk easily kitchen front run liberty head that";

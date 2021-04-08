@@ -1,1 +1,1 @@
-var mnemonic = "prison enroll point jacket reveal base frost tortoise tourist such demise couch";
+var mnemonic = "kitchen air cool absurd success task team size horse busy ensure session";

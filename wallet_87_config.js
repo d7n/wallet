@@ -1,1 +1,1 @@
-var mnemonic = "moon normal forest arm return noise great escape video during crunch dentist";
+var mnemonic = "main coach market body miss viable ability company artwork cram gun report";

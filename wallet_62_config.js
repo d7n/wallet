@@ -1,1 +1,1 @@
-var mnemonic = "walnut often bunker obtain stay shell horror reopen enable loop web decide";
+var mnemonic = "slush spring still lunch doctor gallery suffer whale busy crawl spatial rhythm";

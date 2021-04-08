@@ -1,1 +1,1 @@
-var mnemonic = "casual climb position rug party fury monster cabbage luggage burger thank pledge";
+var mnemonic = "symptom toddler stereo grow celery kiss erosion adjust simple then verb limb";

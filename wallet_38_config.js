@@ -1,1 +1,1 @@
-var mnemonic = "cargo excuse faith lamp unaware submit castle father bronze across wear prepare";
+var mnemonic = "topple divide image shine there ozone execute window canvas process evolve chair";

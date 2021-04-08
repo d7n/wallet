@@ -1,1 +1,1 @@
-var mnemonic = "jealous stomach bird property oblige injury cinnamon nest cabin hedgehog coach puppy";
+var mnemonic = "unusual nuclear mango carry boost logic nerve injury dream cute grace orient";

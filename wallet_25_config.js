@@ -1,1 +1,1 @@
-var mnemonic = "surface alone west proof force alone iron tilt retreat jacket energy chaos";
+var mnemonic = "clog mass rabbit antenna diagram wide sibling decrease gesture avoid canyon fence";

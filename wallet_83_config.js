@@ -1,1 +1,1 @@
-var mnemonic = "glass merge chicken exhaust aim tooth dose wild wolf shadow note frozen";
+var mnemonic = "police frame repeat economy daughter mother crazy express deer around heart jealous";

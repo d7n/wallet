@@ -1,1 +1,1 @@
-var mnemonic = "wasp benefit belt square fresh sugar erase wasp broken cloud thank glass";
+var mnemonic = "clean arch cry salute survey neutral ring crush surge work strong spy";

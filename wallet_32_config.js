@@ -1,1 +1,1 @@
-var mnemonic = "inmate mass relax club donor return odor mother immune unfair focus orphan";
+var mnemonic = "wreck advance busy owner diagram dignity receive wet torch kangaroo antique smooth";

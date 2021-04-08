@@ -1,1 +1,1 @@
-var mnemonic = "card capable brief grid escape nothing waste shaft welcome ice camp middle";
+var mnemonic = "health biology mistake deliver deal shrug ticket faint repeat memory spawn mouse";

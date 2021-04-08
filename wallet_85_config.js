@@ -1,1 +1,1 @@
-var mnemonic = "elegant traffic now age wire board library online stand shy prevent love";
+var mnemonic = "receive only kind swap hungry round pair blanket uniform guess embody bar";

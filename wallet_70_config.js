@@ -1,1 +1,1 @@
-var mnemonic = "aunt verify tomorrow jump leave extend such trash finger oval when identify";
+var mnemonic = "cream follow sting immense attract punch panel hub jealous unhappy ride betray";

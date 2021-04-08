@@ -1,1 +1,1 @@
-var mnemonic = "spider stem thrive brush people tonight physical forum tumble avoid also load";
+var mnemonic = "round lonely envelope craft better exotic matrix network dwarf ozone deal truth";

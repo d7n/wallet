@@ -1,1 +1,1 @@
-var mnemonic = "gentle couch escape wonder brown solution coral degree now suggest steel bind";
+var mnemonic = "system mouse reveal begin sentence fish acid delay else erosion journey flash";

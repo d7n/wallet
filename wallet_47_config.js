@@ -1,1 +1,1 @@
-var mnemonic = "invest diamond thing decorate mixture accident advance balance already come person upper";
+var mnemonic = "either legal game vendor inflict later name embrace boil include circle leave";

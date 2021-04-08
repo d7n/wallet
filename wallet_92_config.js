@@ -1,1 +1,1 @@
-var mnemonic = "faith stove asset lumber orient grain eternal they army captain rib unfair";
+var mnemonic = "educate fade spy park require sock canvas develop garden time avoid science";

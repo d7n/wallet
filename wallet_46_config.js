@@ -1,1 +1,1 @@
-var mnemonic = "destroy business accident minute jealous stay wild liar high push child fresh";
+var mnemonic = "special crouch reason finish foster slow cake west weapon science fork firm";

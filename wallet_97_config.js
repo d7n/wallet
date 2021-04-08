@@ -1,1 +1,1 @@
-var mnemonic = "visit soldier segment observe next despair produce garment rely swamp fold mixed";
+var mnemonic = "ritual rent nephew unknown topple rifle copper mother photo crater cage buddy";

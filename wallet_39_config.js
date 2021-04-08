@@ -1,1 +1,1 @@
-var mnemonic = "wheel armed beef engine shift citizen provide hunt sphere million suit section";
+var mnemonic = "win young calm warm board worry gentle cook step wolf parade exchange";

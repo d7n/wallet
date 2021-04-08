@@ -1,1 +1,1 @@
-var mnemonic = "guess matrix ready amused orphan bundle spoon bamboo sorry token gap dinosaur";
+var mnemonic = "fever document asthma great modify digital spawn liberty unit road today curve";

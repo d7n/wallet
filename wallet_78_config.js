@@ -1,1 +1,1 @@
-var mnemonic = "alert visit depend same school walnut enact awkward transfer mixed apple immense";
+var mnemonic = "today return cereal rich merry parent snake motor harsh barely weapon weather";

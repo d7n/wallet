@@ -1,1 +1,1 @@
-var mnemonic = "path sheriff shift step favorite help feed jaguar excess claw yellow cool";
+var mnemonic = "found account street congress step nephew faint exchange relief sister stamp swamp";

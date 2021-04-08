@@ -1,1 +1,1 @@
-var mnemonic = "advance coil guilt stick hurdle cat only evil minute toss labor gas";
+var mnemonic = "sad record boring canoe north demise actual spike session modify lecture clip";

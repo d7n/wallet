@@ -1,1 +1,1 @@
-var mnemonic = "nephew remove ring latin junior timber time result swap dumb student kite";
+var mnemonic = "atom pottery brain recipe unlock maze zero struggle weird episode give disease";

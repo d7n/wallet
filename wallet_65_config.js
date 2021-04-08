@@ -1,1 +1,1 @@
-var mnemonic = "believe autumn hammer scrap notable pool funny fantasy bleak control noodle finger";
+var mnemonic = "account sheriff price core found eyebrow badge mind notice reform enable movie";

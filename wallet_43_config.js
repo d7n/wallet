@@ -1,1 +1,1 @@
-var mnemonic = "vocal curve hour pupil quarter note long fuel daring under offer possible";
+var mnemonic = "quick hamster mercy worry vivid slogan spare ridge pottery anxiety pipe extra";

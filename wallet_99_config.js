@@ -1,1 +1,1 @@
-var mnemonic = "draw crash come disorder rail bacon spirit consider horror announce emotion eight";
+var mnemonic = "uniform logic average steak wasp advance attend fold sugar lonely punch term";

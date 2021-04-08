@@ -1,1 +1,1 @@
-var mnemonic = "supreme comfort special together teach devote correct dance stand youth toe axis";
+var mnemonic = "vanish gadget situate oven burst lawsuit grain pistol type coyote between talk";

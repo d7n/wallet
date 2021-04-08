@@ -1,1 +1,1 @@
-var mnemonic = "limb mechanic dolphin market draw decline where whale worth genre easy bleak";
+var mnemonic = "average nation security nation dune speak course swim aim swing tomorrow shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme race donor gentle since usual bunker remind machine series sunny distance";
+var mnemonic = "quality traffic essay deal voyage decade neutral pattern agree round clown volume";

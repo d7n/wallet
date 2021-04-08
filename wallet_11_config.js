@@ -1,1 +1,1 @@
-var mnemonic = "half disagree ketchup husband donkey desk bullet under service good poem gentle";
+var mnemonic = "habit salt proof return chuckle assist cream adapt cream shock hard mixed";

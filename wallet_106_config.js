@@ -1,1 +1,1 @@
-var mnemonic = "roast figure file horn enact pencil merry bone purchase deposit adjust lunch";
+var mnemonic = "venture cactus pumpkin carbon industry health panel emerge mosquito wheat attack apology";

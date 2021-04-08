@@ -1,1 +1,1 @@
-var mnemonic = "image abstract produce donor leisure embody wise eternal people local humble service";
+var mnemonic = "captain bomb large uncover teach illegal congress cart rhythm wrist key despair";

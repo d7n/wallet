@@ -1,1 +1,1 @@
-var mnemonic = "lunch unhappy blossom course runway lava general visa remind mansion invite pulp";
+var mnemonic = "patch blast radar viable liquid awake virtual mesh spy wagon inquiry flat";

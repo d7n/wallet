@@ -1,1 +1,1 @@
-var mnemonic = "trend game journey devote wrong good absorb fringe apart globe win fluid";
+var mnemonic = "clog end inherit joke dolphin fan sleep gas walnut page stage fruit";

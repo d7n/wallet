@@ -1,1 +1,1 @@
-var mnemonic = "cupboard baby topple auto smoke flush entire crisp birth rather tree useless";
+var mnemonic = "issue bring abstract dial task nephew dinosaur anchor visit bid visa olympic";

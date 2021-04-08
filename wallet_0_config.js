@@ -1,1 +1,1 @@
-var mnemonic = "drastic miss essence maple brief inner away syrup rocket face correct orbit";
+var mnemonic = "resist sponsor giraffe fade fine snack mix hub quiz monitor minimum typical";

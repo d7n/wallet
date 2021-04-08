@@ -1,1 +1,1 @@
-var mnemonic = "hollow huge marine guilt salmon test strong amazing easily also essay crumble";
+var mnemonic = "outside song edit brick injury tissue baby discover doll palm never top";

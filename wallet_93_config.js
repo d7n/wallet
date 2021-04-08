@@ -1,1 +1,1 @@
-var mnemonic = "worry worry easily arrange apology riot they keep cheese ritual save illness";
+var mnemonic = "admit palm punch ocean abuse era pill attract must vanish wool team";

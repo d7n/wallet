@@ -1,1 +1,1 @@
-var mnemonic = "parrot render noise since used display tide ribbon omit pave spell upset";
+var mnemonic = "renew piece fat tobacco print push nation idea fade blur video volcano";

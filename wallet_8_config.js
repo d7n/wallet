@@ -1,1 +1,1 @@
-var mnemonic = "bargain curious what burden happy mushroom blood tent calm concert purpose exile";
+var mnemonic = "still pudding pilot member bonus erupt news oyster develop spy secret slush";

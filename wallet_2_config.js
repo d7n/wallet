@@ -1,1 +1,1 @@
-var mnemonic = "carbon tired family forest slice shaft decide ahead banner exclude jump huge";
+var mnemonic = "public stable prize prefer monitor blur toddler gloom patient behind biology flock";

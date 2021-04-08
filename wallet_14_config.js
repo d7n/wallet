@@ -1,1 +1,1 @@
-var mnemonic = "gain gym fiscal snap lunar filter point gold pole mother crane elite";
+var mnemonic = "tragic two club example regret glad witness phone behave urban pole hurry";

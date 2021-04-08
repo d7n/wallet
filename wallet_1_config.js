@@ -1,1 +1,1 @@
-var mnemonic = "possible tomorrow amazing dove thunder ramp regret trophy mango height plastic obscure";
+var mnemonic = "wave shrug tobacco argue hedgehog work proud manual source giraffe labor basket";

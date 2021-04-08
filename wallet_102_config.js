@@ -1,1 +1,1 @@
-var mnemonic = "cat vanish crouch miss give naive fat believe weekend success music dentist";
+var mnemonic = "lunch ship april rigid video someone joke brave benefit bike future skirt";

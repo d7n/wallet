@@ -1,1 +1,1 @@
-var mnemonic = "mesh crisp tattoo company choice cream easily reward skill stool weasel uniform";
+var mnemonic = "spice monkey struggle ordinary alarm myth work artefact tag all impulse stem";

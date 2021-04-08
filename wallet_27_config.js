@@ -1,1 +1,1 @@
-var mnemonic = "hello trim receive hundred ecology ten brisk keen eager blue jungle tree";
+var mnemonic = "auto afford oxygen rhythm forward material churn eye pride fall brain video";

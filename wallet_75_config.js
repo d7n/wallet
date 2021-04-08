@@ -1,1 +1,1 @@
-var mnemonic = "decrease pair gather champion pact evolve fatigue flee night main shadow crop";
+var mnemonic = "camera habit memory first faculty flush catch expose trigger census elder unveil";

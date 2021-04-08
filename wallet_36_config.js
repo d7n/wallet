@@ -1,1 +1,1 @@
-var mnemonic = "blast salad vendor laugh surge tail tobacco fan venture embark water science";
+var mnemonic = "coconut grid alarm upon immense soft protect nut obvious one lend horror";

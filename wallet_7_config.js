@@ -1,1 +1,1 @@
-var mnemonic = "bid main wall snow tumble around window office hollow prevent napkin ice";
+var mnemonic = "debris dizzy stand soccer love salute raise venue crowd amateur piece enforce";

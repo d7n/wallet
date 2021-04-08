@@ -1,1 +1,1 @@
-var mnemonic = "series stairs victory desk truck primary spend wage conduct end boss duck";
+var mnemonic = "nasty before surround poverty cave name hamster hazard order finger giant equal";

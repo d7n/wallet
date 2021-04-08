@@ -1,1 +1,1 @@
-var mnemonic = "bronze problem popular pepper siren glance scene change tired away hidden kitchen";
+var mnemonic = "breeze jazz van october fine rural broccoli nasty round bamboo head mountain";

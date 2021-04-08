@@ -1,1 +1,1 @@
-var mnemonic = "wrap rough remove wedding sweet slab world kind valid cement shrug fatal";
+var mnemonic = "race case sort mistake state drift voice twist ensure response ensure cloth";

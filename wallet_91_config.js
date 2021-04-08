@@ -1,1 +1,1 @@
-var mnemonic = "toss ripple tonight come crystal poem tilt frequent dignity comfort famous possible";
+var mnemonic = "express coyote apology village flavor tribe hungry horn must addict pig fish";

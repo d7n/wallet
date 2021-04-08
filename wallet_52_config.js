@@ -1,1 +1,1 @@
-var mnemonic = "analyst wide solution drink anger tail leg ring forest blame dream purpose";
+var mnemonic = "spin judge brother ginger tree ranch galaxy advice start pattern flash sort";

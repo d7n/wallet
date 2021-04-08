@@ -1,1 +1,1 @@
-var mnemonic = "post bounce chief kitchen brown noodle color mistake way poem skirt grunt";
+var mnemonic = "snow situate hour deputy destroy shrimp sea expire wet concert include fiber";

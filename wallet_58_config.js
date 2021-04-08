@@ -1,1 +1,1 @@
-var mnemonic = "record company discover social you travel logic poem language museum bleak fame";
+var mnemonic = "once girl elbow follow soon off tide celery broccoli bargain era timber";

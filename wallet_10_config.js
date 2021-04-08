@@ -1,1 +1,1 @@
-var mnemonic = "claw great rack project wear antenna clog any empty achieve dirt forest";
+var mnemonic = "plunge verb acquire cube prosper humble stable vehicle milk meadow blur exhaust";
