@@ -1,1 +1,1 @@
-var mnemonic = "twice seminar olive obscure village slot like switch hard run easy globe";
+var mnemonic = "member issue hammer tongue fever arctic odor jar volcano ignore pass sand";

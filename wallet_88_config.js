@@ -1,1 +1,1 @@
-var mnemonic = "chapter route advice outer report august agree weird series reveal deal bronze";
+var mnemonic = "neither rhythm wish copper situate whisper crack festival siege combine rare arrest";

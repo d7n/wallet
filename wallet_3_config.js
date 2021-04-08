@@ -1,1 +1,1 @@
-var mnemonic = "setup snow desert wall south frequent merge move bus nothing other candy";
+var mnemonic = "silk joke crop win art example iron attract cricket venue history give";

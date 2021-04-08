@@ -1,1 +1,1 @@
-var mnemonic = "pencil square budget icon balcony legal approve behind few giant stereo dutch";
+var mnemonic = "sand enact soda rich roast kiwi invite virus guard boy lobster again";

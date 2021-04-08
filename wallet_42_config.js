@@ -1,1 +1,1 @@
-var mnemonic = "picture segment exclude expand april vessel ecology slide garlic eager limit habit";
+var mnemonic = "robot rug motor obscure radio neither embody sunset goddess fetch country undo";

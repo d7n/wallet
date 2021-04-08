@@ -1,1 +1,1 @@
-var mnemonic = "nice oblige comic squirrel rent roof receive that radar surround maximum airport";
+var mnemonic = "size comfort mansion symbol undo silver sister bacon bronze deal shell health";

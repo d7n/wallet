@@ -1,1 +1,1 @@
-var mnemonic = "sugar slice furnace gather plug any gadget slender trade earn salt original";
+var mnemonic = "cancel hour sign riot desert sugar replace marine fashion nominee bus tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "sense clinic later obtain type bounce brown school cat token film soccer";
+var mnemonic = "ice turn confirm border goose laugh history where couch pledge chicken smooth";

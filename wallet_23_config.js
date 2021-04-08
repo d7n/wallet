@@ -1,1 +1,1 @@
-var mnemonic = "blind orchard document peace swim inch hurt valley text surprise basket absorb";
+var mnemonic = "rent coast churn holiday monitor grab lawsuit impose talk donate vocal visit";

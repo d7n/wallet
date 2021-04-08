@@ -1,1 +1,1 @@
-var mnemonic = "volume tenant ritual fabric nice still soap click desert raw reveal apology";
+var mnemonic = "amazing trip fetch problem isolate vapor wheel gloom bomb oblige prefer fire";

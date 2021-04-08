@@ -1,1 +1,1 @@
-var mnemonic = "auction foam repeat mix edit tent rough wasp bike aisle upset fee";
+var mnemonic = "discover ribbon flat mobile rate dream cabbage chicken spin sense hedgehog hedgehog";

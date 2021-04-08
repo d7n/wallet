@@ -1,1 +1,1 @@
-var mnemonic = "wet seat suggest dutch vibrant bachelor gauge talk youth car clap differ";
+var mnemonic = "once butter segment ocean volume uniform buffalo model drink miss bacon disease";

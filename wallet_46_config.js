@@ -1,1 +1,1 @@
-var mnemonic = "afford cereal loud laugh giggle perfect wait dinosaur pipe catalog dumb daughter";
+var mnemonic = "spoon output desk erode scorpion wrong usual opera acid horn outer column";

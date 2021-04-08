@@ -1,1 +1,1 @@
-var mnemonic = "risk olympic artefact also skate dutch coast flash solar auction rival hard";
+var mnemonic = "fuel victory problem raise shoot fiber expand veteran jealous loan reason brain";

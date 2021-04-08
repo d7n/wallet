@@ -1,1 +1,1 @@
-var mnemonic = "sword cloth twice pact mimic piano battle sustain arrow inner gasp couch";
+var mnemonic = "avocado retreat like left earn chair want monitor carpet chronic frame word";

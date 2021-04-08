@@ -1,1 +1,1 @@
-var mnemonic = "mercy faith actress sand festival shadow reveal turn huge kangaroo fringe brush";
+var mnemonic = "method skirt next bless nose laugh eyebrow settle also update leader protect";

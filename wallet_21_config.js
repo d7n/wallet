@@ -1,1 +1,1 @@
-var mnemonic = "ozone party cram salmon wink tent mad champion mammal win indicate pulse";
+var mnemonic = "law company honey tourist donor fringe today bulb nature season junk visa";

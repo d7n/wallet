@@ -1,1 +1,1 @@
-var mnemonic = "lawn marriage priority sample tool trap car inch load fix vibrant sunset";
+var mnemonic = "wet level hood share favorite parade flavor fetch arena permit twist carbon";

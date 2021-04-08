@@ -1,1 +1,1 @@
-var mnemonic = "unusual author damage noodle gadget prefer clever pride harvest virus mutual double";
+var mnemonic = "blade crowd before hazard skate surge skate because sound acoustic buffalo flavor";

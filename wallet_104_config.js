@@ -1,1 +1,1 @@
-var mnemonic = "cabbage close east sauce first gentle random evil deputy pepper letter scorpion";
+var mnemonic = "juice system surface toast verb neutral pride skull february jealous gap tattoo";

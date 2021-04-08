@@ -1,1 +1,1 @@
-var mnemonic = "steel stamp tiny save urban sphere twin satisfy second hawk gold ankle";
+var mnemonic = "cash quick print view ghost craft hurry harsh harbor river bounce dinosaur";

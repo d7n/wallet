@@ -1,1 +1,1 @@
-var mnemonic = "update leaf process force task occur shoot whale luxury novel toward onion";
+var mnemonic = "wife must know buzz list riot basic practice enjoy border rice cinnamon";

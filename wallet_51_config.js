@@ -1,1 +1,1 @@
-var mnemonic = "fabric swear loop undo crazy snake actress chase meadow crane task breeze";
+var mnemonic = "seven room carpet problem custom scatter involve october skin index curious vintage";

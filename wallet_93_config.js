@@ -1,1 +1,1 @@
-var mnemonic = "cage moon motion salute report organ install toward much clutch embark naive";
+var mnemonic = "scatter useful shine bounce cement tent anchor cattle industry festival horror wedding";

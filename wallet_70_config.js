@@ -1,1 +1,1 @@
-var mnemonic = "account parrot thrive mystery glue fish subject pond input copy trap duty";
+var mnemonic = "emerge breeze fresh joke scout grit voice correct elite talk also point";

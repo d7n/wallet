@@ -1,1 +1,1 @@
-var mnemonic = "hamster trip sadness flock smile bitter armor century hover diary ugly other";
+var mnemonic = "ramp wool bitter sort program add rain loyal comfort inflict asthma end";

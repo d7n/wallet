@@ -1,1 +1,1 @@
-var mnemonic = "milk water cactus glow hobby business shell stage radio weekend toddler shed";
+var mnemonic = "apple wing age health version occur fit genuine across dream oak clump";

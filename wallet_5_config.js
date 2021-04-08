@@ -1,1 +1,1 @@
-var mnemonic = "reflect reflect early hover across clay area iron exit target panel couch";
+var mnemonic = "feature gravity pass people tonight list attitude benefit insect garlic snack foam";

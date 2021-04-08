@@ -1,1 +1,1 @@
-var mnemonic = "reduce rubber define rotate fringe bracket turtle burst donkey unknown fork ensure";
+var mnemonic = "liar return hole cost point extra fringe broken please thunder used solid";

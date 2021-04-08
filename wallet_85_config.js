@@ -1,1 +1,1 @@
-var mnemonic = "adapt grass energy alien honey kiwi desk height timber expect slot scheme";
+var mnemonic = "small dizzy hand exhibit nature primary notice draft flock length awake kitchen";

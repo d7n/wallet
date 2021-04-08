@@ -1,1 +1,1 @@
-var mnemonic = "episode ignore mansion menu filter height pet rigid tooth evoke night shaft";
+var mnemonic = "draft method tennis orange sample ostrich fat tank want warfare regret oak";

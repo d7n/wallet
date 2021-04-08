@@ -1,1 +1,1 @@
-var mnemonic = "pulse will distance spike hurt cave nature credit system agent original pepper";
+var mnemonic = "anxiety result photo attack zebra business lazy left polar three fancy column";

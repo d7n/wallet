@@ -1,1 +1,1 @@
-var mnemonic = "picnic thank valve bronze gaze swim medal huge flame chase abuse shadow";
+var mnemonic = "someone salon clock scheme catch snap want gentle program nuclear vague mix";

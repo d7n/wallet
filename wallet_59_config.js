@@ -1,1 +1,1 @@
-var mnemonic = "tell coffee garment tomorrow pond decade shell apple wave social comic tuna";
+var mnemonic = "family much security agree connect clip any hamster dumb always canoe spawn";

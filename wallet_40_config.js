@@ -1,1 +1,1 @@
-var mnemonic = "member bullet guess civil fashion attract north toast truth spend speak section";
+var mnemonic = "ability begin one caught funny remember dynamic slogan cannon health orange become";

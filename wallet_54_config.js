@@ -1,1 +1,1 @@
-var mnemonic = "young zero vessel check clock scout pitch tomato firm bomb cricket tell";
+var mnemonic = "vibrant clip moon time ketchup envelope nerve garage mobile patrol jaguar hint";

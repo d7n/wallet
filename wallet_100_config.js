@@ -1,1 +1,1 @@
-var mnemonic = "army rare common stable cabbage nation fat track junior neutral fork scatter";
+var mnemonic = "nut valley best trip lizard burden nurse barely album fat stay skirt";

@@ -1,1 +1,1 @@
-var mnemonic = "flush quality person problem invest noise catch quantum grass spring high renew";
+var mnemonic = "visit symptom utility carpet travel dismiss anxiety toss convince culture choice wheat";

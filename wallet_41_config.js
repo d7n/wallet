@@ -1,1 +1,1 @@
-var mnemonic = "dial north dove sibling demise actual rifle tower museum spend blame pet";
+var mnemonic = "kid lab swear turn shove mosquito similar jaguar census give lazy dream";

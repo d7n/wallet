@@ -1,1 +1,1 @@
-var mnemonic = "submit snow doctor fee inside visual senior lock retire dose electric vote";
+var mnemonic = "large toast coyote super ice course innocent remember machine hen cattle hospital";

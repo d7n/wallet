@@ -1,1 +1,1 @@
-var mnemonic = "render eight toast produce firm shoe render sphere mix attitude bomb mercy";
+var mnemonic = "dance resemble style visa skull snack public hungry scissors point budget tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "essay tiny tumble spin adult test garment pyramid innocent peasant brick agent";
+var mnemonic = "monkey best embody truth slice spike toe lion salad you plunge damp";

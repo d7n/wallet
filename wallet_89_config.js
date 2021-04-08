@@ -1,1 +1,1 @@
-var mnemonic = "member method depart picture dress meat meadow update crack host kiwi arch";
+var mnemonic = "hello cherry scissors tape news cactus hen item kangaroo analyst frame picture";

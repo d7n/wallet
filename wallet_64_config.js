@@ -1,1 +1,1 @@
-var mnemonic = "hair release learn birth assist win diagram culture outer sorry chief crucial";
+var mnemonic = "quality near genius foil laptop film exile menu evoke shrimp couple obtain";

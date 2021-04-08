@@ -1,1 +1,1 @@
-var mnemonic = "ice define unveil prison man stay trip peanut luxury joke soap various";
+var mnemonic = "brush cattle whip cheap lake prepare final dignity argue puppy prevent alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain utility attitude absent level share cause lion rabbit honey merit vicious";
+var mnemonic = "borrow asthma cycle ketchup salute awesome trim capable paper error evidence stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor airport hybrid famous peace visit crucial very dilemma help sun marble";
+var mnemonic = "uniform conduct hockey swing captain miracle indoor weather supply cricket hire hub";

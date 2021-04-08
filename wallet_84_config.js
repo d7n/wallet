@@ -1,1 +1,1 @@
-var mnemonic = "piano clean alcohol bleak soul embark entry economy size ill total lab";
+var mnemonic = "execute shoe trust exact rotate insect nose pencil pen sheriff able mention";

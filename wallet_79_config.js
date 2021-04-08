@@ -1,1 +1,1 @@
-var mnemonic = "pigeon stick antique analyst talent heavy badge forum walnut pass drama agent";
+var mnemonic = "combine state lock video neither chase empower swift tail garlic solve orchard";

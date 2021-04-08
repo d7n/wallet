@@ -1,1 +1,1 @@
-var mnemonic = "this coach devote master twist autumn trash assist pudding judge globe apology";
+var mnemonic = "scale artefact wide discover faculty address asset gate treat surface heavy discover";

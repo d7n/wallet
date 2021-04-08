@@ -1,1 +1,1 @@
-var mnemonic = "fame language across kitchen sample reject glimpse satoshi crack impose private frog";
+var mnemonic = "raven stock surround banner market usual tissue staff hello expand useless opera";

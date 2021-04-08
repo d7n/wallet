@@ -1,1 +1,1 @@
-var mnemonic = "hospital junior ability hour over lake siren coyote blame illegal sketch strategy";
+var mnemonic = "ten tomato inch blind zone cross hospital field image damage birth end";

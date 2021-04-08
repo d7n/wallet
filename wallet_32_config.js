@@ -1,1 +1,1 @@
-var mnemonic = "inhale foil verb grid target drink pulp multiply trial disagree immense spy";
+var mnemonic = "demise doctor shock penalty dragon section sentence endorse liberty athlete chase food";

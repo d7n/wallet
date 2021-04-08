@@ -1,1 +1,1 @@
-var mnemonic = "identify bonus dash feature video subject fan cigar genius advance survey trumpet";
+var mnemonic = "lumber camp menu rate juice three pattern pattern will rally regular tonight";

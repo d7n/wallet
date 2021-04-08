@@ -1,1 +1,1 @@
-var mnemonic = "once almost final zebra chest victory glad arrange that lamp view discover";
+var mnemonic = "hood gym all grass bean orange believe chat menu lumber ask paper";

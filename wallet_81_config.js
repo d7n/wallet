@@ -1,1 +1,1 @@
-var mnemonic = "cruel room crisp luxury depend tuition track drill typical twice ignore play";
+var mnemonic = "industry scrub always library black surround genuine spatial mean clutch need analyst";

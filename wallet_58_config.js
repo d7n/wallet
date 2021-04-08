@@ -1,1 +1,1 @@
-var mnemonic = "neutral outer phone sock still distance illness river custom chef elegant switch";
+var mnemonic = "goddess deputy sponsor tape merge much noble quantum fatal steak genius impulse";

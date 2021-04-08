@@ -1,1 +1,1 @@
-var mnemonic = "slogan couple artist amazing canal reward used diet genius arctic decade noble";
+var mnemonic = "turkey enable boring toward dash trade scissors enjoy chuckle almost neglect fetch";

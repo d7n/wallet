@@ -1,1 +1,1 @@
-var mnemonic = "interest remember alarm body fame boring usual actual cool circle twice control";
+var mnemonic = "model chicken work income exhaust into time three cheese bring office hub";

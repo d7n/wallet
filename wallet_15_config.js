@@ -1,1 +1,1 @@
-var mnemonic = "certain speed much misery sea toddler permit bacon midnight immense club dwarf";
+var mnemonic = "shrug legal uniform move actor alone cup valid near rifle cloth ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "elegant lottery panther grant security monster badge bone action valid all net";
+var mnemonic = "dry lock brisk divide quick silk curious slush extra action rough there";

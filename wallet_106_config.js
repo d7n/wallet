@@ -1,1 +1,1 @@
-var mnemonic = "hollow track athlete hope wedding athlete nice replace monkey record powder attend";
+var mnemonic = "sight heavy frog clever region link umbrella warm body follow cool know";

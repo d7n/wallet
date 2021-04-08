@@ -1,1 +1,1 @@
-var mnemonic = "plunge tool piece bring spring catalog trophy obey essay arrange decline twin";
+var mnemonic = "image enter crucial wolf inch select brain high arrive canvas patient resemble";

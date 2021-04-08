@@ -1,1 +1,1 @@
-var mnemonic = "train useful pact swing invest spoil daring side safe history vital online";
+var mnemonic = "law rely knock rather cabin poverty liquid salt gold minimum chair box";

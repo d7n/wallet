@@ -1,1 +1,1 @@
-var mnemonic = "moment broom canyon swing afford traffic document antenna pact addict repair doctor";
+var mnemonic = "thumb sentence torch custom echo region affair author wasp cactus buddy arm";

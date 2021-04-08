@@ -1,1 +1,1 @@
-var mnemonic = "adapt asthma disagree rubber allow basic scrap powder trouble dragon fabric tuition";
+var mnemonic = "live turkey today seven slice blame garden prefer oval divorce opinion tribe";

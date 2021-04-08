@@ -1,1 +1,1 @@
-var mnemonic = "situate vibrant oak change olive alert peace spy country drum output confirm";
+var mnemonic = "trade woman shell crawl neutral water spoon foster raven flavor camp broken";

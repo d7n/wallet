@@ -1,1 +1,1 @@
-var mnemonic = "stage car monitor crop ask record razor second gentle famous filter slight";
+var mnemonic = "romance put biology able file split quick hidden solid math canal soon";

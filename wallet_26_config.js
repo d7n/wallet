@@ -1,1 +1,1 @@
-var mnemonic = "violin myth powder fan market afford dynamic upgrade salmon news mushroom lottery";
+var mnemonic = "laptop punch orphan rally employ place bean wrap owner year hope screen";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty ostrich kangaroo shuffle intact orient order attack effort neither pelican name";
+var mnemonic = "answer slender wood length obey blind virus leaf robust harbor ring joke";

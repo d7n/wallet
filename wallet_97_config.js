@@ -1,1 +1,1 @@
-var mnemonic = "teach cheap laptop latin category lake sound knee indoor basic easily joy";
+var mnemonic = "black frown sadness produce phone night cover cloud spend spell foster tide";

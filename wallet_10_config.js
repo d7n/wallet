@@ -1,1 +1,1 @@
-var mnemonic = "stone can voice short nurse clump lottery slight dance topple bird force";
+var mnemonic = "athlete hurry essence powder merit easy mix blanket image mercy athlete pistol";

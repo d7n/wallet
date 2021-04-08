@@ -1,1 +1,1 @@
-var mnemonic = "deal little twist surface picnic perfect distance weekend empty snow aim latin";
+var mnemonic = "idea cereal arrive heart laptop cost mad sand soul face soft oyster";

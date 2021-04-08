@@ -1,1 +1,1 @@
-var mnemonic = "female federal glue check club funny sea bind tongue wisdom change obtain";
+var mnemonic = "fresh noise mother view lift orange club tip legal stand picture kid";

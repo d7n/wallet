@@ -1,1 +1,1 @@
-var mnemonic = "eagle make cause wine label response kit ripple advance property protect plastic";
+var mnemonic = "machine mother admit upon balcony subject unfold alert sand fitness grunt pond";

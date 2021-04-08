@@ -1,1 +1,1 @@
-var mnemonic = "symbol test link sniff enhance oppose list skin shallow fit vintage guess";
+var mnemonic = "reflect asthma gym claw dynamic wisdom brass leaf unveil aim normal tomorrow";

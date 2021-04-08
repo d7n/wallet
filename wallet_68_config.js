@@ -1,1 +1,1 @@
-var mnemonic = "gold resist someone divorce window crystal clinic wink scene disorder column call";
+var mnemonic = "gas clever hat mouse abstract detail patch vapor nut song mosquito damp";

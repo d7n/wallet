@@ -1,1 +1,1 @@
-var mnemonic = "avoid special someone argue upset clinic east scale lion couple utility long";
+var mnemonic = "hand cinnamon gaze anger buyer donor speak thrive urge tent champion tag";

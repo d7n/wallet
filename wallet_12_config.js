@@ -1,1 +1,1 @@
-var mnemonic = "net deal fog flush offer bronze quantum pistol agent front cave own";
+var mnemonic = "clinic scare tomato trophy march spoon churn minimum hover boring language group";

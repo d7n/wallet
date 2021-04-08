@@ -1,1 +1,1 @@
-var mnemonic = "pigeon tree cement pizza saddle purse acoustic market dove attend nuclear follow";
+var mnemonic = "soul dream toe wish battle alley slight rent book wink tobacco purpose";

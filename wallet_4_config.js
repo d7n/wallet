@@ -1,1 +1,1 @@
-var mnemonic = "dog cereal inhale orphan shield skate crop fall faint buddy fade chief";
+var mnemonic = "innocent dial live fiscal dumb vague boat weapon accident pass penalty long";

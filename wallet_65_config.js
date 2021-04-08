@@ -1,1 +1,1 @@
-var mnemonic = "iron bicycle route author decide illegal apart excuse federal burden target asthma";
+var mnemonic = "lumber gasp energy mixed sell refuse desert gauge wife memory switch trade";

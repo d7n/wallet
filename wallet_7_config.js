@@ -1,1 +1,1 @@
-var mnemonic = "easily exercise tip crew patch enroll weasel unhappy inject alpha open try";
+var mnemonic = "round weather coach clog case devote twin bring woman pig concert huge";

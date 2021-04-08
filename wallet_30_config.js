@@ -1,1 +1,1 @@
-var mnemonic = "happy century job what tennis hill sign tide stool clock panda climb";
+var mnemonic = "together sheriff govern wet clog hungry brave rookie cube pull choice blue";

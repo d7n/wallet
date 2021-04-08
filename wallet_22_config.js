@@ -1,1 +1,1 @@
-var mnemonic = "elephant crouch uniform company virtual chest husband embrace squeeze destroy student amateur";
+var mnemonic = "panda what gospel hill outside skate skill park remind machine shoe can";

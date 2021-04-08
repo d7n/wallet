@@ -1,1 +1,1 @@
-var mnemonic = "human auto weapon great claim main poet negative pony mom obtain liberty";
+var mnemonic = "address raw split armor issue rare option fiscal swing win bonus dwarf";

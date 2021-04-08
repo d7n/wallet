@@ -1,1 +1,1 @@
-var mnemonic = "move output party priority pulp purchase feel veteran prize repeat assist thought";
+var mnemonic = "lumber air winter intact ketchup setup avocado kitten cube omit heavy clarify";
