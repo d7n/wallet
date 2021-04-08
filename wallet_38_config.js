@@ -1,1 +1,1 @@
-var mnemonic = "law gentle jaguar proud metal rigid panic north arch collect silent limit";
+var mnemonic = "ecology kiwi priority result there glove case clock subway tent picture only";

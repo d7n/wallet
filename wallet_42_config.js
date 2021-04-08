@@ -1,1 +1,1 @@
-var mnemonic = "monkey chapter rich warrior unknown tired butter penalty end morning penalty velvet";
+var mnemonic = "resemble monster venture ski advance civil lava able attack razor friend laundry";

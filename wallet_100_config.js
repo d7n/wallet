@@ -1,1 +1,1 @@
-var mnemonic = "alley drum snack bird twist ten chimney destroy flavor only upgrade trade";
+var mnemonic = "silver movie slow clever board oppose bridge day history disease write token";

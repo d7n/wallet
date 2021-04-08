@@ -1,1 +1,1 @@
-var mnemonic = "cricket latin office impose notice excite thing gauge worry hotel solar donkey";
+var mnemonic = "submit drink horn metal swallow polar task arctic hole deputy panel trash";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch act charge tank empower once seminar nurse endorse pool domain runway";
+var mnemonic = "stock benefit quality crew solar exercise torch general borrow organ entry replace";

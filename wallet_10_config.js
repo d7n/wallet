@@ -1,1 +1,1 @@
-var mnemonic = "such exit lyrics later liberty reflect february exile abstract ship canal festival";
+var mnemonic = "major mixed mutual furnace clever slot ancient nominee real beauty napkin donor";

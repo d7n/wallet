@@ -1,1 +1,1 @@
-var mnemonic = "shrug mushroom awkward figure diagram drip borrow advice trial cake cup matter";
+var mnemonic = "cinnamon ghost tobacco opinion search faint live push again yard glide detect";

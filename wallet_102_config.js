@@ -1,1 +1,1 @@
-var mnemonic = "moment clutch merry unknown shock girl ribbon vote valid syrup write afford";
+var mnemonic = "liberty pitch robust finger frost impulse early burger quiz outside sustain play";

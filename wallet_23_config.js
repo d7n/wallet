@@ -1,1 +1,1 @@
-var mnemonic = "voice diamond play soon tomato phone have scatter rebel neck pencil jealous";
+var mnemonic = "animal bulb maze club rapid reason thank three onion manual earth sick";

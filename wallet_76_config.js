@@ -1,1 +1,1 @@
-var mnemonic = "simple force suspect buyer vessel pen retire funny taste segment emerge east";
+var mnemonic = "mansion appear cloud unit lend pear forward glove cousin glove pistol carry";

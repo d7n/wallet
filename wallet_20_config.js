@@ -1,1 +1,1 @@
-var mnemonic = "roast amateur book mouse whisper chimney pull crowd angle barely stomach push";
+var mnemonic = "shell hen flash settle refuse exact develop random broom spike float jelly";

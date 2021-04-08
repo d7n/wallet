@@ -1,1 +1,1 @@
-var mnemonic = "vessel obvious forget sample seed hill current bring always skull shuffle timber";
+var mnemonic = "coach reopen size once dance access reduce owner idea illegal boil aware";

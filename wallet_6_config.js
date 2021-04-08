@@ -1,1 +1,1 @@
-var mnemonic = "lab hamster abstract reject total people edge crystal deal record monkey sadness";
+var mnemonic = "melt athlete audit recall dragon valley laptop coach taxi hand fade swarm";

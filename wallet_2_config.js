@@ -1,1 +1,1 @@
-var mnemonic = "change truly ketchup wealth marine jungle raise output now buffalo ethics slot";
+var mnemonic = "record top thing analyst plate display teach beauty laugh vendor have design";

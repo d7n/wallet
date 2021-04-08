@@ -1,1 +1,1 @@
-var mnemonic = "repair fiscal despair century tourist keen rifle worth alone omit fish express";
+var mnemonic = "artwork useless flock monster zero frog burst height dog width race dumb";

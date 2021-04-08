@@ -1,1 +1,1 @@
-var mnemonic = "gown hotel useful bronze crush truly long tree suspect tone code discover";
+var mnemonic = "million mask alone arrow lawn fancy bid skate equip aware silly cool";

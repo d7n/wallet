@@ -1,1 +1,1 @@
-var mnemonic = "pudding chalk garbage charge myth trumpet fan timber swift viable marriage razor";
+var mnemonic = "bone drop weird build post orphan sibling decide require adult hope morning";

@@ -1,1 +1,1 @@
-var mnemonic = "praise curtain mansion entry coast fluid noise develop notable proof cake craft";
+var mnemonic = "industry swamp smoke monkey word actual scrub myself situate cradle jeans reward";

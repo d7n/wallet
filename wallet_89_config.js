@@ -1,1 +1,1 @@
-var mnemonic = "expect run popular hover disease dash leader school net test size length";
+var mnemonic = "track sphere sudden faith then cruel ice gallery tissue wave pelican radio";

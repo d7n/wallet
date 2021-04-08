@@ -1,1 +1,1 @@
-var mnemonic = "slam absurd alpha flame panda spoon basic trumpet upon course buddy blouse";
+var mnemonic = "search vintage upset culture hire salad insane sniff near eternal tool acid";

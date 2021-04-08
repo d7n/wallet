@@ -1,1 +1,1 @@
-var mnemonic = "outer copper tobacco void wrap truck trophy cousin awkward coyote provide alcohol";
+var mnemonic = "file sad sorry design screen remove food mesh hungry mad track helmet";

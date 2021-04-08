@@ -1,1 +1,1 @@
-var mnemonic = "upper boil myth camera stem display lake asset box success razor alert";
+var mnemonic = "buffalo film bunker tail season adjust snake wool impact hammer differ steel";

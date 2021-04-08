@@ -1,1 +1,1 @@
-var mnemonic = "expire double buzz panther bread donate type surround belt endorse skirt hat";
+var mnemonic = "rifle latin monster portion best pill slice bullet horror craft swallow into";

@@ -1,1 +1,1 @@
-var mnemonic = "history edit sadness suggest change pistol kick later satoshi victory absurd toss";
+var mnemonic = "chat grid engine erase custom tuition battle radio anxiety fragile blame pigeon";

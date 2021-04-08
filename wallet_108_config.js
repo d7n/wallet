@@ -1,1 +1,1 @@
-var mnemonic = "sibling fog math pig fever earn tool bulb over please north expose";
+var mnemonic = "vibrant vehicle mind source wait quarter furnace clump rocket wait genuine afford";

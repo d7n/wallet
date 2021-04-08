@@ -1,1 +1,1 @@
-var mnemonic = "addict upon glimpse ordinary squirrel bright case situate save very craft culture";
+var mnemonic = "payment merry whale hello mother spike weird purpose hawk review egg wire";

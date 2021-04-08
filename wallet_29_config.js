@@ -1,1 +1,1 @@
-var mnemonic = "climb bargain crawl elite easy tunnel zoo wheat boss swarm pilot tumble";
+var mnemonic = "glare tiger clarify horror address original swamp pass clean rate village ketchup";

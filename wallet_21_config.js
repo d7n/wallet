@@ -1,1 +1,1 @@
-var mnemonic = "correct just ten trick fashion cart switch genre satoshi globe maximum umbrella";
+var mnemonic = "only emotion build second disagree horror resemble miss parrot wink soldier sleep";

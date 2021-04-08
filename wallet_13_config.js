@@ -1,1 +1,1 @@
-var mnemonic = "canal bulb wife road combine excess total key benefit caught crack science";
+var mnemonic = "scrap area ivory poem churn frequent erase senior action enforce immense gain";

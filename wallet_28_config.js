@@ -1,1 +1,1 @@
-var mnemonic = "motor swift decade latin example rate more resemble undo better nest trumpet";
+var mnemonic = "atom evidence illegal conduct knife oval food report cup banner wolf iron";

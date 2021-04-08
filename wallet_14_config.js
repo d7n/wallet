@@ -1,1 +1,1 @@
-var mnemonic = "snap boil hazard weasel prize narrow purity snow inquiry affair ghost flock";
+var mnemonic = "finger extra helmet snack recycle vacuum pony wish glad magnet attract length";

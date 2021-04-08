@@ -1,1 +1,1 @@
-var mnemonic = "boss reopen fine rival dress empty census cactus urge poem suffer link";
+var mnemonic = "recycle rug minute artefact domain leg cargo melody fade leg negative buyer";

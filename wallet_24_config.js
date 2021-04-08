@@ -1,1 +1,1 @@
-var mnemonic = "monkey pool bench also push lend cave crane autumn people detect thumb";
+var mnemonic = "ski girl olive tobacco differ public sand lion setup pattern will foil";

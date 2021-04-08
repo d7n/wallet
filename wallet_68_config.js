@@ -1,1 +1,1 @@
-var mnemonic = "moral few vacuum liar stove deer gentle original shove puzzle welcome rival";
+var mnemonic = "monster blood alter gift define company protect unique affair lady differ volcano";

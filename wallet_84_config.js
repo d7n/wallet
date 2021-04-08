@@ -1,1 +1,1 @@
-var mnemonic = "situate bicycle around brain grape skull dog right math crack advice vivid";
+var mnemonic = "mixed glow caution artist sock core pig hand near evolve hammer random";

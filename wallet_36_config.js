@@ -1,1 +1,1 @@
-var mnemonic = "net ability mean insane silk push spoil success fly six squeeze ridge";
+var mnemonic = "illegal dumb excuse loop exact pepper mask doll gap combine announce ring";

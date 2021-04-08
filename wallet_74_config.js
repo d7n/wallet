@@ -1,1 +1,1 @@
-var mnemonic = "ship taste loan leg genuine nose inquiry drop burden merge host much";
+var mnemonic = "kangaroo december expire swim resemble reward phrase fat exile purse cake auction";

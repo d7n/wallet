@@ -1,1 +1,1 @@
-var mnemonic = "vague hope tent mixed area noble interest path civil idle spin atom";
+var mnemonic = "possible soda eight spawn salad wisdom shield orient today peanut music second";

@@ -1,1 +1,1 @@
-var mnemonic = "save spirit poem fury planet trophy force inmate unfair core ginger december";
+var mnemonic = "quit float limb cereal sample enough excess easily vault maze raven glory";

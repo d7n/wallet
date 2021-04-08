@@ -1,1 +1,1 @@
-var mnemonic = "fiber grit term visit monkey faculty work gossip tourist aim hen remind";
+var mnemonic = "cotton vivid impulse slice chest letter balance permit room tunnel inform glad";

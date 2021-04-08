@@ -1,1 +1,1 @@
-var mnemonic = "radar among happy twist borrow pottery share fever travel cost face ability";
+var mnemonic = "exotic asthma impact wash tooth south century cost travel aisle grab stool";

@@ -1,1 +1,1 @@
-var mnemonic = "angry fragile ski pill bullet crowd venue accident dinosaur lens ridge knee";
+var mnemonic = "cash pyramid leg wash route friend aware praise cradle soda genuine dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "trip solution insect owner goose slow phrase couch govern accuse pelican earn";
+var mnemonic = "minute valid hammer kingdom drama fork diamond muffin retire tongue jelly throw";

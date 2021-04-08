@@ -1,1 +1,1 @@
-var mnemonic = "approve brief tragic junior add punch project clever faculty negative point filter";
+var mnemonic = "warm hub story suffer ostrich differ neck laptop install mixed enroll seminar";

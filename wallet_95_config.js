@@ -1,1 +1,1 @@
-var mnemonic = "annual holiday obtain total share truck return later brain drop antique mom";
+var mnemonic = "grow airport insect truck cat nature fresh imitate eyebrow junior festival news";

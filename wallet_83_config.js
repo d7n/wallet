@@ -1,1 +1,1 @@
-var mnemonic = "target brave dynamic mountain bamboo tongue tank ride segment section blame exchange";
+var mnemonic = "gun promote describe weapon over rail sauce provide carry spatial there smoke";

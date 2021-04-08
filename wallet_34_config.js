@@ -1,1 +1,1 @@
-var mnemonic = "donor renew remember employ fee lecture supply finger cabbage churn trophy clinic";
+var mnemonic = "black ladder power three edit mosquito torch fee seek lucky exchange scale";

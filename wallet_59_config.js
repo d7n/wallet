@@ -1,1 +1,1 @@
-var mnemonic = "script cook loud boil material wide spawn pond between farm couch pledge";
+var mnemonic = "syrup skate craft atom gain circle blossom grain nation movie embark seven";

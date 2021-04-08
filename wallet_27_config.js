@@ -1,1 +1,1 @@
-var mnemonic = "crumble earn second street laptop syrup region choice pull ranch olympic pass";
+var mnemonic = "snow project virus original dinosaur whip boil abandon retreat auto crush loop";

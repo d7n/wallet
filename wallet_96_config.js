@@ -1,1 +1,1 @@
-var mnemonic = "feel frost loop february worry van another pitch enemy bundle siege royal";
+var mnemonic = "cinnamon finish planet smoke rigid case exhaust pencil small ring describe fox";

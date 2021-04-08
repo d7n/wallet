@@ -1,1 +1,1 @@
-var mnemonic = "mango yard admit subway cabin settle desert sphere water chef lock mixed";
+var mnemonic = "orient wood warfare panda grocery outdoor step squeeze road clean either bring";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger test screen truly tower must success suffer album between spawn shed";
+var mnemonic = "language spot awake behind inquiry oven helmet other ten monster eight celery";

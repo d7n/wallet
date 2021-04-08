@@ -1,1 +1,1 @@
-var mnemonic = "furnace cliff electric manage witness pool caught asthma elegant someone found fatigue";
+var mnemonic = "crowd apology rare tattoo honey trash frown patch whisper steel crash fly";

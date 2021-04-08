@@ -1,1 +1,1 @@
-var mnemonic = "property good treat inner today awesome exhibit excuse abstract body pilot glass";
+var mnemonic = "mango net eternal camera enhance decline expire fox hen sunny lumber prize";

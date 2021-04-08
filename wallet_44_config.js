@@ -1,1 +1,1 @@
-var mnemonic = "auction churn chief joke acquire crawl jacket wear cool word mechanic enroll";
+var mnemonic = "million patrol hollow whale once impose execute east cram frown suffer topic";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff dumb occur cereal erode review any together glance fun total virtual";
+var mnemonic = "company trumpet display dinner miracle alpha recycle bomb provide noble goose talent";

@@ -1,1 +1,1 @@
-var mnemonic = "also mango nuclear debate custom onion kite latin shaft drive hire silly";
+var mnemonic = "drive put clever own cruise omit apple exhaust raven lock endorse winner";

@@ -1,1 +1,1 @@
-var mnemonic = "horn comic science hip sample name wave wheat below snap early stem";
+var mnemonic = "art letter reveal laptop grace lion inject arrive place between measure birth";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm story file salute kiss catch latin beef park wash east pilot";
+var mnemonic = "robot claim depart shield rally van lecture already pumpkin mirror foster during";

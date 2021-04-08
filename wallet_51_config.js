@@ -1,1 +1,1 @@
-var mnemonic = "you increase gentle obvious cloth clinic tobacco camera scene grace ridge series";
+var mnemonic = "insect pretty theme tenant myself upset bleak door differ identify fortune duty";

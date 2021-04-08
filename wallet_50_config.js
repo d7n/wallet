@@ -1,1 +1,1 @@
-var mnemonic = "outer educate amused wash swallow retreat position angle garment sentence razor pottery";
+var mnemonic = "strategy episode peace depth lock gaze write recall later bunker material bless";

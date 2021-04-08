@@ -1,1 +1,1 @@
-var mnemonic = "boost goddess ladder robust shrimp escape muscle fiction mention ice have cruel";
+var mnemonic = "offer situate pistol pottery great gaze swing poem teach run pilot urge";

@@ -1,1 +1,1 @@
-var mnemonic = "cash skin space mention pigeon dilemma disease cloud dynamic blame flag romance";
+var mnemonic = "safe cinnamon coyote odor flower whisper disease hill chef rotate fold result";

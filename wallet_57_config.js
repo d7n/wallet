@@ -1,1 +1,1 @@
-var mnemonic = "brush husband carry foster submit extend allow height cook gate cloud fashion";
+var mnemonic = "fat label drift keen empty garbage economy prize weather wink exchange cave";

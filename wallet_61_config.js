@@ -1,1 +1,1 @@
-var mnemonic = "talent mountain language repair tag hurdle skull reason cousin green discover chief";
+var mnemonic = "inquiry elite size envelope saddle language cool play adjust sell relax poverty";

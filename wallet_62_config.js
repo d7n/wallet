@@ -1,1 +1,1 @@
-var mnemonic = "ritual neglect rescue twice width fiction pride success joy december toy purchase";
+var mnemonic = "lend borrow supply body never gate kitten timber access aisle jeans worth";

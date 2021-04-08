@@ -1,1 +1,1 @@
-var mnemonic = "omit orphan midnight shadow tissue pluck session parrot net wave aim dial";
+var mnemonic = "sentence sad hill pull glide jaguar bubble believe concert tobacco exercise globe";

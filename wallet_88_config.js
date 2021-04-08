@@ -1,1 +1,1 @@
-var mnemonic = "arrow choose mixture chimney task tired siege start foster divide once palace";
+var mnemonic = "kiss employ smoke assault clarify square minimum still cheese turkey border ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut half bid gesture network bitter that reopen select female tenant guitar";
+var mnemonic = "unique snake scissors analyst loop old border light reunion right neutral broom";

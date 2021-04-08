@@ -1,1 +1,1 @@
-var mnemonic = "wagon lion update shoe ticket ketchup carpet chief slight planet cage pill";
+var mnemonic = "crowd pride dune quit use sleep garlic thing rotate segment afford luxury";

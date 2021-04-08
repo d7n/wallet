@@ -1,1 +1,1 @@
-var mnemonic = "dumb favorite treat pet hospital gentle holiday kitten brass joy below misery";
+var mnemonic = "noble pencil excuse symbol quarter differ silent flower possible mom punch lecture";

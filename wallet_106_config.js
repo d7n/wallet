@@ -1,1 +1,1 @@
-var mnemonic = "purity scale drift diet miracle autumn release dragon heavy wink today myth";
+var mnemonic = "brother grape goat federal bacon exit enroll reject behind list main link";

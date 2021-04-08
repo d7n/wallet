@@ -1,1 +1,1 @@
-var mnemonic = "wheat say cannon blush news place fossil clinic gym six drip spoon";
+var mnemonic = "pupil govern impose million pattern project spend sunny warm tortoise draw clown";

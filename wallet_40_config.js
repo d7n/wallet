@@ -1,1 +1,1 @@
-var mnemonic = "version cancel crop hurt pear square park section casino pond mention only";
+var mnemonic = "copper prefer hollow keep floor impulse weasel human gun number snake time";

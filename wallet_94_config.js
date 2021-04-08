@@ -1,1 +1,1 @@
-var mnemonic = "sadness trial adjust indoor work neutral diet nothing army goose order win";
+var mnemonic = "decorate stage say surge claw protect verify trigger dust morning myself venture";

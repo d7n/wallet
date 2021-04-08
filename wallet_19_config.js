@@ -1,1 +1,1 @@
-var mnemonic = "sure index mammal vocal enroll walk normal behave zero marine afford demise";
+var mnemonic = "insane brass trigger divert buffalo theory van update stuff roast layer evidence";

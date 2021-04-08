@@ -1,1 +1,1 @@
-var mnemonic = "whale truly traffic boss describe alcohol account kiwi inhale bicycle exotic duty";
+var mnemonic = "differ employ joy empty turkey guess lava valve thought chicken govern rule";

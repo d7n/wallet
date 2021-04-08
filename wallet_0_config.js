@@ -1,1 +1,1 @@
-var mnemonic = "later boy twist crystal file old syrup polar enjoy behave lab mistake";
+var mnemonic = "mixed gospel slender sword tray pen casino smooth clay leg egg parrot";

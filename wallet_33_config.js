@@ -1,1 +1,1 @@
-var mnemonic = "magnet space dolphin twenty text leave copy motion always verb midnight labor";
+var mnemonic = "swift gain shock spike trick forum rib jacket expect used ramp seat";

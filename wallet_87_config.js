@@ -1,1 +1,1 @@
-var mnemonic = "develop dinner wool crash drama kit orchard route certain rather income rotate";
+var mnemonic = "obtain range embody loyal theory jealous screen witness equal ship egg bind";

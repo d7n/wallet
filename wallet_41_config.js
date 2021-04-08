@@ -1,1 +1,1 @@
-var mnemonic = "rude clerk light immense wrist element pass tilt bless airport tent rookie";
+var mnemonic = "this tooth sort garden monitor coffee huge grab angry photo around couple";

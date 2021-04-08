@@ -1,1 +1,1 @@
-var mnemonic = "friend fringe myth dinosaur reunion crouch work dragon unlock game search hill";
+var mnemonic = "call distance brisk arrange frame attitude soul spatial twice tackle coyote ill";

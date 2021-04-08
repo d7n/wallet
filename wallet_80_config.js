@@ -1,1 +1,1 @@
-var mnemonic = "utility now person flag will agent fame stuff fantasy chest awesome little";
+var mnemonic = "someone scare stove member behave toddler steak jazz two buzz supreme token";

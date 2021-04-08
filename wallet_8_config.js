@@ -1,1 +1,1 @@
-var mnemonic = "spread fuel siege office uniform legend gas column lecture pledge wrestle spell";
+var mnemonic = "cattle glue rotate hammer abstract match duck silly taxi feed town joy";

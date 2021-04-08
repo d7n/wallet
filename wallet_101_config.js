@@ -1,1 +1,1 @@
-var mnemonic = "gauge beauty letter urban render thing level glass permit sadness ahead board";
+var mnemonic = "pulp ginger matrix explain issue prosper envelope link eye play cradle excite";

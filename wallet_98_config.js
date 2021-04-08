@@ -1,1 +1,1 @@
-var mnemonic = "wrong belt absurd online van guitar guide avoid panel kingdom boss wash";
+var mnemonic = "adjust vibrant judge type winter vintage sheriff rubber vapor truth script dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "brisk action bridge quick interest pupil hard eager under sentence accuse that";
+var mnemonic = "endorse festival parent upset together beach wreck behind void yellow waste exchange";

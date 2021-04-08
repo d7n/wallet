@@ -1,1 +1,1 @@
-var mnemonic = "wheel hint frog theory unlock hip catalog retire tourist emerge pair skate";
+var mnemonic = "strategy idea sea eyebrow tunnel pave spy near clinic supply coyote review";

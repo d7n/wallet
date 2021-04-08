@@ -1,1 +1,1 @@
-var mnemonic = "large cube guess ethics suspect ladder tiny profit immune bonus square duty";
+var mnemonic = "winter vendor ribbon furnace arrive pencil alcohol snack wall chapter donkey emerge";
