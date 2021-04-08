@@ -1,1 +1,1 @@
-var mnemonic = "pink trip almost congress cave erupt flower like family puzzle burst roast";
+var mnemonic = "sick dutch recipe member hazard reveal oppose abuse install police punch flip";

@@ -1,1 +1,1 @@
-var mnemonic = "shift blossom equal portion snack faculty slot note dynamic fragile dance one";
+var mnemonic = "fever catch item floor disease report wood lecture truth spike broom foil";

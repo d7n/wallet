@@ -1,1 +1,1 @@
-var mnemonic = "memory essay utility mosquito crush nerve assist ladder position offer kingdom fiction";
+var mnemonic = "unfold scatter floor ship balance evolve say ladder rack stone rich van";

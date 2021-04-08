@@ -1,1 +1,1 @@
-var mnemonic = "edge wisdom picture gas balcony velvet glass tray ticket drift giraffe certain";
+var mnemonic = "remember cube ordinary coach around sign transfer humor series mercy flush gravity";

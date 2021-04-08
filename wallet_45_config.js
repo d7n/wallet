@@ -1,1 +1,1 @@
-var mnemonic = "winter omit state merge add enjoy wisdom mimic sick between nurse jump";
+var mnemonic = "opera trial scout bike lonely uncover high shift soldier hunt dice mirror";

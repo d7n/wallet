@@ -1,1 +1,1 @@
-var mnemonic = "slow innocent notice air arrest off error text material soft jazz diagram";
+var mnemonic = "loyal artist final feature frozen flavor eager donate across comfort strategy female";

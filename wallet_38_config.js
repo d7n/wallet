@@ -1,1 +1,1 @@
-var mnemonic = "hold hello salmon affair slow click boat real odor lazy elbow arm";
+var mnemonic = "measure lens balance catch doctor glad talk wood monkey weasel banana quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "brass unveil ice photo dish error question when hold hazard story oil";
+var mnemonic = "trick verb skin awkward sun catch cheese cause abandon hen cage trend";

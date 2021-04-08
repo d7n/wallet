@@ -1,1 +1,1 @@
-var mnemonic = "squirrel shrug loan toy syrup rapid settle pepper circle useless exist arrange";
+var mnemonic = "energy valid artefact receive trim town note try pluck old identify theory";

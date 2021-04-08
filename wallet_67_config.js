@@ -1,1 +1,1 @@
-var mnemonic = "nation tree talent town pen busy tooth modify fence legend crime weapon";
+var mnemonic = "media maple cupboard slogan warm energy crucial lesson toddler huge hazard satisfy";

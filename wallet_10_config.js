@@ -1,1 +1,1 @@
-var mnemonic = "fit chunk pelican remind paper legend someone rain remain bar skull dash";
+var mnemonic = "miracle thing candy cry equal home three possible color cross chat owner";

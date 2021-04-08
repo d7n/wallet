@@ -1,1 +1,1 @@
-var mnemonic = "friend palm middle actual trial fix creek indicate audit sleep approve salt";
+var mnemonic = "turtle section garment toilet gun keen eight because merry equip remove need";

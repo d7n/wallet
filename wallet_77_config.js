@@ -1,1 +1,1 @@
-var mnemonic = "acid shoot poverty hurt cup robot ladder sphere fee input employ twice";
+var mnemonic = "dinosaur accident away paper lawsuit exile biology expect antique rigid mule pelican";

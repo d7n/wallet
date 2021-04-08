@@ -1,1 +1,1 @@
-var mnemonic = "opinion helmet raise runway stamp creek sausage tape embody cliff bulk grace";
+var mnemonic = "sign wine exist blanket earn deny film roast gasp truck hole buddy";

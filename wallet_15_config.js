@@ -1,1 +1,1 @@
-var mnemonic = "traffic hybrid float fold toilet occur leaf predict first congress unit will";
+var mnemonic = "screen people they blouse inside lift alter arrest actress divide palm list";

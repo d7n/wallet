@@ -1,1 +1,1 @@
-var mnemonic = "correct trophy quality agent clap damage gentle hover fossil satoshi master network";
+var mnemonic = "assume guilt what jungle credit win fault champion hockey owner swing audit";

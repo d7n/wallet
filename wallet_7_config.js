@@ -1,1 +1,1 @@
-var mnemonic = "gather rabbit dolphin disorder title stamp remember snap observe depth zone two";
+var mnemonic = "equal share nothing cash depth calm leopard brother tumble entire pyramid frog";

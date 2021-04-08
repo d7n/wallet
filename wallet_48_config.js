@@ -1,1 +1,1 @@
-var mnemonic = "harsh track reject gospel life light word wife cheese mistake cradle nerve";
+var mnemonic = "mule deny choice swift liberty ensure bridge trouble chat use indicate time";

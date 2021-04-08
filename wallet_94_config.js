@@ -1,1 +1,1 @@
-var mnemonic = "please capital kiwi lizard love absurd venture until endorse travel banner atom";
+var mnemonic = "record man barrel wealth bridge admit clock orchard humor test parrot frequent";

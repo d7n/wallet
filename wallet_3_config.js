@@ -1,1 +1,1 @@
-var mnemonic = "fog inside slight hill pink mass obtain arctic bachelor remove agent neither";
+var mnemonic = "fault govern fruit caught picture anchor fringe north spin hedgehog obscure eagle";

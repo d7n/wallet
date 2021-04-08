@@ -1,1 +1,1 @@
-var mnemonic = "frequent nest save latin oil shallow genius sport imitate glow cruise skin";
+var mnemonic = "belt sense certain manage gadget knock concert palm emotion raw glance depart";

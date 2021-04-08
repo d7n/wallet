@@ -1,1 +1,1 @@
-var mnemonic = "castle rain hollow lucky detail slice scissors lucky engage pluck supreme leopard";
+var mnemonic = "symptom oval proud cycle warrior bid system wool radio pilot anxiety school";

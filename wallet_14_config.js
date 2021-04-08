@@ -1,1 +1,1 @@
-var mnemonic = "nephew honey horse radio tired myself neck select vivid lamp million oak";
+var mnemonic = "another spoil region dumb canyon such thumb slogan just script ignore quick";

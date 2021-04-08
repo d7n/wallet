@@ -1,1 +1,1 @@
-var mnemonic = "cool toast boss suit case three tourist mean orient recipe embrace blossom";
+var mnemonic = "digital artist brisk express naive question all warrior capable weapon behind next";

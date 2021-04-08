@@ -1,1 +1,1 @@
-var mnemonic = "hungry hub today board camera any hint clown diary trade replace apart";
+var mnemonic = "clump disorder pulse pulp magnet manage catch tuition sponsor crouch fragile boring";

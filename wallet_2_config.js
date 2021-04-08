@@ -1,1 +1,1 @@
-var mnemonic = "dismiss guitar produce dragon person million history trim shock chimney rice loud";
+var mnemonic = "kiss wing assault ethics fan market loyal zone provide ranch ceiling wash";

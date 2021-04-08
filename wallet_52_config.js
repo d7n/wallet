@@ -1,1 +1,1 @@
-var mnemonic = "spice asthma kitchen rack west attitude life fever farm record lobster blast";
+var mnemonic = "tower flight multiply sad castle swing vast smooth orchard rack what brass";

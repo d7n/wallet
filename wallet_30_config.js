@@ -1,1 +1,1 @@
-var mnemonic = "ice gaze burst survey sail clerk govern age accuse nature tower curve";
+var mnemonic = "attend keep valve olive upper peanut valid today crater beach skin despair";

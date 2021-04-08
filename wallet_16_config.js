@@ -1,1 +1,1 @@
-var mnemonic = "upgrade wrap twelve model mind grass nuclear fat business panel crop refuse";
+var mnemonic = "account habit mention park juice quit skull drift found throw foot endorse";

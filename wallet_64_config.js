@@ -1,1 +1,1 @@
-var mnemonic = "treat thumb want shuffle dilemma carry sword final network wrap thunder network";
+var mnemonic = "brass under inside hen movie wild balcony sun order actor enroll lab";

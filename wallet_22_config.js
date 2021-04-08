@@ -1,1 +1,1 @@
-var mnemonic = "donor drastic nasty develop juice lava climb kangaroo carpet icon news rebuild";
+var mnemonic = "copper measure time earn room wood excuse dignity question clerk parrot moral";

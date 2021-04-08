@@ -1,1 +1,1 @@
-var mnemonic = "seat wisdom weird smart hobby winner wing ready august easily claim garage";
+var mnemonic = "hollow spatial gun spoon family sun snap beach silly truth tumble goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "candy job ocean fit piano remain clever suggest magnet example bomb surprise";
+var mnemonic = "bunker tape intact pluck female brisk share outdoor teach eager trap wet";

@@ -1,1 +1,1 @@
-var mnemonic = "wave arena sort remind unfold injury flash fresh jungle wear knife satisfy";
+var mnemonic = "elephant quit pluck fiction weasel stool stove sad world park pizza evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "update shield coffee help hold genius vendor wisdom depart want spirit always";
+var mnemonic = "artefact flip divorce end follow camp knee miss fly zoo miss swarm";

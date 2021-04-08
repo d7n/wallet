@@ -1,1 +1,1 @@
-var mnemonic = "quick indoor marriage stereo roof opinion jump security grape plunge uniform once";
+var mnemonic = "crack isolate monitor cram mushroom hurt thrive slim daughter chase stairs garment";

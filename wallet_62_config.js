@@ -1,1 +1,1 @@
-var mnemonic = "game vague spy common math primary result crazy behind food shield disease";
+var mnemonic = "quarter math maid damp unknown sun journey absent pelican way disease load";

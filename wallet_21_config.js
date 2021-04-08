@@ -1,1 +1,1 @@
-var mnemonic = "fiction arrive border reduce this acquire demand gauge concert eternal cabin cat";
+var mnemonic = "name original rabbit brand state bracket auction van laugh stick spice ranch";

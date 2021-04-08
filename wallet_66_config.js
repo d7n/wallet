@@ -1,1 +1,1 @@
-var mnemonic = "omit fever mix number fatigue stable bullet sail depend tell change merry";
+var mnemonic = "stay illness list car reopen task property park broken scrub wage curtain";

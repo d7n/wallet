@@ -1,1 +1,1 @@
-var mnemonic = "trophy diesel joke uncle bid climb friend secret swarm afford output they";
+var mnemonic = "glow curve attend easy oppose play risk prosper flat attract kick camp";

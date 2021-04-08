@@ -1,1 +1,1 @@
-var mnemonic = "noble noodle pizza boat engine crucial wife violin inform win recycle know";
+var mnemonic = "main round inherit tunnel swallow soul height there sleep crop child topple";

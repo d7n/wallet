@@ -1,1 +1,1 @@
-var mnemonic = "corn car ivory about dizzy nurse time energy output eternal reason ordinary";
+var mnemonic = "worry middle bind away clinic blouse clerk few input company small monitor";

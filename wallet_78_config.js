@@ -1,1 +1,1 @@
-var mnemonic = "round cliff stereo bar smooth shoe surprise version oyster robust route nerve";
+var mnemonic = "million ghost diet radar diesel cable school blood client message whip fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "female chimney defense law soldier edit flip estate love zoo resist mule";
+var mnemonic = "chicken lake rural crisp alter excess come song trade eagle bike battle";

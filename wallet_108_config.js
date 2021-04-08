@@ -1,1 +1,1 @@
-var mnemonic = "modify biology modify crumble actress sport acquire curtain scale orient silk impose";
+var mnemonic = "cash appear annual immune spread crew milk reopen six menu tube agree";

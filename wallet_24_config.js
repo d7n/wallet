@@ -1,1 +1,1 @@
-var mnemonic = "gallery lamp novel student echo kick radio profit belt canyon antique cup";
+var mnemonic = "pledge ramp salt suffer charge actor genre enemy myself cupboard concert echo";

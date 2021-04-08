@@ -1,1 +1,1 @@
-var mnemonic = "industry purchase tree kick special system hungry glance teach rebel sense benefit";
+var mnemonic = "mom amazing safe cousin long maximum aunt address weather crew unveil vanish";

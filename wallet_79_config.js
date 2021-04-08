@@ -1,1 +1,1 @@
-var mnemonic = "fence aisle shock float truth month sunset loan strike health school solar";
+var mnemonic = "net tackle junior rigid grunt truly jeans blade sausage receive wish physical";

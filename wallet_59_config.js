@@ -1,1 +1,1 @@
-var mnemonic = "cross market forget file front wall picture thought object fringe margin slight";
+var mnemonic = "begin distance clump doll argue wage cable boat else void broom slide";

@@ -1,1 +1,1 @@
-var mnemonic = "aerobic legal holiday lyrics type purity left street sting style toe wool";
+var mnemonic = "bright whisper tongue sauce mind focus burger stereo firm quick grab muscle";

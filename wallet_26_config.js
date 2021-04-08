@@ -1,1 +1,1 @@
-var mnemonic = "glimpse catalog best drop frog own point sort birth slight close donor";
+var mnemonic = "scheme click medal stock license crater various paddle exchange boring ten blood";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey emotion make velvet guide laptop attract jaguar sport usual uniform fit";
+var mnemonic = "river black accident category push dice crush arch state brief negative fee";

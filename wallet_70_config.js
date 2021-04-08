@@ -1,1 +1,1 @@
-var mnemonic = "youth venue sun cousin load surprise enact love usual frame warm rug";
+var mnemonic = "exhaust file swap cream critic worth slogan jeans unknown eternal field crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "renew draw shadow rabbit wheat honey oval toe damp hurt fluid future";
+var mnemonic = "plunge nice lounge logic pet recycle pond bleak crime bonus emerge frost";

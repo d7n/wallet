@@ -1,1 +1,1 @@
-var mnemonic = "jungle struggle rhythm birth bid imitate practice patch clean mean bunker erupt";
+var mnemonic = "firm mean because captain crouch tennis hawk table man brush badge better";

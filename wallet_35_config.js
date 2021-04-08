@@ -1,1 +1,1 @@
-var mnemonic = "solid mad memory wise lift lunar legend mosquito famous tree exile smile";
+var mnemonic = "front north together fall giraffe equal glimpse taste crash river net message";

@@ -1,1 +1,1 @@
-var mnemonic = "toy soul panther custom census bonus mask extend share deer combine drastic";
+var mnemonic = "beach blame gravity bird federal jelly fossil giggle become slim exchange common";

@@ -1,1 +1,1 @@
-var mnemonic = "casual inhale lens ill evolve vehicle climb during audit reject live shuffle";
+var mnemonic = "frost observe output oval apple culture company intact guess old bounce dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "service proof way eternal early apart style illegal antique wide song august";
+var mnemonic = "clinic tired credit pulp stock track host sea cycle torch recycle twist";

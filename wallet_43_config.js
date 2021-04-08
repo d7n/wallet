@@ -1,1 +1,1 @@
-var mnemonic = "hello duck era fence misery rich hour tennis lumber garbage festival ethics";
+var mnemonic = "sound deliver scatter sun magic pretty brisk sport buyer pen afraid sort";

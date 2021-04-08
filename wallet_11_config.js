@@ -1,1 +1,1 @@
-var mnemonic = "outdoor life beauty inmate use course debris basket impulse tomato pipe iron";
+var mnemonic = "balance expand decorate nation stool much heavy lake cradle young current present";

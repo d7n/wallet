@@ -1,1 +1,1 @@
-var mnemonic = "utility behind hold relief local hub ghost fan vicious arrange name fruit";
+var mnemonic = "loud fat budget print green rely asthma join alone foster either science";

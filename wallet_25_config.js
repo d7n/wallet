@@ -1,1 +1,1 @@
-var mnemonic = "guess swap trick smile kick sibling body pilot energy science have pulp";
+var mnemonic = "trust alter bring film intact crack cheap card city divert all danger";

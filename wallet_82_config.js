@@ -1,1 +1,1 @@
-var mnemonic = "rice approve slice cherry depart sketch water palm brick carry race that";
+var mnemonic = "buddy north spray health interest drill name discover okay drum item lyrics";

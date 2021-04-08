@@ -1,1 +1,1 @@
-var mnemonic = "volume answer rate dismiss win joy antique market dentist transfer horn pig";
+var mnemonic = "leopard recipe carry stem mother ball until anxiety quick comfort captain visa";

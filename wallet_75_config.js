@@ -1,1 +1,1 @@
-var mnemonic = "public panic gospel nice august garlic cluster absorb dream blind secret medal";
+var mnemonic = "ankle family lyrics glory captain depth gift aerobic error hurdle raven arrive";

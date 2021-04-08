@@ -1,1 +1,1 @@
-var mnemonic = "usage express corn drip mistake safe hidden absorb accuse lumber crunch range";
+var mnemonic = "toy trick yard fiction angle hamster invest daring coral inflict toy rice";

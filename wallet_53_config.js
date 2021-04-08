@@ -1,1 +1,1 @@
-var mnemonic = "flip try pig rebel scrap soup slush eternal discover series reform jeans";
+var mnemonic = "any ring coin install disease exit tomato hello test sense stand sweet";

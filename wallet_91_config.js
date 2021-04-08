@@ -1,1 +1,1 @@
-var mnemonic = "fog novel puppy swallow cycle gloom still client magic donate drama rail";
+var mnemonic = "mind pride crumble parent suit barely valid execute float drum divorce reveal";

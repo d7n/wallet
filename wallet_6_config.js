@@ -1,1 +1,1 @@
-var mnemonic = "cage regular glimpse song father huge track blouse replace museum item deliver";
+var mnemonic = "ask bomb quality fat taxi poet minute tenant raccoon symbol deposit dad";

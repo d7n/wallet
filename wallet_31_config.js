@@ -1,1 +1,1 @@
-var mnemonic = "where cruise hawk evil snow violin chef like observe cruel gossip expect";
+var mnemonic = "margin gap economy play hard assume huge swap wife chimney brush bullet";

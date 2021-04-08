@@ -1,1 +1,1 @@
-var mnemonic = "candy idle recycle frequent ribbon mixture worry spider fashion unique super crop";
+var mnemonic = "danger nut fancy gaze blade sponsor speed repair goose hub endorse load";

@@ -1,1 +1,1 @@
-var mnemonic = "cart soft blur tube adjust banner round strong sweet bachelor trick ordinary";
+var mnemonic = "cactus arctic surround chuckle burden flush slam hospital under vague lyrics they";

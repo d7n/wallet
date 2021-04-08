@@ -1,1 +1,1 @@
-var mnemonic = "taxi mean exact begin glass course region better elephant sadness ignore arch";
+var mnemonic = "pilot rookie awake mobile mushroom speak nice liquid project asthma void palm";

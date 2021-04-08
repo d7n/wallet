@@ -1,1 +1,1 @@
-var mnemonic = "conduct good hero parent print lesson endorse stereo bone dust half solid";
+var mnemonic = "goat yellow daughter trap purpose girl olympic base bullet soap february prosper";

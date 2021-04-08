@@ -1,1 +1,1 @@
-var mnemonic = "possible senior betray stable claim shine add basic notice limit couple annual";
+var mnemonic = "blame educate spin nephew job book text evolve wheat love insect chapter";

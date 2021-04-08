@@ -1,1 +1,1 @@
-var mnemonic = "collect pepper movie chair mix media clutch doctor relief measure engine veteran";
+var mnemonic = "test behave moment address vacant candy amateur pilot earth board tape onion";

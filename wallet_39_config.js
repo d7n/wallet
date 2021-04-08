@@ -1,1 +1,1 @@
-var mnemonic = "list wrap squeeze hint disorder network involve staff horror almost flush cry";
+var mnemonic = "team visual elite chapter plastic drive usual fine lend broom private later";

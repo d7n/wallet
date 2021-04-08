@@ -1,1 +1,1 @@
-var mnemonic = "movie topple kingdom budget unfold weird reform mixture assume swallow blush resource";
+var mnemonic = "until myself such vacant orbit wing defense identify legend amount reason twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow paper vanish brass buddy deposit now object move plug visual unfold";
+var mnemonic = "beef wild awesome endorse blame year smooth donkey strong cross cage midnight";

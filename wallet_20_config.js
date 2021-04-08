@@ -1,1 +1,1 @@
-var mnemonic = "order pulp need uncover matrix rotate paper join great wrap dress stable";
+var mnemonic = "sort curious claw birth kind more chest enlist clog piano slight review";

@@ -1,1 +1,1 @@
-var mnemonic = "entire concert tornado accuse dash shift leader success wave soldier option copper";
+var mnemonic = "angle symptom vessel truck cabbage matrix used agree flash domain lucky helmet";

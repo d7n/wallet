@@ -1,1 +1,1 @@
-var mnemonic = "travel retreat table grief ghost brass traffic evoke slender educate napkin worry";
+var mnemonic = "fringe can source fish leg middle total open swim million inch doctor";

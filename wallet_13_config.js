@@ -1,1 +1,1 @@
-var mnemonic = "sail issue guitar very desert mercy confirm awake venture scissors finish emerge";
+var mnemonic = "smooth seminar force robot pole stable prison cactus unaware admit silly magnet";

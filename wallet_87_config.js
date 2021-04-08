@@ -1,1 +1,1 @@
-var mnemonic = "crime disease wrong hammer mimic win orange taste invite sail leopard mule";
+var mnemonic = "enable bird guard swift evolve fetch road dice skate enrich oxygen eagle";

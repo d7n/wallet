@@ -1,1 +1,1 @@
-var mnemonic = "layer six level machine shrug addict horror illness bless outer broccoli tower";
+var mnemonic = "misery case swim square believe exhibit oppose frost doll genius fatigue month";

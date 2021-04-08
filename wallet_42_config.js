@@ -1,1 +1,1 @@
-var mnemonic = "enough comfort ostrich kid edit face expect also ostrich south chimney rally";
+var mnemonic = "leave uniform lunar sister popular still submit bullet east sorry wonder video";

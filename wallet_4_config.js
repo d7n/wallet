@@ -1,1 +1,1 @@
-var mnemonic = "noble boost hill lemon shrimp faint section joy junk paper december trouble";
+var mnemonic = "great rhythm under able first modify pelican seat wet calm ice jewel";

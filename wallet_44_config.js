@@ -1,1 +1,1 @@
-var mnemonic = "candy virus ivory weasel inhale deliver dash mix treat math jelly cat";
+var mnemonic = "monitor lottery cradle cargo depth until ridge garbage force toward hedgehog visa";
