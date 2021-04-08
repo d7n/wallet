@@ -1,1 +1,1 @@
-var mnemonic = "swap rifle stock token angle eight seat panda slot resist student egg";
+var mnemonic = "kangaroo bean exhibit blame seat use jaguar ready coil crawl peace fluid";

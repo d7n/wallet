@@ -1,1 +1,1 @@
-var mnemonic = "unfair cream pattern brick squirrel chase wedding nest syrup parade electric inject";
+var mnemonic = "grace mention add process clip plunge cement merge gym nominee local suggest";

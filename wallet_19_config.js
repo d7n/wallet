@@ -1,1 +1,1 @@
-var mnemonic = "target brand poet act tide tree cloud gaze cereal yard tiger flight";
+var mnemonic = "thing eight learn brief idea machine capable treat alarm endorse vehicle wisdom";

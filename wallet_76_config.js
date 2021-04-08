@@ -1,1 +1,1 @@
-var mnemonic = "narrow venture inject prison easily remind frog purity shaft interest ensure blast";
+var mnemonic = "define equal entire sunset logic toddler supply patrol atom capital absent salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "pen immense canoe blind chicken add fog possible primary vicious explain siege";
+var mnemonic = "sell zoo hub echo ocean top library trial bring chicken boring stage";

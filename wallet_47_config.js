@@ -1,1 +1,1 @@
-var mnemonic = "multiply sheriff tongue wood print balance junk outer custom inquiry solid what";
+var mnemonic = "neither impact never sun oak tortoise hard liberty ensure frozen lyrics sudden";

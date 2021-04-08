@@ -1,1 +1,1 @@
-var mnemonic = "chief auction plastic broken taxi dice salute hub lounge trust blue aunt";
+var mnemonic = "wife claim siren spy antenna turn slam slot warfare again lucky coffee";

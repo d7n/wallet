@@ -1,1 +1,1 @@
-var mnemonic = "dust matter hand truth rigid pretty rapid pony embody picture abstract position";
+var mnemonic = "shine rare garment area amused tag moral fluid silly front soldier legend";

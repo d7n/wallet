@@ -1,1 +1,1 @@
-var mnemonic = "hub range wrap travel caution task unfold cover polar brave mother suit";
+var mnemonic = "find limb occur flush assist write argue quantum symbol funny legend hover";

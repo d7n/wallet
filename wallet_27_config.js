@@ -1,1 +1,1 @@
-var mnemonic = "sock first pulp tool curve unable census still dove fuel bomb caught";
+var mnemonic = "shock aspect twist gown save rail obtain bar layer runway decorate reward";

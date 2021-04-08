@@ -1,1 +1,1 @@
-var mnemonic = "say craft rain forum cupboard roof busy damage prefer shift bind amount";
+var mnemonic = "rib dinner river weather boil gospel horror toilet clarify figure garage toe";

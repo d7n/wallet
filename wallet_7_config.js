@@ -1,1 +1,1 @@
-var mnemonic = "fix pupil spin twenty sort random increase during give clay gauge modify";
+var mnemonic = "nose decrease boring inject utility thrive original fashion humor model buzz fatigue";

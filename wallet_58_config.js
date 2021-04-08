@@ -1,1 +1,1 @@
-var mnemonic = "that brave laugh clarify educate poverty wine elder peanut bag educate clerk";
+var mnemonic = "wide travel chuckle edit sing left abuse thought excuse then asset refuse";

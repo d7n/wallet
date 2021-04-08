@@ -1,1 +1,1 @@
-var mnemonic = "absorb shiver lesson gain list jazz strong hotel enroll diamond stove source";
+var mnemonic = "name title more scorpion tip surface aisle zero dizzy boost fatal hockey";

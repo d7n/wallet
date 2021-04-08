@@ -1,1 +1,1 @@
-var mnemonic = "gorilla transfer soft decide vivid barely life beef excite leopard blur capable";
+var mnemonic = "pool wheel transfer radar journey blast foster purse pulp detail weapon endless";

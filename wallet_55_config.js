@@ -1,1 +1,1 @@
-var mnemonic = "parade echo easy peace bone couch find rifle clock promote exchange grain";
+var mnemonic = "fury push flame rookie bracket minute sight flight song coffee diesel jacket";

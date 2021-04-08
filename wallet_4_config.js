@@ -1,1 +1,1 @@
-var mnemonic = "stand cause cram obtain angry eagle month dose recycle voice sport test";
+var mnemonic = "hire arrange planet expose mistake stem double sight admit hurt solution title";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture dawn snack reflect art media differ aerobic mesh garden predict dizzy";
+var mnemonic = "parrot benefit lion crash topple city bus fashion future mom juice whale";

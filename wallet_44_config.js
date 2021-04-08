@@ -1,1 +1,1 @@
-var mnemonic = "relax clock staff woman device return connect regular effort load blur surge";
+var mnemonic = "surface awkward seminar either man humor rail lake runway genuine cheap cost";

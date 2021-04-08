@@ -1,1 +1,1 @@
-var mnemonic = "scorpion noble hobby person fantasy theme stomach dumb travel clown guess inhale";
+var mnemonic = "protect arrest pave youth dress consider shine early erupt pluck fatal mirror";

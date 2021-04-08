@@ -1,1 +1,1 @@
-var mnemonic = "venue divorce hurdle hawk thumb any page deposit season believe boring inject";
+var mnemonic = "hundred either quantum peanut eagle utility document render zero fine base common";

@@ -1,1 +1,1 @@
-var mnemonic = "horn april release similar move toast ranch bullet fire tip problem usual";
+var mnemonic = "candy area number priority market much loop tray coconut oblige drip trade";

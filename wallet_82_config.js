@@ -1,1 +1,1 @@
-var mnemonic = "goose smooth devote arrive oven prepare wheat tip tip goat rail slender";
+var mnemonic = "paddle vote embark chaos staff direct wheel better code warrior home twenty";

@@ -1,1 +1,1 @@
-var mnemonic = "diet wonder stand have result error script horn student service canoe saddle";
+var mnemonic = "van behave deal mass current twist memory agent cannon define asthma man";

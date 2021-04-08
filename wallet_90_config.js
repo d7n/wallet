@@ -1,1 +1,1 @@
-var mnemonic = "answer loan decide lion cousin prize member program air wrist assume sauce";
+var mnemonic = "pulp live quiz cargo quality give clump wreck drift differ festival bamboo";

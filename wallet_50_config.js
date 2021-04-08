@@ -1,1 +1,1 @@
-var mnemonic = "fury add deal zero train door hobby energy hair ketchup cage battle";
+var mnemonic = "gasp peace drill luggage scout mechanic legend auction divide shoe three denial";

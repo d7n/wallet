@@ -1,1 +1,1 @@
-var mnemonic = "traffic call coyote about adult mansion cabbage use accident doll sand dinner";
+var mnemonic = "notice garbage void gloom drive season crime hundred small skate plug bubble";

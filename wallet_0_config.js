@@ -1,1 +1,1 @@
-var mnemonic = "symbol local column blind camera fabric genius project concert across harbor tumble";
+var mnemonic = "render lava inch range devote zone region idle hockey beach swallow crew";

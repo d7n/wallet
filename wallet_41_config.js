@@ -1,1 +1,1 @@
-var mnemonic = "obtain will appear glad yellow close cushion kiwi escape pony uncover salad";
+var mnemonic = "cousin crawl treat fade credit able split minimum shock cup stand toe";

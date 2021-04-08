@@ -1,1 +1,1 @@
-var mnemonic = "benefit heavy girl guard absorb school liberty movie banner time april sister";
+var mnemonic = "divorce hybrid transfer trouble two method umbrella plunge absorb error weapon tuna";

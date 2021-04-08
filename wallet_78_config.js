@@ -1,1 +1,1 @@
-var mnemonic = "stumble poverty popular ask wolf vast puzzle chief more extra clump main";
+var mnemonic = "rule process unusual rice stool plastic float dumb disease such verb suit";

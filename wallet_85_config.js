@@ -1,1 +1,1 @@
-var mnemonic = "filter core defy blast whip believe sound glove major cattle miss mask";
+var mnemonic = "fortune siren orphan primary mail curious enough jewel charge track install memory";

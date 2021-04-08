@@ -1,1 +1,1 @@
-var mnemonic = "fortune diet pretty cube zoo rich top hungry dune design before pole";
+var mnemonic = "sorry fashion carry gate owner novel boat exhibit gadget hope genuine eager";

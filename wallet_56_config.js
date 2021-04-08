@@ -1,1 +1,1 @@
-var mnemonic = "debate round satoshi decade panther forward parent snap eyebrow slight tilt half";
+var mnemonic = "purpose another obtain surprise spice school aerobic struggle dose question couple mosquito";

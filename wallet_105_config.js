@@ -1,1 +1,1 @@
-var mnemonic = "nurse notable notable calm couple climb walk dune people thunder gaze large";
+var mnemonic = "fix salmon trim mirror similar gesture during spy merge voyage ensure fold";

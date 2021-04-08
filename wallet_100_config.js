@@ -1,1 +1,1 @@
-var mnemonic = "beyond lamp trip opinion because piano profit auction rapid uphold inspire empty";
+var mnemonic = "crack cute egg mule error style kick essence lumber broom music more";

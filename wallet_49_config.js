@@ -1,1 +1,1 @@
-var mnemonic = "exit worry subway health process verify palm clean shield deputy popular rule";
+var mnemonic = "about program veteran reunion coyote vast much advice crash rural only obey";

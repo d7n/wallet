@@ -1,1 +1,1 @@
-var mnemonic = "fame cushion visit air guard damp dragon such cruel enlist burst virus";
+var mnemonic = "angry fever range secret great negative soup pull panel tiger melt hamster";

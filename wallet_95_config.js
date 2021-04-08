@@ -1,1 +1,1 @@
-var mnemonic = "marble blast wine again absent club luxury learn accuse cricket because dinosaur";
+var mnemonic = "toward style ask address cruel hat maid off mask hood firm sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican patrol hen much relief later renew vacuum primary prize enjoy loud";
+var mnemonic = "donor whale all local quality matter sing shallow kangaroo brisk planet page";

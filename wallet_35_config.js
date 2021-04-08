@@ -1,1 +1,1 @@
-var mnemonic = "now rifle wrist behind vessel price wedding asthma into trial peace dog";
+var mnemonic = "sure dress disease multiply version name curve code shadow object milk egg";

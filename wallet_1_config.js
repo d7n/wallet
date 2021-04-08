@@ -1,1 +1,1 @@
-var mnemonic = "august program miracle fold ranch decrease version stage someone glass group crucial";
+var mnemonic = "idle quiz hockey creek claw cake goddess load forward obvious ribbon extra";

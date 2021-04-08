@@ -1,1 +1,1 @@
-var mnemonic = "soccer uncover axis keep canyon stumble sand poem thrive shed nurse bulb";
+var mnemonic = "turn next neutral kind curve slab scare include history trouble plunge safe";

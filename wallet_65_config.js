@@ -1,1 +1,1 @@
-var mnemonic = "need wrap into race awkward always region few slam task swim impose";
+var mnemonic = "border area ritual fiction fix liar recycle prevent amazing practice peanut endless";

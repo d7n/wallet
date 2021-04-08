@@ -1,1 +1,1 @@
-var mnemonic = "control paddle dial dash found rose picture toy yellow urge hamster steak";
+var mnemonic = "great secret drill helmet bamboo actual craft olympic wide slender neck blue";

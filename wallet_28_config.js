@@ -1,1 +1,1 @@
-var mnemonic = "reform expose truly room equip tray fade sell mixed extend town setup";
+var mnemonic = "found credit object reflect fetch area bracket urban tongue galaxy bike warm";

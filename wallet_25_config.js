@@ -1,1 +1,1 @@
-var mnemonic = "sister peasant broccoli treat neutral reflect ghost wonder jacket august pluck helmet";
+var mnemonic = "beauty magic during slab old pair lizard weather silent ring leopard artefact";

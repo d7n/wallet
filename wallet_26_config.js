@@ -1,1 +1,1 @@
-var mnemonic = "room riot approve crime choice need version next auction orchard bean foot";
+var mnemonic = "stone giggle ranch glad liquid fiction anxiety neglect cattle dutch scatter sell";

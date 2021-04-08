@@ -1,1 +1,1 @@
-var mnemonic = "light wagon broccoli bullet age deny method lawsuit canvas gadget wide people";
+var mnemonic = "brush limb menu differ vital trim gown cigar ranch run open first";

@@ -1,1 +1,1 @@
-var mnemonic = "roof bike mail soup canoe lake blouse region health rare profit cinnamon";
+var mnemonic = "scheme permit remind flip equip gauge moon wrestle fragile lamp purpose maple";

@@ -1,1 +1,1 @@
-var mnemonic = "current myth bid culture extend blast fever seat upgrade spot close brand";
+var mnemonic = "blush alcohol clown december staff squirrel gown spoil attract auction lazy reopen";

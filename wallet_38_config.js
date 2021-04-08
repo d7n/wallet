@@ -1,1 +1,1 @@
-var mnemonic = "pistol stumble mean armor what weasel warfare salt cross day index today";
+var mnemonic = "work marine seminar physical illegal seven promote tray special trigger segment plastic";

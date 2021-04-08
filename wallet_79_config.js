@@ -1,1 +1,1 @@
-var mnemonic = "favorite museum hurt round shell life mesh symptom limit travel clarify topic";
+var mnemonic = "else region alley bubble document giant clock climb month innocent road clerk";

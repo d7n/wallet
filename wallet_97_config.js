@@ -1,1 +1,1 @@
-var mnemonic = "future wash scrub wool lift crunch rough strategy almost final cloth pet";
+var mnemonic = "veteran select life laundry vacuum robust sheriff spoil deputy renew nurse mixed";

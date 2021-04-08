@@ -1,1 +1,1 @@
-var mnemonic = "fatigue expand slush possible shaft scout advice link sick badge arena struggle";
+var mnemonic = "gesture result prosper machine invest habit walk oval receive rib beauty rabbit";

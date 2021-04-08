@@ -1,1 +1,1 @@
-var mnemonic = "decrease satoshi private six ketchup large include drive need vivid scheme mobile";
+var mnemonic = "fossil guide hybrid snake horror regular elder family emerge one purpose faculty";

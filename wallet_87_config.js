@@ -1,1 +1,1 @@
-var mnemonic = "hope rice access account track screen trophy panda sell plug future vote";
+var mnemonic = "december soul mimic kick speak wood wisdom just dawn bitter august brush";

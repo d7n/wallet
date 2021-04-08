@@ -1,1 +1,1 @@
-var mnemonic = "surround junk basket organ tooth order thumb hip suspect regret output imitate";
+var mnemonic = "roast drive capable reveal loan tomato shield pink fade brave road dust";

@@ -1,1 +1,1 @@
-var mnemonic = "rare tooth climb very biology prison water coral benefit pretty journey enact";
+var mnemonic = "company omit axis when memory brother wide unveil despair foot bulb journey";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy silent repeat vibrant play fire clerk undo slim muscle able connect";
+var mnemonic = "common radio attract canvas knee start page puppy column elite must expose";

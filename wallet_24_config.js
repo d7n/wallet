@@ -1,1 +1,1 @@
-var mnemonic = "spatial slow image win subway pledge problem nurse wagon magnet toward puzzle";
+var mnemonic = "grit occur connect lemon noise effort trend behave inject enable exclude circle";

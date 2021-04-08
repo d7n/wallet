@@ -1,1 +1,1 @@
-var mnemonic = "congress calm city unusual suffer time prepare observe organ stage law laugh";
+var mnemonic = "emotion tape pigeon honey before mind victory pass style topic ability tray";

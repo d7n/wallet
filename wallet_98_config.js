@@ -1,1 +1,1 @@
-var mnemonic = "mail arm close polar produce inquiry hotel laptop phrase pear company film";
+var mnemonic = "illegal invite armed brown version parrot basket luggage syrup mixture picnic beauty";

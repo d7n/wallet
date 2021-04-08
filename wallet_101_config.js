@@ -1,1 +1,1 @@
-var mnemonic = "critic fuel vivid depth cradle expect common again catalog mechanic height say";
+var mnemonic = "essence sadness help resource entry noodle educate ski tackle lonely notice youth";

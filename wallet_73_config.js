@@ -1,1 +1,1 @@
-var mnemonic = "cause alter lesson note spatial deliver twelve salad flame dove alcohol coconut";
+var mnemonic = "segment steak loan defense father illegal crater account aunt feel term swarm";

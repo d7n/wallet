@@ -1,1 +1,1 @@
-var mnemonic = "soap better retire width turn fall drill slim pelican trust diagram weekend";
+var mnemonic = "oak emotion punch minute museum dumb bus clarify planet hello dragon scrap";

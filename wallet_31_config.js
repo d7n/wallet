@@ -1,1 +1,1 @@
-var mnemonic = "climb gloom deputy light tomorrow aunt basket stove hungry genius mule damp";
+var mnemonic = "finish blind admit release company coffee have comfort juice acoustic voice grace";

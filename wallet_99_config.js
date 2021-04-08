@@ -1,1 +1,1 @@
-var mnemonic = "curious camera track spoil suit unknown decorate adult struggle polar spirit spike";
+var mnemonic = "into boil odor total current ritual dizzy matrix aerobic immune tank spoil";

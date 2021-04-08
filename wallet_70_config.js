@@ -1,1 +1,1 @@
-var mnemonic = "valley trip shy shift hobby buffalo ankle author pass ensure address talent";
+var mnemonic = "vague pudding foot margin clog food festival open battle sausage stay basic";

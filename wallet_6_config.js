@@ -1,1 +1,1 @@
-var mnemonic = "soldier soda deputy wire ostrich prepare cereal cargo bulb retire captain erosion";
+var mnemonic = "record merry later vital joke another smile melt achieve group eager jacket";

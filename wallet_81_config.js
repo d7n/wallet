@@ -1,1 +1,1 @@
-var mnemonic = "orange air eagle dignity economy impose ladder argue swing recall head pink";
+var mnemonic = "cabbage time rug popular tribe east credit moon window grid parrot warrior";

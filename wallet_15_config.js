@@ -1,1 +1,1 @@
-var mnemonic = "grain filter uncover sustain scatter list foam mask ask earn wrestle panel";
+var mnemonic = "item mind wrestle range promote eagle bleak agent describe wage drip bonus";

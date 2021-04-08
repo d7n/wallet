@@ -1,1 +1,1 @@
-var mnemonic = "brother dish purse jealous oil public burst slide spread tourist flavor crater";
+var mnemonic = "rocket slogan across december share field reject rude picture month student rude";

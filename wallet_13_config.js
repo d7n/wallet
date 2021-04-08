@@ -1,1 +1,1 @@
-var mnemonic = "address honey nasty lock era bread grief region broccoli just apology shine";
+var mnemonic = "year swift acid mansion settle wide coin circle despair own size fatal";

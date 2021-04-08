@@ -1,1 +1,1 @@
-var mnemonic = "twin hood crucial cherry evidence more about thought manual heavy ketchup snake";
+var mnemonic = "awake trust trigger sleep cause pyramid oil ugly sort claim clever crime";

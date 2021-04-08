@@ -1,1 +1,1 @@
-var mnemonic = "task mask arrow absurd century holiday bottom vacant hip winner fog maid";
+var mnemonic = "cactus welcome train until march slush build visual deputy ensure angry soul";

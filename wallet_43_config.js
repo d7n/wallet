@@ -1,1 +1,1 @@
-var mnemonic = "delay turkey soda silk unable harbor blanket weapon review sock busy cannon";
+var mnemonic = "crime horn bargain little agree proud ship clay file organ notable trend";

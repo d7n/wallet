@@ -1,1 +1,1 @@
-var mnemonic = "impulse people fashion helmet sentence scheme unaware live undo basket garlic anchor";
+var mnemonic = "saddle firm almost true open ticket curious tuition patch frame want orphan";

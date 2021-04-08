@@ -1,1 +1,1 @@
-var mnemonic = "east glass hint dynamic laptop fame spin library atom shy obtain improve";
+var mnemonic = "angry diamond kiss enlist unknown glide awesome field stairs milk black biology";

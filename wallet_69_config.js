@@ -1,1 +1,1 @@
-var mnemonic = "bronze elegant weather hill audit intact volume false finish question element tree";
+var mnemonic = "joy snap holiday inflict reflect total kind exotic eager easily sunset kangaroo";

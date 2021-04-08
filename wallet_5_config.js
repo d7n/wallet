@@ -1,1 +1,1 @@
-var mnemonic = "start broccoli matrix afford seed believe bid fold evil chunk brief kick";
+var mnemonic = "sponsor kangaroo busy stage debate update opinion loyal tip wisdom magic pretty";

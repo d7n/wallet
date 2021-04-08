@@ -1,1 +1,1 @@
-var mnemonic = "hill impose love actual come luggage stuff ten weasel blast cake huge";
+var mnemonic = "ketchup alcohol squirrel sweet universe annual become air alter idea display bird";

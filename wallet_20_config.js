@@ -1,1 +1,1 @@
-var mnemonic = "drink addict steak magnet equip dizzy squeeze slam spoil awesome brick flower";
+var mnemonic = "mimic pause swarm solve exile gossip switch clay reform inside crowd unveil";

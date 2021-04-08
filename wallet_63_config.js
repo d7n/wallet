@@ -1,1 +1,1 @@
-var mnemonic = "lend move gentle fiber again smooth program dolphin neither ask true grid";
+var mnemonic = "chef quantum cruise meadow wrong smart broccoli swarm luggage shine sword sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "capital black hammer rose average zone window describe client bless miracle hip";
+var mnemonic = "face age negative now bachelor october balance relax list idea action exclude";

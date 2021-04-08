@@ -1,1 +1,1 @@
-var mnemonic = "cash sock reflect property update unusual once attend solar immense pottery round";
+var mnemonic = "expand scan begin live sand wood depart bicycle bus photo yard melt";

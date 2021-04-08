@@ -1,1 +1,1 @@
-var mnemonic = "media nasty wrong smile glad strike census liquid letter coral saddle illegal";
+var mnemonic = "drift uniform tell leave donate proof crumble town accident hand birth amateur";

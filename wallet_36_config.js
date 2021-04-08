@@ -1,1 +1,1 @@
-var mnemonic = "lecture erosion media review innocent hair scatter weasel enough erode nominee produce";
+var mnemonic = "session absent visa fox witness all insect push father hybrid random source";

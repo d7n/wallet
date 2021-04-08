@@ -1,1 +1,1 @@
-var mnemonic = "win post above ocean spare increase leader modify teach when spend forget";
+var mnemonic = "stock aspect case sock dance fall guitar excite remind vehicle bamboo topic";
