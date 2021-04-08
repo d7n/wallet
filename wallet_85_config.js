@@ -1,1 +1,1 @@
-var mnemonic = "tip ahead arch border seat impulse lizard rent artwork toss coyote invest";
+var mnemonic = "kidney clever oil ginger uphold main maximum eternal spike belt asthma portion";

@@ -1,1 +1,1 @@
-var mnemonic = "soon exchange great adjust main name trim rival long pottery tomorrow soon";
+var mnemonic = "young daring kite knock first display goose lonely supply faint angle shift";

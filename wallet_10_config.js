@@ -1,1 +1,1 @@
-var mnemonic = "blush reunion bless lift plastic flag pill guard cabbage love anger pride";
+var mnemonic = "assume accident step dial start fuel misery lake audit feature fire tuition";

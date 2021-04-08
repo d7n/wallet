@@ -1,1 +1,1 @@
-var mnemonic = "catch tissue wheel direct diagram luxury sausage damp skirt weekend winter bottom";
+var mnemonic = "engine under path rare culture awkward polar tired method tank mix bronze";

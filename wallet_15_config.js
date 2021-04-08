@@ -1,1 +1,1 @@
-var mnemonic = "estate earth grocery giggle wedding shaft ketchup turtle rubber cluster yellow primary";
+var mnemonic = "bone joke tiny indoor foot valley hotel injury truck plate nature fire";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet roof buddy chest raw rifle verb sing wool staff fossil dignity";
+var mnemonic = "absent onion tired ball grape glory green need nut ripple budget toe";

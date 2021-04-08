@@ -1,1 +1,1 @@
-var mnemonic = "nerve behind envelope kit coyote hazard stumble traffic region account tiny web";
+var mnemonic = "pitch potato scissors monkey table twice syrup kid diary material village rent";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid bounce toss gift soccer south shield miracle potato dry impose butter";
+var mnemonic = "extra next milk find digital cloth resemble drive pretty exotic modify lady";

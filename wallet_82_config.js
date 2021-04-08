@@ -1,1 +1,1 @@
-var mnemonic = "regret nature abstract umbrella taxi appear stairs layer leaf trigger paper amateur";
+var mnemonic = "click distance soap cruel bless income penalty nephew tell truly sorry grass";

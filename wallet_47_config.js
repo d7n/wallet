@@ -1,1 +1,1 @@
-var mnemonic = "float robot rate deposit ginger gap program deliver mimic injury glide canyon";
+var mnemonic = "stock stock host return earn mountain usual eager demand brother exist various";

@@ -1,1 +1,1 @@
-var mnemonic = "panda stumble syrup dentist hunt marble dad sleep split hungry album curious";
+var mnemonic = "door actor winner come spy lesson answer author ribbon wish system man";

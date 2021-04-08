@@ -1,1 +1,1 @@
-var mnemonic = "poet you cost day cool raise ring timber design system clutch initial";
+var mnemonic = "digital bracket talent street clip split teach cable vendor someone clay husband";

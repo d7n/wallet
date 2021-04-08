@@ -1,1 +1,1 @@
-var mnemonic = "fade cushion tooth fiction empty stock eight speed palace chimney control learn";
+var mnemonic = "skull rely act mail trap joke job sea next better peanut mass";

@@ -1,1 +1,1 @@
-var mnemonic = "connect must excess palace sugar illegal estate ceiling hill border consider title";
+var mnemonic = "van open puzzle rose captain matter rocket junior purse census strike define";

@@ -1,1 +1,1 @@
-var mnemonic = "pond error athlete avoid doctor cake chief shift scissors social busy find";
+var mnemonic = "guitar tip enlist episode flavor art merit garment gift reason discover table";

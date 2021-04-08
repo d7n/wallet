@@ -1,1 +1,1 @@
-var mnemonic = "exercise play foam rate eagle beauty never desk biology together picture throw";
+var mnemonic = "pyramid walnut country squeeze arrest wide moral control pink cannon monitor problem";

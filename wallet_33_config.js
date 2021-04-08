@@ -1,1 +1,1 @@
-var mnemonic = "rookie cave valve bicycle piece amazing olympic spend enough bronze review burger";
+var mnemonic = "future keep inquiry valve half enter patch erosion pledge powder pencil yellow";

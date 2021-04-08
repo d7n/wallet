@@ -1,1 +1,1 @@
-var mnemonic = "pilot resource slab twenty food asthma secret tortoise differ defy ripple soup";
+var mnemonic = "judge wonder wool roast clog shine spoon limit prefer social high steak";

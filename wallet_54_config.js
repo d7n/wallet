@@ -1,1 +1,1 @@
-var mnemonic = "combine protect warm crop supreme display caution hour manual connect grape glue";
+var mnemonic = "catch car term fuel clerk sustain vintage style explain target lazy wink";

@@ -1,1 +1,1 @@
-var mnemonic = "valve polar twenty deliver lock stage present soft sister end goose castle";
+var mnemonic = "velvet stuff kit fetch moon grace phone narrow mule sad solve city";

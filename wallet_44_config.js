@@ -1,1 +1,1 @@
-var mnemonic = "turn dress water document lizard agree remain grab wealth easily vault ahead";
+var mnemonic = "confirm swarm average spike antenna helmet horror sauce about quick view hair";

@@ -1,1 +1,1 @@
-var mnemonic = "arch owner slush topic sudden cluster second salon soldier ten hand govern";
+var mnemonic = "festival alter nerve obscure answer pause pretty sample link armed coin cliff";

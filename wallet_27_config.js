@@ -1,1 +1,1 @@
-var mnemonic = "canyon pipe fantasy gadget trade waste decorate render click west maple rude";
+var mnemonic = "casino seven cake pencil birth screen soft march axis coast spawn season";

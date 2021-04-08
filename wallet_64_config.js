@@ -1,1 +1,1 @@
-var mnemonic = "damage degree trust wisdom job custom craft best price move silk pull";
+var mnemonic = "hamster dice profit meadow patch powder choice law menu outdoor amateur choice";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid body grace surround level certain sea insane satisfy below road fantasy";
+var mnemonic = "choice valve before grocery glance nominee print choose candy culture spice major";

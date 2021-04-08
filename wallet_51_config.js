@@ -1,1 +1,1 @@
-var mnemonic = "million cram order people carbon lift slogan frog manual elbow prepare pull";
+var mnemonic = "pass energy myth decade faith repeat catch often vehicle enjoy weapon daring";

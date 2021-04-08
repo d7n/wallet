@@ -1,1 +1,1 @@
-var mnemonic = "fringe jelly skull catalog mango dove green angry tape party alien ramp";
+var mnemonic = "punch ocean vanish bicycle collect ball please radar clinic bid inform exit";

@@ -1,1 +1,1 @@
-var mnemonic = "thank music verb bid thought roof immune autumn clown robot gain eternal";
+var mnemonic = "lumber job come alert basic mistake shine damage moral impulse yard liar";

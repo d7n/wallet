@@ -1,1 +1,1 @@
-var mnemonic = "clutch wage toast all language badge nerve welcome current truth share diamond";
+var mnemonic = "gold length govern alone agree smoke ginger cook allow story fit nest";

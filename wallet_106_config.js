@@ -1,1 +1,1 @@
-var mnemonic = "coach room warm swift jewel blur defense express patient rival nation resemble";
+var mnemonic = "mechanic economy solar wire gospel dragon tired derive base where rapid hello";

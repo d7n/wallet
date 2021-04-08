@@ -1,1 +1,1 @@
-var mnemonic = "oblige screen shiver bitter fantasy retire amateur total reward wedding soul pink";
+var mnemonic = "leg spread story plastic squeeze absent combine inject infant blue model busy";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic fancy inherit expose dry online soul talent embark salad clip bottom";
+var mnemonic = "perfect season liquid bean knee affair high busy wheel fog vocal cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme top useful victory aisle street regret giant helmet ribbon valid pull";
+var mnemonic = "favorite winter typical retire divorce hockey cereal dice water portion arrive supply";

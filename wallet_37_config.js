@@ -1,1 +1,1 @@
-var mnemonic = "paddle uncle net screen idle original reduce achieve fire sense reopen someone";
+var mnemonic = "spawn supreme crunch aunt seat symbol brave lumber pumpkin tomato lion drive";

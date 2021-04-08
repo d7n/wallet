@@ -1,1 +1,1 @@
-var mnemonic = "core prepare bench mother access tennis dog lazy episode prison runway purse";
+var mnemonic = "regular lawsuit phrase profit grab victory creek choice credit comic fork oyster";

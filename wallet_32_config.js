@@ -1,1 +1,1 @@
-var mnemonic = "surround please sell gaze gown habit opinion soft seven sand often parent";
+var mnemonic = "diesel nice palace virtual acquire vote enroll boil over position link shop";

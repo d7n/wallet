@@ -1,1 +1,1 @@
-var mnemonic = "boss verb east vessel already income cabin width urge weekend forward owner";
+var mnemonic = "require provide pole credit twelve umbrella decade discover marine banner trigger east";

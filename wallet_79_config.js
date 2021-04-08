@@ -1,1 +1,1 @@
-var mnemonic = "strategy say divorce inform mansion winter program side hip police parrot ripple";
+var mnemonic = "much flag bargain merit pair clump fruit salute drum yellow hand wagon";

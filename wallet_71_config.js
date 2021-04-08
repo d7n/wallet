@@ -1,1 +1,1 @@
-var mnemonic = "brass few opinion holiday spring never chalk banner cement habit bottom rule";
+var mnemonic = "slight uniform spin final prize empower example orchard strike payment juice assume";

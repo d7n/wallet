@@ -1,1 +1,1 @@
-var mnemonic = "fun theme seat midnight error trick leader nature oxygen other nature gather";
+var mnemonic = "timber grief unusual silent perfect mixed faint myth isolate steak cruel badge";

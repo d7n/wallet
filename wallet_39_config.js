@@ -1,1 +1,1 @@
-var mnemonic = "quality result stand consider brick girl include oval vapor merit winner damage";
+var mnemonic = "forum toy trumpet sing pole border ready mixed digital you coin salmon";

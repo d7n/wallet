@@ -1,1 +1,1 @@
-var mnemonic = "clip embrace behind find innocent knock end actor retire draw crush chunk";
+var mnemonic = "turtle skull rubber ecology toss pass want fringe wrestle repeat repeat rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "auction leave fiber decline illness aerobic snap language lyrics advance grass tube";
+var mnemonic = "anxiety bomb blush kitchen cause night margin virtual dynamic toilet rural minute";

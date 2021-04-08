@@ -1,1 +1,1 @@
-var mnemonic = "shop question later travel hunt shoe rare ignore hockey fog tennis beauty";
+var mnemonic = "rotate click because huge copy obscure puppy twenty all arrow jump border";

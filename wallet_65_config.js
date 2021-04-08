@@ -1,1 +1,1 @@
-var mnemonic = "lamp reveal virtual dynamic outdoor census palace surface matter marble trust scissors";
+var mnemonic = "home raven desert bench member usual gather convince parrot weasel travel laugh";

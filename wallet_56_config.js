@@ -1,1 +1,1 @@
-var mnemonic = "circle poem search another keep slice harsh inner resemble marriage reflect volume";
+var mnemonic = "wet latin object teach day drink monitor resemble ball security fat chimney";

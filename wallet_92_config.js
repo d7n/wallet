@@ -1,1 +1,1 @@
-var mnemonic = "else near bring exit move circle dutch switch gorilla chef shaft spoon";
+var mnemonic = "improve quote cart lawn shy about hunt steel suspect nest neglect crawl";

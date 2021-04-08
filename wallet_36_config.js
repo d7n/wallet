@@ -1,1 +1,1 @@
-var mnemonic = "sauce pretty tank process mean gravity solution daring kidney crack fame slice";
+var mnemonic = "very novel abstract purse science typical logic flower wrap raise daughter diesel";

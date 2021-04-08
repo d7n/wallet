@@ -1,1 +1,1 @@
-var mnemonic = "away welcome input genius oval lock elbow voyage enjoy filter phone boil";
+var mnemonic = "guard bus speak pottery suffer jelly film fitness phone order grow mutual";

@@ -1,1 +1,1 @@
-var mnemonic = "decide protect income forum enrich correct use indicate evil moon bottom grab";
+var mnemonic = "license program chair ordinary easily twist point physical convince found sauce pig";

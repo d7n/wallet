@@ -1,1 +1,1 @@
-var mnemonic = "mouse mass ostrich noodle alone expire toilet away again outer gloom barely";
+var mnemonic = "what mask juice violin hawk sunset custom explain dizzy dynamic height media";

@@ -1,1 +1,1 @@
-var mnemonic = "alert canal benefit caught noodle film soft cat fatal huge payment task";
+var mnemonic = "describe crash garlic inner private random grab abstract bar ring ticket nothing";

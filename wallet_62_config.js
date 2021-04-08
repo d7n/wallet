@@ -1,1 +1,1 @@
-var mnemonic = "hire waste popular wall audit brick express truck pull puppy entire danger";
+var mnemonic = "law thank jazz slender lemon trap staff reveal mango kit wheat opinion";

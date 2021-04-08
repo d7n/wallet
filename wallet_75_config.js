@@ -1,1 +1,1 @@
-var mnemonic = "woman angle lucky key typical know fatal other forward ask grape eight";
+var mnemonic = "nice all snack advance dirt friend sock venture donkey coconut speed vessel";

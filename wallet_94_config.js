@@ -1,1 +1,1 @@
-var mnemonic = "treat vacant fluid guilt glue ozone fresh human mixture dance pupil clay";
+var mnemonic = "salute region day choose legal conduct first pole biology moon jealous ski";

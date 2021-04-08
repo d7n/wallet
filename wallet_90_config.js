@@ -1,1 +1,1 @@
-var mnemonic = "remind sudden reunion sentence autumn multiply orient monkey proof smoke indicate exercise";
+var mnemonic = "hill reform board fame genius present horse mask river disease truth cool";

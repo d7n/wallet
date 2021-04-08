@@ -1,1 +1,1 @@
-var mnemonic = "unique faint source ugly advice choice silent banner invite charge salt grab";
+var mnemonic = "forum remove trigger cement club supreme legend ladder shift devote sell design";

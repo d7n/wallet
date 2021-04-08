@@ -1,1 +1,1 @@
-var mnemonic = "fury trash attract slush step prosper input skirt bind movie start mind";
+var mnemonic = "file forward struggle lizard ceiling eight west develop patient uniform jungle finger";

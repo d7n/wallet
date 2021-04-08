@@ -1,1 +1,1 @@
-var mnemonic = "service split end rely eye caution enforce arctic funny wise chaos trumpet";
+var mnemonic = "again paddle coast mountain rug fruit honey enforce pepper involve kidney artefact";

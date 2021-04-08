@@ -1,1 +1,1 @@
-var mnemonic = "wink rude detail seminar festival venture sweet float yard dash swift olympic";
+var mnemonic = "either fragile already neither attract front patrol relax used clown stereo blanket";

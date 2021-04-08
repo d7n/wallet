@@ -1,1 +1,1 @@
-var mnemonic = "tent wasp accuse level sport cheese tongue wine buffalo mechanic heavy quiz";
+var mnemonic = "mind reunion sausage blood reunion girl final chest enrich season awful horn";

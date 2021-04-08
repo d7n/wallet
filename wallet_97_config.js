@@ -1,1 +1,1 @@
-var mnemonic = "carpet attitude palm melody color elbow hold super remind mother tooth thunder";
+var mnemonic = "mule fire danger organ cage beach unveil machine patient evil option harvest";

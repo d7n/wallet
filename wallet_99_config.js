@@ -1,1 +1,1 @@
-var mnemonic = "pond cherry major ignore brick frown victory reward blame crunch agent urban";
+var mnemonic = "fancy clean acoustic bag private noise need surprise good problem wet cloth";

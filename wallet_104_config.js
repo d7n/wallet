@@ -1,1 +1,1 @@
-var mnemonic = "mass matter elite envelope glass insect unable enhance include sea hundred stable";
+var mnemonic = "exchange syrup cry believe common finger disease mimic punch mobile high bachelor";

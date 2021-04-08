@@ -1,1 +1,1 @@
-var mnemonic = "empower such cereal unknown expose basket salad champion sunny track exclude ability";
+var mnemonic = "curve marble brush aim sphere amount similar dust ankle patrol oven current";

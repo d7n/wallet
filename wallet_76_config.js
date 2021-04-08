@@ -1,1 +1,1 @@
-var mnemonic = "breeze hour eagle lift hip athlete credit title area boost dragon ordinary";
+var mnemonic = "try alcohol artefact matrix soul glare large check aim finger inflict render";

@@ -1,1 +1,1 @@
-var mnemonic = "question side beyond wealth march pilot select acquire jazz index attitude mixed";
+var mnemonic = "machine jeans tobacco true garage welcome grab return recycle shy pelican side";

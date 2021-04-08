@@ -1,1 +1,1 @@
-var mnemonic = "among crew object talent nerve cash wave spring steak birth stage neglect";
+var mnemonic = "wedding minor coyote subject vessel adjust response ivory verify uncover nuclear damp";

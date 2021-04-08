@@ -1,1 +1,1 @@
-var mnemonic = "adult camera protect dinner output ritual glad junk cherry allow scare shed";
+var mnemonic = "neck donate matrix sponsor tower reform power ride column fade deposit annual";

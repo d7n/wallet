@@ -1,1 +1,1 @@
-var mnemonic = "subject congress ahead laundry kiwi light salon trim robot together odor shaft";
+var mnemonic = "awesome cruel copy pioneer clog gold adult bounce hint blur robust umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "angry rebuild sustain enable riot lens range crack health lava fine trim";
+var mnemonic = "wrist burger silver dog sun range attack second feature good sibling charge";

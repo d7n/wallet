@@ -1,1 +1,1 @@
-var mnemonic = "bind wagon olive suggest bachelor announce latin ready hospital organ later burger";
+var mnemonic = "kangaroo fiction midnight topple mobile offer suggest accuse earn main often return";

@@ -1,1 +1,1 @@
-var mnemonic = "boy news tag wild lab rally dust draft liberty then exist sample";
+var mnemonic = "just spell rare canyon library increase beach pupil spell floor surge episode";

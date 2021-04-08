@@ -1,1 +1,1 @@
-var mnemonic = "people slight inquiry chair wait use taste corn strike you robot ghost";
+var mnemonic = "bus senior sand stick melody distance rack gown fine primary main cruel";

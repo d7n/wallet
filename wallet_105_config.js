@@ -1,1 +1,1 @@
-var mnemonic = "fiber search tobacco trigger ask rib kite country avoid ripple drum nurse";
+var mnemonic = "section soft idea mass guilt obscure confirm palm bench enact assault very";

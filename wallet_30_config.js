@@ -1,1 +1,1 @@
-var mnemonic = "teach top myself table clutch joy fossil elegant minute adapt soap arrest";
+var mnemonic = "electric reduce street sing fancy suit group foot predict patient knee marriage";

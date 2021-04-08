@@ -1,1 +1,1 @@
-var mnemonic = "rude exit final spoil renew thank direct photo barrel regular mutual actress";
+var mnemonic = "sketch unique change sport merry such tissue hundred useful involve fuel evidence";

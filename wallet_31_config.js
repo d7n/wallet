@@ -1,1 +1,1 @@
-var mnemonic = "mammal cousin above cigar save hurt salmon color word act first sphere";
+var mnemonic = "dawn museum green time sand pet lemon spawn pottery twist unique six";

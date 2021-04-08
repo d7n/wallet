@@ -1,1 +1,1 @@
-var mnemonic = "bean palace drive market thrive say mean elephant lizard jacket episode arrive";
+var mnemonic = "vague music violin glare pulse oval early mask cinnamon attitude surround busy";

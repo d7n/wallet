@@ -1,1 +1,1 @@
-var mnemonic = "access choose hover useful maple virtual cloud then broccoli distance hazard swim";
+var mnemonic = "increase scatter pause pig drink social mask illegal grain device tackle strategy";

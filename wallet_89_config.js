@@ -1,1 +1,1 @@
-var mnemonic = "drip six beach fever tooth depart horror guitar similar nominee such satoshi";
+var mnemonic = "play erosion region time drum total pencil finger palm dress live success";

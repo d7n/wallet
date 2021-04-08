@@ -1,1 +1,1 @@
-var mnemonic = "hat cousin wave puzzle antenna scene tray library case swing exist concert";
+var mnemonic = "amazing sudden trick angry bar festival neutral unveil raise ignore sick random";

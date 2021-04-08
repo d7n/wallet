@@ -1,1 +1,1 @@
-var mnemonic = "holiday rail rain stick salad glimpse predict regular transfer poet cross worth";
+var mnemonic = "review suffer monster dish slide control cupboard memory only remove guard mirror";

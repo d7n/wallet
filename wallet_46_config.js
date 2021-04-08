@@ -1,1 +1,1 @@
-var mnemonic = "poem draw broccoli innocent ready ivory erode scissors ecology enlist offer erode";
+var mnemonic = "only decrease advance fragile female toss plate order because true direct knock";

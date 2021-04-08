@@ -1,1 +1,1 @@
-var mnemonic = "huge fee moment hungry divert place delay tenant now meat depend glass";
+var mnemonic = "air venue dish zone diary brave push wrestle later salon atom coast";
