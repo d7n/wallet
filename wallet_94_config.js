@@ -1,1 +1,1 @@
-var mnemonic = "farm ramp ahead castle else match energy head network recycle finger voyage";
+var mnemonic = "cause aware surprise water project write loud noise artefact annual real input";

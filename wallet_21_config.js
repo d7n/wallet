@@ -1,1 +1,1 @@
-var mnemonic = "denial anxiety element found rapid ecology hen nut gain learn egg sad";
+var mnemonic = "nuclear salute wear safe reduce camp play hawk very ivory ignore side";

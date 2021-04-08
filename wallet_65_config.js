@@ -1,1 +1,1 @@
-var mnemonic = "sea regret wife group stock message enroll okay addict main uphold glove";
+var mnemonic = "payment squirrel tourist scatter arch joke person bicycle mad amused air acid";

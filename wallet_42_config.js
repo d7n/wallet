@@ -1,1 +1,1 @@
-var mnemonic = "other sleep female priority wisdom this father version rail sibling wing illegal";
+var mnemonic = "night series raw mention isolate ozone put catalog twice dog used ticket";

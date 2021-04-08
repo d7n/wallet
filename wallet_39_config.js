@@ -1,1 +1,1 @@
-var mnemonic = "garage chimney aerobic mandate phrase must tattoo vintage fiber snake narrow six";
+var mnemonic = "quick swallow wine ridge mistake wall brass visa wealth you alarm leg";

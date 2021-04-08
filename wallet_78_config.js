@@ -1,1 +1,1 @@
-var mnemonic = "army wide know struggle rival force impulse spread hard salon diamond piano";
+var mnemonic = "average pony when speak spirit friend shoe basket term envelope social swift";

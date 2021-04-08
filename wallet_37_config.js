@@ -1,1 +1,1 @@
-var mnemonic = "tray burden future humor aunt chicken hospital this start can achieve upset";
+var mnemonic = "best medal atom guilt sand need device cloth survey drill unhappy wood";

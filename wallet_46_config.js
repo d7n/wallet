@@ -1,1 +1,1 @@
-var mnemonic = "vivid property praise sick cook purity faculty base half inhale drive flame";
+var mnemonic = "hospital slide shed cigar shock dolphin risk ship betray alert observe pave";

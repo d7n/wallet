@@ -1,1 +1,1 @@
-var mnemonic = "under feature forest oak theme crawl curtain atom lemon damp nerve knife";
+var mnemonic = "bargain thing fury tiger ten connect area venture acquire sauce purchase slot";

@@ -1,1 +1,1 @@
-var mnemonic = "manage similar divert satisfy true opera volcano lottery suggest bid captain ecology";
+var mnemonic = "half magic lunch giraffe bicycle brave hat clap kingdom family message aisle";

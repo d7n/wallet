@@ -1,1 +1,1 @@
-var mnemonic = "funny wide taxi market frog crisp talk captain kitten predict smart home";
+var mnemonic = "calm punch oppose organ cushion silk session section umbrella amount car room";

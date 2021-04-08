@@ -1,1 +1,1 @@
-var mnemonic = "drama toddler close rate pretty addict disease charge foot rate tobacco upper";
+var mnemonic = "outside change snake melody battle carpet remind skill tunnel silent spare trash";

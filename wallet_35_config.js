@@ -1,1 +1,1 @@
-var mnemonic = "noise help unable treat gun extend bounce original document piano tag anger";
+var mnemonic = "rare banner actor disorder donkey surface fatal segment shock announce plate snake";

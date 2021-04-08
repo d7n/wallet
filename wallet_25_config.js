@@ -1,1 +1,1 @@
-var mnemonic = "never lend remove rural voice pistol sleep rural blue sausage poem strike";
+var mnemonic = "group wild slender travel arm world width grass ticket sudden deer crash";

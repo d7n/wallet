@@ -1,1 +1,1 @@
-var mnemonic = "matter welcome cute immense blouse hungry apart display analyst south decorate entry";
+var mnemonic = "buyer next doctor crash love gossip fan baby become elephant theory insect";

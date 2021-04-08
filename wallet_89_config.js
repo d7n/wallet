@@ -1,1 +1,1 @@
-var mnemonic = "crunch spend betray pear carpet embody act segment copper shift diamond cereal";
+var mnemonic = "dentist envelope cage day grain proof like phone analyst home boring december";

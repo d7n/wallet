@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow shiver foil dismiss honey forum minimum rude pelican fine grief slow";
+var mnemonic = "consider warrior account phrase soon any green learn home praise gossip zebra";

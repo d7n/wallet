@@ -1,1 +1,1 @@
-var mnemonic = "paper genuine shoot popular grape mansion silk health squirrel library art under";
+var mnemonic = "evolve song flower river weasel butter work opera neither easily head snow";

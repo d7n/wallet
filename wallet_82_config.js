@@ -1,1 +1,1 @@
-var mnemonic = "rely strategy penalty rocket lift force now kiss busy ride excess virus";
+var mnemonic = "toddler produce expand economy blossom blade topic maple deny grocery foil firm";

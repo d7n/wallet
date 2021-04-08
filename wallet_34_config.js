@@ -1,1 +1,1 @@
-var mnemonic = "session congress primary lens arrange speed taxi robot adapt top increase gate";
+var mnemonic = "weapon sight tornado charge focus produce unique cute wish sleep finger act";

@@ -1,1 +1,1 @@
-var mnemonic = "script cinnamon flash labor shine term goat rifle relax table wolf clean";
+var mnemonic = "wolf field chimney pudding calm series initial code grain awake own motor";

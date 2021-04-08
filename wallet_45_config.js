@@ -1,1 +1,1 @@
-var mnemonic = "grid month weather mirror acid increase client token evidence ginger window ski";
+var mnemonic = "ribbon stove spike join nice similar unique other tongue business time buyer";

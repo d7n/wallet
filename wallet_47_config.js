@@ -1,1 +1,1 @@
-var mnemonic = "time offer review defy typical square broken town crop leader model fork";
+var mnemonic = "tree biology club okay prosper measure argue capable corn paper mobile aim";

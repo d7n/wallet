@@ -1,1 +1,1 @@
-var mnemonic = "flame forest faith lion antenna cram trumpet swear helmet oven scatter demise";
+var mnemonic = "goose book gentle spirit reopen blossom umbrella analyst text guitar nut patch";

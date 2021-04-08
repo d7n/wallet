@@ -1,1 +1,1 @@
-var mnemonic = "usual insect cupboard valid cool reflect frozen maze matter fitness poem sample";
+var mnemonic = "cream account code enemy dish mask tongue legend finger excuse little thought";

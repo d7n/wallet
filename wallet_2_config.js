@@ -1,1 +1,1 @@
-var mnemonic = "unknown dumb frequent vehicle laugh anchor oil vague cargo rifle trend shrug";
+var mnemonic = "special spot idle mammal diary nice outer wire harvest dust lawsuit ask";

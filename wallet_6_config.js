@@ -1,1 +1,1 @@
-var mnemonic = "captain choice describe duck decrease wine oblige pudding farm kind neck nest";
+var mnemonic = "flat plunge food beauty mutual visa humble sentence route wrap table number";

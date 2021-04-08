@@ -1,1 +1,1 @@
-var mnemonic = "canyon present frozen burger submit wife flavor urban chief enroll replace blanket";
+var mnemonic = "clock add portion safe more boat faculty narrow now crumble embrace lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon senior return spatial churn wasp story situate parent submit hen venue";
+var mnemonic = "curve elbow success patch absurd toddler way finish short jewel squeeze woman";

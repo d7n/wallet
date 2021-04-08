@@ -1,1 +1,1 @@
-var mnemonic = "guess sniff cry exile coconut ostrich answer truck acid thought feel movie";
+var mnemonic = "pear distance leopard action hunt faith junk screen blush mountain churn spin";

@@ -1,1 +1,1 @@
-var mnemonic = "glow enable rotate circle enact sort surge aware vendor twist man unaware";
+var mnemonic = "planet pretty much autumn seek habit sign jewel giggle ramp text maximum";

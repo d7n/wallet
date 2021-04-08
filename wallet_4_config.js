@@ -1,1 +1,1 @@
-var mnemonic = "scrub benefit hurt off spirit market dumb forest agent senior success inflict";
+var mnemonic = "cheese hurt verb runway wine whisper noble heavy negative latin supply dismiss";

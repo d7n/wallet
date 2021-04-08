@@ -1,1 +1,1 @@
-var mnemonic = "iron apart raise very very simple animal soul lonely review castle smooth";
+var mnemonic = "elite history visit virus derive boring clown eight behave come era ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "torch wonder pepper finger gate symptom scrub final leisure capital document local";
+var mnemonic = "punch myself gain gym fatal spoon double sort neglect need cabbage famous";

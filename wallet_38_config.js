@@ -1,1 +1,1 @@
-var mnemonic = "skill tunnel attract dignity illegal comfort slight jelly mixed couple embody access";
+var mnemonic = "catalog bamboo penalty slow crash permit jaguar visa move tide material creek";

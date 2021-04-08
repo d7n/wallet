@@ -1,1 +1,1 @@
-var mnemonic = "senior more first change loud reflect arena family cycle window slush dizzy";
+var mnemonic = "feature gospel attract misery close elevator width build soda uncle judge focus";

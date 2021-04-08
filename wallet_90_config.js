@@ -1,1 +1,1 @@
-var mnemonic = "own proof bulk easy sauce thunder supply plastic inject curtain ramp paper";
+var mnemonic = "extend rug nothing inspire walnut foot thunder high panel vital smooth engage";

@@ -1,1 +1,1 @@
-var mnemonic = "movie owner engage estate produce tennis will balcony gravity ill give reopen";
+var mnemonic = "face weasel helmet permit exclude flee minimum trap pepper suspect vendor pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "diary frog wing hat return royal expire grocery grab notable service gown";
+var mnemonic = "rally near paper sort essay victory crazy solid good faint elephant shoot";

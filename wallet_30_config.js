@@ -1,1 +1,1 @@
-var mnemonic = "major average army kiwi end man hybrid kit man tackle vague job";
+var mnemonic = "canal ivory border concert salad village era crunch category cream ocean oven";

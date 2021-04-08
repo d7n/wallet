@@ -1,1 +1,1 @@
-var mnemonic = "keen spice void double very enact cancel sea duty deny risk mushroom";
+var mnemonic = "pencil bronze army garden filter chronic actor loud student vibrant between man";

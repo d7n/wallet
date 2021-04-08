@@ -1,1 +1,1 @@
-var mnemonic = "hazard subway army hedgehog chase area assume cliff keen suffer hope welcome";
+var mnemonic = "property guitar brush across panda obey people begin clown treat approve exact";

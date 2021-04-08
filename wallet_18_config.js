@@ -1,1 +1,1 @@
-var mnemonic = "warm explain used champion enemy ecology another birth amateur desert excite glare";
+var mnemonic = "media water glow business brass wear chuckle fix refuse element ostrich hard";

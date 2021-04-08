@@ -1,1 +1,1 @@
-var mnemonic = "estate diesel label burden donkey budget theory suspect public bring fun stadium";
+var mnemonic = "defense occur crisp grunt equal supreme infant noodle faculty episode beef tail";

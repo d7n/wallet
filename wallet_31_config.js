@@ -1,1 +1,1 @@
-var mnemonic = "tourist leopard tuna million afford catch tissue stock wear piano reveal cash";
+var mnemonic = "fade pizza liar genre among tired bronze language label method tip route";

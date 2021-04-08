@@ -1,1 +1,1 @@
-var mnemonic = "unlock example marine lonely artist post weird match frog ask normal stable";
+var mnemonic = "crowd voyage pelican kingdom salon poem include increase broom coach carpet way";

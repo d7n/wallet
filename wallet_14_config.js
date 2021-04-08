@@ -1,1 +1,1 @@
-var mnemonic = "smooth feel diary exit blush lizard fly main fancy ahead sudden taxi";
+var mnemonic = "forward alone scorpion garage square cheap book frozen nation adult ceiling cereal";

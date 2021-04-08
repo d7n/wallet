@@ -1,1 +1,1 @@
-var mnemonic = "satisfy broken limit episode dizzy spell odor burger dinosaur cook moon wagon";
+var mnemonic = "humble ramp outdoor eyebrow summer festival pulse monitor become fan rival frost";

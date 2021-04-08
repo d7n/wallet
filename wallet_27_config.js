@@ -1,1 +1,1 @@
-var mnemonic = "agent banner globe guilt protect month away abandon bright giant trade muffin";
+var mnemonic = "harbor useful there shove toward thought more tunnel unaware either return father";

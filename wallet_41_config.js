@@ -1,1 +1,1 @@
-var mnemonic = "reason comfort arrive exhaust walnut icon sustain latin orphan yellow what bleak";
+var mnemonic = "employ diesel glare gain update vast option brisk robust solar marriage club";

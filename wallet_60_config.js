@@ -1,1 +1,1 @@
-var mnemonic = "blur banner scatter fee camp lava foil grass slam iron glide evoke";
+var mnemonic = "lady boring onion nose orchard lab tonight upon behave focus skin claw";

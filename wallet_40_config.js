@@ -1,1 +1,1 @@
-var mnemonic = "title airport pilot shy want van fold abuse adapt together huge child";
+var mnemonic = "open traffic various gold spread tag cycle borrow script gossip treat try";

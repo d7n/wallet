@@ -1,1 +1,1 @@
-var mnemonic = "soda spoon exchange cluster citizen version whisper alien ordinary uncle road brown";
+var mnemonic = "prosper sea found uncle obscure hollow together world ready major retire armed";

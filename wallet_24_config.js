@@ -1,1 +1,1 @@
-var mnemonic = "identify ceiling vague switch sport attend ozone lounge guide mixture harsh region";
+var mnemonic = "dune blouse scheme alcohol output abstract attitude cruel fox cereal utility hat";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture virtual evidence pill dream asset edge office jacket silly topic slogan";
+var mnemonic = "shaft drip twelve word wrong exercise giggle total end dose stomach flat";

@@ -1,1 +1,1 @@
-var mnemonic = "absent mountain margin debris ramp ignore shrug maid unique skirt image crystal";
+var mnemonic = "nice open cost blind tomato sting subject fence maple hybrid husband clarify";

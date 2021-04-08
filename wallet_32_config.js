@@ -1,1 +1,1 @@
-var mnemonic = "defense pretty wink shine truth surface table blue crowd advice solar occur";
+var mnemonic = "wreck phrase enact twin report scorpion room humor cigar gather demand figure";

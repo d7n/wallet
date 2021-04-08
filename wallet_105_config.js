@@ -1,1 +1,1 @@
-var mnemonic = "panic hip theory laptop empty jeans someone pet silk labor cinnamon potato";
+var mnemonic = "length steel involve victory scene hazard lady problem sell off echo budget";

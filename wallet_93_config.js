@@ -1,1 +1,1 @@
-var mnemonic = "glow hungry acquire energy snack test trap noodle voice reward giant address";
+var mnemonic = "holiday mouse debris regret you purse thrive blue crumble country climb gallery";

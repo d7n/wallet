@@ -1,1 +1,1 @@
-var mnemonic = "album surface jump width pilot seminar discover mad word assist wagon remind";
+var mnemonic = "guard tongue table lady more crew assume toy spring okay property pave";

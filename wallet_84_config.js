@@ -1,1 +1,1 @@
-var mnemonic = "wait struggle hope pizza vital access peasant hurry now prepare tool month";
+var mnemonic = "sense dress large pottery junk speed fantasy cupboard blade amazing tide write";

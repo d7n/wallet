@@ -1,1 +1,1 @@
-var mnemonic = "west practice crumble whale right swift critic pet just easily elegant onion";
+var mnemonic = "add harsh trophy hundred chat cricket time primary soon recycle tent buzz";

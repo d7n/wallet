@@ -1,1 +1,1 @@
-var mnemonic = "evil very metal tray fly primary parade rural measure truly miracle mirror";
+var mnemonic = "flight scene toast right youth orbit blush transfer entire heavy afraid festival";

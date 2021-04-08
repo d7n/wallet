@@ -1,1 +1,1 @@
-var mnemonic = "winter little prevent know harbor glow fragile error dragon kangaroo cheese void";
+var mnemonic = "style play spot auto bless mimic pulp output arctic win economy age";

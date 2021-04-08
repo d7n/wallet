@@ -1,1 +1,1 @@
-var mnemonic = "moon taxi category again absent sweet honey convince mercy jacket young tool";
+var mnemonic = "marine color error sunny cargo silk canal vault magnet remember crisp uniform";

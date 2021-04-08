@@ -1,1 +1,1 @@
-var mnemonic = "exclude champion bread horse clap blue pony tattoo because photo match round";
+var mnemonic = "route layer hidden egg that funny trend gold era service sing parent";

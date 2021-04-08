@@ -1,1 +1,1 @@
-var mnemonic = "napkin reason law salon belt kick shadow retire rich clown torch cigar";
+var mnemonic = "table velvet energy stone fantasy general school evoke network dinner begin black";

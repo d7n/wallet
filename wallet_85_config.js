@@ -1,1 +1,1 @@
-var mnemonic = "pottery decrease gorilla fire hen decide limit actor wing program doll dance";
+var mnemonic = "stumble first like accuse social uniform unaware decrease rookie rebuild pig congress";

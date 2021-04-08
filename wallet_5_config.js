@@ -1,1 +1,1 @@
-var mnemonic = "wolf option relief easily air glad cat insane right furnace right connect";
+var mnemonic = "trash exchange wreck original bench rotate click caution cigar truth text predict";

@@ -1,1 +1,1 @@
-var mnemonic = "common group obvious dune bargain banner butter rib country merit law silent";
+var mnemonic = "online symbol grief clip vote kitchen pole toy fury mistake appear list";

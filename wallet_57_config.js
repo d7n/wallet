@@ -1,1 +1,1 @@
-var mnemonic = "pelican reflect ceiling sustain evidence item denial mouse bitter coconut couch use";
+var mnemonic = "melt silver crouch deny pulse wide embark love pole fantasy dismiss useful";

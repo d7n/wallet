@@ -1,1 +1,1 @@
-var mnemonic = "piece blood swift hundred decrease feel engage access live tenant february pitch";
+var mnemonic = "myth feed meat gift size tumble welcome wasp awkward gold inherit meadow";

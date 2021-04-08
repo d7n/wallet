@@ -1,1 +1,1 @@
-var mnemonic = "subway waste claim face skate such thought welcome phrase aunt era hunt";
+var mnemonic = "garage best eagle invite spell truck usual omit manage bridge menu joy";

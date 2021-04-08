@@ -1,1 +1,1 @@
-var mnemonic = "hobby adjust tumble media tray public wealth want unfold defy various reward";
+var mnemonic = "royal team cabbage have abandon wave eagle gym tunnel eye ridge ignore";

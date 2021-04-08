@@ -1,1 +1,1 @@
-var mnemonic = "air dog oil debris divert civil address capable repair work height sport";
+var mnemonic = "regular simple buzz cage universe nut busy exercise question scorpion okay blind";

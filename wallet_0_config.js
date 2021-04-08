@@ -1,1 +1,1 @@
-var mnemonic = "memory truck valid burden service rose couch dial sea spoil pink loop";
+var mnemonic = "dirt essay december group range biology bonus bamboo solid hotel erupt evolve";

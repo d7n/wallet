@@ -1,1 +1,1 @@
-var mnemonic = "seminar hamster slim drum agent health iron jaguar winter blue truly remind";
+var mnemonic = "coyote hobby behind defense fly lake muffin ankle merry mammal coast winter";

@@ -1,1 +1,1 @@
-var mnemonic = "actual jealous inmate attack flip document ritual awesome rely happy put unusual";
+var mnemonic = "concert slot decide large mother brown copper approve milk prefer say favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "wave film egg valid leader bleak craft reform hotel pride thank alter";
+var mnemonic = "accident sentence bacon december walnut shop nasty alarm major sample own blanket";

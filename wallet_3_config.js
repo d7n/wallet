@@ -1,1 +1,1 @@
-var mnemonic = "camera smoke alarm setup time heart when supply rapid own entry library";
+var mnemonic = "sort list arrow squeeze raccoon blind engine zero region youth upper awesome";

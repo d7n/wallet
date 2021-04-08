@@ -1,1 +1,1 @@
-var mnemonic = "hint under garden angle cover maximum load wait keep motor shove satisfy";
+var mnemonic = "cradle basket end torch push asthma mango convince stadium tragic record flush";

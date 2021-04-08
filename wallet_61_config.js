@@ -1,1 +1,1 @@
-var mnemonic = "claw sweet leg vehicle spider orbit cargo supply cash banana another casino";
+var mnemonic = "guide hunt spider knee raven test mistake journey submit taste detail diamond";

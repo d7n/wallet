@@ -1,1 +1,1 @@
-var mnemonic = "goose soda garage butter strong thank long lazy popular harbor segment neglect";
+var mnemonic = "huge wheel puppy polar heart steak toy that bar code genius hammer";

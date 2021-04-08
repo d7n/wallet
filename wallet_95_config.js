@@ -1,1 +1,1 @@
-var mnemonic = "return account food useless share trap forward exotic offer enough spell ozone";
+var mnemonic = "fluid admit rally veteran wing box make that sausage small dose source";

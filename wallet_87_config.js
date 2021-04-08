@@ -1,1 +1,1 @@
-var mnemonic = "foot weird ocean find crime harbor vital exact measure regular slender bright";
+var mnemonic = "rocket amateur jungle mistake shine jar talk various donor few apple grant";

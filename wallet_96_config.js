@@ -1,1 +1,1 @@
-var mnemonic = "attract sadness city twist cheese media afraid december index shallow traffic maid";
+var mnemonic = "total struggle concert promote neither approve tomorrow level strategy tone satisfy quit";

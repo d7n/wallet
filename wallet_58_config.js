@@ -1,1 +1,1 @@
-var mnemonic = "minimum twelve dose agent desert sand stumble country acoustic tank increase dignity";
+var mnemonic = "rally dentist monitor earn genre afraid eager arrest velvet embrace upon pitch";

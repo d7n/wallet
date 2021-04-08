@@ -1,1 +1,1 @@
-var mnemonic = "stumble arrow laundry blood vintage gym habit deliver close advance exhaust edit";
+var mnemonic = "tortoise field exile relax relief spell gift stay believe zero predict cheap";

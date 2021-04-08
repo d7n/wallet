@@ -1,1 +1,1 @@
-var mnemonic = "rifle error mango jelly shoot walnut ignore pig steak main purchase diagram";
+var mnemonic = "dignity lecture rather news kiwi drift seed twist solar replace casino law";

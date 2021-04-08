@@ -1,1 +1,1 @@
-var mnemonic = "shove settle narrow tennis usage inform glare junior slow coil toast head";
+var mnemonic = "tooth search farm ketchup enforce member finger mask abandon cotton poet spot";

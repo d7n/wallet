@@ -1,1 +1,1 @@
-var mnemonic = "arrive group phone polar immense draw wood enrich play cause hold melt";
+var mnemonic = "electric swim sustain burden also when adjust library situate rebel permit host";

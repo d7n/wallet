@@ -1,1 +1,1 @@
-var mnemonic = "upon mail piano episode fiscal victory hat flag adapt embody wait alone";
+var mnemonic = "bundle must surround universe vote this fog rely armor segment river man";
