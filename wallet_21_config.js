@@ -1,1 +1,1 @@
-var mnemonic = "seat penalty abandon carpet pretty table punch fantasy ahead valve deputy fiscal";
+var mnemonic = "room autumn hen copper renew three split excuse empty absent note document";

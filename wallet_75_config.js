@@ -1,1 +1,1 @@
-var mnemonic = "stem zebra flight smooth two elbow flower fringe sort wave oxygen sight";
+var mnemonic = "raccoon response outer mixture core deal coach bachelor matter sure alley acid";

@@ -1,1 +1,1 @@
-var mnemonic = "forget tip rice index echo select forest decade tongue tomato trouble code";
+var mnemonic = "web stamp cart have bike vivid always language drink burden video hub";

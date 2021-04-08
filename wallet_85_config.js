@@ -1,1 +1,1 @@
-var mnemonic = "fit still wage couple width curve rely frame gloom appear erosion tank";
+var mnemonic = "still van voyage track decline thunder awesome embark grocery promote liberty delay";

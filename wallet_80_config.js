@@ -1,1 +1,1 @@
-var mnemonic = "ketchup weather road unhappy swim magnet ball forward service ceiling gravity pepper";
+var mnemonic = "purpose length salmon income ticket quote blood raven mind scrap penalty eagle";

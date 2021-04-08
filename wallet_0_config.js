@@ -1,1 +1,1 @@
-var mnemonic = "spike modify talent body border cube erupt gadget liberty kangaroo beef cupboard";
+var mnemonic = "orbit tourist stable metal gasp fancy nerve odor erupt near pride scale";

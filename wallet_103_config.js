@@ -1,1 +1,1 @@
-var mnemonic = "pipe cost canyon flush second worth cause acquire bring inhale enemy recipe";
+var mnemonic = "slush rabbit jazz gain system volume couple eagle female actual match stand";

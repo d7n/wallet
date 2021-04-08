@@ -1,1 +1,1 @@
-var mnemonic = "banana begin catalog spawn orbit tonight flag east advance tool polar park";
+var mnemonic = "rifle ability machine very arrange arrow rally repair metal blanket antique pig";

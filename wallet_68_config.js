@@ -1,1 +1,1 @@
-var mnemonic = "baby keep access curtain resource husband inner critic caution improve often forget";
+var mnemonic = "gaze version gravity liberty palace jar sausage private cram fly vague suit";

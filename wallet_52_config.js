@@ -1,1 +1,1 @@
-var mnemonic = "shield client powder biology resist polar puzzle brown gown tourist report galaxy";
+var mnemonic = "biology flag lawsuit race enroll cover heart eyebrow frog merit sing jungle";

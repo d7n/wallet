@@ -1,1 +1,1 @@
-var mnemonic = "wall unable pelican blur patient inner shoe state gorilla dune master own";
+var mnemonic = "wine field flight virtual fit just feed sister valid melody genuine tent";

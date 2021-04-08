@@ -1,1 +1,1 @@
-var mnemonic = "waste eye anger fame fire general coast top change wear strategy anger";
+var mnemonic = "inflict firm response mixed robust inmate toilet own tube bind chronic outside";

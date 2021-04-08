@@ -1,1 +1,1 @@
-var mnemonic = "tissue decade cricket gauge sting cat original wild answer hybrid domain spawn";
+var mnemonic = "prefer avocado tomato consider token mountain witness account venture axis view since";

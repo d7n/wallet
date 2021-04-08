@@ -1,1 +1,1 @@
-var mnemonic = "prepare drive exhaust fatigue you clown fog dial visit master dinner choose";
+var mnemonic = "loop student girl pulp length smoke audit steel goddess chest text gown";

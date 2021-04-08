@@ -1,1 +1,1 @@
-var mnemonic = "zebra mail protect ritual segment toddler hybrid pudding quarter armed exit lounge";
+var mnemonic = "ranch assist pig false predict unable pull palace system unique open person";

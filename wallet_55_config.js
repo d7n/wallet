@@ -1,1 +1,1 @@
-var mnemonic = "pole use guitar tissue solid beach grain female mom rib story maze";
+var mnemonic = "jacket simple average civil demise hammer sock forget pencil sound knife goose";

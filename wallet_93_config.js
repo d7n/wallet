@@ -1,1 +1,1 @@
-var mnemonic = "vote window clown second wine lunch flower pistol clip bacon east soon";
+var mnemonic = "industry weasel under little air medal behind music fossil master position tooth";

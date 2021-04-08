@@ -1,1 +1,1 @@
-var mnemonic = "cricket cook walnut remain bamboo people sun radar rely rule master account";
+var mnemonic = "ring check spike drive drama shoot alter model long voyage forget fitness";

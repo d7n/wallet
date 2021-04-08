@@ -1,1 +1,1 @@
-var mnemonic = "report hospital short quiz bulb twenty tone regret boy awkward property kiwi";
+var mnemonic = "cheap print panic glue beyond dragon luggage portion another very series little";

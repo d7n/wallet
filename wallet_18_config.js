@@ -1,1 +1,1 @@
-var mnemonic = "layer question burden net inspire spike toy special profit wheat advice spoon";
+var mnemonic = "review fan firm ticket mandate argue sign lab add style purse mom";

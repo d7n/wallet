@@ -1,1 +1,1 @@
-var mnemonic = "deny collect two tissue powder wrap recall combine track hold arrow unaware";
+var mnemonic = "face north entry tower pen panda vote arctic portion adult ketchup immense";

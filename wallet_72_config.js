@@ -1,1 +1,1 @@
-var mnemonic = "ghost open journey stadium alpha true juice bus must olive face broken";
+var mnemonic = "innocent bulb indoor six chapter pause path mad recycle urban object music";

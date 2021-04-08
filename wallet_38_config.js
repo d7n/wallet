@@ -1,1 +1,1 @@
-var mnemonic = "wreck blanket thunder despair impulse inmate purse cup exhaust kid matter install";
+var mnemonic = "baby tunnel monkey long forest accuse warfare mirror board cereal gift ensure";

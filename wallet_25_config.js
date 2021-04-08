@@ -1,1 +1,1 @@
-var mnemonic = "absorb half enforce gas flush baby wide miracle gown click occur since";
+var mnemonic = "acid recycle tip garlic success style another high soft flame love ignore";

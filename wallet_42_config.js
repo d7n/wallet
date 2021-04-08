@@ -1,1 +1,1 @@
-var mnemonic = "belt duty like bless apple loud potato giraffe enrich actual menu where";
+var mnemonic = "cat tennis marble ice police grain stove roast sick rose will wrist";

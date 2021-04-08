@@ -1,1 +1,1 @@
-var mnemonic = "public faith seven smooth air north tilt orient town this wisdom potato";
+var mnemonic = "scheme speak twist ripple cycle picnic farm cross olive frozen decide position";

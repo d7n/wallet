@@ -1,1 +1,1 @@
-var mnemonic = "off roof crawl royal muscle steak flush judge deposit pottery shy beach";
+var mnemonic = "invite crash tragic square jelly exclude scorpion warfare sausage click nose glide";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky battle pigeon thumb online physical devote glad hour stable used frozen";
+var mnemonic = "beauty fold shy supreme celery divert wrestle poet display throw cruel develop";

@@ -1,1 +1,1 @@
-var mnemonic = "world hole warm identify blanket select someone rack slice waste dumb absent";
+var mnemonic = "pony dry wait retreat alcohol because exile brick divorce reform actual basic";

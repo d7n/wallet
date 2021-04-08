@@ -1,1 +1,1 @@
-var mnemonic = "vague clap spell same pyramid short quality uphold matter erase paddle aware";
+var mnemonic = "radio kiss inner mercy wife dance rack online step cash broom sign";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna reward mask dance buyer vital sight leopard breeze measure tomorrow wrong";
+var mnemonic = "earn people festival they medal orient ordinary select keep tattoo success beauty";

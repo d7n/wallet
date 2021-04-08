@@ -1,1 +1,1 @@
-var mnemonic = "slogan raise arrive model elegant ten jungle cross essay critic develop between";
+var mnemonic = "junk tiny neglect chicken correct ice powder vapor maximum sample hollow gossip";

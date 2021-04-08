@@ -1,1 +1,1 @@
-var mnemonic = "change wedding salon assault unfair cash twelve kiss museum surprise chair false";
+var mnemonic = "already sugar park tennis attend garden face under torch choose road prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "expose giraffe enroll romance science outdoor provide scorpion father crash pair survey";
+var mnemonic = "move snake source cherry tonight call need struggle fragile salon wing almost";

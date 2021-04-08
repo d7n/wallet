@@ -1,1 +1,1 @@
-var mnemonic = "craft effort disagree news lift thunder awful around silent day hotel fashion";
+var mnemonic = "bid elder notable ripple pony aspect enforce glad junior demise act ring";

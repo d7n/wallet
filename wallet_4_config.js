@@ -1,1 +1,1 @@
-var mnemonic = "enjoy tube autumn during slim capital zoo eagle toy pluck busy room";
+var mnemonic = "oven nuclear aware dawn believe antenna sniff frequent stem net cube coyote";

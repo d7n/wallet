@@ -1,1 +1,1 @@
-var mnemonic = "gown galaxy garbage spend person axis segment entire tuna junior era pride";
+var mnemonic = "bulk naive race float any soldier math glove assist bachelor strike choose";

@@ -1,1 +1,1 @@
-var mnemonic = "diary more wonder much opinion quick sock leopard own oxygen mandate fever";
+var mnemonic = "that rule uncle snap harbor joke error ten describe thought riot lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "usual exile grant olive tape rent also bundle view quick foil over";
+var mnemonic = "appear pair fence champion rug wire bamboo such unveil disease embark resource";

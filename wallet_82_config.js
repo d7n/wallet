@@ -1,1 +1,1 @@
-var mnemonic = "female angry onion damp manual physical dismiss skin swamp leisure guard easily";
+var mnemonic = "copper smart robust deposit radio meat farm demise inject choose addict vivid";

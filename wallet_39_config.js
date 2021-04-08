@@ -1,1 +1,1 @@
-var mnemonic = "long flag ozone fan tide rude debate convince enlist season bacon sell";
+var mnemonic = "siege earth fame october arm innocent spy cave earn little fun child";

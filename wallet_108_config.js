@@ -1,1 +1,1 @@
-var mnemonic = "child antenna chief company dune spike foil among torch congress rapid inform";
+var mnemonic = "all merry eight lyrics ticket cricket wish pistol unique warrior sort soft";

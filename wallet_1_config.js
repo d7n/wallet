@@ -1,1 +1,1 @@
-var mnemonic = "subway whip swift any heart priority genius dose head lawsuit ankle property";
+var mnemonic = "close layer deal picture flee scan celery sea demise armor property mass";

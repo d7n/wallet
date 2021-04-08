@@ -1,1 +1,1 @@
-var mnemonic = "sad suffer stick capable spell region nerve oval tiny rule furnace voyage";
+var mnemonic = "avoid say life narrow depend alien better wrist regular release guitar prefer";

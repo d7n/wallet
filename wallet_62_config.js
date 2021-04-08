@@ -1,1 +1,1 @@
-var mnemonic = "lumber bid curtain have ivory wife clump describe coffee silver good minute";
+var mnemonic = "walnut document average rocket board eternal aisle anxiety hammer master immune extra";

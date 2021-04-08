@@ -1,1 +1,1 @@
-var mnemonic = "vintage chat again sight crisp laundry review despair roof eternal hover pottery";
+var mnemonic = "visual keep wash fit earth virus ozone master degree mad list cinnamon";

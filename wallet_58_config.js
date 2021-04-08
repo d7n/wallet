@@ -1,1 +1,1 @@
-var mnemonic = "differ artwork side lesson uniform fortune approve ugly first lobster avocado wire";
+var mnemonic = "price nation stomach unknown able person symbol solve sun vital peace convince";

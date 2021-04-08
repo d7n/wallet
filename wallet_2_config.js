@@ -1,1 +1,1 @@
-var mnemonic = "build chase dentist hello brown cliff clog desk arctic bachelor stool swear";
+var mnemonic = "attack stomach green bag cage truth park awesome april fitness scheme wrist";

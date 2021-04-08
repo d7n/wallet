@@ -1,1 +1,1 @@
-var mnemonic = "tongue target poem hunt valid bamboo enemy dilemma topple glance faculty holiday";
+var mnemonic = "base exchange stool size merit dad mountain surface peace oxygen entire cannon";

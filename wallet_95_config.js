@@ -1,1 +1,1 @@
-var mnemonic = "cherry response afraid reason rack pioneer combine cancel quantum input salon picnic";
+var mnemonic = "anger creek jar cluster boss figure aisle fog extend miss neck cactus";

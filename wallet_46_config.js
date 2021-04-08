@@ -1,1 +1,1 @@
-var mnemonic = "guide version hamster brother urge borrow again rug grape tank creek dress";
+var mnemonic = "stereo kind fall aunt rather festival cream valid wish online relax trap";

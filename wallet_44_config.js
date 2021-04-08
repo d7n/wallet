@@ -1,1 +1,1 @@
-var mnemonic = "joke sausage essence able train leaf wedding tenant cloth bachelor element iron";
+var mnemonic = "gain skin type vivid essence knee involve fly cave bomb identify other";

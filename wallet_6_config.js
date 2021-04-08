@@ -1,1 +1,1 @@
-var mnemonic = "spring gain favorite right state lobster business addict certain salon item involve";
+var mnemonic = "double snake clarify say below topple mouse forest execute huge flat cannon";

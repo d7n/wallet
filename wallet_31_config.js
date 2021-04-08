@@ -1,1 +1,1 @@
-var mnemonic = "select balance various task program off argue remove rib success goose equal";
+var mnemonic = "upon unlock say tooth custom despair second bunker brick fiction whisper pet";

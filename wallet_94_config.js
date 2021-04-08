@@ -1,1 +1,1 @@
-var mnemonic = "track resource hat bachelor sibling vanish when physical upper kitten lizard square";
+var mnemonic = "neither core health radio coyote cruel innocent crazy scout vague version fence";

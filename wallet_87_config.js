@@ -1,1 +1,1 @@
-var mnemonic = "predict degree gallery sample knock blade visa label quick student reflect city";
+var mnemonic = "clay aspect bomb gain lonely midnight sport thunder essence candy strong guitar";

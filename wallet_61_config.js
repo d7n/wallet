@@ -1,1 +1,1 @@
-var mnemonic = "option record faculty depart invite best fatal true culture lumber stairs also";
+var mnemonic = "border pond gate off author design mouse time night vault olympic true";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow tumble dynamic envelope bomb fruit broccoli truly treat eyebrow food border";
+var mnemonic = "what round attend auto must margin level capable share into powder canyon";

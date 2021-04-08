@@ -1,1 +1,1 @@
-var mnemonic = "cart depend margin tube problem era allow admit able where hospital future";
+var mnemonic = "toast border essay garment flag gauge boss tobacco useless object cement solid";

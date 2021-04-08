@@ -1,1 +1,1 @@
-var mnemonic = "twenty morning someone gorilla flat quantum immense flee chief wrap reject boost";
+var mnemonic = "nut truly spell toss flight kite argue author glow fever leg check";

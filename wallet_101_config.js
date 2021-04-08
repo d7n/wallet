@@ -1,1 +1,1 @@
-var mnemonic = "chase thrive endorse endorse orchard turkey safe portion adult panel horror execute";
+var mnemonic = "mean brisk ozone wagon maximum brand lock fragile canoe dog strike soup";

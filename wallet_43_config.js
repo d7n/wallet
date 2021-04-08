@@ -1,1 +1,1 @@
-var mnemonic = "truck cancel owner assist change auction antique frequent exact inquiry unique toddler";
+var mnemonic = "crucial valid retreat copper usual rule ocean shuffle few shallow chuckle trap";

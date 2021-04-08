@@ -1,1 +1,1 @@
-var mnemonic = "despair embrace extend lyrics guard earn nose field nothing father unveil focus";
+var mnemonic = "buddy squeeze remove noble setup south design float elbow steel menu violin";

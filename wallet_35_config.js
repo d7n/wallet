@@ -1,1 +1,1 @@
-var mnemonic = "build quit draw solve flash head penalty famous team elegant bomb someone";
+var mnemonic = "pudding oblige address other dune april dice caught meat scare perfect reveal";

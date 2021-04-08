@@ -1,1 +1,1 @@
-var mnemonic = "two trade poem swift entry suggest great route cigar egg cradle medal";
+var mnemonic = "swarm object purchase moon flock nuclear robust eye famous vault loan cage";

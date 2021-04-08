@@ -1,1 +1,1 @@
-var mnemonic = "series human tired peanut usual lunch hospital slam purchase spider detail expand";
+var mnemonic = "butter egg wink salmon lunch base artefact emerge tornado thunder educate wisdom";

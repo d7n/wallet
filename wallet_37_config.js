@@ -1,1 +1,1 @@
-var mnemonic = "panic soon brick prefer obscure drift sea street bar rack oblige kit";
+var mnemonic = "layer diamond bean list reduce term furnace fan barrel cotton antenna congress";

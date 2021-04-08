@@ -1,1 +1,1 @@
-var mnemonic = "patch convince cool just inch reject camera reward very grass object ladder";
+var mnemonic = "slide torch february fringe escape rescue drama distance used index way debris";

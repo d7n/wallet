@@ -1,1 +1,1 @@
-var mnemonic = "safe inquiry fever noble security grow head chronic copper home range accuse";
+var mnemonic = "limit attract language quick miss immune pride more rebel disorder above skill";

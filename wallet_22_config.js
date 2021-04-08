@@ -1,1 +1,1 @@
-var mnemonic = "alert crop midnight demand protect rival zone trend glance rubber urge explain";
+var mnemonic = "girl scorpion trade silk inch width more pistol letter equal finish increase";

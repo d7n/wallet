@@ -1,1 +1,1 @@
-var mnemonic = "twenty wrist furnace piano hamster decline inside recipe dial sadness mushroom fish";
+var mnemonic = "laugh rough wash become armed special settle grape acid measure opera brush";

@@ -1,1 +1,1 @@
-var mnemonic = "hill below rare frog cinnamon rookie forget canvas history helmet south shrimp";
+var mnemonic = "tumble hotel trust math grant deal grant toss negative share train excess";

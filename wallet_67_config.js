@@ -1,1 +1,1 @@
-var mnemonic = "mean anger aisle fortune success toss crunch bundle stadium globe miracle mimic";
+var mnemonic = "film glow famous goose echo cancel choose prefer seed much receive crater";

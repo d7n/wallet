@@ -1,1 +1,1 @@
-var mnemonic = "glory embrace build tragic profit fork sing manual trim vague humor mistake";
+var mnemonic = "update spirit solution found skin glide autumn match dignity daring arena fee";

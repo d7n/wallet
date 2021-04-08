@@ -1,1 +1,1 @@
-var mnemonic = "saddle ski spot gadget master popular clay crop sleep behind lecture velvet";
+var mnemonic = "water fat diesel vessel champion lady leg grain already grit initial suffer";

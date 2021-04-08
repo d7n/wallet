@@ -1,1 +1,1 @@
-var mnemonic = "road ethics bottom cheap federal hollow abandon divorce silly quiz blur crowd";
+var mnemonic = "floor gasp dynamic cover hard charge resemble floor digital total inflict vast";

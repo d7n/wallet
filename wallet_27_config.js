@@ -1,1 +1,1 @@
-var mnemonic = "exchange ring juice away enable enemy chuckle bleak enrich crack soccer never";
+var mnemonic = "embrace tumble dust decline galaxy wing biology aisle fever napkin play mask";

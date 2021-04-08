@@ -1,1 +1,1 @@
-var mnemonic = "noble saddle squeeze mail enjoy lobster speak bind vanish link novel neutral";
+var mnemonic = "desert gather among ridge speed ignore curious refuse sister surprise body alpha";

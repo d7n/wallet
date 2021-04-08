@@ -1,1 +1,1 @@
-var mnemonic = "crane tennis turkey drop twelve boil glad actor flush detect rifle ketchup";
+var mnemonic = "armor mango wear coach dumb erosion gate fitness arm quarter point series";

@@ -1,1 +1,1 @@
-var mnemonic = "turn solar inflict grass glory afford assault alter maze express negative best";
+var mnemonic = "arena crop indoor palm edit transfer trash exclude payment nest embark error";

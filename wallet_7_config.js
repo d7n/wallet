@@ -1,1 +1,1 @@
-var mnemonic = "act void online puppy text across proud bird man pulse romance airport";
+var mnemonic = "riot domain obvious patrol extra rabbit glue second gauge gaze mammal solar";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp pumpkin alpha core make hand stool trick blouse shadow fatal tooth";
+var mnemonic = "hospital inhale other pen road cage position chaos avocado seek rain invite";

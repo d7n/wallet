@@ -1,1 +1,1 @@
-var mnemonic = "decade mammal gown avocado attitude multiply secret avoid phrase oblige manage rhythm";
+var mnemonic = "rack ride already lava borrow service forum rhythm spin lady vivid resemble";

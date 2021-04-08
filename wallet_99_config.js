@@ -1,1 +1,1 @@
-var mnemonic = "funny sheriff veteran anchor kiwi subject junk across hat nose gesture scout";
+var mnemonic = "discover fox antique consider garden bridge certain fury bridge ski girl art";

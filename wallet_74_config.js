@@ -1,1 +1,1 @@
-var mnemonic = "combine sibling person improve solve frost forget fault stock fire spider boring";
+var mnemonic = "bright person also soul foot chest mouse merge despair antique flock page";

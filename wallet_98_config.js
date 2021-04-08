@@ -1,1 +1,1 @@
-var mnemonic = "pyramid rifle subject scene easy emotion wine always mosquito sustain portion never";
+var mnemonic = "weapon ability old illness join panda quit area sail absent theme damage";

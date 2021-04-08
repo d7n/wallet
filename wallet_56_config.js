@@ -1,1 +1,1 @@
-var mnemonic = "general cat rare capable sea grant weapon oval uniform grape desert smart";
+var mnemonic = "noise congress settle grab label jump major pulp organ inch prosper refuse";

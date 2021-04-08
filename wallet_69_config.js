@@ -1,1 +1,1 @@
-var mnemonic = "slight distance draw general change flat bulb balcony strong deal gold situate";
+var mnemonic = "artwork cinnamon glove load confirm reason tilt rocket planet ribbon bullet discover";

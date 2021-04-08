@@ -1,1 +1,1 @@
-var mnemonic = "rich sure state vague share drastic knee square doctor pause winter jazz";
+var mnemonic = "awesome heart close drastic style misery achieve stuff gap catalog any cruise";

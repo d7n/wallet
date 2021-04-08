@@ -1,1 +1,1 @@
-var mnemonic = "hill mango exit kiwi prevent shy divert staff genius eagle across practice";
+var mnemonic = "story merge genre romance add jewel food crack eye account release kingdom";

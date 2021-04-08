@@ -1,1 +1,1 @@
-var mnemonic = "submit custom pipe airport please model decrease pretty obtain avocado antenna bullet";
+var mnemonic = "main remain diagram bachelor remove primary legend story portion fault until chase";

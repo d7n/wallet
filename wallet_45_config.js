@@ -1,1 +1,1 @@
-var mnemonic = "wool fire art enforce slim bicycle alert open find urge spike pulp";
+var mnemonic = "recipe nasty moon slight search cross pattern captain tourist token private seat";

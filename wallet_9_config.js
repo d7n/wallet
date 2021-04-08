@@ -1,1 +1,1 @@
-var mnemonic = "amused audit again sweet rude snake ready nuclear slush antenna cloud shove";
+var mnemonic = "already adult fun click cute alley report recall mom tortoise pet core";

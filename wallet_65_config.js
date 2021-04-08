@@ -1,1 +1,1 @@
-var mnemonic = "evoke umbrella nice three piece suit furnace retreat gloom actress aware extra";
+var mnemonic = "begin grief casual advice false voice enjoy govern number whip remind close";

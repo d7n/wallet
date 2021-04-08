@@ -1,1 +1,1 @@
-var mnemonic = "busy oppose unknown old above change between truly session convince coffee later";
+var mnemonic = "above pelican shiver inquiry captain lecture dawn three rack season mask turn";

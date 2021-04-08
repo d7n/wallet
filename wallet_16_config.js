@@ -1,1 +1,1 @@
-var mnemonic = "replace fan ill tilt iron earth hazard foot trust measure govern ramp";
+var mnemonic = "shine option dance sea panther wire start predict page item palm boring";
