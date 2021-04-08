@@ -1,1 +1,1 @@
-var mnemonic = "soon rival lazy flash faith cake group beyond code decide dutch envelope";
+var mnemonic = "defy taxi apology napkin galaxy weekend half among fat total town current";

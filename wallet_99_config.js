@@ -1,1 +1,1 @@
-var mnemonic = "balcony duck satoshi art struggle vacuum neither shadow state mammal eagle alarm";
+var mnemonic = "gap local brave kick burger task nose edit share exchange fox drum";

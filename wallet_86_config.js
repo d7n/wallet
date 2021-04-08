@@ -1,1 +1,1 @@
-var mnemonic = "call cereal bird razor balance sheriff group oppose program life father virus";
+var mnemonic = "know proof you curve secret rain illegal update present milk orbit chat";

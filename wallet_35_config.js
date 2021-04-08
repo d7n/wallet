@@ -1,1 +1,1 @@
-var mnemonic = "insect salon wedding pitch pass almost evil nephew material tower busy zone";
+var mnemonic = "honey nut either town fabric laugh riot file chunk assume real blast";

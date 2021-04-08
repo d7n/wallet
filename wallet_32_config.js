@@ -1,1 +1,1 @@
-var mnemonic = "honey code style drill pave decorate top grape must enroll faith organ";
+var mnemonic = "rural net marble thank era alcohol vehicle economy common great become bulk";

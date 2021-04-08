@@ -1,1 +1,1 @@
-var mnemonic = "matrix play try coil text mom clutch buddy tenant fruit tomato thrive";
+var mnemonic = "series illness crucial garbage smoke craft blossom common border host kidney usual";

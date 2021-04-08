@@ -1,1 +1,1 @@
-var mnemonic = "shine pipe wrong ill sample great toss bus thank pizza fossil try";
+var mnemonic = "exhaust veteran program machine theory unfair bag drift topic slogan armor earth";

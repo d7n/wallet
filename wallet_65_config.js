@@ -1,1 +1,1 @@
-var mnemonic = "culture federal system dinner property album butter chimney have absent feature grape";
+var mnemonic = "face coral scout spike photo ethics observe work tennis gym oak sorry";

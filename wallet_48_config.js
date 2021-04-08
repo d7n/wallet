@@ -1,1 +1,1 @@
-var mnemonic = "share sibling october pizza milk online defy sketch side arrange sport reason";
+var mnemonic = "upper remain cherry analyst insane wrestle panel melody sheriff thrive neglect license";

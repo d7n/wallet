@@ -1,1 +1,1 @@
-var mnemonic = "social work increase protect royal tilt execute nuclear lecture hidden space range";
+var mnemonic = "mad case useless custom project foil maximum leopard just wear voice aim";

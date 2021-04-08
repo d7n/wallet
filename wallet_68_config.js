@@ -1,1 +1,1 @@
-var mnemonic = "poverty snow myth toast play super galaxy outer brain unknown glass avocado";
+var mnemonic = "never toddler buyer entry alpha hazard what citizen boost goat cactus club";

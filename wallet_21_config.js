@@ -1,1 +1,1 @@
-var mnemonic = "rack supply canal cargo horse expire coast dish flash train same way";
+var mnemonic = "else license history spray load hidden come hammer force west inhale body";

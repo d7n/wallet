@@ -1,1 +1,1 @@
-var mnemonic = "spring ready raccoon replace goat hair steel clap moral mouse follow dilemma";
+var mnemonic = "collect will garlic regular suit black mimic solid differ jazz soccer gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich voyage forum fortune cheese amount peace rotate worth satisfy horror hole";
+var mnemonic = "insane discover apology hazard place forum enemy crime grass wall candy forget";

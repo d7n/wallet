@@ -1,1 +1,1 @@
-var mnemonic = "series theory increase approve service alone diesel nut struggle morning luggage fence";
+var mnemonic = "loan enrich cigar mad truck letter hobby end scorpion city palm love";

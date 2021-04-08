@@ -1,1 +1,1 @@
-var mnemonic = "exhibit behave loyal accident creek three birth woman idea twice worth page";
+var mnemonic = "someone right fresh zebra spare utility roof cart master brown square jealous";

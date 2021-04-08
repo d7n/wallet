@@ -1,1 +1,1 @@
-var mnemonic = "live true prosper surge luxury frame donate erupt scan blast focus festival";
+var mnemonic = "vital menu hawk chronic obey father loud hard dose account doctor provide";

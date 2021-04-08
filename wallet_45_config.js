@@ -1,1 +1,1 @@
-var mnemonic = "wrong leave novel board tell size vibrant they over brown burger combine";
+var mnemonic = "soda select nature front execute obscure student assist damp flower differ hair";

@@ -1,1 +1,1 @@
-var mnemonic = "climb remember embark chicken trigger audit acoustic tragic save loan deny squirrel";
+var mnemonic = "bubble build tissue plate banana eagle edge crowd client warrior myself celery";

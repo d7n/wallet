@@ -1,1 +1,1 @@
-var mnemonic = "cash ostrich vapor swallow fitness limit enlist today devote degree gesture drill";
+var mnemonic = "addict tourist census seat canal lottery reflect roast cactus strategy crush army";

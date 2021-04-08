@@ -1,1 +1,1 @@
-var mnemonic = "rabbit brief hen clinic already you kiss concert elevator sail bounce inhale";
+var mnemonic = "void parade arctic glad icon identify laundry lava taxi weapon bundle slight";

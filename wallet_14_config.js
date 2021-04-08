@@ -1,1 +1,1 @@
-var mnemonic = "join build drama wrestle mouse slender act final rival win apart napkin";
+var mnemonic = "flower moon comfort desert cake timber country ticket reunion castle unknown orchard";

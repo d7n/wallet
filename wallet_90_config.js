@@ -1,1 +1,1 @@
-var mnemonic = "critic consider supply spawn green crew obtain caught banner remember utility spoon";
+var mnemonic = "margin decline theory soldier stem predict tonight night valley potato cancel dash";

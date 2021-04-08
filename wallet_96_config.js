@@ -1,1 +1,1 @@
-var mnemonic = "hamster drama large task rhythm hidden height noise ethics weather error hospital";
+var mnemonic = "reduce august balcony major swap erupt fluid expose exotic wheat train second";

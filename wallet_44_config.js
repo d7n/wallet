@@ -1,1 +1,1 @@
-var mnemonic = "neglect midnight embark fix throw install volume staff promote claim spatial left";
+var mnemonic = "share define mixed slide shop live field choose daring license drama tank";

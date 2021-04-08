@@ -1,1 +1,1 @@
-var mnemonic = "heavy globe tribe transfer icon pen govern dad gown notice stone tribe";
+var mnemonic = "warm resist foster saddle patient rough describe employ illness bamboo buffalo possible";

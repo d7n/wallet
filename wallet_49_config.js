@@ -1,1 +1,1 @@
-var mnemonic = "oxygen result tide wild wagon crack sport knock glance summer album ship";
+var mnemonic = "visa timber mix disorder rough path intact tuna general thrive merry note";

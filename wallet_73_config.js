@@ -1,1 +1,1 @@
-var mnemonic = "swarm middle wall snap satisfy dinosaur win copper analyst lyrics update color";
+var mnemonic = "exotic festival ankle rose pony fiscal museum govern alert bind base long";

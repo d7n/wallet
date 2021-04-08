@@ -1,1 +1,1 @@
-var mnemonic = "iron orchard casino dutch hire filter endless dress margin path melody photo";
+var mnemonic = "session trap priority elephant ancient envelope execute topic addict delay planet visit";

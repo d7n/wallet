@@ -1,1 +1,1 @@
-var mnemonic = "hover sure spin gym plate cream bicycle uniform sense marriage lizard govern";
+var mnemonic = "spell shiver crater all buffalo scout uniform exile junior valid rescue rally";

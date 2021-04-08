@@ -1,1 +1,1 @@
-var mnemonic = "wait guess story sudden unfair cannon shift cancel whale worry gospel purpose";
+var mnemonic = "either happy wrap monkey space parrot drop raccoon skull gasp universe victory";

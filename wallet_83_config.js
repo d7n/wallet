@@ -1,1 +1,1 @@
-var mnemonic = "wave alpha amateur public sign congress pledge tell history renew aunt shrug";
+var mnemonic = "shell suit weasel entry shield exact slender balance civil wash shift special";

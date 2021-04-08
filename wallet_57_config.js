@@ -1,1 +1,1 @@
-var mnemonic = "urge capital best diesel royal govern paper behind wrap surface kiwi cake";
+var mnemonic = "mountain ticket eye jewel wrap race grace tomorrow episode attract place crumble";

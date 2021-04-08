@@ -1,1 +1,1 @@
-var mnemonic = "dune together depart disagree camera bicycle vital flush guitar theory exact seminar";
+var mnemonic = "tooth alley gather stem upgrade settle spatial toward never noise baby deer";

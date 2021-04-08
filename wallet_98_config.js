@@ -1,1 +1,1 @@
-var mnemonic = "desk dirt brisk weekend include sense envelope anger august chair strong coral";
+var mnemonic = "luxury empty same entry hamster arrange planet group custom discover smile uphold";

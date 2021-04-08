@@ -1,1 +1,1 @@
-var mnemonic = "tuition rabbit heart acid mom burger solution hurry mention later kid service";
+var mnemonic = "zoo level any oak fun tortoise vacant photo library cruel tongue sausage";

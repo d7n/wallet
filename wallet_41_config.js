@@ -1,1 +1,1 @@
-var mnemonic = "aware calm beef glide panel prevent problem journey emerge practice letter family";
+var mnemonic = "bag hawk cart flip print motion sun ability wide rough door enact";

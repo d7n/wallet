@@ -1,1 +1,1 @@
-var mnemonic = "manual plug ribbon direct federal mean audit grief daughter analyst bid wolf";
+var mnemonic = "yard found pole lizard concert rather hockey junk stay word bicycle radio";

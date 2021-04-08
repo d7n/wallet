@@ -1,1 +1,1 @@
-var mnemonic = "inquiry pact direct suit butter busy pill album festival script rose design";
+var mnemonic = "company forest camp road volume deliver nasty kangaroo cigar demand dizzy misery";

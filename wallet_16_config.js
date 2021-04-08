@@ -1,1 +1,1 @@
-var mnemonic = "asset unknown flash jump slim actual demand goat magnet alarm fantasy device";
+var mnemonic = "imitate arm breeze suggest logic hurry hope donate fresh tag rough poem";

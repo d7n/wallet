@@ -1,1 +1,1 @@
-var mnemonic = "merit dynamic melt fine ensure chunk prison youth canoe hurt hard salt";
+var mnemonic = "wrist galaxy vote morning resource trouble despair alone clinic theory second elevator";

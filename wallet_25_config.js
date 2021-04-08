@@ -1,1 +1,1 @@
-var mnemonic = "mobile deliver basket inner joke essay frequent damp deny reveal decrease cloth";
+var mnemonic = "useless fury wonder bus celery duck dinosaur angle assist alley holiday daring";

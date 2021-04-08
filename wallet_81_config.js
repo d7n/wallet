@@ -1,1 +1,1 @@
-var mnemonic = "tonight owner limb combine tired video custom skill youth power mango light";
+var mnemonic = "snack off invest kid arrive view correct future liquid century history pilot";

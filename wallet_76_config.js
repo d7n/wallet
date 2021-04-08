@@ -1,1 +1,1 @@
-var mnemonic = "grab ripple strong rebuild green hunt glide school afraid mail leader solve";
+var mnemonic = "solve aerobic huge keep badge lyrics artefact series nominee similar normal approve";

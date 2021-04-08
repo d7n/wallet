@@ -1,1 +1,1 @@
-var mnemonic = "frog issue castle author shoe assist wrap globe purpose detect entry acoustic";
+var mnemonic = "skirt patrol century mushroom sort march brick recycle prefer illegal frog decrease";

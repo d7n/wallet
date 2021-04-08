@@ -1,1 +1,1 @@
-var mnemonic = "host follow cream mechanic super youth account dignity crush jacket hurry gain";
+var mnemonic = "humble miracle tide prevent dinner dolphin culture write lizard shallow trip render";

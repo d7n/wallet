@@ -1,1 +1,1 @@
-var mnemonic = "fence defy desert biology solution must gallery spin tell ozone debate erode";
+var mnemonic = "anger wealth insane blue coconut alone roast liar mention climb escape laugh";

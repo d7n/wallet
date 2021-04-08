@@ -1,1 +1,1 @@
-var mnemonic = "any spice announce world bleak enough manual trade talk win valid drive";
+var mnemonic = "put knock result celery frost keen session elite visa romance under minute";

@@ -1,1 +1,1 @@
-var mnemonic = "hill fatal border hurry penalty day pepper walnut soda choose crack spring";
+var mnemonic = "refuse merge artist region trigger table flee feed floor bean upgrade fiction";

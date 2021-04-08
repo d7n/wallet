@@ -1,1 +1,1 @@
-var mnemonic = "disagree say neither belt desert patient clinic digital rather flush pig virtual";
+var mnemonic = "theory extra exact aisle cluster genre library because copper poet myself total";

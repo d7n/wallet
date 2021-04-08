@@ -1,1 +1,1 @@
-var mnemonic = "market exile view crater cheese bench engage desert sunset jungle virus crowd";
+var mnemonic = "derive convince index juice spare same coral faint course once thank way";

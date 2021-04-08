@@ -1,1 +1,1 @@
-var mnemonic = "unfold coffee aware lucky rural area adult route olympic suggest grunt aunt";
+var mnemonic = "street empty dwarf ill scorpion carpet nominee safe open athlete leisure emotion";

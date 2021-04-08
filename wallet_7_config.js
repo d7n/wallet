@@ -1,1 +1,1 @@
-var mnemonic = "shell joke scissors mango visa rare tunnel hammer struggle exercise misery opera";
+var mnemonic = "street wonder cabbage swim monitor glory boil dad lazy embrace juice sand";

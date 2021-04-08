@@ -1,1 +1,1 @@
-var mnemonic = "amateur actual pink retreat already skirt color shiver violin phone cart employ";
+var mnemonic = "stadium host jar green pioneer shy devote awesome child frog best place";

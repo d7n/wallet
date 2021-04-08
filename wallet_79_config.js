@@ -1,1 +1,1 @@
-var mnemonic = "kidney blanket palace fault matter table miss struggle ginger mercy ghost soul";
+var mnemonic = "domain alone ice transfer hedgehog replace invest spike note child sad fatal";

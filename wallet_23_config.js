@@ -1,1 +1,1 @@
-var mnemonic = "hunt symbol mansion sing vessel short hazard question merry grape merit initial";
+var mnemonic = "upper leave obvious you museum tobacco eyebrow logic grocery wire supreme turtle";

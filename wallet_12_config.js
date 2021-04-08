@@ -1,1 +1,1 @@
-var mnemonic = "order cotton common hip farm cruise foot useless boss accident roast foot";
+var mnemonic = "other income vacuum spring season expire female bacon coast satoshi pull top";

@@ -1,1 +1,1 @@
-var mnemonic = "ask absent tag warm kind general lounge zero brain magnet afford turtle";
+var mnemonic = "scare soft any lizard ready scatter asthma bullet crime lawsuit very sadness";

@@ -1,1 +1,1 @@
-var mnemonic = "speed provide tourist skirt cream adult rely enlist ridge flash record student";
+var mnemonic = "jazz silly rice arrow secret festival like weird tomorrow forget suggest awkward";

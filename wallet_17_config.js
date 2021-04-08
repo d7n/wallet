@@ -1,1 +1,1 @@
-var mnemonic = "common cruise pencil eye ceiling then avocado cover afford bomb else legal";
+var mnemonic = "explain student poverty cruise merge speed believe universe gun teach wool say";

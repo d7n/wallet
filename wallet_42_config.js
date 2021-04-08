@@ -1,1 +1,1 @@
-var mnemonic = "tuition dynamic rain pledge absorb smooth envelope crouch bubble flip fork nasty";
+var mnemonic = "liquid volcano feature spare snake twist animal basket armed mixture excite cannon";

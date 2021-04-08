@@ -1,1 +1,1 @@
-var mnemonic = "orbit congress language rally outer pyramid dolphin letter indicate open shrug finish";
+var mnemonic = "whale present chapter key review senior legal leader way protect fade success";

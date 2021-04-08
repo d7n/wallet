@@ -1,1 +1,1 @@
-var mnemonic = "pelican wall behave ridge unfold absent alone bench tonight club panic wagon";
+var mnemonic = "half pizza silent minute similar gas motor system kiwi move embark bacon";

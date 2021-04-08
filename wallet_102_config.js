@@ -1,1 +1,1 @@
-var mnemonic = "crisp open note siren lemon order cross cash school grant lumber shy";
+var mnemonic = "swallow stamp cradle enter doll arrow expire lottery also chuckle figure stuff";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual own hold effort phone wink lend educate receive cable assist tomorrow";
+var mnemonic = "typical video federal repair rice stuff twelve foster chief receive grab tattoo";

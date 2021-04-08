@@ -1,1 +1,1 @@
-var mnemonic = "approve man cover empower diamond road secret pilot sadness waste focus awesome";
+var mnemonic = "nature horse enemy action cable ordinary spend differ sentence start team original";

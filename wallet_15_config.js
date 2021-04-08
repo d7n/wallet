@@ -1,1 +1,1 @@
-var mnemonic = "hold hover call grow grab bind skill render aunt table rigid school";
+var mnemonic = "list assume give check involve record tool skirt reopen try alarm supreme";

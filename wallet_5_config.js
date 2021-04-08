@@ -1,1 +1,1 @@
-var mnemonic = "check beef short dune unique survey zoo there miracle bachelor paddle pass";
+var mnemonic = "raccoon weapon mail window match dose what mad crawl cloth plug curious";

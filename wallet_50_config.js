@@ -1,1 +1,1 @@
-var mnemonic = "actor material census various crater regular move wear quiz mimic lunch online";
+var mnemonic = "busy alien loud pass snack truly giraffe gate indicate kind juice onion";

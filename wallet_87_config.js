@@ -1,1 +1,1 @@
-var mnemonic = "high because renew today position long access industry have poet cigar gravity";
+var mnemonic = "define hollow avocado radio blade salt blouse major napkin leopard crisp pool";

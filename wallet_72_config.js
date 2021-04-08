@@ -1,1 +1,1 @@
-var mnemonic = "wheat fence major shop start custom rocket stand labor element stage staff";
+var mnemonic = "shed school mother label either stage okay absorb spray piano unaware ring";

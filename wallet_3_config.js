@@ -1,1 +1,1 @@
-var mnemonic = "sister wild kid ritual palm smoke disease detect such double spring vivid";
+var mnemonic = "gravity level joy clock fit picnic corn river beyond first become output";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe valley salmon height snake undo worth follow cart impose boss price";
+var mnemonic = "tool boss behave network sort almost comic grant phrase message cute shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "vacuum token turn dinner slab remind regular space space joy arena then";
+var mnemonic = "year merit buyer foster submit witness cram divorce sign upset donor foil";

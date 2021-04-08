@@ -1,1 +1,1 @@
-var mnemonic = "palm fragile robust spider recipe outside front pupil sunset recall card bring";
+var mnemonic = "thunder town rotate problem dwarf sad eye scheme tuition hockey shove level";

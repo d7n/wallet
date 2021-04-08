@@ -1,1 +1,1 @@
-var mnemonic = "broken opera reward tomorrow until twenty office divide spray decline share real";
+var mnemonic = "render opera matrix draw crack sun lunar father mechanic exhibit valve element";

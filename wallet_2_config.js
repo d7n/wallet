@@ -1,1 +1,1 @@
-var mnemonic = "wasp help anxiety deer insect claw tiny violin small impact simple trust";
+var mnemonic = "attract illegal pear screen mutual again blade cloud theme panel lift account";

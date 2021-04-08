@@ -1,1 +1,1 @@
-var mnemonic = "project sniff edit december shallow south wish step will try acid exhibit";
+var mnemonic = "flock orchard always major marriage permit target lady hurry genius purchase spawn";

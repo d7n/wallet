@@ -1,1 +1,1 @@
-var mnemonic = "man lady curve invite magnet rare best pudding help agree dog birth";
+var mnemonic = "moon sibling demise boy verify dirt despair turn action wine feature cheese";

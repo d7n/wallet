@@ -1,1 +1,1 @@
-var mnemonic = "pigeon jeans fatal identify image cancel betray utility manage risk crane prize";
+var mnemonic = "awesome mail sister riot where uniform unique recall black child child large";

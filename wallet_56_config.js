@@ -1,1 +1,1 @@
-var mnemonic = "lesson village wheat tortoise lab police negative glare chalk angry quit wrong";
+var mnemonic = "good survey shuffle rural tower window scare burger pencil light pitch symbol";

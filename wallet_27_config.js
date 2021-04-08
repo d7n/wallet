@@ -1,1 +1,1 @@
-var mnemonic = "scrub middle service must mix ill lawsuit boring fiction select ketchup patrol";
+var mnemonic = "range nasty method matrix merry actor grab draw satisfy hybrid work gate";

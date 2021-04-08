@@ -1,1 +1,1 @@
-var mnemonic = "language print pair rotate combine trim upper proof more candy wine parent";
+var mnemonic = "spray melt animal wild december eight help lecture razor letter exhaust that";

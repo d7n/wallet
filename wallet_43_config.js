@@ -1,1 +1,1 @@
-var mnemonic = "adjust pupil attend decade sting bar napkin close afford cabbage ocean genuine";
+var mnemonic = "laundry fence record need act blue purity parade height sponsor wine sponsor";

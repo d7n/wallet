@@ -1,1 +1,1 @@
-var mnemonic = "trade patrol brand kiwi coach almost smoke spoon regret jelly fluid chest";
+var mnemonic = "lend viable biology afraid stairs upgrade figure poet mask garment profit detect";

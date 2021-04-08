@@ -1,1 +1,1 @@
-var mnemonic = "crystal repair trouble crater excess salad learn sport inhale traffic congress main";
+var mnemonic = "segment inner hat town track share swamp nominee weird sunset pupil exist";

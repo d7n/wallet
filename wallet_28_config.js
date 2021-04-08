@@ -1,1 +1,1 @@
-var mnemonic = "lens scrub bulk verb educate focus north lake rocket inherit unknown boring";
+var mnemonic = "era iron bargain people glue protect more people nasty denial coil ranch";

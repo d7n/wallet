@@ -1,1 +1,1 @@
-var mnemonic = "weasel dish cannon mesh shoe bench clean print barely gossip price under";
+var mnemonic = "man announce foil wolf never unknown brother abuse speak style life guitar";

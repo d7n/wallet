@@ -1,1 +1,1 @@
-var mnemonic = "live sister garage fortune mandate laundry category casino parade chronic cattle maze";
+var mnemonic = "twin orange opera error erode filter blur grief lawsuit ski bitter lounge";

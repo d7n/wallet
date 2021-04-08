@@ -1,1 +1,1 @@
-var mnemonic = "soldier boring impose rally city wedding crawl spy tide next siege glance";
+var mnemonic = "reject exhaust actor evoke arctic hamster follow true ahead since theory area";

@@ -1,1 +1,1 @@
-var mnemonic = "crane tower broken hammer spirit fiscal wait sheriff hundred measure trap buffalo";
+var mnemonic = "ask gospel poverty gossip kit skirt fan begin play twenty version rally";

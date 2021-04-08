@@ -1,1 +1,1 @@
-var mnemonic = "pole envelope innocent cable engine parrot sound six immense move joy rookie";
+var mnemonic = "because pottery palm neither reject kangaroo nurse visa neglect simple air stable";

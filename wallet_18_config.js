@@ -1,1 +1,1 @@
-var mnemonic = "cover frozen also room title strike over awake toilet crash code cross";
+var mnemonic = "run creek will bread thunder duty output hard security drill motor true";

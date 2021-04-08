@@ -1,1 +1,1 @@
-var mnemonic = "clinic put guitar wink give artefact refuse innocent replace what pencil chef";
+var mnemonic = "matrix obvious design prepare half path physical eyebrow cement fitness vault salmon";
