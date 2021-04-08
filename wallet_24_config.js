@@ -1,1 +1,1 @@
-var mnemonic = "cruel emerge alter visit earn valve huge hollow surround palm day helmet";
+var mnemonic = "love animal barrel duck skull result hour ivory balance put reward major";

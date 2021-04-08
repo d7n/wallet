@@ -1,1 +1,1 @@
-var mnemonic = "sand glare edit great life venture lady opinion today plunge spot lucky";
+var mnemonic = "essence crawl ten rookie brave crowd fault license slow burst frown circle";

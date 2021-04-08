@@ -1,1 +1,1 @@
-var mnemonic = "extend crisp tuition ritual possible void future bench narrow recycle festival picnic";
+var mnemonic = "blossom monkey post peace bicycle cram whisper stick welcome disease picnic spatial";

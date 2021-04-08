@@ -1,1 +1,1 @@
-var mnemonic = "cave fortune omit goat oyster gasp syrup maid bachelor net host acid";
+var mnemonic = "escape unaware frown crime seed unfair talent drip truth exist brand inject";

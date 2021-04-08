@@ -1,1 +1,1 @@
-var mnemonic = "oyster slam deliver provide shoulder road candy grass crash divide swim apart";
+var mnemonic = "glove toss end desert actress seven agent twenty broken breeze vacuum industry";

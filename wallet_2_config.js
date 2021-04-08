@@ -1,1 +1,1 @@
-var mnemonic = "effort truck easy venue guilt ticket inspire song proof lion approve good";
+var mnemonic = "ceiling depth century pool survey mouse latin exhaust online jeans curve indicate";

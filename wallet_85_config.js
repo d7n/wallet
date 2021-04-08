@@ -1,1 +1,1 @@
-var mnemonic = "cram flat peanut force future dinosaur special old empty range orange hawk";
+var mnemonic = "drastic twist panic sock multiply estate hospital tissue creek drink forum gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "solar reason curious people leg dream provide federal ramp disease valley pole";
+var mnemonic = "axis ozone draft fluid repeat miss donor turn rebel ivory pumpkin gun";

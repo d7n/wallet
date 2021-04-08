@@ -1,1 +1,1 @@
-var mnemonic = "logic swarm cart summer tail glass snack aware horn pause quality shop";
+var mnemonic = "oak truth orbit over blouse junior trust sunny arrive lion chronic inhale";

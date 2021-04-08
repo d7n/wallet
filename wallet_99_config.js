@@ -1,1 +1,1 @@
-var mnemonic = "obscure paper dial side dice novel faith fat mean ginger artefact fluid";
+var mnemonic = "burden spike gorilla vanish camp duck coast blue fox machine caught jacket";

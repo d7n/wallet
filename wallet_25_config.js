@@ -1,1 +1,1 @@
-var mnemonic = "alpha jeans suggest flower high smooth lens force pattern tortoise cube between";
+var mnemonic = "fame coil shell swap maximum funny fold thrive number offer tornado spoil";

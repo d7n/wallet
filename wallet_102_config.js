@@ -1,1 +1,1 @@
-var mnemonic = "accident clog mosquito actual alone essence despair force climb lemon claw cigar";
+var mnemonic = "movie bonus blue outdoor senior novel inspire cup awful pumpkin shrimp during";

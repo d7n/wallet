@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit corn lock blast say river betray music vital obvious lake love";
+var mnemonic = "chronic rice extend laptop couch duck labor just dance noodle clown gather";

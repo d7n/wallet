@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin risk oak muscle rent imitate virtual vivid sail burger wear inhale";
+var mnemonic = "consider resist erosion large scorpion country disorder hotel afraid humor night genius";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight attitude shock slice stand violin capital fetch picnic mutual bulk project";
+var mnemonic = "badge spring olympic predict forest neglect ignore option skin exhaust chicken sting";

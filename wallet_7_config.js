@@ -1,1 +1,1 @@
-var mnemonic = "reunion crawl refuse spot fever shine federal famous during student pull orphan";
+var mnemonic = "merit remove rice coach broken web village board relax another deposit lamp";

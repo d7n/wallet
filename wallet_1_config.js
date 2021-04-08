@@ -1,1 +1,1 @@
-var mnemonic = "auction beyond since trophy soap cereal grain earn define biology label finish";
+var mnemonic = "repeat three safe jewel achieve visa oil usage mandate mouse horn fine";

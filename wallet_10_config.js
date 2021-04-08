@@ -1,1 +1,1 @@
-var mnemonic = "panic dynamic arrest bachelor tobacco layer enter chief snow swear exile soldier";
+var mnemonic = "walk decrease rude carpet season happy culture old memory cattle spread please";

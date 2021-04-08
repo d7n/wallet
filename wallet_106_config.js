@@ -1,1 +1,1 @@
-var mnemonic = "blossom fish member rate peanut satoshi want real issue heart whisper tribe";
+var mnemonic = "citizen peace banner today admit security girl equal allow soap slim moment";

@@ -1,1 +1,1 @@
-var mnemonic = "long trade dismiss staff logic sentence digital all diagram super manage unaware";
+var mnemonic = "ring deputy reward vacant box team retreat toast hobby pencil boy own";

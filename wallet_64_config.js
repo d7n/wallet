@@ -1,1 +1,1 @@
-var mnemonic = "spice excess share frame then differ two blossom copper inhale code exit";
+var mnemonic = "celery blast wheel measure arrow angle close inquiry erupt property view relax";

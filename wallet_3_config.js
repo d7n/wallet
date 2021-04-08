@@ -1,1 +1,1 @@
-var mnemonic = "key weekend cement ramp never confirm grape exile side carbon add together";
+var mnemonic = "romance gym rate next general expire fury phrase lizard lumber virus repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue spread rich inherit verb dwarf visit celery fish hamster ready around";
+var mnemonic = "roast vital special snap copy staff search photo decline monkey add hurdle";

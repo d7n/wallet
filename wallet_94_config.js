@@ -1,1 +1,1 @@
-var mnemonic = "employ prison until lemon chest list occur debris sugar ozone south deposit";
+var mnemonic = "flush organ replace maple muffin purchase ill sleep furnace already open used";

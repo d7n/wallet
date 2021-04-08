@@ -1,1 +1,1 @@
-var mnemonic = "frown ring social shed deal file elevator worth boring else adapt bar";
+var mnemonic = "lounge latin bean resist man thing age nice sheriff pipe enlist manual";

@@ -1,1 +1,1 @@
-var mnemonic = "bench wild other speed diagram thrive bus urban frequent flip give offer";
+var mnemonic = "siren tray sadness behave tuna increase chapter hunt primary pole mind solve";

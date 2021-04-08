@@ -1,1 +1,1 @@
-var mnemonic = "cart leader worry satisfy resemble caught enhance avoid mimic script slow vacuum";
+var mnemonic = "canyon hurry boy fall coffee ramp tribe radar anxiety cram black swarm";

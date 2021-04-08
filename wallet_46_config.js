@@ -1,1 +1,1 @@
-var mnemonic = "rail barrel noodle build ticket ice breeze dish topic fetch forget release";
+var mnemonic = "bread obvious cluster ride glance zone split cheap recall alter pride merry";

@@ -1,1 +1,1 @@
-var mnemonic = "host flock beef apple display dream cage profit couch kangaroo awkward illness";
+var mnemonic = "always thank target embrace hip hip such inherit style scale dynamic whisper";

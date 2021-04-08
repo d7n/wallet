@@ -1,1 +1,1 @@
-var mnemonic = "between future federal found paddle undo toy dinner good verify illness ring";
+var mnemonic = "imitate rookie give rent holiday minute put suffer foam high puppy undo";

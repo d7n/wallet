@@ -1,1 +1,1 @@
-var mnemonic = "mad cactus poet cloud bubble interest file jar float alarm faith crouch";
+var mnemonic = "bonus pyramid milk into picture cost hill bike great aim lecture garden";

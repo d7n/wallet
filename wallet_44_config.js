@@ -1,1 +1,1 @@
-var mnemonic = "rack boss claw click phone stumble term cousin flight seed hamster grant";
+var mnemonic = "know exile myth together old crisp crumble lady say wrong pigeon lady";

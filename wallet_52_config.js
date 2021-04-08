@@ -1,1 +1,1 @@
-var mnemonic = "monkey impact island dwarf course bike mercy silly ill rifle captain near";
+var mnemonic = "hundred vacant salute grocery pencil syrup photo churn senior cereal before response";

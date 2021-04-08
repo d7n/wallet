@@ -1,1 +1,1 @@
-var mnemonic = "vanish april clap banana spend either alert wedding rabbit orbit hard nurse";
+var mnemonic = "uncle help album wisdom valley another patrol allow track coin title guilt";

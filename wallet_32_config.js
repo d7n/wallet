@@ -1,1 +1,1 @@
-var mnemonic = "robust rail gadget cloud congress art private sugar burger oval mystery concert";
+var mnemonic = "off girl tumble lonely call slight render blame crystal surround firm people";

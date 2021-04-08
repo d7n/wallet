@@ -1,1 +1,1 @@
-var mnemonic = "dilemma quantum afraid script relax ketchup theme wonder congress wrist torch rose";
+var mnemonic = "picnic can goose extend time ability face pig spin assume result surround";

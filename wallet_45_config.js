@@ -1,1 +1,1 @@
-var mnemonic = "comfort gas aspect isolate property senior height other neck settle deer control";
+var mnemonic = "stadium make donate warfare elevator leg car name distance list veteran assault";

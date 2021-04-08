@@ -1,1 +1,1 @@
-var mnemonic = "skin subject high horror puppy diary quiz curve version differ joy income";
+var mnemonic = "shoulder online rally salmon absurd cushion old pencil kick scheme coral barrel";

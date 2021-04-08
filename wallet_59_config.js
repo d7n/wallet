@@ -1,1 +1,1 @@
-var mnemonic = "warm arrest raccoon fury neutral mother system crane unique invite trick toast";
+var mnemonic = "tone cattle shop fantasy total warfare lizard tissue boil advance border share";

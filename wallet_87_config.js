@@ -1,1 +1,1 @@
-var mnemonic = "require volume deputy slam erupt vacant flush private clay wash case banana";
+var mnemonic = "album build skin illness resource marble slight laundry sea caught web slide";

@@ -1,1 +1,1 @@
-var mnemonic = "east bone turn stable affair comic marine pledge dog travel truck total";
+var mnemonic = "bike bus work thought base denial ugly wash puppy act total weekend";

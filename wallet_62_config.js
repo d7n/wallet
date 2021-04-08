@@ -1,1 +1,1 @@
-var mnemonic = "end blame dynamic tree credit turtle seminar interest swamp mandate casual parade";
+var mnemonic = "equal maid major top close virtual horse round sudden memory typical risk";

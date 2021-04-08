@@ -1,1 +1,1 @@
-var mnemonic = "test dash illness orbit code occur camp call govern pool oxygen clever";
+var mnemonic = "broccoli cute grain tomorrow verb muffin cruel ethics range priority void trash";

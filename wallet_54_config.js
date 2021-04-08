@@ -1,1 +1,1 @@
-var mnemonic = "run air crawl nominee file item ecology craft multiply artist scene lab";
+var mnemonic = "divorce capital swing crater mistake breeze entire shoulder enlist evoke income monkey";

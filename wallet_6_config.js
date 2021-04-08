@@ -1,1 +1,1 @@
-var mnemonic = "spin blossom copper country raven syrup pyramid pattern loan enrich foam rice";
+var mnemonic = "lamp monkey police priority list observe gas category immune output twelve final";

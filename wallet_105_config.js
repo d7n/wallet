@@ -1,1 +1,1 @@
-var mnemonic = "column jacket surround stay web quality country inmate accident fancy garbage cute";
+var mnemonic = "sphere identify phone decorate shy session physical husband marble wood baby board";

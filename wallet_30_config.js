@@ -1,1 +1,1 @@
-var mnemonic = "purpose estate diagram misery gorilla cheap rent will machine box mesh web";
+var mnemonic = "stock music alone company someone indoor swift tray lend actual stem amateur";

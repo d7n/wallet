@@ -1,1 +1,1 @@
-var mnemonic = "frost raccoon slice minor hard setup labor intact awful foam acid parade";
+var mnemonic = "bright under eternal casino monkey card puppy burger exhaust cattle sadness twin";

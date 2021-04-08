@@ -1,1 +1,1 @@
-var mnemonic = "very audit urban rude blossom addict shield barely special confirm anxiety world";
+var mnemonic = "dress alley vast phrase subway list tuna flower advice garment figure old";

@@ -1,1 +1,1 @@
-var mnemonic = "latin cable stove return flip length mirror allow behind vast foot proof";
+var mnemonic = "lend adjust stairs artefact conduct sketch say nominee chaos involve clarify soon";

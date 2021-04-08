@@ -1,1 +1,1 @@
-var mnemonic = "viable huge price valve galaxy bundle soup version magic ostrich this left";
+var mnemonic = "lend mystery all profit human mistake adult broken entire hair radio trust";

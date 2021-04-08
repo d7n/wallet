@@ -1,1 +1,1 @@
-var mnemonic = "gather trap tail marriage moral clay occur edit erupt garlic bracket defy";
+var mnemonic = "expose bitter music dog elevator shell ride involve smooth panther fence thumb";

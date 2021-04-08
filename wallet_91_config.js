@@ -1,1 +1,1 @@
-var mnemonic = "burden popular obtain obey submit toward bonus castle sell direct tuition control";
+var mnemonic = "almost crunch victory tag plunge ramp sight family angle name insane addict";

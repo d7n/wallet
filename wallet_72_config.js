@@ -1,1 +1,1 @@
-var mnemonic = "skill hen future brown belt sunny violin connect transfer bottom cereal illness";
+var mnemonic = "border nerve visit insane accuse kitchen until mutual spread century toy domain";

@@ -1,1 +1,1 @@
-var mnemonic = "seek cliff fork coin appear dice crack remain maximum humor airport clean";
+var mnemonic = "pony student merry animal nose yellow morning chase excite giraffe occur retire";

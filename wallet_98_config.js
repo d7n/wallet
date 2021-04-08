@@ -1,1 +1,1 @@
-var mnemonic = "orbit farm ramp lunch wheel danger giggle swing bubble oyster near runway";
+var mnemonic = "mail shrimp more bachelor account option erode talent ancient brown jaguar umbrella";

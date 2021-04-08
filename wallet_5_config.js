@@ -1,1 +1,1 @@
-var mnemonic = "conduct devote affair laugh prevent meat tube current fox term pupil twist";
+var mnemonic = "expire portion barely manage renew brave scan size base sea split avocado";

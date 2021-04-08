@@ -1,1 +1,1 @@
-var mnemonic = "fringe surround egg basic relax fabric unaware violin trumpet render icon author";
+var mnemonic = "shine violin alert pact panel chef bitter trip river fresh inside pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "motion artwork fan soda boost head cream penalty brick trash scheme lock";
+var mnemonic = "hand wife crash gallery clean side damage draw embrace wash castle circle";

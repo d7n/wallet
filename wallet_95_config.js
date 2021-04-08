@@ -1,1 +1,1 @@
-var mnemonic = "glimpse grass moon jump dutch ticket spread melt donkey utility visual recall";
+var mnemonic = "deny inmate blush noise move sausage cheese repeat absorb try cat flush";

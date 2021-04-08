@@ -1,1 +1,1 @@
-var mnemonic = "stool buzz best prefer shaft over seat cousin pact cave thank credit";
+var mnemonic = "fitness capable virus pioneer save churn february lens page gravity convince van";

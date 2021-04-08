@@ -1,1 +1,1 @@
-var mnemonic = "rely decline fix champion strategy act minimum off field census million cradle";
+var mnemonic = "december disorder hospital country scan brother scissors motion rapid spatial panic chuckle";

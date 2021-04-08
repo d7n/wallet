@@ -1,1 +1,1 @@
-var mnemonic = "excuse afraid abuse weird apart bitter life sell mobile power blue today";
+var mnemonic = "talk romance gown potato stick crash elbow cake derive similar unfold tumble";

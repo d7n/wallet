@@ -1,1 +1,1 @@
-var mnemonic = "verify deposit finger what echo cricket alone fiscal vivid glare find size";
+var mnemonic = "stadium gorilla cruel become shrug lawsuit awake loyal use sister inmate cradle";

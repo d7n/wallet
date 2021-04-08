@@ -1,1 +1,1 @@
-var mnemonic = "age knee thumb reason fold inhale decade frown trash group health hover";
+var mnemonic = "favorite ticket toilet always bench where tree you obey burst middle fury";

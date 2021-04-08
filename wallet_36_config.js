@@ -1,1 +1,1 @@
-var mnemonic = "toilet pelican thunder logic narrow rhythm praise person error festival enlist health";
+var mnemonic = "flat flag zone keep monster mercy evoke shop knife image rebuild reward";

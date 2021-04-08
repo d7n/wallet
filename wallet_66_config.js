@@ -1,1 +1,1 @@
-var mnemonic = "govern battle mention trick guitar box flush grape lesson regular youth awful";
+var mnemonic = "patrol steak general banner fringe chapter cannon once page float tube picture";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown idea ask jewel lemon verb furnace hard scale light hurt kid";
+var mnemonic = "soap connect impulse tape thought praise mosquito express crisp finger describe render";

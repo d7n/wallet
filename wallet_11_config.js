@@ -1,1 +1,1 @@
-var mnemonic = "direct faculty enrich model funny tower tuition film second involve vocal illness";
+var mnemonic = "valley eight decrease habit cliff huge puzzle ahead grace assault analyst priority";

@@ -1,1 +1,1 @@
-var mnemonic = "cross bounce seven person pet cattle better square violin visual smart practice";
+var mnemonic = "enlist sibling confirm exhaust couch surge behind creek cereal mango solar pact";

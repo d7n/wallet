@@ -1,1 +1,1 @@
-var mnemonic = "accident derive armor announce now help fence abuse year alley wasp polar";
+var mnemonic = "absent evidence indoor flight torch glass salmon boil lobster sea toilet hunt";

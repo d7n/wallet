@@ -1,1 +1,1 @@
-var mnemonic = "help learn consider strategy tennis guard taste code ribbon damage secret this";
+var mnemonic = "peace pulp luggage wrap glass select tree badge code hard dawn tape";

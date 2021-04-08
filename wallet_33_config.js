@@ -1,1 +1,1 @@
-var mnemonic = "brief survey sheriff link record labor ask inspire zebra loyal impose obey";
+var mnemonic = "know cream avocado chief vibrant act gather produce wool dune radio knee";

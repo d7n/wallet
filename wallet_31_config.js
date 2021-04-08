@@ -1,1 +1,1 @@
-var mnemonic = "expire immune salon couch climb drop plastic amateur cube puzzle idle brown";
+var mnemonic = "dove harvest shiver front scan able piece uniform faculty law arm state";

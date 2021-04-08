@@ -1,1 +1,1 @@
-var mnemonic = "receive boil surprise beauty burden moral round absurd velvet local over onion";
+var mnemonic = "input allow crush essence young oxygen velvet scan tomato finish enlist diesel";

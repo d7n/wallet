@@ -1,1 +1,1 @@
-var mnemonic = "wife rocket spend metal push hip pause meat dream field radio live";
+var mnemonic = "involve stadium brother stool enroll note away tell tide punch lucky pair";

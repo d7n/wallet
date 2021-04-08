@@ -1,1 +1,1 @@
-var mnemonic = "pelican clip pottery task zone area guitar replace oblige night language noodle";
+var mnemonic = "vicious flavor amount excess arrange kangaroo joy noise exclude remind actress gadget";

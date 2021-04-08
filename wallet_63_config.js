@@ -1,1 +1,1 @@
-var mnemonic = "royal frequent swarm carry rough napkin royal bubble buddy short swear circle";
+var mnemonic = "produce step noodle typical rail abandon coin medal window forget submit glass";

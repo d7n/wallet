@@ -1,1 +1,1 @@
-var mnemonic = "face choice ritual ketchup swarm deputy glue grain fiber you mix advance";
+var mnemonic = "balcony chat bubble palm expect shoulder beyond gentle alert piano museum zoo";

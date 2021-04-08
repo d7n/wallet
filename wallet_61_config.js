@@ -1,1 +1,1 @@
-var mnemonic = "upset switch roof glove spider true roof advice coil wet ordinary bulk";
+var mnemonic = "jacket phrase home either mixture awkward gate bone asthma orphan old loud";

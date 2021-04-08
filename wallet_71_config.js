@@ -1,1 +1,1 @@
-var mnemonic = "bright robust light clever dizzy weird point clump youth shoot sauce tourist";
+var mnemonic = "moment success oven giggle pyramid pole online grant crunch junk offer arm";

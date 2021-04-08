@@ -1,1 +1,1 @@
-var mnemonic = "picture hospital ghost circle meat volcano credit submit battle net rate reflect";
+var mnemonic = "young crumble birth owner neither spy trick debate best wash cruel drink";

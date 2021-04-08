@@ -1,1 +1,1 @@
-var mnemonic = "athlete castle sea need void hamster thumb horn bleak raise filter raven";
+var mnemonic = "crack gravity above innocent slab way heart poverty erode inherit wire ten";

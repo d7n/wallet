@@ -1,1 +1,1 @@
-var mnemonic = "surge keep ridge stadium suspect write obscure tomato chair mixture prison image";
+var mnemonic = "first core park silent erosion rug invite capital target notice average ice";

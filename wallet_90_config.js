@@ -1,1 +1,1 @@
-var mnemonic = "motion use brush chuckle rotate rice remain supreme runway smile army hire";
+var mnemonic = "absent zone arctic tone film tragic busy ritual rough guitar execute hammer";

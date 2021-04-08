@@ -1,1 +1,1 @@
-var mnemonic = "hollow vendor bone luggage cram what flush click dizzy net riot solve";
+var mnemonic = "salt review final door mimic raise lizard sausage lend ability volcano sister";

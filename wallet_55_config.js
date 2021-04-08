@@ -1,1 +1,1 @@
-var mnemonic = "possible utility until ribbon tooth local aunt scare filter walk tattoo donor";
+var mnemonic = "culture easy purchase involve route viable pony hint depend siege real happy";

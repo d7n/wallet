@@ -1,1 +1,1 @@
-var mnemonic = "donkey hurt autumn lazy certain ivory dilemma dust fossil large ask icon";
+var mnemonic = "topic select coconut tornado stem entire faint picture sign level woman media";

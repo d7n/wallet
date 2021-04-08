@@ -1,1 +1,1 @@
-var mnemonic = "weather unveil awkward scatter tomato destroy prison trick output hire hidden range";
+var mnemonic = "urban negative business valley athlete addict armor awkward kind wrap brother unfold";

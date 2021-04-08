@@ -1,1 +1,1 @@
-var mnemonic = "digital cactus sock dirt grain audit harsh chunk member speak expand because";
+var mnemonic = "advice brief tool wide enrich person laugh kiss wheat glimpse invite crunch";

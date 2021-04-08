@@ -1,1 +1,1 @@
-var mnemonic = "bleak coach prosper crystal fiscal dirt link reduce rubber mix inflict error";
+var mnemonic = "buzz trigger apology wasp state gold flash turn marine reveal guess spend";

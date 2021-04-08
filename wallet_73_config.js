@@ -1,1 +1,1 @@
-var mnemonic = "dilemma notable fault echo leaf neither knife forest april absent shift heart";
+var mnemonic = "series bottom despair post dizzy poverty float brain coyote piano excite shiver";

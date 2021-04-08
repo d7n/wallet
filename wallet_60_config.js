@@ -1,1 +1,1 @@
-var mnemonic = "wheel impact wrong ball door myself either energy bonus recall august wink";
+var mnemonic = "morning receive blast enrich rebel memory marine bamboo inhale lizard expand honey";
