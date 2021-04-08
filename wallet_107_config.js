@@ -1,1 +1,1 @@
-var mnemonic = "average unaware fork evolve rail proof april best patch witness clog thrive";
+var mnemonic = "craft effort disagree news lift thunder awful around silent day hotel fashion";

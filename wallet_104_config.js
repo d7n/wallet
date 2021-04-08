@@ -1,1 +1,1 @@
-var mnemonic = "ranch member hand february cigar wing tuition mouse help offer fix tooth";
+var mnemonic = "banana begin catalog spawn orbit tonight flag east advance tool polar park";

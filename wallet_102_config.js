@@ -1,1 +1,1 @@
-var mnemonic = "movie bonus blue outdoor senior novel inspire cup awful pumpkin shrimp during";
+var mnemonic = "tissue decade cricket gauge sting cat original wild answer hybrid domain spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness capable virus pioneer save churn february lens page gravity convince van";
+var mnemonic = "waste eye anger fame fire general coast top change wear strategy anger";

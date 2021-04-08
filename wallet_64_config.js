@@ -1,1 +1,1 @@
-var mnemonic = "celery blast wheel measure arrow angle close inquiry erupt property view relax";
+var mnemonic = "negative spike toss apart atom behind scatter fog punch coin forget bottom";

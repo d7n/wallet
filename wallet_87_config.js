@@ -1,1 +1,1 @@
-var mnemonic = "album build skin illness resource marble slight laundry sea caught web slide";
+var mnemonic = "predict degree gallery sample knock blade visa label quick student reflect city";

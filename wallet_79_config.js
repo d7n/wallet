@@ -1,1 +1,1 @@
-var mnemonic = "oyster crumble bleak survey attract soup manage funny tent potato slam sheriff";
+var mnemonic = "public faith seven smooth air north tilt orient town this wisdom potato";

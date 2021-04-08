@@ -1,1 +1,1 @@
-var mnemonic = "citizen peace banner today admit security girl equal allow soap slim moment";
+var mnemonic = "decade mammal gown avocado attitude multiply secret avoid phrase oblige manage rhythm";

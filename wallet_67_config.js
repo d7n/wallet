@@ -1,1 +1,1 @@
-var mnemonic = "canyon hurry boy fall coffee ramp tribe radar anxiety cram black swarm";
+var mnemonic = "mean anger aisle fortune success toss crunch bundle stadium globe miracle mimic";

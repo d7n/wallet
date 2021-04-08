@@ -1,1 +1,1 @@
-var mnemonic = "expose bitter music dog elevator shell ride involve smooth panther fence thumb";
+var mnemonic = "combine sibling person improve solve frost forget fault stock fire spider boring";

@@ -1,1 +1,1 @@
-var mnemonic = "bike bus work thought base denial ugly wash puppy act total weekend";
+var mnemonic = "luxury glimpse embody small cost unfair picture doctor scare identify mom victory";

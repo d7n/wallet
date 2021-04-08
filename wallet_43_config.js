@@ -1,1 +1,1 @@
-var mnemonic = "young crumble birth owner neither spy trick debate best wash cruel drink";
+var mnemonic = "truck cancel owner assist change auction antique frequent exact inquiry unique toddler";

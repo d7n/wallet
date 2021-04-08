@@ -1,1 +1,1 @@
-var mnemonic = "waste foil thrive veteran elder maple bracket meadow keen blade venue shop";
+var mnemonic = "turn solar inflict grass glory afford assault alter maze express negative best";

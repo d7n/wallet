@@ -1,1 +1,1 @@
-var mnemonic = "know cream avocado chief vibrant act gather produce wool dune radio knee";
+var mnemonic = "report hospital short quiz bulb twenty tone regret boy awkward property kiwi";

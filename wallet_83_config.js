@@ -1,1 +1,1 @@
-var mnemonic = "crack gravity above innocent slab way heart poverty erode inherit wire ten";
+var mnemonic = "gown galaxy garbage spend person axis segment entire tuna junior era pride";

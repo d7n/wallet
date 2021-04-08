@@ -1,1 +1,1 @@
-var mnemonic = "chronic rice extend laptop couch duck labor just dance noodle clown gather";
+var mnemonic = "recipe seed like level leg spider police shallow rude whisper inmate early";

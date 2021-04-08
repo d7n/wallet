@@ -1,1 +1,1 @@
-var mnemonic = "december disorder hospital country scan brother scissors motion rapid spatial panic chuckle";
+var mnemonic = "pipe cost canyon flush second worth cause acquire bring inhale enemy recipe";

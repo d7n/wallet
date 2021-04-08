@@ -1,1 +1,1 @@
-var mnemonic = "divorce capital swing crater mistake breeze entire shoulder enlist evoke income monkey";
+var mnemonic = "usual exile grant olive tape rent also bundle view quick foil over";

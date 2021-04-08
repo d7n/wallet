@@ -1,1 +1,1 @@
-var mnemonic = "balcony chat bubble palm expect shoulder beyond gentle alert piano museum zoo";
+var mnemonic = "enjoy tube autumn during slim capital zoo eagle toy pluck busy room";

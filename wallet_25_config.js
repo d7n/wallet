@@ -1,1 +1,1 @@
-var mnemonic = "fame coil shell swap maximum funny fold thrive number offer tornado spoil";
+var mnemonic = "absorb half enforce gas flush baby wide miracle gown click occur since";

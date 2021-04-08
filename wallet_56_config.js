@@ -1,1 +1,1 @@
-var mnemonic = "siren tray sadness behave tuna increase chapter hunt primary pole mind solve";
+var mnemonic = "general cat rare capable sea grant weapon oval uniform grape desert smart";

@@ -1,1 +1,1 @@
-var mnemonic = "consider resist erosion large scorpion country disorder hotel afraid humor night genius";
+var mnemonic = "noble saddle squeeze mail enjoy lobster speak bind vanish link novel neutral";

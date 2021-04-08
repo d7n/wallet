@@ -1,1 +1,1 @@
-var mnemonic = "stock music alone company someone indoor swift tray lend actual stem amateur";
+var mnemonic = "glory embrace build tragic profit fork sing manual trim vague humor mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "lend adjust stairs artefact conduct sketch say nominee chaos involve clarify soon";
+var mnemonic = "prepare drive exhaust fatigue you clown fog dial visit master dinner choose";

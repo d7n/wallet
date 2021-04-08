@@ -1,1 +1,1 @@
-var mnemonic = "imitate rookie give rent holiday minute put suffer foam high puppy undo";
+var mnemonic = "build quit draw solve flash head penalty famous team elegant bomb someone";

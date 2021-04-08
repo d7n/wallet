@@ -1,1 +1,1 @@
-var mnemonic = "love animal barrel duck skull result hour ivory balance put reward major";
+var mnemonic = "slogan raise arrive model elegant ten jungle cross essay critic develop between";

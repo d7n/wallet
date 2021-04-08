@@ -1,1 +1,1 @@
-var mnemonic = "favorite ticket toilet always bench where tree you obey burst middle fury";
+var mnemonic = "cart depend margin tube problem era allow admit able where hospital future";

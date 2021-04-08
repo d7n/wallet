@@ -1,1 +1,1 @@
-var mnemonic = "valley eight decrease habit cliff huge puzzle ahead grace assault analyst priority";
+var mnemonic = "patch convince cool just inch reject camera reward very grass object ladder";

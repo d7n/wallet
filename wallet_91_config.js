@@ -1,1 +1,1 @@
-var mnemonic = "almost crunch victory tag plunge ramp sight family angle name insane addict";
+var mnemonic = "discover please country soap scan decide vessel must genius profit mystery merry";

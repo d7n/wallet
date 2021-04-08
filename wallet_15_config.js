@@ -1,1 +1,1 @@
-var mnemonic = "urban negative business valley athlete addict armor awkward kind wrap brother unfold";
+var mnemonic = "narrow tumble dynamic envelope bomb fruit broccoli truly treat eyebrow food border";

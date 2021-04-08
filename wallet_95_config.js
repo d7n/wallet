@@ -1,1 +1,1 @@
-var mnemonic = "deny inmate blush noise move sausage cheese repeat absorb try cat flush";
+var mnemonic = "cherry response afraid reason rack pioneer combine cancel quantum input salon picnic";

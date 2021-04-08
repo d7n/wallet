@@ -1,1 +1,1 @@
-var mnemonic = "expire portion barely manage renew brave scan size base sea split avocado";
+var mnemonic = "submit custom pipe airport please model decrease pretty obtain avocado antenna bullet";

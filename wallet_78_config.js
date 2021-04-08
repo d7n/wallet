@@ -1,1 +1,1 @@
-var mnemonic = "always thank target embrace hip hip such inherit style scale dynamic whisper";
+var mnemonic = "busy oppose unknown old above change between truly session convince coffee later";

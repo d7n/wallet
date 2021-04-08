@@ -1,1 +1,1 @@
-var mnemonic = "enlist sibling confirm exhaust couch surge behind creek cereal mango solar pact";
+var mnemonic = "false promote regret boss thing mouse loop safe raise cancel mixed diary";

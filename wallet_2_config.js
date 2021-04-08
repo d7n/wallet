@@ -1,1 +1,1 @@
-var mnemonic = "ceiling depth century pool survey mouse latin exhaust online jeans curve indicate";
+var mnemonic = "build chase dentist hello brown cliff clog desk arctic bachelor stool swear";

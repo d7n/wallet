@@ -1,1 +1,1 @@
-var mnemonic = "glove toss end desert actress seven agent twenty broken breeze vacuum industry";
+var mnemonic = "road ethics bottom cheap federal hollow abandon divorce silly quiz blur crowd";

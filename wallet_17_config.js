@@ -1,1 +1,1 @@
-var mnemonic = "talk romance gown potato stick crash elbow cake derive similar unfold tumble";
+var mnemonic = "raccoon wave husband maximum crater recycle lawn liberty bright hair strike black";

@@ -1,1 +1,1 @@
-var mnemonic = "bright under eternal casino monkey card puppy burger exhaust cattle sadness twin";
+var mnemonic = "cricket cook walnut remain bamboo people sun radar rely rule master account";

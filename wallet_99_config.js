@@ -1,1 +1,1 @@
-var mnemonic = "burden spike gorilla vanish camp duck coast blue fox machine caught jacket";
+var mnemonic = "funny sheriff veteran anchor kiwi subject junk across hat nose gesture scout";

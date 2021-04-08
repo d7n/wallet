@@ -1,1 +1,1 @@
-var mnemonic = "oak truth orbit over blouse junior trust sunny arrive lion chronic inhale";
+var mnemonic = "twenty morning someone gorilla flat quantum immense flee chief wrap reject boost";

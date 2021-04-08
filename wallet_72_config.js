@@ -1,1 +1,1 @@
-var mnemonic = "border nerve visit insane accuse kitchen until mutual spread century toy domain";
+var mnemonic = "ghost open journey stadium alpha true juice bus must olive face broken";

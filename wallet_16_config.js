@@ -1,1 +1,1 @@
-var mnemonic = "shoulder online rally salmon absurd cushion old pencil kick scheme coral barrel";
+var mnemonic = "replace fan ill tilt iron earth hazard foot trust measure govern ramp";

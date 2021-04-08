@@ -1,1 +1,1 @@
-var mnemonic = "involve stadium brother stool enroll note away tell tide punch lucky pair";
+var mnemonic = "rich sure state vague share drastic knee square doctor pause winter jazz";

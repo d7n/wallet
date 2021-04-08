@@ -1,1 +1,1 @@
-var mnemonic = "absent evidence indoor flight torch glass salmon boil lobster sea toilet hunt";
+var mnemonic = "forget tip rice index echo select forest decade tongue tomato trouble code";

@@ -1,1 +1,1 @@
-var mnemonic = "lamp monkey police priority list observe gas category immune output twelve final";
+var mnemonic = "spring gain favorite right state lobster business addict certain salon item involve";

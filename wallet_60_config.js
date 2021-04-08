@@ -1,1 +1,1 @@
-var mnemonic = "morning receive blast enrich rebel memory marine bamboo inhale lizard expand honey";
+var mnemonic = "sad suffer stick capable spell region nerve oval tiny rule furnace voyage";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli cute grain tomorrow verb muffin cruel ethics range priority void trash";
+var mnemonic = "panic soon brick prefer obscure drift sea street bar rack oblige kit";

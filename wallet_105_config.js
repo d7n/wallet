@@ -1,1 +1,1 @@
-var mnemonic = "sphere identify phone decorate shy session physical husband marble wood baby board";
+var mnemonic = "settle grow copy obtain file rose enough exit elite parade differ egg";

@@ -1,1 +1,1 @@
-var mnemonic = "advice brief tool wide enrich person laugh kiss wheat glimpse invite crunch";
+var mnemonic = "upset quit ensure slab curtain obey cargo door grocery funny cook print";

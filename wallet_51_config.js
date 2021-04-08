@@ -1,1 +1,1 @@
-var mnemonic = "exercise ocean sense cause almost dragon intact room increase enrich meadow vessel";
+var mnemonic = "bachelor miracle father sport interest shift phrase curious list hair innocent describe";

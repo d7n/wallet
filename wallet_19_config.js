@@ -1,1 +1,1 @@
-var mnemonic = "axis ozone draft fluid repeat miss donor turn rebel ivory pumpkin gun";
+var mnemonic = "tongue target poem hunt valid bamboo enemy dilemma topple glance faculty holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "deer design easily zoo deer erase happy ice daring nose only ladder";
+var mnemonic = "child antenna chief company dune spike foil among torch congress rapid inform";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet flight leopard negative dial girl reopen crew alarm have ensure scout";
+var mnemonic = "expose giraffe enroll romance science outdoor provide scorpion father crash pair survey";

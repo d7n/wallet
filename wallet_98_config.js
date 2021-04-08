@@ -1,1 +1,1 @@
-var mnemonic = "mail shrimp more bachelor account option erode talent ancient brown jaguar umbrella";
+var mnemonic = "pyramid rifle subject scene easy emotion wine always mosquito sustain portion never";

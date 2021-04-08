@@ -1,1 +1,1 @@
-var mnemonic = "patrol steak general banner fringe chapter cannon once page float tube picture";
+var mnemonic = "crane tennis turkey drop twelve boil glad actor flush detect rifle ketchup";

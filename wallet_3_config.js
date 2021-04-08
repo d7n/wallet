@@ -1,1 +1,1 @@
-var mnemonic = "romance gym rate next general expire fury phrase lizard lumber virus repeat";
+var mnemonic = "lucky battle pigeon thumb online physical devote glad hour stable used frozen";

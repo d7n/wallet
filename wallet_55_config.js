@@ -1,1 +1,1 @@
-var mnemonic = "culture easy purchase involve route viable pony hint depend siege real happy";
+var mnemonic = "pole use guitar tissue solid beach grain female mom rib story maze";

@@ -1,1 +1,1 @@
-var mnemonic = "peace pulp luggage wrap glass select tree badge code hard dawn tape";
+var mnemonic = "long flag ozone fan tide rude debate convince enlist season bacon sell";

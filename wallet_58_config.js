@@ -1,1 +1,1 @@
-var mnemonic = "first core park silent erosion rug invite capital target notice average ice";
+var mnemonic = "differ artwork side lesson uniform fortune approve ugly first lobster avocado wire";

@@ -1,1 +1,1 @@
-var mnemonic = "flush organ replace maple muffin purchase ill sleep furnace already open used";
+var mnemonic = "track resource hat bachelor sibling vanish when physical upper kitten lizard square";

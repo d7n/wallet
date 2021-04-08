@@ -1,1 +1,1 @@
-var mnemonic = "repeat three safe jewel achieve visa oil usage mandate mouse horn fine";
+var mnemonic = "subway whip swift any heart priority genius dose head lawsuit ankle property";

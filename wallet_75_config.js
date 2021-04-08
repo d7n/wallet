@@ -1,1 +1,1 @@
-var mnemonic = "escape unaware frown crime seed unfair talent drip truth exist brand inject";
+var mnemonic = "stem zebra flight smooth two elbow flower fringe sort wave oxygen sight";

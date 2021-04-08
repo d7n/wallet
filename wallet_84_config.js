@@ -1,1 +1,1 @@
-var mnemonic = "brief verb spider hurry blind vapor ankle siren slide height sign drip";
+var mnemonic = "hill below rare frog cinnamon rookie forget canvas history helmet south shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "sort dream rice antenna parrot base blanket know market field kiss moment";
+var mnemonic = "baby keep access curtain resource husband inner critic caution improve often forget";

@@ -1,1 +1,1 @@
-var mnemonic = "know exile myth together old crisp crumble lady say wrong pigeon lady";
+var mnemonic = "joke sausage essence able train leaf wedding tenant cloth bachelor element iron";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium gorilla cruel become shrug lawsuit awake loyal use sister inmate cradle";
+var mnemonic = "tuna reward mask dance buyer vital sight leopard breeze measure tomorrow wrong";

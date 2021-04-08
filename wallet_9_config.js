@@ -1,1 +1,1 @@
-var mnemonic = "soap connect impulse tape thought praise mosquito express crisp finger describe render";
+var mnemonic = "amused audit again sweet rude snake ready nuclear slush antenna cloud shove";

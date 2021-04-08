@@ -1,1 +1,1 @@
-var mnemonic = "absent zone arctic tone film tragic busy ritual rough guitar execute hammer";
+var mnemonic = "change wedding salon assault unfair cash twelve kiss museum surprise chair false";

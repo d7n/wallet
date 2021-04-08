@@ -1,1 +1,1 @@
-var mnemonic = "shine violin alert pact panel chef bitter trip river fresh inside pluck";
+var mnemonic = "alert crop midnight demand protect rival zone trend glance rubber urge explain";

@@ -1,1 +1,1 @@
-var mnemonic = "ring deputy reward vacant box team retreat toast hobby pencil boy own";
+var mnemonic = "ketchup weather road unhappy swim magnet ball forward service ceiling gravity pepper";

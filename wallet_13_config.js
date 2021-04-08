@@ -1,1 +1,1 @@
-var mnemonic = "lend mystery all profit human mistake adult broken entire hair radio trust";
+var mnemonic = "despair embrace extend lyrics guard earn nose field nothing father unveil focus";

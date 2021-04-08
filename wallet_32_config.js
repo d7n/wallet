@@ -1,1 +1,1 @@
-var mnemonic = "off girl tumble lonely call slight render blame crystal surround firm people";
+var mnemonic = "saddle ski spot gadget master popular clay crop sleep behind lecture velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "produce step noodle typical rail abandon coin medal window forget submit glass";
+var mnemonic = "wall unable pelican blur patient inner shoe state gorilla dune master own";

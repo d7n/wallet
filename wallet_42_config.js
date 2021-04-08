@@ -1,1 +1,1 @@
-var mnemonic = "uncle help album wisdom valley another patrol allow track coin title guilt";
+var mnemonic = "belt duty like bless apple loud potato giraffe enrich actual menu where";

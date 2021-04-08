@@ -1,1 +1,1 @@
-var mnemonic = "metal era crime alter satisfy welcome crash dizzy panel cancel social message";
+var mnemonic = "seat penalty abandon carpet pretty table punch fantasy ahead valve deputy fiscal";

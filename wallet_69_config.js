@@ -1,1 +1,1 @@
-var mnemonic = "dress alley vast phrase subway list tuna flower advice garment figure old";
+var mnemonic = "slight distance draw general change flat bulb balcony strong deal gold situate";

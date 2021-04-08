@@ -1,1 +1,1 @@
-var mnemonic = "series bottom despair post dizzy poverty float brain coyote piano excite shiver";
+var mnemonic = "off roof crawl royal muscle steak flush judge deposit pottery shy beach";

@@ -1,1 +1,1 @@
-var mnemonic = "badge spring olympic predict forest neglect ignore option skin exhaust chicken sting";
+var mnemonic = "chase thrive endorse endorse orchard turkey safe portion adult panel horror execute";

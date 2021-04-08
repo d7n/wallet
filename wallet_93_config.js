@@ -1,1 +1,1 @@
-var mnemonic = "roast vital special snap copy staff search photo decline monkey add hurdle";
+var mnemonic = "vote window clown second wine lunch flower pistol clip bacon east soon";

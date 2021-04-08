@@ -1,1 +1,1 @@
-var mnemonic = "lounge latin bean resist man thing age nice sheriff pipe enlist manual";
+var mnemonic = "vintage chat again sight crisp laundry review despair roof eternal hover pottery";

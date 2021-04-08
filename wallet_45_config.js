@@ -1,1 +1,1 @@
-var mnemonic = "stadium make donate warfare elevator leg car name distance list veteran assault";
+var mnemonic = "wool fire art enforce slim bicycle alert open find urge spike pulp";

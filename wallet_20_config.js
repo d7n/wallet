@@ -1,1 +1,1 @@
-var mnemonic = "essence crawl ten rookie brave crowd fault license slow burst frown circle";
+var mnemonic = "series human tired peanut usual lunch hospital slam purchase spider detail expand";

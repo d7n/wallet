@@ -1,1 +1,1 @@
-var mnemonic = "flat flag zone keep monster mercy evoke shop knife image rebuild reward";
+var mnemonic = "two trade poem swift entry suggest great route cigar egg cradle medal";

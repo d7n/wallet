@@ -1,1 +1,1 @@
-var mnemonic = "moment success oven giggle pyramid pole online grant crunch junk offer arm";
+var mnemonic = "survey paddle furnace utility quiz subject cupboard live remember exchange fix vibrant";

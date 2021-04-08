@@ -1,1 +1,1 @@
-var mnemonic = "market consider video isolate bird shallow elephant taste bench squeeze staff seminar";
+var mnemonic = "female angry onion damp manual physical dismiss skin swamp leisure guard easily";

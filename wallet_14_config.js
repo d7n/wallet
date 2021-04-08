@@ -1,1 +1,1 @@
-var mnemonic = "pony student merry animal nose yellow morning chase excite giraffe occur retire";
+var mnemonic = "world hole warm identify blanket select someone rack slice waste dumb absent";

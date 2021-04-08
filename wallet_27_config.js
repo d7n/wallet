@@ -1,1 +1,1 @@
-var mnemonic = "blossom monkey post peace bicycle cram whisper stick welcome disease picnic spatial";
+var mnemonic = "exchange ring juice away enable enemy chuckle bleak enrich crack soccer never";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden pupil ridge prepare use patrol winner talent vacant fuel much peanut";
+var mnemonic = "mixture heavy vocal dutch change immense runway lizard brisk alert feature glare";

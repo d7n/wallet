@@ -1,1 +1,1 @@
-var mnemonic = "above clump miracle antenna pretty power coin stairs spray million age sister";
+var mnemonic = "diary more wonder much opinion quick sock leopard own oxygen mandate fever";

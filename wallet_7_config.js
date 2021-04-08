@@ -1,1 +1,1 @@
-var mnemonic = "merit remove rice coach broken web village board relax another deposit lamp";
+var mnemonic = "act void online puppy text across proud bird man pulse romance airport";
