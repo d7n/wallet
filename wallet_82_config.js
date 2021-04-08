@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow dress scrap dignity mad turkey slush parent eternal drip like parent";
+var mnemonic = "decrease exit foot rookie float deliver road poem bless face ensure people";

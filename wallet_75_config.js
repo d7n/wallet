@@ -1,1 +1,1 @@
-var mnemonic = "crack parade humor hand clump addict hawk soon risk husband train lava";
+var mnemonic = "primary ramp burst point roast about toward frog boost claw lobster shop";

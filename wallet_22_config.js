@@ -1,1 +1,1 @@
-var mnemonic = "brief rice lunch donkey shift one media ability price stem walk woman";
+var mnemonic = "luggage invest produce paddle exhaust spray hour brief churn text faith order";

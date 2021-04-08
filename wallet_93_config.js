@@ -1,1 +1,1 @@
-var mnemonic = "ski crime alpha melt must monster bright elephant limit leopard mask crack";
+var mnemonic = "poverty describe swap clever abstract dash benefit relax student buyer charge spend";

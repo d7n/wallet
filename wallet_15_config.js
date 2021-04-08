@@ -1,1 +1,1 @@
-var mnemonic = "fruit atom tail gasp file control dad hope antique trap slogan solid";
+var mnemonic = "display sorry mushroom demand west grab drama fat donkey multiply achieve hero";

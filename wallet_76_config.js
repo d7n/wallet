@@ -1,1 +1,1 @@
-var mnemonic = "media match real blue keen jacket tornado tumble utility network fiber section";
+var mnemonic = "near drift minimum easily gaze height foil cube already jelly nothing december";

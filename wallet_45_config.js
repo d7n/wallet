@@ -1,1 +1,1 @@
-var mnemonic = "obey shiver rookie good version barely target enrich scatter that innocent response";
+var mnemonic = "verify snow scheme repair build buyer civil sweet bamboo logic fruit feed";

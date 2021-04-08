@@ -1,1 +1,1 @@
-var mnemonic = "photo raven blood attack brave random exhaust hello spider wash flag birth";
+var mnemonic = "deliver attitude omit chunk actress employ decline copper arrest hockey involve loan";

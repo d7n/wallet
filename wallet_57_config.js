@@ -1,1 +1,1 @@
-var mnemonic = "mystery tip raw make erase feel insect lava day lounge quarter verb";
+var mnemonic = "alter wisdom crash wink step that motor alcohol foot fiscal blood skill";

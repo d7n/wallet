@@ -1,1 +1,1 @@
-var mnemonic = "toe stomach travel version various view circle lesson rapid snow text kitchen";
+var mnemonic = "victory moment process census code never puzzle unable primary boy time boil";

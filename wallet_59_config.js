@@ -1,1 +1,1 @@
-var mnemonic = "tired connect critic hawk lumber smooth game grid trial person hire scout";
+var mnemonic = "mimic vibrant lonely knock alpha require remember nurse south hub foil rug";

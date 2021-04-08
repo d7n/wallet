@@ -1,1 +1,1 @@
-var mnemonic = "hold license sadness require gather moral skirt pair useful phone run forward";
+var mnemonic = "pride flock sea fold embark token arrange water enable alcohol disorder exist";

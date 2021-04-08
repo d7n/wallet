@@ -1,1 +1,1 @@
-var mnemonic = "spike feel eight pepper language material access orchard bicycle produce enlist minor";
+var mnemonic = "pipe vacant label march thumb undo limit donkey turtle net behind vintage";

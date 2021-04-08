@@ -1,1 +1,1 @@
-var mnemonic = "call hard review annual night wish giraffe task sand theme equal oppose";
+var mnemonic = "toward exact pigeon fine solve magic patrol drive dice neutral duck impulse";

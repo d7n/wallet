@@ -1,1 +1,1 @@
-var mnemonic = "theme only clump make copper argue prepare flavor obey news double topple";
+var mnemonic = "regular wood silk found outside arrow cram girl feel time forward police";

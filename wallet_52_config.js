@@ -1,1 +1,1 @@
-var mnemonic = "disagree woman private recycle obscure edit vintage switch unlock clean purchase ghost";
+var mnemonic = "cabin forum horn quality cushion stove vendor melt pig opera april clean";

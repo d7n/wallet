@@ -1,1 +1,1 @@
-var mnemonic = "drive crazy unfold tragic between zebra screen divert robust couch gown canvas";
+var mnemonic = "trip grab erosion trap ethics parade wife tilt immune gown helmet all";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic okay inmate quantum domain betray stuff upset soup cherry water lumber";
+var mnemonic = "case brass brick cable bid advice dragon define asset grab season occur";

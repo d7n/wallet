@@ -1,1 +1,1 @@
-var mnemonic = "cheap bright swift jar trophy destroy divorce modify mesh bleak endorse sleep";
+var mnemonic = "glide above differ coral tool burger crazy actress enter discover diesel announce";

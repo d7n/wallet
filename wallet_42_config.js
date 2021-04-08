@@ -1,1 +1,1 @@
-var mnemonic = "grit rough shine plug cover ancient hawk vessel oblige act pear infant";
+var mnemonic = "climb exhaust river cheap critic zoo prepare size unique brave fish load";

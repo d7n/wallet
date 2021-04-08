@@ -1,1 +1,1 @@
-var mnemonic = "pipe army used gauge pet end shield royal trial execute marriage ozone";
+var mnemonic = "glass potato bean type jump rain blade mass daughter mobile voyage sail";

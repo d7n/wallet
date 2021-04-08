@@ -1,1 +1,1 @@
-var mnemonic = "vast ramp monitor genre sick parade donkey parade joy siege finger inspire";
+var mnemonic = "acquire naive awesome margin fold one control kiwi error organ light huge";

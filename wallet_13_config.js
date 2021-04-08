@@ -1,1 +1,1 @@
-var mnemonic = "luxury palace level picture bacon calm debate accident between grocery lunar ask";
+var mnemonic = "essay reason click midnight gauge ancient size key relax wrong assume anger";

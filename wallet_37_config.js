@@ -1,1 +1,1 @@
-var mnemonic = "stove fatigue feel obey impose used where frost bicycle evoke maze gospel";
+var mnemonic = "truck planet monitor rate hip path man unhappy dilemma key country also";

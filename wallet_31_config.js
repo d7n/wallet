@@ -1,1 +1,1 @@
-var mnemonic = "stereo better artwork total fitness rubber mouse caution include craft vicious focus";
+var mnemonic = "gather pond alter okay donkey autumn goose citizen comfort gospel catalog fiction";

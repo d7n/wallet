@@ -1,1 +1,1 @@
-var mnemonic = "future joy cinnamon inform awful pride arena donate decline situate dose breeze";
+var mnemonic = "brass drift relief harvest govern bus icon fence rent casual gate rapid";

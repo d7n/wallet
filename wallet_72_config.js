@@ -1,1 +1,1 @@
-var mnemonic = "obey slender brave frog abandon club good mix venture town veteran core";
+var mnemonic = "stage drift gadget basic run fresh below spatial riot ethics derive relief";

@@ -1,1 +1,1 @@
-var mnemonic = "control flock between essence grief chimney amateur rubber struggle caught damage grid";
+var mnemonic = "menu repeat settle jewel urge impulse skull weapon melody cover lecture hat";

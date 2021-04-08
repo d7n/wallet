@@ -1,1 +1,1 @@
-var mnemonic = "march empty best leg faculty near intact metal caught height taste frost";
+var mnemonic = "slogan open negative judge agent identify upper little bulb bunker success exile";

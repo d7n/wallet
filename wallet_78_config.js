@@ -1,1 +1,1 @@
-var mnemonic = "elder lamp unlock tired multiply remind farm boat skill fiction vehicle child";
+var mnemonic = "market head hidden auction relief soccer midnight chef fury remind liar universe";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance woman breeze scan nut embark cruel boy paper provide shed scissors";
+var mnemonic = "group chest ability tomato exit cluster effort reduce flavor adjust scale axis";

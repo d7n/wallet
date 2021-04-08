@@ -1,1 +1,1 @@
-var mnemonic = "album hockey either scrap car silly actor debris robust vault inner seven";
+var mnemonic = "evil boss wine rather rich cover common select proof alter exercise decrease";

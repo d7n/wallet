@@ -1,1 +1,1 @@
-var mnemonic = "cave action divide home scatter history flight parent project high blame figure";
+var mnemonic = "bulk couch spider cage reflect apart beach disorder turkey soul possible supreme";

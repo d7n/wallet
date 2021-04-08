@@ -1,1 +1,1 @@
-var mnemonic = "announce inform shop wreck feel bracket domain skull concert tumble garage kid";
+var mnemonic = "student drive uncover fruit enlist basic reject odor ankle bamboo any special";

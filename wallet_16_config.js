@@ -1,1 +1,1 @@
-var mnemonic = "twenty similar punch foot upon check river luggage family note trumpet garlic";
+var mnemonic = "link person speed canvas regular wasp purchase order letter skill demand siren";

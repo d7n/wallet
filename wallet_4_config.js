@@ -1,1 +1,1 @@
-var mnemonic = "match keep tissue small inside velvet demand master nest close saddle depart";
+var mnemonic = "someone fan gown trigger only position man avoid defy grace kite meat";

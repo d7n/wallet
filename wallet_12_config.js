@@ -1,1 +1,1 @@
-var mnemonic = "eager oak owner sad huge age boy permit deny proof love runway";
+var mnemonic = "maximum mouse dry guitar choose mother shell carry avoid radio order concert";

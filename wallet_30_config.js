@@ -1,1 +1,1 @@
-var mnemonic = "pupil build enroll hurt chat brown crash disorder age green select balcony";
+var mnemonic = "magic exercise escape sad remove sing great hammer rough armed patch submit";

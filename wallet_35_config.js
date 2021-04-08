@@ -1,1 +1,1 @@
-var mnemonic = "frozen range arrive fruit foil traffic february barrel vendor deputy hold heavy";
+var mnemonic = "alone planet story eagle sniff mother unaware notable believe bar corn hen";

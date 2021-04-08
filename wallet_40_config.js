@@ -1,1 +1,1 @@
-var mnemonic = "already brass develop inhale rocket keen satoshi hour key amateur timber cause";
+var mnemonic = "detect again surround weapon milk youth faint delay already letter wear awkward";

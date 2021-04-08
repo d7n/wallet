@@ -1,1 +1,1 @@
-var mnemonic = "inform coin tank debris urge winter scissors army area reform coyote couple";
+var mnemonic = "engage rule little atom dance evil soldier worth marine wrap match nest";

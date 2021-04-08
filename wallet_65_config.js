@@ -1,1 +1,1 @@
-var mnemonic = "code panel useless payment swing bulk adjust pledge employ conduct avocado hamster";
+var mnemonic = "super seven able mercy badge cream resemble inmate system harsh ribbon accuse";

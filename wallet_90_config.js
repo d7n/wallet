@@ -1,1 +1,1 @@
-var mnemonic = "diagram emerge garage easily first vital cart rent boy problem lock pottery";
+var mnemonic = "eager ticket clever garage grass suffer critic analyst garden strategy success truly";

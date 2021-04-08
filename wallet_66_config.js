@@ -1,1 +1,1 @@
-var mnemonic = "enable lady topic hero deposit metal essence session hole infant basic engine";
+var mnemonic = "alone theory mimic desk that exotic control inherit place much shock stay";

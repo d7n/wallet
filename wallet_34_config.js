@@ -1,1 +1,1 @@
-var mnemonic = "enact hunt more absent bright cart limit stable crime enemy square morning";
+var mnemonic = "eagle blush neglect drastic note wet exhaust pink recycle try away vendor";

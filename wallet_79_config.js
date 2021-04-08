@@ -1,1 +1,1 @@
-var mnemonic = "trade kid spy jump bar oppose letter slight seed obvious spice normal";
+var mnemonic = "gloom miss key another vehicle orange picnic story clerk vintage group skull";

@@ -1,1 +1,1 @@
-var mnemonic = "nut cinnamon deny someone problem cook orchard cancel ketchup genuine refuse quantum";
+var mnemonic = "hand birth push forest matter pupil over can citizen embark grow dad";

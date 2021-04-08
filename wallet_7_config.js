@@ -1,1 +1,1 @@
-var mnemonic = "easily pill original reward pond orient vacuum soft same absorb exit syrup";
+var mnemonic = "turn seven sand fever math monitor future pistol napkin siren ankle hurdle";

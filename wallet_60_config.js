@@ -1,1 +1,1 @@
-var mnemonic = "vast lion breeze ankle planet trend surround physical staff any kick female";
+var mnemonic = "monster fiber junior orchard all check trick smart piano tube liberty enforce";

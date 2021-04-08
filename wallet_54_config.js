@@ -1,1 +1,1 @@
-var mnemonic = "panic easily enough rookie empower feature assume cry enough ridge address transfer";
+var mnemonic = "blade claim course chronic stadium virtual candy ribbon project ethics beyond olive";

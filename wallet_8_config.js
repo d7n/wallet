@@ -1,1 +1,1 @@
-var mnemonic = "party father squirrel force urban book message lemon quit cabbage match silk";
+var mnemonic = "often cram interest box real verify eternal obey quick electric photo casino";

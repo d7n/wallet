@@ -1,1 +1,1 @@
-var mnemonic = "end skill quick laundry giant zebra curtain toe lizard more cloud girl";
+var mnemonic = "trumpet humble space sphere flush hospital machine nerve chalk lens hole oven";

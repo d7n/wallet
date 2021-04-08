@@ -1,1 +1,1 @@
-var mnemonic = "garage timber distance silk situate donkey field jaguar vessel base physical enable";
+var mnemonic = "mistake novel impulse come surprise woman embark sport seed evidence govern water";

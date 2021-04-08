@@ -1,1 +1,1 @@
-var mnemonic = "shift broom quality service question same bundle strategy pumpkin tongue crater color";
+var mnemonic = "occur man weasel market trick crane country polar window upgrade excuse luggage";

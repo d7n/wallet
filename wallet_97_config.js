@@ -1,1 +1,1 @@
-var mnemonic = "know sniff camera hub proud need scrub immense theory say fine grid";
+var mnemonic = "swamp health gossip bulk leaf jazz bench liar kite public total spin";

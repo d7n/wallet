@@ -1,1 +1,1 @@
-var mnemonic = "design route then desert remain toe swear million often aunt group solid";
+var mnemonic = "angle paddle warrior region secret inflict gas frog apology busy warfare under";

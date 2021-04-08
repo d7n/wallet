@@ -1,1 +1,1 @@
-var mnemonic = "treat annual size artwork attitude spirit asthma asset drum twenty mother sign";
+var mnemonic = "rhythm one physical rug example arrange else good bring unfold vehicle flash";

@@ -1,1 +1,1 @@
-var mnemonic = "over library atom crazy wood endorse verify cross select nut ugly nest";
+var mnemonic = "situate cook honey panther method unveil among actress guard kind job boy";

@@ -1,1 +1,1 @@
-var mnemonic = "spice orient nephew scatter ritual middle more whisper clutch salt post stand";
+var mnemonic = "confirm rose seven rival drill correct scatter skin grow truly glide bronze";

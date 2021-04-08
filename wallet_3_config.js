@@ -1,1 +1,1 @@
-var mnemonic = "obvious story possible wish salon lab room raven exact toy bridge stick";
+var mnemonic = "light real original hole order icon kingdom call move dash odor wisdom";

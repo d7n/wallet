@@ -1,1 +1,1 @@
-var mnemonic = "brief cigar image broccoli drum modify giraffe uncover wagon country level describe";
+var mnemonic = "plunge wheat record blast health sadness direct hard holiday dutch royal angle";

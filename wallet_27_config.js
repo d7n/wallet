@@ -1,1 +1,1 @@
-var mnemonic = "hint toss female nasty grit original dream refuse adjust fatigue work coral";
+var mnemonic = "fantasy sun pet mountain vibrant obscure debate age cinnamon fossil inmate setup";

@@ -1,1 +1,1 @@
-var mnemonic = "flee popular brother stuff magic sock bamboo myself news jealous place tomorrow";
+var mnemonic = "immense inmate parent limb canvas lady ahead crisp situate glide pass symptom";

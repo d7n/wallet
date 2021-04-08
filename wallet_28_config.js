@@ -1,1 +1,1 @@
-var mnemonic = "wasp siren earth cheap motion ability torch average comic seat seed will";
+var mnemonic = "dragon soon flavor cloud climb sign reflect goddess wear frost woman language";

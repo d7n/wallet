@@ -1,1 +1,1 @@
-var mnemonic = "pave sugar tonight sell right jungle hen hello suit enact leg vague";
+var mnemonic = "immense rough fox faith buyer office north panic sample hurry neck reform";

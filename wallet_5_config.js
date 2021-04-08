@@ -1,1 +1,1 @@
-var mnemonic = "nature shallow voyage guide object moral cart next high anxiety render moral";
+var mnemonic = "figure dial decorate render unhappy enjoy label mixed forward race clinic legend";

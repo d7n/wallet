@@ -1,1 +1,1 @@
-var mnemonic = "response feature shrimp odor adapt paddle rubber replace hockey mercy oppose abandon";
+var mnemonic = "awesome cliff siege grant annual math shoot few club jealous three run";

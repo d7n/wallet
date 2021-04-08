@@ -1,1 +1,1 @@
-var mnemonic = "fog vendor virus brush menu tilt welcome turn blush similar picnic husband";
+var mnemonic = "desert usage pledge session custom mesh lemon shallow wish vapor journey gas";

@@ -1,1 +1,1 @@
-var mnemonic = "pause rocket quality session luggage method sheriff under equip brave basic brick";
+var mnemonic = "fan dad question scissors vote warrior input bench blush imitate april turn";

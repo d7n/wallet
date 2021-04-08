@@ -1,1 +1,1 @@
-var mnemonic = "icon expect dad salon mammal armed gallery begin call scheme trigger device";
+var mnemonic = "violin response strategy beef churn same sail better still scrub inform wise";

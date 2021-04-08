@@ -1,1 +1,1 @@
-var mnemonic = "enroll claw proud square perfect such pact trash river bundle early polar";
+var mnemonic = "earn math donkey potato pupil chimney buffalo urban hybrid drama interest anchor";

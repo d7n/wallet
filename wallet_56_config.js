@@ -1,1 +1,1 @@
-var mnemonic = "hand abstract naive dragon food dice hurry artwork valid good park guide";
+var mnemonic = "avoid humor cargo surround accuse able system speed ancient educate theory token";

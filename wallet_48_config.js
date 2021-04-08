@@ -1,1 +1,1 @@
-var mnemonic = "dolphin visit sand emotion alcohol leg derive food busy party blast perfect";
+var mnemonic = "nurse casual teach sustain depend slender cook lazy clay love world child";

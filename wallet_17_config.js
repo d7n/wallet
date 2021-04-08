@@ -1,1 +1,1 @@
-var mnemonic = "message bicycle record pig surprise always concert business host file belt neglect";
+var mnemonic = "month before glance connect ghost case tube mix vacuum field arrive ecology";

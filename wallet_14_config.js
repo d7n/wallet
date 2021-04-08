@@ -1,1 +1,1 @@
-var mnemonic = "rabbit resist cabbage slogan olympic rain crime leg fatal put junk hen";
+var mnemonic = "enroll arrive jacket exit few raise roof work avoid increase tongue frame";

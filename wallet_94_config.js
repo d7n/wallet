@@ -1,1 +1,1 @@
-var mnemonic = "group because gold predict ship elder crawl hello lake hazard fabric tragic";
+var mnemonic = "skull capable issue dog duty athlete maze weekend fork banner roast bachelor";

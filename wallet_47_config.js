@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow soon assault crash weird entry lawn canyon cause camera crowd candy";
+var mnemonic = "quantum basket shaft shy supply hawk flavor shaft bunker refuse ivory speak";

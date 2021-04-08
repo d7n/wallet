@@ -1,1 +1,1 @@
-var mnemonic = "effort shove calm eye yard scene health merry adapt found nut bottom";
+var mnemonic = "behind wool ginger divide swift apple enough gauge uncover friend mirror dust";

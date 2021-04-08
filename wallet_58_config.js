@@ -1,1 +1,1 @@
-var mnemonic = "answer float depend club clown clerk spend nut frame finish tide apology";
+var mnemonic = "express oil salmon warrior rhythm doll brass online whisper timber layer social";

@@ -1,1 +1,1 @@
-var mnemonic = "custom carpet offer amount noble keep gap smile priority clown vivid label";
+var mnemonic = "van diet glass access keen because coin slice alpha organ figure major";

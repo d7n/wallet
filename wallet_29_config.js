@@ -1,1 +1,1 @@
-var mnemonic = "decorate knee pottery treat usual close pupil small aim swamp pretty face";
+var mnemonic = "close cushion rare connect silent frog sell meadow motor basket scare leaf";

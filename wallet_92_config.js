@@ -1,1 +1,1 @@
-var mnemonic = "tragic baby pattern gloom chef hair defense route large famous swing gas";
+var mnemonic = "van prosper dress wheat public chaos mixture obtain dash wing notice review";

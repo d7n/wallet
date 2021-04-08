@@ -1,1 +1,1 @@
-var mnemonic = "glimpse apology curve clean kitchen ladder route angle reduce that fortune lawn";
+var mnemonic = "deny foster correct venue endorse simple loyal live east stool fantasy pen";

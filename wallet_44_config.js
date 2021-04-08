@@ -1,1 +1,1 @@
-var mnemonic = "vivid rare tooth spike defy leader choice flavor knock spoon loan vapor";
+var mnemonic = "nation provide pilot okay include torch coffee giraffe extend frozen memory silk";

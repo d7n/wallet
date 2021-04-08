@@ -1,1 +1,1 @@
-var mnemonic = "spin loop ceiling oval lamp enrich risk load order metal december manual";
+var mnemonic = "merge token bottom erase jeans shadow ability lounge sugar coyote isolate text";

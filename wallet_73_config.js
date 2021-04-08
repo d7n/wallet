@@ -1,1 +1,1 @@
-var mnemonic = "sustain hamster turn raven echo nature skin penalty gain emotion canvas fashion";
+var mnemonic = "habit artist emotion final marble another giant salon castle original father scrap";

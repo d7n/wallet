@@ -1,1 +1,1 @@
-var mnemonic = "elegant arm stairs fiscal amazing wing permit deny since fat option regular";
+var mnemonic = "rib gain nut dose intact answer inform stick start extra embody drama";

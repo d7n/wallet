@@ -1,1 +1,1 @@
-var mnemonic = "action impact drum boost pipe behave wink couch nurse cash zoo tail";
+var mnemonic = "inflict critic gaze unable sadness ozone wide brown below truth much lizard";

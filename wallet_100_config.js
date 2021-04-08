@@ -1,1 +1,1 @@
-var mnemonic = "guess jazz midnight coast push direct coral release modify typical song million";
+var mnemonic = "club couple blood steak void boil loyal balance pumpkin inject venture width";

@@ -1,1 +1,1 @@
-var mnemonic = "column nice thumb powder cost demand wet tattoo favorite piano leave attack";
+var mnemonic = "famous alpha decade abuse fish roast term beef cat panic awful appear";
