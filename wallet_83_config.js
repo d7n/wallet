@@ -1,1 +1,1 @@
-var mnemonic = "wedding minor coyote subject vessel adjust response ivory verify uncover nuclear damp";
+var mnemonic = "october debris social cricket cycle lend secret merry laundry group run shock";

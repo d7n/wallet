@@ -1,1 +1,1 @@
-var mnemonic = "guard bus speak pottery suffer jelly film fitness phone order grow mutual";
+var mnemonic = "addict hover repair cart toss online derive quote success either sail witness";

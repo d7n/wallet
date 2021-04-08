@@ -1,1 +1,1 @@
-var mnemonic = "any plunge dizzy food stick bundle cliff spirit genius guitar apart bomb";
+var mnemonic = "mammal quick problem option record secret card sail sorry hurt cancel again";

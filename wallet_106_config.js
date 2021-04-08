@@ -1,1 +1,1 @@
-var mnemonic = "mechanic economy solar wire gospel dragon tired derive base where rapid hello";
+var mnemonic = "ritual raven boat admit street movie better behave expect thumb forward brand";

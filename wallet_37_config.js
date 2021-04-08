@@ -1,1 +1,1 @@
-var mnemonic = "spawn supreme crunch aunt seat symbol brave lumber pumpkin tomato lion drive";
+var mnemonic = "oven night lazy water link web tuition real memory glare warfare lemon";

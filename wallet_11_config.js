@@ -1,1 +1,1 @@
-var mnemonic = "what mask juice violin hawk sunset custom explain dizzy dynamic height media";
+var mnemonic = "lunar ahead kick faint attack simple crack vast slide popular sadness student";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar tip enlist episode flavor art merit garment gift reason discover table";
+var mnemonic = "struggle any quality prize ordinary cushion stock almost wear clinic buffalo various";

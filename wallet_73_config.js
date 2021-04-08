@@ -1,1 +1,1 @@
-var mnemonic = "pitch potato scissors monkey table twice syrup kid diary material village rent";
+var mnemonic = "buzz soda fire suffer army push affair ivory empty copper gap marine";

@@ -1,1 +1,1 @@
-var mnemonic = "absent onion tired ball grape glory green need nut ripple budget toe";
+var mnemonic = "gesture mention recipe into torch seminar delay salute enlist funny opera quote";

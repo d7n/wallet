@@ -1,1 +1,1 @@
-var mnemonic = "mind reunion sausage blood reunion girl final chest enrich season awful horn";
+var mnemonic = "circle confirm escape stereo scheme salon roast emerge artwork burger mixed lonely";

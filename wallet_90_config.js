@@ -1,1 +1,1 @@
-var mnemonic = "hill reform board fame genius present horse mask river disease truth cool";
+var mnemonic = "long intact brass pizza gadget eyebrow vacant usual demand home strike sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "much flag bargain merit pair clump fruit salute drum yellow hand wagon";
+var mnemonic = "barrel pride hedgehog garbage pool rotate online panic smoke year doll kiwi";

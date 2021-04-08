@@ -1,1 +1,1 @@
-var mnemonic = "license program chair ordinary easily twist point physical convince found sauce pig";
+var mnemonic = "math pitch allow nuclear walnut head turn fire list arrest apology enable";

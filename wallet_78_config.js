@@ -1,1 +1,1 @@
-var mnemonic = "judge wonder wool roast clog shine spoon limit prefer social high steak";
+var mnemonic = "rib enhance acid essence elite dog bamboo boost dumb sauce kick pen";

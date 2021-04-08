@@ -1,1 +1,1 @@
-var mnemonic = "select virtual amount hold blade asthma tobacco office tattoo rare warrior top";
+var mnemonic = "enlist odor arrow adjust warm blue canal pumpkin again sunny normal magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid walnut country squeeze arrest wide moral control pink cannon monitor problem";
+var mnemonic = "hope net shove man film soul blush deer erase park fun hill";

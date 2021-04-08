@@ -1,1 +1,1 @@
-var mnemonic = "envelope rally west hire distance arena message rely sight unfair snow deny";
+var mnemonic = "awkward invest off bus impulse jazz fantasy merge pottery mail dose across";

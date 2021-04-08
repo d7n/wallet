@@ -1,1 +1,1 @@
-var mnemonic = "punch ocean vanish bicycle collect ball please radar clinic bid inform exit";
+var mnemonic = "hire seminar company stay bean mandate squeeze view subway erupt middle crop";

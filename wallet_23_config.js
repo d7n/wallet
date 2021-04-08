@@ -1,1 +1,1 @@
-var mnemonic = "anxiety bomb blush kitchen cause night margin virtual dynamic toilet rural minute";
+var mnemonic = "empty mimic cruel ensure another season isolate clean doll region student crisp";

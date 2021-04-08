@@ -1,1 +1,1 @@
-var mnemonic = "regular lawsuit phrase profit grab victory creek choice credit comic fork oyster";
+var mnemonic = "enemy leg all pen zoo endorse begin elder run more gospel maple";

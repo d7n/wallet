@@ -1,1 +1,1 @@
-var mnemonic = "expose devote coffee assault flavor initial eagle design earth edge conduct neutral";
+var mnemonic = "fly card doll fiber explain dentist cash script kitchen property puppy staff";

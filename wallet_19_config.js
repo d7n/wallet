@@ -1,1 +1,1 @@
-var mnemonic = "turtle skull rubber ecology toss pass want fringe wrestle repeat repeat rabbit";
+var mnemonic = "loyal misery supreme joy coach scout jar angry carpet original dry dream";

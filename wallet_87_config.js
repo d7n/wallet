@@ -1,1 +1,1 @@
-var mnemonic = "digital bracket talent street clip split teach cable vendor someone clay husband";
+var mnemonic = "economy antique leopard opinion layer next toy lottery shed fruit neglect island";

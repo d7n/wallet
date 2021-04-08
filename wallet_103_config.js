@@ -1,1 +1,1 @@
-var mnemonic = "extra next milk find digital cloth resemble drive pretty exotic modify lady";
+var mnemonic = "chronic soft only horse shadow donate rude fringe priority tomato rate fatal";

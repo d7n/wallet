@@ -1,1 +1,1 @@
-var mnemonic = "vague music violin glare pulse oval early mask cinnamon attitude surround busy";
+var mnemonic = "multiply coast pupil burden become jeans there forum lock blood season own";

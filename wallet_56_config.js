@@ -1,1 +1,1 @@
-var mnemonic = "wet latin object teach day drink monitor resemble ball security fat chimney";
+var mnemonic = "powder snack where curious thought ivory material destroy december glance scout vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket stuff wise travel prison senior vintage weasel home chronic repair arena";
+var mnemonic = "radio repeat hamster animal lab level game ridge snake erase swift level";

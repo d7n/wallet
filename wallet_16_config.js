@@ -1,1 +1,1 @@
-var mnemonic = "favorite winter typical retire divorce hockey cereal dice water portion arrive supply";
+var mnemonic = "produce renew fire possible robust like movie sustain monitor sudden subject shrimp";

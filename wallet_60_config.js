@@ -1,1 +1,1 @@
-var mnemonic = "shaft absurd cruise visa sentence bean dwarf until like wish order genuine";
+var mnemonic = "calm bounce vivid humor swarm brand prepare cabbage spoon autumn behind fan";

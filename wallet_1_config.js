@@ -1,1 +1,1 @@
-var mnemonic = "forum remove trigger cement club supreme legend ladder shift devote sell design";
+var mnemonic = "ecology point luxury pitch ahead person inquiry movie viable coil crowd cactus";

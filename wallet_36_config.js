@@ -1,1 +1,1 @@
-var mnemonic = "very novel abstract purse science typical logic flower wrap raise daughter diesel";
+var mnemonic = "pull violin trigger valley lens assume wasp almost ask scale credit inspire";

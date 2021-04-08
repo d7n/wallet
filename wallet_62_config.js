@@ -1,1 +1,1 @@
-var mnemonic = "law thank jazz slender lemon trap staff reveal mango kit wheat opinion";
+var mnemonic = "record garden alley either witness wet beef tourist decade answer math inject";

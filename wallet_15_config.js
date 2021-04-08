@@ -1,1 +1,1 @@
-var mnemonic = "bone joke tiny indoor foot valley hotel injury truck plate nature fire";
+var mnemonic = "habit food sorry couple legal bicycle cost pause prize bonus depth until";

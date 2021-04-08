@@ -1,1 +1,1 @@
-var mnemonic = "amazing sudden trick angry bar festival neutral unveil raise ignore sick random";
+var mnemonic = "topic rabbit stay resemble view point street fire hurdle clutch youth drift";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster dice profit meadow patch powder choice law menu outdoor amateur choice";
+var mnemonic = "rug feature merry reopen want mom rib cruise awful delay trap coil";

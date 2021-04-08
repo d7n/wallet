@@ -1,1 +1,1 @@
-var mnemonic = "click distance soap cruel bless income penalty nephew tell truly sorry grass";
+var mnemonic = "layer force riot useful flower enact jelly office oil sort before citizen";

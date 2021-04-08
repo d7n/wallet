@@ -1,1 +1,1 @@
-var mnemonic = "awesome cruel copy pioneer clog gold adult bounce hint blur robust umbrella";
+var mnemonic = "match omit afraid payment thought six size express ten price twice rate";

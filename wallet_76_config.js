@@ -1,1 +1,1 @@
-var mnemonic = "try alcohol artefact matrix soul glare large check aim finger inflict render";
+var mnemonic = "ring maze divorce poverty hawk balance powder cry mixture kidney utility loop";

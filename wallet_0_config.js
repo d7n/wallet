@@ -1,1 +1,1 @@
-var mnemonic = "festival alter nerve obscure answer pause pretty sample link armed coin cliff";
+var mnemonic = "quality wave share six script file rubber zebra siege trouble patient unit";

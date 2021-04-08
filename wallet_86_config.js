@@ -1,1 +1,1 @@
-var mnemonic = "twenty assist violin taxi pulp auto sing night category pass invite wear";
+var mnemonic = "repeat cry seat profit awake inch exchange tired dose stand slice bright";

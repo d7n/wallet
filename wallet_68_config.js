@@ -1,1 +1,1 @@
-var mnemonic = "leg spread story plastic squeeze absent combine inject infant blue model busy";
+var mnemonic = "spatial appear chuckle wire square drill police diet machine smoke chimney mushroom";

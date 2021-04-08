@@ -1,1 +1,1 @@
-var mnemonic = "only decrease advance fragile female toss plate order because true direct knock";
+var mnemonic = "source art pledge depend satisfy sheriff year oyster already lemon lava fork";

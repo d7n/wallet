@@ -1,1 +1,1 @@
-var mnemonic = "require provide pole credit twelve umbrella decade discover marine banner trigger east";
+var mnemonic = "animal small thrive label road super owner quantum certain pistol vivid work";

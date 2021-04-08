@@ -1,1 +1,1 @@
-var mnemonic = "diesel nice palace virtual acquire vote enroll boil over position link shop";
+var mnemonic = "slam lamp people cheap welcome cart shaft gauge digital shoulder tonight core";

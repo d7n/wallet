@@ -1,1 +1,1 @@
-var mnemonic = "again paddle coast mountain rug fruit honey enforce pepper involve kidney artefact";
+var mnemonic = "rebel jacket essence cover rural day amazing ready edge give bacon churn";

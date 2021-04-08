@@ -1,1 +1,1 @@
-var mnemonic = "mule fire danger organ cage beach unveil machine patient evil option harvest";
+var mnemonic = "lumber attack possible rich beef breeze voyage impulse glare flat same become";

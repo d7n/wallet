@@ -1,1 +1,1 @@
-var mnemonic = "rotate click because huge copy obscure puppy twenty all arrow jump border";
+var mnemonic = "level dog lunar lyrics immune marble decade room wreck mention exile foot";

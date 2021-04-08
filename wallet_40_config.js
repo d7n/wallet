@@ -1,1 +1,1 @@
-var mnemonic = "van open puzzle rose captain matter rocket junior purse census strike define";
+var mnemonic = "electric away convince fashion exotic want attitude actress cigar into staff defy";

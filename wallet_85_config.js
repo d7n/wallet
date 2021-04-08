@@ -1,1 +1,1 @@
-var mnemonic = "kidney clever oil ginger uphold main maximum eternal spike belt asthma portion";
+var mnemonic = "uncover winner grief job tissue evil approve strategy power rigid tone wear";

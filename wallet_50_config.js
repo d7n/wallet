@@ -1,1 +1,1 @@
-var mnemonic = "describe crash garlic inner private random grab abstract bar ring ticket nothing";
+var mnemonic = "pull adult legend mosquito tribe grief witness early verify pretty unknown visit";

@@ -1,1 +1,1 @@
-var mnemonic = "door actor winner come spy lesson answer author ribbon wish system man";
+var mnemonic = "grief toss quarter bomb town someone sign toast analyst bar spatial beach";

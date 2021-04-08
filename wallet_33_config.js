@@ -1,1 +1,1 @@
-var mnemonic = "future keep inquiry valve half enter patch erosion pledge powder pencil yellow";
+var mnemonic = "mimic celery clutch stool pledge post begin menu clay wolf resemble expose";

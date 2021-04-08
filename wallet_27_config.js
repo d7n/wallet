@@ -1,1 +1,1 @@
-var mnemonic = "casino seven cake pencil birth screen soft march axis coast spawn season";
+var mnemonic = "vintage raise know provide where bracket pole army suggest sweet virus pen";

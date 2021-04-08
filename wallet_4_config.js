@@ -1,1 +1,1 @@
-var mnemonic = "just spell rare canyon library increase beach pupil spell floor surge episode";
+var mnemonic = "salad benefit steel series viable only legend panther razor renew lab ginger";

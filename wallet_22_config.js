@@ -1,1 +1,1 @@
-var mnemonic = "silver poverty script muscle swear tank coil host truck work evidence crew";
+var mnemonic = "taste ivory rifle aunt sister physical van slush taxi symptom isolate tank";

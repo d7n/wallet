@@ -1,1 +1,1 @@
-var mnemonic = "renew gauge paddle celery zero theme happy sniff tone oyster unfold screen";
+var mnemonic = "setup three prize cage awesome arrest purse depth wonder room angry figure";

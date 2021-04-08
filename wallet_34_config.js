@@ -1,1 +1,1 @@
-var mnemonic = "perfect season liquid bean knee affair high busy wheel fog vocal cheese";
+var mnemonic = "plate village glad level depth march truck artwork option kingdom window orange";

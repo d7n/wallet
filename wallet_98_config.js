@@ -1,1 +1,1 @@
-var mnemonic = "machine jeans tobacco true garage welcome grab return recycle shy pelican side";
+var mnemonic = "harbor charge fortune turkey guitar palace turtle federal pepper crash twenty devote";

@@ -1,1 +1,1 @@
-var mnemonic = "pet august breeze shiver elephant panel awkward matrix rack humor coast heavy";
+var mnemonic = "quote tonight wrestle another large announce error track deny arrive paddle reunion";

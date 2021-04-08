@@ -1,1 +1,1 @@
-var mnemonic = "electric reduce street sing fancy suit group foot predict patient knee marriage";
+var mnemonic = "field fancy piano mesh cruel exclude calm report parade mango senior design";

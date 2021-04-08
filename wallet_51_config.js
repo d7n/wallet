@@ -1,1 +1,1 @@
-var mnemonic = "pass energy myth decade faith repeat catch often vehicle enjoy weapon daring";
+var mnemonic = "bomb label pave pepper shrug elegant bachelor royal region anxiety turtle wear";

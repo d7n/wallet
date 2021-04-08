@@ -1,1 +1,1 @@
-var mnemonic = "young daring kite knock first display goose lonely supply faint angle shift";
+var mnemonic = "simple elite grid innocent thrive catch catalog owner income loan budget main";

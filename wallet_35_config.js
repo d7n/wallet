@@ -1,1 +1,1 @@
-var mnemonic = "increase scatter pause pig drink social mask illegal grain device tackle strategy";
+var mnemonic = "depend inmate custom current pave nerve same core west fox badge burst";

@@ -1,1 +1,1 @@
-var mnemonic = "bus senior sand stick melody distance rack gown fine primary main cruel";
+var mnemonic = "manage settle legal assist romance cash shop immense wheel clay enough dizzy";

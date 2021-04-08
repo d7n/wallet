@@ -1,1 +1,1 @@
-var mnemonic = "timber grief unusual silent perfect mixed faint myth isolate steak cruel badge";
+var mnemonic = "economy course column soda grit thing door pulse cricket dice twice key";

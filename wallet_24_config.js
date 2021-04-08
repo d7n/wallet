@@ -1,1 +1,1 @@
-var mnemonic = "lumber job come alert basic mistake shine damage moral impulse yard liar";
+var mnemonic = "sauce attend term layer forum grit guide venture once dolphin two nose";

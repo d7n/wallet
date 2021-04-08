@@ -1,1 +1,1 @@
-var mnemonic = "neck donate matrix sponsor tower reform power ride column fade deposit annual";
+var mnemonic = "art sponsor pen cost carbon seed half mix turn army age swap";

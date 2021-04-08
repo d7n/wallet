@@ -1,1 +1,1 @@
-var mnemonic = "trigger diagram behave canoe mad hurt govern prepare honey faith endorse actual";
+var mnemonic = "letter pause spy between pink tornado injury aisle one jaguar country business";

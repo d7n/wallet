@@ -1,1 +1,1 @@
-var mnemonic = "dawn museum green time sand pet lemon spawn pottery twist unique six";
+var mnemonic = "success fortune favorite illegal glad sight smooth olive erosion car two recall";

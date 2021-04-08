@@ -1,1 +1,1 @@
-var mnemonic = "blade dragon vague foam tortoise almost fiscal apple divorce always negative antique";
+var mnemonic = "degree erosion hope enter ahead skill worry require infant safe glow fancy";

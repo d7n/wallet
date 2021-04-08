@@ -1,1 +1,1 @@
-var mnemonic = "catch car term fuel clerk sustain vintage style explain target lazy wink";
+var mnemonic = "material come danger unaware advance category grab student want little future chase";

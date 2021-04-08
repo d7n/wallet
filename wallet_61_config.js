@@ -1,1 +1,1 @@
-var mnemonic = "warrior rebuild timber invite urge pill chimney confirm movie lava scrap half";
+var mnemonic = "muscle neutral zebra crumble sniff ethics fade warfare clump course eight blood";

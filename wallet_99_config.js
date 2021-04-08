@@ -1,1 +1,1 @@
-var mnemonic = "fancy clean acoustic bag private noise need surprise good problem wet cloth";
+var mnemonic = "person kit fever false flat suggest pumpkin forest anger debate brush topple";

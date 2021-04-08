@@ -1,1 +1,1 @@
-var mnemonic = "play erosion region time drum total pencil finger palm dress live success";
+var mnemonic = "sphere certain vanish amateur drink section glory stove ride income summer person";

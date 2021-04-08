@@ -1,1 +1,1 @@
-var mnemonic = "assume accident step dial start fuel misery lake audit feature fire tuition";
+var mnemonic = "ozone satoshi evidence melody march economy dish dynamic job black barrel average";

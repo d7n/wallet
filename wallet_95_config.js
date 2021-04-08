@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo fiction midnight topple mobile offer suggest accuse earn main often return";
+var mnemonic = "timber exhibit once cook matter garden secret autumn potato throw drama oyster";

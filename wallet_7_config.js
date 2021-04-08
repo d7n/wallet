@@ -1,1 +1,1 @@
-var mnemonic = "air venue dish zone diary brave push wrestle later salon atom coast";
+var mnemonic = "novel trumpet radio young mouse unfair little yellow nation cheese plastic conduct";

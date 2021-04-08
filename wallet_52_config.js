@@ -1,1 +1,1 @@
-var mnemonic = "gold length govern alone agree smoke ginger cook allow story fit nest";
+var mnemonic = "crime among atom logic ride genre fit tent scorpion follow dress defense";

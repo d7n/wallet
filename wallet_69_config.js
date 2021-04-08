@@ -1,1 +1,1 @@
-var mnemonic = "ensure romance type cycle finger jump tragic taste fork distance able era";
+var mnemonic = "angry claim pair devote involve crawl enforce bachelor similar gasp face goddess";

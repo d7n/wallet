@@ -1,1 +1,1 @@
-var mnemonic = "confirm swarm average spike antenna helmet horror sauce about quick view hair";
+var mnemonic = "gadget nominee champion moral glow addict skirt wink little later legal raise";

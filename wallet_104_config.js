@@ -1,1 +1,1 @@
-var mnemonic = "exchange syrup cry believe common finger disease mimic punch mobile high bachelor";
+var mnemonic = "rug magic energy other virus indoor earth true race sleep edge polar";

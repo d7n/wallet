@@ -1,1 +1,1 @@
-var mnemonic = "edit text much drink you camp dry oven coach silver shift sure";
+var mnemonic = "demand sting immense cross inject mean bar arch sustain series stay music";

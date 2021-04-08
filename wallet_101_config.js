@@ -1,1 +1,1 @@
-var mnemonic = "glow attend reveal mom stuff negative brain satoshi episode swing option solid";
+var mnemonic = "second shoot happy endless vague witness evolve unfair water twice engine tackle";

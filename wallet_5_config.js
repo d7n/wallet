@@ -1,1 +1,1 @@
-var mnemonic = "liberty sister chest turtle swim museum reform jewel program radar any save";
+var mnemonic = "chalk remind tree eight muffin wonder matter loyal legal notice toddler baby";

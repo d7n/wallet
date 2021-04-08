@@ -1,1 +1,1 @@
-var mnemonic = "engine under path rare culture awkward polar tired method tank mix bronze";
+var mnemonic = "runway educate ozone prison awful song resource solid rabbit squirrel gather addict";

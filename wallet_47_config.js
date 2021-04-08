@@ -1,1 +1,1 @@
-var mnemonic = "stock stock host return earn mountain usual eager demand brother exist various";
+var mnemonic = "slab chase drastic worry mail deliver call unable price review stock foil";

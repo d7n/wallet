@@ -1,1 +1,1 @@
-var mnemonic = "teach hurdle invest nasty outdoor orbit arrow process sword sudden crater moon";
+var mnemonic = "actress group afraid upper bachelor fiber method drift chunk name amount birth";

@@ -1,1 +1,1 @@
-var mnemonic = "improve quote cart lawn shy about hunt steel suspect nest neglect crawl";
+var mnemonic = "behave wear april swear exact inherit lift hen lab task twenty book";

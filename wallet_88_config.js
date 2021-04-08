@@ -1,1 +1,1 @@
-var mnemonic = "choice valve before grocery glance nominee print choose candy culture spice major";
+var mnemonic = "marine wage action horn mouse more knife jelly eager rubber citizen blame";

@@ -1,1 +1,1 @@
-var mnemonic = "found sure hurry army glimpse hedgehog ramp bitter bike bus decade critic";
+var mnemonic = "venture buzz runway talent day swear thrive cool always dynamic scissors end";
