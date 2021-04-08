@@ -1,1 +1,1 @@
-var mnemonic = "output stamp mule play level enroll bid rack shop know magnet much";
+var mnemonic = "various you announce among act harsh funny fat security perfect afraid used";

@@ -1,1 +1,1 @@
-var mnemonic = "clean profit question parrot boat auction victory sort lawn humor jeans umbrella";
+var mnemonic = "garden clutch minimum drama similar alarm scorpion cram fine blue proud renew";

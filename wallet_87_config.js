@@ -1,1 +1,1 @@
-var mnemonic = "amount old boat sun trash egg stuff move casino half rose anger";
+var mnemonic = "frog business tuna daughter belt reveal hamster height coach security mix fiscal";

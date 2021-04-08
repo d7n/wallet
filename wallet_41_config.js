@@ -1,1 +1,1 @@
-var mnemonic = "letter shoulder mass voyage anger indoor hope uphold wage pink alien ritual";
+var mnemonic = "furnace curtain awkward story section park exile buzz wool trust resource tattoo";

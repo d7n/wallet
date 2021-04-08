@@ -1,1 +1,1 @@
-var mnemonic = "monster pudding allow drift shadow acoustic moral hobby cushion thrive erode vapor";
+var mnemonic = "evil afraid vintage permit oval chef pigeon medal book giggle toy awkward";

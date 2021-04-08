@@ -1,1 +1,1 @@
-var mnemonic = "can kick six cabin skull unable inmate sight game media hidden stem";
+var mnemonic = "snack junk zero measure security brass black exchange razor sort effort napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage force series actor absurd update outdoor invite nephew tattoo label garbage";
+var mnemonic = "staff depth pigeon define margin crime axis scare rely duty plastic nominee";

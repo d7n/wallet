@@ -1,1 +1,1 @@
-var mnemonic = "bike review bacon random actress engage guess desk scrap orphan announce forum";
+var mnemonic = "ignore sense airport shrug comfort puzzle allow spike manage version quantum rug";

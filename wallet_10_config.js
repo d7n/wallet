@@ -1,1 +1,1 @@
-var mnemonic = "crane fix ordinary cube unknown anxiety wolf logic solar uncover van wide";
+var mnemonic = "kangaroo assume allow plunge liar aunt head either wood swap plate wrap";

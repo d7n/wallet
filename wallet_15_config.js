@@ -1,1 +1,1 @@
-var mnemonic = "final good hint degree crash carpet box they cannon drum theory sure";
+var mnemonic = "hub turkey laugh peace floor chunk net nut asthma soldier this concert";

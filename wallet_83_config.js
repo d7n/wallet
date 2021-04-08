@@ -1,1 +1,1 @@
-var mnemonic = "zoo dash scatter clutch census melt sweet region dizzy evoke blanket deputy";
+var mnemonic = "address maid festival minor laptop grow hidden trust chicken scrub traffic suffer";

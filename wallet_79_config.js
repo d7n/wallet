@@ -1,1 +1,1 @@
-var mnemonic = "crisp powder defy carry south stereo inspire little ridge food small vapor";
+var mnemonic = "bread yellow pioneer lamp all wrong swap robust dice bunker shock fragile";

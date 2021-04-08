@@ -1,1 +1,1 @@
-var mnemonic = "cheap quote spare rookie save awkward bubble helmet hobby where attend jelly";
+var mnemonic = "clerk unfair live salmon earth spawn survey screen empower pony fossil lecture";

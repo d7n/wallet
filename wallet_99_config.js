@@ -1,1 +1,1 @@
-var mnemonic = "morning receive regret bike trophy can entire spawn embrace hospital slow foam";
+var mnemonic = "flush mouse scissors shuffle hip lesson easily extra live retreat about skate";

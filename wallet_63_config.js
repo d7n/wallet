@@ -1,1 +1,1 @@
-var mnemonic = "critic exist chimney topic announce control spirit unfair unfold cargo early disorder";
+var mnemonic = "sentence ship panda tiger alter excite love rubber thunder trash sheriff undo";

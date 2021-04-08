@@ -1,1 +1,1 @@
-var mnemonic = "window expose hand treat rapid lunch welcome supreme pioneer media glove cheese";
+var mnemonic = "air wrap super chief wash sing solid once sun message basic solution";

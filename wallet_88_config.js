@@ -1,1 +1,1 @@
-var mnemonic = "erosion resemble spell spoon badge visual best feature adjust rubber split improve";
+var mnemonic = "property green before core useful body amused reject alter lounge awesome lottery";

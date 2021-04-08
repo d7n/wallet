@@ -1,1 +1,1 @@
-var mnemonic = "reflect space weekend unlock debate unfair enroll magnet leisure game inch engage";
+var mnemonic = "push pole lucky system fox another easy glow manage mystery uniform elegant";

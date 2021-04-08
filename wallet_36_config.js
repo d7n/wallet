@@ -1,1 +1,1 @@
-var mnemonic = "question holiday model repair van glove gossip gown peasant critic negative vital";
+var mnemonic = "dream van violin true father pupil ceiling secret scorpion enable fortune wolf";

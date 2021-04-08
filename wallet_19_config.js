@@ -1,1 +1,1 @@
-var mnemonic = "next gap shoe isolate minor example gravity clean best elbow old rely";
+var mnemonic = "radar tuna problem gospel small major clown hint book hobby couple shift";

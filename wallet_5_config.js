@@ -1,1 +1,1 @@
-var mnemonic = "situate sustain dilemma trophy east pole nature face olive glow drama stomach";
+var mnemonic = "ethics prize force silk such universe afford gravity yard arrest manage wear";

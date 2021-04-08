@@ -1,1 +1,1 @@
-var mnemonic = "federal purity program cream cute wreck crisp extra derive town easily toward";
+var mnemonic = "bacon once enjoy deliver dinosaur guilt concert piano orange any riot patch";

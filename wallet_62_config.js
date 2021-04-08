@@ -1,1 +1,1 @@
-var mnemonic = "spice flat music task holiday tide vehicle arrow blur bone lens cabbage";
+var mnemonic = "rotate peasant stool run card actress forward evoke access else elbow rally";

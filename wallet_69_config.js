@@ -1,1 +1,1 @@
-var mnemonic = "acid steel admit trial muffin endless pepper borrow load farm employ setup";
+var mnemonic = "pair gain distance weather audit cattle drift mule depend doll subway flash";

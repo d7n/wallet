@@ -1,1 +1,1 @@
-var mnemonic = "swallow cradle ridge antique ability decorate what robust keen system learn fold";
+var mnemonic = "roof scissors accident wait unusual rude badge boost yard equal leaf vehicle";

@@ -1,1 +1,1 @@
-var mnemonic = "blur finish chest shift leader enrich crane rabbit scare gospel vacuum interest";
+var mnemonic = "misery lava often timber human feed affair gift lecture panic elite happy";

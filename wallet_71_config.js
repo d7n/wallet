@@ -1,1 +1,1 @@
-var mnemonic = "symptom moon rebuild barrel myth topple enjoy delay ginger foot tourist nurse";
+var mnemonic = "dust check indoor gap shallow saddle valve quality return much special basket";

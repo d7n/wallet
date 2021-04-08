@@ -1,1 +1,1 @@
-var mnemonic = "say light occur camp gauge toe reveal pony river beauty obscure plate";
+var mnemonic = "better cross near security theory olive illness paddle prepare rabbit believe index";

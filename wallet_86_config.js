@@ -1,1 +1,1 @@
-var mnemonic = "mutual gesture farm still vintage raven grape tiny catch anchor develop develop";
+var mnemonic = "secret bonus chuckle faculty truck beauty sleep cake brain rival maid dry";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble cupboard office cave fox rain unknown pumpkin sick dizzy palace nation";
+var mnemonic = "glide end strong stem spring private talk more body hungry deliver account";

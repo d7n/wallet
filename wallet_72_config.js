@@ -1,1 +1,1 @@
-var mnemonic = "cannon fossil unknown cliff sentence monkey tape coin olive grief sunset during";
+var mnemonic = "large trick art coconut adapt awkward expect reopen hover panda fire process";

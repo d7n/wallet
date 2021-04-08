@@ -1,1 +1,1 @@
-var mnemonic = "drum ensure nothing galaxy sister regret flag spot apology real mean faith";
+var mnemonic = "enact hazard chuckle equip enforce label cherry reunion census control bird reopen";

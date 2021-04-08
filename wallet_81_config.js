@@ -1,1 +1,1 @@
-var mnemonic = "between win remain lion tape biology try protect margin sunny grape ocean";
+var mnemonic = "nasty nice tired coil trash lock prison three voice impact paddle actual";

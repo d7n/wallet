@@ -1,1 +1,1 @@
-var mnemonic = "stool mountain catch course victory tenant property ramp update quit oak garden";
+var mnemonic = "reunion video main damage awesome tobacco drill absent hub board galaxy enable";

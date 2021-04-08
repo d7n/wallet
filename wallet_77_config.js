@@ -1,1 +1,1 @@
-var mnemonic = "abuse shy remain excuse obey lyrics jewel session concert actual record bubble";
+var mnemonic = "sort drill boring room over drum can best burden scare frown harbor";

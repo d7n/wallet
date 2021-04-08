@@ -1,1 +1,1 @@
-var mnemonic = "embrace delay tell cactus affair attend idle device absent hello reflect light";
+var mnemonic = "rent setup arrow own blanket swear gain cave quarter clay claim frequent";

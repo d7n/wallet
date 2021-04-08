@@ -1,1 +1,1 @@
-var mnemonic = "inquiry loyal stove destroy fever clerk topple script scout airport prosper merit";
+var mnemonic = "input push excite cage shock retreat lava reunion ugly wisdom dose number";

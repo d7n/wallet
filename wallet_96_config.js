@@ -1,1 +1,1 @@
-var mnemonic = "task miracle bulk senior blossom method company lyrics inside flip when among";
+var mnemonic = "steel solar law lyrics candy echo pill sphere flavor mosquito amateur patch";

@@ -1,1 +1,1 @@
-var mnemonic = "three unfair rocket twin summer response sword payment unique pipe kitten harsh";
+var mnemonic = "clean labor cherry hollow mesh piece orange mixed core slender lady judge";

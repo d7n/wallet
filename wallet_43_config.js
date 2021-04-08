@@ -1,1 +1,1 @@
-var mnemonic = "lecture advice oak grow industry frame raise earth route either creek snap";
+var mnemonic = "wasp educate piano universe original coconut into grant solution fashion fame essay";

@@ -1,1 +1,1 @@
-var mnemonic = "review hammer lottery remain vanish fever throw seven tornado ice maze trouble";
+var mnemonic = "clutch patrol wrestle amateur indicate hurry organ sight market pilot fitness honey";

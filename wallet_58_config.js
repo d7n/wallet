@@ -1,1 +1,1 @@
-var mnemonic = "matter choice scrap rubber quote song smoke music race jacket love swim";
+var mnemonic = "pizza exit legal more vocal clerk host milk length almost evil evolve";

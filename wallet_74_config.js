@@ -1,1 +1,1 @@
-var mnemonic = "swing answer identify search rib immense indoor indoor beyond clever else exotic";
+var mnemonic = "case manage oil certain suspect cup heart copper cement century wool must";

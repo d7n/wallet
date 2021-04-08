@@ -1,1 +1,1 @@
-var mnemonic = "prize ride banner video magnet boost board arrest law kangaroo swift point";
+var mnemonic = "tonight rebuild dog viable off material paper mean piano leisure observe rare";

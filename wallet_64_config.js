@@ -1,1 +1,1 @@
-var mnemonic = "sibling beauty hurt wrestle flavor patch reveal gesture letter brand exile ancient";
+var mnemonic = "surface artist slight ability bid casual sudden claw empower print winner analyst";

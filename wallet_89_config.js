@@ -1,1 +1,1 @@
-var mnemonic = "gaze pass give session corn foster iron tube sock potato mixed month";
+var mnemonic = "ritual urban theory ridge weekend donkey rival lazy result deliver isolate sadness";

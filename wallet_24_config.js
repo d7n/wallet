@@ -1,1 +1,1 @@
-var mnemonic = "tray alter tobacco aware proud during tortoise depend affair carpet celery plug";
+var mnemonic = "shoulder rival spice prison bitter ten crunch pioneer palace dial turtle auto";

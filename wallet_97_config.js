@@ -1,1 +1,1 @@
-var mnemonic = "diary spot tower cloud morning quantum fluid injury never february truly rose";
+var mnemonic = "eagle almost ecology veteran century crunch brick ridge planet entry pilot latin";

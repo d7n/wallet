@@ -1,1 +1,1 @@
-var mnemonic = "stone bus pepper assist barrel room lift hood mule pretty misery garment";
+var mnemonic = "cupboard biology fan nest state sniff rival kind assault fossil scheme fold";

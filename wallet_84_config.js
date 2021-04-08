@@ -1,1 +1,1 @@
-var mnemonic = "mean omit sing pencil burger praise solution simple dad brief reject pyramid";
+var mnemonic = "real talk sword candy soda border dust math citizen plastic student limit";

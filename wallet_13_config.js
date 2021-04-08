@@ -1,1 +1,1 @@
-var mnemonic = "joke science magnet rapid galaxy retreat popular judge drama success corn chief";
+var mnemonic = "rookie fee habit stamp profit put sorry noodle cabin citizen couple trim";

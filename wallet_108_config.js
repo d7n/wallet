@@ -1,1 +1,1 @@
-var mnemonic = "mom join shine super boat review oak purchase veteran physical stairs trust";
+var mnemonic = "enable glass whip entire hundred picnic alone service twin pen buzz tattoo";

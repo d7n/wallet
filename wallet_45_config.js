@@ -1,1 +1,1 @@
-var mnemonic = "swear try reform shrug ball author able burden receive tiny mean ten";
+var mnemonic = "junior system strike online airport destroy pilot educate sail describe love apart";

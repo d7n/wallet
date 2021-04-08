@@ -1,1 +1,1 @@
-var mnemonic = "reject young ankle voyage pulp race maid roof deputy finish stool detail";
+var mnemonic = "pulse erode benefit frost increase main feed stand door coach drum surge";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm success hawk shadow news alpha acid physical pipe special ripple mistake";
+var mnemonic = "filter hollow magic space humor foster wink sock stuff frequent hotel shuffle";

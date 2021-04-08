@@ -1,1 +1,1 @@
-var mnemonic = "reflect orchard grape vote spring dawn loyal flavor actress short music toilet";
+var mnemonic = "zone heavy waste maple adult absent this mule reduce inner city ceiling";

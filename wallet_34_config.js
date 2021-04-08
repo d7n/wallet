@@ -1,1 +1,1 @@
-var mnemonic = "spray motion tortoise muscle destroy monster sweet senior drama also neck identify";
+var mnemonic = "deer acid truth million protect assist fatal oblige relax tide feed have";

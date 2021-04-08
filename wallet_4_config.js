@@ -1,1 +1,1 @@
-var mnemonic = "picnic benefit scorpion situate response arena episode utility flip ribbon gravity stable";
+var mnemonic = "caught dilemma prefer maid panel embrace weekend amused title royal seven copy";

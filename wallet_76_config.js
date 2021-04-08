@@ -1,1 +1,1 @@
-var mnemonic = "embody law churn head robot strategy marine mammal lazy ski february explain";
+var mnemonic = "trophy motion pupil expect pave any diesel doll lonely pattern frozen legal";

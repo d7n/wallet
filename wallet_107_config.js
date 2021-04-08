@@ -1,1 +1,1 @@
-var mnemonic = "shrug maple fashion maximum pulse dirt huge fever kit silent slam few";
+var mnemonic = "piano together ancient day gold empty slogan struggle congress tennis account orange";

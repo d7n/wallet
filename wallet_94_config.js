@@ -1,1 +1,1 @@
-var mnemonic = "nice glove stone supply awful tunnel must despair into never cluster table";
+var mnemonic = "pause limb much artwork solid skin review blue plastic coin special call";

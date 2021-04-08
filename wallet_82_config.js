@@ -1,1 +1,1 @@
-var mnemonic = "winter hidden drop memory soon castle vapor inner timber kingdom jaguar prison";
+var mnemonic = "caught embark clever black rapid cup later frown forward address goose draft";

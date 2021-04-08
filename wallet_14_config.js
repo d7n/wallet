@@ -1,1 +1,1 @@
-var mnemonic = "tent hello coin normal matter marine develop quiz fury issue smart trigger";
+var mnemonic = "team witness pitch awkward finger evil believe artist champion height fit title";

@@ -1,1 +1,1 @@
-var mnemonic = "rival used skin urge hard risk spend toy impulse trend crystal cave";
+var mnemonic = "kiss primary zebra round annual achieve velvet supreme make word age cart";

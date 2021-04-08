@@ -1,1 +1,1 @@
-var mnemonic = "federal mother else globe sport payment dynamic tissue mystery romance balcony tired";
+var mnemonic = "grace birth copy eagle flush clean special camera gravity build task exit";

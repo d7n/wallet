@@ -1,1 +1,1 @@
-var mnemonic = "attack solution tide pet cabin coin assume myself orbit enlist swear garment";
+var mnemonic = "submit certain mango wool wash result used adapt youth priority high earn";

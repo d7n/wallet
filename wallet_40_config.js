@@ -1,1 +1,1 @@
-var mnemonic = "cloth still panda response ginger gentle diagram swift autumn favorite prefer arch";
+var mnemonic = "grow drastic belt acid loan shallow super want slot meat income idea";

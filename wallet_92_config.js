@@ -1,1 +1,1 @@
-var mnemonic = "caught hour arm inner popular main siege depend fatigue shop message display";
+var mnemonic = "recall desert wrestle fortune gym sport clip toss slot man again magic";

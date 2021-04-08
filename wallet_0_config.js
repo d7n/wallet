@@ -1,1 +1,1 @@
-var mnemonic = "drill spring badge farm insect struggle jewel kiwi famous leisure marble vintage";
+var mnemonic = "salt peanut cry marriage pigeon blast arm sick economy flight slush they";

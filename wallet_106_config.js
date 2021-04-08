@@ -1,1 +1,1 @@
-var mnemonic = "mixture broccoli crouch canvas six powder juice garage knife copper tip field";
+var mnemonic = "onion puppy empower whale claim layer lazy march escape voice kid powder";

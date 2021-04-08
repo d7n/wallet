@@ -1,1 +1,1 @@
-var mnemonic = "addict lemon inhale spray run someone swear test crew consider dwarf feel";
+var mnemonic = "fly crime beyond parade ridge surge pulp stable review length cousin exotic";

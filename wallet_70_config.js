@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ice clay symptom hospital fatal plug column behave midnight struggle weapon";
+var mnemonic = "glass symptom march half base gossip explain pigeon giggle convince sing hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "frequent drop cargo ginger sure corn knee absurd draft candy desk all";
+var mnemonic = "purse stem business submit school sand range apart such desert fringe arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "kick income joke ask round equip come tennis old airport trumpet uncle";
+var mnemonic = "project panda ten distance provide furnace mimic buzz orphan extra pottery slush";

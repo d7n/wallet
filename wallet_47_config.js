@@ -1,1 +1,1 @@
-var mnemonic = "merit sad goddess film brisk fade weird gloom breeze edge canal dutch";
+var mnemonic = "country crouch voyage whip purse drama tray sample retire soldier cloud shield";

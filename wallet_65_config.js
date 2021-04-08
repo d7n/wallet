@@ -1,1 +1,1 @@
-var mnemonic = "company match junior indoor reject outer unhappy culture praise announce thank can";
+var mnemonic = "spring field pond long insane author shed humor language vocal layer piano";

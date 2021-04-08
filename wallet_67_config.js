@@ -1,1 +1,1 @@
-var mnemonic = "pistol recall elephant air prepare gas train ankle survey eternal conduct fashion";
+var mnemonic = "beauty mixture fiction remove tired thunder key shallow rib outdoor modify know";

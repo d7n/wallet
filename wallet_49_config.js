@@ -1,1 +1,1 @@
-var mnemonic = "pioneer boat friend fabric scale pull alien permit virtual train dice service";
+var mnemonic = "kid safe direct legal exotic where peasant post ahead garment ordinary daring";

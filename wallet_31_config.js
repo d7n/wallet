@@ -1,1 +1,1 @@
-var mnemonic = "fog creek enjoy grow wrist absent path year belt raw hazard pizza";
+var mnemonic = "absorb glare smooth excite question wagon warfare plug gold can iron glove";

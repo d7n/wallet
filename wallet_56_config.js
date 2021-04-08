@@ -1,1 +1,1 @@
-var mnemonic = "amused cluster say twelve sort daughter print wise tissue rescue clerk valid";
+var mnemonic = "anger mountain paper fault area portion eagle fire inside oval bless wet";

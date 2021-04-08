@@ -1,1 +1,1 @@
-var mnemonic = "plastic yard drip clerk cereal mechanic cake student cloth sketch mass length";
+var mnemonic = "iron plunge push lawsuit close romance scorpion slice library defy final mango";

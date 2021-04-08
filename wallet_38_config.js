@@ -1,1 +1,1 @@
-var mnemonic = "diagram season bike famous silly pistol victory twin drip uniform rabbit science";
+var mnemonic = "blouse convince erase merit diary curve meadow ready repair slim crucial plate";

@@ -1,1 +1,1 @@
-var mnemonic = "marble action card divorce inquiry resemble urban demise turn approve cattle pigeon";
+var mnemonic = "inside fee valid pledge general charge physical master reform age cruel spend";

@@ -1,1 +1,1 @@
-var mnemonic = "juice degree world exile sorry twenty cost melt village discover return today";
+var mnemonic = "other long permit faith auto mention baby abstract digital renew dust parade";

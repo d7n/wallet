@@ -1,1 +1,1 @@
-var mnemonic = "mother trophy gloom spirit injury pipe diagram trick ancient volume major taxi";
+var mnemonic = "imitate call unable gloom rely tower awesome toward mobile heavy tourist tank";

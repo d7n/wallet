@@ -1,1 +1,1 @@
-var mnemonic = "festival jaguar wear bench arrange useless tilt love theme elbow absent note";
+var mnemonic = "cry song magic enough coach half second grunt coffee trigger cover lock";

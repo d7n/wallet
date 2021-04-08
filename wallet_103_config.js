@@ -1,1 +1,1 @@
-var mnemonic = "energy lumber wedding edge minor disease hockey symptom mechanic trouble donate syrup";
+var mnemonic = "blade myself axis wagon cram bamboo slot admit robust crisp jar try";

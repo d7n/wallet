@@ -1,1 +1,1 @@
-var mnemonic = "behind test sunset work indoor range pig weekend trick conduct indoor design";
+var mnemonic = "mammal goddess bean piece maple unknown clog pitch dinner balcony speak surround";

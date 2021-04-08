@@ -1,1 +1,1 @@
-var mnemonic = "join mention fun man unhappy west talk false awful liberty income almost";
+var mnemonic = "excuse private inner error artist liar light obscure parade age cousin loud";

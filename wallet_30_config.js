@@ -1,1 +1,1 @@
-var mnemonic = "memory math item either box plug chair scatter nuclear federal mind use";
+var mnemonic = "festival decade asthma resemble notice snap discover burden absorb invest leave apart";

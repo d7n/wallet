@@ -1,1 +1,1 @@
-var mnemonic = "awake sort crime pyramid turkey blood name crash bottom today myself symbol";
+var mnemonic = "pull usual over blue photo door punch once lounge tongue across drastic";

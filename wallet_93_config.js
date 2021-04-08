@@ -1,1 +1,1 @@
-var mnemonic = "soup fade leg tube correct elite shield left view index slight beef";
+var mnemonic = "lottery wealth hollow age dress milk shrug weapon people reduce banner inhale";
