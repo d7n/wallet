@@ -1,1 +1,1 @@
-var mnemonic = "vital erosion awake rigid electric deal toilet autumn primary pipe magnet into";
+var mnemonic = "poverty snow myth toast play super galaxy outer brain unknown glass avocado";

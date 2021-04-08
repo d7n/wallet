@@ -1,1 +1,1 @@
-var mnemonic = "design image clay fuel wood two alter nature pink clump learn fever";
+var mnemonic = "market exile view crater cheese bench engage desert sunset jungle virus crowd";

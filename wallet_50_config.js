@@ -1,1 +1,1 @@
-var mnemonic = "hollow riot apology impact pause junk exhaust spoon dawn one expire text";
+var mnemonic = "actor material census various crater regular move wear quiz mimic lunch online";

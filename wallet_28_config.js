@@ -1,1 +1,1 @@
-var mnemonic = "casual cause clay neutral analyst ordinary someone intact lunar prosper company peanut";
+var mnemonic = "lens scrub bulk verb educate focus north lake rocket inherit unknown boring";

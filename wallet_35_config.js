@@ -1,1 +1,1 @@
-var mnemonic = "settle boost gown salad chimney appear ethics response repair across patch swallow";
+var mnemonic = "insect salon wedding pitch pass almost evil nephew material tower busy zone";

@@ -1,1 +1,1 @@
-var mnemonic = "extend remove wood stone cream lonely broccoli use oxygen figure gate evidence";
+var mnemonic = "acoustic august lemon sniff chapter mango squeeze shift bottom demand pass error";

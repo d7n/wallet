@@ -1,1 +1,1 @@
-var mnemonic = "cattle cancel midnight cheese snap annual snow surge jelly honey clap pilot";
+var mnemonic = "unusual own hold effort phone wink lend educate receive cable assist tomorrow";

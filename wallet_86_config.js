@@ -1,1 +1,1 @@
-var mnemonic = "zone print exclude ordinary holiday business donate inflict caution artefact welcome supreme";
+var mnemonic = "call cereal bird razor balance sheriff group oppose program life father virus";

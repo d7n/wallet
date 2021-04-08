@@ -1,1 +1,1 @@
-var mnemonic = "hobby ozone banner system attract drift tragic exit prosper require suspect axis";
+var mnemonic = "wasp help anxiety deer insect claw tiny violin small impact simple trust";

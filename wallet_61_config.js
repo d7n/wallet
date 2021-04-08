@@ -1,1 +1,1 @@
-var mnemonic = "vendor novel riot alone benefit winter clock duck panther edit antenna sibling";
+var mnemonic = "climb remember embark chicken trigger audit acoustic tragic save loan deny squirrel";

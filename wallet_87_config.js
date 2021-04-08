@@ -1,1 +1,1 @@
-var mnemonic = "iron gossip bamboo kiss style never nothing angry century name noodle attitude";
+var mnemonic = "high because renew today position long access industry have poet cigar gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "boat inside label version tilt fan find property vacant ship casino garage";
+var mnemonic = "hunt symbol mansion sing vessel short hazard question merry grape merit initial";

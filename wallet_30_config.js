@@ -1,1 +1,1 @@
-var mnemonic = "fat harvest toss now knock approve cable critic dinosaur erase narrow spoil";
+var mnemonic = "weasel dish cannon mesh shoe bench clean print barely gossip price under";

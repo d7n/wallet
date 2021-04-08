@@ -1,1 +1,1 @@
-var mnemonic = "hard pill antique warfare portion assume album vessel joy summer romance case";
+var mnemonic = "pigeon jeans fatal identify image cancel betray utility manage risk crane prize";

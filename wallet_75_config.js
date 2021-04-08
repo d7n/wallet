@@ -1,1 +1,1 @@
-var mnemonic = "wine blood reduce belt ketchup common ugly wear current art goat great";
+var mnemonic = "frog issue castle author shoe assist wrap globe purpose detect entry acoustic";

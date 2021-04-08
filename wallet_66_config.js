@@ -1,1 +1,1 @@
-var mnemonic = "false bachelor flavor gadget citizen eyebrow hobby impulse merge stand virtual federal";
+var mnemonic = "project sniff edit december shallow south wish step will try acid exhibit";

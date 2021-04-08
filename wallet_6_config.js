@@ -1,1 +1,1 @@
-var mnemonic = "balcony ask insect indicate decide achieve veteran govern slice shock valve intact";
+var mnemonic = "man lady curve invite magnet rare best pudding help agree dog birth";

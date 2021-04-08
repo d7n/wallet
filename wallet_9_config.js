@@ -1,1 +1,1 @@
-var mnemonic = "lens patient bunker milk net remember soda run lab kitchen crane check";
+var mnemonic = "daring elite arrive sister silver tuna swift height december leisure idea wool";

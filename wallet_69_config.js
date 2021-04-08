@@ -1,1 +1,1 @@
-var mnemonic = "purchase index must already awful quiz three step reflect broken kick person";
+var mnemonic = "relax wash curve wreck october life sick sort tag client fault razor";

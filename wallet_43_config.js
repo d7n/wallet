@@ -1,1 +1,1 @@
-var mnemonic = "release sheriff piano glass relax orient praise ability chronic siren age hen";
+var mnemonic = "adjust pupil attend decade sting bar napkin close afford cabbage ocean genuine";

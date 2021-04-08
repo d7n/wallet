@@ -1,1 +1,1 @@
-var mnemonic = "long wash tank biology equip ring captain trial penalty garlic prosper produce";
+var mnemonic = "wheat fence major shop start custom rocket stand labor element stage staff";

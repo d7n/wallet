@@ -1,1 +1,1 @@
-var mnemonic = "position mail tilt zone truck then mushroom deal squirrel enhance ostrich assault";
+var mnemonic = "share sibling october pizza milk online defy sketch side arrange sport reason";

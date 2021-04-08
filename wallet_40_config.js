@@ -1,1 +1,1 @@
-var mnemonic = "undo quarter remain base child unable spoon ritual speed craft soon this";
+var mnemonic = "dune together depart disagree camera bicycle vital flush guitar theory exact seminar";

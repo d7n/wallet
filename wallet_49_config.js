@@ -1,1 +1,1 @@
-var mnemonic = "economy velvet typical digital strategy feel hole aim erode flush gadget barrel";
+var mnemonic = "oxygen result tide wild wagon crack sport knock glance summer album ship";

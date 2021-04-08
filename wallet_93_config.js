@@ -1,1 +1,1 @@
-var mnemonic = "accuse vendor transfer glory acid ski humble impulse float abstract thought today";
+var mnemonic = "stem home kangaroo tray warrior critic bunker dragon short repair weasel grocery";

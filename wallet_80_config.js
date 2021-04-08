@@ -1,1 +1,1 @@
-var mnemonic = "opera alpha movie athlete lift broken squeeze bubble manual alley expand fortune";
+var mnemonic = "heavy globe tribe transfer icon pen govern dad gown notice stone tribe";

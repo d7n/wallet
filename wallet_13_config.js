@@ -1,1 +1,1 @@
-var mnemonic = "human brown meat tilt frozen arrange acoustic year luxury present eternal fix";
+var mnemonic = "manual plug ribbon direct federal mean audit grief daughter analyst bid wolf";

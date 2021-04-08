@@ -1,1 +1,1 @@
-var mnemonic = "surround anchor repair stick life give umbrella hint outside demise weekend denial";
+var mnemonic = "black nasty powder book sponsor number mail sadness version weather endless exotic";

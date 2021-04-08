@@ -1,1 +1,1 @@
-var mnemonic = "pupil slice evolve happy embody couple engine calm kite submit topple account";
+var mnemonic = "merit dynamic melt fine ensure chunk prison youth canoe hurt hard salt";

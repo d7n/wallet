@@ -1,1 +1,1 @@
-var mnemonic = "erode filter shallow scale west repeat adult sketch surge unaware device current";
+var mnemonic = "urge capital best diesel royal govern paper behind wrap surface kiwi cake";

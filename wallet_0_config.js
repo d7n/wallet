@@ -1,1 +1,1 @@
-var mnemonic = "shop where deny buzz day animal vibrant library describe issue tongue slush";
+var mnemonic = "wait guess story sudden unfair cannon shift cancel whale worry gospel purpose";

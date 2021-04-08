@@ -1,1 +1,1 @@
-var mnemonic = "wrap clump envelope whisper bless cheap silver gift garden ramp legend floor";
+var mnemonic = "live true prosper surge luxury frame donate erupt scan blast focus festival";

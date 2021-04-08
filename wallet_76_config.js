@@ -1,1 +1,1 @@
-var mnemonic = "oblige laptop actor vintage gun need siren question depend expand extend tent";
+var mnemonic = "grab ripple strong rebuild green hunt glide school afraid mail leader solve";

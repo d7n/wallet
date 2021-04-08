@@ -1,1 +1,1 @@
-var mnemonic = "safe fat ladder chalk share enable unlock power body gasp bright arrest";
+var mnemonic = "crystal repair trouble crater excess salad learn sport inhale traffic congress main";

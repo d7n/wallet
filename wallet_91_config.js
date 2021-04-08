@@ -1,1 +1,1 @@
-var mnemonic = "airport advance fantasy tent box answer surface chest dash garage right assume";
+var mnemonic = "any spice announce world bleak enough manual trade talk win valid drive";

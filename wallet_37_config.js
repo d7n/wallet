@@ -1,1 +1,1 @@
-var mnemonic = "rain chief jacket symptom tackle bracket close audit same expect topic display";
+var mnemonic = "soldier boring impose rally city wedding crawl spy tide next siege glance";

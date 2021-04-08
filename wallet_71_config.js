@@ -1,1 +1,1 @@
-var mnemonic = "burden behave supply sail orchard original what glimpse taste island bicycle bonus";
+var mnemonic = "clinic put guitar wink give artefact refuse innocent replace what pencil chef";

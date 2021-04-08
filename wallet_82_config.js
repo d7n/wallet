@@ -1,1 +1,1 @@
-var mnemonic = "ahead lawsuit auction input game skull monitor sand coyote broom visit cable";
+var mnemonic = "tuition rabbit heart acid mom burger solution hurry mention later kid service";

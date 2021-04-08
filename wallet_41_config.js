@@ -1,1 +1,1 @@
-var mnemonic = "project refuse velvet require melt transfer pony mountain lady help scale speed";
+var mnemonic = "aware calm beef glide panel prevent problem journey emerge practice letter family";

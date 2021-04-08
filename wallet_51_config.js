@@ -1,1 +1,1 @@
-var mnemonic = "lens argue acid blame curve acid lunar mountain craft quantum cotton expect";
+var mnemonic = "rabbit brief hen clinic already you kiss concert elevator sail bounce inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "under gorilla version sniff you clap only great worry visit near tell";
+var mnemonic = "tuition dynamic rain pledge absorb smooth envelope crouch bubble flip fork nasty";

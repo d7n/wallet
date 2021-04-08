@@ -1,1 +1,1 @@
-var mnemonic = "patrol fury drill corn valid habit behind swap bind smart gentle bike";
+var mnemonic = "disagree say neither belt desert patient clinic digital rather flush pig virtual";

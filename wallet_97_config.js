@@ -1,1 +1,1 @@
-var mnemonic = "cruel pistol social edge fatal shop kingdom crawl pink mix online crush";
+var mnemonic = "matrix play try coil text mom clutch buddy tenant fruit tomato thrive";

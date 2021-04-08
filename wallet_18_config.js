@@ -1,1 +1,1 @@
-var mnemonic = "hold body morning subway voyage chimney end obtain deer cage middle bridge";
+var mnemonic = "cover frozen also room title strike over awake toilet crash code cross";

@@ -1,1 +1,1 @@
-var mnemonic = "child impulse craft exile you prosper rail search prosper lemon oak category";
+var mnemonic = "rack supply canal cargo horse expire coast dish flash train same way";

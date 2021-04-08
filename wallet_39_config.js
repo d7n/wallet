@@ -1,1 +1,1 @@
-var mnemonic = "harsh such buddy slice message reject envelope curve ozone fit setup blanket";
+var mnemonic = "pelican wall behave ridge unfold absent alone bench tonight club panic wagon";

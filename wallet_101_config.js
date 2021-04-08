@@ -1,1 +1,1 @@
-var mnemonic = "suffer parade eternal shock sound post hollow identify gospel assault monkey pony";
+var mnemonic = "approve man cover empower diamond road secret pilot sadness waste focus awesome";

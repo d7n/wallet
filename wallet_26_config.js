@@ -1,1 +1,1 @@
-var mnemonic = "auto nation harsh word client response bonus love cushion invite sort deposit";
+var mnemonic = "just bench era congress banana door enrich kingdom other become hospital crucial";

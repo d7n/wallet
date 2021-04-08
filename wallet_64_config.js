@@ -1,1 +1,1 @@
-var mnemonic = "engine topple tower people impose lazy muscle cost rally grid sell vast";
+var mnemonic = "orbit congress language rally outer pyramid dolphin letter indicate open shrug finish";

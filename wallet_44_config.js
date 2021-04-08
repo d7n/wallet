@@ -1,1 +1,1 @@
-var mnemonic = "town canoe animal cannon pull faculty brand evil pool image race forum";
+var mnemonic = "neglect midnight embark fix throw install volume staff promote claim spatial left";

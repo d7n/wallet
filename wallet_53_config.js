@@ -1,1 +1,1 @@
-var mnemonic = "fold song hold taste elbow distance clock grass atom sick boss winner";
+var mnemonic = "never tank arch usual behind bread swallow load estate vast firm coach";

@@ -1,1 +1,1 @@
-var mnemonic = "steak soap seek custom stable humble mechanic horror ice left diagram census";
+var mnemonic = "mobile deliver basket inner joke essay frequent damp deny reveal decrease cloth";

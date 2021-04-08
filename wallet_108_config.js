@@ -1,1 +1,1 @@
-var mnemonic = "shallow weird planet else pull correct frog mask gallery seminar coin mirror";
+var mnemonic = "obey rural will proof chuckle gossip chuckle logic main dentist brown idle";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator category hub model initial nest rookie ugly upper ill summer cause";
+var mnemonic = "crisp open note siren lemon order cross cash school grant lumber shy";

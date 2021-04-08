@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo tissue sure orbit portion slight route gain chaos forget fatigue badge";
+var mnemonic = "swarm middle wall snap satisfy dinosaur win copper analyst lyrics update color";

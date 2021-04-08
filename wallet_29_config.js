@@ -1,1 +1,1 @@
-var mnemonic = "embark still milk bright ocean goat interest snack artefact ignore valve carpet";
+var mnemonic = "language print pair rotate combine trim upper proof more candy wine parent";

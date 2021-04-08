@@ -1,1 +1,1 @@
-var mnemonic = "ten damp custom admit agent grit ugly ensure wasp rotate dry body";
+var mnemonic = "order cotton common hip farm cruise foot useless boss accident roast foot";

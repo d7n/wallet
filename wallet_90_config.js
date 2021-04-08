@@ -1,1 +1,1 @@
-var mnemonic = "soda forum armed recall letter ribbon wish forward clay weasel mutual celery";
+var mnemonic = "critic consider supply spawn green crew obtain caught banner remember utility spoon";

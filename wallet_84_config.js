@@ -1,1 +1,1 @@
-var mnemonic = "buffalo valid train jar spring blast smile club stay swift law dolphin";
+var mnemonic = "metal crunch since already labor wall goose nut casual scout favorite hundred";

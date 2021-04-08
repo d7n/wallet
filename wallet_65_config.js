@@ -1,1 +1,1 @@
-var mnemonic = "similar volcano simple tragic work fish angle tomorrow miss olive scout shy";
+var mnemonic = "culture federal system dinner property album butter chimney have absent feature grape";

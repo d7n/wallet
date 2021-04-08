@@ -1,1 +1,1 @@
-var mnemonic = "fat virtual write buddy source medal empty elevator walk credit scorpion mixed";
+var mnemonic = "hamster drama large task rhythm hidden height noise ethics weather error hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "modify viable card wise snow cube truck vital glide few vintage illegal";
+var mnemonic = "scrub middle service must mix ill lawsuit boring fiction select ketchup patrol";

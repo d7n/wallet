@@ -1,1 +1,1 @@
-var mnemonic = "diet over cereal pledge drama eagle evidence permit winter lazy treat garment";
+var mnemonic = "kidney blanket palace fault matter table miss struggle ginger mercy ghost soul";

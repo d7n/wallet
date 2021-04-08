@@ -1,1 +1,1 @@
-var mnemonic = "caution author victory various gap tilt uniform upset skate earth caught sort";
+var mnemonic = "series theory increase approve service alone diesel nut struggle morning luggage fence";

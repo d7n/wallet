@@ -1,1 +1,1 @@
-var mnemonic = "theme label bamboo snake cable original laugh helmet light inside super quantum";
+var mnemonic = "social work increase protect royal tilt execute nuclear lecture hidden space range";

@@ -1,1 +1,1 @@
-var mnemonic = "escape accident host depend damage island hole tomorrow feature claw depart frost";
+var mnemonic = "common cruise pencil eye ceiling then avocado cover afford bomb else legal";

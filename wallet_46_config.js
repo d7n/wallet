@@ -1,1 +1,1 @@
-var mnemonic = "thing correct glance debate anger excuse drip island dust game eternal sense";
+var mnemonic = "pole envelope innocent cable engine parrot sound six immense move joy rookie";

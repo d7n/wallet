@@ -1,1 +1,1 @@
-var mnemonic = "core culture place check token all erosion sting judge black evidence spell";
+var mnemonic = "iron orchard casino dutch hire filter endless dress margin path melody photo";

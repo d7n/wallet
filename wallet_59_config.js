@@ -1,1 +1,1 @@
-var mnemonic = "few indicate defy ribbon wrestle farm seat purpose clown wait clever urban";
+var mnemonic = "shine pipe wrong ill sample great toss bus thank pizza fossil try";

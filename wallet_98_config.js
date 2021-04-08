@@ -1,1 +1,1 @@
-var mnemonic = "hero verb toilet defy vintage charge amateur price blue win access case";
+var mnemonic = "desk dirt brisk weekend include sense envelope anger august chair strong coral";

@@ -1,1 +1,1 @@
-var mnemonic = "intact feel island snack north milk toe aisle ice timber flavor neither";
+var mnemonic = "hold hover call grow grab bind skill render aunt table rigid school";

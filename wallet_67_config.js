@@ -1,1 +1,1 @@
-var mnemonic = "flat coil network broken audit artefact domain giant earth provide merge cinnamon";
+var mnemonic = "hover sure spin gym plate cream bicycle uniform sense marriage lizard govern";

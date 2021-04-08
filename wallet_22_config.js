@@ -1,1 +1,1 @@
-var mnemonic = "caution owner liberty since joke daughter hand soccer coral unaware sentence leisure";
+var mnemonic = "unfold coffee aware lucky rural area adult route olympic suggest grunt aunt";

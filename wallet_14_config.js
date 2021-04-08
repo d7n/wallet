@@ -1,1 +1,1 @@
-var mnemonic = "test hunt primary state setup cube scout drum honey liberty exchange someone";
+var mnemonic = "join build drama wrestle mouse slender act final rival win apart napkin";

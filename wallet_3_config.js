@@ -1,1 +1,1 @@
-var mnemonic = "drum vocal spread offer caught raise tattoo illegal merry result elegant adult";
+var mnemonic = "sister wild kid ritual palm smoke disease detect such double spring vivid";

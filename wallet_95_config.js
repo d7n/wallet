@@ -1,1 +1,1 @@
-var mnemonic = "muffin door tattoo electric ankle banana border sustain cook again pilot try";
+var mnemonic = "fence defy desert biology solution must gallery spin tell ozone debate erode";

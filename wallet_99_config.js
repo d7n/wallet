@@ -1,1 +1,1 @@
-var mnemonic = "pen start grab stone lend casino egg mechanic top happy awful leisure";
+var mnemonic = "balcony duck satoshi art struggle vacuum neither shadow state mammal eagle alarm";

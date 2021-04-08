@@ -1,1 +1,1 @@
-var mnemonic = "detail life armor bulb umbrella utility carpet naive nose network chest stone";
+var mnemonic = "view goddess again detect pool casual vital slight prefer tide spare bundle";

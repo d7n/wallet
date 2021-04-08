@@ -1,1 +1,1 @@
-var mnemonic = "sadness pyramid now wolf unusual rural direct box lake boy miss crowd";
+var mnemonic = "live sister garage fortune mandate laundry category casino parade chronic cattle maze";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd provide limb umbrella stool swing lucky arctic honey pass click solve";
+var mnemonic = "shell joke scissors mango visa rare tunnel hammer struggle exercise misery opera";

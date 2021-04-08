@@ -1,1 +1,1 @@
-var mnemonic = "rebuild upgrade stereo cattle famous canyon boost arrive stuff vital sense topic";
+var mnemonic = "honey code style drill pave decorate top grape must enroll faith organ";

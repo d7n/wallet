@@ -1,1 +1,1 @@
-var mnemonic = "pilot tide aware bid snow agree element lobster grape insect million solid";
+var mnemonic = "spring ready raccoon replace goat hair steel clap moral mouse follow dilemma";

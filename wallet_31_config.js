@@ -1,1 +1,1 @@
-var mnemonic = "illness vehicle peasant hand hockey misery large spike swamp silver cheese apology";
+var mnemonic = "cash ostrich vapor swallow fitness limit enlist today devote degree gesture drill";

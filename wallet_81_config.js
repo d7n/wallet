@@ -1,1 +1,1 @@
-var mnemonic = "crime beauty blue metal exotic object melt rib sword prevent burst loop";
+var mnemonic = "tonight owner limb combine tired video custom skill youth power mango light";

@@ -1,1 +1,1 @@
-var mnemonic = "frown evidence leave nest couch inhale melody believe leave weasel embrace fish";
+var mnemonic = "canoe valley salmon height snake undo worth follow cart impose boss price";

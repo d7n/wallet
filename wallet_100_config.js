@@ -1,1 +1,1 @@
-var mnemonic = "vital include face lunch owner you fetch gesture company circle wink burst";
+var mnemonic = "exhibit behave loyal accident creek three birth woman idea twice worth page";

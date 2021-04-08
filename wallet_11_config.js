@@ -1,1 +1,1 @@
-var mnemonic = "potato doctor learn manage parrot maid unlock correct hello frog nut cement";
+var mnemonic = "inquiry hedgehog company eagle trick weasel say coin brain talent quick asthma";

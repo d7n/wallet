@@ -1,1 +1,1 @@
-var mnemonic = "fame tobacco defense ready output forum winner lend access resist then pepper";
+var mnemonic = "trade patrol brand kiwi coach almost smoke spoon regret jelly fluid chest";

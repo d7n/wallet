@@ -1,1 +1,1 @@
-var mnemonic = "tuition squirrel mushroom clever make human normal menu impact similar affair ecology";
+var mnemonic = "wrong leave novel board tell size vibrant they over brown burger combine";

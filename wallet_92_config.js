@@ -1,1 +1,1 @@
-var mnemonic = "media tired neglect online all deposit scorpion purpose dignity elder pencil fringe";
+var mnemonic = "vacuum token turn dinner slab remind regular space space joy arena then";

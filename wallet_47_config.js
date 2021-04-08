@@ -1,1 +1,1 @@
-var mnemonic = "twin bracket ball cost abuse torch forum faculty opera naive need scan";
+var mnemonic = "total weekend keen educate sphere pool dawn firm lemon season health theme";
