@@ -1,1 +1,1 @@
-var mnemonic = "void parade arctic glad icon identify laundry lava taxi weapon bundle slight";
+var mnemonic = "leader outside roast live write latin perfect innocent science palace defy oval";

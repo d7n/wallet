@@ -1,1 +1,1 @@
-var mnemonic = "gap local brave kick burger task nose edit share exchange fox drum";
+var mnemonic = "acquire boss album final fall grit evidence assault parent hold drop rough";

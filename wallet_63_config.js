@@ -1,1 +1,1 @@
-var mnemonic = "twin orange opera error erode filter blur grief lawsuit ski bitter lounge";
+var mnemonic = "position north symbol enable legend where raven defense glass upper popular barrel";

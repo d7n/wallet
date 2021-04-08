@@ -1,1 +1,1 @@
-var mnemonic = "list assume give check involve record tool skirt reopen try alarm supreme";
+var mnemonic = "same wagon layer divert put work wash hammer genius palm wood hood";

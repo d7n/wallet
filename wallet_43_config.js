@@ -1,1 +1,1 @@
-var mnemonic = "laundry fence record need act blue purity parade height sponsor wine sponsor";
+var mnemonic = "arch early athlete tree danger catch coconut muffin witness age hospital nation";

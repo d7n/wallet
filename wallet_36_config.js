@@ -1,1 +1,1 @@
-var mnemonic = "street noise accident bubble text embrace safe sure cool ridge coil hybrid";
+var mnemonic = "ice pole learn share liberty whip fancy speed auto cat senior chair";

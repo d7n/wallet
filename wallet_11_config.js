@@ -1,1 +1,1 @@
-var mnemonic = "brand twelve nice bubble lion muffin insane cinnamon garden cruel invite mansion";
+var mnemonic = "universe hurdle you general soldier disagree envelope dress table napkin token crisp";

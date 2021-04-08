@@ -1,1 +1,1 @@
-var mnemonic = "other income vacuum spring season expire female bacon coast satoshi pull top";
+var mnemonic = "token help term dish route insect captain clown later clerk tool menu";

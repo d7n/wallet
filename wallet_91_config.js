@@ -1,1 +1,1 @@
-var mnemonic = "put knock result celery frost keen session elite visa romance under minute";
+var mnemonic = "plug category useless lend umbrella mind current fun spend timber vintage athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz silly rice arrow secret festival like weird tomorrow forget suggest awkward";
+var mnemonic = "release top brick inch apology muscle scale trust adult swap dad yard";

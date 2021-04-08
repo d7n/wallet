@@ -1,1 +1,1 @@
-var mnemonic = "range nasty method matrix merry actor grab draw satisfy hybrid work gate";
+var mnemonic = "omit tunnel rich entire coach blush rug betray orbit salad despair load";

@@ -1,1 +1,1 @@
-var mnemonic = "run creek will bread thunder duty output hard security drill motor true";
+var mnemonic = "dutch decrease extend curve sing kingdom useless amazing measure nation sibling else";

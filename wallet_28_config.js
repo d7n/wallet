@@ -1,1 +1,1 @@
-var mnemonic = "era iron bargain people glue protect more people nasty denial coil ranch";
+var mnemonic = "dinner hundred useless fire virtual front palm anger whisper verb oyster enlist";

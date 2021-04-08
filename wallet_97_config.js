@@ -1,1 +1,1 @@
-var mnemonic = "series illness crucial garbage smoke craft blossom common border host kidney usual";
+var mnemonic = "lunch useful benefit resemble globe come assault tattoo kidney cargo idle price";

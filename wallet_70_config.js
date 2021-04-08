@@ -1,1 +1,1 @@
-var mnemonic = "mad case useless custom project foil maximum leopard just wear voice aim";
+var mnemonic = "pet company daughter puppy blood jewel transfer common remember neither hybrid grain";

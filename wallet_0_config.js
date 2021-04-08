@@ -1,1 +1,1 @@
-var mnemonic = "either happy wrap monkey space parrot drop raccoon skull gasp universe victory";
+var mnemonic = "enforce lucky swarm gossip neck render achieve olive caution joke wagon exotic";

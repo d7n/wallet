@@ -1,1 +1,1 @@
-var mnemonic = "rural net marble thank era alcohol vehicle economy common great become bulk";
+var mnemonic = "coach disagree marine ankle panel donkey destroy drastic organ sudden capable code";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity level joy clock fit picnic corn river beyond first become output";
+var mnemonic = "inject allow harvest ball parade force certain sentence carbon rain blossom snake";

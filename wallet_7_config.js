@@ -1,1 +1,1 @@
-var mnemonic = "street wonder cabbage swim monitor glory boil dad lazy embrace juice sand";
+var mnemonic = "leader admit analyst trial bulk glue rescue firm purity much friend glue";

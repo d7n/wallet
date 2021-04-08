@@ -1,1 +1,1 @@
-var mnemonic = "someone right fresh zebra spare utility roof cart master brown square jealous";
+var mnemonic = "tank summer pool ketchup tilt yellow april enrich ribbon adult grief flock";

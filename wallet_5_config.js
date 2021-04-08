@@ -1,1 +1,1 @@
-var mnemonic = "raccoon weapon mail window match dose what mad crawl cloth plug curious";
+var mnemonic = "plate develop surround middle shed dinner icon much humble horn rocket armed";

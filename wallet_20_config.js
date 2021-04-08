@@ -1,1 +1,1 @@
-var mnemonic = "tool boss behave network sort almost comic grant phrase message cute shoe";
+var mnemonic = "ensure object tag oil winter jealous muscle ridge scene negative gossip abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "truth bargain drill order dutch gate divert pottery jazz work hobby obey";
+var mnemonic = "goddess bless add rapid dust about panel shaft hamster decorate lunch coil";

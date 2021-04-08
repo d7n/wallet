@@ -1,1 +1,1 @@
-var mnemonic = "dash chef sponsor company wrong job hood prison soup become december concert";
+var mnemonic = "unfold crazy trend ethics again pen dynamic chronic smile rebuild egg manage";

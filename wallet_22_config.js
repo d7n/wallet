@@ -1,1 +1,1 @@
-var mnemonic = "street empty dwarf ill scorpion carpet nominee safe open athlete leisure emotion";
+var mnemonic = "congress assist mimic ready soda this broccoli tilt define chief rival pact";

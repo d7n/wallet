@@ -1,1 +1,1 @@
-var mnemonic = "language clog silver vicious cave basic apple absorb knife depend chunk topple";
+var mnemonic = "tuition waste umbrella endless luxury click struggle update scout only field uncover";

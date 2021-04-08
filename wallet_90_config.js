@@ -1,1 +1,1 @@
-var mnemonic = "margin decline theory soldier stem predict tonight night valley potato cancel dash";
+var mnemonic = "unhappy shoe virtual tube fault veteran coyote wire october sudden anxiety yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder town rotate problem dwarf sad eye scheme tuition hockey shove level";
+var mnemonic = "indicate flee twin jungle bird wink dwarf trouble account review pupil master";

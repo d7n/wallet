@@ -1,1 +1,1 @@
-var mnemonic = "warm resist foster saddle patient rough describe employ illness bamboo buffalo possible";
+var mnemonic = "year device indoor disagree special bind what great tragic wrap sudden bamboo";

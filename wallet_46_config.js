@@ -1,1 +1,1 @@
-var mnemonic = "because pottery palm neither reject kangaroo nurse visa neglect simple air stable";
+var mnemonic = "awesome payment type artist october hip brown moment canvas depth leopard trick";

@@ -1,1 +1,1 @@
-var mnemonic = "vital menu hawk chronic obey father loud hard dose account doctor provide";
+var mnemonic = "resemble diesel cable produce must indicate room tree dust intact message spatial";

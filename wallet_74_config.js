@@ -1,1 +1,1 @@
-var mnemonic = "theory extra exact aisle cluster genre library because copper poet myself total";
+var mnemonic = "talk fringe program rookie suit pave palace service dutch drink vessel ghost";

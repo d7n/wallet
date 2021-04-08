@@ -1,1 +1,1 @@
-var mnemonic = "daughter category dust leopard first initial shadow decide kind original verb grief";
+var mnemonic = "blade interest abandon minimum boy trip belt gown blouse vast fat expose";

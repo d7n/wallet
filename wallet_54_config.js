@@ -1,1 +1,1 @@
-var mnemonic = "company forest camp road volume deliver nasty kangaroo cigar demand dizzy misery";
+var mnemonic = "tape rely clay seminar circle frozen direct reveal ring coil segment filter";

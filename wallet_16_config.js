@@ -1,1 +1,1 @@
-var mnemonic = "imitate arm breeze suggest logic hurry hope donate fresh tag rough poem";
+var mnemonic = "today actual rally believe naive evoke write mixture scrap march pond chuckle";

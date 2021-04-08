@@ -1,1 +1,1 @@
-var mnemonic = "bag hawk cart flip print motion sun ability wide rough door enact";
+var mnemonic = "jungle legend moon ski ostrich miss fresh path attitude video aerobic spread";

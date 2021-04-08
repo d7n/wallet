@@ -1,1 +1,1 @@
-var mnemonic = "snack off invest kid arrive view correct future liquid century history pilot";
+var mnemonic = "diamond such belt crouch world bacon honey trick message grow viable cupboard";

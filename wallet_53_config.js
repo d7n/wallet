@@ -1,1 +1,1 @@
-var mnemonic = "subject knee genuine abandon tobacco sad brass photo wasp spin jar snap";
+var mnemonic = "differ stove addict sting shrimp space midnight sibling design phone auto spend";

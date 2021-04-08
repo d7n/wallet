@@ -1,1 +1,1 @@
-var mnemonic = "humble miracle tide prevent dinner dolphin culture write lizard shallow trip render";
+var mnemonic = "enable dose winter rough man twin simple cattle trend afraid rain crystal";

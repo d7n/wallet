@@ -1,1 +1,1 @@
-var mnemonic = "mountain ticket eye jewel wrap race grace tomorrow episode attract place crumble";
+var mnemonic = "speak universe version kitchen wisdom during mango first tuna mention country cook";

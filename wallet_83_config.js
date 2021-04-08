@@ -1,1 +1,1 @@
-var mnemonic = "shell suit weasel entry shield exact slender balance civil wash shift special";
+var mnemonic = "liar cactus year expect citizen cheap learn frequent lemon naive exhibit satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome mail sister riot where uniform unique recall black child child large";
+var mnemonic = "wish gather glad much video human weasel wreck thrive olive top unveil";

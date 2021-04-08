@@ -1,1 +1,1 @@
-var mnemonic = "know proof you curve secret rain illegal update present milk orbit chat";
+var mnemonic = "candy script police reveal category sunny canal ring surround swim lyrics chef";

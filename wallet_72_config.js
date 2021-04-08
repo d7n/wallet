@@ -1,1 +1,1 @@
-var mnemonic = "shed school mother label either stage okay absorb spray piano unaware ring";
+var mnemonic = "struggle young morning vicious episode kidney vanish deny cover hotel cat legend";

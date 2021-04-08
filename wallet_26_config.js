@@ -1,1 +1,1 @@
-var mnemonic = "void vacuum pen member faculty demand fame decorate case supreme address deal";
+var mnemonic = "sample pyramid denial skull squeeze foam tired collect dynamic foster lamp whip";

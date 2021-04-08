@@ -1,1 +1,1 @@
-var mnemonic = "moon sibling demise boy verify dirt despair turn action wine feature cheese";
+var mnemonic = "cave much napkin math place entry chunk enforce affair inspire exact author";

@@ -1,1 +1,1 @@
-var mnemonic = "loan enrich cigar mad truck letter hobby end scorpion city palm love";
+var mnemonic = "desert lock syrup essence truck regular beach cable person mouse quality abandon";

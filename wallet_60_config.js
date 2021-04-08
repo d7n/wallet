@@ -1,1 +1,1 @@
-var mnemonic = "use connect split about sleep fun inhale symptom share smooth liquid doctor";
+var mnemonic = "wealth verb wing clarify one zone federal festival wall alien crunch broom";

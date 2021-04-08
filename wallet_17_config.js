@@ -1,1 +1,1 @@
-var mnemonic = "explain student poverty cruise merge speed believe universe gun teach wool say";
+var mnemonic = "identify leisure few sea area pet envelope scale elbow absurd shoulder allow";

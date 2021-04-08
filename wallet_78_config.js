@@ -1,1 +1,1 @@
-var mnemonic = "insane discover apology hazard place forum enemy crime grass wall candy forget";
+var mnemonic = "step column picture assault cargo wage hill wrestle nominee way stomach tree";

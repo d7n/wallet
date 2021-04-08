@@ -1,1 +1,1 @@
-var mnemonic = "busy alien loud pass snack truly giraffe gate indicate kind juice onion";
+var mnemonic = "illness this assume point juice carbon pigeon space outdoor crime hand electric";

@@ -1,1 +1,1 @@
-var mnemonic = "collect will garlic regular suit black mimic solid differ jazz soccer gravity";
+var mnemonic = "clerk oval weekend bachelor suit course oval fashion harbor draw surprise cake";

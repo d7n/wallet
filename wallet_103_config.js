@@ -1,1 +1,1 @@
-var mnemonic = "wrist galaxy vote morning resource trouble despair alone clinic theory second elevator";
+var mnemonic = "version rebuild drama era lobster inside canyon lawn pave daring term actress";

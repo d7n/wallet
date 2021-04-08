@@ -1,1 +1,1 @@
-var mnemonic = "segment inner hat town track share swamp nominee weird sunset pupil exist";
+var mnemonic = "future crawl hurdle music very found infant celery sing head group lounge";

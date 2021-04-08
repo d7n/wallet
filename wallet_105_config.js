@@ -1,1 +1,1 @@
-var mnemonic = "stadium host jar green pioneer shy devote awesome child frog best place";
+var mnemonic = "demand attend bleak harvest artefact chaos waste word figure yellow husband dinosaur";

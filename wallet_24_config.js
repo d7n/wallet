@@ -1,1 +1,1 @@
-var mnemonic = "scare soft any lizard ready scatter asthma bullet crime lawsuit very sadness";
+var mnemonic = "wait balcony mail awake anchor sadness alert fly kid toe slender album";

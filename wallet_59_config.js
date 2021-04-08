@@ -1,1 +1,1 @@
-var mnemonic = "exhaust veteran program machine theory unfair bag drift topic slogan armor earth";
+var mnemonic = "lizard sentence monkey staff wealth version embody napkin chest other friend visa";

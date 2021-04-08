@@ -1,1 +1,1 @@
-var mnemonic = "year merit buyer foster submit witness cram divorce sign upset donor foil";
+var mnemonic = "brand figure pear pistol galaxy feed wasp night celery velvet detect rescue";

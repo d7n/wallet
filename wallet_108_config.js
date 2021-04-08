@@ -1,1 +1,1 @@
-var mnemonic = "victory upon place into horse warfare pottery gravity help tomato half lake";
+var mnemonic = "table cluster sausage shop tortoise short true elephant cradle health brick pulse";

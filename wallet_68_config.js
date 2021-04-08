@@ -1,1 +1,1 @@
-var mnemonic = "never toddler buyer entry alpha hazard what citizen boost goat cactus club";
+var mnemonic = "merit stage consider vanish approve file hover rural rug egg chalk suggest";

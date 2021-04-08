@@ -1,1 +1,1 @@
-var mnemonic = "defy taxi apology napkin galaxy weekend half among fat total town current";
+var mnemonic = "camera blast kingdom seven clinic deny frozen deal used canvas cushion elder";

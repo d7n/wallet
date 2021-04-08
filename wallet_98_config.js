@@ -1,1 +1,1 @@
-var mnemonic = "luxury empty same entry hamster arrange planet group custom discover smile uphold";
+var mnemonic = "menu neglect trend sting tree ozone team front chronic purpose glass solution";

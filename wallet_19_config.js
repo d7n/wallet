@@ -1,1 +1,1 @@
-var mnemonic = "render opera matrix draw crack sun lunar father mechanic exhibit valve element";
+var mnemonic = "nose put wrist verify milk math movie admit camera essence garage poet";

@@ -1,1 +1,1 @@
-var mnemonic = "half pizza silent minute similar gas motor system kiwi move embark bacon";
+var mnemonic = "color olympic index fiber song grow brisk train glass reduce barely rate";

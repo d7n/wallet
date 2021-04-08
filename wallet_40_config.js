@@ -1,1 +1,1 @@
-var mnemonic = "tooth alley gather stem upgrade settle spatial toward never noise baby deer";
+var mnemonic = "develop fence easy ski suggest either uncover increase pistol drill rose load";

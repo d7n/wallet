@@ -1,1 +1,1 @@
-var mnemonic = "flock orchard always major marriage permit target lady hurry genius purchase spawn";
+var mnemonic = "evidence room vague useless issue walk insect trap nature swear license table";

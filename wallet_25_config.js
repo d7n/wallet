@@ -1,1 +1,1 @@
-var mnemonic = "useless fury wonder bus celery duck dinosaur angle assist alley holiday daring";
+var mnemonic = "monitor library six outer virtual venture bone exhaust law actor open portion";

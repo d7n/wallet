@@ -1,1 +1,1 @@
-var mnemonic = "addict tourist census seat canal lottery reflect roast cactus strategy crush army";
+var mnemonic = "girl popular nominee effort filter soap frozen anchor alert adult duty street";

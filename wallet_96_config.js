@@ -1,1 +1,1 @@
-var mnemonic = "reduce august balcony major swap erupt fluid expose exotic wheat train second";
+var mnemonic = "jealous ski upon trim hill payment version chest inside buffalo decline fancy";

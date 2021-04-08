@@ -1,1 +1,1 @@
-var mnemonic = "swallow stamp cradle enter doll arrow expire lottery also chuckle figure stuff";
+var mnemonic = "end poet normal trip feel clock laundry onion hover bacon coil pupil";

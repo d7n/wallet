@@ -1,1 +1,1 @@
-var mnemonic = "honey nut either town fabric laugh riot file chunk assume real blast";
+var mnemonic = "razor lab allow win share chase crumble leaf chimney motion either glow";

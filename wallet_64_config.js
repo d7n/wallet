@@ -1,1 +1,1 @@
-var mnemonic = "whale present chapter key review senior legal leader way protect fade success";
+var mnemonic = "peanut food love release spirit recycle ripple typical hammer veteran sister spray";

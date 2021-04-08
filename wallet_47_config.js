@@ -1,1 +1,1 @@
-var mnemonic = "divorce broom dwarf prison tuna congress please bonus welcome hollow clip gossip";
+var mnemonic = "scout myself orchard sauce hamster assault print apart ostrich globe expect injury";

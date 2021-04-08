@@ -1,1 +1,1 @@
-var mnemonic = "else license history spray load hidden come hammer force west inhale body";
+var mnemonic = "bright rival castle absent output mother meadow tail dinosaur mention similar width";

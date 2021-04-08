@@ -1,1 +1,1 @@
-var mnemonic = "nature horse enemy action cable ordinary spend differ sentence start team original";
+var mnemonic = "upon title wedding garage jump elegant gold novel stumble outside doll find";

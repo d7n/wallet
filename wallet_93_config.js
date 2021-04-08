@@ -1,1 +1,1 @@
-var mnemonic = "churn vote novel mercy one network salmon slot abstract salute grape group";
+var mnemonic = "sure budget like essence divide harvest reduce exercise beach edit gym practice";

@@ -1,1 +1,1 @@
-var mnemonic = "face coral scout spike photo ethics observe work tennis gym oak sorry";
+var mnemonic = "maximum pig gym burst bronze risk empty cloth zero end hunt tent";

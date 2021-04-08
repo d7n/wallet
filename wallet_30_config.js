@@ -1,1 +1,1 @@
-var mnemonic = "man announce foil wolf never unknown brother abuse speak style life guitar";
+var mnemonic = "marble tenant orbit seek already deal average trim baby right exhaust marble";

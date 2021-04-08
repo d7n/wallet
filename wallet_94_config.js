@@ -1,1 +1,1 @@
-var mnemonic = "session trap priority elephant ancient envelope execute topic addict delay planet visit";
+var mnemonic = "stumble tumble random asset often stone sample animal motion play coffee laptop";

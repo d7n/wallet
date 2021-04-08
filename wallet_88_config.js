@@ -1,1 +1,1 @@
-var mnemonic = "refuse merge artist region trigger table flee feed floor bean upgrade fiction";
+var mnemonic = "document frog pulse chapter confirm tell twelve scissors seek later priority bone";

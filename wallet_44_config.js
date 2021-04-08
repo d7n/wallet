@@ -1,1 +1,1 @@
-var mnemonic = "share define mixed slide shop live field choose daring license drama tank";
+var mnemonic = "term chimney sand dentist radar dizzy term comic glad aim clown right";

@@ -1,1 +1,1 @@
-var mnemonic = "yard found pole lizard concert rather hockey junk stay word bicycle radio";
+var mnemonic = "during acquire jeans carpet shadow carpet clever maid screen lake hammer mystery";

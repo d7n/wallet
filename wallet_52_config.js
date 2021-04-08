@@ -1,1 +1,1 @@
-var mnemonic = "ask gospel poverty gossip kit skirt fan begin play twenty version rally";
+var mnemonic = "prize reason nest riot prepare document cinnamon pistol once isolate live clock";

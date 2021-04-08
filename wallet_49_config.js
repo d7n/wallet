@@ -1,1 +1,1 @@
-var mnemonic = "visa timber mix disorder rough path intact tuna general thrive merry note";
+var mnemonic = "render detect lawn local term theory reunion sponsor judge number verb rack";

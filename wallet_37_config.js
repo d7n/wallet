@@ -1,1 +1,1 @@
-var mnemonic = "reject exhaust actor evoke arctic hamster follow true ahead since theory area";
+var mnemonic = "various appear sing submit adjust mix pencil small various blame reopen dwarf";

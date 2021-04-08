@@ -1,1 +1,1 @@
-var mnemonic = "analyst hood chest february convince bitter hover course suffer weather sweet lens";
+var mnemonic = "design board abstract volume replace current fold impact crowd arena ride warfare";

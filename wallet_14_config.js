@@ -1,1 +1,1 @@
-var mnemonic = "flower moon comfort desert cake timber country ticket reunion castle unknown orchard";
+var mnemonic = "earn cause train vote tuna scatter clap three project pride salmon expect";

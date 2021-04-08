@@ -1,1 +1,1 @@
-var mnemonic = "typical video federal repair rice stuff twelve foster chief receive grab tattoo";
+var mnemonic = "glory run love bicycle fever that turtle business health embrace husband defense";
