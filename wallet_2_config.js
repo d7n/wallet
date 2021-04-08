@@ -1,1 +1,1 @@
-var mnemonic = "orchard arctic sail ship extend tag example duty that team festival shield";
+var mnemonic = "unknown dumb frequent vehicle laugh anchor oil vague cargo rifle trend shrug";

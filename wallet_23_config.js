@@ -1,1 +1,1 @@
-var mnemonic = "motion amused split purse give hybrid kit victory pass crucial mango engage";
+var mnemonic = "usual insect cupboard valid cool reflect frozen maze matter fitness poem sample";

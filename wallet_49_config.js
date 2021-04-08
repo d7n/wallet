@@ -1,1 +1,1 @@
-var mnemonic = "invest rotate artefact bitter media urge uniform bamboo allow team under legal";
+var mnemonic = "mountain staff describe trim slot face stable lecture main silver broken toast";

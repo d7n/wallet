@@ -1,1 +1,1 @@
-var mnemonic = "want inspire pass live gentle order citizen humor cigar exclude zebra sound";
+var mnemonic = "wait struggle hope pizza vital access peasant hurry now prepare tool month";

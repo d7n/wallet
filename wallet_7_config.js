@@ -1,1 +1,1 @@
-var mnemonic = "calm shuffle tortoise ostrich cake oxygen cupboard jazz trigger elevator blade clock";
+var mnemonic = "rifle error mango jelly shoot walnut ignore pig steak main purchase diagram";

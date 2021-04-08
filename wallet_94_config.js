@@ -1,1 +1,1 @@
-var mnemonic = "pull book play indoor penalty aunt spread achieve inmate medal bullet crisp";
+var mnemonic = "farm ramp ahead castle else match energy head network recycle finger voyage";

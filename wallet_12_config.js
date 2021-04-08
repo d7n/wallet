@@ -1,1 +1,1 @@
-var mnemonic = "abuse detail curious salt settle gaze betray expose taste usage robust scatter";
+var mnemonic = "drama toddler close rate pretty addict disease charge foot rate tobacco upper";

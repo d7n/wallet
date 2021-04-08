@@ -1,1 +1,1 @@
-var mnemonic = "tumble unknown ankle icon wide salute lock opinion label atom donkey little";
+var mnemonic = "crunch spend betray pear carpet embody act segment copper shift diamond cereal";

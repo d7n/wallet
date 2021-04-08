@@ -1,1 +1,1 @@
-var mnemonic = "festival broken galaxy wedding way borrow jelly glimpse metal leave tower retire";
+var mnemonic = "shove settle narrow tennis usage inform glare junior slow coil toast head";

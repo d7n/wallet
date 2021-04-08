@@ -1,1 +1,1 @@
-var mnemonic = "limb among gentle busy brisk high bubble swap sausage donate retire maid";
+var mnemonic = "canyon present frozen burger submit wife flavor urban chief enroll replace blanket";

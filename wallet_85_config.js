@@ -1,1 +1,1 @@
-var mnemonic = "amused tree crawl enter theory body teach mail note inherit twelve empower";
+var mnemonic = "pottery decrease gorilla fire hen decide limit actor wing program doll dance";

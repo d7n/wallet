@@ -1,1 +1,1 @@
-var mnemonic = "recycle meat park violin bonus plate naive slot version write adult grunt";
+var mnemonic = "attract sadness city twist cheese media afraid december index shallow traffic maid";

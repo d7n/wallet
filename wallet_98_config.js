@@ -1,1 +1,1 @@
-var mnemonic = "steel hazard giraffe woman pelican wise program process tennis cheese arrest six";
+var mnemonic = "script cinnamon flash labor shine term goat rifle relax table wolf clean";

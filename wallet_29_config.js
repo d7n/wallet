@@ -1,1 +1,1 @@
-var mnemonic = "hip million bomb knock behave then inside palace grant mix legal figure";
+var mnemonic = "reward absent thumb tell replace uncover intact spray image physical humor rent";

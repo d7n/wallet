@@ -1,1 +1,1 @@
-var mnemonic = "wire dice destroy argue gallery address cable slice gesture rent leader lawn";
+var mnemonic = "carbon stumble joke recall merit search squirrel whisper butter dinner hub harbor";

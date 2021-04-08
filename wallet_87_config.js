@@ -1,1 +1,1 @@
-var mnemonic = "tackle culture produce universe guess display symbol betray endorse open exist birth";
+var mnemonic = "foot weird ocean find crime harbor vital exact measure regular slender bright";

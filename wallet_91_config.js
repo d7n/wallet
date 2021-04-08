@@ -1,1 +1,1 @@
-var mnemonic = "isolate farm harvest they tone leopard slender kitten obscure around brisk push";
+var mnemonic = "satisfy broken limit episode dizzy spell odor burger dinosaur cook moon wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "satisfy umbrella exclude hurt duck glass notable song century supply rural harbor";
+var mnemonic = "army wide know struggle rival force impulse spread hard salon diamond piano";

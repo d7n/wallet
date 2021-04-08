@@ -1,1 +1,1 @@
-var mnemonic = "pill simple spoil churn sight pencil square law swap prison noise correct";
+var mnemonic = "exclude champion bread horse clap blue pony tattoo because photo match round";

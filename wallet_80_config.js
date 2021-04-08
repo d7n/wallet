@@ -1,1 +1,1 @@
-var mnemonic = "fever column scorpion road dream slush urban sense bean admit transfer caution";
+var mnemonic = "winter little prevent know harbor glow fragile error dragon kangaroo cheese void";

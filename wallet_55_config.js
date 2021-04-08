@@ -1,1 +1,1 @@
-var mnemonic = "noodle color hub fatigue example kidney viable topple bitter dream off swarm";
+var mnemonic = "evil very metal tray fly primary parade rural measure truly miracle mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "type dice summer brave flee gesture twist cannon music yellow night lift";
+var mnemonic = "unlock example marine lonely artist post weird match frog ask normal stable";

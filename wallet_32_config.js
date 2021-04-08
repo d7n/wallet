@@ -1,1 +1,1 @@
-var mnemonic = "combine door before weekend happy pistol cereal reward grief easily wasp remove";
+var mnemonic = "defense pretty wink shine truth surface table blue crowd advice solar occur";

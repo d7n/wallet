@@ -1,1 +1,1 @@
-var mnemonic = "exchange flower reject ice undo castle venture garden exit theme mutual ski";
+var mnemonic = "denial anxiety element found rapid ecology hen nut gain learn egg sad";

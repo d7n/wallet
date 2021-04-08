@@ -1,1 +1,1 @@
-var mnemonic = "capable left decide agent human mosquito shiver proof success walnut mother emotion";
+var mnemonic = "return account food useless share trap forward exotic offer enough spell ozone";

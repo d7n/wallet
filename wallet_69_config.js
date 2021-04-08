@@ -1,1 +1,1 @@
-var mnemonic = "clip prison inherit puppy record enlist tackle correct toe love stairs melt";
+var mnemonic = "air dog oil debris divert civil address capable repair work height sport";

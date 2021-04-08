@@ -1,1 +1,1 @@
-var mnemonic = "gossip ready mule cancel bronze web analyst uphold crouch goat virus bonus";
+var mnemonic = "conduct okay rapid dial radio monkey trust large nature rabbit problem shove";

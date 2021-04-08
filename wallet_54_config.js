@@ -1,1 +1,1 @@
-var mnemonic = "catalog dust pottery donate run drink ignore note toy machine wedding mention";
+var mnemonic = "eyebrow shiver foil dismiss honey forum minimum rude pelican fine grief slow";

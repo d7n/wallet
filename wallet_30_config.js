@@ -1,1 +1,1 @@
-var mnemonic = "first rhythm egg input item cook list smooth trust outside keen front";
+var mnemonic = "major average army kiwi end man hybrid kit man tackle vague job";

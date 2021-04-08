@@ -1,1 +1,1 @@
-var mnemonic = "device atom choose enhance paper car clean gym dentist spider quick alpha";
+var mnemonic = "goose soda garage butter strong thank long lazy popular harbor segment neglect";

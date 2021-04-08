@@ -1,1 +1,1 @@
-var mnemonic = "surround master almost another check another merry idle weasel jungle spawn write";
+var mnemonic = "captain choice describe duck decrease wine oblige pudding farm kind neck nest";

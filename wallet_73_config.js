@@ -1,1 +1,1 @@
-var mnemonic = "kitchen avoid stick candy twist track scare promote jar trend puppy math";
+var mnemonic = "diary frog wing hat return royal expire grocery grab notable service gown";

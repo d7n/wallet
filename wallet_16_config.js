@@ -1,1 +1,1 @@
-var mnemonic = "short clinic orient thumb pyramid solar session false suffer weekend banana cricket";
+var mnemonic = "paper genuine shoot popular grape mansion silk health squirrel library art under";

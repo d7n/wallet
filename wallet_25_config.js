@@ -1,1 +1,1 @@
-var mnemonic = "advice gift relief nuclear scissors giant crack grace file profit coyote host";
+var mnemonic = "never lend remove rural voice pistol sleep rural blue sausage poem strike";

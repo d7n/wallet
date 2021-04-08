@@ -1,1 +1,1 @@
-var mnemonic = "someone brand gravity obvious custom job smart fresh video cinnamon fringe repair";
+var mnemonic = "smooth feel diary exit blush lizard fly main fancy ahead sudden taxi";

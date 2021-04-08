@@ -1,1 +1,1 @@
-var mnemonic = "actor super fantasy pony below extra tube unique wisdom virus dawn region";
+var mnemonic = "own proof bulk easy sauce thunder supply plastic inject curtain ramp paper";

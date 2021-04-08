@@ -1,1 +1,1 @@
-var mnemonic = "popular virus nuclear swift worry forward spider nation hero sudden quit legend";
+var mnemonic = "warm explain used champion enemy ecology another birth amateur desert excite glare";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder drink essay crater ozone gadget dune wine minimum patient random armed";
+var mnemonic = "agent banner globe guilt protect month away abandon bright giant trade muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "proof lazy destroy oyster lunch quit turkey reward spend cream borrow pistol";
+var mnemonic = "blur banner scatter fee camp lava foil grass slam iron glide evoke";

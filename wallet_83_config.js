@@ -1,1 +1,1 @@
-var mnemonic = "daring fault promote right verify roast member combine private agent endorse hover";
+var mnemonic = "guess sniff cry exile coconut ostrich answer truck acid thought feel movie";

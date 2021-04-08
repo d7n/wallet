@@ -1,1 +1,1 @@
-var mnemonic = "pitch hawk news actress light reduce unusual inflict tower lonely secret cousin";
+var mnemonic = "manage similar divert satisfy true opera volcano lottery suggest bid captain ecology";

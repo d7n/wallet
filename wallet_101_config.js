@@ -1,1 +1,1 @@
-var mnemonic = "fossil marble drift horse panda rain skirt animal aware response artefact enable";
+var mnemonic = "torch wonder pepper finger gate symptom scrub final leisure capital document local";

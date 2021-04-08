@@ -1,1 +1,1 @@
-var mnemonic = "abandon clever fresh candy breeze ridge jungle glory kitten coast half ticket";
+var mnemonic = "oblige venture title voice syrup desk curve race route siege cube tongue";

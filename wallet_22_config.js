@@ -1,1 +1,1 @@
-var mnemonic = "usage deliver bus genuine school guide inspire vault bread play emotion fitness";
+var mnemonic = "moon taxi category again absent sweet honey convince mercy jacket young tool";

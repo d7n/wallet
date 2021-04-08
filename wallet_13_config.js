@@ -1,1 +1,1 @@
-var mnemonic = "surprise reunion suggest elite fresh unable double diet cycle describe circle journey";
+var mnemonic = "album surface jump width pilot seminar discover mad word assist wagon remind";

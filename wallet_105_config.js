@@ -1,1 +1,1 @@
-var mnemonic = "act unlock mechanic sample modify sort cattle vehicle garbage choose fashion monster";
+var mnemonic = "panic hip theory laptop empty jeans someone pet silk labor cinnamon potato";

@@ -1,1 +1,1 @@
-var mnemonic = "thought problem north swing peasant write super tool electric member decorate code";
+var mnemonic = "scrub benefit hurt off spirit market dumb forest agent senior success inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "cat load finish lonely theory dog scan scale old daughter pattern tell";
+var mnemonic = "like pepper erode goddess token slim defy office labor narrow abandon palace";

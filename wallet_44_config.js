@@ -1,1 +1,1 @@
-var mnemonic = "tackle foam tower defense detail original episode dismiss index certain win shadow";
+var mnemonic = "ribbon senior return spatial churn wasp story situate parent submit hen venue";

@@ -1,1 +1,1 @@
-var mnemonic = "pear play nut effort hospital indicate add act sport physical climb rhythm";
+var mnemonic = "upon mail piano episode fiscal victory hat flag adapt embody wait alone";

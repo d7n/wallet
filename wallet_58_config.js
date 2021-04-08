@@ -1,1 +1,1 @@
-var mnemonic = "junior powder you crucial beyond image enough boost machine gallery spot young";
+var mnemonic = "minimum twelve dose agent desert sand stumble country acoustic tank increase dignity";

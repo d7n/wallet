@@ -1,1 +1,1 @@
-var mnemonic = "suggest decide junk payment crater rich chase rival scatter method inflict setup";
+var mnemonic = "scissors success orange shaft vital phrase hat crack maximum tower uncle film";

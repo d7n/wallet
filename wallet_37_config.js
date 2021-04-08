@@ -1,1 +1,1 @@
-var mnemonic = "check valley great nice olympic catch people urban network bless mechanic wedding";
+var mnemonic = "tray burden future humor aunt chicken hospital this start can achieve upset";

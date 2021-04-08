@@ -1,1 +1,1 @@
-var mnemonic = "cradle often bicycle shove broken shuffle mobile cactus sister rocket average mercy";
+var mnemonic = "seminar hamster slim drum agent health iron jaguar winter blue truly remind";

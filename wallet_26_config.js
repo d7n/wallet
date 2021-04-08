@@ -1,1 +1,1 @@
-var mnemonic = "pact pass region wrestle since busy shallow transfer heart patch author mask";
+var mnemonic = "movie owner engage estate produce tennis will balcony gravity ill give reopen";

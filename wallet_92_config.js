@@ -1,1 +1,1 @@
-var mnemonic = "tuition north main page bone slide journey wine ordinary dish ready language";
+var mnemonic = "matter welcome cute immense blouse hungry apart display analyst south decorate entry";

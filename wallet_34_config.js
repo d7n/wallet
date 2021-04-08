@@ -1,1 +1,1 @@
-var mnemonic = "clock major depart clarify nurse hamster hello milk orchard marriage senior discover";
+var mnemonic = "session congress primary lens arrange speed taxi robot adapt top increase gate";

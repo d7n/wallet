@@ -1,1 +1,1 @@
-var mnemonic = "wink hazard tank express edit dose ketchup fog outer toy great forget";
+var mnemonic = "vivid property praise sick cook purity faculty base half inhale drive flame";

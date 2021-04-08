@@ -1,1 +1,1 @@
-var mnemonic = "year cabbage cry shift piano option hundred ahead beyond start depend fetch";
+var mnemonic = "reason comfort arrive exhaust walnut icon sustain latin orphan yellow what bleak";

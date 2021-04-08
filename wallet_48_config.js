@@ -1,1 +1,1 @@
-var mnemonic = "student scene much immune detail slight tortoise chalk grain urge crawl about";
+var mnemonic = "west practice crumble whale right swift critic pet just easily elegant onion";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony slow face parade gloom tent cloud together around shell shoot faculty";
+var mnemonic = "swear throw base velvet price circle jump mechanic keep salt lion photo";

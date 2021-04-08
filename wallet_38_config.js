@@ -1,1 +1,1 @@
-var mnemonic = "keen page shy analyst siren track dentist hybrid fold good surround suspect";
+var mnemonic = "skill tunnel attract dignity illegal comfort slight jelly mixed couple embody access";

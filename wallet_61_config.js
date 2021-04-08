@@ -1,1 +1,1 @@
-var mnemonic = "blood addict view rate mind alcohol crater obvious scout capital reduce excite";
+var mnemonic = "claw sweet leg vehicle spider orbit cargo supply cash banana another casino";

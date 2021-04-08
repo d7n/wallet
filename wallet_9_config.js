@@ -1,1 +1,1 @@
-var mnemonic = "awkward orient latin again symptom marble spy arm cigar token brass picture";
+var mnemonic = "funny wide taxi market frog crisp talk captain kitten predict smart home";

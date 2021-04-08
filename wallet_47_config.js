@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pole struggle blast absorb anxiety road silk need snow demise robust";
+var mnemonic = "time offer review defy typical square broken town crop leader model fork";

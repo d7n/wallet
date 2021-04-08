@@ -1,1 +1,1 @@
-var mnemonic = "need trigger song boss add fame pretty skin symbol shrimp wrist apple";
+var mnemonic = "dress oblige sleep digital video aware romance industry agree program rally boat";

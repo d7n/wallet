@@ -1,1 +1,1 @@
-var mnemonic = "race park lend tent castle magnet pole gas subway rail sausage amount";
+var mnemonic = "lecture virtual evidence pill dream asset edge office jacket silly topic slogan";

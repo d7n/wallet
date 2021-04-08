@@ -1,1 +1,1 @@
-var mnemonic = "grape witness helmet glass ivory thrive circle grant rely option bullet borrow";
+var mnemonic = "absent mountain margin debris ramp ignore shrug maid unique skirt image crystal";

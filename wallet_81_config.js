@@ -1,1 +1,1 @@
-var mnemonic = "endorse verb potato dawn jeans caught else person smart oblige gain run";
+var mnemonic = "actual jealous inmate attack flip document ritual awesome rely happy put unusual";

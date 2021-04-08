@@ -1,1 +1,1 @@
-var mnemonic = "doll impose autumn estate post unaware celery accident north sense dog sample";
+var mnemonic = "hazard subway army hedgehog chase area assume cliff keen suffer hope welcome";

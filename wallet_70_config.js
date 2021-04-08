@@ -1,1 +1,1 @@
-var mnemonic = "dirt dwarf erode speed sponsor wrist pepper recall rack media timber umbrella";
+var mnemonic = "iron apart raise very very simple animal soul lonely review castle smooth";

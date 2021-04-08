@@ -1,1 +1,1 @@
-var mnemonic = "discover version violin soft document tone pond company choice year film hidden";
+var mnemonic = "hobby adjust tumble media tray public wealth want unfold defy various reward";

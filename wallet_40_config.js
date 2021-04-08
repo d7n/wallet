@@ -1,1 +1,1 @@
-var mnemonic = "estate path already notable invest acid wheel mushroom rate venture album cook";
+var mnemonic = "title airport pilot shy want van fold abuse adapt together huge child";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle recycle robot buddy giggle social boil grief orient curtain shell fat";
+var mnemonic = "arrive group phone polar immense draw wood enrich play cause hold melt";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle network salmon draw next doll sniff magnet snack turtle region vicious";
+var mnemonic = "wolf option relief easily air glad cat insane right furnace right connect";

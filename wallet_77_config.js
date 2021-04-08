@@ -1,1 +1,1 @@
-var mnemonic = "truth manage grocery bicycle prosper run age outside faith sleep this ketchup";
+var mnemonic = "senior more first change loud reflect arena family cycle window slush dizzy";

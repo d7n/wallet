@@ -1,1 +1,1 @@
-var mnemonic = "congress wood curve latin clarify item city opera imitate february stand remember";
+var mnemonic = "estate diesel label burden donkey budget theory suspect public bring fun stadium";

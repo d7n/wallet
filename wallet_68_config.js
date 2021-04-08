@@ -1,1 +1,1 @@
-var mnemonic = "repair funny fragile start chair noise inject raccoon salad since myth sun";
+var mnemonic = "blind border coach pluck smart icon domain have brass benefit open tortoise";

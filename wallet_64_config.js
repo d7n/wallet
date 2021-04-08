@@ -1,1 +1,1 @@
-var mnemonic = "hello company oblige cave mean hire attitude easy lumber quit hurt ensure";
+var mnemonic = "eight ordinary elbow mechanic camera smooth brain danger coach kitchen dish clinic";

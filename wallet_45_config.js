@@ -1,1 +1,1 @@
-var mnemonic = "check space magic stove measure mixture purchase settle major boss brick aim";
+var mnemonic = "grid month weather mirror acid increase client token evidence ginger window ski";

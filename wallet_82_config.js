@@ -1,1 +1,1 @@
-var mnemonic = "inform pizza blind allow shoot baby awkward junior occur insect bench evidence";
+var mnemonic = "rely strategy penalty rocket lift force now kiss busy ride excess virus";

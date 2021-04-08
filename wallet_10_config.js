@@ -1,1 +1,1 @@
-var mnemonic = "filter smile solution anchor quarter solar slide eagle team lobster promote scheme";
+var mnemonic = "under feature forest oak theme crawl curtain atom lemon damp nerve knife";

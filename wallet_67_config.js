@@ -1,1 +1,1 @@
-var mnemonic = "spoon vivid quick person drama approve mountain ridge behave tomato stumble sport";
+var mnemonic = "claw story broken assault caught tourist strong present organ lens unknown quick";

@@ -1,1 +1,1 @@
-var mnemonic = "point attract busy vicious food another mirror empty speed believe undo video";
+var mnemonic = "water sponsor circle relief brain wave burden sport east relax perfect camera";

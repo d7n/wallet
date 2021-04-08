@@ -1,1 +1,1 @@
-var mnemonic = "point shove emerge solid suggest board castle believe destroy saddle hurdle tunnel";
+var mnemonic = "subway waste claim face skate such thought welcome phrase aunt era hunt";

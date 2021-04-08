@@ -1,1 +1,1 @@
-var mnemonic = "hole tool scorpion pause laptop seek habit ritual key violin tumble sail";
+var mnemonic = "shuffle churn plunge flip tone upgrade worry grocery major rubber october thrive";

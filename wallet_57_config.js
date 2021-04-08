@@ -1,1 +1,1 @@
-var mnemonic = "goose pink story together front fame play warrior seat open tomorrow chimney";
+var mnemonic = "pelican reflect ceiling sustain evidence item denial mouse bitter coconut couch use";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry gather spell note novel make analyst plastic amazing flee chicken thunder";
+var mnemonic = "keen spice void double very enact cancel sea duty deny risk mushroom";
