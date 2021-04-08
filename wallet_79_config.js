@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fork afraid champion demand clay artist screen earn term midnight marine";
+var mnemonic = "prosper engine script process brick round spoon poverty column gather balcony speak";

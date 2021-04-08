@@ -1,1 +1,1 @@
-var mnemonic = "lyrics knock flight educate immune jungle tennis shaft peanut drum turkey broom";
+var mnemonic = "dragon forward cover yard give walk story right exhibit group upset faith";

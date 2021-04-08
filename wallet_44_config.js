@@ -1,1 +1,1 @@
-var mnemonic = "invite village copy bitter embrace second tourist warm observe chat ordinary sudden";
+var mnemonic = "have buyer symbol reject faith ozone barrel fresh welcome grit kind amount";

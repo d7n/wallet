@@ -1,1 +1,1 @@
-var mnemonic = "desk buffalo source tornado you beauty vendor outside speak crunch panda carry";
+var mnemonic = "casino pair gas share explain slogan correct index party isolate series poem";

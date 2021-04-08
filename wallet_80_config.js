@@ -1,1 +1,1 @@
-var mnemonic = "century struggle smart inch kangaroo settle card gas survey dizzy snack below";
+var mnemonic = "marble bird apology nut example hen phrase latin purchase expose eternal valve";

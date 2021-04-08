@@ -1,1 +1,1 @@
-var mnemonic = "sunset story potato alarm pyramid rescue inch shy science ribbon usual behave";
+var mnemonic = "below patient army box now hamster maze regret scheme sound weird cushion";

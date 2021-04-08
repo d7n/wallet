@@ -1,1 +1,1 @@
-var mnemonic = "empty change shed among elbow view travel gift taxi scorpion sense imitate";
+var mnemonic = "drive hazard kangaroo vague merry lemon tunnel twin hen sport coral tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "vibrant canal cargo drive popular beach media devote output acid share electric";
+var mnemonic = "sponsor agree violin nation twin during oppose twenty tell brave armor hair";

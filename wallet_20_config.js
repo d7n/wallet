@@ -1,1 +1,1 @@
-var mnemonic = "tiger view sound brand index vessel accident bronze track mosquito enact walnut";
+var mnemonic = "favorite calm genius duty stereo price crumble cause that blade margin above";

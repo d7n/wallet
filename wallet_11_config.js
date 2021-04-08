@@ -1,1 +1,1 @@
-var mnemonic = "weasel know make brisk frozen film immune brain element interest shine snack";
+var mnemonic = "hockey angry ritual clog grain crystal kidney maze bag daughter bright when";

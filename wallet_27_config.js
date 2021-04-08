@@ -1,1 +1,1 @@
-var mnemonic = "pupil garlic typical spike health soft vicious pulse shed real guitar inhale";
+var mnemonic = "series robot pen tag issue talent dirt door crash flip mixed fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "latin ice senior such cart witness motion inside remove marine much organ";
+var mnemonic = "owner duck remain wool depend garlic mesh lab room trim hollow breeze";

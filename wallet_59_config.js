@@ -1,1 +1,1 @@
-var mnemonic = "clump sure lock purity hair march vacant penalty cinnamon dwarf stone clump";
+var mnemonic = "hurt nerve good cereal develop cannon ugly carry cereal clean exit file";

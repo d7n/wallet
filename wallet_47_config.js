@@ -1,1 +1,1 @@
-var mnemonic = "enact intact truck hundred cousin hazard eyebrow pitch produce attack clay survey";
+var mnemonic = "run hold mad ketchup evil weird come february better critic census topic";

@@ -1,1 +1,1 @@
-var mnemonic = "install endorse opinion purpose mean process color mimic scare gold payment unknown";
+var mnemonic = "habit slab river educate device canal paper intact catalog differ comic actor";

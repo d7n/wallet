@@ -1,1 +1,1 @@
-var mnemonic = "puzzle play neutral weapon hole weasel pull often primary orange cattle series";
+var mnemonic = "token question finish breeze fringe tower twice true state knock army siren";

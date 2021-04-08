@@ -1,1 +1,1 @@
-var mnemonic = "sock reason wage since trend nasty shield prevent profit junk card flee";
+var mnemonic = "kitchen seat large violin until arrest deny maid defense caught resemble nominee";

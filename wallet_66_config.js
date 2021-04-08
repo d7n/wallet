@@ -1,1 +1,1 @@
-var mnemonic = "theme spike train inmate egg couple idea slim brisk someone material blur";
+var mnemonic = "slow orphan control tourist shift camera never brush sausage luggage viable home";

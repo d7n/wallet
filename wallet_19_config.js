@@ -1,1 +1,1 @@
-var mnemonic = "ahead mean praise kiss joke mistake october digital inject bundle they garlic";
+var mnemonic = "junior traffic castle lawsuit sword item skill either trumpet taste inform divide";

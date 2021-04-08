@@ -1,1 +1,1 @@
-var mnemonic = "harbor hire law achieve cactus stay radar theory gravity volcano virus vital";
+var mnemonic = "wagon fruit frost fantasy waste shove seminar crew swift wise tower discover";

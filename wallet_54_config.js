@@ -1,1 +1,1 @@
-var mnemonic = "fruit arrow forum exhaust glad scissors home virtual atom weather entry diagram";
+var mnemonic = "hood electric evolve always betray release ghost scout oven this garden school";

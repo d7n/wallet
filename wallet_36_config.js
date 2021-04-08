@@ -1,1 +1,1 @@
-var mnemonic = "awkward success ethics moral inhale roast twin east topic stock exact health";
+var mnemonic = "width index girl dance vendor quality deposit direct forum crunch erode eye";

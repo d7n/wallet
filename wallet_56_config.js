@@ -1,1 +1,1 @@
-var mnemonic = "rose order brown gun earn wear hip uncle match oblige camp drink";
+var mnemonic = "equal enforce lizard color sleep apple bachelor limb isolate despair upset proof";

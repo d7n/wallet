@@ -1,1 +1,1 @@
-var mnemonic = "divert swift lens sunny equal stumble ordinary adult drum digital merit hollow";
+var mnemonic = "box juice auto broom stage page robot maple fetch word quick huge";

@@ -1,1 +1,1 @@
-var mnemonic = "stick monkey borrow engine repair loop fatigue kind toilet fresh disagree dignity";
+var mnemonic = "zebra forest hero evil answer engine curtain vast coach victory submit waste";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle exile quarter output popular assist nephew gossip weird endorse quantum train";
+var mnemonic = "derive daring opinion present page roof warfare length unlock bomb small present";

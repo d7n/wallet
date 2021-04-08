@@ -1,1 +1,1 @@
-var mnemonic = "unfold winner lesson head behind future tunnel bench sorry pupil ladder robot";
+var mnemonic = "fan fiscal fiscal build educate naive mixed siege peanut weapon enforce girl";

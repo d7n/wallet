@@ -1,1 +1,1 @@
-var mnemonic = "evil stock brick alley ranch setup meat hard hello play lobster celery";
+var mnemonic = "picture orbit mix nominee fresh daring volume outer sniff october youth autumn";

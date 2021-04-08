@@ -1,1 +1,1 @@
-var mnemonic = "coast correct crack intact soldier crop lava umbrella dish mystery security iron";
+var mnemonic = "owner latin verify curtain soon armor assist range reject scan pause inquiry";

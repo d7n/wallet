@@ -1,1 +1,1 @@
-var mnemonic = "ill cave squeeze rebuild thunder proof settle cigar summer flame crew index";
+var mnemonic = "border sunset version later absent midnight puppy right scatter theory casual tide";

@@ -1,1 +1,1 @@
-var mnemonic = "caught other income private above scatter better resemble neutral frequent need visit";
+var mnemonic = "rose warm galaxy media razor tell actor girl bachelor danger rule now";

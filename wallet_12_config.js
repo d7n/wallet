@@ -1,1 +1,1 @@
-var mnemonic = "galaxy token wall broccoli fever ginger inquiry lobster decorate visual time smoke";
+var mnemonic = "cancel salmon time turtle choose online hobby purchase sample lunar garage toast";

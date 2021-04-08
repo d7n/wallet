@@ -1,1 +1,1 @@
-var mnemonic = "coral confirm eternal desk same pull harvest atom position beyond place ship";
+var mnemonic = "law winter midnight yard speed safe produce imitate oblige fluid catalog gloom";

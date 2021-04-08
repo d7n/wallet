@@ -1,1 +1,1 @@
-var mnemonic = "cattle abuse inquiry lend key siege machine into lonely erupt clerk pet";
+var mnemonic = "annual draft horse switch term detail meat seat cactus dial theory immense";

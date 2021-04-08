@@ -1,1 +1,1 @@
-var mnemonic = "tonight jewel hat champion solar hair purity home awesome winter can paddle";
+var mnemonic = "body public yellow album rude language adult agree tag drip unhappy inflict";

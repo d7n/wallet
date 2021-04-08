@@ -1,1 +1,1 @@
-var mnemonic = "discover gallery cotton reward reduce script window sand wing afraid lady give";
+var mnemonic = "action curtain bounce comic plate shoe stool miracle ladder gold planet ghost";

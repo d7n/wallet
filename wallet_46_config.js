@@ -1,1 +1,1 @@
-var mnemonic = "adult era unhappy desert motion able parade screen fashion crane oven engage";
+var mnemonic = "piece chuckle spare success age bright neither hotel light action useful chicken";

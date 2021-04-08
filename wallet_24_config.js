@@ -1,1 +1,1 @@
-var mnemonic = "result click horse subway result immune drink elite dad fix public live";
+var mnemonic = "remind cool airport virus visual cash list fitness quote girl shuffle fame";

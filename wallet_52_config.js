@@ -1,1 +1,1 @@
-var mnemonic = "level elevator dynamic notice action novel tooth flame circle evolve language sample";
+var mnemonic = "unable extend goddess stage depend cradle crane rural island approve grunt exhaust";

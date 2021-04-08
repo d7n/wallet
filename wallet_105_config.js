@@ -1,1 +1,1 @@
-var mnemonic = "giant warrior produce answer satisfy valley tray stick region hybrid tent gown";
+var mnemonic = "sadness sea adult medal scout quality story hurry rail casual settle gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction energy obvious found ethics depart olympic era tank stay rebel maze";
+var mnemonic = "essay weapon eternal army grid cause stairs achieve later session rebuild certain";

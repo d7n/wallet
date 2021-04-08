@@ -1,1 +1,1 @@
-var mnemonic = "chief stand cannon charge nest skill collect rack choice payment deputy bean";
+var mnemonic = "raw fabric harsh lemon acid that squeeze neither myth ranch exist hazard";

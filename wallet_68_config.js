@@ -1,1 +1,1 @@
-var mnemonic = "sudden benefit response eye aunt access minor wet bone twice genuine task";
+var mnemonic = "solution number work return dignity budget hurt thumb unable okay world image";

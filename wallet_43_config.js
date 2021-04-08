@@ -1,1 +1,1 @@
-var mnemonic = "dad twin exchange gesture absurd sentence mixture slender chicken dog jewel blanket";
+var mnemonic = "capital noise awkward choose silk proud sheriff trash strike rug under robot";

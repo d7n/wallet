@@ -1,1 +1,1 @@
-var mnemonic = "naive bitter wedding bicycle cute address verify suit nuclear exact custom egg";
+var mnemonic = "barely donate enable dog hurdle mixed ship battle danger regular worry refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "maid town fog stable reward uphold fog thought erosion endorse steel outdoor";
+var mnemonic = "bone fossil want wave mirror ignore exhaust rhythm toy planet woman lock";

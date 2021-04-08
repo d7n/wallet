@@ -1,1 +1,1 @@
-var mnemonic = "off silent unique stable twice okay keen crush end enjoy same dirt";
+var mnemonic = "avocado cattle bleak denial team panic alert bridge wall index promote sword";

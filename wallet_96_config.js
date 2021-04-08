@@ -1,1 +1,1 @@
-var mnemonic = "jealous blade abstract chase model favorite suggest spider indicate such divorce undo";
+var mnemonic = "pool jeans rug depend sing tumble soap long goddess protect keen trash";

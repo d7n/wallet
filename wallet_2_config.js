@@ -1,1 +1,1 @@
-var mnemonic = "green leader gossip reward hire transfer hurry bacon final produce matter dog";
+var mnemonic = "earth ancient toast shed broccoli drink grunt tomato absent derive write concert";

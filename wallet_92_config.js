@@ -1,1 +1,1 @@
-var mnemonic = "festival tomorrow ripple sorry rookie pony balance sound ask aware youth resemble";
+var mnemonic = "dream sustain gate document volcano attitude kit only isolate chronic tag mention";

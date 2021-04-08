@@ -1,1 +1,1 @@
-var mnemonic = "sadness amazing tree oak affair cake noble early save lottery dawn assume";
+var mnemonic = "fragile room senior drink vivid lottery valve keen auto garment fortune engage";

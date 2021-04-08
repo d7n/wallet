@@ -1,1 +1,1 @@
-var mnemonic = "lunar argue reveal tobacco clinic era barrel plug chase need hour foil";
+var mnemonic = "firm brick pet people cave during picnic again vocal chat display review";

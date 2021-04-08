@@ -1,1 +1,1 @@
-var mnemonic = "buzz skill symptom mutual follow garlic account burger staff annual blush gasp";
+var mnemonic = "census index crash awake thrive jungle viable security room fog paddle bullet";

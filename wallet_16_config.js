@@ -1,1 +1,1 @@
-var mnemonic = "depend myself ring loop glimpse skate charge copper valid reason name neither";
+var mnemonic = "work verify catch escape lesson hover oval cause secret task chef ability";

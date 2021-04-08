@@ -1,1 +1,1 @@
-var mnemonic = "style million hope grid sheriff heart wasp open visual water seminar blast";
+var mnemonic = "spy safe prison put exile gown favorite salt gain celery mountain floor";

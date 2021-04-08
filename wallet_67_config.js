@@ -1,1 +1,1 @@
-var mnemonic = "act scare stick tell blue scissors cheese able allow shadow aisle there";
+var mnemonic = "write trouble pilot sheriff auction coral visual outer foil phone ketchup number";

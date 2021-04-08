@@ -1,1 +1,1 @@
-var mnemonic = "visual fossil remember museum speed plunge angle swift brush cement sure sunset";
+var mnemonic = "celery prosper theory metal peace settle ridge bracket rescue pride cruel dish";

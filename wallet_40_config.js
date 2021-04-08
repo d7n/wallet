@@ -1,1 +1,1 @@
-var mnemonic = "perfect outdoor nurse swarm bitter avocado ride first pitch exclude bright enough";
+var mnemonic = "sound original legal upgrade ticket month steel bean leaf rigid stage journey";

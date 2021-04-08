@@ -1,1 +1,1 @@
-var mnemonic = "achieve detect cute figure paddle bar rebuild lake drama noise fiction fun";
+var mnemonic = "horror corn volcano embrace arrow slot hint fragile health pave make daring";

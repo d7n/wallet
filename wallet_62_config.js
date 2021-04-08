@@ -1,1 +1,1 @@
-var mnemonic = "seek pumpkin cram bacon spawn walnut vessel today rifle monitor embrace jacket";
+var mnemonic = "assist nerve peasant print vendor rural vanish bamboo person since other limit";

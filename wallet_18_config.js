@@ -1,1 +1,1 @@
-var mnemonic = "trade badge street brush salad stomach stuff safe pistol note wood swallow";
+var mnemonic = "lecture rule absorb breeze sausage gym torch beef gift brown raven embody";

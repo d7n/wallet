@@ -1,1 +1,1 @@
-var mnemonic = "opinion palm curve license carbon sort empower illness resource wear choice seek";
+var mnemonic = "goose toward another position dragon park fix mushroom recipe aisle era cash";

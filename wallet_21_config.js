@@ -1,1 +1,1 @@
-var mnemonic = "general cover pause tip glow toilet blind people resource pause scorpion lift";
+var mnemonic = "hour vague kind actual cup upset harvest giggle sample catch order rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "sick embark gift finish matter reduce gate emerge dream list swarm peanut";
+var mnemonic = "enemy error hand prosper flip segment fatigue siege choose caught window much";

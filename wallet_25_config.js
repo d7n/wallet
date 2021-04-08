@@ -1,1 +1,1 @@
-var mnemonic = "until high radio radio junk divide bind project tennis violin luggage inform";
+var mnemonic = "cute wrestle recipe oppose bottom final relief pig exist order valve ordinary";

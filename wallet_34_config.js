@@ -1,1 +1,1 @@
-var mnemonic = "leader leader exist pluck myself rich stuff chest jungle border unfair friend";
+var mnemonic = "south surprise nerve latin fan measure unfair weapon bonus clutch flag note";

@@ -1,1 +1,1 @@
-var mnemonic = "bread during cheap patrol exotic parent symptom order over office off stove";
+var mnemonic = "course rescue expand rotate tissue grief wink expire zebra day retire blossom";

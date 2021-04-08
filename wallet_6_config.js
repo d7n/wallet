@@ -1,1 +1,1 @@
-var mnemonic = "gallery balcony mother pigeon warm typical abstract quick practice lunar diagram aspect";
+var mnemonic = "render genre kid strong enemy diet frame review cactus picnic brain cause";

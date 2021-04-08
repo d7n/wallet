@@ -1,1 +1,1 @@
-var mnemonic = "solar bus husband olympic parade mad rural shallow goddess issue dry nothing";
+var mnemonic = "soon thunder dolphin away impact benefit high useless dragon seat cousin olympic";

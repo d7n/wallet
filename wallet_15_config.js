@@ -1,1 +1,1 @@
-var mnemonic = "beach forum subject fever wonder hello syrup net clinic kit reward cheese";
+var mnemonic = "nice valley soccer flag nasty usual calm ranch club front atom over";

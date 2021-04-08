@@ -1,1 +1,1 @@
-var mnemonic = "now august skill scheme banana term boss force dice charge love card";
+var mnemonic = "couple monster method rhythm cricket trumpet voice erosion basic type piece quarter";

@@ -1,1 +1,1 @@
-var mnemonic = "visa topic play quarter jazz crop ritual exotic useless control sport depend";
+var mnemonic = "honey cereal wage citizen lonely omit object prevent online tornado payment depart";

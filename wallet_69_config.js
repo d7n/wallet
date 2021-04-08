@@ -1,1 +1,1 @@
-var mnemonic = "source spread because leg rain festival outside orient manage goddess again scan";
+var mnemonic = "save school night mutual cigar warfare cotton monkey primary afraid turtle gorilla";

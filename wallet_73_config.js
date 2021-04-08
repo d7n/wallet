@@ -1,1 +1,1 @@
-var mnemonic = "pig supreme dad open soap salad deliver luxury pizza suggest fashion buddy";
+var mnemonic = "abandon glad more century color roof toilet medal junk render bright end";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse income actual awake clap risk tide flee release illegal type stuff";
+var mnemonic = "hub boss skill ramp quality bargain subject kingdom perfect fitness hold liquid";

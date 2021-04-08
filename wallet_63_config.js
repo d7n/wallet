@@ -1,1 +1,1 @@
-var mnemonic = "oak into sun front brick welcome primary stadium crack fruit include figure";
+var mnemonic = "emerge surprise nominee celery priority kid essence stereo bundle expire brass cushion";

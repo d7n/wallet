@@ -1,1 +1,1 @@
-var mnemonic = "hurdle level stumble common pledge glory obtain plunge ready hair magic tonight";
+var mnemonic = "canoe bomb spin day clinic unfold diesel guess sun eye reform feed";

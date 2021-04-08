@@ -1,1 +1,1 @@
-var mnemonic = "indicate borrow essay village fix hundred resemble arena praise coyote helmet torch";
+var mnemonic = "mom debate bring above enlist art friend rifle eager summer cruel spring";

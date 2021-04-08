@@ -1,1 +1,1 @@
-var mnemonic = "inform maximum worth cinnamon ramp dragon bid curtain mask spin mule mountain";
+var mnemonic = "glove anxiety gasp undo gate symptom visit treat account when ceiling grocery";

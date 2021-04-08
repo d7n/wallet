@@ -1,1 +1,1 @@
-var mnemonic = "wise harvest pet around tuna bounce vague gesture comfort exchange humor crush";
+var mnemonic = "vanish intact pull umbrella wink employ genuine shell ball sting grass half";

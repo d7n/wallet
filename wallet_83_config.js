@@ -1,1 +1,1 @@
-var mnemonic = "west coach stock sun harvest nest penalty security rocket leg robust depart";
+var mnemonic = "fly pen boy suspect pistol mushroom tragic imitate episode uphold proud clap";

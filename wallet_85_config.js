@@ -1,1 +1,1 @@
-var mnemonic = "emotion car pulp blouse payment absurd obtain era ribbon tragic giant sell";
+var mnemonic = "ticket sustain then canoe reason video tenant odor scale lyrics fantasy pill";

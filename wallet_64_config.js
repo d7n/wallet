@@ -1,1 +1,1 @@
-var mnemonic = "hamster traffic awake ostrich clutch hour urge elbow hub review enter monster";
+var mnemonic = "false tribe actor hand absorb real case chunk odor stock coil tank";

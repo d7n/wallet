@@ -1,1 +1,1 @@
-var mnemonic = "crystal outer expand twice recall end custom smooth occur address soldier elite";
+var mnemonic = "quantum awake paper jaguar jump crouch laptop only observe broken mass clap";

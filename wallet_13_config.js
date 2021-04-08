@@ -1,1 +1,1 @@
-var mnemonic = "sail ring rice raise ancient gold pair vote number town hello rate";
+var mnemonic = "orbit trim prosper royal void taste meat girl nation broccoli elder you";

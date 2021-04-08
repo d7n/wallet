@@ -1,1 +1,1 @@
-var mnemonic = "fiber put unique unveil abuse youth horror one best include silver allow";
+var mnemonic = "anger budget bicycle forward pyramid reflect elbow hood damage review bounce swear";

@@ -1,1 +1,1 @@
-var mnemonic = "feed clay work aim celery sugar critic melt few clean theme rebuild";
+var mnemonic = "shop reflect lazy loyal begin car dash dinosaur sunny ginger small object";

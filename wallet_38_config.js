@@ -1,1 +1,1 @@
-var mnemonic = "verb rural myself hundred surprise develop stomach pioneer coconut mammal dust roof";
+var mnemonic = "ship little person subway pioneer federal attend recall pulp donate soap sibling";

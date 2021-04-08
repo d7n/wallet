@@ -1,1 +1,1 @@
-var mnemonic = "relax lesson innocent outdoor monitor action memory element stay behave tent embody";
+var mnemonic = "safe chalk attract option pioneer junior prevent foil wrestle enough oxygen nuclear";

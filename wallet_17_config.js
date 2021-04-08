@@ -1,1 +1,1 @@
-var mnemonic = "easy festival glad direct swarm blossom grape speak alien evidence inquiry transfer";
+var mnemonic = "seven bulk survey exchange horn exact river note affair jaguar pioneer fantasy";

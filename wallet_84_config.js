@@ -1,1 +1,1 @@
-var mnemonic = "crazy worry rapid divide battle begin monster borrow today wall occur vocal";
+var mnemonic = "trap device inform arrest canal web memory asthma hair swear diamond shield";

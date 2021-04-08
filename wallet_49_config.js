@@ -1,1 +1,1 @@
-var mnemonic = "cupboard news talent amount wasp beef visit galaxy nominee stamp hockey appear";
+var mnemonic = "oven glass buyer speed vote tell special ship soda main prepare breeze";

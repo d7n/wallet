@@ -1,1 +1,1 @@
-var mnemonic = "soul side wrap company angle solid napkin curious insane dawn sick clog";
+var mnemonic = "life message rural direct try bunker quarter letter wait genuine rose quiz";
