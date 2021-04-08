@@ -1,1 +1,1 @@
-var mnemonic = "defy useful type code donate shed consider blade project evolve middle panther";
+var mnemonic = "lawn over turkey music cup leopard improve mother bus produce dentist term";

@@ -1,1 +1,1 @@
-var mnemonic = "note dirt silent year drive sample venue near sauce bulb fiscal novel";
+var mnemonic = "hope tone planet stomach dance company over judge horror world move bag";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar garment mushroom gym life flight cattle flock draw grant zero spell";
+var mnemonic = "business mouse hammer hazard day verify echo shuffle spice risk crystal number";

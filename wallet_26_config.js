@@ -1,1 +1,1 @@
-var mnemonic = "dove slide hard tent advance quantum mutual buyer good casual comic relief";
+var mnemonic = "unique slight voyage couple blur region attract shuffle film response surface swamp";

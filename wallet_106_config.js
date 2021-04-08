@@ -1,1 +1,1 @@
-var mnemonic = "hazard tribe affair cave panel wreck miracle balcony wise tuition six hurt";
+var mnemonic = "elbow chapter quantum blood rare goose mountain burst used tomato suit order";

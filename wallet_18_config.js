@@ -1,1 +1,1 @@
-var mnemonic = "grit special foam steak tackle hint promote wing old width keep hybrid";
+var mnemonic = "bundle zone swing raven kiwi render pencil hurdle excuse say faint team";

@@ -1,1 +1,1 @@
-var mnemonic = "mix grief merge chest inner cool wall brisk pepper expand current episode";
+var mnemonic = "spawn sphere host meat issue depart congress pond expand short horn rough";

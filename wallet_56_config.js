@@ -1,1 +1,1 @@
-var mnemonic = "way image also audit beef wood region ramp milk excess juice beef";
+var mnemonic = "unusual rally bachelor search close family lawsuit cloud judge bleak fit grid";

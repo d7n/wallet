@@ -1,1 +1,1 @@
-var mnemonic = "cruel goddess glass diagram once birth there benefit auction vicious mutual network";
+var mnemonic = "admit spell fashion easily effort special spy risk help crawl wrestle maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "elder destroy gap body comic economy purity happy economy setup arena volume";
+var mnemonic = "another tool isolate sail news consider fit pride home various action car";

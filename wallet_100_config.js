@@ -1,1 +1,1 @@
-var mnemonic = "gain number piano moral rain pitch hub purpose kitchen phrase caught slot";
+var mnemonic = "atom middle true account arctic real later exact unable clap say virus";

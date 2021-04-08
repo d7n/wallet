@@ -1,1 +1,1 @@
-var mnemonic = "van quarter rare three elephant surge husband eagle mandate tattoo hybrid charge";
+var mnemonic = "liar fetch inject vapor record what zero process accident mail cheese involve";

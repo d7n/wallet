@@ -1,1 +1,1 @@
-var mnemonic = "system balance spike cycle neutral blade embody fancy similar razor vital inch";
+var mnemonic = "forum game jewel news coffee gravity spread vocal rug mind genius hybrid";

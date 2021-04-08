@@ -1,1 +1,1 @@
-var mnemonic = "song deer canyon army episode explain smoke brown brisk safe metal foam";
+var mnemonic = "celery velvet edge receive divide twenty top broom fix addict sense misery";

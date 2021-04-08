@@ -1,1 +1,1 @@
-var mnemonic = "strong feel inspire duck organ label attitude ancient salute unlock fee foster";
+var mnemonic = "absurd fetch rebel master spider oil outer rude farm pave mom work";

@@ -1,1 +1,1 @@
-var mnemonic = "knock act same dynamic plug lens change candy measure street rural seminar";
+var mnemonic = "punch keen food trouble problem current fortune differ confirm trade spring nuclear";

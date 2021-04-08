@@ -1,1 +1,1 @@
-var mnemonic = "want area library build guide double client crash host thumb immense come";
+var mnemonic = "release bike call pulp balance capable census goddess remember hungry shop purity";

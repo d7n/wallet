@@ -1,1 +1,1 @@
-var mnemonic = "dismiss gentle vibrant metal curve order antenna adjust luggage chalk prefer goose";
+var mnemonic = "motor divert trade sweet priority rookie faith ozone plunge permit work emotion";

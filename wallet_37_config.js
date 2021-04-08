@@ -1,1 +1,1 @@
-var mnemonic = "merry start joke grain fetch menu patch shiver enrich inform shield oil";
+var mnemonic = "resource city keen brick satoshi secret lonely used armed head pill skate";

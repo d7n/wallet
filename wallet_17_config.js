@@ -1,1 +1,1 @@
-var mnemonic = "stable wear strong room rate add forward cousin easily hover neither unusual";
+var mnemonic = "nerve live hand wreck enable cement wreck float artwork excess economy simple";

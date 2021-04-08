@@ -1,1 +1,1 @@
-var mnemonic = "fashion lemon shield girl alarm joy alien gas tiny utility pistol about";
+var mnemonic = "dinosaur early knock spread flee tribe thrive story devote attract never barely";

@@ -1,1 +1,1 @@
-var mnemonic = "say face inform turkey name mouse pluck actor drink finish fiscal vague";
+var mnemonic = "hip nominee animal barrel industry wire spy mango infant ride black nurse";

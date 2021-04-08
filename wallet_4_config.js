@@ -1,1 +1,1 @@
-var mnemonic = "guess explain beef correct accuse endless pig umbrella wild behind pear stomach";
+var mnemonic = "monitor team pair recall sting segment blossom observe you alone radar lunar";

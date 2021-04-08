@@ -1,1 +1,1 @@
-var mnemonic = "document hero slice hint spice eye fluid boss gauge step valid farm";
+var mnemonic = "response satisfy spin palm reveal doctor profit mammal clock one basket jazz";

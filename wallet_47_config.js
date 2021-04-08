@@ -1,1 +1,1 @@
-var mnemonic = "acoustic flock cousin hello leg ability option regret limit movie naive deputy";
+var mnemonic = "disagree reward mouse pistol emotion jaguar social rough car reopen butter sure";

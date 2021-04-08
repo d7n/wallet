@@ -1,1 +1,1 @@
-var mnemonic = "index mirror riot strategy easily horror conduct liberty horse secret slogan worth";
+var mnemonic = "wasp liar range limb vault planet trust license post merit perfect chest";

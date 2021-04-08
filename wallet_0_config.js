@@ -1,1 +1,1 @@
-var mnemonic = "quarter edit combine airport change design point improve bridge weasel style joy";
+var mnemonic = "cloud salon hub expand fuel rely scorpion motor involve cloth beef train";

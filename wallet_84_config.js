@@ -1,1 +1,1 @@
-var mnemonic = "cruel drama keep alley battle climb file focus section hunt harsh rack";
+var mnemonic = "van bridge prepare delay negative chicken shop similar comic much local friend";

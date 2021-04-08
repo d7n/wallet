@@ -1,1 +1,1 @@
-var mnemonic = "autumn merit work south lawn grief lottery sunny eye time bitter stairs";
+var mnemonic = "leave title head desert tongue woman about gesture wool unfair rent industry";

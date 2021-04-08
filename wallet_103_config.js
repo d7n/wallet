@@ -1,1 +1,1 @@
-var mnemonic = "mango paddle coach fossil acquire follow airport polar pact south setup wrist";
+var mnemonic = "try clever pencil right task concert menu boy voice youth giraffe cruise";

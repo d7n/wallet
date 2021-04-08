@@ -1,1 +1,1 @@
-var mnemonic = "air hotel romance foil lesson birth peace life refuse fold develop nation";
+var mnemonic = "column three vessel finish stock also science marriage universe person boring intact";

@@ -1,1 +1,1 @@
-var mnemonic = "blind meat truth furnace hazard knife doctor wet analyst embark sound space";
+var mnemonic = "paddle risk option piece uncover illness slight mimic lizard earth warrior exile";

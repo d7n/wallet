@@ -1,1 +1,1 @@
-var mnemonic = "father sail pudding tower spike note zero dice brain stone snake kiwi";
+var mnemonic = "icon cliff food found broken grief vintage exact camp deputy goat achieve";

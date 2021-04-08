@@ -1,1 +1,1 @@
-var mnemonic = "story culture confirm uphold hole dove enter abuse pair negative net proud";
+var mnemonic = "breeze garage stool problem good brick visual total unfair vacuum vote retire";

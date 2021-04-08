@@ -1,1 +1,1 @@
-var mnemonic = "uphold ankle segment destroy risk critic inspire offer cereal loan hungry bid";
+var mnemonic = "milk super follow other negative panic plunge castle valve pledge scout relief";

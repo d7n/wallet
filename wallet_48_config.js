@@ -1,1 +1,1 @@
-var mnemonic = "demise abuse copper chaos flag vessel hello conduct dove super scrub fame";
+var mnemonic = "vote tornado protect jacket focus pioneer digital lava recipe speak clinic fury";

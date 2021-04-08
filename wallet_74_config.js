@@ -1,1 +1,1 @@
-var mnemonic = "below together hurdle imitate beauty visa liar settle proud lamp regular guide";
+var mnemonic = "valid sign put enable virtual genre derive arena funny detail pitch page";

@@ -1,1 +1,1 @@
-var mnemonic = "price canyon blur onion build ignore nuclear story false blood miss warm";
+var mnemonic = "gossip pelican manual flight isolate subway tank save diet volume place usual";

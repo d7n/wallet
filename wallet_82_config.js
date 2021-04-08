@@ -1,1 +1,1 @@
-var mnemonic = "better rural joy tip ribbon account friend share sand air truly stem";
+var mnemonic = "void boat ankle call fish bar remember banner picture coyote odor obtain";

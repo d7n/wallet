@@ -1,1 +1,1 @@
-var mnemonic = "youth tortoise lady pottery panic hood tomato zero glass twist color right";
+var mnemonic = "muffin ripple dragon jealous ritual cube harsh suffer spin atom enroll crazy";

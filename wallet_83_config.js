@@ -1,1 +1,1 @@
-var mnemonic = "grid shoot tortoise ribbon during uphold super renew very fox remain rose";
+var mnemonic = "wish roast airport isolate team salad error enhance verb differ strong asset";

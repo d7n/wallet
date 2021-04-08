@@ -1,1 +1,1 @@
-var mnemonic = "woman basket venue umbrella item nephew escape trip true snap sun clean";
+var mnemonic = "caught six destroy carry tuna pupil oppose club opera level sample gas";

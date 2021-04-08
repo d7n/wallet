@@ -1,1 +1,1 @@
-var mnemonic = "spin donor taste trend bamboo quick mirror wet car beyond dial song";
+var mnemonic = "loud glide into mystery devote clock choose myth abstract glory rain front";

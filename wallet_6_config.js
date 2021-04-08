@@ -1,1 +1,1 @@
-var mnemonic = "fun stomach obvious ritual jeans sibling upgrade laugh pigeon cart claw spike";
+var mnemonic = "segment fly else town present actress tuition mouse solution upper reject notable";

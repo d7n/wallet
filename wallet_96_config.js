@@ -1,1 +1,1 @@
-var mnemonic = "emotion laundry sport dice drum zero language mixed main risk one gaze";
+var mnemonic = "axis build air cactus bus surprise veteran visual payment flower air shy";

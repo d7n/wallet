@@ -1,1 +1,1 @@
-var mnemonic = "subway tide system school puppy eyebrow romance shift wisdom warfare venture absurd";
+var mnemonic = "perfect material celery game sunny reduce bid rather lizard erode ocean notable";

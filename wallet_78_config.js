@@ -1,1 +1,1 @@
-var mnemonic = "cool clown utility kidney bacon infant fury cat traffic anger century what";
+var mnemonic = "snack appear chief potato lazy humble grunt pottery another dumb genius brother";

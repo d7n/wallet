@@ -1,1 +1,1 @@
-var mnemonic = "false bridge cost profit dolphin express bike develop occur runway figure clock";
+var mnemonic = "resist flock castle shadow chapter alpha bulb assault path huge later illegal";

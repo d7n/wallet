@@ -1,1 +1,1 @@
-var mnemonic = "art acid pony brass merry degree acoustic innocent victory draw dust slow";
+var mnemonic = "okay reveal pull vault frog team mistake surround piano tower pattern love";

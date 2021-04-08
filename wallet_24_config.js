@@ -1,1 +1,1 @@
-var mnemonic = "test good exit appear swap female near able long expect like attack";
+var mnemonic = "witness hamster visual grid stumble swarm coffee arctic police cause film ceiling";

@@ -1,1 +1,1 @@
-var mnemonic = "network ranch rapid neglect pair over beyond inform custom fog file find";
+var mnemonic = "lock shallow athlete voyage plastic clock soap panic purchase aware demand dynamic";

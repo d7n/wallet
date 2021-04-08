@@ -1,1 +1,1 @@
-var mnemonic = "grape sport effort amused replace dance original angry game actor silver window";
+var mnemonic = "poverty tube yellow deposit solar jeans logic pave parrot wink abuse plastic";

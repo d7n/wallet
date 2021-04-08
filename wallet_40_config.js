@@ -1,1 +1,1 @@
-var mnemonic = "cattle over split remove knife quantum park hawk ignore claw couple income";
+var mnemonic = "there acoustic rich bacon crane devote lunar gallery furnace poverty list depend";

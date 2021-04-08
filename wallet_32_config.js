@@ -1,1 +1,1 @@
-var mnemonic = "power weekend cheese salt execute liar symbol harsh skull plate clever aspect";
+var mnemonic = "scorpion actress clown avocado wool because piece cancel bicycle nut pencil latin";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace inch gap poverty wood buddy device sentence group mother suggest blouse";
+var mnemonic = "expand unusual ozone palm gloom amateur safe route trash gorilla glass cabbage";

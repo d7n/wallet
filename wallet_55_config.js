@@ -1,1 +1,1 @@
-var mnemonic = "include gadget gesture nice tennis fence truth loop reunion gown burden tank";
+var mnemonic = "moral play split guide such lunch ski before feed picnic tent knock";

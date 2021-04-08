@@ -1,1 +1,1 @@
-var mnemonic = "coach member test base enable now enroll suffer duty echo peasant interest";
+var mnemonic = "mobile cook merit melody maze pool aerobic hedgehog range candy exit earn";

@@ -1,1 +1,1 @@
-var mnemonic = "away desk check zebra useful open door exact secret hub nasty sea";
+var mnemonic = "trick detail supreme brand collect okay edit grass cross road shiver file";

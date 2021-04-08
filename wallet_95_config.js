@@ -1,1 +1,1 @@
-var mnemonic = "sand slice plate near ripple myself february actor people cigar gravity property";
+var mnemonic = "awesome retire betray smooth change fame great curious common anger six draft";

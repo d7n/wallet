@@ -1,1 +1,1 @@
-var mnemonic = "guilt hello fog marine feed entry cereal museum popular quarter surround spike";
+var mnemonic = "immune bleak garden suggest reduce horror blush help page service tribe before";

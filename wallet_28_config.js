@@ -1,1 +1,1 @@
-var mnemonic = "roast supply member stumble antique black lady trade maximum donate acquire raven";
+var mnemonic = "judge spatial win curious future video off bonus priority eager bag rely";

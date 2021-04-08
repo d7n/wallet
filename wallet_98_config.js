@@ -1,1 +1,1 @@
-var mnemonic = "drastic merge bracket honey town anger explain circle bench mirror flower huge";
+var mnemonic = "caution extra inmate ticket shock priority denial nose hurt ankle head sing";

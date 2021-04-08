@@ -1,1 +1,1 @@
-var mnemonic = "invest anger trigger rotate engine just cable flight basic swap drink shadow";
+var mnemonic = "pelican dove zebra hub clinic chapter tortoise roast control spare candy elbow";

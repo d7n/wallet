@@ -1,1 +1,1 @@
-var mnemonic = "piece jar leave kitten live slot season admit smoke toddler snow fox";
+var mnemonic = "lend lawsuit reflect roof session ordinary planet pill patch divide blast spice";

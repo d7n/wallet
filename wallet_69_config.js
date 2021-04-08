@@ -1,1 +1,1 @@
-var mnemonic = "marine catalog actual man loan tortoise dynamic cloth exile host special join";
+var mnemonic = "unveil faith loop urge pupil artefact acoustic dance fun usage fluid mechanic";

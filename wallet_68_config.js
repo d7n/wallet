@@ -1,1 +1,1 @@
-var mnemonic = "divert number duty fat bronze oyster retreat picnic subject gold method inner";
+var mnemonic = "excess gadget practice torch slim era grant among blush mechanic control rebuild";

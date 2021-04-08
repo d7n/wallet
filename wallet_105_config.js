@@ -1,1 +1,1 @@
-var mnemonic = "drive else rain risk combine umbrella remain scare bulb grass walk funny";
+var mnemonic = "hope birth tip pear review case ski fringe weasel pull oil solve";

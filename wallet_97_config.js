@@ -1,1 +1,1 @@
-var mnemonic = "cart fall photo crater broccoli machine toast such eagle recipe trim tenant";
+var mnemonic = "motion budget say proud swift organ garage arctic minor decline shadow film";

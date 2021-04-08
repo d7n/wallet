@@ -1,1 +1,1 @@
-var mnemonic = "close isolate eyebrow peanut bomb fire timber prosper cute muffin front physical";
+var mnemonic = "capital shoulder caught coil glow apology violin swing patch apart nasty zero";

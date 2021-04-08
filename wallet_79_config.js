@@ -1,1 +1,1 @@
-var mnemonic = "rubber cave immense party unfold increase broom funny farm subject magic provide";
+var mnemonic = "pepper sell survey orange gift song girl first awake midnight proof scout";

@@ -1,1 +1,1 @@
-var mnemonic = "gas flight waste live broom near throw leopard view actor gasp foot";
+var mnemonic = "attitude height burst ripple volcano like drive name palm task fruit satisfy";

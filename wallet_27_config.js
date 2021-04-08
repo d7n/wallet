@@ -1,1 +1,1 @@
-var mnemonic = "virus alley square web ecology plastic spatial horse common siege knee young";
+var mnemonic = "disorder anger asset girl hard grit change move brief silly avocado come";

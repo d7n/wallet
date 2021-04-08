@@ -1,1 +1,1 @@
-var mnemonic = "assume funny valid absurd laugh maid escape drum state pitch prevent left";
+var mnemonic = "wide camera warrior gadget track insane sugar salmon gold large aerobic pole";

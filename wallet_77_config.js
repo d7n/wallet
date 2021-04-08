@@ -1,1 +1,1 @@
-var mnemonic = "quick film blood cushion high coffee interest snake tiny genuine before own";
+var mnemonic = "artist rhythm east face hollow mixture father swamp reject onion cement journey";

@@ -1,1 +1,1 @@
-var mnemonic = "victory hollow cancel skill comfort spot ivory execute three tower monitor spider";
+var mnemonic = "awesome middle fantasy adult trap thing pledge guess hobby find wet useful";

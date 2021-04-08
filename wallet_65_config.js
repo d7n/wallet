@@ -1,1 +1,1 @@
-var mnemonic = "grunt result cute cry nominee scale tobacco uniform doctor occur edge argue";
+var mnemonic = "alert essay another about risk target fury beach child summer doctor liberty";

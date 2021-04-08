@@ -1,1 +1,1 @@
-var mnemonic = "mango neck divert ketchup belt mountain put soldier fever jazz limit suggest";
+var mnemonic = "unaware uncle text tribe spike wedding increase october skate lottery result mystery";

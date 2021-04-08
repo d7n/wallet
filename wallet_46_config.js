@@ -1,1 +1,1 @@
-var mnemonic = "capable balcony dial cruise artwork state volume rapid food throw rookie napkin";
+var mnemonic = "pact injury fresh example wall ivory day choice secret kiss mule peace";

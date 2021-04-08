@@ -1,1 +1,1 @@
-var mnemonic = "document ridge baby fitness rent fiction hero bag title index shy spring";
+var mnemonic = "miss crazy expose dilemma silly shift round check about host river slam";

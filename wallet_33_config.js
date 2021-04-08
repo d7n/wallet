@@ -1,1 +1,1 @@
-var mnemonic = "muffin drive large legend tag napkin trip owner six fury print exile";
+var mnemonic = "august maid shell orange adult drink pattern idle abuse loyal august cancel";

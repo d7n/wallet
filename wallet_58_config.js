@@ -1,1 +1,1 @@
-var mnemonic = "token magic rookie collect twelve vessel denial eyebrow cook bind spike grow";
+var mnemonic = "retire bullet worth address please program iron crisp immense hurry vicious slab";

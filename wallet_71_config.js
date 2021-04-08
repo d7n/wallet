@@ -1,1 +1,1 @@
-var mnemonic = "original summer fork mix save tilt source alpha inject loop faith detail";
+var mnemonic = "carbon beef various twice decorate index metal early trumpet evidence gesture much";

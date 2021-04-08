@@ -1,1 +1,1 @@
-var mnemonic = "attend spray pact now citizen blue hotel tag weapon useless book flock";
+var mnemonic = "exercise direct bunker become flash roof valid major theme myself cereal project";

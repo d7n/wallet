@@ -1,1 +1,1 @@
-var mnemonic = "destroy tuna average youth key consider index humble recall helmet boil season";
+var mnemonic = "mixed jaguar thing pony usual shift bridge medal foot olive swallow moment";

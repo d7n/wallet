@@ -1,1 +1,1 @@
-var mnemonic = "scheme sketch defense law patch load lazy oppose salon science chunk picture";
+var mnemonic = "report clock topple purchase soft album learn tunnel buffalo civil purity area";

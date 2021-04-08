@@ -1,1 +1,1 @@
-var mnemonic = "inherit fatigue magic south reform pig normal novel fan feature enable defy";
+var mnemonic = "fresh bottom morning length step visit tip vast blue cake shadow embrace";

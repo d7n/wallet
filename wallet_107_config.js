@@ -1,1 +1,1 @@
-var mnemonic = "film chase taste force market slam wrist spare trouble twenty smooth trouble";
+var mnemonic = "cycle hub shift champion vacuum duck claim ready right net ranch strategy";

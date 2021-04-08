@@ -1,1 +1,1 @@
-var mnemonic = "enemy whale lizard actual acquire toddler rescue little camp huge genius black";
+var mnemonic = "nominee connect stomach dish ritual cry salute steak mask marble start forget";
