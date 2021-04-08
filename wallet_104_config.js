@@ -1,1 +1,1 @@
-var mnemonic = "section plug grass sense note vintage tuition banner diagram feel two brand";
+var mnemonic = "midnight hip rocket family soft arctic mother dry bulb deer donor party";

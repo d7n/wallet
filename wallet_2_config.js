@@ -1,1 +1,1 @@
-var mnemonic = "industry anger believe priority brown elephant absurd unveil diagram beyond relax bless";
+var mnemonic = "change truly ketchup wealth marine jungle raise output now buffalo ethics slot";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy memory asthma autumn bright drum spirit either keep demise excuse person";
+var mnemonic = "climb bargain crawl elite easy tunnel zoo wheat boss swarm pilot tumble";

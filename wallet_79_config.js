@@ -1,1 +1,1 @@
-var mnemonic = "promote depart charge hawk pause gadget route want frog learn famous adapt";
+var mnemonic = "history edit sadness suggest change pistol kick later satoshi victory absurd toss";

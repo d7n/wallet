@@ -1,1 +1,1 @@
-var mnemonic = "foam rough hair doll identify hope verb stairs record movie very corn";
+var mnemonic = "spread fuel siege office uniform legend gas column lecture pledge wrestle spell";

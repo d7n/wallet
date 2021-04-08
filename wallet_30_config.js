@@ -1,1 +1,1 @@
-var mnemonic = "venture reunion attract genre pizza grant blush depart net remember pool disease";
+var mnemonic = "east mix author talk heavy owner maid juice design okay culture dutch";

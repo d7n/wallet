@@ -1,1 +1,1 @@
-var mnemonic = "other payment derive select enforce rich chair echo fall nominee brush pencil";
+var mnemonic = "claw chimney ski security episode valve squirrel miracle alcohol expose truck range";

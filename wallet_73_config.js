@@ -1,1 +1,1 @@
-var mnemonic = "air always brisk cover dutch own rate ready pride into train annual";
+var mnemonic = "slab civil black lawn aunt exchange flower never long cable main symptom";

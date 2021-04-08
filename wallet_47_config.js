@@ -1,1 +1,1 @@
-var mnemonic = "pipe tank patch horn caught diamond strike skin image success first chuckle";
+var mnemonic = "fiber grit term visit monkey faculty work gossip tourist aim hen remind";

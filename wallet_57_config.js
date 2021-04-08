@@ -1,1 +1,1 @@
-var mnemonic = "hand bronze special life screen segment quiz elegant giraffe gadget soup bless";
+var mnemonic = "brush husband carry foster submit extend allow height cook gate cloud fashion";

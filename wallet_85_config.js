@@ -1,1 +1,1 @@
-var mnemonic = "ecology scrap rent boy breeze argue crush mountain two breeze resource better";
+var mnemonic = "dash have final dentist dirt carry warrior issue fantasy erode appear galaxy";

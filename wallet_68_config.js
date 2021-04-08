@@ -1,1 +1,1 @@
-var mnemonic = "success harsh box spray chat actress vital viable turn tooth major other";
+var mnemonic = "moral few vacuum liar stove deer gentle original shove puzzle welcome rival";

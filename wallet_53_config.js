@@ -1,1 +1,1 @@
-var mnemonic = "income rule fiction home above car engine connect impulse impose nurse ski";
+var mnemonic = "furnace cliff electric manage witness pool caught asthma elegant someone found fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "scale over credit bounce lava arm denial what elegant where start bacon";
+var mnemonic = "simple force suspect buyer vessel pen retire funny taste segment emerge east";

@@ -1,1 +1,1 @@
-var mnemonic = "eager artefact scorpion woman name grape omit opinion onion cart fluid wrist";
+var mnemonic = "situate bicycle around brain grape skull dog right math crack advice vivid";

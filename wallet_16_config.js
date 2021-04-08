@@ -1,1 +1,1 @@
-var mnemonic = "advance tide echo vital reject bulb milk rough laundry buyer unlock ridge";
+var mnemonic = "outer copper tobacco void wrap truck trophy cousin awkward coyote provide alcohol";

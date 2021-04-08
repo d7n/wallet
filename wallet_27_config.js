@@ -1,1 +1,1 @@
-var mnemonic = "rapid trophy yellow curve media ensure visual reopen advance raise sick fruit";
+var mnemonic = "crumble earn second street laptop syrup region choice pull ranch olympic pass";

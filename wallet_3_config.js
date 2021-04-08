@@ -1,1 +1,1 @@
-var mnemonic = "shift legal improve used odor trip turtle bike family jar fork across";
+var mnemonic = "cash skin space mention pigeon dilemma disease cloud dynamic blame flag romance";

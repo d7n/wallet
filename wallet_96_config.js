@@ -1,1 +1,1 @@
-var mnemonic = "barely slight fire eagle slide urban neither chapter escape any mom exercise";
+var mnemonic = "feel frost loop february worry van another pitch enemy bundle siege royal";

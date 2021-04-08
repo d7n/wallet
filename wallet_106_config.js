@@ -1,1 +1,1 @@
-var mnemonic = "lyrics trumpet gravity lottery sentence bonus evidence birth forest share domain luggage";
+var mnemonic = "purity scale drift diet miracle autumn release dragon heavy wink today myth";

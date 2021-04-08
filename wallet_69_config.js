@@ -1,1 +1,1 @@
-var mnemonic = "reward winter anchor artist awkward fury hotel scare carbon soda smoke fiscal";
+var mnemonic = "wagon lion update shoe ticket ketchup carpet chief slight planet cage pill";

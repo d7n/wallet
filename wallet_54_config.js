@@ -1,1 +1,1 @@
-var mnemonic = "news print minute radar vendor gap vacuum rail impact raven always boat";
+var mnemonic = "approve brief tragic junior add punch project clever faculty negative point filter";

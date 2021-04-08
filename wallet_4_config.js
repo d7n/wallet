@@ -1,1 +1,1 @@
-var mnemonic = "regret there inch museum wrist current brisk clump same type easy armor";
+var mnemonic = "gun judge across already follow suffer jacket clay firm young wait gorilla";

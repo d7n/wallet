@@ -1,1 +1,1 @@
-var mnemonic = "waste nasty lift finger shoe allow valve frown frost dress mule opinion";
+var mnemonic = "behave blade arm engage problem guitar silly garment napkin drama foil weather";

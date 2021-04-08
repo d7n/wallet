@@ -1,1 +1,1 @@
-var mnemonic = "type weasel animal inquiry consider moon fantasy run doctor first chat final";
+var mnemonic = "monkey pool bench also push lend cave crane autumn people detect thumb";

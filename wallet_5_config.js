@@ -1,1 +1,1 @@
-var mnemonic = "loan discover machine target hour silk typical depend leopard bunker wrestle liar";
+var mnemonic = "reason process idea sustain hedgehog trash hotel decorate plug battle stumble fat";

@@ -1,1 +1,1 @@
-var mnemonic = "swap height frost coin crystal leopard kiwi asset large post hip civil";
+var mnemonic = "artwork enemy popular enrich survey barrel bean weasel student mammal reflect furnace";

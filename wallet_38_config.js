@@ -1,1 +1,1 @@
-var mnemonic = "merit nuclear clever speak dress canoe nest theme purpose image essay news";
+var mnemonic = "law gentle jaguar proud metal rigid panic north arch collect silent limit";

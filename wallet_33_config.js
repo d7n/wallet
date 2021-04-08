@@ -1,1 +1,1 @@
-var mnemonic = "citizen laundry suggest hand guard place foot inspire father world keen regular";
+var mnemonic = "magnet space dolphin twenty text leave copy motion always verb midnight labor";

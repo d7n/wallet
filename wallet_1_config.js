@@ -1,1 +1,1 @@
-var mnemonic = "fruit insect unknown lift morning half man gain wise tool exit bright";
+var mnemonic = "strong neutral group dog march glove find radar oil basket ride consider";

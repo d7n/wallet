@@ -1,1 +1,1 @@
-var mnemonic = "doll canoe cart inherit tragic leaf eager penalty hospital orchard correct mirror";
+var mnemonic = "rude clerk light immense wrist element pass tilt bless airport tent rookie";

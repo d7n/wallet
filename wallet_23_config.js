@@ -1,1 +1,1 @@
-var mnemonic = "flock sound dynamic ahead problem flat join click scatter dial harsh much";
+var mnemonic = "voice diamond play soon tomato phone have scatter rebel neck pencil jealous";

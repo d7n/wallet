@@ -1,1 +1,1 @@
-var mnemonic = "village early rhythm oblige depart ahead minimum nation lake pattern pigeon vivid";
+var mnemonic = "develop dinner wool crash drama kit orchard route certain rather income rotate";

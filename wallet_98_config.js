@@ -1,1 +1,1 @@
-var mnemonic = "motor ladder federal foster pole depth quality slice edit nose sting allow";
+var mnemonic = "wrong belt absurd online van guitar guide avoid panel kingdom boss wash";

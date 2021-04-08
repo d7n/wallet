@@ -1,1 +1,1 @@
-var mnemonic = "later lumber cart adjust maple fantasy keep fix chunk actress squeeze own";
+var mnemonic = "wheat say cannon blush news place fossil clinic gym six drip spoon";

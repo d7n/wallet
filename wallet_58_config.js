@@ -1,1 +1,1 @@
-var mnemonic = "cup obtain enough human blood swing syrup parrot insane gasp arrest secret";
+var mnemonic = "save humble horse drift weasel brief junk safe dolphin priority fragile deposit";

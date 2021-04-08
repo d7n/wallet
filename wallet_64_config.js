@@ -1,1 +1,1 @@
-var mnemonic = "rough nuclear fabric coach list teach throw pyramid combine anxiety loyal foam";
+var mnemonic = "boost goddess ladder robust shrimp escape muscle fiction mention ice have cruel";

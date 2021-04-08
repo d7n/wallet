@@ -1,1 +1,1 @@
-var mnemonic = "gadget again seek coast shock other century leave maze waste type ancient";
+var mnemonic = "produce human treat paper cactus absent genre install science ship delay bless";

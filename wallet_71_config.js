@@ -1,1 +1,1 @@
-var mnemonic = "parrot public tornado isolate true tenant champion health grass ghost zoo ancient";
+var mnemonic = "vague hope tent mixed area noble interest path civil idle spin atom";

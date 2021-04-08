@@ -1,1 +1,1 @@
-var mnemonic = "expand tongue plug audit detail dawn narrow celery afford hungry enhance mandate";
+var mnemonic = "sadness trial adjust indoor work neutral diet nothing army goose order win";

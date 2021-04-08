@@ -1,1 +1,1 @@
-var mnemonic = "evolve scissors mobile garlic where damp talent donate present advance nose potato";
+var mnemonic = "brisk action bridge quick interest pupil hard eager under sentence accuse that";

@@ -1,1 +1,1 @@
-var mnemonic = "friend first require cart purchase owner ill cross amused pencil bonus quarter";
+var mnemonic = "property good treat inner today awesome exhibit excuse abstract body pilot glass";

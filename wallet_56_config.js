@@ -1,1 +1,1 @@
-var mnemonic = "lizard area loan repeat train piano burger found donkey side weekend couple";
+var mnemonic = "also mango nuclear debate custom onion kite latin shaft drive hire silly";

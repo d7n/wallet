@@ -1,1 +1,1 @@
-var mnemonic = "solution coil youth glance spike raw fox cover dance stumble curtain utility";
+var mnemonic = "repair fiscal despair century tourist keen rifle worth alone omit fish express";

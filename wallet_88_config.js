@@ -1,1 +1,1 @@
-var mnemonic = "patch width confirm wheat soup drink now gap harvest sort cliff insect";
+var mnemonic = "arrow choose mixture chimney task tired siege start foster divide once palace";

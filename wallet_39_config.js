@@ -1,1 +1,1 @@
-var mnemonic = "wing pet wife bottom there glance harsh maze sauce recall box valley";
+var mnemonic = "boss reopen fine rival dress empty census cactus urge poem suffer link";

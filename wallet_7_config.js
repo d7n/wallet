@@ -1,1 +1,1 @@
-var mnemonic = "cactus sentence truth catch popular add remain drum laugh receive invite dance";
+var mnemonic = "vessel obvious forget sample seed hill current bring always skull shuffle timber";

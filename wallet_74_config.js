@@ -1,1 +1,1 @@
-var mnemonic = "crash estate era bench doctor hidden play pencil width wear lucky jelly";
+var mnemonic = "ship taste loan leg genuine nose inquiry drop burden merge host much";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny aisle razor kite parent author field plunge diesel find acid exercise";
+var mnemonic = "expire double buzz panther bread donate type surround belt endorse skirt hat";

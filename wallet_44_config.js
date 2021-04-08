@@ -1,1 +1,1 @@
-var mnemonic = "unique final bridge tone worth chaos sugar joke trumpet extra twice resemble";
+var mnemonic = "auction churn chief joke acquire crawl jacket wear cool word mechanic enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "token invite suggest slogan tent lamp voyage south artwork skin blame arena";
+var mnemonic = "trip solution insect owner goose slow phrase couch govern accuse pelican earn";

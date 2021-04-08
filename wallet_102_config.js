@@ -1,1 +1,1 @@
-var mnemonic = "fame pen swing keep diary ship diamond fly jeans tip talk boss";
+var mnemonic = "moment clutch merry unknown shock girl ribbon vote valid syrup write afford";

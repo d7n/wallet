@@ -1,1 +1,1 @@
-var mnemonic = "flock budget brave elevator blanket drip hole list empty alcohol deer salt";
+var mnemonic = "sheriff dumb occur cereal erode review any together glance fun total virtual";

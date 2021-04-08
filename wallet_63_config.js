@@ -1,1 +1,1 @@
-var mnemonic = "orient wait wolf route recycle hockey child pumpkin demise vanish confirm denial";
+var mnemonic = "wheel hint frog theory unlock hip catalog retire tourist emerge pair skate";

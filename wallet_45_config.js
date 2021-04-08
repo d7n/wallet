@@ -1,1 +1,1 @@
-var mnemonic = "corn grab deer now hip release miss elevator card call goat allow";
+var mnemonic = "save spirit poem fury planet trophy force inmate unfair core ginger december";

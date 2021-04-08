@@ -1,1 +1,1 @@
-var mnemonic = "pyramid bind bench sketch dilemma nominee camera source lion invest south bronze";
+var mnemonic = "sibling fog math pig fever earn tool bulb over please north expose";

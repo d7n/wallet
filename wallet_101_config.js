@@ -1,1 +1,1 @@
-var mnemonic = "defense slight solid corn boy typical prevent impact claw uphold unaware keep";
+var mnemonic = "gauge beauty letter urban render thing level glass permit sadness ahead board";

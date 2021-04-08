@@ -1,1 +1,1 @@
-var mnemonic = "inch filter celery right direct accuse hand onion muscle width solar skirt";
+var mnemonic = "delay cement tent approve joy regular idea almost garlic melody learn rail";

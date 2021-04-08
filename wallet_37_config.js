@@ -1,1 +1,1 @@
-var mnemonic = "open person envelope glue barely note dog purchase pilot vintage defense deputy";
+var mnemonic = "crunch act charge tank empower once seminar nurse endorse pool domain runway";

@@ -1,1 +1,1 @@
-var mnemonic = "crop knee antenna document ahead aerobic chair shallow metal puppy alarm comfort";
+var mnemonic = "cricket latin office impose notice excite thing gauge worry hotel solar donkey";

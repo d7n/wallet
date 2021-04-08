@@ -1,1 +1,1 @@
-var mnemonic = "because cabin blade human unlock valley skull curve excuse seminar horror project";
+var mnemonic = "foster royal load master struggle blame drum van virus obtain myth merge";

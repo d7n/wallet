@@ -1,1 +1,1 @@
-var mnemonic = "left clap nerve deny spy hedgehog balance marine video service cover announce";
+var mnemonic = "funny jacket they strategy hunt interest choose body deposit pioneer repeat wasp";

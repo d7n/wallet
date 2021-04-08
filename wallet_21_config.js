@@ -1,1 +1,1 @@
-var mnemonic = "fancy news connect hover hurt figure nut depend plastic govern organ box";
+var mnemonic = "correct just ten trick fashion cart switch genre satoshi globe maximum umbrella";

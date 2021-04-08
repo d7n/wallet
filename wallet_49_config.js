@@ -1,1 +1,1 @@
-var mnemonic = "bike april admit check era alpha endless initial frozen tide same hill";
+var mnemonic = "retire peace reveal feature spot expand turkey truck connect model foil human";

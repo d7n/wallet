@@ -1,1 +1,1 @@
-var mnemonic = "awake spatial cradle lion veteran apology yard together relax replace congress spin";
+var mnemonic = "canal bulb wife road combine excess total key benefit caught crack science";

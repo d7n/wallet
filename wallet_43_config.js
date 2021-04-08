@@ -1,1 +1,1 @@
-var mnemonic = "dry broccoli victory enemy auto autumn share fat social ten nominee approve";
+var mnemonic = "shrug mushroom awkward figure diagram drip borrow advice trial cake cup matter";

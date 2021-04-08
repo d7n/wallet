@@ -1,1 +1,1 @@
-var mnemonic = "picture describe pelican knee diesel obey document skirt theme lemon token salon";
+var mnemonic = "motor swift decade latin example rate more resemble undo better nest trumpet";

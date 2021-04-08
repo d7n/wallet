@@ -1,1 +1,1 @@
-var mnemonic = "sausage inside mercy science among eye response border artwork polar twist gown";
+var mnemonic = "limit weird video cherry good fire clinic space goose wall gasp dignity";

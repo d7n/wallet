@@ -1,1 +1,1 @@
-var mnemonic = "beyond main manage brother cat motor window dinosaur daring pumpkin box license";
+var mnemonic = "donor renew remember employ fee lecture supply finger cabbage churn trophy clinic";

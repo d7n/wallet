@@ -1,1 +1,1 @@
-var mnemonic = "nominee pulp camera element absorb salmon box pipe nephew betray desert stick";
+var mnemonic = "fold rib position before movie glance echo dove soup original ecology put";

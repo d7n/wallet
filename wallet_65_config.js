@@ -1,1 +1,1 @@
-var mnemonic = "weapon oblige brand horse option easily update stone brain dust knee this";
+var mnemonic = "trigger test screen truly tower must success suffer album between spawn shed";

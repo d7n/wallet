@@ -1,1 +1,1 @@
-var mnemonic = "quality apart coffee steel romance lecture thumb art basket donkey engine deny";
+var mnemonic = "mango yard admit subway cabin settle desert sphere water chef lock mixed";

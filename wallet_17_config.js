@@ -1,1 +1,1 @@
-var mnemonic = "belt piano borrow smile found pyramid account window kitten flee vibrant other";
+var mnemonic = "large cube guess ethics suspect ladder tiny profit immune bonus square duty";

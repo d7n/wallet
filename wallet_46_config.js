@@ -1,1 +1,1 @@
-var mnemonic = "kick oppose town stand bless replace salmon picnic file blast squeeze metal";
+var mnemonic = "radar among happy twist borrow pottery share fever travel cost face ability";

@@ -1,1 +1,1 @@
-var mnemonic = "share vote depart satisfy rookie coach gadget own vivid woman ship approve";
+var mnemonic = "dumb favorite treat pet hospital gentle holiday kitten brass joy below misery";

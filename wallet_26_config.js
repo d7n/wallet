@@ -1,1 +1,1 @@
-var mnemonic = "guitar alpha question oven false open stomach medal canal spoil hidden tide";
+var mnemonic = "angry fragile ski pill bullet crowd venue accident dinosaur lens ridge knee";

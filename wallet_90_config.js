@@ -1,1 +1,1 @@
-var mnemonic = "clown shock creek diesel marine worry minimum talk capital good begin inspire";
+var mnemonic = "upper boil myth camera stem display lake asset box success razor alert";

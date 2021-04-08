@@ -1,1 +1,1 @@
-var mnemonic = "supreme leg mercy lend size clock behind gloom ramp major hold damp";
+var mnemonic = "net ability mean insane silk push spoil success fly six squeeze ridge";

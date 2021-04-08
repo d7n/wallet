@@ -1,1 +1,1 @@
-var mnemonic = "cry same path trumpet exist paper worry push push record thank lawn";
+var mnemonic = "sure index mammal vocal enroll walk normal behave zero marine afford demise";

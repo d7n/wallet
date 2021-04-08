@@ -1,1 +1,1 @@
-var mnemonic = "close remember tissue frost claw intact injury farm poet robust lady gloom";
+var mnemonic = "pudding chalk garbage charge myth trumpet fan timber swift viable marriage razor";

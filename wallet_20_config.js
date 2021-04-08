@@ -1,1 +1,1 @@
-var mnemonic = "suggest water banner power person retire unveil hedgehog detect mom topic inch";
+var mnemonic = "roast amateur book mouse whisper chimney pull crowd angle barely stomach push";

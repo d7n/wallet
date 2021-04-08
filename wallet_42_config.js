@@ -1,1 +1,1 @@
-var mnemonic = "develop record edit spend foot picnic tree stage busy invite elegant service";
+var mnemonic = "monkey chapter rich warrior unknown tired butter penalty end morning penalty velvet";

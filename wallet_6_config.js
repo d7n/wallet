@@ -1,1 +1,1 @@
-var mnemonic = "faculty head else rubber genre snack liberty second bacon winner kick animal";
+var mnemonic = "lab hamster abstract reject total people edge crystal deal record monkey sadness";

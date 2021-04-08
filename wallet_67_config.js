@@ -1,1 +1,1 @@
-var mnemonic = "cruel peanut elite bar cost broken install fog loyal shop notice arrange";
+var mnemonic = "autumn arrow chair master erupt head guide town task skin keen either";

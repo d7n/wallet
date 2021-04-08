@@ -1,1 +1,1 @@
-var mnemonic = "tank give now word air develop shuffle network damp kangaroo quarter place";
+var mnemonic = "horn comic science hip sample name wave wheat below snap early stem";

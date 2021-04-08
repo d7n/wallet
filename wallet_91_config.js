@@ -1,1 +1,1 @@
-var mnemonic = "party invite ready start kidney public social funny citizen minute caution way";
+var mnemonic = "swarm story file salute kiss catch latin beef park wash east pilot";

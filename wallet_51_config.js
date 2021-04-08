@@ -1,1 +1,1 @@
-var mnemonic = "school wonder usual spice wish pumpkin clog tube tissue acoustic praise track";
+var mnemonic = "you increase gentle obvious cloth clinic tobacco camera scene grace ridge series";

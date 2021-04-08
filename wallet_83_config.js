@@ -1,1 +1,1 @@
-var mnemonic = "gentle region damage park end parent shrimp couch old rough mammal fish";
+var mnemonic = "target brave dynamic mountain bamboo tongue tank ride segment section blame exchange";
