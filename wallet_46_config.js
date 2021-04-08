@@ -1,1 +1,1 @@
-var mnemonic = "piece chuckle spare success age bright neither hotel light action useful chicken";
+var mnemonic = "city stay scissors below rapid equip ribbon panic kind coral horror castle";

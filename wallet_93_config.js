@@ -1,1 +1,1 @@
-var mnemonic = "hub boss skill ramp quality bargain subject kingdom perfect fitness hold liquid";
+var mnemonic = "boring real enter jar supreme rival another picnic piano bike boost leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "spy safe prison put exile gown favorite salt gain celery mountain floor";
+var mnemonic = "civil degree kid subject cost doll valley exchange possible trophy select good";

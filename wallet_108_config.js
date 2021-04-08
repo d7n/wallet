@@ -1,1 +1,1 @@
-var mnemonic = "moment ecology come obscure announce play army aware garden vibrant pyramid tired";
+var mnemonic = "since space fiscal grief inside toilet deer cancel note peanut during icon";

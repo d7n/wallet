@@ -1,1 +1,1 @@
-var mnemonic = "equal enforce lizard color sleep apple bachelor limb isolate despair upset proof";
+var mnemonic = "ginger monkey cannon certain clump hard industry master stock brick tackle bubble";

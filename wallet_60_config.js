@@ -1,1 +1,1 @@
-var mnemonic = "box juice auto broom stage page robot maple fetch word quick huge";
+var mnemonic = "armor someone million region isolate evil idle this cradle panther youth dwarf";

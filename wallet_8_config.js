@@ -1,1 +1,1 @@
-var mnemonic = "awesome rigid express decorate tent brisk thrive naive car urge front exotic";
+var mnemonic = "rookie tuna engage kingdom soft winner lady mail friend rely all unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "frog roast theory trigger talent split shiver reveal hockey lobster secret accident";
+var mnemonic = "equip cover wheat insane fitness fetch fiscal six wasp coconut knife busy";

@@ -1,1 +1,1 @@
-var mnemonic = "slow orphan control tourist shift camera never brush sausage luggage viable home";
+var mnemonic = "horror rack lounge control assume fetch excuse shaft until head join across";

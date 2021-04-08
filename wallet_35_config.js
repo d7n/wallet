@@ -1,1 +1,1 @@
-var mnemonic = "wagon fruit frost fantasy waste shove seminar crew swift wise tower discover";
+var mnemonic = "taxi robot just seat pyramid solar pulse basket again person cliff maid";

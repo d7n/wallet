@@ -1,1 +1,1 @@
-var mnemonic = "rose warm galaxy media razor tell actor girl bachelor danger rule now";
+var mnemonic = "repeat stadium foil dash arrest together actress drum escape near buzz purchase";

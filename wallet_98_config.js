@@ -1,1 +1,1 @@
-var mnemonic = "avocado cattle bleak denial team panic alert bridge wall index promote sword";
+var mnemonic = "exchange season medal hurry twenty exotic normal park ceiling candy sentence rate";

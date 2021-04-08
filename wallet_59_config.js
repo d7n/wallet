@@ -1,1 +1,1 @@
-var mnemonic = "hurt nerve good cereal develop cannon ugly carry cereal clean exit file";
+var mnemonic = "just worry infant armor busy desert soon blind payment naive record loud";

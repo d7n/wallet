@@ -1,1 +1,1 @@
-var mnemonic = "life message rural direct try bunker quarter letter wait genuine rose quiz";
+var mnemonic = "ocean habit lyrics civil cause vivid carpet pride latin impose cheese split";

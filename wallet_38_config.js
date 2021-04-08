@@ -1,1 +1,1 @@
-var mnemonic = "ship little person subway pioneer federal attend recall pulp donate soap sibling";
+var mnemonic = "door crazy input artist reunion wreck never powder leg truth purpose what";

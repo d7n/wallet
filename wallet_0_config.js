@@ -1,1 +1,1 @@
-var mnemonic = "firm brick pet people cave during picnic again vocal chat display review";
+var mnemonic = "either flight lend armor dawn lab crowd measure tide slam ability feed";

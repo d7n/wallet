@@ -1,1 +1,1 @@
-var mnemonic = "emerge work post border antenna major river cruise donor twenty trophy palace";
+var mnemonic = "age blade salute mule move enter relief horror diesel release trend master";

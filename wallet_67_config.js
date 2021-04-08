@@ -1,1 +1,1 @@
-var mnemonic = "write trouble pilot sheriff auction coral visual outer foil phone ketchup number";
+var mnemonic = "much wasp story client ecology mutual print cotton picnic dove huge wonder";

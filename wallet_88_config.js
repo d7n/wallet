@@ -1,1 +1,1 @@
-var mnemonic = "below patient army box now hamster maze regret scheme sound weird cushion";
+var mnemonic = "wrap course achieve reveal settle exile scatter medal bus series maid asthma";

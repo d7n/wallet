@@ -1,1 +1,1 @@
-var mnemonic = "owner duck remain wool depend garlic mesh lab room trim hollow breeze";
+var mnemonic = "helmet believe fold rocket lock pride phrase silver click verify exotic lava";

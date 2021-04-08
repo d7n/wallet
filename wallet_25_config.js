@@ -1,1 +1,1 @@
-var mnemonic = "cute wrestle recipe oppose bottom final relief pig exist order valve ordinary";
+var mnemonic = "behind observe phrase ice evolve gospel dynamic delay soft wrestle quiz drastic";

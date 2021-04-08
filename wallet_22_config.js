@@ -1,1 +1,1 @@
-var mnemonic = "barely donate enable dog hurdle mixed ship battle danger regular worry refuse";
+var mnemonic = "order hollow donate run raw cute face staff cube undo desk corn";

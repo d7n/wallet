@@ -1,1 +1,1 @@
-var mnemonic = "fragile room senior drink vivid lottery valve keen auto garment fortune engage";
+var mnemonic = "shaft liberty rotate next slender elegant gold best buyer notice reduce north";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor agree violin nation twin during oppose twenty tell brave armor hair";
+var mnemonic = "federal crush lens produce floor mule cradle luggage runway image learn success";

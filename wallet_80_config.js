@@ -1,1 +1,1 @@
-var mnemonic = "marble bird apology nut example hen phrase latin purchase expose eternal valve";
+var mnemonic = "profit need cupboard need valve stem legal hybrid drum sponsor cancel other";

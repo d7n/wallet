@@ -1,1 +1,1 @@
-var mnemonic = "capital noise awkward choose silk proud sheriff trash strike rug under robot";
+var mnemonic = "pyramid guitar imitate kitchen bubble minute glimpse intact fiber region seven length";

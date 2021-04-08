@@ -1,1 +1,1 @@
-var mnemonic = "lecture rule absorb breeze sausage gym torch beef gift brown raven embody";
+var mnemonic = "jacket erupt job erupt hope crawl machine early student depart auto review";

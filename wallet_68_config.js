@@ -1,1 +1,1 @@
-var mnemonic = "solution number work return dignity budget hurt thumb unable okay world image";
+var mnemonic = "kiss giraffe flock armed flag type insect hair spin innocent neither finish";

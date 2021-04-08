@@ -1,1 +1,1 @@
-var mnemonic = "favorite calm genius duty stereo price crumble cause that blade margin above";
+var mnemonic = "wasp inquiry oil boring armed degree quality bomb twist brown enable life";

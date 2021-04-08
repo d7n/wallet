@@ -1,1 +1,1 @@
-var mnemonic = "goose toward another position dragon park fix mushroom recipe aisle era cash";
+var mnemonic = "calm autumn smile fashion scale capital target truly claw crash gloom chef";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper engine script process brick round spoon poverty column gather balcony speak";
+var mnemonic = "market fan utility lobster fluid deliver twice door suspect hurry february height";

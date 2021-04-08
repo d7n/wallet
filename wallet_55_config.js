@@ -1,1 +1,1 @@
-var mnemonic = "picture orbit mix nominee fresh daring volume outer sniff october youth autumn";
+var mnemonic = "grace security cherry venue ostrich hybrid thank home sun canvas pen betray";

@@ -1,1 +1,1 @@
-var mnemonic = "trap device inform arrest canal web memory asthma hair swear diamond shield";
+var mnemonic = "very object hidden label kangaroo raccoon poet defense canal advice thought sell";

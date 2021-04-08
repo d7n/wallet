@@ -1,1 +1,1 @@
-var mnemonic = "seven bulk survey exchange horn exact river note affair jaguar pioneer fantasy";
+var mnemonic = "library maze stairs easy scan chicken chronic pretty help slice victory next";

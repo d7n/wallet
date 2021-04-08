@@ -1,1 +1,1 @@
-var mnemonic = "essay weapon eternal army grid cause stairs achieve later session rebuild certain";
+var mnemonic = "funny noble open sting sand raccoon engine distance across tennis proud north";

@@ -1,1 +1,1 @@
-var mnemonic = "save school night mutual cigar warfare cotton monkey primary afraid turtle gorilla";
+var mnemonic = "february cactus venture hello negative cake leg sad nest little clerk heavy";

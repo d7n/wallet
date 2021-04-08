@@ -1,1 +1,1 @@
-var mnemonic = "width index girl dance vendor quality deposit direct forum crunch erode eye";
+var mnemonic = "later bike struggle taxi popular guilt tunnel camp property laugh feel rely";

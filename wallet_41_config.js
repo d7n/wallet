@@ -1,1 +1,1 @@
-var mnemonic = "hire luggage market pave once space grass gun panther popular olympic transfer";
+var mnemonic = "under purse forum stand riot speed roast elephant case speed hobby wild";

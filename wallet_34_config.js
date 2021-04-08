@@ -1,1 +1,1 @@
-var mnemonic = "south surprise nerve latin fan measure unfair weapon bonus clutch flag note";
+var mnemonic = "brother address kick gesture fan flock panel uphold dolphin weird domain fall";

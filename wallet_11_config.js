@@ -1,1 +1,1 @@
-var mnemonic = "hockey angry ritual clog grain crystal kidney maze bag daughter bright when";
+var mnemonic = "slow news genuine wheat enjoy uncover pass piece suspect shock warrior merry";

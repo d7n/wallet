@@ -1,1 +1,1 @@
-var mnemonic = "emerge surprise nominee celery priority kid essence stereo bundle expire brass cushion";
+var mnemonic = "state arch west sauce post civil father pattern twenty over climb rough";

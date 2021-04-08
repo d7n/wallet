@@ -1,1 +1,1 @@
-var mnemonic = "ticket sustain then canoe reason video tenant odor scale lyrics fantasy pill";
+var mnemonic = "man meat tower ripple slice weather wisdom sentence duck grid dentist alpha";

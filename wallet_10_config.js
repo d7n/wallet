@@ -1,1 +1,1 @@
-var mnemonic = "vanish intact pull umbrella wink employ genuine shell ball sting grass half";
+var mnemonic = "dry identify zone repeat grain trap snake tower victory jump taste answer";

@@ -1,1 +1,1 @@
-var mnemonic = "genius when scrub ginger access south text ignore episode renew actor salmon";
+var mnemonic = "foam bread squirrel apart flag doll grid wood poem knife crawl now";

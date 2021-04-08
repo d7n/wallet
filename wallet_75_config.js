@@ -1,1 +1,1 @@
-var mnemonic = "law winter midnight yard speed safe produce imitate oblige fluid catalog gloom";
+var mnemonic = "armed marble fiber pulp embark canal waste fiber ladder replace expect staff";

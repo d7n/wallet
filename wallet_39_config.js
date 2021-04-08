@@ -1,1 +1,1 @@
-var mnemonic = "annual draft horse switch term detail meat seat cactus dial theory immense";
+var mnemonic = "mean boss spatial wave casual illness cram camera develop pulse valley flee";

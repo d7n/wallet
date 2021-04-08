@@ -1,1 +1,1 @@
-var mnemonic = "quantum awake paper jaguar jump crouch laptop only observe broken mass clap";
+var mnemonic = "total stock faith dismiss meat recall under own misery flame tennis simple";

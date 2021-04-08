@@ -1,1 +1,1 @@
-var mnemonic = "hood electric evolve always betray release ghost scout oven this garden school";
+var mnemonic = "satisfy fantasy proud deer clerk rail nurse vital favorite during gentle blanket";

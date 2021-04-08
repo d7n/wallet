@@ -1,1 +1,1 @@
-var mnemonic = "anger budget bicycle forward pyramid reflect elbow hood damage review bounce swear";
+var mnemonic = "spot machine twenty taxi final unveil crucial photo effort door ensure humor";

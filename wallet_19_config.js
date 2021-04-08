@@ -1,1 +1,1 @@
-var mnemonic = "junior traffic castle lawsuit sword item skill either trumpet taste inform divide";
+var mnemonic = "lazy example pyramid shuffle grit genuine recall jaguar erode hedgehog circle uncle";

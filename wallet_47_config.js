@@ -1,1 +1,1 @@
-var mnemonic = "run hold mad ketchup evil weird come february better critic census topic";
+var mnemonic = "mutual pull decrease pelican morning unique pony animal dose bag apple common";

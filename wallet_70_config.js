@@ -1,1 +1,1 @@
-var mnemonic = "intact puppy love loan sun copy solve assume obtain swarm cream quit";
+var mnemonic = "shallow habit powder become powder among spoil travel citizen flush rain color";

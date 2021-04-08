@@ -1,1 +1,1 @@
-var mnemonic = "oven glass buyer speed vote tell special ship soda main prepare breeze";
+var mnemonic = "jaguar kitchen clay step tragic wall blast much frog soldier dish grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen seat large violin until arrest deny maid defense caught resemble nominee";
+var mnemonic = "fortune surge excess recipe page expand emotion chunk join toss present benefit";

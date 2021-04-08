@@ -1,1 +1,1 @@
-var mnemonic = "assist nerve peasant print vendor rural vanish bamboo person since other limit";
+var mnemonic = "denial gorilla birth crawl dry rival volume gossip notice drink tree mimic";

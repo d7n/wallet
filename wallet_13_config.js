@@ -1,1 +1,1 @@
-var mnemonic = "orbit trim prosper royal void taste meat girl nation broccoli elder you";
+var mnemonic = "broken spirit clog exist visual soldier universe jazz network skate lounge involve";

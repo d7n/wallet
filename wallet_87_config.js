@@ -1,1 +1,1 @@
-var mnemonic = "drive hazard kangaroo vague merry lemon tunnel twin hen sport coral tissue";
+var mnemonic = "task calm volume top urge giggle crew library stick rude aerobic fame";

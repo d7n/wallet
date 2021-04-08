@@ -1,1 +1,1 @@
-var mnemonic = "course rescue expand rotate tissue grief wink expire zebra day retire blossom";
+var mnemonic = "forget tunnel identify drop island suggest tobacco camera then fiber enforce brush";

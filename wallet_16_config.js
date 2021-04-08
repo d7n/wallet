@@ -1,1 +1,1 @@
-var mnemonic = "work verify catch escape lesson hover oval cause secret task chef ability";
+var mnemonic = "boring report team hamster media impact hour purchase method relax calm snow";

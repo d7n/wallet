@@ -1,1 +1,1 @@
-var mnemonic = "fly pen boy suspect pistol mushroom tragic imitate episode uphold proud clap";
+var mnemonic = "injury perfect legend tunnel miss young pond tackle ten rent pilot intact";

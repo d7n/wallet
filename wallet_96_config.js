@@ -1,1 +1,1 @@
-var mnemonic = "pool jeans rug depend sing tumble soap long goddess protect keen trash";
+var mnemonic = "reform pulp mixed height rose sheriff dinner arrest cargo orchard tent green";

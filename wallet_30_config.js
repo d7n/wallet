@@ -1,1 +1,1 @@
-var mnemonic = "soon thunder dolphin away impact benefit high useless dragon seat cousin olympic";
+var mnemonic = "kitchen balance admit loan across detect gain citizen stem hammer consider recipe";

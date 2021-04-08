@@ -1,1 +1,1 @@
-var mnemonic = "smart leader erupt vendor budget blue hub adapt subject wink wrong flight";
+var mnemonic = "lock shy drum satisfy bless razor rubber electric layer inch unfold rubber";

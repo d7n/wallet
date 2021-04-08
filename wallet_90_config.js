@@ -1,1 +1,1 @@
-var mnemonic = "bone fossil want wave mirror ignore exhaust rhythm toy planet woman lock";
+var mnemonic = "loyal dream picture end sniff acquire fashion put valid picnic silver glance";

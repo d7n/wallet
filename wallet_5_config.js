@@ -1,1 +1,1 @@
-var mnemonic = "census index crash awake thrive jungle viable security room fog paddle bullet";
+var mnemonic = "rabbit engine impose soda shoulder orbit food custom duck earn tongue question";

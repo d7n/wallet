@@ -1,1 +1,1 @@
-var mnemonic = "habit slab river educate device canal paper intact catalog differ comic actor";
+var mnemonic = "stay cause advance tribe calm frequent motion device exist swallow group gorilla";

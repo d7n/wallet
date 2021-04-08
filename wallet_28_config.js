@@ -1,1 +1,1 @@
-var mnemonic = "jelly grunt stable sponsor exist sort panther piano dentist milk butter middle";
+var mnemonic = "fine machine vendor lamp hen canal fork depart diary duty segment pull";

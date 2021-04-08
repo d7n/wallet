@@ -1,1 +1,1 @@
-var mnemonic = "series robot pen tag issue talent dirt door crash flip mixed fossil";
+var mnemonic = "light powder twelve tongue size extra collect wink deer inside rigid fruit";

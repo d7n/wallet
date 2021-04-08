@@ -1,1 +1,1 @@
-var mnemonic = "dream sustain gate document volcano attitude kit only isolate chronic tag mention";
+var mnemonic = "squirrel funny head oil kingdom rib journey sword hamster number client balcony";

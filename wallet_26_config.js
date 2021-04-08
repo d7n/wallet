@@ -1,1 +1,1 @@
-var mnemonic = "throw twist label metal purpose core sadness pulse damp drive guitar family";
+var mnemonic = "history mad mango oyster leopard post camera enter bacon nation outdoor level";

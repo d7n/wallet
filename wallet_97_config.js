@@ -1,1 +1,1 @@
-var mnemonic = "fan fiscal fiscal build educate naive mixed siege peanut weapon enforce girl";
+var mnemonic = "ladder smoke ginger major nerve solid convince skull catch bomb phrase antenna";

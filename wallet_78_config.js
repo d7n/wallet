@@ -1,1 +1,1 @@
-var mnemonic = "token question finish breeze fringe tower twice true state knock army siren";
+var mnemonic = "height quit acquire butter slush fox purity universe anchor gloom slab alter";

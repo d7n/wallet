@@ -1,1 +1,1 @@
-var mnemonic = "body public yellow album rude language adult agree tag drip unhappy inflict";
+var mnemonic = "reopen when multiply holiday mesh kit dumb possible topic iron naive usage";

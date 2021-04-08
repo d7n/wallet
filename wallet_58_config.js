@@ -1,1 +1,1 @@
-var mnemonic = "canoe bomb spin day clinic unfold diesel guess sun eye reform feed";
+var mnemonic = "can source trophy oil spray enlist nurse palace load chicken spell surface";

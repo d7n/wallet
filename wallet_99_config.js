@@ -1,1 +1,1 @@
-var mnemonic = "celery prosper theory metal peace settle ridge bracket rescue pride cruel dish";
+var mnemonic = "swamp achieve bleak joke enforce festival above limit leader decorate liar pride";

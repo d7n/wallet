@@ -1,1 +1,1 @@
-var mnemonic = "render genre kid strong enemy diet frame review cactus picnic brain cause";
+var mnemonic = "merit sorry tomato giant blood juice ask face cover item relief bridge";

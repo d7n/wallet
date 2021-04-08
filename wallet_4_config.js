@@ -1,1 +1,1 @@
-var mnemonic = "action curtain bounce comic plate shoe stool miracle ladder gold planet ghost";
+var mnemonic = "step rigid stable crawl bike digital wing ghost edit tenant paddle art";

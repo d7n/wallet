@@ -1,1 +1,1 @@
-var mnemonic = "remind cool airport virus visual cash list fitness quote girl shuffle fame";
+var mnemonic = "frozen crane civil one walk reflect setup stay clay inject blue ceiling";

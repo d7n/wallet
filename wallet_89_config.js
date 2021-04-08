@@ -1,1 +1,1 @@
-var mnemonic = "dance hip whisper capable attract fine point burst again salute index oyster";
+var mnemonic = "ahead leg clip rally erase jar affair roof afford select process comic";

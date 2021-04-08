@@ -1,1 +1,1 @@
-var mnemonic = "honey cereal wage citizen lonely omit object prevent online tornado payment depart";
+var mnemonic = "example biology bid addict option door author version reject tissue rubber kidney";

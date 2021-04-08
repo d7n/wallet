@@ -1,1 +1,1 @@
-var mnemonic = "sound original legal upgrade ticket month steel bean leaf rigid stage journey";
+var mnemonic = "song quit boost captain hotel viable ghost bottom fat else still hotel";

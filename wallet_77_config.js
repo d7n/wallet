@@ -1,1 +1,1 @@
-var mnemonic = "zebra forest hero evil answer engine curtain vast coach victory submit waste";
+var mnemonic = "calm sting solid topic wall urge put slogan key horse banana weapon";

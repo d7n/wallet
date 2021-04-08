@@ -1,1 +1,1 @@
-var mnemonic = "border sunset version later absent midnight puppy right scatter theory casual tide";
+var mnemonic = "alien tail mistake early fence width all ceiling wait sustain sock behave";

@@ -1,1 +1,1 @@
-var mnemonic = "mom debate bring above enlist art friend rifle eager summer cruel spring";
+var mnemonic = "label collect tail word inquiry apple essay silver view surprise wealth axis";

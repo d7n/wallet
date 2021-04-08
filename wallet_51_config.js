@@ -1,1 +1,1 @@
-var mnemonic = "dragon forward cover yard give walk story right exhibit group upset faith";
+var mnemonic = "govern heart caught empty avoid siege famous frame mosquito monitor forward notable";

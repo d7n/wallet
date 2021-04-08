@@ -1,1 +1,1 @@
-var mnemonic = "raw fabric harsh lemon acid that squeeze neither myth ranch exist hazard";
+var mnemonic = "tree soup lottery else control canoe proud you setup multiply dial fossil";

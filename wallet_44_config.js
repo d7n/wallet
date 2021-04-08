@@ -1,1 +1,1 @@
-var mnemonic = "have buyer symbol reject faith ozone barrel fresh welcome grit kind amount";
+var mnemonic = "course soul daring anger hurt useful hood rate recall west beach inflict";
