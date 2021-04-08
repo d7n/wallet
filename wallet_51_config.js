@@ -1,1 +1,1 @@
-var mnemonic = "company omit axis when memory brother wide unveil despair foot bulb journey";
+var mnemonic = "hard design stock legal endless cushion style skin wagon drop label artwork";

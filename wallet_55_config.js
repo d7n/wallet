@@ -1,1 +1,1 @@
-var mnemonic = "fury push flame rookie bracket minute sight flight song coffee diesel jacket";
+var mnemonic = "still settle tilt gravity hole floor spatial truly pluck skull defy best";

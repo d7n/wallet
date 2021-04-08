@@ -1,1 +1,1 @@
-var mnemonic = "donor whale all local quality matter sing shallow kangaroo brisk planet page";
+var mnemonic = "near fancy snack final identify thumb trap offer rebuild broccoli clinic tobacco";

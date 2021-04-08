@@ -1,1 +1,1 @@
-var mnemonic = "shine rare garment area amused tag moral fluid silly front soldier legend";
+var mnemonic = "furnace path photo onion whip across charge bamboo dirt silly much table";

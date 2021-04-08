@@ -1,1 +1,1 @@
-var mnemonic = "border area ritual fiction fix liar recycle prevent amazing practice peanut endless";
+var mnemonic = "motor uphold describe into host orphan scissors mass act globe brass vendor";

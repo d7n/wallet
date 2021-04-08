@@ -1,1 +1,1 @@
-var mnemonic = "item mind wrestle range promote eagle bleak agent describe wage drip bonus";
+var mnemonic = "fork grief appear surface weasel forget century human hen outer apology promote";

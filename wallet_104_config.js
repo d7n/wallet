@@ -1,1 +1,1 @@
-var mnemonic = "protect arrest pave youth dress consider shine early erupt pluck fatal mirror";
+var mnemonic = "shadow slender leisure agree rich visual range day curve imitate belt crew";

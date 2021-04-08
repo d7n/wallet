@@ -1,1 +1,1 @@
-var mnemonic = "work marine seminar physical illegal seven promote tray special trigger segment plastic";
+var mnemonic = "jar melt genre identify rough shock vacuum annual material friend tooth scale";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture execute tortoise veteran fringe imitate salute exact skull addict write rigid";
+var mnemonic = "number nature since news hat animal key love shoe rough jealous endless";

@@ -1,1 +1,1 @@
-var mnemonic = "toward style ask address cruel hat maid off mask hood firm sheriff";
+var mnemonic = "ring point else exact episode update tomorrow chalk profit crane favorite staff";

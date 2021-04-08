@@ -1,1 +1,1 @@
-var mnemonic = "december soul mimic kick speak wood wisdom just dawn bitter august brush";
+var mnemonic = "space parade music mask flight robot access shy must spin math tank";

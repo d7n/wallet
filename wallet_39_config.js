@@ -1,1 +1,1 @@
-var mnemonic = "blush alcohol clown december staff squirrel gown spoil attract auction lazy reopen";
+var mnemonic = "wonder first bacon door silver budget vacuum wide fuel charge hole finish";

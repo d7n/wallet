@@ -1,1 +1,1 @@
-var mnemonic = "record merry later vital joke another smile melt achieve group eager jacket";
+var mnemonic = "carpet deal opinion benefit ill timber lava engage ethics eight fashion rice";

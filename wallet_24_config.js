@@ -1,1 +1,1 @@
-var mnemonic = "grit occur connect lemon noise effort trend behave inject enable exclude circle";
+var mnemonic = "high educate text raven bachelor life alcohol state twin frozen rescue advice";

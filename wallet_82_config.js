@@ -1,1 +1,1 @@
-var mnemonic = "paddle vote embark chaos staff direct wheel better code warrior home twenty";
+var mnemonic = "cage kitchen acid great seminar goose ticket help castle ketchup section mention";

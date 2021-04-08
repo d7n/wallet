@@ -1,1 +1,1 @@
-var mnemonic = "essence sadness help resource entry noodle educate ski tackle lonely notice youth";
+var mnemonic = "dry river awkward hospital abandon zero dose home course obey ridge shell";

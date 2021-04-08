@@ -1,1 +1,1 @@
-var mnemonic = "cabbage time rug popular tribe east credit moon window grid parrot warrior";
+var mnemonic = "office deer rice matrix weekend clean monster choose crawl such dial child";

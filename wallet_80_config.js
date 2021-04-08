@@ -1,1 +1,1 @@
-var mnemonic = "great secret drill helmet bamboo actual craft olympic wide slender neck blue";
+var mnemonic = "symbol eye future crack tuition derive quarter major maximum skill fetch limb";

@@ -1,1 +1,1 @@
-var mnemonic = "purity spider basket kingdom despair real disagree multiply head jump topic state";
+var mnemonic = "gate lava supply author volcano identify gas hospital sting steak layer era";

@@ -1,1 +1,1 @@
-var mnemonic = "define equal entire sunset logic toddler supply patrol atom capital absent salmon";
+var mnemonic = "impulse dentist goose endless motor organ design artwork buzz enhance power enter";

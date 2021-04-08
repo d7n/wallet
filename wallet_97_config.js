@@ -1,1 +1,1 @@
-var mnemonic = "veteran select life laundry vacuum robust sheriff spoil deputy renew nurse mixed";
+var mnemonic = "horse mirror purity bonus space coil crater shoulder hammer brown vehicle pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "vague pudding foot margin clog food festival open battle sausage stay basic";
+var mnemonic = "phrase error hurdle rude rose item hair video injury hold valley file";

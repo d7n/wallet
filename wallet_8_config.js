@@ -1,1 +1,1 @@
-var mnemonic = "plug stadium long carbon rigid develop run need achieve elbow opera bid";
+var mnemonic = "skin gasp hand seed sorry satisfy theory barrel subject off treat quality";

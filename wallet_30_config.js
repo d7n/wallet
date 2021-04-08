@@ -1,1 +1,1 @@
-var mnemonic = "name title more scorpion tip surface aisle zero dizzy boost fatal hockey";
+var mnemonic = "lens parrot decline stove spray person aisle capable soul huge rice thank";

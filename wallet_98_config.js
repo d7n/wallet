@@ -1,1 +1,1 @@
-var mnemonic = "illegal invite armed brown version parrot basket luggage syrup mixture picnic beauty";
+var mnemonic = "inject person hat there wrist kick focus summer equip minute caution practice";

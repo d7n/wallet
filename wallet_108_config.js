@@ -1,1 +1,1 @@
-var mnemonic = "drift uniform tell leave donate proof crumble town accident hand birth amateur";
+var mnemonic = "wheel height vanish spirit bubble goose eye report chunk nothing atom clip";

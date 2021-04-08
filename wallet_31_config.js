@@ -1,1 +1,1 @@
-var mnemonic = "finish blind admit release company coffee have comfort juice acoustic voice grace";
+var mnemonic = "hybrid secret core desk monkey awake fog guess canal sheriff tongue sugar";

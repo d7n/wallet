@@ -1,1 +1,1 @@
-var mnemonic = "act trouble unable unlock kid spray still buffalo swim robot reflect child";
+var mnemonic = "permit kitten frog loud error best race train slice despair cloth layer";

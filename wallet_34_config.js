@@ -1,1 +1,1 @@
-var mnemonic = "rib dinner river weather boil gospel horror toilet clarify figure garage toe";
+var mnemonic = "simple giraffe mandate impulse luggage audit connect firm cushion blame play bread";

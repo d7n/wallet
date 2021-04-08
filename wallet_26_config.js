@@ -1,1 +1,1 @@
-var mnemonic = "stone giggle ranch glad liquid fiction anxiety neglect cattle dutch scatter sell";
+var mnemonic = "sustain news matrix swim memory atom mechanic chicken kitten safe remain agent";

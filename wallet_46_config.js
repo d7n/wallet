@@ -1,1 +1,1 @@
-var mnemonic = "hundred either quantum peanut eagle utility document render zero fine base common";
+var mnemonic = "derive wheat hill force metal piece security short require dismiss ethics fetch";

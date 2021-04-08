@@ -1,1 +1,1 @@
-var mnemonic = "crack cute egg mule error style kick essence lumber broom music more";
+var mnemonic = "either scissors word trap birth parade toast supply crater speak promote apple";

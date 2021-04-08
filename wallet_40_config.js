@@ -1,1 +1,1 @@
-var mnemonic = "divorce hybrid transfer trouble two method umbrella plunge absorb error weapon tuna";
+var mnemonic = "crop inner leisure calm then hover sweet spare exchange forum load antique";

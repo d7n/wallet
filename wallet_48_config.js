@@ -1,1 +1,1 @@
-var mnemonic = "oyster memory whisper royal afraid web negative jealous order rack alarm affair";
+var mnemonic = "label hour option inhale shield spoon rack maze toe mix slight common";

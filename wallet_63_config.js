@@ -1,1 +1,1 @@
-var mnemonic = "chef quantum cruise meadow wrong smart broccoli swarm luggage shine sword sausage";
+var mnemonic = "pole kit trial topic weekend chronic pupil plastic envelope leave logic review";

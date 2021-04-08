@@ -1,1 +1,1 @@
-var mnemonic = "surface awkward seminar either man humor rail lake runway genuine cheap cost";
+var mnemonic = "cruise coin shop pool expose water pistol protect gauge tooth duty vote";

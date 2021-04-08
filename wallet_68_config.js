@@ -1,1 +1,1 @@
-var mnemonic = "chat input mimic now used reduce lecture timber senior sense dad sort";
+var mnemonic = "bunker voyage priority funny number buyer mimic about surge shine harvest doctor";

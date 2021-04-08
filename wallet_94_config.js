@@ -1,1 +1,1 @@
-var mnemonic = "scheme permit remind flip equip gauge moon wrestle fragile lamp purpose maple";
+var mnemonic = "build hint grief gloom elder color demise uphold pink festival wall about";

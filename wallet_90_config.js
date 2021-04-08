@@ -1,1 +1,1 @@
-var mnemonic = "pulp live quiz cargo quality give clump wreck drift differ festival bamboo";
+var mnemonic = "toast budget switch phone recall wave chief kiss poem hurt stool sadness";

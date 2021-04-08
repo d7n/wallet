@@ -1,1 +1,1 @@
-var mnemonic = "stand film van unaware foil danger sketch chief glide away sunny path";
+var mnemonic = "mystery cost box eyebrow sibling federal joke vocal lake banner asthma above";

@@ -1,1 +1,1 @@
-var mnemonic = "awake trust trigger sleep cause pyramid oil ugly sort claim clever crime";
+var mnemonic = "deer genuine differ royal pet ill margin click history proof believe stomach";

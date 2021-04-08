@@ -1,1 +1,1 @@
-var mnemonic = "shock aspect twist gown save rail obtain bar layer runway decorate reward";
+var mnemonic = "melt thing weather answer approve again october verb sauce explain mule bargain";

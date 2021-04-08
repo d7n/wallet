@@ -1,1 +1,1 @@
-var mnemonic = "sponsor kangaroo busy stage debate update opinion loyal tip wisdom magic pretty";
+var mnemonic = "smoke table skirt album announce critic purity swap infant castle inmate hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "thing eight learn brief idea machine capable treat alarm endorse vehicle wisdom";
+var mnemonic = "imitate snap height mouse forget begin skate cage verify voice final seat";

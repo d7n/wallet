@@ -1,1 +1,1 @@
-var mnemonic = "angry diamond kiss enlist unknown glide awesome field stairs milk black biology";
+var mnemonic = "install vast iron tongue hill smile elbow robust enrich already morning reunion";

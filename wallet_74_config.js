@@ -1,1 +1,1 @@
-var mnemonic = "turn next neutral kind curve slab scare include history trouble plunge safe";
+var mnemonic = "zero balcony glance guilt cave rare almost nephew color palm elite forget";

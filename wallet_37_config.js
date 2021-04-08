@@ -1,1 +1,1 @@
-var mnemonic = "face age negative now bachelor october balance relax list idea action exclude";
+var mnemonic = "surround slim science design tomato play reject tourist grunt trash oxygen sing";

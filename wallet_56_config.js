@@ -1,1 +1,1 @@
-var mnemonic = "purpose another obtain surprise spice school aerobic struggle dose question couple mosquito";
+var mnemonic = "rebuild awkward submit monster buzz appear funny lecture inner fault castle judge";

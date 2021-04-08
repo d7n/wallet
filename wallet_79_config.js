@@ -1,1 +1,1 @@
-var mnemonic = "else region alley bubble document giant clock climb month innocent road clerk";
+var mnemonic = "gym garage circle eight cart parade trim ice tooth despair unusual believe";

@@ -1,1 +1,1 @@
-var mnemonic = "oak emotion punch minute museum dumb bus clarify planet hello dragon scrap";
+var mnemonic = "purpose fatigue meat suspect now ridge oppose menu clay trash path number";

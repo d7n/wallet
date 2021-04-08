@@ -1,1 +1,1 @@
-var mnemonic = "sense track multiply tomato lizard exact nasty alert rack gentle test truth";
+var mnemonic = "jewel method smart glad remind mom melody puppy price exercise jazz drift";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture result prosper machine invest habit walk oval receive rib beauty rabbit";
+var mnemonic = "rice assume task east half report worth gift tell okay milk funny";

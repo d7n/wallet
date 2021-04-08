@@ -1,1 +1,1 @@
-var mnemonic = "rule process unusual rice stool plastic float dumb disease such verb suit";
+var mnemonic = "dragon ladder space recall neck inner expect narrow goat desk miss loan";

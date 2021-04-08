@@ -1,1 +1,1 @@
-var mnemonic = "sure dress disease multiply version name curve code shadow object milk egg";
+var mnemonic = "funny spatial plug orphan space profit soft pole hungry secret woman dad";

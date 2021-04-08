@@ -1,1 +1,1 @@
-var mnemonic = "common radio attract canvas knee start page puppy column elite must expose";
+var mnemonic = "gown burger curtain twelve spy property huge buddy secret code host sick";

@@ -1,1 +1,1 @@
-var mnemonic = "pool wheel transfer radar journey blast foster purse pulp detail weapon endless";
+var mnemonic = "behind wool cancel obvious delay obscure wrist recipe what people merge process";

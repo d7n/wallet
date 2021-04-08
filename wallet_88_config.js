@@ -1,1 +1,1 @@
-var mnemonic = "sell zoo hub echo ocean top library trial bring chicken boring stage";
+var mnemonic = "roof visit barrel asthma tell cart quiz salt sauce defy loyal drive";

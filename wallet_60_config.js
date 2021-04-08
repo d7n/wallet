@@ -1,1 +1,1 @@
-var mnemonic = "stock aspect case sock dance fall guitar excite remind vehicle bamboo topic";
+var mnemonic = "famous slow live final flame nation orient snap oxygen hidden tattoo simple";

@@ -1,1 +1,1 @@
-var mnemonic = "found credit object reflect fetch area bracket urban tongue galaxy bike warm";
+var mnemonic = "fringe canvas limb person toddler blur kingdom check sword sauce roast labor";

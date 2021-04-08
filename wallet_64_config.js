@@ -1,1 +1,1 @@
-var mnemonic = "ketchup alcohol squirrel sweet universe annual become air alter idea display bird";
+var mnemonic = "liar ride hen carry cover eight much laugh adult reject clutch annual";

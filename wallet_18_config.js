@@ -1,1 +1,1 @@
-var mnemonic = "saddle firm almost true open ticket curious tuition patch frame want orphan";
+var mnemonic = "mammal body melody silver erosion afraid account report away trouble force glimpse";

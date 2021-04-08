@@ -1,1 +1,1 @@
-var mnemonic = "joy snap holiday inflict reflect total kind exotic eager easily sunset kangaroo";
+var mnemonic = "oval catch horse panther smart original inquiry mass cement fun public pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "caution marine zoo load aim inquiry husband say census faith window emerge";
+var mnemonic = "gold very element never ten enhance soon profit input thing problem fitness";

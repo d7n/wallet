@@ -1,1 +1,1 @@
-var mnemonic = "accuse hobby defense weather front avoid thank fringe mom ahead panther castle";
+var mnemonic = "olive resist document radar keep alpha faint wheel devote journey debate senior";

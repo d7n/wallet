@@ -1,1 +1,1 @@
-var mnemonic = "segment steak loan defense father illegal crater account aunt feel term swarm";
+var mnemonic = "drive asset toast goose moral saddle boy layer cash lion satisfy stock";

@@ -1,1 +1,1 @@
-var mnemonic = "slam hole luxury parade regret one cupboard volcano usual fresh payment maple";
+var mnemonic = "rebuild pepper nephew merit dawn opinion miss balance bench olympic female end";

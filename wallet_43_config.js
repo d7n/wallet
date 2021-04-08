@@ -1,1 +1,1 @@
-var mnemonic = "crime horn bargain little agree proud ship clay file organ notable trend";
+var mnemonic = "cat hedgehog material frog swift segment music tobacco report luggage scare word";

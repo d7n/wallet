@@ -1,1 +1,1 @@
-var mnemonic = "van behave deal mass current twist memory agent cannon define asthma man";
+var mnemonic = "keep action rug suffer tip decorate tonight reflect abandon rule thing domain";

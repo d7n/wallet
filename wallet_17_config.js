@@ -1,1 +1,1 @@
-var mnemonic = "hope devote text evidence parade net hybrid rent increase call deer pyramid";
+var mnemonic = "only bullet toast usage envelope music purchase mimic slab roast broccoli shrug";

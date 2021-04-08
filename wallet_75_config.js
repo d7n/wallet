@@ -1,1 +1,1 @@
-var mnemonic = "journey twice omit actual fan already rich chimney stool matter tackle bird";
+var mnemonic = "patrol wealth priority tip stand huge public try hire north output suggest";

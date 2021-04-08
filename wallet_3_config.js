@@ -1,1 +1,1 @@
-var mnemonic = "angry fever range secret great negative soup pull panel tiger melt hamster";
+var mnemonic = "dawn fiscal federal begin neutral brown oak impose physical talk exhaust aisle";

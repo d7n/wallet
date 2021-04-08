@@ -1,1 +1,1 @@
-var mnemonic = "fix salmon trim mirror similar gesture during spy merge voyage ensure fold";
+var mnemonic = "stove voyage same hundred genuine height vapor beauty review daughter broken question";

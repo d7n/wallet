@@ -1,1 +1,1 @@
-var mnemonic = "master inflict search casino pink trade ordinary brave daughter fatigue include motion";
+var mnemonic = "ripple scale flag above urban remember tongue mirror infant toss spread anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "idle quiz hockey creek claw cake goddess load forward obvious ribbon extra";
+var mnemonic = "wear frame range cereal protect bring frozen gauge you hire load zero";

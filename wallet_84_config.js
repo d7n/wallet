@@ -1,1 +1,1 @@
-var mnemonic = "notice garbage void gloom drive season crime hundred small skate plug bubble";
+var mnemonic = "grace across shy walnut lake alarm mixture brain child home march diet";

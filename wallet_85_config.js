@@ -1,1 +1,1 @@
-var mnemonic = "fortune siren orphan primary mail curious enough jewel charge track install memory";
+var mnemonic = "ride chicken chapter survey kit spike hedgehog fiction funny broken shrimp avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "find limb occur flush assist write argue quantum symbol funny legend hover";
+var mnemonic = "caught wheel before cheese spring gloom online door punch pizza kiss clump";

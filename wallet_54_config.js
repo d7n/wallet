@@ -1,1 +1,1 @@
-var mnemonic = "expand scan begin live sand wood depart bicycle bus photo yard melt";
+var mnemonic = "essay sustain isolate program kite furnace grocery receive butter critic trouble canyon";

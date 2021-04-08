@@ -1,1 +1,1 @@
-var mnemonic = "cactus welcome train until march slush build visual deputy ensure angry soul";
+var mnemonic = "ski lab eyebrow sauce symbol vault rent exchange business clutch promote clutch";

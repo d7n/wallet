@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo bean exhibit blame seat use jaguar ready coil crawl peace fluid";
+var mnemonic = "pepper ill donkey pause electric biology develop trip eager undo divide become";

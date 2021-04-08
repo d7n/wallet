@@ -1,1 +1,1 @@
-var mnemonic = "step ribbon call mind belt iron settle wrap pottery between coral surround";
+var mnemonic = "duty quick photo intact absent buffalo veteran lazy punch chicken stem lazy";

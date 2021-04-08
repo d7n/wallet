@@ -1,1 +1,1 @@
-var mnemonic = "candy area number priority market much loop tray coconut oblige drip trade";
+var mnemonic = "pepper hand enrich solid badge toy release mass license cruel want anchor";

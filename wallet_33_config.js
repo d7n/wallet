@@ -1,1 +1,1 @@
-var mnemonic = "brush limb menu differ vital trim gown cigar ranch run open first";
+var mnemonic = "sure few lobster end flock equip record bag noise foam acid benefit";

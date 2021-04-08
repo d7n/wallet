@@ -1,1 +1,1 @@
-var mnemonic = "fence fetch lounge shy print kitchen powder charge dust aisle vague limb";
+var mnemonic = "obscure hedgehog aunt insane oxygen window modify reform sunset wise figure region";

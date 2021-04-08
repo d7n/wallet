@@ -1,1 +1,1 @@
-var mnemonic = "truth give repair spend pill valid window horror canvas jar marble outer";
+var mnemonic = "possible chunk post sorry quit favorite return section museum volume method model";

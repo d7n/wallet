@@ -1,1 +1,1 @@
-var mnemonic = "render lava inch range devote zone region idle hockey beach swallow crew";
+var mnemonic = "protect riot laptop supreme funny birth fly journey monkey cigar fee wave";

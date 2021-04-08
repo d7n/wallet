@@ -1,1 +1,1 @@
-var mnemonic = "wide travel chuckle edit sing left abuse thought excuse then asset refuse";
+var mnemonic = "what caution nation oblige evil corn season fragile solve veteran boring monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket slogan across december share field reject rude picture month student rude";
+var mnemonic = "slam affair ethics ketchup fog mail twelve auto dismiss want wealth entry";

@@ -1,1 +1,1 @@
-var mnemonic = "hire arrange planet expose mistake stem double sight admit hurt solution title";
+var mnemonic = "junk luggage maid dynamic embark know warm affair boil pioneer comic give";

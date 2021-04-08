@@ -1,1 +1,1 @@
-var mnemonic = "wife claim siren spy antenna turn slam slot warfare again lucky coffee";
+var mnemonic = "shaft struggle comic subway rice survey obvious gold unique excite solar bounce";
