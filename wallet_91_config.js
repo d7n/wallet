@@ -1,1 +1,1 @@
-var mnemonic = "issue balcony change glide assume interest surge enable hungry regret apple wing";
+var mnemonic = "airport advance fantasy tent box answer surface chest dash garage right assume";

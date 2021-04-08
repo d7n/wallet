@@ -1,1 +1,1 @@
-var mnemonic = "crunch dress cousin honey become stick august ill skill mercy maple vapor";
+var mnemonic = "shallow weird planet else pull correct frog mask gallery seminar coin mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "thank noise slow net square tomorrow snack clerk essay debris motor century";
+var mnemonic = "vendor novel riot alone benefit winter clock duck panther edit antenna sibling";

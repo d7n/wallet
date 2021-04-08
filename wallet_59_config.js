@@ -1,1 +1,1 @@
-var mnemonic = "clay approve number wheel license pipe lion donkey pottery swift special tissue";
+var mnemonic = "few indicate defy ribbon wrestle farm seat purpose clown wait clever urban";

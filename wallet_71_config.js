@@ -1,1 +1,1 @@
-var mnemonic = "fiscal satisfy oak body omit analyst lounge survey eight valve rice grit";
+var mnemonic = "burden behave supply sail orchard original what glimpse taste island bicycle bonus";

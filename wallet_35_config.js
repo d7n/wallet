@@ -1,1 +1,1 @@
-var mnemonic = "car permit sad decide cook perfect sell stumble room dolphin atom possible";
+var mnemonic = "settle boost gown salad chimney appear ethics response repair across patch swallow";

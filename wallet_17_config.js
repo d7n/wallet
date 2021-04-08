@@ -1,1 +1,1 @@
-var mnemonic = "stove plate pigeon muffin rice trouble diagram exile doctor witness town minor";
+var mnemonic = "escape accident host depend damage island hole tomorrow feature claw depart frost";

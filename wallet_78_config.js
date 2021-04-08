@@ -1,1 +1,1 @@
-var mnemonic = "wine shop funny earn party slow hat horn concert primary cable machine";
+var mnemonic = "close muffin demise explain voyage fame develop shrimp fabric useful focus scale";

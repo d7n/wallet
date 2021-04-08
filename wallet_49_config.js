@@ -1,1 +1,1 @@
-var mnemonic = "emotion method surprise music pudding credit evidence submit enforce whale mouse cancel";
+var mnemonic = "economy velvet typical digital strategy feel hole aim erode flush gadget barrel";

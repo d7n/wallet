@@ -1,1 +1,1 @@
-var mnemonic = "barrel neither virus govern mention jealous already famous subway fee street legal";
+var mnemonic = "safe fat ladder chalk share enable unlock power body gasp bright arrest";

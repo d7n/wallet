@@ -1,1 +1,1 @@
-var mnemonic = "suit seed festival waste eye correct wrap pioneer amount toe badge stem";
+var mnemonic = "purchase index must already awful quiz three step reflect broken kick person";

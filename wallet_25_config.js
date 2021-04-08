@@ -1,1 +1,1 @@
-var mnemonic = "debris flower hamster artefact attack roast clarify nominee inside long sell recycle";
+var mnemonic = "steak soap seek custom stable humble mechanic horror ice left diagram census";

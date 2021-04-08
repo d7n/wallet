@@ -1,1 +1,1 @@
-var mnemonic = "comfort hole control spray fiction abstract call royal coast fade buyer trouble";
+var mnemonic = "test hunt primary state setup cube scout drum honey liberty exchange someone";

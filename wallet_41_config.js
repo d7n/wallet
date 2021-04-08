@@ -1,1 +1,1 @@
-var mnemonic = "ahead island popular camera space evoke heart lesson next female master health";
+var mnemonic = "project refuse velvet require melt transfer pony mountain lady help scale speed";

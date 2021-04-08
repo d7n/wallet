@@ -1,1 +1,1 @@
-var mnemonic = "scale gas orphan ugly kitchen bitter muffin chicken drift talent ankle warm";
+var mnemonic = "fringe guilt owner view ugly amateur bright dish despair category exhibit rich";

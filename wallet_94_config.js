@@ -1,1 +1,1 @@
-var mnemonic = "defy area square shield want file pear glass retreat obey ability village";
+var mnemonic = "core culture place check token all erosion sting judge black evidence spell";

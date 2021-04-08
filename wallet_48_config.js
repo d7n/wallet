@@ -1,1 +1,1 @@
-var mnemonic = "toast later raw consider stick answer disagree tent bulb pattern delay embark";
+var mnemonic = "position mail tilt zone truck then mushroom deal squirrel enhance ostrich assault";

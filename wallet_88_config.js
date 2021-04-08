@@ -1,1 +1,1 @@
-var mnemonic = "category razor pelican never hollow index harsh myth notable notable tray exercise";
+var mnemonic = "impose argue orchard give heart announce basket fantasy dinosaur vital border slice";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel law deposit inspire patient skull inmate pottery boost plunge stage tunnel";
+var mnemonic = "rain chief jacket symptom tackle bracket close audit same expect topic display";

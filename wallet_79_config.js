@@ -1,1 +1,1 @@
-var mnemonic = "inmate vacant wait angle document session kingdom coyote clarify pottery arm decade";
+var mnemonic = "diet over cereal pledge drama eagle evidence permit winter lazy treat garment";

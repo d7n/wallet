@@ -1,1 +1,1 @@
-var mnemonic = "outside curve tortoise select unit leopard hat rare render slow chase card";
+var mnemonic = "pupil slice evolve happy embody couple engine calm kite submit topple account";

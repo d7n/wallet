@@ -1,1 +1,1 @@
-var mnemonic = "hand tuna remind foil traffic elbow search advance spot panther battle traffic";
+var mnemonic = "disease peace heavy salad awkward raise tortoise shiver stay ride sunset hotel";

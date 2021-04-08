@@ -1,1 +1,1 @@
-var mnemonic = "original uncle hundred swear dolphin mule about upset film general sheriff strategy";
+var mnemonic = "harsh such buddy slice message reject envelope curve ozone fit setup blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom mobile awesome keen capital horror view sunset hazard image crunch unable";
+var mnemonic = "sadness pyramid now wolf unusual rural direct box lake boy miss crowd";

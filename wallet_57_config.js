@@ -1,1 +1,1 @@
-var mnemonic = "van soda bar that industry risk metal blue oval bar seed example";
+var mnemonic = "erode filter shallow scale west repeat adult sketch surge unaware device current";

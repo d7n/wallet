@@ -1,1 +1,1 @@
-var mnemonic = "sleep rocket release athlete torch perfect veteran floor mail boss electric cherry";
+var mnemonic = "intact feel island snack north milk toe aisle ice timber flavor neither";

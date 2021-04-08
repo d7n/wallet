@@ -1,1 +1,1 @@
-var mnemonic = "demand cotton acid pledge ring strategy extend main world banana ill world";
+var mnemonic = "success turkey citizen stamp tribe drift blush lock network place juice minimum";

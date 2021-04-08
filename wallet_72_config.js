@@ -1,1 +1,1 @@
-var mnemonic = "fabric globe web lake outer curious alter scorpion emotion leave purity ensure";
+var mnemonic = "long wash tank biology equip ring captain trial penalty garlic prosper produce";

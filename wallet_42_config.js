@@ -1,1 +1,1 @@
-var mnemonic = "carbon purse describe cheese bike perfect elephant case race blouse hungry desk";
+var mnemonic = "under gorilla version sniff you clap only great worry visit near tell";

@@ -1,1 +1,1 @@
-var mnemonic = "garment leisure fiscal rate deposit menu onion group daring they kid penalty";
+var mnemonic = "voice script decline reject symptom raccoon weekend sing pledge loop awesome you";

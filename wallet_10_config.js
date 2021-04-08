@@ -1,1 +1,1 @@
-var mnemonic = "subject uphold outer brick arm typical crumble myself social accuse void jealous";
+var mnemonic = "either private left fan expire access radio prepare alter unable employ remove";

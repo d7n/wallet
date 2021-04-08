@@ -1,1 +1,1 @@
-var mnemonic = "tissue forest robot popular joke axis vintage moon upon bridge regular what";
+var mnemonic = "extend remove wood stone cream lonely broccoli use oxygen figure gate evidence";

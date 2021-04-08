@@ -1,1 +1,1 @@
-var mnemonic = "vapor shallow attack ten camp step crater duck champion boss cube devote";
+var mnemonic = "casual cause clay neutral analyst ordinary someone intact lunar prosper company peanut";

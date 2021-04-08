@@ -1,1 +1,1 @@
-var mnemonic = "pepper flower universe submit share praise face flip cable fragile figure tiny";
+var mnemonic = "patrol fury drill corn valid habit behind swap bind smart gentle bike";

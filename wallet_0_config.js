@@ -1,1 +1,1 @@
-var mnemonic = "aunt scan slab fox wheel addict eager ice protect own jungle aim";
+var mnemonic = "shop where deny buzz day animal vibrant library describe issue tongue slush";

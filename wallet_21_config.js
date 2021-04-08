@@ -1,1 +1,1 @@
-var mnemonic = "symptom will tone ski session settle faint team pet acid derive meadow";
+var mnemonic = "child impulse craft exile you prosper rail search prosper lemon oak category";

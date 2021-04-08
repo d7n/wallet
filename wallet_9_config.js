@@ -1,1 +1,1 @@
-var mnemonic = "list erase plunge rely index frost answer effort journey split blouse glad";
+var mnemonic = "lens patient bunker milk net remember soda run lab kitchen crane check";

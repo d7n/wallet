@@ -1,1 +1,1 @@
-var mnemonic = "rare virus rail night shine kidney stove amateur still stamp slender tower";
+var mnemonic = "pen start grab stone lend casino egg mechanic top happy awful leisure";

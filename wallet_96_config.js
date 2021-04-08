@@ -1,1 +1,1 @@
-var mnemonic = "canyon submit also load pluck unhappy addict burden call raise pioneer grace";
+var mnemonic = "fat virtual write buddy source medal empty elevator walk credit scorpion mixed";

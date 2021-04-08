@@ -1,1 +1,1 @@
-var mnemonic = "help harsh sail danger kite debris jaguar image solid view cabin sun";
+var mnemonic = "wine blood reduce belt ketchup common ugly wear current art goat great";

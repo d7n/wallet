@@ -1,1 +1,1 @@
-var mnemonic = "end glass top more north alone setup aim party can kiwi alter";
+var mnemonic = "crowd provide limb umbrella stool swing lucky arctic honey pass click solve";

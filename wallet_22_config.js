@@ -1,1 +1,1 @@
-var mnemonic = "rude journey visual can illegal judge bonus elegant month occur shrug hollow";
+var mnemonic = "caution owner liberty since joke daughter hand soccer coral unaware sentence leisure";

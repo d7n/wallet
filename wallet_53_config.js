@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur model humor unique apple roof direct raccoon arctic stone horror jump";
+var mnemonic = "fold song hold taste elbow distance clock grass atom sick boss winner";

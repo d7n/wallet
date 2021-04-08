@@ -1,1 +1,1 @@
-var mnemonic = "key metal impact adult joy admit ugly rich adult crop twelve corn";
+var mnemonic = "purpose drip syrup joke muffin expect garden awake half slam farm humor";

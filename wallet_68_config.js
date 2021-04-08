@@ -1,1 +1,1 @@
-var mnemonic = "endless swim atom material device enlist shoot blade hip behind grain shrug";
+var mnemonic = "vital erosion awake rigid electric deal toilet autumn primary pipe magnet into";

@@ -1,1 +1,1 @@
-var mnemonic = "spare dash employ ketchup edit victory marble puppy silent slogan duck document";
+var mnemonic = "client suit copy crystal spoil deer remind under salt canyon source cash";

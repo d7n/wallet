@@ -1,1 +1,1 @@
-var mnemonic = "noodle inherit patient client timber derive force fee defense suspect doctor renew";
+var mnemonic = "boat inside label version tilt fan find property vacant ship casino garage";

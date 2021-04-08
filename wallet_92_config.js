@@ -1,1 +1,1 @@
-var mnemonic = "life alter keep certain mimic devote sign stuff bonus song thunder riot";
+var mnemonic = "media tired neglect online all deposit scorpion purpose dignity elder pencil fringe";

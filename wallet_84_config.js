@@ -1,1 +1,1 @@
-var mnemonic = "october pyramid bubble ketchup guess income merge use type vicious shell increase";
+var mnemonic = "buffalo valid train jar spring blast smile club stay swift law dolphin";

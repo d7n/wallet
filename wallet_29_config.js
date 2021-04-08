@@ -1,1 +1,1 @@
-var mnemonic = "cross strong picture wheel test danger suggest devote room repeat reopen now";
+var mnemonic = "embark still milk bright ocean goat interest snack artefact ignore valve carpet";

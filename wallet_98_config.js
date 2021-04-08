@@ -1,1 +1,1 @@
-var mnemonic = "citizen cliff garbage utility match biology stove water truly vacuum orphan very";
+var mnemonic = "hero verb toilet defy vintage charge amateur price blue win access case";

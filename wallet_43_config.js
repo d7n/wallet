@@ -1,1 +1,1 @@
-var mnemonic = "lobster army blind chapter release anger jaguar better novel loud symptom fabric";
+var mnemonic = "release sheriff piano glass relax orient praise ability chronic siren age hen";

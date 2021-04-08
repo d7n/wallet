@@ -1,1 +1,1 @@
-var mnemonic = "coast immense stem alter junk creek aware stable predict attack today cluster";
+var mnemonic = "marriage buddy obvious shield satoshi hospital vocal smooth want dress object security";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin crouch program table valid ankle party check seven ability trade slim";
+var mnemonic = "brave victory brave pond curious chaos disagree inflict wine napkin pride umbrella";

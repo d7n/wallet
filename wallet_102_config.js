@@ -1,1 +1,1 @@
-var mnemonic = "symptom spell negative hope index metal all pigeon shrimp pink muscle bundle";
+var mnemonic = "elevator category hub model initial nest rookie ugly upper ill summer cause";

@@ -1,1 +1,1 @@
-var mnemonic = "aim inherit economy define grocery stairs struggle seminar diamond normal seed chest";
+var mnemonic = "surround anchor repair stick life give umbrella hint outside demise weekend denial";

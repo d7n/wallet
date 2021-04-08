@@ -1,1 +1,1 @@
-var mnemonic = "top vocal fluid key panda erase talk switch way harbor indoor emotion";
+var mnemonic = "flat coil network broken audit artefact domain giant earth provide merge cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "visa trial opinion shop subject kitten cargo fancy blanket foster forget execute";
+var mnemonic = "foot mother narrow field truck river tide employ stamp demise design predict";

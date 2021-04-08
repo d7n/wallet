@@ -1,1 +1,1 @@
-var mnemonic = "village pelican exclude frost remember object demise praise giant author solution meat";
+var mnemonic = "wrap clump envelope whisper bless cheap silver gift garden ramp legend floor";

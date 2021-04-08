@@ -1,1 +1,1 @@
-var mnemonic = "mystery rude repair tank eager blade pottery venture fabric fold marble ripple";
+var mnemonic = "twin bracket ball cost abuse torch forum faculty opera naive need scan";

@@ -1,1 +1,1 @@
-var mnemonic = "fish soldier total convince volcano original quick sad magnet setup piece switch";
+var mnemonic = "fame tobacco defense ready output forum winner lend access resist then pepper";

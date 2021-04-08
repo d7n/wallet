@@ -1,1 +1,1 @@
-var mnemonic = "animal topic job combine noise silk jewel merge liar air ecology unaware";
+var mnemonic = "human brown meat tilt frozen arrange acoustic year luxury present eternal fix";

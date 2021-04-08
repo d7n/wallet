@@ -1,1 +1,1 @@
-var mnemonic = "rescue loan execute furnace depart click polar video unable match liquid width";
+var mnemonic = "accuse vendor transfer glory acid ski humble impulse float abstract thought today";

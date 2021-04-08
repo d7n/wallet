@@ -1,1 +1,1 @@
-var mnemonic = "honey above siege pilot music robot remain brass moral spoil lizard deny";
+var mnemonic = "drum vocal spread offer caught raise tattoo illegal merry result elegant adult";

@@ -1,1 +1,1 @@
-var mnemonic = "rally wagon wisdom ability stamp sort burst picture dumb million genre brisk";
+var mnemonic = "opera alpha movie athlete lift broken squeeze bubble manual alley expand fortune";

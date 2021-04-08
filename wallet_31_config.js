@@ -1,1 +1,1 @@
-var mnemonic = "humor ritual wrong blue month tennis fish leaf change misery quantum problem";
+var mnemonic = "illness vehicle peasant hand hockey misery large spike swamp silver cheese apology";

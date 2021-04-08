@@ -1,1 +1,1 @@
-var mnemonic = "figure output tail visual canvas notice muffin try share caution avocado relax";
+var mnemonic = "desert vendor wrap advance lazy fall slice tone bottom spare doll plate";

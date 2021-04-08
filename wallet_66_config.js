@@ -1,1 +1,1 @@
-var mnemonic = "banner ghost sword room police share task wet total volcano discover trigger";
+var mnemonic = "false bachelor flavor gadget citizen eyebrow hobby impulse merge stand virtual federal";

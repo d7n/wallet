@@ -1,1 +1,1 @@
-var mnemonic = "crucial chest invite either retreat fog toss put barrel wear civil desk";
+var mnemonic = "ten damp custom admit agent grit ugly ensure wasp rotate dry body";

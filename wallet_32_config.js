@@ -1,1 +1,1 @@
-var mnemonic = "slice rigid august broom love possible burst culture final home add panda";
+var mnemonic = "rebuild upgrade stereo cattle famous canyon boost arrive stuff vital sense topic";

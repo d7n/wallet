@@ -1,1 +1,1 @@
-var mnemonic = "enforce eight march vacant before actor crumble arrive glimpse sing alert caution";
+var mnemonic = "thing correct glance debate anger excuse drip island dust game eternal sense";

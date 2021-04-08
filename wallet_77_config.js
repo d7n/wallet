@@ -1,1 +1,1 @@
-var mnemonic = "ill crumble damage electric reward chase cattle retire over battle sort jelly";
+var mnemonic = "caution author victory various gap tilt uniform upset skate earth caught sort";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing moment crash cream because candy abandon team embark lady slogan crawl";
+var mnemonic = "lens argue acid blame curve acid lunar mountain craft quantum cotton expect";

@@ -1,1 +1,1 @@
-var mnemonic = "card wave matter earn give version reform awesome upgrade upset below track";
+var mnemonic = "iron gossip bamboo kiss style never nothing angry century name noodle attitude";

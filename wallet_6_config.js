@@ -1,1 +1,1 @@
-var mnemonic = "popular stay rough farm illness sphere movie turtle ankle one surge vocal";
+var mnemonic = "balcony ask insect indicate decide achieve veteran govern slice shock valve intact";

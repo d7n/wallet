@@ -1,1 +1,1 @@
-var mnemonic = "brother basic pistol entry thought wild stone era dress bring chase hungry";
+var mnemonic = "oblige laptop actor vintage gun need siren question depend expand extend tent";

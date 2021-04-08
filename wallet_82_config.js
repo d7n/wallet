@@ -1,1 +1,1 @@
-var mnemonic = "merry winner path outer wing rebel version gravity month bottom parrot sample";
+var mnemonic = "ahead lawsuit auction input game skull monitor sand coyote broom visit cable";

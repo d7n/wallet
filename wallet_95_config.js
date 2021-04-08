@@ -1,1 +1,1 @@
-var mnemonic = "sock foam horse rifle usage wish athlete place congress cigar desert film";
+var mnemonic = "muffin door tattoo electric ankle banana border sustain cook again pilot try";

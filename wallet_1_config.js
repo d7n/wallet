@@ -1,1 +1,1 @@
-var mnemonic = "envelope chimney income this elegant taste story jewel rapid detect swarm initial";
+var mnemonic = "design image clay fuel wood two alter nature pink clump learn fever";

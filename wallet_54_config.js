@@ -1,1 +1,1 @@
-var mnemonic = "fringe sand glad average cigar genuine priority electric lemon attract custom sound";
+var mnemonic = "sustain demand bag march wing quantum subject much cliff join boy predict";

@@ -1,1 +1,1 @@
-var mnemonic = "add acquire black bulk slush hire nest goddess capital peanut zebra siren";
+var mnemonic = "undo quarter remain base child unable spoon ritual speed craft soon this";

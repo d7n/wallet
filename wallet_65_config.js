@@ -1,1 +1,1 @@
-var mnemonic = "deposit help notable unfold work blast flip immense rail will jewel room";
+var mnemonic = "similar volcano simple tragic work fish angle tomorrow miss olive scout shy";

@@ -1,1 +1,1 @@
-var mnemonic = "debate simple offer figure base comfort tiger pigeon mouse destroy lunch two";
+var mnemonic = "potato doctor learn manage parrot maid unlock correct hello frog nut cement";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant west excite label mouse cliff sad champion gun recipe love crisp";
+var mnemonic = "hard pill antique warfare portion assume album vessel joy summer romance case";

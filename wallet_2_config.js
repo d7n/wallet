@@ -1,1 +1,1 @@
-var mnemonic = "ocean cabin law arena rabbit uncover ordinary purpose slide reform coffee paddle";
+var mnemonic = "hobby ozone banner system attract drift tragic exit prosper require suspect axis";

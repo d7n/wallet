@@ -1,1 +1,1 @@
-var mnemonic = "pistol satoshi exile urge palace almost pulp laptop thumb weapon social staff";
+var mnemonic = "frown evidence leave nest couch inhale melody believe leave weasel embrace fish";

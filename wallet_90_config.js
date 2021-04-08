@@ -1,1 +1,1 @@
-var mnemonic = "grain canal green gospel foam always advance cliff expose sniff vast surge";
+var mnemonic = "soda forum armed recall letter ribbon wish forward clay weasel mutual celery";

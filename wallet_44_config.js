@@ -1,1 +1,1 @@
-var mnemonic = "exile bullet athlete cause cheese hungry what gasp fury flag resemble rate";
+var mnemonic = "town canoe animal cannon pull faculty brand evil pool image race forum";

@@ -1,1 +1,1 @@
-var mnemonic = "question session material arrange giggle link soldier mad peasant image fatal taxi";
+var mnemonic = "auto nation harsh word client response bonus love cushion invite sort deposit";

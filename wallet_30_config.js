@@ -1,1 +1,1 @@
-var mnemonic = "swift monkey popular subway alone abandon rescue warrior video velvet crisp strike";
+var mnemonic = "fat harvest toss now knock approve cable critic dinosaur erase narrow spoil";

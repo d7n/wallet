@@ -1,1 +1,1 @@
-var mnemonic = "zebra cloth leg later broom rule deer word glory online laundry enter";
+var mnemonic = "tuition squirrel mushroom clever make human normal menu impact similar affair ecology";
