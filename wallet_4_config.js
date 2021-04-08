@@ -1,1 +1,1 @@
-var mnemonic = "sell soon timber elephant note supreme other match april strong smooth pulse";
+var mnemonic = "anxiety craft taxi jacket panel street bundle approve ski evidence polar illness";

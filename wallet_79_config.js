@@ -1,1 +1,1 @@
-var mnemonic = "tool equip usage path dune company animal win cousin beyond neglect nature";
+var mnemonic = "brush board collect stairs duck hold plate draw seat multiply body federal";

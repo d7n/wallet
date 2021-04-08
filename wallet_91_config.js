@@ -1,1 +1,1 @@
-var mnemonic = "outside question scheme artist south sugar flavor fork diet mixed cheap version";
+var mnemonic = "move skull sock spatial own love file cabin boost disease motor scrap";

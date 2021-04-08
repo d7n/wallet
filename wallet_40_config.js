@@ -1,1 +1,1 @@
-var mnemonic = "unusual sweet toast sketch absurd moon worry midnight swap category ladder question";
+var mnemonic = "they voyage loyal govern case monitor mutual record boost legend pioneer inside";

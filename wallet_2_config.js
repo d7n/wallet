@@ -1,1 +1,1 @@
-var mnemonic = "kiss coast video sphere surprise negative eye impose angry ritual eagle endless";
+var mnemonic = "accident into quick aisle blush drive hip body alone piano initial drink";

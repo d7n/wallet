@@ -1,1 +1,1 @@
-var mnemonic = "now coffee develop heart nuclear poem deposit impact kitchen guard danger turtle";
+var mnemonic = "sauce main scheme height path must cream yard mean frown antenna frown";

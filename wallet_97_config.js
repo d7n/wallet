@@ -1,1 +1,1 @@
-var mnemonic = "token skull unfair code tonight cart mystery flight submit dragon fly fiber";
+var mnemonic = "shallow figure celery six device theme any wink student energy only two";

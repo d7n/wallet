@@ -1,1 +1,1 @@
-var mnemonic = "galaxy useless input tag deny short caught tell sort method today recipe";
+var mnemonic = "oak primary stamp frost runway enter chronic animal eye note index budget";

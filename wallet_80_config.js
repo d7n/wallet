@@ -1,1 +1,1 @@
-var mnemonic = "manual soldier device elephant envelope wolf genius shoot evil bone pyramid flat";
+var mnemonic = "brief tell tide thought gesture smooth insane test suspect stadium spider frown";

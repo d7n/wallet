@@ -1,1 +1,1 @@
-var mnemonic = "sea boost tattoo point panel amused special trial bright fever laptop liquid";
+var mnemonic = "tooth latin stock sort already feature fragile estate vacuum endless list city";

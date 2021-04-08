@@ -1,1 +1,1 @@
-var mnemonic = "cycle arrow cart salad home example million impulse degree human pulse engine";
+var mnemonic = "timber mouse buddy snow motion sing tag clown network shop lecture total";

@@ -1,1 +1,1 @@
-var mnemonic = "garage earth strategy visit shell shield power much taste tape vehicle security";
+var mnemonic = "crunch section muscle staff glow laptop stuff high essence brave polar casual";

@@ -1,1 +1,1 @@
-var mnemonic = "switch rebel connect place silk wage trade negative margin scan save angle";
+var mnemonic = "mix security fashion pig involve stock direct grain casual journey clay solution";

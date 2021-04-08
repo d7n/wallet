@@ -1,1 +1,1 @@
-var mnemonic = "start lizard scout dwarf laptop leg actor awake leader fossil runway kick";
+var mnemonic = "nation educate spirit result rough arrow damage river rail discover cause sausage";

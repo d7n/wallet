@@ -1,1 +1,1 @@
-var mnemonic = "visit divide grocery garment rent manage deposit thing tilt top crystal pet";
+var mnemonic = "picnic drink off door push wreck banner thumb assault cheap valid portion";

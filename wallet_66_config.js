@@ -1,1 +1,1 @@
-var mnemonic = "tortoise vicious segment awkward catalog soon crime traffic diesel already measure yard";
+var mnemonic = "only opinion place rose exhaust near combine betray furnace mad tuna blame";

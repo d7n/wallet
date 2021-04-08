@@ -1,1 +1,1 @@
-var mnemonic = "engage great merit fossil aisle flag mutual ask aunt fossil work teach";
+var mnemonic = "throw inside image marine history bridge doll merge aerobic world notice host";

@@ -1,1 +1,1 @@
-var mnemonic = "decade chef decade gather lazy trap dog obey dish vacant cabbage concert";
+var mnemonic = "second method dress gain maid hamster tuna edge proud entry jump will";

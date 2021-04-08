@@ -1,1 +1,1 @@
-var mnemonic = "elbow display wife limb pilot wagon wait excuse kingdom front nephew detect";
+var mnemonic = "feel loop detect tooth genius solution dice bag unveil this true worth";

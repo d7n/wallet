@@ -1,1 +1,1 @@
-var mnemonic = "drive apart drift unable flame crouch champion elephant injury board asthma peasant";
+var mnemonic = "online movie task blossom phrase pipe much antenna charge pen alpha actual";

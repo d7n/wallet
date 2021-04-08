@@ -1,1 +1,1 @@
-var mnemonic = "invest save prefer delay drip cupboard tube fish wet utility genre across";
+var mnemonic = "crunch moment jealous swap unaware farm loyal enroll leave pluck cause program";

@@ -1,1 +1,1 @@
-var mnemonic = "roof frown lemon taste first balance current physical cable public remind lecture";
+var mnemonic = "amateur load drop fork liar whale way vintage gesture spare salmon body";

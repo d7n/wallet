@@ -1,1 +1,1 @@
-var mnemonic = "excuse kiss nephew own treat trip hand embark glove spare parrot advice";
+var mnemonic = "black blame tenant frown sunny depth poverty edit behave fork asthma blouse";

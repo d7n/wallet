@@ -1,1 +1,1 @@
-var mnemonic = "excess obey bulb scorpion used barrel dynamic enlist kind tent void announce";
+var mnemonic = "meadow oyster area napkin hotel clap merge tonight hard occur permit ride";

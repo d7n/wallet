@@ -1,1 +1,1 @@
-var mnemonic = "iron eight unveil detect upper whisper pony media candy champion state sketch";
+var mnemonic = "runway shiver silk boost frost sell hair message torch century power expire";

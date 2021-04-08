@@ -1,1 +1,1 @@
-var mnemonic = "scatter immune doll switch great upper diary siege soup chair hip peanut";
+var mnemonic = "hello awkward virus furnace juice snap purity wife upon farm hope valid";

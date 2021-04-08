@@ -1,1 +1,1 @@
-var mnemonic = "page window pool exile kitchen certain oak own mirror relax crumble asthma";
+var mnemonic = "manage wear desert raw height acquire buyer trend govern december hint casual";

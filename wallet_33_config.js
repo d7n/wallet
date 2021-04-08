@@ -1,1 +1,1 @@
-var mnemonic = "stool excite denial song report decide comic empower trial volume wave gloom";
+var mnemonic = "live soul caught pluck vast exist hazard social shaft govern forum ask";

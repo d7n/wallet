@@ -1,1 +1,1 @@
-var mnemonic = "grant monster goddess ramp super safe truly monitor various brisk stuff control";
+var mnemonic = "account deliver weekend winner suit kite harsh resist decrease pass wall upgrade";

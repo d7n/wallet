@@ -1,1 +1,1 @@
-var mnemonic = "magnet inside track pepper clinic hedgehog beauty relax cinnamon derive joke wire";
+var mnemonic = "hedgehog pepper logic wide car early deposit valve similar upgrade script tip";

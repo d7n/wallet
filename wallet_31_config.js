@@ -1,1 +1,1 @@
-var mnemonic = "jump stay prize forum link lawsuit snake else cram mad abandon innocent";
+var mnemonic = "young travel monster amused soccer prison few alpha voice drift february deal";

@@ -1,1 +1,1 @@
-var mnemonic = "bench village follow ticket guide bird captain replace subway valley shoe spend";
+var mnemonic = "ensure crime feed acoustic concert squeeze boy blur slush comic problem meat";

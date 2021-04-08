@@ -1,1 +1,1 @@
-var mnemonic = "talent avocado pluck spoil beach photo napkin sea denial keen increase base";
+var mnemonic = "govern cannon limit squirrel achieve burger kangaroo auction feel doctor pipe begin";

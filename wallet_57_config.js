@@ -1,1 +1,1 @@
-var mnemonic = "eight bag divide travel shield ignore renew depth harbor dose capital accuse";
+var mnemonic = "moment jar record ankle payment actual minimum panther fragile unusual prepare sense";

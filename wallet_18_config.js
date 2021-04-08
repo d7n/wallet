@@ -1,1 +1,1 @@
-var mnemonic = "pattern drop conduct rude want home diet tissue antique lemon share keep";
+var mnemonic = "decrease crawl donkey gorilla ancient fever song robot lift fetch envelope desert";

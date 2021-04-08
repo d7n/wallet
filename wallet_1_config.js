@@ -1,1 +1,1 @@
-var mnemonic = "food range scale reopen alpha science cattle razor online alley merry camp";
+var mnemonic = "riot settle kit whale avocado skirt avoid video appear gesture diet lava";

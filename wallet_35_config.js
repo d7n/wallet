@@ -1,1 +1,1 @@
-var mnemonic = "wink ribbon beyond pet month admit letter vessel embody lady churn link";
+var mnemonic = "since bread satisfy improve poem quiz tribe liberty crisp vicious digital bar";

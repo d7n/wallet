@@ -1,1 +1,1 @@
-var mnemonic = "rebel resource balcony brisk random weird advance egg leg mass magnet biology";
+var mnemonic = "sort awake remove buffalo mansion parade humor wealth forget version slow chest";

@@ -1,1 +1,1 @@
-var mnemonic = "setup motor stand champion mixture magnet floor target secret truth sign repair";
+var mnemonic = "method keen focus bright woman silk bacon ten obvious firm circle coconut";

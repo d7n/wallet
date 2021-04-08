@@ -1,1 +1,1 @@
-var mnemonic = "path skull genre evidence uphold put series gloom update fit resist boat";
+var mnemonic = "planet speed wild modify swallow stock moment click glue secret banner achieve";

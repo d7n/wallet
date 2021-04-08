@@ -1,1 +1,1 @@
-var mnemonic = "entire flee glue catch safe million require ocean census observe crisp over";
+var mnemonic = "fly bachelor around snack salmon prize bike slush flag solid gain flip";

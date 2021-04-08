@@ -1,1 +1,1 @@
-var mnemonic = "govern mountain face pole moral blood pool code stamp april sadness promote";
+var mnemonic = "tonight anxiety leave cause dish leader green hamster pistol myth day random";

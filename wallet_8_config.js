@@ -1,1 +1,1 @@
-var mnemonic = "pride jaguar invest ramp device foil riot custom liar village enact meadow";
+var mnemonic = "benefit apology gold idle print road camp brisk apart nasty entire coral";

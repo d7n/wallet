@@ -1,1 +1,1 @@
-var mnemonic = "ill oval what raccoon ghost strong stairs winner cook someone hour genre";
+var mnemonic = "goat zebra garbage day twelve spring hip slender crumble appear april urban";

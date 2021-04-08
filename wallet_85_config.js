@@ -1,1 +1,1 @@
-var mnemonic = "equip pave crouch fever inmate snow talent nothing rival grit camp uncle";
+var mnemonic = "mesh lounge hen panda chronic wonder hospital earn kick math clay merit";

@@ -1,1 +1,1 @@
-var mnemonic = "soft method case mistake pepper move else peanut fiscal often mouse discover";
+var mnemonic = "also pink shrug photo output aware caution spray pulp course scout clarify";

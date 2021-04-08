@@ -1,1 +1,1 @@
-var mnemonic = "balance police milk escape earth result change cube welcome royal minute tree";
+var mnemonic = "climb must want oil toy twist various subway rabbit mercy antenna nominee";

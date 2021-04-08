@@ -1,1 +1,1 @@
-var mnemonic = "trouble giant ball canyon plate tower warfare swarm census craft casual stand";
+var mnemonic = "ability gift pause exile damage crowd miracle pluck voyage stem lock display";

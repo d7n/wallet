@@ -1,1 +1,1 @@
-var mnemonic = "tip about orient bike humble enrich neither core salon pig cable clown";
+var mnemonic = "matrix curve mean verb that note penalty recall carry bronze half roof";

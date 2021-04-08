@@ -1,1 +1,1 @@
-var mnemonic = "deal fault want wait blanket barrel door cross joy frog vault grow";
+var mnemonic = "satoshi nurse fantasy enroll bitter print crew drill hollow broom shoot virtual";

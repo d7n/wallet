@@ -1,1 +1,1 @@
-var mnemonic = "blouse clinic century feed mammal popular play pigeon solve bubble portion inspire";
+var mnemonic = "point pistol undo shoot spoil gown brass popular identify gift nice rookie";

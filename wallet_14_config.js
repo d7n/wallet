@@ -1,1 +1,1 @@
-var mnemonic = "brick boil clog lonely run police arch announce sting jeans front panel";
+var mnemonic = "cattle cinnamon much position suggest tower silent banana lava finish arrest park";

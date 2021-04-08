@@ -1,1 +1,1 @@
-var mnemonic = "involve payment afford plug push current grass bar attract glove tiger crystal";
+var mnemonic = "cereal light predict silent thumb voyage sudden phone recycle month echo make";

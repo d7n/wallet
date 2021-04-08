@@ -1,1 +1,1 @@
-var mnemonic = "science float two rule explain piano young solar agree volcano wolf fragile";
+var mnemonic = "quote super extend ride carry breeze bulk office total energy indicate nature";

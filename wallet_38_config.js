@@ -1,1 +1,1 @@
-var mnemonic = "convince film light puzzle arch sense liar heart half absorb lawn debate";
+var mnemonic = "breeze tooth aware great casual win dignity spend wrestle client ranch act";

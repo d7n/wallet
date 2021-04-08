@@ -1,1 +1,1 @@
-var mnemonic = "breeze describe bargain butter prepare great fold body ski shiver prevent shed";
+var mnemonic = "artwork usage claw inch wage ship casino slogan reason divert general sugar";

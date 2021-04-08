@@ -1,1 +1,1 @@
-var mnemonic = "photo month valid saddle nothing divorce welcome usual amateur play maximum carbon";
+var mnemonic = "youth spirit buddy pipe sock own special pole screen survey spread steak";

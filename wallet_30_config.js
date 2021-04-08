@@ -1,1 +1,1 @@
-var mnemonic = "day teach wisdom elite earn another volume battle bullet review defy moon";
+var mnemonic = "raccoon success pair wait network unable dignity chase myself liar company hundred";

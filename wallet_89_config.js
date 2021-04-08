@@ -1,1 +1,1 @@
-var mnemonic = "enhance bomb inhale afraid slow task slow creek dignity velvet congress coffee";
+var mnemonic = "universe weapon actor detect wrap disagree truck room book olive raven village";

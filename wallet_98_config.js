@@ -1,1 +1,1 @@
-var mnemonic = "protect indicate prevent earn luggage super deputy marriage collect rabbit oxygen panic";
+var mnemonic = "buffalo position calm senior motor furnace pelican puppy fish broken autumn aerobic";

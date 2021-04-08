@@ -1,1 +1,1 @@
-var mnemonic = "between heart wedding shove cook enter ginger this congress result energy curtain";
+var mnemonic = "pull eternal bracket release tuition embody velvet upgrade where engine select sea";

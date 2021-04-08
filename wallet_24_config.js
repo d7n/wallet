@@ -1,1 +1,1 @@
-var mnemonic = "version convince garage fault salute oppose cement consider verify climb review innocent";
+var mnemonic = "regret state grass sibling mixed priority radar wool fragile cake winner acquire";

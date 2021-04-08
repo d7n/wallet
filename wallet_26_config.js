@@ -1,1 +1,1 @@
-var mnemonic = "demand season clap machine velvet buzz shadow almost differ unlock cheese giggle";
+var mnemonic = "velvet onion dinner purchase input fold huge congress visit afraid apple inflict";

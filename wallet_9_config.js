@@ -1,1 +1,1 @@
-var mnemonic = "spawn clinic divert garbage where top name crew trust abuse carpet rifle";
+var mnemonic = "large reduce forum present concert cousin possible pistol catalog pen strong shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "above inmate fan transfer famous cherry crime guilt arrest bright pulp doctor";
+var mnemonic = "word chicken visit bronze legend language box execute another pipe enemy step";

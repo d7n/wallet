@@ -1,1 +1,1 @@
-var mnemonic = "silent shock kid capable stage flavor marine shield shy neutral exotic message";
+var mnemonic = "drop drum charge luxury visit erupt pattern actor noodle hedgehog cake capable";

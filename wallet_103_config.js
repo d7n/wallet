@@ -1,1 +1,1 @@
-var mnemonic = "unique twice reopen sea culture lab portion gauge mechanic eye meat coconut";
+var mnemonic = "body food squeeze evil error cost dismiss easily cigar steak antenna tribe";

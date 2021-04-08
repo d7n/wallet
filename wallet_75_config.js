@@ -1,1 +1,1 @@
-var mnemonic = "jazz ocean help sentence order risk old law protect fancy sure half";
+var mnemonic = "venue upset useful source notable wheat skull ghost practice plunge dentist solid";

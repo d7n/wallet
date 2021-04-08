@@ -1,1 +1,1 @@
-var mnemonic = "shoulder imitate harsh carpet rate reward ribbon wish elegant caught old action";
+var mnemonic = "limit pluck music verify screen body photo you display view truth ask";

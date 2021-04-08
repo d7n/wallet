@@ -1,1 +1,1 @@
-var mnemonic = "bacon stove license must wealth collect risk erosion bird suffer toddler profit";
+var mnemonic = "once song aunt library rail bless hidden start monitor tumble gold around";

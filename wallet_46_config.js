@@ -1,1 +1,1 @@
-var mnemonic = "thumb old grain sister rubber amount own elegant salmon bitter fever wonder";
+var mnemonic = "top grocery fuel kitchen coral clutch under region length essence marble phone";

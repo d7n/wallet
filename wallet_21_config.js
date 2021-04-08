@@ -1,1 +1,1 @@
-var mnemonic = "false mimic trial possible observe bless defense rare series fiction hub spirit";
+var mnemonic = "emerge rice ripple open consider owner reform ugly ozone hunt space they";

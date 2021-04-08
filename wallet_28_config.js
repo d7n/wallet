@@ -1,1 +1,1 @@
-var mnemonic = "carbon cabbage judge coconut volume firm below satisfy anxiety isolate obtain misery";
+var mnemonic = "wink myth grid okay error argue welcome vibrant cook crazy peanut toilet";

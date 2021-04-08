@@ -1,1 +1,1 @@
-var mnemonic = "choose web shoe survey together twin zebra project genre canal head scheme";
+var mnemonic = "umbrella possible scatter pond cream sense enrich address tissue glimpse maid hotel";

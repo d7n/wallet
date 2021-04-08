@@ -1,1 +1,1 @@
-var mnemonic = "remain long hat leopard creek lyrics corn talent rebuild meat sibling pull";
+var mnemonic = "bicycle advance adjust topple food jungle surge sand lecture kingdom aisle deliver";

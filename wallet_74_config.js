@@ -1,1 +1,1 @@
-var mnemonic = "steak neutral puppy magnet fatigue evidence jazz vast suggest aim steel dentist";
+var mnemonic = "album arrive dilemma cruise cancel alley spy balcony fitness hurdle month erase";

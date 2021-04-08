@@ -1,1 +1,1 @@
-var mnemonic = "apology arctic whisper light direct lobster lazy hole romance trouble practice come";
+var mnemonic = "weekend grief gesture someone indicate chaos offer actual fancy connect install horse";

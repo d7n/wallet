@@ -1,1 +1,1 @@
-var mnemonic = "battle street various winner gasp message produce stick crime damp thought account";
+var mnemonic = "portion oyster switch swarm vapor cup reopen tornado crawl balance often mail";

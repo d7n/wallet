@@ -1,1 +1,1 @@
-var mnemonic = "core angry fan tower wash junior lunar display aisle tomorrow income pitch";
+var mnemonic = "pen jungle level where shoot acoustic thank horn winter powder book certain";

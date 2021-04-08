@@ -1,1 +1,1 @@
-var mnemonic = "short frown engine scene nasty scale salute zebra mix above bread moment";
+var mnemonic = "kiss hybrid parrot interest subject venue grow jealous asthma scorpion aisle build";

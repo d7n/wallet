@@ -1,1 +1,1 @@
-var mnemonic = "hello bounce subject drama pitch month opinion surprise twin market word opera";
+var mnemonic = "snap unaware snap reward pudding lesson midnight physical local prosper recall nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "around suffer coffee various worth glimpse crash sunset cattle diesel quality ring";
+var mnemonic = "daring dilemma loyal humble cactus observe quote cause lab topple essence labor";

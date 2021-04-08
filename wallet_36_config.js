@@ -1,1 +1,1 @@
-var mnemonic = "visit silver merit tobacco odor bread venture globe since desert emotion movie";
+var mnemonic = "street hard town cup happy whisper bar box smile fury barely clean";

@@ -1,1 +1,1 @@
-var mnemonic = "illness shadow correct property address dog now more design property book fragile";
+var mnemonic = "aspect protect useless three fiber husband club romance bright shoulder frequent cattle";

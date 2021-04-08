@@ -1,1 +1,1 @@
-var mnemonic = "wheat hat upgrade over follow immune dirt idea black tunnel frost switch";
+var mnemonic = "much climb nephew flee pill whisper pretty today home truck feature enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "entire spike pluck gorilla train dirt maximum slide negative ignore endorse salute";
+var mnemonic = "seek grace design cupboard medal train cherry oil element aim enrich edit";

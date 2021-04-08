@@ -1,1 +1,1 @@
-var mnemonic = "baby label mushroom vote spare such argue van remove cool purpose melt";
+var mnemonic = "smart segment song mixture squeeze essay thrive journey empty myth differ sock";

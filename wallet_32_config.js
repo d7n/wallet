@@ -1,1 +1,1 @@
-var mnemonic = "joy caught jeans person model animal flight amused collect puppy glare stamp";
+var mnemonic = "anxiety salad stereo stone explain stem clip chalk push load earth tired";

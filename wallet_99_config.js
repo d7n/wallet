@@ -1,1 +1,1 @@
-var mnemonic = "cherry window what holiday judge slam mad open chalk airport depth retreat";
+var mnemonic = "expire spirit author ocean canyon hire pledge sadness artefact design title daughter";

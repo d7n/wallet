@@ -1,1 +1,1 @@
-var mnemonic = "age light mind cereal road avoid shop island company address tide auction";
+var mnemonic = "fade still decrease awake snack gift forget swarm useful dial duck caution";

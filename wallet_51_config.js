@@ -1,1 +1,1 @@
-var mnemonic = "certain ritual peasant inspire access merit gallery transfer know wage club lonely";
+var mnemonic = "opera floor pupil tiger bracket genius hybrid correct fatigue dream bulk breeze";

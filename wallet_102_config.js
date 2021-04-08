@@ -1,1 +1,1 @@
-var mnemonic = "safe height depend glove easily rare slide wood broccoli wrap innocent slush";
+var mnemonic = "crisp aim tunnel awesome tag under alone buddy girl fury tortoise luggage";
