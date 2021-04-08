@@ -1,1 +1,1 @@
-var mnemonic = "syrup skate craft atom gain circle blossom grain nation movie embark seven";
+var mnemonic = "clump sure lock purity hair march vacant penalty cinnamon dwarf stone clump";

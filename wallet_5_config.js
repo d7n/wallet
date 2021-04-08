@@ -1,1 +1,1 @@
-var mnemonic = "crop blue mixture extra element simple loan bean arena call chicken physical";
+var mnemonic = "buzz skill symptom mutual follow garlic account burger staff annual blush gasp";

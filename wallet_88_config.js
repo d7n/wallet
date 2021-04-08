@@ -1,1 +1,1 @@
-var mnemonic = "kiss employ smoke assault clarify square minimum still cheese turkey border ankle";
+var mnemonic = "sunset story potato alarm pyramid rescue inch shy science ribbon usual behave";

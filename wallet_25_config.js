@@ -1,1 +1,1 @@
-var mnemonic = "sea wedding winner claim since cotton puzzle crush profit naive hybrid novel";
+var mnemonic = "until high radio radio junk divide bind project tennis violin luggage inform";

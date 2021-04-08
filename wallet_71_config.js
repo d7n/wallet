@@ -1,1 +1,1 @@
-var mnemonic = "possible soda eight spawn salad wisdom shield orient today peanut music second";
+var mnemonic = "achieve detect cute figure paddle bar rebuild lake drama noise fiction fun";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle glue rotate hammer abstract match duck silly taxi feed town joy";
+var mnemonic = "banana success claim blame baby sudden weather solid already cherry door fluid";

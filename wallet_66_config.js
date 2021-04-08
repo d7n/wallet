@@ -1,1 +1,1 @@
-var mnemonic = "oval year film elevator stable state shine example cement photo often beef";
+var mnemonic = "theme spike train inmate egg couple idea slim brisk someone material blur";

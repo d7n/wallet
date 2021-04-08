@@ -1,1 +1,1 @@
-var mnemonic = "choose critic they spice shift luggage exhaust nice broken dignity spare coast";
+var mnemonic = "opinion palm curve license carbon sort empower illness resource wear choice seek";

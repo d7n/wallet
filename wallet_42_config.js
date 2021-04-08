@@ -1,1 +1,1 @@
-var mnemonic = "resemble monster venture ski advance civil lava able attack razor friend laundry";
+var mnemonic = "state fabric slot make exhibit void output attend jar trouble shadow peanut";

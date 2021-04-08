@@ -1,1 +1,1 @@
-var mnemonic = "insect pretty theme tenant myself upset bleak door differ identify fortune duty";
+var mnemonic = "lyrics knock flight educate immune jungle tennis shaft peanut drum turkey broom";

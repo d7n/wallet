@@ -1,1 +1,1 @@
-var mnemonic = "sentence sad hill pull glide jaguar bubble believe concert tobacco exercise globe";
+var mnemonic = "salon gadget truly chief double ten stage order throw aim attitude property";

@@ -1,1 +1,1 @@
-var mnemonic = "husband figure echo decorate recall damage enhance law beef farm toy tortoise";
+var mnemonic = "now august skill scheme banana term boss force dice charge love card";

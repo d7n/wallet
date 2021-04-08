@@ -1,1 +1,1 @@
-var mnemonic = "inquiry elite size envelope saddle language cool play adjust sell relax poverty";
+var mnemonic = "sock reason wage since trend nasty shield prevent profit junk card flee";

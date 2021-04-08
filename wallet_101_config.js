@@ -1,1 +1,1 @@
-var mnemonic = "pulp ginger matrix explain issue prosper envelope link eye play cradle excite";
+var mnemonic = "fiction energy obvious found ethics depart olympic era tank stay rebel maze";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd apology rare tattoo honey trash frown patch whisper steel crash fly";
+var mnemonic = "caught other income private above scatter better resemble neutral frequent need visit";

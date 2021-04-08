@@ -1,1 +1,1 @@
-var mnemonic = "denial conduct split language object element detail sing scare wing person decade";
+var mnemonic = "hurdle level stumble common pledge glory obtain plunge ready hair magic tonight";

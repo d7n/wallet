@@ -1,1 +1,1 @@
-var mnemonic = "master walnut argue skill boy tank trophy elegant rhythm pupil crime fly";
+var mnemonic = "cupboard news talent amount wasp beef visit galaxy nominee stamp hockey appear";

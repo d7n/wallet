@@ -1,1 +1,1 @@
-var mnemonic = "noble pencil excuse symbol quarter differ silent flower possible mom punch lecture";
+var mnemonic = "beach forum subject fever wonder hello syrup net clinic kit reward cheese";

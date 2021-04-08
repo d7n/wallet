@@ -1,1 +1,1 @@
-var mnemonic = "illegal dumb excuse loop exact pepper mask doll gap combine announce ring";
+var mnemonic = "awkward success ethics moral inhale roast twin east topic stock exact health";

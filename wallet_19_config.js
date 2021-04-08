@@ -1,1 +1,1 @@
-var mnemonic = "insane brass trigger divert buffalo theory van update stuff roast layer evidence";
+var mnemonic = "ahead mean praise kiss joke mistake october digital inject bundle they garlic";

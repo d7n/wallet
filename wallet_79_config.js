@@ -1,1 +1,1 @@
-var mnemonic = "chat grid engine erase custom tuition battle radio anxiety fragile blame pigeon";
+var mnemonic = "mosquito fork afraid champion demand clay artist screen earn term midnight marine";

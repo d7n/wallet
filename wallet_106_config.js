@@ -1,1 +1,1 @@
-var mnemonic = "brother grape goat federal bacon exit enroll reject behind list main link";
+var mnemonic = "style million hope grid sheriff heart wasp open visual water seminar blast";

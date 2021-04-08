@@ -1,1 +1,1 @@
-var mnemonic = "fat label drift keen empty garbage economy prize weather wink exchange cave";
+var mnemonic = "soul side wrap company angle solid napkin curious insane dawn sick clog";

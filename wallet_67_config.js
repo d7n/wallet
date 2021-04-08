@@ -1,1 +1,1 @@
-var mnemonic = "local direct lobster arctic glare dinner emerge coral fever edit rebuild flight";
+var mnemonic = "act scare stick tell blue scissors cheese able allow shadow aisle there";

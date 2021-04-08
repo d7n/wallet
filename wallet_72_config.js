@@ -1,1 +1,1 @@
-var mnemonic = "company trumpet display dinner miracle alpha recycle bomb provide noble goose talent";
+var mnemonic = "feed clay work aim celery sugar critic melt few clean theme rebuild";

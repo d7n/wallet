@@ -1,1 +1,1 @@
-var mnemonic = "snow project virus original dinosaur whip boil abandon retreat auto crush loop";
+var mnemonic = "pupil garlic typical spike health soft vicious pulse shed real guitar inhale";

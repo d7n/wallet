@@ -1,1 +1,1 @@
-var mnemonic = "exotic asthma impact wash tooth south century cost travel aisle grab stool";
+var mnemonic = "adult era unhappy desert motion able parade screen fashion crane oven engage";

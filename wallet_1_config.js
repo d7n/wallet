@@ -1,1 +1,1 @@
-var mnemonic = "boring all spatial steel budget reunion wall youth suggest digital argue wine";
+var mnemonic = "vibrant canal cargo drive popular beach media devote output acid share electric";

@@ -1,1 +1,1 @@
-var mnemonic = "mixed glow caution artist sock core pig hand near evolve hammer random";
+var mnemonic = "crazy worry rapid divide battle begin monster borrow today wall occur vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "ski girl olive tobacco differ public sand lion setup pattern will foil";
+var mnemonic = "result click horse subway result immune drink elite dad fix public live";

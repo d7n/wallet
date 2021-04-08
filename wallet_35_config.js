@@ -1,1 +1,1 @@
-var mnemonic = "mango net eternal camera enhance decline expire fox hen sunny lumber prize";
+var mnemonic = "harbor hire law achieve cactus stay radar theory gravity volcano virus vital";

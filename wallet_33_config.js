@@ -1,1 +1,1 @@
-var mnemonic = "swift gain shock spike trick forum rib jacket expect used ramp seat";
+var mnemonic = "inform maximum worth cinnamon ramp dragon bid curtain mask spin mule mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "finger extra helmet snack recycle vacuum pony wish glad magnet attract length";
+var mnemonic = "latin ice senior such cart witness motion inside remove marine much organ";

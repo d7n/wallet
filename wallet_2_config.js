@@ -1,1 +1,1 @@
-var mnemonic = "record top thing analyst plate display teach beauty laugh vendor have design";
+var mnemonic = "green leader gossip reward hire transfer hurry bacon final produce matter dog";

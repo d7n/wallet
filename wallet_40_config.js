@@ -1,1 +1,1 @@
-var mnemonic = "copper prefer hollow keep floor impulse weasel human gun number snake time";
+var mnemonic = "perfect outdoor nurse swarm bitter avocado ride first pitch exclude bright enough";

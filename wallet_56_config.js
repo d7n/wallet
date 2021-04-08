@@ -1,1 +1,1 @@
-var mnemonic = "drive put clever own cruise omit apple exhaust raven lock endorse winner";
+var mnemonic = "rose order brown gun earn wear hip uncle match oblige camp drink";

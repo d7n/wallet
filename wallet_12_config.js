@@ -1,1 +1,1 @@
-var mnemonic = "rifle latin monster portion best pill slice bullet horror craft swallow into";
+var mnemonic = "galaxy token wall broccoli fever ginger inquiry lobster decorate visual time smoke";

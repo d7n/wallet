@@ -1,1 +1,1 @@
-var mnemonic = "scrap area ivory poem churn frequent erase senior action enforce immense gain";
+var mnemonic = "sail ring rice raise ancient gold pair vote number town hello rate";

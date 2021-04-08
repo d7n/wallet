@@ -1,1 +1,1 @@
-var mnemonic = "shuffle what size reject measure resemble mad pizza glide cram snap pact";
+var mnemonic = "accuse income actual awake clap risk tide flee release illegal type stuff";

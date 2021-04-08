@@ -1,1 +1,1 @@
-var mnemonic = "differ employ joy empty turkey guess lava valve thought chicken govern rule";
+var mnemonic = "coral confirm eternal desk same pull harvest atom position beyond place ship";

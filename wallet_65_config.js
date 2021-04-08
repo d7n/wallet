@@ -1,1 +1,1 @@
-var mnemonic = "language spot awake behind inquiry oven helmet other ten monster eight celery";
+var mnemonic = "sadness amazing tree oak affair cake noble early save lottery dawn assume";

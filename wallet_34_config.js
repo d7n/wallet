@@ -1,1 +1,1 @@
-var mnemonic = "black ladder power three edit mosquito torch fee seek lucky exchange scale";
+var mnemonic = "leader leader exist pluck myself rich stuff chest jungle border unfair friend";

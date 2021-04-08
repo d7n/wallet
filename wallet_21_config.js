@@ -1,1 +1,1 @@
-var mnemonic = "only emotion build second disagree horror resemble miss parrot wink soldier sleep";
+var mnemonic = "general cover pause tip glow toilet blind people resource pause scorpion lift";

@@ -1,1 +1,1 @@
-var mnemonic = "police hockey moment need false save disease endorse copy cake buddy park";
+var mnemonic = "chief stand cannon charge nest skill collect rack choice payment deputy bean";

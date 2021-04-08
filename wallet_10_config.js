@@ -1,1 +1,1 @@
-var mnemonic = "major mixed mutual furnace clever slot ancient nominee real beauty napkin donor";
+var mnemonic = "wise harvest pet around tuna bounce vague gesture comfort exchange humor crush";

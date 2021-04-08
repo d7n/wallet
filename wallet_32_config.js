@@ -1,1 +1,1 @@
-var mnemonic = "shift daughter record glass eyebrow broom soda describe raccoon more kick enforce";
+var mnemonic = "sick embark gift finish matter reduce gate emerge dream list swarm peanut";

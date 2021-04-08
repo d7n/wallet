@@ -1,1 +1,1 @@
-var mnemonic = "warm hub story suffer ostrich differ neck laptop install mixed enroll seminar";
+var mnemonic = "fruit arrow forum exhaust glad scissors home virtual atom weather entry diagram";

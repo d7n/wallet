@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo december expire swim resemble reward phrase fat exile purse cake auction";
+var mnemonic = "indicate borrow essay village fix hundred resemble arena praise coyote helmet torch";

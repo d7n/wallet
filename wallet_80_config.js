@@ -1,1 +1,1 @@
-var mnemonic = "someone scare stove member behave toddler steak jazz two buzz supreme token";
+var mnemonic = "century struggle smart inch kangaroo settle card gas survey dizzy snack below";

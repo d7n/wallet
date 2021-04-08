@@ -1,1 +1,1 @@
-var mnemonic = "grow airport insect truck cat nature fresh imitate eyebrow junior festival news";
+var mnemonic = "cross lava afford resource shoe mother vote cool nasty bind buzz glide";

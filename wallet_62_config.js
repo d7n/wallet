@@ -1,1 +1,1 @@
-var mnemonic = "lend borrow supply body never gate kitten timber access aisle jeans worth";
+var mnemonic = "seek pumpkin cram bacon spawn walnut vessel today rifle monitor embrace jacket";

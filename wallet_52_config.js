@@ -1,1 +1,1 @@
-var mnemonic = "million mask alone arrow lawn fancy bid skate equip aware silly cool";
+var mnemonic = "level elevator dynamic notice action novel tooth flame circle evolve language sample";

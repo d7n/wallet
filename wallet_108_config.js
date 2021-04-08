@@ -1,1 +1,1 @@
-var mnemonic = "vibrant vehicle mind source wait quarter furnace clump rocket wait genuine afford";
+var mnemonic = "scrap much purse swamp suffer cool radar melody cover two major program";

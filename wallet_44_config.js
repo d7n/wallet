@@ -1,1 +1,1 @@
-var mnemonic = "million patrol hollow whale once impose execute east cram frown suffer topic";
+var mnemonic = "invite village copy bitter embrace second tourist warm observe chat ordinary sudden";

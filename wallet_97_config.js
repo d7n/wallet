@@ -1,1 +1,1 @@
-var mnemonic = "search vintage upset culture hire salad insane sniff near eternal tool acid";
+var mnemonic = "unfold winner lesson head behind future tunnel bench sorry pupil ladder robot";

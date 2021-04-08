@@ -1,1 +1,1 @@
-var mnemonic = "safe cinnamon coyote odor flower whisper disease hill chef rotate fold result";
+var mnemonic = "method glow antenna orphan erupt double surprise pact pipe simple sword panther";

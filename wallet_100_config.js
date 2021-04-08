@@ -1,1 +1,1 @@
-var mnemonic = "silver movie slow clever board oppose bridge day history disease write token";
+var mnemonic = "coast correct crack intact soldier crop lava umbrella dish mystery security iron";

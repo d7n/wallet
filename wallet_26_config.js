@@ -1,1 +1,1 @@
-var mnemonic = "cash pyramid leg wash route friend aware praise cradle soda genuine dolphin";
+var mnemonic = "calm giraffe pink foam maximum budget skirt spoon category sound know lens";

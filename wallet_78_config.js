@@ -1,1 +1,1 @@
-var mnemonic = "orient wood warfare panda grocery outdoor step squeeze road clean either bring";
+var mnemonic = "puzzle play neutral weapon hole weasel pull often primary orange cattle series";

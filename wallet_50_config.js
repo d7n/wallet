@@ -1,1 +1,1 @@
-var mnemonic = "strategy episode peace depth lock gaze write recall later bunker material bless";
+var mnemonic = "relax lesson innocent outdoor monitor action memory element stay behave tent embody";

@@ -1,1 +1,1 @@
-var mnemonic = "dove cheap retire gym loyal range lunar size walnut actress riot absent";
+var mnemonic = "solar bus husband olympic parade mad rural shallow goddess issue dry nothing";

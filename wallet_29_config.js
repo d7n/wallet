@@ -1,1 +1,1 @@
-var mnemonic = "glare tiger clarify horror address original swamp pass clean rate village ketchup";
+var mnemonic = "anxiety rain hour change scale critic sword dust update rotate glimpse spring";

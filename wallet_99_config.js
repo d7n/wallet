@@ -1,1 +1,1 @@
-var mnemonic = "unique snake scissors analyst loop old border light reunion right neutral broom";
+var mnemonic = "visual fossil remember museum speed plunge angle swift brush cement sure sunset";

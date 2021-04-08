@@ -1,1 +1,1 @@
-var mnemonic = "artwork useless flock monster zero frog burst height dog width race dumb";
+var mnemonic = "divert swift lens sunny equal stumble ordinary adult drum digital merit hollow";

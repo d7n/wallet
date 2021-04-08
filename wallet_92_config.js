@@ -1,1 +1,1 @@
-var mnemonic = "bone drop weird build post orphan sibling decide require adult hope morning";
+var mnemonic = "festival tomorrow ripple sorry rookie pony balance sound ask aware youth resemble";

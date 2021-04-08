@@ -1,1 +1,1 @@
-var mnemonic = "buffalo film bunker tail season adjust snake wool impact hammer differ steel";
+var mnemonic = "maid town fog stable reward uphold fog thought erosion endorse steel outdoor";

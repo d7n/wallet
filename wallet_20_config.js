@@ -1,1 +1,1 @@
-var mnemonic = "shell hen flash settle refuse exact develop random broom spike float jelly";
+var mnemonic = "tiger view sound brand index vessel accident bronze track mosquito enact walnut";

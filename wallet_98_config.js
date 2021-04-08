@@ -1,1 +1,1 @@
-var mnemonic = "adjust vibrant judge type winter vintage sheriff rubber vapor truth script dirt";
+var mnemonic = "off silent unique stable twice okay keen crush end enjoy same dirt";

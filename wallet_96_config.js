@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon finish planet smoke rigid case exhaust pencil small ring describe fox";
+var mnemonic = "jealous blade abstract chase model favorite suggest spider indicate such divorce undo";

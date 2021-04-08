@@ -1,1 +1,1 @@
-var mnemonic = "track sphere sudden faith then cruel ice gallery tissue wave pelican radio";
+var mnemonic = "blast tilt truck fall forum omit casual nuclear repeat tomato glimpse village";

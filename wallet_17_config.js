@@ -1,1 +1,1 @@
-var mnemonic = "winter vendor ribbon furnace arrive pencil alcohol snack wall chapter donkey emerge";
+var mnemonic = "easy festival glad direct swarm blossom grape speak alien evidence inquiry transfer";

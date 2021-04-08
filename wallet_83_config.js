@@ -1,1 +1,1 @@
-var mnemonic = "gun promote describe weapon over rail sauce provide carry spatial there smoke";
+var mnemonic = "west coach stock sun harvest nest penalty security rocket leg robust depart";

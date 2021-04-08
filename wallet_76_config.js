@@ -1,1 +1,1 @@
-var mnemonic = "mansion appear cloud unit lend pear forward glove cousin glove pistol carry";
+var mnemonic = "desk buffalo source tornado you beauty vendor outside speak crunch panda carry";

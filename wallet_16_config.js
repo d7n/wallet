@@ -1,1 +1,1 @@
-var mnemonic = "file sad sorry design screen remove food mesh hungry mad track helmet";
+var mnemonic = "depend myself ring loop glimpse skate charge copper valid reason name neither";

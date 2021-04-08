@@ -1,1 +1,1 @@
-var mnemonic = "stock benefit quality crew solar exercise torch general borrow organ entry replace";
+var mnemonic = "segment myth walk toilet donkey oven concert genre horn spirit slot suit";

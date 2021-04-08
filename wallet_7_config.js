@@ -1,1 +1,1 @@
-var mnemonic = "coach reopen size once dance access reduce owner idea illegal boil aware";
+var mnemonic = "visa topic play quarter jazz crop ritual exotic useless control sport depend";

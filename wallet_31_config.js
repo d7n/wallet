@@ -1,1 +1,1 @@
-var mnemonic = "pupil govern impose million pattern project spend sunny warm tortoise draw clown";
+var mnemonic = "tonight jewel hat champion solar hair purity home awesome winter can paddle";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle rug minute artefact domain leg cargo melody fade leg negative buyer";
+var mnemonic = "cattle abuse inquiry lend key siege machine into lonely erupt clerk pet";

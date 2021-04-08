@@ -1,1 +1,1 @@
-var mnemonic = "strategy idea sea eyebrow tunnel pave spy near clinic supply coyote review";
+var mnemonic = "oak into sun front brick welcome primary stadium crack fruit include figure";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty pitch robust finger frost impulse early burger quiz outside sustain play";
+var mnemonic = "crystal outer expand twice recall end custom smooth occur address soldier elite";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd pride dune quit use sleep garlic thing rotate segment afford luxury";
+var mnemonic = "source spread because leg rain festival outside orient manage goddess again scan";

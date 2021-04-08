@@ -1,1 +1,1 @@
-var mnemonic = "submit drink horn metal swallow polar task arctic hole deputy panel trash";
+var mnemonic = "leg possible buffalo vacant neglect chair distance grant hazard board item tool";

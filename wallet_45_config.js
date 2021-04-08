@@ -1,1 +1,1 @@
-var mnemonic = "quit float limb cereal sample enough excess easily vault maze raven glory";
+var mnemonic = "fiber put unique unveil abuse youth horror one best include silver allow";

@@ -1,1 +1,1 @@
-var mnemonic = "illness chief brick enemy flame powder thrive train tiny web rib chef";
+var mnemonic = "pig supreme dad open soap salad deliver luxury pizza suggest fashion buddy";

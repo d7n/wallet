@@ -1,1 +1,1 @@
-var mnemonic = "girl addict vocal certain exist shell kid helmet hurt valid raw end";
+var mnemonic = "giant warrior produce answer satisfy valley tray stick region hybrid tent gown";

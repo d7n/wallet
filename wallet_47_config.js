@@ -1,1 +1,1 @@
-var mnemonic = "cotton vivid impulse slice chest letter balance permit room tunnel inform glad";
+var mnemonic = "enact intact truck hundred cousin hazard eyebrow pitch produce attack clay survey";

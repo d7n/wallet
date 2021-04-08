@@ -1,1 +1,1 @@
-var mnemonic = "dream cart one frequent slow matrix mixture oil cover ivory cheese develop";
+var mnemonic = "weasel know make brisk frozen film immune brain element interest shine snack";

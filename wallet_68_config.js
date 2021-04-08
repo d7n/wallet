@@ -1,1 +1,1 @@
-var mnemonic = "monster blood alter gift define company protect unique affair lady differ volcano";
+var mnemonic = "sudden benefit response eye aunt access minor wet bone twice genuine task";

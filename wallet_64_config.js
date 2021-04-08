@@ -1,1 +1,1 @@
-var mnemonic = "offer situate pistol pottery great gaze swing poem teach run pilot urge";
+var mnemonic = "hamster traffic awake ostrich clutch hour urge elbow hub review enter monster";

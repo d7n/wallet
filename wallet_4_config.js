@@ -1,1 +1,1 @@
-var mnemonic = "winter example trap omit hurt response field nothing between high tortoise fan";
+var mnemonic = "discover gallery cotton reward reduce script window sand wing afraid lady give";
