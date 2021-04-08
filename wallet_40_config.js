@@ -1,1 +1,1 @@
-var mnemonic = "crop inner leisure calm then hover sweet spare exchange forum load antique";
+var mnemonic = "unusual sweet toast sketch absurd moon worry midnight swap category ladder question";

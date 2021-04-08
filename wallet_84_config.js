@@ -1,1 +1,1 @@
-var mnemonic = "grace across shy walnut lake alarm mixture brain child home march diet";
+var mnemonic = "onion area mix human food abandon yellow royal shrimp silent route region";

@@ -1,1 +1,1 @@
-var mnemonic = "ring point else exact episode update tomorrow chalk profit crane favorite staff";
+var mnemonic = "silent shock kid capable stage flavor marine shield shy neutral exotic message";

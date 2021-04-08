@@ -1,1 +1,1 @@
-var mnemonic = "smoke table skirt album announce critic purity swap infant castle inmate hazard";
+var mnemonic = "talent avocado pluck spoil beach photo napkin sea denial keen increase base";

@@ -1,1 +1,1 @@
-var mnemonic = "still settle tilt gravity hole floor spatial truly pluck skull defy best";
+var mnemonic = "phrase need prevent pull achieve shove aunt aware monitor winter belt height";

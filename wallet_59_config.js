@@ -1,1 +1,1 @@
-var mnemonic = "mystery cost box eyebrow sibling federal joke vocal lake banner asthma above";
+var mnemonic = "soft method case mistake pepper move else peanut fiscal often mouse discover";

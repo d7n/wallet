@@ -1,1 +1,1 @@
-var mnemonic = "oxygen verify quick element deny glance answer uncle comfort this brass work";
+var mnemonic = "choose web shoe survey together twin zebra project genre canal head scheme";

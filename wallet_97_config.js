@@ -1,1 +1,1 @@
-var mnemonic = "horse mirror purity bonus space coil crater shoulder hammer brown vehicle pioneer";
+var mnemonic = "token skull unfair code tonight cart mystery flight submit dragon fly fiber";

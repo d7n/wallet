@@ -1,1 +1,1 @@
-var mnemonic = "pole kit trial topic weekend chronic pupil plastic envelope leave logic review";
+var mnemonic = "engage great merit fossil aisle flag mutual ask aunt fossil work teach";

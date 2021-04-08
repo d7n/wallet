@@ -1,1 +1,1 @@
-var mnemonic = "lens parrot decline stove spray person aisle capable soul huge rice thank";
+var mnemonic = "day teach wisdom elite earn another volume battle bullet review defy moon";

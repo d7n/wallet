@@ -1,1 +1,1 @@
-var mnemonic = "wheel height vanish spirit bubble goose eye report chunk nothing atom clip";
+var mnemonic = "short frown engine scene nasty scale salute zebra mix above bread moment";

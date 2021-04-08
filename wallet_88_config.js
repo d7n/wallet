@@ -1,1 +1,1 @@
-var mnemonic = "roof visit barrel asthma tell cart quiz salt sauce defy loyal drive";
+var mnemonic = "elbow display wife limb pilot wagon wait excuse kingdom front nephew detect";

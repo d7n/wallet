@@ -1,1 +1,1 @@
-var mnemonic = "cage kitchen acid great seminar goose ticket help castle ketchup section mention";
+var mnemonic = "tip about orient bike humble enrich neither core salon pig cable clown";

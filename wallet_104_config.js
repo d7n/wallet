@@ -1,1 +1,1 @@
-var mnemonic = "shadow slender leisure agree rich visual range day curve imitate belt crew";
+var mnemonic = "bacon stove license must wealth collect risk erosion bird suffer toddler profit";

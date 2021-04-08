@@ -1,1 +1,1 @@
-var mnemonic = "permit kitten frog loud error best race train slice despair cloth layer";
+var mnemonic = "shoulder imitate harsh carpet rate reward ribbon wish elegant caught old action";

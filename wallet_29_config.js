@@ -1,1 +1,1 @@
-var mnemonic = "slam affair ethics ketchup fog mail twelve auto dismiss want wealth entry";
+var mnemonic = "govern mountain face pole moral blood pool code stamp april sadness promote";

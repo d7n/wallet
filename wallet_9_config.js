@@ -1,1 +1,1 @@
-var mnemonic = "drama shallow elbow soldier guitar horror village away burst sing infant fashion";
+var mnemonic = "spawn clinic divert garbage where top name crew trust abuse carpet rifle";

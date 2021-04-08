@@ -1,1 +1,1 @@
-var mnemonic = "what caution nation oblige evil corn season fragile solve veteran boring monkey";
+var mnemonic = "sea boost tattoo point panel amused special trial bright fever laptop liquid";

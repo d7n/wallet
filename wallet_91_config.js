@@ -1,1 +1,1 @@
-var mnemonic = "gold very element never ten enhance soon profit input thing problem fitness";
+var mnemonic = "outside question scheme artist south sugar flavor fork diet mixed cheap version";

@@ -1,1 +1,1 @@
-var mnemonic = "liar ride hen carry cover eight much laugh adult reject clutch annual";
+var mnemonic = "above inmate fan transfer famous cherry crime guilt arrest bright pulp doctor";

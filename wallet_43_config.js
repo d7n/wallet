@@ -1,1 +1,1 @@
-var mnemonic = "cat hedgehog material frog swift segment music tobacco report luggage scare word";
+var mnemonic = "excuse kiss nephew own treat trip hand embark glove spare parrot advice";

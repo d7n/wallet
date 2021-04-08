@@ -1,1 +1,1 @@
-var mnemonic = "oval catch horse panther smart original inquiry mass cement fun public pulp";
+var mnemonic = "start lizard scout dwarf laptop leg actor awake leader fossil runway kick";

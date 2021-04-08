@@ -1,1 +1,1 @@
-var mnemonic = "near fancy snack final identify thumb trap offer rebuild broccoli clinic tobacco";
+var mnemonic = "kiss coast video sphere surprise negative eye impose angry ritual eagle endless";

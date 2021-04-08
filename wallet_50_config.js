@@ -1,1 +1,1 @@
-var mnemonic = "list client defense fall layer vendor attract brass song reopen clerk coconut";
+var mnemonic = "setup motor stand champion mixture magnet floor target secret truth sign repair";

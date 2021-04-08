@@ -1,1 +1,1 @@
-var mnemonic = "arm save crazy grant advice hint split giggle surprise parent refuse awkward";
+var mnemonic = "hello bounce subject drama pitch month opinion surprise twin market word opera";

@@ -1,1 +1,1 @@
-var mnemonic = "famous slow live final flame nation orient snap oxygen hidden tattoo simple";
+var mnemonic = "around suffer coffee various worth glimpse crash sunset cattle diesel quality ring";

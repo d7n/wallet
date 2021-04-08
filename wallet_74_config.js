@@ -1,1 +1,1 @@
-var mnemonic = "zero balcony glance guilt cave rare almost nephew color palm elite forget";
+var mnemonic = "steak neutral puppy magnet fatigue evidence jazz vast suggest aim steel dentist";

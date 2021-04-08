@@ -1,1 +1,1 @@
-var mnemonic = "fork grief appear surface weasel forget century human hen outer apology promote";
+var mnemonic = "magnet inside track pepper clinic hedgehog beauty relax cinnamon derive joke wire";

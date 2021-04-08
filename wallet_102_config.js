@@ -1,1 +1,1 @@
-var mnemonic = "that drastic thank forum click pistol cook shrug verify kiwi patch eight";
+var mnemonic = "safe height depend glove easily rare slide wood broccoli wrap innocent slush";

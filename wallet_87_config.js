@@ -1,1 +1,1 @@
-var mnemonic = "space parade music mask flight robot access shy must spin math tank";
+var mnemonic = "science float two rule explain piano young solar agree volcano wolf fragile";

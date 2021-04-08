@@ -1,1 +1,1 @@
-var mnemonic = "kiss heavy stamp board hockey entry throw absent loud ask since thrive";
+var mnemonic = "battle street various winner gasp message produce stick crime damp thought account";

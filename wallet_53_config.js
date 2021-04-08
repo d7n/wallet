@@ -1,1 +1,1 @@
-var mnemonic = "rebuild pepper nephew merit dawn opinion miss balance bench olympic female end";
+var mnemonic = "involve payment afford plug push current grass bar attract glove tiger crystal";

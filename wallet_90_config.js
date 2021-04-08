@@ -1,1 +1,1 @@
-var mnemonic = "toast budget switch phone recall wave chief kiss poem hurt stool sadness";
+var mnemonic = "age light mind cereal road avoid shop island company address tide auction";

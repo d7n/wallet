@@ -1,1 +1,1 @@
-var mnemonic = "derive wheat hill force metal piece security short require dismiss ethics fetch";
+var mnemonic = "thumb old grain sister rubber amount own elegant salmon bitter fever wonder";

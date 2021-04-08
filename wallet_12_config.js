@@ -1,1 +1,1 @@
-var mnemonic = "gown burger curtain twelve spy property huge buddy secret code host sick";
+var mnemonic = "rebel resource balcony brisk random weird advance egg leg mass magnet biology";

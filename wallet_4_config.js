@@ -1,1 +1,1 @@
-var mnemonic = "junk luggage maid dynamic embark know warm affair boil pioneer comic give";
+var mnemonic = "sell soon timber elephant note supreme other match april strong smooth pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "label hour option inhale shield spoon rack maze toe mix slight common";
+var mnemonic = "thought monster early toss wagon display adapt call inside modify onion cool";

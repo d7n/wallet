@@ -1,1 +1,1 @@
-var mnemonic = "symbol eye future crack tuition derive quarter major maximum skill fetch limb";
+var mnemonic = "manual soldier device elephant envelope wolf genius shoot evil bone pyramid flat";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal body melody silver erosion afraid account report away trouble force glimpse";
+var mnemonic = "pattern drop conduct rude want home diet tissue antique lemon share keep";

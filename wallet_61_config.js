@@ -1,1 +1,1 @@
-var mnemonic = "flock scan crucial tribe ivory category frame nut emerge shoulder palace spread";
+var mnemonic = "page window pool exile kitchen certain oak own mirror relax crumble asthma";

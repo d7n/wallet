@@ -1,1 +1,1 @@
-var mnemonic = "office deer rice matrix weekend clean monster choose crawl such dial child";
+var mnemonic = "wheat hat upgrade over follow immune dirt idea black tunnel frost switch";

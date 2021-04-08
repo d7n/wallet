@@ -1,1 +1,1 @@
-var mnemonic = "pepper hand enrich solid badge toy release mass license cruel want anchor";
+var mnemonic = "iron eight unveil detect upper whisper pony media candy champion state sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "install vast iron tongue hill smile elbow robust enrich already morning reunion";
+var mnemonic = "between heart wedding shove cook enter ginger this congress result energy curtain";

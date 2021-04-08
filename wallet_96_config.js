@@ -1,1 +1,1 @@
-var mnemonic = "toilet deal frog train laugh level promote armor minute impact awesome stock";
+var mnemonic = "brand actual view parade drill pet document syrup solid asset ethics wrestle";

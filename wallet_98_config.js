@@ -1,1 +1,1 @@
-var mnemonic = "inject person hat there wrist kick focus summer equip minute caution practice";
+var mnemonic = "protect indicate prevent earn luggage super deputy marriage collect rabbit oxygen panic";

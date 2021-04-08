@@ -1,1 +1,1 @@
-var mnemonic = "deer genuine differ royal pet ill margin click history proof believe stomach";
+var mnemonic = "core angry fan tower wash junior lunar display aisle tomorrow income pitch";

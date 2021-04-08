@@ -1,1 +1,1 @@
-var mnemonic = "essay sustain isolate program kite furnace grocery receive butter critic trouble canyon";
+var mnemonic = "decade chef decade gather lazy trap dog obey dish vacant cabbage concert";

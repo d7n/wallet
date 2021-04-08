@@ -1,1 +1,1 @@
-var mnemonic = "caught wheel before cheese spring gloom online door punch pizza kiss clump";
+var mnemonic = "sun until force head burden push vacant maximum zero harbor exit pony";

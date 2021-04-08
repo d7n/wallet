@@ -1,1 +1,1 @@
-var mnemonic = "bunker voyage priority funny number buyer mimic about surge shine harvest doctor";
+var mnemonic = "drive apart drift unable flame crouch champion elephant injury board asthma peasant";

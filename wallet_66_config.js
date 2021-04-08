@@ -1,1 +1,1 @@
-var mnemonic = "behind wool cancel obvious delay obscure wrist recipe what people merge process";
+var mnemonic = "tortoise vicious segment awkward catalog soon crime traffic diesel already measure yard";

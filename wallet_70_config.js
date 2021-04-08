@@ -1,1 +1,1 @@
-var mnemonic = "phrase error hurdle rude rose item hair video injury hold valley file";
+var mnemonic = "trouble giant ball canyon plate tower warfare swarm census craft casual stand";

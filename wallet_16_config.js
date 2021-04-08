@@ -1,1 +1,1 @@
-var mnemonic = "duty quick photo intact absent buffalo veteran lazy punch chicken stem lazy";
+var mnemonic = "transfer odor kind finish toward boy move beef device aspect hold double";

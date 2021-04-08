@@ -1,1 +1,1 @@
-var mnemonic = "jar melt genre identify rough shock vacuum annual material friend tooth scale";
+var mnemonic = "convince film light puzzle arch sense liar heart half absorb lawn debate";

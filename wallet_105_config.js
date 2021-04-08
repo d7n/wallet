@@ -1,1 +1,1 @@
-var mnemonic = "stove voyage same hundred genuine height vapor beauty review daughter broken question";
+var mnemonic = "apology arctic whisper light direct lobster lazy hole romance trouble practice come";

@@ -1,1 +1,1 @@
-var mnemonic = "either scissors word trap birth parade toast supply crater speak promote apple";
+var mnemonic = "switch rebel connect place silk wage trade negative margin scan save angle";

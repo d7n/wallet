@@ -1,1 +1,1 @@
-var mnemonic = "high educate text raven bachelor life alcohol state twin frozen rescue advice";
+var mnemonic = "version convince garage fault salute oppose cement consider verify climb review innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe canvas limb person toddler blur kingdom check sword sauce roast labor";
+var mnemonic = "carbon cabbage judge coconut volume firm below satisfy anxiety isolate obtain misery";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise coin shop pool expose water pistol protect gauge tooth duty vote";
+var mnemonic = "baby label mushroom vote spare such argue van remove cool purpose melt";

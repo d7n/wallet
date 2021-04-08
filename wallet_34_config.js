@@ -1,1 +1,1 @@
-var mnemonic = "simple giraffe mandate impulse luggage audit connect firm cushion blame play bread";
+var mnemonic = "gate derive salute arrange tuition party clay liberty can swamp chase lucky";

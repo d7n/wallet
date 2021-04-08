@@ -1,1 +1,1 @@
-var mnemonic = "shaft struggle comic subway rice survey obvious gold unique excite solar bounce";
+var mnemonic = "now coffee develop heart nuclear poem deposit impact kitchen guard danger turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "dry river awkward hospital abandon zero dose home course obey ridge shell";
+var mnemonic = "balance police milk escape earth result change cube welcome royal minute tree";

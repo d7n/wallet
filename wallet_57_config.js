@@ -1,1 +1,1 @@
-var mnemonic = "keep action rug suffer tip decorate tonight reflect abandon rule thing domain";
+var mnemonic = "eight bag divide travel shield ignore renew depth harbor dose capital accuse";

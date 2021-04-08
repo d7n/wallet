@@ -1,1 +1,1 @@
-var mnemonic = "imitate snap height mouse forget begin skate cage verify voice final seat";
+var mnemonic = "blouse clinic century feed mammal popular play pigeon solve bubble portion inspire";

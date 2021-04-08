@@ -1,1 +1,1 @@
-var mnemonic = "melt thing weather answer approve again october verb sauce explain mule bargain";
+var mnemonic = "grant monster goddess ramp super safe truly monitor various brisk stuff control";

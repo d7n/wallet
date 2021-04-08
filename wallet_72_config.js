@@ -1,1 +1,1 @@
-var mnemonic = "rice assume task east half report worth gift tell okay milk funny";
+var mnemonic = "dad cereal choice catch ramp sick fragile happy since error yellow elbow";

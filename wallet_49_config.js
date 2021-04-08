@@ -1,1 +1,1 @@
-var mnemonic = "baby best artist mom subway impulse settle immense various satoshi palace illegal";
+var mnemonic = "garage earth strategy visit shell shield power much taste tape vehicle security";

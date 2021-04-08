@@ -1,1 +1,1 @@
-var mnemonic = "spring mixed popular orient shield purse slam mail review sound excite slab";
+var mnemonic = "cherry window what holiday judge slam mad open chalk airport depth retreat";

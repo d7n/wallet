@@ -1,1 +1,1 @@
-var mnemonic = "wear frame range cereal protect bring frozen gauge you hire load zero";
+var mnemonic = "food range scale reopen alpha science cattle razor online alley merry camp";

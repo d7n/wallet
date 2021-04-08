@@ -1,1 +1,1 @@
-var mnemonic = "sure few lobster end flock equip record bag noise foam acid benefit";
+var mnemonic = "stool excite denial song report decide comic empower trial volume wave gloom";

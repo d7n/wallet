@@ -1,1 +1,1 @@
-var mnemonic = "only transfer throw chaos slot total hamster wash panel potato fury castle";
+var mnemonic = "crouch dawn observe dutch disorder soccer pass thing mind memory fall clump";

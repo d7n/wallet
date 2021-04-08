@@ -1,1 +1,1 @@
-var mnemonic = "drive asset toast goose moral saddle boy layer cash lion satisfy stock";
+var mnemonic = "illness shadow correct property address dog now more design property book fragile";

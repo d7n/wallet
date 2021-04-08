@@ -1,1 +1,1 @@
-var mnemonic = "hard design stock legal endless cushion style skin wagon drop label artwork";
+var mnemonic = "certain ritual peasant inspire access merit gallery transfer know wage club lonely";

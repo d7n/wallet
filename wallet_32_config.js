@@ -1,1 +1,1 @@
-var mnemonic = "possible chunk post sorry quit favorite return section museum volume method model";
+var mnemonic = "joy caught jeans person model animal flight amused collect puppy glare stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "gate lava supply author volcano identify gas hospital sting steak layer era";
+var mnemonic = "breeze describe bargain butter prepare great fold body ski shiver prevent shed";

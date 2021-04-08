@@ -1,1 +1,1 @@
-var mnemonic = "ride chicken chapter survey kit spike hedgehog fiction funny broken shrimp avocado";
+var mnemonic = "equip pave crouch fever inmate snow talent nothing rival grit camp uncle";

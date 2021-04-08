@@ -1,1 +1,1 @@
-var mnemonic = "jewel method smart glad remind mom melody puppy price exercise jazz drift";
+var mnemonic = "invest save prefer delay drip cupboard tube fish wet utility genre across";

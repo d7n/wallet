@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fault now portion coin exercise three easily improve bamboo alarm art";
+var mnemonic = "remain long hat leopard creek lyrics corn talent rebuild meat sibling pull";

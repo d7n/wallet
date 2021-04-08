@@ -1,1 +1,1 @@
-var mnemonic = "dragon ladder space recall neck inner expect narrow goat desk miss loan";
+var mnemonic = "pool wrestle tribe call argue auction piano render unknown nurse client soul";

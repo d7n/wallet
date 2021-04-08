@@ -1,1 +1,1 @@
-var mnemonic = "impulse dentist goose endless motor organ design artwork buzz enhance power enter";
+var mnemonic = "bench village follow ticket guide bird captain replace subway valley shoe spend";

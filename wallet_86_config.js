@@ -1,1 +1,1 @@
-var mnemonic = "order blouse buyer moment dwarf shove target wise domain renew pretty notice";
+var mnemonic = "deal fault want wait blanket barrel door cross joy frog vault grow";

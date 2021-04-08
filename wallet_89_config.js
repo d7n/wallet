@@ -1,1 +1,1 @@
-var mnemonic = "olive resist document radar keep alpha faint wheel devote journey debate senior";
+var mnemonic = "enhance bomb inhale afraid slow task slow creek dignity velvet congress coffee";

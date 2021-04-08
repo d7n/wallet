@@ -1,1 +1,1 @@
-var mnemonic = "obscure hedgehog aunt insane oxygen window modify reform sunset wise figure region";
+var mnemonic = "entire spike pluck gorilla train dirt maximum slide negative ignore endorse salute";

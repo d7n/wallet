@@ -1,1 +1,1 @@
-var mnemonic = "dawn fiscal federal begin neutral brown oak impose physical talk exhaust aisle";
+var mnemonic = "blood odor animal fiction salon sick thumb clean suggest chunk tree tray";

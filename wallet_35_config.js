@@ -1,1 +1,1 @@
-var mnemonic = "funny spatial plug orphan space profit soft pole hungry secret woman dad";
+var mnemonic = "wink ribbon beyond pet month admit letter vessel embody lady churn link";

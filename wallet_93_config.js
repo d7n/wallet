@@ -1,1 +1,1 @@
-var mnemonic = "ripple scale flag above urban remember tongue mirror infant toss spread anxiety";
+var mnemonic = "excess obey bulb scorpion used barrel dynamic enlist kind tent void announce";

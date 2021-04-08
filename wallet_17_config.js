@@ -1,1 +1,1 @@
-var mnemonic = "only bullet toast usage envelope music purchase mimic slab roast broccoli shrug";
+var mnemonic = "visit divide grocery garment rent manage deposit thing tilt top crystal pet";

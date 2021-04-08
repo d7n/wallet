@@ -1,1 +1,1 @@
-var mnemonic = "carpet deal opinion benefit ill timber lava engage ethics eight fashion rice";
+var mnemonic = "churn bring wasp chimney funny test blush stadium fire acquire visa sting";

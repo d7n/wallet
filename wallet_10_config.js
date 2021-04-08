@@ -1,1 +1,1 @@
-var mnemonic = "number nature since news hat animal key love shoe rough jealous endless";
+var mnemonic = "cycle arrow cart salad home example million impulse degree human pulse engine";

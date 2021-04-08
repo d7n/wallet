@@ -1,1 +1,1 @@
-var mnemonic = "furnace path photo onion whip across charge bamboo dirt silly much table";
+var mnemonic = "false mimic trial possible observe bless defense rare series fiction hub spirit";

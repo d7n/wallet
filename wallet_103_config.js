@@ -1,1 +1,1 @@
-var mnemonic = "purpose fatigue meat suspect now ridge oppose menu clay trash path number";
+var mnemonic = "unique twice reopen sea culture lab portion gauge mechanic eye meat coconut";

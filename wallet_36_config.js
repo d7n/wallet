@@ -1,1 +1,1 @@
-var mnemonic = "water close lonely question reject spoon huge hello ostrich approve tornado soldier";
+var mnemonic = "visit silver merit tobacco odor bread venture globe since desert emotion movie";

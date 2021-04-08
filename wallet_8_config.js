@@ -1,1 +1,1 @@
-var mnemonic = "skin gasp hand seed sorry satisfy theory barrel subject off treat quality";
+var mnemonic = "pride jaguar invest ramp device foil riot custom liar village enact meadow";

@@ -1,1 +1,1 @@
-var mnemonic = "build hint grief gloom elder color demise uphold pink festival wall about";
+var mnemonic = "slot title desk warfare business theory toe happy elephant burger tent situate";

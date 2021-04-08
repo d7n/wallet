@@ -1,1 +1,1 @@
-var mnemonic = "surround slim science design tomato play reject tourist grunt trash oxygen sing";
+var mnemonic = "scatter immune doll switch great upper diary siege soup chair hip peanut";

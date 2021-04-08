@@ -1,1 +1,1 @@
-var mnemonic = "rebuild awkward submit monster buzz appear funny lecture inner fault castle judge";
+var mnemonic = "galaxy useless input tag deny short caught tell sort method today recipe";
