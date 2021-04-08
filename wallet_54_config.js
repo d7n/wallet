@@ -1,1 +1,1 @@
-var mnemonic = "consider warrior account phrase soon any green learn home praise gossip zebra";
+var mnemonic = "news print minute radar vendor gap vacuum rail impact raven always boat";

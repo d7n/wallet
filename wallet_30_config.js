@@ -1,1 +1,1 @@
-var mnemonic = "canal ivory border concert salad village era crunch category cream ocean oven";
+var mnemonic = "venture reunion attract genre pizza grant blush depart net remember pool disease";

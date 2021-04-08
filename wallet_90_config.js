@@ -1,1 +1,1 @@
-var mnemonic = "extend rug nothing inspire walnut foot thunder high panel vital smooth engage";
+var mnemonic = "clown shock creek diesel marine worry minimum talk capital good begin inspire";

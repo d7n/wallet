@@ -1,1 +1,1 @@
-var mnemonic = "concert slot decide large mother brown copper approve milk prefer say favorite";
+var mnemonic = "nominee pulp camera element absorb salmon box pipe nephew betray desert stick";

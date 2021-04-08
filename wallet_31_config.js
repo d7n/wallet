@@ -1,1 +1,1 @@
-var mnemonic = "fade pizza liar genre among tired bronze language label method tip route";
+var mnemonic = "later lumber cart adjust maple fantasy keep fix chunk actress squeeze own";

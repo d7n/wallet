@@ -1,1 +1,1 @@
-var mnemonic = "bind toward vessel sight cotton hub invest fluid agent fashion opinion supreme";
+var mnemonic = "other payment derive select enforce rich chair echo fall nominee brush pencil";

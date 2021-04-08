@@ -1,1 +1,1 @@
-var mnemonic = "property guitar brush across panda obey people begin clown treat approve exact";
+var mnemonic = "income rule fiction home above car engine connect impulse impose nurse ski";

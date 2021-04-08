@@ -1,1 +1,1 @@
-var mnemonic = "route layer hidden egg that funny trend gold era service sing parent";
+var mnemonic = "coach spider color produce clay innocent canvas song spring sing woman sausage";

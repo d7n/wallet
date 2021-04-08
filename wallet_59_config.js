@@ -1,1 +1,1 @@
-var mnemonic = "nice open cost blind tomato sting subject fence maple hybrid husband clarify";
+var mnemonic = "nice illegal list together breeze edge episode weapon riot deliver hard double";

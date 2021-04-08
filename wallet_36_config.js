@@ -1,1 +1,1 @@
-var mnemonic = "tooth search farm ketchup enforce member finger mask abandon cotton poet spot";
+var mnemonic = "supreme leg mercy lend size clock behind gloom ramp major hold damp";

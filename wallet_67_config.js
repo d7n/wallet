@@ -1,1 +1,1 @@
-var mnemonic = "left public artwork early faith churn bronze brisk right myself capital deputy";
+var mnemonic = "cruel peanut elite bar cost broken install fog loyal shop notice arrange";

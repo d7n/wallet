@@ -1,1 +1,1 @@
-var mnemonic = "bundle must surround universe vote this fog rely armor segment river man";
+var mnemonic = "crash estate era bench doctor hidden play pencil width wear lucky jelly";

@@ -1,1 +1,1 @@
-var mnemonic = "rally dentist monitor earn genre afraid eager arrest velvet embrace upon pitch";
+var mnemonic = "cup obtain enough human blood swing syrup parrot insane gasp arrest secret";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon sight tornado charge focus produce unique cute wish sleep finger act";
+var mnemonic = "beyond main manage brother cat motor window dinosaur daring pumpkin box license";

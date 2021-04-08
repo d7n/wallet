@@ -1,1 +1,1 @@
-var mnemonic = "media water glow business brass wear chuckle fix refuse element ostrich hard";
+var mnemonic = "sausage inside mercy science among eye response border artwork polar twist gown";

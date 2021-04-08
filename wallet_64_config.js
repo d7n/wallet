@@ -1,1 +1,1 @@
-var mnemonic = "accuse drill output ticket pipe panel good trumpet victory shoulder derive ring";
+var mnemonic = "rough nuclear fabric coach list teach throw pyramid combine anxiety loyal foam";

@@ -1,1 +1,1 @@
-var mnemonic = "payment squirrel tourist scatter arch joke person bicycle mad amused air acid";
+var mnemonic = "weapon oblige brand horse option easily update stone brain dust knee this";

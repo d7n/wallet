@@ -1,1 +1,1 @@
-var mnemonic = "trash exchange wreck original bench rotate click caution cigar truth text predict";
+var mnemonic = "loan discover machine target hour silk typical depend leopard bunker wrestle liar";

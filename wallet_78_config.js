@@ -1,1 +1,1 @@
-var mnemonic = "average pony when speak spirit friend shoe basket term envelope social swift";
+var mnemonic = "quality apart coffee steel romance lecture thumb art basket donkey engine deny";

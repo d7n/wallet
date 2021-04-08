@@ -1,1 +1,1 @@
-var mnemonic = "rally near paper sort essay victory crazy solid good faint elephant shoot";
+var mnemonic = "air always brisk cover dutch own rate ready pride into train annual";

@@ -1,1 +1,1 @@
-var mnemonic = "electric swim sustain burden also when adjust library situate rebel permit host";
+var mnemonic = "belt piano borrow smile found pyramid account window kitten flee vibrant other";

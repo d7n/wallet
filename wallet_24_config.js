@@ -1,1 +1,1 @@
-var mnemonic = "dune blouse scheme alcohol output abstract attitude cruel fox cereal utility hat";
+var mnemonic = "type weasel animal inquiry consider moon fantasy run doctor first chat final";

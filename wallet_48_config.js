@@ -1,1 +1,1 @@
-var mnemonic = "add harsh trophy hundred chat cricket time primary soon recycle tent buzz";
+var mnemonic = "rug worry speed whip clock sibling ball visual donkey scrap country fall";

@@ -1,1 +1,1 @@
-var mnemonic = "best medal atom guilt sand need device cloth survey drill unhappy wood";
+var mnemonic = "open person envelope glue barely note dog purchase pilot vintage defense deputy";

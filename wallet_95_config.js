@@ -1,1 +1,1 @@
-var mnemonic = "fluid admit rally veteran wing box make that sausage small dose source";
+var mnemonic = "endorse siege marine private drop brand virtual canoe isolate shed expire fresh";

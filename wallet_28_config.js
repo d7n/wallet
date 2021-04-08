@@ -1,1 +1,1 @@
-var mnemonic = "accident sentence bacon december walnut shop nasty alarm major sample own blanket";
+var mnemonic = "picture describe pelican knee diesel obey document skirt theme lemon token salon";

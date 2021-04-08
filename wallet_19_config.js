@@ -1,1 +1,1 @@
-var mnemonic = "pyramid slot thunder option shiver cherry dentist airport income orbit shiver genuine";
+var mnemonic = "cry same path trumpet exist paper worry push push record thank lawn";

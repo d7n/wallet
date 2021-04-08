@@ -1,1 +1,1 @@
-var mnemonic = "buyer next doctor crash love gossip fan baby become elephant theory insect";
+var mnemonic = "close remember tissue frost claw intact injury farm poet robust lady gloom";

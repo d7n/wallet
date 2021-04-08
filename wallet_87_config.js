@@ -1,1 +1,1 @@
-var mnemonic = "rocket amateur jungle mistake shine jar talk various donor few apple grant";
+var mnemonic = "village early rhythm oblige depart ahead minimum nation lake pattern pigeon vivid";

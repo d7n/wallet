@@ -1,1 +1,1 @@
-var mnemonic = "donkey sponsor once apple awesome history candy you miss display cause post";
+var mnemonic = "arrow way author uncle deposit work grid holiday space embark badge print";

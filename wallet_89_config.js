@@ -1,1 +1,1 @@
-var mnemonic = "dentist envelope cage day grain proof like phone analyst home boring december";
+var mnemonic = "mountain cup oppose quantum penalty sting machine slender mercy play speed midnight";

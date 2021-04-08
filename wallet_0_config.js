@@ -1,1 +1,1 @@
-var mnemonic = "dirt essay december group range biology bonus bamboo solid hotel erupt evolve";
+var mnemonic = "youth vacuum game someone toss inform arctic source garment parent hood engine";

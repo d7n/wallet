@@ -1,1 +1,1 @@
-var mnemonic = "online symbol grief clip vote kitchen pole toy fury mistake appear list";
+var mnemonic = "flock budget brave elevator blanket drip hole list empty alcohol deer salt";

@@ -1,1 +1,1 @@
-var mnemonic = "flight scene toast right youth orbit blush transfer entire heavy afraid festival";
+var mnemonic = "faith sell forget ensure isolate eternal name food crucial dose apology before";

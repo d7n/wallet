@@ -1,1 +1,1 @@
-var mnemonic = "evolve song flower river weasel butter work opera neither easily head snow";
+var mnemonic = "advance tide echo vital reject bulb milk rough laundry buyer unlock ridge";

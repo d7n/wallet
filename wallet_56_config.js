@@ -1,1 +1,1 @@
-var mnemonic = "crowd voyage pelican kingdom salon poem include increase broom coach carpet way";
+var mnemonic = "lizard area loan repeat train piano burger found donkey side weekend couple";

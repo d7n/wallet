@@ -1,1 +1,1 @@
-var mnemonic = "negative slow trick decide state true hidden wave style latin post tiger";
+var mnemonic = "promote depart charge hawk pause gadget route want frog learn famous adapt";

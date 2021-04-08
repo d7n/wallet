@@ -1,1 +1,1 @@
-var mnemonic = "hospital slide shed cigar shock dolphin risk ship betray alert observe pave";
+var mnemonic = "kick oppose town stand bless replace salmon picnic file blast squeeze metal";

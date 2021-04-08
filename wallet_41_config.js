@@ -1,1 +1,1 @@
-var mnemonic = "employ diesel glare gain update vast option brisk robust solar marriage club";
+var mnemonic = "doll canoe cart inherit tragic leaf eager penalty hospital orchard correct mirror";

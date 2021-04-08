@@ -1,1 +1,1 @@
-var mnemonic = "dignity lecture rather news kiwi drift seed twist solar replace casino law";
+var mnemonic = "cactus sentence truth catch popular add remain drum laugh receive invite dance";

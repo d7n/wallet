@@ -1,1 +1,1 @@
-var mnemonic = "guide hunt spider knee raven test mistake journey submit taste detail diamond";
+var mnemonic = "either hedgehog clip banana sleep exclude polar pole impact anchor nerve lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "casino source plug flight stadium monster girl swing friend milk couple stove";
+var mnemonic = "bike april admit check era alpha endless initial frozen tide same hill";

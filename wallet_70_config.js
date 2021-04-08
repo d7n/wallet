@@ -1,1 +1,1 @@
-var mnemonic = "elite history visit virus derive boring clown eight behave come era ramp";
+var mnemonic = "crop knee antenna document ahead aerobic chair shallow metal puppy alarm comfort";

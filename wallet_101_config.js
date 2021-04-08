@@ -1,1 +1,1 @@
-var mnemonic = "punch myself gain gym fatal spoon double sort neglect need cabbage famous";
+var mnemonic = "defense slight solid corn boy typical prevent impact claw uphold unaware keep";

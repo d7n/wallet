@@ -1,1 +1,1 @@
-var mnemonic = "hungry help toss minute cattle soccer leg must cat reduce stay govern";
+var mnemonic = "foam rough hair doll identify hope verb stairs record movie very corn";

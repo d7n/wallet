@@ -1,1 +1,1 @@
-var mnemonic = "cradle basket end torch push asthma mango convince stadium tragic record flush";
+var mnemonic = "share vote depart satisfy rookie coach gadget own vivid woman ship approve";

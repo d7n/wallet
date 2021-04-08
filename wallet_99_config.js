@@ -1,1 +1,1 @@
-var mnemonic = "planet pretty much autumn seek habit sign jewel giggle ramp text maximum";
+var mnemonic = "bind rebel pretty delay roast demise black farm merry surround dragon wish";

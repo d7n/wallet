@@ -1,1 +1,1 @@
-var mnemonic = "treat secret slow powder riot tragic embrace guitar please prize burden reform";
+var mnemonic = "gadget again seek coast shock other century leave maze waste type ancient";

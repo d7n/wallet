@@ -1,1 +1,1 @@
-var mnemonic = "wolf field chimney pudding calm series initial code grain awake own motor";
+var mnemonic = "motor ladder federal foster pole depth quality slice edit nose sting allow";

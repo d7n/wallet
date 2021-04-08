@@ -1,1 +1,1 @@
-var mnemonic = "tortoise field exile relax relief spell gift stay believe zero predict cheap";
+var mnemonic = "parrot public tornado isolate true tenant champion health grass ghost zoo ancient";

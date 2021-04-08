@@ -1,1 +1,1 @@
-var mnemonic = "feature gospel attract misery close elevator width build soda uncle judge focus";
+var mnemonic = "champion curious viable neglect patient welcome shuffle tongue wear orbit pulp close";

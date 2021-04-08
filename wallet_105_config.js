@@ -1,1 +1,1 @@
-var mnemonic = "length steel involve victory scene hazard lady problem sell off echo budget";
+var mnemonic = "waste nasty lift finger shoe allow valve frown frost dress mule opinion";

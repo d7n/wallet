@@ -1,1 +1,1 @@
-var mnemonic = "marine color error sunny cargo silk canal vault magnet remember crisp uniform";
+var mnemonic = "tank give now word air develop shuffle network damp kangaroo quarter place";

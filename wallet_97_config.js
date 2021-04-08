@@ -1,1 +1,1 @@
-var mnemonic = "prosper sea found uncle obscure hollow together world ready major retire armed";
+var mnemonic = "ring labor vendor bounce conduct tonight sister dry deal pink pistol negative";

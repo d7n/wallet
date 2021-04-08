@@ -1,1 +1,1 @@
-var mnemonic = "genius absorb elder choose day speed ethics object odor brush warm unique";
+var mnemonic = "lyrics trumpet gravity lottery sentence bonus evidence birth forest share domain luggage";

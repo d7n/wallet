@@ -1,1 +1,1 @@
-var mnemonic = "total struggle concert promote neither approve tomorrow level strategy tone satisfy quit";
+var mnemonic = "barely slight fire eagle slide urban neither chapter escape any mom exercise";

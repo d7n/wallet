@@ -1,1 +1,1 @@
-var mnemonic = "nuclear salute wear safe reduce camp play hawk very ivory ignore side";
+var mnemonic = "fancy news connect hover hurt figure nut depend plastic govern organ box";

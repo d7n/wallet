@@ -1,1 +1,1 @@
-var mnemonic = "curve elbow success patch absurd toddler way finish short jewel squeeze woman";
+var mnemonic = "unique final bridge tone worth chaos sugar joke trumpet extra twice resemble";

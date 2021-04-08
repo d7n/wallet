@@ -1,1 +1,1 @@
-var mnemonic = "face weasel helmet permit exclude flee minimum trap pepper suspect vendor pretty";
+var mnemonic = "guitar alpha question oven false open stomach medal canal spoil hidden tide";

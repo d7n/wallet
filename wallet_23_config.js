@@ -1,1 +1,1 @@
-var mnemonic = "cream account code enemy dish mask tongue legend finger excuse little thought";
+var mnemonic = "flock sound dynamic ahead problem flat join click scatter dial harsh much";

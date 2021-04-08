@@ -1,1 +1,1 @@
-var mnemonic = "bargain thing fury tiger ten connect area venture acquire sauce purchase slot";
+var mnemonic = "fatal replace enhance total dilemma goose have cream rail win setup quick";

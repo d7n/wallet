@@ -1,1 +1,1 @@
-var mnemonic = "pear distance leopard action hunt faith junk screen blush mountain churn spin";
+var mnemonic = "gentle region damage park end parent shrimp couch old rough mammal fish";

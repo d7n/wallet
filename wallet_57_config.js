@@ -1,1 +1,1 @@
-var mnemonic = "melt silver crouch deny pulse wide embark love pole fantasy dismiss useful";
+var mnemonic = "hand bronze special life screen segment quiz elegant giraffe gadget soup bless";

@@ -1,1 +1,1 @@
-var mnemonic = "night series raw mention isolate ozone put catalog twice dog used ticket";
+var mnemonic = "develop record edit spend foot picnic tree stage busy invite elegant service";

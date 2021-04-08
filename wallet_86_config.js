@@ -1,1 +1,1 @@
-var mnemonic = "coyote hobby behind defense fly lake muffin ankle merry mammal coast winter";
+var mnemonic = "because cabin blade human unlock valley skull curve excuse seminar horror project";

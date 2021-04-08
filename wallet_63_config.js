@@ -1,1 +1,1 @@
-var mnemonic = "empty escape tape tiny runway spoon select rather garden hurdle umbrella story";
+var mnemonic = "orient wait wolf route recycle hockey child pumpkin demise vanish confirm denial";

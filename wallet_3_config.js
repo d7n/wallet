@@ -1,1 +1,1 @@
-var mnemonic = "sort list arrow squeeze raccoon blind engine zero region youth upper awesome";
+var mnemonic = "shift legal improve used odor trip turtle bike family jar fork across";

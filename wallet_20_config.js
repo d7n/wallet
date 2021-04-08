@@ -1,1 +1,1 @@
-var mnemonic = "half magic lunch giraffe bicycle brave hat clap kingdom family message aisle";
+var mnemonic = "suggest water banner power person retire unveil hedgehog detect mom topic inch";

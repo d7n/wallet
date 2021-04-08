@@ -1,1 +1,1 @@
-var mnemonic = "urban upset dizzy lobster illness uncover sorry correct delay repeat total skate";
+var mnemonic = "patch width confirm wheat soup drink now gap harvest sort cliff insect";

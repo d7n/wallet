@@ -1,1 +1,1 @@
-var mnemonic = "quick swallow wine ridge mistake wall brass visa wealth you alarm leg";
+var mnemonic = "wing pet wife bottom there glance harsh maze sauce recall box valley";

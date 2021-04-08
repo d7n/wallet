@@ -1,1 +1,1 @@
-var mnemonic = "harbor useful there shove toward thought more tunnel unaware either return father";
+var mnemonic = "rapid trophy yellow curve media ensure visual reopen advance raise sick fruit";

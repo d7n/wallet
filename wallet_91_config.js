@@ -1,1 +1,1 @@
-var mnemonic = "humble ramp outdoor eyebrow summer festival pulse monitor become fan rival frost";
+var mnemonic = "party invite ready start kidney public social funny citizen minute caution way";

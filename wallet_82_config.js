@@ -1,1 +1,1 @@
-var mnemonic = "toddler produce expand economy blossom blade topic maple deny grocery foil firm";
+var mnemonic = "lawsuit friend valid grant trigger vivid frozen trick vicious twelve disorder high";

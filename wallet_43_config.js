@@ -1,1 +1,1 @@
-var mnemonic = "table velvet energy stone fantasy general school evoke network dinner begin black";
+var mnemonic = "dry broccoli victory enemy auto autumn share fat social ten nominee approve";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft drip twelve word wrong exercise giggle total end dose stomach flat";
+var mnemonic = "pyramid bind bench sketch dilemma nominee camera source lion invest south bronze";

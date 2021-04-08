@@ -1,1 +1,1 @@
-var mnemonic = "group wild slender travel arm world width grass ticket sudden deer crash";
+var mnemonic = "inch filter celery right direct accuse hand onion muscle width solar skirt";

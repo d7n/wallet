@@ -1,1 +1,1 @@
-var mnemonic = "goose book gentle spirit reopen blossom umbrella analyst text guitar nut patch";
+var mnemonic = "scale over credit bounce lava arm denial what elegant where start bacon";

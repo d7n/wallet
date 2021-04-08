@@ -1,1 +1,1 @@
-var mnemonic = "index student melt mixed rubber discover nasty sponsor unknown affair board strong";
+var mnemonic = "evolve scissors mobile garlic where damp talent donate present advance nose potato";

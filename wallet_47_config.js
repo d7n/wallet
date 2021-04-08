@@ -1,1 +1,1 @@
-var mnemonic = "tree biology club okay prosper measure argue capable corn paper mobile aim";
+var mnemonic = "pipe tank patch horn caught diamond strike skin image success first chuckle";

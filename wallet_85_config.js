@@ -1,1 +1,1 @@
-var mnemonic = "stumble first like accuse social uniform unaware decrease rookie rebuild pig congress";
+var mnemonic = "ecology scrap rent boy breeze argue crush mountain two breeze resource better";

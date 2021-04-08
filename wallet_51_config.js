@@ -1,1 +1,1 @@
-var mnemonic = "garage best eagle invite spell truck usual omit manage bridge menu joy";
+var mnemonic = "school wonder usual spice wish pumpkin clog tube tissue acoustic praise track";

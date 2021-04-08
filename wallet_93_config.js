@@ -1,1 +1,1 @@
-var mnemonic = "holiday mouse debris regret you purse thrive blue crumble country climb gallery";
+var mnemonic = "left clap nerve deny spy hedgehog balance marine video service cover announce";

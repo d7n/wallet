@@ -1,1 +1,1 @@
-var mnemonic = "since grain bounce prosper bread venture melt stand carry lady moon method";
+var mnemonic = "fancy memory asthma autumn bright drum spirit either keep demise excuse person";

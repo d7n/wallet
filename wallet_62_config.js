@@ -1,1 +1,1 @@
-var mnemonic = "huge wheel puppy polar heart steak toy that bar code genius hammer";
+var mnemonic = "faith kitchen useless pudding network reduce burst someone pole famous emerge predict";

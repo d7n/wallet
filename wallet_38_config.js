@@ -1,1 +1,1 @@
-var mnemonic = "catalog bamboo penalty slow crash permit jaguar visa move tide material creek";
+var mnemonic = "merit nuclear clever speak dress canoe nest theme purpose image essay news";

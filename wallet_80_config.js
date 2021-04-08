@@ -1,1 +1,1 @@
-var mnemonic = "style play spot auto bless mimic pulp output arctic win economy age";
+var mnemonic = "hedgehog adapt join velvet below track bacon include snake skate tennis vague";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese hurt verb runway wine whisper noble heavy negative latin supply dismiss";
+var mnemonic = "regret there inch museum wrist current brisk clump same type easy armor";

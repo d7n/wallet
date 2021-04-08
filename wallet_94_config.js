@@ -1,1 +1,1 @@
-var mnemonic = "cause aware surprise water project write loud noise artefact annual real input";
+var mnemonic = "expand tongue plug audit detail dawn narrow celery afford hungry enhance mandate";
