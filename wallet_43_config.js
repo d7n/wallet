@@ -1,1 +1,1 @@
-var mnemonic = "wasp educate piano universe original coconut into grant solution fashion fame essay";
+var mnemonic = "permit century wave erupt peanut tortoise crime lamp dish today cat fold";

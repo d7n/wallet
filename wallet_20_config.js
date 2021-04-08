@@ -1,1 +1,1 @@
-var mnemonic = "cupboard biology fan nest state sniff rival kind assault fossil scheme fold";
+var mnemonic = "crater twist can market nurse exercise lend measure tornado provide hedgehog gravity";

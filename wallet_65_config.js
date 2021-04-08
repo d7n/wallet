@@ -1,1 +1,1 @@
-var mnemonic = "spring field pond long insane author shed humor language vocal layer piano";
+var mnemonic = "what rare siege baby shoe uniform state radar subject other letter win";

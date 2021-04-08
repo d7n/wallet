@@ -1,1 +1,1 @@
-var mnemonic = "frog business tuna daughter belt reveal hamster height coach security mix fiscal";
+var mnemonic = "crazy slow eager choose people entry purse cupboard double source march welcome";

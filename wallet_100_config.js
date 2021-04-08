@@ -1,1 +1,1 @@
-var mnemonic = "fly crime beyond parade ridge surge pulp stable review length cousin exotic";
+var mnemonic = "sauce repeat exhaust hen rule know pride various execute crystal review exit";

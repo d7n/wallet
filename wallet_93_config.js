@@ -1,1 +1,1 @@
-var mnemonic = "lottery wealth hollow age dress milk shrug weapon people reduce banner inhale";
+var mnemonic = "eternal worth empower cool neck weasel rare produce century twenty tide cube";

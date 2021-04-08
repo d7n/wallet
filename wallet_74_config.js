@@ -1,1 +1,1 @@
-var mnemonic = "case manage oil certain suspect cup heart copper cement century wool must";
+var mnemonic = "domain boil right winner matrix smart ahead play whale rib gain lounge";

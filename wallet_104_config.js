@@ -1,1 +1,1 @@
-var mnemonic = "filter hollow magic space humor foster wink sock stuff frequent hotel shuffle";
+var mnemonic = "vehicle wrap artefact arrest faculty auction slim captain grief spy butter surprise";

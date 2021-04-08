@@ -1,1 +1,1 @@
-var mnemonic = "enact hazard chuckle equip enforce label cherry reunion census control bird reopen";
+var mnemonic = "assume put weird horse crystal elder blush wealth quiz museum tenant keep";

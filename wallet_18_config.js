@@ -1,1 +1,1 @@
-var mnemonic = "mammal goddess bean piece maple unknown clog pitch dinner balcony speak surround";
+var mnemonic = "urban machine spin question salon spoil armor mutual broken polar sponsor tobacco";

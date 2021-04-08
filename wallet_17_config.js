@@ -1,1 +1,1 @@
-var mnemonic = "submit certain mango wool wash result used adapt youth priority high earn";
+var mnemonic = "expect taxi small tool water slow damage maple seek knock judge public";

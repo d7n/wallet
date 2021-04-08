@@ -1,1 +1,1 @@
-var mnemonic = "onion puppy empower whale claim layer lazy march escape voice kid powder";
+var mnemonic = "rude search upgrade system bicycle practice length joy remember coil quick broccoli";

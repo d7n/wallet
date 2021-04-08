@@ -1,1 +1,1 @@
-var mnemonic = "bread yellow pioneer lamp all wrong swap robust dice bunker shock fragile";
+var mnemonic = "tomorrow turn planet attend drama much achieve report tobacco sister pear volcano";

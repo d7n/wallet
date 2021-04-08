@@ -1,1 +1,1 @@
-var mnemonic = "grace birth copy eagle flush clean special camera gravity build task exit";
+var mnemonic = "future material upper pluck tuition frog luggage ticket funny sight subject cement";

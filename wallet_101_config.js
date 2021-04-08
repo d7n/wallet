@@ -1,1 +1,1 @@
-var mnemonic = "erase female capital exercise jaguar card pet great tape sketch wreck file";
+var mnemonic = "scrub much chat actor trigger arrest coffee long shield rescue enforce genre";

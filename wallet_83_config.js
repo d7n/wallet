@@ -1,1 +1,1 @@
-var mnemonic = "address maid festival minor laptop grow hidden trust chicken scrub traffic suffer";
+var mnemonic = "reopen spike horn cigar rubber clock crack muffin accident vault tourist indoor";

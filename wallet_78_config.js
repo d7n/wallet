@@ -1,1 +1,1 @@
-var mnemonic = "tonight rebuild dog viable off material paper mean piano leisure observe rare";
+var mnemonic = "leg gallery art amazing hour error million demand mandate below museum bleak";

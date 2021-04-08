@@ -1,1 +1,1 @@
-var mnemonic = "eagle almost ecology veteran century crunch brick ridge planet entry pilot latin";
+var mnemonic = "kind nation caught suspect unveil steak rifle brief before replace mimic viable";

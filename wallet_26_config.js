@@ -1,1 +1,1 @@
-var mnemonic = "imitate call unable gloom rely tower awesome toward mobile heavy tourist tank";
+var mnemonic = "rapid blind aisle dinner tumble load exclude kite false deal turn evil";

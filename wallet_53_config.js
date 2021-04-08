@@ -1,1 +1,1 @@
-var mnemonic = "ignore sense airport shrug comfort puzzle allow spike manage version quantum rug";
+var mnemonic = "sleep ask sudden subject odor typical grab dune easily sound renew thank";

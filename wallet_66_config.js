@@ -1,1 +1,1 @@
-var mnemonic = "reunion video main damage awesome tobacco drill absent hub board galaxy enable";
+var mnemonic = "tackle elite punch mimic crucial lemon cute thank black corn base aspect";

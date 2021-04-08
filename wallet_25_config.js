@@ -1,1 +1,1 @@
-var mnemonic = "foster because toe soul ribbon help betray raw brush tray they mansion";
+var mnemonic = "tissue flower grocery meadow cupboard ahead square style photo lounge music expire";

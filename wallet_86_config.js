@@ -1,1 +1,1 @@
-var mnemonic = "secret bonus chuckle faculty truck beauty sleep cake brain rival maid dry";
+var mnemonic = "badge crumble window comic fruit plug convince tonight enter flip awful race";

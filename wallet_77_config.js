@@ -1,1 +1,1 @@
-var mnemonic = "sort drill boring room over drum can best burden scare frown harbor";
+var mnemonic = "tissue foot because neutral initial thank off clay relief story until noble";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy motion pupil expect pave any diesel doll lonely pattern frozen legal";
+var mnemonic = "visa target figure reform sister bacon agent jeans pilot follow delay boost";

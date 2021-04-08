@@ -1,1 +1,1 @@
-var mnemonic = "country crouch voyage whip purse drama tray sample retire soldier cloud shield";
+var mnemonic = "warm same predict midnight earn purpose angry flee install panther wealth clock";

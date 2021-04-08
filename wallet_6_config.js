@@ -1,1 +1,1 @@
-var mnemonic = "snack junk zero measure security brass black exchange razor sort effort napkin";
+var mnemonic = "fall excess arena twelve market critic blind wine ozone model cricket need";

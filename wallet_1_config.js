@@ -1,1 +1,1 @@
-var mnemonic = "pelican drum edit found toss void coffee glove garden canvas genuine giant";
+var mnemonic = "lunar upon build rebuild grit bread behind material reduce casino elbow ozone";

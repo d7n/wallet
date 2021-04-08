@@ -1,1 +1,1 @@
-var mnemonic = "roof scissors accident wait unusual rude badge boost yard equal leaf vehicle";
+var mnemonic = "fee liar apple canyon mosquito camera print embody capable wrong rice basic";

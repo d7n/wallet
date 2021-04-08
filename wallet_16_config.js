@@ -1,1 +1,1 @@
-var mnemonic = "behave another boost auto quality naive tide veteran thunder square monkey iron";
+var mnemonic = "voice problem jar photo hurt prevent upset sure boat depth exact smile";

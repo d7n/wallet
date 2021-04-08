@@ -1,1 +1,1 @@
-var mnemonic = "deer acid truth million protect assist fatal oblige relax tide feed have";
+var mnemonic = "rigid leave power kind canyon lemon minute lend kit valid frozen gadget";

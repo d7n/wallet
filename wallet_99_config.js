@@ -1,1 +1,1 @@
-var mnemonic = "flush mouse scissors shuffle hip lesson easily extra live retreat about skate";
+var mnemonic = "vehicle butter win cost middle green member logic crime machine brush assume";

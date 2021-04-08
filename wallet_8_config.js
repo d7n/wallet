@@ -1,1 +1,1 @@
-var mnemonic = "excuse private inner error artist liar light obscure parade age cousin loud";
+var mnemonic = "fantasy ostrich fish split artist vast visit globe resource right oval south";

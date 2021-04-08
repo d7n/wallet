@@ -1,1 +1,1 @@
-var mnemonic = "option outside lawn buffalo above stone actual hamster nerve exchange quality acid";
+var mnemonic = "enrich help mom service tomato earn green twelve field danger fury lake";

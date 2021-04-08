@@ -1,1 +1,1 @@
-var mnemonic = "evil afraid vintage permit oval chef pigeon medal book giggle toy awkward";
+var mnemonic = "pepper monster table night odor monitor curve glare stomach similar shine beach";

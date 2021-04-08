@@ -1,1 +1,1 @@
-var mnemonic = "pull usual over blue photo door punch once lounge tongue across drastic";
+var mnemonic = "tobacco hazard despair wrestle angle switch person warfare armed rebel type dash";

@@ -1,1 +1,1 @@
-var mnemonic = "rent setup arrow own blanket swear gain cave quarter clay claim frequent";
+var mnemonic = "kite plastic hard number defense brick slush what drip sure gather embark";

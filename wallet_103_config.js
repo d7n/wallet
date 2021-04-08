@@ -1,1 +1,1 @@
-var mnemonic = "blade myself axis wagon cram bamboo slot admit robust crisp jar try";
+var mnemonic = "year anxiety cat biology enemy gun table boat rack clay fuel volume";

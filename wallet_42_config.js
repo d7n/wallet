@@ -1,1 +1,1 @@
-var mnemonic = "crater elegant settle call buddy sock danger cause destroy protect expect rural";
+var mnemonic = "eternal point struggle earth lumber write view sure inflict nurse blanket among";

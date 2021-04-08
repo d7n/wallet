@@ -1,1 +1,1 @@
-var mnemonic = "absorb glare smooth excite question wagon warfare plug gold can iron glove";
+var mnemonic = "tattoo domain crater memory shiver autumn word marine cover maze lecture judge";

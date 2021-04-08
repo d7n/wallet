@@ -1,1 +1,1 @@
-var mnemonic = "real talk sword candy soda border dust math citizen plastic student limit";
+var mnemonic = "utility nose able cruel good kingdom will elegant bitter since blanket pole";

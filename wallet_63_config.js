@@ -1,1 +1,1 @@
-var mnemonic = "sentence ship panda tiger alter excite love rubber thunder trash sheriff undo";
+var mnemonic = "catalog trash purity upset nasty million reform cake fancy food opinion cigar";

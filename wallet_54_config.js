@@ -1,1 +1,1 @@
-var mnemonic = "eager embody census occur tuna festival fatal unknown jewel frost stable city";
+var mnemonic = "gesture already behave excess biology floor oppose supreme hover crane walnut cupboard";

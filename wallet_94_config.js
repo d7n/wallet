@@ -1,1 +1,1 @@
-var mnemonic = "pause limb much artwork solid skin review blue plastic coin special call";
+var mnemonic = "distance find crack follow faith jaguar moon when bridge found swear immune";

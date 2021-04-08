@@ -1,1 +1,1 @@
-var mnemonic = "glass symptom march half base gossip explain pigeon giggle convince sing hundred";
+var mnemonic = "history seminar result betray valve pilot demise upon festival torch analyst polar";

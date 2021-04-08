@@ -1,1 +1,1 @@
-var mnemonic = "inmate absent miracle must butter cruise measure black able suffer boat cart";
+var mnemonic = "frozen lobster pony cover area message chicken hip verify rotate dad vital";

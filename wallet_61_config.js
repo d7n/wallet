@@ -1,1 +1,1 @@
-var mnemonic = "early lab naive puzzle moon diagram fall exclude only detail endorse mutual";
+var mnemonic = "minor please fat index auto adjust distance nephew front pizza lake cotton";

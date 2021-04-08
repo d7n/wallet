@@ -1,1 +1,1 @@
-var mnemonic = "garment old winter fog salute envelope body attend close suit actress hen";
+var mnemonic = "nation card mass lecture dwarf wish occur differ animal arrest visa burger";

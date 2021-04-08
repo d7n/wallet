@@ -1,1 +1,1 @@
-var mnemonic = "enable glass whip entire hundred picnic alone service twin pen buzz tattoo";
+var mnemonic = "inhale odor situate steak crack lift hazard allow swing rival shine fashion";

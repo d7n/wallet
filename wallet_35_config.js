@@ -1,1 +1,1 @@
-var mnemonic = "misery lava often timber human feed affair gift lecture panic elite happy";
+var mnemonic = "lawsuit message indicate scrap wash original identify attend spatial secret rate hobby";

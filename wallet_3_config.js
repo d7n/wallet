@@ -1,1 +1,1 @@
-var mnemonic = "connect glory popular plastic half motor reduce sort gaze example pottery grape";
+var mnemonic = "erupt obscure ocean shove twenty industry silk wide drink illegal great hard";

@@ -1,1 +1,1 @@
-var mnemonic = "ethics prize force silk such universe afford gravity yard arrest manage wear";
+var mnemonic = "draft antique repeat little snack sad symptom coral add heart goat novel";

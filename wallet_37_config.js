@@ -1,1 +1,1 @@
-var mnemonic = "project panda ten distance provide furnace mimic buzz orphan extra pottery slush";
+var mnemonic = "model vicious material rare duty hazard desert ribbon three vacuum dwarf approve";

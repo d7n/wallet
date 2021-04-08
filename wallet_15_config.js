@@ -1,1 +1,1 @@
-var mnemonic = "hub turkey laugh peace floor chunk net nut asthma soldier this concert";
+var mnemonic = "clap diesel sad double endless head lens pizza hill field response human";

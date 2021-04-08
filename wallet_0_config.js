@@ -1,1 +1,1 @@
-var mnemonic = "salt peanut cry marriage pigeon blast arm sick economy flight slush they";
+var mnemonic = "differ castle talent route sample actor extra damage bundle mad priority derive";

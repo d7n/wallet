@@ -1,1 +1,1 @@
-var mnemonic = "tail uniform very sadness glare blossom combine rapid peace ignore either tonight";
+var mnemonic = "rug friend derive naive lamp squeeze tomato smart guilt sail useless prepare";

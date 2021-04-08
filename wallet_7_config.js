@@ -1,1 +1,1 @@
-var mnemonic = "glide end strong stem spring private talk more body hungry deliver account";
+var mnemonic = "stadium worry security shiver sight bulk divide forget viable legend vicious around";

@@ -1,1 +1,1 @@
-var mnemonic = "pair gain distance weather audit cattle drift mule depend doll subway flash";
+var mnemonic = "pill mutual deal grit exhaust furnace torch force twist erase muffin forest";

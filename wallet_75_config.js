@@ -1,1 +1,1 @@
-var mnemonic = "inside fee valid pledge general charge physical master reform age cruel spend";
+var mnemonic = "decade keep donkey entry material clap vacant copper below guide foot word";

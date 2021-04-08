@@ -1,1 +1,1 @@
-var mnemonic = "pulse erode benefit frost increase main feed stand door coach drum surge";
+var mnemonic = "cream intact dizzy bean quit float rapid yard room slice fluid business";

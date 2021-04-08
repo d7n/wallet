@@ -1,1 +1,1 @@
-var mnemonic = "air wrap super chief wash sing solid once sun message basic solution";
+var mnemonic = "tongue joy apology lend friend dial other matter analyst example leave vivid";

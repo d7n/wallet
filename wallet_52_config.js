@@ -1,1 +1,1 @@
-var mnemonic = "various you announce among act harsh funny fat security perfect afraid used";
+var mnemonic = "help glory bench bullet kitten refuse army intact three news road remove";

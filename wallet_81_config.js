@@ -1,1 +1,1 @@
-var mnemonic = "nasty nice tired coil trash lock prison three voice impact paddle actual";
+var mnemonic = "acquire step spice cradle layer ski domain october second defense nice agree";

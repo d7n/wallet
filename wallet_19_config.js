@@ -1,1 +1,1 @@
-var mnemonic = "radar tuna problem gospel small major clown hint book hobby couple shift";
+var mnemonic = "loan foot kitten swarm hair major tomato power divide trumpet chest abstract";

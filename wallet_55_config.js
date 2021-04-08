@@ -1,1 +1,1 @@
-var mnemonic = "garden clutch minimum drama similar alarm scorpion cram fine blue proud renew";
+var mnemonic = "warm lake potato promote evoke swallow expect volcano auto shift flat hair";

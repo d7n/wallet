@@ -1,1 +1,1 @@
-var mnemonic = "kiss primary zebra round annual achieve velvet supreme make word age cart";
+var mnemonic = "limb lunch private install glide truth unaware lazy whale spider amount noodle";

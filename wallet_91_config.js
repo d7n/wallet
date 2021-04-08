@@ -1,1 +1,1 @@
-var mnemonic = "input push excite cage shock retreat lava reunion ugly wisdom dose number";
+var mnemonic = "foam exist fresh tide ritual mercy taste clip bridge ill merge enjoy";

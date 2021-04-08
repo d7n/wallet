@@ -1,1 +1,1 @@
-var mnemonic = "anger mountain paper fault area portion eagle fire inside oval bless wet";
+var mnemonic = "carry ramp beyond useful cute rifle zebra cereal chaos soup ramp sustain";

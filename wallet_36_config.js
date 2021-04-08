@@ -1,1 +1,1 @@
-var mnemonic = "dream van violin true father pupil ceiling secret scorpion enable fortune wolf";
+var mnemonic = "concert bamboo vote enact absent place toe soap twin coast scale addict";

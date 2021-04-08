@@ -1,1 +1,1 @@
-var mnemonic = "cry song magic enough coach half second grunt coffee trigger cover lock";
+var mnemonic = "memory next divide deny maid remove home boy digital vast cliff bean";

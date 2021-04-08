@@ -1,1 +1,1 @@
-var mnemonic = "laptop silly multiply child arch purchase feature behind loop found people glance";
+var mnemonic = "famous bridge clay scale mirror brass lion kidney collect current book exclude";

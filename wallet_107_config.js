@@ -1,1 +1,1 @@
-var mnemonic = "piano together ancient day gold empty slogan struggle congress tennis account orange";
+var mnemonic = "space tent among tobacco clay aunt clerk minor turtle spread fantasy canoe";

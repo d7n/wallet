@@ -1,1 +1,1 @@
-var mnemonic = "surface artist slight ability bid casual sudden claw empower print winner analyst";
+var mnemonic = "coral swim text lava drive shock token cruise know assume vapor grass";

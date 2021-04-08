@@ -1,1 +1,1 @@
-var mnemonic = "broccoli milk novel yellow will nut fall advance sunny reflect float resist";
+var mnemonic = "festival little velvet flight explain chase differ antique gaze zone bar version";

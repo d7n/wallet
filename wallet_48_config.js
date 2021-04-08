@@ -1,1 +1,1 @@
-var mnemonic = "clerk unfair live salmon earth spawn survey screen empower pony fossil lecture";
+var mnemonic = "fiscal uniform husband strike neck peace glass betray virtual civil vital awkward";

@@ -1,1 +1,1 @@
-var mnemonic = "grow drastic belt acid loan shallow super want slot meat income idea";
+var mnemonic = "man good nature over chuckle army spider fancy convince lend cushion slab";

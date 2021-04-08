@@ -1,1 +1,1 @@
-var mnemonic = "beauty mixture fiction remove tired thunder key shallow rib outdoor modify know";
+var mnemonic = "bus question loyal anger trend snow tumble razor palace artwork victory only";

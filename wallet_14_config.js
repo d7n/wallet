@@ -1,1 +1,1 @@
-var mnemonic = "team witness pitch awkward finger evil believe artist champion height fit title";
+var mnemonic = "say poverty there runway near weapon fatal result edit nephew predict juice";

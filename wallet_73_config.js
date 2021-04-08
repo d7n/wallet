@@ -1,1 +1,1 @@
-var mnemonic = "bacon once enjoy deliver dinosaur guilt concert piano orange any riot patch";
+var mnemonic = "brass merry great bitter false slot possible token exist item gloom smile";

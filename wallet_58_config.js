@@ -1,1 +1,1 @@
-var mnemonic = "pizza exit legal more vocal clerk host milk length almost evil evolve";
+var mnemonic = "august tag wire option comic valid warm rookie axis script lake normal";

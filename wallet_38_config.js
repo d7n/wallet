@@ -1,1 +1,1 @@
-var mnemonic = "blouse convince erase merit diary curve meadow ready repair slim crucial plate";
+var mnemonic = "rough notice old elite loyal space case plug potato utility winter popular";

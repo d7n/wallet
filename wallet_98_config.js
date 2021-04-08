@@ -1,1 +1,1 @@
-var mnemonic = "purse stem business submit school sand range apart such desert fringe arrive";
+var mnemonic = "abstract cloth carpet hollow rent brush exact shine like labor hazard vendor";

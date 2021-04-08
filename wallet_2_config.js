@@ -1,1 +1,1 @@
-var mnemonic = "other long permit faith auto mention baby abstract digital renew dust parade";
+var mnemonic = "nuclear warrior broom trash spend script never dragon chuckle excuse forward vapor";

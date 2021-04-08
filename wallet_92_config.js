@@ -1,1 +1,1 @@
-var mnemonic = "recall desert wrestle fortune gym sport clip toss slot man again magic";
+var mnemonic = "maximum mercy cereal boy symptom ice horse bind text govern strong way";

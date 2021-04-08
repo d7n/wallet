@@ -1,1 +1,1 @@
-var mnemonic = "ritual urban theory ridge weekend donkey rival lazy result deliver isolate sadness";
+var mnemonic = "melody estate broom proud bridge ladder crater transfer pig high left book";

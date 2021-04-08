@@ -1,1 +1,1 @@
-var mnemonic = "property green before core useful body amused reject alter lounge awesome lottery";
+var mnemonic = "early secret hard earn sauce negative remind street ethics tortoise vicious east";

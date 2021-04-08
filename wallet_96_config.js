@@ -1,1 +1,1 @@
-var mnemonic = "steel solar law lyrics candy echo pill sphere flavor mosquito amateur patch";
+var mnemonic = "join blade vintage valve silver front rigid exclude proof broccoli defense client";

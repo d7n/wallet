@@ -1,1 +1,1 @@
-var mnemonic = "device century lift lunar dog very minimum antique vibrant kick liar body";
+var mnemonic = "intact razor echo toward female million joke situate air fruit damage forum";

@@ -1,1 +1,1 @@
-var mnemonic = "hero echo include robust then hope similar nice license aspect range muscle";
+var mnemonic = "knee observe recipe excite act student author picture deputy soccer live slush";

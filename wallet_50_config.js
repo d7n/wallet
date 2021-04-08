@@ -1,1 +1,1 @@
-var mnemonic = "rose ceiling perfect curve shift profit math loyal erosion crumble work must";
+var mnemonic = "clip mistake broken host card awful split seek portion own weird crumble";

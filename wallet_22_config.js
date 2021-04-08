@@ -1,1 +1,1 @@
-var mnemonic = "clutch patrol wrestle amateur indicate hurry organ sight market pilot fitness honey";
+var mnemonic = "seed birth beef chat congress casino defy mass prize exclude auto ridge";

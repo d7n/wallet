@@ -1,1 +1,1 @@
-var mnemonic = "kid safe direct legal exotic where peasant post ahead garment ordinary daring";
+var mnemonic = "hint long sure normal okay toe image kiwi wagon elegant certain mixture";

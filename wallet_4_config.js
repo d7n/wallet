@@ -1,1 +1,1 @@
-var mnemonic = "caught dilemma prefer maid panel embrace weekend amused title royal seven copy";
+var mnemonic = "focus blade humble render bachelor cabbage sunny poem pluck stay chimney melt";

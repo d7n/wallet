@@ -1,1 +1,1 @@
-var mnemonic = "junior system strike online airport destroy pilot educate sail describe love apart";
+var mnemonic = "bitter repeat clip tissue ticket dumb invite throw left hedgehog keen chimney";
